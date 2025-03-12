@@ -8,9 +8,9 @@ As used in this subpart, the following definitions apply:
 
 *Common area.* Common areas are areas in the facility where residents may gather together with other residents, visitors, and staff or engage in individual pursuits, apart from their residential rooms. This includes but is not limited to living rooms, dining rooms, activity rooms, outdoor areas, and meeting rooms where residents are located on a regular basis.
 
-*Composite distinct part* - (1) *Definition.* A composite distinct part is a distinct part consisting of two or more noncontiguous components that are not located within the same campus, as defined in § 413.65(a)(2) of this chapter.
+*Composite distinct part*—(1) *Definition.* A composite distinct part is a distinct part consisting of two or more noncontiguous components that are not located within the same campus, as defined in § 413.65(a)(2) of this chapter.
 
-(2) *Requirements.* In addition to meeting the requirements of paragraph (b) of this section, a composite distinct part must meet all of the following requirements:
+(2) *Requirements.* In addition to meeting the requirements of specified in the definition of “distinct part” of this section, a composite distinct part must meet all of the following requirements:
 
 (i) A SNF or NF that is a composite of more than one location will be treated as a single distinct part of the institution of which it is a distinct part. As such, the composite distinct part will have only one provider agreement and only one provider number.
 
@@ -22,7 +22,7 @@ As used in this subpart, the following definitions apply:
 
 (v) Use of composite distinct parts to segregate residents by payment source or on a basis other than care needs is prohibited.
 
-*Distinct part* - (1) *Definition.* A distinct part SNF or NF is physically distinguishable from the larger institution or institutional complex that houses it, meets the requirements of this paragraph and of paragraph (b)(2) of this section, and meets the applicable statutory requirements for SNFs or NFs in sections 1819 or 1919 of the Act, respectively. A distinct part SNF or NF may be comprised of one or more buildings or designated parts of buildings (that is, wings, wards, or floors) that are: In the same physical area immediately adjacent to the institution's main buildings; other areas and structures that are not strictly contiguous to the main buildings but are located within close proximity of the main buildings; and any other areas that CMS determines on an individual basis, to be part of the institution's campus. A distinct part must include all of the beds within the designated area, and cannot consist of a random collection of individual rooms or beds that are scattered throughout the physical plant. The term “distinct part” also includes a composite distinct part that meets the additional requirements of paragraph (c) of this section.
+*Distinct part*—(1) *Definition.* A distinct part SNF or NF is physically distinguishable from the larger institution or institutional complex that houses it, meets the requirements of this paragraph and of paragraph (2) of this definition, and meets the applicable statutory requirements for SNFs or NFs in sections 1819 or 1919 of the Act, respectively. A distinct part SNF or NF may comprise one or more buildings or designated parts of buildings (that is, wings, wards, or floors) that are: In the same physical area immediately adjacent to the institution's main buildings; other areas and structures that are not strictly contiguous with the main buildings but are located within close proximity to the main buildings; and any other areas that CMS determines on an individual basis, to be part of the institution's campus. A distinct part must include all of the beds within the designated area, and cannot consist of a random collection of individual rooms or beds that are scattered throughout the physical plant. The term “distinct part” also includes a composite distinct part that meets the additional requirements specified in the definition of “composite distinct part” of this section.
 
 (2) *Requirements.* In addition to meeting the participation requirements for long-term care facilities set forth elsewhere in this subpart, a distinct part SNF or NF must meet all of the following requirements:
 
@@ -86,4 +86,4 @@ As used in this subpart, the following definitions apply:
 
 *Transfer and discharge* includes movement of a resident to a bed outside of the certified facility whether that bed is in the same physical plant or not. Transfer and discharge does not refer to movement of a resident to a bed within the same certified facility.
 
-[68 FR 46071, Aug. 4, 2003, as amended at 71 FR 39229, July 12, 2006; 71 FR 55340, Sept. 22, 2006; 79 FR 27155, May 12, 2014; 81 FR 68848, Oct. 4, 2016]
+[68 FR 46071, Aug. 4, 2003, as amended at 71 FR 39229, July 12, 2006; 71 FR 55340, Sept. 22, 2006; 79 FR 27155, May 12, 2014; 81 FR 68848, Oct. 4, 2016; 82 FR 32259, July 13, 2017]

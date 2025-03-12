@@ -16,7 +16,7 @@
 
 (vi) A system for identifying, reporting, investigating and controlling infections and communicable diseases of patients and personnel.
 
-(vii) Procedures that ensure that the nutritional needs of inpatients are met in accordance with recognized dietary practices and the orders of the practitioner responsible for the care of the patients, and that the requirement of § 483.25(d)(8) of this chapter is met with respect to inpatients receiving posthospital SNF care.
+(vii) Procedures that ensure that the nutritional needs of inpatients are met in accordance with recognized dietary practices and the orders of the practitioner responsible for the care of the patients, and that the requirement of § 483.25(g) of this chapter is met with respect to inpatients receiving posthospital SNF care.
 
 (4) These policies are reviewed at least annually by the group of professional personnel required under paragraph (a)(2) of this section, and reviewed as necessary by the CAH.
 
@@ -84,4 +84,4 @@
 
 (4) Ensure that all visitors enjoy full and equal visitation privileges consistent with patient preferences.
 
-[58 FR 30671, May 26, 1993; 58 FR 49935, Sept. 24, 1993, as amended at 59 FR 45403, Sept. 1, 1994; 62 FR 46037, Aug. 29, 1997; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 75 FR 70844, Nov. 19, 2010; 76 FR 25564, May 5, 2011; 77 FR 29076, May 16, 2012; 78 FR 50970, Aug. 19, 2013; 79 FR 27156, May 12, 2014; 81 FR 68871, Oct. 4, 2016]
+[58 FR 30671, May 26, 1993; 58 FR 49935, Sept. 24, 1993, as amended at 59 FR 45403, Sept. 1, 1994; 62 FR 46037, Aug. 29, 1997; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 75 FR 70844, Nov. 19, 2010; 76 FR 25564, May 5, 2011; 77 FR 29076, May 16, 2012; 78 FR 50970, Aug. 19, 2013; 79 FR 27156, May 12, 2014; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017]

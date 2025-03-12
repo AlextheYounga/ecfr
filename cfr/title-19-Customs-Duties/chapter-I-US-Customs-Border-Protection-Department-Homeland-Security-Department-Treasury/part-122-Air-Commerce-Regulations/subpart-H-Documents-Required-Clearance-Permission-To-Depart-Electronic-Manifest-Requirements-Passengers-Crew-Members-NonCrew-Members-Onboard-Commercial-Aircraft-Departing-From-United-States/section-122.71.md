@@ -6,14 +6,16 @@
 
 (i) Passengers for hire; or
 
-(ii) Non-commercial cargo for which Shipper's Export Declarations are not required.
+(ii) Non-commercial cargo for which Electronic Export Information (EEI) is not required.
 
-(2) If not cleared by telephone, an air cargo manifest containing the following statement, signed by the aircraft commander or agent, shall be submitted to Customs:
+(2) If not cleared by telephone, an air cargo manifest containing the following statement, signed by the aircraft commander or agent, must be submitted to CBP:
 
 I declare to the best of my knowledge and belief that there is no cargo on board this aircraft.
 
 Signature(Aircraft Commander or Agent)
 
-(b) *Timeliness.* The request for telephone clearance must be received by the Customs officer in charge with sufficient time remaining before departure to ensure that Customs may undertake any necessary examination of the aircraft and cargo.
+(b) *Timeliness.* The request for telephone clearance must be received by the CBP officer in charge with sufficient time remaining before departure to ensure that CBP may undertake any necessary examination of the aircraft and cargo.
 
 (c) *Documentation.* If clearance is granted by telephone, the aircraft commander is not required to file the documents required by this subpart.
+
+[T.D. 88-12, 53 FR 9292, Mar. 22, 1988, as amended by CBP Dec. 17-06, 82 FR 32238, July 13, 2017]

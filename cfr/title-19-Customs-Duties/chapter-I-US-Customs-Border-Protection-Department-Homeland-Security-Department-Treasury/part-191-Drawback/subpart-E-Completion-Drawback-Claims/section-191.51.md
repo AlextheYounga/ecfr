@@ -36,7 +36,7 @@ If 1,000 units of line item 2 were exported, the drawback attributable to the me
 
 (2) *Imports.* For imports, HTSUS numbers shall be provided from the entry summary(s) and other entry documentation, when the claimant is the importer of record, or from the certificate of delivery and/or the certificate of manufacture and delivery, otherwise. Manufacturing drawback claimants filing drawback claims based on certificate(s) of manufacture and delivery filed with the claims or previously filed with Customs (see paragraph (a) of this section), may meet this requirement with the HTSUS number(s) for the designated imported merchandise on such certificate(s).
 
-(3) *Exports.* For exports, the HTSUS number(s) or Schedule B commodity number(s) shall be from the Shipper's Export Declaration(s) (SEDs), when required. If no SED is required (see, e.g., 15 CFR 30.58), the claimant shall provide the Schedule B commodity number(s) or HTSUS number(s) that the exporter would have set forth on the SED, but for the exemption from the requirement for an SED.
+(3) *Exports.* For exports, the HTSUSA number(s) or Schedule B commodity classification number(s) must be from the Electronic Export Information (EEI), when required. If no EEI is required (see, e.g., 15 CFR 30.58), the claimant must provide the Schedule B commodity classification number(s) or HTSUSA number(s) that the exporter would have set forth in the EEI, but for the exemption from the requirement to file EEI.
 
 (4) *6-digit level for HTSUS and Schedule B commodity numbers.* The HTSUS numbers and Schedule B commodity numbers shall be stated to at least 6 digits.
 
@@ -54,4 +54,4 @@ If 1,000 units of line item 2 were exported, the drawback attributable to the me
 
 (3) *Record retention.* If an extension is granted with respect to a request filed under paragraph (e)(2)(ii) of this section, the periods of time for retaining records under 19 U.S.C. 1508(c)(3) shall be extended for an additional 18 months.
 
-[T.D. 98-16, 63 FR 11006, Mar. 5, 1998, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001; T.D. 01-18, 66 FR 9649, Feb. 9, 2001; T.D. 02-39, 67 FR 48548, July 25, 2002; CBP Dec. 04-33, 69 FR 60083, Oct. 7, 2004]
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001; T.D. 01-18, 66 FR 9649, Feb. 9, 2001; T.D. 02-39, 67 FR 48548, July 25, 2002; CBP Dec. 04-33, 69 FR 60083, Oct. 7, 2004; CBP Dec. 17-06, 82 FR 32239, July 13, 2017]

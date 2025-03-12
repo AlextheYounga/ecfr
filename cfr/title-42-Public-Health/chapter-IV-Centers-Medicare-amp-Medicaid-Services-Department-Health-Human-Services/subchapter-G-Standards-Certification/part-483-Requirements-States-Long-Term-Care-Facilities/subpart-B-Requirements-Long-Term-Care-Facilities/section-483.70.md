@@ -70,7 +70,7 @@ A facility must be administered in a manner that enables it to use its resources
 
 (ii) The coordination of medical care in the facility.
 
-(i) *Clinical records.* (1) In accordance with accepted professional standards and practices, the facility must maintain medical records on each resident that are -
+(i) *Medical records.* (1) In accordance with accepted professional standards and practices, the facility must maintain medical records on each resident that are -
 
 (i) Complete;
 
@@ -276,4 +276,4 @@ A facility must be administered in a manner that enables it to use its resources
 
 (5) *Submission schedule.* The facility must submit direct care staffing information on the schedule specified by CMS, but no less frequently than quarterly.
 
-[56 FR 48877, Sept. 26, 1991, as amended at 56 FR 48918, Sept. 26, 1991; 57 FR 7136, Feb. 28, 1992; 57 FR 43925, Sept. 23, 1992; 59 FR 56237, Nov. 10, 1994; 63 FR 26311, May 12, 1998; 68 FR 55539, Sept. 26, 2003; 74 FR 40363, Aug. 11, 2009; 76 FR 9511, Feb. 18, 2011; 78 FR 16805, Mar. 19, 2013; 78 FR 38605, June 27, 2013; 80 FR 46477, Aug. 4, 2015; 81 FR 64032, Sept. 16, 2016. Redesignated and amended at 81 FR 68861, 68865, Oct. 4, 2016]
+[56 FR 48877, Sept. 26, 1991, as amended at 56 FR 48918, Sept. 26, 1991; 57 FR 7136, Feb. 28, 1992; 57 FR 43925, Sept. 23, 1992; 59 FR 56237, Nov. 10, 1994; 63 FR 26311, May 12, 1998; 68 FR 55539, Sept. 26, 2003; 74 FR 40363, Aug. 11, 2009; 76 FR 9511, Feb. 18, 2011; 78 FR 16805, Mar. 19, 2013; 78 FR 38605, June 27, 2013; 80 FR 46477, Aug. 4, 2015; 81 FR 64032, Sept. 16, 2016. Redesignated and amended at 81 FR 68861, 68865, Oct. 4, 2016; 82 FR 32259, July 13, 2017]

@@ -10,10 +10,10 @@
 
 (4) Such facility has made and continues to make a good faith effort to comply with the more than 40-hour registered nurse requirement, but such compliance is impeded by the unavailability of registered nurses in the area.
 
-(b) *Waiver of medical director requirement.* To the extent that § 488.75(i) of this chapter requires any skilled nursing facility to engage the services of a medical director either part-time or full-time, the Secretary may waive such requirement for such periods as he deems appropriate if, based upon documented findings of the State agency, he determines that:
+(b) *Waiver of medical director requirement.* To the extent that § 483.70(h) of this chapter requires any skilled nursing facility to engage the services of a medical director either part-time or full-time, the Secretary may waive such requirement for such periods as he deems appropriate if, based upon documented findings of the State agency, he determines that:
 
 (1) Such facility is located in an area where the supply of physicians is not sufficient to permit compliance with this requirement without seriously reducing the availability of physician services within the area, and
 
-(2) Such facility has made and continues to make a good faith effort to comply with § 488.75(i) of this chapter, but such compliance is impeded by the unavailability of physicians in the area.
+(2) Such facility has made and continues to make a good faith effort to comply with § 483.70(h) of this chapter, but such compliance is impeded by the unavailability of physicians in the area.
 
-[39 FR 35777, Oct. 3, 1974. Redesignated and amended at 42 FR 52826, Sept. 30, 1977. Further redesignated and amended at 53 FR 23100, June 17, 1988, and further amended at 56 FR 48879, Sept. 26, 1991; 57 FR 43925, Sept. 23, 1992; 81 FR 68871, Oct. 4, 2016]
+[39 FR 35777, Oct. 3, 1974. Redesignated and amended at 42 FR 52826, Sept. 30, 1977. Further redesignated and amended at 53 FR 23100, June 17, 1988, and further amended at 56 FR 48879, Sept. 26, 1991; 57 FR 43925, Sept. 23, 1992; 81 FR 68871, Oct. 4, 2016; 82 FR 32260, July 13, 2017]

@@ -4,7 +4,7 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (a) *Procedures.* A facility must provide pharmaceutical services (including procedures that assure the accurate acquiring, receiving, dispensing, and administering of all drugs and biologicals) to meet the needs of each resident.
 
-(b) *Service consultation.* The facility must employ or obtain the services of a licensed pharmacist who -
+(b) *Service consultation.* The facility must employ or obtain the services of a licensed pharmacist who—
 
 (1) Provides consultation on all aspects of the provision of pharmacy services in the facility;
 
@@ -34,7 +34,9 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (iii) The attending physician must document in the resident's medical record that the identified irregularity has been reviewed and what, if any, action has been taken to address it. If there is to be no change in the medication, the attending physician should document his or her rationale in the resident's medical record.
 
-(d) *Unnecessary drugs - General.* Each resident's drug regimen must be free from unnecessary drugs. An unnecessary drug is any drug when used -
+(5) The facility must develop and maintain policies and procedures for the monthly drug regimen review that include, but are not limited to, time frames for the different steps in the process and steps the pharmacist must take when he or she identifies an irregularity that requires urgent action to protect the resident.
+
+(d) *Unnecessary drugs—General.* Each resident's drug regimen must be free from unnecessary drugs. An unnecessary drug is any drug when used—
 
 (1) In excessive dose (including duplicate drug therapy); or
 
@@ -48,7 +50,7 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (6) Any combinations of the reasons stated in paragraphs (d)(1) through (5) of this section.
 
-(e) *Psychotropic drugs.* Based on a comprehensive assessment of a resident, the facility must ensure that -
+(e) *Psychotropic drugs.* Based on a comprehensive assessment of a resident, the facility must ensure that—
 
 (1) Residents who have not used psychotropic drugs are not given these drugs unless the medication is necessary to treat a specific condition as diagnosed and documented in the clinical record;
 
@@ -60,7 +62,7 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (5) PRN orders for anti-psychotic drugs are limited to 14 days and cannot be renewed unless the attending physician or prescribing practitioner evaluates the resident for the appropriateness of that medication.
 
-(f) *Medication errors.* The facility must ensure that its -
+(f) *Medication errors.* The facility must ensure that its—
 
 (1) Medication error rates are not 5 percent or greater; and
 
@@ -72,4 +74,4 @@ The facility must provide routine and emergency drugs and biologicals to its res
 
 (2) The facility must provide separately locked, permanently affixed compartments for storage of controlled drugs listed in Schedule II of the Comprehensive Drug Abuse Prevention and Control Act of 1976 and other drugs subject to abuse, except when the facility uses single unit package drug distribution systems in which the quantity stored is minimal and a missing dose can be readily detected.
 
-[56 FR 48875, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992. Redesignated and amended at 81 FR 68861, 68863, Oct. 4, 2016]
+[56 FR 48875, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992. Redesignated and amended at 81 FR 68861, 68863, Oct. 4, 2016; 82 FR 32259, July 13, 2017]

@@ -2,7 +2,7 @@
 
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
-*Compliance and ethics program* means, with respect to a facility, a program of the operating organization that -
+*Compliance and ethics program* means, with respect to a facility, a program of the operating organization that—
 
 (1) Has been reasonably designed, implemented, and enforced so that it is likely to be effective in preventing and detecting criminal, civil, and administrative violations under the Act and in promoting quality of care; and
 
@@ -12,7 +12,7 @@
 
 *Operating organization* means the individual(s) or entity that operates a facility.
 
-(b) *General rule.* Beginning on November 28, 2017, the operating organization for each facility must have in operation a compliance and ethics program (as defined in paragraph (a) of this section) that meets the requirements of this section.
+(b) *General rule.* Beginning November 28, 2019, the operating organization for each facility must have in operation a compliance and ethics program (as defined in paragraph (a) of this section) that meets the requirements of this section.
 
 (c) *Required components for all facilities.* The operating organization for each facility must develop, implement, and maintain an effective compliance and ethics program that contains, at a minimum, the following components:
 
@@ -42,4 +42,4 @@
 
 (e) *Annual review.* The operating organization for each facility must review its compliance and ethics program annually and revise its program as needed to reflect changes in all applicable laws or regulations and within the operating organization and its facilities to improve its performance in deterring, reducing, and detecting violations under the Act and in promoting quality of care.
 
-[81 FR 68869, Oct. 4, 2016]
+[81 FR 68869, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]

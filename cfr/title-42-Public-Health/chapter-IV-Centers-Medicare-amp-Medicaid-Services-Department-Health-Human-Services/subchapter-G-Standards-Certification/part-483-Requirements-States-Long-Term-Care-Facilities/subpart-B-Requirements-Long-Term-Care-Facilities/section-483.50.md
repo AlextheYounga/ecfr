@@ -16,7 +16,7 @@
 
 (ii) Promptly notify the ordering physician, physician assistant, nurse practitioner, or clinical nurse specialist of laboratory results that fall outside of clinical reference ranges in accordance with facility policies and procedures for notification of a practitioner or per the ordering physician's orders.
 
-(iii) Assist the resident in making transportation arrangements to and from the source of service, if the resident needs asistance; and
+(iii) Assist the resident in making transportation arrangements to and from the source of service, if the resident needs assistance; and
 
 (iv) File in the resident's clinical record laboratory reports that are dated and contain the name and address of the testing laboratory.
 
@@ -36,4 +36,4 @@
 
 (iv) File in the resident's clinical record signed and dated reports of x-ray and other diagnostic services.
 
-[81 FR 68863, Oct. 4, 2016]
+[81 FR 68863, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]

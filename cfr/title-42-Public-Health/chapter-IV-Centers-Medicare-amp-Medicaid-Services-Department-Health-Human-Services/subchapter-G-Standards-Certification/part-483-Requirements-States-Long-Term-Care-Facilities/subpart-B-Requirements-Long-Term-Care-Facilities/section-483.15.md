@@ -2,7 +2,7 @@
 
 (a) *Admissions policy.* (1) The facility must establish and implement an admissions policy.
 
-(2) The facility must -
+(2) The facility must—
 
 (i) Not request or require residents or potential residents to waive their rights as set forth in this subpart and in applicable state, federal or local licensing or certification laws, including but not limited to their rights to Medicare or Medicaid; and
 
@@ -12,7 +12,7 @@
 
 (3) The facility must not request or require a third party guarantee of payment to the facility as a condition of admission or expedited admission, or continued stay in the facility. However, the facility may request and require a resident representative who has legal access to a resident's income or resources available to pay for facility care to sign a contract, without incurring personal financial liability, to provide facility payment from the resident's income or resources.
 
-(4) In the case of a person eligible for Medicaid, a nursing facility must not charge, solicit, accept, or receive, in addition to any amount otherwise required to be paid under the State plan, any gift, money, donation, or other consideration as a precondition of admission, expedited admission or continued stay in the facility. However, -
+(4) In the case of a person eligible for Medicaid, a nursing facility must not charge, solicit, accept, or receive, in addition to any amount otherwise required to be paid under the State plan, any gift, money, donation, or other consideration as a precondition of admission, expedited admission or continued stay in the facility. However,—
 
 (i) A nursing facility may charge a resident who is eligible for Medicaid for items and services the resident has requested and received, and that are not specified in the State plan as included in the term “nursing facility services” so long as the facility gives proper notice of the availability and cost of these services to residents and does not condition the resident's admission or continued stay on the request for and receipt of such additional services; and
 
@@ -22,15 +22,15 @@
 
 (6) A nursing facility must disclose and provide to a resident or potential resident prior to time of admission, notice of special characteristics or service limitations of the facility.
 
-(7) A nursing facility that is a composite distinct part as defined in § 483.5 must disclose in its admission agreement its physical configuration, including the various locations that comprise the composite distinct part, and must specify the policies that apply to room changes between its different locations under paragraph (b)(10) of this section.
+(7) A nursing facility that is a composite distinct part as defined in § 483.5 must disclose in its admission agreement its physical configuration, including the various locations that comprise the composite distinct part, and must specify the policies that apply to room changes between its different locations under paragraph (c)(9) of this section.
 
 (b) *Equal access to quality care.* (1) A facility must establish, maintain and implement identical policies and practices regarding transfer and discharge, as defined in § 483.5 and the provision of services for all individuals regardless of source of payment, consistent with § 483.10(a)(2);
 
-(2) The facility may charge any amount for services furnished to non-Medicaid residents unless otherwise limited by state law and consistent with the notice requirement in § 483.10(g)(3) and (g)(4)(i) describing the charges; and
+(2) The facility may charge any amount for services furnished to non-Medicaid residents unless otherwise limited by state law and consistent with the notice requirement in § 483.10(g)(18)(i) and (g)(4)(i) describing the charges; and
 
 (3) The State is not required to offer additional services on behalf of a resident other than services provided in the State plan.
 
-(c) *Transfer and discharge* - (1) *Facility requirements* - (i) The facility must permit each resident to remain in the facility, and not transfer or discharge the resident from the facility unless -
+(c) *Transfer and discharge*—(1) *Facility requirements*—(i) The facility must permit each resident to remain in the facility, and not transfer or discharge the resident from the facility unless—
 
 (A) The transfer or discharge is necessary for the resident's welfare and the resident's needs cannot be met in the facility;
 
@@ -54,11 +54,11 @@
 
 (B) In the case of paragraph (c)(1)(i)(A) of this section, the specific resident need(s) that cannot be met, facility attempts to meet the resident needs, and the service available at the receiving facility to meet the need(s).
 
-(ii) The documentation required by paragraph (c)(2)(i) of this section must be made by -
+(ii) The documentation required by paragraph (c)(2)(i) of this section must be made by—
 
 (A) The resident's physician when transfer or discharge is necessary under paragraph (c)(1)(A) or (B) of this section; and
 
-(B) A physician when transfer or discharge is necessary under paragraph (b)(1)(i)(C) or (D) of this section.
+(B) A physician when transfer or discharge is necessary under paragraph (c)(1)(i)(C) or (D) of this section.
 
 (iii) Information provided to the receiving provider must include a minimum of the following:
 
@@ -72,31 +72,31 @@
 
 (E) Comprehensive care plan goals,
 
-(F) All other necessary information, including a copy of the residents discharge summary, consistent with § 483.21(c)(2), as applicable, and any other documentation, as applicable, to ensure a safe and effective transition of care.
+(F) All other necessary information, including a copy of the resident's discharge summary, consistent with § 483.21(c)(2), as applicable, and any other documentation, as applicable, to ensure a safe and effective transition of care.
 
-(3) *Notice before transfer.* Before a facility transfers or discharges a resident, the facility must -
+(3) *Notice before transfer.* Before a facility transfers or discharges a resident, the facility must—
 
 (i) Notify the resident and the resident's representative(s) of the transfer or discharge and the reasons for the move in writing and in a language and manner they understand. The facility must send a copy of the notice to a representative of the Office of the State Long-Term Care Ombudsman.
 
 (ii) Record the reasons for the transfer or discharge in the resident's medical record in accordance with paragraph (c)(2) of this section; and
 
-(iii) Include in the notice the items described in paragraph (b)(5) of this section.
+(iii) Include in the notice the items described in paragraph (c)(5) of this section.
 
-(4) *Timing of the notice.* (i) Except as specified in paragraphs (b)(4)(ii) and (b)(8) of this section, the notice of transfer or discharge required under this section must be made by the facility at least 30 days before the resident is transferred or discharged.
+(4) *Timing of the notice.* (i) Except as specified in paragraphs (c)(4)(ii) and (8) of this section, the notice of transfer or discharge required under this section must be made by the facility at least 30 days before the resident is transferred or discharged.
 
-(ii) Notice must be made as soon as practicable before transfer or discharge when -
+(ii) Notice must be made as soon as practicable before transfer or discharge when—
 
-(A) The safety of individuals in the facility would be endangered under paragraph (b)(1)(ii)(C) of this section;
+(A) The safety of individuals in the facility would be endangered under paragraph (c)(1)(i)(C) of this section;
 
-(B) The health of individuals in the facility would be endangered, under paragraph (b)(1)(ii)(D) of this section;
+(B) The health of individuals in the facility would be endangered, under paragraph (c)(1)(i)(D) of this section;
 
-(C) The resident's health improves sufficiently to allow a more immediate transfer or discharge, under paragraph (b)(1)(ii)(B) of this section;
+(C) The resident's health improves sufficiently to allow a more immediate transfer or discharge, under paragraph (c)(1)(i)(B) of this section;
 
-(D) An immediate transfer or discharge is required by the resident's urgent medical needs, under paragraph (b)(1)(ii)(A) of this section; or
+(D) An immediate transfer or discharge is required by the resident's urgent medical needs, under paragraph (c)(1)(i)(A) of this section; or
 
 (E) A resident has not resided in the facility for 30 days.
 
-(5) *Contents of the notice.* The written notice specified in paragraph (b)(3) of this section must include the following:
+(5) *Contents of the notice.* The written notice specified in paragraph (c)(3) of this section must include the following:
 
 (i) The reason for transfer or discharge;
 
@@ -120,17 +120,17 @@
 
 (9) *Room changes in a composite distinct part.* Room changes in a facility that is a composite distinct part (as defined in § 483.5) are subject to the requirements of § 483.10(e)(7) and must be limited to moves within the particular building in which the resident resides, unless the resident voluntarily agrees to move to another of the composite distinct part's locations.
 
-(d) *Notice of bed-hold policy and return* - (1) *Notice before transfer.* Before a nursing facility transfers a resident to a hospital or the resident goes on therapeutic leave, the nursing facility must provide written information to the resident or resident representative that specifies -
+(d) *Notice of bed-hold policy and return*—(1) *Notice before transfer.* Before a nursing facility transfers a resident to a hospital or the resident goes on therapeutic leave, the nursing facility must provide written information to the resident or resident representative that specifies—
 
 (i) The duration of the state bed-hold policy, if any, during which the resident is permitted to return and resume residence in the nursing facility;
 
 (ii) The reserve bed payment policy in the state plan, under § 447.40 of this chapter, if any;
 
-(iii) The nursing facility's policies regarding bed-hold periods, which must be consistent with paragraph (c)(3) of this section, permitting a resident to return; and
+(iii) The nursing facility's policies regarding bed-hold periods, which must be consistent with paragraph (e)(1) of this section, permitting a resident to return; and
 
-(iv) The information specified in paragraph (c)(3) of this section.
+(iv) The information specified in paragraph (e)(1) of this section.
 
-(2) *Bed-hold notice upon transfer.* At the time of transfer of a resident for hospitalization or therapeutic leave, a nursing facility must provide to the resident and the resident representative written notice which specifies the duration of the bed-hold policy described in paragraph (c)(1) of this section.
+(2) *Bed-hold notice upon transfer.* At the time of transfer of a resident for hospitalization or therapeutic leave, a nursing facility must provide to the resident and the resident representative written notice which specifies the duration of the bed-hold policy described in paragraph (d)(1) of this section.
 
 (e)(1) *Permitting residents to return to facility.* A facility must establish and follow a written policy on permitting residents to return to the facility after they are hospitalized or placed on therapeutic leave. The policy must provide for the following.
 
@@ -144,4 +144,4 @@
 
 (2) *Readmission to a composite distinct part.* When the facility to which a resident returns is a composite distinct part (as defined in § 483.5), the resident must be permitted to return to an available bed in the particular location of the composite distinct part in which he or she resided previously. If a bed is not available in that location at the time of return, the resident must be given the option to return to that location upon the first availability of a bed there.
 
-[81 FR 68855, Oct. 4, 2016]
+[81 FR 68855, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]

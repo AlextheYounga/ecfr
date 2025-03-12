@@ -62,7 +62,7 @@
 
 (1) The requirements for outward or inward manifesting of such holders or containers. The manifests will show for each holder or container its markings as provided for herein.
 
-(2) The requirements of the Department of Commerce on exportation with respect to the filing of “Shipper's Export Declaration,” Form 7525-V.
+(2) The requirements of the Department of Commerce on exportation with respect to the filing of Electronic Export Information (EEI).
 
 (3) The treatment of articles covered herein under the coastwise laws of the United States, with particular reference to section 883, Title 46, United States Code.
 
@@ -70,4 +70,4 @@
 
 (i) A continuous bond containing the conditions set forth in § 113.66 of this chapter shall be filed with the port director. If the conditions are violated the port director shall issue a claim for liquidated damages equal to the domestic value of the holder or container established in accordance with section 606, Tariff Act of 1930, as amended (19 U.S.C. 1606). If the domestic value exceeds the amount of the bond the claim for liquidated damages will be equal to the amount of the bond.
 
-[T.D. 56542, 30 FR 15143, Dec. 8, 1965, as amended by T.D. 71-70, 36 FR 4485, Mar. 6, 1971; T.D. 84-213, 49 FR 41165, Oct. 19, 1984; T.D. 86-13, 51 FR 4164, Feb. 3, 1986; T.D. 89-1, 53 FR 51249, Dec. 21, 1988; T.D. 96-20, 61 FR 7989, Mar. 1, 1996; T.D. 97-82, 62 FR 51769, Oct. 3, 1997; T.D. 99-64, 64 FR 43265, Aug. 10, 1999]
+[T.D. 56542, 30 FR 15143, Dec. 8, 1965, as amended by T.D. 71-70, 36 FR 4485, Mar. 6, 1971; T.D. 84-213, 49 FR 41165, Oct. 19, 1984; T.D. 86-13, 51 FR 4164, Feb. 3, 1986; T.D. 89-1, 53 FR 51249, Dec. 21, 1988; T.D. 96-20, 61 FR 7989, Mar. 1, 1996; T.D. 97-82, 62 FR 51769, Oct. 3, 1997; T.D. 99-64, 64 FR 43265, Aug. 10, 1999; CBP Dec. 17-06, 82 FR 32238, July 13, 2017]

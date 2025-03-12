@@ -272,4 +272,4 @@
 
 (7) *Annual Operating Cost - Rounding.* Round any represented values of estimated annual operating cost determined in paragraphs (f)(1) through (6) of this section to the nearest dollar per year.
 
-[81 FR 37049, June 8, 2016, as amended by T.D. 9782, 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017]
+[81 FR 37049, June 8, 2016, as amended by T.D. 9782, 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017]Effective Date Note:At 82 FR 32227, July 13, 2017, as of July 3, 2017, § 429.16(a)(3)(i) was stayed indefinitely.

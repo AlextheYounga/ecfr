@@ -62,13 +62,9 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (2) If application of the Health Care Facilities Code required under paragraph (b) of this section would result in unreasonable hardship for the LTC facility, CMS may waive specific provisions of the Health Care Facilities Code, but only if the waiver does not adversely affect the health and safety of residents.
 
-(c) *Space and equipment.* The facility must -
+(c) *Emergency power.* (1) An emergency electrical power system must supply power adequate at least for lighting all entrances and exits; equipment to maintain the fire detection, alarm, and extinguishing systems; and life support systems in the event the normal electrical supply is interrupted.
 
-(1) Provide sufficient space and equipment in dining, health services, recreation, living, and program areas to enable staff to provide residents with needed services as required by these standards and as identified in each resident's assessment and plan of care; and
-
-(2) Maintain all mechanical, electrical, and patient care equipment in safe operating condition.
-
-(3) Conduct regular inspection of all bed frames, mattresses, and bed rails, if any, as part of a regular maintenance program to identify areas of possible entrapment. When bed rails and mattresses are used and purchased separately from the bed frame, the facility must ensure that the bed rails, mattress, and bed frame are compatible.
+(2) When life support systems are used, the facility must provide emergency electrical power with an emergency generator (as defined in NFPA 99, Health Care Facilities) that is located on the premises.
 
 (d) *Space and equipment.* The facility must -
 
@@ -168,4 +164,4 @@ The facility must be designed, constructed, equipped, and maintained to protect 
 
 (2) [Reserved]
 
-[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016]
+[56 FR 48876, Sept. 26, 1991, as amended at 57 FR 43925, Sept. 23, 1992; 68 FR 1386, Jan. 10, 2003; 69 FR 49268, Aug. 11, 2004; 70 FR 15238, Mar. 25, 2005; 71 FR 55340, Sept. 22, 2006; 73 FR 47091, Aug. 13, 2008; 79 FR 27155, May 12, 2014; 81 FR 26899, May 4, 2016; 81 FR 42548, June 30, 2016. Redesignated and amended at 81 FR 68861, 68870, Oct. 4, 2016; 82 FR 32259, July 13, 2017]

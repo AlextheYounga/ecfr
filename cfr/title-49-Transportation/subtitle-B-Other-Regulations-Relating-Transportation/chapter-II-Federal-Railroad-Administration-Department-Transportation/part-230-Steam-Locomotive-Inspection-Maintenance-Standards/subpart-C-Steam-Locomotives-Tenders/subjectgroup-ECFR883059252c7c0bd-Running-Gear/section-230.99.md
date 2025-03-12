@@ -4,8 +4,8 @@ The minimum diameters of axles for various axle loads shall be as follows:
 
 |Axle load (in pounds)|Minimum  <br/>diameter of journal  <br/>(in inches)|Minimum  <br/>diameter of wheel seat  <br/>(in inches)|Minimum  <br/>diameter of center  <br/>(in inches)|
 |---------------------|---------------------------------------------------|------------------------------------------------------|--------------------------------------------------|
-|        50000        |                       51/2                        |                         73/8                         |                      67/16                       |
-|        38000        |                         5                         |                         63/4                         |                       57/8                       |
-|        31000        |                       41/2                        |                         61/4                         |                      55/16                       |
-|        22000        |                       33/4                        |                          5                           |                       43/8                       |
-|        15000        |                       31/4                        |                         45/8                         |                       37/8                       |
+|        50000        |            5<sup>1</sup>⁄<sub>2</sub>             |              7<sup>3</sup>⁄<sub>8</sub>              |           6<sup>7</sup>⁄<sub>16</sub>            |
+|        38000        |                         5                         |              6<sup>3</sup>⁄<sub>4</sub>              |            5<sup>7</sup>⁄<sub>8</sub>            |
+|        31000        |            4<sup>1</sup>⁄<sub>2</sub>             |              6<sup>1</sup>⁄<sub>4</sub>              |           5<sup>5</sup>⁄<sub>16</sub>            |
+|        22000        |            3<sup>3</sup>⁄<sub>4</sub>             |                          5                           |            4<sup>3</sup>⁄<sub>8</sub>            |
+|        15000        |            3<sup>1</sup>⁄<sub>4</sub>             |              4<sup>5</sup>⁄<sub>8</sub>              |            3<sup>7</sup>⁄<sub>8</sub>            |

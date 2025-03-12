@@ -48,7 +48,7 @@
 
 (v) The right to see the care plan, including the right to sign after significant changes to the plan of care.
 
-(3) The facility shall inform the resident of the right to participate in his or her treatment and shall support the resident in this right. The planning process must -
+(3) The facility shall inform the resident of the right to participate in his or her treatment and shall support the resident in this right. The planning process must—
 
 (i) Facilitate the inclusion of the resident and/or resident representative.
 
@@ -112,7 +112,7 @@
 
 (4) The resident has a right to receive visitors of his or her choosing at the time of his or her choosing, subject to the resident's right to deny visitation when applicable, and in a manner that does not impose on the rights of another resident.
 
-(i) The facility must provide immediate access to any resident by -
+(i) The facility must provide immediate access to any resident by—
 
 (A) Any representative of the Secretary,
 
@@ -166,7 +166,7 @@
 
 (8) The resident has a right to participate in other activities, including social, religious, and community activities that do not interfere with the rights of other residents in the facility.
 
-(9) The resident has a right to choose to or refuse to perform services for the facility and the facility must not require a resident to perform services for the facility. The resident may perform services for the facility, if he or she chooses, when -
+(9) The resident has a right to choose to or refuse to perform services for the facility and the facility must not require a resident to perform services for the facility. The resident may perform services for the facility, if he or she chooses, when—
 
 (i) The facility has documented the resident's need or desire for work in the plan of care;
 
@@ -190,7 +190,7 @@
 
 (C) The individual financial record must be available to the resident through quarterly statements and upon request.
 
-(iv) *Notice of certain balances.* The facility must notify each resident that receives Medicaid benefits -
+(iv) *Notice of certain balances.* The facility must notify each resident that receives Medicaid benefits—
 
 (A) When the amount in the resident's account reaches $200 less than the SSI resource limit for one person, specified in section 1611(a)(3)(B) of the Act; and
 
@@ -272,7 +272,7 @@
 
 (4) The resident has the right to receive notices orally (meaning spoken) and in writing (including Braille) in a format and a language he or she understands, including;
 
-(i) *Required notices as specified in this section.* The facility must furnish to each resident a written description of legal rights which includes -
+(i) *Required notices as specified in this section.* The facility must furnish to each resident a written description of legal rights which includes—
 
 (A) A description of the manner of protecting personal funds, under paragraph (f)(10) of this section;
 
@@ -322,13 +322,13 @@
 
 (iii) Such use must comply with state and federal law.
 
-(10) The resident has the right to -
+(10) The resident has the right to—
 
 (i) Examine the results of the most recent survey of the facility conducted by Federal or State surveyors and any plan of correction in effect with respect to the facility; and
 
 (ii) Receive information from agencies acting as client advocates, and be afforded the opportunity to contact these agencies.
 
-(11) The facility must -
+(11) The facility must—
 
 (i) Post in a place readily accessible to residents, and family members and legal representatives of residents, the results of the most recent survey of the facility.
 
@@ -352,7 +352,7 @@
 
 (13) The facility must display in the facility written information, and provide to residents and applicants for admission, oral and written information about how to apply for and use Medicare and Medicaid benefits, and how to receive refunds for previous payments covered by such benefits.
 
-(14) *Notification of changes.* (i) A facility must immediately inform the resident; consult with the resident's physician; and notify, consistent with his or her authority, the resident representative(s), when there is -
+(14) *Notification of changes.* (i) A facility must immediately inform the resident; consult with the resident's physician; and notify, consistent with his or her authority, the resident representative(s), when there is—
 
 (A) An accident involving the resident which results in injury and has the potential for requiring physician intervention;
 
@@ -364,7 +364,7 @@
 
 (ii) When making notification under paragraph (g)(14)(i) of this section, the facility must ensure that all pertinent information specified in § 483.15(c)(2) is available and provided upon request to the physician.
 
-(iii) The facility must also promptly notify the resident and the resident representative, if any, when there is -
+(iii) The facility must also promptly notify the resident and the resident representative, if any, when there is—
 
 (A) A change in room or roommate assignment as specified in § 483.10(e)(6); or
 
@@ -382,9 +382,9 @@
 
 (iii) Receipt of such information, and any amendments to it, must be acknowledged in writing;
 
-(17) The facility must -
+(17) The facility must—
 
-(i) Inform each Medicaid-eligible resident, in writing, at the time of admission to the nursing facility and when the resident becomes eligible for Medicaid of -
+(i) Inform each Medicaid-eligible resident, in writing, at the time of admission to the nursing facility and when the resident becomes eligible for Medicaid of—
 
 (A) The items and services that are included in nursing facility services under the State plan and for which the resident may not be charged;
 
@@ -416,7 +416,7 @@
 
 (ii) The facility must allow representatives of the Office of the State Long-Term Care Ombudsman to examine a resident's medical, social, and administrative records in accordance with State law.
 
-(i) *Safe environment.* The resident has a right to a safe, clean, comfortable and homelike environment, including but not limited to receiving treatment and supports for daily living safely. The facility must provide -
+(i) *Safe environment.* The resident has a right to a safe, clean, comfortable and homelike environment, including but not limited to receiving treatment and supports for daily living safely. The facility must provide—
 
 (1) A safe, clean, comfortable, and homelike environment, allowing the resident to use his or her personal belongings to the extent possible.
 
@@ -428,7 +428,7 @@
 
 (3) Clean bed and bath linens that are in good condition;
 
-(4) Private closet space in each resident room, as specified in § 483.90(d)(2)(iv);
+(4) Private closet space in each resident room, as specified in § 483.90(e)(2)(iv);
 
 (5) Adequate and comfortable lighting levels in all areas;
 
@@ -460,4 +460,4 @@
 
 (k) *Contact with external entities.* A facility must not prohibit or in any way discourage a resident from communicating with federal, state, or local officials, including, but not limited to, federal and state surveyors, other federal or state health department employees, including representatives of the Office of the State Long-Term Care Ombudsman, and any representative of the agency responsible for the protection and advocacy system for individuals with mental disorder (established under the Protection and Advocacy for Mentally Ill Individuals Act of 2000 (42 U.S.C. 10801 *et seq.*), regarding any matter, whether or not subject to arbitration or any other type of judicial or regulatory action.
 
-[81 FR 68849, Oct. 4, 2016]
+[81 FR 68849, Oct. 4, 2016, as amended at 82 FR 32259, July 13, 2017]
