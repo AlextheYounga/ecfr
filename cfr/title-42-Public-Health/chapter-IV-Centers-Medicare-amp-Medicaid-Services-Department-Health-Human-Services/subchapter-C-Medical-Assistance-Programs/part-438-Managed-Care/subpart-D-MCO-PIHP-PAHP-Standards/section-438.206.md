@@ -1,5 +1,7 @@
 ##### § 438.206 Availability of services. #####
 
+Link to an amendment published at 85 FR 37243, June 19, 2020.
+
 (a) *Basic rule.* Each State must ensure that all services covered under the State plan are available and accessible to enrollees of MCOs, PIHPs, and PAHPs in a timely manner. The State must also ensure that MCO, PIHP and PAHP provider networks for services covered under the contract meet the standards developed by the State in accordance with § 438.68.
 
 (b) *Delivery network.* The State must ensure, through its contracts, that each MCO, PIHP and PAHP, consistent with the scope of its contracted services, meets the following requirements:

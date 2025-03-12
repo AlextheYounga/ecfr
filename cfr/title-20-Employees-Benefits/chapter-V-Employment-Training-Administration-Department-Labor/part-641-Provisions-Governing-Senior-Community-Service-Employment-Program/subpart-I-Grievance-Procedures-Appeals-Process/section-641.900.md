@@ -1,7 +1,5 @@
 ##### § 641.900 What appeal process is available to an applicant that does not receive a grant? #####
 
-Link to an amendment published at 85 FR 30614, May 20, 2020.
-
 (a) An applicant for financial assistance under title V of the OAA that is dissatisfied because it was not awarded financial assistance in whole or in part may request that the Grant Officer provide an explanation for not awarding financial assistance to that applicant. The request must be filed within 10 days of the date of notification indicating that financial assistance would not be awarded. The Grant Officer must provide the protesting applicant with feedback concerning its proposal within 21 days of the protest. Applicants may appeal to the U.S. Department of Labor, Office of Administrative Law Judges (OALJ), within 21 days of the date of the Grant Officer's feedback on the proposal, or within 21 days of the Grant Officer's notification that financial assistance would not be awarded if the applicant does not request feedback on its proposal. The appeal may be for a part or the whole of the denied funding. This appeal will not in any way interfere with the Department's decisions to fund other organizations to provide services during the appeal period.
 
 (b) Failure to file an appeal within the 21 days provided in paragraph (a) of this section constitutes a waiver of the right to a hearing.
@@ -22,4 +20,4 @@ Link to an amendment published at 85 FR 30614, May 20, 2020.
 
 (h) The remedies available are provided in § 641.470.
 
-[75 FR 53812, Sept. 1, 2010, as amended at 85 FR 13028, Mar. 6, 2020]
+[75 FR 53812, Sept. 1, 2010, as amended at 85 FR 13028, Mar. 6, 2020; 85 FR 30614, May 20, 2020]

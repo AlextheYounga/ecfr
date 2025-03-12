@@ -24,4 +24,4 @@
 
 (4) After the expiration of time for filing exceptions, the Administrative Review Board may issue an administrative order, or may otherwise appropriately dispose of the matter. In an expedited proceeding, unless the Administrative Review Board issues an administrative order within 30 days after the expiration of time for filing exceptions, the Administrative Law Judge's recommended decision will become the final administrative order. If the Administrative Review Board determines that the contractor has violated the Executive Order or the regulations in this part, the administrative order will order the contractor to cease and desist from the violations, require the contractor to provide appropriate remedies, or, subject to the procedures in § 471.14, impose appropriate sanctions and penalties, or any combination thereof.
 
-[75 FR 28397, May 20, 2010, as amended at 85 FR 13034, Mar. 6, 2020]
+[75 FR 28397, May 20, 2010, as amended at 85 FR 13034, Mar. 6, 2020; 85 FR 30619, June 19, 2020]

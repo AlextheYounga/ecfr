@@ -26,7 +26,7 @@ For the purpose of this part:
 
 (4) The imminence of the potential harm.
 
-*Disability*1 means, with respect to an individual:
+*Disability*1/\> means, with respect to an individual:
 
 1 The definitions for the term “disability” and other terms relevant to defining disability and disability discrimination standards, including “direct threat”, “major life activities”, “physical or mental impairment”, “qualified applicant or apprentice”, “reasonable accommodation”, and “undue hardship, are taken directly from title I of the Americans with Disabilities Act (ADA), as amended, and from the Equal Employment Opportunity Commission's regulations implementing the ADA at 29 CFR part 1630, to the extent that the ADA, as amended, did not provide a definition.
 
@@ -62,7 +62,7 @@ For the purpose of this part:
 
 (v) The genetic information of a fetus carried by an individual or by a pregnant woman who is a family member of the individual and the genetic information of any embryo legally held by the individual or family member using an assisted reproductive technology.
 
-(2) Genetic information does not include information about the sex or age of the individual, the sex or age of family members, or information about the race or ethnicity of the individual or family members that is not derived from a genetic test.2
+(2) Genetic information does not include information about the sex or age of the individual, the sex or age of family members, or information about the race or ethnicity of the individual or family members that is not derived from a genetic test.2/\>
 
 2 The definition of the term “genetic information” is taken directly from the Genetic Information Nondiscrimination Act of 2008 (GINA) at 42 U.S.C. 2000ff(4) and the EEOC's implementing regulations at 29 CFR 1635.3(c).
 

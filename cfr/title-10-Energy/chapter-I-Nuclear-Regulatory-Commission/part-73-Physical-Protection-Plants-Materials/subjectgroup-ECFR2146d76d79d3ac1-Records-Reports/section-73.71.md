@@ -1,6 +1,6 @@
 ##### § 73.71 Reporting of safeguards events. #####
 
-(a)(1) Each licensee subject to the provisions of §§ 73.25, 73.26, 73.27(c), 73.37, 73.67(e), or 73.67(g) shall notify the NRC Operations Center3 within one hour after discovery of the loss of any shipment of SNM or spent fuel, and within one hour after recovery of or accounting for such lost shipment.
+(a)(1) Each licensee subject to the provisions of §§ 73.25, 73.26, 73.27(c), 73.37, 73.67(e), or 73.67(g) shall notify the NRC Operations Center3/\> within one hour after discovery of the loss of any shipment of SNM or spent fuel, and within one hour after recovery of or accounting for such lost shipment.
 
 3 Commercial telephone number of the NRC Operation Center is (301) 816-5100.
 

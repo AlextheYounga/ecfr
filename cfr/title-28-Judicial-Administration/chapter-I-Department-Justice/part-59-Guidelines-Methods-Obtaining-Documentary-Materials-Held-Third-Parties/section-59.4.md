@@ -1,4 +1,4 @@
-##### § 59.4 Procedures.1 #####
+##### § 59.4 Procedures.1/\> #####
 
 1 Notwithstanding the provisions of this section, any application for a warrant to search for evidence of a criminal tax offense under the jurisdiction of the Tax Division must be specifically approved in advance by the Tax Division pursuant to section 6-2.330 of the U.S. Attorneys' Manual.
 
@@ -6,7 +6,7 @@
 
 (2) No federal officer or employee shall apply for a warrant to search for and seize documentary materials believed to be in the private possession of a disinterested third party unless the application for the warrant has been authorized by an attorney for the government. Provided, however, that in an emergency situation in which the immediacy of the need to seize the materials does not permit an opportunity to secure the authorization of an attorney for the government, the application may be authorized by a supervisory law enforcement officer in the applicant's department or agency, if the appropriate U.S. Attorney (or where the case is not being handled by a U.S. Attorney's Office, the appropriate supervisory official of the Department of Justice) is notified of the authorization and the basis for justifying such authorization under this part within 24 hours of the authorization.
 
-(b) *Provisions governing the use of search warrants which may intrude upon professional, confidential relationships.* (1) A search warrant should not be used to obtain documentary materials believed to be in the private possession of a disinterested third party physician,2 lawyer, or clergyman, under circumstances in which the materials sought, or other materials likely to be reviewed during the execution of the warrant, contain confidential information on patients, clients, or parishioners which was furnished or developed for the purposes of professional counseling or treatment, unless -
+(b) *Provisions governing the use of search warrants which may intrude upon professional, confidential relationships.* (1) A search warrant should not be used to obtain documentary materials believed to be in the private possession of a disinterested third party physician,2/\> lawyer, or clergyman, under circumstances in which the materials sought, or other materials likely to be reviewed during the execution of the warrant, contain confidential information on patients, clients, or parishioners which was furnished or developed for the purposes of professional counseling or treatment, unless -
 
 2 Documentary materials created or compiled by a physician, but retained by the physician as a matter of practice at a hospital or clinic shall be deemed to be in the private possession of the physician, unless the clinic or hospital is a suspect in the offense.
 

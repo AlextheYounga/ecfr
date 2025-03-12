@@ -62,7 +62,7 @@ Whenever frequency modulation “F” is indicated, Phase modulation “G” is 
 | (7) Composite system with one or more channels containing quantized or digital information, together with one or more channels containing analogue information| 9 |
 |                                                                (8) Cases not otherwise covered                                                                | X |
 
-(e) Third Symbol - type of information to be transmitted:2
+(e) Third Symbol - type of information to be transmitted:2/\>
 
 2 In this context the word “information” does not include information of a constant, unvarying nature such as is provided by standard frequency emissions, continuous wave and pulse radars, etc.
 

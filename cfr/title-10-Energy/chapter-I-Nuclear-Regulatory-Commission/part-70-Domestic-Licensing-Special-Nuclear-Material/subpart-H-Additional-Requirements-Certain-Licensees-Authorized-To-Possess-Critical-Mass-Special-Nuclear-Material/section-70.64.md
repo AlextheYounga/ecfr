@@ -28,7 +28,7 @@
 
 (10) *Instrumentation and controls.* The design must provide for inclusion of instrumentation and control systems to monitor and control the behavior of items relied on for safety.
 
-(b) Facility and system design and facility layout must be based on defense-in-depth practices.1 The design must incorporate, to the extent practicable:
+(b) Facility and system design and facility layout must be based on defense-in-depth practices.1/\> The design must incorporate, to the extent practicable:
 
 1 As used in § 70.64, Requirements for new facilities or new processes at existing facilities, defense-in-depth practices means a design philosophy, applied from the outset and through completion of the design, that is based on providing successive levels of protection such that health and safety will not be wholly dependent upon any single element of the design, construction, maintenance, or operation of the facility. The net effect of incorporating defense-in-depth practices is a conservatively designed facility and system that will exhibit greater tolerance to failures and external challenges. The risk insights obtained through performance of the integrated safety analysis can be then used to supplement the final design by focusing attention on the prevention and mitigation of the higher-risk potential accidents.
 

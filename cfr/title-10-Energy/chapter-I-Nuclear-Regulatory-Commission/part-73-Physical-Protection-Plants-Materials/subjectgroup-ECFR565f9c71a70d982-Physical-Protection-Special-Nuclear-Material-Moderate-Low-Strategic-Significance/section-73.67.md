@@ -88,7 +88,7 @@
 
 (vi) Initiate immediately a trace investigation of any shipment that is determined to be lost or unaccounted for after a reasonable time beyond the estimated arrival time.
 
-(vii) Notify the NRC Operations Center1 within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
+(vii) Notify the NRC Operations Center1/\> within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
 
 1 Commercial telephone number of the NRC Operations Center is (301) 816-5100.
 
@@ -152,7 +152,7 @@
 
 (ii) Make arrangements to be notified immediately of the arrival of the shipment at its destination, or of any such shipment that is lost or unaccounted for after the estimated time of arrival at its destination, and
 
-(iii) Conduct immediately a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time and notify the NRC Operations Center1 within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
+(iii) Conduct immediately a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time and notify the NRC Operations Center1/\> within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
 
 1 Commercial telephone number of the NRC Operation Center is (301) 816-5100.
 

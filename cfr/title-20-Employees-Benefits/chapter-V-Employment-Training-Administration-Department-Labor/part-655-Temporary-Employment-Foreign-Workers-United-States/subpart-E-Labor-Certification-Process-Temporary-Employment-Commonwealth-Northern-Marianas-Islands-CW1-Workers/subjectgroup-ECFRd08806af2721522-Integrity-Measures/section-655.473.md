@@ -1,7 +1,5 @@
 ##### § 655.473 Debarment. #####
 
-Link to an amendment published at 85 FR 30615, May 20, 2020.
-
 (a) *Debarment of an employer, agent, or attorney.* The OFLC Administrator may debar an employer, agent, attorney, or any successor in interest to that employer, agent, or attorney, from participating in any action under this subpart, subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the *Application for Prevailing Wage Determination* or *CW-1 Application for Temporary Employment Certification,* as defined in paragraph (d) of this section. The OFLC Administrator will provide copies of final debarment decisions to DHS and DOS promptly.
 
 (b) *Effect on future applications in all foreign labor programs.* The debarred employer, or a debarred agent or attorney, or any successor in interest to any debarred employer, agent, or attorney, will be disqualified from filing any labor certification applications or labor condition applications with the Department subject to the term limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.
@@ -66,6 +64,6 @@ Link to an amendment published at 85 FR 30615, May 20, 2020.
 
 (iii) Where the ARB has determined to review the decision and order, the ARB will notify each party of the issue(s) raised, the form in which submissions must be made (e.g., briefs or oral argument), and the time within which the presentation must be submitted.
 
-(6) *ARB Decision.* The ARB's decision must be issued within 90 calendar days from the notice granting the petition and served upon all parties and the ALJ.
+(6) *ARB decision.* The ARB's decision must be issued within 90 calendar days from the notice granting the petition and served upon all parties and the ALJ.
 
-[84 FR 12431, Apr. 1, 2019, as amended at 85 FR 13029, Mar. 6, 2020]
+[84 FR 12431, Apr. 1, 2019, as amended at 85 FR 13029, Mar. 6, 2020; 85 FR 30615, May 20, 2020]

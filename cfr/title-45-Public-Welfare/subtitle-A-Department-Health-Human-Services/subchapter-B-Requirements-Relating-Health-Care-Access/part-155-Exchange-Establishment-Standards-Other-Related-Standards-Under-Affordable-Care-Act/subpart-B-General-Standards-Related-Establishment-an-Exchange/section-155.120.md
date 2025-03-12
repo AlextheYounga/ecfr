@@ -1,5 +1,7 @@
 ##### § 155.120 Non-interference with Federal law and non-discrimination standards. #####
 
+Link to an amendment published at 85 FR 37247, June 19, 2020.
+
 (a) *Non-interference with Federal law.* An Exchange must not establish rules that conflict with or prevent the application of regulations promulgated by HHS under subtitle D of title I of the Affordable Care Act.
 
 (b) *Non-interference with State law.* Nothing in parts 155, 156, or 157 of this subchapter shall be construed to preempt any State law that does not prevent the application of the provisions of title I of the Affordable Care Act.

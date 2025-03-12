@@ -1,7 +1,5 @@
 ##### § 641.920 What actions of the Department may a grantee appeal and what procedures apply to those appeals? #####
 
-Link to an amendment published at 85 FR 30614, May 20, 2020.
-
 (a) Appeals from a final disallowance of costs as a result of an audit must be made under 29 CFR 96.63.
 
 (b) Appeals of suspension or termination actions taken on the grounds of discrimination are processed under 29 CFR part 31 or 29 CFR part 38, as appropriate.
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 30614, May 20, 2020.
 
 (5) The decision of the ALJ constitutes final agency action unless, within 21 days of the decision, a party dissatisfied with the ALJ's decision, in whole or in part, has filed a petition for review with the ARB (established under Secretary's Order No. 01-2020), specifically identifying the procedure, fact, law, or policy to which exception is taken. The mailing address for the ARB is 200 Constitution Ave. NW, Room N5404, Washington, DC 20210. The Department will deem any exception not specifically argued to have been waived. A copy of the petition for review must be sent to the grant officer at that time. If, within 30 days of the filing of the petition for review, the ARB does not notify the parties that the case has been accepted for review, then the decision of the ALJ constitutes final agency action. In any case accepted by the ARB, a decision must be issued by the ARB within 180 days of acceptance. If a decision is not so issued, the decision of the ALJ constitutes final agency action.
 
-[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56886, Dec. 1, 2017; 85 FR 13028, Mar. 6, 2020]
+[75 FR 53812, Sept. 1, 2010, as amended at 82 FR 56886, Dec. 1, 2017; 85 FR 13028, Mar. 6, 2020; 85 FR 30614, May 20, 2020]

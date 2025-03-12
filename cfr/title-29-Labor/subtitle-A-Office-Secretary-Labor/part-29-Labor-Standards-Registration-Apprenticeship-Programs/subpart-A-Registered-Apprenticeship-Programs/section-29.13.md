@@ -1,7 +1,5 @@
 ##### § 29.13 Recognition of State Apprenticeship Agencies. #####
 
-Link to an amendment published at 85 FR 30619, May 20, 2020.
-
 (a) *Recognition.* The Department may exercise its authority to grant recognition to a State Apprenticeship Agency. Recognition confers non-exclusive authority to determine whether an apprenticeship program conforms to the published standards and whether the program is, therefore, eligible for those Federal purposes which require such a determination by the Department. Such recognition shall be accorded upon the State's submission of, the Department's approval of, and the State's compliance with the following:
 
 (1) The State Apprenticeship Agency must submit a State apprenticeship law, whether instituted through statute, Executive Order, regulation, or other means, that conforms to the requirements of 29 CFR part 29 subpart A, and part 30;
@@ -88,4 +86,4 @@ Link to an amendment published at 85 FR 30619, May 20, 2020.
 
 (2) In the event that a State Apprenticeship Agency is not recognized by the Office of Apprenticeship for Federal purposes or that such recognition has been withdrawn, or if no State Apprenticeship Agency exists, registration with the Office of Apprenticeship may be requested. Such registration must be granted if the program is conducted, administered and operated in accordance with the requirements of this part and the equal opportunity regulation in 29 CFR part 30, as amended.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020]
+[73 FR 64425, Oct. 29, 2008, as amended at 85 FR 13033, Mar. 6, 2020; 85 FR 14387, Mar. 11, 2020; 85 FR 30619, May 20, 2020]

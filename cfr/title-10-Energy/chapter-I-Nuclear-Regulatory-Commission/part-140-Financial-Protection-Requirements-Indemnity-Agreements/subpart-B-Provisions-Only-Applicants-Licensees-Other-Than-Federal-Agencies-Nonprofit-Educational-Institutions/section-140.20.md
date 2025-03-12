@@ -20,7 +20,7 @@
 
 (f)(1)(i) The general form of indemnity agreement to be entered into by the Commission with reactor licensees who furnish financial protection in the form of the nuclear energy liability insurance policy set forth in appendix A is contained in § 140.92, appendix B. The general form of indemnity agreement to be entered into by the Commission with reactor licensees who furnish financial protection in the form specified in § 140.14(a)(2) is set forth in § 140.93, appendix C.
 
-(ii) The general form of indemnity agreement to be entered into by the Commission with persons licensed to possess and use plutonium in a plutonium processing and fuel fabrication plant and who furnish financial protection in the form of the nuclear energy liability insurance policy set forth in appendix A2 is contained in § 140.107, appendix G. The general form of indemnity agreement to be entered into by the Commission with such licensees who furnish financial protection in the form specified in § 140.14(a)(2) is set forth in § 140.108, appendix H.
+(ii) The general form of indemnity agreement to be entered into by the Commission with persons licensed to possess and use plutonium in a plutonium processing and fuel fabrication plant and who furnish financial protection in the form of the nuclear energy liability insurance policy set forth in appendix A2/\> is contained in § 140.107, appendix G. The general form of indemnity agreement to be entered into by the Commission with such licensees who furnish financial protection in the form specified in § 140.14(a)(2) is set forth in § 140.108, appendix H.
 
 2 The form of the nuclear energy liability insurance policy for these licensees will be the subject of pertinent endorsements after discussion with the insurance pools.
 

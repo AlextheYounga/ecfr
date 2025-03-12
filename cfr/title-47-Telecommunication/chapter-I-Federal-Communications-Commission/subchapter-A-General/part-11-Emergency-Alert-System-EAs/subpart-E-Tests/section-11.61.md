@@ -1,7 +1,5 @@
 ##### § 11.61 Tests of EAS procedures. #####
 
-Link to an amendment published at 85 FR 30634, May 20, 2020.
-
 (a) EAS Participants shall conduct tests at regular intervals, as specified in paragraphs (a)(1) and (a)(2) of this section. Additional tests may be performed anytime. EAS activations and special tests may be performed in lieu of required tests as specified in paragraph (a)(4) of this section.
 
 (1) Required Monthly Tests of the EAS header codes, Attention Signal, Test Script and EOM code.
@@ -9,6 +7,8 @@ Link to an amendment published at 85 FR 30634, May 20, 2020.
 (i) Tests in odd numbered months shall occur between 8:30 a.m. and local sunset. Tests in even numbered months shall occur between local sunset and 8:30 a.m. They will originate from Local or State Primary sources. The time and script content will be developed by State Emergency Communications Committees in cooperation with affected EAS Participants. Script content may be in the primary language of the EAS Participant. These monthly tests must be transmitted within 60 minutes of receipt by EAS Participants in an EAS Local Area or State. Analog and digital class D non-commercial educational FM, analog and digital LPFM stations, and analog and digital LPTV stations are required to transmit only the test script.
 
 (ii) Effective May 31, 2007, DBS providers must comply with this section by monitoring a state or local primary source to participate in testing. Tests should be performed on 10% of all channels monthly (excluding local-into-local channels for which the monthly transmission tests are passed through by the DBS provider), with channels tested varying from month to month, so that over the course of a given year, 100% of all channels are tested.
+
+(iii) SDARS providers must comply with this section by monitoring a state or local primary source to participate in testing. Tests should be performed on 10% of all channels monthly, with channels tested varying from month to month, so that over the course of a given year, 100% of all channels are tested.
 
 (2) Required Weekly Tests:
 
@@ -20,9 +20,7 @@ Link to an amendment published at 85 FR 30634, May 20, 2020.
 
 (C) Analog cable systems and digital cable systems serving fewer than 5,000 subscribers per headend and wireless cable systems with fewer than 5,000 subscribers must conduct tests of the EAS Header and EOM Codes at least once a week at random days and times on at least one programmed channel.
 
-(D) SDARS providers must conduct tests of the EAS Header and EOM codes at least once a week at random days and times on all channels.
-
-(ii) DBS providers, analog and digital class D non-commercial educational FM stations, analog and digital LPFM stations, and analog and digital LPTV stations are not required to transmit this test but must log receipt, as specified in § 11.35(a) and 11.54(a)(3).
+(ii) DBS providers, SDARS providers, analog and digital class D non-commercial educational FM stations, analog and digital LPFM stations, and analog and digital LPTV stations are not required to transmit this test but must log receipt, as specified in § 11.35(a) and 11.54(a)(3).
 
 (iii) The EAS weekly test is not required during the week that a monthly test is conducted.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 30634, May 20, 2020.
 
 (b) Entries shall be made in EAS Participant records, as specified in § 11.35(a) and 11.54(a)(3).
 
-[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015; 83 FR 39621, Aug. 10, 2018]
+[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015; 83 FR 39621, Aug. 10, 2018; 85 FR 30634, May 20, 2020]

@@ -1,6 +1,6 @@
 ##### § 73.72 Requirement for advance notice of shipment of formula quantities of strategic special nuclear material, special nuclear material of moderate strategic significance, or irradiated reactor fuel. #####
 
-(a) A licensee, other than one specified in paragraph (b) of this section, who, in a single shipment, plans to deliver to a carrier for transport, to take delivery at the point where a shipment is delivered to a carrier for transport, to import, to export, or to transport a formula quantity of strategic special nuclear material, special nuclear material of moderate strategic significance, or irradiated reactor fuel4 required to be protected in accordance with § 73.37, shall:
+(a) A licensee, other than one specified in paragraph (b) of this section, who, in a single shipment, plans to deliver to a carrier for transport, to take delivery at the point where a shipment is delivered to a carrier for transport, to import, to export, or to transport a formula quantity of strategic special nuclear material, special nuclear material of moderate strategic significance, or irradiated reactor fuel4/\> required to be protected in accordance with § 73.37, shall:
 
 4 For purposes of 10 CFR 73.72, the terms “irradiated reactor fuel” as described in 10 CFR 73.37 and “spent nuclear fuel” are used interchangeably.
 

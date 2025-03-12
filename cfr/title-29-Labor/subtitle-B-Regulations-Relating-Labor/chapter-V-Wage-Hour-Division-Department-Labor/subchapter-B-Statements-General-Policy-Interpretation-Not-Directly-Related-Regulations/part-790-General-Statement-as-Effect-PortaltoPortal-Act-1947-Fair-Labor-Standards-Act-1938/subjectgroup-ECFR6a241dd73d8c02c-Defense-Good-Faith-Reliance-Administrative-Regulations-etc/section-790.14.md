@@ -1,6 +1,6 @@
 ##### § 790.14 “In conformity with.” #####
 
-(a) The “good faith” defense is not available to an employer unless the acts or omissions complained of were “in conformity with” the regulation, order, ruling, approval, interpretation, administrative practice or enforcement policy upon which he relied.94 This is true even though the employer erroneously believes he conformed with it and in good faith relied upon it; actual conformity is necessary.
+(a) The “good faith” defense is not available to an employer unless the acts or omissions complained of were “in conformity with” the regulation, order, ruling, approval, interpretation, administrative practice or enforcement policy upon which he relied.94/\> This is true even though the employer erroneously believes he conformed with it and in good faith relied upon it; actual conformity is necessary.
 
 94 Statement of Senator Cooper, 93 Cong. Rec. 4451; message of the President to Congress on approval of the Act, May 14, 1947, 93 Cong. Rec. 5281.
 

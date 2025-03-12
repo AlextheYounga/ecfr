@@ -1,5 +1,7 @@
 ##### § 460.112 Specific rights to which a participant is entitled. #####
 
+Link to an amendment published at 85 FR 37243, June 19, 2020.
+
 (a) *Respect and nondiscrimination.* Each participant has the right to considerate, respectful care from all PACE employees and contractors at all times and under all circumstances. Each participant has the right not to be discriminated against in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex, age, sexual orientation, mental or physical disability, or source of payment. Specifically, each participant has the right to the following:
 
 (1) To receive comprehensive health care in a safe and clean environment and in an accessible manner.

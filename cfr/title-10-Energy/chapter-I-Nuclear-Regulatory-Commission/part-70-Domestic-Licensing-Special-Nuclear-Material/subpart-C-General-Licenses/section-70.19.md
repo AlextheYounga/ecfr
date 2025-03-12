@@ -14,7 +14,7 @@
 
 (1) Shall not possess at any one time, at any one location of storage or use, more than 5 microcuries of plutonium in such sources;
 
-(2) Shall not receive, possess, use or transfer such source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement:1
+(2) Shall not receive, possess, use or transfer such source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement:1/\>
 
 1 Sources generally licensed under this section prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 

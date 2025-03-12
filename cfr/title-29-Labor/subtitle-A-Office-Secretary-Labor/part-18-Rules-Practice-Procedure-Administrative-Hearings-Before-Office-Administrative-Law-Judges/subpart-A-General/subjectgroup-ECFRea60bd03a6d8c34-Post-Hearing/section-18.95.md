@@ -1,7 +1,5 @@
 ##### § 18.95 Review of decision and review by the Secretary. #####
 
-Link to an amendment published at 85 FR 30617, May 20, 2020.
-
 (a) *Review.* The statute or regulation that conferred hearing jurisdiction provides the procedure for review of a judge's decision. If the statute or regulation does not provide a procedure, the judge's decision becomes the Secretary's final administrative decision, except as provided in paragraph (b) of this section.
 
 (b) *Finality.* A decision of the Board of Alien Labor Certification Appeals (BALCA) shall constitute the Secretary's final administrative decision except in those cases over which the Secretary has, in accordance with this paragraph (b) and paragraph (c) of this section, assumed jurisdiction:
@@ -20,8 +18,8 @@ Link to an amendment published at 85 FR 30617, May 20, 2020.
 
 (ii) When the Secretary assumes jurisdiction over a case, the Secretary shall promptly notify the BALCA. The BALCA shall promptly notify the parties to the case of such action and shall submit the Appeal File and any briefs filed to the Secretary.
 
-(iii) In any case the Secretary decides, the Secretary's decision shall be stated in writing and transmitted to the BALCA, which shall promptly transmit it to the parties to the case. Such decision shall constitute final action by the Department and shall serve as binding precedent on all Department employees and in all Department proceedings involving the same issue or issues.
+(iii) In any case the Secretary decides, the Secretary's decision shall be stated in writing and transmitted to the BALCA, which shall promptly publish the decision and transmit it to the parties to the case. Such decision shall constitute final action by the Department and shall serve as binding precedent on all Department employees and in all Department proceedings involving the same issue or issues.
 
 (iv) The Solicitor of Labor, or his or her designee, shall have the responsibility for providing legal advice to the Secretary with respect to the Secretary's exercise of review under this section, except that no individual involved in the investigation or prosecution of a case shall advise the Secretary on the exercise of review with respect to such case or a case involving a common nucleus of operative fact.
 
-[85 FR 13031, Mar. 6, 2020]
+[85 FR 30617, May 20, 2020]

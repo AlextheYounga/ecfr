@@ -1,6 +1,6 @@
 ##### § 2.105 United States Table of Frequency Allocations. #####
 
-(a) The United States Table of Frequency Allocations (United States Table) is subdivided into the Federal Table of Frequency Allocations (Federal Table, column 4 of § 2.106) and the non-Federal Table of Frequency Allocations (non-Federal Table, column 5 of § 2.106). The United States Table is based on the Region 2 Table because the relevant area of jurisdiction is located primarily in Region 21 (*i.e.*, the 50 States, the District of Columbia, the Caribbean insular areas,2 and some of the Pacific insular areas).3 The Federal Table is administered by NTIA4 and the non-Federal Table is administered by the Federal Communications Commission (FCC).5
+(a) The United States Table of Frequency Allocations (United States Table) is subdivided into the Federal Table of Frequency Allocations (Federal Table, column 4 of § 2.106) and the non-Federal Table of Frequency Allocations (non-Federal Table, column 5 of § 2.106). The United States Table is based on the Region 2 Table because the relevant area of jurisdiction is located primarily in Region 21/\> (*i.e.*, the 50 States, the District of Columbia, the Caribbean insular areas,2/\> and some of the Pacific insular areas).3/\> The Federal Table is administered by NTIA4/\> and the non-Federal Table is administered by the Federal Communications Commission (FCC).5/\>
 
 1*See* 2.104(b) for definitions of the ITU Regions.
 
@@ -12,7 +12,7 @@
 
 5 The Communications Act of 1934, as amended.
 
-(b) In the United States, radio spectrum may be allocated to either Federal or non-Federal use exclusively, or for shared use. In the case of shared use, the type of service(s) permitted need not be the same [e.g., Federal FIXED, non-Federal MOBILE]. The terms used to designate categories of services and allocations6 in columns 4 and 5 of § 2.106 correspond to the terms in the ITU *Radio Regulations.*
+(b) In the United States, radio spectrum may be allocated to either Federal or non-Federal use exclusively, or for shared use. In the case of shared use, the type of service(s) permitted need not be the same [e.g., Federal FIXED, non-Federal MOBILE]. The terms used to designate categories of services and allocations6/\> in columns 4 and 5 of § 2.106 correspond to the terms in the ITU *Radio Regulations.*
 
 6 The radio services are defined in 47 CFR 2.1.
 
@@ -40,7 +40,7 @@
 
 (5) The following symbols are used to designate footnotes in the United States Table:
 
-(i) Any footnote number consisting of “5.” followed by one or more digits,7 e.g., 5.53, denotes an international footnote. Where an international footnote is applicable, without modification, to both Federal and non-Federal operations, the Commission places the footnote in both the Federal Table and the non-Federal Table (columns 4 and 5) and the international footnote is binding on both Federal users and non-Federal licensees. If, however, an international footnote pertains to a service allocated only for Federal or non-Federal use, the international footnote will be placed only in the affected Table. For example, footnote 5.142 pertains only to the amateur service, and thus, footnote 5.142 is shown only in the non-Federal Table.
+(i) Any footnote number consisting of “5.” followed by one or more digits,7/\> e.g., 5.53, denotes an international footnote. Where an international footnote is applicable, without modification, to both Federal and non-Federal operations, the Commission places the footnote in both the Federal Table and the non-Federal Table (columns 4 and 5) and the international footnote is binding on both Federal users and non-Federal licensees. If, however, an international footnote pertains to a service allocated only for Federal or non-Federal use, the international footnote will be placed only in the affected Table. For example, footnote 5.142 pertains only to the amateur service, and thus, footnote 5.142 is shown only in the non-Federal Table.
 
 7 In some cases, a letter, or letters, may be appended to the digit(s) of a footnote number in order to preserve the sequential order.
 

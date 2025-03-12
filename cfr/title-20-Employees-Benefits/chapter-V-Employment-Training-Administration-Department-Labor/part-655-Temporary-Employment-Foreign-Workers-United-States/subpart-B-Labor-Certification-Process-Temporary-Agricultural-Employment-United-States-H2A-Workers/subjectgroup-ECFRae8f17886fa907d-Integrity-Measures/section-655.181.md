@@ -1,7 +1,5 @@
 ##### § 655.181 Revocation. #####
 
-Link to an amendment published at 85 FR 30614, May 20, 2020.
-
 (a) *Basis for DOL revocation.* The OFLC Administrator may revoke a temporary agricultural labor certification approved under this subpart, if the OFLC Administrator finds:
 
 (1) The issuance of the temporary agricultural labor certification was not justified due to fraud or misrepresentation in the application process;
@@ -32,4 +30,4 @@ Link to an amendment published at 85 FR 30614, May 20, 2020.
 
 (4) Any other wages, benefits, and working conditions due or owing to the worker under this subpart.
 
-[75 FR 6959, Feb. 12, 2010, as amended at 85 FR 13029, Mar. 6, 2020]
+[75 FR 6959, Feb. 12, 2010, as amended at 85 FR 13029, Mar. 6, 2020; 85 FR 30614, May 20, 2020]

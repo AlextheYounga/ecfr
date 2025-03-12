@@ -2,7 +2,7 @@
 
 (a) An application for a license will be approved if the Commission determines that:
 
-(1) The special nuclear material is to be used for the conduct of research or development activities of a type specified in section 31 of the Act,1 in activities licensed by the Commission under section 103 or 104 of the Act, or for such other uses as the Commission determines to be appropriate to carry out the purposes of the Act;
+(1) The special nuclear material is to be used for the conduct of research or development activities of a type specified in section 31 of the Act,1/\> in activities licensed by the Commission under section 103 or 104 of the Act, or for such other uses as the Commission determines to be appropriate to carry out the purposes of the Act;
 
 1 The types of research and development activities specified in section 31 are those relating to:
 
@@ -38,7 +38,7 @@
 
 (12) Where the proposed activity is use of special nuclear material in a uranium enrichment facility, the applicable provisions of part 140 of this chapter have been satisfied.
 
-(b) The Commission will approve construction of the principal structures, systems, and components of a plutonium processing and fuel fabrication plant on the basis of information filed pursuant to § 70.22(f) when the Commission has determined that the design bases of the principal structures, systems, and components, and the quality assurance program provide reasonable assurance of protection against natural phenomena and the consequences of potential accidents.3 Failure to obtain Commission approval prior to beginning of such construction may be grounds for denial of a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant.
+(b) The Commission will approve construction of the principal structures, systems, and components of a plutonium processing and fuel fabrication plant on the basis of information filed pursuant to § 70.22(f) when the Commission has determined that the design bases of the principal structures, systems, and components, and the quality assurance program provide reasonable assurance of protection against natural phenomena and the consequences of potential accidents.3/\> Failure to obtain Commission approval prior to beginning of such construction may be grounds for denial of a license to possess and use special nuclear material in a plutonium processing and fuel fabrication plant.
 
 3 The criteria in appendix B of part 50 of this chapter will be used by the Commission in determining the adequacy of the quality assurance program.
 

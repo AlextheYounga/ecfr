@@ -22,6 +22,8 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (C) The vessel is not used to fish as a C/P in the Pacific whiting fishery in the same calendar year.
 
+(D) Under emergency measures effective June 19, 2020, until December 16, 2020, notwithstanding any other section of these regulations, a vessel may operate as both a mothership and a C/P during the 2020 Pacific whiting primary season, but not on the same fishing trip.
+
 (ii) *Mothership vessel responsibilities.* The owner and operator of a mothership vessel must:
 
 (A) *Recordkeeping and reporting.* Maintain a valid declaration as specified at § 660.13(d); maintain records as specified at § 660.113(a); and maintain and submit all records and reports specified at § 660.113(c) including, economic data, scale tests records, cease fishing reports, and cost recovery.
@@ -51,6 +53,10 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 (ii) *Mothership catcher vessel responsibilities* - (A) *Observers.* As specified at paragraph (j) of this section, procure observer services, maintain the appropriate level of coverage, and meet the vessel responsibilities.
 
 (B) *Recordkeeping and reporting.* Maintain a valid declaration as specified at § 660.13(d), subpart C; and, maintain and submit all records and reports specified at § 660.113(c) including, economic data and scale tests records, if applicable.
+
+(*1*) Under emergency measures effective June 19, 2020, until December 16, 2020, notwithstanding any other section of these regulations, a vessel may operate as both a mothership and C/P during the 2020 Pacific whiting primary season, but not on the same fishing trip. A vessel registered in the same calendar year to operate under both a limited entry MS permit and limited entry permit with a C/P endorsement must declare prior to leaving port the sector in which it will participate for the duration of the trip, as per declaration requirements specified at § 660.13(d)(4)(iv)(A).
+
+(*2*) [Reserved]
 
 (C) *Cost recovery program.* Vessel must pay cost recovery program fees, as specified at § 660.115.
 
@@ -234,7 +240,13 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (ii) *Restriction on C/P vessels operating as motherships.* Restrictions on a vessel registered to a limited entry permit with a C/P endorsement operating as a mothership are specified at § 660.160, subpart D.
 
+(iii) *Emergency rule creating seasonal flexibility on at-sea processor restrictions.* Effective June 19, 2020, until December 16, 2020, notwithstanding any other section of these regulations, vessels may operate as both a mothership and a C/P during the 2020 Pacific whiting primary season, but not on the same fishing trip.
+
 (2) *Renewal, change of permit ownership, or vessel registration* - (i) *Renewal.* An MS permit must be renewed annually consistent with the limited entry permit regulations given at § 660.25(b)(4). If a vessel registered to the MS permit will operate as a mothership in the year for which the permit is renewed, the permit owner must make a declaration as part of the permit renewal that while participating in the whiting fishery it will operate solely as a mothership during the calendar year to which its limited entry permit applies. Any such declaration is binding on the vessel for the calendar year, even if the permit is registered to a different permit owner during the year, unless it is rescinded in response to a written request from the permit owner. Any request to rescind a declaration must be made by the permit owner and granted in writing by the Regional Administrator before any unprocessed whiting has been taken on board the vessel that calendar year.
+
+(A) *Emergency rule creating seasonal flexibility on at-sea processing restrictions.* Effective June 19, 2020, until December 16, 2020, a vessel registered to an MS permit is exempt from this declaration and may also operate as a catcher-processor during the 2020 Pacific whiting primary season, even if the permit owner previously declared to operate solely as a mothership.
+
+(B) [Reserved]
 
 (ii) *Change of permit ownership.* An MS permit is subject to the limited entry permit change in permit ownership regulations given at § 660.25(b)(4), subpart C.
 
@@ -872,4 +884,4 @@ Link to an amendment published at 85 FR 35601, June 11, 2020.
 
 (3) In the event of a NMFS determined coop failure, or reported failure, the designated coop manager will be notified in writing about NMFS' determination. Upon notification of a coop failure, fishing under the MS coop permit will no longer be allowed. Should a coop failure determination be made during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the coop that failed, by any former members of the coop that failed, or any other MS coop for the remainder of that calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 31160, June 28, 2019; 84 FR 68810, Dec. 17, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 31160, June 28, 2019; 84 FR 68810, Dec. 17, 2019; 85 FR 37029, June 19, 2020]Effective Date Note:At 85 FR 37029, June 19, 2020, § 660.150 was amended by adding paragraphs (b)(1)(i)(D), (b)(2)(ii)(B)(*1*) and (*2*), (f)(1)(iii), and (f)(2)(i)(A) and (B), effective June 19, 2020, until Dec. 16, 2020.

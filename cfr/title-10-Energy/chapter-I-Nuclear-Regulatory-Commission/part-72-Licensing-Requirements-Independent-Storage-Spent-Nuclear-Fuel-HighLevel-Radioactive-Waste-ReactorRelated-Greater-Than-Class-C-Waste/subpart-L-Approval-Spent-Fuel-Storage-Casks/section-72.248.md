@@ -6,7 +6,7 @@
 
 (2) The original FSAR shall be based on the safety analysis report submitted with the application and reflect any changes and applicant commitments developed during the cask design review process. The original FSAR shall be updated to reflect any changes to requirements contained in the issued Certificate of Compliance (CoC).
 
-(b) Each update shall contain all the changes necessary to reflect information and analyses submitted to the Commission by the certificate holder or prepared by the certificate holder pursuant to Commission requirement since the submission of the original FSAR or, as appropriate, the last update to the FSAR under this section. The update shall include the effects1 of:
+(b) Each update shall contain all the changes necessary to reflect information and analyses submitted to the Commission by the certificate holder or prepared by the certificate holder pursuant to Commission requirement since the submission of the original FSAR or, as appropriate, the last update to the FSAR under this section. The update shall include the effects1/\> of:
 
 1 Effects of changes includes appropriate revisions of descriptions in the FSAR such that the FSAR (as updated) is complete and accurate.
 

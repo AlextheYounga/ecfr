@@ -23,5 +23,3 @@ An applicant seeking a one-year extension must affirmatively request an extensio
 Note 1 to Paragraph (b)(4):
 
 An applicant seeking a one-year extension must affirmatively request an extension on or before the June 30 deadline for paragraph (b)(4) in this section. Applicants seeking an extension under paragraph (b)(4) in this section must certify to the Administrator that their service provider was unwilling to deliver or install the non-recurring services before the end of the funding year. Applicants must make this certification on or before June 30 of the relevant funding year. The revised implementation date will be calculated based on the date the Administrator issues a funding commitment.
-
-Effective Date Note:At 84 FR 54979, Oct. 11, 2019, § 54.626 was revised. Section 54.626(b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

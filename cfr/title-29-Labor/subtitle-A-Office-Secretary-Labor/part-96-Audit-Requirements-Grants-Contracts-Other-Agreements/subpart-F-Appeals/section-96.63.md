@@ -1,7 +1,5 @@
 ##### § 96.63 Federal financial assistance. #####
 
-Link to an amendment published at 85 FR 30619, May 20, 2020.
-
 The DOL grantor agencies shall determine which of the two appeal options set forth in paragraphs (a) and (b) of this section the recipient may use to appeal the final determination of the grant officer. All awards within the same Federal financial assistance program shall follow the same appeal procedure.
 
 (a) Appeal to the head of the grantor agency, or his/her designee, for which the audit was conducted.
@@ -30,4 +28,4 @@ The DOL grantor agencies shall determine which of the two appeal options set for
 
 (5) *Review by the Administrative Review Board.* In any case accepted for review by the Administrative Review Board, a decision shall be issued within 180 days of such acceptance. If a decision is not so issued, the decision of the Administrative Law Judge shall become the final decision of the Secretary.
 
-[64 FR 14539, Mar. 25, 1999, as amended at 72 FR 37104, July 9, 2007; 85 FR 13034, Mar. 6, 2020]
+[64 FR 14539, Mar. 25, 1999, as amended at 72 FR 37104, July 9, 2007; 85 FR 13034, Mar. 6, 2020; 85 FR 30619, May 20, 2020]

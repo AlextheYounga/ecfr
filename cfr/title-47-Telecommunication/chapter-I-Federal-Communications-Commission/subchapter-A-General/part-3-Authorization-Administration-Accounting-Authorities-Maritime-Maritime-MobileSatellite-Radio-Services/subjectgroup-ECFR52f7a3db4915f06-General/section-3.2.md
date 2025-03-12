@@ -10,7 +10,7 @@
 
 (e) *Authorization.* Approval by the Federal Communications Commission to operate as an accounting authority. Synonymous with “certification”.
 
-(f) *CCITT.* The internationally recognized French acronym for the International Telegraph and Telephone Consultative Committee, one of the former sub-entities of the International Telecommunication Union (ITU). The CCITT (ITU-T)1 is responsible for developing international telecommunications recommendations relating to standardization of international telecommunications services and facilities, including matters related to international charging and accounting principles and the settlement of international telecommunications accounts.
+(f) *CCITT.* The internationally recognized French acronym for the International Telegraph and Telephone Consultative Committee, one of the former sub-entities of the International Telecommunication Union (ITU). The CCITT (ITU-T)1/\> is responsible for developing international telecommunications recommendations relating to standardization of international telecommunications services and facilities, including matters related to international charging and accounting principles and the settlement of international telecommunications accounts.
 
 1 At the ITU Additional Plenipotentiary Conference in Geneva (December, 1992), the structure, working methods and construct of the basic ITU treaty instrument were modified. The result is that the names of the sub-entities of the ITU have changed (e.g., the CCITT has become the Telecommunication Standardization Sector - ITU-T and Recognized Private Operating Agency has become Recognized Operating Agency-ROA). The changes were placed into provisional effect on March 1, 1993 with the formal entry into force of these changes being July 1, 1994. We will refer to the new nomenclatures within these rules, wherever practicable.
 
@@ -36,7 +36,7 @@ Such recommendations are, effectively, the detailed implementation provisions fo
 
 (p) *Public Correspondence.* Any telecommunication which the offices and stations must, by reason of their being at the disposal of the public, accept for transmission. This usually applies to maritime mobile and maritime mobile-satellite stations.
 
-(q) *Recognized Operating Agencies (ROAs).*2 Individuals, companies or corporations, other than governments or agencies, recognized by administrations, which operate telecommunications installations or provide telecommunications services intended for international use or which are capable of causing interference to international telecommunications. ROAs which settle debtor accounts for public correspondence in the maritime mobile and maritime mobile-satellite radio services must be certified as accounting authorities.
+(q) *Recognized Operating Agencies (ROAs).*2/\> Individuals, companies or corporations, other than governments or agencies, recognized by administrations, which operate telecommunications installations or provide telecommunications services intended for international use or which are capable of causing interference to international telecommunications. ROAs which settle debtor accounts for public correspondence in the maritime mobile and maritime mobile-satellite radio services must be certified as accounting authorities.
 
 2 Id.
 

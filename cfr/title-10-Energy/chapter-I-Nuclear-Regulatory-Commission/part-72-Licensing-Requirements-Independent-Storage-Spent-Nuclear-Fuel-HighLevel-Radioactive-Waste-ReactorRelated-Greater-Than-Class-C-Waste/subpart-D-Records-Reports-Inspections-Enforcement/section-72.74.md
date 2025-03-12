@@ -1,6 +1,6 @@
 ##### § 72.74 Reports of accidental criticality or loss of special nuclear material. #####
 
-(a) Each licensee shall notify the NRC Operations Center1 within one hour of discovery of accidental criticality or any loss of special nuclear material.
+(a) Each licensee shall notify the NRC Operations Center1/\> within one hour of discovery of accidental criticality or any loss of special nuclear material.
 
 1 Commercial telephone number of the NRC Operations Center is (301) 816-5100.
 

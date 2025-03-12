@@ -8,7 +8,7 @@ Section 15(a)(1) provides, in part, that it shall be unlawful for any person to 
 
 \* \* \* any such transportation, offer, shipment, delivery, or sale of such goods by a purchaser who acquired them in good faith in reliance on written assurance from the producer that the goods were produced in compliance with the requirements of the Act, and who acquired such goods for value without notice of any such violation, shall not be deemed unlawful.
 
-The most important portion of the legislative history of those provisions in sections 12(a) and 15(a)(1) which relate to the protection of purchasers is found in the following discussion of the amendment to section 15(a)(1), contained in the Statement of the Managers on the part of the House appended to the Conference Report on the Fair Labor Standards Amendments of 1949:4
+The most important portion of the legislative history of those provisions in sections 12(a) and 15(a)(1) which relate to the protection of purchasers is found in the following discussion of the amendment to section 15(a)(1), contained in the Statement of the Managers on the part of the House appended to the Conference Report on the Fair Labor Standards Amendments of 1949:4/\>
 
 4 H. Rept. No. 1453, 81st Cong. 1st sess., p. 31.
 

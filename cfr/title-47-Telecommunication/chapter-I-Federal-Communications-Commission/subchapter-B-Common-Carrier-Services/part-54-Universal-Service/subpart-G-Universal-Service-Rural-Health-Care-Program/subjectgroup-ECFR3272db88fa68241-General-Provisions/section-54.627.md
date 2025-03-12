@@ -79,5 +79,3 @@
 (G) The consultants or third parties it has hired do not have an ownership interest, sales commission arrangement, or other financial stake in the service provider chosen to provide the requested services, and that they have otherwise complied with Rural Health Care Program rules, including the Commission's rules requiring fair and open competitive bidding; and
 
 (H) As a condition of receiving support, it will provide to the health care providers, on a timely basis, all documents regarding supported equipment, facilities, or services that are necessary for the health care provider to submit required forms or respond to Commission or Administrator inquiries.
-
-Effective Date Note:At 84 FR 54979, Oct. 11, 2019, § 54.627 was revised. Section 54.627 (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

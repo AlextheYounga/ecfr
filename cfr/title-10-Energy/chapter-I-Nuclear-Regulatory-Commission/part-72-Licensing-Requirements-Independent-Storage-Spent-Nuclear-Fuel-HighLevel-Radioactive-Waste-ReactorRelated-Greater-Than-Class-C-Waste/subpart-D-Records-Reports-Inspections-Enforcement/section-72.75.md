@@ -28,7 +28,7 @@
 
 (e) *Initial notification:* Reports made by licensees in response to the requirements of this section must be made as follows:
 
-(1) Licensees shall make reports required by paragraphs (a), (b), (c), or (d) of this section by telephone to the NRC Headquarters Operations Center.2
+(1) Licensees shall make reports required by paragraphs (a), (b), (c), or (d) of this section by telephone to the NRC Headquarters Operations Center.2/\>
 
 2 The commercial telephone number of the NRC Headquarters Operations Center is (301) 816-5100. Those licensees with an available Emergency Notification System (ENS) shall use the ENS to notify the NRC Headquarters Operations Center.
 

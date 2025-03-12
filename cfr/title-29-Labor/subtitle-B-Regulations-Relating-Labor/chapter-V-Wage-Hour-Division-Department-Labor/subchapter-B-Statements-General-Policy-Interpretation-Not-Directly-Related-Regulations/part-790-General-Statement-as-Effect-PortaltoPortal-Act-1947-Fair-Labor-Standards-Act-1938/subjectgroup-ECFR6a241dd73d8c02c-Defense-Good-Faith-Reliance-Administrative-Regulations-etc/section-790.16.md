@@ -1,6 +1,6 @@
 ##### § 790.16 “In reliance on.” #####
 
-(a) In addition to acting (or omitting to act) in good faith and in conformity with an administrative regulation, order, ruling, approval, interpretation, enforcement policy or practice, the employer must also prove that he actually relied upon it.101
+(a) In addition to acting (or omitting to act) in good faith and in conformity with an administrative regulation, order, ruling, approval, interpretation, enforcement policy or practice, the employer must also prove that he actually relied upon it.101/\>
 
 101 In a colloquy between Senators Thye and Cooper (93 Cong. Rec. 4451), Senator Cooper pointed out that the purpose of section 9 was to provide a defense for an employer who pleads and proves, among other things, that his failure to bring himself under the Act “grew out of reliance upon” the ruling of an agency. See also statement of Representative Keating, 93 Cong. Rec. 1512; colloquy between Representatives Keating and Devitt, 93 Cong. Rec. 1515; cf. colloquy between Senators Donnell and Ball, 93 Cong. Rec. 4372.
 

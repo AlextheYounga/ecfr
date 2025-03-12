@@ -8,7 +8,7 @@
 
 (3) Fewer than 50 percent of the voting-age citizens were registered to vote or voted in the 1972 Presidential election.
 
-All three conditions must be satisfied before coverage exists under section 4(f)(4).1
+All three conditions must be satisfied before coverage exists under section 4(f)(4).1/\>
 
 1 Coverage is based on sections 4(b) (third sentence), 4(c), and 4(f)(3).
 

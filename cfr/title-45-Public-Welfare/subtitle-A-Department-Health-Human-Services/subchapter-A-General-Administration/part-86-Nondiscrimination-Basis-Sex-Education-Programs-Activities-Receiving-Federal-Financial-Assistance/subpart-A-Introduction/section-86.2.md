@@ -1,5 +1,7 @@
 ##### § 86.2 Definitions. #####
 
+Link to an amendment published at 85 FR 37243, June 19, 2020.
+
 As used in this part, the term -
 
 (a) *Title IX* means title IX of the Education Amendments of 1972, Pub. L. 92-318, as amended by section 3 of Pub. L. 93-568, 88 Stat. 1855, except sections 904 and 906 thereof; 20 U.S.C. 1681, 1682, 1683, 1685, 1686.

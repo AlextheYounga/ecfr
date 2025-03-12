@@ -1,6 +1,6 @@
 ##### § 101.23 Initiation and investigation of a petition in connection with a case under section 8(b)(7). #####
 
-(a) A representation petition1 involving the employees of the employer named in the charge is handled under an expedited procedure when the investigation of the charge has revealed that:
+(a) A representation petition1/\> involving the employees of the employer named in the charge is handled under an expedited procedure when the investigation of the charge has revealed that:
 
 1 The manner of filing of such petition and the contents thereof are the same as described in 29 CFR 102.60 and 102.61 and the statement of the general course of proceedings under Section 9(c) of the Act published in the Federal Register, insofar as they are applicable, except that the petitioner is not required to allege that a claim was made on the employer for recognition or that the union represents a substantial number of employees.
 

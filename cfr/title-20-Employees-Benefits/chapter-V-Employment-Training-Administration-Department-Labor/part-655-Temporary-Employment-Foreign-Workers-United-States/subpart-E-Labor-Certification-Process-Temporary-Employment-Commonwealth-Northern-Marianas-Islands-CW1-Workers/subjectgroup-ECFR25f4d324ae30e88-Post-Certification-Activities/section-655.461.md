@@ -1,7 +1,5 @@
 ##### § 655.461 Administrative review. #####
 
-Link to an amendment published at 85 FR 30615, May 20, 2020.
-
 (a) *Request for review.* Where authorized in this subpart, an employer wishing review of a determination by the CO must request an administrative review before BALCA of that determination to exhaust its administrative remedies. In such cases, the request for review:
 
 (1) Must be received by BALCA, and the CO who issued the determination, within 10 business days from the date of the determination;
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 30615, May 20, 2020.
 
 (c) *Assignment.* The Chief ALJ will immediately, upon receipt of the appeal file from the CO, assign either a single member or a three-member panel of BALCA to consider a particular case.
 
-(d) *Administrative review* - (1) *Briefing schedule.* If the employer wishes to submit a brief on appeal, it must do so as part of its request for review. Within 7 business days of receipt of the Appeal File, the counsel for the CO may submit a brief in support of the CO's decision and, if applicable, in response to the employer's brief.
+(d) *Administrative review*—(1) *Briefing schedule.* If the employer wishes to submit a brief on appeal, it must do so as part of its request for review. Within 7 business days of receipt of the Appeal File, the counsel for the CO may submit a brief in support of the CO's decision and, if applicable, in response to the employer's brief.
 
 (2) *Standard of review.* The ALJ must uphold the CO's decision unless shown by the employer to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 30615, May 20, 2020.
 
 (f) *Decision.* The decision of BALCA must specify the reasons for the action taken and must be provided to the employer, the CO, and counsel for the CO within 7 business days of the submission of the CO's brief or 10 business days after receipt of the Appeal File, whichever is later, using means normally assuring expedited delivery.
 
-[84 FR 12431, Apr. 1, 2019, as amended at 85 FR 13029, Mar. 6, 2020]
+[84 FR 12431, Apr. 1, 2019, as amended at 85 FR 13029, Mar. 6, 2020; 85 FR 30615, May 20, 2020]

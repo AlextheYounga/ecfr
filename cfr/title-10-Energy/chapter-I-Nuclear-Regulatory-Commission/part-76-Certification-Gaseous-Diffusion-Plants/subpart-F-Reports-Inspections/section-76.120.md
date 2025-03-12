@@ -1,6 +1,6 @@
 ##### § 76.120 Reporting requirements. #####
 
-(a) *Immediate report.* The Corporation shall notify the NRC Operations Center3 within 1 hour after discovery of:
+(a) *Immediate report.* The Corporation shall notify the NRC Operations Center3/\> within 1 hour after discovery of:
 
 3 The commercial telephone number for the NRC Operations Center is (301) 816-5100 or (301) 951-0550, FAX (301) 816-5151.
 
@@ -12,7 +12,7 @@
 
 (4) An emergency condition that has been declared an alert or site area emergency.
 
-(b) *Four-hour report.* The Corporation shall notify the NRC Operations Center as soon as possible but not later than 4 hours after discovery of an event4 that prevents immediate protective actions necessary to avoid releases or exposures to radiation or radioactive materials that could exceed regulatory limits.
+(b) *Four-hour report.* The Corporation shall notify the NRC Operations Center as soon as possible but not later than 4 hours after discovery of an event4/\> that prevents immediate protective actions necessary to avoid releases or exposures to radiation or radioactive materials that could exceed regulatory limits.
 
 4 Events may include fires, explosions, radiological releases, etc.
 

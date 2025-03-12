@@ -20,7 +20,7 @@
 
 (f) *Statements of acceptance by local agencies.* If the Medicaid agency changes from a State-administered to a State-supervised, locally administered program, it must obtain statements of acceptance of the standards from the local agencies.
 
-(g) *Affirmative action plan.* The Medicaid agency must have in effect an affirmative action plan for equal employment opportunity, that includes specific action steps and timetables to assure that opportunity, and meets all other requirements of 45 CFR 70.4.1
+(g) *Affirmative action plan.* The Medicaid agency must have in effect an affirmative action plan for equal employment opportunity, that includes specific action steps and timetables to assure that opportunity, and meets all other requirements of 45 CFR 70.4.1/\>
 
 1 Editorial Note: The regulations formerly contained in 45 CFR 70.4 were revised and reissued by the Office of Personnel Management at 5 CFR part 900, (subpart F).
 
