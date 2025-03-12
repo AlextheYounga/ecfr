@@ -1,0 +1,21 @@
+##### § 113.3 Mailing Standards for COVID-19 related Category B Infectious Substances. #####
+
+(a) *Required Shipper Authorization.* (1) All shippers of COVID-19 related Infectious Substances Category B must obtain an authorization from the Postal Service prior to mailing. It is the responsibility of the shipper to ensure that they are aware of, and comply with, all other applicable requirements and regulations for the mailing of these materials; and they must be able to provide evidence of compliance before a written request is submitted to the manager of Product Classification, Postal Service Headquarters.
+
+(2) Under this section, only tests developed and being performed by laboratories certified under the Clinical Laboratory Improvement Amendments (CLIA) or equivalent clinical oversight regulations, and commercial tests and home collection kits authorized by either the FDA or an Institutional Review Board will be considered for mailing.
+
+(b) *Required Packaging.* The materials must be triple-packaged, meeting the packaging requirements in 49 CFR 173.199. Such materials must be properly packaged to withstand shocks, pressure changes, and other conditions related to ordinary handling in transit, and surrounded by absorbent material sufficient to protect the primary receptacle and to absorb the total amount of liquid should the primary receptacle leak or break. The outer packaging must be of adequate size to accommodate all required shipping information and marks and will include the size of the mark on each side must not be less than 50 mm (1.97 inches) in length, the width of the border lines at least 2 mm, and letter and numbers must be at least 6 mm (0.24 inches) high.
+
+(c) *Package Drop Test.* The completed triple packaging must be capable of successfully passing the drop test in 49 CFR 178.609(d) at a drop height of at least 1.2 meters (3.9 feet). Following the drop test, there must be no leakage from the primary receptacle, which must remain protected by absorbent material, when required, in the secondary packaging.
+
+(d) *Instructions.* Shippers must provide clear instructions to users regarding the procedures to be followed for preparing the samples and packaging used to transport an Infectious Substance Category B. Shippers must instruct users to adhere to all applicable mail related preparation requirements before mailing, to ensure the package is properly prepared for safe transportation.
+
+(e) *Optional Outer Packaging.* A polybag covering may be acceptable as the outer packaging, providing that the interior triple packaging is complete, the selvage edge of the wrapping is less than 2 inches, all required markings and address information are applied both on the interior rigid box and the additional outer polybag wrapping.
+
+(f) *Use of a Refrigerant (If Applicable).* (1) Only cold packs or dry ice may be used as a refrigerant and must be placed outside of the secondary packaging. Interior supports must be provided to secure the secondary packaging in the original position. If a cold pack is used, the packaging must be leak-proof. If dry ice is used, the outside packaging must permit the release of carbon dioxide gas and otherwise meet the provisions in 49 CFR 173.217. The primary receptacle and secondary packaging must maintain their integrity at the temperature of the refrigerant used, as well as the temperatures and pressures of transport by aircraft they could be subjected to if refrigeration were lost, and sufficient absorbent material must be provided to absorb all liquid, including melted ice.
+
+(2) When dry ice is used, the package must include the markings “Carbon dioxide, solid” or “Dry ice” and an indication that the material being refrigerated is used for diagnostic or treatment purposes (*e.g.,* frozen medical specimens). Marking requirements in USPS Packaging Instruction 9A are not applicable.
+
+(g) *Other Allowance.* Only small quantities of Class 3, Class 8, Class 9, or other materials in Packing Groups II and III may be used to stabilize or prevent degradation of the sample, provided the quantity of such materials does not exceed 30 mL (1 ounce) or 30 g (1 ounce) in each inner packaging.
+
+[85 FR 23745, Apr. 29, 2020]

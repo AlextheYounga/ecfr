@@ -1,5 +1,7 @@
 ##### § 800.502 Contents of voluntary notices. #####
 
+Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
+
 (a) If the parties to a transaction file a voluntary notice, they shall provide in detail the information set out in this section, which must be accurate and complete with respect to all parties and to the transaction. (See also paragraph (l) of this section and § 800.204 regarding certification requirements.)
 
 (b) If fewer than all parties to a transaction file a voluntary notice, for example in the case of a hostile takeover, each notifying party shall provide the information set out in this section with respect to itself and, to the extent known or reasonably available to it, with respect to each non-notifying party.

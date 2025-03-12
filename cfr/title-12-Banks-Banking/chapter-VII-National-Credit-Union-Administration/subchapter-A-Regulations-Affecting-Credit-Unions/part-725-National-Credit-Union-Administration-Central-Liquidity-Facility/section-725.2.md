@@ -32,7 +32,7 @@ As used in this part:
 
 (7) Balances maintained by federally insured credit unions in a Federal Reserve bank, or in a pass-through account to a Federal Reserve bank, pursuant to the requirements of section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)).
 
-(i) *Liquidity needs* means the needs of credit unions primarily serving natural persons for:
+(i) *Liquidity needs* means the needs of credit unions for:
 
 (1) Short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persistent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
@@ -58,4 +58,4 @@ As used in this part:
 
 (p) *Stock subscription* means the stock subscription required for membership in the Facility. “Total subscribed Facility stock” is the sum of all members' stock subscriptions.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013; 84 FR 1608, Feb. 5, 2019]
+[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013; 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020]

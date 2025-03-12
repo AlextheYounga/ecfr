@@ -1,5 +1,7 @@
 ##### § 802.502 Contents of voluntary notices. #####
 
+Link to an amendment published at 85 FR 23742, Apr. 29, 2020.
+
 (a) If a party or the parties to a transaction file a voluntary notice, they shall provide in detail the information set out in this section, which must be accurate and complete with respect to the party or parties filing the voluntary notice and to the transaction. (See also paragraph (k) of this section regarding U.S. public entities and paragraph (h) of this section and § 802.202 regarding certification requirements.)
 
 (b) A voluntary notice filed under § 802.501 shall describe or provide, as applicable:

@@ -12,6 +12,6 @@
 
 (ii) Copies of the credit union's charter and bylaws, unless the credit union is federally chartered.
 
-(b) A credit union which becomes a Regular member of the Facility after February 23, 1980, may not receive Facility advances without approval of the NCUA Board for a period of six months after becoming a member. This subsection shall not apply to any credit union which becomes a Regular member of the Facility within six months after such credit union is chartered, or which has had access to Facility funds through an Agent member of the Facility at any time within six months prior to becoming a Regular member of the Facility.
+(b) [Reserved]
 
-[44 FR 49437, Aug. 23, 1979, as amended at 47 FR 1371, Jan. 13, 1982; 84 FR 1608, Feb. 5, 2019]
+[44 FR 49437, Aug. 23, 1979, as amended at 47 FR 1371, Jan. 13, 1982; 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020]

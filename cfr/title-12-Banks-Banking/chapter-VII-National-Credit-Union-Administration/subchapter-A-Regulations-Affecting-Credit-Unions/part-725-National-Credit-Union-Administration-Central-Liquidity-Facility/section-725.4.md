@@ -4,9 +4,21 @@
 
 (1) Making application on a form approved by the Facility;
 
-(2) Subscribing to the capital stock of the Facility in an amount equal to one-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with § 725.5(b) of this part) of all the corporate credit union's or corporate credit union group's member natural person credit unions, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent.2 Upon approval of the application, the Agent shall forward funds equal to one-half of this initial stock subscription to the Facility.
+(2) Subscribing to the capital stock of the Facility in an amount equal to:
 
-2 A natural person credit union which is a member of more than one Agent member of the Facility must designate through which Agent it will deal with the Facility, and the designated Agent will be responsible for including the capital and surplus of such credit union in the calculation of its stock subscription.
+(i) One-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with § 725.5(b) of this part) of all the corporate credit union's or corporate credit union group's member natural person credit unions, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent (a natural person credit union which is a member of more than one Agent member of the Facility must designate through which Agent it will deal with the Facility, and the designated Agent will be responsible for including the capital and surplus of such credit union in the calculation of its stock subscription). Upon approval of the application, the Agent shall forward funds equal to one-half of this initial stock subscription to the Facility;
+
+(ii) From April 29, 2020 until December 31, 2020, one-half of 1 percent of the paid-in and unimpaired capital and surplus (as determined in accordance with § 725.5(b) of this part) of such credit union members of the corporate credit union or corporate credit union group as the Board may determine in its sole discretion, except those which are Regular members of the Facility or which have access to the Facility through, and are included in the stock subscription of, another Agent (a natural person credit union which is a member of more than one Agent member of the Facility must designate through which Agent it will deal with the Facility, and the designated Agent will be responsible for including the capital and surplus of such credit union in the calculation of its stock subscription). Upon approval of the application, the Agent shall forward funds equal to one-half of this initial stock subscription to the Facility. A corporate credit union or corporate credit union group that became an Agent member of the Facility under this paragraph shall, after December 31, 2020, but before January 1, 2022, either:
+
+(A) Purchase Facility stock in accordance with the terms of paragraph (a)(2)(i) of this section or
+
+(B) Terminate its membership in the facility.
+
+(iii) From April 29, 2020 until December 31, 2020, if borrowing for its own liquidity needs, one-half of 1 percent of the Agent's own paid-in and unimpaired capital and surplus. Upon approval of the application, the Agent shall forward funds equal to one-half of this stock subscription to the Facility. This amount shall be in addition to the amounts required by paragraph (a)(2)(i) or (ii) of this section, if a corporate credit union or corporate credit union group joined the facility as an Agent and intends to borrow for its own liquidity needs. Any corporate credit union or corporate credit union group that received a Facility advance for its own liquidity need under the temporary requirements set forth in this paragraph must, as of January 1, 2021 and thereafter:
+
+(A) Not request any additional Facility advances for its own liquidity needs; and
+
+(B) Continue to follow the terms of the Facility advance agreement entered into between the Agent and the Facility.
 
 (3) Furnishing the following reports and documents with the completed membership application:
 
@@ -50,4 +62,4 @@
 
 (g) Agent members will be compensated for the services they perform for the Facility in a manner to be specified by the NCUA Board.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 84 FR 1608, Feb. 5, 2019]
+[44 FR 49437, Aug. 23, 1979, as amended at 84 FR 1608, Feb. 5, 2019; 85 FR 23735, Apr. 29, 2020]

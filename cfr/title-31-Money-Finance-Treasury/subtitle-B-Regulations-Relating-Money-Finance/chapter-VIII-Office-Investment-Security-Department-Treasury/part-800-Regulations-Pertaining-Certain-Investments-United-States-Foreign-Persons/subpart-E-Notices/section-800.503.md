@@ -1,5 +1,7 @@
 ##### § 800.503 Beginning of 45-day review period. #####
 
+Link to an amendment published at 85 FR 23740, Apr. 29, 2020.
+
 (a) The Staff Chairperson shall accept a voluntary notice the next business day after the Staff Chairperson has:
 
 (1) Determined that the notice complies with § 800.502; and
