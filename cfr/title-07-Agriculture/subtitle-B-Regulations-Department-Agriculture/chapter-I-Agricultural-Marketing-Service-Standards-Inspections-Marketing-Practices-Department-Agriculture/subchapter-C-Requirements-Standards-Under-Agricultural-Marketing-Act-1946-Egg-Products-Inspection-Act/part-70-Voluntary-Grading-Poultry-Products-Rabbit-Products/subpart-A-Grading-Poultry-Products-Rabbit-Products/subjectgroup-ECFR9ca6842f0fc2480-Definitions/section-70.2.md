@@ -1,0 +1,15 @@
+##### § 70.2 Designation of official certificates, memoranda, marks, other identifications, and devices for purposes of the Agricultural Marketing Act. #####
+
+Subsection 203(h) of the Agricultural Marketing Act of 1946, as amended by Pub. L. 272, 84th Congress, provides criminal penalties for various specified offenses relating to official certificates, memoranda, marks, or other identification and devices for making such marks or identifications, issued or authorized under section 203 of said Act, and certain misrepresentations concerning the grading of agricultural products under said section. For the purposes of said subsection and the provisions in this part, the terms listed in this section shall have the respective meaning specified:
+
+(a) *Official certificate* means any form of certification, either written or printed, used under this part to certify with respect to the sampling, class, grade, quality, size, quantity, or condition of products (including the compliance of products with applicable specifications).
+
+(b) *Official memorandum* means any initial record of findings made by an authorized person in the process of grading or sampling pursuant to this part, any processing or plant-operation report made by an authorized person in connection with grading or sampling under this part, and any report made by an authorized person of services performed pursuant to this part.
+
+(c) *Official mark* means the grade-mark and any other mark, or any variations in such marks, approved by the Administrator and authorized to be affixed to any product or affixed to or printed on the packaging material of any product, stating that the product was graded or indicating the appropriate U.S. grade or condition of the product, or for maintaining the identity of products graded under this part, including but not limited to, those marks set forth in § 70.51.
+
+(d) *Official identification* means any United States (U.S.) standard designation of class, grade, quality, size, quantity, or condition specified in this part or any symbol, stamp, label, or seal indicating that the product has been officially graded and/or indicating the class, grade, quality, size, quantity, or condition of the product approved by the Administrator and authorized to be affixed to any product, or affixed to or printed on the packaging material of any product.
+
+(e) *Official device* means a stamping 0, branding device, stencil, printed label, or any other mechanically or manually operated tool that is approved by the Administrator for the purpose of applying any official mark or other identification to any product or the packaging material thereof.
+
+[41 FR 23681, June 11, 1976. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 71 FR 42011, July 24, 2006]

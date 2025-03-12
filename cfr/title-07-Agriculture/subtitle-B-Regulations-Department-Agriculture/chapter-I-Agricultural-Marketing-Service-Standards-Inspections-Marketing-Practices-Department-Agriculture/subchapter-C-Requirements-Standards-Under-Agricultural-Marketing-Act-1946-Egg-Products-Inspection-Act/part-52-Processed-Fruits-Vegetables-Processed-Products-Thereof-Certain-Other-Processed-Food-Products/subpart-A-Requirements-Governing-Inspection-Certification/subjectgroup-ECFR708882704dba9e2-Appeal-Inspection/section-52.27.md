@@ -1,0 +1,3 @@
+##### § 52.27 Who shall perform appeal inspection. #####
+
+An appeal inspection shall be performed by an inspector or inspectors (other than the one from whose inspection the appeal is requested) authorized for this purpose by the Administrator and, whenever practical, such appeal inspection shall be conducted jointly by two such inspectors: *Provided,* That, the inspector who made the inspection on which the appeal is requested may be authorized to draw the samples when another inspector or licensed sampler is not available in the area where the product is located.

@@ -1,0 +1,5 @@
+##### § 70.18 Schedule of operation of official plants. #####
+
+Grading operation schedules for services performed pursuant to §§ 70.76 and 70.77 shall be requested in writing and be approved by the Administrator. Normal operating schedules for a full week consist of a continuous 8-hour period per day (excluding not to exceed 1 hour for lunch), 5 consecutive days per week, within the administrative workweek, Sunday through Saturday, for each shift required. Less than 8-hour schedules may be requested and will be approved if a grader is available. Clock hours of daily operations need not be specified in the request, although as a condition of continued approval, the hours of operation shall be reasonably uniform from day to day. Graders are to be notified by management 1 day in advance of any change in the hours grading service is requested.
+
+[48 FR 20683, May 9, 1983]

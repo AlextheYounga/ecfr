@@ -1,0 +1,3 @@
+##### § 54.1026 Superseded reports. #####
+
+The appeal report shall supersede the original report which, thereupon, shall become null and void for all or a portion of the report pertaining to the appeal service and shall not thereafter be deemed to show the compliance of the equipment or utensils described therein. However, the fees charged for the original service shall not be remitted to the applicant who filed the appeal.

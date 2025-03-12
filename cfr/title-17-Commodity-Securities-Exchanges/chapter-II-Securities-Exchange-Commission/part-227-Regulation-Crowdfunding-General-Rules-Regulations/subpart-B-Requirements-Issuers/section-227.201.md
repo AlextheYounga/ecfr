@@ -160,4 +160,34 @@ I, [identify the certifying individual], certify that:
 
 *Instruction to § 227.201.* If disclosure provided pursuant to any paragraph of this section also satisfies the requirements of one or more other paragraphs of this section, it is not necessary to repeat the disclosure. Instead of repeating information, an issuer may include a cross-reference to disclosure contained elsewhere in the offering statement or report, including to information in the financial statements.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017]
+(z) Between May 4, 2020, and August 31, 2020, an issuer may initiate an offering intended to be conducted on an expedited basis due to circumstances relating to COVID-19. Such issuer:
+
+(1) Must prominently provide the following information:
+
+(i) A statement that the offering is being conducted on an expedited basis due to circumstances relating to COVID-19 and pursuant to the SEC's temporary regulatory COVID-19 relief set out in this part;
+
+(ii) If the issuer is relying on paragraph (z)(2) of this section to omit the information required by paragraph (t) of this section in the initial Form C: Offering Statement (Form C) (§ 239.900 of this chapter) filed with the Commission and provided to investors and the relevant intermediary in accordance with § 227.203(a)(1), a statement that:
+
+(A) The financial information that has been omitted is not currently available and will be provided by an amendment to the offering materials;
+
+(B) The investor should review the complete set of offering materials, including previously omitted financial information, prior to making an investment decision; and
+
+(C) No investment commitments will be accepted until after such financial information has been provided; and
+
+(iii) If the issuer is relying on paragraph (z)(3) of this section to provide financial statement information required by paragraph (t)(1) of this section, a statement that financial information certified by the principal executive officer of the issuer has been provided instead of financial statements reviewed by a public accountant that is independent of the issuer; and
+
+(iv) In lieu of the information required by paragraph (j) of this section, a description of the process to complete the transaction or cancel an investment commitment, including a statement that:
+
+(A) Investors may cancel an investment commitment for any reason within 48 hours from the time of his or her investment commitment (or such later period as the issuer may designate);
+
+(B) The intermediary will notify investors when the target offering amount has been met;
+
+(C) The issuer may close the offering at any time after it has aggregate investment commitments for which the right to cancel pursuant to paragraph (z)(1)(iv)(A) of this section has lapsed that equal or exceed the target offering amount (absent a material change that would require an extension of the offering and reconfirmation of the investment commitment); and
+
+(D) If an investor does not cancel an investment commitment within 48 hours from the time of the initial investment commitment, the funds will be released to the issuer upon closing of the offering and the investor will receive securities in exchange for his or her investment;
+
+(2) May omit the information required by paragraph (t) of this section in the initial Form C: Offering Statement (Form C) (§ 239.900 of this chapter) filed with the Commission and provided to investors and the relevant intermediary in accordance with § 227.203(a)(1) if such information is unavailable at the time of filing, but the intermediary may not accept any investment commitments until complete information required under paragraph (t) of this section is provided through an amendment to the Form C in accordance with § 227.203(a)(2); and
+
+(3) May comply with the requirements of paragraph (t)(1) of this section instead of paragraph (t)(2) for an offering or offerings that, together with all other amounts sold under section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) within the preceding 12-month period, have, in the aggregate, a target offering amount of more than $107,000, but not more than $250,000, and financial statements of the issuer that have either been reviewed or audited by a public accountant that is independent of the issuer are unavailable at the time of filing.
+
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020]Effective Date Note:At 85 FR 27131, May 7, 2020, § 227.201 was amended by adding paragraph (z), effective May 4, 2020, through Mar. 1, 2021.

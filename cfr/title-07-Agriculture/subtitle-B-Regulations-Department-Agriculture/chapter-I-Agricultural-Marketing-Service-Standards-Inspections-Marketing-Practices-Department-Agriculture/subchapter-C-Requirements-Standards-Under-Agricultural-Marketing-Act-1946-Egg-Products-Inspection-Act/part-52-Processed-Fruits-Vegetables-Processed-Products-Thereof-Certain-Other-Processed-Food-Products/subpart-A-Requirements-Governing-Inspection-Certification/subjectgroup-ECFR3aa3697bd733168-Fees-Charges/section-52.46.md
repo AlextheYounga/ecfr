@@ -1,0 +1,3 @@
+##### § 52.46 Fee for appeal inspection. #####
+
+The fee to be charged for an appeal inspection shall be at the rates prescribed in this part for other inspection services: *Provided,* That, if the result of any appeal inspection made for any applicant other than the United States or any agency or instrumentality thereof, discloses that a material error was made in the inspection on which the appeal is made, no inspection fee shall be assessed.

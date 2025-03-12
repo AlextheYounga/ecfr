@@ -1,0 +1,7 @@
+##### § 51.21 Disposition of inspection certificates. #####
+
+(a) The original certificate, and not to exceed four copies (if requested by applicant prior to issuance), shall be delivered or mailed promptly to the applicant or to a person designated by him. One copy shall be delivered or mailed to the shipper of the inspected product. One copy shall be filed in the office of the inspector when the inspection is made by a Federal Government employee, otherwise, it shall be filed in the appropriate office of the cooperating Federal-State Inspection Agency. Unless otherwise directed by the Administrator, two copies of each official certificate issued on products received in destination markets shall be forwarded to the Administrator to be kept on file in Washington and no copies of official certificates issued at shipping point need be so forwarded. In the case of any product covered by a marketing agreement and/or order effective pursuant to the Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601 *et seq.*), at least one copy of each certificate covering the inspection of such product shall, on request, be delivered to the administrative agency established thereunder, subject to such terms and conditions as the Administrator may prescribe. Copies may be furnished to other interested parties as outlined in § 51.41.
+
+(b) [Reserved]
+
+[63 FR 15277, Mar. 31, 1998]

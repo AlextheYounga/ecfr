@@ -1,0 +1,3 @@
+##### § 60.107 Food service establishment. #####
+
+*Food service establishment* means a restaurant, cafeteria, lunch room, food stand, saloon, tavern, bar, lounge, or other similar facility operated as an enterprise engaged in the business of selling food to the public. Similar food service facilities include salad bars, delicatessens, and other food enterprises located within retail establishments that provide ready-to-eat foods that are consumed either on or outside of the retailer's premises.

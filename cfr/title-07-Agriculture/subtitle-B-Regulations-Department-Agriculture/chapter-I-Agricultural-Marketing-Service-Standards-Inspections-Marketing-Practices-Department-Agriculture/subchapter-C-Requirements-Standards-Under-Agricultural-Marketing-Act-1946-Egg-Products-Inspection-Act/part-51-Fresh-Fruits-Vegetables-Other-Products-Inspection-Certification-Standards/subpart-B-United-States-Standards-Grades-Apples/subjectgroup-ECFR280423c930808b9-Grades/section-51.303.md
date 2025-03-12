@@ -1,0 +1,3 @@
+##### § 51.303 U.S. Utility. #####
+
+“U.S. Utility” consists of apples of one variety (except when more than one variety is printed on the container) which are mature but not overripe, not seriously deformed and free from decay, internal browning, internal breakdown, soft scald, and freezing injury. The apples are also free from serious damage caused by dirt or other foreign matter, broken skins, bruises, brown surface discoloration, russeting, sunburn or sprayburn, limb rubs, hail, drought spots, scars, stem or calyx cracks, visible water core, bitter pit or Jonathan spot, disease, insects, or other means. (*See* § 51.306.)

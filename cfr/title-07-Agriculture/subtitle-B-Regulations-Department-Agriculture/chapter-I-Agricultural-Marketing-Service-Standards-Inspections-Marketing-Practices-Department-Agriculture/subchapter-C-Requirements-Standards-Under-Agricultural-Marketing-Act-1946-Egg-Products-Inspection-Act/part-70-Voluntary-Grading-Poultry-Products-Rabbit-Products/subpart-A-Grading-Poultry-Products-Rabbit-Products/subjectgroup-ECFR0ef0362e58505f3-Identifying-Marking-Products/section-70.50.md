@@ -1,0 +1,5 @@
+##### § 70.50 Approval of official identification and wording on labels. #####
+
+Any label or packaging material which bears any official grade identification shall be used only in such a manner as the Administrator may prescribe, and such labeling or packaging materials, including the wording used on such materials, shall be approved in accordance with and conform with the provisions of this part 70 and the applicable provisions of §§ 381.115 through 381.141 of 9 CFR part 381. Poultry Products Inspection Regulations. Labeling requirements for ready-to-cook rabbits, except for the product name, shall be the same as for ready-to-cook poultry. For ready-to-cook rabbits the class name shall be shown on the label. The appropriate designation, “young,” “mature,” or “old,” may be used as a prefix to the word “rabbit” in lieu of the class name.
+
+[41 FR 23681, June 11, 1976; 41 FR 24694, June 18, 1976. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981]

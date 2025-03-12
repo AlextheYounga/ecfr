@@ -1,0 +1,3 @@
+##### § 52.23 When appeal inspection may be requested. #####
+
+An application for an appeal inspection may be made by any interested party who is dissatisfied with the results of an inspection as stated in an inspection certificate, if the lot of processed products can be positively identified by the inspection service as the lot from which officially drawn samples were previously inspected. Such application shall be made within thirty (30) days following the day on which the previous inspection was performed, except upon approval by the Administrator the time within which an application for appeal inspection may be made may be extended.

@@ -1,0 +1,5 @@
+##### § 51.3055 Standard pack. #####
+
+(a) The avocados shall be packed in accordance with good commercial practice and the pack shall be at least fairly tight. The weight of the smallest fruit in any container shall be not less than 75 percent of the weight of the largest fruit in the container. Size of the avocados may be specified by count.
+
+(b) In order to allow for variations incident to proper sizing and packing, not more than 5 percent, by count, of the avocados in any container may weigh less than 75 percent of the weight of the largest fruit: *Provided,* That no fruit in any container shall weigh less than 60 percent of the weight of the largest fruit in the container. In addition, not more than 5 percent of the containers in any lot may fail to meet the requirement as to tightness of pack.

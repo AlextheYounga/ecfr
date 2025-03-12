@@ -1,0 +1,3 @@
+##### § 51.29 Order in which made. #####
+
+Appeal inspections shall be made, as soon as practicable, following the time requested by the applicant and in the order in which applications are received. They shall take precedence over all other pending applications, except applications for inspections covering lots involved in complaints filed pursuant to the Perishable Agricultural Commodities Act, 1930 as amended (7 U.S.C. 499a *et seq.*).

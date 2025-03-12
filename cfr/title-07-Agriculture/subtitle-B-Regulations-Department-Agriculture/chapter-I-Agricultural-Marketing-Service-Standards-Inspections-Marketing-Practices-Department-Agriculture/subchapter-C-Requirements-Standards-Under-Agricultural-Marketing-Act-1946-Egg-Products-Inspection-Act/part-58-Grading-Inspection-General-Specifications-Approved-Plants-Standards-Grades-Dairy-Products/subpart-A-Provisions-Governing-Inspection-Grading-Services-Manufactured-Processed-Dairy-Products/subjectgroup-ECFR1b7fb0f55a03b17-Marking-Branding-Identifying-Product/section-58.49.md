@@ -1,0 +1,3 @@
+##### § 58.49 Authority to use official identification. #####
+
+Whenever the Administrator determines that the granting of authority to any person to package any product, inspected or graded pursuant to this part, and to use official identification, pursuant to §§ 58.49 through 58.57, will not be inconsistent with the Act and this part, he may authorize such use of official identification. Any application for such authority shall be submitted to the Administrator in such form as he may require.

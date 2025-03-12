@@ -1,0 +1,3 @@
+##### § 53.5 Availability of service. #####
+
+Service under these regulations may be made available with respect to livestock shipped or received in interstate commerce, and with respect to the livestock not so shipped or received if the Director or Chief determines that the furnishing of service for such livestock would facilitate the marketing, distribution, processing, or utilization of agricultural products through commercial channels. Also, such service may be made available under a cooperative agreement. Service under these regulations shall be provided without discrimination as to race, color, sex, creed, or national origin.

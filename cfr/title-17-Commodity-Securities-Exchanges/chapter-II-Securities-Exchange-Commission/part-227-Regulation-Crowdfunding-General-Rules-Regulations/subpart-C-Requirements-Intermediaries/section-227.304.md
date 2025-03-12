@@ -33,3 +33,17 @@
 (2) Direct the refund of investor funds; and
 
 (3) Prevent investors from making investment commitments with respect to that offering on its platform.
+
+(e) *Temporary requirements.* The following shall apply in lieu of paragraphs (a) and (b) of this section with respect to an offering initiated between May 4, 2020, and August 31, 2020, that is intended to be conducted on an expedited basis due to circumstances relating to COVID-19:
+
+(1) An investor may cancel an investment commitment for any reason within 48 hours from the time of his or her investment commitment (or such later period as the issuer may designate). After such 48 hour period, an investment commitment may not be cancelled except as provided in paragraph (c) of this section; and
+
+(2) If an issuer has received aggregate investment commitments for which the right to cancel pursuant to paragraph (e)(1) has lapsed covering the target offering amount prior to the deadline identified in its offering materials pursuant to § 227.201(g), the issuer may close the offering on a date earlier than the deadline identified in its offering materials pursuant to § 227.201(g), *provided that:*
+
+(i) The issuer has complied with § 227.201(z);
+
+(ii) The intermediary provides notice to any potential investors, and gives or sends notice to investors that have made investment commitments in the offering, that the target offering amount has been met; and
+
+(iii) At the time of the closing of the offering, the issuer continues to meet or exceed the target offering amount.
+
+[80 FR 71537, Nov. 16, 2015, as amended at 85 FR 27132, May 7, 2020]Effective Date Note:At 85 FR 27132, May 7, 2019, § 227.304 was amended by adding paragraph (e), effective May 4, 2020, through Mar. 1, 2021.

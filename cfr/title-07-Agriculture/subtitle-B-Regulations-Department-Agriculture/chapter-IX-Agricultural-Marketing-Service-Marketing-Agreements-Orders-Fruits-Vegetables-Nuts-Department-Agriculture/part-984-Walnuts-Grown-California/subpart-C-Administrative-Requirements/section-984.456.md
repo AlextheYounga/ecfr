@@ -1,5 +1,7 @@
 ##### § 984.456 Disposition of reserve walnuts and walnuts used for reserve disposition credit. #####
 
+Link to an amendment published at 85 FR 27109, May 7, 2020.
+
 (a) Beginning September 1 of any marketing year, a handler may become an agent of the Board to dispose of reserve walnuts of such marketing year. The agency shall be established upon execution of an “Agency Agreement for Reserve Walnuts” setting forth the terms and conditions specified by the Board for the sale of reserve walnuts in authorized outlets.
 
 (b) Any handler who desires to transfer disposition credit in excess of his/her reserve obligation to another handler shall submit a request to the Board for such transfer on CWB Form No. 17 signed by both handlers and the Board shall credit such transfer.

@@ -1,5 +1,7 @@
 ##### § 982.516 Family income and composition: Annual and interim examinations. #####
 
+Link to an amendment published at 85 FR 27139, May 7, 2020.
+
 (a) *PHA responsibility for reexamination and verification.* (1) The PHA must conduct a reexamination of family income and composition at least annually.
 
 (2) Except as provided in paragraph (a)(3) of this section, the PHA must obtain and document in the tenant file third-party verification of the following factors, or must document in the tenant file why third-party verification was not available:

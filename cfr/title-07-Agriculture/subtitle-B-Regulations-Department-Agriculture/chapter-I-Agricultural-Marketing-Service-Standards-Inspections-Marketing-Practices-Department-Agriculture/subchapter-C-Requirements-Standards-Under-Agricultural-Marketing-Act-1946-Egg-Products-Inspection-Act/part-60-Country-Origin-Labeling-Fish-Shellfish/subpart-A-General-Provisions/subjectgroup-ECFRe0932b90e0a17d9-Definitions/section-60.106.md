@@ -1,0 +1,3 @@
+##### § 60.106 Farm-raised fish. #####
+
+*Farm-raised fish* means fish or shellfish that have been harvested in controlled environments, including ocean-ranched (e.g., penned) fish and including shellfish harvested from leased beds that have been subjected to production enhancements such as providing protection from predators, the addition of artificial structures, or providing nutrients; and fillets, steaks, nuggets, and any other flesh from a farm-raised fish or shellfish.

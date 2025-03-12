@@ -1,0 +1,5 @@
+##### § 51.3053 U.S. No. 3. #####
+
+“U.S. No. 3” consists of avocados of similar varietal characteristics which are mature but not overripe, which are not badly misshapen, and which are free from decay and are free from serious damage caused by anthracnose and are free from very serious damage caused by freezing injury, bruises, cuts or other skin breaks, pulled stems, russeting or similar discoloration, scars or scab, sunburn, sunscald or sprayburn, cercospora spot, other disease, insects, dirt or mechanical or other means.
+
+(a) *Tolerances.* In order to allow for variations incident to proper grading and handling, not more than a total of 10 percent, by count, of the avocados in any lot may fail to meet the requirements of this grade, including therein not more than 2 percent for avocados affected by decay. (See §§ 51.3055 and 51.3056.)

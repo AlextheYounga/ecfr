@@ -1,0 +1,3 @@
+##### § 58.20 Disposition of inspection or grading certificates or reports. #####
+
+The original of any inspection or grading certificate or report issued pursuant to § 58.19, and not to exceed four copies thereof, shall immediately upon issuance be delivered or mailed to the applicant or person designated by him. One copy shall be filed in the inspection and grading office serving the area in which the service was performed and all other copies shall be filed in such manner as the Administrator may approve. Additional copies of any such certificate or report may be supplied to any interested party as provided in § 58.41.

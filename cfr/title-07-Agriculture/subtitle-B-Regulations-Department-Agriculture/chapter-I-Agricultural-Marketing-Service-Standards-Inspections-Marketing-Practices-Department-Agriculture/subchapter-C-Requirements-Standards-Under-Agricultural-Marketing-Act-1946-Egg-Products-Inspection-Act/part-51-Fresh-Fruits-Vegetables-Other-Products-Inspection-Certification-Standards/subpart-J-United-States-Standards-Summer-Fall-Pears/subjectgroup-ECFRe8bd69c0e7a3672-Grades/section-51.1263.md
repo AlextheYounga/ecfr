@@ -1,0 +1,3 @@
+##### § 51.1263 U.S. No. 2. #####
+
+“U.S. No. 2” consists of pears of one variety which are mature, but not over-ripe, carefully hand-picked, clean, not seriously misshapen, free from decay, internal breakdown, scald, freezing injury, worm holes, black end, and from damage caused by hard end, or broken skins. The pears shall also be free from serious damage caused by bruises, russeting, limbrubs, hail, scars, drought spot, sunburn, sprayburn, stings or other insect injury, disease, or mechanical or other means. (See §§ 51.1265 and 51.1268.)

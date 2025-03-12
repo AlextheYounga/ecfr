@@ -1,0 +1,9 @@
+##### § 53.2 Designation of official certificates, memoranda, marks, other identifications, for purposes of the Agricultural Marketing Act. #####
+
+Subsection 203(h) of the Agricultural Marketing Act of 1946, as amended by Pub. L. 272, 84th Congress, provides criminal penalties for various specified offenses relating to official certificates, memoranda, marks or other identifications, and devices for making such marks or identifications, issued or authorized under section 203 of said act, and certain misrepresentations concerning the inspection or grading of agricultural products under said section. For the purposes of said subsection and the provisions in this part, the terms listed below shall have the respective meanings specified:
+
+(a) *Official certificate* means any form of certification, either written or printed, including that prescribed in § 53.16, used under the regulations to certify with respect to the inspection, class, grade, quality, size, quantity, or condition of livestock with applicable specifications.
+
+(b) *Official memorandum* means any initial record of findings made by an authorized person in the process of grading, determining compliance, or inspecting, pursuant to the regulations, any processing or plant-operation report made by an authorized person in connection with grading, determining compliance, inspecting, or sampling under the regulations, and any report made by an authorized person of services performed pursuant to the regulations.
+
+(c) *Official mark* or *other official identification* means any form of mark or other identification, used under the regulations in marking livestock thereof, to show inspection, class, grade, quality, size, quantity, or condition of the livestock (including the compliance of livestock with applicable specifications), or to maintain the identity of livestock for which service is provided under the regulations.

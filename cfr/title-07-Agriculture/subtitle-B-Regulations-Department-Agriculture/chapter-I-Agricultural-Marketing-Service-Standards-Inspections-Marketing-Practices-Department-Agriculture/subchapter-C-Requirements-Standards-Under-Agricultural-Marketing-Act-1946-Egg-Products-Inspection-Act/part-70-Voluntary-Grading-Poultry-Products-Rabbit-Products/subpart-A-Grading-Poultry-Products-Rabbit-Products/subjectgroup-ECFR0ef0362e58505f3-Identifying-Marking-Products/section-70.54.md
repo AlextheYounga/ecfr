@@ -1,0 +1,3 @@
+##### § 70.54 Retention authorities. #####
+
+A grader may use retention tags or other devices and methods as approved by the Administrator for the identification and control of poultry or rabbit products which are not in compliance with the regulations or are held for further examination. Any such item shall not be released until in compliance with the regulations and retention identification shall not be removed by anyone other than a grader.

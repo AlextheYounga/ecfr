@@ -1,0 +1,3 @@
+##### § 58.731 Closing and sealing containers. #####
+
+Pouches, liners, or containers having product contact surfaces, after filling shall be folded or closed and sealed in a sanitary manner, preferably by mechanical means, so as to assure against contamination. Each container in addition to other required labeling shall be coded in such a manner as to be easily identified as to date of manufacture by lot or sublot number.

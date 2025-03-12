@@ -1,0 +1,13 @@
+##### § 65.400 Labeling. #####
+
+(a) Country of origin declarations can either be in the form of a placard, sign, label, sticker, band, twist tie, pin tag, or other format that allows consumers to identify the country of origin. The declaration of the country of origin of a product may be in the form of a statement such as “Product of USA,” “Produce of the USA”, or “Grown in Mexico,” may only contain the name of the country such as “USA” or “Mexico,” or may be in the form of a check box provided it is in conformance with other Federal labeling laws.
+
+(b) The declaration of the country of origin (e.g., placard, sign, label, sticker, band, twist tie, pin tag, or other display) must be legible and placed in a conspicuous location, so as to render it likely to be read and understood by a customer under normal conditions of purchase.
+
+(c) The declaration of country of origin may be typed, printed, or handwritten provided it is in conformance with other Federal labeling laws and does not obscure other labeling information required by other Federal regulations.
+
+(d) A bulk container (e.g., display case, shipper, bin, carton, and barrel) used at the retail level to present product to consumers, may contain a covered commodity from more than one country of origin provided all possible origins are listed.
+
+(e) In general, country abbreviations are not acceptable. Only those abbreviations approved for use under Customs and Border Protection rules, regulations, and policies, such as “U.K.” for “The United Kingdom of Great Britain and Northern Ireland”, “Luxemb” for Luxembourg, and “U.S. or USA” for the “United States of America” are acceptable. The adjectival form of the name of a country may be used as proper notification of the country of origin of imported commodities provided the adjectival form of the name does not appear with other words so as to refer to a kind or species of product. Symbols or flags alone may not be used to denote country of origin.
+
+(f) Domestic and imported perishable agricultural commodities, peanuts, pecans, macadamia nuts, and ginseng may use State, regional, or locality label designations in lieu of country of origin labeling. Abbreviations may be used for state, regional, or locality label designations for these commodities whether domestically harvested or imported using official United States Postal Service abbreviations or other abbreviations approved by CBP.

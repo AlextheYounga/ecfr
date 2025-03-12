@@ -1,0 +1,3 @@
+##### § 51.1161 Discoloration. #####
+
+*Discoloration* means russeting of a light shade of golden brown caused by rust mite or other means. Lighter shades of discoloration caused by smooth or fairly smooth superficial scars or other means may be allowed on a greater area, or darker shades may be allowed on a lesser area, provided no discoloration caused by speck type melanose or other means may detract from the appearance of the fruit to a greater extent than the shade and amount of discoloration allowed for the grade.

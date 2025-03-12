@@ -1,0 +1,9 @@
+##### § 58.334 Pasteurization. #####
+
+The milk or cream shall be pasteurized at the plant where the milk or cream is processed into the finished product or by procedures as set forth by the Administrator.
+
+(a) *Cream for butter making.* The cream for butter making shall be pasteurized at a temperature of not less than 165 °F. and held continuously in a vat at such temperature for not less than 30 minutes; or pasteurized by HTST method at a minimum temperature of not less than 185 °F. for not less than 15 seconds; or it shall be pasteurized by any other equivalent temperature and holding time which will assure adequate pasteurization. Additional heat treatment above the minimum pasteurization requirement is advisable to insure improved keeping-quality characteristics.
+
+Adequate pasteurization control shall be used and the diversion valve shall be set to divert at no less than 185 °F. with a 15 second holding time or its equivalent in time and temperature to assure pasteurization. If the vat or holding method of pasteurization is used, vat covers shall be closed prior to holding period to assure temperature of air space reaching 5 °F. higher than the minimum temperature during the holding time. Covers shall also be kept closed during the holding and cooling period.
+
+(b) *Cream for plastic or frozen cream.* The pasteurization of cream for plastic or frozen cream shall be accomplished in the same manner as in paragraph (a) of this section, except, that the temperature for the vat method shall be not less than 170 °F. for not less than 30 minutes, or not less than 190 °F. for not less than 15 seconds or by any other temperature and holding time which will assure adequate pasteurization and comparable keeping-quality characteristics.

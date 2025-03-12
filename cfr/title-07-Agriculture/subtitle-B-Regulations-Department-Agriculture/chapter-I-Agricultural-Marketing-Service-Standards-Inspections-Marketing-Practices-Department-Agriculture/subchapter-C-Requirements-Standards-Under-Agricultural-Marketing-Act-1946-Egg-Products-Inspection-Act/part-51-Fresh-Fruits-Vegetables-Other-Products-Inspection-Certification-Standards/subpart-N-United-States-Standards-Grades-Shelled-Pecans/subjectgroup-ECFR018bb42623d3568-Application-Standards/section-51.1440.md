@@ -1,0 +1,3 @@
+##### § 51.1440 Application of standards. #####
+
+The grade of a lot of shelled pecans shall be determined on the basis of a composite sample drawn at random from containers in various locations in the lot. However, any identifiable container or number of containers in which the pecans are obviously of a quality or size materially different from that in the majority of containers, shall be considered as a separate lot, and shall be sampled and graded separately.

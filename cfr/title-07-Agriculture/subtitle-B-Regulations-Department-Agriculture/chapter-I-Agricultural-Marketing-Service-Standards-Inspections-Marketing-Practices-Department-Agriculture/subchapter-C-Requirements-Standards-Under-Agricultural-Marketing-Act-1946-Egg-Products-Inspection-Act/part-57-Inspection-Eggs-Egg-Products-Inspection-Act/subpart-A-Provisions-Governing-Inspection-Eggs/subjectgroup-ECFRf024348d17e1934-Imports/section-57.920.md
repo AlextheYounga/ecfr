@@ -1,0 +1,5 @@
+##### § 57.920 Importer to make application for inspection of imported eggs. #####
+
+Each person importing any eggs as defined in these regulations, unless exempted by § 57.960 shall make application for inspection upon LPS Form 222- Import Request. The application may be submitted to the address located on LPS Form 222, filed through electronic submission via *QAD.importrequesteggs@ams.usda.gov,* or by accessing the U.S. Customs and Border Protection's International Trade Data System. Application shall be made as far in advance as possible prior to the arrival of the product. Each application shall state the approximate date of product arrival in the United States, the name of the ship or other carrier, the country from which the product was shipped, the destination, the quantity and class of product, and the point of first arrival in the United States.
+
+[81 FR 1482, Jan. 13, 2016]

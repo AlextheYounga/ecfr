@@ -1,0 +1,5 @@
+##### § 58.150 Containers. #####
+
+(a) The size, style, and type of packaging used for dairy products shall be commercially acceptable containers and packaging materials which will satisfactorily cover and protect the quality of the contents during storage and regular channels of trade and under normal conditions of handling.
+
+(b) Packaging materials for dairy products shall be selected which will provide sufficiently low permeability to air and vapor to prevent the formation of mold growth and surface oxidation. In addition, the wrapper should be resistant to puncturing, tearing, cracking or breaking under normal conditions of handling, shipping and storage. When special type packaging is used, the instructions of the manufacturer shall be followed closely as to its application and methods of closure.

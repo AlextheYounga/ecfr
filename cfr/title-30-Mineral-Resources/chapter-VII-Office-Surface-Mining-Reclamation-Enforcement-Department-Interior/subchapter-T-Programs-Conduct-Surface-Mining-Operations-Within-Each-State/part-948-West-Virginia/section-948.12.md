@@ -1,5 +1,7 @@
 ##### § 948.12 State statutory, regulatory, and proposed program amendment provisions not approved. #####
 
+Link to an amendment published at 85 FR 27156, May 7, 2020.
+
 (a) We are not approving the following provisions of the proposed program amendment that West Virginia submitted on May 11, 1998:
 
 (1) CSR 38-2-3.14, to the extent that it could be interpreted as applying to the on-site reprocessing of abandoned coal mine waste piles or to the extent that it would apply to the removal of abandoned coal refuse piles where, on average, the material to be removed meets the definition of coal in 30 CFR 700.5.

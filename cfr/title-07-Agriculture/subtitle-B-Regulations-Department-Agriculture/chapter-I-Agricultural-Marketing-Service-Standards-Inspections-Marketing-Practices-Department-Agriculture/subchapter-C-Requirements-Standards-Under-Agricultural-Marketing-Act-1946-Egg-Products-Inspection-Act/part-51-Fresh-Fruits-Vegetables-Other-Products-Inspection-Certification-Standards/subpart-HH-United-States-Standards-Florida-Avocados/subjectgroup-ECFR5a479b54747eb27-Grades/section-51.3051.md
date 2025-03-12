@@ -1,0 +1,5 @@
+##### § 51.3051 U.S. Combination. #####
+
+“U.S. Combination” consists of a combination of U.S. No. 1 and U.S. No. 2 avocados: *Provided,* That at least 60 percent, by count, of the avocados in each container meet the requirements of the U.S. No. 1 grade.
+
+(a) *Tolerances.* In order to allow for variations incident to proper grading and handling, not more than a total of 10 percent, by count, of the avocados in any lot may fail to meet the requirements of the U.S. No. 2 grade: *Provided,* That not more than one-half of this amount, or 5 percent, shall be allowed for avocados affected by decay or seriously damaged by anthracnose, including therein not more than 1 percent for avocados affected by decay. No part of any tolerance shall be allowed to reduce for the lot as a whole the percentage of U.S. No. 1 fruit required or specified in the combination, but individual containers may have not more than 10 percent less than the percentage of U.S. No. 1 fruit required or specified. (See §§ 51.3055 and 51.3056.)

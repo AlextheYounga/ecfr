@@ -1,0 +1,5 @@
+##### § 54.1014 Accessibility of equipment and utensils; access to establishments. #####
+
+(a) The applicant shall cause equipment and utensils to be made easily accessible for examination and to be so placed, with adequate illumination to facilitate evaluation for compliance. The applicant shall furnish or make available any necessary tools; such as boroscope, profilometer, disassembly tools, ladders, radius gauges, and the like; necessary to complete the evaluation.
+
+(b) Supervisors of USDA design review specialists responsible for maintaining uniformity and accuracy of service under the regulations shall have access to all parts of establishments covered by approved applications for service under the regulations, for the purpose of examining all equipment or utensils in the establishments which have been or are to be evaluated for compliance with standards or which bear any marks of compliance.

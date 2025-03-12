@@ -1,0 +1,3 @@
+##### § 58.214 General construction, repair and installation. #####
+
+All equipment and utensils necessary to the manufacture of dry milk products, including pasteurizer, timing-pump or device, flow diversion valve and recorder controller, shall meet the same general requirements as outlined in § 58.128 of this subpart. In addition, for certain other equipment the following requirements shall be met.

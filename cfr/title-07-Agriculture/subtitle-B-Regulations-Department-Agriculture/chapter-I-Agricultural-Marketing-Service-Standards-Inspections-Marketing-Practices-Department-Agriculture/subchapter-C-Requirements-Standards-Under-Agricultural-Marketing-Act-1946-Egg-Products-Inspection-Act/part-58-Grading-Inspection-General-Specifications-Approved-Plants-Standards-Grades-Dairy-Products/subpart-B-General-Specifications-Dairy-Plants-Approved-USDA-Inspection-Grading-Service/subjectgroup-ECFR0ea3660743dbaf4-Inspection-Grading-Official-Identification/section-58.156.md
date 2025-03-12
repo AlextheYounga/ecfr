@@ -1,0 +1,3 @@
+##### § 58.156 Inspection. #####
+
+Dairy products, which have been processed or manufactured in an approved plant, and for which there are no official U.S. Standards for Grades, shall be inspected for quality by the inspector in accordance with contract requirements or product specifications established by the U.S. Department of Agriculture or other Federal agency or buyer and seller. Laboratory analysis when required shall be conducted in an approved laboratory.

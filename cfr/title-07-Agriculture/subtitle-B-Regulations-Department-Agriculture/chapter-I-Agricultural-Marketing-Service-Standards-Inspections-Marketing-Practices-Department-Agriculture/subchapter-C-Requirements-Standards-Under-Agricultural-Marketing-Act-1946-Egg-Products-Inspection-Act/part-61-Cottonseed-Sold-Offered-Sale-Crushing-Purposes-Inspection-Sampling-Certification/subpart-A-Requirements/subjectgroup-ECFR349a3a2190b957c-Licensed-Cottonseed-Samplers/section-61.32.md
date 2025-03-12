@@ -1,0 +1,3 @@
+##### § 61.32 No discrimination in sampling. #####
+
+Each licensed sampler, when requested, shall without discrimination, as soon as practicable and upon reasonable terms, sample any cottonseed if the same be made available to him at his place of business, under conditions that will permit proper sampling. Each such licensee shall give preference to those who request his services as such over persons who request his services in any other capacity.

@@ -1,0 +1,3 @@
+##### § 51.3200 Samples for grade and size determination. #####
+
+Individual samples shall consist of at least 20 pounds for onions packed to meet larger than 21/4 inches maximum diameter. When individual packages contain 20 pounds or more and the onions are packed for Large or Jumbo size or larger the package shall be the sample. When individual packages contain less than 20 pounds, a sufficient number of adjoining packages are opened to provide at least a 20 pound sample, except that for onions packed to meet 21/4 inches maximum diameter or smaller, the sample may consist of either 20 pounds or the individual package.

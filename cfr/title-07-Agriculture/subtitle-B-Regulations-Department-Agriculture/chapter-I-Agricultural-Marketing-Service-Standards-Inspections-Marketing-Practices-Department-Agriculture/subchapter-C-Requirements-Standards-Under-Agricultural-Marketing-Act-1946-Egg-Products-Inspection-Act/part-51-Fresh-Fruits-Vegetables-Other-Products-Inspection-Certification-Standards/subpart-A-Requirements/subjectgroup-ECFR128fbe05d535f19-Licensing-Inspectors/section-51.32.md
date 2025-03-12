@@ -1,0 +1,3 @@
+##### § 51.32 Who may be licensed. #####
+
+Persons who are employed by a cooperative Federal-State Inspection Agency and possess adequate qualifications, as determined by such examinations as the Administrator may consider to be appropriate, may be licensed as inspectors of products which may be inspected under the regulations in this part. Such license shall bear the printed signature of the Secretary and shall be countersigned by an authorized employee of the Department. A licensed inspector shall perform his duties pursuant to the regulations in this subpart as directed by the Administrator.

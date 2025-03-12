@@ -1,0 +1,3 @@
+##### § 58.341 Repackaging. #####
+
+When officially graded or inspected bulk product is to be repackaged into consumer type packages for official grade labeling or other official identification, a supervisor of packaging shall be required and the plant, equipment, facilities and personnel shall meet the same specifications as outlined in this part, including such markings or identification as may be required.

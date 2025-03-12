@@ -1,0 +1,3 @@
+##### § 58.315 Continuous churns. #####
+
+All product contact surfaces of the churn and related equipment shall be of noncorrosive material. All non-metallic product contact surfaces shall comply with 3-A Standards for Plastic, Rubber, and Rubber-Like Materials. All product contact surfaces of the churn and related equipment shall be readily accessible for cleaning and inspection. Construction shall follow the applicable principles of the 3-A Sanitary Standards.

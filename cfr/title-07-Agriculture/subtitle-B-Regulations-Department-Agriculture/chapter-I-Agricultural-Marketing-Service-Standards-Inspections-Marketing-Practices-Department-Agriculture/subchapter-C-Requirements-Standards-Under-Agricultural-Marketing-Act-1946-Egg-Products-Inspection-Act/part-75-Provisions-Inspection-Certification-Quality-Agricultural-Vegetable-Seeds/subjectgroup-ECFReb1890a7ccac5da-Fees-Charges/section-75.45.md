@@ -1,0 +1,3 @@
+##### § 75.45 Charge for appeals. #####
+
+A charge of 1 hour shall be made for each appeal filed under § 75.26, and the fee for an appeal inspection shall equal the fee for the original inspection from which the appeal is taken, plus any charges for travel or other expenses incurred in performing the appeal: *Provided,* That when a material error in the certificate or sample from which the appeal is taken is found by the appeal inspector the charge and fee shall be waived.

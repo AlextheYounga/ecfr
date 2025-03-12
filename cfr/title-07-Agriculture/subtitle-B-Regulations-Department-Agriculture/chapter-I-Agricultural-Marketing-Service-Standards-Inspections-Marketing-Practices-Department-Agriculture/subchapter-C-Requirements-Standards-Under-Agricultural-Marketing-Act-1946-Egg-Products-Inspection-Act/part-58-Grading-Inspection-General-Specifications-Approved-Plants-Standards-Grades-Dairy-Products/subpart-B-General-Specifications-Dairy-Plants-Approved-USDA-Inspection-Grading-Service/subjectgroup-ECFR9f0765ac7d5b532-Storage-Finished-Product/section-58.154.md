@@ -1,0 +1,3 @@
+##### § 58.154 Refrigerated storage. #####
+
+Finished product in containers subject to such conditions that will affect its useability shall be placed on shelves, dunnage or pallets and properly identified. It shall be stored under temperatures that will best maintain the initial quality. The product shall not be exposed to anything from which it might absorb any foreign odors or be contaminated by drippage or condensation.

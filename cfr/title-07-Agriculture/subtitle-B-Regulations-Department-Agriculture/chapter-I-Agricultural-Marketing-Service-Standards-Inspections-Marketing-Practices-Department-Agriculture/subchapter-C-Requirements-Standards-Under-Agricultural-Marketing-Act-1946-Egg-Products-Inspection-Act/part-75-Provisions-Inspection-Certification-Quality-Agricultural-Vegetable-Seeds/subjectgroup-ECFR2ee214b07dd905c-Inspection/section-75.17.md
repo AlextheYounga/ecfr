@@ -1,0 +1,3 @@
+##### § 75.17 Testing. #####
+
+Upon request by the applicant, tests may be made for kind, variety, germination, purity, weed seeds, disease pathogens, treatment, moisture, and other special tests, or any combination thereof for which prescribed methods of testing are established. The tests shall be in accordance with the methods of either the Association of Official Seed Analysts (AOSA) or the International Seed Testing Association (ISTA) as requested by the applicant.

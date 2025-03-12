@@ -1,0 +1,3 @@
+##### § 51.9 When application may be rejected. #####
+
+An application may be rejected by the inspector in charge of the appropriate office of inspection if the applicant objects to the inspector cutting an adequate number of specimens to determine the interior quality or condition of the product to be inspected, or for failure of the applicant (a) to observe the regulations of this part, (b) to furnish necessary information or to make the commodity reasonably available or accessible for inspection, (c) to pay for previous inspection services rendered, or (d) when it appears that to perform the inspection and certification service would not be to the best interest of the Government. Such applicant shall be notified promptly of the reason for such rejection.

@@ -1,0 +1,5 @@
+##### § 57.112 Suspension of license or authority; revocation. #####
+
+Pending final action by the Secretary, any person authorized to countersign a license to perform surveillance inspection services may, whenever such action is necessary to assure that any inspection service is properly performed, suspend or revoke any license to perform inspection services issued pursuant to this part by giving notice of such action to the respective licensee, accompanied by a statement of the reasons. Within 7 days after the receipt of the suspension or revocation notice and statement of reasons, the licensee may file an appeal in writing to the Secretary, supported by any argument or evidence that the licensee may wish to offer as to why the license should not be suspended or revoked. After the expiration of the 7-day period and consideration of such argument and evidence, the Secretary will take appropriate action regarding the suspension or revocation. When no appeal is filed within the prescribed 7 days, the license is revoked or suspended.
+
+[69 FR 57166, Sept. 24, 2004]

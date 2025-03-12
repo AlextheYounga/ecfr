@@ -1,0 +1,3 @@
+##### § 58.313 Print and bulk packaging rooms. #####
+
+Rooms used for packaging print or bulk butter and related products should, in addition to proper construction and sanitation, provide an atmosphere relatively free from mold (not more than 15 colonies per plate during a 15 min. exposure), dust, or other air-borne contamination and maintain a reasonable room temperature in accordance with good commercial practices.

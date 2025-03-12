@@ -1,5 +1,7 @@
 ##### § 984.50 Grade, quality and size regulations. #####
 
+Link to an amendment published at 85 FR 27108, May 7, 2020.
+
 (a) *Minimum standard for inshell walnuts.* Except as provided in § 984.64, no handler shall handle inshell walnuts unless such walnuts are equal to or better than the requirements of U.S. No. 2 grade and baby size as defined in the then effective United States Standards for Walnuts (Juglans regia) in the Shell. This minimum standard may be modified by the Secretary on the basis of a Board recommendation or other information.
 
 (b) *Minimum standard for shelled walnuts.* Except as provided in § 984.64, no handler shall handle shelled walnuts unless such walnuts are equal to or better than the requirements of the U.S. Commercial grade as defined in the then effective United States Standards for Shelled Walnuts (Juglans regia) and the minimum size shall be pieces not more than 5 percent of which will pass through a round opening6/64 inch in diameter. This minimum standard may be modified by the Secretary on the basis of a Board recommendation or other information.

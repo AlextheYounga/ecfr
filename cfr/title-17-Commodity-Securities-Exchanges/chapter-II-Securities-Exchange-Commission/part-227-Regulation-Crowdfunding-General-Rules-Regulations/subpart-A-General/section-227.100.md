@@ -38,10 +38,16 @@
 
 (6) Has no specific business plan or has indicated that its business plan is to engage in a merger or acquisition with an unidentified company or companies.
 
+(7) Seeks to rely on § 227.201(z) to conduct an offering on an expedited basis due to circumstances relating to coronavirus disease 2019 (COVID-19), where such offering is initiated between May 4, 2020, and August 31, 2020, and:
+
+(i) Was organized and had operations less than six months prior to the commencement of the offering; or
+
+(ii) Sold securities in reliance on section 4(a)(6) of the Securities Act and has not complied with the requirements in section 4A(b) of the Securities Act (15 U.S.C. 77d-1(b)) and the related requirements in this part.
+
 (c) *Issuer.* For purposes of § 227.201(r), calculating aggregate amounts offered and sold in § 227.100(a) and § 227.201(t), and determining whether an issuer has previously sold securities in § 227.201(t)(3), *issuer* includes all entities controlled by or under common control with the issuer and any predecessors of the issuer.
 
 *Instruction to paragraph (c).* The term *control* means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of the entity, whether through the ownership of voting securities, by contract or otherwise.
 
 (d) *Investor.* For purposes of this part, *investor* means any investor or any potential investor, as the context requires.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017]
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020]Effective Date Note:At 85 FR 27131, May 7, 2020, § 227.100 was amended by adding paragraph (b)(7), effective May 4, 2020, through Mar. 1, 2021.

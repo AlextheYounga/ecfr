@@ -1,0 +1,9 @@
+##### § 54.1003 Designation of official certificates, memoranda, marks, and other identifications, for purposes of the Agricultural Marketing Act. #####
+
+Subsection 203(h) of the Agricultural Marketing Act of 1946, as amended provides criminal penalties for various specified offenses relating to official certificates, memoranda, and marks or other identifications, issued or authorized under section 203 of said Act, and certain misrepresentations concerning the inspection or grading of agricultural products under said section. For the purposes of said subsection and the provisions in this subpart, the terms listed in paragraphs (a) through (c) of this section shall have the respective meanings specified:
+
+(a) “Official certificate” means any form of certification, either written or printed, used under the regulations to certify with respect to the evaluation, review, condition, or acceptance of equipment or utensils (including the compliance of equipment or utensils with applicable standards).
+
+(b) “Official memorandum” means any initial record of findings made by an authorized employee of the Dairy Grading Branch in the process of determining compliance, evaluating, or reviewing equipment or utensils pursuant to the regulations, any processing or in plant-operation report made by an authorized Dairy Grading Branch employee in connection with determining compliance, evaluating, or reviewing equipment or utensils under the regulations, and any report made by an authorized employee of the Dairy Grading Branch of any other services performed pursuant to the regulations.
+
+(c) “Official mark” or “other official identification” means any form of mark or other identification, including those prescribed in § 54.1018; used under the regulations in marking any equipment or utensils or displayed as an indication that the equipment or utensils has been evaluated by AMS (including the compliance of the equipment or utensils with applicable standards).

@@ -1,0 +1,3 @@
+##### § 51.1548 Samples for grade and size determination. #####
+
+Individual samples shall consist of at least 20 pounds. When individual packages contain at least 20 pounds, each individual sample is drawn from one package; when packages contain less than 20 pounds, a sufficient number of adjoining packages are opened to provide at least a 20-pound sample. The number of such individual samples drawn for grade and size determination will vary with the size of the lot.

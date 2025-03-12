@@ -1,0 +1,3 @@
+##### § 58.11 Approval of application. #####
+
+An application for inspection or grading service may be approved when (a) a qualified inspector or grader is available, (b) facilities and conditions are satisfactory for the conduct of the service, and (c) the product has been manufactured or processed in a plant approved for inspection or grading service in accordance with the provisions of this part and instructions issued thereunder.

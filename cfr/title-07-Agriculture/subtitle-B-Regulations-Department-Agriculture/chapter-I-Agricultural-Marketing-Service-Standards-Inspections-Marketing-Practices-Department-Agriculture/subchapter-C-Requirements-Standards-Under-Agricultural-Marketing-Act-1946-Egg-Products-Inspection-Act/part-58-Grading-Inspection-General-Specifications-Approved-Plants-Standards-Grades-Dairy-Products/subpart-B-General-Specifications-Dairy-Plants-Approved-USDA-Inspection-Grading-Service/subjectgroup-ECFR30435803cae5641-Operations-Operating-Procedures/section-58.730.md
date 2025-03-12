@@ -1,0 +1,3 @@
+##### § 58.730 Filling containers. #####
+
+Hot fluid cheese from the cookers may be held in hotwells or hoppers to assure a constant and even supply of processed cheese to the filler or slice former. Filler valves shall effectively measure the desired amount of product into the pouch or container in a sanitary manner and shall cut off sharply without drip or drag of cheese across the opening. An effective system shall be used to maintain accurate and precise weight control. Damaged or unsatisfactory packages shall be removed from production, and the cheese may be salvaged into sanitary containers, and added back to cookers.

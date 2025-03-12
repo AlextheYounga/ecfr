@@ -1,0 +1,3 @@
+##### § 51.27 When appeal inspection may be refused. #####
+
+An application for an appeal inspection may be refused if: (a) The reasons for the appeal inspection are frivolous or not substantial; (b) the quality or condition of the product has undergone a material change since the inspection covering the product on which the appeal inspection is requested; (c) the lot in question is not, or cannot be, made accessible for the inspection; (d) the lot relative to which appeal inspection is requested cannot be identified positively by the inspector as the lot which was previously inspected; or (e) there is noncompliance with the regulations in this part. Such an applicant shall be notified promptly of the reason for refusal.

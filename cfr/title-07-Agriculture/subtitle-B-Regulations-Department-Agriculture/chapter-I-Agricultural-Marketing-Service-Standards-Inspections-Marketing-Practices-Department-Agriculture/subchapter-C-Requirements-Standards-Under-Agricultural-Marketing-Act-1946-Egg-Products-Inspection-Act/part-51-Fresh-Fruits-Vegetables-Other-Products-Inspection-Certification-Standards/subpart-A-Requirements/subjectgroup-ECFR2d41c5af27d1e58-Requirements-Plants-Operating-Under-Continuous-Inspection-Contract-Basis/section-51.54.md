@@ -1,0 +1,3 @@
+##### § 51.54 Plant survey. #####
+
+Prior to the inauguration of continuous Federal or Federal-State Inspection Service on a contract basis, the Administrator will make or cause to be made a survey and inspection where such service is to be performed to determine whether the premises, plant and facilities are suitable and adequate for the performance of such service in accordance with the regulations in this part, including, but not limited to requirements contained in §§ 51.54 through 51.59.

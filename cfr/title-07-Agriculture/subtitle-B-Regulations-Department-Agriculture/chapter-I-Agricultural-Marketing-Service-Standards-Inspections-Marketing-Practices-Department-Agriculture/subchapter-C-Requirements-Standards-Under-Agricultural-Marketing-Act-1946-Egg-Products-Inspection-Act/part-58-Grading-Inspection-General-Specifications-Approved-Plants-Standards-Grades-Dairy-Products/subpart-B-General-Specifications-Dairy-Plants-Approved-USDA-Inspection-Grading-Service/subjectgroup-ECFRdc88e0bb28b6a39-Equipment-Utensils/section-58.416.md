@@ -1,0 +1,5 @@
+##### § 58.416 Cheese vats, tanks and drain tables. #####
+
+(a) The vats, tanks and drain tables used for making cheese should be of metal construction with adequate jacket capacity for uniform heating. The inner liner shall be minimum 16 gauge stainless steel or other equally corrosion resistant metal, properly pitched from side to center and from rear to front for adequate drainage. The liner shall be smooth, free from excessive dents or creases and shall extend over the edge of the outer jacket. The outer jacket shall be constructed of stainless steel or other metal which can be kept clean and sanitary. The junction of the liner and outer jackets shall be constructed so as to prevent milk or cheese from entering the inner jacket.
+
+(b) The vat, tank and/or drain table shall be equipped with a suitable sanitary outlet valve. Effective valves shall be provided and properly maintained to control the application of heat to this equipment. If this equipment is provided with removable cloth covers, they shall be clean.

@@ -1,0 +1,3 @@
+##### § 58.728 Cooking the batch. #####
+
+Each batch of cheese within the cooker, including the optional ingredients, shall be thoroughly commingled and the contents pasteurized at a temperature of at least 158 °F. and held at that temperature for not less than 30 seconds or any other equally effective combination of time and temperature approved by the Administrator. Care shall be taken to prevent the entrance of cheese particles or ingredients after the cooker batch of cheese has reached the final heating temperature. After holding for the required period of time, the hot cheese shall be emptied from the cooker as quickly as possible.

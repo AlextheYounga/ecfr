@@ -1,0 +1,3 @@
+##### § 58.29 Appeal inspection or grading certificate or report. #####
+
+Immediately after an appeal inspection or grading has been completed, an appeal inspection or grading certificate or report shall be issued showing the results of the inspection or grading. Such certificate or report shall thereupon supersede the previous certificate or report and will be effective retroactive to the date of the previous certificate or report. Each appeal certificate or report shall clearly set forth the number and the date of the previous certificate or report which it supersedes. The provisions of §§ 58.18 through 58.21 shall, whenever applicable, also apply to appeal certificates or reports except that copies shall be furnished each interested party of record.

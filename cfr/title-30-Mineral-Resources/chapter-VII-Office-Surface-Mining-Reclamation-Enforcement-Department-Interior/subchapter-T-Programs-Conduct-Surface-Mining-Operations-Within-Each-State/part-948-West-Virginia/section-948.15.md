@@ -1,5 +1,7 @@
 ##### § 948.15 Approval of West Virginia regulatory program amendments. #####
 
+Link to an amendment published at 85 FR 27156, May 7, 2020.
+
 The following table lists the dates that West Virginia submitted proposed amendments to OSM, the dates when OSM published final rules approving all or portions of those amendments in the Federal Register, and the State statutory or regulatory citations for those amendments (or a brief description of the amendment). The amendments appear in order of the date of publication of the final rules announcing OSM's decisions on the amendments. The preambles to those final rules identify and discuss any assumptions underlying approval, any conditions placed on the approval, and any exceptions to the approval.
 
 |                        Original amendment submission date                         |Date of publication of final rule |                                                                                                                                                                                                                                                                                                                    Citation/description of approved provisions                                                                                                                                                                                                                                                                                                                     |

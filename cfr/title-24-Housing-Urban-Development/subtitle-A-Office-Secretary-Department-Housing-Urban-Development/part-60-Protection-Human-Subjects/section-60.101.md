@@ -26,9 +26,9 @@
 
 (k) [Reserved]
 
-(l) *Pre-2018 Requirements.* Compliance dates and transition provisions:
+(l) Compliance dates and transition provisions:
 
-(1) For purposes of this section, the *pre-2018 Requirements* means this subpart as published in the 2016 edition of the Code of Federal Regulations.
+(1) *Pre-2018 Requirements.* For purposes of this section, the *pre-2018 Requirements* means this subpart as published in the 2016 edition of the Code of Federal Regulations.
 
 (2) *2018 Requirements.* For purposes of this section, the *2018 Requirements* means the Federal Policy for the Protection of Human Subjects requirements contained in this part. The general compliance date for the 2018 Requirements is January 21, 2019. The compliance date for § 60.114(b) (cooperative research) of the 2018 Requirements is January 20, 2020.
 

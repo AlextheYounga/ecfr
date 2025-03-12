@@ -1,0 +1,3 @@
+##### § 52.55 Political activity. #####
+
+All inspectors and licensed samplers are forbidden, during the period of their respective appointments or licenses, to take an active part in political management or in political campaigns. Political activities in city, county, State, or national elections, whether primary or regular, or in behalf of any party or candidate, or any measure to be voted upon, are prohibited. This applies to all appointees or licensees, including, but not limited to, temporary and cooperative employees and employees on leave of absence with or without pay. Wilful violation of this section will constitute grounds for dismissal in the case of appointees and revocation of licenses in the case of licensees.

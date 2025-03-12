@@ -1,0 +1,3 @@
+##### § 56.63 When an application for an appeal grading may be refused. #####
+
+When it appears to the official with whom an appeal request is filed that the reasons given in the request are frivolous or not substantial, or that the quality or condition of the product has undergone a material change since the original grading, or that the original lot has changed in some manner, or the Act or the regulations in this part have not been complied with, the applicant's request for the appeal grading may be refused. In such case, the applicant shall be promptly notified of the reason(s) for such refusal.

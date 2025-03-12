@@ -1,0 +1,3 @@
+##### § 58.51 Information required on official identification. #####
+
+Each official identification shall conspicuously indicate the U.S. grade of the product it identifies, if there be a grade, or such other appropriate terminology as may be approved by the Administrator. Also, it shall include the appropriate phrase: “Officially graded,” “Officially Inspected,” or “Federal-State graded.” When required by the Administrator, the package label, carton, or wrapper bearing official identification for dairy products shall be stamped or perforated with the date packed and the certificate number or a code number to indicate lot and date packed. Such coding shall be made available to and approved by the Administrator.

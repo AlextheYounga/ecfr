@@ -1,0 +1,3 @@
+##### § 62.301 Payment of fees and other charges. #####
+
+Fees and other charges for QSVP services shall be paid in accordance with the following provisions. Upon receipt of billing for fees and other charges, the applicant shall remit payment within 10 business days by check, electronic funds transfer, draft, or money order made payable to USDA, AMS, in accordance with directions on the billing. Fees and charges shall be paid in advance if required by the auditor or other authorized USDA official.

@@ -1,0 +1,3 @@
+##### § 53.17 Advance information concerning service rendered. #####
+
+Upon request of any applicant, all or any part of the contents of any certificate issued to him under the regulations, or other notification concerning the determination of class, grade, other quality, or compliance of livestock for such applicant may be transmitted by telegraph or telephone to him, or to any person designated by him, at his expense.

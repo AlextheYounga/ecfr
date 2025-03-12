@@ -1,0 +1,5 @@
+##### § 56.66 Appeal grading certificates. #####
+
+Immediately after an appeal grading is completed, an appeal certificate shall be issued to show that the original grading was sustained or was not sustained. Such certificate shall supersede any previously issued certificate for the product involved and shall clearly identify the number and date of the superseded certificate. The issuance of the appeal certificate may be withheld until any previously issued certificate and all copies have been returned when such action is deemed necessary to protect the interest of the Government. When the appeal grader assigns a different grade to the lot, the existing grademark shall be changed or obliterated as necessary. When the appeal grader assigns a different class or quantity designation to the lot, the labeling shall be corrected.
+
+[35 FR 9918, June 17, 1970. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 71 FR 42010, July 24, 2006]

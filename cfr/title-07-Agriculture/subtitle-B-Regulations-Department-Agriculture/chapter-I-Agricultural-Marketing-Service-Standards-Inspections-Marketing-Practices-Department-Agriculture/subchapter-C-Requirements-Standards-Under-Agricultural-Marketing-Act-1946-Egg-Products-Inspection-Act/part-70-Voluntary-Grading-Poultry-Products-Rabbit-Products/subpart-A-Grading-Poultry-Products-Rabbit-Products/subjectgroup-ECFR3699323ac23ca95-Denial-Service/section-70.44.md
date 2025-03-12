@@ -1,0 +1,5 @@
+##### § 70.44 Interfering with a grader or employee of Service. #####
+
+Any interference with or obstruction or any attempted interference or obstruction of, or assault upon any grader, licensee, or employee of the Service in the performance of such employee's duties. The giving or offering, directly or indirectly, of any money, loan, gift, or anything of value to an employee of the Service, or the making or offering of any contribution to or in any way supplementing the salary, compensation, or expenses of an employee of the Service, or the offering or entering into a private contract or agreement with an employee of the Service for any services to be rendered while employed by the Service.
+
+[41 FR 23681, June 11, 1976; 41 FR 24693, June 18, 1976. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 71 FR 42014, July 24, 2006]

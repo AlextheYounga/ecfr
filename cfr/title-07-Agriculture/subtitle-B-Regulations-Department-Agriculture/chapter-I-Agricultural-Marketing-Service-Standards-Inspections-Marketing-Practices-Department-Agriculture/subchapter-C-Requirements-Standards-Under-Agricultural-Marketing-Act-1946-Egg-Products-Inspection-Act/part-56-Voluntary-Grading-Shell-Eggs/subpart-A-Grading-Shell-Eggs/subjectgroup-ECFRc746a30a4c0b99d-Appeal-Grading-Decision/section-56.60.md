@@ -1,0 +1,3 @@
+##### § 56.60 Who may request an appeal grading or review of a grader's decision. #####
+
+An appeal grading may be requested by any interested party who is dissatisfied with the determination by a grader of the class, quality, quantity, or condition of any product as evidenced by the USDA grademark and accompanying label, or as stated on a grading certificate and a review may be requested by the operator of an official plant with respect to a grader's decision or on any other matter related to grading in the official plant.

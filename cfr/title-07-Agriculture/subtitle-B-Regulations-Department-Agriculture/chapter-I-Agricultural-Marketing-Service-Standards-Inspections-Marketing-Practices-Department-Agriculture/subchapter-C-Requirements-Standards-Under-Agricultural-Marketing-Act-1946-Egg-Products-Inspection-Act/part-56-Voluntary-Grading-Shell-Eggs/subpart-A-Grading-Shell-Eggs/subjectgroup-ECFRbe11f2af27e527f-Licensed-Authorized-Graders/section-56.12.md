@@ -1,0 +1,5 @@
+##### § 56.12 Suspension of license; revocation. #####
+
+Pending final action by the Secretary, any person authorized to countersign a license to perform grading service may, whenever such action is deemed necessary to assure that any grading service is properly performed, suspend any license to perform grading service issued pursuant to this part, by giving notice of such suspension or revocation to the respective licensee, accompanied by a statement of the reasons therefor. Within 7 days after the receipt of the aforesaid notice and statement of reasons, the licensee may file an appeal in writing with the Secretary, supported by any argument or evidence that the licensee may wish to offer as to why their license should not be further suspended or revoked. After the expiration of the aforesaid 7-day period and consideration of such argument and evidence, the Secretary will take such action as deemed appropriate with respect to such suspension or revocation. When no appeal is filed within the prescribed 7 days, the license to perform grading service is revoked.
+
+[71 FR 42008, July 24, 2006]

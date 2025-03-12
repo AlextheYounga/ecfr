@@ -1,0 +1,3 @@
+##### § 58.6 Supervision of service. #####
+
+All inspection or grading service shall be subject to supervision by a supervisory inspector or grader, Area Supervisor, or by the Chief, or such other person of the Branch as may be designated by the Chief. Whenever there is evidence that inspection or grading service has been incorrectly performed, a supervisor shall immediately make a reinspection or regrading, and he shall supersede the previous inspection or grading certificate or report with a new certificate or report showing the corrected information.

@@ -1,0 +1,5 @@
+##### § 51.1902 U.S. Grade B. #####
+
+U.S. Grade B shall consist of tomatoes of similar varietal characteristics which are mature and are at least turning (see § 51.1904), but are not overripe or soft and not badly misshapen; which are free from soft rot, freezing injury and from serious damage caused by dirt, bruises, cuts, shriveling, sunscald, sunburn, puffiness, catfaces, growth cracks, scars, dry rot, other diseases, insects hail, or mechanical or other means Tomatoes on the shown face shall be reasonably representative in size and quality of the contents of the container. (See § 51.1903.)
+
+(a) Incident to proper grading and handling, except for maturity, not more than 5 percent, by count, of the tomatoes in any lot may fail to meet the requirements of the grade, including not more than 1 percent for tomatoes which are affected by soft rot.

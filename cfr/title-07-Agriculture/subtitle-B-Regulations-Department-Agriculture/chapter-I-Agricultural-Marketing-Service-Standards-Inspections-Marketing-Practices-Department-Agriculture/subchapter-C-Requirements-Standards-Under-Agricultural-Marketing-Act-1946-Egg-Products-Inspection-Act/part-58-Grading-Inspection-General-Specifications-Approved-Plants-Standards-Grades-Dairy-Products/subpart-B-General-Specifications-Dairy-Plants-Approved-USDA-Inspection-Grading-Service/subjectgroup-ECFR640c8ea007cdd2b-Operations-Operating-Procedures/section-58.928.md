@@ -1,0 +1,3 @@
+##### § 58.928 Quality control tests. #####
+
+All dairy products and other ingredients shall be subject to inspection for quality and condition throughout each processing operation. Quality control tests shall be made on flow samples as often as is necessary to check the effectiveness of processing and manufacturing and as an aid in correcting deficiencies. Routine analyses shall be made on raw materials and finished products to assure adequate composition control. For each batch or production run a keeping quality test shall be made to determine product stability.

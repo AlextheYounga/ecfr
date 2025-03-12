@@ -1,0 +1,9 @@
+##### § 70.13 Ready-to-cook poultry and rabbits and specified poultry food products. #####
+
+(a) Ready-to-cook poultry or rabbit carcasses or parts or specified poultry food products may be graded only if they have been inspected and certified by the poultry inspection service of the Department, or inspected and passed by any other inspection system which is acceptable to the Department.
+
+(b) Only when ready-to-cook poultry carcasses, parts, poultry food products, including those used in preparing raw poultry food products, have been graded on an individual basis by a grader or by an authorized person pursuant to § 70.20(c) and thereafter checkgraded by a grader, and when poultry food products have been prepared under the supervision of a grader, when necessary the individual container, carcass, part, or poultry food product be identified with the appropriate official letter grademark. Checkgrading shall be accomplished in accordance with a statistical sampling plan prescribed by the Administrator. Grading with respect to quality factors for freezing defects and appearance of the finished products, when necessary, shall be done on a sample basis in accordance with a plan prescribed by the Administrator.
+
+(c) Only when ready-to-cook rabbit carcasses or parts have been graded on an individual basis by a grader or by an authorized person pursuant to § 70.20(c) and thereafter checkgraded by a grader, may the container or the individual carcass or part be identified with the appropriate official letter grademark. Checkgrading shall be accomplished in accordance with a statistical sampling plan prescribed by the Administrator. Grading with respect to quality factors for freezing defects and appearance of the finished products may be done on a sample basis in accordance with a plan prescribed by the Administrator.
+
+[71 FR 42012, July 24, 2006]

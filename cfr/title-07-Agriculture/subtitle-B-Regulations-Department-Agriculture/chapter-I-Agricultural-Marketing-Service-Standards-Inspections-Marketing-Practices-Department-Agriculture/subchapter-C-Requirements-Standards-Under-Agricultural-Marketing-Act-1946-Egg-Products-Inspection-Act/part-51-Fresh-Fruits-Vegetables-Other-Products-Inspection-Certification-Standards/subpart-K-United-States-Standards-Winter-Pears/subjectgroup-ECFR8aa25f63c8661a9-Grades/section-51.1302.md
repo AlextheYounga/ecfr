@@ -1,0 +1,3 @@
+##### § 51.1302 U.S. No. 1. #####
+
+“U.S. No. 1” consists of pears of one variety which are mature, but not over-ripe, carefully hand-picked, clean, fairly well formed, free from decay, internal breakdown, scald, freezing injury, worm holes, black end, and from damage caused by hard end, bruises, broken skins, russeting, limbrubs, hail, scars, cork spot, drought spot, sunburn, sprayburn, stings or other insect injury, disease, or mechanical or other means. (See §§ 51.1306 and 51.1309.)

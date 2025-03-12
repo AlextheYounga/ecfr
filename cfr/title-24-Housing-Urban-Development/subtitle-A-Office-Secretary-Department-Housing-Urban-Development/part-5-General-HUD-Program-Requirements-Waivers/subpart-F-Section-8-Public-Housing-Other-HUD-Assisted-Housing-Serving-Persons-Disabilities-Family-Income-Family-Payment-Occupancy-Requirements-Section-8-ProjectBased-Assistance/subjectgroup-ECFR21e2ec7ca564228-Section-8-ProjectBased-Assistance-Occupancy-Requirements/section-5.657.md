@@ -1,5 +1,7 @@
 ##### § 5.657 Section 8 project-based assistance programs: Reexamination of family income and composition. #####
 
+Link to an amendment published at 85 FR 27139, May 7, 2020.
+
 (a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based certificate or voucher programs.
 
 (b) *Regular reexamination.* The owner must conduct a reexamination and redetermination of family income and composition at least annually.

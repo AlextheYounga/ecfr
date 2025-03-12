@@ -1,0 +1,3 @@
+##### § 51.1347 U.S. No. 2. #####
+
+“U.S. No. 2” consists of pears of one variety which are mature, handpicked, firm, not seriously deformed, free from scald, hard end, black end, internal breakdown, decay, worms and worm holes, and free from serious damage by any other cause. Unless otherwise specified, the pears shall not be further advanced than yellowish green. Tree-ripened pears and pears grown from late blooms shall not be considered as meeting the requirements of this grade. (See §§ 51.1349 and 51.1350.)

@@ -1,0 +1,3 @@
+##### § 58.732 Cooling the packaged cheese. #####
+
+After the containers are filled they shall be stacked, or cased and stacked in such a manner as to prevent breaking of seals due to excessive bulging and to allow immediate progressive cooling of the individual containers of cheese. As a minimum the cheese should be cooled to a temperature of 100 °F. or lower within 24 hours after filling. The temperature of the cheese should be reduced further, before being shipped or if storage is intended.

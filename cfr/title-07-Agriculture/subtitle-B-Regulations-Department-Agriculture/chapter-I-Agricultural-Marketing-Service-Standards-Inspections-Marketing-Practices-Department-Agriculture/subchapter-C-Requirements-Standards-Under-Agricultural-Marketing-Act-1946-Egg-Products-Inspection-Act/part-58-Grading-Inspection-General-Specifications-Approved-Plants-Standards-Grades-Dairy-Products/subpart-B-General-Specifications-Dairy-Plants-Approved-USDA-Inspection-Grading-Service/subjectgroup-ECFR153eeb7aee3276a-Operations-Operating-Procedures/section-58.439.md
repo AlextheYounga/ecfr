@@ -1,0 +1,3 @@
+##### § 58.439 Cheese from unpasteurized milk. #####
+
+If the cheese is labeled as “heat treated”, “unpasteurized,” “raw milk”, or “for manufacturing” the milk may be raw or heated at temperatures below pasteurization. Cheese made from unpasteurized milk shall be cured for a period of 60 days at a temperature not less than 35 °F. If the milk is held more than 2 hours between time of receipt or heat treatment and setting, it shall be cooled to 45 °F. or lower until time of setting.

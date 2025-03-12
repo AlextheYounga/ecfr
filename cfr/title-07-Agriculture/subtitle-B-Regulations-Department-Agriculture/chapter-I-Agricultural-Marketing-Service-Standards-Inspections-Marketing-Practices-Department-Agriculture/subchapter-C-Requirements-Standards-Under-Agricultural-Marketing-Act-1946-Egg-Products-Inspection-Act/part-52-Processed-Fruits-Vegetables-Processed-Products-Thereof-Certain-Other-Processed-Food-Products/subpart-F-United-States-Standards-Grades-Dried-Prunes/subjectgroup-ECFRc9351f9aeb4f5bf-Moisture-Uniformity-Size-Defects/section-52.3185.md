@@ -1,0 +1,5 @@
+##### § 52.3185 Moisture limits. #####
+
+Dried prunes shall not exceed the moisture limits for the applicable grades and kind and size of packaging as designated in Table IV of this subpart except there is no moisture limit when safe and suitable preservatives have been added. “Moisture” means the percentage by weight of the finished dried prunes, exclusive of pits, that is moisture when determined by the Dried Fruit Moisture Tester Method or in accordance with methods that give equivalent results. The moisture limits in Table IV apply only to so-called “bulk packs” of dried prunes packaged in non-hermetically sealed containers holding 10 pounds or more of dried prunes when safe and suitable preservatives have not been added. Such containers include, but are not limited to, wood boxes or fiber boxes.
+
+[30 FR 11596, Sept. 10, 1965. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981]

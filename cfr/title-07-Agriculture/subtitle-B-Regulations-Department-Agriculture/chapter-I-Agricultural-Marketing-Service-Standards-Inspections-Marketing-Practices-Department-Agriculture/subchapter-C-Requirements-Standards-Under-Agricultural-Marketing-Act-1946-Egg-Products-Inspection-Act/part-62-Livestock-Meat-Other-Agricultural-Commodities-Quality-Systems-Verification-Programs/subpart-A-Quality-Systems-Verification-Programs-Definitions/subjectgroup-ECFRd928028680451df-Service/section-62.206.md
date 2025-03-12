@@ -1,0 +1,5 @@
+##### § 62.206 Access to program documents and activities. #####
+
+(a) The applicant shall make its products and program documentation available and easily accessible for assessment, with respect to the requested service. Auditors and other USDA officials responsible for maintaining uniformity and accuracy of service under the regulations shall have access to all parts of facilities covered by approved applications for service under the regulations, during normal business hours or during periods of production, for the purpose of evaluating products or processes. This includes products in facilities which have been or are to be examined for program conformance or which bear any official marks of conformance. This further includes any facilities or operation that is part of an approved program.
+
+(b) Documentation and records relating to an applicant's program must be retained for at least one calendar year following the calendar year during which the record was created.

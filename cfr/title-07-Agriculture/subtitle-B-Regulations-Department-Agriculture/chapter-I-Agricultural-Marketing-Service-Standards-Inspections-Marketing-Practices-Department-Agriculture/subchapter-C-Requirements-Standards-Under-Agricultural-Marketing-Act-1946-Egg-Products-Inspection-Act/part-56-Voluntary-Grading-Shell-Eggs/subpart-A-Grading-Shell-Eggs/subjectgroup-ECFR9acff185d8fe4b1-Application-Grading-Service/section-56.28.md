@@ -1,0 +1,9 @@
+##### § 56.28 Types of service. #####
+
+(a) *Noncontinuous grading service.* Service is performed on an unscheduled basis, with no scheduled tour of duty, and when an applicant requests grading of a particular lot of shell eggs. Charges or fees are based on the time, travel, and expenses needed to perform the work. This service may be referred to as unscheduled grading service. Shell eggs graded under unscheduled grading service are not eligible to be identified with the official grademarks shown in § 56.36.
+
+(b) *Continuous grading service on a scheduled basis.* Service on a scheduled basis has a scheduled tour of duty and is performed when an applicant requests that a USDA licensed grader be stationed in the applicant's processing plant and grade shell eggs in accordance with U.S. Standards. The applicant agrees to comply with the facility, operating, and sanitary requirements of scheduled service. Minimum fees for service performed under a scheduled agreement will be based on the hours of the regular tour of duty. Shell eggs graded under scheduled grading service are eligible to be identified with the official grademarks shown in § 56.36 only when processed and graded under the supervision of a grader or quality assurance inspector as provided in § 56.39.
+
+(c) *Temporary grading service.* Service is performed when an applicant requests an official plant number with service provided on an unscheduled basis. The applicant must meet all facility, operating, and sanitary requirements of continuous service. Charges or fees are based on the time and expenses needed to perform the work. Shell eggs graded under temporary grading service are eligible to be identified with the official grademarks only when they are processed and graded under the supervision of a grader or quality assurance inspector as provided in § 56.39.
+
+[84 FR 49642, Sept. 23, 2019]

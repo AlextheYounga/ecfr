@@ -1,0 +1,3 @@
+##### § 58.430 Milk. #####
+
+The milk shall be fresh, sweet, pleasing and desirable in flavor and shall meet the requirements as outlined under §§ 58.132 through 58.138. The milk may be adjusted by separating part of the fat from the milk or by adding one or more of the following dairy products: Cream, skim milk, concentrated skim milk, nonfat dry milk, and water in a quantity sufficient to reconstitute any concentrated or dry milk used. Such dairy products shall have originated from raw milk meeting the same requirements as outlined under §§ 58.132 through 58.138.

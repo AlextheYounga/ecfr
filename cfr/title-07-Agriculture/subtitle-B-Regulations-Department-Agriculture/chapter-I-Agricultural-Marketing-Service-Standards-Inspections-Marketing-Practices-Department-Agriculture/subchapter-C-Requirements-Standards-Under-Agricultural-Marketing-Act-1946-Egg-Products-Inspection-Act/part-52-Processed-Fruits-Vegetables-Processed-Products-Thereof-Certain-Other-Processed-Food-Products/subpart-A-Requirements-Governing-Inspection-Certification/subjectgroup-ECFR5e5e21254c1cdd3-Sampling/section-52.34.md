@@ -1,0 +1,3 @@
+##### § 52.34 How samples are drawn by inspectors or licensed samplers. #####
+
+An inspector or a licensed sampler shall select samples, upon request, from designated lots of processed products which are so placed as to permit thorough and proper sampling in accordance with the regulations in this part. Such person shall, unless otherwise directed by the Administrator, select sample units of such products at random, and from various locations in each lot in such manner and number, not inconsistent with the regulations in this part, as to secure a representative sample of the lot. Samples drawn for inspection shall be furnished by the applicant at no cost to the Department.

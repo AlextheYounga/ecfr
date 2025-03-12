@@ -1,0 +1,5 @@
+##### § 52.41 Payment of fees and charges. #####
+
+Fees and charges for any inspection service shall be paid by the interested party making the application for such service, in accordance with the applicable provisions of the regulations in this part, and if so required by the inspection service, an advance of funds prior to rendering inspection service in an amount suitable to the Administrator, or a surety bond suitable to the Administrator, shall be required as a guarantee of payment for the services rendered. All fees and charges for any inspection service performed pursuant to the regulations in this part shall be paid by check, draft, or money order payable to the United States Department of Agriculture. Remittance shall be sent to the address specified on the bill for collection on or before the due date to avoid a late payment charge.
+
+[51 FR 20445, June 5, 1986]

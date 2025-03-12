@@ -1,0 +1,3 @@
+##### § 58.338 Composition and wholesomeness. #####
+
+All ingredients used in the manufacture of butter and related products shall be subject to inspection and shall be wholesome and practically free from impurities. Chlorinating facilities shall be provided for butter wash water if needed and all other necessary precautions shall be taken to prevent contamination of products. All finished products shall comply with the requirements of the Federal Food, Drug and Cosmetic Act, as to composition and wholesomeness.

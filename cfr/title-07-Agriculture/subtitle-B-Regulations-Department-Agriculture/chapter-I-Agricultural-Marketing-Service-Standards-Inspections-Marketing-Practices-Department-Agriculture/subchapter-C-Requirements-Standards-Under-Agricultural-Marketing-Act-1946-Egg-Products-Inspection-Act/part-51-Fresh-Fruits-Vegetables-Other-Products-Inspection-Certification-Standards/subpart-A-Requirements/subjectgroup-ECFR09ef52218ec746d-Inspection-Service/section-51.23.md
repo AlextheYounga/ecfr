@@ -1,0 +1,3 @@
+##### § 51.23 Report of inspection results prior to issuance of formal report. #####
+
+Upon request of an applicant, all or any part of the contents of a certificate covering an inspection requested by him may be telegraphed or telephoned to him, or to any person designated by him, at his expense. If the application for such information is received after the certificate has been issued, it will be considered as an application for an extra copy of the certificate, and the fees prescribed in § 51.41 shall apply.

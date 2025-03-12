@@ -1,0 +1,3 @@
+##### § 58.61 Political activity. #####
+
+All inspectors or graders are forbidden during the period of their respective appointments or licenses to take an active part in political management or in political campaigns. Political activities in city, county, State, or national elections, whether primary or regular, or in behalf of any party or candidate, or any measure to be voted upon, is prohibited. This applies to all appointees, including, but not being limited to, temporary and cooperative employees and employees on leave of absence with or without pay. Willful violation of this section will constitute grounds for dismissal in the case of appointees and revocation of licenses in the case of licensees.

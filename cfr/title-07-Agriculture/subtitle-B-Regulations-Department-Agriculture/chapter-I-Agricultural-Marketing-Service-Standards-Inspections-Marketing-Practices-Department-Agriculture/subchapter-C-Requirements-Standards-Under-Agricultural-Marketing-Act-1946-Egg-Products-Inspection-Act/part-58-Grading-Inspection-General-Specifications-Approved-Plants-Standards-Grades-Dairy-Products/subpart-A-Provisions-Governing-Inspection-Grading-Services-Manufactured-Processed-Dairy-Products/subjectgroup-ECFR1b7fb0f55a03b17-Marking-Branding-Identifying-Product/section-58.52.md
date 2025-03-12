@@ -1,0 +1,3 @@
+##### § 58.52 Time limit for packaging inspected or graded products with official identification. #####
+
+Any lot of butter which is graded for packaging with official grade identification shall be packaged within 10 days immediately following the date of grading, and any lot of natural cheese or dry milk shall be packaged within 30 days immediately following date of grading provided the product is properly stored during the 10- or 30-day period. Time limit for packaging other inspected or graded products shall be as approved by the Administrator. If inspected or graded product is moved to another location, a reinspection or regrading shall be required.

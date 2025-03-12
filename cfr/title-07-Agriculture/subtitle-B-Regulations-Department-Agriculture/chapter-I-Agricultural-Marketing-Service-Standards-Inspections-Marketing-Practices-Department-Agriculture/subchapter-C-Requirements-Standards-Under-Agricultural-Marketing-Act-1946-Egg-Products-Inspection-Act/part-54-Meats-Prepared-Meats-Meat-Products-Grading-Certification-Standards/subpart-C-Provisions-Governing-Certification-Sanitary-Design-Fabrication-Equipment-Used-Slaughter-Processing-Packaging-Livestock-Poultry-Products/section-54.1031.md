@@ -1,0 +1,3 @@
+##### § 54.1031 Errors in service. #####
+
+When a design review specialist, supervisor, or other responsible employee of the Branch has evidence of inaccurate evaluation, or of incorrect certification or other incorrect determination or identification as to the compliance of a piece of equipment or utensil, such person shall report the matter to the Chief. The Chief will investigate the matter and, if deemed advisable, will report any material errors to the owner or the owner's agent. The Chief shall take appropriate action to correct errors found in the determination of compliance of equipment or utensils, and the Chief shall take adequate measures to prevent the recurrence of such errors.
