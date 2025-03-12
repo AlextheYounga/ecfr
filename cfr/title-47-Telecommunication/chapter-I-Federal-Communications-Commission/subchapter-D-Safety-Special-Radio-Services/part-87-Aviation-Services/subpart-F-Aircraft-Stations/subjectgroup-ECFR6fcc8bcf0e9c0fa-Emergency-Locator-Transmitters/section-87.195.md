@@ -1,5 +1,7 @@
 ##### § 87.195 Frequencies. #####
 
+Link to an amendment published at 83 FR 63812, Dec. 12, 2018.
+
 (a) ELTs transmit on the frequency 121.500 MHz, using A3E, A3X or NON emission. ELTs that transmit on the frequency 406.0-406.1 MHz use G1D emission.
 
 (b) The frequency 243.000 MHz is an emergency and distress frequency available for use by survival craft stations, ELTs and equipment used for survival purposes which are also equipped to transmit on the frequency 121.500 MHz. Use of 243.000 MHz must be limited to transmission of signals and communications for survival purposes. In the case of ELTs use of A3E, A3X or NON emission is permitted.

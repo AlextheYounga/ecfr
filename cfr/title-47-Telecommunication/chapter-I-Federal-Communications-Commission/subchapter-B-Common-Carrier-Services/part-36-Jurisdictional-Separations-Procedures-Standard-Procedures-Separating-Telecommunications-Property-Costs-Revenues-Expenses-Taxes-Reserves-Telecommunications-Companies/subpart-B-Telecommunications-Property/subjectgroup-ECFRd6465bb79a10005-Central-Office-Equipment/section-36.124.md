@@ -1,5 +1,7 @@
 ##### § 36.124 Tandem switching equipment - Category 2. #####
 
+Link to an amendment published at 83 FR 63584, Dec. 11, 2018.
+
 (a) Tandem switching equipment is contained in Accounts 2210, 2211, and 2212. It includes all switching equipment in a tandem central office, including any associated tandem switchboard positions and any intertoll switching equipment. Intertoll switching equipment includes switching equipment used for the interconnection of message toll telephone circuits with each other or with local or tandem telephone central office trunks, intertoll dial selector equipment, or intertoll trunk equipment in No. 5 type electronic offices. Equipment, including switchboards used for recording of calling telephone numbers and other billing information in connection with customer dialed charge traffic is included with Local Switching Equipment - Category 3.
 
 (1) At toll center toll offices, intertoll switching equipment comprises equipment in the toll office used in the interconnection of: Toll center to toll center circuits; toll center to tributary circuits; tributary to tributary circuits; toll center to tandem circuits or in the interconnection of the aforementioned types of circuits with trunks to local offices in the toll center city, i.e., interconnection with toll switching trunks, operator trunks, information trunks, testing trunks, etc. Equipment associated with the local office end of such trunks is included with local switching equipment or switchboard categories as appropriate.

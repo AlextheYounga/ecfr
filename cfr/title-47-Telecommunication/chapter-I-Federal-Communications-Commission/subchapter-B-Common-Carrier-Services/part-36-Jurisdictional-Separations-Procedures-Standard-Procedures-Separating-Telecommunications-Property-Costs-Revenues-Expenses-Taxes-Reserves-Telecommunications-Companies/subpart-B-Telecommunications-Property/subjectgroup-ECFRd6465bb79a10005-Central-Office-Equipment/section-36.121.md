@@ -1,5 +1,7 @@
 ##### § 36.121 General. #####
 
+Link to an amendment published at 83 FR 63584, Dec. 11, 2018.
+
 (a) The costs of central office equipment are carried in the following accounts:
 
 |  Central Office Switching   |Account 2210.|

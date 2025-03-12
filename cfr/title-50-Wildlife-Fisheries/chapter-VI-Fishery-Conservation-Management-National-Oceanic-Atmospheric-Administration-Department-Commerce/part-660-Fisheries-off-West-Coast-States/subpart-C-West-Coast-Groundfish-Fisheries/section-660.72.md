@@ -1,5 +1,7 @@
 ##### § 660.72 Latitude/longitude coordinates defining the 50 fm (91 m) through 75 fm (137 m) depth contours. #####
 
+Link to an amendment published at 83 FR 63992, Dec. 12, 2018.
+
 Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 50 fm (91 m) through 75 fm (137 m) depth contours.
 
 (a) The 50-fm (91-m) depth contour between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:

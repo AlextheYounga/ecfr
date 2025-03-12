@@ -1,5 +1,7 @@
 ##### § 220.8 Meal requirements for breakfasts. #####
 
+Link to an amendment published at 83 FR 63790, Dec. 12, 2018.
+
 (a) *General requirements.* This section contains the meal requirements applicable to school breakfasts for students in grades K through 12, and for children under the age of 5. In general, school food authorities must ensure that participating schools provide nutritious, well-balanced, and age-appropriate breakfasts to all the children they serve to improve their diet and safeguard their health.
 
 (1) *General nutrition requirements.* School breakfasts offered to children age 5 and older must meet, at a minimum, the meal requirements in paragraph (b) of this section. Schools must follow a food-based menu planning approach and produce enough food to offer each child the quantities specified in the meal pattern established in paragraph (c) of this section for each age/grade group served in the school. In addition, school breakfasts must meet the dietary specifications in paragraph (f) of this section. Schools offering breakfasts to children ages 1 to 4 and infants must meet the meal pattern requirements in paragraphs (o) and (p), as applicable, of this section. When breakfast is served in the cafeteria, schools must make potable water available and accessible without restriction to children at no charge.

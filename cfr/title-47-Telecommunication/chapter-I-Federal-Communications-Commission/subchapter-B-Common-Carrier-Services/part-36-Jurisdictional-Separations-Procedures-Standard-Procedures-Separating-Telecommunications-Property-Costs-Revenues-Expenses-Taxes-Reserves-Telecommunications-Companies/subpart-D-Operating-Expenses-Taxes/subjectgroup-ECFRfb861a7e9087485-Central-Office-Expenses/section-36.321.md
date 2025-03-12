@@ -1,5 +1,7 @@
 ##### § 36.321 Central office expenses - Accounts 6210, 6220, and 6230 (Class B telephone companies); Accounts 6211, 6212, 6220, 6231, and 6232 (Class A telephone companies). #####
 
+Link to an amendment published at 83 FR 63586, Dec. 11, 2018.
+
 (a) The expenses related to central office equipment are summarized in the following accounts:
 
 | Central Office Switching Expense  |Account 6210 (Class B telephone companies); Accounts 6211 and 6212 (Class A telephone companies).|

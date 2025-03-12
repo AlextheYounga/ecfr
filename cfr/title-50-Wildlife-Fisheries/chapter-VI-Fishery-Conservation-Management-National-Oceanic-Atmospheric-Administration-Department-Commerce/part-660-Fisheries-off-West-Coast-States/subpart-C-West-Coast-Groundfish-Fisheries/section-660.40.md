@@ -1,5 +1,7 @@
 ##### § 660.40 Overfished species rebuilding plans. #####
 
+Link to an amendment published at 83 FR 63991, Dec. 12, 2018.
+
 For each overfished groundfish stock with an approved rebuilding plan, this section contains the standards to be used to establish annual or biennial ACLs, specifically the target date for rebuilding the stock to its MSY level and the harvest control rule to be used to rebuild the stock. The harvest control rule may be expressed as a “Spawning Potential Ratio” or “SPR” harvest rate.
 
 (a) *Bocaccio.* Bocaccio south of 40°10′ N. latitude was declared overfished in 1999. The target year for rebuilding the bocaccio stock south of 40°10′ N. latitude to BMSY is 2022. The harvest control rule to be used to rebuild the southern bocaccio stock is an annual SPR harvest rate of 77.7 percent.

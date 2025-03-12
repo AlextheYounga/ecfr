@@ -1,5 +1,7 @@
 ##### § 36.302 General. #####
 
+Link to an amendment published at 83 FR 63586, Dec. 11, 2018.
+
 (a) This section sets forth procedures for the apportionment among the operations of operating expenses and operating taxes.
 
 (b) As covered in § 36.2 (c) and (d), the treatment of expenses relating to plant furnished to and obtained from others under rental arrangements is consistent with the treatment of such plant.

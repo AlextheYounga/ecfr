@@ -1,6 +1,6 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 83 FR 62275, Dec. 3, 2018.
+Link to an amendment published at 83 FR 62275, Dec. 3, 2018.Link to an amendment published at 83 FR 63990, Dec. 12, 2018.
 
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
@@ -174,7 +174,7 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Grandfathered or first generation,* when referring to a limited entry sablefish-endorsed permit owner, means those permit owners who owned a sablefish-endorsed limited entry permit prior to November 1, 2000, and are, therefore, exempt from certain requirements of the sablefish permit stacking program within the parameters of the regulations at § 660.25(b), subpart C and § 660.231, subpart E.
 
-*Groundfish means* species managed by the PCGFMP, specifically:
+*Groundfish* means species managed by the PCGFMP, specifically:
 
 (1) *Sharks:* Leopard shark, *Triakis semifasciata;* soupfin shark, *Galeorhinus zyopterus;* spiny dogfish, *Squalus suckleyi.*
 

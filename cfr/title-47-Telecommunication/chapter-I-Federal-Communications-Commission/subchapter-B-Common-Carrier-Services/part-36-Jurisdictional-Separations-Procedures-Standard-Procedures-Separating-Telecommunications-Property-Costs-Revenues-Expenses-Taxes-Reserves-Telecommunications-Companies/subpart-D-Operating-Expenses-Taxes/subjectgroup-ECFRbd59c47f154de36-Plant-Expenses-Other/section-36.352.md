@@ -1,5 +1,7 @@
 ##### § 36.352 Other property plant and equipment expenses - Account 6510 (Class B telephone companies); Accounts 6511 and 6512 (Class A telephone companies). #####
 
+Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+
 (a) This account is used to record the expenses associated with (1) property held for future telecommunications use and (2) the provisioning of material and supplies.
 
 (b) The expenses in this account are apportioned among the operations based on the separation of Account 2001 - Telecommunications Plant in Service.

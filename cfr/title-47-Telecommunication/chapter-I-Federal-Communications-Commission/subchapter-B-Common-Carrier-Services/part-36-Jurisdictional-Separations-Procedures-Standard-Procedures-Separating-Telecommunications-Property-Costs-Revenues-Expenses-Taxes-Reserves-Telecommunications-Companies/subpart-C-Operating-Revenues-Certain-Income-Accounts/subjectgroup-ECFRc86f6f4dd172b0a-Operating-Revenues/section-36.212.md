@@ -1,5 +1,7 @@
 ##### § 36.212 Basic local services revenue - Account 5000 (Class B telephone companies); Basic area revenue - Account 5001 (Class A telephone companies). #####
 
+Link to an amendment published at 83 FR 63585, Dec. 11, 2018.
+
 (a) Local private line revenues from broadcast program transmission audio services and broadcast program transmission video services are assigned to the interstate operation.
 
 (b) Revenues that are attributable to the origination or termination of interstate FX or CCSA like services shall be assigned to the interstate jurisdiction.

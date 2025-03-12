@@ -1,5 +1,7 @@
 ##### § 660.71 Latitude/longitude coordinates defining the 10-fm (18-m) through 40-fm (73-m) depth contours. #####
 
+Link to an amendment published at 83 FR 63991, Dec. 12, 2018.
+
 Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 10-fm (18-m) through 40-fm (73-m) depth contours.
 
 (a) The 10-fm (18-m) depth contour between the U.S. border with Canada and 46°16′ N. lat. is defined by straight lines connecting all of the following points in the order stated:

@@ -1,6 +1,6 @@
 ##### § 660.333 Open access non-groundfish trawl fishery - management measures. #####
 
-Link to an amendment published at 83 FR 62280, Dec. 3, 2018.
+Link to an amendment published at 83 FR 62280, Dec. 3, 2018.Link to an amendment published at 83 FR 64010, Dec. 12, 2018.
 
 (a) *General.* Groundfish taken with non-groundfish trawl gear by vessels engaged in fishing for pink shrimp, ridgeback prawns, California halibut, or sea cucumbers. Trip limits for groundfish retained in the ridgeback prawn, California halibut, or sea cucumber fisheries are in the open access trip limit table, Table 3 (South) of this subpart. Trip limits for groundfish retained in the pink shrimp fishery are in Tables 3 (North) and 3 (South) of this subpart. The table also generally describes the RCAs for vessels participating in these fisheries.
 

@@ -1,5 +1,7 @@
 ##### § 36.154 Exchange Line Cable and Wire Facilities (C&WF) - Category 1 - apportionment procedures. #####
 
+Link to an amendment published at 83 FR 63585, Dec. 11, 2018.
+
 (a) *Exchange Line C&WF - Category 1.* The first step in apportioning the cost of exchange line cable and wire facilities among the operations is the determination of an average cost per working loop. This average cost per working loop is determined by dividing the total cost of exchange line cable and wire Category 1 in the study area by the sum of the working loops described in subcategories listed below. The subcategories are:
 
 Subcategory 1.1 - State Private Lines and State WATS Lines. This subcategory shall include all private lines and WATS lines carrying exclusively state traffic as well as private lines and WATS lines carrying both state and interstate traffic if the interstate traffic on the line involved constitutes ten percent or less of the total traffic on the line.

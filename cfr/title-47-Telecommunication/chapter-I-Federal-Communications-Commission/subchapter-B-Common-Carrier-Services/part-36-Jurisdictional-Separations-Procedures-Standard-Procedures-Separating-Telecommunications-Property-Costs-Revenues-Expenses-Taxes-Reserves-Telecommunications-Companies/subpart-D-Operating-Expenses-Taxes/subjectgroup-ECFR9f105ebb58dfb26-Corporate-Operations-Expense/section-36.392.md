@@ -1,5 +1,7 @@
 ##### § 36.392 General and administrative - Account 6720. #####
 
+Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+
 (a) These expenses are divided into two categories:
 
 (1) Extended Area Services (EAS).

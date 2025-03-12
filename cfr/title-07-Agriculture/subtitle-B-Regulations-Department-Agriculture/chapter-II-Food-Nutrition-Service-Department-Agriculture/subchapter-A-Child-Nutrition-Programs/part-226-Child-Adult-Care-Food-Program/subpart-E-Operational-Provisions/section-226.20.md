@@ -1,5 +1,7 @@
 ##### § 226.20 Requirements for meals. #####
 
+Link to an amendment published at 83 FR 63791, Dec. 12, 2018.
+
 (a) *Food components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated food components:
 
 (1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both, as follows:

@@ -17791,7 +17791,7 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (k) *Maps and critical habitat unit descriptions for the island of Hawaii, HI.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Hawaii. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, utility facilities and infrastructure and their designated and maintained rights-of-way, other paved areas, lawns, and other urban landscaped areas are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
-(1)*Note:* Map 1, Index map, follows:
+(1) *Note:* Map 1, Index map, follows:
 
 ![](/graphics/er21au18.000.gif)(2) Hawaii 1 - *Clermontia lindseyana* - a (1,337 ha, 3,303 ac)
 
@@ -17827,7 +17827,7 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (i) [Reserved]
 
-(ii) Note: Map 7 follows:
+(ii) Map 7 follows:
 
 ![](/graphics/er02jy03.007.gif)(8) Hawaii 2 - *Clermontia pyrularia* - b (1,383 ha, 3,418 ac)
 
@@ -18037,7 +18037,7 @@ Oahu - Lowland Dry - Unit 6 and Oahu - Lowland Dry - Unit 7, identified in the l
 
 (i) This unit is also critical habitat for Hawaii 10 - *Isodendrion pyrifolium* - a and Hawaii 10 - *Mezoneuron kavaiense* - a (see paragraphs (k)(46) and (47), respectively, of this section).
 
-(ii) *Note:* Map 39a follows:
+(ii) Map 39a follows:
 
 ![](/graphics/er21au18.001.gif)(41) Hawaii 10 - *Bonamia menziesii* - a (163 ha, 402 ac)
 
@@ -18720,7 +18720,7 @@ Hawaii 17 - *Flueggea neowawraea* - a and Hawaii 18 - *Flueggea neowawraea* - b,
 
 (ii) Elevations between 499 and 818 m (1,637 and 2,684 ft).
 
-Family Fabaceae: *Mezoneuron kavaiense* (uhiuhi)
+Family Fabaceae: Mezoneuron kavaiense (uhiuhi)
 
 Hawaii 10 - *Mezoneuron kavaiense* - a, Hawaii 31 - *Mezoneuron kavaiense* - b, Hawaii 33 - *Mezoneuron kavaiense* - d, and Hawaii 34 - *Mezoneuron kavaiense* - e, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Mezoneuron kavaiense* on Hawaii Island. In units Hawaii 10 - *Mezoneuron kavaiense* - a, Hawaii 31 - *Mezoneuron kavaiense* - b, Hawaii 33 - *Mezoneuron kavaiense* - d, and Hawaii 34 - *Mezoneuron kavaiense* - e, the physical and biological features of critical habitat are:
 

@@ -1,5 +1,7 @@
 ##### § 36.301 Section arrangement. #####
 
+Link to an amendment published at 83 FR 63585, Dec. 11, 2018.
+
 (a) This subpart is arranged in sections as follows:
 
 |                                                                                      General                                                                                       |36.301 and  <br/>36.302.|

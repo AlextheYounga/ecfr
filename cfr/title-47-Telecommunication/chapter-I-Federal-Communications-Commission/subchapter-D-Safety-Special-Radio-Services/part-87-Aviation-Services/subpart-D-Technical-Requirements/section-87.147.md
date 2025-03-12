@@ -1,5 +1,7 @@
 ##### § 87.147 Authorization of equipment. #####
 
+Link to an amendment published at 83 FR 63812, Dec. 12, 2018.
+
 (a) Certification may be requested by following the procedures in part 2 of this chapter. Aircraft transmitters must meet the requirements over an ambient temperature range of −20 degrees to + 50 degrees Celsius.
 
 (b) ELTs manufactured after October 1, 1988, must meet the output power characteristics contained in § 87.141(i) when tested in accordance with the Signal Enhancement Test contained in subpart N, part 2 of this chapter. A report of the measurements must be submitted with each application for certification. ELTs that meet the output power characteristics of the section must have a permanent label prominently displayed on the outer casing state, “Meets FCC Rule for improved satellite detection.” This label, however, must not be placed on the equipment without authorization to do so by the Commission. Application for such authorization may be made either by submission of a new application for certification accompanied by the required fee and all information and test data required by parts 2 and 87 of this chapter or, for ELTs approved prior to October 1, 1988, a letter requesting such authorization, including appropriate test data and a showing that all units produced under the original equipment authorization comply with the requirements of this paragraph without change to the original circuitry.

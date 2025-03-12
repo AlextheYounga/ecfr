@@ -1,5 +1,7 @@
 ##### § 36.375 Published directory listing. #####
 
+Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+
 (a) This classification includes expenses for preparing or purchasing, compiling and disseminating directory listings.
 
 (b) Published directory expense is assigned as follows:

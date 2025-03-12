@@ -1,5 +1,7 @@
 ##### § 36.501 General. #####
 
+Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+
 For separations purposes, reserves and deferrals include the following accounts:
 
 |                    Other Jurisdictional Assets - Net                     |                                     Account 1500.                                     |

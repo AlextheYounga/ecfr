@@ -1,5 +1,7 @@
 ##### § 36.310 General. #####
 
+Link to an amendment published at 83 FR 63586, Dec. 11, 2018.
+
 (a) Plant specific operations expenses include the following accounts:
 
 |          Network Support Expenses          |               Account 6110 (Class B Telephone Companies); Accounts 6112, 6113, and 6114 (Class A Telephone Companies)                |

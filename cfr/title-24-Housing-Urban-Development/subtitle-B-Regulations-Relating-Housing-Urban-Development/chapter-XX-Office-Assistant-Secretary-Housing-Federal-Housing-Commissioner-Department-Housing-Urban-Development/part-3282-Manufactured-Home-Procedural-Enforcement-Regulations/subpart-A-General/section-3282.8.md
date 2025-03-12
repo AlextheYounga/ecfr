@@ -1,5 +1,7 @@
 ##### § 3282.8 Applicability. #####
 
+Link to an amendment published at 83 FR 57688, Nov. 16, 2018.
+
 (a) *Manufactured homes.* This part applies to all manufactured homes that enter the first stage of production on or after June 15, 1976, and to all manufactured homes that enter the first stage of production before June 15, 1976, to which labels are applied under § 3282.205(d).
 
 (b) *States.* This part applies to States that desire to assume responsibility under the Federal manufactured home construction and safety standards enforcement program. It includes requirements which must be met in order for State agencies to be approved by the Secretary under section 623(c) of the Act, 42 U.S.C. 5422(c). It also includes requirements for States wishing to act as primary inspection agencies, as defined in § 3282.7, or to participate in monitoring activities under § 3282.308.

@@ -1,5 +1,7 @@
 ##### § 36.351 General. #####
 
+Link to an amendment published at 83 FR 63586, Dec. 11, 2018.
+
 (a) Plant nonspecific operations expenses include the following accounts:
 
 |Other Property Plant and Equipment Expenses|         Account 6510 (Class B telephone companies); Accounts 6511 and 6512 (Class A telephone companies).          |

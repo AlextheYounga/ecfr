@@ -1,5 +1,7 @@
 ##### § 36.331 Information origination/termination expenses - Account 6310 (Class B telephone companies); Accounts 6311, 6341, 6351, and 6362 (Class A telephone companies). #####
 
+Link to an amendment published at 83 FR 63586, Dec. 11, 2018.
+
 (a) The expenses in this account are classified as follows:
 
 (1) Other Information Origination/Termination Equipment Expenses; Customer Premises Equipment Expenses
