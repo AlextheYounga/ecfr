@@ -1,5 +1,7 @@
 ##### § 648.20 Mid-Atlantic Fishery Management Council ABC control rules. #####
 
+Link to an amendment published at 83 FR 15512, Apr. 11, 2018.
+
 The SSC shall review the following criteria, and any additional relevant information, to assign managed stocks to a specific control rule level when developing ABC recommendations. The SSC shall review the ABC control rule level assignment for stocks each time an ABC is recommended. The ABC may be recommended for up to 3 years for all stocks, with the exception of 5 years for spiny dogfish. The SSC may deviate from the control rule methods or level criteria and recommend an ABC that differs from the result of the ABC control rule calculation; however, any such deviation must include the following: A description of why the deviation is warranted, description of the methods used to derive the alternative ABC, and an explanation of how the deviation is consistent with National Standard 2.
 
 (a) *Level 1 criteria.* (1) Assignment of a stock to Level 1 requires the SSC to determine the following:

@@ -48,7 +48,7 @@
 
 (4) A group of national entities (countries) combined into a single area.
 
-*Region of controlled risk for bovine spongiform encephalopathy (BSE).*1/\> A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
+*Region of controlled risk for bovine spongiform encephalopathy (BSE).*1 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
 
 1 A list of regions classified by APHIS as regions of controlled risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
 
@@ -80,7 +80,7 @@
 
 (ii) Has prohibited the feeding to ruminants in the region of meat-and-bone meal and greaves derived from ruminants, but it cannot be demonstrated through an appropriate level of control and audit that the prohibited materials have not been fed to ruminants in the region for at least the past 8 years.
 
-*Region of negligible risk for bovine spongiform encephalopathy (BSE).*2/\> A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
+*Region of negligible risk for bovine spongiform encephalopathy (BSE).*2 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
 
 2 A list of regions classified by APHIS as regions of negligible risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
 

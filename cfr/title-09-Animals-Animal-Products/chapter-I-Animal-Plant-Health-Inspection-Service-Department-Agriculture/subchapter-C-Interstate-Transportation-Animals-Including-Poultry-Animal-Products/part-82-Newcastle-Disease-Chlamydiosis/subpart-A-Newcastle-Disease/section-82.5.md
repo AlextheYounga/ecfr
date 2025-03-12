@@ -4,7 +4,7 @@
 
 (1) *Epidemiological and testing requirements.* For all pet birds moved interstate, epidemiological evidence must indicate that the birds are not infected with any communicable disease.
 
-(i) *Pet birds that have been under the control and ownership of the owner for at least 90 days.* Pet birds that have been under the ownership and control of the individual to whom the permit is issued for the 90 days before interstate movement, show no clinical signs of sickness (such as diarrhea, nasal discharge, ocular discharge, ruffled feathers, or lack of appetite) during the 90 days before interstate movement, and have been maintained apart from other birds and poultry in the quarantined area during the 90 days before interstate movement may be moved to a location outside the quarantined area for subsequent examination. The individual to whom the permit is issued must maintain ownership and control of the birds and maintain them apart from other birds and poultry from the time they arrive at the place to which the individual is taking them until a Federal representative or State representative3/\> examines the birds and determines that the birds show no clinical signs of Newcastle disease. The examination will not be less than 30 days after the interstate movement. The individual to whom the permit is issued must allow Federal representatives and State representatives to examine the birds at any time until they are declared free of Newcastle disease by either a Federal veterinarian or a State veterinarian.
+(i) *Pet birds that have been under the control and ownership of the owner for at least 90 days.* Pet birds that have been under the ownership and control of the individual to whom the permit is issued for the 90 days before interstate movement, show no clinical signs of sickness (such as diarrhea, nasal discharge, ocular discharge, ruffled feathers, or lack of appetite) during the 90 days before interstate movement, and have been maintained apart from other birds and poultry in the quarantined area during the 90 days before interstate movement may be moved to a location outside the quarantined area for subsequent examination. The individual to whom the permit is issued must maintain ownership and control of the birds and maintain them apart from other birds and poultry from the time they arrive at the place to which the individual is taking them until a Federal representative or State representative3 examines the birds and determines that the birds show no clinical signs of Newcastle disease. The examination will not be less than 30 days after the interstate movement. The individual to whom the permit is issued must allow Federal representatives and State representatives to examine the birds at any time until they are declared free of Newcastle disease by either a Federal veterinarian or a State veterinarian.
 
 3 The location of Federal representatives and State representatives may be obtained by writing to Emergency Programs, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 41, Riverdale, MD 20737-1231.
 
@@ -18,7 +18,7 @@
 
 (iii) The birds are caged while being moved interstate.
 
-(iv) Within 24 hours of a bird's dying or showing clinical signs of sickness (such as diarrhea, nasal discharge, ocular discharge, ruffled feathers, or lack of appetite), the individual to whom the permit is issued notifies the veterinarian in charge or the State animal health official4/\> in the State to which the birds are moved.
+(iv) Within 24 hours of a bird's dying or showing clinical signs of sickness (such as diarrhea, nasal discharge, ocular discharge, ruffled feathers, or lack of appetite), the individual to whom the permit is issued notifies the veterinarian in charge or the State animal health official4 in the State to which the birds are moved.
 
 4 The location of the veterinarian in charge or the State animal health official may be obtained by writing to Emergency Programs, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 41, Riverdale, MD 20737-1231, or by referring to the local telephone book.
 
@@ -34,7 +34,7 @@
 
 (4) Except for emergencies, the birds or poultry are not unloaded until their arrival at the destination listed on the permit required by paragraph (b)(1) of this section;
 
-(5) If poultry or ratites, the poultry or ratites are moved interstate to a recognized slaughtering establishment5/\> and are slaughtered within 24 hours of arrival at the recognized slaughtering establishment;
+(5) If poultry or ratites, the poultry or ratites are moved interstate to a recognized slaughtering establishment5 and are slaughtered within 24 hours of arrival at the recognized slaughtering establishment;
 
 5 A list of recognized slaughtering establishments in any State may be obtained from a Federal representative, the State animal health official, or a State representative.
 

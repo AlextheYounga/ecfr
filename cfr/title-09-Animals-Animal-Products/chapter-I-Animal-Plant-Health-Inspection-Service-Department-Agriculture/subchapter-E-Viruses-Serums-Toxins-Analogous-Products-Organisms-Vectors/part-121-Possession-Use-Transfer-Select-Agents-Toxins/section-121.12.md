@@ -1,6 +1,6 @@
 ##### § 121.12 Biosafety. #####
 
-(a) An individual or entity required to register under this part must develop and implement a written biosafety plan that is commensurate with the risk of the select agent or toxin, given its intended use.11/\> The biosafety plan must contain sufficient information and documentation to describe the biosafety and containment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent. The current biosafety plan must be submitted for initial registration, renewal of registration, or when requested. The biosafety plan must include the following provisions:
+(a) An individual or entity required to register under this part must develop and implement a written biosafety plan that is commensurate with the risk of the select agent or toxin, given its intended use.11 The biosafety plan must contain sufficient information and documentation to describe the biosafety and containment procedures for the select agent or toxin, including any animals (including arthropods) or plants intentionally or accidentally exposed to or infected with a select agent. The current biosafety plan must be submitted for initial registration, renewal of registration, or when requested. The biosafety plan must include the following provisions:
 
 11 Technical assistance and guidance may be obtained by contacting APHIS.
 

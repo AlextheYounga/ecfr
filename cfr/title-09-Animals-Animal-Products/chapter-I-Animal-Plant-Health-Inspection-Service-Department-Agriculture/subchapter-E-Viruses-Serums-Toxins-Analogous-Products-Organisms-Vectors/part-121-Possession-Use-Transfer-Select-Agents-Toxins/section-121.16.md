@@ -1,6 +1,6 @@
 ##### § 121.16 Transfers. #####
 
-(a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.14/\>
+(a) Except as provided in paragraphs (c) and (d) of this section, a select agent or toxin may only be transferred to individuals or entities registered to possess, use, or transfer that agent or toxin. A select agent or toxin may only be transferred under the conditions of this section and must be authorized by APHIS or CDC prior to the transfer.14
 
 14 The requirements of this section do not apply to transfers within a registered entity (*i.e.*, the sender and the recipient are covered by the same certificate of registration).
 

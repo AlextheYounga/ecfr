@@ -1,4 +1,4 @@
-##### § 93.805 Ports of entry, inspection, and treatment.1/\> #####
+##### § 93.805 Ports of entry, inspection, and treatment.1 #####
 
 1 Importers must also meet all requirements of the U.S. Department of the Interior regulations relevant to the importation of elephants, hippopotami, rhinoceroses, and tapirs, including regulations concerning ports of entry.
 
@@ -28,7 +28,7 @@
 
 (iii) At the port of entry, the shipping crate or the vehicle containing the animal shall be sealed by an inspector with an official seal of the United States Department of Agriculture:
 
-(iv) If the animal is moved from the port of entry in a shipping crate, plastic must be fastened around the shipping crate so that all animal waste, hay, straw, feed, bedding, and other material accompanying the animal are retained inside the crate, but not so as to interefere with ventilation, feeding, and watering of the animal;
+(iv) If the animal is moved from the port of entry in a shipping crate, plastic must be fastened around the shipping crate so that all animal waste, hay, straw, feed, bedding, and other material accompanying the animal are retained inside the crate, but not so as to interfere with ventilation, feeding, and watering of the animal;
 
 (v) After the arrival of the animal at the facility provided by the importer, the seal shall be broken by an inspector;
 

@@ -10,16 +10,16 @@ Railroad cars, trucks, boats, aircraft and other means of conveyance, equipment 
 
 (3) Buildings, sheds, and premises required by this part to be disinfected shall be treated in the following manner: Collect all litter and other refuse therefrom and destroy the same by burning or other approved methods, and saturate the entire surface of the fencing, chutes, floors, walls, and other parts with a permitted disinfectant approved for use in this part.
 
-(c) *Permitted disinfectants.* The disinfectants permitted for use in disinfecting railroad cars, trucks, boats, aircraft and other means of conveyance, equipment or containers, yards, and premises against infection of foot-and-mouth disease and rinderpest are freshly prepared solutions of:
+(c) *Permitted disinfectants.* The disinfectants permitted for use in disinfecting railroad cars, trucks, boats, aircraft and other means of conveyance, equipment or containers, yards, and premises against infection of foot-and-mouth disease are freshly prepared solutions of:
 
 (1) Sodium carbonate (4 percent) in the proportion of 1 pound to 3 gallons of water.
 
 (2) Sodium carbonate (4 percent) plus sodium silicate (0.1 percent) in the proportion of 1 pound of sodium carbonate plus sodium silicate to 3 gallons of water.
 
-(3) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.5/\>
+(3) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.5
 
 5 Due to the extreme caustic nature of sodium hydroxide solution, precautionary measures such as the wearing of rubber gloves, boots, raincoat and goggles should be observed. An acid solution such as vinegar shall be kept readily available in case any of the sodium hydroxide solution should come in contact with the body.
 
-(d) *Permitted disinfectants against ticks.* The disinfectants permitted for use against tick infestation are liquefied phenol (U. S. P. strength 87 percent phenol) in the proportion of at least 6 fluid ounces to one gallon of water; or chlorinated lime (U. S. P. strength 30 percent available chlorine) in the proportion of one pound to three gallons of water; or any one of the cresylic disinfectants permitted by the Animal and Plant Health Inspection Service in the proportion of at least four fluid ounces to one gallon of water; or through application of boiling water if the treatment is against rinder-pest or foot-and-mouth disease and tick infestation; or other disinfectants or treatments approved by the Deputy Administrator, Veterinary Services.
+(d) *Permitted disinfectants against ticks.* The disinfectants permitted for use against tick infestation are liquefied phenol (U. S. P. strength 87 percent phenol) in the proportion of at least 6 fluid ounces to one gallon of water; or chlorinated lime (U. S. P. strength 30 percent available chlorine) in the proportion of one pound to three gallons of water; or any one of the cresylic disinfectants permitted by the Animal and Plant Health Inspection Service in the proportion of at least four fluid ounces to one gallon of water; or through application of boiling water if the treatment is against foot-and-mouth disease and tick infestation; or other disinfectants or treatments approved by the Deputy Administrator, Veterinary Services.
 
-[28 FR 5981, June 13, 1963, as amended at 32 FR 19157, Dec. 20, 1967; 74 FR 66226, Dec. 15, 2009. Redesignated at 78 FR 73003, Dec. 4, 2013]
+[28 FR 5981, June 13, 1963, as amended at 32 FR 19157, Dec. 20, 1967; 74 FR 66226, Dec. 15, 2009. Redesignated at 78 FR 73003, Dec. 4, 2013; 83 FR 15494, Apr. 11, 2018]

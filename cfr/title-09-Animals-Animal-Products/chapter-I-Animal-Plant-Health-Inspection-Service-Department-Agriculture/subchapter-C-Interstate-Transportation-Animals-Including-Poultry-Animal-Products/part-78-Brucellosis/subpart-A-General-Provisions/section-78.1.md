@@ -610,7 +610,7 @@ I Incomplete agglutination.
 
 *Quarantined area.* An area that does not meet the criteria for classification as Class Free, Class A, Class B, or Class C.
 
-*Quarantined feedlot.*1/\> A confined area under State quarantine approved jointly by the State animal health official and the Veterinarian in Charge. Approval will be granted only after a State representative or APHIS representative inspects the confined area and determines that all cattle and bison are secure and isolated from contact with all other cattle and bison, that there are facilities for identifying cattle and bison, and that there is no possibility of brucellosis being mechanically transmitted from the confined area. The quarantined feedlot shall be maintained for feeding cattle and bison for slaughter, with no provisions for pasturing or grazing. All cattle and bison in a quarantined feedlot, except steers and spayed heifers, shall be treated as brucellosis exposed.
+*Quarantined feedlot.*1 A confined area under State quarantine approved jointly by the State animal health official and the Veterinarian in Charge. Approval will be granted only after a State representative or APHIS representative inspects the confined area and determines that all cattle and bison are secure and isolated from contact with all other cattle and bison, that there are facilities for identifying cattle and bison, and that there is no possibility of brucellosis being mechanically transmitted from the confined area. The quarantined feedlot shall be maintained for feeding cattle and bison for slaughter, with no provisions for pasturing or grazing. All cattle and bison in a quarantined feedlot, except steers and spayed heifers, shall be treated as brucellosis exposed.
 
 1 A list of quarantined feedlots in any State may be obtained from the State animal health official, a State representative, or an APHIS representative.
 
@@ -630,7 +630,7 @@ I Incomplete agglutination.
 
 *Sow.* A female swine which is parturient or postparturient.
 
-*Specifically approved stockyard.*3/\> Premises where cattle or bison are assembled for sale or sale purposes and which meet the standards set forth in § 71.20 of this chapter and are approved by the Administrator.
+*Specifically approved stockyard.*3 Premises where cattle or bison are assembled for sale or sale purposes and which meet the standards set forth in § 71.20 of this chapter and are approved by the Administrator.
 
 3 Notices containing lists of specifically approved stockyards are published in the Federal Register. Lists of specifically approved stockyards also may be obtained from the State animal health official, State representatives, or APHIS representatives.
 

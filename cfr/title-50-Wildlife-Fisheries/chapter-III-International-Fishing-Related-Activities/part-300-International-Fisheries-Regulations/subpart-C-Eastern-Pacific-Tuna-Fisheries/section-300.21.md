@@ -1,5 +1,7 @@
 ##### § 300.21 Definitions. #####
 
+Link to an amendment published at 83 FR 15509, Apr. 11, 2018.
+
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.

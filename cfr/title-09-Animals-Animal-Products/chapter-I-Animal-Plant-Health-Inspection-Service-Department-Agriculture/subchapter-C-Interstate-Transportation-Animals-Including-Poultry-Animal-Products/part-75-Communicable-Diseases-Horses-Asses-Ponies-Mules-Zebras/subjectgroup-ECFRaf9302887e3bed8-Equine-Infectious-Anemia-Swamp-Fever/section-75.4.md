@@ -22,7 +22,7 @@
 
 *Official test.* Any test for the laboratory diagnosis of equine infectious anemia that utilizes a diagnostic product that is: (1) Produced under license from the Secretary of Agriculture, and found to be efficacious for that diagnosis, under the Virus-Serum-Toxin Act of March 4, 1913, and subsequent amendments (21 U.S.C. 151 *et seq.*); and (2) conducted in a laboratory approved by the Administrator.
 
-*Officially identified.* The permanent identification of a reactor using the National Uniform Tag code number assigned by the United States Department of Agriculture to the State in which the reactor was tested, followed by the letter “A”,1/\> which markings shall be permanently applied to the reactor by an APHIS representative, State representative or accredited veterinarian who shall use for the purpose a hot iron or chemical brand, freezemarking or a lip tattoo. If hot iron or chemical branding or freezemarking is used, the markings shall be not less than two inches high and shall be applied to the left shoulder or left side of the neck of the reactor. If a lip tattoo is used, each character of the tattoo shall be not less than one inch high and three-fourths of an inch wide and shall be applied to the inside surface of the upper lip of the reactor.
+*Officially identified.* The permanent identification of a reactor using the National Uniform Tag code number assigned by the United States Department of Agriculture to the State in which the reactor was tested, followed by the letter “A”,1 which markings shall be permanently applied to the reactor by an APHIS representative, State representative or accredited veterinarian who shall use for the purpose a hot iron or chemical brand, freezemarking or a lip tattoo. If hot iron or chemical branding or freezemarking is used, the markings shall be not less than two inches high and shall be applied to the left shoulder or left side of the neck of the reactor. If a lip tattoo is used, each character of the tattoo shall be not less than one inch high and three-fourths of an inch wide and shall be applied to the inside surface of the upper lip of the reactor.
 
 1 Information as to the National Uniform Tag code number system can be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs, 4700 River Road Unit 43, Riverdale, Maryland 20737-1231.
 
@@ -66,11 +66,11 @@
 
 (iv) Meets check test proficiency requirements prescribed by the National Veterinary Services Laboratories; and
 
-(v) Reports all official test results to the State animal health official and the Veterinarian in Charge.2/\>
+(v) Reports all official test results to the State animal health official and the Veterinarian in Charge.2
 
 2 Training requirements, standard test protocols, and check test proficiency requirements prescribed by the National Veterinary Services Laboratories, and the names and addresses of approved laboratories can be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs, 4700 River Road Unit 43, Riverdale, Maryland 20737-1231.
 
-(2) The Administrator will approve diagnostic or research facilities to which reactors may be moved interstate under paragraph (b)(2) of this section, after a determination by the Administrator that the facility has facilities and employs procedures which are adequate to prevent the transmission of equine infectious anemia from reactors to other equine animals.3/\>
+(2) The Administrator will approve diagnostic or research facilities to which reactors may be moved interstate under paragraph (b)(2) of this section, after a determination by the Administrator that the facility has facilities and employs procedures which are adequate to prevent the transmission of equine infectious anemia from reactors to other equine animals.3
 
 3 Facilities and procedures which are adequate to prevent the transmission of equine infectious anemia, and the names and addresses of approved diagnostic or research facilities, can be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs, 4700 River Road Unit 43, Riverdale, Maryland 20737-1231.
 

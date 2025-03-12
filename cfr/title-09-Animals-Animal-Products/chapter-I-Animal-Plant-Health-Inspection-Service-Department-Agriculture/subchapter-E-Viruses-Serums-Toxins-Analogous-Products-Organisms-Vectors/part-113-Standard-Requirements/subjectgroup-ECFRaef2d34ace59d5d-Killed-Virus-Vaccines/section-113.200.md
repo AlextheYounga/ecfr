@@ -6,7 +6,7 @@ When prescribed in an applicable Standard Requirement or in the filed Outline of
 
 (b) *Cell culture requirements.* If cell cultures are used in the preparation of the vaccine, primary cells shall meet the requirements in § 113.51 and cell lines shall meet the requirements in § 113.52.
 
-(c) *Purity tests* - (1) *Bacteria and fungi.* Final container samples of completed product from each serial shall be tested as prescribed in § 113.26.
+(c) *Purity tests*—(1) *Bacteria and fungi.* Final container samples of completed product from each serial shall be tested as prescribed in § 113.26.
 
 (2) *Avian origin vaccine.* Bulk pooled material or final container samples from each serial shall also be tested for:
 
@@ -24,7 +24,7 @@ When prescribed in an applicable Standard Requirement or in the filed Outline of
 
 (e) *Viricidal activity test.* Only serials tested for viricidal activity in accordance with the test provided in § 113.35 and found satisfactory by such test shall be packaged as diluent for desiccated fractions in combination packages.
 
-(f) *Formaldehyde content.* If formaldehyde is used as the killing agent, the residual free formaldehyde content must not exceed 0.74 grams per liter (g/L) as determined using the ferric chloride test.2/\> Firms currently using tests for residual free formaldehyde content other than the ferric chloride test have until July 14, 2004 to update their Outline of Production to be in compliance with this requirement.
+(f) *Formaldehyde content.* If formaldehyde is used as the killing agent, the residual free formaldehyde content must not exceed 0.74 grams per liter (g/L) as determined using the ferric chloride test.2 Firms currently using tests for residual free formaldehyde content other than the ferric chloride test have until July 14, 2004 to update their Outline of Production to be in compliance with this requirement.
 
 2 The procedures for performing the ferric chloride test for residual free formaldehyde may be obtained from USDA, APHIS, Center for Veterinary Biologics-Laboratory, 1800 Dayton Road, P.O. Box 844, Ames, IA 50010.
 

@@ -90,7 +90,7 @@
 
 *Limited contacts.* Incidental contacts between animals from different flocks off the flock's premises such as at fairs, shows, exhibitions and sales; between ewes being inseminated, flushed, or implanted; or between rams at ram test or collection stations. Embryo transfer and artificial insemination equipment and surgical tools must be sterilized between animals for these contacts to be considered limited contacts. Limited contacts do not include any contact, incidental or otherwise, with animals in the same flock or with an animal during or up to 30 days after she lambed, kidded or aborted or when there is any visible vaginal discharge. Limited contacts do not include any activity where uninhibited contact occurs, such as sharing an enclosure, sharing a section of a transport vehicle, or residing in other flocks for breeding or other purposes. Examples of limited contacts may be found in the Scrapie Flock Certification Program standards.
 
-*Live-animal screening test.* Any test for the diagnosis of scrapie in a live animal that is approved by the Administrator as usually reliable but not definitive for diagnosing scrapie, and that is conducted in a laboratory approved by the Administrator.1/\>
+*Live-animal screening test.* Any test for the diagnosis of scrapie in a live animal that is approved by the Administrator as usually reliable but not definitive for diagnosing scrapie, and that is conducted in a laboratory approved by the Administrator.1
 
 1 The names and addresses of laboratories approved by the Administrator to conduct live-animal screening tests will be published in the Notices Section of the Federal Register. A list of approved laboratories is also available upon request from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs Staff, 4700 River Road Unit 43, Riverdale, MD 20737-1235. State, Federal, and university laboratories will be approved by the Administrator when he or she determines that the laboratory: (a) Employs personnel trained by the National Veterinary Services Laboratories assigned to supervise the testing; (b) follows standard test protocols; (c) meets check test proficiency requirements; and (d) will report all test results to State and Federal animal health officials. Before the Administrator may withdraw approval of any laboratory for failure to meet any of these conditions, the Administrator will give written notice of the proposed withdrawal to the director of the laboratory, and will give the director an opportunity to respond. If there are conflicts as to any material fact, a hearing will be held to resolve the conflicts.
 
@@ -154,7 +154,7 @@
 
 *Scrapie Flock Certification Program (SFCP).* The cooperative Federal-State-industry voluntary program for the control of scrapie conducted in accordance with subpart B of part 54 of this chapter.
 
-*Scrapie Flock Certification Program standards.* Cooperative procedures and standards adopted by APHIS and State Scrapie Certification Boards for reducing the incidence and controlling the spread of scrapie through flock certification.2/\>
+*Scrapie Flock Certification Program standards.* Cooperative procedures and standards adopted by APHIS and State Scrapie Certification Boards for reducing the incidence and controlling the spread of scrapie through flock certification.2
 
 2 Individual copies of the SFCP standards may be obtained on the World Wide Web at URL *http://www.aphis.usda.gov/vs,* or from the Animal and Plant Health Inspection Service, National Animal Health Programs Staff, 4700 River Road Unit 43, Riverdale, MD 20737-1235.
 
@@ -168,7 +168,7 @@
 
 (4) Scrapie associated fibrils (SAF) detected by electron microscopy; or
 
-(5) Any other test method approved by the Administrator in accordance with § 54.10 of this chapter.3/\>
+(5) Any other test method approved by the Administrator in accordance with § 54.10 of this chapter.3
 
 3 The names and addresses of laboratories approved by the Administrator to conduct tests are published in the Notices Section of the Federal Register. A list of approved laboratories is also available upon request from the Animal and Plant Health Inspection Service, Veterinary Services, National Animal Health Programs Staff, 4700 River Road Unit 43, Riverdale, MD 20737-1235. State, Federal, and university laboratories will be approved by the Administrator when he or she determines that the laboratory: (a) Employs personnel trained by the National Veterinary Services Laboratories assigned to supervise the testing; (b) follows standard test protocols; (c) meets check test proficiency requirements; and (d) will report all test results to State and Federal animal health officials. Before the Administrator may withdraw approval of any laboratory for failure to meet any of these conditions, the Administrator must give written notice of the proposed withdrawal to the director of the laboratory and must give the director an opportunity to respond. If there are conflicts as to any material fact, a hearing will be held to resolve the conflict.
 

@@ -10,7 +10,7 @@
 
 (i) *What additional amount do I pay if I receive a flat rate user fee service?* In addition to the flat rate user fee(s), you pay the overtime rate listed in the following table for each employee needed to get the work done:
 
-Overtime for Flat Rate User Fees 12
+Overtime for Flat Rate User Fees<sup>1 2</sup>
 
 |                                                                                                                      |Outside of the employee's normal tour of duty| Overtime rates (per hour)  |            |             |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|----------------------------|------------|-------------|
@@ -42,7 +42,7 @@ Overtime for Flat Rate User Fees 12
 
 (d) *What payment methods are acceptable?* Payment must be for the exact amount due and may be paid by:
 
-(1) Cash, will be accepted only during normal business hours if payment is made at an APHIS office7/\> or an Animal Import Center;
+(1) Cash, will be accepted only during normal business hours if payment is made at an APHIS office7 or an Animal Import Center;
 
 7 A list of APHIS offices and Animal Import Centers that accept cash or credit cards may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20738-1231.
 

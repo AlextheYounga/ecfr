@@ -1,8 +1,8 @@
-##### § 121.14 Incident response.12/\> #####
+##### § 121.14 Incident response.12 #####
 
 12 Nothing in this section is meant to supersede or preempt incident response requirements imposed by other statutes or regulations.
 
-(a) An individual or entity required to register under this part must develop and implement a written incident response plan13/\> based upon a site specific risk assessment. The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review. The current incident response plan must be submitted for initial registration, renewal of registration, or when requested.
+(a) An individual or entity required to register under this part must develop and implement a written incident response plan13 based upon a site specific risk assessment. The incident response plan must be coordinated with any entity-wide plans, kept in the workplace, and available to employees for review. The current incident response plan must be submitted for initial registration, renewal of registration, or when requested.
 
 13 Technical assistance and guidance may be obtained by contacting APHIS.
 

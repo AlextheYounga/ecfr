@@ -1,5 +1,7 @@
 ##### § 101.3 Customs service ports and ports of entry. #####
 
+Link to an amendment published at 83 FR 15499, Apr. 11, 2018.
+
 (a) *Designation of Customs field organization.* The Deputy Assistant Secretary (Regulatory, Tariff, and Trade Enforcement), pursuant to authority delegated by the Secretary of the Treasury, is authorized to establish, rearrange or consolidate, and to discontinue Customs ports of entry as the needs of the Customs Service may require.
 
 (b) *List of Ports of Entry and Service Ports.* The following is a list of Customs Ports of Entry and Service Ports. Many of the ports listed were created by the President's message of March 3, 1913, concerning a reorganization of the Customs Service pursuant to the Act of August 24, 1912 (37 Stat. 434; 19 U.S.C. 1). Subsequent orders of the President or of the Secretary of the Treasury which affected these ports, or which created (or subsequently affected) additional ports, are cited following the name of the ports.

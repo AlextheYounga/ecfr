@@ -20,7 +20,7 @@ The following definitions apply to this part:
 
 *Owner/shipper.* Any individual, partnership, corporation, or cooperative association that engages in the commercial transportation of more than 20 equines per year to slaughtering facilities, except any individual or other entity who transports equines to slaughtering facilities incidental to his or her principal activity of production agriculture (production of food or fiber).
 
-*Owner-shipper certificate.* VS Form 10-13,1/\> which requires the information specified by § 88.4(a)(3) of this part.
+*Owner-shipper certificate.* VS Form 10-13,1 which requires the information specified by § 88.4(a)(3) of this part.
 
 1 Forms may be obtained from the National Animal Health Programs Staff, Veterinary Services, APHIS, 4700 River Road Unit 43, Riverdale, MD 20737-1231.
 

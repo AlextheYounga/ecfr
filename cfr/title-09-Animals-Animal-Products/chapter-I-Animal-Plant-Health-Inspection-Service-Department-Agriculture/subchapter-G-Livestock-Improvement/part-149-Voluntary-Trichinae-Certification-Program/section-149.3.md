@@ -40,7 +40,7 @@
 
 (10) All records required under § 149.7 must be kept up to date and readily available for inspection at the site.
 
-(c) *Initial site audit for Stage I enrolled status.* (1) Producers interested in participating in the program should request and review a pre-audit information packet prepared by APHIS that discusses the program, as well as the steps in preparing for and requesting an initial site audit.3/\> When the producer and the producer's herd health personnel believe that a site meets program standards, the producer must arrange for an initial site audit, as provided in paragraph (a) of this section.
+(c) *Initial site audit for Stage I enrolled status.* (1) Producers interested in participating in the program should request and review a pre-audit information packet prepared by APHIS that discusses the program, as well as the steps in preparing for and requesting an initial site audit.3 When the producer and the producer's herd health personnel believe that a site meets program standards, the producer must arrange for an initial site audit, as provided in paragraph (a) of this section.
 
 3 The pre-audit information packet may be obtained from a qualified accredited veterinarian (QAV), State or Federal animal health offices, or the National Pork Board, or by writing to: USDA, APHIS, Veterinary Services, Trichinae Certification Program, 210 Walnut St., Room 891, Des Moines, IA 50309. A pre-audit packet also may be requested electronically through the program Web site on the Internet at *http://www.aphis.usda.gov/vs/trichinae.*
 

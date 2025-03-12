@@ -6,7 +6,7 @@
 
 (2) Each lot of hatching eggs of ratites imported from any part of the world except as provided in § 93.107, shall be quarantined upon arrival, incubated for the full incubation period (approximately 42 days), and held in quarantine for a minimum of 30 days following the hatch of the last chick in the lot, and for such longer period as may be required by the Administrator to determine the ratites' freedom from communicable diseases. Quarantine shall be conducted at a facility that meets the requirements of paragraph (c) of this section, and in the manner prescribed by paragraph (c) of this section.
 
-(3) During the quarantine period, the ratites, including chicks hatched in quarantine, shall be tested for viral diseases of poultry, including highly pathogenic avian influenza and Newcastle disease. If any of the ratites exhibit evidence of other communicable diseases, they will be subjected to such additional tests as may be required by the Administrator to determine their freedom from communicable diseases. Ratites other than those imported as hatching eggs also shall be treated for ectoparasites10/\> by an inspector until the inspector determines that the ratites are free of ectoparasites.
+(3) During the quarantine period, the ratites, including chicks hatched in quarantine, shall be tested for viral diseases of poultry, including highly pathogenic avian influenza and Newcastle disease. If any of the ratites exhibit evidence of other communicable diseases, they will be subjected to such additional tests as may be required by the Administrator to determine their freedom from communicable diseases. Ratites other than those imported as hatching eggs also shall be treated for ectoparasites10 by an inspector until the inspector determines that the ratites are free of ectoparasites.
 
 10 APHIS will use an EPA registered dust formulation that contains 5 percent carbaryl as the only active ingredient. The dust formulation will be used in accordance with all applicable directions, restrictions, and precautions on the label. Treated birds may not be slaughtered for food purposes.
 
@@ -114,7 +114,7 @@
 
 (*1*) The vaccine is licensed by the Animal and Plant Health Inspection Service in accordance with § 102.5 of this chapter; and
 
-(*2*) The vaccine is not one that is used to prevent Newcastle disease, avian influenza, or any other hemagglutinating virus of poultry.11/\>
+(*2*) The vaccine is not one that is used to prevent Newcastle disease, avian influenza, or any other hemagglutinating virus of poultry.11
 
 11 A list of approved vaccines is available from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
@@ -218,7 +218,7 @@ Written instructions shall be provided to the monitoring agency which shall requ
 
 (2) If the seals referred to in paragraph (c)(5)(iii)(A)(*16*) of this section are broken by other than Service personnel, it will be considered a breach in security and an immediate accounting of all birds in the facility shall be made by the Service. If any birds are determined to be missing from the facility, the quarantine period will be extended for an additional 30-day period.
 
-(3) During the performance of this cooperative work, the Importer agrees to be bound by the equal opportunity and nondiscrimination provisions as set forth in exhibit B and nonsegregation of facilities provisions as set forth in exhibit C,12/\> which are attached hereto and made a part thereof.
+(3) During the performance of this cooperative work, the Importer agrees to be bound by the equal opportunity and nondiscrimination provisions as set forth in exhibit B and nonsegregation of facilities provisions as set forth in exhibit C,12 which are attached hereto and made a part thereof.
 
 12 Import-Export Animals Staff, Veterinary Services, APHIS, USDA, will furnish each importer with copies of exhibits B and C prior to their signing the Cooperative and Trust Fund Agreement.
 

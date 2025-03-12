@@ -1,18 +1,18 @@
 ##### § 3.1 Housing facilities, general. #####
 
-(a) *Structure;*/\> construction. Housing facilities for dogs and cats must be designed and constructed so that they are structurally sound. They must be kept in good repair, and they must protect the animals from injury, contain the animals securely, and restrict other animals from entering.
+(a) *Structure;* construction. Housing facilities for dogs and cats must be designed and constructed so that they are structurally sound. They must be kept in good repair, and they must protect the animals from injury, contain the animals securely, and restrict other animals from entering.
 
 1 These minimum standards apply only to live dogs and cats, unless stated otherwise.
 
 (b) *Condition and site.* Housing facilities and areas used for storing animal food or bedding must be free of any accumulation of trash, waste material, junk, weeds, and other discarded materials. Animal areas inside of housing facilities must be kept neat and free of clutter, including equipment, furniture, and stored material, but may contain materials actually used and necessary for cleaning the area, and fixtures or equipment necessary for proper husbandry practices and research needs. Housing facilities other than those maintained by research facilities and Federal research facilities must be physically separated from any other business. If a housing facility is located on the same premises as another business, it must be physically separated from the other business so that animals the size of dogs, skunks, and raccoons are prevented from entering it.
 
-(c) *Surfaces* - (1) *General requirements.* The surfaces of housing facilities - including houses, dens, and other furniture-type fixtures and objects within the facility - must be constructed in a manner and made of materials that allow them to be readily cleaned and sanitized, or removed or replaced when worn or soiled. Interior surfaces and any surfaces that come in contact with dogs or cats must:
+(c) *Surfaces*—(1) *General requirements.* The surfaces of housing facilities—including houses, dens, and other furniture-type fixtures and objects within the facility—must be constructed in a manner and made of materials that allow them to be readily cleaned and sanitized, or removed or replaced when worn or soiled. Interior surfaces and any surfaces that come in contact with dogs or cats must:
 
 (i) Be free of excessive rust that prevents the required cleaning and sanitization, or that affects the structural strength of the surface; and
 
 (ii) Be free of jagged edges or sharp points that might injure the animals.
 
-(2) *Maintenance and replacement of surfaces.* All surfaces must be maintained on a regular basis. Surfaces of housing facilities - including houses, dens, and other furniture-type fixtures and objects within the facility - that cannot be readily cleaned and sanitized, must be replaced when worn or soiled.
+(2) *Maintenance and replacement of surfaces.* All surfaces must be maintained on a regular basis. Surfaces of housing facilities—including houses, dens, and other furniture-type fixtures and objects within the facility—that cannot be readily cleaned and sanitized, must be replaced when worn or soiled.
 
 (3) *Cleaning.* Hard surfaces with which the dogs or cats come in contact must be spot-cleaned daily and sanitized in accordance with § 3.11(b) of this subpart to prevent accumulation of excreta and reduce disease hazards. Floors made of dirt, absorbent bedding, sand, gravel, grass, or other similar material must be raked or spot-cleaned with sufficient frequency to ensure all animals the freedom to avoid contact with excreta. Contaminated material must be replaced whenever this raking and spot-cleaning is not sufficient to prevent or eliminate odors, insects, pests, or vermin infestation. All other surfaces of housing facilities must be cleaned and sanitized when necessary to satisfy generally accepted husbandry standards and practices. Sanitization may be done using any of the methods provided in § 3.11(b)(3) for primary enclosures.
 

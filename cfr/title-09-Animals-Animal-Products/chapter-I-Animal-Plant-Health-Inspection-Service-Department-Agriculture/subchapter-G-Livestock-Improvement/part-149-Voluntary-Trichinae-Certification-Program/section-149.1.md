@@ -26,7 +26,7 @@
 
 *Certification (certified).* A designation given by the APHIS Administrator to a pork production site for compliance with good production practices and other program requirements of the Trichinae Certification Program as provided in this part.
 
-*Certified pork.* Pork products originating from certified swine from a certified production site with identity of such animals or carcasses maintained throughout receiving, handling, and processing.1/\>
+*Certified pork.* Pork products originating from certified swine from a certified production site with identity of such animals or carcasses maintained throughout receiving, handling, and processing.1
 
 1 The labeling of all certified pork or pork products leaving a slaughter or processing facility must comply with 9 CFR 317.4 and all other applicable FSIS labeling regulations.
 
@@ -76,7 +76,7 @@
 
 *Producer.* An individual or entity that owns or controls the production or management of swine.
 
-*Qualified accredited veterinarian (QAV).* An accredited veterinarian who has been granted a program certification by the APHIS Administrator pursuant to § 161.5 of this chapter based on completion of an APHIS-approved training program in good production practices in swine management, and who is authorized by the APHIS Administrator to perform site audits and other specified program services required by this part.2/\>
+*Qualified accredited veterinarian (QAV).* An accredited veterinarian who has been granted a program certification by the APHIS Administrator pursuant to § 161.5 of this chapter based on completion of an APHIS-approved training program in good production practices in swine management, and who is authorized by the APHIS Administrator to perform site audits and other specified program services required by this part.2
 
 2 Accredited veterinarians interested in obtaining program certification related to the Trichinae Certification Program should contact APHIS' National Trichinae Coordinator at (515) 284-4122 or write to: USDA, APHIS, Veterinary Services, Trichinae Certification Program, 210 Walnut St., Room 891, Des Moines, IA 50309.
 

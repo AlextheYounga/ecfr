@@ -26,7 +26,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 (3) Any influenza virus that is not an H5 or H7 subtype and that kills one to five out of eight inoculated chickens and grows in cell culture in the absence of trypsin within 10 days.
 
-*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1/\> and slaughter thereat within two weeks from the date of entry.
+*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughter thereat within two weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the Area Veterinarian in Charge, Veterinary Services, for the State of destination of the shipment.
 

@@ -2,7 +2,7 @@
 
 (a) Animals or poultry affected with any of the following diseases, which are endemic to the United States: Equine piroplasmosis, bovine piroplasmosis or splenetic fever, scabies in cattle, pseudorabies, acute swine erysipelas, tuberculosis, Johne's disease, brucellosis, scrapie, bluetongue, anthrax, chlamydiosis, and Newcastle disease, or any other communicable disease which is endemic to the United States, or which are cattle fever tick infested, shall not be moved interstate.
 
-(b) Animals or poultry affected with any of the following diseases, not known to exist in the United States: foot-and-mouth disease, rinderpest, African swine fever, classical swine fever, Teschen disease, contagious bovine pleuropneumonia, highly pathogenic avian influenza, dourine, contagious equine metritis, vesicular exanthema, screwworms and glanders, scabies in sheep or any other communicable foreign disease not known to exist in the United States, shall not be moved interstate.
+(b) Animals or poultry affected with any of the following diseases, not known to exist in the United States: foot-and-mouth disease, African swine fever, classical swine fever, Teschen disease, contagious bovine pleuropneumonia, highly pathogenic avian influenza, dourine, contagious equine metritis, vesicular exanthema, screwworms and glanders, scabies in sheep or any other communicable foreign disease not known to exist in the United States, shall not be moved interstate.
 
 (c) Notwithstanding the provisions of paragraphs (a) and (b) of this section:
 

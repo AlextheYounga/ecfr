@@ -514,8 +514,6 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (8) *Transfer of records.* The employer shall comply with the requirements concerning transfer of records set forth in 29 CFR 1910.1020(h).
 
-(ii) Whenever the employer ceases to do business and there is no successor employer to receive and retain the records for the prescribed period, the employer shall notify the Director at least 90 days prior to disposal and, upon request, transmit them to the Director.
-
 (p) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees, or their designated representatives, an opportunity to observe the measuring or monitoring of employee exposure to MDA conducted pursuant to paragraph (f) of this section.
 
 (2) *Observation procedures.* When observation of the measuring or monitoring of employee exposure to MDA requires entry into areas where the use of protective clothing and equipment or respirators is required, the employer shall provide the observer with personal protective clothing and equipment or respirators required to be worn by employees working in the area, assure the use of such clothing and equipment or respirators, and require the observer to comply with all other applicable safety and health procedures.

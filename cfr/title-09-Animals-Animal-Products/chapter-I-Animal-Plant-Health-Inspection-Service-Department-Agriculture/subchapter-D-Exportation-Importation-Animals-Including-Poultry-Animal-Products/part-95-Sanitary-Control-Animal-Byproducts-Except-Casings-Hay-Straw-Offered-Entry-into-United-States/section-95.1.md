@@ -8,7 +8,7 @@ Whenever in the regulations in this part the following words, names, or terms ar
 
 *Animal byproducts* means hides, skins, hair, wool, glue stock, bones, hoofs, horns, bone meal, hoof meal, horn meal, blood meal, meat meal, tankage, glands, organs, or other parts or products of ruminants and swine unsuitable for human consumption.
 
-*Approved chlorinating equipment* means equipment approved by Veterinary Services as efficient for the disinfection of effluents against the contagions of foot-and-mouth disease and rinderpest.
+*Approved chlorinating equipment* means equipment approved by Veterinary Services as efficient for the disinfection of effluents against the contagion of foot-and-mouth disease.
 
 *Approved establishment* means an establishment approved by Veterinary Services for the receipt and handling of restricted import animal byproducts.
 
@@ -80,4 +80,4 @@ Whenever in the regulations in this part the following words, names, or terms ar
 
 *Veterinary Services* means the Veterinary Services unit of the Animal and Plant Health Inspection Service, United States Department of Agriculture.
 
-[28 FR 5981, June 13, 1963, as amended at 56 FR 19796, Apr. 30, 1991; 56 FR 63869, Dec. 6, 1991; 62 FR 56024, Oct. 28, 1997; 66 FR 42600, Aug. 14, 2001; 70 FR 551, Jan. 4, 2005; 70 FR 71218, Nov. 28, 2005; 74 FR 66226, Dec. 15, 2009; 78 FR 73001, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014]
+[28 FR 5981, June 13, 1963, as amended at 56 FR 19796, Apr. 30, 1991; 56 FR 63869, Dec. 6, 1991; 62 FR 56024, Oct. 28, 1997; 66 FR 42600, Aug. 14, 2001; 70 FR 551, Jan. 4, 2005; 70 FR 71218, Nov. 28, 2005; 74 FR 66226, Dec. 15, 2009; 78 FR 73001, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014; 83 FR 15493, Apr. 11, 2018]

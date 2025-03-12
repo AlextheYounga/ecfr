@@ -16,7 +16,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Department.* The United States Department of Agriculture (USDA).
 
-*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1/\> and slaughter thereat within two weeksfrom the date of entry.
+*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughter thereat within two weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the Area Veterinarian in Charge, Veterinary Services, for the State of destination of the shipment.
 
@@ -26,7 +26,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Port veterinarian.* A veterinarian employed by the Animal and Plant Health Inspection Service to perform duties required under this part at a port of entry.
 
-*Recognized slaughtering establishment.*2/\> An establishment where slaughtering operations are regularly carried on under federal or state inspection and which has been approved by the Animal and Plant Health Inspection Service to receive animals for slaughter under this part.
+*Recognized slaughtering establishment.*2 An establishment where slaughtering operations are regularly carried on under federal or state inspection and which has been approved by the Animal and Plant Health Inspection Service to receive animals for slaughter under this part.
 
 2 The name of recognized slaughtering establishments approved under this part may be obtained from the Area Veterinarian in Charge, Veterinary Services, for the State of destination of the shipment.
 

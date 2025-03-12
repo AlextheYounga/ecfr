@@ -46,7 +46,7 @@ For the purposes of this part, the following terms shall be construed, respectiv
 
 *Person.* Any individual, corporation, company, association, firm, partnership, society, or joint stock company, or other legal entity.
 
-*Recognized slaughtering establishment.* Any slaughtering establishment operating under the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*)or a State meat inspection act.1/\>
+*Recognized slaughtering establishment.* Any slaughtering establishment operating under the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*)or a State meat inspection act.1
 
 1 A list of recognized slaughtering establishments is available upon request from the Animal and Plant Health Inspection Service, 4700 River Road Unit 37, Riverdale, MD 20737-1231.
 
@@ -58,7 +58,7 @@ For the purposes of this part, the following terms shall be construed, respectiv
 
 *Sexually intact exposed female calf.* A female bovine less than 6 months of age that is nursed by a brucellosis reactor at the time such reactor is condemned, and that has not been altered to make it incapable of reproduction.
 
-*Specifically approved stockyard.* Premises approved by the Administrator, in accordance with § 71.20 of this chapter, for assembling cattle or bison for sale.2/\>
+*Specifically approved stockyard.* Premises approved by the Administrator, in accordance with § 71.20 of this chapter, for assembling cattle or bison for sale.2
 
 2 Notices containing lists of specifically approved stockyards are published in the Federal Register. Lists of specifically approved stockyards also may be obtained from the State animal health official, State representatives, or APHIS representatives.
 
