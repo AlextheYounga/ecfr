@@ -1,0 +1,5 @@
+##### § 3171.1 Authority. #####
+
+(a) The Secretaries of the Interior and Agriculture have authority under various Federal and Indian mineral leasing laws, as defined in 30 U.S.C. 1702, to manage oil and gas operations. The Secretary of the Interior has delegated this authority to the Bureau of Land Management (BLM), which has issued onshore oil and gas operating regulations codified at 43 CFR part 3160. For leases on Indian lands, the delegation to the BLM appears at 25 CFR parts 211, 212, 213, 225, and 227.
+
+(b) The Secretary of Agriculture has authority under the Federal Onshore Oil and Gas Leasing Reform Act of 1987 (Pub. L. 100-203) (Reform Act) to regulate surface disturbing activities conducted pursuant to a Federal oil and gas lease on National Forest Service (NFS) lands. This authority has been delegated to the Forest Service (FS). Its regulatory authority is at 36 CFR chapter II, including, but not limited to, part 228, subpart E, part 251, subpart B, and part 261. The FS is responsible only for approving and regulating surface disturbing activities on NFS lands and appeals related to FS decisions or approvals.

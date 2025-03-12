@@ -1,5 +1,7 @@
 ##### § 123.13 What happens if my loan application is denied? #####
 
+Link to an amendment published at 88 FR 39340, June 16, 2023.
+
 (a) If SBA denies your loan application, SBA will notify you in writing and set forth the specific reasons for the denial. Any applicant whose request for a loan is declined for reasons other than size (not being a small business) has the right to present information to overcome the reason or reasons for the decline and to request reconsideration in writing.
 
 (b) Any decline due to size can only be appealed as set forth in part 121 of this chapter.

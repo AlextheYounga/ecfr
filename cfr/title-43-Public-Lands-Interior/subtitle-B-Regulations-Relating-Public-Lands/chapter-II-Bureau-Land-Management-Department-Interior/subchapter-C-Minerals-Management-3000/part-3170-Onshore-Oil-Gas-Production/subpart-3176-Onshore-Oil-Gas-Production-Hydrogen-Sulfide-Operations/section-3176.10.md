@@ -1,0 +1,3 @@
+##### § 3176.10 Variances from requirements. #####
+
+An operator may request the authorized officer to approve a variance from any of the requirements prescribed in §§ 3176.5 through 3176.9. All such requests shall be submitted in writing to the appropriate authorized officer and provide information as to the circumstances which warrant approval of the variance(s) requested and the proposed alternative methods by which the related requirement(a) of minimum standard(s) are to be satisfied. The authorized officer, after considering all relevant factors, may approve the requested variance(s) if it is determined that the proposed alterative(s) meets or exceeds the objectives of the applicable requirement(s) or minimum standard(s).

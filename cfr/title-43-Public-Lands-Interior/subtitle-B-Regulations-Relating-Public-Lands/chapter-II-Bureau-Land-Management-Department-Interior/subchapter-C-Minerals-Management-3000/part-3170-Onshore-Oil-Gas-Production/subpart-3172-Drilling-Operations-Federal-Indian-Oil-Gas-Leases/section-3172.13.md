@@ -1,0 +1,5 @@
+##### § 3172.13 Variances from minimum standards. #####
+
+(a) An operator may request the authorized officer to approve a variance from any of the minimum standards prescribed in §§ 3172.6 through 3172.12. All such requests shall be submitted in writing to the appropriate authorized officer and provide information as to the circumstances which warrant approval of the variance(s) requested and the proposed alternative methods by which the related minimum standard(s) are to be satisfied. The authorized officer, after considering all relevant factors, if appropriate, may approve the requested variance(s) if it is determined that the proposed alternative(s) meet or exceed the objectives of the applicable minimum standard(s).
+
+(b) Emergency or other situations of an immediate nature that could not be reasonably foreseen at the time of APD approval may receive oral approval. However, such requests shall be followed up by a written notice filed not later than the fifth business day following oral approval.

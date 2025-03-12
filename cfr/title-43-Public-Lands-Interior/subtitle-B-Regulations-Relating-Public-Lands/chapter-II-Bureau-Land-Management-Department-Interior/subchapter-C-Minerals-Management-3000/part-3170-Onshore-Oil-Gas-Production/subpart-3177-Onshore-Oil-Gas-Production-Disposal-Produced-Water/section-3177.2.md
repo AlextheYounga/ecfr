@@ -1,0 +1,3 @@
+##### § 3177.2 Purpose. #####
+
+This subpart supersedes Notice to Lessees and Operators of Federal and Indian Oil and Gas Leases (NTL-2B), Disposal of Produced Water. The purpose of this subpart is to specify informational and procedural requirements for submittal of an application for the disposal of produced water, and the design, construction, and maintenance requirements for pits as well as the minimum standards necessary to satisfy the requirements and procedures for seeking a variance from the minimum standards. Also set forth in this subpart are certain specific acts of noncompliance, corrective actions required, and the abatement period allowed for correction.

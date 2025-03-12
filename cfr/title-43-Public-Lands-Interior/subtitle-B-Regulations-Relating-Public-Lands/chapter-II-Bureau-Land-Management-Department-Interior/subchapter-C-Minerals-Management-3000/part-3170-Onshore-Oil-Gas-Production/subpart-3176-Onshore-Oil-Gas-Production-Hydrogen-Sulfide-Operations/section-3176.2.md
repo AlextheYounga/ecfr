@@ -1,0 +1,3 @@
+##### § 3176.2 Purpose. #####
+
+The purpose of this subpart is to protect public health and safety and those personnel essential to maintaining control of the well. This subpart identifies the Bureau of Land Management's uniform national requirements and minimum standards of performance expected from operators when conducting operations involving oil or gas that is known or could reasonably be expected to contain hydrogen sulfide (H2S) or which results in the emission of sulfur dioxide (SO2) as a result of flaring H2S. This subpart also identifies the gravity of violations, probable corrective action(s), and normal abatement periods.

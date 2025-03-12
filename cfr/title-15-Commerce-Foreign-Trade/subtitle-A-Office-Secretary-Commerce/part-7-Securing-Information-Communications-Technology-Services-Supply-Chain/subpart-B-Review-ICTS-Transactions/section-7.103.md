@@ -1,5 +1,7 @@
 ##### § 7.103 Initial review of ICTS Transactions. #####
 
+Link to an amendment published at 88 FR 39358, June 16, 2023.
+
 (a) Upon receipt of any information identified in § 7.100(a), upon written request of an appropriate agency head, or at the Secretary's discretion, the Secretary may consider any referral for review of a transaction (referral).
 
 (b) In considering a referral pursuant to paragraph (a), the Secretary shall assess whether the referral falls within the scope of § 7.3(a) of this part and involves ICTS designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary, and determine whether to:

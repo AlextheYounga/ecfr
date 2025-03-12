@@ -1,5 +1,7 @@
 ##### § 399.79 Policies relating to unfair and deceptive practices. #####
 
+Link to an amendment published at 88 FR 39353, June 16, 2023.
+
 (a) *Applicability.* This policy shall apply to the Department's aviation consumer protection actions pursuant to 49 U.S.C. 41712(a).
 
 (b) *Definitions.* (1) A practice is “unfair” to consumers if it causes or is likely to cause substantial injury, which is not reasonably avoidable, and the harm is not outweighed by benefits to consumers or competition.

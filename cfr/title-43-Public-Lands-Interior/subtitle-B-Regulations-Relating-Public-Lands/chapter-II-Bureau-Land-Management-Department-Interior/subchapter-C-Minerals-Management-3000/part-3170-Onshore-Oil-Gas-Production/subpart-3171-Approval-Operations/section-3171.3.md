@@ -1,0 +1,3 @@
+##### § 3171.3 Scope. #####
+
+This subpart applies to all onshore leases of Federal and Indian oil and gas (other than those of the Osage Tribe). It also applies to Indian Mineral Development Act agreements. For proposed operations on a committed State or fee tract in a federally supervised unit or communitized tract, the operator must furnish a copy of the approved State permit to the authorized officer of the BLM which will be accepted for record purposes.

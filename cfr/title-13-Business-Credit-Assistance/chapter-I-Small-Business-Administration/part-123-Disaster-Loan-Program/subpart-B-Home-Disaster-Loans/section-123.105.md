@@ -1,5 +1,7 @@
 ##### § 123.105 How much can I borrow with a home disaster loan and what limits apply on use of funds and repayment terms? #####
 
+Link to an amendment published at 88 FR 39340, June 16, 2023.
+
 (a) There are limits on how much money you can borrow for particular purposes:
 
 (1) $40,000 for repair or replacement of household and personal effects;

@@ -1,0 +1,3 @@
+##### § 3172.2 Purpose. #####
+
+This subpart details the Bureau's uniform national standards for the minimum levels of performance expected from lessees and operators when conducting drilling operations on Federal and Indian lands (except Osage Tribe) and for abandonment immediately following drilling. The purpose also is to identify the enforcement actions that will result when violations of the minimum standards are found, and when those violations are not abated in a timely manner.

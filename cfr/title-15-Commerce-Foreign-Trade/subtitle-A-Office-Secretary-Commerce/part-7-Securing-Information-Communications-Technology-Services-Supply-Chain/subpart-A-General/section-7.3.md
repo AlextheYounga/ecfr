@@ -1,5 +1,7 @@
 ##### § 7.3 Scope of Covered ICTS Transactions. #####
 
+Link to an amendment published at 88 FR 39358, June 16, 2023.
+
 (a) This part applies only to an ICTS Transaction that:
 
 (1) Is conducted by any person subject to the jurisdiction of the United States or involves property subject to the jurisdiction of the United States;
@@ -142,4 +144,4 @@
 
 (2) The Committee on Foreign Investment in the United States (CFIUS) is actively reviewing, or has reviewed, as a covered transaction or covered real estate transaction or as part of such a transaction under section 721 of the Defense Production Act of 1950, as amended, and its implementing regulations.
 
-(c) (c) Notwithstanding the exemption in paragraph (b)(2) of this section, ICTS Transactions conducted by parties to transactions reviewed by CFIUS that were not part of the covered transaction or covered real estate transaction reviewed by CFIUS remain fully subject to this part.
+(c) Notwithstanding the exemption in paragraph (b)(2) of this section, ICTS Transactions conducted by parties to transactions reviewed by CFIUS that were not part of the covered transaction or covered real estate transaction reviewed by CFIUS remain fully subject to this part.

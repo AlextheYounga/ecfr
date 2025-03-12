@@ -1,0 +1,3 @@
+##### § 3176.1 Authority. #####
+
+This subpart is established pursuant to the authority granted to the Secretary of the Interior through various Federal and Indian mineral leasing statutes and the Federal Oil and Gas Royalty Management Act of 1982. This authority has been delegated to the Bureau of Land Management and is implemented by the onshore oil and gas operating regulations contained in 43 CFR part 3160. More specifically, this subpart implements and supplements the provisions of 43 CFR 3162.1, 3162.5-1(a), (c), and (d), 3162.5-2(a), and 3162.5-3.

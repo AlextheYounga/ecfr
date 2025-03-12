@@ -1,5 +1,7 @@
 ##### § 123.301 When would my business not be eligible to apply for an economic injury disaster loan? #####
 
+Link to an amendment published at 88 FR 39341, June 16, 2023.
+
 Your business is not eligible for an economic disaster loan if you (or any principal of the business) fit into any of the categories in §§ 123.101 and 123.201, or if your business is:
 
 (a) Engaged in lending, multi-level sales distribution, speculation, or investment (except for real estate investment with property held for rental when the disaster occurred);

@@ -1,0 +1,3 @@
+##### § 3177.3 Scope. #####
+
+This subpart is applicable to disposal of produced water from completed wells on Federal and Indian (except Osage) oil and gas leases. It does not apply to approval of disposal facilities on lands other than Federal and Indian lands. Separate approval under this subpart is not required if the method of disposal has been covered under an enhanced recovery project approved by the authorized officer.

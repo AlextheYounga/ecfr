@@ -1,5 +1,7 @@
 ##### § 123.106 What is eligible refinancing? #####
 
+Link to an amendment published at 88 FR 39341, June 16, 2023.
+
 (a) If your home (primary residence) is totally destroyed or substantially damaged, and you do not have credit elsewhere, SBA may allow you to borrow money to refinance recorded liens or encumbrances on your home. Your home is totally destroyed or substantially damaged if it has suffered uninsured or otherwise uncompensated damage which, at the time of the disaster, is either:
 
 (1) 40 percent or more of the home's market value or replacement cost at the time of the disaster, including land value, whichever is less; or

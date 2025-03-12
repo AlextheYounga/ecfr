@@ -1,0 +1,5 @@
+##### § 3176.3 Scope. #####
+
+(a) This subpart is applicable to all onshore Federal and Indian (except Osage Tribe) oil and gas leases when drilling, completing, testing, reworking, producing, injecting, gathering, storing, or treating operations are being conducted in zones which are known or could reasonably be expected to contain H2S or which, when flared, could produce SO2, in such concentrations that upon release could constitute a hazard to human life. The requirements and minimum standards of this subpart do not apply when operating in zones where H2S is presently known not to be present or cannot reasonably be expected to be present in concentrations of 100 parts per million (ppm) or more in the gas stream.
+
+(b) The requirements and minimum standards in this subpart do not relieve an operator from compliance with any applicable Federal, State, or local requirement(s) regarding H2S or SO2 which are more stringent.

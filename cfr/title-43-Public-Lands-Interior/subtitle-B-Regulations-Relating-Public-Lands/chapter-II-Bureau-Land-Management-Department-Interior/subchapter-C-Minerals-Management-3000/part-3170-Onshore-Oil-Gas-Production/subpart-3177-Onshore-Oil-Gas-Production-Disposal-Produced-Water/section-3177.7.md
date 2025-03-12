@@ -1,0 +1,3 @@
+##### § 3177.7 Informational requirements for injection wells. #####
+
+For an injection well proposed on Federal or Indian leases, the operator shall obtain an Underground Injection Control (UIC) permit pursuant to 40 CFR parts 144 and 146 from the Environmental Protection Agency or the State/Tribe where the State/Tribe has achieved primacy. The operator shall also comply with the pertinent procedural and informational requirements for Application for Permit to Drill or Sundry Notice as set forth in subpart 3171 of this part. The injection well shall be designed and drilled or conditioned in accordance with the requirements and standards described in subpart 3172 of this part and pertinent NTLs, as well as the UIC permit.
