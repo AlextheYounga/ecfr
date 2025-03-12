@@ -1,5 +1,7 @@
 ##### § 401.420 Cancellation, delay, or interruption in rendition of services. #####
 
+Link to an amendment published at 82 FR 41495, Aug. 31, 2017.
+
 (a) Except as otherwise provided in this section, a vessel can be charged as authorized in § 401.405 of this part for the waters in which the event takes place, if -
 
 (1) A U.S. pilot is retained on board while a vessel's passage is interrupted;

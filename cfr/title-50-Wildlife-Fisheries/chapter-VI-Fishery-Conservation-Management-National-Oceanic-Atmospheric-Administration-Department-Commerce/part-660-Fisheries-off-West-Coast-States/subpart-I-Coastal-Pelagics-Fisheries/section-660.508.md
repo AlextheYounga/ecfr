@@ -1,7 +1,5 @@
 ##### § 660.508 Annual specifications. #####
 
-Link to an amendment published at 82 FR 35688, Aug. 1, 2017.
-
 (a) The Regional Administrator will determine any harvest guideline, quota, Annual Catch Limit (ACL) (defined at § 600.310(f)(2)) or Annual Catch Target (ACT) (defined at § 600.310(f)(2) of this chapter) in accordance with the framework process in the FMP.
 
 (b) Any harvest guideline, quota, ACL, or ACT, including any apportionment between the directed fishery and set-aside for incidental harvest, will be published in the Federal Register.
@@ -26,4 +24,6 @@ Link to an amendment published at 82 FR 35688, Aug. 1, 2017.
 
 (4) The Regional Administrator will review the Council's recommendations, justification, and public comments and base his or her final decision on the requirements of the FMP and other applicable law.
 
-[76 FR 70363, Nov. 14, 2011]
+(e) *Pacific mackerel.* Every 2 years the Regional Administrator will determine, and publish in the Federal Register, harvest specifications for 2 consecutive fishing seasons for Pacific mackerel.
+
+[76 FR 70363, Nov. 14, 2011, as amended at 82 FR 35688, Aug. 1, 2017]

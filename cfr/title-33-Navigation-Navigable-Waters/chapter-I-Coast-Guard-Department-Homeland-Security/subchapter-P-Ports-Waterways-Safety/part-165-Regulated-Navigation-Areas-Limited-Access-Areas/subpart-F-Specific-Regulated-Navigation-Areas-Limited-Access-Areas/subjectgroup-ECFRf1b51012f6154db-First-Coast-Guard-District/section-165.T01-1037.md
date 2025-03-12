@@ -16,4 +16,4 @@
 
 (5) Vessel operators desiring to enter or operate within this safety zone shall contact the Captain of the Port or his designated representatives via VHF channel 16 to obtain permission to do so.
 
-Effective Date Note:By USCG-2014-1037, 82 FR 12179, Mar. 1, 2017, § 165.T01-1037 was added, effective from Mar. 1, 2017 to Oct. 1, 2017.
+Effective Date Note:By USCG-2014-1037, 82 FR 12179, Mar. 1, 2017, § 165.T01-1037 was added, effective from Mar. 1, 2017, to Oct. 1, 2017.

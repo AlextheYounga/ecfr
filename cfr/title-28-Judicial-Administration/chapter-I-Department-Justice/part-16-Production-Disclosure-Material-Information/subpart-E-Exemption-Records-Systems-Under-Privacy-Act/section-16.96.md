@@ -1,7 +1,5 @@
 ##### § 16.96 Exemption of Federal Bureau of Investigation Systems - limited access. #####
 
-Link to an amendment published at 82 FR 35653, Aug. 1, 2017.
-
 (a) The following system of records is exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(2), (e)(3), (e)(4)(G) and (H), (e)(5), (e)(8), (f) and (g):
 
 (1) Central Records System (CRS) (JUSTICE/FBI-002).
@@ -58,27 +56,27 @@ These exemptions apply only to the extent that information in the system is subj
 
 (7) From subsection (m) for the reasons stated in subsection (b)(7) of this section.
 
-(e) The following system of records is exempt from 5 U.S.C. 552a(c) (3) and (4), (d), (e) (1), (2) and (3), (e)(4) (G) and (H), (e) (5) and (8), (f), and (g):
+(e) The following system of records is exempt from 5 U.S.C. 552a(c)(3) and (4); (d)(1), (2), (3) and (4); (e)(1), (2) and (3); (e)(4)(G), (H) and (I); (e)(5) and (8); (f) and (g):
 
-(1) Identification Division Records System (JUSTICE/FBI-009).
+(1) The Next Generation Identification (NGI) System (JUSTICE/FBI-009).
 
-These exemptions apply only to the extent that information in this system is subject to exemption pursuant to 5 U.S.C. 552a(j).
+(2) These exemptions apply only to the extent that information in this system is subject to exemption pursuant to 5 U.S.C. 552a(j) or (k). Where compliance would not appear to interfere with or adversely affect the purpose of this system to detect, deter, and prosecute crimes and to protect the national security, the applicable exemption may be waived by the FBI in its sole discretion.
 
 (f) Exemptions from the particular subsections are justified for the following reasons:
 
-(1) From subsection (c)(3) for the reasons stated in subsection (d)(1) of this section.
+(1) From subsection (c)(3), the requirement that an accounting be made available to the named subject of a record, because this system is exempt from the access provisions of subsection (d). Also, because making available to a record subject the accounting of disclosures from records concerning the subject would specifically reveal investigative interest by the FBI or agencies that are recipients of the disclosures. Revealing this information could compromise ongoing, authorized law enforcement and national security efforts and may provide the record subject with the opportunity to evade or impede the investigation.
 
-(2) From subsections (c)(4), (d), (e)(4) (G) and (H), (f) and (g) because these provisions concern an individual's access to records which concern him. Such access is directed at allowing the subject of a record to correct inaccuracies in it. Although an alternate system of access has been provided in 28 CFR 16.30 to 34 and 28 CFR 20.34, the vast majority of records in this system concern local arrests which it would be inappropriate for the FBI to undertake to correct.
+(2) From subsection (c)(4) notification requirements because this system is exempt from the access and amendment provisions of subsection (d) as well as the accounting of disclosures provision of subsection (c)(3). The FBI takes seriously its obligation to maintain accurate records despite its assertion of this exemption, and to the extent it, in its sole discretion, agrees to permit amendment or correction of FBI records, it will share that information in appropriate cases.
 
-(3) From subsection (e)(1) because it is impossible to state with any degree of certainty that all information on these records is relevant to accomplish a purpose of the FBI, even though acquisition of the records from state and local law enforcement agencies is based on a statutory requirement. In view of the number of records in the system it is impossible to review them for relevancy.
+(3) From subsection (d) (1), (2), (3) and (4), (e)(4)(G) and (H), (e)(8), (f) and (g) because these provisions concern individual access to and amendment of law enforcement records and compliance and could alert the subject of an authorized law enforcement activity about that particular activity and the interest of the FBI and/or other law enforcement agencies. Providing access could compromise sensitive law enforcement information, disclose information that would constitute an unwarranted invasion of another's personal privacy, reveal a sensitive investigative technique, provide information that would allow a subject to avoid detection or apprehension, or constitute a potential danger to the health or safety of law enforcement personnel, confidential sources, or witnesses. Also, an alternate system of access has been provided in 28 CFR 16.30 through 16.34, and 28 CFR 20.34, for record subjects to obtain a copy of their criminal history records. However, the vast majority of criminal history records concern local arrests for which it would be inappropriate for the FBI to undertake correction or amendment.
 
-(4) From subsection (e)(2) because the records in the system are necessarily furnished by criminal justice agencies due to their very nature.
+(4) From subsection (e)(1) because it is not always possible to know in advance what information is relevant and necessary for law enforcement purposes. The relevance and utility of certain information may not always be evident until and unless it is vetted and matched with other sources of information that are necessarily and lawfully maintained by the FBI. Most records in this system are acquired from state and local law enforcement agencies and it is not possible for the FBI to review that information as relevant and necessary.
 
-(5) From subsection (e)(3) because compliance is not feasible due to the nature of the records.
+(5) From subsection (e)(2) and (3) because application of this provision could present a serious impediment to the FBI's responsibilities to detect, deter, and prosecute crimes and to protect the national security. Application of these provisions would put the subject of an investigation on notice of that fact and allow the subject an opportunity to engage in conduct intended to impede that activity or avoid apprehension. Also, the majority of criminal history records and associated biometrics in this system are collected by state and local agencies at the time of arrest; therefore it is not feasible for the FBI to collect directly from the individual or to provide notice. Those persons who voluntarily submit fingerprints into this system pursuant to state and federal statutes for licensing, employment, and similar civil purposes receive an (e)(3) notice.
 
-(6) From subsection (e)(5) because the vast majority of these records come from local criminal justice agencies and it is administratively impossible to ensure that the records comply with this provision. Submitting agencies are, however, urged on a continuing basis to ensure that their records are accurate and include all dispositions.
+(6) From subsection (e)(4)(I), to the extent that this subsection is interpreted to require more detail regarding the record sources in this system than has been published in the Federal Register. Should the subsection be so interpreted, exemption from this provision is necessary to protect the sources of law enforcement information and to protect the privacy and safety of witnesses and informants and others who provide information to the FBI.
 
-(7) From subsection (e)(8) because the FBI has no logical manner to ascertain whether process has been made public and compliance with this provision would in any case, provide an impediment to law enforcement by interfering with the ability to issue warrants or subpoenas and by revealing investigative techniques, procedures or evidence.
+(7) From subsection (e)(5) because in the collection of information for authorized law enforcement purposes it is impossible to determine in advance what information is accurate, relevant, timely and complete. With time, seemingly irrelevant or untimely information may acquire new significance when new details are brought to light. Additionally, the information may aid in establishing patterns of activity and providing criminal leads. Most records in this system are acquired from state and local law enforcement agencies and it would be impossible for the FBI to vouch for the compliance of these agencies with this provision. The FBI does communicate to these agencies the need for accurate and timely criminal history records, including criminal dispositions.
 
 (g) The following system of records is exempt from 5 U.S.C. 552a (c)(3) and (4), (d), (e)(1), (e)(2), (e)(3), (e)(4)(G) and (H), (e)(5), (e)(8), (f), and (g):
 

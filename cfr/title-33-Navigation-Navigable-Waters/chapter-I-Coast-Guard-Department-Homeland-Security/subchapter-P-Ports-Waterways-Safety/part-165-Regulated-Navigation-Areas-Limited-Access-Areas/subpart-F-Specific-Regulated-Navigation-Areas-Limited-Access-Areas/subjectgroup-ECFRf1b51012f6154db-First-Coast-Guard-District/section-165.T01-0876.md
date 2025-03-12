@@ -18,4 +18,4 @@
 
 (7) Notwithstanding anything contained in this rule, the Inland Navigation Rules (33 CFR subchapter E) are still in effect and must be strictly adhered to at all times.
 
-Effective Date Note:By USCG-2012-0876, 78 FR 59239, Sept. 26, 2013, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0876 was added, effective from Oct. 28, 2013 until Dec. 31, 2017.
+Effective Date Note:By USCG-2012-0876, 78 FR 59239, Sept. 26, 2013, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0876 was added, effective from Oct. 28, 2013, until Dec. 31, 2017.

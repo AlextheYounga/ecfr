@@ -6,13 +6,13 @@ You may harvest birds or gather eggs from the following species, listed in taxon
 
 (2) Snow Goose (*Chen caerulescens*).
 
-(3) Emperor goose (*Chen canagica*).
+(3) Canada goose (*Branta canadensis*).
 
-(4) Canada goose (*Branta canadensis*).
+(4) [Reserved]
 
 (5) Canada goose, subspecies Aleutian goose - except in the Semidi Islands.
 
-(6) Canada goose, subspecies cackling goose.
+(6) Canada goose, subspecies cackling goose - except no egg gathering is permitted.
 
 (7) Black Brant (*Branta bernicla nigricans*) - except no egg gathering is permitted in the Yukon/Kuskokwim Delta and the North Slope regions.
 
@@ -192,4 +192,4 @@ You may harvest birds or gather eggs from the following species, listed in taxon
 
 (2) Snowy owl (*Bubo scandiacus*).
 
-[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017]Effective Date Note:At 82 FR 16304, Apr. 4, 2017, § 92.22 was amended by redesignating paragraph (a)(3) as paragraph (a)(4), adding a new paragraph (a)(3), and revising paragraph (a)(6), effective Mar. 31, 2017 through Aug. 31, 2017.
+[73 FR 13791, Mar. 14, 2008, as amended at 81 FR 18787, Apr. 1, 2016; 82 FR 16304, Apr. 4, 2017]

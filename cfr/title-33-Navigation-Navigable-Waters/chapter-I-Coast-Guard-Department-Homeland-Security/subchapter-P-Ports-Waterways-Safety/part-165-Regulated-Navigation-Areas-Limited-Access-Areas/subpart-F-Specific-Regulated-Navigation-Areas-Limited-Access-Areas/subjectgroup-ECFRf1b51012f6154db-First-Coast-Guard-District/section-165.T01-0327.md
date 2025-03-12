@@ -18,4 +18,4 @@
 
 (f) *COTP representative.* The COTP's representative may be any Coast Guard commissioned, or petty officer or any federal, state, or local law enforcement officer who has been designated by the COTP to act on the COTP's behalf. The COTP's representative may be on a Coast Guard vessel, a Coast Guard Auxiliary vessel, a state or local law enforcement vessel, or a location on shore.
 
-Effective Date Note:By USCG-2017-0327, 82 FR 28775, June 26, 2017, § 165.T01-0327 was added, effective June 26, 2017 to Nov. 1, 2017.
+Effective Date Note:By USCG-2017-0327, 82 FR 28775, June 26, 2017, § 165.T01-0327 was added, effective June 26, 2017, to Nov. 1, 2017.

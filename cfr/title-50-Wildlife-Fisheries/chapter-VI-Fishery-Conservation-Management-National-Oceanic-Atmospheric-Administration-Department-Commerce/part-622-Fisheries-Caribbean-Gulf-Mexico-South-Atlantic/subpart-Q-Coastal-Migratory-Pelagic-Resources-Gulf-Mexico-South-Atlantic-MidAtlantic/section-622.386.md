@@ -1,8 +1,6 @@
 ##### § 622.386 Restrictions on sale/purchase. #####
 
-Link to an amendment published at 82 FR 35660, Aug. 1, 2017.
-
-The restrictions in this section are in addition to the restrictions on sale/purchase related to quota closures as specified in § 622.384(e)(3).
+The restrictions in this section are in addition to the restrictions on the sale or purchase related to commercial quota closures as specified in § 622.384(e)(2).
 
 (a) *King and Spanish mackerel.* A king or Spanish mackerel harvested or possessed in the EEZ on board a vessel that does not have a valid commercial vessel permit for king mackerel, as required under § 622.370(a)(1), or a valid commercial vessel permit for Spanish mackerel, as required under § 622.370(a)(3), or a king or Spanish mackerel harvested in the EEZ or possessed under the bag limits specified in § 622.382, may not be sold or purchased, except when harvested under the bag limits on board a vessel operating in the Gulf as a charter vessel or headboat and that vessel has both a valid Federal charter vessel/headboat permit for Gulf coastal migratory pelagic fish, as required under § 622.370(b)(1), and a valid commercial vessel permit for king mackerel or Spanish mackerel, as required under § 622.370(a)(1), as appropriate to the species harvested or possessed.
 
@@ -14,4 +12,4 @@ The restrictions in this section are in addition to the restrictions on sale/pur
 
 (e) *State-permitted tournaments.* King or Spanish mackerel harvested in a state-permitted tournament in the South Atlantic, Mid-Atlantic, or the Gulf may not be sold for profit but may be donated to a state dealer or Federal dealer. Dealers accepting these tournament-caught king or Spanish mackerel must be permitted and must comply with all transfer and reporting requirements. Federally permitted dealers who accept donated king or Spanish mackerel under this section are exempt from the restrictions in paragraph (c) of this section, and can first receive these fish from non-federally permitted vessels. Dealers must donate the monetary value (sale price or cash equivalent of value received for the landings) from the sale of tournament-caught fish to a charitable organization, as determined by the state. The monetary value received from the sale of tournament-caught fish may not be used to pay for tournament expenses. In addition, the fish must be handled and iced according to the Hazard Analysis Critical Control Point (HACCP) standards, and dealers must report tournament caught king and Spanish mackerel as “tournament catch” and comply with all Federal and state reporting requirements.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 34250, June 16, 2014; 79 FR 19496, Apr. 9, 2014; 80 FR 4222, Jan. 27, 2015]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 34250, June 16, 2014; 79 FR 19496, Apr. 9, 2014; 80 FR 4222, Jan. 27, 2015; 82 FR 35660, Aug. 1, 2017]

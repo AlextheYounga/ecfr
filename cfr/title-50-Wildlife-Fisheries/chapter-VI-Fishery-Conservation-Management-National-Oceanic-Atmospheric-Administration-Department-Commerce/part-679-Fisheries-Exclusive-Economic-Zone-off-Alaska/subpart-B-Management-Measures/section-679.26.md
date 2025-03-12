@@ -6,7 +6,7 @@
 
 (2) Halibut delivered by catcher vessels using trawl gear to shoreside processors and stationary floating processors.
 
-(b) *Authorized distributors* - (1) *Application.* An applicant seeking to become an authorized distributor must provide the Regional Administrator with the following information:
+(b) *Authorized distributors*—(1) *Application.* An applicant seeking to become an authorized distributor must provide the Regional Administrator with the following information:
 
 (i) Proof of the applicant's tax-exempt status.
 
@@ -82,4 +82,4 @@
 
 (4) No prohibited species that has been sorted from a vessel's catch or landing may be retained by a vessel or processor, or delivered to a delivery location under this section, unless the vessel or processor and delivery location is included on the list provided to the Regional Administrator under paragraph (b)(1)(xi), (b)(1)(xiii) or (b)(3)(v) of this section.
 
-[61 FR 38359, July 24, 1996, as amended at 63 FR 32145, 32146, June 12, 1998; 65 FR 78121, Dec. 14, 2000; 66 FR 53122, Oct. 19, 2001; 67 FR 4148, Jan. 28, 2002; 69 FR 52612, Aug. 27, 2004; 75 FR 53067, Aug. 30, 2010; 77 FR 42636, July 20, 2012; 81 FR 24733, Apr. 27, 2016]Effective Date Note:At 67 FR 4158, Jan. 28, 2002, § 679.26 was amended in paragraph (c)(3) by removing the words “until 1 year after” and inserting in its place “until 3 years after”. The amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 38359, July 24, 1996, as amended at 63 FR 32145, 32146, June 12, 1998; 65 FR 78121, Dec. 14, 2000; 66 FR 53122, Oct. 19, 2001; 67 FR 4148, Jan. 28, 2002; 69 FR 52612, Aug. 27, 2004; 75 FR 53067, Aug. 30, 2010; 77 FR 42636, July 20, 2012; 81 FR 24733, Apr. 27, 2016]Effective Date Note:At 67 FR 4158, Jan. 28, 2002, § 679.26 was amended in paragraph (c)(3) by removing the words “until 1 year after” and inserting in its place “until 3 years after”. This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
