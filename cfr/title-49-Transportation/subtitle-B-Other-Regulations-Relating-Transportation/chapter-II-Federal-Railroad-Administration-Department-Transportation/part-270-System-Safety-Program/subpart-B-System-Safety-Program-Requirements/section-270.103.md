@@ -1,8 +1,6 @@
 ##### § 270.103 System safety program plan. #####
 
-Link to an amendment published at 87 FR 35671, June 13, 2022.
-
-(a) *General.* (1) Each passenger rail operation subject to this part shall adopt and fully implement a system safety program through a written SSP plan that, at a minimum, contains the elements in this section. This SSP plan shall be approved by FRA under the process specified in § 270.201.
+(a) *General.* (1) Each railroad subject to this part shall adopt and fully implement a system safety program through a written SSP plan that, at a minimum, contains the elements in this section and in subpart E of this part. This SSP plan shall be approved by FRA under the process specified in § 270.201.
 
 (2) Each passenger rail operation subject to this part shall communicate with each railroad that hosts passenger train service for that passenger rail operation and coordinate the portions of the SSP plan applicable to the railroad hosting the passenger train service.
 
@@ -168,7 +166,7 @@ Link to an amendment published at 87 FR 35671, June 13, 2022.
 
 (6) The passenger rail operation shall not include in its SSP plan the analysis conducted pursuant to paragraph (r)(3) of this section. A passenger rail operation shall make the results of any analysis conducted pursuant to paragraph (r)(3) of this section available upon request to representatives of FRA and States participating under part 212 of this chapter.
 
-(s) *Safety Assurance* - (1) *Change management.* Each passenger rail operation shall establish and set forth a statement in its SSP plan describing the processes and procedures used to manage significant operational changes, system extensions, system modifications, or other significant changes that will have a direct impact on railroad safety.
+(s) *Safety Assurance*—(1) *Change management.* Each passenger rail operation shall establish and set forth a statement in its SSP plan describing the processes and procedures used to manage significant operational changes, system extensions, system modifications, or other significant changes that will have a direct impact on railroad safety.
 
 (2) *Configuration management.* Each passenger rail operation shall establish a configuration management program and describe the program in its SSP plan. The configuration management program shall:
 
@@ -182,4 +180,4 @@ Link to an amendment published at 87 FR 35671, June 13, 2022.
 
 (t) *Safety culture.* Each SSP plan shall contain a statement that describes how the passenger rail operation measures the success of its safety culture identified in paragraph (b)(2) of this section.
 
-[85 FR 12844, Mar. 4, 2020]
+[85 FR 12844, Mar. 4, 2020, as amended at 87 FR 35671, June 13, 2022]

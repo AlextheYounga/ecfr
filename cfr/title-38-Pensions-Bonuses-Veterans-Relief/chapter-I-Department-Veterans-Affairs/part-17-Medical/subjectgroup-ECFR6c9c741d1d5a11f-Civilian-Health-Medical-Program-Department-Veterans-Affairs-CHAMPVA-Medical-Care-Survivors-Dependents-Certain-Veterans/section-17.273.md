@@ -1,5 +1,7 @@
 ##### § 17.273 Preauthorization. #####
 
+Link to an amendment published at 87 FR 41601, July 13, 2022.
+
 Preauthorization or advance approval is required for any of the following:
 
 (a) Non-emergent inpatient mental health and substance abuse care including admission of emotionally disturbed children and adolescents to residential treatment centers.

@@ -1,5 +1,7 @@
 ##### § 17.274 Cost sharing. #####
 
+Link to an amendment published at 87 FR 41601, July 13, 2022.
+
 (a) With the exception of services obtained through VA facilities, CHAMPVA is a cost-sharing program in which the cost of covered services is shared with the beneficiary. CHAMPVA pays the CHAMPVA-determined allowable amount less the deductible, if applicable, and less the beneficiary cost share.
 
 (b) In addition to the beneficiary cost share, an annual (calendar year) outpatient deductible requirement ($50 per beneficiary or $100 per family) must be satisfied prior to the payment of outpatient benefits. There is no deductible requirement for inpatient services or for services provided through VA facilities.

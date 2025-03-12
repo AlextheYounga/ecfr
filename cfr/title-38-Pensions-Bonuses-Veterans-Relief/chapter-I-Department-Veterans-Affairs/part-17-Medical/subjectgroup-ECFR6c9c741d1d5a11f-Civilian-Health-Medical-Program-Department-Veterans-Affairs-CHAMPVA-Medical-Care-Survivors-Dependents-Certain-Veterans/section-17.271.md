@@ -1,5 +1,7 @@
 ##### § 17.271 Eligibility. #####
 
+Link to an amendment published at 87 FR 41600, July 13, 2022.
+
 (a) *General entitlement.* The following persons are eligible for CHAMPVA benefits provided that they are not eligible under Title 10 for the TRICARE Program or Part A of Title XVIII of the Social Security Act (Medicare) except as provided in paragraph (b) of this section.
 
 (1) The spouse or child of a veteran who has been adjudicated by VA as having a permanent and total service-connected disability;

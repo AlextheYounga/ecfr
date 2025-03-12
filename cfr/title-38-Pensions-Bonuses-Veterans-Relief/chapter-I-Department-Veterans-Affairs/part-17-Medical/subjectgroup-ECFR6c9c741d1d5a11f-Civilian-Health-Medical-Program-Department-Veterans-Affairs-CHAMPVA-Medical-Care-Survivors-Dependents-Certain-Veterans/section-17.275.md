@@ -1,5 +1,7 @@
 ##### § 17.275 Claim filing deadline. #####
 
+Link to an amendment published at 87 FR 41602, July 13, 2022.
+
 (a) Unless an exception is granted under paragraph (b) of this section, claims for medical services and supplies must be filed with the Center no later than:
 
 (1) One year after the date of service; or
