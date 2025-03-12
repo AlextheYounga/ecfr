@@ -16,7 +16,6 @@
 |                                                          Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503                                                          |     057561      |
 |                                                             Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112                                                              |     017762      |
 |                                                Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045                                                |     059399      |
-|                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712                                                        |     064146      |
 |                                                      Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510                                                       |     069334      |
 |                                                        American Regent, Inc., Animal Health Division, Shirley, NY 11967                                                        |     010797      |
 |                                                       Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                                                        |     060865      |
@@ -68,7 +67,6 @@
 |                                                  Norbrook Laboratories, Ltd., Station Works, Newry BT35 6JP, Northern Ireland                                                  |     055529      |
 |                                                         Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden                                                         |     052818      |
 |                                                                Orion Corp., Orionintie 1, 02200 Espoo, Finland                                                                 |     052483      |
-|                                              OXIS International, Inc., 6040 N. Cutter Circle, suite 317, Portland, OR 97217-3935                                               |     024991      |
 |                                     Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia                                     |     068504      |
 |                                                         Pegasus Laboratories, Inc., 8809 Ely Rd., Pensacola, FL 32514                                                          |     055246      |
 |                                                        Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970                                                         |     050057      |
@@ -82,7 +80,6 @@
 |                                                 Purina Animal Nutrition LLC, 1080 County Road F West, Shoreview, MN 55126-2910                                                 |     017800      |
 |                                                        Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349                                                         |     076475      |
 |                                                        Ridley USA, Inc., 111 W Cherry St., Suite 500, Mankato, MN 56001                                                        |     067949      |
-|                                                            RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620                                                            |     058670      |
 |                                                    Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138                                                     |     021091      |
 |                                                    Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215                                                     |     058005      |
 |                                                           Squire Laboratories, Inc., 100 Mill St., Revere, MA 02151                                                            |     017153      |
@@ -98,7 +95,6 @@
 |                                                  Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                                                  |     059320      |
 |                                                       Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                                                        |     017030      |
 |                                                              Virbac AH, Inc., PO Box 162059, Fort Worth, TX 76161                                                              |     051311      |
-|                                                        Walco International, Inc., 15 West Putnam, Porterville, CA 93257                                                        |     049185      |
 |                                                              Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616                                                               |     086113      |
 |                                                    Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                                                    |     053923      |
 |                                                               Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007                                                                |     054771      |
@@ -128,7 +124,6 @@
 |     017800      |                                                   Purina Animal Nutrition, 1080 County Road F West, Shoreview, MN 55126-2910.                                                   |
 |     021091      |                                                    Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138.                                                     |
 |     023851      |                                                                     Happy Jack, Inc., Snow Hill, NC 28580.                                                                      |
-|     024991      |                                               OXIS International, Inc., 6040 N. Cutter Circle, suite 317 Portland, OR 97217-3935.                                               |
 |     025463      |                                                Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747.                                                 |
 |     026637      |                                             Dechra Veterinary Products LLC, 7015 College Blvd., Suite 525, Overland Park, KS 66211.                                             |
 |     027053      |                                                        Superior Equine Pharmaceuticals, Inc., Pleasant Grove, UT 84062.                                                         |
@@ -137,7 +132,6 @@
 |     042791      |                                                   HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652.                                                   |
 |     042976      |                                                      GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702.                                                       |
 |     043264      |                                   Dechra, Ltd., Snaygill Industrial Estate, Keighley Rd., Skipton, North Yorkshire, BD23 2RW, United Kingdom.                                   |
-|     049185      |                                                        Walco International, Inc., 15 West Putnam, Porterville, CA 93257.                                                        |
 |     049480      |                                                       Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia.                                                        |
 |     049968      |                                                      Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120.                                                      |
 |     050057      |                                                        Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                                                         |
@@ -161,7 +155,6 @@
 |     057699      |                                                   A & G Pharmaceuticals, Inc., 1030 West Commodore Blvd., Jackson, NJ 08527.                                                    |
 |     058005      |                                                    Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215.                                                     |
 |     058198      |                                                           Elanco US Inc., 2500 Innovation Way, Greenfield, IN 46140.                                                            |
-|     058670      |                                                            RSR Laboratories, Inc., 501 Fifth St., Bristol, TN 37620.                                                            |
 |     058829      |                                                           First Priority, Inc., 1590 Todd Farm Dr., Elgin, IL 60123.                                                            |
 |     059051      |                                                              Neogen Corp., 944 Nandino Blvd., Lexington, KY 40511.                                                              |
 |     059320      |                                                  Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5.                                                  |
@@ -176,7 +169,6 @@
 |     063075      |                                                    Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964.                                                    |
 |     063286      |                                                        Mylan Institutional, LLC, 4901 Hiawatha Dr., Rockford, IL 61103.                                                         |
 |     063604      |                                                           Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                                                            |
-|     064146      |                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712.                                                        |
 |     065085      |                    Piramal Enterprises Ltd., Ananta, Agastya Corporate Park, Opp Fire Brigade, Kamani Junction, LBS Mag Kurla (West), Mumbai, 400070, India.                    |
 |     066104      |                               Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666.                               |
 |     066794      |                                                     Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                                                     |

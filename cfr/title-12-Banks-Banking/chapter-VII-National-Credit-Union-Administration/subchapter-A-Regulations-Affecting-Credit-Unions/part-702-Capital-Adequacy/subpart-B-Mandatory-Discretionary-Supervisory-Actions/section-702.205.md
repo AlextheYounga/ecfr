@@ -1,5 +1,7 @@
 ##### § 702.205 Consultation with State officials on proposed prompt corrective action. #####
 
+Link to an amendment published at 86 FR 11073, Feb. 23, 2021.
+
 (a) *Consultation on proposed conservatorship or liquidation.* Before placing a federally insured State-chartered credit union into conservatorship (pursuant to 12 U.S.C. 1786(h)(1)(F) or (G)) or liquidation (pursuant to 12 U.S.C. 1787(a)(3)) as permitted or required under subparts B or C of this part to facilitate prompt corrective action -
 
 (1) The NCUA Board shall seek the views of the appropriate State official (as defined in § 702.2(b)), and give him or her an opportunity to take the proposed action;

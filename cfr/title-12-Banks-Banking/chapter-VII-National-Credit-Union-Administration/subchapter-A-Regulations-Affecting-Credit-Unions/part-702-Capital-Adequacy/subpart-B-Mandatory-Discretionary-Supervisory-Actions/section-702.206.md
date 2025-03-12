@@ -1,5 +1,7 @@
 ##### § 702.206 Net worth restoration plans. #####
 
+Link to an amendment published at 86 FR 11073, Feb. 23, 2021.
+
 (a) *Schedule for filing* - (1) *Generally.* A federally insured credit union shall file a written net worth restoration plan (NWRP) with the appropriate Regional Director and, if State-chartered, the appropriate State official, within 45 calendar days of the effective date of classification as either “undercapitalized,” “significantly undercapitalized” or “critically undercapitalized,” unless the NCUA Board notifies the credit union in writing that its NWRP is to be filed within a different period.
 
 (2) *Exception.* An otherwise “adequately capitalized” credit union that is reclassified “undercapitalized” on safety and soundness grounds under § 702.102(b) is not required to submit a NWRP solely due to the reclassification, unless the NCUA Board notifies the credit union that it must submit an NWRP.

@@ -16,7 +16,7 @@
 
 (3) The requirements of this paragraph (c) apply to the following States: Alabama, California, Florida, Georgia, Illinois, Indiana, Iowa, Louisiana, Ohio, and Texas.
 
-(d) *Electronic submission of updated Action Plan and implementation report.* Each of the 10 States listed in paragraph (d)(2) of this section shall submit its updated highway-rail grade crossing action plan and implementation report electronically through FRA's website in PDF form.
+(d) *Electronic submission of updated Action Plan and implementation report.* Each of the 10 States listed in paragraph (c)(3) of this section shall submit its updated highway-rail grade crossing action plan and implementation report electronically through FRA's website in PDF form.
 
 (e) *Required elements for State highway-rail grade crossing action plans.* Each State highway-rail grade crossing action plan described in paragraphs (b) and (c) of this section shall:
 
@@ -86,4 +86,4 @@
 
 (h) *Condition for grants.* The Secretary of Transportation may condition the awarding of any grants under 49 U.S.C. ch. 244 on the State's or District of Columbia's submission of an FRA-approved State highway-rail grade crossing action plan under this section.
 
-[85 FR 80659, Dec. 14, 2020]
+[85 FR 80659, Dec. 14, 2020; 86 FR 10857, Feb. 23, 2021]

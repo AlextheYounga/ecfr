@@ -1,5 +1,7 @@
 ##### § 702.104 Risk portfolios defined. #####
 
+Link to an amendment published at 86 FR 11073, Feb. 23, 2021.
+
 A risk portfolio is a portfolio of assets, liabilities, or contingent liabilities as specified below, each expressed as a percentage of the credit union's quarter-end total assets reflected in its most recent Call Report, rounded to two decimal places (Table 2):
 
 (a) *Long-term real estate loans.* Total real estate loans and real estate lines of credit outstanding, exclusive of those outstanding that will contractually refinance, reprice or mature within the next five (5) years, and exclusive of all member business loans (as defined in 12 CFR 723.8(b) or as approved under 12 CFR 723.10);

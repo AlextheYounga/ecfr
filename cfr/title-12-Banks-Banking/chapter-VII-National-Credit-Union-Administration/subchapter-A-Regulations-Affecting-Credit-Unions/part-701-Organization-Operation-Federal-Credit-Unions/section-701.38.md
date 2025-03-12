@@ -1,5 +1,7 @@
 ##### § 701.38 Borrowed funds from natural persons. #####
 
+Link to an amendment published at 86 FR 11072, Feb. 23, 2021.
+
 (a) Federal credit unions may borrow from a natural person, provided:
 
 (1) The borrowing is evidenced by a signed promissory note which sets forth the terms and conditions regarding maturity, prepayment, interest rate, method of computation, and method of payment;

@@ -1,5 +1,7 @@
 ##### § 741.204 Maximum public unit and nonmember accounts, and low-income designation. #####
 
+Link to an amendment published at 86 FR 11085, Feb. 23, 2021.
+
 Any credit union that is insured, or that makes application for insurance, pursuant to title II of the Act must:
 
 (a) Adhere to the requirements of § 701.32 of this chapter regarding public unit and nonmember accounts, provided it has the authority to accept such accounts.

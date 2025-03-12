@@ -1,5 +1,7 @@
 ##### § 202.6 Supplementary registration. #####
 
+Link to an amendment published at 86 FR 10826, Feb. 23, 2021.
+
 (a) *General.* This section prescribes conditions relating to the filing of an application for supplementary registration under section 408(d) of title 17 of the United States Code to correct an error in a copyright registration or to amplify the information given in a registration. No correction or amplification of the information in a basic registration will be made except pursuant to the provisions of this section. As an exception, where it is discovered that a basic registration contains an error caused by the Copyright Office's own action, the Office will take appropriate measures to rectify its mistake.
 
 (b) *Definitions.* (1) A *basic registration* means any of the following:

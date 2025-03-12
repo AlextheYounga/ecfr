@@ -26,7 +26,7 @@
 
 (g) *Ostensible subcontractor.* Where a subcontractor that is not similarly situated performs primary and vital requirements of a set-aside service contract, or where a prime contractor is unduly reliant on a small business that is not similarly situated to perform the set-aside service contract, the prime contractor is not eligible for award of a WOSB or EDWOSB contract.
 
-(1) When the subcontractor is small for the size standard assigned to the procurement, this issue may be grounds for a WOSB or EDWOSB status protest, as described in subpart F of this part. When the subcontractor is other than small or alleged to be other than small for the size standard assigned to the procurement, this issue may be a ground for a size protest, as described at § 121.103(h)(4) of this chapter.
+(1) When the subcontractor is small for the size standard assigned to the procurement, this issue may be grounds for a WOSB or EDWOSB status protest, as described in subpart F of this part. When the subcontractor is other than small or alleged to be other than small for the size standard assigned to the procurement, this issue may be grounds for a size protest, as described at § 121.103(h)(2) of this chapter.
 
 (2) SBA will find that a prime WOSB or EDWOSB contractor is performing the primary and vital requirements of a contract or order and is not unduly reliant on one or more non-similarly situated subcontracts where the prime contractor can demonstrate that it, together with any similarly situated entity, will meet the limitations on subcontracting provisions set forth in § 125.6.
 
@@ -42,4 +42,4 @@
 
 (6) A concern's status will be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[85 FR 66197, Oct. 16, 2020]
+[85 FR 66197, Oct. 16, 2020, as amended at 86 FR 10732, Feb. 23, 2021]

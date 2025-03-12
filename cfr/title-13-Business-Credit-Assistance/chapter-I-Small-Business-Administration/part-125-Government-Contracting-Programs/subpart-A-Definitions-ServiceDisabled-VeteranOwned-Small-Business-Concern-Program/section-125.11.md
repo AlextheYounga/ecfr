@@ -18,6 +18,8 @@
 
 (5) Company declaring bankruptcy.
 
+*Interested Party* means the contracting activity's contracting officer, SBA, any concern that submits an offer for a specific sole source or set-aside SDVO contract or order (including Multiple Award Contracts), or any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a reserve of an award given to a SDVO SBC.
+
 *Negative control* has the same meaning as that set forth in § 121.103(a)(3) of this chapter.
 
 *Participant* means a veteran-owned small business concern that has verified status in the Vendor Information Pages database, available at *https://www.vip.vetbiz.gov/.*
@@ -68,4 +70,4 @@
 
 (2) The management and daily business operations of which are controlled by one or more veterans. All of the provisions of subpart B of this part apply for purposes of determining ownership and control.
 
-[83 FR 48912, Sept. 28, 2018]
+[83 FR 48912, Sept. 28, 2018, as amended at 86 FR 10733, Feb. 23, 2020]
