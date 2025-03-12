@@ -40,4 +40,4 @@ States that are parties to the Convention on the Prohibition of the Development,
 
 (c) *Contract sanctity.* Contract sanctity provisions are not available for license applications reviewed under this section.
 
-[67 FR 37982, May 31, 2002, as amended at 69 FR 42865, July 19, 2004; 76 FR 56101, \>Sept. 12, 2011]
+[67 FR 37982, May 31, 2002, as amended at 69 FR 42865, July 19, 2004; 76 FR 56101, Sept. 12, 2011]

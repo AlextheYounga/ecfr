@@ -1,5 +1,7 @@
 ##### § 233.11 Mail reasonably suspected of being dangerous to persons or property. #####
 
+Link to an amendment published at 86 FR 38414, July 21, 2021.
+
 (a) *Screening of mail.* When the Chief Postal Inspector determines that there is a credible threat that certain mail may contain a bomb, explosives, or other material that would endanger life or property, including firearms which are not mailable under Section C024 of the Domestic Mail Manual, the Chief Postal Inspector may, without a search warrant or the sender's or addressee's consent, authorize the screening of such mail by any means capable of identifying explosives, nonmailable firearms, or other dangerous contents in the mails. The screening must be within the limits of this section and without opening mail that is sealed against inspection or revealing the contents of correspondence within mail that is sealed against inspection. The screening is conducted according to these requirements.
 
 (1) Screening of mail authorized by paragraph (a) of this section must be limited to the least quantity of mail necessary to respond to the threat.

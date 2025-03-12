@@ -1,5 +1,7 @@
 ##### § 622.34 Seasonal and area closures designed to protect Gulf reef fish. #####
 
+Link to an amendment published at 86 FR 38417, July 21, 2021.
+
 (a) *Closure provisions applicable to the Madison and Swanson sites and Steamboat Lumps, and the Edges* - (1) *Descriptions of Areas.* (i) The Madison and Swanson sites are bounded by rhumb lines connecting, in order, the following points:
 
 |Point|North lat.|West long.|
