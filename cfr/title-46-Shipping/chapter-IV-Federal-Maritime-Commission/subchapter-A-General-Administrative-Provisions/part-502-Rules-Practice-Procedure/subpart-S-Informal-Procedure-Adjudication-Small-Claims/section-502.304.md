@@ -1,5 +1,7 @@
 ##### § 502.304 Procedure and filing fee. #####
 
+Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
+
 (a) A sworn claim under this subpart shall be filed in the form prescribed in Exhibit No. 1 to this subpart. Three (3) copies of this claim must be filed, together with the same number of copies of such supporting documents as may be deemed necessary to establish the claim. Copies of tariff pages need not be filed; reference to such tariffs or to pertinent parts thereof will be sufficient. Supporting documents may consist of affidavits, correspondence, bills of lading, paid freight bills, export declarations, dock or wharf receipts, or of such other documents as, in the judgment of the claimant, tend to establish the claim. The Small Claims Officer may, if deemed necessary, request additional documents or information from claimants. Claimant may attach a memorandum, brief or other document containing discussion, argument, or legal authority in support of its claim. If a claim filed under this subpart involves any shipment which has been the subject of a previous claim filed with the Commission, formally or informally, full reference to such previous claim must be given.
 
 (b) Claims under this subpart shall be addressed to the Office of the Secretary, Federal Maritime Commission, Washington, DC 20573. Such claims must be accompanied by remittance of an $85 filing fee.

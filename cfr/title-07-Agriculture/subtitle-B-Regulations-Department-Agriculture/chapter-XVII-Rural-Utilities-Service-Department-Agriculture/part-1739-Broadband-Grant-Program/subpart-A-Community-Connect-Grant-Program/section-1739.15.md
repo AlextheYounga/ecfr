@@ -1,6 +1,6 @@
 ##### § 1739.15 Completed application. #####
 
-Applications should be prepared in conformance with the provisions of this part and all applicable regulations, including 2 CFR part 200, as adopted by USDA through 2 CFR part 400. Applicants must also conform to the requirements of the individual NOFA to be published when funds are available for the program and are advised to use the Agency's Application Guide for this program, found at the Agency's Web site. Applicants must submit one paper copy and one electronic copy of the application. The application guide contains instructions and forms, as well as other important information needed to prepare an application and may be updated periodically. Paper copies of the application guide can be requested by contacting the, Director, Broadband Division at the following address: Stop 1599, South Agriculture Building, Room 2868, Washington, DC 20250. Completed applications must include the following documentation, studies, reports and information, in form and substance satisfactory to the Agency:
+Applications should be prepared in conformance with the provisions of this part and all applicable regulations, including 2 CFR part 200, as adopted by USDA through 2 CFR part 400. Applicants must also conform to the requirements of the FOA posted on *www.Grants.gov*, the RUS Community Connect Grant program application guide, and the Community Connect Grant program website. Applicants should refer to the FOA and the application guide for submission directions. The application guide contains instructions and forms, as well as other important information needed to prepare an application and is updated on an annual basis. Paper copies of the application guide can be requested by contacting the Loan Origination and Approval Division at 202-720-0800. Completed applications must include the following documentation, studies, reports and information, in form and substance satisfactory to the Agency:
 
 (a) *An Application for Federal Assistance.* A completed Standard Form 424;
 
@@ -82,4 +82,4 @@ Applications should be prepared in conformance with the provisions of this part 
 
 (11) Assurance Regarding Felony Conviction or Tax Delinquent Status for Corporate Applicants.
 
-[78 FR 25791, June 3, 2013, as amended at 79 FR 76004, Dec. 19, 2014; 81 FR 11027, Mar. 2, 2016]
+[78 FR 25791, June 3, 2013, as amended at 79 FR 76004, Dec. 19, 2014; 81 FR 11027, Mar. 2, 2016; 83 FR 45033, Sept. 5, 2018]

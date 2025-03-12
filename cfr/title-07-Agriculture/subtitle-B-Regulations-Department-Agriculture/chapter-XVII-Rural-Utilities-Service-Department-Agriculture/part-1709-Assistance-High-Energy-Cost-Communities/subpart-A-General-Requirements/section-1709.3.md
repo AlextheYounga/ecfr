@@ -14,6 +14,8 @@
 
 *Financial assistance* means a grant, loan, or grant-loan combination issued under this part.
 
+*Funding opportunity announcement (FOA)* means a publicly available document by which a Federal agency makes know its intentions to award discretionary grants or cooperative agreements, usually as a result of competition for funds. FOA announcements may be known as program announcements, notices of funding availability, solicitations, or other names depending on the agency and type of program. FOA announcements can be found at *www.Grants.gov* in the Search Grants tab and on the funding agency's or program's website.
+
 *Home energy* means any energy source or fuel used by a household for purposes other than transportation, including electricity, natural gas, fuel oil, kerosene, liquified petroleum gas (propane), other petroleum products, wood and other biomass fuels, coal, wind and solar energy. Fuels used for subsistence activities in remote rural areas are also included.
 
 *High energy cost benchmarks* means the criteria established by RUS for eligibility as an extremely high energy cost community. Extremely high energy cost benchmarks are calculated as 275 percent of the relevant national average household energy benchmarks.
@@ -27,3 +29,5 @@
 *Target area* means the geographic area to be served by the grant.
 
 *Target community* means the unit or units of local government in which the target area is located.
+
+[70 FR 5351, Feb. 2, 2005, as amended at 83 FR 45032, Sept. 5, 2018]

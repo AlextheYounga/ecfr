@@ -1,6 +1,6 @@
 ##### § 1739.16 Review of grant applications. #####
 
-(a) All applications for grants must be delivered to the Agency at the address and by the date specified in the NOFA (*see* § 1739.2) to be eligible for funding. The Agency will review each application for conformance with the provisions of this part, and may contact the applicant for clarification of information in the application.
+(a) All applications for grants must be delivered to the Agency at the address and by the date specified in the FOA, the Community Connect Grant program application guide and the Community Connect Grant program website (*see* § 1739.2) to be eligible for funding. The Agency will review each application for conformance with the provisions of this part, and may contact the applicant for clarification of information in the application.
 
 (b) Incomplete applications as of the deadline for submission will not be considered. If an application is determined to be incomplete, the applicant will be notified in writing and the application will be returned with no further action.
 
@@ -13,3 +13,5 @@
 (f) An award may be made out of rank order if a higher ranked application would require an award that exceeded available funding or would consume a disproportionate amount of funds available relative to its ranking.
 
 (g) The Agency reserves the right to offer an applicant a lower amount than proposed in the application.
+
+[78 FR 25791, June 3, 2013, as amended at 83 FR 45033, Sept. 5, 2018]

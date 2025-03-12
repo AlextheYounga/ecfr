@@ -1,5 +1,7 @@
 ##### § 502.62 Private party complaints for formal adjudication. #####
 
+Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
+
 (a) *Filing a complaint for formal adjudication.* (1) A person may file a sworn complaint alleging violation of the Shipping Act of 1984, 46 U.S.C. 40101 *et seq.*
 
 (2) *Form.* Complaints should be drafted in accordance with the rules in this section.

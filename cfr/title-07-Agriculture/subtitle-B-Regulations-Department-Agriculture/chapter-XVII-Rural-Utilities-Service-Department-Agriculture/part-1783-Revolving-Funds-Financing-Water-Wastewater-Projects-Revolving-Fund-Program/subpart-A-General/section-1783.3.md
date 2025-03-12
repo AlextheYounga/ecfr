@@ -8,6 +8,8 @@
 
 *Eligible entity* means an entity eligible to obtain a loan, loan guarantee or grant under paragraph 1 or paragraph 2 of section 306(a) the CONACT (codified at 7 U.S.C. 1926(a)(1) and (2)).
 
+*Funding opportunity announcement (FOA)* means a publicly available document by which a Federal agency makes know its intentions to award discretionary grants or cooperative agreements, usually as a result of competition for funds. FOA announcements may be known as program announcements, notices of funding availability, solicitations, or other names depending on the agency and type of program. FOA announcements can be found at *Grants.gov* in the Search Grants tab and on the funding agency's or program's website.
+
 *Grant agreement* means the contract between RUS and the grant recipient which sets forth the terms and conditions governing a particular grant awarded under this part.
 
 *Grant recipient* means a private, non-profit entity that has been awarded a grant under this part.
@@ -30,4 +32,4 @@
 
 *USDA* means the United States Department of Agriculture.
 
-[69 FR 59772, Oct. 6, 2004, as amended at 80 FR 9864, Feb. 24, 2015]
+[69 FR 59772, Oct. 6, 2004, as amended at 80 FR 9864, Feb. 24, 2015; 83 FR 45034, Sept. 5, 2018]

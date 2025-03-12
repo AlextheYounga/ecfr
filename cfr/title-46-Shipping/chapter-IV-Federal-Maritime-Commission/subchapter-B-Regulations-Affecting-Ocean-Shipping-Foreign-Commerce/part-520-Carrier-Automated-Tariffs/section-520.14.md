@@ -1,5 +1,7 @@
 ##### § 520.14 Special permission. #####
 
+Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
+
 (a) *General.* Section 8(d) of the Act (46 U.S.C. 40501(e)) authorizes the Commission, in its discretion and for good cause shown, to permit increases or decreases in rates, or the issuance of new or initial rates, on less than the statutory notice. Section 9(c) of the Act (46 U.S.C. 40703, 40704(a)) authorizes the Commission to permit a controlled carrier's rates, charges, classifications, rules or regulations to become effective on less than 30 days' notice. The Commission may also in its discretion and for good cause shown, permit departures from the requirements of this part.
 
 (b) *Clerical errors.* Typographical and/or clerical errors constitute good cause for the exercise of special permission authority but every application based thereon must plainly specify the error and present clear evidence of its existence, together with a full statement of the attending circumstances, and shall be submitted with reasonable promptness after publishing the defective tariff material.

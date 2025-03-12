@@ -4,4 +4,6 @@
 
 (b) In lieu of submitting an application by U.S. Mail, an applicant may file its application electronically by using the Federal Government's eGrants Web site (Grants.gov) at *http://www.grants.gov.* Applicants should refer to instructions found on the Grants.gov Web site for procedures for registering and using this facility. Applicants who have not previously registered on Grants.gov should allow a sufficient number of business days to complete the process necessary to be qualified to apply for Federal Government grants using electronic submissions. Electronic submissions must be filed not later than the filing deadline to be considered during the period for which the application was submitted.
 
-(c) The methods of submitting applications may be changed from time to time to reflect changes in addresses and electronic submission procedures. Applicants should refer to the most recent notice of funding availability for notice of any such changes. In the event of any discrepancy, the information contained in the notice must be followed.
+(c) The methods of submitting applications may be changed from time to time to reflect changes in addresses and electronic submission procedures Applicants should refer to the most recent FOA for notice of any such changes. In the event of any discrepancy, the information contained in the FOA must be followed. In the event of any discrepancy, the information contained in the notice must be followed.
+
+[69 FR 59772, Oct. 6, 2004, as amended at 83 FR 45034, Sept. 5, 2018]

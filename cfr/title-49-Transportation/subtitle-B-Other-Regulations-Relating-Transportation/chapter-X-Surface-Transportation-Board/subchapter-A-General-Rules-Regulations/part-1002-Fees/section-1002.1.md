@@ -1,14 +1,12 @@
 ##### § 1002.1 Fees for records search, review, copying, certification, and related services. #####
 
-Link to an amendment published at 83 FR 38266, Aug. 6, 2018.
-
 Certifications and copies of such tariffs, reports and other public records and documents on file with the Surface Transportation Board as may be practicable to furnish, as well as searches and copying of records not considered public under the Freedom of Information Act (5 U.S.C. 552), will be furnished on the following basis:
 
-(a) Certificate of the Records Officer, $19.00.
+(a) Certificate of the Records Officer, $20.00.
 
-(b) Services involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $43.00 per hour.
+(b) Services involved in examination of tariffs or schedules for preparation of certified copies of tariffs or schedules or extracts therefrom at the rate of $45.00 per hour.
 
-(c) Services involved in checking records to be certified to determine authenticity, including clerical work, etc. identical thereto, at the rate of $30.00 per hour.
+(c) Services involved in checking records to be certified to determine authenticity, including clerical work, etc. identical thereto, at the rate of $31.00 per hour.
 
 (d) Photocopies of tariffs, reports, and other public documents, at the rate of $1.50 per letter or legal size exposure. A minimum charge of $7.50 will be made for this service.
 
@@ -16,7 +14,7 @@ Certifications and copies of such tariffs, reports and other public records and 
 
 (f) The fee for search and copying services requiring computer processing are as follows:
 
-(1) A fee of $76.00 per hour for professional staff time will be charged when it is required to fulfill a request for ADP data.
+(1) A fee of $78.00 per hour for professional staff time will be charged when it is required to fulfill a request for ADP data.
 
 (2) Printing shall be charged at the rate of $.10 per page of computer generated output with a minimum charge of $.25. A charge of $30 per reel of magnetic tape will be made if the tape is to be permanently retained by the requestor.
 
@@ -32,18 +30,7 @@ Certifications and copies of such tariffs, reports and other public records and 
 
 (5) All requesters must reasonably describe the records sought.
 
-(6) The search and review hourly fees will be based upon employee grade levels in order to recoup the full, allowable direct costs attributable to their performance of these functions. They are as follows:
-
-|Grade| Rate |    Grade     | Rate |
-|-----|------|--------------|------|
-|GS-1 |$12.78|     GS-9     |$29.85|
-|GS-2 |13.92 |    GS-10     |32.88 |
-|GS-3 |15.69 |    GS-11     |36.12 |
-|GS-4 |17.61 |    GS-12     |43.29 |
-|GS-5 |19.70 |    GS-13     |51.48 |
-|GS-6 |21.96 |    GS-14     |60.83 |
-|GS-7 |24.41 |GS-15 and over|71.56 |
-|GS-8 |27.03 |              |      |
+(6) The search and review hourly fees will be based upon employee grade levels in order to recoup the full, allowable direct costs attributable to their performance of these functions. A listing of the hourly fees by employee grade level is available on the Board's website, *http://www.stb.gov.*
 
 (7) The fee for photocopies shall be $1.50 per letter or legal size exposure with a minimum charge of $7.50.
 
@@ -85,4 +72,4 @@ Certifications and copies of such tariffs, reports and other public records and 
 
 (i) Transcript of testimony and of oral argument, or extracts therefrom, may be purchased by the public from the Board's official reporter. For information regarding the official reporter, contact the Records Officer, Surface Transportation Board, Washington, DC 20423-0001.
 
-[32 FR 20010, Dec. 20, 1967]Editorial Note:For Federal Register citations affecting § 1002.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[32 FR 20010, Dec. 20, 1967]Editorial Note:For Federal Register citations affecting § 1002.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

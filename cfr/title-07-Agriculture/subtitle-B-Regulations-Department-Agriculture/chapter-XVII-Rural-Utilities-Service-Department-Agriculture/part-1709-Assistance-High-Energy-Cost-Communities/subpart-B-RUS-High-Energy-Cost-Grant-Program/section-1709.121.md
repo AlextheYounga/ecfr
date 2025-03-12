@@ -6,4 +6,6 @@
 
 (c) The projects selected by the Administrator will be funded in rank order to the extent of available funds.
 
-(d) In the event an insufficient number of eligible applications are received in response to a published grant announcement and selected for funding to exhaust the funds available, the Administrator reserves the discretion to reopen the application period and to accept additional applications for consideration under the terms of the grant announcement. A notice regarding the reopening of an application period will be published in the Federal Register.
+(d) In the event an insufficient number of eligible applications are received in response to a FOA and selected for funding to exhaust the funds available, the Administrator reserves the discretion to reopen the application period and to accept additional applications for consideration under the terms of the FOA. Another FOA regarding the reopening of an application period will be announced on *www.Grants.gov.*
+
+[70 FR 5351, Feb. 2, 2005, as amended at 83 FR 45033, Sept. 5, 2018]

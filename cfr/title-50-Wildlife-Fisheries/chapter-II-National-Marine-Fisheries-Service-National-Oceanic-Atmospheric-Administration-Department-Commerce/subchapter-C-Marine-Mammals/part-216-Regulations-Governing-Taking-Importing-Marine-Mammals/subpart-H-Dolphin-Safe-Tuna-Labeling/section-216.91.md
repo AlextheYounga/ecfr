@@ -30,8 +30,6 @@
 
 (iv) For tuna caught in a fishery where the Assistant Administrator has determined that observers participating in a national or international observer program are qualified and authorized to issue observer statements for purposes of the dolphin-safe labeling program, and where such an observer is on board the vessel, a written statement executed by the observer, or by an authorized representative of a nation participating in the observer program based on information from the observer. Any determination by the Assistant Administrator shall be announced in a notice published in the Federal Register. Determinations under this paragraph (a)(3)(iv) will also be publicized on the website of the NMFS Tuna Tracking and Verification Program (*https://www.fisheries.noaa.gov/dolphin-safe*). The written statement shall certify:
 
-(iv) For tuna caught in a fishery where the Assistant Administrator has determined that observers participating in a national or international observer program are qualified and authorized to issue observer statements for purposes of the dolphin-safe labeling program, and where such an observer is on board the vessel, a written statement executed by the observer, or by an authorized representative of a nation participating in the observer program based on information from the observer. Any determination by the Assistant Administrator shall be announced in a notice published in the Federal Register. Determinations under this paragraph (a)(3)(iv) will also be publicized on the Web site of the NMFS Tuna Tracking and Verification Program (*http://www.nnmfs.noaa.gov/pr/dolphinsafe*). The written statement shall certify:
-
 (A) That no dolphins were killed or seriously injured in the sets or other gear deployments in which the tuna were caught; and,
 
 (B) In purse seine fisheries, that no purse seine net was intentionally deployed on or used to encircle dolphins during the trip on which the tuna were caught.
@@ -44,9 +42,9 @@
 
 (C) Any relevant requirements of paragraph (a)(4) of this section were complied with during the trip on which the tuna were caught.
 
-(4) *Other fisheries - segregation.* In a fishery other than one described in paragraph (a)(1) or (2) of this section on a fishing trip that began on or after July 13, 2013 unless the tuna caught in sets or gear deployments designated as dolphin-safe was stored physically separate from tuna caught in a non-dolphin-safe set or other gear deployment by the use of netting, other material, or separate storage areas from the time of capture through unloading. If tuna caught in a set or other gear deployment where a dolphin was killed or seriously injured is not stored physically separate from dolphin-safe tuna as stated in § 216.93(c)(2)(i) or (c)(3)(i), as applicable, all tuna inside the storage well or other storage location shall be considered non-dolphin-safe.
+(4) *Other fisheries—segregation.* In a fishery other than one described in paragraph (a)(1) or (2) of this section on a fishing trip that began on or after July 13, 2013 unless the tuna caught in sets or gear deployments designated as dolphin-safe was stored physically separate from tuna caught in a non-dolphin-safe set or other gear deployment by the use of netting, other material, or separate storage areas from the time of capture through unloading. If tuna caught in a set or other gear deployment where a dolphin was killed or seriously injured is not stored physically separate from dolphin-safe tuna as stated in § 216.93(c)(2)(i) or (c)(3)(i), as applicable, all tuna inside the storage well or other storage location shall be considered non-dolphin-safe.
 
-(5) *Other fisheries - chain of custody recordkeeping.* By a vessel in a fishery other than one described in paragraph (a)(1) or (2) of this section unless:
+(5) *Other fisheries—chain of custody recordkeeping.* By a vessel in a fishery other than one described in paragraph (a)(1) or (2) of this section unless:
 
 (i) For tuna designated dolphin-safe that was harvested on a fishing trip that began on or after May 21, 2016, in addition to any other applicable requirements:
 

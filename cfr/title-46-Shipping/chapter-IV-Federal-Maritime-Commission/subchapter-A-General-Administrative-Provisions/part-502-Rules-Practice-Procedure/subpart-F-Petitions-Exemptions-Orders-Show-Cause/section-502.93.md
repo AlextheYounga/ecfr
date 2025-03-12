@@ -1,5 +1,7 @@
 ##### § 502.93 Declaratory orders and fee. #####
 
+Link to an amendment published at 83 FR 50294, Oct. 5, 2018.
+
 (a)(1) The Commission may, in its discretion, issue a declaratory order to terminate a controversy or to remove uncertainty.
 
 (2) Petitions for the issuance thereof must: state clearly and concisely the controversy or uncertainty; name the persons and cite the statutory authority involved; include a complete statement of the facts and grounds prompting the petition, together with full disclosure of petitioner's interest; be served upon all parties named therein; and conform to the requirements of subpart H of this part.

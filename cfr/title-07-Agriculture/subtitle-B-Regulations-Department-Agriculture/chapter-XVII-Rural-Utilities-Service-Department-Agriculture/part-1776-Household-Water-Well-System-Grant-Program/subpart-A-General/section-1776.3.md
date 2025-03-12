@@ -10,6 +10,8 @@
 
 *Eligible individual* means an individual who is a member of a household the members of which have a combined income (for the most recent 12-month period for which the information is available) that is not more than 100 percent of the median nonmetropolitan household income for the State or territory in which the individual resides, according to 5-year income data from the American Community Survey (ACS) or, if needed, other Census Bureau data. If there is reason to believe that the ACS or other Census Bureau data does not accurately represent the median nonmetropolitan household income for the State or territory in which the individual resides, the reasons will be documented and the applicant may furnish, or RD may obtain, additional information regarding such median household income data. Information must consist of reliable data from local, regional, State or Federal sources or from a survey conducted by a reliable impartial source.
 
+*Funding opportunity announcement (FOA)* means a publicly available document by which a Federal agency makes know its intentions to award discretionary grants or cooperative agreements, usually as a result of competition for funds. FOA announcements may be known as program announcements, notices of funding availability, solicitations, or other names depending on the agency and type of program. FOA announcements can be found at *www.Grants.gov* in the Search Grants tab and on the funding agency's or program's website.
+
 *Grant agreement* means the contract between RUS and the grant recipient which sets forth the terms and conditions governing a particular grant awarded under this part.
 
 *Grant recipient* means an applicant that has been awarded a HWWS grant under this part.
@@ -36,4 +38,4 @@
 
 *USDA* means the United States Department of Agriculture.
 
-[70 FR 28788, May 19, 2005, as amended at 80 FR 9862, Feb. 24, 2015]
+[70 FR 28788, May 19, 2005, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018]

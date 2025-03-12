@@ -6,4 +6,6 @@
 
 (c) Electronic applications may be filed through Grants.gov, the official Federal Government Web site at *http://www.grants.gov.* The applicant must be registered with Grants.gov before they can submit a grant applicant. The applicant should refer to instructions found on the Grants.gov Web site for procedures for registering and using this facility. An applicant who is not registered on Grants.gov should allow a sufficient number of business days to complete the process. Applications submitted electronically must be show an electronic date and time stamp on or before the filing deadline to be considered for the grant period.
 
-(d) The methods of submitting applications may be changed from time to reflect changes in addresses and electronic submission procedures. The applicant should refer to the most recent notice of funding availability for notice of any such changes. In the event of any discrepancy, the notice must be followed.
+(d) The methods of submitting applications may be changed from time to reflect changes in addresses and electronic submission procedures. The applicant should refer to the most recent FOA for notice of any such changes. In the event of any discrepancy, the most recent FOA must be followed.
+
+[70 FR 28788, May 19, 2005, as amended as 83 FR 45033, Sept. 5, 2018]

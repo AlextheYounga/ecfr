@@ -30,4 +30,6 @@ The ranking of the “community-oriented connectivity” benefits of the Project
 
 (6) Community members with disabilities that will be served within the PFSA; and
 
-(7) Any other additional factors that may be outlined in the NOFA.
+(7) Any other additional factors that may be outlined in the FOA, the Community Connect Grant program application guide, and the Community Connect Grant program website.
+
+[78 FR 25791, June 3, 2013, as amended at 83 FR 45033, Sept. 5, 2018]
