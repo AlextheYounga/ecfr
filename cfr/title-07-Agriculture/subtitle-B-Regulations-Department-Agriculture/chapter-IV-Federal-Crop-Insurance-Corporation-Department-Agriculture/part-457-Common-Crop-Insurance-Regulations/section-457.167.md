@@ -18,6 +18,8 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Crop year.* The period beginning February 1 of the calendar year in which the pecan trees bloom and extending through January 31 of the year following such bloom, and will be designated by the calendar year in which the pecan trees bloom.
 
+*Direct marketing.* In addition to the definition contained in section 1 of the Basic Provisions, the sale of the insured crop directly to consumers without the intervention of an intermediary including a sheller. An additional example of direct marketing includes shelling and packing your own pecans.
+
 *Gross sales.* Total value of in-shell pecans grown during a crop year.
 
 *Harvest.* Collecting mature pecans from the orchard.

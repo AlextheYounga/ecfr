@@ -48,7 +48,13 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (iii) Any other information that we request in order to establish your approved yield.
 
-(c) That are grown on trees that have produced an average of at least five (5) tons of pears per acre in at least one of the four previous crop years, unless otherwise allowed by the Special Provisions; and
+(c) We will reduce the yield used to establish your production guarantee, as necessary, based on our estimate of the effect of any situation listed in sections 3(b)(1) through (b)(4). If the situation occurred:
+
+(1) Before the beginning of the insurance period, the yield used to establish your production guarantee will be reduced for the current crop year regardless of whether the situation was due to an insured or uninsured cause of loss (If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce the yield used to establish your production guarantee at any time we become aware of the circumstance);
+
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year only if the potential reduction in the yield used to establish your production guarantee is due to an uninsured cause of loss; or
+
+(3) After the beginning of the insurance period and you fail to notify us by the production reporting date, production lost due to uninsured causes equal to the amount of the reduction in yield used to establish your production guarantee will be applied in determining any indemnity (see section 11(c)(1)(ii)). We will reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees.
 
 (d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
@@ -73,7 +79,7 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 (b) That are of varieties adapted to the area;
 
-(c) That are grown on trees that have produced an average of at least five (5) tons of pears per acre in at least one of the four previous crop years unless the Special Provisions or a written agreement establishes a lower production level; and
+(c) That are grown on trees that have produced an average of at least five (5) tons of pears per acre in at least one of the four previous crop years, unless otherwise allowed by the Special Provisions; and
 
 (d) That are grown in an orchard that, if inspected, is considered acceptable by us.
 

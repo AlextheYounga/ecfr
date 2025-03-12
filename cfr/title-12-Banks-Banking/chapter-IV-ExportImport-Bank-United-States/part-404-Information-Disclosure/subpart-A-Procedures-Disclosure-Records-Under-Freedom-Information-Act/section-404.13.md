@@ -1,0 +1,3 @@
+##### § 404.13 Preservation of records. #####
+
+EXIM will preserve all correspondence pertaining to the request that it receives under this subpart, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code or the General Records Schedule 4.2 of the National Archives and Records Administration. EXIM will not dispose or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

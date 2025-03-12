@@ -1,5 +1,7 @@
 ##### § 412.168 Special rule for FY 2022. #####
 
+Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
+
 (a) This section sets forth the scoring and payment methodology for the fiscal year 2022 Hospital VBP Program.
 
 (b) CMS calculates a measure rate for all measures selected under § 412.164(a) for fiscal year 2022 but only applies § 412.165(a) to the measures included in the Clinical Outcomes Domain for that fiscal year, which are the following:

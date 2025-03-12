@@ -1,6 +1,6 @@
 ##### 23.704 Electronic product environmental assessment tool. #####
 
-(a) *General.* (1) As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless -
+(a) *General.* (1) As required by E.O.s 13423 and 13514, agencies, when acquiring an electronic product to meet their requirements, shall meet at least 95 percent of those requirements with Electronic Product Environmental Assessment Tool (EPEAT®)-registered electronic products, unless—
 
 (i) There is no EPEAT® standard for such product;
 
@@ -14,7 +14,7 @@
 
 (b) *Personal computer products, imaging equipment, and televisions.* These are categories of EPEAT®-registered electronic products.
 
-(1) The IEEE 1680.1TM-2009 Standard for the Environmental Assessment of Personal Computer Products, the IEEE 1680.2TM-2012 Standard for the Environmental Assessment of Imaging Equipment, and the IEEE 1680.3TM-2012 Standard for the Environmental Assessment of Televisions -
+(1) The IEEE 1680.1TM-2009 Standard for the Environmental Assessment of Personal Computer Products, the IEEE 1680.2TM-2012 Standard for the Environmental Assessment of Imaging Equipment, and the IEEE 1680.3TM-2012 Standard for the Environmental Assessment of Televisions—
 
 (i) Were issued by the Institute of Electrical and Electronics Engineers, Inc., on March 5, 2010; October 19, 2012, and October 19, 2012, respectively;
 
@@ -22,11 +22,9 @@
 
 (iii) Meet EPA-issued guidance on environmentally preferable products and services; and
 
-(iv) Are described in more detail at *https://www.epa.gov/greenerproducts/epas-recommendationsspecifications-
-standards-and-ecolabels.*
+(iv) Are described in more detail at *https://www.epa.gov/greenerproducts/recommendations-specifications-standards-and-ecolabels-federal-purchasing.*
 
-(2) A list of EPEAT® product categories and EPEAT®-registered electronic products that are in conformance with these standards can be found at *https://www.epa.gov/greenerproducts/epas-recommendationsspecifications-
-standards-and-ecolabels.*
+(2) A list of EPEAT® product categories and EPEAT®-registered electronic products that are in conformance with these standards can be found at *https://www.epa.gov/greenerproducts/recommendations-specifications-standards-and-ecolabels-federal-purchasing.*
 
 (3) EPEAT® electronic products are designated “bronze-,” “silver-,” or “gold-” registered.
 
@@ -34,4 +32,4 @@ standards-and-ecolabels.*
 
 (5) Agencies are encouraged to acquire EPEAT® silver- or gold-registered products.
 
-[79 FR 35862, June 24, 2014, as amended at 79 FR 24208, Apr. 29, 2014; 80 FR 53438, Oct. 5, 2015; 81 FR 67781, Sept. 30, 2016]
+[79 FR 35862, June 24, 2014, as amended at 79 FR 24208, Apr. 29, 2014; 80 FR 53438, Oct. 5, 2015; 81 FR 67781, Sept. 30, 2016; 87 FR 49502, Aug. 10, 2022]

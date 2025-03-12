@@ -1,5 +1,7 @@
 ##### § 482.42 Condition of participation: Infection prevention and control and antibiotic stewardship programs. #####
 
+Link to an amendment published at 87 FR 49409, Aug. 10, 2022.
+
 The hospital must have active hospital-wide programs for the surveillance, prevention, and control of HAIs and other infectious diseases, and for the optimization of antibiotic use through stewardship. The programs must demonstrate adherence to nationally recognized infection prevention and control guidelines, as well as to best practices for improving antibiotic use where applicable, and for reducing the development and transmission of HAIs and antibiotic-resistant organisms. Infection prevention and control problems and antibiotic use issues identified in the programs must be addressed in collaboration with the hospital-wide quality assessment and performance improvement (QAPI) program.
 
 (a) *Standard: Infection prevention and control program organization and policies.* The hospital must demonstrate that:

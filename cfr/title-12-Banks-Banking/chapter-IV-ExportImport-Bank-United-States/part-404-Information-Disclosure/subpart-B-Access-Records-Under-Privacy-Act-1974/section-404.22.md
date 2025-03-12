@@ -1,9 +1,15 @@
-##### § 404.22 Government contracts. #####
+##### § 404.22 Notice of court-ordered and emergency disclosures. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.
+(a) *Court-ordered disclosures.* When a record pertaining to an individual is required to be disclosed by a court order, the Assistant General Counsel for Administration shall make reasonable efforts to provide notice to the subject individual. Notice shall be given within a reasonable time after Ex-Im Bank's receipt of the order, except that in a case in which the order is not a matter of public record, notice shall be given only after the order becomes public. Such notice shall be mailed to the individual's last known address and shall contain a copy of the order and a description of the information disclosed.
 
-(a) *Approval by Assistant General Counsel for Administration.* Ex-Im Bank shall not contract for the operation of a system of records or for an activity that requires access to a system of records without the express, written approval of the Assistant General Counsel for Administration.
+(b) *Emergency disclosures.* If a record has been disclosed by Ex-Im Bank under compelling circumstances affecting the health or safety of any person, then, within ten working days, the Assistant General Counsel for Administration shall notify the subject individual of the disclosure at his or her last known address. The notice of such disclosure shall be in writing and shall state the:
 
-(b) *Contract clauses.* Any contract authorized under paragraph (a) of this section shall contain the standard contract clauses required by the Federal Acquisition Regulation (48 CFR 24.104) to ensure compliance with the requirements imposed by the Privacy Act. The division within Ex-Im Bank that is responsible for technical supervision of the contract shall be responsible for ensuring that the contractor complies with the Privacy Act contract requirements.
+(1) Nature of the information disclosed;
 
-(c) *Contractor status.* Any contractor that operates an Ex-Im Bank system of records or engages in an activity that requires access to an Ex-Im Bank system of records shall be considered an Ex-Im Bank employee for purposes of this subpart. Ex-Im Bank shall supply any such contractor with a copy of the regulations in this subpart upon entering into a contract with Ex-Im Bank.
+(2) Person, organization or agency to which it was disclosed;
+
+(3) Date of disclosure; and
+
+(4) Compelling circumstances justifying the disclosure.
+
+[64 FR 14374, Mar. 25, 1999. Redesignated at 87 FR 41034, July 11, 2022]

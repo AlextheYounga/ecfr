@@ -1,5 +1,15 @@
-##### § 404.33 Procedure in the event of an adverse ruling. #####
+##### § 404.33 Procedure for declining to testify and/or produce records. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+Ex-Im Bank personnel receiving a demand to provide testimony and/or produce records regarding information acquired in the course of their performance of official duties, or due to their official status, and who have not received written authorization from the General Counsel to provide such information, shall:
 
-If the court or other authority declines to stay the effect of the demand in response to a request made in accordance with § 404.32 pending a determination by the General Counsel, or if the court or other authority rules that the demand must be complied with irrespective of the instructions from the General Counsel not to produce the material or disclose the information sought, the Ex-Im Bank personnel upon whom the demand has been made shall respectfully decline to comply with the demand (*United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462).
+(a) Respectfully decline to answer or appear for examination on the grounds that such testimony is forbidden by this subpart;
+
+(b) Request the opportunity to consult with the General Counsel;
+
+(c) Explain that only upon consultation may they be granted approval to provide such testimony;
+
+(d) Explain that providing such testimony or records absent approval may subject the individual to criminal liability under 18 U.S.C. 641, as well as other applicable laws, and other disciplinary action; and
+
+(e) Request a stay of the request or demand pending a determination by the General Counsel.
+
+[71 FR 14361, Mar. 22, 2006. Redesignated at 87 FR 41034, July 11, 2022]

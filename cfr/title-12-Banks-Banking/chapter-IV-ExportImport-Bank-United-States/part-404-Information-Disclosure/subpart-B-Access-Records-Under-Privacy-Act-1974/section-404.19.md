@@ -1,17 +1,15 @@
-##### § 404.19 Request for accounting of record disclosures. #####
+##### § 404.19 Appeal of denials of access. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+(a) *Appeals to the Assistant General Counsel for Administration.* Whenever Ex-Im Bank denies a request for access or for waiver or reduction of fees, the requester may appeal the denial to the Assistant General Counsel for Administration within 30 working days of the date of Ex-Im Bank's issuance of notice of such action. Appeals must be made in writing and must be signed by the appellant. Appeals should be addressed to the Assistant General Counsel for Administration at the address in § 404.14(e). Both the envelope and the appeal letter should be clearly marked in capital letters: “PRIVACY ACT APPEAL.” Failure to properly mark or address the appeal may slow its processing. An appeal shall not be deemed to have been received by Ex-Im Bank until the Assistant General Counsel for Administration receives the appeal letter. The letter should include:
 
-(a) *Required information.* With respect to each system of records under Ex-Im Bank control, Ex-Im Bank shall maintain an accurate accounting of the date, nature, and purpose of each external disclosure of a record and the name and address of all persons, organizations, and agencies to which disclosure has been made. Ex-Im Bank shall retain this accounting for at least five years or the life of the record, whichever is longer.
+(1) A copy of the denied request or a description of the records requested;
 
-(b) *Form.* An individual may obtain an accounting of all disclosures of a record, provided that such individual establishes his or her identity as the subject of such record in accordance with the procedures set forth at § 404.14(d) and (e). A request for an accounting must be made in writing and must be signed by the requester. The request should be addressed to the Freedom of Information and Privacy Office at the address in § 404.12(e) and should contain both the return address and telephone number of the requester. Both the envelope and the request itself should be clearly be marked in capital letters: “PRIVACY ACT ACCOUNTING REQUEST.” Failure to properly mark or address the request may slow its processing. The request shall not be deemed to have been received by Ex-Im Bank until the Freedom of Information and Privacy Office receives the request. The letter must clearly identify the particular record for which the accounting is requested.
+(2) The name and title of the Ex-Im Bank employee who denied the request;
 
-(c) *Initial determination.* The Freedom of Information and Privacy Office shall notify the requester whether the request will be granted or denied within ten working days of receipt of a valid request for an accounting. Ex-Im Bank shall not charge for processing such a request.
+(3) The date on which the request was denied; and
 
-(d) *Exceptions.* Ex-Im Bank shall not be required to provide an accounting to an individual when the accounting relates to a disclosure made:
+(4) The Ex-Im Bank identification number assigned to the request.
 
-(1) To an employee within the agency;
+(b) *Final determination.* The disposition of an access appeal shall be made in writing within twenty working days after the date of receipt of the appeal. The Assistant General Counsel for Administration may extend the time for response an additional ten working days for good cause, provided that the requester is notified in writing. A decision affirming the denial of a request for access shall include a brief statement of the reasons for affirming the denial and shall advise the requester of the right to seek judicial review. If the initial determination is reversed, then the request shall be remanded to the Freedom of Information and Privacy Office to be processed in accordance with the decision on appeal.
 
-(2) Under the FOIA; or
-
-(3) To a law enforcement agency for an authorized law enforcement activity in response to a written request from such agency which specified the law enforcement activity for which the disclosure was sought.
+[64 FR 14374, Mar. 25, 1999. Redesignated and amended at 87 FR 41034, 41042, July 11, 2022]

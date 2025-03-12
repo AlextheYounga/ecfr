@@ -59,8 +59,8 @@ shall -
 
 (2) Establish deadlines for the submission of responses to solicitations that afford suppliers a reasonable opportunity to respond (see 5.203);
 
-(3) Consider all quotations or offers that are timely received. For evaluation of quotations or offers received electronically, see 13.106-2(b)(3); and
+(3) Consider all quotations or offers that are timely received. For evaluation of quotations or offers received electronically, see13.106-2(b)(4); and
 
 (4) Use innovative approaches, to the maximum extent practicable, in awarding contracts using simplified acquisition procedures.
 
-[62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[62 FR 64917, Dec. 9, 1997, as amended at 87 FR 49502, Aug. 10, 2022]Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

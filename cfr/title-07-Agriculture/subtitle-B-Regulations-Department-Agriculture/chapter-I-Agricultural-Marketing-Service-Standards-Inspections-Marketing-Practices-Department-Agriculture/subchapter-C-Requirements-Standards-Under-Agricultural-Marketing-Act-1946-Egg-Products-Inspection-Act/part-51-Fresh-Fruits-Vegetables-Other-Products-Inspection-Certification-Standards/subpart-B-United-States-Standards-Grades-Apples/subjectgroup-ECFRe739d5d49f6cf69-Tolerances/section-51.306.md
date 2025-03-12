@@ -12,11 +12,11 @@ In order to allow for variations incident to proper grading and handling in each
 
 1 “Fairly uniform” means the size of the fruit within the container does not vary more than1/2 inch diameter from the smallest to largest fruit.
 
-|                Red delicious                 |Golden delicious|
-|----------------------------------------------|----------------|
-|2<sup>1</sup>⁄<sub>8</sub> inches or 65 grams |    63 grams    |
-|2<sup>1</sup>⁄<sub>4</sub> inches or 75 grams |    70 grams    |
-|2<sup>3</sup>⁄<sub>8</sub> inches or 84 grams |    82 grams    |
-|2<sup>1</sup>⁄<sub>2</sub> inches or 100 grams|    95 grams    |
-|2<sup>5</sup>⁄<sub>8</sub> inches or 115 grams|   109 grams    |
-|2<sup>3</sup>⁄<sub>4</sub> inches or 139 grams|   134 grams    |
+|     Red delicious      |Golden delicious|
+|------------------------|----------------|
+|21/8 inches or 65 grams |    63 grams    |
+|21/4 inches or 75 grams |    70 grams    |
+|23/8 inches or 84 grams |    82 grams    |
+|21/2 inches or 100 grams|    95 grams    |
+|25/8 inches or 115 grams|   109 grams    |
+|23/4 inches or 139 grams|   134 grams    |

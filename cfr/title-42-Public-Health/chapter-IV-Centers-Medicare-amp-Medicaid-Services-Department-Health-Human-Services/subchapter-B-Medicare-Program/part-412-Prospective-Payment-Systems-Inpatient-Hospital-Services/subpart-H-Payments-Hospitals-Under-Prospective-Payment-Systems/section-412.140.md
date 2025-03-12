@@ -1,5 +1,7 @@
 ##### § 412.140 Participation, data submission, and validation requirements under the Hospital Inpatient Quality Reporting (IQR) Program. #####
 
+Link to an amendment published at 87 FR 49404, Aug. 10, 2022.
+
 (a) *Participation in the Hospital IQR Program.* In order to participate in the Hospital IQR Program, a section 1886(d) of the hospital must-
 
 (1) Register on QualityNet website, before it begins to report data;

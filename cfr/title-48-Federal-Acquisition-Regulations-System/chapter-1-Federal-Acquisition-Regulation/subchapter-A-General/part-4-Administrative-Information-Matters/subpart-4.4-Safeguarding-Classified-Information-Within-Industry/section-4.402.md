@@ -12,8 +12,7 @@
 
 (d) Nondefense agencies that have industrial security services agreements with DoD, and DoD components, shall use the DD Form 254, Contract Security Classification Specification, to provide security classification guidance to U.S. contractors, and subcontractors as applicable, requiring access to information classified as “Confidential”, “Secret”, or “Top Secret”.
 
-(1) Provided that the data submittal is unclassified, the DD Form 254 shall be completed electronically in the NISP Contract Classification System (NCCS), which is accessible *https://tesseract.cloud.dcsa.mil/nccs”*.
-Nondefense agencies with an existing DD Form 254 information system may use that system.
+(1) Provided that the data submittal is unclassified, the DD Form 254 shall be completed electronically in the NISP Contract Classification System (NCCS), which is accessible *https://www.dcsa.mil/is/nccs/*. Nondefense agencies with an existing DD Form 254 information system may use that system.
 
 (2)(i) A contractor, or subcontractor (if applicable), requiring access to classified information under a contract shall be identified with a Commercial and Government Entity (CAGE) code on the DD Form 254 (see subpart 4.18 for information on obtaining and validating CAGE codes).
 
@@ -23,4 +22,4 @@ Nondefense agencies with an existing DD Form 254 information system may use that
 
 (e) Part 27, Patents, Data, and Copyrights, contains policy and procedures for safeguarding classified information in patent applications and patents.
 
-[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019; 85 FR 40063, July 2, 2020; 86 FR 13794, Mar. 10, 2021; 87 FR 24844, Apr. 26, 2022; 87 FR 25572, May 2, 2022]
+[48 FR 42113, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 73 FR 21781, Apr. 22, 2008; 84 FR 19840, May 6, 2019; 85 FR 40063, July 2, 2020; 86 FR 13794, Mar. 10, 2021; 87 FR 24844, Apr. 26, 2022; 87 FR 25572, May 2, 2022; 87 FR 49502, Aug. 10, 2022]

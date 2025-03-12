@@ -1,9 +1,17 @@
-##### § 404.21 Submission of social security and passport numbers. #####
+##### § 404.21 Request for accounting of record disclosures. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+(a) *Required information.* With respect to each system of records under Ex-Im Bank control, Ex-Im Bank shall maintain an accurate accounting of the date, nature, and purpose of each external disclosure of a record and the name and address of all persons, organizations, and agencies to which disclosure has been made. Ex-Im Bank shall retain this accounting for at least five years or the life of the record, whichever is longer.
 
-(a) *Policy.* Ex-Im Bank recognizes the importance of assessing, to the extent reasonably possible, the risks associated with transactions supported by Ex-Im Bank. It is often difficult to assess risks related to individuals and non-publicly trade entities. Therefore, when an individual or a non-publicly traded entity applies for participation in an Ex-Im Bank program or is proposed as a guarantor for an Ex-Im Bank transaction, Ex-Im Bank may request social security and/or U.S. passport numbers from such individual or from the principals of such entity. Ex-Im Bank shall not require submission of this information, and unwillingness or inability to provide a social security or passport number shall not affect Ex-Im Bank's decision on an application for Ex-Im Bank assistance.
+(b) *Form.* An individual may obtain an accounting of all disclosures of a record, provided that such individual establishes his or her identity as the subject of such record in accordance with the procedures set forth at § 404.16(d) and (e). A request for an accounting must be made in writing and must be signed by the requester. The request should be addressed to the Freedom of Information and Privacy Office at the address in § 404.14(e) and should contain both the return address and telephone number of the requester. Both the envelope and the request itself should be clearly be marked in capital letters: “PRIVACY ACT ACCOUNTING REQUEST.” Failure to properly mark or address the request may slow its processing. The request shall not be deemed to have been received by Ex-Im Bank until the Freedom of Information and Privacy Office receives the request. The letter must clearly identify the particular record for which the accounting is requested.
 
-(b) *Use.* Ex-Im Bank shall use social security and passport numbers to assess the creditworthiness of Ex-Im Bank program participants and as a mechanism for enforcing agreements with Ex-Im Bank. Such information shall not be disclosed, except as warranted by law and regulation.
+(c) *Initial determination.* The Freedom of Information and Privacy Office shall notify the requester whether the request will be granted or denied within ten working days of receipt of a valid request for an accounting. Ex-Im Bank shall not charge for processing such a request.
 
-(c) *Notice.* Whenever Ex-Im Bank requests a social security or passport number, Ex-Im Bank shall place an appropriate Privacy Act notification on the form used to collect the information.
+(d) *Exceptions.* Ex-Im Bank shall not be required to provide an accounting to an individual when the accounting relates to a disclosure made:
+
+(1) To an employee within the agency;
+
+(2) Under the FOIA; or
+
+(3) To a law enforcement agency for an authorized law enforcement activity in response to a written request from such agency which specified the law enforcement activity for which the disclosure was sought.
+
+[64 FR 14374, Mar. 25, 1999. Redesignated and amended at 87 FR 41034, 41042, July 11, 2022]

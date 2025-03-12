@@ -1,19 +1,33 @@
-##### § 404.15 Initial determination. #####
+##### § 404.15 Definitions. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+For purposes of this subpart, the following definitions shall apply:
 
-(a) *Time for processing.* The Freedom of Information and Privacy Office shall respond to valid requests for access within twenty working days of the date of receipt of the request letter. The time for response may be extended an additional ten working days for good cause, provided that the Freedom of Information and Privacy Office notifies the requester in writing.
+*Appeal*—A written request to the Ex-Im Bank Assistant General Counsel for Administration for reversal of an adverse initial determination.
 
-(b) *Notice regarding request for access.* The Freedom of Information and Privacy Office shall notify the requester in writing of its decision to grant or deny a request for access.
+*Final determination*—The written decision by the Assistant General Counsel for Administration on an appeal.
 
-(1) If the request is granted, then the notice shall either include the requested records, in releasable form, or shall describe the manner in which access to the record will be granted. The notice also shall inform the requester of any processing fee.
+*Individual*—A citizen of the United States or an alien lawfully admitted for permanent residence.
 
-(2) A denial is a determination to withhold any requested record in whole or in part or a determination that the requested record does not exist or cannot be located. If the request is denied, then the denial notice shall state:
+*Initial determination*—The initial written determination in response to a Privacy Act request.
 
-(i) The name, signature, and title or position of the person responsible for the denial;
+*Record*—Any item, collection or grouping of information about an individual that is maintained within a system of records and that contains the individual's name or an identifying number, symbol or other identifying particular assigned to the individual.
 
-(ii) The reasons for the denial; and
+*Redaction*—The process of removing non-disclosable material from a record so that the remainder may be released.
 
-(iii) The procedure for appeal of the denial under § 404.17 and a brief description of the requirements of that section.
+*Request for access*—A request to view a record.
 
-(c) *Form of record disclosure.* Ex-Im Bank shall grant access to the requested records either by providing the requester with a copy of the record or, at the requester's option, by making the record available for inspection at a reasonable time and place. If Ex-Im Bank makes the record available for inspection, such inspection shall not unreasonably disrupt Ex-Im Bank operations. In addition, the requester must provide a form of official photographic identification - such as a passport, driver's license or identification badge - and any other form of identification bearing his or her name and address prior to inspection of the requested records. Records may be inspected by the requester in the presence of another individual, provided that the requester signs a form stating that Ex-Im Bank is authorized to disclose the record in the presence of both individuals.
+*Request for accounting*—A request for a list of all disclosures of a record.
+
+*Request for correction*—A request to modify a record.
+
+*Requester*—An individual who makes a request under the Privacy Act.
+
+*Review*—The process of examining a record to determine whether any portion is required to be withheld.
+
+*Search*—The process of identifying and collecting records pursuant to a request.
+
+*System of records*—A group of any records under the control of an agency from which information is retrieved by the name of the individual or some identifying number, symbol or other identifying particular assigned to the individual.
+
+*Working days*—All calendar days excluding Saturdays, Sundays, and Federal Government holidays.
+
+[64 FR 14374, Mar. 25, 1999. Redesignated at 87 FR 41034, July 11, 2022]

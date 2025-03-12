@@ -204,9 +204,9 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Price election.* The amount contained in the actuarial documents that is the value per pound, bushel, ton, carton, or other applicable unit of measure for the purposes of determining premium and indemnity under the policy. A price election is not applicable for crops for which revenue protection is available.
 
-*Production record.* A written record that documents your actual production reported on the production report. The record must be an acceptable verifiable record or an acceptable farm management record as authorized by FCIC procedures.
-
 *Production guarantee (per acre).* The number of pounds, bushels, tons, cartons, or other applicable units of measure determined by multiplying the approved yield per acre by the coverage level percentage you elect.
+
+*Production record.* A written record that documents your actual production reported on the production report. The record must be an acceptable verifiable record or an acceptable farm management record as authorized by FCIC procedures.
 
 *Production report.* A written report provided by you showing your annual production that will be used by us to determine your yield for insurance purposes in accordance with section 3. The report contains yield information for the previous year(s), including planted acreage and production. This report must be supported by acceptable production records.
 

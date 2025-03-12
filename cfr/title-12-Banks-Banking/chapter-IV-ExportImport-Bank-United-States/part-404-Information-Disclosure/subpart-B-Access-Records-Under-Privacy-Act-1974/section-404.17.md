@@ -1,15 +1,19 @@
-##### § 404.17 Appeal of denials of access. #####
+##### § 404.17 Initial determination. #####
 
-Link to an amendment published at 87 FR 41034, July 11, 2022.Link to an amendment published at 87 FR 41042, July 11, 2022.
+(a) *Time for processing.* The Freedom of Information and Privacy Office shall respond to valid requests for access within twenty working days of the date of receipt of the request letter. The time for response may be extended an additional ten working days for good cause, provided that the Freedom of Information and Privacy Office notifies the requester in writing.
 
-(a) *Appeals to the Assistant General Counsel for Administration.* Whenever Ex-Im Bank denies a request for access or for waiver or reduction of fees, the requester may appeal the denial to the Assistant General Counsel for Administration within 30 working days of the date of Ex-Im Bank's issuance of notice of such action. Appeals must be made in writing and must be signed by the appellant. Appeals should be addressed to the Assistant General Counsel for Administration at the address in § 404.12(e). Both the envelope and the appeal letter should be clearly marked in capital letters: “PRIVACY ACT APPEAL.” Failure to properly mark or address the appeal may slow its processing. An appeal shall not be deemed to have been received by Ex-Im Bank until the Assistant General Counsel for Administration receives the appeal letter. The letter should include:
+(b) *Notice regarding request for access.* The Freedom of Information and Privacy Office shall notify the requester in writing of its decision to grant or deny a request for access.
 
-(1) A copy of the denied request or a description of the records requested;
+(1) If the request is granted, then the notice shall either include the requested records, in releasable form, or shall describe the manner in which access to the record will be granted. The notice also shall inform the requester of any processing fee.
 
-(2) The name and title of the Ex-Im Bank employee who denied the request;
+(2) A denial is a determination to withhold any requested record in whole or in part or a determination that the requested record does not exist or cannot be located. If the request is denied, then the denial notice shall state:
 
-(3) The date on which the request was denied; and
+(i) The name, signature, and title or position of the person responsible for the denial;
 
-(4) The Ex-Im Bank identification number assigned to the request.
+(ii) The reasons for the denial; and
 
-(b) *Final determination.* The disposition of an access appeal shall be made in writing within twenty working days after the date of receipt of the appeal. The Assistant General Counsel for Administration may extend the time for response an additional ten working days for good cause, provided that the requester is notified in writing. A decision affirming the denial of a request for access shall include a brief statement of the reasons for affirming the denial and shall advise the requester of the right to seek judicial review. If the initial determination is reversed, then the request shall be remanded to the Freedom of Information and Privacy Office to be processed in accordance with the decision on appeal.
+(iii) The procedure for appeal of the denial under § 404.19 and a brief description of the requirements of that section.
+
+(c) *Form of record disclosure.* Ex-Im Bank shall grant access to the requested records either by providing the requester with a copy of the record or, at the requester's option, by making the record available for inspection at a reasonable time and place. If Ex-Im Bank makes the record available for inspection, such inspection shall not unreasonably disrupt Ex-Im Bank operations. In addition, the requester must provide a form of official photographic identification—such as a passport, driver's license or identification badge—and any other form of identification bearing his or her name and address prior to inspection of the requested records. Records may be inspected by the requester in the presence of another individual, provided that the requester signs a form stating that Ex-Im Bank is authorized to disclose the record in the presence of both individuals.
+
+[64 FR 14374, Mar. 25, 1999. Redesignated and amended at 87 FR 41034, 41042, July 11, 2022]

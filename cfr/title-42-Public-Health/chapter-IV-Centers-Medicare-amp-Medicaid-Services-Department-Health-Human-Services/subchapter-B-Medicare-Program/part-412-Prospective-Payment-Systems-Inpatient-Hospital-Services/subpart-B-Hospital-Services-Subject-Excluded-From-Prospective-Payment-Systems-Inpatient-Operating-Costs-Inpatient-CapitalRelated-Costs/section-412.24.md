@@ -1,5 +1,7 @@
 ##### § 412.24 Requirements under the PPS-Exempt Cancer Hospital Quality Reporting (PCHQR) Program. #####
 
+Link to an amendment published at 87 FR 49403, Aug. 10, 2022.
+
 (a) *Applicability.* The PCHQR Program applies to hospitals that are classified as cancer hospitals (PCHs) under the criteria described in § 412.23(f)(1) or (2).
 
 (b) *Participation in the PCHQR Program.* In order to participate in the PCHQR Program, a PCH must do both of the following:

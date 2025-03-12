@@ -1,5 +1,7 @@
 ##### § 412.529 Special payment provision for short-stay outliers. #####
 
+Link to an amendment published at 87 FR 49405, Aug. 10, 2022.
+
 (a) *Short-stay outlier defined.* “Short-stay outlier” means a discharge with a covered length of stay in a long-term care hospital that is up to and including five-sixths of the geometric average length of stay for each LTC-DRG.
 
 (b) *Adjustment to payment.* CMS adjusts the hospital's Federal prospective payment to account for any case that is determined to be a short-stay outlier, as defined in paragraph (a) of this section, under the methodology specified in paragraph (c) of this section.
