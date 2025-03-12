@@ -1,8 +1,6 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
-Link to an amendment published at 84 FR 63974, Nov. 19, 2019.
-
-Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
+Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 
 (a) The 100-fm (183-m) depth contour used between the U.S. border with Canada and the U.S. border with Mexico is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2584,4 +2582,4 @@ Boundaries for RCAs are defined by straight lines connecting a series of latitud
 
 (184) 40°10.00′ N. lat., 124°22.96′ W. long.
 
-[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018]
+[69 FR 77059, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8500, Feb. 17, 2006; 71 FR 78678, Dec. 29, 2006; 74 FR 9905, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 82 FR 9640, Feb. 7, 2017; 83 FR 63992, Dec. 12, 2018; 83 FR 66639, Dec. 27, 2018; 84 FR 63974, Nov. 19, 2019]

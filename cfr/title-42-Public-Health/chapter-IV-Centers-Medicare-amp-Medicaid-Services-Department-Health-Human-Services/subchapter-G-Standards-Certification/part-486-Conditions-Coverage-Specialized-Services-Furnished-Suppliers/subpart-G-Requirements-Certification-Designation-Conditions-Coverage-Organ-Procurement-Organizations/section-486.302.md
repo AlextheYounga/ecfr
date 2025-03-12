@@ -1,7 +1,5 @@
 ##### § 486.302 Definitions. #####
 
-Link to an amendment published at 84 FR 61492, Nov. 12, 2019.
-
 As used in this subpart, the following definitions apply:
 
 *Adverse event* means an untoward, undesirable, and usually unanticipated event that causes death or serious injury or the risk thereof. As applied to OPOs, adverse events include but are not limited to transmission of disease from a donor to a beneficiary, avoidable loss of a medically suitable potential donor for whom consent for donation has been obtained, or delivery to a transplant center of the wrong organ or an organ whose blood type does not match the blood type of the intended beneficiary.
@@ -156,7 +154,7 @@ As used in this subpart, the following definitions apply:
 
 *Entire metropolitan statistical area* means a metropolitan statistical area (MSA), a consolidated metropolitan statistical area (CMSA), or a primary metropolitan statistical area (PMSA) listed in the State and Metropolitan Area Data Book published by the U.S. Bureau of the Census. CMS does not recognize a CMSA as a metropolitan area for the purposes of establishing a geographical area for an OPO.
 
-*Expected donation rate* means the donation rate expected for an OPO based on the national experience for OPOs serving similar hospitals and donation service areas. This rate is adjusted for the following hospital characteristics: Level I or Level II trauma center, Metropolitan Statistical Area size, MS Case Mix Index, total bed size, number of intensive care unit (ICU) beds, primary service, presence of a neurosurgery unit, and hospital control/ownership.
+*Expected donation rate* means the expected donation rate per 100 eligible deaths that is the rate expected for an OPO based on the national experience for OPOs serving similar eligible donor populations and donation service areas. This rate is adjusted for the distributions of age, sex, race, and cause of death among eligible deaths.
 
 *Observed donation* rate is the number of donors meeting the eligibility criteria per 100 deaths.
 
@@ -174,4 +172,4 @@ As used in this subpart, the following definitions apply:
 
 *Urgent need* occurs when an OPO's noncompliance with one or more conditions for coverage has caused, or is likely to cause, serious injury, harm, impairment, or death to a potential or actual donor or an organ beneficiary.
 
-[71 FR 31046, May 31, 2006, as amended at 77 FR 29031, May 16, 2012; 81 FR 79880, Nov. 14, 2016]
+[71 FR 31046, May 31, 2006, as amended at 77 FR 29031, May 16, 2012; 81 FR 79880, Nov. 14, 2016; 84 FR 61492, Nov. 12, 2019]

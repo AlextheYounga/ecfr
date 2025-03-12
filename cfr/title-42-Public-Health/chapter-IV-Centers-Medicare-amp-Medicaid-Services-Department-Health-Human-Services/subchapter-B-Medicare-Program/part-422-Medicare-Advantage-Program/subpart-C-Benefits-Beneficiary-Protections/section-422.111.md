@@ -1,7 +1,5 @@
 ##### § 422.111 Disclosure requirements. #####
 
-Link to an amendment published at 84 FR 15828, April 16, 2019.
-
 (a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee electing an MA plan it offers;
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (ii) For an MA MSA plan, the benefits under other types of MA plans; and
 
-(iii) For a Special Needs Plan for dual-eligible individuals, prior to enrollment, for each prospective enrollee, a comprehensive written statement describing cost sharing protections and benefits that the individual is entitled to under title XVIII and the State Medicaid program under title XIX.
+(iii) By a dual eligible special needs plan, prior to enrollment, for each prospective enrollee, a comprehensive written statement describing cost sharing protections and benefits that the individual is entitled to under title XVIII and the State Medicaid program under title XIX.
 
 (iv) The availability of the Medicare hospice option and any approved hospices in the service area, including those the MA organization owns, controls, or has a financial interest in.
 
@@ -158,4 +156,4 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (i) *Provision of information required for access to covered services.* MA plans must issue and reissue (as appropriate) member identification cards that enrollees may use to access covered services under the plan. The cards must comply with standards established by CMS.
 
-[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018]
+[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]

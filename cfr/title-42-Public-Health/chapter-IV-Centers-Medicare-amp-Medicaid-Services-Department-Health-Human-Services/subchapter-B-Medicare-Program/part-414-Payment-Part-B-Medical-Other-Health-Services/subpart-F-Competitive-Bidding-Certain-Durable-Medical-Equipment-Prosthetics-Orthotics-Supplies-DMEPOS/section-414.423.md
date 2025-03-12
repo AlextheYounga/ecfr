@@ -1,12 +1,10 @@
 ##### § 414.423 Appeals process for breach of a DMEPOS competitive bidding program contract actions. #####
 
-Link to an amendment published at 84 FR 60809, November 8, 2019.
-
 This section implements an appeals process for suppliers that CMS has determined are in breach of their Medicare DMEPOS Competitive Bidding Program contract and where CMS has issued a notice of breach of contract indicating its intent to take action(s) pursuant to § 414.422(g)(2).
 
 (a) *Breach of contract.* CMS may take one or more of the actions specified in § 414.422(g)(2) as a result of a supplier's breach of their DMEPOS Competitive Bidding Program contract.
 
-(b) *Notice of breach of contract* - (1) *CMS notification.* If CMS determines a supplier to be in breach of its contract, it will notify the supplier of the breach of contract in a notice of breach of contract.
+(b) *Notice of breach of contract*—(1) *CMS notification.* If CMS determines a supplier to be in breach of its contract, it will notify the supplier of the breach of contract in a notice of breach of contract.
 
 (2) *Content of the notice of breach of contract.* The CMS notice of breach of contract will include the following:
 
@@ -26,7 +24,7 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (B) A CAP has been submitted within 30 days of the date of the notice of breach of contract where CMS allows a supplier to submit a CAP.
 
-(c) *Corrective action plan (CAP)* - (1) *Option for a CAP.* (i) CMS has the option to allow a supplier to submit a written CAP to remedy the deficiencies identified in the notice at its sole discretion, including where CMS determines that the delay in the effective date of the breach of contract action(s) caused by allowing a CAP will not cause harm to beneficiaries. CMS will not allow a CAP if the supplier has been excluded from any Federal program, debarred by a Federal agency, or convicted of a healthcare-related crime, or for any other reason determined by CMS.
+(c) *Corrective action plan (CAP)*—(1) *Option for a CAP.* (i) CMS has the option to allow a supplier to submit a written CAP to remedy the deficiencies identified in the notice at its sole discretion, including where CMS determines that the delay in the effective date of the breach of contract action(s) caused by allowing a CAP will not cause harm to beneficiaries. CMS will not allow a CAP if the supplier has been excluded from any Federal program, debarred by a Federal agency, or convicted of a healthcare-related crime, or for any other reason determined by CMS.
 
 (ii) If a supplier chooses not to submit a CAP, if CMS determines that a supplier's CAP is insufficient, or if CMS does not allow the supplier the option to submit a CAP, the supplier may request a hearing on the breach of contract action(s).
 
@@ -48,7 +46,7 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (f) *Right to request a hearing by the CBIC Hearing Officer*. (1) A supplier who receives a notice of breach of contract (whether an initial notice of breach of contract or a subsequent notice of breach of contract under § 414.422(e)(3)) has the right to request a hearing before a CBIC hearing officer who was not involved with the original breach of contract determination.
 
-(2) A supplier that wishes to appeal the breach of contract action(s) specified in the notice of breach of contract must submit a written request to the CBIC. The request for a hearing must be received by the CBIC within 30 days from the date of the notice of breach of contract.
+(2) A supplier that wishes to appeal the breach of contract action(s) specified in the notice of breach of contract must submit a written request to the CBIC. The request for a hearing must be submitted to the CBIC within 30 days from the date of the notice of breach of contract.
 
 (3) A request for hearing must be in writing and submitted by an authorized official of the supplier.
 
@@ -122,7 +120,7 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (4) This decision(s) is final and binding.
 
-(l) *Effect of breach of contract action(s)* - (1) *Effect of contract suspension.* (i) All locations included in the contract cannot furnish competitive bid items to beneficiaries within a CBA and the supplier cannot be reimbursed by Medicare for these items for the duration of the contract suspension.
+(l) *Effect of breach of contract action(s)*—(1) *Effect of contract suspension.* (i) All locations included in the contract cannot furnish competitive bid items to beneficiaries within a CBA and the supplier cannot be reimbursed by Medicare for these items for the duration of the contract suspension.
 
 (ii) The supplier must notify all beneficiaries who are receiving rented competitive bid items or competitive bid items on a recurring basis of the suspension of their contract.
 
@@ -142,4 +140,4 @@ This section implements an appeals process for suppliers that CMS has determined
 
 (4) *Effect of other remedies allowed by law.* If CMS decides to impose other remedies under § 414.422(g)(2)(iv), the details of the remedies will be included in the notice of breach of contract, as specified in paragraph (b)(2) of this section.
 
-[81 FR 77967, Nov. 4, 2016, as amended at 83 FR 57073, Nov. 14, 2018]
+[81 FR 77967, Nov. 4, 2016, as amended at 83 FR 57073, Nov. 14, 2018; 84 FR 60809, Nov. 8, 2019]

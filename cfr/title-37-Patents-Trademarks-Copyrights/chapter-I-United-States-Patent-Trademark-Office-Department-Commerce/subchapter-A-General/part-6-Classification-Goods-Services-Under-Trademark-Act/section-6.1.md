@@ -1,6 +1,6 @@
 ##### § 6.1 International schedule of classes of goods and services. #####
 
-Link to an amendment published at 84 FR 65682, Nov. 29, 2019.Goods
+Goods
 
 1. Chemicals for use in industry, science and photography, as well as in agriculture, horticulture and forestry; unprocessed artificial resins, unprocessed plastics; fire extinguishing and fire prevention compositions; tempering and soldering preparations; substances for tanning animal skins and hides; adhesives for use in industry; putties and other paste fillers; compost, manures, fertilizers; biological preparations for use in industry and science.
 
@@ -20,7 +20,7 @@ Link to an amendment published at 84 FR 65682, Nov. 29, 2019.Goods
 
 9. Scientific, research, navigation, surveying, photographic, cinematographic, audiovisual, optical, weighing, measuring, signalling, detecting, testing, inspecting, life-saving and teaching apparatus and instruments; apparatus and instruments for conducting, switching, transforming, accumulating, regulating or controlling the distribution or use of electricity; apparatus and instruments for recording, transmitting, reproducing or processing sound, images or data; recorded and downloadable media, computer software, blank digital or analogue recording and storage media; mechanisms for coin-operated apparatus; cash registers, calculating devices; computers and computer peripheral devices; diving suits, divers' masks, ear plugs for divers, nose clips for divers and swimmers, gloves for divers, breathing apparatus for underwater swimming; fire-extinguishing apparatus.
 
-10. Surgical, medical, dental and veterinary apparatus and instruments; artificial limbs, eyes and teeth; orthopaedic articles; suture materials; therapeutic and assistive devices adapted for the disabled; massage apparatus; apparatus, devices and articles for nursing infants; sexual activity apparatus, devices and articles.
+10. Surgical, medical, dental and veterinary apparatus and instruments; artificial limbs, eyes and teeth; orthopaedic articles; suture materials; therapeutic and assistive devices adapted for persons with disabilities; massage apparatus; apparatus, devices and articles for nursing infants; sexual activity apparatus, devices and articles.
 
 11. Apparatus and installations for lighting, heating, cooling, steam generating, cooking, drying, ventilating, water supply and sanitary purposes.
 
@@ -58,7 +58,7 @@ Link to an amendment published at 84 FR 65682, Nov. 29, 2019.Goods
 
 28. Games, toys and playthings; video game apparatus; gymnastic and sporting articles; decorations for Christmas trees.
 
-29. Meat, fish, poultry and game; meat extracts; preserved, frozen, dried and cooked fruits and vegetables; jellies, jams, compotes; eggs; milk, cheese, butter, yoghurt and other milk products; oils and fats for food.
+29. Meat, fish, poultry and game; meat extracts; preserved, frozen, dried and cooked fruits and vegetables; jellies, jams, compotes; eggs; milk, cheese, butter, yogurt and other milk products; oils and fats for food.
 
 30. Coffee, tea, cocoa and artificial coffee; rice, pasta and noodles; tapioca and sago; flour and preparations made from cereals; bread, pastries and confectionery; chocolate; ice cream, sorbets and other edible ices; sugar, honey, treacle; yeast, baking-powder; salt, seasonings, spices, preserved herbs; vinegar, sauces and other condiments; ice (frozen water).
 
@@ -76,22 +76,22 @@ Services
 
 36. Insurance; financial affairs; monetary affairs; real estate affairs.
 
-37. Building construction; repair; installation services.
+37. Construction services; installation and repair services; mining extraction, oil and gas drilling.
 
-38. Telecommunications.
+38. Telecommunications services.
 
 39. Transport; packaging and storage of goods; travel arrangement.
 
-40. Treatment of materials.
+40. Treatment of materials; recycling of waste and trash; air purification and treatment of water; printing services; food and drink preservation.
 
 41. Education; providing of training; entertainment; sporting and cultural activities.
 
-42. Scientific and technological services and research and design relating thereto; industrial analysis and industrial research services; design and development of computer hardware and software.
+42. Scientific and technological services and research and design relating thereto; industrial analysis, industrial research and industrial design services; quality control and authentication services; design and development of computer hardware and software.
 
 43. Services for providing food and drink; temporary accommodation.
 
-44. Medical services; veterinary services; hygienic and beauty care for human beings or animals; agriculture, horticulture and forestry services.
+44. Medical services; veterinary services; hygienic and beauty care for human beings or animals; agriculture, aquaculture, horticulture and forestry services.
 
 45. Legal services; security services for the physical protection of tangible property and individuals; personal and social services rendered by others to meet the needs of individuals.
 
-[83 FR 62713, Dec. 6, 2018]
+[84 FR 65682, Nov. 29, 2019

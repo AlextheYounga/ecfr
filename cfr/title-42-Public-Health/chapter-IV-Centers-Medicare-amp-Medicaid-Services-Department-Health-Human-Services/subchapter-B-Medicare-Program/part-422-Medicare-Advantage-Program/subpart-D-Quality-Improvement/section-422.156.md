@@ -1,8 +1,6 @@
 ##### § 422.156 Compliance deemed on the basis of accreditation. #####
 
-Link to an amendment published at 84 FR 15829, April 16, 2019.
-
-(a) *General rule.* An MA organization is deemed to meet all of the requirements of any of the areas described in paragraph (b) of this section if -
+(a) *General rule.* An MA organization is deemed to meet all of the requirements of any of the areas described in paragraph (b) of this section if—
 
 (1) The MA organization is fully accredited (and periodically reaccredited) for the standards related to the applicable area under paragraph (b) of this section by a private, national accreditation organization approved by CMS; and
 
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 15829, April 16, 2019.
 
 (b) *Deemable requirements.* The requirements relating to the following areas are deemable:
 
-(1) *Quality improvement.* The deeming process should focus on evaluating and assessing the overall quality improvement (QI) program. However, the quality improvement projects (QIPs) and the chronic care improvement programs (CCIPs) will be excluded from the deeming process.
+(1) *Quality improvement.* The deeming process should focus on evaluating and assessing the overall quality improvement (QI) program. However, the chronic care improvement programs (CCIPs) will be excluded from the deeming process.
 
 (2) Antidiscrimination.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 84 FR 15829, April 16, 2019.
 
 (2) The date the MA organization is accredited by the accreditation organization.
 
-(d) *Obligations of deemed MA organizations.* An MA organization deemed to meet Medicare requirements must -
+(d) *Obligations of deemed MA organizations.* An MA organization deemed to meet Medicare requirements must—
 
 (1) Submit to surveys by CMS to validate its accreditation organization's accreditation process; and
 
@@ -46,4 +44,4 @@ Link to an amendment published at 84 FR 15829, April 16, 2019.
 
 (f) *Authority.* Nothing in this subpart limits CMS' authority under subparts K and O of this part, including but not limited to, the ability to impose intermediate sanctions, civil money penalties, and terminate a contract with an MA organization.
 
-[63 FR 35082, June 26, 1998, as amended at 65 FR 40323, June 29, 2000; 65 FR 59749, Oct. 6, 2000; 70 FR 4724, Jan. 28, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011]
+[63 FR 35082, June 26, 1998, as amended at 65 FR 40323, June 29, 2000; 65 FR 59749, Oct. 6, 2000; 70 FR 4724, Jan. 28, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 84 FR 15829, Apr. 16, 2019]

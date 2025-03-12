@@ -1,7 +1,5 @@
 ##### § 211.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
-
 Unless otherwise specified, for purposes of this subpart:
 
 (a) An *affiliate* of an organization means:
@@ -10,17 +8,19 @@ Unless otherwise specified, for purposes of this subpart:
 
 (2) Any direct or indirect subsidiary of the organization or such entity.
 
-(b) *Capital Adequacy Guidelines* means the “Capital Adequacy Guidelines for State Member Banks: Risk-Based Measure” (12 CFR part 208, app. A) or the “Capital Adequacy Guidelines for Bank Holding Companies: Risk-Based Measure” (12 CFR part 225, app. A).
+(b) *Capital and surplus* means, unless otherwise provided in this part:
 
-(c) *Capital and surplus* means, unless otherwise provided in this part:
+(1) For organizations subject to the capital rule:
 
-(1) For organizations subject to Regulation Q:
-
-(i) Tier 1 and tier 2 capital included in an organization's risk-based capital (under Regulation Q); and
+(i) Tier 1 and tier 2 capital included in an organization's risk-based capital (under the capital rule); and
 
 (ii) The balance of allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in an organization's tier 2 capital for calculation of risk-based capital, based on the organization's most recent consolidated Report of Condition and Income.
 
+(iii) For qualifying community banking organizations (as defined in § 217.12 of this chapter) that are subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter) plus allowances for loan and lease losses or adjusted allowance for credit losses, as applicable.
+
 (2) For all other organizations, paid-in and unimpaired capital and surplus, and includes undivided profits but does not include the proceeds of capital notes or debentures.
+
+(c) *Capital rule* means part 217 of this chapter.
 
 (d) *Directly* or *indirectly,* when used in reference to activities or investments of an organization, means activities or investments of the organization or of any subsidiary of the organization.
 
@@ -104,7 +104,7 @@ Unless otherwise specified, for purposes of this subpart:
 
 (2) The investor and its affiliates directly or indirectly own or control more than 50 percent of the equity of the organization.
 
-(x) *Tier 1 capital* has the same meaning as provided under the Capital Adequacy Guidelines.
+(x) *Tier 1 capital* has the same meaning as provided in § 217.2 of this chapter. A qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), calculates its tier 1 capital in accordance with § 217.12(b) of this chapter.
 
 (y) *Well capitalized* means:
 
@@ -116,4 +116,4 @@ Unless otherwise specified, for purposes of this subpart:
 
 (z) *Well managed* means that the Edge or agreement corporation, any parent insured bank, and the bank holding company either received a composite rating of 1 or 2 or is considered satisfactory under the applicable rating system, and has at least a satisfactory rating for management if such a rating is given, at their most recent examination or review.
 
-[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 83 FR 58734, Nov. 21, 2018; 84 FR 4241, Feb. 14, 2019]
+[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 83 FR 58734, Nov. 21, 2018; 84 FR 4241, Feb. 14, 2019; 84 FR 61797, Nov. 13, 2019]

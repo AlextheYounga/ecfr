@@ -1,12 +1,10 @@
 ##### § 422.264 Calculation of savings. #####
 
-Link to an amendment published at 84 FR 15833, April 16, 2019.
+(a) *Computation of risk adjusted bids and benchmarks*—(1) *The risk adjusted MA statutory non-drug monthly bid amount* is the unadjusted MA statutory non-drug monthly bid amount (defined at § 422.254(b)(1)(i)), adjusted using the factors described in paragraph (c) of this section for local plans and paragraph (e) of this section for regional plans.
 
-(a) *Computation of risk adjusted bids and benchmarks.* (1) *The risk adjusted MA statutory non-drug monthly bid amount* is the unadjusted plan bid amount for coverage of original Medicare benefits (defined at § 422.254), adjusted using the factors described in paragraph (c) of this section for local plans and paragraph (e) of this section for regional plans.
+(2) The *risk adjusted MA area-specific non-drug monthly benchmark amount* is the unadjusted benchmark amount for coverage of basic benefits defined in § 422.100(c)(1) by a local MA plan, adjusted using the factors described in paragraph (c) of this section.
 
-(2) The *risk adjusted MA area-specific non-drug monthly benchmark amount* is the unadjusted benchmark amount for coverage of original Medicare benefits by a local MA plan (defined at § 422.258), adjusted using the factors described in paragraph (c) of this section.
-
-(3) The *risk adjusted MA region-specific non-drug monthly benchmark amount* is the unadjusted benchmark for coverage of original Medicare benefits amount by a regional MA plan (defined at § 422.258) adjusted using the factors described in paragraph (e) of this section.
+(3) The *risk adjusted MA region-specific non-drug monthly benchmark amount* is the unadjusted benchmark amount for coverage of basic benefits defined in § 422.100(c)(1) by a regional MA plan, adjusted using the factors described in paragraph (e) of this section.
 
 (b) *Computation of savings for MA local plans.* The average per capita monthly savings for an MA local plan is 100 percent of the difference between the plan's risk-adjusted statutory non-drug monthly bid amount (described in paragraph (a)(1) of this section) and the plan's risk-adjusted area-specific non-drug monthly benchmark amount (described in paragraph (a)(2) of this section). Plans with bids equal to or greater than plan benchmarks will have zero savings.
 
@@ -23,3 +21,5 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 (1) For the purpose of calculating savings for MA regional plans, CMS has the authority to apply risk adjustment factors that are plan-specific average risk adjustment factors, Region-wide average risk adjustment factors, or factors determined on a basis other than MA regions.
 
 (2) In the event that CMS applies region-wide average risk adjustment factors, the region-wide factor for each MA region is the average of the risk factors calculated under § 422.308(c), based on all enrollees in MA regional plans in that region in the previous year. In the case of a region in which no regional plan was offered in the previous year, CMS will estimate an average and may base this average on average risk adjustment factors applied to comparable regions or applied on a national basis.
+
+[70 FR 4725, Jan. 28, 2005, as amended at 84 FR 15833, Apr. 16, 2019]

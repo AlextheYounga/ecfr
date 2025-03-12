@@ -1,6 +1,4 @@
-##### § 410.41 Requirements for ambulance suppliers. #####
-
-Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
+##### § 410.41 Requirements for ambulance providers and suppliers. #####
 
 (a) *Vehicle.* A vehicle used as an ambulance must meet the following requirements:
 
@@ -24,10 +22,10 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 
 (c) *Billing and reporting requirements.* An ambulance supplier must comply with the following requirements:
 
-(1) Bill for ambulance services using CMS-designated procedure codes to describe origin and destination and indicate on claims form that the physician certification is on file.
+(1) Bill for ambulance services using CMS-designated procedure codes to describe origin and destination and indicate on claims form that the physician certification statement or non-physician certification statement is on file, if required.
 
 (2) Upon a carrier's request, complete and return the ambulance supplier form designated by CMS and provide the Medicare carrier with documentation of compliance with emergency vehicle and staff licensure and certification requirements in accordance with State and local laws.
 
 (3) Upon a carrier's request, provide additional information and documentation as required.
 
-[64 FR 3648, Jan. 25, 1999, as amended at 80 FR 71373, Nov. 16, 2015]
+[64 FR 3648, Jan. 25, 1999, as amended at 80 FR 71373, Nov. 16, 2015; 84 FR 63188, Nov. 15, 2019]

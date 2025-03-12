@@ -1,7 +1,5 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 84 FR 63203, Nov. 15, 2019.
-
 As used in this subpart, unless the context indicates otherwise -
 
 *Affiliation* means, for purposes of applying § 424.519, any of the following:
@@ -92,6 +90,8 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Revoke/Revocation* means that the provider or supplier's billing privileges are terminated.
 
+*State oversight board* means, for purposes of §§ 424.530(a)(15) and 424.535(a)(22) only, any State administrative body or organization, such as (but not limited to) a medical board, licensing agency, or accreditation body, that directly or indirectly oversees or regulates the provision of health care within the State.
+
 *Voluntary termination* means that a provider or supplier, including an individual physician or nonphysician practitioner, submits written confirmation to CMS of its decision to discontinue enrollment in the Medicare program.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019]

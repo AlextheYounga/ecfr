@@ -1,20 +1,20 @@
 ##### § 3.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 61792, Nov. 13, 2019.
+(a) *Minimum capital requirements.* (1) A national bank or Federal savings association must maintain the following minimum capital ratios:
 
-(a) *Minimum capital requirements.* A national bank or Federal savings association must maintain the following minimum capital ratios:
+(i) A common equity tier 1 capital ratio of 4.5 percent.
 
-(1) A common equity tier 1 capital ratio of 4.5 percent.
+(ii) A tier 1 capital ratio of 6 percent.
 
-(2) A tier 1 capital ratio of 6 percent.
+(iii) A total capital ratio of 8 percent.
 
-(3) A total capital ratio of 8 percent.
+(iv) A leverage ratio of 4 percent.
 
-(4) A leverage ratio of 4 percent.
+(v) For advanced approaches national banks or Federal savings associations or, for Category III OCC-regulated institutions, a supplementary leverage ratio of 3 percent.
 
-(5) For advanced approaches national banks and Federal savings associations, and for Category III national banks and Federal savings associations, a supplementary leverage ratio of 3 percent.
+(vi) For Federal savings associations, a tangible capital ratio of 1.5 percent.
 
-(6) For Federal savings associations, a tangible capital ratio of 1.5 percent.
+(2) A qualifying community banking organization (as defined in § 3.12), that is subject to the community bank leverage ratio framework (as defined in § 3.12), is considered to have met the minimum capital requirements in this paragraph (a).
 
 (b) *Standardized capital ratio calculations.* Other than as provided in paragraph (c) of this section:
 
@@ -138,4 +138,4 @@ E\* = max {0, [ΣEi − ΣCi]}
 
 (2) A national bank or Federal savings association must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59264, Nov. 1, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59264, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019]

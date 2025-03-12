@@ -1,7 +1,5 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 84 FR 15833, April 16, 2019.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
 (a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -
@@ -167,6 +165,14 @@ The contract between the MA organization and CMS must contain the following prov
 (A) Accept the MA plan payment as payment in full, or
 
 (B) Bill the appropriate State source.
+
+(iv) Ensure that the enrollee does not have any financial liability for services, items, or drugs furnished, ordered, or prescribed to the enrollee by an MA contracted individual or entity on the preclusion list, as defined in § 422.2 and as described in § 422.222.
+
+(v) Ensure that the plan's provider agreement contains a provision stating that after the expiration of the 60-day period specified in § 422.222:
+
+(A) The provider will no longer be eligible for payment from the plan and will be prohibited from pursuing payment from the beneficiary as stipulated by the terms of the contract between CMS and the plan per § 422.504(g)(1)(iv); and
+
+(B) The provider will hold financial liability for services, items, and drugs that are furnished, ordered, or prescribed after this 60-day period, at which point the provider and the beneficiary will have already received notification of the preclusion.
 
 (2) The MA organization must provide for continuation of enrollee health care benefits -
 

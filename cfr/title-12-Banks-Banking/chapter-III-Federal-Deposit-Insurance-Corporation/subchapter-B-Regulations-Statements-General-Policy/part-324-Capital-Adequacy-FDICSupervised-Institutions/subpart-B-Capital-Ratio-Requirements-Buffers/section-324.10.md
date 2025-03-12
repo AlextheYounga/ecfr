@@ -1,20 +1,20 @@
 ##### § 324.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 61802, Nov. 13, 2019.
+(a) *Minimum capital requirements.* (1) An FDIC-supervised institution must maintain the following minimum capital ratios:
 
-(a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
+(i) A common equity tier 1 capital ratio of 4.5 percent.
 
-(1) A common equity tier 1 capital ratio of 4.5 percent.
+(ii) A tier 1 capital ratio of 6 percent.
 
-(2) A tier 1 capital ratio of 6 percent.
+(iii) A total capital ratio of 8 percent.
 
-(3) A total capital ratio of 8 percent.
+(iv) A leverage ratio of 4 percent.
 
-(4) A leverage ratio of 4 percent.
+(v) For advanced approaches FDIC-supervised institutions or for Category III FDIC-regulated institutions, a supplementary leverage ratio of 3 percent.
 
-(5) For advanced approaches FDIC-supervised institutions or, for Category III FDIC-supervised institutions, a supplementary leverage ratio of 3 percent.
+(vi) For state savings associations, a tangible capital ratio of 1.5 percent.
 
-(6) For state savings associations, a tangible capital ratio of 1.5 percent.
+(2) A qualifying community banking organization (as defined in § 324.12), that is subject to the community bank leverage ratio framework (as defined in § 324.12), is considered to have met the minimum capital requirements in this paragraph (a).
 
 (b) *Standardized capital ratio calculations.* Other than as provided in paragraph (c) of this section:
 
@@ -154,4 +154,4 @@ E\* = max {0, [ΣEi - ΣCi] −}
 
 (B) The FDIC, in its discretion, may approve an application pursuant to the Federal Deposit Insurance Act where it is required to consider the adequacy of capital or the financial resources of the insured depository institution where it finds that the applicant has committed to and is in compliance with a reasonable plan to meet its minimum leverage capital requirements within a reasonable period of time.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019; 84 FR 61802, Nov. 13, 2019]

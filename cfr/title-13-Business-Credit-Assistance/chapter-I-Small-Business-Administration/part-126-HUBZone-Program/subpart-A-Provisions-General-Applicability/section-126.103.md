@@ -1,7 +1,5 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 84 FR 62449, Nov. 15, 2019.
-
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
 *AA/BD* means SBA's Associate Administrator for Business Development.
@@ -77,6 +75,24 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.
 (iv) Subcontractors.
 
 (3) Employees of an affiliate may be considered employees, if the totality of the circumstances shows that there is no clear line of fracture between the HUBZone applicant (or certified HUBZone small business concern) and its affiliate(s) (*see* § 126.204).
+
+*Governor-designated covered area* means an area that the Administrator has designated as a HUBZone by approving a Governor-generated petition as described in § 126.104.
+
+*HUBZone* means a historically underutilized business zone, which is an area located within one or more:
+
+(1) Qualified census tracts;
+
+(2) Qualified non-metropolitan counties;
+
+(3) Lands within the external boundaries of an Indian reservation;
+
+(4) Redesignated areas;
+
+(5) Qualified base closure areas;
+
+(6) Qualified disaster areas; or
+
+(7) Governor-designated covered areas.
 
 *HUBZone* means a historically underutilized business zone, which is an area located within one or more:
 
@@ -178,4 +194,4 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.
 
 *Small business concern (SBC)* means a concern that, with its affiliates, meets the size standard for its primary industry, pursuant to part 121 of this chapter.
 
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 65239, Nov. 26, 2019]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 65239, Nov. 26, 2019; 84 FR 62449, Nov. 15, 2019]

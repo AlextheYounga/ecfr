@@ -1,7 +1,5 @@
 ##### § 415.174 Exception: Evaluation and management services furnished in certain centers. #####
 
-Link to an amendment published at 84 FR 63202, Nov. 15, 2019.
-
 (a) In the case of certain evaluation and management codes of lower and mid-level complexity (as specified by CMS in program instructions), carriers may make physician fee schedule payment for a service furnished by a resident without the presence of a teaching physician. For the exception to apply, all of the following conditions must be met:
 
 (1) The services must be furnished in a center that is located in an outpatient department of a hospital or another ambulatory care entity in which the time spent by residents in patient care activities is included in determining intermediary payments to a hospital under §§ 413.75 through 413.83.
@@ -28,8 +26,8 @@ Link to an amendment published at 84 FR 63202, Nov. 15, 2019.
 
 (5) The patients seen must be an identifiable group of individuals who consider the center to be the continuing source of their health care and in which services are furnished by residents under the medical direction of teaching physicians.
 
-(6) The medical records must document the extent of the teaching physician's participation in the review and direction of services furnished to each beneficiary. The extent of the teaching physician's participation may be demonstrated by the notes in the medical records made by a physician, resident, or nurse.
+(6) The medical records must document the extent of the teaching physician's participation in the review and direction of services furnished to each beneficiary. The extent of the teaching physician's participation may be demonstrated by the notes in the medical records made by the physician or as provided in § 410.20(e) of this chapter to each beneficiary in accordance with the documentation requirements at § 415.172(b).
 
-(b) Nothing in paragraph (a) of this section may be construed as providing a basis for the coverage of services not determined to be covered under Medicare, such as routine physical checkups.
+(b) [Reserved]
 
-[60 FR 63178, Dec. 8, 1995, as amended at 61 FR 59554, Nov. 22, 1996; 70 FR 47490, Aug. 12, 2005; 83 FR 60092, Nov. 23, 2018]
+[60 FR 63178, Dec. 8, 1995, as amended at 61 FR 59554, Nov. 22, 1996; 70 FR 47490, Aug. 12, 2005; 83 FR 60092, Nov. 23, 2018; 84 FR 63202, Nov. 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 6.1 Authority, purpose, scope, other supervisory authority, disclosure of capital categories, and transition procedures. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
-
 (a) *Authority.* This part is issued by the Office of the Comptroller of the Currency (OCC) pursuant to section 38 (section 38) of the Federal Deposit Insurance Act (FDI Act) as added by section 131 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (Pub. L. 102-242, 105 Stat. 2236 (1991)) (12 U.S.C. 1831o).
 
 (b) *Purpose.* Section 38 of the FDI Act establishes a framework of supervisory actions for insured depository institutions that are not adequately capitalized. The principal purpose of this subpart is to define, for insured national banks and insured Federal savings associations, the capital measures and capital levels, and for insured Federal branches, comparable asset-based measures and levels, that are used for determining the supervisory actions authorized under section 38 of the FDI Act. This part 6 also establishes procedures for submission and review of capital restoration plans and for issuance and review of directives and orders pursuant to section 38.
@@ -12,10 +10,8 @@ Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date 
 
 (e) *Disclosure of capital categories.* The assignment of an insured national bank, insured Federal branch, or insured Federal savings association under this subpart within a particular capital category is for purposes of implementing and applying the provisions of section 38. Unless permitted by the OCC or otherwise required by law, no national bank or Federal savings association may state in any advertisement or promotional material its capital category under this subpart or that the OCC or any other Federal banking agency has assigned the national bank or Federal savings association to a particular capital category.
 
-(f) *Transition procedures* - (1) *Definitions applicable before January 1, 2015, for certain national banks and Federal savings associations.* Before January 1, 2015, notwithstanding any other requirement in this subpart and with respect to any national bank that is not an advanced approaches bank and any Federal savings association that is not an advanced approaches Federal savings association:
-
-(i) The definitions of leverage ratio, tangible equity, tier 1 capital, tier 1 risk-based capital, and total risk-based capital as calculated or defined under appendix A to part 3 of this chapter, remain in effect for purposes of this subpart; and
-
-(ii) The definition of total assets means quarterly average total assets as reported in a national bank's or Federal savings association's Consolidated Reports of Condition and Income (Call Report), minus intangible assets except mortgage servicing assets as provided in the definition of tangible equity. The OCC reserves the right to require a national bank or Federal savings association to compute and maintain its capital ratios on the basis of actual, rather than average, total assets when computing tangible equity.
+(f) *Transition procedures.* (1) [Reserved]
 
 (2) *Timing.* On January 1, 2015 and thereafter, the calculation of the definitions of common equity tier 1 capital, the common equity tier 1 risk-based capital ratio, the leverage ratio, the supplementary leverage ratio, tangible equity, tier 1 capital, the tier 1 risk-based capital ratio, total assets, total leverage exposure, the total risk-based capital ratio, and total risk-weighted assets under this subpart is subject to the timing provisions at 12 CFR § 3.1(f) and the transitions at 12 CFR part 3, subpart G.
+
+[78 FR 62275, Oct. 11, 2013, as amended at 84 FR 56374, Oct. 22, 2019]

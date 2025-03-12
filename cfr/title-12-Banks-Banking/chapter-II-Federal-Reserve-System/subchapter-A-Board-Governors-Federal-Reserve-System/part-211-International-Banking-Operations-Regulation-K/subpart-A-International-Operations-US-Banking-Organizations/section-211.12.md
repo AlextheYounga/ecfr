@@ -12,7 +12,7 @@
 
 (ii) Covered by participation agreements from other banks, as described in 12 CFR 250.165.
 
-(b) *Loans and extensions of credit to one person* - (1) *Loans and extensions of credit defined. Loans and extensions of credit* has the meaning set forth in § 211.2(q) of this part8 and, for purposes of this paragraph (b), also include:
+(b) *Loans and extensions of credit to one person*—(1) *Loans and extensions of credit defined. Loans and extensions of credit* has the meaning set forth in § 211.2(q) of this part8 and, for purposes of this paragraph (b), also include:
 
 8 In the case of a foreign government, these includes loans and extensions of credit to the foreign government's departments or agencies deriving their current funds principally from general tax revenues. In the case of a partnership or firm, these include loans and extensions of credit to its members and, in the case of a corporation, these include loans and extensions of credit to the corporation's affiliates, where the affiliate incurs the liability for the benefit of the corporation.
 
@@ -28,7 +28,7 @@
 
 (i) The total loans and extensions of credit outstanding to any person by an Edge corporation engaged in banking, and its direct or indirect subsidiaries, may not exceed 15 percent of the Edge corporation's tier 1 capital;9 and
 
-9 For purposes of this pargraph (b), *subsidiaries* includes subsidiaries controlled by the Edge corporation, but does not include companies otherwise controlled by affiliates of the Edge corporation.
+9 For purposes of this paragraph (b), *subsidiaries* includes subsidiaries controlled by the Edge corporation, but does not include companies otherwise controlled by affiliates of the Edge corporation.
 
 (ii) The total loans and extensions of credit to any person by a foreign bank or Edge corporation subsidiary of a member bank, and by majority-owned subsidiaries of a foreign bank or Edge corporation, when combined with the total loans and extensions of credit to the same person by the member bank and its majority-owned subsidiaries, may not exceed the member bank's limitation on loans and extensions of credit to one person.
 
@@ -52,6 +52,8 @@
 
 (c) *Capitalization.* (1) An Edge corporation shall at all times be capitalized in an amount that is adequate in relation to the scope and character of its activities.
 
-(2) In the case of an Edge corporation engaged in banking, the minimum ratio of qualifying total capital to risk-weighted assets, as determined under the Capital Adequacy Guidelines, shall not be less than 10 percent, of which at least 50 percent shall consist of tier 1 capital.
+(2) In the case of an Edge corporation engaged in banking, the minimum ratio of qualifying total capital to risk-weighted assets, as determined under the capital rule, shall not be less than 10 percent, of which at least 50 percent shall consist of tier 1 capital.
 
-(3) For purposes of this paragraph (c), no limitation shall apply on the inclusion of subordinated debt that qualifies as tier 2 capital under the Capital Adequacy Guidelines.
+(3) For purposes of this paragraph (c), no limitation shall apply on the inclusion of subordinated debt that qualifies as tier 2 capital under the capital rule.
+
+[Reg. K, 66 FR 54374, Oct. 26, 2001, as amended at 84 FR 61797, Nov. 13, 2019]

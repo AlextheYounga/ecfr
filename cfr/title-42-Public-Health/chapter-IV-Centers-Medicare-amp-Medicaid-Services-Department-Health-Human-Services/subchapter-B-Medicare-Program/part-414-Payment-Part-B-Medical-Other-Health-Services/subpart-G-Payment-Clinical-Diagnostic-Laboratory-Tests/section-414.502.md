@@ -1,7 +1,5 @@
 ##### § 414.502 Definitions. #####
 
-Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
-
 For purposes of this subpart -
 
 *Actual list charge* means the publicly available rate on the first day the new advanced diagnostic laboratory test (ADLT) is obtainable by a patient who is covered by private insurance, or marketed to the public as a test a patient can receive, even if the test has not yet been performed on that date.
@@ -53,6 +51,8 @@ For purposes of this subpart -
 (i) Does not apply with respect to the ADLTs it offers and furnishes; and
 
 (ii) Applies with respect to all the other CDLTs it furnishes.
+
+*Blood bank or center* means an entity whose primary function is the performance or responsibility for the performance of, the collection, processing, testing, storage and/or distribution of blood or blood components intended for transfusion and transplantation.
 
 *Data collection period* is the 6 months from January 1 through June 30 during which applicable information is collected and that precedes the data reporting period.
 
@@ -114,4 +114,4 @@ For purposes of this subpart -
 
 *Taxpayer Identification Number* (TIN) means a Federal taxpayer identification number or employer identification number as defined by the IRS in 26 CFR 301.6109-1.
 
-[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016; 83 FR 60074, Nov. 23, 2018]
+[71 FR 69786, Dec. 1, 2006, as amended at 72 FR 66401, Nov. 27, 2007; 81 FR 41098, June 23, 2016; 83 FR 60074, Nov. 23, 2018; 84 FR 61490, Nov. 12, 2019]

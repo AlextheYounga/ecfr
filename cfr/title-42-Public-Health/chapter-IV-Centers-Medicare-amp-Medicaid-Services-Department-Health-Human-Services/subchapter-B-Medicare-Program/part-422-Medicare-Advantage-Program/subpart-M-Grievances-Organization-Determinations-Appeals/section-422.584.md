@@ -1,7 +1,5 @@
 ##### § 422.584 Expediting certain reconsiderations. #####
 
-Link to an amendment published at 84 FR 23881, May 23, 2019.
-
 (a) *Who may request an expedited reconsideration.* An enrollee or a physician (regardless of whether he or she is affiliated with the MA organization) may request that an MA organization expedite a reconsideration of a determination that involves the issues described in § 422.566(b)(3) and (b)(4). (This does not include requests for payment of services already furnished.)
 
 (b) *How to make a request.* (1) To ask for an expedited reconsideration, an enrollee or a physician acting on behalf of an enrollee must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the reconsideration, as directed by the MA organization.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 23881, May 23, 2019.
 
 (d) *Actions following denial.* If an MA organization denies a request for expedited reconsideration, it must take the following actions:
 
-(1) Automatically transfer a request to the standard timeframe and make the determination within the 30-day timeframe established in § 422.590(a). The 30-day period begins the day the MA organization receives the request for expedited reconsideration.
+(1) Automatically transfer a request to the standard timeframe and make the determination within the 30 calendar day or 7 calendar day, as applicable, timeframe established in § 422.590(a) and (c). The timeframe begins the day the MA organization receives the request for expedited reconsideration.
 
 (2) Give the enrollee prompt oral notice, and subsequently deliver, within 3 calendar days, a written letter that -
 
@@ -36,4 +34,4 @@ Link to an amendment published at 84 FR 23881, May 23, 2019.
 
 (f) *Prohibition of punitive action.* An MA organization may not take or threaten to take any punitive action against a physician acting on behalf or in support of an enrollee in requesting an expedited reconsideration.
 
-[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005]
+[63 FR 35107, June 26, 1998, as amended at 65 FR 40330, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 84 FR 23881, May 23, 2019]

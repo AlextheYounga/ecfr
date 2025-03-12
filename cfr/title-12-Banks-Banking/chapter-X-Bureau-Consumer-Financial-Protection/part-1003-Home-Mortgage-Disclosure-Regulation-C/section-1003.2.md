@@ -1,6 +1,6 @@
 ##### § 1003.2 Definitions. #####
 
-Link to an amendment published at 82 FR 43145, Sept. 13, 2017.Link to an amendment published at 84 FR 57980, Oct. 29, 2019.Link to an amendment published at 84 FR 58003, Oct. 29, 2019.
+Link to an amendment published at 84 FR 58003, Oct. 29, 2019.
 
 In this part:
 
@@ -86,4 +86,4 @@ In this part:
 
 (q) *Reverse mortgage* means a closed-end mortgage loan or an open-end line of credit that is a reverse mortgage transaction as defined in Regulation Z, 12 CFR 1026.33(a), but without regard to whether the security interest is created in a principal dwelling.
 
-[80 FR 66308, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017]
+[80 FR 66308, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017; 84 FR 57980, Oct. 29, 2019]

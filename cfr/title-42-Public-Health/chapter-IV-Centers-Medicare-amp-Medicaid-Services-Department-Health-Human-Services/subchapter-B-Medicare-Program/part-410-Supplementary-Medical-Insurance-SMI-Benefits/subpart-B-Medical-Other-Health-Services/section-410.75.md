@@ -1,7 +1,5 @@
 ##### § 410.75 Nurse practitioners' services. #####
 
-Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
-
 (a) *Definition.* As used in this section, the term “physician” means a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act.
 
 (b) *Qualifications.* For Medicare Part B coverage of his or her services, a nurse practitioner must be a registered professional nurse who is authorized by the State in which the services are furnished to practice as a nurse practitioner in accordance with State law, and must meet one of the following:
@@ -38,4 +36,6 @@ Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
 
 (2) The services are provided on an assignment-related basis, and a nurse practitioner may not charge a beneficiary for a service not payable under this provision. If a beneficiary has made payment for a service, the nurse practitioner must make the appropriate refund to the beneficiary.
 
-[63 FR 58908, Nov. 2, 1998; 64 FR 25457, May 12, 1999, as amended at 64 FR 59440, Nov. 2, 1999; 73 FR 69933, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013]
+(f) *Medical record documentation.* For nurse practitioners' services, the nurse practitioner may review and verify (sign and date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team, including, as applicable, notes documenting the nurse practitioner's presence and participation in the service.
+
+[63 FR 58908, Nov. 2, 1998; 64 FR 25457, May 12, 1999, as amended at 64 FR 59440, Nov. 2, 1999; 73 FR 69933, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013; 84 FR 63191, Nov. 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 208.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
-
 For the purposes of this part:
 
 (a) *Board of Directors* means the governing board of any institution performing the usual functions of a board of directors.
@@ -30,6 +28,8 @@ For the purposes of this part:
 
 (2) The balance of a member bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in its tier 2 capital for calculation of risk-based capital, based on the bank's most recent Report of Condition and Income filed under 12 U.S.C. 324.
 
+(3) For a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), capital stock and surplus means the bank's Tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter) plus allowance for loan and lease losses or adjusted allowance for credit losses, as applicable.
+
 (e) *Eligible bank* means a member bank that:
 
 (1) Is well capitalized as defined in subpart D of this part;
@@ -46,4 +46,4 @@ For the purposes of this part:
 
 (g) *State member bank or member bank* means a state bank that is a member of the Federal Reserve System.
 
-[63 FR 37637, July 13, 1998, as amended by Reg. H, 78 FR 62281, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015; 84 FR 4240, Feb. 14, 2019]
+[63 FR 37637, July 13, 1998, as amended by Reg. H, 78 FR 62281, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015; 84 FR 4240, Feb. 14, 2019; 84 FR 61796, Nov. 13, 2019]

@@ -1,7 +1,5 @@
 ##### § 660.131 Pacific whiting fishery management measures. #####
 
-Link to an amendment published at 84 FR 63988, Nov. 19, 2019.
-
 (a) *General.* This section applies to the MS sector, the C/P sector, the Pacific whiting IFQ fishery, and Shorebased IFQ vessels targeting Pacific whiting under trip limits outside the Pacific whiting primary season.
 
 (b) *Pacific whiting primary seasons and Pacific whiting trip limits* - (1) *Pacific whiting fishery primary seasons.* (i) For the Pacific whiting IFQ fishery, the primary season is the period(s) of the large-scale Pacific whiting target fishery conducted after the primary season start date.
@@ -34,15 +32,13 @@ Link to an amendment published at 84 FR 63988, Nov. 19, 2019.
 
 (ii) If a vessel on a Pacific whiting IFQ trip harvests a groundfish species other than whiting for which there is a midwater trip limit, then that vessel may also harvest up to another footrope-specific limit for that species during any cumulative limit period that overlaps the start or close of the primary season.
 
-(c) *Closed areas.* Vessels fishing during the Pacific whiting primary seasons shall not target Pacific whiting with midwater groundfish trawl gear in the following portions of the fishery management area:
+(c) *Closed areas.* The conservation areas described here are in addition to conservation areas applicable to vessels operating with midwater trawl gear on board described in § 660.130(c) and (e). Vessels fishing during the Pacific whiting primary seasons shall not target Pacific whiting with midwater groundfish trawl gear in the following portions of the fishery management area:
 
-(1) *Klamath river salmon conservation zone.* The ocean area surrounding the Klamath River mouth bounded on the north by 41°38.80′ N. lat. (approximately 6 nm north of the Klamath River mouth), on the west by 124°23′ W. long. (approximately 12 nm from shore), and on the south by 41°26.80′ N. lat. (approximately 6 nm south of the Klamath River mouth).
+(1) *Klamath river salmon conservation zone,* defined at § 660.111.
 
-(2) *Columbia river salmon conservation zone.* The ocean area surrounding the Columbia River mouth bounded by a line extending for 6 nm due west from North Head along 46°18′ N. lat. to 124°13.30′ W. long., then southerly along a line of 167 True to 46°11.10′ N. lat. and 124°11′ W. long. (Columbia River Buoy), then northeast along Red Buoy Line to the tip of the south jetty.
+(2) *Columbia river salmon conservation zone,* defined at § 660.111.
 
-(3) [Reserved]
-
-(4) *Bycatch reduction areas (BRAs).* Bycatch reduction area closures specified at § 660.130(e) may be implemented inseason through automatic action when NMFS projects that a Pacific whiting sector will exceed an allocation for a non-whiting groundfish species specified for that sector before the sector's whiting allocation is projected to be reached.
+(3) *Bycatch reduction areas or BRAs.* Bycatch reduction area closures specified at § 660.130(e) may be implemented inseason through automatic action when NMFS projects that a Pacific whiting sector will exceed an allocation for a non-whiting groundfish species specified for that sector before the sector's whiting allocation is projected to be reached.
 
 (d) *Eureka management area trip limits.* Trip landing or frequency limits may be established, modified, or removed under § 660.60 or this paragraph, specifying the amount of Pacific whiting that may be taken and retained, possessed, or landed by a vessel that, at any time during a fishing trip, fished in the fishery management area shoreward of the 100 fathom (183 m) contour in the Eureka management area. Unless otherwise specified, no more than 10,000-lb (4,536 kg) of whiting may be taken and retained, possessed, or landed by a vessel that, at any time during a fishing trip, fished in the fishery management area shoreward of the 100 fm (183 m) contour in the Eureka management area.
 
@@ -70,7 +66,7 @@ Link to an amendment published at 84 FR 63988, Nov. 19, 2019.
 
 (4) Estimates of the portion of the tribal allocation that will not be used by the end of the fishing year will be based on the best information available to the Regional Administrator.
 
-(i) Salmon bycatch. This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
+(i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
 (ii) [Reserved]
 
@@ -78,4 +74,4 @@ Link to an amendment published at 84 FR 63988, Nov. 19, 2019.
 
 (i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 65926, Dec. 2, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 63988, Nov. 19, 2019; 84 FR 65926, Dec. 2, 2019]

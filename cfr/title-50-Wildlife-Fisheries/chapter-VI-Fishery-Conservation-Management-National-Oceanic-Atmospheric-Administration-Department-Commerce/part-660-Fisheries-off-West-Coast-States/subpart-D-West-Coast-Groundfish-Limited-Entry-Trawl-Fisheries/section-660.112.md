@@ -1,8 +1,6 @@
 ##### § 660.112 Trawl fishery - prohibitions. #####
 
-Link to an amendment published at 84 FR 63986, Nov. 19, 2019.
-
-These prohibitions are specific to the limited entry trawl fisheries. General groundfish prohibitions are defined at § 660.12. In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person or vessel to:
+In addition to the general prohibitions specified in § 660.12 and § 600.725 of this chapter, it is unlawful for any person or vessel to:
 
 (a) *General* - (1) *Trawl gear endorsement.* Fish with groundfish trawl gear, or carry groundfish trawl gear on board a vessel that also has groundfish on board, unless the vessel is registered for use with a valid limited entry permit with a trawl gear endorsement, with the following exception.
 
@@ -28,21 +26,19 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (iii) Fail to maintain observer coverage in port as specified at § 660.140(h)(1)(i).
 
-(5) *Fishing in conservation areas with trawl gear.* (i) Operate any vessel registered to a limited entry permit with a trawl endorsement and trawl gear on board in a applicable GCA (defined at § 660.11, subpart C and § 660.130(e), subpart D), except for purposes of continuous transiting, with all groundfish trawl gear stowed in accordance with § 660.130(e)(4), subpart D or except as authorized in the groundfish management measures published at § 660.130, subpart D.
+(5) *Fishing in conservation areas with trawl gear.* (i) Operate any vessel registered to a limited entry permit with a trawl endorsement in an applicable GCA (defined at §§ 660.11 and 660.130), except for purposes of continuous transiting (defined at § 660.11), unless all groundfish trawl gear on board is stowed (as defined at § 660.111), or unless otherwise authorized at § 660.130.
 
-(ii) Fish with bottom trawl gear (defined at § 660.11, subpart C) anywhere within EFH seaward of a line approximating the 700-fm (1280-m) depth contour, as defined in § 660.76, subpart C. For the purposes of regulation, EFH seaward of 700-fm (1280-m) within the EEZ is described at § 660.75, subpart C.
+(ii) Fish with bottom trawl gear (defined at § 660.11) anywhere within EFH seaward of a line approximating the 700-fm (1,280-m) depth contour, as defined in § 660.76. For the purposes of regulation, EFH seaward of 700-fm (1,280-m) within the EEZ is described at § 660.75.
 
-(iii) Fish with bottom trawl gear (defined at § 660.11, subpart C) with a footrope diameter greater than 19 inches (48 cm) (including rollers, bobbins or other material encircling or tied along the length of the footrope) anywhere within EFH within the EEZ. For the purposes of regulation, EFH within the EEZ is described at § 660.75, subpart C.
+(iii) Fish with bottom trawl gear (defined at § 660.11) with a footrope diameter greater than 19 inches (48 cm) (including rollers, bobbins or other material encircling or tied along the length of the footrope) anywhere within EFH within the EEZ. For the purposes of regulation, EFH within the EEZ is described at § 660.75.
 
-(iv) Fish with bottom trawl gear (defined at § 660.11, subpart C) with a footrope diameter greater than 8 inches (20 cm) (including rollers, bobbins or other material encircling or tied along the length of the footrope) anywhere within the EEZ shoreward of a line approximating the 100-fm (183-m) depth contour (defined at § 660.73, subpart C).
+(iv) Fish with bottom trawl gear (defined at § 660.11) with a footrope diameter greater than 8 inches (20 cm) (including rollers, bobbins or other material encircling or tied along the length of the footrope) anywhere within the EEZ shoreward of a line approximating the 100-fm (183-m) depth contour (defined at § 660.73).
 
-(v) Fish with bottom trawl gear (defined at § 660.11, subpart C), within the EEZ in the following areas (defined at §§ 660.77 and 660.78, Subpart C): Olympic 2, Biogenic 1, Biogenic 2, Grays Canyon, Biogenic 3, Astoria Canyon, Nehalem Bank/Shale Pile, Siletz Deepwater, Daisy Bank/Nelson Island, Newport Rockpile/Stonewall Bank, Heceta Bank, Deepwater off Coos Bay, Bandon High Spot, Rogue Canyon.
+(v) Fish with bottom trawl gear (defined at § 660.11), within the EEZ in the following EFHCAs areas (defined at §§ 660.77 and 660.78): Olympic 2, Biogenic 1, Biogenic 2, Quinault Canyon, Grays Canyon, Willapa Canyonhead, Willapa Deep, Biogenic 3, Astoria Deep, Astoria Canyon, Nehalem Bank/Shale Pile, Garibaldi Reef North, Garibaldi Reef South, Siletz Deepwater, Daisy Bank/Nelson Island, Newport Rockpile/Stonewall Bank, Hydrate Ridge, Heceta Bank, Deepwater off Coos Bay, Arago Reef, Bandon High Spot, Rogue Canyon, and Rogue River Reef.
 
-(vi) Fish with bottom trawl gear (defined at § 660.11), other than demersal seine, unless otherwise specified in this section or § 660.130, within the EEZ in the following areas (defined at § 660.79): Eel River Canyon, Blunts Reef, Mendocino Ridge, Delgada Canyon, Tolo Bank, Point Arena North, Point Arena South Biogenic Area, Cordell Bank/Biogenic Area, Farallon Islands/Fanny Shoal, Half Moon Bay, Monterey Bay/Canyon, Point Sur Deep, Big Sur Coast/Port San Luis, East San Lucia Bank, Point Conception, Hidden Reef/Kidney Bank (within Cowcod Conservation Area West), Catalina Island, Potato Bank (within Cowcod Conservation Area West), Cherry Bank (within Cowcod Conservation Area West), and Cowcod EFH Conservation Area East.
+(vi) Fish with bottom trawl gear (defined at § 660.11), other than demersal seine, unless otherwise specified in this section or § 660.130, within the EEZ in the following EFHCAs areas (defined at § 660.79): Brush Patch, Trinidad Canyon, Mad River Rough Patch, Samoa Deepwater, Eel River Canyon, Blunts Reef, Mendocino Ridge, Delgada Canyon, Tolo Bank, Navarro Canyon, Point Arena North, Point Arena South Biogenic Area, The Football, Gobbler's Knob, Point Reyes Reef, Cordell Bank/Biogenic Area, Rittenburg Bank, Farallon Islands/Fanny Shoal/Cochrane Bank, Farallon Escarpment, Half Moon Bay, Pescadero Reef, Pigeon Point Reef, Ascension Canyonhead, South of Davenport, Monterey Bay/Canyon, West of Sobranes Point, Point Sur Deep, Big Sur Coast/Port San Luis, La Cruz Canyon, West of Piedras Blancas State Marine Conservation Area, East San Lucia Bank, Point Conception, Hidden Reef/Kidney Bank (within Cowcod Conservation Area West), Catalina Island, Potato Bank (within Cowcod Conservation Area West), Cherry Bank (within Cowcod Conservation Area West), Cowcod EFHCA Conservation Area East, and Southern California Bight.
 
-(vii) Fish with bottom contact gear (defined at § 660.11, subpart C) within the EEZ in the following areas (defined at §§ 660.78 and 660.79, subpart C): Thompson Seamount, President Jackson Seamount, Cordell Bank (50-fm (91-m) isobath), Harris Point, Richardson Rock, Scorpion, Painted Cave, Anacapa Island, Carrington Point, Judith Rock, Skunk Point, Footprint, Gull Island, South Point, and Santa Barbara.
-
-(viii) Fish with bottom contact gear (defined at § 660.11, subpart C), or any other gear that is deployed deeper than 500-fm (914-m), within the Davidson Seamount area (defined at § 660.79, subpart C).
+(vii) Fish with bottom contact gear (defined at § 660.11) within specific EFHCAs and the DECA, consistent with the prohibitions at § 660.12(a)(4), (16) through (18).
 
 (6) *Cost recovery program.* (i) Fail to fully pay or collect any fee due under the cost recovery program specified at § 660.115 and/or otherwise avoid, decrease, interfere with, hinder, or delay any such payment or collection.
 
@@ -186,4 +182,4 @@ These prohibitions are specific to the limited entry trawl fisheries. General gr
 
 (10) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019]

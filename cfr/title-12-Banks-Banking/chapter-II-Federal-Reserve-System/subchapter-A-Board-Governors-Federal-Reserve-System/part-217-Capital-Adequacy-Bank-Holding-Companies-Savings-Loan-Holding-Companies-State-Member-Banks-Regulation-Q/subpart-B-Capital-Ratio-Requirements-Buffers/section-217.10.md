@@ -1,18 +1,19 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
+(a) *Minimum capital requirements.* (1) A Board-regulated institution must maintain the following minimum capital ratios:
 
-(a) *Minimum capital requirements.* A Board-regulated institution must maintain the following minimum capital ratios:
+(i) A common equity tier 1 capital ratio of 4.5 percent.
 
-(1) A common equity tier 1 capital ratio of 4.5 percent.
+(ii) A tier 1 capital ratio of 6 percent.
 
-(2) A tier 1 capital ratio of 6 percent.
+(iii) A total capital ratio of 8 percent.
 
-(3) A total capital ratio of 8 percent.
+(iv) A leverage ratio of 4 percent.
 
-(4) A leverage ratio of 4 percent.
+(v) For advanced approaches Board-regulated institutions or, for Category III
+Board-regulated institutions, a supplementary leverage ratio of 3 percent.
 
-(5) For advanced approaches Board-regulated institutions or, for Category III Board-regulated institutions, a supplementary leverage ratio of 3 percent.
+(2) A qualifying community banking organization (as defined in § 217.12), that is subject to the community bank leverage ratio framework (as defined § 217.12), is considered to have met the minimum capital requirements in this paragraph (a) of this section.
 
 (b) *Standardized capital ratio calculations.* Other than as provided in paragraph (c) of this section:
 
@@ -132,4 +133,4 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) A Board-regulated institution must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019; 84 FR 61797, Nov. 13, 2019]

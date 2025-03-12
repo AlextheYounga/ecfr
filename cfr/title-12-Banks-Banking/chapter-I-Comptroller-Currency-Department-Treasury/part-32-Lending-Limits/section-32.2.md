@@ -1,16 +1,22 @@
 ##### § 32.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61795, Nov. 13, 2019.Link to an amendment published at 84 FR 69298, Dec. 18, 2019.
-
 (a) *Appropriate Federal banking agency* has the same meaning as in 12 U.S.C. 1813(q).
 
 (b) *Borrower* means a person who is named as a borrower or debtor in a loan or extension of credit; a person to whom a national bank or savings association has credit exposure arising from a derivative transaction or a securities financing transaction, entered by the bank or savings association; or any other person, including a drawer, endorser, or guarantor, who is deemed to be a borrower under the “direct benefit” or the “common enterprise” tests set forth in § 32.5.
 
 (c) *Capital and surplus* means -
 
-(1) A national bank's or savings association's Tier 1 and Tier 2 capital calculated under the risk-based capital standards applicable to the institution as reported in the bank's or savings association's Consolidated Reports of Condition and Income (Call Report); plus
+(1) For qualifying community banking organizations that have elected to use the community bank leverage ratio framework, as set forth under the OCC's Capital Adequacy Standards at part 3 of this chapter:
 
-(2) The balance of a national bank's or savings association's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (c)(1) of this section, as reported in the bank's Call Report.
+(i) A qualifying community banking organization's tier 1 capital, as used under § 3.12 of this chapter; plus
+
+(ii) A qualifying community banking organization's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, as reported in the Consolidated Reports of Condition and Income (Call Report); or
+
+(2) For all other national banks and Federal savings associations:
+
+(i) A national bank's or savings association's tier 1 and tier 2 capital calculated under the risk-based capital standards applicable to the institution as reported in the Call Report; plus
+
+(ii) The balance of a national bank's or Federal savings association's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, not included in the bank's or savings association's tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (c)(2)(i) of this section, as reported in the national bank's or savings association's Call Report.
 
 (d) *Close of business* means the time at which a national bank or savings association closes its accounting records for the business day.
 
@@ -206,4 +212,4 @@ Link to an amendment published at 84 FR 61795, Nov. 13, 2019.Link to an amendmen
 
 (3) To make payment on account of any default by the account party in the performance of an obligation.
 
-[60 FR 8532, Feb. 15, 1995, as amended at 63 FR 15746, Apr. 1, 1998; 66 FR 31120, June 11, 2001; 66 FR 55072, Nov. 1, 2001; 69 FR 51357, Aug. 19, 2004; 77 FR 37275, June 21, 2012; 77 FR 37277, June 21, 2012; 78 FR 37944, June 25, 2013; 79 FR 11312, Feb. 28, 2014; 80 FR 28479, May 18, 2015; 84 FR 4240, Feb. 14, 2019]
+[60 FR 8532, Feb. 15, 1995, as amended at 63 FR 15746, Apr. 1, 1998; 66 FR 31120, June 11, 2001; 66 FR 55072, Nov. 1, 2001; 69 FR 51357, Aug. 19, 2004; 77 FR 37275, June 21, 2012; 77 FR 37277, June 21, 2012; 78 FR 37944, June 25, 2013; 79 FR 11312, Feb. 28, 2014; 80 FR 28479, May 18, 2015; 84 FR 4240, Feb. 14, 2019; 84 FR 61795, Nov. 13, 2019; 84 FR 69298, Dec. 18, 2019]

@@ -1,7 +1,5 @@
 ##### § 424.535 Revocation of enrollment in the Medicare program. #####
 
-Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
-
 (a) *Reasons for revocation.* CMS may revoke a currently enrolled provider or supplier's Medicare enrollment and any corresponding provider agreement or supplier agreement for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements described in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter. The provider or supplier may also be determined not to be in compliance if it has failed to pay any user fees as assessed under part 488 of this chapter.
@@ -110,7 +108,7 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (ii) The applicable licensing or administrative body for any state in which the physician or eligible professional practices suspends or revokes the physician or eligible professional's ability to prescribe drugs.
 
-(14) *Improper prescribing practices.* CMS determines that the physician or eligible professional has a pattern or practice of prescribing Part D drugs that falls into one of the following categories:
+(14) *Improper prescribing practices.* CMS determines that the physician or eligible professional has a pattern or practice of prescribing Part B or D drugs that falls into one of the following categories:
 
 (i) The pattern or practice is abusive or represents a threat to the health and safety of Medicare beneficiaries or both. In making this determination, CMS considers the following factors:
 
@@ -204,6 +202,34 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (ix) Any other information that CMS deems relevant to its determination.
 
+(22) *Patient harm.* (i) The physician or other eligible professional (as that term is defined in 1848(k)(3)(B) of the Act) has been subject to prior action from a State oversight board, Federal or State health care program, Independent Review Organization (IRO) determination(s), or any other equivalent governmental body or program that oversees, regulates, or administers the provision of health care with underlying facts reflecting improper physician or other eligible professional conduct that led to patient harm. In determining whether a revocation is appropriate, CMS considers the following factors:
+
+(A) The nature of the patient harm.
+
+(B) The nature of the physician's or other eligible professional's conduct.
+
+(C) The number and type(s) of sanctions or disciplinary actions that have been imposed against the physician or other eligible professional by the State oversight board, IRO, Federal or State health care program, or any other equivalent governmental body or program that oversees, regulates, or administers the provision of health care. Such actions include, but are not limited to in scope or degree:
+
+(*1*) License restriction(s) pertaining to certain procedures or practices.
+
+(*2*) Required compliance appearances before State medical board members.
+
+(*3*) License restriction(s) regarding the ability to treat certain types of patients (for example, cannot be alone with members of a different gender after a sexual offense charge).
+
+(*4*) Administrative or monetary penalties.
+
+(*5*) Formal reprimand(s).
+
+(D) If applicable, the nature of the IRO determination(s).
+
+(E) The number of patients impacted by the physician's or other eligible professional's conduct and the degree of harm thereto or impact upon.
+
+(ii) Paragraph (a)(22)(i) of this section does not apply to actions or orders pertaining exclusively to either of the following:
+
+(A) Required participation in rehabilitation or mental/behavioral health programs; or
+
+(B) Required abstinence from drugs or alcohol and random drug testing.
+
 (b) *Effect of revocation on provider agreements.* When a provider's or supplier's billing privilege is revoked, any provider agreement in effect at the time of revocation is terminated effective with the date of revocation.
 
 (c) *Reapplying after revocation.* (1) After a provider or supplier has had their enrollment revoked, they are barred from participating in the Medicare program from the effective date of the revocation until the end of the reenrollment bar. The reenrollment bar -
@@ -280,4 +306,4 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (2) A revocation under paragraph (j)(1) of this section is effective the day before the Medicare contractor receives the provider's or supplier's Form CMS-855 voluntary termination application.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019]
+[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019; 84 FR 63204, Nov. 15, 2019]

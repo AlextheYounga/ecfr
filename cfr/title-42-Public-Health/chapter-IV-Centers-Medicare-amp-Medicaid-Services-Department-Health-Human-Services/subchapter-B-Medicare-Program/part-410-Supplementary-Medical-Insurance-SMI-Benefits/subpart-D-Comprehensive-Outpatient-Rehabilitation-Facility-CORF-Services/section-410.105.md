@@ -1,7 +1,5 @@
 ##### § 410.105 Requirements for coverage of CORF services. #####
 
-Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
-
 Services specified in § 410.100 and not excluded under § 410.102 are covered as CORF services if they are furnished by a participating CORF (that is, a CORF that meets the conditions of subpart B of part 485 of this chapter, and has in effect a provider agreement under part 489 of this chapter) and if the following requirements are met:
 
 (a) *Referral and medical history.* The services must be furnished to an individual who is referred by a physician who certifies that the individual needs skilled rehabilitation services, and makes the following information available to the CORF before or at the time treatment is begun:
@@ -32,4 +30,16 @@ Services specified in § 410.100 and not excluded under § 410.102 are covered a
 
 (3) The reviewing physician must certify or recertify that the plan is being followed, the patient is making progress in attaining the rehabilitation goals, and the treatment is having no harmful effects on the patient.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8841, Mar. 1, 1991; 72 FR 66400, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018]
+(d) *Claims.* Effective for dates of service on and after January 1, 2020 physical therapy or occupational therapy services covered as part of a rehabilitation plan of treatment described in paragraph (c) of this section, as applicable -
+
+(1) Claims for such services furnished in whole or in part by a physical therapist assistant or an occupational therapy assistant must be identified with the inclusion of the respective prescribed modifier; and
+
+(2) Effective for dates of service on and after January 1, 2022, such claims are paid an amount equal to 85 percent of the amount of payment otherwise applicable for the service as defined at section 1834(k) of the Act.
+
+(3) For purposes of this paragraph, “furnished in whole or in part” means when the physical therapist assistant or occupational therapy assistant either -
+
+(i) Furnishes all the minutes of a service exclusive of the respective physical therapist or occupational therapist; or
+
+(ii) Furnishes a portion of a service separately from the part furnished by the physical or occupational therapist such that the minutes for that portion of a service exceed 10 percent of the total time for that service.
+
+[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8841, Mar. 1, 1991; 72 FR 66400, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 84 FR 63191, Nov. 15, 2019]

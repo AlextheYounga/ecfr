@@ -1,7 +1,5 @@
 ##### § 409.44 Skilled services requirements. #####
 
-Link to an amendment published at 84 FR 60642, Nov. 8, 2019.
-
 (a) *General.* The Medicare Administrative Contractor's decision on whether care is reasonable and necessary is based on information provided on the forms and in the medical record concerning the unique medical condition of the individual beneficiary. A coverage denial is not made solely on the basis of the reviewer's general inferences about patients with similar diagnoses or on data related to utilization generally but is based upon objective clinical evidence regarding the beneficiary's individual need for care.
 
 (b) *Skilled nursing care.* (1) Skilled nursing care consists of those services that must, under State law, be performed by a registered nurse, or practical (vocational) nurse, as defined in § 484.115 of this chapter, meet the criteria for skilled nursing services specified in § 409.32, and meet the qualifications for coverage of skilled services specified in § 409.42(c). See § 409.33(a) and (b) for a description of skilled nursing services and examples of them.
@@ -88,7 +86,11 @@ Link to an amendment published at 84 FR 60642, Nov. 8, 2019.
 
 (*2*) The maintenance program must be established by a qualified therapist (and not an assistant).
 
-(C) The unique clinical condition of a patient may require the specialized skills of a qualified therapist to perform a safe and effective maintenance program required in connection with the patient's specific illness or injury. Where the clinical condition of the patient is such that the complexity of the therapy services required to maintain function involve the use of complex and sophisticated therapy procedures to be delivered by the therapist himself/herself (and not an assistant) or the clinical condition of the patient is such that the complexity of the therapy services required to maintain function must be delivered by the therapist himself/herself (and not an assistant) in order to ensure the patient's safety and to provide an effective maintenance program, then those reasonable and necessary services shall be covered.
+(C) The unique clinical condition of a patient may require the specialized skills of a qualified therapist or therapist assistant to perform a safe and effective maintenance program required in connection with the patient's specific illness or injury. Where the clinical condition of the patient is such that the complexity of the therapy services required -
+
+(*1*) Involve the use of complex and sophisticated therapy procedures to be delivered by the therapist or the therapist assistant in order to maintain function or to prevent or slow further deterioration of function; or
+
+(*2*) To maintain function or to prevent or slow further deterioration of function must be delivered by the therapist or the therapist assistant in order to ensure the patient's safety and to provide an effective maintenance program, then those reasonable and necessary services must be covered.
 
 (iv) The amount, frequency, and duration of the services must be reasonable and necessary, as determined by a qualified therapist and/or physician, using accepted standards of clinical practice.
 
@@ -100,4 +102,4 @@ Link to an amendment published at 84 FR 60642, Nov. 8, 2019.
 
 (*2*) Maintenance therapy as described in § 409.44(c)(2)(iii)(B) or (C) is needed.
 
-[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014; 82 FR 4578, Jan. 13, 2017]
+[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014; 82 FR 4578, Jan. 13, 2017; 84 FR 60642, Nov. 8, 2019]

@@ -1,7 +1,5 @@
 ##### § 414.605 Definitions. #####
 
-Link to an amendment published at 84 FR 63193, November 15, 2019.
-
 As used in this subpart, the following definitions apply to both land and water (hereafter collectively referred to as “ground”) ambulance services and to air ambulance services unless otherwise specified:
 
 *Advanced life support (ALS) assessment* is an assessment performed by an ALS crew as part of an emergency response that was necessary because the patient's reported condition at the time of dispatch was such that only an ALS crew was qualified to perform the assessment. An ALS assessment does not necessarily result in a determination that the patient requires an ALS level of service.
@@ -38,9 +36,11 @@ As used in this subpart, the following definitions apply to both land and water 
 
 *Geographic adjustment factor (GAF)* means the practice expense (PE) portion of the geographic practice cost index (GPCI) from the physician fee schedule as applied to a percentage of the base rate. For ground ambulance services, the PE portion of the GPCI is applied to 70 percent of the base rate for each level of service. For air ambulance services, the PE portion of the GPCI is applied to 50 percent of the applicable base rate.
 
+*Ground ambulance organization* means a Medicare provider or supplier of ground ambulance services.
+
 *Loaded mileage* means the number of miles the Medicare beneficiary is transported in the ambulance vehicle.
 
-*Paramedic ALS intercept (PI)* means EMT-Paramedic services furnished by an entity that does not furnish the ground ambulance transport, provided the services meet the requirements specified in § 410.40(c) of this chapter.
+*Paramedic ALS intercept (PI)* means EMT-Paramedic services furnished by an entity that does not furnish the ground ambulance transport, provided the services meet the requirements specified in § 410.40(d) of this chapter.
 
 *Point of pick-up* means the location of the beneficiary at the time he or she is placed on board the ambulance.
 
@@ -56,4 +56,4 @@ As used in this subpart, the following definitions apply to both land and water 
 
 *Urban area* means a Metropolitan Statistical Area, as defined by the Executive Office of Management and Budget.
 
-[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 71 FR 69787, Dec. 1, 2006; 80 FR 71382, Nov. 16, 2015]
+[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 71 FR 69787, Dec. 1, 2006; 80 FR 71382, Nov. 16, 2015; 84 FR 63193, Nov. 15, 2019]

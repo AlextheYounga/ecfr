@@ -1,7 +1,5 @@
 ##### § 206.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
-
 As used in this part, unless the context requires otherwise:
 
 (a) *Bank* means an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), and includes an insured national bank, state bank, District bank, or savings association, and an insured branch of a foreign bank.
@@ -28,8 +26,8 @@ As used in this part, unless the context requires otherwise:
 
 (f) *Primary federal supervisor* has the same meaning as the term “appropriate Federal banking agency” in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
 
-(g) *Total capital* means the total of a bank's Tier 1 and Tier 2 capital under the risk-based capital guidelines provided by the bank's primary federal supervisor. For an insured branch of a foreign bank organized under the laws of a country that subscribes to the principles of the Basel Capital Accord, “total capital” means total Tier 1 and Tier 2 capital as calculated under the standards of that country. For an insured branch of a foreign bank organized under the laws of a country that does not subscribe to the principles of the Basel Capital Accord, “total capital” means total Tier 1 and Tier 2 capital as calculated under the provisions of the Accord.
+(g) *Total capital* means the total of a bank's Tier 1 and Tier 2 capital under the risk-based capital guidelines provided by the bank's primary federal supervisor. For a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), total capital means the bank's Tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter). For an insured branch of a foreign bank organized under the laws of a country that subscribes to the principles of the Basel Capital Accord, “total capital” means total Tier 1 and Tier 2 capital as calculated under the standards of that country. For an insured branch of a foreign bank organized under the laws of a country that does not subscribe to the principles of the Basel Capital Accord (Accord), “total capital” means total Tier 1 and Tier 2 capital as calculated under the provisions of the Accord.
 
 (h) *U.S. depository institution* means a bank, as defined in § 206.2(a) of this part, other than an insured branch of a foreign bank.
 
-[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003]
+[Reg. F, 57 FR 60106, Dec. 18, 1992, as amended by Reg. F, 68 FR 53283, Sept. 10, 2003; 84 FR 61796, Nov. 13, 2019]

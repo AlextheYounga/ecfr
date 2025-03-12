@@ -1,7 +1,5 @@
 ##### § 5.58 Pass-through investments by a Federal savings association. #####
 
-Link to an amendment published at 84 FR 61794, Nov. 13, 2019.Link to an amendment published at 84 FR 69297, Dec. 18, 2019.
-
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1828, 5412(b)(2)(B).
 
 (b) *Scope.* Federal savings associations are permitted to make various types of equity investments pursuant to 12 U.S.C. 1464 and other statutes, including pass-through investments authorized under 12 CFR 160.32(a). These investments are in addition to those subject to §§ 5.35, 5.37, 5.38, and 5.59. This section describes the procedure governing the filing of the application or notice that the OCC requires in connection with certain of these investments. The OCC may review other permissible equity investments on a case-by-case basis.
@@ -50,9 +48,9 @@ Link to an amendment published at 84 FR 61794, Nov. 13, 2019.Link to an amendmen
 
 (1) The investment is in an investment company the portfolio of which consists exclusively of assets that the Federal savings association may hold directly;
 
-(2) The Federal savings association is not investing more than 10 percent of its total capital in one company;
+(2) The Federal savings association is not investing more than 10 percent of its total capital (or, in the case of a Federal savings association that is a qualifying community banking organization that has elected to use the community bank leverage ratio framework, 10 percent of its tier 1 capital, as used under § 3.12 of this chapter) in one company;
 
-(3) The book value of the Federal savings association's aggregate non-controlling investments does not exceed 25 percent of its total capital after making the investment;
+(3) The book value of the Federal savings association's aggregate non-controlling investments does not exceed 25 percent of its total capital (or, in the case of a Federal savings association that is a qualifying community banking organization that has elected to use the community bank leverage ratio framework, 25 percent of its tier 1 capital, as used under § 3.12 of this chapter) after making the investment;
 
 (4) The investment would not give Federal savings association direct or indirect control of the company; and
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 61794, Nov. 13, 2019.Link to an amendmen
 
 (i) *Exceptions to rules of general applicability.* Sections 5.8, 5.9, 5.10, and 5.11 of this part do not apply to filings for pass-through investments.
 
-[80 FR 28466, May 18, 2015]
+[80 FR 28466, May 18, 2015, as amended at 84 FR 61794, Nov. 13, 2019; 84 FR 69297, Dec. 18, 2019]

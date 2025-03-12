@@ -1,7 +1,5 @@
 ##### § 160.3 Definitions. #####
 
-Link to an amendment published at 84 FR 61795, Nov. 13, 2019.
-
 For purposes of this part and any determination under 12 U.S.C. 1467a(m):
 
 *Consumer loans* include loans for personal, family, or household purposes and loans reasonably incident thereto, and may be made as either open-end or closed-end consumer credit (as defined at 12 CFR 226.2(a)(10) and (20)). Consumer loans do not include credit extended in connection with credit card loans, bona fide overdraft loans, and other loans that the savings association has designated as made under investment or lending authority other than section 5(c)(2)(D) of the HOLA.
@@ -30,4 +28,10 @@ For purposes of this part and any determination under 12 U.S.C. 1467a(m):
 
 *Small business loans* and *loans to small businesses* include any loan to a small business as defined in this section; or a loan that does not exceed $2 million (including a group of loans to one borrower) and is for commercial, corporate, business, or agricultural purposes.
 
-[76 FR 49030, Aug. 9, 2011, as amended at 77 FR 35258, June 13, 2012]
+*Total capital* means:
+
+(1) For a qualifying community banking organization that has elected to use the community bank leverage ratio framework, as set forth under the OCC's Capital Adequacy Standards at part 3 of this chapter, total capital refers to the qualifying community banking organization's tier 1 capital, as used under § 3.12(b)(2) of this chapter;
+
+(2) For all other Federal savings associations, total capital means the sum of tier 1 capital and tier 2 capital, as calculated under part 3 of this chapter.
+
+[76 FR 49030, Aug. 9, 2011, as amended at 77 FR 35258, June 13, 2012; 84 FR 61795, Nov. 13, 2019]

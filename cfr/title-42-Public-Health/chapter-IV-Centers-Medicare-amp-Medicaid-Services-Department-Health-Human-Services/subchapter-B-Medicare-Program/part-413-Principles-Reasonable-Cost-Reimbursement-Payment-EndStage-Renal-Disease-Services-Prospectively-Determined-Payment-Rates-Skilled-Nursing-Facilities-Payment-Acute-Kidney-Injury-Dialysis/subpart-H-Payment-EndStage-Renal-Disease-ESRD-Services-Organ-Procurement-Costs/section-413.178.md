@@ -1,7 +1,5 @@
 ##### § 413.178 ESRD quality incentive program. #####
 
-Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold* means the 15th percentile of national ESRD facility performance on a clinical measure during the baseline period for a payment year.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
 
 (3) *Benchmark* means, with respect to a payment year, the 90th percentile of national ESRD facility performance on a clinical measure during the baseline period that applies to the measure for that payment year.
 
-(4) *Clinical measure* means a measure that is scored for a payment year using the methodology described in paragraphs (d)(1)(i) through (v) of this section.
+(4) *Clinical measure* means a measure that is scored for a payment year using the methodology described in paragraphs (e)(1)(i) through (v) of this section.
 
 (5) *End-Stage Renal Disease (ESRD) Quality Incentive Program (QIP)* means the program authorized under section 1881(h) of the Social Security Act.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
 
 (12) *Performance standards* are, for a clinical measure, the performance levels used to award points to an ESRD facility based on its performance on the measure, and are, for a reporting measure, the levels of data submission and completion of other actions specified by CMS that are used to award points to an ESRD facility on the measure.
 
-(13) *Reporting measure* means a measure that is scored for a payment year using the methodology described in paragraph (d)(1)(vi) of this section.
+(13) *Reporting measure* means a measure that is scored for a payment year using the methodology described in paragraph (e)(1)(vi) of this section.
 
 (14) *Total performance score (TPS)* means the numeric score ranging from 0 to 100 awarded to each ESRD facility based on its performance under the ESRD QIP with respect to a payment year.
 
@@ -46,7 +44,41 @@ Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
 
 (5) Beginning with the 2016 payment year, measures specific to the conditions treated with oral-only drugs and that are, to the extent feasible, outcomes-based.
 
-(d) *Performance scoring under the ESRD QIP.* (1) CMS will award points to an ESRD facility based on its performance on each clinical measure for which the ESRD facility reports the applicable minimum number of cases during the performance period for a payment year, and based on the degree to which the ESRD facility submits data and completes other actions specified by CMS for a reporting measure during the performance period for a payment year.
+(d) *Data submission requirement.* (1) Except as provided in paragraph (d)(3) and (4) of this section, and for a payment year, facilities must submit to CMS data on each measure specified by CMS under paragraph (c) of this section. Facilities must submit these data in the form, manner, and at a time specified by CMS.
+
+(2) For purposes of paragraph (d)(1) of this section, the baseline period that applies to the 2023 payment year is calendar year 2019 for purposes of calculating the achievement threshold, benchmark and minimum total performance score, and calendar year 2020 for purposes of calculating the improvement threshold, and the performance period that applies to the 2023 payment year is calendar year 2021. Beginning with the 2024 payment year, the performance period and corresponding baseline periods are each advanced 1 year for each successive payment year.
+
+(3) A facility may request and CMS may grant exceptions to the reporting requirements under paragraph (d)(1) of this section for one or more calendar days, when there are certain extraordinary circumstances beyond the control of the facility.
+
+(4) A facility may request an exception within 90 days of the date that the extraordinary circumstances occurred by submitting the Extraordinary Circumstances Exception request form, which is available on the QualityNet website (*https://www.qualitynet.org/*), to CMS via email to the ESRD QIP mailbox at *ESRDQIP@cms.hhs.gov.* Facilities must provide the following information on the form:
+
+(i) Facility CCN.
+
+(ii) Facility name.
+
+(iii) CEO name and contact information.
+
+(iv) Additional contact name and contact information.
+
+(v) Reason for requesting an exception.
+
+(vi) Dates affected.
+
+(vii) Date the facility will start submitting data again, with justification for this date.
+
+(viii) Evidence of the impact of the extraordinary circumstances, including but not limited to photographs, newspaper, and other media articles.
+
+(5) CMS will not consider an exception request unless the facility requesting such exception has complied with the requirements in paragraph (d)(4) of this section.
+
+(6) CMS may grant exceptions to facilities without a request if it determines that one or more of the following has occurred:
+
+(i) An extraordinary circumstance affects an entire region or locale.
+
+(ii) An unresolved issue with a CMS data system affected the ability of a facility to submit data in accordance with paragraph (d)(1) of this section and CMS was unable to provide the facility with an alternative method of data submission.
+
+(7) A facility that has been granted an exception to the data submission requirements under paragraph (d)(6) of this section may notify CMS that it will continue to submit data under paragraph (d)(1) of this section by sending an email signed by the CEO or another designated contact to the ESRD QIP mailbox at *ESRDQIP@cms.hhs.gov.* Upon receipt of an email under this clause, CMS will notify the facility in writing that CMS is withdrawing the exception it previously granted to the facility.
+
+(e) *Performance scoring under the ESRD QIP.* (1) CMS will award points to an ESRD facility based on its performance on each clinical measure for which the ESRD facility reports the applicable minimum number of cases during the performance period for a payment year, and based on the degree to which the ESRD facility submits data and completes other actions specified by CMS for a reporting measure during the performance period for a payment year.
 
 (i) CMS will award from 1 to 9 points for achievement on a clinical measure to each ESRD facility whose performance on that measure during the applicable performance period meets or exceeds the achievement threshold but is less than the benchmark specified for that measure.
 
@@ -62,19 +94,19 @@ Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
 
 (2) CMS calculates the TPS for an ESRD facility for a payment year as follows:
 
-(i) CMS calculates a domain score for each domain based on the total number of points the ESRD facility has earned under paragraph (d)(1) of this section for each measure in the domain and the weight that CMS has assigned to each measure.
+(i) CMS calculates a domain score for each domain based on the total number of points the ESRD facility has earned under paragraph (e)(1) of this section for each measure in the domain and the weight that CMS has assigned to each measure.
 
 (ii) CMS weights each domain score in accordance with the domain weight that CMS has established for the payment year.
 
 (iii) The sum of the weighted domain scores is the ESRD facility's TPS for the payment year.
 
-(e) *Public availability of ESRD QIP performance information.* (1) CMS will make information available to the public regarding the performance of each ESRD facility under the ESRD QIP on the Dialysis Facility Compare website, including the facility's TPS and scores on individual measures.
+(f) *Public availability of ESRD QIP performance information.* (1) CMS will make information available to the public regarding the performance of each ESRD facility under the ESRD QIP on the Dialysis Facility Compare website, including the facility's TPS and scores on individual measures.
 
-(2) Prior to making the information described in paragraph (e)(1) of this section available to the public, CMS will provide ESRD facilities with an opportunity to review that information, technical assistance to help them understand how their performance under the ESRD QIP was scored, and an opportunity to request and receive responses to questions that they have about the ESRD QIP.
+(2) Prior to making the information described in paragraph (f)(1) of this section available to the public, CMS will provide ESRD facilities with an opportunity to review that information, technical assistance to help them understand how their performance under the ESRD QIP was scored, and an opportunity to request and receive responses to questions that they have about the ESRD QIP.
 
 (3) CMS will provide each ESRD facility with a performance score certificate on an annual basis that describes the TPS achieved by the facility with respect to a payment year. The performance score certificate must be posted by the ESRD facility within 15 business days of the date that CMS issues the certificate to the ESRD facility, with the content unaltered, in an area of the facility accessible to patients.
 
-(f) *Limitation on review.* There is no administrative or judicial review of the following:
+(g) *Limitation on review.* There is no administrative or judicial review of the following:
 
 (1) The determination of the amount of the payment reduction under section 1881(h)(1) of the Act.
 
@@ -84,4 +116,4 @@ Link to an amendment published at 84 FR 60802, Nov. 8, 2019.
 
 (4) The establishment of the performance standards and the performance period under section 1881(h)(4) of the Act.
 
-[83 FR 57068, Nov. 14, 2018]
+[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019]

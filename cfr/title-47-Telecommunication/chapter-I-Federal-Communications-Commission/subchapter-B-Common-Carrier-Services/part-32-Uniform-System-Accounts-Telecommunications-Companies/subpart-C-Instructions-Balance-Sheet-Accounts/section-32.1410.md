@@ -1,7 +1,5 @@
 ##### § 32.1410 Other noncurrent assets. #####
 
-Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
-
 (a) This account shall include the acquisition cost of the company's investment in equity or other securities issued or assumed by affiliated companies, including securities held in special funds (sinking funds). The carrying value of the investment (securities) accounted for on the equity method shall be adjusted to recognize the company's share of the earnings or losses and dividends received or receivable of the affiliated company from the date of acquisition. (Note also Account 1170, Receivables, and Account 7300, Nonoperating income and expense.)
 
 (b) This account shall include the acquisition cost of the Company's investment in securities issued or assumed by nonaffiliated companies and individuals, and also its investment advances to such parties and special deposits of cash for more than one year from date of deposit.
@@ -24,4 +22,18 @@ Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
 
 (k) Subsidiary record categories shall be maintained in order that the entity may separately report the amounts contained herein that relate to the equity method and the cost method. Such subsidiary record categories shall be reported as required by part 43 of this chapter.
 
-[67 FR 5682, Feb. 6, 2002]
+(l) This account shall include property subject to a lessee operating lease longer than one year.
+
+(1) An operating lease is a contract, or part of a contract, that conveys the right to control the use of identified property, plant and equipment (an identified asset) for a period of time in exchange for consideration.
+
+(2) The amounts recorded in this account at the inception of an operating lease shall be equal to the present value not to exceed fair value, at the beginning of the lease term, of minimum lease payments during the lease term, excluding that portion of the payments representing executory costs to be paid by the lessor, together with any profit thereon. Amounts subject to current treatment shall be included in Account 1350, Other current assets.
+
+(3) Any balance in this account relating to capitalized operating leases shall be excluded in any ratemaking calculations.
+
+(m) This account shall include the amount of lessor receivables from an operating lease longer than one year.
+
+(1) The amount recorded in this account at the inception of an operating lease shall be equal to the present value not to exceed fair value, at the beginning of the lease term, of minimum lease payments during the lease term, excluding that portion of the payments representing executory costs to be paid by the lessee, together with any profit thereon. Amounts subject to current settlement shall be included in Account 1350, Other current assets.
+
+(2) Any balance in this account relating to receivables associated with capitalized operating leases shall be excluded in any ratemaking calculations.
+
+[67 FR 5682, Feb. 6, 2002, as amended at 84 FR 4729, Feb. 19, 2019]

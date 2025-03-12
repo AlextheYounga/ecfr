@@ -1,7 +1,5 @@
 ##### § 351.12 Permitted investment in a covered fund. #####
 
-Link to an amendment published at 84 FR 62172, Nov. 14, 2019.
-
 (a) *Authority and limitations on permitted investments in covered funds.* (1) Notwithstanding the prohibition contained in § 351.10(a) of this subpart, a banking entity may acquire and retain an ownership interest in a covered fund that the banking entity or an affiliate thereof organizes and offers pursuant to § 351.11, for the purposes of:
 
 (i) *Establishment.* Establishing the fund and providing the fund with sufficient initial equity for investment to permit the fund to attract unaffiliated investors, subject to the limits contained in paragraphs (a)(2)(i) and (iii) of this section; or
@@ -108,7 +106,7 @@ Link to an amendment published at 84 FR 62172, Nov. 14, 2019.
 
 (vi) Whether the investment or the divestiture or conformance of the investment would involve or result in a material conflict of interest between the banking entity and unaffiliated parties, including clients, customers or counterparties to which it owes a duty;
 
-(vi) The banking entity's prior efforts to reduce through redemption, sale, dilution, or other methods its ownership interests in the covered fund, including activities related to the marketing of interests in such covered fund;
+(vii) The banking entity's prior efforts to reduce through redemption, sale, dilution, or other methods its ownership interests in the covered fund, including activities related to the marketing of interests in such covered fund;
 
 (viii) Market conditions; and
 
@@ -117,3 +115,5 @@ Link to an amendment published at 84 FR 62172, Nov. 14, 2019.
 (3) *Authority to impose restrictions on activities or investment during any extension period.* The Board may impose such conditions on any extension approved under paragraph (e)(1) of this section as the Board determines are necessary or appropriate to protect the safety and soundness of the banking entity or the financial stability of the United States, address material conflicts of interest or other unsound banking practices, or otherwise further the purposes of section 13 of the BHC Act and this part.
 
 (4) *Consultation.* In the case of a banking entity that is primarily regulated by another Federal banking agency, the SEC, or the CFTC, the Board will consult with such agency prior to acting on an application by the banking entity for an extension under paragraph (e)(1) of this section.
+
+[79 FR 5805, Jan. 31, 2014, as amended at 84 FR 62172, Nov. 14, 2019]

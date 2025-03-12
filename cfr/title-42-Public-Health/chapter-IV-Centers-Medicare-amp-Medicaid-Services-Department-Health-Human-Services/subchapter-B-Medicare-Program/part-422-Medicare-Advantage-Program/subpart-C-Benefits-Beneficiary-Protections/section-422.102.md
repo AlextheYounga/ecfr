@@ -1,7 +1,5 @@
 ##### § 422.102 Supplemental benefits. #####
 
-Link to an amendment published at 84 FR 15828, April 16, 2019.
-
 (a) *Mandatory supplemental benefits.* (1) Subject to CMS approval, an MA organization may require Medicare enrollees of an MA plan (other than an MSA plan) to accept or pay for services in addition to Medicare-covered services described in § 422.101.
 
 (2) If the MA organization imposes mandatory supplemental benefits, it must impose them on all Medicare beneficiaries enrolled in the MA plan.
@@ -16,10 +14,10 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (d) *Supplemental benefits packaging.* MA organizations may offer enrollees a group of services as one optional supplemental benefit, offer services individually, or offer a combination of groups and individual services.
 
-(e) *Supplemental benefits for certain dual eligible special needs plans.* Subject to CMS approval, dual eligible special needs plans that meet a high standard of integration and minimum performance and quality-based standards may offer additional supplemental benefits, consistent with the requirements of this part, where CMS finds that the offering of such benefits could better integrate care for the dual eligible population provided that the special needs plan -
+(e) *Supplemental benefits for certain dual eligible special needs plans.* Subject to CMS approval, fully integrated dual eligible special needs plans and highly integrated dual eligible special needs plans that meet minimum performance and quality-based standards may offer additional supplemental benefits, consistent with the requirements of this part, where CMS finds that the offering of such benefits could better integrate care for the dual eligible population provided that the special needs plan -
 
 (1) Operated in the MA contract year prior to the MA contract year for which it is submitting its bid; and
 
 (2) Offers its enrollees such benefits without cost-sharing or additional premium charges.
 
-[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018]
+[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]

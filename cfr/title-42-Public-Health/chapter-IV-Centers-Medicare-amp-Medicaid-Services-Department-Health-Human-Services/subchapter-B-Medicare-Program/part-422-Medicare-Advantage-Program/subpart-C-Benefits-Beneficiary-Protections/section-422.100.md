@@ -1,8 +1,6 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 84 FR 15828, April 16, 2019.
-
-(a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c) of this section (and, to the extent applicable, the benefits described in § 422.102) by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of § 422.100(g) and the requirements in subpart G of this part.
+(a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (c) *Types of benefits.* An MA plan includes at a minimum basic benefits, and also may include mandatory and optional supplemental benefits.
 
-(1) Basic benefits are all Medicare-covered services, except hospice services.
+(1) Basic benefits are all items and services (other than hospice care or coverage for organ acquisitions for kidney transplants) for which benefits are available under parts A and B of Medicare, including additional telehealth benefits offered consistent with the requirements at § 422.135.
 
 (2) Supplemental benefits, which consist of -
 
@@ -138,4 +136,4 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (iii) Provide the information described in paragraphs (m)(1), (2), (3), and (4)(i) of this section on its Web site.
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018]
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]

@@ -1,7 +1,5 @@
 ##### § 410.49 Cardiac rehabilitation program and intensive cardiac rehabilitation program: Conditions of coverage. #####
 
-Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
-
 (a) *Definitions.* As used in this section:
 
 *Cardiac rehabilitation* (CR) means a physician-supervised program that furnishes physician prescribed exercise, cardiac risk factor modification, psychosocial assessment, and outcomes assessment.
@@ -48,7 +46,9 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 
 (vi) A heart or heart-lung transplant.
 
-(vii) For cardiac rehabilitation only, other cardiac conditions as specified through a national coverage determination.
+(vii) Stable, chronic heart failure defined as patients with left ventricular ejection fraction of 35 percent or less and New York Heart Association (NYHA) class II to IV symptoms despite being on optimal heart failure therapy for at least 6 weeks, on or after February 18, 2014 for cardiac rehabilitation and on or after February 9, 2018 for intensive cardiac rehabilitation; or
+
+(viii) Other cardiac conditions as specified through a national coverage determination (NCD). The NCD process may also be used to specify non-coverage of a cardiac condition for ICR if coverage is not supported by clinical evidence.
 
 (2) *Components of a cardiac rehabilitation program and an intensive cardiac rehabilitation program.* Cardiac rehabilitation programs and intensive cardiac rehabilitation programs must include all of the following:
 
@@ -116,4 +116,4 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 
 (2) *Intensive Cardiac Rehabilitation:* Intensive cardiac rehabilitation program sessions are limited to 72 1-hour sessions (as defined in section 1848(b)(5) of the Act), up to 6 sessions per day, over a period of up to 18 weeks.
 
-[74 FR 62003, Nov. 25, 2009]
+[74 FR 62003, Nov. 25, 2009, as amended at 84 FR 63188, Nov. 15, 2019]

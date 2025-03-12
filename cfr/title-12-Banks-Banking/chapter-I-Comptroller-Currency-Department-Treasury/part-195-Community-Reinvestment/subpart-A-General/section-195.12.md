@@ -1,7 +1,5 @@
 ##### § 195.12 Definitions. #####
 
-Link to an amendment published at 84 FR 71740, Dec. 30, 2019.
-
 For purposes of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
@@ -102,7 +100,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small savings association* - (1) *Definition.**Small savings association* means a savings association that, as of December 31 of either of the prior two calendar years, had assets of less than $1.284 billion. *Intermediate small savings association* means a small savings association with assets of at least $321 million as of December 31 of both of the prior two calendar years and less than $1.284 billion as of December 31 of either of the prior two calendar years.
+(u) *Small savings association* - (1) *Definition. Small savings association* means a savings association that, as of December 31 of either of the prior two calendar years, had assets of less than $1.305 billion. *Intermediate small savings association* means a small savings association with assets of at least $326 million as of December 31 of both of the prior two calendar years and less than $1.305 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the OCC based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
@@ -112,4 +110,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale savings association* means a savings association that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale savings association is in effect, in accordance with § 195.25(b).
 
-[76 FR 49179, Aug. 9, 2011, as amended at 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 80 FR 81164, Dec. 29, 2015; 82 FR 55742, Nov. 24, 2017; 83 FR 66603, Dec. 27, 2018]
+[76 FR 49179, Aug. 9, 2011, as amended at 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 80 FR 81164, Dec. 29, 2015; 82 FR 55742, Nov. 24, 2017; 83 FR 66603, Dec. 27, 2018; 84 FR 71740, Dec. 30, 2019]

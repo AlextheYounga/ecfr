@@ -1,7 +1,5 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 84 FR 63194, November 15, 2019.
-
 As used in this section, unless otherwise indicated -
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
@@ -11,6 +9,28 @@ As used in this section, unless otherwise indicated -
 *Affiliated practitioner* means an eligible clinician identified by a unique APM participant identifier on a CMS-maintained list who has a contractual relationship with the APM Entity for the purposes of supporting the APM Entity's quality or cost goals under the Advanced APM.
 
 *Affiliated practitioner list* means the list of Affiliated Practitioners of an APM Entity that is compiled from a CMS-maintained list.
+
+*Aligned Other Payer Medical Home Model* means an aligned other payer payment arrangement (not including a Medicaid payment arrangement) operated by a payer formally partnering in a CMS Multi-Payer Model that is a Medical Home Model through a written expression of alignment and cooperation, such as a memorandum of understanding (MOU) with CMS, and is determined by CMS to have the following characteristics:
+
+(1) The other payer payment arrangement has a primary care focus with participants that primarily include primary care practices or multispecialty practices that include primary care physicians and practitioners and offer primary care services. For the purposes of this provision, primary care focus means the inclusion of specific design elements related to eligible clinicians practicing under one or more of the following Physician Specialty Codes: 01 General Practice; 08 Family Medicine; 11 Internal Medicine; 16 Obstetrics and Gynecology; 37 Pediatric Medicine; 38 Geriatric Medicine; 50 Nurse Practitioner; 89 Clinical Nurse Specialist; and 97 Physician Assistant;
+
+(2) Empanelment of each patient to a primary clinician; and
+
+(3) At least four of the following:
+
+(i) Planned coordination of chronic and preventive care.
+
+(ii) Patient access and continuity of care.
+
+(iii) Risk-stratified care management.
+
+(iv) Coordination of care across the medical neighborhood.
+
+(v) Patient and caregiver engagement.
+
+(vi) Shared decision-making.
+
+(vii) Payment arrangements in addition to, or substituting for, fee-for-service payments (for example, shared savings or population-based payments).
 
 *Alternative Payment Model (APM)* means any of the following:
 
@@ -218,7 +238,9 @@ As used in this section, unless otherwise indicated -
 
 (1) For the 2019 and 2020 MIPS payment years, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the Place of Service (POS) codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus-outpatient hospital, or emergency room setting based on claims for a period prior to the performance period as specified by CMS; and
 
-(2) Beginning with the 2021 MIPS payment year, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the POS codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus outpatient hospital, or emergency room setting based on claims for the MIPS determination period.
+(2) For the 2021 MIPS payment year, a MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the POS codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus outpatient hospital, or emergency room setting based on claims for the MIPS determination period; and
+
+(3) Beginning with the 2022 MIPS payment year, an individual MIPS eligible clinician who furnishes 75 percent or more of his or her covered professional services in sites of service identified by the POS codes used in the HIPAA standard transaction as an inpatient hospital, on-campus outpatient hospital, off campus outpatient hospital, or emergency room setting based on claims for the MIPS determination period, and a group or virtual group provided that more than 75 percent of the NPIs billing under the group's TIN or virtual group's TINs, as applicable, meet the definition of a hospital-based individual MIPS eligible clinician during the MIPS determination period.
 
 *Improvement activities* means an activity that relevant MIPS eligible clinician, organizations and other relevant stakeholders identify as improving clinical practice or care delivery and that the Secretary determines, when effectively executed, is likely to result in improved outcomes.
 
@@ -334,6 +356,8 @@ As used in this section, unless otherwise indicated -
 
 *MIPS payment year* means a calendar year in which the MIPS payment adjustment factor, and if applicable the additional MIPS payment adjustment factor, are applied to Medicare Part B payments.
 
+*MIPS Value Pathway* means a subset of measures and activities established through rulemaking.
+
 *New Medicare-Enrolled MIPS eligible clinician* means an eligible clinician who first becomes a Medicare-enrolled eligible clinician within the Provider Enrollment, Chain and Ownership System (PECOS) during the performance period for a year and had not previously submitted claims under Medicare as an individual, an entity, or a part of a physician group or under a different billing number or tax identifier.
 
 *Non-patient facing MIPS eligible clinician* means:
@@ -386,7 +410,7 @@ As used in this section, unless otherwise indicated -
 
 *Qualifying APM participant (QP)* means an eligible clinician determined by CMS to have met or exceeded the relevant QP payment amount or QP patient count threshold under § 414.1430(a)(1), (a)(3), (b)(1), or (b)(3) for a year based on participation in an APM Entity that is also participating in an Advanced APM.
 
-*Rural area* means a ZIP code designated as rural, using the most recent Health Resources and Services Administration (HRSA) Area Health Resource File data set available.
+*Rural area* means a ZIP code designated as rural by the Federal Office of Rural Health Policy (FORHP), using the most recent FORHP Eligible ZIP Code file available.
 
 *Small practice* means:
 
@@ -412,4 +436,4 @@ As used in this section, unless otherwise indicated -
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019]

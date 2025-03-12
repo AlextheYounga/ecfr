@@ -1,14 +1,16 @@
 ##### § 486.316 Re-certification and competition processes. #####
 
-Link to an amendment published at 84 FR 61492, Nov. 12, 2019.
-
 (a) *Re-Certification of OPOs.* An OPO is re-certified for an additional 4 years and its service area is not opened for competition when the OPO:
 
 (1) Meets two out of the three outcome measures requirements at § 486.318; and
 
 (2) Has been shown by survey to be in compliance with the requirements for certification at § 486.303, including the conditions for coverage at §§ 486.320 through 486.348.
 
-(b) *De-certification and competition.* If an OPO does not meet two out of the three outcome measures as described in paragraph (a)(1) of this section or the requirements described in paragraph (a)(2) of this section, the OPO is de-certified. If the OPO does not appeal or the OPO appeals and the reconsideration official and CMS hearing officer uphold the de-certification, the OPO's service area is opened for competition from other OPOs. The de-certified OPO is not permitted to compete for its open area or any other open area. An OPO competing for an open service area must submit information and data that describe the barriers in its service area, how they affected organ donation, what steps the OPO took to overcome them, and the results.
+(3) For the 2022 recertification cycle only, an OPO is recertified for an additional 4 years and its service area is not opened for competition when the OPO meets one out of the two outcome measure requirements described in § 486.318(a)(1) and (3) for OPOs not operating exclusively in the noncontiguous States, Commonwealths, Territories, or possessions; or § 486.318(b)(1) and (3) for OPOs operating exclusively in noncontiguous States, Commonwealths, Territories, and possessions. An OPO is not required to meet the second outcome measure described in § 486.318(a)(2) or (b)(2) for the 2022 recertification cycle.
+
+(b) *De-certification and competition.* (1) If an OPO does not meet two out of the three outcome measures as described in paragraph (a)(1) of this section or the requirements described in paragraph (a)(2) of this section, the OPO is de-certified. If the OPO does not appeal or the OPO appeals and the reconsideration official and CMS hearing officer uphold the de-certification, the OPO's service area is opened for competition from other OPOs. The de-certified OPO is not permitted to compete for its open area or any other open area. An OPO competing for an open service area must submit information and data that describe the barriers in its service area, how they affected organ donation, what steps the OPO took to overcome them, and the results.
+
+(2) For the 2022 recertification cycle only, if an OPO does not meet one of the outcome measures as described in paragraphs § 486.318(a)(1), (a)(3), (b)(1), or (b)(3), or the requirements described in paragraph (a)(2) of this section, the OPO is de-certified. If the OPO does not appeal or the OPO appeals and the reconsideration official and CMS hearing officer uphold the de-certification, the OPO's service area is opened for competition from other OPOs. The de-certified OPO is not permitted to compete for its open area or any other open area. An OPO competing for an open service area must submit information and data that describe the barriers in its service area, how they affected organ donation, what steps the OPO took to overcome them, and the results.
 
 (c) *Criteria to compete.* To compete for an open service area, an OPO must meet the criteria in paragraph (a) of this section and the following additional criteria:
 
@@ -30,4 +32,4 @@ Link to an amendment published at 84 FR 61492, Nov. 12, 2019.
 
 (e) *No OPO applies.* If no OPO applies to compete for a de-certified OPO's open area, CMS may select a single OPO to take over the entire open area or may adjust the service area boundaries of two or more contiguous OPOs to incorporate the open area. CMS will make its decision based on the criteria in paragraph (d) of this section.
 
-[71 FR 31046, May 31, 2006, as amended at 78 FR 75199, Dec. 10, 2013]
+[71 FR 31046, May 31, 2006, as amended at 78 FR 75199, Dec. 10, 2013; 84 FR 61492, Nov. 12, 2019]

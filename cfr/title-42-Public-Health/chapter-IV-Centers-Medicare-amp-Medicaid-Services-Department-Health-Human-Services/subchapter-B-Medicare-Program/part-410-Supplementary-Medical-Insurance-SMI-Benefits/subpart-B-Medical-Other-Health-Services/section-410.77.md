@@ -1,7 +1,5 @@
 ##### § 410.77 Certified nurse-midwives' services: Qualifications and conditions. #####
 
-Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
-
 (a) *Qualifications.* For Medicare coverage of his or her services, a certified nurse-midwife must:
 
 (1) Be a registered nurse who is legally authorized to practice as a nurse-midwife in the State where services are performed;
@@ -26,4 +24,6 @@ Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
 
 (3) A nurse-midwife may provide services that he or she is legally authorized to perform under State law as a nurse-midwife, if the services would otherwise be covered by the Medicare program when furnished by a physician or incident to a physicians' professional services.
 
-[63 FR 58909, Nov. 2, 1998, as amended at 78 FR 74811, Dec. 10, 2013]
+(e) *Medical record documentation.* For certified nurse-midwives' services, the certified nurse-midwife may review and verify (sign and date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team, including, as applicable, notes documenting the certified nurse-midwife's presence and participation in the service.
+
+[63 FR 58909, Nov. 2, 1998, as amended at 78 FR 74811, Dec. 10, 2013; 84 FR 63191, Nov. 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 225.24 Procedures for other nonbanking proposals. #####
 
-Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
-
 (a) *Notice required for nonbanking activities.* Except as provided in §§ 225.22 and 225.23, a notice for the Board's prior approval under § 225.21(a) to engage in or acquire a company engaged in a nonbanking activity shall be filed by a bank holding company (including a company seeking to become a bank holding company) with the appropriate Reserve Bank in accordance with this section and the Board's Rules of Procedure (12 CFR 262.3).
 
 (1) *Engaging de novo in listed activities.* A bank holding company seeking to commence or to engage *de novo,* either directly or through a subsidiary, in a nonbanking activity listed in § 225.28 shall file a notice containing a description of the activities to be conducted and the identity of the company that will conduct the activity.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (A) Parent company and consolidated *pro forma* balance sheets for the acquiring bank holding company as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction;
 
-(B) Consolidated *pro forma* risk-based capital and leverage ratio calculations for the acquiring bank holding company as of the most recent quarter; and
+(B) Consolidated *pro forma* risk-based capital and leverage ratio calculations for the acquiring bank holding company as of the most recent quarter (or, in the case of a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), consolidated *pro forma* leverage ratio calculations under § 217.12 of this chapter for the acquiring bank holding company as of the most recent quarter); and
 
 (C) A description of the purchase price and the terms and sources of funding for the transaction;
 
@@ -28,7 +26,9 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (B) A description of the purchase price and the terms and sources of funding for the transaction and, if the transaction is debt funded, one-year income statement and cash flow projections for the parent company, and the sources and schedule for retiring any debt incurred in the transaction;
 
-(vi) For each insured depository institution whose Tier 1 capital, total capital, total assets or risk-weighted assets change as a result of the transaction, the total risk-weighted assets, total assets, Tier 1 capital and total capital of the institution on a *pro forma* basis; and
+(vi)(A) For each insured depository institution (that is not a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter)) whose Tier 1 capital, total capital, total assets or risk-weighted assets change as a result of the transaction, the total risk-weighted assets, total assets, Tier 1 capital and total capital of the institution on a *pro forma* basis; and
+
+(B) For each insured depository institution that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) whose Tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter) or total assets change as a result of the transaction, the total assets and Tier 1 capital of the institution on a *pro forma* basis;
 
 (vii) A description of the management expertise, internal controls and risk management systems that will be utilized in the conduct of the proposed activities; and
 
@@ -36,7 +36,7 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (b) *Notice provided to Board.* The Reserve Bank shall immediately send to the Board a copy of any notice received under paragraphs (a)(2) or (a)(3) of this section.
 
-(c) *Notice to public* - (1) *Listed activities and activities approved by order.* (i) In a case involving an activity listed in § 225.28 or previously approved by the Board by order, the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
+(c) *Notice to public*—(1) *Listed activities and activities approved by order.* (i) In a case involving an activity listed in § 225.28 or previously approved by the Board by order, the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
 
 (A) A notice under this section; or
 
@@ -44,11 +44,11 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (ii) The Federal Register notice published under this paragraph shall invite public comment on the proposal, generally for a period of 15 days.
 
-(2) *New activities* - (i) *In general.* In the case of a notice under this subpart involving an activity that is not listed in § 225.28 and that has not been previously approved by the Board by order, the Board shall send notice of the proposal to the Federal Register for publication, unless the Board determines that the notificant has not demonstrated that the activity is so closely related to banking or to managing or controlling banks as to be a proper incident thereto. The Federal Register notice shall invite public comment on the proposal for a reasonable period of time, generally for 30 days.
+(2) *New activities*—(i) *In general.* In the case of a notice under this subpart involving an activity that is not listed in § 225.28 and that has not been previously approved by the Board by order, the Board shall send notice of the proposal to the Federal Register for publication, unless the Board determines that the notificant has not demonstrated that the activity is so closely related to banking or to managing or controlling banks as to be a proper incident thereto. The Federal Register notice shall invite public comment on the proposal for a reasonable period of time, generally for 30 days.
 
 (ii) *Time for publication.* The Board shall send the notice required under this paragraph to the Federal Register within 10 business days of acceptance by the Reserve Bank. The Board may extend the 10-day period for an additional 30 calendar days upon notice to the notificant. In the event notice of a proposal is not published for comment, the Board shall inform the notificant of the reasons for the decision.
 
-(d) *Action on notices* - (1) *Reserve Bank action* - (i) *In general.* Within 30 calendar days after receipt by the Reserve Bank of a notice filed pursuant to paragraphs (a)(1) or (a)(2) of this section, the Reserve Banks shall:
+(d) *Action on notices*—(1) *Reserve Bank action*—(i) *In general.* Within 30 calendar days after receipt by the Reserve Bank of a notice filed pursuant to paragraphs (a)(1) or (a)(2) of this section, the Reserve Banks shall:
 
 (A) Approve the notice; or
 
@@ -64,7 +64,7 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (3)(i) *Required time limit for System action.* The Board or the Reserve Bank shall act on any notice under this section within 60 days after the submission of a complete notice.
 
-(ii) *Extension of required period for action* - (A) *In general.* The Board may extend the 60-day period required for Board action under paragraph (d)(3)(i) of this section for an additional 30 days upon notice to the notificant.
+(ii) *Extension of required period for action*—(A) *In general.* The Board may extend the 60-day period required for Board action under paragraph (d)(3)(i) of this section for an additional 30 days upon notice to the notificant.
 
 (B) *Unlisted activities.* If a notice involves a proposal to engage in an activity that is not listed in § 225.28, the Board may extend the period required for Board action under paragraph (d)(3)(i) of this section for an additional 90 days. This 90-day extension is in addition to the 30-day extension period provided in paragraph (d)(3)(ii)(A) of this section. The Board shall notify the notificant that the notice period has been extended and explain the reasons for the extension.
 
@@ -72,4 +72,4 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (5) *Tolling of period.* The Board or the Reserve Bank may at any time extend or toll the time period for action on a notice for any period with the consent of the notificant.
 
-[Reg. Y, 62 FR 9332, Feb. 28, 1997, as amended at 62 FR 60640, Nov. 12, 1997; 65 FR 14438, Mar. 17, 2000]
+[Reg. Y, 62 FR 9332, Feb. 28, 1997, as amended at 62 FR 60640, Nov. 12, 1997; 65 FR 14438, Mar. 17, 2000; 84 FR 61801, Nov. 13, 2019]

@@ -1,10 +1,8 @@
 ##### § 486.505 Definitions. #####
 
-Link to an amendment published at 84 FR 60646, Nov. 8, 2019.
-
 As used in §§ 486.520 and 486.525:
 
-*Applicable provider* means a physician, a nurse provider, and a physician assistant.
+*Applicable provider* means a physician, a nurse practitioner, and a physician assistant.
 
 *Home* means a place of residence used as the home of an individual, including an institution that is used as a home. An institution that is used as a home may not be a hospital, CAH, or SNF as defined in section 1861(e)(1), 1861(mm)(1), or 1819(a)(1) of the Act, respectively.
 
@@ -21,3 +19,5 @@ As used in §§ 486.520 and 486.525:
 (3) Is accredited by an organization designated by the Secretary in accordance with section 1834(u)(5) of the Act.
 
 (4) Meets such other requirements as the Secretary determines appropriate.
+
+[83 FR 56630, Nov. 13, 2018, as amended at 84 FR 60646, Nov. 8, 2019]

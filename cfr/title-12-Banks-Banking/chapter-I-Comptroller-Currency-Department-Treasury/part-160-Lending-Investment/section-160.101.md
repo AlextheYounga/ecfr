@@ -1,7 +1,5 @@
 ##### § 160.101 Real estate lending standards. #####
 
-Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
-
 (a) Each Federal savings association shall adopt and maintain written policies that establish appropriate limits and standards for extensions of credit that are secured by liens on or interests in real estate, or that are made for the purpose of financing permanent improvements to real estate.
 
 (b)(1) Real estate lending policies adopted pursuant to this section must:
@@ -26,7 +24,7 @@ Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date 
 
 (d) The real estate lending policies adopted pursuant to this section should reflect consideration of the Interagency Guidelines for Real Estate Lending Policies established by the Federal bank and thrift supervisory agencies.
 
-Appendix to § 160.101 - Interagency Guidelines for Real Estate Lending Policies
+Appendix to § 160.101—Interagency Guidelines for Real Estate Lending Policies
 
 The agencies' regulations require that each insured depository institution adopt and maintain a written policy that establishes appropriate limits and standards for all extensions of credit that are secured by liens on or interests in real estate or made for the purpose of financing the construction of a building or other improvements.1 These guidelines are intended to assist institutions in the formulation and maintenance of a real estate lending policy that is appropriate to the size of the institution and the nature and scope of its individual operations, as well as satisfies the requirements of the regulation.
 
@@ -172,19 +170,17 @@ Supervisory Loan-to-Value Limits
 
 Institutions should establish their own internal loan-to-value limits for real estate loans. These internal limits should not exceed the following supervisory limits:
 
-|                        Loan category                        |Loan-to-value limit (percent)|
-|-------------------------------------------------------------|-----------------------------|
-|                          Raw land                           |             65              |
-|                      Land development                       |             75              |
-|                        Construction:                        |                             |
-|Commercial, multifamily,<sup>1</sup> and other nonresidential|             80              |
-|                 1- to 4-family residential                  |             85              |
-|                      Improved property                      |             85              |
-|        Owner-occupied 1- to 4-family and home equity        |       (<sup>2</sup>)        |
-
-<sup>1</sup> Multifamily construction includes condominiums and cooperatives.
-
-<sup>2</sup> A loan-to-value limit has not been established for permanent mortgage or home equity loans on owner-occupied, 1- to 4-family residential property. However, for any such loan with a loan-to-value ratio that equals or exceeds 90 percent at origination, an institution should require appropriate credit enhancement in the form of either mortgage insurance or readily marketable collateral.
+|                                                                                                                                                                                                 Loan category                                                                                                                                                                                                 |Loan-to-value limit (percent)|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|                                                                                                                                                                                                   Raw land                                                                                                                                                                                                    |             65              |
+|                                                                                                                                                                                               Land development                                                                                                                                                                                                |             75              |
+|                                                                                                                                                                                                 Construction:                                                                                                                                                                                                 |                             |
+|                                                                                                                                                                         Commercial, multifamily,<sup>1</sup> and other nonresidential                                                                                                                                                                         |             80              |
+|                                                                                                                                                                                          1- to 4-family residential                                                                                                                                                                                           |             85              |
+|                                                                                                                                                                                               Improved property                                                                                                                                                                                               |             85              |
+|                                                                                                                                                                                 Owner-occupied 1- to 4-family and home equity                                                                                                                                                                                 |       ( <sup>2</sup>)       |
+|                                                                                                                                                                 <sup>1</sup> Multifamily construction includes condominiums and cooperatives.                                                                                                                                                                 |                             |
+|<sup>2</sup> A loan-to-value limit has not been established for permanent mortgage or home equity loans on owner-occupied, 1- to 4-family residential property. However, for any such loan with a loan-to-value ratio that equals or exceeds 90 percent at origination, an institution should require appropriate credit enhancement in the form of either mortgage insurance or readily marketable collateral.|                             |
 
 The supervisory loan-to-value limits should be applied to the underlying property that collateralizes the loan. For loans that fund multiple phases of the same real estate project (*e.g.,* a loan for both land development and construction of an office building), the appropriate loan-to-value limit is the limit applicable to the final phase of the project funded by the loan; however, loan disbursements should not exceed actual development or construction outlays. In situations where a loan is fully cross-collateralized by two or more properties or is secured by a collateral pool of two or more properties, the appropriate maximum loan amount under supervisory loan-to-value limits is the sum of the value of each property, less senior liens, multiplied by the appropriate loan-to-value limit for each property. To ensure that collateral margins remain within the supervisory limits, lenders should redetermine conformity whenever collateral substitutions are made to the collateral pool.
 
@@ -196,9 +192,7 @@ Loans in Excess of the Supervisory Loan-to-Value Limits
 
 The agencies recognize that appropriate loan-to-value limits vary not only among categories of real estate loans but also among individual loans. Therefore, it may be appropriate in individual cases to originate or purchase loans with loan-to-value ratios in excess of the supervisory loan-to-value limits, based on the support provided by other credit factors. Such loans should be identified in the institutions' records, and their aggregate amount reported at least quarterly to the institution's board of directors. (*see* additional reporting requirements described under “Exceptions to the General Policy.”) The aggregate amount of all loans in excess of the supervisory loan-to-value limits should not exceed 100 percent of total capital.2 Moreover, within the aggregate limit, total loans for all commercial, agricultural, multifamily or other non-1-to-4 family residential properties should not exceed 30 percent of total capital. An institution will come under increased supervisory scrutiny as the total of such loans approaches these levels.
 
-2 For the state member banks, the term “total capital” means “total risk-based capital” as defined in Appendix A to 12 CFR part 208. For insured state non-member banks, “total capital” refers to that term described in table I of Appendix A to 12 CFR part 325. For national banks, the term “total capital” is defined at 12 CFR 3.2(e). For savings associations, the term “total capital” as described in part 167 of this chapter.
-
-The cross-references in the first paragraph of this footnote were originally adopted in an interagency rulemaking and are out of date as a result of revisions to capital rules implementing the Basel III Capital Framework. *See* 57 FR 63889 (December 31, 1992). For national banks and Federal savings associations, the term “total capital” is defined at 12 CFR 3.2, 3.2(e), or 167.5, as applicable. *See* 78 FR 62018 (October 11, 2013).
+2 For the state member banks, the term “total capital” means “total risk-based capital” as defined in Appendix A to 12 CFR part 208. For insured state non-member banks, “total capital” refers to that term described in table I of Appendix A to 12 CFR part 325. For national banks and Federal savings associations, the term “total capital” is defined at 12 CFR 3.2.
 
 In determining the aggregate amount of such loans, institutions should: (a) Include all loans secured by the same property if any one of those loans exceeds the supervisory loan-to-value limits; and (b) include the recourse obligation of any such loan sold with recourse. Conversely, a loan should no longer be reported to the directors as part of aggregate totals when reduction in principal or senior liens, or additional contribution of collateral or equity (*e.g.,* improvements to the real property securing the loan), bring the loan-to-value ratio into compliance with supervisory limits.
 
@@ -288,4 +282,4 @@ For the purposes of these Guidelines:
 
 *1- to 4-family residential property* means property containing fewer than five individual dwelling units, including manufactured homes permanently affixed to the underlying property (when deemed to be real property under state law).
 
-[76 FR 49030, Aug. 9, 2011, as amended at 79 FR 11313, Feb. 28, 2014]
+[76 FR 49030, Aug. 9, 2011, as amended at 79 FR 11313, Feb. 28, 2014; 84 FR 56376, Oct. 22, 2019]

@@ -1,7 +1,5 @@
 ##### § 414.1425 Qualifying APM participant determination: In general. #####
 
-Link to an amendment published at 84 FR 63201, Nov. 15, 2019.
-
 (a) *List used for QP determination.* (1) For Advanced APMs in which all APM Entities may include eligible clinicians on a Participation List, the Participation List is used to identify the APM Entity group for purposes of QP determinations, regardless of whether the APM Entity may also include eligible clinicians on an Affiliated Practitioner List.
 
 (2) For Advanced APMs in which APM Entities do not include eligible clinicians on a Participation List but do include eligible clinicians on an Affiliated Practitioner List, the Affiliated Practitioner List is used to identify the eligible clinicians for purposes of QP determinations.
@@ -24,9 +22,17 @@ Link to an amendment published at 84 FR 63201, Nov. 15, 2019.
 
 (ii) CMS determines that the eligible clinician individually achieves a Threshold Score that meets or exceeds the QP payment amount threshold or the QP patient count threshold.
 
-(5) Notwithstanding paragraph (c)(3) of this section, an eligible clinician is not a QP for a year if the APM Entity group voluntarily or involuntarily terminates from an Advanced APM before the end of the QP Performance Period.
+(5) Beginning in the 2020 QP Performance Period, an eligible clinician in an APM Entity is not a QP for a year if:
 
-(6) Notwithstanding paragraph (c)(4) of this section, an eligible clinician is not a QP for a year if one or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM before the end of the QP Performance Period, and the eligible clinician does not individually achieve a Threshold Score that meets or exceeds the QP payment amount threshold or QP patient count threshold based on participation in the remaining non-terminating APM Entities.
+(i) The APM Entity voluntarily or involuntarily terminates from an Advanced APM before the end of the QP Performance Period; or
+
+(ii) The APM Entity voluntarily or involuntarily terminates from an Advanced APM at a date on which the APM Entity would not bear financial risk for that QP performance period under the terms of the Advanced APM, even if such termination date occurs within such QP Performance Period.
+
+(6) Beginning in the 2020 QP Performance Period, an eligible clinician is not a QP for a year if:
+
+(i) One or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM before the end of the QP Performance Period, and the eligible clinician does not achieve a Threshold Score that meets or exceeds the QP payment amount threshold or QP patient count threshold based on participation in the remaining non-terminating APM Entities; or
+
+(ii) One or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM at a date on which the APM Entity would not bear financial risk under the terms of the Advanced APM, and the eligible clinician does not achieve a Threshold Score that meets or exceeds the QP payment amount threshold or QP patient count threshold based on participation in the remaining non-terminating APM Entities.
 
 (7) Advanced APMs that start or end during the QP Performance Period:
 
@@ -42,9 +48,17 @@ Link to an amendment published at 84 FR 63201, Nov. 15, 2019.
 
 (ii) CMS determines that the eligible clinician individually achieves a Threshold Score that meets or exceeds the corresponding Partial QP Threshold.
 
-(3) Notwithstanding paragraph (d)(1) of this section, an eligible clinician is not a Partial QP for a year if the APM Entity group voluntarily or involuntarily terminates from an Advanced APM before the end of the QP Performance Period.
+(3) Beginning in the 2020 QP Performance Period, an eligible clinician is not a Partial QP for a year if:
 
-(4) Notwithstanding paragraph (d)(2) of this section, an eligible clinician is not a Partial QP for a year if one or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM before the end of the QP Performance Period, and the eligible clinician does not individually achieve a Threshold Score that meets or exceeds the Partial QP payment amount threshold or Partial QP patient count threshold based on participation in the remaining non-terminating APM Entities.
+(i) The APM Entity voluntarily or involuntarily terminates from an Advanced APM before the end of the QP Performance Period; or
+
+(ii) The APM Entity voluntarily or involuntarily terminates from an Advanced APM at a date on which the APM Entity would not bear financial risk for that performance period under the terms of the Advanced APM.
+
+(4) Beginning in the 2020 QP Performance Period, an eligible clinician is not a Partial QP for a year if:
+
+(i) One or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM before the end of the QP Performance Period, and the eligible clinician does not achieve a Threshold Score that meets or exceeds the Partial QP payment amount threshold or Partial QP patient count threshold based on participation in the remaining non-terminating APM Entities; or
+
+(ii) One or more of the APM Entities in which the eligible clinician participates voluntarily or involuntarily terminates from the Advanced APM at a date on which the APM Entity would not bear financial risk under the terms of the Advanced APM, and the eligible clinician does not achieve a Threshold Score that meets or exceeds the Partial QP payment amount threshold or Partial QP patient count threshold based on participation in the remaining non-terminating APM Entities.
 
 (e) *Notification of QP determination.* CMS notifies eligible clinicians determined to be QPs or Partial QPs for a year as soon as practicable following each QP determination date in the QP Performance Period.
 
@@ -56,4 +70,4 @@ Link to an amendment published at 84 FR 63201, Nov. 15, 2019.
 
 (ii) If the Threshold Score for an eligible clinician under the Medicare Option is less than the amount specified in § 414.1430(b)(2)(ii) and (b)(3)(iii), then CMS does not perform a QP determination for such eligible clinician(s) under the All-Payer Combination Option.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53961, Nov. 16, 2017; 84 FR 63201, Nov. 15, 2019]

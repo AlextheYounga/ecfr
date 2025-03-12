@@ -1,14 +1,16 @@
-##### § 416.42 Condition for coverage - Surgical services. #####
-
-Link to an amendment published at 84 FR 63202, Nov. 15, 2019.
+##### § 416.42 Condition for coverage—Surgical services. #####
 
 Surgical procedures must be performed in a safe manner by qualified physicians who have been granted clinical privileges by the governing body of the ASC in accordance with approved policies and procedures of the ASC.
 
-(a) *Standard: Anesthetic risk and evaluation.* (1) A physician must examine the patient immediately before surgery to evaluate the risk of anesthesia and of the procedure to be performed.
+(a) *Standard: Anesthetic risk and evaluation.*(1) Immediately before surgery—
+
+(i) A physician must examine the patient to evaluate the risk of the procedure to be performed; and
+
+(ii) A physician or anesthetist as defined at § 410.69(b) of this chapter must examine the patient to evaluate the risk of anesthesia.
 
 (2) Before discharge from the ASC, each patient must be evaluated by a physician or by an anesthetist as defined at § 410.69(b) of this chapter, in accordance with applicable State health and safety laws, standards of practice, and ASC policy, for proper anesthesia recovery.
 
-(b) *Standard: Administration of anesthesia.* Anesthetics must be administered by only -
+(b) *Standard: Administration of anesthesia.* Anesthetics must be administered by only—
 
 (1) A qualified anesthesiologist; or
 
@@ -18,4 +20,4 @@ Surgical procedures must be performed in a safe manner by qualified physicians w
 
 (2) The request for exemption and recognition of State laws, and the withdrawal of the request may be submitted at any time, and are effective upon submission.
 
-[57 FR 33899, July 31, 1992, as amended at 66 FR 56768, Nov. 13, 2001; 73 FR 68812, Nov. 18, 2008; 79 FR 27153, May 12, 2014]
+[57 FR 33899, July 31, 1992, as amended at 66 FR 56768, Nov. 13, 2001; 73 FR 68812, Nov. 18, 2008; 79 FR 27153, May 12, 2014; 84 FR 63202, Nov. 15, 2019]

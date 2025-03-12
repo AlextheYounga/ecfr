@@ -1,8 +1,6 @@
 ##### § 225.175 What risk management, record keeping and reporting policies are required to make merchant banking investments? #####
 
-Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
-
-(a) *What internal controls and records are necessary?* - (1) *General.* A financial holding company, including a private equity fund controlled by a financial holding company, that makes investments under this subpart must establish and maintain policies, procedures, records and systems reasonably designed to conduct, monitor and manage such investment activities and the risks associated with such investment activities in a safe and sound manner, including policies, procedures, records and systems reasonably designed to:
+(a) *What internal controls and records are necessary?*—(1) *General.* A financial holding company, including a private equity fund controlled by a financial holding company, that makes investments under this subpart must establish and maintain policies, procedures, records and systems reasonably designed to conduct, monitor and manage such investment activities and the risks associated with such investment activities in a safe and sound manner, including policies, procedures, records and systems reasonably designed to:
 
 (i) Monitor and assess the carrying value, market value and performance of each investment and the aggregate portfolio;
 
@@ -18,6 +16,10 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (b) *What periodic reports must be filed?* A financial holding company must provide reports to the appropriate Reserve Bank in such format and at such times as the Board may prescribe.
 
-(c) *Is notice required for the acquisition of companies?* - (1) *Fulfillment of statutory notice requirement.* Except as required in paragraph (c)(2) of this section, no post-acquisition notice under section 4(k)(6) of the Bank Holding Company Act (12 U.S.C. 1843(k)(6)) is required by a financial holding company in connection with an investment made under this subpart if the financial holding company has previously filed a notice under § 225.87 indicating that it had commenced merchant banking investment activities under this subpart.
+(c) *Is notice required for the acquisition of companies?*—(1) *Fulfillment of statutory notice requirement.* Except as required in paragraph (c)(2) of this section, no post-acquisition notice under section 4(k)(6) of the Bank Holding Company Act (12 U.S.C. 1843(k)(6)) is required by a financial holding company in connection with an investment made under this subpart if the financial holding company has previously filed a notice under § 225.87 indicating that it had commenced merchant banking investment activities under this subpart.
 
 (2) *Notice of large individual investments.* A financial holding company must provide written notice to the Board on the appropriate form within 30 days after acquiring more than 5 percent of the voting shares, assets or ownership interests of any company under this subpart, including an interest in a private equity fund, at a total cost to the financial holding company that exceeds the lesser of 5 percent of the Tier 1 capital of the financial holding company or $200 million.
+
+(3) *Qualifying community banking organizations.* For purposes of this paragraph (c), a financial holding company that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) calculates its Tier 1 capital (as defined in § 217.2 of this chapter) in accordance with § 217.12(b) of this chapter.
+
+[Reg. Y, 66 FR 8484, Jan. 31, 2001, as amended at 84 FR 61801, Nov. 13, 2019]

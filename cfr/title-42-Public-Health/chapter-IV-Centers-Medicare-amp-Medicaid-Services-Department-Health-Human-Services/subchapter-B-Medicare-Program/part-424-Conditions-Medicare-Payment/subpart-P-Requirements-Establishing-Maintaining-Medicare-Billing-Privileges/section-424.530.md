@@ -1,7 +1,5 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 84 FR 63203, Nov. 15, 2019.
-
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
@@ -110,6 +108,34 @@ Link to an amendment published at 84 FR 63203, Nov. 15, 2019.
 
 (ii) CMS may apply paragraph (a)(14)(i) of this section to the provider or supplier under any of its current or former names, numerical identifiers or business identities, and regardless of whether any appeals are pending.
 
+(15) *Patient harm.* (i) The physician or other eligible professional (as that term is defined in 1848(k)(3)(B) of the Act) has been subject to prior action from a State oversight board, Federal or State health care program, Independent Review Organization (IRO) determination(s), or any other equivalent governmental body or program that oversees, regulates, or administers the provision of health care with underlying facts reflecting improper physician or other eligible professional conduct that led to patient harm. In determining whether a denial is appropriate, CMS considers the following factors:
+
+(A) The nature of the patient harm.
+
+(B) The nature of the physician's or other eligible professional's conduct.
+
+(C) The number and type(s) of sanctions or disciplinary actions that have been imposed against the physician or other eligible professional by a State oversight board, IRO, Federal or State health care program, or any other equivalent governmental body or program that oversees, regulates, or administers the provision of health care. Such actions include, but are not limited to in scope or degree:
+
+(*1*) License restriction(s) pertaining to certain procedures or practices.
+
+(2) Required compliance appearances before State oversight board members.
+
+(*3*) License restriction(s) regarding the ability to treat certain types of patients (for example, cannot be alone with members of a different gender after a sexual offense charge).
+
+(*4*) Administrative/monetary penalties.
+
+(*5*) Formal reprimand(s).
+
+(D) If applicable, the nature of the IRO determination(s).
+
+(E) The number of patients impacted by the physician's or other eligible professional's conduct and the degree of harm thereto or impact upon.
+
+(ii) Paragraph (a)(15)(i) of this section does not apply to actions or orders pertaining exclusively to either of the following:
+
+(A) Required participation in rehabilitation or mental/behavioral health programs; or
+
+(B) Required abstinence from drugs or alcohol and random drug testing.
+
 (b) *Resubmission after denial.* A provider or supplier that is denied enrollment in the Medicare program cannot submit a new enrollment application until the following has occurred if the denial:
 
 (1) Was not appealed, the provider or supplier may reapply after its appeal rights have lapsed.
@@ -136,4 +162,4 @@ Link to an amendment published at 84 FR 63203, Nov. 15, 2019.
 
 (iv) Any other information that CMS deems relevant to its determination.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019]

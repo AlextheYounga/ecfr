@@ -84,7 +84,7 @@ All home health aide services must be provided by individuals who meet the perso
 
 (e) *Standard: Qualifications for instructors conducting classroom and supervised practical training.* Classroom and supervised practical training must be performed by a registered nurse who possesses a minimum of 2 years nursing experience, at least 1 year of which must be in home health care, or by other individuals under the general supervision of the registered nurse.
 
-*(f) Standard: Eligible training and competency evaluation organizations.* A home health aide training program and competency evaluation program may be offered by any organization except by an HHA that, within the previous 2 years:
+(f) *Standard: Eligible training and competency evaluation organizations.* A home health aide training program and competency evaluation program may be offered by any organization except by an HHA that, within the previous 2 years:
 
 (1) Was out of compliance with the requirements of paragraphs (b), (c), (d), or (e) of this section; or
 
@@ -116,7 +116,7 @@ All home health aide services must be provided by individuals who meet the perso
 
 (2) A home health aide provides services that are:
 
-(i) Ordered by the physician;
+(i) Ordered by the physician or allowed practitioner;
 
 (ii) Included in the plan of care;
 
@@ -170,4 +170,4 @@ All home health aide services must be provided by individuals who meet the perso
 
 (i) *Standard: Individuals furnishing Medicaid personal care aide-only services under a Medicaid personal care benefit.* An individual may furnish personal care services, as defined in § 440.167 of this chapter, on behalf of an HHA. Before the individual may furnish personal care services, the individual must meet all qualification standards established by the state. The individual only needs to demonstrate competency in the services the individual is required to furnish.
 
-[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019]
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020]

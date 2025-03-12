@@ -1,12 +1,10 @@
 ##### § 423.186 Calculation of Star Ratings. #####
 
-Link to an amendment published at 84 FR 15842, April 16, 2019.
-
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) Clustering algorithm for all measures except CAHPS measures.
 
-(i) The method minimizes differences within star categories and maximizes differences across star categories using the hierarchical clustering method.
+(i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data, and a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from one year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for three years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
 
 (ii) In cases where multiple clusters have the same measure score value range, those clusters would be combined, leading to fewer than 5 clusters.
 
@@ -206,4 +204,50 @@ Link to an amendment published at 84 FR 15842, April 16, 2019.
 
 (2) *Plan preview of the Star Ratings.* CMS will have plan preview periods before each Star Ratings release during which Part D plan sponsors can preview their Star Ratings data in HPMS prior to display on the Medicare Plan Finder.
 
-[83 FR 16743, Apr. 16, 2018]
+(i) *Extreme and uncontrollable circumstances.* In the event of extreme and uncontrollable circumstances that may negatively impact operational and clinical systems and contracts' abilities to conduct surveys needed for accurate performance measurement, CMS calculates the Star Ratings as specified in paragraphs (i)(2) through (8) of this section for each contract that is an affected contract during the performance period for the applicable measures. We use the start date of the incident period to determine which year of Star Ratings could be affected, regardless of whether the incident period lasts until another calendar year.
+
+(1) *Identification of affected contracts.* A contract that meets all of the following criteria is an affected contract:
+
+(i) The contract's service area is within an “emergency area” during an “emergency period” as defined in section 1135(g) of the Act.
+
+(ii) The contract's service area is within a county, parish, U.S. territory or tribal area designated in a major disaster declaration under the Stafford Act and the Secretary exercised authority under section 1135 of the Act based on the same triggering event(s).
+
+(iii) As specified in paragraphs (i)(2) through (8) of this section, a certain minimum percentage (25 percent or 60 percent) of the enrollees under the contract must reside in a Federal Emergency Management Agency (FEMA)-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance.
+
+(2) *CAHPS adjustments.* (i) A contract, even if an affected contract, must administer the CAHPS survey unless exempt under paragraph (i)(2)(ii) of this section.
+
+(ii) An affected contract with at least 25 percent of enrollees in FEMA-designated Individual Assistance areas at the time of the extreme and uncontrollable circumstance is exempt from administering the CAHPS survey if the contract completes both of the following:
+
+(A) Demonstrates to CMS that the required sample for the survey cannot be contacted because a substantial number of the contract's enrollees are displaced due to the FEMA-designated disaster identified in paragraph (i)(1)(iii) of this section in the prior calendar year.
+
+(B) Requests and receives a CMS approved exemption.
+
+(iii) An affected contract with an exemption described in paragraph (i)(2)(ii) of this section receives the contract's CAHPS measure stars and corresponding measure scores from the prior year.
+
+(iv) For an affected contract with at least 25 percent of enrollees in FEMA-designated Individual Assistance areas at the time of the extreme and uncontrollable circumstance, the contract receives the higher of the previous year's Star Rating or the current year's Star Rating (and corresponding measure score) for each CAHPS measure.
+
+(v) When a contract is an affected contract with at least 25 percent of enrollees in FEMA-designated Individual Assistance areas at the time of the extreme and uncontrollable circumstance with regard to separate extreme and uncontrollable circumstances that begin in successive years, it is a multiple year-affected contract. A multiple year-affected contract receives the higher of the current year's Star Rating or what the previous year's Star Rating would have been in the absence of any adjustments that took into account the effects of the previous year's disaster for each measure (using the corresponding measure score for the Star Ratings year selected).
+
+(3) *New measure adjustments.* For affected contracts with at least 25 percent of enrollees in a FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance, CMS holds the affected contract harmless by using the higher of the contract's summary or overall rating or both with and without including all of the applicable new measures.
+
+(4) *Other Star Ratings measure adjustments.* (i) For all other Part D measures except those measures identified in this paragraph (i)(4)(ii) of this section, affected contracts with at least 25 percent of enrollees in a FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance receive the higher of the previous or current year's measure Star Rating (and corresponding measure score).
+
+(ii) CMS does not adjust the scores of the Star Ratings for the Part D Call Center - Foreign Language Interpreter and TTY Availability measure, unless the exemption listed in paragraph (i)(4)(iii) of this section applies.
+
+(iii) CMS adjusts the measure listed in paragraph (i)(4)(ii) of this section using the adjustments listed in paragraph (i)(4)(i) of this section for contracts affected by extreme and uncontrollable circumstances where there are continuing communications issues related to loss of electricity and damage to infrastructure during the call center study.
+
+(iv) When a contract is an affected contract with at least 25 percent of enrollees in FEMA-designated Individual Assistance areas at the time of the extreme and uncontrollable circumstance with regard to separate extreme and uncontrollable circumstances that begin in successive years, it is a multiple year-affected contract. A multiple year-affected contract receives the higher of the current year's Star Rating or what the previous year's Star Rating would have been in the absence of any adjustments that took into account the effects of the previous year's disaster for each measure (using the corresponding measure score for the Star Ratings year selected).
+
+(5) *Exclusion from improvement measures.* Any measure that reverts back to the data underlying the previous year's Star Rating due to the adjustments made in paragraph (i) of this section is excluded from both the count of measures and the applicable improvement measures for the current and next year's Star Ratings for the affected contract. Contracts affected by extreme and uncontrollable circumstances do not have the option of reverting to the prior year's improvement rating.
+
+(6) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless an exemption described in paragraph (i)(2)(ii) of this section applies.
+
+(7) *Cut points for non-CAHPS measures.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
+
+(ii) The cut points calculated as described in paragraph (i)(7)(i) of this section are used to assess all affected contracts' measure Star Ratings.
+
+(8) *Reward factor.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the determination of the performance summary and variance thresholds for the Reward Factor described in paragraph (f)(1) of this section.
+
+(ii) All affected contracts are eligible for the Reward Factor based on the calculations described in paragraph (i)(8)(i) of this section.
+
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019]

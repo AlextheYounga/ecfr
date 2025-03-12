@@ -1,8 +1,6 @@
 ##### § 489.10 Basic requirements. #####
 
-Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
-
-(a) Any of the providers specified in § 489.2 may request participation in Medicare. In order to be accepted, it must meet the conditions of participation or requirements (for SNFs) set forth in this section and elsewhere in this chapter. The RNHCIs must meet the conditions for coverage, conditions for participation and the requirements set forth in this section and elsewhere in this chapter.
+(a) Any of the providers specified in § 489.2 may request participation in Medicare. In order to be accepted, it must meet the conditions of participation or requirements (for SNFs) set forth in this section and elsewhere in this chapter. The RNHCIs must meet the conditions for coverage, conditions for participation and the requirements set forth in this section and elsewhere in this chapter. The OTPs must meet the requirements set forth in this section and elsewhere in this chapter.
 
 (b) In order to participate in the Medicare program, the provider must meet the applicable civil rights requirements of:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (f) In order for a home health agency to be accepted as a new provider, it must also meet the capitalization requirements specified in subpart B of this part.
 
-[58 FR 61843, Nov. 23, 1993, as amended at 59 FR 6578, Feb. 11, 1994; 63 FR 312, Jan. 5, 1998; 68 FR 66720, Nov. 28, 2003]
+[58 FR 61843, Nov. 23, 1993, as amended at 59 FR 6578, Feb. 11, 1994; 63 FR 312, Jan. 5, 1998; 68 FR 66720, Nov. 28, 2003; 84 FR 63204, Nov. 15, 2019]

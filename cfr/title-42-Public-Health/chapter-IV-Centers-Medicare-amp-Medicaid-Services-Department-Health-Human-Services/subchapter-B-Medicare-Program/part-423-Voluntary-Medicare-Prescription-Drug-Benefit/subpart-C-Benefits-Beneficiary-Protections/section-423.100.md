@@ -1,7 +1,5 @@
 ##### § 423.100 Definitions. #####
 
-Link to an amendment published at 84 FR 15840, Apr. 16, 2019.
-
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
@@ -218,7 +216,7 @@ As used in this part, unless otherwise specified-
 
 (1) Meet all of the following requirements:
 
-(i) The prescriber is currently revoked from the Medicare program under § 424.535 of this chapter.
+(i) The prescriber is currently revoked from Medicare for a reason other than that stated in § 424.535(a)(3) of this chapter.
 
 (ii) The prescriber is currently under a reenrollment bar under § 424.535(c) of this chapter.
 
@@ -232,7 +230,7 @@ As used in this part, unless otherwise specified-
 
 (2) Meet both of the following requirements:
 
-(i) The prescriber has engaged in behavior for which CMS could have revoked the prescriber to the extent applicable if he or she had been enrolled in Medicare.
+(i) The prescriber has engaged in behavior, other than that described in § 424.535(a)(3) of this chapter, for which CMS could have revoked the individual to the extent applicable had he or she been enrolled in Medicare.
 
 (ii) CMS determines that the underlying conduct that would have led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph, CMS considers all of the following factors:
 
@@ -240,7 +238,15 @@ As used in this part, unless otherwise specified-
 
 (B) The degree to which the prescriber's conduct could affect the integrity of the Part D program.
 
-(C) Any other evidence that CMS deems relevant to its determination.
+(C) Any other evidence that CMS deems relevant to its determination; or
+
+(3) The prescriber, regardless of whether he or she is or was enrolled in Medicare, has been convicted of a felony under Federal or State law within the previous 10 years that CMS deems detrimental to the best interests of the Medicare program. Factors that CMS considers in making such a determination under this paragraph are as follows:
+
+(i) The severity of the offense.
+
+(ii) When the offense occurred.
+
+(iii) Any other information that CMS deems relevant to its determination.
 
 *Preferred drug* means a covered Part D drug on a Part D plan's formulary for which beneficiary cost-sharing is lower than for a non-preferred drug in the plan's formulary.
 
@@ -280,4 +286,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019]

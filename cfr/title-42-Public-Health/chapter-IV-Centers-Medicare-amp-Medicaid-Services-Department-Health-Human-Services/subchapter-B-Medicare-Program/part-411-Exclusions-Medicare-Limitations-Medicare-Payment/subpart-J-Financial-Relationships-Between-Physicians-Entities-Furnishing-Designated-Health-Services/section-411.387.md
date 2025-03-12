@@ -1,7 +1,13 @@
-##### § 411.387 Parties affected by advisory opinions. #####
+##### § 411.387 Effect of an advisory opinion. #####
 
-Link to an amendment published at 84 FR 63193, Nov. 15, 2019.
+(a) An advisory opinion is binding on the Secretary, and a favorable advisory opinion shall preclude imposition of sanctions under section 1877(g) of the Act with respect to:
 
-An advisory opinion issued by CMS does not apply in any way to any individual or entity that does not join in the request for the opinion. Individuals or entities other than the requestor(s) may not rely on an advisory opinion.
+(1) The individuals or entities requesting the opinion; and
 
-[69 FR 57230, Sept. 24, 2004]
+(2) Individuals or entities that are parties to the specific arrangement with respect to which such advisory opinion has been issued.
+
+(b) The Secretary will not pursue sanctions under section 1877(g) of the Act against any party to an arrangement that CMS determines is indistinguishable in all its material aspects from an arrangement with respect to which CMS issued a favorable advisory opinion.
+
+(c) Individuals and entities may rely on an advisory opinion as non-binding guidance that illustrates the application of the physician self-referral law and regulations to the specific facts and circumstances described in the advisory opinion.
+
+[84 FR 63193, Nov. 15, 2019]

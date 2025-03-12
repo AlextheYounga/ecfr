@@ -1,7 +1,5 @@
 ##### § 223.3 What are the meanings of the other terms used in sections 23A and 23B and this part? #####
 
-Link to an amendment published at 84 FR 61798, Nov. 13, 2019.
-
 For purposes of this part:
 
 (a) *Aggregate amount of covered transactions* means the amount of the covered transaction about to be engaged in added to the current amount of all outstanding covered transactions.
@@ -18,11 +16,13 @@ For purposes of this part:
 
 (3) The amount of any investment by a member bank in a financial subsidiary that counts as a covered transaction and is required to be deducted from the member bank's capital for regulatory capital purposes.
 
+(4) Notwithstanding paragraphs (d)(1) through (3) of this section, for a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), capital stock and surplus equals tier 1 capital (as defined in § 217.12 of this chapter and calculated in accordance with § 217.12(b) of this chapter) plus allowances for loan and lease losses or adjusted allowance for credit losses, as applicable.
+
 (e) *Carrying value* with respect to a security means (unless otherwise provided) the value of the security on the financial statements of the member bank, determined in accordance with GAAP.
 
 (f) *Company* means a corporation, partnership, limited liability company, business trust, association, or similar organization and, unless specifically excluded, includes a member bank and a depository institution.
 
-(g) *Control* - (1) *In general.* “*Control*” by a company or shareholder over another company means that:
+(g) *Control*—(1) *In general.* “*Control*” by a company or shareholder over another company means that:
 
 (i) The company or shareholder, directly or indirectly, or acting through one or more other persons, owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other company;
 
@@ -168,4 +168,4 @@ For purposes of this part:
 
 (ll) “*Well managed*” has the same meaning as in 12 CFR 225.2.
 
-[67 FR 76604, Dec. 12, 2002, as amended at 84 FR 4244, Feb. 14, 2019]
+[67 FR 76604, Dec. 12, 2002, as amended at 84 FR 4244, Feb. 14, 2019; 84 FR 61798, Nov. 13, 2019]

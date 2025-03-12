@@ -1,8 +1,8 @@
 ##### § 660.111 Trawl fishery - definitions. #####
 
-Link to an amendment published at 84 FR 63986, Nov. 19, 2019.Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
+Link to an amendment published at 84 FR 68806, Dec. 17, 2019.
 
-These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11, subpart C.
+These definitions are specific to the limited entry trawl fisheries covered in this subpart. General groundfish definitions are found at § 660.11.
 
 *Accumulation limits* mean the maximum extent of permissible ownership, control or use of a privilege within the trawl rationalization program, and include the following:
 
@@ -16,6 +16,8 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 (iii) Catcher vessel usage limit means the maximum amount of the annual mothership sector Pacific whiting allocation that a vessel may catch, no more than 30 percent, as described at § 660.150(g)(3)(ii).
 
+*Block area closures* or *BACs* are a type of groundfish conservation area, defined at § 660.11, bounded on the north and south by commonly used geographic coordinates, defined at § 660.11, and on the east and west by boundary lines approximating depth contours, defined with latitude and longitude coordinates at §§ 660.71 through 660.74. BACs may be implemented or modified, off Oregon and California, as routine management measures, per regulations at § 660.60(c). BACs may vary in their shape and duration. Their shape and effective dates will be announced in the Federal Register. BACs may have a specific re-opening date as described in the Federal Register, or may be in effect until modified. BACs that are in effect until modified by Council recommendation and subsequent NMFS action are set out in Tables 1 (North) and 1 (South) of this subpart.
+
 *Catch history assignment or CHA* means a percentage of the mothership sector allocation of Pacific whiting based on a limited entry permit's qualifying history and which is specified on the MS/CV-endorsed limited entry permit.
 
 *Catcher/processor coop or C/P coop* means a harvester group that includes all eligible catcher/processor at-sea Pacific whiting endorsed permit owners who voluntarily form a coop and who manage the catcher/processor-specified allocations through private agreements and contracts.
@@ -23,6 +25,8 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 *Catcher/Processor (C/P) Coop Program or C/P sector,* refers to the fishery described at § 660.160, subpart D. The C/P Coop Program is composed of vessels registered to a limited entry permit with a C/P endorsement and a valid declaration for limited entry, midwater trawl, Pacific whiting catcher/processor sector.
 
 *Charterer* means, for the purpose of economic data collection program, a person, other than the owner of the vessel, who: entered in to any agreement or commitment by which the possession or services of the vessel are secured for a period of time for the purposes of commercially harvesting or processing fish. A long-term or exclusive contract for the sale of all or a portion of the vessel's catch or processed products is not considered a charter.
+
+*Columbia River Salmon Conservation Zone* means the ocean area surrounding the Columbia River mouth bounded by a line extending for 6 nm due west from North Head along 46°18′ N lat. to 124°13.30′ W long., then southerly along a line of 167 True to 46°11.10′ N lat. and 124°11′ W long. (Columbia River Buoy), then northeast along Red Buoy Line to the tip of the south jetty.
 
 *Complete economic data collection (EDC) form* means that a response is supplied for each question, sub-question, and answer-table cell. If particular question or sub-question is not applicable, “NA”, must be entered in the appropriate space on the form. The form must also be signed and dated to certify that the information is true and complete to the best of the signatory's knowledge.
 
@@ -68,6 +72,8 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 *Inter-coop agreement* means a written agreement between two or more permitted mothership coops and which contains private contractual arrangements for sharing catch and/or bycatch with one another.
 
+*Klamath River Salmon Conservation Zone* means the ocean area surrounding the Klamath River mouth bounded on the north by 41°38.80′ N lat. (approximately 6 nm north of the Klamath River mouth), on the west by 124°23′ W long. (approximately 12 nm from shore), and on the south by 41°26.80′ N lat. (approximately 6 nm south of the Klamath River mouth).
+
 *Lessee* means, for the purpose of economic data collection program, a person, other than the owner of the vessel or facility, who: was identified as the leaseholder, in a written lease, of the vessel or facility, or paid expenses of the vessel or facility, or claimed expenses for the vessel or facility as a business expense on a federal income tax return, or on a state income tax return.
 
 *Material change* means, for the purposes of a coop agreement, a change to any of the required components of the coop agreement, defined at §§ 660.150 and 660.160, subpart D, which was submitted to NMFS during the application process for the coop permit.
@@ -100,6 +106,8 @@ These definitions are specific to the limited entry trawl fisheries covered in t
 
 *Shorebased IFQ Program or Shorebased IFQ sector,* refers to the fishery described at § 660.140, subpart D, and includes all vessels on IFQ trips.
 
+*Stow* or *stowed,* for the purposes of this subpart, means the subject trawl gear is either stored below deck; or, if the gear cannot readily be moved, must be stowed in a secured and covered manner detached from all towing lines so that it is rendered unusable for fishing; or, if remaining on deck uncovered, must be stowed disconnected from the trawl doors with the trawl doors hung from their stanchions.
+
 *Vessel account* means an account held by the vessel owner where QP and IBQ pounds are registered for use by a vessel in the Shorebased IFQ Program.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015]Editorial Note:At 80 FR 77271, Dec. 14, 2015, § 660.111 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78383, Dec. 15, 2010; 76 FR 74739, Dec. 1, 2011; 78 FR 68769, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 77271, Dec. 14, 2015; 84 FR 63986, Nov. 19, 2019]Editorial Note:At 80 FR 77271, Dec. 14, 2015, § 660.111 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

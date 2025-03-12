@@ -1,40 +1,42 @@
 ##### § 208.43 Capital measures and capital category definitions. #####
 
-Link to an amendment published at 84 FR 61796, Nov. 13, 2019.Link to a correction published at 84 FR 70887, Dec. 26, 2019.
+(a) *Capital measures.* (1) For purposes of section 38 of the FDI Act and this subpart, the relevant capital measures are:
 
-(a) *Capital measures.* For purposes of section 38 and this subpart, the relevant capital measures are:
+(i) Total Risk-Based Capital Measure: The total risk-based capital ratio;
 
-(1) Total Risk-Based Capital Measure: The total risk-based capital ratio;
+(ii) Tier 1 Risk-Based Capital Measure: The tier 1 risk-based capital ratio;
 
-(2) Tier 1 Risk-Based Capital Measure: The tier 1 risk-based capital ratio;
-
-(3) Common Equity Tier 1 Capital Measure: The common equity tier 1 risk-based capital ratio; and
-
-(4) Leverage Measure:
-
-(i) The leverage ratio; and
-
-(ii) With respect to an advanced approaches bank, on January 1, 2018, and thereafter, the supplementary leverage ratio.
-
-(iii) With respect to any bank that is a subsidiary (as defined in § 217.2 of Regulation Q (12 CFR 217.2)) of a global systemically important BHC, on Jan. 1, 2018, and thereafter, the supplementary leverage ratio.
-
-(b) *Capital categories applicable to all member banks.* For purposes of section 38 and this subpart, a member bank is deemed to be:
-
-(1) “Well capitalized” if:
-
-(i) Total Risk-Based Capital Measure: the bank has a total risk-based capital ratio of 10.0 percent or greater;
-
-(ii) Tier 1 Risk-Based Capital Measure: the bank has a tier 1 risk-based capital ratio of 8.0 percent or greater;
-
-(iii) Common Equity Tier 1 Capital Measure: the bank has a common equity tier 1 risk-based capital ratio of 6.5 percent or greater;
+(iii) Common Equity Tier 1 Capital Measure: The common equity tier 1 risk-based capital ratio; and
 
 (iv) Leverage Measure:
 
-(A) The bank has a leverage ratio of 5.0 percent or greater; and
+(A) The leverage ratio; and
 
-(B) Beginning on Jan. 1, 2018, with respect to any bank that is a subsidiary of a global systemically important BHC under the definition of “subsidiary” in section 217.2 of Regulation Q (12 CFR 217.2), the bank has a supplementary leverage ratio of 6.0 percent or greater; and
+(B) With respect to an advanced approaches bank, on January 1, 2018, and thereafter, the supplementary leverage ratio.
 
-(v) The bank is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Board pursuant to section 8 of the FDI Act, the International Lending Supervision Act of 1983 (12 U.S.C. 3907), or section 38 of the FDI Act, or any regulation thereunder, to meet and maintain a specific capital level for any capital measure.
+(C) With respect to any bank that is a subsidiary (as defined in § 217.2 of this chapter) of a global systemically important BHC, on Jan. 1, 2018, and thereafter, the supplementary leverage ratio.
+
+(2) For a qualifying community banking organization (as defined in § 217.12 of this chapter), that has elected to use the community bank leverage ratio framework (as defined in § 217.12 of this chapter), the leverage ratio calculated in accordance with § 217.12(b) of this chapter is used to determine the well capitalized capital category under paragraph (b)(1)(i)(A) through (D) of this section.
+
+(b) Capital categories. For purposes of section 38 of the FDI Act and this subpart, a member bank is deemed to be:
+
+(1)(i) “Well capitalized” if:
+
+(A) Total Risk-Based Capital Measure: The bank has a total risk-based capital ratio of 10.0 percent or greater; and
+
+(B) Tier 1 Risk-Based Capital Measure: The bank has a tier 1 risk-based capital ratio of 8.0 percent or greater; and
+
+(C) Common Equity Tier 1 Capital Measure: The bank has a common equity tier 1 risk-based capital ratio of 6.5 percent or greater; and
+
+(D) Leverage Measure:
+
+(*1*) The bank has a leverage ratio of 5.0 percent or greater; and
+
+(*2*) Beginning on January 1, 2018, with respect to any bank that is a subsidiary of a global systemically important BHC under the definition of “subsidiary” in § 217.2 of this chapter, the bank has a supplementary leverage ratio of 6.0 percent or greater; and
+
+(E) The bank is not subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Board pursuant to section 8 of the FDI Act, the International Lending Supervision Act of 1983 (12 U.S.C. 3907), or section 38 of the FDI Act, or any regulation thereunder, to meet and maintain a specific capital level for any capital measure.
+
+(ii) A qualifying community banking organization, as defined in § 217.12 of this chapter, that has elected to use the community bank leverage ratio framework under § 217.12 of this chapter, shall be considered to have met the capital ratio requirements for the well capitalized capital category in paragraph (b)(1)(i)(A) through (D) of this section.
 
 (2) “Adequately capitalized” if:
 
@@ -84,4 +86,4 @@ Link to an amendment published at 84 FR 61796, Nov. 13, 2019.Link to a correctio
 
 (2) *Unsafe or unsound practice.* The Board has determined, after notice and opportunity for hearing pursuant to 12 CFR 263.203, that, in the most recent examination of the bank, the bank received and has not corrected, a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, liquidity, or sensitivity to market risk.
 
-[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 80 FR 49102, Aug. 14, 2015; 80 FR 70672, Nov. 16, 2015]
+[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 80 FR 49102, Aug. 14, 2015; 80 FR 70672, Nov. 16, 2015; 84 FR 61796, Nov. 13, 2019; 84 FR 70887, Dec. 26, 2019]

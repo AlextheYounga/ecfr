@@ -1,7 +1,5 @@
 ##### § 44.10 Prohibition on acquiring or retaining an ownership interest in and having certain relationships with a covered fund. #####
 
-Link to an amendment published at 84 FR 62099, Nov. 14, 2019.
-
 (a) *Prohibition.* (1) Except as otherwise provided in this subpart, a banking entity may not, as principal, directly or indirectly, acquire or retain any ownership interest in or sponsor a covered fund.
 
 (2) Paragraph (a)(1) of this section does not include acquiring or retaining an ownership interest in a covered fund by a banking entity:
@@ -112,11 +110,11 @@ Link to an amendment published at 84 FR 62099, Nov. 14, 2019.
 
 (i) Controls the investment decisions regarding the underlying assets or holdings of the separate account; or
 
-(ii) Participates in the profits and losses of the separate account other than in compliance with applicable supervisory guidance regarding bank owned life insurance.
+(ii) Participates in the profits and losses of the separate account other than in compliance with applicable requirements regarding bank owned life insurance.
 
 (8) *Loan securitizations* - (i) *Scope.* An issuing entity for asset-backed securities that satisfies all the conditions of this paragraph (c)(8) and the assets or holdings of which are comprised solely of:
 
-(A) Loans as defined in § 44.2(s) of subpart A;
+(A) Loans as defined in § 44.2(t) of subpart A;
 
 (B) Rights or other assets designed to assure the servicing or timely distribution of proceeds to holders of such securities and rights or other assets that are related or incidental to purchasing or otherwise acquiring and holding the loans, provided that each asset meets the requirements of paragraph (c)(8)(iii) of this section;
 
@@ -268,4 +266,4 @@ Link to an amendment published at 84 FR 62099, Nov. 14, 2019.
 
 (ii) Any entity that directs a person described in paragraph (d)(10)(i) of this section, or that possesses authority and discretion to manage and control the investment decisions of a covered fund for which such person serves as trustee, shall be considered to be a trustee of such covered fund.
 
-[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 35020, July 22, 2019]
+[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 35020, July 22, 2019; 84 FR 62099, Nov. 14, 2019]

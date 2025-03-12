@@ -1,12 +1,18 @@
 ##### § 1.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendment published at 84 FR 69297, Dec. 18, 2019.
-
 (a) *Capital and surplus* means:
 
-(1) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in 12 CFR part 3, as applicable (or comparable capital guidelines of the appropriate Federal banking agency), as reported in the bank's Consolidated Reports of Condition and Income (Call Report) filed under 12 U.S.C. 161 (or under 12 U.S.C. 1817 in the case of a state member bank); plus
+(1) For qualifying community banking organizations that have elected to use the community bank leverage ratio framework, as set forth under the OCC's Capital Adequacy Standards at part 3 of this chapter:
 
-(2) The balance of a bank's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, not included in the bank's Tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (a)(1) of this section, as reported in the bank's Call Report.
+(i) A qualifying community banking organization's tier 1 capital, as used under § 3.12 of this chapter; plus
+
+(ii) A qualifying community banking organization's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, as reported in the bank's Consolidated Report of Condition and Income (Call Report); or
+
+(2) For all other banks:
+
+(i) A bank's tier 1 and tier 2 capital calculated under the OCC's risk-based capital standards set forth in part 3 of this chapter, as applicable (or comparable capital guidelines of the appropriate Federal banking agency), as reported in the bank's Call Report; plus
+
+(ii) The balance of a bank's allowance for loan and lease losses or adjusted allowances for credit losses, as applicable, not included in the bank's tier 2 capital, for purposes of the calculation of risk-based capital described in paragraph (a)(2)(i) of this section, as reported in the bank's Call Report.
 
 (b) *General obligation of a State or political subdivision* means:
 
@@ -80,4 +86,4 @@ Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendmen
 
 (4) Fully secured by interests in a pool of loans to numerous obligors and in which a national bank could invest directly.
 
-[61 FR 63982, Dec. 2, 1996, as amended at 66 FR 34791, July 2, 2001; 77 FR 35257, June 13, 2012; 79 FR 11309, Feb. 28, 2014; 84 FR 4237, Feb. 14, 2019]
+[61 FR 63982, Dec. 2, 1996, as amended at 66 FR 34791, July 2, 2001; 77 FR 35257, June 13, 2012; 79 FR 11309, Feb. 28, 2014; 84 FR 4237, Feb. 14, 2019; 84 FR 61792, Nov. 13, 2019; 84 FR 69297, Dec. 18, 2019]

@@ -1,14 +1,12 @@
 ##### § 489.53 Termination by CMS. #####
 
-Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
-
 (a) *Basis for termination of agreement.* CMS may terminate the agreement with any provider if CMS finds that any of the following failings is attributable to that provider, and may, in addition to the applicable requirements in this chapter governing the termination of agreements with suppliers, terminate the agreement with any supplier to which the failings in paragraphs (a)(2), (13) and (18) of this section are attributable:
 
 (1) It is not complying with the provisions of title XVIII and the applicable regulations of this chapter or with the provisions of the agreement.
 
 (2) The provider or supplier places restrictions on the persons it will accept for treatment and it fails either to exempt Medicare beneficiaries from those restrictions or to apply them to Medicare beneficiaries the same as to all other persons seeking care.
 
-(3) It no longer meets the appropriate conditions of participation or requirements (for SNFs and NFs) set forth elsewhere in this chapter. In the case of an RNHCI no longer meets the conditions for coverage, conditions of participation and requirements set forth elsewhere in this chapter.
+(3) It no longer meets the appropriate conditions of participation or requirements (for SNFs and NFs) set forth elsewhere in this chapter. In the case of an RNHCI, it no longer meets the conditions for coverage, conditions of participation and requirements set forth elsewhere in this chapter. In the case of an OTP, it no longer meets the requirements set forth in this section and elsewhere in this chapter.
 
 (4) It fails to furnish information that CMS finds necessary for a determination as to whether payments are or were due under Medicare and the amounts due.
 

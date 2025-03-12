@@ -1,7 +1,5 @@
 ##### § 34.43 Appraisals required; transactions requiring a State certified or licensed appraiser. #####
 
-Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
-
 (a) *Appraisals required.* An appraisal performed by a State certified or licensed appraiser is required for all real estate-related financial transactions except those in which:
 
 (1) The transaction is a residential real estate transaction that has a transaction value of $400,000 or less;
@@ -44,7 +42,7 @@ Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
 
 (14) The transaction is exempted from the appraisal requirement pursuant to the rural residential exemption under 12 U.S.C. 3356.
 
-(b) *Evaluations required.* For a transaction that does not require the services of a State certified or licensed appraiser under paragraph (a)(1), (a)(5), (a)(7), or (a)(13) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
+(b) *Evaluations required.* For a transaction that does not require the services of a State certified or licensed appraiser under paragraphs (a)(1), (5), (7), (13), or (14) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
 
 (c) *Appraisals to address safety and soundness concerns.* The OCC reserves the right to require an appraisal under this subpart whenever the agency believes it is necessary to address safety and soundness concerns.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
 
 (e) *Transactions requiring either a State certified or licensed appraiser.* All appraisals for federally related transactions not requiring the services of a State certified appraiser shall be prepared by either a State certified appraiser or a State licensed appraiser.
 
-[55 FR 34696, Aug. 24, 1990, as amended at 57 FR 12202, Apr. 9, 1992; 59 FR 29499, June 7, 1994; 79 FR 28400, May 16, 2014; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019]
+[55 FR 34696, Aug. 24, 1990, as amended at 57 FR 12202, Apr. 9, 1992; 59 FR 29499, June 7, 1994; 79 FR 28400, May 16, 2014; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019; 84 FR 53597, Oct. 8, 2019]

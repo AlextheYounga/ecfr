@@ -1,20 +1,20 @@
 ##### § 413.237 Outliers. #####
 
-Link to an amendment published at 84 FR 60806, Nov. 8, 2019.
-
 (a) The following definitions apply to this section.
 
 (1) *ESRD outlier services* are the following items and services that are included in the ESRD PPS bundle:
 
-(i) ESRD-related drugs and biologicals that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
+(i) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
 
-(ii) ESRD-related laboratory tests that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
+(ii) Renal dialysis laboratory tests that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
 
-(iii) Medical/surgical supplies, including syringes, used to administer ESRD-related drugs that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B; and
+(iii) Renal dialysis medical/surgical supplies, including syringes, used to administer renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, separately billable under Medicare Part B;
 
-(iv) Renal dialysis services drugs that were or would have been, prior to January 1, 2011, covered under Medicare Part D, including ESRD-related oral-only drugs effective January 1, 2025.
+(iv) Renal dialysis drugs and biological products that were or would have been, prior to January 1, 2011, covered under Medicare Part D, including renal dialysis oral-only drugs effective January 1, 2025; and
 
-(v) As of January 1, 2012, the laboratory tests that comprise the Automated Multi-Channel Chemistry panel are excluded from the definition of outlier services.
+(v) Renal dialysis equipment and supplies that receive the transitional add-on payment adjustment as specified in § 413.236 after the payment period has ended.
+
+(vi) As of January 1, 2012, the laboratory tests that comprise the Automated Multi-Channel Chemistry panel are excluded from the definition of outlier services.
 
 (2) *Adult predicted ESRD outlier services Medicare allowable payment (MAP) amount* means the predicted per-treatment case-mix adjusted amount for ESRD outlier services furnished to an adult beneficiary by an ESRD facility.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 84 FR 60806, Nov. 8, 2019.
 
 (2) The adult or pediatric predicted ESRD outlier services MAP amount plus the adult or pediatric fixed dollar loss amount, as applicable.
 
-[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015]
+[75 FR 49201, Aug. 12, 2010, as amended at 76 FR 70314, Nov. 10, 2011; 78 FR 72252, Dec. 2, 2013; 79 FR 66262, Nov. 6, 2014; 80 FR 69077, Nov. 6, 2015; 84 FR 60806, Nov. 8, 2019]

@@ -1,8 +1,6 @@
 ##### § 660.71 Latitude/longitude coordinates defining the 10-fm (18-m) through 40-fm (73-m) depth contours. #####
 
-Link to an amendment published at 84 FR 63974, Nov. 19, 2019.
-
-Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 10-fm (18-m) through 40-fm (73-m) depth contours.
+Boundaries for some GCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 10-fm (18-m) through 40-fm (73-m) depth contours.
 
 (a) The 10-fm (18-m) depth contour between the U.S. border with Canada and 46°16′ N. lat. is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2352,4 +2350,4 @@ Boundaries for RCAs are defined by straight lines connecting a series of latitud
 
 (6) 32°30.00′ N lat., 119°12.98′ W long.
 
-[69 FR 77042, Dec. 23, 2004, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8498, Feb. 17, 2006; 71 FR 78665, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 77 FR 55155, Sept. 7, 2012; 82 FR 9640, Feb. 7, 2017; 83 FR 63991, Dec. 12, 2018]
+[69 FR 77042, Dec. 23, 2004, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8498, Feb. 17, 2006; 71 FR 78665, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 77 FR 55155, Sept. 7, 2012; 82 FR 9640, Feb. 7, 2017; 83 FR 63991, Dec. 12, 2018; 84 FR 63974, Nov. 19, 2019]

@@ -1,7 +1,5 @@
 ##### § 225.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61799, Nov. 13, 2019.
-
 Except as modified in this regulation or unless the context otherwise requires, the terms used in this regulation have the same meaning as set forth in the relevant statutes.
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with, another company.
@@ -72,7 +70,7 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (g) *Insured depository institution* includes an insured bank as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)) and a savings association.
 
-(h) *Lead insured depository institution* means the largest insured depository institution controlled by the bank holding company as of the quarter ending immediately prior to the proposed filing, based on a comparison of the average total risk-weighted assets controlled during the previous 12-month period by each insured depository institution subsidiary of the holding company.
+(h) *Lead insured depository institution* means the largest insured depository institution controlled by the bank holding company as of the quarter ending immediately prior to the proposed filing, based on a comparison of the average total risk-weighted assets controlled during the previous 12-month period be each insured depository institution subsidiary of the holding company. For purposes of this paragraph (h), for a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), average total risk-weighted assets equal the qualifying community banking organization's average total consolidated assets (as used in § 217.12 of this chapter).
 
 (i) *Management official* means any officer, director (including honorary or advisory directors), partner, or trustee of a bank or other company, or any employee of the bank or other company with policy-making functions.
 
@@ -118,9 +116,9 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (3) *Class of voting shares.* Shares of stock issued by a single issuer are deemed to be the same class of voting shares, regardless of differences in dividend rights or liquidation preference, if the shares are voted together as a single class on all matters for which the shares have voting rights other than matters described in paragraph (o)(2)(i) of this section that affect solely the rights or preferences of the shares.
 
-(r) *Well-capitalized* - (1) *Bank holding company.* In the case of a bank holding company,2*well-capitalized* means that:
+(r) *Well-capitalized* - (1) *Bank holding company.* In the case of a bank holding company,1*well-capitalized* means that:
 
-2 For purposes of this subpart and subparts B and C of this part, a bank holding company that is subject to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
+1 For purposes of this subpart and subparts B and C of this part, a bank holding company that is subject to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement in appendix C of this part will be deemed to be “well-capitalized” if the bank holding company meets the requirements for expedited/waived processing in appendix C.
 
 (i) On a consolidated basis, the bank holding company maintains a total risk-based capital ratio of 10.0 percent or greater, as defined in 12 CFR 217.10;
 
@@ -140,6 +138,12 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (ii) *Branches and agencies.* For purposes of determining, under paragraph (r)(1) of this section, whether a branch or agency of a foreign banking organization is well-capitalized, the branch or agency shall be deemed to have the same capital ratios as the foreign banking organization.
 
+(4) Notwithstanding paragraphs (r)(1) through (3) of this section:
+
+(i) A bank holding company that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) is well capitalized if it satisfies the requirements of paragraph (r)(1)(iii) of this section.
+
+(ii) A depository institution that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) is well capitalized.
+
 (s) *Well managed* - (1) *In general.* Except as otherwise provided in this part, a company or depository institution is well managed if:
 
 (i) At its most recent inspection or examination or subsequent review by the appropriate Federal banking agency for the company or institution (or the appropriate state banking agency in an examination described in section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)), the company or institution received:
@@ -158,4 +162,4 @@ Except as modified in this regulation or unless the context otherwise requires, 
 
 (t) *Depository institution.* For purposes of this part, the term “depository institution” has the same meaning as in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
 
-[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018]
+[Reg. Y, 62 FR 9319, Feb. 28, 1997, as amended at 65 FR 3791, Jan. 25, 2000; 65 FR 15055, Mar. 21, 2000; 66 FR 414, Jan. 3, 2001; 71 FR 9901, Feb. 28, 2006; 78 FR 62290, Oct. 11, 2013; 80 FR 20157, Apr. 15, 2015; 80 FR 70673, Nov. 16, 2015; 83 FR 44198, Aug. 30, 2018; 84 FR 61799, Nov. 13, 2019]

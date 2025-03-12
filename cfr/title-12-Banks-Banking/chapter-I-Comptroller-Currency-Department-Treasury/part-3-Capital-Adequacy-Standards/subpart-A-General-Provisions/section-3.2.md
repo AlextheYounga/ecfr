@@ -1,6 +1,6 @@
 ##### § 3.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendment published at 84 FR 68031, Dec. 13, 2019.
+Link to an amendment published at 84 FR 68031, Dec. 13, 2019.
 
 As used in this part:
 
@@ -630,8 +630,6 @@ As used in this part:
 
 (2) Where the national bank or Federal savings association has identified specific wrong-way risk.
 
-*Non-significant investment in the capital of an unconsolidated financial institution* means an investment in the capital of an unconsolidated financial institution where the national bank or Federal savings association owns 10 percent or less of the issued and outstanding common stock of the unconsolidated financial institution.
-
 *Non-significant investment in the capital of an unconsolidated financial institution* means an investment by an advanced approaches national bank or Federal savings association in the capital of an unconsolidated financial institution where the advanced approaches national bank or Federal savings association owns 10 percent or less of the issued and outstanding common stock of the unconsolidated financial institution.
 
 *N*th*-to-default credit derivative* means a credit derivative that provides credit protection only for the nth-defaulting reference exposure in a group of reference exposures.
@@ -946,4 +944,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 44123, July 30, 2014; 79 FR 57740, Sept. 26, 2014; 79 FR 78293, Dec. 30, 2014; 80 FR 41415, July 15, 2015; 82 FR 56661, Nov. 29, 2017; 84 FR 4237, Feb. 14, 2019; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019; 84 FR 61792, Nov. 13, 2019]

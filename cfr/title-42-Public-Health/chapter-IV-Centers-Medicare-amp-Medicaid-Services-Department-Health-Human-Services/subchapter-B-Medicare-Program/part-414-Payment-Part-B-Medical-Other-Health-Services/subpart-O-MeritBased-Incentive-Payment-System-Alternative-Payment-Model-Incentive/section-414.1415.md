@@ -1,7 +1,5 @@
 ##### § 414.1415 Advanced APM criteria. #####
 
-Link to an amendment published at 83 FR 60090, Nov. 23, 2018.Link to an amendment published at 84 FR 63200, Nov. 15, 2019.Link to a correction of the above amendment published at 84 FR 540, Jan. 31, 2019.
-
 (a) *Use of certified electronic health record technology (CEHRT)* - (1) *Required use of CEHRT.* To be an Advanced APM, an APM must:
 
 (i) Require at least 50 percent, or for QP Performance Periods beginning in 2019, 75 percent of eligible clinicians in each participating APM Entity group, or for APMs in which hospitals are the APM Entities, each hospital, to use CEHRT to document and communicate clinical care to their patients or health care providers; or
@@ -10,19 +8,29 @@ Link to an amendment published at 83 FR 60090, Nov. 23, 2018.Link to an amendmen
 
 (b) *Payment based on quality measures.* (1) To be an Advanced APM, an APM must include quality measure performance as a factor when determining payment to participants for covered professional services under the terms of the APM.
 
-(2) At least one of the quality measures upon which an Advanced APM bases the payment in paragraph (b)(1) of this section must have an evidence-based focus, be reliable and valid, and meet at least one of the following criteria:
+(2) At least one of the quality measures used in the payment arrangement as specified in paragraph (b)(1) of this section must:
 
-(i) Used in the MIPS quality performance category as described in § 414.1330;
+(i) For QP Performance Periods before January 1, 2020, have an evidence-based focus, be reliable and valid, and meet at least one of the following criteria:
 
-(ii) Endorsed by a consensus-based entity;
+(A) Used in the MIPS quality performance category, as described in § 414.1330;
 
-(iii) Developed under section 1848(s) of the Act;
+(B) Endorsed by a consensus-based entity;
 
-(iv) Submitted in response to the MIPS Call for Quality Measures under section 1848(q)(2)(D)(ii) of the Act; or
+(C) Developed under section 1848(s) of the Act;
 
-(v) Any other quality measures that CMS determines to have an evidence-based focus and to be reliable and valid.
+(D) Submitted in response to the MIPS Call for Quality Measures under section 1848(q)(2)(D)(ii) of the Act; or
 
-(3) In addition to the quality measure requirements under paragraph (b)(2) of this section, the quality measures upon which an Advanced APM bases the payment in paragraph (b)(1) of this section must include at least one outcome measure. This requirement does not apply if CMS determines that there are no available or applicable outcome measures included in the MIPS quality measures list for the Advanced APM's first QP Performance Period.
+(E) Any other quality measures that CMS determines to have an evidence-based focus and to be reliable and valid; and
+
+(ii) For QP Performance Periods beginning on or after January1, 2020, be:
+
+(A) Finalized on the MIPS final list of measures, as described in § 414.1330;
+
+(B) Endorsed by a consensus-based entity; or
+
+(C) Determined by CMS to be evidenced-based, reliable, and valid.
+
+(3) In addition to the quality measure described under paragraph (b)(2) of this section, the quality measures upon which an Advanced APM bases the payment in paragraph (b)(1) of this section must include at least one additional measure that is an outcome measure unless CMS determines that there are no available or applicable outcome measures included in the MIPS final quality measures list for the Advanced APM's first QP Performance Period. Beginning January 1, 2020, the included outcome measure must satisfy the criteria in paragraph (b)(2) of this section.
 
 (c) *Financial risk.* To be an Advanced APM, except as described in paragraph (c)(6) of this section, an APM must either meet the financial risk standard under paragraph (c)(1) or (2) of this section and the nominal amount standard under paragraph (c)(3) or (4) of this section or be an expanded Medical Home Model under section 1115A(c) of the Act.
 
@@ -66,10 +74,10 @@ Link to an amendment published at 83 FR 60090, Nov. 23, 2018.Link to an amendmen
 
 (ii) [Reserved]
 
-(5) *Expected expenditures.* For the purposes of this section, expected expenditures is defined as the beneficiary expenditures for which an APM Entity is responsible under an APM. For episode payment models, expected expenditures mean the episode target price.
+(5) For the purposes of this section, expected expenditures means the beneficiary expenditures for which an APM Entity is responsible under an APM. For episode payment models, expected expenditures means the episode target price. For purposes of assessing financial risk for Advanced APM determinations, the expected expenditures under the terms of the APM should not exceed the Medicare Part A and Part B expenditures for a participant in the absence of the APM. If the expected expenditures under the APM exceed the Medicare Part A and Part B expenditures that an APM Entity would be expected to incur in the absence of the APM, such excess expenditures are not considered when CMS assesses financial risk under the APM for purposes of Advanced APM determinations.
 
-(6) *Capitation.* A full capitation arrangement meets this Advanced APM criterion. For purposes of this part, a full capitation arrangement means a payment arrangement in which a per capita or otherwise predetermined payment is made under the APM for all items and services furnished to a population of beneficiaries during a fixed period of time, and no settlement is performed to reconcile or share losses incurred or savings earned by the APM Entity. Arrangements between CMS and Medicare Advantage Organizations under the Medicare Advantage program (42 U.S.C. 422) are not considered capitation arrangements for purposes of this paragraph (c)(6).
+(6) *Capitation.* A full capitation arrangement meets this Advanced APM criterion. For purposes of this part, a full capitation arrangement means a payment arrangement in which a per capita or otherwise predetermined payment is made under the APM for all items and services furnished to a population of beneficiaries during a fixed period of time, and no settlement is performed to reconcile or share losses incurred or savings earned by the APM Entity. Arrangements between CMS and Medicare Advantage Organizations under the Medicare Advantage program (part 422 of this title) are not considered capitation arrangements for purposes of this paragraph (c)(6).
 
 (7) *Medical Home Model 50 eligible clinician limit.* Notwithstanding paragraphs (c)(2) and (4) of this section, beginning in the 2018 QP Performance Period, if an APM Entity participating in a Medical Home Model other than Round 1 of the Comprehensive Primary Care Plus (CPC+) Model is owned and operated by an organization with 50 or more eligible clinicians whose Medicare billing rights have been reassigned to the TIN(s) of the organization(s) or any of the organization's subsidiary entities, the requirements of paragraphs (c)(1) and (c)(3) of this section apply.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60090, Nov. 23, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53960, Nov. 16, 2017; 83 FR 60090, Nov. 23, 2018; 84 FR 540, Jan. 31, 2019; 84 FR 63200, Nov. 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 414.1370 APM scoring standard under MIPS. #####
 
-Link to an amendment published at 84 FR 63196, Nov. 15, 2019.
-
 (a) *General.* The APM scoring standard is the MIPS scoring methodology applicable for MIPS eligible clinicians identified on the Participation List for the performance period of an APM Entity participating in a MIPS APM.
 
 (b) *Criteria for MIPS APMs.* MIPS APMs are those in which:
@@ -34,7 +32,7 @@ Link to an amendment published at 84 FR 63196, Nov. 15, 2019.
 
 (1) *Full TIN APM.* In addition to the dates set forth in § 414.1425(b)(1), the APM Entity group includes an eligible clinician who is on a Participation List in a Full TIN APM on December 31 of the MIPS performance period.
 
-(2) [Reserved]
+(2) For purposes of calculating the APM Entity group score under the APM scoring standard, MIPS scores submitted by virtual groups will not be included.
 
 (f) *APM Entity group scoring under the APM scoring standard.* The MIPS final score calculated for the APM Entity is applied to each MIPS eligible clinician in the APM Entity group. The MIPS payment adjustment is applied at the TIN/NPI level for each of the MIPS eligible clinicians in the APM Entity group.
 
@@ -42,25 +40,19 @@ Link to an amendment published at 84 FR 63196, Nov. 15, 2019.
 
 (2) MIPS eligible clinicians who participate in a group or have elected to participate in a virtual group and who are also on a MIPS APM Participation List will be included in the assessment under MIPS for purposes of producing a group or virtual group score and under the APM scoring standard for purposes of producing an APM Entity score. The MIPS payment adjustment for these eligible clinicians is based solely on their APM Entity score; if the APM Entity group is exempt from MIPS all eligible clinicians within that APM Entity group are also exempt from MIPS.
 
-(g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality* - (i) *MIPS APMs that require APM Entities to submit quality data using the CMS Web Interface.* (A) *Quality Performance Category Score.* The quality performance category score for a MIPS performance period is calculated for the APM Entity using the data submitted by the APM Entity according to the terms of the MIPS APM, including data on measures submitted through the CMS Web Interface and other measures specified by CMS through notice and comment rulemaking for the APM scoring standard.
+(g) *MIPS performance category scoring under the APM scoring standard* - (1) *Quality.* Beginning in the 2020 Performance year -
 
-(B) *Quality Improvement Score.* Beginning in 2018, for an APM Entity for which CMS calculated a total quality performance category score for one or more participants in the APM Entity for the previous MIPS performance period, CMS calculates a quality improvement score for the APM Entity group as specified in § 414.1380(b)(1)(xvi).
+(i) *MIPS APMs that require APM Entities to submit quality data through a MIPS submission mechanism.* The MIPS quality performance category score for a performance period will be calculated for the APM Entity using the data submitted for the APM Entity through a MIPS submission mechanism in accordance with § 414.1335.
 
-(C) *Total Quality Performance Category Score.* Beginning in 2018, the total quality performance category score is the sum of the quality performance category score, all applicable bonus points provided for by § 414.1380(b), and the quality improvement score.
+(ii) *MIPS APMs that do not require APM Entities to submit quality data through a MIPS submission mechanism.* The APM Entity will be assigned an APM Quality Reporting Credit worth 50 percent of the total quality performance category score. The APM Quality Reporting Credit will be added to the MIPS quality performance category score to generate an APM Entity quality performance category score, which in no case shall exceed 100. The MIPS quality performance category score for a performance period will be calculated for the APM Entity using the data submitted for the APM Entity through a MIPS submission mechanism in accordance with § 414.1335.
 
-(ii) *Other MIPS APMs* - (A) *Quality Performance Category Score.* The MIPS quality performance category score for a MIPS performance period is calculated for the APM Entity using the data submitted by the APM Entity based on measures specified by CMS through notice and comment rulemaking for each Other MIPS APM from among those used under the terms of the Other MIPS APM, and which are:
+(iii) *Determination of score for each MIPS eligible clinician in an APM entity.* Regardless of whether a MIPS APM requires APM Entities to submit quality data through a MIPS submission mechanism, if data are not submitted for an APM Entity through a MIPS submission mechanism in accordance with § 414.1335, the score for each MIPS eligible clinician in such APM Entity is the higher of either:
 
-(*1*) Tied to payment;
+(A) A TIN level score based on the measure data for the quality performance category reported by a TIN for the MIPS eligible clinician in accordance with § 414.1335; or
 
-(*2*) Available for scoring;
+(B) An individual level score based on the measure data for the quality performance category reported by the MIPS eligible clinician in accordance with § 414.1335.
 
-(*3*) Have a minimum of 20 cases available for reporting; and
-
-(*4*) Have an available benchmark.
-
-(B) *Quality Improvement Score.* Beginning in 2018, for an APM Entity for which CMS calculated a total quality performance category score for the previous MIPS performance period, CMS calculates a quality improvement score for the APM Entity group, as specified in § 414.1380(b)(1)(xvi).
-
-(C) *Total Quality Performance Category Score.* Beginning in 2018, the total quality performance category score is the sum of the quality performance category score, all applicable bonus points provided by § 414.1380(b), and the quality improvement score.
+(iv) *Quality improvement score.* For an APM Entity for which CMS calculated a total quality performance category score for one or more participants in the APM Entity for the preceding MIPS performance period, CMS calculates a quality improvement score for the APM Entity group as specified in § 414.1380(b)(1)(xvi).
 
 (2) *Cost.* The cost performance category weight is zero percent for APM Entities in MIPS APMs.
 
@@ -114,4 +106,4 @@ Link to an amendment published at 84 FR 63196, Nov. 15, 2019.
 
 (i) *Total APM Entity Score.* CMS scores each performance category and then multiplies each performance category score by the applicable performance category weight. CMS then calculates the sum of each weighted performance category score and then applies all applicable adjustments. APM Entities will receive MIPS bonuses applied to the final score as set forth in § 414.1380(b).
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60080, Nov. 23, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53953, Nov. 16, 2017; 83 FR 23610, May 22, 2018; 83 FR 60080, Nov. 23, 2018; 84 FR 63196, Nov. 15, 2019]

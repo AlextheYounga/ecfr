@@ -1,8 +1,6 @@
 ##### § 498.2 Definitions. #####
 
-Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
-
-As used in this part -
+As used in this part—
 
 *Affected party* means a provider, prospective provider, supplier, prospective supplier, or practitioner that is affected by an initial determination or by any subsequent determination or decision issued under this part, and “party” means the affected party or CMS, as appropriate. For provider or supplier enrollment appeals, an affected party includes CMS or a CMS contractor.
 
@@ -16,7 +14,7 @@ As used in this part -
 
 *Prospective supplier* means any of the listed entities specified in the definition of supplier in this section that seek to be approved for coverage of its services by Medicare.
 
-*Provider* means either of the following:
+*Provider* means any of the following:
 
 (1) Any of the following entities that have in effect an agreement to participate in Medicare:
 
@@ -43,6 +41,8 @@ As used in this part -
 (ii) Rehabilitation agency.
 
 (iii) Public health agency.
+
+(3) An entity that has in effect an agreement to participate in Medicare but only to furnish opioid use disorder treatment services.
 
 *Supplier* means any of the following entities that have in effect an agreement to participate in Medicare:
 
@@ -72,4 +72,4 @@ As used in this part -
 
 (13) A site approved by CMS to furnish intensive cardiac rehabilitation services.
 
-[52 FR 22446, June 12, 1987, as amended at 53 FR 6551, Mar. 1, 1988; 57 FR 24984, June 12, 1992; 58 FR 30677, May 26, 1993; 59 FR 6579, Feb. 11, 1994; 59 FR 56251, Nov. 10, 1994; 61 FR 32350, June 24, 1996; 62 FR 46037, Aug. 29, 1997; 65 FR 18549, Apr. 7, 2000; 65 FR 83154, Dec. 29, 2000; 68 FR 66721, Nov. 28, 2003; 71 FR 31054, May 31, 2006; 72 FR 15280, Mar. 30, 2007; 73 FR 36462, June 27, 2008; 74 FR 62014, Nov. 25, 2009]
+[52 FR 22446, June 12, 1987]Editorial Note:For Federal Register citations affecting § 498.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

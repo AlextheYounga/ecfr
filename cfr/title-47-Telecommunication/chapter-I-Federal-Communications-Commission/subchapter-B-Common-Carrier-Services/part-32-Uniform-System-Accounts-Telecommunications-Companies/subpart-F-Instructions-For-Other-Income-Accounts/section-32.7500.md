@@ -1,7 +1,5 @@
 ##### § 32.7500 Interest and related items. #####
 
-Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
-
 (a) This account shall include the current accruals of interest on all classes of funded debt the principal of which is includable in Account 4200, Long term debt and funded debt. It shall also include the interest on funded debt the maturity of which has been extended by specific agreement. This account shall be kept so that the interest on each class of funded debt may be shown separately in the annual reports to this Commission.
 
 (b) These accounts shall not include charges for interest on funded debt issued or assumed by the company and held by or for it, whether pledged as collateral or held in its treasury, in special deposits or in sinking or other funds.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
 
 (d) This account shall also include monthly amortization of balances in Account 4200, Long-term debt and funded debt.
 
-(e) This account shall include the interest portion of each capital lease payment.
+(e) This account shall include the interest portion of each finance lease and capitalized operating lease payment.
 
 (f) This account shall include the monthly amortization of the balances in Account 1410, Other noncurrent assets.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
 
 (11) Discount, premium, and issuance expense of notes maturing one year or less from date of issue.
 
-[67 FR 5699, Feb. 6, 2002]
+[67 FR 5699, Feb. 6, 2002, as amended at 84 FR 4730, Feb. 19, 2019]

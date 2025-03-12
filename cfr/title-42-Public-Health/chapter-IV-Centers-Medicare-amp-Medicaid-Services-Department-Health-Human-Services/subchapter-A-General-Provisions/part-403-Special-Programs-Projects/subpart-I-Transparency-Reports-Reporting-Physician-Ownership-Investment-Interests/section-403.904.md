@@ -1,7 +1,5 @@
 ##### § 403.904 Reports of payments or other transfers of value to covered recipients. #####
 
-Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
-
 (a) *General rule.* (1) Direct and indirect payments or other transfers of value provided by an applicable manufacturer to a covered recipient during the preceding calendar year, and direct and indirect payments or other transfers of value provided to a third party at the request of or designated by the applicable manufacturer on behalf of a covered recipient during the preceding calendar year, must be reported by the applicable manufacturer to CMS on an annual basis.
 
 (2) For CY 2013, only payments or other transfers of value made on or after August 1, 2013 must be reported to CMS.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (c) *Required information to report.* A report must contain all of the following information for each payment or other transfer of value:
 
-(1) *Name of the covered recipient.* For physician covered recipients, the name must be as listed in the National Plan & Provider Enumeration System (if applicable) and include first and last name, middle initial, and suffix (for all that apply).
+(1) *Name of the covered recipient.* For non-teaching hospital covered recipients, the name must be as listed in the National Plan & Provider Enumeration System (NPPES) (if applicable) and include first and last name, middle initial, and suffix (for all that apply).
 
 (2) *Address of the covered recipient.* Primary business address of the covered recipient, including all the following:
 
@@ -32,13 +30,13 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (v) ZIP code.
 
-(3) *Identifiers for physician covered recipients.* In the case of a covered recipient who is a physician, the following identifiers:
+(3*) Identifiers for non-teaching hospital covered recipients.* In the case of a covered recipient the following identifiers:
 
 (i) The specialty.
 
-(ii) National Provider Identifier (if applicable and as listed in the NPPES). If a National Provider Identifier cannot be identified for a physician, the field may be left blank, indicating that the applicable manufacturer could not find one.
+(ii) National Provider Identifier (if applicable and as listed in the NPPES). If a National Provider Identifier cannot be identified for a non-teaching hospital covered recipient, the field may be left blank, indicating that the applicable manufacturer could not find one.
 
-(iii) State professional license number(s) (for at least one State where the physician maintains a license), and the State(s) in which the license is held.
+(iii) State professional license number(s) (for at least one State where the non-teaching hospital covered recipient maintains a license), and the State(s) in which the license is held.
 
 (4) *Amount of payment or other transfer of value.* A payment or other transfer of value made to a group of covered recipients should be distributed appropriately among the individual covered recipients who requested the payment, on whose behalf the payment was made, or who are intended to benefit from the payment or other transfer of value.
 
@@ -52,15 +50,21 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (7) *Nature of payment or transfer of value.* The nature of each payment or other transfer of value, as described in paragraph (e) of this section.
 
-(8) *Related covered drug, device, biological or medical supply.* Report the marketed name of the related covered drugs, devices, biologicals, or medical supplies, and therapeutic area or product category unless the payment or other transfer of value is not related to a particular covered drug, device, biological or medical supply.
+(8) *Related covered drug, device, biological or medical supply.* Report the marketed or brand name of the related covered drugs, devices, biologicals, or medical supplies, and therapeutic area or product category unless the payment or other transfer of value is not related to a particular covered drug, device, biological or medical supply.
 
-(i) For drugs and biologicals, if the marketed name has not yet been selected, applicable manufacturers must indicate the name registered on *clinicaltrials.gov.*
+(i) For drugs and biologicals -
 
-(ii) Applicable manufacturers may report the marketed name and therapeutic area or product category for payments or other transfers of value related to a non-covered drug, device, biological, or medical supply.
+(A) If the marketed name has not yet been selected, applicable manufacturers must indicate the name registered on *clinicaltrials.gov*.
 
-(iii) Applicable manufacturers must indicate if the related drug, device, biological, or medical supply is covered or non-covered.
+(B) Any regularly used identifiers must be reported, including, but not limited to, national drug codes.
 
-(iv) Applicable manufacturers must indicate if the payment or other transfer of value is not related to any covered or non-covered drug, device, biological or medical supply.
+(ii) For devices, if the device has a unique device identifier (UDI), then the device identifier (DI) portions of it must be reported, as applicable.
+
+(iii) Applicable manufacturers may report the marketed name and therapeutic area or product category for payments or other transfers of value related to a non-covered drug, device, biological, or medical supply.
+
+(iv) Applicable manufacturers must indicate if the related drug, device, biological, or medical supply is covered or non-covered.
+
+(v) Applicable manufacturers must indicate if the payment or other transfer of value is not related to any covered or non-covered drug, device, biological or medical supply.
 
 (9) *Eligibility for delayed publication.* Applicable manufacturers must indicate whether a payment or other transfer of value is eligible for delayed publication, as described in § 403.910.
 
@@ -88,7 +92,7 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (e) *Reporting the nature of the payment or other transfer of value.* (1) *General rule.* The categories describing the nature of a payment or other transfer of value are mutually exclusive for the purposes of reporting under subpart I of this part.
 
-(2) *Rules for categorizing natures of payment.* An applicable manufacturer must categorize each payment or other transfer of value, or separable part of that payment or transfer of value, with one of the categories listed in paragraphs (e)(2)(i) through (xvii) of this section, using the designation that best describes the nature of the payment or other transfer of value, or separable part of that payment or other transfer of value. If a payment or other transfer of value could reasonably be considered as falling within more than one category, the applicable manufacturer should select one category that it deems to most accurately describe the nature of the payment or transfer of value.
+(2) *Rules for categorizing natures of payment.* An applicable manufacturer must categorize each payment or other transfer of value, or separable part of that payment or transfer of value, with one of the categories listed in paragraphs (e)(2)(i) through (xviii) of this section, using the designation that best describes the nature of the payment or other transfer of value, or separable part of that payment or other transfer of value. If a payment or other transfer of value could reasonably be considered as falling within more than one category, the applicable manufacturer should select one category that it deems to most accurately describe the nature of the payment or transfer of value.
 
 (i) Consulting fee.
 
@@ -110,35 +114,39 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (x) Charitable contribution.
 
+(xi) Debt forgiveness.
+
 (xii) Royalty or license.
 
 (xiii) Current or prospective ownership or investment interest.
 
-(xiv) Compensation for serving as faculty or as a speaker for an unaccredited and non-certified continuing education program.
+(xiv) Compensation for serving as faculty or as a speaker for a medical education program.
 
-(xv) Compensation for serving as faculty or as a speaker for an accredited or certified continuing education program.
+(xv) Long term medical supply or device loan.
 
 (xvi) Grant.
 
 (xvii) Space rental or facility fees (teaching hospital only).
 
+(xviii) Acquisitions.
+
 (f) *Special rules for research payments.* All payments or other transfers of value made in connection with an activity that meets the definition of research in this section and that are subject to a written agreement, a research protocol, or both, must be reported under these special rules.
 
-(1) Research-related payments or other transfers of value to covered recipients (either physicians or teaching hospitals), including research-related payments or other transfers of value made indirectly to a covered recipient through a third party, must be reported to CMS separately from other payments or transfers of value, and must include the following information (in lieu of the information required by § 403.904(c)):
+(1) Research-related payments or other transfers of value to covered recipients, including research-related payments or other transfers of value made indirectly to a covered recipient through a third party, must be reported to CMS separately from other payments or transfers of value, and must include the following information (in lieu of the information required by § 403.904(c)):
 
 (i) Name of the research institution, individual or entity receiving the payment or other transfer of value.
 
-(A) If paid to a physician covered recipient, all of the following must be provided:
+(A) If paid to a non-teaching hospital covered recipient, all of the following must be provided:
 
-(*1*) The physician's name as listed in the NPPES (if applicable).
+(*1*) The non-teaching hospital covered recipient's name as listed in the NPPES (if applicable).
 
 (*2*) National Provider Identifier.
 
-(*3*) State professional license number(s) (for at least one State where the physician maintains a license) and State(s) in which the license is held.
+(*3*) State professional license number(s) (for at least one State where the non-teaching hospital covered recipient maintains a license) and State(s) in which the license is held.
 
 (*4*) Specialty.
 
-(*5*) Primary business address of the physician(s).
+(*5*) Primary business address of the non-teaching hospital covered recipient(s).
 
 (B) If paid to a teaching hospital covered recipient, list the name and primary business address of teaching hospital.
 
@@ -148,9 +156,9 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (iii) Name of the research study.
 
-(iv) Name(s) of any related covered drugs, devices, biologicals, or medical supplies (subject to the requirements specified in paragraph (c)(8) of this section), for drugs and biologicals, the relevant National Drug Code(s), if any, for devices and medical supplies and report a therapeutic area or product category if a marketed name is not available.
+(iv) Name(s) of any related covered drugs, devices, biologicals, or medical supplies (subject to the requirements specified in paragraph (c)(8) of this section); for drugs and biologicals, the relevant National Drug Code(s), if any; and for devices and medical supplies, the relevant device identifier, if any, and the therapeutic area or product category if a marketed name is not available.
 
-(v) Information about each physician covered recipient principal investigator (if applicable) set forth in paragraph (f)(1)(i)(A) of this section.
+(v) Information about each non-teaching hospital covered recipient principal investigator (if applicable) set forth in paragraph (f)(1)(i)(A) of this section.
 
 (vi) Contextual information for research (optional).
 
@@ -184,11 +192,11 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (4) Educational materials and items that directly benefit patients or are intended to be used by or with patients, including the value of an applicable manufacturer's services to educate patients regarding a covered drug, device, biological, or medical supply.
 
-(5) The loan of a covered device or a device under development, or the provision of a limited quantity of medical supplies for a short-term trial period, not to exceed a loan period of 90 days or a quantity of 90 days of average daily use, to permit evaluation of the device or medical supply by the covered recipient.
+(5) Short term medical supply or device loan.
 
 (6) Items or services provided under a contractual warranty (including service or maintenance agreements), whether or not the warranty period has expired, including the replacement of a covered device, where the terms of the warranty are set forth in the purchase or lease agreement for the covered device.
 
-(7) A transfer of anything of value to a physician covered recipient when the covered recipient is a patient, research subject or participant in data collection for research, and not acting in the professional capacity of a covered recipient.
+(7) A transfer of anything of value to a non-teaching hospital covered recipient when the covered recipient is a patient, research subject or participant in data collection for research, and not acting in the professional capacity of a covered recipient.
 
 (8) Discounts, including rebates.
 
@@ -200,8 +208,8 @@ Link to an amendment published at 84 FR 63186, Nov. 15, 2019.
 
 (12) In the case of a covered recipient who is a licensed non-medical professional, a transfer of anything of value to the covered recipient if the transfer is payment solely for the non-medical professional services of the licensed non-medical professional.
 
-(13) In the case of a covered recipient who is a physician, a transfer of anything of value to the covered recipient if the transfer is payment solely for the services of the covered recipient with respect to an administrative proceeding, legal defense, prosecution, or settlement or judgment of a civil or criminal action and arbitration.
+(13) In the case of a non-teaching hospital covered recipient, a transfer of anything of value to the covered recipient if the transfer is payment solely for the services of the covered recipient with respect to an administrative proceeding, legal defense, prosecution, or settlement or judgment of a civil or criminal action and arbitration.
 
 (14) A payment or transfer of value to a covered recipient if the payment or transfer of value is made solely in the context of a personal, non-business-related relationship.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014]
+[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63186, Nov. 15, 2019]

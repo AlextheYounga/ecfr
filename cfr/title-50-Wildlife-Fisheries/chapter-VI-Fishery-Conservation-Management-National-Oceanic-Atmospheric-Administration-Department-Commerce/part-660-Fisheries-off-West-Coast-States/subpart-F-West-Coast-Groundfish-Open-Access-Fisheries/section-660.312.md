@@ -1,8 +1,6 @@
-##### § 660.312 Open access fishery - prohibitions. #####
+##### § 660.312 Open access fishery—prohibitions. #####
 
-Link to an amendment published at 84 FR 63992, Nov. 19, 2019.
-
-General groundfish prohibitions for the Pacific Coast groundfish fisheries are defined at § 660.12, subpart C. In addition to the general groundfish prohibitions, it is unlawful for any person to:
+In addition to the general prohibitions specified in §§ 660.12 and 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Take and retain, possess, or land groundfish in excess of the landing limit for the open access fishery without having a valid limited entry permit for the vessel affixed with a gear endorsement for the gear used to catch the fish.
 
@@ -30,8 +28,14 @@ General groundfish prohibitions for the Pacific Coast groundfish fisheries are d
 
 (2) Operate a vessel in an applicable GCA (as defined at § 660.330(d) that has nontrawl gear onboard and is not registered to a limited entry permit on a trip in which the vessel is used to take and retain or possess groundfish in the EEZ, possess or land groundfish taken in the EEZ, except for purposes of continuous transiting, with all groundfish nontrawl gear stowed in accordance with § 660.330(b), or except as authorized in the groundfish management measures published at § 660.330.
 
-(3) Fish with bottom contact gear (as defined in § 660.11, subpart C) within the EEZ in the following areas (defined in §§ 660.78 and 660.79): Thompson Seamount, President Jackson Seamount, Cordell Bank (50-fm (91-m) isobath), Harris Point, Richardson Rock, Scorpion, Painted Cave, Anacapa Island, Carrington Point, Judith Rock, Skunk Point, Footprint, Gull Island, South Point, and Santa Barbara.
+(3) Fish with bottom contact gear (defined at § 660.11) within specific EFHCAs or the DECA, as specified in § 660.12(a).
 
-(4) Fish with bottom contact gear (as defined in § 660.11, subpart C), or any other gear that is deployed deeper than 500-fm (914-m), within the Davidson Seamount area (defined in § 660.75).
+(4) Fish with bottom trawl gear (defined at § 660.11) anywhere within EFH seaward of a line approximating the 700-fm (1280-m) depth contour, as defined in § 660.76. For the purposes of regulation, EFH seaward of 700-fm (1280-m) within the EEZ is described at § 660.75.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 81 FR 84433, Nov. 23, 2016]
+(5) Fish with bottom trawl gear (defined at § 660.11) with a footrope diameter greater than 8 inches (20 cm) (including rollers, bobbins or other material encircling or tied along the length of the footrope) anywhere within the EEZ shoreward of a line approximating the 100-fm (183-m) depth contour (defined at § 660.73).
+
+(6) Fish with bottom trawl gear (defined at § 660.11), within the EEZ in the following EFHCAs (defined at §§ 660.77 and 660.78): Olympic 2, Biogenic 1, Biogenic 2, Quinault Canyon, Grays Canyon, Willapa Canyonhead, Willapa Deep, Biogenic 3, Astoria Deep, Astoria Canyon, Nehalem Bank/Shale Pile, Garibaldi Reef North, Garibaldi Reef South, Siletz Deepwater, Daisy Bank/Nelson Island, Newport Rockpile/Stonewall Bank, Hydrate Ridge, Heceta Bank, Deepwater off Coos Bay, Arago Reef, Bandon High Spot, Rogue Canyon, and Rogue River Reef.
+
+(7) Fish with bottom trawl gear (defined at § 660.11), other than demersal seine, unless otherwise specified in this section or § 660.330, within the EEZ in the following EFHCAs (defined at § 660.79): Brush Patch, Trinidad Canyon, Mad River Rough Patch, Samoa Deepwater, Eel River Canyon, Blunts Reef, Mendocino Ridge, Delgada Canyon, Tolo Bank, Navarro Canyon, Point Arena North, Point Arena South Biogenic Area, The Football, Gobbler's Knob, Point Reyes Reef, Cordell Bank/Biogenic Area, Rittenburg Bank, Farallon Islands/Fanny Shoal/Cochrane Bank, Farallon Escarpment, Half Moon Bay, Pescadero Reef, Pigeon Point Reef, Ascension Canyonhead, South of Davenport, Monterey Bay/Canyon, West of Sobranes Point, Point Sur Deep, Big Sur Coast/Port San Luis, La Cruz Canyon, West of Piedras Blancas State Marine Conservation Area, East San Lucia Bank, Point Conception, Hidden Reef/Kidney Bank (within Cowcod Conservation Area West), Catalina Island, Potato Bank (within Cowcod Conservation Area West), Cherry Bank (within Cowcod Conservation Area West), Cowcod EFHCA Conservation Area East, and Southern California Bight.
+
+[75 FR 60897, Oct. 1, 2010, as amended at 81 FR 84433, Nov. 23, 2016; 84 FR 63992, Nov. 19, 2019]

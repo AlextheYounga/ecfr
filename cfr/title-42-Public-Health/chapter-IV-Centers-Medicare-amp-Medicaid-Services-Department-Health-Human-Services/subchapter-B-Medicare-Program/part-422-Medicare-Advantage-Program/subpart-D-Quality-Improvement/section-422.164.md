@@ -1,7 +1,5 @@
 ##### § 422.164 Adding, updating, and removing measures. #####
 
-Link to an amendment published at 84 FR 15829, April 16, 2019.
-
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.
@@ -53,6 +51,8 @@ Link to an amendment published at 84 FR 15829, April 16, 2019.
 (iii) CMS will exclude any measures that are already focused on improvement in MA organization performance from year to year.
 
 (iv) The Part C improvement measure will include only Part C measure scores; the Part D improvement measure will include only Part D measure scores.
+
+(v) CMS excludes any measure that receives a measure-level Star Rating reduction for data integrity concerns for either the current or prior year from the improvement measure(s).
 
 (2) *Determining eligible contracts.* CMS will calculate an improvement score only for contracts that have numeric measure scores for both years in at least half of the measures identified for use applying the standards in paragraphs (f)(1)(i) through (iv) of this section.
 
@@ -120,6 +120,12 @@ Link to an amendment published at 84 FR 15829, April 16, 2019.
 
 (N) The reduction is identified by the highest threshold that a contract's lower bound exceeds.
 
+(O) CMS reduces the measure rating to 1 star for the applicable appeals measure(s) if a contract fails to submit Timeliness Monitoring Project data for CMS's review to ensure the completeness of the contract's IRE data.
+
 (2) CMS will reduce a measure rating to 1 star for additional concerns that data inaccuracy, incompleteness, or bias have an impact on measure scores and are not specified in paragraphs (g)(1)(i) through (iii) of this section, including a contract's failure to adhere to HEDIS, HOS, or CAHPS reporting requirements.
 
-[83 FR 16725, Apr. 16, 2018]
+(h) *Review of sponsors' data.* (1) An MA organization may request that CMS or the IRE review its' contract's appeals data provided that the request is received by the annual deadline set by CMS.
+
+(2) An MA organization may request that CMS review its' contract's Complaints Tracking Module (CTM) data provided that the request is received by the annual deadline set by CMS for the applicable Star Ratings year.
+
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019]

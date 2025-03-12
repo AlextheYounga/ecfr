@@ -1,7 +1,5 @@
 ##### § 412.22 Excluded hospitals and hospital units: General rules. #####
 
-Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
-
 (a) *Criteria.* Subject to the criteria set forth in paragraph (e) of this section, a hospital is excluded from the prospective payment systems specified in § 412.1(a)(1) of this part if it meets the criteria for one or more of the excluded classifications described in § 412.23. For purposes of this subpart, the term “hospital” includes a critical access hospital (CAH).
 
 (b) *Cost reimbursement.* Except for those hospitals specified in paragraph (c) of this section, and § 412.20(b), (c), and (d), all excluded hospitals (and excluded hospital units, as described in § 412.23 through § 412.29) are reimbursed under the cost reimbursement rules set forth in part 413 of this chapter, and are subject to the ceiling on the rate of hospital cost increases as specified in § 413.40 of this chapter.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
 
 (e) *Hospitals-within-hospitals.* A hospital-within-a-hospital is a hospital that occupies space in a building also used by another hospital, or in one or more separate buildings located on the same campus as buildings used by another hospital. Prior to October 1, 2017, except as provided in paragraphs (e)(1)(vi) and (f) of this section, a hospital-within-a-hospital must meet the following criteria in order to be excluded from the prospective payment systems specified in § 412.1(a)(1). On or after October 1, 2017, except as provided in paragraphs (e)(1)(vi) and (f) of this section, a hospital-within-hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1) that occupies space in a building also used by a hospital which is not excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more separate buildings located on the same campus as buildings used by a hospital not excluded from the prospective payment systems specified in § 412.1(a)(1) must meet the following criteria in order to be excluded from the prospective payment systems specified in § 412.1(a)(1).
 
-(1) Except as specified in paragraph (f) of this section, for cost reporting periods beginning on or after October 1, 1997 -
+(1) Except as specified in paragraph (f) of this section, for cost reporting periods beginning on or after October 1, 1997—
 
 (i) *Separate governing body.* The hospital has a governing body that is separate from the governing body of the hospital occupying space in the same building or on the same campus. The hospital's governing body is not under the control of the hospital occupying space in the same building or on the same campus, or of any third entity that controls both hospitals.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
 
 (C) For the same period of at least 6 months used to determine compliance with the criterion regarding the age of inpatients in § 412.23(d)(2) or the length-of-stay criterion in § 412.23(e)(2), or for hospitals other than children's or long-term care hospitals, for the period of at least 6 months immediately preceding the first cost reporting period for which exclusion is sought, the hospital has an inpatient population of whom at least 75 percent were referred to the hospital from a source other than another hospital occupying space in the same building or on the same campus.
 
-(vi) Effective October 1, 2008, if a State hospital that is occupying space in the same building or on the same campus as another State hospital cannot meet the criterion under paragraph (e)(1)(i) of this section solely because its governing body is under the control of the State hospital with which it shares a building or a campus, or is under the control of a third entity that also controls the State hospital with which it shares a building or a campus, the State hospital can nevertheless qualify for an exclusion if it meets the other applicable criteria in this section and -
+(vi) Effective October 1, 2008, if a State hospital that is occupying space in the same building or on the same campus as another State hospital cannot meet the criterion under paragraph (e)(1)(i) of this section solely because its governing body is under the control of the State hospital with which it shares a building or a campus, or is under the control of a third entity that also controls the State hospital with which it shares a building or a campus, the State hospital can nevertheless qualify for an exclusion if it meets the other applicable criteria in this section and—
 
 (A) Both State hospitals occupy space in the same building or on the same campus and have been continuously owned and operated by the State since October 1, 1995;
 
@@ -50,11 +48,11 @@ Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
 
 (3) *Notification of co-located status.* A long-term care hospital that occupies space in a building used by another hospital, or in one or more entire buildings located on the same campus as buildings used by another hospital and that meets the criteria of paragraphs (e)(1) or (e)(2) of this section must notify its fiscal intermediary and CMS in writing of its co-location and identify by name, address, and Medicare provider number those hospital(s) with which it is co-located.
 
-(f) *Application for certain hospitals.* Except as provided in paragraph (f)(3) of this section, if a hospital was excluded from the prospective payment systems under the provisions of this section on or before September 30, 1995, and at that time occupied space in a building also used by another hospital, or in one or more buildings located on the same campus as buildings used by another hospital, the criteria in paragraph (e) of this section do not apply to the hospital as long as the hospital -
+(f) *Application for certain hospitals.* Except as provided in paragraph (f)(3) of this section, if a hospital was excluded from the prospective payment systems under the provisions of this section on or before September 30, 1995, and at that time occupied space in a building also used by another hospital, or in one or more buildings located on the same campus as buildings used by another hospital, the criteria in paragraph (e) of this section do not apply to the hospital as long as the hospital—
 
-(1) Continues to operate under the same terms and conditions, including the number of beds and square footage considered to be part of the hospital for purposes of Medicare participation and payment in effect on September 30, 1995; or
+(1) Continues to operate under the same terms and conditions, including the number of beds, unless the hospital is a children's hospital as defined at § 412.23(d), and square footage considered to be part of the hospital for purposes of Medicare participation and payment in effect on September 30, 1995; or
 
-(2) In the case of a hospital that changes the terms and conditions under which it operates after September 30, 1995, but before October 1, 2003, continues to operate under the same terms and conditions, including the number of beds and square footage considered to be part of the hospital for purposes of Medicare participation and payment in effect on September 30, 2003.
+(2) In the case of a hospital that changes the terms and conditions under which it operates after September 30, 1995, but before October 1, 2003, continues to operate under the same terms and conditions, including the number of beds, unless the hospital is a children's hospital as defined at § 412.23(d), and square footage considered to be part of the hospital for purposes of Medicare participation and payment in effect on September 30, 2003.
 
 (3) For cost reporting periods beginning on or after October 1, 2006, in applying the provisions of paragraph (f)(1) or (f)(2) of this section, any hospital that was excluded from the prospective payment systems under the provisions of this section on or before September 30, 1995, and at that time occupied space in a building also used by another hospital, or in one or more buildings located on the same campus as buildings used by another hospital may increase or decrease the square footage or decrease the number of beds considered to be part of the hospital at any time without affecting the provisions of paragraph (f)(1) or (f)(2) of this section.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
 
 (i) In the case of a hospital (other than a children's hospital) that was excluded from the prospective payment systems for the most recent cost reporting period beginning before October 1, 1997, the hospital's number of State-licensed and Medicare-certified beds, including those at the satellite facilities, does not exceed the hospital's number of State-licensed and Medicare-certified beds on the last day of the hospital's last cost reporting period beginning before October 1, 1997.
 
-(ii) The satellite facility independently complies with -
+(ii) The satellite facility independently complies with—
 
 (A) For psychiatric hospitals, the requirements under § 412.23(a);
 
@@ -104,19 +102,19 @@ Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
 
 (*4*) On or after October 1, 2018, a satellite facility that is part of a hospital excluded from the prospective payment systems specified in § 412.1(a)(1) that provides inpatient services in a building also used by another hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more entire buildings located on the same campus as buildings used by another hospital that is excluded from the prospective payment systems specified in § 412.1(a)(1), is not required to meet the criteria specified in paragraphs (h)(2)(iii)(A)(*1*) through (*3*) of this section in order to be excluded from the inpatient prospective payment system. A satellite facility that is part of a hospital excluded from the prospective payment systems specified in § 412.1(a)(1) which is located in a building also used by another hospital that is not excluded from the prospective payment systems specified in § 412.1(a)(1), or in one or more entire buildings located on the same campus as buildings used by another hospital that is not excluded from the prospective payment systems specified in § 412.1(a)(1), is required to meet the criteria specified in paragraphs (h)(2)(iii)(A)(*1*) through (*3*) of this section in order to be excluded from the prospective payment systems specified in § 412.1(a)(1).
 
-(3) Except as provided in paragraphs (h)(4) and (h)(5) of this section, the provisions of paragraph (h)(2) of this section do not apply to -
+(3) Except as provided in paragraphs (h)(4) and (h)(5) of this section, the provisions of paragraph (h)(2) of this section do not apply to—
 
 (i) Any hospital structured as a satellite facility on September 30, 1999, and excluded from the prospective payment systems on that date, to the extent the hospital continues operating under the same terms and conditions, including the number of beds and square footage considered, for the purposes of Medicare participation and payment, to be part of the hospital, in effect on September 30, 1999; or
 
 (ii) Any hospital excluded from the prospective payment systems under § 412.23(e)(2)(ii).
 
-(4) For cost reporting periods beginning before October 1, 2006, in applying the provisions of paragraph (h)(3) of this section, any hospital structured as a satellite facility on September 30, 1999, may increase or decrease the square footage of the satellite facility or may decrease the number of beds in the satellite facility if these changes are made necessary by relocation of a facility -
+(4) For cost reporting periods beginning before October 1, 2006, in applying the provisions of paragraph (h)(3) of this section, any hospital structured as a satellite facility on September 30, 1999, may increase or decrease the square footage of the satellite facility or may decrease the number of beds in the satellite facility if these changes are made necessary by relocation of a facility—
 
 (i) To permit construction or renovation necessary for compliance with changes in Federal, State, or local law; or
 
 (ii) Because of catastrophic events such as fires, floods, earthquakes, or tornadoes.
 
-(5) For cost reporting periods beginning on or after October 1, 2006, in applying the provisions of paragraph (h)(3) of this section -
+(5) For cost reporting periods beginning on or after October 1, 2006, in applying the provisions of paragraph (h)(3) of this section—
 
 (i) Any hospital structured as a satellite facility on September 30, 1999, may increase or decrease the square footage or decrease the number of beds considered to be part of the satellite facility at any time without affecting the provisions of paragraph (h)(3) of this section; and
 

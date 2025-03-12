@@ -1,10 +1,8 @@
 ##### § 75.20 Program for compliance; reporting. #####
 
-Link to an amendment published at 84 FR 62209, Nov. 14, 2019.
+(a) *Program requirement.* Each banking entity (other than a banking entity with limited trading assets and liabilities) shall develop and provide for the continued administration of a compliance program reasonably designed to ensure and monitor compliance with the prohibitions and restrictions on proprietary trading and covered fund activities and investments set forth in section 13 of the BHC Act and this part. The terms, scope, and detail of the compliance program shall be appropriate for the types, size, scope, and complexity of activities and business structure of the banking entity.
 
-(a) *Program requirement.* Each banking entity shall develop and provide for the continued administration of a compliance program reasonably designed to ensure and monitor compliance with the prohibitions and restrictions on proprietary trading and covered fund activities and investments set forth in section 13 of the BHC Act and this part. The terms, scope and detail of the compliance program shall be appropriate for the types, size, scope and complexity of activities and business structure of the banking entity.
-
-(b) *Contents of compliance program.* Except as provided in paragraph (f) of this section, the compliance program required by paragraph (a) of this section, at a minimum, shall include:
+(b) *Banking entities with significant trading assets and liabilities.* With respect to a banking entity with significant trading assets and liabilities, the compliance program required by paragraph (a) of this section, at a minimum, shall include:
 
 (1) Written policies and procedures reasonably designed to document, describe, monitor and limit trading activities subject to subpart B of this part (including those permitted under §§ 75.3 to 75.6), including setting, monitoring and managing required limits set out in §§ 75.4 and 75.5, and activities and investments with respect to a covered fund subject to subpart C of this part (including those permitted under §§ 75.11 through 75.14) conducted by the banking entity to ensure that all activities and investments conducted by the banking entity that are subject to section 13 of the BHC Act and this part comply with section 13 of the BHC Act and this part;
 
@@ -18,27 +16,17 @@ Link to an amendment published at 84 FR 62209, Nov. 14, 2019.
 
 (6) Records sufficient to demonstrate compliance with section 13 of the BHC Act and this part, which a banking entity must promptly provide to the Commission upon request and retain for a period of no less than 5 years or such longer period as required by the Commission.
 
-(c) *Additional standards.* In addition to the requirements in paragraph (b) of this section, the compliance program of a banking entity must satisfy the requirements and other standards contained in appendix B of this part, if:
+(c) *CEO attestation.* The CEO of a banking entity that has significant trading assets and liabilities must, based on a review by the CEO of the banking entity, attest in writing to the CFTC, each year no later than March 31, that the banking entity has in place processes to establish, maintain, enforce, review, test and modify the compliance program required by paragraph (b) of this section in a manner reasonably designed to achieve compliance with section 13 of the BHC Act and this part. In the case of a U.S. branch or agency of a foreign banking entity, the attestation may be provided for the entire U.S. operations of the foreign banking entity by the senior management officer of the U.S. operations of the foreign banking entity who is located in the United States.
 
-(1) The banking entity engages in proprietary trading permitted under subpart B of this part and is required to comply with the reporting requirements of paragraph (d) of this section;
+(d) *Reporting requirements under appendix A to this part.* (1) A banking entity engaged in proprietary trading activity permitted under subpart B of this part shall comply with the reporting requirements described in appendix A to this part, if:
 
-(2) The banking entity has reported total consolidated assets as of the previous calendar year end of $50 billion or more or, in the case of a foreign banking entity, has total U.S. assets as of the previous calendar year end of $50 billion or more (including all subsidiaries, affiliates, branches and agencies of the foreign banking entity operating, located or organized in the United States); or
+(i) The banking entity has significant trading assets and liabilities; or
 
-(3) The Commission notifies the banking entity in writing that it must satisfy the requirements and other standards contained in appendix B of this part.
+(ii) The CFTC notifies the banking entity in writing that it must satisfy the reporting requirements contained in appendix A to this part.
 
-(d) *Reporting requirements under appendix A of this part.* (1) A banking entity engaged in proprietary trading activity permitted under subpart B of this part shall comply with the reporting requirements described in appendix A of this part, if:
+(2) Frequency of reporting: Unless the CFTC notifies the banking entity in writing that it must report on a different basis, a banking entity subject to appendix A to this part shall report the information required by appendix A for each quarter within 30 days of the end of the quarter.
 
-(i) The banking entity (other than a foreign banking entity as provided in paragraph (d)(1)(ii) of this section) has, together with its affiliates and subsidiaries, trading assets and liabilities (excluding trading assets and liabilities involving obligations of or guaranteed by the United States or any agency of the United States) the average gross sum of which (on a worldwide consolidated basis) over the previous consecutive four quarters, as measured as of the last day of each of the four prior calendar quarters, equals or exceeds the threshold established in paragraph (d)(2) of this section;
-
-(ii) In the case of a foreign banking entity, the average gross sum of the trading assets and liabilities of the combined U.S. operations of the foreign banking entity (including all subsidiaries, affiliates, branches and agencies of the foreign banking entity operating, located or organized in the United States and excluding trading assets and liabilities involving obligations of or guaranteed by the United States or any agency of the United States) over the previous consecutive four quarters, as measured as of the last day of each of the four prior calendar quarters, equals or exceeds the threshold established in paragraph (d)(2) of this section; or
-
-(iii) The Commission notifies the banking entity in writing that it must satisfy the reporting requirements contained in appendix A of this part.
-
-(2) The threshold for reporting under paragraph (d)(1) of this section shall be $50 billion beginning on June 30, 2014; $25 billion beginning on April 30, 2016; and $10 billion beginning on December 31, 2016.
-
-(3) *Frequency of reporting.* Unless the Commission notifies the banking entity in writing that it must report on a different basis, a banking entity with $50 billion or more in trading assets and liabilities (as calculated in accordance with paragraph (d)(1) of this section) shall report the information required by appendix A of this part for each calendar month within 30 days of the end of the relevant calendar month; beginning with information for the month of January 2015, such information shall be reported within 10 days of the end of each calendar month. Any other banking entity subject to appendix A of this part shall report the information required by appendix A of this part for each calendar quarter within 30 days of the end of that calendar quarter unless the Commission notifies the banking entity in writing that it must report on a different basis.
-
-(e) *Additional documentation for covered funds.* Any banking entity that has more than $10 billion in total consolidated assets as reported on December 31 of the previous two calendar years shall maintain records that include:
+(e) *Additional documentation for covered funds.* A banking entity with significant trading assets and liabilities shall maintain records that include:
 
 (1) Documentation of the exclusions or exemptions other than sections 3(c)(1) and 3(c)(7) of the Investment Company Act of 1940 relied on by each fund sponsored by the banking entity (including all subsidiaries and affiliates) in determining that such fund is not a covered fund;
 
@@ -52,4 +40,20 @@ Link to an amendment published at 84 FR 62209, Nov. 14, 2019.
 
 (f) *Simplified programs for less active banking entities* - (1) *Banking entities with no covered activities.* A banking entity that does not engage in activities or investments pursuant to subpart B or subpart C of this part (other than trading activities permitted pursuant to § 75.6(a)) may satisfy the requirements of this section by establishing the required compliance program prior to becoming engaged in such activities or making such investments (other than trading activities permitted pursuant to § 75.6(a)).
 
-(2) *Banking entities with modest activities.* A banking entity with total consolidated assets of $10 billion or less as reported on December 31 of the previous two calendar years that engages in activities or investments pursuant to subpart B or subpart C of this part (other than trading activities permitted under § 75.6(a)) may satisfy the requirements of this section by including in its existing compliance policies and procedures appropriate references to the requirements of section 13 of the BHC Act and this part and adjustments as appropriate given the activities, size, scope and complexity of the banking entity.
+(2) *Banking entities with moderate trading assets and liabilities.* A banking entity with moderate trading assets and liabilities may satisfy the requirements of this section by including in its existing compliance policies and procedures appropriate references to the requirements of section 13 of the BHC Act and this part and adjustments as appropriate given the activities, size, scope, and complexity of the banking entity.
+
+(g) *Rebuttable presumption of compliance for banking entities with limited trading assets and liabilities* - (1) *Rebuttable presumption.* Except as otherwise provided in this paragraph, a banking entity with limited trading assets and liabilities shall be presumed to be compliant with subpart B and subpart C of this part and shall have no obligation to demonstrate compliance with this part on an ongoing basis.
+
+(2) *Rebuttal of presumption.* If upon examination or audit, the CFTC determines that the banking entity has engaged in proprietary trading or covered fund activities that are otherwise prohibited under subpart B or subpart C of this part, the CFTC may require the banking entity to be treated under this part as if it did not have limited trading assets and liabilities. The CFTC's rebuttal of the presumption in this paragraph must be made in accordance with the notice and response procedures in paragraph (i) of this section.
+
+(h) *Reservation of authority.* Notwithstanding any other provision of this part, the CFTC retains its authority to require a banking entity without significant trading assets and liabilities to apply any requirements of this part that would otherwise apply if the banking entity had significant or moderate trading assets and liabilities if the CFTC determines that the size or complexity of the banking entity's trading or investment activities, or the risk of evasion of subpart B or subpart C, of this part does not warrant a presumption of compliance under paragraph (g) of this section or treatment as a banking entity with moderate trading assets and liabilities, as applicable. The CFTC's exercise of this reservation of authority must be made in accordance with the notice and response procedures in paragraph (i) of this section.
+
+(i) *Notice and response procedures* - (1) *Notice.* The CFTC will notify the banking entity in writing of any determination requiring notice under this part and will provide an explanation of the determination.
+
+(2) *Response.* The banking entity may respond to any or all items in the notice described in paragraph (i)(1) of this section. The response should include any matters that the banking entity would have the CFTC consider in deciding whether to make the determination. The response must be in writing and delivered to the designated CFTC official within 30 days after the date on which the banking entity received the notice. The CFTC may shorten the time period when, in the opinion of the CFTC, the activities or condition of the banking entity so requires, provided that the banking entity is informed of the time period at the time of notice, or with the consent of the banking entity. In its discretion, the CFTC may extend the time period for good cause.
+
+(3) *Waiver.* Failure to respond within 30 days or such other time period as may be specified by the CFTC shall constitute a waiver of any objections to the CFTC's determination.
+
+(4) *Decision.* The CFTC will notify the banking entity of the decision in writing. The notice will include an explanation of the decision.
+
+[79 FR 6048, Jan. 31, 2014, as amended at 84 FR 62209, Nov. 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 163.80 Borrowing limitations. #####
 
-Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
-
 (a) *General.* Except as the appropriate Federal banking agency otherwise may permit by advice in writing, a savings association may borrow only in accordance with the provisions of this section.
 
 (b) *Amount of borrowing.* A savings association may borrow up to the amount authorized by the laws under which the savings association operates.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 56376, Oct. 22, 2019.The effective date 
 
 This security is not a savings account or a deposit and it is not insured by the United States or any agency or fund of the United States.
 
-(e) *Filing requirements for outside borrowings with maturities in excess of one year.* (1) Unless the savings association meets its capital requirement under 12 CFR part 3 or part 167, as applicable if a Federal savings association or 12 CFR part 324 or part 390, subpart Z, as applicable, if a state savings association it shall, at least ten business days prior to issuance, file a notice of intent to issue securities evidencing such borrowings with the appropriate OCC licensing office if a Federal savings association, or with the appropriate regional director of the FDIC if a state savings association. Such notice shall contain a summary of the items of the security, including:
+(e) *Filing requirements for outside borrowings with maturities in excess of one year.* (1) Unless the savings association meets its capital requirement under 12 CFR part 3 if a Federal savings association or 12 CFR part 324 or part 390, subpart Z, as applicable, if a state savings association it shall, at least ten business days prior to issuance, file a notice of intent to issue securities evidencing such borrowings with the appropriate OCC licensing office if a Federal savings association, or with the appropriate regional director of the FDIC if a state savings association. Such notice shall contain a summary of the items of the security, including:
 
 (i) Principal amount of the securities;
 
@@ -36,4 +34,4 @@ This security is not a savings account or a deposit and it is not insured by the
 
 (f) *Note accounts.* For purposes of this section, note accounts are not borrowings.
 
-[76 FR 49047, Aug. 9, 2011, as amended at 79 FR 11314, Feb. 28, 2014]
+[76 FR 49047, Aug. 9, 2011, as amended at 79 FR 11314, Feb. 28, 2014; 84 FR 56376, Oct. 22, 2019]

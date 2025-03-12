@@ -1,7 +1,5 @@
 ##### § 410.76 Clinical nurse specialists' services. #####
 
-Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
-
 (a) *Definition.* As used in this section, the term “physician” means a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act.
 
 (b) *Qualifications.* For Medicare Part B coverage of his or her services, a clinical nurse specialist must -
@@ -34,4 +32,6 @@ Link to an amendment published at 84 FR 63191, Nov. 15, 2019.
 
 (2) The services are provided on an assignment-related basis, and a clinical nurse specialist may not charge a beneficiary for a service not payable under this provision. If a beneficiary has made payment for a service, the clinical nurse specialist must make the appropriate refund to the beneficiary.
 
-[63 FR 58908, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 73 FR 69934, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013]
+(f) *Medical record documentation.* For clinical nurse specialists' services, the clinical nurse specialist may review and verify (sign and date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team, including, as applicable, notes documenting the clinical nurse specialist's presence and participation in the service.
+
+[63 FR 58908, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 73 FR 69934, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013; 84 FR 63191, Nov. 15, 2019]

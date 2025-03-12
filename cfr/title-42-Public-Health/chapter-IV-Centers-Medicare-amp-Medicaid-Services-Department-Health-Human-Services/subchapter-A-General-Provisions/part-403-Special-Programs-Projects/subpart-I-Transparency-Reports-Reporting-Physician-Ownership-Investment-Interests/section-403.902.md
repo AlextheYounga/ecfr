@@ -1,7 +1,5 @@
 ##### § 403.902 Definitions. #####
 
-Link to an amendment published at 84 FR 63185, Nov. 15, 2019.
-
 For purposes of this subpart, the following definitions apply:
 
 *Applicable group purchasing organization* means an entity that:
@@ -18,11 +16,21 @@ For purposes of this subpart, the following definitions apply:
 
 *Assistance and support* means providing a service or services that are necessary or integral to the production, preparation, propagation, compounding, conversion, marketing, promotion, sale, or distribution of a covered drug, device, biological or medical supply.
 
+*Certified nurse midwife* means a registered nurse who has successfully completed a program of study and clinical experience meeting guidelines prescribed by the Secretary, or has been certified by an organization recognized by the Secretary.
+
+*Certified registered nurse anesthetist* means a certified registered nurse anesthetist licensed by the State who meets such education, training, and other requirements relating to anesthesia services and related care as the Secretary may prescribe. In prescribing such requirements the Secretary may use the same requirements as those established by a national organization for the certification of nurse anesthetists. Such term also includes, as prescribed by the Secretary, an anesthesiologist assistant.
+
 *Charitable contribution* includes, but is not limited to, any payment or transfer of value made to an organization with tax-exempt status under the Internal Revenue Code of 1986, which is not provided in exchange for any goods, items or services.
 
 *Charity care* means services provided by a covered recipient specifically for a patient who is unable to pay for such services or for whom payment would be a significant hardship, where the covered recipient neither receives, nor expects to receive, payment because of the patient's inability to pay.
 
 *Clinical investigation* means any experiment involving one or more human subjects, or materials derived from human subjects, in which a drug, device, biological or medical supply is administered, dispensed or used.
+
+*Clinical nurse specialist* means, an individual who -
+
+(1) Is a registered nurse and is licensed to practice nursing in the State in which the clinical nurse specialist services are performed; and
+
+(2) Holds a master's degree in a defined clinical area of nursing from an accredited educational institution.
 
 *Common ownership* refers to circumstances where the same individual, individuals, entity, or entities directly or indirectly own 5 percent or more total ownership of two entities. This includes, but is not limited to, parent corporations, direct and indirect subsidiaries, and brother or sister corporations.
 
@@ -32,9 +40,11 @@ For purposes of this subpart, the following definitions apply:
 
 (2) Device (including a medical supply that is a device), by law, requires premarket approval by or premarket notification to the FDA.
 
-*Covered recipient* means - (1) Any physician, except for a physician who is a bona fide employee of the applicable manufacturer that is reporting the payment; or
+*Covered recipient* means - (1) Any physician, physician assistant, nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, or certified nurse-midwife who is not a bona fide employee of the applicable manufacturer that is reporting the payment; or
 
 (2) A teaching hospital, which is any institution that received a payment under 1886(d)(5)(B), 1886(h), or 1886(s) of the Act during the last calendar year for which such information is available.
+
+*Device identifier* is the mandatory, fixed portion of a unique device identifier (UDI) that identifies the specific version or model of a device and the labeler of that device (as described at 21 CFR 801.3 in paragraph (1) of the definition of “Unique device identifier”).
 
 *Employee* means an individual who is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
 
@@ -64,7 +74,13 @@ For purposes of this subpart, the following definitions apply:
 
 (2) Requires no proof of a specific intent to defraud.
 
+*Long term medical supply or device loan* means the loan of supplies or a device for 91 days or longer.
+
+*Non-teaching hospital covered recipient* means a person who is one or more of the following: Physician; physician assistant; nurse practitioner; clinical nurse specialist; certified registered nurse anesthetist; or certified nurse-midwife.
+
 *NPPES* stands for the National Plan & Provider Enumeration System.
+
+*Nurse practitioner* means a nurse practitioner who performs such services as such individual is legally authorized to perform (in the State in which the individual performs such services) in accordance with State law (or the State regulatory mechanism provided by State law), and who meets such training, education, and experience requirements (or any combination thereof) as the Secretary may prescribe in regulations.
 
 *Operating in the United States* means that an entity -
 
@@ -100,10 +116,16 @@ For purposes of this subpart, the following definitions apply:
 
 *Physician* has the same meaning given that term in section 1861(r) of the Act.
 
+*Physician assistant* means a physician assistant who performs such services as such individual is legally authorized to perform (in the State in which the individual performs such services) in accordance with State law (or the State regulatory mechanism provided by State law), and who meets such training, education, and experience requirements (or any combination thereof) as the Secretary may prescribe in regulations.
+
 *Related to a covered drug, device, biological, or medical supply* means that a payment or other transfer of value is made in reference to or in connection with one or more covered drugs, devices, biologicals, or medical supplies.
 
 *Research* includes a systematic investigation designed to develop or contribute to generalizable knowledge relating broadly to public health, including behavioral and social-sciences research. This term encompasses basic and applied research and product development.
 
+*Short term medical supply or device loan* means the loan of a covered device or a device under development, or the provision of a limited quantity of medical supplies for a short-term trial period, not to exceed a loan period of 90 days or a quantity of 90 days of average daily use, to permit evaluation of the device or medical supply by the covered recipient.
+
 *Third party* means another individual or entity, regardless of whether such individual or entity is operating in the United States.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014]
+*Unique device identifier* means an identifier that adequately identifies a device through its distribution and use by meeting the requirements of 21 CFR 801.40 and 830.3.
+
+[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63185, Nov. 15, 2019; 85 FR 10, Jan 2, 2020]

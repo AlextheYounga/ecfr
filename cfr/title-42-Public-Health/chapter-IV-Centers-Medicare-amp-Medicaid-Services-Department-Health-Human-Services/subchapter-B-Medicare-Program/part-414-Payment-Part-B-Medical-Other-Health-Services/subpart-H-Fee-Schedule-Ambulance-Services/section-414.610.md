@@ -1,7 +1,5 @@
 ##### § 414.610 Basis of payment. #####
 
-Link to an amendment published at 84 FR 63193, November 15, 2019.
-
 (a) *Method of payment.* Medicare payment for ambulance services is based on the lesser of the actual charge or the applicable fee schedule amount. The fee schedule payment for ambulance services equals a base rate for the level of service plus payment for mileage and applicable adjustment factors. Except for services furnished by certain critical access hospitals or entities owned and operated by them, as described in § 413.70(b) of this chapter, all ambulance services are paid under the fee schedule specified in this subpart (regardless of the vehicle furnishing the service).
 
 (b) *Mandatory assignment.* Effective with implementation of the ambulance fee schedule described in § 414.601 (that is, for services furnished on or after April 1, 2002), all payments made for ambulance services are made only on an assignment-related basis. Ambulance suppliers must accept the Medicare allowed charge as payment in full and may not bill or collect from the beneficiary any amount other than the unmet Part B deductible and Part B coinsurance amounts. Violations of this requirement may subject the provider or supplier to sanctions, as provided by law (part 402 of this chapter).
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 63193, November 15, 2019.
 
 (1) *Ground ambulance service levels.* The CF is multiplied by the applicable RVUs for each level of service to produce a service-level base rate.
 
-(i) For services furnished during the period July 1, 2004 through December 31, 2006, ambulance services originating in -
+(i) For services furnished during the period July 1, 2004 through December 31, 2006, ambulance services originating in—
 
 (A) Urban areas (both base rate and mileage) are paid based on a rate that is 1 percent higher than otherwise is applicable under this section; and
 
@@ -50,6 +48,8 @@ Link to an amendment published at 84 FR 63193, November 15, 2019.
 
 (8) *Transport of an individual with end-stage renal disease for renal dialysis services.* For ambulance services furnished during the period October 1, 2013 through September 30, 2018, consisting of non-emergency basic life support (BLS) services involving transport of an individual with end-stage renal disease for renal dialysis services (as described in section 1881(b)(14)(B) of the Act) furnished other than on an emergency basis by a provider of services or a renal dialysis facility, the fee schedule amount otherwise applicable (both base rate and mileage) is reduced by 10 percent. For such services furnished on or after October 1, 2018, the fee schedule amount otherwise applicable (both base rate and mileage) is reduced by 23 percent.
 
+(9) *Payment reduction for failure to report data.* In the case of a ground ambulance organization (as defined at § 414.605) that is selected by CMS under § 414.626(c) for a year that does not sufficiently submit data under § 414.626(b) and is not granted a hardship exemption under § 414.626(d), the payments made under this section are reduced by 10 percent for the applicable period. For purposes of this paragraph, the applicable period is the calendar year that begins following the date that CMS provided written notification to the ground ambulance organization under § 414.626(e)(1) that the ground ambulance did not sufficiently submit the required data.
+
 (d) *Payment.* Payment, in accordance with this subpart, represents payment in full (subject to applicable Medicare Part B deductible and coinsurance requirements as described in subpart G of part 409 of this chapter or in subpart I of part 410 of this chapter) for all services, supplies, and other costs for an ambulance service furnished to a Medicare beneficiary. No direct payment will be made under this subpart if billing for the ambulance service is required to be consolidated with billing for another benefit for which payment may be made under this chapter.
 
 (e) *Point of pick-up.* The zip code of the point of pick-up must be reported on each claim for ambulance services so that the correct GAF and RAF may be applied, as appropriate.
@@ -60,4 +60,4 @@ Link to an amendment published at 84 FR 63193, November 15, 2019.
 
 (h) *Treatment of certain areas for payment for air ambulance services.* Any area that was designated as a rural area for purposes of making payments under the ambulance fee schedule for air ambulance services furnished on December 31, 2006, must be treated as a rural area for purposes of making payments under the ambulance fee schedule for air ambulance services furnished during the period July 1, 2008 through June 30, 2013.
 
-[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 69 FR 40292, July 1, 2004; 71 FR 69787, Dec. 1, 2006; 73 FR 69937, Nov. 19, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73625, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 77 FR 69368, Nov. 16, 2012; 78 FR 74820, Dec. 10, 2013; 79 FR 68005, Nov. 13, 2014; 80 FR 71382, Nov. 16, 2015; 83 FR 60074, Nov. 23, 2018]
+[67 FR 9132, Feb. 27, 2002, as amended at 68 FR 67693, Dec. 5, 2003; 69 FR 40292, July 1, 2004; 71 FR 69787, Dec. 1, 2006; 73 FR 69937, Nov. 19, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73625, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 77 FR 69368, Nov. 16, 2012; 78 FR 74820, Dec. 10, 2013; 79 FR 68005, Nov. 13, 2014; 80 FR 71382, Nov. 16, 2015; 83 FR 60074, Nov. 23, 2018; 84 FR 63193, Nov. 15, 2019]

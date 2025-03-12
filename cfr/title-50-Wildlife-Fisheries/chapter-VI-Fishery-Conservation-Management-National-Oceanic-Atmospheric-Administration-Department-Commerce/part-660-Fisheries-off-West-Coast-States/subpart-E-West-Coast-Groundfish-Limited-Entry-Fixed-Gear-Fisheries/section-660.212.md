@@ -1,8 +1,6 @@
-##### § 660.212 Fixed gear fishery - prohibitions. #####
+##### § 660.212 Fixed gear fishery—prohibitions. #####
 
-Link to an amendment published at 84 FR 63991, Nov. 19, 2019.
-
-These prohibitions are specific to the limited entry fixed gear fisheries and to the limited entry trawl fishery Shorebased IFQ Program under gear switching. General groundfish prohibitions are found at § 660.12, subpart C. In addition to the general groundfish prohibitions specified in § 660.12, subpart C, it is unlawful for any person to:
+These prohibitions are specific to the limited entry fixed gear fisheries and to the limited entry trawl fishery Shorebased IFQ Program under gear switching. In addition to the general prohibitions specified in §§ 660.12 and 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Possess, deploy, haul, or carry onboard a fishing vessel subject to subparts C and E a set net, trap or pot, longline, or commercial vertical hook-and-line as defined at § 660.11, subpart C, that is not in compliance with the gear restrictions in § 660.230, subpart E, unless such gear is the gear of another vessel that has been retrieved at sea and made inoperable or stowed in a manner not capable of being fished. The disposal at sea of such gear is prohibited by Annex V of the International Convention for the Prevention of Pollution From Ships, 1973 (Annex V of MARPOL 73/78).
 
@@ -18,11 +16,9 @@ These prohibitions are specific to the limited entry fixed gear fisheries and to
 
 (2) Falsify or fail to make and/or file, retain or make available any and all reports of groundfish landings that include sablefish, containing all data, and in the exact manner, required by the regulation at § 660.13, subpart C, or § 660.213.
 
-(c) *Fishing in conservation areas* - (1) Operate a vessel registered to a limited entry permit with a longline, trap (pot), or trawl endorsement and longline and/or trap gear onboard in an applicable GCA (as defined at § 660.230(d)), except for purposes of continuous transiting, with all groundfish longline and/or trap gear stowed in accordance with § 660.212(a) or except as authorized in the groundfish management measures at § 660.230.
+(c) *Fishing in conservation areas.*(1) Operate a vessel registered to a limited entry permit with a longline, trap (pot), or trawl endorsement and longline and/or trap gear onboard in an applicable GCA (as defined at § 660.230(d)), except for purposes of continuous transiting, with all groundfish longline and/or trap gear stowed in accordance with § 660.212(a) or except as authorized in the groundfish management measures at § 660.230.
 
-(2) Fish with bottom contact gear (as defined in § 660.11, subpart C) within the EEZ in the following areas (defined in §§ 660.78 and 660.79, subpart C): Thompson Seamount, President Jackson Seamount, Cordell Bank (50-fm (91-m) isobath), Harris Point, Richardson Rock, Scorpion, Painted Cave, Anacapa Island, Carrington Point, Judith Rock, Skunk Point, Footprint, Gull Island, South Point, and Santa Barbara.
-
-(3) Fish with bottom contact gear (as defined in § 660.11, subpart C), or any other gear that is deployed deeper than 500-fm (914-m), within the Davidson Seamount area (defined in § 660.75, subpart C).
+(2) Fish with bottom contact gear (defined at § 660.11) within specific EFHCAs or the DECA, as specified in § 660.12(a).
 
 (d) *Sablefish fisheries.* (1) Take and retain, possess or land sablefish under the tier limits provided for the limited entry, fixed gear sablefish primary season, described in § 660.231(b)(3), from a vessel that is not registered to a limited entry permit with a sablefish endorsement.
 
@@ -30,4 +26,4 @@ These prohibitions are specific to the limited entry fixed gear fisheries and to
 
 (3) Process sablefish taken at-sea in the limited entry fixed gear sablefish primary fishery defined at § 660.231, from a vessel that does not have a sablefish at-sea processing exemption, described at § 660.25(b)(6)(i).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78427, Dec. 15, 2010; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 81 FR 84430, Nov. 23, 2016]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78427, Dec. 15, 2010; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 81 FR 84430, Nov. 23, 2016; 84 FR 63991, Nov. 19, 2019]

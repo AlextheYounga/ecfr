@@ -1,7 +1,5 @@
 ##### § 327.8 Definitions. #####
 
-Link to an amendment published at 84 FR 66838, Dec. 6, 2019.
-
 For the purpose of this part 327:
 
 (a) *Deposits.* The term *deposit* has the meaning specified in section 3(*l*) of the Federal Deposit Insurance Act.
@@ -12,7 +10,11 @@ For the purpose of this part 327:
 
 (d) *Acquiring institution.* The term *acquiring institution* means an insured depository institution that assumes some or all of the deposits of another insured depository institution in a terminating transfer.
 
-(e) *Small institution.* An insured depository institution with assets of less than $10 billion as of December 31, 2006, and an insured branch of a foreign institution shall be classified as a small institution. If, after December 31, 2006, an institution classified as large under paragraph (f) of this section (other than an institution classified as large for purposes of §§ 327.9(e) and 327.16(f)) reports assets of less than $10 billion in its quarterly reports of condition for four consecutive quarters, the FDIC will reclassify the institution as small beginning the following quarter.
+(e) *Small institution.* (1) An insured depository institution with assets of less than $10 billion as of December 31, 2006, and an insured branch of a foreign institution shall be classified as a small institution.
+
+(2) Except as provided in paragraph (e)(3) of this section, if, after December 31, 2006, an institution classified as large under paragraph (f) of this section (other than an institution classified as large for purposes of §§ 327.9(e) and 327.16(f)) reports assets of less than $10 billion in its quarterly reports of condition for four consecutive quarters, the FDIC will reclassify the institution as small beginning the following quarter.
+
+(3) An insured depository institution that elects to use the community bank leverage ratio framework under 12 CFR 3.12(a)(3), 12 CFR 217.12(a)(3), or 12 CFR 324.12(a)(3), shall be classified as a small institution, even if that institution otherwise would be classified as a large institution under paragraph (f) of this section.
 
 (f) *Large institution.* An institution classified as large for purposes of §§ 327.9(e) and 327.16(f) or an insured depository institution with assets of $10 billion or more as of December 31, 2006 (other than an insured branch of a foreign bank or a highly complex institution) shall be classified as a large institution. If, after December 31, 2006, an institution classified as small under paragraph (e) of this section reports assets of $10 billion or more in its quarterly reports of condition for four consecutive quarters, the FDIC will reclassify the institution as large beginning the following quarter.
 
@@ -82,6 +84,6 @@ For the purpose of this part 327:
 
 (y) *Reserve ratio of the DIF.* The reserve ratio as defined in 12 U.S.C. 1813(y)(3).
 
-(z) *Well capitalized, adequately capitalized and undercapitalized.* For any insured depository institution other than an insured branch of a foreign bank, Well Capitalized, Adequately Capitalized and Undercapitalized have the same meaning as in: 12 CFR 6.4 (for national banks and federal savings associations), as either may be amended from time to time, except that 12 CFR 6.4(c)(1)(v) and (e), as they may be amended from time to time, shall not apply; 12 CFR 208.43 (for state member institutions), as either may be amended from time to time, except that 12 CFR 208.43(b)(1)(v) and (c), as they may be amended from time to time, shall not apply; and 12 CFR 324.403 (for state nonmember institutions and state savings associations), as either may be amended from time to time, except that 12 CFR 324.403(b)(1)(v) and (d), as they may be amended from time to time, shall not apply.
+(z) *Well capitalized, adequately capitalized, and undercapitalized.* For any insured depository institution other than an insured branch of a foreign bank, Well Capitalized, Adequately Capitalized, and Undercapitalized have the same meaning as in: 12 CFR 6.4 (for national banks and Federal savings associations), as either may be amended from time to time, except that 12 CFR 6.4(b)(1)(i)(E) and (e), as they may be amended from time to time, shall not apply; 12 CFR 208.43 (for state member institutions), as either may be amended from time to time, except that 12 CFR 208.43(b)(1)(i)(E) and (c), as they may be amended from time to time, shall not apply; and 12 CFR 324.403 (for state nonmember institutions and state savings associations), as either may be amended from time to time, except that 12 CFR 324.403(b)(1)(i)(E) and (d), as they may be amended from time to time, shall not apply.
 
-[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016; 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019]
+[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9551, Mar. 4, 2009; 76 FR 10707, Feb. 25, 2011; 81 FR 32201, May 20, 2016; 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019; 84 FR 66838, Dec. 6, 2019]

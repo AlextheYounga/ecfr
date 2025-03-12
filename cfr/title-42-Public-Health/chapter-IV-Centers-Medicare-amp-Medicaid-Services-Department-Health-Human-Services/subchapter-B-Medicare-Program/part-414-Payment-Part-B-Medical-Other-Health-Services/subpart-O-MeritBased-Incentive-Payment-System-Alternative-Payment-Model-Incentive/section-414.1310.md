@@ -1,7 +1,5 @@
 ##### § 414.1310 Applicability. #####
 
-Link to an amendment published at 84 FR 63195, November 15, 2019.
-
 (a) *Program implementation.* Except as specified in paragraph (b) of this section, MIPS applies to payments for covered professional services furnished by MIPS eligible clinicians on or after January 1, 2019.
 
 (b) *Exclusions.* (1) For a year, a MIPS eligible clinician does not include an eligible clinician who:
@@ -24,16 +22,10 @@ Link to an amendment published at 84 FR 63195, November 15, 2019.
 
 (i) Groups must meet the definition of a group at all times during the applicable performance period.
 
-(ii) Individual eligible clinicians that elect to participate in MIPS as a group must aggregate their performance data across the group's TIN.
+(ii) Individual eligible clinicians that elect to participate in MIPS as a group must aggregate their performance data across the group's TIN, and for the Promoting Interoperability performance category, must aggregate the performance data of all of the MIPS eligible clinicians in the group's TIN for whom the group has data in CEHRT.
 
 (iii) Individual eligible clinicians that elect to participate in MIPS as a group will have their performance assessed at the group level across all four MIPS performance categories.
 
 (iv) Groups must adhere to an election process established by CMS, as applicable.
 
-(3) Eligible clinicians and MIPS eligible clinicians within a group must aggregate their performance data across the TIN in order for their performance to be assessed as a group.
-
-(4) A group that elects to have its performance assessed as a group will be assessed as a group across all four MIPS performance categories.
-
-(5) A group must adhere to an election process established and required by CMS.
-
-[81 FR 77537, Nov. 4, 2016, as amended at 83 FR 60076, Nov. 23, 2018]
+[81 FR 77537, Nov. 4, 2016, as amended at 83 FR 60076, Nov. 23, 2018; 84 FR 63195, Nov. 15, 2019]

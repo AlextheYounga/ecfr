@@ -1,3 +1,15 @@
-##### § 414.112 xxx #####
+##### § 414.112 Establishing fee schedule amounts for new HCPCS codes for items and services without a fee schedule pricing history. #####
 
-Link to an amendment published at 84 FR 60806, November 8, 2019.
+(a) *General rule.* If a HCPCS code is new and describes items and services that do not have a fee schedule pricing history (classified and paid for previously under a different code), the fee schedule amounts for the new code are established based on the process described in paragraphs (b) or (c) of this section.
+
+(b) *Comparability.* Fee schedule amounts for new HCPCS codes for items and services without a fee schedule pricing history are established using existing fee schedule amounts for comparable items when items with existing fee schedule amounts are determined to be comparable to the new items and services based on a comparison of: Physical components; mechanical components; electrical components; function and intended use; and additional attributes and features. If there are no items with existing fee schedule amounts that are comparable to the items and services under the new code, the fee schedule amounts for the new code are established in accordance with paragraph (c) of this section.
+
+(c) *Use of supplier or commercial price lists.* (1) Fee schedule amounts for items and services without a fee schedule pricing history described by new HCPCS codes that are not comparable to items and services with existing fee schedule amounts may be established using supplier price lists, including catalogs and other retail price lists (such as internet retail prices) that provide information on commercial pricing for the item. Potential appropriate sources for such commercial pricing information can also include payments made by Medicare Advantage plans, as well as verifiable information from supplier invoices and non-Medicare payer data. If the only available price information is from a period other than the fee schedule base period, deflation factors are applied against current pricing in order to approximate the base period price.
+
+(i) The annual deflation factors are specified in program instructions and are based on the percentage change in the consumer price index for all urban consumers (CPI-U) from the mid-point of the year the prices are in effect to the mid-point of the fee schedule base period, as calculated using the following formula: ((base CPI-U minus current CPI-U) divided by current CPI-U) plus one.
+
+(ii) The deflated amounts are then increased by the update factors specified in § 414.102(c).
+
+(2) If within 5 years of establishing fee schedule amounts using supplier or commercial prices, the supplier or commercial prices decrease by less than 15 percent, a one-time adjustment to the fee schedule amounts is made using the new prices. The new supplier or commercial prices would be used to establish the new fee schedule amounts in the same way that the older prices were used, including application of the deflation formula in paragraph (c)(1) of this section.
+
+[84 FR 60806, Nov. 8, 2019]

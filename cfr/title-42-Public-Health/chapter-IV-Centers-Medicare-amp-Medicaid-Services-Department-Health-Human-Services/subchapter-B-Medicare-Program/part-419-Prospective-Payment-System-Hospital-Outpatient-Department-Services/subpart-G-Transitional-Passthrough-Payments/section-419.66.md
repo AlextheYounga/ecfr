@@ -1,7 +1,5 @@
 ##### § 419.66 Transitional pass-through payments: Medical devices. #####
 
-Link to an amendment published at 84 FR 61491, Nov. 12, 2019.
-
 (a) *General rule.* CMS makes a pass-through payment for a medical device that meets the requirements in paragraph (b) of this section and that is described by a category of devices established by CMS under the criteria in paragraph (c) of this section.
 
 (b) *Eligibility.* A medical device must meet the following requirements:
@@ -22,7 +20,11 @@ Link to an amendment published at 84 FR 61491, Nov. 12, 2019.
 
 (1) CMS determines that a device to be included in the category is not appropriately described by any of the existing categories or by any category previously in effect, and was not being paid for as an outpatient service as of December 31, 1996.
 
-(2) CMS determines that a device to be included in the category has demonstrated that it will substantially improve the diagnosis or treatment of an illness or injury or improve the functioning of a malformed body part compared to the benefits of a device or devices in a previously established category or other available treatment.
+(2) CMS determines either of the following:
+
+(i) The device to be included in the category has demonstrated that it will substantially improve the diagnosis or treatment of an illness or injury or improve the functioning of a malformed body part compared to the benefits of a device or devices in a previously established category or other available treatment; or
+
+(ii) For devices for which pass-through payment status will begin on or after January 1, 2020, as an alternative pathway to paragraph (c)(2)(i) of this section, the device has received FDA marketing authorization and is part of the FDA's Breakthrough Devices Program.
 
 (3) Except for medical devices identified in paragraph (e) of this section, CMS determines the cost of the device is not insignificant as described in paragraph (d) of this section.
 
@@ -50,4 +52,4 @@ Link to an amendment published at 84 FR 61491, Nov. 12, 2019.
 
 (h) *Amount of pass-through payment.* Subject to any reduction determined under § 419.62(b), the pass-through payment for a device is the hospital's charge for the device, adjusted to the actual cost for the device, minus the amount included in the APC payment amount for the device.
 
-[66 FR 55856, Nov. 2, 2001, as amended at 67 FR 66813, Nov. 1, 2002; 70 FR 68728, Nov. 10, 2005; 74 FR 60680, Nov. 20, 2009; 78 FR 75198, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79880, Nov. 14, 2016]
+[66 FR 55856, Nov. 2, 2001, as amended at 67 FR 66813, Nov. 1, 2002; 70 FR 68728, Nov. 10, 2005; 74 FR 60680, Nov. 20, 2009; 78 FR 75198, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79880, Nov. 14, 2016; 84 FR 61491, Nov. 12, 2019]

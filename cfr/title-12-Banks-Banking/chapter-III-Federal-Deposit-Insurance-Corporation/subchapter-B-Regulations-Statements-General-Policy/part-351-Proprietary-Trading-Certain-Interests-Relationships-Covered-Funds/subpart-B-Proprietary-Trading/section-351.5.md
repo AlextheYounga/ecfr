@@ -1,38 +1,42 @@
 ##### § 351.5 Permitted risk-mitigating hedging activities. #####
 
-Link to an amendment published at 84 FR 62171, Nov. 14, 2019.Link to a correction published at 84 FR 66063, Dec. 3, 2019.
-
 (a) *Permitted risk-mitigating hedging activities.* The prohibition contained in § 351.3(a) does not apply to the risk-mitigating hedging activities of a banking entity in connection with and related to individual or aggregated positions, contracts, or other holdings of the banking entity and designed to reduce the specific risks to the banking entity in connection with and related to such positions, contracts, or other holdings.
 
-(b) *Requirements.* The risk-mitigating hedging activities of a banking entity are permitted under paragraph (a) of this section only if:
+(b) *Requirements.* (1) The risk-mitigating hedging activities of a banking entity that has significant trading assets and liabilities are permitted under paragraph (a) of this section only if:
 
-(1) The banking entity has established and implements, maintains and enforces an internal compliance program required by subpart D of this part that is reasonably designed to ensure the banking entity's compliance with the requirements of this section, including:
+(i) The banking entity has established and implements, maintains and enforces an internal compliance program required by subpart D of this part that is reasonably designed to ensure the banking entity's compliance with the requirements of this section, including:
 
-(i) Reasonably designed written policies and procedures regarding the positions, techniques and strategies that may be used for hedging, including documentation indicating what positions, contracts or other holdings a particular trading desk may use in its risk-mitigating hedging activities, as well as position and aging limits with respect to such positions, contracts or other holdings;
+(A) Reasonably designed written policies and procedures regarding the positions, techniques and strategies that may be used for hedging, including documentation indicating what positions, contracts or other holdings a particular trading desk may use in its risk-mitigating hedging activities, as well as position and aging limits with respect to such positions, contracts or other holdings;
 
-(ii) Internal controls and ongoing monitoring, management, and authorization procedures, including relevant escalation procedures; and
+(B) Internal controls and ongoing monitoring, management, and authorization procedures, including relevant escalation procedures; and
 
-(iii) The conduct of analysis, including correlation analysis, and independent testing designed to ensure that the positions, techniques and strategies that may be used for hedging may reasonably be expected to demonstrably reduce or otherwise significantly mitigate the specific, identifiable risk(s) being hedged, and such correlation analysis demonstrates that the hedging activity demonstrably reduces or otherwise significantly mitigates the specific, identifiable risk(s) being hedged;
+(C) The conduct of analysis and independent testing designed to ensure that the positions, techniques and strategies that may be used for hedging may reasonably be expected to reduce or otherwise significantly mitigate the specific, identifiable risk(s) being hedged;
 
-(2) The risk-mitigating hedging activity:
+(ii) The risk-mitigating hedging activity:
 
-(i) Is conducted in accordance with the written policies, procedures, and internal controls required under this section;
+(A) Is conducted in accordance with the written policies, procedures, and internal controls required under this section;
 
-(ii) At the inception of the hedging activity, including, without limitation, any adjustments to the hedging activity, is designed to reduce or otherwise significantly mitigate and demonstrably reduces or otherwise significantly mitigates one or more specific, identifiable risks, including market risk, counterparty or other credit risk, currency or foreign exchange risk, interest rate risk, commodity price risk, basis risk, or similar risks, arising in connection with and related to identified positions, contracts, or other holdings of the banking entity, based upon the facts and circumstances of the identified underlying and hedging positions, contracts or other holdings and the risks and liquidity thereof;
+(B) At the inception of the hedging activity, including, without limitation, any adjustments to the hedging activity, is designed to reduce or otherwise significantly mitigate one or more specific, identifiable risks, including market risk, counterparty or other credit risk, currency or foreign exchange risk, interest rate risk, commodity price risk, basis risk, or similar risks, arising in connection with and related to identified positions, contracts, or other holdings of the banking entity, based upon the facts and circumstances of the identified underlying and hedging positions, contracts or other holdings and the risks and liquidity thereof;
 
-(iii) Does not give rise, at the inception of the hedge, to any significant new or additional risk that is not itself hedged contemporaneously in accordance with this section;
+(C) Does not give rise, at the inception of the hedge, to any significant new or additional risk that is not itself hedged contemporaneously in accordance with this section;
 
-(iv) Is subject to continuing review, monitoring and management by the banking entity that:
+(D) Is subject to continuing review, monitoring and management by the banking entity that:
 
-(A) Is consistent with the written hedging policies and procedures required under paragraph (b)(1) of this section;
+(*1*) Is consistent with the written hedging policies and procedures required under paragraph (b)(1)(i) of this section;
 
-(B) Is designed to reduce or otherwise significantly mitigate and demonstrably reduces or otherwise significantly mitigates the specific, identifiable risks that develop over time from the risk-mitigating hedging activities undertaken under this section and the underlying positions, contracts, and other holdings of the banking entity, based upon the facts and circumstances of the underlying and hedging positions, contracts and other holdings of the banking entity and the risks and liquidity thereof; and
+(*2*) Is designed to reduce or otherwise significantly mitigate the specific, identifiable risks that develop over time from the risk-mitigating hedging activities undertaken under this section and the underlying positions, contracts, and other holdings of the banking entity, based upon the facts and circumstances of the underlying and hedging positions, contracts and other holdings of the banking entity and the risks and liquidity thereof; and
 
-(C) Requires ongoing recalibration of the hedging activity by the banking entity to ensure that the hedging activity satisfies the requirements set out in paragraph (b)(2) of this section and is not prohibited proprietary trading; and
+(*3*) Requires ongoing recalibration of the hedging activity by the banking entity to ensure that the hedging activity satisfies the requirements set out in paragraph (b)(1)(ii) of this section and is not prohibited proprietary trading; and
 
-(3) The compensation arrangements of persons performing risk-mitigating hedging activities are designed not to reward or incentivize prohibited proprietary trading.
+(iii) The compensation arrangements of persons performing risk-mitigating hedging activities are designed not to reward or incentivize prohibited proprietary trading.
 
-(c) *Documentation requirement* - (1) A banking entity must comply with the requirements of paragraphs (c)(2) and (3) of this section with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
+(2) The risk-mitigating hedging activities of a banking entity that does not have significant trading assets and liabilities are permitted under paragraph (a) of this section only if the risk-mitigating hedging activity:
+
+(i) At the inception of the hedging activity, including, without limitation, any adjustments to the hedging activity, is designed to reduce or otherwise significantly mitigate one or more specific, identifiable risks, including market risk, counterparty or other credit risk, currency or foreign exchange risk, interest rate risk, commodity price risk, basis risk, or similar risks, arising in connection with and related to identified positions, contracts, or other holdings of the banking entity, based upon the facts and circumstances of the identified underlying and hedging positions, contracts or other holdings and the risks and liquidity thereof; and
+
+(ii) Is subject, as appropriate, to ongoing recalibration by the banking entity to ensure that the hedging activity satisfies the requirements set out in paragraph (b)(2) of this section and is not prohibited proprietary trading.
+
+(c) *Documentation requirement.* (1) A banking entity that has significant trading assets and liabilities must comply with the requirements of paragraphs (c)(2) and (3) of this section, unless the requirements of paragraph (c)(4) of this section are met, with respect to any purchase or sale of financial instruments made in reliance on this section for risk-mitigating hedging purposes that is:
 
 (i) Not established by the specific trading desk establishing or responsible for the underlying positions, contracts, or other holdings the risks of which the hedging activity is designed to reduce;
 
@@ -49,3 +53,17 @@ Link to an amendment published at 84 FR 62171, Nov. 14, 2019.Link to a correctio
 (iii) The trading desk or other business unit that is establishing and responsible for the hedge.
 
 (3) A banking entity must create and retain records sufficient to demonstrate compliance with the requirements of this paragraph (c) for a period that is no less than five years in a form that allows the banking entity to promptly produce such records to the FDIC on request, or such longer period as required under other law or this part.
+
+(4) The requirements of paragraphs (c)(2) and (3) of this section do not apply to the purchase or sale of a financial instrument described in paragraph (c)(1) of this section if:
+
+(i) The financial instrument purchased or sold is identified on a written list of pre-approved financial instruments that are commonly used by the trading desk for the specific type of hedging activity for which the financial instrument is being purchased or sold; and
+
+(ii) At the time the financial instrument is purchased or sold, the hedging activity (including the purchase or sale of the financial instrument) complies with written, pre-approved limits for the trading desk purchasing or selling the financial instrument for hedging activities undertaken for one or more other trading desks. The limits shall be appropriate for the:
+
+(A) Size, types, and risks of the hedging activities commonly undertaken by the trading desk;
+
+(B) Financial instruments purchased and sold for hedging activities by the trading desk; and
+
+(C) Levels and duration of the risk exposures being hedged.
+
+[79 FR 5805, Jan. 31, 2014, as amended at 84 FR 62171, Nov. 14, 2019; 84 FR 66063, Dec. 3, 2019]

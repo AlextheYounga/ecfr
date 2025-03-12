@@ -1,7 +1,5 @@
 ##### § 3.1 Purpose, applicability, reservations of authority, and timing. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.
-
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for national banks and Federal savings associations. This part does not apply to Federal branches and agencies of foreign banks. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the OCC to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act.
@@ -22,7 +20,7 @@ Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date 
 
 (iii) Each advanced approaches national bank or Federal savings association must make the public disclosures described in subpart E of this part.
 
-(d) *Reservation of authority* - (1) *Additional capital in the aggregate.* The OCC may require a national bank or Federal savings association to hold an amount of regulatory capital greater than otherwise required under this part if the OCC determines that the national bank's or Federal savings association's capital requirements under this part are not commensurate with the national bank's or Federal savings association's credit, market, operational, or other risks.
+(d) *Reservation of authority*—(1) *Additional capital in the aggregate.* The OCC may require a national bank or Federal savings association to hold an amount of regulatory capital greater than otherwise required under this part if the OCC determines that the national bank's or Federal savings association's capital requirements under this part are not commensurate with the national bank's or Federal savings association's credit, market, operational, or other risks.
 
 (2) *Regulatory capital elements.* (i) If the OCC determines that a particular common equity tier 1, additional tier 1, or tier 2 capital element has characteristics or terms that diminish its ability to absorb losses, or otherwise present safety and soundness concerns, the OCC may require the national bank or Federal savings association to exclude all or a portion of such element from common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, as appropriate.
 
@@ -42,17 +40,7 @@ Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date 
 
 (i) Except as described in paragraph (f)(1)(ii) of this section, beginning on January 1, 2014, calculate advanced approaches total risk-weighted assets in accordance with subpart E and, if applicable, subpart F of this part and, beginning on January 1, 2015, calculate standardized total risk-weighted assets in accordance with subpart D and, if applicable, subpart F of this part;
 
-(ii) From January 1, 2014 to December 31, 2014:
-
-(A) Calculate risk-weighted assets in accordance with the general risk-based capital rules under appendix A to this part and, if applicable, subpart F of this part (national banks), or 12 CFR part 167 and, if applicable, subpart F of this part (Federal savings associations)1 and substitute such risk-weighted assets for standardized total risk-weighted assets for purposes of § 3.10;
-
-1 For the purpose of calculating its general risk-based capital ratios from January 1, 2014 to December 31, 2014, an advanced approaches national bank or Federal savings association shall adjust, as appropriate, its risk-weighted asset measure (as that amount is calculated under appendix A to this part, Sec. 3 and, if applicable, subpart F of this part (national banks), or 12 CFR part 167 and, if applicable, subpart F of this part (Federal savings associations) in the general risk-based capital rules) by excluding those assets that are deducted from its regulatory capital under § 3.22.
-
-(B) If applicable, calculate general market risk equivalent assets in accordance with appendix B to this part, section 4(a)(3) (national banks) and substitute such general market risk equivalent assets for standardized market risk-weighted assets for purposes of § 3.20(d)(3); and
-
-(C) Substitute the corresponding provision or provisions of appendix A to this part, and, if applicable, appendix B to this part (national banks), or 12 CFR part 167 (Federal savings associations) for any reference to subpart D of this part in: § 3.121(c); § 3.124(a) and (b); § 3.144(b); § 3.154(c) and (d); § 3.202(b) (definition of covered position in paragraph (b)(3)(iv)); and § 3.211(b);2
-
-2 In addition, for purposes of § 3.201(c)(3), from January 1, 2014 to December 31, 2014, for any circumstance in which the OCC may require a national bank or Federal savings association to calculate risk-based capital requirements for specific positions or portfolios under subpart D of this part, the OCC will instead require the national bank or Federal savings association to make such calculations according to appendix A to this part and, if applicable, subpart F of this part (national banks), or 12 CFR part 167 and, if applicable, subpart F of this part (Federal savings associations).
+(ii) [Reserved]
 
 (iii) Beginning on January 1, 2014, calculate and maintain minimum capital ratios in accordance with subparts A, B, and C of this part, provided, however, that such national bank or Federal savings association must:
 
@@ -80,4 +68,4 @@ Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date 
 
 (5) A national bank or Federal savings association that changes from one category of national bank or Federal savings association to another of such categories must comply with the requirements of its category in this part, including applicable transition provisions of the requirements in this part, no later than on the first day of the second quarter following the change in the national bank's or Federal savings association's category.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 84 FR 35248, July 22, 2019; 84 FR 59263, Nov. 1, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 84 FR 35248, July 22, 2019; 84 FR 56374, Oct. 22, 2019; 84 FR 59263, Nov. 1, 2019]

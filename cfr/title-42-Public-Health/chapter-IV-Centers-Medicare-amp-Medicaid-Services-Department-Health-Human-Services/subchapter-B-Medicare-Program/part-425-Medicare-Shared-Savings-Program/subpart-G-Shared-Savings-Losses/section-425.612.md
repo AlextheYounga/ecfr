@@ -1,7 +1,5 @@
 ##### § 425.612 Waivers of payment rules or other Medicare requirements. #####
 
-Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
-
 (a) *General.* CMS may waive certain payment rules or other Medicare requirements as determined necessary to carry out the Shared Savings Program under this part.
 
 (1) *SNF 3-day rule.* For performance year 2017 and subsequent performance years, CMS waives the requirement in section 1861(i) of the Act for a 3-day inpatient hospital stay prior to a Medicare-covered post-hospital extended care service for eligible beneficiaries assigned to ACOs participating in a two-sided model and as provided in paragraph (a)(1)(iv) of this section during a grace period for beneficiaries excluded from prospective assignment to an ACO in a two-sided model, who receive otherwise covered post-hospital extended care services furnished by an eligible SNF that has entered into a written agreement to partner with the ACO for purposes of this waiver. Eligible SNFs include providers furnishing SNF services under swing bed agreements. All other provisions of the statute and regulations regarding Medicare Part A post-hospital extended care services continue to apply. ACOs identified under paragraph (a)(1)(vi) of this section may request to use the SNF 3-day rule waiver for performance years beginning on July 1, 2019, and in subsequent years.
@@ -70,7 +68,7 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (D) CMS makes no payments for SNF services to a SNF affiliate of an ACO for which a waiver of the SNF 3-day rule has been approved when the SNF affiliate admits a FFS beneficiary who was not prospectively or preliminarily prospectively assigned to the ACO prior to the SNF admission or was prospectively assigned but was later excluded and the 90-day grace period under paragraph (a)(1)(iv)(A) of this section has lapsed.
 
-(E) In the event that CMS makes no payment for SNF services furnished by a SNF affiliate as a result of paragraph (a)(1)(v)(B) of this section and the only reason the claim was non-covered is due to the lack of a qualifying inpatient stay, the following beneficiary protections will apply:
+(E) In the event that CMS makes no payment for SNF services furnished by a SNF affiliate as a result of paragraph (a)(1)(v)(D) of this section and the only reason the claim was non-covered is due to the lack of a qualifying inpatient stay, the following beneficiary protections will apply:
 
 (*1*) The SNF must not charge the beneficiary for the expenses incurred for such services; and
 
@@ -138,4 +136,4 @@ Link to an amendment published at 84 FR 63204, Nov. 15, 2019.
 
 (3) But for the beneficiary's exclusion from the ACO's prospective assignment list, CMS would have made payment to the ACO participant for such services under § 425.613.
 
-[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016; 82 FR 53371, Nov. 15, 2017; 83 FR 68080, Dec. 31, 2018]
+[80 FR 32843, June 9, 2015, as amended at 81 FR 80561, Nov. 15, 2016; 82 FR 53371, Nov. 15, 2017; 83 FR 68080, Dec. 31, 2018; 84 FR 63204, Nov. 15, 2019]

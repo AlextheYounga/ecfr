@@ -1,7 +1,5 @@
 ##### § 660.12 General groundfish prohibitions. #####
 
-Link to an amendment published at 84 FR 63973, Nov. 19, 2019.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to:
 
 (a) *General.* (1) Retain any prohibited or protected species caught by means of fishing gear authorized under this subpart, unless otherwise authorized. Except as otherwise authorized, prohibited and protected species must be returned to the sea as soon as practicable with a minimum of injury when caught and brought on board.
@@ -33,6 +31,12 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 (14) During times or in areas where at-sea processing is prohibited, take and retain or receive Pacific whiting, except as cargo or fish waste, on a vessel in the fishery management area that already has processed Pacific whiting on board. An exception to this prohibition is provided if the fish are received within the tribal U&A fishing area, described at § 660.4, subpart A, from a member of a Pacific Coast treaty Indian tribe fishing under § 660.50, subpart C.
 
 (15) Fail to comply with the requirements of the Seabird Avoidance Program described in § 660.21 when commercial fishing for groundfish using bottom longline gear.
+
+(16) Fish with bottom contact gear (defined at § 660.11) within the EEZ in the following EFHCAs (defined at §§ 660.78 and 660.79): Thompson Seamount, President Jackson Seamount, Cordell Bank (50-fm (91-m) isobath), Harris Point, Richardson Rock, Scorpion, Painted Cave, Anacapa Island, Carrington Point, Judith Rock, Skunk Point, Footprint, Gull Island, South Point, and Santa Barbara.
+
+(17) Fish with bottom contact gear (defined at § 660.11), or any other gear that is deployed deeper than 500-fm (914-m), within the Davidson Seamount EFHCA (defined at § 660.79).
+
+(18) Fish with bottom contact gear, defined at § 660.11, in the DECA, defined at § 660.11.
 
 (b) *Reporting and Recordkeeping.* (1) Falsify or fail to make and/or file, retain or make available any and all reports of groundfish landings, containing all data, and in the exact manner, required by the applicable State law, as specified in § 660.13, subpart C, provided that person is required to do so by the applicable state law.
 
@@ -120,4 +124,4 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (8) Falsify any declaration report that is required, as specified at § 660.13.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 84 FR 32098, July 5, 2019; 84 FR 63973, Nov. 19, 2019]

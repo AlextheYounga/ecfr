@@ -1,7 +1,5 @@
 ##### § 423.120 Access to covered Part D drugs. #####
 
-Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correction of the above amendment published at 84 FR 26579, June 7, 2019.Link to an amendment published at 84 FR 23883, May 23, 2019.
-
 (a) *Assuring pharmacy access* - (1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
 
 (i) At least 90 percent of Medicare beneficiaries, on average, in urban areas served by the Part D sponsor live within 2 miles of a network pharmacy that is a retail pharmacy or a pharmacy described under paragraph (a)(2) of this section.
@@ -44,9 +42,11 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (8) Pharmacy network contracting requirements. In establishing its contracted pharmacy network, a Part D sponsor offering qualified prescription drug coverage -
 
-(i) Must contract with any pharmacy that meets the Part D sponsor's standard terms and conditions; and
+(i) Must contract with any pharmacy that meets the Part D sponsor's standard terms and conditions;
 
-(ii) May not require a pharmacy to accept insurance risk as a condition of participation in the Part D sponsor's contracted pharmacy network.
+(ii) May not require a pharmacy to accept insurance risk as a condition of participation in the Part D sponsor's contracted pharmacy network; and
+
+(iii) May not prohibit a pharmacy from, nor penalize a pharmacy for, informing a Part D plan enrollee of the availability at that pharmacy of a prescribed medication at a cash price that is below the amount that the enrollee would be charged to obtain the same medication through the enrollee's Part D plan.
 
 (9) *Differential cost-sharing for preferred pharmacies.* A Part D sponsor offering a Part D plan that provides coverage other than defined standard coverage may reduce copayments or coinsurance for covered Part D drugs obtained through a preferred pharmacy relative to the copayments or coinsurance applicable for such drugs when obtained through a non-preferred pharmacy. Such differentials are taken into account in determining whether the requirements under § 423.104(d)(2) and (d)(5) and § 423.104(e) are met. Any cost-sharing reduction under this section must not increase CMS payments to the Part D plan under § 423.329.
 
@@ -100,11 +100,17 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (vi) Exceptions to paragraph (b)(2)(v) of this section are as follows:
 
-(A) Drug products that are rated as therapeutically equivalent (under the Food and Drug Administration's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations,” also known as the Orange Book).
+(A) Drug or biological products that are rated as either of the following:
+
+(*1*) Therapeutically equivalent (under the Food and Drug Administration's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations,” also known as the Orange Book).
+
+(*2*) Interchangeable (under the Food and Drug Administration's most recent publication of the Purple Book: Lists of Licensed Biological Products with Reference Product Exclusivity and Biosimilarity or Interchangeability Evaluations).
 
 (B) Utilization management processes that limit the quantity of drugs due to safety.
 
-(C) Other drugs that CMS specifies through a process that is based upon scientific evidence and medical standards of practice (and, in the case of antiretroviral medications, is consistent with the Department of Health and Human Services Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents) and which permits public notice and comment.
+(C) Subject to CMS review and approval, for enrollees that are not on existing therapy on the protected class Part D drug, and except for antiretroviral medications, prior authorization and step therapy requirements to confirm intended use is for a protected class indication, to ensure clinically appropriate use, to promote utilization of preferred formulary alternatives, or a combination thereof.
+
+(D) Other drugs that CMS specifies through a process that is based upon scientific evidence and medical standards of practice (and, in the case of antiretroviral medications, is consistent with the Department of Health and Human Services Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents) and which permits public notice and comment.
 
 (3) *Transition process.* A Part D sponsor must provide for an appropriate transition process for enrollees prescribed Part D drugs that are not on its Part D plan's formulary (including Part D drugs that are on a sponsor's formulary but require prior authorization or step therapy under a plan's utilization management rules). The transition process must:
 
@@ -220,13 +226,19 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (iii) A Part D plan sponsor may not submit a prescription drug event (PDE) record to CMS unless it includes on the PDE record the active and valid individual NPI of the prescriber of the drug, and the prescriber is not included on the preclusion list, defined in § 423.100, for the date of service.
 
-(iv)(A) A Part D sponsor or its PBM must not reject a pharmacy claim for a Part D drug under paragraph (c)(6)(i) of this section or deny a request for reimbursement under paragraph (c)(6)(ii) of this section unless the sponsor has provided the written notice to the beneficiary required by paragraph (c)(6)(iv)(B) of this section.
+(iv) With respect to Part D prescribers who have been added to an updated preclusion list but are not currently excluded by the OIG, the Part D plan sponsor must do all of the following:
 
-(B) Upon receipt of a pharmacy claim or beneficiary request for reimbursement for a Part D drug that a Part D sponsor would otherwise be required to reject or deny in accordance with paragraph (c)(6)(i) or (ii) of this section, a Part D sponsor or its PBM must do the following:
+(A) Subject to all other Part D rules and plan coverage requirements, and no later than 30 days after the posting of this updated preclusion list, must provide an advance written notice to any beneficiary who has received a Part D drug prescribed by an individual added to the preclusion list in this update and whom the plan sponsor has identified during the applicable 30-day period.
 
-(*1*) Subject to all other Part D rules and plan coverage requirements, provide an advance written notice to any beneficiary who has received a prescription from a prescriber on the preclusion list as soon as possible but to ensure that the beneficiary receives the notice no later than 30 days after publication of the most recent preclusion list.
+(B)(*1*) Subject to paragraph (c)(6)(iv)(B)(*2*) of this section, must ensure that reasonable efforts are made to notify the individual described in paragraph (c)(6)(iv) of this section of a beneficiary who was sent a notice under paragraph (c)(6)(iv)(A) of this section.
 
-(*2*) Ensure that reasonable efforts are made to notify the prescriber of a beneficiary who was sent a notice under paragraph (c)(6)(iv)(B)(*1*) of this section.
+(*2*) Paragraph (c)(6)(iv)(B)(*1*) of this section applies only upon a prescriber writing a prescription in Medicare Part D when:
+
+(*i*) The plan sponsor has enough information on file to either copy the prescriber on the notification previously sent to the beneficiary or send a new notice informing the prescriber that they may not see plan beneficiaries due to their preclusion status; and
+
+(*ii*) The claim is received after the claim denial or reject date in the preclusion file.
+
+(C) Must not reject a pharmacy claim or deny a beneficiary request for reimbursement for a Part D drug prescribed by the prescriber, solely on the ground that they have been included in the updated preclusion list, in the 60-day period after the date it sent the notice described in paragraph (c)(6)(iv)(A) of this section.
 
 (v)(A) CMS sends written notice to the prescriber via letter of his or her inclusion on the preclusion list. The notice must contain the reason for the inclusion on the preclusion list and inform the prescriber of his or her appeal rights. A prescriber may appeal his or her inclusion on the preclusion list under this section in accordance with part 498 of this chapter.
 
@@ -250,6 +262,22 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (B) Any other evidence that CMS deems relevant to its determination.
 
+(vii)(A) Except as provided in paragraphs (c)(6)(vii)(C) and (D) of this section, a prescriber who is revoked under § 424.535 of this chapter will be included on the preclusion list for the same length of time as the prescriber's reenrollment bar.
+
+(B) Except as provided in paragraphs (c)(6)(vii)(C) and (D) of this section, a prescriber who is not enrolled in Medicare will be included on the preclusion list for the same length of time as the reenrollment bar that CMS could have imposed on the prescriber had the prescriber been enrolled and then revoked.
+
+(C) Except as provided in paragraph (c)(6)(vii)(D) of this section, an individual, regardless of whether the individual is or was enrolled in Medicare, that is included on the preclusion list because of a felony conviction will remain on the preclusion list for a 10-year period, beginning on the date of the felony conviction, unless CMS determines that a shorter length of time is warranted. Factors that CMS considers in making such a determination are -
+
+(*1*) The severity of the offense;
+
+(*2*) When the offense occurred; and
+
+(*3*) Any other information that CMS deems relevant to its determination.
+
+(D) In cases where an individual is excluded by the OIG, the individual must remain on the preclusion list until the expiration of the CMS-imposed preclusion list period or reinstatement by the OIG, whichever occurs later.
+
+(viii) Payment denials under paragraph (c)(6) of this section that are based upon the prescriber's inclusion on the preclusion list are not appealable by beneficiaries.
+
 (d) *Treatment of compounded drug products.* With respect to multi-ingredient compounds, a Part D sponsor must -
 
 (1) Make a determination as to whether the compound is covered under Part D.
@@ -272,4 +300,4 @@ Link to an amendment published at 84 FR 15840, April 16, 2019.Link to a correcti
 
 (ii) For any non-Part D ingredient of the Part D compound (including drugs described under § 423.104(f)(1)(ii)(A)), the Part D sponsor's contract with the pharmacy must prohibit balance billing the beneficiary for the cost of any such ingredients.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018; 84 FR 26579, June 7, 2019]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 2888, Jan. 16, 2009; 75 FR 19816, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21572, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16738, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 84 FR 23883, May 23, 2019; 84 FR 26579, June 7, 2019]

@@ -1,7 +1,5 @@
 ##### § 410.60 Outpatient physical therapy services: Conditions. #####
 
-Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
-
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(iii) of this section, Medicare Part B pays for outpatient physical therapy services only if they are furnished by an individual meeting the qualifications in part 484 of this chapter for a physical therapist or an appropriately supervised physical therapist assistant but only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine, osteopathy, or podiatric medicine.
@@ -15,6 +13,18 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 (ii) By, or under the direct supervision of a physical therapist in private practice as described in paragraph (c) of this section; or
 
 (iii) By, or incident to the service of, a physician, physician assistant, clinical nurse specialist, or nurse practitioner when those professionals may perform physical therapy services under State law. When a physical therapy service is provided incident to the service of a physician, physician's assistant, clinical nurse specialist, or nurse practitioner, by anyone other than a physician, physician assistant, clinical nurse specialist, or nurse practitioner, the service and the person who furnishes the service must meet the standards and conditions that apply to physical therapy and physical therapists, except that a license to practice physical therapy in the State is not required.
+
+(4) Effective for dates of service on and after January 1, 2020, for physical therapy services described in paragraphs (a)(3)(i) or (ii) of this section, as applicable -
+
+(i) Claims for services furnished in whole or in part by a physical therapist assistant must include the prescribed modifier; and
+
+(ii) Effective for dates of service on or after January 1, 2022, claims for such services that include the modifier and for which payment is made under sections 1848 or 1834(k) of the Act are paid an amount equal to 85 percent of the amount of payment otherwise applicable for the service.
+
+(iii) For purposes of this paragraph, “furnished in whole or in part” means when the physical therapist assistant either:
+
+(A) Furnishes all the minutes of a service exclusive of the physical therapist; or
+
+(B) Furnishes a portion of a service separately from the part furnished by the physical therapist such that the minutes for that portion of a service furnished by the physical therapist assistant exceed 10 percent of the total minutes for that service.
 
 (b) *Condition for coverage of outpatient physical therapy services furnished to certain inpatients of a hospital or a CAH or SNF.* Medicare Part B pays for outpatient physical therapy services furnished to an inpatient of a hospital, CAH, or SNF who requires them but who has exhausted or is otherwise + ineligible for benefit days under Medicare Part A.
 
@@ -40,11 +50,13 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 
 (iv) Outpatient physical therapy and speech-language pathology services furnished by a CAH directly or under arrangements must be counted towards the annual limitation on incurred expenses as if such services were paid under section 1834(k)(1)(b) of the Act.
 
-(2) For purposes of applying the limitation, outpatient physical therapy includes:
+(v) Beginning in 2018 and for each successive calendar year, the amount described in paragraph (e)(1)(ii) of this section is not applied as a limitation on incurred expenses for outpatient physical therapy and outpatient speech-language pathology services, but is instead applied as a threshold above which claims for physical therapy and speech-language pathology services must include the KX modifier (the KX modifier threshold) to indicate that the service is medically necessary and justified by appropriate documentation in the medical record; and claims for services above the KX modifier threshold that do not include the KX modifier are denied.
 
-(i) Except as provided in paragraph (e)(3) of this section, outpatient physical therapy services furnished under this section;
+(2) For purposes of applying the KX modifier threshold, outpatient physical therapy includes:
 
-(ii) Except as provided in paragraph (e)(3) of this section outpatient speech-language pathology services furnished under § 410.62;
+(i) Outpatient physical therapy services furnished under this section;
+
+(ii) Outpatient speech-language pathology services furnished under § 410.62;
 
 (iii) Outpatient physical therapy and speech-language pathology services furnished by a comprehensive outpatient rehabilitation facility;
 
@@ -52,8 +64,20 @@ Link to an amendment published at 84 FR 63188, Nov. 15, 2019.
 
 (v) Outpatient physical therapy and speech-language pathology services furnished by a nurse practitioner, clinical nurse specialist, or physician assistant or incident to their services; and
 
-(vi) Outpatient physical therapy and speech-language pathology services furnished by a CAH directly or under arrangements.
+(vi) Outpatient physical therapy and speech-language pathology services furnished by a CAH directly or under arrangements, included in the amount of annual incurred expenses as if such services were furnished and paid under section 1834(k)(1)(B) of the Act.
 
-(3) For purposes of applying the limitation, outpatient physical therapy excludes services furnished by a hospital directly or under arrangements.
+(3) A process for medical review of claims for physical therapy and speech-language pathology services applies as follows:
 
-[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018]
+(i) For 2012 through 2017, medical review applies to claims for services at or in excess of $3,700 of recognized incurred expenses as described in paragraph (e)(1)(i) of this section.
+
+(A) For 2012, 2013, and 2014 all claims at and above the $3,700 medical review threshold are subject to medical review; and
+
+(B) For 2015, 2016, and 2017 claims at and above the $3,700 medical review threshold are subject to a targeted medical review process.
+
+(ii) For 2018 and subsequent years, a targeted medical review process when the accrued annual incurred expenses reach the following medical review threshold amounts:
+
+(A) Beginning with 2018 and before 2028, $3,000;
+
+(B) For 2028 and each year thereafter, the applicable medical review threshold is determined by increasing the medical review threshold in effect for the previous year (starting with $3,000 for 2017) by the increase in the Medicare Economic Index for the current year.
+
+[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018; 84 FR 63188, Nov. 15, 2019]

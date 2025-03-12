@@ -1,7 +1,5 @@
 ##### § 423.568 Standard timeframe and notice requirements for coverage determinations. #####
 
-Link to an amendment published at 84 FR 15843, April 16, 2019.
-
 (a) *Method and place for filing a request.* An enrollee must ask for a standard coverage determination by making a request with the Part D plan sponsor in accordance with the following:
 
 (1) Except as specified in paragraph (a)(2) of this section, the request may be made orally or in writing.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 15843, April 16, 2019.
 
 (3) The Part D plan sponsor must establish and maintain a method of documenting all oral requests and retain the documentation in the case file.
 
-(b) *Timeframe for requests for drug benefits.* When a party makes a request for a drug benefit, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the request, or, for an exceptions request, the physician's or other prescriber's supporting statement.
+(b) *Timeframe for requests for drug benefits.* When a party makes a request for a drug benefit, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the request. For an exceptions request, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the physician's or other prescriber's supporting statement. If a supporting statement is not received by the end of 14 calendar days from receipt of the exceptions request, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours from the end of 14 calendar days from receipt of the exceptions request.
 
 (c) *Timeframe for requests for payment.* When a party makes a request for payment, the Part D plan sponsor must notify the enrollee of its determination and make payment (when applicable) no later than 14 calendar days after receipt of the request.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 84 FR 15843, April 16, 2019.
 
 (h) *Effect of failure to meet the adjudicatory timeframes.* If the Part D plan sponsor fails to notify the enrollee of its determination in the appropriate timeframe under paragraphs (b) or (c) of this section, the failure constitutes an adverse coverage determination, and the plan sponsor must forward the enrollee's request to the IRE within 24 hours of the expiration of the adjudication timeframe.
 
-[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011]
+[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011; 84 FR 15843, Apr. 16, 2019]

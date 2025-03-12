@@ -1,14 +1,16 @@
 ##### § 541.602 Salary basis. #####
 
-Link to an amendment published at 84 FR 51307, Sept. 27, 2019.
-
 (a) *General rule.* An employee will be considered to be paid on a “salary basis” within the meaning of this part if the employee regularly receives each pay period on a weekly, or less frequent basis, a predetermined amount constituting all or part of the employee's compensation, which amount is not subject to reduction because of variations in the quality or quantity of the work performed.
 
 (1) Subject to the exceptions provided in paragraph (b) of this section, an exempt employee must receive the full salary for any week in which the employee performs any work without regard to the number of days or hours worked. Exempt employees need not be paid for any workweek in which they perform no work.
 
 (2) An employee is not paid on a salary basis if deductions from the employee's predetermined compensation are made for absences occasioned by the employer or by the operating requirements of the business. If the employee is ready, willing and able to work, deductions may not be made for time when work is not available.
 
-(3) Up to ten percent of the salary amount required by § 541.600(a) may be satisfied by the payment of nondiscretionary bonuses, incentives, and commissions, that are paid quarterly or more frequently. If by the last pay period of the quarter the sum of the employee's weekly salary plus nondiscretionary bonus, incentive, and commission payments received does not equal 13 times the weekly salary amount required by § 541.600(a), the employer may make one final payment sufficient to achieve the required level no later than the next pay period after the end of the quarter. Any such final payment made after the end of the 13-week period may count only toward the prior quarter's salary amount and not toward the salary amount in the quarter it was paid. This provision does not apply to highly compensated employees under § 541.601.
+(3) Up to ten percent of the salary amount required by § 541.600(a) may be satisfied by the payment of nondiscretionary bonuses, incentives and commissions, that are paid annually or more frequently. The employer may utilize any 52-week period as the year, such as a calendar year, a fiscal year, or an anniversary of hire year. If the employer does not identify some other year period in advance, the calendar year will apply. This provision does not apply to highly compensated employees under § 541.601.
+
+(i) If by the last pay period of the 52-week period the sum of the employee's weekly salary plus nondiscretionary bonus, incentive, and commission payments received is less than 52 times the weekly salary amount required by § 541.600(a), the employer may make one final payment sufficient to achieve the required level no later than the next pay period after the end of the year. Any such final payment made after the end of the 52-week period may count only toward the prior year's salary amount and not toward the salary amount in the year it was paid.
+
+(ii) An employee who does not work a full 52-week period for the employer, either because the employee is newly hired after the beginning of this period or ends the employment before the end of this period, may qualify for exemption if the employee receives a *pro rata* portion of the minimum amount established in paragraph (a)(3) of this section, based upon the number of weeks that the employee will be or has been employed. An employer may make one final payment as under paragraph (a)(3)(i) of this section within one pay period after the end of employment.
 
 (b) *Exceptions.* The prohibition against deductions from pay in the salary basis requirement is subject to the following exceptions:
 
@@ -28,4 +30,4 @@ Link to an amendment published at 84 FR 51307, Sept. 27, 2019.
 
 (c) When calculating the amount of a deduction from pay allowed under paragraph (b) of this section, the employer may use the hourly or daily equivalent of the employee's full weekly salary or any other amount proportional to the time actually missed by the employee. A deduction from pay as a penalty for violations of major safety rules under paragraph (b)(4) of this section may be made in any amount.
 
-[69 FR 22260, Apr. 23, 2004, as amended at 81 FR 32550, May 23, 2016]
+[69 FR 22260, Apr. 23, 2004, as amended at 81 FR 32550, May 23, 2016; 84 FR 51307, Sept. 27, 2019]

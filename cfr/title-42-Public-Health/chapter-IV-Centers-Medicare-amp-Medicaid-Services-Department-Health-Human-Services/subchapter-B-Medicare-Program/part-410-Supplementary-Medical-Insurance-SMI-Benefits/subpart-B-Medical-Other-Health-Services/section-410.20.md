@@ -1,7 +1,5 @@
 ##### § 410.20 Physicians' services. #####
 
-Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
-
 (a) *Included services.* Medicare Part B pays for physicians' services, including diagnosis, therapy, surgery, consultations, and home, office, and institutional calls.
 
 (b) *By whom services must be furnished.* Medicare Part B pays for the services specified in paragraph (a) of this section if they are furnished by one of the following professionals who is legally authorized to practice by the State in which he or she performs the functions or actions, and who is acting within the scope of his or her license.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
 
 (c) *Limitations on services.* The Services specified in paragraph (a) of this section may be covered under Medicare Part B if they are furnished within the limitations specified in §§ 410.22 through 410.25.
 
-(d) *Prior determination of medical necessity for physicians' services* - (1) *Definitions.* (i) A “Prior Determination of Medical Necessity” means an individual decision by a Medicare contractor, before a physician's service is furnished, as to whether or not the physician's service is covered consistent with the requirements of section 1862(a)(1)(A) of the Act relating to medical necessity.
+(d) *Prior determination of medical necessity for physicians' services*—(1) *Definitions.* (i) A “Prior Determination of Medical Necessity” means an individual decision by a Medicare contractor, before a physician's service is furnished, as to whether or not the physician's service is covered consistent with the requirements of section 1862(a)(1)(A) of the Act relating to medical necessity.
 
 (ii) An “eligible requester” includes the following:
 
@@ -38,11 +36,11 @@ Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
 
 (5) *Statutory procedures.* Under sections 1869(h)(3) through (h)(6) of the Act, the following procedures apply:
 
-(i) *Request for prior determination* - (A) *In general.* An eligible requester may submit to the contractor a request for a determination, before the furnishing of a physician's service, as to whether the physician's service is covered under this title consistent with the applicable requirements of section 1862(a)(1)(A) of the Act (relating to medical necessity).
+(i) *Request for prior determination*—(A) *In general.* An eligible requester may submit to the contractor a request for a determination, before the furnishing of a physician's service, as to whether the physician's service is covered under this title consistent with the applicable requirements of section 1862(a)(1)(A) of the Act (relating to medical necessity).
 
 (B) *Accompanying documentation.* CMS may require that the request be accompanied by a description of the physician's service, supporting documentation relating to the medical necessity of the physician's service, and other appropriate documentation. In the case of a request submitted by an eligible requester who is described in section 1869(h)(1)(B)(ii) of the Act, the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
 
-(ii) *Response to request* - (A) *General rule.* The contractor will provide the eligible requester with written notice of a determination as to whether -
+(ii) *Response to request*—(A) *General rule.* The contractor will provide the eligible requester with written notice of a determination as to whether—
 
 (*1*) The physician's service is covered (the physician's service is covered consistent with the requirements of section 1862(a)(1)(A) of the Act relating to medical necessity); or
 
@@ -50,7 +48,7 @@ Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
 
 (*3*) The contractor lacks sufficient information to make a coverage determination with respect to the physician's service.
 
-(B) *Contents of notice for certain determinations* - (*1*) *Coverage.* If the contractor makes the determination described in paragraph (d)(5)(ii)(A)(1) of this section, the contractor will indicate in the prior determination notice that the physician service is covered consistent with the requirements of section 1862(a)(1)(A) of the Act relating to medical necessity.
+(B) *Contents of notice for certain determinations*—(*1*) *Coverage.* If the contractor makes the determination described in paragraph (d)(5)(ii)(A)(1) of this section, the contractor will indicate in the prior determination notice that the physician service is covered consistent with the requirements of section 1862(a)(1)(A) of the Act relating to medical necessity.
 
 (*2*) *Noncoverage.* If the contractor makes the determination described in paragraph (d)(5)(ii)(A)(*2*) of this section, the contractor will include in the notice a brief explanation of the basis for the determination, including on what national or local coverage or noncoverage determination (if any) the determination is based, and a description of any applicable rights under section 1869(a) of the Act.
 
@@ -62,9 +60,9 @@ Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
 
 (iii) *Binding nature of positive determination.* If the contractor makes the determination described in paragraph (d)(5)(ii)(A)(*1*) of this section, that determination will be binding on the contractor in the absence of fraud or evidence of misrepresentation of facts presented to the contractor.
 
-(iv) *Limitation on further review* - (A) *General rule.* Contractor determinations described in paragraph (d)(5)(ii)(A)(*2*) of this section or paragraph (d)(5)(ii)(A)(*3*) of this section (relating to pre-service claims) are not subject to administrative appeal or judicial review.
+(iv) *Limitation on further review*—(A) *General rule.* Contractor determinations described in paragraph (d)(5)(ii)(A)(*2*) of this section or paragraph (d)(5)(ii)(A)(*3*) of this section (relating to pre-service claims) are not subject to administrative appeal or judicial review.
 
-(B) *Decision not to seek prior determination or negative determination does not impact the right to obtain services, seek reimbursement, or appeal rights.* Nothing in this paragraph will be construed as affecting the right of an individual who -
+(B) *Decision not to seek prior determination or negative determination does not impact the right to obtain services, seek reimbursement, or appeal rights.* Nothing in this paragraph will be construed as affecting the right of an individual who—
 
 (*1*) Decides not to seek a prior determination under this paragraph with respect to physicians' services; or
 
@@ -72,4 +70,6 @@ Link to an amendment published at 84 FR 63187, Nov. 15, 2019.
 
 (C) *No prior determination after receipt of services.* Once an individual is provided physicians' services, there will be no prior determination under this paragraph with respect to those physicians' services.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 73 FR 9678, Feb. 22, 2008]
+(e) *Medical record documentation.* The physician may review and verify (sign/date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team including, as applicable, notes documenting the physician's presence and participation in the services.
+
+[51 FR 41339, Nov. 14, 1986, as amended at 73 FR 9678, Feb. 22, 2008; 84 FR 63187, Nov. 15, 2019]

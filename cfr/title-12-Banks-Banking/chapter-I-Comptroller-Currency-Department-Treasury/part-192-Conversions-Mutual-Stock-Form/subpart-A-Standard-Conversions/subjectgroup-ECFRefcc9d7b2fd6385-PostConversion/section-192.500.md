@@ -1,7 +1,5 @@
 ##### § 192.500 What management stock benefit plans may I implement? #####
 
-Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
-
 (a) During the 12 months after your conversion, you may implement a stock option plan (Option Plan), an employee stock ownership plan or other tax-qualified employee stock benefit plan (collectively, ESOP), and a management recognition plan (MRP), provided you meet all of the following requirements.
 
 (1) You disclose the plans in your proxy statement and offering circular and indicate in your offering circular that there will be a separate shareholder vote on the Option Plan and the MRP at least six months after the conversion. No shareholder vote is required to implement the ESOP. Your ESOP must be tax-qualified.
@@ -11,6 +9,8 @@ Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
 (3)(i) Your ESOP and MRP do not encompass, in the aggregate, more than ten percent of the number of shares that you issued in the conversion. If you have tangible capital of ten percent or more following the conversion, the appropriate Federal banking agency may permit your ESOP and MRP to encompass, in the aggregate, up to 12 percent of the number of shares issued in the conversion; and
 
 (ii) Your MRP does not encompass more than three percent of the number of shares that you issued in the conversion. If you have tangible capital of ten percent or more after the conversion, the appropriate Federal banking agency may permit your MRP to encompass up to four percent of the number of shares that you issued in the conversion.
+
+(iii) For a qualifying community banking organization that has elected to use the community bank leverage ratio framework, as set forth under the OCC's Capital Adequacy Standards at part 3 of this chapter, the term tangible capital, as it is used in this paragraph (a)(3), refers to the qualifying community banking organization's tier 1 capital, as used under § 3.12 of this chapter.
 
 (4) No individual receives more than 25 percent of the shares under any plan.
 
@@ -38,4 +38,4 @@ Link to an amendment published at 84 FR 61796, Nov. 13, 2019.
 
 (c) The restrictions in paragraph (a) of this section do not apply to plans implemented more than 12 months after the conversion, provided that materials pertaining to any shareholder vote regarding such plans are not distributed within the 12 months after the conversion. If a plan adopted in conformity with paragraph (a) of this section is amended more than 12 months following your conversion, your shareholders must ratify any material deviations to the requirements in paragraph (a).
 
-[76 FR 49156, Aug. 9, 2011, as amended at 79 FR 11317, Feb. 28, 2014]
+[76 FR 49156, Aug. 9, 2011, as amended at 79 FR 11317, Feb. 28, 2014; 84 FR 61796, Nov. 13, 2019]

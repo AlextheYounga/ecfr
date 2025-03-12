@@ -1,8 +1,8 @@
 ##### § 423.182 Part D Prescription Drug Plan Quality Rating System. #####
 
-Link to an amendment published at 84 FR 15841, April 16, 2019.
-
 (a) *Definitions.* In this subpart the following terms have the meanings:
+
+*Absolute percentage cap* is a cap applied to non-CAHPS measures that are on a 0 to 100 scale that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage as compared to the prior year's cut point.
 
 *CAHPS* refers to a comprehensive and evolving family of surveys that ask consumers and patients to evaluate the interpersonal aspects of health care. CAHPS surveys probe those aspects of care for which consumers and patients are the best or only source of information, as well as those that consumers and patients have identified as being important. CAHPS initially stood for the Consumer Assessment of Health Plans Study, but as the products have evolved beyond health plans the acronym now stands for Consumer Assessment of Healthcare Providers and Systems.
 
@@ -16,17 +16,23 @@ Link to an amendment published at 84 FR 15841, April 16, 2019.
 
 *Consumed contract* means a contract that will no longer exist after a contract year's end as a result of a consolidation.
 
+*Cut point cap* is a restriction on the change in the amount of movement a measure-threshold-specific cut point can make as compared to the prior year's measure-threshold-specific cut point. A cut point cap can restrict upward movement, downward movement, or both.
+
 *Display page* means the CMS website on which certain measures and scores are publicly available for informational purposes; the measures that are presented on the display page are not used in assigning Part C and D Star Ratings.
 
 *Domain rating* means the rating that groups measures together by dimensions of care.
 
 *Dual-eligible (DE)* means a beneficiary who is enrolled in both Medicare and Medicaid.
 
+*Guardrail* is a bidirectional cap that restricts both upward and downward movement of a measure-threshold-specific cut point for the current year's measure-level Star Ratings as compared to the prior year's measure-threshold-specific cut point.
+
 *Highest rating* means the overall rating for MA-PDs, the Part C summary rating for MA-only contracts, and the Part D summary rating for PDPs.
 
 *Highly-rated contract* means a contract that has 4 or more stars for its highest rating when calculated without the improvement measures and with all applicable adjustments (CAI and the reward factor).
 
 *Low-income subsidy (LIS)* means the subsidy that a beneficiary receives to help pay for prescription drug coverage (see § 423.34 for definition of a low-income subsidy eligible individual).
+
+*Mean resampling* refers to a technique where measure-specific scores for the current year's Star Ratings are randomly separated into 10 equal-sized groups. The hierarchal clustering algorithm is done 10 times, each time leaving one of the 10 groups out. By leaving out one of the 10 groups for each run, 9 of the 10 groups, which is 90 percent of the applicable measure scores, are used for each run of the clustering algorithm. The method results in 10 sets of measure-specific cut points. The mean cut point for each threshold per measure is calculated using the 10 values.
 
 *Measurement period* means the period for which data are collected for a measure or the performance period that a measures covers.
 
@@ -43,6 +49,10 @@ Link to an amendment published at 84 FR 15841, April 16, 2019.
 *Plan benefit package (PBP)* means a set of benefits for a defined MA or PDP service area. The PBP is submitted by Part D plan sponsors and MA organizations to CMS for benefit analysis, bidding, marketing, and beneficiary communication purposes.
 
 *Reliability* means a measure of the fraction of the variation among the observed measure values that is due to real differences in quality (“signal”) rather than random variation (“noise”); it is reflected on a scale from 0 (all differences in plan performance measure scores are due to measurement error) to 1 (the difference in plan performance scores is attributable to real differences in performance).
+
+*Restricted range* is the difference between the maximum and minimum measure score values using the prior year measure scores excluding outer fence outliers (first quartile −3\*Interquartile Range (IQR) and third quartile + 3\*IQR).
+
+*Restricted range cap* is a cap applied to non-CAHPS measures that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage of the restricted range of a measure calculated using the prior year's measure score distribution.
 
 *Reward factor* means a rating-specific factor added to the contract's summary or overall ratings (or both) if a contract has both high and stable relative performance.
 
@@ -70,4 +80,4 @@ Link to an amendment published at 84 FR 15841, April 16, 2019.
 
 (2) Part D sponsors are required to collect, analyze, and report data that permit measurements of health outcomes and other indices of quality. Part D sponsors must provide unbiased, accurate, and complete quality data described in paragraph (c)(1) of this section to CMS on a timely basis as requested by CMS.
 
-[83 FR 16743, Apr. 16, 2018]
+[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019]

@@ -1,7 +1,5 @@
 ##### § 405.926 Actions that are not initial determinations. #####
 
-Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
-
 Actions that are not initial determinations and are not appealable under this subpart include, but are not limited to the following:
 
 (a) Any determination for which CMS has sole responsibility, for example one of the following:
@@ -48,8 +46,12 @@ Actions that are not initial determinations and are not appealable under this su
 
 (s) Claim submissions on forms or formats that are incomplete, invalid, or do not meet the requirements for a Medicare claim and returned or rejected to the provider or supplier.
 
-(t) A contractor's prior authorization determination related to coverage of durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS).
+(t) A contractor's prior authorization determination with regard to—
+
+(1) Durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS)); and
+
+(2) Hospital outpatient department (OPD) services.
 
 (u) Issuance of notice to an individual entitled to Medicare benefits under Title XVIII of the Act when such individual received observation services as an outpatient for more than 24 hours, as specified under § 489.20(y) of this chapter.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 80 FR 10618, Feb. 27, 2015; 80 FR 81706, Dec. 30, 2015; 81 FR 57267, Aug. 22, 2016; 81 FR 68847, Oct. 4, 2016; 82 FR 5107, Jan. 17, 2017; 84 FR 19869, May 7, 2019]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37702, June 30, 2005; 80 FR 10618, Feb. 27, 2015; 80 FR 81706, Dec. 30, 2015; 81 FR 57267, Aug. 22, 2016; 81 FR 68847, Oct. 4, 2016; 82 FR 5107, Jan. 17, 2017; 84 FR 19869, May 7, 2019; 84 FR 61490, Nov. 12, 2019]

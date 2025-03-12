@@ -1,10 +1,8 @@
 ##### § 1003.4 Compilation of reportable data. #####
 
-Link to an amendment published at 84 FR 57981, Oct. 29, 2019.
+(a) *Data format and itemization.* A financial institution shall collect data regarding applications for covered loans that it receives, covered loans that it originates, and covered loans that it purchases for each calendar year. A financial institution shall collect data regarding requests under a preapproval program, as defined in § 1003.2(b)(2), only if the preapproval request is denied, is approved by the financial institution but not accepted by the applicant, or results in the origination of a home purchase loan. Except as provided in § 1003.3(d), the data collected shall include the following items:
 
-(a) *Data format and itemization.* A financial institution shall collect data regarding applications for covered loans that it receives, covered loans that it originates, and covered loans that it purchases for each calendar year. A financial institution shall collect data regarding requests under a preapproval program, as defined in § 1003.2(b)(2), only if the preapproval request is denied, is approved by the financial institution but not accepted by the applicant, or results in the origination of a home purchase loan. The data collected shall include the following items:
-
-(1)(i) A universal loan identifier (ULI) for the covered loan or application that can be used to identify and retrieve the covered loan or application file. Except for a purchased covered loan or application described in paragraphs (a)(1)(i)(D) and (E) of this section, the financial institution shall assign and report a ULI that:
+(1)(i) A universal loan identifier (ULI) or, for a partially exempt transaction under § 1003.3(d), either a ULI or a non-universal loan identifier (NULI) as described in § 1003.3(d)(5) for the covered loan or application that can be used to identify and retrieve the covered loan or application file. Except for a purchased covered loan or application described in paragraphs (a)(1)(i)(D) and (E) of this section or a partially exempt transaction for which a NULI is assigned and reported under § 1003.3(d), the financial institution shall assign and report a ULI that:
 
 (A) Begins with the financial institution's Legal Entity Identifier (LEI) that is issued by:
 
@@ -166,8 +164,8 @@ Link to an amendment published at 84 FR 57981, Oct. 29, 2019.
 
 (c)-(d) [Reserved]
 
-(e) *Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA.* Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (12 U.S.C. 2901 *et seq.*) shall also collect the information required by paragraph 4(a)(9) of this section for property located outside MSAs and MDs in which the institution has a home or branch office, or outside any MSA.
+(e) *Data reporting for banks and savings associations that are required to report data on small business, small farm, and community development lending under CRA.* Banks and savings associations that are required to report data on small business, small farm, and community development lending under regulations that implement the Community Reinvestment Act of 1977 (12 U.S.C. 2901 *et seq.*) shall also collect the information required by paragraph (a)(9)(ii) of this section for property located outside MSAs and MDs in which the institution has a home or branch office, or outside any MSA.
 
 (f) *Quarterly recording of data.* A financial institution shall record the data collected pursuant to this section on a loan/application register within 30 calendar days after the end of the calendar quarter in which final action is taken (such as origination or purchase of a covered loan, sale of a covered loan in the same calendar year it is originated or purchased, or denial or withdrawal of an application).
 
-[80 FR 66310, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017]
+[80 FR 66310, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017; 84 FR 57981, Oct. 29, 2019]

@@ -1,10 +1,8 @@
 ##### § 225.87 Is notice to the Board required after engaging in a financial activity? #####
 
-Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
-
 (a) *Post-transaction notice generally required to engage in a financial activity.* A financial holding company that commences an activity or acquires shares of a company engaged in an activity listed in § 225.86 must notify the appropriate Reserve Bank in writing within 30 calendar days after commencing the activity or consummating the acquisition by using the appropriate form.
 
-(b) *Cases in which notice to the Board is not required* - (1) *Acquisitions that do not involve control of a company.* A notice under paragraph (a) of this section is not required in connection with the acquisition of shares of a company if, following the acquisition, the financial holding company does not control the company.
+(b) *Cases in which notice to the Board is not required*—(1) *Acquisitions that do not involve control of a company.* A notice under paragraph (a) of this section is not required in connection with the acquisition of shares of a company if, following the acquisition, the financial holding company does not control the company.
 
 (2) *No additional notice required to engage*de novo*in an activity for which a financial holding company already has provided notice.* After a financial holding company provides the appropriate Reserve Bank with notice that the company is engaged in an activity listed in § 225.86, a financial holding company may, unless otherwise notified by the Board, commence the activity *de novo* through any subsidiary that the financial holding company is authorized to control without providing additional notice under paragraph (a) of this section.
 
@@ -17,3 +15,7 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 (ii) As part of an insurance company investment activity conducted under section 4(k)(4)(I) of the BHC Act (12 U.S.C. 1843(k)(4)(I)), the financial holding company acquires more than 5 percent of the shares, assets, or ownership interests of any company at a total cost that exceeds the lesser of 5 percent of the financial holding company's Tier 1 capital or $200 million; or
 
 (iii) The Board in the exercise of its supervisory authority notifies the financial holding company that a notice is necessary.
+
+(iv) For purposes of this paragraph (b)(4), a financial holding company that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter) calculates its Tier 1 capital (as defined in § 217.2 of this chapter) in accordance with § 217.12(b) of this chapter.
+
+[Reg. Y, 66 FR 415, Jan. 3, 2001, as amended at 84 FR 61801, Nov. 13, 2019]

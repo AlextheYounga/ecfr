@@ -1,7 +1,5 @@
 ##### § 422.254 Submission of bids. #####
 
-Link to an amendment published at 84 FR 15833, April 16, 2019.
-
 (a) *General rules.* (1) Not later than the first Monday in June, each MA organization must submit to CMS an aggregate monthly bid amount for each MA plan (other than an MSA plan) the organization intends to offer in the upcoming year in the service area (or segment of such an area if permitted under § 422.262(c)(2)) that meets the requirements in paragraph (b) of this section. With each bid submitted, the MA organization must provide the information required in paragraph (c) of this section and, for plans with rebates as described at § 422.266(a), the MA organization must provide the information required in paragraph (d) of this section.
 
 (2) CMS has the authority to determine whether and when it is appropriate to apply the bidding methodology described in this section to ESRD MA enrollees.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 
 (b) *Bid requirements.* (1) The monthly aggregate bid amount submitted by an MA organization for each plan is the organization's estimate of the revenue required for the following categories for providing coverage to an MA eligible beneficiary with a national average risk profile for the factors described in § 422.308(c):
 
-(i) The unadjusted MA statutory non-drug monthly bid amount, which is the MA plan's estimated average monthly required revenue for providing benefits under the original Medicare fee-for-service program option (as defined in § 422.252).
+(i) The unadjusted MA statutory non-drug monthly bid amount, which is the MA plan's estimated average monthly required revenue for providing basic benefits as defined in § 422.100(c)(1).
 
 (ii) The amount to provide basic prescription drug coverage, if any (defined at section 1860D-2(a)(3) of the Act).
 
@@ -22,7 +20,11 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 
 (3) Each bid submission must contain all estimated revenue required by the plan, including administrative costs and return on investment.
 
-(4) The bid amount is for plan payments only but must be based on plan assumptions about the amount of revenue required from enrollee cost-sharing. The estimate of plan cost-sharing for the unadjusted MA statutory non-drug monthly bid amount for coverage of original Medicare benefits must reflect the requirement that the level of cost sharing MA plans charge to enrollees must be actuarially equivalent to the level of cost sharing (deductible, copayments, or coinsurance) charged to beneficiaries under the original Medicare program option. The actuarially equivalent level of cost sharing reflected in a regional plan's unadjusted MA statutory non-drug monthly bid amount does not include cost sharing for out-of-network Medicare benefits, as described at § 422.101(d).
+(i) MA plans offering additional telehealth benefits as defined in § 422.135(a) must exclude any capital and infrastructure costs and investments directly incurred or paid by the MA plan relating to such benefits from their bid submission for the unadjusted MA statutory non-drug monthly bid amount.
+
+(ii) [Reserved]
+
+(4) The bid amount is for plan payments only but must be based on plan assumptions about the amount of revenue required from enrollee cost-sharing. The estimate of plan cost-sharing for the unadjusted MA statutory non-drug monthly bid amount for coverage of basic benefits as defined in § 422.100(c)(1) must reflect the requirement that the level of cost sharing MA plans charge to enrollees must be actuarially equivalent to the level of cost sharing (deductible, copayments, or coinsurance) charged to beneficiaries under the original Medicare fee-for-service program option. The actuarially equivalent level of cost sharing reflected in a regional plan's unadjusted MA statutory non-drug monthly bid amount does not include cost sharing for out-of-network Medicare benefits, as described at § 422.101(d).
 
 (5) *Actuarial valuation.* The bid must be prepared in accordance with CMS actuarial guidelines based on generally accepted actuarial principles.
 
@@ -40,7 +42,7 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 
 (3) The proportions of the bid amount attributable to-
 
-(i) The provision of benefits under the original Medicare fee-for-service program option (as defined at § 422.100(c));
+(i) The provision of basic benefits as defined in § 422.100(c)(1);
 
 (ii) The provision of basic prescription drug coverage (as defined at section 1860D-2(a)(3) of the Act; and
 
@@ -66,11 +68,11 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 
 (d) *Beneficiary rebate information.* In the case of a plan required to provide a monthly rebate under § 422.266 for a year, the MA organization offering the plan must inform CMS how the plan will distribute the beneficiary rebate among the options described at § 422.266(b).
 
-(e) *Information required for MSA plans.* MA organizations intending to offer MA MSA plans must submit -
+(e) *Information required for MSA plans.* MA organizations intending to offer MA MSA plans must submit—
 
 (1) The enrollment capacity (if any) for the plan;
 
-(2) The amount of the MSA monthly premium for basic benefits under the original Medicare fee-for-service program option;
+(2) The amount of the MA monthly MSA premium for basic benefits (as defined in § 422.252);
 
 (3) The amount of the plan deductible; and
 
@@ -78,4 +80,4 @@ Link to an amendment published at 84 FR 15833, April 16, 2019.
 
 (f) Separate bids must be submitted for Part A and Part B enrollees and Part B-only enrollees for each MA plan offered.
 
-[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018]
+[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 75 FR 19806, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 83 FR 16733, Apr. 16, 2018; 84 FR 15833, Apr. 16, 2019]

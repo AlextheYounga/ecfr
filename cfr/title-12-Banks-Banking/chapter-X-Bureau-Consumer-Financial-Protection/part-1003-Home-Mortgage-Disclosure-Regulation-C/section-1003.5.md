@@ -1,10 +1,8 @@
 ##### § 1003.5 Disclosure and reporting. #####
 
-Link to an amendment published at 80 FR 63313, Oct. 28, 2015.Link to an amendment published at 82 FR 43145, Sept. 13, 2017.
+(a) *Reporting to agency*—(1)(i) *Annual reporting.* By March 1 following the calendar year for which data are collected and recorded as required by § 1003.4, a financial institution shall submit its annual loan/application register in electronic format to the appropriate Federal agency at the address identified by such agency. An authorized representative of the financial institution with knowledge of the data submitted shall certify to the accuracy and completeness of data submitted pursuant to this paragraph (a)(1)(i). The financial institution shall retain a copy of its annual loan/application register submitted pursuant to this paragraph (a)(1)(i) for its records for at least three years.
 
-(a) *Reporting to agency* - (1)(i) *Annual reporting.* By March 1 following the calendar year for which data are collected and recorded as required by § 1003.4, a financial institution shall submit its annual loan/application register in electronic format to the appropriate Federal agency at the address identified by such agency. An authorized representative of the financial institution with knowledge of the data submitted shall certify to the accuracy and completeness of data submitted pursuant to this paragraph (a)(1)(i). The financial institution shall retain a copy of its annual loan/application register submitted pursuant to this paragraph (a)(1)(i) for its records for at least three years.
-
-(ii) [Reserved]
+(ii) *Quarterly reporting.* Within 60 calendar days after the end of each calendar quarter except the fourth quarter, a financial institution that reported for the preceding calendar year at least 60,000 covered loans and applications, combined, excluding purchased covered loans, shall submit to the appropriate Federal agency its loan/application register containing all data required to be recorded for that quarter pursuant to § 1003.4(f). The financial institution shall submit its quarterly loan/application register pursuant to this paragraph (a)(1)(ii) in electronic format at the address identified by the appropriate Federal agency for the institution.
 
 (iii) When the last day for submission of data prescribed under this paragraph (a)(1) falls on a Saturday or Sunday, a submission shall be considered timely if it is submitted on the next succeeding Monday.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 80 FR 63313, Oct. 28, 2015.Link to an amendmen
 
 (i) Its name;
 
-(ii) The calendar year the data submission covers pursuant to paragraph (a)(1)(i) of this section;
+(ii) The calendar year the data submission covers pursuant to paragraph (a)(1)(i) of this section or calendar quarter and year the data submission covers pursuant to paragraph (a)(1)(ii) of this section;
 
 (iii) The name and contact information of a person who may be contacted with questions about the institution's submission;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 80 FR 63313, Oct. 28, 2015.Link to an amendmen
 
 (f) *Aggregated data.* Using data submitted by financial institutions pursuant to paragraph (a)(1)(i) of this section, the FFIEC will make available aggregate data for each MSA and MD, showing lending patterns by property location, age of housing stock, and income level, sex, ethnicity, and race.
 
-[80 FR 66312, Oct. 28, 2015, as amended at 82 FR 43145, Sept. 13, 2017]
+[80 FR 66312, Oct. 28, 2015, as amended at 80 FR 66313, Oct. 28, 2015; 82 FR 43145, Sept. 13, 2017]

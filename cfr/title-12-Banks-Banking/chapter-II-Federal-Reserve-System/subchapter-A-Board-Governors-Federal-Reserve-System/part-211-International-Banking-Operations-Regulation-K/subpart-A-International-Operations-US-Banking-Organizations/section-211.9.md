@@ -1,12 +1,10 @@
 ##### § 211.9 Investment procedures. #####
 
-Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
+(a) *General provisions.*1 Direct and indirect investments shall be made in accordance with the general consent, limited general consent, prior notice, or specific consent procedures contained in this section.
 
-(a) *General provisions.*5 Direct and indirect investments shall be made in accordance with the general consent, limited general consent, prior notice, or specific consent procedures contained in this section.
+1 When necessary, the provisions of this section relating to general consent and prior notice constitute the Board's approval under section 25A(8) of the FRA (12 U.S.C. 615) for investments in excess of the limitations therein based on capital and surplus.
 
-5 When necessary, the provisions of this section relating to general consent and prior notice constitute the Board's approval under section 25A(8) of the FRA (12 U.S.C. 615) for investments in excess of the limitations therein based on capital and surplus.
-
-(1) *Minimum capital adequacy standards.* Except as the Board may otherwise determine, in order for an investor to make investments pursuant to the procedures set out in this section, the investor, the bank holding company, and the member bank shall be in compliance with applicable minimum standards for capital adequacy set out in the Capital Adequacy Guidelines; provided that, if the investor is an Edge or agreement corporation, the minimum capital required is total and tier 1 capital ratios of 8 percent and 4 percent, respectively.
+(1) *Minimum capital adequacy standards.* Except as the Board may otherwise determine, in order for an investor to make investments pursuant to the procedures set out in this section, the investor, the bank holding company, and the member bank shall be in compliance with applicable minimum standards for capital adequacy set out in the capital rule; provided that, if the investor is an Edge or agreement corporation, the minimum capital required is total and tier 1 capital ratios of 8 percent and 4 percent, respectively.
 
 (2) *Composite rating.* Except as the Board may otherwise determine, in order for an investor to make investments under the general consent or limited general consent procedures of paragraphs (b) and (c) of this section, at the most recent examination the investor and any parent insured bank must have either received a composite rating of at least 2 or be considered satisfactory under the applicable rating system.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
 
 (5) *Investment in a general partnership or unlimited liability company.* An investment in a general partnership or unlimited liability company may be made under authority of paragraph (b) of this section, subject to the limits set out in paragraph (c) of this section.
 
-(6) *Aggregate investment limits* - (i) *Investment limits.* All investments made, directly or indirectly, during the previous 12-month period under authority of this section, when aggregated with the proposed investment, shall not exceed:
+(6) *Aggregate investment limits*—(i) *Investment limits.* All investments made, directly or indirectly, during the previous 12-month period under authority of this section, when aggregated with the proposed investment, shall not exceed:
 
 (A) 20 percent of the investor's tier 1 capital, where the investor is a bank holding company;
 
@@ -60,7 +58,7 @@ Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
 
 (7) *Application of limits.* In determining compliance with the limits set out in this paragraph (b), an investor is not required to combine the value of all shares of an organization held in trading or dealing accounts under § 211.10(a)(15) of this part with investments in the same organization.
 
-(c) *Limited general consent* - (1) *Individual limit.* The Board grants its general consent for an investor that is not well capitalized and well managed to make an investment in a subsidiary or joint venture, or to make a portfolio investment, if the total amount invested directly or indirectly (in one transaction or in a series of transactions) does not exceed the lesser of $25 million or:
+(c) *Limited general consent*—(1) *Individual limit.* The Board grants its general consent for an investor that is not well capitalized and well managed to make an investment in a subsidiary or joint venture, or to make a portfolio investment, if the total amount invested directly or indirectly (in one transaction or in a series of transactions) does not exceed the lesser of $25 million or:
 
 (i) 5 percent of the investor's tier 1 capital, where the investor is a bank holding company;
 
@@ -98,4 +96,4 @@ Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
 
 (g) *Specific consent.* Any investment that does not qualify for either the general consent or the prior notice procedure may not be consummated without the specific consent of the Board.
 
-[66 FR 54374, Oct. 26, 2001, as amended at 66 FR 58655, Nov. 23, 2001; Reg. K, 83 FR 58734, Nov. 21, 2018]
+[66 FR 54374, Oct. 26, 2001, as amended at 66 FR 58655, Nov. 23, 2001; Reg. K, 83 FR 58734, Nov. 21, 2018; 84 FR 61797, Nov. 13, 2019]

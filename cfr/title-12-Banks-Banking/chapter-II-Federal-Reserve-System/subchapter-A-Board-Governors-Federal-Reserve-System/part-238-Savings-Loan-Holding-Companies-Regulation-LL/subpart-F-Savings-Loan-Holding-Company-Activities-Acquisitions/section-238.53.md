@@ -1,7 +1,5 @@
 ##### § 238.53 Prescribed services and activities of savings and loan holding companies. #####
 
-Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
-
 (a) *General.* For the purpose of § 238.51(b)(6)(ii), the activities set forth in paragraph (b) of this section are, and were as of March 5, 1987, permissible services and activities for savings and loan holding companies or subsidiaries thereof that are neither savings associations nor service corporation subsidiaries of subsidiary savings associations. Services and activities of service corporation subsidiaries of savings and loan holding company subsidiary savings associations are prescribed by paragraph (d) of this section.
 
 (b) *Prescribed services and activities.* Subject to the provisions of paragraph (c) of this section, a savings and loan holding company subject to restrictions on its activities pursuant to § 238.51(b), or a subsidiary thereof which is neither a savings association nor a service corporation of a subsidiary savings association, may furnish or perform the following services and engage in the following activities to the extent that it has legal power to do so:
@@ -74,7 +72,7 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (A) Parent company and consolidated pro forma balance sheets for the acquiring savings and loan holding company as of the most recent quarter showing credit and debit adjustments that reflect the proposed transaction;
 
-(B) Consolidated pro forma risk-based capital and leverage ratio calculations for the acquiring savings and loan holding company as of the most recent quarter; and
+(B) Consolidated pro forma risk-based capital and leverage ratio calculations for the acquiring savings and loan holding company as of the most recent quarter (or, in the case of a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), consolidated pro forma leverage ratio calculations for the acquiring savings and loan holding company as of the most recent quarter); and
 
 (C) A description of the purchase price and the terms and sources of funding for the transaction;
 
@@ -84,7 +82,9 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 
 (B) A description of the purchase price and the terms and sources of funding for the transaction and, if the transaction is debt funded, one-year income statement and cash flow projections for the parent company, and the sources and schedule for retiring any debt incurred in the transaction;
 
-(v) For each insured depository institution whose Tier 1 capital, total capital, total assets or risk-weighted assets change as a result of the transaction, the total risk-weighted assets, total assets, Tier 1 capital and total capital of the institution on a pro forma basis; and
+(v)(A) For each insured depository institution (that is not a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter)) whose Tier 1 capital, total capital, total assets or risk-weighted assets change as a result of the transaction, the total risk-weighted assets, total assets, Tier 1 capital, and total capital of the institution on a pro forma basis; and
+
+(B) For each insured depository institution that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), whose Tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter) or total assets change as a result of the transaction, the total assets and Tier 1 capital of the institution on a pro forma basis;
 
 (vi) A description of the management expertise, internal controls and risk management systems that will be utilized in the conduct of the proposed service or activity; and
 
@@ -127,3 +127,5 @@ Link to an amendment published at 84 FR 61801, Nov. 13, 2019.
 (h) *Alterations.* Except as may be otherwise provided in a resolution by or on behalf of the Board in a particular case, a service or activity commenced pursuant to this section shall not be altered in any material respect from that described in the notice filed under paragraph (c)(1) of this section, unless before making such alteration notice of intent to do so is filed in compliance with the appropriate procedures of said paragraph (c)(1) of this section.
 
 (i) *Service corporation subsidiaries of savings associations.* The Board hereby approves without application the furnishing or performing of such services or engaging in such activities as permitted by the OTS pursuant to § 545.74 of this title, as in effect on March 5, 1987, if such service or activity is conducted by a service corporation subsidiary of a subsidiary savings association of a savings and loan holding company and if such service corporation has legal power to do so.
+
+[Reg. LL, 76 FR 56532, Sept. 13, 2011, as amended at 84 FR 61801, Nov. 13, 2019]

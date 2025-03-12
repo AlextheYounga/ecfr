@@ -1,8 +1,6 @@
-##### § 32.2681 Capital leases. #####
+##### § 32.2681 Finance leases. #####
 
-Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
-
-(a) This account shall include all property acquired under a capital lease. A lease qualifies as a capital lease when one or more of the following criteria is met:
+(a) This account shall include all property acquired under a finance lease. A lease qualifies as a finance lease when one or more of the following criteria is met:
 
 (1) By the end of the lease term, ownership of the leased property is transferred to the leasee.
 
@@ -14,4 +12,6 @@ Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
 
 (b) All other leases are operating leases.
 
-(c) The amounts recorded in this account at the inception of a capital lease shall be equal to the original cost, if known, or to the present value not to exceed fair value, at the beginning of the lease term, of minimum lease payments during the lease term, excluding that portion of the payments representing executory costs to be paid by the lessor, together with any profit thereon.
+(c) The amounts recorded in this account at the inception of a finance lease shall be equal to the original cost, if known, or to the present value not to exceed fair value, at the beginning of the lease term, of minimum lease payments during the lease term, excluding that portion of the payments representing executory costs to be paid by the lessor, together with any profit thereon.
+
+[51 FR 43499, Dec. 2, 1986, as amended at 84 FR 4729, Feb. 19, 2019]

@@ -1,3 +1,7 @@
-##### § 414.110 xxx #####
+##### § 414.110 Continuity of pricing when HCPCS codes are divided or combined. #####
 
-Link to an amendment published at 84 FR 60806, November 8, 2019.
+(a) *General Rule.* If a new HCPCS code is added, CMS or contractors make every effort to determine whether the item and service has a fee schedule pricing history. If there is a fee schedule pricing history, the previous fee schedule amounts for the old code(s) are mapped to the new code(s) to ensure continuity of pricing.
+
+(b) *Mapping fee schedule amounts based on different kinds of coding changes.* When the code for an item is divided into several codes for the components of that item, the total of the separate fee schedule amounts established for the components must not be higher than the fee schedule amount for the original item. When there is a single code that describes two or more distinct complete items (for example, two different but related or similar items), and separate codes are subsequently established for each item, the fee schedule amounts that applied to the single code continue to apply to each of the items described by the new codes. When the codes for the components of a single item are combined in a single global code, the fee schedule amounts for the new code are established by totaling the fee schedule amounts used for the components (that is, use the total of the fee schedule amounts for the components as the fee schedule amount for the global code). When the codes for several different items are combined into a single code, the fee schedule amounts for the new code are established using the average (arithmetic mean), weighted by allowed services, of the fee schedule amounts for the formerly separate codes.
+
+[84 FR 60806, Nov. 8, 2019]

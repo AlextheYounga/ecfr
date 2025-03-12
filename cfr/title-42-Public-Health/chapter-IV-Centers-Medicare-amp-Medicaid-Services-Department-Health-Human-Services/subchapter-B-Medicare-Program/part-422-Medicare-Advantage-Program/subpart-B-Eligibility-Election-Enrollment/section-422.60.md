@@ -1,7 +1,5 @@
 ##### § 422.60 Election process. #####
 
-Link to an amendment published at 84 FR 15828, April 16, 2019.
-
 (a) *Acceptance of enrollees: General rule.* (1) Except for the limitations on enrollment in an MA MSA plan provided by § 422.62(d)(1) and except as specified in paragraph (a)(2) of this section, each MA organization must accept without restriction (except for an MA RFB plan as provided by § 422.57) individuals who are eligible to elect an MA plan that the MA organization offers and who elect an MA plan during initial coverage election periods under § 422.62(a)(1), annual election periods under § 422.62(a)(2), and under the circumstances described in § 422.62(b)(1) through (b)(4).
 
 (2) MA organizations must accept elections during the open enrollment periods specified in § 422.62(a)(3) and (4) if their MA plans are open to new enrollees.
@@ -40,7 +38,7 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (3) Upon receipt of the election from the employer, the MA organization must submit the enrollment within timeframes specified by CMS.
 
-(g) *Passive enrollment by CMS* - (1) *Circumstances in which CMS may implement passive enrollment.* CMS may implement passive enrollment procedures in any of the following situations:
+(g) *Passive enrollment by CMS*—(1) *Circumstances in which CMS may implement passive enrollment.* CMS may implement passive enrollment procedures in any of the following situations:
 
 (i) Immediate terminations as provided in § 422.510(b)(2)(i)(B).
 
@@ -50,7 +48,7 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (2) *MA plans that may receive passive enrollments.* CMS may implement passive enrollment described in paragraph (g)(1)(iii) of this section only into MA-PD plans that meet all the following requirements:
 
-(i) Operate as a fully integrated dual eligible special needs plan as defined in § 422.2, or a specialized MA plan for special needs individuals that meets a high standard of integration, as described in § 422.102(e).
+(i) Operate as a fully integrated dual eligible special needs plan or highly integrated dual eligible special needs plan.
 
 (ii) Have substantially similar provider and facility networks and Medicare- and Medicaid-covered benefits as the plan (or plans) from which the beneficiaries are passively enrolled.
 
@@ -62,7 +60,7 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (vi) Have the operational capacity to passively enroll beneficiaries and agree to receive the enrollments.
 
-(3) *Passive enrollment procedures.* Individuals will be considered to have elected the plan selected by CMS unless they -
+(3) *Passive enrollment procedures.* Individuals will be considered to have elected the plan selected by CMS unless they—
 
 (i) Decline the plan selected by CMS, in a form and manner determined by CMS, or
 
@@ -80,4 +78,4 @@ Link to an amendment published at 84 FR 15828, April 16, 2019.
 
 (5) *Special election period.* In the case of a passive enrollment described in this paragraph, individuals will be provided with a special enrollment period described in at § 423.38(c)(10) of this chapter.
 
-[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998; 63 FR 54526, Oct. 9, 1998; 64 FR 7980, Feb. 17, 1999; 65 FR 40316, June 29, 2000; 70 FR 4716, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 74 FR 1541, Jan. 12, 2009; 77 FR 22166, Apr. 12, 2012; 83 FR 16722, Apr. 16, 2018]
+[63 FR 35071, June 26, 1998; 63 FR 52612, Oct. 1, 1998; 63 FR 54526, Oct. 9, 1998; 64 FR 7980, Feb. 17, 1999; 65 FR 40316, June 29, 2000; 70 FR 4716, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 74 FR 1541, Jan. 12, 2009; 77 FR 22166, Apr. 12, 2012; 83 FR 16722, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]

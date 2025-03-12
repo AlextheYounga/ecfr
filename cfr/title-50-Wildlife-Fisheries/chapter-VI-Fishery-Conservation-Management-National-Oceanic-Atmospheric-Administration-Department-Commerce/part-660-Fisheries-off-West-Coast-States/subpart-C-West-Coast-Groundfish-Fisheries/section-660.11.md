@@ -1,7 +1,5 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 84 FR 63972, Nov. 19, 2019.
-
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 
 *Acceptable Biological Catch (ABC)* means a harvest specification that is set below the overfishing limit to account for scientific uncertainty in the estimate of OFL, and other scientific uncertainty.
@@ -46,11 +44,33 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Commercial harvest guideline* means the fishery harvest guideline minus the estimated recreational catch. Limited entry and open access allocations are derived from the commercial harvest guideline.
 
-*Conservation area(s)* means either a Groundfish Conservation Area (GCA), an Essential Fish Habitat Conservation Area (EFHCA), or both.
+*Conservation area(s)* means an enclosed geographic area defined by coordinates expressed in degrees latitude and longitude where NMFS may prohibit fishing with particular gear types. Conservation areas include Groundfish Conservation Areas (GCA), Essential Fish Habitat Conservation Areas (EFHCA) and Deep-sea Ecosystem Conservation Areas (DECA).
 
-(1) *Groundfish Conservation Area* or *GCA* means a geographic area defined by coordinates expressed in degrees latitude and longitude, wherein fishing by a particular gear type or types may be prohibited. Regulations at § 660.60(c)(3) describe the various purposes for which these GCAs may be implemented. Regulations at § 660.70 define coordinates for these polygonal GCAs: Yelloweye Rockfish Conservation Areas, Cowcod Conservation Areas, waters encircling the Farallon Islands, and waters encircling the Cordell Bank. GCAs also include Bycatch Reduction Areas (BRAs), and Rockfish Conservation Areas or RCAs, which are areas closed to fishing by particular gear types, bounded by lines approximating particular depth contours. RCA boundaries may and do change seasonally according to conservation needs. Regulations at §§ 660.70 through 660.74 define boundary lines with latitude/longitude coordinates; regulations at Tables 1 (North) and 1 (South) of subpart D of this part, Tables 2 (North) and 2 (South) of subpart E of this part, and Tables 3 (North) and 3 (South) of subpart F of this part set seasonal boundaries. Fishing prohibitions associated with GCAs are in addition to those associated with EFH Conservation Areas.
+(1) *Groundfish Conservation Area* or *GCA* means a conservation area created or modified and enforced to control catch of groundfish or protected species. Regulations at § 660.60(c)(3) describe the various purposes for which NMFS may implement certain types of GCAs through routine management measures. Regulations at § 660.70 further describe and define coordinates for certain GCAs, including: Yelloweye Rockfish Conservation Areas; Cowcod Conservation Areas; waters encircling the Farallon Islands; and waters encircling the Cordell Banks. GCAs also include depth-based closures bounded by lines approximating depth contours, including Bycatch Reduction Areas or BRAs, or bounded by depth contours and lines of latitude, including, Block Area Closures or BACs, and Rockfish Conservation Areas or RCAs, which may be closed to fishing with particular gear types. BRA, BAC, and RCA boundaries may change seasonally according to conservation needs. Regulations at §§ 660.71 through 660.74 define depth-based closure boundary lines with latitude/longitude coordinates. Regulations at § 660.11 describe commonly used geographic coordinates that define lines of latitude. Fishing prohibitions associated with GCAs are in addition to those associated with other conservation areas.
 
-(2) *Essential Fish Habitat Conservation Area or EFHCA* means a geographic area defined by coordinates expressed in degrees latitude and longitude, wherein fishing by a particular gear type or types may be prohibited. EFHCAs are created and enforced for the purpose of contributing to the protection of West Coast groundfish essential fish habitat. Regulations at §§ 660.75, through 660.79, Subpart C define EFHCA boundary lines with latitude/longitude coordinates. Fishing prohibitions associated with EFHCAs, which are found at § 660.12, subpart C, are in addition to those associated with GCAs.
+(i) *Block Area Closures* or *BACs* are defined at § 660.111.
+
+(ii) *Bycatch Reduction Areas* or *BRAs* are conservation areas that apply to vessels using midwater groundfish trawl gear during the Pacific whiting primary season, as described at §§ 660.60(d) and 660.131(c).
+
+(iii) *Cordell Banks* is defined at § 660.70.
+
+(iv) *Cowcod Conservation Areas* are defined at § 660.70.
+
+(v) *Farallon Islands* is defined at § 660.70.
+
+(vi) *Rockfish Conservation Areas or RCAs.* RCA restrictions are detailed in subparts D through G of this part. RCAs may apply to a single gear type or to a group of gear types such as “trawl RCAs” or “non-trawl RCAs.” Specific latitude and longitude coordinates for RCA boundaries that approximate the depth contours selected for trawl, non-trawl, and recreational RCAs are provided in §§ 660.71 through 660.74. Also provided in §§ 660.71 through 660.74, are references to islands and rocks that serve as reference points for the RCAs.
+
+(A) *Trawl (Limited Entry and Open Access Non-groundfish Trawl Gears) RCAs.* The trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the limited entry trawl RCA throughout the year are provided in Table 1 (North) subpart D of this part. Boundaries for the open access non-groundfish trawl RCA throughout the year are provided in Table 3 (South) subpart F of this part. Boundaries of the trawl RCAs may be modified by NMFS inseason pursuant to § 660.60(c).
+
+(B) *Non-Trawl (Limited Entry Fixed Gear and Open Access Non-trawl Gears) RCAs.* Non-trawl RCAs are intended to protect a complex of species, such as overfished shelf rockfish species, and have boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the non-trawl RCA throughout the year are provided in Table 2 (North) and Table 2 (South) of subpart E of this part, and Table 3 (North) and Table 3 (South) of subpart F of this part, and may be modified by NMFS inseason pursuant to § 660.60(c).
+
+(C) *Recreational RCAs.* Recreational RCAs are closed areas intended to protect overfished rockfish species. Recreational RCAs may either have boundaries defined by general depth contours or boundaries defined by specific latitude and longitude coordinates approximating depth contours. Boundaries for the recreational RCAs throughout the year are provided in the text in subpart G of this part under each state (Washington, Oregon and California) and may be modified by NMFS inseason pursuant to § 660.60(c).
+
+(vii) *Yelloweye Rockfish Conservation Areas* or *YRCAs* are defined at § 660.70.
+
+(2) *Essential Fish Habitat Conservation Area* or *EFHCA* means an area created and enforced to contribute to the protection of groundfish essential fish habitat. Regulations at §§ 660.75 through 660.79 define EFHCA boundaries. Fishing prohibitions associated with EFHCAs, which are found at §§ 660.12, 660.112, 660.212, and 660.312, are in addition to those prohibitions associated with other conservation areas.
+
+(3) *Deep-sea Ecosystem Conservation Area* or *DECA* is the area within the EEZ deeper than 3,500 m (1,914 fm) that is not designated as EFH, defined at § 660.75 with latitude and longitude coordinates. The DECA is closed to bottom contact gear for the reasons described under MSA Section 303(b), and contributes to the protection of deep-water habitats including deep-sea corals. Fishing prohibitions associated with DECAs, at § 660.12, are in addition to those associated with other conservation areas.
 
 *Continuous transiting or transit through* means that a fishing vessel crosses a groundfish conservation area or EFH conservation area on a constant heading, along a continuous straight line course, while making way by means of a source of power at all times, other than drifting by means of the prevailing water current or weather conditions.
 
@@ -73,6 +93,8 @@ These definitions are specific to the fisheries covered in subparts C through G 
 *Entity.* (*See* “Person”)
 
 *Essential Fish Habitat or EFH.* (*See* § 600.10 of this chapter)
+
+*Exclusive Economic Zone* or *EEZ* is defined at § 600.10. See also *Fishery management area* of this section.
 
 *First Receiver* means a person who receives, purchases, or takes custody, control, or possession of catch onshore directly from a vessel.
 
@@ -505,4 +527,4 @@ These definitions are specific to the fisheries covered in subparts C through G 
 
 *Vessel owner or owner of a vessel,* as used in subparts C through G of this part, means a person identified as the current owner in the Certificate of Documentation (CG-1270) issued by the USCG for a documented vessel, or in a registration certificate issued by a state or the USCG for an undocumented vessel.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78373, Dec. 15, 2010; 76 FR 27529, May 11, 2011; 76 FR 53834, Aug. 30, 2011; 76 FR 74733, Dec. 1, 2011; 78 FR 587, Jan. 3, 2013; 78 FR 68767, Nov. 15, 2013; 78 FR 75278, Dec. 11, 2013; 80 FR 12571, Mar. 10, 2015; 80 FR 22279, Apr. 21, 2015; 80 FR 71980, Nov. 18, 2015; 80 FR 77270, Dec. 14, 2015; 81 FR 36807, June 8, 2016; 81 FR 84425, Nov. 23, 2016; 82 FR 9638, Feb. 7, 2017; 82 FR 60569, Dec. 21, 2017; 83 FR 62275, Dec. 3, 2018; 83 FR 63990, Dec. 12, 2018; 84 FR 49961, Sept. 24, 2019; 84 FR 63972, Nov. 19, 2019]

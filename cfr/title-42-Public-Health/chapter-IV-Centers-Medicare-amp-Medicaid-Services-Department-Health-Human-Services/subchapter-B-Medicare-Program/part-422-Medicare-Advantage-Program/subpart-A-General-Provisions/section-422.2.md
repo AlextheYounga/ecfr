@@ -1,8 +1,8 @@
 ##### § 422.2 Definitions. #####
 
-Link to an amendment published at 84 FR 15827, April 16, 2019.Link to an amendment published at 84 FR 23879, May 23, 2019.
-
 As used in this part -
+
+*Aligned enrollment* refers to the enrollment in a dual eligible special needs plan of full-benefit dual eligible individuals whose Medicaid benefits are covered under a Medicaid managed care organization contract under section 1903(m) of the Act between the applicable State and: the dual eligible special needs plan's (D-SNP's) MA organization, the D-SNP's parent organization, or another entity that is owned and controlled by the D-SNP's parent organization. When State policy limits a D-SNP's membership to individuals with aligned enrollment, this condition is referred to as exclusively aligned enrollment.
 
 *Arrangement* means a written agreement between an MA organization and a provider or provider network, under which -
 
@@ -28,23 +28,43 @@ As used in this part -
 
 *Downstream entity* means any party that enters into a written arrangement, acceptable to CMS, with persons or entities involved with the MA benefit, below the level of the arrangement between an MA organization (or applicant) and a first tier entity. These written arrangements continue down to the level of the ultimate provider of both health and administrative services.
 
+*Dual eligible special needs plan* or D-SNP means a specialized MA plan for special needs individuals who are entitled to medical assistance under a State plan under title XIX of the Act that -
+
+(1) Coordinates the delivery of Medicare and Medicaid services for individuals who are eligible for such services;
+
+(2) May provide coverage of Medicaid services, including long-term services and supports and behavioral health services for individuals eligible for such services;
+
+(3) Has a contract with the State Medicaid agency consistent with § 422.107 that meets the minimum requirements in paragraph (c) of such section; and
+
+(4) Beginning January 1, 2021, satisfies one or more of the following criteria for the integration of Medicare and Medicaid benefits:
+
+(i) Meets the additional requirement specified in § 422.107(d) in its contract with the State Medicaid agency.
+
+(ii) Is a highly integrated dual eligible special needs plan.
+
+(iii) Is a fully integrated dual eligible special needs plan.
+
 *First tier entity* means any party that enters into a written arrangement, acceptable to CMS, with an MA organization or applicant to provide administrative services or health care services for a Medicare eligible individual under the MA program.
 
 *Fiscally sound operation* means an operation which at least maintains a positive net worth (total assets exceed total liabilities).
 
-*Fully integrated dual eligible special needs plan* means a CMS approved MA-PD dual eligible special needs plan that -
+*Fully integrated dual eligible special needs plan* means a dual eligible special needs plan -
 
-(1) Enrolls special needs individuals entitled to medical assistance under a Medicaid State plan, as defined in section 1859(b)(6)(B)(ii) of the Act and § 422.2;
+(1) That provides dual eligible individuals access to Medicare and Medicaid benefits under a single entity that holds both an MA contract with CMS and a Medicaid managed care organization contract under section 1903(m) of the Act with the applicable State;
 
-(2) Provides dual eligible beneficiaries access to Medicare and Medicaid benefits under a single managed care organization;
+(2) Whose capitated contract with the State Medicaid agency provides coverage, consistent with State policy, of specified primary care, acute care, behavioral health, and long-term services and supports, and provides coverage of nursing facility services for a period of at least 180 days during the plan year;
 
-(3) Has a capitated contract with a State Medicaid agency that includes coverage of specified primary, acute, and long-term care benefits and services, consistent with State policy;
+(3) That coordinates the delivery of covered Medicare and Medicaid services using aligned care management and specialty care network methods for high-risk beneficiaries; and
 
-(4) Coordinates the delivery of covered Medicare and Medicaid health and long-term care services using aligned care management and specialty care network methods for high-risk beneficiaries; and
-
-(5) Employs policies and procedures approved by CMS and the State to coordinate or integrate member materials, enrollment, communications, grievance and appeals, and quality improvement.
+(4) That employs policies and procedures approved by CMS and the State to coordinate or integrate beneficiary communication materials, enrollment, communications, grievance and appeals, and quality improvement.
 
 *Hierarchical condition categories (HCC)* means disease groupings consisting of disease codes (currently ICD-9-CM codes) that predict average healthcare spending. HCCs represent the disease component of the enrollee risk score that are applied to MA payments.
+
+*Highly integrated dual eligible special needs plan* means a dual eligible special needs plan offered by an MA organization that provides coverage, consistent with State policy, of long-term services and supports, behavioral health services, or both, under a capitated contract that meets one of the following arrangements -
+
+(1) The capitated contract is between the MA organization and the Medicaid agency; or
+
+(2) The capitated contract is between the MA organization's parent organization (or another entity that is owned and controlled by its parent organization) and the Medicaid agency.
 
 *Institutionalized* means for the purpose of defining a special needs individual, an MA eligible individual who continuously resides or is expected to continuously reside for 90 days or longer in a long-term care facility which is a skilled nursing facility (SNF) nursing facility (NF); SNF/NF; an intermediate care facility for individuals with intellectual disabilities (ICF/IID); or an inpatient psychiatric facility.
 
@@ -92,11 +112,11 @@ As used in this part -
 
 *Point of service (POS)* means a benefit option that an MA HMO plan can offer to its Medicare enrollees as a mandatory supplemental, or optional supplemental benefit. Under the POS benefit option, the HMO plan allows members the option of receiving specified services outside of the HMO plan's provider network. In return for this flexibility, members typically have higher cost-sharing requirements for services received and, when offered as a mandatory or optional supplemental benefit, may also be charged a premium for the POS benefit option.
 
-*Preclusion list* means a CMS-compiled list of individuals and entities that -
+*Preclusion list* means a CMS compiled list of individuals and entities that -
 
 (1) Meet all of the following requirements:
 
-(i) The individual or entity is currently revoked from Medicare under § 424.535.
+(i) The individual or entity is currently revoked from Medicare for a reason other than that stated in § 424.535(a)(3) of this chapter.
 
 (ii) The individual or entity is currently under a reenrollment bar under § 424.535(c).
 
@@ -110,7 +130,7 @@ As used in this part -
 
 (2) Meet both of the following requirements:
 
-(i) The individual or entity has engaged in behavior for which CMS could have revoked the individual or entity to the extent applicable had they been enrolled in Medicare.
+(i) The individual or entity has engaged in behavior, other than that described in § 424.535(a)(3) of this chapter, for which CMS could have revoked the individual or entity to the extent applicable had they been enrolled in Medicare.
 
 (ii) CMS determines that the underlying conduct that would have led to the revocation is detrimental to the best interests of the Medicare program. In making this determination under this paragraph (2)(ii), CMS considers the following factors:
 
@@ -118,7 +138,15 @@ As used in this part -
 
 (B) The degree to which the individual's or entity's conduct could affect the integrity of the Medicare program; and
 
-(C) Any other evidence that CMS deems relevant to its determination.
+(C) Any other evidence that CMS deems relevant to its determination; or
+
+(3) The individual or entity, regardless of whether they are or were enrolled in Medicare, has been convicted of a felony under Federal or State law within the previous 10 years that CMS deems detrimental to the best interests of the Medicare program. Factors that CMS considers in making such a determination under this paragraph (3) are -
+
+(i) The severity of the offense;
+
+(ii) When the offense occurred; and
+
+(iii) Any other information that CMS deems relevant to its determination.
 
 *Prescription drug plan (PDP).* PDP has the definition set forth in § 423.4 of this chapter.
 
@@ -180,4 +208,6 @@ As used in this part -
 
 *Specialized MA Plans for Special Needs Individuals* means an MA coordinated care plan that exclusively enrolls special needs individuals as set forth in § 422.4(a)(1)(iv) and that provides Part D benefits under part 423 of this chapter to all enrollees; and which has been designated by CMS as meeting the requirements of an MA SNP as determined on a case-by-case basis using criteria that include the appropriateness of the target population, the existence of clinical programs or special expertise to serve the target population, and whether the proposal discriminates against sicker members of the target population.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018]
+*Step therapy* means a utilization management policy for coverage of drugs that begins medication for a medical condition with the most preferred or cost effective drug therapy and progresses to other drug therapies if medically necessary.
+
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019]

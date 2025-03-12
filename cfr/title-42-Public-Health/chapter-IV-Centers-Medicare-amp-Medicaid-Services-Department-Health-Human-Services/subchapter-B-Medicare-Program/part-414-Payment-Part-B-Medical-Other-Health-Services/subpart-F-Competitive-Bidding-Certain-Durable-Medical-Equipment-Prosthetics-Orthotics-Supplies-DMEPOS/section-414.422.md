@@ -1,40 +1,28 @@
 ##### § 414.422 Terms of contracts. #####
 
-Link to an amendment published at 84 FR 60808, November 8, 2019.
-
 (a) *Basic rule.* CMS specifies the terms and conditions of the contracts entered into with contract suppliers under this subpart. A contract supplier must comply with all terms of its contract, including any option exercised by CMS, for the full duration of the contract period.
 
 (b) *Recompeting competitive bidding contracts.* CMS recompetes competitive bidding contracts at least once every 3 years.
 
 (c) *Nondiscrimination.* The items furnished by a contract supplier under this subpart must be the same items that the contract supplier makes available to other customers.
 
-(d) *Change of ownership.* (1) A contract supplier must notify CMS if it is negotiating a change in ownership no later than 60 days before the anticipated date of the change.
+(d) *Change of ownership (CHOW).* (1) CMS may transfer a contract to a successor entity that merges with, or acquires, a contract supplier if the successor entity—
 
-(2) CMS may transfer a contract to an entity that merges with, or acquires, a contract supplier if the entity meets the following requirements:
+(i) Meets all requirements applicable to contract suppliers for the applicable competitive bidding program;
 
-(i) A successor entity -
+(ii) Submits to CMS the documentation described under § 414.414(b) through (d) if documentation has not previously been submitted by the successor entity or if the documentation is no longer sufficient for CMS to make a financial determination. A successor entity is not required to duplicate previously submitted information if the previously submitted information is not needed to make a financial determination. This documentation must be submitted prior to the effective date of the CHOW; and
 
-(A) Meets all requirements applicable to contract suppliers for the applicable competitive bidding program;
+(iii) Submits to CMS a signed novation agreement acceptable to CMS stating that it assumes all obligations under the contract. This documentation must be submitted no later than 10 days after the effective date of the CHOW.
 
-(B) Submits to CMS the documentation described under § 414.414(b) through (d) if documentation has not previously been submitted by the successor entity or if the documentation is no longer sufficient for CMS to make a financial determination. A successor entity is not required to duplicate previously submitted information if the previously submitted information is not needed to make a financial determination. This documentation must be submitted no later than 30 days prior to the anticipated effective date of the change of ownership; and
+(2) Except as specified in paragraph (d)(3) of this section, CMS may transfer the entire contract, including all product categories and competitive bidding areas, to a successor entity.
 
-(C) Submits to CMS, at least 30 days before the anticipated effective date of the change of ownership, a signed novation agreement acceptable to CMS stating that it will assume all obligations under the contract; or
+(3) For contracts issued in the Round 2 Recompete and subsequent rounds in the case of a CHOW where a contract supplier sells a distinct company (for example, a subsidiary) that furnishes a specific product category or services a specific CBA, CMS may transfer the portion of the contract performed by that company to a successor entity, if the following conditions are met:
 
-(ii) A new entity -
-
-(A) Meets the requirements of (d)(2)(i)(A) and (B) of this section; and
-
-(B) Contract supplier submits to CMS, at least 30 days before the anticipated effective date of the change of ownership, its final draft of a novation agreement as described in paragraph (d)(2)(C) of this section for CMS review. The new entity submits to CMS, within 30 days after the effective date of the change of ownership, an executed novation agreement acceptable to CMS.
-
-(3) Except as specified in paragraph (d) (4) of this section, CMS transfers the entire contract, including all product categories and competitive bidding areas, to a new qualified entity.
-
-(4) For contracts issued in the Round 2 Recompete and subsequent rounds in the case of a CHOW where a contract supplier sells a distinct company, (e.g., an affiliate, subsidiary, sole proprietor, corporation, or partnership) that furnishes a specific product category or services a specific CBA, CMS may transfer the portion of the contract performed by that company to a new qualified entity, if the following conditions are met:
-
-(i) Every CBA, product category, and location of the company being sold must be transferred to the new qualified owner who meets all competitive bidding requirements; i.e. financial, accreditation and licensure;
+(i) Every CBA, product category, and location of the company being sold must be transferred to the successor entity that meets all competitive bidding requirements; that is, financial, accreditation, and licensure;
 
 (ii) All CBAs and product categories in the original contract that are not explicitly transferred by CMS remain unchanged in that original contract for the duration of the contract period unless transferred by CMS pursuant to a subsequent CHOW;
 
-(iii) All requirements of paragraph (d)(2) of this section are met; and
+(iii) All requirements of paragraph (d)(1) of this section are met;
 
 (iv) The sale of the distinct company includes all of the contract supplier's assets associated with the CBA and/or product category(s); and
 
@@ -72,4 +60,4 @@ Link to an amendment published at 84 FR 60808, November 8, 2019.
 
 (iv) Avail itself of other remedies allowed by law.
 
-[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2881, Jan. 16, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016; 83 FR 57073, Nov. 14, 2018]
+[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2881, Jan. 16, 2009; 75 FR 73623, Nov. 29, 2010; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016; 83 FR 57073, Nov. 14, 2018; 84 FR 60808, Nov. 8, 2019]

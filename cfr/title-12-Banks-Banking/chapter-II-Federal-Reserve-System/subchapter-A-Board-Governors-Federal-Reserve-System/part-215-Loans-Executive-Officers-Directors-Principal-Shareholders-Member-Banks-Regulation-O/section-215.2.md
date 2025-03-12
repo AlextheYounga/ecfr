@@ -1,7 +1,5 @@
 ##### § 215.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61797, Nov. 13, 2019.
-
 For purposes of this part, the following definitions apply unless otherwise specified:
 
 (a) *Affiliate* means any company of which a member bank is a subsidiary or any other subsidiary of that company.
@@ -44,13 +42,13 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (iii) Provides solely general policy advice to the board of directors.
 
-(2) Extensions of credit to a director of an affiliate of a bank are not subject to §§ 215.4, 215.6, and 215.8 if -
+(2) Extensions of credit to a director of an affiliate of a bank are not subject to §§ 215.4, 215.6, and 215.8 if—
 
 (i) The director of the affiliate is excluded, by resolution of the board of directors or by the bylaws of the bank, from participation in major policymaking functions of the bank, and the director does not actually participate in such functions;
 
 (ii) The affiliate does not control the bank;
 
-(iii) As determined annually, the assets of the affiliate do not constitute more than 10 percent of the consolidated assets of the company that -
+(iii) As determined annually, the assets of the affiliate do not constitute more than 10 percent of the consolidated assets of the company that—
 
 (A) Controls the bank; and
 
@@ -58,7 +56,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (iv) The director of the affiliate is not otherwise subject to §§ 215.4, 215.6, and 215.8.
 
-(3) For purposes of paragraph (d)(2)(i) of this section, a resolution of the board of directors or a corporate bylaw may -
+(3) For purposes of paragraph (d)(2)(i) of this section, a resolution of the board of directors or a corporate bylaw may—
 
 (i) Include the director (by name or by title) in a list of persons excluded from participation in such functions; or
 
@@ -68,13 +66,13 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 1 The term is not intended to include persons who may have official titles and may exercise a certain measure of discretion in the performance of their duties, including discretion in the making of loans, but who do not participate in the determination of major policies of the bank or company and whose decisions are limited by policy standards fixed by the senior management of the bank or company. For example, the term does not include a manager or assistant manager of a branch of a bank unless that individual participates, or is authorized to participate, in major policymaking functions of the bank or company.
 
-(2) Extensions of credit to an executive officer of an affiliate of a bank are not subject to §§ 215.4, 215.6, and 215.8 if -
+(2) Extensions of credit to an executive officer of an affiliate of a bank are not subject to §§ 215.4, 215.6, and 215.8 if—
 
 (i) The executive officer is excluded, by resolution of the board of directors or by the bylaws of the bank, from participation in major policymaking functions of the bank, and the executive officer does not actually participate in such functions;
 
 (ii) The affiliate does not control the bank;
 
-(iii) As determined annually, the assets of the affiliate do not constitute more than 10 percent of the consolidated assets of the company that -
+(iii) As determined annually, the assets of the affiliate do not constitute more than 10 percent of the consolidated assets of the company that—
 
 (A) Controls the bank; and
 
@@ -82,7 +80,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (iv) The executive officer of the affiliate is not otherwise subject to §§ 215.4, 215.6, and 215.8.
 
-(3) For purposes of paragraphs (e)(1) and (e)(2)(i) of this section, a resolution of the board of directors or a corporate bylaw may -
+(3) For purposes of paragraphs (e)(1) and (e)(2)(i) of this section, a resolution of the board of directors or a corporate bylaw may—
 
 (i) Include the executive officer (by name or by title) in a list of persons excluded from participation in such functions; or
 
@@ -102,6 +100,8 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (2) The balance of the bank's allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in the bank's tier 2 capital for purposes of the calculation of risk-based capital under the capital rule of the appropriate Federal banking agency, based on the bank's most recent consolidated reports of condition filed under 12 U.S.C. 1817(a)(3).
 
+(3) Notwithstanding paragraphs (i)(1) and (2) of this section, for a member bank that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), unimpaired capital and unimpaired surplus equals Tier 1 capital (as defined in § 217.12 of this chapter and calculated in accordance with § 217.12(b) of this chapter) plus allowances for loan and lease losses or adjusted allowance for credit losses, as applicable.
+
 (j) *Member bank* means any banking institution that is a member of the Federal Reserve System, including any subsidiary of a member bank. The term does not include any foreign bank that maintains a branch in the United States, whether or not the branch is insured (within the meaning of 12 U.S.C. 1813(s)) and regardless of the operation of 12 U.S.C. 1813(h) and 12 U.S.C. 1828(j)(3)(B).
 
 (k) *Pay an overdraft on an account* means to pay an amount upon the order of an account holder in excess of funds on deposit in the account.
@@ -120,4 +120,4 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (o) *Subsidiary* has the meaning given in 12 U.S.C. 1841(d), but does not include a subsidiary of a member bank.
 
-[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994, as amended at 60 FR 31054, June 13, 1995; 61 FR 57770, Nov. 8, 1996; 62 FR 13298, Mar. 20, 1997; 71 FR 71474, Dec. 11, 2006; 84 FR 4241, Feb. 14, 2019]
+[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994, as amended at 60 FR 31054, June 13, 1995; 61 FR 57770, Nov. 8, 1996; 62 FR 13298, Mar. 20, 1997; 71 FR 71474, Dec. 11, 2006; 84 FR 4241, Feb. 14, 2019; 84 FR 61797, Nov. 13, 2019]

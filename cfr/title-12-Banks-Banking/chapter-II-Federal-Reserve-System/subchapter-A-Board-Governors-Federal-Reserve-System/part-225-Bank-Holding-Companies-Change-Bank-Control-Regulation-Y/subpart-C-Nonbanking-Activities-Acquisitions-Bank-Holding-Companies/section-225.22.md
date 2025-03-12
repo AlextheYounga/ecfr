@@ -1,7 +1,5 @@
 ##### § 225.22 Exempt nonbanking activities and acquisitions. #####
 
-Link to an amendment published at 84 FR 61800, Nov. 13, 2019.
-
 (a) *Certain de novo activities.* A bank holding company may, either directly or indirectly, engage *de novo* in any nonbanking activity listed in § 225.28(b) (other than operation of an insured depository institution) without obtaining the Board's prior approval if the bank holding company:
 
 (1) Meets the requirements of paragraphs (c) (1), (2), and (6) of § 225.23;
@@ -72,7 +70,13 @@ Link to an amendment published at 84 FR 61800, Nov. 13, 2019.
 
 (v) The acquiring company, after giving effect to the transaction, meets the requirements of 12 CFR part 217, and the Board has not previously notified the acquiring company that it may not acquire assets under the exemption in this paragraph (d).
 
-(e) *Acquisition of securities by subsidiary banks* - (1) *National bank.* A national bank or its subsidiary may, without the Board's approval under this subpart, acquire or retain securities on the basis of section 4(c)(5) of the BHC Act in accordance with the regulations of the Comptroller of the Currency.
+(vi) *Qualifying community banking organizations.* For purposes of paragraph (d)(8)(ii) of this section, a lending company or industrial bank that is a qualifying community banking organization (as defined in § 217.12 of this chapter) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter), or is a subsidiary of such a qualifying community banking organization, has risk-weighted assets equal to:
+
+(A) Its average total consolidated assets (as used in § 217.12 of this chapter) as most recently reported to its primary banking supervisor (as defined in § 225.14(d)(5)); or
+
+(B) Its total assets, if the company or industrial bank does not report such average total consolidated assets.
+
+(e) *Acquisition of securities by subsidiary banks*—(1) *National bank.* A national bank or its subsidiary may, without the Board's approval under this subpart, acquire or retain securities on the basis of section 4(c)(5) of the BHC Act in accordance with the regulations of the Comptroller of the Currency.
 
 (2) *State bank.* A state-chartered bank or its subsidiary may, insofar as federal law is concerned, and without the Board's prior approval under this subpart:
 
@@ -90,4 +94,4 @@ Link to an amendment published at 84 FR 61800, Nov. 13, 2019.
 
 (h) *Securities or activities exempt under Regulation K.* A bank holding company may acquire voting securities or assets and engage in activities as authorized in Regulation K (12 CFR part 211).
 
-[ Reg. Y, 62 FR 9329, Feb. 28, 1997, as amended at 78 FR 62291, Oct. 11, 2013; 80 FR 70673, Nov. 16, 2015]
+[ Reg. Y, 62 FR 9329, Feb. 28, 1997, as amended at 78 FR 62291, Oct. 11, 2013; 80 FR 70673, Nov. 16, 2015; 84 FR 61800, Nov. 13, 2019]

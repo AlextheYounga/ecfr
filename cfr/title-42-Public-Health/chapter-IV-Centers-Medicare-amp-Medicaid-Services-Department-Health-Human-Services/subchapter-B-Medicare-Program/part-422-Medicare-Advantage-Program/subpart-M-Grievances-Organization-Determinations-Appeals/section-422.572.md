@@ -1,10 +1,10 @@
 ##### § 422.572 Timeframes and notice requirements for expedited organization determinations. #####
 
-Link to an amendment published at 84 FR 23881, May 23, 2019.
+(a) *Timeframes*—(1) *Requests for service or item.* Except as provided in paragraph (b) of this section, an MA organization that approves a request for expedited determination must make its determination and notify the enrollee (and the physician involved, as appropriate) of its decision, whether adverse or favorable, as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receiving the request.
 
-(a) *Timeframe.* Except as provided in paragraph (b) of this section, an MA organization that approves a request for expedited determination must make its determination and notify the enrollee (and the physician involved, as appropriate) of its decision, whether adverse or favorable, as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receiving the request.
+(2) *Requests for a Part B drug.* An MA organization that approves a request for expedited determination must make its determination and notify the enrollee (and the physician or prescriber involved, as appropriate) of its decision as expeditiously as the enrollee's health condition requires, but no later than 24 hours after receiving the request. This 24-hour period may not be extended under the provisions in paragraph (b) of this section.
 
-(b) *Extensions.* (1) The MA organization may extend the 72-hour deadline by up to 14 calendar days if -
+(b) *Extensions; requests for service or item.* (1) When timeframe may be extended. The MA organization may extend the 72-hour deadline for expedited organization determinations for requests for services or items by up to 14 calendar days if—
 
 (i) The enrollee requests the extension;
 
@@ -20,7 +20,7 @@ Link to an amendment published at 84 FR 23881, May 23, 2019.
 
 (e) *Content of the notice of expedited determination.* (1) The notice of any expedited determination must state the specific reasons for the determination in understandable language.
 
-(2) If the determination is not completely favorable to the enrollee, the notice must -
+(2) If the determination is not completely favorable to the enrollee, the notice must—
 
 (i) Inform the enrollee of his or her right to a reconsideration;
 
@@ -30,4 +30,4 @@ Link to an amendment published at 84 FR 23881, May 23, 2019.
 
 (f) *Effect of failure to provide a timely notice.* If the MA organization fails to provide the enrollee with timely notice of an expedited organization determination as specified in this section, this failure itself constitutes an adverse organization determination and may be appealed.
 
-[63 FR 35107, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 80 FR 7961, Feb. 12, 2015]
+[63 FR 35107, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 80 FR 7961, Feb. 12, 2015; 84 FR 23881, May 23, 2019]

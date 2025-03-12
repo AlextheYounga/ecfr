@@ -1,6 +1,4 @@
-##### § 423.153 Drug utilization management, quality assurance, and medication therapy management programs (MTMPs). #####
-
-Link to an amendment published at 84 FR 15841, April 16, 2019.
+##### § 423.153 Prescription drug plan sponsors' access to Medicare Parts A and B claims data extracts. #####
 
 (a) *General rule.* Each Part D sponsor must have established, for covered Part D drugs furnished through a Part D plan, a drug utilization management program, quality assurance measures and systems, and an MTMP as described in paragraphs (b), (c), and (d) of this section. A Part D plan sponsor may establish a drug management program for at-risk beneficiaries enrolled in their prescription drug benefit plans to address overutilization of frequently abused drugs, as described in paragraph (f) of this section.
 
@@ -358,4 +356,40 @@ Link to an amendment published at 84 FR 15841, April 16, 2019.
 
 (iv) Include a program size estimate.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018]
+(g) *Parts A and B claims data extracts* - (1) *General rule.* (i) Beginning in plan year 2020, a PDP sponsor may submit a request to CMS for the data described in paragraph (g)(2) of this section about enrollees in its prescription drug plans.
+
+(ii) CMS makes the data requested in paragraph (g)(1)(i) of this section available to eligible PDP sponsors, in accordance with all applicable laws. The data is provided at least quarterly on a specified release date, and in an electronic format to be determined by CMS.
+
+(iii) If CMS determines or has a reasonable belief that the PDP sponsor has violated the requirements of this paragraph (g) or that unauthorized uses, reuses, or disclosures of the Medicare claims data have taken place, at CMS' sole discretion, the PDP sponsor may be denied further access to the data described in paragraph (g)(2) of this section.
+
+(2) *Data described.* The data that may be requested under paragraph (g)(1) of this section are standardized extracts of claims data under Medicare parts A and B for items and services furnished under such parts to beneficiaries who are enrolled in a plan offered by the PDP sponsor at the time of the disclosure.
+
+(3) *Purposes.* A PDP sponsor must comply with all laws that may be applicable to data received under this provision, including State and Federal privacy and security laws, and, furthermore subject to the limitations in paragraph (g)(4) of this section may only use or disclose the data provided by CMS under paragraph (g)(1) of this section for the following purposes:
+
+(i) To optimize therapeutic outcomes through improved medication use, as such phrase is used in paragraph (d)(1)(i) of this section.
+
+(ii) To improve care coordination so as to prevent adverse health outcomes, such as preventable emergency department visits and hospital readmissions.
+
+(iii) For activities falling under paragraph (1) of the definition of “health care operations” under 45 CFR 164.501.
+
+(iv) For activities falling under paragraph (2) of the definition of “health care operations” under 45 CFR 164.501.
+
+(v) For “fraud and abuse detection or compliance activities” under 45 CFR 164.506(c)(4)(ii).
+
+(vi) For disclosures that qualify as “required by law” disclosures at 45 CFR 164.103.
+
+(4) *Limitations.* A PDP sponsor must comply with the following requirements regarding the data provided by CMS under this paragraph (g):
+
+(i) The PDP sponsor will not use the data to inform coverage determinations under Part D.
+
+(ii) The PDP sponsor will not use the data to conduct retroactive reviews of medically accepted indications determinations.
+
+(iii) The PDP sponsor will not use the data to facilitate enrollment changes to a different prescription drug plan or an MA-PD plan offered by the same parent organization.
+
+(iv) The PDP sponsor will not use the data to inform marketing of benefits.
+
+(v) The PDP sponsor will contractually bind its contractors that have access to the Medicare claims data, and require their contractors to contractually bind any other potential downstream data recipients, to the terms and conditions imposed on the PDP sponsor under this paragraph (g).
+
+(5) *Ensuring the privacy and security of data.* As a condition of receiving the requested data, the PDP sponsor must attest that it will adhere to the permitted uses and limitations on the use of the Medicare claims data listed in paragraphs (g)(3) and (4) of this section.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19818, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 76 FR 21573, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 80 FR 7963, Feb. 12, 2015; 83 FR 16739, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019]
