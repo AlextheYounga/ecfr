@@ -26,6 +26,8 @@
 
 (iv) If any of the sport fishery subareas south of Leadbetter Point, Washington, are not projected to utilize their respective quotas by their season ending dates, NMFS may take inseason action to transfer any projected unused quota to another Oregon sport subarea.
 
+(v) Notwithstanding regulations at (c)(1)(i) of this section, if the total estimated yelloweye rockfish bycatch mortality from recreational halibut trips in all Oregon subareas is projected to exceed 22 percent of the annual Oregon recreational yelloweye rockfish harvest guideline, NMFS may take inseason action to reduce yelloweye rockfish bycatch mortality in the halibut fishery while allowing allocation objectives to be met to the extent possible.
+
 (2) Flexible inseason management provisions include, but are not limited to, the following:
 
 (i) Modification of sport fishing periods;
@@ -34,9 +36,11 @@
 
 (iii) Modification of sport fishing size limits;
 
-(iv) Modification of sport fishing days per calendar week; and
+(iv) Modification of sport fishing days per calendar week;
 
-(v) Modification of subarea quotas.
+(v) Modification of subarea quotas; and
+
+(vi) Modification of the Stonewall Bank Yelloweye Rockfish Conservation Area (YRCA) restrictions off Oregon using YRCA expansions as defined in groundfish regulations at 50 CFR 660.70(g) or (h).
 
 (3) *Notice procedures.* (i) Actions taken under this section will be published in the Federal Register.
 
@@ -70,7 +74,7 @@
 
 (e) *Area 2A Non-Treaty Commercial Fishery Closed Areas.* (1) Non-treaty commercial vessels operating in the directed commercial fishery for halibut in Area 2A are required to fish outside of a closed area, known as the Rockfish Conservation Area (RCA), that extends along the coast from the U.S./Canada border south to 40°10′ N. lat. Between the U.S./Canada border and 46°16′ N. lat., the eastern boundary of the RCA, is the shoreline. Between 46°16′ N. lat. and 40°10′ N. lat., the RCA is defined along an eastern boundary by a line approximating the 30-fm (55-m) depth contour. Coordinates for the 30-fm (55-m) boundary are listed at 50 CFR 660.71(e). Between the U.S./Canada border and 40°10′ N. lat., the RCA is defined along a western boundary approximating the 100-fm (183-m) depth contour. Coordinates for the 100-fm (183-m) boundary are listed at 50 CFR 660.73(a).
 
-(2) Non-treaty commercial vessels operating in the incidental catch fishery during the sablefish primary fishery north of Pt. Chehalis, Washington, in Area 2A are required to fish outside of a closed area. Under Pacific Coast groundfish regulations at 50 CFR 660.230, fishing with limited entry fixed gear is prohibited within the North Coast Commercial Yelloweye Rockfish Conservation Area (YRCA). It is unlawful to take and retain, possess, or land halibut taken with limited entry fixed gear within the North Coast Commercial YRCA. The North Coast Commercial YRCA is an area off the northern Washington coast, overlapping the northern part of the North Coast Recreational YRCA, and is defined by straight lines connecting latitude and longitude coordinates. Coordinates for the North Coast Commercial YRCA are specified in groundfish regulations at 50 CFR 660.70(b).
+(2) Non-treaty commercial vessels operating in the incidental catch fishery during the sablefish primary fishery north of Pt. Chehalis, Washington, in Area 2A are required to fish outside of a closed area. Under Pacific Coast groundfish regulations at 50 CFR 660.230, fishing with limited entry fixed gear is prohibited within the North Coast Commercial YRCA. It is unlawful to take and retain, possess, or land halibut taken with limited entry fixed gear within the North Coast Commercial YRCA. The North Coast Commercial YRCA is an area off the northern Washington coast, overlapping the northern part of the North Coast Recreational YRCA, and is defined by straight lines connecting latitude and longitude coordinates. Coordinates for the North Coast Commercial YRCA are specified in groundfish regulations at 50 CFR 660.70(b).
 
 (3) Non-treaty commercial vessels operating in the incidental catch fishery during the salmon troll fishery in Area 2A are required to fish outside of a closed area. Under the Pacific Coast groundfish regulations at 50 CFR 660.330(10), fishing with salmon troll gear is prohibited within the Salmon Troll YRCA. It is unlawful for commercial salmon troll vessels to take and retain, possess or land fish within the Salmon Troll YRCA. The Salmon Troll YRCA is an area off the northern Washington coast and is defined by straight lines connecting latitude and longitude coordinates. Coordinates for the Salmon Troll YRCA are specified in groundfish regulations at 50 CFR 660.70(c), and in salmon regulations at 50 CFR 660.405.
 

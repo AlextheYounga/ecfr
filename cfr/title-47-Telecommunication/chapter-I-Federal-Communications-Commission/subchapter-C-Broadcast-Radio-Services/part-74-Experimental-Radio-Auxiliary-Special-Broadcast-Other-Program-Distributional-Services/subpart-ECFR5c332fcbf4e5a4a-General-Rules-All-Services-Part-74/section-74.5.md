@@ -32,4 +32,4 @@ Certain rules applicable to Auxiliary, Special Broadcast and other Program Distr
 
 (f) Part 101, “Fixed Microwave Services”.
 
-[53 FR 2499, Jan. 28, 1988, as amended at 60 FR 55482, Nov. 1, 1995; 66 FR 47896, Sept. 14, 2001; 68 FR 12761, Mar. 17, 2003; 76 FR 70911, Nov. 16, 2011; 78 FR 25174, Apr. 29, 2013; 81 FR 86613, Dec. 1, 2016]Effective Date Note:At 81 FR 86613, Dec. 1, 2016, § 74.5 was amended by revising paragraph (a)(8 and adding paragraph (a)(9). These paragraphs contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[53 FR 2499, Jan. 28, 1988, as amended at 60 FR 55482, Nov. 1, 1995; 66 FR 47896, Sept. 14, 2001; 68 FR 12761, Mar. 17, 2003; 76 FR 70911, Nov. 16, 2011; 78 FR 25174, Apr. 29, 2013; 81 FR 86613, Dec. 1, 2016]

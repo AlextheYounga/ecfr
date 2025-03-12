@@ -46,4 +46,4 @@ Certain rules applicable to broadcast services, some of which are also applicabl
 
 (7) Subpart L, “FM Broadcast Translator Stations and FM Broadcast Booster Stations”.
 
-[53 FR 2498, Jan. 28, 1988, as amended at 57 FR 48333, Oct. 23, 1992; 60 FR 55480, Nov. 1, 1995; 63 FR 48622, Sept. 11, 1998; 66 FR 47896, Sept. 14, 2001; 69 FR 72043, Dec. 10, 2004; 76 FR 70911, Nov. 16, 2011; 81 FR 86613, Dec. 1, 2016]Effective Date Note:At 81 FR 86613, Dec. 1, 2016, § 73.1010 was amended by revising paragraph (a)(9) and adding paragraph (a)(10). These paragraphs contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[53 FR 2498, Jan. 28, 1988, as amended at 57 FR 48333, Oct. 23, 1992; 60 FR 55480, Nov. 1, 1995; 63 FR 48622, Sept. 11, 1998; 66 FR 47896, Sept. 14, 2001; 69 FR 72043, Dec. 10, 2004; 76 FR 70911, Nov. 16, 2011; 81 FR 86613, Dec. 1, 2016]

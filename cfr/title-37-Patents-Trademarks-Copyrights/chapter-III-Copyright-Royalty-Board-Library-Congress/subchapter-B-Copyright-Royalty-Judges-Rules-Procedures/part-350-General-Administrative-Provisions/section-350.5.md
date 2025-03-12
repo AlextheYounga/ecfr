@@ -1,27 +1,51 @@
-##### § 350.5 Time. #####
+##### § 350.5 Electronic filing system (eCRB). #####
 
-(a) *Computation.* To compute the due date for filing and serving any document or performing any other act directed by an order of the Copyright Royalty Judges or the Copyright Royalty Judges' rules:
+(a) *Documents to be filed by electronic means* - (1) *Transition period.* For the period commencing with the initial deployment of the Copyright Royalty Board's electronic filing and case management system (eCRB) and ending January 1, 2018, all parties having the technological capability must file all documents with the Copyright Royalty Board through eCRB in addition to filing paper documents in conformity with applicable Copyright Royalty Board rules. The Copyright Royalty Board must announce the date of the initial deployment of eCRB on the Copyright Royalty Board Web site (*www.loc.gov/crb*), as well as the conclusion of the dual-system transition period.
 
-(1) Exclude the day of the act, event, or default that begins the period.
+(2) *Subsequent to transition period.* Except as otherwise provided in this chapter, all attorneys must file documents with the Copyright Royalty Board through eCRB. *Pro se* parties may file documents with the Copyright Royalty Board through eCRB, subject to § 350.4(c)(2).
 
-(2) Exclude intermediate Saturdays, Sundays, and legal holidays when the period is less than 11 days, unless stated in calendar days.
+(b) *Official record.* The electronic version of a document filed through and stored in eCRB will be the official record of the Copyright Royalty Board.
 
-(3) Include the last day of the period unless it is a Saturday, Sunday, legal holiday, or a day on which the weather or other conditions render the Copyright Royalty Board's office inaccessible.
+(c) *Obtaining an electronic filing password* - (1) *Attorneys.* An attorney must obtain an eCRB password from the Copyright Royalty Board in order to file documents or to receive copies of orders and determinations of the Copyright Royalty Judges. The Copyright Royalty Board will issue an eCRB password after the attorney applicant completes the application form available on the CRB Web site.
 
-(4) As used in this rule, “legal holiday” means the date designated for the observance of New Year's Day, Martin Luther King, Jr.'s Birthday, Presidents' Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, Christmas Day, and any other day declared a holiday by the President or the Congress.
+(2) Pro se *parties.* A party not represented by an attorney (a *pro se* party) may obtain an eCRB password from the Copyright Royalty Board with permission from the Copyright Royalty Judges, in their discretion. To obtain permission, the *pro se* party must submit an application on the form available on the CRB Web site, describing the party's access to the Internet and confirming the party's ability and capacity to file documents and receive electronically the filings of other parties on a regular basis. If the Copyright Royalty Judges grant permission, the *pro se* party must complete the eCRB training provided by the Copyright Royalty Board to all electronic filers before receiving an eCRB password. Once the Copyright Royalty Board has issued an eCRB password to a *pro se* party, that party must make all subsequent filings by electronic means through eCRB.
 
-(b) *Extensions.* A party seeking an extension must do so by written motion. Prior to filing such a motion, a party must attempt to obtain consent from the other parties to the proceeding. An extension motion must state:
+(d) *Use of an eCRB password.* An eCRB password may be used only by the person to whom it is assigned, or, in the case of an attorney, by that attorney or an authorized employee or agent of that attorney's law office or organization. The person to whom an eCRB password is assigned is responsible for any document filed using that password.
 
-(1) The date on which the action or submission is due;
+(e) *Signature.* The use of an eCRB password to login and submit documents creates an electronic record. The password operates and serves as the signature of the person to whom the password is assigned for all purposes under this chapter III.
 
-(2) The length of the extension sought;
+(f) *Originals of sworn documents.* The electronic filing of a document that contains a sworn declaration, verification, certificate, statement, oath, or affidavit certifies that the original signed document is in the possession of the attorney or *pro se* party responsible for the filing and that it is available for review upon request by a party or by the Copyright Royalty Judges. The filer must file through eCRB a scanned copy of the signature page of the sworn document together with the document itself.
 
-(3) The date on which the action or submission would be due if the extension were allowed;
+(g) *Consent to delivery by electronic means.* An attorney or *pro se* party who obtains an eCRB password consents to electronic delivery of all documents, subsequent to the petition to participate, that are filed by electronic means through eCRB. Counsel and *pro se* parties are responsible for monitoring their email accounts and, upon receipt of notice of an electronic filing, for retrieving the noticed filing. Parties and their counsel bear the responsibility to keep the contact information in their eCRB profiles current.
 
-(4) The reason or reasons why there is good cause for the delay;
+(h) *Accuracy of docket entry.* A person filing a document by electronic means is responsible for ensuring the accuracy of the official docket entry generated by the eCRB system, including proper identification of the proceeding, the filing party, and the description of the document. The Copyright Royalty Board will maintain on its Web site (*www.loc.gov/crb*) appropriate guidance regarding naming protocols for eCRB filers.
 
-(5) The justification for the amount of additional time being sought; and
+(i) *Documents subject to a protective order.* A person filing a document by electronic means must ensure, at the time of filing, that any documents subject to a protective order are identified to the eCRB system as “restricted” documents. This requirement is in addition to any requirements detailed in the applicable protective order. Failure to identify documents as “restricted” to the eCRB system may result in inadvertent publication of sensitive, protected material.
 
-(6) The attempts that have been made to obtain consent from the other parties to the proceeding and the position of the other parties on the motion.
+(j) *Exceptions to requirement of electronic filing* - (1) *Certain exhibits or attachments.* Parties may file in paper form any exhibits or attachments that are not in a format that readily permits electronic filing, such as oversized documents; or are illegible when scanned into electronic format. Parties filing paper documents or things pursuant to this paragraph must deliver legible or usable copies of the documents or things in accordance with § 350.6(a)(2) and must file electronically a notice of filing that includes a certificate of delivery.
 
-[70 FR 30905, May 31, 2005, as amended at 71 FR 53327, Sept. 11, 2006]
+(2) Pro se *parties.* A *pro se* party may file documents in paper form and must deliver and accept delivery of documents in paper form, unless the *pro se* party has obtained an eCRB password.
+
+(k) *Privacy requirements.* (1) Unless otherwise instructed by the Copyright Royalty Judges, parties must exclude or redact from all electronically filed documents, whether designated “restricted” or not:
+
+(i) *Social Security numbers.* If an individual's Social Security number must be included in a filed document for evidentiary reasons, the filer must use only the last four digits of that number.
+
+(ii) *Names of minor children.* If a minor child must be mentioned in a document for evidentiary reasons, the filer must use only the initials of that child.
+
+(iii) *Dates of birth.* If an individual's date of birth must be included in a pleading for evidentiary reasons, the filer must use only the year of birth.
+
+(iv) *Financial account numbers.* If a financial account number must be included in a pleading for evidentiary reasons, the filer must use only the last four digits of the account identifier.
+
+(2) *Protection of personally identifiable information.* If any information identified in paragraph (k)(1) of this section must be included in a filed document, the filing party must treat it as confidential information subject to the applicable protective order. In addition, parties may treat as confidential, and subject to the applicable protective order, other personal information that is not material to the proceeding.
+
+(l) *Incorrectly filed documents.* (1) The Copyright Royalty Board may direct an eCRB filer to re-file a document that has been incorrectly filed, or to correct an erroneous or inaccurate docket entry.
+
+(2) After the transition period, if an attorney or a *pro se* party who has been issued an eCRB password inadvertently presents a document for filing in paper form, the Copyright Royalty Board may direct the attorney or *pro se* party to file the document electronically. The document will be deemed filed on the date it was first presented for filing if, no later than the next business day after being so directed by the Copyright Royalty Board, the attorney or *pro se* participant files the document electronically. If the party fails to make the electronic filing on the next business day, the document will be deemed filed on the date of the electronic filing.
+
+(m) *Technical difficulties.* (1) A filer encountering technical problems with an eCRB filing must immediately notify the Copyright Royalty Board of the problem either by email or by telephone, followed promptly by written confirmation.
+
+(2) If a filer is unable due to technical problems to make a filing with eCRB by an applicable deadline, and makes the notification required by paragraph (m)(1) of this section, the filer shall use electronic mail to make the filing with the CRB and deliver the filing to the other parties to the proceeding. The filing shall be considered to have been made at the time it was filed by electronic mail. The Judges may direct the filer to refile the document through eCRB when the technical problem has been resolved, but the document shall retain its original filing date.
+
+(3) The inability to complete an electronic filing because of technical problems arising in the eCRB system may constitute “good cause” (as used in § 350.6(b)(4)) for an order enlarging time or excusable neglect for the failure to act within the specified time, provided the filer complies with paragraph (m)(1) of this section. This section does not provide authority to extend statutory time limits.
+
+[82 FR 18571, Apr. 20, 2017]
