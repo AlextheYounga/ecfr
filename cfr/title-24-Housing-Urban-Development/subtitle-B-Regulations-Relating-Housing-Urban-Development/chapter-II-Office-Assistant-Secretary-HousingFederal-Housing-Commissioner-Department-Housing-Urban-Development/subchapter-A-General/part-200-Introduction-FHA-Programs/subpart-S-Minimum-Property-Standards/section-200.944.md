@@ -1,0 +1,23 @@
+##### § 200.944 Supplementary specific requirements under the HUD building product standards and certification program for plywood and other performance rated wood-based structural-use panels. #####
+
+(a)(1) All plywood made to specifications of Voluntary Product Standard, PS 1-83, “Construction and Industrial Plywood” (published by the U.S. Department of Commerce, National Bureau of Standards (May 1984)) and grade marked as PS 1-83 shall conform to the requirements of PS 1-83, except that all veneers may be D-grade. A copy of PS 1-83 may be obtained from the U.S. Department of Commerce, National Institute for Standards and Technology, Office of Product Standards, Gaithersburg, MD 20899.
+
+(2) All plywood panels not meeting the veneer grade requirements of PS 1-83, and all performance rated composite and nonveneer structural-use panels shall comply with the requirements described in the APA PRP-108, “Performance Standards and Policies for Structural-Use panels” (published by the American Plywood Association, June 1988). However, in ASTM D-3043-87, “Standard Methods of Testing Structural Panels in Flexure” (published by the American Society for Testing and Materials, August 28, 1987), Method B may be used in lieu of Method C for measuring the mechanical properties of the panel, provided that the test specimen has a width of at least 12 inches. The impact load shall be 150 ft. lbs. for single-layer floor panels excluding any floor finishes. Copies of the APA Standard may be obtained from the American Plywood Association, P.O. Box 11700, Tacoma, WA 98411-0770. Copies of the ASTM Standard may be obtained from the American Society of Testing and Materials, 1916 Race Street, Philadelphia, PA 19103.
+
+(3) Structural-use panels shall be installed in accordance with the manufacturer's installation instructions and Form No. E30K, “APA Design/Construction Guide-Residential and Commercial” (published by the American Plywood Association, January 1989).
+
+(4) These standards have been approved by the Director of the Federal Register for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the standards are available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) *Labeling.* Under the procedures set forth in § 200.935(d)(6) concerning labeling of a product, the administrator's validation mark and the manufacturer's certification of compliance with the applicable standards are required to be on the certification label issued by the administrator to the manufacturer. Panels that conform to the Performance Standards and Policy for Structural-Use Panels shall be marked as conforming to UM 40c. All panels complying with APA PRP-108 shall be marked with a label formatted in the manner similar to the trademark examples shown in APA PRP-108. All panels will be marked with the mill number. The certification mark shall be stamped on each panel and be located so that it is available for inspection.
+
+(c) *Periodic tests and qualify control inspections.* Under the procedures set forth in § 200.935(d)(8) concerning periodic tests and quality control inspections, the frequency of testing for a product shall be described in the specific building product certification program. In the case of plywood and wood-based structural-use panels, testing and inspection shall be conducted as follows:
+
+(1) Testing shall be done in an Administrator's laboratory or an Administrator-approved laboratory every three months. All plywood qualified for conformance with PS 1-83 shall be tested in accordance with PS 1-83.
+
+(2) All thickness and lay-ups of structural-use panels in production made in conformance with the Performance Standards shall be tested in accordance with procedures set forth in APA PRP-108 Performance Standards and Policies for Structural-Use Panels (published by the American Plywood Association Standard June 1988).
+
+(3) The Administrator shall examine each manufacturer's quality control procedures to assure they are the same as or equivalent to those set forth under the Quality Assurance Policy section 4.2.3 of the publication referenced in paragraph (2) above or PS 1-83 section 3.8.6.6, Reexamination.
+
+(4) The Administrator shall inspect the manufacturer's procedures at the plant at least every three months to assure that the initially accepted quality control procedures are being followed.
+
+[55 FR 38785, Sept. 20, 1990]

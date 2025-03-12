@@ -1,0 +1,13 @@
+##### § 246.1 Scope and effect of regulations. #####
+
+(a) The regulation of rents for a project coming within the scope of “Subpart B—Unsubsidized Insured Projects” is preempted under these regulations only when the Department determines that the delay or decision of the local rent control board, or other authority regulating rents pursuant to state or local law (hereinafter referred to as board) jeopardizes the Department's economic interest in a project covered by that subpart. The regulation of rents for projects coming within the scope of “Subpart C—Subsidized Insured Projects” is preempted in its entirety by the promulgation of these regulations. The regulation of rents for projects coming within the scope of “Subpart D—HUD-Owned Projects” rests within the exclusive jurisdiction of the Department.
+
+(b) Any state or local law, ordinance, or regulation is without force and effect insofar as it purports to regulate rents of: (1) Projects for which a determination of preemption has been made pursuant to subpart B, or (2) projects coming within the scope of subpart C or D. Compliance with such law, ordinance, or regulation shall not be required as a condition of, or prerequisite to, the remedy of eviction, and any law, ordinance, or regulation which purports to require such compliance is similarly without force and effect.
+
+(c) It is the purpose of the Department that these regulations shall bar all actions of a board that would in any way frustrate the purpose or effect of these regulations or that would in any way delay, prevent or interfere with the implementation of any increase in rental charges approved by HUD.
+
+(d) These regulations may be offered as a defense to a proceeding by whomever initiated, which may be brought or threatened to be brought against any owner, mortgagor or managing agent of a project subject to these regulations who demands, receives or retains, or seeks to demand, receive or retain, rental charges approved by HUD, or as a basis for declaratory, injunctive or other relief against any person or agency, public or private, who attempts to enforce, or threatens to enforce, any state or local law, ordinance, or regulation which is without force and effect by reason of this regulation.
+
+(e) This part applies to mortgages insured under the National Housing Act. It does not apply to mortgages insured under section 542(c) of the Housing and Community Development Act of 1992 (12 U.S.C. 1707).
+
+[40 FR 49318, Oct. 22, 1975. Redesignated at 49 FR 6713, Feb. 23, 1984, and amended at 58 FR 64038, Dec. 3, 1993; 59 FR 62524, Dec. 5, 1994]

@@ -1,0 +1,41 @@
+##### § 1.4 Discrimination prohibited. #####
+
+(a) *General.* No person in the United States shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity to which this part 1 applies.
+
+(b) *Specific discriminatory actions prohibited.* (1) A recipient under any program or activity to which this part 1 applies may not, directly or through contractual or other arrangements, on the ground of race, color, or national origin:
+
+(i) Deny a person any housing, accommodations, facilities, services, financial aid, or other benefits provided under the program or activity;
+
+(ii) Provide any housing, accommodations, facilities, services, financial aid, or other benefits to a person which are different, or are provided in a different manner, from those provided to others under the program or activity;
+
+(iii) Subject a person to segregation or separate treatment in any matter related to his receipt of housing, accommodations, facilities, services, financial aid, or other benefits under the program or activity;
+
+(iv) Restrict a person in any way in access to such housing, accommodations, facilities, services, financial aid, or other benefits, or in the enjoyment of any advantage or privilege enjoyed by others in connection with such housing, accommodations, facilities, services, financial aid, or other benefits under the program or activity;
+
+(v) Treat a person differently from others in determining whether he satisfies any occupancy, admission, enrollment, eligibility, membership, or other requirement or condition which persons must meet in order to be provided any housing, accommodations, facilities, services, financial aid, or other benefits provided under the program or activity;
+
+(vi) Deny a person opportunity to participate in the program or activity through the provision of services or otherwise, or afford him an opportunity to do so which is different from that afforded others under the program or activity (including the opportunity to participate in the program or activity as an employee but only to the extent set forth in paragraph (c) of this section).
+
+(vii) Deny a person the opportunity to participate as a member of a planning or advisory body which is an integral part of the program.
+
+(2)(i) A recipient, in determining the types of housing, accommodations, facilities, services, financial aid, or other benefits which will be provided under any such program or activity, or the class of persons to whom, or the situations in which, such housing, accommodations, facilities, services, financial aid, or other benefits will be provided under any such program or activity, or the class of persons to be afforded an opportunity to participate in any such program or activity, may not, directly or through contractual or other arrangements, utilize criteria or methods of administration which have the effect of subjecting persons to discrimination because of their race, color, or national origin, or have the effect of defeating or substantially impairing accomplishment of the objectives of the program or activity as respect to persons of a particular race, color, or national origin.
+
+(ii) A recipient, in operating low-rent housing with Federal financial assistance under the United States Housing Act of 1937, as amended (42 U.S.C. 1401 *et seq.*), shall assign eligible applicants to dwelling units in accordance with a plan, duly adopted by the recipient and approved by the responsible Department official, providing for assignment on a community-wide basis in sequence based upon the date and time the application is received, the size or type of unit suitable, and factors affecting preference or priority established by the recipient's regulations, which are not inconsistent with the objectives of title VI of the Civil Rights Act of 1964 and this part 1. The plan may allow an applicant to refuse a tendered vacancy for good cause without losing his standing on the list but shall limit the number of refusals without cause as prescribed by the responsible Department official.
+
+(iii) The responsible Department official is authorized to prescribe and promulgate plans, exceptions, procedures, and requirements for the assignment and reassignment of eligible applicants and tenants consistent with the purpose of paragraph (b)(2)(ii) of this section, this part 1, and title VI of the Civil Rights Act of 1964, in order to effectuate and insure compliance with the requirements imposed thereunder.
+
+(3) In determining the site or location of housing, accommodations, or facilities, an applicant or recipient may not make selections with the purpose or effect of excluding individuals from, denying them the benefits of, or subjecting them to discrimination under any program to which this part 1 applies, on the ground of race, color, or national origin; or with the purpose or effect of defeating or substantially impairing the accomplishment of the objectives of the Act or this part 1.
+
+(4) As used in this part 1 the housing, accommodations, facilities, services, financial aid, or other benefits provided under a program or activity receiving Federal financial assistance shall be deemed to include any housing, accommodations, facilities, services, financial aid, or other benefits provided in or through a facility provided with the aid of Federal financial assistance.
+
+(5) The enumeration of specific forms of prohibited discrimination in paragraphs (b) and (c) of this section does not limit the generality of the prohibition in paragraph (a) of this section.
+
+(6)(i) In administering a program regarding which the recipient has previously discriminated against persons on the ground of race, color, or national origin, the recipient must take affirmative action to overcome the effects of prior discrimination.
+
+(ii) Even in the absence of such prior discrimination, a recipient in administering a program should take affirmative action to overcome the effects of conditions which resulted in limiting participation by persons of a particular race, color, or national origin.
+
+Where previous discriminatory practice or usage tends, on the ground of race, color, or national origin, to exclude individuals from participation in, to deny them the benefits of, or to subject them to discrimination under any program or activity to which this part 1 applies, the applicant or recipient has an obligation to take reasonable action to remove or overcome the consequences of the prior discriminatory practice or usage, and to accomplish the purpose of the Act.
+
+(c) *Employment practices.* (1) Where a primary objective of the Federal financial assistance to a program or activity to which this part 1 applies is to provide employment, a recipient may not, directly or through contractual or other arrangements, subject a person to discrimination on the ground of race, color, or national origin in its employment practices under such program or activity (including recruitment or recruitment advertising, employment, layoff, termination, upgrading, demotion, transfer, rates of pay or other forms of compensation and use of facilities). The requirements applicable to construction employment under such program or activity shall be those specified in or pursuant to part III of Executive Order 11246 or any executive order which supersedes or amends it.
+
+(2) Where a primary objective of the Federal financial assistance is not to provide employment, but discrimination on the ground of race, color, or national origin in the employment practices of the recipient or other persons subject to this part 1 tends, on the ground of race, color, or national origin, to exclude individuals from participation in, to deny them the benefits of, or to subject them to discrimination under any program to which this part 1 applies, the provisions of this paragraph (c) shall apply to the employment practices of the recipient or other persons subject to this part 1 to the extent necessary to assure equality of opportunity to, and nondiscriminatory treatment of, beneficiaries.

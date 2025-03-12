@@ -1,0 +1,17 @@
+##### § 3282.606 Consumer information. #####
+
+(a) *Notice.* Any home completed under the procedures established in this section must be shipped with a temporary notice that explains that the home will comply with the requirements of the construction and safety standards only after all of the site work has been completed and inspected. The notice must be legible and typed, using letters at least1/4 inch high in the text of the notice and3/4 inch high for the title. The notice must read as follows:
+
+IMPORTANT CONSUMER INFORMATION NOTICE
+
+WARNING: DO NOT LIVE IN THIS HOME UNTIL THE ON-SITE WORK HAS BEEN COMPLETED AND THE MANUFACTURER HAS PROVIDED A COPY OF THE INSPECTION REPORT THAT CERTIFIES THAT THE HOME HAS BEEN INSPECTED AND IS CONSTRUCTED IN ACCORDANCE WITH APPROVED INSTRUCTIONS FOR MEETING THE CONSTRUCTION AND SAFETY STANDARDS.
+
+This home has been substantially completed at the factory and certified as having been constructed in conformance with the Federal Manufactured Home Construction and Safety Standards when specified work is performed and inspected at the home site. This on-site work must be performed in accordance with manufacturer's instructions that have been approved for this purpose. The work to be performed on-site is [insert description of all work to be performed in accordance with the construction and safety standards].
+
+This notice may be removed by the purchaser or lessor when the manufacturer provides the first purchaser or lessor with a copy of the manufacturer's final site inspection report, as required by regulation. This final report must include the manufacturer's certification of completion. All manufactured homes may also be subject to separate regulations requiring approval of items not covered by the Federal Manufactured Home Construction and Safety Standards, such as installation and utility connections.
+
+(b) *Placement of notice in home.* The notice required by paragraph (a) of this section must be displayed in a conspicuous and prominent location within the manufactured home and in a manner likely to assure that it is not removed until, or under the authorization of, the purchaser or lessor. The notice is to be removed only by the first purchaser or lessor. No retailer, installation or construction contractor, or other person may interfere with the required display of the notice.
+
+(c) *Providing notice before sale.* The manufacturer or retailer must also provide a copy of the Consumer Information Notice to prospective purchasers of any home to which the approval applies before the purchasers enter into an agreement to purchase the home.
+
+(d) *When sale or lease of home is complete.* For purposes of establishing the manufacturer's and retailer's responsibilities for on-site completion under the Act and subparts F and I of this part, the sale or lease of the manufactured home will not be considered complete until the purchaser or lessor, as applicable, has been provided with a copy of the final site inspection report required under § 3282.605(d) and a copy of the manufacturer's certification of completion required under § 3282.609(k) and (l). For 5 years from the date of the sale or lease of each home, the manufacturer must maintain in its records an indication that the final on-site inspection report and certification of completion has been provided to the lessor or purchaser and, as applicable, the appropriate retailer.

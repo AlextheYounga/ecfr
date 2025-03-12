@@ -1,0 +1,3 @@
+##### § 3285.201 Soil conditions. #####
+
+To help prevent settling or sagging, the foundation must be constructed on firm, undisturbed soil or fill compacted to at least 90 percent of its maximum relative density. All organic material such as grass, roots, twigs, and wood scraps must be removed in areas where footings are to be placed. After removal of organic material, the home site must be graded or otherwise prepared to ensure adequate drainage, in accordance with § 3285.203.

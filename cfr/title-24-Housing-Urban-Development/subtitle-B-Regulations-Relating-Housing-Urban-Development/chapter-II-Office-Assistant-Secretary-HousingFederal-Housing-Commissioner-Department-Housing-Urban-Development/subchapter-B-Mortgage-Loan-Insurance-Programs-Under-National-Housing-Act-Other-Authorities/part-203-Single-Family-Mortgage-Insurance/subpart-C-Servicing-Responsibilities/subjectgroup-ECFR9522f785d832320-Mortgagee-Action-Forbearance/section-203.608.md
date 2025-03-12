@@ -1,0 +1,3 @@
+##### § 203.608 Reinstatement. #####
+
+The mortgagee shall permit reinstatement of a mortgage, even after the institution of foreclosure proceedings, if the mortgagor tenders in a lump sum all amounts required to bring the account current, including foreclosure costs and reasonable attorney's fees and expenses properly associated with the foreclosure action, unless: (a) The mortgagee has accepted reinstatement after the institution of foreclosure proceedings within two years immediately preceding the commencement of the current foreclosure action, (b) reinstatement will preclude foreclosure following a subsequent default, or (c) reinstatement will adversely affect the priority of the mortgage lien.

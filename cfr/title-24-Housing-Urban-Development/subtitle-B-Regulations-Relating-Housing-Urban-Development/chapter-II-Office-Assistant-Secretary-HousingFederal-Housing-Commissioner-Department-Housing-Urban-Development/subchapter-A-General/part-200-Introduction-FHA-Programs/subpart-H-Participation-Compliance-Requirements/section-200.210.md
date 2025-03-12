@@ -1,0 +1,5 @@
+##### § 200.210 Policy. #####
+
+(a) *Regulations.* It is HUD's policy that, in accordance with the intent of the National Housing Act (12 U.S.C. 1701 *et seq.*), and with other applicable federal statutes, participants in HUD's housing and healthcare programs be responsible individuals and organizations who will honor their legal, financial and contractual obligations. Accordingly, as provided in this subpart, HUD will review the prior participation of Controlling Participants, as defined in § 200.212 and § 200.216, as a prerequisite to participation in HUD's multifamily housing and healthcare programs listed in § 200.214.
+
+(b) *Processing Guide.* The regulations in this subpart are supplemented by the Processing Guide for Previous Participation Reviews of Prospective Multifamily Housing and Healthcare Programs' Participants (Guide), which is found on HUD's Web site at *www.hud.gov.* This Guide elaborates on the basic procedures involved in the previous participation review process. For any significant changes made to this Guide, HUD will provide advance notice and the opportunity to comment, providing a comment period of no less than 30 days.

@@ -1,0 +1,3 @@
+##### § 200.800 Lead-based paint. #####
+
+The Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at part 35, subparts A, B, F, G, I, and R of this title, apply to activities under these programs, except for single family mortgage insurance and guarantee programs. Sections 200.805 and 200.810 apply to single family mortgage insurance and guarantee programs administered by HUD.

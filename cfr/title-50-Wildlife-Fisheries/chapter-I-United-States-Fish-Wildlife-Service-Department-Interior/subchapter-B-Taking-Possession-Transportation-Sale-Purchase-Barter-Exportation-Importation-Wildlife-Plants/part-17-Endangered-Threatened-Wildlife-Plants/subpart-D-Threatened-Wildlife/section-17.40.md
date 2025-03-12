@@ -1,7 +1,5 @@
 ##### § 17.40 Special rules—mammals. #####
 
-Link to an amendment published at 87 FR 73504, Nov. 30, 2022 (delayed).Link to an amendment published at 88 FR 4908, Jan. 26, 2023, delaying the above amendment from Jan. 30, 2023, to Mar. 31, 2023.
-
 (a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*)—(1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3) through (7) of this section, all prohibitions of § 17.31 apply to the Olympia, Roy Prairie, Tenino, and Yelm pocket gophers.
@@ -518,39 +516,7 @@ In all other parts of its range the argali is classified as endangered and cover
 
 (E) Regulatory authorities can determine that the sport-hunted trophies have in fact been legally taken from the populations under an established conservation program.
 
-(o) Northern long-eared bat (*Myotis septentrionalis*). The provisions of this rule are based upon the occurrence of white-nose syndrome (WNS), a disease affecting many U.S. bat populations. The term “WNS zone” identifies the set of counties within the range of the northern long-eared bat within 150 miles of the boundaries of U.S. counties or Canadian districts where the fungus *Pseudogymnoascus destructans* (*Pd*) or WNS has been detected. For current information regarding the WNS zone, contact your local Service ecological services field office. Field office contact information may be obtained from the Service regional offices, the addresses of which are listed in 50 CFR 2.2.
-
-(1) *Prohibitions.* The following prohibitions apply to the northern long-eared bat:
-
-(i) Purposeful take of northern long-eared bat, including capture, handling, or other activities.
-
-(ii) Within the WNS zone:
-
-(A) Actions that result in the incidental take of northern long-eared bats in known hibernacula.
-
-(B) Actions that result in the incidental take of northern long-eared bats by altering a known hibernaculum's entrance or interior environment if it impairs an essential behavioral pattern, including sheltering northern long-eared bats.
-
-(C) Tree-removal activities that result in the incidental take of northern long-eared bats when the activity:
-
-(*1*) Occurs within 0.25 mile (0.4 kilometer) of a known hibernaculum; or
-
-(*2*) Cuts or destroys known occupied maternity roost trees, or any other trees within a 150-foot (45-meter) radius from the maternity roost tree, during the pup season (June 1 through July 31).
-
-(iii) Possession and other acts with unlawfully taken northern long-eared bats. It is unlawful to possess, sell, deliver, carry, transport, or ship, by any means whatsoever, any northern long-eared bat that was taken in violation of this section or State laws.
-
-(iv) Import and export.
-
-(2) *Exceptions from prohibitions.* (i) Any person may take a northern long-eared bat in defense of his own life or the lives of others, including for public health monitoring purposes.
-
-(ii) Any person may take a northern long-eared bat that results from the removal of hazardous trees for the protection of human life and property.
-
-(iii) Any person may take a northern long-eared bat by removing it from human structures, but only if the actions comply with all applicable State regulations.
-
-(iv) Purposeful take that results from actions relating to capture, handling, and related activities for northern long-eared bats by individuals permitted to conduct these same activities for other species of bat until May 3, 2016.
-
-(v) All of the provisions of § 17.32 apply to the northern long-eared bat.
-
-(vi) Any employee or agent of the Service, of the National Marine Fisheries Service, or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by his agency for such purposes, may, when acting in the course of his official duties, take northern long-eared bats covered by an approved cooperative agreement to carry out conservation programs.
+(o) [Reserved]
 
 (p) Northern sea otter (*Enhydra lutris kenyoni*). (1) *To what population of sea otter does this special rule apply?* The regulations in paragraph (p) of this section apply to the southwest Alaska distinct population segment (DPS) of the northern sea otter as set forth at § 17.11(h) of this part.
 

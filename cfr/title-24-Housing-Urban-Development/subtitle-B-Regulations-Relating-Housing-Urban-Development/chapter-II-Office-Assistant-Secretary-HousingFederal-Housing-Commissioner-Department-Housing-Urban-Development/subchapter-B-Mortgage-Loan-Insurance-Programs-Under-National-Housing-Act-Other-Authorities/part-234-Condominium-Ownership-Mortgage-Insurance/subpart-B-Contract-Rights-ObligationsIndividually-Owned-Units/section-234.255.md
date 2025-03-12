@@ -1,0 +1,9 @@
+##### § 234.255 Cross-reference. #####
+
+(a) *Provisions.* All of the provisions of §§ 203.251 through 203.436 of this chapter (part 203, subpart B) covering mortgages insured under section 203 of the National Housing Act shall apply to mortgages insured under section 234(c) of the National Housing Act except the following provisions:
+
+Sec.203.258 Substitute mortgagors.203.259a Scope.203.280 One-time MIP.203.281 Calculation of one-time MIP.203.282 Mortgagee's late charge and interest.203.283 Refund of one-time MIP.203.357 Deed in lieu of foreclosure.203.378 Property condition.203.379 Adjustment for damage or neglect.203.380 Certificate of property condition.203.389 Waived title objections.203.420 Nature of Mutual Mortgage Insurance Fund.203.421 Allocation of Mutual Mortgage Insurance Fund income or loss.203.422 Right and liability under Mutual Mortgage Insurance Fund.203.423 Distribution of distributive shares.203.424 Maximum amount of distributive shares.203.425 Finality of determination.203.440 *et seq.* Insured home improvement loans.
+
+(b) *References.* For the purposes of this subpart, all references in §§ 203.251 through 203.436 of this chapter (part 203, subpart B) to section 203 of the Act, one- to four-family, and the Mutual Mortgage Insurance Fund, shall be construed to refer to section 234 of the act, one-family unit, and the General Insurance Fund. The term *property* or *each family dwelling unit* as used in §§ 203.251 through 203.436 of this chapter (part 203, subpart B) shall be construed to include “the one-family unit and the undivided interest in the common areas and facilities as may be designated”.
+
+[36 FR 24628, Dec. 22, 1971, as amended at 41 FR 42949, Sept. 29, 1976; 42 FR 29305, June 8, 1977; 48 FR 28807, June 23, 1983; 55 FR 34814, Aug. 24, 1990]

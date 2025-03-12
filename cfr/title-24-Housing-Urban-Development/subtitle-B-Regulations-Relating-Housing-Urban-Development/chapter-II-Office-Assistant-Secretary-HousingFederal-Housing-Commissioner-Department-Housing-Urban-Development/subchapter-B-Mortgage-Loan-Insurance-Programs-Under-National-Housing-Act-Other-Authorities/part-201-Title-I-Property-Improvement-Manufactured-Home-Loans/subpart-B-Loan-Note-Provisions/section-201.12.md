@@ -1,0 +1,5 @@
+##### § 201.12 Requirements for the note. #####
+
+The note shall bear the genuine signature of each borrower and of any co-maker or co-signer, be valid and enforceable against the borrower and any co-maker or co-signer, and be complete and regular on its face. The borrower and any co-maker or co-signer shall execute the note for the full amount of the loan obligation. Although the note may be executed by the borrower on an earlier date, the date of the loan shall be the date that the loan proceeds are disbursed by the lender. Such date shall be entered on the note when disbursement occurs. The note shall separately recite the principal amount and any interest at an agreed annual rate that comprises the borrower's payment obligation. The lender shall assure that the note and all other documents evidencing the loan transaction are in compliance with applicable Federal, State, and local laws. If the note is executed on behalf of a corporation, partnership, or trust by an authorized representative, it shall create a binding obligation on such entity.
+
+[61 FR 19797, May 2, 1996]

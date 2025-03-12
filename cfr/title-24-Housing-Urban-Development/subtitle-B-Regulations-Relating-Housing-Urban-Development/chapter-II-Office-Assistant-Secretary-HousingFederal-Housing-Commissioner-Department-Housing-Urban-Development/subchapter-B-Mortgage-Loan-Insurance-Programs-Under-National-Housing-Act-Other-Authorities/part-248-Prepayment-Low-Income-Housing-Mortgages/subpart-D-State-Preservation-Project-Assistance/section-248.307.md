@@ -1,0 +1,5 @@
+##### § 248.307 Authority to process and approve notices of intent and plans of action. #####
+
+(a) *Delegation of authority.* State agencies which regulate or otherwise supervise owners of projects with State assisted or subsidized mortgages shall have the authority, reserved to the Commissioner under subpart B of this part, to process and approve all notices of intent and plans of action submitted to the State agency or local housing authority under subpart D of this part. State agencies may redelegate such authority to local housing authorities at their discretion.
+
+(b) *Designation of processing agency.* The Executive Director of the State agency whose State assisted or subsidized mortgage program has been approved under § 248.303 shall inform all owners of projects with State assisted or subsidized mortgages that the State agency or a designated local housing authority shall accept and process notices of intent and plans of action.

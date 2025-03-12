@@ -1,0 +1,9 @@
+##### § 3282.352 State exclusive IPIA functions. #####
+
+(a) Any State which has an approved State Administrative Agency may, if accepted as an IPIA, act as the exclusive IPIA within the State. A State which acts as an IPIA but is not approved as an SAA may not act as the exclusive IPIA in the State. A State which acts as an exclusive IPIA shall be staffed to provide IPIA services to all manufacturers within the state and may not charge unreasonable fees for those services.
+
+(b) States which wish to act as exclusive IPIAs shall apply for approval to do so in their State plan applications. They shall specify the fees they will charge for IPIA services and shall submit proposed fee revisions to the Secretary prior to instituting any change in fees. If at any time the Secretary finds that those fees are not commensurate with the fees generally being charged for similar services, the Secretary will withhold or revoke approval to act as an exclusive IPIA. States acting as DAPIAs and also as exclusive IPIAs shall establish separate fees for the two functions and shall specify what additional services (such as approval of design changes and full time inspections) these fees cover. As provided in § 3282.302(b)(11), each State shall submit fee schedules for its activities and, where appropriate, the fees presently charged for DAPIA and IPIA services, and any fees charged for DAPIA and IPIA services during the preceding two calendar years.
+
+(c) A State's status as an exclusive IPIA shall commence upon approval of the State Plan Application and acceptance of the State's submission under § 3282.355. Where a private organization accepted or provisionally accepted as an IPIA under this subpart H is operating in a manufacturing plant within the State on the date the State's status as an exclusive IPIA commences, the private organization may provide IPIA services in that plant for 90 days after that date.
+
+[61 FR 10861, Mar. 15, 1996]

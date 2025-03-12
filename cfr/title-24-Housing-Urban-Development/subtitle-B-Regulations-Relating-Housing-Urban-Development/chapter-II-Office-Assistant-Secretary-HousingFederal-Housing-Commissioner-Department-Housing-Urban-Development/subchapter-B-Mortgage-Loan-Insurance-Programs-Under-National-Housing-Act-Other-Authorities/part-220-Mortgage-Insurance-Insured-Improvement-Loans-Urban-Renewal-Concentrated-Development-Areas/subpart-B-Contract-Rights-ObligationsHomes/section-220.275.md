@@ -1,0 +1,3 @@
+##### § 220.275 Method of paying insurance benefits. #####
+
+If the application for insurance benefits is acceptable to the Commissioner, all of the insurance claim shall be paid in cash unless the mortgagee files a written request with the application for payment in debentures. If such a request is made, all of the claim shall be paid by issuing debentures and by making a cash payment adjusting any differences between the total amount of the claim and the amount of the debentures issued.

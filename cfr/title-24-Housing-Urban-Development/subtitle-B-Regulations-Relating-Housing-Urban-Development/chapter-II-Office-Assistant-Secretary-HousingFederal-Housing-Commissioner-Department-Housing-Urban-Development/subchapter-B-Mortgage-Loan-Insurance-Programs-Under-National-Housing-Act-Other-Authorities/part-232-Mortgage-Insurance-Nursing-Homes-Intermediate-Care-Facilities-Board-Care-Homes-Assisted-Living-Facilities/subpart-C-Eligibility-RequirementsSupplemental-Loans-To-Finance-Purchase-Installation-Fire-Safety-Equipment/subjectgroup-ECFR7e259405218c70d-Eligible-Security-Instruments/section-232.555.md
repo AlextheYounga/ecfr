@@ -1,0 +1,3 @@
+##### § 232.555 Security instrument and lien. #####
+
+The security instrument shall cover the entire property included in the project, shall be a lien on the real property of the project under the laws of the jurisdiction in which the project is located, and may be junior to such prior liens or mortgages indebtedness as the Commissioner may approve. The Commissioner may from time to time require such other security, in lieu of, or in addition to, a lien on real property as he may prescribe.

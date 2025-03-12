@@ -1,0 +1,3 @@
+##### § 242.93 Amendment of regulations. #####
+
+The regulations in this subpart may be amended by HUD at any time and from time to time, in whole or in part, but such amendment shall not adversely affect the interests of a mortgagee or lender under the insurance on any mortgage or loan already insured, and shall not adversely affect the interests of a mortgagee or lender on any mortgage or loan to be insured on which HUD has issued a commitment to insure.

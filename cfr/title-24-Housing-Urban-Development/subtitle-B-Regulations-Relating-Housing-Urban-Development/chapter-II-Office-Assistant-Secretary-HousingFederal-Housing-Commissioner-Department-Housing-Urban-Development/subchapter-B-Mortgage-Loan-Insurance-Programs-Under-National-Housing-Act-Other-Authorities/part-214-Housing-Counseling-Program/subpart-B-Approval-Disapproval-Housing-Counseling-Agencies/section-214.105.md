@@ -1,0 +1,5 @@
+##### § 214.105 Preliminary application process. #####
+
+(a) *Submission.* All agencies must complete the forms prescribed by HUD and submit the application and all supporting documentation to HUD. Agencies with branches or affiliates for which the parent entity exercises control over the quality and type of housing counseling services rendered must submit a single application for approval.
+
+(b) Notwithstanding paragraph (a), SHFAs are not required to submit an application for HUD approval. However, to participate in HUD's Housing Counseling program, SHFAs must either submit a request and provide HUD with a list of affiliates, if applicable, and assure that they meet all program requirements, or submit a request through such other application procedure as HUD may periodically announce in the Federal Register or other informational sources.

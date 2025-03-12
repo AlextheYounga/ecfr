@@ -1,0 +1,17 @@
+##### § 203.29 Eligible mortgages in Alaska, Guam, Hawaii, or the Virgin Islands. #####
+
+(a) *When is an increased mortgage limit permitted for these areas?* For Alaska, Guam, Hawaii or the Virgin Islands, the Commissioner may increase the maximum mortgage amount permitted by section 203(b)(2)(A) of the National Housing Act when authorized by section 214 of that Act, through the procedures described in § 203.18(h).
+
+(b) If a party believes that the otherwise applicable mortgage limit needs to be increased to reflect the extent to which high costs make it infeasible to construct dwellings without sacrificing sound standards of construction, design or livability, the party may submit documentation in support of an alternative mortgage limit. This documentation should include actual or estimated costs of such items as design, construction, materials, and labor. In addition, actual sales prices of new homes may be submitted, together with any other documentation requested by the Commissioner. Requests for alternative mortgage limits, together with supporting documentation should be sent to the appropriate HUD field office. The field office will forward the request and supporting material, with the field office's recommendation, to the Commissioner for determination.
+
+(c) If the Alaska Housing Authority, or the Government of Guam, Hawaii, or the Virgin Islands or any agency or instrumentality of those entities, is the mortgagor or the mortgagee, or the mortgagor is regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation to such an extent and in such manner as the Commissioner determines advisable to provide reasonable rental and sales prices and a reasonable return on the investment, any mortgage otherwise eligible for insurance under this subpart may be insured:
+
+(1) In any case where the Alaska Housing Authority, or the government of Guam, Hawaii, the Virgin Islands, or any agency or instrumentality of those entities, is the mortgagor, without regard to any requirement that the mortgagor occupy the dwelling as a principal residence or a secondary residence (as these terms are defined in § 203.18(f)), or meet loan-to-value or comparable limitations based on the failure of the mortgagor to meet this occupancy requirement;
+
+(2) Without regard to any requirement that the mortgagor has paid on account of the property a prescribed percentage of the appraised value of the property; or
+
+(3) Without regard to any requirement that the mortgagor certify that the mortgaged property is free and clear of all liens other than the mortgage offered for insurance and that there will not be any unpaid obligations contracted in connection with the mortgage transaction or the purchase of the mortgaged property.
+
+(d) The provisions of § 203.28 requiring economic soundness shall not be applicable to mortgages covering property located in Alaska, in Guam, in Hawaii, or in the Virgin Islands, but the Commissioner shall find that the property or project is an acceptable risk, giving consideration to the acute housing shortage in Alaska, Guam, Hawaii, or the Virgin Islands.
+
+(Approved by the Office of Management and Budget under control number 2502-0302)[36 FR 24508, Dec. 22, 1971, as amended at 49 FR 14338, Apr. 11, 1984; 55 FR 34804, Aug. 24, 1990; 56 FR 18948, Apr. 24, 1991; 64 FR 14569, Mar. 25, 1999]

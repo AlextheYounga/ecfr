@@ -1,0 +1,3 @@
+##### § 3280.901 Scope. #####
+
+Subpart J of this standard covers the general requirement for designing the structure of the manufactured home to fully withstand the adverse effects of transportation shock and vibration without degradation of the integrated structure or of its component parts and the specific requirements pertaining to the transportation system and its relationship to the structure.

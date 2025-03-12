@@ -1,0 +1,25 @@
+##### § 891.600 Responsibilities of Borrower. #####
+
+(a) *Marketing.* (1) The Borrower must commence and continue diligent marketing activities not later than 90 days before the anticipated date of availability for occupancy of the first unit of the project. Market activities shall include the provision of notices of availability of housing under the program to operators of temporary housing for the homeless in the same housing market.
+
+(2) Marketing must be done in accordance with the HUD-approved affirmative fair housing marketing plan and all Federal, State, or local fair housing and equal opportunity requirements. The purpose of the plan and requirements is to achieve a condition in which eligible families of similar income levels in the same housing market have a like range of housing choices available to them regardless of discriminatory considerations, such as their race, color, creed, religion, familial status, disability, sex or national origin. Marketing must also be done in accordance with the communication and notice requirements of Section 504 at 24 CFR 8.6 and 24 CFR 8.54.
+
+(3) At the time of HAP contract execution, the Borrower must submit to HUD a list of leased and unleased assisted units, with a justification for the unleased units, in order to qualify for vacancy payments for the unleased units.
+
+(b) *Management and maintenance.* The Borrower is responsible for all management functions. These functions include selection and admission of tenants, required reexaminations of incomes for families occupying assisted units (or residential spaces, as applicable), collection of rents, termination of tenancy and eviction, and all repair and maintenance functions (including ordinary and extraordinary maintenance and replacement of capital items). All functions must be performed in compliance with equal opportunity requirements.
+
+(c) *Contracting for services.* (1) With HUD approval, the Borrower may contract with a private or public entity for performance of the services or duties required in paragraphs (a) and (b) of this section. However, such an arrangement does not relieve the Borrower of responsibility for these services and duties. All such contracts are subject to the restrictions governing prohibited contractual relationships described in §§ 891.130 and 891.505, if applicable. (These prohibitions do not extend to management contracts entered into by the Borrower with the Sponsor or its nonprofit affiliate).
+
+(2) Consistent with the objectives of Executive Order No. 11625 (36 FR 19967, 3 CFR, 1971-1975 Comp., p. 616; as amended by Executive Order No. 12007 (42 FR 42839, 3 CFR, 1977 Comp., p. 139; unless otherwise noted); Executive Order No. 12432 (48 FR 32551, 3 CFR, 1983 Comp., p. 198; unless otherwise noted); and Executive Order No. 12138 (44 FR 29637, 3 CFR, 1979 Comp., p. 393; unless otherwise noted), the Borrower will promote awareness and participation of minority and women's business enterprises in contracting and procurement activities.
+
+(d) *Submission of financial and operating statements.* The Borrower must submit to HUD:
+
+(1) Within 60 days after the end of each fiscal year of project operations, financial statements for the project audited by an independent public accountant and in the form required by HUD; and
+
+(2) Other statements regarding project operation, financial conditions and occupancy as HUD may require to administer the housing assistance payments contract (HAP contract) or the project assistance contract (PAC), as applicable, and to monitor project operations.
+
+(e) *Use of project funds.* The Borrower shall maintain a separate project fund account in a depository or depositories that are members of the Federal Deposit Insurance Corporation or National Credit Union Share Insurance Fund and shall deposit all rents, charges, income and revenues arising from project operation or ownership to this account. All project funds are to be deposited in Federally-insured accounts. All balances shall be fully insured at all times, to the maximum extent possible. Project funds must be used for the operation of the project (including required insurance coverage), to make required principal and interest payments on the Section 202 loan, and to make required deposits to the replacement reserve under §§ 891.605 and 891.745 (as applicable), in accordance with a HUD-approved budget. Any project funds in the project funds account (including earned interest) following the expiration of the fiscal year shall be deposited in a Federally-insured residual receipts account within 60 days following the end of the fiscal year. Withdrawals from this account may be made only for project purposes and with the approval of HUD. If there are funds remaining in the residual receipts account when the mortgage is satisfied, such funds shall be returned to HUD.
+
+(f) *Reports.* The Borrower shall submit such reports as HUD may prescribe to demonstrate compliance with applicable civil rights and equal opportunity requirements.
+
+(Approved by the Office of Management and Budget under control number 2502-0371)

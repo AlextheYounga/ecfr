@@ -1,5 +1,7 @@
 ##### § 100.500 Discriminatory effect prohibited. #####
 
+Link to an amendment published at 88 FR 19500, Mar. 31, 2023.
+
 (a) *General.* Liability may be established under the Fair Housing Act based on a specific policy's or practice's discriminatory effect on members of a protected class under the Fair Housing Act even if the specific practice was not motivated by a discriminatory intent.
 
 (b) *Pleading stage.* At the pleading stage, to state a discriminatory effects claim based on an allegation that a specific, identifiable policy or practice has a discriminatory effect, a plaintiff or charging party (hereinafter, “plaintiff”) must sufficiently plead facts to support each of the following elements:

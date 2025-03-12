@@ -1,0 +1,3 @@
+##### § 248.3 Applicability. #####
+
+The requirements of subparts B and C of this part apply to any project that is eligible low income housing, as defined in subparts B and C of this part respectively, on or after November 1, 1987, except that such requirements shall not apply to a project which receives assistance under title IV, subtitle B of the Cranston-Gonzalez National Affordable Housing Act in connection with a homeownership program approved by the Commissioner thereunder.

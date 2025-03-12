@@ -1,0 +1,7 @@
+##### § 232.615 Eligible borrowers. #####
+
+(a) In order to be eligible as a borrower under this subpart the applicant shall be a profit or non-profit entity, which owns a nursing home or intermediate care facility for which the Secretary of Health and Human Services has determined that the installation of fire safety equipment in such facility is necessary to meet the applicable requirements of the Secretary of Health and Human Services for providers of services under Title XVIII and Title XIX of the Social Security Act and that upon completion of the installation of such equipment the nursing home or intermediate care facility will meet the applicable fire safety requirements of HHS. Until the termination of all obligations of the Commissioner under an insurance contract under this subpart and during such further period of time as the Commissioner shall be the owner, holder, or reinsurer of the loan, the borrower shall be regulated or restricted by the Commissioner as to methods of operation including requirements for maintenance of fire safety equipment.
+
+(b) Also eligible as a borrower shall be a profit or nonprofit entity which owns an assisted living facility or board and care home for which HUD has determined that the installation of fire safety equipment is approvable under the definition contained in § 232.500(c).
+
+[39 FR 28966, Aug. 12, 1974; 39 FR 30349, Aug. 22, 1974, as amended at 50 FR 37523, Sept. 16, 1985; 59 FR 61228, Nov. 29, 1994; 80 FR 48028, Aug. 11, 2015]

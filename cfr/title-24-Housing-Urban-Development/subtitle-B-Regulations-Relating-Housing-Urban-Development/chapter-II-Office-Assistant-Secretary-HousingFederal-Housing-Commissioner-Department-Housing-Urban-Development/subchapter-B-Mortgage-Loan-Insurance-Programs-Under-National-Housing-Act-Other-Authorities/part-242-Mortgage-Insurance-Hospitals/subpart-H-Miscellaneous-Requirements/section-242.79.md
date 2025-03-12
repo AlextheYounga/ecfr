@@ -1,0 +1,3 @@
+##### § 242.79 Environmental quality determinations and standards. #####
+
+Requirements set forth in 24 CFR part 50, “Protection and Enhancement of Environmental Quality,” 24 CFR part 51, “Environmental Criteria and Standards,” and 24 CFR part 55, “Floodplain Management,” governing environmental review responsibilities (as applicable) and any additional environmental standards, reviews, or determinations required by HUD apply to this program.

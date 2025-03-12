@@ -1,0 +1,3 @@
+##### § 970.23 Costs of demolition and relocation of displaced tenants. #####
+
+Where HUD has approved demolition of a project, or a portion of a project, and the proposed action is part of a program under the Capital Fund Program (24 CFR part 905), the costs of demolition and of relocation of displaced residents may be included in the budget funded with capital funds pursuant to section 9(d) of the Act (42 U.S.C. 1437g(d)) or awarded HOPE VI or other eligible HUD funds.

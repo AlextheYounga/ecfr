@@ -1,0 +1,3 @@
+##### § 60-4.7 Effect on other regulations. #####
+
+The regulations in this part are in addition to the regulations contained in this chapter which apply to construction contractors and subcontractors generally. See particularly, 41 CFR 60-1.4 (a), (b), (c), (d), and (e); 60-1.5; 60-1.7; 60-1.8; 60-1.26; 60-1.29; 60-1.30; 60-1.32; 60-1.41; 60-1.42; 60-1.43; and 41 CFR part 60-3; part 60-20; part 60-30; part 60-40; and part 60-50.

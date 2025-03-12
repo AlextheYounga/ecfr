@@ -1,0 +1,3 @@
+##### § 234.65 Nature of title. #####
+
+A mortgage, to be eligible for insurance, shall be on a fee interest in, or on a leasehold interest in, a one-family unit in a project including an undivided interest in the common areas and facilities, and such restricted common areas and facilities as may be designated. To be eligible, a leasehold interest shall be under a lease for not less than 99 years which is renewable, or under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.

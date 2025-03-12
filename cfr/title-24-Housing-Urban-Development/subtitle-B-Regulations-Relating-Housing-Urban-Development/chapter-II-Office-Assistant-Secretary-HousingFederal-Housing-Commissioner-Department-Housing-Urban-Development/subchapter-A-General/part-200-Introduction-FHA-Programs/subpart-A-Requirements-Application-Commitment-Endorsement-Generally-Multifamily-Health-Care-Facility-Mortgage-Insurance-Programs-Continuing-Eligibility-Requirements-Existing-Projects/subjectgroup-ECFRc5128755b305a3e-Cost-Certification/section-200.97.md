@@ -1,0 +1,7 @@
+##### § 200.97 Adjustments resulting from cost certification. #####
+
+(a) *Fee simple site.* Upon receipt of the mortgagor's certification of actual cost there shall be added to the total amount thereof the Commissioner's estimate of the fair market value of any land included in the mortgage security and owned by the mortgagor in fee, such value being prior to the construction of the improvements.
+
+(b) *Leasehold site.* In the event the land is held under a leasehold or other interest less than a fee, the cost, if any, of acquiring the leasehold or other interest is considered an allowable expense which may be added to actual cost provided that in no event shall such amount be in excess of the fair market value of such leasehold or other interest exclusive of proposed improvements.
+
+(c) *Adjustment.* If the amount calculated in accordance with paragraphs (a) or (b) of this section exceeds the statutory dollar amount limits or loan ratio limits permitted by the section of Act under which the mortgage is to be insured, or program loan ratio limits established by the Commissioner in the absence of statutory limits, the amount must be reduced to the applicable limits before final endorsement.

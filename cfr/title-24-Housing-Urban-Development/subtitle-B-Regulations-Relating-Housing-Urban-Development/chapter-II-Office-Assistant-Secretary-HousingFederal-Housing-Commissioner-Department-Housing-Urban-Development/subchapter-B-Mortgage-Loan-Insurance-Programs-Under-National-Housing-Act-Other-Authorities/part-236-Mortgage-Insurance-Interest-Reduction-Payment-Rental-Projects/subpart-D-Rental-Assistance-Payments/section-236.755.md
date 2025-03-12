@@ -1,0 +1,5 @@
+##### § 236.755 Housing owner's obligation under contract to report tenant income increase. #####
+
+The rental assistance contract shall contain a provision obligating the housing owner to notify the Secretary upon receiving a report from a tenant of an increase in the tenant's income resulting in the tenant's ability to pay the approved basic monthly rental (plus, where applicable, the utility allowance established for utility charges paid by the tenant) with the amount the tenant is required to pay for rent in accordance with § 236.735. The contract shall also obligate the housing owner, upon failing to notify the Secretary when a report of such increases in income is received from a tenant, to reimburse the Secretary for any rental assistance payments made during the period following receipt of such report when the tenant is receiving the increased income.
+
+[48 FR 13982, Apr. 1, 1983]

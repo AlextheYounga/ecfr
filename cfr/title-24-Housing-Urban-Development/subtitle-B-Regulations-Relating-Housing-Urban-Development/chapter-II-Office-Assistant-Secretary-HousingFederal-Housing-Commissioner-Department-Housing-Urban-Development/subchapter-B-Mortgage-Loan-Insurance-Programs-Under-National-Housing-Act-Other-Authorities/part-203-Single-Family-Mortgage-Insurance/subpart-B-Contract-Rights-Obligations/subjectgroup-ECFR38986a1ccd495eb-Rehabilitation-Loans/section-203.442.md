@@ -1,0 +1,3 @@
+##### § 203.442 Contract created by Insurance Certificate or by endorsement. #####
+
+The loan is insured from the date of the issuance of an Insurance Certificate or from the date of the endorsement of the note. The Commissioner and the lender shall thereafter be bound by the Act and the regulations in §§ 203.440 *et seq.* with the same force and to the same extent as if a separate contract had been executed relating to the insured loan.

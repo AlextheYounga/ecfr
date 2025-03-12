@@ -1,0 +1,3 @@
+##### § 242.72 Leasing of hospital. #####
+
+Leasing of a hospital in its entirety is prohibited. Notwithstanding this prohibition, any proposal in which leasing of the entire facility is a factor due to state law prohibitions against the mortgaging of health care facilities by state entities shall be considered on a case-by-case basis. Also, leasing of a hospital that has an existing Section 242-insured loan is permitted if HUD determines that leasing is necessary to reduce the risk of default by a financially troubled hospital.

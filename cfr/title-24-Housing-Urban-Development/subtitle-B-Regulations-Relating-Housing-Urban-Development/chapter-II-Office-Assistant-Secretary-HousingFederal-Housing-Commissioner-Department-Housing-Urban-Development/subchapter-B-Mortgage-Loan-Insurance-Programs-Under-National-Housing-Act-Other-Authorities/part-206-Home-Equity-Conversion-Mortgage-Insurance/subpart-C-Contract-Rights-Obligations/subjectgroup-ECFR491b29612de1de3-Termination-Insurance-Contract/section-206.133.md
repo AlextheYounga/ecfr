@@ -1,0 +1,15 @@
+##### § 206.133 Termination of insurance contract. #####
+
+(a) *Payment of the mortgage.* The contract of insurance shall be terminated if the mortgage is paid in full.
+
+(b) *Acquisition of title.* (1) If the mortgagee or a party other than the mortgagee acquires title at a foreclosure sale, or the mortgagee acquires title by a deed in lieu of foreclosure, and the mortgagee notifies the Commissioner that a claim for the payment of the insurance benefits will not be presented, the contract of insurance shall be terminated.
+
+(2) For HECMs with Case Numbers assigned on or after September 19, 2017, if the mortgagee or a party other than the mortgagee acquires title at a foreclosure sale or the mortgagee acquires title by a deed in lieu of foreclosure and a claim for the payment of the insurance benefits will be presented, the contract of insurance shall be terminated as of claim payment.
+
+(c) *Mortgagee fails to make payments.* If the mortgagee fails to make the payments to the borrower as required under the mortgage, and does not reimburse the Commissioner or assign the mortgage to the Commissioner within 30 days from the demand by the Commissioner for reimbursement or assignment, the contract of insurance shall automatically terminate. The Commissioner may later reinstate the contract of insurance, which shall continue in force as if no termination had occurred, upon reimbursement with interest as provided in § 206.121. Upon reinstatement, the mortgagee shall be liable for all MIP which would have been due if no termination had occurred, including late charge and interest as provided in § 206.113.
+
+(d) *Notice of termination.* The mortgagee shall give written notice to the Commissioner, or other notice acceptable to the Commissioner, within 15 days of the occurrence of an event under paragraphs (a) and (b) of this section. No contract of insurance shall be terminated under paragraphs (a) or (b) of this section unless such notice is given.
+
+(e) *Voluntary termination.* The mortgagor and the mortgagee may jointly request the Commissioner to approve the voluntary termination of the mortgage insurance contract. Prior to approval, the Commissioner shall make certain that the borrower is aware of the consequences which could arise out of the voluntary termination of the contract of insurance. The mortgagee shall cancel the insurance endorsement on the Mortgage Insurance Certificate or Note upon receipt of notice from the Commissioner that the contract of insurance is terminated. Notwithstanding any provision in a mortgage instrument, there shall be no voluntary termination charge due the Commissioner on account of the voluntary termination of any mortgage insurance contract where the request for termination is received by the Commissioner.
+
+(f) *Effect of termination.* When the insurance contract is terminated, all rights of the mortgagee shall terminate, including the right to file a claim for insurance benefits. All obligations of the Commissioner shall also cease immediately.

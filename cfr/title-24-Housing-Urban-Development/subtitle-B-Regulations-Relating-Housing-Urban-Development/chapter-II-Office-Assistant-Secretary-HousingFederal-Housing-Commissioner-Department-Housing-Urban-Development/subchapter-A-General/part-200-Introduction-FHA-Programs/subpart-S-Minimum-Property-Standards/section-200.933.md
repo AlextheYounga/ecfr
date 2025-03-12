@@ -1,0 +1,5 @@
+##### § 200.933 Changes in minimum property standards. #####
+
+Changes in the Minimum Property Standards will generally be made every three years. Changes will be made in accordance with HUD policy for the adoption of rules and regulations set forth in part 10 of this title. Notice of such changes will be published in the Federal Register. As the changes are made, they will be incorporated into the volumes of the Minimum Property Standards to which they apply. The volumes available for public examination and for purchase will contain all changes up to the date of examination or purchase. An official, historic file of such changes will be available in the office of the Rules Docket Clerk in the HUD Central Office in Washington, DC, and in each HUD Regional, Area, and Insuring Office. A similar copy of the standards will also be maintained in the Office of the Federal Register, Washington, DC.
+
+[39 FR 26895, July 24, 1974, as amended at 58 FR 60250, Nov. 15, 1993]

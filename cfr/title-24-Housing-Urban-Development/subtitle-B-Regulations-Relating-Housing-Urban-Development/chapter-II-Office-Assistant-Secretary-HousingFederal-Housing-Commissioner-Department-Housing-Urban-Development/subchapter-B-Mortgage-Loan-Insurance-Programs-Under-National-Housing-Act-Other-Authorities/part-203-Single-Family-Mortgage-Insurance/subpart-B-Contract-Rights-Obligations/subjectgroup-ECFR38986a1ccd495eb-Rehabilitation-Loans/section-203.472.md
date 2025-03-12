@@ -1,0 +1,3 @@
+##### § 203.472 Relief for borrower in military service. #####
+
+If the borrower is a person in military service, as defined in the Soldiers' and Sailors' Civil Relief Act of 1940, the lender may, by written agreement with the borrower, postpone for the period of military service, and 3 months thereafter, any part of the monthly payment, which represents amortization of principal. The agreement shall contain a provision for the resumption of monthly payments thereafter in amounts which will completely amortize the obligation within its original maturity. The agreement shall in no way affect the amount of the annual insurance premium which shall continue to be calculated in accordance with the original amortization provisions of the loan.

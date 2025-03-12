@@ -1,0 +1,3 @@
+##### § 236.501 Interest reduction payments contract. #####
+
+This subpart shall constitute the interest reduction payment contract between the mortgagee and the Commissioner with respect to a mortgage insured under section 236 of the National Housing Act. The endorsement of the mortgage for insurance shall constitute the execution of the interest reduction payment contract with respect to the mortgage being insured.

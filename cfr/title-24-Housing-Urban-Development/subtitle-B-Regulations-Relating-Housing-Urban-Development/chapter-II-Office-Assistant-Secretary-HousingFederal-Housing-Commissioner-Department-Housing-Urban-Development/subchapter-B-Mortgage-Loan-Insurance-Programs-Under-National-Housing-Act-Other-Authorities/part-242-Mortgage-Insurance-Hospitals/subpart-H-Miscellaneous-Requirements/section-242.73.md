@@ -1,0 +1,3 @@
+##### § 242.73 Waiver of eligibility requirements for mortgage insurance. #####
+
+The Secretary may insure under this part, without regard to any limitation upon eligibility contained in this subpart, any mortgage assigned to him or her in connection with payment under a contract of mortgage insurance, or executed in connection with a sale by him or her of any property previously insured under this part and acquired subsequent to a claim.

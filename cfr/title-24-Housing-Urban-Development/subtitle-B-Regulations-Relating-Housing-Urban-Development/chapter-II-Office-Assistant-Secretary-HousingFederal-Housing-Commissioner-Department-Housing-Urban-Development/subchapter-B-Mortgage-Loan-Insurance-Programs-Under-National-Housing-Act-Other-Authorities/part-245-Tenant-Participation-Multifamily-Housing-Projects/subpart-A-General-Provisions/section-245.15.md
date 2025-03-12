@@ -1,0 +1,7 @@
+##### § 245.15 Notice to tenants. #####
+
+(a) Whenever a mortgagor is required under subparts D or E of this part to serve notice on the tenants of a project, the notice must be served by delivery, except, for a high-rise project, the notice may be served either by delivery or by posting. If service is made by delivery, a copy of the notice must be delivered directly to each unit in the project or mailed to each tenant. If service is made by posting, the notice must be posted in at least three conspicuous places within each building in which the affected dwelling units are located and, during any prescribed tenant period, in a conspicuous place at the address stated in the notice where the materials in support of the mortgagor's proposed action are to be made available for inspection and copying. Posted notices must be maintained intact and in legible form during any prescribed notice period.
+
+(b) For purposes of computing time periods following service of notice, service is effected, in the case of service by delivery, when all notices have been delivered or mailed and, in the case of service by posting, when all notices have been initially posted.
+
+[50 FR 32402, Aug. 12, 1985, as amended at 61 FR 57961, Nov. 8, 1996]

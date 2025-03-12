@@ -1,0 +1,17 @@
+##### § 3282.54 Public information. #####
+
+(a) *General.* Subject to the provisions of 24 CFR part 15 covering the production or disclosure of material or information and the provisions of 24 CFR part 16 at 40 FR 39729 relating to the Privacy Act, and except as otherwise provided by paragraphs (b), (c), (d), and (e) of this section, the Secretary may make available to the public:
+
+(1) Any information which may indicate the existence of an imminent safety hazard, and
+
+(2) Any information which may indicate the failure of a manufactured home to comply with applicable manufactured home construction and safety standards, and
+
+(3) Such other information as the Secretary determines is necessary to carry out the Secretary's functions under the Act.
+
+(b) *Protected information.* Data and information submitted or otherwise provided to the Secretary or an agent of the Secretary or a PIA or SAA which fall within the definitions of a trade secret or confidential commercial or financial information are exempt from disclosure under this section, only if the party submitting or providing the information so requests under paragraph (c) of this section. However, the Secretary may disclose such information to any person requesting it after deletion of the portions which are exempt, or in such combined or summary form as does not disclose the portions which are exempt from disclosure or in its entirety in accordance with section 614 of the Act, U.S.C. 5413.
+
+(c) *Obtaining exemption.* Any party submitting any information to the Secretary in any form under this part, or otherwise in relation to the program established by the Act shall, if the party desires the information to be exempt from disclosure, at the time of submittal of the information or at any time thereafter, request that the information or any part thereof be protected from disclosure. The request for nondisclosure shall include the basis for the request under the Act or other authority and complete justification supporting the claim that the material should be exempt from disclosure. The request should also include a statement of the information in such combined or summary form that alleged trade secrets or other protected information and the identity of the submitting party would not be disclosed. This request need not be made with respect to information which was submitted to the Secretary, an SAA or a PIA prior to the effective date of these regulations.
+
+(d) *Request for information from PIAs or SAAs.* Whenever a PIA or SAA receives requests for disclosure of information, it shall disclose the information unless the party from which the information was originally obtained has submitted to the PIA or SAA a request that the information not be disclosed under paragraph (c) of this section, except that the PIA or SAA shall be governed by the provisions of 24 CFR part 16 (40 FR 39729) relating to the Privacy Act which may limit the disclosure of information. If a request for nondisclosure under paragraph (c) of this section has been received with respect to information whose disclosure is requested, the PIA or SAA shall refer the matter to the Secretary within 5 days of the request for disclosure. If a PIA or SAA receives a request for disclosure of information related to this program, which information was submitted to the PIA or SAA prior to the effective date of these regulations, the PIA or SAA shall refer the request for nondisclosure and required information to the Secretary.
+
+[41 FR 19852, May 13, 1976, as amended at 61 FR 10860, Mar. 15, 1996]

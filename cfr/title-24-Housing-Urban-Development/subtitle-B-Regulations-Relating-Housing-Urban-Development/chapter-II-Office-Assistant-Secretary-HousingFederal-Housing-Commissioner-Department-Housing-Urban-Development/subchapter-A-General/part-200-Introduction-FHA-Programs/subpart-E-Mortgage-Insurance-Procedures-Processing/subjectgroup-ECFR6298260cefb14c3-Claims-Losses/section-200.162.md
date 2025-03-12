@@ -1,0 +1,3 @@
+##### § 200.162 Certificates of claim. #####
+
+The certificate of claim issued to the mortgagee at the time debentures are issued constitutes an agreement by the FHA that after the FHA has recovered its investment in a particular property any excess over and above such investment is available for payment on the certificate of claim. Certificates of claim bear interest at the rate of 3 percent per annum.

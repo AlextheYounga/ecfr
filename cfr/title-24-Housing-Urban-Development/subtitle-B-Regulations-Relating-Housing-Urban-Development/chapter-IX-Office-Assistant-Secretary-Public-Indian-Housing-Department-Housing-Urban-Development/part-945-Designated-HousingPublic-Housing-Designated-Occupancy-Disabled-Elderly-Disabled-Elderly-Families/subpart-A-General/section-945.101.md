@@ -1,0 +1,3 @@
+##### § 945.101 Purpose. #####
+
+The purpose of this part is to provide for designated housing as authorized by section 7 of the U.S. Housing Act of 1937 (42 U.S.C. 1437e). Section 7 provides public housing agencies with the option, subject to the requirements and procedures of this part, to designate public housing projects, or portions of public housing projects, for occupancy by disabled families, elderly families, or mixed populations of disabled families and elderly families.

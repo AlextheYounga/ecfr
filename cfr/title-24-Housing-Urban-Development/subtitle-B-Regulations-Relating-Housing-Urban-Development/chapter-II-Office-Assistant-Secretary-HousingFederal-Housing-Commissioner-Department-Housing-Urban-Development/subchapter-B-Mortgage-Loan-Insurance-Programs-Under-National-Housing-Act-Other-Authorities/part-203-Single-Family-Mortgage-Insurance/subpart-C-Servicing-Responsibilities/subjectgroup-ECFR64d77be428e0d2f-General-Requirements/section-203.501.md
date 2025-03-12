@@ -1,0 +1,5 @@
+##### § 203.501 Loss mitigation. #####
+
+Mortgagees must consider the comparative effects of their elective servicing actions, and must take those appropriate actions which can reasonably be expected to generate the smallest financial loss to the Department. Such actions include, but are not limited to, deeds in lieu of foreclosure under § 203.357, pre-foreclosure sales under § 203.370, partial claims under § 203.414, assumptions under § 203.512, special forbearance under §§ 203.471 and 203.614, and recasting of mortgages under § 203.616. HUD may prescribe conditions and requirements for the appropriate use of these loss mitigation actions, concerning such matters as owner-occupancy, extent of previous defaults, prior use of loss mitigation, and evaluation of the mortgagor's income, credit and property.
+
+[59 FR 50145, Sept. 30, 1994, as amended at 61 FR 35019, July 3, 1996]

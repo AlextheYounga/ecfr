@@ -1,0 +1,3 @@
+##### § 242.54 Nondiscrimination. #####
+
+Hospital facilities financed with mortgages insured under this part must be made available without discrimination as to race, color, religion, sex, age, disability, or national origin. Hospitals must be operated in compliance with all applicable civil rights laws and regulations, including 24 CFR part 200, subpart J (Equal Employment Opportunity), and the Americans with Disabilities Act (42 U.S.C. 12101 *et seq.*). Racially restrictive covenants are per se illegal and their use is prohibited. The aforesaid provisions regarding age and sex discrimination do not affect the eligibility of hospitals for women and children.

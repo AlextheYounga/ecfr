@@ -1,0 +1,9 @@
+##### § 3288.30 Screening of dispute resolution request. #####
+
+(a) *Review for sufficiency.* When the request for dispute resolution has been received by the dispute resolution provider, a screening neutral will review the sufficiency of the information provided in the request for dispute resolution and determine if the dispute resolution process should proceed. If the screening neutral determines that a defect is properly alleged and timely reported, notice of the request will be forwarded, as provided in § 3288.33, to the manufacturer, retailer, and installer, as appropriate and to the extent the appropriate parties can be identified based on the information in the request.
+
+(b) *Insufficient information.* If a request for dispute resolution is lacking any information necessary to determine if the dispute resolution process should proceed, the screening neutral will contact the requester or the parties about supplementing the initial request. If information necessary to qualify the matter for the HUD Manufactured Home Dispute Resolution Program is not received within a reasonable time established by the screening neutral, the request for dispute resolution will be considered withdrawn.
+
+(c) *Denial of a dispute.* Denial by all of the parties that there is a dispute does not preclude the dispute resolution process from going forward to mediation. A screening neutral's determination that a defect is properly alleged is prima facie evidence of a dispute. If the defect has not been corrected or repaired, the matter will be referred to mediation.
+
+(d) *Determination of unreasonable risk.* If the screening neutral determines there is sufficient documentation of an alleged defect presenting an unreasonable risk of injury or death, he or she will send a copy of the request to HUD.

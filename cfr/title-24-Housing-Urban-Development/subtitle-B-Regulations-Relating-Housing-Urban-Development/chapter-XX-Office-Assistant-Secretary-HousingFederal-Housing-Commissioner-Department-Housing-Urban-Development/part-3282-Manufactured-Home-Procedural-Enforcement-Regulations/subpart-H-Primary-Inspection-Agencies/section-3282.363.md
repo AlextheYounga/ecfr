@@ -1,0 +1,3 @@
+##### § 3282.363 Right of entry and inspection. #####
+
+Each primary inspection agency shall secure from each manufacturer and manufacturing plant under its surveillance an agreement that the Secretary, the State Administrative Agency and the primary inspection agency have the right to inspect the plant and its manufactured home inspection, labeling, and delivery records, and any of its manufactured homes in the hands of retailers or distributors at any reasonable time.

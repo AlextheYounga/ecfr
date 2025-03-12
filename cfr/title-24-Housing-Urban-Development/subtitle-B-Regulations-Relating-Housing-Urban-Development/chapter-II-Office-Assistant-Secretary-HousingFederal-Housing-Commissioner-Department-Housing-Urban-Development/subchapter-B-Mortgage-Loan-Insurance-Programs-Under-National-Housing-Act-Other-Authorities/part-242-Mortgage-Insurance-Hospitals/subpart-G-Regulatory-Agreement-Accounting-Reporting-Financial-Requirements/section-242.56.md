@@ -1,0 +1,5 @@
+##### § 242.56 Form of regulation. #####
+
+As long as HUD is the insurer or holder of the mortgage, all mortgagors shall be regulated by HUD through the use of a regulatory agreement in a published format determined by HUD and such additional covenants and restrictions as may be determined necessary by HUD on a case-by-case basis. In addition, all mortgagors shall be subject to the provisions of 24 CFR part 24 and such other enforcement provisions as may be applicable. The mortgagor shall be subject to monitoring by HUD and its agents and contractors, on an ongoing basis for the life of the insured mortgage to ensure against the risk of default, and the mortgagor must make its financial records available to HUD and its agents and contractors upon request. In those cases in which the hospital facility is leased as permitted by § 242.72, the provisions of this section also shall apply to the lessee.
+
+[72 FR 67546, Nov. 28, 2007, as amended at 73 FR 35923, June 25, 2008]

@@ -1,0 +1,3 @@
+##### § 200.1540 Imminent harm notice of action. #####
+
+The Board may issue an imminent harm notice of action to terminate a MAP lender, or to place a MAP lender on probation or suspension without advance notice to the MAP lender in those instances where the Board determines there exists a need to protect the financial interest of HUD from imminent harm. In all such instances, the Board shall notify the lender of the Board's decision promptly and give the reasons for the decision in accordance with § 200.1535(g)(2) and (3). The lender shall have the right to submit materials to the Board and to appear before the Board to seek prompt reconsideration of the Board's decision in accordance with the procedures of § 200.1535.

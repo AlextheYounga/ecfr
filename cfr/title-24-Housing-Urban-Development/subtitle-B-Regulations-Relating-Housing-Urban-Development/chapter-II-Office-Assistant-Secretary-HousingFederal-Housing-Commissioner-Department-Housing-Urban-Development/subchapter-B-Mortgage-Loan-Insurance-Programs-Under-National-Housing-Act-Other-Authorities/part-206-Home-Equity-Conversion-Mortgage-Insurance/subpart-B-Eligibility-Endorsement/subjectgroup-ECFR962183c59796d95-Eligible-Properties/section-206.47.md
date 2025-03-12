@@ -1,0 +1,11 @@
+##### § 206.47 Property standards; repair work. #####
+
+(a) *Need for repairs.* Properties must meet the applicable property requirements of the Commissioner in order to be eligible. Properties that do not meet the property requirements must be repaired in order to ensure that the repaired property will serve as adequate security for the insured mortgage.
+
+(b) *Assurance that repairs are made.* The mortgage may be closed before the repair work is completed if the Commissioner estimates that the cost of the remaining repair work will not exceed 15 percent of the maximum claim amount and the mortgage contains provisions approved by the Commissioner concerning payment for the repairs.
+
+(c) *Reimbursement to contractor.* When repair work is completed after closing by a contractor, the mortgagee shall cause one or more inspections of the property to be made by an inspector or other qualified individual acceptable to the Commissioner in order to ensure that the repair work is satisfactory, and prior to the release of funds from the Repair Set Aside. The mortgagee shall hold back a portion of the contract price attributable to the work done before each interim release of funds, and the total of the hold backs will be released after the final inspection and approval of the release by the mortgagee. The mortgagee shall ensure that all mechanics' and materialmen's liens are released of record.
+
+(d) *Reimbursement to borrower.* The mortgagee shall not reimburse the borrower for any labor the borrower performed. The mortgagee may reimburse the borrower for the actual cost of repair materials from the Repair Set Aside, provided that the mortgagee causes one or more inspections of the property by an inspector or other qualified individual acceptable to the Commissioner and meets all reimbursement requirements established by the Commissioner.
+
+(e) *HECM for Purchase.* For HECM for Purchase transactions, where major property deficiencies threaten the health and safety of the homeowner or jeopardize the soundness and security of the property, all repairs must be completed by the seller prior to closing. Appraisers shall complete the appraisal report as “Subject To” the completion of the repairs.

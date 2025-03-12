@@ -1,0 +1,5 @@
+##### § 206.302 Establishment of the HECM Counselor Roster. #####
+
+(a) *HECM Counselor Roster.* FHA maintains a Roster of HECM counselors. Only counselors listed on the Roster and employed by a participating agency are approved to provide HECM counseling. A prospective borrower applying for a HECM loan to be insured by FHA must receive the required HECM counseling from one of the counselors on the Roster.
+
+(b) *Disclaimer.* The inclusion of a HECM counselor on the Roster does not create or imply a warranty or endorsement by FHA of the listed counselor to a prospective HECM borrower or to any other organization or individual, nor does it represent a warranty of any counseling provided by the listed HECM counselor. The inclusion of a counselor on the Roster means that a listed counselor has met the FHA-prescribed qualifications and conditions for inclusion on the Roster and that the counselor is approved to provide HECM counseling by telephone or face-to-face.

@@ -1,0 +1,3 @@
+##### § 241.1215 Calculation of insurance benefits. #####
+
+All of the provisions of § 207.259 of this chapter apply to subpart F of this part, except that if the lender, at the direction of the Commissioner, acquires title to the project at a foreclosure sale instituted by the holder of the senior insured mortgage, the amount of the claim determined under § 207.259(c) of this chapter shall also include an amount bid by the lender to satisfy the senior insured mortgage at the foreclosure sale.

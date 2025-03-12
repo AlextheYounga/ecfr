@@ -1,0 +1,15 @@
+##### § 245.435 Non-insured projects: Conversion from project-paid utilities to tenant-paid utilities or a reduction in tenant utility allowances. #####
+
+(a) In the case of a proposed conversion from project-paid utilities to tenant-paid utilities or a reduction in tenant utility allowances involving a project that is assisted under section 236 of the National Housing Act (12 U.S.C. 1715z-1) or section 101 of the Housing and Urban Development Act of 1965 (12 U.S.C. 1701s) but that does not have a mortgage insured by HUD or held by the Secretary, the provisions of this section and of §§ 245.405 through 245.425 apply to the mortgagor (project owner), except that—
+
+(1) The notice to tenants required under § 245.410 must be modified to reflect the procedural changes made by this section;
+
+(2) The materials (including tenant comments) required to be submitted to HUD under §§ 245.415 and 245.425 must be submitted to the State or local agency administering the Section 236 assistance or rent supplement assistance contracts, rather than to HUD; and
+
+(3) The State or local agency must certify that the mortgagor has complied with the requirements of §§ 245.410, 245.415, 245.416, 245.420, and 245.425.
+
+(b) After the State or local agency has considered the request for approval of a conversion or reduction that meets the requirements of § 245.425, it must make a determination to approve or disapprove the conversion, or to approve, adjust upward or downward, or disapprove the reduction. If the agency determines to approve the conversion or reduction (as originally proposed or as adjusted), it must submit to the appropriate local HUD office the mortgagor's request for approval of the conversion or reduction, along with the comments of the tenants and the mortgagor's evaluation of the comments, and must certify to HUD that the mortgagor is in compliance with the requirements of this subpart. HUD must review the agency's determination and certification and notify the agency of its approval or disapproval of the proposed conversion or of its approval, adjustment upward or downward, or disapproval of the proposed reduction. HUD will not unreasonably withhold approval of a conversion or reduction approved by the State or local agency.
+
+(c) If the agency determines to disapprove the conversion or reduction, there is no HUD review of the agency's determination.
+
+(d) The agency must notify the mortgagor of the final disposition of the request, and it must furnish the mortgagor with a written statement of the reasons for its approval or disapproval. The mortgagor must make the reasons for approval or disapproval known to the tenants, by service of notice on them as provided in § 245.15. If the agency has approved the proposed conversion or a reduction, the notice must set forth the information prescribed in § 245.430(b) (1) and (2).

@@ -1,0 +1,11 @@
+##### § 886.332 Rehabilitation period. #####
+
+(a) *Immediate start of rehabilitation after sales closing.* After the execution of the Agreement and the sales closing, the owner shall immediately proceed with the rehabilitation work as provided in the Agreement. In the event the work is not immediately commenced, diligently continued, and/or completed by the deadline date stated on the Agreement, HUD will have the right, upon written notification to the owner, to rescind the Agreement and the sale, or take other appropriate action.
+
+(b) *Extensions.* Although extensions of time may be granted by HUD upon a written request from the owner stating the grounds for the extension, no increases in Contract Rents shall be granted for delays.
+
+(c) *Changes.* (1) The Owner must submit to HUD for approval any changes from the work specified in the Agreement which would materially reduce or alter the Owner's obligations or the quality or amenities of the project. HUD may condition its approval of such changes on a reduction of the Contract Rents. If changes are made without prior HUD approval, HUD will have the right to take action consistent with the purpose of this subpart, including action intended to preclude the owner from benefiting from a change in the work specified without HUD approval. HUD action shall include but is not limited to reducing the Contract Rents, requiring the owner to remedy the deficiency, or rescission of the Contract of Sale with reimbursement to the owner for the HUD determined reasonable cost of work items completed by the Owner and acceptable to HUD.
+
+(2) Contract Rents for project units being rehabilitated shall not be increased except in accordance with this subpart. Should an increase in Contract Rents be necessitated by changes in local codes or ordinances or other unanticipated changes in work items which could not have been anticipated by HUD, an increase will only be approved if HUD approval is obtained prior to incorporation of any changes in the project.
+
+[44 FR 70365, Dec. 6, 1979, as amended at 58 FR 43722, Aug. 17, 1993]

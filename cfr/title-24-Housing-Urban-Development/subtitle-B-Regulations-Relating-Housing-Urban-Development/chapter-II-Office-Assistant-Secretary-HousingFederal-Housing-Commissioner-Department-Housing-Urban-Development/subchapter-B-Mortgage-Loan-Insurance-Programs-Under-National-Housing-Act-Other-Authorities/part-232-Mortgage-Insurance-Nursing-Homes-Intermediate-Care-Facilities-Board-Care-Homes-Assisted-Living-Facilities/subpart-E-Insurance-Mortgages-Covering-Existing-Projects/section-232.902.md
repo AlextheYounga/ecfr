@@ -1,0 +1,5 @@
+##### § 232.902 Eligible project. #####
+
+Existing projects (with such repairs and improvements as are determined by the Commissioner to be necessary) are eligible for insurance under this subpart. The project must not require substantial rehabilitation and three years must have elapsed from the date of completion of construction or substantial rehabilitation of the project, or from the beginning of occupancy, whichever is later, to the date of application for insurance. In addition, the project must have attained sustaining occupancy (occupancy that produces income sufficient to pay operating expenses, annual debt service and reserve fund for replacement requirements) as determined by the Commissioner, before endorsement of the project for insurance; alternatively, the borrower must provide an operating deficit fund at the time of endorsement for insurance, in an amount, and under an agreement, approved by the Commissioner.
+
+[59 FR 61228, Nov. 29, 1994]

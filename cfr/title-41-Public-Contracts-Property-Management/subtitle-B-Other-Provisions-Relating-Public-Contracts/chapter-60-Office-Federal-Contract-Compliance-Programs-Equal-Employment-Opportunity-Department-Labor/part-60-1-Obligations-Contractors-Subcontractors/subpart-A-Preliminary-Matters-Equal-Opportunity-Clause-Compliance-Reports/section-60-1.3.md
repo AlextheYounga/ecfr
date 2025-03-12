@@ -1,7 +1,5 @@
 ##### § 60-1.3 Definitions. #####
 
-Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
-
 *Administering agency* means any department, agency and establishment in the executive branch of the Government, including any wholly owned Government corporation, which administers a program involving federally assisted construction contracts.
 
 *Administrative law judge* means an administrative law judge appointed as provided in 5 U.S.C. 3105 and subpart B of part 930 of Title 5 of the Code of Federal Regulations (see 37 FR 16787) and qualified to preside at hearings under 5 U.S.C. 557.
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
 
 *Equal opportunity clause* means the contract provisions set forth in § 60-1.4 (a) or (b), as appropriate.
 
-*Essential job functions* - (1) *In general.* The term *essential job functions* means the fundamental job duties of the employment position an individual holds.
+*Essential job functions*—(1) *In general.* The term *essential job functions* means the fundamental job duties of the employment position an individual holds.
 
 (2) A job function may be considered essential if:
 
@@ -68,7 +66,7 @@ Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
 
 (3) For purposes of paragraph (1)(ii) of this definition, “considers the individual for employment in a particular position,” means that the contractor assesses the substantive information provided in the expression of interest with respect to any qualifications involved with a particular position. A contractor may establish a protocol under which it refrains from considering expressions of interest that are not submitted in accordance with standard procedures the contractor establishes. Likewise, a contractor may establish a protocol under which it refrains from considering expressions of interest, such as unsolicited resumes, that are not submitted with respect to a particular position. If there are a large number of expressions of interest, the contractor does not “consider the individual for employment in a particular position” by using data management techniques that do not depend on assessment of qualifications, such as random sampling or absolute numerical limits, to reduce the number of expressions of interest to be considered, provided that the sample is appropriate in terms of the pool of those submitting expressions of interest.
 
-(4) For purposes of paragraph (1)(iii) of this definition, “basic qualifications” means qualifications -
+(4) For purposes of paragraph (1)(iii) of this definition, “basic qualifications” means qualifications—
 
 (i)(A) That the contractor advertises (e.g., posts on its web site a description of the job and the qualifications involved) to potential applicants that they must possess in order to be considered for the position, or
 
@@ -90,8 +88,6 @@ Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
 
 *Order, Executive order,* or *Executive Order 11246* means parts II, III, and IV of the Executive Order 11246 dated September 24, 1965 (30 FR 12319), any Executive order amending such order, and any other Executive order superseding such order.
 
-*Particular religion* means the religion of a particular individual, corporation, association, educational institution, society, school, college, university, or institution of learning, including acceptance of or adherence to sincere religious tenets as understood by the employer as a condition of employment, whether or not the particular religion of an individual employee or applicant is the same as the particular religion of his or her employer or prospective employer.
-
 *Person* means any natural person, corporation, partnership, unincorporated association, State or local government, and any agency, instrumentality, or subdivision of such a government.
 
 *Prime contractor* means any person holding a contract and, for the purposes of subpart B of this part, any person who has held a contract subject to the order.
@@ -108,47 +104,9 @@ Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
 
 *Recruiting and training agency* means any person who refers workers to any contractor or subcontractor or who provides for employment by any contractor or subcontractor.
 
-*Religion* includes all aspects of religious observance and practice, as well as belief.
-
-*Religious corporation, association, educational institution, or society.* (1) Religious corporation, association, educational institution, or society means a corporation, association, educational institution, society, school, college, university, or institution of learning that:
-
-(i) Is organized for a religious purpose;
-
-(ii) Holds itself out to the public as carrying out a religious purpose;
-
-(iii) Engages in activity consistent with, and in furtherance of, that religious purpose; and
-
-(iv)(A) Operates on a not-for-profit basis; or
-
-(B) Presents other strong evidence that its purpose is substantially religious.
-
-(2) Whether an organization's engagement in activity is consistent with, and in furtherance of, its religious purpose is determined by reference to the organization's own sincere understanding of its religious tenets.
-
-(3) To qualify as religious a corporation, association, educational institution, society, school, college, university, or institution of learning may, or may not: Have a mosque, church, synagogue, temple, or other house of worship; or be supported by, be affiliated with, identify with, or be composed of individuals sharing, any single religion, sect, denomination, or other religious tradition.
-
-(4) The following examples apply this definition to various scenarios. It is assumed in each example that the employer is a federal contractor subject to Executive Order 11246.
-
-(i)(A) *Example.* A closely held for-profit manufacturer makes and sells metal candlesticks and other decorative items. The manufacturer's mission statement asserts that it is committed to providing high-quality candlesticks and similar items to all of its customers, a majority of which are churches and synagogues. Some of the manufacturer's items are also purchased by federal agencies for use during diplomatic events and presentations. The manufacturer regularly consults with ministers and rabbis regarding new designs to ensure that they conform to any religious specifications. The manufacturer also advertises heavily in predominantly religious publications and donates a portion of each sale to charities run by churches and synagogues.
-
-(B) *Application.* The manufacturer likely does not qualify as a religious organization. Although the manufacturer provides goods predominantly for religious communities, the manufacturer's fundamental purpose is secular and pecuniary, not religious, as evidenced by its mission statement. Because the manufacturer lacks a religious purpose, it cannot carry out activity consistent with that (nonexistent) religious purpose. And while the manufacturer advertises heavily in religious publications and consults with religious functionaries on its designs, the manufacturer does not identify itself, as opposed to its customers, as religious. Finally, given that the manufacturer is a for-profit entity, it would need to make a strong evidentiary showing that it is a religious organization, which it has not.
-
-(ii)(A) *Example.* A nonprofit organization enters government contracts to provide chaplaincy services to military and federal law-enforcement organizations around the country. The contractor is organized as a non-profit, but it charges the military and other clients a fee, similar to fees charged by other staffing organizations, and its manager and employees all collect a market-rate salary. The organization's articles of incorporation state that its purpose is to provide religious services to members of the same faith wherever they may be in the world, and to educate other individuals about the faith. Similar statements of purpose appear on the organization's website and in its bid responses to government requests for proposals. All employees receive weekly emails, and occasionally videos, about ways to promote faith in the workplace. The employee handbook contains several requirements regarding personal and workplace conduct to ensure “a Christian atmosphere where the Spirit of the Lord can guide the organization's work.”
-
-(B) *Application.* Under these facts, the contractor likely qualifies as a religious organization. The contractor's organizing documents expressly state that its mission is primarily religious in nature. Moreover, the contractor exercises religion through its business activities, which is providing chaplaincy services, and through its hiring and training practices. Through its emails and other communications, the contractor holds itself out as a religious organization to its employees, applicants, and clients. Finally, notwithstanding that the contractor collects a placement fee similar to nonreligious staffing companies, it is organized as a non-profit.
-
-(iii)(A) *Example.* A small catering company provides kosher meals primarily to synagogues and for various events in the Jewish community, but other customers, including federal agencies, sometimes hire the caterer to provide meals for conferences and other events. The company's two owners are Hasidic Jews and its six employees, while not exclusively Jewish, receive instruction in kosher food preparation to ensure such preparation comports with Jewish laws and customs. This additional work raises the company's operating costs higher than were it to provide non-kosher meals. The company's mission statement, which has remained substantially the same since the company was organized, describes its purpose as fulfilling a religious mandate to strengthen the Jewish community and ensure Jewish persons can participate fully in public life by providing kosher meals. The company's “about us” page on its website states that above all else, the company seeks to “honor G-d” and maintain the strength of the Jewish religion through its kosher meal services. The company also donates a portion of its proceeds to charitable projects sponsored by local Jewish congregations. In its advertising and on its website, the company prominently includes religious symbols and text.
-
-(B) *Application.* The company likely qualifies as a religious organization. The company's mission statement and other materials show a religious purpose. Its predominant business activity of providing kosher meals directly furthers and is wholly consistent with that self-identified religious purpose, as are its hiring and training practices. Through its advertising and website, the company holds itself out as a religious organization. Finally, although the company operates on a for-profit basis, the other facts here show strong evidence that the company operates as a religious organization.
-
-(iv)(A) *Example.* A for-profit collector business sells a wide variety of artistic, cultural, religious, and archeological items. The government purchases some of these from time to time for research or aesthetic purposes. The business's mission statement provides that its purpose is to curate the world's treasures to perpetuate its historic, cultural, and religious legacy. Most of the business's customers are private individuals or museums interested in the items as display pieces or for their cultural value. The business's marketing materials include examples of religious iconography and artifacts from a variety of world religions, as well as various cultural and artistic items.
-
-(B) *Application.* The business likely does not qualify as a religious organization. Its mission statement references an arguably religious purpose, namely perpetuating the world's religious legacy, but in context that appears to have more to do with religion's historic value rather than evidencing a religious conviction of the business or its owner. Similarly, it is at best unclear whether the business is engaging in activities in furtherance of this purpose when most of its sales serve no religious purpose. Finally, while the business displays some religious items, these appear to be a minor part of the business's overall presentation and do not convey that the business has a religious identity. The factors to qualify as a religious organization do not appear to be met, especially given that the business as a for-profit entity would need to make a strong evidentiary showing that it is a religious organization.
-
 *Rules, regulations, and relevant orders of the Secretary of Labor* used in paragraph (4) of the equal opportunity clause means rules, regulations, and relevant orders of the Secretary of Labor or his designee issued pursuant to the order.
 
 *Secretary* means the Secretary of Labor, U.S. Department of Labor, or his or her designee.
-
-*Sincere* means sincere under the law applied by the courts of the United States when ascertaining the sincerity of a party's religious exercise or belief.
 
 *Site of construction* means the general physical location of any building, highway, or other change or improvement to real property which is undergoing construction, rehabilitation, alteration, conversion, extension, demolition, or repair and any temporary location or facility at which a contractor, subcontractor, or other participating party meets a demand or performs a function relating to the contract or subcontract.
 
@@ -172,8 +130,4 @@ Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
 
 *United States,* as used herein, shall include the several States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and Wake Island.
 
-(a) *Severability.* Should a court of competent jurisdiction hold any provision(s) of this section to be invalid, such action will not affect any other provision of this section.
-
-(b) [Reserved]
-
-[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015; 85 FR 39846, July 2, 2020; 85 FR 71570, Nov. 10, 2020; 85 FR 79371, Dec. 9, 2020]
+[43 FR 49240, Oct. 20, 1978, as amended at 61 FR 19988, May 3, 1996; 62 FR 44188, Aug. 19, 1997; 62 FR 66971, Dec. 22, 1997; 70 FR 58961, Oct. 7, 2005; 80 FR 54974, Sept. 11, 2015; 85 FR 39846, July 2, 2020; 85 FR 71570, Nov. 10, 2020; 85 FR 79371, Dec. 9, 2020; 88 FR 12861, Mar. 1, 2023]

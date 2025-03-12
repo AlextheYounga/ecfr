@@ -1,0 +1,3 @@
+##### § 3285.405 Severe wind zones. #####
+
+When any part of a home is installed within 1,500 feet of a coastline in Wind Zones II or III, the manufactured home must be designed for the increased requirements, as specified on the home's data plate (refer to § 3280.5(f) of this chapter) in accordance with acceptable engineering practice. Where site or other conditions prohibit the use of the manufacturer's instructions, a registered professional engineer or registered architect, in accordance with acceptable engineering practice, must design anchorage for the special wind conditions.

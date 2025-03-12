@@ -1,0 +1,3 @@
+##### § 3288.100 Scope and applicability. #####
+
+The requirements of this subpart C may be followed in lieu of the requirements of subpart B of this part to resolve disputes among manufacturers, retailers, and installers of manufactured homes in any state where subpart B of this part would otherwise apply. In limited circumstances, this subpart C permits manufacturers, retailers, and installers of manufactured homes to use neutrals of their choosing to resolve disputes concerning alleged defects in manufactured homes.

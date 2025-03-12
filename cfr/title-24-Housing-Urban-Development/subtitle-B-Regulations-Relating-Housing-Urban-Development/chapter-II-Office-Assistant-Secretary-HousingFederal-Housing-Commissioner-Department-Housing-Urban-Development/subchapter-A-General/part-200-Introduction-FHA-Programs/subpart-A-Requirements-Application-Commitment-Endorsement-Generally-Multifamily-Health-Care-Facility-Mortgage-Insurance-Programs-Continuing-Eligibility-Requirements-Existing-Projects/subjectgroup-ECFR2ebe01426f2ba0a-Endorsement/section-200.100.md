@@ -1,0 +1,9 @@
+##### § 200.100 Insurance endorsement. #####
+
+The credit instrument shall be initially and finally endorsed simultaneously for insurance pursuant to a commitment to insure upon completion. Where the advances of construction funds are to be insured pursuant to a commitment for insured advances, initial endorsement of the credit instrument shall occur before any mortgage proceeds are insured and the time of final endorsement shall be as set forth in paragraph (b) of this section.
+
+(a) *Initial endorsement.* The Commissioner shall indicate the insurance of the mortgage by endorsing the original credit instrument and identifying the section of the Act and the regulations under which the mortgage is insured and the date of insurance.
+
+(b) *Final endorsement.* When all advances of mortgage proceeds have been made and all the terms and conditions of the commitment have been met to the Commissioner's satisfaction the Commissioner shall indicate on the original credit instrument the total of all advances approved for insurance and again endorse such instrument.
+
+(c) *Contract rights and obligations.* The Commissioner and the mortgagee or lender shall be bound from the date of initial endorsement, whether the initial and final endorsement occur simultaneously or are split, by the provisions of the Contract Rights and Obligations set forth in the respective regulations for each section of the Act, as follows: Section 207 of the Act (24 CFR part 207); Section 213 of the Act (24 CFR part 213); Section 220 of the Act (24 CFR part 220); Section 221 of the Act (24 CFR part 221); Section 231 of the Act (24 CFR part 231); Section 232 of the Act (24 CFR part 232); Section 234 of the Act (24 CFR part 234); Section 241 of the Act (24 CFR part 241); Section 242 of the Act (24 CFR part 242); title XI of the Act (24 CFR part 244).

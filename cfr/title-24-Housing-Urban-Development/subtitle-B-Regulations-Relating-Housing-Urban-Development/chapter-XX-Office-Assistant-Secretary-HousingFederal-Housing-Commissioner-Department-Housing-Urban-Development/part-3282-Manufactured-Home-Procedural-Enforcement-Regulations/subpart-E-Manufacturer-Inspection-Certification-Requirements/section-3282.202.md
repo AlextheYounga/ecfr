@@ -1,0 +1,3 @@
+##### § 3282.202 Primary inspection agency contracts. #####
+
+Each manufacturer shall enter into a contract or other agreement with as many Design Inspection Primary Inspection Agencies (DAPIAs) as it wishes and with enough Production Inspection Primary Inspection Agencies (IPIAs) to provide IPIA services for each manufacturing plant as set out in this subpart and in subpart H of this part. In return for the services provided by the DAPIAs and IPIAs, each manufacturer shall pay such reasonable fees as are agreed upon between the manufacturer and the primary inspection agency or, in the case of a State acting as an exclusive IPIA under § 3282.3 such fees as may be established by the State.

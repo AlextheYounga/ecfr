@@ -1,0 +1,3 @@
+##### § 236.599 Effect of amendments. #####
+
+The regulations in this subpart may be amended by the Commissioner at any time and from time to time, in whole or in part, but no such amendment shall adversely affect the interests of a mortgagee under a contract for interest reduction payments already in effect or to be put into effect pursuant to the Commissioner's commitment to enter into such contract.

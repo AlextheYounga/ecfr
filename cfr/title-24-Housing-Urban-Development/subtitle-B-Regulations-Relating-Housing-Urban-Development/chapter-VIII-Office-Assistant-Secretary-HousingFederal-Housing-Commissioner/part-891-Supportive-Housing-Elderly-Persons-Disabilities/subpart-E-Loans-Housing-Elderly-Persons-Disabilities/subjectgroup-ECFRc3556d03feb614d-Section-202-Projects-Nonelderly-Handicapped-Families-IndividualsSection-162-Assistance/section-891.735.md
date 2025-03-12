@@ -1,0 +1,3 @@
+##### § 891.735 Notice upon PAC expiration. #####
+
+The PAC will provide that the Borrower will, at least 90 days before the end of the PAC contract term, notify each family occupying an assisted unit (or residential space in a group home) of any increase in the amount the family will be required to pay as rent as a result of the expiration. The notice of expiration will contain such information and will be served in such manner as HUD may prescribe.

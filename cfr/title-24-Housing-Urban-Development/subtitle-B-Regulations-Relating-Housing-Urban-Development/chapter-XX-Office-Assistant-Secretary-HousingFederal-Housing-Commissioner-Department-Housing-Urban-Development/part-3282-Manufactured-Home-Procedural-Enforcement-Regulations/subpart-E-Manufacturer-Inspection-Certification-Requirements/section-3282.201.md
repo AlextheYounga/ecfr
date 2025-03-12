@@ -1,0 +1,5 @@
+##### § 3282.201 Scope and purpose. #####
+
+(a) This subpart sets out requirements which must be met by manufacturers of manufactured homes for sale to purchasers in the United States with respect to certification of manufactured home designs, inspection of designs, quality assurance programs, and manufactured home production, and certification of manufactured homes. Other than references and a general description of responsibilities, this subpart does not set out requirements with respect to remedial actions or reports which must be taken or filed under the Act and these regulations.
+
+(b) The purpose of this subpart is to require manufacturers to participate in a system of design approvals and inspections which serve to assist them in assuring that manufactured homes which they manufacture will conform to Federal standards. Such approvals and inspections provide significant protection to the public by decreasing the number of manufactured homes with possible defects in them, and provide protection to manufacturers by reducing the number of instances in which costly remedial actions must be undertaken after manufactured homes are sold.

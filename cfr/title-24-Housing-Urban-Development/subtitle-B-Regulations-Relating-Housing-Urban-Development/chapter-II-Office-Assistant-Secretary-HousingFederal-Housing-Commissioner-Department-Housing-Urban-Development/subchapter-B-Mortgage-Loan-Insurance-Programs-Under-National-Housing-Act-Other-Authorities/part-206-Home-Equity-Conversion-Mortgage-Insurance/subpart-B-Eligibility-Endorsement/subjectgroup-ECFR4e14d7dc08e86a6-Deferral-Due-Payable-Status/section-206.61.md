@@ -1,0 +1,5 @@
+##### § 206.61 HECM proceeds during a Deferral Period. #####
+
+(a) The HECM is not assumable. HECM proceeds may not be disbursed to any party during a Deferral Period, except as determined by the Commissioner through notice.
+
+(b) If a Repair Set Aside was established as a condition of the HECM, funds may be disbursed from the Repair Set Aside during a Deferral Period for the sole purpose of paying the cost of those repairs that were specifically identified prior to origination as necessary to the insurance of the HECM. Repairs under this paragraph shall only be paid for using funds from the Repair Set Aside if the repairs are satisfactorily completed during the time period established in the Repair Rider or such additional time as provided by the Commissioner. Unused funds remaining beyond the established time period shall not be disbursed.

@@ -1,0 +1,3 @@
+##### § 3286.601 Purpose. #####
+
+The purpose of this subpart G is to set out the requirements that apply to a retailer with respect to the federal installation requirements applicable to new manufactured homes that the retailer sells or leases and that will be installed in states that do not have qualifying installation programs. These requirements are in addition to other requirements that apply to retailers of manufactured homes pursuant to other parts of this chapter.

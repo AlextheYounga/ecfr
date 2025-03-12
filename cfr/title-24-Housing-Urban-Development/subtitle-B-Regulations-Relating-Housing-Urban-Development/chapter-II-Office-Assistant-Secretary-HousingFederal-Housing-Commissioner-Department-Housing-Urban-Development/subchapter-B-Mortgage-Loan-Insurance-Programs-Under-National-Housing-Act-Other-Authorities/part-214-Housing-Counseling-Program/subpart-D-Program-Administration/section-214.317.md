@@ -1,0 +1,3 @@
+##### § 214.317 Reporting. #####
+
+All participating agencies shall submit to HUD activity reports, which may be required up to quarterly. The reports must be submitted in the format, by the deadline, and in the manner prescribed by HUD. Participating agencies that are also recipients of HUD grants or subgrants may be required to submit additional reports, as described in their grant agreements and prescribed by HUD.

@@ -1,0 +1,3 @@
+##### § 200.625 Affirmative fair housing marketing plan. #####
+
+Each applicant for participation in FHA housing programs to which these regulations apply shall provide on a form to be supplied by the Department information indicating his affirmative fair housing marketing plan to comply with the requirements set forth in § 200.620. This form, once approved by HUD, will be available for public inspection at the sales or rental offices of the applicant.

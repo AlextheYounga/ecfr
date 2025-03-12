@@ -1,0 +1,5 @@
+##### § 267.21 Additional exemptions. #####
+
+(a) *Securitization transactions.* The federal agencies with rulewriting authority under section 15G(b) of the Exchange Act (15 U.S.C. 78o-11(b)) with respect to the type of assets involved may jointly provide a total or partial exemption of any securitization transaction as such agencies determine may be appropriate in the public interest and for the protection of investors.
+
+(b) *Exceptions, exemptions, and adjustments.* The Federal banking agencies and the Commission, in consultation with the Federal Housing Finance Agency and the Department of Housing and Urban Development, may jointly adopt or issue exemptions, exceptions or adjustments to the requirements of this part, including exemptions, exceptions or adjustments for classes of institutions or assets in accordance with section 15G(e) of the Exchange Act (15 U.S.C. 78o-11(e)).

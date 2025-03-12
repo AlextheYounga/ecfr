@@ -1,0 +1,9 @@
+##### § 3285.103 Site suitability with design zone maps. #####
+
+Prior to the initial installation of a new manufactured home and as part of making the certification of the installation required under part 3286, upon effect, the installer is to verify that the design and construction of the manufactured home, as indicated on the design zone maps provided with the home, are suitable for the site location where the home is to be installed. The design zone maps are those identified in part 3280 of this chapter.
+
+(a) *Wind zone.* Manufactured homes must not be installed in a wind zone that exceeds the design wind loads for which the home has been designed, as evidenced by the wind zone indicated on the home's data plate and as further defined by counties or local governments within affected states, as applicable, in § 3280.305(c)(2) of the Manufactured Home Construction and Safety Standards in this chapter.
+
+(b) *Roof load zone.* Manufactured homes must not be located in a roof load zone that exceeds the design roof load for which the home has been designed, as evidenced by the roof load zone indicated on the home's data plate and as further defined by counties or local governments within affected states, as applicable, in § 3280.305(c)(3) of the Manufactured Home Construction and Safety Standards in this chapter. Refer to § 3285.315 for Special Snow Load Conditions.
+
+(c) *Thermal zone.* Manufactured homes must not be installed in a thermal zone that exceeds the thermal zone for which the home has been designed, as evidenced by the thermal zone indicated on the heating/cooling certificate and insulation zone map and as further defined by counties or local governments within affected states, as applicable, in § 3280.504(b)(5) of the Manufactured Home Construction and Safety Standards in this chapter. The manufacturer may provide the heating/cooling information and insulation zone map on the home's data plate.

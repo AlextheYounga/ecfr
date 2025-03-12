@@ -1,0 +1,5 @@
+##### § 1.3 Application of part 1. #####
+
+This part 1 applies to any program or activity for which Federal financial assistance is authorized under a law administered by the Department. It applies to money paid, property transferred, or other Federal financial assistance extended to any such program or activity on or after January 3, 1965. This part 1 does not apply to: (a) Any Federal financial assistance by way of insurance or guaranty contracts, (b) money paid, property transferred, or other assistance extended to any such program or activity before January 3, 1965, (c) any assistance to any person who is the ultimate beneficiary under any such program or activity, or (d) any employment practice, under any such program or activity, of any employer, employment agency, or labor organization, except to the extent described in § 1.4(c).
+
+[38 FR 17949, July 5, 1973, as amended at 83 FR 26360, June 7, 2018]

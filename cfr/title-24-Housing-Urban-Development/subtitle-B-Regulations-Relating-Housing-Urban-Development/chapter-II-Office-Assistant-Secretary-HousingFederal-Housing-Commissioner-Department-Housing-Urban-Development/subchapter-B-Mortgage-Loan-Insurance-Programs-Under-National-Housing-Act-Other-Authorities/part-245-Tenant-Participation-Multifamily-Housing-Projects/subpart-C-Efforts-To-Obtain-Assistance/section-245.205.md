@@ -1,0 +1,9 @@
+##### § 245.205 Efforts to obtain assistance. #####
+
+(a) Mortgagors subject to the requirements of this subpart shall not interfere with the efforts of tenants to obtain rent subsidies or other public assistance.
+
+(b) A mortgagor subject to the requirements of this subpart who is a party to a rent supplement contract under section 101 of the Housing and Urban Development Act of 1965 (12 U.S.C. 1701s), a rental assistance payments contract under part 236, subpart D, of this chapter, or a Housing Assistance Payments Contract under 24 CFR part 886 shall not refuse to make assistance under such contract available to an existing tenant who is eligible therefor, provided that sufficient contract and budget authority and contract units are available under the contract. However, this provision shall not be deemed to require the mortgagor to give priority in the allocation of any such available assistance to an existing tenant instead of an eligible applicant on the mortgagor's waiting list or otherwise to supersede tenant selection procedures which are not otherwise inconsistent with applicable program regulation or instructions.
+
+(c) Subject to the provisions of any contract made in connection with the purchase of a multifamily housing project owned by the Secretary, this section shall not be deemed to require a mortgagor subject to the requirement of this subpart to enter into a Housing Assistance Payments Contract pursuant to 24 CFR part 982 for the benefit of an existing tenant who obtains a Certificate of Family Participation.
+
+[48 FR 28437, June 22, 1983. Redesignated at 50 FR 32403, Aug. 12, 1985, as amended at 61 FR 57961, Nov. 8, 1996]

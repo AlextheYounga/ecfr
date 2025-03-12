@@ -1,0 +1,3 @@
+##### § 244.2 License. #####
+
+The Commissioner shall not insure any mortgage under this part unless the appropriate licensing agency for the State, municipality or other political subdivision in which a project is or is to be located provides such assurances as the Commissioner considers necessary that the facility will comply with any applicable State or local standards and requirements for such facilities.

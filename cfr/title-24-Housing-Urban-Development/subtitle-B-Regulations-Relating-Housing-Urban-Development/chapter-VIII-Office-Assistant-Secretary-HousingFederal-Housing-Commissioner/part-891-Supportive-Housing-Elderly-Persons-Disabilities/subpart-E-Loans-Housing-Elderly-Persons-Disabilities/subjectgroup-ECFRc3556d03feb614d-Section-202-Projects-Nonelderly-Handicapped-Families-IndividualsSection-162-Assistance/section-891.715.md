@@ -1,0 +1,7 @@
+##### § 891.715 Maximum annual commitment and project account. #####
+
+(a) *Maximum annual commitment.* The maximum annual amount that may be committed under the PAC is the total of the initial contract rents and utility allowances for all assisted units in the project.
+
+(b) *Project account.* (1) HUD will establish and maintain a specifically identified and segregated project account for each project. The project account will be established out of the amounts by which the maximum annual commitment exceeds the amount actually paid out under the PAC each year. HUD will make payments from this account for project assistance payments as needed to cover increases in contract rents or decreases in tenant income and other payments for costs specifically approved by the Secretary.
+
+(2) If the HUD-approved estimate of required annual payments under the PAC for a fiscal year exceeds the maximum annual commitment for that fiscal year plus the current balance in the project account, HUD will, within a reasonable time, take such steps authorized by section 202(h)(4)(A) of the Housing Act of 1959, as may be necessary, to assure that payments under the PAC will be adequate to cover increases in contract rents and decreases in tenant income.

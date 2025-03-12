@@ -1,0 +1,3 @@
+##### § 886.125 Overcrowded and underoccupied units. #####
+
+If HUD determines that a contract unit assisted under this part is not Decent, Safe, and Sanitary by reason of increase in Family size or that a Contract unit is larger than appropriate for the size of the Family in occupancy, housing assistance payments with respect to such unit will not be abated, unless the Owner fails to offer the Family a suitable unit as soon as one becomes vacant and ready for occupancy. The Owner may receive housing assistance payments for the vacated unit if he complies with the requirements of § 886.109.

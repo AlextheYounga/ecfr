@@ -1,0 +1,3 @@
+##### § 3285.101 Fire separation. #####
+
+Fire separation distances must be in accordance with the requirements of Chapter 6 of NFPA 501A, 2003 edition (incorporated by reference, see § 3285.4) or the requirements of the LAHJ. The installation instructions must clearly indicate this requirement in a separate section and must caution installers to take into account any local requirements on fire separation.

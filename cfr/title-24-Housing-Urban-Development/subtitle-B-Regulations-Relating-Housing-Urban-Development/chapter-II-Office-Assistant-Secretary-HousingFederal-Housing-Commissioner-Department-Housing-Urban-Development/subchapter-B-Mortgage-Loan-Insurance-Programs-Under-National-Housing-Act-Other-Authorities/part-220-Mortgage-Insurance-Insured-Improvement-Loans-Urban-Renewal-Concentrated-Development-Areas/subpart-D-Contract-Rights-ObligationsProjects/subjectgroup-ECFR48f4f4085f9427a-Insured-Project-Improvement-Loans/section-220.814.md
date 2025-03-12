@@ -1,0 +1,3 @@
+##### § 220.814 Election of action. #####
+
+Where a real estate mortgage, deed of trust, conditional sales contract, chattel mortgage, lien, judgment, or any other security device has been used to secure the payment of a loan made under the provisions of this section, the lender may not, except with the approval of the Commissioner, both proceed against such security and also make claim under its contract of insurance, but shall elect which method it desires to pursue.

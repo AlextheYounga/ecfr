@@ -1,0 +1,3 @@
+##### § 241.270 Refund upon termination of insurance. #####
+
+Upon termination of the insurance contract by payment in full or by voluntary termination, the Commissioner shall refund to the lender for the account of the borrower an amount equal to the pro rata portion of the current annual loan insurance premium theretofore paid, which is applicable to the portion of the year subsequent to (a) the date of the prepayment or (b) the effective date of the voluntary termination of the contract of insurance.

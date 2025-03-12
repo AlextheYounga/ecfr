@@ -1,0 +1,25 @@
+##### § 291.307 Servicing requirements. #####
+
+(a) *Use of HUD-approved servicing mortgagees.* All mortgage loans must be serviced by HUD-approved servicing mortgagees for the remaining life of the mortgage loans. A purchaser that is not a HUD-approved servicing mortgagee must retain a HUD-approved servicing mortgagee to service the mortgage loans.
+
+(b) *Continuation of mortgagor rights.* The purchaser may take all lawful steps to collect the amounts due under the mortgage loans. These steps may include foreclosure, but only after the servicer has provided all required forms of relief for the mortgagor in accordance with paragraph (c) of this section. The purchaser and its servicer, and any subsequent transferee of or servicer for the mortgage loan, will be fully bound by the terms of the Loan Sale Agreement, including those terms that provide the mortgagor with any rights regarding forbearance, assistance, or reinstatement of the mortgage loan.
+
+(c) *Purchaser's protection of mortgagor's rights*—(1) *Assigned mortgage loans during forbearance period.* This paragraph (c)(1) explains how a purchaser (or a servicer of a purchased mortgage loan) must service a mortgage loan that was assigned to HUD under section 230(b) of the National Housing Act (as that subsection existed prior to January 26, 1996), for which not more than 36 months has expired since the mortgage loan assignment was accepted by the Secretary. Such a purchaser must service these mortgage loans in essentially the same manner as HUD was required to service the loans while HUD held them. Specific servicing requirements will be set forth in the Loan Sale Agreement for each sale.
+
+(2) *Assigned mortgage loans after the initial 36-month forbearance period.* This paragraph (c)(2) explains how a purchaser (or a servicer of a purchased mortgage loan) must service a mortgage loan that was assigned to HUD under section 230(b) of the National Housing Act (as that subsection existed prior to January 26, 1996), for which more than 36 months has expired since the mortgage loan assignment was accepted by the Secretary.
+
+(i) Such purchaser may require the mortgagor to pay at least the full monthly payment due under the mortgage loan. A purchaser may also require a mortgagor to pay increased monthly mortgage loan payments under a renewed payment plan agreement to reduce the amount in arrears if the mortgagor's available income (as calculated according to the Loan Sale Agreement) can support the increased payments. A purchaser must renew payment plan agreements at least through and including the expiration of the original term of the mortgage loan, so long as the mortgagor complies with the prior payment plan agreement.
+
+(ii) If the mortgagor defaults under a payment plan agreement established by the purchaser, the mortgagor shall have the right to reinstate the most recent payment plan agreement if the mortgagor makes a lump sum payment in an amount necessary to cure the default. If the mortgagor defaults under the most recent payment plan agreement and does not reinstate, the purchaser may terminate the payment plan agreement and take such action as may be permitted under the terms of the mortgage.
+
+(iii) The purchaser's right to demand payment of a reinstatement amount from the mortgagor may be limited by the terms of the Loan Sale Agreement.
+
+(3) *Section 221 Mortgages.* This paragraph (c)(3) explains how a purchaser (or a servicer of a purchased mortgage) must service a mortgage assigned to HUD under section 221(g)(4) of the National Housing Act.
+
+(i) *Current section 221(g)(4) mortgage loans.* Section 221(g)(4) mortgage loans that are current as of the closing date are not subject to the servicing requirements set forth in paragraphs (c)(1) and (c)(2) of this section.
+
+(ii) *Defaulted section 221(g)(4) mortgage loans.* With respect to any section 221(g)(4) mortgage loan as to which a payment default has occurred, and as to which HUD, as of the closing date, was providing or had agreed to provide forbearance relief, the purchaser must continue to provide forbearance relief and must service such mortgage loans as set forth in paragraphs (c)(1) and (c)(2) of this section.
+
+(d) *Section 235 mortgage loans*—(1) *Assistance payments contract.* If, prior to the mortgage loan sale, the assistance payments contract has not been previously terminated under 24 CFR 235.375(a), the contract will terminate as to each mortgage loan upon the sale of the mortgage loan. The purchasing mortgagee will therefore not receive any assistance payments on behalf of the mortgagor for any Section 235 mortgage loan sold.
+
+(2) *Reduction in interest rates.* For a Section 235 mortgage loan that was accompanied by an assistance payments contract that was still in effect on the date of the sale, the Secretary will reduce the interest rate on the mortgage loan to a rate to be determined by the Secretary.

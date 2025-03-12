@@ -1,0 +1,9 @@
+##### § 200.222 Request for reconsideration. #####
+
+(a) Where participation in a Triggering Event has been disapproved, otherwise limited or conditioned because of Previous Participation review, the Controlling Participant may request reconsideration of such determination by a review committee or reviewing officer as established by the Commissioner. Reconsideration decisions shall not be rendered by the same individual who rendered the initial review.
+
+(b) The Controlling Participant shall submit requests for such reconsideration in writing within 30 days of receipt of the Commissioner's notice of the determination under § 200.220.
+
+(c) The review committee or reviewing officer shall schedule a review of such requests for reconsideration. The Controlling Participant shall be provided written notification of such a review; such notice shall provide at least 7 business days advanced notice of the reconsideration. The Controlling Participant shall be provided the opportunity to submit such supporting materials as the Controlling Participant desires or as the review committee or reviewing officer requests.
+
+(d) Before making its decision, the review committee or reviewing officer will analyze the reasons for the decision(s) for which reconsideration is being requested, as well as the documents and arguments presented by the Controlling Participant. The review committee or reviewing officer may affirm, modify, or reverse the initial decision. Upon making its decision, the review committee or reviewing officer will provide written notice of its determination to the Controlling Participant setting forth the reasons for the determination(s).

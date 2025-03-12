@@ -1,0 +1,5 @@
+##### § 203.346 Postponement of foreclosure—mortgagors in military service. #####
+
+If at any time during default the mortgagor is a “Person in military service,” as such term is defined in the Soldiers' and Sailors' Civil Relief Act of 1940, the period during which the mortgagor is in such service shall be excluded in computing the period within which the mortgagee shall commence foreclosure or acquire the property by other means as provided in § 203.355 of this subpart. No postponement or delay in the prosecution of foreclosure proceedings during the period the mortgagor is in such military service shall be construed as failure on the part of the mortgagee to exercise reasonable diligence in prosecuting such proceedings to completion as required by this subpart.
+
+[36 FR 24508, Dec. 22, 1971, as amended at 61 FR 36265, July 9, 1996]

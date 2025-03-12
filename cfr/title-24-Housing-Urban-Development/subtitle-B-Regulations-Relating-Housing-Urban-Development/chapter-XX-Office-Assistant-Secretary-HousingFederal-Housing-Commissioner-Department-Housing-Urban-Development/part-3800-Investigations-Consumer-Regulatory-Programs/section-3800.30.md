@@ -1,0 +1,3 @@
+##### § 3800.30 Subpoena enforcement in district court. #####
+
+In the case of contumacy of a witness or a witness's refusal to obey a subpoena or order of the Secretary, the United States district court for the jurisdiction in which an investigation is carried on may issue an order requiring compliance with the subpoena. HUD headquarters in Washington, DC, is one of the locations in which the Secretary carries on investigations of its consumer regulatory programs.

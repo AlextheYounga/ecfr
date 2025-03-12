@@ -1,0 +1,3 @@
+##### § 242.9 Physician ownership. #####
+
+Ownership of an interest in the mortgagor by physicians or other professionals practicing in the hospital is permitted within limits determined by HUD to avoid insurance risks that may be associated with such ownership. The Commissioner shall determine if the proposed mortgagor will be at low risk for violation of regulations of the U.S. Department of Health and Human Services, other federal regulations, and state regulations governing kickbacks, self-referrals, and other issues that could increase the risk of eventual default. The Commissioner's determination shall be based on an unqualified legal opinion as to compliance with applicable federal law, among other considerations.

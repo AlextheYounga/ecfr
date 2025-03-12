@@ -1,0 +1,3 @@
+##### § 203.333 Reinstatement of defaulted mortgage. #####
+
+If after default and prior to the completion of foreclosure proceedings the mortgagor shall cure the default, the insurance shall continue as if a default had not occurred, provided the mortgagor pays to the mortgagee such expenses as the mortgagee has incurred in connection with the foreclosure proceedings and the mortgagee gives written notice of reinstatement to the Commissioner.

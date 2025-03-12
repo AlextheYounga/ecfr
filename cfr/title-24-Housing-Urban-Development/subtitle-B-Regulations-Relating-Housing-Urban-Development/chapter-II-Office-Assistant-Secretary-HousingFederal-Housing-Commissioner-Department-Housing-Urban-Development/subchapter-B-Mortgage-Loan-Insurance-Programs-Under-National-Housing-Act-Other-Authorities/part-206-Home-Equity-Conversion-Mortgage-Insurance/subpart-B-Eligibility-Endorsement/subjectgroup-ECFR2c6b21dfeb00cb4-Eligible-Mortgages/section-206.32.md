@@ -1,0 +1,3 @@
+##### § 206.32 No outstanding unpaid obligations. #####
+
+In order for a mortgage to be eligible under this part, a borrower must establish to the satisfaction of the mortgagee that after the initial payment of loan proceeds under § 206.25(a), there will be no outstanding or unpaid obligations incurred by the borrower in connection with the mortgage transaction, except for mortgage servicing charges permitted under § 206.207(b) and any future Repair Set Aside established pursuant to § 206.19(f)(1); and the initial disbursement will not be used for any payment to or on behalf of an estate planning service firm.

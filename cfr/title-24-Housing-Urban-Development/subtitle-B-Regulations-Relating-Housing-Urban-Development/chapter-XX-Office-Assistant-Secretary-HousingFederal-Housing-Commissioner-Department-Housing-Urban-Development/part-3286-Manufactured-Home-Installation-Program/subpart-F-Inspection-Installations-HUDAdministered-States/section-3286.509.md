@@ -1,0 +1,5 @@
+##### § 3286.509 Reinspection upon failure to pass. #####
+
+(a) *Procedures for failed inspection.* If the inspector cannot verify the installation of the manufactured home, the inspector must immediately notify the installer of any failures to comply with the installation standards and explain the reasons why the inspector cannot issue verification that the installation complies with the requirements of this part. After the installation is corrected, it must be reinspected before verification can be issued.
+
+(b) *Cost of reinspection.* If there is any cost for the reinspection of an installation that an inspector has refused to verify, that cost must be paid by the installer or the retailer and, absent a written agreement with the purchaser that specifically states otherwise, that cost cannot be charged to the purchaser of the manufactured home.

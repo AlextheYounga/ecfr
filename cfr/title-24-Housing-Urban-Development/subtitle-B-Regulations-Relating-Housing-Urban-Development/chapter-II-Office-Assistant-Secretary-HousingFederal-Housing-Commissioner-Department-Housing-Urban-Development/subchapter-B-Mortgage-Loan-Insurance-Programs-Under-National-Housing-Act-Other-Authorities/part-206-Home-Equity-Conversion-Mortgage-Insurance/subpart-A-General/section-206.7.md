@@ -1,0 +1,3 @@
+##### § 206.7 Effect of amendments. #####
+
+The regulations in this part may be amended by the Commissioner at any time and from time to time, in whole or in part, but amendments to subparts B and C of this part will not adversely affect the interests of a mortgagee on any mortgage to be insured for which either the Direct Endorsement mortgagee or Lender Insurance mortgagee has approved the borrower and all terms and conditions of the mortgage, or the Commissioner has made a commitment to insure. Such amendments will not adversely affect the interests of a borrower in the case of a default by a mortgagee where the Commissioner makes payments to the borrower.

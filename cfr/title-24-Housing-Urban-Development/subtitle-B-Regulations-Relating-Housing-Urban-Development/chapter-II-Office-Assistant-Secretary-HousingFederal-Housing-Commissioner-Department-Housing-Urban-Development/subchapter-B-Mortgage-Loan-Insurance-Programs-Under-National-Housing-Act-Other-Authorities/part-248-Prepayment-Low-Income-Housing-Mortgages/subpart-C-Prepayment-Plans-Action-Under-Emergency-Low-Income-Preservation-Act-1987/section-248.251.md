@@ -1,0 +1,3 @@
+##### § 248.251 Consultation with other interested parties. #####
+
+The Commissioner will confer with any appropriate State or local government agency to confirm any State or local assistance that is available to achieve the purposes of this part and will give consideration to the views of the State or local agency when making the determinations under §§ 248.221 and 248.233 of this part. The Commissioner also will confer with other interested parties that the Commissioner believes could assist in the development of a plan of action that best achieves the purposes of this part.

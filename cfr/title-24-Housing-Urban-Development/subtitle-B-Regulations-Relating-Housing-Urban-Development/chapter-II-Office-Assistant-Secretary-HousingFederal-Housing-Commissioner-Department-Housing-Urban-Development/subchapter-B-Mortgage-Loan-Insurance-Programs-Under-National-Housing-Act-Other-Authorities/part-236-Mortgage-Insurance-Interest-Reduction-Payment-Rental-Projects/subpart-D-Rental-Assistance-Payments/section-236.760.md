@@ -1,0 +1,5 @@
+##### § 236.760 Change in tenant income status. #####
+
+Appropriate adjustments will be made in rental assistance payments to reflect changes in income or other circumstances which are reported by a tenant and verified or are shown by the annual tenant income recertification, as required by § 236.80. Rental assistance payments will be discontinued when it is determined by the Secretary that the amount the tenant is required to pay for rent, in accordance with § 236.735, is sufficient to pay the approved basic monthly rental (plus, where applicable, the established utility allowance) for the unit occupied by the tenant. Where a tenant is no longer entitled to rental assistance payments, he/she may continue to occupy the unit. The rents charged for the unit shall not exceed those specified in subpart A.
+
+[48 FR 13982, Apr. 1, 1983]

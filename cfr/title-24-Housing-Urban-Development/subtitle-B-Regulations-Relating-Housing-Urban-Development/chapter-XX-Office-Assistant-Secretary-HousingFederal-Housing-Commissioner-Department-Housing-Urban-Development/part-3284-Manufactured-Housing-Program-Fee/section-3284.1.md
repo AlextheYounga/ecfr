@@ -1,0 +1,3 @@
+##### § 3284.1 Applicability. #####
+
+This part applies to manufacturers that are subject to the requirements of the National Manufactured Housing Construction and Safety Standards Act of 1974 (the Act), and to States having State plans approved in accordance with the Act. The amounts established under this part for any fee collected from manufacturers will be used, to the extent approved in advance in an annual appropriations Act, to offset the expenses incurred by HUD in connection with the manufactured housing program authorized by the Act.

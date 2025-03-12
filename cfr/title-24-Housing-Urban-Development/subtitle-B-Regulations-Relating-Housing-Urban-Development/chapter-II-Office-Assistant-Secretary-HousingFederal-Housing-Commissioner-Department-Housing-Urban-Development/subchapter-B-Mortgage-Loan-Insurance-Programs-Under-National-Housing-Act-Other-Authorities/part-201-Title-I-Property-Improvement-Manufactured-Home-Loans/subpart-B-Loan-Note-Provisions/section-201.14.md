@@ -1,0 +1,3 @@
+##### § 201.14 Payments on the loan. #####
+
+The note normally shall provide for equal installment payments due weekly, biweekly, semi-monthly or monthly. The note may provide for either or both of the first and final payments to vary in amount but not to exceed 11/2 times the regular installment. Where the borrower has an irregular flow of income, the note may be payable at quarterly or semi-annual intervals corresponding with the borrower's flow of income. The first scheduled payment after the borrower's initial payment shall be due no later than two months from the date of the loan. Multiple payment schedules may not be used in connection with any loan.

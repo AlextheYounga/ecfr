@@ -1,0 +1,3 @@
+##### § 221.300 Changes in the plan of apartment ownership. #####
+
+The mortgagee shall notify the Commissioner of any changes in the plan of apartment ownership and in the administration of the property. Such notification shall be given either at the time of the conveyance of the property or at the time of the assignment of the mortgage. Any changes in such plan shall require approval by the Commissioner.

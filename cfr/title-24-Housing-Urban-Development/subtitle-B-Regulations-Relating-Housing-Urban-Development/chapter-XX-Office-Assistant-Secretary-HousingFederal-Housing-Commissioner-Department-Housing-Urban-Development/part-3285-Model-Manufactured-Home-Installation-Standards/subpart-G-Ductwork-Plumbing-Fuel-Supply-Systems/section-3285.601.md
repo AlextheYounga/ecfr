@@ -1,0 +1,3 @@
+##### § 3285.601 Field assembly. #####
+
+Home manufacturers must provide specific installation instructions for the proper field assembly of manufacturer-supplied and shipped loose ducts, plumbing, and fuel supply system parts that are necessary to join all sections of the home and are designed to be located underneath the home. The installation instructions must be designed in accordance with applicable requirements of part 3280, subparts G and H, of this chapter, as specified in this subpart.

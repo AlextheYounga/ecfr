@@ -1,0 +1,3 @@
+##### § 220.813 Commissioner's right to require acceleration. #####
+
+Upon receipt of notice of the failure of the borrower to comply with any covenant or obligation under the security instrument or note, or otherwise being apprised thereof, the Commissioner reserves the right to require the lender to accelerate payment of the outstanding principal balance due in order to protect the interests of the Federal Housing Commissioner.

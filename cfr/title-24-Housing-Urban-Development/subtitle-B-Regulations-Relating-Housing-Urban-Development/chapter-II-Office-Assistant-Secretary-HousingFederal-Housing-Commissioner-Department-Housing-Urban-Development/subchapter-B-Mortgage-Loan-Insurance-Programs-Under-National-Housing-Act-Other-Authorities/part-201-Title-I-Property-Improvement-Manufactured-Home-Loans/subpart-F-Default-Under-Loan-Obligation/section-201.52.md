@@ -1,0 +1,5 @@
+##### § 201.52 Acquisition by voluntary conveyance or surrender. #####
+
+The lender may accept a voluntary conveyance of title to or ownership of the property securing a manufactured home loan which is in default, provided that (a) the lender accepts the conveyance in full satisfaction of the borrower's obligation, and (b) no claim is submitted under its contract of insurance. The lender may accept voluntary surrender of the property without satisfaction of the borrower's obligation, provided that if the lender intends thereafter to submit a claim under its contract of insurance, the lender shall acquire title to or ownership of the property and then dispose of and sell the property in compliance with State and local law, so as to assure that it can assign a valid and enforceable obligation, including any deficiency against the borrower, to the Secretary when submitting its claim. If the lender accepts a voluntary conveyance of title or a voluntary surrender of the property, the notice of default and acceleration under § 201.50(b) shall not be required.
+
+[50 FR 43523, Oct. 25, 1985, as amended at 61 FR 19799, May 2, 1996]

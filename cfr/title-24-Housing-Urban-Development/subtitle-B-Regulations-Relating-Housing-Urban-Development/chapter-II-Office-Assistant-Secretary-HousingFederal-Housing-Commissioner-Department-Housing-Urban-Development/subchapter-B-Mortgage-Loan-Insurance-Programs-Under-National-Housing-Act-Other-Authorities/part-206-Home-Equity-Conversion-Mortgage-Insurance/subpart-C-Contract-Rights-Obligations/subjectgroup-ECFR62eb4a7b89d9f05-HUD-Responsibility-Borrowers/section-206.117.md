@@ -1,0 +1,3 @@
+##### § 206.117 General. #####
+
+The Commissioner is required by statute to take any action necessary to provide a borrower with funds to which the borrower is entitled under the mortgage and which the borrower does not receive because of the default of the mortgagee. The Commissioner may hold a second mortgage to secure repayment by the borrower under § 206.27(d). Where the Commissioner does not hold a second mortgage, but makes a payment to the borrower, and such payment is not reimbursed by the mortgagee, the Commissioner shall accept assignment of the first mortgage.

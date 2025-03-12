@@ -1,0 +1,5 @@
+##### § 266.415 Mortgage lien and other obligations. #####
+
+(a) *Liens.* At the initial and final closing of the loan, the mortgagor and the HFA must certify, and the HFA must determine, that the property covered by the mortgage is free from all liens other than the lien of the insured mortgage, except that the property may be subject to such inferior lien or liens as approved by the HFA as long as the insured mortgage has first priority for payment.
+
+(b) *Contractual obligations.* At the final closing of the loan, the mortgagor and the HFA must certify, and the HFA must determine, that all contractual obligations in connection with the mortgage transaction, including the purchase of the property and the improvements to the property, are paid. An exception is made for obligations that are approved by the HFA and determined by the HFA to be of a lesser priority for payment than the obligation of the insured mortgage.

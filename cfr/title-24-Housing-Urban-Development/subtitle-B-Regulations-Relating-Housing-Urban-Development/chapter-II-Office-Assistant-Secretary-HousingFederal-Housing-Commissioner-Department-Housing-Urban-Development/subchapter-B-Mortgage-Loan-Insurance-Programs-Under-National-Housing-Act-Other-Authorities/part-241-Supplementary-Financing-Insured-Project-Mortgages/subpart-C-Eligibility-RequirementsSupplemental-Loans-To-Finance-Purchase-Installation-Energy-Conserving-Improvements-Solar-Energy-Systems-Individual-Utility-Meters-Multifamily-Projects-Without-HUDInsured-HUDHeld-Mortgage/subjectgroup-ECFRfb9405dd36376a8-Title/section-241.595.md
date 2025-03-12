@@ -1,0 +1,3 @@
+##### § 241.595 Eligibility of title. #####
+
+In order for the property which is to be the security for a loan to be insured under this subpart to be eligible for insurance, the Commissioner shall determine that the title to the property is vested in the borrower as of the date the security instrument is filed for record. The title evidence will be examined by the Commissioner and the endorsement of the credit instrument for insurance shall be evidence of its acceptability.

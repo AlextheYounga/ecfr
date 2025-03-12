@@ -1,0 +1,3 @@
+##### § 242.68 Disclosure and verification of Social Security and Employer Identification Numbers. #####
+
+The requirements set forth in 24 CFR part 5, regarding the disclosure and verification of Social Security Numbers and Employer Identification Numbers, and Employer Identification Numbers by “applicants for and participants in” assisted mortgage and loan insurance and related programs, apply to this program.

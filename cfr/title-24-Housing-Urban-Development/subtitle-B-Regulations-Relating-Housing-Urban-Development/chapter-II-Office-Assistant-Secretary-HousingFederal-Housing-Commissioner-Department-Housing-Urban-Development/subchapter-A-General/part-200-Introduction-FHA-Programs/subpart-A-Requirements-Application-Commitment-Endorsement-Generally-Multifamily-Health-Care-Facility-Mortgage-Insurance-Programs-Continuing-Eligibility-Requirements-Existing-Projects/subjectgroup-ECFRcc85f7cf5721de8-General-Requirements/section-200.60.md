@@ -1,0 +1,3 @@
+##### § 200.60 Assurance of completion for offsite facilities. #####
+
+An assurance of completion for offsite utilities, streets, and other facilities required for a buildable site shall be provided in an amount and form acceptable to the Commissioner, except where a municipality or other public body has, in a manner acceptable to the Commissioner, agreed to install such improvements without cost to the mortgagor.

@@ -1,0 +1,7 @@
+##### § 888.115 Fair market rents for existing housing: Manner of publication. #####
+
+(a) *Publication of FMRs.* FMRs will be published at least annually by HUD on the World Wide Web, or in any other manner specified by the Secretary. HUD will publish a notice announcing the publication of the FMRs in the Federal Register, to be effective October 1 of each year, and provide for a minimum of 30 days of public comments and requested for reevaluation of the FMRs in a jurisdiction. The FMRs will become effective no earlier than 30 days after the date the notice publishes in the Federal Register (*e.g.*, if HUD fails to publish FMRs 30 days before October 1, the effective date will be 30 days after publication), except for areas where HUD receives comments during the minimum 30-day comment period requesting reevaluation of the FMRs in a jurisdiction. After HUD reviews a request for reevaluation, HUD will post on the World Wide Web the final FMRs for the areas that have been reevaluated and publish a notice in the Federal Register announcing the publication and the effective date.
+
+(b) *Changes in methodology.* HUD will publish for comment in the Federal Register a document proposing material changes in the method for estimating FMRs and shall respond to public comment on the proposed material changes in the subsequent Federal Register document announcing the availability of new FMRs based on the revised method for estimating FMRs.
+
+[81 FR 80581, Nov. 16, 2016]

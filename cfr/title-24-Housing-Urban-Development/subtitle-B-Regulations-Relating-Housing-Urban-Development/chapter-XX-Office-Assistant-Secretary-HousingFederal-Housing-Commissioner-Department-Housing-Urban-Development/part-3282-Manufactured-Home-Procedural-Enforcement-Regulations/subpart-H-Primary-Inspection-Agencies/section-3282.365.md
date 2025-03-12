@@ -1,0 +1,3 @@
+##### § 3282.365 Forwarding monitoring fee. #####
+
+The IPIA shall, whenever it provides labels to a manufacturer, obtain from the manufacturer the monitoring fee to be forwarded to the Secretary or the Secretary's agent as set out in § 3282.210. If a manufacturer fails to provide the monitoring fee as required by § 3282.210 to be forwarded by the IPIA under this section, the IPIA shall immediately inform the Secretary; or the Secretary's Agent.

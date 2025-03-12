@@ -1,0 +1,5 @@
+##### § 3282.256 Distributor or retailer complaint handling. #####
+
+(a) When a distributor or retailer believes that a manufactured home in its possession which it has not yet sold to a purchaser contains an imminent safety hazard, serious defect, defect, or noncompliance, the distributor or retailer shall refer the matter to the manufacturer for remedial action under § 3282.415. If the distributor or retailer is not satisfied with the action taken by the manufacturer, it may refer the matter to the SAA in the state in which the manufactured home is located, or to the Secretary if there is no such SAA.
+
+(b) Where a distributor or retailer receives a consumer complaint or other information concerning a manufactured home sold by the distributor or retailer, indicating the possible existence of an imminent safety hazard, serious defect, defect, or noncompliance in the manufactured home, the distributor or retailer shall refer the matter to the manufacturer.

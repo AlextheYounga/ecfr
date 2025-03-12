@@ -1,0 +1,3 @@
+##### § 201.29 Ineligible participants. #####
+
+No loan may be insured under this part where the lender has been advised in writing by HUD or otherwise knows that any participant in the transaction as a dealer, home manufacturer, contractor, supplier, or broker, or as its agent or representative, has been suspended or debarred, or has otherwise been determined by HUD to be ineligible to participate in the title I program.

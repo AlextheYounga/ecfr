@@ -1,0 +1,5 @@
+##### § 207.258a Title requirements. #####
+
+(a) *Form of title evidence.* The title evidence submitted with a conveyance of the property to the Commissioner shall be in the form of an owner's policy of title insurance, except that, if an abstract and attorney's opinion were accepted by the Commissioner at the time of insurance, the title evidence may be in such form. The title evidence shall be effective on or after the date of the recording of the conveyance to the Commissioner.
+
+(b) *Content of title evidence.* To be satisfactory to the Commissioner, the title evidence covering the property conveyed to him shall show the same title vested in the Commissioner as was vested in the mortgagor as of the date of the mortgage was filed for record, with the exception of such liens or other matters affecting the title as may be approved by the Commissioner.

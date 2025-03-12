@@ -1,0 +1,3 @@
+##### § 3286.801 Purpose. #####
+
+The purpose of this subpart I is to establish the requirements that must be met by a state to implement and administer its own installation program, either as part of its approved state plan or under this subpart, in such a way that the state would not be covered by the HUD-administered installation program. This subpart I also establishes the procedure for determining whether a state installation program meets the requirements of the Act for a qualifying installation program that will operate in lieu of the HUD-administered installation program.

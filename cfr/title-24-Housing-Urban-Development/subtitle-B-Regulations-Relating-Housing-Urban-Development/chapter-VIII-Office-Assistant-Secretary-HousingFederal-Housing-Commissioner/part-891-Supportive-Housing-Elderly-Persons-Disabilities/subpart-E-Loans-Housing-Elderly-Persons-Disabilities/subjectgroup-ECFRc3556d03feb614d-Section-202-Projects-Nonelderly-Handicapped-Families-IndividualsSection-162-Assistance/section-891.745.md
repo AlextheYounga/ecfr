@@ -1,0 +1,3 @@
+##### § 891.745 Replacement reserve. #####
+
+The general requirements for the replacement reserve are provided in § 891.605. For projects funded under §§ 891.655 through 891.790, the amount of the deposits for the initial year of operation shall be an amount equal to 0.6 percent of the cost of the total structures (for new construction projects), 0.4 percent of the cost of the initial mortgage amount (for all other projects), or such higher rate as required by HUD. For the purposes of this section, total structures include main buildings, accessory buildings, garages, and other buildings. The amount of the deposits will be adjusted each year by the amount of the annual adjustment factor as described in part 888 of this chapter.

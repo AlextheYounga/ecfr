@@ -1,0 +1,11 @@
+##### § 241.645 Labor standards and prevailing wage requirements. #####
+
+(a) Any contract, subcontract, or building loan agreement executed for the performance of construction of the project shall comply with all applicable labor standards and provisions of the regulations of the Secretary of Labor set forth in §§ 5.1 through 5.12 of title 29.
+
+(b) No construction contract shall be entered into with a general contractor or any subcontractor if such contractor or any such subcontractor or any firm, corporation, partnership or association in which such contractor or subcontractor has a substantial interest is included on the ineligible list of contractors or subcontractors established and maintained by the Comptroller General, pursuant to § 5.6(b) of title 29.
+
+(c) No advance under the mortgage shall be eligible for insurance after notification from the Commissioner that the general contractor or any subcontractor or any firm, corporation, partnership or association in which such contractor or subcontractor has a substantial interest, was on the date the contract or subcontract was executed, on the ineligible list established by the Comptroller General, pursuant to the provision of the Secretary of Labor set forth in §§ 5.1 through 5.12 of title 29.
+
+(d) No advance under any mortgage shall be eligible for insurance unless there is filed with the application of such advance a certificate or certificates in the form required by the Commissioner, supported by such other information as the Commissioner may prescribe, certifying that the laborers and mechanics employed in the construction of the dwelling or dwellings, or housing project involved, have been paid not less than the wage prevailing in the locality in which the work was performed for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor prior to beginning of construction and after the date of filing of the application for insurance.
+
+(e) Compliance with the provisions of this subsection shall be evidenced at such time and in such manner as the Commissioner may prescribe.

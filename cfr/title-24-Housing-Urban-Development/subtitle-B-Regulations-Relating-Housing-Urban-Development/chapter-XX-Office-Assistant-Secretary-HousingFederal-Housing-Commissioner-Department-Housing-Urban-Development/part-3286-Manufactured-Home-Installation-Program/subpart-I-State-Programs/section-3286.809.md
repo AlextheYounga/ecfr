@@ -1,0 +1,5 @@
+##### § 3286.809 Withdrawal of qualifying installation program status. #####
+
+(a) *Voluntary withdrawal.* Any state that intends to withdraw from its responsibilities to administer a qualifying installation program should provide the Secretary with a minimum of 90 days notice.
+
+(b) *Involuntary withdrawal.* Whenever the Secretary finds, after affording notice and an opportunity for a hearing in accordance with subpart D of part 3282 of this chapter, that a state installation program fails to comply substantially with any provision of the installation program requirements or that the state program has become inadequate, the Secretary will notify the state of withdrawal of acceptance or conditional acceptance of the state installation program. The HUD-administered installation program will begin to operate in such state at such time as the Secretary establishes in issuing the finding.

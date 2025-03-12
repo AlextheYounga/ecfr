@@ -1,0 +1,3 @@
+##### § 203.416 Amount and items of certificate of claim. #####
+
+The certificate shall be for an amount which the Commissioner determines to be sufficient to pay all amounts due under the mortgage and not covered by the amount of debentures and cash adjustment check. The certificate shall include a reasonable amount for necessary expenses incurred by the mortgagee in connection with the foreclosure proceedings or the acquisition of the mortgaged property otherwise and the conveyance thereof to the Commissioner, including reasonable attorneys' fees, unpaid interest, and cost of repairs to the property made by the mortgagee to remedy the waste.

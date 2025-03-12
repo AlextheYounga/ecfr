@@ -1,0 +1,3 @@
+##### § 970.31 Replacement units. #####
+
+Notwithstanding any other provision of law, replacement public housing units may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units is significantly fewer than the number of units demolished. Such development must comply with 24 CFR part 905, Public Housing Capital Fund Program, as well as 24 CFR part 941.

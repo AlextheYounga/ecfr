@@ -1,0 +1,11 @@
+##### § 105-56.014 Purpose and scope. #####
+
+(a) This subpart establishes procedures for the offset of Federal salary payments, through the Financial Management Service's (FMS) administrative offset program, to collect delinquent debts owed to the Federal Government. This process is known as centralized salary offset. Rules issued by the Office of Personnel Management contain the requirements Federal agencies must follow prior to conducting salary offset and the procedures for requesting offsets directly from a paying agency. See 5 CFR parts 550.1101 through 550.1108.
+
+(b) This subpart implements the requirement under 5 U.S.C. 5514 (a)(1) that all Federal agencies, using a process known as centralized salary offset computer matching, identify Federal employees who owe delinquent non-tax debt to the United States. Centralized salary offset computer matching is the computerized comparison of delinquent debt records with records of Federal employees. The purpose of centralized salary offset computer matching is to identify those debtors whose Federal salaries should be offset to collect delinquent debts owed to the Federal Government.
+
+(c) This subpart specifies the delinquent debt records and Federal employee records that must be included in the salary offset matching process. For purposes of this subpart, delinquent debt records consist of the debt information submitted to FMS for purposes of administrative offset as required under 31 U.S.C. 3716(c)(6). Since GSA submits debts to FMS for purposes of administrative offset, the Agency is not required to submit duplicate information for purposes of centralized salary offset computer matching under 5 U.S.C. 5514(a)(1) and this subpart.
+
+(d) An interagency consortium was established to implement centralized salary offset computer matching on a Governmentwide basis as required under 5 U.S.C. 5514(a)(1). Federal employee records consist of records of Federal salary payments disbursed by members of the consortium.
+
+(e) The receipt of collections from salary offsets does not preclude GSA from pursuing other debt collection remedies, including the offset of other Federal payments to satisfy delinquent non-tax debt owed to the United States. GSA will pursue, when appropriate, such debt collection remedies separately or in conjunction with salary offset.

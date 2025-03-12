@@ -1,0 +1,3 @@
+##### § 241.635 Regulatory agreement. #####
+
+Any borrower obligated on the note for any loan insured under this subpart shall be regulated or restricted in a manner and on a form prescribed by the Secretary as to rents or sales, charges, capital structure, rate of return and methods of operation of the multifamily project to such an extent and in such manner as to provide reasonable rental to tenants and a reasonable return on the investment until the termination of all obligations of the Secretary under the contract of insurance.

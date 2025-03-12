@@ -1,0 +1,3 @@
+##### § 200.21 Reinsurance of Commissioner held mortgages. #####
+
+Any mortgage assigned to the Commissioner in connection with payment under a contract of mortgage insurance, or executed in connection with a sale by the Commissioner of any property acquired under any section or title of the Act, may be insured pursuant to provisions of section 223(c) of the Act and such terms and conditions established by the Commissioner.

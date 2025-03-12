@@ -1,0 +1,5 @@
+##### § 60-4.6 Goals and timetables. #####
+
+The Director, from time to time, shall issue goals and timetables for minority and female utilization which shall be based on appropriate workforce, demographic or other relevant data and which shall cover construction projects or construction contracts performed in specific geographical areas. The goals, which shall be applicable to each construction trade in a covered contractor's or subcontractor's entire workforce which is working in the area covered by the goals and timetables, shall be published as notices in the Federal Register, and shall be inserted by the contracting officers and applicants, as applicable, in the Notice required by 41 CFR 60-4.2. Covered construction contractors performing construction work in geographical areas where they do not have a Federal or federally assisted construction contract shall apply the minority and female goals established for the geographical area where the work is being performed.
+
+[45 FR 65978, Oct. 3, 1980]

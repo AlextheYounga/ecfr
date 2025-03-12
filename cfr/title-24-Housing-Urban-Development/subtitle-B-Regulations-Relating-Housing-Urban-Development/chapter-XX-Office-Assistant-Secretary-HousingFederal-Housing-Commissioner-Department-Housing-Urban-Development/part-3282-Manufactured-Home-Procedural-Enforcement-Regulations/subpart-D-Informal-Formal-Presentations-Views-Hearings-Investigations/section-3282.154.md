@@ -1,0 +1,5 @@
+##### § 3282.154 Petitions for formal or informal presentations of views, and requests for extraordinary interim relief. #####
+
+Any person entitled to a Formal or an Informal Presentation of Views under paragraph (f) or paragraph (g) of § 3282.152 in order to address issues as provided for in § 3282.151(a) may petition the Secretary to initiate such a Presentation of Views. The petition may be accompanied by a request that the Secretary provide appropriate interim relief pending the issuance of the final determination or decision. No interim relief will be granted unless there is a showing of extraordinary cause. Upon receipt of a petition, the Secretary shall grant the petition and issue the notice provided for in § 3282.152(b) for Formal or Informal Presentation of Views, and may grant, deny or defer decision on any request for interim relief.
+
+[51 FR 34468, Sept. 29, 1986]

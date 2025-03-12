@@ -1,0 +1,3 @@
+##### § 242.38 Late charge. #####
+
+The mortgage may provide for the collection by the mortgagee of a late charge in accordance with terms, conditions, and standards of HUD for each dollar of each payment to interest or principal more than 15 days in arrears, to cover the expense involved in handling delinquent payments. Late charges shall be separately charged to and collected from the mortgagor and shall not be deducted from any aggregate monthly payment.

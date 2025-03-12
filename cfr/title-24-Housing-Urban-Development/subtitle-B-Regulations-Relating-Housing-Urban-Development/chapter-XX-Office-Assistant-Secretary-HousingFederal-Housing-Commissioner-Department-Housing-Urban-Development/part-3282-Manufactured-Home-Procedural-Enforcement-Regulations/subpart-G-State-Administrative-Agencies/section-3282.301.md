@@ -1,0 +1,3 @@
+##### § 3282.301 General—scope. #####
+
+This subpart sets out procedures to be followed and requirements to be met by States which wish to participate as State Administrative Agencies (SAA) under the Federal standards enforcement program. Requirements relating to States which wish to participate as primary inspection agencies under the Federal standards enforcement program are set out in subpart H of this part. Requirements which States must meet in order to receive full or conditional approval as SAAs and the responsibilities of such agencies are set out in § 3282.302. Reporting requirements for approved and conditionally approved SAAs are set out in subpart L.

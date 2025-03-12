@@ -1,0 +1,3 @@
+##### § 242.11 Regulatory compliance required. #####
+
+An application for insurance of a mortgage under this part shall be considered only in connection with a hospital that is in substantial compliance with regulations of the Department of Health and Human Services and the regulations of the applicable state governing the operation and reimbursement of hospitals. A hospital that is under investigation by any state or federal agency for statutory or regulatory violations is not eligible so long as the investigation is unresolved, unless HUD determines that the investigation is minor in nature; that is, the investigation is unlikely to result in substantial liabilities or to otherwise substantially harm the creditworthiness of the hospital.

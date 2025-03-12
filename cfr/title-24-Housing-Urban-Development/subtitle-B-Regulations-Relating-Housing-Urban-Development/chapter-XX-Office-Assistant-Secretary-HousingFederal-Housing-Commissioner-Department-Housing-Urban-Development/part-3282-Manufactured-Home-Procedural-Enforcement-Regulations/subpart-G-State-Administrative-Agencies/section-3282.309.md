@@ -1,0 +1,7 @@
+##### § 3282.309 Formal and informal presentations of views held by SAAs. #####
+
+(a) When an SAA is the appropriate agency to hold a Formal or Informal Presentation of Views under § 3282.412 of subpart I, the SAA shall follow the procedures set out in §§ 3282.152 and 3282.153, with the SAA acting as the Secretary otherwise would under that section. Where § 3282.152 requires publication of notice in the Federal Register, the SAA shall, to the maximum extent possible, provide equivalent notice throughout the State by publication in the newspaper or newspapers having statewide coverage or otherwise. The determination of whether to provide an Informal Presentation of Views under § 3282.152(f), or a Formal Presentation of Views under § 3282.152(g), is left to the SAA.
+
+(b) Notwithstanding the provisions of § 3282.152(f)(2) and (g)(2) relating to the conclusive effect of a final determination, any party, in a proceeding held at an SAA under this section, including specifically the owners of affected manufactured homes, States in which affected manufactured homes are located, consumer groups representing affected owners and manufacturers (but limited to parties with similar substantial interest) may appeal to the Secretary in writing any Final Determination by an SAA which is adverse to the interest of that party. This appeal on the record shall be made within 30 days of the date on which the Final Determination was made by the SAA.
+
+[41 FR 19852, May 13, 1976, as amended at 51 FR 34468, Sept. 29, 1986; 78 FR 60199, Oct. 1, 2013]

@@ -1,0 +1,3 @@
+##### § 241.585 Prepayment privileges and prepayment charge. #####
+
+The security instrument shall contain a provision permitting prepayment of the loan in whole or in part upon any interest payment date after giving to the lender 30 days advance written notice and it may contain a provision, with the approval of the Commissioner, for a reasonable charge in the event of prepayment. The borrower shall be permitted to prepay up to 15 percent of the original principal amount of the loan in any one calendar year without an additional charge. A provision for a charge in the event of prepayment may not be included in a loan of $200,000 or less.

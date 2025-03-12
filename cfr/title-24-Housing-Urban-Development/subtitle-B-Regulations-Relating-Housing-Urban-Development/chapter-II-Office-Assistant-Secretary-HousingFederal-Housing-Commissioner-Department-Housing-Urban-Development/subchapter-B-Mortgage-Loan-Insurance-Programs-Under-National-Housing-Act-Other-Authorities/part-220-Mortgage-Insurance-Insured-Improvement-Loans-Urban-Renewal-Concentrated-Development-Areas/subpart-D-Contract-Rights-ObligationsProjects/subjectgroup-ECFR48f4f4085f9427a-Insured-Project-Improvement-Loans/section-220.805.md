@@ -1,0 +1,5 @@
+##### § 220.805 Termination of insurance. #####
+
+(a) *Prepayment in full.* The contract of insurance shall be terminated if the loan is paid in full prior to its maturity. Notice of the prepayment shall be given to the Commissioner, on a form prescribed by the Commissioner, within 30 days from the date of the prepayment. The insurance termination shall become effective as of the date of the prepayment.
+
+(b) *Voluntary termination.* The contract of insurance shall be voluntarily terminated upon receipt by the Commissioner of a written request, on a form prescribed by the Commissioner, by the borrower and the lender for such termination, accompanied by a submission of the original credit instrument for cancellation of the insurance endorsement and the remittance of all sums to which the Commissioner is entitled. The termination shall become effective as of the date these requirements are met.

@@ -1,0 +1,3 @@
+##### § 242.48 Insured advances for certain equipment and long lead items. #####
+
+The Commissioner may allow advances for certain pieces of equipment or other construction materials for which a manufacturer, fabricator, or other source requires an interim payment(s) in order to assure the timely manufacture or fabrication and delivery to the project site. Such advances can be made only if a bill of sale or an invoice describes the material or equipment and its completion and delivery dates in no uncertain terms, and that such displayed timetable is necessary to meet the requirements of the overall construction schedule cited in the construction contract.

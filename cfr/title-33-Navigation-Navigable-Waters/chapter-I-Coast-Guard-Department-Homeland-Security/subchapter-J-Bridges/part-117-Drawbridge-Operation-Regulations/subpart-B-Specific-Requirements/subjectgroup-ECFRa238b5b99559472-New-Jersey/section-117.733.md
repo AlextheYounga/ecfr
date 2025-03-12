@@ -54,8 +54,6 @@
 
 (3) On the third or fourth Wednesday of August the draw will open every two hours on the hour from 10 a.m. until 4 p.m. and need not open from 4 p.m. until 8 p.m. to accommodate the annual Air Show.
 
-(4) From 8 a.m. on March 3, 2021, through 5 p.m. on March 31, 2021; from 8 a.m. on November 1, 2021, through 5 p.m. on March 31, 2022; and from 8 a.m. on November 1, 2022, through 5 p.m. on March 31, 2023, the drawbridge will be maintained in the closed-to-navigation position. A work platform will reduce the horizontal clearance of the navigation channel to approximately 30 feet and temporary shielding will reduce the vertical clearance of the entire bridge to approximately 19 feet above mean high water in the closed position. Vessels that can safely transit through the bridge in the closed position with the reduced clearances may do so, if at least 30 minutes notice is given, to allow for safe navigation.
-
 (h) The draw of the US40-322 (Albany Avenue) Bridge, mile 70.0 across Inside Thorofare, at Atlantic City, shall open on signal except that:
 
 (1) Year-round, from 11 p.m. to 7 a.m.; and from November 1 through March 31 from 3 p.m. to 11 p.m., the draw need only open if at least four hours notice is given;
@@ -102,5 +100,4 @@
 
 (4) Opening of the draw span may be delayed for ten minutes after a signal to open except as provide in (117.31(b). However, if a train is moving toward the bridge and has crossed the home signal for the bridge before the signal requesting opening of the bridge is given, the train may continue across the bridge and must clear the bridge interlocks as soon as possible in order to prevent unnecessary delays in the opening of the draw.
 
-[CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014; USCG-2020-0334,
-86 FR 7650, Feb. 1, 2021; USCG-2020-0647, 86 FR 46967, Aug. 23, 2021; 86 FR 54852, Oct. 5, 2021]Effective Date Note:By USCG-2020-0334, 86 FR 7650, Feb. 1, 2021, § 117.733 was amended by adding paragraph (e)(4), effective until Mar. 31, 2023. By USCG-2020-0647, 86 FR 54852, Oct. 5, 2021, paragraph (e) was redesignated as (g).
+[CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014; USCG-2020-0647, 86 FR 46967, Aug. 23, 2021; 86 FR 54852, Oct. 5, 2021]

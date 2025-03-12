@@ -1,0 +1,3 @@
+##### § 242.62 Releases of lien. #####
+
+The mortgagor shall not sell, dispose of, transfer, or permit to be encumbered any security property without the prior approval of the lender and Commissioner, subject to thresholds or such other standards as HUD may establish for the approval requirement. Where there is a partial release of lien, the lender must make a determination, subject to prior review and approval by HUD, that the remaining or replacement property subject to the first lien provides adequate security for the remaining principal indebtedness.

@@ -1,0 +1,7 @@
+##### § 3286.503 Inspection required. #####
+
+(a) *Timing of requirements.* Ten business days prior to the completion of the installation of each manufactured home, the installer must arrange for a third-party inspection of the work performed, unless the installer and retailer who contracted with the purchaser for the sale of the home agree, in writing, that during the same time period the retailer will arrange for the inspection. Such inspection must be performed as soon as practicable by an inspector that meets the qualifications set out in § 3286.511. The scope of the inspections that are required to be performed is addressed in § 3286.505.
+
+(b) *Disclosure of requirement.* At the time of sale, the retailer must disclose to the purchaser, in a manner provided in § 3286.7, that the manufactured home must be installed in accordance with applicable federal and state law, including requirements for a third-party inspection of the installation. If the cost of inspection of the home's installation is not included in the sales price of the home, the sales contract must include a clear disclosure about whether the purchaser will be charged separately for the inspection of the home's installation and the amount of such charge.
+
+(c) *Providing instructions to inspectors.* Installation instructions must be made available to the inspector at the installation site by the installer.

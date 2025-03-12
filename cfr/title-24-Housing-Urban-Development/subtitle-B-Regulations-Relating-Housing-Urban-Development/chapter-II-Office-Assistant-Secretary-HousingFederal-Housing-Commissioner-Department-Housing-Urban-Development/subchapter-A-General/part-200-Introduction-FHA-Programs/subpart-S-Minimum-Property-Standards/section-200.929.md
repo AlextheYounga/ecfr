@@ -1,0 +1,11 @@
+##### § 200.929 Description and identification of minimum property standards. #####
+
+(a) *Description.* The Minimum Property Standards describe physical standards for housing. They are intended to provide a sound basis for determining the acceptability of housing built under the HUD mortgage insurance and low-rent public housing programs. The Minimum Property Standards refer to material standards developed by industry and accepted by HUD. In addition, under Section 521 of the National Housing Act, HUD adopts its own technical suitability standards for materials and products for which there are no industry standards acceptable to HUD. These standards are contained in Use of Materials Bulletins that apply to products and methods and Materials Releases that apply to specific materials. Use of Materials Bulletins and Materials Releases are addenda to the Minimum Property Standards. Unless otherwise stated, the current edition, issue, or version of each of these documents, as available from its source, is applicable to this subpart S. A list of the Use of Materials Bulletins, Materials Releases, and MPS Appendix listing the applicable referenced Standards may be obtained from the Construction Standards Division, Office of Manufactured Housing and Construction Standards, room 6170 Department of Housing and Urban Development, 451 7th Street, SW, Washington, DC 20410.
+
+(b) *Identification.* The Minimum Property Standards have been published as described below:
+
+(1) MPS for One and Two Family Dwellings. *See* §§ 200.926, 200.926 (a) through (e).
+
+(2) MPS for Housing 4910.1, 1994 edition. This volume applies to buildings and sites designed and used for normal multifamily occupancy, including both unsubsidized and subsidized insured housing, and to care-type housing insured under the National Housing Act. It also includes, in Appendix K, a reprint of the MPS for One and Two Family Dwellings identified in paragraph (b)(1) of this section.
+
+[39 FR 26895, July 24, 1974, as amended at 42 FR 33890, July 1, 1977; 47 FR 29524, July 7, 1982; 47 FR 35761, Aug. 17, 1982; 49 FR 18695, May 1, 1984; 50 FR 39592, Sept. 29, 1985; 51 FR 28699, Aug. 11, 1986; 58 FR 60250, Nov. 15, 1993; 63 FR 5423, Feb. 2, 1998]

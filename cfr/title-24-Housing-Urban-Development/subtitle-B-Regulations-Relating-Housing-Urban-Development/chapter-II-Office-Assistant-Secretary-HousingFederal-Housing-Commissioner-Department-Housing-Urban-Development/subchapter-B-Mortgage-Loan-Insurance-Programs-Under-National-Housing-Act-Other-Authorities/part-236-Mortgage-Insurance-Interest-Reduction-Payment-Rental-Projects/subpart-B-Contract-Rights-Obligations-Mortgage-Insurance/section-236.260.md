@@ -1,0 +1,3 @@
+##### § 236.260 Request by Commissioner for assignment of mortgage. #####
+
+The mortgagee shall, when requested by the Commissioner, assign to the Commissioner a mortgage on which interest reduction payments are being made pursuant to the provisions of § 236.501 *et seq.* If the mortgage is not in default when the Commissioner requests its assignment, the first day of the month following the Commissioner's request shall be considered the date of default.

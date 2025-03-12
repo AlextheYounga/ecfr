@@ -1,0 +1,5 @@
+##### § 3288.5 Retailer notification at sale. #####
+
+*Retailer notice at the time of signing.* At the time of signing a contract for sale or lease for a manufactured home, the retailer must provide the purchaser with a retailer notice. This notice may be in a separate document from the sales contract or may be incorporated clearly in a separate section on consumer dispute resolution information at the top of the sales contract. The notice must include the following language:
+
+The U.S. Department of Housing and Urban Development (HUD) Manufactured Home Dispute Resolution Program is available to resolve disputes among manufacturers, retailers, or installers concerning defects in manufactured homes. Many states also have a consumer assistance or dispute resolution program. For additional information about these programs, see sections titled “Dispute Resolution Process” and “Additional Information—HUD Manufactured Home Dispute Resolution Program” in the Consumer Manual required to be provided to the purchaser. These programs are not warranty programs and do not replace the manufacturer's, or any other person's, warranty program.

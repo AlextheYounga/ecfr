@@ -1,0 +1,7 @@
+##### § 241.1100 Prepayment privilege and charges. #####
+
+(a) *Prepayment privilege.* (1) Except as otherwise provided in paragraph (b) of this section, the security instrument shall contain a provision permitting the borrower to prepay the loan, in whole or in part, upon any interest payment date after giving to the lender 30 days advance notice of its intention to prepay.
+
+(2) If the loan exceeds $200,000, the security instrument may contain a provision for an additional charge in the event of prepayment of principal as may be agreed upon between the borrower and lender. These charges shall not be imposed if the loan is accelerated at the request of the Commissioner, pursuant to § 241.1046(b). The borrower shall be permitted to prepay up to 15 percent of the original principal amount of the loan in any one calendar year without any additional charge. A provision for an additional charge in the event of prepayment may not be included in a loan of $200,000 or less.
+
+(b) *Prepayment of bond-financed loan.* Where the lender has obtained the funds for the loan by the issuance and sale of bonds or bond anticipation notes, or both, the loan may contain a prepayment restriction and prepayment penalty charges acceptable to the Commissioner as to term, amount, and conditions.

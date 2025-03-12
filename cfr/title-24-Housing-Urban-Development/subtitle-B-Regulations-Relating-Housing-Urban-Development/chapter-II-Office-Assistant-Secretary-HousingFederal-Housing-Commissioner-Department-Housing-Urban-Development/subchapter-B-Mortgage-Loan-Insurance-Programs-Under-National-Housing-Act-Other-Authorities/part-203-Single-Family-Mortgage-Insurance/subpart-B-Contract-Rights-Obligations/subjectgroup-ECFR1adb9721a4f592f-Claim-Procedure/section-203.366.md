@@ -1,0 +1,11 @@
+##### § 203.366 Conveyance of marketable title. #####
+
+(a) *Satisfactory conveyance of title and transfer of possession.* The mortgagee shall tender to the Commissioner a satisfactory conveyance of title and transfer of possession of the property. The deed or other instrument of conveyance shall convey good marketable title to the property, which shall be accompanied by title evidence satisfactory to the Commissioner.
+
+(b) *Conveyance of property without good marketable title.* (1) For mortgages insured under firm commitments issued on or after November 19, 1992, or under direct endorsement processing where the credit worksheet was signed by the mortgagee's underwriter on or after November 19, 1992, if the title to the property conveyed by the mortgagee to the Secretary is not good and marketable, the mortgagee must correct any title defect within 60 days after receiving notice from the Secretary, or within such further time as the Secretary may approve in writing.
+
+(2) If the defect is not corrected within 60 days, or such further time as the Secretary approves in writing, the mortgagee must reimburse the Secretary for HUD's costs of holding the property, accruing on a daily basis, and interest on the amount of insurance benefits paid to the mortgagee at an interest rate set in conformity with the Treasury Fiscal Requirements Manual from the date of such notice to the date the defect is corrected or until the Secretary reconveys the property to the mortgagee, as described in paragraph (b)(3) of this section. The daily holding costs to be charged a mortgagee shall include the costs specified in § 203.364 of this part.
+
+(3) If the title defect is not corrected within a reasonable time, as determined by HUD, the Secretary will, after notice, reconvey the property to the mortgagee and the mortgagee must reimburse the Secretary in accordance with §§ 203.363 and 203.364 of this part.
+
+[36 FR 24508, Dec. 22, 1971, as amended at 57 FR 47972, Oct. 20, 1992; 61 FR 36453, July 10, 1996]

@@ -1,0 +1,7 @@
+##### § 3280.505 Air infiltration. #####
+
+(a) *Envelope air infiltration.* The opaque envelope shall be designed and constructed to limit air infiltration to the living area of the home. Any design, material, method or combination thereof which accomplishes this goal may be used. The goal of the infiltration control criteria is to reduce heat loss/heat gain due to infiltration as much as possible without impinging on health and comfort and within the limits of reasonable economics.
+
+(1) *Envelope penetrations.* Plumbing, mechanical and electrical penetrations of the pressure envelope not exempted by this part, and installations of window and door frames shall be constructed or treated to limit air infiltration. Penetrations of the pressure envelope made by electrical equipment, other than distribution panel boards and cable and conduit penetrations, are exempt from this requirement. Cable penetrations through outlet boxes are considered exempt.
+
+(2) *Joints between major envelope elements.* Joints not designed to limit air infiltration between wall-to-wall, wall-to-ceiling and wall-to-floor connections shall be caulked or otherwise sealed. When walls are constructed to form a pressure envelope on the outside of the wall cavity, they are deemed to meet this requirement.

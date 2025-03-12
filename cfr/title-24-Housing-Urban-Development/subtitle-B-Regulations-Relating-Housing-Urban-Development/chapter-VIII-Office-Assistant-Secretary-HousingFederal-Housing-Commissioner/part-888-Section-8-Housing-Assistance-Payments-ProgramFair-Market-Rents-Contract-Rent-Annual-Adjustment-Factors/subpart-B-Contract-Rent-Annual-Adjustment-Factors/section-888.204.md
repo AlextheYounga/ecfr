@@ -1,0 +1,5 @@
+##### § 888.204 Revision to the automatic annual adjustment factors. #####
+
+If the application of the Annual Adjustment Factors results in rents that are substantially lower than rents charged for comparable units not receiving assistance under the U.S. Housing Act of 1937, in the area for which the factor was published or a portion thereof, and it is shown to HUD that the costs of operating comparable rental housing have increased at a substantially greater rate than the Adjustment Factors, the HUD Field Office will consider establishing separate or revised Automatic Annual Adjustment Factors for that particular area. Any request for revision of the factors must be accompanied by an identification of the area, its boundaries and evidence that the area constitutes the largest contiguous area in which substantially the same rent levels prevail. The HUD Field Office will publish appropriate notice of the establishment of any such revised Automatic Annual Adjustment Factors. These factors will remain in effect until superseded by the subsequent publication of Automatic Annual Adjustment Factors pursuant to § 888.202.
+
+[44 FR 21769, Apr. 12, 1979]

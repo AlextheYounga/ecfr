@@ -1,0 +1,3 @@
+##### § 208.101 Purpose. #####
+
+The purpose of this part is to require owners of subsidized multifamily projects to electronically submit certain data to HUD for the programs listed in § 208.104. This electronically submitted data is required by HUD Forms, Owner's Certification of Compliance with Tenant's Eligibility and Rent Procedure, Worksheets to Compute Tenant Payment/Rent (Form HUD-50059 and 50059 Worksheets), and the Monthly Subsidy Billing Forms, Housing Owner's Certification and Application for Housing Assistance Payments (HUD-52670), Schedule of Tenant Assistance Payments Due (HUD-52670A, Part 1), Schedule of section 8 Special Claims (HUD-52670A, Part 2), and Special Claims Worksheets, HUD-52671 A through D), as applicable.

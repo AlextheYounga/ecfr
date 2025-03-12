@@ -1,0 +1,5 @@
+##### § 206.8 Preemption. #####
+
+(a) *Lien priority.* The full amount secured by the mortgage shall have the same priority over any other liens on the property as if the full amount had been disbursed on the date the initial disbursement was made, regardless of the actual date of any disbursement. The amount secured by the mortgage shall include all direct payments by the mortgagee to the borrower and all other loan advances permitted by the mortgage for any purpose, including loan advances for interest, property charges, mortgage insurance premiums, required repairs, servicing charges, counseling charges, and costs of collection, regardless of when the payments or loan advances were made. The priority provided by this section shall apply notwithstanding any State constitution, law, or regulation.
+
+(b) *Second mortgage.* If the Commissioner holds a second mortgage, it shall have a priority subordinate only to the first mortgage (and any senior liens permitted by paragraph (a) of this section).

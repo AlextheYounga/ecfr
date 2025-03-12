@@ -1,0 +1,3 @@
+##### § 236.730 Maximum annual rental assistance contract amount. #####
+
+The rental assistance contract shall specify the maximum amount of the rental assistance payments for the project for the rent-up period, or for any such other period of time as the Secretary may prescribe, based upon the Secretary's estimate of probable demand and tenant income, including a 10 percent contingency allowance. At the end of such period of time, and annually thereafter, appropriate adjustments, as the Secretary may prescribe, shall be made in the maximum annual rental assistance contract amount, to reflect the actual requirements of the eligible tenants and a 10 percent contingency allowance.
