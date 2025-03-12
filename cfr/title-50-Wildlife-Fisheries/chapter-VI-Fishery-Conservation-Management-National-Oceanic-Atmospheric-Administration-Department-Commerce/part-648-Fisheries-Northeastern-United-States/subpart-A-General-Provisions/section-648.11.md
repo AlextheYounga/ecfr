@@ -138,7 +138,7 @@
 
 (vi) A description of the applicant's ability to carry out the responsibilities and duties of a monitoring service provider as set out under paragraph (h)(5) of this section, and the arrangements to be used.
 
-(vii) Evidence of holding adequate insurance to cover injury, liability, and accidental death for observers or monitors, whether contracted or employed by the service provider, during their period of employment (including during training). Workers' Compensation and Maritime Employer's Liability insurance must be provided to cover the observer or monitor, vessel owner, and observer provider. The minimum coverage required is $5 million. Monitoring service providers shall provide copies of the insurance policies to observers or monitors to display to the vessel owner, operator, or vessel manager, when requested.
+(vii) Evidence of holding insurance specified at § 600.748(b) and (c) of this chapter.
 
 (viii) Proof that its observers or monitors, whether contracted or employed by the service provider, are compensated with salaries that meet or exceed the U.S. Department of Labor (DOL) guidelines for observers. Observers shall be compensated as Fair Labor Standards Act (FLSA) non-exempt employees. Monitoring service providers shall provide any other benefits and personnel services in accordance with the terms of each observer's or monitor's contract or employment status.
 
@@ -486,4 +486,4 @@
 
 (iv) If catch is slipped by a vessel issued a limited access Atlantic mackerel permit for any reason not described in paragraph (n)(3)(i) of this section, the vessel operator must immediately terminate the trip and return to port. No fishing activity may occur during the return to port.
 
-[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022]
+[85 FR 7431, Feb. 7, 2020, as amended at 85 FR 26882, May 6, 2020; 85 FR 43152, July 15, 2020; 85 FR 47112, Aug. 4, 2020; 86 FR 1823, Jan. 11, 2021; 87 FR 18283, Mar. 30, 2022; 87 FR 54909, Sept. 8, 2022]

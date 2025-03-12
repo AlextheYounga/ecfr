@@ -1,5 +1,7 @@
 ##### § 801.11 Rules and regulations for the BE-120 Benchmark Survey of Transactions in Selected Services and Intellectual Property with Foreign Persons - 2017. #####
 
+Link to an amendment published at 87 FR 54887, Sept. 8, 2022.
+
 The BE-120 Benchmark Survey of Transactions in Selected Services and Intellectual Property with Foreign Persons will be conducted covering fiscal year 2017. All legal authorities, provisions, definitions, and requirements contained in §§ 801.1 and 801.2 and §§ 801.4 through 801.6 are applicable to this survey. Specific additional rules and regulations for the BE-120 survey are given in paragraphs (a) through (e) of this section. More detailed instructions are given on the report form and in instructions accompanying the report form.
 
 (a) *Response required.* A response is required from persons subject to the reporting requirements of the BE-120 Benchmark Survey of Transactions in Selected Services and Intellectual Property with Foreign Persons - 2017, contained in this section, whether or not they are contacted by BEA. Also, a person, or its agent, that is contacted by BEA about reporting on this survey, either by sending them a report form or by written inquiry, must respond in writing pursuant to this section. This may be accomplished by:

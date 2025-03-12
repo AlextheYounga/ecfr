@@ -1,5 +1,7 @@
 ##### § 801.12 Rules and regulations for the BE-140 Benchmark Survey of Insurance Transactions by U.S. Insurance Companies with Foreign Persons - 2018. #####
 
+Link to an amendment published at 87 FR 54888, Sept. 8, 2022.
+
 The BE-140 Benchmark Survey of Insurance Transactions by Insurance Companies with Foreign Persons will be conducted covering calendar year 2018. All legal authorities, provisions, definitions, and requirements contained in §§ 801.1 through 801.2 and §§ 801.4 through 801.6 are applicable to this survey. Specific additional rules and regulations for the BE-140 survey are given in paragraphs (a) through (e) of this section. More detailed instructions are given on the report form and in instructions accompanying the report form.
 
 (a) *Response required.* A response is required from U.S. insurance companies subject to the reporting requirements of the BE-140 Benchmark Survey of Insurance Transactions by U.S. Insurance Companies with Foreign Persons - 2018, contained in this section, whether or not they are contacted by BEA. Also, a U.S. insurance company, or its agent, that is contacted by BEA about reporting on this survey, either by sending a report form or by written inquiry, must respond in writing pursuant to this section. This may be accomplished by:

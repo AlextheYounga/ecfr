@@ -182,6 +182,8 @@
 
 (iv) *Gear testing exemption.* Vessels exempt from the requirement to maintain observer coverage as specified in this paragraph (g) while gear testing as defined at § 660.11. The vessel operator must submit a valid declaration for gear/equipment testing, as required by § 660.13(d)(4)(iv)(A), and must notify the Observer Program of the gear testing activity at least 48 hours prior to departing on a trip to test gear/equipment.
 
+(v) *Certificates of insurance.* The observer provider must submit copies of “certificates of insurance” that name the Northwest Fisheries Science Center Observer Program manager as the “certificate holder” to the Observer Program Office by February 1 of each year. The certificates of insurance shall verify all coverage provisions specified at § 600.748(b) and (c) of this chapter and state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled.
+
 (2) *Vessel responsibilities.* An operator and/or crew of a vessel required to carry an observer must provide:
 
 (i) *Accommodations and food.* Provide accommodations and food that are equivalent to those provided for officers, engineers, foremen, deck-bosses or other management level personnel of the vessel.
@@ -536,4 +538,4 @@
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021; 87 FR 54910, Sept. 8, 2022]

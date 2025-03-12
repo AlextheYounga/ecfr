@@ -1,5 +1,7 @@
 ##### § 116.12 Repayment of candidate loans of $250,000 or less. #####
 
+Link to an amendment published at 87 FR 54863, Sept. 8, 2022.
+
 (a) A candidate's authorized committee may repay to the candidate a personal loan, as defined in 11 CFR 116.11(a), of up to $250,000 where the proceeds of the loan were used in connection with the candidate's campaign for election. The repayment may be made from contributions to the candidate or the candidate's authorized committee at any time before, on, or after the date of the election.
 
 (b) This section applies separately to each election.

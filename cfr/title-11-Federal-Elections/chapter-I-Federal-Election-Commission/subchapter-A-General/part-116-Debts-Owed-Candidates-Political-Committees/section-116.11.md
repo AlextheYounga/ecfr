@@ -1,5 +1,7 @@
 ##### § 116.11 Restriction on an authorized committee's repayment of personal loans exceeding $250,000 made by the candidate to the authorized committee. #####
 
+Link to an amendment published at 87 FR 54863, Sept. 8, 2022.
+
 (a) For purposes of this part, personal loans mean a loan or loans, including advances, made by a candidate, using personal funds, as defined in 11 CFR 100.33, to his or her authorized committee where the proceeds of the loan were used in connection with the candidate's campaign for election. Personal loans also include loans made to a candidate's authorized committee that are endorsed or guaranteed by the candidate or that are secured by the candidate's personal funds.
 
 (b) For personal loans that, in the aggregate, exceed $250,000 in connection with an election, the authorized committee:

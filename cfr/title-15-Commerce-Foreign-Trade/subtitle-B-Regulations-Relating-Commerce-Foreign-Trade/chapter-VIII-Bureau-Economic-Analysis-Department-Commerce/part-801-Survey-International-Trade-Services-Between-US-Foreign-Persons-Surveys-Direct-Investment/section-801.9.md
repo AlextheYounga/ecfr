@@ -1,5 +1,7 @@
 ##### § 801.9 Rules and regulations for the BE-180, Benchmark Survey of Financial Services Transactions between U.S. Financial Services Providers and Foreign Persons - 2014. #####
 
+Link to an amendment published at 87 FR 54887, Sept. 8, 2022.
+
 A BE-180, Benchmark Survey of Financial Services Transactions between U.S. Financial Services Providers and Foreign Persons will be conducted covering 2014. All legal authorities, provisions, definitions, and requirements contained in §§ 801.1 through 801.2 and 801.4 through 801.6 are applicable to this survey. Specific additional rules and regulations for the BE-180 survey are given in paragraphs (a) through (e) of this section. More detailed instructions are given on the report forms and in instructions accompanying the report forms.
 
 (a) *Response required.* A response is required from persons subject to the reporting requirements of the BE-180, Benchmark Survey of Financial Services Transactions between U.S. Financial Services Providers and Foreign Persons - 2014, contained herein, whether or not they are contacted by BEA to ensure complete coverage of financial services transactions between U.S. financial services providers and foreign persons. Also, a person, or its agent, that is contacted by BEA about reporting in this survey, either by sending a report form or by written inquiry, must respond in writing pursuant to this section. This may be accomplished by:

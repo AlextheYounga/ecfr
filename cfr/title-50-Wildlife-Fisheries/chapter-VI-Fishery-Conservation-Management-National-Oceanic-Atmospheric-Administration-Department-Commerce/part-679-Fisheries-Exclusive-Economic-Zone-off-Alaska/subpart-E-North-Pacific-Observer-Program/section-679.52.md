@@ -1,6 +1,6 @@
 ##### § 679.52 Observer provider permitting and responsibilities. #####
 
-(a) *Observer provider permit* - (1) *Permit.* The Regional Administrator may issue a permit authorizing a person's participation as an observer provider for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2). Persons seeking to provide observer services under this section must obtain an observer provider permit from NMFS.
+(a) *Observer provider permit*—(1) *Permit.* The Regional Administrator may issue a permit authorizing a person's participation as an observer provider for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2). Persons seeking to provide observer services under this section must obtain an observer provider permit from NMFS.
 
 (2) *New observer provider.* An applicant seeking an observer provider permit must submit a completed application by fax or mail to the Observer Program at the address listed at § 679.51(c)(3).
 
@@ -8,7 +8,7 @@
 
 (i) Identification of the management, organizational structure, and ownership structure of the applicant's business, including identification by name and general function of all controlling management interests in the company, including but not limited to owners, board members, officers, authorized agents, and other employees. If the applicant is a corporation, the articles of incorporation must be provided. If the applicant is a partnership, the partnership agreement must be provided.
 
-(ii) *Contact information* - (A) *Owner(s) information.* The permanent mailing address, phone and fax numbers where the owner(s) can be contacted for official correspondence.
+(ii) *Contact information*—(A) *Owner(s) information.* The permanent mailing address, phone and fax numbers where the owner(s) can be contacted for official correspondence.
 
 (B) *Business information.* Current physical location, business mailing address, business telephone and fax numbers, and business email address for each office.
 
@@ -176,15 +176,7 @@
 
 (v) *Observer debriefing registration.* The observer provider must contact the Observer Program within 5 business days after the completion of an observer's deployment to schedule a date, time, and location for debriefing. Observer debriefing registration information must be provided at the time the debriefing is scheduled and must include the observer's name, cruise number, vessel, or shoreside or stationary floating processor assignment name(s) and code(s), and requested debriefing date.
 
-(vi) *Certificates of insurance.* Copies of “certificates of insurance” that name the NMFS Observer Program leader as the “certificate holder” shall be submitted to the Observer Program by February 1 of each year. The certificates of insurance shall state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled and verify the following coverage provisions:
-
-(A) Maritime Liability to cover “seamen's” claims under the Merchant Marine Act (Jones Act) and General Maritime Law ($1 million minimum);
-
-(B) Coverage under the U.S. Longshore and Harbor Workers' Compensation Act ($1 million minimum);
-
-(C) States Worker's Compensation, as required; and
-
-(D) Commercial General Liability.
+(vi) *Certificates of insurance.* Copies of “certificates of insurance” that name the NMFS Observer Program leader as the “certificate holder” must be submitted to the Observer Program by February 1 of each year. The certificates of insurance shall verify all coverage provisions specified at § 600.748(b) and (c) of this chapter and state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled.
 
 (vii) *Observer provider contracts.* Observer providers must submit to the Observer Program a completed and unaltered copy of each type of signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract) between the observer provider and those entities requiring observer services under § 679.51(a)(2) and (b)(2), by February 1 of each year. Observer providers must also submit to the Observer Program upon request, a completed and unaltered copy of the current or most recent signed and valid contract (including all attachments, appendices, addendums, and exhibits incorporated into the contract and any agreements or policies with regard to observer compensation or salary levels) between the observer provider and the particular entity identified by the Observer Program or with specific observers. Said copies must be submitted to the Observer Program via fax or mail within 5 business days of the request for the contract at the address or fax number listed in § 679.51(c)(3). Signed and valid contracts include the contracts an observer provider has with:
 
@@ -250,4 +242,4 @@
 
 (4) Must not solicit or accept, directly or indirectly, any gratuity, gift, favor, entertainment, loan, or anything of monetary value from anyone who conducts fishing or fish processing activities that are regulated by NMFS, or who has interests that may be substantially affected by the performance or nonperformance of the official duties of the observer provider.
 
-[77 FR 70096, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018]
+[77 FR 70096, Nov. 21, 2012, as amended at 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018; 87 FR 54910, Sept. 8, 2022]

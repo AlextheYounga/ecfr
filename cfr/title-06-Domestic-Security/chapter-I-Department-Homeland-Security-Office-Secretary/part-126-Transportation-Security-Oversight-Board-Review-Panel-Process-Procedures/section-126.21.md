@@ -1,0 +1,13 @@
+##### § 126.21 Motions. #####
+
+(a) *Form of motions.* (1) A motion filed with a TSOB Review Panel must comply with the requirements set forth in § 126.23(c)(1) through (4).
+
+(2) Motions must be filed with the TSOB Docket Clerk and served on all parties in accordance with § 126.13(b). The TSOB Docket Clerk provides all motions to the TSOB Review Panel.
+
+(b) *Duty to confer.* Before filing any motion, a party must confer or make reasonable, good-faith efforts to confer with all other parties to resolve the issues that are the subject of the motion. The moving party must state in the motion, or in a certificate attached to the motion, the specific efforts made to comply with this duty to confer. The moving party must also state in the motion the other parties' positions with regard to the relief requested. If no party opposes the relief requested in a motion, the moving party includes “Unopposed” in the motion's title. TSA does not have a duty to confer before filing an ex parte motion, but must provide notice to all parties that it has made an ex parte filing.
+
+(c) *Motion hearings.* Upon request of any party, or on its own initiative, a TSOB Review Panel may order the parties to appear for a hearing on any motion that was not filed ex parte. Motion hearings may be conducted via communication technology unless all parties agree to appear in person or the TSOB Review Panel in its discretion determines that an in person appearance is necessary for efficient administration of the hearing. The Review Panel considers expense and inconvenience to the parties, the importance of information security, and the quality and reliability of available communication technology when making these determinations.
+
+(d) *Disposition.* A TSOB Review Panel may, consistent with the requirements of due process and after providing the opposing party with an opportunity to review and respond, grant or deny a motion at any time after it is filed.
+
+(e) *Additional procedural requirements for motion practice.* A TSOB Review Panel has discretion to establish via order served on the parties, additional procedural requirements regarding motion practice in response to the exigencies of a particular appeal. Such requirements may include, for example, time periods for filing responses and replies, a deadline for concluding all motion practice, and page limitations different from the default 35-page limit established in § 126.23(c)(3). A TSOB Review Panel may not require disclosure of classified information, SSI, or other protected information.

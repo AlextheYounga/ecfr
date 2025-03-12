@@ -54,7 +54,7 @@
 
 (5) Not disclose data and observations made on board a vessel to any person except the owner or operator of the observed vessel, an authorized officer, NMFS or the Catch Monitor Program; and not disclose data and observations made at a first receiver to any person other than the first receiver site license holder, the first receiver site license authorized representative, facility operators and managers an authorized officer, NMFS or the Catch Monitor Program.
 
-(f) *Catch monitor provider responsibilities* - (1) *Provide qualified candidates to serve as catch monitors.* To be qualified a candidate must:
+(f) *Catch monitor provider responsibilities*—(1) *Provide qualified candidates to serve as catch monitors.* To be qualified a candidate must:
 
 (i) Be a U.S. citizen or have authorization to work in the United States;
 
@@ -76,13 +76,7 @@
 
 (A) Physical fitness exams shall be conducted by a medical doctor who has been provided with a description of the job duties and work conditions and who provides a written conclusion regarding the candidate's fitness relative to the required duties and work conditions. A signed and dated statement from a licensed physician that he or she has physically examined a catch monitor or catch monitor candidate. The statement must confirm that, based on that physical examination, the catch monitor or catch monitor candidate does not have any health problems or conditions that would jeopardize that individual's safety or the safety of others while deployed, or prevent the catch monitor or catch monitor candidate from performing his or her duties satisfactorily. The physician's statement must be submitted to the Catch Monitor Program office prior to certification of a catch monitor. The physical exam must have occurred during the 12 months prior to the catch monitor's or catch monitor candidate's deployment. The physician's statement expires 12 months after the physical exam occurred and a new physical exam must be performed, and accompanying statement submitted, prior to any deployment occurring after the expiration of the statement.
 
-(B) Copies of “certificates of insurance,” that names the Catch Monitor Program Coordinator as the “certificate holder,” shall be submitted to the Catch Monitor Program Office by February 1 of each year. The certificates of insurance shall verify the following coverage provisions and state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled.
-
-(*1*) Coverage under the U.S. Longshore and Harbor Workers' Compensation Act ($1 million minimum).
-
-(*2*) States Worker's Compensation as required.
-
-(*3*) Commercial General Liability.
+(B) The observer provider must submit copies of “certificates of insurance,” that names the Catch Monitor Program Coordinator as the “certificate holder” to the Catch Monitor Program Office by February 1 of each year. The certificates of insurance shall verify all coverage provisions specified at § 600.748(b) and (c) of this chapter and state that the insurance company will notify the certificate holder if insurance coverage is changed or canceled.
 
 (viii) Have signed a statement indicating that they are free from conflict of interest as described under § 660.18(c).
 
@@ -204,7 +198,7 @@
 
 (1) *Catch monitor certification official.* The Regional Administrator (or a designee) will designate a NMFS catch monitor certification official who will make decisions on whether to issue or deny catch monitor certification.
 
-(2) *Agency determinations on catch monitor certifications* - (i) *Issuance of certifications.* Certification may be issued upon determination by the catch monitor certification official that the candidate has successfully met all requirements for certification as specified in § 660.17(d).
+(2) *Agency determinations on catch monitor certifications*—(i) *Issuance of certifications.* Certification may be issued upon determination by the catch monitor certification official that the candidate has successfully met all requirements for certification as specified in § 660.17(d).
 
 (ii) *Denial of a certification.* The catch monitor certification official will issue a written determination identifying the reasons for denial of a certification.
 
@@ -224,7 +218,7 @@
 
 (v) Provisions for remuneration of catch monitors under this section do not constitute a conflict of interest.
 
-(4) *Catch monitor decertification* - (i) *Catch monitor decertification review official.* The Regional Administrator (or a designee) will designate a catch monitor decertification review official(s), who will have the authority to review certifications and issue IADs of decertification.
+(4) *Catch monitor decertification*—(i) *Catch monitor decertification review official.* The Regional Administrator (or a designee) will designate a catch monitor decertification review official(s), who will have the authority to review certifications and issue IADs of decertification.
 
 (ii) *Causes for decertification.* The catch monitor decertification official may initiate decertification proceedings when it is alleged that any of the following acts or omissions have been committed:
 
@@ -244,4 +238,4 @@
 
 (iv) *Appeals.* A certified catch monitor who receives an IAD that suspends or revokes his or her catch monitor certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-[75 FR 78377, Dec. 15, 2010, as amended at 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 80 FR 22280, Apr. 21, 2015]
+[75 FR 78377, Dec. 15, 2010, as amended at 76 FR 53835, Aug. 30, 2011; 76 FR 74734, Dec. 1, 2011; 80 FR 22280, Apr. 21, 2015; 87 FR 54909, Sept. 8, 2022]
