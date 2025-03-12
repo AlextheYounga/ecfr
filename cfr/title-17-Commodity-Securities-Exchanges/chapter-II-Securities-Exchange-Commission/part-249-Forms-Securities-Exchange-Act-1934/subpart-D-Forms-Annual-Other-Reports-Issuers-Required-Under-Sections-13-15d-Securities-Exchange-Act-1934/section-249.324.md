@@ -2,4 +2,4 @@
 
 This form shall be filed by a foreign private issuer to disclose and certify the information on the basis of which it meets the requirements specified in Rule 12h-6 (§ 240.12h-6 of this chapter) to terminate the registration of a class of securities under section 12(g) of the Act (15 U.S.C. 78l(g)) or the duty to file reports under section 13(a) of the Act (15 U.S.C. 78m(a)) or section 15(d) of the Act (15 U.S.C. 78(o)(d)). In each instance, unless the Commission objects, termination occurs 90 days, or such shorter time as the Commission may direct, after the filing of Form 15F.
 
-[72 FR 16958, Apr. 5, 2007]Editorial Note:For Federal Register citations affecting Form 15F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[72 FR 16958, Apr. 5, 2007]Editorial Note:For Federal Register citations affecting Form 15F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

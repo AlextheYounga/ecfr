@@ -10,4 +10,4 @@
 
 (e) The public may contact the Area Veterinarian in Charge, Animal and Plant Health Inspection Service, United States Department of Agiculture or State animal health official, or the Animal and Plant Health Inspection Service, Veterinary Services, Swine Health, 4700 River Road, Unit 37, Riverdale, Maryland 20737-1231, concerning the feeding of garbage to swine.
 
-[47 FR 49945, Nov. 3, 1982. Redesignated at 52 FR 4891, Feb. 18, 1987]Editorial Note:For Federal Register citations affecting § 166.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 49945, Nov. 3, 1982. Redesignated at 52 FR 4891, Feb. 18, 1987]Editorial Note:For Federal Register citations affecting § 166.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

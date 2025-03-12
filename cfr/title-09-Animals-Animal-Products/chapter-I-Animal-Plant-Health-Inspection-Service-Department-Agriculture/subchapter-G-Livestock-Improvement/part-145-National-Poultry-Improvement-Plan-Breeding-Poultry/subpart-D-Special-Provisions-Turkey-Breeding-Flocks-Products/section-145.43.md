@@ -112,4 +112,4 @@ Participating flocks, and the eggs and poults produced from them, which have met
 
 (4) For both primary and multiplier breeding flocks, if a killed influenza vaccine against avian influenza subtypes other than H5 and H7 is used, then the hemagglutinin and the neuraminidase subtypes of the vaccine must be reported to the Official State Agency for laboratory and reporting purposes.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

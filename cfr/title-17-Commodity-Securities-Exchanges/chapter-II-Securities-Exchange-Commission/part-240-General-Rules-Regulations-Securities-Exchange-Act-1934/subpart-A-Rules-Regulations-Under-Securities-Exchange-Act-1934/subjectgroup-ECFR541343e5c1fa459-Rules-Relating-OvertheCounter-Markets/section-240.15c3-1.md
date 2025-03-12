@@ -673,4 +673,4 @@ Insolvent
 
 (iv) For the purpose of this paragraph (e) of this section, any transaction between a broker or dealer and a stockholder, partner, sole proprietor, employee or affiliate that results in a diminution of the broker or dealer's net capital shall be deemed to be an advance or loan of net capital.
 
-[40 FR 29799, July 16, 1975]Editorial Note:For Federal Register citations affecting § 240.15c3-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 29799, July 16, 1975]Editorial Note:For Federal Register citations affecting § 240.15c3-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

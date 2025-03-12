@@ -1,10 +1,8 @@
-##### § 35.2655 Records of 5-year inspection for teletherapy and gamma stereotactic radiosurgery units. #####
+##### § 35.2655 Records of full-inspection servicing for teletherapy and gamma stereotactic radiosurgery units. #####
 
-Link to an amendment published at 83 FR 33111, July 16, 2018.
+(a) A licensee shall maintain a record of the full-inspection servicing for teletherapy and gamma stereotactic radiosurgery units required by § 35.655 for the duration of the use of the unit.
 
-(a) A licensee shall maintain a record of the 5-year inspections for teletherapy and gamma stereotactic radiosurgery units required by § 35.655 for the duration of use of the unit.
-
-(b) The record must contain -
+(b) The record must contain—
 
 (1) The inspector's radioactive materials license number;
 
@@ -15,3 +13,5 @@ Link to an amendment published at 83 FR 33111, July 16, 2018.
 (4) A list of components inspected and serviced, and the type of service; and
 
 (5) The signature of the inspector.
+
+[67 FR 20370, Apr. 24, 2002, as amended at 83 FR 33111, July 16, 2018]

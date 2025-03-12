@@ -70,6 +70,6 @@ For the purposes of this part, the following terms shall be construed, respectiv
 
 *Unofficial vaccinate.* Any cattle or bison which have been vaccinated for brucellosis other than in accordance with the provisions for official vaccinates set forth in § 78.1 of this chapter.
 
-*Veterinarian in Charge.* The veterinary official of the Animal and Plant Health Inspection Service, United States Department of Agriculture, who is assigned by the Administrator to supervise and perform offical animal health work of the Animal and Plant Health Inspection Service, in the State concerned.
+*Veterinarian in Charge.* The veterinary official of the Animal and Plant Health Inspection Service, United States Department of Agriculture, who is assigned by the Administrator to supervise and perform official animal health work of the Animal and Plant Health Inspection Service, in the State concerned.
 
-[42 FR 64336, Dec. 23, 1977]Editorial Note:For Federal Register citations affecting § 51.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[42 FR 64336, Dec. 23, 1977]Editorial Note:For Federal Register citations affecting § 51.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 32.72 Manufacture, preparation, or transfer for commercial distribution of radioactive drugs containing byproduct material for medical use under part 35. #####
 
-Link to an amendment published at 83 FR 33101, July 16, 2018.
-
 (a) An application for a specific license to manufacture, prepare, or transfer for commercial distribution radioactive drugs containing byproduct material for use by persons authorized pursuant to part 35 of this chapter will be approved if:
 
 (1) The applicant satisfies the general requirements specified in 10 CFR 30.33;
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 33101, July 16, 2018.
 
 (3) The applicant submits information on the radionuclide; the chemical and physical form; the maximum activity per vial, syringe, generator, or other container of the radioactive drug; and the shielding provided by the packaging to show it is appropriate for the safe handling and storage of the radioactive drugs by medical use licensees; and
 
-(4) The applicant satisfies the following labeling requirements:
+(4) The applicant commits to the following labeling requirements:
 
 (i) A label is affixed to each transport radiation shield, whether it is constructed of lead, glass, plastic, or other material, of a radioactive drug to be transferred for commercial distribution. The label must include the radiation symbol and the words “CAUTION, RADIOACTIVE MATERIAL” or “DANGER, RADIOACTIVE MATERIAL”; the name of the radioactive drug or its abbreviation; and the quantity of radioactivity at a specified date and time. For radioactive drugs with a half life greater than 100 days, the time may be omitted.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 83 FR 33101, July 16, 2018.
 
 (5) Shall provide to the Commission:
 
-(i) A copy of each individual's certification by a specialty board whose certification process has been recognized by the Commission or an Agreement State as specified in § 35.55(a) of this chapter with the written attestation signed by a preceptor as required by § 35.55(b)(2) of this chapter; or
+(i) A copy of each individual's certification by a specialty board whose certification process has been recognized by the Commission or an Agreement State as specified in § 35.55(a) of this chapter; or
 
 (ii) The Commission or Agreement State license, or
 
@@ -66,6 +64,8 @@ Link to an amendment published at 83 FR 33101, July 16, 2018.
 
 (2) Check each instrument for constancy and proper operation at the beginning of each day of use.
 
-(d) Nothing in this section relieves the licensee from complying with applicable FDA, other Federal, and State requirements governing radioactive drugs.
+(d) A licensee shall satisfy the labeling requirements in paragraph (a)(4) of this section.
 
-[59 FR 61780, Dec. 2, 1994; 59 FR 65244, Dec. 19, 1994, as amended at 60 FR 324, Jan. 4, 1995; 67 FR 20370, Apr. 24, 2002; 67 FR 62872, Oct. 9, 2002; 67 FR 77652, Dec. 19, 2002; 71 FR 15007, Mar. 27, 2006; 72 FR 45150, Aug. 13, 2007; 72 FR 55929, Oct. 1, 2007]
+(e) Nothing in this section relieves the licensee from complying with applicable FDA, other Federal, and State requirements governing radioactive drugs.
+
+[59 FR 61780, Dec. 2, 1994; 59 FR 65244, Dec. 19, 1994, as amended at 60 FR 324, Jan. 4, 1995; 67 FR 20370, Apr. 24, 2002; 67 FR 62872, Oct. 9, 2002; 67 FR 77652, Dec. 19, 2002; 71 FR 15007, Mar. 27, 2006; 72 FR 45150, Aug. 13, 2007; 72 FR 55929, Oct. 1, 2007; 83 FR 33101, July 16, 2018]

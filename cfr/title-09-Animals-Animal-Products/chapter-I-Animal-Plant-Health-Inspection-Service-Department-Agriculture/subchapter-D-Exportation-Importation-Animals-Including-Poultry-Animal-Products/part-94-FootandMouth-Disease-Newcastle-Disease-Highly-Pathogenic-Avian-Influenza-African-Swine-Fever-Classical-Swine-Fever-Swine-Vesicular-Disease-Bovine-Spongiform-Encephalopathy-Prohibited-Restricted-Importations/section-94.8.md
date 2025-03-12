@@ -52,4 +52,4 @@
 
 (d) Pork or pork products imported into the United States from a region listed in this section which do not meet the requirements specified in this section shall be seized, quarantined, and disposed of as the Administrator, may direct in order to guard against the introduction and dissemination of the contagion of the disease.
 
-(Approved by the Office of Management and Budget under control number 0579-0015)[28 FR 5980, June 13, 1963]Editorial Note:For Federal Register citations affecting § 94.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0015)[28 FR 5980, June 13, 1963]Editorial Note:For Federal Register citations affecting § 94.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

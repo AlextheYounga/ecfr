@@ -1,10 +1,8 @@
 ##### § 9.202 Eola-Amity Hills. #####
 
-Link to an amendment published at 83 FR 64279, Dec. 14, 2018.
-
 (a) *Name.* The name of the viticultural area described in this section is “Eola-Amity Hills”. For purposes of part 4 of this chapter, “Eola-Amity Hills” is a term of viticultural significance.
 
-(b) *Approved maps.* The appropriate maps for determining the boundary of the Eola-Amity Hills viticultural area are six United States Geological Survey 1:24,000 scale topographic maps. They are titled -
+(b) *Approved maps.* The appropriate maps for determining the boundary of the Eola-Amity Hills viticultural area are six United States Geological Survey 1:24,000 scale topographic maps. They are titled—
 
 (1) Rickreall, Oregon, 1969, photorevised 1976;
 
@@ -18,9 +16,9 @@ Link to an amendment published at 83 FR 64279, Dec. 14, 2018.
 
 (6) Amity, Oregon, 1957, revised 1993.
 
-(c) *Boundary.* The Eola-Amity Hills viticultural area is located in the State of Oregon, within Polk and Yamhill Counties, and is entirely within the Willamette Valley viticultural area. The area's boundary is defined as follows -
+(c) *Boundary.* The Eola-Amity Hills viticultural area is located in the State of Oregon, within Polk and Yamhill Counties, and is entirely within the Willamette Valley viticultural area. The area's boundary is defined as follows—
 
-(1) The beginning point is on the Rickreall, Oregon, map, at the intersection of State Highways 22 and 223;
+(1) The beginning point is on the Rickreall, Oregon, map at the intersection of State Highway 22 and Rickreall Road, near the Oak Knoll Golf Course, in section 50, T7S, R4W;
 
 (2) From the beginning point, proceed east on State Highway 22 to its intersection with Doaks Ferry Road on the Salem West, Oregon, map; then
 
@@ -42,14 +40,14 @@ Link to an amendment published at 83 FR 64279, Dec. 14, 2018.
 
 (11) Follow the 200-foot contour line onto the Amity, Oregon, map as it heads first south, then generally southeast, then generally south, along the western edge of the Eola Hills until it intersects Old Bethel Road at a point just north of the Polk County line; then
 
-(12) Follow Old Bethel Road, which becomes Oak Grove Road, south until it intersects with the 200-foot contour line just northwest of the township of Bethel; then
+(12) Follow Old Bethel Road, which becomes Oak Grove Road, south until the road intersects the 200-foot contour line approximately 400 feet north of Oak Grove Road's northern intersection with Zena Road, just northwest of Bethel; then
 
-(13) Follow the 200-foot contour line around in a southeasterly loop until it again intersects Oak Grove Road where Oak Grove and Zena Roads intersect; then
+(13) Follow the 200-foot contour line easterly and then southerly until its first intersection with Zena Road, and then follow Zena Road west approximately 0.25 mile to its southern intersection with Oak Grove Road, south of Bethel; then
 
 (14) Follow Oak Grove Road south until it intersects with Frizzell Road; then
 
-(15) Follow Frizzell Road west for three-tenths mile until it intersects with the 200-foot contour line; then
+(15) Follow Frizzell Road west for approximately 0.25 mile to its first intersection with the 200-foot contour line, then
 
-(16) Follow the 200-foot contour line generally south until it intersects with the beginning point.
+(16) Follow the 200-foot contour line generally south, crossing onto the Rickreall, Oregon, map, until the contour line intersects the beginning point.
 
-[T.D. TTB-51, 71 FR 40404, July 17, 2006]
+[T.D. TTB-51, 71 FR 40404, July 17, 2006; T.D. TTB-155, 83 FR 64279, Dec. 14, 2018]

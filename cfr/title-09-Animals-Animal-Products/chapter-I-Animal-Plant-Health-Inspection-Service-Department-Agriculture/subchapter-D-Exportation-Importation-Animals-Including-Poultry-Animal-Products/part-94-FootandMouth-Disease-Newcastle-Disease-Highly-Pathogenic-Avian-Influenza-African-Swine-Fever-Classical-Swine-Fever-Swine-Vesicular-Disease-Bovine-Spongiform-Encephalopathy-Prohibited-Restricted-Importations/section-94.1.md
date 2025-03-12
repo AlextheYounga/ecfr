@@ -34,4 +34,4 @@
 
 (6) The meat is found by an authorized inspector to be as represented on the foreign meat inspection certificate.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0195)[30 FR 12118, Sept. 23, 1965]Editorial Note:For Federal Register citations affecting § 94.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0195)[30 FR 12118, Sept. 23, 1965]Editorial Note:For Federal Register citations affecting § 94.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

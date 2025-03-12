@@ -94,4 +94,4 @@
 
 (d) To apply for a permit, contact the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231 or visit *http://www.aphis.usda.gov/animal\_health/permits/*.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015, 0579-0245, 0579-0328, and 0579-0367)[39 FR 39546, Nov. 8, 1974; 39 FR 41242, Nov. 26, 1974]Editorial Note:For Federal Register citations affecting § 94.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0015, 0579-0245, 0579-0328, and 0579-0367)[39 FR 39546, Nov. 8, 1974; 39 FR 41242, Nov. 26, 1974]Editorial Note:For Federal Register citations affecting § 94.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

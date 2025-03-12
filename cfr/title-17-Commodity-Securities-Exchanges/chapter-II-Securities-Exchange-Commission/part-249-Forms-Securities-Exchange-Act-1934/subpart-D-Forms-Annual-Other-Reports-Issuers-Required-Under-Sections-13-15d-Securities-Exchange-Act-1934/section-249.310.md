@@ -14,4 +14,4 @@
 
 (d) Notwithstanding paragraphs (b) and (c) of this section, all schedules required by Article 12 of Regulation S-X (§§ 210.12-01-210.12-29 of this chapter) may, at the option of the registrant, be filed as an amendment to the report not later than 30 days after the applicable due date of the report.
 
-[70 FR 76642, Dec. 27, 2005]Editorial Note:For Federal Register citations affecting Form 10-K, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[70 FR 76642, Dec. 27, 2005]Editorial Note:For Federal Register citations affecting Form 10-K, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -182,4 +182,4 @@ and
 
 (k) Every investment adviser that registers under section 203 of the Act (15 U.S.C. 80b-3) after July 8, 1997 shall be required to preserve in accordance with this section the books and records the investment adviser had been required to maintain by the State in which the investment adviser had its principal office and place of business prior to registering with the Commission.
 
-[26 FR 5002, June 6, 1961]Editorial Note:For Federal Register citations affecting § 275.204-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 5002, June 6, 1961]Editorial Note:For Federal Register citations affecting § 275.204-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

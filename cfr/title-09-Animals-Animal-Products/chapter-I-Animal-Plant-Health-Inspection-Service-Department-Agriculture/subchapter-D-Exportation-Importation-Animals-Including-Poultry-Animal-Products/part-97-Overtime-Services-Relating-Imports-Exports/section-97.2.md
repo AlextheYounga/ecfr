@@ -2,10 +2,6 @@
 
 Each period of overtime and holiday duty as prescribed in § 97.1 shall in addition include a commuted traveltime period for the respective ports, stations, and areas in which employees are located. The prescribed computed traveltime periods are as follows:
 
-Commuted Traveltime Allowances
-
-[In hours]
-
 |                                                                                                                                      Location covered                                                                                                                                       |         Served from         |Metropolitan Area|    |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----------------|----|
 |                                                                                                                                           Within                                                                                                                                            |           Outside           |                 |    |
@@ -350,4 +346,4 @@ Commuted Traveltime Allowances
 |                                                                                                                                           Madison                                                                                                                                           |                             |        1        |    |
 |                                                                                                                                           Monroe                                                                                                                                            |           Madison           |                 | 3  |
 
-[39 FR 41356, Nov. 27, 1974]Editorial Note:For Federal Register citations affecting § 97.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 41356, Nov. 27, 1974]Editorial Note:For Federal Register citations affecting § 97.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1064,4 +1064,4 @@ The information disclosed pursuant to paragraph (b)(19) of this Item will not be
 
 *Item 25. Exhibits.* Provide the legal opinion required to be filed by Item 402(u)(4)(i) of Regulation S-K (17 CFR 229.402(u)) in an exhibit to this Schedule 14A.
 
-[51 FR 42063, Nov. 20, 1986; 51 FR 45576, Dec. 19, 1986]Editorial Note:For Federal Register citations affecting § 240.14a-101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 42063, Nov. 20, 1986; 51 FR 45576, Dec. 19, 1986]Editorial Note:For Federal Register citations affecting § 240.14a-101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

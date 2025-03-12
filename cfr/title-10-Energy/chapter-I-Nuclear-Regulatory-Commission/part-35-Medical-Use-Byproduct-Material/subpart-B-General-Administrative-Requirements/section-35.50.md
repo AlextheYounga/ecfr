@@ -1,10 +1,8 @@
-##### § 35.50 Training for Radiation Safety Officer. #####
+##### § 35.50 Training for Radiation Safety Officer and Associate Radiation Safety Officer. #####
 
-Link to an amendment published at 83 FR 33104, July 16, 2018.
+Except as provided in § 35.57, the licensee shall require an individual fulfilling the responsibilities of the Radiation Safety Officer or an individual assigned duties and tasks as an Associate Radiation Safety Officer as provided in § 35.24 to be an individual who -
 
-Except as provided in § 35.57, the licensee shall require an individual fulfilling the responsibilities of the Radiation Safety Officer as provided in § 35.24 to be an individual who -
-
-(a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraphs (d) and (e) of this section. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.) To have its certification process recognized, a specialty board shall require all candidates for certification to:
+(a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraph (d) of this section. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:
 
 (1)(i) Hold a bachelor's or graduate degree from an accredited college or university in physical science or engineering or biological science with a minimum of 20 college credits in physical science;
 
@@ -18,7 +16,7 @@ Except as provided in § 35.57, the licensee shall require an individual fulfill
 
 (A) Under the supervision of a medical physicist who is certified in medical physics by a specialty board recognized by the Commission or an Agreement State; or
 
-(B) In clinical nuclear medicine facilities providing diagnostic and/or therapeutic services under the direction of physicians who meet the requirements for authorized users in §§ 35.57, 35.290, or 35.390; and
+(B) In clinical nuclear medicine facilities providing diagnostic or therapeutic services under the direction of physicians who meet the requirements for authorized users in §§ 35.57, 35.290, or 35.390; and
 
 (iii) Pass an examination, administered by diplomates of the specialty board, that assesses knowledge and competence in clinical diagnostic radiological or nuclear medicine physics and in radiation safety; or
 
@@ -36,7 +34,7 @@ Except as provided in § 35.57, the licensee shall require an individual fulfill
 
 (E) Radiation dosimetry; and
 
-(ii) One year of full-time radiation safety experience under the supervision of the individual identified as the Radiation Safety Officer on a Commission or Agreement State license or permit issued by a Commission master material licensee that authorizes similar type(s) of use(s) of byproduct material involving the following -
+(ii) One year of full-time radiation safety experience under the supervision of the individual identified as the Radiation Safety Officer on a Commission or an Agreement State license or permit issued by a Commission master material licensee that authorizes similar type(s) of use(s) of byproduct material. An Associate Radiation Safety Officer may provide supervision for those areas for which the Associate Radiation Safety Officer is authorized on a Commission or an Agreement State license or permit issued by a Commission master material licensee. The full-time radiation safety experience must involve the following -
 
 (A) Shipping, receiving, and performing related radiation surveys;
 
@@ -50,16 +48,16 @@ Except as provided in § 35.57, the licensee shall require an individual fulfill
 
 (F) Using emergency procedures to control byproduct material; and
 
-(G) Disposing of byproduct material; or
+(G) Disposing of byproduct material; and
 
-(2) [Reserved]
+(2) This individual must obtain a written attestation, signed by a preceptor Radiation Safety Officer or Associate Radiation Safety Officer who has experience with the radiation safety aspects of similar types of use of byproduct material for which the individual is seeking approval as a Radiation Safety Officer or an Associate Radiation Safety Officer. The written attestation must state that the individual has satisfactorily completed the requirements in paragraphs (b)(1) and (d) of this section, and is able to independently fulfill the radiation safety-related duties as a Radiation Safety Officer or as an Associate Radiation Safety Officer for a medical use license; or
 
-(c)(1) Is a medical physicist who has been certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State under § 35.51(a) and has experience in radiation safety for similar types of use of byproduct material for which the licensee is seeking the approval of the individual as Radiation Safety Officer and who meets the requirements in paragraphs (d) and (e) of this section; or
+(c)(1) Is a medical physicist who has been certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State under § 35.51(a), has experience with the radiation safety aspects of similar types of use of byproduct material for which the licensee seeks the approval of the individual as Radiation Safety Officer or an Associate Radiation Safety Officer, and meets the requirements in paragraph (d) of this section; or
 
-(2) Is an authorized user, authorized medical physicist, or authorized nuclear pharmacist identified on the licensee's license and has experience with the radiation safety aspects of similar types of use of byproduct material for which the individual has Radiation Safety Officer responsibilities; and,
+(2) Is an authorized user, authorized medical physicist, or authorized nuclear pharmacist identified on a Commission or an Agreement State license, a permit issued by a Commission master material licensee, a permit issued by a Commission or an Agreement State licensee of broad scope, or a permit issued by a Commission master material license broad scope permittee, has experience with the radiation safety aspects of similar types of use of byproduct material for which the licensee seeks the approval of the individual as the Radiation Safety Officer or Associate Radiation Safety Officer, and meets the requirements in paragraph (d) of this section; or
 
-(d) Has obtained written attestation, signed by a preceptor Radiation Safety Officer, that the individual has satisfactorily completed the requirements in paragraph (e) and in paragraphs (a)(1)(i) and (a)(1)(ii) or (a)(2)(i) and (a)(2)(ii) or (b)(1) or (c)(1) or (c)(2) of this section, and has achieved a level of radiation safety knowledge sufficient to function independently as a Radiation Safety Officer for a medical use licensee; and
+(3) Has experience with the radiation safety aspects of the types of use of byproduct material for which the individual is seeking simultaneous approval both as the Radiation Safety Officer and the authorized user on the same new medical use license or new medical use permit issued by a Commission master material license. The individual must also meet the requirements in paragraph (d) of this section.
 
-(e) Has training in the radiation safety, regulatory issues, and emergency procedures for the types of use for which a licensee seeks approval. This training requirement may be satisfied by completing training that is supervised by a Radiation Safety Officer, authorized medical physicist, authorized nuclear pharmacist, or authorized user, as appropriate, who is authorized for the type(s) of use for which the licensee is seeking approval.
+(d) Has training in the radiation safety, regulatory issues, and emergency procedures for the types of use for which a licensee seeks approval. This training requirement may be satisfied by completing training that is supervised by a Radiation Safety Officer, an Associate Radiation Safety Officer, authorized medical physicist, authorized nuclear pharmacist, or authorized user, as appropriate, who is authorized for the type(s) of use for which the licensee is seeking approval.
 
-[67 FR 20370, Apr. 24, 2002, as amended at 70 FR 16361, Mar. 30, 2005; 71 FR 1926, Jan. 12, 2006; 71 FR 15008, Mar. 27, 2006; 74 FR 33904, July 14, 2009; 76 FR 72085, Nov. 22, 2011]
+[83 FR 33104, July 16, 2018]

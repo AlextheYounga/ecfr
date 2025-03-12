@@ -2,4 +2,4 @@
 
 This form is to be used by associated persons of financial institutions that are government securities brokers or dealers to provide certain information to the financial institution and the appropriate regulatory agency concerning employment, residence, and statutory disqualification. The form is promulgated by the Department of the Treasury and is available from the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the SEC.
 
-[52 FR 27956, July 24, 1987, as amended at 79 FR 38456, July 8, 2014]Editorial Note:For Federal Register citations affecting Form G-FIN-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 27956, July 24, 1987, as amended at 79 FR 38456, July 8, 2014]Editorial Note:For Federal Register citations affecting Form G-FIN-4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

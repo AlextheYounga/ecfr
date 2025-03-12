@@ -176,4 +176,4 @@ Cross Reference:
 
 For interpretative release applicable to § 240.17a-3, see No. 3040 in tabulation, part 241 of this chapter.
 
-[13 FR 8212, Dec. 22, 1948]Editorial Note:For Federal Register citations affecting § 240.17a-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[13 FR 8212, Dec. 22, 1948]Editorial Note:For Federal Register citations affecting § 240.17a-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -76,7 +76,7 @@ As used in this part,
 
 *NRC records and documents* means any book, paper, map, photograph, brochure, punch card, magnetic tape, paper tape, sound recording, pamphlet, slide, motion picture, or other documentary material regardless of form or characteristics, made by, in the possession of, or under the control of the NRC pursuant to Federal law or in connection with the transaction of public business as evidence of NRC organization, functions, policies, decisions, procedures, operations, programs or other activities. “NRC records and documents” do not include objects or articles such as structures, furniture, tangible exhibits or models, or vehicles and equipment.
 
-*NRC Web site, http://www.nrc.gov,* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
+NRC Web site, *http://www.nrc.gov,* is the Internet uniform resource locator name for the Internet address of the Web site where NRC will ordinarily make available its public records for inspection.
 
 *Optical Storage Media* means any physical computer component that meets E-Filing Guidance standards for storing, saving, and accessing electronic documents.
 
@@ -96,4 +96,4 @@ As used in this part,
 
 Except as redefined in this section, words and phrases which are defined in the Act and in this chapter have the same meaning when used in this part.
 
-[27 FR 377, Jan. 13, 1962]Editorial Note:For Federal Register citations affecting § 2.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[27 FR 377, Jan. 13, 1962]Editorial Note:For Federal Register citations affecting § 2.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

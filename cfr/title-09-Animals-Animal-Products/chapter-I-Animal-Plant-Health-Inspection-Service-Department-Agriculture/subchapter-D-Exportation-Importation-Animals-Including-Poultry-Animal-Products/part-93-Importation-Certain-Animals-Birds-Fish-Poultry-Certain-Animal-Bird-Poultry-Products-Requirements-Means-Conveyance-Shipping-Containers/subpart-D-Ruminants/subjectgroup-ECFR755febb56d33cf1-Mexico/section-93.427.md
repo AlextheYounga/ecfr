@@ -1,6 +1,6 @@
 ##### § 93.427 Cattle and other bovines from Mexico. #####
 
-Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction published at 74 FR 22091, May 12, 2009.Link to an amendment published at 83 FR 64225, Dec. 14, 2018.
+Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction published at 74 FR 22091, May 12, 2009.
 
 (a) Cattle and other ruminants imported from Mexico, except animals being transported in bond for immediate return to Mexico or animals imported for immediate slaughter, may be detained at the port of entry, and there subjected to such disinfection, blood tests, other tests, and dipping as required in this part to determine their freedom from any communicable disease or infection of such disease. The importer shall be responsible for the care, feed, and handling of the animals during the period of detention.
 
@@ -36,7 +36,7 @@ Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction pub
 
 (vii) The cattle are not imported into an area of Texas that is quarantined in accordance with § 72.5 of this chapter for bovine babesiosis, or for tick infestation.
 
-(c) *Tuberculosis.* (1) Each steer imported into the United States from Mexico shall be identified with a distinct, permanent, and legible “M” mark applied with a freeze brand, hot iron, or other method prior to arrival at a port of entry, unless the steer is imported for slaughter in accordance with § 93.429. Each spayed heifer imported into the United States from Mexico shall be identified with a distinct, permanent, and legible “Mx” mark applied with a freeze brand, hot iron, or other method prior to arrival at a port of entry, unless the spayed heifer is imported for slaughter in accordance with § 93.429. The “M” or “Mx” mark shall be not less than 2 inches nor more than 3 inches high, and shall be applied to each animal's right hip, high on the tailhead (over the junction of the sacral and first coccygeal vertebrae).
+(c) *Tuberculosis.* (1) Each steer or spayed heifer imported into the United States from Mexico shall be identified with a distinct, permanent, and legible “M” mark applied with a freeze brand, hot iron, or other method prior to arrival at a port of entry, unless the steer or spayed heifer is imported for slaughter in accordance with § 93.429. The “M” mark shall be between 3 inches (7.5 cm) and 5 inches (12.5 cm) high and wide, and shall be applied to each animal's right hip, within 4 inches (10 cm) of the midline of the tailhead (that is, the top of the brand should be within 4 inches (10 cm) of the midline of the tailhead, and placed above the hook and pin bones). The brand should also be within 18 inches (45.7 cm) of the anus.
 
 (2) Cattle from a herd or herds in which one or more reactors to the tuberculin test have been disclosed shall not be eligible for importation until the herd to which the animals in the lot belong achieve accredited herd status as defined in § 93.400, and provided that the animals offered for entry have met the other applicable requirements of this section.
 
@@ -64,7 +64,7 @@ Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction pub
 
 (3) The bovines, if sexually intact, are permanently and humanely identified using one of the following additional methods:
 
-(i) An “MX” mark properly applied with a freeze brand, hot iron, or other method, and easily visible on the live animal and on the carcass before skinning. Such a mark must be not less than 2 inches nor more than 3 inches high, and must be applied to each animal's right hip, high on the tail-head (over the junction of the sacral and first coccygeal vertebrae); or
+(i) An “M” mark properly applied with a freeze brand, hot iron, or other method, and easily visible on the live animal and on the carcass before skinning. Such a mark must be between 3 inches (7.5 cm) and 5 inches (12.5 cm) high and wide, and must be applied to the upper right front shoulder of each animal; or
 
 (ii) A tattoo with the letters “MX” applied to the inside of one ear of the animal; or
 
@@ -72,4 +72,4 @@ Link to an amendment published at 74 FR 5, Jan. 2, 2009.Link to a correction pub
 
 (4) The bovines are accompanied by a certificate issued in accordance with § 93.405 that states, in addition to the statements required by § 93.405, that the conditions of paragraphs (e)(1) through (e)(3) of this section have been met.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0040, 0579-0224, 0579-0393, and 0579-0425)[55 FR 31495, Aug. 2, 1990, as amended at 57 FR 2010, Jan. 17, 1992; 57 FR 28080, 28081, June 24, 1992; 58 FR 68509, Dec. 28, 1993; 59 FR 24886, May 13, 1994; 59 FR 65897, Dec. 22, 1994; 60 FR 13898, Mar. 15, 1995; 61 FR 17239, Apr. 19, 1996. Redesignated and amended at 62 FR 56012, 56019, Oct. 28, 1997; 62 FR 64266, Dec. 5, 1997; 66 FR 20190, Apr. 20, 2001; 69 FR 9750, Mar. 2, 2004; 74 FR 5, Jan. 2, 2009; 78 FR 72997, Dec. 4, 2013; 80 FR 10324, Feb. 26, 2015]
+(Approved by the Office of Management and Budget under control numbers 0579-0040, 0579-0224, 0579-0393, and 0579-0425)[55 FR 31495, Aug. 2, 1990, as amended at 57 FR 2010, Jan. 17, 1992; 57 FR 28080, 28081, June 24, 1992; 58 FR 68509, Dec. 28, 1993; 59 FR 24886, May 13, 1994; 59 FR 65897, Dec. 22, 1994; 60 FR 13898, Mar. 15, 1995; 61 FR 17239, Apr. 19, 1996. Redesignated and amended at 62 FR 56012, 56019, Oct. 28, 1997; 62 FR 64266, Dec. 5, 1997; 66 FR 20190, Apr. 20, 2001; 69 FR 9750, Mar. 2, 2004; 74 FR 5, Jan. 2, 2009; 78 FR 72997, Dec. 4, 2013; 80 FR 10324, Feb. 26, 2015; 83 FR 64225, Dec. 14, 2018]

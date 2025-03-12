@@ -128,4 +128,4 @@ Words used in this part in the singular form shall be deemed to import the plura
 
 *Trade name or number.* A name or number compatible with State and Federal laws and regulations applied to a specified stock or product thereof.
 
-[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

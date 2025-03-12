@@ -1,3 +1,7 @@
-##### § 35.3204 xxx #####
+##### § 35.3204 Report and notification for an eluate exceeding permissible molybdenum-99, strontium-82, and strontium-85 concentrations. #####
 
-Link to an amendment published at 83 FR 33111, July 16, 2018.
+(a) The licensee shall notify by telephone the NRC Operations Center and the distributor of the generator within 7 calendar days after discovery that an eluate exceeded the permissible concentration listed in § 35.204(a) at the time of generator elution. The telephone report to the NRC must include the manufacturer, model number, and serial number (or lot number) of the generator; the results of the measurement; the date of the measurement; whether dosages were administered to patients or human research subjects, when the distributor was notified, and the action taken.
+
+(b) By an appropriate method listed in § 30.6(a) of this chapter, the licensee shall submit a written report to the appropriate NRC Regional Office listed in § 30.6 of this chapter within 30 calendar days after discovery of an eluate exceeding the permissible concentration at the time of generator elution. The written report must include the action taken by the licensee; the patient dose assessment; the methodology used to make this dose assessment if the eluate was administered to patients or human research subjects; and the probable cause and an assessment of failure in the licensee's equipment, procedures or training that contributed to the excessive readings if an error occurred in the licensee's breakthrough determination; and the information in the telephone report as required by paragraph (a) of this section.
+
+[83 FR 33111, July 16, 2018]

@@ -2,4 +2,4 @@
 
 This form shall be used as the registration statement to be filed pursuant to section 8(b) of the Investment Company Act of 1940 by closed end management investment companies other than companies which issue periodic payment plan certificates or which are sponsors or depositors of companies issuing such certificates. This form also shall be used for registration under the Securities Act of 1933 of the securities of all closed end management investment companies. This form is not applicable for small business investment companies which register pursuant to §§ 239.24 and 274.5 of this chapter.
 
-[43 FR 39553, Sept. 5, 1978, as amended at 59 FR 52701, Oct. 19, 1994]Editorial Note:For Federal Register citations affecting Form N-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 39553, Sept. 5, 1978, as amended at 59 FR 52701, Oct. 19, 1994]Editorial Note:For Federal Register citations affecting Form N-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

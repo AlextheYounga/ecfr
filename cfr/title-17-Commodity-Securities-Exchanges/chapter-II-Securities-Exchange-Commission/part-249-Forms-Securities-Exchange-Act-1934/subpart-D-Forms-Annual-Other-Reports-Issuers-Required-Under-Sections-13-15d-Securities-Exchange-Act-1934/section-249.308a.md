@@ -8,4 +8,4 @@
 
 (b) Form 10-Q also shall be used for transition and quarterly reports filed pursuant to § 240.13a-10 or § 240.15d-10 of this chapter. Such transition or quarterly reports shall be filed in accordance with the requirements set forth in § 240.13a-10 or § 240.15d-10 of this chapter applicable when the registrant changes its fiscal year end.
 
-[67 FR 58506, Sept. 16, 2002, as amended at 69 FR 68236, Nov. 23, 2004; 70 FR 76642, Dec. 27, 2005]Editorial Note:For Federal Register citations affecting Form 10-Q, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[67 FR 58506, Sept. 16, 2002, as amended at 69 FR 68236, Nov. 23, 2004; 70 FR 76642, Dec. 27, 2005]Editorial Note:For Federal Register citations affecting Form 10-Q, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

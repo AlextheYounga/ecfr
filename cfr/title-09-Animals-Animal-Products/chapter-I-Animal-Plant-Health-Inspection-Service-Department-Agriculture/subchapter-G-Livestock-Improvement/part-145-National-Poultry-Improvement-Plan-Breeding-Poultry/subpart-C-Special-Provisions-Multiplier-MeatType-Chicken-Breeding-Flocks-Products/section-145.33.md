@@ -166,4 +166,4 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (3) This classification may be revoked by the Official State Agency if the participant fails to comply with the requirements of this classification. The Official State Agency shall not revoke the participant's classification until the participant has been given an opportunity for a hearing in accordance with rules of practice adopted by the Official State Agency.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.33, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

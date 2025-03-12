@@ -2,4 +2,4 @@
 
 This form shall be filed pursuant to Rule 17d-2 (§ 270.17d-2 of this chapter) as the report required, under subparagraph (d)(3) of Rule 17d-1 (§ 270.17d-1(d)(3) of this chapter), to be filed, either jointly or separately, by a small business investment company (SBIC) licensed as such under the Small Business Investment Act of 1958, and by a bank which is an affiliated person of either the SBIC or of an affiliated person of the SBIC, with respect to investments in a small business concern by the SBIC and the bank.
 
-Editorial Note:For Federal Register citations affecting Form N-17D-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Editorial Note:For Federal Register citations affecting Form N-17D-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

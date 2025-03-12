@@ -98,4 +98,4 @@ shall furnish or mail to the Commission, not later than three days after the dat
 
 (p) *Solicitations subject to § 240.14a-11.* Any soliciting material that is published, sent or given to shareholders in connection with § 240.14a-2(b)(7) or (b)(8) must be filed with the Commission as specified in that section.
 
-[17 FR 11432, Dec. 18, 1952]Editorial Note:For Federal Register citations affecting § 240.14a-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[17 FR 11432, Dec. 18, 1952]Editorial Note:For Federal Register citations affecting § 240.14a-6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

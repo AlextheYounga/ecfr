@@ -92,4 +92,4 @@
 
 Upon arrival of the pork-filled pasta in the United States, the certificate must be presented to an inspector at the port of arrival.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0214)[38 FR 20610, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0214)[38 FR 20610, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -4,8 +4,6 @@ Breeds of animals and books of record listed in paragraphs (a) and (b) are hereb
 
 (a) *Breeds and books of record in countries other than Canada.* Books of the registry associations listed below are recognized for the following breeds: *Provided,* That no Belted Galloway cattle, horse of Criolla, Fjordhest (formerly known as Westland), Holstein, Shetland Pony or Welsh Pony and Cob breed, dog or cat registered in any of the books named shall be certified under the act as purebred unless a pedigree certificate showing three complete generations of known and recorded purebred ancestry of the particular breed involved, issued by the appropriate association listed below, is submitted for such animal.
 
-Cattle
-
 |Code|  Name of breed  |                                                                 Book of record                                                                 |                                                                                          By whom published                                                                                          |
 |----|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1101| Aberdeen-Angus  |                                                            Aberdeen-Angus Herd Book                                                            |                                          Aberdeen-Angus Cattle Society, Hugh R. Neilson, secretary, Pedigree House, 17 Bon-Accord Sq., Aberdeen, Scotland.                                          |
@@ -37,8 +35,6 @@ Cattle
 |1115|    Simmental    |                                                         Irish Simmental Cattle Society                                                         |                                                          Irish Simmental Cattle Society Ltd., Springhill Carrigtwohill, Co. Cork, Ireland.                                                          |
 |1308|     Sussex      |                                                                Sussex Herd Book                                                                |                                                    Sussex Herd Book Society, A. G. Holland, secretary, 17 Devonshire St., London, W. 1, England.                                                    |
 |1309|      Welsh      |                                                          Welsh Black Cattle Herd Book                                                          |                                                  Welsh Black Cattle Society, G. Williams Edwards, secretary, 13 Bangor St., Caernarvon, No. Wales.                                                  |
-
-Horses
 
 |Code|            Name of breed             |                                                                                                                                                                                                                                                                                                                                                                        Book of record                                                                                                                                                                                                                                                                                                                                                                        |                                                                                   By whom published                                                                                    |
 |----|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -85,13 +81,9 @@ Horses
 |2303|          Welsh Pony and Cob          |                                                                                                                                                                                                                                                                                                                                                                       Welsh Stud Book                                                                                                                                                                                                                                                                                                                                                                        |                  Welsh Pony & Cob Society, J. A. George, secretary, Offices of the Royal Welsh Agricultural Society, Queen's Rd., Aberystwyth, Cardiganlshire, Wales.                  |
 |2240|            Wielkopolskich            |                                                                                                                                                                                                                                                                                                                                                              Ksiega Stadna Koni Wielkopolskich                                                                                                                                                                                                                                                                                                                                                               |                                            Warm Blood & Full Blood Breeders of the Great Polish Horses, Pulewski 14, 02-152 Warsaw, Poland.                                            |
 
-Asses
-
 |Code|Name of breed|                                       Book of record                                       |                                                            By whom published                                                            |
 |----|-------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |3001|   Poitou    |Jack and Jennet Section of Stud-Book ou Livre Genealogique des Animaux Mulassiers due Poitou|Societe Centrale d'Agriculture des Deux-Sevres R. Martinet, Secretaire, Cite Administrative, rue Duguesclin, Niort (Deux-Sevres), France.|
-
-Sheep
 
 |Code|      Name of breed      |                  Book of record                   |                                                                By whom published                                                                 |
 |----|-------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -116,13 +108,9 @@ Sheep
 |4001|Various recognized breeds|Flock Book for British Breeds of Sheep in Australia|Australian Society of Breeders of British Sheep, H.T.C. Woodfull, secretary, Royal Show Grounds, Epsom Rd., Ascot Vale, W. 2, Victoria, Australia.|
 |4002|        ......do         |              New Zealand Flock Book               |             New Zealand Sheep Breeders' Association, H.M. Studholme, secretary, P.O. Box 9002, Addington, Christchurch, New Zealand.             |
 
-Goats
-
 |Code|    Name of breed    |                        Book of record                         |                           By whom published                            |
 |----|---------------------|---------------------------------------------------------------|------------------------------------------------------------------------|
 |5001|Saanen and Toggenburg|British Goat Society Herd Book (Saanen and Toggenburg Sections)|British Goat Society, Miss M.F. Rigg, secretary, Diss, Norfolk, England.|
-
-Swine
 
 |Code|         Name of breed         |                   Book of record                   |                                         By whom published                                         |
 |----|-------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------|
@@ -134,8 +122,6 @@ Swine
 |6002| Large White  <br/>Middle White| Herd Book of the National Pig Breeders' Association|National Pig Breeders' Association, E.G. Wake, secretary, 69 Clarendon Rd., Watford, Herts, England|
 |    |            Tamworth           |                                                    |                                                                                                   |
 |    |       British Saddleback      |                                                    |                                                                                                   |
-
-Dogs
 
 |Code|      Name of breed      |                    Book of record                    |                                                                      By whom published                                                                      |
 |----|-------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -161,62 +147,60 @@ Dogs
 |7007|        ......do         |           Schweizerisches Hunde-Stammbuch            |                      Schweizerische Kynologischen Gesellschaft, Carl Wittwer, secretary, Seestrasse 64, Kilchberg/Zurich, Switzerland.                      |
 |7008|        ......do         |           Svenska Kennelklubbens Register            |                                    Svenska Kennelklubben, Ivan Swedrup, secretary, Linnegatan 25, Stockholm O 4, Sweden.                                    |
 
-Cats
-
 |Code|       Name of breed        |                 Book of record                 |                                              By whom published                                               |
 |----|----------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 |8001|Long-haired and short-haired|The Governing Council of the Cat Fancy Stud Book|The Governing Council of the Cat Fancy, W.A. Hazeldine, secretary, 1 Roundwood Way, Banstead, Surrey, England.|
 
-(b) *Breeds and books of record in Canada* - (1) *Animals generally.* The books of record of the Canadian National Live Stock Records, Ottawa, Canada, of which F. G. Clark is Director, are recognized for the following breeds: *Provided,* That no animals registered in the Canadian National Live Stock Records shall be certified under the act as purebred unless such animals trace only to animals which are proved to the satisfaction of Veterinary Services to be of the same breed: *Provided further,* That no Dexter cattle, Karakul sheep, Alpine goat, Nubian goat, or horse of the American Saddle Horse, Arabian, Canadian, Morgan, Shetland Pony or Welsh Pony and Cob breed in Canada shall be certified under the act as purebred unless a pedigree certificate showing three complete generations of known and recorded purebred ancestry of the particular breed involved, issued by the Canadian National Live Stock Records, is submitted for such animal.
+(b) *Breeds and books of record in Canada*—(1) *Animals generally.* The books of record of the Canadian National Live Stock Records, Ottawa, Canada, of which F. G. Clark is Director, are recognized for the following breeds: *Provided,* That no animals registered in the Canadian National Live Stock Records shall be certified under the act as purebred unless such animals trace only to animals which are proved to the satisfaction of Veterinary Services to be of the same breed: *Provided further,* That no Dexter cattle, Karakul sheep, Alpine goat, Nubian goat, or horse of the American Saddle Horse, Arabian, Canadian, Morgan, Shetland Pony or Welsh Pony and Cob breed in Canada shall be certified under the act as purebred unless a pedigree certificate showing three complete generations of known and recorded purebred ancestry of the particular breed involved, issued by the Canadian National Live Stock Records, is submitted for such animal.
 
-| Code |    Name of breed     |Code|   Name of breed    |
-|------|----------------------|----|--------------------|
-|Cattle|                      |    |                    |
-| 1108 |   Aberdeen, Angus.   |    |                    |
-| 1210 |      Ayrshire.       |1111|     Highland.      |
-| 1110 |     Belgian Blue     |    |                    |
-| 1211 |     Brown Swiss.     |1214|      Jersey.       |
-| 1212 |      Canadian.       |1311|    Lincoln Red.    |
-| 1310 |       Dexter.        |1312|     Red Poll.      |
-| 1109 |      Galloway.       |1313|     Shorthorn.     |
-| 1114 |       Gelbvieh       |    |                    |
-| 1213 |      Guernsey.       |    |                    |
-|Horses|                      |    |                    |
-| 2227 |American Saddle Horse.|2109|     Percheron.     |
-| 2228 |       Arabian.       |2304|   Shetland Pony.   |
-| 2107 |    Belgian Draft.    |2110|Shire  <br/>Suffolk.|
-| 2229 |      Canadian.       |2111|   Thoroughbred.    |
-| 2108 |     Clydesdale.      |2232|    Welsh Pony.     |
-| 2230 |       Hackney.       |2305|      and Cob.      |
-| 2236 |       Morgan.        |    |                    |
-|Sheep |                      |    |                    |
-| 4110 |      Blackface.      |4115|      Lincoln.      |
-| 4111 |       Cheviot.       |4116|      Merino.       |
-| 4112 |     Corriedale.      |4213|    Oxford Down.    |
-| 4113 |      Cotswold.       |4117|    Rambouillet.    |
-| 4209 |     Dorset Horn.     |4214|      Ryeland.      |
-| 4210 |      Hampshire.      |4215|    Shropshire.     |
-| 4211 |       Karakul.       |4216|     Southdown.     |
-| 4212 |     Kerry Hill.      |4217|      Suffolk.      |
-| 4114 |      Leicester.      |    |                    |
-|Goats |                      |    |                    |
-|      |       Alpine.        |    |                    |
-|      |       Angora.        |    |                    |
-| 5002 |       Nubian.        |    |                    |
-|      |       Saanen.        |    |                    |
-|      |     Toggenburg.      |    |                    |
-|Swine |                      |    |                    |
-|      |      Berkshire.      |    |                    |
-|      |    Chester White.    |    |                    |
-|      |    Duroc-Jersey.     |    |                    |
-|      |      Hampshire.      |    |                    |
-|      |       Lacombe.       |    |                    |
-| 6003 |      Landrace.       |    |                    |
-|      |     Large Black.     |    |                    |
-|      |    Poland China.     |    |                    |
-|      |      Tamworth.       |    |                    |
-|      | British Saddleback.  |    |                    |
-|      |      Yorkshire.      |    |                    |
+|   Code   |    Name of breed     |Code|   Name of breed    |
+|----------|----------------------|----|--------------------|
+|**Cattle**|                      |    |                    |
+|   1108   |   Aberdeen, Angus.   |    |                    |
+|   1210   |      Ayrshire.       |1111|     Highland.      |
+|   1110   |     Belgian Blue     |    |                    |
+|   1211   |     Brown Swiss.     |1214|      Jersey.       |
+|   1212   |      Canadian.       |1311|    Lincoln Red.    |
+|   1310   |       Dexter.        |1312|     Red Poll.      |
+|   1109   |      Galloway.       |1313|     Shorthorn.     |
+|   1114   |       Gelbvieh       |    |                    |
+|   1213   |      Guernsey.       |    |                    |
+|**Horses**|                      |    |                    |
+|   2227   |American Saddle Horse.|2109|     Percheron.     |
+|   2228   |       Arabian.       |2304|   Shetland Pony.   |
+|   2107   |    Belgian Draft.    |2110|Shire  <br/>Suffolk.|
+|   2229   |      Canadian.       |2111|   Thoroughbred.    |
+|   2108   |     Clydesdale.      |2232|    Welsh Pony.     |
+|   2230   |       Hackney.       |2305|      and Cob.      |
+|   2236   |       Morgan.        |    |                    |
+|**Sheep** |                      |    |                    |
+|   4110   |      Blackface.      |4115|      Lincoln.      |
+|   4111   |       Cheviot.       |4116|      Merino.       |
+|   4112   |     Corriedale.      |4213|    Oxford Down.    |
+|   4113   |      Cotswold.       |4117|    Rambouillet.    |
+|   4209   |     Dorset Horn.     |4214|      Ryeland.      |
+|   4210   |      Hampshire.      |4215|    Shropshire.     |
+|   4211   |       Karakul.       |4216|     Southdown.     |
+|   4212   |     Kerry Hill.      |4217|      Suffolk.      |
+|   4114   |      Leicester.      |    |                    |
+|**Goats** |                      |    |                    |
+|          |       Alpine.        |    |                    |
+|          |       Angora.        |    |                    |
+|   5002   |       Nubian.        |    |                    |
+|          |       Saanen.        |    |                    |
+|          |     Toggenburg.      |    |                    |
+|**Swine** |                      |    |                    |
+|          |      Berkshire.      |    |                    |
+|          |    Chester White.    |    |                    |
+|          |    Duroc-Jersey.     |    |                    |
+|          |      Hampshire.      |    |                    |
+|          |       Lacombe.       |    |                    |
+|   6003   |      Landrace.       |    |                    |
+|          |     Large Black.     |    |                    |
+|          |    Poland China.     |    |                    |
+|          |      Tamworth.       |    |                    |
+|          | British Saddleback.  |    |                    |
+|          |      Yorkshire.      |    |                    |
 
 (2) *Holstein-Friesian cattle in Canada* (*Code 1215*). The Holstein-Friesian Association of Canada, Brantford, Ontario, Canada, of which G. M. Clemons is secretary and editor, is recognized for the Holstein-Friesian breed registered in the Holstein-Friesian Herd Book of that Association.
 
@@ -224,7 +208,7 @@ Cats
 
 (4) *Standardbred horses in Canada* (*Code 2231*). The Canadian Standard Bred Stud Book kept by the Canadian Standard Bred Horse Society, 122 Brown's Line, Toronto 14, Ontario, Canada, is recognized for all Standardbred horses registered therein: *Provided,* That no Standard bred so registered shall be certified under the act as purebred unless a pedigree certificate showing three complete generations of known and recorded purebred Standardbred ancestry, issued by the Canadian Standard Bred Horse Society, is submitted for each such horse.
 
-(5) *Charolais cattle in canada (Code 1112).* The full French book of record of the Canadian Charolais Association, Calgary, Alberta, Canada, is recognized for the Charolais breed registered therein.
+(5) *Charolais cattle in Canada (Code 1112).* The full French book of record of the Canadian Charolais Association, Calgary, Alberta, Canada, is recognized for the Charolais breed registered therein.
 
 (6) *Maine-Anjou cattle in Canada (Code 1113*). The full French book of record of the Canadian Maine-Anjou Association, which is maintained by the Canadian National Live Stock Records, is recognized for the Maine-Anjou breed registered in the Canadian Maine-Anjou Herd Book: *Provided,* That no Maine-Anjou cattle so registered shall be certified under the act as purebred unless a pedigree certificate showing at least three generations of known and recorded purebred ancestry of the breed involved, issued by the Canadian National Live Stock Records, is submitted for each such animal.
 
@@ -232,4 +216,4 @@ Cats
 
 (8) *Hereford cattle in Canada (Code 1110).* The Canadian Hereford Herd Book of The Canadian Hereford Association, 5160 Skyline Way NE., Calgary, Alberta, Canada, of which Dr. Duncan J. Porteous is General-Manager, is recognized for the Hereford breed registered therein.
 
-[23 FR 10104, Dec. 23, 1958]Editorial Note:For Federal Register citations affecting § 151.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[23 FR 10104, Dec. 23, 1958]Editorial Note:For Federal Register citations affecting § 151.9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

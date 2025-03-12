@@ -60,4 +60,4 @@ The label requirements in this section are additional to those prescribed elsewh
 
 (n) All labels for conditionally licensed products shall bear the following statement: “This product license is conditional; efficacy and potency have not been fully demonstrated.”
 
-(Approved by the Office of Management and Budget under control number 0579-0013)[38 FR 12094, May 9, 1973]Editorial Note:For Federal Register citations affecting § 112.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0013)[38 FR 12094, May 9, 1973]Editorial Note:For Federal Register citations affecting § 112.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

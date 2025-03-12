@@ -144,4 +144,4 @@ A person other than the registrant making a proxy solicitation may deliver a sin
 
 (2) At the time the communication is made, a definitive proxy statement is on file with the Commission pursuant to § 240.14a-6(b).
 
-[39 FR 40768, Nov. 20, 1974]Editorial Note:For Federal Register citations affecting § 240.14a-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[39 FR 40768, Nov. 20, 1974]Editorial Note:For Federal Register citations affecting § 240.14a-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

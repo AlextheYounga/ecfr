@@ -20,7 +20,7 @@ Participating flocks, products produced from them, and States that have met the 
 
 ![](/graphics/ec10se91.005.gif)
 
-(f) *U.S. M. Meleagridis Clean* - (See § 145.43(d)).
+(f) *U.S. M. Meleagridis Clean*—(See § 145.43(d)).
 
 ![](/graphics/ec10se91.006.gif)
 
@@ -76,4 +76,4 @@ Participating flocks, products produced from them, and States that have met the 
 
 (t) *U.S. H5/H7 Avian Influenza Clean.* (See §§ 145.43(g), 145.53(e), and 145.93(c).)
 
-![](/graphics/er14no03.000.gif)[38 FR 13706, May 24, 1973. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/er14no03.000.gif)[38 FR 13706, May 24, 1973. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

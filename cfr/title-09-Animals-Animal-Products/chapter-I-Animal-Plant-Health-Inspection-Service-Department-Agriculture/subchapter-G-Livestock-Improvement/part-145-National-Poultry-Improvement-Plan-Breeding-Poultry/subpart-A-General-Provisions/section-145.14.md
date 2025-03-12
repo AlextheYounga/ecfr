@@ -94,4 +94,4 @@ H.B. Ortmayer and R. Yamamoto, “Mycoplasma Meleagridis Antibody Detection by E
 
 (3) The official determination of a flock as positive for the H5 or H7 subtypes of avian influenza may be made only by NVSL.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

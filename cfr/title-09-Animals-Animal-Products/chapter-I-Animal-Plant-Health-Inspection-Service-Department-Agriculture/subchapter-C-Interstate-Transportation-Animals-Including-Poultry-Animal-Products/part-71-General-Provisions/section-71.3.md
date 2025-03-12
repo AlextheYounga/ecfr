@@ -38,4 +38,4 @@
 
 (f) Before offering cattle or other livestock or poultry for interstate transportation, transporting them interstate, or introducing them into any stockyards or upon routes of traffic for interstate transportation, all persons, companies, or corporations are required to exercise reasonable diligence to ascertain whether such animals or poultry are affected with any contagious, infectious, or communicable disease, or have been exposed to the contagion or infection of any such disease by contact with other animals or poultry so diseased or by location in pens, cars, or other vehicles, or upon premises that have contained animals or poultry so diseased.
 
-[28 FR 5937, June 13, 1963]Editorial Note:For Federal Register citations affecting § 71.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[28 FR 5937, June 13, 1963]Editorial Note:For Federal Register citations affecting § 71.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

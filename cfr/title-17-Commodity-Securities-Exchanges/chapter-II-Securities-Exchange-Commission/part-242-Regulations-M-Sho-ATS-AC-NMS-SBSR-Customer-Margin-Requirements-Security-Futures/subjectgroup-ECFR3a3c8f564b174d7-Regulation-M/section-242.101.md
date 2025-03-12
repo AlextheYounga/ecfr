@@ -1,12 +1,10 @@
 ##### § 242.101 Activities by distribution participants. #####
 
-Link to an amendment published at 83 FR 64222, Dec. 13, 2018.
-
 (a) *Unlawful Activity.* In connection with a distribution of securities, it shall be unlawful for a distribution participant or an affiliated purchaser of such person, directly or indirectly, to bid for, purchase, or attempt to induce any person to bid for or purchase, a covered security during the applicable restricted period; *Provided, however,* That if a distribution participant or affiliated purchaser is the issuer or selling security holder of the securities subject to the distribution, such person shall be subject to the provisions of § 242.102, rather than this section.
 
 (b) *Excepted Activity.* The following activities shall not be prohibited by paragraph (a) of this section:
 
-(1) *Research.* The publication or dissemination of any information, opinion, or recommendation, if the conditions of §§ 230.138 or 230.139 of this chapter are met; or
+(1) *Research.* The publication or dissemination of any information, opinion, or recommendation, if the conditions of § 230.138, § 230.139, or § 230.139b of this chapter are met; or
 
 (2) *Transactions complying with certain other sections.* Transactions complying with §§ 242.103 or 242.104; or
 
@@ -44,4 +42,4 @@ Link to an amendment published at 83 FR 64222, Dec. 13, 2018.
 
 (d) *Exemptive authority.* Upon written application or upon its own motion, the Commission may grant an exemption from the provisions of this section, either unconditionally or on specified terms and conditions, to any transaction or class of transactions, or to any security or class of securities.
 
-[62 FR 544, Jan. 3, 1997, as amended at 77 FR 18685, Mar. 28, 2012; 78 FR 44805, July 24, 2013]
+[62 FR 544, Jan. 3, 1997, as amended at 77 FR 18685, Mar. 28, 2012; 78 FR 44805, July 24, 2013; 83 FR 64222, Dec. 13, 2018]

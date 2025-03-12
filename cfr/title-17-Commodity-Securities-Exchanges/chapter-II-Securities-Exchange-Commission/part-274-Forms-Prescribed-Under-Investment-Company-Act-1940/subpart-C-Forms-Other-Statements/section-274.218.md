@@ -10,4 +10,4 @@ This form must be used as the application for an order of the Commission in case
 
 (d) Has become a business development company.
 
-[64 FR 19471, Apr. 21, 1999]Editorial Note:For Federal Register citations affecting Form N-8F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[64 FR 19471, Apr. 21, 1999]Editorial Note:For Federal Register citations affecting Form N-8F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

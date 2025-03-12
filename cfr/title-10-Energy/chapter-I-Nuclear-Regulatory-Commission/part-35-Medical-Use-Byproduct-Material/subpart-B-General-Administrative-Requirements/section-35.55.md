@@ -1,10 +1,8 @@
 ##### § 35.55 Training for an authorized nuclear pharmacist. #####
 
-Link to an amendment published at 83 FR 33105, July 16, 2018.
-
 Except as provided in § 35.57, the licensee shall require the authorized nuclear pharmacist to be a pharmacist who -
 
-(a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State and who meets the requirements in paragraph (b)(2) of this section. (The names of board certifications which have been recognized by the Commission or an Agreement State will be posted on the NRC's Web page.) To have its certification process recognized, a specialty board shall require all candidates for certification to:
+(a) Is certified by a specialty board whose certification process has been recognized by the Commission or an Agreement State. The names of board certifications that have been recognized by the Commission or an Agreement State are posted on the NRC's Medical Uses Licensee Toolkit web page. To have its certification process recognized, a specialty board shall require all candidates for certification to:
 
 (1) Have graduated from a pharmacy program accredited by the American Council on Pharmaceutical Education (ACPE) or have passed the Foreign Pharmacy Graduate Examination Committee (FPGEC) examination;
 
@@ -40,6 +38,6 @@ Except as provided in § 35.57, the licensee shall require the authorized nuclea
 
 (E) Using procedures to prevent or minimize radioactive contamination and using proper decontamination procedures; and
 
-(2) Has obtained written attestation, signed by a preceptor authorized nuclear pharmacist, that the individual has satisfactorily completed the requirements in paragraphs (a)(1), (a)(2), and (a)(3) or (b)(1) of this section and has achieved a level of competency sufficient to function independently as an authorized nuclear pharmacist.
+(2) Has obtained written attestation, signed by a preceptor authorized nuclear pharmacist, that the individual has satisfactorily completed the requirements in paragraph (b)(1) of this section and is able to independently fulfill the radiation safety-related duties as an authorized nuclear pharmacist.
 
-[67 FR 20370, Apr. 24, 2002, as amended at 70 FR 16362, Mar. 30, 2005]
+[67 FR 20370, Apr. 24, 2002, as amended at 70 FR 16362, Mar. 30, 2005; 83 FR 33105, July 16, 2018]

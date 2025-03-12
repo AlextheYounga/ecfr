@@ -44,7 +44,7 @@ With the exception of “byproduct material” as defined in section 11e. of the
 
 *Corporation* means the United States Enrichment Corporation (USEC), or its successor, a Corporation that is authorized by statute to lease the gaseous diffusion enrichment plants in Paducah, Kentucky, and Piketon, Ohio, from the Department of Energy, or any person authorized to operate one or both of the gaseous diffusion plants, or other facilities, pursuant to a plan for the privatization of USEC that is approved by the President.
 
-*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits -
+*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits—
 
 (1) Release of the property for unrestricted use and termination of the license; or
 
@@ -94,4 +94,4 @@ With the exception of “byproduct material” as defined in section 11e. of the
 
 *Uranium Milling* means any activity that results in the production of byproduct material as defined in this part.
 
-[26 FR 284, Jan. 14, 1961]Editorial Note:For Federal Register citations affecting § 40.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 284, Jan. 14, 1961]Editorial Note:For Federal Register citations affecting § 40.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

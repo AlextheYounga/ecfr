@@ -1,8 +1,6 @@
 ##### § 54.9815-2713 Coverage of preventive health services. #####
 
-Link to an amendment published at 83 FR 57586, Nov. 15, 2018.Link to an amendment published at 83 FR 57630, Nov. 15, 2018.
-
-(a) *Services* - (1) *In general.* [Reserved]. For further guidance, see § 54.9815-2713T(a)(1) introductory text.
+(a) *Services*—(1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to § 54.9815-2713A, a group health plan, or a health insurance issuer offering group health insurance coverage, must provide coverage for and must not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) for—
 
 (i) Evidence-based items or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force with respect to the individual involved (except as otherwise provided in paragraph (c) of this section);
 
@@ -10,9 +8,9 @@ Link to an amendment published at 83 FR 57586, Nov. 15, 2018.Link to an amendmen
 
 (iii) With respect to infants, children, and adolescents, evidence-informed preventive care and screenings provided for in comprehensive guidelines supported by the Health Resources and Services Administration; and
 
-(iv) [Reserved]. For further guidance, see § 54.9815-2713T(a)(1)(iv).
+(iv) With respect to women, such additional preventive care and screenings not described in paragraph (a)(1)(i) of this section as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of section 2713(a)(4) of the Public Health Service Act, subject to 45 CFR 147.131, 147.132, and 147.133.
 
-(2) *Office visits* - (i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
+(2) *Office visits*—(i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
 
 (ii) If an item or service described in paragraph (a)(1) of this section is not billed separately (or is not tracked as individual encounter data separately) from an office visit and the primary purpose of the office visit is the delivery of such an item or service, then a plan or issuer may not impose cost-sharing requirements with respect to the office visit.
 
@@ -44,7 +42,7 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (5) *Services not described.* Nothing in this section prohibits a plan or issuer from providing coverage for items and services in addition to those recommended by the United States Preventive Services Task Force or the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, or provided for by guidelines supported by the Health Resources and Services Administration, or from denying coverage for items and services that are not recommended by that task force or that advisory committee, or under those guidelines. A plan or issuer may impose cost-sharing requirements for a treatment not described in paragraph (a)(1) of this section, even if the treatment results from an item or service described in paragraph (a)(1) of this section.
 
-(b) *Timing* - (1) *In general.* A plan or issuer must provide coverage pursuant to paragraph (a)(1) of this section for plan years that begin on or after September 23, 2010, or, if later, for plan years that begin on or after the date that is one year after the date the recommendation or guideline is issued.
+(b) *Timing*—(1) *In general.* A plan or issuer must provide coverage pursuant to paragraph (a)(1) of this section for plan years that begin on or after September 23, 2010, or, if later, for plan years that begin on or after the date that is one year after the date the recommendation or guideline is issued.
 
 (2) *Changes in recommendations or guidelines.* (i) A plan or issuer that is required to provide coverage for any items and services specified in any recommendation or guideline described in paragraph (a)(1) of this section on the first day of a plan year must provide coverage through the last day of the plan year, even if the recommendation or guideline changes is or is no longer described in paragraph (a)(1) of this section, during the plan year.
 
@@ -54,4 +52,4 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (d) *Effective/applicability date.* April 16, 2012.
 
-[T.D. 9578, 77 FR 8729, Feb. 15, 2012, as amended by T.D. 9624, 78 FR 39892, July 2, 2013; T.D. 9726, 80 FR 41342, July 14, 2015; T.D. 9827, 82 FR 47828, Oct. 13, 2017]
+[T.D. 9578, 77 FR 8729, Feb. 15, 2012, as amended by T.D. 9624, 78 FR 39892, July 2, 2013; T.D. 9726, 80 FR 41342, July 14, 2015; T.D. 9827, 82 FR 47828, Oct. 13, 2017; T.D. 9840, 83 FR 57586, Nov. 15, 2018; T.D. 9841, 83 FR 57630, Nov. 15, 2018]

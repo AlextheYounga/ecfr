@@ -60,11 +60,11 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Class A State or area.* A State or area which meets standards for classification as a Class A State or area and is certified as such on initial classification or on reclassification by the State animal health official, the Veterinarian in Charge, and the Administrator. Any reclassification will be made in accordance with § 78.40 of this part. The following are the standards to attain and maintain Class A status.
 
-(a) *Surveillance* - (1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
+(a) *Surveillance*—(1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
 
-(2) *Market Cattle Identification (MCI) program* - (i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
+(2) *Market Cattle Identification (MCI) program*—(i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
 
-(ii) *Brucellosis reactors* - (A) *Tracebacks.* At least 90 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
+(ii) *Brucellosis reactors*—(A) *Tracebacks.* At least 90 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
 
 (B) *Successfully closed cases.* The State or area must successfully close at least 95 percent of the MCI reactor cases traced to the farm of origin during the 12-consecutive-month period immediately prior to the most recent anniversary of the date the State or area was classified Class A. To successfully close an MCI reactor case, State representatives or APHIS representatives must conduct an epidemiologic investigation at the farm of origin within 15 days after notification by the cooperative State-Federal laboratory that brucellosis reactors were found on the MCI test. Herd blood tests must be conducted or the herd must be confined to the premises under quarantine within 30 days after notification that brucellosis reactors were found on the MCI test, unless a designated epidemiologist determines that:
 
@@ -78,13 +78,13 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (*iii*) The brucellosis reactor showed a low titer in the MCI test and is traced back to a dairy herd that is 100 percent vaccinated and has tested negative to the most recent brucellosis ring test required by this section for herds producing milk for sale.
 
-(3) *Epidemiologic surveillance* - (i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 15 days of notification of brucellosis in the herd known to be affected;
+(3) *Epidemiologic surveillance*—(i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 15 days of notification of brucellosis in the herd known to be affected;
 
 (ii) *Epidemiologically traced herds.* All herds from which cattle or bison are moved into a herd known to be affected and all herds which have received cattle or bison from a herd known to be affected shall have an approved individual herd plan in effect within 15 days of locating the source herd or recipient herd.
 
 (iii) Each State shall ensure that such approved individual herd plans are effectively complied with, as determined by the Administrator.
 
-(b) *Herd infection rate* - (1) *Percentage of herds affected.* States or areas must not exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 0.25 percent or 2.5 herds per 1,000, except in States with 10,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States would qualify for Class A status. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
+(b) *Herd infection rate*—(1) *Percentage of herds affected.* States or areas must not exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 0.25 percent or 2.5 herds per 1,000, except in States with 10,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States would qualify for Class A status. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
 
 (2) *Epidemiologic investigation.* Within 15 days after notification by the cooperative State-Federal laboratory that brucellosis reactors have been found in any herd, State representatives or APHIS representatives shall investigate that herd to identify possible sources of brucellosis. All possible sources of brucellosis identified shall be contacted within an additional 15 days to determine appropriate action.
 
@@ -92,11 +92,11 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Class B State or area.* A State or area which meets standards for classification as a Class B State or area and is certified as such on initial classification or on reclassification by the State animal health official, the Veterinarian in Charge, and the Administrator. Any reclassification will be made in accordance with § 78.40 of this part. The following are the standards to attain and maintain Class B status.
 
-(a) *Surveillance* - (1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
+(a) *Surveillance*—(1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
 
-(2) *Market Cattle Identification (MCI) program* - (i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
+(2) *Market Cattle Identification (MCI) program*—(i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
 
-(ii) *Brucellosis reactors* - (A) *Tracebacks.* At least 80 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
+(ii) *Brucellosis reactors*—(A) *Tracebacks.* At least 80 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
 
 (B) *Successfully closed cases.* The State or area must successfully close at least 90 percent of the MCI reactor cases traced to the farm of origin during the 12-consecutive-month period immediately prior to the most recent anniversary of the date the State or area was classified Class B. To successfully close an MCI reactor case, State representatives or APHIS representatives must conduct an epidemiologic investigation at the farm of origin within 30 days after notification by the cooperative State-Federal laboratory that brucellosis reactors were found on the MCI test. Herd blood tests must be conducted or the herd must be confined to the premises under quarantine within 30 days after notification that brucellosis reactors were found on the MCI test, unless a designated epidemiologist determines that:
 
@@ -110,13 +110,13 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (*iii*) The brucellosis reactor showed a low titer in the MCI test and is traced back to a dairy herd that is 100 percent vaccinated and has tested negative to the most recent brucellosis ring test required by this section for herds producing milk for sale.
 
-(3) *Epidemiologic surveillance* - (i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 45 days of notification of brucellosis in the herd known to be affected;
+(3) *Epidemiologic surveillance*—(i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 45 days of notification of brucellosis in the herd known to be affected;
 
 (ii) *Epidemiologically traced herds.* All herds from which cattle or bison are moved into a herd known to be affected and all herds which have received cattle or bison from a herd known to be affected shall have an approved individual herd plan in effect within 45 days of locating the source herd or recipient herd.
 
 (iii) Each State shall ensure that such approved individual herd plans are effectively complied with, as determined by the Administrator.
 
-(b) *Herd infection rate* - (1) *Percentage of herds affected.* States or areas must not exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 1.5 percent or 15 herds per 1,000, except in States with 1,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States would qualify for Class B status. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
+(b) *Herd infection rate*—(1) *Percentage of herds affected.* States or areas must not exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 1.5 percent or 15 herds per 1,000, except in States with 1,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States would qualify for Class B status. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
 
 (2) *Epidemiologic investigation.* Within 45 days after notification by the cooperative State-Federal laboratory that brucellosis reactors have been found in any herd, State representatives or APHIS representatives shall investigate that herd to identify possible sources of brucellosis. All possible sources of brucellosis identified shall be contacted within an additional 30 days to determine appropriate action.
 
@@ -124,11 +124,11 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Class C State or area.* A State or area which meets standards for classification as a Class C State or area and is certified as such on initial classification or on reclassification by the State animal health official, the Veterinarian in Charge, and the Administrator. Any reclassification will be made in accordance with § 78.40 of this part. The following are the standards to attain and maintain Class C status.
 
-(a) *Surveillance* - (1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
+(a) *Surveillance*—(1) *Brucellosis ring test.* The brucellosis ring test shall be conducted in the State or area at least four times per year at approximately 90-day intervals. All herds producing milk for sale shall be included in at least three of the four brucellosis ring tests per year.
 
-(2) *Market Cattle Identification (MCI) program* - (i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
+(2) *Market Cattle Identification (MCI) program*—(i) *Coverage.* All recognized slaughtering establishments in the State or area must participate in the MCI program. Blood samples shall be collected from at least 95 percent of all cows and bulls 2 years of age or over at each recognized slaughtering establishment and subjected to an official test;
 
-(ii) *Brucellosis reactors* - (A) *Tracebacks.* At least 80 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
+(ii) *Brucellosis reactors*—(A) *Tracebacks.* At least 80 percent of all brucellosis reactors found in the course of MCI testing must be traced to the farm of origin.
 
 (B) *Successfully closed cases.* The State or area must successfully close at least 90 percent of the MCI reactor cases traced to the farm of origin during the 12-consecutive-month period immediately prior to the most recent anniversary of the date the State or area was classified Class C. To successfully close an MCI reactor case, State representatives or APHIS representatives must conduct an epidemiologic investigation at the farm of origin within 30 days after notification by the cooperative State-Federal laboratory that brucellosis reactors were found on the MCI test. Herd blood tests must be conducted or the herd must be confined to the premises under quarantine within 30 days after notification that brucellosis reactors were found on the MCI test, unless a designated epidemiologist determines that:
 
@@ -142,13 +142,13 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (*iii*) The brucellosis reactor showed a low titer in the MCI test and is traced back to a dairy herd that is 100 percent vaccinated and has tested negative to the most recent brucellosis ring test required by this section for herds producing milk for sale.
 
-(3) *Epidemiologic surveillance* - (i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 45 days of notification of brucellosis in the herd known to be affected;
+(3) *Epidemiologic surveillance*—(i) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall have an approved individual herd plan in effect within 45 days of notification of brucellosis in the herd known to be affected;
 
 (ii) *Epidemiologically traced herds.* All herds from which cattle or bison are moved into a herd known to be affected and all herds which have received cattle or bison from a herd known to be affected shall have an approved individual herd plan in effect within 45 days of locating the source herd or recipient herd.
 
 (iii) Each State shall ensure that such approved individual herd plans are effectively complied with, as determined by the Administrator.
 
-(b) *Herd infection rate* - (1) *Percentage of herds affected.* States or areas exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 1.5 percent or 15 herds per 1,000, except in States with 1,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States should be classified as a Class C State. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
+(b) *Herd infection rate*—(1) *Percentage of herds affected.* States or areas exceed a cattle or bison herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to field strain *Brucella abortus,* of 1.5 percent or 15 herds per 1,000, except in States with 1,000 or fewer herds. A special review by the Administrator will be made to determine if such small herd population States should be classified as a Class C State. Locations of herds, sources of brucellosis, and brucellosis control measures taken by the State will be considered.
 
 (2) *Epidemiologic investigation.* Within 45 days after notification by the cooperative State-Federal laboratory that brucellosis reactors have been found in any herd, State representatives or APHIS representatives shall investigate that herd to identify possible sources of brucellosis. All possible sources of brucellosis identified shall be contacted within an additional 30 days to determine appropriate action.
 
@@ -160,7 +160,7 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Class Free State or area.* A State or area which meets standards for classification as a Class Free State or area and is certified as such on initial classification or on reclassification by the State animal health official, the Veterinarian in Charge, and the Administrator. For initial classification or reclassification, all cattle herds in the State or area must have remained free of *Brucella abortus* for 12 consecutive months, based on surveillance and epidemiologic investigations as required for Class A States or areas, and the State or area must have a cattle herd infection rate, based on the number of herds found to have brucellosis reactors within the State or area during any 12 consecutive months due to *Brucella abortus,* of 0.0 percent or 0 herds per 1,000. The Administrator may reclassify a State or area to a lower status upon finding that continued detection of brucellosis presents a risk that the disease will spread. Any reclassification will be made in accordance with § 78.40 of this part. All cattle herds in the State or area in which brucellosis has been known to exist must be released from any State or Federal brucellosis quarantine prior to classification. In addition, if any herds of other species of domestic livestock have been found to be affected with brucellosis, they must be subjected to an official test and found negative, slaughtered, or quarantined so that no foci of brucellosis in any species of domestic livestock are left uncontrolled. The following are the standards to maintain Class Free status.
 
-(a) *Surveillance* - (1) *Testing requirements* - (i) *States or areas that have been Class Free for 5 consecutive years or longer and that do not have B. abortus in wildlife.* All recognized slaughtering establishments in the State or area, upon request by APHIS, must agree to participate in market cattle identification (MCI) testing as part of the national brucellosis surveillance plan.
+(a) *Surveillance*—(1) *Testing requirements*—(i) *States or areas that have been Class Free for 5 consecutive years or longer and that do not have B. abortus in wildlife.* All recognized slaughtering establishments in the State or area, upon request by APHIS, must agree to participate in market cattle identification (MCI) testing as part of the national brucellosis surveillance plan.
 
 (ii) *States or areas that have not been Class Free for 5 consecutive years or longer or that have B. abortus in wildlife.* The State or area must carry out testing as provided in paragraphs (a)(1)(ii)(A) and (a)(1)(ii)(B) or (a)(1)(ii)(C) of this definition:
 
@@ -186,11 +186,11 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (*3*) The brucellosis reactor showed a low titer in the MCI test and is traced back to a dairy herd that is 100 percent vaccinated and has tested negative to the most recent brucellosis ring test required by this section for herds producing milk for sale.
 
-(iii) *Epidemiologic surveillance* - (A) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall be placed under quarantine and have an approved individual herd plan in effect within 15 days after notification of brucellosis in the herd known to be affected;
+(iii) *Epidemiologic surveillance*—(A) *Adjacent herds.* All adjacent herds or other herds having contact with cattle or bison in a herd known to be affected shall be placed under quarantine and have an approved individual herd plan in effect within 15 days after notification of brucellosis in the herd known to be affected;
 
 (B) *Epidemiologically traced herds.* All herds from which cattle or bison are moved into a herd known to be affected and all herds which have received cattle or bison from a herd known to be affected shall be placed under quarantine and have an approved individual herd plan in effect within 15 days of locating the source herd or recipient herd. Each State shall ensure that such approved individual herd plans are effectively complied with, as determined by the Administrator.
 
-(b) *Herd infection rate* - (1) *Affected herds.* Except as provided in paragraph (b)(4) of this definition, all cattle and bison herds in the State or area must remain free of *Brucella abortus.*
+(b) *Herd infection rate*—(1) *Affected herds.* Except as provided in paragraph (b)(4) of this definition, all cattle and bison herds in the State or area must remain free of *Brucella abortus.*
 
 (2) *Epidemiologic investigation.* Within 15 days after notification by the cooperative State-Federal laboratory that brucellosis reactors have been found in any herd, State representatives or APHIS representatives shall investigate that herd to identify possible sources of brucellosis. All possible sources of brucellosis identified shall be contacted within an additional 15 days to determine appropriate action.
 
@@ -330,7 +330,7 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 *Official swine tattoo.* A tattoo, conforming to the six-character alpha-numeric National Tattoo System, that provides a unique identification for each herd or lot of swine.
 
-*Official test* - (a) *Classification of cattle and bison* - (1) *Standard card test.* (i) A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted and when conducted under the following circumstances:
+*Official test*—(a) *Classification of cattle and bison*—(1) *Standard card test.* (i) A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted and when conducted under the following circumstances:
 
 (A) When conditions and time are such that no other test is available; or
 
@@ -350,7 +350,7 @@ Accredited veterinarianAdministratorAnimalsAnimal and Plant Health Inspection Se
 
 (2) *Standard tube test (STT) or standard plate test (SPT).* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following agglutination reactions:
 
-SPT OR STT Classification - Official Vaccinates Vaccinated With a Brucella Abortus Strain 19 Approved Brucella Vaccine
+SPT OR STT Classification—Official Vaccinates Vaccinated With a Brucella Abortus Strain 19 Approved Brucella Vaccine
 
 |Titer|Classification|     |         |
 |-----|--------------|-----|---------|
@@ -411,79 +411,79 @@ I Incomplete agglutination.
 
 (i) Cattle and bison which are not official vaccinates:
 
-(A) Fifty percent fixation (2 plus) in a dilution of 1:20 or higher - brucellosis reactor;
+(A) Fifty percent fixation (2 plus) in a dilution of 1:20 or higher—brucellosis reactor;
 
-(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 50 percent fixation (2 plus) in a dilution of 1:20 - brucellosis suspect;
+(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 50 percent fixation (2 plus) in a dilution of 1:20—brucellosis suspect;
 
-(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10 - brucellosis negative;
+(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10—brucellosis negative;
 
 (ii) Official vaccinates vaccinated with a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Twenty-five percent fixation (1 plus) in a dilution of 1:40 or higher - brucellosis reactor;
+(A) Twenty-five percent fixation (1 plus) in a dilution of 1:40 or higher—brucellosis reactor;
 
-(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 25 percent fixation (1 plus) in a dilution of 1:40 - brucellosis suspect;
+(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 25 percent fixation (1 plus) in a dilution of 1:40—brucellosis suspect;
 
-(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10 - brucellosis negative.
+(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10—brucellosis negative.
 
 (iii) Official vaccinates vaccinated with an approved brucella vaccine other than a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Fifty percent fixation (2 plus) in a dilution of 1:20 or higher - brucellosis reactor;
+(A) Fifty percent fixation (2 plus) in a dilution of 1:20 or higher—brucellosis reactor;
 
-(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 50 percent fixation (2 plus) in a dilution of 1:20 - brucellosis suspect;
+(B) Fifty percent fixation (2 plus) in a dilution of 1:10 but less than 50 percent fixation (2 plus) in a dilution of 1:20—brucellosis suspect;
 
-(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10 - brucellosis negative.
+(C) Less than 50 percent fixation (2 plus) in a dilution of 1:10—brucellosis negative.
 
 (4) *Technicon automated complement-fixation test.* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following reactions:
 
 (i) Cattle and bison which are not official vaccinates:
 
-(A) Fixation in a dilution of 1:10 or higher - brucellosis reactor;
+(A) Fixation in a dilution of 1:10 or higher—brucellosis reactor;
 
-(B) Fixation in a dilution of 1:5 but no fixation in a dilution of 1:10 - brucellosis suspect;
+(B) Fixation in a dilution of 1:5 but no fixation in a dilution of 1:10—brucellosis suspect;
 
-(C) No fixation in a dilution of 1:5 or lower - brucellosis negative;
+(C) No fixation in a dilution of 1:5 or lower—brucellosis negative;
 
 (ii) Official vaccinates vaccinated with a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Fixation in a dilution of 1:20 or higher - brucellosis reactor;
+(A) Fixation in a dilution of 1:20 or higher—brucellosis reactor;
 
-(B) Fixation in a dilution of 1:10 but no fixation in a dilution of 1:20 - brucellosis suspect;
+(B) Fixation in a dilution of 1:10 but no fixation in a dilution of 1:20—brucellosis suspect;
 
-(C) Fixation in a dilution of 1:5 or less but no fixation in a dilution of 1:10 - brucellosis negative.
+(C) Fixation in a dilution of 1:5 or less but no fixation in a dilution of 1:10—brucellosis negative.
 
 (iii) Official vaccinates vaccinated with an approved brucella vaccine other than a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Fixation in a dilution of 1:10 or higher - brucellosis reactor;
+(A) Fixation in a dilution of 1:10 or higher—brucellosis reactor;
 
-(B) Fixation in a dilution of 1:5 but no fixation in a dilution of 1:10 - brucellosis suspect;
+(B) Fixation in a dilution of 1:5 but no fixation in a dilution of 1:10—brucellosis suspect;
 
-(C) No fixation in a dilution of 1:5 or lower - brucellosis negative.
+(C) No fixation in a dilution of 1:5 or lower—brucellosis negative.
 
 (5) *Rivanol test.* A test to determine the brucellosis disease status of test-eligible cattle and bison when conducted according to instructions approved by APHIS and the State in which the test is to be conducted. Cattle and bison are classified according to the following agglutination reactions:
 
 (i) Cattle and bison which are not official vaccinates:
 
-(A) Complete agglutination at a titer of 1:25 or higher - brucellosis reactor;
+(A) Complete agglutination at a titer of 1:25 or higher—brucellosis reactor;
 
-(B) Less than complete agglutination at a titer of 1:25 - brucellosis negative;
+(B) Less than complete agglutination at a titer of 1:25—brucellosis negative;
 
 (ii) Official adult vaccinates more than 5 months after vaccination with a *Brucella abortus* Strain 19 approved brucella vaccine and official calfhood vaccinates vaccinated with a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Incomplete agglutination at a titer of 1:100 or higher - brucellosis reactor;
+(A) Incomplete agglutination at a titer of 1:100 or higher—brucellosis reactor;
 
-(B) Complete agglutination at a titer of 1:25 or higher when the manual or technicon automated complement-fixation test is not conducted - brucellosis reactor;
+(B) Complete agglutination at a titer of 1:25 or higher when the manual or technicon automated complement-fixation test is not conducted—brucellosis reactor;
 
-(C) Complete agglutination at a titer of 1:50 or less when the manual complement-fixation test or the technicon automated complement-fixation test is conducted and results in a classification of brucellosis suspect or brucellosis negative - brucellosis suspect;
+(C) Complete agglutination at a titer of 1:50 or less when the manual complement-fixation test or the technicon automated complement-fixation test is conducted and results in a classification of brucellosis suspect or brucellosis negative—brucellosis suspect;
 
-(D) Less than complete agglutination at a titer of 1:25 - brucellosis negative;
+(D) Less than complete agglutination at a titer of 1:25—brucellosis negative;
 
-(iii) Official adult vaccinates less than 5 months after vaccination with a *Brucella abortus* Strain 19 approved brucella vaccine: Less than complete agglutination at the 1:50 titer - brucellosis negative.
+(iii) Official adult vaccinates less than 5 months after vaccination with a *Brucella abortus* Strain 19 approved brucella vaccine: Less than complete agglutination at the 1:50 titer—brucellosis negative.
 
 (iv) Official vaccinates vaccinated with an approved brucella vaccine other than a *Brucella abortus* Strain 19 approved brucella vaccine:
 
-(A) Complete agglutination at a titer of 1:25 or higher - brucellosis reactor;
+(A) Complete agglutination at a titer of 1:25 or higher—brucellosis reactor;
 
-(B) Less than complete agglutination at a titer of 1:25 - brucellosis negative.
+(B) Less than complete agglutination at a titer of 1:25—brucellosis negative.
 
 (6) *Semen plasma test.* A test to determine the brucellosis disease status of bulls used for artificial insemination when conducted in conjunction with an official serological test and according to instructions approved by APHIS and the State in which the test is to be conducted. The classification of such bulls shall be based on the maximum agglutination titer of either the official serological test or the semen plasma test.
 
@@ -517,7 +517,7 @@ I Incomplete agglutination.
 
 (i) The designated epidemiologist may consider the results of CITE ® tests when evaluating the results of standard card tests of cattle and bison.
 
-(b) *Classification of swine* - (1) *Standard card test.* A test to determine the brucellosis disease status of swine. Standard card test results are interpreted as either negative or positive. A moderate to marked clumping agglutination reaction is a positive result. Swine negative to the standard card test are classified as brucellosis negative. Swine positive to the standard card test in a herd not known to be affected but negative to any other official test or bacteriological culture for *brucella* are classified as brucellosis suspects. Other swine positive to the standard card test are classified as brucellosis reactors.
+(b) *Classification of swine*—(1) *Standard card test.* A test to determine the brucellosis disease status of swine. Standard card test results are interpreted as either negative or positive. A moderate to marked clumping agglutination reaction is a positive result. Swine negative to the standard card test are classified as brucellosis negative. Swine positive to the standard card test in a herd not known to be affected but negative to any other official test or bacteriological culture for *brucella* are classified as brucellosis suspects. Other swine positive to the standard card test are classified as brucellosis reactors.
 
 (2) *Standard tube test.* A test to determine the brucellosis disease status of swine.
 
@@ -526,7 +526,7 @@ I Incomplete agglutination.
 |Titer|Classification|     |         |
 |-----|--------------|-----|---------|
 |1:25 |     1:50     |1:100|         |
-|  I  |     ] -      |  −  |Negative.|
+|  I  |      ]—      |  −  |Negative.|
 |  \+ |      −       |  −  |   Do.   |
 |  \+ |      I       |  −  |   Do.   |
 |  \+ |      \+      |  −  |   Do.   |
@@ -602,7 +602,7 @@ I Incomplete agglutination.
 
 *Purebred registry association.* A swine breed association formed and perpetuated for the maintenance of records of purebreeding of swine species for a specific breed whose characteristics are set forth in Constitutions, By-Laws, and other rules of the association.
 
-*Qualified herd.* (a) *Qualification.* (1) Any herd of cattle or bison which is in a quarantined area, not known to be affected, and negative to two consecutive herd blood tests. The first of these two herd blood tests shall be conducted not more than 240 days nor less than 120 days prior to the date of classification as a qualified herd. The second herd blood test may not be conducted less than 90 days nor more than 150 days after the first test. Additionally, the second herd blood test must be within 120 days of the date of classification as a qualified herd; or
+*Qualified herd*—(a) *Qualification.* (1) Any herd of cattle or bison which is in a quarantined area, not known to be affected, and negative to two consecutive herd blood tests. The first of these two herd blood tests shall be conducted not more than 240 days nor less than 120 days prior to the date of classification as a qualified herd. The second herd blood test may not be conducted less than 90 days nor more than 150 days after the first test. Additionally, the second herd blood test must be within 120 days of the date of classification as a qualified herd; or
 
 (2) Any certified brucellosis-free herd in a quarantined area which is negative to a herd blood test 120 days before or after designation of the area as a quarantined area.
 
@@ -662,7 +662,7 @@ I Incomplete agglutination.
 
 (b) A swine herd in a State that has not been validated as brucellosis-free, provided the herd meets the conditions for validation, as follows:
 
-(1) *Validation.* A swine herd may be validated as brucellosis-free if it has been found brucellosis negative after either a complete-herd test (CHT) or an incremental CHT. The incremental CHT may be conducted by testing all breeding swine 6 months of age or older with negative results within 365 days, either in four 25-percent increments, with those tests being conducted on the 90th, 180th, 270th, and 360th days of the testing cycle, or in 10-percent increments every 25-35 days until 100 percent of those swine have been tested. In cases where unforseen circumstances warrant such action, the Administrator may approve an extension of up to 15 days of the date on which a test under the 25-percent incremental herd test is to be conducted, thus allowing a test to be conducted no later than the 105th, 195th, 285th, or 375th day of the testing cycle. No swine may be tested twice during the testing cycle to comply with either the 25 percent requirement or the 10 percent requirement. No further testing is required once 100 percent of the breeding swine have been tested. After all breeding swine have tested brucellosis negative, a herd may be validated as brucellosis-free. Unless the Administrator has approved an alternative testing schedule, which might extend the testing cycle, a herd retains validated brucellosis-free status for a maximum of 365 days.
+(1) *Validation.* A swine herd may be validated as brucellosis-free if it has been found brucellosis negative after either a complete-herd test (CHT) or an incremental CHT. The incremental CHT may be conducted by testing all breeding swine 6 months of age or older with negative results within 365 days, either in four 25-percent increments, with those tests being conducted on the 90th, 180th, 270th, and 360th days of the testing cycle, or in 10-percent increments every 25-35 days until 100 percent of those swine have been tested. In cases where unforeseen circumstances warrant such action, the Administrator may approve an extension of up to 15 days of the date on which a test under the 25-percent incremental herd test is to be conducted, thus allowing a test to be conducted no later than the 105th, 195th, 285th, or 375th day of the testing cycle. No swine may be tested twice during the testing cycle to comply with either the 25 percent requirement or the 10 percent requirement. No further testing is required once 100 percent of the breeding swine have been tested. After all breeding swine have tested brucellosis negative, a herd may be validated as brucellosis-free. Unless the Administrator has approved an alternative testing schedule, which might extend the testing cycle, a herd retains validated brucellosis-free status for a maximum of 365 days.
 
 (2) *Maintaining validation.* Validation may be continuously maintained if a complete herd test (CHT) is performed once every 365 days, with negative results, or an incremental CHT is performed. The incremental CHT may be conducted by testing all breeding swine 6 months of age or older, with negative results, within 365 days in either four 25-percent increments, with those tests being conducted on the 90th, 180th, 270th, and 360th days of the testing cycle, or in 10-percent increments every 25-35 days until 100 percent of those swine have been tested. In cases where unforeseen circumstances warrant such action, the Administrator may approve an alternative testing schedule under which the 25 percent or 10 percent incremental CHT would be completed, with negative results, within 420 days, during which time the herd's validated brucellosis-free status would be continued. No swine may be tested twice during the testing cycle to comply with these requirements. No further testing is required once 100 percent of the breeding swine have been tested.
 
@@ -684,4 +684,4 @@ I Incomplete agglutination.
 
 *Whole herd vaccination.* The vaccination of all female cattle and female bison 4 months of age or over in a herd when authorized by the State animal health official and the Veterinarian in Charge, and conducted in accordance with the definitions of official adult vaccinate and official calfhood vaccinate.
 
-(Approved by the Office of Management and Budget under control number 0579-0047)[51 FR 32580, Sept. 12, 1986]Editorial Note:For Federal Register citations affecting § 78.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0047)[51 FR 32580, Sept. 12, 1986]Editorial Note:For Federal Register citations affecting § 78.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -6,4 +6,4 @@
 
 (c) A transition report on this form shall be filed in accordance with the requirements set forth in § 240.13a-10 or § 240.15d-10 applicable when the issuer changes its fiscal year end.
 
-[47 FR 54781, Dec. 6, 1982, as amended at 70 FR 1625, Jan. 7, 2005; 70 FR 42248, July 21, 2005]Editorial Note:For Federal Register citations affecting Form 20-F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 54781, Dec. 6, 1982, as amended at 70 FR 1625, Jan. 7, 2005; 70 FR 42248, July 21, 2005]Editorial Note:For Federal Register citations affecting Form 20-F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

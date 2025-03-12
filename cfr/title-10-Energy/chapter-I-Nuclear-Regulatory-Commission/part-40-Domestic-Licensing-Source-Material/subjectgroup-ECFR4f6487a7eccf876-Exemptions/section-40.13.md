@@ -38,7 +38,7 @@
 
 (6) Natural or depleted uranium metal used as shielding constituting part of any shipping container: *Provided,* That:
 
-(i) The shipping container is conspicuously and legibly impressed with the legend “CAUTION - RADIOACTIVE SHIELDING - URANIUM”; and
+(i) The shipping container is conspicuously and legibly impressed with the legend “CAUTION—RADIOACTIVE SHIELDING—URANIUM”; and
 
 (ii) The uranium metal is encased in mild steel or equally fire resistant metal of minimum wall thickness of one-eighth inch (3.2 mm).
 
@@ -62,4 +62,4 @@
 
 (ii) Persons authorized to manufacture, process, or produce these materials or products containing source material by an Agreement State, and persons who import finished products or parts, for sale or distribution must be authorized by a license issued under § 40.52 for distribution only and are exempt from the requirements of parts 19 and 20 of this chapter, and § 40.32(b) and (c).
 
-[26 FR 284, Jan. 14, 1961]Editorial Note:For Federal Register citations affecting § 40.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[26 FR 284, Jan. 14, 1961]Editorial Note:For Federal Register citations affecting § 40.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

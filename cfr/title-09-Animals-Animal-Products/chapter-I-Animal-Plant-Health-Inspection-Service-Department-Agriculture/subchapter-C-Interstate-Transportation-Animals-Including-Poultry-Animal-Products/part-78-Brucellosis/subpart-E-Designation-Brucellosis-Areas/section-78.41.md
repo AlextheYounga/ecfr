@@ -6,4 +6,4 @@
 
 (c) *Class B.* None.
 
-[51 FR 32580, Sept. 12, 1986]Editorial Note:For Federal Register citations affecting § 78.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 32580, Sept. 12, 1986]Editorial Note:For Federal Register citations affecting § 78.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

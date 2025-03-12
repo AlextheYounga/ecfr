@@ -138,4 +138,4 @@ As used in this part, the following terms shall have the meanings set forth in t
 
 *Wild swine.* Any swine which are allowed to roam outside an enclosure.
 
-[52 FR 33801, Sept. 8, 1987]Editorial Note:For Federal Register citations affecting § 94.0, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 33801, Sept. 8, 1987]Editorial Note:For Federal Register citations affecting § 94.0, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -136,4 +136,4 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (2) A sample of at least 11 birds must be tested and found negative to avian influenza within 21 days prior to slaughter.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

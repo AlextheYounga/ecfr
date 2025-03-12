@@ -82,4 +82,4 @@
 
 (vi) If the horse or horse test specimen is not handled as outlined in the application for the permit and as specified in the permit issued.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0324)[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.304, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0324)[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.304, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

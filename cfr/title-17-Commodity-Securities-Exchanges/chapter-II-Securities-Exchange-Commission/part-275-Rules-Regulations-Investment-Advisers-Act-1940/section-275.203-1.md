@@ -10,4 +10,4 @@ Information on how to file with the IARD is available on the Commission's Web si
 
 (c) *Filing fees.* You must pay FINRA (the operator of the IARD) a filing fee. The Commission has approved the amount of the filing fee. No portion of the filing fee is refundable. Your completed application for registration will not be accepted by FINRA, and thus will not be considered filed with the Commission, until you have paid the filing fee.
 
-[65 FR 57448, Sept. 22, 2000; 65 FR 81737, Dec. 27, 2000]Editorial Note:For Federal Register citations affecting Form ADV, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[65 FR 57448, Sept. 22, 2000; 65 FR 81737, Dec. 27, 2000]Editorial Note:For Federal Register citations affecting Form ADV, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

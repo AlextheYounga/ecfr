@@ -28,4 +28,4 @@
 
 (2) For the registration of a class of securities under Section 12(g), upon the later of the filing of the form and qualification of that Regulation A offering statement.
 
-[43 FR 21663, May 19, 1978]Editorial Note:For Federal Register citations affecting Form 8-A, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 21663, May 19, 1978]Editorial Note:For Federal Register citations affecting Form 8-A, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

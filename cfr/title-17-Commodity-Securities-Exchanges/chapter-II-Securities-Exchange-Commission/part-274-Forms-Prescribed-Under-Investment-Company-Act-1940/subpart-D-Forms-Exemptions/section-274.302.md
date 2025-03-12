@@ -1,3 +1,3 @@
 ##### § 274.302 Form N-27I-1, notice of right of withdrawal and refund for variable life insurance contractholders required pursuant to Rule 6e-2 (§ 270.6e-2 of this chapter). #####
 
-[41 FR 47032, Oct. 27, 1976]Editorial Note:For Federal Register citations affecting Form N-27I-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Link to an amendment published at 85 FR 26309, May 1, 2020.[41 FR 47032, Oct. 27, 1976]Editorial Note:For Federal Register citations affecting Form N-27I-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

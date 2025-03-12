@@ -1,3 +1,5 @@
-##### § 270.24b-4 xxx #####
+##### § 270.24b-4 Filing copies of covered investment fund research reports. #####
 
-Link to an amendment published at 83 FR 64222, Dec. 13, 2018.
+A covered investment fund research report, as defined in paragraph (c)(3) of § 230.139b of this chapter under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), of a covered investment fund registered as an investment company under the Act, shall not be subject to section 24(b) of the Act or the rules and regulations thereunder, except that such report shall be subject to such section and the rules and regulations thereunder to the extent that it is otherwise not subject to the content standards in the rules of any self-regulatory organization related to research reports, including those contained in the rules governing communications with the public regarding investment companies or substantially similar standards.
+
+[83 FR 64222, Dec. 13, 2018]

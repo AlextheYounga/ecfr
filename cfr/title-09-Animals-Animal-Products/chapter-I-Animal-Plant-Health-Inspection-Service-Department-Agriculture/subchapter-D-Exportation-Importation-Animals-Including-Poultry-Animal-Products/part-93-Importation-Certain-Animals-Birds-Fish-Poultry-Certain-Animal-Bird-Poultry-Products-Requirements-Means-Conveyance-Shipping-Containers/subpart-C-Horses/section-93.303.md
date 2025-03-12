@@ -16,4 +16,4 @@
 
 (f) *Designation of other ports.* The Secretary of the Treasury has approved the designation as quarantine stations of the ports specified in this section. In special cases other ports may be designated as quarantine stations under this section by the Administrator, with the concurrence of the Secretary of the Treasury.
 
-[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

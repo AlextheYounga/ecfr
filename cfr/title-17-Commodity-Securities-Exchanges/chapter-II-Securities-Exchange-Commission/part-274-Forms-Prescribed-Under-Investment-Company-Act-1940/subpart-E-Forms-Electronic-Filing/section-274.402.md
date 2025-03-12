@@ -10,4 +10,4 @@ Form ID must be filed by registrants, third party filers, or their agents, to wh
 
 (d) Password Modification Authorization Code (PMAC) - allows a filer, filing agent or training agent to change its Password.
 
-[69 FR 22711, Apr. 26, 2004]Editorial Note:For Federal Register citations affecting Form ID, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[69 FR 22711, Apr. 26, 2004]Editorial Note:For Federal Register citations affecting Form ID, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

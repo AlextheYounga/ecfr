@@ -40,4 +40,4 @@ Instructions
 
 (e) Registrants registering securities on this Form, and registrants filing annual reports on this Form who have not previously filed a Form F-X (§ 249.250 of this chapter) in connection with the class of securities in relation to which the obligation to file this report arises, shall file a Form F-X with the Commission together with this Form.
 
-[56 FR 30075, July 1, 1991]Editorial Note:For Federal Register citations affecting Form 40-F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 30075, July 1, 1991]Editorial Note:For Federal Register citations affecting Form 40-F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

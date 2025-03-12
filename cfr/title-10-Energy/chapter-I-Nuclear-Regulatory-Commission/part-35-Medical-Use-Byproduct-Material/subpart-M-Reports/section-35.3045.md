@@ -1,30 +1,50 @@
 ##### § 35.3045 Report and notification of a medical event. #####
 
-Link to an amendment published at 83 FR 33111, July 16, 2018.
+(a) A licensee shall report any event as a medical event, except for an event that results from patient intervention, in which -
 
-(a) A licensee shall report any event, except for an event that results from patient intervention, in which the administration of byproduct material or radiation from byproduct material results in -
+(1) The administration of byproduct material or radiation from byproduct material, except permanent implant brachytherapy, results in -
 
-(1) A dose that differs from the prescribed dose or dose that would have resulted from the prescribed dosage by more than 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin; and
+(i) A dose that differs from the prescribed dose or dose that would have resulted from the prescribed dosage by more than 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin; and
 
-(i) The total dose delivered differs from the prescribed dose by 20 percent or more;
+(A) The total dose delivered differs from the prescribed dose by 20 percent or more;
 
-(ii) The total dosage delivered differs from the prescribed dosage by 20 percent or more or falls outside the prescribed dosage range; or
+(B) The total dosage delivered differs from the prescribed dosage by 20 percent or more or falls outside the prescribed dosage range; or
 
-(iii) The fractionated dose delivered differs from the prescribed dose, for a single fraction, by 50 percent or more.
+(C) The fractionated dose delivered differs from the prescribed dose for a single fraction, by 50 percent or more.
 
-(2) A dose that exceeds 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin from any of the following -
+(ii) A dose that exceeds 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin from any of the following -
 
-(i) An administration of a wrong radioactive drug containing byproduct material;
+(A) An administration of a wrong radioactive drug containing byproduct material or the wrong radionuclide for a brachytherapy procedure;
 
-(ii) An administration of a radioactive drug containing byproduct material by the wrong route of administration;
+(B) An administration of a radioactive drug containing byproduct material by the wrong route of administration;
 
-(iii) An administration of a dose or dosage to the wrong individual or human research subject;
+(C) An administration of a dose or dosage to the wrong individual or human research subject;
 
-(iv) An administration of a dose or dosage delivered by the wrong mode of treatment; or
+(D) An administration of a dose or dosage delivered by the wrong mode of treatment; or
 
-(v) A leaking sealed source.
+(E) A leaking sealed source.
 
-(3) A dose to the skin or an organ or tissue other than the treatment site that exceeds by 0.5 Sv (50 rem) to an organ or tissue and 50 percent or more of the dose expected from the administration defined in the written directive (excluding, for permanent implants, seeds that were implanted in the correct site but migrated outside the treatment site).
+(iii) A dose to the skin or an organ or tissue other than the treatment site that exceeds by:
+
+(A) 0.5 Sv (50 rem) or more the expected dose to that site from the procedure if the administration had been given in accordance with the written directive prepared or revised before administration; and
+
+(B) 50 percent or more the expected dose to that site from the procedure if the administration had been given in accordance with the written directive prepared or revised before administration.
+
+(2) For permanent implant brachytherapy, the administration of byproduct material or radiation from byproduct material (excluding sources that were implanted in the correct site but migrated outside the treatment site) that results in -
+
+(i) The total source strength administered differing by 20 percent or more from the total source strength documented in the post-implantation portion of the written directive;
+
+(ii) The total source strength administered outside of the treatment site exceeding 20 percent of the total source strength documented in the post-implantation portion of the written directive; or
+
+(iii) An administration that includes any of the following:
+
+(A) The wrong radionuclide;
+
+(B) The wrong individual or human research subject;
+
+(C) Sealed source(s) implanted directly into a location discontiguous from the treatment site, as documented in the post-implantation portion of the written directive; or
+
+(D) A leaking sealed source resulting in a dose that exceeds 0.5 Sv (50 rem) to an organ or tissue.
 
 (b) A licensee shall report any event resulting from intervention of a patient or human research subject in which the administration of byproduct material or radiation from byproduct material results or will result in unintended permanent functional damage to an organ or a physiological system, as determined by a physician.
 
@@ -66,4 +86,4 @@ Link to an amendment published at 83 FR 33111, July 16, 2018.
 
 (2) Provide a copy of the annotated report to the referring physician, if other than the licensee, no later than 15 days after the discovery of the event.
 
-[67 FR 20370, Apr. 24, 2002, as amended at 68 FR 58805, Oct. 10, 2003; 76 FR 72085, Nov. 22, 2011]
+[67 FR 20370, Apr. 24, 2002, as amended at 68 FR 58805, Oct. 10, 2003; 76 FR 72085, Nov. 22, 2011; 83 FR 33111, July 16, 2018]

@@ -20,7 +20,7 @@
 
 (b) A person shall not receive, acquire, possess, use, or transfer byproduct material under the general license established by paragraph (a) of this section unless that person:
 
-(1) Has filed NRC Form 483, “Registration Certificate - In Vitro Testing with Byproduct Material Under General License,” with the Director, Office of Nuclear Material Safety and Safeguards , by an appropriate method listed in § 30.6(a) of this chapter, and has received from the Commission a validated copy of NRC Form 483 with a registration number assigned; or
+(1) Has filed NRC Form 483, “Registration Certificate—In Vitro Testing with Byproduct Material Under General License,” with the Director, Office of Nuclear Material Safety and Safeguards , by an appropriate method listed in § 30.6(a) of this chapter, and has received from the Commission a validated copy of NRC Form 483 with a registration number assigned; or
 
 (2) Has a license that authorizes the medical use of byproduct material that was issued under part 35 of this chapter.
 
@@ -48,8 +48,8 @@ This radioactive material may be received, acquired, possessed, and used only by
 
 (Name of Manufacturer)
 
-(e) The registrant possessing or using byproduct materials under the general license of paragraph (a) of this section shall report in writing to the Director, Office of Nuclear Material Safety and Safeguards , any changes in the information furnished by him in the ”Registration Certificate - In Vitro Testing With Byproduct Material Under General License.” Form NRC-483. The report shall be furnished within 30 days after the effective date of such change.
+(e) The registrant possessing or using byproduct materials under the general license of paragraph (a) of this section shall report in writing to the Director, Office of Nuclear Material Safety and Safeguards , any changes in the information furnished by him in the ”Registration Certificate—In Vitro Testing With Byproduct Material Under General License.” Form NRC-483. The report shall be furnished within 30 days after the effective date of such change.
 
 (f) Any person using byproduct material pursuant to the general license of paragraph (a) of this section is exempt from the requirements of parts 19, 20, and 21, of this chapter with respect to byproduct materials covered by that general license, except that such persons using the Mock Iodine-125 described in paragraph (a)(7) of this section shall comply with the provisions of §§ 20.2001, 20.2201, and 20.2202.
 
-[33 FR 16553, Nov. 14, 1968]Editorial Note:For Federal Register citations affecting § 31.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 16553, Nov. 14, 1968]Editorial Note:For Federal Register citations affecting § 31.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

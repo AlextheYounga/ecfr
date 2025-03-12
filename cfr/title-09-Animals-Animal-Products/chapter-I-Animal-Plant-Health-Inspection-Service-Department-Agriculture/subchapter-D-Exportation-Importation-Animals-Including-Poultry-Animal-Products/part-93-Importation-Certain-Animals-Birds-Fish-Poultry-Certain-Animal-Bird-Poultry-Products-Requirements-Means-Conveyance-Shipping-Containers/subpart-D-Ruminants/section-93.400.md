@@ -1,5 +1,7 @@
 ##### § 93.400 Definitions. #####
 
+Link to an amendment published at 85 FR 57951, Sept. 17, 2020.
+
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Accredited herd.* An accredited herd is one that has passed at least two consecutive annual official tuberculin tests and has no evidence of bovine tuberculosis. All animals in a herd must be free from tuberculosis.
@@ -162,4 +164,4 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Zoological park.* A professionally operated zoo, park, garden or other place, maintained under the constant surveillance of a Doctor of Veterinary Medicine, for the exhibition of live animals, pigeons or birds, for the purpose of public recreation or education.
 
-[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

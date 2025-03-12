@@ -34,19 +34,19 @@ As used in this part,
 
 (3) In all cases, *basic component* includes safety related design, analysis, inspection, testing, fabrication, replacement parts, or consulting services that are associated with the component hardware, whether these services are performed by the component supplier or other supplier.
 
-*Byproduct material* means -
+*Byproduct material* means—
 
 (1) Any radioactive material (except special nuclear material) yielded in, or made radioactive by, exposure to the radiation incident to the process of producing or using special nuclear material;
 
 (2)(i) Any discrete source of radium-226 that is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; or
 
-(ii) Any material that -
+(ii) Any material that—
 
 (A) Has been made radioactive by use of a particle accelerator; and
 
 (B) Is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
 
-(3) Any discrete source of naturally occurring radioactive material, other than source material, that -
+(3) Any discrete source of naturally occurring radioactive material, other than source material, that—
 
 (i) The Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
 
@@ -70,7 +70,7 @@ As used in this part,
 
 *Cost of service regulation* means the traditional system of rate regulation, or similar regulation, including “price cap” or “incentive” regulation, in which a rate regulatory authority generally allows an electric utility to charge its customers the reasonable and prudent costs of providing electricity services, including capital, operations, maintenance, fuel, decommissioning, and other costs required to provide such services.
 
-*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits -
+*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits—
 
 (1) Release of the property for unrestricted use and termination of the license; or
 
@@ -230,4 +230,4 @@ Note:
 
 Pursuant to subsections 11v. and 11cc., respectively, of the Act, the Commission may from time to time add to, or otherwise alter, the foregoing definitions of production and utilization facility. It may also include as a facility an important component part especially designed for a facility, but has not at this time included any component parts in the definitions.
 
-[21 FR 355, Jan. 19, 1956]Editorial Note:For Federal Register citations affecting § 50.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[21 FR 355, Jan. 19, 1956]Editorial Note:For Federal Register citations affecting § 50.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

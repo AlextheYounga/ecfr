@@ -6,7 +6,7 @@ For purposes of this part, the following terms mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
-*Animal and Plant Health Inspection Sevice.* The Animal and Plant Health Inspection Service of the United States Department of Agriculture (APHIS or Service).
+*Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service of the United States Department of Agriculture (APHIS or Service).
 
 *Approved differential pseudorabies test.* Any test for the diagnosis of pseudorabies that: (a) Can distinguish vaccinated swine from infected swine; (b) Is produced under license from the Secretary of Agriculture under the Virus-Serum-Toxin Act of March 4, 1913, and subsequent amendments (21 U.S.C. 151 *et seq.*) with indications for use in the Cooperative State-Federal Pseudorabies Eradication Program; and (c) Is conducted in a laboratory approved by the Administrator.1
 
@@ -46,11 +46,11 @@ For purposes of this part, the following terms mean:
 
 (b) A herd of swine which has been released from pseudorabies quarantine in accordance with the following provisions shall no longer be classified as a known infected herd if:
 
-(1) All swine positive to an official pseudorabies test have been removed from the premises; all swine which remain in the herd, except swine nursing from their mothers, are subjected to an official pseudorabies serologic test and found negative 30 days or more after removal of swine positive to an official pseudorabies test; and no livestock on the permises have shown clinical signs of pseudorabies after removal of the postive swine; or
+(1) All swine positive to an official pseudorabies test have been removed from the premises; all swine which remain in the herd, except swine nursing from their mothers, are subjected to an official pseudorabies serologic test and found negative 30 days or more after removal of swine positive to an official pseudorabies test; and no livestock on the premises have shown clinical signs of pseudorabies after removal of the positive swine; or
 
 (2) All swine have been depopulated for 30 days and the herd premises have been cleaned and disinfected in accordance with § 85.13; or
 
-(3) In a herd of swine in which swine are positive to an official pseudorabies serologic test but no swine are postive at titers greater than 1:8, all titered swine are subjected to another official pseudorabies serologic test and found negative; and all other swine in the herd which an epidemiologist, approved by the State animal health official and the Veterinarian in Charge, requires to be subjected to an official pseudorabies serologic test are tested and found negative.4
+(3) In a herd of swine in which swine are positive to an official pseudorabies serologic test but no swine are positive at titers greater than 1:8, all titered swine are subjected to another official pseudorabies serologic test and found negative; and all other swine in the herd which an epidemiologist, approved by the State animal health official and the Veterinarian in Charge, requires to be subjected to an official pseudorabies serologic test are tested and found negative.4
 
 4 The epidemiologist shall consider the following epidemiologic evidence to determine which swine in the herd, in addition to the titered swine, must be subjected to an official pseudorbies serologic test and found negative: (a) the percentage and number of titered swine in the herd; (b) the number of titered swine as compared to the number of swine tested; (c) the extent of the contact of members of the herd with the titered swine; (d) the prevalence of pseudorabies in the area; (e) the herd management practices; and (f) any other reliable epidemiologic evidence.
 
@@ -184,4 +184,4 @@ For purposes of this part, the following terms mean:
 
 *Veterinary Services representative.* A person employed by Veterinary Services, Animal and Plant Health Inspection Service, United States Department of Agriculture, who is authorized to perform the function involved.
 
-(Approved by the Office of Management and Budget under control number 0579-0069)[44 FR 10309, Feb. 16, 1979]Editorial Note:For Federal Register citations affecting § 85.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0069)[44 FR 10309, Feb. 16, 1979]Editorial Note:For Federal Register citations affecting § 85.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

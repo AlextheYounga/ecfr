@@ -1,16 +1,16 @@
 ##### § 35.396 Training for the parenteral administration of unsealed byproduct material requiring a written directive. #####
 
-Link to an amendment published at 83 FR 33108, July 16, 2018.
+(a) Except as provided in § 35.57, the licensee shall require an authorized user for the parenteral administration requiring a written directive, to be a physician who—
 
-Except as provided in § 35.57, the licensee shall require an authorized user for the parenteral administration requiring a written directive, to be a physician who -
+(1) Is an authorized user under § 35.390 for uses listed in § 35.390(b)(1)(ii)(G)(3), or equivalent Agreement State requirements; or
 
-(a) Is an authorized user under § 35.390 for uses listed in §§ 35.390(b)(1)(ii)(G)(*3*) or 35.390(b)(1)(ii)(G)(*4*), or equivalent Agreement State requirements; or
+(2) Is an authorized user under § 35.490, § 35.690, or equivalent Agreement State requirements, and who meets the requirements in paragraph (b) of this section; or
 
-(b) Is an authorized user under §§ 35.490, 35.690, or equivalent Agreement State requirements and who meets the requirements in paragraph (d) of this section; or
+(3) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State under § 35.490 or § 35.690, and who meets the requirements in paragraph (b) of this section.
 
-(c) Is certified by a medical specialty board whose certification process has been recognized by the Commission or an Agreement State under §§ 35.490 or 35.690, and who meets the requirements in paragraph (d) of this section.
+(b) The physician—
 
-(d)(1) Has successfully completed 80 hours of classroom and laboratory training, applicable to parenteral administrations, for which a written directive is required, of any beta emitter, or any photon-emitting radionuclide with a photon energy less than 150 keV, and/or parenteral administration of any other radionuclide for which a written directive is required. The training must include -
+(1) Has successfully completed 80 hours of classroom and laboratory training, applicable to parenteral administrations listed in § 35.390(b)(1)(ii)(G)(*3*). The training must include—
 
 (i) Radiation physics and instrumentation;
 
@@ -22,7 +22,7 @@ Except as provided in § 35.57, the licensee shall require an authorized user fo
 
 (v) Radiation biology; and
 
-(2) Has work experience, under the supervision of an authorized user who meets the requirements in §§ 35.57, 35.390, 35.396, or equivalent Agreement State requirements, in the parenteral administration, for which a written directive is required, of any beta emitter, or any photon-emitting radionuclide with a photon energy less than 150 keV, and/or parenteral administration of any other radionuclide for which a written directive is required. A supervising authorized user who meets the requirements in § 35.390 must have experience in administering dosages as specified in §§ 35.390(b)(1)(ii)(G)(3) and/or 35.390(b)(1)(ii)(G)(4). The work experience must involve -
+(2) Has work experience, under the supervision of an authorized user who meets the requirements in § 35.57, § 35.390, § 35.396, or equivalent Agreement State requirements, in the parenteral administrations listed in § 35.390(b)(1)(ii)(G)(*3*). A supervising authorized user who meets the requirements in § 35.390, § 35.396, or equivalent Agreement State requirements, must have experience in administering dosages in the same category or categories as the individual requesting authorized user status. The work experience must involve—
 
 (i) Ordering, receiving, and unpacking radioactive materials safely, and performing the related radiation surveys;
 
@@ -34,8 +34,12 @@ Except as provided in § 35.57, the licensee shall require an authorized user fo
 
 (v) Using procedures to contain spilled byproduct material safely, and using proper decontamination procedures; and
 
-(vi) Administering dosages to patients or human research subjects, that include at least 3 cases involving the parenteral administration, for which a written directive is required, of any beta emitter, or any photon-emitting radionuclide with a photon energy less than 150 keV and/or at least 3 cases involving the parenteral administration of any other radionuclide, for which a written directive is required; and
+(vi) Administering dosages to patients or human research subjects, that include at least three cases of the parenteral administrations as specified in § 35.390(b)(1)(ii)(G)(*3*); and
 
-(3) Has obtained written attestation that the individual has satisfactorily completed the requirements in paragraph (b) or (c) of this section, and has achieved a level of competency sufficient to function independently as an authorized user for the parenteral administration of unsealed byproduct material requiring a written directive. The written attestation must be signed by a preceptor authorized user who meets the requirements in §§ 35.57, 35.390, 35.396, or equivalent Agreement State requirements. A preceptor authorized user, who meets the requirements in § 35.390, must have experience in administering dosages as specified in §§ 35.390(b)(1)(ii)(G)(3) and/or 35.390(b)(1)(ii)(G)(*4*).
+(3) Has obtained written attestation that the individual has satisfactorily completed the requirements in paragraphs (b)(1) and (2) of this section, and is able to independently fulfill the radiation safety-related duties as an authorized user for the parenteral administration of unsealed byproduct material requiring a written directive. The attestation must be obtained from either:
 
-[70 FR 16365, Mar. 30, 2005, as amended at 71 FR 15010, Mar. 27, 2006; 74 FR 33906, July 14, 2009]
+(i) A preceptor authorized user who meets the requirements in § 35.57, § 35.390, § 35.396, or equivalent Agreement State requirements. A preceptor authorized user who meets the requirements in § 35.390, § 35.396, or equivalent Agreement State requirements, must have experience in administering dosages in the same category or categories as the individual requesting authorized user status; or
+
+(ii) A residency program director who affirms in writing that the attestation represents the consensus of the residency program faculty where at least one faculty member is an authorized user who meets the requirements in § 35.57, § 35.390, § 35.396, or equivalent Agreement State requirements, has experience in administering dosages in the same dosage category or categories as the individual requesting authorized user status, and concurs with the attestation provided by the residency program director. The residency training program must be approved by the Residency Review Committee of the Accreditation Council for Graduate Medical Education or the Royal College of Physicians and Surgeons of Canada or the Council on Postdoctoral Training of the American Osteopathic Association and must include training and experience specified in paragraphs (b)(1) and (2) of this section.
+
+[83 FR 33108, July 16, 2018]

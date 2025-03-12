@@ -20,4 +20,4 @@
 
 (4) The meat or other animal product has been processed, stored, and transported to the means of conveyance that will bring the article to the United States in a manner to preclude its being commingled or otherwise in contact with meat or other animal products that do not comply with the conditions contained in this certificate.
 
-(Approved by the Office of Management and Budget under control number 0579-0015)[38 FR 2752, Jan. 30, 1973]Editorial Note:For Federal Register citations affecting § 94.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0015)[38 FR 2752, Jan. 30, 1973]Editorial Note:For Federal Register citations affecting § 94.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

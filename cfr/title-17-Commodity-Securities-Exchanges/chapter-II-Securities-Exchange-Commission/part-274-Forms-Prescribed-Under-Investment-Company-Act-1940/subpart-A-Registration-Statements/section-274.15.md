@@ -6,4 +6,4 @@ The text of the form is set forth in the appendix to this release.1
 
 1 A copy of Form N-6F accompanied this release as originally filed in the Office of the Federal Register.
 
-[47 FR 10520, Mar. 11, 1982]Editorial Note:For Federal Register citations affecting Form N-6F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 10520, Mar. 11, 1982]Editorial Note:For Federal Register citations affecting Form N-6F, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -36,4 +36,4 @@
 
 (B) Otherwise, the regional licensing program involves all Federal facilities in the region and non-Federal licensees in the following Region IV non-Agreement States and territory: Alaska, Hawaii, Idaho, Montana, South Dakota, Wyoming, and Guam. All mailed or hand-delivered inquiries, communications, and applications for a new license or an amendment or renewal of an existing license specified in paragraph (b)(1) of this section must use the following address: U.S. Nuclear Regulatory Commission, Region IV, Division of Nuclear Materials Safety, 1600 E. Lamar Blvd., Arlington, TX 76011-4511; where email is appropriate, it should be addressed to *RidsRgn4MailCenter@nrc.gov.*
 
-[48 FR 16031, Apr. 14, 1983]Editorial Note:For Federal Register citations affecting § 40.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 16031, Apr. 14, 1983]Editorial Note:For Federal Register citations affecting § 40.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

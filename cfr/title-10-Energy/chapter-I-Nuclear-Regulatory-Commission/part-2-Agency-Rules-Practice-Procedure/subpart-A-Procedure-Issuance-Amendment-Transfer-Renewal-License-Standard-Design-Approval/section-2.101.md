@@ -108,4 +108,4 @@
 
 (5) The Director, Office of Nuclear Material Safety and Safeguards as appropriate, will cause to be published in the Federal Register a notice of docketing which identifies the State and location of the proposed waste disposal facility and will give notice of docketing to the governor of that State and other officials listed in paragraph (f)(3) of this section and will, in a reasonable period thereafter, publish in the Federal Register a notice under § 2.105 offering an opportunity to request a hearing to the applicant and other potentially affected persons.
 
-[41 FR 15833, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 15833, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

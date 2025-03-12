@@ -272,4 +272,4 @@
 
 (i) A description and plans for implementation of the guidance and strategies intended to maintain or restore core cooling, containment, and spent fuel pool cooling capabilities under the circumstances associated with the loss of large areas of the plant due to explosions or fire as required by § 50.54(hh)(2) of this chapter.
 
-[33 FR 18612, Dec. 17, 1968, as amended at 81 FR 86909, Dec. 2, 2016]Editorial Note:For Federal Register citations affecting § 50.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 18612, Dec. 17, 1968, as amended at 81 FR 86909, Dec. 2, 2016]Editorial Note:For Federal Register citations affecting § 50.34, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

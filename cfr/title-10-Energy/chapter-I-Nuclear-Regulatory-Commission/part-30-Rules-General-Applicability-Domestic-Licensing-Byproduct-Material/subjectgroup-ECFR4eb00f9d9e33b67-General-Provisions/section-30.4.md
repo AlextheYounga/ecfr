@@ -8,19 +8,19 @@
 
 *Alert* means events may occur, are in progress, or have occurred that could lead to a release of radioactive material but that the release is not expected to require a response by offsite response organizations to protect persons offsite.
 
-*Byproduct material* means -
+*Byproduct material* means—
 
 (1) Any radioactive material (except special nuclear material) yielded in, or made radioactive by, exposure to the radiation incident to the process of producing or using special nuclear material;
 
 (2)(i) Any discrete source of radium-226 that is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; or
 
-(ii) Any material that -
+(ii) Any material that—
 
 (A) Has been made radioactive by use of a particle accelerator; and
 
 (B) Is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
 
-(3) Any discrete source of naturally occurring radioactive material, other than source material, that -
+(3) Any discrete source of naturally occurring radioactive material, other than source material, that—
 
 (i) The Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
 
@@ -64,7 +64,7 @@
 
 *Cyclotron* means a particle accelerator in which the charged particles travel in an outward spiral or circular path. A cyclotron accelerates charged particles at energies usually in excess of 10 megaelectron volts and is commonly used for production of short half-life radionuclides for medical use.
 
-*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits -
+*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits—
 
 (1) Release of the property for unrestricted use and termination of the license; or
 
@@ -114,4 +114,4 @@
 
 *Utilization facility* means a utilization facility as defined in the regulations contained in part 50 of this chapter;
 
-[30 FR 8185, June 26, 1965]Editorial Note:For Federal Register citations affecting § 30.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[30 FR 8185, June 26, 1965]Editorial Note:For Federal Register citations affecting § 30.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

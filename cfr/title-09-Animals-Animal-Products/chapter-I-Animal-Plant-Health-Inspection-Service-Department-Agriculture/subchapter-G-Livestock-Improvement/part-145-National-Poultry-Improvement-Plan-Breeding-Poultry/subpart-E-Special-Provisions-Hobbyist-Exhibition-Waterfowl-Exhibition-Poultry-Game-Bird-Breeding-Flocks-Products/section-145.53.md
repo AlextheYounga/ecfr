@@ -90,4 +90,4 @@ Participating flocks, and the eggs and baby poultry produced from them, which ha
 
 (3) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971. Redesignated at 44 FR 61586, Oct. 26, 1979]Editorial Note:For Federal Register citations affecting § 145.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

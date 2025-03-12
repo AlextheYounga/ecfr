@@ -238,4 +238,4 @@ DateImporterDateAdministrator, Animal and Plant Health Inspection Service, Unite
 
 (e) Requirements of other Federal laws and regulations, such as the Department's Animal Welfare Regulations in subchapter A of this chapter shall also apply as applicable to the quarantine facilities.
 
-[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[55 FR 31495, Aug. 2, 1990. Redesignated at 62 FR 56012, Oct. 28, 1997]Editorial Note:For Federal Register citations affecting § 93.106, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -18,4 +18,4 @@
 
 (3) The pork has been processed, stored, and transported to the means of conveyance that will bring the article to the United States in a manner that precludes its being commingled or otherwise coming in contact with pork or pork products that have not been handled in accordance with the requirements of this section.
 
-(Approved by the Office of Management and Budget under control number 0579-0015)[38 FR 20611, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0579-0015)[38 FR 20611, Aug. 2, 1973]Editorial Note:For Federal Register citations affecting § 94.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

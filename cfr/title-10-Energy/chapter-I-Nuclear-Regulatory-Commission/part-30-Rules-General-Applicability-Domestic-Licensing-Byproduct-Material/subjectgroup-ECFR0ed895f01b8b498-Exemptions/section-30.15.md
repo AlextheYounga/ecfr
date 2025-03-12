@@ -72,4 +72,4 @@
 
 (b) Any person who desires to apply byproduct material to, or to incorporate byproduct material into, the products exempted in paragraph (a) of this section, or who desires to initially transfer for sale or distribution such products containing byproduct material, should apply for a specific license pursuant to § 32.14 of this chapter, which license states that the product may be distributed by the licensee to persons exempt from the regulations pursuant to paragraph (a) of this section.
 
-[31 FR 5316, Apr. 2, 1966]Editorial Note:For Federal Register citations affecting § 30.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[31 FR 5316, Apr. 2, 1966]Editorial Note:For Federal Register citations affecting § 30.15, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

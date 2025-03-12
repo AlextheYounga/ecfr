@@ -112,4 +112,4 @@ The plan must identify all premises that are part of the swine production system
 
 *United States Department of Agriculture (USDA) approved backtag.* A backtag issued by APHIS that provides a temporary unique identification for each animal.
 
-[28 FR 5937, June 13, 1963]Editorial Note:For Federal Register citations affecting § 71.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[28 FR 5937, June 13, 1963]Editorial Note:For Federal Register citations affecting § 71.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -64,4 +64,4 @@
 
 (2) If a request for a hearing or a petition for leave to intervene is filed within the time prescribed in the notice, the presiding officer who shall be an Atomic Safety and Licensing Board established by the Commission or by the Chief Administrative Judge of the Atomic Safety and Licensing Board Panel, will rule on the request and/or petition, and the Secretary or the presiding officer will issue a notice of hearing or an appropriate order.
 
-[27 FR 377, Jan. 13, 1962]Editorial Note:For Federal Register citations affecting § 2.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[27 FR 377, Jan. 13, 1962]Editorial Note:For Federal Register citations affecting § 2.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

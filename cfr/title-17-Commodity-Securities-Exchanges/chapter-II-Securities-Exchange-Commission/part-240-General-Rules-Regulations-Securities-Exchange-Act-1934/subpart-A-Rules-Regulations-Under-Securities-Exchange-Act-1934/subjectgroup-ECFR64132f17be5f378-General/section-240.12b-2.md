@@ -192,4 +192,4 @@ Instruction 1 to definition of “smaller reporting company”: A registrant tha
 
 *Wholly-owned subsidiary.* The term “wholly-owned subsidiary” means a subsidiary substantially all of whose outstanding voting securities are owned by its parent and/or the parent's other wholly-owned subsidiaries.
 
-[13 FR 9321, Dec. 31, 1948]Editorial Note:For Federal Register citations affecting § 240.12b-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[13 FR 9321, Dec. 31, 1948]Editorial Note:For Federal Register citations affecting § 240.12b-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

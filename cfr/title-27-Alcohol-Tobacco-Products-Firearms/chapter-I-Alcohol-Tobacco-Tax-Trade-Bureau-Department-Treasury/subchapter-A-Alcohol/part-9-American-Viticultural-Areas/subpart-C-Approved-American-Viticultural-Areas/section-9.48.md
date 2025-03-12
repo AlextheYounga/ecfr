@@ -1,7 +1,5 @@
 ##### § 9.48 Monticello. #####
 
-Link to an amendment published at 83 FR 64274, Dec. 14, 2018.
-
 (a) *Name.* The name of the viticultural area described in this section is “Monticello.”
 
 (b) *Approved maps.* Approved maps for the Monticello viticultural area are three 1971 U.S.G.S. maps titled:
@@ -42,8 +40,12 @@ Link to an amendment published at 83 FR 64274, Dec. 14, 2018.
 
 (15) Then southwest along Rt. 231 to its intersection with the Albemarle County line.
 
-(16) Continuing southwest along the county line to its intersection with the James River;
+(16) Then continuing southwest along the county line to its intersection with the Rivanna River;
 
-(17) Then following the James River to its confluence with the Tye River at Norwood, Virginia, the beginning point.
+(17) Then southeast along the Rivanna River to its confluence with the James River, near the Fluvanna-Goochland County line;
 
-[T.D. ATF-164, 49 FR 2758, Jan. 23, 1984, as amended by T.D. ATF-249, 52 FR 5957, Feb. 27, 1987; T.D. ATF-255, 52 FR 23652, June 24, 1987]
+(18) Then southwest, then northwest along the James River to its intersection with the Albemarle County line;
+
+(19) Then following the James River to its confluence with the Tye River at Norwood, Virginia, the beginning point.
+
+[T.D. ATF-164, 49 FR 2758, Jan. 23, 1984, as amended by T.D. ATF-249, 52 FR 5957, Feb. 27, 1987; T.D. ATF-255, 52 FR 23652, June 24, 1987; T.D. TTB-154, 83 FR 64274, Dec. 14, 2018]

@@ -1,3 +1,3 @@
 ##### § 274.220 Form N-17f-2, cover page for each certificate of accounting of securities and similar investments in the custody of a registered management investment company, filed pursuant to rule 17f-2. #####
 
-[54 FR 32049, Aug. 4, 1989]Editorial Note:For Federal Register citations affecting Form N-17f-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 32049, Aug. 4, 1989]Editorial Note:For Federal Register citations affecting Form N-17f-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

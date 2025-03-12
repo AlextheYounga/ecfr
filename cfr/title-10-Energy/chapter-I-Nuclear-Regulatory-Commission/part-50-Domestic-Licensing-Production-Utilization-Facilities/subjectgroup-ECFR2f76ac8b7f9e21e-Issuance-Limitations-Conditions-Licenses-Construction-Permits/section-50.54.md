@@ -276,4 +276,4 @@ A national security emergency is established by a law enacted by the Congress or
 
 (jj) Structures, systems, and components subject to the codes and standards in 10 CFR 50.55a must be designed, fabricated, erected, constructed, tested, and inspected to quality standards commensurate with the importance of the safety function to be performed.
 
-[21 FR 355, Jan. 19, 1956]Editorial Note:For Federal Register citations affecting § 50.54, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[21 FR 355, Jan. 19, 1956]Editorial Note:For Federal Register citations affecting § 50.54, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

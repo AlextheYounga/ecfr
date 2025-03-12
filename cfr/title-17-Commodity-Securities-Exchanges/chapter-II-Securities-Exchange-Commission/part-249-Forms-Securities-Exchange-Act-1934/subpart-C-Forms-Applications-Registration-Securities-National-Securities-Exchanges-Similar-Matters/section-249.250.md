@@ -12,4 +12,4 @@ Form F-X shall be filed with the Commission:
 
 (e) By any non-U.S. person acting as trustee with respect to securities registered on Form F-7, F-8, F-9, F-10 or F-80.
 
-[56 FR 30076, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-X, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[56 FR 30076, July 1, 1991]Editorial Note:For Federal Register citations affecting Form F-X, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
