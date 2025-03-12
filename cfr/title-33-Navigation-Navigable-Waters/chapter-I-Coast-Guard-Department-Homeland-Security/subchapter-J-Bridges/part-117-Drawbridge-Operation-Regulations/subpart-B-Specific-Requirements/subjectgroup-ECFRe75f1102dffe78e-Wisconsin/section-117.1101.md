@@ -1,5 +1,7 @@
 ##### § 117.1101 Sturgeon Bay. #####
 
+Link to an amendment published at 82 FR 11151, Feb. 21, 2017.
+
 (a) The Bayview (State Route 42/57) Bridge, mile 3.0 at Sturgeon Bay, shall open on signal, except from December 1 through March 14, the draw shall open on signal if notice is given at least 12 hours in advance of intended passage.
 
 (b) The draw of the Maple-Oregon Bridge, mile 4.17 at Sturgeon Bay, shall open on signal, except as follows:

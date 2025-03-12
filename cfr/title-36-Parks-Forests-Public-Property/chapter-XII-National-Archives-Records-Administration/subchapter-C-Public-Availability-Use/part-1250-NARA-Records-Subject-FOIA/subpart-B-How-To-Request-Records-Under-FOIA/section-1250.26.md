@@ -1,7 +1,5 @@
 ##### § 1250.26 How does NARA process my FOIA request? #####
 
-Link to an amendment published at 82 FR 8902, February 1, 2017.
-
 (a) *Acknowledgement.* NARA acknowledges all FOIA requests in writing within 20 working days after receipt by the appropriate office (see 36 CFR 1250.22). The acknowledgement letter or email informs you of your request tracking number, and any complexity in processing that may lengthen the time NARA requires to reach a final decision on the release of the records. The acknowledgement letter or email may also seek additional information to clarify your request or to ask you to narrow the scope of a very large or broad request.
 
 (b) *Clarification of requests.* Requests must reasonably describe the records sought. If we determine that a request does not reasonably describe the records sought, or if we are uncertain about another aspect of the request, we contact you to ask for clarification.
@@ -24,8 +22,10 @@ Link to an amendment published at 82 FR 8902, February 1, 2017.
 
 (4) Refer records to another Federal agency for declassification.
 
-(h) *Complex processing schedule.* If NARA needs to extend the deadline for more than an additional 10 working days due to the complexity of a request or as a result of unusual circumstances, we ask if you wish to modify your request so that we can answer the request sooner. If you do not wish to modify your request, we work with you to arrange an alternative schedule for review and release.
+(h) *Complex processing schedule.* If NARA needs to extend the deadline for more than an additional 10 working days due to the complexity of a request or as a result of unusual circumstances, we ask if you wish to modify your request so that we can answer the request sooner. If you do not wish to modify your request, we work with you to arrange an alternative schedule for review and release. We will also notify you that the Office of Government Information Services (OGIS) is available to provide dispute resolution services, and how to contact them.
 
 (i) *Complex processing: National security declassification and release.* NARA does not have the authority to declassify and release records containing national security information without the approval of the agencies that have Original Classification Authority for the information contained in the records. We send copies of the documents to the appropriate originating Federal agencies for declassification review. We also send you an initial response to your FOIA request within 20 working days, informing you of this consultation with, or referral to, another Federal agency, except to the extent that the association with the other agency may itself be classified. Upon your request, we provide you an estimated date of completion.
 
 (j) *Complex processing: Presidential or Vice Presidential records.* If you request Presidential or Vice Presidential records and we determine that the records are not subject to any applicable FOIA or Presidential Records Act (PRA) exemption (and can therefore be released), we must notify the current and former President(s) or Vice President(s) of our intention to disclose information from those records. After receiving the notice, the current and former President(s) and Vice President(s) have a period of time (as set out in the applicable Executive order on implementation of the PRA) in which to choose whether to invoke Executive Privilege to deny access to the requested information. Although we send you an initial status response to your FOIA request within 20 working days in these cases, the final response to your FOIA request will take longer. We can provide the final response only at the end of the Presidential notification period set forth in the Executive order.
+
+[79 FR 56504, Sept. 22, 2014, as amended at 82 FR 8902, Feb. 1, 2017]

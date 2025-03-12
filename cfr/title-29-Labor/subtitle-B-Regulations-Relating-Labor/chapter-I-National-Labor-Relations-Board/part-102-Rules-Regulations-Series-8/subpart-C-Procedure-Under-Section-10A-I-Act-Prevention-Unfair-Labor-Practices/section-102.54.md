@@ -1,0 +1,7 @@
+##### § 102.54 Issuance of compliance specification; consolidation of complaint and compliance specification. #####
+
+(a) If it appears that controversy exists with respect to compliance with a Board order which cannot be resolved without a formal proceeding, the Regional Director may issue and serve on all parties a compliance specification in the name of the Board. The specification will contain or be accompanied by a Notice of Hearing before an Administrative Law Judge at a specific place and at a time not less than 21 days after the service of the specification.
+
+(b) Whenever the Regional Director deems it necessary to effectuate the purposes and policies of the Act or to avoid unnecessary costs or delay, the Regional Director may issue a compliance specification, with or without a notice of hearing, based on an outstanding complaint.
+
+(c) Whenever the Regional Director deems it necessary to effectuate the purposes and policies of the Act or to avoid unnecessary costs or delay, the Regional Director may consolidate with a complaint and Notice of Hearing issued pursuant to § 102.15 a compliance specification based on that complaint. After opening of the hearing, the Board or the Administrative Law Judge, as appropriate, must approve consolidation. Issuance of a compliance specification is not a prerequisite or bar to Board initiation of proceedings in any administrative or judicial forum which the Board or the Regional Director determines to be appropriate for obtaining compliance with a Board order.

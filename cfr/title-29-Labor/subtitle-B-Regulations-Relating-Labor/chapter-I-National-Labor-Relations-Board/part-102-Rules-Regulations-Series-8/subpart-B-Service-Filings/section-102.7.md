@@ -1,0 +1,3 @@
+##### § 102.7 Signature on documents E-Filed with the Agency. #####
+
+Documents filed with the Agency by E-Filing may contain an electronic signature of the filer which will have the same legal effect, validity, and enforceability as if signed manually. The term “electronic signature” means an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the document.

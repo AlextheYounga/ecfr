@@ -1,0 +1,3 @@
+##### § 102.89 Initiation of proceedings. #####
+
+Whenever it is charged that any person has engaged in an unfair labor practice within the meaning of Section 8(b)(4)(D) of the Act, the Regional Director of the office in which such charge is filed or to which it is referred will, as soon as possible after the charge has been filed, serve on the parties a copy of the charge and will investigate such charge and if it is deemed appropriate to seek injunctive relief of a district court pursuant to Section 10(l) of the Act, the Regional Director will give it priority over all other cases in the office except other cases under Section 10(l) and cases of like character.

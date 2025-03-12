@@ -1,5 +1,5 @@
 ##### § 1194.1 Purpose. #####
 
-Link to an amendment published at 82 FR 5832, January 18, 2017.
+Link to an amendment published at 82 FR 5832, Jan. 18, 2017.Link to an extension of the above amendment published at 82 FR 12295, March 2, 2017.
 
 The purpose of this part is to implement section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d). Section 508 requires that when Federal agencies develop, procure, maintain, or use electronic and information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who are not individuals with disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.

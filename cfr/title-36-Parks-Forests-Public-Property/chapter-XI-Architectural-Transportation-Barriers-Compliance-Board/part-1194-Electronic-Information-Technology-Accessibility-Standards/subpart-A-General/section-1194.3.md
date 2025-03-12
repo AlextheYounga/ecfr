@@ -1,6 +1,6 @@
 ##### § 1194.3 General exceptions. #####
 
-Link to an amendment published at 82 FR 5832, January 18, 2017.
+Link to an amendment published at 82 FR 5832, Jan. 18, 2017.Link to an extension of the above amendment published at 82 FR 12295, March 2, 2017.
 
 (a) This part does not apply to any electronic and information technology operated by agencies, the function, operation, or use of which involves intelligence activities, cryptologic activities related to national security, command and control of military forces, equipment that is an integral part of a weapon or weapons system, or systems which are critical to the direct fulfillment of military or intelligence missions. Systems which are critical to the direct fulfillment of military or intelligence missions do not include a system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 

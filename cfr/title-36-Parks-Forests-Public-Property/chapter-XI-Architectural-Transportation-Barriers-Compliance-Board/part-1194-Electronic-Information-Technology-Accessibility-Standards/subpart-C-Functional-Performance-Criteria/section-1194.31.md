@@ -1,6 +1,6 @@
 ##### § 1194.31 Functional performance criteria. #####
 
-Link to an amendment published at 82 FR 5832, January 18, 2017.
+Link to an amendment published at 82 FR 5832, Jan. 18, 2017.Link to an extension of the above amendment published at 82 FR 12295, March 2, 2017.
 
 (a) At least one mode of operation and information retrieval that does not require user vision shall be provided, or support for assistive technology used by people who are blind or visually impaired shall be provided.
 

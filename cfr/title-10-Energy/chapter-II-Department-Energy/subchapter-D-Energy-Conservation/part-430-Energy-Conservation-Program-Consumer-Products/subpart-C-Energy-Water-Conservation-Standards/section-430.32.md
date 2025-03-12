@@ -1,6 +1,6 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 81 FR 75262, Oct. 28, 2016.Link to an amendment published at 82 FR 1857, Jan. 6, 2017.Link to an amendment published at 82 FR 6886, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 8806, Jan. 31, 2017.
+Link to an amendment published at 82 FR 1857, Jan. 6, 2017.Link to an amendment published at 82 FR 6886, Jan. 19, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8806, Jan. 31, 2017.
 
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
@@ -848,5 +848,33 @@ Table 1 - Energy Conservation Standards for Covered Residential Furnace Fans\*
 \*\* Ebatt = Rated battery energy as determined in 10 CFR part 429.39(a).
 
 (2) A battery charger shall not be subject to the standards in paragraph (z)(1) of this section if it is a device that requires Federal Food and Drug Administration (FDA) listing and approval as a life-sustaining or life-supporting device in accordance with section 513 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360(c)).
+
+(aa) *Miscellaneous refrigeration products.* The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
+
+(1) Coolers manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
+
+|     Product class     | AEU (kWh/yr) |
+|-----------------------|--------------|
+|  1. Built-in compact  |7.88AV + 155.8|
+|      2. Built-in      |              |
+|3. Freestanding compact|              |
+|    4. Freestanding    |              |
+
+AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.
+
+(2) Combination cooler refrigeration products manufactured starting on October 28, 2019 shall have Annual Energy Use (AEU) no more than:
+
+|                                          Product class                                          | AEU (kWh/yr) |
+|-------------------------------------------------------------------------------------------------|--------------|
+|                     C-3A. Cooler with all-refrigerator - automatic defrost                      |4.57AV + 130.4|
+|               C-3A-BI. Built-in cooler with all-refrigerator - automatic defrost                |5.19AV + 147.8|
+|     C-9. Cooler with upright freezers with automatic defrost without an automatic icemaker      |5.58AV + 147.7|
+|C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker|6.38AV + 168.8|
+|       C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker       |5.58AV + 231.7|
+| C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker |6.38AV + 252.8|
+|                 C-13A. Compact cooler with all-refrigerator - automatic defrost                 |5.93AV + 193.7|
+|           C-13A-BI. Built-in compact cooler with all-refrigerator - automatic defrost           |6.52AV + 213.1|
+
+AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.
 
 [54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

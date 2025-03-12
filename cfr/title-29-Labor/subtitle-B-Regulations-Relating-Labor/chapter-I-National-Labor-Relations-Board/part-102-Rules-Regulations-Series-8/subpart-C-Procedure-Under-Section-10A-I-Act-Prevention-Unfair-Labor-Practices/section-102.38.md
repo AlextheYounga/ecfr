@@ -1,0 +1,3 @@
+##### § 102.38 Rights of parties. #####
+
+Any party has the right to appear at the hearing in person, by counsel, or by other representative, to call, examine, and cross-examine witnesses, and to introduce into the record documentary or other evidence, except that the Administrative Law Judge may limit the participation of any party as appropriate. Documentary evidence must be submitted in duplicate for the record with a copy to each party.

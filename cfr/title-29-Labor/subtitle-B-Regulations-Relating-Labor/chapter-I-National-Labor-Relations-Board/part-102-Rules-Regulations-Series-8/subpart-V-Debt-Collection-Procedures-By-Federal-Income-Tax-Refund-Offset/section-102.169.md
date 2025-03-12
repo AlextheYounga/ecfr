@@ -11,3 +11,5 @@
 (e) *Taxpayer mailing address* refers to the debtor's current mailing address as obtained from IRS.
 
 (f) *Memorandum of understanding* refers to the agreement between the Agency and IRS outlining the duties and responsibilities of the respective parties for participation in the tax refund offset program.
+
+[62 FR 55166, Oct. 23, 1997, as amended at 82 FR 11785, Feb. 24, 2017]

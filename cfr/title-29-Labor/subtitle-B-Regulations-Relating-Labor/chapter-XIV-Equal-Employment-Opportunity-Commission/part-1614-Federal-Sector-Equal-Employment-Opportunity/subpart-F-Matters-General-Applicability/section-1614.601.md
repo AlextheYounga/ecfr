@@ -1,6 +1,6 @@
 ##### § 1614.601 EEO group statistics. #####
 
-Link to an amendment published at 82 FR 681, Jan. 3, 2017.
+Link to an amendment published at 82 FR 681, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 (a) Each agency shall establish a system to collect and maintain accurate employment information on the race, national origin, sex and disability of its employees.
 

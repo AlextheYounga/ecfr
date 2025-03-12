@@ -1,5 +1,7 @@
 ##### § 401.44 Mooring in locks. #####
 
+Link to an amendment published at 82 FR 12420, Mar. 3, 2017.
+
 (a) Mooring lines shall only be placed on mooring posts as directed by the officer in charge of the mooring operation.
 
 (b) No winch from which a mooring line runs shall be operated until the officer in charge of a mooring operation has signaled that the line has been placed on a mooring post.

@@ -1,5 +1,19 @@
-##### § 1208.7 Compliance with subpoenas. #####
+##### § 1208.7 Subpoenas and other requests for testimony and production of documents in legal proceedings where the NMB is not a party. #####
 
-(a) No person connected in any official way with the NMB shall produce or present any confidential records of the Board or testify on behalf of any party to any cause pending in any court, or before any board, commission, committee, tribunal, investigatory body, or administrative agency of the U.S. Government, or any State or Territory of the United States, or the District of Columbia, or any municipality with respect to matters coming to his knowledge in his official capacity or with respect to any information contained in confidential documents of the NMB, whether in answer to any order, subpoena, subpoena duces tecum, or otherwise without the express written consent of the Board.
+(a) In legal proceedings between private litigants, a subpoena or other demand for the production of records held by the Agency or for oral or written testimony of a current or former NMB employee should be addressed to the General Counsel, National Mediation Board, 1301 K Street NW., Suite 250E, Washington, DC 20005. No other official or employee of the NMB is authorized to accept service of a demand or subpoena on behalf of the Agency.
 
-(b) Whenever any subpoena or subpoena duces tecum calling for confidential documents, or the information contained therein, or testimony as described above shall have been served on any such person, he will appear in answer thereto, and unless otherwise expressly permitted by the Board, respectfully decline, by reason of this section, to produce or present such confidential documents or to give such testimony.
+(b) No current or former employee may produce official records or information or provide testimony in response to a demand or subpoena unless authorized by the General Counsel.
+
+(c) The General Counsel may grant an employee permission to testify or produce official records or information in response to a demand or subpoena. In making this determination, the General Counsel shall consider whether:
+
+(1) Release of the requested records or testimony is prohibited under § 1208.5;
+
+(2) The disclosure is appropriate under the rules of procedure governing the case or matter;
+
+(3) The requested testimony or records are privileged under the relevant substantive law concerning privilege;
+
+(4) Disclosure would violate a statute or regulation;
+
+(5) Disclosure would reveal trade secrets without the owner's consent; and
+
+(6) Allowing testimony or production of records would be in the best interest of the NMB or the United States.

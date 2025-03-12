@@ -1,3 +1,9 @@
-##### § 1208.1 Purpose. #####
+##### § 1208.1 General provisions. #####
 
-The purpose of this part is to set forth the basic policies of the National Mediation Board and the National Railroad Adjustment Board in regard to the availability and disclosure of information in the possession of the NMB and the NRAB.
+(a) The purpose of this part is to set forth the regulations of the NMB regarding the availability and disclosure of information in its possession and to implement the Freedom of Information Act (FOIA). These regulations establish procedures for requesting access to records maintained by the NMB and should be read together with the FOIA, the 1987 Office of Management and Budget Guidelines for FOIA Fees, Executive Order 12,600, and the NMB's other rules and regulations.
+
+(b) Public policy and the successful effectuation of the NMB's mission require that Board members and the employees of the NMB maintain a reputation for impartiality and integrity. Labor and management and other interested parties participating in mediation efforts must have assurance, as must labor organizations, carriers, and individuals involved in questions of representation, that confidential information disclosed to Board members and employees of the NMB will not be divulged, voluntarily or by compulsion.
+
+(c) Notwithstanding this general policy, the Board will under all circumstances endeavor to make public as much information as can be allowed. The Board will withhold information under the FOIA only if it reasonably foresees that disclosure would harm an interest protected by one of the exemptions described in the FOIA or when disclosure is prohibited by law. When full disclosure is not possible, the NMB will consider whether partial disclosure of information is possible and will take necessary steps to segregate and release nonexempt information.
+
+(d) The NMB will preserve all correspondence pertaining to requests it receives under the FOIA, as well as copies of all requested records, until disposition or destruction is authorized pursuant to Title 44 of the United States Code or the General Records Schedule 14 of the National Archives and Records Administration. The NMB will not dispose of or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

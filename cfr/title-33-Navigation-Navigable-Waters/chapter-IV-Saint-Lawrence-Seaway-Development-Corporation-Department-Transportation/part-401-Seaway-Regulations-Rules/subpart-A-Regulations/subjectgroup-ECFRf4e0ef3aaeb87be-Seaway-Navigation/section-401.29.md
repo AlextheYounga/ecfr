@@ -1,5 +1,7 @@
 ##### § 401.29 Maximum draft. #####
 
+Link to an amendment published at 82 FR 12419, Mar. 3, 2017.
+
 (a) Notwithstanding any provision herein, the loading of cargo, draft and speed of a vessel in transit shall be controlled by the master, who shall take into account the vessel's individual characteristics and its tendency to list or squat, so as to avoid striking bottom.
 
 (b) The draft of a vessel shall meet a minimum draft requirement as defined at inspection on the ESI form and not, in any case, exceed 79.2 dm or the maximum permissible draft designated in a Seaway Notice by the Manager and the Corporation for the part of the Seaway in which a vessel is passing.

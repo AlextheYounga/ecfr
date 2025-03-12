@@ -1,0 +1,3 @@
+##### § 102.17 Amendment. #####
+
+A complaint may be amended upon such terms as may be deemed just, prior to the hearing, by the Regional Director issuing the complaint; at the hearing and until the case has been transferred to the Board pursuant to § 102.45, upon motion, by the Administrative Law Judge designated to conduct the hearing; and after the case has been transferred to the Board pursuant to § 102.45, at any time prior to the issuance of an order based thereon, upon motion, by the Board.

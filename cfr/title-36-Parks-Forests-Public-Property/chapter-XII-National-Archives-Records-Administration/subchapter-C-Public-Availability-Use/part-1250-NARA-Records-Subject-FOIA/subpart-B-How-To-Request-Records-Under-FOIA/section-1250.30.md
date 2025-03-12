@@ -1,10 +1,8 @@
 ##### § 1250.30 How does NARA respond to my request? #####
 
-Link to an amendment published at 82 FR 8902, February 1, 2017.
-
 (a) NARA sends you a response informing you of our release determination, including whether any responsive records were located, how much responsive material was located, whether the records have been released in full or withheld in full or in part, where you may review the records, and any fees you must pay for the request. We will use plain language in all written communications with requesters.
 
-(b) If we deny any part of your request, our response will explain the reasons for the denial, which FOIA exemptions apply to withhold records, and your right to appeal that determination.
+(b) If we deny any part of your request, our response will explain the reasons for the denial, which FOIA exemptions apply to withhold records, your right to appeal that determination, and your right to seek dispute resolution services from the FOIA Public Liaison or OGIS.
 
 (c) NARA may withhold records in full or in part if any of the nine FOIA exemptions apply. NARA withholds information only where disclosure is prohibited by law (such as information that remains classified, or information that is specifically exempt by statute) or where we reasonably foresee that disclosure would cause harm to an interest protected by one of the FOIA exemptions. If we must withhold part of a record, we provide access to the rest of the information in the record. On the released portion of the record, we indicate the amount of information we redacted and the exemption(s) we applied, unless including that indication would harm an interest the exemption protects. NARA may also determine that a request does not reasonably describe the records sought; the information requested is not a record subject to FOIA; the requested record does not exist, cannot be located, or has been destroyed; or the requested record is not readily reproducible in the form or format you sought. Information that may be exempt from disclosure under the FOIA is:
 
@@ -23,3 +21,5 @@ Link to an amendment published at 82 FR 8902, February 1, 2017.
 (d) If a request involves a voluminous amount of material or searches in multiple locations, we provide you with interim responses, releasing the records on a rolling basis.
 
 (e) NARA may not withhold Presidential records subject to FOIA under 5 U.S.C. 552(b)(5) as defined in the table in paragraph (c) of this section. However, NARA may withhold Presidential records under the remaining FOIA exemptions. In addition, Presidential records may be withheld under the six PRA restrictions for a period of 12 years from when a President leaves office, in accordance with 44 U.S.C. 2204 and 36 CFR part 1270. Representatives of the current and former Presidents may also review Presidential records, and may assert constitutionally-based privileges that would prevent NARA from releasing some or all or the information requested.
+
+[79 FR 56504, Sept. 22, 2014, as amended at 82 FR 8902, Feb. 1, 2017]

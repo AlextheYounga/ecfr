@@ -1,0 +1,3 @@
+##### § 102.3 Date of service. #####
+
+Where service is made by mail, private delivery service, or email, the date of service is the day when the document served is deposited in the United States mail, is deposited with a private delivery service that will provide a record showing the date the document was tendered to the delivery service, or is sent by email, as the case may be. Where service is made by personal delivery or facsimile, the date of service will be the date on which the document is received.

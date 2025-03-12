@@ -1,6 +1,6 @@
 ##### § 1194.23 Telecommunications products. #####
 
-Link to an amendment published at 82 FR 5832, January 18, 2017.
+Link to an amendment published at 82 FR 5832, Jan. 18, 2017.Link to an extension of the above amendment published at 82 FR 12295, March 2, 2017.
 
 (a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.
 

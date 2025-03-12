@@ -1,0 +1,3 @@
+##### § 102.41 Objection to conduct of hearing; how made; objections not waived by further participation. #####
+
+Any objection with respect to the conduct of the hearing, including any objection to the introduction of evidence, may be stated orally or in writing, accompanied by a short statement of the grounds of such objection, and included in the record. No such objection will be deemed waived by further participation in the hearing.

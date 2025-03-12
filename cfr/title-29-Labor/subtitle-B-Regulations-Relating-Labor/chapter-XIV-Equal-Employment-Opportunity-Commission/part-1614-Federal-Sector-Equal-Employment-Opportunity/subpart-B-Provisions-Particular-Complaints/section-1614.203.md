@@ -1,6 +1,6 @@
 ##### § 1614.203 Rehabilitation Act. #####
 
-Link to an amendment published at 82 FR 677, Jan. 3, 2017.
+Link to an amendment published at 82 FR 677, Jan. 3, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 10863, Feb. 16, 2017.
 
 (a) *Model employer.* The Federal Government shall be a model employer of individuals with disabilities. Agencies shall give full consideration to the hiring, placement, and advancement of qualified individuals with disabilities.
 

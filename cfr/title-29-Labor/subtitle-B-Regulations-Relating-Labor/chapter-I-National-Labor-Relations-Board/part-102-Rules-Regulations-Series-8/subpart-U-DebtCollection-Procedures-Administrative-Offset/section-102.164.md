@@ -8,4 +8,6 @@
 
 (d) Upon completion of the review, the Agency's reviewing official shall transmit to the debtor the Agency's decision. If appropriate, this decision shall inform the debtor of the scheduled date on or after which administrative offset will begin. The decision shall also, if appropriate, indicate any changes in information to the extent such information differs from that provided in the initial notification to the debtor under § 102.161.
 
-(e) Nothing in this subpart shall preclude the Agency from sua sponte reviewing the obligation of the debtor, including a reconsideration of the Agency's determination concerning the debt, and the accuracy, timeliness, relevance, and completeness of the information on which the debt is based.
+(e) Nothing in this subpart will preclude the Agency from *sua sponte* reviewing the obligation of the debtor, including reconsideration of the Agency's determination concerning the debt, and the accuracy, timeliness, relevance, and completeness of the information on which the debt is based.
+
+[62 FR 55164, Oct. 23, 1997, as amended at 82 FR 11785, Feb. 24, 2017]

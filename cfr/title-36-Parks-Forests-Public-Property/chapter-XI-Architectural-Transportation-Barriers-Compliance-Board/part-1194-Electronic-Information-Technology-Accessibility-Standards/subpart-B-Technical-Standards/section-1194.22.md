@@ -1,6 +1,6 @@
 ##### § 1194.22 Web-based intranet and internet information and applications. #####
 
-Link to an amendment published at 82 FR 5832, January 18, 2017.
+Link to an amendment published at 82 FR 5832, Jan. 18, 2017.Link to an extension of the above amendment published at 82 FR 12295, March 2, 2017.
 
 (a) A text equivalent for every non-text element shall be provided (e.g., via “alt”, “longdesc”, or in element content).
 

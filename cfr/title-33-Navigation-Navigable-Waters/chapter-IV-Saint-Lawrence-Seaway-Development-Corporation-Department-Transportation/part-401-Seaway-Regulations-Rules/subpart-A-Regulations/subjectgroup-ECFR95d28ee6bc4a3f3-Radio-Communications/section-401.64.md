@@ -1,5 +1,7 @@
 ##### § 401.64 Calling in. #####
 
+Link to an amendment published at 82 FR 12420, Mar. 3, 2017.
+
 (a) Every vessel, intending to transit or in transit, shall report on the assigned frequency to the designated Seaway station when opposite any calling in point or checkpoint (indicated on the General Seaway Plan) and, when reporting, shall give the information indicated in Schedule III.
 
 (b) Changes in information provided under paragraph (a), including updated ETAs that vary from the ETAs provided under that paragraph by 30 minutes or more, shall be reported to the appropriate Seaway station.

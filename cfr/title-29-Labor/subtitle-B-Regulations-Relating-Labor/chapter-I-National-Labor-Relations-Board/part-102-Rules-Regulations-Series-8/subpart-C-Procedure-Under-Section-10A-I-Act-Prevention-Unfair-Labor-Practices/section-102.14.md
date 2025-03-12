@@ -1,0 +1,7 @@
+##### § 102.14 Service of charge. #####
+
+(a) *Charging Party's obligation to serve; methods of service.* Upon the filing of a charge, the Charging Party is responsible for the timely and proper service of a copy upon the person against whom such charge is made. Service may be made personally, or by registered mail, certified mail, regular mail, private delivery service, or facsimile. With the permission of the person receiving the charge, service may be made by email or by any other agreed-upon method.
+
+(b) *Service as courtesy by Regional Director.* The Regional Director will, as a matter of courtesy, serve a copy of the charge on the charged party in person, or send it to the charged party by regular mail, private delivery service, email or facsimile transmission, in any manner provided for in Rules 4 or 5 of the Federal Rules of Civil Procedure, or in any other agreed-upon method. The Region will not be responsible for such service.
+
+(c) *Date of service of charge.* In the case of service of a charge by mail or private delivery service, the date of service is the date of deposit with the post office or other carrier. In the case of delivery by email, the date of service is the date the email is sent. In the case of service by other methods, including hand delivery or facsimile transmission, the date of service is the date of receipt.

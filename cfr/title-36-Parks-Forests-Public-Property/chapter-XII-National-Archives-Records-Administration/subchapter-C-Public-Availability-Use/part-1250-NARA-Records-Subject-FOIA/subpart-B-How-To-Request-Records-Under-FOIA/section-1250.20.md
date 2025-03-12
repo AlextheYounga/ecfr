@@ -1,8 +1,6 @@
 ##### § 1250.20 What do I include in my FOIA request? #####
 
-Link to an amendment published at 82 FR 8902, February 1, 2017.
-
-In your FOIA request:
+In your FOIA request, which must be submitted in writing:
 
 (a) Describe the records you seek in sufficient detail to enable NARA staff to locate them with a reasonable amount of effort. The more information you provide, the better possibility NARA has of finding the records you are seeking. Information that will help NARA find the records includes:
 
@@ -20,4 +18,6 @@ In your FOIA request:
 
 (d) Mark both your letter and envelope, or the subject line of your email, with the words “FOIA Request.”
 
-(e) Before filing your request, you may find it helpful to consult NARA's “Freedom of Information Act Reference Guide” - which is available electronically at *http://www.archives.gov/foia/foia-guide.html,* and in paper form. For a paper copy of NARA's FOIA Guide, write to: NARA FOIA Officer (NGC); Room 3110; National Archives and Records Administration; 8601 Adelphi Road; College Park, MD 20740-6001. For additional information about the FOIA, you may refer directly to the statute at 5 U.S.C. 552 or visit *http://www.foia.gov.*
+(e) Before filing your request, you may find it helpful to consult NARA's “Freedom of Information Act Reference Guide”—which is available electronically at *http://www.archives.gov/foia/foia-guide.html,* and in paper form. For a paper copy of NARA's FOIA Guide, write to: NARA FOIA Officer (NGC); Room 3110; National Archives and Records Administration; 8601 Adelphi Road; College Park, MD 20740-6001. For additional information about the FOIA, you may refer directly to the statute at 5 U.S.C. 552 or visit *http://www.foia.gov.*
+
+[79 FR 56504, Sept. 22, 2014, as amended at 82 FR 8902, Feb. 1, 2017]

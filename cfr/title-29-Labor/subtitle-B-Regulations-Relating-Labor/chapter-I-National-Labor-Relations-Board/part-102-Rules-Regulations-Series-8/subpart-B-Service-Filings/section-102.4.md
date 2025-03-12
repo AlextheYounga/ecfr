@@ -1,0 +1,11 @@
+##### § 102.4 Methods of service of process and papers by the Agency; proof of service. #####
+
+(a) *Method of service for certain Agency-issued documents.* Complaints and compliance specifications (including accompanying notices of hearing, and amendments to either complaints or to compliance specifications), final orders of the Board in unfair labor practice cases and Administrative Law Judges' decisions must be served upon all parties personally, by registered or certified mail, by leaving a copy at the principal office or place of business of the person required to be served, by email as appropriate, or by any other method of service authorized by law.
+
+(b) *Service of subpoenas.* Subpoenas must be served upon the recipient personally, by registered or certified mail, by leaving a copy at the principal office or place of business of the person required to be served, by private delivery service, or by any other method of service authorized by law.
+
+(c) *Service of other Agency-issued documents.* Other documents may be served by the Agency by any of the foregoing methods as well as by regular mail, private delivery service, facsimile, or email.
+
+(d) *Proof of service.* In the case of personal service, or delivery to a principal office or place of business, the verified return by the serving individual, setting forth the manner of such service, is proof of service. In the case of service by registered or certified mail, the return post office receipt is proof of service. However, these methods of proof of service are not exclusive; any sufficient proof may be relied upon to establish service.
+
+(e) *Service upon representatives of parties.* Whenever these Rules require or permit the service of pleadings or other papers upon a party, a copy must be served on any attorney or other representative of the party who has entered a written appearance in the proceeding on behalf of the party. If a party is represented by more than one attorney or representative, service upon any one of such persons in addition to the party satisfies this requirement. Service by the Board or its agents of any documents upon any such attorney or other representative may be accomplished by any means of service permitted by these Rules, including regular mail.

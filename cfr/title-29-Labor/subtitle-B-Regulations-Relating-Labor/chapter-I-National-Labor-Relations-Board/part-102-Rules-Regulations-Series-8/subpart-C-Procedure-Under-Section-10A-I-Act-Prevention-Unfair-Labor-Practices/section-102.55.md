@@ -1,0 +1,7 @@
+##### § 102.55 Contents of compliance specification. #####
+
+(a) *Contents of specification with respect to allegations concerning the amount of backpay due.* With respect to allegations concerning the amount of backpay due, the specification will specifically and in detail show, for each employee, the backpay periods broken down by calendar quarters, the specific figures and basis of computation of gross backpay and interim earnings, the expenses for each quarter, the net backpay due, and any other pertinent information.
+
+(b) *Contents of specification with respect to allegations other than the amount of backpay due.* With respect to allegations other than the amount of backpay due, the specification will contain a clear and concise description of the respects in which the Respondent has failed to comply with a Board or court order, including the remedial acts claimed to be necessary for compliance by the Respondent and, where known, the approximate dates, places, and names of the Respondent's agents or other representatives described in the specification.
+
+(c) *Amendments to specification.* After the issuance of the Notice of Compliance Hearing but before the hearing opens, the Regional Director may amend the specification. After the hearing opens, the specification may be amended upon leave of the Administrative Law Judge or the Board, upon good cause shown.

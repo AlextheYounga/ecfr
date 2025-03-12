@@ -1,0 +1,3 @@
+##### § 102.52 Compliance with Board order; notification of compliance determination. #####
+
+After entry of a Board order directing remedial action, or the entry of a court judgment enforcing such order, the Regional Director will seek compliance from all persons having obligations under the order. As appropriate, the Regional Director will make a compliance determination and notify the parties of that determination. A Charging Party adversely affected by a monetary, make-whole, reinstatement, or other compliance determination will be provided, on request, with a written statement of the basis for that determination.

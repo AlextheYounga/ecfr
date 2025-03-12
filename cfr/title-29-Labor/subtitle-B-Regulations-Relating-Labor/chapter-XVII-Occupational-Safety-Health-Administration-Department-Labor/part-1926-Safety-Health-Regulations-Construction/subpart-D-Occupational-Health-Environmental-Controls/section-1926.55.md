@@ -1,6 +1,6 @@
 ##### § 1926.55 Gases, vapors, fumes, dusts, and mists. #####
 
-Link to an amendment published at 82 FR 2750, Jan. 9, 2017.
+Link to an amendment published at 82 FR 2750, Jan. 9, 2017.This amendment was delayed to March 21, 2017 at 82 FR 8901, Feb. 1, 2017.
 
 (a) Exposure of employees to inhalation, ingestion, skin absorption, or contact with any material or substance at a concentration above those specified in the “Threshold Limit Values of Airborne Contaminants for 1970” of the American Conference of Governmental Industrial Hygienists, shall be avoided. See appendix A to this section.
 

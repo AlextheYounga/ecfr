@@ -1,0 +1,3 @@
+##### § 102.34 Who will conduct hearing; public unless otherwise ordered. #####
+
+The hearing for the purpose of taking evidence upon a complaint will be conducted by an Administrative Law Judge designated by the Chief Administrative Law Judge, Deputy Chief Administrative Law Judge, or any Associate Chief Judge, as the case may be, unless the Board or any Board Member presides. At any time, an Administrative Law Judge may be designated to take the place of the Administrative Law Judge previously designated to conduct the hearing. Hearings will be public unless otherwise ordered by the Board or the Administrative Law Judge.

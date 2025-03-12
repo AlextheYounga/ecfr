@@ -1,6 +1,6 @@
 ##### § 435.4 Energy efficiency performance standard. #####
 
-Link to an amendment published at 82 FR 2867, Jan. 10, 2017.This amendment was delayed until Mar. 21, 2017 at 82 FR 9343, Feb. 6, 2017.
+Link to an amendment published at 82 FR 2867, Jan. 10, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 9343, Feb. 6, 2017.
 
 (a)(1) All Federal agencies shall design new Federal buildings that are low-rise residential buildings, for which design for construction began on or after January 3, 2007, but before August 10, 2012, to:
 

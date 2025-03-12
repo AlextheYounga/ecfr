@@ -1,0 +1,3 @@
+##### § 102.49 Modification or setting aside of Board order before record filed in court; action thereafter. #####
+
+Within the limitations of the provisions of Section 10(c) of the Act, and § 102.48, until a transcript of the record in a case is filed in a court, within the meaning of Section 10 of the Act, the Board may at any time upon reasonable notice modify or set aside, in whole or in part, any findings of fact, conclusions of law, or order made or issued by it. Thereafter, the Board may proceed pursuant to § 102.50, insofar as applicable.

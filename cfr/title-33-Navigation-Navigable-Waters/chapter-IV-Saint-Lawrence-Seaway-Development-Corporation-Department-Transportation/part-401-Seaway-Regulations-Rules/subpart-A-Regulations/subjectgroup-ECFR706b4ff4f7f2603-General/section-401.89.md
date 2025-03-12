@@ -1,5 +1,7 @@
 ##### § 401.89 Transit refused. #####
 
+Link to an amendment published at 82 FR 12420, Mar. 3, 2017.
+
 (a) An officer may refuse to allow a vessel to transit when,
 
 (1) The vessel is not equipped in accordance with §§ 401.5 to 401.19 and subsections (e) to (j) of Schedule I of subpart A of this part when transiting the Canadian waters of the Seaway;

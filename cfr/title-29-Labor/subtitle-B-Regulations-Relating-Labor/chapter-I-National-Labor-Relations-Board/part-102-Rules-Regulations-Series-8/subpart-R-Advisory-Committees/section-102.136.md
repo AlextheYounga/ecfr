@@ -1,5 +1,5 @@
-##### § 102.136 Establishment and utilization of advisory committees. #####
+##### § 102.136 Establishment and use of advisory committees. #####
 
-Advisory committees may from time to time be established or utilized by the agency in the interest of obtaining advice or recommendations on issues of concern to the agency. The establishment, utilization, and functioning of such committees shall be in accordance with the provisions of the Federal Advisory Committee Act, 5 U.S.C. app. I, sections 1-15, and Office of Management and Budget Circular A-63 (rev. March 27, 1975), Advisory Committee Management Guidance, 39 FR 12389-12391, to the extent applicable.
+Advisory committees may from time to time be established or used by the Agency in the interest of obtaining advice or recommendations on issues of concern to the Agency. The establishment, use, and functioning of such committees will be in accordance with the provisions of the Federal Advisory Committee Act, 5 U.S.C. App. 2, applicable Rules and Regulations.
 
-(49 Stat. 449 (29 U.S.C. 151-166, as amended by Act of June 23, 1947) 61 Stat. 136 (29 U.S.C. Supp. 151-167), act of October 22, 1951, 65 Stat. 601 (29 U.S.C. 158, 159, 168), and Act of September 14, 1959 73 Stat. 519; 29 U.S.C. 141-168); 86 Stat. 770; (5 U.S.C. Appendix I, section 1 *et seq.*))[40 FR 59728, Dec. 30, 1975]
+[82 FR 11779, Feb. 24, 2017]

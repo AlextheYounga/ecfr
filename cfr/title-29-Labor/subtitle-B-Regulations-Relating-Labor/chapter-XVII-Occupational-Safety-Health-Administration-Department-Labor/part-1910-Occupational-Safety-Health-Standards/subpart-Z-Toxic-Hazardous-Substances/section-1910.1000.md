@@ -1,6 +1,6 @@
 ##### § 1910.1000 Air contaminants. #####
 
-Link to an amendment published at 82 FR 2735, Jan. 9, 2017.
+Link to an amendment published at 82 FR 2735, Jan. 9, 2017.This amendment was delayed to March 21, 2017 at 82 FR 8901, Feb. 1, 2017.
 
 An employee's exposure to any substance listed in Tables Z-1, Z-2, or Z-3 of this section shall be limited in accordance with the requirements of the following paragraphs of this section.
 
