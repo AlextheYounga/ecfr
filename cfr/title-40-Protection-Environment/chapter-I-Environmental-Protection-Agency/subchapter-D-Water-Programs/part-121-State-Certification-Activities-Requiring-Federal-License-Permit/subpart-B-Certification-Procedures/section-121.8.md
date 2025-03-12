@@ -1,0 +1,3 @@
+##### § 121.8 Extent of Federal agency review. #####
+
+To the extent a Federal agency verifies compliance with the requirements of Clean Water Act section 401, its review is limited to whether: the appropriate certifying authority issued the certification decision; the certifying authority confirmed it complied with its public notice procedures established pursuant to Clean Water Act section 401(a)(1); and the certifying authority acted on the request for certification within the reasonable period of time.

@@ -2,7 +2,7 @@
 
 (a) *General requirement.* Exports of thermal imaging cameras must be reported to BIS as provided in this section.
 
-(b) *Transactions to be reported.* Exports that are not authorized by an individually validated license of thermal imaging cameras controlled by ECCN 6A003.b.4.b to a destination in Country Group A:1 (see supplement no. 1 to part 740 of the EAR), except Canada, must be reported to BIS.
+(b) *Transactions to be reported.* Exports that are not authorized by an individually validated license of more than 100 thermal imaging cameras in a monocular, biocular or binocular configuration controlled by ECCN 6A003.b.4.b to a destination in Country Group A:1 (see supplement no. 1 to part 740 of the EAR), except Canada, must be reported to BIS.
 
 (c) *Party responsible for reporting.* The exporter as defined in § 772.1 of the EAR must ensure the reports required by this section are submitted to BIS.
 
@@ -12,4 +12,4 @@
 
 (f) *Reporting periods and due dates.* This reporting requirement applies to exports made on or after May 22, 2009. Exports must be reported within one month of the reporting period in which the export takes place. The first reporting period begins on May 22, 2009 and runs through June 30, 2009. Subsequent reporting periods shall begin on January 1 and July 1 of each year, and shall run through June 30, and December 31 respectively. Exports in each reporting period must be reported to BIS no later than the last day of the month following the month in which the reporting period ends.
 
-[74 FR 23947, May 22, 2009, as amended at 74 FR 68146, Dec. 23, 2009; 76 FR 58397, Sept. 21, 2011; 80 FR 29444, May 21, 2015; 80 FR 75635, Dec. 3, 2015]
+[74 FR 23947, May 22, 2009, as amended at 74 FR 68146, Dec. 23, 2009; 76 FR 58397, Sept. 21, 2011; 80 FR 29444, May 21, 2015; 80 FR 75635, Dec. 3, 2015; 85 FR 56299, Sept. 11, 2020]

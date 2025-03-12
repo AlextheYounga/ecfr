@@ -214,17 +214,19 @@ Technical note 2 to definition of “Cryptographic activation”:
 
 Mechanisms for “cryptographic activation” can, for example, be serial number-based license keys or authentication instruments such as digitally signed certificates.
 
-*Cryptography.* (Cat 5P2) - The discipline that embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more `secret parameters' (*e.g.,* crypto variables) and/or associated key management.
+*Cryptography* (Cat 5P2) - The discipline that embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorized use. “Cryptography” is limited to the transformation of information using one or more 'secret parameters' (*e.g.,* crypto variables) and/or associated key management.
 
-Note:
+Notes:
 
-“Cryptography” does not include `fixed' data compression or coding techniques.
+*1. “Cryptography” does not include 'fixed' data compression or coding techniques.*
+
+*2. “Cryptography” includes decryption.*
 
 Technical Notes:
 
-1. 'Secret parameter': a constant or key kept from the knowledge of others or shared only within a group.
+*1. 'Secret parameter': A constant or key kept from the knowledge of others or shared only within a group.*
 
-2. 'Fixed': the coding or compression algorithm cannot accept externally supplied parameters (*e.g.,* cryptographic or key variables) and cannot be modified by the user.
+*2. 'Fixed': The coding or compression algorithm cannot accept externally supplied parameters (e.g., cryptographic or key variables) and cannot be modified by the user.*
 
 *Customs officer.* The Customs officers in the U.S. Customs Service and postmasters unless the context indicates otherwise.
 
@@ -914,11 +916,11 @@ Equivalent national standards for executing the “proof test” may be used.
 
 *Radar spread spectrum.* (Cat 6) - Any modulation technique for spreading energy originating from a signal with a relatively narrow frequency band, over a much wider band of frequencies, by using random or pseudo-random coding.
 
-“Radiant sensitivity” (Cat 6) - Radiant sensitivity (mA/W) = 0.807 × (wavelength in nm) × ‘Quantum Efficiency (QE)’
+*Radiant sensitivity* (Cat 6) - Radiant sensitivity (mA/W) = 0.807 × (wavelength in nm) × 'Quantum Efficiency (QE)'.
 
 Technical Note:
 
-’QE’ is usually expressed as a percentage; however, for the purposes of this formula ‘QE’ is expressed as a decimal number less than one, e.g., 78% is 0.78.
+*'QE' is usually expressed as a percentage; however, for the purposes of this formula 'QE' is expressed as a decimal number less than one, e.g., 78% is 0.78.*
 
 *Range.* (Cat 8) - Half the maximum distance a submersible vehicle can cover.
 
@@ -1023,6 +1025,8 @@ This definition does not include the following devices:
 *SNEC.* See Subgroup on Nuclear Export Coordination.
 
 *Sample rate.* (Cat 3) For an Analog-to-Digital Converter (ADC) the maximum number of samples that are measured at the analog input over a period of one second, except for oversampling ADCs. For oversampling ADCs the “sample rate” is taken to be its output word rate. “Sample rate” may also be referred to as sampling rate, usually specified in Mega Samples Per Second (MSPS) or Giga Samples Per Second (GSPS), or conversion rate, usually specified in Hertz (Hz).
+
+*Satellite navigation system* (Cat 5P2, 7) - A system consisting of ground stations, a constellation of satellites, and receivers, that enables receiver locations to be calculated on the basis of signals received from the satellites. It includes Global Navigation Satellite Systems (GNSS) and Regional Navigation Satellite Systems (RNSS).
 
 *Scale factor.* (gyro or accelerometer) (Cat 7) - The ratio of change in output to a change in the input intended to be measured. Scale factor is generally evaluated as the slope of the straight line that can be fitted by the method of least squares to input-output data obtained by varying the input cyclically over the input range.
 
@@ -1132,11 +1136,11 @@ For a commodity or software to be not “specially designed” on the basis of p
 
 *Spread spectrum radar.* (Cat 6) - (see “Radar spread spectrum”)
 
-“*Stability*”. (Cat 7) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
+*Stability* (Cat 7) Standard deviation (1 sigma) of the variation of a particular parameter from its calibrated value measured under stable temperature conditions. This can be expressed as a function of time.
 
-Note to the defintion of “Stability”:
+Note:
 
-For gyroscopes, “stability” can be estimated by determining the Allan variance noise-analysis value at the integration period (*i.e.,* sample time) consistent with the stated measurement period, which may include extrapolating the Allan variance noise analysis beyond the instability point into the rate random walk or rate ramp regions to an integration period consistent with the stated measurement period (Reference: IEEE Std. 952-1997 [R2008]). Allan variance noise analysis is often used to characterize Micro Electro Mechanical Systems (MEMS) gyroscopes, and is applicable to other gyroscopes, such as Ring Laser Gyroscopes (RLGs) and Fiber Optic Gyroscopes (FOGs).
+*For gyroscopes and accelerometers, “stability” can be estimated by determining the Allan variance noise-analysis value at the integration period (i.e., sample time) consistent with the stated measurement period, which may include extrapolating the Allan variance noise analysis beyond the instability point into the rate/acceleration random walk or rate/acceleration ramp regions to an integration period consistent with the stated measurement period (Reference: IEEE Std. 952-1997 [R2008] or IEEE Std 1293-1998 [R2008]).*
 
 *Standard.* This term is equivalent to “standard” or “technical standard” as defined in Office of Management and Budget Circular A-119 (Rev. 2016) (81 FR 4673 (Jan. 27, 2016)), “Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities” section 2.a, available at *https://www.nist.gov/system/files/revised\_circular\_a-119\_as\_of\_01-22-2016.pdf.*
 
@@ -1291,6 +1295,8 @@ If an ECCN specifies one or more of the six elements of “use” in the heading
 (3) Control rods.
 
 (b) Utilization facility does not include the steam turbine generator portion of a nuclear power plant.
+
+*Vacuum electronic devices* (Cat 3) Electronic devices based on the interaction of an electron beam with an electromagnetic wave propagating in a vacuum circuit or interacting with radio-frequency vacuum cavity resonators. “Vacuum electronic devices” include klystrons, travelling-wave tubes, and their derivatives.
 
 *Vector Rate.* (Cat 4) - See: “Two dimensional Vector Rate”; “Three dimensional Vector Rate”.
 

@@ -1,5 +1,7 @@
 ##### § 360.103 Automatic issuance of import licenses. #####
 
+Link to an amendment published at 85 FR 56171, Sept. 11, 2020.
+
 (a) *In general.* Steel import licenses will be issued to registered importers, customs brokers or their agents through an automatic steel import licensing system. The licenses will be issued automatically after the completion of the form.
 
 (b) *Customs entry number.* Filers are not required to report a Customs entry number to obtain an import license but are encouraged to do so if the Customs entry number is known at the time of filing for the license.

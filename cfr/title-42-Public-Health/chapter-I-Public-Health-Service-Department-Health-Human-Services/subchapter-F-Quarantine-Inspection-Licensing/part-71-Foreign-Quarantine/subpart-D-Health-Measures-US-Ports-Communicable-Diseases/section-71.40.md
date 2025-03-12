@@ -1,5 +1,7 @@
 ##### § 71.40 Prohibiting the introduction of persons from designated foreign countries and places into the United States. #####
 
+Link to an amendment published at 85 FR 56458, Sept. 11, 2020.
+
 (a) The Director may prohibit the introduction into the United States of persons from designated foreign countries (or one or more political subdivisions and regions thereof) or places, only for such period of time that the Director deems necessary for the public health, by issuing an order in which the Director determines that:
 
 (1) By reason of the existence of any communicable disease in a foreign country (or one or more political subdivisions or regions thereof) or place there is serious danger of the introduction of such communicable disease into the United States; and

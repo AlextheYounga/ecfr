@@ -120,7 +120,7 @@
 
 (i) To a Federal, State or local government agency upon prior written certification that the information is required for the performance of its duties. The Postal Service requires government agencies to use the format appearing at the end of this section when requesting the verification of a customer's current address or a customer's new mailing address. If the request lacks any of the required information or a proper signature, the postmaster will return the request to the agency, specifying the deficiency in the space marked `OTHER'. A copy of PS Form 1093 may be provided.
 
-(ii)(A) To a person empowered by law to serve legal process, or the attorney for a party in whose behalf service will be made, or a party who is acting *pro se*,1/\> upon receipt of written information that specifically includes all of the following:
+(ii)(A) To a person empowered by law to serve legal process, or the attorney for a party in whose behalf service will be made, or a party who is acting *pro se*,1 upon receipt of written information that specifically includes all of the following:
 
 1 The term *pro se* means that a party is not represented by an attorney but by himself or herself.
 

@@ -1,5 +1,7 @@
 ##### § 600.235 Financial disclosure. #####
 
+Link to an amendment published at 85 FR 56182, Sept. 11, 2020.
+
 (a) *Definitions.* For purposes of § 600.235:
 
 *Affected individual* means an individual who is -
