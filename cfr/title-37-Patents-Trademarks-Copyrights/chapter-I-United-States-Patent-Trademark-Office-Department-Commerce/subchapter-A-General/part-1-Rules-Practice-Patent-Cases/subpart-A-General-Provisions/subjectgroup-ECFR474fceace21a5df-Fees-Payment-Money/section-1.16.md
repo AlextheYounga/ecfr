@@ -1,6 +1,6 @@
 ##### § 1.16 National application filing, search, and examination fees. #####
 
-Link to an amendment published at 85 FR 46985, Aug. 3, 2020.Link to an amendment published at 86 FR 66193, Nov. 22, 2021.Link to an amendment published at 87 FR 80073, Dec. 29, 2022.Link to an amendment published at 87 FR 80074, Dec. 29, 2022.Link to an amendment published at 88 FR 17154, Mar. 22, 2023.Link to an amendment published at 88 FR 18053, Mar. 27, 2023.
+Link to an amendment published at 85 FR 46985, Aug. 3, 2020.Link to an amendment published at 86 FR 66193, Nov. 22, 2021.Link to an amendment published at 87 FR 80073, Dec. 29, 2022.Link to an amendment published at 87 FR 80074, Dec. 29, 2022.Link to an amendment published at 88 FR 17154, Mar. 22, 2023.Link to an amendment published at 88 FR 18053, Mar. 27, 2023.Link to a delay of the above amendment published at 88 FR 36957, June 6, 2023.
 
 (a) Basic fee for filing each application under 35 U.S.C. 111 for an original patent, except design, plant, or provisional applications:
 

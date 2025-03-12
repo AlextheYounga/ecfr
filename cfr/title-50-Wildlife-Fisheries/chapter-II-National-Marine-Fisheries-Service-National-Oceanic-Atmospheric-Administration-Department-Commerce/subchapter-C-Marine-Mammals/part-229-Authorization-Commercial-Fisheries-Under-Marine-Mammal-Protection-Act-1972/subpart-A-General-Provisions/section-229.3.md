@@ -1,5 +1,7 @@
 ##### § 229.3 Prohibitions. #####
 
+Link to an amendment published at 88 FR 36972, June 6, 2023.
+
 (a) It is prohibited to take any marine mammal incidental to commercial fishing operations except as otherwise provided in part 216 of this chapter or in this part 229.
 
 (b) It is prohibited to assault, harm, harass (including sexually harass), oppose, impede, intimidate, impair, or in any way influence or interfere with an observer, or attempt the same. This prohibition includes, but is not limited to, any action that interferes with an observer's responsibilities, or that creates an intimidating, hostile, or offensive environment.

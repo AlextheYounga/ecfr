@@ -252,9 +252,11 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 (iii) The amount of the payment is set in advance, does not exceed fair market value, and is not determined in any manner that takes into account the volume or value of referrals.
 
-Rural area means an area that is not an urban area as defined at § 412.64(b) of this chapter.
+*Rural area* means an area that is not an urban area as defined at § 412.64(b) of this chapter.
 
-Rural emergency hospital has the meaning set forth in section 1861(kkk)(2) of the Act and § 419.91 of this chapter.
+*Rural emergency hospital* has the meaning set forth in section 1861(kkk)(2) of the Act and § 419.91 of this chapter.
+
+*Same building* means a structure with, or combination of structures that share, a single street address as assigned by the U.S. Postal Service, excluding all exterior spaces (for example, lawns, courtyards, driveways, parking lots) and interior loading docks or parking garages. For purposes of this section, the “same building” does not include a mobile vehicle, van, or trailer.
 
 *Specialty hospital* means:
 
