@@ -1,23 +1,13 @@
-##### § 1253.5 Confidential information. #####
+##### § 1253.5 Notice of new activity. #####
 
-(a) *Information presumed public.* FHFA will treat all information an Enterprise submits in a Notice as public information, except as provided in paragraphs (b) through (d) of this section. FHFA will also treat information provided by a commenter, in response to a notice requesting comment on an Enterprise new product, as public information, except as provided in paragraphs (b) through (d) of this section.
+(a) Before commencing a new activity, an Enterprise must submit a notice of new activity to FHFA. An Enterprise may request prior consultation with FHFA about whether a notice of new activity is required.
 
-(b) *Confidential treatment request.* An Enterprise or commenter may designate specific information as confidential and request that it not be made publicly available. For any information that an Enterprise or commenter seeks confidential treatment, the Enterprise or commenter is required to submit a complete copy of the Notice or comment, with a specific request for confidential treatment. Simultaneously, the Enterprise or commenter is required to submit a copy of the Notice or comment containing only those portions for which no request for confidential treatment is made, and from which those portions for which confidential treatment is requested have been redacted. The Enterprise or commenter must specify the bases for designated information not being made public as set forth in paragraph (c) of this section.
+(b) In support of its notice of new activity, the Enterprise shall submit thorough, complete, and specific information as described under § 1253.9(a). FHFA will evaluate the notice of new activity to determine if the submission contains sufficient information to enable the Director to determine whether the new activity is a new product subject to prior approval. Once FHFA makes the determination that the submission is complete, FHFA will notify the Enterprise that the submission is “received” for purposes of 12 U.S.C. 4541(e)(2)(B).
 
-(c) *Required information.* The Enterprise or commenter is required to provide the following information in support of its request for confidential treatment of the designated information—
+(c) Nothing in this regulation limits or restricts FHFA from reviewing a notice of new activity under any other applicable law, under the Director's authority to review for safety and soundness, or to determine whether the activity complies with the Enterprise's authorizing statute. FHFA may conduct such a review as part of its determination that the notice of new activity submission is complete.
 
-(1) Identification of the specific information for which confidential treatment is sought, and the specific Notice for which the information is being submitted;
+(d) No later than 15 days after FHFA notifies the Enterprise that the submission is received, the Director will make a determination on the notice of new activity and will notify the Enterprise accordingly. If the Director determines that the new activity is a new product, the Enterprise must elect to either submit a request for prior approval of the new product under § 1253.6 or discontinue its plan to offer the new product to the market.
 
-(2) Explanation of the bases for the proposed confidential treatment including, but not limited to, why the information is “commercial or financial information obtained from a person and privileged or confidential” as that phrase is used in Exemption 4 of the Freedom of Information Act (FOIA), 5 U.S.C. 552(b)(4), and § 1202.4(a)(4) of this chapter;
+(e) If the Director determines that the new activity is not a new product, or if after the passage of 15 days the Director does not make a determination whether the new activity is a new product, the Enterprise may commence the new activity. The Director may establish terms, conditions, or limitations on the Enterprise's engagement in the new activity as the Director determines to be appropriate and with which the Enterprise must comply in order to engage in the new activity.
 
-(3) Explanation of the relevance and necessity of the information to whether the Notice should be approved or denied;
-
-(4) Explanation of how disclosure of the information would result in substantial harm to the competitive position of the Enterprise or commenter;
-
-(5) Explanation of whether the information is available to the public and the extent of any previous disclosure to third parties;
-
-(6) Justification of the time period during which the Enterprise or commenter asserts that the material should not be available for public disclosure; and
-
-(7) Any other information that the Enterprise or commenter seeking confidential treatment believes may be useful in assessing whether its request for confidentiality should be granted.
-
-(d) *FHFA determination.* FHFA will determine whether the designated information may be withheld from public disclosure and will notify the Enterprise or commenter of the determination. In the event that FHFA determines the information may not be withheld from public disclosure, the Enterprise or commenter may withdraw the information or consent to public disclosure. Requests for confidential treatment that do not comply with paragraphs (b) and (c) of this section will not be considered.
+(f) If the Director does not make a determination within the 15-day period, the absence of such determination does not limit or restrict the Director's safety and soundness authority or the Director's authority to review the new activity to confirm that the activity is consistent with the Enterprise's authorizing statute.

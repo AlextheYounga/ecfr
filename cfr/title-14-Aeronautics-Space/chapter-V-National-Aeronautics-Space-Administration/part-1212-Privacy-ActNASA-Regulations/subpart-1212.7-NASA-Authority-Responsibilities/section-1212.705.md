@@ -1,14 +1,12 @@
 ##### § 1212.705 System manager. #####
 
-Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
-
 (a) Each system manager is responsible for the following with regard to the system of records over which the system manager has cognizance:
 
 (1) Overall compliance with this part, NASA Policy Directive (NPD) 1382.17 and NASA Procedural Requirements (NPR) 1382.1.
 
 (2) Ensuring that each person involved in the design, development, operation, or maintenance of the system of records is instructed with respect to the requirements of this regulation and the possible penalties for noncompliance;
 
-(3) Submitting a request to the Associate Deputy Administrator for an exemption of the system under subpart 1212.5 of this part, setting forth in proposed rulemaking form the reasons for the exemption and citing the specific provision of the Privacy Act which is believed to authorize the exemption;
+(3) Submitting a request to the Associate Administrator for an exemption of the system under subpart 1212.5 of this part, setting forth in proposed rulemaking form the reasons for the exemption and citing the specific provision of the Privacy Act which is believed to authorize the exemption;
 
 (4) After consultation with the Office of the General Counsel or the Chief Counsel, making reasonable efforts to serve notice on an individual when any record on such individual is made available to any person under compulsory legal process when such process becomes a matter of public record;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
 
 (c) Exercise of the responsibilities and authorities in paragraph (a) of this section by any system or subsystem managers at a NASA Center shall be subject to any conditions or limitations imposed in accordance with § 1212.704(a)(4) and (5).
 
-[57 FR 4928, Feb. 11, 1992. Redesignated and amended at 77 FR 60622, Oct. 4, 2012]
+[57 FR 4928, Feb. 11, 1992. Redesignated and amended at 77 FR 60622, Oct. 4, 2012; NASA-21-091; NASA-2021-0007, 88 FR 12149, Feb. 27, 2023]

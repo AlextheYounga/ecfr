@@ -241,69 +241,69 @@ Table 1 to Paragraph (a): Permissible Values and Additional Instructions
 
 Table 6 to Paragraph (d)(2): Risk Multipliers
 
-|                         Risk factor                          |                            Value or range                             |Single-family segment|             |   |   |
-|--------------------------------------------------------------|-----------------------------------------------------------------------|---------------------|-------------|---|---|
-|                    Performing  <br/>loan                     |                        Non-modified  <br/>RPL                         | Modified  <br/>RPL  |     NPL     |   |   |
-|                         Loan Purpose                         |                               Purchase                                |         1.0         |     1.0     |1.0|   |
-|                                                              |                           Cashout refinance                           |         1.4         |     1.4     |1.4|   |
-|                                                              |                          Rate/term refinance                          |         1.3         |     1.2     |1.3|   |
-|                        Occupancy Type                        |                     Owner-occupied or second home                     |         1.0         |     1.0     |1.0|1.0|
-|                                                              |                              Investment                               |         1.2         |     1.5     |1.3|1.2|
-|                        Property Type                         |                                1-unit                                 |         1.0         |     1.0     |1.0|1.0|
-|                                                              |                               2-4 unit                                |         1.4         |     1.4     |1.3|1.1|
-|                                                              |                              Condominium                              |         1.1         |     1.0     |1.0|1.0|
-|                                                              |                           Manufactured home                           |         1.3         |     1.8     |1.6|1.2|
-|                     Origination Channel                      |                                Retail                                 |         1.0         |     1.0     |1.0|1.0|
-|                                                              |                                  TPO                                  |         1.1         |     1.1     |1.1|1.0|
-|                             DTI                              |                              DTI \<= 25%                              |         0.8         |     0.9     |0.9|   |
-|                                                              |                          25% \< DTI \<= 40%                           |         1.0         |     1.0     |1.0|   |
-|                                                              |                               DTI \>40%                               |         1.2         |     1.2     |1.1|   |
-|                         Product Type                         |                                 FRM30                                 |         1.0         |     1.0     |1.0|1.0|
-|                                                              |                                ARM1/1                                 |         1.7         |     1.1     |1.0|1.1|
-|                                                              |                                 FRM15                                 |         0.3         |     0.3     |0.5|0.5|
-|                                                              |                                 FRM20                                 |         0.6         |     0.6     |0.5|0.8|
-|                        Subordination                         |                           No subordination                            |         1.0         |     1.0     |1.0|   |
-|                                                              |           30% \< OLTV \<= 60% and 0% \<subordination \<= 5%           |         1.1         |     0.8     |1.0|   |
-|                                                              |              30% \< OLTV \<= 60% and subordination \>5%               |         1.5         |     1.1     |1.2|   |
-|                                                              |               OLTV \>60% and 0% \<subordination \<= 5%                |         1.1         |     1.2     |1.1|   |
-|                                                              |                   OLTV \>60% and subordination \>5%                   |         1.4         |     1.5     |1.3|   |
-|                           Loan Age                           |                        Loan age \<= 24 months                         |         1.0         |             |   |   |
-|                                                              |                  24 months \<loan age \<= 36 months                   |        0.95         |             |   |   |
-|                                                              |                  36 months \<loan Age \<= 60 months                   |        0.80         |             |   |   |
-|                                                              |                         Loan age \>60 months                          |        0.75         |             |   |   |
-|                        Cohort Burnout                        |                              No burnout                               |         1.0         |             |   |   |
-|                                                              |                                  Low                                  |         1.2         |             |   |   |
-|                                                              |                                Medium                                 |         1.3         |             |   |   |
-|                                                              |                                 High                                  |         1.4         |             |   |   |
-|                        Interest-only                         |                                 No IO                                 |         1.0         |     1.0     |1.0|   |
-|                                                              |                                Yes IO                                 |         1.6         |     1.4     |1.1|   |
-|                      Loan Documentation                      |                                 Full                                  |         1.0         |     1.0     |1.0|   |
-|                                                              |                              None or low                              |         1.3         |     1.3     |1.2|   |
-|                       Streamlined Refi                       |                                  No                                   |         1.0         |     1.0     |1.0|   |
-|                                                              |                                  Yes                                  |         1.0         |     1.2     |1.1|   |
-|Refreshed Credit Score for Modified RPLs and Non-modified RPLs|Refreshed credit score \<620  <br/>620 \<= refreshed credit score \<640|    1.6  <br/>1.3    |1.4  <br/>1.2|   |   |
-|                                                              |                 640 \<= refreshed credit score \<660                  |                     |     1.2     |1.1|   |
-|                                                              |                 660 \<= refreshed credit score \<700                  |                     |     1.0     |1.0|   |
-|                                                              |                 700 \<= refreshed credit score \<720                  |                     |     0.7     |0.8|   |
-|                                                              |                 720 \<= refreshed credit score \<740                  |                     |     0.6     |0.7|   |
-|                                                              |                 740 \<= refreshed credit score \<760                  |                     |     0.5     |0.6|   |
-|                                                              |                 760 \<= refreshed credit score \<780                  |                     |     0.4     |0.5|   |
-|                                                              |                    Refreshed credit score \>= 780                     |                     |     0.3     |0.4|   |
-|               Payment Change from Modification               |                         Payment change \>= 0%                         |                     |             |1.1|   |
-|                                                              |                     −20% \<= payment change \<0%                      |                     |             |1.0|   |
-|                                                              |                    −30% \<= payment change \< −20%                    |                     |             |0.9|   |
-|                                                              |                        Payment change \< −30%                         |                     |             |0.8|   |
-|                Previous Maximum Days Past Due                |                               0-59 days                               |                     |     1.0     |1.0|   |
-|                                                              |                              60-90 days                               |                     |     1.2     |1.1|   |
-|                                                              |                              91-150 days                              |                     |     1.3     |1.1|   |
-|                                                              |                               151+ days                               |                     |     1.5     |1.1|   |
-|               Refreshed Credit Score for NPLs                |                     Refreshed credit score \<580                      |                     |             |   |1.2|
-|                                                              |                 580 \<= refreshed credit score \<640                  |                     |             |   |1.1|
-|                                                              |                 640 \<= refreshed credit score \<700                  |                     |             |   |1.0|
-|                                                              |                 700 \<= refreshed credit score \<720                  |                     |             |   |0.9|
-|                                                              |                 720 \<= refreshed credit score \<760                  |                     |             |   |0.8|
-|                                                              |                 760 \<= refreshed credit score \<780                  |                     |             |   |0.7|
-|                                                              |                    Refreshed credit score \>= 780                     |                     |             |   |0.5|
+|                         Risk factor                          |                            Value or range                             |Single-family segment|             |             |   |
+|--------------------------------------------------------------|-----------------------------------------------------------------------|---------------------|-------------|-------------|---|
+|                    Performing  <br/>loan                     |                     Non-  <br/>modified  <br/>RPL                     | Modified  <br/>RPL  |     NPL     |             |   |
+|                         Loan Purpose                         |                               Purchase                                |         1.0         |     1.0     |     1.0     |   |
+|                                                              |                           Cashout refinance                           |         1.4         |     1.4     |     1.4     |   |
+|                                                              |                          Rate/term refinance                          |         1.3         |     1.2     |     1.3     |   |
+|                        Occupancy Type                        |                     Owner-occupied or second home                     |         1.0         |     1.0     |     1.0     |1.0|
+|                                                              |                              Investment                               |         1.2         |     1.5     |     1.3     |1.2|
+|                        Property Type                         |                                1-unit                                 |         1.0         |     1.0     |     1.0     |1.0|
+|                                                              |                               2-4 unit                                |         1.4         |     1.4     |     1.3     |1.1|
+|                                                              |                              Condominium                              |         1.1         |     1.0     |     1.0     |1.0|
+|                                                              |                           Manufactured home                           |         1.3         |     1.8     |     1.6     |1.2|
+|                     Origination Channel                      |                                Retail                                 |         1.0         |     1.0     |     1.0     |1.0|
+|                                                              |                                  TPO                                  |         1.1         |     1.1     |     1.1     |1.0|
+|                             DTI                              |                              DTI \<= 25%                              |         0.8         |     0.9     |     0.9     |   |
+|                                                              |                          25% \< DTI \<= 40%                           |         1.0         |     1.0     |     1.0     |   |
+|                                                              |                               DTI \>40%                               |         1.2         |     1.2     |     1.1     |   |
+|                         Product Type                         |                                 FRM30                                 |         1.0         |     1.0     |     1.0     |1.0|
+|                                                              |                                ARM1/1                                 |         1.7         |     1.1     |     1.0     |1.1|
+|                                                              |                                 FRM15                                 |         0.3         |     0.3     |     0.5     |0.5|
+|                                                              |                                 FRM20                                 |         0.6         |     0.6     |     0.5     |0.8|
+|                        Subordination                         |                           No subordination                            |         1.0         |     1.0     |     1.0     |   |
+|                                                              |           30% \< OLTV \<= 60% and 0% \<subordination \<= 5%           |         1.1         |     0.8     |     1.0     |   |
+|                                                              |              30% \< OLTV \<= 60% and subordination \>5%               |         1.5         |     1.1     |     1.2     |   |
+|                                                              |               OLTV \>60% and 0% \<subordination \<= 5%                |         1.1         |     1.2     |     1.1     |   |
+|                                                              |                   OLTV \>60% and subordination \>5%                   |         1.4         |     1.5     |     1.3     |   |
+|                           Loan Age                           |                        Loan age \<= 24 months                         |         1.0         |             |             |   |
+|                                                              |                  24 months \<loan age \<= 36 months                   |        0.95         |             |             |   |
+|                                                              |                  36 months \<loan Age \<= 60 months                   |        0.80         |             |             |   |
+|                                                              |                         Loan age \>60 months                          |        0.75         |             |             |   |
+|                        Cohort Burnout                        |                              No burnout                               |         1.0         |             |             |   |
+|                                                              |                                  Low                                  |         1.2         |             |             |   |
+|                                                              |                                Medium                                 |         1.3         |             |             |   |
+|                                                              |                                 High                                  |         1.4         |             |             |   |
+|                        Interest-only                         |                                 No IO                                 |         1.0         |     1.0     |     1.0     |   |
+|                                                              |                                Yes IO                                 |         1.6         |     1.4     |     1.1     |   |
+|                      Loan Documentation                      |                                 Full                                  |         1.0         |     1.0     |     1.0     |   |
+|                                                              |                              None or low                              |         1.3         |     1.3     |     1.2     |   |
+|                       Streamlined Refi                       |                                  No                                   |         1.0         |     1.0     |     1.0     |   |
+|                                                              |                                  Yes                                  |         1.0         |     1.2     |     1.1     |   |
+|Refreshed Credit Score for Modified RPLs and Non-modified RPLs|Refreshed credit score \<620  <br/>620 \<= refreshed credit score \<640|                     |1.6  <br/>1.3|1.4  <br/>1.2|   |
+|                                                              |                 640 \<= refreshed credit score \<660                  |                     |     1.2     |     1.1     |   |
+|                                                              |                 660 \<= refreshed credit score \<700                  |                     |     1.0     |     1.0     |   |
+|                                                              |                 700 \<= refreshed credit score \<720                  |                     |     0.7     |     0.8     |   |
+|                                                              |                 720 \<= refreshed credit score \<740                  |                     |     0.6     |     0.7     |   |
+|                                                              |                 740 \<= refreshed credit score \<760                  |                     |     0.5     |     0.6     |   |
+|                                                              |                 760 \<= refreshed credit score \<780                  |                     |     0.4     |     0.5     |   |
+|                                                              |                    Refreshed credit score \>= 780                     |                     |     0.3     |     0.4     |   |
+|               Payment Change from Modification               |                         Payment change \>= 0%                         |                     |             |     1.1     |   |
+|                                                              |                     −20% \<= payment change \<0%                      |                     |             |     1.0     |   |
+|                                                              |                    −30% \<= payment change \< −20%                    |                     |             |     0.9     |   |
+|                                                              |                        Payment change \< −30%                         |                     |             |     0.8     |   |
+|                Previous Maximum Days Past Due                |                               0-59 days                               |                     |     1.0     |     1.0     |   |
+|                                                              |                              60-90 days                               |                     |     1.2     |     1.1     |   |
+|                                                              |                              91-150 days                              |                     |     1.3     |     1.1     |   |
+|                                                              |                               151+ days                               |                     |     1.5     |     1.1     |   |
+|               Refreshed Credit Score for NPLs                |                     Refreshed credit score \<580                      |                     |             |             |1.2|
+|                                                              |                 580 \<= refreshed credit score \<640                  |                     |             |             |1.1|
+|                                                              |                 640 \<= refreshed credit score \<700                  |                     |             |             |1.0|
+|                                                              |                 700 \<= refreshed credit score \<720                  |                     |             |             |0.9|
+|                                                              |                 720 \<= refreshed credit score \<760                  |                     |             |             |0.8|
+|                                                              |                 760 \<= refreshed credit score \<780                  |                     |             |             |0.7|
+|                                                              |                    Refreshed credit score \>= 780                     |                     |             |             |0.5|
 
 (e) *Credit enhancement multiplier*—(1) *Amount*—(i) *In general.* The adjusted credit enhancement multiplier for a single-family mortgage exposure that is subject to loan-level credit enhancement is equal to 1.0 minus the product of:
 

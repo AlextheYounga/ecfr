@@ -1,0 +1,3 @@
+##### § 1253.10 Public disclosure. #####
+
+In addition to information disclosed in the public notice on a new product, FHFA will make public information related to the Director's determinations on new activity and new product submissions within a reasonable time period after the end of the calendar year during which either Enterprise filed such a submission. Any disclosure under this paragraph will omit any confidential and proprietary information not previously disclosed as part of a public notice on a new product.

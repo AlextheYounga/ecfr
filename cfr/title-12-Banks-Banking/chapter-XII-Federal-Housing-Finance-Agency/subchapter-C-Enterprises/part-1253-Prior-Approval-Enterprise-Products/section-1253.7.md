@@ -1,17 +1,13 @@
-##### § 1253.7 Failure to comply. #####
+##### § 1253.7 Temporary approval of a new product. #####
 
-(a) Unless the Director otherwise informs the Enterprise in writing, an Enterprise must cease offering a new product or engaging in a new activity immediately upon discovering or receiving notice from the Director that the Enterprise has—
+(a) The Director may approve a new product without first seeking public comment as described in § 1253.6 if:
 
-(1) Offered a new product or commenced a new activity without submitting a Notice;
+(1) In addition to the information required by § 1253.9(b), the Enterprise submits a specific request for temporary approval that describes the exigent circumstances that make the delay associated with a 30-day public comment period contrary to the public interest and the Director determines that exigent circumstances exist and that delay associated with first seeking public comment would be contrary to the public interest; or
 
-(2) Offered a new product or commenced a new activity after submitting a Notice but before approval is granted, and before the expiration of the time provided for the Director to make a determination under §§ 1253.3 and 1253.4;
+(2) Notwithstanding the absence of a request by the Enterprise for temporary approval, the Director determines on the Director's own initiative that there are exigent circumstances that make the delay associated with first seeking public comment contrary to the public interest.
 
-(3) Offered a new product after the Director disapproved it; or
+(b) The Director may impose terms, conditions, or limitations on the temporary approval to ensure that the new product offering is consistent with the factors in § 1253.6(d).
 
-(4) Failed to adhere to any terms, conditions or limitations established by the Director in his or her approval of a new product or activity.
+(c) If the Director grants temporary approval, the Director will notify the Enterprise in writing of the Director's decision and include the period for which it is effective and any terms, conditions or limitations. Upon granting of temporary approval, FHFA will also publish the request for public comment to begin the process for permanent approval in accordance with § 1253.6.
 
-(b) Within five (5) business-days of the discovery or notice of any of the events described in paragraph (a) of this section, the Enterprise must provide the Director a written description of the failure or failures of controls that resulted in the offering of the new product or commencement of the new activity in contravention of this regulation, and the steps that the Enterprise has taken or will take to remediate the control failures. The Enterprise must provide the board of directors of the Enterprise and chief risk officer, internal audit, and compliance officer of the Enterprise with a copy of the written description on the same date the description is provided to the Director of FHFA.
-
-(c) In the event that the Enterprise elects to resubmit the Notice of a new product or new activity that was undertaken in contravention of this regulation, the resubmission must provide sufficient documentation of the effectiveness of the remediation efforts described in paragraph (b) of this section.
-
-(d) Failure to comply with paragraphs (a) or (b) of this section above may result in FHFA's taking enforcement action, including pursuant to 12 U.S.C. 4631 (orders to cease and desist), 12 U.S.C. 4632 (temporary orders to cease and desist), and 12 U.S.C. 4636 (civil money penalties).
+(d) If the Director denies a request for temporary approval, the Director will notify the Enterprise in writing of the Director's decision and will evaluate the new product in accordance with this section.

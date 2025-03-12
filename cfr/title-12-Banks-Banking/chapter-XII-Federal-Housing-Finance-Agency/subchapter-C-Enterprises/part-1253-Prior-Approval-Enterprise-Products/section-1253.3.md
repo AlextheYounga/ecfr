@@ -1,9 +1,33 @@
-##### § 1253.3 Notice of new activity. #####
+##### § 1253.3 New activity description and exclusions. #####
 
-(a) Before commencing a new activity, an Enterprise must submit a Notice of New Activity (Notice) to the FHFA, and either receive a determination that the new activity is not a new product, await passage of the 15 business-day period as described in paragraph (d) of this section, or, where FHFA determines the new activity to be a new product, await approval of the new product under § 1253.4. In addition, for any new activity that an Enterprise seeks to engage in which FHFA had previously approved in accordance with this part for the other Enterprise, or in which the other Enterprise had engaged continuously since prior to July 30, 2008, the Enterprise must submit a Notice to FHFA. In support of its Notice, the Enterprise shall submit information sufficient to allow the Director to make a determination on the Notice pursuant to section 1321 of the Safety and Soundness Act (12 U.S.C. 4541), as amended, including any information required by FHFA by regulation or otherwise. The Enterprise shall provide a thorough, meaningful, complete and specific description of the new activity such that the public will be able to provide fully informed comment on the new activity if FHFA determines the new activity to be a new product. Such information shall include that contained in the FHFA Notice Form and the Instructions for the FHFA Notice of New Activity Form (Notice Form Instructions) that appear in the appendix of this part. The Notice Form and Notice Form Instructions may be amended from time to time by written direction of the Director. Requests for confidential treatment for any portion of an Enterprise's submission must be made consistent with § 1253.5.
+(a) A new activity is any of the following if not engaged in by the Enterprise on or before February 27, 2023:
 
-(b) FHFA will evaluate a Notice to establish whether the submission contains sufficient information for FHFA to make a determination whether the new activity is a new product subject to prior approval. Upon establishing that the Notice contains sufficient information, FHFA shall deem the submission complete and “received” for purposes of section 1321(e)(2)(B) of the Safety and Soundness Act (12 U.S.C. 4541(e)(2)(B)), and shall notify the Enterprise accordingly.
+(1) An activity;
 
-(c) No later than 15 business-days after the Notice is deemed completed and “received” for purposes of section 1321(e)(2)(B) of the Safety and Soundness Act (12 U.S.C. 4541(e)(2)(B)), the Director will make a written determination on the Notice, and shall notify the Enterprise accordingly. The Director may also approve the new activity subject to such terms, conditions, or limitations on the Enterprise's engagement in the new activity as the Director determines to be appropriate.
+(2) An enhancement, alteration, or modification to an activity that—
 
-(d) If the Director fails to make a determination within the 15 business-day period specified in paragraph (c) of this section, the Enterprise may commence the new activity. The Director's failure to make a determination within the 15-day period does not limit or restrict the Director's safety and soundness authority or the authority of the Director to review the new activity to determine whether the activity is consistent with the statutory mission of the Enterprise.
+(i) Requires a new resource, type of data, policy, modification to an existing policy, process, or infrastructure;
+
+(ii) Expands the scope or increases the level of credit risk, market risk, or operational risk to the Enterprise; or
+
+(iii) Involves a new category of borrower, investor, counterparty, or collateral;
+
+(3) A pilot or a modification to the volume or duration of a pilot, including a modification to a pilot that commenced before February 27, 2023; or
+
+(4) An activity that results from a pilot (including from a pilot that commenced before February 27, 2023) or an enhancement, alteration, or modification (as described by paragraphs (a)(2)(i) through (iii) of this section) to an activity that results from a pilot (including from a pilot that commenced before February 27, 2023).
+
+(b) A new activity excludes:
+
+(1) An enhancement, alteration, or modification (as described by paragraphs (a)(2)(i) through (iii) of this section) to the technology, operating system, or software to operate the automated loan underwriting system of an Enterprise that was in existence as of July 30, 2008.
+
+(2) An enhancement, alteration, or modification (as described by paragraphs (a)(2)(i) through (iii) of this section) to the mortgage terms and conditions or mortgage underwriting criteria relating to the mortgages that are purchased or guaranteed by an Enterprise, provided that such enhancement, alteration, or modification does not alter the underlying transaction so as to include services or financing, other than residential mortgage financing.
+
+(3) Pursuant to the requirements of § 1253.8, any activity undertaken by an Enterprise that is substantially similar to—
+
+(i) The automated loan underwriting system of an Enterprise that was in existence as of July 30, 2008, including or any enhancement, alteration, or modification to the technology, operating system, or software to operate the automated loan underwriting system;
+
+(ii) Any enhancement, alteration, or modification to mortgage terms and conditions or mortgage underwriting criteria relating to the mortgages that are purchased or guaranteed by an Enterprise, provided that such activity does not alter the underlying transaction so as to include services or financing, other than residential mortgage financing; and
+
+(iii) A new product that the Director has approved for either Enterprise under § 1253.6(a) through (f) or § 1253.7 or a new product that is otherwise available to either Enterprise under § 1253.6(h).
+
+(4) Any Enterprise business practice, transaction, or conduct performed solely to facilitate the administration of an Enterprise's internal affairs.
