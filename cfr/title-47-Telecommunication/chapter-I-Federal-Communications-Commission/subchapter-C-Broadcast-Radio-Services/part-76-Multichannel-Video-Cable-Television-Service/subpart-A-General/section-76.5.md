@@ -1,5 +1,7 @@
 ##### § 76.5 Definitions. #####
 
+Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
+
 (a) *Cable system or cable television system.* A facility consisting of a set of closed transmission paths and associated signal generation, reception, and control equipment that is designed to provide cable service which includes video programming and which is provided to multiple subscribers within a community, but such term does not include:
 
 (1) A facility that services only to retransmit the television signals of one or more television broadcast stations;

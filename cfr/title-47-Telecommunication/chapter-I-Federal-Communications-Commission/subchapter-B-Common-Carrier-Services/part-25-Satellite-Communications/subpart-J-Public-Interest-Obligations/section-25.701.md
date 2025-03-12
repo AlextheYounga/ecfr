@@ -1,5 +1,7 @@
 ##### § 25.701 Other DBS Public interest obligations. #####
 
+Link to an amendment published at 87 FR 7754, Feb. 10, 2022.
+
 (a) DBS providers are subject to the public interest obligations set forth in paragraphs (b), (c), (d), (e) and (f) of this section. As used in this section, DBS providers are any of the following:
 
 (1) Entities licensed to operate satellites in the 12.2 to 12.7 GHz DBS frequency bands; or

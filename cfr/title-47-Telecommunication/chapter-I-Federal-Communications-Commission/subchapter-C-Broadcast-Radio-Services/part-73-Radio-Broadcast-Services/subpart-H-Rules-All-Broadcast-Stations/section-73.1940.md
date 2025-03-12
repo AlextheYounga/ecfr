@@ -1,5 +1,7 @@
 ##### § 73.1940 Legally qualified candidates for public office. #####
 
+Link to an amendment published at 87 FR 7755, Feb. 10, 2022.
+
 (a) A legally qualified candidate for public office is any person who:
 
 (1) Has publicly announced his or her intention to run for nomination or office;

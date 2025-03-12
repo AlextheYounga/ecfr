@@ -1,6 +1,6 @@
 ##### § 391.64 Grandfathering for certain drivers who participated in a vision waiver study program. #####
 
-Link to an amendment published at 87 FR 3419, Jan. 21, 2022.
+Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to a correction published at 87 FR 7756, Feb. 10, 2022.
 
 (a) [Reserved]
 
