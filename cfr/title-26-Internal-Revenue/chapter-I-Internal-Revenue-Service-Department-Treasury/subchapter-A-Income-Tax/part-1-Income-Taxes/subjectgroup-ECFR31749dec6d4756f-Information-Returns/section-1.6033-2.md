@@ -84,7 +84,7 @@
 
 Such information need be provided only with respect to those local organizations which are not excepted from filing under the provisions of paragraph (g) of this section. A central or parent organization shall indicate whether it has provided such information in the manner described in subdivision (i) or in subdivision (ii) of this subparagraph, and may not change the manner in which it provides such information without the consent of the Commissioner.
 
-(e) [Reserved]. For further guidance, see § 1.6033-2T(e).
+(e) *Time and place for filing.* The annual return required by this section shall be filed on or before the 15th day of the fifth month following the close of the period for which the return is required to be filed. The annual return on Form 1065 required to be filed by a religious or apostolic association or corporation shall be filed on or before the date prescribed by section 6072(b). Each such return shall be filed in accordance with the instructions applicable thereto.
 
 (f) *Penalties and additions to tax.* For penalties and additions to tax for failure to file a return and filing a false or fraudulent return, see sections 6652, 7203, 7206, and 7207.
 
@@ -172,12 +172,6 @@ Example 1.Organization A is described in sections 501(c)(3) and 509(a)(2) and is
 
 (j) *Unrelated business tax returns.* In addition to the foregoing requirements of this section, certain organizations otherwise exempt from tax under section 501(a) which are subject to tax on unrelated business taxable income are also required to file returns on Form 990-T. See paragraph (e) of § 1.6012-2 and paragraph (a)(5) of § 1.6012-3 for requirements with respect to such returns.
 
-(k) *Effective/applicability date* - (1) *Generally.* The provisions of this section shall apply with respect to returns filed for taxable years beginning after December 31, 1969.
-
-(2) The applicability of paragraphs (g)(1)(iii), (g)(1)(iv), and (g)(6) of this section shall be limited to returns filed for taxable years ending after August 17, 2006. For returns filed for taxable years ending on or before August 17, 2006, §§ 1.6033-(2)(g)(1)(iii), 1.6033-(2)(g)(1)(iv), and 1.6033-(2)(g)(6) (as contained in 26 CFR part 1 revised April 1, 2006) shall apply.
-
-(3) The applicability of paragraphs (a)(2)(ii)(*g*) and (a)(2)(ii)(*h*) of this section shall be limited to returns filed on or after January 1, 2008. For returns filed before January 1, 2008, §§ 1.6033-(a)(2)(ii)(*g*) and 1.6033-(2)(a)(2)(ii)(*h*) (as contained in 26 CFR part 1 revised April 1, 2008) shall apply.
-
-(4) The applicability of paragraph (a)(2)(ii)(*l*) of this section shall be limited to returns filed for taxable years ending after December 29, 2014.
+(k) *Applicability date.* This section applies to returns filed on or after January 30, 2020. Section 1.6033-2T (as contained in 26 CFR part 1, revised April 2019) applies to returns filed before January 30, 2020.
 
 [T.D. 7122, 36 FR 11026, June 8, 1971]Editorial Note:For Federal Register citations affecting § 1.6033-2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

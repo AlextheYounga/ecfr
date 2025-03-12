@@ -56,14 +56,10 @@
 
 (e) *Procedural requirements* - (1) *Place for filing.* The return of a partnership must be filed with the service center prescribed in the relevant IRS revenue procedure, publication, form, or instructions to the form (see § 601.601(d)(2)).
 
-(2) [Reserved]. For further guidance, see § 1.6031(a)-1T(e)(2).
+(2) *Time for filing.* The return of a partnership must be filed on or before the date prescribed by section 6072(b).
 
 (3) *Magnetic media filing.* For magnetic media filing requirements with respect to partnerships, see section 6011(e)(2) and the regulations thereunder.
 
-(f) *Effective dates.* This section applies to taxable years of a partnership beginning after December 31, 1999, except that -
+(f) *Applicability date.* This section applies to returns filed on or after January 30, 2020. Section 1.6031(a)-1T (as contained in 26 CFR part 1, revised April 2019) applies to returns filed before January 30, 2020.
 
-(1) Paragraph (b)(3) of this section applies to taxable years of a foreign partnership beginning after December 31, 2000; and
-
-(2) Paragraph (a)(3)(ii) of this section applies to taxable years of a partnership beginning on or after November 5, 2003.
-
-[T.D. 8841, 64 FR 61500, Nov. 12, 1999, as amended by T.D. 9000, 67 FR 41328, June 18, 2002; T.D. 9094, 68 FR 63734, Nov. 10, 2003; 68 FR 70584, Dec. 18, 2003; T.D. 9123, 69 FR 24078, May 3, 2004; T.D. 9177, 70 FR 7176, Feb. 11, 2005; T.D. 9821, 82 FR 33444, July 20, 2017]
+[T.D. 8841, 64 FR 61500, Nov. 12, 1999, as amended by T.D. 9000, 67 FR 41328, June 18, 2002; T.D. 9094, 68 FR 63734, Nov. 10, 2003; 68 FR 70584, Dec. 18, 2003; T.D. 9123, 69 FR 24078, May 3, 2004; T.D. 9177, 70 FR 7176, Feb. 11, 2005; T.D. 9821, 82 FR 33444, July 20, 2017; T.D. 9892, 85 FR 5324, Jan. 30, 2020]

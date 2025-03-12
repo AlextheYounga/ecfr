@@ -42,6 +42,8 @@
 
 (d) *Panels.* The Board assigns each case to a panel of three judges, one of whom presides. The presiding judge sets the case schedule, oversees discovery, and conducts conferences, hearings, and other proceedings. The presiding judge may without participation by other panel members decide any appeal under the small claims procedure of Rule 52, any nondispositive motion, or any petition, and may dismiss a case as permitted by Rule 12(c) (48 CFR 6101.12(c)). The Board decides all other matters by majority vote of a panel unless the full Board decides a matter under Rule 28 (48 CFR 6101.28). Only panel and full Board decisions are precedential.
 
-(e) *Location and addresses.* The Board is physically located at 1800 M Street NW, 6th Floor, Washington, DC 20036. The mailing address is 1800 F Street NW, Washington, DC 20405. The Clerk's telephone number is (202) 606-8800. The Clerk's fax number is (202) 606-0019. The Clerk's email address for efiling is *cbca.efile@cbca.gov.* The Board's website is *http://www.cbca.gov.*
+(e) *Location and addresses.* The Board's physical and mailing address is 1800 M Street NW, 6th Floor, Washington, DC 20036. The mailing address is 1800 F Street NW, Washington, DC 20405. The Clerk's telephone number is (202) 606-8800. The Clerk's fax number is (202) 606-0019. The Clerk's email address for efiling is *cbca.efile@cbca.gov.* The Board's website is *http://www.cbca.gov.*
 
 (f) *Clerk's office hours.* The Clerk's office is open to the public and for physical deliveries during business hours (Rule 1(b) (48 CFR 6101.1(b)). Efilings received after midnight are considered filed the next business day. The Clerk's office is closed when the Board's physical address is closed for any reason, including any closure of the Federal Government in the Washington, DC, metropolitan area.
+
+[83 FR 41010, Aug. 17, 2018, as amended at 85 FR 5335, Jan. 30, 2020]

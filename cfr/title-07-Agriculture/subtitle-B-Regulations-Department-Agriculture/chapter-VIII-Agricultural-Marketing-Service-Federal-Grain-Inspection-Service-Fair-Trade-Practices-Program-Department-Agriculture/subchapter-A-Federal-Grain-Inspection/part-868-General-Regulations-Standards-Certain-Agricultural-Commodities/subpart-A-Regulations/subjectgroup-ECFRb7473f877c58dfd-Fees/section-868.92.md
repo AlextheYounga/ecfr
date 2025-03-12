@@ -1,24 +1,22 @@
 ##### § 868.92 Explanation of service fees and additional fees. #####
 
-(a) *Costs included in the fees.* Fees for official services in §§ 868.90 and 868.91 include -
+(a) *Costs included in the fees.* Fees for official services in §§ 868.90 and 868.91 include—
 
 (1) The cost of performing the service and related supervision and administrative costs;
 
-(2) The cost of per diem, subsistence, mileage, or commercial transportation to perform the service for rice inspection only in § 868.91, table 1. See § 868.90, table 1, footnote 1, for fees for inspection of commodities other than rice.
+(2) The cost of first-class mail service;
 
-(3) The cost of first-class mail service;
+(3) The cost of overtime and premium pay; and
 
-(4) The cost of overtime and premium pay; and
+(4) The cost of certification except as provided in § 868.92(c).
 
-(5) The cost of certification except as provided in § 868.92(c).
-
-(b) *Computing hourly rates.* Hourly fees will be assessed in quarter hour increments for -
+(b) *Computing hourly rates.* Hourly fees will be assessed in quarter hour increments for—
 
 (1) Travel from the FGIS field office or assigned duty location to the service point and return; and
 
 (2) The performance of the requested service, less mealtime.
 
-(c) *Additional fees.* Fees in addition to the applicable hourly or unit fee will be assessed when -
+(c) *Additional fees.* Fees in addition to the applicable hourly or unit fee will be assessed when—
 
 (1) An applicant requests more than the original and three copies of a certificate;
 
@@ -26,7 +24,7 @@
 
 (3) An applicant requests the use of express-type mail or courier service.
 
-(d) *Application of fees when service is delayed by the applicant.* Hourly fees will be assessed when -
+(d) *Application of fees when service is delayed by the applicant.* Hourly fees will be assessed when—
 
 (1) Service has been requested at a specified location;
 
@@ -40,8 +38,8 @@
 
 (g) *Advance payment.* As necessary, the Administrator may require that fees shall be paid in advance of the performance of the requested service. Any fees paid in excess of the amount due shall be used to offset future billings, unless a request for a refund is made by the applicant.
 
-(h) *Time and form of payment* - (1) *Fees for Federal inspection service.* Bills for fees assessed under the regulations for official services performed by FGIS shall be paid by check, draft, or money order, payable to U.S. Department of Agriculture, Federal Grain Inspection Service.
+(h) *Time and form of payment*—(1) *Fees for Federal inspection service.* Bills for fees assessed under the regulations for official services performed by FGIS shall be paid by check, draft, or money order, payable to U.S. Department of Agriculture, Federal Grain Inspection Service.
 
 (2) *Fees for cooperator inspection service.* Fees for inspection services provided by a cooperator shall be paid by the applicant to the cooperator in accordance with the cooperator's fee schedule.
 
-[53 FR 3722, Feb. 9, 1988. Redesignated and amended at 60 FR 16364, 16365, Mar. 30, 1995; 61 FR 66536, Dec. 18, 1996]
+[53 FR 3722, Feb. 9, 1988. Redesignated and amended at 60 FR 16364, 16365, Mar. 30, 1995; 61 FR 66536, Dec. 18, 1996; 85 FR 5302, Jan. 30, 2020]
