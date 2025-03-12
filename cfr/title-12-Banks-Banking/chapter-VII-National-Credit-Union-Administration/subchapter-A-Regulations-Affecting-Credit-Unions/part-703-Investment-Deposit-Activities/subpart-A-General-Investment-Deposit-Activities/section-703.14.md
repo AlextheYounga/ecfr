@@ -1,6 +1,6 @@
 ##### § 703.14 Permissible investments. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 (a) *Variable rate investment.* A federal credit union may invest in a variable rate investment, as long as the index is tied to domestic interest rates. Except in the case of Treasury Inflation Protected Securities, the variable rate investment cannot, for example, be tied to foreign currencies, foreign interest rates, domestic or foreign commodity prices, equity prices, or inflation rates. For purposes of this part, the U.S. dollar-denominated London Interbank Offered Rate (LIBOR) is a domestic interest rate.
 

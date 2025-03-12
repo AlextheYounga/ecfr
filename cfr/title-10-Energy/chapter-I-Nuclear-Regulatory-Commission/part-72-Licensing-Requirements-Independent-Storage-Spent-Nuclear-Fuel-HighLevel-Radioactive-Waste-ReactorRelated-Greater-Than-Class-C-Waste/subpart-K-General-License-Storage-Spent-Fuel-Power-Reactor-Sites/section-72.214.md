@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 44600, Aug. 13, 2021.Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -306,17 +306,27 @@ Model Number: TN-68.
 
 Certificate Number: 1029.
 
-Initial Certificate Effective Date: February 5, 2003.
+Initial Certificate Effective Date: February 5, 2003, superseded by Renewed Initial.
 
-Amendment Number 1 Effective Date: May 16, 2005.
+Certificate Effective Date: October 27, 2021.
+
+Amendment Number 1 Effective Date: May 16, 2005, superseded by Renewed.
+
+Amendment Number 1 Effective Date: October 27, 2021.
 
 Amendment Number 2 Effective Date: Amendment not issued by the NRC.
 
-Amendment Number 3 Effective Date: February 23, 2015.
+Amendment Number 3 Effective Date: February 23, 2015, superseded by Renewed.
 
-Amendment Number 4 Effective Date: March 12, 2019.
+Amendment Number 3 Effective Date: October 27, 2021.
 
-SAR Submitted by: Transnuclear, Inc.
+Amendment Number 4 Effective Date: March 12, 2019, superseded by Renewed.
+
+Amendment Number 4 Effective Date: October 27, 2021.
+
+SAR Submitted by: Transnuclear, Inc., now TN Americas, LLC.
+
+Renewal SAR Submitted by: TN Americas, LLC.
 
 SAR Title: Final Safety Analysis Report for the Standardized Advanced NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel.
 
@@ -324,7 +334,9 @@ Docket Number: 72-1029.
 
 Certificate Expiration Date: February 5, 2023.
 
-Model Number: Standardized Advanced NUHOMS®−24PT1, −24PT4, and −32PTH2.
+Renewed Certificate Expiration Date: February 5, 2063.
+
+Model Number: Standardized Advanced NUHOMS®-24PT1, -24PT4, and -32PTH2.
 
 Certificate Number: 1030.
 

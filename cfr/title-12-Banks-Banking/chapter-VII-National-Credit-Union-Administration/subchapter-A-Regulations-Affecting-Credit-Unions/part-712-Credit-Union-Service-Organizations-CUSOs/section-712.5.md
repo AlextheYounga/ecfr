@@ -1,5 +1,7 @@
 ##### § 712.5 What activities and services are preapproved for CUSOs? #####
 
+Link to an amendment published at 86 FR 59301, Oct. 27, 2021.
+
 NCUA may at any time, based upon supervisory, legal, or safety and soundness reasons, limit any CUSO activities or services, or refuse to permit any CUSO activities or services. Otherwise, an FCU may invest in, loan to, and/or contract with only those CUSOs that are sufficiently bonded or insured for their specific operations and engaged in the preapproved activities and services related to the routine daily operations of credit unions. The specific activities listed within each preapproved category are provided in this section as illustrations of activities permissible under the particular category, not as an exclusive or exhaustive list.
 
 (a) *Checking and currency services:*

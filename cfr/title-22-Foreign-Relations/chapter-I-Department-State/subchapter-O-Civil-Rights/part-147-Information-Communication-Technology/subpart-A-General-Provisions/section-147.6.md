@@ -1,7 +1,6 @@
 ##### § 147.6 Information and communication technology requirements. #####
 
-(a) *Development, procurement, maintenance, or use of CIT.* When developing, procuring, maintaining, or using ICT, the Department shall ensure, unless an undue burden would be imposed on the Department, that the CIT
-allows, regardless of the type of medium of the technology, that -
+(a) *Development, procurement, maintenance, or use of ICT.* When developing, procuring, maintaining, or using ICT, the Department shall ensure, unless an undue burden would be imposed on the Department, that the ICT allows, regardless of the type of medium of the technology, that—
 
 (1) Individuals with disabilities who are Department employees have access to and use of information and data that is comparable to the access to and use of the information and data by Department employees who are not individuals with disabilities; and
 

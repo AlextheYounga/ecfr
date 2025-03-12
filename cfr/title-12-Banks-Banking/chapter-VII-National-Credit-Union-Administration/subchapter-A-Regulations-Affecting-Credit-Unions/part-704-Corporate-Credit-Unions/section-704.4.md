@@ -1,5 +1,7 @@
 ##### § 704.4 Prompt corrective action. #####
 
+Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
+
 (a) *Purpose.* The principal purpose of this section is to define, for corporate credit unions that are not adequately capitalized, the capital measures and capital levels that are used for determining appropriate supervisory actions. This section establishes procedures for submission and review of capital restoration plans and for issuance and review of capital directives, orders, and other supervisory directives.
 
 (b) *Scope.* This section applies to corporate credit unions, including officers, directors, and employees.
