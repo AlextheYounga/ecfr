@@ -1,5 +1,7 @@
 ##### § 334.390 Atlantic Ocean south of entrance to Chesapeake Bay; firing range. #####
 
+Link to an amendment published at 84 FR 33850, July 16, 2019.
+
 (a) *The danger zone.* A section extending seaward for a distance of 12,000 yards between two radial lines bearing 030° True and 083° True, respectively, from a point on shore at latitude 36°46′48″ N, longitude 75°57′24″ W; and an adjacent sector extending seaward for a distance of 15 nautical miles between two radial lines bearing 083° True and 150° True, respectively, from the same shore position.
 
 (b) *The regulations.* (1) Vessels shall proceed through the area with caution and shall remain therein no longer than necessary for purposes of transit.

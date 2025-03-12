@@ -1,5 +1,7 @@
 ##### 501.105-1 Publication and code arrangement. #####
 
+Link to an amendment published at 84 FR 33860, July 16, 2019.
+
 The GSAR is published in the following sources:
 
 (a) Daily issue of the Federal Register.

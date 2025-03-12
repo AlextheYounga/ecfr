@@ -1,6 +1,6 @@
 ##### 252.215-7010 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data. #####
 
-Link to an amendment published at 84 FR 30950, June 28, 2019.
+Link to an amendment published at 84 FR 30950, June 28, 2019.Link to a correction published at 84 FR 33858, July 16, 2019.
 
 *Basic.* As prescribed in 215.408(5)(i) and (5)(i)(A), use the following provision:
 

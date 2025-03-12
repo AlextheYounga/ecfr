@@ -1,6 +1,6 @@
 ##### 252.215-7008 Only One Offer. #####
 
-Link to an amendment published at 84 FR 30950, June 28, 2019.
+Link to an amendment published at 84 FR 30950, June 28, 2019.Link to a correction published at 84 FR 33858, July 16, 2019.
 
 As prescribed at 215.408(3), use the following provision:
 

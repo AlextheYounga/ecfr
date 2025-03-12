@@ -62,4 +62,14 @@
 
 (3) *Additional limitation on eligibility for asylum.* For applications filed after November 9, 2018, an alien shall be ineligible for asylum if the alien is subject to a presidential proclamation or other presidential order suspending or limiting the entry of aliens along the southern border with Mexico that is issued pursuant to subsection 212(f) or 215(a)(1) of the Act on or after November 9, 2018 and the alien enters the United States after the effective date of the proclamation or order contrary to the terms of the proclamation or order. This limitation on eligibility does not apply if the proclamation or order expressly provides that it does not affect eligibility for asylum, or expressly provides for a waiver or exception that makes the suspension or limitation inapplicable to the alien.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018]
+(4) *Additional limitation on eligibility for asylum.* Notwithstanding the provisions of § 208.15, any alien who enters, attempts to enter, or arrives in the United States across the southern land border on or after July 16, 2019, after transiting through at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence en route to the United States, shall be found ineligible for asylum unless:
+
+(i) The alien demonstrates that he or she applied for protection from persecution or torture in at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence through which the alien transited en route to the United States, and the alien received a final judgment denying the alien protection in such country;
+
+(ii) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
+
+(iii) The only countries through which the alien transited en route to the United States were, at the time of the transit, not parties to the 1951 United Nations Convention relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, or the United Nations Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.
+
+(5) *Non-binding determinations.* Determinations made with respect to paragraph (c)(4)(ii) of this section are not binding on Federal departments or agencies in subsequent determinations of eligibility for T or U nonimmigrant status under section 101(a)(15)(T) or (U) of the INA or for benefits or services under 22 U.S.C. 7105 or 8 U.S.C. 1641(c)(4).
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33843, July 16, 2019]
