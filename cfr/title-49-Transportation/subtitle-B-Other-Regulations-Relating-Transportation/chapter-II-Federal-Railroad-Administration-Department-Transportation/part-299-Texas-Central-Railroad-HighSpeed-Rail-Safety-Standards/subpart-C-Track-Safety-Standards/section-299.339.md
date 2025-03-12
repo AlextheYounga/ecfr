@@ -1,0 +1,3 @@
+##### § 299.339 Daily sweeper inspection. #####
+
+A sweeper vehicle shall be operated each morning after the overnight maintenance over all tracks except track Class H2 in stations, prior to commencing revenue service over that track. The sweeper vehicle shall operate at a speed no greater than 120 km/h (75 mph) to conduct a visual inspection to ensure the right-of-way is clear of obstacles within the clearance envelope and to identify conditions that could cause accidents, and shall have a minimum clearance of no less than 35 mm above top of rail.

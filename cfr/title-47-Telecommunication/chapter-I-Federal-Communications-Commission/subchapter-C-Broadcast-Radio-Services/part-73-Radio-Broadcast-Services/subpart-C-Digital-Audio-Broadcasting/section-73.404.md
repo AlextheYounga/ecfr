@@ -1,5 +1,7 @@
 ##### § 73.404 Interim hybrid IBOC DAB operation. #####
 
+Link to an amendment published at 85 FR 78027, Dec. 3, 2020.
+
 (a) The licensee of an AM or FM station, or the permittee of a new AM or FM station which has commenced program test operation pursuant to § 73.1620, may commence interim hybrid IBOC DAB operation with digital facilities which conform to the technical specifications specified for hybrid DAB operation in the *First Report and Order* in MM Docket No. 99-325, as revised in the Media Bureau's subsequent *Order* in MM Docket No. 99-325. FM stations are permitted to operate with hybrid digital effective radiated power equal to one percent (−20 decibels below carrier (dBc)) of authorized analog effective radiated power and may operate with up to ten percent (−10 dBc) of authorized analog effective radiated power in accordance with the procedures set forth in the Media Bureau's *Order* in MM Docket No. 99-325. An AM or FM station may transmit IBOC signals during all hours for which the station is licensed to broadcast.
 
 (b) In situations where interference to other stations is anticipated or actually occurs, AM licensees may, upon notification to the Commission, reduce the power of the primary DAB sidebands by up to 6 dB. Any greater reduction of sideband power requires prior authority from the Commission via the filing of a request for special temporary authority or an informal letter request for modification of license.

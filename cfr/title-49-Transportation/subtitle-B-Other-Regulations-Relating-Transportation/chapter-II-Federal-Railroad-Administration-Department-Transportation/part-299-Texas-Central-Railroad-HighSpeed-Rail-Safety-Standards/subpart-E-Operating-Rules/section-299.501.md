@@ -1,0 +1,3 @@
+##### § 299.501 Purpose. #####
+
+Through the requirements of this subpart, FRA learns the condition of the operating rules and practices in use by the railroad. The rules and practices covered by this subpart include the procedures for instruction and testing of all employees involved with the movement of rail vehicles, including drivers, on-board attendants, station platform attendants, general control center staff, and all maintenance staff, which are necessary to ensure that they possess the requisite skill and knowledge of the rules and operating practices to maintain the safety of the system.

@@ -454,7 +454,7 @@ Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
 
 (68) ISO 13736:2008(E), Determination of flash point - Abel closed-cup method, Second Edition, 2008-09-15, into § 173.120.
 
-(69) [Reserved]
+(69) ISO 14246:2014(E), Gas cylinders - Cylinder valves - Manufacturing tests and examination, Second Edition, 2014-06-15, into § 178.71.
 
 (70) ISO 16111:2008(E), Transportable gas storage devices - Hydrogen absorbed in reversible metal hydride, First Edition, 2008-11-15, into §§ 173.301b; 173.311; 178.71.
 
@@ -608,4 +608,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020]

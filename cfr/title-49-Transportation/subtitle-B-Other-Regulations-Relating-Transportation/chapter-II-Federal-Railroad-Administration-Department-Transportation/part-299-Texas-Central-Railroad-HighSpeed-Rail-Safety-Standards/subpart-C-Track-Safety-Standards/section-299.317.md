@@ -1,0 +1,5 @@
+##### § 299.317 Track strength. #####
+
+(a) Track shall have a sufficient vertical strength to withstand the maximum vehicle loads generated at maximum permissible trainset speeds, cant deficiencies and surface limitations. For purposes of this section, vertical track strength is defined as the track capacity to constrain vertical deformations so that the track shall, under maximum load, remain in compliance with the track performance and geometry requirements of this part.
+
+(b) Track shall have sufficient lateral strength to withstand the maximum thermal and vehicle loads generated at maximum permissible trainset speeds, cant deficiencies and lateral alignment limitations. For purposes of this section lateral track strength is defined as the track capacity to constrain lateral deformations so that track shall, under maximum load, remain in compliance with the track performance and geometry requirements of this part.
