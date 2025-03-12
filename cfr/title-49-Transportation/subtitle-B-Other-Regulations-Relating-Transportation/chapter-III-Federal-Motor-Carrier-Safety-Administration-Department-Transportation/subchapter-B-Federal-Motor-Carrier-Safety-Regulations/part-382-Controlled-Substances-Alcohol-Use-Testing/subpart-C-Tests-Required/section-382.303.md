@@ -22,8 +22,6 @@
 
 (c) The following table notes when a post-accident test is required to be conducted by paragraphs (a)(1), (a)(2), (b)(1), and (b)(2) of this section:
 
-Table for § 382.303(a) and (b)
-
 |                      Type of accident involved                       |Citation issued to the CMV driver|Test must be performed by employer|
 |----------------------------------------------------------------------|---------------------------------|----------------------------------|
 |                          i. Human fatality                           |          YES  <br/>NO           |          YES  <br/>YES           |
@@ -38,9 +36,9 @@ Table for § 382.303(a) and (b)
 
 (f) An employer shall provide drivers with necessary post-accident information, procedures and instructions, prior to the driver operating a commercial motor vehicle, so that drivers will be able to comply with the requirements of this section.
 
-(g)(1) The results of a breath or blood test for the use of alcohol, conducted by Federal, State, or local officials having independent authority for the test, shall be considered to meet the requirements of this section, provided such tests conform to the applicable Federal, State or local alcohol testing requirements, and that the results of the tests are obtained by the employer.
+(g)(1) The results of a breath or blood test for the use of alcohol, conducted by Federal, State, or local law enforcement or public safety officials having independent authority for the test, shall be considered to meet the requirements of this section, provided such tests conform to the applicable Federal, State or local alcohol testing requirements, and that the results of the tests are obtained by the employer.
 
-(2) The results of a urine test for the use of controlled substances, conducted by Federal, State, or local officials having independent authority for the test, shall be considered to meet the requirements of this section, provided such tests conform to the applicable Federal, State or local controlled substances testing requirements, and that the results of the tests are obtained by the employer.
+(2) The results of a urine test for the use of controlled substances, conducted by Federal, State, or local law enforcement or public safety officials having independent authority for the test, shall be considered to meet the requirements of this section, provided such tests conform to the applicable Federal, State or local controlled substances testing requirements, and that the results of the tests are obtained by the employer.
 
 (h) *Exception.* This section does not apply to:
 
@@ -49,3 +47,5 @@ Table for § 382.303(a) and (b)
 (2) An occurrence involving only the loading or unloading of cargo; or
 
 (3) An occurrence in the course of the operation of a passenger car or a multipurpose passenger vehicle (as defined in § 571.3 of this title) by an employer unless the motor vehicle is transporting passengers for hire or hazardous materials of a type and quantity that require the motor vehicle to be marked or placarded in accordance with § 177.823 of this title.
+
+[66 FR 43103, Aug. 17, 2001, as amended at 87 FR 59035, Sept. 29, 2022]

@@ -1,5 +1,7 @@
 ##### § 801.10 Rules and regulations for BE-12, Benchmark Survey of Foreign Direct Investment in the United States - 2017. #####
 
+Link to an amendment published at 87 FR 58954, Sept. 29, 2022.
+
 A BE-12, Benchmark Survey of Foreign Direct Investment in the United States, will be conducted covering 2017. All legal authorities, provisions, definitions, and requirements contained in §§ 801.1 through 801.2 and §§ 801.4 through 801.6 are applicable to this survey. Specific additional rules and regulations for the BE-12 survey are given in paragraphs (a) through (e) of this section. More detailed instructions are given on the report forms and instructions.
 
 (a) *Response required.* A response is required from persons subject to the reporting requirements of the BE-12, Benchmark Survey of Foreign Direct Investment in the United States - 2017, contained in this section, whether or not they are contacted by BEA. Also, a person, or their agent, contacted by BEA about reporting in this survey, either by sending them a report form or a written inquiry, must respond in writing pursuant to this section. This may be accomplished by filing a properly completed BE-12 report (BE-12A, BE-12B, BE-12C, or BE-12 Claim for Not Filing);

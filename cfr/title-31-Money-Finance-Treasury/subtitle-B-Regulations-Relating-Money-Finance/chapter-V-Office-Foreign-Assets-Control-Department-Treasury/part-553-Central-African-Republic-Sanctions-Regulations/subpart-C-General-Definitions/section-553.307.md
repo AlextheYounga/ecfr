@@ -1,3 +1,3 @@
-##### § 553.307 Person. #####
+##### § 553.307 Interest. #####
 
-The term *person* means an individual or entity.
+Except as otherwise provided in this part, the term *interest,* when used with respect to property (*e.g.,* “an interest in property”), means an interest of any nature whatsoever, direct or indirect.

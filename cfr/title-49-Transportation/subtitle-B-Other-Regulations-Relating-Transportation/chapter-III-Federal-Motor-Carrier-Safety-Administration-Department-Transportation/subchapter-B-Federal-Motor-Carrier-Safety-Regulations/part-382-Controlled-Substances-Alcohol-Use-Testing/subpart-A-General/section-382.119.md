@@ -8,6 +8,6 @@
 
 (d) After a decision is signed by the Administrator or the Administrator's designee, the employer will be sent a copy of the decision, which will include the terms and conditions for the waiver or the reason for denying the application for a waiver.
 
-(e) Questions regarding waiver applications should be directed to the Federal Motor Carrier Safety Administration, Office of Enforcement and Compliance (MC-EC), 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
+(e) Questions regarding waiver applications should be directed to the Federal Motor Carrier Safety Administration, Office of Safety Programs (MC-SS), 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 72 FR 55700, Oct. 1, 2007]
+[66 FR 43103, Aug. 17, 2001, as amended at 72 FR 55700, Oct. 1, 2007; 87 FR 59035, Sept. 29, 2022]

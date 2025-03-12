@@ -1,6 +1,6 @@
 ##### § 553.202 Effect of transfers violating the provisions of this part. #####
 
-(a) Any transfer after the effective date that is in violation of any provision of this part or of any regulation, order, directive, ruling, instruction, or license issued pursuant to this part, and that involves any property or interest in property blocked pursuant to § 553.201, is null and void and shall not be the basis for the assertion or recognition of any interest in or right, remedy, power, or privilege with respect to such property or property interests.
+(a) Any transfer after the effective date that is in violation of any provision of this part or of any regulation, order, directive, ruling, instruction, or license issued pursuant to this part, and that involves any property or interest in property blocked pursuant to § 553.201, is null and void and shall not be the basis for the assertion or recognition of any interest in or right, remedy, power, or privilege with respect to such property or interest in property.
 
 (b) No transfer before the effective date shall be the basis for the assertion or recognition of any right, remedy, power, or privilege with respect to, or any interest in, any property or interest in property blocked pursuant to § 553.201, unless the person who holds or maintains such property, prior to that date, had written notice of the transfer or by any written evidence had recognized such transfer.
 
@@ -20,8 +20,6 @@
 
 (iii) If a license did purport to cover the transfer, such license had been obtained by misrepresentation of a third party or withholding of material facts or was otherwise fraudulently obtained.
 
-Note to paragraph (d) of § 553.202:
+(e) The filing of a report in accordance with the provisions of paragraph (d)(3) of this section shall not be deemed evidence that the terms of paragraphs (d)(1) and (2) of this section have been satisfied.
 
-The filing of a report in accordance with the provisions of paragraph (d)(3) of this section shall not be deemed evidence that the terms of paragraphs (d)(1) and (d)(2) of this section have been satisfied.
-
-(e) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property in which, on or since the effective date, there existed an interest of a person whose property and interests in property are blocked pursuant to § 553.201.
+(f) Unless licensed pursuant to this part, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property or interest in property blocked pursuant to § 553.201.

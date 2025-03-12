@@ -1,7 +1,7 @@
-##### § 553.302 Effective date. #####
+##### § 553.302 Blocked account; blocked property. #####
 
-The term *effective date* refers to the effective date of the applicable prohibitions and directives contained in this part as follows:
+The terms *blocked account* and *blocked property* mean any account or property subject to the prohibitions in § 553.201 held in the name of a person whose property and interests in property are blocked pursuant to § 553.201, or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to a license or other authorization from OFAC expressly authorizing such action.
 
-(a) With respect to a person listed in the Annex to E.O. 13667 of May 12, 2014, 12:01 a.m. eastern daylight time, May 13, 2014; and
+Note 1 to § 553.302.
 
-(b) With respect to a person whose property and interests in property are otherwise blocked pursuant to § 553.201, the earlier of the date of actual or constructive notice that such person's property and interests in property are blocked.
+*See* § 553.411 concerning the blocked status of property and interests in property of an entity that is directly or indirectly owned, whether individually or in the aggregate, 50 percent or more by one or more persons whose property and interests in property are blocked pursuant to § 553.201.

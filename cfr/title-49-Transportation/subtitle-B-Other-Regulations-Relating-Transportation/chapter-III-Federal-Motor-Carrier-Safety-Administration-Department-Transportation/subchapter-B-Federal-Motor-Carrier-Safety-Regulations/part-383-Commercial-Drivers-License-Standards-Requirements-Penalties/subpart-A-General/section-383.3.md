@@ -74,7 +74,7 @@
 
 (E) Has not had *any* conviction for a violation of State or local law relating to motor vehicle traffic control (other than a parking violation) arising in connection with any traffic accident, and has no record of an accident in which he/she was at fault.
 
-(ii) Restricted CDLs shall have the same renewal cycle as unrestricted CDLs, but shall be limited to the seasonal period or periods as defined by the State of licensure, provided that the total number of calendar days in any 12-month period for which the restricted CDL is valid does not exceed 180. If a State elects to provide for more than one seasonal period, the restricted CDL is valid for commercial motor vehicle operation only during the currently approved season, and must be revalidated for each successive season. Only one seasonal period of validity may appear on the license document at a time. The good driving record must be confirmed prior to any renewal or revalidation.
+(ii) Restricted CDLs shall have the same renewal cycle as unrestricted CDLs but shall be limited to the seasonal period or periods as defined by the State of licensure, provided that the total number of days in any calendar year for which the restricted CDL is valid does not exceed 210. If a State elects to provide for more than one seasonal period, the restricted CDL is valid for commercial motor vehicle operation only during the currently approved season, and must be revalidated for each successive season. Only one seasonal period of validity may appear on the license document at a time. The good driving record must be confirmed prior to any renewal or revalidation.
 
 (iii) Restricted CDL holders are limited to operating Group B and C vehicles, as described in subpart F of this part.
 
@@ -114,4 +114,4 @@
 
 (ii) Clearly marked with a “flammable” or “combustible” placard, as appropriate.
 
-[61 FR 9564, Mar. 8, 1996, as amended at 61 FR 14679, Apr. 3, 1996; 62 FR 1296, Jan. 9, 1997; 67 FR 49755, July 31, 2002; 67 FR 61821, Oct. 2, 2002; 78 FR 16194, Mar. 14, 2013; 78 FR 58479, Sept. 24, 2013; 81 FR 47720, July 22, 2016; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 86 FR 35640, July 7, 2021]
+[61 FR 9564, Mar. 8, 1996, as amended at 61 FR 14679, Apr. 3, 1996; 62 FR 1296, Jan. 9, 1997; 67 FR 49755, July 31, 2002; 67 FR 61821, Oct. 2, 2002; 78 FR 16194, Mar. 14, 2013; 78 FR 58479, Sept. 24, 2013; 81 FR 47720, July 22, 2016; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 86 FR 35640, July 7, 2021; 87 FR 59036, Sept. 29, 2022]

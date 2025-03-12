@@ -18,6 +18,8 @@
 
 (i) The documented activities are necessary to promote the safe operation of CMVs;
 
-(ii) The number of motor carrier safety activities, including safety inspections, is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
+(ii) The number of motor carrier safety activities, including safety inspections, is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2014 and 2015; and
 
 (iii) The State does not use more than 10 percent of its MCSAP funds for enforcement activities relating to non-CMVs, unless the Administrator determines that a higher percentage will result in significant increases in CMV safety.
+
+[85 FR 37796, June 24, 2020, as amended at 87 FR 59035, Sept. 29, 2022]

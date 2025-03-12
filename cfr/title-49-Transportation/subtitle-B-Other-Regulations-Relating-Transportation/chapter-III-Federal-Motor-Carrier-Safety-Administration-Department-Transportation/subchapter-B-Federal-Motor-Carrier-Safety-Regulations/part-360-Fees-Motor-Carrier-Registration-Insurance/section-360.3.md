@@ -42,7 +42,7 @@
 
 (ii) *Basis.* The applicant must show that the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship upon the requester.
 
-(iii) *FMCSA action.* The Director, Office of Registration and Safety Information, will notify the applicant of the decision to grant or deny the request for waiver or reduction.
+(iii) *FMCSA action.* FMCSA will notify the applicant of the decision to grant or deny the request for waiver or reduction.
 
 (f) *Schedule of filing fees:*
 
@@ -62,4 +62,4 @@
 |        (10)        |                                            (i) An application for original qualification as self-insurer for bodily injury and property damage insurance (BI&PD)                                            |                                                $4,200.                                                 |
 |                    |                                                             (ii) An application for original qualification as self-insurer for cargo insurance                                                              |                                                 $420.                                                  |
 
-Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 360.3 was suspended, effective Jan. 14, 2017.
+[80 FR 63702, Oct. 21, 2015, as amended at 87 FR 59035, Sept. 29, 2022]Effective Date Note:At 82 FR 5297, Jan. 17, 2017, § 360.3 was suspended, effective Jan. 14, 2017. At 87 FR 59035, Sept. 29, 2022, the suspension was lifted, § 360.3 was amended, and the section was again suspended indefinitely.

@@ -1,13 +1,15 @@
-##### § 588.405 Provision of services. #####
+##### § 588.405 Provision and receipt of services. #####
 
-(a) Except as provided in § 588.206, the prohibitions on transactions involving blocked property contained in § 588.201 apply to services performed in the United States or by U.S. persons, wherever located, including by an overseas branch of an entity located in the United States:
+(a) The prohibitions contained in § 588.201 apply to services performed in the United States or by U.S. persons, wherever located:
 
-(1) On behalf of or for the benefit of a person whose property and interests in property are blocked pursuant to § 588.201(a); or
+(1) On behalf of or for the benefit of any person whose property and interests in property are blocked pursuant to § 588.201; or
 
-(2) With respect to property interests subject to § 588.201.
+(2) With respect to property interests of any person whose property and interests in property are blocked pursuant to § 588.201.
 
-(b) *Example.* U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to a person whose property and interests in property are blocked pursuant to § 588.201(a).
+(b) The prohibitions on transactions contained in § 588.201 apply to services received in the United States or by U.S. persons, wherever located, where the service is performed by, or at the direction of, a person whose property and interests in property are blocked pursuant to § 588.201.
 
-Note to § 588.405:
+(c) For example, U.S. persons may not, except as authorized by or pursuant to this part, provide legal, accounting, financial, brokering, freight forwarding, transportation, public relations, or other services to any person whose property and interests in property are blocked pursuant to § 588.201, or negotiate with or enter into contracts signed by a person whose property and interests in property are blocked pursuant to § 588.201.
 
-See §§ 588.507 and 588.508 on licensing policy with regard to the provision of certain legal and medical services.
+Note 1 to § 588.405.
+
+*See* §§ 588.5507 and 588.509 for general licenses authorizing the provision of certain legal and emergency medical services.

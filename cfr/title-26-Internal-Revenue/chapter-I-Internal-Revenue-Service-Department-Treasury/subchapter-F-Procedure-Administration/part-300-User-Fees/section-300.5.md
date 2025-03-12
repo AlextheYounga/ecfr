@@ -1,5 +1,7 @@
 ##### § 300.5 Enrollment of enrolled agent fee. #####
 
+Link to an amendment published at 87 FR 58972, Sept. 29, 2022.
+
 (a) *Applicability.* This section applies to the initial enrollment of enrolled agents with the IRS Office of Professional Responsibility pursuant to 31 CFR 10.5(b).
 
 (b) *Fee.* The fee for initially enrolling as an enrolled agent with the IRS is $67.

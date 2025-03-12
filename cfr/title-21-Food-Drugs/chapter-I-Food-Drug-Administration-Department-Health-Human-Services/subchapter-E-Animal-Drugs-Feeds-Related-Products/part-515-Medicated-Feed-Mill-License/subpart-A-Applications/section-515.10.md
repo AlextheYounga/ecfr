@@ -1,6 +1,6 @@
 ##### § 515.10 Medicated feed mill license applications. #####
 
-(a) Medicated feed mill license applications (Forms FDA 3448) may be obtained from the Public Health Service, Consolidated Forms and Publications Distribution Center, Washington Commerce Center, 3222 Hubbard Rd., Landover, MD 20785, or electronically from the Center for Veterinary Medicine home page at *http://www.fda.gov/cvm.*
+(a) Medicated feed mill license applications (Form FDA 3448) may be obtained from the Public Health Service, Consolidated Forms and Publications Distribution Center, Washington Commerce Center, 3222 Hubbard Rd., Landover, MD 20785, or electronically from the Center for Veterinary Medicine at: *https://www.fda.gov/animal-veterinary/animal-food-feeds/medicated-feeds.*
 
 (b) A completed medicated feed mill license must contain the following information:
 
@@ -26,4 +26,4 @@
 
 (e) Upon approval, the original copy of the application will be signed by an authorized employee of FDA designated by the Commissioner of Food and Drugs, and a copy will be returned to the applicant.
 
-[64 FR 63204, Nov. 19, 1999, as amended at 72 FR 69121, Dec. 6, 2007; 81 FR 60221, Aug. 31, 2016]
+[64 FR 63204, Nov. 19, 1999, as amended at 72 FR 69121, Dec. 6, 2007; 81 FR 60221, Aug. 31, 2016; 87 FR 58960, Sept. 29, 2022]

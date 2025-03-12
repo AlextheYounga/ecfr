@@ -1,7 +1,3 @@
-##### § 553.301 Blocked account; blocked property. #####
+##### § 553.301 Arms and related materiel. #####
 
-The terms *blocked account* and *blocked property* shall mean any account or property subject to the prohibitions in § 553.201 held in the name of a person whose property and interests in property are blocked pursuant to § 553.201, or in which such person has an interest, and with respect to which payments, transfers, exportations, withdrawals, or other dealings may not be made or effected except pursuant to an authorization or license from OFAC expressly authorizing such action.
-
-Note to § 553.301:
-
-See § 553.406 concerning the blocked status of property and interests in property of an entity that is 50 percent or more owned by a person whose property and interests in property are blocked pursuant to § 553.201.
+The term *arms and related materiel* means arms or related materiel of all types, including military aircraft and equipment, transferred in contravention of the United Nations arms embargo on the Central African Republic.

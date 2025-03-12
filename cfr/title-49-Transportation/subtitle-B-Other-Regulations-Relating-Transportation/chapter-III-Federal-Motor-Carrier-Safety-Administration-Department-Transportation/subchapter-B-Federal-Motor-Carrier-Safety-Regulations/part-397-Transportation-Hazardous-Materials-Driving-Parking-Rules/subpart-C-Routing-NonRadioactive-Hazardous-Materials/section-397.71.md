@@ -10,7 +10,7 @@
 
 (ii) The DOT “Guidelines for Applying Criteria to Designate Routes for Transporting Hazardous Materials,” DOT/RSPA/OHMT-89-02, July 19891 or its most current version; or an equivalent routing analysis which adequately considers overall risk to the public.
 
-1 This document may be obtained from Federal Motor Carrier Safety Administration, Office of Enforcement and Compliance (MC-EC), 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
+1 This document may be obtained from Federal Motor Carrier Safety Administration, Office of Enforcement and Compliance (MC-SE), 1200 New Jersey Ave., SE., Washington, DC 20590-0001.
 
 (2) *Public participation.* Prior to the establishment of any NRHM routing designation, the State or Indian tribe shall undertake the following actions to ensure participation by the public in the routing process:
 
@@ -28,7 +28,7 @@
 
 (iv) The State or Indian tribe shall keep a record of the names and addresses of the officials notified pursuant to this section and of any consultation or meeting conducted with these officials or their representatives. Such record shall describe any concern or disagreement expressed by the officials and any action undertaken to resolve such disagreement or address any concern.
 
-(4) *Through routing.* In establishing any NRHM routing designation, the State or Indian tribe shall ensure through highway routing for the transportation of NRHM between adjacent areas. The term “through highway routing” as used in this paragraph means that the routing designation must ensure continuity of movement so as to not impede or unnecessarily delay the transportation of NRHM. The State or Indian tribe shall utilize the procedures established in paragraphs (b)(2) and (b)(3) of this section in meeting these requirements. In addition, the State or Indian tribe shall make a finding, supported by a risk analysis conducted in accordance with paragraph (b)(1) of this section, that the routing designation enhances public safety. If the risk analysis shows -
+(4) *Through routing.* In establishing any NRHM routing designation, the State or Indian tribe shall ensure through highway routing for the transportation of NRHM between adjacent areas. The term “through highway routing” as used in this paragraph means that the routing designation must ensure continuity of movement so as to not impede or unnecessarily delay the transportation of NRHM. The State or Indian tribe shall utilize the procedures established in paragraphs (b)(2) and (b)(3) of this section in meeting these requirements. In addition, the State or Indian tribe shall make a finding, supported by a risk analysis conducted in accordance with paragraph (b)(1) of this section, that the routing designation enhances public safety. If the risk analysis shows—
 
 (i) That the current routing presents at least 50 percent more risk to the public than the deviation under the proposed routing designation, then the proposed routing designation may go into effect.
 
@@ -82,4 +82,4 @@
 
 (xiii) *Congestion and accident history.* Traffic conditions unique to a highway routing such as: traffic congestion; accident experience with motor vehicles, traffic considerations that could affect the potential for an accident, exposure of the public to any release, ability to perform emergency response operations, or the temporary closing of a highway for cleaning up any release shall be given appropriate consideration.
 
-[36 FR 4876, Mar. 13, 1971, as amended at 66 FR 49874, Oct. 1, 2001; 72 FR 55703, Oct. 1, 2007; 78 FR 58485, Sept. 24, 2013]
+[36 FR 4876, Mar. 13, 1971, as amended at 66 FR 49874, Oct. 1, 2001; 72 FR 55703, Oct. 1, 2007; 78 FR 58485, Sept. 24, 2013; 87 FR 59037, Sept. 29, 2022]

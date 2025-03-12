@@ -8,8 +8,8 @@
 
 (2) The motor carrier must consider the driver's accident record and any evidence that the driver has violated laws governing the operation of motor vehicles, and must give great weight to violations, such as speeding, reckless driving, and operating while under the influence of alcohol or drugs, that indicate that the driver has exhibited a disregard for the safety of the public.
 
-(c) *Recordkeeping.* (1) A copy of the motor vehicle record required by paragraph (a) of this section shall be maintained in the driver's qualification file.
+(c)(1) A copy of the motor vehicle record required by paragraph (a) of this section shall be maintained in the driver's qualification file.
 
 (2) A note, including the name of the person who performed the review of the driving record required by paragraph (b) of this section and the date of such review, shall be maintained in the driver's qualification file.
 
-[63 FR 33277, June 18, 1998, as amended at 73 FR 73127, Dec. 1, 2008; 87 FR 13209, Mar. 9, 2022]
+[63 FR 33277, June 18, 1998, as amended at 73 FR 73127, Dec. 1, 2008; 87 FR 13209, Mar. 9, 2022; 87 FR 59036, Sept. 29, 2022]

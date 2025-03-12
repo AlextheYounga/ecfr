@@ -172,7 +172,7 @@
 
 (iii) The person performing the record check and the person authorizing the issuance are not the same.
 
-(o) *Medical recordkeeping* - (1)(i) *Status of CLP or CDL holder.* Before June 23, 2025, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
+(o) *Medical recordkeeping*—(1)(i) *Status of CLP or CDL holder.* Before June 23, 2025, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
 
 (A) Post the driver's self-certification of type of driving under § 383.71(b)(1) to the CDLIS driver record;
 
@@ -266,7 +266,7 @@
 
 (p) After February 7, 2022, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-(q) *Drug and Alcohol Clearinghouse.* Beginning November 18, 2024, the State must, upon receiving notification that pursuant to § 382.501(a) of this chapter, the CLP or CDL holder is prohibited from operating a commercial motor vehicle, initiate established State procedures for downgrading the CLP or CDL. The downgrade must be completed and recorded on the CDLIS driver record within 60 days of the State's receipt of such notification.
+(q) *Drug and Alcohol Clearinghouse.* Beginning November 18, 2024, the State must, upon receiving notification that pursuant to § 382.501(a) of this chapter the CLP or CDL holder is prohibited from operating a commercial motor vehicle, initiate established State procedures for downgrading the CLP or CDL. The downgrade must be completed and recorded on the CDLIS driver record within 60 days of the State's receipt of such notification. As used in this paragraph, the term “downgrade” means the State's removal of the CLP or CDL privilege from the driver's license, as set forth in paragraph (4) the definition of *CDL downgrade* in § 383.5.
 
 (1) *Termination of downgrade process when the driver is no longer prohibited.* If, before the State completes and records the downgrade on the CDLIS driver record, the State receives notification that pursuant to § 382.503(a) of this chapter the CLP or CDL holder is no longer prohibited from operating a commercial motor vehicle, the State must, if permitted by State law, terminate the downgrade process without removing the CLP or CDL privilege from the driver's license.
 
@@ -278,4 +278,4 @@
 
 (ii) Expunge from the CDLIS driver record and, if applicable, the motor vehicle record, as defined in § 390.5T of this chapter, any reference related to the driver's erroneous prohibited status.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018; 84 FR 68057, Dec. 13, 2019; 85 FR 6100, Feb. 4, 2020; 86 FR 32649, June 22, 2021; 86 FR 55742, Oct. 7, 2021; 86 FR 57070, Oct. 14, 2021; 86 FR 59872, Oct. 29, 2021]
+[76 FR 26883, May 9, 2011]Editorial Note:For Federal Register citations affecting § 383.73, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -43,7 +43,6 @@
 |                                                               First Priority, Inc., 1590 Todd Farm Dr., Elgin, IL 60123                                                                |     058829      |
 |                                                    Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747                                                     |     025463      |
 |                                                          GTC Biotherapeutics, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                           |     042976      |
-|                                               Halocarbon Products Corp., 6525 The Corners Pkwy., Suite 200, Peachtree Corners, GA 30092                                                |     012164      |
 |                                                                         Happy Jack, Inc., Snow Hill, NC 28580                                                                          |     023851      |
 |                                                        Hemoglobin Oxygen Therapeutics, LLC, 674 Souder Rd., Souderton, PA 18964                                                        |     063075      |
 |                                                               Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525                                                                |     063604      |
@@ -61,11 +60,11 @@
 |                                                           Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861                                                            |     054925      |
 |                                                      Mizner Bioscience LLC, 225 NE Mizner Blvd., Suite 760, Boca Raton, FL 33432                                                       |     086039      |
 |                                                       Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186                                                        |     015914      |
-|                                                        Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478                                                        |     051079      |
+|                                               Mylan Institutional, Inc., a Viatris Company, 3711 Collins Ferry Rd., Morgantown, WV 26505                                               |     051079      |
 |                                                             Mylan Institutional LLC, 4901 Hiawatha Dr., Rockford, IL 61103                                                             |     063286      |
 |                                                          Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120                                                          |     049968      |
 |                                                                  Neogen Corp., 944 Nandino Blvd., Lexington, KY 40511                                                                  |     059051      |
-|                                                      Norbrook Laboratories, Ltd., Station Works, Newry BT35 6JP, Northern Ireland                                                      |     055529      |
+|                                          Norbrook Laboratories Ltd., Carnbane Industrial Estate, Newry, County Down, BT35 6QQ, United Kingdom                                          |     055529      |
 |                                                             Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden                                                             |     052818      |
 |                                                                    Orion Corp., Orionintie 1, 02200 Espoo, Finland                                                                     |     052483      |
 |                                         Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia                                         |     068504      |
@@ -93,6 +92,7 @@
 |                                                                 Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                                                  |     052923      |
 |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901                                                                 |     086106      |
 |                                                                  United-AH II LLC, 322 S Main St., Sheridan, IN 46069                                                                  |     051233      |
+|                                                       Vetcare Oy, P.O. Box 26 (Liedontie 45), Mäntsälä, Uusimaa, 04601, Finland                                                        |     086155      |
 |                                                            VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                                                             |     086072      |
 |                                                      Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                                                      |     059320      |
 |                                                           Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                                                            |     017030      |
@@ -109,7 +109,6 @@
 |     000061      |                                                                   Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                                                   |
 |     000115      |                                                            IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                                                            |
 |     010797      |                                                            American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                            |
-|     012164      |                                               Halocarbon Products Corp., 6525 The Corners Pkwy., Suite 200, Peachtree Corners, GA 30092.                                                |
 |     012286      |                                                         ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                                                         |
 |     012578      |                                                           Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                                                           |
 |     013744      |                                                        Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France.                                                         |
@@ -138,7 +137,7 @@
 |     050378      |                                                                   Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248.                                                                    |
 |     051031      |                                                       Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509.                                                       |
 |     051072      |                                                      Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009.                                                      |
-|     051079      |                                                        Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                                                        |
+|     051079      |                                               Mylan Institutional, Inc., a Viatris Company, 3711 Collins Ferry Rd., Morgantown, WV 26505.                                               |
 |     051233      |                                                                  United-AH II LLC, 322 S Main St., Sheridan, IN 46069.                                                                  |
 |     051311      |                                                                  Virbac AH, Inc., PO Box 162059, Fort Worth, TX 76161.                                                                  |
 |     051672      |                                                         Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532.                                                          |
@@ -149,7 +148,7 @@
 |     054771      |                                                                   Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007.                                                                    |
 |     054925      |                                                           Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861.                                                            |
 |     055246      |                                                             Pegasus Laboratories, Inc., 8809 Ely Rd., Pensacola, FL 32514.                                                              |
-|     055529      |                                                      Norbrook Laboratories, Ltd., Station Works, Newry BT35 6JP, Northern Ireland.                                                      |
+|     055529      |                                          Norbrook Laboratories Ltd., Carnbane Industrial Estate, Newry, County Down, BT35 6QQ, United Kingdom.                                          |
 |     057561      |                                                              Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503.                                                              |
 |     057699      |                                                       A & G Pharmaceuticals, Inc., 1030 West Commodore Blvd., Jackson, NJ 08527.                                                        |
 |     058005      |                                                        Sparhawk Laboratories, Inc., 12340 Santa Fe Trail Dr., Lenexa, KS 66215.                                                         |
@@ -196,6 +195,7 @@
 |     086132      |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia.                                              |
 |     086134      |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060.                                |
 |     086149      |                                                         Jaguar Animal Health, 200 Pine St., Suite 600, San Francisco, CA 94104.                                                         |
+|     086155      |                                                       Vetcare Oy, P.O. Box 26 (Liedontie 45), Mäntsälä, Uusimaa, 04601, Finland.                                                        |
 |     099207      |                                                       Bausch Health US, LLC, 400 Somerset Corporate Blvd., Bridgewater, NJ 08807.                                                       |
 
-[40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[40 FR 13807, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

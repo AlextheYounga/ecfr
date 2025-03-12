@@ -1,8 +1,8 @@
-##### 252.239-7010 Cloud computing services. #####
+##### 252.239-7010 Cloud Computing Services. #####
 
 As prescribed in 239.7604(b), use the following clause:
 
-Cloud Computing Services (OCT 2016)
+Cloud Computing Services (Sep 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -28,7 +28,7 @@ Cloud Computing Services (OCT 2016)
 
 (1) If the Contractor indicated in its offer that it “does not anticipate the use of cloud computing services in the performance of a resultant contract,” in response to provision 252.239-7009, Representation of Use of Cloud Computing, and after the award of this contract, the Contractor proposes to use cloud computing services in the performance of the contract, the Contractor shall obtain approval from the Contracting Officer prior to utilizing cloud computing services in performance of the contract.
 
-(2) The Contractor shall implement and maintain administrative, technical, and physical safeguards and controls with the security level and services required in accordance with the Cloud Computing Security Requirements Guide (SRG) (version in effect at the time the solicitation is issued or as authorized by the Contracting Officer) found at *http://iase.disa.mil/cloud\_security/Pages/index.aspx, unless notified by the Contracting Officer that this requirement has been waived by the DoD Chief Information Officer*.
+(2) The Contractor shall implement and maintain administrative, technical, and physical safeguards and controls with the security level and services required in accordance with the Cloud Computing Security Requirements Guide (SRG) (version in effect at the time the solicitation is issued or as authorized by the Contracting Officer) found at *https://public.cyber.mil/dccs/dccs-documents/* unless notified by the Contracting Officer that this requirement has been waived by the DoD Chief Information Officer.
 
 (3) The Contractor shall maintain within the United States or outlying areas all Government data that is not physically located on DoD premises, unless the Contractor receives written notification from the Contracting Officer to use another location, in accordance with DFARS 239.7602-2(a).
 
@@ -68,4 +68,4 @@ Cloud Computing Services (OCT 2016)
 
 (l) *Subcontracts.* The Contractor shall include this clause, including this paragraph (l), in all subcontracts that involve or may involve cloud services, including subcontracts for commercial items.
 
-(End of clause)[80 FR 51747, Aug. 26, 2015, as amended at 80 FR 74695, Nov. 30, 2015; 81 FR 73001, Oct. 21, 2016]
+(End of clause)[80 FR 51747, Aug. 26, 2015, as amended at 80 FR 74695, Nov. 30, 2015; 81 FR 73001, Oct. 21, 2016; 87 FR 59028, Sept. 29, 2022]

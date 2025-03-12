@@ -1,6 +1,6 @@
 ##### § 350.405 What conditions must an applicant meet to qualify for High Priority Program funds? #####
 
-(a) *Motor carrier safety activities.* To qualify for High Priority Program funds related to motor carrier safety activities under § 350.403 paragraphs (a) through (g), (i), and (j):
+(a) *Motor carrier safety activities.* To qualify for High Priority Program funds related to motor carrier safety activities under § 350.403 paragraphs (a) through (g), and (i) through (k):
 
 (1) States must:
 
@@ -32,10 +32,12 @@
 
 (2) Have a CMV information systems and networks program plan approved by the Administrator that describes the various systems and networks at the State level that need to be refined, revised, upgraded, or built to accomplish deployment of CMV information systems and networks capabilities;
 
-(3) Certify to the Administrator that its CMV information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications -
+(3) Certify to the Administrator that its CMV information systems and networks deployment activities, including hardware procurement, software and system development, and infrastructure modifications—
 
 (i) Are consistent with the national intelligent transportation systems and CMV information systems and networks architectures and available standards; and
 
 (ii) Promote interoperability and efficiency to the extent practicable; and
 
 (4) Agree to execute interoperability tests developed by FMCSA to verify that its systems conform with the national intelligent transportation systems architecture, applicable standards, and protocols for CMV information systems and networks.
+
+[85 FR 37796, June 24, 2020, as amended at 87 FR 59035, Sept. 29, 2022]

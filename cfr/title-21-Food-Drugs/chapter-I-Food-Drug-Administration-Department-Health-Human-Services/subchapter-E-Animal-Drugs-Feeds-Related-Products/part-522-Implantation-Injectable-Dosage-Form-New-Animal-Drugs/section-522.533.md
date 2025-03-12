@@ -10,16 +10,16 @@
 
 (2) No. 043264 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
 
-(c) *Conditions of use* - (1) *Horses and ponies* - (i) *Amount.* One implant per mare subcutaneously in the neck.
+(c) *Conditions of use*—(1) *Horses and ponies*—(i) *Amount.* One implant per mare subcutaneously in the neck.
 
-(ii) *Indications for use.* For inducing ovulation within 48 hours in estrous mares with an ovarian follicle greater than 30 mL in diameter.
+(ii) *Indications for use.* For inducing ovulation within 48 hours in estrous mares with an ovarian follicle greater than 30 millimeters (mm) in diameter.
 
 (iii) *Limitations.* Do not use in horses or ponies intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(2) *Horses* - (i) *Amount.* Administer 1.8 mg (1 mL) by intramuscular injection in the neck.
+(2) *Horses*—(i) *Amount.* Administer 1.8 mg (1 mL) by intramuscular injection in the neck.
 
-(ii) *Indications for use.* For inducing ovulation within 48 hours in cyclic estrous mares with an ovarian follicle between 30 and 40 mL in diameter.
+(ii) *Indications for use.* For inducing ovulation within 48 hours in cyclic estrous mares with an ovarian follicle between 30 and 40 mm in diameter.
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[75 FR 81456, Dec. 28, 2010, as amended at 79 FR 18158, Apr. 1, 2014; 87 FR 17945, Mar. 29, 2022]
+[75 FR 81456, Dec. 28, 2010, as amended at 79 FR 18158, Apr. 1, 2014; 87 FR 17945, Mar. 29, 2022; 87 FR 58962, Sept. 29, 2022]

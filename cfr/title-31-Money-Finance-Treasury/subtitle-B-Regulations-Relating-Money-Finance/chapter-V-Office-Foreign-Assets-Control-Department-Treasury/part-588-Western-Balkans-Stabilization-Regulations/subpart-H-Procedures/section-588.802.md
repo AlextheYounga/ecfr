@@ -1,3 +1,3 @@
-##### § 588.802 Delegation by the Secretary of the Treasury. #####
+##### § 588.802 Delegation of certain authorities of the Secretary of the Treasury. #####
 
-Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13219 of June 26, 2001 (66 FR 34777, June 29, 2001), Executive Order 13304 of May 28, 2003 (68 FR 32315, May 29, 2003), and any further Executive orders relating to the national emergency declared in Executive Order 13219, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.
+Any action that the Secretary of the Treasury is authorized to take pursuant to E.O. 13219 of June 26, 2001, as amended by E.O. 13304 of May 28, 2003, E.O. 14033 of June 8, 2021, and any further Executive orders relating to the national emergency declared therein, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

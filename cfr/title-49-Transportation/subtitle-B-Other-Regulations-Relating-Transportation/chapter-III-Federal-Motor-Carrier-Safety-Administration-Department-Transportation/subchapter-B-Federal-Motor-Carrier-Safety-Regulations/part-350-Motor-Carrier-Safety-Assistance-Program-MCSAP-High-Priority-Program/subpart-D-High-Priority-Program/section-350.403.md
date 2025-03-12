@@ -24,8 +24,12 @@ FMCSA may use the High Priority Program funds to support, enrich, or evaluate CM
 
 (2) Entities other than Lead State Agencies for projects that meet or exceed MCSAP safety data requirements;
 
-(h) Advance the technological capability and promote the Innovative Technology Deployment of intelligent transportation system applications for CMV operations by States;
+(h) Advance the technological capability and promote the Innovative Technology Deployment of intelligent transportation system applications for CMV operations by States, including technology to detect, and enforce actions taken as a result of, criminal activity (including human trafficking) in a CMV or by any occupant of a CMV, including the operator;
 
-(i) Increase public awareness and education on CMV safety; or
+(i) Increase public awareness and education on CMV safety;
 
-(j) Otherwise improve CMV safety.
+(j) Support the recognition, prevention, and reporting of human trafficking in a CMV or by any occupant of a CMV, including the operator, and enforce laws relating to human trafficking; or
+
+(k) Otherwise improve CMV safety.
+
+[85 FR 37796, June 24, 2020, as amended at 87 FR 59035, Sept. 29, 2022]

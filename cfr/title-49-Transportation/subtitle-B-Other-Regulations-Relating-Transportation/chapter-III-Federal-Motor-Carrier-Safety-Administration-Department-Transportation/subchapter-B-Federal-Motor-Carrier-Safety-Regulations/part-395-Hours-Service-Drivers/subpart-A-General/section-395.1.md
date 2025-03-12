@@ -4,7 +4,7 @@
 
 (2) The exceptions from Federal requirements contained in paragraphs (l) and (m) of this section do not preempt State laws and regulations governing the safe operation of commercial motor vehicles.
 
-(b) *Driving conditions* - (1) *Adverse driving conditions.* Except as provided in paragraph (h)(3) of this section, a driver who encounters adverse driving conditions, as defined in § 395.2, and cannot, because of those conditions, safely complete the run within the maximum driving time or duty time during which driving is permitted under § 395.3(a) or § 395.5(a) may drive and be permitted or required to drive a commercial motor vehicle for not more than two additional hours beyond the maximum allowable hours permitted under § 395.3(a) or § 395.5(a) to complete that run or to reach a place offering safety for the occupants of the commercial motor vehicle and security for the commercial motor vehicle and its cargo.
+(b) *Driving conditions*—(1) *Adverse driving conditions.* Except as provided in paragraph (h)(3) of this section, a driver who encounters adverse driving conditions, as defined in § 395.2, and cannot, because of those conditions, safely complete the run within the maximum driving time or duty time during which driving is permitted under § 395.3(a) or § 395.5(a) may drive and be permitted or required to drive a commercial motor vehicle for not more than two additional hours beyond the maximum allowable hours permitted under § 395.3(a) or § 395.5(a) to complete that run or to reach a place offering safety for the occupants of the commercial motor vehicle and security for the commercial motor vehicle and its cargo.
 
 (2) *Emergency conditions.* In case of any emergency, a driver may complete his/her run without being in violation of the provisions of the regulations in this part, if such run reasonably could have been completed absent the emergency.
 
@@ -14,7 +14,7 @@
 
 (2) In the case of specially trained drivers of commercial motor vehicles that are specially constructed to service oil wells, on-duty time shall not include waiting time at a natural gas or oil well site. Such waiting time shall be recorded as “off duty” for purposes of §§ 395.8 and 395.15, with remarks or annotations to indicate the specific off-duty periods that are waiting time, or on a separate “waiting time” line on the record of duty status to show that off-duty time is also waiting time. Waiting time shall not be included in calculating the 14-hour period in § 395.3(a)(2). Specially trained drivers of such commercial motor vehicles are not eligible to use the provisions of § 395.1(e)(1).
 
-(e) *Short-haul operations* - (1) *150 air-mile radius driver.* A driver is exempt from the requirements of §§ 395.8 and 395.11 if:
+(e) *Short-haul operations*—(1) *150 air-mile radius driver.* A driver is exempt from the requirements of §§ 395.8 and 395.11 if:
 
 (i) The driver operates within a 150 air-mile radius (172.6 statute miles) of the normal work reporting location;
 
@@ -60,7 +60,7 @@
 
 (f) *Retail store deliveries.* The provisions of § 395.3 (a) and (b) shall not apply with respect to drivers of commercial motor vehicles engaged solely in making local deliveries from retail stores and/or retail catalog businesses to the ultimate consumer, when driving solely within a 100-air mile radius of the driver's work-reporting location, during the period from December 10 to December 25, both inclusive, of each year.
 
-(g) *Sleeper berths* - (1) *Property-carrying commercial motor vehicle* - (i) *General.* A driver who operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as defined in § 395.2, and uses the sleeper berth to obtain the off-duty time required by § 395.3(a)(1) must accumulate:
+(g) *Sleeper berths*—(1) *Property-carrying commercial motor vehicle*—(i) *General.* A driver who operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as defined in § 395.2, and uses the sleeper berth to obtain the off-duty time required by § 395.3(a)(1) must accumulate:
 
 (A) At least 10 consecutive hours off-duty;
 
@@ -86,7 +86,7 @@
 
 (*2*) Does not violate the 14-hour duty-period limit under § 395.3(a)(2).
 
-(iii) *Calculation* - (A) *In general.* The driving time limit and the 14-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (g)(1)(i)(E) of this section.
+(iii) *Calculation*—(A) *In general.* The driving time limit and the 14-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (g)(1)(i)(E) of this section.
 
 (B) *14-hour period.* The 14-hour driving window for purposes of § 395.3(a)(2) does not include qualifying rest periods under paragraph (g)(1)(ii) of this section.
 
@@ -114,7 +114,7 @@
 
 (iv) The driver may not return to driving subject to the normal limits under § 395.5 without taking at least 8 consecutive hours off duty, at least 8 consecutive hours in the sleeper berth, or a combination of at least 8 consecutive hours off duty and sleeper berth time.
 
-(h) *State of Alaska* - (1) *Property-carrying commercial motor vehicle* - (i) *In general.* The provisions of § 395.3(a) and (b) do not apply to any driver who is driving a commercial motor vehicle in the State of Alaska. A driver who is driving a property-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive:
+(h) *State of Alaska*—(1) *Property-carrying commercial motor vehicle*—(i) *In general.* The provisions of § 395.3(a) and (b) do not apply to any driver who is driving a commercial motor vehicle in the State of Alaska. A driver who is driving a property-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive:
 
 (A) More than 15 hours following 10 consecutive hours off-duty;
 
@@ -150,11 +150,11 @@
 
 (*2*) Does not violate the 20-hour duty period under paragraph (h)(1)(i)(B) of this section.
 
-(iv) *Calculation* - (A) *In general.* The driving time limit and the 20-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (h)(1)(ii)(E) of this section.
+(iv) *Calculation*—(A) *In general.* The driving time limit and the 20-hour duty-period limit must be re-calculated from the end of the first of the two periods used to comply with paragraph (h)(1)(ii)(E) of this section.
 
 (B) *20-hour period.* The 20-hour duty period under paragraph (h)(1)(i)(B) does not include off-duty or sleeper berth time.
 
-(2) *Passenger-carrying commercial motor vehicle.* The provisions of § 395.5 do not apply to any driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska. A driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive -
+(2) *Passenger-carrying commercial motor vehicle.* The provisions of § 395.5 do not apply to any driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska. A driver who is driving a passenger-carrying commercial motor vehicle in the State of Alaska must not drive or be required or permitted to drive—
 
 (i) More than 15 hours following 8 consecutive hours off-duty;
 
@@ -170,13 +170,13 @@
 
 (iii) After a passenger-carrying commercial motor vehicle driver completes the run, that driver must be off-duty for at least 8 consecutive hours before he/she drives again.
 
-(i) *State of Hawaii.* The rules in § 395.8 do not apply to a driver who drives a commercial motor vehicle in the State of Hawaii, if the motor carrier who employs the driver maintains and retains for a period of 6 months accurate and true records showing -
+(i) *State of Hawaii.* The rules in § 395.8 do not apply to a driver who drives a commercial motor vehicle in the State of Hawaii, if the motor carrier who employs the driver maintains and retains for a period of 6 months accurate and true records showing—
 
 (1) The total number of hours the driver is on duty each day; and
 
 (2) The time at which the driver reports for, and is released from, duty each day.
 
-(j) *Travel time* - (1) When a property-carrying commercial motor vehicle driver at the direction of the motor carrier is traveling, but not driving or assuming any other responsibility to the carrier, such time must be counted as on-duty time unless the driver is afforded at least 10 consecutive hours off duty when arriving at destination, in which case he/she must be considered off duty for the entire period.
+(j) *Travel time*—(1) When a property-carrying commercial motor vehicle driver at the direction of the motor carrier is traveling, but not driving or assuming any other responsibility to the carrier, such time must be counted as on-duty time unless the driver is afforded at least 10 consecutive hours off duty when arriving at destination, in which case he/she must be considered off duty for the entire period.
 
 (2) When a passenger-carrying commercial motor vehicle driver at the direction of the motor carrier is traveling, but not driving or assuming any other responsibility to the carrier, such time must be counted as on-duty time unless the driver is afforded at least 8 consecutive hours off duty when arriving at destination, in which case he/she must be considered off duty for the entire period.
 
@@ -184,9 +184,11 @@
 
 (1) Agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
 
-(2) Farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or
+(2) Farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point;
 
-(3) Farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point.
+(3) Farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point; or
+
+(4) Livestock (as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) including insects)) within a 150 air-mile radius from the final destination of the livestock.
 
 (l) *Ground water well drilling operations.* In the instance of a driver of a commercial motor vehicle who is used primarily in the transportation and operations of a ground water well drilling rig, any period of 7 or 8 consecutive days may end with the beginning of any off-duty period of 24 or more successive hours.
 
@@ -202,7 +204,7 @@
 
 (3) The driver has not taken this exemption within the previous 6 consecutive days, except when the driver has begun a new 7- or 8-consecutive day period with the beginning of any off-duty period of 34 or more consecutive hours as allowed by § 395.3(c).
 
-(p) *Commercial motor vehicle transportation to or from a motion picture production site.* A driver of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site is exempt from the requirements of § 395.3(a) if the driver operates within a 100 air-mile radius of the location where the driver reports to and is released from work, i.e., the normal work-reporting location. With respect to the maximum daily hours of service, such a driver may not drive -
+(p) *Commercial motor vehicle transportation to or from a motion picture production site.* A driver of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site is exempt from the requirements of § 395.3(a) if the driver operates within a 100 air-mile radius of the location where the driver reports to and is released from work, i.e., the normal work-reporting location. With respect to the maximum daily hours of service, such a driver may not drive—
 
 (1) More than 10 hours following 8 consecutive hours off duty;
 
@@ -222,7 +224,7 @@
 
 (v) *Transport of livestock.* The provisions of § 395.3(a)(3)(ii), requiring a 30-minute rest break, do not apply to a driver engaged in the interstate transportation of livestock by commercial motor vehicle while the livestock are on the vehicle.
 
-(w) *Hi-rail vehicles.* For the driver of a hi-rail vehicle, the maximum on duty time under § 395.3 shall not include time in transportation to or from a duty assignment if such time in transportation -
+(w) *Hi-rail vehicles.* For the driver of a hi-rail vehicle, the maximum on duty time under § 395.3 shall not include time in transportation to or from a duty assignment if such time in transportation—
 
 (1) Does not exceed 2 hours per calendar day or a total of 30 hours per calendar month; and
 

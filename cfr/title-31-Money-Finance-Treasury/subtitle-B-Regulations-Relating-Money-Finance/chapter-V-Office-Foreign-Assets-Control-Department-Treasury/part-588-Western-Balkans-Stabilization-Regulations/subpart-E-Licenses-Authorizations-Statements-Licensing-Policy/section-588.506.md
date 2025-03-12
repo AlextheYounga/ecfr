@@ -6,4 +6,4 @@ Subject to the requirements of § 588.203, U.S. financial institutions are autho
 
 (b) The proceeds of such investments and reinvestments shall not be credited to a blocked account or subaccount under any name or designation that differs from the name or designation of the specific blocked account or subaccount in which such funds or securities were held; and
 
-(c) No immediate financial or economic benefit accrues (*e.g.,* through pledging or other use) to a person whose property and interests in property are blocked pursuant to § 588.201(a).
+(c) No immediate financial or economic benefit accrues (*e.g.,* through pledging or other use) to a person whose property and interests in property are blocked pursuant to § 588.201.

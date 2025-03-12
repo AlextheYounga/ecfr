@@ -1,11 +1,3 @@
-##### § 553.305 Licenses; general and specific. #####
+##### § 553.305 Financial, material, logistical, or technological support. #####
 
-(a) Except as otherwise specified, the term *license* means any license or authorization contained in or issued pursuant to this part.
-
-(b) The term *general license* means any license or authorization the terms of which are set forth in subpart E of this part or made available on OFAC's Web site: *www.treasury.gov/ofac.*
-
-(c) The term *specific license* means any license or authorization issued pursuant to this part but not set forth in subpart E of this part or made available on OFAC's Web site: *www.treasury.gov/ofac.*
-
-Note to § 553.305:
-
-*See* § 501.801 of this chapter on licensing procedures.
+The term *financial, material, logistical, or technological support,* as used in this part, means any property, tangible or intangible, including currency, financial instruments, securities, or any other transmission of value; weapons or related materiel; chemical or biological agents; explosives; false documentation or identification; communications equipment; computers; electronic or other devices or equipment; technologies; lodging; safe houses; facilities; vehicles or other means of transportation; or goods. “Technologies” as used in this section means specific information necessary for the development, production, or use of a product, including related technical data such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, or other recorded instructions.

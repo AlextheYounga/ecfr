@@ -1,6 +1,6 @@
 ##### § 385.3 Definitions and acronyms. #####
 
-*Applicable safety regulations or requirements* means 49 CFR chapter III, subchapter B - Federal Motor Carrier Safety Regulations or, if the carrier is an intrastate motor carrier subject to the hazardous materials safety permit requirements in subpart E of this part, the equivalent State standards; and 49 CFR chapter I, subchapter C - Hazardous Materials Regulations.
+*Applicable safety regulations or requirements* means 49 CFR chapter III, subchapter B—Federal Motor Carrier Safety Regulations or, if the carrier is an intrastate motor carrier subject to the hazardous materials safety permit requirements in subpart E of this part, the equivalent State standards; and 49 CFR chapter I, subchapter C—Hazardous Materials Regulations.
 
 *CMV* means a commercial motor vehicle as defined in § 390.5 of this subchapter.
 
@@ -12,7 +12,7 @@
 
 *HMRs* means the Hazardous Materials Regulations (49 CFR parts 171-180).
 
-*Motor carrier operations in commerce* means commercial motor vehicle transportation operations either -
+*Motor carrier operations in commerce* means commercial motor vehicle transportation operations either—
 
 (1) In interstate commerce, or
 
@@ -32,7 +32,7 @@
 
 (2) *Safety audit* means an examination of a motor carrier's operations to provide educational and technical assistance on safety and the operational requirements of the FMCSRs and applicable HMRs and to gather critical safety data needed to make an assessment of the carrier's safety performance and basic safety management controls. Safety audits do not result in safety ratings.
 
-(3) *Safety management controls* means the systems, policies programs, practices, and procedures used by a motor carrier to ensure compliance with applicable safety and hazardous materials regulations which ensure the safe movement of products and passengers through the transportation system, and to reduce the risk of highway accidents and hazardous materials incidents resulting in fatalities, injuries, and property damage.
+(3) *Safety management controls* means the systems, policies, programs, practices, and procedures used by a motor carrier to ensure compliance with applicable safety and hazardous materials regulations which ensure the safe movement of products and passengers through the transportation system, and to reduce the risk of highway accidents and hazardous materials incidents resulting in fatalities, injuries, and property damage.
 
 (4) *Roadability review* means an examination of the intermodal equipment provider's compliance with the applicable FMCSRs.
 
@@ -44,4 +44,4 @@
 
 (4) *Unrated carrier* means that a safety rating has not been assigned to the motor carrier by the FMCSA.
 
-[53 FR 50968, Dec. 19, 1988, as amended at 56 FR 40805, Aug. 16, 1991; 62 FR 60042, Nov. 6, 1997; 67 FR 12779, Mar. 19, 2002; 67 FR 31983, May 13, 2002; 69 FR 39367, June 30, 2004; 72 FR 36788, July 5, 2007; 73 FR 76818, Dec. 17, 2008; 75 FR 17240, Apr. 5, 2010; 77 FR 28450, May 14, 2012; 78 FR 58481, Sept. 24, 2013; 78 FR 60232, Oct. 1, 2013; 80 FR 59073, Oct. 1, 2015; 86 FR 35642, July 7, 2021]
+[53 FR 50968, Dec. 19, 1988, as amended at 56 FR 40805, Aug. 16, 1991; 62 FR 60042, Nov. 6, 1997; 67 FR 12779, Mar. 19, 2002; 67 FR 31983, May 13, 2002; 69 FR 39367, June 30, 2004; 72 FR 36788, July 5, 2007; 73 FR 76818, Dec. 17, 2008; 75 FR 17240, Apr. 5, 2010; 77 FR 28450, May 14, 2012; 78 FR 58481, Sept. 24, 2013; 78 FR 60232, Oct. 1, 2013; 80 FR 59073, Oct. 1, 2015; 86 FR 35642, July 7, 2021; 87 FR 59036, Sept. 29, 2022]

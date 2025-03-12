@@ -14,7 +14,7 @@
 
 (3) Prospective employers should report failures of previous employers to respond to an investigation to the FMCSA and use the complaint procedures specified at § 386.12 of this subchapter. Keep a copy of the reports in the driver investigation history file as part of documenting a good faith effort to obtain the required information.
 
-(4) *Exception.* For drivers with no previous employment experience working for a DOT-regulated employer during the preceding three years, documentation that no investigation was possible must be placed in the driver investigation history file, after October 29, 2004, within the required 30 days of the date the driver's employment begins.
+(4) For drivers with no previous employment experience working for a DOT-regulated employer during the preceding three years, documentation that no investigation was possible must be placed in the driver investigation history file, after October 29, 2004, within the required 30 days of the date the driver's employment begins.
 
 (d) The prospective motor carrier must investigate, at a minimum, the information listed in this paragraph from all previous employers of the applicant that employed the driver to operate a CMV within the previous three years. The investigation request must contain specific contact information on where the previous motor carrier employers should send the information requested.
 
@@ -42,9 +42,9 @@
 
 (4) As of January 6, 2023, employers subject to § 382.701(a) of this chapter must use the Drug and Alcohol Clearinghouse to comply with the requirements of this section with respect to FMCSA-regulated employers.
 
-(i) *Exceptions.* (A) If an applicant who is subject to follow-up testing has not successfully completed all follow-up tests, the employer must request the applicant's follow-up testing plan directly from the previous employer in accordance with § 40.25(b)(5) of this title.
+(i) If an applicant who is subject to follow-up testing has not successfully completed all follow-up tests, the employer must request the applicant's follow-up testing plan directly from the previous employer in accordance with § 40.25(b)(5) of this title.
 
-(B) If an applicant was subject to an alcohol and controlled substance testing program under the requirements of a DOT mode other than FMCSA, the employer must request alcohol and controlled substances information required under this section directly from those employers regulated by a DOT mode other than FMCSA.
+(ii) If an applicant was subject to an alcohol and controlled substance testing program under the requirements of a DOT mode other than FMCSA, the employer must request alcohol and controlled substances information required under this section directly from those employers regulated by a DOT mode other than FMCSA.
 
 (f)(1) A prospective motor carrier employer must provide to the previous employer the driver's consent meeting the requirements of § 40.321(b) of this title for the release of the information in paragraph (e) of this section. If the driver refuses to provide this consent, the prospective motor carrier employer must not permit the driver to operate a commercial motor vehicle for that motor carrier.
 
@@ -60,11 +60,11 @@
 
 (4) Keep a record of each request and the response for one year, including the date, the party to whom it was released, and a summary identifying what was provided.
 
-(5) *Exception.* Until May 1, 2006, carriers need only provide information for accidents that occurred after April 29, 2003.
+(5) Until May 1, 2006, carriers need only provide information for accidents that occurred after April 29, 2003.
 
 (h) The release of information under this section may take any form that reasonably ensures confidentiality, including letter, facsimile, or e-mail. The previous employer and its agents and insurers must take all precautions reasonably necessary to protect the driver safety performance history records from disclosure to any person not directly involved in forwarding the records, except the previous employer's insurer, except that the previous employer may not provide any alcohol or controlled substances information to the previous employer's insurer.
 
-(i)(1) The prospective employer must expressly notify drivers with Department of Transportation regulated employment during the preceding three years - via the application form or other written document prior to any hiring decision - that he or she has the following rights regarding the investigative information that will be provided to the prospective employer pursuant to paragraphs (d) and (e) of this section:
+(i)(1) The prospective employer must expressly notify drivers with Department of Transportation regulated employment during the preceding three years—via the application form or other written document prior to any hiring decision—that he or she has the following rights regarding the investigative information that will be provided to the prospective employer pursuant to paragraphs (d) and (e) of this section:
 
 (i) The right to review information provided by previous employers;
 
@@ -94,7 +94,7 @@
 
 (2) The prospective motor carrier employer, its agents and insurers must take all precautions reasonably necessary to protect the records from disclosure to any person not directly involved in deciding whether to hire the driver. The prospective motor carrier employer may not provide any alcohol or controlled substances information to the prospective motor carrier employer's insurer.
 
-(l)(1) No action or proceeding for defamation, invasion of privacy, or interference with a contract that is based on the furnishing or use of information in accordance with this section may be brought against -
+(l)(1) No action or proceeding for defamation, invasion of privacy, or interference with a contract that is based on the furnishing or use of information in accordance with this section may be brought against—
 
 (i) A motor carrier investigating the information, described in paragraphs (d) and (e) of this section, of an individual under consideration for employment as a commercial motor vehicle driver,
 
@@ -106,19 +106,17 @@
 
 (m)(1) The motor carrier must obtain an original or copy of the medical examiner's certificate issued in accordance with § 391.43, and any medical variance on which the certification is based, and, beginning on or after May 21, 2014, verify the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of issuance of the medical examiner's certificate, and place the records in the driver qualification file, before allowing the driver to operate a CMV.
 
-(2) *Exception.* For drivers required to have a commercial driver's license under part 383 of this chapter:
+(2) For drivers required to have a commercial driver's license under part 383 of this chapter, beginning January 30, 2015, using the CDLIS motor vehicle record obtained from the current licensing State, the motor carrier must verify and document in the driver qualification file the following information before allowing the driver to operate a CMV:
 
-(i) Beginning January 30, 2015, using the CDLIS motor vehicle record obtained from the current licensing State, the motor carrier must verify and document in the driver qualification file the following information before allowing the driver to operate a CMV:
+(i) The type of operation the driver self-certified that he or she will perform in accordance with § 383.71(b)(1) of this chapter.
 
-(A) The type of operation the driver self-certified that he or she will perform in accordance with § 383.71(b)(1) of this chapter.
+(ii)(A) Beginning on May 21, 2014, and through June 22, 2025, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
 
-(B)(*1*) Beginning on May 21, 2014, and through June 22, 2025, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
+(B) If the driver has certified under paragraph (m)(2)(i)(A) of this section that he or she expects to operate in interstate commerce, that the driver has a valid medical examiner's certificate and any required medical variances.
 
-(*2*) If the driver has certified under paragraph (m)(2)(i)(A) of this section that he or she expects to operate in interstate commerce, that the driver has a valid medical examiner's certificate and any required medical variances.
+(iii) Beginning on January 30, 2015, and through June 22, 2025, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(b)(5) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
 
-(C) *Exception.* Beginning on January 30, 2015, and through June 22, 2025, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(b)(5) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
-
-(3) *Exception.* For drivers required to have a commercial learner's permit under part 383 of this chapter:
+(3) For drivers required to have a commercial learner's permit under part 383 of this chapter:
 
 (i) Beginning July 8, 2015, using the CDLIS motor vehicle record obtained from the current licensing State, the motor carrier must verify and document in the driver qualification file the following information before allowing the driver to operate a CMV:
 
@@ -134,4 +132,4 @@
 
 (4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 83 FR 28782, June 21, 2018; 83 FR 48726, Sept. 27, 2018; 86 FR 32650, June 22, 2021; 87 FR 13209, Mar. 9, 2022]
+(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

@@ -10,7 +10,7 @@
 
 (b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* Administer as a single dose directly by mouth or in a small amount of food as follows:
+(c) *Conditions of use*—(1) *Dogs*—(i) *Amount.* Administer as a single dose directly by mouth or in a small amount of food as follows:
 
 |Weight of animal|Number of tablets per dose|            |            |            |
 |----------------|--------------------------|------------|------------|------------|
@@ -28,6 +28,8 @@
 
 (ii) *Indications for use.* For the removal of tapeworms (*Dipylidium caninum, Taenia pisiformis, Echinococcus granulosus*); hookworms (*Ancylostoma caninum, Uncinaria stenocephala*); ascarids (*Toxocara canis, Toxascaris leonina*); and whipworms (*Trichuris vulpis*) and for the removal and control of tapeworm *Echinococcus multilocularis* in dogs.
 
-(iii) *Limitations.* Do not use in pregnant animals. Do not use in dogs weighing less than 0.9 kilogram (2 pounds) or puppies less than 3 weeks of age. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[59 FR 33908, July 1, 1994, as amended at 61 FR 29651, June 12, 1996; 68 FR 22293, Apr. 28, 2003; 71 FR 6677, Feb. 9, 2006; 86 FR 14819, Mar. 19, 2021]
+(2) [Reserved]
+
+[59 FR 33908, July 1, 1994, as amended at 61 FR 29651, June 12, 1996; 68 FR 22293, Apr. 28, 2003; 71 FR 6677, Feb. 9, 2006; 86 FR 14819, Mar. 19, 2021; 87 FR 58961, Sept. 29, 2022]

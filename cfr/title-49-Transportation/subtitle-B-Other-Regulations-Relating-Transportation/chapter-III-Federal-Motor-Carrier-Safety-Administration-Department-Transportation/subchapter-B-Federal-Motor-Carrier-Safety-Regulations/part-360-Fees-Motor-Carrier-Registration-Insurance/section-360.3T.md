@@ -42,7 +42,7 @@
 
 (ii) *Basis.* The applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship upon the requestor.
 
-(iii) *Federal Motor Carrier Safety Administration action.* The Director, Office of Registration and Safety Information (MC-RS), will notify the applicant of the decision to grant or deny the request for waiver or reduction.
+(iii) *Federal Motor Carrier Safety Administration action.* The Federal Motor Carrier Safety Administration will notify the applicant of the decision to grant or deny the request for waiver or reduction.
 
 (f) *Schedule of filing fees.*
 
@@ -78,4 +78,4 @@
 
 (2) If a person repeatedly submits dishonored checks to the FMCSA for filing fees, the FMCSA may notify the person that all future filing fees must be submitted in the form of a certified or cashier's check, money order, or credit card.
 
-[82 FR 5297, Jan. 17, 2017, as amended at 83 FR 22873, May 17, 2018]
+[82 FR 5297, Jan. 17, 2017, as amended at 83 FR 22873, May 17, 2018; 87 FR 59035, Sept. 29, 2022]
