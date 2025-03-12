@@ -1,7 +1,5 @@
 ##### § 61.1 Definitions. #####
 
-Link to an amendment published at 86 FR 33523, June 25, 2021.
-
 For purposes of this part:
 
 *Area or community* means a political subdivision or contiguous political subdivisions (such as a precinct, ward, borough, city, county, State, Congressional district, etc.) with a separately identifiable population of homeless veterans.
@@ -70,7 +68,7 @@ For purposes of this part:
 
 (2) Is designed to either:
 
-(i) Facilitate the movement of homeless veterans to permanent housing within a period that is not less than 90 days and does not exceed 24 months, subject to § 61.80; or
+(i) Facilitate the movement of homeless veterans to permanent housing as soon as possible but no later than 24 months, subject to § 61.80; or
 
 (ii) Provide specific medical treatment such as detoxification, respite, or hospice treatments that are used as step-up or step-down programs within that specific project's continuum.
 
@@ -86,4 +84,4 @@ For purposes of this part:
 
 *Veteran* means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom. Veteran excludes a person who received a dishonorable discharge from the Armed Forces or was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial. The length of service restrictions under 38 U.S.C. 5303A do not apply.
 
-(Authority: 38 U.S.C. 501, 2002, 2011, 2012, 2061, 2064)[78 FR 12604, Feb. 25, 2013, as amended at 82 FR 51160, Nov. 3, 2017]
+(Authority: 38 U.S.C. 501, 2002, 2011, 2012, 2061, 2064)[78 FR 12604, Feb. 25, 2013, as amended at 82 FR 51160, Nov. 3, 2017; 86 FR 33523, June 25, 2021]

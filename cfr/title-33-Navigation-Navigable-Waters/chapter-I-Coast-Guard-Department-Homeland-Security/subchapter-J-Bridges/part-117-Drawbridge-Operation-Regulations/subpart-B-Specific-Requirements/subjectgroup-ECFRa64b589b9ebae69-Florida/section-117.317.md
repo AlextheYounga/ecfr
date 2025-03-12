@@ -1,5 +1,7 @@
 ##### § 117.317 Okeechobee Waterway. #####
 
+Link to an amendment published at 86 FR 39963, July 26, 2021.
+
 (a) *Exempt vessels.* This term means public vessels of the United States and tugs with tows.
 
 (b) *Evans Crary (SR A1A) bridge, mile 3.4 at Stuart.* The draw shall open on signal; except that from December 1 through May 1, from 7 a.m. to 6 p.m., Monday through Friday, except federal holidays, the draw need open only on the hour and half-hour. On Saturdays, Sundays, and federal holidays, December 1 through May 1, from 8 a.m. to 6 p.m., the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour. Exempt vessels shall be passed at any time.

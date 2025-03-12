@@ -1,7 +1,5 @@
 ##### § 205.603 Synthetic substances allowed for use in organic livestock production. #####
 
-Link to an amendment published at 86 FR 33484, June 25, 2021.
-
 In accordance with restrictions specified in this section the following synthetic substances may be used in organic livestock production:
 
 (a) As disinfectants, sanitizer, and medical treatments as applicable.
@@ -116,13 +114,15 @@ In accordance with restrictions specified in this section the following syntheti
 
 (7) Mineral oil - for topical use and as a lubricant.
 
-(8) Procaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
+(8) Oxalic acid dihydrate - for use as a pesticide solely for apiculture.
 
-(9) Sodium chlorite, acidified - allowed for use on organic livestock as teat dip treatment only.
+(9) Procaine - as a local anesthetic. Use requires a withdrawal period of 8 days after administering to livestock intended for slaughter and 6 days after administering to dairy animals.
 
-(10) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+(10) Sodium chlorite, acidified - allowed for use on organic livestock as teat dip treatment only.
 
-(11) Zinc sulfate - for use in hoof and foot treatments only.
+(11) Sucrose octanoate esters (CAS #s-42922-74-7; 58064-47-4) - in accordance with approved labeling.
+
+(12) Zinc sulfate - for use in hoof and foot treatments only.
 
 (c) As feed supplements - None.
 
@@ -144,4 +144,4 @@ In accordance with restrictions specified in this section the following syntheti
 
 (g)-(z) [Reserved]
 
-[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017; 83 FR 66572, Dec. 27, 2018; 84 FR 18136, Apr. 30, 2019]
+[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017; 83 FR 66572, Dec. 27, 2018; 84 FR 18136, Apr. 30, 2019; 86 FR 33484, June 25, 2021]

@@ -1,0 +1,27 @@
+##### § 4280.122 Selecting RES and EEI grant applications for award. #####
+
+Unless otherwise provided for in a Federal Register notice, RES and EEI grant applications will be processed in accordance with this section. Complete applications will be evaluated, processed, and subsequently ranked, and will compete for funding, subject to the availability of grant funding. Each State will receive two grant allocations, an allocation of grant funds restricted to funding requests of $20,000 or less, and an allocation of grant funds which are unrestricted and can fund any size funding request.
+
+(a) *RES and EEI grant applications.* Complete RES and EEI grant applications, including combination grant and guaranteed loan requests, regardless of the amount of funding requested, are eligible to compete in two competitions within a Federal fiscal year—a State competition and a National competition.
+
+(1) To be competed in the State and National competitions, complete applications must be received by the applicable State Office by 4:30 p.m. local time no later than March 31. If March 31 falls on a non-business day or a federally-observed holiday, the next Federal business day will be considered the last day for receipt of a complete application. Complete applications received after this date and time will be processed in the subsequent fiscal year.
+
+(2) All eligible RES and EEI grant applications that remain unfunded after completion of the State competition will be competed in a National competition.
+
+(b) *RES and EEI grant applications requesting $20,000 or less.* Complete RES and EEI grant applications, including combination grant and guaranteed loan requests, requesting $20,000 or less are eligible to compete in up to five competitions—two State competitions and a National set-aside competition for grants of $20,000 or less, as well as the two competitions referenced in paragraph (a) of this section.
+
+(1) For complete RES and EEI grant applications for grants requesting $20,000 or less, there will be two State competitions each Federal fiscal year. Complete applications for $20,000 or less that are received by the Agency by 4:30 p.m. local time on October 31 of the Federal fiscal year will be competed against each other. Complete applications for $20,000 or less that are received by the Agency by 4:30 p.m. local time on March 31 of the Federal fiscal year and any applications for $20,000 or less that were not ready to compete or were not funded from the prior competition, will be competed against each other. If either October 31 or March 31 falls on a weekend or a federally observed holiday, the next Federal business day will be considered the last day for receipt of a complete application. Complete applications received after 4:30 p.m. local time on March 31, regardless of the postmark on the application, will be processed in the subsequent fiscal year.
+
+(2) All eligible RES and EEI grant applications requesting $20,000 or less that remain unfunded after completion of the State competition for applications received by March 31 will be competed in the National competition.
+
+(c) *Ranking of applications.* The Agency will rank complete eligible applications using the scoring criteria specific in § 4280.121. Higher scoring applications will receive first consideration.
+
+(d) *Funding selected applications.* As applications are funded, if insufficient funds remain to fund the next highest scoring application, the Agency may elect to fund a lower scoring application. Before this occurs, the Agency will provide the applicant of the higher scoring application the opportunity to reduce the amount of the applicant's grant request to the amount of funds available. If the applicant agrees to lower its grant request, the applicant must certify that the purposes of the project will be met and provide the remaining total funds needed to complete the project. If two or more applications score the same and if remaining funds are insufficient to fund each such application, the Agency will notify the applicants that they may either accept a proportional amount of funds or submit their total request for the next available competition. At its discretion, the Agency may also elect to allow any remaining multi-year funds to be carried over to the next fiscal year rather than selecting a lower scoring application.
+
+(e) *Handling of ranked applications not funded.* Based on the availability of funding, a ranked application might not be funded. Handling of unfunded applications depends on whether the request is more or less than $20,000.
+
+(1) All complete and eligible applications requesting $20,000 or less may be competed in up to five competitions within a Federal fiscal year and if not selected for funding, the Agency will discontinue consideration of the applications.
+
+(2) The Agency will discontinue consideration for funding all complete and eligible applications requesting more than $20,000 that are not selected for funding after the State and National competitions for the Federal fiscal year.
+
+(f) *Commencement of the project.* Not all grant applications that compete for funding will receive an award. Thus, the applicant assumes all risks if the applicant chooses to purchase the proposed equipment or start construction of the proposed project after the complete application has been received by the Agency, but before the applicant is notified as to whether or not they have been selected for an award.

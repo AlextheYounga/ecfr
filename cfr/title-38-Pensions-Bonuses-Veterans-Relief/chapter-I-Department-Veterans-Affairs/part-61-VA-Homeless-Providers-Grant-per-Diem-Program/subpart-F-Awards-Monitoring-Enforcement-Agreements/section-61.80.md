@@ -1,7 +1,5 @@
 ##### § 61.80 General operation requirements for supportive housing and service centers. #####
 
-Link to an amendment published at 86 FR 33524, June 25, 2021.
-
 (a) Supportive housing and service centers for which assistance is provided under this part must comply with the requirements of the current edition of the Life Safety Code of the National Fire Protection Association and all applicable state and local housing codes, licensing requirements, fire and safety requirements, and any other requirements in the jurisdiction in which the project is located regarding the condition of the structure and the operation of the supportive housing or service centers. Note: All facilities are to be protected throughout by an approved automatic sprinkler system unless a facility is specifically exempted under the Life Safety Code.
 
 (b) Except for such variations as are proposed by the recipient that would not affect compliance with paragraph (a) of this section and are approved by VA, supportive housing must meet the following requirements:
@@ -34,27 +32,51 @@ Link to an amendment published at 86 FR 33524, June 25, 2021.
 
 (14) Residents must be provided a clean and sober environment that is free from illicit drug use or from alcohol use that: could threaten the health and/or safety of the residents or staff; hinders the peaceful enjoyment of the premises; or jeopardizes completion of the grantee's project goals and objectives. Those supportive housing or service centers that provide medical or social detox at the same site as the supportive housing or service must ensure that those residents in detox are clearly separated from the general residential population.
 
-(c) Each recipient of assistance under this part must conduct an ongoing assessment of the supportive services needed by the residents of the project and the availability of such services, and make adjustments as appropriate. The recipient will provide evidence of this ongoing assessment to VA regarding the plan described in their grant application to include meeting their performance goals. This information will be incorporated into the annual inspection. Grantees must submit during the grant agreement period to VA, a quarterly technical performance report. A quarterly report must be filed once during each quarter and no later than January 30, April 30, July 30, and October 30. The report may be in any acceptable business format and must include the following information:
+(c) VA will provide performance goals to recipients in its initial federal award and update annually thereafter:
 
-(1) A comparison of actual accomplishments to established goals for the reporting period and response to any findings related to monitoring efforts. This comparison will be on the same level of detail as specified in the program approved in the grant document. It will address quantifiable as well as non-quantifiable goals.
+(1) Each recipient must conduct an ongoing assessment of the supportive housing and services needed by their residents and the availability of housing and services to meet this need. Recipients are expected to make adjustments to meet resident needs.
 
-(2) If established goals have not been met, provide a detailed narrative explanation and an explanation of the corrective action(s) which will be taken, as well as a timetable for accomplishment of the corrective action(s).
+(2) The recipient will provide to the VA GPD Liaison evidence of its ongoing assessment of the plan described in the grant application. The assessment must show how it is using the plan to meet the GPD performance goals.
 
-(3) Other pertinent information, including a description of grant-related activities occurring during the report period. This may include personnel activity (hiring-training), community orientation/awareness activity, programmatic activity (job development). Also identify administrative and programmatic problems, which may affect performance and proposed solutions.
+(3) The VA GPD Liaison will provide the GPD performance information to recipients. VA will incorporate this assessment information into the annual inspection report.
 
-(4) The quarterly technical performance report will be submitted to the VA National GPD Program Liaison assigned to the project, with each quarterly report being a cumulative report for the entire calendar year. All pages of the reporting documents should have the appropriate grant number and signature, where appropriate. VA National GPD Program Liaisons will file the report and corrective actions in the administrative file for the grant.
+(i) The VA GPD Liaison will review the quarterly assessment with the recipient no later than (30) days after the end of each of the following quarters:
 
-(5) Between scheduled reporting dates, the recipient will also immediately inform the VA National GPD Program Liaison of any significant developments affecting the recipient's ability to accomplish the work. VA National GPD Program Liaisons will provide grantees with necessary technical assistance, when and where appropriate as problems arise.
+(A) Quarter 1 (October-December) assessment completed not later than January 30;
 
-(6) For each goal or objective listed in the grant application, grantees will be allowed a 15 percent deviation of each goal or objective. If the deviation is greater than 15 percent in any one goal or objective, a corrective action plan must be submitted to the VA National GPD Program Liaison. Failure to meet goals and objectives may result in withholding of placement, withholding of payment, suspension of payment and termination as outlined in this part or other applicable Federal statutes if the goal or objective would impact the program's ability to provide a successful outcome for veterans.
+(B) Quarter 2 (January-March) assessment completed not later than April 30;
 
-(7) Corrective Action(s): When necessary, the grantee will automatically initiate a Corrective Action Plan (CAP). A CAP will be required if, on a quarterly basis, actual grant accomplishments vary by a margin of ±15 percent or more from the planned goals and objectives. Please note that this is a general rule of thumb, and in some cases ±15 percent deviations are beneficial to the program such as more placements into employment or training than planned, less cost per placement than planned, higher average wage at placement than planned, etc.
+(C) Quarter 3 (April-June) assessment completed not later than July 30; and,
 
-(8) All ±15 percent deviations from the planned goals that have a negative impact on the grantee's ability to accomplish planned goals must be fully explained in the grantee's quarterly technical report and a CAP is to be initiated, developed, and submitted by the grantee to the VA Liaison for approval.
+(D) Quarter 4 (July-September) assessment completed not later than October 30.
 
-(9) The CAP must identify the activity or expenditure source which has the ±15 percent deviation, describe the reason(s) for the variance, provide specific proposed corrective action(s), and a timetable for accomplishment of the corrective action. The plan may include an intent to modify the grant when appropriate.
+(ii) A valid assessment must include the following:
 
-(10) The CAP will be submitted as an addendum to the quarterly technical report. After receipt of the CAP, the VA National GPD Program Liaison will send a letter to the grantee indicating that the CAP is approved or disapproved. If disapproved, VA Liaison will make beneficial suggestions to improve the proposed CAP and request resubmission until CAP is satisfactory to both parties.
+(A) A comparison of actual accomplishments to established GPD performance goals for the reporting period addressing quantifiable as well as non-quantifiable goals. Examples include, but are not limited to, a description of grant agreement-related activities, such as: Hiring and training personnel, community orientation/awareness activities, programmatic activities, or job development; and
+
+(B) Identification of administrative and programmatic problems, which may affect performance and proposed solutions.
+
+(iii) Recipients and VA GPD Liaisons must include a summary of the quarterly assessment in their administrative records. These quarterly assessments will be used to provide a cumulative assessment for the entire calendar year.
+
+(iv) The recipient must immediately inform the VA GPD Liaison of any significant developments affecting its ability to accomplish the work. VA GPD Liaisons will provide necessary technical assistance.
+
+(v) If, after reviewing a recipient's assessment, VA determines that it falls more than five percent below any performance goal, then VA may require the recipient to create and follow a performance improvement plan (PIP) as outlined in 38 CFR 61.80(c)(vi).
+
+(vi) Performance Improvement Plan (PIP): If VA determines that a recipient deviates more than five percent from established GPD performance goals for any two (2) consecutive quarters as defined in 38 CFR 61.80(c)(3)(A)(i) through (iv), the recipient will submit a PIP to the VA GPD Liaison sixty (60) calendar days after VA makes its determination.
+
+(A) The PIP must identify the activity which falls below the measure. The PIP must describe the reason(s) why the recipient did not meet the performance measure(s) and provide specific proposed corrective action(s) and a timetable for accomplishment of the corrective action. The plan may include the recipient's intent to propose modifying the grant agreement. The recipient will submit the PIP to the VA GPD Liaison.
+
+(B) The VA GPD Liaison will forward the PIP to the VA National GPD Program Office. The VA National GPD Program Office will review the PIP and notify the recipient in writing whether the PIP is approved or disapproved. If disapproved, the VA GPD Liaison will make suggestions for improving the proposed PIP, and the recipient may resubmit the PIP to the VA National GPD Program Office.
+
+(vii) If the recipient is not compliant after the PIP, then VA may impose any combination of the following enforcement actions by award revision:
+
+(A) Withhold placements;
+
+(B) Withhold payment;
+
+(C) Suspend payment; and
+
+(D) Terminate the grant agreement, as outlined in this part or other applicable federal statutes and regulations.
 
 (d) A homeless veteran may remain in supportive housing for which assistance is provided under this part for a period no longer than 24 months, except that a veteran may stay longer, if permanent housing for the veteran has not been located or if the veteran requires additional time to prepare for independent living. However, at any given time, no more than one-half of the veterans at such supportive housing facility may have resided at the facility for periods longer than 24 months.
 
@@ -122,4 +144,4 @@ Link to an amendment published at 86 FR 33524, June 25, 2021.
 
 (r) The grantee will ensure that no more than 25 percent of the grant awarded beds are occupied by non-veterans, or VA may take actions as appropriate to decrease the beds, grant amounts, or terminate the grant and seek recapture in the case of capital funding. To calculate the occupancy rate, divide the actual number of bed days of care for veterans eligible to reside in the project, by the total number of possible bed days of care (the previous 180 days from the most current 6 month period).
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0554)(Authority: 38 U.S.C. 501, 2011, 2012, 2061)
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0554)(Authority: 38 U.S.C. 501, 2011, 2012, 2061)[78 FR 12604, Feb. 25, 2013, as amended at 86 FR 33524, June 25, 2021]

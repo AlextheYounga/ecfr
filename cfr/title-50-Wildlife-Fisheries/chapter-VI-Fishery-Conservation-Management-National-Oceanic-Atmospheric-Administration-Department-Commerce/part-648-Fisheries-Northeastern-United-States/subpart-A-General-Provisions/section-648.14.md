@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 86 FR 33558, June 25, 2021.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -55,6 +53,12 @@ Link to an amendment published at 86 FR 33558, June 25, 2021.
 (11) If fishing with bottom-tending mobile gear, fish in, enter, be on a fishing vessel in, the EFH closure areas described in § 648.371, unless otherwise exempted.
 
 (12) Unless otherwise exempted, fish in the Dedicated Habitat Research Areas defined in § 648.371.
+
+(13) Fish with bottom-tending gear within the Georges Bank Deep-Sea Coral Protection Area described at § 648.373(a)(2), unless transiting pursuant to § 648.373(d) or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes, but is not limited to, bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gill nets.
+
+(14) Fish with bottom-tending mobile gear within the Mount Desert Rock Coral Protection Area described at § 648.373(b), unless transiting pursuant to § 648.373(d). Bottom-tending mobile gear includes, but is not limited, to otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
+
+(15) Fish with bottom-tending mobile gear within the Outer Schoodic Ridge Coral Protection Area described at § 648.373(c), unless transiting pursuant to § 648.373(d). Bottom-tending mobile gear includes, but is not limited to, otter trawls, beam trawls, hydraulic dredges, non-hydraulic dredges, and seines (with the exception of a purse seine).
 
 (c) *Dealer permits.* It is unlawful for any person to do any of the following:
 
