@@ -1,8 +1,8 @@
 ##### § 744.18 Restrictions on exports, reexports, and transfers to persons designated in or pursuant to Executive Order 13315. #####
 
-Consistent with Executive Order (E.O.) 13315 of August 28, 2003 (“Blocking Property of the Former Iraqi Regime, Its Senior Officials and Their Family Members, and Taking Certain Other Actions”), BIS maintains restrictions on exports, reexports, and transfers to persons designated in or pursuant to E.O. 13315. These persons include individuals and entities listed in the Annex to Executive Order 13315, as well as persons subsequently designated pursuant to criteria set forth in the order. OFAC includes the names of persons designated pursuant to E.O. 13315 in Appendix A to 31 CFR Chapter V, which lists persons subject to various sanctions programs administered by OFAC. All persons designated in or pursuant to E.O. 13315 are identified in Appendix A by the bracketed initials [IRAQ2].
+Consistent with Executive Order (E.O.) 13315 of August 28, 2003 (“Blocking Property of the Former Iraqi Regime, Its Senior Officials and Their Family Members, and Taking Certain Other Actions”), BIS maintains restrictions on exports, reexports, and transfers to persons designated in or pursuant to E.O. 13315. These persons include individuals and entities listed in the Annex to Executive Order 13315, as well as persons subsequently designated pursuant to criteria set forth in the order. OFAC includes the names of persons designated pursuant to E.O. 13315 in appendix A to 31 CFR chapter V, which lists persons subject to various sanctions programs administered by OFAC. All persons designated in or pursuant to E.O. 13315 are identified in appendix A by the bracketed initials [IRAQ2].
 
-(a) *License Requirements.* (1) A license requirement applies to the export, reexport, or transfer of any item subject to the EAR to -
+(a) *License requirements.* (1) A license requirement applies to the export, reexport, or transfer of any item subject to the EAR to—
 
 (i) Persons listed in the Annex to E.O. 13315 of August 28, 2003; or
 

@@ -59,7 +59,7 @@ Minimum Size Tubing and Pipe for Water Distribution Systems
 |Number of fixtures|   Tubing (nominal)    |Pipe iron pipe size (inches)|   |
 |------------------|-----------------------|----------------------------|---|
 |Diameter (inches) |Outer diameter (inches)|                            |   |
-|        1         |      \*<br/>1/4       |            3/8             |1/2|
+|        1         |         \*1/4         |            3/8             |1/2|
 |        2         |          3/8          |            1/2             |1/2|
 |        3         |          1/2          |            5/8             |1/2|
 |        4         |          1/2          |            5/8             |1/2|

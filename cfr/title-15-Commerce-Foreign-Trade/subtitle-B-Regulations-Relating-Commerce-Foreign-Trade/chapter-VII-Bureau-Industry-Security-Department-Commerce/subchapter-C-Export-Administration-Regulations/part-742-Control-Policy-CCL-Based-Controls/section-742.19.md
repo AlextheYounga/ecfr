@@ -1,6 +1,6 @@
 ##### § 742.19 Anti-terrorism: North Korea. #####
 
-(a) *License Requirements.* (1) All items on the Commerce Control List (CCL) (i.e., with a designation other than EAR99) that are controlled for anti-terrorism reasons require a license for export or reexport to North Korea. This includes all items on the CCL containing AT column 1 or AT column 2 in the Country Chart column of the License requirements section of an ECCN; and ECCNs 0A986, 0A988, 0A999, 0B986, 0B999, 0D999, 1A999, 1B999, 1C995, 1C999, 1D999, 2A994, 2A999, 2B999, 2D994, 2E994, 3A999, and 6A999. See also part 746 of the EAR.
+(a) *License requirements.* (1) All items on the Commerce Control List (CCL) (i.e., with a designation other than EAR99) that are controlled for anti-terrorism reasons require a license for export or reexport to North Korea. This includes all items on the CCL containing AT column 1 or AT column 2 in the Country Chart column of the License requirements section of an ECCN; and ECCNs 0A986, 0A988, 0A999, 0B986, 0B999, 0D999, 1A999, 1B999, 1C995, 1C999, 1D999, 2A994, 2A999, 2B999, 2D994, 2E994, 3A999, and 6A999. See also part 746 of the EAR.
 
 (2) The Secretary of State has designated North Korea as a country whose Government has repeatedly provided support for acts of international terrorism.
 

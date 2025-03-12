@@ -1,6 +1,6 @@
 ##### § 742.8 Anti-terrorism: Iran. #####
 
-(a) *License Requirements.* (1) A license is required for anti-terrorism purposes to export or reexport to Iran any item for which AT column 1 or AT column 2 is indicated in the Country Chart column of the applicable ECCN or any item described in ECCNs 1C350, 1C355, 1C395, 2A994, 2D994 and 2E994. See paragraph (a)(5) of this section for controls maintained by the Department of the Treasury. See § 746.7 of the EAR for additional EAR license requirements that apply to Iran.
+(a) *License requirements.* (1) A license is required for anti-terrorism purposes to export or reexport to Iran any item for which AT column 1 or AT column 2 is indicated in the Country Chart column of the applicable ECCN or any item described in ECCNs 1C350, 1C355, 1C395, 2A994, 2D994 and 2E994. See paragraph (a)(5) of this section for controls maintained by the Department of the Treasury. See § 746.7 of the EAR for additional EAR license requirements that apply to Iran.
 
 (2) [Reserved]
 

@@ -1,6 +1,6 @@
 ##### § 764.8 Voluntary self-disclosures for boycott violations. #####
 
-This section sets forth procedures for disclosing violations of part 760 of the EAR - Restrictive Trade Practices or Boycotts and violations of part 762 - Recordkeeping - with respect to records related to part 760. In this section, these provisions are referred to collectively as the “antiboycott provisions.” This section also describes BIS's policy regarding such disclosures.
+This section sets forth procedures for disclosing violations of part 760 of the EAR—Restrictive Trade Practices or Boycotts and violations of part 762—Recordkeeping—with respect to records related to part 760. In this section, these provisions are referred to collectively as the “antiboycott provisions.” This section also describes BIS's policy regarding such disclosures.
 
 (a) *General policy.* BIS strongly encourages disclosure to the Office of Antiboycott Compliance (OAC) if you believe that you may have violated the antiboycott provisions. Voluntary self-disclosures are a mitigating factor with respect to any enforcement action that OAC might take.
 
@@ -10,9 +10,9 @@ This section sets forth procedures for disclosing violations of part 760 of the 
 
 (3) *Timing.* The provisions of this section apply only if OAC receives the voluntary self-disclosure as described in paragraph (c)(2) of this section before it commences an investigation or inquiry in connection with the same or substantially similar information it received from another source.
 
-(i) *Mandatory Reports.* For purposes of this section, OAC's receipt of a report required to be filed under § 760.5 of the EAR that discloses that a person took an action prohibited by part 760 of the EAR constitutes the receipt of information from another source.
+(i) *Mandatory reports.* For purposes of this section, OAC's receipt of a report required to be filed under § 760.5 of the EAR that discloses that a person took an action prohibited by part 760 of the EAR constitutes the receipt of information from another source.
 
-(ii) *Requests for Advice.* For purposes of this section, a violation that is revealed to OAC by a person who is seeking advice, either by telephone or e-mail, about the antiboycott provisions does not constitute the receipt of information from another source. Such revelation also does not constitute a voluntary self-disclosure or initial notification of a voluntary self-disclosure for purposes of this section.
+(ii) *Requests for advice.* For purposes of this section, a violation that is revealed to OAC by a person who is seeking advice, either by telephone or e-mail, about the antiboycott provisions does not constitute the receipt of information from another source. Such revelation also does not constitute a voluntary self-disclosure or initial notification of a voluntary self-disclosure for purposes of this section.
 
 (4) Although a voluntary self-disclosure is a mitigating factor in determining what administrative sanctions, if any, will be sought by BIS, it is a factor that is considered together with all other factors in a case. The weight given to voluntary self-disclosure is solely within the discretion of BIS, and the mitigating effect of voluntary self-disclosure may be outweighed by aggravating factors. Voluntary self-disclosure does not prevent transactions from being referred to the Department of Justice for criminal prosecution. In such a case, BIS would notify the Department of Justice of the voluntary self-disclosure, but the decision as to how to consider that factor is within the discretion of the Department of Justice.
 
@@ -20,7 +20,7 @@ This section sets forth procedures for disclosing violations of part 760 of the 
 
 (6) The provisions of this section do not, nor should they be relied on to, create, confer, or grant any rights, benefits, privileges, or protection enforceable at law or in equity by any person, business, or entity in any civil, criminal, administrative, or other matter.
 
-(c) *Information to be provided.* (1) *General.* Any person wanting to disclose information that constitutes a voluntary self-disclosure should, in the manner outlined below, initially notify OAC as soon as possible after violations are discovered, and then conduct a thorough review of all transactions where violations of the antiboycott provisions are suspected.
+(c) *Information to be provided*—(1) *General.* Any person wanting to disclose information that constitutes a voluntary self-disclosure should, in the manner outlined below, initially notify OAC as soon as possible after violations are discovered, and then conduct a thorough review of all transactions where violations of the antiboycott provisions are suspected.
 
 (2) *Initial notification.* The initial notification must be in writing and be sent to the address in § 764.8(c)(7) of this part. The notification should include the name of the person making the disclosure and a brief description of the suspected violations. The notification should describe the general nature and extent of the violations. If the person making the disclosure subsequently completes the narrative account required by § 764.8(c)(3) of this part, the disclosure will be deemed to have been made on the date of the initial notification for purposes of § 764.8(b)(3) of this part.
 

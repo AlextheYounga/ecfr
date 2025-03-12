@@ -36,8 +36,8 @@ Maximum Distance of Fixtures From Vent Trap
 
 |Size of fixture drain (inches)|Distance trap to vent|
 |------------------------------|---------------------|
-|          1<br/>1/4           |     4 ft. 6 in.     |
-|          1<br/>1/2           |     4 ft 6 in.      |
+|             11/4             |     4 ft. 6 in.     |
+|             11/2             |     4 ft 6 in.      |
 |              2               |        5 ft.        |
 |              3               |        6 ft.        |
 

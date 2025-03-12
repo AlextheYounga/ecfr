@@ -44,6 +44,6 @@ License Exception TSU under § 740.13 of the EAR is available for the ECCNs cont
 
 (3) Applicants who wish that a pre-existing contract be considered in reviewing their license applications must submit documentation sufficient to establish the existence of a contract.
 
-(d) *Missile Technology Control Regime.* Missile Technology Control Regime (MTCR) membersare listed in Country Group A:2 (see supplement no. 1 to part 740 of the EAR). Controls on items identified in paragraph (a) of this section are consistent with the list agreed to in the MTCR and included in the MTCR Annex.
+(d) *Missile Technology Control Regime.* Missile Technology Control Regime (MTCR) members are listed in Country Group A:2 (see supplement no. 1 to part 740 of the EAR). Controls on items identified in paragraph (a) of this section are consistent with the list agreed to in the MTCR and included in the MTCR Annex.
 
 [61 FR 12786, Mar. 25, 1996, as amended at 68 FR 16147, Apr. 2, 2003; 69 FR 46075, July 30, 2004; 72 FR 33656, June 19, 2007; 76 FR 4231, Jan. 25, 2011; 81 FR 19030, Apr. 4, 2016; 81 FR 76861, Nov. 4, 2016]

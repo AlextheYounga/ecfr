@@ -10,7 +10,7 @@ The Bureau of the Census' Foreign Trade Regulations (FTR) (15 CFR Part 30) conta
 
 (2) Any party to the export transaction is contained on BIS's Denied Party, Entity Lists, [SDN], or Unverified List;
 
-(3) Exports are destined to a country in Country Group E:1 or E:2 (supplement no. 1 to Part 740 of the EAR);
+(3) Exports are destined to a country in Country Group E:1 or E:2 (supplement no. 1 to part 740 of the EAR);
 
 (4) Exports are made under License Exception Strategic Trade Authorization (STA); are made under Authorization Validated End User (VEU); or are of 9x515 or “600 series” items.
 

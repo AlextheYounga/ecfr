@@ -4,7 +4,7 @@
 
 (b) *When is an EEI filing required to be filed in the AES.* Except when the export of items subject to the EAR is to take place electronically or in an otherwise intangible form, you must file EEI in the AES with the United States Government for items subject to the EAR, including exports by U.S. mail, in the following situations:
 
-(1) For all exports of items subject to the EAR that are destined to a country in Country Group E:1 or E:2 of Supplement No. 1 to Part 740 of the EAR regardless of value;
+(1) For all exports of items subject to the EAR that are destined to a country in Country Group E:1 or E:2 of supplement no. 1 to part 740 of the EAR regardless of value;
 
 (2) For all exports subject to the EAR that require submission of a license application, regardless of value or destination;
 

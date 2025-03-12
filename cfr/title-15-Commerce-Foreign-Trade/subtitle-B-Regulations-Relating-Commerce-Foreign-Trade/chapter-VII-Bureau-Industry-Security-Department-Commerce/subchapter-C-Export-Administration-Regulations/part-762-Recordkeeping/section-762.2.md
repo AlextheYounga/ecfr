@@ -88,9 +88,7 @@ Link to an amendment published at 82 FR 6218, Jan. 19, 2017.
 
 (30) § 750.10, Transfer of licenses for export;
 
-(31)-(38) [Reserved]
-
-(39) [Reserved]
+(31)-(39) [Reserved]
 
 (40) § 754.4, Unprocessed western red cedar;
 

@@ -1,10 +1,10 @@
-##### § 740.17 Encryption Commodities, Software, and Technology (ENC). #####
+##### § 740.17 Encryption commodities, software, and technology (ENC). #####
 
 License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCNs 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” classified under ECCNs 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release of source code or technology to any national of a country listed in Country Groups E:1 or E:2. Reexports and transfers (in-country) under License Exception ENC are subject to the criteria set forth in paragraph (c) of this section. Paragraphs (b) and (d) of this section set forth information about classifications required by this section. Items described in paragraphs (b)(1) and (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5 - Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following self-classification or classification by BIS and are no longer subject to “EI” and “NS” controls. Paragraph (e) sets forth reporting required by this section. For items exported under paragraphs (b)(1), (b)(3)(i), (ii), or (iv) of this section and therefore excluded from paragraph (e) reporting requirements, exporters are reminded of the recordkeeping requirements in part 762 of the EAR and that they may be required to make such records available upon request. All classification requests, and reports submitted to BIS pursuant to this section for encryption items will be reviewed by the ENC Encryption Request Coordinator, Ft. Meade, MD.
 
 (a) *No classification request or reporting required.* License Exception ENC authorizes the export, reexport, or transfer (in-country) to the end users and for the end uses set forth in paragraphs (a)(1) through (3) of this section, without submission of a classification request, self-classification report or sales report to BIS.
 
-(1) *Certain exports, reexports, transfers (in-country) to 'private sector end users'* - (i) *Internal “development” or “production” of new products.* License Exception ENC authorizes certain exports, reexports, and transfers (in-country) of items described in paragraph (a) of this section for the internal “development” or “production” of new products by 'private sector end users,' wherever located, that are headquartered in a country listed in Supplement No. 3 of this part.
+(1) *Certain exports, reexports, transfers (in-country) to 'private sector end users'* - (i) *Internal “development” or “production” of new products.* License Exception ENC authorizes certain exports, reexports, and transfers (in-country) of items described in paragraph (a) of this section for the internal “development” or “production” of new products by 'private sector end users,' wherever located, that are headquartered in a country listed in supplement no. 3 of this part.
 
 (ii) *Certain exports, reexports, transfers (in-country) to related parties, not involving “development” or “production” of new products.* For internal end uses among 'private sector end users' other than the “development” or “production” of new products, License Exception ENC authorizes exports, reexports, and transfers (in-country) of non-U.S.-origin items, described in paragraph (a) of this section, to 'private sector end users' wherever located provided that:
 
@@ -40,7 +40,7 @@ Note to paragraph (b)(2) introductory text:
 
 Immediately after the classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph also authorizes exports, reexports, and transfers (in-country) of:
 
-1. All submitted encryption items described in this paragraph (b)(2), except “cryptanalytic items,” to any end user located or headquartered in a country listed in Supplement No. 3 to this part;
+1. All submitted encryption items described in this paragraph (b)(2), except “cryptanalytic items,” to any end user located or headquartered in a country listed in supplement no. 3 to this part;
 
 2. Encryption source code as described in paragraph (b)(2)(i)(B) to non-“government end users” in any country;
 
@@ -124,13 +124,13 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 (H) *Specified cryptographic ultra-wideband and “spread spectrum” items.* Encryption commodities and components therefor, classified under ECCNs 5A002.d or .e, and equivalent or related software therefor classified under ECCN 5D002.
 
-(ii) *Cryptanalytic commodities and software. “*Cryptanalytic items” classified in ECCN 5A004 or 5D002 to non- “government end users” located or headquartered in countries not listed in Supplement No. 3 to this part.
+(ii) *Cryptanalytic commodities and software. “*Cryptanalytic items” classified in ECCN 5A004 or 5D002 to non- “government end users” located or headquartered in countries not listed in supplement no. 3 to this part.
 
-(iii) *“Open cryptographic interface” items.* Items that provide an “open cryptographic interface,” to any end user located or headquartered in a country listed in Supplement No. 3 to this part.
+(iii) *“Open cryptographic interface” items.* Items that provide an “open cryptographic interface,” to any end user located or headquartered in a country listed in supplement no. 3 to this part.
 
 (iv) *Specific encryption technology.* Specific encryption technology as follows:
 
-(A) *Technology for “non-standard cryptography.”* Encryption technology classified under ECCN 5E002 for “non-standard cryptography,” to any end user located or headquartered in a country listed in Supplement No. 3 to this part;
+(A) *Technology for “non-standard cryptography.”* Encryption technology classified under ECCN 5E002 for “non-standard cryptography,” to any end user located or headquartered in a country listed in supplement no. 3 to this part;
 
 (B) *Other technology.* Encryption technology classified under ECCN 5E002 except technology for “cryptanalytic items,” “non-standard cryptography” or any “open cryptographic interface,” to any non-“government end user” located in a country not listed in Country Group D:1, E:1, or E:2 of supplement no. 1 to part 740 of the EAR.
 
@@ -139,7 +139,6 @@ Note to paragraph (b)(2):
 Commodities, components, and software classified under ECCNs 5A002.b or 5D002.d, for the “cryptographic activation” of commodities or software specified by this paragraph (b)(2) are also controlled under this paragraph (b)(2).
 
 (3) *Classification request required for specified commodities, software, and components.* Thirty (30) days after a classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph authorizes exports, reexports, and transfers (in-country) of the items submitted for classification, as further described in this paragraph (b)(3), to any end user, provided the item does not perform the functions, or otherwise meet the specifications, of any item described in paragraph (b)(2) of this section. Items described in paragraphs (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5 - Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following classification by BIS.
-‘
 
 Note to introductory text of paragraph (b)(3):
 
@@ -163,7 +162,9 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (c) *Reexport and transfer (in-country).* Distributors, resellers or other entities who are not original manufacturers of encryption commodities and software are permitted to use License Exception ENC only in instances where the reexport or transfer (in-country) meets the applicable terms and conditions of this section. Transfers of encryption items listed in paragraph (b)(2) of this section to “government end users,” or for government end uses, within the same country are prohibited, unless otherwise authorized by license or license exception.
 
-(d) *Classification request procedures* - (1) Submission requirements and instructions. To submit a classification request to BIS, you must submit an application to BIS in accordance with the procedures described in §§ 748.1 and 748.3 of the EAR and the instructions in paragraph (r) of supplement no. 2 to part 748 “Unique Application and Submission Requirements,” along with other required information as follows:
+(d) *Classification request procedures* - (1) *Submission requirements and instructions.* To submit a classification request to BIS, you must submit an application to BIS in accordance with the procedures described in §§ 748.1 and 748.3 of the EAR and the instructions in paragraph (r) of supplement no. 2 to part 748 “Unique Application and Submission Requirements,” along with other required information as follows:
+
+(i) [Reserved]
 
 (ii) *Technical information submission requirements.* For all submissions of encryption classification requests for items described under paragraph (b)(2) or (b)(3) of this section, you must submit the applicable information described in paragraphs (a) through (d) of supplement no. 6 to part 742 of the EAR (Technical Questionnaire for Encryption Items). For items eligible for self-classification that are submitted to BIS for classification you may be required to provide BIS this supplement no. 6 to part 742 information on an as-needed basis, upon request by BIS.
 

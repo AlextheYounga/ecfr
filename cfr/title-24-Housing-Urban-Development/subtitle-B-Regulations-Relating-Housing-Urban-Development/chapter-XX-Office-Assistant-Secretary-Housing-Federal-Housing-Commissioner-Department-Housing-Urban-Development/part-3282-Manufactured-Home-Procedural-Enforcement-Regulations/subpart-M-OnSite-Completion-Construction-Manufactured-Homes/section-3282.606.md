@@ -1,6 +1,6 @@
 ##### § 3282.606 Consumer information. #####
 
-(a) *Notice.* Any home completed under the procedures established in this section must be shipped with a temporary notice that explains that the home will comply with the requirements of the construction and safety standards only after all of the site work has been completed and inspected. The notice must be legible and typed, using letters at least 1/4 inch high in the text of the notice and 3/4 inch high for the title. The notice must read as follows:
+(a) *Notice.* Any home completed under the procedures established in this section must be shipped with a temporary notice that explains that the home will comply with the requirements of the construction and safety standards only after all of the site work has been completed and inspected. The notice must be legible and typed, using letters at least1/4 inch high in the text of the notice and3/4 inch high for the title. The notice must read as follows:
 
 IMPORTANT CONSUMER INFORMATION NOTICE
 

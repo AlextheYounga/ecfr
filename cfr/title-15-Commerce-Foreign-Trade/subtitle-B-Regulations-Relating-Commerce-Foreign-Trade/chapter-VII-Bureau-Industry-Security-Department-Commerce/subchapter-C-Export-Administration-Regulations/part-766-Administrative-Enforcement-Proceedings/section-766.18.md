@@ -12,6 +12,6 @@
 
 (e) Cases that are settled may not be reopened or appealed.
 
-(f) Supplements Nos. 1 and 2 to this part describe how BIS typically exercises its discretion regarding the terms under which it is willing to settle particular cases.
+(f) Supplements nos. 1 and 2 to this part describe how BIS typically exercises its discretion regarding the terms under which it is willing to settle particular cases.
 
 [61 FR 12907, Mar. 25, 1996, as amended at 69 FR 7870, Feb. 20, 2004; 72 FR 39006, July 17, 2007]

@@ -34,8 +34,7 @@ Do Not Use Tools To Separate the “Quick-Disconnect” Device
 
 (d) *Gas pipe sizing.* Gas piping systems shall be sized so that the pressure drop to any appliance inlet connection from any gas supply connection, when all appliances are in operation at maximum capacity, is not more than 0.5 inch water column as determined on the basis of test, or in accordance with table 3280.705(d). When determining gas pipe sizing in the table, gas shall be assumed to have a specific gravity of 0.65 and rated at 1000 B.T.U. per cubic foot. The natural gas supply connection(s) shall be not less than the size of the gas piping but shall be not smaller than3/4 inch nominal pipe size.
 
-Table to paragraph (d) - Maximum Capacity of Different Sizes of Pipe and Tubing in Thousands of Btu/hr of Natural Gas for Gas Pressures of 0.5 psig or Less, and a Maximum Pressure Drop of
-1/2 in. Water Column
+Table to paragraph (d) - Maximum Capacity of Different Sizes of Pipe and Tubing in Thousands of Btu/hr of Natural Gas for Gas Pressures of 0.5 psig or Less, and a Maximum Pressure Drop of1/2 in. Water Column
 
 |        ID (in.)        |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
 |------------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
@@ -46,18 +45,18 @@ Table to paragraph (d) - Maximum Capacity of Different Sizes of Pipe and Tubing 
 |          3/4           | 360 | 250 | 200 | 170 | 151 | 138 | 125 | 118 | 110 | 103  |
 |           1            | 680 | 465 | 375 | 320 | 285 | 260 | 240 | 220 | 215 | 195  |
 
-|                   EHD<sup>2</sup>                    |ID (in.) |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
-|------------------------------------------------------|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
-|Corrugated Stainless Steel Tubing - Length<sup>1</sup>|         |     |     |     |     |     |     |     |     |     |      |
-|                          13                          |   3/8   | 31  | 21  | 17  | 14  | 13  | 12  | 11  | 10  | 10  |  9   |
-|                          15                          |   3/8   | 42  | 30  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
-|                          18                          |   1/2   | 79  | 56  | 45  | 39  | 36  | 33  | 30  | 28  | 27  |  25  |
-|                          19                          |   1/2   | 91  | 64  | 52  | 45  | 40  | 36  | 35  | 32  | 31  |  29  |
-|                          23                          |   3/4   | 155 | 111 | 92  | 80  | 72  | 65  | 60  | 58  | 55  |  52  |
-|                          25                          |   3/4   | 184 | 132 | 108 | 93  | 84  | 77  | 71  | 66  | 62  |  60  |
-|                          30                          |    1    | 317 | 222 | 180 | 156 | 138 | 126 | 116 | 108 | 103 |  97  |
-|                          31                          |    1    | 368 | 258 | 209 | 180 | 161 | 147 | 135 | 127 | 120 | 113  |
-|                          37                          |1<br/>1/4| 598 | 426 | 350 | 304 | 273 | 250 | 231 | 217 | 205 | 195  |
+|                   EHD<sup>2</sup>                    |ID (in.)|10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
+|------------------------------------------------------|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+|Corrugated Stainless Steel Tubing - Length<sup>1</sup>|        |     |     |     |     |     |     |     |     |     |      |
+|                          13                          |  3/8   | 31  | 21  | 17  | 14  | 13  | 12  | 11  | 10  | 10  |  9   |
+|                          15                          |  3/8   | 42  | 30  | 24  | 20  | 18  | 16  | 15  | 14  | 13  |  12  |
+|                          18                          |  1/2   | 79  | 56  | 45  | 39  | 36  | 33  | 30  | 28  | 27  |  25  |
+|                          19                          |  1/2   | 91  | 64  | 52  | 45  | 40  | 36  | 35  | 32  | 31  |  29  |
+|                          23                          |  3/4   | 155 | 111 | 92  | 80  | 72  | 65  | 60  | 58  | 55  |  52  |
+|                          25                          |  3/4   | 184 | 132 | 108 | 93  | 84  | 77  | 71  | 66  | 62  |  60  |
+|                          30                          |   1    | 317 | 222 | 180 | 156 | 138 | 126 | 116 | 108 | 103 |  97  |
+|                          31                          |   1    | 368 | 258 | 209 | 180 | 161 | 147 | 135 | 127 | 120 | 113  |
+|                          37                          |  11/4  | 598 | 426 | 350 | 304 | 273 | 250 | 231 | 217 | 205 | 195  |
 
 |       OD (in.)       |10 ft|20 ft|30 ft|40 ft|50 ft|60 ft|70 ft|80 ft|90 ft|100 ft|
 |----------------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|

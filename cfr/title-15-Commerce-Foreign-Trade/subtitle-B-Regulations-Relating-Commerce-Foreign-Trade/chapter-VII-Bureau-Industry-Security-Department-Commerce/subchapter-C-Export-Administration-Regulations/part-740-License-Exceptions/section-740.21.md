@@ -64,7 +64,7 @@
 
 (2) The export or reexport to Cuba of items to be given away for free as gifts for promotional purposes. Items authorized pursuant to this paragraph (e)(3) are limited to those items of a type normally given away for free as gifts for promotional purposes that are designated as EAR99 (*i.e.,* items subject to the EAR but not specified in any ECCN).
 
-Note to paragraph (e).
+Note to paragraph (e):
 
 Any resulting payments associated with establishing or maintaining a physical or business presence in Cuba, such as lease payments, are permitted only to the extent authorized by 31 CFR 515.573 or a specific license issued by OFAC.
 
