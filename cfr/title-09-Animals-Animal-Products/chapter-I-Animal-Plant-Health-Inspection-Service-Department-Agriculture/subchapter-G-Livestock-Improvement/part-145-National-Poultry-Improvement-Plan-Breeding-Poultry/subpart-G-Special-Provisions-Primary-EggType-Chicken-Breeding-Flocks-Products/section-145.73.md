@@ -1,7 +1,5 @@
 ##### § 145.73 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 85 FR 62567, Oct. 5, 2020.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section, may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
@@ -60,25 +58,15 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (v) Environmental samples shall be collected from the flock by an Authorized Agent, in accordance with part 147 of this subchapter, when the flock is 2 to 4 weeks of age. The samples shall be examined bacteriologically for group D salmonella at an authorized laboratory. Cultures from positive samples shall be serotyped. The Authorized Agent shall also collect samples every 30 days after the first sample has been collected.
 
-(vi) If a *Salmonella* vaccine is used that causes positive reactions with pullorum-typhoid antigen, one of the following options must be utilized.
+(vi) Hatching eggs are collected as quickly as possible and are handled as described in § 147.22 of this subchapter and are sanitized or fumigated (see § 147.25 of this subchapter).
 
-(A) Administer the vaccine after the pullorum-typhoid testing is done as described in paragraph (d)(1)(vii) of this section.
-
-(B) If an injectable bacterin or live vaccine that does not spread is used, keep a sample of 350 birds unvaccinated and banded for identification until the flock reaches at least 4 months of age. Following negative serological and bacteriological examinations as described in paragraph (d)(1)(vii) of this section, vaccinate the banded, non-vaccinated birds.
-
-(vii) Blood samples from 300 non-vaccinated birds as described in paragraph (d)(1)(vi) of this section shall be tested with either pullorum antigen or by a federally licensed *Salmonella enteritidis* enzyme-linked immunosorbent assay (ELISA) test when the flock is more than 4 months of age. All birds with positive or inconclusive reactions, up to a maximum of 25 birds, shall be submitted to an authorized laboratory and examined for the presence of group D salmonella, in accordance with part 147 of this subchapter. Cultures from positive samples shall be serotyped.
-
-(viii) Hatching eggs are collected as quickly as possible and are handled as described in § 147.22 of this subchapter and are sanitized or fumigated (see § 147.25 of this subchapter).
-
-(ix) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter and sanitized either by a procedure approved by the Official State Agency or in accordance with part 147 of this subchapter.
+(vii) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter and sanitized either by a procedure approved by the Official State Agency or in accordance with part 147 of this subchapter.
 
 (2) A flock shall not be eligible for this classification if *Salmonella enteritidis* serotype *enteritidis* (SE) is isolated from a specimen taken from a bird in the flock. Isolation of SE from an environmental or other specimen, as described in paragraph (d)(1)(v) of this section, will require bacteriological examination for SE in an authorized laboratory, in accordance with part 147 of this subchapter, of a random sample of 60 live birds from a flock of 5,000 birds or more, or 30 live birds from a flock with fewer than 5,000 birds. If only one specimen is found positive for SE, the participant may request bacteriological examination of a second sample, equal in size to the first sample, from the flock. If no SE is recovered from any of the specimens in the second sample, the flock will be eligible for the classification.
 
-(3) A non-vaccinated flock shall be eligible for this classification if SE is isolated from an environmental sample collected from the flock in accordance with paragraph (d)(1)(v) of this section: *Provided,* That testing is conducted in accordance with paragraph (d)(1)(vii) of this section each 30 days and no positive samples are found.
+(3) In order for a hatchery to sell products of this classification, all products handled shall meet the requirements of the classification.
 
-(4) In order for a hatchery to sell products of this classification, all products handled shall meet the requirements of the classification.
-
-(5) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures. The Official State Agency shall not revoke the participant's classification until the participant has been given an opportunity for a hearing in accordance with rules of practice adopted by the Official State Agency.
+(4) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures. The Official State Agency shall not revoke the participant's classification until the participant has been given an opportunity for a hearing in accordance with rules of practice adopted by the Official State Agency.
 
 (e) *U.S. M. Synoviae Clean.* (1) A flock maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management and in which freedom from *M. synoviae* has been demonstrated under the criteria specified in paragraph (e)(1)(i) of this section.
 
@@ -126,4 +114,30 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (4) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
 
-[72 FR 1420, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018]
+(h) *U.S. Newcastle Disease Clean.* The program in this paragraph (h) is intended to be the basis from which the breeding-hatchery industry may conduct a program for the prevention and control of Newcastle disease. It is intended to determine the presence of Newcastle disease in primary breeding chickens through vaccination and/or monitoring of each participating breeding flock. A flock and the hatching eggs and chicks produced from it will qualify for the classification in this paragraph (h) when the Official State Agency determines that they have met the following requirements:
+
+(1) It is a primary breeding flock that is either:
+
+(i) Vaccinated for Newcastle disease using USDA-licensed vaccines and response to vaccination is serologically monitored using an approved test as described in § 145.14 when more than 4 months of age and meets the criteria in paragraph (h)(2) of this section to retain classification; or
+
+(ii) Unvaccinated for Newcastle disease, in which a minimum of 30 birds have tested negative to ND using an approved test as described in § 145.14 when more than 4 months of age and meets criteria in paragraph (h)(3) of this section to retain classification.
+
+(2) To retain the classification in this paragraph (h) for vaccinated flocks:
+
+(i) Vaccines for ND must be USDA-licensed vaccines administered during early stages of development through rearing, and inactivated vaccines as final vaccination prior to the onset of egg production; and
+
+(ii) The flock has been monitored for antibody response using approved serological tests as listed in § 145.14 and the results are compatible with immunological response against ND vaccination; and
+
+(iii) Testing must include a minimum of 30 birds with a serologic monitoring program when more than 4 months of age and prior to the onset of production and not longer than every 90 days thereafter.
+
+(3) To retain the classification in this paragraph (h) for unvaccinated flocks:
+
+(i) A minimum of 30 birds per flock must test negative using an approved test as described in § 145.14 at intervals of 90 days; or
+
+(ii) A sample of fewer than 30 birds may be tested, and found negative, at any one time if all pens are equally represented and a total of 30 birds is tested within each 90-day period; and
+
+(iii) During each 90-day period, all primary spent fowl, up to a maximum of 30, must test negative to ND within 21 days prior to movement to slaughter.
+
+(4) Newcastle disease must be a disease reportable to the responsible State authority (State veterinarian, etc.) by all licensed veterinarians. To accomplish this, all laboratories (private, State, and university laboratories) that perform diagnostic procedures on poultry must examine all submitted cases of unexplained respiratory disease, egg production drops, and mortality for ND.
+
+(Approved by the Office of Management and Budget under control number 0579-0474)[72 FR 1420, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38759, July 9, 2014; 83 FR 28353, June 19, 2018; 85 FR 62567, Oct. 5, 2020]

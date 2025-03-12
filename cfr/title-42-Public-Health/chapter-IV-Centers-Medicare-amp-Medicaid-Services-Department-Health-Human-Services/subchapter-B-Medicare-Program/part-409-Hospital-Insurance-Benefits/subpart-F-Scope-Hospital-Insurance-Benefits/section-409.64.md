@@ -1,5 +1,7 @@
 ##### § 409.64 Services that are counted toward allowable amounts. #####
 
+Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
+
 (a) Except as provided in paragraph (b) of this section for lifetime reserve days, all covered inpatient days and home health visits are counted toward the allowable amounts specified in §§ 409.61 through 409.63 if -
 
 (1) They are paid for by Medicare; or

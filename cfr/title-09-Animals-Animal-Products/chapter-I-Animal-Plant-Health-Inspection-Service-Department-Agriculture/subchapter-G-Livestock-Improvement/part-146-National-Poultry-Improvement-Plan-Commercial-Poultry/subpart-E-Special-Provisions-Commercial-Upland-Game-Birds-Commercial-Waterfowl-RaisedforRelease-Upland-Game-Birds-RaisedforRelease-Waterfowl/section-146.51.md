@@ -1,19 +1,15 @@
 ##### § 146.51 Definitions. #####
 
-Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+Except where the context otherwise requires, for the purposes of this subpart the following terms shall be construed, respectively, to mean:
 
-*Commercial upland game bird slaughter plant.* A commercial upland game bird slaughter plant that is federally inspected or under State inspection that the U.S. Department of Agriculture's Food Safety and Inspection Service has recognized as equivalent to Federal inspection.
+*Egg/meat-type game birds.* Domesticated fowl such as pheasants, partridge, quail, grouse, and guineas, but not doves and pigeons grown under confinement for the primary purposes of producing eggs and/or meat for human consumption.
 
-*Commercial upland game birds.* Upland game bird pheasants, quail, or partridges grown under confinement for the primary purposes of producing eggs and/or meat for human consumption.
+*Egg/meat-type waterfowl.* Domesticated ducks or geese grown under confinement for the primary purposes of producing eggs and/or meat for human consumption.
 
-*Commercial waterfowl.* Domesticated ducks or geese grown under confinement for the primary purposes of producing eggs and/or meat for human consumption.
+*Meat-type game bird slaughter plant.* A meat-type game bird slaughter plant that is federally inspected or under State inspection that the U.S. Department of Agriculture's Food Safety and Inspection Service has recognized as equivalent to Federal inspection.
 
-*Commercial waterfowl slaughter plant.* A commercial waterfowl slaughter plant that is federally inspected or under State inspection that the U.S. Department of Agriculture's Food Safety and Inspection Service has recognized as equivalent to Federal inspection.
-
-*Raised-for-release upland game birds.* Pheasants, quail, and partridge that are raised under confinement for release in game preserves and are not breeding stock.
-
-*Raised-for-release waterfowl.* Waterfowl that are raised under confinement for release in game preserves and are not breeding stock.
+*Meat-type waterfowl slaughter plant.* A meat-type waterfowl slaughter plant that is federally inspected or under State inspection that the U.S. Department of Agriculture's Food Safety and Inspection Service has recognized as equivalent to Federal inspection.
 
 *Shift.* The working period of a group of employees who are on duty at the same time.
 
-[74 FR 14717, Apr. 1, 2009, as amended at 81 FR 53250, Aug. 12, 2016]
+[85 FR 62571, Oct. 5, 2020]

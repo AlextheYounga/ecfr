@@ -1,7 +1,5 @@
 ##### § 145.14 Testing. #####
 
-Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
-
 Poultry must be more than 4 months of age when tested for an official classification: *Provided,* That turkey candidates under subpart D of this part may be tested at more than 12 weeks of age; game bird candidates under subpart E of this part may be tested when more than 4 months of age or upon reaching sexual maturity, whichever comes first; and ostrich, emu, rhea, and cassowary candidates under subpart F of this part may be tested when more than 12 months of age. Samples for official tests shall be collected by an Authorized Agent, Authorized Testing Agent, or State Inspector and tested by an authorized laboratory, except that the stained antigen, rapid whole-blood test for pullorum-typhoid may be conducted by an Authorized Testing Agent or State Inspector. For Plan programs in which a representative sample may be tested in lieu of an entire flock, except the ostrich, emu, rhea, and cassowary program in § 145.63(a), the minimum number tested shall be 30 birds per house, unless otherwise specified within the Plan program, with at least 1 bird taken from each pen and unit in the house. The ratio of male to female birds in representative samples of birds from meat-type chicken, waterfowl, exhibition poultry, and game bird flocks must be the same as the ratio of male to female birds in the flock. In houses containing fewer than 30 birds other than ostriches, emus, rheas, and cassowaries, all birds in the house must be tested, unless otherwise specified within the Plan program.
 
 (a) *For Pullorum-Typhoid.* (1) The official blood tests for pullorum-typhoid shall be the standard tube agglutination test, the microagglutination test, the enzyme-linked immunosorbent assay test (ELISA), or the rapid serum test for all poultry; and the stained antigen, rapid whole-blood test for all poultry except turkeys. Official blood tests must be conducted in accordance with part 147 of this subchapter or according to literature provided by the producer. Only antigens approved by the Department and of the polyvalent type shall be used for the rapid whole-blood and tube agglutination tests. Each serial of tube antigen shall be submitted by the antigen producer to the Department for approval upon manufacture and once a year thereafter as long as antigen from that serial continues to be made available for use. All microtest antigens and enzyme-linked immunosorbent assay reagents shall also be approved by the Department.1
@@ -28,9 +26,9 @@ Poultry must be more than 4 months of age when tested for an official classifica
 
 2 In making determinations of exposure, the State Inspector shall evaluate both evidence proving that exposure occurred and circumstances indicating a high probability of contacts with: infected wild birds; contaminated feed or waste; or birds, equipment, supplies, or persons from or exposed to flocks infected with *S. pullorum* or *S. gallinarum.*
 
-(i) The taking of blood samples - performed by or in the presence of a State Inspector - from all birds on premises exposed to birds, equipment, supplies, or personnel from the primary breeding flock during the period when the State Inspector determined that exposure to *S. pullorum* or *S. gallinarum* occurred.2
+(i) The taking of blood samples—performed by or in the presence of a State Inspector—from all birds on premises exposed to birds, equipment, supplies, or personnel from the primary breeding flock during the period when the State Inspector determined that exposure to *S. pullorum* or *S. gallinarum* occurred.2
 
-(ii) The banding of all birds of these premises - performed or physically supervised by a State Inspector - in order to identify any bird that tests positive; and
+(ii) The banding of all birds of these premises—performed or physically supervised by a State Inspector—in order to identify any bird that tests positive; and
 
 (iii) The testing of blood samples at an authorized laboratory using an official blood test named in paragraph (a)(1) of this section.
 
@@ -64,17 +62,17 @@ H.B. Ortmayer and R. Yamamoto, “Mycoplasma Meleagridis Antibody Detection by E
 
 (d) *For avian influenza.* The official tests for avian influenza are described in paragraphs (d)(1) and (d)(2) of this section.
 
-(1) *Antibody detection tests* - (i) *Enzyme-linked immunosorbent assay (ELISA).* ELISA must be conducted using test kits approved by the Department and the Official State Agency and must be conducted in accordance with the recommendations of the producer or manufacturer.
+(1) *Antibody detection tests*—(i) *Enzyme-linked immunosorbent assay (ELISA) test.* (A) The ELISA test must be conducted using test kits approved by the Department and the Official State Agency and must be conducted in accordance with the recommendations of the producer or manufacturer.
 
-(ii) *The agar gel immunodiffusion (AGID) test.* (A) The AGID test must be conducted on all ELISA-positive samples.
+(B) When positive ELISA samples are identified, an AGID test must be conducted within 48 hours.
 
-(B) The AGID test must be conducted using reagents approved by the Department and the Official State Agency.
+(ii) *Agar gel immunodiffusion (AGID) test.* (A) The AGID test must be conducted using reagents approved by the Department and the Official State Agency.
 
-(C) The AGID test for avian influenza must be conducted in accordance with part 147 of this subchapter. The test can be conducted on egg yolk or blood samples. The AGID test is not recommended for use in waterfowl.
+(B) The AGID test for avian influenza must be conducted in accordance with this section (within the NPIP Program Standards document, Program Standard A applies to blood and yolk testing procedures; alternatives to the program standards may also be approved by the Administrator under § 147.53 of this subchapter) for the avian influenza agar gel immunodiffusion (AGID) test. The test can be conducted on egg yolk or blood samples. The AGID test is not recommended for use in waterfowl.
 
-(D) Positive tests for the AGID must be further tested by Federal Reference Laboratories using appropriate tests for confirmation. Final judgment may be based upon further sampling and appropriate tests for confirmation.
+(C) Positive tests for the AGID must be further tested by Federal Reference Laboratories using appropriate tests for confirmation. Final judgment may be based upon further sampling and appropriate tests for confirmation.
 
-(2) *Agent detection tests.* Agent detection tests may be used to detect influenza A matrix gene or protein but not to determine hemagglutinin or neuraminidase subtypes. Samples for agent detection testing should be collected from naturally occurring flock mortality or clinically ill birds.
+(2) *Agent detection tests.* Agent detection tests may be used to detect influenza A virus but not to determine hemagglutinin or neuraminidase subtypes. Samples for agent detection testing should be collected from naturally occurring flock mortality or clinically ill birds.
 
 (i) *The real time reverse transcriptase/polymerase chain reaction (RRT-PCR) assay.* (A) The RRT-PCR tests must be conducted using reagents approved by the Department and the Official State Agency. The RRT-PCR must be conducted using the National Veterinary Services Laboratories (NVSL) official protocol for RRT-PCR or a test kit licensed by the Department and approved by the Official State Agency and the State Animal Health Official, and must be conducted by personnel who have passed an NVSL proficiency test. For non-National Animal Health Laboratory Network (NAHLN) authorized laboratories:
 
@@ -95,5 +93,7 @@ H.B. Ortmayer and R. Yamamoto, “Mycoplasma Meleagridis Antibody Detection by E
 (B) Chicken and turkey flocks that test positive on the ACIA must be further tested using the RRT-PCR or virus isolation. Positive results from the RRT-PCR or virus isolation must be further tested by Federal Reference Laboratories using appropriate tests for confirmation. Final judgment may be based upon further sampling and appropriate tests for confirmation.
 
 (3) The official determination of a flock as positive for the H5 or H7 subtypes of avian influenza may be made only by NVSL.
+
+(e) *For Newcastle Disease (ND).* The official tests for ND are serological tests for antibody detection or molecular-based tests for antigen detection.
 
 (Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

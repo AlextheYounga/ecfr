@@ -1,7 +1,5 @@
 ##### § 145.43 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
-
 Participating flocks, and the eggs and poults produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
@@ -114,4 +112,30 @@ Participating flocks, and the eggs and poults produced from them, which have met
 
 (4) For both primary and multiplier breeding flocks, if a killed influenza vaccine against avian influenza subtypes other than H5 and H7 is used, then the hemagglutinin and the neuraminidase subtypes of the vaccine must be reported to the Official State Agency for laboratory and reporting purposes.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(h) *U.S. Newcastle Disease Clean.* The program in this paragraph (h) is intended to be the basis from which the breeding-hatchery industry may conduct a program for the prevention and control of Newcastle disease. It is intended to determine the presence of Newcastle disease in primary breeding turkeys through vaccination and/or monitoring of each participating breeding flock. A flock and the hatching eggs and poults produced from it will qualify for classification in this paragraph (h) when the Official State Agency determines that they have met the following requirements:
+
+(1) It is a primary breeding flock that is either:
+
+(i) Vaccinated for Newcastle disease using USDA-licensed vaccines and response to vaccination is serologically monitored using an approved test as described in § 145.14 when more than 4 months of age, and meets the criteria in paragraph (h)(2) of this section to retain classification; or
+
+(ii) Unvaccinated for Newcastle disease, in which a minimum of 30 birds have tested negative to ND using an approved test as described in § 145.14 when more than 4 months of age and meets criteria in paragraph (h)(3) of this section to retain classification.
+
+(2) To retain the classification in this paragraph (h) for vaccinated flocks:
+
+(i) Vaccines for ND must be USDA-licensed vaccines administered during early stages of development through rearing, and inactivated vaccines as final vaccination prior to the onset of egg production; and
+
+(ii) The flock has been monitored for antibody response using approved serological tests as listed in § 145.14 and the results are compatible with immunological response against ND vaccination; and
+
+(iii) Testing must include a minimum of 30 birds with a serologic monitoring program when more than 4 months of age and prior to the onset of production and not longer than every 90 days thereafter.
+
+(3) To retain the classification in this paragraph (h) for unvaccinated flocks:
+
+(i) A minimum of 30 birds per flock must test negative using an approved test in § 145.14 at intervals of 90 days; or
+
+(ii) A sample of fewer than 30 birds may be tested, and found negative, at any one time if all pens are equally represented and a total of 30 birds is tested within each 90-day period; and
+
+(iii) During each 90-day period, all primary spent fowl, up to a maximum of 30, must test negative to ND within 21 days prior to movement to slaughter.
+
+(4) Newcastle disease must be a disease reportable to the responsible State authority (State veterinarian, etc.) by all licensed veterinarians. To accomplish this, all laboratories (private, State, and university laboratories) that perform diagnostic procedures on poultry must examine all submitted cases of unexplained respiratory disease, egg production drops, and mortality for ND.
+
+(Approved by the Office of Management and Budget under control numbers 0579-0007 and 0579-0474)[36 FR 23112, Dec. 3, 1971]Editorial Note:For Federal Register citations affecting § 145.43, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

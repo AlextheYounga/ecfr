@@ -1,4 +1,4 @@
-##### § 171.203 Security exception - When will an actor's practice that is likely to interfere with the access, exchange, or use of electronic health information in order to protect the security of electronic health information not be considered information blocking? #####
+##### § 171.203 Security exception—When will an actor's practice that is likely to interfere with the access, exchange, or use of electronic health information in order to protect the security of electronic health information not be considered information blocking? #####
 
 An actor's practice that is likely to interfere with the access, exchange, or use of electronic health information in order to protect the security of electronic health information will not be considered information blocking when the practice meets the conditions in paragraphs (a), (b), and (c) of this section, and in addition meets either the condition in paragraph (d) of this section or the condition in paragraph (e) of this section.
 
@@ -8,7 +8,7 @@ An actor's practice that is likely to interfere with the access, exchange, or us
 
 (c) The practice must be implemented in a consistent and non-discriminatory manner.
 
-(d) If the practice implements an organizational security policy, the policy must -
+(d) If the practice implements an organizational security policy, the policy must—
 
 (1) Be in writing;
 
@@ -22,4 +22,6 @@ An actor's practice that is likely to interfere with the access, exchange, or us
 
 (1) The practice is necessary to mitigate the security risk to electronic health information; and
 
-(2) There are no reasonable and appropriate alternatives to the practice that address the security risk that are less likely to interfere with, prevent, or materially discourage access, exchange or use of electronic health information.
+(2) There are no reasonable and appropriate alternatives to the practice that address the security risk that are less likely to interfere with access, exchange or use of electronic health information.
+
+[85 FR 25955, May 1, 2020, as amended at 85 FR 70085, Nov. 4, 2020]

@@ -1,5 +1,7 @@
 ##### § 409.49 Excluded services. #####
 
+Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
+
 (a) *Drugs and biologicals.* Drugs and biologicals are excluded from payment under the Medicare home health benefit.
 
 (1) A drug is any chemical compound that may be used on or administered to humans or animals as an aid in the diagnosis, treatment or prevention of disease or other condition or for the relief of pain or suffering or to control or improve any physiological pathologic condition.

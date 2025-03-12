@@ -1,5 +1,7 @@
 ##### § 170.523 Principles of proper conduct for ONC-ACBs. #####
 
+Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
+
 An ONC-ACB shall:
 
 (a) *Accreditation.* Maintain its accreditation in good standing to ISO/IEC 17065 (incorporated by reference in § 170.599).

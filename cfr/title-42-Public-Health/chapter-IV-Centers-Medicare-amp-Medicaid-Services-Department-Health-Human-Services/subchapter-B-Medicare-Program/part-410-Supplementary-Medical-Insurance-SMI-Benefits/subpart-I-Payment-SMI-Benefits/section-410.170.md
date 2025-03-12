@@ -1,5 +1,7 @@
 ##### § 410.170 Payment for home health services, for medical and other health services furnished by a provider or an approved ESRD facility, and for comprehensive outpatient rehabilitation facility (CORF) services: Conditions. #####
 
+Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
+
 Payment under Medicare Part B, for home health services, for medical and other health services, or for CORF services, may be made to the provider or facility only if the following conditions are met:
 
 (a) *Request for payment.* A written request for payment is filed by or on behalf of the individual to whom the services were furnished.

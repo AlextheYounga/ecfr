@@ -1,5 +1,7 @@
 ##### § 170.315 2015 Edition health IT certification criteria. #####
 
+Link to an amendment published at 85 FR 70083, Nov. 4, 2020.
+
 The Secretary adopts the following certification criteria for health IT. Health IT must be able to electronically perform the following capabilities in accordance with all applicable standards and implementation specifications adopted in this part:
 
 (a) *Clinical* - (1) *Computerized provider order entry - medications.* (i) Enable a user to record, change, and access medication orders.

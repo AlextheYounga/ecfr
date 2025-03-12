@@ -1,5 +1,7 @@
 ##### § 170.210 Standards for health information technology to protect electronic health information created, maintained, and exchanged. #####
 
+Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
+
 The Secretary adopts the following standards to protect electronic health information created, maintained, and exchanged:
 
 (a) *Encryption and decryption of electronic health information.* (1) [Reserved]

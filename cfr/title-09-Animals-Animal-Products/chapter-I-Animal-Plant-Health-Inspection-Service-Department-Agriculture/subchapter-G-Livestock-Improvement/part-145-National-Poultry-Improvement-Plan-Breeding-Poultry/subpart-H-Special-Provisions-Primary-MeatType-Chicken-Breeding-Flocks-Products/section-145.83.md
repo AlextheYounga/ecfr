@@ -1,7 +1,5 @@
 ##### § 145.83 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 85 FR 62568, Oct. 5, 2020.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section, may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
@@ -66,11 +64,9 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (iii) Environmental samples are collected from the flock by or under the supervision of an Authorized Agent, in accordance with part 147 of this subchapter, when the flock reaches 4 months of age and every 30 days thereafter. Once the flock is in egg production and chicks are hatching from it, the samples must include at least 4 individual test assay results every 30 days in flocks of more than 500 birds or 2 individual assays per month in flocks of 500 birds or fewer. One of these results must come from samples collected from hatched chicks at a participating hatchery derived from said flock. These individual test assays may be derived from pooled samples from the farm or hatchery in accordance with part 147 of this subchapter, but must be run as separate test assays in the laboratory. The environmental samples shall be examined bacteriologically for group D Salmonella at an authorized laboratory, and cultures from group D positive samples shall be serotyped.
 
-(iv) Blood samples from 300 birds from the flock are officially tested with pullorum antigen when the flock is at least 4 months of age. All birds with positive or inconclusive reactions, up to a maximum of 25 birds, shall be submitted to an authorized laboratory and examined for the presence of group D Salmonella in accordance with part 147 of this subchapter. Cultures from group D positive samples shall be serotyped.
+(iv) Hatching eggs produced by the flock are collected as quickly as possible and their sanitation is maintained in accordance with part 147 of this subchapter.
 
-(v) Hatching eggs produced by the flock are collected as quickly as possible and their sanitation is maintained in accordance with part 147 of this subchapter.
-
-(vi) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter, and the hatchery must have been sanitized either by a procedure approved by the Official State Agency or by fumigation in accordance with part 147 of this subchapter.
+(v) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter, and the hatchery must have been sanitized either by a procedure approved by the Official State Agency or by fumigation in accordance with part 147 of this subchapter.
 
 (2) If *Salmonella enteritidis* serotype *enteritidis* (SE) is isolated from a specimen taken from a bird in the flock, except as provided in paragraph (e)(3) of this section, the flock shall not be eligible for this classification.
 
@@ -130,4 +126,30 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (2) During each 90-day period, all primary spent fowl, up to a maximum of 30, must be tested serologically and found negative for antibodies for avian influenza within 21 days prior to movement to slaughter.
 
-[72 FR 1422, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38762, July 9, 2014; 79 FR 71624, Dec. 3, 2014; 81 FR 53250, Aug. 12, 2016; 83 FR 28354, June 19, 2018]
+(h) *U.S. Newcastle Disease (ND) Clean.* The program in this paragraph (h) is intended to be the basis from which the breeding-hatchery industry may conduct a program for the prevention and control of Newcastle disease. It is intended to determine the presence of Newcastle disease in primary breeding chickens through vaccination and/or monitoring of each participating breeding flock. A flock and the hatching eggs and chicks produced from it will qualify for the classification in this paragraph (h) when the Official State Agency determines that they have met the following requirements:
+
+(1) It is a primary breeding flock that is either:
+
+(i) Vaccinated for Newcastle disease using USDA-licensed vaccines and response to vaccination is serologically monitored using an approved test as described in § 145.14 when more than 4 months of age and meets the criteria in paragraph (h)(2) of this section to retain classification; or
+
+(ii) Unvaccinated for Newcastle disease, in which a minimum of 30 birds have tested negative to ND using an approved test as described in § 145.14 when more than 4 months of age and meets criteria in paragraph (h)(3) of this section to retain classification.
+
+(2) To retain the classification in this paragraph (h) for vaccinated flocks:
+
+(i) Vaccines for ND must be USDA-licensed vaccines administered during early stages of development through rearing, and inactivated vaccines as final vaccination prior to the onset of egg production; and
+
+(ii) The flock has been monitored for antibody response using approved serological tests as described in § 145.14 and the results are compatible with immunological response against ND vaccination; and
+
+(iii) Testing must include a minimum of 30 birds with a serologic monitoring program when more than 4 months of age and prior to the onset of production, and not longer than every 90 days thereafter.
+
+(3) To retain the classification in this paragraph (h) for unvaccinated flocks:
+
+(i) A minimum of 30 birds per flock must test negative using an approved test as described in § 145.14 at intervals of 90 days; or
+
+(ii) A sample of fewer than 30 birds may be tested, and found negative, at any one time if all pens are equally represented and a total of 30 birds is tested within each 90-day period; and
+
+(iii) During each 90-day period, all primary spent fowl, up to a maximum of 30, must test negative to ND within 21 days prior to movement to slaughter.
+
+(4) Newcastle disease must be a disease reportable to the responsible State authority (State veterinarian, etc.) by all licensed veterinarians. To accomplish this, all laboratories (private, State, and university laboratories) that perform diagnostic procedures on poultry must examine all submitted cases of unexplained respiratory disease, egg production drops, and mortality for ND.
+
+(Approved by the Office of Management and Budget under control number 0579-0474)[72 FR 1422, Jan. 12, 2007, as amended at 76 FR 15794, Mar. 22, 2011; 79 FR 38762, July 9, 2014; 79 FR 71624, Dec. 3, 2014; 81 FR 53250, Aug. 12, 2016; 83 FR 28354, June 19, 2018; 85 FR 62568, Oct. 5, 2020]

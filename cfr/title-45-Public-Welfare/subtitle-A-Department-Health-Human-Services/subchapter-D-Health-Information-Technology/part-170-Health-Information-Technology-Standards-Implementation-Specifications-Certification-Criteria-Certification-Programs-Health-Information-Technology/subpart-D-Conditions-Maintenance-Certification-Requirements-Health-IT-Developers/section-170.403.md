@@ -1,5 +1,7 @@
 ##### § 170.403 Communications. #####
 
+Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
+
 (a) *Condition of Certification requirements.* (1) A health IT developer may not prohibit or restrict any communication regarding -
 
 (i) The usability of its health IT;

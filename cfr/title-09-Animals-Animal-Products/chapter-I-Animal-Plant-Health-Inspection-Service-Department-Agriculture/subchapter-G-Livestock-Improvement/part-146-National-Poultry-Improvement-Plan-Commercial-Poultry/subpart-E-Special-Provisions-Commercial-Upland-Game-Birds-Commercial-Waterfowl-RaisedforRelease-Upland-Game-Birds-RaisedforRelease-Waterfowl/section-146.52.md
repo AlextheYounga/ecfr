@@ -1,11 +1,9 @@
 ##### § 146.52 Participation. #####
 
-Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+(a) Participating meat-type game bird slaughter plants, meat-type waterfowl slaughter plants, and egg-type game bird and egg-type waterfowl premises producing eggs for human consumption shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart.
 
-(a) Participating commercial upland game bird slaughter plants, commercial waterfowl slaughter plants, raised-for-release upland game bird premises, raised-for-release waterfowl premises, and commercial upland game bird and commercial waterfowl producing eggs for human consumption premises shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart E.
+(b) Meat-type game bird slaughter plants and meat-type waterfowl slaughter plants that slaughter fewer than 50,000 birds annually are exempt from the special provisions of this subpart.
 
-(b) Commercial waterfowl and commercial upland game bird slaughter plants that slaughter fewer than 50,000 birds annually are exempt from the special provisions of this subpart E.
+(c) Egg-type game bird and egg-type waterfowl premises with fewer than 25,000 birds are exempt from the special provisions of this subpart.
 
-(c) Raised-for-release upland game bird premises, raised-for-release waterfowl premises, and commercial upland game bird and commercial waterfowl producing eggs for human consumption premises that raise fewer than 25,000 birds annually are exempt from the special provisions of this subpart E.
-
-[74 FR 14717, Apr. 1, 2009, as amended at 81 FR 53250, Aug. 12, 2016]
+[85 FR 62571, Oct. 5, 2020]

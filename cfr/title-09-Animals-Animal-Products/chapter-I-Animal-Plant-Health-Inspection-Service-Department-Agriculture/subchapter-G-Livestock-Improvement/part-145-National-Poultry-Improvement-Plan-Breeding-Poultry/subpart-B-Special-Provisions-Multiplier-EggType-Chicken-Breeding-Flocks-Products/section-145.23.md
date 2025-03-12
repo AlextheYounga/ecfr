@@ -1,7 +1,5 @@
 ##### § 145.23 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
@@ -72,25 +70,15 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (v) Environmental samples shall be collected from the flock by an Authorized Agent, in accordance with part 147 of this subchapter, when the flock is 2 to 4 weeks of age. The samples shall be examined bacteriologically for group D salmonella at an authorized laboratory. Cultures from positive samples shall be serotyped. The authorized agent shall also collect samples every 30 days after the first sample has been collected.
 
-(vi) If a *Salmonella* vaccine is used that causes positive reactions with pullorum-typhoid antigen, one of the following options must be utilized:
+(vi) Hatching eggs are collected as quickly as possible, and their sanitation is maintained in accordance with part 147 of this subchapter.
 
-(A) Administer the vaccine after the pullorum-typhoid testing is done as described in paragraph (d)(1)(vii) of this section.
-
-(B) If an injectable bacterin or live vaccine that does not spread is used, keep a sample of 350 birds unvaccinated and banded for identification until the flock reaches at least 4 months of age. Following negative serological and bacteriological examinations as described in paragraph (d)(1)(vii) of this section, vaccinate the banded, non-vaccinated birds.
-
-(vii) Blood samples from 300 non-vaccinated birds as described in paragraph (d)(1)(vi) of this section shall be tested with either pullorum antigen or by a federally licensed Salmonella enteritidis enzyme-linked immunosorbent assay (ELISA) test when the flock is more than 4 months of age. All birds with positive or inconclusive reactions, up to a maximum of 25 birds, shall be submitted to an authorized laboratory and examined for the presence of group D salmonella, in accordance with part 147 of this subchapter. Cultures from positive samples shall be serotyped.
-
-(viii) Hatching eggs are collected as quickly as possible, and their sanitation is maintained in accordance with part 147 of this subchapter.
-
-(ix) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter and sanitized either by a procedure approved by the Official State Agency or in accordance with part 147 of this subchapter.
+(vii) Hatching eggs produced by the flock are incubated in a hatchery whose sanitation is maintained in accordance with part 147 of this subchapter and sanitized either by a procedure approved by the Official State Agency or in accordance with part 147 of this subchapter.
 
 (2) A flock shall not be eligible for this classification if *Salmonella enteritidis* ser *enteritidis* (SE) is isolated from a specimen taken from a bird in the flock. Isolation of SE from an environmental or other specimen, as described in paragraph (d)(1)(v) of this section, will require bacteriological examination for SE in an authorized laboratory, in accordance with part 147 of this subchapter, of a random sample of 60 live birds from a flock of 5,000 birds or more, or 30 live birds from a flock with fewer than 5,000 birds. If only one specimen is found positive for SE, the participant may request bacteriological examination of a second sample, equal in size to the first sample, from the flock. If no SE is recovered from any of the specimens in the second sample, the flock will be eligible for the classification.
 
-(3) A non-vaccinated flock shall be eligible for this classification if *Salmonella enteritidis* (*S. enteritidis* ser Enteritidis) is isolated from an environmental sample collected from the flock in accordance with paragraph (d)(1)(v) of this section: *Provided,* That testing is conducted in accordance with paragraph (d)(1)(vii) of this section each 30 days and no positive samples are found.
+(3) In order for a hatchery to sell products of this classification, all products handled shall meet the requirements of the classification.
 
-(4) In order for a hatchery to sell products of this classification, all products handled shall meet the requirements of the classification.
-
-(5) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
+(4) This classification may be revoked by the Official State Agency if the participant fails to follow recommended corrective measures.
 
 (e) *U.S.M. Synoviae Clean.* (1) A flock maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management and in which freedom from *M. synoviae* has been demonstrated under the criteria specified in paragraph (e)(1)(i) or (ii) of this section.
 
@@ -122,7 +110,7 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (3) The flock is maintained in accordance with part 147 of this subchapter with respect to Mycoplasma isolation, sanitation, and management.
 
-(4) The flocks's freedom from *M. synoviae* is demonstrated by a negative blood test, as provided in § 145.14(b), of a sample of 75 birds, with a minimum of 50 birds per poultry house, between 15-20 days prior to the flock being moved to laying quarters.
+(4) The flock's freedom from *M. synoviae* is demonstrated by a negative blood test, as provided in § 145.14(b), of a sample of 75 birds, with a minimum of 50 birds per poultry house, between 15-20 days prior to the flock being moved to laying quarters.
 
 (5) Started poultry shall be delivered to and from the farm premises in crates and vehicles which have been cleaned and disinfected in accordance with part 147 of this subchapter.
 

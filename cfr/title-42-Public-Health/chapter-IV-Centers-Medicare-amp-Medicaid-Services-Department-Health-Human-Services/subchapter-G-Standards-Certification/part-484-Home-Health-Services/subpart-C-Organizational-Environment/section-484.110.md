@@ -1,5 +1,7 @@
 ##### § 484.110 Condition of participation: Clinical records. #####
 
+Link to an amendment published at 85 FR 70356, Nov. 4, 2020.
+
 The HHA must maintain a clinical record containing past and current information for every patient accepted by the HHA and receiving home health services. Information contained in the clinical record must be accurate, adhere to current clinical record documentation standards of practice, and be available to the physician(s) issuing orders for the home health plan of care, and appropriate HHA staff. This information may be maintained electronically.
 
 (a) *Standard: Contents of clinical record.* The record must include:

@@ -1,6 +1,8 @@
 ##### § 170.402 Assurances. #####
 
-(a) *Condition of Certification requirement.* (1) A health IT developer must provide assurances satisfactory to the Secretary that the health IT developer will not take any action that constitutes information blocking as defined in 42 U.S.C. 300jj-52 and § 171.103 on and after November 2, 2020, unless for legitimate purposes as specified by the Secretary; or any other action that may inhibit the appropriate exchange, access, and use of electronic health information.
+Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
+
+(a) *Condition of Certification requirement.* (1) A health IT developer must provide assurances satisfactory to the Secretary that the health IT developer will not take any action that constitutes information blocking as defined in 42 U.S.C. 300jj-52 and § 171.103 of this chapter on and after April 5, 2021, unless for legitimate purposes as specified by the Secretary; or any other action that may inhibit the appropriate exchange, access, and use of electronic health information.
 
 (2) A health IT developer must ensure that its health IT certified under the ONC Health IT Certification Program conforms to the full scope of the certification criteria.
 
@@ -17,3 +19,5 @@
 (2)(i) Within 36 months of May 1, 2020, a health IT developer that must comply with the requirements of paragraph (a)(4) of this section must provide all of its customers of certified health IT with the health IT certified to the certification criterion in § 170.315(b)(10).
 
 (ii) On and after 36 months from May 1, 2020, a health IT developer that must comply with the requirements of paragraph (a)(4) of this section must provide all of its customers of certified health IT with the health IT certified to the certification criterion in § 170.315(b)(10).
+
+[85 FR 25945, May 1, 2020, as amended at 85 FR 70084, Nov. 4, 2020]

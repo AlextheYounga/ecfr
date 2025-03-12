@@ -1,5 +1,7 @@
 ##### § 484.45 Condition of participation: Reporting OASIS information. #####
 
+Link to an amendment published at 85 FR 70356, Nov. 4, 2020.
+
 HHAs must electronically report all OASIS data collected in accordance with § 484.55.
 
 (a) *Standard: Encoding and transmitting OASIS data.* An HHA must encode and electronically transmit each completed OASIS assessment to the CMS system, regarding each beneficiary with respect to which information is required to be transmitted (as determined by the Secretary), within 30 days of completing the assessment of the beneficiary.

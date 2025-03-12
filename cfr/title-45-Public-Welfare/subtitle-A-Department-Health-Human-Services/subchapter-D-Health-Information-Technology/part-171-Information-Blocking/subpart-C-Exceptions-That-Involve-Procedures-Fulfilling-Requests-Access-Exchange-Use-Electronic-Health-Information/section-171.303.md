@@ -1,8 +1,8 @@
-##### § 171.303 Licensing exception - When will an actor's practice to license interoperability elements in order for electronic health information to be accessed, exchanged, or used not be considered information blocking? #####
+##### § 171.303 Licensing exception—When will an actor's practice to license interoperability elements in order for electronic health information to be accessed, exchanged, or used not be considered information blocking? #####
 
 An actor's practice to license interoperability elements for electronic health information to be accessed, exchanged, or used will not be considered information blocking when the practice meets all of the following conditions.
 
-(a) *Negotiating a license conditions.* Upon receiving a request to license an interoperability element for the access, exchange, or use of electronic health information, the actor must -
+(a) *Negotiating a license conditions.* Upon receiving a request to license an interoperability element for the access, exchange, or use of electronic health information, the actor must—
 
 (1) Begin license negotiations with the requestor within 10 business days from receipt of the request; and
 
@@ -18,7 +18,7 @@ An actor's practice to license interoperability elements for electronic health i
 
 (2) *Reasonable royalty.* If the actor charges a royalty for the use of the interoperability elements described in paragraph (a) of this section, the royalty must be reasonable and comply with the following requirements:
 
-(i) The royalty must be non-discriminatory, consistent with paragraph (c)(3) of this section.
+(i) The royalty must be nondiscriminatory, consistent with paragraph (b)(3) of this section.
 
 (ii) The royalty must be based solely on the independent value of the actor's technology to the licensee's products, not on any strategic value stemming from the actor's control over essential means of accessing, exchanging, or using electronic health information.
 
@@ -30,13 +30,13 @@ An actor's practice to license interoperability elements for electronic health i
 
 (i) The terms must be based on objective and verifiable criteria that are uniformly applied for all similarly situated classes of persons and requests.
 
-(ii) The terms must not be based in any part on -
+(ii) The terms must not be based in any part on—
 
 (A) Whether the requestor or other person is a competitor, potential competitor, or will be using electronic health information obtained via the interoperability elements in a way that facilitates competition with the actor; or
 
 (B) The revenue or other value the requestor may derive from access, exchange, or use of electronic health information obtained via the interoperability elements.
 
-(4) *Collateral terms.* The actor must not require the licensee or its agents or contractors to do, or to agree to do, any of the following -
+(4) *Collateral terms.* The actor must not require the licensee or its agents or contractors to do, or to agree to do, any of the following—
 
 (i) Not compete with the actor in any product, service, or market.
 
@@ -48,7 +48,7 @@ An actor's practice to license interoperability elements for electronic health i
 
 (v) Pay a fee of any kind whatsoever, except as described in paragraph (b)(2) of this section, unless the practice meets the requirements of the exception in § 171.302.
 
-(5) *Non-disclosure agreement.* The actor may require a reasonable non-disclosure agreement that is no broader than necessary to prevent unauthorized disclosure of the actor's trade secrets, provided -
+(5) *Non-disclosure agreement.* The actor may require a reasonable non-disclosure agreement that is no broader than necessary to prevent unauthorized disclosure of the actor's trade secrets, provided—
 
 (i) The agreement states with particularity all information the actor claims as trade secrets; and
 
@@ -61,3 +61,5 @@ An actor's practice to license interoperability elements for electronic health i
 (2) Impeding the efficient development, distribution, deployment, or use of an interoperable product or service for which there is actual or potential demand.
 
 (3) Degrading the performance or interoperability of the licensee's products or services, unless necessary to improve the actor's technology and after affording the licensee a reasonable opportunity to update its technology to maintain interoperability.
+
+[85 FR 25955, May 1, 2020, as amended at 85 FR 70085, Nov. 4, 2020]

@@ -1,18 +1,18 @@
-##### § 171.301 Content and manner exception - When will an actor's practice of limiting the content of its response to or the manner in which it fulfills a request to access, exchange, or use electronic health information not be considered information blocking? #####
+##### § 171.301 Content and manner exception—When will an actor's practice of limiting the content of its response to or the manner in which it fulfills a request to access, exchange, or use electronic health information not be considered information blocking? #####
 
 An actor's practice of limiting the content of its response to or the manner in which it fulfills a request to access, exchange, or use electronic health information will not be considered information blocking when the practice meets all of the following conditions.
 
-(a) *Content condition - electronic health information.* An actor must respond to a request to access, exchange, or use electronic health information with -
+(a) *Content condition—electronic health information.* An actor must respond to a request to access, exchange, or use electronic health information with—
 
-(1) *USCDI.* For up to May 2, 2022, at a minimum, the electronic health information identified by the data elements represented in the USCDI standard adopted in § 170.213.
+(1) *USCDI.* For the period before October 6, 2022, at a minimum, the electronic health information identified by the data elements represented in the USCDI standard adopted in § 170.213.
 
-(2) *All electronic health information.* On and after May 2, 2022, electronic health information as defined in § 171.102.
+(2) *All electronic health information.* On and after October 6, 2022, electronic health information as defined in § 171.102.
 
-(b) *Manner condition* - (1) *Manner requested.* (i) An actor must fulfill a request described in paragraph (a) of this section in any manner requested, unless the actor is technically unable to fulfill the request or cannot reach agreeable terms with the requestor to fulfill the request.
+(b) *Manner condition*—(1) *Manner requested.* (i) An actor must fulfill a request described in paragraph (a) of this section in any manner requested, unless the actor is technically unable to fulfill the request or cannot reach agreeable terms with the requestor to fulfill the request.
 
 (ii) If an actor fulfills a request described in paragraph (a) of this section in any manner requested:
 
-(A) Any fees charged by the actor in relation to fulfilling the response are not required to satisfy the exception in § 171.302; and
+(A) Any fees charged by the actor in relation to fulfilling the request are not required to satisfy the exception in § 171.302; and
 
 (B) Any license of interoperability elements granted by the actor in relation to fulfilling the request is not required to satisfy the exception in § 171.303.
 
@@ -33,3 +33,5 @@ An actor's practice of limiting the content of its response to or the manner in 
 (ii) Any fees charged by the actor in relation to fulfilling the request are required to satisfy the exception in § 171.302.
 
 (iii) Any license of interoperability elements granted by the actor in relation to fulfilling the request is required to satisfy the exception in § 171.303.
+
+[85 FR 25955, May 1, 2020, as amended at 85 FR 70085, Nov. 4, 2020]

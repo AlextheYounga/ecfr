@@ -1,5 +1,7 @@
 ##### § 170.102 Definitions. #####
 
+Link to an amendment published at 85 FR 70082, Nov. 4, 2020.
+
 For the purposes of this part:
 
 *2015 Edition Base EHR* means an electronic record of health-related information on an individual that:

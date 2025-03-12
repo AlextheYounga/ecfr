@@ -1,5 +1,7 @@
 ##### § 409.46 Allowable administrative costs. #####
 
+Link to an amendment published at 85 FR 70354, Nov. 4, 2020.
+
 Services that are allowable as administrative costs but are not separately billable include, but are not limited to, the following:
 
 (a) *Registered nurse initial evaluation visits.* Initial evaluation visits by a registered nurse for the purpose of assessing a beneficiary's health needs, determining if the agency can meet those health needs, and formulating a plan of care for the beneficiary are allowable administrative costs. If a physician or allowed practitioner specifically orders that a particular skilled service be furnished during the evaluation in which the agency accepts the beneficiary for treatment and all other coverage criteria are met, the visit is billable as a skilled nursing visit. Otherwise it is considered to be an administrative cost.

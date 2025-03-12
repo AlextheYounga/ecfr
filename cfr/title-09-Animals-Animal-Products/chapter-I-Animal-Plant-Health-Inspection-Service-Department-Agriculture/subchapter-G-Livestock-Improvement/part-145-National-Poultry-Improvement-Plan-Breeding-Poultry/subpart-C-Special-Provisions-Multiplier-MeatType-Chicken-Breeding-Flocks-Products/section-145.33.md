@@ -1,7 +1,5 @@
 ##### § 145.33 Terminology and classification; flocks and products. #####
 
-Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
-
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]
@@ -140,11 +138,11 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (i) A sample of at least 15 birds must be tested negative at intervals of 90 days; or
 
-(ii) A sample of fewer than 15 birds may be tested, and found to be negative, at any one time if all pens are equally represented and a total of 30 birds is tested within each 90-day period; or
+(ii) A sample of fewer than 15 birds may be tested, and found to be negative, at any one time if all pens are equally represented and a total of 15 birds is tested within each 90-day period; or
 
 (iii) The flock is tested as provided in § 145.14(d) at intervals of 30 days or less and found to be negative, and a total of 15 samples are collected and tested within each 90-day period; and
 
-(2) During each 90-day period, all multiplier spent fowl, up to a maximum of 30, must be tested serologically and found negative for antibodies for avian influenza within 21 days prior to movement to slaughter.
+(2) During each 90-day period, all multiplier spent fowl, up to a maximum of 30, must be tested and found negative for avian influenza within 21 days prior to movement to slaughter.
 
 (m) *U.S. Salmonella Enteritidis Monitored.* This classification is intended for multiplier meat-type breeders wishing to monitor their breeding flocks for *Salmonella enteritidis.*
 

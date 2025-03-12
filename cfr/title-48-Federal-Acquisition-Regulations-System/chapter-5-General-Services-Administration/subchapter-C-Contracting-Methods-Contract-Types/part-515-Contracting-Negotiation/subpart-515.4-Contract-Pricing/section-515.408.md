@@ -1,6 +1,6 @@
 ##### 515.408 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 85 FR 62613, Oct. 5, 2020.MAS Requests for Information Other Than Cost or Pricing Data
+MAS Requests for Information Other Than Cost or Pricing Data
 
 (a) Use Alternate IV of the FAR provision at 52.215-20, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data, for MAS solicitations to provide the format for submission of information other than cost or pricing data for MAS solicitations. To provide uniformity in requests under the MAS program, insert the following in paragraph (b) of the provision:
 
@@ -14,17 +14,17 @@ Link to an amendment published at 85 FR 62613, Oct. 5, 2020.MAS Requests for Inf
 
 (b) When the contract contains the basic clause 552.238-80 Industrial Funding Fee and Sales Reporting, insert the following format for commercial sales practices in the exhibits or attachments section of the solicitation and resulting contract (see FAR 12.303).
 
-Commercial Sales Practices FormatName of Offeror \_\_\_\_\_ SIN(s) \_\_\_Note:
+Commercial Sales Practices FormatName of Offeror \_\_\_\_\_\_\_\_\_\_ SIN(s) \_\_\_\_\_\_Note:
 
 Please refer to Clause 552.212-70, Preparation of Offer (Multiple Award Schedule), for additional information concerning your offer. Provide the following information for each SIN (or group of SINs or SubSIN for which information is the same).
 
-(1) Provide the dollar value of sales to the general public at or based on an established catalog or market price during the previous 12-month period or the offerors last fiscal year: $\_\_\_\_. State beginning and ending of the 12 month period. Beginning \_\_\_\_ ending \_\_\_\_. In the event that a dollar value is not an appropriate measure of the sales, provide and describe your own measure of the sales of the item(s).
+(1) Provide the dollar value of sales to the general public at or based on an established catalog or market price during the previous 12-month period or the offerors last fiscal year: $\_\_\_\_\_\_\_\_. State beginning and ending of the 12 month period. Beginning \_\_\_\_\_\_\_\_ ending \_\_\_\_\_\_\_\_. In the event that a dollar value is not an appropriate measure of the sales, provide and describe your own measure of the sales of the item(s).
 
 (2) Show your total projected annual sales to the Government under this contract for the contract term, excluding options, for each SIN offered. If you currently hold a Federal Supply Schedule contract for the SIN the total projected annual sales should be based on your mostrecent 12 months of sales under that contract.
 
-SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_\_\_\_\_\_
+SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_SIN \_\_\_\_\_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_\_\_\_\_
 
-(3) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), are the discounts and any concessions which you offer the Government equal to or better than your best price (discount and concessions in any combination) offered to any customer acquiring the same items regardless of quantity or terms and conditions? YES\_\_ NO\_\_ (See definition of “concession” and “discount” in 552.212-70.)
+(3) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), are the discounts and any concessions which you offer the Government equal to or better than your best price (discount and concessions in any combination) offered to any customer acquiring the same items regardless of quantity or terms and conditions? YES\_\_\_\_ NO\_\_\_\_ (See definition of “concession” and “discount” in 552.212-70.)
 
 (4)(a) Based on your written discounting policies (standard commercial sales practices in the event you do not have written discounting policies), provide information as requested for each SIN (or group of SINs for which the information is the same) in accordance with the instructions at Figure 515.4, which is provided in this solicitation for your convenience. The information should be provided in the chart below or in an equivalent format developed by the offeror. Rows should be added to accommodate as many customers as required.
 
@@ -34,7 +34,7 @@ SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_\_\_\_\_\_SIN \_\_\_\_\_\_ $\_
 |                       |                       |                              |                       |                          |
 |                       |                       |                              |                       |                          |
 
-(b) Do any deviations from your written policies or standard commercial sales practices disclosed in the above chart ever result in better discounts (lower prices) or concessions than indicated? YES\_ NO\_. If YES, explain deviations in accordance with the instructions at Figure 515.4, which is provided in this solicitation for your convenience.
+(b) Do any deviations from your written policies or standard commercial sales practices disclosed in the above chart ever result in better discounts (lower prices) or concessions than indicated? YES\_\_ NO\_\_. If YES, explain deviations in accordance with the instructions at Figure 515.4, which is provided in this solicitation for your convenience.
 
 (5) If you are a dealer/reseller without significant sales to the general public, you should provide manufacturers' information required by paragraphs (1) through (4) above for each item/SINoffered, if the manufacturer's sales under any resulting contract are expected to exceed $500,000. You must also obtain written authorization from the manufacturer(s) for Government access, at any time before award or before agreeing to a modification, to the manufacturer's sales records for the purpose of verifying the information submitted by the manufacturer. The information is required in order to enable the Government to make a determination that the offered price is fair and reasonable. To expedite the review and processing of offers, you should advise the manufacturer(s) of this requirement. The contracting officer may require the information be submitted on electronic media with commercially available spreadsheet(s). The information may be provided by the manufacturer directly to the Government. If the manufacturer's item(s) is being offered by multiple dealers/resellers, only one copy of the requested information should be submitted to the Government. In addition, you must submit the following information along with a listing of contact information regarding each of the manufacturers whose products and/or services are included in the offer (include the manufacturer's name, address, the manufacturer's contact point, telephone number, and FAX number) for each model offered by SIN:
 
@@ -88,10 +88,10 @@ If deviations from your written policies or standard commercial sales practices 
 
 (e) Use Alternate IV of FAR 52.215-21, Requirements for Cost or Pricing Data or Information Other Than Cost or Pricing Data - Modifications, to provide for submission of information other than cost or pricing data for MAS contracts. To provide for uniformity in requests under the MAS program, insert the following in paragraph (b) of the clause:
 
-(1) Information required by the clause at 552.238-81, Modifications (Multiple Award Schedule).
+(1) Information required by the clause at 552.238-82, Modifications (Multiple Award Schedule).
 
 (2) Any additional supporting information requested by the Contracting Officer. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether the price(s) offered is fair and reasonable.
 
 (3) By submitting a request for modification, the Contractor grants the Contracting Officer or an authorized representative the right to examine, at any time before agreeing to a modification, books, record, documents, papers, and other directly pertinent records to verify the pricing, sales and other data related to the supplies or services proposed in order to determine the reasonableness of price(s). Access does not extent to Contractor's cost or profit information or other data related solely to the Contractor's determination of the prices to be offered in the catalog or marketplace.
 
-[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018; 84 FR 17039, Apr. 23, 2019]
+[64 FR 37214, July 9, 1999, as amended at 65 FR 11247, Mar. 2, 2000; 81 FR 41136, June 23, 2016; 83 FR 3279, Jan. 24, 2018; 84 FR 17039, Apr. 23, 2019; 85 FR 62613, Oct. 5, 2020]

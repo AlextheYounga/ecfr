@@ -1,7 +1,5 @@
 ##### § 146.13 Testing. #####
 
-Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
-
 (a) *Samples.* Either egg or blood samples may be used for testing. Samples must be collected in accordance with the following requirements:
 
 (1) *Egg samples.* Egg samples must be collected and prepared in accordance with part 147 of this subchapter.
@@ -10,17 +8,17 @@ Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
 
 (b) *Avian influenza.* The official tests for avian influenza are described in paragraphs (b)(1) and (b)(2) of this section:
 
-(1) *Antibody detection tests* - (i) *Enzyme-linked immunosorbent assay (ELISA).* ELISA must be conducted using test kits approved by the Department and the Official State Agency and must be conducted in accordance with the recommendations of the producer or manufacturer.
+(1) *Antibody detection tests*—(i) *Enzyme-linked immunosorbent assay (ELISA) test.* (A) The ELISA test must be conducted using test kits approved by the Department and the Official State Agency and must be conducted in accordance with the recommendations of the producer or manufacturer.
 
-(ii) *The agar gel immunodiffusion (AGID) test.* (A) The AGID test must be conducted on all ELISA-positive samples.
+(B) When positive ELISA samples are identified, an AGID test must be conducted within 48 hours.
 
-(B) The AGID test must be conducted using reagents approved by the Department and the Official State Agency.
+(ii) *Agar gel immunodiffusion (AGID) test.* (A) The AGID test must be conducted using reagents approved by the Department and the Official State Agency.
 
-(C) The AGID test for avian influenza must be conducted in accordance with part 147 of this subchapter. The test can be conducted on egg yolk or blood samples. The AGID test is not recommended for use in waterfowl.
+(B) The AGID test for avian influenza must be conducted in accordance with this section (within the NPIP Program Standards, Program Standard A applies to blood and yolk testing procedures; alternatives to the program standards may also be approved by the Administrator under § 147.53 of this subchapter) for the avian influenza AGID test. The test can be conducted on egg yolk or blood samples. The AGID test is not recommended for use in waterfowl.
 
-(D) Positive tests for the AGID must be further tested by Federal Reference Laboratories using appropriate tests for confirmation. Final judgment may be based upon further sampling and appropriate tests for confirmation.
+(C) Positive tests for the AGID must be further tested by Federal Reference Laboratories using appropriate tests for confirmation. Final judgment may be based upon further sampling and appropriate tests for confirmation.
 
-(2) *Agent detection tests.* Agent detection tests may be used to detect influenza A matrix gene or protein but not to determine hemagglutinin or neuraminidase subtypes. Samples for this testing should be collected from naturally occurring flock mortality or clinically ill birds.
+(2) *Agent detection tests.* Agent detection tests may be used to detect influenza A virus but not to determine hemagglutinin or neuraminidase subtypes. Samples for this testing should be collected from naturally occurring flock mortality or clinically ill birds.
 
 (i) *The real time reverse transcriptase/polymerase chain reaction (RRT-PCR) assay.* (A) The RRT-PCR tests must be conducted using reagents approved by the Department and the Official State Agency. The RRT-PCR must be conducted using the National Veterinary Services Laboratories (NVSL) official protocol for RRT-PCR and must be conducted by personnel who have passed an NVSL proficiency test.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
 
 (3) The official determination of a flock as positive for the H5 or H7 subtypes avian influenza may be made only by NVSL.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[71 FR 56328, Sept. 26, 2006, as amended at 74 FR 14716, Apr. 1, 2009; 75 FR 10658, Mar. 9, 2010; 79 FR 38765, July 9, 2014]
+(Approved by the Office of Management and Budget under control number 0579-0007)[71 FR 56328, Sept. 26, 2006, as amended at 74 FR 14716, Apr. 1, 2009; 75 FR 10658, Mar. 9, 2010; 79 FR 38765, July 9, 2014; 85 FR 62571, Oct. 5, 2020]

@@ -1,5 +1,7 @@
 ##### § 170.300 Applicability. #####
 
+Link to an amendment published at 85 FR 70083, Nov. 4, 2020.
+
 (a) The certification criteria adopted in this subpart apply to the testing and certification of EHR Modules.
 
 (b) When a certification criterion refers to two or more standards as alternatives, use of at least one of the alternative standards will be considered compliant.

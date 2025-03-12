@@ -1,8 +1,6 @@
 ##### § 56.10 Initial State response and containment plan. #####
 
-Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
-
-(a) In order for poultry owners within a State to be eligible for indemnity for 100 percent of eligible costs under § 56.3(b), the State in which the poultry participate in the Plan must have in place an initial State response and containment plan that has been approved by APHIS. The initial State response and containment plan must be developed by the Official State Agency. In States where the Official State Agency is different than the Cooperating State Agency, the Cooperating State Agency must also participate in the development of the plan. The plan must be administered by the Cooperating State Agency of the relevant State. This plan must include:
+(a) In order for poultry owners within a State to be eligible for indemnity and/or compensation for 100 percent of eligible costs under § 56.3(b), the State in which the poultry participate in the Plan must have in place an initial State response and containment plan that has been approved by APHIS. The initial State response and containment plan must be developed by the Official State Agency. In States where the Official State Agency is different than the Cooperating State Agency, the Cooperating State Agency must also participate in the development of the plan. The plan must be administered by the Cooperating State Agency of the relevant State. This plan must include:
 
 (1) Provisions for a standing emergency disease management committee, regular meetings, and exercises, including coordination with any tribal governments that may be affected;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
 
 (b) If a State is designated a U.S. Avian Influenza Monitored State, Layers under § 146.24(a) of this chapter or a U.S. Avian Influenza Monitored State, Turkeys under § 146.44(a) of this chapter, it will lose that status during any outbreak of H5/H7 LPAI and for 90 days after the destruction and disposal of all infected or exposed birds and cleaning and disinfection of all affected premises are completed.
 
-[71 FR 56323, Sept. 26, 2006, as amended at 75 FR 10658, Mar. 9, 2010]
+(Approved by the Office of Management and Budget under control number 0579-0474)[71 FR 56323, Sept. 26, 2006, as amended at 75 FR 10658, Mar. 9, 2010; 85 FR 62564, Oct. 5, 2020]

@@ -1,5 +1,7 @@
 ##### § 414.1505 Requirement for payment. #####
 
+Link to an amendment published at 85 FR 70355, Nov. 4, 2020.
+
 In order for home infusion therapy services to qualify for payment under the Medicare program the services must be furnished to an eligible beneficiary by, or under arrangements with, a qualified home infusion therapy supplier that meets the following requirements:
 
 (a) The health and safety standards for qualified home infusion therapy suppliers at § 486.520(a) through (c) of this chapter.

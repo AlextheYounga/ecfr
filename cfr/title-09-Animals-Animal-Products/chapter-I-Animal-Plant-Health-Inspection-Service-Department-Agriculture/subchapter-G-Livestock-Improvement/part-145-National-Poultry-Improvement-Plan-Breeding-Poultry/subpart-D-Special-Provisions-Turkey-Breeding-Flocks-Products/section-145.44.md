@@ -1,10 +1,8 @@
 ##### § 145.44 Terminology and classification; States. #####
 
-Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
-
 (a) *U.S. Pullorum-Typhoid Clean State.* (1) A State will be declared a U.S. Pullorum-Typhoid Clean State when it has been determined by the Service that:
 
-(i) The State is in compliance with the provisions contained in § 145.23(b)(3)(i) through (vii), § 145.33(b)(3)(i) through (vii), § 145.43(b)(3)(i) through (vi), § 145.53(b)(3)(i) through (vii), § 145.73(b)(2)(i), § 145.83(b)(2)(i), and § 145.93(b)(3)(i) through (vii).
+(i) The State is in compliance with the provisions contained in §§ 145.23(b)(3)(i) through (vii), 145.33(b)(3)(i) through (vii), 145.43(b)(3)(i) through (vi), 145.53(b)(3)(i) through (vii), 145.73(b)(2)(i), § 145.83(b)(2)(i), 145.93(b)(3)(i) through (vii), and 145.103(b)(3)(i) through (ix).
 
 (ii) No pullorum disease or fowl typhoid is known to exist nor to have existed in hatchery supply flocks within the State during the preceding 12 months: *Provided,* That pullorum disease or fowl typhoid found within the preceding 24 months in waterfowl, exhibition poultry, and game bird breeding flocks will not prevent a State, which is otherwise eligible, from qualifying.
 
@@ -74,4 +72,4 @@ Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
 
 (2) The Service may revoke the State's classification as a U.S. M. Meleagridis Clean State, Turkeys, if any of the conditions described in paragraph (d)(1) of this section are discontinued. The Service will not revoke the State's classification as a U.S. M. Meleagridis Clean State, Turkeys, until it has conducted an investigation and the Official State Agency has been given an opportunity for a hearing in accordance with rules of practice adopted by the Administrator.
 
-(Approved by the Office of Management and Budget under control number 0579-0007)[40 FR 1503, Jan. 8, 1975. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 45 FR 10316, Feb. 15, 1980; 48 FR 57473, Dec. 30, 1983; 49 FR 19803, May 10, 1984; 54 FR 23957, June 5, 1989; 61 FR 11521, Mar. 21, 1996; 65 FR 8018, Feb. 17, 2000; 67 FR 8469, Feb. 25, 2002; 76 FR 15793, Mar. 22, 2011]
+(Approved by the Office of Management and Budget under control number 0579-0007)[40 FR 1503, Jan. 8, 1975. Redesignated at 44 FR 61586, Oct. 26, 1979, and amended at 45 FR 10316, Feb. 15, 1980; 48 FR 57473, Dec. 30, 1983; 49 FR 19803, May 10, 1984; 54 FR 23957, June 5, 1989; 61 FR 11521, Mar. 21, 1996; 65 FR 8018, Feb. 17, 2000; 67 FR 8469, Feb. 25, 2002; 76 FR 15793, Mar. 22, 2011; 85 FR 62565, Oct. 5, 2020]

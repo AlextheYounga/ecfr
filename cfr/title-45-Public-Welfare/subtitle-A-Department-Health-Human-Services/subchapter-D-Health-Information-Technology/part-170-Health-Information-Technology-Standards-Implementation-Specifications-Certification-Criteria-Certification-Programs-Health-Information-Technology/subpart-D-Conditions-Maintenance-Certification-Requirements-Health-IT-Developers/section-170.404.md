@@ -1,5 +1,7 @@
 ##### § 170.404 Application programming interfaces. #####
 
+Link to an amendment published at 85 FR 70084, Nov. 4, 2020.
+
 The following Condition and Maintenance of Certification requirements apply to developers of Health IT Modules certified to any of the certification criteria adopted in § 170.315(g)(7) through (10).
 
 (a) *Condition of certification requirements* - (1) *General.* A Certified API Developer must publish APIs and allow electronic health information from such technology to be accessed, exchanged, and used without special effort through the use of APIs or successor technology or standards, as provided for under applicable law, including providing access to all data elements of a patient's electronic health record to the extent permissible under applicable privacy laws.
