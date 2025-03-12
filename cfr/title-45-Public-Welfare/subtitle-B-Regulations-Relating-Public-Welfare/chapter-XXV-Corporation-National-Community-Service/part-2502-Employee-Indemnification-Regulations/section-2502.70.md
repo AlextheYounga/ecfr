@@ -1,0 +1,3 @@
+##### § 2502.70 What must an AmeriCorps employee do if served with process or pleadings that includes a covered claim? #####
+
+An AmeriCorps employee who is named as a defendant (or the personal representative of the AmeriCorps employee's estate) in a legal proceeding that includes a covered claim and who wishes to seek indemnification must promptly notify their supervisor, who then promptly notifies the Office of General Counsel. Former employees must directly notify the Office of General Counsel.

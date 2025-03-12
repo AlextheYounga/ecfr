@@ -1,0 +1,11 @@
+##### 1239.7103 Responsibilities. #####
+
+(a) The contracting officer will include appropriate data protection requirements in all contracts and other acquisition-related documents for DOT information created, collected, displayed, used, processed, stored, transmitted, and disposed of by contractors.
+
+(b) The contracting officer will ensure all contracts with contractors maintaining information systems containing PII contain the appropriate clauses as may be required by the Federal Acquisition Regulation (FAR) and other OMB and agency memorandums and directives, to ensure that PII under the control of the contractor is maintained in accordance with Federal law and DOT policy.
+
+(c) The contracting officer and assigned contracting officer's representatives and program and project managers will obtain contractual assurances from third parties working on official DOT business that third parties will protect PII in a manner consistent with the privacy practices of the Department during all phases of the system development lifecycle.
+
+(d) Program and project managers and requiring activities will address the need to protect information about individuals and/or PII in the statement of work (SOW), performance work statement (PWS) or statement of objectives (SOO). Contracting officers will notify the appropriate organization or office when it intends to issue a solicitation for items or services requiring access to personal information or PII. Contracting officers will identify the Component Privacy Officer as the point of contact for oversight of privacy protection and identify the Component Information Systems Security Manager for the component for oversight of information security to the contractor after award.
+
+(e) See 1252.239-75, DOT Protection of Information about Individuals, PII and Privacy Risk Management Requirements, for additional information regarding the requirements of DOT Order 1351.18, Privacy Risk Management Policy and DOT Order 1351.37, Departmental Cyber Security Policy.

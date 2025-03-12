@@ -1,3 +1,3 @@
-##### 1201.301-72 TAC or TN numbering. #####
+##### 1201.301-72 Transportation Acquisition Circular numbering. #####
 
-TACs and TNs will be numbered consecutively on a fiscal year basis beginning with number “01” prefixed by the last two digits of the fiscal year (e.g., TNs 04-01 and 04-02 indicate the first two TNs issued in fiscal year 2004).
+Transportation Acquisition Circulars (TACs) will be numbered consecutively on a fiscal year basis beginning with number “01” prefixed by the last two digits of the fiscal year (*e.g.,* TACs 21-01 and 21-02 indicate the first two TACs issued in fiscal year 2021).

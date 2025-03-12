@@ -1,0 +1,3 @@
+##### 1219.202-70 Procurement Forecast. #####
+
+The OSDBU shall prepare and maintain DOT's Procurement Forecast in coordination with DOT Operating Administrations. The forecast will be published every year on or before October 1st and can be found at *https://www.transportation.gov/osdbu/procurement-forecast/summary.* Contracting officers and small business specialists will work with the OSDBU to maintain accurate procurement forecast information.

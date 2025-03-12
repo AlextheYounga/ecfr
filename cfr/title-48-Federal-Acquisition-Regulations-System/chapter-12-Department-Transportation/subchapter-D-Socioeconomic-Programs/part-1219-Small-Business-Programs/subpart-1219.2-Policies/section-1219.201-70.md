@@ -1,0 +1,3 @@
+##### 1219.201-70 Procurement goals for small business. #####
+
+As required by the Small Business Act, the Secretary shall establish annual goals for small business participation in DOT contracts and subcontracts. Each contracting activity in consultation with the OSDBU on behalf of the Secretary shall establish annual goals that present, for that activity, the maximum practicable opportunity for small business concerns to participate in the performance of the activity's contracts and subcontracts.

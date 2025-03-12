@@ -1,0 +1,3 @@
+##### 1239.7100 Scope of subpart. #####
+
+This subpart includes Privacy Act and data protection considerations for DOT contracts. Data protection requirements are in addition to provisions concerning the general protection of individual privacy (*see* FAR subpart 24.1) and privacy in the acquisition of information technology (*see* FAR 39.105). DOT rules and regulations implementing the Privacy Act of 1974 are located at 49 CFR part 10.

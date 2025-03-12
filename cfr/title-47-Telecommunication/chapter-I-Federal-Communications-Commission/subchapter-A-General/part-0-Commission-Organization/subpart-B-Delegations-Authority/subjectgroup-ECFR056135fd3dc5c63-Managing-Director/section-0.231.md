@@ -1,7 +1,5 @@
 ##### § 0.231 Authority delegated. #####
 
-Link to an amendment published at 87 FR 54328, Sept. 6, 2022.
-
 (a) The Managing Director, or his designee, upon securing concurrence of the General Counsel, is delegated authority to act upon requests for waiver, reduction or deferment of fees, establish payment dates, and issue notices proposing amendments or adjustments to the fee schedules established under part 1, subpart G, of this chapter.
 
 (b) The Managing Director, or his designee, is delegated authority to make nonsubstantive, editorial revisions of the Commission's rules and regulations upon approval of the bureau or staff office primarily responsible for the particular part or section involved.
@@ -34,9 +32,9 @@ Link to an amendment published at 87 FR 54328, Sept. 6, 2022.
 
 (k) The Managing Director, or his designee, after seeking the opinion of the General Counsel, is delegated the authority to direct all organizations, programs (including funds), and accounts that are required to be included in the financial statements of the Commission to comply with all relevant and applicable federal financial management and reporting statutes.
 
-(l) *Subpoena authority.* The Managing Director is delegated authority to issue subpoenas for the Office of Managing Director's oversight of audits of the USF programs and the Office of Managing Director's review and evaluation of the interstate telecommunications relay services fund, the North American numbering plan, regulatory fee collection, FCC operating expenses, and debt collection. Before issuing a subpoena, the Office of Managing Director shall obtain the approval of the Office of General Counsel.
+(l) The Managing Director is delegated authority to issue subpoenas for the Office of Managing Director's oversight of audits of the USF programs and other financial assistance programs, and the Office of Managing Director's review and evaluation of the interstate telecommunications relay services fund, the North American numbering plan, regulatory fee collection, FCC operating expenses, and debt collection. Before issuing a subpoena, the Office of Managing Director shall obtain the approval of the Office of General Counsel.
 
-(Secs. 4, 303, 48 Stat., as amended, 1066, 1082; 47 U.S.C. 154, 303; 18 U.S.C. 207(j); 39 U.S.C. 3220; Notice of Preliminary Guidelines issued by the Department of Justice, 50 FR 46622, November 8, 1985)Cross Reference:
+Cross Reference:
 
 47 CFR part 19, subpart E.
 

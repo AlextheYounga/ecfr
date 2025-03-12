@@ -1,0 +1,3 @@
+##### 1219.202 Specific policies. #####
+
+OSDBU is responsible for reviewing procurement strategies and subcontracting efforts, establishing review thresholds and making recommendations to further the implementation of this part. The OSDBU Director may waive review of certain classes of acquisitions that the Director identifies as providing limited or no opportunity for small business participation or may delegate review of such acquisitions to the OA Small Business Specialists.

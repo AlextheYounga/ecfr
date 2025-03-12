@@ -1,0 +1,7 @@
+##### 1239.7003 Contract clauses. #####
+
+(a) The contracting officer shall insert the clause at 1252.239-72, Compliance with Safeguarding DOT Sensitive Data Controls, in all solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations solely for the acquisition of commercially available off-the-shelf (COTS) items.
+
+(b) The contracting officer shall insert clause at 1252.239-73, Limitations on the Use or Disclosure of Third-Party Contractor Reported Cyber Incident Information, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, for commercial services that include support for the Government's activities related to safeguarding DOT sensitive data and cyber incident reporting.
+
+(c) The contracting officer shall insert clause at 1252.239-74, Safeguarding DOT Sensitive Data and Cyber Incident Reporting, in all solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations and contracts solely for the acquisition of COTS items.

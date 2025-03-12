@@ -1,3 +1,3 @@
 ##### 1201.101 Purpose. #####
 
-The Department of Transportation (DOT) Acquisition Regulation (TAR) establishes uniform acquisition policies and procedures, which implement and supplement the Federal Acquisition Regulation (FAR).
+The Department of Transportation (DOT), Transportation Acquisition Regulation (TAR), establishes uniform acquisition policies and procedures that implement and supplement the Federal Acquisition Regulation (FAR). The TAR provides regulatory or policy instruction when coverage is needed for DOT-specific subject matter not covered in the FAR. The TAR also includes policy statements that DOT considers important to both internal and external TAR audiences. The Transportation Acquisition Manual (TAM) contains internal operating procedures, providing supplementary guidance and instructions for carrying out FAR and TAR requirements.

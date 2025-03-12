@@ -1,0 +1,3 @@
+##### 1204.502 Policy. #####
+
+(c) DOT's preferred policy is to use electronic signatures, records and communication methods in lieu of paper transactions whenever practicable. Before using electronic commerce, the HOA and OA shall ensure that the OA systems are capable of ensuring authentication and confidentiality commensurate with the risk of unauthorized access to or modification of the information.

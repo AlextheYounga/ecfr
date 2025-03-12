@@ -1,0 +1,3 @@
+##### § 54.1901 Neutrality requirement. #####
+
+Outreach conducted by Grantees, Pass-through Entities, and Subrecipients, as defined in 2 CFR part 200, through the Commission's Affordable Connectivity Outreach Grant Program shall be neutral with respect to a particular participating provider (as defined in § 54.1800(r)(1) through (4)) or among a specific group of participating providers (including, but not limited to, broadband industry groups, such as trade associations).

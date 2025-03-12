@@ -1,0 +1,3 @@
+##### § 2502.10 Purpose. #####
+
+The purpose of this part is to provide the procedures for indemnification of AmeriCorps employees who are personally named in certain legal proceedings not covered by the Federal Tort Claims Act (FTCA) or the Federal Employee Liability Reform and Tort Compensation Act (FELRTCA) when AmeriCorps determines both that the actions arose within the scope of their AmeriCorps employment and that indemnification is in the agency's interest. These determinations are matters of agency discretion.

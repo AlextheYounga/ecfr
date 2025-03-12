@@ -1,0 +1,3 @@
+##### § 54.1904 Recordkeeping and audits. #####
+
+Participants in the Affordable Connectivity Outreach Grant Program must maintain records to document compliance with the rules and requirements for the Outreach Grant Program in accordance with 2 CFR 200.334, 200.335, 200.336, and 200.338, as adopted at 2 CFR 6000.1, and shall provide that documentation to the Office of the Managing Director or any other FCC Bureau or Office, or their assigns, upon request in accordance with 2 CFR 200.337, as adopted at 2 CFR 6000.1.

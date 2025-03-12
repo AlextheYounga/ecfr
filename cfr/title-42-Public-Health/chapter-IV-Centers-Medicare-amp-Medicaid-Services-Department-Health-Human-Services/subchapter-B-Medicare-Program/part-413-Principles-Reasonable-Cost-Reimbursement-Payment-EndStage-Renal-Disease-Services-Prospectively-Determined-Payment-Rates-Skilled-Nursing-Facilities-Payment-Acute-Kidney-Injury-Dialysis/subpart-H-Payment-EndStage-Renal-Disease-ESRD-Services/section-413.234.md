@@ -1,5 +1,7 @@
 ##### § 413.234 Drug designation process. #####
 
+Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *ESRD PPS functional category.* A distinct grouping of drugs or biological products, as determined by CMS, whose end action effect is the treatment or management of a condition or conditions associated with ESRD.
@@ -42,13 +44,13 @@
 
 (e) *Exclusion criteria for the transitional drug add-on payment adjustment.* A new renal dialysis drug used to treat or manage a condition for which there is an ESRD PPS functional category is not eligible for payment using the transitional drug add-on payment adjustment described in paragraph (c)(1) of this section if the drug is approved by FDA under section 505(j) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) or the new drug application (NDA) for the drug is classified by FDA as Type 3, 5, 7, or 8, Type 3 in combination with Type 2 or Type 4, or Type 5 in combination with Type 2, or Type 9 when the parent NDA is a Type 3, 5, 7 or 8 as described in paragraphs (e)(1) through (7) of this section, respectively:
 
-(1) Type 3 NDA - New Dosage Form.
+(1) Type 3 NDA—New Dosage Form.
 
 (i) A *Type 3 NDA* is for a new dosage form of an active ingredient that has been approved or marketed in the United States (U.S.) by the same or another applicant but in a different dosage form. The indication for the drug product does not need to be the same as that of the already marketed drug product. Once a new dosage form has been approved for an active ingredient, subsequent applications for the same dosage form and active ingredient should be classified as a *Type 5 NDA,* as described in paragraph (e)(2) of this section.
 
 (ii) [Reserved]
 
-(2) Type 5 NDA - New Formulation or Other Differences.
+(2) Type 5 NDA—New Formulation or Other Differences.
 
 (i) A *Type 5 NDA* is for a product, other than a new dosage form, that differs from a product already approved or marketed in the U.S. because of one of the following:
 
@@ -84,7 +86,7 @@
 
 (ii) [Reserved]
 
-(3) Type 7 NDA - Previously Marketed But Without an Approved NDA.
+(3) Type 7 NDA—Previously Marketed But Without an Approved NDA.
 
 (i) A *Type 7 NDA* is for a drug product that contains an active moiety that has not been previously approved in an application, but has been marketed in the U.S. This classification applies only to the first NDA approved for a drug product containing this (these) active moiety(ies). *Type 7 NDAs* include, but are not limited to:
 
@@ -98,7 +100,7 @@
 
 (ii) [Reserved]
 
-(4) Type 8 NDA - Prescription to Over-the-Counter (OTC).
+(4) Type 8 NDA—Prescription to Over-the-Counter (OTC).
 
 (i) A *Type 8 NDA* is for a drug product intended for OTC marketing that contains an active ingredient that has been approved previously or marketed in the U.S. only for dispensing by prescription (OTC switch). A *Type 8 NDA* may provide for a different dosing regimen, different strength, different dosage form, or different indication from the product approved previously for prescription sale.
 
@@ -106,19 +108,19 @@
 
 (5) *Combination of Type 3 NDA.* Type 3 NDA, as described in paragraph (e)(1) of this section, in combination with a Type 2 NDA, as described in paragraph (e)(5)(i) of this section, or in combination with a Type 4 NDA, as described in paragraph (e)(5)(ii) of this section;
 
-(i) Type 2 NDA - New Active Ingredient.
+(i) Type 2 NDA—New Active Ingredient.
 
 (A) A *Type 2 NDA* is for a drug product that contains a new active ingredient, but not a new molecular entity (NME). A new active ingredient includes those products whose active moiety has been previously approved or marketed in the U.S., but whose particular ester, salt, or noncovalent derivative of the unmodified parent molecule has not been approved by FDA or marketed in the U.S., either alone, or as part of a combination product. Similarly, if any ester, salt, or noncovalent derivative has been marketed first, the unmodified parent molecule would also be considered a new active ingredient, but not an NME. The indication for the drug product does not need to be the same as that of the already marketed product containing the same active moiety.
 
 (B) If the active ingredient is a single enantiomer and a racemic mixture containing that enantiomer has been previously approved by FDA or marketed in the U.S., or if the active ingredient is a racemic mixture containing an enantiomer that has been previously approved by FDA or marketed in the U.S., the NDA will be classified as a *Type 2 NDA.*
 
-(ii) Type 4 NDA - New Combination.
+(ii) Type 4 NDA—New Combination.
 
 (A) A *Type 4 NDA* is for a new drug-drug combination of two or more active ingredients. An application for a new drug-drug combination product may have more than one classification code if at least one component of the combination is an NME or a new active ingredient. The new product may be a physical or chemical (for example, covalent ester or noncovalent derivative) combination of two or more active moieties.
 
 (B) A new *physical combination* may be two or more active ingredients combined into a single dosage form, or two or more drugs packaged together with combined labeling. When at least one of the active moieties is classified as an NME, the NDA is classified as a combination of a *Type 1 NDA,* as described in paragraph (e)(5)(ii)(B)(*1*) of this section, with a *Type 4 NDA,* as described in paragraph (e)(5)(ii) of this section. When none of the active moieties is an NME, but at least one is a new active ingredient, the NDA is classified as a combination of a *Type 2 NDA,* as described in paragraph (e)(5)(i) of this section, with a *Type 4 NDA,* as described in paragraph (e)(5)(ii) of this section.
 
-(*1*) Type 1 NDA - New Molecular Entity.
+(*1*) Type 1 NDA—New Molecular Entity.
 
 (*i*) A *Type 1 NDA* is for a drug product that contains an NME. An NME is an active ingredient that contains no active moiety that has been previously approved by FDA in an application submitted under section 505 of the FD&C Act or has been previously marketed as a drug in the U.S. A pure enantiomer or a racemic mixture is an NME only when neither has been previously approved or marketed.
 
@@ -136,7 +138,7 @@
 
 (7) *Type 9 NDA when the parent NDA is a Type 3, Type 5, Type 7, or a Type 8.* A *Type 9* NDA, as described in paragraph (e)(7)(i) of this section when the parent NDA is a *Type 3* NDA as described in paragraph (e)(1) of this section or a *Type 5* NDA as described in paragraph (e)(2) of this section or *Type 7* NDA as described in paragraph (e)(3) of this section or a *Type 8* NDA as described in paragraph (e)(4) of this section.
 
-(i) Type 9 NDA - New Indication or Claim, Drug Not to be Marketed under Type 9 NDA after Approval.
+(i) Type 9 NDA—New Indication or Claim, Drug Not to be Marketed under Type 9 NDA after Approval.
 
 (A) A *Type 9* NDA is for a new indication or claim for a drug product that is currently being reviewed under a different NDA (the “parent NDA”), and the applicant does not intend to market this drug product under the *Type 9* NDA after approval. Generally, a *Type 9* NDA is submitted as a separate NDA so as to be in compliance with the guidance for industry on *Submitting Separate Marketing Applications and Clinical Data for Purposes of Assessing User Fees.*
 

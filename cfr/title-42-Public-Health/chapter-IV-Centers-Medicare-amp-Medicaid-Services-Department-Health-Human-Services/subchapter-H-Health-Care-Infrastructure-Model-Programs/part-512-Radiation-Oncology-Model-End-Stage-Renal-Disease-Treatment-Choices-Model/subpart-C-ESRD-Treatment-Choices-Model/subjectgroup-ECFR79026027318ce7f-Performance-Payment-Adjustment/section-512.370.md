@@ -1,5 +1,7 @@
 ##### § 512.370 Benchmarking and scoring. #####
 
+Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
+
 (a) *General.* (1) CMS assesses the home dialysis rate and transplant rate for each ETC Participant against the applicable benchmarks to calculate an -
 
 (i) Achievement score, as described in paragraph (b) of this section; and

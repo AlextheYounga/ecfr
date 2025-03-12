@@ -1,0 +1,3 @@
+##### 1232.770-1 Scope of section. #####
+
+This section provides policy and procedures for using incremental funding for fixed-price, time-and-material and labor-hour contracts during a period in which funds are provided to the DOT and its operating administrations under a continuing resolution. Heads of the contracting activities may develop necessary supplemental internal procedures and guidance to advise offerors and contractors of these policies and procedures.

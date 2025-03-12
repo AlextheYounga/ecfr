@@ -1,5 +1,5 @@
 ##### 1201.105-3 Copies. #####
 
-(a) Copies of the TAR in Federal Register, and CFR form may be purchased from the Superintendent of Documents, Government Printing Office, Washington, DC 20402. The electronic version of the Federal Register may be found at *http://www.nara.gov* and the CFR at *http://www.gpoaccess.gov.*
+(a) Copies of the TAR as published in Federal Register and as set forth in the CFR may be purchased from the Government Publishing Office (GPO), U.S. Government Online Bookstore on the internet at *https://bookstore.gpo.gov/.*
 
-(b) The (TAR) 48 CFR chapter 12 and Transportation Acquisition Circulars (TACs) are available on the Internet at *http://www.dot.gov/ost/m60.*
+(b) The TAR and Transportation Acquisition Circulars (TACs) are available on the internet at *https://www.acquisition.gov.*

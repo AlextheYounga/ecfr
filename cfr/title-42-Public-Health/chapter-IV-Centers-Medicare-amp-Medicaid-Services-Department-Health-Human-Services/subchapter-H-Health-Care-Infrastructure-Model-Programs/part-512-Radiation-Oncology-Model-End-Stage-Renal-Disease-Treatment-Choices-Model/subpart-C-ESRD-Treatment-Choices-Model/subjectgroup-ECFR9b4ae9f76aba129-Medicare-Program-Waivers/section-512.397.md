@@ -1,5 +1,7 @@
 ##### § 512.397 ETC Model Medicare program waivers and additional flexibilities. #####
 
+Link to an amendment published at 87 FR 67302, Nov. 7, 2022.
+
 The following provisions are waived solely for purposes of testing the ETC Model.
 
 (a)(1) *Medicare payment waivers.* CMS waives the requirements of sections 1833(a), 1833(b), 1848(a)(1), 1881(b), and 1881(h)(1)(A) of the Act only to the extent necessary to make the payment adjustments under the ETC Model described in this subpart.

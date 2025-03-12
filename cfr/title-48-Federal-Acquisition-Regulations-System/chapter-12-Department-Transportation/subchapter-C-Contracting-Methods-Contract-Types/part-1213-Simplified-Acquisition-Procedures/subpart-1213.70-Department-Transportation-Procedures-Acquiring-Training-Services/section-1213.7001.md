@@ -1,0 +1,5 @@
+##### 1213.7001 Solicitation provision and contract clause. #####
+
+(a) Contracting officers shall insert the provision as prescribed at 1252.237-71, Certification of Data, in all solicitations and requests for quotations, and the clause as prescribed at 1252.237-72, Prohibition on Advertising, in solicitations, requests for quotations, and all contracts (*e.g.,* purchase orders, SF 182s) for training services when the content and/or presentation of the training is controlled by DOT.
+
+(b) Contracting officers shall incorporate the successful offeror's certified data into any resultant contract(s). Certified data may be adopted by reference, if the contracting officer determines it contains information sufficient to reliably describe the certified data submitted. For example, this type of information includes dated material such as resumes and company or personnel qualifications.

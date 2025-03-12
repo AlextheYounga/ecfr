@@ -1,3 +1,3 @@
 ##### 1201.603-1 General. #####
 
-Each DOT OA is responsible for appointing its contracting officers.
+Each DOT OA is responsible for appointing its contracting officers. Each HCA shall appoint one Chief of the Contracting Office (COCO) for each OA. Individuals designated as COCOs are considered contracting officers and shall be appointed by their respective HCA. The HCA may select, appoint, and terminate the appointment of contracting officers. The HCA may re-delegate this authority to a level no lower than that of the COCO.

@@ -1,3 +1,3 @@
 ##### 1228.307-1 Group insurance plans. #####
 
-(a) *Prior approval requirements.* The contracting officer shall instruct the contractor on a contract-by-contract basis on proposed purchases of group insurance plans. Legal advice should be sought where necessary on the advantages to the Government.
+(a) *Prior approval requirements.* Contractors shall provide plans required by FAR 28.307-1(a) to the contracting officer for approval.

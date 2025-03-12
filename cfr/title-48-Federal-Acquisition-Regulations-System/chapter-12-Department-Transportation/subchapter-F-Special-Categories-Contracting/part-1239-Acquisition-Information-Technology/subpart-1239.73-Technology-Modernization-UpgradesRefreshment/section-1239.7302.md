@@ -1,0 +1,3 @@
+##### 1239.7302 Policy. #####
+
+Contracting officers will ensure all documents involving the acquisition of development or maintenance of DOT applications, systems, infrastructure, and services contain the appropriate clauses as may be required by the Federal Acquisition Regulation (FAR) and other Federal authorities, in order to ensure that information system modernization is prioritized accordance with Federal law, OMB Guidance, and DOT policy.

@@ -1,0 +1,3 @@
+##### 1204.1303 Contract clause. #####
+
+The contracting officer shall insert the clause at 1252.204-70, Contractor Personnel Security and Agency Access, in solicitations and contracts (including task orders, if appropriate), exceeding the micro-purchase threshold, when contract performance requires contractors to have routine physical access to a federally-controlled facility and/or routine physical and logical access to a Departmental/federally-controlled information system.

@@ -1,0 +1,3 @@
+##### 1239.7104 Contract clause. #####
+
+The contracting officer shall insert the clause at 1252.239-75, DOT Protection of Information About Individuals, PII and Privacy Risk Management Requirements, in solicitations and contracts involving contractor performance of data protection functions and for contracts involving the design, development, or operation of an information system with access to personally identifiable information as described in DOT Order 1351.18, Privacy Risk Management, and DOT Order 1351.37, Departmental Cyber Security Policy.

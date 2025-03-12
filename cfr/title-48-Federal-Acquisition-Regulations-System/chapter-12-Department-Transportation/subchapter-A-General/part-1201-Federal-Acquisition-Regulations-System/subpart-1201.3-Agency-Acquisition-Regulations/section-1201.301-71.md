@@ -1,7 +1,5 @@
-##### 1201.301-71 Effective date. #####
+##### 1201.301-71 Effective dates for Transportation Acquisition Circulars (TACs). #####
 
-Unless otherwise stated, the following applies -
+(a) *Effective dates set forth in TACs.* Unless otherwise stated in the body of TACs, statements to the effect that the policy or procedures are “effective upon receipt,” or “upon a specified date,” or that changes set forth in the document are “to be used upon receipt,” mean that any new or revised provisions, clauses, procedures, or forms must be included in solicitations, contracts, or modifications issued thereafter.
 
-(a) Statements in TACs or TNs to the effect that the material therein is “effective upon receipt,” “upon a specified date,” or that changes set forth in the document are “to be used upon receipt,” mean that any new or revised provisions, clauses, procedures, or forms must be included in solicitations, contracts or modifications issued thereafter; and
-
-(b) Unless expressly directed by statute or regulation, solicitations in process or completed negotiations when the TAC or TN is received, new information such as forms and clauses, need not be included if the chief of the contracting office determines that it would not be in the best interest of the Government to include the new information.
+(b) *Effective dates for in-process acquisitions.* Unless expressly directed by statute or regulation, solicitations in process or negotiations that are completed when a TAC is issued are not required to include or insert new requirements, forms, clauses, or provisions, as may be set forth in a TAC. However, the chief of the contracting office must determine that it is in the best interest of the Government to exclude the new information and the determination and findings must be included in the contract file.

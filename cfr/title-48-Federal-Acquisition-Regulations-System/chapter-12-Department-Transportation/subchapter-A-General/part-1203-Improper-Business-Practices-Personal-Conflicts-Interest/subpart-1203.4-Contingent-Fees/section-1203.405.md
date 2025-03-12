@@ -1,3 +1,3 @@
 ##### 1203.405 Misrepresentations or violations of the Covenant Against Contingent Fees. #####
 
-(a) and (b)(4) The same procedures contained in (TAR) 48 CFR 1203.203 shall also be followed for misrepresentation or violations of the covenant against contingent fees, except reports of misrepresentation or violations of the covenant against contingent fees shall be coordinated with legal counsel for referral to the Department of Justice, if deemed appropriate.
+(a) The same procedures contained in 1203.203 shall be followed for reporting the attempted or actual exercise of improper influence, misrepresentation of a contingent fee arrangement, or other violation of the Covenant Against Contingent Fees (*see* FAR 52.203-5), except reports of misrepresentation or violations of the Covenant Against Contingent Fees shall be coordinated with DOT legal counsel for referral to the Department of Justice, if deemed appropriate.

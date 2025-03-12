@@ -1,0 +1,17 @@
+##### § 54.1902 Prohibited activities and costs. #####
+
+In addition to any prohibited activities or costs, or other restrictions on grantee activities and costs under 2 CFR part 200, as adopted at 2 CFR 6000.1, or any other Federal statutes and regulations governing Federal grants, the following prohibitions apply to Grantees, Pass-through Entities, and Subrecipients for the Affordable Connectivity Outreach Grant Program.
+
+(a) *Prohibition against steering consumers to particular ACP participating providers.* Grantees, Pass-through Entities, and Subrecipients (as defined in 2 CFR 200.1) shall not direct, steer, incentivize, or otherwise encourage consumers to enroll with a particular participating provider (as defined in § 54.1800(r)(1) through (4)) or among a specific group of participating providers (including, but not limited to, broadband industry groups, such as trade associations) when conducting grant-funded outreach activities. Grantees, Pass-through Entities, and Subrecipients shall also make clear that eligible households may enroll with the participating provider of their choice.
+
+(b) *Prohibition against use of ACP participating provider-branded items.* Grantees, Pass-through Entities, and Subrecipients shall not use participating-provider (as defined in § 54.1800(r)(1) through (4)) branded items such as outreach materials, gifts, or incentives when conducting grant-funded outreach activities.
+
+(c) *Prohibition against ACP participating provider gifts, incentives, and funding.* Grantees, Pass-through Entities, and Subrecipients shall not:
+
+(1) Offer or provide consumers gifts or incentives provided by or funded by a participating provider (as defined in § 54.1800(r)(1) through (4)) or a specific group of participating providers (including, but not limited to, broadband industry groups, such as trade associations) to encourage consumers to learn about, apply for, or enroll in the Affordable Connectivity Program (ACP) when conducting grant-funded outreach activities; or
+
+(2) Otherwise accept funding in any form, including in-kind contributions, from a participating provider or a specific group of participating providers for the purpose of conducting grant-funded outreach activities.
+
+(d) *Prohibition against using grant funds for gifts and incentives.* Grantees, Pass-through Entities, and Subrecipients may not use grant funds to obtain or support gifts or incentives to offer or provide to consumers to encourage consumers to learn about, apply for, or enroll in the Affordable Connectivity Program or otherwise engage with the Grantee, Pass-through Entity, or Subrecipient concerning the Affordable Connectivity Program when conducting grant-funded outreach activities.
+
+(e) *Prohibition of certain compensation for individuals engaged in outreach.* Grantees, Pass-through Entities, and Subrecipients shall not offer or provide any form of compensation that is based on the number of consumers or households that learn about, apply for, or enroll in the Affordable Connectivity Program to individuals conducting grant-funded outreach activities, including but not limited to their personnel, their representatives, their contractors, or others acting on behalf of the entity to conduct grant-funded outreach.

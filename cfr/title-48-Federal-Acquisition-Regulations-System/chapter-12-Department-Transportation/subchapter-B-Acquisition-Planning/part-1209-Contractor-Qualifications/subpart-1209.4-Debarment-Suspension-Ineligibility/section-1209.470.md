@@ -1,0 +1,11 @@
+##### 1209.470 Fact-finding procedures. #####
+
+The provisions of this section constitute the procedures to be used to resolve genuine disputes of material fact pursuant to 1209.406-3 and 1209.407-3. The SDC shall establish the date for the fact-finding hearing, normally to be held within 30 business days after notifying the contractor or individual that the SDO has determined a genuine dispute of material fact(s) exists.
+
+(a) The Government's representative and the contractor shall each have an opportunity to present evidence relevant to the genuine dispute(s) of material fact identified by the SDO. The contractor or individual may appear in person or through counsel at the fact-finding hearing and should address all defenses, contested facts, admissions, remedial actions taken, and, if a proposal to debar is involved, mitigating and aggravating factors. The contractor or individual may submit documentary evidence, present witnesses, and confront any person the agency presents.
+
+(b) Witnesses may testify in person. Witnesses will be reminded of the official nature of the proceedings and that any false testimony given is subject to criminal prosecution. Witnesses are subject to cross-examination. The fact-finding proceeding is an informal evidentiary hearing, during which the Rules of Evidence and Civil Procedure do not apply. Hearsay evidence may be presented and will be given appropriate weight by the fact-finder.
+
+(c) The proceedings shall be transcribed and a copy of the transcript shall be made available at cost to the contractor upon request, unless the contractor and the factfinder, by mutual agreement, waive the requirement for a transcript.
+
+(d) The fact-finder shall prepare a written finding(s) of fact for the record by a preponderance of the evidence for proposed debarments, and by adequate evidence for suspensions. A copy of the findings of fact shall be provided to the SDO, the Government's representative, and the contractor or individual. The SDO will consider the written findings of fact in the decision regarding the suspension or proposed debarment.

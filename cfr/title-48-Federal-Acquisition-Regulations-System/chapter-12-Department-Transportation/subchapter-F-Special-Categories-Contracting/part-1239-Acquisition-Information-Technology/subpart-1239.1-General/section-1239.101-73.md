@@ -1,0 +1,3 @@
+##### 1239.101-73 Policy. #####
+
+The contracting officer will ensure all documents involving the acquisition of products or services supporting the development or maintenance of DOT software applications, systems, infrastructure, and services contain the appropriate clauses as may be required by Federal Acquisition Regulation (FAR) and other Federal authorities, in order to ensure that information system modernization is prioritized accordance with Federal law, OMB Guidance, and DOT policy.

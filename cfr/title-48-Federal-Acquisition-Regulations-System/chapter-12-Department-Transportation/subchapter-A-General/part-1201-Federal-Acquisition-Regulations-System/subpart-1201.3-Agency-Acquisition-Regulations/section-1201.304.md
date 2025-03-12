@@ -1,5 +1,5 @@
 ##### 1201.304 Agency control and compliance procedures. #####
 
-(a) DOT shall control the proliferation of acquisition regulations and any revisions thereto (except as noted in paragraph (b) of this section) by using an internal (TAR) 48 CFR chapter 12 change process that involves input from many DOT elements including OA representatives on the Procurement Management Council. The OA member shall represent their OA's viewpoint along with Departmentwide considerations in reaching a decision on (TAR) 48 CFR chapter 12 changes.
+(a) DOT shall control the proliferation of acquisition regulations and any revisions thereto (except as noted in paragraph (b) of this section) by using an internal TAR change process.
 
-(b) OA-unique regulations will not be processed through the TAR/TAM change process, but shall be reviewed by OA legal counsel and submitted to the OSPE for review and approval. (See (TAR) 48 CFR 1252.101 for additional instructions pertaining to provisions and clauses.)
+(b) Specific OA-unique regulations will not be processed through the TAR/TAM change process but shall be reviewed by OA legal counsel and submitted to the OSPE for review and approval. (*See* 1252.101 for additional instructions pertaining to provisions and clauses.)

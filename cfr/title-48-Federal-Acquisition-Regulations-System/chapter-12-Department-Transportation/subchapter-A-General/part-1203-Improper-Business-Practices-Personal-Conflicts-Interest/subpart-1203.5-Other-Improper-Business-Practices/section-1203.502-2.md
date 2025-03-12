@@ -1,3 +1,3 @@
 ##### 1203.502-2 Subcontractor kickbacks. #####
 
-(g) The same procedures contained in (TAR) 48 CFR 1203.203 shall also be followed for subcontractor kickbacks.
+(g) The same procedures contained in 1203.203 shall be followed for reporting a violation of 41 U.S.C. chapter 87, Kickbacks.

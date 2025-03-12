@@ -1,0 +1,15 @@
+##### 1252.236-70 Special Precautions for Work at Operating Airports. #####
+
+As prescribed in 1236.570, insert the following clause:
+
+Special Precautions for Work at Operating Airports (NOV 2022)
+
+(a) When work is to be performed at an operating airport, the Contractor must arrange its work schedule so as not to interfere with flight operations. Such operations will take precedence over construction convenience. Any operations of the Contractor that would otherwise interfere with or endanger the operations of aircraft shall be performed only at times and in the manner directed by the Contracting Officer. The Government will make every effort to reduce the disruption of the Contractor's operation.
+
+(b) Unless otherwise specified by local regulations, all areas in which construction operations are underway shall be marked by yellow flags during daylight hours and by red lights at other times. The red lights along the edge of the construction areas within the existing aprons shall be the electric type of not less than 100 watts intensity placed and supported as required. All other construction markings on roads and adjacent parking lots may be either electric or battery type lights. These lights and flags shall be placed to outline the construction areas and the distance between any two flags or lights shall not be greater than 25 feet. The Contractor shall provide adequate watch to maintain the lights in working condition at all times other than daylight hours. The hour of beginning and the hour of ending of daylight will be determined by the Contracting Officer.
+
+(c) All equipment and material in the construction areas or when moved outside the construction area shall be marked with airport safety flags during the day and when directed by the Contracting Officer, with red obstruction lights at nights. All equipment operating on the apron, taxiway, runway, and intermediate areas after darkness hours shall have clearance lights in conformance with instructions from the Contracting Officer. No construction equipment shall operate within 50 feet of aircraft undergoing fuel operations. Open flames are not allowed on the ramp except at times authorized by the Contracting Officer.
+
+(d) Trucks and other motorized equipment entering the airport or construction area shall do so only over routes determined by the Contracting Officer. Use of runways, aprons, taxiways, or parking areas as truck or equipment routes will not be permitted unless specifically authorized for such use. Flag personnel shall be furnished by the Contractor at points on apron and taxiway for safe guidance of its equipment over these areas to assure right of way to aircraft. Areas and routes used during the contract must be returned to their original condition by the Contractor. The maximum speed allowed at the airport shall be established by airport management. Vehicles shall be operated to be under safe control at all times, weather and traffic conditions considered. Vehicles must be equipped with head and tail lights during the hours of darkness.
+
+(End of clause)
