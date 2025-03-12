@@ -1,5 +1,7 @@
 ##### § 412.522 Application of site neutral payment rate. #####
 
+Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
+
 (a) *General.* For discharges in cost reporting periods beginning on or after October 1, 2015 -
 
 (1) Except as provided for in paragraph (b) of this section, all discharges are paid based on the site neutral payment rate as determined under the provisions of paragraph (c) of this section.

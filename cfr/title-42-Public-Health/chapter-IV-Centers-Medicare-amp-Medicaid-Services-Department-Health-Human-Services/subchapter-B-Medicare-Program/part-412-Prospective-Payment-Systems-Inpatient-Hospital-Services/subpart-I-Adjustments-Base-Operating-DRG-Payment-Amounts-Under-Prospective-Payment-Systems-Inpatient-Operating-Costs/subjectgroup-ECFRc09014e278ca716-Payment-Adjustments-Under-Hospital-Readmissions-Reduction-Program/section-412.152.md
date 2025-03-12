@@ -1,5 +1,7 @@
 ##### § 412.152 Definitions for the Hospital Readmissions Reduction Program. #####
 
+Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
+
 As used in this section and in § 412.154, the following definitions apply:
 
 *Aggregate payments for all discharges* is, for a hospital for the applicable period, the sum of the base operating DRG payment amounts for all discharges for all conditions from such hospital for such applicable period.

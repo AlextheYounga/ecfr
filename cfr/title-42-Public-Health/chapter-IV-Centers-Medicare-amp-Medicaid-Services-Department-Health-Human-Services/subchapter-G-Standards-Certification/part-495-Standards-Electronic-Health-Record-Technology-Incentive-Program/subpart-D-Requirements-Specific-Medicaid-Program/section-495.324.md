@@ -1,5 +1,7 @@
 ##### § 495.324 Prior approval conditions. #####
 
+Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
+
 (a) A State must obtain prior written approval as specified in paragraph (b) of this section, when the State plans to initiate planning and implementation activities in support of Medicaid provider incentive payments encouraging the adoption and meaningful use of certified EHR technology with proposed Federal financial participation.
 
 (b) To receive 90 percent match, each State must receive prior approval for all of the following:

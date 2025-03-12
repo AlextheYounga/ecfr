@@ -1,5 +1,7 @@
 ##### § 1016.9 Delivering privacy and opt out notices. #####
 
+Link to an amendment published at 83 FR 40959, Aug. 17, 2018.
+
 (a) *How to provide notices.* You must provide any privacy notices and opt out notices, including short-form initial notices, that this part requires so that each consumer can reasonably be expected to receive actual notice in writing or, if the consumer agrees, electronically.
 
 (b)(1) *Examples of reasonable expectation of actual notice.* You may reasonably expect that a consumer will receive actual notice if you:

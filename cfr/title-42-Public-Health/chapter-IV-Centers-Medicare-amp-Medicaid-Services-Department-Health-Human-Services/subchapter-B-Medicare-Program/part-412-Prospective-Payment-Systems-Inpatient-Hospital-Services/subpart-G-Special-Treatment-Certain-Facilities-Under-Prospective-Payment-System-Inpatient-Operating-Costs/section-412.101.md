@@ -1,5 +1,7 @@
 ##### § 412.101 Special treatment: Inpatient hospital payment adjustment for low-volume hospitals. #####
 
+Link to an amendment published at 83 FR 41702, Aug. 17, 2018.
+
 (a) *Definitions.* Beginning in FY 2011, the terms used in this section are defined as follows:
 
 *Medicare discharges* means discharge of inpatients entitled to Medicare Part A, including discharges associated with individuals whose inpatient benefits are exhausted or whose stay was not covered by Medicare and also discharges of individuals enrolled in a MA organization under Medicare Part C.

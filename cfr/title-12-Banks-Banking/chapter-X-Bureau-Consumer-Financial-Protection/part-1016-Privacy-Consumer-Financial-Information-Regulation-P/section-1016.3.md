@@ -1,5 +1,7 @@
 ##### § 1016.3 Definitions. #####
 
+Link to an amendment published at 83 FR 40958, Aug. 17, 2018.
+
 As used in this part, unless the context requires otherwise:
 
 (a)(1) *Affiliate* means any company that controls, is controlled by, or is under common control with another company.

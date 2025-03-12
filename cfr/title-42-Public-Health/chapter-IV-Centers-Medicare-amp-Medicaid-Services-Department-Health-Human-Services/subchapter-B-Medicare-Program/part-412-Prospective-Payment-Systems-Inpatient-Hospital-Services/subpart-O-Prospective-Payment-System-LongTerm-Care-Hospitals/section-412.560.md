@@ -1,5 +1,7 @@
 ##### § 412.560 Requirements under the Long-Term Care Hospital Quality Reporting Program (LTCH QRP). #####
 
+Link to an amendment published at 83 FR 41705, Aug. 17, 2018.
+
 (a) *Participation in the LTCH QRP.* A long-term-care hospital must begin submitting data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1), and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act, under the LTCH QRP by no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter.
 
 (b) *Data submission requirements and payment impact.* (1) Except as provided in paragraph (c) of this section, a long-term care hospital must submit to CMS data on measures specified under sections 1886(m)(5)(D), 1899B(c)(1) and 1899B(d)(1) of the Act, and standardized patient assessment data required under section 1899B(b)(1) of the Act. Such data must be submitted in a form and manner, and at a time, specified by CMS.

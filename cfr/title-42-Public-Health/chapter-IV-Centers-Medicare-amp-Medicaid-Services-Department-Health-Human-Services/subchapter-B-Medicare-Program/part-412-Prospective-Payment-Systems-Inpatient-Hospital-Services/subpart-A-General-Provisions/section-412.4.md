@@ -1,5 +1,7 @@
 ##### § 412.4 Discharges and transfers. #####
 
+Link to an amendment published at 83 FR 41700, Aug. 17, 2018.
+
 (a) *Discharges.* Subject to the provisions of paragraphs (b) and (c) of this section, a hospital inpatient is considered discharged from a hospital paid under the prospective payment system when -
 
 (1) The patient is formally released from the hospital; or

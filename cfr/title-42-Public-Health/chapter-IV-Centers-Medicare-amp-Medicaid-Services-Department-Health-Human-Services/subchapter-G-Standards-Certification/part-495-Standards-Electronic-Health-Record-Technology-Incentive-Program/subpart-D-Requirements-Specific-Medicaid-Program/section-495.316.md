@@ -1,5 +1,7 @@
 ##### § 495.316 State monitoring and reporting regarding activities required to receive an incentive payment. #####
 
+Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
+
 (a) Subject to § 495.332 the State is responsible for tracking and verifying the activities necessary for a Medicaid EP or eligible hospital to receive an incentive payment for each payment year, as described in § 495.314.
 
 (b) Subject to § 495.332, the State must submit a State Medicaid HIT Plan to CMS that includes -

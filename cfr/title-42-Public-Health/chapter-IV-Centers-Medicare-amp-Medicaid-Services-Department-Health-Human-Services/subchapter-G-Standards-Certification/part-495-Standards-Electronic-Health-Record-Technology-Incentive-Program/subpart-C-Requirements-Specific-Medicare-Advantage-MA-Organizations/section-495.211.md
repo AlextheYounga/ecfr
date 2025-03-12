@@ -1,5 +1,7 @@
 ##### § 495.211 Payment adjustments effective for 2015 and subsequent MA payment years with respect to MA EPs and MA-affiliated eligible hospitals. #####
 
+Link to an amendment published at 83 FR 41711, Aug. 17, 2018.
+
 (a) *In general.* Beginning for MA payment adjustment year 2015, payment adjustments set forth in this section are made to prospective payments (issued under section 1853(a)(1)(A) of the Act) of qualifying MA organizations that previously received incentive payments under the MA EHR Incentive Program, if all or a portion of the MA-EPs and MA-affiliated eligible hospitals that would meet the definition of qualifying MA-EPs or qualifying MA-affiliated eligible hospitals (but for their demonstration of meaningful use) are not meaningful EHR users.
 
 (b) *Adjustment based on payment adjustment year.* The payment adjustment is calculated based on the payment adjustment year.

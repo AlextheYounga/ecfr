@@ -1,5 +1,7 @@
 ##### § 412.200 General provisions. #####
 
+Link to an amendment published at 83 FR 41704, Aug. 17, 2018.
+
 Beginning with discharges occurring on or after October 1, 1987, hospitals located in Puerto Rico are subject to the rules governing the prospective payment system for inpatient operating costs. Except as provided in this subpart, the provisions of subparts A, B, C, F, G, and H of this part apply to hospitals located in Puerto Rico. Except for § 412.60, which deals with DRG classification and weighting factors, the provisions of subparts D and E, which describe the methodology used to determine prospective payment rates for inpatient operating costs for hospitals, do not apply to hospitals located in Puerto Rico. Instead, the methodology for determining prospective payment rates for inpatient operating costs for these hospitals is set forth in §§ 412.204 through 412.212.
 
 [57 FR 39825, Sept. 1, 1992]

@@ -1,5 +1,7 @@
 ##### § 495.104 Incentive payments to eligible hospitals. #####
 
+Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
+
 (a) *General rule.* A qualifying hospital (as defined in this subpart) must receive the special incentive payment as determined under the formulas described in paragraph (c) of this section for the period specified in paragraph (b) of this section.
 
 (b) *Transition periods.* Subject to paragraph (d) of this section and the payment formula specified in paragraph (c) of this section, qualifying hospitals may receive incentive payments during transition periods which comprise the following fiscal years:

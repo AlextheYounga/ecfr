@@ -1,5 +1,7 @@
 ##### § 495.100 Definitions. #####
 
+Link to an amendment published at 83 FR 41710, Aug. 17, 2018.
+
 In this subpart unless otherwise indicated -
 
 *Covered professional services* means (as specified in section 1848(k)(3) of the Act) services furnished by an EP for which payment is made under, or is based on, the Medicare physician fee schedule.
