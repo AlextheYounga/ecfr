@@ -1,5 +1,7 @@
 ##### § 201.3 Extensions of credit generally. #####
 
+Link to an amendment published at 83 FR 21168, May 9, 2018.
+
 (a) *Advances to and discounts for a depository institution.* (1) A Federal Reserve Bank may lend to a depository institution either by making an advance secured by acceptable collateral under § 201.4 of this part or by discounting certain types of paper. A Federal Reserve Bank generally extends credit by making an advance.
 
 (2) An advance to a depository institution must be secured to the satisfaction of the Federal Reserve Bank that makes the advance. Satisfactory collateral generally includes United States government and federal-agency securities, and, if of acceptable quality, mortgage notes covering one-to four-family residences, state and local government securities, and business, consumer, and other customer notes.

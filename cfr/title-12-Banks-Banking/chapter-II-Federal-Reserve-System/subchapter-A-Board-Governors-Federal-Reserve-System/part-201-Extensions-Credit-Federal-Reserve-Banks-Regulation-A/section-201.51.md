@@ -1,5 +1,7 @@
 ##### § 201.51 Interest rates applicable to credit extended by a Federal Reserve Bank.3 #####
 
+Link to an amendment published at 83 FR 21168, May 9, 2018.
+
 3 The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
 
 (a) *Primary credit.* The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 2.25 percent.
