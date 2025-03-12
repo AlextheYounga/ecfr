@@ -1,5 +1,7 @@
 ##### § 166.12 Cancellation of licenses. #####
 
+Link to an amendment published at 84 FR 64415, Nov. 22, 2019.
+
 (a) The Area Veterinarian in Charge or, in States listed in § 166.15(d) of this part, the State animal health official shall cancel the license of a licensee when the Area Veterinarian in Charge or, in States listed in § 166.15(d) of this part, the State animal health official finds that no garbage has been treated for a period of 4 consecutive months at the facility operated by the licensee. Before such action is taken, the licensee of the facility will be informed in writing of the reasons for the proposed action and be given an opportunity to respond in writing. In those instances where there is a conflict as to the facts, the licensee shall, upon request, be afforded a hearing in accordance with rules of practice which shall be adopted for the proceeding.
 
 (b) Any licensee may voluntarily have his or her license canceled by requesting such cancellation in writing and sending such request to the Area Veterinarian in Charge,1 or, in States listed in § 166.15(d) of this part, to the State animal health official. The Area Veterinarian in Charge or, in States listed in § 166.15(d) of this part, the State animal health official shall cancel such license and shall notify the licensee of the cancellation in writing.

@@ -1,5 +1,7 @@
 ##### § 457.141 Rice crop insurance provisions. #####
 
+Link to an amendment published at 84 FR 64413, Nov. 22, 2019.
+
 The Rice Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesRice Crop Provisions1. Definitions

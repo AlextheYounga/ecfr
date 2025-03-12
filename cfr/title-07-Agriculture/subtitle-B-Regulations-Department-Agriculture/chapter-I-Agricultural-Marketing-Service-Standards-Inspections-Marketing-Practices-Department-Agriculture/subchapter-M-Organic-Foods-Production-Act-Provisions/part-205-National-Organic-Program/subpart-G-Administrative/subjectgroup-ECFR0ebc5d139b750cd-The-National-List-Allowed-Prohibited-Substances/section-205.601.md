@@ -1,7 +1,5 @@
 ##### § 205.601 Synthetic substances allowed for use in organic crop production. #####
 
-Link to an amendment published at 84 FR 56677, Oct. 23, 2019.
-
 In accordance with restrictions specified in this section, the following synthetic substances may be used in organic crop production: *Provided,* That, use of such substances do not contribute to contamination of crops, soil, or water. Substances allowed by this section, except disinfectants and sanitizers in paragraph (a) and those substances in paragraphs (c), (j), (k), and (l) of this section, may only be used when the provisions set forth in § 205.206(a) through (d) prove insufficient to prevent or control the target pest.
 
 (a) As algicide, disinfectants, and sanitizer, including irrigation system cleaning systems.
@@ -76,7 +74,11 @@ In accordance with restrictions specified in this section, the following synthet
 
 (g) As rodenticides. Vitamin D3.
 
-(h) As slug or snail bait. Ferric phosphate (CAS # 10045-86-0).
+(h) As slug or snail bait.
+
+(1) Ferric phosphate (CAS # 10045-86-0).
+
+(2) Elemental sulfur.
 
 (i) As plant disease control.
 
@@ -99,6 +101,8 @@ In accordance with restrictions specified in this section, the following synthet
 (9) Potassium bicarbonate.
 
 (10) Elemental sulfur.
+
+(11) Polyoxin D zinc salt.
 
 (j) As plant or soil amendments.
 
@@ -144,4 +148,4 @@ In accordance with restrictions specified in this section, the following synthet
 
 (p)-(z) [Reserved]
 
-[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017; 83 FR 66571, Dec. 27, 2018]
+[65 FR 80637, Dec. 21, 2000, as amended at 68 FR 61992, Oct. 31, 2003; 71 FR 53302 Sept. 11, 2006; 72 FR 69572, Dec. 10, 2007; 75 FR 38696, July 6, 2010; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 79 FR 58663, Sept. 30, 2014; 80 FR 77234, Dec. 14, 2015; 82 FR 31243, July 6, 2017; 83 FR 66571, Dec. 27, 2018; 84 FR 56677, Oct. 23, 2019]

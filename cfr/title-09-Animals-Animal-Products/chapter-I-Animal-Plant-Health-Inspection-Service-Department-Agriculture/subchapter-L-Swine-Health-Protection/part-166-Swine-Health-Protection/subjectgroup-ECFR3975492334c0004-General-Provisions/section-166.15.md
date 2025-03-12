@@ -1,5 +1,7 @@
 ##### § 166.15 State status. #####
 
+Link to an amendment published at 84 FR 64415, Nov. 22, 2019.
+
 (a) The following States prohibit the feeding of garbage to swine: Alabama, Delaware, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Mississippi, Nebraska, New York, North Dakota, Oregon, South Carolina, South Dakota, Tennessee, Virginia, and Wisconsin.
 
 (b) The following States and Puerto Rico permit the feeding of treated garbage to swine: Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Florida, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Hampshire, New Jersey, New Mexico, North Carolina, Ohio, Oklahoma, Pennsylvania, Puerto Rico, Rhode Island, Texas, Utah, Vermont, Washington, West Virginia, and Wyoming.
