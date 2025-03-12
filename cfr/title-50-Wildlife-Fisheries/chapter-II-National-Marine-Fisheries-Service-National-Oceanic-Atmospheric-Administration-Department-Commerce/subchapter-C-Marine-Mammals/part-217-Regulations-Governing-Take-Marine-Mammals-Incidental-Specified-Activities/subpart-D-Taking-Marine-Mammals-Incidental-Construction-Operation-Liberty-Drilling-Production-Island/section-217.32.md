@@ -1,0 +1,3 @@
+##### § 217.32 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.36, the Holder of the LOA (hereinafter “Hilcorp”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.30(b) by mortality, serious injury, Level A harassment, or Level B harassment associated with the LDPI construction and operation activities, including associated infrastructure, provided the activities are in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

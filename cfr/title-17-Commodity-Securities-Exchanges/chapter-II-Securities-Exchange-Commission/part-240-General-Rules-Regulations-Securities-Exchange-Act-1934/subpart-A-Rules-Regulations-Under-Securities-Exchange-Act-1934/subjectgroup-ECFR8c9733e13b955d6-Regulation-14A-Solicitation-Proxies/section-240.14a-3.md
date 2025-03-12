@@ -1,5 +1,7 @@
 ##### § 240.14a-3 Information to be furnished to security holders. #####
 
+Link to an amendment published at 86 FR 68378, Dec. 1, 2021.
+
 (a) No solicitation subject to this regulation shall be made unless each person solicited is concurrently furnished or has previously been furnished with:
 
 (1) A publicly-filed preliminary or definitive proxy statement, in the form and manner described in § 240.14a-16, containing the information specified in Schedule 14A (§ 240.14a-101);

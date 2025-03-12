@@ -1,5 +1,7 @@
 ##### § 240.14a-5 Presentation of information in proxy statement. #####
 
+Link to an amendment published at 86 FR 68379, Dec. 1, 2021.
+
 (a) The information included in the proxy statement shall be clearly presented and the statements made shall be divided into groups according to subject matter and the various groups of statements shall be preceded by appropriate headings. The order of items and sub-items in the schedule need not be followed. Where practicable and appropriate, the information shall be presented in tabular form. All amounts shall be stated in figures. Information required by more than one applicable item need not be repeated. No statement need be made in response to any item or sub-item which is inapplicable.
 
 (b) Any information required to be included in the proxy statement as to terms of securities or other subject matter which from a standpoint of practical necessity must be determined in the future may be stated in terms of present knowledge and intention. To the extent practicable, the authority to be conferred concerning each such matter shall be confined within limits reasonably related to the need for discretionary authority. Subject to the foregoing, information which is not known to the persons on whose behalf the solicitation is to be made and which it is not reasonably within the power of such persons to ascertain or procure may be omitted, if a brief statement of the circumstances rendering such information unavailable is made.

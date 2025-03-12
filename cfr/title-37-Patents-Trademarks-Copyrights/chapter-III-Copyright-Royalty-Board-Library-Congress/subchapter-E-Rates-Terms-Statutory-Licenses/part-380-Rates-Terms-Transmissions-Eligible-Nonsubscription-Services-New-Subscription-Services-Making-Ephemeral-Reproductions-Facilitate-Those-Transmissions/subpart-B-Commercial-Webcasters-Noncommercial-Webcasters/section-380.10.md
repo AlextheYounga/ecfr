@@ -1,5 +1,7 @@
 ##### § 380.10 Royalty fees for the public performance of sound recordings and the making of ephemeral recordings. #####
 
+Link to an amendment published at 86 FR 68150, Dec. 1, 2021.
+
 (a) *Royalty fees.* For the year 2021, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
 
 (1) *Commercial webcasters.* $0.0026 per Performance for subscription services and $0.0021 per Performance for nonsubscription services.

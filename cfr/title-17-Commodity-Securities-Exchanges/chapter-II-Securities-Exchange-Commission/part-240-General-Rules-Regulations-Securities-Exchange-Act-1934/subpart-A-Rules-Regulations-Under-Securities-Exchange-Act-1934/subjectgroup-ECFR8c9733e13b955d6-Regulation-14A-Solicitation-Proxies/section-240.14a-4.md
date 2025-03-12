@@ -1,5 +1,7 @@
 ##### § 240.14a-4 Requirements as to proxy. #####
 
+Link to an amendment published at 86 FR 68378, Dec. 1, 2021.
+
 (a) The form of proxy (1) shall indicate in bold-face type whether or not the proxy is solicited on behalf of the registrant's board of directors or, if provided other than by a majority of the board of directors, shall indicate in bold-face type on whose behalf the solicitation is made;
 
 (2) Shall provide a specifically designated blank space for dating the proxy card; and
