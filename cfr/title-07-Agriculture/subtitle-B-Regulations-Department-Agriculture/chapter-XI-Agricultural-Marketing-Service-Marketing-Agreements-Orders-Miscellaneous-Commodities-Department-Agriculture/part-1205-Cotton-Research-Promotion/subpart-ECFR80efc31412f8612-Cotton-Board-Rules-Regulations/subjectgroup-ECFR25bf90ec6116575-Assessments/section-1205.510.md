@@ -1,5 +1,7 @@
 ##### § 1205.510 Levy of assessments. #####
 
+Link to an amendment published at 87 FR 58713, Sept. 28, 2022.
+
 (a) *Producer assessments.* An assessment of $1 per bale for cotton research and promotion is hereby levied on each bale of Upland cotton that is produced from cotton harvested and ginned except cotton consumed by any governmental agency from its own production. Such assessment shall be payable and collected only once on each bale.
 
 (1) A supplemental assessment for cotton research and promotion in addition to the $1 per bale assessment provided for in paragraph (a) of this section, is hereby levied on each bale of Upland cotton harvested and ginned except cotton consumed by any governmental agency from its own production. The supplemental assessment rate shall be levied at the rate of five-tenths of one percent of:
