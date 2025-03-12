@@ -1,8 +1,6 @@
 ##### § 240.21F-7 Confidentiality of submissions. #####
 
-Link to an amendment published at 85 FR 70944, Nov. 5, 2020.
-
-(a) Section 21F(h)(2) of the Exchange Act (15 U.S.C. 78u-6(h)(2)) requires that the Commission not disclose information that could reasonably be expected to reveal the identity of a whistleblower, except that the Commission may disclose such information in the following circumstances:
+(a) Pursuant to Section 21F(h)(2) of the Exchange Act (15 U.S.C. 78u-6(h)(2)) and § 240.21F-2(c), the Commission will not disclose information that could reasonably be expected to reveal the identity of a whistleblower provided that the whistleblower has submitted information utilizing the processes specified in § 240.21F-9(a), except that the Commission may disclose such information in the following circumstances:
 
 (1) When disclosure is required to a defendant or respondent in connection with a Federal court or administrative action that the Commission files or in another public action or proceeding that is filed by an authority to which we provide the information, as described below;
 
@@ -17,3 +15,5 @@ Link to an amendment published at 85 FR 70944, Nov. 5, 2020.
 (2) You and your attorney must follow the procedures set forth in § 240.21F-9 of this chapter for submitting original information anonymously; and
 
 (3) Before the Commission will pay any award to you, you must disclose your identity to the Commission and your identity must be verified by the Commission as set forth in § 240.21F-10 of this chapter.
+
+[76 FR 34363, June 13, 2011, as amended at 85 FR 70944, Nov. 5, 2020]

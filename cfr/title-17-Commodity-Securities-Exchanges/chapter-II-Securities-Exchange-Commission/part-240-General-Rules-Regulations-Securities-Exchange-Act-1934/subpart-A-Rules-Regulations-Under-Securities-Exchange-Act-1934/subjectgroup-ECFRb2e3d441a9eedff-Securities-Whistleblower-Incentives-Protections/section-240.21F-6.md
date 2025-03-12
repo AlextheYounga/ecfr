@@ -1,8 +1,6 @@
 ##### § 240.21F-6 Criteria for determining amount of award. #####
 
-Link to an amendment published at 85 FR 70943, Nov. 5, 2020.
-
-In exercising its discretion to determine the appropriate award percentage, the Commission may consider the following factors in relation to the unique facts and circumstances of each case, and may increase or decrease the award percentage based on its analysis of these factors. In the event that awards are determined for multiple whistleblowers in connection an action, these factors will be used to determine the relative allocation of awards among the whistleblowers.
+In exercising its discretion to determine the appropriate award, the Commission may consider the following factors (and only the following factors) in relation to the facts and circumstances of each case in setting the dollar or percentage amount of the award. In the event that awards are determined for multiple whistleblowers in connection an action, these factors will be used to determine the relative allocation of awards among the whistleblowers.
 
 (a) *Factors that may increase the amount of a whistleblower's award.* In determining whether to increase the amount of an award, the Commission will consider the following factors, which are not listed in order of importance.
 
@@ -75,3 +73,23 @@ In exercising its discretion to determine the appropriate award percentage, the 
 (ii) Made any material false, fictitious, or fraudulent statements or representations that hindered an entity's efforts to detect, investigate, or remediate the reported securities violations; and
 
 (iii) Provided any false writing or document knowing the writing or document contained any false, fictitious or fraudulent statements or entries that hindered an entity's efforts to detect, investigate, or remediate the reported securities violations.
+
+(c) *Additional considerations in connection with certain awards of $5 million or less.* (1) This subpart applies when the Commission is considering any meritorious award application where:
+
+(i) The statutory maximum award of 30 percent of the monetary sanctions collected in any covered and related action(s), in the aggregate, is $5 million or less, and the Commission determines that it does not reasonably anticipate that future collections would cause the statutory maximum award to be paid to any whistleblower to exceed $5 million in the aggregate;
+
+(ii) None of the negative award factors specified in paragraphs §§ 240.21F-6(b)(1) or 240.21F-6(b)(3) were found present with respect to the claimant's award application, and the award claim does not trigger § 240.21F-16 (concerning awards to whistleblowers who engage in culpable conduct);
+
+(iii) The claimant did not engage in unreasonable reporting delay under § 240.21F-(6)(b)(2) (although the Commission, in its sole discretion, may in certain limited circumstances determine to waive this criterion if the claimant can demonstrate that doing so based on the facts and circumstances of the matter is consistent with the public interest, the promotion of investor protection, and the objectives of the whistleblower program); and
+
+(iv) The Commission does not otherwise determine in its sole discretion that application of the enhancement afforded by this subpart would be inappropriate because either:
+
+(A) The whistleblower's assistance in the covered action or related action (as assessed under § 240.21F-6(a) of this section) was, under the relevant facts and circumstances, limited; or
+
+(B) Providing the enhancement would be inconsistent with the public interest, the promotion of investor protection, or the objectives of the whistleblower program.
+
+(2) If the Commission determines that the criteria in § 240.21F-6(c)(1) are satisfied, the resulting payout to a claimant for the original information that the claimant provided that led to one or more successful covered or related action(s), collectively, will be the maximum allowed under the statute.
+
+(3) Notwithstanding § 240.21F-6(c)(2), if two or more claimants qualify for an award in connection with any covered action or related action and at least one of those claimant's award applications qualifies under § 240.21F-6(c)(1), the aggregate amount awarded to all meritorious claimants will be the statutory maximum. In allocating that amount among the meritorious claimants, the Commission will consider whether an individual claimant's award application satisfies §§ 240.21F-6(c)(1)(ii) and 240.21F-6(c)(1)(iii).
+
+[76 FR 34363, June 13, 2011, as amended at 85 FR 70943, Nov. 5, 2020]
