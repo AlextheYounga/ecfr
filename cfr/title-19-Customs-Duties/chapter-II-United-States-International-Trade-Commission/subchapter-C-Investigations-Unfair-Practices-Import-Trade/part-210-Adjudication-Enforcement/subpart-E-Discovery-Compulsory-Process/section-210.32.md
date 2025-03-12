@@ -1,5 +1,7 @@
 ##### § 210.32 Subpoenas. #####
 
+Link to an amendment published at 83 FR 21161, May 8, 2018.
+
 (a) *Application for issuance of a subpoena* - (1) *Subpoena ad testificandum.* An application for issuance of a subpoena requiring a person to appear and depose or testify at the taking of a deposition or at a hearing shall be made to the administrative law judge.
 
 (2) *Subpoena duces tecum.* An application for issuance of a subpoena requiring a person to appear and depose or testify and to produce specified documents, papers, books, or other physical exhibits at the taking of a deposition, at a prehearing conference, at a hearing, or under any other circumstances, shall be made in writing to the administrative law judge and shall specify the material to be produced as precisely as possible, showing the general relevancy of the material and the reasonableness of the scope of the subpoena.

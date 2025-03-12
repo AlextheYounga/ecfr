@@ -1,3 +1,5 @@
 ##### § 210.47 Petitions for reconsideration. #####
 
+Link to an amendment published at 83 FR 21162, May 8, 2018.
+
 Within 14 days after service of a Commission determination, any party may file with the Commission a petition for reconsideration of such determination or any action ordered to be taken thereunder, setting forth the relief desired and the grounds in support thereof. Any petition filed under this section must be confined to new questions raised by the determination or action ordered to be taken thereunder and upon which the petitioner had no opportunity to submit arguments. Any party desiring to oppose such a petition shall file an answer thereto within five days after service of the petition upon such party. The filing of a petition for reconsideration shall not stay the effective date of the determination or action ordered to be taken thereunder or toll the running of any statutory time period affecting such determination or action ordered to be taken thereunder unless specifically so ordered by the Commission.

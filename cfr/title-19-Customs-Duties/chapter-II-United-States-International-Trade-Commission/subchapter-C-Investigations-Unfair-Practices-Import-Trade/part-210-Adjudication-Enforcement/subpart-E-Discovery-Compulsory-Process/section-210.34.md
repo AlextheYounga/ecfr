@@ -1,5 +1,7 @@
 ##### § 210.34 Protective orders; reporting requirement; sanctions and other actions. #####
 
+Link to an amendment published at 83 FR 21161, May 8, 2018.
+
 (a) *Issuance of protective order.* Upon motion by a party or by the person from whom discovery is sought or by the administrative law judge on his own initiative, and for good cause shown, the administrative law judge may make any order that may appear necessary and appropriate for the protection of the public interest or that justice requires to protect a party or person from annoyance, embarrassment, oppression, or undue burden or expense, including one or more of the following:
 
 (1) That discovery not be had;

@@ -1,5 +1,7 @@
 ##### § 210.12 The complaint. #####
 
+Link to an amendment published at 83 FR 21160, May 8, 2018.
+
 (a) *Contents of the complaint.* In addition to conforming with the requirements of §§ 210.4 and 210.5 of this part, the complaint shall -
 
 (1) Be under oath and signed by the complainant or his duly authorized officer, attorney, or agent, with the name, address, and telephone number of the complainant and any such officer, attorney, or agent given on the first page of the complaint, and include a statement attesting to the representations in § 210.4(c)(1) through (3);

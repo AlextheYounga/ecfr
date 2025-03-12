@@ -1,5 +1,7 @@
 ##### § 210.77 Temporary emergency action. #####
 
+Link to an amendment published at 83 FR 21164, May 8, 2018.
+
 (a) Whenever the Commission determines, pending a formal enforcement proceeding under § 210.75(b), that without immediate action a violation of an exclusion order, cease and desist order, or consent order will occur and that subsequent action by the Commission would not adequately repair substantial harm caused by such violation, the Commission may immediately and without hearing or notice modify or revoke such order and, if it is revoked, replace the order with an appropriate exclusion order.
 
 (b) Prior to taking any action under this section, the Commission shall consider the effect of such action upon the public health and welfare, competitive conditions in the U.S. economy, the production of like or directly competitive articles in the United States, and U.S. consumers. The Commission shall, if it has not already done so, institute a formal enforcement proceeding under § 210.75(b) at the time of taking action under this section or as soon as possible thereafter, in order to give the alleged violator and other interested parties a full opportunity to present information and views regarding the continuation, modification, or revocation of Commission action taken under this section.

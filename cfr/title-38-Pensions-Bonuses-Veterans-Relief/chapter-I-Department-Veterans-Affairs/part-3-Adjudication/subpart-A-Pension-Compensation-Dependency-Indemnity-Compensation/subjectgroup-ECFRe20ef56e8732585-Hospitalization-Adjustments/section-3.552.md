@@ -1,5 +1,7 @@
 ##### § 3.552 Adjustment of allowance for aid and attendance. #####
 
+Link to an amendment published at 83 FR 20737, May 8, 2018.
+
 (a)(1) When a veteran who is already entitled to the aid and attendance allowance is hospitalized, the additional compensation or increased pension for aid and attendance shall be discontinued as provided in paragraph (b) of this section except as to disabilities specified in paragraph (a)(2) of this section. (See paragraph (k) of this section for rules applicable to a veteran who establishes entitlement to the aid and attendance allowance on or after date of admission to hospitalization).
 
 (2) The allowance for aid and attendance will be continued during hospitalization where the disability is paraplegia involving paralysis of both lower extremities together with loss of anal and bladder sphincter control, or Hansen's disease, except where discontinuance is required by paragraph (b)(2) of this section. In addition, in pension cases only, the aid and attendance allowance will be continued where the pensionable disability is blindness (visual acuity5/200 or less) or concentric contraction of visual field to 5 degrees or less. Awards are, however, subject to the provisions of § 3.551 (except where the disabling condition is Hansen's disease) .

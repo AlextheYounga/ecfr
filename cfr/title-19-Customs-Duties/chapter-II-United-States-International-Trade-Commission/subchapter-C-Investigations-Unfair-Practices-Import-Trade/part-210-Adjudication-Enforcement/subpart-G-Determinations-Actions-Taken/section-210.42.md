@@ -1,5 +1,7 @@
 ##### § 210.42 Initial determinations. #####
 
+Link to an amendment published at 83 FR 21162, May 8, 2018.
+
 (a)(1)(i) *On issues concerning violation of section 337.* Unless otherwise ordered by the Commission, the administrative law judge shall certify the record to the Commission and shall file an initial determination on whether there is a violation of section 337 of the Tariff Act of 1930 in an original investigation no later than 4 months before the target date set pursuant to § 210.51(a)(1).
 
 (ii) *Recommended determination on issues concerning permanent relief, bonding, and the public interest.* Unless the Commission orders otherwise, within 14 days after issuance of the initial determination on violation of section 337 of the Tariff Act of 1930, the administrative law judge shall issue a recommended determination containing findings of fact and recommendations concerning -

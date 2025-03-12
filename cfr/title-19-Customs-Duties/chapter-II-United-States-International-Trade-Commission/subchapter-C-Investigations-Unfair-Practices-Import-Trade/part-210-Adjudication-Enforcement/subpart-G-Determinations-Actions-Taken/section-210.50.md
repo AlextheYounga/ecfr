@@ -1,5 +1,7 @@
 ##### § 210.50 Commission action, the public interest, and bonding by respondents. #####
 
+Link to an amendment published at 83 FR 21162, May 8, 2018.
+
 (a) During the course of each investigation under this part, the Commission shall -
 
 (1) Consider what action (general or limited exclusion of articles from entry or a cease and desist order, or exclusion of articles from entry under bond or a temporary cease and desist order), if any, it should take, and, when appropriate, take such action;

@@ -1,5 +1,7 @@
 ##### § 210.28 Depositions. #####
 
+Link to an amendment published at 83 FR 21161, May 8, 2018.
+
 (a) *When depositions may be taken.* Following publication in the Federal Register of a Commission notice instituting the investigation, any party may take the testimony of any person, including a party, by deposition upon oral examination or written questions. The presiding administrative law judge will determine the permissible dates or deadlines for taking such depositions. Without stipulation of the parties, the complainants as a group may take a maximum of five fact depositions per respondent or no more than 20 fact depositions whichever is greater, the respondents as a group may take a maximum of 20 fact depositions total, and if the Commission investigative attorney is a party, he or she may take a maximum of 10 fact depositions and is permitted to participate in all depositions taken by any parties in the investigation. Each notice for a corporation to designate deponents only counts as one deposition and includes all corporate representatives so designated to respond, and related respondents are treated as one respondent for purposes of determining the number of depositions. The presiding administrative law judge may increase the number of depositions on written motion for good cause shown.
 
 (b) *Persons before whom depositions may be taken.* Depositions may be taken before a person having power to administer oaths by the laws of the United States or of the place where the examination is held.

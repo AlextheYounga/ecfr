@@ -1,5 +1,7 @@
 ##### § 201.16 Service of process and other documents. #####
 
+Link to an amendment published at 83 FR 21159, May 8, 2018.
+
 (a) *By the Commission.* Except when service by another method shall be specifically ordered by the Commission, the service of a process or other document of the Commission shall be served by anyone duly authorized by the Commission and be effected -
 
 (1) By mailing or delivering a copy of the document to the person to be served, to a member of the partnership to be served, to the president, secretary, other executive officer, or member of the board of directors of the corporation, association, or other organization to be served, or, if an attorney represents any of the above before the Commission, by mailing or delivering a copy to such attorney; or

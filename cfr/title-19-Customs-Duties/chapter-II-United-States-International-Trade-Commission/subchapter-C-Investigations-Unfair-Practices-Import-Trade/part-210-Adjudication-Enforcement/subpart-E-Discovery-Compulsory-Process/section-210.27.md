@@ -1,5 +1,7 @@
 ##### § 210.27 General provisions governing discovery. #####
 
+Link to an amendment published at 83 FR 21161, May 8, 2018.
+
 (a) *Discovery methods.* The parties to an investigation may obtain discovery by one or more of the following methods: depositions upon oral examination or written questions; written interrogatories; production of documents or things or permission to enter upon land or other property for inspection or other purposes; and requests for admissions.
 
 (b) *Scope of discovery.* Regarding the scope of discovery for the temporary relief phase of an investigation, see § 210.61. For the permanent relief phase of an investigation, unless otherwise ordered by the administrative law judge, a party may obtain discovery regarding any matter, not privileged, that is relevant to the following:

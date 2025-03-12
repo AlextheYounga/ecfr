@@ -1,5 +1,7 @@
 ##### § 210.11 Service of complaint and notice of investigation. #####
 
+Link to an amendment published at 83 FR 21160, May 8, 2018.
+
 (a)(1) Unless the Commission institutes temporary relief proceedings, upon institution of an investigation, the Commission shall serve:
 
 (i) Copies of the nonconfidential version of the complaint, the nonconfidential exhibits, and the notice of investigation upon each respondent; and
