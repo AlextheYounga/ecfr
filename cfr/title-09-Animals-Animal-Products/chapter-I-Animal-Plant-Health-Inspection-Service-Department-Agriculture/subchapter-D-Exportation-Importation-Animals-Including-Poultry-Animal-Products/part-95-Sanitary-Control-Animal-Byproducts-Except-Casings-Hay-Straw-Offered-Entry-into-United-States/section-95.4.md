@@ -8,7 +8,7 @@
 
 (3) The materials have otherwise been associated with a facility in a region listed in paragraph (a)(4) of this section.
 
-(4) Albania, Andorra, Austria, Belgium, Bosnia-Herzegovina, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, the Federal Republic of Yugoslavia, Finland, France, Germany, Greece, Hungary, the Republic of Ireland, Israel, Italy, Japan, Liechtenstein, Luxembourg, the Former Yugoslav Republic of Macedonia, Monaco, Norway, Oman, the Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and the United Kingdom.
+(4) Albania, Andorra, Austria, Belgium, Bosnia-Herzegovina, Bulgaria, Canada, Croatia, the Czech Republic, Denmark, the Federal Republic of Yugoslavia, Finland, France, Germany, Great Britain (England, Scotland, and Wales), Greece, Hungary, Ireland (Republic of), Israel, Italy, Japan, Liechtenstein, Luxembourg, the Former Yugoslav Republic of Macedonia, Monaco, Northern Ireland, Norway, Oman, the Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, and Switzerland.
 
 (b) *Restricted materials:* (1) Processed animal protein, tankage, offal, and tallow other than tallow derivatives, unless in the opinion of the Administrator, the tallow cannot be used in feed;
 
@@ -42,7 +42,7 @@
 
 (7) Each shipment to the United States is accompanied by an original certificate signed by a full-time, salaried veterinarian of the government agency responsible for animal health in the exporting region certifying that the conditions of paragraphs (c)(1) through (c)(5) of this section have been met.
 
-(8) The person importing the shipment has applied for and obtained from APHIS a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors by filing a permit application on VS Form 16-3. (VS Form 16-3 may be obtained from APHIS, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231, or electronically at *http://www.aphis.usda.gov/animal\_health/permits/.*)
+(8) The person importing the shipment has applied for and obtained from APHIS a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors by filing a permit application on VS Form 16-3, which may be obtained from Strategy and Policy, Veterinary Services, APHIS, 4700 River Road, Unit 38, Riverdale, MD 20737-1231, or electronically at *https://efile.aphis.usda.gov/s/vs-permitting-assistant.*
 
 (d) Except as provided in paragraph (e) of this section and in § 95.15, serum from ovines or caprines that have been in any region listed in paragraph (a)(4) of this section is prohibited importation into the United States, except for scientific, educational, or research purposes if the Administrator determines that the importation can be made under conditions that will prevent the introduction of BSE into the United States. Such serum must be accompanied by a permit issued by APHIS in accordance with § 104.4 of this chapter and must be moved and handled as specified on the permit.
 
@@ -50,11 +50,11 @@
 
 (1) The article is imported for use as an ingredient in cosmetics;
 
-(2) The person importing the article has obtained a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors by filing a permit application on VS Form 16-3 (VS Form 16-3 may be obtained from APHIS, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231, or electronically at *http://www.aphis.usda.gov/animal\_health/permits/.*); and
+(2) The person importing the article has obtained a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors by filing a permit application on VS Form 16-3, which may be obtained from Strategy and Policy, Veterinary Services, APHIS, 4700 River Road, Riverdale, MD 20737-1231; or electronically at *https://efile.aphis.usda.gov/s/vs-permitting-assistant;* and
 
 (3) The permit application states the intended use of the article and the name and address of the consignee in the United States.
 
-(f) Insulin otherwise prohibited under paragraphs (a) and (b) of this section may be imported if the insulin is for the personal medical use of the person importing it and if the person importing the shipment has applied for and obtained from APHIS a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors. To apply for a permit, file a permit application on VS Form 16-3 (available from APHIS, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231, or electronically at *http://www.aphis.usda.gov/animal\_health/permits/*). The application for such a permit must state the intended use of the insulin and the name and address of the consignee in the United States.
+(f) Insulin otherwise prohibited under paragraphs (a) and (b) of this section may be imported if the insulin is for the personal medical use of the person importing it and if the person importing the shipment has applied for and obtained from APHIS a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors. To apply for a permit, file a permit application on VS Form 16-3, which is available from Strategy and Policy, Veterinary Services, APHIS, 4700 River Road, Riverdale, MD 20737-1231, or electronically at *https://efile.aphis.usda.gov/s/vs-permitting-assistant.* The application for such a permit must state the intended use of the insulin and the name and address of the consignee in the United States.
 
 Note to paragraph (f):
 
@@ -76,4 +76,4 @@ Insulin that is not prohibited from importation under this paragraph may be proh
 
 (3) The shipment, if arriving at a U.S. land border port, arrives at a port listed in § 94.25(c) of this subchapter.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015, 0579-0234, and 0579-0393)[78 FR 73001, Dec. 4, 2013]
+(Approved by the Office of Management and Budget under control numbers 0579-0015, 0579-0234, and 0579-0393)[78 FR 73001, Dec. 4, 2013, as amended at 86 FR 45627, Aug. 16, 2021]

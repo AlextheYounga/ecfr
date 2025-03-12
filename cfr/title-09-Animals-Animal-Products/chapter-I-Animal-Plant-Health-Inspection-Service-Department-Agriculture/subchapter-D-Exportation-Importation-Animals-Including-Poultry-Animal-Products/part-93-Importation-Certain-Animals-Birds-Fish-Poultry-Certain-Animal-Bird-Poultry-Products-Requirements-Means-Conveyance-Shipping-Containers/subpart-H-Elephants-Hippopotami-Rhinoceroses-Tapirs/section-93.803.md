@@ -8,8 +8,10 @@
 
 (3) That the elephant, hippopotamus, rhinoceros, or tapir, after being treated for ectoparasites in accordance with paragraph (a)(2) of this section, did not have physical contact with or share a pen or bedding materials with any elephant, hippopotamus, rhinoceros, or tapir not in the same shipment to the United States; and
 
-(4) The name and concentration of the pesticide used to treat the animal (such pesticide and the concentration used must be adequate to kill the types of ectoparasites likely to infest the animal to be imported; a list of recommended pesticides and concentrations may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231; and
+(4) The name and concentration of the pesticide used to treat the animal (such pesticide and the concentration used must be adequate to kill the types of ectoparasites likely to infest the animal to be imported; a list of recommended pesticides and concentrations may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231; and
 
 (5) The name and address of the consignor and consignee.
 
-[52 FR 29502, Aug. 10, 1987; 52 FR 35350, Sept. 18, 1987, as amended at 57 FR 23049, June 1, 1992; 59 FR 67615, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56021, Oct. 28, 1997]
+(b) [Reserved]
+
+[52 FR 29502, Aug. 10, 1987; 52 FR 35350, Sept. 18, 1987, as amended at 57 FR 23049, June 1, 1992; 59 FR 67615, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56021, Oct. 28, 1997; 86 FR 45625, Aug. 16, 2021]

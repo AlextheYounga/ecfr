@@ -16,7 +16,7 @@
 
 (A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility6 during regular business hours (8:00 a.m. to 4:30 p.m. Monday through Friday, excluding holidays) no later than 15 days prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 day period shall not include Saturdays, Sundays, or holidays), or
 
-6 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+6 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (B) The Administrator determines that services, other than provided by carriers, necessary for the importation of the swine within the requested period are unavailable because of unforeseen circumstances as determined by the Administrator, (such as the closing of an airport due to inclement weather or the unavailability of the reserved space due to the extension of another quarantined.)
 
@@ -42,7 +42,7 @@
 
 Agreement for the Importation, Quarantine and Exhibition of Certain Wild Ruminants and Wild Swine
 
-\_\_\_\_, operator(s) of the zoological park known as \_\_\_\_\_\_ (Name) located at \_\_\_\_\_\_\_ (City and state), and \_\_\_\_\_\_ (Importer) hereby request a permit for the importation of \_\_\_\_ (Number and kinds of animals) for exhibition purposes at the said zoological park, said animals originating in a region where foot-and-mouth disease exists and being subject to restrictions under regulations contained in part 93, title 9, Code of Federal Regulations.
+\_\_\_\_\_\_\_\_, operator(s) of the zoological park known as \_\_\_\_\_\_\_\_\_\_\_\_ (Name) located at \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (City and state), and \_\_\_\_\_\_\_\_\_\_\_\_ (Importer) hereby request a permit for the importation of \_\_\_\_\_\_\_\_ (Number and kinds of animals) for exhibition purposes at the said zoological park, said animals originating in a region where foot-and-mouth disease exists and being subject to restrictions under regulations contained in part 93, title 9, Code of Federal Regulations.
 
 In making this request, it is understood and agreed that:
 
@@ -60,10 +60,10 @@ In making this request, it is understood and agreed that:
 
 (Signature of importer)
 
-Subscribed and sworn to before me this \_\_ day of \_\_, \_\_
+Subscribed and sworn to before me this \_\_\_\_ day of \_\_\_\_, \_\_\_\_
 
 (Title or designation)(Name of zoological park) By(Signature of officer of zoological park)(Title of officer)
 
-Subscribed and sworn to before me this \_\_ day of \_\_,\_\_
+Subscribed and sworn to before me this \_\_\_\_ day of \_\_\_\_,\_\_\_\_
 
-(Title or designation)(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 28216, June 1, 1994; 59 FR 31924, June 21, 1994; 59 FR 67615, Dec. 30, 1994; 62 FR 23638, May 1, 1997. Redesignated and amended at 62 FR 56012, 56020, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 83 FR 15492, Apr. 11, 2018]
+(Title or designation)(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 28216, June 1, 1994; 59 FR 31924, June 21, 1994; 59 FR 67615, Dec. 30, 1994; 62 FR 23638, May 1, 1997. Redesignated and amended at 62 FR 56012, 56020, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 83 FR 15492, Apr. 11, 2018; 86 FR 45624, Aug. 16, 2021]

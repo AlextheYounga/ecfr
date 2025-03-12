@@ -8,7 +8,7 @@
 
 (b) Pork and pork products from Baja California, Baja California Sur, Campeche, Chihuahua, Coahuila, Nuevo Leon, Quintana Roo, Sinaloa, Sonora, and Yucatan, Mexico, that are not eligible for entry into the United States in accordance with this part may transit the United States via land border ports for immediate export if the following conditions are met:
 
-(1) The person desiring to move the pork and pork products through the United States obtains a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors (VS Form 16-6). (An application for the permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/*.)
+(1) The person desiring to move the pork and pork products through the United States obtains a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors (VS Form 16-6). (An application for the permit may be obtained from Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; or by visiting *https://efile.aphis.usda.gov/s/vs-permitting-assistant.*)
 
 (2) The pork or pork products are packaged at a Tipo Inspección Federal plant in Baja California, Baja California Sur, Campeche, Chihuahua, Coahuila, Nuevo Leon, Quintana Roo, Sinaloa, Sonora, or Yucatan, Mexico, in leakproof containers and sealed with serially numbered seals of the Government of Mexico, and the containers remain sealed during the entire time they are in transit across Mexico and the United States.
 
@@ -26,7 +26,7 @@
 
 (c) Poultry carcasses, parts, or products (except eggs and egg products) from Baja California, Baja California Sur, Campeche, Chihuahua, Nuevo Leon, Quintana Roo, Sinaloa, Sonora, Tamaulipas, or Yucatan, Mexico, that are not eligible for entry into the United States in accordance with the regulations in this part may transit the United States via land ports for immediate export if the following conditions are met:
 
-(1) The person desiring to move the poultry carcasses, parts, or products through the United States obtains a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors (VS Form 16-6). An application for the permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/* .
+(1) The person desiring to move the poultry carcasses, parts, or products through the United States obtains a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors (VS Form 16-6). An application for the permit may be obtained from Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; or by visiting *https://efile.aphis.usda.gov/s/vs-permitting-assistant.*
 
 (2) The poultry carcasses, parts, or products are packaged at a Tipo Inspeccioón Federal plant in Baja California, Baja California Sur, Campeche, Chihuahua, Nuevo Leon, Quintana Roo, Sinaloa, Sonora, Tamaulipas, or Yucatan, Mexico, in leakproof containers with serially numbered seals of the Government of Mexico, and the containers remain sealed during the entire time they are in transit across Mexico and the United States.
 
@@ -54,4 +54,4 @@
 
 (4) The meat or other animal product is not held or stored for more than 72 hours at the maritime or airport port of arrival.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0145)[43 FR 4595, Feb. 3, 1978, as amended at 57 FR 23928, June 5, 1992; 57 FR 43886, Sept. 23, 1992; 59 FR 67616, Dec. 30, 1994; 60 FR 57315, Nov. 15, 1995; 61 FR 32647, June 25, 1996; 62 FR 24804, May 7, 1997; 62 FR 56023, Oct. 28, 1997; 65 FR 37270, June 14, 2000; 65 FR 50605, Aug. 21, 2000; 68 FR 6345, Feb. 7, 2003; 81 FR 40152, June 21, 2016]
+(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0145)[43 FR 4595, Feb. 3, 1978, as amended at 57 FR 23928, June 5, 1992; 57 FR 43886, Sept. 23, 1992; 59 FR 67616, Dec. 30, 1994; 60 FR 57315, Nov. 15, 1995; 61 FR 32647, June 25, 1996; 62 FR 24804, May 7, 1997; 62 FR 56023, Oct. 28, 1997; 65 FR 37270, June 14, 2000; 65 FR 50605, Aug. 21, 2000; 68 FR 6345, Feb. 7, 2003; 81 FR 40152, June 21, 2016; 86 FR 45627, Aug. 16, 2021]

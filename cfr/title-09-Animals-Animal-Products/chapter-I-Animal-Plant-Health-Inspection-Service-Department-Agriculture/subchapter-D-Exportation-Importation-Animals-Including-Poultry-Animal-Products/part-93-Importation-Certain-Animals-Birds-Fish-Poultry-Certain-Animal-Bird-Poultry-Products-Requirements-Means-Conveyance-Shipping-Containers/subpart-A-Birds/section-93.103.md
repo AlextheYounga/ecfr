@@ -4,7 +4,7 @@
 
 (1) For pet birds, commercial birds, research birds, zoological birds, and performing or theatrical birds, intended for importation into the United States, except as otherwise provided in §§ 93.101(b) and (c), 93.103(c), and 93.107(b), the importer shall first apply for and obtain an import permit. The importer (permit applicant) shall submit a completed VS form 17-128 for ratites or hatching eggs of ratites; or, for other birds, a completed VS form 17-20; or shall submit a document that states that it is an application for a permit to import ratites, hatching eggs of ratites, or birds other than ratites or hatching eggs of ratites. The application8 must include the following information:
 
-8 VS import permit application forms are available from local offices of Veterinary Services, which are listed in telephone directories, or from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/*. For other permit requirements for birds, the regulations issued by the U.S. Department of the Interior (title 50, Code of Federal Regulations, parts 14 and 17) should be consulted.
+8 VS import permit application forms are available from local offices of Veterinary Services, which are listed in telephone directories, from Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, MD 20737-1231, or by visiting *https://www.aphis.usda.gov/aphis/resources/sa\_epermits/eauth-epermits.* For other permit requirements for birds, the regulations issued by the U.S. Department of the Interior (50 CFR parts 14 and 17) should be consulted.
 
 (i) The name, address, and telephone number of the importer;
 
@@ -68,7 +68,7 @@ I certify that the information provided herein is true and correct to the best o
 
 (A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility9 during regular business hours (8:00 a.m. to 4:30 p.m. Monday through Friday, excluding holidays) no later than 15 days for birds prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 day period shall not include Saturdays, Sundays, or holidays), or
 
-9 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+9 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (B) The Administrator determines that services, other than provided by carriers, necessary for the importation of the poultry or birds within the requested period are unavailable because of unforeseen circumstances as determined by the Administrator, (such as the closing of an airport due to inclement weather or the unavailability of the reserved space due to the extension of another quarantine.)
 
@@ -122,4 +122,4 @@ I certify that the information provided herein is true and correct to the best o
 
 (5) Import permits issued for multiple shipments of birds transiting the port of Anchorage, Alaska, will be valid only during the calendar year in which they are issued.
 
-(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 31866, July 12, 1991; 57 FR 21725, May 22, 1992; 59 FR 10733, Mar. 8, 1994; 59 FR 47068, Sept. 14, 1994; 59 FR 47235, Sept. 15, 1994; 59 FR 67614, Dec. 30, 1994; 61 FR 68125, Dec. 27, 1996. Redesignated and amended at 56012, 56014, Oct. 28, 1997; 65 FR 38178, June 20, 2000; 81 FR 40151, June 21, 2016]
+(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990, as amended at 56 FR 31866, July 12, 1991; 57 FR 21725, May 22, 1992; 59 FR 10733, Mar. 8, 1994; 59 FR 47068, Sept. 14, 1994; 59 FR 47235, Sept. 15, 1994; 59 FR 67614, Dec. 30, 1994; 61 FR 68125, Dec. 27, 1996. Redesignated and amended at 56012, 56014, Oct. 28, 1997; 65 FR 38178, June 20, 2000; 81 FR 40151, June 21, 2016; 86 FR 45622, Aug. 16, 2021]

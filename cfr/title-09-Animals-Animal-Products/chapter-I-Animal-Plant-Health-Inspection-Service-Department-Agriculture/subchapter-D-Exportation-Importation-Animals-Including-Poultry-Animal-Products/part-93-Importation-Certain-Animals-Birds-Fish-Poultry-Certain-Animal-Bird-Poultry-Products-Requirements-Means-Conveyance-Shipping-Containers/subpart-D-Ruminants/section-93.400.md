@@ -46,7 +46,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Federal veterinarian.* A veterinarian employed and authorized by the Federal Government to perform the tasks required by this subpart.
 
-*Fever tick. Rhipicephalus**annulatus, Rhipicephalus**microplus,* and any other species of tick determined by the Administrator to be a vector of bovine babesiosis and specified on the Internet at *http://www.aphis.usda.gov/wps/portal/aphis/ourfocus/importexport.*
+*Fever tick, Rhipicephalus annulatus, Rhipicephalus microplus,* and any other species of tick determined by the Administrator to be a vector of bovine babesiosis and specified on the Internet at *https://www.aphis.usda.gov/animalhealth/disease-status-of-regions.*
 
 *Flock.* Any group of one or more sheep maintained on common ground; or two or more groups of sheep under common ownership or supervision on two or more premises that are geographically separated, but among which there is an interchange or movement of animals.
 
@@ -60,7 +60,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughtered within 2 weeks from the date of entry.
 
-1 The name of recognized slaughtering establishments approved under this part may be obtained from the area veterinarian in charge for the State of destination of the shipment. The name and address of the area veterinarian in charge in any State is available from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
+1 The name of recognized slaughtering establishments approved under this part may be obtained from the area veterinarian in charge for the State of destination of the shipment. The name and address of the area veterinarian in charge in any State is available from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
 *Import protocol.* A document issued by APHIS and provided to officials of the competent veterinary authority of an exporting region that specifies in detail the mitigation measures that will comply with the regulations in this part regarding the import of certain animals or commodities.
 

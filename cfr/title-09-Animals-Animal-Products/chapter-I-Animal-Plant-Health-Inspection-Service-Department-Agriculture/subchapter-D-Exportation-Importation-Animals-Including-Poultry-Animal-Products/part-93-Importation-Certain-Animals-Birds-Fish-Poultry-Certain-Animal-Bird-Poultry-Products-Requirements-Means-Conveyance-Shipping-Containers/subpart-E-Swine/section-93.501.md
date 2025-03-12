@@ -6,7 +6,7 @@
 
 (b) Except for swine prohibited entry, the provisions in this part 93 relating to swine shall not apply to healthy swine in transit through the United States if they are not known to be infected with or exposed, within 60 days preceding the date of export from the region of origin, to communicable diseases of such swine, if an import permit4 has been obtained under § 93.504 of this Chapter and all conditions therein are observed; and if such swine are handled as follows:
 
-4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Administrator.
+4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Administrator.
 
 (1)(i) They are maintained under continuous confinement in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 
@@ -32,4 +32,4 @@
 
 (c) *Removal and loss of official identification devices.* Official identification devices are intended to provide permanent identification of livestock and to ensure the ability to find the source of animal disease outbreaks. Removal of these devices is prohibited except at the time of slaughter. If an official identification device is lost and it is necessary to retag an animal with a new official number, every effort should be made to correlate the new official number with the previous official number of the animal.
 
-[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67615, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56020, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 69 FR 64651, Nov. 8, 2004]
+[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67615, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56020, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 69 FR 64651, Nov. 8, 2004; 86 FR 45624, Aug. 16, 2021]

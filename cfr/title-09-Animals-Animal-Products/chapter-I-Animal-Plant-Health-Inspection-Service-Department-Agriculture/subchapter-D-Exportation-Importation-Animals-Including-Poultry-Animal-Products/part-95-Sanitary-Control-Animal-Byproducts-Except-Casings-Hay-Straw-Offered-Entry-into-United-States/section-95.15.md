@@ -14,7 +14,7 @@ Articles that are otherwise prohibited importation into the United States in acc
 
 (c) The articles must transit the United States under Customs bond.
 
-(d) The person moving the articles must obtain a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors. To apply for a permit, file a permit application on VS Form 16-3 (available from APHIS, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231, or electronically at *http://www.aphis.usda.gov/animal\_health/permits/*).
+(d) The person moving the articles must obtain a United States Veterinary Permit for Importation and Transportation of Controlled Materials and Organisms and Vectors. To apply for a permit, file a permit application on VS Form 16-3, which is available from Strategy and Policy, Veterinary Services, APHIS, 4700 River Road, Riverdale, MD 20737-1231, or electronically at *https://efile.aphis.usda.gov/s/vs-permitting-assistant.*
 
 (e) The commodities must be eligible to enter the United States in accordance with §§ 95.4 through 95.14 and must be accompanied by the certification required by that section. Additionally, the following conditions must be met:
 
@@ -24,4 +24,4 @@ Articles that are otherwise prohibited importation into the United States in acc
 
 (3) A copy of the import permit required under paragraph (d) of this section must be presented to the inspector at the port of arrival and the port of export in the United States.
 
-[78 FR 73003, Dec. 4, 2013]
+[78 FR 73003, Dec. 4, 2013, as amended at 86 FR 45629, Aug. 16, 2021]

@@ -6,7 +6,7 @@
 
 (b) The provisions in this part 93 relating to horses shall not apply to healthy horses in transit through the United States if they are not known to be infected with or exposed, within 60 days preceding the date of export from the region of origin, to communicable diseases of horses if an import permit4 has been obtained under § 93.304 of this chapter and all conditions therein are observed; and if such horses are handled as follows:
 
-4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (1)(i) They are maintained under continuous confinement in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 
@@ -30,9 +30,9 @@
 
 (vi) They must also comply with all applicable local, State and Federal requirements for environmental quality and with the provisions of the Animal Welfare Regulations in chapter I of this title, as applicable.
 
-(c) *Specific prohibitions regarding contagious equine metritis; exceptions* - (1) *Importation prohibited.* Except as provided in paragraph (c)(2) of this section, notwithstanding the other provisions of this part concerning the importation of horses into the United States, the importation of all horses from any region that APHIS considers to be affected with contagious equine metritis (CEM) and the importation of all horses that have been in any such region within the 12 months immediately preceding their being offered for entry into the United States is prohibited.
+(c) *Specific prohibitions regarding contagious equine metritis; exceptions*—(1) *Importation prohibited.* Except as provided in paragraph (c)(2) of this section, notwithstanding the other provisions of this part concerning the importation of horses into the United States, the importation of all horses from any region that APHIS considers to be affected with contagious equine metritis (CEM) and the importation of all horses that have been in any such region within the 12 months immediately preceding their being offered for entry into the United States is prohibited.
 
-(i) A list of regions that APHIS considers to be affected with CEM is maintained on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737.
+(i) A list of regions that APHIS considers to be affected with CEM is maintained on the APHIS website at *https://www.aphis.usda.gov/animalhealth/disease-status-of-regions.* Copies of the list can be available via postal mail or email upon request to Regionalization Evaluation Services, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 38, Riverdale, Maryland 20737; *AskRegionalization@usda.gov.*
 
 (ii) APHIS will add a region to the list upon determining that the disease exists in the region based on reports APHIS receives of outbreaks of the disease from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable, or upon determining that the region trades horses freely with a region in which CEM exists without testing for CEM. APHIS will remove a region from the list after conducting an evaluation of the region in accordance with § 92.2 of this subchapter and finding that the disease is not present in the region. In the case of a region formerly not on this list that is added due to an outbreak, the region may be removed from the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter.
 
@@ -46,7 +46,7 @@
 
 (iv) Horses imported in accordance with conditions prescribed by the Administrator as provided in § 93.301(a);
 
-(v) Spanish Pure Breed horses imported for permanent entry from Spain or thoroughbred horses imported for permanent entry from France, Germany, Ireland, or the United Kingdom if the horses meet the requirements of paragraph (d) of this section;
+(v) Spanish Pure Breed horses imported for permanent entry from Spain or thoroughbred horses imported for permanent entry from France, Germany, Great Britain (England, Scotland, and Wales), the Ireland (Republic of), or Northern Ireland if the horses meet the requirements of paragraph (d) of this section;
 
 (vi) Stallions or mares over 731 days of age imported for permanent entry if the horses meet the requirements of paragraph (e) of this section;
 
@@ -56,7 +56,7 @@
 
 (ix) Horses temporarily exported from the United States or from another region not known to be affected with CEM to a region listed under paragraph (c)(1) of this section within the 12 months immediately preceding their being offered for entry into the United States if the horses meet the requirements of paragraph (g) of this section.
 
-(d) *Spanish Pure Breed horses from Spain and thoroughbred horses from France, Germany, Ireland, and the United Kingdom.* (1) Spanish Pure Breed horses from Spain and thoroughbred horses from France, Germany, Ireland, and the United Kingdom may be imported for permanent entry if the horses meet the following requirements:
+(d) *Spanish Pure Breed horses from Spain and thoroughbred horses from France, Germany, Great Britain (England, Scotland, and Wales), Ireland (Republic of), and Northern Ireland.* (1) Spanish Pure Breed horses from Spain and thoroughbred horses from France, Germany, Great Britain (England, Scotland, and Wales), Ireland (Republic of), and Northern Ireland may be imported for permanent entry if the horses meet the following requirements:
 
 (i) Each horse is accompanied at the time of importation by an import permit in accordance with § 93.304;
 
@@ -66,7 +66,7 @@
 
 (B) He or she has examined the records of the horse's activities maintained by a breed association specifically approved by the Department6 and certified by the breed association to be current, true, and factual for the following information:
 
-6 The following breed associations and their record systems have been approved by the Department: Asociacion National de Criadores de Caballos de Pura Raza Espanola for Spain; Weatherby's Ltd. for the United Kingdom and Ireland; Haras du Pain for France; and Direktorium für Vollblutzucht und Rennen e.v. for Germany.
+6 The following breed associations and their record systems have been approved by the Department: Asociacion Nacional de Criadores de Caballos de Pura Raza Española for Spain; Weatherby's Ltd. for Great Britain (England, Scotland, and Wales), Ireland (Republic of), and Northern Ireland; France Galop for France; and Direktorium für Vollblutzucht und Rennen e.V. for Germany.
 
 (*1*) Identification of the horse by name, sex, age, breed, and all identifying marks;
 
@@ -120,7 +120,7 @@
 
 (A) The stallion must be treated for 5 consecutive days by thoroughly cleaning and washing (scrubbing) its prepuce, penis, including the fossa glandis, and urethral sinus while the stallion is in full erection with a solution of not less than 2 percent surgical scrub chlorhexidine and then thoroughly coating (packing) the stallion's prepuce, penis, including the fossa glandis, and urethral sinus with an ointment effective against the CEM organism.7 The treatment shall be performed by an accredited veterinarian and monitored by a State or Federal veterinarian.
 
-7 A list of ointments effective against the CEM organism may be obtained from the National Center for Import and Export, Import/Export Animals, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
+7 A list of ointments effective against the CEM organism may be obtained from Strategy and Policy, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
 (B) Each mare to which the stallion has been test bred shall be cultured for CEM from three sets of specimens from the mucosal surfaces of the clitoral fossa and clitoral sinuses, with one set of specimens including a specimen from either the distal cervix or endometrium, between the third and fourteenth day after breeding, with negative results. The sets of specimens must be collected on three separate occasions within a 12-day period with no less than 72 hours between each set. A complement fixation test for CEM must be done with negative results between the twenty-first and twenty-eighth day after the breeding.
 
@@ -146,11 +146,11 @@
 
 (ii) After the three sets of specimens required by paragraph (e)(5)(i) of this section have been collected, an accredited veterinarian shall manually remove organic debris from the sinuses of each mare and then flush the sinuses with a cerumalytic agent.8
 
-8 Recommended protocols for the flushing of sinuses may be obtained from the National Center for Import and Export, Import/Export Animals, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
+8 Recommended protocols for the flushing of sinuses may be obtained from Strategy and Policy, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
 (iii) For 5 consecutive days after the sinuses have been cleaned, an accredited veterinarian shall aseptically clean and wash (scrub) the external genitalia and vaginal vestibule, including the clitoral fossa, with a solution of not less than 2 percent chlorhexidine in a detergent base and then fill the clitoral fossa and sinuses, and coat the external genitalia and vaginal vestibule with an antibiotic ointment effective against the CEM organism.9
 
-9 A list of ointments effective against the CEM organism may be obtained from the National Center for Import and Export, Import/Export Animals, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
+9 A list of ointments effective against the CEM organism may be obtained from Strategy and Policy, VS, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
 
 (iv) A mare may be released from State quarantine only if all cultures performed on specimens taken from the mare are negative for CEM.
 
@@ -272,13 +272,13 @@
 
 (5) Approval of any State to receive stallions or mares imported from regions affected with CEM may be suspended by the Administrator upon his or her determination that any requirements of this section are not being met. After such action is taken, the animal health authorities of the approved State will be informed of the reasons for the action and afforded an opportunity to present their views thereon before such suspension is finalized; however, such suspension of approval shall continue in effect unless otherwise ordered by the Administrator. In those instances where there is a conflict as to the facts, a hearing shall be held to resolve such conflict.
 
-(6) A list of States approved by APHIS to receive stallions over 731 days of age imported under paragraph (e) of this section is maintained on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/downloads/states\_app\_conduct\_cem\_testing.pdf.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737.
+(6) Individual State requirements for receiving stallions over 731 days of age imported under paragraph (e) of this section can be accessed through the APHIS website at *https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/equine/cem/contagious-equine-metritis*. The information can also be obtained via postal mail or email upon request to Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; *VS.Live.Animal.Import.Export@usda.gov*.
 
-(7) A list of States approved by APHIS to receive mares over 731 days of age imported under paragraph (e) of this section is maintained on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/downloads/states\_app\_conduct\_cem\_testing.pdf.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737.
+(7) Individual State requirements for receiving mares over 731 days of age imported under paragraph (e) of this section can be accessed through the APHIS website at *https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/equine/cem/contagious-equine-metritis*. The information can also be obtained via postal mail or email upon request to Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; *VS.Live.Animal.Import.Export@usda.gov*.
 
 (i) [Reserved]
 
-(j) *Examination and treatment for screwworm.* Horses from regions where APHIS considers screwworm to exist may be imported into the United States only if they meet the requirements in paragraphs (j)(1) through (7) of this section and all other applicable requirements of this part. APHIS will maintain a list of regions where screwworm is considered to exist on the APHIS Web site at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.* Copies of the list will also be available via postal mail, fax, or email upon request to the Sanitary Trade Issues Team, National Center for Import and Export, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road Unit 38, Riverdale, Maryland 20737. APHIS will add a region to the list upon determining that screwworm exists in the region based on reports APHIS receives of detections of the pest from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable. APHIS will remove a region from the list after conducting an evaluation of the region in accordance with § 92.2 of this subchapter and finding that screwworm is not present in the region. In the case of a region formerly not on this list that is added due to a detection, the region may be removed from the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter.
+(j) *Examination and treatment for screwworm.* Horses from regions where APHIS considers screwworm to exist may be imported into the United States only if they meet the requirements in paragraphs (j)(1) through (7) of this section and all other applicable requirements of this part. APHIS maintains a list of regions where screwworm is considered to exist on the APHIS website at *https://www.aphis.usda.gov/animalhealth/disease-status-of-regions*. Copies of the list are also available via postal mail or email upon request to Regionalization Evaluation Services, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Unit 38, Riverdale, Maryland 20737; *AskRegionalization@usda.gov*. APHIS will add a region to the list upon determining that screwworm exists in the region based on reports APHIS receives of detections of the pest from veterinary officials of the exporting country, from the World Organization for Animal Health (OIE), or from other sources the Administrator determines to be reliable. APHIS will remove a region from the list after conducting an evaluation of the region in accordance with § 92.2 of this subchapter and finding that screwworm is not present in the region. In the case of a region formerly not on this list that is added due to a detection, the region may be removed from the list in accordance with the procedures for reestablishment of a region's disease-free status in § 92.4 of this subchapter.
 
 (1) A veterinarian must treat horses with ivermectin 3 to 5 days prior to the date of export to the United States according to the recommended dose prescribed on the product's label.
 

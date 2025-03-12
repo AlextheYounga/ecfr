@@ -6,7 +6,7 @@
 
 (b) The provisions in this part 93 relating to poultry shall not apply to healthy poultry not known to be infected with or exposed, within the 90 days preceding the date of export from the region of origin, to communicable diseases of poultry, if an import permit3 has been obtained under § 93.204 of this chapter and all conditions therein are observed; and if such poultry are handled as follows:
 
-3 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Deputy Administrator.
+3 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Deputy Administrator.
 
 (1)(i) They are maintained under continuous confinement in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 
@@ -66,4 +66,4 @@
 
 (e) Pigeons, doves, and other Columbiform species that have originated from or transited regions where highly pathogenic avian influenza is considered to exist may be imported into the United States under permit and controlled conditions to approved establishments subject to all applicable requirements in this part.
 
-(Approved by the Office of Management and Budget under control number 0579-0245)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 56012, 56015, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 69 FR 25825, May 10, 2004; 76 FR 4053, Jan. 24, 2011; 79 FR 71005, Dec. 1, 2014]
+(Approved by the Office of Management and Budget under control number 0579-0245)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 56012, 56015, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 69 FR 25825, May 10, 2004; 76 FR 4053, Jan. 24, 2011; 79 FR 71005, Dec. 1, 2014; 86 FR 45623, Aug. 16, 2021]

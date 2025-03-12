@@ -6,7 +6,7 @@
 
 (b) Except for ruminants prohibited entry, the provisions in this part relating to ruminants shall not apply to healthy ruminants in transit through the United States if they are not known to be infected with or exposed, within 60 days preceding the date of export from the region of origin, to communicable diseases of such ruminants, if an import permit4 has been obtained under § 93.404 of this chapter and all conditions therein are observed; and if such ruminants are handled as follows:
 
-4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Administrator.
+4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Requests for approval of such facilities should also be made to the Administrator.
 
 (1)(i) They are maintained under continuous confinement in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 
@@ -34,4 +34,4 @@
 
 (d) *Cleaning and disinfection prior to shipment.* A means of conveyance used to transport an animal to the United States in accordance with this subpart must be cleaned and disinfected in a manner specified within an import protocol prior to transport, unless an exemption has been granted by the Administrator.
 
-[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 68 FR 31940, May 29, 2003; 69 FR 64651, Nov. 8, 2004; 78 FR 72996, Dec. 4, 2013; 85 FR 57952, Sept. 17, 2020]
+[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 68 FR 31940, May 29, 2003; 69 FR 64651, Nov. 8, 2004; 78 FR 72996, Dec. 4, 2013; 85 FR 57952, Sept. 17, 2020; 86 FR 45624, Aug. 16, 2021]

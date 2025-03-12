@@ -16,7 +16,7 @@
 
 (A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility6 during regular business hours (8:00 a.m. to 4:30 p.m. Monday through Friday, excluding holidays) no later than 15 days for ruminants prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 days period shall not include Saturdays, Sundays, or holidays), or
 
-6 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+6 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (B) The Administrator determines that services, other than provided by carriers, necessary for the importation of the ruminants within the requested period are unavailable because of unforeseen circumstances as determined by the Administrator, (such as the closing of an airport due to inclement weather or the unavailability of the reserved space due to the extension of another quarantine).
 
@@ -66,4 +66,4 @@ Subscribed and sworn to before me this \_\_ day of \_\_, \_\_.
 
 Subscribed and sworn to before me this \_\_ day of \_\_,\_\_
 
-(Title or designation)(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0224)[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 28216, June 1, 1994; 59 FR 31924, June 21, 1994; 59 FR 67615, Dec. 30, 1994; 62 FR 23637, May 1, 1997. Redesignated and amended at 62 FR 56012, 56018, Oct. 28, 1997; 65 FR 38178, June 20, 2000; 68 FR 6344, Feb. 7, 2003; 68 FR 35533, June 16, 2003; 71 FR 29773, May 24, 2006; 83 FR 15492, Apr. 11, 2018]
+(Title or designation)(Approved by the Office of Management and Budget under control numbers 0579-0040 and 0579-0224)[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 28216, June 1, 1994; 59 FR 31924, June 21, 1994; 59 FR 67615, Dec. 30, 1994; 62 FR 23637, May 1, 1997. Redesignated and amended at 62 FR 56012, 56018, Oct. 28, 1997; 65 FR 38178, June 20, 2000; 68 FR 6344, Feb. 7, 2003; 68 FR 35533, June 16, 2003; 71 FR 29773, May 24, 2006; 83 FR 15492, Apr. 11, 2018; 86 FR 45624, Aug. 16, 2021]

@@ -12,7 +12,7 @@ Untanned hides and skins and bird trophies1 may be imported into the United Stat
 
 (i) The ruminants from which the hides or skins were taken have been slaughtered under national government inspection in a region2 and in an abattoir in which is maintained an inspection service that meets the requirements and has been approved pursuant to part 327 of this title; and
 
-2 Names of these regions will be furnished upon request to the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+2 Names of these regions will be furnished upon request to the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (ii) The hides or skins are accompanied by a certificate bearing the seal of the proper department of that national government and signed by an official veterinary inspector of the region in which the ruminants were slaughtered. The certificate must state that the hides or skins were taken from ruminants slaughtered in an abattoir that meets the requirements of paragraph (a)(3)(i) of this section and that the hides or skins are free from anthrax and foot-and-mouth disease.
 
@@ -32,4 +32,4 @@ Untanned hides and skins and bird trophies1 may be imported into the United Stat
 
 (c) *Bird trophies.* Bird trophies from regions designated in § 94.6 of this subchapter as free of Newcastle disease and free of HPAI may be imported without further restriction if accompanied by a certificate of origin issued by the national government of the region of export.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0307)[74 FR 66226, Dec. 15, 2009, as amended at 76 FR 28887, May 19, 2011; 78 FR 19085, Mar. 29, 2013. Redesignated and amended at 78 FR 73003, 73006, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014; 83 FR 15493, Apr. 11, 2018]
+(Approved by the Office of Management and Budget under control numbers 0579-0015 and 0579-0307)[74 FR 66226, Dec. 15, 2009, as amended at 76 FR 28887, May 19, 2011; 78 FR 19085, Mar. 29, 2013. Redesignated and amended at 78 FR 73003, 73006, Dec. 4, 2013; 79 FR 71007, Dec. 1, 2014; 83 FR 15493, Apr. 11, 2018; 86 FR 45629, Aug. 16, 2021]

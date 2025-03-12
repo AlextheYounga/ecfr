@@ -2,7 +2,7 @@
 
 (a) *Who must pay APHIS user fees?* Any person for whom a service is provided related to the importation, entry, or exportation of an animal, article, or means of conveyance or related to veterinary diagnostics, and any person requesting such service, shall be jointly and severally liable for payment of fees assessed.
 
-(b) *Associated charges* - (1) *Reservation fee.* Any reservation fee paid by an importer under part 93 of this chapter will be applied to the APHIS user fees specified in §§ 130.2 and 130.3 for animals or birds quarantined in an animal import center.
+(b) *Associated charges*—(1) *Reservation fee.* Any reservation fee paid by an importer under part 93 of this chapter will be applied to the APHIS user fees specified in §§ 130.2 and 130.3 for animals or birds quarantined in an animal import center.
 
 (2) *Special handling expenses.* The user fees in this part do not include any costs that may be incurred due to special mail handling, including, but not limited to, express, overnight, or foreign mailing. If any service requires special mail handling, the user must pay all costs incurred, in addition to the user fee for the service.
 
@@ -30,7 +30,7 @@ Overtime for Flat Rate User Fees<sup>1 2</sup>
 
 (iii) For information on rules pertaining to the charges associated with employees of U.S. Customs and Border Protection performing agricultural inspection services, please see 7 CFR 354.1 and 9 CFR 97.1.
 
-(c) *When are APHIS user fees due?* - (1) *Animal and bird quarantine and related tests.* User fees specified in §§ 130.2, 130.3, 130.5, 130.10, and tests specified in §§ 130.14 through 130.19 for animals and birds in an Animal Import Center or privately operated permanent or temporary import quarantine facilities, including user fees for tests conducted on these animals or birds, must be paid prior to the release of those animals or birds from quarantine.
+(c) *When are APHIS user fees due?*—(1) *Animal and bird quarantine and related tests.* User fees specified in §§ 130.2, 130.3, 130.5, 130.10, and tests specified in §§ 130.14 through 130.19 for animals and birds in an Animal Import Center or privately operated permanent or temporary import quarantine facilities, including user fees for tests conducted on these animals or birds, must be paid prior to the release of those animals or birds from quarantine.
 
 (2) *Supervision and inspection services for export animals, animal products.* User fees for supervision and inspection services specified in § 130.30 must be paid when billed, or, if covered by a compliance agreement signed in accordance with this chapter, must be paid when specified in the agreement.
 
@@ -44,7 +44,7 @@ Overtime for Flat Rate User Fees<sup>1 2</sup>
 
 (1) Cash, will be accepted only during normal business hours if payment is made at an APHIS office7 or an Animal Import Center;
 
-7 A list of APHIS offices and Animal Import Centers that accept cash or credit cards may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20738-1231.
+7 A list of APHIS offices and Animal Import Centers that accept cash or credit cards may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, MD 20738-1231.
 
 (2) All types of checks, including traveler's checks, drawn on a U.S. bank in U.S. dollars and made payable to the U.S. Department of Agriculture or USDA;
 
@@ -52,4 +52,4 @@ Overtime for Flat Rate User Fees<sup>1 2</sup>
 
 (4) Credit cards (VISATM and MasterCardTM) if payment is made at an Animal Import Center or an APHIS office that is equipped to process credit cards.7
 
-[63 FR 53796, Oct. 7, 1998, as amended at 64 FR 67700, Dec. 3, 1999; 65 FR 52010, Aug. 28, 2000; 67 FR 48524, July 25, 2002; 68 FR 51887, Aug. 29, 2003; 80 FR 59567, Oct. 2, 2015]
+[63 FR 53796, Oct. 7, 1998, as amended at 64 FR 67700, Dec. 3, 1999; 65 FR 52010, Aug. 28, 2000; 67 FR 48524, July 25, 2002; 68 FR 51887, Aug. 29, 2003; 80 FR 59567, Oct. 2, 2015; 86 FR 45629, Aug. 16, 2021]

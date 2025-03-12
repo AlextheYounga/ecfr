@@ -116,7 +116,7 @@
 
 (*2*) The vaccine is not one that is used to prevent Newcastle disease, avian influenza, or any other hemagglutinating virus of poultry.11
 
-11 A list of approved vaccines is available from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+11 A list of approved vaccines is available from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (C) Birds of the psittacine family shall receive a balanced, medicated feed ration treatment containing not less than 1% CTC with not more than 0.7% calcium for the entire quarantine period as a precautionary measure against chlamydiosis (psittacosis).
 
@@ -138,9 +138,9 @@
 
 (iii) Cooperative and Trust Fund Agreement.
 
-Cooperative And Trust Fund Agreement between \_\_\_ (name of importer) and the United States Department of Agriculture, Animal and Plant Health Inspection Service.
+Cooperative And Trust Fund Agreement between \_\_\_\_\_\_ (name of importer) and the United States Department of Agriculture, Animal and Plant Health Inspection Service.
 
-This agreement is made and entered into by and between \_\_\_\_\_ (name of importer), hereinafter referred to as the Importer, and the U.S. Department of Agriculture, Animal and Plant Health Inspection Service, hereinafter referred to as the Service, with respect to \_\_\_\_\_\_ (quarantine facility and address of facility). Whereas, the Service is authorized pursuant to the Animal Health Protection Act (7 U.S.C. 8301 *et seq.*) to regulate the introduction of animals into the United States in order to prevent the introduction of animal and poultry diseases into the United States; and
+This agreement is made and entered into by and between \_\_\_\_\_\_\_\_\_\_ (name of importer), hereinafter referred to as the Importer, and the U.S. Department of Agriculture, Animal and Plant Health Inspection Service, hereinafter referred to as the Service, with respect to \_\_\_\_\_\_\_\_\_\_\_\_ (quarantine facility and address of facility). Whereas, the Service is authorized pursuant to the Animal Health Protection Act (7 U.S.C. 8301 *et seq.*) to regulate the introduction of animals into the United States in order to prevent the introduction of animal and poultry diseases into the United States; and
 
 Whereas, the Importer is interested in the importation of certain birds from regions presently under restrictions for such importation; and
 

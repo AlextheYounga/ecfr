@@ -2,7 +2,7 @@
 
 (a) If inspection services (including inspection, testing, and supervision services) are performed outside the United States, in accordance with this title, and the regulations do not contain a provision for payment of the cost of the service, the person requesting the service must pay a user fee under this section.
 
-(b) Any person who wants APHIS to provide inspection services outside the United States must contact the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road, Unit 38, Riverdale, Maryland 20737-1231, to make an agreement.
+(b) Any person who wants APHIS to provide inspection services outside the United States must contact the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road, Unit 38, Riverdale, Maryland 20737-1231, to make an agreement.
 
 (c) All agreements must include the following:
 
@@ -28,4 +28,4 @@
 
 (f) If, at the time an agreement is terminated, any unobligated funds remain in the user fee payment account, APHIS will refund the funds to the person who requested the inspection services, or his or her agent.
 
-[57 FR 771, Jan. 9, 1992. Redesignated at 58 FR 67655, Dec. 22, 1993; 59 FR 67617, Dec. 30, 1994]
+[57 FR 771, Jan. 9, 1992. Redesignated at 58 FR 67655, Dec. 22, 1993; 59 FR 67617, Dec. 30, 1994; 86 FR 45629, Aug. 16, 2021]

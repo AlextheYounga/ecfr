@@ -24,7 +24,9 @@
 
 *Exporting region.* A region from which shipments are sent to the United States.
 
-*European Union.* The organization of Member States consisting of Austria, Belgium, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Republic of Ireland, Spain, Sweden, and the United Kingdom (England, Scotland, Wales, the Isle of Man, and Northern Ireland).
+*European Union.* The organization of Member States consisting of Austria, Belgium, Bulgaria, Croatia, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Republic of), Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.1
+
+1 For animal health purposes, APHIS considers that Northern Ireland is following European Union regulations and policies and is treating it the same as Member States of the European Union.
 
 *Import (imported, importation) into the United States.* To bring into the territorial limits of the United States.
 
@@ -50,9 +52,9 @@
 
 (4) A group of national entities (countries) combined into a single area.
 
-*Region of controlled risk for bovine spongiform encephalopathy (BSE).*1 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
+*Region of controlled risk for bovine spongiform encephalopathy (BSE).*2 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
 
-1 A list of regions classified by APHIS as regions of controlled risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
+2 A list of regions classified by APHIS as regions of controlled risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
 
 (1) Has demonstrated that appropriate mitigations are being taken to manage all identified risks, but may not have been taken for the periods of time necessary to be classified as a region of negligible risk for BSE.
 
@@ -82,9 +84,9 @@
 
 (ii) Has prohibited the feeding to ruminants in the region of meat-and-bone meal and greaves derived from ruminants, but it cannot be demonstrated through an appropriate level of control and audit that the prohibited materials have not been fed to ruminants in the region for at least the past 8 years.
 
-*Region of negligible risk for bovine spongiform encephalopathy (BSE).*2 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
+*Region of negligible risk for bovine spongiform encephalopathy (BSE).*3 A region for which a risk assessment has been conducted sufficient to identify the historical and existing BSE risk factors in the region and that:
 
-2 A list of regions classified by APHIS as regions of negligible risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
+3 A list of regions classified by APHIS as regions of negligible risk for BSEs is available at *http://www.aphis.usda.gov/import\_export/animals/animal\_disease\_status.shtml.*
 
 (1) Has demonstrated that appropriate mitigations to manage all identified risks have been taken for each relevant period of time to meet each identified risk, as set forth in this definition.
 
@@ -124,4 +126,4 @@
 
 *Vector-borne disease.* A disease transmitted to an animal through an intermediate arthropod vector, including ticks or insects.
 
-[62 FR 56012, Oct. 28, 1997, as amended at 68 FR 16938, Apr. 7, 2003; 72 FR 67232, Nov. 28, 2007; 78 FR 72993, Dec. 4, 2013; 85 FR 11835, Feb. 28, 2020]
+[62 FR 56012, Oct. 28, 1997, as amended at 68 FR 16938, Apr. 7, 2003; 72 FR 67232, Nov. 28, 2007; 78 FR 72993, Dec. 4, 2013; 85 FR 11835, Feb. 28, 2020; 86 FR 45622, Aug. 16, 2021]

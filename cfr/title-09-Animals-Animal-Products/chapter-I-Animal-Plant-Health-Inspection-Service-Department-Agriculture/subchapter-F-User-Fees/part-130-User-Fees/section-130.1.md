@@ -10,7 +10,7 @@ As used in this part, the following terms shall have the meaning set forth in th
 
 *Animal Import Center.* Quarantine facilities operated by APHIS in Newburgh, New York, and Miami, Florida.1
 
-1 The addresses of Animal Import Centers may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road, Unit 38, Riverdale, Maryland 20737-1231.
+1 The addresses of Animal Import Centers may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road, Unit 38, Riverdale, Maryland 20737-1231.
 
 *APHIS representative.* An individual, including, but not limited to, an animal health technician or veterinarian, authorized by the Administrator to perform the services for which the user fees in this part are charged.
 
@@ -84,4 +84,4 @@ As used in this part, the following terms shall have the meaning set forth in th
 
 *Zoo equine.* Any equine intended for exhibition in a zoo, park or other place maintained for the exhibition of live animals for recreational or educational purposes.
 
-[57 FR 771, Jan. 9, 1992, as amended at 58 FR 38957, July 21, 1993; 58 FR 67654, Dec. 22, 1993; 59 FR 67617, Dec. 30, 1994; 61 FR 20432, May 7, 1996; 62 FR 56026, Oct. 28, 1997; 63 FR 53788, Oct. 7, 1998; 63 FR 64175, Nov. 19, 1998; 64 FR 67698, Dec. 3, 1999; 65 FR 38178, 38180, June 20, 2000; 68 FR 64507, Nov. 14, 2003; 74 FR 14001, Mar. 30, 2009]
+[57 FR 771, Jan. 9, 1992, as amended at 58 FR 38957, July 21, 1993; 58 FR 67654, Dec. 22, 1993; 59 FR 67617, Dec. 30, 1994; 61 FR 20432, May 7, 1996; 62 FR 56026, Oct. 28, 1997; 63 FR 53788, Oct. 7, 1998; 63 FR 64175, Nov. 19, 1998; 64 FR 67698, Dec. 3, 1999; 65 FR 38178, 38180, June 20, 2000; 68 FR 64507, Nov. 14, 2003; 74 FR 14001, Mar. 30, 2009; 86 FR 45629, Aug. 16, 2021]

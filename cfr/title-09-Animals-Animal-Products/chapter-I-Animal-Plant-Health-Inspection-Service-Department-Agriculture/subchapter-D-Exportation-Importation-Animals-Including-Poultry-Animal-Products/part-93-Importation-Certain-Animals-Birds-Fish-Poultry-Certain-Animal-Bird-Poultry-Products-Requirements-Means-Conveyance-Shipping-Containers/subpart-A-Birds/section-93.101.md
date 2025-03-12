@@ -26,7 +26,7 @@
 
 (v) The owner or manager of the premises submits a copy of the registers to the National Veterinary Service of the region of export on a quarterly basis. The region of export in turn submits a copy of the registers to the Administrator upon his or her request;2
 
-2 Copies should be mailed to the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+2 Copies should be mailed to the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (vi) The region from which the ratites or hatching eggs are exported to the United States maintains a registry of premises that wish to export ratites or hatching eggs of ratites to the United States, that lists each ratite according to the microchip number required under paragraph (b)(3)(iv) of this section, and also maintains a count of hatching eggs of ratites produced on or added to the premises;
 
@@ -86,7 +86,7 @@
 
 (ii) An advanced reservation fee as required by § 93.103(a)(3) and a request for space which has been confirmed in writing, at a USDA-operated quarantine facility shall be made with the port veterinarian3 at the port where the birds are to be held for a minimum 30-day isolation in a biologically secure unit separate and apart from all other avian species, except, that birds arriving without an advanced reservation may be handled if an isolation unit is available, provided the reservation fee as required in § 93.103(a)(3) is paid. Pet birds offered for entry at a port of entry that has not been designated in § 93.102(a), or pet birds arriving without an advanced reservation at a port of entry designated in § 93.102(a) but at which isolation units are not available, shall be refused entry at such port. However, such pet birds may be transported at the owner's expense to another port of entry designated in § 93.102(a) if available quarantine space exists, if the reservation fee is paid and the birds are shipped to such other port under conditions deemed sufficient by the Administrator to prevent the spread of communicable diseases of poultry: *Provided,* That pet birds arriving with or without an advance reservation at the port of Hidalgo, Texas, will be transported at Department expense to the quarantine facility at Mission, Texas, if available quarantine space exists at that facility, until quarantine facilities are available at Hidalgo, Texas; and pet birds arriving with or without an approved reservation entered at the port of New York, New York, will be transported at Department expense to the quarantine facility at Newburgh, New York, if available quarantine space exists at the facility, until quarantine facilities are available at New York, New York. Following the isolation period, if such birds are found to be free from communicable diseases of poultry, the birds shall be returned at Department expense to the respective ports of Hidalgo, Texas, or New York, New York, as appropriate, for Agriculture release for entry through U.S. Customs.
 
-3 The names and addresses of the port veterinarians, as well as a fee schedule for quarantine charges, are available from the Animal and Plant Health Inspection Service, Veterinary Services, Operational Support, 4700 River Road Unit 33, Riverdale, Maryland 20737-1231.
+3 The names and addresses of the port veterinarians, as well as a fee schedule for quarantine charges, are available from the Animal and Plant Health Inspection Service, Veterinary Services, 4700 River Road Unit 33, Riverdale, Maryland 20737-1231.
 
 (iii) During the isolation period, the birds shall be subjected to such tests and procedures as required by the Administrator to determine whether the birds are free from communicable diseases of poultry.
 
@@ -96,7 +96,7 @@
 
 (d) The provisions in this subpart relating to birds shall not apply to healthy birds, except ratites, not known to be infected with or exposed, within the 90 days preceding the date of export from the region of origin, to communicable diseases of poultry, if an import permit4 has been obtained under § 93.103 of this chapter and all conditions therein are observed; and if such birds are handled as follows:
 
-4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, Operational Support, 4700 River Road Unit 33, Riverdale, Maryland 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/”*. Requests for approval of such facilities should also be made to the Deputy Administrator.
+4 Such permit may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, 4700 River Road Unit 33, Riverdale, Maryland 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/”*. Requests for approval of such facilities should also be made to the Deputy Administrator.
 
 (1)(i) They are maintained under continuous confinement in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 

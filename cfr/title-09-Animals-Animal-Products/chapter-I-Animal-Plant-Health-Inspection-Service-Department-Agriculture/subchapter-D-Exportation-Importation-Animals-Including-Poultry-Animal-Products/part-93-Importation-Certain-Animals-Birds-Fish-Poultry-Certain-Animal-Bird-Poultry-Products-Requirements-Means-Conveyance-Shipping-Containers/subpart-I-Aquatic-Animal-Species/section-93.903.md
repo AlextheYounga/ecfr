@@ -2,7 +2,7 @@
 
 (a) Live fish, fertilized eggs, or gametes of SVC-susceptible species imported into the United States must be accompanied by an import permit issued by APHIS and must be imported within 30 days after the proposed date of arrival stated in the import permit.
 
-(b) An application for an import permit must be submitted for each shipment of live fish, fertilized eggs, or gametes of SVC-susceptible species to the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 38, Riverdale, MD 20737-1231. Application forms for import permits may be obtained from this address.
+(b) An application for an import permit must be submitted for each shipment of live fish, fertilized eggs, or gametes of SVC-susceptible species to Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, MD 20737-1231. Application forms for import permits may be obtained from this address.
 
 (c) A completed application shall include the following information:
 
@@ -30,4 +30,4 @@
 
 (d) If APHIS determines that the live fish, fertilized eggs, or gametes are eligible for importation, APHIS will issue an import permit indicating the applicable conditions for importation. An import permit does not guarantee that any live fish, fertilized eggs, or gametes will be allowed entry into the United States; the fish, fertilized eggs, or gametes will be allowed to enter the United States only if they meet all applicable requirements of the permit and regulations.
 
-(Approved by the Office of Management and Budget under control number 0579-0301)
+(Approved by the Office of Management and Budget under control number 0579-0301)[71 FR 51435, Aug. 30, 2006, as amended at 86 FR 45625, Aug. 16, 2021]

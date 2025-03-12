@@ -2,7 +2,7 @@
 
 (a) An elephant, hippopotamus, rhinoceros, or tapir shall not be imported into the United States unless accompanied by an import permit issued by APHIS and unless imported into the United States within 30 days after the proposed date of arrival stated in the import permit. The port veterinarian must be notified of the date of arrival at least 72 hours before the animal arrives in the United States.
 
-(b) An application for an import permit may be obtained from the Import-Export Animals Staff, National Center for Import-Export, Veterinary Services, APHIS, 4700 River Road Unit 38, Riverdale, MD 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/.*
+(b) An application for an import permit may be obtained from Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; or by visiting *https://www.aphis.usda.gov/aphis/resources/sa\_epermits/eauth-epermits.* A separate application must be prepared for each shipment.
 
 (c) The completed application shall include the following information:
 
@@ -30,4 +30,4 @@
 
 (d) After receipt and review of the application by APHIS, an import permit indicating the applicable conditions under this part for importation into the United States shall be issued for the importation of the elephant, hippopotamus, rhinoceros, or tapir described in the application if such animal appears to be eligible to be imported. Even though an import permit has been issued for the importation of an elephant, hippopotamus, rhinoceros, or tapir, the animal may be imported only if all applicable requirements of this part are met.
 
-[52 FR 29502, Aug. 10, 1987, as amended at 57 FR 23049, June 1, 1992; 59 FR 67615, Dec. 30, 1994. Redesignated at 62 FR 56012, Oct. 28, 1997; 81 FR 40151, June 21, 2016]
+[52 FR 29502, Aug. 10, 1987, as amended at 57 FR 23049, June 1, 1992; 59 FR 67615, Dec. 30, 1994. Redesignated at 62 FR 56012, Oct. 28, 1997; 81 FR 40151, June 21, 2016; 86 FR 45625, Aug. 16, 2021]

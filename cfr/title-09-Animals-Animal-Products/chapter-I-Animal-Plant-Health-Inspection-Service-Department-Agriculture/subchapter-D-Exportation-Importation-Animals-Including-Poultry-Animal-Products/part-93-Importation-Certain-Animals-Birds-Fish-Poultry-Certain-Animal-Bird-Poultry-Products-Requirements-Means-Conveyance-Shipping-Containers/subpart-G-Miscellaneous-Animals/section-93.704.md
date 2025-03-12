@@ -2,7 +2,7 @@
 
 (a) *General requirements.* No person may import a hedgehog or tenrec into the United States unless it is accompanied by an import permit issued by APHIS and is imported into the United States within 30 days after the proposed date of arrival stated in the import permit. The importer or his or her agent must notify the inspector at the port of first arrival of the date of arrival at least 72 hours before the hedgehog or tenrec arrives in the United States.
 
-(b) *Import permit required.* Any person who desires to import a hedgehog or tenrec must submit an application (VS Form 17-129) for an import permit. Applications are available from the Import-Export Animals Staff, National Center for Import-Export, Veterinary Services, APHIS, 4700 River Road Unit 39, Riverdale, MD 20737-1231 or by visiting *http://www.aphis.usda.gov/animal\_health/permits/.* A separate application must be prepared for each shipment.
+(b) *Import permit required.* Any person who desires to import a hedgehog or tenrec must submit an application (VS Form 17-129) for an import permit. Applications are available from, Strategy and Policy, Veterinary Services, Animal and Plant Health Inspection Service, 4700 River Road, Riverdale, Maryland 20737; or by visiting *https://www.aphis.usda.gov/aphis/resources/sa\_epermits/eauth-epermits*. A separate application must be prepared for each shipment.
 
 (c) *Application for an import permit.* The importer must complete, sign, and date the application for an import permit, which must include the following information:
 
@@ -34,4 +34,4 @@
 
 (d) *Issuance of an import permit.* Upon receipt of the application, APHIS will review the application. If the hedgehog or tenrec appears to be eligible to be imported into the United States, APHIS will issue an import permit indicating the applicable requirements under this subpart for the importation of the hedgehog or tenrec. Even though an import permit has been issued for the importation of a hedgehog or tenrec, the animal may enter the United States only if all other applicable requirements of this subpart have been met.
 
-(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56021, Oct. 28, 1997; 81 FR 40151, June 21, 2016]
+(Approved by the Office of Management and Budget under control number 0579-0040)[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56021, Oct. 28, 1997; 81 FR 40151, June 21, 2016; 86 FR 45625, Aug. 16, 2021]

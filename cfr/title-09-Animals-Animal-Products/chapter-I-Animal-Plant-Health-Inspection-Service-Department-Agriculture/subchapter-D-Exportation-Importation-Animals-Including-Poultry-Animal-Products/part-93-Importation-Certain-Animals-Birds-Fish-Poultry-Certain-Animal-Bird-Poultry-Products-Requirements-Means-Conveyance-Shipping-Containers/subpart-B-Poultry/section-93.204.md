@@ -14,7 +14,7 @@
 
 (A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility5 during regular business hours (8:00 a.m. to 4:30 p.m., Monday through Friday, excluding holidays) no later than 15 days prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 day period shall not include Saturdays, Sundays, or holidays), or
 
-5 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
+5 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 
 (B) The Administrator determines that services, other than provided by carriers, necessary for the importation of the poultry within the requested period are unavailable because of unforeseen circumstances as determined by the Administrator, (such as the closing of an airport due to inclement weather or the unavailability of the reserved space due to the extension of another quarantine).
 
@@ -66,4 +66,4 @@
 
 (5) Import permits issued for multiple shipments of poultry or pigeons transiting the port of Anchorage, Alaska, will be valid only during the calendar year in which they are issued.
 
-[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 56012, 56015, Oct. 28, 1997]
+[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 56012, 56015, Oct. 28, 1997; 86 FR 45623, Aug. 16, 2021]
