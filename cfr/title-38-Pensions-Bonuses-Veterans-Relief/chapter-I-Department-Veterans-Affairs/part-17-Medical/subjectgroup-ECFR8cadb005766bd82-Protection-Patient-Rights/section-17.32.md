@@ -53,7 +53,8 @@
 (4) The practitioner must advise the patient if the proposed treatment is novel or unorthodox.
 
 (5) The patient may withhold or revoke consent at any time.
-.
+
+(6) Trained personnel may conduct elements of the informed consent process when delegated by the practitioner. However, the practitioner remains responsible for the informed consent process and must personally verify with the patient that the patient has been fully informed and voluntarily consents to the treatment or procedure.
 
 (7) Practitioners may provide necessary medical care in emergency situations without the express consent of the patient when all of the following apply:
 
@@ -87,7 +88,7 @@
 
 (iv) When signature consent is required, but it is not practicable to obtain the signed consent form, the informed consent conversation conducted by telephone or video conference must be audiotaped, videotaped, or witnessed by a second VA employee in lieu of the signed consent form. The practitioner must document the details of the conversation in the medical record. If someone other than the patient is giving consent, the name of the person giving consent and the authority of that person to act as surrogate must be adequately identified in the medical record.
 
-(e) *Patients who lack decision-making capacity* - (1) *Identifying a surrogate decision maker.* If the practitioner who has primary responsibility for the patient determines that the patient lacks decision-making capacity and is unlikely to regain it within a reasonable period of time, informed consent must be obtained from the surrogate. Patients who are incapable of giving consent as a matter of law will be deemed to lack decision-making capacity for the purposes of this section.
+(e) *Patients who lack decision-making capacity*—(1) *Identifying a surrogate decision maker.* If the practitioner who has primary responsibility for the patient determines that the patient lacks decision-making capacity and is unlikely to regain it within a reasonable period of time, informed consent must be obtained from the surrogate. Patients who are incapable of giving consent as a matter of law will be deemed to lack decision-making capacity for the purposes of this section.
 
 (i) The following persons are authorized to act as a surrogate to consent on behalf of a patient who lacks decision-making capacity in the following order of priority:
 
@@ -119,7 +120,7 @@
 
 (2) The patient must be informed if a proposed course of treatment or procedure involves approved medical research in whole or in part. If so, the patient's separate informed consent must be obtained for the components that constitute research pursuant to the informed consent requirements for human-subjects research set forth in part 16 of this title.
 
-(g) *Advance directives* - (1) *General.* To the extent consistent with applicable Federal law, VA policy, and generally accepted standards of medical practice, VA will follow the wishes of a patient expressed in a valid advance directive when the practitioner determines and documents in the patient's health record that the patient lacks decision-making capacity and is unlikely to regain it within a reasonable period of time. An advance directive that is valid in one or more states under applicable law, including a mental health (or psychiatric) advance directive, a valid Department of Defense advance medical directive, or a valid VA Advance Directive will be recognized throughout the VA health care system, except for components therein that are inconsistent with applicable Federal law, VA policy, or generally accepted standards of medical practice.
+(g) *Advance directives*—(1) *General.* To the extent consistent with applicable Federal law, VA policy, and generally accepted standards of medical practice, VA will follow the wishes of a patient expressed in a valid advance directive when the practitioner determines and documents in the patient's health record that the patient lacks decision-making capacity and is unlikely to regain it within a reasonable period of time. An advance directive that is valid in one or more states under applicable law, including a mental health (or psychiatric) advance directive, a valid Department of Defense advance medical directive, or a valid VA Advance Directive will be recognized throughout the VA health care system, except for components therein that are inconsistent with applicable Federal law, VA policy, or generally accepted standards of medical practice.
 
 (2) *Signing and witness requirements.* (i) A VA Advance Directive must be signed by the patient. If the patient is unable to sign a VA Advance Directive due to a physical impairment, the patient may sign the advance directive form with an “X”, thumbprint, or stamp. In the alternative, the patient may designate a third party to sign the directive at the direction of the patient and in the presence of the patient.
 
@@ -131,4 +132,4 @@
 
 (5) *VA policy and disputes.* Neither the treatment team nor surrogate may override a patient's clear instructions in an advance directive or in instructions given in a critical situation, except that those portions of an advance directive or instructions given in a critical situation that are not consistent with applicable Federal law, VA policy, or generally accepted standards of medical practice will not be given effect.
 
-(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0556)[62 FR 53961, Oct. 17, 1997, as amended at 70 FR 71774, Nov. 30, 2005; 71 FR 68740, Nov. 28, 2006; 72 FR 10366, Mar. 8, 2007; 74 FR 34503, July 16, 2009; 85 FR 31701, May 27, 2020; 87 FR, Feb. 4, 2022]
+(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0556)[62 FR 53961, Oct. 17, 1997, as amended at 70 FR 71774, Nov. 30, 2005; 71 FR 68740, Nov. 28, 2006; 72 FR 10366, Mar. 8, 2007; 74 FR 34503, July 16, 2009; 85 FR 31701, May 27, 2020; 87 FR 6427, Feb. 4, 2022]
