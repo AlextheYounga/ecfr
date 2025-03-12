@@ -14,7 +14,7 @@
 
 (1) No. 000061 for use of the 43-µg/mL product described in paragraph (a)(1) as in paragraphs (e)(1)(i) and (iii) of this section.
 
-(2) No. 068504 for use of the 100-µg/mL product described in paragraph (a)(2) as in paragraph (e)(1)(iv) of this section.
+(2) No. 068504 for use of the 100-µg/mL product described in paragraph (a)(2) as in paragraphs (d)(1)(i) and (iv) of this section.
 
 (3) Nos. 000010 and 061133 for use of the 50-µg/mL product described in paragraph (a)(3) of this section as in paragraphs (e)(1)(i) and (v) of this section.
 
@@ -30,11 +30,11 @@
 
 (iii) Cloprostenol injection for use as in paragraph (e)(1)(v) of this section as provided by Nos. 000010 in § 510.600(c) of this chapter.
 
-(iv) Dinoprost injection for use as in paragraph (e)(1)(vi) of this section as provided by Nos. 054771 and 061133 in § 510.600(c) of this chapter.
+(iv) Dinoprost injection for use as in paragraph (e)(1)(vi) of this section as provided by No. 054771 in § 510.600(c) of this chapter.
 
 (2) Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(e) *Conditions of use in cattle*—(1) *Indications for use and amounts.* (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061) or 100 µg gonadorelin diacetate tetrahydrate (Nos. 000010 and 061133) by intramuscular or intravenous injection.
+(e) *Conditions of use in cattle*—(1) *Indications for use and amounts.* (i) For the treatment of ovarian follicular cysts in dairy cattle: Administer 86 µg gonadorelin (No. 000061), or 100 µg gonadorelin diacetate tetrahydrate (Nos. 000010 and 061133), or 100 µg gonadorelin (as gonadorelin acetate; No. 068504) by intramuscular or intravenous injection.
 
 (ii) For the treatment of ovarian follicular cysts in cattle: Administer 100 µg gonadorelin hydrochloride by intramuscular injection.
 
@@ -48,4 +48,4 @@
 
 (2) [Reserved]
 
-[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019; 84 FR 39184, Aug. 9, 2019; 84 FR 32992, July 11, 2019; 86 FR 13184, Mar. 8, 2021; 86 FR 14820, Mar. 19, 2021; 87 FR 17946, Mar. 29, 2022]
+[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019; 84 FR 39184, Aug. 9, 2019; 84 FR 32992, July 11, 2019; 86 FR 13184, Mar. 8, 2021; 86 FR 14820, Mar. 19, 2021; 87 FR 17946, Mar. 29, 2022; 88 FR 27699, May 3, 2023]

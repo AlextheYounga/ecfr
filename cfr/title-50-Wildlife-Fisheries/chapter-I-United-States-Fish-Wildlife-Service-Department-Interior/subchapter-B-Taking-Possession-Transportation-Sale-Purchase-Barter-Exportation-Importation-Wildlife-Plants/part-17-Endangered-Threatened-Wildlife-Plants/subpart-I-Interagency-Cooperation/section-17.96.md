@@ -1,7 +1,5 @@
 ##### § 17.96 Critical habitat—plants. #####
 
-Link to an amendment published at 88 FR 7146, Feb. 2, 2023.Link to an amendment published at 88 FR 12592, Feb. 28, 2023.Link to an amendment published at 88 FR 21867, Apr. 11, 2023.Link to an amendment published at 88 FR 25238, Apr. 25, 2023.
-
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
@@ -4006,13 +4004,13 @@ Map provided is for informational purposes only. Map follows:
 
 (8) Units 1-4 (Map 1) follow:
 
-![](/graphics/er10fe06.055.gif)Family Limnanthaceae: *Limnanthes floccosa* ssp. *grandiflora* (large-flowered woolly meadowfoam)
+![](/graphics/er10fe06.055.gif)Family Limnanthaceae: *Limnanthes pumila* ssp. *grandiflora* (large-flowered woolly meadowfoam)
 
 (1) Critical habitat units for Jackson County, Oregon, are depicted on the maps below.
 
-(2) The primary constituent elements of critical habitat for *Limnanthes floccosa* ssp. *grandiflora* are the following habitat components:
+(2) The primary constituent elements of critical habitat for *Limnanthes pumila* ssp. *grandiflora* are the following habitat components:
 
-(i) Vernal pools or ephemeral wetlands and the adjacent upland margins of these depressions that hold water for a sufficient length of time to sustain *Limnanthes floccosa* ssp. *grandiflora* germination, growth, and reproduction, occurring in the Rogue River Valley vernal pool landscape. These vernal pools or ephemeral wetlands are seasonally inundated during wet years but do not necessarily fill with water every year due to natural variability in rainfall, and support native plant populations. Areas of sufficient size and quality are likely to have the following characteristics:
+(i) Vernal pools or ephemeral wetlands and the adjacent upland margins of these depressions that hold water for a sufficient length of time to sustain *Limnanthes pumila* ssp. *grandiflora* germination, growth, and reproduction, occurring in the Rogue River Valley vernal pool landscape. These vernal pools or ephemeral wetlands are seasonally inundated during wet years but do not necessarily fill with water every year due to natural variability in rainfall, and support native plant populations. Areas of sufficient size and quality are likely to have the following characteristics:
 
 (A) Elevations from 372 to 469 m (1,220 to 1,540 ft);
 
@@ -4024,77 +4022,77 @@ Map provided is for informational purposes only. Map follows:
 
 (iii) Silt, loam, and clay soils that are of alluvial origin, with a 0 to 3 percent slope, primarily classified as Agate-Winlo complex soils, but also including Coker clay, Carney clay, Provig-Agate complex soils, and Winlo very gravelly loam soils.
 
-(iv) No or negligible presence of competitive, nonnative, invasive plant species. Negligible is defined for the purpose of this rule as a minimal level of nonnative plant species that will still allow *Limnanthes floccosa* ssp. *grandiflora* to continue to survive and recover.
+(iv) No or negligible presence of competitive, nonnative, invasive plant species. Negligible is defined for the purpose of this rule as a minimal level of nonnative plant species that will still allow *Limnanthes pumila* ssp. *grandiflora* to continue to survive and recover.
 
 (3) Critical habitat does not include manmade structures (including, but not limited to, buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on the effective date of this rule and not containing one or more of the primary constituent elements.
 
 (4) *Critical habitat unit maps.* These critical habitat units were mapped using Universal Transverse Mercator, Zone 10, North American Datum 1983 (UTM NAD 83) coordinates. These coordinates establish the vertices and endpoints of the boundaries of the units.
 
-(5) Note: Index map for critical habitat for *Limnanthes floccosa* ssp. *grandiflora* in Jackson County, Oregon, follows:
+(5) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Index map for critical habitat in Jackson County, Oregon, follows:
 
 ![](/graphics/er21jy10.018.gif)
 
-(6) Unit RV1 for *Limnanthes floccosa ssp. grandiflora:* Shady Cove, Jackson County, Oregon.
+(6) Unit RV1 for *Limnanthes pumila ssp. grandiflora:* Shady Cove, Jackson County, Oregon.
 
 (i) Unit RV1 consists of approximately 8 ha (20 ha) of intact vernal pool-mounded prairie habitat. The unit is located 460 m (1,500 ft) west of Highway 62 and parallels a 430-m (1,411-ft) stretch of the highway. The unit is 0.8 km (0.5 mi) south of Shady Cove, 1.3 km (0.8 mi) northeast of Takelma Park, and 122 m (400 ft) east of the Rogue River.
 
-(ii) Map of Unit RV1 for *Limnanthes floccosa* ssp*. grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV1 follows:
 
 ![](/graphics/er21jy10.019.gif)
 
-(7) Unit RV2 for *Limnanthes floccosa* ssp. *grandiflora:* Hammel Road, Jackson County, Oregon.
+(7) Unit RV2 for *Limnanthes pumila* ssp. *grandiflora:* Hammel Road, Jackson County, Oregon.
 
 (i) Unit RV2 is composed of four subunits and comprises approximately 69 ha (169 ac) of vernal pool-mounded prairie. The unit is located 1.2 km (0.75 mi) northeast of the confluence of Reese Creek and the Rogue River, 1.3 km (0.8 mi) west of Highway 62, and 430 m (1,400 ft) east of the Rogue River.
 
-(ii) Map of Unit RV2 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV2 follows:
 
 ![](/graphics/er21jy10.020.gif)
 
-(8) Unit RV3 for *Limnanthes floccosa* ssp. *grandiflora:* North Eagle Point, Jackson County, Oregon.
+(8) Unit RV3 for *Limnanthes pumila* ssp. *grandiflora:* North Eagle Point, Jackson County, Oregon.
 
 (i) Unit RV3 is composed of four subunits and totals 490 ha (1,210 ac) of intact vernal pool habitat. The unit is located southwest of Mosser Mountain and northeast of Long Mountain. The four subunits loosely follow a 6.9-km (4.3-mi) stretch of Hog Creek beginning at its origin. Originating 3.8 km (2.4 mi) east of Highway 62 in subunit RV3D, Hog Creek runs through RV3C, crosses Highway 62, flows between RV3B (located 100 m (328 ft) west of Highway 62) and RV3A (located 600 m (1,970 ft) west of Highway 62), before emptying into the Rogue River after 2.4 km (1.5 mi). Subunit RV3A is located 560 m (1,837 ft) southeast of the confluence of Reese Creek and the Rogue River. Subunit RV3B is located 100 m (328 ft) west of Highway 62 at the intersection of Ball Road and extends along an 835-m (2,740-ft) stretch of Hog Creek. Subunit RV3C is located 2 km (1.2 mi) north of Eagle Point (see Index map) and extends 2.6 km (1.6 mi) south of the junction of Ball Road and Reese Creek Road. Subunit RV3D is located 3.2 km (2 mi) east of Long Mountain and is 2.4 km (1.5 mi) southeast of the junction of Highway 62 and Ball Road. It extends along a 1.8-km (1.1-mi) stretch of Hog Creek.
 
-(ii) Map of Unit RV3 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV3 follows:
 
 ![](/graphics/er21jy10.021.gif)
 
-(9) Unit RV4 for *Limnanthes floccosa* ssp. *grandiflora:* Rogue Plains, Jackson County, Oregon.
+(9) Unit RV4 for *Limnanthes pumila* ssp. *grandiflora:* Rogue Plains, Jackson County, Oregon.
 
 (i) Unit RV4 consists of 243 ha (600 ac) of partially intact vernal pool-mounded prairie habitat. The unit is located 122 m (400 ft) southeast of the junction of Highway 234 and Modoc Road. It extends 2 km (1.2 mi) south along Modoc Road from the intersection, is located 1.4 km (0.87 mi) southwest of Dodge Bridge, and is 1.0 km (0.6 mi) northwest of Rattlesnake Rapids on the Rogue River.
 
-(ii) Map of Unit RV4 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV4 follows:
 
 ![](/graphics/er21jy10.022.gif)
 
-(10) Unit RV5 for *Limnanthes floccosa ssp. grandiflora:* Table Rock Terrace, Jackson County, Oregon.
+(10) Unit RV5 for *Limnanthes pumila ssp. grandiflora:* Table Rock Terrace, Jackson County, Oregon.
 
 (i) Unit RV5 includes 49 ha (122 ac) of intact vernal pool-mounded prairie habitat. The unit is located on privately owned land 670 m (2,200 ft) north of the junction of Modoc and Antioc Roads, is 1.4 km (0.9 mi) east of Upper Table Rock, and is 650 m (2,300 ft) west of the Rogue River. This unit follows along an 800-m (2,600-ft) stretch of Modoc Road to the east of the unit and along a 700-m (2,300-ft) stretch of Antioc Road to the west of the unit.
 
-(ii) Map of Unit RV5 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV5 follows:
 
 ![](/graphics/er21jy10.023.gif)
 
-(11) Unit RV6 for *Limnanthes floccosa* ssp. *grandiflora:* White City, Jackson County, Oregon.
+(11) Unit RV6 for *Limnanthes pumila* ssp. *grandiflora:* White City, Jackson County, Oregon.
 
-(i) Unit RV6 for *Limnanthes floccosa* ssp. *grandiflora* consists of eight subunits totaling 740 ha (1,829 ac) in size and includes intact vernal pool-mounded prairie and swale habitats. The unit is located around White City, is 1.6 km (1.0 mi) southwest of Eagle Point, and is 440 m (1,444 ft) southeast of the confluence of the Rogue River and Little Butte Creek. Subunit RV6A is located north of Whetstone Creek and is 500 m (1,200 ft) west of the junction of Highway 62 and Antelope Road. Subunits RV6B, RV6C, RV6D, and RV6E are located north of Avenue G in White City, south of Little Butte Creek, and 670 m (2,200 ft) southwest of Antelope Creek. Subunits RV6F and RV6G are located approximately 500 feet west of Dry Creek and are east of Highway 62 in White City. Subunit RV6H is located north of Whetstone Creek and south of Antelope Road. Subunit RV6H roughly encircles the Hoover Ponds, east of Highway 62, and is 850 m (2,790 ft) east of subunit RV6A.
+(i) Unit RV6 for *Limnanthes pumila* ssp. *grandiflora* consists of eight subunits totaling 740 ha (1,829 ac) in size and includes intact vernal pool-mounded prairie and swale habitats. The unit is located around White City, is 1.6 km (1.0 mi) southwest of Eagle Point, and is 440 m (1,444 ft) southeast of the confluence of the Rogue River and Little Butte Creek. Subunit RV6A is located north of Whetstone Creek and is 500 m (1,200 ft) west of the junction of Highway 62 and Antelope Road. Subunits RV6B, RV6C, RV6D, and RV6E are located north of Avenue G in White City, south of Little Butte Creek, and 670 m (2,200 ft) southwest of Antelope Creek. Subunits RV6F and RV6G are located approximately 500 feet west of Dry Creek and are east of Highway 62 in White City. Subunit RV6H is located north of Whetstone Creek and south of Antelope Road. Subunit RV6H roughly encircles the Hoover Ponds, east of Highway 62, and is 850 m (2,790 ft) east of subunit RV6A.
 
-(ii) Map of Unit RV6 for *Limnanthes floccosa* ssp*. grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV6 follows:
 
 ![](/graphics/er21jy10.024.gif)
 
-(12) Unit RV7 for *Limnanthes floccosa* spp. *grandiflora:* Agate Lake, Jackson County, Oregon.
+(12) Unit RV7 for *Limnanthes pumila* spp. *grandiflora:* Agate Lake, Jackson County, Oregon.
 
 (i) Unit RV7 consists of 421 ha (1,039 ac) of intact vernal pool-mounded prairie and swale habitat. The unit is located 500 m (1,640 ft) east of the Agate Reservoir, lies along a 5.4-km (3.4-mi) stretch roughly parallel and between Dry Creek and Antelope Creek, is 330 m (1,080 ft) north of Tater Hill, and is 1.4 km (0.9 mi) southeast of the confluence of Dry Creek and Antelope Creek.
 
-(ii) Map of Unit RV7 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV7 follows:
 
 ![](/graphics/er21jy10.025.gif)
 
-(13) Unit RV8 for *Limnanthes floccosa ssp. grandiflora:* Whetstone Creek, Jackson County, Oregon.
+(13) Unit RV8 for *Limnanthes pumila ssp. grandiflora:* Whetstone Creek, Jackson County, Oregon.
 
 (i) Unit RV8 consists of 344 ha (850 ac) of intact vernal pool-mounded prairie and swale habitat. The unit is located approximately 1.4 km (0.9 mi) southeast of the confluence of the Rogue River and Whetstone Creek, 2.2 km (1.4 mi) southwest of Tou Velle State Park, and 2.9 km southeast of the confluence of Bear Creek and the Rogue River. The unit roughly parallels a 2.6-km (1.6-mi) stretch of Whetstone Creek to the south.
 
-(ii) Map of Unit RV8 for *Limnanthes floccosa* ssp. *grandiflora* follows:
+(ii) Note: The reference to “*Limnanthes floccosa* ssp. *grandiflora”* on the map is equivalent to “*Limnanthes pumila* ssp. *grandiflora.”* Map of Unit RV8 follows:
 
 ![](/graphics/er21jy10.026.gif)Family Linaceae: *Linum carteri* var. *carteri* (Carter's small-flowered flax)
 

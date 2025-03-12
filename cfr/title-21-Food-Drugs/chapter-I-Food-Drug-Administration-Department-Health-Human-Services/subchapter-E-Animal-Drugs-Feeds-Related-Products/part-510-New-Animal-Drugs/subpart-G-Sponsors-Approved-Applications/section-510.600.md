@@ -76,6 +76,7 @@
 |                                                         Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017                                                         |     066794      |
 |                                     Piramal Pharma Ltd., Ground Floor, Piramal Ananta, Agastya Corporate Park, Mumbai, Maharashtra, 400070, India                                      |     065085      |
 |                              Planalquimica Industrial Ltda., Rua das Magnolias nr. 2405, Jardim das Bandeiras, CEP 13053-120, Campinas, Sao Paulo, Brazil                              |     060728      |
+|                                                             Provetica LLC, 8735 Rosehill Rd., Suite 300, Lenexa, KS 66215                                                              |     086097      |
 |                                                   Purina Animal Nutrition LLC, 4001 Lexington Ave., North Arden Hills, MN 55126-2910                                                   |     017800      |
 |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia                                              |     086132      |
 |                                                            Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349                                                             |     076475      |
@@ -186,6 +187,7 @@
 |     086064      |                                                          Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155.                                                           |
 |     086072      |                                                             VetDC, Inc., 320 E Vine Dr., suite 218, Fort Collins, CO 80524.                                                             |
 |     086073      |                                                    Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043.                                                     |
+|     086097      |                                                             Provetica LLC, 8735 Rosehill Rd., Suite 300, Lenexa, KS 66215.                                                              |
 |     086101      |                                                       Felix Pharmaceuticals Pvt. Ltd., 25-28 North Wall Quay, Dublin 1, Ireland.                                                        |
 |     086106      |                                                                 Union Agener, Inc., 1788 Lovers Ln., Augusta, GA 30901.                                                                 |
 |     086113      |                                                                  Wildcat Feeds, 215 NE Strait Ave., Topeka, KS 66616.                                                                   |

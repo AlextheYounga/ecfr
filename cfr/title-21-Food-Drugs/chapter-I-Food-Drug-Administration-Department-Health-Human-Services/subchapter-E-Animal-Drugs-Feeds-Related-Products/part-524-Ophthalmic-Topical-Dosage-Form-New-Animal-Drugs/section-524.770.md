@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) of solution contains 5 milligrams (mg) doramectin.
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 051072 and 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.222 of this chapter.
 
@@ -14,4 +14,4 @@
 
 (3) *Limitations.* Cattle must not be slaughtered for human consumption within 45 days of treatment. Not for use in female dairy cattle 20 months of age or older. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
 
-[69 FR 48392, Aug. 10, 2004, as amended at 70 FR 43046, July 26, 2005; 79 FR 10967, Feb. 27, 2014; 84 FR 32993, July 11, 2019; 87 FR 10970, Feb. 28, 2022]
+[69 FR 48392, Aug. 10, 2004, as amended at 70 FR 43046, July 26, 2005; 79 FR 10967, Feb. 27, 2014; 84 FR 32993, July 11, 2019; 87 FR 10970, Feb. 28, 2022; 88 FR 27700, May 3, 2023]

@@ -1,5 +1,7 @@
 ##### § 800.117 Who shall perform original services. #####
 
+Link to an amendment published at 88 FR 27690, May 3, 2023.
+
 (a) *General.* Original services shall be performed by the agency or field office assigned the area in which the service will be provided, except as provided in paragraph (b) of this section.
 
 (b) *Exceptions for official agencies to provide service*—(1) *Timely service.* If the assigned official agency cannot provide service within 6 hours of a request, the service may be provided by another official agency upon approval from the Service.

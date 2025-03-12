@@ -22,7 +22,7 @@
 
 (i) *Indications for use.* Control and treatment of bacterial enteritis (scours) caused by *E. coli* and *Salmonella* spp. and bacterial pneumonia associated with *Pasteurella* spp., *Haemophilus* spp., and *Klebsiella* spp., susceptible to chlortetracycline.
 
-(ii) *Limitations.* Administer tablet directly by mouth or crush and dissolve in water for drenching; if no improvement is noted after 3 days of treatment, consult a veterinarian; do not use for more than 5 days; when feeding milk or milk replacer, administration 1 hour before or 2 hours after feeding; do not administer within 24 hours of slaughter.
+(ii) *Limitations.* Administer tablet directly by mouth or crush and dissolve in water for drenching; if no improvement is noted after 3 days of treatment, consult a veterinarian; do not use for more than 5 days; when feeding milk or milk replacer, administration 1 hour before or 2 hours after feeding; do not administer within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (3) *Amount.* One 500 milligram bolus per 100 pounds of body weight twice a day for 3 to 5 days.
 
@@ -30,4 +30,4 @@
 
 (ii) *Limitations.* Do not use for more than 5 days. Do not administer within 24 hours of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016; 88 FR 16547, Mar. 20, 2023]
+[57 FR 37325, Aug. 18, 1992, as amended at 67 FR 78355, Dec. 24, 2002. Redesignated and amended at 76 FR 49649, Aug. 11, 2011; 78 FR 21059, Apr. 9, 2013; 81 FR 17607, Mar. 30, 2016; 88 FR 16547, Mar. 20, 2023; 88 FR 27698, May 3, 2023]

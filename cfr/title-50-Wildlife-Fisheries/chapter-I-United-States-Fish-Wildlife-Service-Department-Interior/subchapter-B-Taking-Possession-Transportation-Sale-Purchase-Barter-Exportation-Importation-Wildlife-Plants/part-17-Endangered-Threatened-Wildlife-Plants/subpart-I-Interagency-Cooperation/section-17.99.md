@@ -1,7 +1,5 @@
 ##### § 17.99 Critical habitat; plants on the Hawaiian Islands. #####
 
-Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
-
 (a) *Maps and critical habitat unit descriptions for the islands of Kauai and Niihau, HI.* The following paragraphs contain the legal descriptions of the critical habitat units designated for the Hawaiian Islands of Kauai and Niihau. Existing manmade features and structures within the boundaries of the mapped areas, such as buildings; roads; aqueducts and other water system features, including but not limited to pumping stations, irrigation ditches, pipelines, siphons, tunnels, water tanks, gaging stations, intakes, reservoirs, diversions, flumes, and wells; existing trails; campgrounds and their immediate surrounding landscaped area; scenic lookouts; remote helicopter landing sites; existing fences; telecommunications equipment towers and associated structures and equipment; electrical power transmission lines and distribution, and communication facilities and regularly maintained associated rights-of-way and access ways; radars, telemetry antennas; missile launch sites; arboreta and gardens; heiau (indigenous places of worship or shrines), and other archaeological sites; airports; other paved areas; and lawns and other rural residential landscaped areas do not contain one or more of the primary constituent elements described for each species in paragraph (b) of this section and therefore are not included in the critical habitat designations.
 
 (1) *Kauai.* Critical habitat units are described below. Coordinates are in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The following map shows the general locations of the critical habitat units designated on the island of Kauai.
@@ -44,9 +42,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (vi) Kauai 4-*Chamaesyce remyi* var. *kauaiensis*-a
 
-(A) This is a unit of the Wet Cliff ecosystem and consists of 38 ac (15.4 ha). This unit is also critical habitat for Kauai 4-*Chamaesyce remyi* var. *remyi*-a, Kauai 4-*Cyanea dolichopoda*-a, Kauai 4-*Cyrtandra oenobarba*-a, Kauai 4-*Cyrtandra paliku*-a, Kauai 4-*Dubautia plantaginea* ssp. *magnifolia*-a, Kauai 4-*Lysimachia iniki*-a, Kauai 4-*Lysimachia pendens*-a, Kauai 4- *Lysimachia venosa*-a, and Kauai 4-*Platydesma rostrata*-a (see paragraphs (a)(1)(vii), (a)(1)(ix), (a)(1)(xvi), (a)(1)(xvii), (a)(1)(xviii), (a)(1)(xxv), (a)(1)(xxvi), (a)(1)(xxvii), and (a)(1)(xxix), respectively, of this section).
+(A) This is a unit of the Wet Cliff ecosystem and consists of 38 ac (15.4 ha). This unit is also critical habitat for Kauai 4-*Chamaesyce remyi* var. *remyi*-a, Kauai 4-*Cyanea dolichopoda*-a, Kauai 4-*Cyrtandra oenobarba*-a, Kauai 4-*Cyrtandra paliku*-a, Kauai 4-*Dubautia plantaginea* ssp. *magnifolia*-a, Kauai 4-*Lysimachia iniki*-a, Kauai 4-*Lysimachia pendens*-a, Kauai 4- *Lysimachia venosa*-a, and Kauai 4-*Melicope rostrata*-a (see paragraphs (a)(1)(vii), (a)(1)(ix), (a)(1)(xvi), (a)(1)(xvii), (a)(1)(xviii), (a)(1)(xxv), (a)(1)(xxvi), (a)(1)(xxvii), and (a)(1)(xxix), respectively, of this section).
 
-(B) Map 5a follows:
+(B) *Note:* The reference to “Kauai 4—*Platydesma rostrata*—a” on the map is equivalent to “Kauai 4—*Melicope rostrata*—a”. Map 5a follows:
 
 ![](/graphics/er13ap10.036.gif)
 
@@ -102,19 +100,19 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.010.gif)
 
-(xiv) Kauai 4—*Cyrtandra limahuliensis*—a (501 ha; 1,237 ac)
+(xiv) Kauai 4-*Cyrtandra kealiae* ssp. *kealiae*-a (501 ha; 1,237 ac)
 
 (A) [Reserved]
 
-(B) Map 11 follows:
+(B) *Note:* The reference to “Unit 4—*Cyrtandra limahuliensis*—a” on the map is equivalent to “Kauai 4—*Cyrtandra kealiae* ssp. *kealiae*—a”. Map 11 follows:
 
 ![](/graphics/er27fe03.011.gif)
 
-(xv) Kauai 4—*Cyrtandra limahuliensis*—b (353 ha; 873 ac)
+(xv) Kauai 4—*Cyrtandra kealiae* ssp. *kealiae*—b (353 ha; 873 ac)
 
 (A) [Reserved]
 
-(B) Map 12 follows:
+(B) *Note:* The reference to “Unit 4—*Cyrtandra limahuliensis*—b” on the map is equivalent to “Kauai 4—*Cyrtandra kealiae* ssp. *kealiae*—b”. Map 12 follows:
 
 ![](/graphics/er27fe03.012.gif)
 
@@ -210,7 +208,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.019.gif)
 
-(xxix) Kauai 4-*Platydesma rostrata*-a
+(xxix) Kauai 4—*Melicope rostrata*—a
 
 (A) [Reserved]
 
@@ -250,9 +248,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (xxxiv) Kauai 7-*Canavalia napaliensis*-a (37 ac; 15 ha)
 
-(A) This is a unit of the Lowland Mesic ecosystem and consists of 37 ac (15 ha). This unit is also critical habitat for Kauai 7-*Chamaesyce eleanoriae*-a, Kauai 7-*Chamaesyce remyi* var. *remyi*-b, Kauai 7-*Charpentiera densiflora*-a, Kauai 7-*Doryopteris angelica*-a, Kauai 7-*Dubautia kenwoodii*-a, Kauai 7-*Labordia helleri*-a, Kauai 7-*Pittosporum napaliense*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 7-*Psychotria hobdyi*-a, and Kauai 7-*Tetraplasandra bisattenuata*-a (see paragraphs (a)(1)(xxxv), (a)(1)(xxxvi), (a)(1)(xxxvii), (a)(1)(xxxix), (a)(1)(xl), (a)(1)(xlii), (a)(1)(xlviii), (a)(1)(xlix), (a)(1)(l), and (a)(1)(liii), respectively, of this section).
+(A) This is a unit of the Lowland Mesic ecosystem and consists of 37 ac (15 ha). This unit is also critical habitat for Kauai 7-*Chamaesyce eleanoriae*-a, Kauai 7-*Chamaesyce remyi* var. *remyi*-b, Kauai 7-*Charpentiera densiflora*-a, Kauai 7-*Doryopteris angelica*-a, Kauai 7-*Dubautia kenwoodii*-a, Kauai 7-*Labordia helleri*-a, Kauai 7-*Pittosporum napaliense*-a, Kauai 7—*Melicope rostrata*—b, Kauai 7-*Psychotria hobdyi*-a, and Kauai 7-*Tetraplasandra bisattenuata*-a (see paragraphs (a)(1)(xxxv), (a)(1)(xxxvi), (a)(1)(xxxvii), (a)(1)(xxxix), (a)(1)(xl), (a)(1)(xlii), (a)(1)(xlviii), (a)(1)(xlix), (a)(1)(l), and (a)(1)(liii), respectively, of this section).
 
-(B) Map 23a follows:
+(B) *Note:* The reference to “Kauai 7—*Platydesma rostrata*—b” on the map is equivalent to “Kauai 7—*Melicope rostrata*—b”. Map 23a follows:
 
 ![](/graphics/er13ap10.037.gif)
 
@@ -354,7 +352,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(xxxiv)(B) of this section for the map of this unit.
 
-(xlix) Kauai 7-*Platydesma rostrata*-b
+(xlix) Kauai 7—*Melicope rostrata*—b
 
 (A) [Reserved]
 
@@ -414,9 +412,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (lvii) Kauai 10—*Astelia waialealae*—a
 
-(A) This is a unit of the Montane Wet ecosystem and consists of 99 ac (40 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-c, Kauai 10-*Dryopteris crinalis* var. *podosorus*-a, Kauai 10-*Dubautia kalalauensis*-a, Kauai 10-*Dubautia waialealae*-a, Kauai 10-*Geranium kauaiense*-a, Kauai 10-*Keysseria erici*-a, Kauai 10-*Keysseria helenae*-a, Kauai 10-*Labordia helleri*-b, Kauai 10-*Labordia pumila*-a, Kauai 10-*Lysimachia daphnoides*-a, Kauai 10-*Melicope degeneri*-a, Kauai 10-*Melicope puberula*-a, Kauai 10-*Myrsine mezii*-a, Kauai 10-*Phyllostegia renovans*-a, Kauai 10-*Platydesma rostrata*-c, Kauai 10-*Psychotria grandiflora*-a, and Kauai 10-*Tetraplasandra flynnii*-a (see paragraphs (a)(1)(lxi), (a)(1)(lxxvi), (a)(1)(lxxviii), (a)(1)(lxxxi), (a)(1)(lxxxiii), (a)(1)(lxxxvi), (a)(1)(lxxxvii), (a)(1)(lxxxviii), (a)(1)(xci), (a)(1)(xciii), (a)(1)(xcviii), (a)(1)(c), (a)(1)(ciii), (a)(1)(cv), (a)(1)(cviii), (a)(1)(cxi), and (a)(1)(cxv), respectively, of this section).
+(A) This is a unit of the Montane Wet ecosystem and consists of 99 ac (40 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-c, Kauai 10-*Dryopteris crinalis* var. *podosorus*-a, Kauai 10-*Dubautia kalalauensis*-a, Kauai 10-*Dubautia waialealae*-a, Kauai 10-*Geranium kauaiense*-a, Kauai 10-*Keysseria erici*-a, Kauai 10-*Keysseria helenae*-a, Kauai 10-*Labordia helleri*-b, Kauai 10-*Labordia pumila*-a, Kauai 10-*Lysimachia daphnoides*-a, Kauai 10-*Melicope degeneri*-a, Kauai 10-*Melicope puberula*-a, Kauai 10-*Myrsine mezii*-a, Kauai 10-*Phyllostegia renovans*-a, Kauai 10—*Melicope rostrata*—c, Kauai 10-*Psychotria grandiflora*-a, and Kauai 10-*Tetraplasandra flynnii*-a (see paragraphs (a)(1)(lxi), (a)(1)(lxxvi), (a)(1)(lxxviii), (a)(1)(lxxxi), (a)(1)(lxxxiii), (a)(1)(lxxxvi), (a)(1)(lxxxvii), (a)(1)(lxxxviii), (a)(1)(xci), (a)(1)(xciii), (a)(1)(xcviii), (a)(1)(c), (a)(1)(ciii), (a)(1)(cv), (a)(1)(cviii), (a)(1)(cxi), and (a)(1)(cxv), respectively, of this section).
 
-(B) Map 35a follows:
+(B) *Note:* The reference to “Kauai 10—*Platydesma rostrata*—c” on the map is equivalent to “Kauai 10—*Melicope rostrata*—c”. Map 35a follows:
 
 ![](/graphics/er13ap10.038.gif)
 
@@ -430,17 +428,17 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (lix) Kauai 10-*Chamaesyce remyi* var. *kauaiensis*-b
 
-(A) This is a unit of the Lowland Wet ecosystem and consists of 2,330 ac (943 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-d, Kauai 10-*Charpentiera densiflora*-b, Kauai 10-*Cyanea eleeleensis*-a, Kauai 10-*Cyanea kolekoleensis*-a, Kauai 10-*Cyanea kuhihewa*-a, Kauai 10-*Cyrtandra oenobarba*-b, Kauai 10-*Dubautia imbricata* ssp. *imbricata*-a, Kauai 10-*Labordia helleri*-c, Kauai 10-*Melicope paniculata*-a, Kauai 10-*Melicope puberula*-b, Kauai 10-*Phyllostegia renovans*-b, Kauai 10-*Platydesma rostrata*-d, Kauai 10-*Stenogyne kealiae*-a, Kauai 10-*Tetraplasandra bisattenuata*-b, and Kauai 10-*Tetraplasandra flynii*-b, (see paragraphs (a)(1)(lxii), (a)(1)(lxiv), (a)(1)(lxvii), (a)(1)(lxviii), (a)(1)(lxix), (a)(1)(lxxiii), (a)(1)(lxxvii), (a)(1)(lxxxix), (a)(1)(xcix), (a)(1)(ci), (a)(1)(cvi), (a)(1)(cix), (a)(1)(cxiii), (a)(1)(cxiv), and (a)(1)(cxvi), respectively, of this section).
+(A) This is a unit of the Lowland Wet ecosystem and consists of 2,330 ac (943 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-d, Kauai 10-*Charpentiera densiflora*-b, Kauai 10-*Cyanea eleeleensis*-a, Kauai 10-*Cyanea kolekoleensis*-a, Kauai 10-*Cyanea kuhihewa*-a, Kauai 10-*Cyrtandra oenobarba*-b, Kauai 10-*Dubautia imbricata* ssp. *imbricata*-a, Kauai 10-*Labordia helleri*-c, Kauai 10-*Melicope paniculata*-a, Kauai 10-*Melicope puberula*-b, Kauai 10-*Phyllostegia renovans*-b, Kauai 10—*Melicope rostrata*—d, Kauai 10-*Stenogyne kealiae*-a, Kauai 10-*Tetraplasandra bisattenuata*-b, and Kauai 10-*Tetraplasandra flynii*-b, (see paragraphs (a)(1)(lxii), (a)(1)(lxiv), (a)(1)(lxvii), (a)(1)(lxviii), (a)(1)(lxix), (a)(1)(lxxiii), (a)(1)(lxxvii), (a)(1)(lxxxix), (a)(1)(xcix), (a)(1)(ci), (a)(1)(cvi), (a)(1)(cix), (a)(1)(cxiii), (a)(1)(cxiv), and (a)(1)(cxvi), respectively, of this section).
 
-(B) Map 36a follows:
+(B) *Note:* The reference to “Kauai 10—*Platydesma rostrata*—d” on the map is equivalent to “Kauai 10—*Melicope rostrata*—d”. Map 36a follows:
 
 ![](/graphics/er13ap10.039.gif)
 
 (lx) Kauai 10-*Chamaesyce remyi* var. *kauaiensis*-c
 
-(A) This is a unit of the Wet Cliff ecosystem and consists of 489 ac (198 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-e, Kauai 10-*Cyanea dolichopoda*-b, Kauai 10-*Cyrtandra oenobarba*-c, Kauai 10-*Cyrtandra paliku*-b, Kauai 10-*Dubautia plantaginea* ssp. *magnifolia*-b, Kauai 10-*Lysimachia iniki*-b, Kauai 10-*Lysimachia pendens*-b, Kauai 10-*Lysimachia venosa*-b, and Kauai 10-*Platydesma rostrata*-e (see paragraphs (a)(1)(lxiii), (a)(1)(lxvi), (a)(1)(lxxiv), (a)(1)(lxxv), (a)(1)(lxxx), (a)(1)(xcv), (a)(1)(xcvi), (a)(1)(xcvii), and (a)(1)(cx), respectively, of this section).
+(A) This is a unit of the Wet Cliff ecosystem and consists of 489 ac (198 ha). This unit is also critical habitat for Kauai 10-*Chamaesyce remyi* var. *remyi*-e, Kauai 10-*Cyanea dolichopoda*-b, Kauai 10-*Cyrtandra oenobarba*-c, Kauai 10-*Cyrtandra paliku*-b, Kauai 10-*Dubautia plantaginea* ssp. *magnifolia*-b, Kauai 10-*Lysimachia iniki*-b, Kauai 10-*Lysimachia pendens*-b, Kauai 10-*Lysimachia venosa*-b, and Kauai 10—*Melicope rostrata*—e (see paragraphs (a)(1)(lxiii), (a)(1)(lxvi), (a)(1)(lxxiv), (a)(1)(lxxv), (a)(1)(lxxx), (a)(1)(xcv), (a)(1)(xcvi), (a)(1)(xcvii), and (a)(1)(cx), respectively, of this section).
 
-(B) Map 36b follows:
+(B) *Note:* The reference to “Kauai 10—*Platydesma rostrata*—e” on the map is equivalent to “Kauai 10—*Melicope rostrata*—e”. Map 36b follows:
 
 ![](/graphics/er13ap10.040.gif)
 
@@ -516,11 +514,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.038.gif)
 
-(lxxii) Kauai 10—*Cyrtandra limahuliensis*—c (2,013 ha; 4,975 ac)
+(lxxii) Kauai 10—*Cyrtandra kealiae* ssp. *kealiae*—c (2,013 ha; 4,975 ac)
 
 (A) [Reserved]
 
-(B) Map 40 follows:
+(B) *Note:* The reference to “Unit 10—*Cyrtandra limahuliensis*—c” on the map is equivalent to “Kauai 10—*Cyrtandra kealiae* ssp. *kealiae*—c”. Map 40 follows:
 
 ![](/graphics/er27fe03.039.gif)
 
@@ -726,11 +724,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(lvii)(B) of this section for the map of this unit.
 
-(civ) Kauai 10—*Huperzia nutans*—a (620 ha; 1,533 ac)
+(civ) Kauai 10—*Phlegmariurus nutans*—a (620 ha; 1,533 ac)
 
 (A) [Reserved]
 
-(B) Map 49 follows:
+(B) *Note:* The reference to “Unit 10—*Huperzia nutans*—a” on the map is equivalent to “Kauai 10—*Phlegmariurus nutans*—a”. Map 49 follows:
 
 ![](/graphics/er18se12.029.gif)
 
@@ -754,19 +752,19 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.049.gif)
 
-(cviii) Kauai 10-*Platydesma rostrata*-c
+(cviii) Kauai 10—*Melicope rostrata*—c
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(lvii)(B) of this section for the map of this unit.
 
-(cix) Kauai 10-*Platydesma rostrata*-d
+(cix) Kauai 10—*Melicope rostrata*—d
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(lix)(B) of this section for the map of this unit.
 
-(cx) Kauai 10-*Platydesma rostrata*-e
+(cx) Kauai 10—*Melicope rostrata*—e
 
 (A) [Reserved]
 
@@ -922,9 +920,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cxxx) Kauai 11—*Astelia waialealae*—b
 
-(A) This is a unit of the Montane Wet ecosystem and consists of 14,096 ac (5,704 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-f, Kauai 11-*Dryopteris crinalis* var. *podosorus*-b, Kauai 11-*Dubautia kalalauensis*-b, Kauai 11-*Dubautia waialealae*-b, Kauai 11-*Geranium kauaiense*-b, Kauai 11-*Keysseria erici*-b, Kauai 11-*Keysseria helenae*-b, Kauai 11-*Labordia helleri*-d, Kauai 11-*Labordia pumila*-b, Kauai 11-*Lysimachia daphnoides*-b, Kauai 11-*Melicope degeneri*-b, Kauai 11-*Melicope puberula*-c, Kauai 11-*Myrsine mezii*-b, Kauai 11-*Phyllostegia renovans*-c, Kauai 11-*Platydesma rostrata*-f, Kauai 11-*Psychotria grandiflora*-b, and Kauai 11-*Tetraplasandra flynnii*-c (see paragraphs (a)(1)(cxlii), (a)(1)(clxxvii), (a)(1)(clxxix), (a)(1)(clxxxv), (a)(1)(cxcix), (a)(1)(ccxvi), (a)(1)(ccxvii), (a)(1)(ccxxii), (a)(1)(ccxxix), (a)(1)(ccxxxv), (a)(1)(ccxli), (a)(1)(ccxlix), (a)(1)(cclviii), (a)(1)(cclxvi), (a)(1)(cclxxvii), (a)(1)(ccxc), and (a)(1)(cccxxxiv), respectively, of this section).
+(A) This is a unit of the Montane Wet ecosystem and consists of 14,096 ac (5,704 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-f, Kauai 11-*Dryopteris crinalis* var. *podosorus*-b, Kauai 11-*Dubautia kalalauensis*-b, Kauai 11-*Dubautia waialealae*-b, Kauai 11-*Geranium kauaiense*-b, Kauai 11-*Keysseria erici*-b, Kauai 11-*Keysseria helenae*-b, Kauai 11-*Labordia helleri*-d, Kauai 11-*Labordia pumila*-b, Kauai 11-*Lysimachia daphnoides*-b, Kauai 11-*Melicope degeneri*-b, Kauai 11-*Melicope puberula*-c, Kauai 11-*Myrsine mezii*-b, Kauai 11-*Phyllostegia renovans*-c, Kauai 11—*Melicope rostrata*—f, Kauai 11-*Psychotria grandiflora*-b, and Kauai 11-*Tetraplasandra flynnii*-c (see paragraphs (a)(1)(cxlii), (a)(1)(clxxvii), (a)(1)(clxxix), (a)(1)(clxxxv), (a)(1)(cxcix), (a)(1)(ccxvi), (a)(1)(ccxvii), (a)(1)(ccxxii), (a)(1)(ccxxix), (a)(1)(ccxxxv), (a)(1)(ccxli), (a)(1)(ccxlix), (a)(1)(cclviii), (a)(1)(cclxvi), (a)(1)(cclxxvii), (a)(1)(ccxc), and (a)(1)(cccxxxiv), respectively, of this section).
 
-(B) Map 64a follows:
+(B) *Note:* The reference to “Kauai 11—*Platydesma rostrata*—f” on the map is equivalent to “Kauai 11—*Melicope rostrata*—f”. Map 64a follows:
 
 ![](/graphics/er13ap10.041.gif)
 
@@ -946,9 +944,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cxxxiii) Kauai 11-*Canavalia napaliensis*-b
 
-(A) This is a unit of the Lowland Mesic ecosystem and consists of 2,590 ac (1,048 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce eleanoriae*-b, Kauai 11-*Chamaesyce remyi* var. *remyi*-g, Kauai 11-*Charpentiera densiflora*-c, Kauai 11-*Doryopteris angelica*-b, Kauai 11-*Dubautia kenwoodii*-b, Kauai 11-*Labordia helleri*-e, Kauai 11-*Pittosporum napaliense*-b, Kauai 11-*Platydesma rostrata*-g, Kauai 11-*Psychotria hobdyi*-b, and Kauai 11-*Tetraplasandra bisattenuata*-c (see paragraphs (a)(1)(cxxxv), (a)(1)(cxliii), (a)(1)(cxlvii), (a)(1)(clxxvi), (a)(1)(clxxx), (a)(1)(ccxxiii), (a)(1)(cclxxii), (a)(1)(cclxxviii), (a)(1)(ccxcii), and (a)(1)(cccxxxii), respectively, of this section).
+(A) This is a unit of the Lowland Mesic ecosystem and consists of 2,590 ac (1,048 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce eleanoriae*-b, Kauai 11-*Chamaesyce remyi* var. *remyi*-g, Kauai 11-*Charpentiera densiflora*-c, Kauai 11-*Doryopteris angelica*-b, Kauai 11-*Dubautia kenwoodii*-b, Kauai 11-*Labordia helleri*-e, Kauai 11-*Pittosporum napaliense*-b, Kauai 11—*Melicope rostrata*—g , Kauai 11-*Psychotria hobdyi*-b, and Kauai 11-*Tetraplasandra bisattenuata*-c (see paragraphs (a)(1)(cxxxv), (a)(1)(cxliii), (a)(1)(cxlvii), (a)(1)(clxxvi), (a)(1)(clxxx), (a)(1)(ccxxiii), (a)(1)(cclxxii), (a)(1)(cclxxviii), (a)(1)(ccxcii), and (a)(1)(cccxxxii), respectively, of this section).
 
-(B) Map 66a follows:
+(B) *Note:* The reference to “Kauai 11—*Platydesma rostrata*—g” on the map is equivalent to “Kauai 11—*Melicope rostrata*—g”. Map 66a follows:
 
 ![](/graphics/er13ap10.042.gif)
 
@@ -1000,17 +998,17 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cxl) Kauai 11-*Chamaesyce remyi* var. *kauaiensis*-d
 
-(A) This is a unit of the Lowland Wet ecosystem and consists of 2,618 ac (1,060 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-h, Kauai 11-*Charpentiera densiflora*-d, Kauai 11-*Cyanea eleeleensis*-b, Kauai 11-*Cyanea kolekoleensis*-b, Kauai 11-*Cyanea kuhihewa*-b, Kauai 11-*Cyrtandra oenobarba*-d, Kauai 11-*Dubautia imbricata* ssp. *imbricata*-b, Kauai 11-*Labordia helleri*-f, Kauai 11-*Melicope paniculata*-b, Kauai 11-*Melicope puberula*-d, Kauai 11-*Phyllostegia renovans*-d, Kauai 11-*Platydesma rostrata*-h, Kauai 11-*Stenogyne kealiae*-c, Kauai 11-*Tetraplasandra bisattenuata*-d, and Kauai 11-*Tetraplasandra flynii*-d (see paragraphs (a)(1)(cxliv), (a)(1)(cxlviii), (a)(1)(cli), (a)(1)(clii), (a)(1)(cliii), (a)(1)(clxiii), (a)(1)(clxxviii), (a)(1)(ccxxiv), (a)(1)(ccxlviii), (a)(1)(ccl), (a)(1)(cclxvii), (a)(1)(cclxxix), (a)(1)(cccxxx), (a)(1)(cccxxxiii), and (a)(1)(cccxxxv) respectively, of this section).
+(A) This is a unit of the Lowland Wet ecosystem and consists of 2,618 ac (1,060 ha). This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-h, Kauai 11-*Charpentiera densiflora*-d, Kauai 11-*Cyanea eleeleensis*-b, Kauai 11-*Cyanea kolekoleensis*-b, Kauai 11-*Cyanea kuhihewa*-b, Kauai 11-*Cyrtandra oenobarba*-d, Kauai 11-*Dubautia imbricata* ssp. *imbricata*-b, Kauai 11-*Labordia helleri*-f, Kauai 11-*Melicope paniculata*-b, Kauai 11-*Melicope puberula*-d, Kauai 11-*Phyllostegia renovans*-d, Kauai 11—*Melicope rostrata*—h, Kauai 11-*Stenogyne kealiae*-c, Kauai 11-*Tetraplasandra bisattenuata*-d, and Kauai 11-*Tetraplasandra flynii*-d (see paragraphs (a)(1)(cxliv), (a)(1)(cxlviii), (a)(1)(cli), (a)(1)(clii), (a)(1)(cliii), (a)(1)(clxiii), (a)(1)(clxxviii), (a)(1)(ccxxiv), (a)(1)(ccxlviii), (a)(1)(ccl), (a)(1)(cclxvii), (a)(1)(cclxxix), (a)(1)(cccxxx), (a)(1)(cccxxxiii), and (a)(1)(cccxxxv) respectively, of this section).
 
-(B) Map 70a follows:
+(B) *Note:* The reference to “Kauai 11—*Platydesma rostrata*—h” on the map is equivalent to “Kauai 11—*Melicope rostrata*—h”. Map 70a follows:
 
 ![](/graphics/er13ap10.044.gif)
 
 (cxli) Kauai 11-*Chamaesyce remyi* var. *kauaiensis*-e
 
-(A) This is a unit of the Wet Cliff ecosystem and consists of 190 ac; 77 ha. This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-i, Kauai 11-*Cyanea dolichopoda*-c, Kauai 11-*Cyrtandra oenobarba*-e, Kauai 11-*Cyrtandra paliku*-c, Kauai 11-*Dubautia plantaginea* ssp. *magnifolia*-c, Kauai 11-*Lysimachia iniki*-c, Kauai 11-*Lysimachia pendens*-c, Kauai 11- *Lysimachia venosa*-c, and Kauai 11-*Platydesma rostrata*-i (see paragraphs (a)(1)(cxlv), (a)(1)(cl), (a)(1)(clxiv), (a)(1)(clxv), (a)(1)(clxxxiv), (a)(1)(ccxxxvi), (a)(1)(ccxxxvii), (a)(1)(ccxxxix), and (a)(1)(cclxxx), respectively, of this section).
+(A) This is a unit of the Wet Cliff ecosystem and consists of 190 ac; 77 ha. This unit is also critical habitat for Kauai 11-*Chamaesyce remyi* var. *remyi*-i, Kauai 11-*Cyanea dolichopoda*-c, Kauai 11-*Cyrtandra oenobarba*-e, Kauai 11-*Cyrtandra paliku*-c, Kauai 11-*Dubautia plantaginea* ssp. *magnifolia*-c, Kauai 11-*Lysimachia iniki*-c, Kauai 11-*Lysimachia pendens*-c, Kauai 11- *Lysimachia venosa*-c, and Kauai 11—*Melicope rostrata*—i (see paragraphs (a)(1)(cxlv), (a)(1)(cl), (a)(1)(clxiv), (a)(1)(clxv), (a)(1)(clxxxiv), (a)(1)(ccxxxvi), (a)(1)(ccxxxvii), (a)(1)(ccxxxix), and (a)(1)(cclxxx), respectively, of this section).
 
-(B) Map 70b follows:
+(B) *Note:* The reference to “Kauai 11—*Platydesma rostrata*—i” on the map is equivalent to “Kauai 11—*Melicope rostrata*—i”. Map 70b follows:
 
 ![](/graphics/er13ap10.045.gif)
 
@@ -1040,9 +1038,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cxlvi) Kauai 11-*Chamaesyce remyi* var. *remyi*-j
 
-(A) This is a unit of the Montane Mesic ecosystem and consists of 2,790 ac (1,129 ha). This unit is also critical habitat for Kauai 11-*Diellia mannii*-a, Kauai 11-*Labordia helleri*-g, Kauai 11-*Myrsine knudsenii*-a, Kauai 11-*Myrsine mezii*-c, Kauai 11-*Platydesma rostrata*-j, Kauai 11-*Psychotria grandiflora*-c, Kauai 11-*Stenogyne kealiae*-d, and Kauai 11-*Tetraplasandra flynnii*-e (see paragraphs (a)(1)(clxxii), (a)(1)(ccxxv), (a)(1)(ccliii), (a)(1)(cclix), (a)(1)(cclxxxi), (a)(1)(ccxci), (a)(1)(ccxxxi), and (a)(1)(cccxxxvi), respectively, of this section).
+(A) This is a unit of the Montane Mesic ecosystem and consists of 2,790 ac (1,129 ha). This unit is also critical habitat for Kauai 11-*Diellia mannii*-a, Kauai 11-*Labordia helleri*-g, Kauai 11-*Myrsine knudsenii*-a, Kauai 11-*Myrsine mezii*-c, Kauai 11—*Melicope rostrata*—j, Kauai 11-*Psychotria grandiflora*-c, Kauai 11-*Stenogyne kealiae*-d, and Kauai 11-*Tetraplasandra flynnii*-e (see paragraphs (a)(1)(clxxii), (a)(1)(ccxxv), (a)(1)(ccliii), (a)(1)(cclix), (a)(1)(cclxxxi), (a)(1)(ccxci), (a)(1)(ccxxxi), and (a)(1)(cccxxxvi), respectively, of this section).
 
-(B) Map 70c follows:
+(B) *Note:* The reference to “Kauai 11—*Platydesma rostrata*—j” on the map is equivalent to “Kauai 11—*Melicope rostrata*—j”. Map 70c follows:
 
 ![](/graphics/er13ap10.046.gif)
 
@@ -1146,19 +1144,19 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.077.gif)
 
-(clxi) Kauai 11—*Cyrtandra limahuliensis*—d (816 ha; 2,016 ac)
+(clxi) Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—d (816 ha; 2,016 ac)
 
 (A) [Reserved]
 
-(B) Map 79 follows:
+(B) *Note:* The reference to “Unit 11—*Cyrtandra limahuliensis*—d” on the map is equivalent to “Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—d”. Map 79 follows:
 
 ![](/graphics/er27fe03.078.gif)
 
-(clxii) Kauai 11—*Cyrtandra limahuliensis*—e (693 ha; 1,712 ac)
+(clxii) Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—e (693 ha; 1,712 ac)
 
 (A) [Reserved]
 
-(B) Map 80 follows:
+(B) *Note:* The reference to “Unit 11—*Cyrtandra limahuliensis*—e” on the map is equivalent to “Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—e”. Map 80 follows:
 
 ![](/graphics/er27fe03.079.gif)
 
@@ -1196,11 +1194,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.081.gif)
 
-(clxviii) Kauai 11—*Delissea rivularis*—a (850 ha; 2,100 ac)
+(clxviii) Kauai 11—*Cyanea rivularis*—a (850 ha; 2,100 ac)
 
 (A) [Reserved]
 
-(B) Map 83 follows:
+(B) *Note:* The reference to “Unit 11—*Delissea rivularis*—a” on the map is equivalent to “Kauai 11—*Cyanea rivularis*—a”. Map 83 follows:
 
 ![](/graphics/er27fe03.082.gif)
 
@@ -1234,19 +1232,19 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cxlvi)(B) of this section for the map of this unit.
 
-(clxxiii) Kauai 11—*Diellia pallida—*a (601 ha; 1,485 ac)
+(clxxiii) Kauai 11—*Asplenium dielpallidum*-a (601 ha; 1,485 ac)
 
 (A) [Reserved]
 
-(B) Map 87 follows:
+(B) *Note:* The reference to “Unit 11—*Diellia pallida*—a” on the map is equivalent to “Kauai 11—*Asplenium dielpallidum*—a”. Map 87 follows:
 
 ![](/graphics/er27fe03.086.gif)
 
-(clxxiv) Kauai 11—*Diellia pallida*—b (55 ha; 136 ac)
+(clxxiv) Kauai 11—*Asplenium dielpallidum*—b (55 ha; 136 ac)
 
 (A) [Reserved]
 
-(B) Map 88 follows:
+(B) *Note:* The reference to “Unit 11—*Diellia pallida*—b” on the map is equivalent to “Kauai 11—*Asplenium dielpallidum*—b”. Map 88 follows:
 
 ![](/graphics/er27fe03.087.gif)
 
@@ -1464,11 +1462,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.107.gif)
 
-(cciii) Kauai 11—*Hedyotis cookiana*—a (771 ha; 1,905 ac)
+(cciii) Kauai 11—*Kadua cookiana*—a (771 ha; 1,905 ac)
 
 (A) [Reserved]
 
-(B) Map 109 follows:
+(B) *Note:* The reference to “Unit 11—*Hedyotis cookiana*—a” on the map is equivalent to “Kauai 11—*Kadua cookiana*—a”. Map 109 follows:
 
 ![](/graphics/er27fe03.108.gif)
 
@@ -2024,31 +2022,31 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 ![](/graphics/er27fe03.159.gif)
 
-(cclxxvii) Kauai 11-*Platydesma rostrata*-f
+(cclxxvii) Kauai 11—*Melicope rostrata*—f
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(cxxx)(B) of this section for the map of this unit.
 
-(cclxxviii) Kauai 11-*Platydesma rostrata*-g
+(cclxxviii) Kauai 11—*Melicope rostrata*—g
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(cxxxiii)(B) of this section for the map of this unit.
 
-(cclxxix) Kauai 11-*Platydesma rostrata*-h
+(cclxxix) Kauai 11—*Melicope rostrata*—h
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(cxl)(B) of this section for the map of this unit.
 
-(cclxxx) Kauai 11-*Platydesma rostrata*-i
+(cclxxx) Kauai 11—*Melicope rostrata*—i
 
 (A) [Reserved]
 
 (B) See paragraph (a)(1)(cxli)(B) of this section for the map of this unit.
 
-(cclxxxi) Kauai 11-*Platydesma rostrata*-j
+(cclxxxi) Kauai 11—*Melicope rostrata*—j
 
 (A) [Reserved]
 
@@ -2620,9 +2618,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cccli) Kauai 18—*Chamaesyce remyi* var. *kauaiensis*-f
 
-(A) This is a unit of the Wet Cliff ecosystem and consists of 296 ac (120 ha). This unit is also critical habitat for Kauai 18-*Chamaesyce remyi* var. *remyi*-k, Kauai 18-*Cyanea dolichopoda*-d, Kauai 18-*Cyrtandra oenobarba*-f, Kauai 18-*Cyrtandra paliku*-d, Kauai 18-*Dubautia plantaginea* ssp. *magnifolia*-d, Kauai 18-*Lysimachia iniki*-d, Kauai 18-*Lysimachia pendens*-d, Kauai 18- *Lysimachia venosa*-d, and Kauai 18-*Platydesma rostrata*-k (see paragraphs (a)(1)(ccclii), (a)(1)(cccliii), (a)(1)(cccliv), (a)(1)(ccclv), (a)(1)(ccclvi), (a)(1)(ccclvii), (a)(1)(ccclviii), (a)(1)(ccclix), and (a)(1)(ccclx), respectively, of this section).
+(A) This is a unit of the Wet Cliff ecosystem and consists of 296 ac (120 ha). This unit is also critical habitat for Kauai 18-*Chamaesyce remyi* var. *remyi*-k, Kauai 18-*Cyanea dolichopoda*-d, Kauai 18-*Cyrtandra oenobarba*-f, Kauai 18-*Cyrtandra paliku*-d, Kauai 18-*Dubautia plantaginea* ssp. *magnifolia*-d, Kauai 18-*Lysimachia iniki*-d, Kauai 18-*Lysimachia pendens*-d, Kauai 18- *Lysimachia venosa*-d, and Kauai 18—*Melicope rostrata*—k (see paragraphs (a)(1)(ccclii), (a)(1)(cccliii), (a)(1)(cccliv), (a)(1)(ccclv), (a)(1)(ccclvi), (a)(1)(ccclvii), (a)(1)(ccclviii), (a)(1)(ccclix), and (a)(1)(ccclx), respectively, of this section).
 
-(B) Map 217a follows:
+(B) *Note:* The reference to “Kauai 18—*Platydesma rostrata*—k” on the map is equivalent to “Kauai 18—*Melicope rostrata*—k”. Map 217a follows:
 
 ![](/graphics/er13ap10.047.gif)
 
@@ -2674,7 +2672,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cccli)(B) of this section for the map of this unit.
 
-(ccclx) Kauai 18-*Platydesma rostrata*-k
+(ccclx) Kauai 18—*Melicope rostrata*—k
 
 (A) [Reserved]
 
@@ -2682,9 +2680,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (ccclxi) Kauai 19-*Chamaesyce remyi* var. *kauaiensis*-g
 
-(A) This is a unit of the Wet Cliff ecosystem and consists of 23 ac (9 ha). This unit is also critical habitat for Kauai 19-*Chamaesyce remyi* var. *remyi*-l, Kauai 19-*Cyanea dolichopoda*-e, Kauai 19-*Cyrtandra oenobarba*-g, Kauai 19-*Cyrtandra paliku*-e, Kauai 19-*Dubautia plantaginea* ssp. *magnifolia*-e, Kauai 19-*Lysimachia iniki*-e, Kauai 19-*Lysimachia pendens*-e, Kauai 19-*Lysimachia venosa*-e, and Kauai 19-*Platydesma rostrata*-l (see paragraphs (a)(1)(ccclxii), (a)(1)(ccclxiii), (a)(1)(ccclxiv), (a)(1)(ccclxv), (a)(1)(ccclxvi), (a)(1)(ccclxvii), (a)(1)(ccclxviii), (a)(1)(ccclxix), and (a)(1)(ccclxx), respectively, of this section).
+(A) This is a unit of the Wet Cliff ecosystem and consists of 23 ac (9 ha). This unit is also critical habitat for Kauai 19-*Chamaesyce remyi* var. *remyi*-l, Kauai 19-*Cyanea dolichopoda*-e, Kauai 19-*Cyrtandra oenobarba*-g, Kauai 19-*Cyrtandra paliku*-e, Kauai 19-*Dubautia plantaginea* ssp. *magnifolia*-e, Kauai 19-*Lysimachia iniki*-e, Kauai 19-*Lysimachia pendens*-e, Kauai 19-*Lysimachia venosa*-e, and Kauai 19—*Melicope rostrata*—l (see paragraphs (a)(1)(ccclxii), (a)(1)(ccclxiii), (a)(1)(ccclxiv), (a)(1)(ccclxv), (a)(1)(ccclxvi), (a)(1)(ccclxvii), (a)(1)(ccclxviii), (a)(1)(ccclxix), and (a)(1)(ccclxx), respectively, of this section).
 
-(B) Map 217b follows:
+(B) *Note:* The reference to “Kauai 19—*Platydesma rostrata*—l” on the map is equivalent to “Kauai 19—*Melicope rostrata*—l”. Map 217b follows:
 
 ![](/graphics/er13ap10.048.gif)
 
@@ -2736,7 +2734,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(ccclxi)(B) of this section for the map of this unit.
 
-(ccclxx) Kauai 19-*Platydesma rostrata*-l
+(ccclxx) Kauai 19—*Melicope rostrata*—l
 
 (A) [Reserved]
 
@@ -2744,9 +2742,10 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (ccclxxi) Kauai 20-*Chamaesyce remyi* var. *kauaiensis*-h
 
-(A) This is a unit of the Lowland Wet ecosystem and consists of 65 ac (26 ha). This unit is also critical habitat for Kauai 20-*Chamaesyce remyi* var. *remyi*-m, Kauai 20-*Charpentiera densiflora*-e, Kauai 20-*Cyanea eleeleensis*-c, Kauai 20-*Cyanea kolekoleensis*-c, Kauai 20-*Cyanea kuhihewa*-c, Kauai 20-*Cyrtandra oenobarba*-h, Kauai 20-*Dubautia imbricata* ssp. *imbricata*-c, Kauai 20-*Labordia helleri*-h, Kauai 20-*Melicope paniculata*-c, Kauai 20-*Melicope puberula*-e, Kauai 20-*Phyllostegia renovans*-e, Kauai 20-*Platydesma rostrata*-m, Kauai 20-*Stenogyne kealiae*-e, Kauai 20-*Tetraplasandra bisattenuata*-e, and Kauai 20-*Tetraplasandra flynnii*-f, (see paragraphs (a)(1)(ccclxxii), (a)(1)(ccclxxiii), (a)(1)(ccclxxiv), (a)(1)(ccclxxv), (a)(1)(ccclxxvi), (a)(1)(ccclxxvii), (a)(1)(ccclxxviii), (a)(1)(ccclxxix), (a)(1)(ccclxxx), (a)(1)(ccclxxxi), (a)(1)(ccclxxxii), (a)(1)(ccclxxxiii), (a)(1)(ccclxxxiv), (a)(1)(ccclxxxv), and (a)(1)(ccclxxxvi), respectively, of this section).
+(A) This is a unit of the Lowland Wet ecosystem and consists of 65 ac (26 ha). This unit is also critical habitat for Kauai 20-*Chamaesyce remyi* var. *remyi*-m, Kauai 20-*Charpentiera densiflora*-e, Kauai 20-*Cyanea eleeleensis*-c, Kauai 20-*Cyanea kolekoleensis*-c, Kauai 20-*Cyanea kuhihewa*-c, Kauai 20-*Cyrtandra oenobarba*-h, Kauai 20-*Dubautia imbricata* ssp. *imbricata*-c, Kauai 20-*Labordia helleri*-h, Kauai 20-*Melicope paniculata*-c, Kauai 20-*Melicope puberula*-e, Kauai 20-*Phyllostegia renovans*-e, Kauai 20—*Melicope rostrata*—m, Kauai 20-*Stenogyne kealiae*-e, Kauai 20-*Tetraplasandra bisattenuata*-e, and Kauai 20-*Tetraplasandra flynnii*-f, (see paragraphs (a)(1)(ccclxxii), (a)(1)(ccclxxiii), (a)(1)(ccclxxiv), (a)(1)(ccclxxv), (a)(1)(ccclxxvi), (a)(1)(ccclxxvii), (a)(1)(ccclxxviii), (a)(1)(ccclxxix), (a)(1)(ccclxxx), (a)(1)(ccclxxxi), (a)(1)(ccclxxxii), (a)(1)(ccclxxxiii), (a)(1)(ccclxxxiv), (a)(1)(ccclxxxv), and (a)(1)(ccclxxxvi), respectively, of this section).
+:
 
-(B) Map 217c follows:
+(B) *Note:* The reference to “Kauai 20—*Platydesma rostrata*—m” on the map is equivalent to “Kauai 20—*Melicope rostrata*—m”. Map 217c follows:
 
 ![](/graphics/er13ap10.049.gif)
 
@@ -2816,7 +2815,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(ccclxxi)(B) of this section for the map of this unit.
 
-(ccclxxxiii) Kauai 20-*Platydesma rostrata*-m
+(ccclxxxiii) Kauai 20—*Melicope rostrata*—m
 
 (A) [Reserved]
 
@@ -2842,9 +2841,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (ccclxxxvii) Kauai 21-*Chamaesyce remyi* var. *remyi*-n
 
-(A) This is a unit of the Montane Mesic ecosystem and consists of 8 ac (3 ha). This unit is also critical habitat for Kauai 21-*Diellia mannii*-b, Kauai 21-*Labordia helleri*-i, Kauai 21-*Myrsine knudsenii*-b, Kauai 21-*Myrsine mezii*-d, Kauai 21-*Platydesma rostrata*-n, Kauai 21-*Psychotria grandiflora*-d, Kauai 21-*Stenogyne kealiae*-f, and Kauai 21-*Tetraplasandra flynnii*-g (see paragraphs (a)(1)(ccclxxxviii), (a)(1)(ccclxxxix), (a)(1)(cccxc), (a)(1)(cccxci), (a)(1)(cccxcii), (a)(1)(cccxciii), (a)(1)(cccxciv), and (a)(1)(cccxcv), respectively, of this section).
+(A) This is a unit of the Montane Mesic ecosystem and consists of 8 ac (3 ha). This unit is also critical habitat for Kauai 21-*Diellia mannii*-b, Kauai 21-*Labordia helleri*-i, Kauai 21-*Myrsine knudsenii*-b, Kauai 21-*Myrsine mezii*-d, Kauai 21—*Melicope rostrata*—n , Kauai 21-*Psychotria grandiflora*-d, Kauai 21-*Stenogyne kealiae*-f, and Kauai 21-*Tetraplasandra flynnii*-g (see paragraphs (a)(1)(ccclxxxviii), (a)(1)(ccclxxxix), (a)(1)(cccxc), (a)(1)(cccxci), (a)(1)(cccxcii), (a)(1)(cccxciii), (a)(1)(cccxciv), and (a)(1)(cccxcv), respectively, of this section).
 
-(B) Map 217d follows:
+(B) *Note:* The reference to “Kauai 21—*Platydesma rostrata*—n” on the map is equivalent to “Kauai 21—*Melicope rostrata*—n”. Map 217d follows:
 
 ![](/graphics/er13ap10.050.gif)
 
@@ -2872,7 +2871,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(ccclxxxvii)(B) of this section for the map of this unit.
 
-(cccxcii) Kauai 21-*Platydesma rostrata*-o
+(cccxcii) Kauai 21—*Melicope rostrata*—o
 
 (A) [Reserved]
 
@@ -2898,9 +2897,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cccxcvi) Kauai 22-*Chamaesyce remyi* var. *remyi*-o
 
-(A) This is a unit of the Montane Mesic ecosystem and consists of 139 ac (56 ha). This unit is also critical habitat for Kauai 22-*Diellia mannii*-c, Kauai 22-*Labordia helleri*-j, Kauai 22-*Myrsine knudsenii*-c, Kauai 22-*Myrsine mezii*-e, Kauai 22-*Platydesma rostrata*-o, Kauai 22-*Psychotria grandiflora*-e, Kauai 22-*Stenogyne kealiae*-g, and Kauai 22-*Tetraplasandra flynnii*-h (see paragraphs (a)(1)(cccxcvii), (a)(1)(cccxcviii), (a)(1)(cccxcix), (a)(1)(cd), (a)(1)(cdi), (a)(1)(cdii), (a)(1)(cdiii), and (a)(1)(cdiv), respectively, of this section).
+(A) This is a unit of the Montane Mesic ecosystem and consists of 139 ac (56 ha). This unit is also critical habitat for Kauai 22-*Diellia mannii*-c, Kauai 22-*Labordia helleri*-j, Kauai 22-*Myrsine knudsenii*-c, Kauai 22-*Myrsine mezii*-e, Kauai 22—*Melicope rostrata*—o , Kauai 22-*Psychotria grandiflora*-e, Kauai 22-*Stenogyne kealiae*-g, and Kauai 22-*Tetraplasandra flynnii*-h (see paragraphs (a)(1)(cccxcvii), (a)(1)(cccxcviii), (a)(1)(cccxcix), (a)(1)(cd), (a)(1)(cdi), (a)(1)(cdii), (a)(1)(cdiii), and (a)(1)(cdiv), respectively, of this section).
 
-(B) Map 217e follows:
+(B) *Note:* The reference to “Kauai 22—*Platydesma rostrata*—o” on the map is equivalent to “Kauai 22—*Melicope rostrata*—o”. Map 217e follows:
 
 ![](/graphics/er13ap10.051.gif)
 
@@ -2928,7 +2927,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cccxcvi)(B) of this section for the map of this unit.
 
-(cdi) Kauai 22-*Platydesma rostrata*-o
+(cdi) Kauai 22—*Melicope rostrata*—o
 
 (A) [Reserved]
 
@@ -2954,9 +2953,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cdv) Kauai 23-*Astelia waialealae*-c
 
-(A) This is a unit of the Montane Wet ecosystem and consists of 0.4 ac (0.2 ha). This unit is also critical habitat for Kauai 23-*Chamaesyce remyi* var. *remyi*-p, Kauai 23-*Dryopteris crinalis* var. *podosorus*-c, Kauai 23-*Dubautia kalalauensis*-c, Kauai 23-*Dubautia waialealae*-c, Kauai 23-*Geranium kauaiense*-c, Kauai 23-*Keysseria erici*-c, Kauai 23-*Keysseria helenae*-c, Kauai 23-*Labordia helleri*-k, Kauai 23-*Labordia pumila*-c, Kauai 23-*Lysimachia daphnoides*-c, Kauai 23-*Melicope degeneri*-c, Kauai 23-*Melicope puberula*-f, Kauai 23-*Myrsine mezii*-f, Kauai 23-*Phyllostegia renovans*-f, Kauai 23-*Platydesma rostrata*-p, Kauai 23-*Psychotria grandiflora*-f, and Kauai 23-*Tetraplasandra flynnii*-i (see paragraphs (a)(1)(cdvi), (a)(1)(cdvii), (a)(1)(cdviii), (a)(1)(cdix), (a)(1)(cdx), (a)(1)(cdxi), (a)(1)(cdxii), (a)(1)(cdxiii), (a)(1)(cdxiv), (a)(1)(cdxv), (a)(1)(cdxvi), (a)(1)(cdxvii), (a)(1)(cdxviii), (a)(1)(cdxix), (a)(1)(cdxx), (a)(1)(cdxxi), and (a)(1)(cdxxii), respectively, of this section).
+(A) This is a unit of the Montane Wet ecosystem and consists of 0.4 ac (0.2 ha). This unit is also critical habitat for Kauai 23-*Chamaesyce remyi* var. *remyi*-p, Kauai 23-*Dryopteris crinalis* var. *podosorus*-c, Kauai 23-*Dubautia kalalauensis*-c, Kauai 23-*Dubautia waialealae*-c, Kauai 23-*Geranium kauaiense*-c, Kauai 23-*Keysseria erici*-c, Kauai 23-*Keysseria helenae*-c, Kauai 23-*Labordia helleri*-k, Kauai 23-*Labordia pumila*-c, Kauai 23-*Lysimachia daphnoides*-c, Kauai 23-*Melicope degeneri*-c, Kauai 23-*Melicope puberula*-f, Kauai 23-*Myrsine mezii*-f, Kauai 23-*Phyllostegia renovans*-f, Kauai 23—*Melicope rostrata*—p, Kauai 23-*Psychotria grandiflora*-f, and Kauai 23-*Tetraplasandra flynnii*-i (see paragraphs (a)(1)(cdvi), (a)(1)(cdvii), (a)(1)(cdviii), (a)(1)(cdix), (a)(1)(cdx), (a)(1)(cdxi), (a)(1)(cdxii), (a)(1)(cdxiii), (a)(1)(cdxiv), (a)(1)(cdxv), (a)(1)(cdxvi), (a)(1)(cdxvii), (a)(1)(cdxviii), (a)(1)(cdxix), (a)(1)(cdxx), (a)(1)(cdxxi), and (a)(1)(cdxxii), respectively, of this section).
 
-(B) Map 217f follows:
+(B) *Note:* The reference to “Kauai 23—*Platydesma rostrata*—p” on the map is equivalent to “Kauai 23—*Melicope rostrata*—p”. Map 217f follows:
 
 ![](/graphics/er13ap10.052.gif)
 
@@ -3044,7 +3043,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cdv)(B) of this section for the map of this unit.
 
-(cdxx) Kauai 23-*Platydesma rostrata*-p
+(cdxx) Kauai 23—*Melicope rostrata*—p
 
 (A) [Reserved]
 
@@ -3064,9 +3063,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cdxxiii) Kauai 24-*Astelia waialealae*-d
 
-(A) This is a unit of the Montane Wet ecosystem and consists of 0.04 ac (0.01 ha). This unit is also critical habitat for Kauai 24-*Chamaesyce remyi* var. *remyi*-q, Kauai 24-*Dryopteris crinalis* var. *podosorus*-d, Kauai 24-*Dubautia kalalauensis*-d, Kauai 24-*Dubautia waialealae*-d, Kauai 24-*Geranium kauaiense*-d, Kauai 24-*Keysseria erici*-d, Kauai 24-*Keysseria helenae*-d, Kauai 24-*Labordia helleri*-l, Kauai 24-*Labordia pumila*-d, Kauai 24-*Lysimachia daphnoides*-d, Kauai 24-*Melicope degeneri*-d, Kauai 24-*Melicope puberula*-g, Kauai 24-*Myrsine mezii*-g, Kauai 24-*Phyllostegia renovans*-g, Kauai 24-*Platydesma rostrata*-q, Kauai 24-*Psychotria grandiflora*-g, and Kauai 24-*Tetraplasandra flynnii*-j (see paragraphs (a)(1)(cdxxiv), (a)(1)(cdxxv), (a)(1)(cdxxvi), (a)(1)(cdxxvii), (a)(1)(cdxxviii), (a)(1)(cdxxix), (a)(1)(cdxxx), (a)(1)(cdxxxi), (a)(1)(cdxxxii), (a)(1)(cdxxxiii), (a)(1)(cdxxxiv), (a)(1)(cdxxxv), (a)(1)(cdxxxvi), (a)(1)(cdxxxvii), (a)(1)(cdxxxviii), (a)(1)(cdxxxix), and (a)(1)(cdxl), respectively, of this section).
+(A) This is a unit of the Montane Wet ecosystem and consists of 0.04 ac (0.01 ha). This unit is also critical habitat for Kauai 24-*Chamaesyce remyi* var. *remyi*-q, Kauai 24-*Dryopteris crinalis* var. *podosorus*-d, Kauai 24-*Dubautia kalalauensis*-d, Kauai 24-*Dubautia waialealae*-d, Kauai 24-*Geranium kauaiense*-d, Kauai 24-*Keysseria erici*-d, Kauai 24-*Keysseria helenae*-d, Kauai 24-*Labordia helleri*-l, Kauai 24-*Labordia pumila*-d, Kauai 24-*Lysimachia daphnoides*-d, Kauai 24-*Melicope degeneri*-d, Kauai 24-*Melicope puberula*-g, Kauai 24-*Myrsine mezii*-g, Kauai 24-*Phyllostegia renovans*-g, Kauai 24—*Melicope rostrata*—q, Kauai 24-*Psychotria grandiflora*-g, and Kauai 24-*Tetraplasandra flynnii*-j (see paragraphs (a)(1)(cdxxiv), (a)(1)(cdxxv), (a)(1)(cdxxvi), (a)(1)(cdxxvii), (a)(1)(cdxxviii), (a)(1)(cdxxix), (a)(1)(cdxxx), (a)(1)(cdxxxi), (a)(1)(cdxxxii), (a)(1)(cdxxxiii), (a)(1)(cdxxxiv), (a)(1)(cdxxxv), (a)(1)(cdxxxvi), (a)(1)(cdxxxvii), (a)(1)(cdxxxviii), (a)(1)(cdxxxix), and (a)(1)(cdxl), respectively, of this section).
 
-(B) Map 217g follows:
+(B) *Note:* The reference to “Kauai 24—*Platydesma rostrata*—q” on the map is equivalent to “Kauai 24—*Melicope rostrata*—q”. Map 217g follows:
 
 ![](/graphics/er13ap10.053.gif)
 
@@ -3154,7 +3153,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cdxxiii)(B) of this section for the map of this unit.
 
-(cdxxxviii) Kauai 24-*Platydesma rostrata*-q
+(cdxxxviii) Kauai 24—*Melicope rostrata*—q
 
 (A) [Reserved]
 
@@ -3174,9 +3173,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (cdxli) Kauai 25-*Astelia waialealae*-e
 
-(A) This is a unit of the Montane Wet ecosystem and consists of 64 ac (26 ha). This unit is also critical habitat for Kauai 25-*Chamaesyce remyi* var. *remyi*-r, Kauai 25-*Dryopteris crinalis* var. *podosorus*-e, Kauai 25-*Dubautia kalalauensis*-e, Kauai 25-*Dubautia waialealae*-e, Kauai 25-*Geranium kauaiense*-e, Kauai 25-*Keysseria erici*-e, Kauai 25-*Keysseria helenae*-e, Kauai 25-*Labordia helleri*-m, Kauai 25-*Labordia pumila*-e, Kauai 25-*Lysimachia daphnoides*-e, Kauai 25-*Melicope degeneri*-e, Kauai 25-*Melicope puberula*-h, Kauai 25-*Myrsine mezii*-h, Kauai 25-*Phyllostegia renovans*-h, Kauai 25-*Platydesma rostrata*-r, Kauai 25-*Psychotria grandiflora*-h, and Kauai 25-*Tetraplasandra flynnii*-k (see paragraphs (a)(1)(cdxlii), (a)(1)(cdxliii), (a)(1)(cdxliv), (a)(1)(cdxlv), (a)(1)(cdxlvi), (a)(1)(cdxlvii), (a)(1)(cdxlviii), (a)(1)(cdxlix), (a)(1)(cdl), (a)(1)(cdli), (a)(1)(cdlii), (a)(1)(cdliii), (a)(1)(cdliv), (a)(1)(cdlv), (a)(1)(cdlvi), (a)(1)(cdlvii), and (a)(1)(cdlviii), respectively, of this section).
+(A) This is a unit of the Montane Wet ecosystem and consists of 64 ac (26 ha). This unit is also critical habitat for Kauai 25-*Chamaesyce remyi* var. *remyi*-r, Kauai 25-*Dryopteris crinalis* var. *podosorus*-e, Kauai 25-*Dubautia kalalauensis*-e, Kauai 25-*Dubautia waialealae*-e, Kauai 25-*Geranium kauaiense*-e, Kauai 25-*Keysseria erici*-e, Kauai 25-*Keysseria helenae*-e, Kauai 25-*Labordia helleri*-m, Kauai 25-*Labordia pumila*-e, Kauai 25-*Lysimachia daphnoides*-e, Kauai 25-*Melicope degeneri*-e, Kauai 25-*Melicope puberula*-h, Kauai 25-*Myrsine mezii*-h, Kauai 25-*Phyllostegia renovans*-h, Kauai 25—*Melicope rostrata*—r, Kauai 25-*Psychotria grandiflora*-h, and Kauai 25-*Tetraplasandra flynnii*-k (see paragraphs (a)(1)(cdxlii), (a)(1)(cdxliii), (a)(1)(cdxliv), (a)(1)(cdxlv), (a)(1)(cdxlvi), (a)(1)(cdxlvii), (a)(1)(cdxlviii), (a)(1)(cdxlix), (a)(1)(cdl), (a)(1)(cdli), (a)(1)(cdlii), (a)(1)(cdliii), (a)(1)(cdliv), (a)(1)(cdlv), (a)(1)(cdlvi), (a)(1)(cdlvii), and (a)(1)(cdlviii), respectively, of this section).
 
-(B) Map 217h follows:
+(B) *Note:* The reference to “Kauai 25—*Platydesma rostrata*—r” on the map is equivalent to “Kauai 25—*Melicope rostrata*—r”. Map 217h follows:
 
 ![](/graphics/er13ap10.054.gif)
 
@@ -3264,7 +3263,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 
 (B) See paragraph (a)(1)(cdxli)(B) of this section for the map of this unit.
 
-(cdlvi) Kauai 25-*Platydesma rostrata*-r
+(cdlvi) Kauai 25—*Melicope rostrata*—r
 
 (A) [Reserved]
 
@@ -3298,8 +3297,8 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |            Kauai 4—Cyanea recta—b             |            Cyanea recta            |                                    |
 |            Kauai 4—Cyanea remyi—a             |            Cyanea remyi            |                                    |
 |        Kauai 4—Cyrtandra cyaneoides—a         |        Cyrtandra cyaneoides        |                                    |
-|       Kauai 4—Cyrtandra limahuliensis—a       |      Cyrtandra limahuliensis       |                                    |
-|       Kauai 4—Cyrtandra limahuliensis—b       |      Cyrtandra limahuliensis       |                                    |
+|   Kauai 4—Cyrtandra kealiae ssp. kealiae—a    |   Cyrtandra kealiae ssp. kealiae   |                                    |
+|   Kauai 4—Cyrtandra kealiae ssp. kealiae—b    |   Cyrtandra kealiae ssp. kealiae   |                                    |
 |         Kauai 4—Cyrtandra oenobarba-a         |                                    |        Cyrtandra oenobarba         |
 |          Kauai 4—Cyrtandra paliku-a           |          Cyrtandra paliku          |          Cyrtandra paliku          |
 |Kauai 4—Dubautia plantaginea ssp. magnifolia-a |                                    |Dubautia plantaginea ssp. magnifolia|
@@ -3312,8 +3311,8 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 4—Lysimachia iniki-a           |                                    |          Lysimachia iniki          |
 |         Kauai 4—Lysimachia pendens-a          |                                    |         Lysimachia pendens         |
 |          Kauai 4—Lysimachia venosa-a          |                                    |         Lysimachia venosa          |
+|          Kauai 4—Melicope rostrata—a          |                                    |         Melicope rostrata.         |
 |        Kauai 4—Phyllostegia wawrana—a         |        Phyllostegia wawrana        |                                    |
-|         Kauai 4—Platydesma rostrata-a         |                                    |        Platydesma rostrata         |
 |           Kauai 5—Hibiscus clayi—f            |           Hibiscus clayi           |                                    |
 |       Kauai 5—Munroidendron racemosum—a       |      Munroidendron racemosum       |                                    |
 |         Kauai 6—Brighamia insignis—a          |         Brighamia insignis         |                                    |
@@ -3329,11 +3328,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 7—Labordia helleri-a           |                                    |          Labordia helleri          |
 |        Kauai 7—Lipochaeta micrantha—a         |        Lipochaeta micrantha        |                                    |
 |         Kauai 7—Melicope haupuensis—a         |                                    |        Melicope haupuensis         |
+|          Kauai 7—Melicope rostrata—b          |                                    |         Melicope rostrata.         |
 |       Kauai 7—Munroidendron racemosum—b       |      Munroidendron racemosum       |                                    |
 |        Kauai 7—Myrsine linearifolia—a         |                                    |        Myrsine linearifolia        |
 |       Kauai 7—Peucedanum sandwicense—a        |       Peucedanum sandwicense       |                                    |
 |       Kauai 7—Pittosporum napaliense-a        |                                    |       Pittosporum napaliense       |
-|         Kauai 7—Platydesma rostrata-b         |                                    |        Platydesma rostrata         |
 |          Kauai 7—Psychotria hobdyi-a          |                                    |         Psychotria hobdyi          |
 |        Kauai 7—Pteralyxia kauaiensis—a        |       Pteralyxia kauaiensis        |                                    |
 |         Kauai 7—Schiedea nuttallii—a          |         Schiedea nuttallii         |                                    |
@@ -3356,7 +3355,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 10—Cyanea kuhihewa-a           |                                    |          Cyanea kuhihewa           |
 |            Kauai 10—Cyanea remyi—b            |            Cyanea remyi            |                                    |
 |          Kauai 10—Cyanea undulata—a           |          Cyanea undulata           |                                    |
-|      Kauai 10—Cyrtandra limahuliensis—c       |      Cyrtandra limahuliensis       |                                    |
+|   Kauai 10—Cyrtandra kealiae ssp. kealiae—c   |   Cyrtandra kealiae ssp. kealiae   |                                    |
 |        Kauai 10—Cyrtandra oenobarba-b         |        Cyrtandra oenobarba         |        Cyrtandra oenobarba         |
 |        Kauai 10—Cyrtandra oenobarba-c         |        Cyrtandra oenobarba         |        Cyrtandra oenobarba         |
 |          Kauai 10—Cyrtandra paliku-b          |                                    |          Cyrtandra paliku          |
@@ -3386,15 +3385,16 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |        Kauai 10—Melicope paniculata-a         |        Melicope paniculata         |        Melicope paniculata         |
 |         Kauai 10—Melicope puberula-a          |         Melicope puberula          |         Melicope puberula          |
 |         Kauai 10—Melicope puberula-b          |                                    |         Melicope puberula          |
+|         Kauai 10—Melicope rostrata—c          |         Melicope rostrata          |         Melicope rostrata.         |
+|         Kauai 10—Melicope rostrata—d          |         Melicope rostrata          |         Melicope rostrata.         |
+|         Kauai 10—Melicope rostrata—e          |         Melicope rostrata          |         Melicope rostrata.         |
 |        Kauai 10—Myrsine linearifolia—b        |        Myrsine linearifolia        |                                    |
 |           Kauai 10—Myrsine mezii-a            |           Myrsine mezii            |           Myrsine mezii            |
 |          Kauai 10—Huperzia nutans—a           |                                    |          Huperzia nutans           |
+|        Kauai 10—Phlegmariurus nutans—a        |                                    |       Phlegmariurus nutans.        |
 |       Kauai 10—Phyllostegia renovans-a        |       Phyllostegia renovans        |       Phyllostegia renovans        |
 |       Kauai 10—Phyllostegia renovans-b        |       Phyllostegia renovans        |       Phyllostegia renovans        |
 |         Kauai 10—Plantago princeps—a          |         Plantago princeps          |                                    |
-|        Kauai 10—Platydesma rostrata-c         |        Platydesma rostrata         |        Platydesma rostrata         |
-|        Kauai 10—Platydesma rostrata-d         |        Platydesma rostrata         |        Platydesma rostrata         |
-|        Kauai 10—Platydesma rostrata-e         |        Platydesma rostrata         |        Platydesma rostrata         |
 |       Kauai 10—Psychotria grandiflora-a       |                                    |       Psychotria grandiflora       |
 |       Kauai 10—Pteralyxia kauaiensis—b        |       Pteralyxia kauaiensis        |                                    |
 |         Kauai 10—Stenogyne kealiae-a          |                                    |         Stenogyne kealiae          |
@@ -3414,6 +3414,8 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |       Kauai 11—Alsinidendron viscosum—b       |       Alsinidendron viscosum       |                                    |
 |       Kauai 11—Alsinidendron viscosum—c       |       Alsinidendron viscosum       |                                    |
 |       Kauai 11—Alsinidendron viscosum—d       |       Alsinidendron viscosum       |                                    |
+|       Kauai 11—Asplenium dielpallidum—a       |       Asplenium dielpallidum       |                                    |
+|       Kauai 11—Asplenium dielpallidum—b       |       Asplenium dielpallidum       |                                    |
 |         Kauai 11—Astelia waialealae-b         |         Astelia waialealae         |         Astelia waialealae         |
 |         Kauai 11—Bonamia menziesii—b          |         Bonamia menziesii          |                                    |
 |         Kauai 11—Brighamia insignis—c         |         Brighamia insignis         |                                    |
@@ -3442,23 +3444,21 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |            Kauai 11—Cyanea recta—d            |                                    |            Cyanea recta            |
 |            Kauai 11—Cyanea remyi—c            |            Cyanea remyi            |                                    |
 |            Kauai 11—Cyanea remyi—d            |            Cyanea remyi            |                                    |
+|          Kauai 11—Cyanea rivularis—a          |          Cyanea rivularis          |                                    |
 |       Kauai 11—Cyperus trachysanthos—a        |       Cyperus trachysanthos        |                                    |
 |        Kauai 11—Cyrtandra cyaneoides—b        |        Cyrtandra cyaneoides        |                                    |
 |        Kauai 11—Cyrtandra cyaneoides—c        |        Cyrtandra cyaneoides        |                                    |
-|      Kauai 11—Cyrtandra limahuliensis—d       |      Cyrtandra limahuliensis       |                                    |
-|      Kauai 11—Cyrtandra limahuliensis—e       |      Cyrtandra limahuliensis       |                                    |
+|   Kauai 11—Cyrtandra kealiae ssp. kealiae—d   |   Cyrtandra kealiae ssp. kealiae   |                                    |
+|   Kauai 11—Cyrtandra kealiae ssp. kealiae—e   |   Cyrtandra kealiae ssp. kealiae   |                                    |
 |        Kauai 11—Cyrtandra oenobarba-d         |        Cyrtandra oenobarba         |        Cyrtandra oenobarba         |
 |        Kauai 11—Cyrtandra oenobarba-e         |                                    |        Cyrtandra oenobarba         |
 |          Kauai 11—Cyrtandra paliku-c          |                                    |          Cyrtandra paliku          |
 |       Kauai 11—Delissea rhytidosperma—b       |       Delissea rhytidosperma       |                                    |
 |       Kauai 11—Delissea rhytidosperma—c       |                                    |       Delissea rhytidosperma       |
-|         Kauai 11—Delissea rivularis—a         |         Delissea rivularis         |                                    |
 |         Kauai 11—Delissea undulata—a          |                                    |         Delissea undulata          |
 |         Kauai 11—Delissea undulata—b          |         Delissea undulata          |                                    |
 |       Kauai 11—Asplenium dielerectum—a        |                                    |        Asplenium dielerectum       |
 |           Kauai 11—Diellia mannii-a           |           Diellia mannii           |           Diellia mannii           |
-|          Kauai 11—Diellia pallida—a           |          Diellia pallida           |                                    |
-|          Kauai 11—Diellia pallida—b           |          Diellia pallida           |                                    |
 |       Kauai 11—Diplazium molokaiense—a        |                                    |       Diplazium molokaiense        |
 |        Kauai 11—Doryopteris angelica-b        |        Doryopteris angelica        |        Doryopteris angelica        |
 | Kauai 11—Dryopteris crinalis var. podosorus-b | Dryopteris crinalis var. podosorus | Dryopteris crinalis var. podosorus |
@@ -3487,7 +3487,6 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 11—Gouania meyenii—a           |                                    |          Gouania meyenii           |
 |          Kauai 11—Gouania meyenii—b           |          Gouania meyenii           |                                    |
 |          Kauai 11—Gouania meyenii—c           |                                    |          Gouania meyenii           |
-|         Kauai 11—Hedyotis cookiana—a          |         Hedyotis cookiana          |                                    |
 |        Kauai 11—Heduptos st.-johnii—a         |        Heduptos st.-johnii         |                                    |
 |       Kauai 11—Hesperomannia lydgatei—b       |       Hesperomannia lydgatei       |                                    |
 |       Kauai 11—Hesperomannia lydgatei—e       |       Hesperomannia lydgatei       |                                    |
@@ -3500,6 +3499,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |      Kauai 11—Isodendrion longifolium—c       |      Isodendrion longifolium       |                                    |
 |      Kauai 11—Isodendrion longifolium—d       |      Isodendrion longifolium       |                                    |
 |      Kauai 11—Isodendrion longifolium—e       |      Isodendrion longifolium       |                                    |
+|           Kauai 11—Kadua cookiana—a           |           Kadua cookiana           |                                    |
 |          Kauai 11—Keysseria erici-b           |          Keysseria erici           |          Keysseria erici           |
 |         Kauai 11—Keysseria helenae-b          |         Keysseria helenae          |         Keysseria helenae          |
 |          Kauai 11—Kokia kauaiensis—a          |          Kokia kauaiensis          |                                    |
@@ -3535,6 +3535,11 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |        Kauai 11—Melicope paniculata-b         |        Melicope paniculata         |        Melicope paniculata         |
 |         Kauai 11—Melicope puberula-c          |         Melicope puberula          |         Melicope puberula          |
 |         Kauai 11—Melicope puberula-d          |         Melicope puberula          |         Melicope puberula          |
+|         Kauai 11—Melicope rostrata—f          |         Melicope rostrata          |         Melicope rostrata.         |
+|         Kauai 11—Melicope rostrata—g          |         Melicope rostrata          |         Melicope rostrata.         |
+|         Kauai 11—Melicope rostrata—h          |         Melicope rostrata          |         Melicope rostrata.         |
+|         Kauai 11—Melicope rostrata—i          |                                    |         Melicope rostrata          |
+|         Kauai 11—Melicope rostrata—j          |         Melicope rostrata          |         Melicope rostrata.         |
 |      Kauai 11—Munroidendron racemosum—c       |      Munroidendron racemosum       |                                    |
 |      Kauai 11—Munroidendron racemosum—d       |      Munroidendron racemosum       |                                    |
 |         Kauai 11—Myrsine knudsenii-a          |         Myrsine knudsenii          |         Myrsine knudsenii          |
@@ -3561,11 +3566,6 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |         Kauai 11—Plantago princeps—c          |                                    |         Plantago princeps          |
 |         Kauai 11—Plantago princeps—d          |         Plantago princeps          |                                    |
 |       Kauai 11—Platanthera holochila—a        |       Platanthera holochila        |                                    |
-|        Kauai 11—Platydesma rostrata-f         |        Platydesma rostrata         |        Platydesma rostrata         |
-|        Kauai 11—Platydesma rostrata-g         |        Platydesma rostrata         |        Platydesma rostrata         |
-|        Kauai 11—Platydesma rostrata-h         |        Platydesma rostrata         |        Platydesma rostrata         |
-|        Kauai 11—Platydesma rostrata-i         |                                    |        Platydesma rostrata         |
-|        Kauai 11—Platydesma rostrata-j         |        Platydesma rostrata         |        Platydesma rostrata         |
 |             Kauai 11—Poa mannii—a             |                                    |             Poa mannii             |
 |             Kauai 11—Poa mannii—b             |             Poa mannii             |                                    |
 |             Kauai 11—Poa mannii—c             |                                    |             Poa mannii             |
@@ -3644,7 +3644,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 18—Lysimachia iniki-d          |          Lysimachia iniki          |          Lysimachia iniki          |
 |         Kauai 18—Lysimachia pendens-d         |         Lysimachia pendens         |         Lysimachia pendens         |
 |         Kauai 18—Lysimachia venosa-d          |                                    |         Lysimachia venosa          |
-|        Kauai 18—Platydesma rostrata-k         |        Platydesma rostrata         |        Platydesma rostrata         |
+|         Kauai 18—Melicope rostrata—k          |         Melicope rostrata          |         Melicope rostrata.         |
 |  Kauai 19—Chamaesyce remyi var. kauaiensis-g  |                                    |  Chamaesyce remyi var. kauaiensis  |
 |    Kauai 19—Chamaesyce remyi var. remyi-l     |                                    |    Chamaesyce remyi var. remyi     |
 |         Kauai 19—Cyanea dolichopoda-e         |                                    |         Cyanea dolichopoda         |
@@ -3654,7 +3654,7 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 19—Lysimachia iniki-e          |                                    |          Lysimachia iniki          |
 |         Kauai 19—Lysimachia pendens-e         |                                    |         Lysimachia pendens         |
 |         Kauai 19—Lysimachia venosa-e          |                                    |         Lysimachia venosa          |
-|        Kauai 19—Platydesma rostrata-l         |                                    |        Platydesma rostrata         |
+|         Kauai 19—Melicope rostrata—l          |                                    |         Melicope rostrata.         |
 |  Kauai 20—Chamaesyce remyi var. kauaiensis-h  |                                    |  Chamaesyce remyi var. kauaiensis  |
 |    Kauai 20—Chamaesyce remyi var. remyi-m     |    Chamaesyce remyi var. remyi     |    Chamaesyce remyi var. remyi     |
 |      Kauai 20—Charpentiera densiflora-e       |      Charpentiera densiflora       |      Charpentiera densiflora       |
@@ -3666,26 +3666,26 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |          Kauai 20—Labordia helleri-h          |          Labordia helleri          |          Labordia helleri          |
 |        Kauai 20—Melicope paniculata-c         |                                    |        Melicope paniculata         |
 |         Kauai 20—Melicope puberula-e          |                                    |         Melicope puberula          |
+|         Kauai 20—Melicope rostrata—m          |                                    |         Melicope rostrata.         |
 |       Kauai 20—Phyllostegia renovans-e        |       Phyllostegia renovans        |       Phyllostegia renovans        |
-|        Kauai 20—Platydesma rostrata-m         |                                    |        Platydesma rostrata         |
 |         Kauai 20—Stenogyne kealiae-e          |                                    |         Stenogyne kealiae          |
 |    Kauai 20—Tetraplasandra bisattenuata-e     |                                    |    Tetraplasandra bisattenuata     |
 |       Kauai 20—Tetraplasandra flynii-f        |                                    |       Tetraplasandra flynii        |
 |    Kauai 21—Chamaesyce remyi var. remyi-n     |                                    |    Chamaesyce remyi var. remyi     |
 |           Kauai 21—Diellia mannii-b           |           Diellia mannii           |           Diellia mannii           |
 |          Kauai 21—Labordia helleri-i          |                                    |          Labordia helleri          |
+|         Kauai 21—Melicope rostrata—n          |                                    |         Melicope rostrata.         |
 |         Kauai 21—Myrsine knudsenii-b          |                                    |         Myrsine knudsenii          |
 |           Kauai 21—Myrsine mezii-d            |                                    |           Myrsine mezii            |
-|        Kauai 21—Platydesma rostrata-n         |                                    |        Platydesma rostrata         |
 |       Kauai 21—Psychotria grandiflora-d       |                                    |       Psychotria grandiflora       |
 |         Kauai 21—Stenogyne kealiae-f          |                                    |         Stenogyne kealiae          |
 |       Kauai 21—Tetraplasandra flynnii-g       |                                    |       Tetraplasandra flynnii       |
 |    Kauai 22—Chamaesyce remyi var. remyi-o     |                                    |    Chamaesyce remyi var. remyi     |
 |           Kauai 22—Diellia mannii-c           |                                    |           Diellia mannii           |
 |          Kauai 22—Labordia helleri-j          |                                    |          Labordia helleri          |
+|         Kauai 22—Melicope rostrata—o          |                                    |         Melicope rostrata.         |
 |         Kauai 22—Myrsine knudsenii-c          |                                    |         Myrsine knudsenii          |
 |           Kauai 22—Myrsine mezii-e            |           Myrsine mezii            |           Myrsine mezii            |
-|        Kauai 22—Platydesma rostrata-o         |                                    |        Platydesma rostrata         |
 |       Kauai 22—Psychotria grandiflora-e       |                                    |       Psychotria grandiflora       |
 |         Kauai 22—Stenogyne kealiae-g          |                                    |         Stenogyne kealiae          |
 |       Kauai 22—Tetraplasandra flynnii-h       |                                    |       Tetraplasandra flynnii       |
@@ -3702,9 +3702,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |       Kauai 23—Lysimachia daphnoides-c        |       Lysimachia daphnoides        |       Lysimachia daphnoides        |
 |         Kauai 23—Melicope degeneri-c          |         Melicope degeneri          |         Melicope degeneri          |
 |         Kauai 23—Melicope puberula-f          |         Melicope puberula          |         Melicope puberula          |
+|         Kauai 23—Melicope rostrata—p          |         Melicope rostrata          |         Melicope rostrata.         |
 |           Kauai 23—Myrsine mezii-f            |           Myrsine mezii            |           Myrsine mezii            |
 |       Kauai 23—Phyllostegia renovans-f        |       Phyllostegia renovans        |       Phyllostegia renovans        |
-|        Kauai 23—Platydesma rostrata-p         |        Platydesma rostrata         |        Platydesma rostrata         |
 |       Kauai 23—Psychotria grandiflora-f       |                                    |       Psychotria grandiflora       |
 |       Kauai 23—Tetraplasandra flynnii-i       |                                    |       Tetraplasandra flynnii       |
 |         Kauai 24—Astelia waialealae-d         |         Astelia waialealae         |         Astelia waialealae         |
@@ -3720,9 +3720,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |       Kauai 24—Lysimachia daphnoides-d        |       Lysimachia daphnoides        |       Lysimachia daphnoides        |
 |         Kauai 24—Melicope degeneri-d          |         Melicope degeneri          |         Melicope degeneri          |
 |         Kauai 24—Melicope puberula-g          |         Melicope puberula          |         Melicope puberula          |
+|         Kauai 24—Melicope rostrata—q          |         Melicope rostrata          |         Melicope rostrata.         |
 |           Kauai 24—Myrsine mezii-g            |           Myrsine mezii            |           Myrsine mezii            |
 |       Kauai 24—Phyllostegia renovans-g        |       Phyllostegia renovans        |       Phyllostegia renovans        |
-|        Kauai 24—Platydesma rostrata-q         |        Platydesma rostrata         |        Platydesma rostrata         |
 |       Kauai 24—Psychotria grandiflora-g       |                                    |       Psychotria grandiflora       |
 |       Kauai 24—Tetraplasandra flynnii-j       |                                    |       Tetraplasandra flynnii       |
 |         Kauai 25—Astelia waialealae-e         |         Astelia waialealae         |         Astelia waialealae         |
@@ -3738,9 +3738,9 @@ Link to an amendment published at 88 FR 7146, Feb. 2, 2023.
 |       Kauai 25—Lysimachia daphnoides-e        |       Lysimachia daphnoides        |       Lysimachia daphnoides        |
 |         Kauai 25—Melicope degeneri-e          |         Melicope degeneri          |         Melicope degeneri          |
 |         Kauai 25—Melicope puberula-h          |         Melicope puberula          |         Melicope puberula          |
+|         Kauai 25—Melicope rostrata—r          |         Melicope rostrata          |         Melicope rostrata.         |
 |           Kauai 25—Myrsine mezii-h            |           Myrsine mezii            |           Myrsine mezii            |
 |       Kauai 25—Phyllostegia renovans-h        |       Phyllostegia renovans        |       Phyllostegia renovans        |
-|        Kauai 25—Platydesma rostrata-r         |        Platydesma rostrata         |        Platydesma rostrata         |
 |       Kauai 25—Psychotria grandiflora-h       |                                    |       Psychotria grandiflora       |
 |       Kauai 25—Tetraplasandra flynnii-k       |                                    |       Tetraplasandra flynnii       |
 
@@ -4216,9 +4216,9 @@ Kauai 7—*Delissea rhytidosperma*—a, Kauai 11—*Delissea rhytidosperma*—b,
 
 (ii) Elevations between 167 and 895 m (547 and 2,935 ft).
 
-Family Campanulaceae: Delissea rivularis (oha)
+Family Campanulaceae: Cyanea rivularis (oha)
 
-Kauai 11—*Delissea rivularis*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Delissea rivularis* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 11—*Cyanea rivularis*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Cyanea rivularis* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Steep slopes near streams in *Metrosideros polymorpha-Cheirodendron trigynum* montane wet or mesic forest and containing one or more of the following native plant species: *Boehmeria grandis, Broussaisia arguta, Carex* spp., *Coprosma* spp., *Diplazium sandwichianum, Dubautia knudsenii, Hedyotis foggiana, Ilex anomala, Machaerina angustifolia, Melicope anisata, Melicope clusiifolia, Pipturus* spp., *Psychotria hexandra,* or *Sadleria* spp.; and
 
@@ -4572,9 +4572,9 @@ Kauai 4—*Cyrtandra cyaneoides*—a, Kauai 11—*Cyrtandra cyaneoides*—b, and
 
 (ii) Elevations between 157 and 1,407 m (514 and 4,614 ft).
 
-Family Gesneriaceae: Cyrtandra limahuliensis (haiwale)
+Family Gesneriaceae: Cyrtandra kealiae ssp. *Kealiae* (Haiwale)
 
-Kauai 4—*Cyrtandra limahuliensis*—a, Kauai 4—*Cyrtandra limahuliensis*—b, Kauai 10—*Cyrtandra limahuliensis*—c, Kauai 11—*Cyrtandra limahuliensis*—d, and Kauai 11—*Cyrtandra limahuliensis*—e, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Cyrtandra limahuliensis* on Kauai. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 4—*Cyrtandra kealiae* ssp. *kealiae*—a, Kauai 4—*Cyrtandra kealiae* ssp. *kealiae*—b, Kauai 10—*Cyrtandra kealiae* ssp. *kealiae*—c, Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—d, and Kauai 11—*Cyrtandra kealiae* ssp. *kealiae*—e, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Cyrtandra kealiae* ssp. *kealiae* on Kauai. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Stream banks in lowland wet forests containing one or more of the following native plant species: *Antidesma platyphyllum, Bidens* spp., *Boehmeria grandis, Charpentiera* spp., *Cibotium glaucum, Cyanea* spp., *Cyrtandra kealiae, Dicranopteris linearis, Diplazium sandwichianum, Dubautia* spp., *Eugenia reinwardtiana, Gunnera kauaiensis, Hedyotis terminalis, Hibiscus waimeae, Metrosideros polymorpha, Perrottetia sandwicensis, Pisonia* spp., *Pipturus* spp., *Pritchardia* spp., *Psychotria* spp., or *Touchardia latifolia;* and
 
@@ -5062,9 +5062,9 @@ Kauai 11—*Gouania meyenii*—a, Kauai 11—*Gouania meyenii*—b, and Kauai 11
 
 (ii) Elevations between 375 and 1,179 m (1,231 and 3,867 ft).
 
-Family Rubiaceae: Hedyotis cookiana (awiwi)
+Family Rubiaceae:Kadua cookiana  (awiwi)
 
-Kauai 11—*Hedyotis cookiana*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Hedyotis cookiana* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 11—*Kadua cookiana*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Kadua cookiana* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Streambeds or steep cliffs close to water sources in relict *Metrosideros polymorpha* lowland mesic and lowland wet forest communities containing one or more of the following associated native plant species: *Boehmeria grandis, Chamaesyce celastroides* var. *hanapepensis, Hibiscus kokio* ssp. *saintjohnianus, Machaerina angustifolia, Nototrichium sandwicense, Pipturus kauaiensis, Pleomele aurea, Pouteria sandwicensis, Psydrax odorata,* or *Rauvolfia sandwicensis;* and
 
@@ -5214,11 +5214,11 @@ Kauai 10-*Melicope puberula*-a, Kauai 10-*Melicope puberula*-b, Kauai 11-*Melico
 
 (F) Understory: Ferns, *Carex, Coprosma*, *Leptecophylla, Oreobolus*, *Rhynchospora, Vaccinium.*
 
-Family Rutaceae: Platydesma rostrata (pilo kea lau lii)
+Family Rutaceae: Melicope Rostrata (Pilo Kea Lau Lii)
 
-Kauai 4-*Platydesma rostrata*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 10-*Platydesma rostrata*-c, Kauai 10-*Platydesma rostrata*-d, Kauai 10-*Platydesma rostrata*-e, Kauai 11-*Platydesma rostrata*-f, Kauai 11-*Platydesma rostrata*-g, Kauai 11-*Platydesma rostrata*-h, Kauai 11-*Platydesma rostrata*-i, Kauai 11-*Platydesma rostrata*-j, Kauai 18-*Platydesma rostrata*-k, Kauai 19-*Platydesma rostrata*-l, Kauai 20-*Platydesma rostrata*-m, Kauai 21-*Platydesma rostrata*-n, Kauai 22-*Platydesma rostrata*-o, Kauai 23-*Platydesma rostrata*-p, Kauai 24-*Platydesma rostrata*-q, and Kauai 25-*Platydesma rostrata*-r, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Platydesma rostrata* on Kauai.
+Kauai 4—*Melicope rostrata*—a, Kauai 7—*Melicope rostrata*—b, Kauai 10—*Melicope rostrata*—c, Kauai 10—*Melicope rostrata*—d, Kauai 10—*Melicope rostrata*—e, Kauai 11—*Melicope rostrata*—f, Kauai 11—*Melicope rostrata*—g, Kauai 11—*Melicope rostrata*—h, Kauai 11—*Melicope rostrata*—i, Kauai 11—*Melicope rostrata*—j, Kauai 18—*Melicope rostrata*—k, Kauai 19—*Melicope rostrata*—l, Kauai 20—*Melicope rostrata*—m, Kauai 21—*Melicope rostrata*—n, Kauai 22—*Melicope rostrata*—o, Kauai 23—*Melicope rostrata*—p, Kauai 24—*Melicope rostrata*—q, and Kauai 25—*Melicope rostrata*—r, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Platydesma rostrata* on Kauai.
 
-(i) In units Kauai 7-*Platydesma rostrata*-b and Kauai 11-*Platydesma rostrata*-g, the primary constituent elements of critical habitat are:
+(i) In units Kauai 7—*Melicope rostrata*—b and Kauai 11—*Melicope rostrata*—g, the primary constituent elements of critical habitat are:
 
 (A) Elevation: Less than 3,000 ft (914 m).
 
@@ -5232,7 +5232,7 @@ Kauai 4-*Platydesma rostrata*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 10-*Plat
 
 (F) Understory: *Carex, Dicranopteris*, *Diplazium, Elaphoglossum*, *Peperomia.*
 
-(ii) In units Kauai 10-*Platydesma rostrata*-d, Kauai 11-*Platydesma rostrata*-h, and Kauai 20-*Platydesma rostrata*-m, the primary constituent elements of critical habitat are:
+(ii) In units Kauai 10—*Melicope rostrata*—d, Kauai 11—*Melicope rostrata*—h, and Kauai 20—*Melicope rostrata*—m, the primary constituent elements of critical habitat are:
 
 (A) Elevation: Less than 3,000 ft (914 m).
 
@@ -5246,7 +5246,7 @@ Kauai 4-*Platydesma rostrata*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 10-*Plat
 
 (F) Understory: *Alyxia, Cyrtandra*, *Dicranopteris, Diplazium*, *Machaerina, Microlepia.*
 
-(iii) In units Kauai 11-*Platydesma rostrata*-j, Kauai 21-*Platydesma rostrata*-n, and Kauai 22-*Platydesma rostrata*-o, the primary constituent elements of critical habitat are:
+(iii) In units Kauai 11—*Melicope rostrata*—j, Kauai 21—*Melicope rostrata*—n, and Kauai 22—*Melicope rostrata*—o, the primary constituent elements of critical habitat are:
 
 (A) Elevation: 3,000 to 5,243 ft (914 to 1,598 m).
 
@@ -5260,7 +5260,7 @@ Kauai 4-*Platydesma rostrata*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 10-*Plat
 
 (F) Understory: *Bidens, Dryopteris*, *Leptecophylla, Poa*, *Scaevola, Sophora.*
 
-(iv) In units Kauai 10-*Platydesma rostrata*-c, Kauai 11-*Platydesma rostrata*-f, Kauai 23-*Platydesma rostrata*-p, Kauai 24-*Platydesma rostrata*-q, and Kauai 25-*Platydesma rostrata*-r, the primary constituent elements of critical habitat are:
+(iv) In units Kauai 10—*Melicope rostrata*—c, Kauai 11—*Melicope rostrata*—f, Kauai 23—*Melicope rostrata*—p, Kauai 24—*Melicope rostrata*—q, and Kauai 25—*Melicope rostrata*—r, the primary constituent elements of critical habitat are:
 
 (A) Elevation: 3,000 to 5,243 ft (914 to 1,598 m).
 
@@ -5274,7 +5274,7 @@ Kauai 4-*Platydesma rostrata*-a, Kauai 7-*Platydesma rostrata*-b, Kauai 10-*Plat
 
 (F) Understory: Ferns, *Carex, Coprosma*, *Leptecophylla, Oreobolus*, *Rhynchospora, Vaccinium.*
 
-(v) In units Kauai 4-*Platydesma rostrata*-a, Kauai 10-*Platydesma rostrata*-e, Kauai 11-*Platydesma rostrata*-i, Kauai 18-*Platydesma rostrata*-k, and Kauai 19-*Platydesma rostrata*-l, the primary constituent elements of critical habitat are:
+(v) In units Kauai 4—*Melicope rostrata*—a, Kauai 10—*Melicope rostrata*—e, Kauai 11—*Melicope rostrata*—i, Kauai 18—*Melicope rostrata*—k, and Kauai 19—*Melicope rostrata*—l, the primary constituent elements of critical habitat are:
 
 (A) Annual precipitation: Greater than 75 inches (190 centimeters).
 
@@ -5358,9 +5358,9 @@ Kauai 10—*Viola kauaiensis* var. *wahiawaensis*—a, identified in the legal d
 
 (2) *Ferns and allies.*
 
-Family Aspleniaceae: *Asplenium dielerectum* (asplenium-leaved diellia
+Family Aspleniaceae: *Asplenium dielerectum* (No Common Name)
 
-Kauai 11—*Asplenium dielerectum*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Asplenium dielerectum*—on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 11—*Asplenium dielpallidum*—a and Kauai 11—*Asplenium dielpallidum*—b, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Asplenium dielpallidum* on Kauai. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Brown granular soil with leaf litter and occasional terrestrial moss on north-facing slopes in deep shade on steep slopes or gulch bottoms in *Metrosideros polymorpha-Dicranopteris linearis* wet forest or *Metrosideros polymorpha* mixed mesic forest with *Acacia koa* and *Acacia koaia* as co-dominants and containing one or more of the following native plant species: *Asplenium aethiopicum, Asplenium contiguum, Asplenium macraei, Coprosma* spp., *Dodonaea viscosa, Dryopteris fusco-atra, Dryopteris unidentata, Hedyotis terminalis, Leptecophylla tameiameiae, Melicope* spp., *Microlepia strigosa, Myrsine* spp., *Nestegis sandwicensis, Psychotria* spp., *Syzygium sandwicensis,* or *Wikstroemia* spp.; and
 
@@ -5422,7 +5422,7 @@ Kauai 10-*Dryopteris crinalis* var. *podosorus*-a, Kauai 11-*Dryopteris crinalis
 
 (vi) Understory: Ferns, *Carex, Coprosma*, *Leptecophylla, Oreobolus*, *Rhynchospora, Vaccinium.*
 
-Family Grammitidaceae: Adenophorus periens (pendent kihi fern)
+Family Grammitidaceae: *Adenophorus periens* (palai laau)
 
 Kauai 4—*Adenophorus periens*—a, Kauai 10—*Adenophorus periens*—b, Kauai 11—*Adenophorus periens*—c, and Kauai 11—*Adenophorus periens—*d, identified in the legal descriptions in paragraph (a)(1) of this section, constitute critical habitat for *Adenophorus periens* on Kauai. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
@@ -5430,9 +5430,9 @@ Kauai 4—*Adenophorus periens*—a, Kauai 10—*Adenophorus periens*—b, Kauai
 
 (ii) Elevations between 169 and 1,345 m (553 and 4,411 ft).
 
-Family Lycopodiaceae: Huperzia nutans (wawaeiole)
+Family Lycopodiaceae: *Phlegmariurus nutans* (wawaeiole)
 
-Kauai 10—*Huperzia nutans*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Huperzia nutans* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Kauai 10—*Phlegmariurus nutans*—a, identified in the legal description in paragraph (a)(1) of this section, constitutes critical habitat for *Phlegmariurus nutans* on Kauai. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Tree trunks, usually on open ridges and slopes in *Metrosideros polymorpha-Dicranopteris linearis* wet or mesic forests and containing one or more of the following associated native plant species: *Antidesma platyphyllum, Broussaisia arguta, Cheirodendron fauriei, Cibotium* spp., *Diplopterygium pinnatum, Hedyotis terminalis, Hibiscus kokio ssp. kokio, Melicope waialealae, Perrottetia sandwicensis, Psychotria hexandra, Psychotria mariniana, Psychotria wawrae, Scaevola gaudichaudii,* or *Syzygium sandwicensis;* and
 
@@ -7011,7 +7011,7 @@ Molokai—Coastal—Unit 1, Molokai—Coastal—Unit 2, Molokai—Coastal—Unit
 
 (F) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
-Kokia cookei (COOKE'S KOKIO)
+Kokia cookei(KOKIO)
 
 Molokai—Lowland Dry—Unit 1 and Molokai—Lowland Dry—Unit 2, identified in the legal descriptions in paragraph (c) of this section, constitute critical habitat for *Kokia cookei* on Molokai. In units Molokai—Lowland Dry—Unit 1 and Molokai—Lowland Dry—Unit 2, the physical and biological features of critical habitat are:
 
@@ -7505,7 +7505,7 @@ Molokai—Montane Wet—Unit 1, Molokai—Montane Wet—Unit 2, Molokai—Montan
 
 (F) Understory: Bryophytes, ferns, *Coprosma, Dubautia, Kadua, Peperomia.*
 
-Family AspleniaceaeAsplenium dielerectum (ASPLENIUM-LEAVED DIELLIA)
+Family AspleniaceaeAsplenium dielerectum (NCN)
 
 Molokai—Lowland Mesic—Unit 1, Molokai—Lowland Wet—Unit 1, Molokai—Lowland Wet—Unit 2, Molokai—Lowland Wet—Unit 3, and Molokai—Montane Mesic—Unit 1, identified in the legal descriptions in paragraph (c) of this section, constitute critical habitat for *Asplenium dielerectum* on Molokai.
 
@@ -7583,7 +7583,7 @@ Molokai—Lowland Mesic—Unit 1, identified in the legal descriptions in paragr
 
 (vi) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
 
-Family GrammitidaceaeAdenophorus periens (PENDANT KIHI FERN)
+Family GrammitidaceaeAdenophorus periens (PALAI LAAU)
 
 Molokai—Montane Wet—Unit 1, Molokai--Montane Wet--Unit 2, and Molokai--Montane Wet--Unit 3, identified in the legal descriptions in paragraph (c) of this section, constitute critical habitat for *Adenophorus periens* on Molokai. In units Molokai--Montane Wet--Unit 1, Molokai--Montane Wet--Unit 2, and Molokai--Montane Wet--Unit 3, the physical and biological features of critical habitat are:
 
@@ -7701,7 +7701,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xii) Maui—Lowland Mesic—Unit 1 (1,882 ac, 762 ha).
 
-(A) This unit is critical habitat for *Ctenitis squamigera, Cyanea asplenifolia, Cyanea copelandii* ssp. *haleakalaensis, Huperzia mannii,* and *Solanum incompletum.*
+(A) This unit is critical habitat for *Ctenitis squamigera, Cyanea asplenifolia, Cyanea copelandii* ssp. *haleakalaensis, Phlegmariurus mannii,* and *Solanum incompletum.*
 
 (B) Map of Maui—Lowland Mesic--Unit 1 (Map 12) follows:
 
@@ -7717,7 +7717,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xiv) Maui--Lowland Wet--Unit 1 (16,079 ac, 6,507 ha).
 
-(A) This unit is critical habitat for *Bidens campylotheca* ssp. *waihoiensis, Clermontia oblongifolia* ssp. *mauiensis, Clermontia peleana, Clermontia samuelii, Cyanea asplenifolia, Cyanea copelandii* ssp. *haleakalaensis, Cyanea duvalliorum, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea kunthiana, Cyanea maritae, Cyanea mceldowneyi, Huperzia mannii, Melicope balloui, Melicope ovalis, Mucuna sloanei* var. *persericea, Phyllostegia haliakalae,* and *Wikstroemia villosa.*
+(A) This unit is critical habitat for *Bidens campylotheca* ssp. *waihoiensis, Clermontia oblongifolia* ssp. *mauiensis, Clermontia peleana, Clermontia samuelii, Cyanea asplenifolia, Cyanea copelandii* ssp. *haleakalaensis, Cyanea duvalliorum, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea kunthiana, Cyanea maritae, Cyanea mceldowneyi, Phlegmariurus mannii, Melicope balloui, Melicope ovalis, Mucuna persericea, Phyllostegia haliakalae,* and *Wikstroemia villosa.*
 
 (B) Map of Maui--Lowland Wet--Unit 1 (Map 14) follows:
 
@@ -7725,7 +7725,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xv) Maui--Lowland Wet--Unit 2 (65 ac, 26 ha), Maui--Lowland Wet--Unit 3 (1,247 ac, 505 ha), Maui--Lowland Wet--Unit 4 (864 ac, 350 ha), and Maui--Lowland Wet--Unit 6 (136 ac, 55 ha).
 
-(A) This unit is critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Bidens conjuncta, Bidens micrantha* ssp. *kalealaha, Clermontia oblongifolia* ssp. *mauiensis, Ctenitis squamigera, Cyanea asplenifolia, Cyanea glabra, Cyanea kunthiana, Cyanea lobata, Cyanea magnicalyx, Cyrtandra filipes, Cyrtandra munroi, Diplazium molokaiense, Hesperomannia arborescens, Hesperomannia arbuscula, Huperzia mannii, Isodendrion pyrifolium, Kadua laxiflora, Peucedanum sandwicense, Phyllostegia bracteata, Pteris lidgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense,* and *Wikstroemia villosa.*
+(A) This unit is critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Bidens conjuncta, Bidens micrantha* ssp. *kalealaha, Clermontia oblongifolia* ssp. *mauiensis, Ctenitis squamigera, Cyanea asplenifolia, Cyanea glabra, Cyanea kunthiana, Cyanea lobata, Cyanea magnicalyx, Cyrtandra filipes, Cyrtandra munroi, Diplazium molokaiense, Hesperomannia arborescens, Hesperomannia arbuscula, Phlegmariurus mannii, Isodendrion pyrifolium, Kadua laxiflora, Peucedanum sandwicense, Phyllostegia bracteata, Pteris lidgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense,* and *Wikstroemia villosa.*
 
 (B) Map of Maui--Lowland Wet--Unit 2, Maui--Lowland Wet--Unit 3, Maui---Lowland Wet--Unit 4, and Maui--Lowland Wet--Unit 6 (Map 15) follows:
 
@@ -7733,13 +7733,15 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xvi) Maui--Lowland Wet--Unit 5 (30 ac, 12 ha), Maui--Lowland Wet--Unit 7 (898 ac, 364 ha), and Maui--Lowland Wet--Unit 8 (230 ac, 93 ha).
 
-(A) These units are critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Bidens conjuncta, Bidens micrantha* ssp. *kalealaha, Clermontia oblongifolia* ssp. *mauiensis, Ctenitis squamigera, Cyanea asplenifolia, Cyanea glabra, Cyanea kunthiana, Cyanea lobata, Cyanea magnicalyx, Cyrtandra filipes, Cyrtandra munroi, Diplazium molokaiense, Hesperomannia arborescens, Hesperomannia arbuscula, Huperzia mannii, Isodendrion pyrifolium, Kadua laxiflora, Peucedanum sandwicense, Phyllostegia bracteata, Pteris lidgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense,* and *Wikstroemia villosa.*
+(A) These units are critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Bidens conjuncta, Bidens micrantha* ssp. *kalealaha, Clermontia oblongifolia* ssp. *mauiensis, Ctenitis squamigera, Cyanea asplenifolia, Cyanea glabra, Cyanea kunthiana, Cyanea lobata, Cyanea magnicalyx, Cyrtandra filipes, Cyrtandra munroi, Diplazium molokaiense, Hesperomannia arborescens, Hesperomannia arbuscula, Phlegmariurus mannii, Isodendrion pyrifolium, Kadua laxiflora, Peucedanum sandwicense, Phyllostegia bracteata, Pteris lidgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense,* and *Wikstroemia villosa.*
 
 (B) Map of Maui--Lowland Wet--Unit 5, Maui--Lowland Wet--Unit 7, and Maui--Lowland Wet--Unit 8 (Map 16) follows:
 
 ![](/graphics/er30mr16.094.gif)
 
-(A) This unit is critical habitat for *Adenophorus periens, Asplenium peruvianum* var. *insulare, Bidens campylotheca* ssp. *pentamera, Bidens campylotheca* ssp. *waihoiensis, Clermontia oblongifolia* ssp. *mauiensis, Clermontia samuelii, Cyanea copelandii* ssp. *haleakalaensis, Cyanea duvalliorum, Cyanea glabra, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea horrida, Cyanea kunthiana, Cyanea maritae, Cyanea mceldowneyi, Cyrtandra ferripilosa, Diplazium molokaiense, Geranium hanaense, Geranium multiflorum, Huperzia mannii, Melicope balloui, Melicope ovalis, Peperomia subpetiolata, Phyllostegia bracteata, Phyllostegia haliakalae, Phyllostegia mannii, Phyllostegia pilosa, Platanthera holochila, Schiedea jacobii,* and *Wikstroemia villosa.*
+(xvii) Maui—Montane Wet—Unit 1 (2,110 ac, 854 ha), Maui—Montane Wet—Unit 2 (14,583 ac, 5,901 ha), Maui—Montane Wet—Unit 3 (2,228 ac, 902 ha), Maui—Montane Wet—Unit 4 (1,833 ac, 742 ha), and Maui—Montane Wet—Unit 5 (387 ac, 156 ha).
+
+(A) This unit is critical habitat for *Adenophorus periens, Asplenium peruvianum* var. *insulare, Bidens campylotheca* ssp. *pentamera, Bidens campylotheca* ssp. *waihoiensis, Clermontia oblongifolia* ssp. *mauiensis, Clermontia samuelii, Cyanea copelandii* ssp. *haleakalaensis, Cyanea duvalliorum, Cyanea glabra, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea horrida, Cyanea kunthiana, Cyanea maritae, Cyanea mceldowneyi, Cyrtandra ferripilosa, Diplazium molokaiense, Geranium hanaense, Geranium multiflorum, Phlegmariurus mannii, Melicope balloui, Melicope ovalis, Peperomia subpetiolata, Phyllostegia bracteata, Phyllostegia haliakalae, Phyllostegia mannii, Phyllostegia pilosa, Platanthera holochila, Schiedea jacobii,* and *Wikstroemia villosa.*
 
 (B) Map of Maui--Montane Wet--Unit 1, Maui--Montane Wet--Unit 2, Maui--Montane Wet--Unit 3, Maui--Montane Wet--Unit 4, and Maui--Montane Wet--Unit 5 (Map 17) follows:
 
@@ -7747,7 +7749,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xviii) Maui--Montane Wet--Unit 6 (1,399 ac, 566 ha), and Maui--Montane Wet--Unit 7 (80 ac, 32 ha).
 
-(A) These units are critical habitat for *Acaena exigua, Bidens conjuncta, Calamagrostis hillebrandii, Cyanea kunthiana, Cyrtandra oxybapha, Geranium hillebrandii, Huperzia mannii, Myrsine vaccinioides, Phyllostegia bracteata, Platanthera holochila,* and *Sanicula purpurea.*
+(A) These units are critical habitat for *Acaena exigua, Bidens conjuncta, Calamagrostis hillebrandii, Cyanea kunthiana, Cyrtandra oxybapha, Geranium hillebrandii, Phlegmariurus mannii, Myrsine vaccinioides, Phyllostegia bracteata, Platanthera holochila,* and *Sanicula purpurea.*
 
 (B) Map of Maui--Montane Wet--Unit 6 and Maui--Montane Wet--Unit 7 (Map 18) follows:
 
@@ -7755,7 +7757,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xix) Maui--Montane Mesic--Unit 1 (10,972 ac, 4,440 ha).
 
-(A) This unit is critical habitat for *Alectryon macrococcus, Argyroxiphium sandwicense* ssp. *macrocephalum, Asplenium dielerectum, Asplenium peruvianum* var. *insulare, Bidens campylotheca* ssp. *pentamera, Bidens micrantha* ssp. *kalealaha, Clermontia lindseyana, Cyanea glabra, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea horrida, Cyanea kunthiana, Cyanea mceldowneyi, Cyanea obtusa, Cyrtandra ferripilosa, Cyrtandra oxybapha, Diplazium molokaiense, Geranium arboreum, Geranium multiflorum, Huperzia mannii, Melicope adscendens, Neraudia sericea, Phyllostegia bracteata, Phyllostegia mannii, Santalum haleakalae* var. *lanaiense, Wikstroemia villosa,* and *Zanthoxylum hawaiiense.*
+(A) This unit is critical habitat for *Alectryon macrococcus, Argyroxiphium sandwicense* ssp. *macrocephalum, Asplenium dielerectum, Asplenium peruvianum* var. *insulare, Bidens campylotheca* ssp. *pentamera, Bidens micrantha* ssp. *kalealaha, Clermontia lindseyana, Cyanea glabra, Cyanea hamatiflora* ssp. *hamatiflora, Cyanea horrida, Cyanea kunthiana, Cyanea mceldowneyi, Cyanea obtusa, Cyrtandra ferripilosa, Cyrtandra oxybapha, Diplazium molokaiense, Geranium arboreum, Geranium multiflorum, Phlegmariurus mannii, Melicope adscendens, Neraudia sericea, Phyllostegia bracteata, Phyllostegia mannii, Santalum haleakalae* var. *lanaiense, Wikstroemia villosa,* and *Zanthoxylum hawaiiense.*
 
 (B) Map of Maui--Montane Mesic--Unit 1 (Map 19) follows:
 
@@ -7763,7 +7765,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 (xx) Maui—Montane Mesic—Unit 2 (124 ac, 50 ha), Maui—Montane Mesic—Unit 3 (174 ac; 70 ha), Maui—Montane Mesic—Unit 4 (72 ac, 29 ha), and Maui—Montane Mesic—Unit 5 (170 ac, 69 ha).
 
-(A) These units are critical habitat for *Ctenitis squamigera, Cyanea magnicalyx, Diplazium molokaiense, Geranium hillebrandii, Huperzia mannii, Lysimachia lydgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense, Stenogyne kauaulaensis,* and *Zanthoxylum hawaiiense.*
+(A) These units are critical habitat for *Ctenitis squamigera, Cyanea magnicalyx, Diplazium molokaiense, Geranium hillebrandii, Phlegmariurus mannii, Lysimachia lydgatei, Remya mauiensis, Santalum haleakalae* var. *lanaiense, Stenogyne kauaulaensis,* and *Zanthoxylum hawaiiense.*
 
 (B) Map of Maui--Montane Mesic--Unit 2, Maui--Montane Mesic--Unit 3, Maui--Montane Mesic--Unit 4, and Maui--Montane Mesic--Unit 5 (Map 20) follows:
 
@@ -7996,7 +7998,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |Maui—Lowland Mesic—Unit 1|                                            |            Ctenitis squamigera.             |
 |                         |            Cyanea asplenifolia             |                                             |
 |                         |   Cyanea copelandii ssp. haleakalaensis    |                                             |
-|                         |              Huperzia mannii               |                                             |
+|                         |            Phlegmariurus mannii            |                                             |
 |                         |                                            |            Solanum incompletum.             |
 |Maui—Lowland Mesic—Unit 2|                                            |           Asplenium dielerectum.            |
 |                         |                                            |     Bidens campylotheca ssp. pentamera.     |
@@ -8023,10 +8025,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |              Cyanea kunthiana              |                                             |
 |                         |               Cyanea maritae               |                                             |
 |                         |             Cyanea mceldowneyi             |                                             |
-|                         |              Huperzia mannii               |                                             |
 |                         |              Melicope balloui              |                                             |
 |                         |              Melicope ovalis               |                                             |
-|                         |                                            |       Mucuna sloanei var. persericea.       |
+|                         |                                            |             Mucuna persericea.              |
+|                         |            Phlegmariurus mannii            |                                             |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Wikstroemia villosa.             |
 | Maui—Lowland Wet—Unit 2 |                                            |           Alectryon macrococcus.            |
@@ -8045,10 +8047,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8070,10 +8072,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |              Pteris lidgatei               |                                             |
 |                         |                                            |              Remya mauiensis.               |
@@ -8095,10 +8097,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8120,10 +8122,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8145,10 +8147,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8170,10 +8172,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8195,10 +8197,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |         Hesperomannia arborescens.          |
 |                         |                                            |          Hesperomannia arbuscula.           |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |           Isodendrion pyrifolium.           |
 |                         |                                            |              Kadua laxiflora.               |
 |                         |                                            |           Peucedanum sandwicense.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |              Pteris lidgatei.               |
 |                         |                                            |              Remya mauiensis.               |
@@ -8222,10 +8224,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |             Geranium hanaense.              |
 |                         |                                            |            Geranium multiflorum.            |
-|                         |              Huperzia mannii               |                                             |
 |                         |              Melicope balloui              |                                             |
 |                         |                                            |              Melicope ovalis.               |
 |                         |                                            |           Peperomia subpetiolata.           |
+|                         |            Phlegmariurus mannii            |                                             |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Phyllostegia mannii.             |
@@ -8251,10 +8253,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |             Geranium hanaense              |                                             |
 |                         |            Geranium multiflorum            |                                             |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |              Melicope balloui.              |
 |                         |                                            |              Melicope ovalis.               |
 |                         |                                            |           Peperomia subpetiolata.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Phyllostegia mannii.             |
@@ -8280,10 +8282,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |             Geranium hanaense.              |
 |                         |                                            |            Geranium multiflorum.            |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |              Melicope balloui.              |
 |                         |              Melicope ovalis               |                                             |
 |                         |                                            |           Peperomia subpetiolata.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Phyllostegia mannii.             |
@@ -8309,10 +8311,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |             Geranium hanaense.              |
 |                         |                                            |            Geranium multiflorum.            |
-|                         |              Huperzia mannii               |                                             |
 |                         |                                            |              Melicope balloui.              |
 |                         |                                            |              Melicope ovalis.               |
 |                         |                                            |           Peperomia subpetiolata.           |
+|                         |            Phlegmariurus mannii            |                                             |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Phyllostegia mannii.             |
@@ -8338,10 +8340,10 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |             Geranium hanaense.              |
 |                         |                                            |            Geranium multiflorum.            |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |              Melicope balloui.              |
 |                         |                                            |              Melicope ovalis.               |
 |                         |                                            |           Peperomia subpetiolata.           |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |          Phyllostegia haliakalae.           |
 |                         |                                            |            Phyllostegia mannii.             |
@@ -8355,8 +8357,8 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |              Cyanea kunthiana              |                                             |
 |                         |                                            |             Cyrtandra oxybapha.             |
 |                         |           Geranium hillebrandii            |                                             |
-|                         |                                            |              Huperzia mannii.               |
 |                         |            Myrsine vaccinioides            |                                             |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |           Platanthera holochila.            |
 |                         |             Sanicula purpurea              |                                             |
@@ -8366,8 +8368,8 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |              Cyanea kunthiana.              |
 |                         |             Cyrtandra oxybapha             |                                             |
 |                         |                                            |           Geranium hillebrandii.            |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |            Myrsine vaccinioides.            |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |           Platanthera holochila            |                                             |
 |                         |                                            |             Sanicula purpurea.              |
@@ -8389,9 +8391,9 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |           Diplazium molokaiense            |                                             |
 |                         |             Geranium arboreum              |                                             |
 |                         |            Geranium multiflorum            |                                             |
-|                         |              Huperzia mannii               |                                             |
 |                         |            Melicope adscendens             |                                             |
 |                         |              Neraudia sericea              |                                             |
+|                         |            Phlegmariurus mannii            |                                             |
 |                         |                                            |           Phyllostegia bracteata.           |
 |                         |                                            |            Phyllostegia mannii.             |
 |                         |                                            |     Santalum haleakalae var. lanaiense.     |
@@ -8400,9 +8402,9 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |Maui—Montane Mesic—Unit 2|            Ctenitis squamigera             |                                             |
 |                         |             Cyanea magnicalyx              |                                             |
 |                         |           Diplazium molokaiense            |                                             |
-|                         |                                            |           Geranium hillebrandii.            |
-|                         |                                            |              Huperzia mannii.               |
+|                         |                                            |            Geranium hillebrandii            |
 |                         |            Lysimachia lydgatei             |                                             |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |              Remya mauiensis               |                                             |
 |                         |     Santalum haleakalae var. lanaiense     |                                             |
 |                         |                                            |           Stenogyne kauaulaensis.           |
@@ -8411,8 +8413,8 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |             Cyanea magnicalyx.              |
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |           Geranium hillebrandii            |                                             |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |            Lysimachia lydgatei.             |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |              Remya mauiensis.               |
 |                         |                                            |     Santalum haleakalae var. lanaiense.     |
 |                         |                                            |           Stenogyne kauaulaensis.           |
@@ -8421,8 +8423,8 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |             Cyanea magnicalyx.              |
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |           Geranium hillebrandii.            |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |            Lysimachia lydgatei.             |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |                                            |              Remya mauiensis.               |
 |                         |                                            |     Santalum haleakalae var. lanaiense.     |
 |                         |                                            |           Stenogyne kauaulaensis.           |
@@ -8431,8 +8433,8 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 |                         |                                            |             Cyanea magnicalyx.              |
 |                         |                                            |           Diplazium molokaiense.            |
 |                         |                                            |           Geranium hillebrandii.            |
-|                         |                                            |              Huperzia mannii.               |
 |                         |                                            |            Lysimachia lydgatei.             |
+|                         |                                            |            Phlegmariurus mannii.            |
 |                         |              Remya mauiensis               |                                             |
 |                         |     Santalum haleakalae var. lanaiense     |                                             |
 |                         |                                            |           Stenogyne kauaulaensis.           |
@@ -10137,9 +10139,9 @@ Kahoolawe--Coastal--Unit 1, Kahoolawe--Coastal--Unit 2, Kahoolawe--Coastal--Unit
 
 (F) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
-Mucuna sloanei var. persericea (SEA BEAN)
+Mucuna persericea (SEA BEAN)
 
-Maui--Lowland Wet--Unit 1, identified in the legal descriptions in paragraph (e)(1) of this section, constitutes critical habitat for *Mucuna sloanei* var. *persericea* on Maui. In unit Maui--Lowland Wet--Unit 1, the physical and biological features of critical habitat are:
+Maui--Lowland Wet--Unit 1, identified in the legal descriptions in paragraph (e)(1) of this section, constitutes critical habitat for *Mucuna persericea* on Maui. In unit Maui--Lowland Wet--Unit 1, the physical and biological features of critical habitat are:
 
 (i) Elevation: Less than 3,300 ft (1,000 m).
 
@@ -11657,7 +11659,7 @@ Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—U
 
 (F) Understory: Bryophytes, ferns, *Coprosma, Dubautia, Kadua, Peperomia.*
 
-Family AspleniaceaeAsplenium dielerectum (ASPLENIUM-LEAVED DIELLIA)
+Family AspleniaceaeAsplenium dielerectum (NCN)
 
 Maui—Lowland Dry—Unit 5, Maui—Lowland Dry—Unit 6, Maui—Lowland Mesic—Unit 2, Maui—Lowland Mesic—Unit 3, Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—Unit 4, Maui—Lowland Wet—Unit 5, Maui—Lowland Wet—Unit 6, Maui—Lowland Wet—Unit 7, Maui—Lowland Wet—Unit 8, and Maui—Montane Mesic—Unit 1, identified in the legal descriptions in paragraph (e)(1) of this section, constitute critical habitat for *Asplenium dielerectum* on Maui.
 
@@ -11897,7 +11899,7 @@ Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—U
 
 (F) Understory: *Bidens, Eragrostis, Melanthera, Schiedea.*
 
-Family GrammitidaceaeAdenophorus periens (PENDANT KIHI FERN)
+Family GrammitidaceaeAdenophorus periens *(PALAI LAAU)*
 
 Maui—Montane Wet—Unit 1, Maui—Montane Wet—Unit 2, Maui—Montane Wet—Unit 3, Maui—Montane Wet—Unit 4, and Maui—Montane Wet—Unit 5, identified in the legal descriptions in paragraph (e)(1) of this section, constitute critical habitat for *Adenophorus periens* on Maui. In units Maui—Montane Wet—Unit 1, Maui—Montane Wet—Unit 2, Maui—Montane Wet—Unit 3, Maui—Montane Wet—Unit 4, and Maui—Montane Wet—Unit 5, the physical and biological features of critical habitat are:
 
@@ -11913,9 +11915,9 @@ Maui—Montane Wet—Unit 1, Maui—Montane Wet—Unit 2, Maui—Montane Wet—U
 
 (vi) Understory: Ferns, *Carex, Coprosma,**Leptecophylla, Oreobolus,**Rhynchospora, Vaccinium.*
 
-Family LycopodiaceaeHuperzia mannii (WAWAEIOLE)
+Family LycopodiaceaePhlegmariurus mannii (WAWAEIOLE)
 
-Maui—Lowland Mesic—Unit 1, Maui—Lowland Wet—Unit 1, Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—Unit 4, Maui—Lowland Wet—Unit 5, Maui—Lowland Wet—Unit 6, Maui—Lowland Wet—Unit 7, Maui—Lowland Wet—Unit 8, Maui—Montane Wet—Unit 1, Maui—Montane Wet—Unit 2, Maui—Montane Wet—Unit 3, Maui—Montane Wet—Unit 4, Maui—Montane Wet—Unit 5, Maui—Montane Wet—Unit 6, Maui—Montane Wet—Unit 7, Maui—Montane Mesic—Unit 1, Maui—Montane Mesic—Unit 2, Maui—Montane Mesic—Unit 3, Maui—Montane Mesic—Unit 4, and Maui—Montane Mesic—Unit 5, identified in the legal descriptions in paragraph (e)(1) of this section, constitute critical habitat for *Huperzia mannii* on Maui.
+Maui—Lowland Mesic—Unit 1, Maui—Lowland Wet—Unit 1, Maui—Lowland Wet—Unit 2, Maui—Lowland Wet—Unit 3, Maui—Lowland Wet—Unit 4, Maui—Lowland Wet—Unit 5, Maui—Lowland Wet—Unit 6, Maui—Lowland Wet—Unit 7, Maui—Lowland Wet—Unit 8, Maui—Montane Wet—Unit 1, Maui—Montane Wet—Unit 2, Maui—Montane Wet—Unit 3, Maui—Montane Wet—Unit 4, Maui—Montane Wet—Unit 5, Maui—Montane Wet—Unit 6, Maui—Montane Wet—Unit 7, Maui—Montane Mesic—Unit 1, Maui—Montane Mesic—Unit 2, Maui—Montane Mesic—Unit 3, Maui—Montane Mesic—Unit 4, and Maui—Montane Mesic—Unit 5, identified in the legal descriptions in paragraph (e)(1) of this section, constitute critical habitat for *Phlegmariurus mannii* on Maui.
 
 (i) In unit Maui—Lowland Mesic—Unit 1, the physical and biological features of critical habitat are:
 
@@ -12091,7 +12093,7 @@ Nihoa 4—*Sesbania tomentosa,* and Necker 1—*Sesbania tomentosa,* identified 
 
 (2) Elevations between sea level and 84 m (0 and 276 ft).
 
-Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.Link to an amendment published at 88 FR 7147, Feb. 2, 2023.
+Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end of part 17.
 
 (i) *Oahu.* Critical habitat units are described below. Maps were created in GIS, with coordinates in UTM Zone 4 with units in meters using North American Datum of 1983 (NAD83). The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's Internet site, *http://www.fws.gov/pacificislands*; at *http://www.regulations.gov* at Docket No. FWS-R1-ES-2010-0043; and at the field office responsible for the designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2. Existing manmade features and structures, such as buildings, roads, railroads, airports, runways, other paved areas, lawns, and other urban landscaped areas, existing trails, campgrounds and their immediate surrounding landscaped area, scenic lookouts, remote helicopter landing sites, and existing fences are not included in the critical habitat designation. Federal actions limited to those areas, therefore, would not trigger a consultation under section 7 of the Act unless they may affect the species or physical or biological features in adjacent critical habitat.
 
@@ -12159,7 +12161,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (9) Oahu—Lowland Dry—Unit 1 (102 ac; 41 ha) and Oahu—Lowland Dry—Unit 2 (29 ac; 12).
 
-(i) These units are critical habitat for *Achyranthes splendens* var. *rotundata, Bidens amplectens, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Euphorbia haeleeleana, Gouania meyenii, Gouania vitifolia, Hibiscus brackenridgei, Isodendrion pyrifolium, Melanthera tenuifolia, Neraudia angulata, Nototrichium humile, Pleomele forbesii, Schiedea hookeri, Schiedea kealiae,* and *Spermolepis hawaiiensis.*
+(i) These units are critical habitat for *Achyranthes splendens* var. *rotundata, Bidens amplectens, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Dracaena forbesii, Euphorbia haeleeleana, Gouania meyenii, Gouania vitifolia, Hibiscus brackenridgei, Isodendrion pyrifolium, Melanthera tenuifolia, Neraudia angulata, Nototrichium humile, , Schiedea hookeri, Schiedea kealiae,* and *Spermolepis hawaiiensis.*
 
 (ii) Map of Oahu—Lowland Dry—Unit 1 and Oahu—Lowland Dry—Unit 2 (Map 9) follows:
 
@@ -12179,7 +12181,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (12) Oahu—Lowland Dry—Unit 8 (99 ac; 40 ha), Oahu—Lowland Dry—Unit 9 (37 ac; 15 ha), Oahu—Lowland Dry—Unit 10 (43 ac; 17 ha), and Oahu—Lowland Dry—Unit 11 (166 ac; 67 ha).
 
-(i) These units are critical habitat for *Achyranthes splendens* var. *rotundata, Bidens amplectens, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Chamaesyce skottsbergii* var. *skottsbergii, Euphorbia haeleeleana, Gouania meyenii, Gouania vitifolia, Hibiscus brackenridgei, Isodendrion pyrifolium, Melanthera tenuifolia, Neraudia angulata, Nototrichium humile, Schiedea hookeri, Schiedea kealiae,* and *Spermolepis hawaiiensis.*
+(i) These units are critical habitat for *Achyranthes splendens* var. *rotundata, Bidens amplectens, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Euphorbia haeleeleana, Euphorbia skottsbergii* var. *skottsbergii, Gouania meyenii, Gouania vitifolia, Hibiscus brackenridgei, Isodendrion pyrifolium, Melanthera tenuifolia, Neraudia angulata, Nototrichium humile, Schiedea hookeri, Schiedea kealiae,* and *Spermolepis hawaiiensis.*
 
 (ii) Map of Oahu—Lowland Dry—Unit 8, Oahu—Lowland Dry—Unit 9, Oahu—Lowland Dry—Unit 10, and Oahu—Lowland Dry—Unit 11 (Map 11) follows:
 
@@ -12187,13 +12189,13 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (13) Oahu—Lowland Mesic—Unit 1 (4,448 ac; 1,800 ha).
 
-(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia falcata, Diellia unisora, Diplazium molokaiense, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae,* and *Viola chamissoniana* ssp. *chamissoniana.* Map of Oahu—Lowland Mesic—Unit 1 (Map 12) follows:
+(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia unisora, Diplazium molokaiense, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae,* and *Viola chamissoniana* ssp. *chamissoniana.* Map of Oahu—Lowland Mesic—Unit 1 (Map 12) follows:
 
 ![](/graphics/er18se12.046.gif)
 
 (14) Oahu—Lowland Mesic—Unit 2 (1,063 ac; 430 ha).
 
-(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia falcata, Diellia unisora, Diplazium molokaiense, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae, and Viola chamissoniana* ssp. *chamissoniana.*
+(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia unisora, Diplazium molokaiense, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae, and Viola chamissoniana* ssp. *chamissoniana.*
 
 (ii) Map of Oahu—Lowland Mesic—Unit 2 (Map 13) follows:
 
@@ -12201,7 +12203,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (15) Oahu—Lowland Mesic—Unit 3 (353 ac; 143 ha).
 
-(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia falcata, Diellia unisora, Diplazium molokaiense, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae,* and *Viola chamissoniana* ssp. *chamissoniana.*
+(i) This unit is critical habitat for *Abutilon sandwicense, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce celastroides* var. *kaenana, Chamaesyce herbstii, Colubrina oppositifolia, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea grimesiana* ssp. *grimesiana, Cyanea grimesiana* ssp. *obatae, Cyanea longiflora, Cyanea pinnatifida, Cyanea superba, Cyperus pennatiformis, Cyrtandra dentata, Delissea subcordata, Diellia unisora, Diplazium molokaiense, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Eugenia koolauensis, Euphorbia haeleeleana, Flueggea neowawraea, Gardenia mannii, Gouania meyenii, Gouania vitifolia, Hesperomannia arborescens, Hesperomannia arbuscula, Hibiscus brackenridgei, Isodendrion longifolium, Kadua coriacea, Kadua degeneri, Kadua parvula, Labordia cyrtandrae, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope pallida, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Phyllostegia hirsuta, Phyllostegia kaalaensis, Phyllostegia mollis, Phyllostegia parviflora* var. *lydgatei, Plantago princeps* var. *princeps, , Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea kaalae, Schiedea nuttallii, Schiedea obovata, Silene perlmanii, Solanum sandwicense, Stenogyne kanehoana, Tetramolopium lepidotum* ssp. *lepidotum, Urera kaalae,* and *Viola chamissoniana* ssp. *chamissoniana.*
 
 (ii) Map of Oahu—Lowland Mesic—Unit 3 (Map 14) follows:
 
@@ -12209,7 +12211,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (16) Oahu—Lowland Mesic—Unit 4 (20 ac; 8 ha) and Oahu—Lowland Mesic—Unit 5 (29 ac; 12 ha).
 
-(i) These units are critical habitat for *Alectryon macrococcus, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea. calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata, Asplenium dielerectum, Diellia falcata, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pleomele forbesii, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
+(i) These units are critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Asplenium dielfalcatum, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea. calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata, Dracaena forbesii, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
 
 (ii) Map of Oahu—Lowland Mesic—Unit 4 and Oahu—Lowland Mesic—Unit 5 (Map 15) follows:
 
@@ -12217,7 +12219,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (17) Oahu—Lowland Mesic—Unit 6 (247 ac; 100 ha).
 
-(i) This unit is critical habitat for *Alectryon macrococcus, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata, Asplenium dielerectum, Diellia falcata, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pleomele forbesii, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
+(i) This unit is critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Asplenium dielfalcatum, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata,Dracaena forbesii, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
 
 (ii) Map of Oahu—Lowland Mesic—Unit 6 (Map 16) follows:
 
@@ -12225,7 +12227,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (18) Oahu—Lowland Mesic—Unit 7 (1,669 ac; 676 ha).
 
-(i) This unit is critical habitat for *Alectryon macrococcus, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata, Asplenium dielerectum, Diellia falcata, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pleomele forbesii, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
+(i) This unit is critical habitat for *Alectryon macrococcus, Asplenium dielerectum, Asplenium dielfalcatum, Bonamia menziesii, Chamaesyce celastroides* var. *kaenana, Ctenitis squamigera, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea lanceolata, Cyanea longiflora, Cyanea truncata, Cyrtandra dentata, Cyrtandra polyantha, Delissea subcordata, Dracaena forbesii, Eugenia koolauensis, Gardenia mannii, Hesperomannia arborescens, Isodendrion laurifolium, Isodendrion longifolium, Kadua coriacea, Labordia cyrtandrae, Lobelia monostachya, Melicope lydgatei, Melicope saint-johnii, Phyllostegia hirsuta, Phyllostegia mollis, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Schiedea kaalae, Schiedea nuttallii, Solanum sandwicense, Tetraplasandra gymnocarpa,* and *Tetraplasandra lydgatei.*
 
 (ii) Map of Oahu—Lowland Mesic—Unit 7 (Map 17) follows:
 
@@ -12257,7 +12259,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (22) Oahu—Lowland Wet—Unit 6 (790 ac; 320 ha), Oahu—Lowland Wet—Unit 7 (1,787 ac; 723 ha), and Oahu—Lowland Wet—Unit 8 (3,041 ac; 1,231 ha).
 
-(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Huperzia nutans, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Platydesma cornuta* var. *cornuta, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
+(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope cornuta* var. *cornuta, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, , Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
 
 (ii) Map of Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, and Oahu—Lowland Wet—Unit 8 (Map 21) follows:
 
@@ -12265,7 +12267,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (23) Oahu—Lowland Wet—Unit 9 (15,728 ac; 6,365 ha).
 
-(i) This unit is critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Huperzia nutans, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Platydesma cornuta* var. *cornuta, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
+(i) This unit is critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope cornuta* var. *cornuta, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
 
 (ii) Map of Oahu—Lowland Wet—Unit 9 (Map 22) follows:
 
@@ -12273,7 +12275,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (24) Oahu—Lowland Wet—Unit 10 (124 ac; 50 ha), Oahu—Lowland Wet—Unit 11 (124 ac; 50 ha), and Oahu—Lowland Wet—Unit 12 (53 ac; 21 ha).
 
-(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Huperzia nutans, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Platydesma cornuta* var. *cornuta, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
+(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope cornuta* var. *cornuta, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
 
 (ii) Map of Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, and Oahu—Lowland Wet—Unit 12 (Map 23) follows:
 
@@ -12281,7 +12283,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (25) Oahu—Lowland Wet—Unit 13 (75 ac; 30 ha), Oahu—Lowland Wet—Unit 14 (478 ac; 193 ha), Oahu—Lowland Wet—Unit 15 (407 ac; 165 ha), and Oahu—Lowland Wet—Unit 16 (2,507 ac; 1,014 ha).
 
-(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Huperzia nutans, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Platydesma cornuta* var. *cornuta, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
+(i) These units are critical habitat for *Adenophorus periens, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea grimesiana* ssp. *grimesiana, Cyanea humboldtiana, Cyanea koolauensis, Cyanea lanceolata, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra dentata, Cyrtandra gracilis, Cyrtandra kaulantha, Cyrtandra polyantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Cyrtandra waiolani, Gardenia mannii, Hesperomannia arborescens, Isodendrion longifolium, Labordia cyrtandrae, Lobelia gaudichaudii* ssp. *koolauensis, Lobelia oahuensis, Melicope cornuta* var. *cornuta, Melicope hiiakae, Melicope lydgatei, Myrsine juddii, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *longibracteata, Plantago princeps* var. *princeps, Platanthera holochila, Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Pteris lidgatei, Sanicula purpurea, Tetraplasandra gymnocarpa, Trematolobelia singularis, Viola oahuensis,* and *Zanthoxylum oahuense.*
 
 (ii) Map of Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16 (Map 24) follows:
 
@@ -12297,7 +12299,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (27) Oahu—Dry Cliff—Unit 1 (49 ac; 20 ha), Oahu—Dry Cliff—Unit 2 (412 ac; 167 ha), and Oahu—Dry Cliff—Unit 3 (450 ac; 182 ha).
 
-(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia falcata, Diellia unisora, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
+(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia unisora, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
 
 (ii) Map of Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, and Oahu—Dry Cliff—Unit 3 (Map 26) follows:
 
@@ -12305,7 +12307,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (28) Oahu—Dry Cliff—Unit 4 (24 ac; 10 ha) and Oahu—Dry Cliff—Unit 6 (149 ac; 60 ha).
 
-(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia falcata, Diellia unisora, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
+(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia unisora, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
 
 (ii) Map of Oahu—Dry Cliff—Unit 4 and Oahu—Dry Cliff—Unit 6 (Map 27) follows:
 
@@ -12313,7 +12315,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (29) Oahu—Dry Cliff—Unit 7a (68 ac; 27 ha), Oahu—Dry Cliff—Unit 7b (38 ac; 16 ha), and Oahu—Dry Cliff—Unit 8 (259 ac; 105 ha).
 
-(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia falcata, Diellia unisora, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Platydesma cornuta* var. *decurrens, Pleomele forbesii, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
+(i) These units are critical habitat for *Abutilon sandwicense, Achyranthes splendens* var. *rotundata, Alectryon macrococcus, Asplenium dielfalcatum, Bonamia menziesii, Cenchrus agrimonioides, Chamaesyce herbstii, Chamaesyce kuwaleana, Cyanea grimesiana* ssp. *obatae, Cyrtandra dentata, Diellia unisora, Dracaena forbesii, Dubautia herbstobatae, Eragrostis fosbergii, Flueggea neowawraea, Gouania meyenii, Gouania vitifolia, Isodendrion laurifolium, Isodendrion pyrifolium, Kadua degeneri, Kadua parvula, Korthalsella degeneri, Lepidium arbuscula, Lipochaeta lobata* var. *leptophylla, Lobelia niihauensis, Melanthera tenuifolia, Melicope cornuta* var. *decurrens, Melicope makahae, Melicope saint-johnii, Neraudia angulata, Nototrichium humile, Peucedanum sandwicense, Phyllostegia kaalaensis, Plantago princeps* var. *princeps, Pteralyxia macrocarpa, Sanicula mariversa, Schiedea hookeri, Schiedea obovata, Schiedea trinervis, Silene lanceolata, Silene perlmanii, Spermolepis hawaiiensis, Tetramolopium filiforme, Tetramolopium lepidotum* ssp. *lepidotum,* and *Viola chamissoniana* ssp. *chamissoniana.*
 
 (ii) Map of Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8 (Map 28) follows:
 
@@ -12345,7 +12347,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (33) Oahu—Wet Cliff—Unit 6 (151 ac; 61 ha) and Oahu—Wet Cliff—Unit 7 (144 ac; 58 ha).
 
-(i) These units are critical habitat for *Adenophorus periens, Chamaesyce deppeana, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea humboldtiana, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra kaulantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Huperzia nutans, Labordia cyrtandrae, Lobelia oahuensis, Lysimachia filifolia, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Sanicula purpurea, Schiedea kaalae, Tetraplasandra gymnocarpa, Trematolobelia singularis,* and *Viola oahuensis.*
+(i) These units are critical habitat for *Adenophorus periens, Chamaesyce deppeana, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea humboldtiana, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra kaulantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Labordia cyrtandrae, Lobelia oahuensis, Lysimachia filifolia, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Sanicula purpurea, Schiedea kaalae, Tetraplasandra gymnocarpa, Trematolobelia singularis,* and *Viola oahuensis.*
 
 (ii) Map of Oahu—Wet Cliff—Unit 6 and Oahu—Wet Cliff—Unit 7 (Map 32) follows:
 
@@ -12353,7 +12355,7 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (34) Oahu—Wet Cliff—Unit 8 (4,649 ac; 1,881 ha).
 
-(i) This unit is critical habitat for *Adenophorus periens, Chamaesyce deppeana, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea humboldtiana, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra kaulantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Huperzia nutans, Labordia cyrtandrae, Lobelia oahuensis, Lysimachia filifolia, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Psychotria hexandra* ssp. *oahuensis, Pteralyxia macrocarpa, Sanicula purpurea, Schiedea kaalae, Tetraplasandra gymnocarpa, Trematolobelia singularis,* and *Viola oahuensis.*
+(i) This unit is critical habitat for *Adenophorus periens, Chamaesyce deppeana, Chamaesyce rockii, Cyanea acuminata, Cyanea calycina, Cyanea crispa, Cyanea humboldtiana, Cyanea purpurellifolia, Cyanea st.-johnii, Cyanea truncata, Cyrtandra kaulantha, Cyrtandra sessilis, Cyrtandra subumbellata, Cyrtandra viridiflora, Labordia cyrtandrae, Lobelia oahuensis, Lysimachia filifolia, Phlegmariurus nutans, Phyllostegia hirsuta, Phyllostegia parviflora* var. *parviflora, Plantago princeps* var. *princeps, Psychotria hexandra* var. *oahuensis, Pteralyxia macrocarpa, Sanicula purpurea, Schiedea kaalae, Tetraplasandra gymnocarpa, Trematolobelia singularis,* and *Viola oahuensis.*
 
 (ii) Map of Oahu—Wet Cliff—Unit 8 (Map 33) follows:
 
@@ -12361,1663 +12363,1628 @@ Editorial Note:The remainder of § 17.99 appears in 50 Part 17, § 17.99(i)-end 
 
 (35) Table of Protected Species Within Each Critical Habitat Unit for Oahu
 
-|        Unit name         |            Species occupied             |           Species unoccupied            |
-|--------------------------|-----------------------------------------|-----------------------------------------|
-|   Oahu—Coastal—Unit 1    |                                         |                                         |
-|                          |  Achyranthes splendens var. rotundata   |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |  Chamaesyce celastroides var. kaenana   |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |            Schiedea kealiae             |
-|                          |           Sesbania tomentosa            |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 2   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 3   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 4   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 5   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 6   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 7   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 8   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |           Sesbania tomentosa            |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|    Oahu—Coastal—Unit 9   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |          Cyperus trachysanthos          |          Cyperus trachysanthos          |
-|                          |            Marsilea villosa             |            Marsilea villosa             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 10   |                                         |                                         |
-|                          |           Schenkia sebaeoides           |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 11   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |          Cyperus trachysanthos          |
-|                          |            Marsilea villosa             |            Marsilea villosa             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 12   |                                         |                                         |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |          Cyperus trachysanthos          |
-|                          |            Marsilea villosa             |            Marsilea villosa             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 13   |                                         |                                         |
-|                          |  Achyranthes splendens var. rotundata   |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 14   |                                         |                                         |
-|                          |  Achyranthes splendens var. rotundata   |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|   Oahu—Coastal—Unit 15   |                                         |                                         |
-|                          |  Achyranthes splendens var. rotundata   |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |           Schenkia sebaeoides           |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |           Sesbania tomentosa            |
-|                          |                                         |            Vigna o-wahuensis            |
-|  Oahu—Lowland Dry—Unit 1 |                                         |                                         |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |            Bidens amplectens            |            Bidens amplectens            |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |         Hibiscus brackenridgei          |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |            Schiedea kealiae             |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|  Oahu—Lowland Dry—Unit 2 |                                         |                                         |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |            Bonamia menziesii            |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |          Melanthera tenuifolia          |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|  Oahu—Lowland Dry—Unit 6 |                                         |                                         |
-|                          |          Doryopteris takeuchii          |          Doryopteris takeuchii          |
-|                          |                                         |             Gouania meyenii             |
-|                          |         Spermolepis hawaiiensis         |         Spermolepis hawaiiensis         |
-|  Oahu—Lowland Dry—Unit 7 |                                         |                                         |
-|                          |          Cyperus trachysanthos          |          Cyperus trachysanthos          |
-|                          |                                         |          Doryopteris takeuchii          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Marsilea villosa             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|  Oahu—Lowland Dry—Unit 8 |                                         |                                         |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |Chamaesyce skottsbergii var. skottsbergii|
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|  Oahu—Lowland Dry—Unit 9 |                                         |                                         |
-|                          |  Achyranthes splendens var. rotundata   |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |Chamaesyce skottsbergii var. skottsbergii|
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-| Oahu—Lowland Dry—Unit 10 |                                         |                                         |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |Chamaesyce skottsbergii var. skottsbergii|Chamaesyce skottsbergii var. skottsbergii|
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-| Oahu—Lowland Dry—Unit 11 |                                         |                                         |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |            Bidens amplectens            |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |Chamaesyce skottsbergii var. skottsbergii|Chamaesyce skottsbergii var. skottsbergii|
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea kealiae             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-| Oahu—Lowland Mesic—Unit 1|                                         |                                         |
-|                          |          Abutilon sandwicense           |          Abutilon sandwicense           |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |            Bonamia menziesii            |            Bonamia menziesii            |
-|                          |         Cenchrus agrimonioides          |         Cenchrus agrimonioides          |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |           Chamaesyce herbstii           |           Chamaesyce herbstii           |
-|                          |         Colubrina oppositifolia         |         Colubrina oppositifolia         |
-|                          |           Ctenitis squamigera           |           Ctenitis squamigera           |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |    Cyanea grimesiana ssp. Grimesiana    |    Cyanea grimesiana ssp. grimesiana    |
-|                          |      Cyanea grimesiana ssp. Obatae      |      Cyanea grimesiana ssp. obatae      |
-|                          |            Cyanea longiflora            |            Cyanea longiflora            |
-|                          |                                         |           Cyanea pinnatifida            |
-|                          |             Cyanea superba              |             Cyanea superba              |
-|                          |                                         |          Cyperus pennatiformis          |
-|                          |            Cyrtandra dentate            |            Cyrtandra dentata            |
-|                          |           Delissea subcordata           |           Delissea subcordata           |
-|                          |             Diellia falcate             |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |          Dubautia herbstobatae          |          Dubautia herbstobatae          |
-|                          |          Eragrostis fosbergii           |          Eragrostis fosbergii           |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |          Euphorbia haeleeleana          |          Euphorbia haeleeleana          |
-|                          |           Flueggea neowawraea           |           Flueggea neowawraea           |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |        Hesperomannia arborescens        |        Hesperomannia arborescens        |
-|                          |         Hesperomannia arbuscula         |         Hesperomannia arbuscula         |
-|                          |         Hibiscus brackenridgei          |         Hibiscus brackenridgei          |
-|                          |         Isodendrion laurifolium         |         Isodendrion laurifolium         |
-|                          |         Isodendrion longifolium         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |             Kadua degeneri              |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |           Lobelia niihauensis           |           Lobelia niihauensis           |
-|                          |          Melanthera tenuifolia          |          Melanthera tenuifolia          |
-|                          |            Melicope makahae             |            Melicope makahae             |
-|                          |            Melicope pallida             |            Melicope pallida             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |            Neraudia angulate            |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |         Phyllostegia kaalaensis         |         Phyllostegia kaalaensis         |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |    Platydesma cornuta var. decurrens    |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |           Schiedea nuttallii            |           Schiedea nuttallii            |
-|                          |            Schiedea obovata             |            Schiedea obovata             |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |           Stenogyne kanehoana           |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         |              Urera kaalae               |
-|                          | Viola chamissoniana ssp. Chamissoniana  | Viola chamissoniana ssp. chamissoniana  |
-| Oahu—Lowland Mesic—Unit 2|                                         |                                         |
-|                          |          Abutilon sandwicense           |          Abutilon sandwicense           |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |         Cenchrus agrimonioides          |         Cenchrus agrimonioides          |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |           Chamaesyce herbstii           |           Chamaesyce herbstii           |
-|                          |                                         |         Colubrina oppositifolia         |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |                                         |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |      Cyanea grimesiana ssp. Obatae      |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyanea longiflora            |
-|                          |                                         |           Cyanea pinnatifida            |
-|                          |                                         |             Cyanea superba              |
-|                          |                                         |          Cyperus pennatiformis          |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |           Delissea subcordata           |           Delissea subcordata           |
-|                          |             Diellia falcate             |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |             Gardenia mannii             |             Gardenia mannii             |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |         Hesperomannia arbuscula         |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |            Melicope pallida             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |         Phyllostegia kaalaensis         |         Phyllostegia kaalaensis         |
-|                          |           Phyllostegia mollis           |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |    Platydesma cornuta var. decurrens    |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |            Silene perlmanii             |
-|                          |           Solanum sandwicense           |           Solanum sandwicense           |
-|                          |           Stenogyne kanehoana           |           Stenogyne kanehoana           |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |              Urera kaalae               |              Urera kaalae               |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-| Oahu—Lowland Mesic—Unit 3|                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |         Cenchrus agrimonioides          |         Cenchrus agrimonioides          |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |         Colubrina oppositifolia         |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyanea longiflora            |
-|                          |                                         |           Cyanea pinnatifida            |
-|                          |                                         |             Cyanea superba              |
-|                          |                                         |          Cyperus pennatiformis          |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |           Delissea subcordata           |           Delissea subcordata           |
-|                          |             Diellia falcate             |             Diellia falcata             |
-|                          |             Diellia unisora             |             Diellia unisora             |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |                                         |          Euphorbia haeleeleana          |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |         Hesperomannia arbuscula         |         Hesperomannia arbuscula         |
-|                          |                                         |         Hibiscus brackenridgei          |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |            Melicope pallida             |
-|                          |          Melicope saint-johnii          |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |           Phyllostegia mollis           |           Phyllostegia mollis           |
-|                          |         Phyllostegia parviflora         |         Phyllostegia parviflora         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |            Schiedea obovata             |
-|                          |            Silene perlmanii             |            Silene perlmanii             |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |           Stenogyne kanehoana           |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |              Urera kaalae               |              Urera kaalae               |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-| Oahu—Lowland Mesic—Unit 4|                                         |                                         |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |            Cyanea longiflora            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Delissea subcordata           |
-|                          |                                         |             Diellia erecta              |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |           Lobelia monostachya           |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |         Tetraplasandra lydgatei         |
-| Oahu—Lowland Mesic—Unit 5|                                         |                                         |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |            Cyanea longiflora            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Delissea subcordata           |
-|                          |                                         |             Diellia erecta              |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |           Lobelia monostachya           |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |         Tetraplasandra lydgatei         |
-| Oahu—Lowland Mesic—Unit 6|                                         |                                         |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |              Cyanea crispa              |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |            Cyanea longiflora            |
-|                          |             Cyanea truncate             |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Delissea subcordata           |
-|                          |                                         |             Diellia erecta              |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |             Gardenia mannii             |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |           Lobelia monostachya           |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |         Tetraplasandra lydgatei         |
-| Oahu—Lowland Mesic—Unit 7|                                         |                                         |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |            Bonamia menziesii            |            Bonamia menziesii            |
-|                          |                                         |  Chamaesyce celastroides var. kaenana   |
-|                          |                                         |           Ctenitis squamigera           |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |    Cyanea grimesiana ssp. Grimesiana    |    Cyanea grimesiana ssp. grimesiana    |
-|                          |            Cyanea lanceolata            |            Cyanea lanceolata            |
-|                          |                                         |            Cyanea longiflora            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |           Cyrtandra polyantha           |           Cyrtandra polyantha           |
-|                          |                                         |           Delissea subcordata           |
-|                          |             Diellia erecta              |             Diellia erecta              |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |           Eugenia koolauensis           |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |             Kadua coriacea              |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |           Lobelia monostachya           |           Lobelia monostachya           |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea nuttallii            |
-|                          |                                         |           Solanum sandwicense           |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |         Tetraplasandra lydgatei         |         Tetraplasandra lydgatei         |
-|  Oahu—Lowland Wet—Unit 1 |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |             Gardenia mannii             |
-|                          |            Gouania vitifolia            |            Gouania vitifolia            |
-|                          |                                         |         Hesperomannia arbuscula         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |              Urera kaalae               |              Urera kaalae               |
-|  Oahu—Lowland Wet—Unit 2 |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hesperomannia arbuscula         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |           Phyllostegia mollis           |           Phyllostegia mollis           |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |              Urera kaalae               |              Urera kaalae               |
-|  Oahu—Lowland Wet—Unit 3 |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hesperomannia arbuscula         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |           Phyllostegia mollis           |           Phyllostegia mollis           |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |              Urera kaalae               |
-|  Oahu—Lowland Wet—Unit 4 |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Hesperomannia arbuscula         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |           Phyllostegia mollis           |           Phyllostegia mollis           |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |              Urera kaalae               |
-|  Oahu—Lowland Wet—Unit 5 |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |      Cyanea grimesiana ssp. Obatae      |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |          Diplazium molokaiense          |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |         Hesperomannia arbuscula         |         Hesperomannia arbuscula         |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |           Phyllostegia mollis           |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |              Urera kaalae               |
-|  Oahu—Lowland Wet—Unit 6 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |        Hesperomannia arborescens        |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-|  Oahu—Lowland Wet—Unit 7 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |            Chamaesyce rockii            |            Chamaesyce rockii            |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |           Cyanea humboldtiana           |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |         Cyanea purpurellifolia          |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |             Cyanea truncate             |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |          Cyrtandra viridiflora          |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |             Gardenia mannii             |             Gardenia mannii             |
-|                          |        Hesperomannia arborescens        |        Hesperomannia arborescens        |
-|                          |             Huperzia nutans             |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |             Myrsine juddii              |             Myrsine juddii              |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |     Platydesma cornuta var. cornuta     |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |             Pteris lidgatei             |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |        Tetraplasandra gymnocarpa        |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |             Viola oahuensis             |             Viola oahuensis             |
-|                          |          Zanthoxylum oahuense           |          Zanthoxylum oahuense           |
-|  Oahu—Lowland Wet—Unit 8 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |           Cyrtandra kaulantha           |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-|  Oahu—Lowland Wet—Unit 9 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |            Chamaesyce rockii            |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |           Cyanea humboldtiana           |           Cyanea humboldtiana           |
-|                          |           Cyanea koolauensis            |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |            Cyanea st.-johnii            |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |          Cyrtandra viridiflora          |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |             Gardenia mannii             |             Gardenia mannii             |
-|                          |        Hesperomannia arborescens        |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |           Labordia cyrtandrae           |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |            Lobelia oahuensis            |            Lobelia oahuensis            |
-|                          |            Melicope hiiakae             |            Melicope hiiakae             |
-|                          |            Melicope lydgatei            |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |         Phyllostegia parviflora         |         Phyllostegia parviflora         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |     Platydesma cornuta var. cornuta     |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |             Pteris lidgatei             |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |        Tetraplasandra gymnocarpa        |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |             Viola oahuensis             |             Viola oahuensis             |
-|                          |          Zanthoxylum oahuense           |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 10 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 11 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 12 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 13 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 14 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |           Cyanea koolauensis            |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 15 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |              Cyanea crispa              |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |           Cyanea koolauensis            |
-|                          |                                         |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra polyantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |                                         |             Gardenia mannii             |
-|                          |                                         |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |                                         |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |                                         |            Sanicula purpurea            |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-| Oahu—Lowland Wet—Unit 16 |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |              Cyanea crispa              |              Cyanea crispa              |
-|                          |                                         |    Cyanea grimesiana ssp. grimesiana    |
-|                          |           Cyanea humboldtiana           |           Cyanea humboldtiana           |
-|                          |           Cyanea koolauensis            |           Cyanea koolauensis            |
-|                          |            Cyanea lanceolata            |            Cyanea lanceolata            |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |            Cyanea st.-johnii            |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |           Cyrtandra gracilis            |           Cyrtandra gracilis            |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |           Cyrtandra polyantha           |           Cyrtandra polyantha           |
-|                          |           Cyrtandra sessilis            |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |           Cyrtandra waiolani            |
-|                          |             Gardenia mannii             |             Gardenia mannii             |
-|                          |        Hesperomannia arborescens        |        Hesperomannia arborescens        |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |         Isodendrion longifolium         |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |  Lobelia gaudichaudii ssp. koolauensis  |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |            Melicope hiiakae             |
-|                          |                                         |            Melicope lydgatei            |
-|                          |                                         |             Myrsine juddii              |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |          Platanthera holochila          |
-|                          |     Platydesma cornuta var. cornuta     |     Platydesma cornuta var. cornuta     |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |             Pteris lidgatei             |
-|                          |            Sanicula purpurea            |            Sanicula purpurea            |
-|                          |        Tetraplasandra gymnocarpa        |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|                          |                                         |          Zanthoxylum oahuense           |
-|  Oahu—Montane Wet—Unit 1 |                                         |                                         |
-|                          |                                         | Alectryon macrococcus var. macrococcus  |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |           Labordia cyrtandrae           |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |        Melicope christophersenii        |        Melicope christophersenii        |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |           Schiedea trinervis            |           Schiedea trinervis            |
-|   Oahu—Dry Cliff—Unit 1  |                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |         Cenchrus agrimonioides          |         Cenchrus agrimonioides          |
-|                          |           Chamaesyce herbstii           |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |      Cyanea grimesiana ssp. Obatae      |      Cyanea grimesiana ssp. obatae      |
-|                          |            Cyrtandra dentate            |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |             Kadua degeneri              |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |                                         |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |            Schiedea obovata             |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Dry Cliff—Unit 2  |                                         |                                         |
-|                          |          Abutilon sandwicense           |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |          Dubautia herbstobatae          |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |            Gouania vitifolia            |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |              Kadua parvula              |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |           Lepidium arbuscula            |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |           Lobelia niihauensis           |           Lobelia niihauensis           |
-|                          |          Melanthera tenuifolia          |          Melanthera tenuifolia          |
-|                          |            Melicope makahae             |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |         Peucedanum sandwicense          |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |                                         |            Plantago princeps            |
-|                          |    Platydesma cornuta var. decurrens    |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |           Sanicula mariversa            |           Sanicula mariversa            |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |         Tetramolopium filiforme         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          | Viola chamissoniana ssp. Chamissoniana  | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Dry Cliff—Unit 3  |                                         |                                         |
-|                          |          Abutilon sandwicense           |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |            Bonamia menziesii            |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |             Diellia falcate             |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |          Dubautia herbstobatae          |          Dubautia herbstobatae          |
-|                          |          Eragrostis fosbergii           |          Eragrostis fosbergii           |
-|                          |           Flueggea neowawraea           |           Flueggea neowawraea           |
-|                          |             Gouania meyenii             |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |         Isodendrion laurifolium         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |          Korthalsella degeneri          |          Korthalsella degeneri          |
-|                          |           Lepidium arbuscula            |           Lepidium arbuscula            |
-|                          |   Lipochaeta lobata var. leptophylla    |   Lipochaeta lobata var. leptophylla    |
-|                          |           Lobelia niihauensis           |           Lobelia niihauensis           |
-|                          |          Melanthera tenuifolia          |          Melanthera tenuifolia          |
-|                          |            Melicope makahae             |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |            Neraudia angulate            |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |         Peucedanum sandwicense          |         Peucedanum sandwicense          |
-|                          |         Phyllostegia kaalaensis         |         Phyllostegia kaalaensis         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |            Silene lanceolata            |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |         Tetramolopium filiforme         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          | Viola chamissoniana ssp. Chamissoniana  | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Dry Cliff—Unit 4  |                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |          Alectryon macrococcus          |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |          Chamaesyce kuwaleana           |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |                                         |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |         Spermolepis hawaiiensis         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Dry Cliff—Unit 6  |                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |         Cenchrus agrimonioides          |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |             Diellia unisora             |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |           Flueggea neowawraea           |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |           Lepidium arbuscula            |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |           Lobelia niihauensis           |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |          Melicope saint-johnii          |          Melicope saint-johnii          |
-|                          |            Neraudia angulate            |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          | Tetramolopium lepidotum ssp. Lepidotum  | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-|  Oahu—Dry Cliff—Unit 7a  |                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |           Flueggea neowawraea           |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |              Kadua parvula              |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |                                         |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |          Melicope saint-johnii          |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |    Platydesma cornuta var. decurrens    |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |            Silene perlmanii             |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          | Viola chamissoniana ssp. Chamissoniana  | Viola chamissoniana ssp. chamissoniana  |
-|  Oahu—Dry Cliff—Unit 7b  |                                         |                                         |
-|                          |                                         |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |                                         |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |                                         |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |                                         |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |                                         |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |                                         |            Neraudia angulata            |
-|                          |                                         |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |                                         |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Dry Cliff—Unit 8  |                                         |                                         |
-|                          |          Abutilon sandwicense           |          Abutilon sandwicense           |
-|                          |                                         |  Achyranthes splendens var. rotundata   |
-|                          |                                         |          Alectryon macrococcus          |
-|                          |            Bonamia menziesii            |            Bonamia menziesii            |
-|                          |                                         |         Cenchrus agrimonioides          |
-|                          |                                         |           Chamaesyce herbstii           |
-|                          |                                         |          Chamaesyce kuwaleana           |
-|                          |                                         |      Cyanea grimesiana ssp. obatae      |
-|                          |                                         |            Cyrtandra dentata            |
-|                          |                                         |             Diellia falcata             |
-|                          |                                         |             Diellia unisora             |
-|                          |                                         |          Dubautia herbstobatae          |
-|                          |                                         |          Eragrostis fosbergii           |
-|                          |           Flueggea neowawraea           |           Flueggea neowawraea           |
-|                          |                                         |             Gouania meyenii             |
-|                          |                                         |            Gouania vitifolia            |
-|                          |                                         |         Isodendrion laurifolium         |
-|                          |                                         |         Isodendrion pyrifolium          |
-|                          |                                         |             Kadua degeneri              |
-|                          |                                         |              Kadua parvula              |
-|                          |                                         |          Korthalsella degeneri          |
-|                          |                                         |           Lepidium arbuscula            |
-|                          |                                         |   Lipochaeta lobata var. leptophylla    |
-|                          |           Lobelia niihauensis           |           Lobelia niihauensis           |
-|                          |                                         |          Melanthera tenuifolia          |
-|                          |                                         |            Melicope makahae             |
-|                          |                                         |          Melicope saint-johnii          |
-|                          |            Neraudia angulate            |            Neraudia angulata            |
-|                          |           Nototrichium humile           |           Nototrichium humile           |
-|                          |                                         |         Peucedanum sandwicense          |
-|                          |                                         |         Phyllostegia kaalaensis         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |    Platydesma cornuta var. decurrens    |
-|                          |            Pleomele forbesii            |            Pleomele forbesii            |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |           Sanicula mariversa            |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |            Schiedea obovata             |
-|                          |                                         |           Schiedea trinervis            |
-|                          |                                         |            Silene lanceolata            |
-|                          |                                         |            Silene perlmanii             |
-|                          |                                         |         Spermolepis hawaiiensis         |
-|                          |                                         |         Tetramolopium filiforme         |
-|                          |                                         | Tetramolopium lepidotum ssp. lepidotum  |
-|                          |                                         | Viola chamissoniana ssp. chamissoniana  |
-|   Oahu—Wet Cliff—Unit 1  |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |        Melicope christophersenii        |        Melicope christophersenii        |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |           Schiedea trinervis            |           Schiedea trinervis            |
-|   Oahu—Wet Cliff—Unit 2  |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |        Melicope christophersenii        |        Melicope christophersenii        |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea trinervis            |
-|   Oahu—Wet Cliff—Unit 3  |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |        Melicope christophersenii        |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea trinervis            |
-|   Oahu—Wet Cliff—Unit 4  |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |        Melicope christophersenii        |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |            Schiedea hookeri             |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea trinervis            |
-|   Oahu—Wet Cliff—Unit 5  |                                         |                                         |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |        Melicope christophersenii        |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Schiedea hookeri             |
-|                          |                                         |             Schiedea kaalae             |
-|                          |                                         |           Schiedea trinervis            |
-|   Oahu—Wet Cliff—Unit 6  |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |           Chamaesyce deppeana           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |              Cyanea crispa              |              Cyanea crispa              |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |             Huperzia nutans             |             Huperzia nutans             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |          Lysimachia filifolia           |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |                                         |            Sanicula purpurea            |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|   Oahu—Wet Cliff—Unit 7  |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |           Chamaesyce deppeana           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |                                         |            Cyanea acuminata             |
-|                          |                                         |             Cyanea calycina             |
-|                          |              Cyanea crispa              |              Cyanea crispa              |
-|                          |                                         |           Cyanea humboldtiana           |
-|                          |                                         |         Cyanea purpurellifolia          |
-|                          |                                         |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |                                         |           Cyrtandra kaulantha           |
-|                          |                                         |           Cyrtandra sessilis            |
-|                          |                                         |         Cyrtandra subumbellata          |
-|                          |                                         |          Cyrtandra viridiflora          |
-|                          |                                         |             Huperzia nutans             |
-|                          |                                         |           Labordia cyrtandrae           |
-|                          |                                         |            Lobelia oahuensis            |
-|                          |                                         |          Lysimachia filifolia           |
-|                          |                                         |          Phyllostegia hirsuta           |
-|                          |                                         |         Phyllostegia parviflora         |
-|                          |                                         |            Plantago princeps            |
-|                          |   Psychotria hexandra ssp. Oahuensis    |   Psychotria hexandra ssp. oahuensis    |
-|                          |                                         |          Pteralyxia macrocarpa          |
-|                          |                                         |            Sanicula purpurea            |
-|                          |             Schiedea kaalae             |             Schiedea kaalae             |
-|                          |                                         |        Tetraplasandra gymnocarpa        |
-|                          |                                         |        Trematolobelia singularis        |
-|                          |                                         |             Viola oahuensis             |
-|   Oahu—Wet Cliff—Unit 8  |                                         |                                         |
-|                          |                                         |           Adenophorus periens           |
-|                          |                                         |           Chamaesyce deppeana           |
-|                          |                                         |            Chamaesyce rockii            |
-|                          |            Cyanea acuminate             |            Cyanea acuminata             |
-|                          |             Cyanea calycina             |             Cyanea calycina             |
-|                          |                                         |              Cyanea crispa              |
-|                          |           Cyanea humboldtiana           |           Cyanea humboldtiana           |
-|                          |         Cyanea purpurellifolia          |         Cyanea purpurellifolia          |
-|                          |            Cyanea st.-johnii            |            Cyanea st.-johnii            |
-|                          |                                         |             Cyanea truncata             |
-|                          |           Cyrtandra kaulantha           |           Cyrtandra kaulantha           |
-|                          |           Cyrtandra sessilis            |           Cyrtandra sessilis            |
-|                          |         Cyrtandra subumbellata          |         Cyrtandra subumbellata          |
-|                          |          Cyrtandra viridiflora          |          Cyrtandra viridiflora          |
-|                          |             Huperzia nutans             |             Huperzia nutans             |
-|                          |           Labordia cyrtandrae           |           Labordia cyrtandrae           |
-|                          |            Lobelia oahuensis            |            Lobelia oahuensis            |
-|                          |          Lysimachia filifolia           |          Lysimachia filifolia           |
-|                          |          Phyllostegia hirsute           |          Phyllostegia hirsuta           |
-|                          |         Phyllostegia parviflora         |         Phyllostegia parviflora         |
-|                          |            Plantago princeps            |            Plantago princeps            |
-|                          |                                         |   Psychotria hexandra ssp. oahuensis    |
-|                          |          Pteralyxia macrocarpa          |          Pteralyxia macrocarpa          |
-|                          |            Sanicula purpurea            |            Sanicula purpurea            |
-|                          |                                         |             Schiedea kaalae             |
-|                          |        Tetraplasandra gymnocarpa        |        Tetraplasandra gymnocarpa        |
-|                          |        Trematolobelia singularis        |        Trematolobelia singularis        |
-|                          |             Viola oahuensis             |             Viola oahuensis             |
+|        Unit name         |            Species occupied            |           Species unoccupied            |
+|--------------------------|----------------------------------------|-----------------------------------------|
+|   Oahu—Coastal—Unit 1    |                                        |                                         |
+|                          |  Achyranthes splendens var. rotundata  |  Achyranthes splendens var. rotundata   |
+|                          |                                        |            Bidens amplectens            |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |  Chamaesyce celastroides var. kaenana  |  Chamaesyce celastroides var. kaenana   |
+|                          |                                        |            Schiedea kealiae             |
+|                          |           Sesbania tomentosa           |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 2   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 3   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 4   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 5   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 6   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 7   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 8   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |           Sesbania tomentosa           |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|    Oahu—Coastal—Unit 9   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |         Cyperus trachysanthos          |          Cyperus trachysanthos          |
+|                          |            Marsilea villosa            |            Marsilea villosa             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 10   |                                        |                                         |
+|                          |          Schenkia sebaeoides           |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 11   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |          Cyperus trachysanthos          |
+|                          |            Marsilea villosa            |            Marsilea villosa             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 12   |                                        |                                         |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |          Chamaesyce kuwaleana           |
+|                          |                                        |          Cyperus trachysanthos          |
+|                          |            Marsilea villosa            |            Marsilea villosa             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 13   |                                        |                                         |
+|                          |  Achyranthes splendens var. rotundata  |  Achyranthes splendens var. rotundata   |
+|                          |                                        |            Bidens amplectens            |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |  Chamaesyce celastroides var. kaenana   |
+|                          |                                        |            Schiedea kealiae             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 14   |                                        |                                         |
+|                          |  Achyranthes splendens var. rotundata  |  Achyranthes splendens var. rotundata   |
+|                          |                                        |            Bidens amplectens            |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |  Chamaesyce celastroides var. kaenana   |
+|                          |                                        |            Schiedea kealiae             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|   Oahu—Coastal—Unit 15   |                                        |                                         |
+|                          |  Achyranthes splendens var. rotundata  |  Achyranthes splendens var. rotundata   |
+|                          |                                        |            Bidens amplectens            |
+|                          |                                        |           Schenkia sebaeoides           |
+|                          |                                        |  Chamaesyce celastroides var. kaenana   |
+|                          |                                        |            Schiedea kealiae             |
+|                          |                                        |           Sesbania tomentosa            |
+|                          |                                        |            Vigna o-wahuensis            |
+|  Oahu—Lowland Dry—Unit 1 |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |           Bidens amplectens            |           Bidens amplectens.            |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |         Hibiscus brackenridgei         |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |            Schiedea kealiae            |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|  Oahu—Lowland Dry—Unit 2 |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |           Bidens amplectens.            |
+|                          |           Bonamia menziesii            |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |         Melanthera tenuifolia          |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|  Oahu—Lowland Dry—Unit 6 |                                        |                                         |
+|                          |         Doryopteris takeuchii          |          Doryopteris takeuchii          |
+|                          |                                        |             Gouania meyenii             |
+|                          |        Spermolepis hawaiiensis         |         Spermolepis hawaiiensis         |
+|  Oahu—Lowland Dry—Unit 7 |                                        |                                         |
+|                          |         Cyperus trachysanthos          |          Cyperus trachysanthos          |
+|                          |                                        |          Doryopteris takeuchii          |
+|                          |                                        |             Gouania meyenii             |
+|                          |                                        |            Marsilea villosa             |
+|                          |                                        |         Spermolepis hawaiiensis         |
+|  Oahu—Lowland Dry—Unit 8 |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |           Bidens amplectens.            |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |Euphorbia skottsbergii var. skottsbergii.|
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|  Oahu—Lowland Dry—Unit 9 |  Achyranthes splendens var. rotundata  |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |           Bidens amplectens.            |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |Euphorbia skottsbergii var. skottsbergii.|
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+| Oahu—Lowland Dry—Unit 10 |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |           Bidens amplectens.            |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |Euphorbia skottsbergii var. skottsbergii|Euphorbia skottsbergii var. skottsbergii.|
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+| Oahu—Lowland Dry—Unit 11 |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |           Bidens amplectens.            |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |Euphorbia skottsbergii var. skottsbergii|Euphorbia skottsbergii var. skottsbergii.|
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea kealiae.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+| Oahu—Lowland Mesic—Unit 1|          Abutilon sandwicense          |          Abutilon sandwicense.          |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |         Asplenium dielfalcatum         |         Asplenium dielfalcatum.         |
+|                          |           Bonamia menziesii            |           Bonamia menziesii.            |
+|                          |         Cenchrus agrimonioides         |         Cenchrus agrimonioides.         |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |          Chamaesyce herbstii           |          Chamaesyce herbstii.           |
+|                          |        Colubrina oppositifolia         |        Colubrina oppositifolia.         |
+|                          |          Ctenitis squamigera           |          Ctenitis squamigera.           |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |   Cyanea grimesiana ssp. grimesiana    |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |     Cyanea grimesiana ssp. obatae      |     Cyanea grimesiana ssp. obatae.      |
+|                          |           Cyanea longiflora            |           Cyanea longiflora.            |
+|                          |                                        |           Cyanea pinnatifida.           |
+|                          |             Cyanea superba             |             Cyanea superba.             |
+|                          |                                        |         Cyperus pennatiformis.          |
+|                          |           Cyrtandra dentata            |           Cyrtandra dentata.            |
+|                          |          Delissea subcordata           |          Delissea subcordata.           |
+|                          |                                        |            Diellia unisora.             |
+|                          |                                        |         Diplazium molokaiense.          |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |         Dubautia herbstobatae          |         Dubautia herbstobatae.          |
+|                          |          Eragrostis fosbergii          |          Eragrostis fosbergii.          |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |         Euphorbia haeleeleana          |         Euphorbia haeleeleana.          |
+|                          |          Flueggea neowawraea           |          Flueggea neowawraea.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |       Hesperomannia arborescens        |       Hesperomannia arborescens.        |
+|                          |        Hesperomannia arbuscula         |        Hesperomannia arbuscula.         |
+|                          |         Hibiscus brackenridgei         |         Hibiscus brackenridgei.         |
+|                          |        Isodendrion laurifolium         |        Isodendrion laurifolium.         |
+|                          |        Isodendrion longifolium         |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |             Kadua degeneri             |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |          Lobelia niihauensis           |          Lobelia niihauensis.           |
+|                          |         Melanthera tenuifolia          |         Melanthera tenuifolia.          |
+|                          |    Melicope cornuta var. decurrens     |    Melicope cornuta var. decurrens.     |
+|                          |            Melicope makahae            |            Melicope makahae.            |
+|                          |            Melicope pallida            |            Melicope pallida.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |           Neraudia angulata            |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |        Phyllostegia kaalaensis         |        Phyllostegia kaalaensis.         |
+|                          |                                        |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |            Schiedea hookeri            |            Schiedea hookeri.            |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |           Schiedea nuttallii           |           Schiedea nuttallii.           |
+|                          |            Schiedea obovata            |            Schiedea obovata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |          Stenogyne kanehoana.           |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |                                        |              Urera kaalae.              |
+|                          | Viola chamissoniana ssp. chamissoniana | Viola chamissoniana ssp. chamissoniana. |
+| Oahu—Lowland Mesic—Unit 2|          Abutilon sandwicense          |          Abutilon sandwicense.          |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |         Asplenium dielfalcatum         |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |         Cenchrus agrimonioides         |         Cenchrus agrimonioides.         |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |          Chamaesyce herbstii           |          Chamaesyce herbstii.           |
+|                          |                                        |        Colubrina oppositifolia.         |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |     Cyanea grimesiana ssp. obatae      |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |                                        |           Cyanea pinnatifida.           |
+|                          |                                        |             Cyanea superba.             |
+|                          |                                        |         Cyperus pennatiformis.          |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |          Delissea subcordata           |          Delissea subcordata.           |
+|                          |                                        |            Diellia unisora.             |
+|                          |                                        |         Diplazium molokaiense.          |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |            Gardenia mannii             |            Gardenia mannii.             |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Hesperomannia arbuscula.         |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |    Melicope cornuta var. decurrens     |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |            Melicope pallida.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |          Phyllostegia hirsuta          |          Phyllostegia hirsuta.          |
+|                          |        Phyllostegia kaalaensis         |        Phyllostegia kaalaensis.         |
+|                          |          Phyllostegia mollis           |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |            Schiedea hookeri            |            Schiedea hookeri.            |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |          Solanum sandwicense           |          Solanum sandwicense.           |
+|                          |          Stenogyne kanehoana           |          Stenogyne kanehoana.           |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |              Urera kaalae              |              Urera kaalae.              |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+| Oahu—Lowland Mesic—Unit 3|                                        |          Abutilon sandwicense.          |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |         Asplenium dielfalcatum         |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |         Cenchrus agrimonioides         |         Cenchrus agrimonioides.         |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |        Colubrina oppositifolia.         |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |                                        |           Cyanea pinnatifida.           |
+|                          |                                        |             Cyanea superba.             |
+|                          |                                        |         Cyperus pennatiformis.          |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |          Delissea subcordata           |          Delissea subcordata.           |
+|                          |            Diellia unisora             |            Diellia unisora.             |
+|                          |                                        |         Diplazium molokaiense.          |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |                                        |         Euphorbia haeleeleana.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |        Hesperomannia arbuscula         |        Hesperomannia arbuscula.         |
+|                          |                                        |         Hibiscus brackenridgei.         |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |            Melicope pallida.            |
+|                          |         Melicope saint-johnii          |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |          Phyllostegia mollis           |          Phyllostegia mollis.           |
+|                          |        Phyllostegia parviflora         |        Phyllostegia parviflora.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |            Schiedea obovata.            |
+|                          |            Silene perlmanii            |            Silene perlmanii.            |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |          Stenogyne kanehoana.           |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |              Urera kaalae              |              Urera kaalae.              |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+| Oahu—Lowland Mesic—Unit 4|                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielerectum.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |          Delissea subcordata.           |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |          Lobelia monostachya.           |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |        Tetraplasandra lydgatei.         |
+| Oahu—Lowland Mesic—Unit 5|                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielerectum.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |          Delissea subcordata.           |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |          Lobelia monostachya.           |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |        Tetraplasandra lydgatei.         |
+| Oahu—Lowland Mesic—Unit 6|                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielerectum.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |             Cyanea crispa              |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |            Cyanea truncata             |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |          Delissea subcordata.           |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |            Gardenia mannii             |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |          Lobelia monostachya.           |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |        Tetraplasandra lydgatei.         |
+| Oahu—Lowland Mesic—Unit 7|                                        |         Alectryon macrococcus.          |
+|                          |         Asplenium dielerectum          |         Asplenium dielerectum.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |           Bonamia menziesii            |           Bonamia menziesii.            |
+|                          |                                        |  Chamaesyce celastroides var. kaenana.  |
+|                          |                                        |          Ctenitis squamigera.           |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |   Cyanea grimesiana ssp. grimesiana    |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |           Cyanea lanceolata            |           Cyanea lanceolata.            |
+|                          |                                        |           Cyanea longiflora.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |          Cyrtandra polyantha           |          Cyrtandra polyantha.           |
+|                          |                                        |          Delissea subcordata.           |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |          Eugenia koolauensis.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |             Kadua coriacea.             |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |          Lobelia monostachya           |          Lobelia monostachya.           |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |          Phyllostegia mollis.           |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Schiedea kaalae.             |
+|                          |                                        |           Schiedea nuttallii.           |
+|                          |                                        |          Solanum sandwicense.           |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |        Tetraplasandra lydgatei         |        Tetraplasandra lydgatei.         |
+|  Oahu—Lowland Wet—Unit 1 |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |    Cyanea grimesiana ssp. grimesiana    |
+|                          |                                        |      Cyanea grimesiana ssp. obatae      |
+|                          |                                        |            Cyrtandra dentata            |
+|                          |                                        |          Diplazium molokaiense          |
+|                          |                                        |             Gardenia mannii             |
+|                          |           Gouania vitifolia            |            Gouania vitifolia            |
+|                          |                                        |         Hesperomannia arbuscula         |
+|                          |                                        |         Isodendrion longifolium         |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |           Phyllostegia mollis           |
+|                          |                                        |            Plantago princeps            |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |            Schiedea hookeri            |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |              Urera kaalae              |              Urera kaalae               |
+|  Oahu—Lowland Wet—Unit 2 |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |    Cyanea grimesiana ssp. grimesiana    |
+|                          |                                        |      Cyanea grimesiana ssp. obatae      |
+|                          |                                        |            Cyrtandra dentata            |
+|                          |                                        |          Diplazium molokaiense          |
+|                          |                                        |             Gardenia mannii             |
+|                          |                                        |            Gouania vitifolia            |
+|                          |                                        |         Hesperomannia arbuscula         |
+|                          |                                        |         Isodendrion longifolium         |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |          Phyllostegia hirsute          |          Phyllostegia hirsuta           |
+|                          |          Phyllostegia mollis           |           Phyllostegia mollis           |
+|                          |                                        |            Plantago princeps            |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |              Urera kaalae              |              Urera kaalae               |
+|  Oahu—Lowland Wet—Unit 3 |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |    Cyanea grimesiana ssp. grimesiana    |
+|                          |                                        |      Cyanea grimesiana ssp. obatae      |
+|                          |                                        |            Cyrtandra dentata            |
+|                          |                                        |          Diplazium molokaiense          |
+|                          |                                        |             Gardenia mannii             |
+|                          |                                        |            Gouania vitifolia            |
+|                          |                                        |         Hesperomannia arbuscula         |
+|                          |                                        |         Isodendrion longifolium         |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |          Phyllostegia hirsute          |          Phyllostegia hirsuta           |
+|                          |          Phyllostegia mollis           |           Phyllostegia mollis           |
+|                          |                                        |            Plantago princeps            |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |            Schiedea hookeri            |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |              Urera kaalae               |
+|  Oahu—Lowland Wet—Unit 4 |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |    Cyanea grimesiana ssp. grimesiana    |
+|                          |                                        |      Cyanea grimesiana ssp. obatae      |
+|                          |                                        |            Cyrtandra dentata            |
+|                          |                                        |          Diplazium molokaiense          |
+|                          |                                        |             Gardenia mannii             |
+|                          |                                        |            Gouania vitifolia            |
+|                          |                                        |         Hesperomannia arbuscula         |
+|                          |                                        |         Isodendrion longifolium         |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |          Phyllostegia mollis           |           Phyllostegia mollis           |
+|                          |                                        |            Plantago princeps            |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |              Urera kaalae               |
+|  Oahu—Lowland Wet—Unit 5 |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |            Cyanea calycina             |             Cyanea calycina             |
+|                          |                                        |    Cyanea grimesiana ssp. grimesiana    |
+|                          |     Cyanea grimesiana ssp. Obatae      |      Cyanea grimesiana ssp. obatae      |
+|                          |                                        |            Cyrtandra dentata            |
+|                          |                                        |          Diplazium molokaiense          |
+|                          |                                        |             Gardenia mannii             |
+|                          |                                        |            Gouania vitifolia            |
+|                          |        Hesperomannia arbuscula         |         Hesperomannia arbuscula         |
+|                          |                                        |         Isodendrion longifolium         |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |           Phyllostegia mollis           |
+|                          |                                        |            Plantago princeps            |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |            Schiedea kaalae             |             Schiedea kaalae             |
+|                          |                                        |              Urera kaalae               |
+|  Oahu—Lowland Wet—Unit 6 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |       Hesperomannia arborescens        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+|  Oahu—Lowland Wet—Unit 7 |                                        |          Adenophorus periens.           |
+|                          |           Chamaesyce rockii            |           Chamaesyce rockii.            |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |          Cyanea humboldtiana           |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |         Cyanea purpurellifolia         |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |            Cyanea truncata             |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |         Cyrtandra viridiflora          |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |            Gardenia mannii             |            Gardenia mannii.             |
+|                          |       Hesperomannia arborescens        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |  Lobelia gaudichaudii ssp. koolauensis  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |     Melicope cornuta var. cornuta      |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |             Myrsine juddii             |             Myrsine juddii.             |
+|                          |          Phlegmariurus nutans          |          Phlegmariurus nutans.          |
+|                          |          Phyllostegia hirsuta          |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |            Pteris lidgatei             |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |       Tetraplasandra gymnocarpa        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |            Viola oahuensis             |            Viola oahuensis.             |
+|                          |          Zanthoxylum oahuense          |          Zanthoxylum oahuense.          |
+|  Oahu—Lowland Wet—Unit 8 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |          Cyrtandra kaulantha           |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+|  Oahu—Lowland Wet—Unit 9 |                                        |          Adenophorus periens.           |
+|                          |           Chamaesyce rockii            |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |          Cyanea humboldtiana           |          Cyanea humboldtiana.           |
+|                          |           Cyanea koolauensis           |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |           Cyanea st.-johnii            |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |         Cyrtandra viridiflora          |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |            Gardenia mannii             |            Gardenia mannii.             |
+|                          |       Hesperomannia arborescens        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |          Labordia cyrtandrae           |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |           Lobelia oahuensis            |           Lobelia oahuensis.            |
+|                          |     Melicope cornuta var. cornuta      |     Melicope cornuta var. cornuta.      |
+|                          |            Melicope hiiakae            |            Melicope hiiakae.            |
+|                          |           Melicope lydgatei            |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |          Phyllostegia hirsuta          |          Phyllostegia hirsuta.          |
+|                          |        Phyllostegia parviflora         |        Phyllostegia parviflora.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |            Pteris lidgatei             |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |       Tetraplasandra gymnocarpa        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |            Viola oahuensis             |            Viola oahuensis.             |
+|                          |          Zanthoxylum oahuense          |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 10 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 11 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 12 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 13 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 14 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |           Cyanea koolauensis           |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 15 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |             Cyanea crispa              |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |           Cyanea koolauensis.           |
+|                          |                                        |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |          Cyrtandra polyantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |                                        |            Gardenia mannii.             |
+|                          |                                        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+| Oahu—Lowland Wet—Unit 16 |                                        |          Adenophorus periens.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |             Cyanea crispa              |             Cyanea crispa.              |
+|                          |                                        |   Cyanea grimesiana ssp. grimesiana.    |
+|                          |          Cyanea humboldtiana           |          Cyanea humboldtiana.           |
+|                          |           Cyanea koolauensis           |           Cyanea koolauensis.           |
+|                          |           Cyanea lanceolata            |           Cyanea lanceolata.            |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |           Cyanea st.-johnii            |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |           Cyrtandra gracilis           |           Cyrtandra gracilis.           |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |          Cyrtandra polyantha           |          Cyrtandra polyantha.           |
+|                          |           Cyrtandra sessilis           |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |           Cyrtandra waiolani.           |
+|                          |            Gardenia mannii             |            Gardenia mannii.             |
+|                          |       Hesperomannia arborescens        |       Hesperomannia arborescens.        |
+|                          |                                        |        Isodendrion longifolium.         |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        | Lobelia gaudichaudii ssp. koolauensis.  |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |     Melicope cornuta var. cornuta      |     Melicope cornuta var. cornuta.      |
+|                          |                                        |            Melicope hiiakae.            |
+|                          |                                        |           Melicope lydgatei.            |
+|                          |                                        |             Myrsine juddii.             |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Platanthera holochila.          |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |            Pteris lidgatei.             |
+|                          |           Sanicula purpurea            |           Sanicula purpurea.            |
+|                          |       Tetraplasandra gymnocarpa        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|                          |                                        |          Zanthoxylum oahuense.          |
+|  Oahu—Montane Wet—Unit 1 |                                        |                                         |
+|                          |                                        | Alectryon macrococcus var. macrococcus  |
+|                          |            Cyanea acuminate            |            Cyanea acuminata             |
+|                          |            Cyanea calycina             |             Cyanea calycina             |
+|                          |          Labordia cyrtandrae           |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |       Melicope christophersenii        |        Melicope christophersenii        |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |           Schiedea trinervis           |           Schiedea trinervis            |
+|   Oahu—Dry Cliff—Unit 1  |                                        |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |         Cenchrus agrimonioides         |         Cenchrus agrimonioides.         |
+|                          |          Chamaesyce herbstii           |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |     Cyanea grimesiana ssp. obatae      |     Cyanea grimesiana ssp. obatae.      |
+|                          |           Cyrtandra dentata            |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |             Kadua degeneri             |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |                                        |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |            Schiedea obovata            |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |Viola chamissoniana ssp. chamissoniana. |                                         |
+|   Oahu—Dry Cliff—Unit 2  |          Abutilon sandwicense          |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |         Dubautia herbstobatae          |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |           Gouania vitifolia            |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |             Kadua parvula              |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |           Lepidium arbuscula           |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |          Lobelia niihauensis           |          Lobelia niihauensis.           |
+|                          |         Melanthera tenuifolia          |         Melanthera tenuifolia.          |
+|                          |    Melicope cornuta var. decurrens     |    Melicope cornuta var. decurrens.     |
+|                          |            Melicope makahae            |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |         Peucedanum sandwicense         |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |           Sanicula mariversa           |           Sanicula mariversa.           |
+|                          |            Schiedea hookeri            |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |        Tetramolopium filiforme         |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          | Viola chamissoniana ssp. chamissoniana | Viola chamissoniana ssp. chamissoniana. |
+|   Oahu—Dry Cliff—Unit 3  |          Abutilon sandwicense          |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |         Asplenium dielfalcatum         |         Asplenium dielfalcatum.         |
+|                          |           Bonamia menziesii            |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |         Dubautia herbstobatae          |         Dubautia herbstobatae.          |
+|                          |          Eragrostis fosbergii          |          Eragrostis fosbergii.          |
+|                          |          Flueggea neowawraea           |          Flueggea neowawraea.           |
+|                          |            Gouania meyenii             |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |        Isodendrion laurifolium         |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |         Korthalsella degeneri          |         Korthalsella degeneri.          |
+|                          |           Lepidium arbuscula           |           Lepidium arbuscula.           |
+|                          |   Lipochaeta lobata var. leptophylla   |   Lipochaeta lobata var. leptophylla.   |
+|                          |          Lobelia niihauensis           |          Lobelia niihauensis.           |
+|                          |         Melanthera tenuifolia          |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |            Melicope makahae            |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |           Neraudia angulata            |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |         Peucedanum sandwicense         |         Peucedanum sandwicense.         |
+|                          |        Phyllostegia kaalaensis         |        Phyllostegia kaalaensis.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |            Schiedea hookeri            |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |           Silene lanceolata            |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |        Tetramolopium filiforme         |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          | Viola chamissoniana ssp. chamissoniana | Viola chamissoniana ssp. chamissoniana. |
+|   Oahu—Dry Cliff—Unit 4  |                                        |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |         Alectryon macrococcus          |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |          Chamaesyce kuwaleana          |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |                                        |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |        Spermolepis hawaiiensis         |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+|   Oahu—Dry Cliff—Unit 6  |                                        |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |         Cenchrus agrimonioides         |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |            Diellia unisora             |            Diellia unisora.             |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |          Flueggea neowawraea           |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |           Lepidium arbuscula           |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |          Lobelia niihauensis           |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |         Melicope saint-johnii          |         Melicope saint-johnii.          |
+|                          |           Neraudia angulata            |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |            Silene perlmanii            |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          | Tetramolopium lepidotum ssp. lepidotum | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+|  Oahu—Dry Cliff—Unit 7a  |                                        |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |          Flueggea neowawraea           |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |             Kadua parvula              |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |                                        |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |    Melicope cornuta var. decurrens     |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |         Melicope saint-johnii          |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |            Silene perlmanii            |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          | Viola chamissoniana ssp. chamissoniana | Viola chamissoniana ssp. chamissoniana. |
+|  Oahu—Dry Cliff—Unit 7b  |                                        |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |                                        |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |                                        |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |                                        |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |                                        |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla.   |
+|                          |                                        |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |                                        |           Neraudia angulata.            |
+|                          |                                        |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+|   Oahu—Dry Cliff—Unit 8  |          Abutilon sandwicense          |          Abutilon sandwicense.          |
+|                          |                                        |  Achyranthes splendens var. rotundata.  |
+|                          |                                        |         Alectryon macrococcus.          |
+|                          |                                        |         Asplenium dielfalcatum.         |
+|                          |           Bonamia menziesii            |           Bonamia menziesii.            |
+|                          |                                        |         Cenchrus agrimonioides.         |
+|                          |                                        |          Chamaesyce herbstii.           |
+|                          |                                        |          Chamaesyce kuwaleana.          |
+|                          |                                        |     Cyanea grimesiana ssp. obatae.      |
+|                          |                                        |           Cyrtandra dentata.            |
+|                          |                                        |            Diellia unisora.             |
+|                          |           Dracaena forbesii            |           Dracaena forbesii.            |
+|                          |                                        |         Dubautia herbstobatae.          |
+|                          |                                        |          Eragrostis fosbergii.          |
+|                          |          Flueggea neowawraea           |          Flueggea neowawraea.           |
+|                          |                                        |            Gouania meyenii.             |
+|                          |                                        |           Gouania vitifolia.            |
+|                          |                                        |        Isodendrion laurifolium.         |
+|                          |                                        |         Isodendrion pyrifolium.         |
+|                          |                                        |             Kadua degeneri.             |
+|                          |                                        |             Kadua parvula.              |
+|                          |                                        |         Korthalsella degeneri.          |
+|                          |                                        |           Lepidium arbuscula.           |
+|                          |                                        |   Lipochaeta lobata var. leptophylla    |
+|                          |          Lobelia niihauensis           |          Lobelia niihauensis.           |
+|                          |                                        |         Melanthera tenuifolia.          |
+|                          |                                        |    Melicope cornuta var. decurrens.     |
+|                          |                                        |            Melicope makahae.            |
+|                          |                                        |         Melicope saint-johnii.          |
+|                          |           Neraudia angulata            |           Neraudia angulata.            |
+|                          |          Nototrichium humile           |          Nototrichium humile.           |
+|                          |                                        |         Peucedanum sandwicense.         |
+|                          |                                        |        Phyllostegia kaalaensis.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula mariversa.           |
+|                          |                                        |            Schiedea hookeri.            |
+|                          |                                        |            Schiedea obovata.            |
+|                          |                                        |           Schiedea trinervis.           |
+|                          |                                        |           Silene lanceolata.            |
+|                          |                                        |            Silene perlmanii.            |
+|                          |                                        |        Spermolepis hawaiiensis.         |
+|                          |                                        |        Tetramolopium filiforme.         |
+|                          |                                        | Tetramolopium lepidotum ssp. lepidotum. |
+|                          |                                        | Viola chamissoniana ssp. chamissoniana. |
+|   Oahu—Wet Cliff—Unit 1  |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |            Cyanea calycina             |             Cyanea calycina             |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |       Melicope christophersenii        |        Melicope christophersenii        |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |           Schiedea trinervis           |           Schiedea trinervis            |
+|   Oahu—Wet Cliff—Unit 2  |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |            Cyanea calycina             |             Cyanea calycina             |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |       Melicope christophersenii        |        Melicope christophersenii        |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |           Schiedea trinervis            |
+|   Oahu—Wet Cliff—Unit 3  |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |        Melicope christophersenii        |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |           Schiedea trinervis            |
+|   Oahu—Wet Cliff—Unit 4  |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |        Melicope christophersenii        |
+|                          |          Phyllostegia hirsute          |          Phyllostegia hirsuta           |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |            Schiedea hookeri            |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |           Schiedea trinervis            |
+|   Oahu—Wet Cliff—Unit 5  |                                        |                                         |
+|                          |                                        |            Cyanea acuminata             |
+|                          |                                        |             Cyanea calycina             |
+|                          |                                        |           Labordia cyrtandrae           |
+|                          |                                        |            Lobelia oahuensis            |
+|                          |                                        |        Melicope christophersenii        |
+|                          |                                        |          Phyllostegia hirsuta           |
+|                          |                                        |          Pteralyxia macrocarpa          |
+|                          |                                        |            Schiedea hookeri             |
+|                          |                                        |             Schiedea kaalae             |
+|                          |                                        |           Schiedea trinervis            |
+|   Oahu—Wet Cliff—Unit 6  |                                        |          Adenophorus periens.           |
+|                          |                                        |          Chamaesyce deppeana.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |             Cyanea crispa              |             Cyanea crispa.              |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |          Lysimachia filifolia.          |
+|                          |          Phlegmariurus nutans          |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|   Oahu—Wet Cliff—Unit 7  |                                        |          Adenophorus periens.           |
+|                          |                                        |          Chamaesyce deppeana.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |                                        |            Cyanea acuminata.            |
+|                          |                                        |            Cyanea calycina.             |
+|                          |             Cyanea crispa              |             Cyanea crispa.              |
+|                          |                                        |          Cyanea humboldtiana.           |
+|                          |                                        |         Cyanea purpurellifolia.         |
+|                          |                                        |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |                                        |          Cyrtandra kaulantha.           |
+|                          |                                        |           Cyrtandra sessilis.           |
+|                          |                                        |         Cyrtandra subumbellata.         |
+|                          |                                        |         Cyrtandra viridiflora.          |
+|                          |                                        |          Labordia cyrtandrae.           |
+|                          |                                        |           Lobelia oahuensis.            |
+|                          |                                        |          Lysimachia filifolia.          |
+|                          |                                        |          Phlegmariurus nutans.          |
+|                          |                                        |          Phyllostegia hirsuta.          |
+|                          |                                        |        Phyllostegia parviflora.         |
+|                          |                                        |           Plantago princeps.            |
+|                          |   Psychotria hexandra var. oahuensis   |   Psychotria hexandra var. oahuensis.   |
+|                          |                                        |         Pteralyxia macrocarpa.          |
+|                          |                                        |           Sanicula purpurea.            |
+|                          |            Schiedea kaalae             |            Schiedea kaalae.             |
+|                          |                                        |       Tetraplasandra gymnocarpa.        |
+|                          |                                        |       Trematolobelia singularis.        |
+|                          |                                        |            Viola oahuensis.             |
+|   Oahu—Wet Cliff—Unit 8  |                                        |          Adenophorus periens.           |
+|                          |                                        |          Chamaesyce deppeana.           |
+|                          |                                        |           Chamaesyce rockii.            |
+|                          |            Cyanea acuminata            |            Cyanea acuminata.            |
+|                          |            Cyanea calycina             |            Cyanea calycina.             |
+|                          |                                        |             Cyanea crispa.              |
+|                          |          Cyanea humboldtiana           |          Cyanea humboldtiana.           |
+|                          |         Cyanea purpurellifolia         |         Cyanea purpurellifolia.         |
+|                          |           Cyanea st.-johnii            |           Cyanea st.-johnii.            |
+|                          |                                        |            Cyanea truncata.             |
+|                          |          Cyrtandra kaulantha           |          Cyrtandra kaulantha.           |
+|                          |           Cyrtandra sessilis           |           Cyrtandra sessilis.           |
+|                          |         Cyrtandra subumbellata         |         Cyrtandra subumbellata.         |
+|                          |         Cyrtandra viridiflora          |         Cyrtandra viridiflora.          |
+|                          |          Labordia cyrtandrae           |          Labordia cyrtandrae.           |
+|                          |           Lobelia oahuensis            |           Lobelia oahuensis.            |
+|                          |          Lysimachia filifolia          |          Lysimachia filifolia.          |
+|                          |          Phlegmariurus nutans          |          Phlegmariurus nutans.          |
+|                          |          Phyllostegia hirsuta          |          Phyllostegia hirsuta.          |
+|                          |        Phyllostegia parviflora         |        Phyllostegia parviflora.         |
+|                          |           Plantago princeps            |           Plantago princeps.            |
+|                          |                                        |   Psychotria hexandra var. oahuensis.   |
+|                          |         Pteralyxia macrocarpa          |         Pteralyxia macrocarpa.          |
+|                          |           Sanicula purpurea            |           Sanicula purpurea.            |
+|                          |                                        |            Schiedea kaalae.             |
+|                          |       Tetraplasandra gymnocarpa        |       Tetraplasandra gymnocarpa.        |
+|                          |       Trematolobelia singularis        |       Trematolobelia singularis.        |
+|                          |            Viola oahuensis             |            Viola oahuensis.             |
 
 (j) *Plants on Oahu; Constituent elements*—(1) *Flowering plants.*
 
@@ -14347,9 +14314,9 @@ Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mes
 
 (vi) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
 
-FAMILY ASPARAGACEAE*Pleomele forbesii* (HALA PEPE)
+FAMILY ASPARAGACEAE*Dracaena forbesii* (HALA PEPE)
 
-Oahu—Lowland Dry—Unit 1, Oahu—Lowland Dry—Unit 2, Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, Oahu—Lowland Mesic—Unit 7, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Pleomele forbesii* on Oahu.
+Oahu—Lowland Dry—Unit 1, Oahu—Lowland Dry—Unit 2, Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, Oahu—Lowland Mesic—Unit 7, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Dracaena forbesii* on Oahu.
 
 (i) In units Oahu—Lowland Dry—Unit 1 and Oahu—Lowland Dry—Unit 2, the physical and biological features of critical habitat are:
 
@@ -15833,24 +15800,6 @@ Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—U
 
 (F) Understory: Bryophytes, Ferns, *Coprosma, Dubautia, Kadua, Peperomia.*
 
-*Chamaesyce skottsbergii* var. *skottsbergii* (EWA PLAINS AKOKO)
-
-Oahu—Lowland Dry—Unit 8, Oahu—Lowland Dry—Unit 9, Oahu—Lowland Dry—Unit 10, and Oahu—Lowland Dry—Unit 11, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Chamaesyce skottsbergii* var. *skottsbergii* on Oahu. Within these units, the physical and biological features of critical habitat are:
-
-(i) Elevation: Less than 3,300 ft (1,000 m).
-
-(ii) Annual precipitation: Less than 50 in (130 cm).
-
-(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
-
-(iv) Canopy: *Diospyros, Myoporum, Pleomele, Santalum, Sapindus.*
-
-(v) Subcanopy: *Chamaesyce, Dodonaea, Leptecophylla, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
-
-(vi) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Plumbago, Sicyos, Sida, Waltheria.*
-
-(vii) Coral outcrop substrate.
-
 *Euphorbia haeleeleana* (AKOKO)
 
 Oahu—Lowland Dry—Unit 1, Oahu—Lowland Dry—Unit 2, Oahu—Lowland Dry—Unit 8, Oahu—Lowland Dry—Unit 9, Oahu—Lowland Dry—Unit 10, Oahu—Lowland Dry—Unit 11, Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, and Oahu—Lowland Mesic—Unit 3, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Euphorbia haeleeleana* on Oahu.
@@ -15882,6 +15831,24 @@ Oahu—Lowland Dry—Unit 1, Oahu—Lowland Dry—Unit 2, Oahu—Lowland Dry—U
 (E) Subcanopy: *Dodonaea, Freycinetia, Leptecophylla, Melanthera, Osteomeles, Pleomele, Psydrax.*
 
 (F) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
+
+*Euphorbia skottsbergii* var. *skottsbergii* (AKOKO)
+
+Oahu—Lowland Dry—Unit 8, Oahu—Lowland Dry—Unit 9, Oahu—Lowland Dry—Unit 10, and Oahu—Lowland Dry—Unit 11, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Euphorbia skottsbergii* var. *skottsbergii* on Oahu. Within these units, the physical and biological features of critical habitat are:
+
+(i) Elevation: Less than 3,300 ft (1,000 m).
+
+(ii) Annual precipitation: Less than 50 in (130 cm).
+
+(iii) Substrate: Weathered silty loams to stony clay, rocky ledges, little-weathered lava.
+
+(iv) Canopy: *Diospyros, Myoporum, Pleomele, Santalum, Sapindus.*
+
+(v) Subcanopy: *Chamaesyce, Dodonaea, Leptecophylla, Osteomeles, Psydrax, Scaevola, Wikstroemia.*
+
+(vi) Understory: *Alyxia, Artemisia, Bidens, Chenopodium, Nephrolepis, Peperomia, Plumbago, Sicyos, Sida, Waltheria.*
+
+(vii) Coral outcrop substrate.
 
 *Flueggea neowawraea* (MEHAMEHAME)
 
@@ -16197,7 +16164,7 @@ Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—U
 
 (iv) Canopy: *Antidesma, Metrosideros, Myrsine, Pisonia, Psychotria.*
 
-(v Subcanopy: *Cibotium, Claoxylon, Kadua, Melicope.*
+(v) Subcanopy: *Cibotium, Claoxylon, Kadua, Melicope.*
 
 (vi) Understory: *Alyxia, Cyrtandra, Dicranopteris, Diplazium, Machaerina, Microlepia.*
 
@@ -16959,9 +16926,9 @@ Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mes
 
 (F) Understory: *Bidens, Eragrostis, Melanthera, Schiedea.*
 
-*Psychotria hexandra* ssp. *oahuensis* (KOPIKO)
+*Psychotria hexandra* var. *oahuensis* (KOPIKO)
 
-Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, Oahu—Lowland Wet—Unit 16, Oahu—Wet Cliff—Unit 6, Oahu—Wet Cliff—Unit 7, and Oahu—Wet Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Psychotria hexandra* ssp. *oahuensis* on Oahu.
+Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, Oahu—Lowland Wet—Unit 16, Oahu—Wet Cliff—Unit 6, Oahu—Wet Cliff—Unit 7, and Oahu—Wet Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Psychotria hexandra* var. *oahuensis* on Oahu.
 
 (i) In units Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16, the physical and biological features of critical habitat are:
 
@@ -17026,6 +16993,22 @@ Oahu—Montane Wet—Unit 1, Oahu—Wet Cliff—Unit 1, Oahu—Wet Cliff—Unit 
 *Melicope hiiakae* (ALANI)
 
 Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope hiiakae* on Oahu. Within these units, the physical and biological features of critical habitat are:
+
+(i) Elevation: Less than 3,300 ft (1,000 m).
+
+(ii) Annual precipitation: Greater than 75 in (190 cm).
+
+(iii) Substrate: Clays; ashbeds; deep, well-drained soils; lowland bogs.
+
+(iv) Canopy: *Antidesma, Metrosideros, Myrsine, Pisonia, Psychotria.*
+
+(v) Subcanopy: *Cibotium, Claoxylon, Kadua, Melicope.*
+
+(vi) Understory: *Alyxia, Cyrtandra, Dicranopteris, Diplazium, Machaerina, Microlepia.*
+
+*Melicope cornuta* var. *cornuta* (NCN)
+
+Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope cornuta* var. *cornuta* on Oahu. Within these units, the physical and biological features of critical habitat are:
 
 (i) Elevation: Less than 3,300 ft (1,000 m).
 
@@ -17151,25 +17134,9 @@ Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mes
 
 (F) Understory: *Bidens, Eragrostis, Melanthera, Schiedea.*
 
-*Platydesma cornuta* var. *cornuta* (NCN)
+*Melicope cornuta* var. *decurrens* (NCN)
 
-Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Platydesma cornuta* var. *cornuta* on Oahu. Within these units, the physical and biological features of critical habitat are:
-
-(i) Elevation: Less than 3,300 ft (1,000 m).
-
-(ii) Annual precipitation: Greater than 75 in (190 cm).
-
-(iii) Substrate: Clays; ashbeds; deep, well-drained soils; lowland bogs.
-
-(iv) Canopy: *Antidesma, Metrosideros, Myrsine, Pisonia, Psychotria.*
-
-(v) Subcanopy: *Cibotium, Claoxylon, Kadua, Melicope.*
-
-(vi) Understory: *Alyxia, Cyrtandra, Dicranopteris, Diplazium, Machaerina, Microlepia.*
-
-*Platydesma cornuta* var. *decurrens* (NCN)
-
-Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Platydesma cornuta* var. *decurrens* on Oahu.
+Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Melicope cornuta* var. *decurrens on Oahu.*
 
 (i) In units Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, and Oahu—Lowland Mesic—Unit 3, the physical and biological features of critical habitat are:
 
@@ -17567,7 +17534,7 @@ Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mes
 
 (vi) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
 
-*Asplenium dielerectum* (ASPLENIUM-LEAVED DIELLIA)
+*Asplenium dielerectum* (NCN)
 
 Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, and Oahu—Lowland Mesic—Unit 7, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Asplenium dielerectum* on Oahu. Within these units, the physical and biological features of critical habitat are:
 
@@ -17583,9 +17550,9 @@ Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mes
 
 (vi) Understory: *Carex, Dicranopteris, Diplazium, Elaphoglossum, Peperomia.*
 
-*Diellia falcata* (NCN)
+*Asplenium dielfalcatum* (NCN)
 
-Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, Oahu—Lowland Mesic—Unit 7, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Diellia falcata* on Oahu.
+Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, Oahu—Lowland Mesic—Unit 7, Oahu—Dry Cliff—Unit 1, Oahu—Dry Cliff—Unit 2, Oahu—Dry Cliff—Unit 3, Oahu—Dry Cliff—Unit 4, Oahu—Dry Cliff—Unit 6, Oahu—Dry Cliff—Unit 7a, Oahu—Dry Cliff—Unit 7b, and Oahu—Dry Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Asplenium dielfalcatum* on Oahu.
 
 (i) In units Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mesic—Unit 3, Oahu—Lowland Mesic—Unit 4, Oahu—Lowland Mesic—Unit 5, Oahu—Lowland Mesic—Unit 6, and Oahu—Lowland Mesic—Unit 7, the physical and biological features of critical habitat are:
 
@@ -17679,7 +17646,7 @@ Oahu—Lowland Mesic—Unit 1, Oahu—Lowland Mesic—Unit 2, Oahu—Lowland Mes
 
 (F) Understory: *Alyxia, Cyrtandra, Dicranopteris, Diplazium, Machaerina, Microlepia.*
 
-FAMILY GRAMMITIDACEAE*Adenophorus periens* (PENDANT KIHI FERN)
+FAMILY GRAMMITIDACEAE*Adenophorus periens* (PALAI LAAU)
 
 Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, Oahu—Lowland Wet—Unit 16, Oahu—Wet Cliff—Unit 6, Oahu—Wet Cliff—Unit 7, and Oahu—Wet Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Adenophorus periens* on Oahu.
 
@@ -17711,9 +17678,9 @@ Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—U
 
 (F) Understory: Bryophytes, Ferns, *Coprosma, Dubautia, Kadua, Peperomia.*
 
-FAMILY LYCOPODIACEAE*Huperzia nutans* (WAWAEIOLE)
+FAMILY LYCOPODIACEAE*Phlegmariurus nutans* (WAWAEIOLE)
 
-Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, Oahu—Lowland Wet—Unit 16, Oahu—Wet Cliff—Unit 6, Oahu—Wet Cliff—Unit 7, and Oahu—Wet Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Huperzia nutans* on Oahu.
+Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, Oahu—Lowland Wet—Unit 16, Oahu—Wet Cliff—Unit 6, Oahu—Wet Cliff—Unit 7, and Oahu—Wet Cliff—Unit 8, identified in the legal descriptions in paragraph (i) of this section, constitute critical habitat for *Phlegmariurus nutans* on Oahu.
 
 (i) In units Oahu—Lowland Wet—Unit 6, Oahu—Lowland Wet—Unit 7, Oahu—Lowland Wet—Unit 8, Oahu—Lowland Wet—Unit 9, Oahu—Lowland Wet—Unit 10, Oahu—Lowland Wet—Unit 11, Oahu—Lowland Wet—Unit 12, Oahu—Lowland Wet—Unit 13, Oahu—Lowland Wet—Unit 14, Oahu—Lowland Wet—Unit 15, and Oahu—Lowland Wet—Unit 16, the physical and biological features of critical habitat are:
 
@@ -17939,11 +17906,11 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (ii) Map 25 follows:
 
-![](/graphics/er02jy03.025.gif)(26) Hawaii 7—*Pleomele hawaiiensis*—a (677 ha, 1,673 ac)
+![](/graphics/er02jy03.025.gif)(26) Hawaii 7—*Dracaena konaensis*—a (677 ha, 1,673 ac)
 
 (i) [Reserved]
 
-(ii) Map 26 follows:
+(ii) *Note:* The reference to “Hawaii 7—*Pleomele hawaiiensis*—a” on the map is equivalent to “Hawaii 7—*Dracaena konaensis*—a”. Map 26 follows:
 
 ![](/graphics/er02jy03.026.gif)(27) Hawaii 8—*Clermontia drepanomorpha*—a (1,906 ha, 4,709 ac)
 
@@ -18097,11 +18064,11 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (ii) Map 47 follows:
 
-![](/graphics/er02jy03.047.gif)(51) Hawaii 10—*Pleomele hawaiiensis*—b (1,338 ha, 3,306 ac)
+![](/graphics/er02jy03.047.gif)(51) Hawaii 10—*Dracaena konaensis*—b (1,338 ha, 3,306 ac)
 
 (i) [Reserved]
 
-(ii) Map 48 follows:
+(ii) *Note:* The reference to “Hawaii 10—*Pleomele hawaiiensis*—b” on the map is equivalent to “Hawaii 10—*Dracaena konaensis*—b”. Map 48 follows:
 
 ![](/graphics/er02jy03.048.gif)(52) Hawaii 10—*Solanum incompletum*—a (705 ha, 1,741 ac)
 
@@ -18203,11 +18170,11 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (ii) Map 68 follows:
 
-![](/graphics/er02jy03.064.gif)(69) Hawaii 18—*Pleomele hawaiiensis*—c (1,997 ha, 4,934 ac)
+![](/graphics/er02jy03.064.gif)(69) Hawaii 18—*Dracaena konaensis*—c(1,997 ha, 4,934 ac)
 
 (i) [Reserved]
 
-(ii) Map 69 follows:
+(ii) *Note:* The reference to “Hawaii 18—*Pleomele hawaiiensis*—c” on the map is equivalent to “Hawaii 18—*Dracaena konaensis*—c”. Map 69 follows:
 
 ![](/graphics/er02jy03.065.gif)(70) Hawaii 19—*Cyperus fauriei*—a (127 ha, 313 ac)
 
@@ -18233,11 +18200,11 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 
 (ii) Map 73 follows:
 
-![](/graphics/er02jy03.069.gif)(74) Hawaii 23—*Pleomele hawaiiensis*—d (8,943 ha, 22,097 ac)
+![](/graphics/er02jy03.069.gif)(74) Hawaii 23—*Dracaena konaensis*—d (8,943 ha, 22,097 ac)
 
 (i) [Reserved]
 
-(ii) Map 74 follows:
+(ii) *Note:* The reference to “Hawaii 23—*Pleomele hawaiiensis*—d” on the map is equivalent to “Hawaii 23—*Dracaena konaensis*—d”. Map 74 follows:
 
 ![](/graphics/er02jy03.070.gif)(75) Hawaii 23—*Sesbania tomentosa*—b (803 ha, 1,984 ac)
 
@@ -18485,7 +18452,7 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 |          Hawaii 4—Vigna o-wahuensis—c           |                                     |          Vigna o-wahuensis.          |
 |       Hawaii 5—Nothocestrum breviflorum—a       |                                     |      Nothocestrum breviflorum.       |
 |       Hawaii 6—Nothocestrum breviflorum—b       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
-|         Hawaii 7—Pleomele hawaiiensis—a         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|          Hawaii 7—Dracaena konaensis—a          |         Dracaena konaensis          |         Dracaena konaensis.          |
 |       Hawaii 8—Clermontia drepanomorpha—a       |      Clermontia drepanomorpha       |      Clermontia drepanomorpha.       |
 |       Hawaii 8—Phyllostegia warshaueri—b        |       Phyllostegia warshaueri       |       Phyllostegia warshaueri.       |
 |          Hawaii 9—Achyranthes mutica—a          |                                     |         Achyranthes mutica.          |
@@ -18504,13 +18471,13 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 |       Hawaii 10—Colubrina oppositifolia—a       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
 |          Hawaii 10—Delissea undulata—a          |                                     |          Delissea undulata.          |
 |          Hawaii 10—Delissea undulata—b          |          Delissea undulata          |          Delissea undulata.          |
+|         Hawaii 10—Dracaena konaensis—b          |         Dracaena konaensis          |         Dracaena konaensis.          |
 |    Hawaii 10—Hibiscadelphus hualalaiensis—a     |    Hibiscadelphus hualalaiensis     |    Hibiscadelphus hualalaiensis.     |
 |       Hawaii 10—Hibiscus brackenridgei—a        |       Hibiscus brackenridgei        |       Hibiscus brackenridgei.        |
 |       Hawaii 10—Isodendrion pyrifolium—a        |                                     |       Isodendrion pyrifolium.        |
 |        Hawaii 10—Mezoneuron kavaiense—a         |        Mezoneuron kavaiense         |        Mezoneuron kavaiense.         |
 |           Hawaii 10—Neraudia ovata—a            |                                     |           Neraudia ovata.            |
 |      Hawaii 10—Nothocestrum breviflorum—c       |      Nothocestrum breviflorum       |      Nothocestrum breviflorum.       |
-|        Hawaii 10—Pleomele hawaiiensis—b         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
 |         Hawaii 10—Solanum incompletum—a         |                                     |         Solanum incompletum.         |
 |Hawaii 10—Zanthoxylum dipetalum ssp. tomentosum—a|Zanthoxylum dipetalum ssp. tomentosum|Zanthoxylum dipetalum ssp. tomentosum.|
 |  Hawaii 11—Cyanea hamatiflora ssp. carlsonii—a  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
@@ -18520,19 +18487,19 @@ Oahu—Lowland Dry—Unit 6 and Oahu—Lowland Dry—Unit 7, identified in the l
 |         Hawaii 15—Cyanea stictophylla—a         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
 |  Hawaii 16—Cyanea hamatiflora ssp. carlsonii—d  |  Cyanea hamatiflora ssp. carlsonii  |  Cyanea hamatiflora ssp. carlsonii.  |
 |         Hawaii 16—Cyanea stictophylla—b         |         Cyanea stictophylla         |         Cyanea stictophylla.         |
-|           Hawaii 17—Diellia erecta—a            |           Diellia erecta            |           Diellia erecta.            |
+|        Hawaii 17—Asplenium dielerectum—a        |        Asplenium dielerectum        |        Asplenium dielerectum.        |
 |         Hawaii 17—Flueggea neowawraea—a         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
+|        Hawaii 18—Asplenium dielerectum—b        |        Asplenium dielerectum        |        Asplenium dielerectum.        |
 |       Hawaii 18—Colubrina oppositifolia—b       |       Colubrina oppositifolia       |       Colubrina oppositifolia.       |
-|           Hawaii 18—Diellia erecta—b            |           Diellia erecta            |           Diellia erecta.            |
+|         Hawaii 18—Dracaena konaensis—c          |         Dracaena konaensis          |         Dracaena konaensis.          |
 |         Hawaii 18—Flueggea neowawraea—b         |         Flueggea neowawraea         |         Flueggea neowawraea.         |
 |          Hawaii 18—Gouania vitifolia—a          |          Gouania vitifolia          |          Gouania vitifolia.          |
 |           Hawaii 18—Neraudia ovata—d            |           Neraudia ovata            |           Neraudia ovata.            |
-|        Hawaii 18—Pleomele hawaiiensis—c         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
 |          Hawaii 19—Mariscus fauriei—a           |          Mariscus fauriei           |          Mariscus fauriei.           |
 |         Hawaii 20—Sesbania tomentosa—a          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
 |          Hawaii 21—Ischaemum byrone—a           |                                     |          Ischaemum byrone.           |
 |          Hawaii 22—Ischaemum byrone—b           |          Ischaemum byrone           |          Ischaemum byrone.           |
-|        Hawaii 23—Pleomele hawaiiensis—d         |        Pleomele hawaiiensis         |        Pleomele hawaiiensis.         |
+|         Hawaii 23—Dracaena konaensis—d          |         Dracaena konaensis          |         Dracaena konaensis.          |
 |         Hawaii 23—Sesbania tomentosa—b          |         Sesbania tomentosa          |         Sesbania tomentosa.          |
 |        Hawaii 24—Argyroxiphium kauense—b        |        Argyroxiphium kauense        |        Argyroxiphium kauense.        |
 |   Hawaii 24—Asplenium fragile var. insulare—a   |   Asplenium fragile var. insulare   |   Asplenium fragile var. insulare.   |
@@ -18650,7 +18617,7 @@ Hawaii 11—*Cyanea hamatiflora* ssp. *carlsonii*—a, Hawaii 14—*Cyanea hamat
 
 (ii) Elevations between 1,366 and 1,755 m (4,482 and 5,759 ft).
 
-Family Campanulaceae: Cyanea platyphylla (haha)
+Family Campanulaceae: *Cyanea platyphylla* (akuaku)
 
 Hawaii 3—*Cyanea platyphylla*—a and Hawaii 29—*Cyanea platyphylla*—b, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Cyanea platyphylla* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
@@ -18794,9 +18761,9 @@ Hawaii 3—*Phyllostegia warshaueri*—a and Hawaii 8—*Phyllostegia warshaueri
 
 (ii) Elevations between 681 and 1,411 m (2,234 and 4,629 ft).
 
-Family Liliaceae: Pleomele hawaiiensis (hala pepe)
+Family Liliaceae: Dracaena Konaensis (Hala Pepe)
 
-Hawaii 7—*Pleomele hawaiiensis*—a, Hawaii 10—*Pleomele hawaiiensis*—b, Hawaii 18—*Pleomele hawaiiensis*—c, and Hawaii 23—*Pleomele hawaiiensis*—d, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Pleomele hawaiiensis* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
+Hawaii 7—*Dracaena konaensis*—a, Hawaii 10—*Dracaena konaensis*—b, Hawaii 18—*Dracaena konaensis*—c, and Hawaii 23—*Dracaena konaensis*—d, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Dracaena konaensis* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
 (i) Open aa lava in diverse lowland dry forests and *Metrosideros-Diospyros* lowland dry forest, and containing one or more of the following associated native plant species: *Bidens micrantha* ssp. *ctenophylla, Bobea timonioides, Caesalpinia kavaiensis, Cocculus trilobus, Colubrina oppositifolia, Diospyros sandwicensis, Dodonaea viscosa, Erythrina sandwicensis, Kokia drynarioides, Metrosideros polymorpha, Myoporum sandwicense, Neraudia ovata, Nestegis sandwicensis, Nothocestrum breviflorum, Nototrichium sandwicense, Osteomeles anthyllidifolia, Psydrax odorata, Reynoldsia sandwicensis, Santalum paniculatum, Sida fallax,* or *Sophora chrysophylla;* and
 
@@ -18930,6 +18897,8 @@ Hawaii 10—*Isodendrion pyrifolium*—a, Hawaii 31—*Isodendrion pyrifolium*�
 
 (vi) Understory: *Alyxia, Artemisia, Bidens, Capparis, Chenopodium, Nephrolepis, Peperomia, Sicyos.*
 
+(2) *Fern and allies.*
+
 Family Aspleniaceae: Asplenium peruvianum var. insulare (NCN)
 
 Hawaii 24—*Asplenium peruvianum* var. *insulare*—a, identified in the legal description in paragraph (k) of this section, constitutes critical habitat for *Asplenium peruvianum* var. *insulare* on Hawaii. Within this unit, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
@@ -18938,7 +18907,7 @@ Hawaii 24—*Asplenium peruvianum* var. *insulare*—a, identified in the legal 
 
 (ii) Elevations between 1,313 and 2,194 m (4,306 and 7,198 ft).
 
-Family Aspleniaceae: Diellia erecta (asplenium-leaved diellia)
+Family Aspleniaceae: *Asplenium dielerectum* (NCN)
 
 Hawaii 17—*Asplenium dielerectum—a* and Hawaii 18—*Asplenium dielerectum—b*, identified in the legal descriptions in paragraph (k) of this section, constitute critical habitat for *Asplenium dielerectum* on Hawaii. Within these units, the currently known primary constituent elements of critical habitat include, but are not limited to, the habitat components provided by:
 
@@ -18946,7 +18915,7 @@ Hawaii 17—*Asplenium dielerectum—a* and Hawaii 18—*Asplenium dielerectum�
 
 (ii) Elevations between 510 and 981 m (1,672 and 3,217 ft).
 
-Family Grammitidaceae: Adenophorus periens (pendent kihi fern)
+Family Grammitidaceae: *Adenophorus periens* (palai laau)
 
 Hawaii 28—*Adenophorus periens—*a, identified in the legal description in paragraph (k) of this section, constitutes critical habitat for *Adenophorus periens* on Hawaii. Within this unit, the currently known primary constituent elements of critical habitat include but are not limited to, the habitat components provided by:
 

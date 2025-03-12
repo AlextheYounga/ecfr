@@ -14,11 +14,9 @@
 
 (1) No. 058198 for use of products described in paragraph (a) of this section.
 
-(2) No. 017033 for use of product described in paragraph (a)(1)(i) of this section.
+(2) Nos. 017033 and 086117 for use of product described in paragraph (a)(1)(i) of this section.
 
 (3) Nos. 055529 and 086101 for use of product described in paragraph (a)(2) of this section.
-
-(4) No. 086101 for use of product described in paragraph (a)(2) of this section.
 
 (c) *Conditions of use in dogs and cats*—(1) *Amount.* Administer orally as a single, daily dose or divided into two equal doses at 12-hour intervals.
 
@@ -30,4 +28,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits the extralabel use of this drug in food-producing animals.
 
-[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013; 84 FR 8972, Mar. 13, 2019; 84 FR 53310, Oct. 7, 2019; 86 FR 13184, Mar. 8, 2021; 87 FR 58961, Sept. 29, 2022]
+[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013; 84 FR 8972, Mar. 13, 2019; 84 FR 53310, Oct. 7, 2019; 86 FR 13184, Mar. 8, 2021; 87 FR 58961, Sept. 29, 2022; 88 FR 27698, May 3, 2023]

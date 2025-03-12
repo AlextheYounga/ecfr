@@ -10,6 +10,6 @@
 
 (2) *Indications for use.* For the treatment of pinkeye in cattle (infectious bovine keratoconjunctivitis) caused by *Moraxella bovis.*
 
-(3) *Limitations.* Conditions other than bacterial infections of the bovine eye and infectious keratoconjunctivitis caused by *Moraxella bovis* may produce similar signs. If conditions persists or increases, discontinue use and consult a veterinarian.
+(3) *Limitations.* Conditions other than bacterial infections of the bovine eye and infectious keratoconjunctivitis caused by *Moraxella bovis* may produce similar signs. If conditions persists or increases, discontinue use and consult a veterinarian. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[48 FR 41157, Sept. 14, 1983, as amended 52 FR 7833, Mar. 13, 1987; 79 FR 10969, Feb. 27, 2014; 84 FR 32993, July 11, 2019]
+[48 FR 41157, Sept. 14, 1983, as amended at 52 FR 7833, Mar. 13, 1987; 79 FR 10969, Feb. 27, 2014; 84 FR 32993, July 11, 2019; 88 FR 27700, May 3, 2023]

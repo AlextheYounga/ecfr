@@ -1,6 +1,6 @@
 ##### § 17.84 Special rules—vertebrates. #####
 
-Link to an amendment published at 88 FR 7146, Feb. 2, 2023.Link to an amendment published at 88 FR 19894, Apr. 4, 2023.
+Link to an amendment published at 88 FR 19894, Apr. 4, 2023.
 
 (a) [Reserved]
 
@@ -150,7 +150,7 @@ The movement of woundfin beyond these areas will be limited to the lower portion
 
 (6) *Note:* Map of the NEP area for the yellowfin madtom in the French Broad River and Holston River, Tennessee, appears immediately following paragraph (m)(7) of this section.
 
-(f) Guam rail (*Rallus owstoni*). (1) The Guam rail population identified in paragraph (f)(7) of this section is a nonessential experimental population.
+(f) Guam rail (*Gallirallus*. (1) The Guam rail population identified in paragraph (f)(7) of this section is a nonessential experimental population.
 
 (2) No person shall take this species, except:
 

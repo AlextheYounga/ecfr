@@ -18,7 +18,7 @@
 
 (C) Administer 2.5 to 5 mg per chick as an aid in the control of mortality and to lessen severity of infections caused by *M. synoviae, Salmonella typhimurium, S. infantis,* and *E. coli.*
 
-(ii) *Limitations.* For use only in 1- to 3-day-old turkey poults and newly hatched chicks.
+(ii) *Limitations.* For use only in 1- to 3-day-old turkey poults and newly hatched chicks. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (2) *Dogs*—(i) *Amount.* Administer 2.5 to 5.0 mg per pound of body weight by intramuscular injection twice daily. Treatment may be continued for 4 days.
 
@@ -26,4 +26,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[86 FR 14820, Mar. 19, 2021]
+[86 FR 14820, Mar. 19, 2021, as amended at 88 FR 27700, May 3, 2023]

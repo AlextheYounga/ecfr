@@ -26,6 +26,6 @@
 
 (B) For Nos. 016592 and 055529: Treatment should not exceed 4 consecutive days. A withdrawal period has not been established for this product in pre-ruminating calves. Discontinue treatment for the following number of days before slaughter: Cattle—10; sheep—9; and swine—7.
 
-(C) For Nos. 054771 and 055529: Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(C) Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[66 FR 712, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 68 FR 42589, July 18, 2003; 69 FR 17586, Apr. 5, 2004; 70 FR 16935, Apr. 4, 2005; 73 FR 14177, Mar. 17, 2008; 75 FR 54017, Sept. 3, 2010; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 88 FR 14899, Mar. 10, 2023; 88 FR 16548, Mar. 20, 2023]
+[66 FR 712, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 68 FR 42589, July 18, 2003; 69 FR 17586, Apr. 5, 2004; 70 FR 16935, Apr. 4, 2005; 73 FR 14177, Mar. 17, 2008; 75 FR 54017, Sept. 3, 2010; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 88 FR 14899, Mar. 10, 2023; 88 FR 16548, Mar. 20, 2023; 88 FR 27700, May 3, 2023]

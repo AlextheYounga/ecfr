@@ -30,6 +30,8 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (C) *Red grouper.* 2.79 million lb (1.27 million kg).
 
+(D) *Gag.* Shallow-water groupers (SWG) have a separate quota for gag, among the other species described in the introductory text of paragraph (a)(1)(iii) of this section, and as specified in this paragraph (a)(1)(iii)(D). This quota is specified in gutted weight, that is, eviscerated but otherwise whole. The commercial quota for gag is 199,000 lb (90,265 kg).
+
 (iv) Tilefishes (including goldface tilefish, blueline tilefish, and tilefish)—582,000 lb (263,991 kg), gutted weight, that is, eviscerated but otherwise whole.
 
 (v) Greater amberjack—(A) For fishing year 2018—277,651 lb (125,940.38 kg), round weight.
@@ -60,4 +62,4 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (c) *Restrictions applicable after a recreational quota closure or recreational component quota closure.* The bag limit for the applicable species for the recreational sector or recreational sector component in or from the Gulf EEZ is zero. When the Federal charter vessel/headboat component is closed or the entire recreational sector is closed, this bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.,* in state or Federal waters.
 
-[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[78 FR 22952, Apr. 17, 2013]Editorial Note:For Federal Register citations affecting § 622.39, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 88 FR 27708, May 3, 2023, § 622.39 was amended by suspending paragraph (a)(1)(iii)(B) and by adding paragraph (a)(1)(iii)(D), effective May 3, 2023 to Oct. 30, 2023.
