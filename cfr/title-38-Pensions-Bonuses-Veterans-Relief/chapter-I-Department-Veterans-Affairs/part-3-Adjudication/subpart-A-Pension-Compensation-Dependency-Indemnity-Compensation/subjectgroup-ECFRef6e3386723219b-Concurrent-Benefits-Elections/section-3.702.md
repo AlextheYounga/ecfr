@@ -6,7 +6,7 @@
 
 (c) *Limitation.* A claim for dependency and indemnity compensation may not be filed or withdrawn after the death of the surviving spouse, child, or parent.
 
-(d) *Finality of election.* (1) Except as noted in paragraph (d)(2), an election to receive dependency and indemnity compensation is final and the claimant may not thereafter reelect death pension or compensation in that case. An election is final when the payee (or the payee's fiduciary) has negotiated one check for this benefit or when the payee dies after filing an election but prior to negotiation of a check.
+(d) *Finality of election.*(1) Except as noted in paragraphs (d)(2) and (g) of this section, an election to receive dependency and indemnity compensation is final and the claimant may not thereafter reelect death pension or compensation in that case. An election is final when the payee (or the payee's fiduciary) has negotiated one check for this benefit or when the payee dies after filing an election but prior to negotiation of a check.
 
 (2) Notwithstanding the provisions of paragraph (d)(1), effective November 2, 1994, a surviving spouse who is receiving dependency and indemnity compensation may elect to receive death pension instead of such compensation.
 
@@ -18,8 +18,10 @@
 
 (2) Effective June 22, 1966, where the monthly rate of dependency and indemnity compensation payable to a surviving spouse who has children is less than the monthly rate of death pension which would be payable for the children if the veteran's death had not been service connected and the surviving spouse were not entitled to such pension, dependency and indemnity compensation shall be payable to the surviving spouse in an amount equal to the monthly rate of death pension which would be payable to the children for any month (or part thereof) in which this rate is greater.
 
-(Authority: 38 U.S.C. 1312(b))Cross Reference:
+(g) *Medal of Honor pension.* A surviving spouse who qualifies for dependency and indemnity compensation under 38 U.S.C. 1311 or 1318 may, by notifying the Secretary in writing, elect to receive instead Medal of Honor pension, if entitled to such pension. See also § 3.802(c)(2) and (3).
+
+(Authority: 38 U.S.C. 1562(a)(2)(C))Cross Reference:
 
 Deaths prior to January 1, 1957. See § 3.400(c)(3)(i).
 
-[35 FR 18661, Dec. 9, 1970, as amended at 39 FR 20205, June 7, 1974; 41 FR 17387, Apr. 26, 1976; 44 FR 45943, Aug. 6, 1979; 60 FR 18356, Apr. 11, 1995; 61 FR 20727, May 8, 1996; 62 FR 5529, Feb. 6, 1997]
+[35 FR 18661, Dec. 9, 1970, as amended at 39 FR 20205, June 7, 1974; 41 FR 17387, Apr. 26, 1976; 44 FR 45943, Aug. 6, 1979; 60 FR 18356, Apr. 11, 1995; 61 FR 20727, May 8, 1996; 62 FR 5529, Feb. 6, 1997; 87 FR 68363, Nov. 15, 2022]

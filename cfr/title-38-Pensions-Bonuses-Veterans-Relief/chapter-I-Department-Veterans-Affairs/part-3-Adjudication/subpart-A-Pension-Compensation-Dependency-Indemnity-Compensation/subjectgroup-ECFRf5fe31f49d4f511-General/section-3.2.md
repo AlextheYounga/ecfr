@@ -12,7 +12,7 @@ This section sets forth the beginning and ending dates of each war period beginn
 
 (e) *Korean conflict.* June 27, 1950, through January 31, 1955, inclusive.
 
-(f) *Vietnam era.* The period beginning on February 28, 1961, and ending on May 7, 1975, inclusive, in the case of a veteran who served in the Republic of Vietnam during that period. The period beginning on August 5, 1964, and ending on May 7, 1975, inclusive, in all other cases.
+(f) *Vietnam era.* The period beginning on November 1, 1955, and ending on May 7, 1975, inclusive, in the case of a veteran who served in the Republic of Vietnam during that period. The period beginning on August 5, 1964, and ending on May 7, 1975, inclusive, in all other cases.
 
 (Authority: 38 U.S.C. 101(29))
 
@@ -26,4 +26,4 @@ This section sets forth the beginning and ending dates of each war period beginn
 
 (i) *Persian Gulf War.* August 2, 1990, through date to be prescribed by Presidential proclamation or law.
 
-(Authority: 38 U.S.C. 101(33))[26 FR 1563, Feb. 24, 1961, as amended at 32 FR 13223, Sept. 19, 1967; 36 FR 8445, May 6, 1971; 37 FR 6676, Apr. 1, 1972; 40 FR 27030, June 26, 1975; 44 FR 45931, Aug. 6, 1979; 56 FR 57986, Nov. 15, 1991; 62 FR 35422, July 1, 1997]
+(Authority: 38 U.S.C. 101(33))[26 FR 1563, Feb. 24, 1961, as amended at 32 FR 13223, Sept. 19, 1967; 36 FR 8445, May 6, 1971; 37 FR 6676, Apr. 1, 1972; 40 FR 27030, June 26, 1975; 44 FR 45931, Aug. 6, 1979; 56 FR 57986, Nov. 15, 1991; 62 FR 35422, July 1, 1997; 87 FR 68363, Nov. 15, 2022]

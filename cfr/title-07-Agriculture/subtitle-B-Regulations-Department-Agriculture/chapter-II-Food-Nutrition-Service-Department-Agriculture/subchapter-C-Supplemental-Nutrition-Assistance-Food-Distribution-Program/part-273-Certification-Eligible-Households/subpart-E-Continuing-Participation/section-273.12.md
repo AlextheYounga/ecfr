@@ -1,6 +1,6 @@
 ##### § 273.12 Reporting requirements. #####
 
-Link to an amendment published at 87 FR 59651, Oct. 3, 2022.
+Link to an amendment published at 87 FR 59651, Oct. 3, 2022.This amendment delayed until Dec. 6, 2022 at 87 FR 68335, Nov. 15, 2022.
 
 (a) *Household responsibility to report.* (1) Monthly reporting households are required to report as provided in § 273.21. Quarterly reporting households are subject to the procedures as provided in paragraph (a)(4) of this section. Simplified reporting households are subject to the procedures as provided in paragraph (a)(5) of this section. Certified change reporting households are required to report the following changes in circumstances:
 
