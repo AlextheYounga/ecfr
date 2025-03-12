@@ -822,7 +822,7 @@ B. Payments that arise solely from the ownership of securities of a person speci
 
 (ii) The individual who serves or has served as a director of the company and the period of service as director;
 
-(iii)The investment adviser, principal underwriter, or Sponsoring Insurance Company or person controlling, controlled by, or under common control with the investment adviser, principal underwriter, or Sponsoring Insurance Company where the individual named in paragraph (b)(10)(ii) of this Item holds or held office and the office held; and
+(iii) The investment adviser, principal underwriter, or Sponsoring Insurance Company or person controlling, controlled by, or under common control with the investment adviser, principal underwriter, or Sponsoring Insurance Company where the individual named in paragraph (b)(10)(ii) of this Item holds or held office and the office held; and
 
 (iv) The director of the Fund, nominee for election as director, or Immediate Family Member who is or was an Officer of the company; the office held; and the period of holding the office.
 

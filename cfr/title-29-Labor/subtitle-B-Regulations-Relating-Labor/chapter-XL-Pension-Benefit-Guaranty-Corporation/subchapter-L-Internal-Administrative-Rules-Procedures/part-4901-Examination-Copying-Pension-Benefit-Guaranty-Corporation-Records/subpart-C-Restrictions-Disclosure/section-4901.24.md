@@ -1,5 +1,7 @@
 ##### § 4901.24 Special rules for trade secrets and confidential commercial or financial information submitted to the PBGC. #####
 
+Link to an amendment published at 87 FR 43997, July 25, 2022.
+
 (a) *Application.* To the extent permitted by law, this section applies to a request for disclosure of a record that contains information that has been designated by the submitter in good faith in accordance with paragraph (b) of this section or a record that the PBGC has reason to believe contains such information, unless -
 
 (1) Access to the information is denied;

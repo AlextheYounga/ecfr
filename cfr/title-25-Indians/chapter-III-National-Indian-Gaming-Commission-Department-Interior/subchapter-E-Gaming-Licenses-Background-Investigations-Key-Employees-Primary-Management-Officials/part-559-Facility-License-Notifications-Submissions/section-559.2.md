@@ -1,5 +1,7 @@
 ##### § 559.2 When must a tribe notify the Chair that it is considering issuing a new facility license? #####
 
+Link to an amendment published at 87 FR 43990, July 25, 2022.
+
 (a) A tribe shall submit to the Chair a notice that a facility license is under consideration for issuance at least 120 days before opening any new place, facility, or location on Indian lands where class II or III gaming will occur.
 
 (1) A tribe may request an expedited review of 60 days and the Chair shall respond to the tribe's request, either granting or denying the expedited review, within 30 days.

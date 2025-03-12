@@ -1,5 +1,7 @@
 ##### § 4901.32 Fee schedule. #####
 
+Link to an amendment published at 87 FR 43999, July 25, 2022.
+
 (a) *Charges for searching and review of records.* Charges applicable under this subpart to the search for and review of records will be made according to the following fee schedule:
 
 (1) *Search and review time.* (i) Ordinary search and review by custodial or clerical personnel, $1.75 for each one-quarter hour or fraction thereof of employee worktime required to locate or obtain the records to be searched and to make the necessary review; and (ii) search or review requiring services of professional or supervisory personnel to locate or review requested records, $4.00 for each one-quarter hour or fraction thereof of professional or supervisory personnel worktime.

@@ -1,5 +1,7 @@
 ##### § 4901.21 Restrictions in general. #####
 
+Link to an amendment published at 87 FR 43997, July 25, 2022.
+
 (a) *Records not disclosable.* Records shall not be disclosed to the extent prohibited by -
 
 (1) 18 U.S.C. 1905, dealing in general with commercial and financial information;

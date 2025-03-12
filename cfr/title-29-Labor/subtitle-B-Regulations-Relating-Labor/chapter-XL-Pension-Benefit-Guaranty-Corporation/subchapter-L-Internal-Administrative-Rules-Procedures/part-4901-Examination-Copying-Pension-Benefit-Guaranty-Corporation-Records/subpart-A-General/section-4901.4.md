@@ -1,5 +1,7 @@
 ##### § 4901.4 Information maintained in electronic reading room. #####
 
+Link to an amendment published at 87 FR 43994, July 25, 2022.
+
 The PBGC shall make available for public inspection in an electronic format without formal request -
 
 (a) *Information published in the*Federal Register. Copies of Federal Register documents published by the PBGC, and copies of Federal Register indexes;

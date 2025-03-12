@@ -94,4 +94,6 @@ Table 4 to Paragraph (d)
 
 (g) *Recreational sector for hogfish in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida.* See § 622.183(b)(4) for the applicable seasonal closures.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021]
+(h) *Seasonal closure of the recreational sector for greater amberjack.* The recreational sector for greater amberjack in or from the Gulf EEZ is closed from August 1 through August 31, and November 1 through July 31. During the closure, the bag and possession limit for greater amberjack in or from the Gulf EEZ is zero.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 33261, June 4, 2013; 81 FR 24039, Apr. 25, 2016; 82 FR 34580, July 25, 2017; 82 FR 59525, Dec. 15, 2017; 82 FR 61487, Dec. 28, 2017; 83 FR 13428, Mar. 29, 2018; 85 FR 6823, Feb. 6, 2020; 85 FR 20613, Apr. 14, 2020; 86 FR 38417, July 20, 2021]Effective Date Note:At 87 FR 44031, July 25, 2022, ″ 622.34 was amended by suspending paragraph (c) and by adding paragraph (h), effective July 25, 2022 to Jan. 23, 2023.

@@ -1,16 +1,24 @@
 ##### § 431.323 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 37699, June 24, 2022.
+(a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE, and at the National Archives and Records Administration (NARA). Contact DOE at: the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
-(a) *General.* We incorporate by reference the following standards into subpart S of part 431. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, 202-586-2945, between 9 a.m. and 4 p.m., Monday through Friday, except Federal holidays, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources listed below.
+(b) *ANSI.* American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036; 212-642-4900; *www.ansi.org.*
 
-(b) *ANSI.* American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, 212-642-4900, or go to *http://www.ansi.org.*
+(1) ANSI C78.43-2017, American National Standard for Electric Lamps—Single-Ended Metal Halide Lamps, approved December 21, 2017; IBR approved for § 431.324.
 
-(1) ANSI C78.43-2004, Revision and consolidation of ANSI C78.1372-1997, .1374-1997, .1375-1997, .1376-1997, .1377-1997, .1378-1997, .1379-1997, .1382-1997, .1384-1997, and .1650-2003 (“ANSI C78.43”), American National Standard for electric lamps: Single-Ended Metal Halide Lamps, approved May 5, 2004, IBR approved for § 431.322;
+(2) ANSI C78.44-2016, American National Standard for Electric Lamps—Double-Ended Metal Halide Lamps, approved July 1, 2016; IBR approved for § 431.324.
 
-(2) ANSI C82.6-2005, Proposed Revision of ANSI C82.6-1985 (“ANSI C82.6”), American National Standard for Lamp Ballasts - Ballasts for High-Intensity Discharge Lamps - Methods of Measurement, approved February 14, 2005, IBR approved for § 431.322; and § 431.324.
+(3) ANSI C82.6-2015 (R2020), American National Standard for Lamp Ballasts—Ballasts for High-Intensity Discharge Lamps—Methods of Measurement, approved March 30, 2020; IBR approved for §§ 431.322; 431.324.
 
-(c) *NFPA.* National Fire Protection Association, 11 Tracy Drive, Avon, MA 02322, 1-800-344-3555, or go to *http://www.nfpa.org;*
+(4) ANSI C82.9-2016, American National Standard for Lamp Ballasts—High Intensity Discharge and Low-Pressure Sodium Lamps—Definitions, approved July 12, 2016; IBR approved for §§ 431.322; 431.324.
+
+(c) *IEC.* International Electrotechnical Commission, 3 rue de Varembé, 1st Floor, P.O. Box 131, CH—1211 Geneva 20—Switzerland, +41 22 919 02 11, or go to *webstore.iec.ch/home.*
+
+(1) IEC 63103, Lighting Equipment—Non-active Mode Power Measurement, Edition 1.0, dated 2020-07; IBR approved for § 431.324.
+
+(2) [Reserved]
+
+(d) *NFPA.* National Fire Protection Association, 11 Tracy Drive, Avon, MA 02322, 1-800-344-3555, or go to *http://www.nfpa.org;*
 
 (1) NFPA 70-2002 (“NFPA 70”), National Electrical Code 2002 Edition, IBR approved for § 431.326;
 
@@ -22,4 +30,4 @@ Link to an amendment published at 87 FR 37699, June 24, 2022.
 
 (2) [Reserved]
 
-[74 FR 12075, Mar. 23, 2009, as amended at 75 FR 10966, Mar. 9, 2010]
+[74 FR 12075, Mar. 23, 2009, as amended at 75 FR 10966, Mar. 9, 2010; 87 FR 37699, June 24, 2022]

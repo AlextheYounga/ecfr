@@ -1,7 +1,5 @@
 ##### § 14.629 Requirements for accreditation of service organization representatives; agents; and attorneys. #####
 
-Link to an amendment published at 87 FR 37751, June 24, 2022.
-
 (a) *Service Organization Representatives.* A recognized organization shall file with the Office of the General Counsel VA Form 21 (Application for Accreditation as Service Organization Representative) for each person it desires accredited as a representative of that organization. The form must be signed by the prospective representative and the organization's certifying official. For each of its accredited representatives, a recognized organization's certifying official shall complete, sign and file with the Office of the General Counsel, not later than five years after initial accreditation through that organization or the most recent recertification by that organization, VA Form 21 to certify that the representative continues to meet the criteria for accreditation specified in paragraph (a)(1), (2) and (3) of this section. In recommending a person, the organization shall certify that the designee:
 
 (1) Is of good character and reputation and has demonstrated an ability to represent claimants before the VA;
@@ -81,8 +79,4 @@ In the case of appeals before the Board in Washington, DC, the signed consent mu
 
 (ii) The determination of the Chief Counsel regarding the qualifications of a prospective service organization representative, agent, or attorney is a final adjudicative determination of an agency of original jurisdiction that may only be appealed to the Board of Veterans' Appeals.
 
-Note to § 14.629:
-
-A legal intern, law student, paralegal, or veterans service organization support-staff person, working under the supervision of an individual designated under § 14.631(a) as the claimant's representative, attorney, or agent, may qualify for read-only access to pertinent Veterans Benefits Administration automated claims records as described in §§ 1.600 through 1.603 in part 1 of this chapter.
-
-(Authority: 38 U.S.C. 501(a), 5904)(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0018 and 2900-0605)[53 FR 52421, Dec. 28, 1988, as amended at 55 FR 38057, Sept. 17, 1990; 68 FR 8545, Feb. 24, 2003; 71 FR 28586, May 17, 2006; 72 FR 58012, Oct. 12, 2007; 73 FR 29871, May 22, 2008; 73 FR 29871, May 22, 2008; 81 FR 32649, May 24, 2016; 82 FR 6272, Jan. 19, 2017; 82 FR 26753, June 9, 2017; 84 FR 174, Jan. 18, 2019]
+(Authority: 38 U.S.C. 501(a), 5904)(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0018 and 2900-0605)[53 FR 52421, Dec. 28, 1988, as amended at 55 FR 38057, Sept. 17, 1990; 68 FR 8545, Feb. 24, 2003; 71 FR 28586, May 17, 2006; 72 FR 58012, Oct. 12, 2007; 73 FR 29871, May 22, 2008; 73 FR 29871, May 22, 2008; 81 FR 32649, May 24, 2016; 82 FR 6272, Jan. 19, 2017; 82 FR 26753, June 9, 2017; 84 FR 174, Jan. 18, 2019; 87 FR 37751, June 24, 2022]

@@ -1,5 +1,7 @@
 ##### § 4901.33 Payment of fees. #####
 
+Link to an amendment published at 87 FR 43999, July 25, 2022.
+
 (a) *Medium of payment.* Payment of the applicable fees as provided in this subsection shall be made in cash, by U.S. postal money order, or by check payable to the PBGC. Postage stamps will not be accepted in lieu of cash, checks, or money orders as payment for fees specified in the schedule. Cash should not be sent by mail.
 
 (b) *Advance payment or assurance of payment.* Payment or assurance of payment before work is begun or continued on a request may be required under the following rules.

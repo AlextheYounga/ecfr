@@ -132,7 +132,7 @@ File each of the following as an exhibit to the Schedule:
 
 Calculation of Filing Fee Tables
 
-Table 1 - Transaction Valuation
+Table 1—Transaction Valuation
 
 |                           |Transaction valuation|Fee rate|Amount of  <br/>filing fee|
 |---------------------------|---------------------|--------|--------------------------|
@@ -144,7 +144,7 @@ Table 1 - Transaction Valuation
 |     Total Fee Offsets     |                     |        |            X             |
 |        Net Fee Due        |                     |        |            X             |
 
-Table 2 - Fee Offset Claims and Sources
+Table 2—Fee Offset Claims and Sources
 
 |                  |Registrant or filer name|Form or  <br/>filing type|File number|Initial filing date|Filing date|Fee offset claimed|Fee paid with fee  <br/>offset source|
 |------------------|------------------------|-------------------------|-----------|-------------------|-----------|------------------|-------------------------------------|
@@ -281,4 +281,4 @@ If the Schedule TO is combined with Schedule 13E-3 (§ 240.13e-100), set forth t
 
 *Instruction to Signature:* The statement must be signed by the filing person or that person's authorized representative. If the statement is signed on behalf of a person by an authorized representative (other than an executive officer of a corporation or general partner of a partnership), evidence of the representative's authority to sign on behalf of the person must be filed with the statement. The name and any title of each person who signs the statement must be typed or printed beneath the signature. See §§ 240.12b-11 and 240.14d-1(h) with respect to signature requirements.
 
-[64 FR 61462, Nov. 10, 1999, as amended at 72 FR 45112, Aug. 10, 2007; 73 FR 17814, Apr. 1, 2008; 73 FR 60093, Oct. 9, 2008; 76 FR 6046, Feb. 2, 2011]
+[64 FR 61462, Nov. 10, 1999, as amended at 72 FR 45112, Aug. 10, 2007; 73 FR 17814, Apr. 1, 2008; 73 FR 60093, Oct. 9, 2008; 76 FR 6046, Feb. 2, 2011; 86 FR 70259, Dec. 9, 2021]

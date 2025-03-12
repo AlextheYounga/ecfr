@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 87 FR 40740, July 8, 2022.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -30,7 +28,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (m) Fail to stow gear as required in § 300.25(a)(4)(iv) or (e)(6).
 
-(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of the observer requirements in § 300.25(d) or the purse seine closure period requirements in § 300.25(e)(1), (2), or (5).
+(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the IATTC Convention Area in contravention of § 300.25(e).
 
 (o) Use a U.S. longline or purse seine fishing vessel used to fish for HMS within one nautical mile of an anchored data buoy while the fishing vessel is in the Convention Area in contravention of § 300.25(f)(1).
 
@@ -66,7 +64,7 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (ee) Fail to ensure characters of a unique code are marked indelibly on a FAD deployed or modified on or after January 1, 2017, in accordance with § 300.28(a)(2).
 
-(ff) Fail to provide information to an observer or record or report data on FADs as required in § 300.22(a)(3).
+(ff) Fail to provide information to an observer or record or report data on FADs as required in § 300.22(c).
 
 (gg) Use a commercial purse seine or longline fishing vessel of the United States to retain on board, transship, store, or land any part or whole carcass of a silky shark (*Carcharhinus falciformis*) in contravention of § 300.27(e).
 
@@ -76,9 +74,9 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (jj) Use a shark line in contravention of § 300.27(l).
 
-(kk) When deploying a FAD, activate the transmission equipment attached to a FAD in a location other than on a purse seine vessel at sea as required in § 300.28(b).
+(kk) When deploying a FAD, activate the satellite buoy attached to a FAD in a location other than on a purse seine vessel at sea as required in § 300.28(b).
 
-(ll) Fail to turn on the tracking equipment for an Active FAD before deploying at sea as required in § 300.28(b).
+(ll) Fail to activate a satellite buoy before deploying a FAD at sea as required in § 300.28(b).
 
 (mm) Deploy a FAD in the IATTC Convention Area that is not an Active FAD.
 

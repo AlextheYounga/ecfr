@@ -1,5 +1,7 @@
 ##### § 4901.12 Description of information requested. #####
 
+Link to an amendment published at 87 FR 43995, July 25, 2022.
+
 (a) *In general.* Each request should reasonably describe the record or records sought in sufficient detail to permit identification and location with a reasonable amount of effort. So far as practicable, the request should specify the subject matter of the record, the place where and date or approximate date when made, the person or office that made it, and any other pertinent identifying details.
 
 (b) *Deficient descriptions.* If the description is insufficient to enable a professional employee familiar with the subject area of the request to locate the record with a reasonable amount of effort, the disclosure officer will notify the requester and, to the extent possible, indicate the additional information required. Every reasonable effort shall be made to assist a requester in the identification and location of the record or records sought. Records will not be withheld merely because it is difficult to find them.

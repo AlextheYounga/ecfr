@@ -1,5 +1,7 @@
 ##### § 4901.15 Appeals from denial of requests. #####
 
+Link to an amendment published at 87 FR 43996, July 25, 2022.
+
 (a) *Submittal of appeals.* If a disclosure request is denied in whole or in part by the disclosure officer, the requester may file a written appeal within 90 days from the date of the denial or, if later (in the case of a partial denial), 90 days from the date the requester receives the disclosed material. The appeal shall state the grounds for appeal and any supporting statements or arguments, and shall be addressed to the General Counsel, Pension Benefit Guaranty Corporation. See § 4000.4 of this chapter for information on where to file. To expedite processing, the words “FOIA appeal” should appear prominently on the request.
 
 (b) *Receipt and consideration of appeal.* The General Counsel shall note the date and time of receipt on each appeal and notify the requester thereof. Promptly and in any event within 20 working days after receipt of an appeal (subject to extension under § 4901.16), the General Counsel shall issue a decision on the appeal.

@@ -52,4 +52,4 @@ Instruction 1 to paragraphs (b)(1) and (d). Where the deadline falls on a Saturd
 
 Instruction 2 to paragraph (f). Where applicable state law gives legal effect to votes cast against a nominee, the form of proxy may provide a means for the security holder to grant authority to vote for the nominees of the registrant set forth, as a group, and a means for the security holder to grant authority to vote for the nominees of any other soliciting person set forth, as a group, provided that, in lieu of the ability to withhold authority to vote as a group, there is a similar means for the security holder to vote against such group of nominees (as well as a means for security holders to abstain from voting for such group of nominees).
 
-[86 FR 68379, Dec. 1, 2021]
+[86 FR 68380, Dec. 1, 2021]

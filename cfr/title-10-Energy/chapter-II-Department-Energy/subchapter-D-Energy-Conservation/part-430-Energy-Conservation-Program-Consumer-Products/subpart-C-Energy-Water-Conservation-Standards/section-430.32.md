@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 87 FR 27460, May 9, 2022.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -543,7 +541,7 @@ av = Total adjusted volume, expressed in Liters.
 |4-foot miniature bipin standard output|≤4,500K  <br/>\>4,500K and ≤7,000K|                  95.0  <br/>89.3                   |
 |  4-foot miniature bipin high output  |≤4,500K  <br/>\>4,500K and ≤7,000K|                  82.7  <br/>76.9                   |
 
-(5) Except as provided in paragraph (n)(6) of this section, each of the following incandescent reflector lamps manufactured after November 1, 1995, shall meet or exceed the lamp efficacy standards shown in the table:
+(5) Subject to the sales prohibition in paragraph (dd) of this section, and except as provided in paragraph (n)(6) of this section, each of the following incandescent reflector lamps manufactured after November 1, 1995, shall meet or exceed the lamp efficacy standards shown in the table:
 
 |Nominal lamp wattage|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
 |--------------------|----------------------------------------------------|
@@ -554,7 +552,7 @@ av = Total adjusted volume, expressed in Liters.
 |      116-155       |                        14.5                        |
 |      156-205       |                        15.0                        |
 
-(6) Each of the following incandescent reflector lamps manufactured after July 14, 2012, shall meet or exceed the lamp efficacy standards shown in the table:
+(6) Subject to the sales prohibition in paragraph (dd) of this section, each of the following incandescent reflector lamps manufactured after July 14, 2012, shall meet or exceed the lamp efficacy standards shown in the table:
 
 |Rated lamp wattage|  Lamp spectrum  |Lamp diameter  <br/>inches|   Rated voltage    |Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
 |------------------|-----------------|--------------------------|--------------------|----------------------------------------------------|
@@ -737,7 +735,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (2) Not be capable of operating with lamps that total more than 190 watts.
 
-(u) *Compact fluorescent lamps.* (1) Medium Base Compact Fluorescent Lamps. A bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet the following requirements:
+(u) *Compact fluorescent lamps.* (1) Medium Base Compact Fluorescent Lamps. Subject to the sales prohibition in paragraph (dd) of this section, a bare or covered (no reflector) medium base compact fluorescent lamp manufactured on or after January 1, 2006, must meet the following requirements:
 
 |                     Factor                     |                                                           Requirements                                                            |
 |------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -837,7 +835,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (7) A direct operation, AC-DC external power supply with nameplate output voltage less than 3 volts and nameplate output current greater than or equal to 1,000 milliamps that charges the battery of a product that is fully or primarily motor operated shall not be subject to the standards in paragraph (w)(1)(ii) of this section.
 
-(x) *General service incandescent lamps, intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) The energy conservation standards in this paragraph apply to general service incandescent lamps:
+(x) *General service incandescent lamps, intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, the energy conservation standards in this paragraph apply to general service incandescent lamps:
 
 (i) Intended for a general service or general illumination application (whether incandescent or not);
 
@@ -867,9 +865,9 @@ Modified Spectrum General Service Incandescent Lamps
 |     563-787      |         43         |      1,000 hrs       |   1/1/2014   |
 |     232-562      |         29         |      1,000 hrs       |   1/1/2014   |
 
-(2) Each candelabra base incandescent lamp shall not exceed 60 rated watts.
+(2) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp shall not exceed 60 rated watts.
 
-(3) Each intermediate base incandescent lamp shall not exceed 40 rated watts.
+(3) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp shall not exceed 40 rated watts.
 
 (y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 
@@ -952,7 +950,7 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.
 
-(bb) *Rough service lamps and vibration service lamps.* (1) Rough service lamps manufactured on or after January 25, 2018 must:
+(bb) *Rough service lamps and vibration service lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, rough service lamps manufactured on or after January 25, 2018 must:
 
 (i) Have a shatter-proof coating or equivalent technology that is compliant with NSF/ANSI 51 (incorporated by reference; see § 430.3) and is designed to contain the glass if the glass envelope of the lamp is broken and to provide effective containment over the life of the lamp;
 
@@ -960,7 +958,7 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 (iii) Be sold at retail only in a package containing one lamp.
 
-(2) Vibration service lamps manufactured on or after January 25, 2018 must:
+(2) Subject to the sales prohibition in paragraph (dd) of this section, vibration service lamps manufactured on or after January 25, 2018 must:
 
 (i) Have a rated wattage no greater than 40 watts; and
 
@@ -968,4 +966,8 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 (cc) *Portable air conditioners.* Single-duct portable air conditioners and dual-duct portable air conditioners manufactured on or after January 10, 2025 must have a combined energy efficiency ratio (CEER) in Btu/Wh no less than SACC: Seasonally adjusted cooling capacity in Btu/h, as determined in appendix CC of subpart B of this part.
 
-![](/graphics/er10ja20.020.gif)[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+![](/graphics/er10ja20.020.gif)
+
+(dd) *General service lamp.* Beginning July 25, 2022 the sale of any general service lamp that does not meet a minimum efficacy standard of 45 lumens per watt is prohibited.
+
+[54 FR 6077, Feb. 7, 1989]Editorial Note:For Federal Register citations affecting § 430.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

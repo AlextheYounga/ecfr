@@ -1,5 +1,7 @@
 ##### § 4001.2 Definitions. #####
 
+Link to an amendment published at 87 FR 43994, July 25, 2022.
+
 For purposes of this chapter (unless otherwise indicated or required by the context):
 
 *Affected party* means, with respect to a plan -

@@ -1,41 +1,57 @@
 ##### § 431.324 Uniform test method for the measurement of energy efficiency and standby mode energy consumption of metal halide lamp ballasts. #####
 
-Link to an amendment published at 87 FR 37699, June 24, 2022.
+(a) *Scope.* This section provides test procedures for measuring, pursuant to EPCA, the energy efficiency of metal halide lamp ballasts. After July 25, 2022, and prior to December 21, 2022, any representations with respect to energy use or efficiency of metal halide lamp fixtures must be in accordance with the results of testing pursuant to this section or the test procedures as they appeared in 10 CFR 431.324 as it appeared in the 10 CFR parts 200-499 edition revised as of January 1, 2022. On or after December 21, 2022, any representations, including certifications of compliance for metal halide lamp fixtures subject to any energy conservation standard, made with respect to the energy use or efficiency of metal halide lamp fixtures must be made in accordance with the results of testing pursuant to this section.
 
-(a) *Scope.* This section provides test procedures for measuring, pursuant to EPCA, the energy efficiency of metal halide ballasts.
+(b) *Active mode procedure*—(1) *General instructions.* Specifications in referenced standards that are recommended, that “shall” or “should” be met, or that are not otherwise explicitly optional, are mandatory. In cases where there is a conflict between any industry standard(s) and this section, the language of the test procedure in this section takes precedence over the industry standard(s).
 
-(b) *Testing and Calculations Active Mode.* (1)(i) *Test Conditions.* The power supply, ballast test conditions, lamp position, lamp stabilization, and test instrumentation shall all conform to the requirements specified in section 4.0, “General Conditions for Electrical Performance Tests,” of ANSI C82.6 (incorporated by reference; see § 431.323). Ambient temperatures for the testing period shall be maintained at 25 °C ±5 °C. Airflow in the room for the testing period shall be ≤0.5 meters/second. The ballast shall be operated until equilibrium. Lamps used in the test shall conform to the general requirements in section 4.4.1 of ANSI C82.6 and be seasoned for a minimum of 100 hour prior to use in ballast tests. Basic lamp stabilization shall conform to the general requirements in section 4.4.2 of ANSI C82.6, and stabilization shall be reached when the lamp's electrical characteristics vary by no more than 3-percent in three consecutive 10- to 15-minute intervals measured after the minimum burning time of 30 minutes. After the stabilization process has begun, the lamp shall not be moved or repositioned until after the testing is complete. In order to avoid heating up the test ballast during lamp stabilization, which could cause resistance changes and result in unrepeatable data, it is necessary to warm up the lamp on a standby ballast. This standby ballast should be a commercial ballast of a type similar to the test ballast in order to be able to switch a stabilized lamp to the test ballast without extinguishing the lamp. Fast-acting or make-before-break switches are recommended to prevent the lamps from extinguishing during switchover.
+(2) *Test conditions and setup.* (i) The power supply, ballast conditions, lamp position, and instrumentation must all conform to the requirements specified in Section 4.0 of ANSI C82.6-2015 (R2020) (incorporated by reference; see § 431.323).
 
-(ii) Alternative Stabilization Method. In cases where switching without extinguishing the lamp is impossible or for low-frequency electronic ballasts, the following alternative stabilization method shall be used. The lamp characteristics are determined using a reference ballast and recorded for future comparison. The same lamp is to be driven by the ballast under test until the ballast reaches operational stability. Operational stability is defined by three consecutive measurements, 5 minutes apart, of the lamp power where the three readings are within 2.5 percent. The electrical measurements are to be taken within 5 minutes after conclusion of the stabilization period.
+(ii) Airflow in the room for the testing period must be ≤0.5 meters/second.
 
-(iii) *Input Voltage for Tests.* For ballasts designed to operate lamps rated less than 150 W that have 120 V as an available input voltage, testing shall be performed at 120 V. For ballasts designed to operate lamps rated less than 150 W that do not have 120 V as an available voltage, testing shall be performed at the highest available input voltage. For ballasts designed to operate lamps rated greater than or equal to 150 W that have 277 V as an available input voltage, testing shall be conducted at 277 V. For ballasts designed to operate lamps rated greater than or equal to 150 W that do not have 277 V as an available input voltage, testing shall be conducted at the highest available input voltage.
+(iii) Test circuits must be in accordance with the circuit connections specified in Section 6.3 of ANSI C82.6-2015 (R2020).
 
-(2) *Test Measurement.* The ballast input power and lamp output power during operating conditions shall be measured in accordance with the methods specified in section 6.0, “Ballast Measurements (Multiple-Supply Type Ballasts)” of the ANSI C82.6 (incorporated by reference; *see* § 431.323).
+(iv) For ballasts designed to operate lamps rated less than 150 W that have 120 V as an available input voltage, testing must be performed at 120 V. For ballasts designed to operate lamps rated less than 150 W that do not have 120 V as an available voltage, testing must be performed at the highest available input voltage. For ballasts designed to operate lamps rated greater than or equal to 150 W that have 277 V as an available input voltage, testing must be conducted at 277 V. For ballasts designed to operate lamps rated greater than or equal to 150 W that do not have 277 V as an available input voltage, testing must be conducted at the highest available input voltage.
 
-(3) *Efficiency Calculation.* The measured lamp output power shall be divided by the measured ballast input power to determine the percent efficiency of the ballast under test to three significant figures.
+(v) Operate dimming ballasts at maximum input power.
 
-(i) A fractional number at or above the midpoint between two consecutive decimal places shall be rounded up to the higher of the two decimal places; or
+(vi) Select the metal halide lamp for testing as follows:
 
-(ii) A fractional number below the midpoint between two consecutive decimal places shall be rounded down to the lower of the two decimal places.
+(A) The metal halide lamp used for testing must meet the specifications of a reference lamp as defined by ANSI C82.9-2016 and the rated values of the corresponding lamp data sheet as specified in ANSI C78.43-2017 (both incorporated by reference; *see* § 431.323) for single-ended lamps and ANSI C78.44-2016 (incorporated by reference; *see* § 431.323) for double-ended lamps.
 
-(c) *Testing and Calculations-Standby Mode.* The measurement of standby mode need not be performed to determine compliance with energy conservation standards for metal halide lamp fixtures at this time. The above statement will be removed as part of the rulemaking to amend the energy conservation standards for metal halide lamp fixtures to account for standby mode energy consumption, and the following shall apply on the compliance date for such requirements. However, all representations related to standby mode energy consumption of these products made after September 7, 2010, must be based upon results generated under this test procedure.
+(B) Ballasts designated with ANSI codes corresponding to more than one lamp must be tested with the lamp having the highest nominal lamp wattage as specified in ANSI C78.43-2017 or ANSI C78.44-2016, as applicable.
 
-(1) *Test Conditions.* (i) The power supply and ballast test conditions with the exception of input voltage shall all conform to the requirements specified in section 4.0, “General Conditions for Electrical Performance Tests,” of the ANSI C82.6 (incorporated by reference; see § 431.323). Ambient temperatures for the testing period shall be maintained at 25 °C ±5 °C. Send a signal to the ballast instructing it to have zero light output using the appropriate ballast communication protocol or system for the ballast being tested.
+(C) Ballasts designated with ANSI codes corresponding to both ceramic metal halide lamps (code beginning with “C”) and quartz metal halide lamps (code beginning with “M”) of the same nominal lamp wattage must be tested with the quartz metal halide lamp.
 
-(ii) *Input Voltage for Tests.* For ballasts designed to operate lamps rated less than 150 W that have 120 V as an available input voltage, ballasts are to be tested at 120 V. For ballasts designed to operate lamps rated less than 150 W that do not have 120 V as an available voltage, ballasts are to be tested at the highest available input voltage. For ballasts designed to operate lamps rated greater than or equal to 150 W that have 277 V as an available input voltage, ballasts are to be tested at 277 V. For ballasts designed to operate lamps rated greater than or equal to 150 W that do not have 277 V as an available input voltage, ballasts are to be tested at the highest available input voltage.
+(3) *Test method*—(i) *Stabilization criteria*—(A) *General instruction.* Lamp must be seasoned as prescribed in Section 4.4.1 of ANSI C82.6-2015 (R2020).
 
-(2) *Measurement of Main Input Power.* Measure the input power (watts) to the ballast in accordance with the methods specified in section 6.0, “Ballast Measurements (Multiple-Supply Type Ballasts)” of the ANSI C82.6 (incorporated by reference; see § 431.323).
+(B) *Basic stabilization method.* Lamps using the basic stabilization method must be stabilized in accordance with Section 4.4.2 of ANSI C82.6-2015 (R2020). Stabilization is reached when the lamp's electrical characteristics vary by no more than 3-percent in three consecutive 10- to 15-minute intervals measured after the minimum burning time of 30 minutes.
 
-(3) *Measurement of Control Signal Power.* The power from the control signal path is measured using all applicable methods described below:
+(C) *Alternative stabilization method.* In cases where switching from the reference ballast to test ballast without extinguishing the lamp is impossible, such as for low-frequency electronic ballasts, the alternative stabilization method must be used. Lamps using the alternative stabilization method must be stabilized in accordance with Section 4.4.3 of ANSI C82.6-2015 (R2020).
 
-(i) *DC Control Signal.* Measure the DC control signal voltage, using a voltmeter (V), and current, using an ammeter (A) connected to the ballast in accordance with the circuit shown in Figure 1. The DC control signal power is calculated by multiplying the DC control signal voltage by the DC control signal current.
+(ii) *Test measurements.* (A) The ballast input power during operating conditions must be measured in accordance with the methods specified in Sections 6.1 and 6.8 of ANSI C82.6-2015 (R2020).
 
-![](/graphics/er09mr10.005.gif)
+(B) The ballast output (lamp) power during operating conditions must be measured in accordance with the methods specified in Sections 6.2 and 6.10 of ANSI C82.6-2015 (R2020).
 
-(ii) *AC Control Signal.* Measure the AC control signal power (watts), using a wattmeter capable of indicating true RMS power in watts (W), connected to the ballast in accordance with the circuit shown in Figure 2.
+(C) For ballasts with a frequency of 60 Hz, the ballast input and output power shall be measured after lamps have been stabilized according to Section 4.4 of ANSI C82.6-2015 (R2020) using a wattmeter with accuracy specified in Section 4.5 of ANSI C82.6-2015 (R2020); and
 
-![](/graphics/er09mr10.006.gif)
+(D) For ballasts with a frequency greater than 60 Hz, the ballast input and output power shall have a basic accuracy of ±0.5 percent at the higher of either 3 times the output operating frequency of the ballast or 2.4 kHz.
 
-(iii) *Power Line Carrier (PLC) Control Signal.* Measure the PLC control signal power (watts), using a wattmeter capable of indicating true RMS power in watts (W) connected to the ballast in accordance with the circuit shown in Figure 3. The wattmeter must have a frequency response that is at least 10 times higher than the PLC being measured to measure the PLC signal correctly. The wattmeter must also be high-pass filtered to filter out power at 60 Hz.
+(iii) *Calculations.* (A) To determine the percent efficiency of the ballast under test, divide the measured ballast output (lamp) power, as measured in paragraph (b)(3)(ii) of this section, by the measured ballast input power, as measured in paragraph (b)(3)(ii) of this section. Calculate percent efficiency to three significant figures.
 
-![](/graphics/er09mr10.007.gif)[74 FR 12075, Mar. 23, 2009, as amended at 75 FR 10966, Mar. 9, 2010; 79 FR 7843, Feb. 10, 2014]
+(B) [Reserved]
+
+(c) *Standby mode procedure*—(1) *General instructions.* Measure standby mode energy consumption only for a ballast that is capable of operating in standby mode. Specifications in referenced standards that are recommended, that “shall” or “should” be met, or that are not otherwise explicitly optional, are mandatory. When there is a conflict, the language of the test procedure in this section takes precedence over IEC 63103 (incorporated by reference; see § 431.323).
+
+(2) *Test conditions and setup.* (i) Establish and maintain test conditions and setup in accordance with paragraph (b)(2) of this section.
+
+(ii) Connect each ballast to a lamp as specified in paragraph (b)(2)(vi) of this section. Note: ballast operation with a reference lamp is not required.
+
+(3) *Test method and measurement.* (i) Turn on all of the lamps at full light output. If any lamp is not functional, replace the lamp and repeat the test procedure. If the ballast will not operate any lamps, replace the unit under test.
+
+(ii) Send a signal to the ballast instructing it to have zero light output using the appropriate ballast communication protocol or system for the ballast being tested.
+
+(iii) Stabilize the ballast prior to measurement using one of the methods as specified in Section 5.4 of IEC 63103.
+
+(iv) Measure the standby mode energy consumption in watts using one of the methods as specified in Section 5.4 of IEC 63103.
+
+[87 FR 37699, June 24, 2022]

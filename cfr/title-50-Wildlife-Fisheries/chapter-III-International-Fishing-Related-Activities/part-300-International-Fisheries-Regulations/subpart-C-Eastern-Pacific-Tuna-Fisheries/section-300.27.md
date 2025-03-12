@@ -1,7 +1,5 @@
 ##### § 300.27 Incidental catch and tuna retention requirements. #####
 
-Link to an amendment published at 87 FR 40741, July 8, 2022.
-
 (a) *Tuna retention requirements for purse seine vessels.* Bigeye, skipjack, and yellowfin tuna caught in the Convention Area by a fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) using purse seine gear must be retained on board and landed, except for fish deemed unfit for human consumption for reasons other than size. This requirement shall not apply to the last set of a trip if the available well capacity is insufficient to accommodate the entire catch.
 
 (b) *Release requirements for fish species on purse seine vessels.* All purse seine vessels must release, as soon as practicable after being identified on board the vessel during the brailing operation, all billfish, rays (not including mobulid rays, which are subject to paragraph (i) of this section), dorado (*Coryphaena hippurus*), and other fish species. This requirement does not apply to tuna or tuna-like species, or to other fish retained for consumption aboard the vessel. Sharks caught in the IATTC Convention Area and that are not retained for consumption aboard the vessel must be released according to the requirements in paragraph (k) of this section. Tuna caught in the IATTC Convention Area are subject to the retention requirements in paragraph (a) of this section.
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 40741, July 8, 2022.
 
 (d) *Oceanic whitetip shark restrictions.* The crew, operator, or owner of a fishing vessel of the United States used to fish for HMS in the Convention Area shall be prohibited from retaining on board, transshipping, landing, storing, selling, or offering for sale any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) and must release unharmed, to the extent practicable, all oceanic whitetip sharks when brought alongside the vessel.
 
-(e) *Silky shark restrictions for purse seine vessels.* The crew, operator, and owner of a commercial purse seine or longline fishing vessel of the United States used to fish for tuna or tuna-like species is prohibited from retaining on board, transshipping, storing, or landing any part or whole carcass of a silky shark (*Carcharhinus falciformis*) that is caught in the IATTC Convention Area, except as provided in paragraph (f) of this section.
+(e) *Silky shark restrictions for purse seine and longline vessels.* The crew, operator, and owner of a commercial purse seine or longline fishing vessel of the United States used to fish for tuna or tuna-like species is prohibited from retaining on board, transshipping, storing, or landing any part or whole carcass of a silky shark (*Carcharhinus falciformis*) that is caught in the IATTC Convention Area, except as provided in paragraph (f) of this section.
 
 (f) *Exception for silky shark caught and frozen on purse seine vessels.* In the case of a purse seine vessel operating in the IATTC Convention Area that catches a silky shark that is not seen during fishing operations and is delivered into the vessel hold, the silky shark may be stored on board and landed, but the vessel owner or operator must surrender the whole silky shark to the responsible government authority present at the point of landing. In U.S. ports the responsible governmental authority is the NOAA Office of Law Enforcement divisional office nearest to the port, or other authorized personnel. If no governmental authorities are available, the whole silky shark surrendered must not be sold or bartered but must be donated for purposes of domestic human consumption consistent with relevant laws and policies. The vessel owner or operator shall report these incidences to the IATTC Secretariat by recording them in the IATTC Regional Purse Seine Logbook, or another form identified by NMFS.
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 40741, July 8, 2022.
 
 (l) *Shark line prohibition for longline vessels.* Any U.S. longline vessel used to fish for tuna or swordfish is prohibited from using any shark line in the IATTC Convention Area.
 
-[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019; 85 FR 29669, May 18, 2020]
+[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019; 85 FR 29669, May 18, 2020; 87 FR 40741, July 8, 2022]

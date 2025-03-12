@@ -1,10 +1,10 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 87 FR 40735, July 8, 2022.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
-*Active FAD* means a FAD whose location is being tracked by the vessel owner or operator using tracking equipment, such as radio or satellite buoys. A FAD shall be considered an Active FAD unless/until the vessel is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is no longer active (*i.e.,* deactivated).
+*Activation of a satellite buoy* means the act of initializing network service for receiving the satellite buoy's position. Activation is done by the buoy supplier company at the request of the vessel owner or manager. Following activation, the vessel owner pays for the communication service. The buoy can be transmitting or not, depending if it has been switched on.
+
+*Active FAD* means a FAD deployed at sea where activation of the satellite buoy has occurred and the satellite buoy is transmitting its location and is being tracked by the vessel owner or operator. A FAD shall be considered an Active FAD unless/until the vessel owner or operator is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is deactivated.
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.
 
@@ -14,9 +14,11 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Data buoy* means, for the purpose of § 300.25, a floating device, either drifting or anchored, which is deployed by one or more governmental or recognized scientific organizations or entities for the purpose of electronically collecting and measuring environmental data, and not for the purpose of fishing activities, and which has been reported to the IATTC by a Member or Cooperating non-Member of the Commission.
 
+*Deactivation of a satellite buoy* means the act of canceling network service for receiving the satellite buoy's position. Deactivation is done by the buoy supplier company at the request of the vessel owner or manager. Following deactivation, the communication service is no longer paid for and the buoy stops transmitting.
+
 *Dolphin set* means a purse seine set where a class size 6 U.S. purse seine vessel (greater than 363 metric tons carrying capacity) deploys a net on, or encircles, dolphins to catch yellowfin tuna.
 
-*Fish aggregating device (FAD)* means a manmade raft or other floating object used to attract tuna and make them available to fishing vessels.
+*Fish aggregating device (FAD)* means anchored, drifting, floating or submerged objects deployed and/or tracked by vessels, including through the use of radio and/or satellite buoys, for the purpose of aggregating target tuna species for purse-seine fishing operations.
 
 *Fishing trip* means a period that a fishing vessel spends at sea between port visits and during which any fishing occurs.
 
@@ -44,11 +46,17 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Overall length* means registered length, or the horizontal distance between the outboard side of the foremost part of the stem and the outboard side of the aftermost part of the stern, excluding rudders, outboard motor brackets, and other similar fittings and attachments for a single-hull vessel; for a multi-hull vessel, it is the horizontal distance between the outboard side of the foremost part of the stem of the foremost hull and the outboard side of the aftermost part of the stern of the aftermost hull, excluding fittings or attachments (See 46 CFR 69.203).
 
+*Reactivation of a satellite buoy* means the act of re-initializing network service for transmission of a satellite buoy's position after deactivation. The procedure is the same as the one to be followed for activation of a satellite buoy.
+
 *Regional Administrator* means the Regional Administrator for the West Coast Region, National Marine Fisheries Service, or a designee.
 
 *Regional Vessel Register (hereafter referred to as Vessel Register)* means the regional register of vessels authorized to fish for tuna and tuna-like species in the Convention Area, as established by the Inter-American Tropical Tuna Commission in June 2000.
 
+*Satellite buoy* means a buoy that uses a satellite network service to indicate its geographical position and is compliant with requirements in § 300.28(a) to be clearly marked with a unique identification code.
+
 *Shark line* means a type of fishing gear used to target sharks and consisting of an individual hooked line or hooked lines attached to the floatline or directly to the floats of longline gear and deployed in the water column at depths shallower than the mainline.
+
+*Signal loss* means the situation in which, without any intervention of the owner, operator, or manager, a satellite buoy cannot be located by the owner on a monitoring device. The main causes of signal loss are buoy retrieved by another vessel or person (at-sea or on-shore), FAD sinking, and buoy failure.
 
 *South Pacific Tuna Treaty* means the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America (50 CFR part 300, subpart D).
 

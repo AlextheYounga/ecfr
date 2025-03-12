@@ -1,5 +1,7 @@
 ##### § 4901.14 Action on request. #####
 
+Link to an amendment published at 87 FR 43995, July 25, 2022.
+
 (a) *Time for action.* Promptly and in any event within 10 working days after receipt of a disclosure request (subject to extension under § 4901.16), the disclosure officer shall take action with respect to each requested item (or portion of an item) under either paragraph (b), (c), or (d) of this section. When responding to a request under paragraph (b), (c), or (d) of this section, the disclosure officer will notify the requester of the requester's right to seek assistance from the PBGC's FOIA Public Liaison and will provide information about how to contact the FOIA Public Liaison.
 
 (b) *Request granted.* If the disclosure officer determines that the request should be granted, the requester shall be so advised and the records shall be promptly made available to the requester.

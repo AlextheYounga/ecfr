@@ -1,5 +1,7 @@
 ##### § 4901.2 Definitions. #####
 
+Link to an amendment published at 87 FR 43994, July 25, 2022.
+
 In addition to terminology in part 4001 of this chapter, as used in this part -
 
 *Agency, person, party, rule, rulemaking, order,* and *adjudication* have the meanings attributed to these terms by the definitions in 5 U.S.C. 551, except where the context demonstrates that a different meaning is intended, and except that for purposes of the Freedom of Information Act the term agency as defined in 5 U.S.C. 551 includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President) or any independent regulatory agency.

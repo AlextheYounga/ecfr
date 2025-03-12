@@ -1,5 +1,7 @@
 ##### § 4901.31 Charges for services. #####
 
+Link to an amendment published at 87 FR 43997, July 25, 2022.
+
 (a) *Generally.* Pursuant to the provisions of FOIA, as amended, charges will be assessed to cover the direct costs of searching for, reviewing, and/or duplicating records requested under FOIA from the PBGC, except where the charges are limited or waived under paragraph (b) or (d) of this section, according to the fee schedule in § 4901.32 of this part. No charge will be assessed if the costs of routine collection and processing of the fee would be equal to or greater than the fee itself. Except as provided in paragraph (e) of this section, no charge for searching (or in the case of a requester described under 5 U.S.C. 552(a)(4)(A)(ii)(II), for duplication) will be assessed if PBGC has failed to comply with any time limit under 5 U.S.C. 552(a)(6).
 
 (1) *Direct costs* means those expenditures which the PBGC actually incurs in searching for and duplicating (and in the case of commercial requesters, reviewing) documents to respond to a request under FOIA and this part. Direct costs include, for example, the salary of the employee performing work (*i.e.,* the basic rate of pay plus benefits) or an established average pay for a homogeneous class of personnel (e.g., all administrative/clerical or all professional/executive), and the cost of operating duplicating machinery. Not included in direct costs are overhead expenses such as costs of space, and heating or lighting the facility in which the records are stored.
