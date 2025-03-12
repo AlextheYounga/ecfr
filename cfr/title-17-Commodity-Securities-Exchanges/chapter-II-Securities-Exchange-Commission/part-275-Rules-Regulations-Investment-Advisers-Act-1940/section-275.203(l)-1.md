@@ -1,8 +1,6 @@
 ##### § 275.203(l)-1 Venture capital fund defined. #####
 
-Link to an amendment published at 83 FR 1302, Jan. 11, 2018.
-
-(a) *Venture capital fund defined.* For purposes of section 203(l) of the Act (15 U.S.C. 80b-3(l)), a venture capital fund is any private fund that:
+(a) *Venture capital fund defined.* For purposes of section 203(*l*) of the Act (15 U.S.C. 80b-3(*l*)), a venture capital fund is any entity described in subparagraph (A), (B), or (C) of section 203(b)(7) of the Act (15 U.S.C. 80b-3(b)(7)) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a-53)) or any entity described in subparagraph (A) or (B) of section 203(b)(8) of the Act (15 U.S.C. 80b-3(b)(8)) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a-53)) or any private fund that:
 
 (1) Represents to investors and potential investors that it pursues a venture capital strategy;
 
@@ -56,4 +54,4 @@ Note:
 
 For purposes of this section, an investment adviser may treat as a private fund any issuer formed under the laws of a jurisdiction other than the United States that has not offered or sold its securities in the United States or to U.S. persons in a manner inconsistent with being a private fund, provided that the adviser treats the issuer as a private fund under the Act (15 U.S.C. 80b) and the rules thereunder for all purposes.
 
-[76 FR 39702, July 6, 2011]
+[76 FR 39702, July 6, 2011, as amended at 83 FR 1302, Jan. 11, 2018; 85 FR 13741, Mar. 10, 2020]

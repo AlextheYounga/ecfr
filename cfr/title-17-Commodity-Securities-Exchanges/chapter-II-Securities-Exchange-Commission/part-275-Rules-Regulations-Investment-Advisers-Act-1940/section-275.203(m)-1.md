@@ -1,7 +1,5 @@
 ##### § 275.203(m)-1 Private fund adviser exemption. #####
 
-Link to an amendment published at 83 FR 1302, Jan. 11, 2018.
-
 (a) *United States investment advisers.* For purposes of section 203(m) of the Act (15 U.S.C. 80b-3(m)), an investment adviser with its principal office and place of business in the United States is exempt from the requirement to register under section 203 of the Act if the investment adviser:
 
 (1) Acts solely as an investment adviser to one or more qualifying private funds; and
@@ -18,7 +16,11 @@ Link to an amendment published at 83 FR 1302, Jan. 11, 2018.
 
 (d) *Definitions.* For purposes of this section:
 
-(1) *Assets under management* means the regulatory assets under management as determined under Item 5.F of Form ADV (§ 279.1 of this chapter).
+(1) *Assets under management* means the regulatory assets under management as determined under Item 5.F of Form ADV (§ 279.1 of this chapter), except the following shall be excluded from the definition of assets under management for purposes of this section:
+
+(i) The regulatory assets under management attributable to a private fund that is an entity described in subparagraph (A), (B), or (C) of section 203(b)(7) of the Act (15 U.S.C. 80b- 3(b)(7)) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a-53)); and
+
+(ii) The regulatory assets under management attributable to a private fund that is an entity described in subparagraph (A) or (B) of section 203(b)(8) of the Act (15 U.S.C. 80b-3(b)(8)) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a-53).
 
 (2) *Place of business* has the same meaning as in § 275.222-1(a).
 
@@ -38,4 +40,4 @@ Note to paragraph (d)(8):
 
 A client will not be considered a United States person if the client was not a United States person at the time of becoming a client.
 
-[76 FR 39703, July 6, 2011]
+[76 FR 39703, July 6, 2011, as amended at 83 FR 1302, Jan. 11, 2018; 85 FR 13741, Mar. 10, 2020]

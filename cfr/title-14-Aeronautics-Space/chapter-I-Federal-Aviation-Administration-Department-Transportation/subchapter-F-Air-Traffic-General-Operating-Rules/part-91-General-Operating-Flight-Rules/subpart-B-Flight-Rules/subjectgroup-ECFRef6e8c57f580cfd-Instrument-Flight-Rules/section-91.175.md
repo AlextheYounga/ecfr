@@ -1,6 +1,6 @@
 ##### § 91.175 Takeoff and landing under IFR. #####
 
-Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
+Link to an amendment published at 81 FR 90172, Dec. 13, 2016.Link to an amendment published at 83 FR 10568, Mar. 12, 2018.
 
 (a) *Instrument approaches to civil airports.* Unless otherwise authorized by the FAA, when it is necessary to use an instrument approach to a civil airport, each person operating an aircraft must use a standard instrument approach procedure prescribed in part 97 of this chapter for that airport. This paragraph does not apply to United States military aircraft.
 
@@ -52,7 +52,9 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (1) Whenever operating an aircraft pursuant to paragraph (c) or (l) of this section or § 91.176 of this chapter, and the requirements of that paragraph or section are not met at either of the following times:
 
-(2) Whenever an identifiable part of the airport is not distinctly visible to the pilot during a circling maneuver at or above MDA, unless the inability to see an identifiable part of the airport results only from a normal bank of the aircraft during the circling approach.
+(i) When the aircraft is being operated below MDA; or
+
+(ii) Upon arrival at the missed approach point, including a DA/DH where a DA/DH is specified and its use is required, and at any time after that until touchdown.
 
 (f) *Civil airport takeoff minimums.* This paragraph applies to persons operating an aircraft under part 121, 125, 129, or 135 of this chapter.
 
@@ -162,4 +164,4 @@ Link to an amendment published at 81 FR 90172, Dec. 13, 2016.
 
 (n) Before March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with either the requirements of paragraphs (l) and (m) of this section or with the requirements of § 91.176(b) of this part. Beginning on March 13, 2018, a person conducting an EFVS operation to 100 feet above the touchdown zone elevation must comply with the requirements of § 91.176(b) of this part. The requirements of paragraphs (l) and (m) of this section will expire on March 13, 2018.
 
-[Doc. No. 18334, 54 FR 34294, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-281, 69 FR 1640, Jan. 9, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-306, 74 FR 20205, May 1, 2009; Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90172, Dec. 13, 2016]
+[Doc. No. 18334, 54 FR 34294, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-281, 69 FR 1640, Jan. 9, 2004; Amdt. 91-296, 72 FR 31678, June 7, 2007; Amdt. 91-306, 74 FR 20205, May 1, 2009; Docket FAA-2013-0485, Amdt. 91-345, 81 FR 90172, Dec. 13, 2016; Amdt. 91-345B, 83 FR 10568, Mar. 12, 2018]

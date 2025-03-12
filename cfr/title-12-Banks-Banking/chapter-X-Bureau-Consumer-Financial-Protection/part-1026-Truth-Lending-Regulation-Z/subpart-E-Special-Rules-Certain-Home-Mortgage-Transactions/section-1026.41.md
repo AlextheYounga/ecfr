@@ -1,6 +1,6 @@
 ##### § 1026.41 Periodic statements for residential mortgage loans. #####
 
-Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
+Link to an amendment published at 81 FR 72388, Oct. 19, 2016.Link to an amendment published at 83 FR 10559, Mar. 12, 2018.
 
 (a) *In general* - (1) *Scope.* This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a *mortgage loan* for purposes of this section.
 

@@ -6,4 +6,4 @@
 
 (c) This section will expire and no longer be effective on March 31, 2026.
 
-[82 FR 58739, Dec. 14, 2017]Effective Date Note:At 82 FR 58739, Dec. 14, 2017, § 270.30b1-9(T) was added, effective Jan. 16, 2018 to Mar. 31, 2026.
+[82 FR 58739, Dec. 14, 2017]Effective Date Note:At 82 FR 58739, Dec. 14, 2017, § 270.30b1-9(T) was added, effective Jan. 16, 2018, to Mar. 31, 2026.
