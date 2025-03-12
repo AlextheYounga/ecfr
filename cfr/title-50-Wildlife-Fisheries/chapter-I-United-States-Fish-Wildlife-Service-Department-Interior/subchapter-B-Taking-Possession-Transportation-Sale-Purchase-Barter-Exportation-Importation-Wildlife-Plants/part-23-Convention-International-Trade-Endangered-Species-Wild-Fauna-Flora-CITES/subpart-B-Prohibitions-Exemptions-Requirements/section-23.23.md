@@ -1,5 +1,7 @@
 ##### § 23.23 What information is required on U.S. and foreign CITES documents? #####
 
+Link to an amendment published at 87 FR 10080, Feb. 23, 2022.
+
 (a) *Purpose.* Article VI of the Treaty provides standard information that must be on a permit and certificate issued under Articles III, IV, and V. To identify a false or invalid document, any CITES document, including a CITES exemption document issued under Article VII, must contain standardized information to allow a Party to verify that the specimen being shipped is the one listed on the document and that the trade is consistent with the provisions of the Treaty.
 
 (b) *CITES form.* A CITES document issued by a Party must be issued in one or more of the three working languages of CITES (English, Spanish, or French). A CITES document from a non-Party may be in the form of a permit or certificate, letter, or any other form that clearly indicates the nature of the document and includes the information in paragraphs (c) through (e) of this section and the additional information in § 23.25.

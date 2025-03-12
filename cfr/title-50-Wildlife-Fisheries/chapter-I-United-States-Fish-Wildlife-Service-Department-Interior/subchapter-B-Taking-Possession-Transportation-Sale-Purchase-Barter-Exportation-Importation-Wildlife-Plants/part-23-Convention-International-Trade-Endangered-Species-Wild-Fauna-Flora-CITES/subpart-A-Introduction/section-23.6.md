@@ -1,5 +1,7 @@
 ##### § 23.6 What are the roles of the Management and Scientific Authorities? #####
 
+Link to an amendment published at 87 FR 10079, Feb. 23, 2022.
+
 Under Article IX of the Treaty, each Party must designate a Management and Scientific Authority to implement CITES for that country. If a non-Party wants to trade with a Party, it must also designate such Authorities. The names and addresses of these offices must be sent to the Secretariat to be included in the Directory. In the United States, different offices within the FWS have been designated the Scientific Authority and Management Authority, which for purposes of this section includes FWS Law Enforcement. When offices share activities, the Management Authority is responsible for dealing primarily with management and regulatory issues and the Scientific Authority is responsible for dealing primarily with scientific issues. The offices do the following:
 
 |                                                                                                                                                                           Roles                                                                                                                                                                            |U.S.  <br/>Scientific Authority|U.S. Management  <br/>Authority|

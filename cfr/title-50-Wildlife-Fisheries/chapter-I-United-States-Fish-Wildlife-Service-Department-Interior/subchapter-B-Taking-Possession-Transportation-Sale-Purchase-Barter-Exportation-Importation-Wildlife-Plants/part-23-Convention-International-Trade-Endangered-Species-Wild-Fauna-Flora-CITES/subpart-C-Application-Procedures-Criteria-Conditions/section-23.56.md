@@ -1,5 +1,7 @@
 ##### § 23.56 What U.S. CITES document conditions do I need to follow? #####
 
+Link to an amendment published at 87 FR 10080, Feb. 23, 2022.
+
 (a) *General conditions.* The following general conditions apply to all U.S. CITES documents:
 
 (1) You must comply with the provisions of part 13 of this subchapter as conditions of the document, as well as other applicable regulations in this subchapter, including, but not limited to, any that require permits. You must comply with all applicable local, State, Federal, tribal, and foreign wildlife or plant conservation laws.

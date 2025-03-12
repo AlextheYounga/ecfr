@@ -1,5 +1,7 @@
 ##### § 23.7 What office do I contact for CITES information? #####
 
+Link to an amendment published at 87 FR 10079, Feb. 23, 2022.
+
 Contact the following offices to receive information about CITES:
 
 |                                                                                                                                                                                                                                                                          Type of information                                                                                                                                                                                                                                                                           |                                                                                                                                                                                       Office to contact                                                                                                                                                                                       |

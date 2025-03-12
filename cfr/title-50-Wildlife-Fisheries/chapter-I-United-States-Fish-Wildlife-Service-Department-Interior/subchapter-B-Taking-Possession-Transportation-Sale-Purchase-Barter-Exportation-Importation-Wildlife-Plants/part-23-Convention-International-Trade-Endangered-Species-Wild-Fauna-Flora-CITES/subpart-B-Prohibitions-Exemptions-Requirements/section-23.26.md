@@ -1,5 +1,7 @@
 ##### § 23.26 When is a U.S. or foreign CITES document valid? #####
 
+Link to an amendment published at 87 FR 10080, Feb. 23, 2022.
+
 (a) *Purpose.* Article VIII of the Treaty provides that Parties take appropriate measures to enforce the Convention to prevent illegal trafficking in wildlife and plants.
 
 (b) *Original CITES documents.* A separate original or a true copy of a CITES document must be issued before the import, introduction from the sea, export, or re-export occurs, and the document must accompany each shipment. No copy may be used in place of an original except as provided in § 23.23(e)(3) or when a shipment is in transit (see § 23.22). Fax or electronic copies are not acceptable.

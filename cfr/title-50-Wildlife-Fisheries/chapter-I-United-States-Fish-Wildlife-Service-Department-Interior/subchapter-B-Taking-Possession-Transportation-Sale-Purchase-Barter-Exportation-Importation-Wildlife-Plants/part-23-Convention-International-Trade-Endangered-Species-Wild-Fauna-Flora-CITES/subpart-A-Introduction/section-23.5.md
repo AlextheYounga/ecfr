@@ -1,5 +1,7 @@
 ##### § 23.5 How are the terms used in these regulations defined? #####
 
+Link to an amendment published at 87 FR 10079, Feb. 23, 2022.
+
 In addition to the definitions contained in part 10 of this subchapter, and unless the context otherwise requires, in this part:
 
 *Affected by trade* means that either a species is known to be in trade and the trade has or may have a detrimental impact on the status of the species, or a species is suspected to be in trade or there is demonstrable potential international demand for the species that may be detrimental to the survival of the species in the wild.
