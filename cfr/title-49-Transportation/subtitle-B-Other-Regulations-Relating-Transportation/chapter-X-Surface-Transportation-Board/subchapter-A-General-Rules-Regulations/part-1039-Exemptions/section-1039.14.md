@@ -1,7 +1,5 @@
 ##### § 1039.14 Boxcar transportation exemptions and rules. #####
 
-Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
-
 (a) The Rail transportation of all commodities in boxcars is exempt from the provisions of 49 U.S.C. subtitle IV except as otherwise provided in this section.
 
 (b) The Board retains jurisdiction in the following areas:
@@ -58,6 +56,6 @@ Except as prohibited above, carriers may use car ownership or car marks for iden
 
 Central New York Railroad CorporationCooperstown and Charlotte Valley Railway CorporationFonda, Johnstown & Gloversville Railroad CorporationLackawaxen and Stourbridge Railroad CorporationNew York, Susquehanna & Western Railway CorporationRahway Valley Railroad CompanyStaten Island Railway Corporation.
 
-(d) Carriers must continue to comply with Board accounting and reporting requirements. Railroad tariffs pertaining to the exempted transportation of commodities in boxcars will no longer apply. This exemption shall remain in effect, unless modified or revoked by a subsequent order of this Board.
+(d) Carriers must continue to comply with Board accounting and reporting requirements. Railroad tariffs pertaining to the exempted transportation of commodities in boxcars will no longer apply. Consistent with the exemptions in § 1039.10 and § 1039.11, this exemption shall not apply to the regulation of demurrage, except the regulation of demurrage related to transportation that is subject to § 1039.13. This exemption shall remain in effect, unless modified or revoked by a subsequent order of the Board.
 
-[48 FR 20415, May 6, 1983, as amended at 50 FR 20419, May 16, 1985; 51 FR 32656, Sept. 15, 1986; 51 FR 32922, Sept. 17, 1986; 52 FR 37971, Oct. 13, 1987; 55 FR 41339, Oct. 11, 1990; 57 FR 53451, Nov. 10, 1992; 57 FR 56641, Nov. 30, 1992; 61 FR 26847, May 29, 1996; 81 FR 8852, Feb. 23, 2016]
+[48 FR 20415, May 6, 1983, as amended at 50 FR 20419, May 16, 1985; 51 FR 32656, Sept. 15, 1986; 51 FR 32922, Sept. 17, 1986; 52 FR 37971, Oct. 13, 1987; 55 FR 41339, Oct. 11, 1990; 57 FR 53451, Nov. 10, 1992; 57 FR 56641, Nov. 30, 1992; 61 FR 26847, May 29, 1996; 81 FR 8852, Feb. 23, 2016; 85 FR 12756, Mar. 4, 2020]

@@ -1,7 +1,5 @@
 ##### § 1039.11 Miscellaneous commodities exemptions. #####
 
-Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
-
 (a) *Commodities exempted.* Except as indicated in paragraph (b) of this section, the rail transportation of the commodities listed below is exempt from the provisions of 49 U.S.C. subtitle IV. The Standard Transportation Commodity Code (STCC) numbers that identify the exempted commodities are those in effect on the effective date of the tariff cited, and shall embrace all commodities assigned additional digits.
 
 |  STCC No.  |    STCC tariff     |                                                                                                  Commodity                                                                                                  |
@@ -102,7 +100,7 @@ Link to an amendment published at 85 FR 12756, Mar. 4, 2020.
 |   42112    |     ......do.      |      Nonrevenue movement of shipping devices, consisting of blocking, bolsters, cradles, pallets, racks, skids, etc., empty, returning in reverse of route used in loaded movement, and so certified.       |
 |   42311    |     ......do.      | Revenue movement of containers, bags, barrels, bottles, boxes, crates, cores, drums, kegs, reels, tubes, or carriers, NEC., empty, returning in reverse of route used in loaded movement and so certified.  |
 
-Excluded from this exemption are any movements for which a finding of market dominance has been made. However, this exemption shall not be construed as affecting in any way the existing regulations, agreements, prescriptions, conditions, allowances or levels of compensation regarding the use of equipment, whether shipper or railroad owned or leased, including car hire, per diem and mileage allowances, and also including exemption from the anti-trust laws necessary to negotiate car service regulations or mandatory interchange of equipment or to maintain and execute such agreements. Nor shall this exemption be construed to affect existing Class III railroad “protections” in the case of boxcars.
+Excluded from this exemption are any movements for which a finding of market dominance has been made. However, this exemption shall not be construed as affecting in any way the existing regulations, agreements, prescriptions, conditions, allowances or levels of compensation regarding the use of equipment, whether shipper or railroad owned or leased, including car hire, per diem and mileage allowances, and also including exemption from the anti-trust laws necessary to negotiate car service regulations or mandatory interchange of equipment or to maintain and execute such agreements. Nor shall this exemption be construed to affect existing Class III railroad “protections” in the case of boxcars. Consistent with the exemptions in § 1039.10 and § 1039.14, this exemption shall not apply to the regulation of demurrage, except the regulation of demurrage related to transportation that is subject to § 1039.13.
 
 (b) *Conditions.* Carriers must continue to comply with Board accounting and reporting requirements. All railroad tariffs pertaining to the transportation of these miscellaneous commodities will no longer apply. This exemption shall remain in effect, unless modified or revoked by a subsequent order of this Board.
 
