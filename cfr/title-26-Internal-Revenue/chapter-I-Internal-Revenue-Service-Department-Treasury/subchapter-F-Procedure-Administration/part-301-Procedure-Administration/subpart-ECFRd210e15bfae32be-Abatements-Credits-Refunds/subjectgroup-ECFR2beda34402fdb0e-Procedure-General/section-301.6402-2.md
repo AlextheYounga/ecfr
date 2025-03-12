@@ -20,6 +20,28 @@
 
 (3) For restrictions on the assignment of claims, see section 3477 of the Revised Statutes (31 U.S.C. 203).
 
-(g) *Effective/applicability date.* Paragraphs (a)(2), (b)(2), (c), and (d) of this section apply to claims for credit or refund filed on or after July 24, 2015. Paragraphs (a)(1), (b)(1), (e), and (f) of this section apply to claims for credit or refund filed before, on or after July 24, 2015.
+(g) *Misdirected direct deposit refund*—(1) *Definition.* The term *misdirected direct deposit refund* includes any refund of an overpayment of tax that is disbursed as a direct deposit but is not deposited into the account designated on the claim for refund to receive the direct deposit refund.
 
-[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7008, 34 FR 3673, Mar. 1, 1969; T.D. 7188, 37 FR 12794, June 29, 1972; T.D. 7410, 41 FR 11020, Mar. 16, 1976; T.D. ATF-33, 41 FR 44038, Oct. 6, 1976; T.D. 7484, 42 FR 22143, May 2, 1977; T.D. 9727, 80 FR 43951, July 24, 2015]
+(2) *Procedures for reporting a misdirected direct deposit refund*—(i) *In general.* A taxpayer or a taxpayer's authorized representative may report to the IRS that the taxpayer never received a direct deposit refund and request a replacement refund. The report must include the name of the taxpayer who requested the refund, the taxpayer identification number of the taxpayer, the taxpayer's mailing address, the type of return to which the refund is related, the account number and routing number that the taxpayer requested the refund be directly deposited into, and any other information necessary to locate the misdirected direct deposit refund.
+
+(ii) *How to report a misdirected direct deposit refund.* A reporting described in paragraph (g)(2)(i) of this section may be made in the following ways:
+
+(A) By calling the IRS;
+
+(B) On the form prescribed by the IRS and in accordance with the applicable publications, instructions, or other appropriate guidance;
+
+(C) By contacting the Office of the Taxpayer Advocate by telephone, by mail, facsimile, or in person; or
+
+(D) By submitting the appropriate form in person at a Taxpayer Assistance Center.
+
+(3) *Procedures for coordination with financial institutions*—(i) *Identification of the account that received the misdirected direct deposit refund.* If the IRS receives a report described in paragraph (g)(2)(ii) of this section, the IRS will confirm that the overpayment was issued as a direct deposit. The IRS will confirm that the overpayment was not credited or offset pursuant to the law in effect immediately prior to the direct deposit being disbursed. If the direct deposit described in the report was issued, the IRS will initiate a refund trace to request the assistance of the Department of the Treasury's Bureau of the Fiscal Service. In accordance with its own procedures, the Bureau of the Fiscal Service coordinates with the financial institution that holds directly or indirectly the deposit account into which the refund was made, requesting from the financial institution such information as is necessary to identify whether the financial institution received the refund; whether the financial institution returned, or will return, the refund to the IRS, or if no funds are available for return; whether a deposit was made into the account designated on the claim for refund; and the identity of the deposit account owner to whom the deposit was disbursed.
+
+(ii) *Coordination to recover the amounts transferred.* Recovery of the misdirected direct deposit refund from a financial institution shall follow the procedures established by the Bureau of the Fiscal Service. The Bureau of the Fiscal Service shall request the return of the misdirected direct deposit refund from the financial institution that received it. The IRS may contact the financial institution directly to recover the misdirected direct deposit refund.
+
+(4) *Issuance of replacement refund.* When the IRS has determined that a misdirected direct deposit refund has occurred, the IRS will issue a replacement refund in the full amount of the refund that was misdirected. The replacement refund may be issued as a direct deposit or as a paper check sent to the taxpayer's last known address.
+
+(5) *Applicability of this paragraph (g) to missing refunds.* The provisions of paragraphs (g)(2) through (g)(3)(i) of this section should be used for any refund that was disbursed as a direct deposit and that the taxpayer reports as missing. For example, although a refund that was deposited into an incorrect bank account because the taxpayer transposed two digits in their bank account number is not considered to be a misdirected direct deposit refund, the provisions of paragraphs (g)(2) through (g)(3)(i) of this section should be used. If the application of these procedures results in an amount recovered by the IRS, the recovered amount will be refunded or credited as allowed by law.
+
+(h) *Applicability dates.*Paragraphs (a)(2), (b)(2), (c), and (d) of this section apply to claims for credit or refund filed on or after July 24, 2015. Paragraphs (a)(1), (b)(1), (e), and (f) of this section apply to claims for credit or refund filed before, on or after July 24, 2015. Paragraph (g) of this section applies to reports described in paragraph (g)(2)(ii) of this section made after December 22, 2020.
+
+[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7008, 34 FR 3673, Mar. 1, 1969; T.D. 7188, 37 FR 12794, June 29, 1972; T.D. 7410, 41 FR 11020, Mar. 16, 1976; T.D. ATF-33, 41 FR 44038, Oct. 6, 1976; T.D. 7484, 42 FR 22143, May 2, 1977; T.D. 9727, 80 FR 43951, July 24, 2015; T.D. 9940, 85 FR 83447, Dec. 22, 2020]

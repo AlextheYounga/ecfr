@@ -1,5 +1,7 @@
 ##### § 266.225 Labor standards. #####
 
+Link to an amendment published at 85 FR 83443, Dec. 22, 2020.
+
 (a) *Applicability of Davis-Bacon.* (1) All laborers and mechanics employed by contractors or subcontractors on a project insured under this part shall be paid not less than the wages prevailing in the locality in which the work was performed for the corresponding classes of laborers and mechanics employed in construction of a similar character, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended (40 U.S.C. 276a-276a-5), where the project meets all of the following conditions:
 
 (i) Advances for the project are insured under this part;

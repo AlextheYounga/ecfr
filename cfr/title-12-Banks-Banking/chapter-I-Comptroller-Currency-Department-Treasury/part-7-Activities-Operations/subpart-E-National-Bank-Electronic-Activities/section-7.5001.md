@@ -1,5 +1,7 @@
 ##### § 7.5001 Electronic activities that are part of, or incidental to, the business of banking. #####
 
+Link to an amendment published at 85 FR 83737, Dec. 22, 2020.
+
 (a) *Purpose.* This section identifies the criteria that the OCC uses to determine whether an electronic activity is authorized as part of, or incidental to, the business of banking under 12 U.S.C. 24 (Seventh) or other statutory authority.
 
 (b) *Restrictions and conditions on electronic activities.* The OCC may determine that activities are permissible under 12 U.S.C. 24 (Seventh) or other statutory authority only if they are subject to standards or conditions designed to provide that the activities function as intended and are conducted safely and soundly, in accordance with other applicable statutes, regulations, or supervisory policies.

@@ -1,5 +1,7 @@
 ##### § 266.510 HFA responsibilities. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *Inspections.* The HFA must perform inspections in accordance with the physical inspection procedures in 24 CFR part 5, subpart G.
 
 (b) *Annual audits of projects.* The HFA must analyze projects' annual audits and provide a copy to HUD along with a summary of unresolved findings and actions planned, with target dates, to correct unresolved findings.

@@ -1,5 +1,7 @@
 ##### § 7.2005 Ownership of stock necessary to qualify as director. #####
 
+Link to an amendment published at 85 FR 83734, Dec. 22, 2020.
+
 (a) *General.* A national bank director must own a qualifying equity interest in a national bank or a company that has control of a national bank. The director must own the qualifying equity interest in his or her own right and meet a certain minimum threshold ownership.
 
 (b) *Qualifying equity interest* - (1) *Minimum required equity interest.* For purposes of this section, a qualifying equity interest includes common or preferred stock of the bank or of a company that controls the bank that has not less than an aggregate par value of $1,000, an aggregate shareholders' equity of $1,000, or an aggregate fair market value of $1,000.

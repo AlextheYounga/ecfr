@@ -1,5 +1,7 @@
 ##### § 4.5 Other OCC supervisory offices. #####
 
+Link to an amendment published at 85 FR 83726, Dec. 22, 2020.
+
 (a) *Midsize Bank Supervision (MBS).* Midsize Bank Supervision is responsible for supervising midsize national banks and Federal savings associations that present unique supervisory challenges based on size, complexity, and/or product line. MBS also supervises credit card and certain other special purpose banks. MBS is headquartered in Chicago, IL and located at 1 South Wacker Drive, Suite 2000, Chicago, IL 60606.
 
 (b) *District offices.* Each district office of the OCC is responsible for the direct supervision of the national banks and Federal savings associations in its district, with the exception of the national banks and Federal savings associations supervised by the Washington office pursuant to § 4.4 of this part or Midsize Bank Supervision pursuant to § 4.5(a). The four district offices cover the United States, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands. The geographical composition of each district follows:

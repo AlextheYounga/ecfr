@@ -1,5 +1,7 @@
 ##### § 266.215 Functions delegated by HUD to HFAs. #####
 
+Link to an amendment published at 85 FR 83442, Dec. 22, 2020.
+
 The following functions are delegated by HUD to the HFAs:
 
 (a) *Affirmative Fair Housing Marketing Plan (AFHMP).* The HFA will perform information collection, reviews and ministerial activities associated with the review and approval of the AFHMP for all projects. (Enforcement of fair housing and equal opportunity laws is the responsibility of HUD.)

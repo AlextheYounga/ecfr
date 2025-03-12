@@ -1,5 +1,7 @@
 ##### § 266.410 Mortgage provisions. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *Form.* The mortgage and note must be executed on a form approved by the HFA for use in the jurisdiction in which the property is located.
 
 (b) *Mortgagor.* The mortgage must be executed by a mortgagor determined eligible by the HFA.

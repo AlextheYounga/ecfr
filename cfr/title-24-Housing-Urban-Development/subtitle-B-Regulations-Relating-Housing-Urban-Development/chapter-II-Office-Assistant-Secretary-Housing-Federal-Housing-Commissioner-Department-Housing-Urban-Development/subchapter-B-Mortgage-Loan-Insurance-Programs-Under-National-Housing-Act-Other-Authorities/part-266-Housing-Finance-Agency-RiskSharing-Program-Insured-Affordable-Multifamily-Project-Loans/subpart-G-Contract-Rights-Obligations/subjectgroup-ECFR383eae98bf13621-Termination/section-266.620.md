@@ -1,5 +1,7 @@
 ##### § 266.620 Termination of Contract of Insurance. #####
 
+Link to an amendment published at 85 FR 83440, Dec. 22, 2020.Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 The Contract of Insurance shall terminate if any of the following occurs:
 
 (a) The mortgage is paid in full;

@@ -1,5 +1,7 @@
 ##### § 266.638 Issuance of HFA Debenture. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 (a) *Condition to initial claim payment.* The HFA must issue an instrument in the form of a debenture to HUD within 30 days of receiving the initial claim payment. The HFA Debenture shall meet the following requirements and shall be in a form that has been approved by HUD as part of the application approval process.
 
 (b) *Term of HFA Debenture.* The HFA Debenture shall be dated the same date that the initial claim payment is issued. The HFA Debenture shall have a term of five years in order to afford the mortgagor ample time to cure the default or the HFA time to foreclose and/or resell the project. HUD may provide a written extension of the five year term if the HFA certifies and provides documentation that the project owner has filed bankruptcy and the HFA is taking action to have the project discharged from the bankruptcy. The HFA Debenture shall, during this extended period, continue to bear interest as described below at HUD's published debenture rate at the earlier of initial endorsement or final endorsement. Interest shall be due and payable annually on the anniversary date of the initial claim payment. Interest is due on the full face amount of the HFA Debenture through the term of the HFA Debenture or through the date an application for final claim payment is received by the Commissioner.

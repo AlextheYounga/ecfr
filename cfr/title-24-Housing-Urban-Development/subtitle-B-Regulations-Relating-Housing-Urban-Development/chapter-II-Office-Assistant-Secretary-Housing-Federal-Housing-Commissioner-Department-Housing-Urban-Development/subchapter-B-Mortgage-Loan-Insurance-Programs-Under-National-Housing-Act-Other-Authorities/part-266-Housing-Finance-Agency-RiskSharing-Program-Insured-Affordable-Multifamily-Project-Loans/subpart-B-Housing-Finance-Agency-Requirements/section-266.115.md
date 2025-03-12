@@ -1,5 +1,7 @@
 ##### § 266.115 Program monitoring and evaluation. #####
 
+Link to an amendment published at 85 FR 83441, Dec. 22, 2020.
+
 (a) *HFA certifications.* HUD will rely heavily on the certifications required of an HFA under this part and such additional certifications as the Commissioner may require in his or her administrative procedures. An HFA's continued participation in the program is predicated upon compliance with these certifications and its recommending for endorsement only those mortgages that comply with requirements of the program, including the HFA's origination, underwriting and closing procedures incorporated by reference into the Risk-Sharing Agreement.
 
 (b) *Monitoring and evaluation.* Monitoring and evaluation activities will focus on compliance with program requirements and performance of the HFA in meeting program objectives of providing affordable housing. They will enable HUD to evaluate the effectiveness of the program as required by section 542(d)(3) of the Act.

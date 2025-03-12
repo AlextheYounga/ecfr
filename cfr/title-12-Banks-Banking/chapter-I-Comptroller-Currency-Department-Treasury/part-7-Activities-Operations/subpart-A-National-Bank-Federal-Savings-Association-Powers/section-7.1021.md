@@ -1,5 +1,7 @@
 ##### § 7.1021 National bank participation in financial literacy programs. #####
 
+Link to an amendment published at 85 FR 83729, Dec. 22, 2020.
+
 A national bank may participate in a financial literacy program on the premises of, or at a facility used by, a school. The school premises or facility will not be considered a branch of the bank if:
 
 (a) The bank does not establish and operate the school premises or facility on which the financial literacy program is conducted; and

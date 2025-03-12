@@ -1,5 +1,7 @@
 ##### § 266.634 Reinstatement of the contract of insurance. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 (a) *Conditions for reinstatement.* After the initial claim payment, HUD may reinstate the contract of insurance on the following conditions:
 
 (1) The HFA has not acquired the project;

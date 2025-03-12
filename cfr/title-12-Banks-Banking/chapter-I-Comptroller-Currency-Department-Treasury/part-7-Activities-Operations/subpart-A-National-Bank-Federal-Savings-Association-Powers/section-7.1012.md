@@ -1,5 +1,7 @@
 ##### § 7.1012 Establishment, operation, or use of a messenger service by a national bank. #####
 
+Link to an amendment published at 85 FR 83728, Dec. 22, 2020.
+
 (a) *Definition.* For purposes of this section, a “messenger service” means any service, such as a courier service or armored car service, used by a national bank and its customers to pick up from, and deliver to, specific customers at locations such as their homes or offices, items relating to transactions between the bank and those customers.
 
 (b) *Pick-up and delivery of items constituting nonbranching activities.* Pursuant to 12 U.S.C. 24 (Seventh), a national bank may establish and operate a messenger service, or use, with its customers, a third party messenger service. The bank may use the messenger service to transport items relevant to the bank's transactions with its customers without regard to the branching limitations set forth in 12 U.S.C. 36, provided the service does not engage in branching functions within the meaning of 12 U.S.C. 36(j). In establishing or using such a facility, the national bank may establish terms, conditions, and limitations consistent with this section and appropriate to assure compliance with safe and sound banking practices.

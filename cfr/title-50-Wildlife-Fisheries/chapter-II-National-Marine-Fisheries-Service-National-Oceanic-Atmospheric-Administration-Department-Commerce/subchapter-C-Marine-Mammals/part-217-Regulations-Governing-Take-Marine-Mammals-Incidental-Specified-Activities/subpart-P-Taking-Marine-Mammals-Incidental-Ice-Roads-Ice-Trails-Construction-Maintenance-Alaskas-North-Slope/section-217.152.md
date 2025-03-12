@@ -1,0 +1,3 @@
+##### § 217.152 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.156, the Holders of the LOAs (hereinafter “Hilcorp” and “Eni”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.150(b) by mortality, serious injury, Level A harassment, or Level B harassment associated with ice road and ice trail construction and maintenance activities, provided the activities are in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOAs.

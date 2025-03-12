@@ -1,5 +1,7 @@
 ##### § 7.1022 National banks' authority to buy and sell exchange, coin, and bullion. #####
 
+Link to an amendment published at 85 FR 83729, Dec. 22, 2020.
+
 (a) In this section, *industrial or commercial metal* means metal (including an alloy) in a physical form primarily suited to industrial or commercial use, for example, copper cathodes.
 
 (b) *Scope of authorization.* Section 24(Seventh) of the National Bank Act authorizes national banks to buy and sell exchange, coin, and bullion. Industrial or commercial metal is not exchange, coin, and bullion within the meaning of this authorization.

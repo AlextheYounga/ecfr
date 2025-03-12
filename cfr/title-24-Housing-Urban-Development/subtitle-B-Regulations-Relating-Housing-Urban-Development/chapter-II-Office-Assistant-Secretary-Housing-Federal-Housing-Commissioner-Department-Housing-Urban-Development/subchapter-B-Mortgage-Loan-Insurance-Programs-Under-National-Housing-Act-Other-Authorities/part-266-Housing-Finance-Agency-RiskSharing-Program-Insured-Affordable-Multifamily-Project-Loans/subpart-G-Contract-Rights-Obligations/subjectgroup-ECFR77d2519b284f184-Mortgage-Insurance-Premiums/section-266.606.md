@@ -1,5 +1,7 @@
 ##### § 266.606 Mortgage insurance premium: Duration and method of paying. #####
 
+Link to an amendment published at 85 FR 83440, Dec. 22, 2020.
+
 (a) *Duration of payments.* Mortgage insurance premium payments must continue annually until one of the following occurs:
 
 (1) The mortgage is paid in full;

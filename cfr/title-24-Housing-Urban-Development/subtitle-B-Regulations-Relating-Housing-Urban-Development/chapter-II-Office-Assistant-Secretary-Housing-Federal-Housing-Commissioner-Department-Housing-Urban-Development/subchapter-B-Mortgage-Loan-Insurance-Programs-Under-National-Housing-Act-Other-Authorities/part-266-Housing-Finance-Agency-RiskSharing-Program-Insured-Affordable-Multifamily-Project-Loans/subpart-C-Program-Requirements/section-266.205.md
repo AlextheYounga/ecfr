@@ -1,5 +1,7 @@
 ##### § 266.205 Ineligible projects. #####
 
+Link to an amendment published at 85 FR 83442, Dec. 22, 2020.
+
 The following projects and facilities are not eligible for insurance under this part:
 
 (a) *Transient housing or hotels.* Rental for transient or hotel purposes. For purposes of this part, rental for transient or hotel purposes means:

@@ -1,5 +1,7 @@
 ##### § 145.121 Indemnification of directors, officers and employees. #####
 
+Link to an amendment published at 85 FR 83737, Dec. 22, 2020.
+
 A Federal savings association shall indemnify its directors, officers, and employees in accordance with the following requirements:
 
 (a) *Definitions and rules of construction.* (1) Definitions for purposes of this section.

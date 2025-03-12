@@ -1,5 +1,7 @@
 ##### § 266.100 Qualified housing finance agency (HFA). #####
 
+Link to an amendment published at 85 FR 83441, Dec. 22, 2020.
+
 (a) *Qualifications.* To participate in the program, an HFA must apply and be specifically approved for the pilot program described in this part, in addition to being approved as a mortgagee under § 202.10. The HFA must maintain eligibility by continuing to comply with the requirements set forth in the Risk-Sharing Agreement and this part. To qualify for participation in the program described in this part, an HFA must:
 
 (1) Carry the designation of “top tier” or its equivalent as evaluated by Standard and Poor's or any other nationally recognized rating Agency; or

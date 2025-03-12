@@ -1,5 +1,7 @@
 ##### § 266.602 Mortgage insurance premium: Insured advances. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *Initial premium.* For projects involving insured advances, on the date of the initial closing, the HFA shall pay to the Commissioner an initial premium equal to the prescribed percentage, in the sliding scale chart that is shown in § 266.604(b), of the face amount of the mortgage.
 
 (b) *Interim premium.* On each anniversary of the initial closing, the HFA shall pay an interim mortgage insurance premium equal to the prescribed percentage of the face amount of the mortgage. The HFA shall continue to pay the interim mortgage insurance premiums until the date of the first principal payment.

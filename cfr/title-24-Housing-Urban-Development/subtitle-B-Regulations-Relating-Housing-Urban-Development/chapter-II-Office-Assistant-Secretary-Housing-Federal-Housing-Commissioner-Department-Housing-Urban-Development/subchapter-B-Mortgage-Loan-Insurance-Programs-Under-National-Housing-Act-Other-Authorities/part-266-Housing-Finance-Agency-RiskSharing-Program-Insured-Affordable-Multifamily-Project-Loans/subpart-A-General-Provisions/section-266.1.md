@@ -1,5 +1,7 @@
 ##### § 266.1 Purpose and scope. #####
 
+Link to an amendment published at 85 FR 83440, Dec. 22, 2020.
+
 (a) *Authority and scope.* (1) Section 542 of the Housing and Community Development Act of 1992 directs the Secretary of the Department of Housing and Urban Development, acting through the Federal Housing Administration, to carry out programs that will demonstrate the effectiveness of providing new forms of Federal credit enhancement for multifamily loans. Section 542, entitled, “Multifamily Mortgage Credit Demonstrations,” provides new independent insurance authority that is not under the National Housing Act.
 
 (2) Section 542(c) of the Housing and Community Development Act of 1992 specifically directs the Secretary to carry out a pilot program of risk-sharing with qualified State and local housing finance agencies (HFAs). The qualified HFAs are authorized to underwrite and process loans. HUD will provide full mortgage insurance on affordable multifamily housing projects processed by such HFAs under this program. Through risk-sharing agreements with HUD, HFAs contract to reimburse HUD for a portion of the loss from any defaults that occur while HUD insurance is in force.

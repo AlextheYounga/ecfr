@@ -1,5 +1,7 @@
 ##### § 266.5 Definitions. #####
 
+Link to an amendment published at 85 FR 83440, Dec. 22, 2020.
+
 *Act* means the Housing and Community Development Act of 1992, as amended.
 
 *Affordable housing* means a project in which 20 percent or more of the units are both rent-restricted and occupied by families whose income is 50 percent or less of the area median income as determined by HUD, with adjustments for household size, or in which 40 percent (25 percent in New York City) or more of the units are both rent-restricted and occupied by families whose income is 60 percent or less of the area median income as determined by HUD, with adjustments for household size. A residential unit is rent-restricted if the gross rent with respect to such unit does not exceed 30 percent of the imputed income limitation applicable to such unit.
@@ -10,7 +12,7 @@
 
 *Contract of insurance* means the agreement evidenced by the endorsement of the Commissioner upon the credit instrument given in connection with an insured mortgage, incorporating by reference the regulations in this part and the applicable provisions of the Act.
 
-*Credit subsidy means* the cost of a direct loan or loan guarantee under the Federal Credit Reform Act of 1990 as defined in subpart B of title 13 of the Omnibus Budget Reconciliation Act of 1990 (Pub.L. 101-508, approved Nov. 5, 1990).
+*Credit subsidy* means the cost of a direct loan or loan guarantee under the Federal Credit Reform Act of 1990 as defined in subpart B of title 13 of the Omnibus Budget Reconciliation Act of 1990 (Pub.L. 101-508, approved Nov. 5, 1990).
 
 *Debenture* means the instrument issued by the HFA to HUD upon payment of an insurance claim by HUD. The instrument must be in the standard form of a State or Municipal Debenture issued under the Uniform Commercial Code, where applicable, and must be supported by the full faith and credit of the HFA. The instrument must define the terms and conditions and the risk-sharing portion which the HFA will pay at the end of the term of the Debenture, and must be for the full amount of the claim payment. The term *Debenture* may include similar instruments, such as promissory notes and bonds, as mutually agreed upon by the Commissioner and the HFA.
 

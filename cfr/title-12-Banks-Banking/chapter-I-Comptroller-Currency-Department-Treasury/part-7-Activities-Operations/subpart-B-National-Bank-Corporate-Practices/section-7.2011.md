@@ -1,5 +1,7 @@
 ##### § 7.2011 Compensation plans. #####
 
+Link to an amendment published at 85 FR 83735, Dec. 22, 2020.
+
 Consistent with safe and sound banking practices and the compensation provisions of 12 CFR part 30, a national bank may adopt compensation plans, including, among others, the following:
 
 (a) *Bonus and profit-sharing plans.* A national bank may adopt a bonus or profit-sharing plan designed to ensure adequate remuneration of bank officers and employees.

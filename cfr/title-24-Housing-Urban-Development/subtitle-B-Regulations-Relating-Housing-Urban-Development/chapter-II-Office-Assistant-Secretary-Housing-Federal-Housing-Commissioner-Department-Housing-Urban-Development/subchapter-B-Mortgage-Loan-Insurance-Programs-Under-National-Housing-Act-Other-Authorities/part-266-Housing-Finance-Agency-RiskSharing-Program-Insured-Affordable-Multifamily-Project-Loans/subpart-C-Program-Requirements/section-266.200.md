@@ -1,5 +1,7 @@
 ##### § 266.200 Eligible projects. #####
 
+Link to an amendment published at 85 FR 83441, Dec. 22, 2020.
+
 (a) *Minimum project size.* Projects insured under this part must consist of five or more rental dwelling units (including cooperative dwelling units) on one site. The site may consist of two or more non-contiguous parcels of land situated so as to comprise a readily marketable real estate entity within an area small enough to allow convenient and efficient management. The units may be detached, semi-detached, row houses, multifamily structures, or mobile home parks (exclusive of the mobile homes).
 
 (b) *New construction or substantial rehabilitation.* Insurance under this part shall be for the purpose of financing the new construction or substantial rehabilitation of projects meeting the other requirements of this part as follows:

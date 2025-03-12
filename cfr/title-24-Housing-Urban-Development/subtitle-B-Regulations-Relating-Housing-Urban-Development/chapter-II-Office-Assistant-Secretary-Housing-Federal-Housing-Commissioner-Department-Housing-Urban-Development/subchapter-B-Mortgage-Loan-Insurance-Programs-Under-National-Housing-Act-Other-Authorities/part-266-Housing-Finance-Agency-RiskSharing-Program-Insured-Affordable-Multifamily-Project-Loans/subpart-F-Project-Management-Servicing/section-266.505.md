@@ -1,5 +1,7 @@
 ##### § 266.505 Regulatory agreement requirements. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *General.* (1) The HFA must execute a Regulatory Agreement, in recordable form, between the mortgagor and the HFA to be in force for the duration of the insured mortgage and note or bond. The Regulatory Agreement must include a description of the property. The Regulatory Agreement must be incorporated by reference into the mortgage and recorded with the mortgage.
 
 (2) The Regulatory Agreement executed between the HFA and the mortgagor must be binding upon the mortgagor and any of its successors and assigns and upon the HFA and any of its successors for so long as the mortgage is insured by HUD or HUD holds an HFA debenture issued in connection with a claim arising from the insured mortgage. The HFA may not assign the Regulatory Agreement.

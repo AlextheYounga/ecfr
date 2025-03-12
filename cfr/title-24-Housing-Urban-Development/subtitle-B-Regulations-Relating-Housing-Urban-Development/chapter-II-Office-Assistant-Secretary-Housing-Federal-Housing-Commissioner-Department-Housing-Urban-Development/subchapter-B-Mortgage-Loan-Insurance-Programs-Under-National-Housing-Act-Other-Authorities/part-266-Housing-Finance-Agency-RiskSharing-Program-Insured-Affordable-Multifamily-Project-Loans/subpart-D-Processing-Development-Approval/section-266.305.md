@@ -1,5 +1,7 @@
 ##### § 266.305 HFAs accepting less than 50 percent of risk. #####
 
+Link to an amendment published at 85 FR 83443, Dec. 22, 2020.
+
 (a) *Underwriting standards.* The underwriting standards and loan terms and conditions of any HFA electing to take less than 50 percent of the risk on certain projects are subject to review, modification, and approval by HUD in accordance with § 266.100(b)(2). These HFAs may assume 25 percent or 10 percent of the risk depending upon the loan-to-replacement-cost or loan-to-value ratios of the projects to be insured as specified in § 266.100(b)(2)(i) and (ii).
 
 (b) *HFA responsibilities.* The HFA is responsible for the performance of all functions except those HUD-retained functions specified in § 266.210 and 266.225(e). After acceptance of an application for a loan to be insured under this part, the HFA must:

@@ -1,5 +1,7 @@
 ##### § 266.604 Mortgage insurance premium: Other requirements. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *Premium calculations on or after first principal payment.* The premiums payable to the Commissioner on and after the first principal payment shall be calculated in accordance with the amortization schedule prepared by the HFA for final closing and the prescribed percentage as set forth in the sliding scale chart in paragraph (b) of this section without taking into account delinquent payments or prepayments.
 
 (b) *Prescribed percentages.* The following sliding scale chart provides the prescribed percentage, based upon the respective share of risk, that is to be used in calculating mortgage insurance premiums under this section:

@@ -1,5 +1,7 @@
 ##### § 7.2024 Staggered terms for national bank directors and size of bank board. #####
 
+Link to an amendment published at 85 FR 83736, Dec. 22, 2020.
+
 (a) *Staggered terms.* Any national bank may adopt bylaws that provide for staggering the terms of its directors. National banks shall provide the OCC with copies of any bylaws so amended.
 
 (b) *Maximum term.* Any national bank director may hold office for a term that does not exceed three years.

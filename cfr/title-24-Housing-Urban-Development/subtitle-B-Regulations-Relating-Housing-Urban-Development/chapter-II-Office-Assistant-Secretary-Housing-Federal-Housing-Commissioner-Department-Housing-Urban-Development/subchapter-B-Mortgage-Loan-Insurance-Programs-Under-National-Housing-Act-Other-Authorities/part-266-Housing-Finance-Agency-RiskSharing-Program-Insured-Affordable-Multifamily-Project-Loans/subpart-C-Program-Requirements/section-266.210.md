@@ -1,5 +1,7 @@
 ##### § 266.210 HUD-retained review functions. #####
 
+Link to an amendment published at 85 FR 83442, Dec. 22, 2020.
+
 Certain functions are retained by the Commissioner. The HFA must submit any information or certification required by the Commissioner to permit determination of compliance with requirements concerning:
 
 (a) *Previous participation of principals.* Previous participation of the principals of the mortgagor, general contractor, consultant or management agent in accordance with the Previous Participation and Clearance Review Procedures of 24 CFR 200.210 through 200.218.

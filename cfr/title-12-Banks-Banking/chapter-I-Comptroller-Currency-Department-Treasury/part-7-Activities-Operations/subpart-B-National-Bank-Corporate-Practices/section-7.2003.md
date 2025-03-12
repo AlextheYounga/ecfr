@@ -1,5 +1,7 @@
 ##### § 7.2003 Shareholder meetings; Board of directors meetings. #####
 
+Link to an amendment published at 85 FR 83734, Dec. 22, 2020.
+
 (a) *Notice of shareholders' meetings.* A national bank must mail shareholders notice of the time, place, and purpose of all shareholders' meetings at least 10 days prior to the meeting by first class mail, unless the OCC determines that an emergency circumstance exists. Where a national bank is a wholly-owned subsidiary, the sole shareholder is permitted to waive notice of the shareholder's meeting. The articles of association, bylaws, or law applicable to a national bank may require a longer period of notice.
 
 (b) *Annual meeting for election of directors.* When the day fixed for the regular annual meeting of the shareholders falls on a legal holiday in the State in which the bank is located, the shareholders' meeting must be held, and the directors elected, on the next following banking day.

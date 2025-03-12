@@ -1,5 +1,7 @@
 ##### § 266.420 Closing and endorsement by the Commissioner. #####
 
+Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+
 (a) *Closing.* Before disbursement of loan advances in periodic advances cases, and in all cases after completion of construction, repair or substantial rehabilitation, the HFA must hold a closing and submit a closing docket with required documentation to the Commissioner or the Commissioner's authorized Departmental representative for insurance of the mortgage by endorsement of the mortgage note. The note must provide that the mortgage is insured under section 542(c) of the Housing and Community Development Act of 1992 and the regulations set forth at 24 CFR part 266 in effect on the date of endorsement. The note must also specify the date of endorsement, *i.e.,* the date of HUD endorsement of the project mortgage, and the risk of loss assumed by the HFA and by HUD.
 
 (b) *Closing docket.* The HFA's submission must include a certification that it has obtained written HUD approval of compliance with the requirements referred to in § 266.210, and certifications and information as follows:

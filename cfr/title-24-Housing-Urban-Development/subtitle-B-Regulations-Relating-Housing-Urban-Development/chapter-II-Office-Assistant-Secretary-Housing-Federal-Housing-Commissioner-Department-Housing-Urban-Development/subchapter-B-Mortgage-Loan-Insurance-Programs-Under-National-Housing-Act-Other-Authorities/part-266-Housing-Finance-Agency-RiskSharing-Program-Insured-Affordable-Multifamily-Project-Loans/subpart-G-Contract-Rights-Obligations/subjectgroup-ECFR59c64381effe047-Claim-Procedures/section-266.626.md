@@ -1,5 +1,7 @@
 ##### § 266.626 Notice of default and filing an insurance claim. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 (a) *Definition of default.* (1) A monetary default exists when the mortgagor fails to make any payment due under the mortgage.
 
 (2) A covenant default exists when the mortgagor fails to perform any other covenant under the provision of the mortgage or the regulatory agreement, which is incorporated by reference in the mortgage. An HFA becomes eligible for insurance benefits on the basis of a covenant default only after the HFA has accelerated the debt and the owner has failed to pay the full amount due, thus converting a covenant default into a monetary default.

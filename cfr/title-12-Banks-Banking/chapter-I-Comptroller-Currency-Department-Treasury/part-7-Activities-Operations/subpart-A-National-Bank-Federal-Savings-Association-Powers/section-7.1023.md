@@ -1,5 +1,7 @@
 ##### § 7.1023 Federal savings associations, prohibition on industrial or commercial metal dealing or investing. #####
 
+Link to an amendment published at 85 FR 83729, Dec. 22, 2020.
+
 (a) In this section, *industrial or commercial metal* means metal (including an alloy) in a physical form primarily suited to industrial or commercial use, for example, copper cathodes.
 
 (b) Federal savings associations may not deal or invest in industrial or commercial metal.

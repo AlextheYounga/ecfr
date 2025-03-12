@@ -1,5 +1,7 @@
 ##### § 266.650 Items deducted from total loss. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 In computing insurance benefits, the following items are deducted from the amounts described in § 266.646(a) and (b):
 
 (a) All amounts received by the HFA on account of the mortgage after the date of default;

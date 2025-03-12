@@ -1,5 +1,7 @@
 ##### § 7.3001 Sharing national bank or Federal association space and employees. #####
 
+Link to an amendment published at 85 FR 83737, Dec. 22, 2020.
+
 (a) *Sharing space.* A national bank or Federal savings association may:
 
 (1) Lease excess space on national bank or Federal savings association premises to one or more other businesses (including other financial institutions);

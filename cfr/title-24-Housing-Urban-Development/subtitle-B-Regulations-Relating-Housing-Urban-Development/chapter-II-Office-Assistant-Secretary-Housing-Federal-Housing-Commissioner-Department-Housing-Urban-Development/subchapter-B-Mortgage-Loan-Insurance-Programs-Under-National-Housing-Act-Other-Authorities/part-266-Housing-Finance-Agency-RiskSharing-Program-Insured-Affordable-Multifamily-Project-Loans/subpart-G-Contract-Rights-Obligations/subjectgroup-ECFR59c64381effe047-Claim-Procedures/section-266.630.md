@@ -1,5 +1,7 @@
 ##### § 266.630 Partial payment of claims. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 (a) *General.* When the Commissioner receives a claim for a partial payment under § 266.626(d), the Commissioner may make a partial payment of claim in accordance with the requirements of this section. If the HFA has not previously received a partial claim payment, the HFA may file a claim for a partial claim payment under § 266.630. Otherwise, the HFA must file for an initial claim payment under § 266.628.
 
 (b) *HFA submission.* In addition to any other requirements set forth in administration instructions, the HFA must provide the following information with its application for a partial claim payment:

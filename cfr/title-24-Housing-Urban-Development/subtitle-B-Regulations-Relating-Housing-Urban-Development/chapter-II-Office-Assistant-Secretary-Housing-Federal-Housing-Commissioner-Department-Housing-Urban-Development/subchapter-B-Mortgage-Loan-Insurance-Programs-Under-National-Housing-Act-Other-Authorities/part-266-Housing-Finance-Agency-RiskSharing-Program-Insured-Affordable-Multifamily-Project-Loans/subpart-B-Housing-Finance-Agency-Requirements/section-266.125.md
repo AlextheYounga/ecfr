@@ -1,5 +1,7 @@
 ##### § 266.125 Scope and nature of sanctions. #####
 
+Link to an amendment published at 85 FR 83441, Dec. 22, 2020.
+
 (a) *Actions by Designated Office.* Depending on the nature and extent of the noncompliance with the requirements of this part, the Designated Office may take any of the following actions:
 
 (1) Require that the HFA execute a trust agreement, establish a trust account in accordance with such agreement, and fund such account which may be drawn upon by HUD for purposes of meeting the HFA's risk-sharing obligations;

@@ -1,5 +1,7 @@
 ##### § 7.2020 Acquisition and holding of shares as treasury stock. #####
 
+Link to an amendment published at 85 FR 83736, Dec. 22, 2020.
+
 (a) *Acquisition of outstanding shares.* Pursuant to 12 U.S.C. 59, including the requirements for prior approval by the bank's shareholders and the OCC imposed by that statute, a national bank may acquire its outstanding shares and hold them as treasury stock, if the acquisition and retention of the shares is, and continues to be, for a legitimate corporate purpose.
 
 (b) *Legitimate corporate purpose.* Examples of legitimate corporate purposes include the acquisition and holding of treasury stock to:

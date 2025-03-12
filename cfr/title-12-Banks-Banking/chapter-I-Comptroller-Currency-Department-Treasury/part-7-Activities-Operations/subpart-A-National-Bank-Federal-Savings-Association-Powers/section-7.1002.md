@@ -1,5 +1,7 @@
 ##### § 7.1002 National bank acting as finder. #####
 
+Link to an amendment published at 85 FR 83727, Dec. 22, 2020.
+
 (a) *General.* It is part of the business of banking under 12 U.S.C. 24(Seventh) for a national bank to act as a finder, bringing together interested parties to a transaction.
 
 (b) *Permissible finder activities.* A national bank that acts as a finder may identify potential parties, make inquiries as to interest, introduce or arrange contacts or meetings of interested parties, act as an intermediary between interested parties, and otherwise bring parties together for a transaction that the parties themselves negotiate and consummate. The following list provides examples of permissible finder activities. This list is illustrative and not exclusive; the OCC may determine that other activities are permissible pursuant to a national bank's authority to act as a finder.

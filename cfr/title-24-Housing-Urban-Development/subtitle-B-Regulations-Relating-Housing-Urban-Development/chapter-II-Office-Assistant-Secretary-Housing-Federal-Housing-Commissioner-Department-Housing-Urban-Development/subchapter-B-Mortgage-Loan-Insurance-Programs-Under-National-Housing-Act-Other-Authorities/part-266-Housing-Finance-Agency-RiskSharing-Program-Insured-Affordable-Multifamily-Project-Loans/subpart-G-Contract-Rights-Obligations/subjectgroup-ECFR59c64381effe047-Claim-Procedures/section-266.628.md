@@ -1,5 +1,7 @@
 ##### § 266.628 Initial claim payments. #####
 
+Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
+
 (a) *Determination of initial claim amount.* (1) The initial claim amount is based on the unpaid principal balance of the mortgage note as of the date of default, plus interest at the mortgage note rate from date of default to date of initial claim payment. The mortgage note interest component of the initial claim amount is subject to curtailment as provided in paragraph (b) of this section.
 
 (2) HUD shall make an initial claim payment to the HFA that is equal to the initial claim amount, less any delinquent mortgage insurance premiums, late charges and interest, assessed under § 266.604(d).

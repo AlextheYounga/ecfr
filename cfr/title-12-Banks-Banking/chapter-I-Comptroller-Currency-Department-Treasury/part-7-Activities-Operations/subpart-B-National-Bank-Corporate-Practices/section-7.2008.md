@@ -1,6 +1,6 @@
 ##### § 7.2008 Oath of directors. #####
 
-Link to an amendment published at 85 FR 80470, Dec. 11, 2020.
+Link to an amendment published at 85 FR 80470, Dec. 11, 2020.Link to an amendment published at 85 FR 83735, Dec. 22, 2020.
 
 (a) *Administration of the oath.* A notary public, including one who is a director but not an officer of the national bank, may administer the oath of directors. Any person, other than an officer of the bank, having an official seal and authorized by the state to administer oaths, may also administer the oath.
 

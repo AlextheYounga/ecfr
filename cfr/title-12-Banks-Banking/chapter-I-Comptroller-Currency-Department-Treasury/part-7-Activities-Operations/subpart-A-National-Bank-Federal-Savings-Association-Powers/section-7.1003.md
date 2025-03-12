@@ -1,5 +1,7 @@
 ##### § 7.1003 Money lent by a national bank at banking offices or at facilities other than banking offices. #####
 
+Link to an amendment published at 85 FR 83727, Dec. 22, 2020.
+
 (a) *General.* For purposes of what constitutes a branch within the meaning of 12 U.S.C. 36(j) and 12 CFR 5.30, “money” is deemed to be “lent” only at the place, if any, where the borrower in-person receives loan proceeds directly from bank funds:
 
 (1) From the lending bank or its operating subsidiary; or

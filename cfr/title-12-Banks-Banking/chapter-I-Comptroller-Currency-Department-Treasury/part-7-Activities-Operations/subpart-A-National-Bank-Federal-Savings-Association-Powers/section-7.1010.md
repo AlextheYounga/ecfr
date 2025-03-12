@@ -1,5 +1,7 @@
 ##### § 7.1010 Postal service by national bank. #####
 
+Link to an amendment published at 85 FR 83728, Dec. 22, 2020.
+
 (a) *General.* A national bank may maintain and operate a postal substation on banking premises and receive income from it. The services performed by the substation are those permitted under applicable rules of the United States Postal Service and may include meter stamping of letters and packages, and the sale of related insurance. The bank may advertise, develop, and extend the services of the substation for the purpose of attracting customers to the bank.
 
 (b) *Postal regulations.* A national bank operating a postal substation shall do so in accordance with the rules and regulations of the United States Postal Service. The national bank shall keep the books and records of the substation separate from those of other banking operations. Under 39 U.S.C. 404 and any regulations issued pursuant thereto, the United States Postal Service may inspect the books and records of the substation.

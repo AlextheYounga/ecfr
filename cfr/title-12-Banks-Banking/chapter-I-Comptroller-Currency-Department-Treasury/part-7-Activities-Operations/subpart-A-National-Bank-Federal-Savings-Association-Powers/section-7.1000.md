@@ -1,5 +1,7 @@
 ##### § 7.1000 National bank or Federal savings association ownership of property. #####
 
+Link to an amendment published at 85 FR 83726, Dec. 22, 2020.Link to an amendment published at 85 FR 83729, Dec. 22, 2020.
+
 (a) *Investment in real estate necessary for the transaction of business* - (1) *In general.* A national bank or Federal savings association may invest in real estate that is necessary for the transaction of its business.
 
 (2) *Type of real estate.* Real estate investments permissible under this section include:

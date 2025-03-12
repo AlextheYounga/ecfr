@@ -1,5 +1,7 @@
 ##### § 7.2019 Loans secured by a bank's own shares. #####
 
+Link to an amendment published at 85 FR 83736, Dec. 22, 2020.
+
 (a) *Permitted agreements, relating to bank shares.* A national bank may require a borrower holding shares of the bank to execute agreements:
 
 (1) Not to pledge, give away, transfer, or otherwise assign such shares;
