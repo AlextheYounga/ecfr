@@ -1,6 +1,6 @@
 ##### § 300.25 Eastern Pacific fisheries management. #####
 
-Link to an amendment published at 82 FR 17385, Apr. 11, 2017.
+Link to an amendment published at 82 FR 17385, Apr. 11, 2017.Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
 
 (a) *IATTC recommendations and decisions.* The Secretary of Commerce, in consultation with the Secretary of State and, with respect to enforcement measures, the U.S. Coast Guard, may promulgate such regulations as may be necessary to carry out the U.S. international obligations under the Convention, Antigua Convention, and the Act, including recommendations and other decisions adopted by the IATTC.
 

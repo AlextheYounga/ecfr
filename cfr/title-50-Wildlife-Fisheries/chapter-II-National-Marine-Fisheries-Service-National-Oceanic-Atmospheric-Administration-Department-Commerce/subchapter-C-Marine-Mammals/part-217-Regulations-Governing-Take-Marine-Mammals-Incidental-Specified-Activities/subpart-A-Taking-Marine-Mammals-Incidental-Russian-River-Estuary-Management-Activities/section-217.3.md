@@ -1,0 +1,3 @@
+##### § 217.3 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 and 217.7 of this chapter, the Holder of the LOA (hereinafter “SCWA”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.1(b) by Level B harassment associated with estuary management activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.

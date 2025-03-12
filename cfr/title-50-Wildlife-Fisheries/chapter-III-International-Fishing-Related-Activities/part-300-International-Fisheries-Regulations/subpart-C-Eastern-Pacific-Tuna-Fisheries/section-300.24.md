@@ -1,6 +1,6 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 82 FR 17385, Apr. 11, 2017.
+Link to an amendment published at 82 FR 17385, Apr. 11, 2017.Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
 
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
