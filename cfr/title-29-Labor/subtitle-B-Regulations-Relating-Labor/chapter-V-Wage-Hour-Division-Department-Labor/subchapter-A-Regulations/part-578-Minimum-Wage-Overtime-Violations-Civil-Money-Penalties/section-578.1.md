@@ -1,6 +1,6 @@
 ##### § 578.1 What does this part cover? #####
 
-Link to an amendment published at 85 FR 86791, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
+Link to an amendment published at 85 FR 86791, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.Link to an amendment published at 86 FR 22597, Apr. 29, 2021.
 
 Section 9 of the Fair Labor Standards Amendments of 1989 amended section 16(e) of the Act to provide that any person who repeatedly or willfully violates the minimum wage (section 6) or overtime provisions (section 7) of the Act shall be subject to a civil money penalty not to exceed $1,000 for each such violation. The Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134, section 31001(s)) and the Federal Civil Penalties Inflation Adjustment Act Improvement Act of 2015 (Pub. L. 114-74, section 701), requires that inflationary adjustments be annually made in these civil money penalties according to a specified cost-of-living formula. This part defines terms necessary for administration of the civil money penalty provisions, describes the violations for which a penalty may be imposed, and describes criteria for determining the amount of penalty to be assessed. The procedural requirements for assessing and contesting such penalties are contained in 29 CFR part 580.
 

@@ -1,6 +1,6 @@
 ##### § 457.151 Forage seeding crop insurance provisions. #####
 
-The Forage Seeding Crop Insurance Provisions for 2021 and succeeding crop years are as follows:
+The Forage Seeding Crop Insurance Provisions for 2022 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured Policies:Forage Seeding Crop Provisions1. Definitions
 
@@ -46,7 +46,7 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (b) In counties with both fall and spring sales closing dates for the insured crop:
 
-(1) If you do not have any fall planted acreage, you may purchase or revise your coverage for your spring planted acreage until the spring sales closing date;
+(1) If you do not have any insurable fall planted acreage, you may purchase or revise your coverage for your spring planted acreage until the spring sales closing date;
 
 (2) In accordance with section 3(a), if you insured your fall planted acreage, you must insure your spring planted acreage with the same coverage as the fall planted acreage; and
 
@@ -209,4 +209,4 @@ Your indemnity would be calculated as follows:
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 13291, Mar. 20, 1997, as amended at 62 FR 65175, Dec. 10, 1997; 65 FR 3784, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000; 66 FR 42730, Aug. 15, 2001; 66 FR 53076, Oct. 19, 2001; 67 FR 65030, Oct. 23, 2002; 76 FR 4804, Jan. 27, 2011; 85 FR 23900, Apr. 30, 2020]
+[62 FR 13291, Mar. 20, 1997, as amended at 62 FR 65175, Dec. 10, 1997; 65 FR 3784, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000; 66 FR 42730, Aug. 15, 2001; 66 FR 53076, Oct. 19, 2001; 67 FR 65030, Oct. 23, 2002; 76 FR 4804, Jan. 27, 2011; 85 FR 23900, Apr. 30, 2020; 86 FR 22583, Apr. 29, 2021]
