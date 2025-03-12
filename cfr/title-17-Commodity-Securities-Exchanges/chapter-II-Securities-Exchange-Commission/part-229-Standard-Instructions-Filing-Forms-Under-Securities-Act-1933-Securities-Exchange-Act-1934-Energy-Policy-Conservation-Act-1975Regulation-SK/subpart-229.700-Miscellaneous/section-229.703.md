@@ -1,5 +1,7 @@
 ##### § 229.703 Purchases of equity securities by the issuer and affiliated purchasers. #####
 
+Link to an amendment published at 88 FR 36056, June 1, 2023.
+
 (a) In the following tabular format, provide the information specified in paragraph (b) of this Item with respect to any purchase made by or on behalf of the issuer or any “affiliated purchaser,” as defined in § 240.10b-18(a)(3) of this chapter, of shares or other units of any class of the issuer's equity securities that is registered by the issuer pursuant to section 12 of the Exchange Act (15 U.S.C. 78*1*).
 
 Issuer Purchases of Equity Securities

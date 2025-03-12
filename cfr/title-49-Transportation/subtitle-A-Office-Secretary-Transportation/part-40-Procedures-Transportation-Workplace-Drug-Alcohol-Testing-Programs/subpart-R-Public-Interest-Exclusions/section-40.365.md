@@ -1,7 +1,5 @@
 ##### § 40.365 What is the Department's policy concerning starting a PIE proceeding? #####
 
-Link to an amendment published at 88 FR 27650, May 2, 2023.
-
 (a) It is the Department's policy to start a PIE proceeding only in cases of serious, uncorrected noncompliance with the provisions of this part, affecting such matters as safety, the outcomes of test results, privacy and confidentiality, due process and fairness for employees, the honesty and integrity of the testing program, and cooperation with or provision of information to DOT agency representatives.
 
 (b) The following are examples of the kinds of serious noncompliance that, as a matter of policy, the Department views as appropriate grounds for starting a PIE proceeding. These examples are not intended to be an exhaustive or exclusive list of the grounds for starting a PIE proceeding. We intend them to illustrate the level of seriousness that the Department believes supports starting a PIE proceeding. The examples follow:
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 27650, May 2, 2023.
 
 (7) For a laboratory, falsifying, concealing, or destroying documentation concerning any part of the drug testing process, including, but not limited to, documents in a “litigation package”;
 
-(8) For SAPs, providing SAP services while not meeting SAP qualifications required by this part or performing evaluations without face-to-face interviews;
+(8) For SAPs, providing SAP services while not meeting SAP qualifications required by this part or performing evaluations without interviews meeting the requirements of § 40.291(a)(1);
 
 (9) For any service agent, maintaining a relationship with another party that constitutes a conflict of interest under this part (*e.g.,* a laboratory that derives a financial benefit from having an employer use a specific MRO);
 
@@ -34,4 +32,4 @@ Link to an amendment published at 88 FR 27650, May 2, 2023.
 
 (14) With respect to noncompliance with a DOT agency regulation, conduct that affects important provisions of Department-wide concern (*e.g.,* failure to properly conduct the selection process for random testing).
 
-[65 FR 79526, Dec. 19, 2000, as amended at 82 FR 52247, Nov. 13, 2017]
+[65 FR 79526, Dec. 19, 2000, as amended at 82 FR 52247, Nov. 13, 2017; 88 FR 27650, May 2, 2023]

@@ -14,4 +14,6 @@
 
 (3) *Exemption from fees for immigrant visa applicants previously refused solely pursuant to Proclamation 9645 or Proclamation 9983.* An immigrant visa applicant shall be exempt from the application processing fee and the affidavit of support review fee, if the applicant was previously denied an immigrant visa on or between December 8, 2017, and January 19, 2020; the sole ground of ineligibility was based on Proclamation 9645 or 9983; and the applicant is applying again for an immigrant visa. This paragraph (b)(3) provides only for a one-time exemption of the applicable fees per applicant.
 
-[84 FR 35298, July 23, 2019, as amended at 87 FR 2705, Jan. 19, 2022]
+(4) *Exemption from fees for Afghan immediate relative and family preference immigrant visa applicants.* Consular officers shall exempt from immigrant visa fees Afghan applicants for immediate relative and family preference immigrant visas.
+
+[84 FR 35298, July 23, 2019, as amended at 87 FR 2705, Jan. 19, 2022; 88 FR 35740, June 1, 2023]Effective Date Note:At 88 FR 35741, June 1, 2023, § 42.71 was amended by adding paragraph (b)(4), effective June 1, 2023, through December 31, 2024.

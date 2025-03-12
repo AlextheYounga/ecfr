@@ -1,10 +1,8 @@
 ##### § 219.11 General conditions for chemical tests. #####
 
-Link to an amendment published at 88 FR 27652, May 2, 2023.
-
 (a)(1) Any regulated employee who is subject to performing regulated service for a railroad is deemed to have consented to testing as required in subparts B, C, D, E, F, G, and K of this part.
 
-(2) A regulated employee required to participate in alcohol and/or drug testing under this part must be on duty and subject to performing regulated service when the specimen collection is initiated and the alcohol testing/urine specimen collection is conducted (with the exception of pre-employment testing under subpart F of this part).
+(2) A regulated employee required to participate in alcohol and/or drug testing under this part must be on duty and subject to performing regulated service when the specimen collection is initiated and the alcohol testing/body fluid specimen collection is conducted (with the exception of pre-employment testing under subpart F of this part).
 
 (b)(1) Each regulated employee must participate in such testing, as required under the conditions set forth in this part and implemented by a representative of the railroad or employing contractor.
 
@@ -34,8 +32,8 @@ Link to an amendment published at 88 FR 27652, May 2, 2023.
 
 (g) Each supervisor responsible for regulated employees (except a working supervisor who is a co-worker as defined in § 219.5) must be trained in the signs and symptoms of alcohol and drug influence, intoxication, and misuse consistent with a program of instruction to be made available for inspection upon demand by FRA. Such a program shall, at a minimum, provide information concerning the acute behavioral and apparent physiological effects of alcohol, the major drug groups on the controlled substances list, and other impairing drugs. The program must also provide training on the qualifying criteria for post-accident toxicological testing contained in subpart C of this part, and the role of the supervisor in post-accident collections described in subpart C.
 
-(h) Nothing in this subpart restricts any discretion available to the railroad to request or require that a regulated employee cooperate in additional breath or body fluid testing. However, no such testing may be performed on urine or blood specimens provided under this part. For purposes of this paragraph (h), all urine from a void constitutes a single specimen.
+(h) Nothing in this subpart restricts any discretion available to the railroad to request or require that a regulated employee cooperate in additional breath or body fluid testing. However, no such testing may be performed on body fluid specimens provided under this part. For purposes of this paragraph (h), all urine from a void or oral fluid from a sampling constitutes a single specimen.
 
 (i) A railroad required or authorized to conduct testing under this part may conduct all such testing in the United States. A foreign railroad required to conduct testing under this part may conduct such tests in its home country, provided that it otherwise complies with the requirements of this part.
 
-[66 FR 41973, Aug. 9, 2001, as amended at 69 FR 19288, Apr. 12, 2004; 81 FR 37926, June 10, 2016; 87 FR 5734, Feb. 2, 2022]
+[66 FR 41973, Aug. 9, 2001, as amended at 69 FR 19288, Apr. 12, 2004; 81 FR 37926, June 10, 2016; 87 FR 5734, Feb. 2, 2022; 88 FR 27652, May 2, 2023]

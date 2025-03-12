@@ -1,13 +1,9 @@
-##### § 40.93 What criteria do laboratories use to establish that a specimen is dilute or substituted? #####
+##### § 40.93 What validity tests must laboratories conduct on primary oral fluid specimens? #####
 
-Link to an amendment published at 88 FR 27643, May 2, 2023.
+As a laboratory, if you conduct validity testing under § 40.92, you must conduct it in accordance with the requirements of this section.
 
-(a) As a laboratory, you must consider the primary specimen to be dilute when:
+(a) You may test for a biomarker such as albumin or immunoglobulin G (IgG) or a test for a specific adulterant.
 
-(1) The creatinine concentration is greater than or equal to 2 mg/dL but less than 20 mg/dL, and
+(b) You must follow the applicable HHS requirements for any additional validity testing.
 
-(2) The specific gravity is greater than 1.0010 but less than 1.0030 on a single aliquot.
-
-(b) As a laboratory, you must consider the primary specimen to be substituted when the creatinine concentration is less than 2 mg/dL and the specific gravity is less than or equal to 1.0010 or greater than or equal to 1.0200 on both the initial and confirmatory creatinine tests and on both the initial and confirmatory specific gravity tests on two separate aliquots.
-
-[69 FR 64867, Nov. 9, 2004]
+[88 FR 27643, May 2, 2023]

@@ -1,7 +1,5 @@
 ##### § 40.187 What does the MRO do with split specimen laboratory results? #####
 
-Link to an amendment published at 88 FR 27646, May 2, 2023.
-
 As the MRO, the split specimen laboratory results you receive will fall into five categories. You must take the following action, as appropriate, when a laboratory reports split specimen results to you.
 
 (a) *Category 1:* The laboratory reconfirmed one or more of the primary specimen results. As the MRO, you must report to the DER and the employee the result(s) that was/were reconfirmed.
@@ -14,7 +12,7 @@ As the MRO, the split specimen laboratory results you receive will fall into fiv
 
 (b) *Category 2:* The laboratory failed to reconfirm all of the primary specimen results because, as appropriate, drug(s)/drug metabolite(s) were not detected; adulteration criteria were not met; and/or substitution criteria were not met. As the MRO, you must report to the DER and the employee that the test must be cancelled.
 
-(1) As the MRO, you must inform ODAPC of the failure to reconfirm using the format in Appendix D to this part.
+(1) As the MRO, you must inform ODAPC of the failure to reconfirm using the format in appendix F to this part.
 
 (2) In a case where the split failed to reconfirm because the substitution criteria were not met and the split specimen creatinine concentration was equal to or greater than 2mg/dL but less than or equal to 5mg/dL, as the MRO, you must, in addition to step (b)(1) of this paragraph, direct the DER to ensure the immediate collection of another specimen from the employee under direct observation, with no notice given to the employee of this collection requirement until immediately before the collection.
 
@@ -28,7 +26,7 @@ As the MRO, the split specimen laboratory results you receive will fall into fiv
 
 (ii) Direct the DER to ensure the immediate collection of another specimen from the employee under direct observation, with no notice given to the employee of this collection requirement until immediately before the collection.
 
-(iii) Inform ODAPC of the failure to reconfirm using the format in Appendix D to this part.
+(iii) Inform ODAPC of the failure to reconfirm using the format in appendix F to this part.
 
 (2) In the case where the laboratory failed to reconfirm any of the primary specimen results, and the split was reported as adulterated and/or substituted, as the MRO, you must:
 
@@ -36,7 +34,7 @@ As the MRO, the split specimen laboratory results you receive will fall into fiv
 
 (ii) Follow the procedures of § 40.145 to determine if there is a legitimate medical explanation for the laboratory finding of adulteration and/or substitution, as appropriate.
 
-(iii) If you determine that there is a legitimate medical explanation for the adulterated and/or substituted test result, report to the DER and the employee that the test must be cancelled; and inform ODAPC of the failure to reconfirm using the format in Appendix D to this part.
+(iii) If you determine that there is a legitimate medical explanation for the adulterated and/or substituted test result, report to the DER and the employee that the test must be cancelled; and inform ODAPC of the failure to reconfirm using the format in appendix F to this part.
 
 (iv) If you determine that there is not a legitimate medical explanation for the adulterated and/or substituted test result, you must take the following steps:
 
@@ -62,7 +60,7 @@ As the MRO, the split specimen laboratory results you receive will fall into fiv
 
 (2) Direct the DER to ensure the immediate recollection of another specimen from the employee under direct observation, with no notice given to the employee of this collection requirement until immediately before the collection; and
 
-(3) Notify ODAPC of the failure to reconfirm using the format in appendix D to this part.
+(3) Notify ODAPC of the failure to reconfirm using the format in appendix F to this part.
 
 (f) For all split specimen results, as the MRO you must in Step 7 of Copy 2 of the CCF:
 
@@ -72,4 +70,4 @@ As the MRO, the split specimen laboratory results you receive will fall into fiv
 
 (3) Send a legible copy of Copy 2 of the CCF (or a signed and dated letter, see § 40.163) to the employer and keep a copy for your records. Transmit the document as provided in § 40.167.
 
-[73 FR 35973, June 25, 2008, as amended at 75 FR 59108, Sept. 27, 2010]
+[73 FR 35973, June 25, 2008, as amended at 75 FR 59108, Sept. 27, 2010; 88 FR 27646, May 2, 2023]

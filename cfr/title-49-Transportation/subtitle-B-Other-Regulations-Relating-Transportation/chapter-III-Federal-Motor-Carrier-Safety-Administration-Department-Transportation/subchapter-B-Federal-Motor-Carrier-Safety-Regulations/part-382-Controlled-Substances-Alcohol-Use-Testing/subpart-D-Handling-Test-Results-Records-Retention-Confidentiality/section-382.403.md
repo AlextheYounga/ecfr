@@ -1,10 +1,8 @@
 ##### § 382.403 Reporting of results in a management information system. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
 (a) An employer shall prepare and maintain a summary of the results of its alcohol and controlled substances testing programs performed under this part during the previous calendar year, when requested by the Secretary of Transportation, any DOT agency, or any State or local officials with regulatory authority over the employer or any of its drivers.
 
-(b) If an employer is notified, during the month of January, of a request by the Federal Motor Carrier Safety Administration to report the employer's annual calendar year summary information, the employer shall prepare and submit the report to the FMCSA by March 15 of that year. The employer shall ensure that the annual summary report is accurate and received by March 15 at the location that the FMCSA specifies in its request. The employer must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.26 and appendix H to part 40). The employer may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.,* electronic program transmitted via the Internet), other than hard-copy, for MIS form submission. For information on the electronic version of the form, see: *http://www.fmcsa.dot.gov/safetyprogs/drugs/engtesting.htm.*
+(b) If an employer is notified, during the month of January, of a request by the Federal Motor Carrier Safety Administration to report the employer's annual calendar year summary information, the employer shall prepare and submit the report to the FMCSA by March 15 of that year. The employer shall ensure that the annual summary report is accurate and received by March 15 at the location that the FMCSA specifies in its request. The employer must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.26 and appendix J to part 40). The employer may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.,* electronic program transmitted via the Internet), other than hard-copy, for MIS form submission. For information on the electronic version of the form, see: *http://www.fmcsa.dot.gov/safetyprogs/drugs/engtesting.htm.*
 
 (c) When the report is submitted to the FMCSA by mail or electronic transmission, the information requested shall be typed, except for the signature of the certifying official. Each employer shall ensure the accuracy and timeliness of each report submitted by the employer or a consortium.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 
 (e) A service agent (*e.g., Consortium/Third party administrator* as defined in 49 CFR 382.107) may prepare the MIS report on behalf of an employer. However, a company official (*e.g., Designated employer representative* as defined in § 382.107) must certify the accuracy and completeness of the MIS report, no matter who prepares it.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 83 FR 22875, May 17, 2018]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 83 FR 22875, May 17, 2018; 88 FR 27653, May 2, 2023]

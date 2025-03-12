@@ -1,5 +1,7 @@
 ##### § 431.25 Energy conservation standards and effective dates. #####
 
+Link to an amendment published at 88 FR 36150, June 1, 2023.
+
 (a) Except as provided for fire pump electric motors in paragraph (b) of this section, each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, including a NEMA Design B or an equivalent IEC Design N motor that is a general purpose electric motor (subtype I), manufactured (alone or as a component of another piece of equipment) on or after December 19, 2010, but before June 1, 2016, shall have a nominal full-load efficiency that is not less than the following:
 
 Table 1—Nominal Full-Load Efficiencies of General Purpose Electric Motors (Subtype I), Except Fire Pump Electric Motors

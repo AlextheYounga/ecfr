@@ -1,7 +1,5 @@
 ##### § 40.207 What is the effect of a cancelled drug test? #####
 
-Link to an amendment published at 88 FR 27648, May 2, 2023.
-
 (a) A cancelled drug test is neither positive nor negative.
 
 (1) As an employer, you must not attach to a cancelled test the consequences of a positive test or other violation of a DOT drug testing regulation (*e.g.,* removal from a safety-sensitive position).
@@ -14,4 +12,6 @@ Link to an amendment published at 88 FR 27648, May 2, 2023.
 
 (c) A cancelled DOT test does not provide a valid basis for an employer to conduct a non-DOT test (*i.e.,* a test under company authority).
 
-[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35975, June 25, 2008]
+(d) If a test is cancelled for a correctible flaw (*i.e.,* § 40.203 or § 40.205), only the MRO who cancelled the test can reverse the cancellation and must do so within 60 days of the cancellation. After 60 days, the MRO who cancelled the test cannot reverse the cancellation without the permission of ODAPC. For example, if an MRO cancels a test because the MRO did not receive a copy of the CCF, but later receives a copy of the CCF, the MRO may reverse the decision to cancel the test within 60 days. After 60 days, the MRO must contact ODAPC for permission to reverse the cancellation. An MRO must not reverse the cancellation of a test that the laboratory has reported as rejected for testing, as described in § 40.83(g). A laboratory is not authorized to reverse a cancellation due to a fatal flaw, as described in § 40.199.
+
+[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35975, June 25, 2008; 88 FR 27648, May 2, 2023]

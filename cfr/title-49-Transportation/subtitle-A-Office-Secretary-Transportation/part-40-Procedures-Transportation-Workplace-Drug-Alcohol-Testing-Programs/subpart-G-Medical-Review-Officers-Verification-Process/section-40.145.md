@@ -1,7 +1,5 @@
 ##### § 40.145 On what basis does the MRO verify test results involving adulteration or substitution? #####
 
-Link to an amendment published at 88 FR 27646, May 2, 2023.
-
 (a) As an MRO, when you receive a laboratory report that a specimen is adulterated or substituted, you must treat that report in the same way you treat the laboratory's report of a confirmed positive for a drug or drug metabolite.
 
 (b) You must follow the same procedures used for verification of a confirmed positive test for a drug or drug metabolite (see §§ 40.129-40.135, 40.141, 40.151), except as otherwise provided in this section.
@@ -38,7 +36,7 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (D) That the referral physician must provide you with a signed statement of his or her recommendations.
 
-(3) As the referral physician, you must evaluate the employee and consider any evidence the employee presents concerning the employee's medical explanation. You may conduct additional tests to determine whether there is a legitimate medical explanation. Any additional urine tests must be performed in an HHS-certified laboratory.
+(3) As the referral physician, you must evaluate the employee and consider any evidence the employee presents concerning the employee's medical explanation. You may conduct additional tests to determine whether there is a legitimate medical explanation. Any additional drug tests must be performed in an HHS-certified laboratory.
 
 (4) As the referral physician, you must then make a written recommendation to the MRO about whether the MRO should determine that there is a legitimate medical explanation. As the MRO, you must seriously consider and assess the referral physician's recommendation in deciding whether there is a legitimate medical explanation.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (6) As the MRO, if you determine that there is not a legitimate medical explanation, you must report the test to the DER as a verified refusal to test because of adulteration or substitution.
 
-(h) The following are examples of types of evidence an employee could present to support an assertion of a legitimate medical explanation for a substituted result.
+(h) The following are examples of types of evidence an employee could present to support an assertion of a legitimate medical explanation for a substituted urine result.
 
 (1) Medically valid evidence demonstrating that the employee is capable of physiologically producing urine meeting the creatinine and specific gravity criteria of § 40.93(b).
 
@@ -60,4 +58,4 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (ii) To establish there is a legitimate medical explanation, the employee must demonstrate that the cited medical condition actually results in the physiological production of urine meeting the creatinine and specific gravity criteria of § 40.93(b).
 
-[65 FR 79526, Dec. 19, 2000, as amended at 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004]
+[65 FR 79526, Dec. 19, 2000, as amended at 68 FR 31626, May 28, 2003; 69 FR 64867, Nov. 9, 2004; 88 FR 27646, May 2, 2023]

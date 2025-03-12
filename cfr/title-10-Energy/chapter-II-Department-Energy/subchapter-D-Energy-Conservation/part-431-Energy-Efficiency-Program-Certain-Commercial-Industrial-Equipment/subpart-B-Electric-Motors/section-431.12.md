@@ -1,5 +1,7 @@
 ##### § 431.12 Definitions. #####
 
+Link to an amendment published at 88 FR 36150, June 1, 2023.
+
 The following definitions apply for purposes of this subpart, and of subparts U and V of this part. Any words or terms not defined in this Section or elsewhere in this part shall be defined as provided in Section 340 of the Act.
 
 *Accreditation* means recognition by an accreditation body that a laboratory is competent to test the efficiency of electric motors according to the scope and procedures given in IEEE 112-2017 Test Method B, CSA C390-10, or IEC 60034-2-1:2014 Method 2-1-1B (incorporated by reference, see § 431.15).

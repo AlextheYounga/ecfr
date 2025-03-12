@@ -1,7 +1,5 @@
-##### § 40.210 Are drug tests other than urine permitted under the regulations? #####
+##### § 40.210 What kinds of drug tests are permitted under the regulations? #####
 
-Link to an amendment published at 88 FR 27649, May 2, 2023.
+Both urine and oral fluid specimens are authorized for collection and testing under this part. An employer can use one or the other, but not both at the beginning of the testing event. For example, if an employee is sent for a test, either a urine or oral fluid specimen can be collected, but not both simultaneously. However, if there is a problem in the collection that necessitates a second collection (*e.g.,* insufficient quantity of urine, temperature out of range, or insufficient saliva), then a different specimen type could be chosen by the employer (*i.e.,* through a standing order or a discussion with the collector) or its service agent (*i.e.,* if there is no standing order and the service agent cannot contact the DER) to complete the collection process for the testing event. Only urine and oral fluid specimens screened and confirmed at HHS-certified laboratories (*see* § 40.81) are allowed for drug testing under this part. Point-of-collection (POC) urine, POC oral fluid drug testing, hair testing, or instant tests are not authorized.
 
-No. Drug tests other than on urine specimens are not authorized for testing under this part. Only urine specimens screened and confirmed at HHS certified laboratories (see § 40.81) are allowed for drug testing under this part. Point-of-collection urine testing or instant tests are not authorized.
-
-[82 FR 52246, Nov. 13, 2017]
+[88 FR 27649, May 2, 2023]

@@ -1,7 +1,5 @@
 ##### § 40.163 How does the MRO report drug test results? #####
 
-Link to an amendment published at 88 FR 27646, May 2, 2023.
-
 (a) As the MRO, it is your responsibility to report all drug test results to the employer.
 
 (b) You may use a signed or stamped and dated legible photocopy of Copy 2 of the CCF to report test results.
@@ -10,7 +8,7 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (1) Full name, as indicated on the CCF, of the employee tested;
 
-(2) Specimen ID number from the CCF and the donor SSN or employee ID number;
+(2) Specimen ID number from the CCF and the SSN or employee ID No.;
 
 (3) Reason for the test, if indicated on the CCF (e.g., random, post-accident);
 
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (2) In addition, the report must contain your name, address, and phone number, the name of any person other than you reporting the results, and the date the electronic results report is released.
 
-(e) You must retain a signed or stamped and dated copy of Copy 2 of the CCF in your records. If you do not use Copy 2 for reporting results, you must maintain a copy of the signed or stamped and dated letter in addition to the signed or stamped and dated Copy 2. If you use the electronic data file to report negatives, you must maintain a retrievable copy of that report in a format suitable for inspection and auditing by a DOT representative.
+(e) If you use a written report as provided in paragraph (c) of this section to report results, you must retain a copy of the written report. If you use the electronic data file to report negatives, as provided in paragraph (d) of this section, you must retain a retrievable copy of that report in a format suitable for inspection and audit by a DOT representative. In either case, you must keep the completed Copy 2 of the CCF. When completing Copy 2, either the MRO must sign and date it (for both negatives and non-negatives) or MRO staff must stamp and date it (for negatives only).
 
 (f) You must not use Copy 1 of the CCF to report drug test results.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (h) You must maintain reports and records related to negatives and cancelled results for one year; you must maintain reports and records related to positives and refusals for five years, unless otherwise specified by applicable DOT agency regulations.
 
-[66 FR 41952, Aug. 9, 2001, as amended at 75 FR 49863, Aug. 16, 2010; 75 FR 59107, Sept. 27, 2010; 76 FR 59578, Sept. 27, 2011]
+[66 FR 41952, Aug. 9, 2001, as amended at 75 FR 49863, Aug. 16, 2010; 75 FR 59107, Sept. 27, 2010; 76 FR 59578, Sept. 27, 2011; 88 FR 27646, May 2, 2023]

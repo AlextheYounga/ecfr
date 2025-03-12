@@ -1,9 +1,7 @@
-##### § 40.89 What is validity testing, and are laboratories required to conduct it? #####
+##### § 40.89 What are the adulterant cutoff concentrations for initial and confirmation urine tests? #####
 
-Link to an amendment published at 88 FR 27643, May 2, 2023.
+(a) As a laboratory, you must use the cutoff concentrations for the initial and confirmation adulterant testing as required by the HHS Mandatory Guidelines and you must use two separate aliquots—one for the initial test and another for the confirmation test.
 
-(a) Specimen validity testing is the evaluation of the specimen to determine if it is consistent with normal human urine. The purpose of validity testing is to determine whether certain adulterants or foreign substances were added to the urine, if the urine was diluted, or if the specimen was substituted.
+(b) As a laboratory, you must report results at or above the cutoffs (or for pH, at or above or below the values, as appropriate) as adulterated and provide the numerical value that supports the adulterated result.
 
-(b) As a laboratory, you must conduct validity testing.
-
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41951, Aug. 9, 2001; 73 FR 35970, June 25, 2008]
+[73 FR 35970, June 25, 2008. Redesignated at 88 FR 27643, May 2, 2023]

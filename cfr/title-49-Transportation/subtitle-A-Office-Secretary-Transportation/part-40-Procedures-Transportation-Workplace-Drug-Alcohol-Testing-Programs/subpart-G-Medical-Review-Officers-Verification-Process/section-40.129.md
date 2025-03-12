@@ -1,8 +1,6 @@
 ##### § 40.129 What are the MRO's functions in reviewing laboratory confirmed non-negative drug test results? #####
 
-Link to an amendment published at 88 FR 27645, May 2, 2023.
-
-(a) As the MRO, you must do the following with respect to confirmed positive, adulterated, substituted, or invalid drug tests you receive from a laboratory, before you verify the result and release it to the DER:
+(a) As the MRO, you must do the following with respect to confirmed positive, adulterated, substituted, or invalid results you receive from a laboratory, before you verify the result and release it to the DER:
 
 (1) Review Copy 2 of the CCF to determine if there are any fatal or correctable errors that may require you to cancel the test (see §§ 40.199 and 40.203). Staff under your direct, personal supervision may conduct this administrative review for you, but only you may verify or cancel a test.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 27645, May 2, 2023.
 
 (iii) Positive, and/or refusal to test because of adulteration or substitution.
 
-(b) Before you report a verified negative, positive, test cancelled, refusal to test because of adulteration or substitution, you must have in your possession the following documents:
+(b) Before you report a verified negative, positive, refusal to test because of adulteration or substitution, you must have in your possession the following documents:
 
 (1) Copy 2 of the CCF, a legible copy of it, or any other CCF copy containing the employee's signature; and
 
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 27645, May 2, 2023.
 
 (c) With respect to verified positive test results, place a checkmark in the “Positive” box in Step 6 on Copy 2 of the CCF, indicate the drug(s)/metabolite(s) verified positive, and sign and date the verification statement.
 
-(d) If you cancel a laboratory confirmed positive, adulterated, substituted, or invalid drug test report, check the “test cancelled” box (Step 6) on Copy 2 of the CCF, make appropriate annotation in the “Remarks” line, sign, provide your name, and date the verification statement.
+(d) If you cancel a laboratory confirmed positive, adulterated, substituted, or invalid result, check the “test cancelled” box (Step 6) on Copy 2 of the CCF, make appropriate annotation in the “Remarks” line, sign, provide your name, and date the verification statement.
 
 (e) Report the result in a confidential manner (see §§ 40.163-40.167).
 
@@ -40,4 +38,4 @@ Link to an amendment published at 88 FR 27645, May 2, 2023.
 
 (2) If the employer does not have a stand-down policy that meets the requirements of § 40.21, you must not inform the employer that you have received an employee's laboratory confirmed positive, adulterated, or substituted test result until you verify the test result. For example, as an MRO employed directly by a company, you must not tell anyone on the company's staff or management that you have received an employee's laboratory confirmed test result.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41952, Aug. 9, 2001; 73 FR 35971, June 25, 2008; 75 FR 59107, Sept. 27, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41952, Aug. 9, 2001; 73 FR 35971, June 25, 2008; 75 FR 59107, Sept. 27, 2010; 88 FR 27645, May 2, 2023]

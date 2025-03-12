@@ -1,6 +1,4 @@
-##### § 40.197 What happens when an employer receives a report of a dilute specimen? #####
-
-Link to an amendment published at 88 FR 27648, May 2, 2023.
+##### § 40.197 What happens when an employer receives a report of a dilute urine specimen? #####
 
 (a) As the employer, if the MRO informs you that a positive drug test was dilute, you simply treat the test as a verified positive test. You must not direct the employee to take another test based on the fact that the specimen was dilute.
 

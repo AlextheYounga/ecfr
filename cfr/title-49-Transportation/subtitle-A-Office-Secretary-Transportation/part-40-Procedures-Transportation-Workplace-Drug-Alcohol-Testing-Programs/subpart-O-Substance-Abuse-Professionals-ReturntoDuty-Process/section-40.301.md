@@ -1,7 +1,5 @@
 ##### § 40.301 What is the SAP's function in the follow-up evaluation of an employee? #####
 
-Link to an amendment published at 88 FR 27650, May 2, 2023.
-
 (a) As a SAP, after you have prescribed assistance under § 40.293, you must re-evaluate the employee to determine if the employee has successfully carried out your education and/or treatment recommendations.
 
 (1) This is your way to gauge for the employer the employee's ability to demonstrate successful compliance with the education and/or treatment plan.
@@ -12,7 +10,7 @@ Link to an amendment published at 88 FR 27650, May 2, 2023.
 
 (1) Confer with or obtain appropriate documentation from the appropriate education and/or treatment program professionals where the employee was referred; and
 
-(2) Conduct a face-to-face clinical interview with the employee to determine if the employee demonstrates successful compliance with your initial evaluation recommendations.
+(2) Conduct a clinical interview meeting the requirements of § 40.291(a)(1) with the employee to determine if the employee demonstrates successful compliance with your initial evaluation recommendations.
 
 (c) (1) If the employee has demonstrated successful compliance, you must provide a written report directly to the DER highlighting your clinical determination that the employee has done so with your initial evaluation recommendation (see § 40.311(d)).
 
@@ -25,3 +23,5 @@ Link to an amendment published at 88 FR 27650, May 2, 2023.
 (3) As the SAP, you may conduct additional follow-up evaluation(s) if the employer determines that doing so is consistent with the employee's progress as you have reported it and with the employer's policy and/or labor-management agreements.
 
 (4) As the employer, following a SAP report that the employee has not demonstrated successful compliance, you may take personnel action consistent with your policy and/or labor-management agreements.
+
+[65 FR 79526, Dec. 19, 2000, as amended at 88 FR 27650, May 2, 2023]

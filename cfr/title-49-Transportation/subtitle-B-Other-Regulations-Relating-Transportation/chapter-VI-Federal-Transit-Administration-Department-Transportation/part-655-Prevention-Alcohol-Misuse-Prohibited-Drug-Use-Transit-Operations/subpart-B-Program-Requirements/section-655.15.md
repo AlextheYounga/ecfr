@@ -1,7 +1,5 @@
 ##### § 655.15 Policy statement contents. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
 The local governing board of the employer or operator shall adopt an anti-drug and alcohol misuse policy statement. The statement must be made available to each covered employee, and shall include the following:
 
 (a) The identity of the person, office, branch and/or position designated by the employer to answer employee questions about the employer's anti-drug use and alcohol misuse programs.
@@ -12,7 +10,7 @@ The local governing board of the employer or operator shall adopt an anti-drug a
 
 (d) The specific circumstances under which a covered employee will be tested for prohibited drugs or alcohol misuse under this part.
 
-(e) The procedures that will be used to test for the presence of illegal drugs or alcohol misuse, protect the employee and the integrity of the drug and alcohol testing process, safeguard the validity of the test results, and ensure the test results are attributed to the correct covered employee.
+(e) The procedures that will be used to test for the presence of prohibited drugs or alcohol misuse, protect the employee and the integrity of the drug and alcohol testing process, safeguard the validity of the test results, and ensure the test results are attributed to the correct covered employee.
 
 (f) The requirement that a covered employee submit to drug and alcohol testing administered in accordance with this part.
 
@@ -23,3 +21,5 @@ The local governing board of the employer or operator shall adopt an anti-drug a
 (i) The consequences, as set forth in § 655.35 of subpart D, for a covered employee who is found to have an alcohol concentration of 0.02 or greater but less than 0.04.
 
 (j) The employer shall inform each covered employee if it implements elements of an anti-drug use or alcohol misuse program that are not required by this part. An employer may not impose requirements that are inconsistent with, contrary to, or frustrate the provisions of this part.
+
+[66 FR 42002, Aug. 9, 2001, as amended at 88 FR 27653, May 2, 2023]

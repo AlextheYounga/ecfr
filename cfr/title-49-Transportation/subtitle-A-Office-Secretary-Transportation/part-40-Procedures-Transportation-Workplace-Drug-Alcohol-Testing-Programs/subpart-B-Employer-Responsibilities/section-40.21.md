@@ -1,7 +1,5 @@
 ##### § 40.21 May an employer stand down an employee before the MRO has completed the verification process? #####
 
-Link to an amendment published at 88 FR 27637, May 2, 2023.
-
 (a) As an employer, you are prohibited from standing employees down, except consistent with a waiver a DOT agency grants under this section.
 
 (b) You may make a request to the concerned DOT agency for a waiver from the prohibition of paragraph (a) of this section. Such a waiver, if granted, permits you to stand an employee down following the MRO's receipt of a laboratory report of a confirmed positive test for a drug or drug metabolite, an adulterated test, or a substituted test pertaining to the employee.
@@ -42,9 +40,11 @@ Link to an amendment published at 88 FR 27637, May 2, 2023.
 
 (A) You return the employee immediately to the performance of safety-sensitive duties;
 
-(B) The employee suffers no adverse personnel or financial consequences as a result; and
+(B) The employee suffers no adverse personnel or financial consequences as a result;
 
-(C) You maintain no individually identifiable record that the employee had a confirmed laboratory positive, adulterated, or substituted test result (*i.e.,* you maintain a record of the test only as a negative or cancelled test).
+(C) For a verified negative result, the employee will not be required to submit an alternate specimen for the same testing action. For a cancelled result, the employee could be required to submit an alternate specimen on a re-collection; and
+
+(D) You maintain no individually identifiable record that the employee had a confirmed laboratory positive, adulterated, or substituted test result (*i.e.,* you maintain a record of the test only as a negative or cancelled test).
 
 (d) The Administrator of the concerned DOT agency, or his or her designee, may grant a waiver request only if he or she determines that, in the context of your organization, there is a high probability that the procedures you propose will effectively enhance safety and protect the interests of employees in fairness and confidentiality.
 
@@ -53,3 +53,5 @@ Link to an amendment published at 88 FR 27637, May 2, 2023.
 (2) The Administrator, or his or her designee, may immediately suspend or revoke the waiver if he or she determines that you have failed to protect effectively the interests of employees in fairness and confidentiality, that you have failed to comply with the requirements of this section, or that you have failed to comply with any other conditions the DOT agency has attached to the waiver.
 
 (e) You must not stand employees down in the absence of a waiver, or inconsistent with the terms of your waiver. If you do, you are in violation of this part and DOT agency drug testing regulations, and you are subject to enforcement action by the DOT agency just as you are for other violations of this part and DOT agency rules.
+
+[65 FR 79526, Dec. 19, 2000, as amended at 88 FR 27637, May 2, 2023]

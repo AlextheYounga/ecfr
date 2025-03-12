@@ -1,7 +1,5 @@
 ##### § 382.107 Definitions. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
 Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this subchapter, and § 40.3 of this title, except as provided in this section—
 
 *Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307. As used in this section, “traffic citation” means a ticket, complaint, or other document charging driving a CMV while under the influence of alcohol or controlled substances.
@@ -30,15 +28,15 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 (4) Is of any size and is used in the transportation of materials found to be hazardous for the purposes of the Hazardous Materials Transportation Act (49 U.S.C. 5103(b)) and which require the motor vehicle to be placarded under the Hazardous Materials Regulations (49 CFR part 172, subpart F).
 
-*Confirmation (or confirmatory) drug test* means a second analytical procedure performed on a urine specimen to identify and quantify the presence of a specific drug or drug metabolite.
+*Confirmation (or confirmatory) drug test* means a second analytical procedure performed on a urine or oral fluid specimen to identify and quantify the presence of a specific drug or drug metabolite.
 
-*Confirmation (or confirmatory) validity test* means a second test performed on a urine specimen to further support a validity test result.
+*Confirmation (or confirmatory) validity test* means a second test performed on a urine or oral fluid specimen to further support a validity test result.
 
 *Confirmed drug test* means a confirmation test result received by an MRO from a laboratory.
 
 *Consortium/Third party administrator (C/TPA)* means a service agent that provides or coordinates one or more drug and/or alcohol testing services to DOT-regulated employers. C/TPAs typically provide or coordinate the provision of a number of such services and perform administrative tasks concerning the operation of the employers' drug and alcohol testing programs. This term includes, but is not limited to, groups of employers who join together to administer, as a single entity, the DOT drug and alcohol testing programs of its members (*e.g.,* having a combined random testing pool). C/TPAs are not “employers” for purposes of this part, except as provided in § 382.705(c).
 
-*Controlled substances* mean those substances identified in § 40.85 of this title.
+*Controlled substances* mean those substances identified in § 40.82 of this title.
 
 *Designated employer representative (DER)* is an individual identified by the employer as able to receive communications and test results from service agents and who is authorized to take immediate actions to remove employees from safety-sensitive duties and to make required decisions in the testing and evaluation processes. The individual must be an employee of the company. Service agents cannot serve as DERs.
 
@@ -74,11 +72,11 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 (2) Fail to remain at the testing site until the testing process is complete. Provided, that an employee who leaves the testing site before the testing process commences (see § 40.63(c) of this title) a pre-employment test is not deemed to have refused to test;
 
-(3) Fail to provide a urine specimen for any drug test required by this part or DOT agency regulations. Provided, that an employee who does not provide a urine specimen because he or she has left the testing site before the testing process commences (see § 40.63(c) of this title) for a pre-employment test is not deemed to have refused to test;
+(3) Fail to provide a urine or oral fluid specimen for any drug test required by this part or DOT agency regulations. Provided, that an employee who does not provide a urine or oral fluid specimen because he or she has left the testing site before the testing process commences (see § 40.63(c) of this title) for a pre-employment test is not deemed to have refused to test;
 
 (4) In the case of a directly observed or monitored collection in a drug test, fails to permit the observation or monitoring of the driver's provision of a specimen (see §§ 40.67(l) and 40.69(g) of this title);
 
-(5) Fail to provide a sufficient amount of urine when directed, and it has been determined, through a required medical evaluation, that there was no adequate medical explanation for the failure (see § 40.193(d)(2) of this title);
+(5) Fail to provide a sufficient amount of urine or oral fluid when directed, and it has been determined, through a required medical evaluation, that there was no adequate medical explanation for the failure (see § 40.193(d)(2) of this title);
 
 (6) Fail or declines to take a second test the employer or collector has directed the driver to take;
 
@@ -104,7 +102,7 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Screening test (or initial test)* means:
 
-(1) In drug testing, a test to eliminate “negative” urine specimens from further analysis or to identify a specimen that requires additional testing for the presence of drugs.
+(1) In drug testing, a test to eliminate “negative” urine or oral fluid specimens from further analysis or to identify a specimen that requires additional testing for the presence of drugs.
 
 (2) In alcohol testing, an analytical procedure to determine whether an employee may have a prohibited concentration of alcohol in a breath or saliva specimen.
 
@@ -112,4 +110,4 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Violation rate for random alcohol testing* means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of random alcohol screening tests (including refusals) conducted under this part.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51432, Sept. 30, 2019; 86 FR 57069, Oct. 14, 2021]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016; 83 FR 48726, Sept. 27, 2018; 84 FR 51432, Sept. 30, 2019; 86 FR 57069, Oct. 14, 2021; 88 FR 27653, May 2, 2023]

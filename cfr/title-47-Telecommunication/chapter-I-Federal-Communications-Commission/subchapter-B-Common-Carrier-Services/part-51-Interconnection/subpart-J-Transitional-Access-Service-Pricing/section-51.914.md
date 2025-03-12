@@ -1,5 +1,7 @@
 ##### § 51.914 Additional provisions applicable to Access Stimulation traffic. #####
 
+Link to an amendment published at 88 FR 35762, June 1, 2023.
+
 (a) Notwithstanding any other provision of this part, if a local exchange carrier is engaged in Access Stimulation, as defined in § 61.3(bbb) of this chapter, it shall, within 45 days of commencing Access Stimulation, or within 45 days of November 27, 2019, whichever is later:
 
 (1) Not bill any Interexchange Carrier for terminating switched access tandem switching or terminating switched access transport charges for any traffic between such local exchange carrier's terminating end office or equivalent and the associated access tandem switch; and

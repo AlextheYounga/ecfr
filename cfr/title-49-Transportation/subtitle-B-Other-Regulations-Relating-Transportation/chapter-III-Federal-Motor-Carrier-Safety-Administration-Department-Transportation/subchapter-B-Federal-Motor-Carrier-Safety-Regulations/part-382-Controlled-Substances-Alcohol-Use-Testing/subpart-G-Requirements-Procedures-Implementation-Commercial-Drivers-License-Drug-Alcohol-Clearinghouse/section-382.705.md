@@ -1,7 +1,5 @@
 ##### § 382.705 Reporting to the Clearinghouse. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
 (a) *MROs.* (1) Within 2 business days of making a determination or verification, MROs must report the following information about a driver to the Clearinghouse:
 
 (i) Verified positive, adulterated, or substituted controlled substances test results;
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 
 (C) Refusal to test: Substituted; or
 
-(D) Refusal to provide a sufficient specimen after the MRO makes a determination, in accordance with § 40.193 of this title, that the employee does not have a medical condition that has, or with a high degree of probability could have, precluded the employee from providing a sufficient amount of urine. Under this subpart a refusal would also include a refusal to undergo a medical examination or evaluation to substantiate a qualifying medical condition.
+(D) Refusal to provide a sufficient specimen after the MRO makes a determination, in accordance with § 40.193 of this title, that the employee does not have a medical condition that has, or with a high degree of probability could have, precluded the employee from providing a sufficient amount of urine or oral fluid. Under this subpart a refusal would also include a refusal to undergo a medical examination or evaluation to substantiate a qualifying medical condition.
 
 (3) Within 1 business day of making any change to the results report in accordance with paragraph (a)(1) of this section, a MRO must report that changed result to the Clearinghouse.
 
@@ -120,8 +118,6 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 
 (e) *Reporting truthfully and accurately.* Every person or entity with access must report truthfully and accurately to the Clearinghouse and is expressly prohibited from reporting information he or she knows or should know is false or inaccurate.
 
-Reporting Entities and Circumstances
-
 |                        Reporting entity                        |                                                                                    When information will be reported to clearinghouse                                                                                     |
 |----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |           Prospective/Current Employer of CDL Driver           |                                           —An alcohol confirmation test with a concentration of 0.04 or higher.  <br/>—Refusal to test (alcohol) as specified in 49 CFR 40.261.                                           |
@@ -139,4 +135,4 @@ Reporting Entities and Circumstances
 |                              SAP                               |                                                                         —Identification of driver and date the initial assessment was initiated.                                                                          |
 |                                                                |                                                   —Successful completion of treatment and/or education and the determination of eligibility for return-to-duty testing.                                                   |
 
-[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35639, July 7, 2021]
+[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35639, July 7, 2021; 88 FR 27653, May 2, 2023]

@@ -1,7 +1,5 @@
 ##### § 120.221 Consequences for employees engaging in alcohol-related conduct. #####
 
-Link to an amendment published at 88 FR 27636, May 2, 2023.
-
 (a) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §§ 120.19 or 120.37, or an alcohol misuse rule of another DOT agency.
 
 (2) No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 27636, May 2, 2023.
 
 (5) Once the Federal Air Surgeon has recommended under paragraph (c)(4) of this section that the employee be permitted to perform safety-sensitive duties, the employer cannot permit the employee to perform those safety-sensitive duties until the employer has ensured that the employee meets the return to duty requirements in accordance with 49 CFR part 40.
 
-(d) *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any employee who holds a certificate issued under part 61, part 63, or part 65 of this chapter who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
+(d) *Notice of refusals.* Each covered employer must notify the FAA within 2 working days of any covered employee who holds a certificate issued under part 61, part 63, or part 65 of this chapter who has refused to submit to an alcohol test required under this subpart. Notification must be sent to: Federal Aviation Administration, Office of Aerospace Medicine, Drug Abatement Division (AAM-800), 800 Independence Avenue, SW., Washington, DC 20591, or by fax to (202) 267-5200.
 
 (e) *Required evaluation and alcohol testing.* No covered employee who has engaged in conduct prohibited by §§ 120.19 or 120.37 shall perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40. No employer shall permit a covered employee who has engaged in such conduct to perform safety-sensitive functions unless the employee has met the requirements of 49 CFR part 40.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 88 FR 27636, May 2, 2023.
 
 (2) Except as provided in paragraph (f)(1) of this section, no employer shall take any action under this rule against an employee based solely on test results showing an alcohol concentration less than 0.04. This does not prohibit an employer with authority independent of this rule from taking any action otherwise consistent with law.
 
-[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009, as amended by Amdt. 120-1, 78 FR 42004, July 15, 2013]
+[Doc. No. FAA-2008-0937, 74 FR 22653, May 14, 2009, as amended by Amdt. 120-1, 78 FR 42004, July 15, 2013; Docket DOT-OST-2021-0093, 88 FR 27636, May 2, 2023]

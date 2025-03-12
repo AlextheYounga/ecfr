@@ -1,7 +1,5 @@
 ##### § 40.355 What limitations apply to the activities of service agents? #####
 
-Link to an amendment published at 88 FR 27650, May 2, 2023.
-
 As a service agent, you are subject to the following limitations concerning your activities in the DOT drug and alcohol testing program.
 
 (a) You must not require an employee to sign a consent, release, waiver of liability, or indemnification agreement with respect to any part of the drug or alcohol testing process covered by this part (including, but not limited to, collections, laboratory testing, MRO, and SAP services). No one may do so on behalf of a service agent.
@@ -36,8 +34,8 @@ As a service agent, you are subject to the following limitations concerning your
 
 (n) You must not intentionally delay the transmission of drug or alcohol testing-related documents concerning actions you have performed, because of a payment dispute or other reasons.
 
-Example 1 to paragraph (n):A laboratory that has tested a specimen must not delay transmitting the documentation of the test result to an MRO because of a billing or payment dispute with the MRO or a C/TPA.Example 2 to paragraph (n):An MRO or SAP who has interviewed an employee must not delay sending a verified test result or SAP report to the employer because of such a dispute with the employer or employee.Example 3 to paragraph (n):A collector who has performed a urine specimen collection must not delay sending the drug specimen and CCF to the laboratory because of a payment or other dispute with the laboratory or a C/TPA.Example 4 to paragraph (n):A BAT who has conducted an alcohol test must not delay sending test result information to an employer or C/TPA because of a payment or other dispute with the employer or C/TPA.
+Example 1 to paragraph (n):A laboratory that has tested a specimen must not delay transmitting the documentation of the test result to an MRO because of a billing or payment dispute with the MRO or a C/TPA.Example 2 to paragraph (n):An MRO or SAP who has interviewed an employee must not delay sending a verified test result or SAP report to the employer because of such a dispute with the employer or employee.Example 3 to paragraph (n):A collector who has performed a specimen collection must not delay sending the drug specimen and CCF to the laboratory because of a payment or other dispute with the laboratory or a C/TPA.Example 4 to paragraph (n):A BAT who has conducted an alcohol test must not delay sending test result information to an employer or C/TPA because of a payment or other dispute with the employer or C/TPA.
 
 (o) While you must follow the DOT agency regulations, the actual employer remains accountable to DOT for compliance, and your failure to implement any aspect of the program as required in this part and other applicable DOT agency regulations makes the employer subject to enforcement action by the Department.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41955, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 75 FR 59108, Sept. 27, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41955, Aug. 9, 2001; 71 FR 49384, Aug. 23, 2006; 75 FR 59108, Sept. 27, 2010; 88 FR 27650, May 2, 2023]

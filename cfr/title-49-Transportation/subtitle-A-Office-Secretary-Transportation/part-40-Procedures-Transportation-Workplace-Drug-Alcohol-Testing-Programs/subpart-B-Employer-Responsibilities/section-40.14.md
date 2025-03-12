@@ -1,12 +1,10 @@
 ##### § 40.14 What collection information must employers provide to collectors? #####
 
-Link to an amendment published at 88 FR 27637, May 2, 2023.
-
 As an employer, or an employer's service agent—for example a C/TPA, you must ensure the collector has the following information when conducting a urine specimen collection for you:
 
 (a) Full name of the employee being tested.
 
-(b) Employee SSN or ID number.
+(b) SSN or Employee ID No.
 
 (c) Laboratory name and address (can be pre-printed on the CCF).
 
@@ -24,4 +22,6 @@ As an employer, or an employer's service agent—for example a C/TPA, you must e
 
 (j) (Optional) C/TPA name, address, phone, and fax number (can be pre-printed on the CCF).
 
-[75 FR 59107, Sept. 27, 2010]
+(k) Specimen type to be collected (*i.e.,* oral fluid or urine).
+
+[75 FR 59107, Sept. 27, 2010, as amended at 88 FR 27637, May 2, 2023]

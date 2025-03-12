@@ -1,7 +1,5 @@
 ##### § 240.119 Criteria for consideration of data on substance abuse disorders and alcohol/drug rules compliance. #####
 
-Link to an amendment published at 88 FR 27652, May 2, 2023.
-
 (a) *Program requirement.* Each railroad shall adopt and comply with a program which complies with the requirements of this section. When any person, including, but not limited to, each railroad, railroad officer, supervisor, and employee, violates any requirement of a program which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) *Determination requirement.* Each railroad, prior to initially certifying or recertifying any person as a locomotive engineer for any type of service, shall determine that the person meets the eligibility requirements of this section.
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 27652, May 2, 2023.
 
 (iv) A refusal to provide a breath or body fluid sample for testing under the requirements of part 219 of this chapter when instructed to do so by a railroad representative shall be treated, for purposes of ineligibility under this paragraph (e), in the same manner as a violation of:
 
-(A) Section 219.102 of this chapter, in the case of a refusal to provide a urine specimen for testing; or
+(A) Section 219.102 of this chapter, in the case of a refusal to provide a body fluid specimen for testing; or
 
 (B) Section 219.101 of this chapter, in the case of a refusal to provide a breath sample for alcohol testing or a blood specimen for mandatory post-accident toxicological testing.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 88 FR 27652, May 2, 2023.
 
 (ii) Successfully completed any program of counseling or treatment determined to be necessary by the SAP prior to return to service; and
 
-(iii) In accordance with the testing procedures of subpart H of part 219 of this chapter, has had an alcohol test with an alcohol concentration of less than .02 and presented a urine sample that tested negative for controlled substances assayed.
+(iii) In accordance with the testing procedures of subpart H of part 219 of this chapter, has had an alcohol test with an alcohol concentration of less than .02 and presented a body fluid sample that tested negative for controlled substances assayed.
 
 (2) A locomotive engineer placed in service or returned to service under the above-stated conditions shall continue in any program of counseling or treatment deemed necessary by the SAP and shall be subject to a reasonable program of follow-up alcohol and drug testing without prior notice for a period of not more than 60 months following return to service. Follow-up tests shall include not fewer than 6 alcohol tests and 6 drug tests during the first 12 months following return to service.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 88 FR 27652, May 2, 2023.
 
 (g) *Confidentiality protected.* Nothing in this part shall affect the responsibility of the railroad under § 219.1003(f) of this chapter to treat qualified referrals for substance abuse counseling and treatment as confidential; and the certification status of a locomotive engineer who is successfully assisted under the procedures of that section shall not be adversely affected. However, the railroad shall include in its referral policy, as required pursuant to § 219.1003(j) of this chapter, a provision that, at least with respect to a certified locomotive engineer or a candidate for certification, the policy of confidentiality is waived (to the extent that the railroad shall receive from the SAP or DAC official notice of the substance abuse disorder and shall suspend or revoke the certification, as appropriate) if the person at any time refuses to cooperate in a recommended course of counseling or treatment.
 
-[85 FR 81311, Dec. 15, 2020]
+[85 FR 81311, Dec. 15, 2020, as amended at 88 FR 27652, May 2, 2023]

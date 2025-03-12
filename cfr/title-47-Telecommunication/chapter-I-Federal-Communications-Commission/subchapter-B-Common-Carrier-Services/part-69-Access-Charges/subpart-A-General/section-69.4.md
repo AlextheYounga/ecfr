@@ -1,5 +1,7 @@
 ##### § 69.4 Charges to be filed. #####
 
+Link to an amendment published at 88 FR 35764, June 1, 2023.
+
 (a) The end user charges for access service filed with this Commission shall include charges for the End User Common Line element, and for line port costs in excess of basic, analog service.
 
 (b) Except as provided in paragraphs (c), (e), and (h) of this section, and in § 69.118, the carrier's carrier charges for access service filed with this Commission shall include charges for each of the following elements:

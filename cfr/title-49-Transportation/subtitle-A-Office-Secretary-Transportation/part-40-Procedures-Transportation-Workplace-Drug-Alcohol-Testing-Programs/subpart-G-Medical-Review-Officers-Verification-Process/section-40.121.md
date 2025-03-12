@@ -1,7 +1,5 @@
 ##### § 40.121 Who is qualified to act as an MRO? #####
 
-Link to an amendment published at 88 FR 27645, May 2, 2023.
-
 To be qualified to act as an MRO in the DOT drug testing program, you must meet each of the requirements of this section:
 
 (a) *Credentials.* You must be a licensed physician (Doctor of Medicine or Osteopathy). If you are a licensed physician in any U.S., Canadian, or Mexican jurisdiction and meet the other requirements of this section, you are authorized to perform MRO services with respect to all covered employees, wherever they are located. For example, if you are licensed as an M.D. in one state or province in the U.S., Canada, or Mexico, you are not limited to performing MRO functions in that state or province, and you may perform MRO functions for employees in other states or provinces without becoming licensed to practice medicine in the other jurisdictions.
@@ -18,7 +16,7 @@ To be qualified to act as an MRO in the DOT drug testing program, you must meet 
 
 (1) Qualification training must provide instruction on the following subjects:
 
-(i) Collection procedures for urine specimens;
+(i) Collection procedures for specimens;
 
 (ii) Chain of custody, reporting, and recordkeeping;
 
@@ -42,4 +40,4 @@ To be qualified to act as an MRO in the DOT drug testing program, you must meet 
 
 (e) *Documentation.* You must maintain documentation showing that you currently meet all requirements of this section. You must provide this documentation on request to DOT agency representatives and to employers and C/TPAs who are using or negotiating to use your services.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41951, Aug. 9, 2001; 75 FR 49862, Aug. 16, 2010; 82 FR 52245, Nov. 13, 2017]
+[65 FR 79526, Dec. 19, 2000, as amended at 66 FR 41951, Aug. 9, 2001; 75 FR 49862, Aug. 16, 2010; 82 FR 52245, Nov. 13, 2017; 88 FR 27645, May 2, 2023]

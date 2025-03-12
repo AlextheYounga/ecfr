@@ -1,8 +1,10 @@
 ##### § 40.25 Must an employer check on the drug and alcohol testing record of employees it is intending to use to perform safety-sensitive duties? #####
 
-Link to an amendment published at 88 FR 27637, May 2, 2023.
+(a)(1) Yes, as an employer, you must, after obtaining an employee's written consent, request the information about the employee listed in paragraphs (b) through (j) of this section. This requirement applies only to employees seeking to begin performing safety-sensitive duties for you for the first time (*i.e.,* a new hire, an employee transferring into a safety-sensitive position). If the employee refuses to provide this written consent, you must not permit the employee to perform safety-sensitive functions.
 
-(a) Yes, as an employer, you must, after obtaining an employee's written consent, request the information about the employee listed in paragraph (b) of this section. This requirement applies only to employees seeking to begin performing safety-sensitive duties for you for the first time (*i.e.,* a new hire, an employee transfers into a safety-sensitive position). If the employee refuses to provide this written consent, you must not permit the employee to perform safety-sensitive functions.
+(2) If you are an employer regulated by FMCSA, you must comply with the requirements of this section by using the FMCSA's Drug and Alcohol Clearinghouse in accordance with 49 CFR 382.71(a). In addition, you must continue to comply with the requirements of this § 40.25 when checking an employee's testing history with employers regulated by a DOT operating administration other than FMCSA.
+
+(3) If you are an employer regulated by FMCSA, with a prospective employee subject to drug and alcohol testing with a DOT agency other than FMCSA, you must continue to request the information about the employee listed in paragraphs (b) through (j) of this section. For example, if you are an employer regulated by both FMCSA and PHMSA, and you are hiring an employee to perform functions regulated by both DOT agencies, then you must query FMCSA's Clearinghouse to satisfy FMCSA's requirements and you must request the information listed in paragraphs (b) through (j) of this section to satisfy PHMSA's requirements.
 
 (b) You must request the information listed in this paragraph (b) from DOT-regulated employers who have employed the employee during any period during the two years before the date of the employee's application or transfer:
 
@@ -31,3 +33,5 @@ Link to an amendment published at 88 FR 27637, May 2, 2023.
 (i) As the employer requesting the information required under this section, you must maintain a written, confidential record of the information you obtain or of the good faith efforts you made to obtain the information. You must retain this information for three years from the date of the employee's first performance of safety-sensitive duties for you.
 
 (j) As the employer, you must also ask the employee whether he or she has tested positive, or refused to test, on any pre-employment drug or alcohol test administered by an employer to which the employee applied for, but did not obtain, safety-sensitive transportation work covered by DOT agency drug and alcohol testing rules during the past two years. If the employee admits that he or she had a positive test or a refusal to test, you must not use the employee to perform safety-sensitive functions for you, until and unless the employee documents successful completion of the return-to-duty process (see paragraphs (b)(5) and (e) of this section).
+
+[65 FR 79526, Dec. 19, 2000, as amended at 88 FR 27637, May 2, 2023]

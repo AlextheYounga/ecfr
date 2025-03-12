@@ -1,7 +1,5 @@
 ##### § 655.71 Retention of records. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
 (a) *General requirement.* An employer shall maintain records of its anti-drug and alcohol misuse program as provided in this section. The records shall be maintained in a secure location with controlled access.
 
 (b) *Period of retention.* In determining compliance with the retention period requirement, each record shall be maintained for the specified minimum period of time as measured from the date of the creation of the record. Each employer shall maintain the records in accordance with the following schedule:
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 
 (iv) Documents generated in connection with decisions on post-accident drug and alcohol testing.
 
-(v) MRO documents verifying existence of a medical explanation of the inability of a covered employee to provide an adequate urine or breathe sample.
+(v) MRO documents verifying existence of a medical explanation of the inability of a covered employee to provide an adequate urine or oral fluid or breath sample.
 
 (2) Records related to test results:
 
@@ -47,3 +45,5 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 (iv) Certification that any training conducted under this part complies with the requirements for such training.
 
 (5) Copies of annual MIS reports submitted to FTA.
+
+[66 FR 42002, Aug. 9, 2001, as amended at 87 FR 27653, May 2, 2023]

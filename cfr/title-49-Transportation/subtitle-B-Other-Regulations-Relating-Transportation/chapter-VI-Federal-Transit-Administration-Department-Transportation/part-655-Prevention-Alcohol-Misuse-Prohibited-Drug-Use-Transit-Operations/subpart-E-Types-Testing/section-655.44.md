@@ -1,8 +1,6 @@
 ##### § 655.44 Post-accident testing. #####
 
-Link to an amendment published at 88 FR 27653, May 2, 2023.
-
-(a) Accidents. (1) *Fatal accidents.* (i) As soon as practicable following an accident involving the loss of human life, an employer shall conduct drug and alcohol tests on each surviving covered employee operating the public transportation vehicle at the time of the accident. Post-accident drug and alcohol testing of the operator is not required under this section if the covered employee is tested under the fatal accident testing requirements of the Federal Motor Carrier Safety Administration rule 49 CFR 389.303(a)(1) or (b)(1).
+(a) Accidents. (1) *Fatal accidents.* (i) As soon as practicable following an accident involving the loss of human life, an employer shall conduct drug and alcohol tests on each surviving covered employee operating the public transportation vehicle at the time of the accident. Post-accident drug and alcohol testing of the operator is not required under this section if the covered employee is tested under the fatal accident testing requirements of the Federal Motor Carrier Safety Administration rule 49 CFR § 382.303.
 
 (ii) The employer shall also drug and alcohol test any other covered employee whose performance could have contributed to the accident, as determined by the employer using the best information available at the time of the decision.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 88 FR 27653, May 2, 2023.
 
 (f) The results of a blood, urine, or breath test for the use of prohibited drugs or alcohol misuse, conducted by Federal, State, or local officials having independent authority for the test, shall be considered to meet the requirements of this section provided such test conforms to the applicable Federal, State, or local testing requirements, and that the test results are obtained by the employer. Such test results may be used only when the employer is unable to perform a post-accident test within the required period noted in paragraphs (a) and (b) of this section.
 
-[66 FR 42002, Aug. 9, 2001, as amended at 78 FR 37993, June 25, 2013]
+[66 FR 42002, Aug. 9, 2001, as amended at 78 FR 37993, June 25, 2013; 88 FR 27653, May 2, 2023]

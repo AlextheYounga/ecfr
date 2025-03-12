@@ -1,10 +1,8 @@
 ##### § 40.159 What does the MRO do when a drug test result is invalid? #####
 
-Link to an amendment published at 88 FR 27646, May 2, 2023.
-
 (a) As the MRO, when the laboratory reports that the test result is an invalid result, you must do the following:
 
-(1) Discuss the laboratory results with a certifying scientist to determine if the primary specimen should be tested at another HHS certified laboratory. If the laboratory did not contact you as required by §§ 40.91(e) and 40.96(c), you must contact the laboratory.
+(1) Discuss the laboratory results with a certifying scientist to determine if the primary specimen should be tested at another HHS-certified laboratory. If the laboratory did not contact you as required by §§ 40.91(e) and 40.96(b), you must contact the laboratory.
 
 (2) If you and the laboratory have determined that no further testing is necessary, contact the employee and inform the employee that the specimen was invalid. In contacting the employee, use the procedures set forth in § 40.131.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (i) Place a check mark in the “Test Cancelled” box (Step 6) on Copy 2 of the CCF and enter “Invalid Result” and “direct observation collection required” on the “Remarks” line.
 
-(ii) Report to the DER that the test is cancelled, the reason for cancellation, and that a second collection must take place immediately under direct observation.
+(ii) Report to the DER that the test is cancelled, the reason for cancellation, and that a second collection must take place immediately under direct observation. Recommend to the employer that an alternate specimen should be collected if practicable (*e.g.,* oral fluid, if the specimen was urine).
 
 (iii) Instruct the employer to ensure that the employee has the minimum possible advance notice that he or she must go to the collection site.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 88 FR 27646, May 2, 2023.
 
 (g) If, as the MRO, you receive a laboratory invalid result in conjunction with a positive, adulterated, and/or substituted result and you verify any of those results as being a positive and/or refusal to test, you do not report the invalid result unless the split specimen fails to reconfirm the result(s) of the primary specimen.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35972, June 25, 2008; 75 FR 49863, Aug. 16, 2010]
+[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35972, June 25, 2008; 75 FR 49863, Aug. 16, 2010; 88 FR 27646, May 2, 2023]

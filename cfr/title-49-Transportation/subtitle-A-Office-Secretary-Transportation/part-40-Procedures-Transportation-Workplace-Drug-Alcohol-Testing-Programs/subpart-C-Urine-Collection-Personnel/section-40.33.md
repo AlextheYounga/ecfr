@@ -1,8 +1,6 @@
-##### § 40.33 What training requirements must a collector meet? #####
+##### § 40.33 What training requirements must a collector meet for urine collection? #####
 
-Link to an amendment published at 88 FR 27638, May 2, 2023.
-
-To be permitted to act as a collector in the DOT drug testing program, you must meet each of the requirements of this section:
+To be permitted to act as a urine collector in the DOT drug testing program, you must meet each of the requirements of this section:
 
 (a) *Basic information.* You must be knowledgeable about this part, the current “DOT Urine Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections. DOT agency regulations, the DOT Urine Specimen Collection Procedures Guidelines, and other materials are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue SE., Washington DC, 20590, 202-366-3784, or on the ODAPC Web site (*https://www.transportation.gov/odapc*). You must keep current on any changes to these materials. You must subscribe to the ODAPC list-serve at: *https://www.transportation.gov/odapc/get-odapc-email-updates.*
 
@@ -32,7 +30,7 @@ To be permitted to act as a collector in the DOT drug testing program, you must 
 
 (e) *Refresher training.* No less frequently than every five years from the date on which you satisfactorily complete the requirements of paragraphs (b) and (c) of this section, you must complete refresher training that meets all the requirements of paragraphs (b) and (c) of this section.
 
-(f) *Error Correction Training.* If you make a mistake in the collection process that causes a test to be cancelled (*i.e.,* a fatal or uncorrected flaw), you must undergo error correction training. This training must occur within 30 days of the date you are notified of the error that led to the need for retraining.
+(f) *Error correction training.* If you make a mistake in the collection process that causes a test to be cancelled (*i.e.,* a fatal or uncorrected flaw), you must undergo error correction training. This training must occur within 30 days of the date you are notified of the error that led to the need for retraining. Errors that cause cancellation but occur outside the collection process (*e.g.,* when a specimen is crushed or otherwise damaged during the transportation process, or is lost in transit), the cancellation would not be the result of an error by the collector during the collection process and does not require the collector to be retrained.
 
 (1) Error correction training must be provided and your proficiency documented in writing by a person who meets the requirements of paragraph (c)(2) of this section.
 
@@ -42,4 +40,4 @@ To be permitted to act as a collector in the DOT drug testing program, you must 
 
 (g) *Documentation.* You must maintain documentation showing that you currently meet all requirements of this section. You must provide this documentation on request to DOT agency representatives and to employers and C/TPAs who are using or negotiating to use your services.
 
-[65 FR 79526, Dec. 19, 2000; 66 FR 3885, Jan. 17, 2001, as amended at 66 FR 41950, Aug. 9, 2001; 82 FR 52244, Nov. 13, 2017]
+[65 FR 79526, Dec. 19, 2000; 66 FR 3885, Jan. 17, 2001, as amended at 66 FR 41950, Aug. 9, 2001; 82 FR 52244, Nov. 13, 2017; 88 FR 27638, May 2, 2023]

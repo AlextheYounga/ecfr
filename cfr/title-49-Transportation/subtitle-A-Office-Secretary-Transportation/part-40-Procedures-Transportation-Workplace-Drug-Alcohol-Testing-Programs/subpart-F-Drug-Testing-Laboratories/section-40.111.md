@@ -1,8 +1,6 @@
 ##### § 40.111 When and how must a laboratory disclose statistical summaries and other information it maintains? #####
 
-Link to an amendment published at 88 FR 27645, May 2, 2023.
-
-(a) As a laboratory, you must transmit an aggregate statistical summary, by employer, of the data listed in Appendix B to this part to the employer on a semi-annual basis.
+(a) As a laboratory, you must transmit an aggregate statistical summary, by employer, of the data listed in appendix D of this part with respect to each specimen type for which you conduct tests to the employer on a semi-annual basis.
 
 (1) The summary must not reveal the identity of any employee.
 
@@ -16,6 +14,6 @@ Link to an amendment published at 88 FR 27645, May 2, 2023.
 
 (c) You must also release information to appropriate parties as provided in §§ 40.329 and 40.331.
 
-(d) As a laboratory, you must transmit an aggregate statistical summary of the data listed in Appendix C to this part to DOT on a semi-annual basis. The summary must be sent by January 31 of each year for July 1 through December 31 of the prior year; it must be sent by July 31 of each year for January 1 through June 30 of the current year.
+(d) As a laboratory, you must transmit an aggregate statistical summary listed in appendix E of this part for each specimen type for which you conduct testing to DOT on a semi-annual basis. The summary must be sent by January 31 of each year for July 1 through December 31 of the prior year. It must be sent by July 31 of each year for January 1 through June 30 of the current year. If you withdraw or are removed from NLCP's laboratory certification during a reporting period, you must provide the aggregate statistical summary to the DOT-regulated employers and to ODAPC for the last reporting period in which you conducted DOT-regulated testing.
 
-[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35971, June 25, 2008]
+[65 FR 79526, Dec. 19, 2000, as amended at 73 FR 35971, June 25, 2008; 88 FR 27645, May 2, 2023]
