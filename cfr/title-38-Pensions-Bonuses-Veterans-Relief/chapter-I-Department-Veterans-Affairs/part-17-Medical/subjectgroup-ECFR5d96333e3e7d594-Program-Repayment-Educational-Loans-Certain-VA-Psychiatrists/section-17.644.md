@@ -20,4 +20,4 @@
 
 (c) *Notification of selection.* VA will notify applicants that they have been selected in writing. An individual becomes a participant in the PREL once the participant submits and VA signs the acceptance of conditions.
 
-[81 FR 66820, Sept. 29, 2016, as amended at 82 FR 4795, Jan. 17, 2017]
+[81 FR 66820, Sept. 29, 2016, as amended at 82 FR 4796, Jan. 17, 2017]

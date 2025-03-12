@@ -1,6 +1,6 @@
 ##### § 410.40 Coverage of ambulance services. #####
 
-(a)*Basic rules.* Medicare Part B covers ambulance services if the following conditions are met:
+(a) *Basic rules.* Medicare Part B covers ambulance services if the following conditions are met:
 
 (1) The supplier meets the applicable vehicle, staff, and billing and reporting requirements of § 410.41 and the service meets the medical necessity and origin and destination requirements of paragraphs (d) and (e) of this section.
 

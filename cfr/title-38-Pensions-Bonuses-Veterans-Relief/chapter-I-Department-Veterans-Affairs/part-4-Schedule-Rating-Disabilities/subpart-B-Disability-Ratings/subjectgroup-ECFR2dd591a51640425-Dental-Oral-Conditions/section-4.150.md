@@ -1,5 +1,7 @@
 ##### § 4.150 Schedule of ratings - dental and oral conditions. #####
 
+Link to an amendment published at 82 FR 36083, Aug. 3, 2017.
+
 |                                                                                                                                                                                                                         |Rating|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 |                                                                        9900 Maxilla or mandible, chronic osteomyelitis or osteoradionecrosis of:                                                                        |      |

@@ -6,7 +6,7 @@
 
 (2) *Direct supervision* means the level of supervision by the physician (or other practitioner) of auxiliary personnel as defined in § 410.32(b)(3)(ii).
 
-(3) *General supervision* means the service is furnished under the physician's (or other practitioner's) overall direction and control, but the physician's (or other practitioner's) presence is not required during the performance of the service.
+(3)  *General supervision* means the service is furnished under the physician's (or other practitioner's) overall direction and control, but the physician's (or other practitioner's) presence is not required during the performance of the service.
 
 (4) *Independent contractor* means an individual (or an entity that has hired such an individual) who performs part-time or full-time work for which the individual (or the entity that has hired such an individual) receives an IRS-1099 form.
 

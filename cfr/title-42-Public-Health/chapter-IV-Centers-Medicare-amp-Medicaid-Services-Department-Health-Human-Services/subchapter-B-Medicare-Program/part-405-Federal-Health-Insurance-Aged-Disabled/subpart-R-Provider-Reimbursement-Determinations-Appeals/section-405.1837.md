@@ -1,6 +1,6 @@
 ##### § 405.1837 Group appeals. #####
 
-(a) *Right to Board hearing as part of a group appeal: Criteria.* A provider (but no other individual, entity, or party) has a right to a Board hearing, as part of a group appeal with other providers, with respect to a final contractor or Secretary determination for the provider's cost reporting period, only if -
+(a)  *Right to Board hearing as part of a group appeal: Criteria.* A provider (but no other individual, entity, or party) has a right to a Board hearing, as part of a group appeal with other providers, with respect to a final contractor or Secretary determination for the provider's cost reporting period, only if—
 
 (1) The provider satisfies individually the requirements for a Board hearing under § 405.1835(a) or § 405.1835(c), except for the $10,000 amount in controversy requirement in § 405.1835(a)(2) or § 405.1835(c)(3).
 
@@ -8,7 +8,7 @@
 
 (3) The amount in controversy is, in the aggregate, $50,000 or more, as determined in accordance with § 405.1839 of this subpart.
 
-(b) *Usage and filing of group appeals* - (1) *Mandatory use of group appeals.* (i) Two or more providers under common ownership or control that wish to appeal to the Board a specific matter at issue that involves a question of fact or interpretation of law, regulations, or CMS Rulings that is common to the providers, and that arises in cost reporting periods that end in the same calendar year, and for which the amount in controversy is $50,000 or more in the aggregate, must bring the appeal as a group appeal.
+(b) *Usage and filing of group appeals*—(1) *Mandatory use of group appeals.* (i) Two or more providers under common ownership or control that wish to appeal to the Board a specific matter at issue that involves a question of fact or interpretation of law, regulations, or CMS Rulings that is common to the providers, and that arises in cost reporting periods that end in the same calendar year, and for which the amount in controversy is $50,000 or more in the aggregate, must bring the appeal as a group appeal.
 
 (ii) One or more of the providers under common ownership or control may appeal more than one cost reporting period with respect to the issue that is the subject of the group appeal for purposes of meeting the $50,000 amount in controversy requirement, and, subject to the Board's discretion, may appeal more than one cost reporting period with respect to the issue that is the subject of the group appeal for other purposes, such as convenience.
 
@@ -22,7 +22,7 @@
 
 (ii) One or more of the providers bringing a group appeal under this paragraph may appeal more than one cost reporting period with respect to the issue that is the subject of the group appeal for purposes of meeting the $50,000 amount in controversy requirement, and, subject to the Board's discretion, may appeal more than one cost reporting period with respect to the issue that is the subject of the group appeal for other purposes, such as convenience.
 
-(3) *Initiating a group appeal.* With respect to group appeals brought under paragraph (b)(1) of this section, one or more commonly owned or operated providers must make a written request for a Board hearing as a group appeal in accordance with paragraph (c) of this section. Any group appeal filed by a single provider must be joined by related providers on common issues in accordance with paragraphs (b)(1) and (e) of this section. With respect to group appeals brought under paragraph (b)(2) of this section, two or more providers may submit -
+(3) *Initiating a group appeal.* With respect to group appeals brought under paragraph (b)(1) of this section, one or more commonly owned or operated providers must make a written request for a Board hearing as a group appeal in accordance with paragraph (c) of this section. Any group appeal filed by a single provider must be joined by related providers on common issues in accordance with paragraphs (b)(1) and (e) of this section. With respect to group appeals brought under paragraph (b)(2) of this section, two or more providers may submit—
 
 (i) A written request for a Board hearing as a group appeal in accordance with paragraph (c) of this section; or
 
@@ -32,7 +32,7 @@
 
 (1) A demonstration that the request satisfies the requirements for a Board hearing as a group appeal, as specified in paragraph (a) of this section.
 
-(2) An explanation (for each specific item at issue) of each provider's dissatisfaction with the final contractor or Secretary determination under appeal, including an account of -
+(2) An explanation (for each specific item at issue) of each provider's dissatisfaction with the final contractor or Secretary determination under appeal, including an account of—
 
 (i) Why the provider believes Medicare payment is incorrect for each disputed item;
 
@@ -42,7 +42,7 @@
 
 (3) A copy of each final contractor or Secretary determination under appeal, and any other documentary evidence the providers consider to satisfy the hearing request requirements of paragraphs (c)(1) and (c)(2) of this section, and a precise description of the one question of fact or interpretation of law, regulations, or CMS Rulings that is common to the particular matter at issue in the group appeal.
 
-(4) A statement that -
+(4) A statement that—
 
 (i) The providers believe they have satisfied all of the requirements for a group appeal hearing request under paragraph (a) of this section and requesting the Board to proceed to make jurisdictional findings in accordance with § 405.1840; or
 
@@ -50,7 +50,7 @@
 
 (d) *Board's preliminary response to group appeal hearing requests.* (1) Upon receipt of a group appeal hearing request, the Board must take any necessary ministerial steps.
 
-(2) The steps, include, for example -
+(2) The steps, include, for example—
 
 (i) Acknowledging the request;
 
@@ -72,7 +72,7 @@
 
 (f) *Limitations on group appeals.* (1) After the date of receipt by the Board of a group appeal hearing request under paragraph (c) of this section, a provider may not add other questions of fact or law to the appeal, regardless of whether the question is common to other members of the appeal (as described in § 405.1837(a)(2) and (g) of this subpart).
 
-(2) The Board may not consider, in one group appeal, more than one question of fact, interpretation of law, regulations, or CMS Rulings that is common to each provider in the appeal. If the Board finds jurisdiction over a group appeal hearing request under § 405.1840 of this subpart -
+(2) The Board may not consider, in one group appeal, more than one question of fact, interpretation of law, regulations, or CMS Rulings that is common to each provider in the appeal. If the Board finds jurisdiction over a group appeal hearing request under § 405.1840 of this subpart—
 
 (i) The Board must determine whether the appeal involves specific matters at issue that raise more than one factual or legal question common to each provider; and
 
