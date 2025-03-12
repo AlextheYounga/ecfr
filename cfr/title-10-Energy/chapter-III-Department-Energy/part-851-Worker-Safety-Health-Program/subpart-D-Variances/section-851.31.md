@@ -2,11 +2,11 @@
 
 (a) *Application.* Contractors desiring a variance from a safety and health standard, or portion thereof, may submit a written application containing the information in paragraphs (c) and (d) of this section to the appropriate CSO.
 
-(1) The CSO may forward the application to the Associate Under Secretary for Environment, Health, Safety and Security.
+(1) The CSO may forward the application to the EHSS Director.
 
-(2) If the CSO does not forward the application to the Associate Under Secretary for Environment, Health, Safety and Security, the CSO must return the application to the contractor with a written statement explaining why the application was not forwarded.
+(2) If the CSO does not forward the application to the EHSS Director, the CSO must return the application to the contractor with a written statement explaining why the application was not forwarded.
 
-(3) Upon receipt of an application from a CSO, the Associate Under Secretary for Environment, Health, Safety and Security must review the application for a variance and make a written recommendation to:
+(3) Upon receipt of an application from a CSO, the EHSS Director must review the application for a variance and make a written recommendation to:
 
 (i) Approve the application;
 
@@ -14,7 +14,7 @@
 
 (iii) Deny the application.
 
-(b) *Defective applications.* If an application submitted pursuant to § 851.31(a) is determined by the Associate Under Secretary for Environment, Health, Safety and Security to be incomplete, the Associate Under Secretary may:
+(b) *Defective applications.* If an application submitted pursuant to § 851.31(a) is determined by the EHSS Director to be incomplete, the EHSS Director may:
 
 (1) Return the application to the contractor with a written explanation of what information is needed to permit consideration of the application; or
 
@@ -30,7 +30,7 @@
 
 (4) A description of the steps that the contractor has taken to inform the affected workers of the application, which must include giving a copy thereof to their authorized representative, posting a statement, giving a summary of the application and specifying where a copy may be examined at the place or places where notices to workers are normally posted; and
 
-(5) A description of how affected workers have been informed of their right to petition the Associate Under Secretary for Environment, Health, Safety and Security or designee for a conference; and
+(5) A description of how affected workers have been informed of their right to petition the EHSS Director or designee for a conference; and
 
 (6) Any requests for a conference, as provided in § 851.34.
 
@@ -66,4 +66,4 @@
 
 (ii) A national defense variance may be granted for a maximum of six months, unless there is a showing that a longer period is essential to carrying out a national defense mission.
 
-[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 2006, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015]
+[71 FR 6931, Feb. 9, 2006; 71 FR 36661, June 28, 2006, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 88 FR 41293, June 26, 2023]

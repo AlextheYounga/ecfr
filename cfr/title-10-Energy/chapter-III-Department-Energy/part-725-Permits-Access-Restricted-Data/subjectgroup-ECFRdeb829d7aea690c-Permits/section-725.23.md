@@ -2,7 +2,7 @@
 
 (a) Neither the United States, nor DOE, nor any person acting on behalf of DOE makes any warranty or other representation, expressed or implied, (1) with respect to the accuracy, completeness or usefulness of any information made available pursuant to an access permit, or (2) that the use of any such information may not infringe privately owned rights.
 
-(b) The Chief Health, Safety and Security Officer, on behalf of DOE, hereby waives such rights with respect to any invention or discovery as it may have pursuant to section 152 of the Act by reason of such invention or discovery having been made or conceived in the course of, in connection with, or resulting from access to Restricted Data received under the terms of an access permit. (Note provisions of § 725.23(d).)
+(b) The Director, Office of Environment, Health, Safety and Security, on behalf of DOE, hereby waives such rights with respect to any invention or discovery as it may have pursuant to section 152 of the Act by reason of such invention or discovery having been made or conceived in the course of, in connection with, or resulting from access to Restricted Data received under the terms of an access permit. (Note provisions of § 725.23(d).)
 
 (c) Each permittee shall:
 
@@ -14,7 +14,7 @@
 
 (4) Obtain and preserve in his files written agreements from all individuals who will have access to Restricted Data under his access permit. The agreement shall be as follows:
 
-In consideration for receiving access to Restricted Data under the access permit issued by the Chief Health, Safety and Security Officer, I hereby agree to:
+In consideration for receiving access to Restricted Data under the access permit issued by the Director, Office of Environment, Health, Safety and Security, I hereby agree to:
 
 (a) Waive all claims for damages under section 183 of title 35 U.S. Code by reason of the imposition of any secrecy order on any patent application, and all claims for just compensation under section 173 of the Atomic Energy Act of 1954, with respect to any invention or discovery made or conceived in the course of, in connection with or resulting from access to Restricted Data received under the terms of the access permit issued to (insert the name of the holder of the access permit);
 
@@ -56,4 +56,4 @@ In case of an access permit authorizing access to restricted data in category C-
 
 (11) In the event the permittee is engaged by DOE to perform work for DOE in the field of the separation of isotopes, the permittee agrees to undertake such measures as DOE may require for the separation of its activities under the access permit from its work for DOE.
 
-[41 FR 56778, Dec. 30, 1976, as amended at 52 FR 30139, Aug. 13, 1987; 71 FR 68732, Nov. 28, 2006]
+[41 FR 56778, Dec. 30, 1976, as amended at 52 FR 30139, Aug. 13, 1987; 71 FR 68732, Nov. 28, 2006; 88 FR 41292, June 26, 2023]

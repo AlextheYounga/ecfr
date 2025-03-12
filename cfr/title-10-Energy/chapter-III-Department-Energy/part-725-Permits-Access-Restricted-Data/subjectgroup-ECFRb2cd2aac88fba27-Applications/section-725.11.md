@@ -1,6 +1,6 @@
 ##### § 725.11 Applications. #####
 
-(a) Any person desiring access to Restricted Data pursuant to this part should submit an application (Form 378), in triplicate, for an access permit to the Chief Health, Safety and Security Officer, HS-1/Forrestal Building, U.S. Department of Energy, 1000 Independence Ave, SW., Washington, DC 20585.
+(a) Any person desiring access to Restricted Data pursuant to this part should submit an application (Form 378), in triplicate, for an access permit to the Director, Office of Environment, Health, Safety and Security, EHSS-1, U.S. Department of Energy, 1000 Independence Ave, SW., Washington, DC 20585.
 
 (b) Where an individual desires access to Restricted Data for use in the performance of his duties as an employee, the application for an access permit must be filed in the name of his employer.
 
@@ -40,4 +40,4 @@
 
 (f) Each application shall contain complete and accurate disclosure with respect to the real party or parties in interest and as to all other matters and things required to be disclosed.
 
-[41 FR 56778, Dec. 30, 1976, as amended at 71 FR 68732, Nov. 28, 2006]
+[41 FR 56778, Dec. 30, 1976, as amended at 71 FR 68732, Nov. 28, 2006; 88 FR 41293, June 26, 2023]

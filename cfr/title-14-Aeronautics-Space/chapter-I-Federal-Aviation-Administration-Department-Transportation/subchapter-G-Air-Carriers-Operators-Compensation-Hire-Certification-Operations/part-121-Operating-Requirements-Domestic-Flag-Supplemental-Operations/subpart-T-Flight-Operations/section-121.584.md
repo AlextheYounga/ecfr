@@ -1,5 +1,7 @@
 ##### § 121.584 Requirement to view the area outside the flightdeck door. #####
 
+Link to an amendment published at 88 FR 41308, June 26, 2023.
+
 From the time the airplane moves in order to initiate a flight segment through the end of that flight segment, no person may unlock or open the flightdeck door unless:
 
 (a) A person authorized to be on the flightdeck uses an approved audio procedure and an approved visual device to verify that:

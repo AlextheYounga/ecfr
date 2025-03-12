@@ -45,3 +45,5 @@
 (13) Any information solely relating to the public and worker health and safety or to environmental quality; and
 
 (14) The simple association or simple presence of any material (*i.e.,* element, compound, isotope, alloy, etc.) at a specified DOE site.
+
+Editorial Note:At 88 FR 41294, June 26, 2023, § 1045.80(a) was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

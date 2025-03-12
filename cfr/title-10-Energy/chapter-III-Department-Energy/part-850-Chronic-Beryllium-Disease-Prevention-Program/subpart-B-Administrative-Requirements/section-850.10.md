@@ -8,7 +8,7 @@
 
 (1) The initial CBDPP and any updates are deemed approved 90 days after submission if they are not specifically approved or rejected by DOE earlier.
 
-(2) The responsible employer must furnish a copy of the approved CBDPP, upon request, to the DOE Associate Under Secretary for Environment, Health, Safety and Security or designee, DOE program offices, and affected workers or their designated representatives.
+(2) The responsible employer must furnish a copy of the approved CBDPP, upon request, to the DOE Director, Office of Environment, Health, Safety and Security or designee, DOE program offices, and affected workers or their designated representatives.
 
 (c) *Update.* The responsible employer must submit an update of the CBDPP to the appropriate Head of DOE Field Element for review and approval whenever a significant change or significant addition to the CBDPP is made or a change in contractors occurs. The Head of DOE Field Element must review the CBDPP at least annually and, if necessary, require the responsible employer to update the CBDPP.
 
@@ -18,4 +18,4 @@
 
 (2) Upon timely request, bargain concerning implementation of this part, consistent with the Federal labor laws.
 
-[64 FR 68905, Dec. 8, 1999, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5008, Jan. 30, 2015]
+[64 FR 68905, Dec. 8, 1999, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023]

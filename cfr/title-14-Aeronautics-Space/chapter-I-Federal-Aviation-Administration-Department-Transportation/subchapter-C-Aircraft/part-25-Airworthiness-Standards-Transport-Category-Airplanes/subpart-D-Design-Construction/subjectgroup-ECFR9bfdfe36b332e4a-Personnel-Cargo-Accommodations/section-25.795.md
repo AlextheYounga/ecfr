@@ -1,5 +1,7 @@
 ##### § 25.795 Security considerations. #####
 
+Link to an amendment published at 88 FR 41308, June 26, 2023.
+
 (a) *Protection of flightcrew compartment.* If a flightdeck door is required by operating rules:
 
 (1) The bulkhead, door, and any other accessible boundary separating the flightcrew compartment from occupied areas must be designed to resist forcible intrusion by unauthorized persons and be capable of withstanding impacts of 300 joules (221.3 foot pounds).

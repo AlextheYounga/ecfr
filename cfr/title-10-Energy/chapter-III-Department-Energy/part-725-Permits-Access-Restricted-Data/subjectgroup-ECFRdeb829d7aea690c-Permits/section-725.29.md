@@ -1,5 +1,5 @@
 ##### § 725.29 Suspension, revocation and termination of permits. #####
 
-The Chief Health, Safety and Security Officer may revoke or suspend any access permit for any material false statement in the application or in any report submitted to DOE pursuant to the regulations in this part or because of conditions or facts which would have warranted a refusal to grant the permit in the first instance, or for violation of any of the terms and conditions of the Atomic Energy Act of 1954 or rules, regulations or orders issued pursuant thereto. A permittee should request termination of his permit when he no longer requires Restricted Data for use in his business, trade or profession.
+The Director, Office of Environment, Health, Safety and Security may revoke or suspend any access permit for any material false statement in the application or in any report submitted to DOE pursuant to the regulations in this part or because of conditions or facts which would have warranted a refusal to grant the permit in the first instance, or for violation of any of the terms and conditions of the Atomic Energy Act of 1954 or rules, regulations or orders issued pursuant thereto. A permittee should request termination of his permit when he no longer requires Restricted Data for use in his business, trade or profession.
 
-[41 FR 56778, Dec. 30, 1976, as amended at 71 FR 68732, Nov. 28, 2006]
+[41 FR 56778, Dec. 30, 1976, as amended at 71 FR 68732, Nov. 28, 2006; 88 FR 41292, June 26, 2023]

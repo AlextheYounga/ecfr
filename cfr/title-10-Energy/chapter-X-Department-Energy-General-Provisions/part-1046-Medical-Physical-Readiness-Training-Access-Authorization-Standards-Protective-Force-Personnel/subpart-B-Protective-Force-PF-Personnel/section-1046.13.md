@@ -6,7 +6,7 @@
 
 (2) Evaluations of incumbent security police officers must include a medical history, the results of the examination, and a formal written determination.
 
-(3) A site standard form approved by AU-1 must be used, and pertinent negatives must be documented on the form.
+(3) A site standard form approved by EHSS-1 must be used, and pertinent negatives must be documented on the form.
 
 (4) The Medical Certification Standards are the minimum medical standards to be used in determining whether applicants and incumbent PF personnel can effectively perform, with or without reasonable accommodation, all essential functions of normal and emergency duties without imposing an undue hardship on the employer or posing a direct threat to the PF member or others, the facility, or the general public. All reasonable accommodations as defined in this part must be approved in writing by the PF contractor with a determination that the use of the device is compatible with all actions associated with emergency and protective equipment without creating a hardship for the contractor. The Designated Physician and PPMD must determine that the reasonable accommodation is consistent with the medical standard without creating a direct threat to the individual or to others.
 
@@ -64,11 +64,11 @@
 
 (10) *Endocrine/nutritional/metabolic.* Ability to accommodate to changing work and meal schedules without potential or actual incapacity. Status adequate to meet the stresses and demands of assigned normal and emergency job duties. A full evaluation and approval of reasonable accommodation by the PPMD is required for hiring and retention when metabolic syndrome is identified and/or when diabetes is controlled by other than diet.
 
-(f) *Additional medical or physical tests.* For those facilities where it is necessary to determine the medical qualification of SPOs or SPO applicants to perform special assignment duties which might require exposure to unusually high levels of stress or physical exertion, Field Elements may develop more stringent medical qualification requirements or additional medical or physical tests, in collaboration with the PPMD, as necessary for such determinations. All such additional qualification requirements must be coordinated with the Office of Health, Safety and Security prior to application.
+(f) *Additional medical or physical tests.* For those facilities where it is necessary to determine the medical qualification of SPOs or SPO applicants to perform special assignment duties which might require exposure to unusually high levels of stress or physical exertion, Field Elements may develop more stringent medical qualification requirements or additional medical or physical tests, in collaboration with the PPMD, as necessary for such determinations. All such additional qualification requirements must be coordinated with the Office of Environment, Health, Safety and Security prior to application.
 
 (g) *Medical examination procedures and requirements.* (1) The medical examinations required for certification must be performed at the following intervals:
 
-(i) Applicants for PF member positions must undergo a comprehensive medical examination, as specified herein. The Chief Health, Safety and Security Officer or designee, the Chief, Defense Nuclear Security in the case of NNSA, and/or the PPMD may require additional evaluations.
+(i) Applicants for PF member positions must undergo a comprehensive medical examination, as specified herein. The Director, Office of Environment, Health, Safety and Security or designee, the Chief, Defense Nuclear Security in the case of NNSA, and/or the PPMD may require additional evaluations.
 
 (ii) After initial certification, each SO must be medically examined and recertified at least every two years or more often if the PPMD so requires. This initial certification date becomes the SO's anniversary date. Medical certification remains valid through 30 days beyond the anniversary date or for the period indicated by the PPMD if less than twenty-four months.
 
@@ -104,4 +104,4 @@
 
 (6) The PF contractor must offer a health status exit review for all employees leaving PF service. If the employee desires the review, it must be conducted by the PPMD or Designated Physician. The review, which may be conducted in conjunction with the requirements of other parts, must include all of the medical standards for the PF position being vacated. The reason(s) for any health status exit review not being performed must be documented (e.g., employee declined to have the review conducted).
 
-[78 FR 55184, Sept. 10, 2013,, as amended at 80 FR 57083, Sept. 22, 2015]
+[78 FR 55184, Sept. 10, 2013, as amended at 80 FR 57083, Sept. 22, 2015; 88 FR 41295, June 26, 2023]

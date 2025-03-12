@@ -12,11 +12,11 @@
 
 (c) The Under Secretary for Nuclear Security, or his/her designee, must:
 
-(1) Provide advice and assistance to the Associate Under Secretary for Environment, Health, Safety and Security regarding policies, standards, and guidance for all nuclear explosive duty requirements; and
+(1) Provide advice and assistance to the Director, Office of Environment, Health, Safety and Security regarding policies, standards, and guidance for all nuclear explosive duty requirements; and
 
 (2) Be responsible for implementation of all nuclear explosive duty safety requirements.
 
-(d) The Associate Under Secretary for Environment, Health, Safety and Security, or designee, is responsible for HRP policy and must:
+(d) The Director, Office of Environment, Health, Safety and Security, or designee, is responsible for HRP policy and must:
 
 (1) Ensure consistency of the HRP throughout the DOE and NNSA;
 
@@ -49,3 +49,5 @@
 (3) Report any observed or reported behavior or condition of another HRP-certified individual that could indicate a reliability concern, including those behaviors and conditions listed in § 712.13(c), to a supervisor, the Designated Physician, the Designated Psychologist, the SOMD, or the HRP management official; and
 
 (4) Report to a supervisor, the Designated Physician, the Designated Psychologist, the SOMD, or the HRP management official, any behavior or condition, including those listed in § 712.13(c), that may affect his or her ability to perform HRP duties.
+
+[83 FR 18200, Apr. 26, 2018, as amended at 88 FR 41292, June 26, 2023]

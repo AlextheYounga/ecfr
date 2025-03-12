@@ -1,0 +1,3 @@
+##### § 1272.4 Waiver. #####
+
+The prohibitions set forth in § 1272.2 may be waived for any toy, look-alike, or imitation firearm that will be used only in the theatrical, movie, or television industry. A request for such a waiver should be made, in writing, by email to *RegulatoryEnforcement@cpsc.gov* and by physical mail to U.S. Consumer Product Safety Commission, Office of Compliance and Field Operations, Regulatory Enforcement Division, 7500 Lindbergh Dr., Unit-A, Gaithersburg, MD 20879-5413. The request must include a sworn affidavit which states that the toy, look-alike, or imitation firearm will be used only in the theatrical, movie, or television industry. A sample of the item must be included with the physically mailed request.

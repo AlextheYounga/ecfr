@@ -18,8 +18,8 @@
 
 (b) *Nominations.* The requirements of § 1046.4(b) and (c) must be followed by the individuals nominated for Designated Physician positions.
 
-(c) *Approval in lieu of nomination.* Designated Physicians approved under the provisions of 10 CFR part 712, “Human Reliability Program,” will also satisfy the requirement for nomination to, and approval by, DOE/NNSA under this part. The employer must notify AU-1 through the ODFSA if the physician will be fulfilling the role of Designated Physician for this part in addition to fulfilling a role for another part (e.g., 10 CFR part 712). For NNSA the notification must be sent to the NNSA organization responsible for occupational health and safety with a courtesy copy to AU-1.
+(c) *Approval in lieu of nomination.* Designated Physicians approved under the provisions of 10 CFR part 712, “Human Reliability Program,” will also satisfy the requirement for nomination to, and approval by, DOE/NNSA under this part. The employer must notify EHSS-1 through the ODFSA if the physician will be fulfilling the role of Designated Physician for this part in addition to fulfilling a role for another part (e.g., 10 CFR part 712). For NNSA the notification must be sent to the NNSA organization responsible for occupational health and safety with a courtesy copy to EHSS-1.
 
 (d) *Self reporting.* The self-reporting requirements of § 1046.4(d) must be followed by incumbent Designated Physicians.
 
-[78 FR 55184, Sept. 10, 2013,, as amended at 80 FR 57083, Sept. 22, 2015]
+[78 FR 55184, Sept. 10, 2013, as amended at 80 FR 57083, Sept. 22, 2015; 88 FR 41295, June 26, 2023]

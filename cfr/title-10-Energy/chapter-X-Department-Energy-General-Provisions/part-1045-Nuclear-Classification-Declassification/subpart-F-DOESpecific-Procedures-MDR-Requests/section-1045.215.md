@@ -7,3 +7,5 @@ An appeal for NSI requested under the provisions of E.O. 13526 or successor orde
 (b) The Associate Under Secretary for Environment, Health, Safety and Security's action on an appeal must be in writing and set forth the reason for the decision. DOE may refuse to confirm or deny the existence or nonexistence of requested information whenever the fact of its existence or nonexistence is itself classified under E.O. 13526 or successor orders.
 
 (c) The requester has the right to appeal a final DOE decision, or a failure to provide a determination on an appeal within the allotted time, to the ISCAP for those appeals dealing with NSI. In cases where NSI documents also contain RD, FRD, or TFNI, the portions of the document containing RD, FRD, or TFNI must be deleted prior to forwarding the NSI and unclassified portions to the ISCAP for review.
+
+Editorial Note:At 88 FR 41295, June 26, 2023, § 1045.215 (a) and (b) was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

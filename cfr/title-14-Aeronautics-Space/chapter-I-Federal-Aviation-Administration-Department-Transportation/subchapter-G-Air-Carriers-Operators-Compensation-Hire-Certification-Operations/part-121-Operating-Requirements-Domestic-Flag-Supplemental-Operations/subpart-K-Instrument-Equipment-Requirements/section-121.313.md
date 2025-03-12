@@ -1,5 +1,7 @@
 ##### § 121.313 Miscellaneous equipment. #####
 
+Link to an amendment published at 88 FR 41308, June 26, 2023.
+
 No person may conduct any operation unless the following equipment is installed in the airplane:
 
 (a) If protective fuses are installed on an airplane, the number of spare fuses approved for that airplane and appropriately described in the certificate holder's manual.

@@ -26,4 +26,6 @@
 
 (3) Other actions as the Director deems appropriate.
 
-(h) The Director shall act pursuant to one of these options within 30 calendar days of the receipt of the Manager's notification unless an extension is granted by the Deputy Associate Under Secretary for Environment, Health, Safety and Security.
+(h) The Director shall act pursuant to one of these options within 30 calendar days of the receipt of the Manager's notification unless an extension is granted by the Deputy Director for Security, Office of Environment, Health, Safety and Security.
+
+[81 FR 71335, Oct. 17, 2016, as amended at 88 FR 41292, June 26, 2023]

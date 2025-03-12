@@ -44,7 +44,7 @@
 
 (4) Observe monitoring or measuring of hazardous agents and have the results of their own exposure monitoring;
 
-(5) Have a representative authorized by employees accompany the Director or his authorized personnel during the physical inspection of the workplace for the purpose of aiding the inspection. When no authorized employee representative is available, the Director or his authorized representative must consult, as appropriate, with employees on matters of worker safety and health;
+(5) Have a representative authorized by employees accompany the Enforcement Director or his authorized personnel during the physical inspection of the workplace for the purpose of aiding the inspection. When no authorized employee representative is available, the Enforcement Director or his authorized representative must consult, as appropriate, with employees on matters of worker safety and health;
 
 (6) Request and receive results of inspections and accident investigations;
 
@@ -53,3 +53,5 @@
 (8) Decline to perform an assigned task because of a reasonable belief that, under the circumstances, the task poses an imminent risk of death or serious physical harm to the worker coupled with a reasonable belief that there is insufficient time to seek effective redress through normal hazard reporting and abatement procedures; and
 
 (9) Stop work when the worker discovers employee exposures to imminently dangerous conditions or other serious hazards; provided that any stop work authority must be exercised in a justifiable and responsible manner in accordance with procedures established in the approved worker safety and health program.
+
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 41293, June 26, 2023]

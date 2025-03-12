@@ -16,4 +16,6 @@
 
 (3) If appropriate, describe the alternate or equivalent means for meeting the requirement.
 
-(c) DOE employees must submit such requests according to internal directives. DOE contractors must submit such requests according to directives incorporated into their contracts. Other individuals must submit such requests to the Office of Classification, Office of Health, Safety and Security, U.S. Department of Energy, 1000 Independence Ave., SW., Washington, DC 20585-1290. The Office of Classification's decision must be made within 30 days.
+(c) DOE employees must submit such requests according to internal directives. DOE contractors must submit such requests according to directives incorporated into their contracts. Other individuals must submit such requests to the Office of Classification, Office of Environment, Health, Safety and Security, U.S. Department of Energy, 1000 Independence Ave., SW., Washington, DC 20585-1290. The Office of Classification's decision must be made within 30 days.
+
+[73 FR 32641, June 10, 2008, as amended at 88 FR 41294, June 26, 2023]

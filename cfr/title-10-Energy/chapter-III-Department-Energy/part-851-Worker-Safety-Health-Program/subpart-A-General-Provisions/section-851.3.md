@@ -14,7 +14,7 @@
 
 *Compliance order* means an order issued by the Secretary to a contractor that mandates a remedy, work stoppage, or other action to address a situation that violates, potentially violates, or otherwise is inconsistent with a requirement of this part.
 
-*Consent order* means any written document, signed by the Director and a contractor, containing stipulations or conclusions of fact or law and a remedy acceptable to both DOE and the contractor.
+*Consent order* means any written document, signed by the Enforcement Director and a contractor, containing stipulations or conclusions of fact or law and a remedy acceptable to both DOE and the contractor.
 
 *Construction* means combination of erection, installation, assembly, demolition, or fabrication activities involved to create a new facility or to alter, add to, rehabilitate, dismantle, or remove an existing facility. It also includes the alteration and repair (including dredging, excavating, and painting) of buildings, structures, or other real property, as well as any construction, demolition, and excavation activities conducted as part of environmental restoration or remediation efforts.
 
@@ -30,11 +30,13 @@
 
 *Covered workplace* means a place at a DOE site where a contractor is responsible for performing work in furtherance of a DOE mission.
 
-*Director* means a DOE Official to whom the Secretary assigns the authority to investigate the nature and extent of compliance with the requirements of this part.
+*Director of the Office of Enforcement (Enforcement Director)* means the DOE official designated by the Secretary, or that person's designee, to carry out the enforcement authorities reflected in subpart E of this part.
+
+*Director of the Office of Environment, Health, Safety and Security (EHSS Director*) means the DOE official to whom the Secretary assigns the authority to develop policy and technical assistance; safety analysis; and organizational safety and security programs.
 
 *DOE* means the United States Department of Energy, including the National Nuclear Security Administration.
 
-*DOE Enforcement Officer* means a DOE official to whom the Director assigns the authority to investigate the nature and extent of compliance with the requirements of this part.
+*DOE Enforcement Officer* means a DOE official to whom the Enforcement Director assigns the authority to investigate the nature and extent of compliance with the requirements of this part.
 
 *DOE site* means a DOE-owned or -leased area or location or other area or location controlled by DOE where activities and operations are performed at one or more facilities or places by a contractor in furtherance of a DOE mission.
 
@@ -90,7 +92,7 @@
 
 *Unauthorized discharge* means the discharge of a firearm under circumstances other than: (1) during firearms training with the firearm properly pointed down range (or toward a target), or (2) the intentional firing at hostile parties when deadly force is authorized.
 
-*Under Secretary* means, with respect to a particular situation, the DOE official who serves as the Under Secretary for Science and Energy, or Under Secretary for Management and Performance, or the Under Secretary for Nuclear Security/Administrator for National Nuclear Security Administration who has primary line management responsibility for a contractor.
+*Under Secretary* means, with respect to a particular situation, the DOE official who serves as the Under Secretary for Science and Innovation, or Under Secretary for Infrastructure, or the Under Secretary for Nuclear Security/Administrator for National Nuclear Security Administration who has primary line management responsibility for a contractor.
 
 *Variance* means an exception to compliance with some part of a safety and health standard granted by the Under Secretary to a contractor.
 
@@ -100,4 +102,4 @@
 
 (b) Terms undefined in this part that are defined in the Atomic Energy Act of 1954 must have the same meaning as under that Act.
 
-[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 5008, Jan. 30, 2015]
+[71 FR 6931, Feb. 9, 2006, as amended at 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023]

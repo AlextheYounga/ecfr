@@ -16,11 +16,11 @@
 
 (d) Psychological evaluations must be conducted:
 
-(1) For initial certification. This psychological evaluation consists of a generally accepted psychological assessment (test) approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee and a semi-structured interview.
+(1) For initial certification. This psychological evaluation consists of a generally accepted psychological assessment (test) approved by the Director, Office of Environment, Health, Safety and Security or his or her designee and a semi-structured interview.
 
 (2) For recertification. This psychological evaluation consists of a semi-structured interview, which is conducted annually at the time of the medical examination.
 
-(3) Every third year. The medical assessment for recertification must include a generally accepted psychological assessment (test) approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee.
+(3) Every third year. The medical assessment for recertification must include a generally accepted psychological assessment (test) approved by the Director, Office of Environment, Health, Safety and Security or his or her designee.
 
 (4) When the SOMD determines that additional psychological or psychiatric evaluations are required to resolve HRP concerns as listed in § 712.13(c).
 
@@ -38,4 +38,4 @@
 
 (3) Any periodic monitoring plan, approved by the Designated Physician or the Designated Psychologist and the SOMD, used to evaluate the reliability of the individual.
 
-[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006; 83 FR 18208, Apr. 26, 2018]
+[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006; 83 FR 18208, Apr. 26, 2018; 88 FR 41292, June 26, 2023]

@@ -16,19 +16,19 @@ The following definitions are used in this part:
 
 *Alcohol use disorder* means a maladaptive pattern in which a person's intake of alcohol is great enough to damage or adversely affect physical or mental health or personal, social, or occupational function; or when alcohol has become a prerequisite to normal function.
 
-*Associate Under Secretary for Environment, Health, Safety and Security* means the DOE individual with responsibility for policy and quality assurance for DOE occupational medical programs.
-
 *Case chronology* means a written recitation of all actions that support a recommendation to revoke an individual's HRP certification under § 712.19.
 
 *Certification* means the formal action the HRP certifying official takes that permits an individual to perform HRP duties after it is determined that the individual meets the requirements for certification under this part.
 
 *Contractor* means contractors and subcontractors at all tiers and any industrial, educational, commercial, or other entity, grantee, or licensee, including an employee that has executed an agreement with the Federal government for the purpose of performing under a contract, license, or other arrangement.
 
-*Designated Physician* means a licensed doctor of medicine or osteopathy who has been nominated by the Site Occupational Medical Director (SOMD) and approved by the Manager or designee, with the concurrence of the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee to provide professional expertise in occupational medicine for the HRP.
+*Designated Physician* means a licensed doctor of medicine or osteopathy who has been nominated by the Site Occupational Medical Director (SOMD) and approved by the Manager or designee, with the concurrence of the Director, Office of Environment, Health, Safety and Security or his or her designee to provide professional expertise in occupational medicine for the HRP.
 
-*Designated Psychologist* means a licensed Ph.D., or Psy.D., in clinical psychology who has been nominated by the SOMD and approved by the Manager or designee, with the concurrence of the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee to provide professional expertise in the area of psychological assessment for the HRP.
+*Designated Psychologist* means a licensed Ph.D., or Psy.D., in clinical psychology who has been nominated by the SOMD and approved by the Manager or designee, with the concurrence of the Director, Office of Environment, Health, Safety and Security or his or her designee to provide professional expertise in the area of psychological assessment for the HRP.
 
 *Diagnostic and Statistical Manual of Mental Disorders* means the current version of the American Psychiatric Association's manual containing definitions of psychiatric terms and diagnostic criteria of mental disorders.
+
+*Director, Office of Environment, Health, Safety and Security* means the DOE individual with responsibility for policy and quality assurance for DOE occupational medical programs.
 
 *Drug abuse* means use of an illegal drug or misuse of legal drugs.
 
@@ -117,3 +117,5 @@ The following definitions are used in this part:
 *Unacceptable damage* means an incident that could result in a nuclear detonation; high-explosive detonation or deflagration from a nuclear explosive; the diversion, misuse, or removal of Category I special nuclear material; or an interruption of nuclear explosive operations with a significant impact on national security.
 
 *Unsafe practice* means either a human action departing from prescribed hazard controls or job procedures or practices, or an action causing a person unnecessary exposure to a hazard.
+
+[83 FR 18200, Apr. 26, 2018, as amended at 88 FR 41292, June 26, 2023]

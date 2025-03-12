@@ -26,8 +26,8 @@
 
 (f) The responsible employer must maintain all records required by this part in current and accessible electronic systems, which include the ability readily to retrieve data in a format that maintains confidentiality.
 
-(g) The responsible employer must transmit all records generated as required by this rule, in a format that protects the confidentiality of individuals, to the DOE Chief Health, Safety and Security Officer on request.
+(g) The responsible employer must transmit all records generated as required by this rule, in a format that protects the confidentiality of individuals, to the Director, Office of Environment, Health, Safety and Security on request.
 
 (h) The responsible employer must semi-annually transmit to the Office of Domestic and International Health Studies, Office of Environment, Health, Safety and Security an electronic registry of beryllium-associated workers that protects confidentiality, and the registry must include, but is not limited to, a unique identifier, date of birth, gender, site, job history, medical screening test results, exposure measurements, and results of referrals for specialized medical evaluations.
 
-[64 FR 68905, Dec. 8, 1999, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5008, Jan. 30, 2015]Editorial Note:At 80 FR 5008, Jan. 30, 2015, § 850.39 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[64 FR 68905, Dec. 8, 1999, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023]Editorial Note:At 80 FR 5008, Jan. 30, 2015, § 850.39 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

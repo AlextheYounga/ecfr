@@ -26,9 +26,9 @@
 
 (1) The Manager, with the concurrence of the Director, shall grant or reinstate the individual's access authorization within 30 calendar days of the Administrative Judge's decision becoming final, or
 
-(2) The Manager or the Director may file a written request with the Deputy Associate Under Secretary for Environment, Health, Safety and Security for review of the decision by the Appeal Panel, along with statement required by paragraph (e) of this section, within 30 calendar days of the individual's receipt of the Manager's notice.
+(2) The Manager or the Director may file a written request with the Deputy Director for Security, Office of Environment, Health, Safety and Security for review of the decision by the Appeal Panel, along with statement required by paragraph (e) of this section, within 30 calendar days of the individual's receipt of the Manager's notice.
 
-(3) The Deputy Associate Under Secretary for Environment, Health, Safety and Security may, for good cause shown, extend the time for filing a request for review of the decision by the Appeal Panel at the request of the Manager or Director, provided the request for an extension of time is filed by the Manager or Director within 30 calendar days of the receipt of the Manager's notice;
+(3) The Deputy Director for Security, Office of Environment, Health, Safety and Security may, for good cause shown, extend the time for filing a request for review of the decision by the Appeal Panel at the request of the Manager or Director, provided the request for an extension of time is filed by the Manager or Director within 30 calendar days of the receipt of the Manager's notice;
 
 (4) The Administrative Judge's decision shall constitute final action, and not be subject to review or appeal, if the Manager or Director does not:
 
@@ -39,3 +39,5 @@
 (d) A copy of any request for review of the individual's case by the Appeal Panel filed by the Manager or the Director shall be provided to the individual by the Manager.
 
 (e) The party filing a request for review by the Appeal Panel shall include with the request a statement identifying the issues upon which the appeal is based. A copy of the request and statement shall be served on the other party, who may file a response with the Appeal Panel within 20 calendar days of receipt of the statement.
+
+[81 FR 71335, Oct. 17, 2016, as amended at 88 FR 41292, June 26, 2023]

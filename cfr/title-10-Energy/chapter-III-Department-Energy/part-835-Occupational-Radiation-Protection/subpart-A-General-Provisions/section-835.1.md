@@ -14,7 +14,7 @@
 
 (5) Background radiation, radiation doses received as a patient for the purposes of medical diagnosis or therapy, or radiation doses received from participation as a subject in medical research programs; or
 
-(6) Radioactive material on or within material, equipment, and real property which is approved for release when the radiological conditions of the material, equipment, and real property have been documented to comply with the criteria for release set forth in a DOE authorized limit which has been approved by a Secretarial Officer in consultation with the Associate Under Secretary for Environment, Health, Safety and Security.
+(6) Radioactive material on or within material, equipment, and real property which is approved for release when the radiological conditions of the material, equipment, and real property have been documented to comply with the criteria for release set forth in a DOE authorized limit which has been approved by a Secretarial Officer in consultation with the Director, Office of Environment, Health, Safety and Security.
 
 (7) Radioactive material transportation not performed by DOE or a DOE contractor.
 
@@ -26,4 +26,4 @@
 
 (2) In accordance with Department of Transportation regulations or DOE orders that govern such movements.
 
-[58 FR 65485, Dec. 14, 1993, as amended at 63 FR 59679, Nov. 4, 1998; 71 FR 68733, Nov. 28, 2006; 72 FR 31922, June 8, 2007; 80 FR 5008, Jan. 30, 2015]
+[58 FR 65485, Dec. 14, 1993, as amended at 63 FR 59679, Nov. 4, 1998; 71 FR 68733, Nov. 28, 2006; 72 FR 31922, June 8, 2007; 80 FR 5008, Jan. 30, 2015; 88 FR 41293, June 26, 2023]

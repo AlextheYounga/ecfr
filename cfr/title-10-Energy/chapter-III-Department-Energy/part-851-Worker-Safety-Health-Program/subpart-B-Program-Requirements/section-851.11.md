@@ -20,7 +20,7 @@
 
 (1) Beginning May 25, 2007, no work may be performed at a covered workplace unless an approved worker safety and health program is in place for the workplace.
 
-(2) Contractors must send a copy of the approved program to the Associate Under Secretary for Environment, Health, Safety and Security.
+(2) Contractors must send a copy of the approved program to the EHSS Director.
 
 (3) Contractors must furnish a copy of the approved worker safety and health program, upon written request, to the affected workers or their designated representatives.
 
@@ -36,4 +36,4 @@
 
 (2) Upon timely request, bargain concerning implementation of this part, consistent with the Federal labor laws.
 
-[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015]
+[71 FR 6931, Feb. 9, 2006, as amended at 71 FR 68733, Nov. 28, 2006; 80 FR 5009, Jan. 30, 2015; 88 FR 41293, June 26, 2023]

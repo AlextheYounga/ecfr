@@ -32,11 +32,11 @@
 
 (f) *Psychological evaluations.* Psychological evaluations must be conducted:
 
-(1) For initial HRP certification. This psychological evaluation consists of a psychological assessment (test), approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee, and a semi-structured interview.
+(1) For initial HRP certification. This psychological evaluation consists of a psychological assessment (test), approved by the Director, Office of Environment, Health, Safety and Security or his or her designee, and a semi-structured interview.
 
 (2) For recertification: This psychological evaluation consists of a semi-structured interview. A psychological assessment (test) may also be conducted as warranted.
 
-(3) Every third year: The medical assessment for recertification must include a psychological assessment (test) approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee. This requirement can be implemented over a 3-year period for individuals who are currently in an HRP position.
+(3) Every third year: The medical assessment for recertification must include a psychological assessment (test) approved by the Director, Office of Environment, Health, Safety and Security or his or her designee. This requirement can be implemented over a 3-year period for individuals who are currently in an HRP position.
 
 (4) When additional psychological or psychiatric evaluations are required by the SOMD to resolve any concerns.
 
@@ -49,3 +49,5 @@
 (2) The HRP certifying official may reinstate HRP certification of an individual who successfully completes an SOMD-approved drug or alcohol rehabilitation program. Recertification is based on the SOMD's follow-up evaluation and recommendation. The individual is also subject to unannounced follow-up tests for illegal drugs or alcohol and relevant counseling for 3 years.
 
 (j) *Medication and treatment.* HRP-certified individuals are required to immediately report to the Designated Physician, the Designated Psychologist, or the SOMD any physical or mental condition requiring medication or treatment. The Designated Physician, the Designated Psychologist, or the SOMD determines if temporary removal of the individual from HRP duties is recommended and follows the procedures pursuant to paragraph (h) of this section.
+
+[83 FR 18200, Apr. 26, 2018, as amended at 88 FR 41292, June 26, 2023]

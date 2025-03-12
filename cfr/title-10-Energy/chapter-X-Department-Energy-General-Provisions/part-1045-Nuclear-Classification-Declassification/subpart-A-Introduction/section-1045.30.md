@@ -6,8 +6,6 @@ The following definitions apply to this part:
 
 *Associate RD Management Official (ARDMO)* means a person appointed in accordance with agency policy to assist the RD Management Official (RDMO) with managing the implementation of this part within that agency.
 
-*Associate Under Secretary for Environment, Health, Safety and Security* means DOE's Associate Under Secretary for Environment, Health, Safety and Security or any person to whom the Associate Under Secretary's duties are delegated.
-
 *Atomic Energy Act (AEA)* means the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 *et seq.*).
 
 *Automatic Declassification* means the declassification of NSI based on a specific date, event, or timeframe, in accordance with E.O. 13526, or prior or successor orders.
@@ -47,6 +45,8 @@ The following definitions apply to this part:
 *DOE* means the Department of Energy.
 
 *Director, Office of Classification,* means DOE's Director, Office of Classification.
+
+*Director, Office of Environment, Health, Safety and Security* means DOE's Director for Environment, Health, Safety and Security or any person to whom the Director's duties are delegated.
 
 *Downgrading* means:
 
@@ -125,3 +125,5 @@ The following definitions apply to this part:
 (2) A joint decision by DOE and DoD that FRD is classified at a higher level than currently identified in a DOE or joint classification guide; or
 
 (3) A decision by an RD Derivative Classifier, (or in the case of TFNI, a person trained to classify TFNI) based on classification guidance, that matter containing RD, FRD, or TFNI is classified at a higher level or category than currently marked. This includes correcting the classification level or category of matter that was never marked as well as matter erroneously marked as unclassified.
+
+[83 FR 66007, Dec. 21, 2018, as amended at 88 FR 41294, June 26, 2023]

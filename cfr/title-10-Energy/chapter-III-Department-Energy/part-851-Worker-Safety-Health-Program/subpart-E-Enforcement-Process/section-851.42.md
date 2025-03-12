@@ -1,6 +1,6 @@
 ##### § 851.42 Preliminary notice of violation. #####
 
-(a) Based on a determination by the Director that there is a reasonable basis to believe a contractor has violated or is continuing to violate a requirement of this part, the Director may issue a preliminary notice of violation (PNOV) to the contractor.
+(a) Based on a determination by the Enforcement Director that there is a reasonable basis to believe a contractor has violated or is continuing to violate a requirement of this part, the Enforcement Director may issue a preliminary notice of violation (PNOV) to the contractor.
 
 (b) A PNOV must indicate:
 
@@ -10,7 +10,7 @@
 
 (3) The proposed remedy for each alleged violation, including the amount of any civil penalty; and
 
-(4) The obligation of the contractor to submit a written reply to the Director within 30 calendar days of receipt of the PNOV.
+(4) The obligation of the contractor to submit a written reply to the Enforcement Director within 30 calendar days of receipt of the PNOV.
 
 (c) A reply to a PNOV must contain a statement of all relevant facts pertaining to an alleged violation.
 
@@ -33,3 +33,5 @@
 (2) The preliminary notice, including any proposed remedies therein, constitutes a final order.
 
 (e) A copy of the PNOV must be prominently posted, once final, at or near the location where the violation occurred until the violation is corrected.
+
+[71 FR 6931, Feb. 9, 2006, as amended at 88 FR 41294, June 26, 2023]

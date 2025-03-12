@@ -4,7 +4,7 @@
 
 (b) An application for a new or renewal award under this solicitation may be submitted at any time to DOE at the address specified in paragraph (c) of this section. New or renewal applications shall receive consideration for funding generally within 6 months but, in any event, no later than 12 months from the date of receipt by DOE.
 
-(c) Except as otherwise provided in a notice of availability, applicants may obtain application forms, described in 602.8(b) of this part, and additional information from the Office of Domestic and International Health Studies, AU-13, U.S. Department of Energy, 1000 Independence Avenue SW., Washington, DC 20585, 301-903-2340, and shall submit applications to the same address.
+(c) Except as otherwise provided in a notice of availability, applicants may obtain application forms, described in 602.8(b) of this part, and additional information from the Office of Domestic and International Health Studies, EHSS-13, U.S. Department of Energy, 1000 Independence Avenue SW., Washington, DC 20585, 301-903-2340, and shall submit applications to the same address.
 
 (d) DOE will publish program notices in the Federal Register regarding the availability of epidemiology and other health studies financial assistance. DOE may also use other means of communication, as appropriate, such as the publication of notices of availability in trade and professional journals and news media.
 
@@ -36,4 +36,4 @@
 
 (g) To be considered for a renewal award under this part, an incumbent recipient shall submit a continuation or renewal application, as provided in § 602.8 (c) and (h) of this part.
 
-[60 FR 5841, Jan. 31, 1995, as amended at 71 FR 68729, Nov. 28, 2006; 80 FR 5007, Jan. 30, 2015]
+[60 FR 5841, Jan. 31, 1995, as amended at 71 FR 68729, Nov. 28, 2006; 80 FR 5007, Jan. 30, 2015; 88 FR 41292, June 26, 2023]

@@ -10,6 +10,4 @@
 
 (e) Coverage issued under VALife that lapses for non-payment of premiums may only be reinstated if the former policyholder submits all premiums in arrears from their respective due dates, plus interest, to reinstate the coverage within two years of the date of the lapse and has not yet reached age 81.
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0918.)
-
-[61 FR 29291, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000; 87 FR 73653, Dec. 1, 2022]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0918)[61 FR 29291, June 10, 1996. Redesignated at 65 FR 7437, Feb. 15, 2000; 65 FR 19659, Apr. 12, 2000; 87 FR 73653, Dec. 1, 2022]

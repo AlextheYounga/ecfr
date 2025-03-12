@@ -6,7 +6,7 @@
 
 (c) Each agency must establish procedures for a person to challenge the classification status of RD, FRD, or TFNI if they believe that the classification status is improper. These procedures must:
 
-(1) Advise the person of their right to submit a challenge directly to the Director, Office of Classification, AU-60/Germantown Building, U.S. Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585, at any time.
+(1) Advise the person of their right to submit a challenge directly to the Director, Office of Classification, EHSS-60/Germantown Building, U.S. Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585, at any time.
 
 (2) Ensure that under no circumstances is an employee subject to retribution for challenging the classification status of RD, FRD, or TFNI;
 
@@ -18,8 +18,10 @@
 
 (ii) In the case of TFNI, the Director, Office of Classification, coordinates with DNI.
 
-(5) If the response to the initial appeal and its justification for classification does not satisfy the person making the challenge, a further appeal may be made to the Associate Under Secretary for Environment, Health, Safety and Security, AU-1/Forrestal Building, U.S. Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585.
+(5) If the response to the initial appeal and its justification for classification does not satisfy the person making the challenge, a further appeal may be made to the Director, Office of Environment, Health, Safety and Security, EHSS-1/Forrestal Building, U.S. Department of Energy, 1000 Independence Avenue SW, Washington, DC 20585.
 
 (d) Agency responses to RD or TFNI challenges are limited to interpreting the application of guidance to derivatively classify matter. Except for DoD, agency responses to FRD are limited to interpreting the application of guidance to derivatively classify matter. An agency may coordinate challenges regarding interpreting guidance for RD or TFNI with DOE, and may coordinate challenges regarding interpreting guidance for FRD with DOE or DoD.
 
 (e) Agencies must forward challenges that require decisions other than interpreting the application of guidance (*e.g.,* challenges to guide topics) to the Director, Office of Classification.
+
+[83 FR 66007, Dec. 21, 2018, as amended at 88 FR 41295, June 26, 2023]
