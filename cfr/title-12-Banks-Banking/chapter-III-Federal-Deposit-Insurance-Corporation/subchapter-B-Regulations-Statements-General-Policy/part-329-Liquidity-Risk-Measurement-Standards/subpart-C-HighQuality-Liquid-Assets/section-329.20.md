@@ -52,7 +52,7 @@
 
 (B) The market haircut demanded by counterparties to secured lending and secured funding transactions that are collateralized by the corporate debt security or equivalent securities of the issuer increasing by no more than 20 percentage points during a 30 calendar-day period of significant stress; and
 
-(iii) Not an obligation of a financial sector entity and not an obligation of a consolidated subsidiary of a financial sector entity; or
+(iii) Not an obligation of a financial sector entity and not an obligation of a consolidated subsidiary of a financial sector entity;
 
 (2) A publicly traded common equity share that is:
 
@@ -60,7 +60,7 @@
 
 (A) The Russell 1000 Index; or
 
-(B) An index that an FDIC-supervised institution supervisor in a foreign jurisdiction recognizes for purposes of including equity shares in level 2B liquid assets under applicable regulatory policy, if the share is held in that foreign jurisdiction;
+(B) An index that an FDIC-supervised institution's supervisor in a foreign jurisdiction recognizes for purposes of including equity shares in level 2B liquid assets under applicable regulatory policy, if the share is held in that foreign jurisdiction;
 
 (ii) Issued in:
 
@@ -78,4 +78,8 @@
 
 (v) If held by a depository institution, is not acquired in satisfaction of a debt previously contracted (DPC); and
 
-(vi) If held by a consolidated subsidiary of a depository institution, the depository institution can include the publicly traded common equity share in its level 2B liquid assets only if the share is held to cover net cash outflows of the depository institution's consolidated subsidiary in which the publicly traded common equity share is held, as calculated by the FDIC-supervised institution under subpart D of this part.
+(vi) If held by a consolidated subsidiary of a depository institution, the depository institution can include the publicly traded common equity share in its level 2B liquid assets only if the share is held to cover net cash outflows of the depository institution's consolidated subsidiary in which the publicly traded common equity share is held, as calculated by the FDIC-supervised institution under subpart D of this part; or
+
+(3) A municipal obligation that is investment grade under 12 CFR part 1 as of the calculation date.
+
+[79 FR 61523, Oct. 10, 2014, as amended at 83 FR 44455, Aug. 31, 2018]

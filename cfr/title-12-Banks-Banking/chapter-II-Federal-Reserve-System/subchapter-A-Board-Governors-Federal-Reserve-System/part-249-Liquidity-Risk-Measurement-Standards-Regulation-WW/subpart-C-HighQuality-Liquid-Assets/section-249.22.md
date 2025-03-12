@@ -68,8 +68,6 @@
 
 (6) The Board-regulated institution has not designated the assets to cover operational costs.
 
-(c) *Securities of public sector entities as eligible HQLA.* A Board-regulated institution may include as eligible HQLA a general obligation security issued by, or guaranteed as to the timely payment of principal and interest by, a public sector entity to the extent that the fair value of the aggregate amount of securities of a single public sector entity issuer included as eligible HQLA is no greater than two times the average daily trading volume during the previous four quarters of all general obligation securities issued by that public sector entity.
+(c) *Maintenance of U.S. eligible HQLA.* A Board-regulated institution is generally expected to maintain as eligible HQLA an amount and type of eligible HQLA in the United States that is sufficient to meet its total net cash outflow amount in the United States under subpart D of this part.
 
-(d) *Maintenance of U.S. eligible HQLA.* A Board-regulated institution is generally expected to maintain as eligible HQLA an amount and type of eligible HQLA in the United States that is sufficient to meet its total net cash outflow amount in the United States under subpart D of this part.
-
-[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016]
+[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016; 83 FR 44455, Aug. 31, 2018]

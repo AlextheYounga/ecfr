@@ -52,21 +52,9 @@
 
 (B) The market haircut demanded by counterparties to secured lending and secured funding transactions that are collateralized by the corporate debt security or equivalent securities of the issuer increasing by no more than 20 percentage points during a 30 calendar-day period of significant stress; and
 
-(iii) Not an obligation of a financial sector entity and not an obligation of a consolidated subsidiary of a financial sector entity; or
+(iii) Not an obligation of a financial sector entity and not an obligation of a consolidated subsidiary of a financial sector entity;
 
-(2) A general obligation security issued by, or guaranteed as to the timely payment of principal and interest by, a public sector entity where the security is:
-
-(i) Investment grade under 12 CFR part 1 as of the calculation date;
-
-(ii) Issued or guaranteed by a public sector entity whose obligations have a proven record as a reliable source of liquidity in repurchase or sales markets during stressed market conditions, as demonstrated by:
-
-(A) The market price of the security or equivalent securities of the issuer declining by no more than 20 percent during a 30 calendar-day period of significant stress; or
-
-(B) The market haircut demanded by counterparties to secured lending and secured funding transactions that are collateralized by the security or equivalent securities of the issuer increasing by no more than 20 percentage points during a 30 calendar-day period of significant stress; and
-
-(iii) Not an obligation of a financial sector entity and not an obligation of a consolidated subsidiary of a financial sector entity, except that a security will not be disqualified as a level 2B liquid asset solely because it is guaranteed by a financial sector entity or a consolidated subsidiary of a financial sector entity if the security would, if not guaranteed, meet the criteria in paragraphs (c)(2)(i) and (ii) of this section.
-
-(3) A publicly traded common equity share that is:
+(2) A publicly traded common equity share that is:
 
 (i) Included in:
 
@@ -90,6 +78,8 @@
 
 (v) If held by a depository institution, is not acquired in satisfaction of a debt previously contracted (DPC); and
 
-(vi) If held by a consolidated subsidiary of a depository institution, the depository institution can include the publicly traded common equity share in its level 2B liquid assets only if the share is held to cover net cash outflows of the depository institution's consolidated subsidiary in which the publicly traded common equity share is held, as calculated by the Board-regulated institution under subpart D of this part.
+(vi) If held by a consolidated subsidiary of a depository institution, the depository institution can include the publicly traded common equity share in its level 2B liquid assets only if the share is held to cover net cash outflows of the depository institution's consolidated subsidiary in which the publicly traded common equity share is held, as calculated by the Board-regulated institution under subpart D of this part; or
 
-[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016]
+(3) A municipal obligation that is investment grade under 12 CFR part 1 as of the calculation date.
+
+[79 FR 61523, 61539, Oct. 10, 2014, as amended at 81 FR 21232, Apr. 11, 2016; 83 FR 44455, Aug. 31, 2018]

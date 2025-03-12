@@ -82,8 +82,6 @@ For the purposes of this part:
 
 *GAAP* means generally accepted accounting principles as used in the United States.
 
-*General obligation* means a bond or similar obligation that is backed by the full faith and credit of a public sector entity.
-
 *High-quality liquid asset (HQLA)* means an asset that is a level 1 liquid asset, level 2A liquid asset, or level 2B liquid asset, in accordance with the criteria set forth in § 249.20.
 
 *HQLA amount* means the HQLA amount as calculated under § 249.21.
@@ -109,6 +107,12 @@ For the purposes of this part:
 *Liquidity facility* means a legally binding written agreement to extend funds at a future date to a counterparty that is made for the purpose of refinancing the debt of the counterparty when it is unable to obtain a primary or anticipated source of funding. A liquidity facility includes an agreement to provide liquidity support to asset-backed commercial paper by lending to, or purchasing assets from, any structure, program or conduit in the event that funds are required to repay maturing asset-backed commercial paper. Liquidity facilities exclude facilities that are established solely for the purpose of general working capital, such as revolving credit facilities for general corporate or working capital purposes. If a facility has characteristics of both credit and liquidity facilities, the facility must be classified as a liquidity facility. *See credit facility.*
 
 *Multilateral development bank* means the International Bank for Reconstruction and Development, the Multilateral Investment Guarantee Agency, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, the European Bank for Reconstruction and Development, the European Investment Bank, the European Investment Fund, the Nordic Investment Bank, the Caribbean Development Bank, the Islamic Development Bank, the Council of Europe Development Bank, and any other entity that provides financing for national or regional development in which the U.S. government is a shareholder or contributing member or which the Board determines poses comparable risk.
+
+*Municipal obligation* means an obligation of:
+
+(1) A state or any political subdivision thereof; or
+
+(2) Any agency or instrumentality of a state or any political subdivision thereof.
 
 *Non-regulated fund* means any hedge fund or private equity fund whose investment adviser is required to file SEC Form PF (Reporting Form for Investment Advisers to Private Funds and Certain Commodity Pool Operators and Commodity Trading Advisors), other than a small business investment company as defined in section 102 of the Small Business Investment Act of 1958 (15 U.S.C. 661 *et seq.*).
 
@@ -280,4 +284,4 @@ For the purposes of this part:
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016; 82 FR 42919, Sept. 12, 2017]
+[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016; 82 FR 42919, Sept. 12, 2017; 83 FR 44455, Aug. 31, 2018]
