@@ -1,5 +1,7 @@
 ##### § 395.2 Definitions. #####
 
+Link to an amendment published at 85 FR 74918, Nov. 24, 2020.
+
 As used in this part, the following words and terms are construed to mean:
 
 *Adverse driving conditions* means snow, ice, sleet, fog, or other adverse weather conditions or unusual road or traffic conditions that were not known, or could not reasonably be known, to a driver immediately prior to beginning the duty day or immediately before beginning driving after a qualifying rest break or sleeper berth period, or to a motor carrier immediately prior to dispatching the driver.

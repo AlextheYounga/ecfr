@@ -62,11 +62,69 @@
 
 (E) A crustacean trap, golden crab trap, or sea bass pot cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
 
-(2) *Non-offset, non-stainless steel circle hooks.* Non-offset, non-stainless steel circle hooks are required to be used when fishing for South Atlantic snapper-grouper with hook-and-line gear and natural baits north of 28° N lat.
+(2) *Spawning SMZs.* (i) Any fishing vessel in a spawning SMZ is prohibited to fish for or harvest species in the snapper-grouper fishery management unit year-round. For a fishing vessel to possess snapper-grouper species on board while in a spawning SMZ, the vessel must be in transit and fishing gear must be appropriately stowed, as specified in paragraph (a)(2)(vii) of this section. Except for spawning SMZs of Area 51 and Area 53, the spawning SMZs in this paragraph are effective until August 2, 2027. A person on board a fishing vessel may not anchor, use an anchor and chain, or use a grapple and chain while in the spawning SMZs specified in paragraph (a)(2) of this section. The anchoring prohibition does not apply to fishing vessels in the spawning SMZs of Area 51 and Area 53.
 
-(3) *Non-stainless steel hooks.* Non-stainless steel hooks are required to be used when fishing for South Atlantic snapper-grouper with hook-and-line gear and natural baits south of 28° N lat.
+(ii) *South Cape Lookout Spawning SMZ* is bounded by rhumb lines connecting, in order, the following points:
 
-(4) *Descending device.* At least one descending device is required to be on board a vessel and be ready for use while fishing for or possessing South Atlantic snapper-grouper. Descending device means an instrument capable of releasing the fish at the depth from which the fish was caught, and to which is attached a minimum of a 16-ounce (454-gram) weight and a minimum of a 60-ft (15.2-m) length of line. The descending device may either attach to the fish's mouth or be a container that will retain the fish while it is lowered to depth. The device must be capable of releasing the fish automatically, by actions of the operator of the device, or by allowing the fish to escape on its own when at depth.
+|Point|North lat.|West long.|
+|-----|----------|----------|
+|  A  |33°53.040′|76°28.617′|
+|  B  |33°52.019′|76°27.798′|
+|  C  |33°49.946′|76°30.627′|
+|  D  |33°51.041′|76°31.424′|
+|  A  |33°53.040′|76°28.617′|
+
+(iii) *Devil's Hole/Georgetown Hole Spawning SMZ* is bounded by rhumb lines connecting, in order, the following points:
+
+|Point|North lat.|West long.|
+|-----|----------|----------|
+|  A  |32°34.311′|78°34.996′|
+|  B  |32°34.311′|78°33.220′|
+|  C  |32°32.748′|78°33.220′|
+|  D  |32°32.748′|78°34.996′|
+|  A  |32°34.311′|78°34.996′|
+
+(iv) *Area 51 Spawning SMZ* is bounded by rhumb lines connecting, in order, the following points:
+
+|Point|North lat.|West long.|
+|-----|----------|----------|
+|  A  |32°35.25′ | 79°28.6′ |
+|  B  |32°35.25′ |  79°27′  |
+|  C  |32°33.75′ |  79°27′  |
+|  D  |32°33.75′ | 79°28.6′ |
+|  A  |32°35.25′ | 79°28.6′ |
+
+(v) *Area 53 Spawning SMZ* is bounded by rhumb lines connecting, in order, the following points:
+
+|Point|North lat.|West long.|
+|-----|----------|----------|
+|  A  |32°22.65′ |79°22.25′ |
+|  B  |32°22.65′ | 79°20.5′ |
+|  C  |32°21.15′ | 79°20.5′ |
+|  D  |32°21.15′ |79°22.25′ |
+|  A  |32°22.65′ |79°22.25′ |
+
+(vi) *Warsaw Hole/50 Fathom Hole Spawning SMZ* is bounded by rhumb lines connecting, in order, the following points:
+
+|Point|North lat.|West long.|
+|-----|----------|----------|
+|  A  |24°22.277′|82°20.417′|
+|  B  |24°22.277′|82°18.215′|
+|  C  |24°20.932′|82°18.215′|
+|  D  |24°20.932′|82°20.417′|
+|  A  |24°22.277′|82°20.417′|
+
+(vii) For the purpose of paragraph (a)(2)(i) of this section, transit means direct, non-stop progression through the spawning SMZ. Fishing gear appropriately stowed means -
+
+(A) A longline may be left on the drum if all gangions and hooks are disconnected and stowed below deck. Hooks cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
+
+(B) Trawl doors and nets must be out of the water, but the doors are not required to be on deck or secured on or below deck.
+
+(C) A gillnet, stab net, or trammel net must be left on the drum. Any additional such nets not attached to the drum must be stowed below deck.
+
+(D) Terminal gear (*i.e.,* hook, leader, sinker, flasher, or bait) used with an automatic reel, bandit gear, buoy gear, handline, or rod and reel must be disconnected and stowed separately from such fishing gear. Sinkers must be disconnected from the down rigger and stowed separately.
+
+(E) A crustacean trap, golden crab trap, or sea bass pot cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
 
 (b) *Seasonal closures* - (1) *Seasonal closure of the commercial and recreational sectors for gag and associated grouper species.* During January through April each year, no person may fish for, harvest, or possess in or from the South Atlantic EEZ any South Atlantic shallow-water grouper (SASWG): Gag, black grouper, red grouper, scamp, red hind, rock hind, yellowmouth grouper, yellowfin grouper, graysby, and coney. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing apply in the South Atlantic, *i.e.,* in state or Federal waters. Additionally, in the month of May, no person may fish for, harvest, or possess any South Atlantic red grouper in or from the South Atlantic EEZ off North Carolina or off South Carolina. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing red grouper in May apply in state waters off North Carolina and off South Carolina.
 
@@ -161,4 +219,4 @@
 
 (8) *Snowy grouper recreational sector closure.* The recreational sector for snowy grouper in or from the South Atlantic EEZ is closed from January 1 through April 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for snowy grouper in or from the South Atlantic EEZ is zero.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 36171, June 15, 2020; 85 FR 64980, Oct. 14, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 64980, Oct. 14, 2020]

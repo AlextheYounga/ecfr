@@ -1,5 +1,7 @@
 ##### § 648.60 Sea Scallop Rotational Areas. #####
 
+Link to an amendment published at 85 FR 74920, Nov. 24, 2020.
+
 (a) *Mid-Atlantic Scallop Rotational Area.* The Mid-Atlantic Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
 Table 1 to Paragraph (a)

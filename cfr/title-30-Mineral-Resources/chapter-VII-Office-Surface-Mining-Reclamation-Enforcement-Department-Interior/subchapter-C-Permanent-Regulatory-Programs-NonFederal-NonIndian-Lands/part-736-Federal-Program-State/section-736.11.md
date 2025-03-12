@@ -1,5 +1,7 @@
 ##### § 736.11 General procedural requirements. #####
 
+Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
+
 (a) *Promulgation.* (1) The Director shall promulgate and, subject to the provisions of this part, implement a Federal program for a State if the Director reasonably expects coal exploration or surface coal mining and reclamation operations to exist on non-Federal and non-Indian lands within the State at any time before June 1985, and the State fails to -
 
 (i) Submit a State program for regulation of coal exploration and surface coal mining and reclamation operations on non-Federal and non-Indian lands within that State to the Director as provided in 30 CFR 731.12; or

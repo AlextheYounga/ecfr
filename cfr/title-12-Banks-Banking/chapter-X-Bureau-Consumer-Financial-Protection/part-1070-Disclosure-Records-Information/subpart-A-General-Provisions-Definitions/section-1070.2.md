@@ -1,5 +1,7 @@
 ##### § 1070.2 General definitions. #####
 
+Link to an amendment published at 85 FR 75216, Nov. 24, 2020.
+
 For purposes of this part:
 
 (a) *Business day* means any day except Saturday, Sunday or a legal Federal holiday.

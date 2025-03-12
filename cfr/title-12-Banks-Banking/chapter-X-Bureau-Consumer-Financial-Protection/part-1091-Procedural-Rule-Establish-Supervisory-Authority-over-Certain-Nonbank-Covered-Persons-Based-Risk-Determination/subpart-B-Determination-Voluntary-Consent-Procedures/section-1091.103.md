@@ -1,5 +1,7 @@
 ##### § 1091.103 Contents of Notice. #####
 
+Link to an amendment published at 85 FR 75220, Nov. 24, 2020.
+
 (a) A Notice of Reasonable Cause shall contain the following:
 
 (1) A description of the basis for the assertion that the Bureau may have reasonable cause to determine that a respondent is a nonbank covered person that is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services, including a summary of the documents, records, or other items relied on by the initiating official to issue a Notice. Such summary will be consistent with the protection of sensitive information, including compliance with federal privacy law and whistleblower protections; and

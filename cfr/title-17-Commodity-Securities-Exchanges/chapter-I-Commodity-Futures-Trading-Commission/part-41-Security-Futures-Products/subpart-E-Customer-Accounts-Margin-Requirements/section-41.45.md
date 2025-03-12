@@ -1,5 +1,7 @@
 ##### § 41.45 Required margin. #####
 
+Link to an amendment published at 85 FR 75146, Nov. 24, 2020.
+
 (a) *Applicability.* Each security futures intermediary shall determine the required margin for the security futures and related positions held on behalf of a customer in a securities account or futures account as set forth in this section.
 
 (b) *Required margin* - (1) *General rule.* The required margin for each long or short position in a security future shall be twenty (20) percent of the current market value of such security future.

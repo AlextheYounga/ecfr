@@ -34,7 +34,7 @@
 
 (b)(1) *Standard: Affiliated covered entities.* Legally separate covered entities that are affiliated may designate themselves as a single covered entity for purposes of this part.
 
-(2) *Implementation specifications* - (i) *Requirements for designation of an affiliated covered entity* - (A) Legally separate covered entities may designate themselves (including any health care component of such covered entity) as a single affiliated covered entity, for purposes of this part, if all of the covered entities designated are under common ownership or control.
+(2) *Implementation specifications*—(i) *Requirements for designation of an affiliated covered entity.* (A) Legally separate covered entities may designate themselves (including any health care component of such covered entity) as a single affiliated covered entity, for purposes of this part, if all of the covered entities designated are under common ownership or control.
 
 (B) The designation of an affiliated covered entity must be documented and the documentation maintained as required by paragraph (c) of this section.
 

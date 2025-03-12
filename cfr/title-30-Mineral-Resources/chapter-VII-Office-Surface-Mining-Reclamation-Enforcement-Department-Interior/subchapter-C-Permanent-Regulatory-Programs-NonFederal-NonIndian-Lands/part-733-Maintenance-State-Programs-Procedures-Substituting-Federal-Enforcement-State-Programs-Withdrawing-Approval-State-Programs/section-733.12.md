@@ -1,5 +1,7 @@
 ##### § 733.12 Procedures for substituting Federal enforcement of State programs or withdrawing approval of State programs. #####
 
+Link to an amendment published at 85 FR 75189, Nov. 24, 2020.Link to an amendment published at 85 FR 75190, Nov. 24, 2020.
+
 (a) *Evaluation.* (1) The Director shall evaluate the administration of each state program at least annually.
 
 (2) Any interested person may request the Director to evaluate a State program. The request shall set forth a concise statement of the facts which the person believes establishes the need for evaluation. The Director shall verify the allegations and determine within 60 days whether or not the evaluation shall be made and mail a written decision to the requestor.
