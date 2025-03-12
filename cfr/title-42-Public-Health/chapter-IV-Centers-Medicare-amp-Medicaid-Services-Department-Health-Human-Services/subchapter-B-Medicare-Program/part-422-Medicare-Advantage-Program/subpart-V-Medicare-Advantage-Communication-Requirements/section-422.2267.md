@@ -214,9 +214,9 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (A) Updates to the online provider directories must be completed within 30 days of receiving information requiring update.
 
-(B)*(1)* Updates to hardcopy provider directories must be completed within 30 days.
+(B)(*1*) Updates to hardcopy provider directories must be completed within 30 days.
 
-*(2)* Hard copy directories that include separate updates via addenda are considered up-to-date.
+(*2*) Hard copy directories that include separate updates via addenda are considered up-to-date.
 
 (12) *Provider Termination Notice.* This is a model communications material through which plans must provide the information required under § 422.111(e). The provider termination notice must be both of the following:
 

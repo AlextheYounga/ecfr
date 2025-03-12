@@ -1,5 +1,7 @@
 ##### § 271.101 Risk reduction programs. #####
 
+Link to an amendment published at 87 FR 35673, June 13, 2022.
+
 (a) *Program required.* Each railroad shall establish and fully implement an RRP meeting the requirements of this part. An RRP shall systematically evaluate railroad safety hazards on a railroad's system and manage the resulting risks to reduce the number and rates of railroad accidents/incidents, injuries, and fatalities. An RRP is an ongoing program that supports continuous safety improvement. A railroad shall design its RRP so that it promotes and supports a positive safety culture at the railroad. An RRP shall include the following:
 
 (1) A risk-based hazard management program, as described in § 271.103;

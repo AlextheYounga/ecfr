@@ -1,4 +1,4 @@
-##### § 165. T01-0453 Safety Zone; Portal Bridge, Hackensack River, Kearny, NJ. #####
+##### § 165.T01-0453 Safety Zone; Portal Bridge, Hackensack River, Kearny, NJ. #####
 
 (a) *Location.* The following area is a safety zone: All navigable waters of the Hackensack River, within a 100-yard radius of the center of the Portal Bridge (mile 5.0), Kearny, New Jersey, including the East and West navigational channels.
 

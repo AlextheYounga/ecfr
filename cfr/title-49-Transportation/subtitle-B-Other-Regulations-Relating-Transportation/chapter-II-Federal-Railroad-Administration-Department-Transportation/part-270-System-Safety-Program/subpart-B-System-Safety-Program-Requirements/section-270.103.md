@@ -1,5 +1,7 @@
 ##### § 270.103 System safety program plan. #####
 
+Link to an amendment published at 87 FR 35671, June 13, 2022.
+
 (a) *General.* (1) Each passenger rail operation subject to this part shall adopt and fully implement a system safety program through a written SSP plan that, at a minimum, contains the elements in this section. This SSP plan shall be approved by FRA under the process specified in § 270.201.
 
 (2) Each passenger rail operation subject to this part shall communicate with each railroad that hosts passenger train service for that passenger rail operation and coordinate the portions of the SSP plan applicable to the railroad hosting the passenger train service.

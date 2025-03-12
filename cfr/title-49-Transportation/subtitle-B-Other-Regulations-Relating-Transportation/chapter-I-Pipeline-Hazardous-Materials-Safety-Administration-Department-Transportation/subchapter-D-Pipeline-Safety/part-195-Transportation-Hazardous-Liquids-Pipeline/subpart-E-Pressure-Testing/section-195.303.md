@@ -10,7 +10,7 @@
 
 (b) An operator shall evaluate each pipeline segment in the program according to the following indicators of risk:
 
-(1) The location indicator is -
+(1) The location indicator is—
 
 (i) High risk if an area is non-rural or environmentally sensitive1; or
 
@@ -18,7 +18,7 @@
 
 (iii) Low risk if an area is not high or medium risk.
 
-(2) The product indicator is1/\>
+(2) The product indicator is1
 
 1 (See Appendix B, Table C).
 
@@ -28,7 +28,7 @@
 
 (iii) Low risk if the product transported is not high or medium risk.
 
-(3) The volume indicator is -
+(3) The volume indicator is—
 
 (i) High risk if the line is at least 18 inches in nominal diameter;
 
@@ -36,7 +36,7 @@
 
 (iii) Low risk if the line is not high or medium risk.
 
-(4) The probability of failure indicator is -
+(4) The probability of failure indicator is—
 
 (i) High risk if the segment has experienced more than three failures in the last 10 years due to time-dependent defects (e.g., corrosion, gouges, or problems developed during manufacture, construction or operation, etc.); or
 
@@ -49,8 +49,6 @@
 (e) Pressure testing done under this section must be conducted in accordance with this subpart. Except for segments in Risk Classification B which are not constructed with pre-1970 ERW pipe, water must be the test medium.
 
 (f) An operator electing to follow a program under paragraph (a) must develop plans that include the method of testing and a schedule for the testing by December 7, 1998. The compliance deadlines for completion of testing are as shown in the table below:
-
-§ 195.303 - Test Deadlines
 
 |                                   Pipeline Segment                                    |Risk classification|                         Test deadline                          |
 |---------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------|

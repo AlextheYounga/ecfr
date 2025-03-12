@@ -1,6 +1,6 @@
 ##### § 422.111 Disclosure requirements. #####
 
-(a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
+(a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS—
 
 (1) To each enrollee electing an MA plan it offers;
 
@@ -28,7 +28,7 @@
 
 (4) Out-of-area coverage provided under the plan, including coverage provided to individuals eligible to enroll in the plan under § 422.50(a)(3)(ii).
 
-(5) *Emergency coverage.* Coverage of emergency services, including -
+(5) *Emergency coverage.* Coverage of emergency services, including—
 
 (i) Explanation of what constitutes an emergency, referencing the definitions of emergency services and emergency medical condition at § 422.113;
 
@@ -76,7 +76,7 @@
 
 (e) *Changes to provider network.* The MA organization must make a good faith effort to provide written notice of a termination of a contracted provider at least 30 calendar days before the termination effective date to all enrollees who are patients seen on a regular basis by the provider whose contract is terminating, irrespective of whether the termination was for cause or without cause. When a contract termination involves a primary care professional, all enrollees who are patients of that primary care professional must be notified.
 
-(f) *Disclosable information* - (1) *Benefits under original Medicare.* (i) Covered services.
+(f) *Disclosable information*—(1) *Benefits under original Medicare.* (i) Covered services.
 
 (ii) Beneficiary cost-sharing, such as deductibles, coinsurance, and copayment amounts.
 
@@ -140,7 +140,7 @@
 
 (B) For coverage beginning on and after January 1, 2022, is open at least from 8:00 a.m. to 8:00 p.m. in all service areas served by the Part C plan, with the following exceptions:
 
-*(1)* From October 1 through March 31 of the following year, a customer call center may be closed on Thanksgiving Day and Christmas Day so long as the interactive voice response (IVR) system or similar technology records messages from incoming callers and such messages are returned within one (1) business day.
+(*1*) From October 1 through March 31 of the following year, a customer call center may be closed on Thanksgiving Day and Christmas Day so long as the interactive voice response (IVR) system or similar technology records messages from incoming callers and such messages are returned within one (1) business day.
 
 *(2)* From April 1 through September 30, a customer call center may be closed any Federal holiday, Saturday, or Sunday, so long as the interactive voice response (IVR) system or similar technology records messages from incoming callers and such messages are returned within one (1) business day.
 

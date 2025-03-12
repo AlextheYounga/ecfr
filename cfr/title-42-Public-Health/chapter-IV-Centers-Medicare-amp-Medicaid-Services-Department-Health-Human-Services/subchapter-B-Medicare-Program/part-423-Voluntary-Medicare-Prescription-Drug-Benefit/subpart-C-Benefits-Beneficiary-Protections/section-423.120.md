@@ -1,6 +1,6 @@
 ##### § 423.120 Access to covered Part D drugs. #####
 
-(a) *Assuring pharmacy access* - (1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
+(a) *Assuring pharmacy access*—(1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
 
 (i) At least 90 percent of Medicare beneficiaries, on average, in urban areas served by the Part D sponsor live within 2 miles of a network pharmacy that is a retail pharmacy or a pharmacy described under paragraph (a)(2) of this section.
 
@@ -28,19 +28,19 @@
 
 (7) *Waiver of pharmacy access requirements.* CMS waives the requirements under paragraph (a)(1) of this section in the case of either of the following:
 
-(i) An MA organization or cost contract (as described in section 1876(h) of the Act) that provides its enrollees with access to covered Part D drugs through pharmacies owned and operated by the MA organization or cost contract, provided the organization's or plan's pharmacy network meets the access standard set forth -
+(i) An MA organization or cost contract (as described in section 1876(h) of the Act) that provides its enrollees with access to covered Part D drugs through pharmacies owned and operated by the MA organization or cost contract, provided the organization's or plan's pharmacy network meets the access standard set forth—
 
 (A) At § 422.112 of this chapter for an MA organization; or
 
 (B) At § 417.416(e) of this chapter for a cost contract.
 
-(ii) An MA organization offering a private fee-for-service plan described in § 422.4 of this chapter that -
+(ii) An MA organization offering a private fee-for-service plan described in § 422.4 of this chapter that—
 
 (A) Offers qualified prescription drug coverage; and
 
 (B) Provides plan enrollees with access to covered Part D drugs dispensed at all pharmacies, without regard to whether they are contracted network pharmacies and without charging cost-sharing in excess of that described in § 423.104(d)(2) and (d)(5).
 
-(8) Pharmacy network contracting requirements. In establishing its contracted pharmacy network, a Part D sponsor offering qualified prescription drug coverage -
+(8) Pharmacy network contracting requirements. In establishing its contracted pharmacy network, a Part D sponsor offering qualified prescription drug coverage—
 
 (i) Must contract with any pharmacy that meets the Part D sponsor's standard terms and conditions;
 
@@ -52,9 +52,9 @@
 
 (10) *Level playing field between mail-order and network pharmacies.* A Part D sponsor must permit its Part D plan enrollees to receive benefits, which may include a 90-day supply of covered Part D drugs, at any of its network pharmacies that are retail pharmacies. A Part D sponsor may require an enrollee obtaining a covered Part D drug at a network pharmacy that is a retail pharmacy to pay any higher cost-sharing applicable to that covered Part D drug at the network pharmacy that is a retail pharmacy instead of the cost-sharing applicable to that covered Part D drug at the network pharmacy that is a mail-order pharmacy.
 
-(b) *Formulary requirements.* A Part D sponsor that uses a formulary under its qualified prescription drug coverage must meet the following requirements -
+(b) *Formulary requirements.* A Part D sponsor that uses a formulary under its qualified prescription drug coverage must meet the following requirements—
 
-(1) *Development and revision by a pharmacy and therapeutic committee.* A Part D sponsor's formulary must be developed and reviewed by a pharmacy and therapeutic committee that -
+(1) *Development and revision by a pharmacy and therapeutic committee.* A Part D sponsor's formulary must be developed and reviewed by a pharmacy and therapeutic committee that—
 
 (i) Includes a majority of members who are practicing physicians and/or practicing pharmacists.
 
@@ -82,7 +82,7 @@
 
 (xi) Meets other requirements consistent with written policy guidelines and other CMS instructions.
 
-(2) Provision of an Adequate Formulary. A Part D plan's formulary must -
+(2) Provision of an Adequate Formulary. A Part D plan's formulary must—
 
 (i) Except as provided in paragraphs (b)(2)(ii) and (v) of this section, include within each therapeutic category and class of Part D drugs at least two Part D drugs that are not therapeutically equivalent and bioequivalent, with different strengths and dosage forms available for each of those drugs, except that only one Part D drug must be included in a particular category or class of covered Part D drugs if the category or class includes only one Part D drug.
 
@@ -116,13 +116,13 @@
 
 (i)(A) Be applicable to all of the following:
 
-*(1)* New enrollees into Part D plans following the annual coordinated election period.
+(*1*) New enrollees into Part D plans following the annual coordinated election period.
 
-*(2)* Newly eligible Medicare enrollees from other coverage.
+(*2*) Newly eligible Medicare enrollees from other coverage.
 
-*(3)* Individuals who switch from one plan to another after the start of the contract year.
+(*3*) Individuals who switch from one plan to another after the start of the contract year.
 
-*(4)* Current enrollees remaining in the plan affected by formulary changes.
+(*4*) Current enrollees remaining in the plan affected by formulary changes.
 
 (B) Not apply in cases in which a Part D sponsor substitutes a generic drug for a brand name drug as permitted under paragraph (b)(5)(iv) of this section.
 
@@ -138,7 +138,7 @@
 
 (A) For low-income subsidy (LIS) enrollees, a sponsor must not charge higher cost sharing for transition supplies than the statutory maximum copayment amounts.
 
-(B) For non-LIS enrollees, a sponsor must charge -
+(B) For non-LIS enrollees, a sponsor must charge—
 
 (*1*) The same cost sharing for non-formulary Part D drugs provided during the transition that would apply for non-formulary drugs approved through a formulary exception in accordance with § 423.578(b); and
 
@@ -146,7 +146,7 @@
 
 (4) *Limitation on changes in therapeutic classification.* Except as CMS may permit to account for new therapeutic uses and newly approved Part D drugs, a Part D sponsor may not change the therapeutic categories and classes in a formulary other than at the beginning of each plan year.
 
-(5) *Provision of notice regarding formulary changes* (i) Prior to removing a covered Part D drug from its Part D plan's formulary, or making any change in the preferred or tiered cost-sharing status of a covered Part D drug, a Part D sponsor must provide at least 30 days notice to CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists (for purposes of this paragraph (b)(5) these entities are referred to as “CMS and other specified entities”) prior to the date such change becomes effective, and must either -
+(5) *Provision of notice regarding formulary changes* (i) Prior to removing a covered Part D drug from its Part D plan's formulary, or making any change in the preferred or tiered cost-sharing status of a covered Part D drug, a Part D sponsor must provide at least 30 days notice to CMS, State Pharmaceutical Assistance Programs (as defined in § 423.454), entities providing other prescription drug coverage (as described in § 423.464(f)(1)), authorized prescribers, network pharmacies, and pharmacists (for purposes of this paragraph (b)(5) these entities are referred to as “CMS and other specified entities”) prior to the date such change becomes effective, and must either—
 
 (A) Provide direct written notice to affected enrollees at least 30 days prior to the date the change becomes effective; or
 
@@ -172,7 +172,7 @@
 
 (B) The Part D sponsor previously could not have included such therapeutically equivalent generic drug on its formulary when it submitted its initial formulary for CMS approval consistent with paragraph (b)(2) of this section because such generic drug was not yet available on the market.
 
-(C) Before making any permitted generic substitutions, the Part D sponsor provides general notice to all current and prospective enrollees in its formulary and other applicable beneficiary communication materials advising them that -
+(C) Before making any permitted generic substitutions, the Part D sponsor provides general notice to all current and prospective enrollees in its formulary and other applicable beneficiary communication materials advising them that—
 
 (*1*) Such changes may be made at any time when a new generic is added in place of a brand name drug, and there may be no advance direct notice to the affected enrollees;
 
@@ -192,7 +192,7 @@
 
 (3) A Part D sponsor must require its network pharmacies to submit claims to the Part D sponsor or its intermediary whenever the card described in paragraph (c)(1) of this section is presented or on file at the pharmacy unless the enrollee expressly requests that a particular claim not be submitted to the Part D sponsor or its intermediary.
 
-(4) Beginning January 1, 2012, a part D sponsor must assign and exclusively use a unique -
+(4) Beginning January 1, 2012, a part D sponsor must assign and exclusively use a unique—
 
 (i) Part D BIN or RxBIN and Part D processor control number (RxPCN) combination in its Medicare line of business; and
 
@@ -202,7 +202,7 @@
 
 (ii) The sponsor must communicate at point-of sale whether or not a submitted NPI is active and valid in accordance with this paragraph (c)(5)(ii).
 
-(A) If the sponsor communicates that the NPI is not active and valid, the sponsor must permit the pharmacy to -
+(A) If the sponsor communicates that the NPI is not active and valid, the sponsor must permit the pharmacy to—
 
 (*1*) Confirm that the NPI is active and valid; or
 
@@ -210,7 +210,7 @@
 
 (B) If the pharmacy confirms that the NPI is active and valid or corrects the NPI, the sponsor must pay the claim if it is otherwise payable.
 
-(iii) A Part D sponsor must not later recoup payment from a network pharmacy for a claim that does not contain an active and valid individual prescriber NPI on the basis that it does not contain one, unless the sponsor -
+(iii) A Part D sponsor must not later recoup payment from a network pharmacy for a claim that does not contain an active and valid individual prescriber NPI on the basis that it does not contain one, unless the sponsor—
 
 (A) Has complied with paragraph (c)(5)(ii) of this section;
 
@@ -256,7 +256,7 @@
 
 (*2*) An OIG excluded prescriber is added to the preclusion list effective on the date of the exclusion.
 
-(vi) CMS has the discretion not to include a particular individual on (or if warranted, remove the individual from) the preclusion list should it determine that exceptional circumstances exist regarding beneficiary access to prescriptions. In making a determination as to whether such circumstances exist, CMS takes into account -
+(vi) CMS has the discretion not to include a particular individual on (or if warranted, remove the individual from) the preclusion list should it determine that exceptional circumstances exist regarding beneficiary access to prescriptions. In making a determination as to whether such circumstances exist, CMS takes into account—
 
 (A) The degree to which beneficiary access to Part D drugs would be impaired; and
 
@@ -266,7 +266,7 @@
 
 (B) Except as provided in paragraphs (c)(6)(vii)(C) and (D) of this section, a prescriber who is not enrolled in Medicare will be included on the preclusion list for the same length of time as the reenrollment bar that CMS could have imposed on the prescriber had the prescriber been enrolled and then revoked.
 
-(C) Except as provided in paragraph (c)(6)(vii)(D) of this section, an individual, regardless of whether the individual is or was enrolled in Medicare, that is included on the preclusion list because of a felony conviction will remain on the preclusion list for a 10-year period, beginning on the date of the felony conviction, unless CMS determines that a shorter length of time is warranted. Factors that CMS considers in making such a determination are -
+(C) Except as provided in paragraph (c)(6)(vii)(D) of this section, an individual, regardless of whether the individual is or was enrolled in Medicare, that is included on the preclusion list because of a felony conviction will remain on the preclusion list for a 10-year period, beginning on the date of the felony conviction, unless CMS determines that a shorter length of time is warranted. Factors that CMS considers in making such a determination are—
 
 (*1*) The severity of the offense;
 
@@ -278,7 +278,7 @@
 
 (viii) Payment denials under paragraph (c)(6) of this section that are based upon the prescriber's inclusion on the preclusion list are not appealable by beneficiaries.
 
-(d) *Treatment of compounded drug products.* With respect to multi-ingredient compounds, a Part D sponsor must -
+(d) *Treatment of compounded drug products.* With respect to multi-ingredient compounds, a Part D sponsor must—
 
 (1) Make a determination as to whether the compound is covered under Part D.
 
@@ -286,9 +286,9 @@
 
 (ii) Only compounds that contain at least one ingredient that independently meets the definition of a Part D drug, and that do not meet the criteria under paragraph (d)(1)(i) of this section, may be covered under Part D. For purposes of this paragraph (d) these compounds are referred to as Part D compounds.
 
-(iii) For a Part D compound to be considered on-formulary, all ingredients that independently meet the definition of a Part D drug must be considered on-formulary (even if the particular Part D drug would be considered off-formulary if it were provided separately - that is, not as part of the Part D compound).
+(iii) For a Part D compound to be considered on-formulary, all ingredients that independently meet the definition of a Part D drug must be considered on-formulary (even if the particular Part D drug would be considered off-formulary if it were provided separately—that is, not as part of the Part D compound).
 
-(iv) For a Part D compound that is considered off-formulary -
+(iv) For a Part D compound that is considered off-formulary—
 
 (A) Transition rules apply such that all ingredients in the Part D compound that independently meet the definition of a Part D drug must become payable in the event of a transition fill under § 423.120(b)(3); and
 

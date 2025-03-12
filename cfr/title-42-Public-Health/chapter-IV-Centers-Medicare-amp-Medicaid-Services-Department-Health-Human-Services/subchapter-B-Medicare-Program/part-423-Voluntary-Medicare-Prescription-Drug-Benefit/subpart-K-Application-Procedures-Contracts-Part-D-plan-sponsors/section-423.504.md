@@ -2,7 +2,7 @@
 
 (a) *General rule.* Subject to the provisions at § 423.265 of this part concerning submission of bids, to enroll beneficiaries in any Part D drug plan it offers and be paid on behalf of Part D eligible individuals enrolled in those plans, a Part D plan sponsor must enter into a contract with CMS. The contract may cover more than one Part D plan.
 
-(b) *Conditions necessary to contract as a Part D plan sponsor.* Any entity seeking to contract as a Part D plan sponsor must -
+(b) *Conditions necessary to contract as a Part D plan sponsor.* Any entity seeking to contract as a Part D plan sponsor must—
 
 (1) Complete an application as described in § 423.502 demonstrating that the entity has the capability to meet the requirements of this part, including those listed in § 423.505.
 
@@ -24,7 +24,7 @@
 
 (vi) Adopt and implement an effective compliance program, which must include measures that prevent, detect, and correct noncompliance with CMS' program requirements as well as measures that prevent, detect, and correct fraud, waste, and abuse. The compliance program must, at a minimum, include the following core requirements:
 
-(A) Written policies, procedures, and standards of conduct that -
+(A) Written policies, procedures, and standards of conduct that—
 
 (*1*) Articulate the Part D plan sponsor's commitment to comply with all applicable Federal and State standards;
 
@@ -54,7 +54,7 @@
 
 (D) Establishment and implementation of effective lines of communication, ensuring confidentiality, between the compliance officer, members of the compliance committee, the Part D plan sponsor's employees, managers and governing body, and the Part D plan sponsor's first tier, downstream, and related entities. Such lines of communication must be accessible to all and allow compliance issues to be reported including a method for anonymous and confidential good faith reporting of potential compliance issues as they are identified.
 
-(E) Well-publicized disciplinary standards through the implementation of procedures which encourage good faith participation in the compliance program by all affected individuals. These standards must include policies that -
+(E) Well-publicized disciplinary standards through the implementation of procedures which encourage good faith participation in the compliance program by all affected individuals. These standards must include policies that—
 
 (*1*) Articulate expectations for reporting compliance issues and assist in their resolution;
 
@@ -82,7 +82,7 @@
 
 (*ii*) The plan sponsor is required to submit the information described in paragraph (b)(4)(vi)(G)(*4*)(*ii*) of this section no later than January 30, April 30, July 30, and October 30 of each year for the preceding periods, respectively, of October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30. For the first reporting period (January 30, 2022), the reporting will reflect the data gathered and analyzed for the previous quarter in the calendar year (October 1-December 31).
 
-(*7*)(*i*) CMS provides plan sponsors with data report(s) or links to the information described in paragraphs (b)(4)(vi)(G)(*4*)*(i*) and (*ii*) of this section no later than April 15, July 15, October 15, and January 15 of each year based on the information in the portal, respectively, as of the preceding October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30.
+(*7*)(*i*) CMS provides plan sponsors with data report(s) or links to the information described in paragraphs (b)(4)(vi)(G)(*4*)(*i*) and (*ii*) of this section no later than April 15, July 15, October 15, and January 15 of each year based on the information in the portal, respectively, as of the preceding October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30.
 
 (*ii*) Include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders.
 
@@ -90,7 +90,7 @@
 
 (*iv*) For the first quarterly report (April 15, 2022), that the report reflect the data gathered and analyzed for the previous quarter submitted by the plan sponsors on January 30, 2022.
 
-(5) Not have non-renewed a contract under § 423.507 within the past 2 years unless -
+(5) Not have non-renewed a contract under § 423.507 within the past 2 years unless—
 
 (i) During the 6-month period, beginning on the date the entity notified CMS of the intention to non-renew the most recent previous contract, there was a change in the statute or regulations that had the effect of increasing Part D sponsor payments in the payment area or areas at issue; or
 
@@ -100,7 +100,7 @@
 
 (7) For a full risk or limited risk PDP applicant, not submitted a bid or offered a fallback prescription drug plan in accordance with the following rules.
 
-(i) CMS does not contract with a potential PDP sponsor for the offering of a full risk or limited risk prescription drug plan in a PDP region for a year if the applicant -
+(i) CMS does not contract with a potential PDP sponsor for the offering of a full risk or limited risk prescription drug plan in a PDP region for a year if the applicant—
 
 (A) Submitted a bid under § 423.863 for the year (as the first year of a contract period under § 423.863 to offer a fallback prescription drug plan in any PDP region;
 
@@ -130,13 +130,13 @@
 
 (d) *Protection against fraud and beneficiary protections.* (1) CMS annually audits the financial records (including, but not limited to, data relating to Medicare utilization and costs, including allowable reinsurance and risk corridor costs as well as low income subsidies and other costs) under this part of at least one-third of the Part D sponsors offering Part D drug plans.
 
-(2) Each contract under this section must provide that CMS, or any person or organization designated by CMS, has the right to -
+(2) Each contract under this section must provide that CMS, or any person or organization designated by CMS, has the right to—
 
 (i) Inspect or otherwise evaluate the quality, appropriateness, and timeliness of services performed under the Part D plan sponsor's contract;
 
 (ii) Inspect or otherwise evaluate the facilities of the Part D sponsor when there is reasonable evidence of some need for the inspection; and
 
-(iii) Audit and inspect any books, contracts, and records of the Part D plan sponsor that pertain to -
+(iii) Audit and inspect any books, contracts, and records of the Part D plan sponsor that pertain to—
 
 (A) The ability of the organization or its first tier or downstream providers to bear the risk of potential financial losses; or
 
@@ -144,7 +144,7 @@
 
 (iv) CMS may require that the Part D Plan sponsor hire an independent auditor to provide CMS with additional information to determine if deficiencies found during an audit or inspection have been corrected and are not likely to recur. The independent auditor must work in accordance with CMS specifications and must be willing to attest that a complete and full independent review has been performed.
 
-(e) *Severability of contracts.* The contract must provide that, upon CMS' request -
+(e) *Severability of contracts.* The contract must provide that, upon CMS' request—
 
 (1) The contract could be amended to exclude any State-licensed entity, or a Part D plan specified by CMS; and
 
