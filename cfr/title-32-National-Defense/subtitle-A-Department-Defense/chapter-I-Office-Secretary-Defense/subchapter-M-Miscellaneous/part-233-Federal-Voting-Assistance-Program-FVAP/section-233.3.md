@@ -1,6 +1,6 @@
 ##### § 233.3 Definitions. #####
 
-Terms used in this part are defined in Joint Publication 1-02 (available at *http://www.dtic.mil/doctrine/dod\_dictionary/*) and this section. These terms and their definitions are for the purpose of this part.
+Terms used in this part are defined in DoD Dictionary of Military Terms (available at *http://www.jcs.mil/Doctrine*) and this section. These terms and their definitions are for the purpose of this part.
 
 *Eligible voter.* Any of the following:
 
@@ -22,24 +22,20 @@ Terms used in this part are defined in Joint Publication 1-02 (available at *htt
 
 *Federal office.* The offices of President or Vice President; Presidential Elector; or of Senator or Representative in; or Delegate or Resident Commissioner to Congress.
 
-*Installation voter assistance (IVA) offices.* The office designated by the installation commander to provide voter assistance to military personnel, voting-age military dependents, Government employees, contractors, and other civilian U.S. citizens with access to the installation. IVA offices also serve as voter registration agencies pursuant to 42 U.S.C. 1973gg-5(a)(2).
+*Installation voter assistance (IVA) offices.* The office designated by the installation commander, pursuant to 10 U.S.C. 1556a, to provide voter assistance to military personnel, voting-age military dependents, Government employees, contractors, and other civilian U.S. citizens with access to the installation. IVA offices also serve as voter registration agencies pursuant to 52 U.S.C. 20506(a)(2).
 
 *Installation voter assistance officer (IVAO).* An individual responsible for voting assistance coordination at the installation level.
 
-*Metrics.* A systematic means of measuring essential management information for reporting, control, and process improvement.
-
 *Recruitment offices of the Military Services.* Any office of a military service open to the public and engaged in the recruitment of persons for appointment or enlistment in an Active Component of the Military Services. This does not include Army National Guard and Air National Guard recruiting offices.
 
-*Senior service voting representative (SSVR).* A uniformed member at the 0-7 grade, or higher, or a member of the Senior Executive Service responsible for implementing the FVAP in his or her respective component.
-
-*Service voting action officer (SVAO).* An individual at a uniformed service headquarters level responsible for voting assistance operations for his or her respective component.
-
-*State.* As defined in 42 U.S.C. 1973ff-6.
+*State.* A State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.
 
 *State election.* Any non-Federal election held solely, or in part, for selecting, nominating, or electing any candidate for any State office, such as Governor, Lieutenant Governor, State Attorney General, or State Legislator, or on issues of Statewide interest.
 
-*Uniformed services.* As defined in 42 U.S.C. 1973ff-6(7).
+*Uniformed services.* The Army, Navy, Air Force, Marine Corps, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
 
-*Unit voting assistance officer (UVAO).* An individual responsible for voting assistance at the unit level.
+*Voter registration agency.* An office designated pursuant to 52 U.S.C. 20506 to perform voter registration activities. Pursuant to 52 U.S.C. 20506(c), a recruitment office of the Military Services is considered to be a voter registration agency. All IVA offices are also designated as voter registration agencies pursuant to 52 U.S.C. 20506(a)(2).
 
-*Voter registration agency.* An office designated pursuant to 42 U.S.C. 1973gg-5 to perform voter registration activities. Pursuant to 42 U.S.C. 1973gg-5(c), a recruitment office of the Military Services is considered to be a voter registration agency. All IVA offices are also designated as voter registration agencies pursuant to 42 U.S.C. 1973gg-5(a)(2).
+*Voting assistance officer (VAO).* An individual responsible for voting assistance.
+
+[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019]

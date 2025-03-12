@@ -6,4 +6,6 @@ This part applies to:
 
 (b) The Commissioned Corps of the Public Health Service (PHS), under agreement with the Department of Health and Human Services, and the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA), under agreement with the Department of Commerce. The term “uniformed services” refers to the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard, and their Reserve Components, as well as the Commissioned Corps of the PHS and the NOAA.
 
-(c) Other Federal Executive departments and agencies with employees assigned outside the United States that provide assistance to the FVAP under 42 U.S.C. 1973ff(c). Recommended procedures for these departments and agencies are contained in § 233.6(c) of this part.
+(c) Other Federal Executive departments and agencies with employees assigned outside the United States that provide assistance to the FVAP under 52 U.S.C. 20301(c). Recommended procedures for these departments and agencies are contained in § 233.6(c) of this part.
+
+[77 FR 57487, Sept. 18, 2012, as amended at 84 FR 59722, Nov. 6, 2019]
