@@ -1,8 +1,6 @@
 ##### § 1206.34 Procedure. #####
 
-Link to an amendment published at 86 FR 33494, June 25, 2021.
-
-(a) At a Board meeting, it will be considered a quorum when at least ten voting members are present.
+(a) At a Board meeting, it will be considered a quorum when at least one more than half of the voting members are present.
 
 (b) At the start of each fiscal period, the Board will select a chairperson and vice chairperson who will conduct meetings throughout that period.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 86 FR 33494, June 25, 2021.
 
 (i) The organization of the Board and the procedures for conducting meetings of the Board shall be in accordance with its bylaws, which shall be established by the Board and approved by the Department.
 
-[68 FR 58554, Oct. 9, 2003, as amended at 84 FR 5345, Feb. 21, 2019; 85 FR 11097, Feb. 24, 2021]
+[68 FR 58554, Oct. 9, 2003, as amended at 84 FR 5345, Feb. 21, 2019; 86 FR 11097, Feb. 24, 2021; 86 FR 33494, June 25, 2021]

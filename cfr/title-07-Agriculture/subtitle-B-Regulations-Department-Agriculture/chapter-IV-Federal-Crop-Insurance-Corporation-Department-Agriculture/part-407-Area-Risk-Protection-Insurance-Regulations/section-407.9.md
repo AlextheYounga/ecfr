@@ -26,7 +26,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Acreage report.* A report required by section 8 of these Basic Provisions that contains, in addition to other required information, your report of your share of all acreage of an insured crop in the county, whether insurable or not insurable.
 
-*Acreage reporting date.* The date contained in the actuarial documents by which you are required to submit your acreage report.
+*Acreage reporting date.* The date contained in the Special Provisions by which you are required to submit your acreage report.
 
 *Act.* Subtitle A of the Federal Crop Insurance Act (7 U.S.C. 1501-1524).
 
@@ -158,8 +158,6 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Loss limit factor.* Unless otherwise specified in the Special Provisions a factor of .18 is used to calculate the payment factor. This factor represents the percentage of the expected county yield or expected county revenue at which no additional indemnity amount is payable. For example, if the expected county yield is 100 bushels and the final county yield is 18 bushels, then no additional indemnity is due even if the yield falls below 18 bushels. The total indemnity will never be more than 100 percent of the final policy protection.
 
-*NASS.* National Agricultural Statistics Service, an agency within USDA, or its successor, that publishes the official United States Government yield estimates.
-
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
 
 *Offset.* The act of deducting one amount from another amount.
@@ -252,7 +250,9 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Verifiable records.* Has the same meaning as the term defined in 7 CFR part 400, subpart G.
 
-*Veteran farmer or rancher.* (1) An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components; was discharged or released under conditions other than dishonorable; and:
+*Veteran farmer or rancher.*
+
+(1) An individual who has served active duty in the United States Army, Navy, Marine Corps, Air Force, or Coast Guard, including the reserve components; was discharged or released under conditions other than dishonorable; and:
 
 (i) Has not operated a farm or ranch;
 
@@ -260,7 +260,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (iii) First obtained status as a veteran during the most recent 5-year period.
 
-(2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
+(2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition; except in cases in which there is only a married couple, then a veteran and non-veteran spouse are considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
 
@@ -1024,15 +1024,9 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (d) If the final county yield is established from a data source other than that used to establish the expected county yield, FCIC will provide notice of the data source and the reason for the change at the time the final county yield is published.
 
-(e) If yields are based on NASS data, the final county yield will be the most current NASS yield at the time FCIC determines the yield in accordance with the payment dates section of the applicable Crop Provisions.
+(e) The final county yield determined by FCIC is considered final for the purposes of establishing whether an indemnity is due and will not be revised for any reason.
 
-(f) The final county yield determined by FCIC is considered final for the purposes of establishing whether an indemnity is due and will not be revised for any reason.
-
-(g) Yields used under this insurance program for a crop, may be based on:
-
-(1) Data collected by NASS, if elected by FCIC, regardless of whether such data is published or unpublished; or
-
-(2) Crop insurance data, other USDA data, or other data sources, if elected by FCIC.
+(f) Yields used under this insurance program for a crop may be based on crop insurance data, other USDA data, or other data sources, if elected by FCIC
 
 16. Assignment of Indemnity
 
@@ -1378,4 +1372,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021]

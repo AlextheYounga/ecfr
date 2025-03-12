@@ -1,6 +1,6 @@
 ##### § 457.101 Small grains crop insurance provisions. #####
 
-The Small Grains Crop Insurance Provisions for the 2017 and succeeding crop years in counties with a contract change date of November 30, and for the 2018 and succeeding crop years in counties with a contract change date of June 30, are as follows:
+The Small Grains Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationSmall Grains Crop Provisions1. Definitions
 
@@ -10,15 +10,13 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 *Initially planted.* The first occurrence of planting the insured crop on insurable acreage for the crop year.
 
-*Khorasan.* The common name for a variety of wheat (*Triticum turanicum*) that is marketed under trademarks such as Kamut. Khorasan is considered to be spring wheat for the purposes of this policy.
+*Khorasan.* The common name for a variety of wheat (*Triticum turanicum*) that is marketed under trademarks such as Kamut. Khorasan is considered spring wheat for the purposes of this policy.
 
-*Latest final planting date* -
+*Latest final planting date.* (a) The final planting date for the spring type in all counties for which the Special Provisions designate a spring type only;
 
-(1) The final planting date for spring-planted acreage in all counties for which the Special Provisions designate a final planting date for spring-planted acreage only;
+(b) The final planting date for the winter type in all counties for which the Special Provisions designate a winter type only; or
 
-(2) The final planting date for fall-planted acreage in all counties for which the Special Provisions designate a final planting date for fall-planted acreage only; or
-
-(3) The final planting date for spring-planted acreage in all counties for which the Special Provisions designate final planting dates for both spring-planted and fall-planted acreage.
+(c) The final planting date for the spring type in all counties for which the Special Provisions designate both spring and winter types.
 
 *Local market price.* The cash grain price per bushel for the applicable quality level indicated below and offered by buyers in the area in which you normally market the insured crop. The local market price will reflect the maximum limits of quality deficiencies allowable for the applicable quality level indicated below. Factors not associated with the specified quality levels, including but not limited to protein, oil or moisture content, or milling quality will not be considered.
 
@@ -34,29 +32,53 @@ United States Department of AgricultureFederal Crop Insurance CorporationSmall G
 
 *Prevented planting.* As defined in the Basic Provisions, except that the references to “final planting date” contained in the definition in the Basic Provisions are replaced with the “latest final planting date.”
 
-*Small grains.* Wheat, including only common wheat (*Triticum aestivum*), club wheat (*T. compactum*), durum wheat (*T. durum*) and Khorasan (*T. turanicum*); barley (*Hordeum vulgare*), including hull-less barley and excluding black barley; oats (*Avena sativa,* and *A. byzantina*), and hull-less oats (*A. Nuda*); rye (*Secale cereale*); flax (*Linum usitatissimum*); and buckwheat (*Fagopyrum esculentum*).
+*Small grains.* Wheat, including only common wheat (*Triticum aestivum*), club wheat (*T. compactum*), durum wheat (*T. durum*) and Khorasan (*T. turanicum*); barley (*Hordeum vulgare*), including hull-less barley and excluding black barley; oats (*Avena sativa,* and *A. byzantina*), and hull-less oats (*A. Nuda*); rye (*Secale cereale*); flax (*Linum usitatissimum*); and buckwheat (*Fagopyrum esculentum*) or as otherwise specified in the actuarial documents.
 
 *Swathed.* Severance of the stem and grain head from the ground without removal of the seed from the head and placing into a windrow.
 
-2. Unit Division
+2. Unit Division.
 
-In addition to the requirements of section 34(b) of the Basic Provisions, for wheat only, in addition to, or instead of, establishing optional units by section, section equivalent or FSA farm serial number and by irrigated and non-irrigated practices, optional units may be established if each optional unit contains only initially planted winter wheat, only initially planted spring wheat, only initially planted club wheat or only initially planted durum wheat. Separate optional units for initially planted winter wheat and initially planted spring wheat may be established only in counties having both winter and spring type final planting dates as designated in the Special Provisions. A separate optional unit for club wheat may be established only in counties for which the Special Provisions designate club wheat as a wheat type (separate optional units may be established for initially planted winter club and initially planted spring club wheat if the Special Provisions specify both as wheat types). A separate optional unit for durum wheat may be established only in counties for which the Special Provisions designate durum wheat as a separate wheat type (separate optional units may be established for initially planted winter durum wheat and initially planted spring durum wheat if the Special Provisions specify both as wheat types).
+(a) In addition to enterprise units provided in section 34(a) of the Basic Provisions, for wheat only, you may elect separate enterprise units by type, as provided in this section, if allowed by the actuarial documents. If you elect enterprise units by type, you may not elect enterprise or optional units by irrigation practices.
+
+(1) You may elect separate enterprise units by type unless otherwise specified in the Special Provisions. For example, if you have winter and spring types, you may elect one enterprise unit for the spring type or one enterprise unit for the winter type, or separate enterprise units for both types. Any acreage which is not reported and insured as an enterprise unit will be insured as basic or optional units, if requirements are met. For example, if you only have winter and spring types, you may have an enterprise unit for the winter type acreage and basic or optional units for the spring type acreage.
+
+(2) You must separately meet the requirements in section 34(a)(4) of the Basic Provisions for each enterprise unit.
+
+(3) If you elected separate enterprise units for multiple types and we discover enterprise unit qualifications are not separately met for all types in which you elected enterprise unit and such discovery is made:
+
+(i) On or before the acreage reporting date, you may elect to insure:
+
+(A) All types in which you elected an enterprise unit for meeting the requirements in section 34(a)(4) as separate enterprise units, and basic or optional units for any acreage that is not reported and insured as an enterprise unit, whichever you report on your acreage report and for which you qualify;
+
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure for all acreage of the crop in the county.
+
+(4) If you elected an enterprise unit for only one type and we discover you do not qualify for an enterprise unit for that type and such discovery is made:
+
+(i) On or before the acreage reporting date, your unit division for all acreage of the crop in the county will be based on basic or optional units, whichever you report on your acreage report and for which you qualify; or
+
+(ii) At any time after the acreage reporting date, we will assign the basic unit structure for all acreage of the crop in the county.
+
+(b) In addition to, or instead of, establishing optional units as provided in section 34(c) of the Basic Provisions, for wheat only, separate optional units may be established for each wheat type (designated in actuarial documents and including any type insured by written agreement) if each optional unit contains only initially-planted acreage of the type.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) Revenue protection is not available for your oats, rye, flax, or buckwheat. Therefore, if you elect to insure such crops by the sales closing date, they will only be protected against a loss in yield;
+(a) Revenue protection is not available for your oats, rye, flax, or buckwheat. Therefore, if you elect to insure such crops by the sales closing date, they will only be protected against a loss in yield.
 
 (b) Revenue protection is available for wheat and barley. Therefore, if you elect to insure your wheat or barley:
 
 (1) You must elect to insure your wheat or barley with either revenue protection or yield protection by the sales closing date; and
 
-(2) In counties with both fall and spring sales closing dates for the insured crop:
+(2) In counties with both winter and spring sales closing dates for the insured crop (excluding counties that have a spring sales closing date and a winter sales closing date only applicable to the Winter Coverage Endorsement):
 
-(i) If you do not have any insured fall planted acreage of the insured crop, you may change your coverage level, or your percentage of projected price (if you have yield protection), or elect revenue protection or yield protection, until the spring sales closing date; or
+(i) If you do not have any insurable winter-planted acreage of the insured crop, you may change your coverage level, or your percentage of projected price (if you have yield protection), or elect revenue protection or yield protection, until the spring sales closing date; or
 
-(ii) If you have any insured fall planted acreage of the insured crop, you may not change your coverage level, or your percentage of projected price (if you have yield protection), or elect revenue protection or yield protection, after the fall sales closing date
+(ii) If you have any insurable winter-planted acreage of the insured crop, you may not change your coverage level, or your percentage of projected price (if you have yield protection), or elect revenue protection or yield protection, after the winter sales closing date. Winter-planted acreage of the insured crop must be reported and insured if it meets the requirements in section 6.
 
 4. Contract Changes
 
@@ -64,7 +86,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 5. Cancellation and Termination Dates
 
-The cancellation and termination dates are as follows, unless otherwise specified in the Special Provisions:
+The cancellation and termination dates are as follows, unless otherwise specified in the actuarial documents:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Crop, state and county                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |Cancellation date|Termination date|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
@@ -123,35 +145,41 @@ The cancellation and termination dates are as follows, unless otherwise specifie
 
 (d) In counties for which the actuarial table provides premium rates for the Wheat or Barley Winter Coverage Endorsement (7 CFR 457.102), coverage is available for wheat or barley damaged between the time coverage begins and the spring final planting date. Coverage under the endorsement is effective only if you qualify under the terms of the endorsement and you execute the endorsement by the sales closing date.
 
-(e) In counties for which the actuarial table provides premium rates for malting barley coverage, an endorsement is available (7 CFR 457.118) that provides additional insurance protection for malting barley. This endorsement provides coverage for producers who grow malting barley under contract and for those who do not have a contract. Coverage under the endorsement is effective only if you qualify under the terms of the endorsement and you execute the endorsement by the sales closing date.
-
 7. Insurance Period
 
 In accordance with section 11 of the Basic Provisions, and subject to any provisions provided by the Wheat or Barley Winter Coverage Endorsement (if elected by you):
 
 (a) Insurance attaches on each unit or part thereof on the later of the date we accept your application or the date the insured crop is planted.
 
-(1) For oats, rye, flax and buckwheat, the following limitations apply:
+(1) For rye, flax, and buckwheat, the following limitations apply:
 
 (i) The acreage must be planted on or before the final planting date designated in the Special Provisions for the insured crop except as allowed in section 12 of these Crop Provisions and section 16 of the Basic Provisions.
 
 (ii) Any acreage of the insured crop damaged before the final planting date, to the extent that producers in the surrounding area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
-(2) For barley and wheat, the following limitations apply:
+(2) For barley, oat, and wheat, the following limitations apply:
 
 (i) The acreage must be planted on or before the final planting date designated in the Special Provisions for the type (winter or spring) except as allowed in section 12 of these Crop Provisions and section 16 of the Basic Provisions.
 
-(ii) Whenever the Special Provisions designate only a fall final planting date, any acreage of winter barley or wheat damaged before such final planting date, to the extent that growers in the area would normally not further care for the crop, must be replanted to a winter type of the insured crop unless we agree that replanting is not practical.
+(ii) Whenever the Special Provisions designate only a winter type, any acreage of winter barley, oats, or wheat damaged before such final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a winter type of the insured crop unless we agree that replanting is not practical.
 
-(iii) Whenever the Special Provisions designate both fall and spring final planting dates:
+(iii) Whenever the Special Provisions designate both winter and spring types:
 
-(A) Any winter barley or winter wheat that is damaged before the spring final planting date, to the extent that growers in the area would normally not further care for the crop, must be replanted to a winter type of the insured crop to maintain insurance based on the winter type unless we agree that replanting is not practical. If it is not practical to replant to the winter type of wheat or barley but is practical to replant to a spring type, you must replant to a spring type to keep your insurance based on the winter type in force.
+(A) Any winter barley, oat, or wheat acreage that is damaged before the spring final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a winter type of the insured crop to maintain insurance based on the winter type unless we agree that replanting is not practical. If it is not practical to replant to the winter type of barley, oats, or wheat, but is practical to replant to a spring type, you must replant to a spring type to keep your insurance based on the winter type in force.
 
-(B) Any winter barley or winter wheat acreage that is replanted to a spring type of the same crop when it was practical to replant the winter type will be insured as the spring type and the production guarantee, premium, projected price, and harvest price applicable to the spring type will be used. In this case, the acreage will be considered to be initially planted to the spring type.
+(B) Any winter barley, oat, or wheat acreage that is replanted to a spring type of the same crop when it was practical to replant the winter type will be insured as the spring type and the production guarantee, premium, projected price, and harvest price applicable to the spring type will be used. In this case, the acreage will be considered to be initially planted to the spring type.
 
-(C) Notwithstanding sections 7(a)(2)(iii)(A) and (B), if you have elected coverage under a barley or wheat winter coverage endorsement (if available in the county), insurance will be in accordance with the endorsement.
+(C) Notwithstanding sections 7(a)(2)(iii)(A) and (B), if you have elected coverage under a barley or wheat Winter Coverage Endorsement (if available in the county), insurance will be in accordance with the endorsement.
 
-(iv) Whenever the Special Provisions designate a spring final planting date, any acreage of spring barley or wheat damaged before such final planting date, to the extent that growers in the area would normally not further care for the crop, must be replanted to a spring type of the insured crop unless we agree that replanting is not practical.
+(D) Any winter barley, oat, or wheat acreage planted after the end of the late planting period will not be insured unless you request such coverage on or before the spring sales closing date, and we inspect and determine that the acreage has an adequate stand in the spring to produce the yield used to determine your production guarantee. However, if we fail to inspect the acreage by the spring final planting date, insurance will attach as specified in section 7(a)(2)(iii)(D)(*3*).
+
+(*1*) Your request for coverage must include the location and number of acres of winter barley, oats, or wheat.
+
+(*2*) The winter barley, oats, or wheat will be insured as a spring type for the purpose of the production guarantee, premium, projected price, and harvest price, if applicable.
+
+(*3*) Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not determine adequacy of the stand by the spring final planting date.
+
+(iv) Whenever the Special Provisions designate a spring type, any spring barley, oat, or wheat acreage damaged before such final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a spring type of the insured crop unless we agree that replanting is not practical.
 
 (v) Whenever the Special Provisions designate only a spring final planting date, any acreage of fall planted barley or fall planted wheat is not insured unless you request such coverage on or before the spring sales closing date, and we determine, in writing, that the acreage has an adequate stand in the spring to produce the yield used to determine your production guarantee. However, if we fail to inspect the acreage by the spring final planting date, insurance will attach as specified in section 7(a)(2)(v)(C).
 
@@ -203,17 +231,17 @@ The specific causes of loss for small grains are:
 
 (1) In lieu of provisions in section 13 of the Basic Provisions that limit the amount of a replant payment to the actual cost of replanting, the amount of any replanting payment will be determined in accordance with these crop provisions;
 
-(2) You must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions (except as allowed in section 9(a)(1)) and in any winter coverage endorsement for which you are eligible and which you have elected;
+(2) You must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions (except as allowed in section 9(a)(1)) and in any Winter Coverage Endorsement for which you are eligible and which you have elected;
 
 (3) The insured crop must be damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage;
 
-(4) The acreage must have been initially planted to a spring type of the insured crop in those counties with only a spring final planting date;
+(4) The acreage must have been initially planted to a spring type of the insured crop in those counties with only a spring type;
 
-(5) Damage must occur after the fall final planting date in those counties where both a fall and spring final planting date are designated (If the Special Provisions provide more than one fall final planting date, the fall final planting date applicable to policies with the Wheat or Barley Winter Coverage Endorsement will be used for this purpose, regardless of whether or not the endorsement is actually in effect.); and
+(5) Damage must occur after the winter final planting date in those counties where both a winter and spring final planting date are designated (If the Special Provisions provide more than one winter final planting date, the winter final planting date applicable to policies with the Wheat or Barley Winter Coverage Endorsement will be used for this purpose, regardless of whether or not the endorsement is actually in effect.); and
 
 (6) The replanted crop must be seeded at a rate sufficient to achieve a total (undamaged and new seeding) plant population that is considered appropriate by agricultural experts for the insured crop, type and practice.
 
-(b) No replanting payment will be made for acreage initially planted to a winter type of the insured crop (including rye) in any county for which the Special Provisions contain only a fall final planting date (including final planting dates in December, January and February).
+(b) No replanting payment will be made for acreage initially planted to a winter type of the insured crop (including rye) in any county for which the Special Provisions contain only a winter type.
 
 (c) Unless otherwise specified in the Special Provisions, the amount of the replanting payment per acre will be:
 
@@ -227,7 +255,7 @@ The specific causes of loss for small grains are:
 
 (2) Multiplied by:
 
-(i) Your price election for oats, flax or buckwheat; or
+(i) Your price election for oats, flax, or buckwheat; or
 
 (ii) Your projected price for wheat or barley; and
 
@@ -235,9 +263,9 @@ The specific causes of loss for small grains are:
 
 (d) When the crop is replanted using a practice that is uninsurable for an original planting, the liability on the unit will be reduced by the amount of the replanting payment. The premium amount will not be reduced.
 
-(e) Replanting payments will be calculated using your price election or your projected price, as applicable, and your production guarantee for the crop type that is replanted and insured. For example, if damaged spring wheat is replanted to durum wheat, your projected price applicable to durum wheat will be used to calculate any replanting payment that may be due. A revised acreage report will be required to reflect the replanted type. Notwithstanding the previous two sentences, the following will have a replanting payment based on your production guarantee and your price election or your projected price, as applicable, for the crop type initially planted:
+(e) Replanting payments will be calculated using your price election or your projected price, as applicable, and your production guarantee for the type that is replanted and insured. For example, if damaged spring wheat is replanted to durum wheat, your projected price applicable to durum wheat will be used to calculate any replanting payment that may be due. A revised acreage report will be required to reflect the replanted type. Notwithstanding the previous two sentences, the following will have a replanting payment based on your production guarantee and your price election or your projected price, as applicable, for the type initially planted:
 
-(1) Any damaged winter crop type that is replanted to a spring crop type, but that retains insurance based on the winter crop type; and
+(1) Any damaged winter type that is replanted to a spring type, but that retains insurance based on the winter type; and
 
 (2) Any acreage replanted at a reduced seeding rate into a partially damaged stand of the insured crop.
 
@@ -337,9 +365,11 @@ If you elected revenue protection:
 
 (ii) 14.5 percent for barley;
 
-(iii) 14.0 percent for oats; and
+(iii) 14.0 percent for oats;
 
-(iv) 16.0 percent for rye and buckwheat.
+(iv) 16.0 percent for rye and buckwheat; or
+
+(v) As otherwise provided in the Special Provisions.
 
 We may obtain samples of the production to determine the moisture content.
 
@@ -383,16 +413,16 @@ We may obtain samples of the production to determine the moisture content.
 
 (iv) With regard to substances or conditions injurious to human or animal health, the samples are analyzed by a laboratory approved by us.
 
-(4) Small grain production that is eligible for quality adjustment, as specified in sections 11(d)(2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
+(4) Small grain production that is eligible for quality adjustment, as specified in sections 11(d)(2) and (3), will be reduced by the quality adjustment factor calculated in accordance with the Special Provisions.
 
 (e) Any production harvested from plants growing in the insured crop may be counted as production of the insured crop on a weight basis.
 
 12. Late Planting
 
-A late planting period is applicable to small grains, except to any barley or wheat acreage covered under the terms of the Wheat or Barley Winter Coverage Endorsement. Barley or wheat covered under the terms of the Winter Coverage Endorsement must be planted on or prior to the applicable final planting date specified in the Special Provisions. In counties having one fall final planting date for acreage covered under the Wheat or Barley Winter Coverage Endorsement and another fall final planting date for acreage not covered under the endorsement, the fall late planting period will begin after the final planting date for acreage not covered under the endorsement.
+A late planting period is applicable to small grains, except to any barley or wheat acreage covered under the terms of the Wheat or Barley Winter Coverage Endorsement. Barley or wheat covered under the terms of the Winter Coverage Endorsement must be planted on or prior to the applicable final planting date specified in the Special Provisions. In counties having one winter final planting date for acreage covered under the Wheat or Barley Winter Coverage Endorsement and another winter final planting date for acreage not covered under the endorsement, the winter late planting period will begin after the final planting date for acreage not covered under the endorsement.
 
-13. Prevented Planting
+13. Prevented Planting.
 
-In counties for which the Special Provisions designate a spring final planting date, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop. Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
+Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents. In counties for which the Special Provisions designate a spring type, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
-[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016]
+[59 FR 9391, Feb. 28, 1994, as amended at 60 FR 62723, Dec. 7, 1995; 62 FR 65164, Dec. 10, 1997; 67 FR 43526, June 28, 2002; 68 FR 34268, June 9, 2003; 75 FR 15875, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 86 FR 33849, June 25, 2021]Editorial Note:At 86 FR 33489, June 25, 2021, § 457.101, in section 7 of the clause, paragraphs (c)(2)(v) introductory text, and (c)(2)(v)(A), (B), (D), and (E) were revised. However, due to an inaccurate amendatory instruction, the amendments could not be incorporated.

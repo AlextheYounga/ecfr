@@ -1,5 +1,7 @@
 ##### § 1024.41 Loss mitigation procedures. #####
 
+Link to an amendment published at 86 FR 34899, June 30, 2021.
+
 (a) *Enforcement and limitations.* A borrower may enforce the provisions of this section pursuant to section 6(f) of RESPA (12 U.S.C. 2605(f)). Nothing in § 1024.41 imposes a duty on a servicer to provide any borrower with any specific loss mitigation option. Nothing in § 1024.41 should be construed to create a right for a borrower to enforce the terms of any agreement between a servicer and the owner or assignee of a mortgage loan, including with respect to the evaluation for, or offer of, any loss mitigation option or to eliminate any such right that may exist pursuant to applicable law.
 
 (b) *Receipt of a loss mitigation application* - (1) *Complete loss mitigation application.* A complete loss mitigation application means an application in connection with which a servicer has received all the information that the servicer requires from a borrower in evaluating applications for the loss mitigation options available to the borrower. A servicer shall exercise reasonable diligence in obtaining documents and information to complete a loss mitigation application.

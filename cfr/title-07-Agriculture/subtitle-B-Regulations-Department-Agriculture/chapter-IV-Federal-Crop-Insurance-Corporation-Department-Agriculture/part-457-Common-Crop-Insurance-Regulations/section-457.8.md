@@ -294,7 +294,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 (iii) First obtained status as a veteran during the most recent 5-year period.
 
-(2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition. A spouse's veteran status does not impact whether an individual is considered a veteran farmer or rancher.
+(2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition; except in cases in which there is only a married couple, then a veteran and non-veteran spouse are considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
 
@@ -1058,6 +1058,8 @@ Your Duties -
 
 (ii) For any claim for indemnity, no indemnity will be paid but you will still be required to pay all premiums owed.
 
+(6) You must give us notice in accordance with section 36(a)(3) to replace post-quality actual yields for previous crop years.
+
 (c) Representative samples:
 
 (1) If representative samples are required by the Crop Provisions, you must leave representative samples of the unharvested crop intact:
@@ -1406,7 +1408,7 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (iii) The insured crop planted in the field would not have been planted on the remaining prevented planting acreage (*e.g.,* where due to Crop Provisions, Special Provisions, or processor contract specifications rotation requirements would not be met, or you already planted the total number of acres specified in the processor contract); or
 
-(iv) The acreage that was prevented from being planted constitutes at least 20 acres or 20 percent of the total insurable acreage in the field and you provide proof that you intended to plant another crop or crop type on the acreage (including, but not limited to inputs purchased, applied or available to apply, or that acreage was part of a crop rotation).
+(iv) The acreage that was prevented from being planted constitutes at least 20 acres or 20 percent of the total insurable acreage in the field and you provide proof that you intended to plant another crop, crop type, or follow both practices on the acreage (including, but not limited to inputs purchased, applied or available to apply, or that acreage was part of a crop rotation).
 
 (2) For which the actuarial documents do not provide the information needed to determine the premium rate, unless a written agreement designates such premium rate;
 
@@ -2100,6 +2102,8 @@ The descriptive headings of the various policy provisions are formulated for con
 
 (*2*) At any time after the acreage reporting date, we will assign the basic unit structure.
 
+(ix) You may elect enterprise units as allowed by the Crop Provisions if provided in the actuarial documents.
+
 (5) For a whole-farm unit:
 
 (i) To qualify:
@@ -2236,17 +2240,25 @@ If provided in the actuarial documents, you may elect the following measures to 
 
 (3) Buffer zone acreage.
 
-(c) On the date you report your acreage, you must have:
+(c) You must provide the following organic records, as applicable:
 
-(1) For certified organic acreage, a written certification in effect from a certifying agent indicating the name of the entity certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (A certificate issued to a tenant may be used to qualify a landlord or other similar arrangement);
+(1) By the acreage reporting date, except as allowed by section 37(c)(2), you must have:
 
-(2) For transitional acreage, a certificate as described in section 37(c)(1), or written documentation from a certifying agent indicating an organic plan is in effect for the acreage; and
+(i) For certified organic acreage, a written certification in effect from a certifying agent indicating the name of the entity certified, effective date of certification, certificate number, types of commodities certified, and name and address of the certifying agent (A certificate issued to a tenant may be used to qualify a landlord or other similar arrangement).
 
-(3) Records from the certifying agent showing the specific location of each field of certified organic, transitional, buffer zone, and acreage not maintained under organic management.
+(ii) For transitional acreage, a certificate as described in section 37(c)(1)(i), or written documentation from a certifying agent indicating an organic plan is in effect for the acreage.
+
+(iii) For certified organic and transitional acreage, records from the certifying agent showing the specific location of each field of certified organic, transitional, buffer zone, and acreage not maintained under organic management.
+
+(2) If you do not meet the requirements in section 37(c)(1)(i) or (ii), you must provide documentation that you have requested, in writing, your written certification or organic plan by the acreage reporting date.
+
+(i) Your certificate or plan must be in effect prior to the earlier of the end of the insurance period or when coverage ends as provided in section 11(b).
+
+(ii) Your acreage will remain insured under the practice you reported on the acreage reporting date unless you have a loss. If you have a loss and do not have a certificate or plan in place at the time the claim is finalized in accordance with the applicable policy provisions, then your acreage will be insured under the practice for which it qualifies.
 
 (d) If you claim a loss on any acreage insured under an organic farming practice, you must provide us with copies of the records required in section 37(c).
 
-(e) If any acreage qualifies as certified organic or transitional acreage on the date you report such acreage, and such certification is subsequently revoked by the certifying agent, or the certifying agent no longer considers the acreage as transitional acreage for the remainder of the crop year, that acreage will remain insured under the reported practice for which it qualified at the time the acreage was reported. Any loss due to failure to comply with organic standards will be considered an uninsured cause of loss.
+(e) If any acreage qualifies as certified organic or transitional acreage on the date you report such acreage, and such certification is subsequently revoked or suspended by the certifying agent, or the certifying agent does not consider the acreage as transitional acreage for the remainder of the crop year, that acreage will remain insured under the reported practice for which it qualified at the time the acreage was reported. Any loss due to failure to comply with organic standards will be considered an uninsured cause of loss.
 
 (f) Contamination by application or drift of prohibited substances onto land on which crops are grown using organic farming practices will not be an insured peril on any certified organic, transitional or buffer zone acreage.
 

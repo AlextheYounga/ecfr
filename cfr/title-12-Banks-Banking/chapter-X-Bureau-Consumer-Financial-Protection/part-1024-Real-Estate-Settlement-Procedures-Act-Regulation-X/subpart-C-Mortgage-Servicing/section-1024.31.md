@@ -1,5 +1,7 @@
 ##### § 1024.31 Definitions. #####
 
+Link to an amendment published at 86 FR 34899, June 30, 2021.
+
 For purposes of this subpart:
 
 *Confirmed successor in interest* means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.
