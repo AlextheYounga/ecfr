@@ -4,7 +4,7 @@ The following specifications are included throughout 7 CFR chapter XVII. These s
 
 |   Section    |Issue date|                                 Title                                  |
 |--------------|----------|------------------------------------------------------------------------|
-| (a) 1728.202 | 9.9.2021 |RUS Specification for Quality Control and Inspection of Timber Products.|
+| (a) 1728.202 |4.18.2022 |RUS Specification for Quality Control and Inspection of Timber Products.|
 |(b) [Reserved]|          |                                                                        |
 
-[55 FR 39397, Sept. 27, 1990, as amended at 84 FR 28201, June 18, 2019; 86 FR 57022, Oct. 14, 2021]
+[55 FR 39397, Sept. 27, 1990, as amended at 84 FR 28201, June 18, 2019; 86 FR 57022, Oct. 14, 2021; 87 FR 26963, May 6, 2022]

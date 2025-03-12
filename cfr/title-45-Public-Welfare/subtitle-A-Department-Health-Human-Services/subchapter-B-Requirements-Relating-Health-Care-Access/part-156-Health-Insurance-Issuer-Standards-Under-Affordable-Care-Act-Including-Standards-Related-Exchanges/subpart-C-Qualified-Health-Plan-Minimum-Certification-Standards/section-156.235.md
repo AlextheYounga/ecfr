@@ -1,5 +1,7 @@
 ##### § 156.235 Essential community providers. #####
 
+Link to an amendment published at 87 FR 27391, May 6, 2022.
+
 (a) *General ECP standard.* (1) A QHP issuer that uses a provider network must include in its provider network a sufficient number and geographic distribution of essential community providers (ECPs), where available, to ensure reasonable and timely access to a broad range of such providers for low-income individuals or individuals residing in Health Professional Shortage Areas within the QHP's service area, in accordance with the Exchange's network adequacy standards.
 
 (2) A plan applying for QHP certification to be offered through a Federally-facilitated Exchange has a sufficient number and geographic distribution of ECPs if it demonstrates in its QHP application that -

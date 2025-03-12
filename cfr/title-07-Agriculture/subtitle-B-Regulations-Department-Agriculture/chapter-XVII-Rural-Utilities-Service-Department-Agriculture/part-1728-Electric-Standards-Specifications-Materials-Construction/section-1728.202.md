@@ -24,19 +24,20 @@
 
 (9) Inspection agencies shall have and maintain liability insurance in the amount of $500,000 and a surety bond or miscellaneous Errors and Omission insurance for consequential damages for not less than $250,000. Evidence of compliance to the requirement in this paragraph (b)(9) shall be forwarded to the RUS annually. The evidence shall be in the form of a certificate of insurance or a Bond signed by a representative of the insurance or Surety Bonding company and include a provision that no change in, or cancellation of, will be made without the prior written notice to Chairman, Technical Standards Committee “A” (Electric).
 
-(10) Inspection agencies shall maintain their own properly equipped laboratory that, at a minimum, is able to run the referee methods listed in table 1 to this paragraph (b)(10) for retention analysis for all preservatives being inspected. This laboratory shall be independent from any treating plant laboratory. Inspection Agencies may use one central laboratory. All XRF units maintained by third party inspection agencies as part of their RUS required laboratories shall be calibrated at least quarterly by said agency utilizing the referee method for each preservative treatment being analyzed or via comparison with a set of graduated treated wood standards. Each agency shall keep an up-to-date written record of these quarterly calibration results. AWPA A83 or AWPA A9 (incorporated by reference at § 1728.97) shall be followed for Pentachlorophenol testing, AWPA-A30 or AWPA A9 (incorporated by reference at § 1728.97) shall be followed for DCOI testing, AWPA A6 (incorporated by reference at § 1728.97) shall be followed for Creosote testing, and AWPA A9 (incorporated by reference at § 1728.97) shall be followed for XRF, as illustrated in the following table:
+(10)(i) Inspection agencies shall maintain their own properly equipped laboratory that, at a minimum, is able to run the referee methods listed in table 1 to this paragraph (b)(10) for retention analysis for all preservatives being inspected. This laboratory shall be independent from any treating plant laboratory. Inspection Agencies may use one central laboratory. All XRF units maintained by third party inspection agencies as part of their RUS required laboratories shall be calibrated at least quarterly by said agency utilizing the referee method for each preservative treatment being analyzed or via comparison with a set of graduated treated wood standards. Each agency shall keep an up-to-date written record of these quarterly calibration results.
 
-Table 1 to Paragraph (b)(10)
+|                                                                                             Preservative                                                                                             |         Analytical method         |        Referee method         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------------------|
+|                                                                                          Pentachlorophenol                                                                                           |XRF, Lime Ignition, Copper Pyridine|Lime Ignition, Copper Pyridine.|
+|                                                                                               Creosote                                                                                               |        Toluene Extraction         |      Toluene Extraction.      |
+|                                                                                              Waterborne                                                                                              |                XRF                |             XRF.              |
+|                                                                                          Copper Naphthenate                                                                                          |                XRF                |           ICP, GC.            |
+|                                                                                                 DCOI                                                                                                 |             XRF, HPLC             |             HPLC.             |
+|**Note 1 to table 1 to paragraph (b)(10)(i):** XFR means X-ray fluorescence; HPLC means High Performance Liquid Chromatography; ICP means Inductively coupled plasma; and GC means Gas Chromatography.|                                   |                               |
 
-|   Preservative   |         Analytical method         |        Referee method         |
-|------------------|-----------------------------------|-------------------------------|
-|Pentachlorophenol |XRF, Lime Ignition, Copper Pyridine|Lime Ignition, Copper Pyridine.|
-|     Creosote     |        Toluene Extraction         |      Toluene Extraction.      |
-|    Waterborne    |                XRF                |             XRF.              |
-|Copper Naphthenate|                XRF                |           ICP, GC.            |
-|       DCOI       |             XRF, HPLC             |             HPLC.             |
+(ii) Inspection agencies shall, on an annual basis, provide RUS Technical Standards Committee “A” with proof that the agency does have the required, fully equipped laboratory capable of running each of the referee methods of analysis as illustrated in table 1 to paragraph (b)(10)(i) of this section. AWPA A83 or AWPA A9 (both incorporated by reference at § 1728.97) shall be followed for Pentachlorophenol testing.
 
-Note 1 to table 1 to paragraph (b)(10): XFR means X-ray fluorescence; HPLC means High Performance Liquid Chromatography; ICP means Inductively coupled plasma; and GC means Gas Chromatography.
+(iii) AWPA A30 (incorporated by reference at § 1728.97) or AWPA A9 shall be followed for DCOI testing. AWPA A6 (incorporated by reference at § 1728.97) shall be followed for Creosote testing and AWPA A9 shall be followed for XRF, as illustrated in table 1 to paragraph (b)(10)(i) of this section.
 
 (11) If used for analysis, plant XRF units shall be accurate and generate reproducible results per AWPA A9. At least once monthly, their accuracy and precision shall be checked by the third-party inspector. This verification shall consist of the inspector taking a retention sample previously analyzed by the plant quality control supervisor on-site and rerunning it in the inspection agency's own laboratory using said agency's XRF unit or the referee method for a specific preservative. If the inspection agency's analytical result is within +5% of the plant's retention result on that sample, the plant XRF unit needs no further calibration.
 
@@ -78,7 +79,7 @@ Note 1 to table 1 to paragraph (b)(10): XFR means X-ray fluorescence; HPLC means
 
 (d) *Preservatives.* Creosote, waterborne preservatives, pentachlorophenol, DCOI, and copper naphthenate shall conform to current AWPA U1 (incorporated by reference in § 1728.97).
 
-(e) *Results of treatment - Poles.* (1) Following treatment, poles shall be sampled for preservative retention and penetration utilizing a calibrated increment borer 0.2 inches +0.02 inches in diameter in accordance with procedures listed in AWPA M2 (incorporated by reference in § 1728.97).
+(e) *Results of treatment—Poles.* (1) Following treatment, poles shall be sampled for preservative retention and penetration utilizing a calibrated increment borer 0.2 inches +0.02 inches in diameter in accordance with procedures listed in AWPA M2 (incorporated by reference in § 1728.97).
 
 (2) Inspectors may take their own retention samples and analyze them concurrently with those taken by the quality control supervisor, but each shall work independently. The results of the plant's analysis shall be presented before verification and acceptance of the charge by the third-party inspector.
 
@@ -88,17 +89,14 @@ Note 1 to table 1 to paragraph (b)(10): XFR means X-ray fluorescence; HPLC means
 
 (5) Retention and penetration samples shall consist of borings representative of pole volumes for each class and length in the charge, as illustrated in the following table:
 
-Table 2 to Paragraph (e)(5)
-
-|Number of poles|Class/length|Vol. in ft<sup>3</sup>|% of total vol.|Number of borings<sup>2</sup>|
-|---------------|------------|----------------------|---------------|-----------------------------|
-|      20       |    5/40    |         550          |      22       |              4              |
-|      30       |    4/40    |         840          |      34       |              7              |
-|      20       |    4/45    |         510          |      20       |              4              |
-|      20       |    3/45    |         600          |      24       |              5              |
-|     Total     |            |        2,500         |               |                             |
-
-Note 2 to table 2 to paragraph (e)(5): Retention and penetration requirements for each different species and preservative are listed in Table 8 of Appendix A, RUS Bulletin 1728F-700, Specification for Wood Poles, Stubs and Anchor Logs (incorporated by reference at § 1728.97).
+|                                                                                                                                    Number of poles                                                                                                                                     |Class/length|Vol. in ft<sup>3</sup>|% of total vol.|Number of borings <sup>2</sup>|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------------|---------------|------------------------------|
+|                                                                                                                                           20                                                                                                                                           |    5/40    |         550          |      22       |              4               |
+|                                                                                                                                           30                                                                                                                                           |    4/40    |         840          |      34       |              7               |
+|                                                                                                                                           20                                                                                                                                           |    4/45    |         510          |      20       |              4               |
+|                                                                                                                                           20                                                                                                                                           |    3/45    |         600          |      24       |              5               |
+|                                                                                                                                         Total                                                                                                                                          |            |        2,500         |               |                              |
+|**Note 2 to table 2 to paragraph (e)(5):** Retention and penetration requirements for each different species and preservative are listed in Table 8 of Appendix A, RUS Bulletin 1728F-700, Specification for Wood Poles, Stubs and Anchor Logs (incorporated by reference at § 1728.97).|            |                      |               |                              |
 
 (6) Preservative retention analyses shall be performed per the standard AWPA U1, (incorporated by reference at § 1728.97).
 
@@ -122,7 +120,7 @@ Note 2 to table 2 to paragraph (e)(5): Retention and penetration requirements fo
 
 (iii) Nonconforming poles may be treated only twice. The letter “R” shall be added to the original charge number in the butts of all poles that are retreated. Poles failing to meet treatment requirements after two retreatments shall be permanently rejected and all brand and butt information removed.
 
-(f) *Results of treatment - Crossarms.* Retention and penetration samples shall be taken from not less than 20 crossarms in each charge. The sampling method and retention and penetration requirements for both Douglas-fir and Southern Yellow Pine crossarms are listed in § 1728.201.
+(f) *Results of treatment—Crossarms.* Retention and penetration samples shall be taken from not less than 20 crossarms in each charge. The sampling method and retention and penetration requirements for both Douglas-fir and Southern Yellow Pine crossarms are listed in § 1728.201.
 
 (g) *Product acceptance.* (1) Third party inspectors shall verify their acceptance of untreated poles that have been offered by the producer as conforming by marking each accepted piece in the tip with a clear, legible hammer stamp. Following treatment, inspectors shall verify their acceptance of treated poles that have been offered by the producer as conforming by marking each accepted piece in the butt with a clear, legible hammer stamp. Inspection marks are not to be placed in the butt surfaces of any poles prior to treatment and proper retention analysis and penetration testing being completed. The inspector shall personally mark each piece for acceptance and shall not delegate this responsibility to any other individual.
 
@@ -156,4 +154,4 @@ Note 2 to table 2 to paragraph (e)(5): Retention and penetration requirements fo
 
 (i) *Safety provisions.* Poles intended for agency borrowers shall not be inspected when, in the opinion of the inspector, unsafe conditions are present.
 
-[84 FR 28198, June 18, 2019, as amended at 86 FR 57021, Oct. 14, 2021]
+[84 FR 28198, June 18, 2019, as amended at 86 FR 57021, Oct. 14, 2021; 87 FR 26963, May 6, 2022]

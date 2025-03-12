@@ -1,5 +1,7 @@
 ##### § 158.170 Allocation of expenses. #####
 
+Link to an amendment published at 87 FR 27393, May 6, 2022.
+
 (a) *General requirements.* Each expense must be reported under only one type of expense, unless a portion of the expense fits under the definition of or criteria for one type of expense and the remainder fits into a different type of expense, in which case the expense must be pro-rated between types of expenses. Expenditures that benefit lines of business or products other than those being reported, including but not limited to those that are for or benefit self-funded plans, must be reported on a pro rata share.
 
 (b) *Description of the methods used to allocate expenses.* The report required in § 158.110 must include a detailed description of the methods used to allocate expenses, including incurred claims, quality improvement expenses (unless the report utilizes the percentage of premium option described in § 158.221(b)(8), in which case the allocation method description should state so), Federal and State taxes and licensing or regulatory fees, and other non-claims costs, to each health insurance market in each State. A detailed description of each expense element must be provided, including how each specific expense meets the criteria for the type of expense in which it is categorized, as well as the method by which it was aggregated.

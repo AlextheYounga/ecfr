@@ -1,5 +1,7 @@
 ##### § 158.150 Activities that improve health care quality. #####
 
+Link to an amendment published at 87 FR 27393, May 6, 2022.
+
 (a) *General requirements.* The report required in § 158.110 of this subpart must include expenditures for activities that improve health care quality, as described in this section.
 
 (b) *Activity requirements.* Activities conducted by an issuer to improve quality must meet the following requirements:

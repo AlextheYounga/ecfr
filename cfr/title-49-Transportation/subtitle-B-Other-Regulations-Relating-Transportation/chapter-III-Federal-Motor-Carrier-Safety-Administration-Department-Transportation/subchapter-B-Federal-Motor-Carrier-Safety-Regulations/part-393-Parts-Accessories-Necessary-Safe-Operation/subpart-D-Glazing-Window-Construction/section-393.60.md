@@ -1,8 +1,5 @@
-##### § 393.60 Glazing in specified openings. #####
-
-Link to an amendment published at 87 FR 12604, Mar. 7, 2022.
-
-(a) *Glazing material.* Glazing material used in windshields, windows, and doors on a motor vehicle manufactured on or after December 25, 1968, shall at a minimum meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 205 in effect on the date of manufacture of the motor vehicle. The glazing material shall be marked in accordance with FMVSS No. 205 (49 CFR 571.205, S6).
+##### § 393.60 Glazing in specified openings.
+manufactured on or after December 25, 1968, shall at a minimum meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 205 in effect on the date of manufacture of the motor vehicle. The glazing material shall be marked in accordance with FMVSS No. 205 (49 CFR 571.205, S6). #####
 
 (b) *Windshields required.* Each bus, truck and truck-tractor shall be equipped with a windshield. Each windshield or portion of a multi-piece windshield shall be mounted using the full periphery of the glazing material.
 
@@ -18,12 +15,14 @@ Link to an amendment published at 87 FR 12604, Mar. 7, 2022.
 
 (e) *Prohibition on obstructions to the driver's field of view - (1) Devices mounted on the interior of the windshield.* (i) Antennas, and similar devices must not be mounted more than 152 mm (6 inches) below the upper edge of the windshield. These devices must be located outside the area swept by the windshield wipers, and outside the driver's sight lines to the road and highway signs and signals.
 
-(ii) Paragraph (e)(1)(i) of this section does not apply to vehicle safety technologies, as defined in § 393.5, that are mounted on the interior of a windshield. Devices with vehicle safety technologies must be mounted outside the driver's sight lines to the road and to highway signs and signals, and:
+(ii) Paragraph (e)(1)(i) of this section does not apply to *vehicle safety technologies,* as defined in § 393.5, that are mounted on the interior of a windshield. Devices with vehicle safety technologies must be mounted:
 
-(A) Not more than 100 mm (4 inches) below the upper edge of the area swept by the windshield wipers; or
+(A) Not more than 216 mm (8.5 inches) below the upper edge of the area swept by the windshield wipers;
 
-(B) Not more than 175 mm (7 inches) above the lower edge of the area swept by the windshield wipers.
+(B) Not more than 175 mm (7 inches) above the lower edge of the area swept by the windshield wipers; and
+
+(C) Outside the driver's sight lines to the road and highway signs and signals.
 
 (2) *Decals and stickers mounted on the windshield.* Commercial Vehicle Safety Alliance (CVSA) inspection decals, and stickers and/or decals required under Federal or State laws may be placed at the bottom or sides of the windshield provided such decals or stickers do not extend more than 115 mm (41/2 inches) from the bottom of the windshield and are located outside the area swept by the windshield wipers, and outside the driver's sight lines to the road and highway signs or signals.
 
-[63 FR 1387, Jan. 9, 1998, as amended at 81 FR 65574, Sept. 23, 2016; 83 FR 22878, May 17, 2018]
+[63 FR 1387, Jan. 9, 1998, as amended at 81 FR 65574, Sept. 23, 2016; 83 FR 22878, May 17, 2018; 87 FR 12604, Mar. 7, 2022]

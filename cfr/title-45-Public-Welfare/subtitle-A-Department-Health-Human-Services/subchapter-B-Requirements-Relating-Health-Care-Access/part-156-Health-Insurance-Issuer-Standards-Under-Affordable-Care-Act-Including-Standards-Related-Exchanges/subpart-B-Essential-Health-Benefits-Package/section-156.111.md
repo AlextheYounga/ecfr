@@ -1,5 +1,7 @@
 ##### § 156.111 State selection of EHB-benchmark plan for plan years beginning on or after January 1, 2020, and annual reporting of state-required benefits. #####
 
+Link to an amendment published at 87 FR 27390, May 6, 2022.
+
 (a) Subject to paragraphs (b), (c), (d) and (e) of this section, for plan years beginning on or after January 1, 2020, a State may change its EHB-benchmark plan by:
 
 (1) Selecting the EHB-benchmark plan that another State used for the 2017 plan year under §§ 156.100 and 156.110;

@@ -1,5 +1,7 @@
 ##### § 155.340 Administration of advance payments of the premium tax credit and cost-sharing reductions. #####
 
+Link to an amendment published at 87 FR 27389, May 6, 2022.
+
 (a) *Requirement to provide information to enable advance payments of the premium tax credit and cost-sharing reductions.* In the event that the Exchange determines that a tax filer is eligible for advance payments of the premium tax credit, an applicant is eligible for cost-sharing reductions, or that such eligibility for such programs has changed, the Exchange must, simultaneously -
 
 (1) Transmit eligibility and enrollment information to HHS necessary to enable HHS to begin, end, or change advance payments of the premium tax credit or cost-sharing reductions; and

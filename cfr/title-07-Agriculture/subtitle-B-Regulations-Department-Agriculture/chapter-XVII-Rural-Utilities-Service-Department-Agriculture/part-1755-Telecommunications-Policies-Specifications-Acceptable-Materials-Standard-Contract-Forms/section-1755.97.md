@@ -1,6 +1,6 @@
 ##### § 1755.97 Telephone standards and specifications. #####
 
-(a)(1) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved material is available for inspection at the Rural Utilities Service, U.S. Department of Agriculture, Room 5170-S, Washington, DC 20250-1522, call (202) 720-8674 and is available as listed in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these materials at NARA, call (202) 741-6030 or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(a)(1) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. This material is available for inspection at the Rural Utilities Service (RUS) and at the National Archives and Records Administration (NARA). Contact the RUS at: 1400 Independence Ave. SW, Washington, DC, 202-692-0042; email: *comments@usda.gov;* Telephone number: 202-692-0042; *https://www.rd.usda.gov/resources/regulations/bulletins.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the following source(s):
 
 (2) To comply with the provisions of this part, you must follow the requirements set out in the RUS telecommunications bulletins incorporated by reference. These materials are incorporated as they exist on the date of the approval and notification of any change in these materials will be published in the Federal Register. The terms “RUS form”, “RUS standard form”, “RUS specification”, and “RUS bulletin” have the same meaning as the terms “REA form”, “REA standards form”, “REA specification”, and “REA bulletin”, respectively, unless otherwise indicated. For information on other standards incorporated by reference into this part see § 1755.901.
 
@@ -30,7 +30,7 @@
 
 (12) Bulletin 345-184 Form 397e, RUS design specifications for mobile and fixed dial radio telephone equipment May 1971.
 
-(13) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, September 9, 2021.
+(13) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, April 18, 2022.
 
 (14) Bulletin 1753F-150 Form 515a, Specifications and Drawings for Construction of Direct Buried Plant, September 30, 2010.
 
@@ -40,4 +40,4 @@
 
 (17) Bulletin 1753F-153 Form 515d, Specifications and Drawings for Service Installation at Customer Access Locations, September 17, 2001.
 
-[84 FR 28201, June 18, 2019, as amended at 86 FR 57022, Oct. 14, 2021]
+[84 FR 28201, June 18, 2019, as amended at 86 FR 57022, Oct. 14, 2021; 87 FR 26963, May 6, 2022]

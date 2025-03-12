@@ -1,5 +1,7 @@
 ##### § 156.430 Payment for cost-sharing reductions. #####
 
+Link to an amendment published at 87 FR 27392, May 6, 2022.
+
 (a) [Reserved]
 
 (b) *Advance payments for cost-sharing reductions.* (1) A QHP issuer will receive periodic advance payments based on the advance payment amounts calculated in accordance with § 155.1030(b)(3) of this subchapter.

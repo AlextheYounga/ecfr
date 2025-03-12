@@ -1,5 +1,7 @@
 ##### § 155.206 Civil money penalties for violations of applicable Exchange standards by consumer assistance entities in Federally-facilitated Exchanges. #####
 
+Link to an amendment published at 87 FR 27388, May 6, 2022.
+
 (a) *Enforcement actions.* If an individual or entity specified in paragraph (b) of this section engages in activity specified in paragraph (c) of this section, the Department of Health and Human Services (HHS) may impose the following sanctions:
 
 (1) Civil money penalties (CMPs), subject to the provisions of this section.

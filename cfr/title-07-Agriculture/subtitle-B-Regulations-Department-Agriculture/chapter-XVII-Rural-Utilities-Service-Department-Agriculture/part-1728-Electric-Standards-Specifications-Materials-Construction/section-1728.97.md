@@ -34,7 +34,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (15) Bulletin 50-56 (T-3), RUS Specifications for Steel Plate Anchors for Transmission Lines (12-53), incorporation approved for § 1728.98.
 
-(16) Bulletin 50-60 (T-9), RUS Specification - Single Pole Steel Structures, Complete with Arms (12-71), incorporation approved for § 1728.98.
+(16) Bulletin 50-60 (T-9), RUS Specification—Single Pole Steel Structures, Complete with Arms (12-71), incorporation approved for § 1728.98.
 
 (17) Bulletin 50-72 (U-4), RUS Specification for Electrical Equipment Enclosures (5-35 kV) (10-79), incorporation approved for § 1728.98.
 
@@ -44,7 +44,7 @@ Certain material is incorporated by reference into this part with the approval o
 
 (20) Bulletin 50-91 (S-3), RUS Specifications for Step-Down Distribution Substation Transformers (34.4-138 kV) (1-78), incorporation approved for § 1728.98.
 
-(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs, September 9, 2021, incorporation approved for §§ 1728.98 and 1728.202.
+(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs (April 18, 2022), incorporation approved for §§ 1728.98 and 1728.202.
 
 (22) Bulletin 1728F-803, Specifications and Drawings for 24.9/14.4 kV Line Construction (10-98), incorporation approved for § 1728.98.
 
@@ -70,33 +70,33 @@ Certain material is incorporated by reference into this part with the approval o
 
 (d) ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, Telephone: (610) 832-9585, website: *www.astm.org.*
 
-(1) ASTM B 3-01 (Reapproved 2007) - Standard Specification for Soft or Annealed Copper Wire, (ASTM B 3-01) approved March 15, 2007, incorporated by reference approved for § 1728.204.
+(1) ASTM B 3-01 (Reapproved 2007)—Standard Specification for Soft or Annealed Copper Wire, (ASTM B 3-01) approved March 15, 2007, incorporated by reference approved for § 1728.204.
 
-(2) ASTM B 8-04 - Standard Specification for Concentric-Lay-Stranded Copper Conductors, Hard, Medium-Hard, or Soft (ASTM B 8-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
+(2) ASTM B 8-04—Standard Specification for Concentric-Lay-Stranded Copper Conductors, Hard, Medium-Hard, or Soft (ASTM B 8-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
 
-(3) ASTM B 230/B 230M-07 - Standard Specification for Aluminum 1350-H19 Wire for Electrical Purposes (ASTM B 230/B 230M-07), approved March 15, 2007, incorporated by reference approved for § 1728.204.
+(3) ASTM B 230/B 230M-07—Standard Specification for Aluminum 1350-H19 Wire for Electrical Purposes (ASTM B 230/B 230M-07), approved March 15, 2007, incorporated by reference approved for § 1728.204.
 
-(4) ASTM B 231/B 231M-04 - Standard Specification for Concentric-Lay-Stranded Aluminum 1350 Conductors (ASTM B 231/B 231M-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
+(4) ASTM B 231/B 231M-04—Standard Specification for Concentric-Lay-Stranded Aluminum 1350 Conductors (ASTM B 231/B 231M-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
 
-(5) ASTM B 400-08 - Standard Specification for Compact Round Concentric-Lay-Stranded Aluminum 1350 Conductors (ASTM B 400-08), approved September 1, 2008, incorporated by reference approved for § 1728.204.
+(5) ASTM B 400-08—Standard Specification for Compact Round Concentric-Lay-Stranded Aluminum 1350 Conductors (ASTM B 400-08), approved September 1, 2008, incorporated by reference approved for § 1728.204.
 
-(6) ASTM B 496-04 - Standard Specification for Compact Round Concentric-Lay-Stranded Copper Conductors (ASTM B 496-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
+(6) ASTM B 496-04—Standard Specification for Compact Round Concentric-Lay-Stranded Copper Conductors (ASTM B 496-04), approved April 1, 2004, incorporated by reference approved for § 1728.204.
 
-(7) ASTM B 609/B 609M-99 - Standard Specification for Aluminum 1350 Round Wire, Annealed and Intermediate Tempers, for Electrical Purposes (ASTM B 609/B 609M-99), approved April 1, 2004, incorporated by reference approved for § 1728.204.
+(7) ASTM B 609/B 609M-99—Standard Specification for Aluminum 1350 Round Wire, Annealed and Intermediate Tempers, for Electrical Purposes (ASTM B 609/B 609M-99), approved April 1, 2004, incorporated by reference approved for § 1728.204.
 
-(8) ASTM B 786-08 - Standard Specification for 19 Wire Combination Unilay-Stranded Aluminum 1350 Conductors for Subsequent Insulation (ASTM B 786-08), approved September 1, 2008, incorporated by reference approved for § 1728.204.
+(8) ASTM B 786-08—Standard Specification for 19 Wire Combination Unilay-Stranded Aluminum 1350 Conductors for Subsequent Insulation (ASTM B 786-08), approved September 1, 2008, incorporated by reference approved for § 1728.204.
 
-(9) ASTM B 787/B 787M-04 - Standard Specification for 19 Wire Combination Unilay-Stranded Copper Conductors for Subsequent Insulation (ASTM B 787/B 787M-04), approved September 1, 2004, incorporated by reference approved for § 1728.204.
+(9) ASTM B 787/B 787M-04—Standard Specification for 19 Wire Combination Unilay-Stranded Copper Conductors for Subsequent Insulation (ASTM B 787/B 787M-04), approved September 1, 2004, incorporated by reference approved for § 1728.204.
 
-(10) ASTM B 835-04 - Standard Specification for Compact Round Stranded Copper Conductors Using Single Input Wire Construction (ASTM B 835-04), approved September 1, 2004, incorporated by reference approved for § 1728.204.
+(10) ASTM B 835-04—Standard Specification for Compact Round Stranded Copper Conductors Using Single Input Wire Construction (ASTM B 835-04), approved September 1, 2004, incorporated by reference approved for § 1728.204.
 
-(11) ASTM B902-04a - Standard Specification for Compressed Round Stranded Copper Conductors, Hard, Medium-Hard, or Soft Using Single Input Wire Construction (ASTM B902-04a), approved September 1, 2004, incorporated by reference approved for § 1728.204.
+(11) ASTM B902-04a—Standard Specification for Compressed Round Stranded Copper Conductors, Hard, Medium-Hard, or Soft Using Single Input Wire Construction (ASTM B902-04a), approved September 1, 2004, incorporated by reference approved for § 1728.204.
 
-(12) ASTM D 1248-05 - Standard Specification for Polyethylene Plastics Extrusion Materials for Wire and Cable (ASTM D 1248-05), approved March 1, 2005, incorporated by reference approved for § 1728.204.
+(12) ASTM D 1248-05—Standard Specification for Polyethylene Plastics Extrusion Materials for Wire and Cable (ASTM D 1248-05), approved March 1, 2005, incorporated by reference approved for § 1728.204.
 
-(13) ASTM D 2275-01 (Reapproved 2008) - Standard Test Method for Voltage Endurance of Solid Electrical Insulating Materials Subjected to Partial Discharges (Corona) on the Surface (ASTM D 2275-01), approved May 1, 2008, incorporated by reference approved for § 1728.204.
+(13) ASTM D 2275-01 (Reapproved 2008)—Standard Test Method for Voltage Endurance of Solid Electrical Insulating Materials Subjected to Partial Discharges (Corona) on the Surface (ASTM D 2275-01), approved May 1, 2008, incorporated by reference approved for § 1728.204.
 
-(14) ASTM E 96/E 96M-05 - Standard Test Methods for Water Vapor Transmission of Materials (ASTM E 96/E 96M-05), approved May 1, 2005, incorporated by reference approved for § 1728.204.
+(14) ASTM E 96/E 96M-05—Standard Test Methods for Water Vapor Transmission of Materials (ASTM E 96/E 96M-05), approved May 1, 2005, incorporated by reference approved for § 1728.204.
 
 (e) American Wood Protection Association (AWPA), P.O. Box 361784, Birmingham, AL 35236-1784, telephone 205-733-4077, *www.awpa.com.*
 
@@ -118,17 +118,19 @@ Certain material is incorporated by reference into this part with the approval o
 
 (9) AWPA M2-19, Standard for the Inspection of Preservative Treated Products for Industrial Use, Revised 2019, incorporation by reference approved for § 1728.202.
 
-(10) AWPA T1-20, Use Category System: Processing and Treatment Standard, Revised 2020, incorporation by reference § 1728.201.
+(10) AWPA M3-16, Standard for the Quality Control of Preservative Treated Products for Industrial Use, Revised 2016, incorporation by reference approved for §§ 1728.201 and 1728.202.
 
-(11) AWPA U1-20, Use Category System: User Specification for Treated Wood, Revised 2020, incorporation by reference approved for §§ 1728.201 and 1728.202.
+(11) AWPA T1-20, Use Category System: Processing and Treatment Standard, Revised 2020, incorporation by reference § 1728.201.
+
+(12) AWPA U1-20, Use Category System: User Specification for Treated Wood, Revised 2020, incorporation by reference approved for §§ 1728.201 and 1728.202.
 
 (f) Insulated Cable Engineers Association (ICEA). The following material may be purchased from: IHS Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112, Phone: (303) 397-7956; (800) 854-7179, Fax: (303) 397-2740, email: *global@ihs.com,* website: *http://global.ihs.com.*
 
-(1) ANSI/ICEA S-94-649-2004 - Standard for Concentric Neutral Cables Rated 5 Through 46 KV (ANSI/ICEA S-94-649-2004), approved September 20, 2005, incorporation by reference approved for § 1728.204.
+(1) ANSI/ICEA S-94-649-2004—Standard for Concentric Neutral Cables Rated 5 Through 46 KV (ANSI/ICEA S-94-649-2004), approved September 20, 2005, incorporation by reference approved for § 1728.204.
 
-(2) ANSI/ICEA T-31-610-2007 - Test Method for Conducting Longitudinal Water Penetration Resistance Tests on Blocked Conductors (ANSI/ICEA T-31-610-2007), approved October 31, 2007, incorporated by reference approved for § 1728.204.
+(2) ANSI/ICEA T-31-610-2007—Test Method for Conducting Longitudinal Water Penetration Resistance Tests on Blocked Conductors (ANSI/ICEA T-31-610-2007), approved October 31, 2007, incorporated by reference approved for § 1728.204.
 
-(3) ICEA T-32-645-93 - Guide for Establishing Compatibility of Sealed Conductor Filler Compounds with Conducting Stress Control Materials (ICEA T-32-645-93), approved February 1993, incorporated by reference approved for § 1728.204.
+(3) ICEA T-32-645-93—Guide for Establishing Compatibility of Sealed Conductor Filler Compounds with Conducting Stress Control Materials (ICEA T-32-645-93), approved February 1993, incorporated by reference approved for § 1728.204.
 
 (g) Southern Pine Inspection Bureau Standards, 4709 Scenic Highway, Pensacola, Florida 32504-9094, telephone (850) 434-2611. The web address for the Southern Pine Inspection Bureau is *http://www.spib.org/.*
 
@@ -142,4 +144,4 @@ Certain material is incorporated by reference into this part with the approval o
 
 (2) [Reserved]
 
-[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012; 83 FR 55467, Nov. 6, 2018; 84 FR 28190, June 18, 2019; 86 FR 57020, Oct. 14, 2021]
+[76 FR 36963, June 24, 2011, as amended at 77 FR 19528, Apr. 2, 2012; 83 FR 55467, Nov. 6, 2018; 84 FR 28190, June 18, 2019; 86 FR 57020, Oct. 14, 2021; 87 FR 26962, May 6, 2022]

@@ -1,5 +1,7 @@
 ##### § 156.50 Financial support. #####
 
+Link to an amendment published at 87 FR 27389, May 6, 2022.
+
 (a) *Definitions.* The following definitions apply for the purposes of this section:
 
 *Participating issuer* means any issuer offering a plan that participates in the specific function that is funded by user fees. This term may include: health insurance issuers, QHP issuers, issuers of multi-State plans (as defined in § 155.1000(a) of this subchapter), issuers of stand-alone dental plans (as described in § 155.1065 of this subtitle), or other issuers identified by an Exchange.

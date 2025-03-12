@@ -1,7 +1,5 @@
 ##### § 393.5 Definitions. #####
 
-Link to an amendment published at 87 FR 12604, Mar. 7, 2022.
-
 As used in this part, the following words and terms are construed to mean:
 
 *Aggregate working load limit.* The summation of the working load limits or restraining capacity of all devices used to secure an article of cargo on a vehicle.
@@ -188,7 +186,7 @@ As used in this part, the following words and terms are construed to mean:
 
 *Vacuum brake system.* A system that uses a vacuum and atmospheric pressure for transmitting a force from the driver control to the service brake, not including a system that uses vacuum only to assist the driver in applying muscular force to hydraulic or mechanical components.
 
-*Vehicle safety technology.* Vehicle safety technology includes a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, active cruise control system, and transponder.
+*Vehicle safety technology.* Vehicle safety technology includes systems and items of equipment to promote driver, occupant, and roadway safety. Examples of vehicle safety technology systems and devices include a fleet-related incident management system, performance or behavior management system, speed management system, lane departure warning system, forward collision warning or mitigation system, active cruise control system, transponder, braking warning system, braking assist system, driver camera system, attention assist warning, Global Positioning Systems, and traffic sign recognition. Vehicle safety technology includes systems and devices that contain cameras, lidar, radar, sensors, and/or video.
 
 *Void filler.* Material used to fill a space between articles of cargo and the structure of the vehicle that has sufficient strength to prevent movement of the articles of cargo.
 
@@ -204,4 +202,4 @@ As used in this part, the following words and terms are construed to mean:
 
 *Working load limit (WLL).* The maximum load that may be applied to a component of a cargo securement system during normal service, usually assigned by the manufacturer of the component.
 
-[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016; 86 FR 62111, Nov. 9, 2021]
+[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016; 86 FR 62111, Nov. 9, 2021; 87 FR 12604, Mar. 7, 2022]

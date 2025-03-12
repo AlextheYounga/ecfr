@@ -1,5 +1,7 @@
 ##### § 156.400 Definitions. #####
 
+Link to an amendment published at 87 FR 27392, May 6, 2022.
+
 The following definitions apply to this subpart:
 
 *Advance payments of the premium tax credit* has the meaning given to the term in § 155.20 of this subchapter.
