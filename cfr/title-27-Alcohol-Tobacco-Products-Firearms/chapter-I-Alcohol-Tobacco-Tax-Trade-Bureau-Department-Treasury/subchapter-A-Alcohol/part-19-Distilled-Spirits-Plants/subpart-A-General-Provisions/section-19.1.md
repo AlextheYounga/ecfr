@@ -22,7 +22,7 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Bond.* A bond is a formal guarantee for payment of monies due to TTB, including taxes imposed by 26 U.S.C. chapter 51, and any related fines, penalties or interest that the proprietor of a distilled spirits plant may incur, up to an amount specified by the bond (the bond “penal sum”).
 
-*Bonded premises.* The premises of a distilled spirits plant, or part thereof, as described in the application for registration, on which the conduct of distilled spirits operations defined in 26 U.S.C. 5002 is authorized.
+*Bonded premises.* The premises of a distilled spirits plant, or part thereof, as described in the application for registration, on which the conduct of distilled spirits operations defined in 26 U.S.C. 5002 is authorized. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 19.151(d), has not provided a bond for the premises.
 
 *Bottler.* A proprietor of a distilled spirits plant qualified under this part as a processor that bottles distilled spirits.
 
@@ -90,11 +90,13 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Fiscal year.* The period October 1st of one calendar year through September 30th of the following calendar year.
 
+*From bond.* When used with reference to withdrawals of distilled spirits, this phrase includes withdrawals from the premises of a distilled spirits plant even if the proprietor, as authorized under the exemption set forth in § 19.151(d), has not provided a bond for the premises.
+
 *Gallon or wine gallon.* The liquid measure equivalent to the volume of 231 cubic inches.
 
 *General premises.* Any business office, service facility, or other part of the premises described in the notice of registration other than bonded premises.
 
-*In bond.* When used to describe spirits, denatured spirits, articles, or wine, this term refers to spirits, denatured spirits, articles, or wine held under bond to secure the payment of the taxes imposed by 26 U.S.C. chapter 51, and on which those taxes have not been determined. The term also refers to such spirits, denatured spirits, articles, or wine on the bonded premises of a distilled spirits plant, and such spirits, denatured spirits, or wines that are in transit between bonded premises (including, in the case of wine, bonded wine cellar premises). In addition, the term refers to spirits in transit from customs custody to bonded premises, and spirits withdrawn without payment of tax under 26 U.S.C. 5214, and with respect to which relief from liability has not occurred under 26 U.S.C. 5005(e)(2).
+*In bond.* When used to describe spirits, denatured spirits, articles, or wine, this term refers to spirits, denatured spirits, articles, or wine held under bond to secure the payment of the taxes imposed by 26 U.S.C. chapter 51, and on which those taxes have not been determined. Spirits, denatured spirits, articles, or wine are considered to be held under bond if they are held by a proprietor who is liable for the tax, even if the proprietor is not required to provide a bond under this chapter. The term also refers to such spirits, denatured spirits, articles, or wine on the bonded premises of a distilled spirits plant, and such spirits, denatured spirits, or wines that are in transit between bonded premises (including, in the case of wine, bonded wine cellar premises). In addition, the term refers to spirits in transit from customs custody to bonded premises, and spirits withdrawn without payment of tax under 26 U.S.C. 5214, and with respect to which relief from liability has not occurred under 26 U.S.C. 5005(e)(2).
 
 *Industrial use.* When used with reference to spirits, the meaning given to the term in § 19.472.
 
@@ -162,13 +164,13 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *This chapter.* Title 27 of the Code of Federal Regulations, Chapter I, Alcohol and Tobacco Tax and Trade Bureau, Department of the Treasury (27 CFR chapter I).
 
+*To bond.* When used with reference to returns of distilled spirits, this phrase includes returns to the premises of a distilled spirits plant even if the proprietor, as authorized under the exemption set forth in § 19.151(d), has not provided a bond for the premises.
+
 *Transfer in bond.* The removal of spirits, denatured spirits and wines from one bonded premises to another bonded premises.
 
 *Treasury Account.* The General Account of the Department of the Treasury at the Federal Reserve Bank of New York.
 
 *TTB.* The Alcohol and Tobacco Tax and Trade Bureau of the Department of the Treasury.
-
-*TTB bond.* The internal revenue bond as prescribed in 26 U.S.C. chapter 51.
 
 *TTB officer.* An officer or employee of TTB authorized to perform any function relating to the administration or enforcement of the provisions of this part.
 
@@ -184,4 +186,4 @@ As used in this part, the following terms shall have the meanings indicated unle
 
 *Wine spirits.* Spirits authorized for use in wine production by 26 U.S.C. 5373.
 
-[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-92a, 76 FR 19908, Apr. 11, 2011]
+[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-92a, 76 FR 19908, Apr. 11, 2011; T.D. TTB-146, 82 FR 1119, Jan. 4, 2017]

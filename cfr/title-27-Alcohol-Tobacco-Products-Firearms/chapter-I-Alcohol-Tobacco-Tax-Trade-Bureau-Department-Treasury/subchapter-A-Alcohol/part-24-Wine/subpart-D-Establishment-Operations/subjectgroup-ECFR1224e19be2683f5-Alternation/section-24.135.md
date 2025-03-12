@@ -6,7 +6,7 @@
 
 (1) A statement on the application TTB F 5120.25 that an alternation of wine premises will occur;
 
-(2) Evidence of existing bond, consent of surety, or a new bond covering the alternation;
+(2) Evidence of existing bond, consent of surety, or a new bond covering the alternation, except in cases where § 24.146(d) does not require a bond or bonds;
 
 (3) A description of how taxpaid wine or spirits, or untaxpaid wine or spirits will be identified and segregated; and
 
@@ -18,4 +18,4 @@
 
 (e) *Conditions.* Authority for the alternation of bonded wine premises, taxpaid wine bottling house premises, taxpaid wine premises, or other premises qualified under 26 U.S.C chapter 51 is conditioned on compliance by the proprietor with the provisions of this section. Authority for the alternation of bonded wine premises, taxpaid wine bottling house premises, taxpaid wine premises, or other premises qualified under 26 U.S.C. chapter 51 may be withdrawn whenever in the judgment of the appropriate TTB officer the revenue is jeopardized or the effective administration of this part is hindered by the continuation of the authorization.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended, 1380, as amended, 1381, as amended (26 U.S.C. 5356, 5357, 5361, 5363, 5365, 5367))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, 13685, Mar. 22, 1999; T.D. ATF-455, 66 FR 29483, May 31, 2001]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended, 1380, as amended, 1381, as amended (26 U.S.C. 5356, 5357, 5361, 5363, 5365, 5367))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, 13685, Mar. 22, 1999; T.D. ATF-455, 66 FR 29483, May 31, 2001; T.D. TTB-146, 82 FR 1124, Jan. 4, 2017]

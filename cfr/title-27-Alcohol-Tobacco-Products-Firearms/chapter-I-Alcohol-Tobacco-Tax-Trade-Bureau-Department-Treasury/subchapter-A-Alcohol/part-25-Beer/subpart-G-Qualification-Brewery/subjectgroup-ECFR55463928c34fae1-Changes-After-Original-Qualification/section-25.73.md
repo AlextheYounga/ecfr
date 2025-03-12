@@ -8,8 +8,8 @@
 
 (2) Under the laws of the State where the partnership was formed, the surviving partner(s) has the exclusive right to control and possession of the partnership assets for the purpose of liquidation and settlement; and
 
-(3) A consent of surety is filed in which the surety and the surviving partner(s) agree to remain liable on the bond.
+(3) If the brewer has filed a bond, a consent of surety is filed in which the surety and the surviving partner(s) agree to remain liable on the bond.
 
-(c) *Settlement of partnership.* If the surviving partner(s) acquires the business on completion of the settlement of the partnership, that partner(s) shall qualify in his or her own name from the date of acquisition and give a new brewer's notice on Form 5130.10 and a new bond on Form 5130.22.
+(c) *Settlement of partnership.* If the surviving partner(s) acquires the business on completion of the settlement of the partnership, that partner(s) must qualify in his or her own name from the date of acquisition. The partner(s) must give a new brewer's notice on Form 5130.10 and a new bond on Form 5130.22, except that the partner(s) is not required to file a bond if the brewer is exempt from bond requirements under § 25.91(e).
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986; 51 FR 10540, Mar. 27, 1986]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986; 51 FR 10540, Mar. 27, 1986; T.D. TTB-146, 82 FR 1127, Jan. 4, 2017]

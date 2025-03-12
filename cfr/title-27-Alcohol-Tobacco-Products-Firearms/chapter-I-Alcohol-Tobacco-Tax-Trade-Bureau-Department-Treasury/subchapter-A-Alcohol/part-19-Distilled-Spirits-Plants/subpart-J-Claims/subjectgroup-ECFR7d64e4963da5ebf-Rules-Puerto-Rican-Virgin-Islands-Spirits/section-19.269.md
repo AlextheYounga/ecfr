@@ -2,7 +2,7 @@
 
 (a) The provisions of 26 U.S.C. 5008, authorizing abatement, remission, credit, or refund for loss or destruction of distilled spirits, also apply to spirits brought into the United States from Puerto Rico or the Virgin Islands with respect to the following:
 
-(1) Spirits lost while in TTB bond;
+(1) Spirits lost while in bond;
 
 (2) Voluntary destruction of spirits in bond;
 
@@ -12,4 +12,4 @@
 
 (b) In addition to the information required by § 19.263, claims relating to spirits lost in bond must show the name of the producer and the serial number and date of the formula under which produced, if any.
 
-(26 U.S.C. 5008, 5215)
+(26 U.S.C. 5008, 5215)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1123, Jan. 4, 2017]

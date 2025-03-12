@@ -38,13 +38,15 @@
 
 (i) A description of the storage system; and
 
-(ii) Total amount of bulk wine gallons that can be stored; and
+(ii) Total amount of bulk wine gallons that can be stored;
 
 (15) The following information if the applicant intends to operate as a processor:
 
 (i) A statement whether spirits will or will not be bottled, denatured, redistilled, and whether articles will be manufactured; and
 
-(ii) A description of the storage system for spirits bottled and cased or otherwise packaged and placed in approved containers for removal from bonded premises.
+(ii) A description of the storage system for spirits bottled and cased or otherwise packaged and placed in approved containers for removal from bonded premises; and
+
+(16) A statement whether the applicant is required to furnish a bond under § 19.151.
 
 (b) *Other business.* If the applicant intends to conduct any other business on the distilled spirits plant premises as authorized under § 19.55, the following information must be submitted with the application:
 
@@ -56,4 +58,4 @@
 
 (c) *Additional information.* The applicant must furnish any additional information needed by TTB to determine if the application for registration should be approved.
 
-(26 U.S.C. 5171, 5172, 6001)
+(26 U.S.C. 5171, 5172, 6001)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1119, Jan. 4, 2017]

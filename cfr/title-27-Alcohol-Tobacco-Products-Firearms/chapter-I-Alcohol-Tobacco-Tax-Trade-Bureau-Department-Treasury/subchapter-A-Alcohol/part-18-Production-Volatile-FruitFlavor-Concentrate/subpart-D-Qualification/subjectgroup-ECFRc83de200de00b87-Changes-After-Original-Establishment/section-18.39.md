@@ -6,6 +6,6 @@ A proprietor of a volatile fruit-flavor concentrate plant operating a contiguous
 
 (b) A special diagram, in duplicate, delineating the premises as they will exist, both during extension and curtailment and clearly depicting all buildings, floors, rooms, areas, equipment and pipe lines (identified individually by letter or number) which are to be subject to alternation, in their relative operating sequence; and
 
-(c) A bond or a consent of surety to cover the proposed alternation of premises.
+(c) A bond or a consent of surety to cover the proposed alternation of premises if the proprietor is required to hold a bond under § 19.151 of this chapter to cover the distilled spirits plant premises subject to alternation.
 
-(Approved by the Office of Management and Budget under control number 1512-0046)[T.D. ATF-455, 66 FR 29482, May 31, 2001]
+(Approved by the Office of Management and Budget under control number 1513-0006)[T.D. ATF-455, 66 FR 29482, May 31, 2001, as amended by T.D. TTB-146, 82 FR 1119, Jan. 4, 2017]

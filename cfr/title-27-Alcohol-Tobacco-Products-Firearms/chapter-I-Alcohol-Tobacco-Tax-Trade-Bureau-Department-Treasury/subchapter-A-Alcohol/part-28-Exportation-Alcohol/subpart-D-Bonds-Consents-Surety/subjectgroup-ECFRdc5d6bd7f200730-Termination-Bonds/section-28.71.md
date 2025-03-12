@@ -1,5 +1,13 @@
-##### § 28.71 Termination of bonds, Forms 2735 (5100.30), 2737 (5110.67), and 2738 (5110.68). #####
+##### § 28.71 Termination of bonds, Forms 5100.30 and 5110.67. #####
 
-Continuing bonds, Forms 2735 (5100.30) and 2737 (5110.67), covering distilled spirits and/or wines withdrawn from time to time without payment of tax under this part and Form 2738 (5110.68) covering allowance of claims for drawback on distilled spirits and/or wines removed as authorized in §§ 28.171 and 28.211, may be terminated as to liability for future withdrawals or claims (a) pursuant to application of surety as provided in § 28.72, (b) on approval of a superseding bond, or (c) on written notification to the appropriate TTB officer by the principal of his discontinuance of withdrawals or claims, as the case may be, under the bond. When no further withdrawals are to be made under a bond on Form 2735 (5100.30) or 2737 (5110.67), or no further claims for drawback are to be filed under bond Form 2738 (5110.68), the bond shall be canceled by the appropriate TTB officer in the manner and subject to the conditions provided in § 28.70.
+(a) *General.* Continuing bonds, Forms 5100.30 and 5110.67, covering distilled spirits and/or wines withdrawn from time to time without payment of tax under this part, may be terminated as to liability for future withdrawals under the following circumstances:
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended, 1352, as amended, 1353, as amended (26 U.S.C. 5062, 5175, 5176))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71722, Dec. 11, 1979; T.D. ATF-198, 50 FR 8559, Mar. 1, 1985; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]
+(1) Pursuant to application of surety as provided in § 28.72;
+
+(2) On approval of a superseding bond as provided in § 28.67; or
+
+(3) On written notification to the appropriate TTB officer by the principal of the discontinuance of withdrawals under the bond (including discontinuance of withdrawals under the bond because the proprietor has become exempt from bond requirements under § 28.51(b)).
+
+(b) *Cancellation.* When no further withdrawals are to be made under a bond on Form 5100.30 or 5110.67 under the circumstances specified in paragraph (a), the bond will be canceled by the appropriate TTB officer in the manner and subject to the conditions provided in § 28.70.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended, 1352, as amended, 1353, as amended (26 U.S.C. 5062, 5175, 5176))[T.D. TTB-146, 82 FR 1136, Jan. 4, 2017]

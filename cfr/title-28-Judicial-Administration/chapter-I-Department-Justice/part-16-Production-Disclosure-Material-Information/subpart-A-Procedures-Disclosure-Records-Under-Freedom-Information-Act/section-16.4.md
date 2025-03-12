@@ -1,5 +1,7 @@
 ##### § 16.4 Responsibility for responding to requests. #####
 
+Link to an amendment published at 82 FR 727, Jan. 4, 2017.
+
 (a) *In general.* Except in the instances described in paragraphs (c) and (d) of this section, the component that first receives a request for a record and maintains that record is the component responsible for responding to the request. In determining which records are responsive to a request, a component ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, the component shall inform the requester of that date. A record that is excluded from the requirements of the FOIA pursuant to 5 U.S.C. 552(c), is not considered responsive to a request.
 
 (b) *Authority to grant or deny requests.* The head of a component, or designee, is authorized to grant or to deny any requests for records that are maintained by that component.

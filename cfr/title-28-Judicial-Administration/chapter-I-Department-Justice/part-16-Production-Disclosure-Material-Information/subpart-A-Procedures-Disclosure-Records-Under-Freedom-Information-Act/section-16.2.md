@@ -1,3 +1,5 @@
 ##### § 16.2 Proactive disclosure of Department records. #####
 
+Link to an amendment published at 82 FR 727, Jan. 4, 2017.
+
 Records that are required by the FOIA to be made available for public inspection and copying may be accessed through the Department's Web site at *http://www.justice.gov/oip/04\_2.html.* Each component is responsible for determining which of its records are required to be made publicly available, as well as identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. Each component shall ensure that its Web site of posted records and indices is reviewed and updated on an ongoing basis. Each component has a FOIA Public Liaison who can assist individuals in locating records particular to a component. A list of the Department's FOIA Public Liaisons is available at *http://www.justice.gov/oip/foiacontact/index-list.html.*

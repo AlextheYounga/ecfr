@@ -1,5 +1,7 @@
 ##### § 16.6 Responses to requests. #####
 
+Link to an amendment published at 82 FR 727, Jan. 4, 2017.
+
 (a) *In general.* Components should, to the extent practicable, communicate with requesters having access to the Internet using electronic means, such as email or web portal.
 
 (b) *Acknowledgments of requests.* A component shall acknowledge the request and assign it an individualized tracking number if it will take longer than 10 working days to process. Components shall include in the acknowledgment a brief description of the records sought to allow requesters to more easily keep track of their requests.

@@ -28,4 +28,10 @@ SIGAR shall charge reasonable fees that recoup the full allowable direct costs i
 
 (2) SIGAR fails to comply with any time limit under the FOIA for responding to a request for records where no unusual or exceptional circumstances apply.
 
-[77 FR 34180, June 11, 2012, as amended at 77 FR 38172, June 27, 2012]
+(3) SIGAR determines that unusual circumstances apply to the processing of a request, provides timely notice the requester, and delay is excused for an additional ten days, but SIGAR still fails to respond within the timeframe established by the additional delay. This provision applies only to search fees. However, the following exceptions shall apply:
+
+(i) Notwithstanding § 9301.8(f)(3), if SIGAR determines that unusual circumstances apply and that responding to the request requires the production of more than 5,000 pages, SIGAR may continue to charge search fees, or duplication fees for requesters in preferred status, for as long as necessary, after timely written notice has been made to the requester and SIGAR has discussed with the requester how the requester could effectively limit the scope of the request via written mail, electronic mail, or telephone, or made three good-faith attempts to do so.
+
+(ii) Notwithstanding § 9301.8(f)(3), if a court determines that exceptional circumstances exist, SIGAR's failure to comply with a time limit shall be excused for the length of time provided by the court order.
+
+[77 FR 34180, June 11, 2012, as amended at 77 FR 38172, June 27, 2012; 82 FR 712, Jan. 4, 2017]

@@ -1,5 +1,5 @@
 ##### § 24.147 Operations bond or unit bond. #####
 
-Notwithstanding the provisions of § 24.146, each person intending to commence or to continue business as the proprietor of a bonded wine premises with an adjacent or contiguous distilled spirits plant qualified under 27 CFR part 19 for the production of distilled spirits shall, in lieu of a winery bond and the bonds required under the provisions of 26 U.S.C. 5173, as amended, give an operations bond or unit bond in accordance with the applicable provisions of 27 CFR part 19.
+Notwithstanding the provisions of § 24.146, each person intending to commence or to continue business as the proprietor of a bonded wine premises with an adjacent or contiguous distilled spirits plant qualified under 27 CFR part 19 for the production of distilled spirits shall, in lieu of a winery bond and the bonds required under the provisions of 26 U.S.C. 5173, as amended, give an operations bond or unit bond in accordance with the applicable provisions of 27 CFR part 19. See § 19.151(d) of this chapter for circumstances under which a bond is not required with respect to operations and withdrawals of distilled spirits.
 
-(Sec. 805(c), Pub. L. 96-39, 93 Stat. 276 (26 U.S.C. 5173))(Approved by the Office of Management and Budget under control number 1512-0058)
+(Sec. 805(c), Pub. L. 96-39, 93 Stat. 276 (26 U.S.C. 5173))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. TTB-146, 82 FR 1124, Jan. 4, 2017]

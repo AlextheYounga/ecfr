@@ -16,6 +16,12 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Beer.* Beer, ale, porter, stout, and other similar fermented beverages (including saké and similar products) of any name or description containing one-half of one percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute for malt. Standards for the production of beer appear in § 25.15.
 
+*Bonded premises of a distilled spirits plant.* The bonded premises of a distilled spirits plant as described in part 19 of this chapter. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
+
+*Bonded wine premises.* Bonded wine premises established under part 24 of this chapter. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 24.146(d) of this chapter, has not provided a bond for the premises.
+
+*Bonded winery.* The premises of a bonded winery as described in part 24 of this chapter. This term includes premises described in the preceding sentence even if the proprietor, as authorized under § 24.146(d) of this chapter, has not provided a bond for the premises.
+
 *Bottle.* A bottle, can or similar container.
 
 *Bottling.* The filling of bottles, cans, and similar containers.
@@ -74,4 +80,4 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Wort.* The product of brewing before fermentation which results in beer.
 
-[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. ATF-345, 58 FR 40357, July 28, 1993; T.D. ATF-437, 66 FR 5478, Jan. 19, 2001; T.D. TTB-21, 70 FR 235, Jan. 3, 2005; T.D. TTB-44, 71 FR 16941, Apr. 4, 2006; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011]
+[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. ATF-345, 58 FR 40357, July 28, 1993; T.D. ATF-437, 66 FR 5478, Jan. 19, 2001; T.D. TTB-21, 70 FR 235, Jan. 3, 2005; T.D. TTB-44, 71 FR 16941, Apr. 4, 2006; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011; T.D. TTB-146, 82 FR 1126, Jan. 4, 2017]

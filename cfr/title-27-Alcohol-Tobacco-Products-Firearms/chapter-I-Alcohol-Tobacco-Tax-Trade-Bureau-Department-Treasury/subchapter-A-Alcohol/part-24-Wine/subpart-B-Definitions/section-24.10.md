@@ -16,13 +16,13 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Artificially carbonated wine.* Effervescent wine artificially charged with carbon dioxide and containing more than 0.392 grams of carbon dioxide per 100 milliliters.
 
-*Bonded wine cellar.* Premises established under the provisions of this part. For the purposes of this part a wine premises designated a bonded winery is also a bonded wine cellar.
+*Bonded wine cellar.* Premises established under the provisions of this part. For the purposes of this part a wine premises designated a bonded winery is also a bonded wine cellar. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
-*Bonded wine premises.* Premises established under the provisions of this part on which operations in untaxpaid wine are authorized to be conducted.
+*Bonded wine premises.* Premises established under the provisions of this part on which operations in untaxpaid wine are authorized to be conducted. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
-*Bonded wine warehouse.* Bonded warehouse facilities established under the provisions of this part on wine premises by a warehouse company or other person for the storage of wine and allied products for credit purposes.
+*Bonded wine warehouse.* Bonded warehouse facilities established under the provisions of this part on wine premises by a warehouse company or other person for the storage of wine and allied products for credit purposes. This term includes facilities described in the preceding sentence even if the warehouse company or other person, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the facility.
 
-*Bonded winery.* Premises established under the provisions of this part on which wine production operations are conducted and other authorized operations may be conducted.
+*Bonded winery.* Premises established under the provisions of this part on which wine production operations are conducted and other authorized operations may be conducted. This term includes premises described in the preceding sentence even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
 *Bottle.* A container four liters or less in capacity, regardless of the material from which it is made, used to store wine or to remove wine from the wine premises.
 
@@ -74,6 +74,8 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Formula wine.* Special natural wine, agricultural wine, and other than standard wine (except for distilling material and vinegar stock) produced on bonded wine premises under an approved formula.
 
+*From bond.* When used with reference to withdrawals of wine, this phrase includes withdrawals from the premises established under the provisions of this part on which operations in untaxpaid wine are authorized to be conducted, even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
+
 *Fruit wine.* Wine made from the juice of sound, ripe fruit (other than grapes). Fruit wine also includes wine made from berries or wine made from a combination of grapes and other fruit (including berries).
 
 *Gallon or wine gallon.* A United States gallon of liquid measure equivalent to the volume of 231 cubic inches.
@@ -88,7 +90,8 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *High-proof concentrate.* A volatile fruit-flavor concentrate (essence) that has an alcohol content of more than 24 percent by volume and is unfit for beverage use (nonpotable) because of its natural constituents, i.e., without the addition of other substances.
 
-*In bond.* When used with respect to wine or spirits, “in bond” refers to wine or spirits possessed under bond to secure the payment of the taxes imposed by 26 U.S.C. Chapter 51, and on which such taxes have not been determined. The term includes any wine or spirits on the bonded wine premises or a distilled spirits plant, or in transit between bonded premises (including in the case of wine, bonded wine premises). Additionally, the term refers to wine withdrawn without payment of tax under 26 U.S.C. 5362 and to spirits withdrawn without payment of tax under 26 U.S.C. 5214 (a)(5) or (a)(13) with respect to which relief from liability has not yet occurred.
+*In bond.* When used with respect to wine or spirits, “in bond” refers to wine or spirits possessed under bond to secure the payment of the taxes imposed by 26 U.S.C. Chapter 51, and on which such taxes have not been determined.Wine or spirits are considered to be possessed under bond if they are possessed by a proprietor who is liable for the tax, even if the proprietor is not required to provide a bond under this chapter. The term includes any wine or spirits on the bonded wine premises or a distilled spirits plant, or in transit between bonded premises (including in the case of wine, bonded wine premises).
+Additionally, the term refers to wine withdrawn without payment of tax under 26 U.S.C. 5362 and to spirits withdrawn without payment of tax under 26 U.S.C. 5214 (a)(5) or (a)(13) with respect to which relief from liability has not yet occurred.
 
 *Invert sugar syrup.* A substantially colorless solution of invert sugar which has been prepared by recognized methods of inversion from pure dry sugar and contains not less than 60 percent sugar by weight (60 degrees Brix).
 
@@ -158,6 +161,8 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *This chapter.* Title 27, Code of Federal Regulations, chapter I (27 CFR chapter I).
 
+*To bond.* When used with reference to returns of wine, this phrase includes returns to premises established under the provisions of this part on which operations in untaxpaid wine are authorized to be conducted, even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
+
 *Total solids.* The degrees Brix of unfermented juice or dealcoholized wine.
 
 *Treasury Account.* The Department of Treasury's General Account at the Federal Reserve Bank of New York.
@@ -176,4 +181,4 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Wine spirits.* Brandy or wine spirits authorized under 26 U.S.C. 5373 for use in wine production.
 
-[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015]
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017]

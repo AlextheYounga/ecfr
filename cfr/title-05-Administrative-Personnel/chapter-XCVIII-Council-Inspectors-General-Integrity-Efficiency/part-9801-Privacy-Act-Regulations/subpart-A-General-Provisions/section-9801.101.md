@@ -1,0 +1,3 @@
+##### § 9801.101 Purpose and scope. #####
+
+This part contains the regulations of the Council of the Inspectors General on Integrity and Efficiency (CIGIE) implementing the Privacy Act of 1974, 5 U.S.C. 552a. This part sets forth the basic responsibilities of CIGIE with regard to CIGIE's compliance with the requirements of the Privacy Act and offers guidance to members of the public who wish to exercise any of the rights established by the Privacy Act with regard to records maintained by CIGIE. These regulations should be read in conjunction with the Privacy Act, which explains in more detail individuals' rights.

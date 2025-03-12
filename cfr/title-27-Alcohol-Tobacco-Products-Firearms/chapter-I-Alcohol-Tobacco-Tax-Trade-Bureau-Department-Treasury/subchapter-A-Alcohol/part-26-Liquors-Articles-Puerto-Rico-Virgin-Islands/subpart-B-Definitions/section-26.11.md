@@ -20,6 +20,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Beer.* Beer, ale, porter, stout, and other similar fermented beverages (including sake or similar products) of any name or description containing one-half of 1 percent or more of alcohol by volume, brewed, or produced from malt, wholly or in part, or from any substitute therefor.
 
+*Bonded premises of a distilled spirits plant.* The bonded premises of a distilled spirits plant as described in part 19 of this chapter. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
+
 *Bonded wine cellar.* Premises established under part 24 of this chapter.
 
 *Bottler.* Any person required to hold a basic permit as a bottler under 27 U.S.C. 203(b)(1).
@@ -114,4 +116,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Wine.* Still wine, vermouth, or other aperitif wine, imitation, substandard, or artificial wine, compounds designated as wine, flavored, rectified, or sweetened wine, champagne or sparkling wine, and artificially carbonated wine, containing not over 24 percent of alcohol by volume. Wines containing more than 24 percent of alcohol by volume are classed and taxed as distilled spirits.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205) Aug. 16, 1954, ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13551, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 26.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205) Aug. 16, 1954, ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[T.D. ATF-48, 43 FR 13551, Mar. 31, 1978]Editorial Note:For Federal Register citations affecting § 26.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

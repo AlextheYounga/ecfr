@@ -8,7 +8,7 @@
 
 (i) Must file form TTB F 5110.25 Application for Operating Permit Under 26 U.S.C. 5171(d) and obtain an operating permit;
 
-(ii) Must file the required bonds; and
+(ii) Must file the required bonds, subject to the exemption provided in § 19.151(d); and
 
 (iii) May adopt the approved formulas of its predecessor in accordance with §§ 5.28 and 20.63 of this chapter.
 
@@ -22,4 +22,4 @@
 
 (4) The effective date of the qualifying documents that the fiduciary files will be the date of the court order, the date specified in the order whereby the fiduciary assumes control, or if there is no court order, the date that the fiduciary assumed control.
 
-(26 U.S.C. 5172)
+(26 U.S.C. 5172)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1120, Jan. 4, 2017]

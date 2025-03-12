@@ -1,0 +1,3 @@
+##### § 9801.104 Rules for determining if an individual is the subject of a record. #####
+
+An individual seeking to determine if a specific CIGIE system of records contains a record pertaining to the individual must follow the procedures set forth for access to records in § 9801.201(a), (b)(1) and (2), (c), and (d). A request to determine if an individual is the subject of a record will ordinarily be responded to within 10 days, except when CIGIE determines otherwise, in which case the request will be acknowledged within 10 days and the individual will be informed of the reasons for the delay and an estimated date by which a response will be issued.

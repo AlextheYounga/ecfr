@@ -26,8 +26,8 @@
 
 (d) *Proprietor responsibilities.* Prior to the start of alternation for customs purposes, the proprietor must remove all spirits from the premises or equipment that will be involved in the alternation. However, upon release by customs, spirits in the process of being transferred to bonded premises under 26 U.S.C. 5232 may remain on the premises to be reincluded in the bonded premises.
 
-(e) *Exceptions.* The qualification requirements in paragraph (b) of this section and the notice requirements in paragraph (c) of this section will not apply where the proprietor solely intends to gauge bulk distilled spirits for transfer from customs custody to TTB bond.
+(e) *Exceptions.* The qualification requirements in paragraph (b) of this section and the notice requirements in paragraph (c) of this section will not apply where the proprietor solely intends to gauge bulk distilled spirits for transfer from customs custody to bonded premises.
 
 (f) *Conveyance of spirits in customs custody.* If the proprietor intends to convey spirits in customs custody across the distilled spirits plant premises the proprietor must comply with § 19.60.
 
-(26 U.S.C. 5172, 5178)
+(26 U.S.C. 5172, 5178)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1120, Jan. 4, 2017]

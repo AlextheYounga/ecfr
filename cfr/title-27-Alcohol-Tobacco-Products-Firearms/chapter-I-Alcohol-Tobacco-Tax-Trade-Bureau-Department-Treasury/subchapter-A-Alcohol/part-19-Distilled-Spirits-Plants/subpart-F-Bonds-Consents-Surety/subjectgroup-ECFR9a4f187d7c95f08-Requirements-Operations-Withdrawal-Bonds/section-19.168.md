@@ -1,11 +1,17 @@
-##### § 19.168 Superseding bonds. #####
+##### § 19.168 Superseding bonds and new bonds for existing proprietors. #####
 
-(a) *General.* In any of the circumstances outlined in paragraphs (b) through (d) of this section, the proprietor must replace an existing bond with a new bond. A new bond that replaces another bond is called a superseding bond.
+(a) *Superseding bonds.* A new bond that replaces another bond is called a superseding bond. The proprietor must replace an existing bond with a superseding bond in any of the following circumstances:
 
-(b) *Surety company no longer acceptable.* The proprietor must file a superseding bond if the surety on the proprietor's current bond becomes insolvent or if the surety is removed from the list of approved sureties in Treasury Circular 570. TTB may also require the filing of a superseding bond if any other contingency affecting the validity or efficiency of the bond arises.
+(1) *Surety company no longer acceptable.* The proprietor must file a superseding bond if the surety on the proprietor's current bond becomes insolvent or if the surety is removed from the list of approved sureties in Treasury Department Circular 570 (see § 19.153). TTB may also require the filing of a superseding bond if any other contingency affecting the validity or efficiency of the bond arises.
 
-(c) *Change of control.* An executor, administrator, assignee, receiver, trustee, or other person acting in a fiduciary capacity, continuing or liquidating the business of the principal on a bond, must either provide TTB with a superseding bond, or obtain consent from the surety on each existing bond when assuming control of the business.
+(2) *Change of control.* An executor, administrator, assignee, receiver, trustee, or other person acting in a fiduciary capacity, continuing or liquidating the business of the principal on a bond, must either provide TTB with a superseding bond, or obtain consent from the surety on each existing bond when assuming control of the business.
 
-(d) *Termination of bond by surety.* If the surety applies to terminate a bond under § 19.171, and the proprietor wishes to continue the activity covered by the bond, the proprietor must file a superseding bond that becomes effective on or before the termination date of the existing bond. The superseding bond must show both its execution date and its effective date.
+(3) *Termination of bond by surety.* If the surety applies to terminate a bond under § 19.171, and the proprietor wishes to continue the activity covered by the bond, the proprietor must file a superseding bond that becomes effective on or before the termination date of the existing bond. The superseding bond must show both its execution date and its effective date.
 
-(26 U.S.C. 5173, 5175, 5176, 5551)
+(b) *New bonds for existing proprietors*—(1) *General.* Subject to paragraph (b)(2) of this section, if an existing proprietor has not furnished a bond or bonds covering operations and withdrawals of distilled spirits for nonindustrial use because the proprietor was exempt from bond requirements under § 19.151(d), the proprietor must furnish a bond or bonds as provided in this subpart beginning in any portion of a calendar year following the first date on which the aggregate amount of tax due from the proprietor during the calendar year exceeds $50,000. When furnishing the bond or bonds, the proprietor must also file an amendment to TTB F 5110.41, Registration of Distilled Spirits Plant, as provided in § 19.136 to change the proprietor's bond status.
+
+(2) *Grace period for bonds covering operations.* An existing proprietor who must furnish an operations bond as provided in paragraph (b)(1) of this section will be treated as having furnished the required bond if the proprietor submits the bond on TTB F 5110.56 no later than 30 days following the first date on which the aggregate amount of tax due from the proprietor during the relevant calendar year exceeds $50,000. The proprietor will be treated as having furnished the required operations bond for purposes of this paragraph until TTB approves or disapproves the bond.
+
+(3) *Bonds covering withdrawals.* Paragraph (b)(2) of this section does not apply to withdrawal bonds. If an existing proprietor must furnish a withdrawal bond as provided in paragraph (b)(1) of this section, the proprietor may not withdraw distilled spirits from the bonded premises on a tax deferred basis until TTB approves the withdrawal bond.
+
+(26 U.S.C. 5173, 5175, 5176, 5551)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1121, Jan. 4, 2017]

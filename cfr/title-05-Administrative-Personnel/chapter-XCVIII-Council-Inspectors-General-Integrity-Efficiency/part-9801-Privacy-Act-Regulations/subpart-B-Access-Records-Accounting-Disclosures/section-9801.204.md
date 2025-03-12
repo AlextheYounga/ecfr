@@ -1,0 +1,3 @@
+##### § 9801.204 Special procedures: Medical records. #####
+
+In the event CIGIE receives a request pursuant to § 9801.201 for access to medical records (including psychological records) whose disclosure CIGIE determines would be harmful to the individual to whom they relate, it may refuse to disclose the records directly to the requester but shall transmit them to a physician designated by the requester.

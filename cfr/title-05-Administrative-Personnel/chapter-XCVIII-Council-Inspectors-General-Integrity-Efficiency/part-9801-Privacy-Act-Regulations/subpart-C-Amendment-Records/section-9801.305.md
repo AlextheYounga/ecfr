@@ -1,0 +1,3 @@
+##### § 9801.305 Assistance in preparing request to amend a record or to appeal an initial adverse determination. #####
+
+Requesters may seek assistance in preparing a request to amend a record or an appeal of an initial adverse determination, or to learn further of the provisions for judicial review, by contacting CIGIE's Privacy Officer by email at *privacy@cigie.gov* or by mail at Privacy Officer, Council of the Inspectors General on Integrity and Efficiency, 1717 H Street NW., Suite 825, Washington, DC 20006.

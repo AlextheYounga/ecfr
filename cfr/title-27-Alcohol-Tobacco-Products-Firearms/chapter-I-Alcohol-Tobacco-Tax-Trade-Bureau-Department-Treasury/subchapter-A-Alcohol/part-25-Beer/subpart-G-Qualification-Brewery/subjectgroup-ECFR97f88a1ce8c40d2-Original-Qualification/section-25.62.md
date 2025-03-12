@@ -26,6 +26,8 @@
 
 (12) The date of the notice and the name and signature of the brewer or person authorized to sign on behalf of the brewer.
 
+(13) A statement whether the brewer is required to furnish a bond under § 25.91.
+
 (b) *Incorporation by reference.* If any of the information required by paragraph (a)(4) of this section is on file with a TTB office in connection with the qualification of any other premises operated by the brewer, that information, if accurate and complete, may be incorporated into the brewer's notice by reference.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-21, 70 FR 237, Jan. 3, 2005; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))[T.D. ATF-224, 51 FR 7673, Mar. 5, 1986, as amended by T.D. TTB-21, 70 FR 237, Jan. 3, 2005; T.D. TTB-91, 76 FR 5478, Feb. 1, 2011; T.D. TTB-146, 82 FR 1127, Jan. 4, 2017]

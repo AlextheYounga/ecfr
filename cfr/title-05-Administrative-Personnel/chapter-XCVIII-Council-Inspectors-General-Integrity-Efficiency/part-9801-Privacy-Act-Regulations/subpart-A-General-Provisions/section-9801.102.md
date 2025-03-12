@@ -1,0 +1,7 @@
+##### § 9801.102 CIGIE organization. #####
+
+(a) *Centralized program.* Except as stated in paragraph (b) of this section, CIGIE has a centralized Privacy Act program, with one office receiving and coordinating the processing of all Privacy Act requests to CIGIE.
+
+(b) *Integrity Committee records.* The Integrity Committee of CIGIE (IC) is the single exception to CIGIE's centralized Privacy Act program. By statute, all records received or created by the IC in fulfilling its responsibilities are collected and maintained separately as IC records by the official of the Federal Bureau of Investigation (FBI) serving on the IC. Currently, all such records are maintained by the FBI in the FBI's Central Records System and are subject to the system of records notices and the Privacy Act policies and regulations applicable to that system. See 28 CFR part 16, subpart D. Accordingly, except as stated in paragraph (c) of this section, because IC records are not maintained by CIGIE, this part does not apply to requests or appeals regarding IC records.
+
+(c) *Acceptance of requests and appeals.* CIGIE will accept initial requests or appeals regarding CIGIE records and regarding IC records maintained by the FBI on behalf of the FBI. Requests and appeals regarding IC records will be referred to the FBI for processing and direct response to the requester by the FBI.

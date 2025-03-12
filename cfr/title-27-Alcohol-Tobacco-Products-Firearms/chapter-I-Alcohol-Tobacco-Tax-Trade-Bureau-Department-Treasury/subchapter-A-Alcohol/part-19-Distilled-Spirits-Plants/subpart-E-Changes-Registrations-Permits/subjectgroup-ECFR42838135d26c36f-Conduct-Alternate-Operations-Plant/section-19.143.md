@@ -16,7 +16,7 @@
 
 (2) *Diagram.* For all alternate uses, the proprietor must provide a special diagram, in duplicate, delineating the premises as they will exist, both during extension and curtailment and clearly depicting all buildings, floors, rooms, areas, equipment that are to be subject to alternation, in their relative operating sequence.
 
-(3) *Bond.* For all alternate uses, the proprietor must provide evidence of an existing bond, consent of surety, or a new bond to cover the proposed alternation of premises.
+(3) *Bond.* For all alternate uses, the proprietor must provide evidence of an existing bond, consent of surety, or a new bond to cover the proposed alternation of premises. This requirement does not apply if no bond is required under this chapter to cover the proposed alternation.
 
 (4) *Bonded wine cellar or taxpaid wine bottling house.* If the proprietor intends to alternate the premises or part of the premises as a bonded wine cellar or taxpaid wine bottling house the proprietor must also file form TTB F 5120.25, Application to Establish and Operate Wine Premises.
 
@@ -38,4 +38,4 @@
 
 (e) *Records.* The proprietor must prepare the record of alternating premises prescribed by § 19.627 each time that the proprietor alternates premises.
 
-(26 U.S.C. 5172, 5178)
+(26 U.S.C. 5172, 5178)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1120, Jan. 4, 2017]

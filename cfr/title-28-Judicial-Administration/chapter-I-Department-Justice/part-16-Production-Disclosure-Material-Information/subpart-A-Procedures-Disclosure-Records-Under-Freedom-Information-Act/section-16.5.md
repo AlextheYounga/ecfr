@@ -1,5 +1,7 @@
 ##### § 16.5 Timing of responses to requests. #####
 
+Link to an amendment published at 82 FR 727, Jan. 4, 2017.
+
 (a) *In general.* Components ordinarily will respond to requests according to their order of receipt. Appendix I to this part contains the list of the Department components that are designated to accept requests. In instances involving misdirected requests that are re-routed pursuant to § 16.4(c), the response time will commence on the date that the request is received by the proper component's office that is designated to receive requests, but in any event not later than 10 working days after the request is first received by any component's office that is designated by these regulations to receive requests.
 
 (b) *Multitrack processing.* All components must designate a specific track for requests that are granted expedited processing, in accordance with the standards set forth in paragraph (e) of this section. A component may also designate additional processing tracks that distinguish between simple and more complex requests based on the estimated amount of work or time needed to process the request. Among the factors a component may consider are the number of pages involved in processing the request and the need for consultations or referrals. Components shall advise requesters of the track into which their request falls and, when appropriate, shall offer the requesters an opportunity to narrow their request so that it can be placed in a different processing track.

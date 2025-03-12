@@ -1,0 +1,5 @@
+##### § 9801.205 Appeals from denials of requests for access to records. #####
+
+(a) *How addressed.* A requester may submit a written appeal of the decision by CIGIE to deny an initial request for access to records or a no record response to the Chairperson, Council of the Inspectors General on Integrity and Efficiency, 1717 H Street NW., Suite 825, Washington, DC 20006. The words “Privacy Act Appeal” should be included on the envelope and at the top of the letter of appeal.
+
+(b) *Deadline and content.* The appeal must be received by CIGIE within 60 days of the date of the letter denying the access request or reflecting the no record finding and should contain a brief description of the records involved or copies of the relevant correspondence from CIGIE. The appeal should attempt to refute the reasons given by CIGIE in support of its decision to deny the initial request for access or no record finding.

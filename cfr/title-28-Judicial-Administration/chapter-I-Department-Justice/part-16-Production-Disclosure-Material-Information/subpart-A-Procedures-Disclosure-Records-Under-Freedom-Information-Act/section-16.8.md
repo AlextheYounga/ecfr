@@ -1,5 +1,7 @@
 ##### § 16.8 Administrative appeals. #####
 
+Link to an amendment published at 82 FR 728, Jan. 4, 2017.
+
 (a) *Requirements for making an appeal.* A requester may appeal any adverse determinations to OIP. The contact information for OIP is contained in the FOIA Reference Guide, which is available at *http://www.justice.gov/oip/04\_3.html.* Appeals can be submitted through the web portal accessible on OIP's Web site. Examples of adverse determinations are provided in § 16.6(d). The requester must make the appeal in writing and to be considered timely it must be postmarked, or in the case of electronic submissions, transmitted, within 60 calendar days after the date of the response. The appeal should clearly identify the component's determination that is being appealed and the assigned request number. To facilitate handling, the requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
 
 (b) *Adjudication of appeals.* (1) The Director of OIP or designee will act on behalf of the Attorney General on all appeals under this section.

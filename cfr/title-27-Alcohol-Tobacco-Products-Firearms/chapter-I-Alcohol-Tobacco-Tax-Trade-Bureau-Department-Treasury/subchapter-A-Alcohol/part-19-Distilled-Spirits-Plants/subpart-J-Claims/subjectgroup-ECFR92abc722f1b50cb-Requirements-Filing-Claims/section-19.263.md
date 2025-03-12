@@ -1,4 +1,4 @@
-##### § 19.263 Claims on spirits, denatured spirits, articles, or wines lost or destroyed in bond - specific requirements. #####
+##### § 19.263 Claims on spirits, denatured spirits, articles, or wines lost or destroyed in bond—specific requirements. #####
 
 (a) *Claims for remission.* A claim for remission of tax liability relating to the destruction or loss of spirits, denatured spirits, articles, or wines in bond must include the following information:
 
@@ -8,7 +8,7 @@
 
 (3) *Amount of claim.* The total amount of tax for which the claim is filed;
 
-(4) *Identity of distilled spirits plant.* The name, number, and address of the distilled spirits plant from which withdrawn without payment of tax or removed for transfer in bond, if the claim involves spirits so withdrawn or removed or if the claim involves wines transferred in bond, and the date and purpose of such withdrawal or removal. In the case of imported spirits lost or destroyed while being transferred from customs custody to TTB bond as provided in § 19.409, the name of the customs bonded warehouse, if any, and port of entry will be included instead of the plant name, number, and address;
+(4) *Identity of distilled spirits plant.* The name, number, and address of the distilled spirits plant from which withdrawn without payment of tax or removed for transfer in bond, if the claim involves spirits so withdrawn or removed or if the claim involves wines transferred in bond, and the date and purpose of such withdrawal or removal. In the case of imported spirits lost or destroyed while being transferred from customs custody to bonded premises as provided in § 19.409, the name of the customs bonded warehouse, if any, and port of entry will be included instead of the plant name, number, and address;
 
 (5) *Date and cause.* The date of the loss or destruction: If the date is not known, enter the date the loss or destruction was discovered. Include the cause of the loss together with relevant facts and details;
 
@@ -26,10 +26,10 @@
 
 (2) The name, plant number and address of the plant where the tax was determined, assessed or paid. If the tax was assessed against, or paid by, someone other than the proprietor, then give the name, address and capacity of the person who was assessed or paid the tax.
 
-(c) *Supporting documents* - (1) *General.* If possible, the proprietor should support the information and details on all claims filed under this section with affidavits by persons having personal knowledge of the circumstances of the loss or destruction.
+(c) *Supporting documents*—(1) *General.* If possible, the proprietor should support the information and details on all claims filed under this section with affidavits by persons having personal knowledge of the circumstances of the loss or destruction.
 
 (2) *Losses in transit.* For claims on spirits, denatured spirits, articles, or wines lost while being transferred by a carrier, the claim must be supported by a copy of the bill of lading.
 
 (3) *Spirits withdrawn without payment of tax.* If the lost spirits were withdrawn without payment of tax for research, development, or testing, the claim must be supported by a copy of the proprietor's sample record prescribed in subpart V of this part.
 
-(26 U.S.C. 5008, 5370)
+(26 U.S.C. 5008, 5370)[T.D. TTB-92, 76 FR 9090, Feb. 16, 2011, as amended by T.D. TTB-146, 82 FR 1123, Jan. 4, 2017]

@@ -8,9 +8,9 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Beer.* Beer, ale, porter, stout, and other similar fermented beverages (including sake or similar products) of any name or description containing one-half of 1 percent or more of alcohol by volume, brewed or produced from malt, wholly or in part, or from any substitute therefor.
 
-*Bonded premises - distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted.
+*Bonded premises - distilled spirits plant.* The premises of a distilled spirits plant, or part thereof, on which distilled spirits operations defined in 26 U.S.C. 5002 are authorized to be conducted. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor, as authorized under the exemption set forth in § 19.151(d) of this chapter, has not provided a bond for the premises.
 
-*Bonded wine cellar.* Premises established under part 24 of this chapter for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine.
+*Bonded wine cellar.* Premises established under part 24 of this chapter for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine. This term includes premises described in the preceding sentences even if the proprietor, as authorized under the exemption set forth in § 24.146(d), has not provided a bond for the premises.
 
 *Brewer.* A proprietor of a brewery.
 
@@ -74,4 +74,4 @@ I declare under the penalties of perjury that this \_\_\_\_\_ (insert type of do
 
 *Zone operator.* The person to which the privilege of establishing, operating, and maintaining a foreign-trade zone has been granted by the Foreign-Trade Zones Board created by the Act of June 18, 1934, as amended.
 
-(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004]
+(68A Stat. 917, as amended (26 U.S.C. 7805); 49 Stat. 981, as amended (27 U.S.C. 205))[T.D. ATF-48, 43 FR 13552, Mar. 31, 1978, as amended by T.D. ATF-51, 43 FR 24243, June 2, 1978; 44 FR 55854, Sept. 28, 1979; T.D. ATF-62, 44 FR 71720, Dec. 11, 1979; T.D. ATF-199, 50 FR 9201, Mar. 6, 1985; T.D. ATF-224, 51 FR 7698, Mar. 5, 1986; T.D. ATF-477, 67 FR 18088, Apr. 15, 2002; T.D. TTB-8, 69 FR 3831, Jan. 27, 2004; T.D. TTB-146, 82 FR 1135, Jan. 4, 2017]

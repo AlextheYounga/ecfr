@@ -1,5 +1,7 @@
 ##### § 16.10 Fees. #####
 
+Link to an amendment published at 82 FR 728, Jan. 4, 2017.
+
 (a) *In general.* Components shall charge for processing requests under the FOIA in accordance with the provisions of this section and with the OMB Guidelines. In order to resolve any fee issues that arise under this section, a component may contact a requester for additional information. Components shall ensure that searches, review, and duplication are conducted in the most efficient and the least expensive manner. A component ordinarily will collect all applicable fees before sending copies of records to a requester. Requesters must pay fees by check or money order made payable to the Treasury of the United States.
 
 (b) *Definitions.* For purposes of this section:

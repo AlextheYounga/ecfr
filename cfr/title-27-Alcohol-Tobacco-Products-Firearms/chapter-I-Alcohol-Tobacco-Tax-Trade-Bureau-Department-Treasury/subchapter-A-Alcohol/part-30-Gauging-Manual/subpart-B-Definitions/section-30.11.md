@@ -6,6 +6,8 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *Appropriate TTB officer.* An officer or employee of the Alcohol and Tobacco Tax and Trade Bureau (TTB) authorized to perform any functions relating to the administration or enforcement of this part by TTB Order 1135.30, Delegation of the Administrator's Authorities in 27 CFR Part 30, Gauging Manual.
 
+*Bonded premises.* The bonded premises of a distilled spirits plant as described in part 19 of this chapter. This term includes premises described in the preceding sentence even if the distilled spirits plant proprietor has not provided a bond for the premises as authorized under the exemption set forth in § 19.151(d) of this chapter.
+
 *Bulk conveyance.* Any tank car, tank truck, tank ship, tank barge, or other similar container approved by the appropriate TTB officer, authorized for the conveyance of spirits (including denatured spirits) in bulk.
 
 *CFR.* The Code of Federal Regulations.
@@ -32,4 +34,4 @@ When used in this part, where not otherwise distinctly expressed or manifestly i
 
 *U.S.C.* The United States Code.
 
-[T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. ATF-438, 66 FR 5481, Jan. 19, 2001; T.D. TTB-44, 71 FR 16947, Apr. 4, 2006]
+[T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. ATF-438, 66 FR 5481, Jan. 19, 2001; T.D. TTB-44, 71 FR 16947, Apr. 4, 2006; T.D. TTB-146, 82 FR 1137, Jan. 4, 2017]

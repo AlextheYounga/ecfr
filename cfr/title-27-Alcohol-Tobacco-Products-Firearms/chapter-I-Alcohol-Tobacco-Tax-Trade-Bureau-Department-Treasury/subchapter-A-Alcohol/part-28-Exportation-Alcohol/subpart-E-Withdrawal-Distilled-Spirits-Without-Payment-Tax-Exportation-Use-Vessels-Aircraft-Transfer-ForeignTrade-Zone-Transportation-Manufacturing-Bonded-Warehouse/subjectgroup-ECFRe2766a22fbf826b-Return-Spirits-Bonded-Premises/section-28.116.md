@@ -8,7 +8,7 @@ If a proprietor of a distilled spirits plant desires to return spirits to his pl
 
 (c) Name, address, and plant number of the distilled spirits plant from which the spirits were withdrawn.
 
-(d) Name and address of the principal on the bond under which the spirits were withdrawn.
+(d) Name and address of the person who withdrew the spirits.
 
 (e) Serial number of the TTB Form 5100.11 and the date withdrawn.
 
@@ -24,4 +24,4 @@ If a proprietor of a distilled spirits plant desires to return spirits to his pl
 
 (k) Disposition to be made of returned spirits, i.e., redistillation or return to bonded storage.
 
-(Sec. 201, Pub. L. 85-859, 72 Stat. 1362, as amended, 1365, as amended (26 U.S.C. 5214, 5223))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71723, Dec. 11, 1979; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1362, as amended, 1365, as amended (26 U.S.C. 5214, 5223))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71723, Dec. 11, 1979; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004; T.D. TTB-146, 82 FR 1136, Jan. 4, 2017]
