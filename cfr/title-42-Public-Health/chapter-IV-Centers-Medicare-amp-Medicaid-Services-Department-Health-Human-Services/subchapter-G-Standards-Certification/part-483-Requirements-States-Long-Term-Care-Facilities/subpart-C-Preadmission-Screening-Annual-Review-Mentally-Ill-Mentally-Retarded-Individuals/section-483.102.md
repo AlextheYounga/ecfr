@@ -8,7 +8,7 @@
 
 (i) *Diagnosis.* The individual has a major mental disorder diagnosable under the Diagnostic and Statistical Manual of Mental Disorders, 3rd edition, revised in 1987.
 
-Incorporation of the 1987 edition of the Diagnostic and Statistical Manual of Mental Disorders, 3rd edition, was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 that govern the use of incorporation by reference.1
+Incorporation of the 1987 edition of the Diagnostic and Statistical Manual of Mental Disorders, 3rd edition, was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 that govern the use of incorporation by reference.1/\>
 
 1 The Diagnostic and Statistical Manual of Mental Disorders is available for inspection at the Centers for Medicare & Medicaid Services, room 132, East High Rise Building, 6325 Security Boulevard, Baltimore, Maryland, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Copies may be obtained from the American Psychiatric Association, Division of Publications and Marketing, 1400 K Street, NW., Washington, DC 20005.
 
@@ -36,7 +36,7 @@ This mental disorder is -
 
 (3) An individual is considered to have intellectual disability (IID) if he or she has -
 
-(i) A level of retardation (mild, moderate, severe or profound) described in the American Association on Intellectual Disability's Manual on Classification in Intellectual Disability (1983). Incorporation by reference of the 1983 edition of the American Association on Intellectual Disability's Manual on Classification in Intellectual Disability was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 that govern the use of incorporations by reference;2 or
+(i) A level of retardation (mild, moderate, severe or profound) described in the American Association on Intellectual Disability's Manual on Classification in Intellectual Disability (1983). Incorporation by reference of the 1983 edition of the American Association on Intellectual Disability's Manual on Classification in Intellectual Disability was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51 that govern the use of incorporations by reference;2/\> or
 
 2 The American Association on Intellectual Disability's Manual on Classification in Intellectual Disability is available for inspection at the Centers for Medicare & Medicaid Services, Room 132, East High Rise Building, 6325 Security Boulevard, Baltimore, Maryland, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Copies may be obtained from the American Association on Intellectual Disability, 1719 Kalorama Rd., NW., Washington, DC 20009.
 

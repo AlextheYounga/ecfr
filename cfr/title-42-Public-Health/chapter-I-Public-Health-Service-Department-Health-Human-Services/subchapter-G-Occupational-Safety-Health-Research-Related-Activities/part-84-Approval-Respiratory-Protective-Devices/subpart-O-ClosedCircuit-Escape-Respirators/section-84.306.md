@@ -12,8 +12,6 @@
 
 (c) NIOSH will continuously monitor CCER use by each test subject during the activities specified in Table 4 to evaluate the ability of the CCER to provide an adequate and uninterrupted breathing supply, including but not limited to the requirements of § 84.303(b), without harming or hindering a user. NIOSH will not approve a CCER if the use of any unit during these activities indicates any potential for the CCER to harm or hinder the user or to fail to provide an adequate and uninterrupted breathing supply to the user during reasonably anticipated conditions and activities of an escape.
 
-Table 4 - Wearability Test Requirements
-
 |                       Activity                       |      Minimum duration       |
 |------------------------------------------------------|-----------------------------|
 |                       Sitting                        |          1 minute.          |

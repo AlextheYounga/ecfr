@@ -8,7 +8,7 @@ Posthospital SNF care, including SNF-type care furnished in a hospital or CAH th
 
 (2) Have been discharged from the hospital or CAH in or after the month he or she attained age 65, or in a month for which he or she was entitled to hospital insurance benefits on the basis of disability or end-stage renal disease, in accordance with part 406 of this chapter.
 
-(b) *Date of admission requirements.*1 (1) Except as specified in paragraph (b)(2) of this section, the beneficiary must be in need of posthospital SNF care, be admitted to the facility, and receive the needed care within 30 calendar days after the date of discharge from a hospital or CAH.
+(b) *Date of admission requirements.*1/\> (1) Except as specified in paragraph (b)(2) of this section, the beneficiary must be in need of posthospital SNF care, be admitted to the facility, and receive the needed care within 30 calendar days after the date of discharge from a hospital or CAH.
 
 1 Before December 5, 1980, the law required that admission and receipt of care be within 14 days after discharge from the hospital or CAH and permitted admission up to 28 days after discharge if a SNF bed was not available in the geographic area in which the patient lived, or at the time it would be medically appropriate to begin an active course of treatment, if SNF care would not be medically appropriate within 14 days after discharge.
 

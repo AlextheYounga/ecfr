@@ -24,7 +24,7 @@ Division of Dockets Management, Food and Drug Administration, Department of Heal
 
 Request for Advisory Opinion
 
-The undersigned submits this request for an advisory opinion of the Commissioner of Food and Drugs with respect to \_\_\_ (the general nature of the matter involved).
+The undersigned submits this request for an advisory opinion of the Commissioner of Food and Drugs with respect to \_\_\_\_\_\_ (the general nature of the matter involved).
 
 A. *Issues involved.*
 

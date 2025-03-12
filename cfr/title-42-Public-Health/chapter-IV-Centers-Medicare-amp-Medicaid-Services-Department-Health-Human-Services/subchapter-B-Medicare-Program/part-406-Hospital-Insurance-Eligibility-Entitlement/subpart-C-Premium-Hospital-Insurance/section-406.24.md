@@ -14,7 +14,7 @@
 
 (4) *Special enrollment period (SEP)* is a period provided by statute to enable certain individuals to enroll in Medicare without having to wait for the general enrollment period.
 
-(b) *Duration of SEP.*2 (1) The SEP includes any month during any part of which -
+(b) *Duration of SEP.*2/\> (1) The SEP includes any month during any part of which -
 
 2 Before March 1995, SEPs began on the first day of the first month the individual was no longer covered under a GHP or LGHP by reason of current employment status.
 
@@ -28,7 +28,7 @@
 
 (2) The SEP ends on the last day of the eighth consecutive month during which the individual is at no time enrolled in a GHP or an LGHP by reason of current employment status.
 
-(c) *Conditions for use of a SEP.*3 In order to use a SEP, the individual must meet the following conditions:
+(c) *Conditions for use of a SEP.*3/\> In order to use a SEP, the individual must meet the following conditions:
 
 3 Before August 10, 1993, an individual under age 65 could qualify for a SEP only if he or she had LGHP coverage as an “active individual”, which the statute defined as “an employee, employer, self-employed individual (such as the employer), individual associated with the employer in a business relationship, or as a member of the family of any of those persons”.
 

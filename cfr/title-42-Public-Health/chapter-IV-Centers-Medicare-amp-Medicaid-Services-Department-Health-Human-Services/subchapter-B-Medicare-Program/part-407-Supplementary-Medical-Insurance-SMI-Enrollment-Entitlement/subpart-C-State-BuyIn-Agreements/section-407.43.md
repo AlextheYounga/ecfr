@@ -8,7 +8,7 @@
 
 (3) *Category C:* Individuals who, in accordance with § 436.112 of this chapter, are covered under the State's Medicaid plan despite the increase in social security benefits provided by Public Law 92-336.
 
-(4) *Category D:* Individuals who are Qualified Medicare Beneficiaries.1
+(4) *Category D:* Individuals who are Qualified Medicare Beneficiaries.1/\>
 
 1 Rules for buy-in for premium hospital insurance for QMBs are set forth in § 406.26 of this chapter.
 

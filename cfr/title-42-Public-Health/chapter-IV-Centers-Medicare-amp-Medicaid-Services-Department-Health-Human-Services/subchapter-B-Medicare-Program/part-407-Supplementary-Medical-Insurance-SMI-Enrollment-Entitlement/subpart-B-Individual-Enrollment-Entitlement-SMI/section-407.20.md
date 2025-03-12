@@ -14,7 +14,7 @@
 
 (c) *Special rule: Individual age 65 or over.* For an individual who is or was covered under a GHP, coverage must be by reason of the current employment status of the individual or the individual's spouse.
 
-(d) *Special rules: Disabled individual.*4 Individuals entitled on the basis of disability (but not on the basis of end-stage renal disease) must meet conditions that vary depending on whether they were covered under a GHP or an LGHP.
+(d) *Special rules: Disabled individual.*4/\> Individuals entitled on the basis of disability (but not on the basis of end-stage renal disease) must meet conditions that vary depending on whether they were covered under a GHP or an LGHP.
 
 4 Under the current statute, the SEP provision applicable to disabled individuals covered under an LGHP expires on September 1998. Unless Congress changes that date, the last SEP available under those provisions will begin with June 1998.
 

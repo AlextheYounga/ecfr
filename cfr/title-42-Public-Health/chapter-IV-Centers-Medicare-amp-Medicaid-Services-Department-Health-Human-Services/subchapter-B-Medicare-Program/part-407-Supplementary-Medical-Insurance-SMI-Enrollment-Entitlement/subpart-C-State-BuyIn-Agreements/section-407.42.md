@@ -20,7 +20,7 @@
 
 (5) *Category E:* Individuals who, in accordance with § 435.134 of this chapter, are covered under the State's Medicaid plan despite the increase in social security benefits provided by Public Law 92-336.
 
-(6) *Category F:* Individuals who are Qualified Medicare Beneficiaries.1
+(6) *Category F:* Individuals who are Qualified Medicare Beneficiaries.1/\>
 
 1 Rules for buy-in for premium hospital insurance for QMBs are set forth in § 406.26 of this chapter.
 

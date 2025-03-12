@@ -1,6 +1,6 @@
 ##### § 1003.210 Amount of penalties and assessments. #####
 
-(a) *Penalties.*1 (1) Except as provided in this section, the OIG may impose a penalty of not more than $10,000 for each individual violation that is subject to a determination under this subpart.
+(a) *Penalties.*1/\> (1) Except as provided in this section, the OIG may impose a penalty of not more than $10,000 for each individual violation that is subject to a determination under this subpart.
 
 1 The penalty amounts in this section are updated annually, as adjusted in accordance with the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990 (Pub. L. 101-140), as amended by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (section 701 of Pub. L. 114-74). Annually adjusted amounts are published at 45 CFR part 102.
 

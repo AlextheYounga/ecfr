@@ -1,4 +1,4 @@
-##### § 84.181 Communication performance test - PAPR class PAPR100. #####
+##### § 84.181 Communication performance test—PAPR class PAPR100. #####
 
 (a) Powered air-purifying respirators must be designed to allow for proper communication while worn.
 

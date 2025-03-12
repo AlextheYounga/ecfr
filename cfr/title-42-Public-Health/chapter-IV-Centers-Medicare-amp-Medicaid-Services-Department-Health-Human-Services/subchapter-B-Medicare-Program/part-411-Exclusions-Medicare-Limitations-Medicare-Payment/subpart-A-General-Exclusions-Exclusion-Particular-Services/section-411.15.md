@@ -50,7 +50,7 @@ The following services are excluded from coverage:
 
 (1) The individual's underlying medical condition and clinical status; or
 
-(2) The severity of the dental procedures.1
+(2) The severity of the dental procedures.1/\>
 
 1 Before July 1981, inpatient hospital care in connection with dental procedures was covered only when required by the patient's underlying medical condition and clinical status.
 

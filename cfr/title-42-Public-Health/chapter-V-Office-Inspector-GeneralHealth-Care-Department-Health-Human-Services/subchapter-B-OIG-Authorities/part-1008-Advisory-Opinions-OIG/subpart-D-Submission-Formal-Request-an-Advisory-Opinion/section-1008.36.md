@@ -10,7 +10,7 @@
 
 (3) A declaration of the subject category or categories as described in § 1008.5 of this part for which the advisory opinion is requested. To the extent an individual or entity requests an advisory opinion in accordance with § 1008.5(a)(3) or (a)(5) of this part, the requesting individual or entity should identify the specific subsections of sections 1128, 1128A or 1128B of the Act or the specific provision of § 1001.952 of this chapter about which an advisory opinion is sought:
 
-(4) A complete and specific description of all relevant information bearing on the arrangement for which an advisory opinion is requested and on the circumstances of the conduct,1 including -
+(4) A complete and specific description of all relevant information bearing on the arrangement for which an advisory opinion is requested and on the circumstances of the conduct,1/\> including -
 
 1 The requestor is under an affirmative obligation to make full and true disclosure with respect to the facts regarding the advisory opinion being requested.
 

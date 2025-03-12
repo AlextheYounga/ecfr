@@ -46,7 +46,7 @@
 
 (d) Proposed projects designed to encourage and assist Indians to enroll in health professions schools; or, if not qualified to enroll, to undertake postsecondary education or training required to qualify them for enrollment may include, but are not limited to, the following activities:
 
-(1) Providing technical assistance and counseling to encourage and assist Indians identified as having a potential for education or training in the health professions -
+(1) Providing technical assistance and counseling to encourage and assist Indians identified as having a potential for education or training in the health professions—
 
 (i) To enroll in health professions schools.
 
@@ -64,7 +64,7 @@
 
 (f) Proposed projects for establishment of other programs which will enhance or facilitate enrollment of Indians in health professions schools and the subsequent pursuit and completion by them of courses of study in such schools may include, but are not limited to, the following activities:
 
-(1) Compilation and dissemination of information on -
+(1) Compilation and dissemination of information on—
 
 (i) Health professions education or training programs and the requirements for enrollment in such programs; and
 

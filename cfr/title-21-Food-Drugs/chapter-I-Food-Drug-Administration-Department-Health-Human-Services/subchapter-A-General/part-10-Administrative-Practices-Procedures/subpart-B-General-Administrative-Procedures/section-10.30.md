@@ -12,7 +12,7 @@
 
 Citizen PetitionDate:
 
-The undersigned submits this petition under \_\_ (relevant statutory sections, if known) of the \_\_ (Federal Food, Drug, and Cosmetic Act or the Public Health Service Act or any other statutory provision for which authority has been delegated to the Commissioner of Food and Drugs) to request the Commissioner of Food and Drugs to\_\_ (issue, amend, or revoke a regulation or order or take or refrain from taking any other form of administrative action).
+The undersigned submits this petition under \_\_\_\_ (relevant statutory sections, if known) of the \_\_\_\_ (Federal Food, Drug, and Cosmetic Act or the Public Health Service Act or any other statutory provision for which authority has been delegated to the Commissioner of Food and Drugs) to request the Commissioner of Food and Drugs to\_\_\_\_ (issue, amend, or revoke a regulation or order or take or refrain from taking any other form of administrative action).
 
 A. Action Requested
 

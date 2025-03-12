@@ -6,9 +6,9 @@
 
 (c) Petitions shall include the following data and be submitted in the following form:
 
-\_\_\_\_\_\_\_\_\_ (Date)Name of petitionerPost-office addressName of color additive and proposed useOffice of Food Additive Safety (HFS-200),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740Dear Sir:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Date)Name of petitionerPost-office addressName of color additive and proposed useOffice of Food Additive Safety (HFS-200),Center for Food Safety and Applied Nutrition,Food and Drug Administration,5001 Campus Dr.,College Park, MD 20740Dear Sir:
 
-Petitioner submits this pursuant to section 721(b)(1) of the Federal Food, Drug, and Cosmetic Act requesting listing by the Commissioner of the color additive \_\_\_\_\_ as suitable and safe for use in or on \_\_\_\_\_ subject to the conditions that \_\_\_\_\_\_\_. [Petitioner may propose a listing for general use in food, drugs, or cosmetics or, if such general listing is not believed suitable and safe, the petitioner shall describe the conditions under which he believes the additive can be safely used and for which it will be suitable. These conditions may include tolerance limitations, specifications as to the manner in which the additive may be added or used, and directions and other labeling or packaging safeguards that should be applied. The level of use proposed should not be higher than reasonably required to accomplish the intended color effect.]
+Petitioner submits this pursuant to section 721(b)(1) of the Federal Food, Drug, and Cosmetic Act requesting listing by the Commissioner of the color additive \_\_\_\_\_\_\_\_\_\_ as suitable and safe for use in or on \_\_\_\_\_\_\_\_\_\_ subject to the conditions that \_\_\_\_\_\_\_\_\_\_\_\_\_\_. [Petitioner may propose a listing for general use in food, drugs, or cosmetics or, if such general listing is not believed suitable and safe, the petitioner shall describe the conditions under which he believes the additive can be safely used and for which it will be suitable. These conditions may include tolerance limitations, specifications as to the manner in which the additive may be added or used, and directions and other labeling or packaging safeguards that should be applied. The level of use proposed should not be higher than reasonably required to accomplish the intended color effect.]
 
 Attached hereto, in triplicate (quadruplicate, if intended uses include uses in meat, meat food product, or poultry product), and constituting a part of this petition are the following:
 
@@ -46,9 +46,9 @@ G. If exemption from batch certification is requested, the reasons why it is bel
 
 H. If submitting a petition to alter an existing regulation issued pursuant to section 721(b) of the act, full information on each proposed change that is to be made in the original regulation must be submitted. The petition may omit statements made in the original petition concerning which no change is proposed. A supplemental petition must be submitted for any change beyond the variations provided for in the original petition and the regulation issued on the basis of the original petition.
 
-I. The prescribed fee of $\_\_\_\_\_\_ for admitting the color additive to listing is enclosed (unless there is an advance deposit adequate to cover the fee).
+I. The prescribed fee of $\_\_\_\_\_\_\_\_\_\_\_\_ for admitting the color additive to listing is enclosed (unless there is an advance deposit adequate to cover the fee).
 
-Yours very truly,(Petitioner)By \_\_\_\_\_\_\_ (Indicate authority)
+Yours very truly,(Petitioner)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Indicate authority)
 
 J. The petitioner is required to submit either a claim for categorical exclusion under § 25.30 or 25.32 of this chapter or an environmental assessment under § 25.40 of this chapter.
 

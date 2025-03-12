@@ -29,3 +29,11 @@
 (3) Not less than three percent and not more than 5 percent for the third or a subsequent consecutive finding.
 
 (d) The reduction will be made in accordance with the provisions of 45 CFR 262.1(b)-(e) and 262.7.
+
+(e) *COVID-19 paternity establishment percentage penalty relief.* Due to the adverse impact of the COVID-19 pandemic on State IV-D operations, the criteria by which States are subject to financial penalties for the paternity establishment percentage under paragraph (a) of this section are modified for fiscal years 2020, 2021, and 2022, in accordance with section 452(g)(A) of the Act, as follows:
+
+(1) The acceptable level of paternity establishment percentage performance under § 305.40(a)(1) is modified for fiscal years 2020, 2021, and 2022 from 90 percent to 50 percent, and
+
+(2) The adverse findings of data reliability audits of a State's paternity establishment data under § 305.60 will not result in a financial penalty for fiscal years 2020, 2021, and 2022.
+
+[65 FR 82208, Dec. 27, 2000, as amended at 87 FR 32094, May 27, 2022]

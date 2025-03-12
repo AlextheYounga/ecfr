@@ -1,6 +1,6 @@
 ##### § 124.509 Reporting requirements. #####
 
-(a) *Facilities not certified under § 124.513, § 124.514, § 124.515, § 124.516, or § 124.517* - (1) *Timing of reports.* (i) A facility shall submit to the Secretary a report to assist the Secretary in determining compliance with this subpart once every three fiscal years, on a schedule to be prescribed by the Secretary.
+(a) *Facilities not certified under § 124.513, § 124.514, § 124.515, § 124.516, or § 124.517*—(1) *Timing of reports.* (i) A facility shall submit to the Secretary a report to assist the Secretary in determining compliance with this subpart once every three fiscal years, on a schedule to be prescribed by the Secretary.
 
 (ii) A facility shall submit the required report more frequently than once every three years under the following circumstances:
 

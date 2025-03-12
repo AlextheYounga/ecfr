@@ -10,7 +10,7 @@ Division of Dockets Management, Food and Drug Administration, Department of Heal
 
 Petition for Reconsideration[Docket No.]
 
-The undersigned submits this petition for reconsideration of the decision of the Commissioner of Food and Drugs in Docket No. \_\_.
+The undersigned submits this petition for reconsideration of the decision of the Commissioner of Food and Drugs in Docket No. \_\_\_\_.
 
 A. Decision involved
 

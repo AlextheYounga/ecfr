@@ -4,7 +4,7 @@
 
 1 Applications and instructions may be obtained from Regional Offices of the Department of Health and Human Services at the addresses set forth at 45 CFR 5.31(b).
 
-(b) In addition to other pertinent information required by the Secretary, an application for the assignment of Corps personnel must include -
+(b) In addition to other pertinent information required by the Secretary, an application for the assignment of Corps personnel must include—
 
 (1) A description of the applicant's overall organizational structure;
 

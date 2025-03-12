@@ -16,7 +16,7 @@
 
 For good cause shown by the beneficiary, the 6-month period may be extended.
 
-(b) *Amount of indemnification.*1 The amount of indemnification is the total that the beneficiary paid the provider, practitioner, or supplier.
+(b) *Amount of indemnification.*1/\> The amount of indemnification is the total that the beneficiary paid the provider, practitioner, or supplier.
 
 1 For services furnished before 1988, the indemnification amount was reduced by any deductible or coinsurance amounts that would have been applied if the services had been covered.
 

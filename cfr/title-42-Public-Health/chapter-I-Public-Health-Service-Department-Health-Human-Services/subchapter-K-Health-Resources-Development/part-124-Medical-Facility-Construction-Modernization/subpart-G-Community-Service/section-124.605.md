@@ -1,6 +1,6 @@
 ##### § 124.605 Reporting and record maintenance requirements. #####
 
-(a) *Reporting requirements* - (1) *Timing of reports.* (i) A facility shall submit to the Secretary a report to assist the Secretary in determining compliance with this subpart once every three fiscal years, on a schedule to be prescribed by the Secretary. The report required by this section shall be submitted not later than 90 days after the end of the fiscal year, unless a longer period is approved by the Secretary for good cause shown.
+(a) *Reporting requirements*—(1) *Timing of reports.* (i) A facility shall submit to the Secretary a report to assist the Secretary in determining compliance with this subpart once every three fiscal years, on a schedule to be prescribed by the Secretary. The report required by this section shall be submitted not later than 90 days after the end of the fiscal year, unless a longer period is approved by the Secretary for good cause shown.
 
 (ii) A facility shall also submit the required report whenever the Secretary determines, and so notifies the facility in writing, that a report is needed for proper administration of the program. In this situation the facility shall submit the report specified in this section for the filing of reports, within 90 days after receiving notice from the Secretary, or within 90 days after the close of the fiscal year, whichever is later.
 
