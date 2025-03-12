@@ -122,4 +122,44 @@ Link to an amendment published at 88 FR 41757, June 27, 2023.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[86 FR 64034, Nov. 16, 2021, as amended at 87 FR 6077, Feb. 3, 2022; 88 FR 14839, Mar. 9, 2023]
+(e) [Reserved]
+
+(f) “Ouachita” fanshell (*Cyprogenia* cf. *aberti*) and western fanshell (*Cyprogenia aberti*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the “Ouachita” fanshell and western fanshell. Except as provided under paragraph (f)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exception*s *from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take, as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Take incidental to an otherwise lawful activity caused by:
+
+(A) Channel and bank restoration projects for creation of natural, physically stable, ecologically functioning streams, taking into consideration connectivity with floodplain and groundwater aquifers. These projects can be accomplished using a variety of methods, but the desired outcome is a natural channel with low shear stress (force of water moving against the channel); bank heights that enable reconnection to the floodplain; connection of surface and groundwater systems, resulting in perennial flows in the channel; riffles and pools comprised of existing soil, rock, and wood instead of large imported materials; low compaction of soils within adjacent riparian areas; and inclusion of riparian wetlands. For bank stabilization projects that use bioengineering methods to replace preexisting, bare, eroding stream banks with vegetated, stable stream banks, thereby reducing bank erosion and instream sedimentation and improving habitat conditions for the species, stream banks may be stabilized using native species live stakes (live, vegetative cuttings inserted or tamped into the ground in a manner that allows the stake to take root and grow), native species live fascines (live branch cuttings, usually willows, bound together into long, cigar-shaped bundles), or native species brush layering (cuttings or branches of easily rooted tree species layered between successive lifts of soil fill). Bank restoration projects require planting appropriate native vegetation, including woody species appropriate for the region and habitat. These projects will not include the sole use of quarried rock (rip-rap) or the use of rock baskets or gabion structures. To qualify under this exception, restoration projects must include the following:
+
+(*1*) Surveys to determine presence of “Ouachita” fanshell and western fanshell prior to the commencement of restoration actions;
+
+(*2*) If either mussel is present, coordination with the Service's local Ecological Services field office for relocation of “Ouachita” fanshell and western fanshell mussels to suitable habitat outside of the project footprint prior to project implementation; and
+
+(*3*) If relocation of mussels occurs, monitoring of relocated mussels post-implementation of restoration activities.
+
+(B) Silviculture practices and forest management activities that use State-approved best management practices to protect water and sediment quality and stream and riparian habitat.
+
+(C) Transportation projects that avoid or do not include instream disturbance in waters occupied by the species.
+
+(v) Purposeful take that results from capture, handling, and release related to presence/absence surveys, studies to document habitat use, and population monitoring by individuals permitted to conduct these same activities for other species of mussels until January 25, 2024.
+
+(vi) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+[86 FR 64034, Nov. 16, 2021, as amended at 87 FR 6077, Feb. 3, 2022; 88 FR 14839, Mar. 9, 2023; 88 FR 41757, June 27, 2023]

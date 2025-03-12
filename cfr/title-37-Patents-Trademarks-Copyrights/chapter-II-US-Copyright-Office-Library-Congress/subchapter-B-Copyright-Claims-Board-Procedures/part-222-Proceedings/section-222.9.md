@@ -1,5 +1,7 @@
 ##### § 222.9 Counterclaim. #####
 
+Link to an amendment published at 88 FR 48380, July 27, 2023.
+
 (a) *Asserting a counterclaim.* Any party can assert a counterclaim falling under the jurisdiction of the Board that also—
 
 (1) Arises out of the same transaction or occurrence as the initial claim; or

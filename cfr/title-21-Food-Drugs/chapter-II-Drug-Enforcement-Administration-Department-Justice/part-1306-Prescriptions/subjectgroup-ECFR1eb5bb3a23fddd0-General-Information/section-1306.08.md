@@ -1,5 +1,7 @@
 ##### § 1306.08 Electronic prescriptions. #####
 
+Link to an amendment published at 88 FR 48379, July 27, 2023.
+
 (a) An individual practitioner may sign and transmit electronic prescriptions for controlled substances provided the practitioner meets all of the following requirements:
 
 (1) The practitioner must comply with all other requirements for issuing controlled substance prescriptions in this part;

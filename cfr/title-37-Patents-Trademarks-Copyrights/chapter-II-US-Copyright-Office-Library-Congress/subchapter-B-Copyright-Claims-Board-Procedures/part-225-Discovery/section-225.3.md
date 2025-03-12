@@ -1,5 +1,7 @@
 ##### § 225.3 Standard requests for the production of documents. #####
 
+Link to an amendment published at 88 FR 48381, July 27, 2023.
+
 (a) *General.* Parties in an *active proceeding* shall use the relevant set of *standard requests for the production of documents* provided on the Board's website. *Standard requests for the production of documents* shall include copies of:
 
 (1) All documents the party is likely to use in support of its claims, counterclaims, or defenses;

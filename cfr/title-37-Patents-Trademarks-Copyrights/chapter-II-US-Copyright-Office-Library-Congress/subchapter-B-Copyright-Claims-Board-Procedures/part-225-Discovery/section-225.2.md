@@ -1,5 +1,7 @@
 ##### § 225.2 Standard interrogatories. #####
 
+Link to an amendment published at 88 FR 48380, July 27, 2023.
+
 (a) *General.* Parties in an *active proceeding* shall use the set of *standard interrogatories* provided on the Board's website. *Standard interrogatories* shall consist of information pertaining to:
 
 (1) The identity of witnesses whom the parties plan to use in the proceeding, including contact information for the witnesses, if known, and a brief description of the subject matter on which they may testify;
