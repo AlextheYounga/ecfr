@@ -1,5 +1,7 @@
 ##### § 1210.154 What documents or other information must I submit for Federal oil valuation purposes? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *General.* The ONRR may require you to submit documents or other information to ONRR to support your valuation of Federal oil under part 1206 as part of audit compliance.
 
 (b) *Reporting options.* You must submit the documents or other information manually.

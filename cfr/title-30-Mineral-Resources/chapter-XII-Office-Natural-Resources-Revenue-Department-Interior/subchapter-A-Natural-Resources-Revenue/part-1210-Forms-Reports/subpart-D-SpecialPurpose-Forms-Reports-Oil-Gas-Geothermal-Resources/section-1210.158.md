@@ -1,5 +1,7 @@
 ##### § 1210.158 What reports must I submit to designate someone to make my royalty payments? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *General.* You must submit Form ONRR-4425, Designation Form for Royalty Payment Responsibility, if you want to designate a person to make royalty payments on your behalf under § 1218.52 of this chapter.
 
 (b) *Reporting options.* You must submit Form ONRR-4425 manually. You may find the form at *http://www.onrr.gov/FM/Forms/AFSOil\_Gas.htm.*

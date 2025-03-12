@@ -1,5 +1,7 @@
 ##### § 1210.202 How do I submit sales summaries? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *What to submit.* (1) You must submit sales summaries for all coal and other solid minerals produced from Federal and Indian leases and for any remote storage site from which you sell Federal or Indian solid minerals. You do not have to submit a sales summary for those months in which you do not sell any Federal or Indian production.
 
 (2) If you sell from five or fewer remote storage sites, you must submit a sales summary for each site. If you sell from more than five remote storage sites, you may total the data from all sites and submit the summarized data as one sales summary. The details you report on the sales summary are for the same sales reported on Form ONRR-4430.

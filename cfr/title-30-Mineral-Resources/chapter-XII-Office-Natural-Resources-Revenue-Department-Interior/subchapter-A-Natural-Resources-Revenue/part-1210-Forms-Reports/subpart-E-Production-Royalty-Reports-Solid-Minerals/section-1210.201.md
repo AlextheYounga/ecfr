@@ -1,5 +1,7 @@
 ##### § 1210.201 How do I submit Form ONRR-4430, Solid Minerals Production and Royalty Report? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *What to submit.* (1) You must submit a completed Form ONRR-4430 for -
 
 (i) Production of all coal and other solid minerals from any Federal or Indian lease;

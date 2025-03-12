@@ -1,5 +1,7 @@
 ##### § 1210.152 What reports must I submit to claim allowances on an Indian lease? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *General.* You must submit three additional forms to ONRR to claim transportation or processing allowances on Indian oil and gas leases:
 
 (1) You must submit Form ONRR-4110, Oil Transportation Allowance Report, to claim an allowance for expenses incurred by a reporter/payor to transport oil from the lease site to a point remote from the lease where value is determined under § 1206.55 of this chapter.

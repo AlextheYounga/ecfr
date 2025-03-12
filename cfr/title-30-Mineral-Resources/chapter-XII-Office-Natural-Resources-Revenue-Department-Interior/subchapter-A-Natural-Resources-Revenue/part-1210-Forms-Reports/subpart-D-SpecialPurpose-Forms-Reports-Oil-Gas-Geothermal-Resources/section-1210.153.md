@@ -1,5 +1,7 @@
 ##### § 1210.153 What reports must I submit for Indian gas valuation purposes? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
+
 (a) *General.* For Indian gas valuation, under certain conditions under § 1206.172 of this chapter, lessees must submit the following forms:
 
 (1) Form ONRR-4410, Accounting for Comparison (Dual Accounting), Part A or part B; and/or

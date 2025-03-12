@@ -1,5 +1,7 @@
 ##### § 1210.156 What reports must I submit for net profit share leases? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) *General.* After entering into a net profit share lease (NPSL) agreement, a lessee must report under part 1220 of this chapter.
 
 (b) *Reporting options.* You must submit the required report manually.

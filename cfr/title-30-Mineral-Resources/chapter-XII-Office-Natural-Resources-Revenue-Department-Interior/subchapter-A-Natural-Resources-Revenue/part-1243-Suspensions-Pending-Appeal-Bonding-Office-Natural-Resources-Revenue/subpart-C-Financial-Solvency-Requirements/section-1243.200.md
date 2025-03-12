@@ -1,5 +1,7 @@
 ##### § 1243.200 How do I demonstrate financial solvency? #####
 
+Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
+
 (a) To demonstrate financial solvency under this part, you must submit an audited consolidated balance sheet, and, if requested by the ONRR bond-approving officer, up to 3 years of tax returns to the ONRR, Debt Collection Section using:
 
 (1) The U.S. Postal Service or private delivery at Office of Natural Resources Revenue, Office of Enforcement, P.O. Box 25165, MS 64200B, Denver, Colorado 80225-0165; or

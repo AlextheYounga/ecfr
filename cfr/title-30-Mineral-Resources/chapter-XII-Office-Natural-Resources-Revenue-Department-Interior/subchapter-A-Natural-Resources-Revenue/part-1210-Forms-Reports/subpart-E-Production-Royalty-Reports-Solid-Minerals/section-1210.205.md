@@ -1,5 +1,7 @@
 ##### § 1210.205 What reports must I submit to claim allowances on Indian coal leases? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
+
 (a) *General.* You must submit the following ONRR forms to claim a transportation or washing allowance, as applicable, on Indian coal leases:
 
 (1) Form ONRR-4292, Coal Washing Allowance Report, to claim an allowance for the reasonable, actual costs incurred to wash coal under § 1206.458 of this chapter.

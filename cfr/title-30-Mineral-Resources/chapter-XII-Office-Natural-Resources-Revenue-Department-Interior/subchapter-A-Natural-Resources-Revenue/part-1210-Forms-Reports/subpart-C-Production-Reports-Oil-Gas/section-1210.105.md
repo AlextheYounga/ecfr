@@ -1,5 +1,7 @@
 ##### § 1210.105 May I submit these production reports manually? #####
 
+Link to an amendment published at 87 FR 21745, Apr. 13, 2022.
+
 (a) The ONRR will allow you to submit Forms ONRR-4054 and ONRR-4058 manually if:
 
 (1) You have never reported to ONRR before. You have 3 months from the day your first report is due to begin reporting electronically; and

@@ -1,5 +1,7 @@
 ##### § 1218.51 How to make payments. #####
 
+Link to an amendment published at 87 FR 21746, Apr. 13, 2022.
+
 (a) *Definitions.*
 
 *ACH* - Automated Clearing House. A type of EFT using the ACH bank-to-bank network.
@@ -60,9 +62,7 @@
 
 (2) For a Federal nonproducing lease rental or deferred bonus payment, send it to: Office of Natural Resources Revenue, P.O. Box 25627, Denver, CO 80225-0627.
 
-(e) *Where to send a non-EFT payment when you use a courier or overnight delivery service.* You should send this type of payment to:
-
-Office of Natural Resources Revenue, Building 85, Denver Federal Center, 6th Avenue and Kipling Street, Room A-614, Denver, CO 80225.
+(e) *Where to send a non-EFT payment when you use a courier or overnight delivery service.* You should send this type of payment to: Office of Natural Resources Revenue, Building 85, Denver Federal Center, 6th Avenue and Kipling Street, Room A-614, Denver, CO 80225.
 
 (f) *How to prepare and what to include on your payment document.* (1) For Form ONRR-2014 payments, you must include both your payor code and your payor-assigned document number.
 
