@@ -1,5 +1,7 @@
 ##### § 404.8 Application for a license. #####
 
+Link to an amendment published at 83 FR 15963, April 13, 2018.
+
 An application for a license should be addressed to the Federal agency having custody of the invention and shall normally include:
 
 (a) Identification of the invention for which the license is desired including the patent application serial number or patent number, title, and date, if known;

@@ -1,5 +1,7 @@
 ##### § 401.4 Contractor appeals of exceptions. #####
 
+Link to an amendment published at 83 FR 15959, April 13, 2018.
+
 (a) In accordance with 35 U.S.C. 202(b)(4) a contractor has the right to an administrative review of a determination to use one of the exceptions at § 401.3(a) (1) through (4) if the contractor believes that a determination is either contrary to the policies and objectives of this chapter or constitutes an abuse of discretion by the agency. Paragraph (b) of this section specifies the procedures to be followed by contractors and agencies in such cases. The assertion of such a claim by the contractor shall not be used as a basis for withholding or delaying the award of a funding agreement or for suspending performance under an award. Pending final resolution of the claim the contract may be issued with the patent rights provision proposed by the agency; however, should the final decision be in favor of the contractor, the funding agreement will be amended accordingly and the amendment made retroactive to the effective date of the funding agreement.
 
 (b)(1) A contractor may appeal a determination by providing written notice to the agency within 30 working days from the time it receives a copy of the agency's determination, or within such longer time as an agency may specify in its regulations. The contractor's notice should specifically identify the basis for the appeal.

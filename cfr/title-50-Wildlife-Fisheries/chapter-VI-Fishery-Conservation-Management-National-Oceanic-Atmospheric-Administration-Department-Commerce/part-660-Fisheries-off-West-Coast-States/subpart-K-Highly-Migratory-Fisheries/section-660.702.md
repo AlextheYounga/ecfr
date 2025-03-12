@@ -1,7 +1,5 @@
 ##### § 660.702 Definitions. #####
 
-Link to an amendment published at 83 FR 11150, Mar. 14, 2018.
-
 *Basket-style longline gear* means a type of longline gear that is divided into units called *baskets,* each consisting of a segment of main line to which 10 or more branch lines with hooks are spliced. The mainline and all branch lines are made of multiple braided strands of cotton, nylon, or other synthetic fibers impregnated with tar or other heavy coatings that cause the lines to sink rapidly in seawater.
 
 *Closure,* when referring to closure of a fishery, means that taking and retaining, possessing, or landing the particular species or species group is prohibited.
@@ -70,10 +68,10 @@ Link to an amendment published at 83 FR 11150, Mar. 14, 2018.
 
 *Special Agent-In-Charge* (SAC) means the Special Agent-In-Charge, NMFS, Office of Enforcement, West Coast Division, or a designee of the Special Agent-In-Charge.
 
-*Sustainable Fisheries Division* (SFD) means the Assistant Regional Administrator for Sustainable Fisheries, Southwest Region, NMFS, or his or her designee.
+*Sustainable Fisheries Division* (SFD) means the Assistant Regional Administrator for Sustainable Fisheries, West Coast Region, NMFS, or his or her designee.
 
 *Tranship* means offloading or otherwise transferring HMS or products thereof to a receiving vessel.
 
 *Vessel monitoring system unit* (VMS unit) means an automated, remote system and mobile transceiver unit that is approved by NMFS and provides information about a vessel's identity, location, and activity for the purposes of routine monitoring, control, surveillance and enforcement of area and time restrictions and other fishery management measures.
 
-[69 FR 18453, Apr. 7, 2004, as amended at 76 FR 56328, Sept. 13, 2011; 80 FR 10394, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015]
+[69 FR 18453, Apr. 7, 2004, as amended at 76 FR 56328, Sept. 13, 2011; 80 FR 10394, Feb. 26, 2015; 80 FR 46520, Aug. 5, 2015; 83 FR 11150, Mar. 14, 2018]

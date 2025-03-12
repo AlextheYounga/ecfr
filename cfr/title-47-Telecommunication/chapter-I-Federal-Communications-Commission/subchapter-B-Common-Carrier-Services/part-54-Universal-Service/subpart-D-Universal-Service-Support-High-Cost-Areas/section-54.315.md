@@ -1,5 +1,7 @@
 ##### § 54.315 Application process for phase II support distributed through competitive bidding. #####
 
+Link to an amendment published at 83 FR 15994, Apr. 13, 2018.
+
 (a) Application to participate in competitive bidding for Phase II support. In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for Phase II auction support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter;

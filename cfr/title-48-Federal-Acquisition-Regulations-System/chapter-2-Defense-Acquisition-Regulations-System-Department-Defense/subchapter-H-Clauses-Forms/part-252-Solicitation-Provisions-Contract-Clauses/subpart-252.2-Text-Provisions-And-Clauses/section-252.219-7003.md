@@ -1,8 +1,8 @@
-##### 252.219-7003 Small Business Subcontracting Plan (DoD Contracts) - Basic. #####
+##### 252.219-7003 Small Business Subcontracting Plan (DoD Contracts). #####
 
-As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*1*), use the following clause:
+*Basic.* As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*1*), use the following clause:
 
-Small Business Subcontracting Plan (DoD Contracts) - BASIC (MAR 2016)
+Small Business Subcontracting Plan (DoD Contracts) - BASIC (APR 2018)
 
 This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this contract.
 
@@ -34,11 +34,13 @@ This clause supplements the Federal Acquisition Regulation 52.219-9, Small Busin
 
 (iii) The authority to acknowledge receipt or reject SSRs for construction and related maintenance and repair contracts resides with the SSR Coordinator for each department or agency.
 
+(g) Include the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, where the subcontract is expected to exceed $700,000 ($1.5 million for construction of any public facility) and to have further subcontracting opportunities.
+
 (End of clause)Alternate I.
 
-As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*2*), use the following clause, which uses a different paragraph (f) than the basic clause.
+*Alternate I.* As prescribed in 219.708(b)(1)(A) and (b)(1)(A)(*2*), use the following clause, which uses a different paragraph (f) than the basic clause.
 
-Small Business Subcontracting Plan (DoD Contracts) - Alternate I (MAR 2016)
+Small Business Subcontracting Plan (DoD Contracts) - Alternate I (APR 2018)
 
 This clause supplements the Federal Acquisition Regulation 52.219-9, Small Business Subcontracting Plan, clause of this contract.
 
@@ -68,8 +70,10 @@ This clause supplements the Federal Acquisition Regulation 52.219-9, Small Busin
 
 (ii) The authority to acknowledge receipt or reject SSRs for construction and related maintenance and repair contracts resides with the SSR Coordinator for each department or agency.
 
+(g) Include the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70, where the subcontract is expected to exceed $700,000 ($1.5 million for construction of any public facility) and to have further subcontracting opportunities.
+
 (End of clause)
 
 (f)(1)(i) The Standard Form 294 Subcontracting Report for Individual Contracts shall be submitted in accordance with the instructions on that form; paragraph (f)(2)(i) is inapplicable.
 
-[75 FR 65440, Oct. 25, 2010, as amended at 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 52254, Aug. 29, 2012; 79 FR 61582, Oct. 14, 2014; 81 FR 17046, Mar. 25, 2016]
+[75 FR 65440, Oct. 25, 2010, as amended at 76 FR 58138, Sept. 20, 2011; 77 FR 35882, June 15, 2012; 77 FR 52254, Aug. 29, 2012; 79 FR 61582, Oct. 14, 2014; 81 FR 17046, Mar. 25, 2016; 83 FR 15999, Apr. 13, 2018]

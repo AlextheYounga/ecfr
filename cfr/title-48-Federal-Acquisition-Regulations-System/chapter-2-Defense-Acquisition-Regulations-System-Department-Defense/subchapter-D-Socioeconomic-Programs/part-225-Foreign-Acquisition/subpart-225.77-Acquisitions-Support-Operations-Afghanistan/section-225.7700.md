@@ -10,4 +10,6 @@ This subpart implements -
 
 (d) The determinations by the Deputy Secretary of Defense regarding participation of the countries of the South Caucasus or Central and South Asia in acquisitions in support of operations in Afghanistan.
 
-[78 FR 59857, Sept. 30, 2013]
+(e) Section 216 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328).
+
+[78 FR 59857, Sept. 30, 2013, as amended at 83 FR 16004, Apr. 13, 2018]

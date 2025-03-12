@@ -1,5 +1,7 @@
 ##### § 401.3 Use of the standard clauses at § 401.14. #####
 
+Link to an amendment published at 83 FR 15959, April 13, 2018.
+
 (a) Each funding agreement awarded to a small business firm or nonprofit organization (except those subject to 35 U.S.C. 212) shall contain the clause found in § 401.14(a) with such modifications and tailoring as authorized or required elsewhere in this part. However, a funding agreement may contain alternative provisions -
 
 (1) When the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government; or

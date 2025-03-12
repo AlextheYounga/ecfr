@@ -1,7 +1,5 @@
 ##### § 101.5 Testing terminology. #####
 
-Link to an amendment published at 83 FR 11143, Mar. 14, 2018.
-
 Terms used when evaluating biological products shall mean:
 
 (a) *Standard Requirement.* Test methods, procedures, and criteria established by Animal and Plant Health Inspection Service for evaluating biological products to be pure, safe, potent, and efficacious, and not to be worthless, contaminated, dangerous, or harmful under the Act.
@@ -60,4 +58,6 @@ Terms used when evaluating biological products shall mean:
 
 (r) *Immunogenicity.* The ability of a biological product to elicit an immune response in animals as determined by test methods or procedures acceptable to the Animal and Plant Health Inspection Service.
 
-[38 FR 8426, Apr. 2, 1973, as amended at 40 FR 45419, Oct. 2, 1975; 41 FR 6751, Feb. 13, 1976; 43 FR 3701, Jan. 27, 1978; 56 FR 66782, 66783 Dec. 26, 1991; 62 FR 19037, Apr. 18, 1997; 79 FR 55969, Sept. 18, 2014]
+(s) *Stability-indicating assay.* A stability-indicating assay is a validated quantitative analytical procedure that can detect changes over time in a pertinent property of the product.
+
+[38 FR 8426, Apr. 2, 1973, as amended at 40 FR 45419, Oct. 2, 1975; 41 FR 6751, Feb. 13, 1976; 43 FR 3701, Jan. 27, 1978; 56 FR 66782, 66783 Dec. 26, 1991; 62 FR 19037, Apr. 18, 1997; 79 FR 55969, Sept. 18, 2014; 83 FR 11143, Mar. 14, 2018]

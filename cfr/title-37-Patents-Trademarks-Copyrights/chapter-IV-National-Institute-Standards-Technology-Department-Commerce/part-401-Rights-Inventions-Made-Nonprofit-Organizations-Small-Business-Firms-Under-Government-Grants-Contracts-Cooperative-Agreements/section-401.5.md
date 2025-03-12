@@ -1,5 +1,7 @@
 ##### § 401.5 Modification and tailoring of clauses. #####
 
+Link to an amendment published at 83 FR 15959, April 13, 2018.
+
 (a) Agencies should complete the blank in paragraph (g)(2) of the clauses at § 401.14 in accordance with their own or applicable government-wide regulations such as the Federal Acquisition Regulation. In grants and cooperative agreements (and in contracts, if not inconsistent with the Federal Acquisition Regulation) agencies wishing to apply the same clause to all subcontractors as is applied to the contractor may delete paragraph (g)(2) of the clause and delete the words “to be performed by a small business firm or domestic nonprofit organization” from paragraph (g)(1). Also, if the funding agreement is a grant or cooperative agreement, paragraph (g)(3) may be deleted. When either paragraph (g)(2) or paragraphs (g) (2) and (3) are deleted, the remaining paragraph or paragraphs should be renumbered appropriately.
 
 (b) Agencies should complete paragraph (l), “Communications”, at the end of the clauses at § 401.14 by designating a central point of contact for communications on matters relating to the clause. Additional instructions on communications may also be included in paragraph (l).

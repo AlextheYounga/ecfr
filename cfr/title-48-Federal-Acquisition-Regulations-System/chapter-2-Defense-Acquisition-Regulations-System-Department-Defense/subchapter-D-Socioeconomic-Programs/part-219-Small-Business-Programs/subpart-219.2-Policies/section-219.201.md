@@ -14,10 +14,10 @@
 
 (11) Also conduct annual reviews to assess -
 
-(A) The extent of consolidation of contract requirements that has occurred (see 207.170); and
+(A) The extent of consolidation of contract requirements that has occurred (see FAR 7.107); and
 
 (B) The impact of those consolidations on the availability of small business concerns to participate in procurements as both contractors and subcontractors.
 
 (d) For information on the appointment and functions of small business specialists, see PGI 219.201(d).
 
-[56 FR 36353, July 31, 1991, as amended at 63 FR 41973, Aug. 6, 1998; 64 FR 2598, Jan. 15, 1999; 65 FR 39705, June 27, 2000; 65 FR 50149, Aug. 17, 2000; 65 FR 63807, Oct. 25, 2000; 69 FR 55987, Sept. 17, 2004; 71 FR 44927, Aug. 8, 2006; 73 FR 46813, Aug. 12, 2008; 75 FR 45074, Aug. 2, 2010; 79 FR 61582, Oct. 14, 2014; 79 FR 67356, Nov. 13, 2014; 79 FR 68635, Nov. 18, 2014; 80 FR 56930, Sept. 21, 2015]
+[56 FR 36353, July 31, 1991, as amended at 63 FR 41973, Aug. 6, 1998; 64 FR 2598, Jan. 15, 1999; 65 FR 39705, June 27, 2000; 65 FR 50149, Aug. 17, 2000; 65 FR 63807, Oct. 25, 2000; 69 FR 55987, Sept. 17, 2004; 71 FR 44927, Aug. 8, 2006; 73 FR 46813, Aug. 12, 2008; 75 FR 45074, Aug. 2, 2010; 79 FR 61582, Oct. 14, 2014; 79 FR 67356, Nov. 13, 2014; 79 FR 68635, Nov. 18, 2014; 80 FR 56930, Sept. 21, 2015; 83 FR 15996, Apr. 13, 2018]

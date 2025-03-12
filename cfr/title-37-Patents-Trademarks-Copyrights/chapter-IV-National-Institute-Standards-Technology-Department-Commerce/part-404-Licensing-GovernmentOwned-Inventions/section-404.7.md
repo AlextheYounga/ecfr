@@ -1,5 +1,7 @@
 ##### § 404.7 Exclusive, co-exclusive and partially exclusive licenses. #####
 
+Link to an amendment published at 83 FR 15963, April 13, 2018.
+
 (a)(1) Exclusive, co-exclusive or partially exclusive domestic licenses may be granted on Government owned inventions, only if;
 
 (i) Notice of a prospective license, identifying the invention and the prospective licensee, has been published in the Federal Register, providing opportunity for filing written objections within at least a 15-day period;

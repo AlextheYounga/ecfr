@@ -1,5 +1,7 @@
 ##### § 401.14 Standard patent rights clauses. #####
 
+Link to an amendment published at 83 FR 15961, April 13, 2018.
+
 (a) The following is the standard patent rights clause to be used as specified in § 401.3(a).
 
 Patent Rights (Small Business Firms and Nonprofit Organizations)(a) Definitions

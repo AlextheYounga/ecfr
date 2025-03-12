@@ -1,0 +1,3 @@
+##### 225.7705-1 Prohibition. #####
+
+The contracting officer shall not obligate or expend funds for a construction or other infrastructure program or project of the Department in Afghanistan if military or civilian personnel of the United States Government or their representatives, with authority to conduct oversight of such program or project, cannot safely access such program or project. In limited circumstances, this prohibition may be waived in accordance with section 225.7705-2.

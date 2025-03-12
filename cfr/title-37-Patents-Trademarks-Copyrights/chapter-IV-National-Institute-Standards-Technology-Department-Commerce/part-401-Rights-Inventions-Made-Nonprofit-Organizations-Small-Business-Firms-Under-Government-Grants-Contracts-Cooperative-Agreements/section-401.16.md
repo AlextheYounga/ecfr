@@ -1,5 +1,7 @@
 ##### § 401.16 Electronic filing. #####
 
+Link to an amendment published at 83 FR 15963, April 13, 2018.
+
 Unless otherwise requested or directed by the agency,
 
 (a) The written report required in (c)(1) of the standard clause in § 401.14(a) may be electronically filed;

@@ -1,0 +1,5 @@
+##### § 1212.520 Late payment and interest charges for past due assessments. #####
+
+(a) A late payment charge will be imposed on any first handler or importer who fails to make timely remittance to the Board of the total assessments for which they are liable. The late payment will be imposed on any assessments not received within 30 calendar days of the date when assessments are due. This one-time late payment charge will be 10 percent of the assessments due before interest charges have accrued.
+
+(b) In addition to the late payment charge,2/3 of 1 percent per month (or an annual rate of 8 percent) interest on the outstanding balance, including any late payment and accrued interest, will be added to any accounts for which payment has not been received within 30 calendar days of the date when assessments are due. Interest will continue to accrue monthly until the outstanding balance is paid to the Board.
