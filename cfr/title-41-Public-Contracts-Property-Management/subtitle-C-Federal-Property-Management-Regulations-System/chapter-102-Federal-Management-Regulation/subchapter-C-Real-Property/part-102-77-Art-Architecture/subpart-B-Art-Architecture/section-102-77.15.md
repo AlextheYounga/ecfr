@@ -1,0 +1,3 @@
+##### § 102-77.15 Who funds the Art in Architecture efforts? #####
+
+To the extent not prohibited by law, Federal agencies must fund the Art in Architecture efforts by allocating a portion of the estimated cost of constructing or purchasing new Federal buildings or of completing major repairs and alterations of existing buildings. Funding for qualifying projects, including new construction, building purchases, other building acquisitions, or prospectus-level repair and alteration projects, must be in a range determined by the Administrator of General Services.

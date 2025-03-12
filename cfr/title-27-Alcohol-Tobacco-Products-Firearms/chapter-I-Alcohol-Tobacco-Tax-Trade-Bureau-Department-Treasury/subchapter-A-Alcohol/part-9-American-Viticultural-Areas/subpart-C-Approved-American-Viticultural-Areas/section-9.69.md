@@ -1,5 +1,7 @@
 ##### § 9.69 Yakima Valley. #####
 
+Link to an amendment published at 85 FR 60361, Sept. 25, 2020.
+
 (a) *Name.* The name of the viticultural area described in this section is “Yakima Valley.”
 
 (b) *Approved maps.* The approved maps for determining the boundary of the Yakima Valley viticultural area are two U.S.G.S. maps. They are entitled:

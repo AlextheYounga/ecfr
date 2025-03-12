@@ -1,0 +1,3 @@
+##### § 102-77.20 With whom should Federal agencies collaborate when commissioning and selecting art for Federal buildings? #####
+
+To the maximum extent practicable, Federal agencies should seek the support and involvement of local citizens in selecting appropriate artwork. Subject to sections 102-77.21 through 102-77.23 of this part, Federal agencies should collaborate with the artist and community to produce works of art that reflect the cultural, intellectual and historic interests and values of a community. In addition, and subject to sections 102-77.21 through 102-77.23, Federal agencies should work collaboratively with the architect of the building and art professionals when commissioning and selecting art for Federal buildings.

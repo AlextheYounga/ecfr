@@ -1,0 +1,3 @@
+##### 102-77.23 Who is considered a historically significant American under this part? #####
+
+As used in this part, the term “historically significant American” means an individual who was, or became, an American citizen and was a public figure who made substantive contributions to America's public life or otherwise had a substantive effect on America's history. The phrase also includes public figures such as Christopher Columbus, Junipero Serra, and the Marquis de La Fayette, who lived prior to or during the American Revolution and were not American citizens, but who made substantive historical contributions to the discovery, development, or independence of the future United States.

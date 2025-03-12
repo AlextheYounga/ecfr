@@ -1,0 +1,5 @@
+##### § 102-77.21 Is priority given to certain types of works of art when commissioning and selecting art for Federal buildings? #####
+
+(a) When commissioning works of art, priority must be given to those works that portray historically significant Americans or events of American historical significance, or illustrate the ideals upon which our Nation was founded. Particular priority should be given to public-facing statues of or monuments to former Presidents of the United States and to individuals and events relating to the discovery of America, the founding of the United States and the abolition of slavery or others who contributed positively to America's history.
+
+(b) To the extent appropriate and consistent with applicable law, GSA shall prioritize projects that will result in the installation of a statue in a community where a statue depicting a historically significant American was removed or destroyed in 2020. All works of art commissioned under the Art in Architecture program should be designed to be appreciated by the general public and by those who use and interact with Federal buildings.
