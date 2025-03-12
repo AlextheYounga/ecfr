@@ -28,4 +28,4 @@
 
 (g) *Expiration date.* The applicability of this section expires on December 6, 2019.
 
-TD 9800, 81 FR 88108, Dec. 7, 2016]
+[T.D. 9800, 81 FR 88108, Dec. 7, 2016]
