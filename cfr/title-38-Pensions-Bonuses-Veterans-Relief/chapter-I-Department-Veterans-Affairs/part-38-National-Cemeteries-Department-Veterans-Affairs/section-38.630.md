@@ -1,5 +1,7 @@
 ##### § 38.630 Burial headstones and markers; medallions. #####
 
+Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
+
 (a) *Eligibility*—(1) *Unmarked graves.* VA will furnish, when requested under paragraph (b)(1)(i) or (ii) of this section, a burial headstone or marker for the unmarked grave of the following individuals:
 
 (i) Any individual buried in a national cemetery or in a military post cemetery. When more than one individual is buried in a single gravesite in a national cemetery, VA will, if feasible, include inscription information for all such individuals on a single headstone or marker, rather than furnishing a separate headstone or marker for each buried individual.

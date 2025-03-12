@@ -636,7 +636,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |       Sidney       |                         7                         |   |
 |        York        |                        24                         |   |
 |       Nevada       |                                                   |   |
-|        Elko        |                        10                         |   |
+|        Elko        |                        20                         |   |
 |        Ely         |                        27                         |   |
 |     Henderson      |                        24                         |   |
 |     Las Vegas      |            2, 7, \*11, 13, 16, 22, 29             |   |

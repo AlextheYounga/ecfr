@@ -1,5 +1,7 @@
 ##### § 38.619 Requests for interment, committal services or memorial services, and funeral honors. #####
 
+Link to an amendment published at 88 FR 51238, Aug. 3, 2023.
+
 (a) *Interment requests.* A personal representative, as defined in § 38.600, may request interment of an eligible decedent in a national cemetery by contacting the National Cemetery Scheduling Office (NCSO) at 1-800-535-1117.
 
 (1) *Required information.* VA will request the following information from the decedent's personal representative at the time of the request for interment to allow VA to schedule the interment for the decedent:
@@ -22,7 +24,7 @@
 
 (ix) Other relevant information necessary to establish or confirm eligibility of the decedent and/or for cemetery logistics and planning.
 
-(2) [Reserved].
+(2) [Reserved]
 
 (b) *Memorial services requests.* The personal representative may request a memorial service for a decedent who is eligible for interment in a VA national cemetery. Memorial services may be conducted if the decedent's cremated remains will be scattered and will not be interred, or if the remains of the eligible individual are otherwise not available for interment, or were previously interred without a committal service. The personal representative may request the memorial service by contacting the National Cemetery Scheduling Office (NCSO) at 1-800-535-1117 and providing the following required information:
 

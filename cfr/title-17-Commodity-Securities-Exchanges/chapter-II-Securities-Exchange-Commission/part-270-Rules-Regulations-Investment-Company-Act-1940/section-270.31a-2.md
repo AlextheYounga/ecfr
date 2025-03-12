@@ -1,5 +1,7 @@
 ##### § 270.31a-2 Records to be preserved by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies. #####
 
+Link to an amendment published at 88 FR 51523, Aug. 3, 2023.
+
 (a) Every registered investment company shall:
 
 (1) Preserve permanently, the first two years in an easily accessible place, all books and records required to be made pursuant to paragraphs (1) through (4) of § 270.31a-1(b);
