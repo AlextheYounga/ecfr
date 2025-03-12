@@ -1,5 +1,7 @@
 ##### § 43.5 Time delays for public dissemination of swap transaction and pricing data. #####
 
+Link to an amendment published at 85 FR 75481, Nov. 25, 2020.
+
 (a) *In general.* The time delay for the real-time public reporting of a block trade or large notional off-facility swap begins upon execution, as defined in § 43.2 of this part. It is the responsibility of the registered swap data repository that accepts and publicly disseminates swap transaction and pricing data in real-time to ensure that the block trade or large notional off-facility swap transaction and pricing data is publicly disseminated pursuant to this part upon the expiration of the appropriate time delay described in § 43.5(d) through (h).
 
 (b) *Public dissemination of publicly reportable swap transactions subject to a time delay.* A registered swap data repository shall publicly disseminate swap transaction and pricing data that is subject to a time delay pursuant to this paragraph, as follows:

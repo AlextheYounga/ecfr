@@ -1,5 +1,7 @@
 ##### § 43.7 Delegation of authority. #####
 
+Link to an amendment published at 85 FR 75485, Nov. 25, 2020.
+
 (a) *Authority.* The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or such other employee or employees as the Director may designate from time to time, the authority:
 
 (1) To determine whether swaps fall within specific swap categories as described in § 43.6(b);

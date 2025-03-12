@@ -1,5 +1,7 @@
 ##### § 46.1 Definitions. #####
 
+Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
+
 Terms used in this part are defined as follows:
 
 *Asset class* means the broad category of goods, services or commodities, including any “excluded commodity” as defined in CEA section 1a(19), with common characteristics underlying a swap. The asset classes include credit, equity, foreign exchange (excluding cross-currency), interest rate (including cross-currency), other commodity, and such other asset classes as may be determined by the Commission.

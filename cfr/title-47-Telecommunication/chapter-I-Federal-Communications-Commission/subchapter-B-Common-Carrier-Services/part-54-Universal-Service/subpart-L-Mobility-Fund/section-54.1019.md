@@ -1,5 +1,7 @@
 ##### § 54.1019 Annual reports. #####
 
+Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
+
 (a) A winning bidder authorized to receive Mobility Fund Phase II support shall submit an annual report no later than July 1 in each year for the ten (10) years after it is so authorized.
 
 (b) The party submitting the annual report must certify that it has been authorized to do so by the winning bidder.

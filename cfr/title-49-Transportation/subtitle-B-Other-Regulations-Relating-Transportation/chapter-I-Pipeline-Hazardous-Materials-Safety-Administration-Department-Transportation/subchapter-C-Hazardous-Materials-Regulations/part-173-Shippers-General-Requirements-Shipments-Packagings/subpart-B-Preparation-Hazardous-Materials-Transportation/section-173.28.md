@@ -1,5 +1,7 @@
 ##### § 173.28 Reuse, reconditioning and remanufacture of packagings. #####
 
+Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
+
 (a) *General.* Packagings and receptacles used more than once must be in such condition, including closure devices and cushioning materials, that they conform in all respects to the prescribed requirements of this subchapter. Before reuse, each packaging must be inspected and may not be reused unless free from incompatible residue, rupture, or other damage which reduces its structural integrity. Packagings not meeting the minimum thickness requirements prescribed in paragraph (b)(4)(i) of this section may not be reused or reconditioned for reuse.
 
 (b) *Reuse of non-bulk packaging.* A non-bulk packaging used more than once must conform to the following provisions and limitations:

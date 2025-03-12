@@ -1,5 +1,7 @@
 ##### § 49.4 Withdrawal from registration. #####
 
+Link to an amendment published at 85 FR 75595, Nov. 25, 2020.Link to an amendment published at 85 FR 75657, Nov. 25, 2020.
+
 (a)(1) A registered swap data repository may withdraw its registration by giving notice in writing to the Commission requesting that its registration as a swap data repository be withdrawn, which notice shall be served at least sixty days prior to the date named therein as the date when the withdrawal of registration shall take effect. The request to withdraw shall be made by a person duly authorized by the registrant and shall specify:
 
 (i) The name of the registrant for which withdrawal of registration is being requested;

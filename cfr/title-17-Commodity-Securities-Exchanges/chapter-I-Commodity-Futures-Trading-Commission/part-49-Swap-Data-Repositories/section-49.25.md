@@ -1,5 +1,7 @@
 ##### § 49.25 Financial resources. #####
 
+Link to an amendment published at 85 FR 75662, Nov. 25, 2020.
+
 (a) *General rule.* (1) A registered swap data repository shall maintain sufficient financial resources to perform its statutory duties set forth in § 49.9 and the core principles set forth in § 49.19.
 
 (2) An entity that operates as both a swap data repository and a derivatives clearing organization shall also comply with the financial resource requirements applicable to derivatives clearing organizations under § 39.11 of this chapter.

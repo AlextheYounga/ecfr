@@ -1,5 +1,7 @@
 ##### § 49.3 Procedures for registration. #####
 
+Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
+
 (a) *Application procedures.* (1) An applicant, person or entity desiring to be registered as a swap data repository shall file electronically an application for registration on Form SDR provided in appendix A to this part, with the Secretary of the Commission at its headquarters in Washington, DC in a format and in the manner specified by the Secretary of the Commission in accordance with the instructions contained therein.
 
 (2) The application shall include information sufficient to demonstrate compliance with core principles specified in Section 21 of the Act and the regulations thereunder. Form SDR consists of instructions, general questions and a list of Exhibits (documents, information and evidence) required by the Commission in order to determine whether an applicant is able to comply with the core principles. An application will not be considered to be materially complete unless the applicant has submitted, at a minimum, the exhibits as required in Form SDR. If the application is not materially complete, the Commission shall notify the applicant that the application will not be deemed to have been submitted for purposes of the 180-day review procedures.

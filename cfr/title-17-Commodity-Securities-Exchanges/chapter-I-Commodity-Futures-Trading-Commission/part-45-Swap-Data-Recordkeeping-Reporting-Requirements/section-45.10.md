@@ -1,5 +1,7 @@
 ##### § 45.10 Reporting to a single swap data repository. #####
 
+Link to an amendment published at 85 FR 75564, Nov. 25, 2020.
+
 All swap data for a given swap, which shall include all swap data required to be reported pursuant to parts 43 and 45 of this chapter, must be reported to a single swap data repository, which shall be the swap data repository to which the first report of required swap creation data is made pursuant to this part.
 
 (a) *Swaps executed on or pursuant to the rules of a swap execution facility or designated contract market.* To ensure that all swap data, including all swap data required to be reported pursuant to parts 43 and 45 of this chapter, for a swap executed on or pursuant to the rules of a swap execution facility or designated contract market is reported to a single swap data repository:

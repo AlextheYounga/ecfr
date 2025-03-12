@@ -1,5 +1,7 @@
 ##### § 49.22 Chief compliance officer. #####
 
+Link to an amendment published at 85 FR 75661, Nov. 25, 2020.
+
 (a) *Definition of Board of Directors.* For purposes of this part 49, the term “board of directors” means the board of directors of a registered swap data repository, or for those swap data repositories whose organizational structure does not include a board of directors, a body performing a function similar to that of a board of directors.
 
 (b) *Designation and qualifications of chief compliance officer* - (1) *Chief Compliance Officer required.* Each registered swap data repository shall establish the position of chief compliance officer, and designate an individual to serve in that capacity.

@@ -1,5 +1,7 @@
 ##### § 49.2 Definitions. #####
 
+Link to an amendment published at 85 FR 75595, Nov. 25, 2020.Link to an amendment published at 85 FR 75656, Nov. 25, 2020.
+
 (a) As used in this part:
 
 (1) *Affiliate.* The term “*affiliate*” means a person that directly, or indirectly, controls, is controlled by, or is under common control with, the swap data repository.

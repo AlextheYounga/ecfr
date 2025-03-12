@@ -1,5 +1,7 @@
 ##### § 107.402 Application for designation as a certification agency. #####
 
+Link to an amendment published at 85 FR 75704, Nov. 25, 2020.
+
 (a) Any organization or person seeking to be approved as a certification agency must apply in writing to the Associate Administrator for Hazardous Materials Safety (PHH-32), Department of Transportation, East Building, 1200 New Jersey Avenue SE., Washington DC 20590-0001. Alternatively, the application in an appropriate format may be submitted by facsimile (fax) to: (202) 366-3753 or (202) 366-3308 or by electronic mail (email) to: *approvals@dot.gov.* Each application must be signed and certified to be correct by the applicant or, if the applicant is an organization, by an authorized officer or official representative of the organization. Any false statement or representation, or the knowing and willful concealment of a material fact, may subject the applicant to prosecution under the provisions of 18 U.S.C. 1001, and result in the denial or termination of a designation.
 
 (b) Each application for approval as a certification agency must be in English and include the following information:

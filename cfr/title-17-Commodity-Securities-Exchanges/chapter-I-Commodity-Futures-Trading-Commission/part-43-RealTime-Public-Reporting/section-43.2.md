@@ -1,5 +1,7 @@
 ##### § 43.2 Definitions. #####
 
+Link to an amendment published at 85 FR 75476, Nov. 25, 2020.
+
 As used in this part:
 
 *Act* means the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.*

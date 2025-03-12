@@ -1,5 +1,7 @@
 ##### § 49.19 Core principles applicable to registered swap data repositories. #####
 
+Link to an amendment published at 85 FR 75661, Nov. 25, 2020.
+
 (a) *Compliance with core principles.* To be registered, and maintain registration, a swap data repository shall comply with the core principles as described in this paragraph. Unless otherwise determined by the Commission by rule or regulation, a swap data repository shall have reasonable discretion in establishing the manner in which the swap data repository complies with the core principles described in this paragraph.
 
 (b) *Antitrust considerations (Core Principle 1).* Unless necessary or appropriate to achieve the purposes of the Act, a registered swap data repository shall avoid adopting any rule or taking any action that results in any unreasonable restraint of trade; or imposing any material anticompetitive burden on trading, clearing or reporting swaps.

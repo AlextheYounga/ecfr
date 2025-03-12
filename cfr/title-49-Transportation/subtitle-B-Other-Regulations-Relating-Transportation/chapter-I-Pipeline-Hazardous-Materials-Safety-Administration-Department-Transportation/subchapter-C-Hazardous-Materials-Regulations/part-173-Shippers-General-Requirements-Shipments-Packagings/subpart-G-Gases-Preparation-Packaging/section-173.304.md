@@ -1,5 +1,7 @@
 ##### § 173.304 Filling of cylinders with liquefied compressed gases. #####
 
+Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+
 (a) *General requirements.* A cylinder filled with a liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and the general requirements in § 173.301. In addition, a DOT specification cylinder must meet the requirement in §§ 173.301a, 173.304a, and 173.305, as applicable. UN pressure receptacles must be shipped in accordance with the requirements in 173.301b and 173.304b, as applicable.
 
 (1) A DOT 3AL cylinder may not be used for any material with a primary or subsidiary hazard of Class 8.

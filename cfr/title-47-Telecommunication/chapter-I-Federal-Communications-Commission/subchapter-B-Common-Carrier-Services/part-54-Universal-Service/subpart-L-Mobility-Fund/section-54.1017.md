@@ -1,5 +1,7 @@
 ##### § 54.1017 Compliance for Mobility Fund Phase II. #####
 
+Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
+
 (a) Mobile eligible telecommunications carriers subject to defined build-out milestones in § 54.1015 must notify the Commission and USAC, and the relevant state, U.S. Territory, or Tribal government, if applicable, within ten (10) business days after the applicable deadline if they have failed to meet a build-out milestone.
 
 (1) *Interim build-out milestones.* Upon notification that a mobile eligible telecommunications carrier has defaulted on an interim build-out milestone after it has begun receiving Mobility Fund Phase II support, the Wireline Competition Bureau or Wireless Telecommunications Bureau will issue a letter evidencing the default. For purposes of determining whether a default has occurred, any service a mobile eligible telecommunications carrier offers must meet the performance obligations in § 54.1015(a)(1) and (2). The issuance of this letter shall initiate reporting obligations and withholding of a percentage of the mobile eligible telecommunication carrier's total monthly Mobility Fund Phase II support, if applicable, starting the month following the issuance of the letter:

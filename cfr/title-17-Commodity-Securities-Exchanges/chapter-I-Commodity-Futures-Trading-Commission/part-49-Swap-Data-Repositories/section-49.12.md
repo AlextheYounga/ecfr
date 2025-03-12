@@ -1,5 +1,7 @@
 ##### § 49.12 Swap data repository recordkeeping requirements. #####
 
+Link to an amendment published at 85 FR 75658, Nov. 25, 2020.
+
 (a) A registered swap data repository shall maintain its books and records in accordance with the requirements of part 45 of this chapter regarding the swap data required to be reported to the swap data repository.
 
 (b) A registered swap data repository shall maintain swap data (including all historical positions) throughout the existence of the swap and for five years following final termination of the swap, during which time the records must be readily accessible by the swap data repository and available to the Commission via real-time electronic access; and in archival storage for which such swap data is retrievable by the swap data repository within three business days.

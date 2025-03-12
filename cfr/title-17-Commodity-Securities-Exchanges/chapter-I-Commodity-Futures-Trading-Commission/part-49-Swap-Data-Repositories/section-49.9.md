@@ -1,5 +1,7 @@
 ##### § 49.9 Duties of registered swap data repositories. #####
 
+Link to an amendment published at 85 FR 75657, Nov. 25, 2020.
+
 (a) *Duties.* To be registered, and maintain registration, as a swap data repository, a registered swap data repository shall:
 
 (1) Accept swap data as prescribed in § 49.10 for each swap;

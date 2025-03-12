@@ -1,5 +1,7 @@
 ##### § 49.11 Confirmation of data accuracy. #####
 
+Link to an amendment published at 85 FR 75658, Nov. 25, 2020.
+
 (a) A registered swap data repository shall establish policies and procedures to ensure the accuracy of swap data and other regulatory information required to be reported by part 45 that it receives from reporting entities or certain third-party service providers acting on their behalf, such as confirmation or matching service providers.
 
 (b) A registered swap data repository shall confirm the accuracy of all swap data that is submitted pursuant to part 45.

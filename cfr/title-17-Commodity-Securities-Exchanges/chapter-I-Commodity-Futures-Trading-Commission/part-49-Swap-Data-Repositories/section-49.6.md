@@ -1,5 +1,7 @@
 ##### § 49.6 Registration of successor entities. #####
 
+Link to an amendment published at 85 FR 75657, Nov. 25, 2020.
+
 (a) In the event of a corporate transaction, such as a re-organization, merger, acquisition, bankruptcy or other similar corporate event, that creates a new entity, in which the swap data repository continues to operate, the swap data repository shall request a transfer of the registration, rules, and other matters, no later than 30 days after the succession. The registration of the predecessor shall be deemed to remain effective as the registration of the successor if the successor, within 30 days after such succession, files an application for registration on Form SDR, and the predecessor files a request for vacation of registration on Form SDR *provided, however,* that the registration of the predecessor swap data repository shall cease to be effective 90 days after the application for registration on Form SDR is filed by the successor swap data repository.
 
 (b) If the succession is based solely on a change in the predecessor's date or state of incorporation, form of organization, or composition of a partnership, the successor may, within 30 days after the succession, amend the registration of the predecessor swap data repository on Form SDR to reflect these changes. This amendment shall be an application for registration filed by the predecessor and adopted by the successor.

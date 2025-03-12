@@ -1,5 +1,7 @@
 ##### § 46.5 Determination of which counterparty must report. #####
 
+Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
+
 (a) Determination of which counterparty must report swap data concerning each pre-enactment or transition swap shall be made as follows:
 
 (1) If only one counterparty is a swap dealer, the swap dealer shall fulfill all counterparty reporting obligations.

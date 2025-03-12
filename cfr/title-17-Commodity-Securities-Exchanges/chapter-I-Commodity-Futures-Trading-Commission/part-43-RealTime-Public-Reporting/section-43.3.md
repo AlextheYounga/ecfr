@@ -1,5 +1,7 @@
 ##### § 43.3 Method and timing for real-time public reporting. #####
 
+Link to an amendment published at 85 FR 75478, Nov. 25, 2020.Link to an amendment published at 85 FR 75653, Nov. 25, 2020.
+
 (a) *Responsibilities of parties to a swap to report swap transaction and pricing data in real-time* - (1) *In general.* A reporting party shall report any publicly reportable swap transaction to a registered swap data repository as soon as technologically practicable after such publicly reportable swap transaction is executed. For purposes of this part, a registered swap data repository includes any swap data repository provisionally registered with the Commission pursuant to part 49 of this chapter.
 
 (2) *Swaps executed on or pursuant to the rules of a registered swap execution facility or designated contract market.* A party to a publicly reportable swap transaction shall satisfy its reporting requirement under this section by executing a publicly reportable swap transaction on or pursuant to the rules of a registered swap execution facility or designated contract market.

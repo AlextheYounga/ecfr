@@ -1,5 +1,7 @@
 ##### § 54.5 Terms and definitions. #####
 
+Link to an amendment published at 85 FR 75817, Nov. 25, 2020.
+
 Terms used in this part have the following meanings:
 
 *Act.* The term “Act” refers to the Communications Act of 1934, as amended.

@@ -1,5 +1,7 @@
 ##### § 173.302 Filling of cylinders with nonliquefied (permanent) compressed gases or adsorbed gases. #####
 
+Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+
 (a) *General requirements.* (1) A cylinder filled with a non-liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and § 173.301. In addition, a DOT specification cylinder must meet the requirements in §§ 173.301a, 173.302a and 173.305, as applicable. UN pressure receptacles must meet the requirements in §§ 173.301b and 173.302b, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
 
 (2) *Adsorbed gas.* A cylinder filled with an adsorbed gas must be offered for transportation in accordance with the requirements of paragraph (d) of this section, §§ 173.301, and 173.302c. UN cylinders must meet the requirements in §§ 173.301b and 173.302b, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.

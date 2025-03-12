@@ -1,5 +1,7 @@
 ##### § 45.5 Unique swap identifiers. #####
 
+Link to an amendment published at 85 FR 75562, Nov. 25, 2020.
+
 Each swap subject to the jurisdiction of the Commission shall be identified in all recordkeeping and all swap data reporting pursuant to this part by the use of a unique swap identifier, which shall be created, transmitted, and used for each swap as provided in paragraphs (a) through (f) of this section.
 
 (a) *Swaps executed on or pursuant to the rules of a swap execution facility or designated contract market.* For each swap executed on or pursuant to the rules of a swap execution facility or designated contract market, the swap execution facility or designated contract market shall create and transmit a unique swap identifier as provided in paragraphs (a)(1) and (2) of this section.

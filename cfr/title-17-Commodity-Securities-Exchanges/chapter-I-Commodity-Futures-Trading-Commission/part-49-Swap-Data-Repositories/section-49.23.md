@@ -1,5 +1,7 @@
 ##### § 49.23 Emergency authority policies and procedures. #####
 
+Link to an amendment published at 85 FR 75661, Nov. 25, 2020.
+
 (a) *Emergency policies and procedures required.* A registered swap data repository shall establish policies and procedures for the exercise of emergency authority in the event of any emergency, including but not limited to natural, man-made, and information technology emergencies. Such policies and procedures shall also require a swap data repository to exercise its emergency authority upon request by the Commission. A swap data repository's policies and procedures for the exercise of emergency authority shall be transparent to the Commission and to market participants whose swap transaction data resides at the swap data repository.
 
 (b) *Invocation of emergency authority.* A registered swap data repository's policies and procedures for the exercise of emergency authority shall enumerate the circumstances under which the swap data repository is authorized to invoke its emergency authority and the procedures that it shall follow to declare an emergency. Such policies and procedures shall also address the range of measures that it is authorized to take when exercising such emergency authority.

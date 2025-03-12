@@ -1,4 +1,6 @@
-##### § 45.6 Legal entity identifiers #####
+##### § 45.6 Legal entity identifiers. #####
+
+Link to an amendment published at 85 FR 75563, Nov. 25, 2020.
 
 Each counterparty to any swap subject to the jurisdiction of the Commission shall be identified in all recordkeeping and all swap data reporting pursuant to this part by means of a single legal entity identifier as specified in this section.
 

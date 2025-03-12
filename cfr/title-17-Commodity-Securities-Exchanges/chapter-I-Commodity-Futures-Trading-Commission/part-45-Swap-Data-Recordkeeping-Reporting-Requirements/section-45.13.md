@@ -1,5 +1,7 @@
 ##### § 45.13 Required data standards. #####
 
+Link to an amendment published at 85 FR 75565, Nov. 25, 2020.
+
 (a) *Data maintained and furnished to the commission by swap data repositories.* A swap data repository shall maintain all swap data reported to it in a format acceptable to the Commission, and shall transmit all swap data requested by the Commission to the Commission in an electronic file in a format acceptable to the Commission.
 
 (b) *Data reported to swap data repositories.* In reporting swap data to a swap data repository as required by this part, each reporting entity or counterparty shall use the facilities, methods, or data standards provided or required by the swap data repository to which the entity or counterparty reports the data. A swap data repository may permit reporting entities and counterparties to use various facilities, methods, or data standards, provided that its requirements in this regard enable it to meet the requirements of paragraph (a) of this section with respect to maintenance and transmission of swap data.

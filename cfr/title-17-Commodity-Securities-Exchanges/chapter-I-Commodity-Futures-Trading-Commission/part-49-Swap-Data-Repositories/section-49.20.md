@@ -1,5 +1,7 @@
 ##### § 49.20 Governance arrangements (Core Principle 2). #####
 
+Link to an amendment published at 85 FR 75661, Nov. 25, 2020.
+
 (a) *General.* (1) Each registered swap data repository shall establish governance arrangements that are transparent to fulfill public interest requirements, and to support the objectives of the Federal Government, owners, and participants.
 
 (2) Each registered swap data repository shall establish governance arrangements that are well-defined and include a clear organizational structure with consistent lines of responsibility and effective internal controls, including with respect to administration, accounting, and the disclosure of confidential information. § 49.22 of this part contains rules on internal controls applicable to administration and accounting. § 49.16 of this part contains rules on internal controls applicable to the disclosure of confidential information.

@@ -1,5 +1,7 @@
 ##### § 173.56 New explosives - definition and procedures for classification and approval. #####
 
+Link to an amendment published at 85 FR 75713, Nov. 25, 2020.
+
 (a) *Definition of new explosive.* For the purposes of this subchapter a *new explosive* means an explosive produced by a person who:
 
 (1) Has not previously produced that explosive; or

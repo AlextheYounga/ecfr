@@ -1,5 +1,7 @@
 ##### § 1.21001 Participation in competitive bidding for support. #####
 
+Link to an amendment published at 85 FR 75814, Nov. 25, 2020.
+
 (a) *Public Notice of the Application Process.* The dates and procedures for submitting applications to participate in competitive bidding pursuant to this subpart shall be announced by public notice.
 
 (b) *Application Contents.* An applicant to participate in competitive bidding pursuant to this subpart shall provide the following information in an acceptable form:

@@ -1,5 +1,7 @@
 ##### § 180.213 Requalification markings. #####
 
+Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+
 (a) *General.* Each cylinder or UN pressure receptacle requalified in accordance with this subpart with acceptable results must be marked as specified in this section. Required specification markings may not be altered or removed.
 
 (b) *Placement of markings.* Each cylinder must be plainly and permanently marked on the metal of the cylinder as permitted by the applicable specification. Unless authorized by the cylinder specification, marking on the cylinder sidewall is prohibited.

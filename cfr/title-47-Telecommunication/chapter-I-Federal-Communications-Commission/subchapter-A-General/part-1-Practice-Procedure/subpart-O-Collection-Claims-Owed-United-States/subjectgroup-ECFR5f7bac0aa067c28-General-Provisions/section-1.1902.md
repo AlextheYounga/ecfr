@@ -1,5 +1,7 @@
 ##### § 1.1902 Exceptions. #####
 
+Link to an amendment published at 85 FR 75814, Nov. 25, 2020.
+
 (a) Claims arising from the audit of transportation accounts pursuant to 31 U.S.C. 3726 shall be determined, collected, compromised, terminated or settled in accordance with regulations published under the authority of 31 U.S.C. 3726 (see 41 CFR part 102-118).
 
 (b) Claims arising out of acquisition contracts subject to the Federal Acquisition Regulations (FAR) shall be determined, collected, compromised, terminated, or settled in accordance with those regulations. (See 48 CFR part 32). If not otherwise provided for in the FAR, contract claims that have been the subject of a contracting officer's final decision in accordance with section 6(a) of the Contract Disputes Act of 1978 (41 U.S.C. 7103), may be determined, collected, compromised, terminated or settled under the provisions of this regulation, except that no additional review of the debt shall be granted beyond that provided by the contracting officer in accordance with the provisions of section 6 of the Contract Disputes Act of 1978 (41 U.S.C. 7103), and the amount of any interest, administrative charge, or penalty charge shall be subject to the limitations, if any, contained in the contract out of which the claim arose.

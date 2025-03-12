@@ -1,5 +1,7 @@
 ##### § 49.16 Privacy and confidentiality requirements of swap data repositories. #####
 
+Link to an amendment published at 85 FR 75659, Nov. 25, 2020.
+
 (a) Each swap data repository shall:
 
 (1) Establish, maintain, and enforce written policies and procedures reasonably designed to protect the privacy and confidentiality of any and all SDR Information that is not subject to real-time public reporting set forth in part 43 of this chapter. Such policies and procedures shall include, but are not limited to, policies and procedures to protect the privacy and confidentiality of any and all SDR Information (except for swap data disseminated under part 43) that the swap data repository shares with affiliates and non-affiliated third parties; and

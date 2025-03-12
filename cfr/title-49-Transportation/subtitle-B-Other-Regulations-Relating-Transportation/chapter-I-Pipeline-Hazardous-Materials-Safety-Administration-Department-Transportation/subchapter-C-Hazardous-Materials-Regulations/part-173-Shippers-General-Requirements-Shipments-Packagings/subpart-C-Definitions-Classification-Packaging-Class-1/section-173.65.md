@@ -1,5 +1,7 @@
 ##### § 173.65 Exceptions for Division 1.4G consumer fireworks. #####
 
+Link to an amendment published at 85 FR 75713, Nov. 25, 2020.
+
 (a) Notwithstanding the requirements of §§ 173.56(b), 173.56(f), 173.56(i), and 173.64, Division 1.4G consumer fireworks may be offered for transportation provided the following conditions are met:
 
 (1) The fireworks are manufactured in accordance with the applicable requirements in APA Standard 87-1 (IBR, see § 171.7 of this subchapter);

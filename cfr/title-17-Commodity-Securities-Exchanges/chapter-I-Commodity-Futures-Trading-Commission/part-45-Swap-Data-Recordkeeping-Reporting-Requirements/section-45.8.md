@@ -1,5 +1,7 @@
 ##### § 45.8 Determination of which counterparty must report. #####
 
+Link to an amendment published at 85 FR 75563, Nov. 25, 2020.
+
 The determination of which counterparty is the reporting counterparty for all swaps, except clearing swaps, shall be made as provided in paragraphs (a) through (h) of this section. The determination of which counterparty is the reporting counterparty for all clearing swaps shall be made as provided in paragraph (i) of this section.
 
 (a) If only one counterparty is a swap dealer, the swap dealer shall be the reporting counterparty.

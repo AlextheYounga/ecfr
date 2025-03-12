@@ -1,4 +1,6 @@
-##### § 45.12 Voluntary supplemental reporting #####
+##### § 45.12 Voluntary supplemental reporting. #####
+
+Link to an amendment published at 85 FR 75565, Nov. 25, 2020.
 
 (a) For purposes of this section, the term *voluntary, supplemental report* means any report of swap data to a swap data repository that is not required to be made pursuant to this part or any other part in this chapter.
 

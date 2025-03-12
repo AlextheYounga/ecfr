@@ -1,5 +1,7 @@
 ##### § 173.5b Portable and mobile refrigeration systems. #####
 
+Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
+
 This section authorizes the highway transportation of residual amounts of Division 2.2 refrigerant gases or anhydrous ammonia contained in non-specification pressure vessels that are components of refrigeration systems, which may or may not be permanently mounted to a transport vehicle, used for agricultural operations. These refrigeration systems are used at field sites to cool (pre-cool) produce before the produce is loaded into trucks or railcars for market or used to supplement stationary refrigeration systems during peak harvest times. The components of these refrigeration systems are commonly known as vacuum tubes, accumulators, refrigeration units, ice makers, pressure coolers, or evaporators.
 
 (a) *General packaging requirements.* Each non-specification pressure vessel must conform to the following:

@@ -1,5 +1,7 @@
 ##### § 173.314 Compressed gases in tank cars and multi-unit tank cars. #####
 
+Link to an amendment published at 85 FR 75715, Nov. 25, 2020.
+
 (a) *Definitions.* For definitions of compressed gases, see § 173.115.
 
 (b) *General requirements.* (1) Tank car tanks containing compressed gases must not be shipped unless they were loaded by or with the consent of the owner thereof.

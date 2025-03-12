@@ -1,5 +1,7 @@
 ##### § 46.3 Swap data reporting for pre-enactment swaps and transition swaps. #####
 
+Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
+
 (a) *Reporting for pre-enactment and transition swaps in existence on or after April 25, 2011* - (1) *Initial data report.* For each pre-enactment swap or transition swap in existence on or after April 25, 2011, the reporting counterparty shall report electronically to a swap data repository (or to the Commission if no swap data repository for swaps in the asset class in question is available), on the compliance date, the following:
 
 (i) All of the minimum primary economic terms data specified in appendix 1 to this part that were in the possession of the reporting counterparty on or after April 25, 2011;

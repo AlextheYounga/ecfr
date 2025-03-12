@@ -1,5 +1,7 @@
 ##### § 49.26 Disclosure requirements of swap data repositories. #####
 
+Link to an amendment published at 85 FR 75662, Nov. 25, 2020.
+
 Before accepting any swap data from a reporting entity or upon a reporting entity's request, a registered swap data repository shall furnish to the reporting entity a disclosure document that contains the following written information, which shall reasonably enable the reporting entity to identify and evaluate accurately the risks and costs associated with using the services of the swap data repository:
 
 (a) The registered swap data repository's criteria for providing others with access to services offered and swap data maintained by the swap data repository;

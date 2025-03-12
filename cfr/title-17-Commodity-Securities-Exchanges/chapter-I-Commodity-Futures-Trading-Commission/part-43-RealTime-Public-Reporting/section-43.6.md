@@ -1,5 +1,7 @@
 ##### § 43.6 Block trades and large notional off-facility swaps. #####
 
+Link to an amendment published at 85 FR 75482, Nov. 25, 2020.
+
 (a) *Commission determination.* The Commission shall establish the appropriate minimum block size for publicly reportable swap transactions based on the swap categories set forth in paragraph (b) of this section in accordance with the provisions set forth in paragraphs (c), (d), (e), (f) or (h) of this section, as applicable.
 
 (b) *Swap categories.* Swap categories shall be established for all swaps, by asset class, in the following manner:

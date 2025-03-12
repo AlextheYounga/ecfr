@@ -1,6 +1,6 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
-Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
+Link to an amendment published at 85 FR 75819, Nov. 25, 2020.Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment published at 85 FR 13797, Mar. 10, 2020.
 
 (a) Any recipient of high-cost support shall provide the following:
 
@@ -142,3 +142,25 @@ Link to an amendment published at 84 FR 59963, Nov. 7, 2019.Link to an amendment
 2. At 79 FR 11336, Feb. 28, 2014, § 54.313(e)(1), (e)(2), and (e)(3) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
 3. At 80 FR 4476, Jan. 27, 2015, § 54.313 (a)(12) was added and (e) was revised. These paragraphs contain information collection and record keeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+4. At 84 FR 59963, Nov. 7, 2019, § 54.313 was amended by revising paragraphs (e) introductory text and (e)(2) introductory text and adding paragraphs (n) and (o). These paragraphs have a delayed effective date. For the convenience of the user, the revised and added text is set forth as follows:
+
+##### § 54.313 Annual reporting requirements for high-cost recipients. #####
+
+(e) In addition to the information and certifications in paragraph (a) of this section, the requirements in paragraphs (e)(1) and (2) of this section apply to recipients of Phase II, Remote Areas Fund, Uniendo a Puerto Rico Fund Stage 2 fixed support, and Connect USVI Fund Stage 2 fixed support:
+
+(2) Any recipient of Phase II, Remote Areas Fund, Uniendo a Puerto Rico Fund Stage 2 fixed, or Connect USVI Fund Stage 2 fixed support awarded through a competitive bidding or application process shall provide:
+
+(n) Recipients of Uniendo a Puerto Rico Fund Stage 2 fixed and mobile support and Connect USVI Fund Stage 2 fixed and mobile support shall certify that such support was not used for costs that are (or will be) reimbursed by other sources of support, including Federal or local government aid or insurance reimbursements; and that support was not used for other purposes, such as the retirement of company debt unrelated to eligible expenditures, or other expenses not directly related to network restoration, hardening, and expansion consistent with the framework of the Uniendo a Puerto Rico Fund or Connect USVI Fund, respectively. Recipients of fixed and mobile support from Stage 2 of the Uniendo a Puerto Rico Fund and the Connect USVI Fund shall certify that they have conducted an annual review of the documentation required by § 54.1515(a) through (c) to determine the need for and to implement changes or revisions to disaster preparation and recovery documentation.
+
+(o) Recipients of Uniendo a Puerto Rico Fund or Connect USVI Fund Stage 2 mobile support shall certify that they are in compliance with all requirements in this part for receipt of such support to continue receiving Stage 2 mobile disbursements.
+
+5. At 85 FR 13797, Mar. 10, 2020, § 54.313 was amended by revising paragraphs (e) introductory text, (e)(2) introductory text and (e)(2)(iii). These paragraphs have a delayed effective date. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 54.313 Annual reporting requirements for high-cost recipients. #####
+
+(e) In addition to the information and certifications in paragraph (a) of this section, the requirements in paragraphs (e)(1) and (2) of this section apply to recipients of Phase II, Rural Digital Opportunity Fund, Uniendo a Puerto Rico Fund Stage 2 fixed support, and Connect USVI Fund Stage 2 fixed support:
+
+(2) Any recipient of Phase II, Rural Digital Opportunity Fund, Uniendo a Puerto Rico Fund Stage 2 fixed, or Connect USVI Fund Stage 2 fixed support awarded through a competitive bidding or application process shall provide:
+
+(iii) Starting the first July 1st after meeting the final service milestone in § 54.310(c) or § 54.802(c) of this chapter until the July 1st after the Phase II recipient's or Rural Digital Opportunity Fund recipient's support term has ended, a certification that the Phase II-funded network that the Phase II auction recipient operated in the prior year meets the relevant performance requirements in § 54.309 of this chapter, or that the network that the Rural Digital Opportunity Fund recipient operated in the prior year meets the relevant performance requirements in § 54.805 for the Rural Digital Opportunity Fund.

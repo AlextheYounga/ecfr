@@ -1,5 +1,7 @@
 ##### § 54.207 Service areas. #####
 
+Link to an amendment published at 85 FR 75817, Nov. 25, 2020.
+
 (a) The term *service area* means a geographic area established by a state commission for the purpose of determining universal service obligations and support mechanisms. A service area defines the overall area for which the carrier shall receive support from federal universal service support mechanisms.
 
 (b) In the case of a service area served by a rural telephone company, *service area* means such company's “study area” unless and until the Commission and the states, after taking into account recommendations of a Federal-State Joint Board instituted under section 410(c) of the Act, establish a different definition of service area for such company.

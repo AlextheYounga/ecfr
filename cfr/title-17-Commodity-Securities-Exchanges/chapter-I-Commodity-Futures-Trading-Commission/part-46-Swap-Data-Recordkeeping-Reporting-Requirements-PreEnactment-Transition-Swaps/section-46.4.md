@@ -1,5 +1,7 @@
 ##### § 46.4 Unique identifiers. #####
 
+Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
+
 The unique identifier requirements for swap data reporting with respect to pre-enactment or transition swaps shall be as follows:
 
 (a) By the compliance date, the reporting counterparty (as defined by part 45 of this chapter) for each pre-enactment or transition swap in existence on or after April 25, 2011, for which an initial data report is required by this part 46, shall obtain for itself a legal entity identifier as provided in § 45.6 of this chapter (or if the Commission has not yet designated a legal entity identifier system, a substitute counterparty identifier as provided in § 45.6(f) of this chapter), and shall include its own legal entity identifier (or substitute counterparty identifier) in the initial data report concerning the swap. With respect to the legal entity identifier (or substitute counterparty identifier) of the reporting counterparty, the reporting counterparty and the swap data repository to which the swap is reported shall comply thereafter with all unique identifier requirements of § 45.6 of this chapter.

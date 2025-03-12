@@ -1,5 +1,7 @@
 ##### § 45.11 Data reporting for swaps in a swap asset class not accepted by any swap data repository. #####
 
+Link to an amendment published at 85 FR 75565, Nov. 25, 2020.
+
 (a) Should there be a swap asset class for which no swap data repository registered with the Commission currently accepts swap data, each registered entity or counterparty required by this part to report any required swap creation data or required swap continuation data with respect to a swap in that asset class must report that same data to the Commission.
 
 (b) Data reported to the Commission pursuant to this section shall be reported at times announced by the Commission and in an electronic file in a format acceptable to the Commission.

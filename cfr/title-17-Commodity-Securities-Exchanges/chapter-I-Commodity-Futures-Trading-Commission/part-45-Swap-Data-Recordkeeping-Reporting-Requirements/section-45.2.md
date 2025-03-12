@@ -1,5 +1,7 @@
 ##### § 45.2 Swap recordkeeping. #####
 
+Link to an amendment published at 85 FR 75560, Nov. 25, 2020.Link to an amendment published at 85 FR 75654, Nov. 25, 2020.
+
 (a) *Recordkeeping by swap execution facilities, designated contract markets, derivatives clearing organizations, swap dealers, and major swap participants.* Each swap execution facility, designated contract market, derivatives clearing organization, swap dealer, and major swap participant subject to the jurisdiction of the Commission shall keep full, complete, and systematic records, together with all pertinent data and memoranda, of all activities relating to the business of such entity or person with respect to swaps, as prescribed by the Commission. Such records shall include, without limitation, the following:
 
 (1) For swap execution facilities, all records required by part 37 of this chapter.

@@ -14,7 +14,7 @@
 
 (ii) For access to Safeguards Information only but must adhere to provisions contained in §§ 73.21, 73.22, and 73.23: the categories of individuals specified in 10 CFR 73.59.
 
-(iii) Any licensee currently processing criminal history requests through the FBI pursuant to Executive Order 13767, as amended by Executive Order 13764, need not also submit such requests to the NRC under this section; and
+(iii) Any licensee currently processing criminal history requests through the FBI pursuant to Executive Order 13467, as amended by Executive Order 13764, need not also submit such requests to the NRC under this section; and
 
 (iv) Upon further notice to licensees and without further rulemaking, the Commission may waive certain requirements of this section on a temporary basis.
 

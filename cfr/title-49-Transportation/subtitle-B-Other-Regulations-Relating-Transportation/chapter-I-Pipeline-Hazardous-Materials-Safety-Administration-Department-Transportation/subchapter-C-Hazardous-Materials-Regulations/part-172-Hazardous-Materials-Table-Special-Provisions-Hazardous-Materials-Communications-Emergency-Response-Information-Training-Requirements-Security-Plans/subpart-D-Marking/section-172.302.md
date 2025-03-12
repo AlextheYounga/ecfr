@@ -1,5 +1,7 @@
 ##### § 172.302 General marking requirements for bulk packagings. #####
 
+Link to an amendment published at 85 FR 75712, Nov. 25, 2020.
+
 (a) *Identification numbers.* Except as otherwise provided in this subpart, no person may offer for transportation or transport a hazardous material in a bulk packaging unless the packaging is marked as required by § 172.332 with the identification number specified for the material in the § 172.101 table -
 
 (1) On each side and each end, if the packaging has a capacity of 3,785 L (1,000 gallons) or more;

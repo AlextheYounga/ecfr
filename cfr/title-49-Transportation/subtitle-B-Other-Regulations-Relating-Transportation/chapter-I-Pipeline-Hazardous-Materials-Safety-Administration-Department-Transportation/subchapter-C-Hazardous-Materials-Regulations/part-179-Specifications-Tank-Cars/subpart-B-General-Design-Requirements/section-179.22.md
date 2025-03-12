@@ -1,5 +1,7 @@
 ##### § 179.22 Marking. #####
 
+Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+
 In addition to any other marking requirement in this subchapter, the following marking requirements apply:
 
 (a) Each tank car must be marked according to the requirements in appendix C of the AAR Specifications for Tank Cars (IBR, see § 171.7 of this subchapter).

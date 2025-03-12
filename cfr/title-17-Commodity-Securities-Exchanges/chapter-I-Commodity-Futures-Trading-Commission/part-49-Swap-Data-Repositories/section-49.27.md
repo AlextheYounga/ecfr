@@ -1,5 +1,7 @@
 ##### § 49.27 Access and fees. #####
 
+Link to an amendment published at 85 FR 75662, Nov. 25, 2020.
+
 (a) *Fair, open and equal access.* (1) A registered swap data repository, consistent with Section 21 of the Act, shall provide its services to market participants, including but not limited to designated contract markets, swap execution facilities, derivatives clearing organizations, swap dealers, major swap participants and any other counterparties, on a fair, open and equal basis. For this purpose, a swap data repository shall not provide access to its services on a discriminatory basis but is required to provide its services to all market participants for swaps it accepts in an asset class.
 
 (2) Consistent with the principles of open access set forth in paragraph (a)(1) of this Regulation, a registered swap data repository shall not tie or bundle the offering of mandated regulatory services with other ancillary services that a swap data repository may provide to market participants.

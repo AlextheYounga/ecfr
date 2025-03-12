@@ -1,5 +1,7 @@
 ##### § 43.1 Purpose, scope, and rules of construction. #####
 
+Link to an amendment published at 85 FR 75476, Nov. 25, 2020.
+
 (a) *Purpose.* This part implements rules relating to the reporting and public dissemination of certain swap transaction and pricing data to enhance transparency and price discovery pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Pub. L. 111-203, 124 Stat. 1376 (2010).
 
 (b)(1) *Scope.* The provisions of this part shall apply to all swaps as defined in Section 1a(47) of the Act and any implementing regulations thereunder, including:

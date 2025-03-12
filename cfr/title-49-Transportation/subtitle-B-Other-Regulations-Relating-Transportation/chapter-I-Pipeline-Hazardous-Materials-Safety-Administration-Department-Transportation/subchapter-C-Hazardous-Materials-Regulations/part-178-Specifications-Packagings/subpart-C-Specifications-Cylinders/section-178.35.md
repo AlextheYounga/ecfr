@@ -1,5 +1,7 @@
 ##### § 178.35 General requirements for specification cylinders. #####
 
+Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+
 (a) *Compliance.* Compliance with the requirements of this subpart is required in all details.
 
 (b) *Inspections and analyses.* Chemical analyses and tests required by this subchapter must be made within the United States, unless otherwise approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter. Inspections and verification must be performed by -

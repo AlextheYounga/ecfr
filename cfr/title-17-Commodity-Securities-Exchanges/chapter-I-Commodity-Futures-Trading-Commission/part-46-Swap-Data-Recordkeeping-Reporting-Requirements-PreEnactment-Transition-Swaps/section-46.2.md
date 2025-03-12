@@ -1,5 +1,7 @@
 ##### § 46.2 Recordkeeping for pre-enactment swaps and transition swaps. #####
 
+Link to an amendment published at 85 FR 75594, Nov. 25, 2020.
+
 (a) *Recordkeeping for pre-enactment and transition swaps in existence on or after April 25, 2011.* Each counterparty subject to the jurisdiction of the Commission that is a counterparty to any pre-enactment swap or transition swap that is in existence on or after April 25, 2011 shall keep the following records concerning each such swap:
 
 (1) *Minimum records required.* Each counterparty shall keep records of all of the minimum primary economic terms data specified in appendix 1 to this part.

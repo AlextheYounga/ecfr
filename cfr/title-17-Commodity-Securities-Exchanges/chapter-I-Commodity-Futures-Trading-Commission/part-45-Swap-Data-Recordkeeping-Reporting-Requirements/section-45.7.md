@@ -1,5 +1,7 @@
 ##### § 45.7 Unique product identifiers. #####
 
+Link to an amendment published at 85 FR 75563, Nov. 25, 2020.
+
 Each swap subject to the jurisdiction of the Commission shall be identified in all recordkeeping and all swap data reporting pursuant to this part by means of a unique product identifier and product classification system as specified in this section. Each swap sufficiently standardized to receive a unique product identifier shall be identified by a unique product identifier. Each swap not sufficiently standardized for this purpose shall be identified by its description using the product classification system.
 
 (a) *Requirements for the unique product identifier and product classification system.* The unique product identifier and product classification system shall identify and describe the swap asset class and the sub-type within that asset class to which the swap belongs, and the underlying product for the swap, with sufficient distinctiveness and specificity to enable the Commission and other financial regulators to fulfill their regulatory responsibilities and to assist in real time reporting of swaps as provided in the Act and part 43 of this chapter. The level of distinctiveness and specificity which the unique product identifier will provide shall be determined separately for each swap asset class.

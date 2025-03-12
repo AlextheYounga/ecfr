@@ -1,5 +1,7 @@
 ##### § 54.1016 Letter of credit. #####
 
+Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
+
 (a) Before being authorized to receive Mobility Fund Phase II support, a winning bidder shall obtain an irrevocable standby letter of credit which shall be acceptable in all respects to the Commission.
 
 (1) Each recipient authorized to receive Mobility Fund Phase II support shall maintain the standby letter of credit or multiple standby letters of credit in an amount equal to at a minimum the amount of Mobility Fund Phase II auction support that has been disbursed and that will be disbursed in the coming year, until the Universal Service Administrative Company has verified that the recipient met the final service milestone as described in § 54.1015(d) of this chapter.

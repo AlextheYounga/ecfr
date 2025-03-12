@@ -1,5 +1,7 @@
 ##### § 43.4 Swap transaction and pricing data to be publicly disseminated in real-time. #####
 
+Link to an amendment published at 85 FR 75479, Nov. 25, 2020.
+
 (a) *In general.* Swap transaction and pricing information shall be reported to a registered swap data repository so that the registered swap data repository can publicly disseminate swap transaction and pricing data in real-time in accordance with this part, including the manner described in this section and appendix A to this part.
 
 (b) *Public dissemination of data fields.* Any registered swap data repository that accepts and publicly disseminates swap transaction and pricing data in real-time shall publicly disseminate the information described in appendix A to this part, as applicable, for any publicly reportable swap transaction.

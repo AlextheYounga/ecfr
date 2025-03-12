@@ -1,5 +1,7 @@
 ##### § 178.521 Standards for paper bags. #####
 
+Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+
 (a) The following are identification codes for paper bags:
 
 (1) 5M1 for a multi-wall paper bag; and

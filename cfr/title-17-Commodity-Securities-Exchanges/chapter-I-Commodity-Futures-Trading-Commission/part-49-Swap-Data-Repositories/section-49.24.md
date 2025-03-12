@@ -1,5 +1,7 @@
 ##### § 49.24 System safeguards. #####
 
+Link to an amendment published at 85 FR 75661, Nov. 25, 2020.
+
 (a) Each registered swap data repository shall, with respect to all swap data in its custody:
 
 (1) Establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational risk through the development of appropriate controls and procedures and the development of automated systems that are reliable, secure, and have adequate scalable capacity;

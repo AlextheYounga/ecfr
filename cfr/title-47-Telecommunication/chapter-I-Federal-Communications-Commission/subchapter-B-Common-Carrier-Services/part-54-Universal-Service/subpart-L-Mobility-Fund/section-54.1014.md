@@ -1,5 +1,7 @@
 ##### § 54.1014 Application process. #####
 
+Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
+
 (a) *Application to Participate in Competitive Bidding for Mobility Fund Phase II Support.* In addition to providing information specified in § 1.21001(b) of this chapter and any other information required by the Commission, an applicant to participate in competitive bidding for Mobility Fund Phase II support shall:
 
 (1) Provide ownership information as set forth in § 1.2112(a) of this chapter as well as information on any agreement the applicant may have relating to the support to be sought through the auction;

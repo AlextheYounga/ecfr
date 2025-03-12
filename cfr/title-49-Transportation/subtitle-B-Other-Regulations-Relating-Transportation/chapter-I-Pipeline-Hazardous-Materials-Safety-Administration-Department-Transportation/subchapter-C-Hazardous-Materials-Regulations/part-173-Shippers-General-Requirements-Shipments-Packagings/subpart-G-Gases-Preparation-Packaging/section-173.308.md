@@ -1,5 +1,7 @@
 ##### § 173.308 Lighters. #####
 
+Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+
 (a) *General requirements.* No person may offer for transportation or transport a lighter (see § 171.8 of this subchapter) containing a Division 2.1 (flammable gas) material except under the following conditions:
 
 (1) The lighter must contain a fuel reservoir not exceeding 4 fluid ounces capacity (7.22 cubic inches), and must contain not more than 10 grams (0.35 ounce) of flammable gas.

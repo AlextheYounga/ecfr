@@ -1,5 +1,7 @@
 ##### § 54.1020 Milestone reports. #####
 
+Link to an amendment published at 85 FR 75822, Nov. 25, 2020.
+
 (a) A winning bidder authorized to receive Mobility Fund Phase II support shall submit the reports required in § 54.1015(a) through (d) as well as certifications that it has met the construction requirements in § 54.1015(a) through (d).
 
 (b) The party submitting the report must certify that it has been authorized to do so by the winning bidder.

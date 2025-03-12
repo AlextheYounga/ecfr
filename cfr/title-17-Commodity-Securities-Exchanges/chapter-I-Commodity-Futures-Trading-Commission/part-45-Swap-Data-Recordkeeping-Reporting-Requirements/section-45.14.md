@@ -1,5 +1,7 @@
 ##### § 45.14 Reporting of errors and omissions in previously reported data. #####
 
+Link to an amendment published at 85 FR 75654, Nov. 25, 2020.
+
 (a) Each registered entity and swap counterparty required by this part to report swap data to a swap data repository, to any other registered entity or swap counterparty, or to the Commission shall report any errors and omissions in the data so reported. Corrections of errors or omissions shall be reported as soon as technologically practicable after discovery of any such error or omission. With respect to swaps for which required swap continuation data is reported using the snapshot reporting method, reporting counterparties fulfill the requirement to report errors or omissions in state data previously reported by making appropriate corrections in their next daily report of state data as required by this part.
 
 (b) Each counterparty to a swap that is not the reporting counterparty as determined pursuant to § 45.8, and that discovers any error or omission with respect to any swap data reported to a swap data repository for that swap, shall promptly notify the reporting counterparty of each such error or omission. Upon receiving such notice, the reporting counterparty shall report a correction of each such error or omission to the swap data repository as provided in paragraph (a) of this section.

@@ -1,5 +1,7 @@
 ##### § 173.244 Bulk packaging for certain pyrophoric liquids (Division 4.2), dangerous when wet (Division 4.3) materials, and poisonous liquids with inhalation hazards (Division 6.1). #####
 
+Link to an amendment published at 85 FR 75714, Nov. 25, 2020.
+
 When § 172.101 of this subchapter specifies that a hazardous material be packaged under this section, only the following bulk packagings are authorized, subject to the requirements of subparts A and B of part 173 of this subchapter and the special provisions specified in column 7 of the § 172.101 table.
 
 (a) *Rail cars:* (1) Class DOT 105, 109, 112, 114, or 120 fusion-welded tank car tanks; and Class 106 or 110 multi-unit tank car tanks. For tank car tanks built prior to March 16, 2009, the following conditions apply:
