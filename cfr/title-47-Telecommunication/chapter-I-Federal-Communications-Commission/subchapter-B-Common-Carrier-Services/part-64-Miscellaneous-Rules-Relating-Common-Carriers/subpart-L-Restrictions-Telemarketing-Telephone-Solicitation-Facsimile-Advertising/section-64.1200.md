@@ -54,9 +54,7 @@
 
 (E) The telephone and facsimile numbers and cost-free mechanism identified in the notice must permit an individual or business to make an opt-out request 24 hours a day, 7 days a week.
 
-(iv) A facsimile advertisement that is sent to a recipient that has provided prior express invitation or permission to the sender must include an opt-out notice that complies with the requirements in paragraph (a)(4)(iii) of this section.
-
-(v) A request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if -
+(iv) A request not to send future unsolicited advertisements to a telephone facsimile machine complies with the requirements under this subparagraph only if -
 
 (A) The request identifies the telephone number or numbers of the telephone facsimile machine or machines to which the request relates;
 
@@ -64,9 +62,9 @@
 
 (C) The person making the request has not, subsequent to such request, provided express invitation or permission to the sender, in writing or otherwise, to send such advertisements to such person at such telephone facsimile machine.
 
-(vi) A sender that receives a request not to send future unsolicited advertisements that complies with paragraph (a)(4)(v) of this section must honor that request within the shortest reasonable time from the date of such request, not to exceed 30 days, and is prohibited from sending unsolicited advertisements to the recipient unless the recipient subsequently provides prior express invitation or permission to the sender. The recipient's opt-out request terminates the established business relationship exemption for purposes of sending future unsolicited advertisements. If such requests are recorded or maintained by a party other than the sender on whose behalf the unsolicited advertisement is sent, the sender will be liable for any failures to honor the opt-out request.
+(v) A sender that receives a request not to send future unsolicited advertisements that complies with paragraph (a)(4)(v) of this section must honor that request within the shortest reasonable time from the date of such request, not to exceed 30 days, and is prohibited from sending unsolicited advertisements to the recipient unless the recipient subsequently provides prior express invitation or permission to the sender. The recipient's opt-out request terminates the established business relationship exemption for purposes of sending future unsolicited advertisements. If such requests are recorded or maintained by a party other than the sender on whose behalf the unsolicited advertisement is sent, the sender will be liable for any failures to honor the opt-out request.
 
-(vii) A facsimile broadcaster will be liable for violations of paragraph (a)(4) of this section, including the inclusion of opt-out notices on unsolicited advertisements, if it demonstrates a high degree of involvement in, or actual notice of, the unlawful activity and fails to take steps to prevent such facsimile transmissions.
+(vi) A facsimile broadcaster will be liable for violations of paragraph (a)(4) of this section, including the inclusion of opt-out notices on unsolicited advertisements, if it demonstrates a high degree of involvement in, or actual notice of, the unlawful activity and fails to take steps to prevent such facsimile transmissions.
 
 (5) Use an automatic telephone dialing system in such a way that two or more telephone lines of a multi-line business are engaged simultaneously.
 
@@ -218,4 +216,4 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (4) For purposes of this subsection, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call in fact originated from that number.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018]
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019]
