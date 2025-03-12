@@ -1,5 +1,7 @@
 ##### § 1.954-0 Introduction. #####
 
+Link to an amendment published at 85 FR 44649, July 23, 2020.
+
 (a) *Effective dates* - (1) *Final regulations* - (i) *In general.* Except as otherwise specifically provided, the provisions of §§ 1.954-1 and 1.954-2 apply to taxable years of a controlled foreign corporation beginning after November 6, 1995. If any of the rules described in §§ 1.954-1 and 1.954-2 are inconsistent with provisions of other regulations under subpart F, these final regulations are intended to apply instead of such other regulations.
 
 (ii) *Election to apply final regulations retroactively* - (A) *Scope of election.* An election may be made to apply the final regulations retroactively with respect to any taxable year of the controlled foreign corporation beginning on or after January 1, 1987. If such an election is made, these final regulations must be applied in their entirety for such taxable year and all subsequent taxable years. All references to section 11 in the final regulations shall be deemed to include section 15, where applicable.

@@ -1,0 +1,3 @@
+##### § 2509.28 How will significant guidance be issued when there are exigent circumstances? #####
+
+Under exigent circumstances, such as safety, health, or when statutory deadlines or court order or other compelling cause require CNCS to act more quickly than normal review procedures allow, CNCS will notify OIRA as soon as possible and, to the extent practicable, comply with the requirements of this subpart at the earliest opportunity.

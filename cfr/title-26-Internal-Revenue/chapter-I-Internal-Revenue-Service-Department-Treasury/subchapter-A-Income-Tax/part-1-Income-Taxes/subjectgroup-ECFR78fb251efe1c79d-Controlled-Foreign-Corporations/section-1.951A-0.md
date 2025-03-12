@@ -1,5 +1,7 @@
 ##### § 1.951A-0 Outline of section 951A regulations. #####
 
+Link to an amendment published at 85 FR 44638, July 23, 2020.
+
 This section lists the headings for §§ 1.951A-1 through 1.951A-7.
 
 § 1.951A-1 General provisions.

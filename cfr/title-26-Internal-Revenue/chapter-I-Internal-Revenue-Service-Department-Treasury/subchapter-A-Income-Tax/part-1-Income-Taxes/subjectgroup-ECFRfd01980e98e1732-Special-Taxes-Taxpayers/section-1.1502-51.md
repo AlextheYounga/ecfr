@@ -1,5 +1,7 @@
 ##### § 1.1502-51 Consolidated section 951A. #####
 
+Link to an amendment published at 85 FR 44649, July 23, 2020.
+
 (a) *In general.* This section provides rules for applying section 951A to each member of a consolidated group (each, a *member*) that is a United States shareholder of any controlled foreign corporation. Paragraph (b) of this section describes the inclusion of the GILTI inclusion amount by a member of a consolidated group. Paragraphs (c) and (d) of this section are reserved. Paragraph (e) of this section provides definitions for purposes of this section. Paragraph (f) of this section provides examples illustrating the rules of this section. Paragraph (g) of this section provides an applicability date.
 
 (b) *Calculation of the GILTI inclusion amount for a member of a consolidated group.* Each member who is a United States shareholder of any controlled foreign corporation includes in gross income in the U.S. shareholder inclusion year the member's GILTI inclusion amount, if any, for the U.S. shareholder inclusion year. See section 951A(a) and § 1.951A-1(b). The GILTI inclusion amount of a member for a U.S. shareholder inclusion year is the excess (if any) of the member's net CFC tested income for the U.S. shareholder inclusion year, over the member's net deemed tangible income return for the U.S. shareholder inclusion year, determined using the definitions provided in paragraph (e) of this section. In addition, see § 1.951A-1(e).

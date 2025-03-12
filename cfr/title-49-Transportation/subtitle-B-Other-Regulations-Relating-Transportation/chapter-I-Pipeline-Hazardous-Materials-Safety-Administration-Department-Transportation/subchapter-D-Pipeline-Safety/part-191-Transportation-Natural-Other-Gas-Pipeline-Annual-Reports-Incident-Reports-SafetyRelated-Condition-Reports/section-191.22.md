@@ -12,9 +12,13 @@
 
 (ii) Construction of 10 or more miles of a new pipeline;
 
-(iii) Construction of a new LNG plant, LNG facility, or UNGSF; or
+(iii) Construction of a new LNG plant, LNG facility, or UNGSF;
 
-(iv) Maintenance of a UNGSF that involves the plugging or abandonment of a well, or that requires a workover rig and costs $200,000 or more for an individual well, including its wellhead. If 60-days' notice is not feasible due to an emergency, an operator must promptly respond to the emergency and notify PHMSA as soon as practicable.
+(iv) Maintenance of a UNGSF that involves the plugging or abandonment of a well, or that requires a workover rig and costs $200,000 or more for an individual well, including its wellhead. If 60-days' notice is not feasible due to an emergency, an operator must promptly respond to the emergency and notify PHMSA as soon as practicable;
+
+(v) Reversal of product flow direction when the reversal is expected to last more than 30 days. This notification is not required for pipeline systems already designed for bi-directional flow; or
+
+(vi) A pipeline converted for service under § 192.14 of this chapter, or a change in commodity as reported on the annual report as required by § 191.17.
 
 (2) An operator must notify PHMSA of any of the following events not later than 60 days after the event occurs:
 
@@ -30,4 +34,4 @@
 
 (d) *Reporting.* An operator must use the OPID issued by PHMSA for all reporting requirements covered under this subchapter and for submissions to the National Pipeline Mapping System.
 
-[Amdt. No. 191-27, 85 FR 8125, Feb. 12, 2020]
+[Amdt. No. 191-27, 85 FR 8125, Feb. 12, 2020, as amended by Amdt. No. 191-28, 85 FR 44478, July 23, 2020]
