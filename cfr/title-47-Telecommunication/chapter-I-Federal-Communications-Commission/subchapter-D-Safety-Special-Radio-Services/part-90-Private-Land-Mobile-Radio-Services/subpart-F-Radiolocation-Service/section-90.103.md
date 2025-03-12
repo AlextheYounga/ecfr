@@ -24,8 +24,16 @@ Radiolocation Service Frequency Table
 |  1715 to 1750   |          ......do          |   5, 6   |
 |  1750 to 1800   |             do             |   5, 6   |
 |  3230 to 3400   |          ......do          |   6, 8   |
+|  4438 to 4488   |     Radiolocation land     |    3     |
+|  5250 to 5275   |          ......do          |    3     |
 |    Megahertz    |                            |          |
-|   420 to 450    |          ......do          |    21    |
+| 13.45 to 13.55  |          ......do          |    3     |
+| 16.10 to 16.20  |          ......do          |    3     |
+| 24.45 to 24.65  |          ......do          |    3     |
+| 26.20 to 26.42  |          ......do          |    3     |
+|41.015 to 41.665 |          ......do          |    3     |
+| 43.35 to 44.00  |          ......do          |    3     |
+|   420 to 450    |Radiolocation land or mobile|    21    |
 |  2450 to 2500   |          ......do          |9, 22, 23 |
 |  2900 to 3100   |          ......do          |  10, 11  |
 |  3100 to 3300   |          ......do          |    12    |
@@ -109,6 +117,4 @@ Radiolocation Service Frequency Table
 
 (d) *Other additional frequencies available.* Radiolocation stations in this service may be authorized, on request, to use frequencies allocated exclusively to Federal Government stations, in those instances where the Commission finds, after consultation with the appropriate Government agency or agencies, that such assignment is necessary or required for coordination with Government activities.
 
-[43 FR 54791, Nov. 22, 1978]Editorial Notes:1. For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
-
-2. At 82 FR 27214, June 14, 2017, in the table in § 90.103, paragraph (b) the entries for 4438 to 4488, 5250 to 5275, 13.45 to 13.55, 16.10 to 16.20, 24.45 to 24.65, 26.20 to 26.42, 41.015 to 41.665, 43.35 to 44.00, 420 to 450 were revised, however, due to inaccurate amendatory instructions, these revisions could not be incorporated.
+[43 FR 54791, Nov. 22, 1978]Editorial Note:For Federal Register citations affecting § 90.103, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

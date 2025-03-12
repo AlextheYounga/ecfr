@@ -8,6 +8,7 @@ Table One
 |--------------------------|-----------------------|---------------------------------------------------------------------------------------------|
 |       USS DOLPHIN        |       AGSS 555        |                                             0.8                                             |
 |       USS ZUMWALT        |       DDG 1000        |                                            2.55                                             |
+|   USS MICHAEL MONSOOR    |          DDG          |                                            2.33                                             |
 |      USS MC INERNY       |         FFG 8         |                                             1.6                                             |
 |        USS CLARK         |        FFG 11         |                                             1.6                                             |
 |    USS GEORGE PHILIP     |        FFG 12         |                                             1.6                                             |
@@ -242,6 +243,7 @@ Table Three
 |--------------------------|--------|---------------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------|
 |    USS GERALD R. FORD    | CVN 78 |                                             |                  115.6                  |                                         |                                                                   |                                                            |                                                               |                                                                               |
 |       USS ZUMWALT        |DDG 1000|                                             |                                         |                                         |                                                                   |                                                            |                              5.3                              |                                  2.99 below                                   |
+|   USS MICHAEL MONSOOR    |DDG 1001|                                             |                                         |                                         |                                                                   |                                                            |                              5.3                              |                                  2.99 below                                   |
 |       USS PELELIU        | LHA 5  |                    214.5                    |                                         |                                         |                                                                   |                                                            |                                                               |                                                                               |
 |     USS SAN ANTONIO      | LPD 17 |                                             |                                         |                                         |                                                                   |                                                            |                                                               |                                   1.3 below                                   |
 |     USS NEW ORLEANS      | LPD 18 |                                             |                                         |                                         |                                                                   |                                                            |                                                               |                                  2.36 below                                   |
@@ -578,6 +580,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |   USS RALPH JOHNSON    |DDG 114 |                                                                                                                   1.90 meters                                                                                                                   |
 |   USS RAFAEL PERALTA   |DDG 115 |                                                                                                                   1.88 meters                                                                                                                   |
 |      USS ZUMWALT       |DDG 1000|FWD Lower:<sup>1</sup> 0.31 meters  <br/>FWD Middle:<sup>1</sup> 0.31 meters  <br/>FWD Upper:<sup>1</sup> 0.29 meters  <br/>AFT Lower:<sup>1</sup> 1.04 meters  <br/>AFT Middle:<sup>1</sup> 1.05 meters  <br/>AFT Upper:<sup>1</sup> 1.06 meters|
+|  USS MICHAEL MONSOOR   |DDG 1001| FWD Lower:<sup>1</sup>0.33 meters.  <br/>FWD Middle:<sup>1</sup>0.31 meters  <br/>FWD Upper:<sup>1</sup>0.30 meters.  <br/>AFT Lower:<sup>1</sup>1.05 meters  <br/>AFT Middle:<sup>1</sup>1.05 meters.  <br/>AFT Upper:<sup>1</sup>1.05 meters  |
 |    USS INDEPENDENCE    | LCS 2  |                                                                                                                   1.31 meters                                                                                                                   |
 |      USS CORONADO      | LCS 4  |                                                                                                                   0.18 meters                                                                                                                   |
 |      USS JACKSON       | LCS 6  |                                                                                    Upper - 0.10 meters  <br/>Middle - 1.31 meters  <br/>Lower - 1.31 meters                                                                                     |
@@ -658,8 +661,8 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |                        |                                          |               76 thru 78°                |
 |                        |                                          |              287 thru 289°               |
 | USS GABRIELLE GIFFORDS |                  LCS 10                  |               71 thru 73°                |
-|                        |                76 thru 78°               |                                          |
-|                        |               287 thru 289°              |                                          |
+|                        |                                          |               76 thru 78°                |
+|                        |                                          |              287 thru 289°               |
 |       USS OMAHA        |                  LCS 12                  |     72 thru 74°  <br/>286 thru 288°      |
 |     USS MANCHESTER     |                  LCS 14                  |     72 thru 74°  <br/>286 thru 288°      |
 |          USV           |11MUCO601, 11MUCO602, 11MUC0603, 11MUC0604|              271 thru 278°               |
@@ -683,14 +686,15 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 
 19. Sidelights on the following ships do not comply with Annex I, Section 2 (g):
 
-|   Vessel    | Number |Distance in meters of sidelights above maximum allowed height.|
-|-------------|--------|--------------------------------------------------------------|
-| USS ZUMWALT |DDG 1000|                  2.55 PORT  <br/>2.52 STBD                   |
-|  USS OGDEN  | LPD 5  |                             3.40                             |
-| USS DUBUQUE | LPD 8  |                             1.2                              |
-| USS DENVER  | LPD 9  |                             4.9                              |
-| USS JUNEAU  | LPD 10 |                             1.6                              |
-|USS NASHVILLE| LPD 13 |                             5.37                             |
+|      Vessel       | Number |Distance in meters of sidelights above maximum allowed height.|
+|-------------------|--------|--------------------------------------------------------------|
+|    USS ZUMWALT    |DDG 1000|                  2.55 PORT  <br/>2.52 STBD                   |
+|USS MICHAEL MONSOOR|DDG 1001|                  2.23 PORT  <br/>2.52 STBD                   |
+|     USS OGDEN     | LPD 5  |                             3.40                             |
+|    USS DUBUQUE    | LPD 8  |                             1.2                              |
+|    USS DENVER     | LPD 9  |                             4.9                              |
+|    USS JUNEAU     | LPD 10 |                             1.6                              |
+|   USS NASHVILLE   | LPD 13 |                             5.37                             |
 
 20. On the following ships, the all-round task lights (not under command or restricted in ability to maneuver) required by Rule 27(a) and (b) are unable to be mounted in a vertical line. Instead, the lights deviate from a vertical line by the indicated amount.
 
@@ -722,6 +726,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |USS THEODORE ROOSEVELT| CVN 71 |                                                                                     0.18 meter                                                                                      |
 | USS HARRY S. TRUMAN  | CVN 75 |                                                                                     0.18 meter                                                                                      |
 |     USS ZUMWALT      |DDG 1000|                                                FWD: 0.01 meter  <br/>AFT: 0.178 meter  <br/>PORT: 0.64 meter  <br/>STBD: 0.01 meter                                                 |
+| USS MICHAEL MONSOOR  |DDG 1001|                                                 FWD: 0.01 meter  <br/>AFT: 0.00 meter  <br/>PORT: 0.17 meter  <br/>STBD: 0.24 meter                                                 |
 |     USS FREEDOM      | LCS 1  |                                                                                     0.39 meter                                                                                      |
 |    USS FORT WORTH    | LCS 3  |                                                                                     0.41 meter                                                                                      |
 |     USS PELELIU      | LHA 5  |                                                                                     0.18 meter                                                                                      |
@@ -932,6 +937,7 @@ Table Five
 |     RALPH JOHNSON      | DDG 114 |                                      X                                       |                                    X                                    |                                                X                                                |                   14.5                  |
 |   USS RAFAEL PERALTA   | DDG 115 |                                      X                                       |                                    X                                    |                                                X                                                |                   14.5                  |
 |      USS ZUMWALT       | DDG 1000|                                      X                                       |                                    X                                    |                                                X                                                |                  76.94                  |
+|  USS MICHAEL MONSOOR   | DDG 1001|                                      X                                       |                                    X                                    |                                                X                                                |                   77.2                  |
 |     USS BLUE RIDGE     |  LCC 19 |                                     N/A                                      |                                   N/A                                   |                                                X                                                |                    84                   |
 |   USS MOUNT WHITNEY    |  LCC 20 |                                                                              |                                                                         |                                                X                                                |                    84                   |
 |      USS FREEDOM       |  LCS 1  |                                                                              |                                    X                                    |                                                X                                                |                    23                   |

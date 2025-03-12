@@ -2398,13 +2398,13 @@ NG6 Stations in the public safety radio services authorized as of June 30, 1958,
 
 NG7 In the bands 2000-2065, 2107-2170, and 2194-2495 kHz, fixed stations associated with the maritime mobile service may be authorized, for purposes of communication with coast stations, to use frequencies assignable to ship stations in these bands on the condition that harmful interference will not be caused to services operating in accordance with the Table of Frequency Allocations. *See* 47 CFR 80.371(a) for the list of available carrier frequencies.
 
-NG8 In the band 472-479 kHz, non-Federal stations in the maritime mobile service that were licensed or applied for prior to [insert effective date of the WRC-12 R&O] may continue to operate on a primary basis, subject to periodic license renewals.
+NG8 In the band 472-479 kHz, non-Federal stations in the maritime mobile service that were licensed or applied for prior to July 14, 2017 may continue to operate on a primary basis, subject to periodic license renewals.
 
 NG14 TV broadcast stations authorized to operate in the bands 54-72, 76-88, 174-216, 470-608, and 614-698 MHz may use a portion of the television vertical blanking interval for the transmission of telecommunications signals, on the condition that harmful interference will not be caused to the reception of primary services, and that such telecommunications services must accept any interference caused by primary services operating in these bands.
 
-NG17 Stations in the land transportation radio services authorized as of May 15, 1958 to operate on the frequency 161.61 MHz may, upon proper application, continue to be authorized for such operation, including expansion of existing systems, on the condition that harmful interference will not be caused to the operation of any authorized station in the maritime mobile service. No new land transportation radio service system will be authorized to operate on 161.61 MHz.
-
 NG16 In the bands 72-73 MHz and 75.4-76 MHz, frequencies may be authorized for mobile operations in the Industrial/Business Radio Pool, subject to not causing interference to the reception of broadcast television signals on channels 4 and 5.
+
+NG17 Stations in the land transportation radio services authorized as of May 15, 1958 to operate on the frequency 161.61 MHz may, upon proper application, continue to be authorized for such operation, including expansion of existing systems, on the condition that harmful interference will not be caused to the operation of any authorized station in the maritime mobile service. No new land transportation radio service system will be authorized to operate on 161.61 MHz.
 
 NG22 The frequencies 156.050 and 156.175 MHz may be assigned to stations in the maritime mobile service for commercial and port operations in the New Orleans Vessel Traffic Service (VTS) area and the frequency 156.250 MHz may be assigned to stations in the maritime mobile service for port operations in the New Orleans and Houston VTS areas.
 

@@ -64,6 +64,6 @@
 
 (o) Existing equipment that does not comply with the rules in this subpart but was properly authorized as compliant with the rules in effect at the time of its authorization, and remains compliant with the rules in effect at the time of its authorization, may continue to be installed until February 1, 2003.
 
-(p) As of [insert effective date of this Report and Order], the Commission will no longer accept applications for certification of non-AIS VHF radios that include channels 75 and 76.
+(p) Applicable July 14, 2017, the Commission no longer accepts applications for certification of non-AIS VHF radios that include channels 75 and 76.
 
 [51 FR 31213, Sept. 2, 1986]Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

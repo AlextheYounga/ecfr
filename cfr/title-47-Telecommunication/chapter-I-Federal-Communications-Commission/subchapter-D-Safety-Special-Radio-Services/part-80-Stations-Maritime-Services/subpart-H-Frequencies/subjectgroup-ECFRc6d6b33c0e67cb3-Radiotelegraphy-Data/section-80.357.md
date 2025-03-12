@@ -2,7 +2,7 @@
 
 This section describes the working frequencies assignable to maritime stations for A1A, J2A, J2B (2000-27500 kHz band only), or J2D (2000-27500 kHz band only) radiotelegraphy.
 
-(a) *Ship station frequencies* - (1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.
+(a) *Ship station frequencies*—(1) *Frequencies in the 100-160 kHz band.* The following table describes the working carrier frequencies in the 100-160 kHz band which are assignable to ship stations. A ship station may also transmit on a radiotelegraphy working channel of a coast station within the 100-160 kHz band when directed to do so by the coast station provided interference is not caused to any land, fixed, broadcast, or radiolocation station.
 
 |   |100-160 (kHz)|   |
 |---|-------------|---|
@@ -16,30 +16,25 @@ This section describes the working frequencies assignable to maritime stations f
 
 (2) *Frequencies in the 405-525 kHz band.* The following table describes the working carrier frequencies in the 405-525 kHz band which are assignable to ship stations. A ship station may transmit on a radiotelegraphy working channel of a coast station in the 415-490 kHz band when directed to do so by the coast station.
 
-|   | 405-525 (kHz)  |   |
-|---|----------------|---|
-|   |<sup>1</sup> 410|   |
-|   |      425       |   |
-|   |      454       |   |
-|   |      468       |   |
-|   |      480       |   |
-|   |<sup>2</sup> 512|   |
-|   |<sup>3</sup> 518|   |
-
-<sup>1</sup> The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination related messages to direction-finding stations.
-
-<sup>2</sup> The frequency 512 kHz may be used as a supplementary calling frequency when 500 kHz is used for distress, safety and urgency communications. The use of the 512 kHz as a working frequency is prohibited in areas where it is used as a supplementary calling frequency when 500 kHz is used for distress, safety, and urgency communications.
-
-<sup>3</sup> The frequency 518 kHz is a receive only frequency by ship stations. It is used by U.S. Coast Guard coast stations for NB-DP transmissions of meteorological and navigational warnings to ships.
+|                                                                                                                                                                                                                                                                                                                                                           | 405-525 (kHz)  |   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|---|
+|                                                                                                                                                                                                                                                                                                                                                           |<sup>1</sup> 410|   |
+|                                                                                                                                                                                                                                                                                                                                                           |      425       |   |
+|                                                                                                                                                                                                                                                                                                                                                           |      454       |   |
+|                                                                                                                                                                                                                                                                                                                                                           |      468       |   |
+|                                                                                                                                                                                                                                                                                                                                                           |      480       |   |
+|                                                                                                                                                                                                                                                                                                                                                           |<sup>2</sup> 512|   |
+|                                                                                                                                                                                                                                                                                                                                                           |<sup>3</sup> 518|   |
+|                                                           <sup>1</sup> The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination related messages to direction-finding stations.                                                            |                |   |
+|<sup>2</sup> The frequency 512 kHz may be used as a supplementary calling frequency when 500 kHz is used for distress, safety and urgency communications. The use of the 512 kHz as a working frequency is prohibited in areas where it is used as a supplementary calling frequency when 500 kHz is used for distress, safety, and urgency communications.|                |   |
+|                                                                       <sup>3</sup> The frequency 518 kHz is a receive only frequency by ship stations. It is used by U.S. Coast Guard coast stations for NB-DP transmissions of meteorological and navigational warnings to ships.                                                                        |                |   |
 
 (3) *Frequencies in the 2000-27500 kHz band.* This paragraph describes the working frequencies and Channel Series in the 2000-27500 kHz band which are assignable to ship stations.
 
 (i) Two Channel Series will be assigned for routine use to each ship station. Frequencies from any other Channel Series may be used if the frequencies in the assigned Channel Series are not adequate for communications.
 
-Ship Morse Working Frequencies (kHz)
-
 |Channel Series:|      |      |      |       |       |       |       |
-|:--------------|-----:|-----:|-----:|------:|------:|------:|------:|
+|---------------|------|------|------|-------|-------|-------|-------|
 |      W1       |4187.0|6285.0|8342.0|12422.0|16619.0|22242.0|25161.5|
 |               |      |      |8343.5|12453.0|16650.0|22273.0|       |
 |               |      |      |      |       |16681.0|       |       |
@@ -229,68 +224,67 @@ Ship Morse Working Frequencies (kHz)
 
 (ii) If the frequencies listed in paragraph (3)(i) of this section are not adequate for communications, ship stations may use any of the non-paired narrow-band direct-printing frequencies listed in § 80.361(b) of this part for A1A or J2A radiotelegraphy.
 
-(b) *Coast station frequencies* - (1) *Frequencies in the 100-27500 kHz band.* The following table describes the working carrier frequencies in the 100-27500 kHz band which are assignable to coast stations located in the designated geographical areas. The exclusive maritime mobile HF bands listed in the table contained in § 80.363(a)(2) of this chapter are also available for assignment to public coast stations for A1A, J2A, J2B, or J2D radiotelegraphy following coordination with government users.
+(b) *Coast station frequencies*—(1) *Frequencies in the 100-27500 kHz band.* The following table describes the working carrier frequencies in the 100-27500 kHz band which are assignable to coast stations located in the designated geographical areas. The exclusive maritime mobile HF bands listed in the table contained in § 80.363(a)(2) of this chapter are also available for assignment to public coast stations for A1A, J2A, J2B, or J2D radiotelegraphy following coordination with government users.
 
-|      Area      |Bands<sup>1</sup>|      |      |      |      |      |       |       |       |
-|----------------|-----------------|------|------|------|------|------|-------|-------|-------|
-|  100-160 kHz   |   405-525 kHz   |2 MHz |4 MHz |6 MHz |8 MHz |12 MHz|16 MHz |22 MHz |       |
-|Central Pacific |     126.15      |426.00|2037.5|4247.0|6348.0|8558.0|12695.5|17016.8|22479.0|
-|                |                 |436.00|2045.0|4274.0|6365.5|8618.0|12808.5|17026.0|22515.0|
-|                |     147.85      |460.00|2061.5|4228.0|6477.5|8642.0|12844.5|17088.8|22557.0|
-|                |                 |476.0 |      |      |6488.0|8445.0|13002.0|       |22581.5|
-|                |                 |500.00|      |      |      |      |13033.5|       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-| South Pacific  |                 |418.00|2049.5|4238.0|6355.0|8590.0|12691.0|17064.8|22467.0|
-|                |                 |464.00|2055.5|4283.0|6463.5|8606.0|12912.0|17088.8|22593.5|
-|                |                 |482.00|      |      |      |8642.0|12993.0|17220.5|       |
-|                |                 |500.00|      |      |      |      |13033.5|       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-| Gulf of Mexico |     153.00      |410.00|2042.0|4256.0|6369.0|8473.0|12704.5|17117.6|22467.0|
-|                |                 |420.00|2048.0|4274.0|6435.5|8550.0|12826.5|17170.4|22668.5|
-|                |                 |434.00|2049.5|4310.0|6446.0|8570.0|12840.0|17172.4|22686.5|
-|                |                 |438.00|2052.5|4322.0|6495.0|8666.0|13038.0|17230.1|22688.0|
-|                |                 |478.00|2055.5|      |      |8445.0|13051.5|       |       |
-|                |                 |484.00|2063.0|      |      |8453.0|12660.0|       |       |
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-|  Great Lakes   |                 |482.00|      |4316.0|6474.0|8534.0|       |       |       |
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-|     Hawaii     |                 |484.00|2052.5|4295.0|6407.5|8542.0|13029.0|16978.4|22509.0|
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-|  Puerto Rico   |     153.00      |486.00|2052.5|4244.0|      |8457.0|12700.0|       |       |
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-| North Atlantic |     112.85      |418.00|2036.0|4238.0|6351.5|8502.0|12745.5|16933.2|22485.0|
-|                |     124.05      |436.00|2040.5|4268.0|6376.0|8514.0|12925.5|16968.8|22503.0|
-|                |     130.35      |442.00|2046.5|4331.0|6414.5|8586.0|12948.0|16973.6|22521.0|
-|                |     132.10      |460.00|2051.0|4343.0|6418.0|8610.0|12961.5|16997.6|22599.5|
-|                |     134.55      |472.00|2054.0|4346.0|6333.5|8630.0|12997.5|17021.6|22640.0|
-|                |     137.00      |476.00|2060.0|      |6337.0|8658.0|13020.0|17093.6|22658.0|
-|                |                 |482.00|      |      |6344.0|8686.0|13024.5|16904.9|       |
-|                |     146.80      |500.00|      |      |      |      |13033.5|       |       |
-|                |     147.50      |512.00|      |      |      |      |13060.5|       |       |
-|Central Atlantic|                 |428.00|2063.0|4346.0|6484.5|8502.0|12885.0|16916.5|22588.5|
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-| South Atlantic |     137.70      |434.00|2039.0|4250.0|6389.6|8486.0|12952.5|16918.8|22503.0|
-|                |                 |464.00|2043.5|4292.0|6407.5|8525.0|12970.5|17093.6|22575.5|
-|                |                 |472.00|2051.0|4295.0|6411.0|8686.0|13011.0|17160.8|       |
-|                |                 |488.00|2057.0|      |      |8453.0|12660.0|17170.4|       |
-|                |                 |500.00|      |      |      |      |       |17239.7|       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-| North Pacific  |                 |482.00|2058.5|4349.0|6411.0|8582.0|12907.5|17007.2|22539.0|
-|                |                 |488.00|2063.0|      |      |8658.0|12916.5|       |       |
-|                |                 |500.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-|     Alaska     |                 |416.00|      |      |      |      |       |       |       |
-|                |                 |438.00|      |      |      |      |       |       |       |
-|                |                 |452.00|      |      |      |      |       |       |       |
-|                |                 |472.00|      |      |      |      |       |       |       |
-|                |                 |512.00|      |      |      |      |       |       |       |
-
-<sup>1</sup> All frequencies in this table are shown in kilohertz. The use of frequencies in the 472-479 kHz band is restricted to public coast stations that were licensed on or before [insert effective date of this R&O].
+|                                                                                                 Area                                                                                                  |Bands <sup>1</sup>|      |      |      |      |      |       |       |       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------|------|------|------|------|-------|-------|-------|
+|                                                                                              100-160 kHz                                                                                              |   405-525 kHz    |2 MHz |4 MHz |6 MHz |8 MHz |12 MHz|16 MHz |22 MHz |       |
+|                                                                                            Central Pacific                                                                                            |      126.15      |426.00|2037.5|4247.0|6348.0|8558.0|12695.5|17016.8|22479.0|
+|                                                                                                                                                                                                       |                  |436.00|2045.0|4274.0|6365.5|8618.0|12808.5|17026.0|22515.0|
+|                                                                                                                                                                                                       |      147.85      |460.00|2061.5|4228.0|6477.5|8642.0|12844.5|17088.8|22557.0|
+|                                                                                                                                                                                                       |                  |476.0 |      |      |6488.0|8445.0|13002.0|       |22581.5|
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |13033.5|       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                             South Pacific                                                                                             |                  |418.00|2049.5|4238.0|6355.0|8590.0|12691.0|17064.8|22467.0|
+|                                                                                                                                                                                                       |                  |464.00|2055.5|4283.0|6463.5|8606.0|12912.0|17088.8|22593.5|
+|                                                                                                                                                                                                       |                  |482.00|      |      |      |8642.0|12993.0|17220.5|       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |13033.5|       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                            Gulf of Mexico                                                                                             |      153.00      |410.00|2042.0|4256.0|6369.0|8473.0|12704.5|17117.6|22467.0|
+|                                                                                                                                                                                                       |                  |420.00|2048.0|4274.0|6435.5|8550.0|12826.5|17170.4|22668.5|
+|                                                                                                                                                                                                       |                  |434.00|2049.5|4310.0|6446.0|8570.0|12840.0|17172.4|22686.5|
+|                                                                                                                                                                                                       |                  |438.00|2052.5|4322.0|6495.0|8666.0|13038.0|17230.1|22688.0|
+|                                                                                                                                                                                                       |                  |478.00|2055.5|      |      |8445.0|13051.5|       |       |
+|                                                                                                                                                                                                       |                  |484.00|2063.0|      |      |8453.0|12660.0|       |       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                              Great Lakes                                                                                              |                  |482.00|      |4316.0|6474.0|8534.0|       |       |       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                                Hawaii                                                                                                 |                  |484.00|2052.5|4295.0|6407.5|8542.0|13029.0|16978.4|22509.0|
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                              Puerto Rico                                                                                              |      153.00      |486.00|2052.5|4244.0|      |8457.0|12700.0|       |       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                            North Atlantic                                                                                             |      112.85      |418.00|2036.0|4238.0|6351.5|8502.0|12745.5|16933.2|22485.0|
+|                                                                                                                                                                                                       |      124.05      |436.00|2040.5|4268.0|6376.0|8514.0|12925.5|16968.8|22503.0|
+|                                                                                                                                                                                                       |      130.35      |442.00|2046.5|4331.0|6414.5|8586.0|12948.0|16973.6|22521.0|
+|                                                                                                                                                                                                       |      132.10      |460.00|2051.0|4343.0|6418.0|8610.0|12961.5|16997.6|22599.5|
+|                                                                                                                                                                                                       |      134.55      |472.00|2054.0|4346.0|6333.5|8630.0|12997.5|17021.6|22640.0|
+|                                                                                                                                                                                                       |      137.00      |476.00|2060.0|      |6337.0|8658.0|13020.0|17093.6|22658.0|
+|                                                                                                                                                                                                       |                  |482.00|      |      |6344.0|8686.0|13024.5|16904.9|       |
+|                                                                                                                                                                                                       |      146.80      |500.00|      |      |      |      |13033.5|       |       |
+|                                                                                                                                                                                                       |      147.50      |512.00|      |      |      |      |13060.5|       |       |
+|                                                                                           Central Atlantic                                                                                            |                  |428.00|2063.0|4346.0|6484.5|8502.0|12885.0|16916.5|22588.5|
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                            South Atlantic                                                                                             |      137.70      |434.00|2039.0|4250.0|6389.6|8486.0|12952.5|16918.8|22503.0|
+|                                                                                                                                                                                                       |                  |464.00|2043.5|4292.0|6407.5|8525.0|12970.5|17093.6|22575.5|
+|                                                                                                                                                                                                       |                  |472.00|2051.0|4295.0|6411.0|8686.0|13011.0|17160.8|       |
+|                                                                                                                                                                                                       |                  |488.00|2057.0|      |      |8453.0|12660.0|17170.4|       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |17239.7|       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                             North Pacific                                                                                             |                  |482.00|2058.5|4349.0|6411.0|8582.0|12907.5|17007.2|22539.0|
+|                                                                                                                                                                                                       |                  |488.00|2063.0|      |      |8658.0|12916.5|       |       |
+|                                                                                                                                                                                                       |                  |500.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|                                                                                                Alaska                                                                                                 |                  |416.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |438.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |452.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |472.00|      |      |      |      |       |       |       |
+|                                                                                                                                                                                                       |                  |512.00|      |      |      |      |       |       |       |
+|<sup>1</sup> All frequencies in this table are shown in kilohertz. The use of frequencies in the 472-479 kHz band is restricted to public coast stations that were licensed on or before July 14, 2017.|                  |      |      |      |      |      |       |       |       |
 
 (2) *Conditions of use.* The following conditions are applicable to these frequencies:
 
@@ -300,4 +294,4 @@ Ship Morse Working Frequencies (kHz)
 
 (iii) The frequency 410 kHz may be used on a secondary basis for the transmission of radiodetermination information and for transmitting by radiotelegraph radiodetermination messages to direction-finding stations; and
 
-[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986, as amended at 56 FR 9887, Mar. 8, 1991; 56 FR 34029, July 25, 1991; 65 FR 77824, Dec. 13, 2000; 67 FR 48264, July 15, 2002; 68 FR 46969, Aug. 7, 2003; 69 FR 64674, Nov. 8, 2004; 82 FR 27213, June 14, 2017]
+[51 FR 31213, Sept. 2, 1986; 51 FR 34984, Oct. 1, 1986, as amended at 56 FR 9887, Mar. 8, 1991; 56 FR 34029, July 25, 1991; 65 FR 77824, Dec. 13, 2000; 67 FR 48264, July 15, 2002; 68 FR 46969, Aug. 7, 2003; 69 FR 64674, Nov. 8, 2004; 82 FR 27213, June 14, 2017; 82 FR 48460, Oct. 18, 2017]
