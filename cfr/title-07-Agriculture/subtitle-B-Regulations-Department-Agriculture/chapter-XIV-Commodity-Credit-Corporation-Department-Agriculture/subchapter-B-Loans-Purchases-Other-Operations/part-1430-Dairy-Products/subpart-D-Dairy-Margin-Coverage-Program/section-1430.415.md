@@ -1,0 +1,7 @@
+##### § 1430.415 Reconstitutions. #####
+
+(a) Any participating dairy operation that reorganizes or restructures after enrollment is subject to a review by FSA to determine if the operation was reorganized or restructured for the sole purpose of establishing an alternative production history for a participating dairy operation or was reorganized or restructured to otherwise circumvent any DMC Program provision under this subpart (including the tier system for premiums) or otherwise to prevent the accomplishment of the purpose of the DMC Program.
+
+(b) A participating dairy operation that FSA determines has reorganized solely to establish a new production history or to circumvent the determination of applicable fees or premiums based on an established production history determined under this subpart will be considered to have failed to meet the DMC Program requirements and, in addition to other sanctions or penalties that may apply, will not be eligible for DMC payments.
+
+(c) Under no circumstance, except as approved by the Deputy Administrator or provided for in these regulations, will the reconstitution or restructure of a participating dairy operation change the determined production history for the operation. The Deputy Administrator may, however, adjust the production history of a participating dairy operation if there is a calculation error or if erroneous information has been supplied by or on behalf of the participating dairy operation.

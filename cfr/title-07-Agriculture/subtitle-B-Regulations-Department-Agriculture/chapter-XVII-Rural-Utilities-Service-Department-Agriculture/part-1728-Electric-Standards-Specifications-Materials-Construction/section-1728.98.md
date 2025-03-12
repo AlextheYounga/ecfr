@@ -42,7 +42,7 @@
 
 (20) Bulletin 50-91 (S-3), RUS Specifications for Step-Down Distribution Substation Transformers (34.4-138 kV) (1-78).
 
-(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs (3-2011).
+(21) Bulletin 1728F-700, RUS Specification for Wood Poles, Stubs and Anchor Logs (April 15, 2019).
 
 (22) Bulletin 1728F-803, Specifications and Drawings for 24.9/14.4 kV Line Construction (10-98).
 
@@ -56,4 +56,4 @@
 
 (b) The terms “RUS form”, “RUS standard form”, “RUS specification”, and “RUS bulletin” have the same meanings as the terms “REA form”, “REA standard form”, “REA specification”, and “REA bulletin”, respectively unless otherwise indicated.
 
-[76 FR 36964, June 24, 2011, as amended at 83 FR 55467, Nov. 6, 2018]
+[76 FR 36964, June 24, 2011, as amended at 83 FR 55467, Nov. 6, 2018; 84 FR 28191, June 18, 2019]

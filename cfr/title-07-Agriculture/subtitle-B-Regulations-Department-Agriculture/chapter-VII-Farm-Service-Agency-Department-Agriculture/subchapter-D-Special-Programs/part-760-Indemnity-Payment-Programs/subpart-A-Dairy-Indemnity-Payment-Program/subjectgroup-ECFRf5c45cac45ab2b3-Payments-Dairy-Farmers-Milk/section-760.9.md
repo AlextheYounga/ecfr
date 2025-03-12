@@ -4,4 +4,6 @@
 
 (b) In the event that a farmer receives an indemnity payment under this subpart, and such farmer is later compensated for the same loss by the person (or the representative or successor in interest of such person) responsible for such loss, the indemnity payment shall be refunded by the farmer to the Department of Agriculture: *Provided,* That the amount of such refund shall not exceed the amount of other compensation received by the farmer.
 
-[Amdt. 1, 44 FR 36361, June 22, 1979]
+(c) The period eligible for DIPP benefits for the same loss may not extend past the time period that the impacted dairy cows in the dairy herd are no longer lactating or impacted dairy cows in gestation have delivered a calf and are no longer lactating from its most immediately preceding birth after the contaminating event, not to exceed 18 months. Claims for milk from the affected farmer not reinstated to the commercial markets after the impacted dairy cows in the herd are dry and no longer producing milk from its most immediately preceding birth after the contaminating event, or have exceeded the 18-month period will not be compensated any further. Dairy producers that have exceeded the specified period established by FSA before June 18, 2018 will be allowed to submit one additional claim. Dairy cows purchased or bred after the occurrence of the contaminating event may not be included in the claim for benefits.
+
+[Amdt. 1, 44 FR 36361, June 22, 1979, as amended at 84 FR 28176, June 18, 2019]

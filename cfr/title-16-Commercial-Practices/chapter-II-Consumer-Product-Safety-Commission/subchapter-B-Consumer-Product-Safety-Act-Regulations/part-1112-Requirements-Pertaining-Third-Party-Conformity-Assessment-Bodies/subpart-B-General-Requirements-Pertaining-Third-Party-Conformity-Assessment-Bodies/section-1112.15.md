@@ -1,6 +1,6 @@
 ##### § 1112.15 When can a third party conformity assessment body apply for CPSC acceptance for a particular CPSC rule or test method? #####
 
-Link to an amendment published at 83 FR 28370, June 19, 2018.Link to an amendment published at 83 FR 29681, June 26, 2018.Link to an amendment published at 83 FR 30849, July 2, 2018.
+Link to an amendment published at 83 FR 28370, June 19, 2018.Link to an amendment published at 83 FR 29681, June 26, 2018.Link to an amendment published at 83 FR 30849, July 2, 2018.Link to an amendment published at 84 FR 28211, June 18, 2019.
 
 (a) Once the CPSC publishes the requirements for accreditation to a particular CPSC rule or test method, a third party conformity assessment body may apply to the CPSC for acceptance to that scope of accreditation. An application may be made for acceptance of accreditation to more than one CPSC rule or test method. Once accepted by the CPSC, a third party conformity assessment body may apply at any time to expand the scope of its acceptance to include additional CPSC rules or test methods. A third party conformity assessment body may only issue test results for purposes of section 14 of the CPSA that fall within a scope for which the CPSC has accepted the third party conformity assessment body's accreditation.
 

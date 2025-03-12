@@ -1,0 +1,5 @@
+##### § 1430.414 Contract modifications. #####
+
+(a) Producers in a participating dairy operation must notify FSA immediately of any changes that may affect their participation in DMC. Changes include, but are not limited to, death of a producer who is on the contract, producer joining the operation, producer exiting the operation, relocation of the dairy operation, transfer of shares by sale or other transfer action, or dairy operation reconstitutions as provided in § 1430.415.
+
+(b) Payment of any outstanding premium or administrative fee for a participating dairy operation must be paid in full before a transfer of shares by sale or any other change in producers on the contract originally submitted to FSA may take effect. Otherwise, producer changes will not be recognized until the following annual election period, and only if at that time all associated premiums and administrative fees from any previous calendar year of coverage have been paid in full.
