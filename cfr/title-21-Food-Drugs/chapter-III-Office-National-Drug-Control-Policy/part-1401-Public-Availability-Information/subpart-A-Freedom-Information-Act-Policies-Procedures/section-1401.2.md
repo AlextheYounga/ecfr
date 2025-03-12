@@ -1,0 +1,5 @@
+##### § 1401.2 The Office of National Drug Control Policy—organization and functions. #####
+
+(a) The Office of National Drug Control Policy (ONDCP or Agency) was created by the Anti-Drug Abuse Act of 1988, 21 U.S.C. 1501 *et seq.,* and reauthorized under the SUPPORT for Patients and Communities Act, 21 U.S.C. 1701 *et seq.* and several appropriations acts. The mission of ONDCP is to coordinate the anti-drug efforts of the various agencies and departments of the Federal Government, to consult with States and localities and assist their anti-drug efforts, and to annually promulgate the National Drug Control Strategy. ONDCP is headed by the Director of National Drug Control Policy.
+
+(b) ONDCP's Office of External and Legislative Affairs is responsible for providing information to the press and to the general public. If members of the public have general questions about ONDCP, they may email the Office of External and Legislative Affairs at *mediainquiry@ondcp.eop.gov.* This email address should not be used to make FOIA requests. All oral requests for information under FOIA will be rejected.

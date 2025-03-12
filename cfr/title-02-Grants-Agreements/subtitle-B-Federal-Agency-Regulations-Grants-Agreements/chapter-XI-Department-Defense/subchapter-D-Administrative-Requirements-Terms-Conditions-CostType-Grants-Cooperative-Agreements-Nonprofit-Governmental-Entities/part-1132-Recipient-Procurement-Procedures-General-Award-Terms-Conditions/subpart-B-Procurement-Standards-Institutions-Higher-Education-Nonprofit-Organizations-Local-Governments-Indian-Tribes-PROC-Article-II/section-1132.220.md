@@ -1,0 +1,7 @@
+##### § 1132.220 Bonding requirements. #####
+
+(a) *Requirements.* A DoD Component's general terms and conditions must require each recipient to meet minimum bonding requirements if it awards any construction or facility improvement contract with a value in excess of the simplified acquisition threshold. A recipient would instead use its own bonding requirements if the DoD Component determined that the recipient's bonding policy and requirements are adequate to protect Federal interests.
+
+(b) *Award terms and conditions*—(1) *General.* To implement the requirements in paragraph (a) of this section, a DoD Component's general terms and conditions must use the wording that appendix B to this part provides for Section I of PROC Article II. The DoD Component may include a provision in the award-specific terms and conditions to override Section I of PROC Article II in each award to a recipient for which it made the determination about the recipient's bonding policy and requirements, as described in paragraph (a) of this section.
+
+(2) *Exceptions.* A DoD Component's general terms and conditions may reserve Section I if the DoD Component determines that there will be no construction or facility improvement contracts with values in excess of the simplified acquisition threshold under awards using its general terms and conditions.

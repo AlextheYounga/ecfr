@@ -1,7 +1,5 @@
 ##### § 37.1100 What are my responsibilities generally as an administrative agreements officer for a TIA? #####
 
-Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
-
 As the administrative agreements officer for a TIA, you have the responsibilities that your office agreed to accept in the delegation from the office that made the award. Generally, you will have the same responsibilities as a post-award administrator of a grant or cooperative agreement, as described in 32 CFR 22.715. Responsibilities for TIAs include:
 
 (a) Advising agreements officers before they award TIAs on how to establish award terms and conditions that better meet research programmatic needs, facilitate effective post-award administration, and ensure good stewardship of Federal funds.
@@ -16,4 +14,4 @@ As the administrative agreements officer for a TIA, you have the responsibilitie
 
 (f) Responding, after coordination with program officials, to recipient requests for permission to sell or exclusively license intellectual property to entities that do not agree to manufacture substantially in the United States, as described in § 37.875(b). Before you grant approval for any technology, you must secure assurance that the Government will be able to use the technology (*e.g.,* a reasonable license for Government use, if the recipient is selling the technology) or seek reimbursement of the Government's investments.
 
-(g) Notifying the agreements officer who made the award if a participant informs you about a subaward allowing a for-profit subrecipient to have audits performed by an IPA, rather than the DCAA. You should alert the awarding official that he or she must report the information, as required by § 37.1030(c).
+[68 FR 47160, Aug. 7, 2003, as amended at 85 FR 51246, Aug. 19, 2020]

@@ -1,0 +1,3 @@
+##### § 1108.155 Development. #####
+
+*Development* means, when used in the context of “research and development,” the systematic use of scientific and technical knowledge in the design, development, testing, or evaluation of potential new products, processes, or services to meet specific performance requirements or objectives. It includes the functions of design engineering, prototyping, and engineering testing. It typically is funded within programs in Budget Activities 4 through 7 of DoD's Research, Development, Test and Evaluation (RDT&E) appropriations.

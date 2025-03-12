@@ -1,0 +1,13 @@
+##### § 210.3 Accounting requirements where sales revenue is “recognized.” #####
+
+Where under § 210.2(g)(3)(i), revenue from the sale of phonorecords is “recognized” during any month after the month in which the compulsory licensee actually first parted with their possession, said compulsory licensee shall reduce particular phonorecord reserves by the number of phonorecords for which revenue is being “recognized,” as follows:
+
+(a) If the number of phonorecords for which revenue is being “recognized” is smaller than the number of phonorecords comprising the earliest eligible phonorecord reserve, this phonorecord reserve shall be reduced by the number of phonorecords for which revenue is being “recognized.” Subject to the time limitations of § 210.2(g)(3)(ii), the number of phonorecords remaining in this reserve shall be available for use in subsequent months.
+
+(b) If the number of phonorecords for which revenue is being “recognized” is greater than the number of phonorecords comprising the earliest eligible phonorecord reserve but less than the total number of phonorecords comprising all eligible phonorecord reserves, the compulsory licensee shall first eliminate those phonorecord reserves, beginning with the earliest eligible phonorecord reserve and continuing to the next succeeding phonorecord reserves, that are completely offset by phonorecords for which revenue is being “recognized.” Said compulsory licensee shall then reduce the next succeeding phonorecord reserve by the number of phonorecords for which revenue is being “recognized” that have not been used to eliminate a phonorecord reserve. Subject to the time limitations of § 210.2(g)(3)(ii), the number of phonorecords remaining in this reserve shall be available for use in subsequent months.
+
+(c) If the number of phonorecords for which revenue is being “recognized” equals the number of phonorecords comprising all eligible phonorecord reserves, the person or entity exercising the compulsory license shall eliminate all of the phonorecord reserves.
+
+(d) Digital phonorecord deliveries shall not be considered as accompanied by a privilege of return as described in § 210.2(g)(3), and the compulsory licensee shall not take digital phonorecord deliveries into account in establishing phonorecord reserves.
+
+[79 FR 56206, Sept. 18, 2014. Redesignated at 85 FR 58143, Sept. 17, 2020]

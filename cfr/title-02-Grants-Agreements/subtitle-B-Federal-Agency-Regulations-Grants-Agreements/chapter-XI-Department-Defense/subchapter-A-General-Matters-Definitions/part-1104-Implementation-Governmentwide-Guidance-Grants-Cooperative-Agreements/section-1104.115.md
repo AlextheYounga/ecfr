@@ -1,0 +1,3 @@
+##### § 1104.115 Regulations governing DoD Components' internal procedures. #####
+
+On an interim basis pending completion of the update of the DoDGARs to implement OMB guidance published in 2 CFR part 200, DoD Components' internal pre-award, time-of-award, and post-award procedures will continue to comply with requirements in parts 21 and 22 of the DoDGARs (32 CFR parts 21 and 22) and other applicable Defense Grant and Agreement Regulatory System (DGARS) policies.

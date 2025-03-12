@@ -1,0 +1,3 @@
+##### § 1108.298 Prior approval. #####
+
+*Prior approval* means written or electronic approval by a DoD grants or agreements officer evidencing prior consent. When prior approval is required for an activity or expenditure that would result in a direct cost to a DoD award, the grants or agreements officer's signature on an award that includes the planned activity or expenditure in the scope of work or approved budget satisfies the requirement for prior approval. Otherwise, a recipient is required to obtain such approval after award.

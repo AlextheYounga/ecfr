@@ -2,7 +2,7 @@
 
 As prescribed in 244.403, use the following clause:
 
-Subcontracts for Commercial Items (SEP 2020)
+Subcontracts for Commercial Items (OCT 2020)
 
 (a) The Contractor is not required to flow down the terms of any Defense Federal Acquisition Regulation Supplement (DFARS) clause in subcontracts for commercial items at any tier under this contract, unless so specified in the particular clause.
 
@@ -14,4 +14,4 @@ Subcontracts for Commercial Items (SEP 2020)
 
 (d) The Contractor shall include the terms of this clause, including this paragraph (c), in subcontracts awarded under this contract, including subcontracts for the acquisition of commercial items.
 
-(End of clause)[78 FR 37991, June 25, 2013, as amended at 85 FR 60921, Sept. 29, 2020]
+(End of clause)[78 FR 37991, June 25, 2013, as amended at 85 FR 60921, Sept. 29, 2020; 85 FR 65734, Oct. 16, 2020]

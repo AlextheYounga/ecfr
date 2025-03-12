@@ -1,7 +1,5 @@
 ##### § 22.520 Campus access for military recruiting and Reserve Officer Training Corps (ROTC). #####
 
-Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
-
 (a) *Purpose.* (1) The purpose of this section is to implement 10 U.S.C. 983 as it applies to grants. Under that statute, DoD Components are prohibited from providing funds to institutions of higher education that have policies or practices, as described in paragraph (c) of this section, restricting campus access of military recruiters or the Reserve Officer Training Corps (ROTC).
 
 (2) By addressing the effect of 10 U.S.C. 983 on grants and cooperative agreements, this section supplements the DoD's primary implementation of that statute in 32 CFR part 216, “Military Recruiting and Reserve Officer Training Corps Program Access to Institutions of Higher Education.” Part 216 establishes procedures by which the Department of Defense identifies institutions of higher education that have a policy or practice described in paragraph (c) of this section.
@@ -22,11 +20,11 @@ Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
 
 (ii) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
-(d) *Policy* - (1) *Applicability to cooperative agreements.* As a matter of DoD policy, the restrictions of 10 U.S.C. 983, as implemented by 32 CFR part 216, apply to cooperative agreements, as well as grants.
+(d) *Policy*—(1) *Applicability to cooperative agreements.* As a matter of DoD policy, the restrictions of 10 U.S.C. 983, as implemented by 32 CFR part 216, apply to cooperative agreements, as well as grants.
 
-(2) *Deviations.* Grants officers may not deviate from any provision of this section without obtaining the prior approval of the Director of Defense Research and Engineering. Requests for deviations shall be submitted, through appropriate channels, to: Director for Basic Sciences, ODUSD(LABS), 3040 Defense Pentagon, Washington, D.C. 20301-3040.
+(2) *Deviations.* Grants officers may not deviate from any provision of this section without obtaining the prior approval of the Assistant Secretary of Defense for Research and Engineering. Requests for deviations shall be submitted, through appropriate channels, to: Director for Basic Research, OASD(R&E), 3040 Defense Pentagon, Washington, D.C. 20301-3040.
 
-(e) *Grants officers' responsibility.* (1) A grants officer shall not award any grant or cooperative agreement to an institution of higher education that has been identified pursuant to the procedures of 32 CFR part 216. Such institutions are identified as being ineligible on the Governmentwide Excluded Parties List System (EPLS). The cause and treatment code on the EPLS indicates the reason for an institution's ineligibility, as well as the effect of the exclusion. Note that OMB guidance in 2 CFR 180.425 and 180.430, as implemented by the Department of Defense at 2 CFR part 1125, require a grants officer to check the EPLS prior to determining that a recipient is qualified to receive an award.
+(e) *Grants officers' responsibility.* (1) A grants officer shall not award any grant or cooperative agreement to an institution of higher education that has been identified pursuant to the procedures of 32 CFR part 216. Such institutions are identified as being ineligible in the Exclusions area of the System for Award Management (SAM Exclusions). The exclusion types in SAM Exclusions broadly indicate the nature of an institution's ineligibility, as well as the effect of the exclusion, and the Additional Comments field may have further details about the exclusion. Note that OMB guidance in 2 CFR 180.425 and 180.430, as implemented by the Department of Defense at 2 CFR part 1125, require a grants officer to check the SAM Exclusions prior to determining that a recipient is qualified to receive an award.
 
 (2) A grants officer shall not consent to a subaward of DoD funds to such an institution, under a grant or cooperative agreement to any recipient, if the subaward requires the grants officer's consent.
 
@@ -50,15 +48,15 @@ If the recipient is determined, using the procedures in 32 CFR part 216, to be s
 
 (ii) Transmit the name of the institution, through appropriate channels, to the Director for Accession Policy, Office of the Deputy Under Secretary of Defense for Military Personnel Policy (ODUSD(MPP)), 4000 Defense Pentagon, Washington, DC 20301-4000. This will allow ODUSD(MPP) to decide whether to initiate an evaluation of the institution under 32 CFR part 216, to determine whether it is an institution that has a policy or practice described in paragraph (c) of this section.
 
-(5) With respect to any pre-existing award to an institution of higher education that currently is listed on the EPLS pursuant to a determination under 32 CFR part 216, a grants officer:
+(5) With respect to any pre-existing award to an institution of higher education that currently is listed in SAM Exclusions pursuant to a determination under 32 CFR part 216, a grants officer:
 
-(i) Shall not obligate additional funds available to the DoD for the award. A grants officer therefore must check the EPLS before approving an incremental funding action or other additional funding for any pre-existing award to an institution of higher education. The grants officer may not obligate the additional funds if the cause and treatment code indicates that the reason for an institution's EPLS listing is a determination under 32 CFR part 216 that institutional policies or practices restrict campus access of military recruiters or ROTC.
+(i) Shall not obligate additional funds available to the DoD for the award. A grants officer therefore must check SAM Exclusions before approving an incremental funding action or other additional funding for any pre-existing award to an institution of higher education. The grants officer may not obligate the additional funds if the cause and treatment code indicates that the reason for an institution's SAM Exclusions listing is a determination under 32 CFR part 216 that institutional policies or practices restrict campus access of military recruiters or ROTC.
 
 (ii) Shall not approve any request for payment submitted by such an institution (including payments for costs already incurred).
 
 (iii) Shall:
 
-(A) Terminate the award unless he or she has a reason to believe, after consulting with the ODUSD(MPP), 4000 Defense Pentagon, Washington, DC 20301-4000), that the institution may be removed from the EPLS in the near term and have its eligibility restored; and
+(A) Terminate the award unless he or she has a reason to believe, after consulting with the ODUSD(MPP), 4000 Defense Pentagon, Washington, DC 20301-4000), that the institution may be removed from SAM Exclusions in the near term and have its eligibility restored; and
 
 (B) Suspend any award that is not immediately terminated, as well as all payments under it.
 
@@ -72,4 +70,4 @@ If the recipient is determined, using the procedures in 32 CFR part 216, to be s
 
 (2) Awarding offices in DoD Components that may be identified from data in the Defense Assistance Awards Data System (see 32 CFR 21.520 through 21.555) as having awards with such institutions for which post-award payment administration was not delegated to ONR. The ONR is to alert those offices to their responsibilities under paragraph (e)(5) of this section.
 
-[70 FR 49465, Aug. 23, 2005, as amended at 72 FR 34988, June 26, 2007]
+[70 FR 49465, Aug. 23, 2005, as amended at 72 FR 34988, June 26, 2007; 85 FR 51243, Aug. 19, 2020]

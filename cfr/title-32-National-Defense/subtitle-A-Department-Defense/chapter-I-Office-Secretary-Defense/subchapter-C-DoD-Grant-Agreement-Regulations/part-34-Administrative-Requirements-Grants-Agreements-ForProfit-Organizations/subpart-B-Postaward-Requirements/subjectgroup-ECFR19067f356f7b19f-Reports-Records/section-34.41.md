@@ -1,8 +1,6 @@
 ##### § 34.41 Monitoring and reporting program and financial performance. #####
 
-Link to an amendment published at 85 FR 51245, Aug. 19, 2020.
-
-Grants officers may use the provisions of 32 CFR 32.51 and 32.52 for awards to for-profit organizations, or may include equivalent technical and financial reporting requirements that ensure reasonable oversight of the expenditure of appropriated funds. As a minimum, equivalent requirements must include:
+Grants officers may use the provisions of subparts A and B of 2 CFR part 1134 for awards to for-profit organizations, or may include equivalent technical and financial reporting requirements that ensure reasonable oversight of the expenditure of appropriated funds. As a minimum, equivalent requirements must include:
 
 (a) Periodic reports (at least annually, and no more frequently than quarterly) addressing both program status and business status, as follows:
 
@@ -13,3 +11,5 @@ Grants officers may use the provisions of 32 CFR 32.51 and 32.52 for awards to f
 (3) When grants officers previously authorized advance payments, pursuant to § 34.12(a)(2), they should consult with the program official and consider whether program progress reported in the periodic report, in relation to reported expenditures, is sufficient to justify continued authorization of advance payments.
 
 (b) Unless inappropriate, a final performance report that addresses all major accomplishments under the award.
+
+[63 FR 12204, Mar. 12, 1998, as amended at 85 FR 51244, Aug. 19, 2020]

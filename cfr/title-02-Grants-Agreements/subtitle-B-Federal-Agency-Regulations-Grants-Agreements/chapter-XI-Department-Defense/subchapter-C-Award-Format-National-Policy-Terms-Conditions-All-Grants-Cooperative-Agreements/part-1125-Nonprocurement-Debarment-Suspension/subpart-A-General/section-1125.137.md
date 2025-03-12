@@ -1,0 +1,3 @@
+##### § 1125.137 Who in the Department of Defense may grant an exception to let an excluded person participate in a covered transaction? #####
+
+Within the Department of Defense, the Secretary of Defense, Secretary of a Military Department, Head of a Defense Agency, Head of the Office of Economic Adjustment, and Head of the Special Operations Command have the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.

@@ -1,7 +1,5 @@
 ##### § 34.12 Payment. #####
 
-Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
-
 (a) *Methods available.* Payment methods for awards with for-profit organizations are:
 
 (1) *Reimbursement.* Under this method, the recipient requests reimbursement for costs incurred during a time period. In cases where the recipient submits each request for payment to the grants officer, the DoD payment office reimburses the recipient by electronic funds transfer or check after approval of the request by the grants officer designated to do so.
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
 
 (d) *Forms for requesting payment.* DoD Components may authorize recipients to use the SF-270,1 “Request for Advance or Reimbursement;” the SF-271,2 “Outlay Report and Request for Reimbursement for Construction Programs;” or prescribe other forms or formats as necessary.
 
-1 For copies of Standard Forms listed in this part, contact regional grants administration offices of the Office of Naval Research. Addresses for the offices are listed in the “DoD Directory of Contract Administration Services Components,” DLAH 4105.4, which can be obtained from either: Defense Logistics Agency, Publications Distribution Division (DASC-WDM), 8725 John J. Kingman Rd., Suite 0119, Fort Belvoir, VA 22060-6220; or the Defense Contract Management Command home page at *http://www.dcmc.dcrb.dla.mil.*
+1 For copies of Standard Forms listed in this part, contact regional grants administration offices of the Office of Naval Research. Addresses for the offices are listed in the “Federal Directory of Contract Administration Services (CAS) Components,” which is available through the “CAS Directory” link at the Defense Contract Management Agency homepage (*http://www.dcma.mil*).
 
 2 See footnote 1 to this paragraph (d).
 
@@ -43,3 +41,5 @@ Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
 (1) A recipient has failed to comply with project objectives, the terms and conditions of the award, or Federal reporting requirements, in which case the grants officer may suspend payments in accordance with § 34.52.
 
 (2) The recipient is delinquent on a debt to the United States (see definitions of “debt” and “delinquent debt” in 32 CFR 22.105). In that case, the grants officer may, upon reasonable notice, withhold payments for obligations incurred after a specified date, until the debt is resolved.
+
+[63 FR 12204, Mar. 12, 1998, as amended at 85 FR 51244, Aug. 19, 2020]

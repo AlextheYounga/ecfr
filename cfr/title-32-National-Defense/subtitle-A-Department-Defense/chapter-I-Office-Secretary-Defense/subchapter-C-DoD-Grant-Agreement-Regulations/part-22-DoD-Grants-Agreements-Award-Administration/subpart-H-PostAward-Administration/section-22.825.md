@@ -1,14 +1,6 @@
 ##### § 22.825 Closeout audits. #####
 
-Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
-
-(a) *Purpose.* This section establishes DoD policy for obtaining audits at closeout of individual grants and cooperative agreements. It thereby supplements the closeout procedures specified in:
-
-(1) 32 CFR 32.71 and 32.72, for awards to institutions of higher education and other nonprofit organizations.
-
-(2) 32 CFR 33.50 and 33.51, for awards to State and local governments.
-
-(3) 32 CFR 34.61 and 34.62, for awards to for-profit entities.
+(a) *Purpose.* This section establishes DoD policy for obtaining audits at closeout of individual grants and cooperative agreements.
 
 (b) *Policy.* Grants officers shall use their judgment on a case-by-case basis, in deciding whether to obtain an audit prior to closing out a grant or cooperative agreement (i.e., there is no specific DoD requirement to obtain an audit prior to doing so). Factors to be considered include:
 
@@ -18,4 +10,6 @@ Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
 
 (i) Audits of individual awards; or
 
-(ii) Systems-wide financial audits and audits of the compliance of the recipient's systems with Federal requirements, under OMB Circular A-133, where that Circular is applicable. (See § 22.715(a)(1)).
+(ii) Systems-wide financial audits and audits of the compliance of the recipient's systems with Federal requirements, under OMB guidance in subpart F of 2 CFR part 200, where that guidance is applicable. (See § 22.715(a)(1)).
+
+[63 FR 12164, Mar. 12, 1998, as amended at 85 FR 51244, Aug. 19, 2020]

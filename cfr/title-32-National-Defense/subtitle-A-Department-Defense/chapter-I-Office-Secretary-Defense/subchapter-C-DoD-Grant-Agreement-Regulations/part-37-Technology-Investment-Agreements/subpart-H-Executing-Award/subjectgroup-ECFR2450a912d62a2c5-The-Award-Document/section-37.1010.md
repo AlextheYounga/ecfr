@@ -1,7 +1,5 @@
 ##### § 37.1010 What substantive issues should my award document address? #####
 
-Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
-
 You necessarily will design and negotiate a TIA individually to meet the specific requirements of the particular project, so the complete list of substantive issues that you will address in the award document may vary. Every award document must address:
 
 (a) *Project scope.* The scope is an overall vision statement for the project, including a discussion of the project's purpose, objectives, and detailed military and commercial goals. It is a critical provision because it provides a context for resolving issues that may arise during post-award administration. In a fixed-support TIA, you also must clearly specify the well-defined outcomes that reliably indicate the amount of effort expended and serve as the basis for the level of the fixed support (*see* §§ 37.305 and 37.560(a)).
@@ -34,7 +32,7 @@ You necessarily will design and negotiate a TIA individually to meet the specifi
 
 (k) *Allowable costs.* If the TIA is an expenditure-based award, you must specify the standards that both for-profit and nonprofit participants are to use to determine which costs may be charged to the project, in accordance with §§ 37.625 through 37.635, as well as § 37.830.
 
-(l) *Audits.* If your TIA is an expenditure-based award, you must include an audit provision for both for-profit and nonprofit participants and subrecipients, in accordance with §§ 37.640 through 37.670 and § 37.680.
+(l) *Audits.* If your TIA is an expenditure-based award, you must include an audit provision for both for-profit and nonprofit participants and subrecipients, in accordance with §§ 37.640 through 37.670.
 
 (m) *Purchasing system standards.* You should include a provision specifying the standards in §§ 37.705 and 37.710 for purchasing systems of for-profit and nonprofit participants, respectively.
 
@@ -45,3 +43,5 @@ You necessarily will design and negotiate a TIA individually to meet the specifi
 (p) *Assurances for applicable national policy requirements.* You must incorporate assurances of compliance with applicable requirements in Federal statutes, Executive orders, or regulations (except for national policies that require certifications). Appendix D to this part contains a list of commonly applicable requirements that you need to augment with any specific requirements that apply in your particular circumstances (*e.g.,* general provisions in the appropriations act for the specific funds that you are obligating).
 
 (q) *Other routine matters.* The agreement should address any other issues that need clarification, including who in the Government will be responsible for post-award administration and the statutory authority or authorities for entering into the TIA (*see* appendix B to this part for a discussion of statutory authorities). In addition, the agreement must specify that it takes precedence over any inconsistent terms and conditions in collateral documents such as attachments to the TIA or the recipient's articles of collaboration.
+
+[68 FR 47160, Aug. 7, 2003, as amended at 85 FR 51246, Aug. 19, 2020]

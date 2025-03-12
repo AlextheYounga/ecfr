@@ -1,0 +1,3 @@
+##### § 1108.250 Management decision. #####
+
+*Management decision* means a written decision issued to an audited entity by a DoD Component, another Federal agency that has audit or indirect cost cognizance or oversight responsibilities for the audited entity, or a recipient or subrecipient from which the audited entity received an award or subaward. The DoD Component, cognizant or oversight agency, recipient, or subrecipient issues the management decision to specify the corrective actions that are necessary after evaluating the audit findings and the audited entity's corrective action plan.

@@ -1,7 +1,5 @@
 ##### § 34.15 Revision of budget and program plans. #####
 
-Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
-
 (a) The budget plan is the financial expression of the project or program as approved during the award process. It may include either the sum of the Federal and non-Federal shares, or only the Federal share, depending upon DoD Component requirements. It shall be related to performance for program evaluation purposes whenever appropriate.
 
 (b) Recipients are required to report deviations from budget and program plans, and request prior approvals for budget and program plan revisions, in accordance with this section.
@@ -30,8 +28,10 @@ Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
 
 (3) The recipient also must obtain the grants officer's prior approval when a revision is necessary for either of the following reasons, if specifically required in the terms and conditions of the award document (i.e., if the award document is silent, these prior approvals are not required):
 
-(i) The transfer of funds among direct cost categories, functions and activities for awards in which the Federal share of the project exceeds $100,000 and the cumulative amount of such transfers exceeds or is expected to exceed 10 percent of the total budget as last approved by the DoD Component. No DoD Component shall permit a transfer that would cause any Federal appropriation or part thereof to be used for purposes other than those consistent with the original intent of the appropriation.
+(i) The transfer of funds among direct cost categories, functions and activities for awards in which the Federal share of the project exceeds the simplified acquisition threshold and the cumulative amount of such transfers exceeds or is expected to exceed 10 percent of the total budget as last approved by the DoD Component. No DoD Component shall permit a transfer that would cause any Federal appropriation or part thereof to be used for purposes other than those consistent with the original intent of the appropriation.
 
 (ii) For awards that provide support for both construction and nonconstruction work, any fund or budget transfers between the two types of work supported.
 
 (d) Within 30 calendar days from the date of receipt of the recipient's request for budget revisions, the grants officer shall review the request and notify the recipient whether the budget revisions have been approved. If the revision is still under consideration at the end of 30 calendar days, the grants officer shall inform the recipient in writing of the date when the recipient may expect the decision.
+
+[63 FR 12204, Mar. 12, 1998, as amended at 85 FR 51244, Aug. 19, 2020]

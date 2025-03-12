@@ -1,0 +1,3 @@
+##### § 1128.300 Purpose of FMS Article III. #####
+
+FMS Article III of the general terms and conditions specifies what costs are allowable as charges to awards and when they are allowable. It also specifies restrictions on payment of fee or profit. It thereby implements OMB guidance in §§ 200.209 and 200.309 and Subpart E of 2 CFR part 200. It also partially implements 2 CFR 200.201(b)(1) and 200.323(c), as those sections apply to the cost principles to be used in relation to subawards and contracts, respectively.

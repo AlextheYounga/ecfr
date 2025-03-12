@@ -1,0 +1,3 @@
+##### § 1108.45 Applied research. #####
+
+*Applied research* means efforts that attempt to determine and exploit the potential of scientific discoveries or improvements in technology, such as new materials, devices, methods and processes. It typically is funded in Applied Research (Budget Activity 2) programs within DoD's Research, Development, Test and Evaluation (RDT&E) appropriations. Applied research often follows basic research but may not be fully distinguishable from the related basic research. The term does not include efforts whose principal aim is the design, development, or testing of specific products, systems or processes to be considered for sale or acquisition, efforts that are within the definition of “development.”

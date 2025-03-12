@@ -1,0 +1,3 @@
+##### § 1122.3 Definition of other terms as they are used in this part. #####
+
+Because the meaning of some terms used in this part derive from their definitions in the statutes, Executive orders, or other sources of national policy requirements that this part implements, the meanings of those terms may vary from their meanings in other parts of the DoD Grant and Agreement Regulations. For example, some statutes define “State*”* in ways that differ from each other and from the definition provided in 2 CFR part B. In each case, the definition in the source of the pertinent national policy requirement takes precedence over the definition in 2 CFR part B for the purposes of complying with that requirement.

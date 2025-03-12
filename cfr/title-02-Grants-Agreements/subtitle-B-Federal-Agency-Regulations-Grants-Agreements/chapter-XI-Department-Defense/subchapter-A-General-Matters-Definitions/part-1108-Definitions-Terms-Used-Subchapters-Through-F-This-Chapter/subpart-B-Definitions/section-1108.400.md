@@ -1,0 +1,3 @@
+##### § 1108.400 Unobligated balance. #####
+
+*Unobligated balance* means the amount of funds under an award or subaward that the recipient or subrecipient has not obligated. The amount is computed by subtracting the cumulative amount of the recipient's or subrecipient's unliquidated obligations and expenditures of funds from the cumulative amount of funds that it was authorized to obligate under the award or subaward.

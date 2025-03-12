@@ -1,0 +1,7 @@
+##### § 1134.130 Requesting extensions of due dates for performance reports. #####
+
+(a) *OMB guidance.* OMB guidance in 2 CFR 200.328(b)(1) states that, if a recipient submits a justified request for an extension in the due date for any interim or final performance report under a grant or cooperative agreement, an agency may extend the due date.
+
+(b) *DoD implementation.* A DoD Component's general terms and conditions for non-construction awards must specify that a recipient may request an extension of the due date for interim or final performance reports. DoD Components should grant requests that provide adequate justification. For a DoD Component that pre-approves a 30-day extension of due dates for final performance reports in its general terms and conditions, as described in § 1134.125(b)(1)(ii) and (c)(1)(ii), any award-specific extensions would be beyond the pre-approved 30-day extension.
+
+(c) *Award terms and conditions.* To implement the provisions of paragraphs (a) and (b) of this section, a DoD Component's general terms and conditions for non-construction awards must include the wording that appendix A to this part provides for Section D of REP Article I on extensions of performance reporting due dates.

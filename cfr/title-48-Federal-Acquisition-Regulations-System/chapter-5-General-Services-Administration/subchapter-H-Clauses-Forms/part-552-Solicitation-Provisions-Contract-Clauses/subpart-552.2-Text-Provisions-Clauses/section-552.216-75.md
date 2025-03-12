@@ -1,8 +1,6 @@
 ##### 552.216-75 Transactional Data Reporting. #####
 
-Link to an amendment published at 85 FR 50959, Aug. 19, 2020.
-
-As prescribed in 516.506(d), insert the following provision:
+As prescribed in 516.506(c), insert the following provision:
 
 Transactional Data Reporting (JUN 2016)
 
@@ -70,4 +68,4 @@ The Contracting Officer may add data elements to the standard elements listed in
 
 (4) The Contractor's failure to remit the full amount of the CAF within the specified deadline constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or offsetting payments and interest on the debt (see FAR clause 52.232-17, Interest). If the Contractor fails to submit the required sales reports, falsifies them, or fails to timely pay the CAF, these reasons constitute sufficient cause for the Government to terminate the contract for cause.
 
-(End of Provision)[81 FR 41137, June 23, 2016]
+(End of Provision)[81 FR 41137, June 23, 2016, as amended at 85 FR 50959, Aug. 19, 2020]

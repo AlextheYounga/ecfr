@@ -1,0 +1,3 @@
+##### § 1125.425 When do I check to see if a person is excluded or disqualified? #####
+
+In addition to the four instances identified in the OMB guidance at 2 CFR 180.425, you as a DoD Component official must check to see if a person is excluded or disqualified before you obligate additional funding (*e.g.*, through an incremental funding action) for a pre-existing grant or cooperative agreement with an institution of higher education, as provided in 32 CFR 22.520(e)(5).

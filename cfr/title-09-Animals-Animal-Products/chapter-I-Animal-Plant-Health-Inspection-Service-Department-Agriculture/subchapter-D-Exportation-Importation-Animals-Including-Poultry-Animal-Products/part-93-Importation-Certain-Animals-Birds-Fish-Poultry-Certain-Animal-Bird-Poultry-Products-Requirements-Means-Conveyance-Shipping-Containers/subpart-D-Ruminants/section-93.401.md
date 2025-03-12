@@ -1,7 +1,5 @@
 ##### § 93.401 General prohibitions; exceptions. #####
 
-Link to an amendment published at 85 FR 57952, Sept. 17, 2020.
-
 (a) No ruminant or product subject to the provisions of this part shall be brought into the United States except in accordance with the regulations in this part and part 94 of this subchapter;3 nor shall any such ruminant or product be handled or moved after physical entry into the United States before final release from quarantine or any other form of governmental detention except in compliance with such regulations. Notwithstanding any other provision of this subpart, the importation of any non-bovine ruminant that has been in a region listed in § 94.24(a) of this subchapter is prohibited. *Provided, however,* the Administrator may upon request in specific cases permit ruminants or products to be brought into or through the United States under such conditions as he or she may prescribe, when he or she determines in the specific case that such action will not endanger the livestock or poultry of the United States.
 
 3 Importations of certain animals from various regions are absolutely prohibited under part 94 because of specified diseases.
@@ -34,4 +32,6 @@ Link to an amendment published at 85 FR 57952, Sept. 17, 2020.
 
 (c) *Removal and loss of official identification devices.* Official identification devices are intended to provide permanent identification of livestock and to ensure the ability to find the source of animal disease outbreaks. Removal of these devices is prohibited except at the time of slaughter. If an official identification device is lost, and it is necessary to retag an animal with a new official number, every effort should be made to correlate the new official number with the previous official number of the animal.
 
-[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 68 FR 31940, May 29, 2003; 69 FR 64651, Nov. 8, 2004; 78 FR 72996, Dec. 4, 2013]
+(d) *Cleaning and disinfection prior to shipment.* A means of conveyance used to transport an animal to the United States in accordance with this subpart must be cleaned and disinfected in a manner specified within an import protocol prior to transport, unless an exemption has been granted by the Administrator.
+
+[55 FR 31495, Aug. 2, 1990, as amended at 59 FR 67614, Dec. 30, 1994. Redesignated and amended at 62 FR 56012, 56017, Oct. 28, 1997; 68 FR 6344, Feb. 7, 2003; 68 FR 31940, May 29, 2003; 69 FR 64651, Nov. 8, 2004; 78 FR 72996, Dec. 4, 2013; 85 FR 57952, Sept. 17, 2020]

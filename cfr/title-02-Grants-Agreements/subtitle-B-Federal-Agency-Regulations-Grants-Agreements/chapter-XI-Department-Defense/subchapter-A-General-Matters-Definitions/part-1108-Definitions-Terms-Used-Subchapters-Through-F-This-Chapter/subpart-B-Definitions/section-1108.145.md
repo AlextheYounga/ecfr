@@ -1,0 +1,3 @@
+##### § 1108.145 Debt. #####
+
+*Debt* means any amount of money or any property owed to a Federal agency by any person, organization, or entity except another United States Federal agency. Debts include any amounts due from insured or guaranteed loans, fees, leases, rents, royalties, services, sales of real or personal property, or overpayments, penalties, damages, interest, fines and forfeitures, and all other claims and similar sources. For the purposes of this chapter, amounts due a non-appropriated fund instrumentality are not debts owed the United States.

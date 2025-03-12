@@ -1,0 +1,3 @@
+##### § 1120.205 Organization and wording of award-specific terms and conditions. #####
+
+DoD Components should organize and word award-specific terms and conditions to make them as clear and easy to understand as possible for the benefit of recipients, award administrators, auditors, and others who may need to use them. The DoDGARs specify neither a standard organization nor standard wording for award-specific terms and conditions.

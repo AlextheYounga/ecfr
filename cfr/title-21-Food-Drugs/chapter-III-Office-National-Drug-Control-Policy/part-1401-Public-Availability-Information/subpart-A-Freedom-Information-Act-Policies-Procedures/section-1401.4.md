@@ -1,0 +1,3 @@
+##### § 1401.4 Access to information. #####
+
+The Office of National Drug Control Policy makes available information pertaining to matters issued, adopted, or promulgated by ONDCP, that are within the scope of 5 U.S.C. 552(a)(2). Such information is located at *https://www.whitehouse.gov/ondcp.* Included in that information are ONDCP's proactive disclosures. Proactive disclosures are records that have been requested three or more times, or that have been released to a requester and that ONDCP determines have become, or are likely to become, the subject of subsequent requests for substantially the same records.

@@ -1,10 +1,10 @@
 ##### § 93.400 Definitions. #####
 
-Link to an amendment published at 85 FR 57951, Sept. 17, 2020.
-
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
-*Accredited herd.* An accredited herd is one that has passed at least two consecutive annual official tuberculin tests and has no evidence of bovine tuberculosis. All animals in a herd must be free from tuberculosis.
+*Accredited herd for brucellosis.* A herd that meets APHIS' standards for accreditation for brucellosis status. Standards for accreditation are specified in import protocols.
+
+*Accredited herd for tuberculosis.* A herd that meets APHIS' standards for accreditation for bovine tuberculosis status. Standards for accreditation are specified in import protocols.
 
 *Accredited veterinarian.* A veterinarian approved by the Administrator in accordance with the provisions of part 161 of this title to perform functions specified in parts 1, 2, 3, and 11 of subchapter A, and subchapters B, C, and D of this chapter, and to perform functions required by cooperative state-federal disease control and eradication programs.
 
@@ -26,9 +26,9 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Bovine spongiform encephalopathy (BSE) minimal risk region.* A region listed in § 94.18(a)(3) of this subchapter.
 
-*Brucellosis certified free herd.* A herd in which all eligible cattle in the herd were negative to brucellosis tests under the Canadian requirements and which is officially certified by the Canadian Government as a brucellosis free listed herd.
+*Brucellosis.* Infection with or disease caused by *Brucella abortus.*
 
-*Brucellosis certified-free province or territory of Canada.* A province or territory of Canada in which all herds of cattle are brucellosis certified free. The brucellosis certified free provinces and territories of Canada are Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland (including Labrador), Northwest Territories, Nova Scotia, Ontario, Quebec, Prince Edward Island, Saskatchewan, and Yukon Territory.
+*Brucellosis certified free herd.* A herd in which all eligible cattle in the herd were negative to brucellosis tests under the Canadian requirements and which is officially certified by the Canadian Government as a brucellosis free listed herd.
 
 *Camelid.* All species of the family *Camelidae*, including camels, guanacos, llamas, alpacas, and vicunas.
 
@@ -52,15 +52,19 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Herd.* Any group of one or more animals maintained on common ground; or two or more groups of animals under common ownership or supervision on two or more premises that are geographically separated, but among which there is an interchange or movement of animals.
 
-*Herd of origin.* The herd within which an individual animal was born and raised and that was maintained on common ground for at least 4 months. For a group of one or more animals to qualify as a herd of origin for the purposes of § 93.406, animals may be added to the herd during or after the 4-month qualifying period only if they:
+*Herd of origin.* A herd of one or more sires and dams and their offspring from which animals in a consignment presented for export to the United States originate. The herd of origin may be the birth herd or the herd where the animal has resided for a minimum 4-month period immediately prior to movement, unless otherwise specified in an import criteria. Additional animals can be moved into a herd of origin during or after the 4-month qualifying period only if they:
 
-(1) Originated from a tuberculosis-free herd; or
+(1) Originate from an accredited herd; or
 
-(2) Originated from an accredited herd or originated from a herd of origin that tested negative to a whole herd test, and the individual cattle to be added to the herd also tested negative to any additional individual tests for tuberculosis required by the Administrator.
+(2) Originate from a herd of origin that tested negative to a whole herd test conducted within the last 12 months and the individual animals being moved into the herd also tested negative to any additional individual tests for tuberculosis and brucellosis required by the Administrator.
 
 *Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughtered within 2 weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the area veterinarian in charge for the State of destination of the shipment. The name and address of the area veterinarian in charge in any State is available from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import and Export, 4700 River Road Unit 39, Riverdale, MD 20737-1231.
+
+*Import protocol.* A document issued by APHIS and provided to officials of the competent veterinary authority of an exporting region that specifies in detail the mitigation measures that will comply with the regulations in this part regarding the import of certain animals or commodities.
+
+*Individual test.* A test for brucellosis or tuberculosis that is approved by the Administrator and that is administered individually in accordance with this part to ruminants that are susceptible to brucellosis or tuberculosis.
 
 *Inspector.* Any individual authorized by the Administrator of APHIS or the Commissioner of Customs and Border Protection, Department of Homeland Security, to enforce the regulations in this subpart.
 
@@ -72,11 +76,13 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Moved directly by land.* Moved by rail, truck, or other land vehicle without unloading and without stopping except for refueling, or for traffic conditions such as traffic lights or stop signs.
 
+*Non-negative test results.* Any test results for tuberculosis or brucellosis within the suspect, reactor, or positive range parameters of a pathogen assay that has been approved by the Administrator.
+
 *Nonquarantine area.* That area of a privately owned medium or minimum security quarantine facility that includes offices, storage areas, and other areas outside the quarantine area, and that is off limits to ruminants, samples taken from ruminants, and any other objects or substances that have been in the quarantine area during the quarantine of ruminants.
 
-*Official identification device or method.* A means of officially identifying an animal or group of animals using devices or methods approved by the Administrator, including, but not limited to, official tags, tattoos, and registered brands when accompanied by a certificate of inspection from a recognized brand inspection authority. For animals intended for importation into the United States, the device or method of identification used must have been approved by the Administrator for that type of import before the animal is exported to the United States.
+*Notifiable disease.* A disease for which confirmed or suspected occurrences within a region must be reported to the competent veterinary authority or other competent authority of that region.
 
-*Official tuberculin test.* A test for bovine tuberculosis that is approved by the Administrator as equivalent to the international standard test described in the Manual of Standards for Diagnostic Tests and Vaccines, Office International des Episodes, and that is administered and reported by a full-time salaried veterinary officer of the national government of the region of origin, or administered and reported by a veterinarian designated or accredited by the national government of the region of origin and endorsed by a full-time salaried veterinary officer of the national government of the region of origin, representing that the veterinarian issuing the certificate was authorized to do so.
+*Official identification device or method.* A means of officially identifying an animal or group of animals using devices or methods approved by the Administrator, including, but not limited to, official tags, tattoos, and registered brands when accompanied by a certificate of inspection from a recognized brand inspection authority. For animals intended for importation into the United States, the device or method of identification used must have been approved by the Administrator for that type of import before the animal is exported to the United States.
 
 *Officially identified.* Individually identified by means of an official identification device or method.
 
@@ -91,6 +97,8 @@ Wherever in this subpart the following terms are used, unless the context otherw
 *Positive for a transmissible spongiform encephalopathy.* A sheep or goat for which a diagnosis of a transmissible spongiform encephalopathy has been made.
 
 *Premises of origin.* Except as otherwise used in § 93.423 of this subpart, the premises where the animal was born.
+
+*Prevalence.* The number of affected herds occurring during the period specified in §§ 93.437 and 93.440. In some instances, the Administrator may allow calculation of prevalence based on affected herd-years to avoid penalizing regions with small herd numbers.
 
 *Privately owned medium security quarantine facility (medium security facility).* A facility that:
 
@@ -134,9 +142,13 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Ruminants.* All animals which chew the cud, such as cattle, buffaloes, sheep, goats, deer, antelopes, camels, llamas and giraffes.
 
+*Spayed heifer.* A female bovine that has been neutered in a manner otherwise approved by the Administrator and specified in an import protocol.
+
 *State representative.* A veterinarian or other person employed in livestock sanitary work by a State or political subdivision of a State who is authorized by such State or political subdivision of a State to perform the function involved under a memorandum of understanding with APHIS.
 
 *State veterinarian.* A veterinarian employed and authorized by a State or political subdivision of a State to perform the tasks required by this subpart.
+
+*Steer.* A sexually neutered male bovine.
 
 *Suspect for a transmissible spongiform encephalopathy.* (1) A sheep or goat that has tested positive for a transmissible spongiform encephalopathy or for the proteinase resistant protein associated with a transmissible spongiform encephalopathy, unless the animal is designated as positive for a transmissible spongiform encephalopathy; or
 
@@ -146,7 +158,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Temporary inspection facility.* A temporary facility that is constructed of metal panels that can be erected and broken down alongside the transportation vessel carrying ruminants that are imported into the United States in accordance with § 93.408 of this subpart and that will be quarantined at a minimum or medium security quarantine facilities located more than 1 mile from the port of entry.
 
-*Tuberculosis-free herd.* A herd which is not known to be infected with bovine tuberculosis (*M. bovis*) and which is certified by the Canadian Government as a tuberculosis-free herd.
+*Tuberculosis.* Infection with or disease caused by *Mycobacterium bovis.*
 
 *United States.* All of the States of the United States, the District of Columbia, Guam, Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, and all other Territories and Possessions of the United States.
 
@@ -154,11 +166,9 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Wether.* A castrated male sheep or goat.
 
-*Whole herd test.* An official tuberculin test of all cattle in a herd of origin that are 6 months of age or older, and of all cattle in the herd of origin that are less than 6 months of age and were not born into the herd of origin, except those cattle that are less than 6 months of age and:
+*Whole herd test for brucellosis.* A brucellosis test that has been approved by APHIS of all sexually intact bovines in a herd of origin that are 6 months of age or older, and of all sexually intact bovines in the herd of origin that are less than 6 months of age and were not born into the herd of origin, except those sexually intact bovines that are less than 6 months of age and originate directly from a currently accredited herd for brucellosis.
 
-(1) Were born in and originated from a tuberculosis-free herd; or
-
-(2) Were born in and originated from an accredited herd or originated from a herd of origin that has tested negative to a whole herd test, and the individual cattle have tested negative to any additional individual tests for tuberculosis required by the Administrator.
+*Whole herd test for tuberculosis.* A tuberculosis test that has been approved by APHIS of all bovines in a herd of origin that are 6 months of age or older, and of all bovines in the herd of origin that are less than 6 months of age and were not born into the herd of origin, except those bovines that are less than 6 months of age and originate directly from a currently accredited herd for tuberculosis.
 
 *World Organization for Animal Health (OIE).* The international organization recognized by the World Trade Organization for setting animal health standards, reporting global animal situations and disease status, and presenting guidelines and recommendations on sanitary measures related to animal health.
 

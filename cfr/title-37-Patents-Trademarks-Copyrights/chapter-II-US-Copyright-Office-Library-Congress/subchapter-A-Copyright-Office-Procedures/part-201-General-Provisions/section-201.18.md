@@ -26,7 +26,7 @@
 
 (8) For the purposes of this section, a digital phonorecord delivery shall be treated as a type of phonorecord configuration, and a digital phonorecord delivery shall be treated as a phonorecord manufactured, made, and distributed on the date the phonorecord is digitally transmitted.
 
-(b) *Agent.* An agent who has been authorized to accept Notices of Intention in accordance with paragraph (a)(6) of this section and who has received a Notice of Intention on behalf of a copyright owner shall provide within two weeks of the receipt of that Notice of Intention the name and address of the copyright owner or its agent upon whom the person or entity intending to obtain the compulsory license shall serve Statements of Account and the monthly royalty in accordance with § 210.16(g) of this chapter.
+(b) *Agent.* An agent who has been authorized to accept Notices of Intention in accordance with paragraph (a)(6) of this section and who has received a Notice of Intention on behalf of a copyright owner shall provide within two weeks of the receipt of that Notice of Intention the name and address of the copyright owner or its agent upon whom the person or entity intending to obtain the compulsory license shall serve Statements of Account and the monthly royalty in accordance with § 210.6(g) of this chapter.
 
 (c) *Form.* The Copyright Office does not provide physical printed forms for the use of persons serving or filing Notices of Intention, but Notices filed electronically must be submitted to the Office in the form and manner prescribed in instructions on the Office's website.
 

@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 85 FR 57987, Sept. 17, 2020.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -208,7 +206,7 @@ VMS Demarcation Line
 
 (h) *Call-in notification.* The owner of a vessel issued a limited access monkfish permit who is participating in a DAS program and who is not required to provide notification using a VMS, and a scallop vessel qualifying for a DAS allocation under the occasional category that has not elected to fish under the VMS notification requirements of paragraph (e) of this section and is not participating in the Sea Scallop Area Access program as specified in § 648.59, and any vessel that may be required by the Regional Administrator to use the call-in program under paragraph (i) of this section, are subject to the following requirements:
 
-(1) Less than 1 hr prior to leaving port, for vessels issued a limited access NE multispecies DAS permit or, for vessels issued a limited access NE multispecies DAS permit and a limited access monkfish permit (Category C, D, F, G, or H), unless otherwise specified in paragraph (h) of this section, or an occasional scallop permit as specified in this paragraph (h), and, prior to leaving port for vessels issued a limited access monkfish Category A or B permit, the vessel owner or authorized representative must notify the Regional Administrator that the vessel will be participating in the DAS program by calling the call-in system and providing the following information:
+(1) Less than 1 hr prior to leaving port, for vessels issued a limited access NE multispecies DAS permit or, for vessels issued a limited access NE multispecies DAS permit and a limited access monkfish permit (Category C, D, F, G, or H), unless otherwise specified in paragraph (h) of this section, or an occasional scallop permit as specified in this paragraph (h), and, less than 1 hr prior to leaving port, for vessels issued a limited access monkfish Category A or B permit, the vessel owner or authorized representative must notify the Regional Administrator that the vessel will be participating in the DAS program by calling the call-in system and providing the following information:
 
 (i) Owner and caller name and phone number;
 

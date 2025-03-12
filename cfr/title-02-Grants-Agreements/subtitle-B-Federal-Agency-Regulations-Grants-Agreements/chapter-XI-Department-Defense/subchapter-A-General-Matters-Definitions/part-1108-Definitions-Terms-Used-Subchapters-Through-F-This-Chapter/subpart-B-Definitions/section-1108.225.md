@@ -1,0 +1,3 @@
+##### § 1108.225 Indian tribe. #####
+
+*Indian tribe* means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. Chapter 33), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians (25 U.S.C. 450b(e)). See the annually published Bureau of Indian Affairs list of Indian Entities Recognized and Eligible to Receive Services.

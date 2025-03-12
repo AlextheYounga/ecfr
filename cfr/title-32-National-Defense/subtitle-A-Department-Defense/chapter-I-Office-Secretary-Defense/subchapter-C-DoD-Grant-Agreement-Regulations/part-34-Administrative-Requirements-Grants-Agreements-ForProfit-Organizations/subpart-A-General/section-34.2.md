@@ -1,7 +1,5 @@
 ##### § 34.2 Definitions. #####
 
-Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
-
 The following are definitions of terms as used in this part. Grants officers are cautioned that terms may be defined differently in this part than they are in other parts of the DoD Grant and Agreement Regulations (DoDGARs).
 
 *Advance.* A payment made by Treasury check or other appropriate payment mechanism to a recipient upon its request either before outlays are made by the recipient or through the use of predetermined payment schedules.
@@ -62,7 +60,7 @@ The following are definitions of terms as used in this part. Grants officers are
 
 *Research.* Basic, applied, and advanced research activities. *Basic research* is defined as efforts directed toward increasing knowledge or understanding in science and engineering. *Applied research* is defined as efforts that attempt to determine and exploit the potential of scientific discoveries or improvements in technology, such as new materials, devices, methods, and processes. “Advanced research,” advanced technology development that creates new technology or demonstrates the viability of applying existing technology to new products and processes in a general way, is most closely analogous to precommercialization or precompetitive technology development in the commercial sector (it does not include development of military systems and hardware where specific requirements have been defined).
 
-*Small award.* An award not exceeding the simplified acquisition threshold fixed at 41 U.S.C. 403(11) (currently $100,000).
+*Small award.* See the definition for this term in 2 CFR part 1108.
 
 *Small business concern.* A concern, including its affiliates, that is independently owned and operated, not dominant in the field of operation in which it has applied for an award, and qualified as a small business under the criteria and size standards in 13 CFR part 121. For more details, grants officers should see 48 CFR part 19 in the “Federal Acquisition Regulation.”
 
@@ -84,4 +82,4 @@ The following are definitions of terms as used in this part. Grants officers are
 
 *Unobligated balance.* The portion of the funds authorized by a DoD Component that has not been obligated by the recipient and is determined by deducting the cumulative obligations from the cumulative funds authorized.
 
-[63 FR 12204, Mar. 12, 1998, as amended at 68 FR 47160, Aug. 7, 2003; 72 FR 34998, June 26, 2007]
+[63 FR 12204, Mar. 12, 1998, as amended at 68 FR 47160, Aug. 7, 2003; 72 FR 34998, June 26, 2007; 85 FR 51244, Aug. 19, 2020]

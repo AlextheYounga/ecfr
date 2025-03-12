@@ -1,10 +1,8 @@
 ##### § 37.895 How is the final performance report to be sent to the Defense Technical Information Center? #####
 
-Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+(a) Whether your TIA requires a final performance report or uses an alternative means under § 37.890,5 you may include an award term or condition or otherwise instruct the recipient to submit the documentation, electronically if available, either:
 
-(a) Whether your TIA requires a final performance report or uses an alternative means under § 37.890,8 you may include an award term or condition or otherwise instruct the recipient to submit the documentation, electronically if available, either:
-
-8 Additional information on electronic submission to the DTIC can be found online, currently at *http://www.dtic.mil/dtic/submitting/elec\_subm.html.*
+5 Additional information on electronic submission to the DTIC can be found online, currently at *http://www.dtic.mil/dtic/submitting/elec\_subm.html.*
 
 (1) Directly to the DTIC; or
 
@@ -15,3 +13,5 @@ Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
 (1) Must instruct the recipient to include a fully completed Standard Form 298, “Report Documentation Page,” with each document, so that the DTIC can recognize the document as being related to the particular award and properly record its receipt; and
 
 (2) Should advise the recipient to provide a copy of the completed Standard Form 298 to the agreements officer responsible for administering the TIA.
+
+[68 FR 47160, Aug. 7, 2003, as amended at 85 FR 51246, Aug. 19, 2020]
