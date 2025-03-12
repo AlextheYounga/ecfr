@@ -1,7 +1,5 @@
 ##### § 1.9030 Long-term de facto transfer leasing arrangements. #####
 
-Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
-
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a long-term *de facto* transfer leasing arrangement in which the licensee retains *de jure* control of the license while *de facto* control of the leased spectrum is transferred to the spectrum lessee for the duration of the spectrum leasing arrangement, subject to prior Commission consent pursuant to the application procedures set forth in this section. A “long-term” *de facto* transfer leasing arrangement has an individual term, or series of combined terms, of more than one year. The term of a long-term *de facto* transfer leasing arrangement may be no longer than the term of the license authorization.
 
 (b) *Rights and responsibilities of the licensee.* (1) Except as provided in paragraph (b)(2) of this section, the licensee is relieved of primary and direct responsibility for ensuring that the spectrum lessee's operations comply with the Communications Act and Commission policies and rules.
@@ -82,9 +80,11 @@ Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
 
 (A) The license does not involve spectrum licensed in a Wireless Radio Service that may be used to provide interconnected mobile voice and/or data services under the applicable service rules and that would, if the spectrum leasing arrangement were consummated, create a geographic overlap with spectrum in any licensed Wireless Service (including the same service) in which the proposed spectrum lessee already holds a direct or indirect interest of 10% or more (*see* § 1.2112), either as a licensee or a spectrum lessee, and that could be used by the spectrum lessee to provide interconnected mobile voice and/or data services;
 
-(B) The licensee is not a designated entity or entrepreneur subject to unjust enrichment requirements and/or transfer restrictions under applicable Commission rules (*see* §§ 1.2110 and 1.2111, and §§ 24.709, 24.714, and 24.839 of this chapter); and,
+(B) The licensee is not a designated entity or entrepreneur subject to unjust enrichment requirements and/or transfer restrictions under applicable Commission rules (*see* §§ 1.2110 and 1.2111, and §§ 24.709, 24.714, and 24.839 of this chapter);
 
-(C) The spectrum leasing arrangement does not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules.
+(C) The spectrum leasing arrangement does not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules; and
+
+(D) The application does not involve a transaction in the Enhanced Competition Incentive Program (see subpart EE of this part).
 
 (ii) A lessee of spectrum used in a Contraband Interdiction System qualifies for these immediate approval procedures if the application is sufficiently complete and contains all necessary information and certifications (including those relating to eligibility, basic qualifications, and foreign ownership) required for applications processed under the general application procedures set forth in paragraph (e)(1)(i) of this section, and must not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules.
 
@@ -118,4 +118,4 @@ Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
 
 (m) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017; 84 FR 66760, Dec. 5, 2019; 84 FR 57364, Oct. 25, 2019]
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77554, Dec. 27, 2004; 80 FR 56816, Sept. 18, 2015; 82 FR 22760, May 18, 2017; 84 FR 66760, Dec. 5, 2019; 84 FR 57364, Oct. 25, 2019; 87 FR 57417, Sept. 20, 2022]

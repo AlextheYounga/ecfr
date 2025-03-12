@@ -14,7 +14,7 @@
 
 (ii) When the Secretary receives a waiver request under paragraph (a)(3)(i) of this section, the Secretary may grant or deny the waiver, require another institutional official to take the training, or require alternative training.
 
-(b) *Period of participation.* (1) If the Secretary certifies that an institution meets the standards of this subpart, the Secretary also specifies the period for which the institution may participate in a title IV, HEA program. An institution's period of participation expires no more than six years after the date that the Secretary certifies that the institution meets the standards of this subpart, except that -
+(b) *Period of participation.* (1) If the Secretary certifies that an institution meets the standards of this subpart, the Secretary also specifies the period for which the institution may participate in a title IV, HEA program. An institution's period of participation expires no more than six years after the date that the Secretary certifies that the institution meets the standards of this subpart, except that—
 
 (i) The period of participation for a private, for profit foreign institution expires three years after the date of the Secretary's certification; and
 
@@ -24,13 +24,13 @@
 
 (3) In the event that the Secretary does not make a determination to grant or deny certification within 12 months of the expiration of its current period of participation, the institution will automatically be granted renewal of certification, which may be provisional.
 
-(c) *Provisional certification.* (1)(i) The Secretary may provisionally certify an institution if -
+(c) *Provisional certification.* (1)(i) The Secretary may provisionally certify an institution if—
 
 (A) The institution seeks initial participation in a Title IV, HEA program;
 
 (B) The institution is an eligible institution that has undergone a change in ownership that results in a change in control according to the provisions of 34 CFR part 600;
 
-(C) The institution is a participating institution -
+(C) The institution is a participating institution—
 
 (*1*) That is applying for a certification that the institution meets the standards of this subpart;
 
@@ -40,23 +40,23 @@
 
 (D) The institution seeks a renewal of participation in a Title IV, HEA program after the expiration of a prior period of participation in that program;
 
-(E) The institution is a participating institution that was accredited or preaccredited by a nationally recognized accrediting agency on the day before the Secretary withdrew the Secretary's recognition of that agency according to the provisions contained in 34 CFR part 603; or
+(E) The institution is a participating institution that was accredited or preaccredited by a nationally recognized accrediting agency on the day before the Secretary withdrew the Secretary's recognition of that agency according to the provisions contained in 34 CFR part 602; or
 
 (F) The institution is a participating institution that has been provisionally recertified under the automatic recertification requirement in paragraph (b)(3) of this section.
 
 (ii) A proprietary institution's certification automatically becomes provisional at the start of a fiscal year after it did not derive at least 10 percent of its revenue for its preceding fiscal year from sources other than Title IV, HEA program funds, as required under § 668.14(b)(16).
 
-(2) If the Secretary provisionally certifies an institution, the Secretary also specifies the period for which the institution may participate in a Title IV, HEA program. Except as provided in paragraphs (c) (3) and (4) of this section, a provisionally certified institution's period of participation expires -
+(2) If the Secretary provisionally certifies an institution, the Secretary also specifies the period for which the institution may participate in a Title IV, HEA program. Except as provided in paragraphs (c) (3) and (4) of this section, a provisionally certified institution's period of participation expires—
 
-(i) Not later than the end of the first complete award year following the date on which the Secretary provisionally certified the institution under paragraph (c)(1)(i) of this section;
+(i) Not later than the end of the first complete award year following the date on which the Secretary provisionally certified the institution under paragraph (c)(1)(i)(A) of this section;
 
-(ii) Not later than the end of the third complete award year following the date on which the Secretary provisionally certified the institution under paragraphs (c)(1)(ii), (iii), (iv) or (e)(2) of this section; and
+(ii) Not later than the end of the third complete award year following the date on which the Secretary provisionally certified the institution under paragraphs (c)(1)(i)(B), (C), and (D) or paragraph (c)(1)(ii) of this section; and
 
-(iii) If the Secretary provisionally certified the institution under paragraph (c)(1)(v) of this section, not later than 18 months after the date that the Secretary withdrew recognition from the institutions nationally recognized accrediting agency.
+(iii) If the Secretary provisionally certified the institution under paragraph (c)(1)(i)(E) of this section, not later than 18 months after the date that the Secretary withdrew recognition from the institution's nationally recognized accrediting agency.
 
 (3) Notwithstanding the maximum periods of participation provided for in paragraph (c)(2) of this section, if the Secretary provisionally certifies an institution, the Secretary may specify a shorter period of participation for that institution.
 
-(4) For the purposes of this section, “provisional certification” means that the Secretary certifies that an institution has demonstrated to the Secretary's satisfaction that the institution -
+(4) For the purposes of this section, “provisional certification” means that the Secretary certifies that an institution has demonstrated to the Secretary's satisfaction that the institution—
 
 (i) Is capable of meeting the standards of this subpart within a specified period; and
 
@@ -72,7 +72,7 @@
 
 (3)(i) An institution may request reconsideration of a revocation under this section by submitting to the Secretary, within 20 days of the institution's receipt of the Secretary's notice, written evidence that the revocation is unwarranted. The institution must file the request with the Secretary by hand-delivery, mail, or electronic transmission.
 
-(ii) The filing date of the request is the date on which the request is -
+(ii) The filing date of the request is the date on which the request is—
 
 (A) Hand-delivered;
 
@@ -84,7 +84,7 @@
 
 (4)(i) The designated department official making the decision concerning an institution's request for reconsideration of a revocation is different from, and not subject to supervision by, the official who initiated the revocation of the institution's provisional certification. The deciding official promptly considers an institution's request for reconsideration of a revocation and notifies the institution, by certified mail, return receipt requested, of the final decision. The Secretary also may transmit the notice by other, more expeditious means, if practical.
 
-(ii) If the Secretary determines that the revocation is warranted, the Secretary's notice informs the institution that the institution may apply for reinstatement of participation only after the later of the expiration of -
+(ii) If the Secretary determines that the revocation is warranted, the Secretary's notice informs the institution that the institution may apply for reinstatement of participation only after the later of the expiration of—
 
 (A) Eighteen months after the effective date of the revocation; or
 
@@ -94,4 +94,4 @@
 
 (5) The mailing date of a notice of revocation or a request for reconsideration of a revocation is the date evidenced on the original receipt of mailing from the U.S. Postal Service or another service that provides delivery confirmation for that document.
 
-(Approved by the Office of Management and Budget under control number 1845-0537)[59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010; 85 FR 54816, Sept. 2, 2020]
+(Approved by the Office of Management and Budget under control number 1845-0022)[59 FR 22424, Apr. 29, 1994, as amended at 59 FR 34964, July 7, 1994; 60 FR 34431, June 30, 1995; 62 FR 62876, Nov. 25, 1997; 63 FR 40623, July 29, 1998; 64 FR 58617, Oct. 29, 1999; 65 FR 65675, Nov. 1, 2000; 74 FR 55934, Oct. 29, 2009; 75 FR 67198, Nov. 1, 2010; 85 FR 54816, Sept. 2, 2020; 87 FR 63692, Oct. 20, 2022]

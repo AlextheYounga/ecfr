@@ -1,7 +1,5 @@
 ##### § 1.9020 Spectrum manager leasing arrangements. #####
 
-Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
-
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a spectrum manager leasing arrangement, without the need for prior Commission approval, provided that the licensee retains *de jure* control of the license and *de facto* control, as defined and explained in this subpart, of the leased spectrum. The licensee must notify the Commission of the spectrum leasing arrangement pursuant to the rules set forth in this section. The term of a spectrum manager leasing arrangement may be no longer than the term of the license authorization.
 
 (b) *Rights and responsibilities of the licensee.* (1) The licensee is directly and primarily responsible for ensuring the spectrum lessee's compliance with the Communications Act and applicable Commission policies and rules.
@@ -70,9 +68,11 @@ Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
 
 (A) The license does not involve spectrum that may be used to provide interconnected mobile voice and/or data services under the applicable service rules and that would, if the spectrum leasing arrangement were consummated, create a geographic overlap with spectrum in any licensed Wireless Radio Service (including the same service), or in the ATC of a Mobile Satellite Service, in which the proposed spectrum lessee already holds a direct or indirect interest of 10% or more (*see* § 1.2112), either as a licensee or a spectrum lessee, and that could be used by the spectrum lessee to provide interconnected mobile voice and/or data services;
 
-(B) The licensee is not a designated entity or entrepreneur subject to unjust enrichment requirements and/or transfer restrictions under applicable Commission rules (*see* §§ 1.2110 and 1.2111, and §§ 24.709, 24.714, and 24.839 of this chapter); and,
+(B) The licensee is not a designated entity or entrepreneur subject to unjust enrichment requirements and/or transfer restrictions under applicable Commission rules (*see* §§ 1.2110 and 1.2111, and §§ 24.709, 24.714, and 24.839 of this chapter);
 
-(C) The spectrum leasing arrangement does not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules.
+(C) The spectrum leasing arrangement does not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules; and
+
+(D) The application does not involve a transaction in the Enhanced Competition Incentive Program (see subpart EE of this part).
 
 (ii) A lessee of spectrum used in a Contraband Interdiction System qualifies for these immediate processing procedures if the notification is sufficiently complete and contains all necessary information and certifications (including those relating to eligibility, basic qualifications, and foreign ownership) required for notifications processed under the general notification procedures set forth in paragraph (e)(1)(i) of this section, and must not require a waiver of, or declaratory ruling pertaining to, any applicable Commission rules.
 
@@ -108,4 +108,4 @@ Link to an amendment published at 87 FR 57417, Sept. 20, 2022.
 
 (n) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77551, Dec. 27, 2004; 76 FR 31259, May 31, 2011; 80 FR 56816, Sept. 18, 2015; 81 FR 49065, July 26, 2016; 82 FR 22297, May 15, 2017; 82 FR 22759, May 18, 2017; 84 FR 66760, Dec. 5, 2019; 84 FR 57364, Oct. 25, 2019]
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 72027, Dec. 10, 2004; 69 FR 77551, Dec. 27, 2004; 76 FR 31259, May 31, 2011; 80 FR 56816, Sept. 18, 2015; 81 FR 49065, July 26, 2016; 82 FR 22297, May 15, 2017; 82 FR 22759, May 18, 2017; 84 FR 66760, Dec. 5, 2019; 84 FR 57364, Oct. 25, 2019; 87 FR 57417, Sept. 20, 2022]

@@ -1,5 +1,7 @@
 ##### § 429.110 Enforcement testing. #####
 
+Link to an amendment published at 87 FR 63895, Oct. 20, 2022.
+
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
 (2) DOE will select and test units pursuant to paragraphs (c) and (e) of this section.

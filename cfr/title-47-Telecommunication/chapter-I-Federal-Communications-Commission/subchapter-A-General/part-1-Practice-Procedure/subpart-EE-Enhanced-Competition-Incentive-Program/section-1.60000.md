@@ -1,0 +1,3 @@
+##### § 1.60000 Purpose. #####
+
+The purpose of this subpart is to implement the Enhanced Competition Incentive Program (ECIP), a program designed to incentivize Qualifying Transactions in the Wireless Radio Services to increase spectrum access for small carriers and Tribal Nations and to increase competition, and also facilitate the provision of advanced telecommunications services in rural areas by eligible entities.

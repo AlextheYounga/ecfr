@@ -6,7 +6,9 @@
 
 (3) In multi-story manufactured homes, the ceiling vapor retarder is permitted to be omitted when the story directly above is part of the same manufactured home.
 
-(b) *Exterior walls.* (1) Exterior walls must be provided with a system or method to manage moisture and vapor accumulation with one of the elements in paragraphs (b)(1) through (4) of this section. For purposes of the requirement in this paragraph (b), the fire separation wall between each attached manufactured home must be considered to be an exterior wall. See subpart K of this part.
+(b) *Exterior walls.* Exterior walls must be provided with a system or method to manage moisture and vapor accumulation with one of the elements in paragraphs (b)(1) through (4) of this section. For purposes of the requirement in this paragraph (b), the fire separation wall between each attached manufactured home must be considered to be an exterior wall. See subpart K of this part.
+
+(1) Exterior walls shall have a vapor barrier no greater than 1 perm (dry cup method) installed on the living space side of the wall, or
 
 (2) Unventilated wall cavities must have an external covering and/or sheathing that forms the pressure envelope. The covering and/or sheathing must have a combined permeance of not less than 5.0 perms. In the absence of test data, combined permeance is permitted to be computed using the following formula: P total = (1/[(1/P1) + (1/P2)]), where P1 and P2 are the permeance values of the exterior covering and sheathing in perms. Formed exterior siding applied in sections with joints not caulked or sealed, are not considered to restrict water vapor transmission; or
 

@@ -1,6 +1,6 @@
 ##### § 602.22 Substantive changes and other reporting requirements. #####
 
-(a)(1) If the agency accredits institutions, it must maintain adequate substantive change policies that ensure that any substantive change, as defined in this section, after the agency has accredited or preaccredited the institution does not adversely affect the capacity of the institution to continue to meet the agency's standards. The agency meets this requirement if -
+(a)(1) If the agency accredits institutions, it must maintain adequate substantive change policies that ensure that any substantive change, as defined in this section, after the agency has accredited or preaccredited the institution does not adversely affect the capacity of the institution to continue to meet the agency's standards. The agency meets this requirement if—
 
 (i) The agency requires the institution to obtain the agency's approval of the substantive change before the agency includes the change in the scope of accreditation or preaccreditation it previously granted to the institution; and
 
@@ -32,7 +32,7 @@
 
 (*4*) The institution had engaged in long-range planning for expansion.
 
-(J) Entering into a written arrangement under 34 CFR 668.5 under which an institution or organization not certified to participate in the title IV, HEA programs offers more than 25 and up to 50 percent of one or more of the accredited institution's educational programs.
+(J) Entering into a written arrangement under 34 CFR 668.5 under which an institution or organization not certified to participate in the title IV, HEA programs offers more than 25 percent but less than 50 percent of one or more of the accredited institution's educational programs.
 
 (K) Addition of each direct assessment program.
 
@@ -46,7 +46,7 @@
 
 (2) An aggregate change of 25 percent or more of the clock hours, credit hours, or content of a program since the agency's most recent accreditation review.
 
-(3) The development of customized pathways or abbreviated or modified courses or programs to -
+(3) The development of customized pathways or abbreviated or modified courses or programs to—
 
 (i) Accommodate and recognize a student's existing knowledge, such as knowledge attained through employment or military service; and
 
@@ -54,7 +54,7 @@
 
 (4) Entering into a written arrangement under 34 CFR 668.5 under which an institution or organization not certified to participate in the title IV, HEA programs offers up to 25 percent of one or more of the accredited institution's educational programs.
 
-(c) Institutions that have successfully completed at least one cycle of accreditation and have received agency approval for the addition of at least two additional locations as provided in paragraph (a)(1)(ii)(I) of this section, and that have not been placed on probation or equivalent status or been subject to a negative action by the agency over the prior three academic years, and that are not under a provisional certification, as provided in 34 CFR 668.13, need not apply for agency approval of subsequent additions of locations, and must report these changes to the accrediting agency within 30 days, if the institution has met criteria established by the agency indicating sufficient capacity to add additional locations without individual prior approvals, including, at a minimum, satisfactory evidence of a system to ensure quality across a distributed enterprise that includes -
+(c) Institutions that have successfully completed at least one cycle of accreditation and have received agency approval for the addition of at least two additional locations as provided in paragraph (a)(1)(ii)(I) of this section, and that have not been placed on probation or equivalent status or been subject to a negative action by the agency over the prior three academic years, and that are not under a provisional certification, as provided in 34 CFR 668.13, need not apply for agency approval of subsequent additions of locations, and must report these changes to the accrediting agency within 30 days, if the institution has met criteria established by the agency indicating sufficient capacity to add additional locations without individual prior approvals, including, at a minimum, satisfactory evidence of a system to ensure quality across a distributed enterprise that includes—
 
 (1) Clearly identified academic control;
 
@@ -70,9 +70,9 @@
 
 (e) The agency may determine the procedures it uses to grant prior approval of the substantive change. However, these procedures must specify an effective date, on which the change is included in the program's or institution's grant of accreditation or preaccreditation. The date of prior approval must not pre-date either an earlier agency denial of the substantive change, or the agency's formal acceptance of the application for the substantive change for inclusion in the program's or institution's grant of accreditation or preaccreditation. An agency may designate the date of a change in ownership as the effective date of its approval of that substantive change if the accreditation decision is made within 30 days of the change in ownership. Except as provided in paragraphs (d) and (f) of this section, an agency may require a visit before granting such an approval.
 
-(f) Except as provided in paragraph (c) of this section, if the agency's accreditation of an institution enables the institution to seek eligibility to participate in title IV, HEA programs, the agency's procedures for the approval of an additional location that is not a branch campus where at least 50 percent of an educational program is offered must include -
+(f) Except as provided in paragraph (c) of this section, if the agency's accreditation of an institution enables the institution to seek eligibility to participate in title IV, HEA programs, the agency's procedures for the approval of an additional location that is not a branch campus where at least 50 percent of an educational program is offered must include—
 
-(1) A visit, within six months, to each additional location the institution establishes, if the institution -
+(1) A visit, within six months, to each additional location the institution establishes, if the institution—
 
 (i) Has a total of three or fewer additional locations;
 
@@ -88,4 +88,4 @@
 
 (h) The agency's substantive change policy must define when the changes made or proposed by an institution are or would be sufficiently extensive to require the agency to conduct a new comprehensive evaluation of that institution.
 
-(Authority: 20 U.S.C. 1099b)[84 FR 58922, Nov. 1, 2019]
+(Authority: 20 U.S.C. 1099b)[84 FR 58922, Nov. 1, 2019, as amended at 87 FR 63692, Oct. 20, 2022]

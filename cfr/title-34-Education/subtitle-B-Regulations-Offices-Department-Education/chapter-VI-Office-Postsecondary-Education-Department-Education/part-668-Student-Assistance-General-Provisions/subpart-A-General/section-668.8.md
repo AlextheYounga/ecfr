@@ -64,7 +64,7 @@
 
 (4) For purposes of a proprietary institution of higher education only, is a program leading to a baccalaureate degree in liberal arts, as defined in 34 CFR 600.5(e), that -
 
-(i) Is provided by an institution that is accredited by a recognized regional accrediting agency or association, and has continuously held such accreditation since October 1, 2007, or earlier; and
+(i) Is provided by an institution that is accredited by a recognized accrediting agency or association that was defined as a regional accrediting agency or association on October 1, 2007, and has held such accreditation since October 1, 2007, or earlier; and
 
 (ii) The institution has provided continuously since January 1, 2009.
 
