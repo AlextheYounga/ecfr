@@ -1,8 +1,6 @@
 ##### § 412.634 Requirements under the Inpatient Rehabilitation Facility (IRF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
-
-(a) *Participation.* (1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system.
+(a) *Participation.*(1) For the FY 2018 payment determination and subsequent years, an IRF must begin reporting data under the IRF QRP requirements no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the IRF as operating in the CMS designated data submission system.
 
 (2) [Reserved]
 
@@ -54,7 +52,7 @@ Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
 
 (5) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(d) *Reconsideration.* (1) IRFs that do not meet the requirement in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: Quality Improvement and Evaluation System Assessment Submission and Processing (QIES ASAP) system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
+(d) *Reconsideration.* (1) IRFs that do not meet the requirement in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: The CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
 (2) Reconsideration requests must be submitted to CMS by sending an email to *IRFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
 
@@ -74,16 +72,16 @@ Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
 
 (4) Email is the only form of submission that will be accepted. Any reconsideration requests received through another channel will not be considered as a valid exception or extension request.
 
-(5) CMS will notify IRFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: QIES ASAP system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
+(5) CMS will notify IRFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC).
 
 (e) *Appeals.* (1) An IRF may appeal the decision made by CMS on its reconsideration request by filing with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
 (2) [Reserved]
 
-(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of required quality measures data and standardized patient assessment data collected using the IRF-PAI submitted through the QIES, and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
+(f) *Data Completion Thresholds.* (1) IRFs must meet or exceed two separate data completeness thresholds: One threshold set at 95 percent for completion of required quality measures data and standardized patient assessment data collected using the IRF-PAI submitted through the CMS designated data submission system; and a second threshold set at 100 percent for measures data collected and submitted using the CDC NHSN.
 
 (2) These thresholds (95 percent for completion of required quality measures data and standardized patient assessment data on the IRF-PAI; 100 percent for CDC NHSN data) will apply to all measures and standardized patient assessment data requirements adopted into the IRF QRP.
 
 (3) An IRF must meet or exceed both thresholds to avoid receiving a 2 percentage point reduction to their annual payment update for a given fiscal year, beginning with FY 2016 and for all subsequent payment updates.
 
-[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017; 83 FR 38573, Aug. 6, 2018]
+[80 FR 47138, Aug. 6, 2015, as amended at 81 FR 52140, Aug. 5, 2016; 82 FR 36305, Aug. 3, 2017; 83 FR 38573, Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019]

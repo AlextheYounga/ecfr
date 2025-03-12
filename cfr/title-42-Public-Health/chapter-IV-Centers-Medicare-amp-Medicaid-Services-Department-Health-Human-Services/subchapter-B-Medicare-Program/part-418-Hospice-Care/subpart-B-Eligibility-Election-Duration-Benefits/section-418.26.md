@@ -1,8 +1,6 @@
 ##### § 418.26 Discharge from hospice care. #####
 
-Link to an amendment published at 84 FR 38544, August 6, 2019.
-
-(a) *Reasons for discharge.* A hospice may discharge a patient if -
+(a) *Reasons for discharge.* A hospice may discharge a patient if—
 
 (1) The patient moves out of the hospice's service area or transfers to another hospice;
 
@@ -20,11 +18,11 @@ Link to an amendment published at 84 FR 38544, August 6, 2019.
 
 (b) *Discharge order.* Prior to discharging a patient for any reason listed in paragraph (a) of this section, the hospice must obtain a written physician's discharge order from the hospice medical director. If a patient has an attending physician involved in his or her care, this physician should be consulted before discharge and his or her review and decision included in the discharge note.
 
-(c) *Effect of discharge.* An individual, upon discharge from the hospice during a particular election period for reasons other than immediate transfer to another hospice -
+(c) *Effect of discharge.* An individual, upon discharge from the hospice during a particular election period for reasons other than immediate transfer to another hospice—
 
 (1) Is no longer covered under Medicare for hospice care;
 
-(2) Resumes Medicare coverage of the benefits waived under § 418.24(d); and
+(2) Resumes Medicare coverage of the benefits waived under § 418.24(e); and
 
 (3) May at any time elect to receive hospice care if he or she is again eligible to receive the benefit.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 38544, August 6, 2019.
 
 (e) *Filing a notice of termination of election.* When the hospice election is ended due to discharge, the hospice must file a notice of termination/revocation of election with its Medicare contractor within 5 calendar days after the effective date of the discharge, unless it has already filed a final claim for that beneficiary.
 
-[70 FR 70547, Nov. 22, 2005, as amended at 79 FR 50509, Aug. 22, 2014]
+[70 FR 70547, Nov. 22, 2005, as amended at 79 FR 50509, Aug. 22, 2014; 84 FR 38544, Aug. 6, 2019]

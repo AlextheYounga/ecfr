@@ -1,5 +1,7 @@
 ##### § 190.236 Emergency orders. #####
 
+Link to an amendment published at 84 FR 52027, Oct. 1, 2019.
+
 (a) *Determination of imminent hazard.* When the Administrator determines that a violation of a provision of the Federal pipeline safety laws, or a regulation or order prescribed under those laws, an unsafe condition or practice, or a combination of unsafe conditions and practices, constitutes or is causing an imminent hazard, as defined in § 190.3, the Administrator may issue or impose an emergency order, without advance notice or an opportunity for a hearing. The basis for any action taken under this section will be set forth in writing that describes:
 
 (1) The violation, condition, or practice that constitutes or is causing the imminent hazard;

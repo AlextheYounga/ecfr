@@ -1,0 +1,3 @@
+##### § 707.11 Scope and purpose. #####
+
+This part applies to all records in systems of records maintained by DFC that are retrievable by an individual's name or personal identifier. The rules in this part describe the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, or request an accounting of disclosures of records by DFC. These rules should be read in conjunction with the Privacy Act of 1974, 5 U.S.C. 552a, which provides additional information about records maintained on individuals.

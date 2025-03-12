@@ -1,5 +1,3 @@
-##### § 708.25 Who will conduct the hearing? #####
+##### § 708.25 Appointment of Administrative Judge. #####
 
-(a) The OHA Director will appoint a Administrative Judge from the Office of Hearings and Appeals to conduct a hearing.
-
-(b) The Administrative Judge may not be subject to the supervision or direction of the investigator.
+The OHA Director will appoint an Administrative Judge from the Office of Hearings and Appeals to conduct a hearing.

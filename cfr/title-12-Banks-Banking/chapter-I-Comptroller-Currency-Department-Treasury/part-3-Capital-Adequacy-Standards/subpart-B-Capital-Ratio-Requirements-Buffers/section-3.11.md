@@ -1,26 +1,24 @@
 ##### § 3.11 Capital conservation buffer and countercyclical capital buffer amount. #####
 
-Link to an amendment published at 84 FR 35249, July 22, 2019.
-
 (a) *Capital conservation buffer* - (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of a national bank or Federal savings association is the national bank's or Federal savings association's net income for the four calendar quarters preceding the current calendar quarter, based on the national bank's or Federal savings association's quarterly Call Reports, net of any distributions and associated tax effects not already reflected in net income.
+(i) *Eligible retained income.* The eligible retained income of a national bank or Federal savings association is the national bank's or Federal savings association's net income, calculated in accordance with the instructions to the Call Report, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income.
 
 (ii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that a national bank or Federal savings association can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum payout ratio is based on the national bank's or Federal savings association's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 3.11.
 
 (iii) *Maximum payout amount.* A national bank's or Federal savings association's maximum payout amount for the current calendar quarter is equal to the national bank's or Federal savings association's eligible retained income, multiplied by the applicable maximum payout ratio, as set forth in Table 1 to § 3.11.
 
-(iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, a MDB, a PSE, or a GSE.
+(iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the European Stability Mechanism, the European Financial Stability Facility, the International Monetary Fund, a MDB, a PSE, or a GSE.
 
-(3) *Calculation of capital conservation buffer.* (i) A national bank's or Federal savings association's capital conservation buffer is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter based on the national bank's or Federal savings association's most recent Call Report:
+(3) *Calculation of capital conservation buffer.* (i) A national bank's or Federal savings association's capital conservation buffer is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
 
-(A) The national bank's or Federal savings association's common equity tier 1 capital ratio minus the national bank's or Federal savings association's minimum common equity tier 1 capital ratio requirement under § 3.10;
+(A) The national bank or Federal savings association's common equity tier 1 capital ratio minus the national bank or Federal savings association 's minimum common equity tier 1 capital ratio requirement under § 3.10;
 
-(B) The national bank's or Federal savings association's tier 1 capital ratio minus the national bank's or Federal savings association's minimum tier 1 capital ratio requirement under § 3.10; and
+(B) The national bank or Federal savings association's tier 1 capital ratio minus the national bank or Federal savings association's minimum tier 1 capital ratio requirement under § 3.10; and
 
-(C) The national bank's or Federal savings association's total capital ratio minus the national bank's or Federal savings association's minimum total capital ratio requirement under § 3.10; or
+(C) The national bank or Federal savings association's total capital ratio minus the national bank or Federal savings association's minimum total capital ratio requirement under § 3.10; or
 
 (ii) Notwithstanding paragraphs (a)(3)(i)(A)-(C) of this section, if the national bank's or Federal savings association's common equity tier 1, tier 1 or total capital ratio is less than or equal to the national bank's or Federal savings association's minimum common equity tier 1, tier 1 or total capital ratio requirement under § 3.10, respectively, the national bank's or Federal savings association's capital conservation buffer is zero.
 
@@ -38,13 +36,13 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 Table 1 to § 3.11 - Calculation of Maximum Payout Amount
 
-|                                                                                                                                            Capital conservation buffer                                                                                                                                             |Maximum payout ratio  <br/>(as a percentage of eligible retained income)|
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-|                                                                                 Greater than 2.5 percent plus 100 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount                                                                                 |                  No payout ratio limitation applies.                   |
-|Less than or equal to 2.5 percent plus 100 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 1.875 percent plus 75 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|                              60 percent.                               |
-|Less than or equal to 1.875 percent plus 75 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 1.25 percent plus 50 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|                              40 percent.                               |
-|Less than or equal to 1.25 percent plus 50 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 0.625 percent plus 25 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|                              20 percent.                               |
-|                                                                            Less than or equal to 0.625 percent plus 25 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount                                                                            |                               0 percent.                               |
+|                                                                                                                                            Capital conservation buffer                                                                                                                                             |       Maximum payout ratio        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+|                                                                                 Greater than 2.5 percent plus 100 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount                                                                                 |No payout ratio limitation applies.|
+|Less than or equal to 2.5 percent plus 100 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 1.875 percent plus 75 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|            60 percent.            |
+|Less than or equal to 1.875 percent plus 75 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 1.25 percent plus 50 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|            40 percent.            |
+|Less than or equal to 1.25 percent plus 50 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount, and greater than 0.625 percent plus 25 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount|            20 percent.            |
+|                                                                            Less than or equal to 0.625 percent plus 25 percent of the national bank's or Federal savings association's applicable countercyclical capital buffer amount                                                                            |            0 percent.             |
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to a national bank or Federal savings association under subparts H and I of this part; 12 CFR 5.46, 12 CFR part 5, subpart E; 12 CFR part 6.
 
@@ -79,3 +77,5 @@ Table 1 to § 3.11 - Calculation of Maximum Payout Amount
 (vi) *Twelve month sunset.* The countercyclical capital buffer amount will return to zero percent 12 months after the effective date that the adjusted countercyclical capital buffer amount is announced, unless the OCC announces a decision to maintain the adjusted countercyclical capital buffer amount or adjust it again before the expiration of the 12-month period.
 
 (3) *Countercyclical capital buffer amount for foreign jurisdictions.* The OCC will adjust the countercyclical capital buffer amount for private sector credit exposures to reflect decisions made by foreign jurisdictions consistent with due process requirements described in paragraph (b)(2) of this section.
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35249, July 22, 2019]

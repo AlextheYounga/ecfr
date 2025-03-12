@@ -1,15 +1,17 @@
-##### § 708.21 What are the employee's options if the complaint cannot be resolved informally? #####
+##### § 708.21 Referral to the Office of Hearings and Appeals. #####
 
-(a) If the attempt at informal resolution is not successful, the Head of Field Element or EC Director (as applicable) will notify you in writing that you have the following options:
+(a) If a complaint is not dismissed for lack of jurisdiction or other good cause, the Head of Field Element or EC Director (as applicable) will forward the complaint to the OHA Director by the later of:
 
-(1) Request that your complaint be referred to the Office of Hearings and Appeals for a hearing without an investigation; or
+(1) The 25th day after receipt of the employer's response, or
 
-(2) Request that your complaint be referred to the Office of Hearings and Appeals for an investigation followed by a hearing.
+(2) The 5th day after receipt of an order to continue processing the complaint following an appeal of dismissal.
 
-(b) You must notify the Head of Field Element or EC Director (as applicable), in writing, by the 20th day after receiving notice of your options, whether you request referral of your complaint to the Office of Hearings and Appeals for a hearing without an investigation, or an investigation followed by a hearing.
+(b) The Head of the Field Element or EC Director (as applicable) will notify all parties that the complaint has been referred to the Office of Hearings and Appeals.
 
-(c) If the Head of Field Element or EC Director does not receive your response to the notice of options by the 20th day after your receipt of that notice, DOE will consider your complaint withdrawn.
+(c) The OHA Director and an Administrative Judge appointed to preside over any aspect of a part 708 proceeding are prohibited, beginning with the complaint's referral to the OHA and until a final agency decision is issued, from initiating or otherwise engaging in *ex parte* discussions with any party on the merits of the complaint.
 
-(d) If you timely request referral to the Office of Hearings and Appeals, the Head of Field Element or EC Director (as applicable) will forward your complaint to the OHA Director by the 5th day after receipt of your request.
+(d) In all proceedings under this subpart:
 
-(e) The Head of the Field Element or EC Director (as applicable) will notify all parties that the complaint has been referred to the Office of Hearings and Appeals, and state whether you have requested a hearing without an investigation or requested an investigation followed by a hearing.
+(1) The parties have the right to be represented by a person of their choosing or to proceed without representation. The parties are responsible for producing witnesses on their behalf, including requesting the issuance of subpoenas, if necessary;
+
+(2) Formal rules of evidence do not apply, but the OHA may use the Federal Rules of Evidence as a guide.

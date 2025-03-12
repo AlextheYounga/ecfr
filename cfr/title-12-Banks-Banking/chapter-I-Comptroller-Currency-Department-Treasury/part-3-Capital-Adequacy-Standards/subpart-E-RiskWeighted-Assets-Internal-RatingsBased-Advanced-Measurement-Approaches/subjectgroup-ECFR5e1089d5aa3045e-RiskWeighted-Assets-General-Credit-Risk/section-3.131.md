@@ -1,7 +1,5 @@
 ##### § 3.131 Mechanics for calculating total wholesale and retail risk-weighted assets. #####
 
-Link to an amendment published at 84 FR 35258, July 22, 2019.
-
 (a) *Overview.* A national bank or Federal savings association must calculate its total wholesale and retail risk-weighted asset amount in four distinct phases:
 
 (1) Phase 1 - categorization of exposures;
@@ -36,7 +34,7 @@ Link to an amendment published at 84 FR 35258, July 22, 2019.
 
 (iv) Assign a PD, LGD, and EAD to each segment of retail exposures.
 
-(2) *Floor on PD assignment.* The PD for each wholesale obligor or retail segment may not be less than 0.03 percent, except for exposures to or directly and unconditionally guaranteed by a sovereign entity, the Bank for International Settlements, the International Monetary Fund, the European Commission, the European Central Bank, or a multilateral development bank, to which the national bank or Federal savings association assigns a rating grade associated with a PD of less than 0.03 percent.
+(2) *Floor on PD assignment.* The PD for each wholesale obligor or retail segment may not be less than 0.03 percent, except for exposures to or directly and unconditionally guaranteed by a sovereign entity, the Bank for International Settlements, the International Monetary Fund, the European Commission, the European Central Bank, the European Stability Mechanism, the European Financial Stability Facility, or a multilateral development bank, to which the national bank or Federal savings association assigns a rating grade associated with a PD of less than 0.03 percent.
 
 (3) *Floor on LGD estimation.* The LGD for each segment of residential mortgage exposures may not be less than 10 percent, except for segments of residential mortgage exposures for which all or substantially all of the principal of each exposure is either:
 
@@ -100,4 +98,4 @@ Link to an amendment published at 84 FR 35258, July 22, 2019.
 
 (4) *Non-material portfolios of exposures.* The risk-weighted asset amount of a portfolio of exposures for which the national bank or Federal savings association has demonstrated to the OCC's satisfaction that the portfolio (when combined with all other portfolios of exposures that the national bank or Federal savings association seeks to treat under this paragraph (e)) is not material to the national bank or Federal savings association is the sum of the carrying values of on-balance sheet exposures plus the notional amounts of off-balance sheet exposures in the portfolio. For purposes of this paragraph (e)(4), the notional amount of an OTC derivative contract that is not a credit derivative is the EAD of the derivative as calculated in § 3.132.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41416, July 15, 2015]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 80 FR 41416, July 15, 2015; 84 FR 35258, July 22, 2019]

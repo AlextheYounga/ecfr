@@ -1,16 +1,14 @@
 ##### § 3555.104 Loan terms. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
-
 (a) *Interest rate.* The loan must be written at an interest rate that:
 
 (1) Is fixed over the term of the loan;
 
-(2) Shall be negotiated between the lender and borrower to allow the borrower to obtain the best available rate available;
+(2) Shall be negotiated between the lender and the borrower to allow the borrower to obtain the best available rate in compliance with all applicable laws.
 
-(3) Does not exceed the Fannie Mae rate for 30 year fixed rate conventional loans, as authorized in Exhibit B of subpart A of part 1810 of this Chapter (RD Instruction 440.1, available in any Rural Development office) or online at: *http://www.rd.usda.gov/publications/regulations-guidelines* and
+(3) If the interest rate increases between the time of the issuance of the conditional commitment and the loan closing, the lender will submit appropriate documentation and underwriting analysis to confirm that the applicant is still eligible.
 
-(4) If the interest rate increases between the time of the issuance of the conditional commitment and the loan closing, the lender will note the change in the loan closing package and submit appropriate updated documentation and underwriting analysis to confirm that the applicant is still eligible.
+(4) The warehouse lender may charge an interest rate for interim construction financing that exceeds the underlying promissory note rate. After construction ends, the interest rate must revert to a rate that is no higher than the underlying promissory note rate. The Agency reserves the right to establish a maximum amount for the interim construction financing interest rate in the handbook, as necessary to further program goals and protect the best interests of the government.
 
 (b) *Repayment period.* The term of the loan may not exceed 30 years. Adjustable rate mortgages, balloon term mortgages or mortgages requiring prepayment penalties are ineligible terms.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in 
 
 (d) *Negative amortization.* The loan note must not provide for interest on interest.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6428, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6428, Feb. 8, 2016; 84 FR 35006, July 22, 2019]

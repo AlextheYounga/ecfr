@@ -1,7 +1,5 @@
 ##### § 56.1 Meaning of words and terms defined. #####
 
-Link to an amendment published at 84 FR 49641, Sept. 23, 2019.
-
 For the purpose of the regulations in this part, words in the singular shall be deemed to import the plural and vice versa, as the case may demand. Unless the context otherwise requires, the terms shall have the following meaning:
 
 *Acceptable* means suitable for the purpose intended by the AMS.
@@ -51,6 +49,8 @@ For the purpose of the regulations in this part, words in the singular shall be 
 *National supervisor* means (a) the officer in charge of the shell egg grading service of the AMS, and (b) other employees of the Department designated by the national supervisor.
 
 *Nest run eggs* means eggs which are packed as they come from the production facilities without having been washed, sized and/or candled for quality, with the exception that some Checks, Dirties, or other obvious undergrades may have been removed.
+
+*Observed legal holiday.* When a holiday falls on a weekend - Saturday or Sunday - the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday).
 
 *Office of grading* means the office of any grader.
 

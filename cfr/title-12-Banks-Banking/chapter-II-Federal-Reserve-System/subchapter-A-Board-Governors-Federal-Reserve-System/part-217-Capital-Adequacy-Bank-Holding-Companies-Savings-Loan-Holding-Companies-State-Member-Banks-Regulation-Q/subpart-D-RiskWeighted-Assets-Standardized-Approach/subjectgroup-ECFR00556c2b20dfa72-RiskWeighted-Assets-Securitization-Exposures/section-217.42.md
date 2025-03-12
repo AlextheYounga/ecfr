@@ -1,7 +1,5 @@
 ##### § 217.42 Risk-weighted assets for securitization exposures. #####
 
-Link to an amendment published at 84 FR 35266, July 22, 2019.
-
 (a) *Securitization risk weight approaches.* Except as provided elsewhere in this section or in § 217.41:
 
 (1) A Board-regulated institution must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from a securitization and apply a 1,250 percent risk weight to the portion of a CEIO that does not constitute after-tax gain-on-sale.
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (b) *Total risk-weighted assets for securitization exposures.* A Board-regulated institution's total risk-weighted assets for securitization exposures equals the sum of the risk-weighted asset amount for securitization exposures that the Board-regulated institution risk weights under §§ 217.41(c), 217.42(a)(1), and 217.43, 217.44, or 217.45, and paragraphs (e) through (j) of this section, as applicable.
 
-(c) *Exposure amount of a securitization exposure* - (1) *On-balance sheet securitization exposures.* The exposure amount of an on-balance sheet securitization exposure (excluding an available-for-sale or held-to-maturity security where the Board-regulated institution has made an AOCI opt-out election under § 217.22(b)(2), a repo-style transaction, eligible margin loan, OTC derivative contract, or cleared transaction) is equal to the carrying value of the exposure.
+(c) *Exposure amount of a securitization exposure*—(1) *On-balance sheet securitization exposures.* The exposure amount of an on-balance sheet securitization exposure (excluding an available-for-sale or held-to-maturity security where the Board-regulated institution has made an AOCI opt-out election under § 217.22(b)(2), a repo-style transaction, eligible margin loan, OTC derivative contract, or cleared transaction) is equal to the carrying value of the exposure.
 
 (2) *On-balance sheet securitization exposures held by a Board-regulated institution that has made an AOCI opt-out election.* The exposure amount of an on-balance sheet securitization exposure that is an available-for-sale or held-to-maturity security held by a Board-regulated institution that has made an AOCI opt-out election under § 217.22(b)(2) is the Board-regulated institution's carrying value (including net accrued but unpaid interest and fees), less any net unrealized gains on the exposure and plus any net unrealized losses on the exposure.
 
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (ii) Reclassifying a well-capitalized Board-regulated institution to adequately capitalized and requiring an adequately capitalized Board-regulated institution to comply with certain mandatory or discretionary supervisory actions as if the Board-regulated institution were in the next lower prompt-corrective-action category.
 
-(i) *N*th*-to-default credit derivatives* - (1) *Protection provider.* A Board-regulated institution may assign a risk weight using the SSFA in § 217.43 to an nth-to-default credit derivative in accordance with this paragraph (i). A Board-regulated institution must determine its exposure in the nth-to-default credit derivative as the largest notional amount of all the underlying exposures.
+(i) *N*th*-to-default credit derivatives*—(1) *Protection provider.* A Board-regulated institution may assign a risk weight using the SSFA in § 217.43 to an nth-to-default credit derivative in accordance with this paragraph (i). A Board-regulated institution must determine its exposure in the nth-to-default credit derivative as the largest notional amount of all the underlying exposures.
 
 (2) For purposes of determining the risk weight for an nth-to-default credit derivative using the SSFA, the Board-regulated institution must calculate the attachment point and detachment point of its exposure as follows:
 
@@ -76,7 +74,7 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (3) A Board-regulated institution that does not use the SSFA to determine a risk weight for its nth-to-default credit derivative must assign a risk weight of 1,250 percent to the exposure.
 
-(4) *Protection purchaser* - (i) *First-to-default credit derivatives.* A Board-regulated institution that obtains credit protection on a group of underlying exposures through a first-to-default credit derivative that meets the rules of recognition of § 217.36(b) must determine its risk-based capital requirement for the underlying exposures as if the Board-regulated institution synthetically securitized the underlying exposure with the smallest risk-weighted asset amount and had obtained no credit risk mitigant on the other underlying exposures. A Board-regulated institution must calculate a risk-based capital requirement for counterparty credit risk according to § 217.34 for a first-to-default credit derivative that does not meet the rules of recognition of § 217.36(b).
+(4) *Protection purchaser*—(i) *First-to-default credit derivatives.* A Board-regulated institution that obtains credit protection on a group of underlying exposures through a first-to-default credit derivative that meets the rules of recognition of § 217.36(b) must determine its risk-based capital requirement for the underlying exposures as if the Board-regulated institution synthetically securitized the underlying exposure with the smallest risk-weighted asset amount and had obtained no credit risk mitigant on the other underlying exposures. A Board-regulated institution must calculate a risk-based capital requirement for counterparty credit risk according to § 217.34 for a first-to-default credit derivative that does not meet the rules of recognition of § 217.36(b).
 
 (ii) *Second-or-subsequent-to-default credit derivatives.* (A) A Board-regulated institution that obtains credit protection on a group of underlying exposures through a nth-to-default credit derivative that meets the rules of recognition of § 217.36(b) (other than a first-to-default credit derivative) may recognize the credit risk mitigation benefits of the derivative only if:
 
@@ -88,14 +86,14 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (C) A Board-regulated institution must calculate a risk-based capital requirement for counterparty credit risk according to § 217.34 for a nth-to-default credit derivative that does not meet the rules of recognition of § 217.36(b).
 
-(j) *Guarantees and credit derivatives other than n*th*-to-default credit derivatives* - (1) *Protection provider.* For a guarantee or credit derivative (other than an nth-to-default credit derivative) provided by a Board-regulated institution that covers the full amount or a pro rata share of a securitization exposure's principal and interest, the Board-regulated institution must risk weight the guarantee or credit derivative as if it holds the portion of the reference exposure covered by the guarantee or credit derivative.
+(j) *Guarantees and credit derivatives other than n*th*-to-default credit derivatives*—(1) *Protection provider.* For a guarantee or credit derivative (other than an nth-to-default credit derivative) provided by a Board-regulated institution that covers the full amount or a pro rata share of a securitization exposure's principal and interest, the Board-regulated institution must risk weight the guarantee or credit derivative as if it holds the portion of the reference exposure covered by the guarantee or credit derivative.
 
 (2) *Protection purchaser.* (i) A Board-regulated institution that purchases a guarantee or OTC credit derivative (other than an nth-to-default credit derivative) that is recognized under § 217.45 as a credit risk mitigant (including via collateral recognized under § 217.37) is not required to compute a separate counterparty credit risk capital requirement under § 217.31, in accordance with 34(c).
 
 (ii) If a Board-regulated institution cannot, or chooses not to, recognize a purchased credit derivative as a credit risk mitigant under § 217.45, the Board-regulated institution must determine the exposure amount of the credit derivative under § 217.34.
 
-(A) If the Board-regulated institution purchases credit protection from a counterparty that is not a securitization SPE, the Board-regulated institution must determine the risk weight for the exposure according to general risk weights under § 217.32.
+(A) If the Board-regulated institution purchases credit protection from a counterparty that is not a securitization SPE, the Board-regulated institution must determine the risk weight for the exposure according to this subpart D.
 
 (B) If the Board-regulated institution purchases the credit protection from a counterparty that is a securitization SPE, the Board-regulated institution must determine the risk weight for the exposure according to section § 217.42, including § 217.42(a)(4) for a credit derivative that has a first priority claim on the cash flows from the underlying exposures of the securitization SPE (notwithstanding amounts due under interest rate or currency derivative contracts, fees due, or other similar payments).
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62288, Oct. 11, 2013]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62288, Oct. 11, 2013; 84 FR 35266, July 22, 2019]

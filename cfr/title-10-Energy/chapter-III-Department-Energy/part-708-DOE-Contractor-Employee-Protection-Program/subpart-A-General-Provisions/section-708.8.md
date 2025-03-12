@@ -1,3 +1,3 @@
-##### § 708.8 Does this part apply to pending cases? #####
+##### § 708.8 Application to pending cases. #####
 
-The procedures in this part apply prospectively in any complaint proceeding pending on the effective date of this part.
+The procedures in this part apply in any complaint proceeding filed with the Head of Field Element or EC Director, as appropriate, on or after the effective date of this part.

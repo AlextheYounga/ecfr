@@ -1,7 +1,5 @@
 ##### § 220.8 Meal requirements for breakfasts. #####
 
-Link to an amendment published at 84 FR 50292, Sept. 25, 2019.
-
 (a) *General requirements.* This section contains the meal requirements applicable to school breakfasts for students in grades K through 12, and for children under the age of 5. In general, school food authorities must ensure that participating schools provide nutritious, well-balanced, and age-appropriate breakfasts to all the children they serve to improve their diet and safeguard their health.
 
 (1) *General nutrition requirements.* School breakfasts offered to children age 5 and older must meet, at a minimum, the meal requirements in paragraph (b) of this section. Schools must follow a food-based menu planning approach and produce enough food to offer each child the quantities specified in the meal pattern established in paragraph (c) of this section for each age/grade group served in the school. In addition, school breakfasts must meet the dietary specifications in paragraph (f) of this section. Schools offering breakfasts to children ages 1 to 4 and infants must meet the meal pattern requirements in paragraphs (o) and (p), as applicable, of this section. When breakfast is served in the cafeteria, schools must make potable water available and accessible without restriction to children at no charge.
@@ -152,10 +150,63 @@ Calorie Ranges for Breakfast - Effective SY 2013-2014
 
 (2) *Preschooler breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-![](/graphics/er01no16.144.gif)
+Preschool Breakfast Meal Pattern
+
+|                               Food components and food items<sup>1</sup>                               |Minimum quantities|               |
+|--------------------------------------------------------------------------------------------------------|------------------|---------------|
+|                                                Ages 1-2                                                |     Ages 3-5     |               |
+|                                         Fluid Milk<sup>2</sup>                                         |  4 fluid ounces  |6 fluid ounces.|
+|                          Vegetables, fruits, or portions of both<sup>3</sup>                           |     1/4 cup      |   1/2 cup.    |
+|                                         Grains (oz eq): 4 5 6                                          |                  |               |
+|                                   Whole grain-rich or enriched bread                                   |    1/2 slice     |  1/2 slice.   |
+|               Whole grain-rich or enriched bread product, such as biscuit, roll, muffin                |   1/2 serving    | 1/2 serving.  |
+|Whole grain-rich, enriched, or fortified cooked breakfast cereal,<sup>7</sup> cereal grain, and/or pasta|     1/4 cup      |   1/4 cup.    |
+|    Whole grain-rich, enriched, or fortified ready-to-eat breakfast cereal (dry, cold):<sup>7</sup>     |                  |               |
+|                                            Flakes or rounds                                            |     1/2 cup      |   1/2 cup.    |
+|                                             Puffed cereal                                              |     3/4 cup      |   3/4 cup.    |
+|                                                Granola                                                 |     1/8 cup      |   1/8 cup.    |
+
+Endnotes:
+
+<sup>1</sup> Must serve all three components for a reimbursable meal.
+
+<sup>2</sup> Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent) or unflavored fat-free (skim) milk for children two through five years old.
+
+<sup>3</sup> Pasteurized full-strength juice may only be used to meet the vegetable or fruit requirement at one meal, including snack, per day.
+
+<sup>4</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards meeting the grains requirement.
+
+<sup>5</sup> Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
+
+<sup>6</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+
+<sup>7</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
 (p) *Breakfast requirements for infants* - (1) *Breakfasts served to infants.* Schools serving breakfasts to infants ages birth through 11 months under the School Breakfast Program must serve the food components and quantities required in the breakfast meal pattern established for the Child and Adult Care Food Program, under § 226.20(a), (b), and (d) of this chapter. In addition, schools serving breakfasts to infants must comply with the requirements set forth in paragraphs (a), (c)(3), (g), (k), (l), and (m) of this section as applicable.
 
 (2) *Infant breakfast meal pattern table.* The minimum amounts of food components to be served at breakfast are as follows:
 
-![](/graphics/er01no16.145.gif)[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018]
+Infant Breakfast Meal Pattern
+
+|                    Birth through 5 months                    |                                           6 through 11 months                                            |
+|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                   6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                    |
+|                                                              |0-4 tablespoons infant cereal 2 3 meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or|
+|                                                              |                                         0-2 ounces of cheese; or                                         |
+|                                                              |                                0-4 ounces (volume) of cottage cheese; or                                 |
+|                                                              |        0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above<sup>5</sup>; and        |
+|                                                              |                     0-2 tablespoons vegetable or fruit, or a combination of both.5 6                     |
+
+<sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+
+<sup>2</sup> Infant formula and dry infant cereal must be iron-fortified.
+
+<sup>3</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+
+<sup>4</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+
+<sup>5</sup> A serving of this component is required when the infant is developmentally ready to accept it.
+
+<sup>6</sup> Fruit and vegetable juices must not be served.
+
+[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019]

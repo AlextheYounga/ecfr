@@ -1,9 +1,9 @@
-##### § 708.19 How can a party obtain review by the Secretary of Energy of a decision on appeal of a dismissal? #####
+##### § 708.19 Appealing the dismissal of a complaint by the Head of Field Element or EC Director for lack of jurisdiction or other good cause. #####
 
-(a) By the 30th day after receiving a decision on an appeal under § 708.18 from the OHA Director, any party may file a petition for Secretarial review of a dismissal with the Office of Hearings and Appeals.
+(a) If a complaint is dismissed by the Head of Field Element or EC Director, the administrative process is terminated unless the complainant appeals the dismissal to the OHA Director by the 10th day after receipt of the notice of dismissal as evidenced by a receipt for delivery of certified mail. Decisions not to dismiss may not be appealed.
 
-(b) By the 15th day after filing the petition for Secretarial review, a party must file a statement setting forth the arguments in support of its position. A copy of the statement must be served on the other parties, who may file a response by the 20th day after receipt of the statement. Any response must also be served on the other parties.
+(b) If the complainant appeals a dismissal to the OHA Director, he must send copies of his appeal to the Head of Field Element or EC Director (as applicable) and all parties. The appeal must include a copy of the notice of dismissal, and state the reasons the dismissal was erroneous.
 
-(c) All submissions permitted under this section must be filed with the Office of Hearings and Appeals.
+(c) The OHA Director has all powers necessary to adjudicate the appeal. The OHA Director will issue a decision on the appeal and notify the parties of the decision by the 30th day after it is received. The OHA Director will review findings of fact for clear error and conclusions of law *de novo.*
 
-(d) After a petition for Secretarial review is filed, the Secretary (or his or her delegee) will issue the final agency decision on jurisdiction over the complaint. The Secretary will reverse or revise an appeal decision by the OHA Director only under extraordinary circumstances. In the event he or she determines that a revision in the appeal decision is appropriate, the Secretary will direct the OHA Director to issue an order either upholding the dismissal by the Head of Field Element or EC Director or ordering further processing of your complaint.
+(d) The OHA Director's decision, either upholding the dismissal by the Head of Field Element or EC Director or ordering further processing of the complaint, is the final decision on the appeal, unless a party files a petition for Secretarial review by the 30th day after receiving the appeal decision.

@@ -1,5 +1,7 @@
 ##### § 383.5 Definitions. #####
 
+Link to an amendment published at 84 FR 52034, Oct. 1, 2019.
+
 As used in this part:
 
 *Administrator* means the Federal Motor Carrier Safety Administrator, the chief executive of the Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.

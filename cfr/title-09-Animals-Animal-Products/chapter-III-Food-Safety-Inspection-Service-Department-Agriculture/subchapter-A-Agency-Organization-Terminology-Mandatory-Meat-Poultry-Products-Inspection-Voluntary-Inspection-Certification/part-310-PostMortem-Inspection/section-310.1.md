@@ -1,5 +1,7 @@
 ##### § 310.1 Extent and time of post-mortem inspection; post-mortem inspection staffing standards. #####
 
+Link to an amendment published at 84 FR 52346, Oct. 1, 2019.
+
 (a) A careful post-mortem examination and inspection shall be made of the carcasses and parts thereof of all livestock slaughtered at official establishments. Such inspection and examination shall be made at the time of slaughter unless, because of unusual circumstances, prior arrangements acceptable to the Administrator have been made in specific cases by the circuit supervisor for making such inspection and examination at a later time.
 
 (b)(1) The staffing standards on the basis of the number of carcasses to be inspected per hour are outlined in the following tables. Standards for multiple inspector lines are based on inspectors rotating through the different types of inspection stations during each shift to equalize the workload. The inspector in charge shall have the authority to require the establishment to reduce slaughter line speeds where, in his judgment, the inspection procedure cannot be adequately performed at the current line speed because of particular deficiencies in carcass preparation and presentation by the plant at the higher speed, or because the health condition of the particular animals indicates a need for more extensive inspection.

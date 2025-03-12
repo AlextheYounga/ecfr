@@ -1,0 +1,13 @@
+##### § 706.34 Administrative appeals. #####
+
+(a) *Requirements for making an appeal.* A requester may appeal any adverse determinations to DFC's Vice President and General Counsel at *foia@dfc.gov* or 1100 New York Avenue NW., Washington, DC 20527. Examples of adverse determinations are provided in Section 706.06(c) of this subpart. The requester must make the appeal in writing and it must be postmarked, or in the case of electronic submissions, transmitted, within ninety calendar days after the date of the response. The appeal should clearly identify DFC's determination that is being appealed and the assigned request number. The requester should mark both the appeal letter and envelope, or subject line of the electronic transmission, “Freedom of Information Act Appeal.”
+
+(b) *Adjudication of appeals.* DFC's Vice President and General Counsel or his/her designee will render a written decision within twenty working days after the date of DFC's receipt of the appeal, unless an extension of up to ten working days is deemed necessary due to unusual circumstances. The requester will be notified in writing of any extension.
+
+(c) *Decisions on appeals.* A decision that upholds the initial determination will contain a written statement that identifies the reasons for the affirmance, including any FOIA exemptions applied, and will provide the requester with notification of the statutory right to file a lawsuit and the ability to request dispute resolution from the Office of Government Information Services. If an initial determination is remanded or modified on appeal the requester will be notified in writing. DFC's FOIA Office will then process the request in accordance with that appeal determination and respond directly to the requester. If an appeal is granted in whole or in part, the information will be made available promptly, provided the requirements of Section 706.23 regarding payment of fees are satisfied.
+
+(d) *Engaging in dispute resolution services provided by OGIS.* Dispute resolution is a voluntary process. If DFC agrees to participate in the dispute resolution services provided by OGIS, it will actively engage as a partner to the process in an attempt to resolve the dispute.
+
+(e) *When appeal is required.* Before seeking court review, a requester generally must first submit a timely administrative appeal.
+
+[82 FR 20434, May 2, 2017, as amended at 84 FR 37752, Aug. 2, 2019]

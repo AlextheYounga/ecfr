@@ -1,5 +1,7 @@
 ##### § 42.102 Time for filing. #####
 
+Link to an amendment published at 84 FR 51982, Oct. 1, 2019.
+
 (a) A petition for *inter partes* review of a patent must be filed after the later of the following dates, where applicable:
 
 (1) If the patent is a patent described in section 3(n)(1) of the Leahy-Smith America Invents Act, the date that is nine months after the date of the grant of the patent;

@@ -1,0 +1,3 @@
+##### § 202.200 Scope and applicability of rules of practice. #####
+
+The Uniform Rules of Practice for the Department of Agriculture promulgated in Subpart H of Part 1, Subtitle A, Title 7, Code of Federal Regulations, are the Rules of Practice applicable to adjudicatory, administrative proceedings under the Packers and Stockyards Act, as amended (7 U.S.C. 181 *et seq.*). In addition, the Supplemental Rules of Practice set forth in this part shall be applicable to such proceedings.

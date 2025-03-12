@@ -1,7 +1,5 @@
 ##### § 217.2 Definitions. #####
 
-Link to an amendment published at 84 FR 35259, July 22, 2019.
-
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 217.20(c).
@@ -120,7 +118,7 @@ As used in this part:
 
 *Corporate exposure* means an exposure to a company that is not:
 
-(1) An exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, a multi-lateral development bank (MDB), a depository institution, a foreign bank, a credit union, or a public sector entity (PSE);
+(1) An exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, a multi-lateral development bank (MDB), a depository institution, a foreign bank, a credit union, or a public sector entity (PSE);
 
 (2) An exposure to a GSE;
 
@@ -312,7 +310,7 @@ As used in this part:
 
 *Eligible guarantor* means:
 
-(1) A sovereign, the Bank for International Settlements, the International Monetary Fund, the European Central Bank, the European Commission, a Federal Home Loan Bank, Federal Agricultural Mortgage Corporation (Farmer Mac), a multilateral development bank (MDB), a depository institution, a bank holding company, a savings and loan holding company, a credit union, a foreign bank, or a qualifying central counterparty; or
+(1) A sovereign, the Bank for International Settlements, the International Monetary Fund, the European Central Bank, the European Commission, a Federal Home Loan Bank, Federal Agricultural Mortgage Corporation (Farmer Mac), the European Stability Mechanism, the European Financial Stability Facility, a multilateral development bank (MDB), a depository institution, a bank holding company, a savings and loan holding company, a credit union, a foreign bank, or a qualifying central counterparty; or
 
 (2) An entity (other than a special purpose entity):
 
@@ -534,7 +532,7 @@ As used in this part:
 
 *Interest rate derivative contract* means a single-currency interest rate swap, basis swap, forward rate agreement, purchased interest rate option, when-issued securities, or any other instrument linked to interest rates that gives rise to similar counterparty credit risks.
 
-*International Lending Supervision Act* means the International Lending Supervision Act of 1983 (12 U.S.C. 3907).
+*International Lending Supervision Act* means the International Lending Supervision Act of 1983 (12 U.S.C. 3901 *et seq.*).
 
 *Investing bank* means, with respect to a securitization, a Board-regulated institution that assumes the credit risk of a securitization exposure (other than an originating Board-regulated institution of the securitization). In the typical synthetic securitization, the investing Board-regulated institution sells credit protection on a pool of underlying exposures to the originating Board-regulated institution.
 
@@ -546,7 +544,7 @@ As used in this part:
 
 *Investment grade* means that the entity to which the Board-regulated institution is exposed through a loan or security, or the reference entity with respect to a credit derivative, has adequate capacity to meet financial commitments for the projected life of the asset or exposure. Such an entity or reference entity has adequate capacity to meet financial commitments if the risk of its default is low and the full and timely repayment of principal and interest is expected.
 
-*Investment in the capital of an unconsolidated financial institution* means a net long position calculated in accordance with § 217.22(h) in an instrument that is recognized as capital for regulatory purposes by the primary supervisor of an unconsolidated regulated financial institution and is an instrument that is part of the GAAP equity of an unconsolidated unregulated financial institution, including direct, indirect, and synthetic exposures to capital instruments, excluding underwriting positions held by the Board-regulated institution for five or fewer business days.
+*Investment in the capital of an unconsolidated financial institution* means a net long position calculated in accordance with § 217.22(h) in an instrument that is recognized as capital for regulatory purposes by the primary supervisor of an unconsolidated regulated financial institution or is an instrument that is part of the GAAP equity of an unconsolidated unregulated financial institution, including direct, indirect, and synthetic exposures to capital instruments, excluding underwriting positions held by the Board-regulated institution for five or fewer business days.
 
 *Investment in the Board-regulated institution's own capital instrument* means a net long position calculated in accordance with § 217.22(h) in the Board-regulated institution's own common stock instrument, own additional tier 1 capital instrument or own tier 2 capital instrument, including direct, indirect, or synthetic exposures to such capital instruments. An investment in the Board-regulated institution's own capital instrument includes any contractual obligation to purchase such capital instrument.
 
@@ -576,7 +574,7 @@ As used in this part:
 
 (2) Is not required to hold reserves (in the general account) pursuant to its contractual obligations to a policyholder.
 
-*Non-significant investment in the capital of an unconsolidated financial institution* means an investment in the capital of an unconsolidated financial institution where the Board-regulated institution owns 10 percent or less of the issued and outstanding common stock of the unconsolidated financial institution.
+*Non-significant investment in the capital of an unconsolidated financial institution* means an investment by an advanced approaches Board-regulated institution in the capital of an unconsolidated financial institution where the advanced approaches Board-regulated institution owns 10 percent or less of the issued and outstanding common stock of the unconsolidated financial institution.
 
 *N*th*-to-default credit derivative* means a credit derivative that provides credit protection only for the nth-defaulting reference exposure in a group of reference exposures.
 
@@ -766,7 +764,7 @@ As used in this part:
 
 *Servicer cash advance facility* means a facility under which the servicer of the underlying exposures of a securitization may advance cash to ensure an uninterrupted flow of payments to investors in the securitization, including advances made to cover foreclosure costs or other expenses to facilitate the timely collection of the underlying exposures.
 
-*Significant investment in the capital of an unconsolidated financial institution* means an investment in the capital of an unconsolidated financial institution where the Board-regulated institution owns more than 10 percent of the issued and outstanding common stock of the unconsolidated financial institution.
+*Significant investment in the capital of an unconsolidated financial institution* means an investment by an advanced approaches Board-regulated institution in the capital of an unconsolidated financial institution where the advanced approaches Board-regulated institution owns more than 10 percent of the issued and outstanding common stock of the unconsolidated financial institution.
 
 *Small Business Act* means the Small Business Act (15 U.S.C. 632).
 
@@ -902,4 +900,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 42918, Sept. 12, 2017; 84 FR 4241, Feb. 14, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 42918, Sept. 12, 2017; 84 FR 4241, Feb. 14, 2019; 84 FR 35259, July 22, 2019]

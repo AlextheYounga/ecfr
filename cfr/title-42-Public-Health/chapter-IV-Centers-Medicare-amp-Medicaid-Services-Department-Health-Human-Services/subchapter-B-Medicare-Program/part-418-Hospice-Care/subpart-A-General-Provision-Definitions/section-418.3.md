@@ -1,7 +1,5 @@
 ##### § 418.3 Definitions. #####
 
-Link to an amendment published at 84 FR 38543, August 6, 2019.
-
 For purposes of this part -
 
 *Attending physician* means a -
@@ -15,6 +13,8 @@ For purposes of this part -
 (2) Is identified by the individual, at the time he or she elects to receive hospice care, as having the most significant role in the determination and delivery of the individual's medical care.
 
 *Bereavement counseling* means emotional, psychosocial, and spiritual support and services provided before and after the death of the patient to assist with issues related to grief, loss, and adjustment.
+
+*BFCC-QIO* means Beneficiary and Family Centered Care Quality Improvement Organization.
 
 *Cap period* means the twelve-month period ending September 30 used in the application of the cap on overall hospice reimbursement specified in § 418.309.
 
@@ -58,4 +58,4 @@ For purposes of this part -
 
 *Terminally ill* means that the individual has a medical prognosis that his or her life expectancy is 6 months or less if the illness runs its normal course.
 
-[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014; 83 FR 38654, Aug. 6, 2018]
+[48 FR 56026, Dec. 16, 1983, as amended at 52 FR 4499, Feb. 12, 1987; 55 FR 50834, Dec. 11, 1990; 70 FR 45144, Aug. 4, 2005; 72 FR 50227, Aug. 31, 2007; 73 FR 32204, June 5, 2008; 79 FR 50509, Aug. 22, 2014; 83 FR 38654, Aug. 6, 2018; 84 FR 38543, Aug. 6, 2019]

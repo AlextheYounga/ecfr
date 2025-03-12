@@ -1,14 +1,12 @@
 ##### § 412.522 Application of site neutral payment rate. #####
 
-Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
-
-(a) *General.* For discharges in cost reporting periods beginning on or after October 1, 2015 -
+(a) *General.* For discharges in cost reporting periods beginning on or after October 1, 2015—
 
 (1) Except as provided for in paragraph (b) of this section, all discharges are paid based on the site neutral payment rate as determined under the provisions of paragraph (c) of this section.
 
 (2) Discharges that meet the criteria for exclusion from site neutral payment rate specified in paragraph (b) of this section are paid based on the standard Federal prospective payment rate established under § 412.523.
 
-(b) *Criteria for exclusion from the site neutral payment rate* - (1) *General criteria* - (i) *Basis and scope.* A discharge that meets the following criteria is excluded from the site neutral payment rate specified under this section.
+(b) *Criteria for exclusion from the site neutral payment rate*—(1) *General criteria*—(i) *Basis and scope.* A discharge that meets the following criteria is excluded from the site neutral payment rate specified under this section.
 
 (A) The discharge from the long-term care hospital does not have a principal diagnosis relating to a psychiatric diagnosis or to rehabilitation based on the LTC-DRG assignment of the discharge under § 412.513; and
 
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (iii) *Ventilator criterion.* In addition to meeting the requirements of paragraph (b)(1)(i) of this section, the discharge from the long-term care hospital is assigned to a LTC-DRG based on the patient's receipt of ventilator services of at least 96 hours, as evidenced by the procedure code on the discharge bill indicating such services were provided during the stay.
 
-(2) *Special criteria* - (i) *Definitions.* For purposes of this paragraph (b)(2) the following definitions are applicable:
+(2) *Special criteria*—(i) *Definitions.* For purposes of this paragraph (b)(2) the following definitions are applicable:
 
 *Severe wound* means a wound which is a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, infected wound, fistula, osteomyelitis or wound with morbid obesity as identified by the applicable code on the claim from the long-term care hospital.
 
@@ -28,13 +26,13 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (A) The severe wound meets the definition specified in paragraph (b)(2)(i) of this section.
 
-(B) The discharge is from a long term care hospital that is -
+(B) The discharge is from a long term care hospital that is—
 
 (*1*) Described in § 412.23(e)(2)(i) and meets the criteria of § 412.22(f); and
 
 (*2*) Located in a rural area (as defined at § 412.503) or reclassified as rural by meeting the requirements set forth in § 412.103.
 
-(3) *Temporary exception for certain severe wound discharges.* - (i) *Definitions.* For purposes of this paragraph (b)(3) the following definitions are applicable:
+(3) *Temporary exception for certain severe wound discharges.*—(i) *Definitions.* For purposes of this paragraph (b)(3) the following definitions are applicable:
 
 *Severe wound* means a wound which is a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, fistula, as identified by the applicable code on the claim from the long-term care hospital.
 
@@ -56,7 +54,7 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (iii) The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under Medicare Part A and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States determined by the States of residency of such inpatients.
 
-(c) *Site neutral payment rate* - (1) *General.* Subject to the provisions of paragraph (c)(2) of this section, the site neutral payment rate is the lower of -
+(c) *Site neutral payment rate*—(1) *General.* Subject to the provisions of paragraph (c)(2) of this section, the site neutral payment rate is the lower of—
 
 (i) The inpatient hospital prospective payment system comparable per diem amount determined under § 412.529(d)(4), including any applicable outlier payments specified in § 412.525(a); or
 
@@ -64,7 +62,7 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (iii) For discharges occurring in fiscal years 2018 through 2026, the amount in paragraph (c)(1)(i) of this section is reduced by 4.6 percent.
 
-(2) *Adjustments.* CMS adjusts the payment rate determined under paragraph (c)(1) of this section to account for -
+(2) *Adjustments.* CMS adjusts the payment rate determined under paragraph (c)(1) of this section to account for—
 
 (i) Outlier payments, by applying a reduction factor equal to the estimated proportion of outlier payments under § 412.525(a) payable for discharges from a long-term care hospital described in paragraph (a)(1) of this section to total estimated payments under the long-term care hospital prospective payment system to discharges from a long-term care hospital described in paragraph (a)(1) of this section. The adjustment under this paragraph (c)(2)(i) does not include the portion of the blended payment rate described in paragraph (c)(3)(ii) of this section.
 
@@ -74,7 +72,7 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (iv) The special payment provisions for long-term care hospitals and satellite facilities of long-term care hospitals that discharged Medicare patients admitted from a hospital not located in the same building or on the same campus as the long-term care hospital or satellite facility of the long-term care hospital, as provided in § 412.536.
 
-(3) *Transition.* For discharges occurring in cost reporting periods beginning on or after October 1, 2015 and on or before September 30, 2019, payment for discharges under paragraph (c)(1) of this section are made using a blended payment rate, which is determined as -
+(3) *Transition.* For discharges occurring in cost reporting periods beginning on or after October 1, 2015 and on or before September 30, 2019, payment for discharges under paragraph (c)(1) of this section are made using a blended payment rate, which is determined as—
 
 (i) 50 percent of the site neutral payment rate amount for the discharge as determined under paragraph (c)(1) of this section; and
 
@@ -84,4 +82,24 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (2) CMS will inform each long-term care hospital of its discharge payment percentage, as determined under paragraph (d)(1) of this section, for each cost reporting period beginning on or after October 1, 2015.
 
-[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016; 82 FR 38512, Aug. 14, 2017; 83 FR 41704, Aug. 17, 2018]
+(3) For cost reporting periods beginning on or after October 1, 2019, if a long-term care hospital's discharge payment percentage for the cost reporting period is not at least 50 percent, discharges in all cost reporting periods beginning after the notification described under paragraph (d)(2) of this section will be paid under the payment adjustment described in paragraph (d)(4) of this section until reinstated under paragraph (d)(5) or (6) of this section.
+
+(4) For cost reporting periods subject to the payment adjustment under paragraph (d)(3) of this section, the payment for all discharges consists of—
+
+(i) An amount equivalent to the hospital inpatient prospective payment system amount as determined under § 412.529(d)(4)(i)(A) and (d)(4)(ii) and (iii); and
+
+(ii) If applicable, an additional payment for high cost outlier cases based on the fixed-loss amount established for the hospital inpatient prospective payment system in effect at the time of the LTCH discharge.
+
+(5) For full reinstatement—
+
+(i) When the discharge payment percentage for a cost reporting period is calculated to be at least 50 percent, any payment adjustment described in paragraph (d)(4) of this section will be discontinued for cost reporting periods beginning on or after the notification described under paragraph (d)(2) of this section.
+
+(ii) A long-term care hospital reinstated under paragraph (d)(5)(i) of this section will be subject to the payment adjustment under paragraph (d)(4) of this section if, after being reinstated, it again meets the criteria in paragraph (d)(3) of this section.
+
+(6) For special probationary reinstatement—
+
+(i) A hospital that would be subject to the payment adjustment under paragraph (d)(4) of this section for a cost reporting period will have application of the payment adjustment delayed for that period if, for the period of at least 5 consecutive months of the 6 months immediately preceding the cost reporting period, the discharge payment percentage is calculated to be at least 50 percent.
+
+(ii) For any cost reporting period to which the payment adjustment under paragraph (d)(4) of this section would have applied but for a delay under paragraph (d)(6)(i) of this section, the payment adjustment under paragraph (d)(4) of this section will be applied to all discharges in the cost reporting period if the discharge payment percentage for the cost reporting period is not calculated to be at least 50 percent.
+
+[80 FR 49768, Sept. 1, 2015, as amended at 81 FR 23438, Apr. 21, 2016; 81 FR 57269, Aug. 22, 2016; 82 FR 38512, Aug. 14, 2017; 83 FR 41704, Aug. 17, 2018; 84 FR 42614, Aug. 16, 2019]

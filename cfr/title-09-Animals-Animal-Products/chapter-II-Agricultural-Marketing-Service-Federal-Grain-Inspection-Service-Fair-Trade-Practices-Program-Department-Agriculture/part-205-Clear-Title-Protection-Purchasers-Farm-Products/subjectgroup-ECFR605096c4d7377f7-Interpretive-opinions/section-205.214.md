@@ -1,0 +1,5 @@
+##### § 205.214 Litigation as to whether a system is operating in compliance with the Section. #####
+
+(a) The requirements for a system in subsection (c) are written as the definition of the term “central filing system,” so that failure of a system to meet any such requirement, either at the time of its establishment or later, will mean that it is not a “central filing system” as defined.
+
+(b) The issue whether a system, after certification, is operating in compliance, thus whether it is a “central filing system” as defined, could be litigated and ruled on in a case involving only private parties, such as a lender and a buyer of a farm product. The only immediate effect of a finding in such a case, that a system is not a “central filing system” as defined, would be that the rights of the secured party in the case would be as if the State had no system. However, others would be in doubt as to whether they could safely rely on the same system.

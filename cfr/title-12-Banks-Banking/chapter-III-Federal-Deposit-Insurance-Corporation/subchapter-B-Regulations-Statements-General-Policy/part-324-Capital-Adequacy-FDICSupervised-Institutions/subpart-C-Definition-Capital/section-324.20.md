@@ -1,7 +1,5 @@
 ##### § 324.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
-Link to an amendment published at 84 FR 35271, July 22, 2019.
-
 (a) *Regulatory capital components.* An FDIC-supervised institution's regulatory capital components are:
 
 (1) Common equity tier 1 capital;
@@ -46,7 +44,7 @@ Link to an amendment published at 84 FR 35271, July 22, 2019.
 
 12*See* § 324.22 for specific adjustments related to AOCI.
 
-(4) Any common equity tier 1 minority interest, subject to the limitations in § 324.21(c).
+(4) Any common equity tier 1 minority interest, subject to the limitations in § 324.21.
 
 (5) Notwithstanding the criteria for common stock instruments referenced above, an FDIC-supervised institution's common stock issued and held in trust for the benefit of its employees as part of an employee stock ownership plan does not violate any of the criteria in paragraph (b)(1)(iii), paragraph (b)(1)(iv) or paragraph (b)(1)(xi) of this section, provided that any repurchase of the stock is required solely by virtue of ERISA for an instrument of an FDIC-supervised institution that is not publicly-traded. In addition, an instrument issued by an FDIC-supervised institution to its employee stock ownership plan does not violate the criterion in paragraph (b)(1)(x) of this section.
 
@@ -76,7 +74,7 @@ Link to an amendment published at 84 FR 35271, July 22, 2019.
 
 (vii) The FDIC-supervised institution has full discretion at all times to cancel dividends or other distributions on the instrument without triggering an event of default, a requirement to make a payment-in-kind, or an imposition of other restrictions on the FDIC-supervised institution except in relation to any distributions to holders of common stock or instruments that are pari passu with the instrument.
 
-(viii) Any cash dividend payments on the instrument are paid out of the FDIC-supervised institution's net income and retained earnings and are not subject to a limit imposed by the contractual terms governing the instrument. An FDIC-supervised institution must obtain prior FDIC approval for any dividend payment involving a reduction or retirement of capital stock in accordance with 12 CFR 303.241.
+(viii) Any cash dividend payments on the instrument are paid out of the FDIC-supervised institution's net income or retained earnings. An FDIC-supervised institution must obtain prior FDIC approval for any dividend payment involving a reduction or retirement of capital stock in accordance with 12 CFR 303.241.
 
 (ix) The instrument does not have a credit-sensitive feature, such as a dividend rate that is reset periodically based in whole or in part on the FDIC-supervised institution's credit quality, but may have a dividend rate that is adjusted periodically independent of the FDIC-supervised institution's credit quality, in relation to general market interest rates or similar adjustments.
 
@@ -92,7 +90,7 @@ Link to an amendment published at 84 FR 35271, July 22, 2019.
 
 (xiv) For an advanced approaches FDIC-supervised institution, the governing agreement, offering circular, or prospectus of an instrument issued after the date upon which the FDIC-supervised institution becomes subject to this part as set forth in § 324.1(f) must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in the event that the FDIC-supervised institution enters into a receivership, insolvency, liquidation, or similar proceeding.
 
-(2) Tier 1 minority interest, subject to the limitations in § 324.21(d), that is not included in the FDIC-supervised institution's common equity tier 1 capital.
+(2) Tier 1 minority interest, subject to the limitations in § 324.21, that is not included in the FDIC-supervised institution's common equity tier 1 capital.
 
 (3) Any and all instruments that qualified as tier 1 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, subpart Z (state savings associations) as then in effect, that were issued under the Small Business Jobs Act of 201015 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.16
 
@@ -144,7 +142,7 @@ Link to an amendment published at 84 FR 35271, July 22, 2019.
 
 (xi) For an advanced approaches FDIC-supervised institution, the governing agreement, offering circular, or prospectus of an instrument issued after the date on which the advanced approaches FDIC-supervised institution becomes subject to this part under § 324.1(f) must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in the event that the FDIC-supervised institution enters into a receivership, insolvency, liquidation, or similar proceeding.
 
-(2) Total capital minority interest, subject to the limitations set forth in § 324.21(e), that is not included in the FDIC-supervised institution's tier 1 capital.
+(2) Total capital minority interest, subject to the limitations set forth in § 324.21, that is not included in the FDIC-supervised institution's tier 1 capital.
 
 (3) ALLL or AACL, as applicable, up to 1.25 percent of the FDIC-supervised institution's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk FDIC-supervised institution, its standardized market risk-weighted assets).
 
@@ -168,4 +166,4 @@ Link to an amendment published at 84 FR 35271, July 22, 2019.
 
 (3) After determining that a regulatory capital element may be included in an FDIC-supervised institution's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the FDIC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 4247, Feb. 14, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 4247, Feb. 14, 2019; 84 FR 35271, July 22, 2019]

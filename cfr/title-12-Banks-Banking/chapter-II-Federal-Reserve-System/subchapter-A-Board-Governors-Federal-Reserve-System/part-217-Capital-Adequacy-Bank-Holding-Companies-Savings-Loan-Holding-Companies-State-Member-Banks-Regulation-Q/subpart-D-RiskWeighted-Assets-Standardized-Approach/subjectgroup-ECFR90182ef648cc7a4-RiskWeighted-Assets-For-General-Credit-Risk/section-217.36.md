@@ -1,8 +1,6 @@
 ##### § 217.36 Guarantees and credit derivatives: substitution treatment. #####
 
-Link to an amendment published at 84 FR 35266, July 22, 2019.
-
-(a) *Scope* - (1) *General.* A Board-regulated institution may recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure, as provided under this section.
+(a) *Scope*—(1) *General.* A Board-regulated institution may recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure, as provided under this section.
 
 (2) This section applies to exposures for which:
 
@@ -24,13 +22,13 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (ii) The reference exposure and the hedged exposure are to the same legal entity, and legally enforceable cross-default or cross-acceleration clauses are in place to ensure payments under the credit derivative are triggered when the obligated party of the hedged exposure fails to pay under the terms of the hedged exposure.
 
-(c) *Substitution approach* - (1) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the exposure amount of the hedged exposure, a Board-regulated institution may recognize the guarantee or credit derivative in determining the risk-weighted asset amount for the hedged exposure by substituting the risk weight applicable to the guarantor or credit derivative protection provider under § 217.32 for the risk weight assigned to the exposure.
+(c) *Substitution approach*—(1) *Full coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is greater than or equal to the exposure amount of the hedged exposure, a Board-regulated institution may recognize the guarantee or credit derivative in determining the risk-weighted asset amount for the hedged exposure by substituting the risk weight applicable to the guarantor or credit derivative protection provider under this subpart D for the risk weight assigned to the exposure.
 
-(2) *Partial coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in §§ 217.36(a) and 217.37(b) and the protection amount (P) of the guarantee or credit derivative is less than the exposure amount of the hedged exposure, the Board-regulated institution must treat the hedged exposure as two separate exposures (protected and unprotected) in order to recognize the credit risk mitigation benefit of the guarantee or credit derivative.
+(2) *Partial coverage.* If an eligible guarantee or eligible credit derivative meets the conditions in paragraphs (a) and (b) of this section and the protection amount (P) of the guarantee or credit derivative is less than the exposure amount of the hedged exposure, the Board-regulated institution must treat the hedged exposure as two separate exposures (protected and unprotected) in order to recognize the credit risk mitigation benefit of the guarantee or credit derivative.
 
-(i) The Board-regulated institution may calculate the risk-weighted asset amount for the protected exposure under § 217.32, where the applicable risk weight is the risk weight applicable to the guarantor or credit derivative protection provider.
+(i) The Board-regulated institution may calculate the risk-weighted asset amount for the protected exposure under this subpart D, where the applicable risk weight is the risk weight applicable to the guarantor or credit derivative protection provider.
 
-(ii) The Board-regulated institution must calculate the risk-weighted asset amount for the unprotected exposure under § 217.32, where the applicable risk weight is that of the unprotected portion of the hedged exposure.
+(ii) The Board-regulated institution must calculate the risk-weighted asset amount for the unprotected exposure under this subpart D, where the applicable risk weight is that of the unprotected portion of the hedged exposure.
 
 (iii) The treatment provided in this section is applicable when the credit risk of an exposure is covered on a partial pro rata basis and may be applicable when an adjustment is made to the effective notional amount of the guarantee or credit derivative under paragraphs (d), (e), or (f) of this section.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (3) A Board-regulated institution must adjust HFX calculated in paragraph (f)(2) of this section upward if the Board-regulated institution revalues the guarantee or credit derivative less frequently than once every 10 business days using the following square root of time formula:
 
-![](/graphics/er11oc13.021.gif)
+![](/graphics/er11oc13.021.gif)[Reg. Q, 78 FR 62157, Oct. 11, 2013, as amended at 84 FR 35266, July 22, 2019]

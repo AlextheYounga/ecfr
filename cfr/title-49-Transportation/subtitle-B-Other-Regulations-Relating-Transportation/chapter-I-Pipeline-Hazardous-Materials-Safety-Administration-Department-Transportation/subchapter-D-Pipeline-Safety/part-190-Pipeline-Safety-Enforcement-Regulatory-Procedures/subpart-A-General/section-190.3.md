@@ -1,5 +1,7 @@
 ##### § 190.3 Definitions. #####
 
+Link to an amendment published at 84 FR 52026, Oct. 1, 2019.
+
 As used in this part:
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate.

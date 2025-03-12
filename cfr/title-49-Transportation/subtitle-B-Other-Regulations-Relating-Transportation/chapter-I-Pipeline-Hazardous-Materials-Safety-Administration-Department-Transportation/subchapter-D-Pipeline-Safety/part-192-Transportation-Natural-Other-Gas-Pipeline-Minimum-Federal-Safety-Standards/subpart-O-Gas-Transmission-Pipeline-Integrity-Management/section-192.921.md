@@ -1,5 +1,7 @@
 ##### § 192.921 How is the baseline assessment to be conducted? #####
 
+Link to an amendment published at 84 FR 52253, Oct. 1, 2019.
+
 (a) *Assessment methods.* An operator must assess the integrity of the line pipe in each covered segment by applying one or more of the following methods depending on the threats to which the covered segment is susceptible. An operator must select the method or methods best suited to address the threats identified to the covered segment (*See* § 192.917).
 
 (1) Internal inspection tool or tools capable of detecting corrosion, and any other threats to which the covered segment is susceptible. An operator must follow ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 6.2 in selecting the appropriate internal inspection tools for the covered segment.

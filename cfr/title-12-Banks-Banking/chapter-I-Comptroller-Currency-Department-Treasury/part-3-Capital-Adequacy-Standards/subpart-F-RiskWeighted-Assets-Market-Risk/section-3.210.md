@@ -1,7 +1,5 @@
 ##### § 3.210 Standardized measurement method for specific risk. #####
 
-Link to an amendment published at 84 FR 35258, July 22, 2019.
-
 (a) *General requirement.* A national bank or Federal savings association must calculate a total specific risk add-on for each portfolio of debt and equity positions for which the national bank's or Federal savings association's VaR-based measure does not capture all material aspects of specific risk and for all securitization positions that are not modeled under § 3.209. A national bank or Federal savings association must calculate each specific risk add-on in accordance with the requirements of this section. Notwithstanding any other definition or requirement in this subpart, a position that would have qualified as a debt position or an equity position but for the fact that it qualifies as a correlation trading position under paragraph (2) of the definition of correlation trading position in § 3.202, shall be considered a debt position or an equity position, respectively, for purposes of this section 210 of this subpart.
 
 (1) The specific risk add-on for an individual debt or securitization position that represents sold credit protection is capped at the notional amount of the credit derivative contract. The specific risk add-on for an individual debt or securitization position that represents purchased credit protection is capped at the current fair value of the transaction plus the absolute value of the present value of all remaining payments to the protection seller under the transaction. This sum is equal to the value of the protection leg of the transaction.
@@ -72,7 +70,7 @@ Table 1 to § 3.210 - Specific Risk-Weighting Factors for Sovereign Debt Positio
 
 (E) A national bank or Federal savings association must assign an 8.0 percent specific risk-weighting factor to a sovereign debt position if the sovereign is not a member of the OECD and does not have a CRC assigned to it, except as provided in paragraph (b)(2)(i)(C) of this section.
 
-(ii) *Certain supranational entity and multilateral development bank debt positions.* A national bank or Federal savings association may assign a 0.0 percent specific risk-weighting factor to a debt position that is an exposure to the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, or an MDB.
+(ii) *Certain supranational entity and multilateral development bank debt positions.* A national bank or Federal savings association may assign a 0.0 percent specific risk-weighting factor to a debt position that is an exposure to the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, or an MDB.
 
 (iii) *GSE debt positions.* A national bank or Federal savings association must assign a 1.6 percent specific risk-weighting factor to a debt position that is an exposure to a GSE. Notwithstanding the foregoing, a national bank or Federal savings association must assign an 8.0 percent specific risk-weighting factor to preferred stock issued by a GSE.
 
@@ -211,3 +209,5 @@ Table 5 to § 3.210 - Specific Risk-Weighting Factors for Corporate Debt Positio
 (D) For resecuritization positions, performance information on the underlying securitization exposures, for example, the issuer name and credit quality, and the characteristics and performance of the exposures underlying the securitization exposures.
 
 (ii) On an on-going basis (no less frequently than quarterly), evaluating, reviewing, and updating as appropriate the analysis required under paragraph (f)(1) of this section for each securitization position.
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35258, July 22, 2019]

@@ -1,12 +1,10 @@
 ##### § 217.52 Simple risk-weight approach (SRWA). #####
 
-Link to an amendment published at 84 FR 35266, July 22, 2019.
-
 (a) *General.* Under the SRWA, a Board-regulated institution's total risk-weighted assets for equity exposures equals the sum of the risk-weighted asset amounts for each of the Board-regulated institution's individual equity exposures (other than equity exposures to an investment fund) as determined under this section and the risk-weighted asset amounts for each of the Board-regulated institution's individual equity exposures to an investment fund as determined under § 217.53.
 
 (b) *SRWA computation for individual equity exposures.* A Board-regulated institution must determine the risk-weighted asset amount for an individual equity exposure (other than an equity exposure to an investment fund) by multiplying the adjusted carrying value of the equity exposure or the effective portion and ineffective portion of a hedge pair (as defined in paragraph (c) of this section) by the lowest applicable risk weight in this paragraph (b).
 
-(1) *Zero percent risk weight equity exposures.* An equity exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, an MDB, and any other entity whose credit exposures receive a zero percent risk weight under § 217.32 may be assigned a zero percent risk weight.
+(1) *Zero percent risk weight equity exposures.* An equity exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, an MDB, and any other entity whose credit exposures receive a zero percent risk weight under § 217.32 may be assigned a zero percent risk weight.
 
 (2) *20 percent risk weight equity exposures.* An equity exposure to a PSE, Federal Home Loan Bank or the Federal Agricultural Mortgage Corporation (Farmer Mac) must be assigned a 20 percent risk weight.
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (B) When determining which of a Board-regulated institution's equity exposures qualify for a 100 percent risk weight under this paragraph (b), a Board-regulated institution first must include equity exposures to unconsolidated small business investment companies or held through consolidated small business investment companies described in section 302 of the Small Business Investment Act, then must include publicly traded equity exposures (including those held indirectly through investment funds), and then must include non-publicly traded equity exposures (including those held indirectly through investment funds).
 
-(4) *250 percent risk weight equity exposures.* Significant investments in the capital of unconsolidated financial institutions in the form of common stock that are not deducted from capital pursuant to § 217.22(d) are assigned a 250 percent risk weight.
+(4) *250 percent risk weight equity exposures.* Significant investments in the capital of unconsolidated financial institutions in the form of common stock that are not deducted from capital pursuant to § 217.22(d)(2) are assigned a 250 percent risk weight.
 
 (5) *300 percent risk weight equity exposures.* A publicly traded equity exposure (other than an equity exposure described in paragraph (b)(7) of this section and including the ineffective portion of a hedge pair) must be assigned a 300 percent risk weight.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (ii) Has greater than immaterial leverage.
 
-(c) *Hedge transactions* - (1) *Hedge pair.* A hedge pair is two equity exposures that form an effective hedge so long as each equity exposure is publicly traded or has a return that is primarily based on a publicly traded equity exposure.
+(c) *Hedge transactions*—(1) *Hedge pair.* A hedge pair is two equity exposures that form an effective hedge so long as each equity exposure is publicly traded or has a return that is primarily based on a publicly traded equity exposure.
 
 (2) *Effective hedge.* Two equity exposures form an effective hedge if the exposures either have the same remaining maturity or each has a remaining maturity of at least three months; the hedge relationship is formally documented in a prospective manner (that is, before the Board-regulated institution acquires at least one of the equity exposures); the documentation specifies the measure of effectiveness (E) the Board-regulated institution will use for the hedge relationship throughout the life of the transaction; and the hedge relationship has an E greater than or equal to 0.8. A Board-regulated institution must measure E at least quarterly and must use one of three alternative measures of E as set forth in this paragraph (c).
 
@@ -52,4 +50,4 @@ Link to an amendment published at 84 FR 35266, July 22, 2019.
 
 (4) The ineffective portion of a hedge pair is (1-E) multiplied by the greater of the adjusted carrying values of the equity exposures forming a hedge pair.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62288, Oct. 11, 2013]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62288, Oct. 11, 2013; 84 FR 35266, July 22, 2019]

@@ -1,7 +1,5 @@
 ##### § 412.230 Criteria for an individual hospital seeking redesignation to another rural area or an urban area. #####
 
-Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
-
 (a) *General* - (1) *Purposes.* Except as specified in paragraph (a)(5) -
 
 (i) For fiscal years prior to fiscal year 2005, an individual hospital may be redesignated from a rural area to an urban area, from a rural area to another rural area, or from an urban area to another urban area for the purposes of using the other area's standardized amount for inpatient operating costs, the wage index value, or both.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (iv) A hospital that is redesignated under paragraph (a)(3) of this section may not be redesignated in the same fiscal year under paragraph (a)(2) of this section.
 
-(4) *Application of criteria.* In applying the numeric criteria contained in paragraphs (b)(1), (b)(2), (d)(1)(iii), (d)(1)(iv)(A), and (d)(1)(iv)(B) of this section, rounding of numbers to meet the mileage or qualifying percentage standards is not permitted.
+(4) *Application of criteria.* In applying the numeric criteria contained in paragraphs (b)(1) and (2) and (d)(1)(iii) and (iv) of this section, rounding of numbers to meet the mileage or qualifying percentage standards is not permitted.
 
 (5) *Limitations on redesignation.* The following limitations apply to redesignation:
 

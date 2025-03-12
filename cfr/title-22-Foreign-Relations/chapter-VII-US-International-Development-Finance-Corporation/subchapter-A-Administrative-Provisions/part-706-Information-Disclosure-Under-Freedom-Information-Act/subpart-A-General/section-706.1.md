@@ -1,0 +1,3 @@
+##### § 706.1 Description. #####
+
+This part contains the rules that the US International Development Finance Corporation (“DFC”) follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552 as amended. These rules should be read together with the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget. Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with DFC's Privacy Act regulations at 22 CFR part 707 as well as under this subpart.

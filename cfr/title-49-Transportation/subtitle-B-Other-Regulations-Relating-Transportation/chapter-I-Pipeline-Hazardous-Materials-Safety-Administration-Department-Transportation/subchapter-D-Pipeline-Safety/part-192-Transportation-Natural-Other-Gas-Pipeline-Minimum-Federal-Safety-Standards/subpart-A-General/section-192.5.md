@@ -1,5 +1,7 @@
 ##### § 192.5 Class locations. #####
 
+Link to an amendment published at 84 FR 52243, Oct. 1, 2019.
+
 (a) This section classifies pipeline locations for purposes of this part. The following criteria apply to classifications under this section.
 
 (1) A “class location unit” is an onshore area that extends 220 yards (200 meters) on either side of the centerline of any continuous 1- mile (1.6 kilometers) length of pipeline.

@@ -1,5 +1,7 @@
 ##### § 192.805 Qualification program. #####
 
+Link to an amendment published at 84 FR 52252, Oct. 1, 2019.
+
 Each operator shall have and follow a written qualification program. The program shall include provisions to:
 
 (a) Identify covered tasks;

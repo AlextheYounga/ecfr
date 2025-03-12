@@ -1,7 +1,5 @@
 ##### § 412.622 Basis of payment. #####
 
-Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
-
 (a) *Method of payment.* (1) Under the prospective payment system, inpatient rehabilitation facilities receive a predetermined amount per discharge for inpatient services furnished to Medicare Part A fee-for-service beneficiaries.
 
 (2) The amount of payment under the prospective payment system is based on the Federal payment rate, including adjustments described in § 412.624 and, if applicable, during a transition period, on a blend of the Federal payment rate and the facility-specific payment rate described in § 412.626.
@@ -14,13 +12,13 @@ Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
 
 (iii) Is sufficiently stable at the time of admission to the IRF to be able to actively participate in the intensive rehabilitation therapy program that is described in paragraph (a)(3)(ii) of this section.
 
-(iv) Requires physician supervision by a rehabilitation physician, defined as a licensed physician with specialized training and experience in inpatient rehabilitation. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process. The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
+(iv) Requires physician supervision by a rehabilitation physician. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process. The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
 
 (4) *Documentation.* To document that each patient for whom the IRF seeks payment is reasonably expected to meet all of the requirements in paragraph (a)(3) of this section at the time of admission, the patient's medical record at the IRF must contain the following documentation -
 
 (i) A comprehensive preadmission screening that meets all of the following requirements -
 
-(A) It is conducted by a licensed or certified clinician(s) designated by a rehabilitation physician described in paragraph (a)(3)(iv) of this section within the 48 hours immediately preceding the IRF admission. A preadmission screening that includes all of the required elements, but that is conducted more than 48 hours immediately preceding the IRF admission, will be accepted as long as an update is conducted in person or by telephone to update the patient's medical and functional status within the 48 hours immediately preceding the IRF admission and is documented in the patient's medical record.
+(A) It is conducted by a licensed or certified clinician(s) designated by a rehabilitation physician within the 48 hours immediately preceding the IRF admission. A preadmission screening that includes all of the required elements, but that is conducted more than 48 hours immediately preceding the IRF admission, will be accepted as long as an update is conducted in person or by telephone to update the patient's medical and functional status within the 48 hours immediately preceding the IRF admission and is documented in the patient's medical record.
 
 (B) It includes a detailed and comprehensive review of each patient's condition and medical history.
 
@@ -40,13 +38,13 @@ Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
 
 (iii) An individualized overall plan of care for the patient that meets all of the following requirements -
 
-(A) It is developed by a rehabilitation physician, as defined in paragraph (a)(3)(iv) of this section, with input from the interdisciplinary team within 4 days of the patient's admission to the IRF.
+(A) It is developed by a rehabilitation physician with input from the interdisciplinary team within 4 days of the patient's admission to the IRF.
 
 (B) It is retained in the patient's medical record at the IRF.
 
 (5) *Interdisciplinary team approach to care.* In order for an IRF claim to be considered reasonable and necessary under section 1862(a)(1) of the Act, the patient must require an interdisciplinary team approach to care, as evidenced by documentation in the patient's medical record of weekly interdisciplinary team meetings that meet all of the following requirements -
 
-(i) The team meetings are led by a rehabilitation physician as defined in paragraph (a)(3)(iv) of this section, and further consist of a registered nurse with specialized training or experience in rehabilitation; a social worker or case manager (or both); and a licensed or certified therapist from each therapy discipline involved in treating the patient. All team members must have current knowledge of the patient's medical and functional status. The rehabilitation physician may lead the interdisciplinary team meeting remotely via a mode of communication such as video or telephone conferencing.
+(i) The team meetings are led by a rehabilitation physician and further consist of a registered nurse with specialized training or experience in rehabilitation; a social worker or case manager (or both); and a licensed or certified therapist from each therapy discipline involved in treating the patient. All team members must have current knowledge of the patient's medical and functional status. The rehabilitation physician may lead the interdisciplinary team meeting remotely via a mode of communication such as video or telephone conferencing.
 
 (ii) The team meetings occur at least once per week throughout the duration of the patient's stay to implement appropriate treatment services; review the patient's progress toward stated rehabilitation goals; identify any problems that could impede progress towards those goals; and, where necessary, reassess previously established goals in light of impediments, revise the treatment plan in light of new goals, and monitor continued progress toward those goals.
 
@@ -60,4 +58,8 @@ Link to an amendment published at 84 FR 39172, Aug. 8, 2019.
 
 (ii) A payment amount per unit for blood clotting factor provided to Medicare inpatients who have hemophilia.
 
-[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018]
+(c) *Definitions.* As used in this section -
+
+*Rehabilitation physician* means a licensed physician who is determined by the IRF to have specialized training and experience in inpatient rehabilitation.
+
+[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019]

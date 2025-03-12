@@ -1,5 +1,7 @@
 ##### § 195.401 General requirements. #####
 
+Link to an amendment published at 84 FR 52295, Oct. 1, 2019.
+
 (a) No operator may operate or maintain its pipeline systems at a level of safety lower than that required by this subpart and the procedures it is required to establish under § 195.402(a) of this subpart.
 
 (b) An operator must make repairs on its pipeline system according to the following requirements:

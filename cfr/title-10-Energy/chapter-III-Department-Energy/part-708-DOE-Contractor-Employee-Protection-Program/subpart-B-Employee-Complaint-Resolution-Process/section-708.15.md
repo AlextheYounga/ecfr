@@ -1,17 +1,13 @@
-##### § 708.15 What happens if an employee files a complaint under this part and also pursues a remedy under State or other law? #####
+##### § 708.15 Time to file a complaint. #####
 
-(a) You may not file a complaint under this part if, with respect to the same facts, you choose to pursue a remedy under State or other applicable law, including final and binding grievance-arbitration procedures, unless:
+(a) A complaint must be filed by the 90th day after the date the employee knew, or reasonably should have known, of the alleged retaliation.
 
-(1) Your complaint under State or other applicable law is dismissed for lack of jurisdiction;
+(b) The period for filing a complaint does not include time spent attempting to resolve the dispute through an internal company grievance-arbitration procedure. The time period for filing stops running on the day the internal grievance is filed and begins to run again on the earlier of:
 
-(2) Your complaint was filed under 48 CFR part 3, Subpart 3.9 and the Inspector General, after conducting an initial inquiry, determines not to pursue it; or
+(1) The day after such dispute resolution efforts end; or
 
-(3) You have exhausted grievance-arbitration procedures pursuant to § 708.13, and issues related to alleged retaliation for conduct protected under § 708.5 remain.
+(2) 150 days after the internal grievance was filed if a final decision on the grievance has not been issued.
 
-(b) Pursuing a remedy other than final and binding grievance-arbitration procedures does not prevent you from filing a complaint under this part.
+(c) The period for filing a complaint does not include time spent resolving jurisdictional issues related to a complaint the employee files under State or other applicable law. The time period for filing stops running on the date the complaint under State or other applicable law is filed and begins to run again the day after a final decision on the jurisdictional issues is issued.
 
-(c) You are considered to have filed a complaint under State or other applicable law if you file a complaint, or other pleading, with respect to the same facts in a proceeding established or mandated by State or other applicable law, whether you file such complaint before, concurrently with, or after you file a complaint under this part.
-
-(d) If you file a complaint under State or other applicable law after filing a complaint under this part, your complaint under this regulation will be dismissed under § 708.17(c)(3).
-
-[57 FR 7541, Mar. 3, 1992, as amended at 65 FR 6319, Feb. 9, 2000]
+(d) If the complaint is not filed during the 90-day period, the Head of Field Element or EC Director (as applicable) will give the complainant an opportunity to show any good reason he may have for not filing within that period, and that official may, in his discretion, accept the complaint for processing.

@@ -1,13 +1,11 @@
-##### § 708.14 How much time does an employee have to file a complaint? #####
+##### § 708.14 Exhaustion of grievance-arbitration procedures. #####
 
-(a) You must file your complaint by the 90th day after the date you knew, or reasonably should have known, of the alleged retaliation.
+(a) To show that all applicable grievance-arbitration procedures have been exhausted, the complainant must:
 
-(b) The period for filing a complaint does not include time spent attempting to resolve the dispute through an internal company grievance-arbitration procedure. The time period for filing stops running on the day the internal grievance is filed and begins to run again on the earlier of:
+(1) State that all available opportunities for resolution through an applicable grievance-arbitration procedure have been exhausted, and provide the date on which the grievance-arbitration procedure was terminated and the reasons for termination; or
 
-(1) The day after such dispute resolution efforts end; or
+(2) State that the complainant filed a grievance under applicable grievance-arbitration procedures, but more than 150 days have passed and a final decision on it has not been issued, and provide the date that the grievance was filed; or
 
-(2) 150 days after the internal grievance was filed if a final decision on the grievance has not been issued.
+(3) State that the employer has established no grievance-arbitration procedures.
 
-(c) The period for filing a complaint does not include time spent resolving jurisdictional issues related to a complaint you file under State or other applicable law. The time period for filing stops running on the date the complaint under State or other applicable law is filed and begins to run again the day after a final decision on the jurisdictional issues is issued.
-
-(d) If you do not file your complaint during the 90-day period, the Head of Field Element or EC Director (as applicable) will give you an opportunity to show any good reason you may have for not filing within that period, and that official may, in his or her discretion, accept your complaint for processing.
+(b) If the complainant does not provide the information specified in paragraph (a) of this section, the complaint may be dismissed for lack of jurisdiction as provided in § 708.18 of this subpart.

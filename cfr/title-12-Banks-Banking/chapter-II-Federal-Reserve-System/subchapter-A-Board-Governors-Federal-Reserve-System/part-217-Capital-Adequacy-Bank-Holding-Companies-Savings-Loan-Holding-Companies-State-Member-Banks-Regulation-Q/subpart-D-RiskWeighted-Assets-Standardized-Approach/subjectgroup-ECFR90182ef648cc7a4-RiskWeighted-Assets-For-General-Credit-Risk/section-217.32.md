@@ -1,7 +1,5 @@
 ##### § 217.32 General risk weights. #####
 
-Link to an amendment published at 84 FR 35264, July 22, 2019.
-
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a Board-regulated institution must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and
@@ -40,7 +38,7 @@ Table 1 to § 217.32 - Risk Weights for Sovereign Exposures
 
 (6) *Sovereign default.* A Board-regulated institution must assign a 150 percent risk weight to a sovereign exposure immediately upon determining that an event of sovereign default has occurred, or if an event of sovereign default has occurred during the previous five years.
 
-(b) *Certain supranational entities and multilateral development banks (MDBs).* A Board-regulated institution must assign a zero percent risk weight to an exposure to the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, or an MDB.
+(b) *Certain supranational entities and multilateral development banks (MDBs).* A Board-regulated institution must assign a zero percent risk weight to an exposure to the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, or an MDB.
 
 (c) *Exposures to GSEs.* (1) A Board-regulated institution must assign a 20 percent risk weight to an exposure to a GSE other than an equity exposure or preferred stock.
 
@@ -48,7 +46,7 @@ Table 1 to § 217.32 - Risk Weights for Sovereign Exposures
 
 (d) *Exposures to depository institutions, foreign banks, and credit unions* - (1) *Exposures to U.S. depository institutions and credit unions.* A Board-regulated institution must assign a 20 percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided under paragraph (d)(3) of this section.
 
-(2) *Exposures to foreign banks.* (i) Except as otherwise provided under paragraphs (d)(2)(iv) and (d)(3) of this section, a Board-regulated institution must assign a risk weight to an exposure to a foreign bank, in accordance with Table 2 to § 217.32, based on the CRC that corresponds to the foreign bank's home country or the OECD membership status of the foreign bank's home country if there is no CRC applicable to the foreign bank's home country.
+(2) *Exposures to foreign banks.* (i) Except as otherwise provided under paragraphs (d)(2)(iii), (d)(2)(v), and (d)(3) of this section, a Board-regulated institution must assign a risk weight to an exposure to a foreign bank, in accordance with Table 2 to § 217.32, based on the CRC that corresponds to the foreign bank's home country or the OECD membership status of the foreign bank's home country if there is no CRC applicable to the foreign bank's home country.
 
 Table 2 to § 217.32 - Risk Weights for Exposures to Foreign Banks
 
@@ -65,15 +63,17 @@ Table 2 to § 217.32 - Risk Weights for Exposures to Foreign Banks
 
 (ii) A Board-regulated institution must assign a 20 percent risk weight to an exposure to a foreign bank whose home country is a member of the OECD and does not have a CRC.
 
-(iii) A Board-regulated institution must assign a 100 percent risk weight to an exposure to a foreign bank whose home country is not a member of the OECD and does not have a CRC, with the exception of self-liquidating, trade-related contingent items that arise from the movement of goods, and that have a maturity of three months or less, which may be assigned a 20 percent risk weight.
+(iii) A Board-regulated institution must assign a 20 percent risk-weight to an exposure that is a self-liquidating, trade-related contingent item that arises from the movement of goods and that has a maturity of three months or less to a foreign bank whose home country has a CRC of 0, 1, 2, or 3, or is an OECD member with no CRC.
 
-(iv) A Board-regulated institution must assign a 150 percent risk weight to an exposure to a foreign bank immediately upon determining that an event of sovereign default has occurred in the bank's home country, or if an event of sovereign default has occurred in the foreign bank's home country during the previous five years.
+(iv) A Board-regulated institution must assign a 100 percent risk weight to an exposure to a foreign bank whose home country is not a member of the OECD and does not have a CRC, with the exception of self-liquidating, trade-related contingent items that arise from the movement of goods, and that have a maturity of three months or less, which may be assigned a 20 percent risk weight.
+
+(v) A Board-regulated institution must assign a 150 percent risk weight to an exposure to a foreign bank immediately upon determining that an event of sovereign default has occurred in the bank's home country, or if an event of sovereign default has occurred in the foreign bank's home country during the previous five years.
 
 (3) A Board-regulated institution must assign a 100 percent risk weight to an exposure to a financial institution if the exposure may be included in that financial institution's capital unless the exposure is:
 
 (i) An equity exposure;
 
-(ii) A significant investment in the capital of an unconsolidated financial institution in the form of common stock pursuant to § 217.22(d)(iii);
+(ii) A significant investment in the capital of an unconsolidated financial institution in the form of common stock pursuant to § 217.22(d)(2)(i)(c);
 
 (iii) Deducted from regulatory capital under § 217.22; or
 
@@ -152,9 +152,9 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (k) *Past due exposures.* Except for an exposure to a sovereign entity or a residential mortgage exposure or a policy loan, if an exposure is 90 days or more past due or on nonaccrual:
 
-(1) A Board-regulated institution must assign a 150 percent risk weight to the portion of the exposure that is not guaranteed or that is unsecured.
+(1) A Board-regulated institution must assign a 150 percent risk weight to the portion of the exposure that is not guaranteed or that is unsecured;
 
-(2) A Board-regulated institution may assign a risk weight to the guaranteed portion of a past due exposure based on the risk weight that applies under § 217.36 if the guarantee or credit derivative meets the requirements of that section.
+(2) A Board-regulated institution may assign a risk weight to the guaranteed portion of a past due exposure based on the risk weight that applies under § 217.36 if the guarantee or credit derivative meets the requirements of that section; and
 
 (3) A Board-regulated institution may assign a risk weight to the collateralized portion of a past due exposure based on the risk weight that applies under § 217.37 if the collateral meets the requirements of that section.
 
@@ -166,7 +166,7 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (3) A Board-regulated institution must assign a 100 percent risk weight to DTAs arising from temporary differences that the Board-regulated institution could realize through net operating loss carrybacks.
 
-(4) A Board-regulated institution must assign a 250 percent risk weight to the portion of each of the following items that is not deducted from common equity tier 1 capital pursuant to § 217.22(d):
+(4) A Board-regulated institution must assign a 250 percent risk weight to the portion of each of the following items to the extent it is not deducted from common equity tier 1 capital pursuant to § 217.22(d):
 
 (i) MSAs; and
 
@@ -186,4 +186,4 @@ Table 4 to § 217.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (2) *Policy loans.* A bank holding company or savings and loan holding company must assign a 20 percent risk weight to a policy loan.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62287, Oct. 11, 2013; 84 FR 35264, July 22, 2019]

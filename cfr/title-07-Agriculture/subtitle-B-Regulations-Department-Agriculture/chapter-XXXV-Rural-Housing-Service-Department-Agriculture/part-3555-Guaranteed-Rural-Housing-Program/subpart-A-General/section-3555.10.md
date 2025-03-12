@@ -1,7 +1,5 @@
 ##### § 3555.10 Definitions and abbreviations. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
-
 The definitions and abbreviations in this section apply to this part.
 
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the covenants in the promissory note, assumption agreement, or security instruments are breached.
@@ -134,8 +132,6 @@ The definitions and abbreviations in this section apply to this part.
 
 *Market value.* The value of the property as determined by a current appraisal made in accordance with the Uniform Standards of Professional Appraisal Practices.
 
-*Maximum allowable interest rate.* For purposes of § 3555.304, the rate established by the Agency in a Federal Register notice describing how to calculate the maximum allowable interest rate. If the maximum allowable interest rate has not been established by notice in the Federal Register, the maximum allowable interest rate shall be 50 basis points greater than the most recent Freddie Mac Weekly Primary Mortgage Market Survey (PMMS) rate for 30-year fixed-rate mortgages (U.S. average), rounded to the nearest one-eighth of one percent (0.125%), as of the date the loan modification is executed. Weekly PMMS rates are published on the Freddie Mac Web site, and the Federal Reserve Board includes the average 30-year PMMS rate in the list of Selected Interest Rates that it publishes weekly in its Statistical Release H.15.
-
 *Median income.* The area median income, adjusted for family size, as established by HUD.
 
 *Moderate income.* The greater of:
@@ -250,4 +246,6 @@ The definitions and abbreviations in this section apply to this part.
 
 (6) During any other period as prescribed by Presidential proclamation or law.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016; 84 FR 29038, June 21, 2019]
+*Warehouse lender.* A non-depository lender who utilizes short-term revolving lines of credit to finance loan origination and or construction financing.
+
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016; 84 FR 29038, June 21, 2019; 84 FR 35006, July 22, 2019]

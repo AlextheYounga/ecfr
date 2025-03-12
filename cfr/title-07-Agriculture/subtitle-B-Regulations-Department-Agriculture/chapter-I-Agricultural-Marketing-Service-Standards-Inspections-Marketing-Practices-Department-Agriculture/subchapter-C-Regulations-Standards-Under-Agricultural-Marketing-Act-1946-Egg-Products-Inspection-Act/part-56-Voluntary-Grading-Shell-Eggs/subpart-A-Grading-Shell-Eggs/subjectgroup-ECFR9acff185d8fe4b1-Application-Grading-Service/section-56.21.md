@@ -1,11 +1,21 @@
 ##### § 56.21 How application for service may be made; conditions of service. #####
 
-Link to an amendment published at 84 FR 49641, Sept. 23, 2019.
+(a) *Application.* (1) Any person may apply for service with respect to products in which he or she has a financial interest by completing the required application for service. In any case in which the service is intended to be furnished at an establishment not operated by the applicant, the application must be approved by the operator of such establishment and such approval shall constitute an authorization for any employee of the Department to enter the establishment for the purpose of performing his or her functions under the regulations in this part. The application must include:
 
-(a) *Noncontinuous grading service on a fee basis.* An application for any noncontinuous grading service on a fee basis shall be made in any office of grading, or with any grader at or nearest the place where the service is desired. Such application may be made orally (in person or by telephone), in writing, or by other electronic means.
+(i) Name and address of the establishment at which service is desired;
 
-(b) *Continuous grading service on a resident basis or continuous grading service on a nonresident basis.* An application for continuous grading service on a resident basis or for continuous grading service on a nonresident basis must be made in writing on forms approved by the Administrator and filed with the Administrator. Such forms may be obtained at the national, regional, or State grading office, or at the AMS Web site. In making application, the applicant agrees to comply with the terms and conditions of the regulations (including, but not being limited to, such instructions governing grading of products as may be issued from time to time by the Administrator). No member of or Delegate to Congress or Resident Commissioner shall be admitted to any benefit that may arise from such service unless derived through service rendered a corporation for its general benefit.
+(ii) Name and mailing address of the applicant;
 
-(c) *Temporary grading service on a fee basis.* An application for grading service on a temporary basis must be made in writing on forms approved by the Administrator and filed with the Administrator. Such forms may be obtained at the national, regional, or State grading office. In making application, the applicant agrees to comply with the terms and conditions of the regulations (including, but not limited to, such instructions governing grading of products as may be issued from time to time by the Administrator). No member of or Delegate to Congress or Resident Commissioner shall be admitted to any benefit that may arise from such service unless derived through service rendered a corporation for its general benefit.
+(iii) Financial interest of the applicant in the products, except where application is made by a representative of a Government agency in the representative's official capacity;
 
-[42 FR 2970, Jan. 14, 1977. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 69 FR 76375, Dec. 21, 2004; 71 FR 42009, July 24, 2006]
+(iv) Signature of the applicant (or the signature and title of the applicant's representative);
+
+(v) Indication of the legal status of the applicant as an individual, partnership, corporation, or other form of legal entity; and
+
+(vi) The legal designation of the applicant's business as a small or large business, as defined by the U.S. Small Business Administration's North American Industry Classification System (NAICS) Codes.
+
+(2) In making application, the applicant agrees to comply with the terms and conditions of the regulations in this part (including, but not being limited to, such instructions governing grading of products as may be issued from time to time by the Administrator). No member of or Delegate to Congress or Resident Commissioner shall be admitted to any benefit that may arise from such service unless derived through service rendered a corporation for its general benefit. Any change in such status, at any time while service is being received, shall be promptly reported by the person receiving the service to the grading office designated by the Director or Chief to process such requests.
+
+(b) *Notice of eligibility for service.* The applicant will be notified whether the application is approved or denied.
+
+[84 FR 49641, Sept. 23, 2019]

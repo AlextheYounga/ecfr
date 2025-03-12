@@ -1,7 +1,5 @@
 ##### § 3.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 35248, July 22, 2019.
-
 (a) *Minimum capital requirements.* A national bank or Federal savings association must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.
@@ -118,7 +116,7 @@ E\* = max {0, [ΣEi − ΣCi]}
 
 (G) If a national bank or Federal savings association acting as an agent for a repo-style transaction provides a guarantee to a customer of the security or cash its customer has lent or borrowed with respect to the performance of the customer's counterparty and the guarantee is not limited to the difference between the fair value of the security or cash its customer has lent and the fair value of the collateral the borrower has provided, the amount of the guarantee that is greater than the difference between the fair value of the security or cash its customer has lent and the value of the collateral the borrower has provided;
 
-(H) The credit equivalent amount of all off-balance sheet exposures of the national bank or Federal savings association, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversation factor under § 3.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
+(H) The credit equivalent amount of all off-balance sheet exposures of the national bank or Federal savings association, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversion factor under § 3.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
 
 (I) For a national bank or Federal savings association that is a clearing member:
 
@@ -138,4 +136,4 @@ E\* = max {0, [ΣEi − ΣCi]}
 
 (2) A national bank or Federal savings association must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 79 FR 57740, Sept. 26, 2014; 80 FR 41415, July 15, 2015; 84 FR 4238, Feb. 14, 2019; 84 FR 35248, July 22, 2019]

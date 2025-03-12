@@ -1,5 +1,7 @@
-##### § 708.31 If no hearing is conducted, what is the process for issuing an initial agency decision? #####
+##### § 708.31 Procedure for issuing an initial agency decision. #####
 
-(a) If no party wants a hearing after the issuance of a report of investigation, the Administrative Judge will issue an initial agency decision by the 60th day after the hearing is canceled pursuant to § 708.24. The standards in § 708.30, governing the issuance of an initial agency decision, apply whether or not a hearing has been held on the complaint.
+(a) The Administrative Judge will serve the initial agency decision on all parties.
 
-(b) The Administrative Judge will serve the initial agency decision on all parties.
+(b) An initial agency decision issued by the Administrative Judge will contain appropriate findings, conclusions, an order, and the factual basis for each finding, whether or not a hearing has been held on the complaint. In making such findings, the Administrative Judge may rely upon, but is not bound by, the report of investigation.
+
+(c) If the Administrative Judge determines that an act of retaliation has occurred, the initial agency decision will include an order for any form of relief permitted under § 708.36. If the Administrative Judge does not determine that an act of retaliation has occurred, the initial agency decision will state that the complaint is denied.

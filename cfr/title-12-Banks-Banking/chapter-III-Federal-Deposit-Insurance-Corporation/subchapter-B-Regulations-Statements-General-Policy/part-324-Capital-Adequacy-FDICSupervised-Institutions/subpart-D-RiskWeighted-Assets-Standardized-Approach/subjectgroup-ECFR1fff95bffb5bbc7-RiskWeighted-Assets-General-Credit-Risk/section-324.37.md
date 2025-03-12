@@ -1,7 +1,5 @@
 ##### § 324.37 Collateralized transactions. #####
 
-Link to an amendment published at 84 FR 35277, July 22, 2019.
-
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral, an FDIC-supervised institution may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 35277, July 22, 2019.
 
 (2) An FDIC-supervised institution may use any approach described in this section that is valid for a particular type of exposure or transaction; however, it must use the same approach for similar exposures or transactions.
 
-(b) *The simple approach.* (1) *General requirements.* (i) An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures any exposure.
+(b) *The simple approach* - (1) *General requirements.* (i) An FDIC-supervised institution may recognize the credit risk mitigation benefits of financial collateral that secures any exposure.
 
 (ii) To qualify for the simple approach, the financial collateral must meet the following requirements:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 35277, July 22, 2019.
 
 (C) The collateral (other than gold) and the exposure must be denominated in the same currency.
 
-(2) *Risk weight substitution.* (i) An FDIC-supervised institution may apply a risk weight to the portion of an exposure that is secured by the fair value of financial collateral (that meets the requirements of paragraph (b)(1) of this section) based on the risk weight assigned to the collateral under § 324.32. For repurchase agreements, reverse repurchase agreements, and securities lending and borrowing transactions, the collateral is the instruments, gold, and cash the FDIC-supervised institution has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction. Except as provided in paragraph (b)(3) of this section, the risk weight assigned to the collateralized portion of the exposure may not be less than 20 percent.
+(2) *Risk weight substitution.* (i) An FDIC-supervised institution may apply a risk weight to the portion of an exposure that is secured by the fair value of financial collateral (that meets the requirements of paragraph (b)(1) of this section) based on the risk weight assigned to the collateral under this subpart D. For repurchase agreements, reverse repurchase agreements, and securities lending and borrowing transactions, the collateral is the instruments, gold, and cash the FDIC-supervised institution has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction. Except as provided in paragraph (b)(3) of this section, the risk weight assigned to the collateralized portion of the exposure may not be less than 20 percent.
 
 (ii) An FDIC-supervised institution must apply a risk weight to the unsecured portion of the exposure based on the risk weight applicable to the exposure under this subpart.
 
@@ -121,4 +119,4 @@ Table 1 to § 324.37 - Standard Supervisory Market Price Volatility Haircuts<sup
 
 (v) An FDIC-supervised institution's own estimates of market price and foreign exchange rate volatilities may not take into account the correlations among securities and foreign exchange rates on either the exposure or collateral side of a transaction (or netting set) or the correlations among securities and foreign exchange rates between the exposure and collateral sides of the transaction (or netting set).
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019]

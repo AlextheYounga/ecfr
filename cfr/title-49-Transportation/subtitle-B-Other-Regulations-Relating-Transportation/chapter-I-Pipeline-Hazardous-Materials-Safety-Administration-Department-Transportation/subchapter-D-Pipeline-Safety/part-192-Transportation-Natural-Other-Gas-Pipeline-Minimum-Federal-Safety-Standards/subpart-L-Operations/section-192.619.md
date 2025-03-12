@@ -1,5 +1,7 @@
 ##### § 192.619 Maximum allowable operating pressure: Steel or plastic pipelines. #####
 
+Link to an amendment published at 84 FR 52247, Oct. 1, 2019.
+
 (a) No person may operate a segment of steel or plastic pipeline at a pressure that exceeds a maximum allowable operating pressure determined under paragraph (c) or (d) of this section, or the lowest of the following:
 
 (1) The design pressure of the weakest element in the segment, determined in accordance with subparts C and D of this part. However, for steel pipe in pipelines being converted under § 192.14 or uprated under subpart K of this part, if any variable necessary to determine the design pressure under the design formula (§ 192.105) is unknown, one of the following pressures is to be used as design pressure:

@@ -1,7 +1,5 @@
 ##### § 324.38 Unsettled transactions. #####
 
-Link to an amendment published at 84 FR 35277, July 22, 2019.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) Delivery-versus-payment (DvP) transaction means a securities or commodities transaction in which the buyer is obligated to make payment only if the seller has made delivery of the securities or commodities and the seller is obligated to deliver the securities or commodities only if the buyer has made payment.
@@ -26,8 +24,6 @@ Link to an amendment published at 84 FR 35277, July 22, 2019.
 
 (d) *Delivery-versus-payment (DvP) and payment-versus-payment (PvP) transactions.* An FDIC-supervised institution must hold risk-based capital against any DvP or PvP transaction with a normal settlement period if the FDIC-supervised institution's counterparty has not made delivery or payment within five business days after the settlement date. The FDIC-supervised institution must determine its risk-weighted asset amount for such a transaction by multiplying the positive current exposure of the transaction for the FDIC-supervised institution by the appropriate risk weight in Table 1 to § 324.38.
 
-Table 1 to § 324.38 - Risk Weights for Unsettled DvP and PvP Transactions
-
 |Number of business days after contractual settlement date|Risk weight to be applied to positive current exposure  <br/>(in percent)|
 |---------------------------------------------------------|-------------------------------------------------------------------------|
 |                      From 5 to 15                       |                                  100.0                                  |
@@ -37,8 +33,10 @@ Table 1 to § 324.38 - Risk Weights for Unsettled DvP and PvP Transactions
 
 (e) *Non-DvP/non-PvP (non-delivery-versus-payment/non-payment-versus-payment) transactions.* (1) An FDIC-supervised institution must hold risk-based capital against any non-DvP/non-PvP transaction with a normal settlement period if the FDIC-supervised institution has delivered cash, securities, commodities, or currencies to its counterparty but has not received its corresponding deliverables by the end of the same business day. The FDIC-supervised institution must continue to hold risk-based capital against the transaction until the FDIC-supervised institution has received its corresponding deliverables.
 
-(2) From the business day after the FDIC-supervised institution has made its delivery until five business days after the counterparty delivery is due, the FDIC-supervised institution must calculate the risk-weighted asset amount for the transaction by treating the current fair value of the deliverables owed to the FDIC-supervised institution as an exposure to the counterparty and using the applicable counterparty risk weight under § 324.32.
+(2) From the business day after the FDIC-supervised institution has made its delivery until five business days after the counterparty delivery is due, the FDIC-supervised institution must calculate the risk-weighted asset amount for the transaction by treating the current fair value of the deliverables owed to the FDIC-supervised institution as an exposure to the counterparty and using the applicable counterparty risk weight under this subpart D.
 
 (3) If the FDIC-supervised institution has not received its deliverables by the fifth business day after counterparty delivery was due, the FDIC-supervised institution must assign a 1,250 percent risk weight to the current fair value of the deliverables owed to the FDIC-supervised institution.
 
 (f) *Total risk-weighted assets for unsettled transactions.* Total risk-weighted assets for unsettled transactions is the sum of the risk-weighted asset amounts of all DvP, PvP, and non-DvP/non-PvP transactions.
+
+[78 FR 55471, Sept. 10, 2013, as amended at 84 FR 35277, July 22, 2019]

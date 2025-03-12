@@ -1,0 +1,5 @@
+##### § 706.10 Publicly available records. #####
+
+Records that the FOIA requires agencies to make available for public inspection in an electronic format may be accessed through DFC's FOIA Web site at *www.dfc.gov.* Records identified as of interest to the public and appropriate for public disclosure are also available, along with an index. These include annual reports and financial statements, program handbooks, press releases, application forms, claims information, and annual FOIA reports. DFC will review and update its Web site of posted records on an ongoing basis. Persons seeking information are encouraged to visit DFC's Web site to see what information is already available before submitting a request; DFC's FOIA Office and FOIA Public Liaison are available to assist individuals in locating records.
+
+[82 FR 20434, May 2, 2017, as amended at 84 FR 37752, Aug. 2, 2019]

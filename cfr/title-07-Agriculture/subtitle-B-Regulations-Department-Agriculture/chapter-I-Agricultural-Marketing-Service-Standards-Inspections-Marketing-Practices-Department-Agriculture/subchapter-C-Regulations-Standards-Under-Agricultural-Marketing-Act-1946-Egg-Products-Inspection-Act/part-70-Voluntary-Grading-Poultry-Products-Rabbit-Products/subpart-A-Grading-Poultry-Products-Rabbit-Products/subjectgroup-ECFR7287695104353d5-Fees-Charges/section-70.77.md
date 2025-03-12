@@ -1,20 +1,26 @@
-##### § 70.77 Charges for continuous poultry or rabbit grading performed on a resident basis. #####
+##### § 70.77 Charges for services on a scheduled basis. #####
 
-Link to an amendment published at 84 FR 49644, Sept. 23, 2019.
+Fees to be charged and collected for any grading service, other than for an appeal grading, on a scheduled grading basis, will be determined based on the formulas in this part. The fees to be charged for any appeal grading will be as provided in § 70.71.
 
-Fees to be charged and collected for any grading service on a resident grading basis and for an appeal grading shall be determined based on the formulas in § 70.71.
+(a) *Charges.* The charges for the grading of poultry and rabbits and edible products thereof must be paid by the applicant for the service and will include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to the National Finance Center. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills are payable upon receipt.
 
-(a) *Charges.* The charges for the grading of poultry and rabbits and edible products thereof shall be paid by the applicant for the service and shall include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to the AMS. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills will be rendered by the 10th day following the end of the billing period in which the service was rendered and are payable upon receipt.
+(1) When a signed application for service has been received, the State supervisor or his designee will complete a plant survey pursuant to § 70.34. The costs for completing the plant survey will be borne by the applicant on an unscheduled basis as described in § 70.71. No charges will be assessed when the application is required because of a change in name or ownership. If service is not installed within 6 months from the date the application is filed, or if service is inactive due to an approved request for removal of a grader or graders for a period of 6 months, the application will be considered terminated. A new application may be filed at any time. In addition, there will be a charge of $300 if the application is terminated at the request of the applicant for reasons other than for a change in location within 12 months from the date of the inauguration of service.
 
-(1) When a signed application for service has been received, the State supervisor or the supervisor's assistant shall complete a plant survey pursuant to § 70.34. The costs for completing the plant survey shall be borne by the applicant on a fee basis based on the formulas in § 70.71. No charges will be assessed when the application is required because of a change in name or ownership. If service is not installed within 6 months from the date the application is filed, or if service is inactive due to an approved request for removal of a grader(s) for a period of 6 months, the application will be considered terminated, but a new application may be filed at any time. In addition, there will be a charge of $300 if the application is terminated at the request of the applicant for reasons other than for a change in location within 12 months from the date of the inauguration of service.
+(2) Charges for the cost of each grader assigned to a plant will be calculated as described in § 70.71. Minimum fees for service performed under a scheduled agreement will be based on the hours of the regular tour of duty. The Agency reserves the right to use any grader assigned to the plant under a scheduled agreement to perform service for other applicants and no charge will be assessed to the scheduled applicant for the number of hours charged to the other applicant. Charges to plants are as follows:
 
-(2) A charge for the salary and other costs, as specified in this part, for each grader while assigned to a plant, except that no charge will be made when the assigned grader is temporarily reassigned by AMS to perform grading service for other than the applicant.
+(i) The regular hourly rate will be charged for hours worked in accordance with the approved tour of duty on the application for service between the hours of 6 a.m. and 6 p.m.
+
+(ii) The overtime rate will be charged for hours worked in excess of the approved tour of duty on the application for service.
+
+(iii) The holiday hourly rate will be charged for hours worked on observed legal holidays.
+
+(iv) The night differential rate (for regular or overtime hours) will be charged for hours worked between 6 p.m. and 6 a.m.
+
+(v) The Sunday differential rate (for regular or overtime hours) will be charged for hours worked on a Sunday.
+
+(vi) For all hours of work performed in a plant without an approved tour of duty, the charge will be one of the applicable hourly rates in § 70.71 plus actual travel expenses incurred by AMS.
 
 (3) A charge at the hourly rates specified in § 70.71, plus actual travel expenses incurred by AMS for intermediate surveys to firms without grading service in effect.
-
-(4) For poultry grading: An administrative service charge based upon the aggregate weight of the total volume of all live and ready-to-cook poultry handled in the plant per billing period computed in accordance with the following: Total pounds per billing period multiplied by $0.00045 beginning March 30, 2008, and $0.00047 on or after January 25, 2009, except that the minimum charge per billing period shall be $275 and the maximum charge shall be $3,150 beginning March 30, 2008, and $3,225 on or after January 25, 2009. The minimum charge also applies where an approved application is in effect and no product is handled.
-
-(5) For rabbit grading: An administrative service charge equal to 25 percent of the grader's total salary costs. A minimum charge of $275 will be made each billing period. The minimum charge also applies where an approved application is in effect and no product is handled.
 
 (b) *Other provisions.* (1) The applicant shall designate in writing the employees of the applicant who will be required and authorized to furnish each grader with such information as may be necessary for the performance of the grading service.
 

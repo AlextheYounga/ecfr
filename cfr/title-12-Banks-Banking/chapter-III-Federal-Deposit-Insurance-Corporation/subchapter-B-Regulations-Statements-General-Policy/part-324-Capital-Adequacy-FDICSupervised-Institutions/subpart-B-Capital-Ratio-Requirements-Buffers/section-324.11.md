@@ -1,20 +1,18 @@
 ##### § 324.11 Capital conservation buffer and countercyclical capital buffer amount. #####
 
-Link to an amendment published at 84 FR 35270, July 22, 2019.
-
 (a) *Capital conservation buffer.* (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of an FDIC-supervised institution is the FDIC-supervised institution's net income for the four calendar quarters preceding the current calendar quarter, based on the FDIC-supervised institution's quarterly Call Reports, net of any distributions and associated tax effects not already reflected in net income.
+(i) *Eligible retained income.* The eligible retained income of an FDIC-supervised institution is the FDIC-supervised institution's net income, calculated in accordance with the instructions to the Call Report, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income.
 
 (ii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that an FDIC-supervised institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum payout ratio is based on the FDIC-supervised institution's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 324.11.
 
 (iii) *Maximum payout amount.* An FDIC-supervised institution's maximum payout amount for the current calendar quarter is equal to the FDIC-supervised institution's eligible retained income, multiplied by the applicable maximum payout ratio, as set forth in Table 1 to § 324.11.
 
-(iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, an MDB, a PSE, or a GSE.
+(iv) *Private sector credit exposure.* Private sector credit exposure means an exposure to a company or an individual that is not an exposure to a sovereign, the Bank for International Settlements, the European Central Bank, the European Commission, the European Stability Mechanism, the European Financial Stability Facility, the International Monetary Fund, a MDB, a PSE, or a GSE.
 
-(3) *Calculation of capital conservation buffer.* (i) An FDIC-supervised institution's capital conservation buffer is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter based on the FDIC-supervised institution's most recent Call Report:
+(3) *Calculation of capital conservation buffer.* (i) An FDIC-supervised institution's capital conservation buffer is equal to the lowest of the following ratios, calculated as of the last day of the previous calendar quarter:
 
 (A) The FDIC-supervised institution's common equity tier 1 capital ratio minus the FDIC-supervised institution's minimum common equity tier 1 capital ratio requirement under § 324.10;
 
@@ -38,13 +36,13 @@ Link to an amendment published at 84 FR 35270, July 22, 2019.
 
 Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
-|                                                                                                                         Capital conservation buffer                                                                                                                          |Maximum payout ratio (as a  <br/>percentage of eligible retained  <br/>income)|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-|                                                                       Greater than 2.5 percent plus 100 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount                                                                        |                     No payout ratio limitation applies.                      |
-|Less than or equal to 2.5 percent plus 100 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 1.875 percent plus 75 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|                                 60 percent.                                  |
-|Less than or equal to 1.875 percent plus 75 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 1.25 percent plus 50 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|                                 40 percent.                                  |
-|Less than or equal to 1.25 percent plus 50 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 0.625 percent plus 25 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|                                 20 percent.                                  |
-|                                                                  Less than or equal to 0.625 percent plus 25 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount                                                                   |                                  0 percent.                                  |
+|                                                                                                                         Capital conservation buffer                                                                                                                          |       Maximum payout ratio        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+|                                                                       Greater than 2.5 percent plus 100 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount                                                                        |No payout ratio limitation applies.|
+|Less than or equal to 2.5 percent plus 100 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 1.875 percent plus 75 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|            60 percent.            |
+|Less than or equal to 1.875 percent plus 75 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 1.25 percent plus 50 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|            40 percent.            |
+|Less than or equal to 1.25 percent plus 50 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount, and greater than 0.625 percent plus 25 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount|            20 percent.            |
+|                                                                  Less than or equal to 0.625 percent plus 25 percent of the FDIC-supervised institution's applicable countercyclical capital buffer amount                                                                   |            0 percent.             |
 
 (v) *Other limitations on distributions.* Additional limitations on distributions may apply to an FDIC-supervised institution under 12 CFR 303.241 and subpart H of this part.
 
@@ -80,4 +78,4 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (3) *Countercyclical capital buffer amount for foreign jurisdictions.* The FDIC will adjust the countercyclical capital buffer amount for private sector credit exposures to reflect decisions made by foreign jurisdictions consistent with due process requirements described in paragraph (b)(2) of this section.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35270, July 22, 2019]

@@ -1,8 +1,6 @@
 ##### § 413.360 Requirements under the Skilled Nursing Facility (SNF) Quality Reporting Program (QRP). #####
 
-Link to an amendment published at 84 FR 38832, Aug. 7, 2019.
-
-(a) *Participation start date.* Beginning with the FY 2018 program year, a SNF must begin reporting data in accordance with paragraph (b) of this section no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the SNF as operating in the Certification and Survey Provider Enhanced Reports (CASPER) system. For purposes of this section, a program year is the fiscal year in which the market basket percentage described in § 413.337(d) is reduced by two percentage points if the SNF does not report data in accordance with paragraph (b) of this section.
+(a) *Participation start date.* Beginning with the FY 2018 program year, a SNF must begin reporting data in accordance with paragraph (b) of this section no later than the first day of the calendar quarter subsequent to 30 days after the date on its CMS Certification Number (CCN) notification letter, which designates the SNF as operating in the CMS designated data submission system. For purposes of this section, a program year is the fiscal year in which the market basket percentage described in § 413.337(d) is reduced by two percentage points if the SNF does not report data in accordance with paragraph (b) of this section.
 
 (b) *Data submission requirement.* (1) Except as provided in paragraph (c) of this section, and for a program year, SNFs must submit to CMS data on measures specified under sections 1899B(c)(1) and 1899B(d)(1) of the Social Security Act and standardized resident assessment data in accordance with section 1899B(b)(1) of the Social Security Act, in the form and manner, and at a time, specified by CMS.
 
@@ -54,7 +52,7 @@ Link to an amendment published at 84 FR 38832, Aug. 7, 2019.
 
 (d) *Reconsideration.*
 
-(1) SNFs that do not meet the requirements in paragraph (b) of this section for a program year will receive a written notification of non-compliance through at least one of the following methods: Quality Improvement Evaluation System (QIES) Assessment Submission and Processing (ASAP) system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC). A SNF may request reconsideration no later than 30 calendar days after the date identified on the letter of non-compliance.
+(1) SNFs that do not meet the requirements in paragraph (b) of this section for a program year will receive a notification of non-compliance sent through at least one of the following methods: The CMS designated data submission system, the United States Postal Service, or via an email from the Medicare Administrative Contractor (MAC). A SNF may request reconsideration no later than 30 calendar days after the date identified on the letter of non-compliance.
 
 (2) Reconsideration requests must be submitted to CMS by sending an email to *SNFQRPReconsiderations@cms.hhs.gov* containing all of the following information:
 
@@ -72,8 +70,8 @@ Link to an amendment published at 84 FR 38832, Aug. 7, 2019.
 
 (3) CMS will not consider a reconsideration request unless the SNF has complied fully with the requirements in paragraph (d)(2) of this section.
 
-(4) CMS will notify SNFs, in writing, of its final decision regarding any reconsideration request through at least one of the following notification methods: QIES ASAP system, the United States Postal Service, or via email from the Medicare Administrative Contractor (MAC).
+(4) CMS will notify SNFs, in writing, of its final decision regarding any reconsideration request through at least one of the following methods: CMS designated data submission system, the United States Postal Service, or via email from the CMS Medicare Administrative Contractor (MAC).
 
 (e) *Appeals.* A SNF that is dissatisfied with CMS' decision on a request for reconsideration may file an appeal with the Provider Reimbursement Review Board (PRRB) under 42 CFR part 405, subpart R.
 
-[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018]
+[82 FR 36634, Aug. 4, 2017, as amended at 83 FR 39290, Aug. 8, 2018; 84 FR 38832, Aug. 7, 2019]

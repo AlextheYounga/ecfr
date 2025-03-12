@@ -1,7 +1,5 @@
 ##### § 412.64 Federal rates for inpatient operating costs for Federal fiscal year 2005 and subsequent fiscal years. #####
 
-Link to an amendment published at 84 FR 42611, Aug. 16, 2019.
-
 (a) *General rule.* CMS determines a national adjusted prospective payment rate for inpatient operating costs for each inpatient hospital discharge in Federal fiscal year 2005 and subsequent fiscal years involving inpatient hospital services of a hospital in the United States subject to the prospective payment system for which payment may be made under Medicare Part A.
 
 (b) *Geographic classifications.* (1) For purposes of this section, the following definitions apply:
@@ -47,6 +45,8 @@ Link to an amendment published at 84 FR 42611, Aug. 16, 2019.
 (vi) For fiscal years 2015 and 2016, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS) and less 0.2 percentage point.
 
 (vii) For fiscal years 2017, 2018, and 2019, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS) and less 0.75 percentage point.
+
+(viii) For fiscal year 2020 and subsequent fiscal years, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals, subject to the provisions of paragraphs (d)(2) and (3) of this section, less a multifactor productivity adjustment (as determined by CMS).
 
 (2)(i) In the case of a “subsection (d) hospital,” as defined under section 1886(d)(1)(B) of the Act, that does not submit quality data on a quarterly basis to CMS, in the form and manner specified by CMS, the percentage increase in the market basket index (as defined in § 413.40(a)(3) of this chapter) for prospective payment hospitals is reduced -
 

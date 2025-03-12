@@ -1,5 +1,7 @@
 ##### § 192.939 What are the required reassessment intervals? #####
 
+Link to an amendment published at 84 FR 52255, Oct. 1, 2019.
+
 An operator must comply with the following requirements in establishing the reassessment interval for the operator's covered pipeline segments.
 
 (a) *Pipelines operating at or above 30% SMYS.* An operator must establish a reassessment interval for each covered segment operating at or above 30% SMYS in accordance with the requirements of this section. The maximum reassessment interval by an allowable reassessment method is seven years. If an operator establishes a reassessment interval that is greater than seven years, the operator must, within the seven-year period, conduct a confirmatory direct assessment on the covered segment, and then conduct the follow-up reassessment at the interval the operator has established. A reassessment carried out using confirmatory direct assessment must be done in accordance with § 192.931. The table that follows this section sets forth the maximum allowed reassessment intervals.

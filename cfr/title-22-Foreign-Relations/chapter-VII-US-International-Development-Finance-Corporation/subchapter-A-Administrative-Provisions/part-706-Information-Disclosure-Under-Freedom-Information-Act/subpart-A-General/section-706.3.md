@@ -1,0 +1,3 @@
+##### § 706.3 Scope. #####
+
+This part applies to all agency records in DFC's possession and control. This part does not compel DFC to create records or to ask outside parties to provide documents in order to satisfy a FOIA request. DFC may, however, in its discretion and in consultation with a FOIA requester, create a new record as a partial or complete response to a FOIA request. In responding to requests for information, DFC will ordinarily consider only those records within its possession and control as of the date of DFC's search. If any other date is used, DFC will inform the requester of that date. A record that is excluded from the requirements of the FOIA pursuant to 5 U.S.C. 552(c), is not considered responsive to a request.

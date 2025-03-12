@@ -1,3 +1,3 @@
-##### § 708.27 May the Administrative Judge recommend mediation to the parties? #####
+##### § 708.27 The Administrative Judge may not require that the parties participate in alternative dispute resolution. #####
 
-The Administrative Judge may recommend, but may not require, that the parties attempt to resolve the complaint through mediation or other informal means at any time before issuance of an initial agency decision on the complaint.
+The Administrative Judge may recommend, but may not require, that the parties attempt to resolve the complaint through alternative dispute resolution. Within 5 days of appointment, the Administrative Judge will make the contact information for the DOE's Alternative Dispute Resolution Office available to the parties.

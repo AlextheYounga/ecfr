@@ -1,3 +1,5 @@
 ##### § 51.300 U.S. Extra Fancy. #####
 
+Link to an amendment published at 84 FR 51941, Oct. 1, 2019.
+
 “U.S. Extra Fancy” consists of apples of one variety (except when more than one variety is printed on the container) which are mature but not overripe, clean, fairly well formed, free from decay, internal browning, internal breakdown, soft scald, scab, freezing injury, visible water core, and broken skins. The apples are also free from injury caused by bruises, brown surface discoloration, smooth net-like russeting, sunburn or sprayburn, limb rubs, hail, drought spots, scars, disease, insects, or other means. The apples are free from damage caused by bitter pit or Jonathan spot and by smooth solid, slightly rough or rough russeting, or stem or calyx cracks, as well as damage by invisible water core after January 31st of the year following the year of production except for the Fuji variety of apples. Invisible water core shall not be scored against the Fuji variety of apples under any circumstances. For the apple varieties listed in table I of § 51.305, each apple of this grade has the amount of color specified for the variety. (*See* §§ 51.305 and 51.306.)

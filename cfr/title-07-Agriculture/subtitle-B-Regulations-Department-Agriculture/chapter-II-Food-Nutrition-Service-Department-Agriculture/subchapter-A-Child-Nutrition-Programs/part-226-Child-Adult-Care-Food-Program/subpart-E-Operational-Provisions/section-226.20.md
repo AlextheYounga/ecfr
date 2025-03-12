@@ -1,7 +1,5 @@
 ##### § 226.20 Requirements for meals. #####
 
-Link to an amendment published at 84 FR 50292, Sept. 25, 2019.
-
 (a) *Food components.* Except as otherwise provided in this section, each meal served in the Program must contain, at a minimum, the indicated food components:
 
 (1) *Fluid milk.* Fluid milk must be served as a beverage or on cereal, or a combination of both, as follows:
@@ -98,7 +96,37 @@ Link to an amendment published at 84 FR 50292, Sept. 25, 2019.
 
 (5) *Infant meal pattern table.* The minimum amounts of food components to serve to infants, as described in paragraph (b)(4) of this section, are:
 
-![](/graphics/er01no16.146.gif)
+Infant Meal Patterns
+
+|          Infants          |                    Birth through 5 months                    |                                                6 through 11 months                                                |
+|---------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+|Breakfast, Lunch, or Supper|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                        6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                        |
+|                           |                                                              |0-4 tablespoons infant cereal,<sup>3</sup> meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or|
+|                           |                                                              |                                             0-2 ounces of cheese; or                                              |
+|                           |                                                              |                                     0-4 ounces (volume) of cottage cheese; or                                     |
+|                           |                                                              |            0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and             |
+|                           |                                                              |                         0-2 tablespoons vegetable or fruit, or a combination of both.5 6                          |
+|           Snack           |4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                        2-4 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>; and                        |
+|                           |                                                              |                                             0-1/2 slice bread; 3 7 or                                             |
+|                           |                                                              |                                               0-2 crackers; 3 7 or                                                |
+|                           |                                                              |                 0-4 tablespoons infant cereal 2 3 7 or ready-to-eat breakfast cereal; 3 5 7 8 and                 |
+|                           |                                                              |                         0-2 tablespoons vegetable or fruit, or a combination of both 5 6                          |
+
+<sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
+
+<sup>2</sup> Infant formula and dry infant cereal must be iron-fortified.
+
+<sup>3</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
+
+<sup>4</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
+
+<sup>5</sup> A serving of this component is required when the infant is developmentally ready to accept it.
+
+<sup>6</sup> Fruit and vegetable juices must not be served.
+
+<sup>7</sup> A serving of grains must be whole grain-rich, enriched meal, or enriched flour.
+
+<sup>8</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
 (c) *Meal patterns for children age 1 through 18 and adult participants.* Institutions and facilities must serve the food components and quantities specified in the following meal patterns for children and adult participants in order to qualify for reimbursement.
 
@@ -135,11 +163,9 @@ Endnotes:
 
 <sup>6</sup> Meat and meat alternates may be used to meet the entire grains requirement a maximum of three times a week. One ounce of meat and meat alternates is equal to one ounce equivalent of grains.
 
-<sup>7</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of creditable grains.
+<sup>7</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of creditable grains.
 
 <sup>8</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
-
-<sup>9</sup> Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereal is1/4 cup for children ages 1-2;1/3 cup for children ages 3-5;3/4 cup for children ages 6-12, and 11/2 cups for adult participants.
 
 (2) *Lunch and supper.* Fluid milk, meat and meat alternates, vegetables, fruits, and grains are required components in the lunch and supper meals. The minimum amounts of food components to be served at lunch and supper are as follows:
 
@@ -187,7 +213,7 @@ Endnotes:
 
 <sup>9</sup> At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
 
-<sup>10</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grain.
+<sup>10</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of the creditable grain.
 
 <sup>11</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
 
@@ -236,11 +262,9 @@ Endnotes:
 
 <sup>7</sup>At least one serving per day, across all eating occasions, must be whole grain-rich. Grain-based desserts do not count towards the grains requirement.
 
-<sup>8</sup> Beginning October 1, 2019, ounce equivalents are used to determine the quantity of the creditable grains.
+<sup>8</sup> Beginning October 1, 2021, ounce equivalents are used to determine the quantity of the creditable grains.
 
 <sup>9</sup> Breakfast cereals must contain no more than 6 grams of sugar per dry ounce (no more than 21.2 grams sucrose and other sugars per 100 grams of dry cereal).
-
-10 Beginning October 1, 2019, the minimum serving size specified in this section for ready-to-eat breakfast cereals must be served. Until October 1, 2019, the minimum serving size for any type of ready-to-eat breakfast cereal is1/4 cup for children ages 1-2;1/3 cup for children ages 3-5; and3/4 cup for children ages 6-12, children ages 13-18, and adult participants.
 
 (d) *Food preparation.* Deep-fat fried foods that are prepared on-site cannot be part of the reimbursable meal. For this purpose, deep-fat frying means cooking by submerging food in hot oil or other fat. Foods that are pre-fried, flash-fried, or par-fried by a commercial manufacturer may be served, but must be reheated by a method other than frying.
 
@@ -310,4 +334,4 @@ Endnotes:
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017]
+[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019]

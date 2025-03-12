@@ -1,7 +1,5 @@
 ##### § 412.154 Payment adjustments under the Hospital Readmissions Reduction Program. #####
 
-Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
-
 (a) *Scope.* This section sets forth the requirements for determining the payment adjustments under the Hospital Readmissions Reduction Program for applicable hospitals to account for excess readmissions in the hospital.
 
 (b) *Payment adjustment.* (1) *General.* To account for excess readmissions, except as provided for in paragraph (d) of this section, an applicable hospital's base operating DRG payment amount is adjusted for each discharge occurring during the fiscal year. The payment adjustment for each discharge is determined by subtracting the product of the base operating DRG payment amount (as defined in § 412.152) for such discharge by the hospital's readmission payment adjustment factor for the fiscal year (determined under paragraph (c) of this section) from the base operating DRG payment amount for such discharge.
@@ -30,7 +28,11 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (3) The applicable period.
 
-(4) The applicable conditions.
+(4) The neutrality modifier.
+
+(5) The proportion of dual-eligibles.
+
+(6) The applicable conditions.
 
 (f) *Reporting of hospital-specific information.* CMS will make information available to the public regarding readmissions rates of each applicable hospital (as defined in § 412.152) under the Hospital Readmissions Reduction Program.
 
@@ -42,4 +44,4 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (4) CMS will post the excess readmission ratios for the applicable conditions for a fiscal year for each applicable hospital on the *Hospital Compare* Web site.
 
-[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014]
+[77 FR 53674, Aug. 31, 2012, as amended at 78 FR 50967, Aug. 19, 2013; 79 FR 50354, Aug. 22, 2014; 84 FR 42614, Aug. 16, 2019]

@@ -1,5 +1,7 @@
 ##### § 190.5 Service. #####
 
+Link to an amendment published at 84 FR 52026, Oct. 1, 2019.
+
 (a) Each order, notice, or other document required to be served under this part, with the exception of emergency orders under § 190.236, will be served personally, by certified mail, overnight courier, or electronic transmission by facsimile or other electronic means that includes reliable acknowledgement of actual receipt.
 
 (b) Service upon a person's duly authorized representative or agent constitutes service upon that person.

@@ -1,7 +1,5 @@
 ##### § 3.37 Collateralized transactions. #####
 
-Link to an amendment published at 84 FR 35256, July 22, 2019.
-
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral, a national bank or Federal savings association may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 35256, July 22, 2019.
 
 (C) The collateral (other than gold) and the exposure must be denominated in the same currency.
 
-(2) *Risk weight substitution.* (i) A national bank or Federal savings association may apply a risk weight to the portion of an exposure that is secured by the fair value of financial collateral (that meets the requirements of paragraph (b)(1) of this section) based on the risk weight assigned to the collateral under § 3.32. For repurchase agreements, reverse repurchase agreements, and securities lending and borrowing transactions, the collateral is the instruments, gold, and cash the national bank or Federal savings association has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction. Except as provided in paragraph (b)(3) of this section, the risk weight assigned to the collateralized portion of the exposure may not be less than 20 percent.
+(2) *Risk weight substitution.* (i) A national bank or Federal savings association may apply a risk weight to the portion of an exposure that is secured by the fair value of financial collateral (that meets the requirements of paragraph (b)(1) of this section) based on the risk weight assigned to the collateral under this subpart D. For repurchase agreements, reverse repurchase agreements, and securities lending and borrowing transactions, the collateral is the instruments, gold, and cash the national bank or Federal savings association has borrowed, purchased subject to resale, or taken as collateral from the counterparty under the transaction. Except as provided in paragraph (b)(3) of this section, the risk weight assigned to the collateralized portion of the exposure may not be less than 20 percent.
 
 (ii) A national bank or Federal savings association must apply a risk weight to the unsecured portion of the exposure based on the risk weight applicable to the exposure under this subpart.
 
@@ -132,3 +130,5 @@ Table 1 to § 3.37 - Standard Supervisory Market Price Volatility Haircuts<sup>1
 (iv) Where an exposure or collateral (whether in the form of cash or securities) is denominated in a currency that differs from the settlement currency, the national bank or Federal savings association must calculate a separate currency mismatch haircut for its net position in each mismatched currency based on estimated volatilities of foreign exchange rates between the mismatched currency and the settlement currency.
 
 (v) A national bank's or Federal savings association's own estimates of market price and foreign exchange rate volatilities may not take into account the correlations among securities and foreign exchange rates on either the exposure or collateral side of a transaction (or netting set) or the correlations among securities and foreign exchange rates between the exposure and collateral sides of the transaction (or netting set).
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35256, July 22, 2019]

@@ -1,7 +1,5 @@
 ##### § 54.1 Meaning of words and terms defined. #####
 
-Link to an amendment published at 84 FR 49640, Sept. 23, 2019.
-
 Words used in this subpart in the singular form shall be deemed to import the plural, and vice versa, as the case may demand. For the purposes of such regulations, unless the context otherwise requires, the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Agricultural Marketing Service (AMS), or any officer or employee of the AMS to whom authority has been or may be delegated to act in the Administrator's stead.
@@ -62,6 +60,8 @@ Words used in this subpart in the singular form shall be deemed to import the pl
 
 *Meat food products.* Any articles intended for human food (other than meat, prepared meats, and meat by-products) which are derived or prepared in whole or in substantial and definite part, from any portion of any animal, except such articles as organotherapeutic substances, meat juice, meat extract, and the like, which are only for medicinal purposes and are advertised only to the medical profession.
 
+*Observed legal holiday.* When a holiday falls on a weekend—Saturday or Sunday—the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday).
+
 *Office of grading.* The office of an official grader.
 
 *Official grader.* An employee of the Department or other person authorized by the Department to determine and certify or otherwise identify the class, grade, other quality, or compliance of products under the regulations.
@@ -98,4 +98,4 @@ Words used in this subpart in the singular form shall be deemed to import the pl
 
 *Yield grade.* A designation which reflects the estimated yield of retail cuts that may be obtained from a beef, lamb, yearling mutton, or mutton carcass.
 
-[42 FR 53921, Oct. 4, 1977, as amended at 45 FR 51762, Aug. 5, 1980. Redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 61 FR 11505, Mar. 21, 1996; 63 FR 72102, Dec. 31, 1998; 84 FR 48554, Sept. 16, 2019]
+[42 FR 53921, Oct. 4, 1977, as amended at 45 FR 51762, Aug. 5, 1980. Redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 61 FR 11505, Mar. 21, 1996; 63 FR 72102, Dec. 31, 1998; 84 FR 48554, Sept. 16, 2019; 84 FR 49640, Sept. 23, 2019]

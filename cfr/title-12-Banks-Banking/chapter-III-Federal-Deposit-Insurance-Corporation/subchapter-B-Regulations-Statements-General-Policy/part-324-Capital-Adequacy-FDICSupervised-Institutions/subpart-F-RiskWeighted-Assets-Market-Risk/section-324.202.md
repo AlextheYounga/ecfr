@@ -1,7 +1,5 @@
 ##### § 324.202 Definitions. #####
 
-Link to an amendment published at 84 FR 35280, July 22, 2019.
-
 (a) Terms set forth in § 324.2 and used in this subpart have the definitions assigned thereto in § 324.2.
 
 (b) For the purposes of this subpart, the following terms are defined as follows:
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 35280, July 22, 2019.
 
 *Commodity position* means a position for which price risk arises from changes in the price of a commodity.
 
-*Corporate debt position* means a debt position that is an exposure to a company that is not a sovereign entity, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, a multilateral development bank, a depository institution, a foreign bank, a credit union, a public sector entity, a GSE, or a securitization.
+*Corporate debt position* means a debt position that is an exposure to a company that is not a sovereign entity, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, a multilateral development bank, a depository institution, a foreign bank, a credit union, a public sector entity, a GSE, or a securitization.
 
 *Correlation trading position* means:
 
@@ -144,4 +142,4 @@ Link to an amendment published at 84 FR 35280, July 22, 2019.
 
 *Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more positions could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016]
+[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 35280, July 22, 2019]

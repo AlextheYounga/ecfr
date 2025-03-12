@@ -1,5 +1,7 @@
 ##### § 383.93 Endorsements. #####
 
+Link to an amendment published at 84 FR 52034, Oct. 1, 2019.
+
 (a) *General.* (1) In addition to passing the knowledge and skills tests described in subpart G of this part, all persons who operate or expect to operate the type(s) of motor vehicles described in paragraph (b) of this section must pass specialized tests to obtain each endorsement. The State shall issue CDL endorsements only to drivers who successfully complete the tests.
 
 (2) The only endorsements allowed on a CLP are the following:

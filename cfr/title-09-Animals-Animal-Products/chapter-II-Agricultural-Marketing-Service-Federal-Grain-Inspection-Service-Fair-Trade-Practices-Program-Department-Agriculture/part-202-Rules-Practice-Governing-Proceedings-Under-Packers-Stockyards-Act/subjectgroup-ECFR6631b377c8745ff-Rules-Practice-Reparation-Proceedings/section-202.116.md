@@ -1,0 +1,5 @@
+##### § 202.116 Rule 16: Issuance of order. #####
+
+(a) As soon as practicable after the receipt of the record and report from the hearing clerk, the judicial officer, on the basis of and after due consideration of the record, shall issue an order in the proceeding, which shall be served on the parties.
+
+(b) If the judicial officer deems it advisable to do so, the order may be made a tentative order. In such event, a presiding officer shall be assigned and the tentative order shall be served on each party, and each party shall have 20 days in which to file written exceptions to it, and arguments or briefs in support of such exceptions. If no party timely files exceptions, the tentative order shall automatically become the final order in the proceeding, and notice of such fact shall be served on the parties. If any party timely files such exceptions, they shall be handled in the same manner as a petition filed under rule 17, § 202.117.

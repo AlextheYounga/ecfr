@@ -1,7 +1,5 @@
 ##### § 324.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 35270, July 22, 2019.
-
 (a) *Minimum capital requirements.* An FDIC-supervised institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.
@@ -120,7 +118,7 @@ E\* = max {0, [ΣEi - ΣCi] −}
 
 (G) If an FDIC-supervised institution acting as an agent for a repo-style transaction provides a guarantee to a customer of the security or cash its customer has lent or borrowed with respect to the performance of the customer's counterparty and the guarantee is not limited to the difference between the fair value of the security or cash its customer has lent and the fair value of the collateral the borrower has provided, the amount of the guarantee that is greater than the difference between the fair value of the security or cash its customer has lent and the value of the collateral the borrower has provided;
 
-(H) The credit equivalent amount of all off-balance sheet exposures of the FDIC-supervised institution, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversation factor under § 324.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
+(H) The credit equivalent amount of all off-balance sheet exposures of the FDIC-supervised institution, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversion factor under § 324.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
 
 (I) For an FDIC-supervised institution that is a clearing member:
 
@@ -154,4 +152,4 @@ E\* = max {0, [ΣEi - ΣCi] −}
 
 (B) The FDIC, in its discretion, may approve an application pursuant to the Federal Deposit Insurance Act where it is required to consider the adequacy of capital or the financial resources of the insured depository institution where it finds that the applicant has committed to and is in compliance with a reasonable plan to meet its minimum leverage capital requirements within a reasonable period of time.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 79 FR 57748, Sept. 26, 2014; 80 FR 41422, July 15, 2015; 84 FR 4247, Feb. 14, 2019; 84 FR 35270, July 22, 2019]

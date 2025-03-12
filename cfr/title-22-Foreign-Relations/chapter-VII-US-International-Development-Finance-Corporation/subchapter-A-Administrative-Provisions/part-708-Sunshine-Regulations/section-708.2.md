@@ -1,0 +1,7 @@
+##### § 708.2 Open meeting policy. #####
+
+(a) It is the policy of the Corporation to provide the public with the fullest practicable information regarding the decisionmaking process of the Board of Directors of the Corporation while protecting the rights of individuals and the ability of the Corporation to carry out its responsibilities. In order to effect this policy, every meeting of the Board of Directors shall be open to public observation and will only be closed to public observation if justified under one of the provisions of § 708.5. The public is invited to observe and listen to all meetings of the Board of Directors, or portions thereof, open to public observation, but may not participate or record any of the discussions by means of electronic or other devices or cameras. Documents being considered at meetings of the Board of Directors may be obtained subject to the procedures and exemptions set forth in part 706 of this chapter.
+
+(b) Directors of the Corporation shall not jointly conduct or dispose of agency business other than in accordance with this part. This prohibition shall not prevent Directors from considering individually business that is circulated to them sequentially in writing.
+
+(c) The Secretary of the Corporation shall be responsible for assuring that ample space, sufficient visibility, and adequate acoustics are provided for public observation of meetings of the Board of Directors.

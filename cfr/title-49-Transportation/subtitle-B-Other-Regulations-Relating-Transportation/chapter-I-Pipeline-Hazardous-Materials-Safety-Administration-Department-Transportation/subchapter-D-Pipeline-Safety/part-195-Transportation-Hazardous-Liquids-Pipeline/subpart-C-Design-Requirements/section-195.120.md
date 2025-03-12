@@ -1,5 +1,7 @@
 ##### § 195.120 Passage of In-Line Inspection tools. #####
 
+Link to an amendment published at 84 FR 52294, Oct. 1, 2019.
+
 (a) Except as provided in paragraphs (b) and (c) of this section, each new pipeline and each replacement of line pipe, valve, fitting, or other line component in a pipeline must be designed and constructed to accommodate the passage of an In-Line Inspection tool, in accordance with NACE SP0102-2010, Section 7 (incorporated by reference, *see* § 195.3).
 
 (b) This section does not apply to:

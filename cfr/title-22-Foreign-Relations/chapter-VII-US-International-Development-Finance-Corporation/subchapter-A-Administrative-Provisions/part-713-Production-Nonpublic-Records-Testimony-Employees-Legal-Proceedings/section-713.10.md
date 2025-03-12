@@ -1,0 +1,13 @@
+##### § 713.10 Definitions. #####
+
+For purposes of this part:
+
+*Legal proceedings* means any matter before any federal, state or foreign administrative or judicial authority, including courts, agencies, commissions, boards, grand juries, or other tribunals, involving such proceedings as lawsuits, licensing matters, hearings, trials, discovery, investigations, mediation or arbitration. When DFC is a party to a legal proceeding, it will be subject to the applicable rules of civil procedure governing production of documents and witnesses; however testimony and/or production of documents by DFC employees, as defined, will still be subject to this part.
+
+*Nonpublic records* means any DFC records which are exempt from disclosure by statute or under Part 706, DFC's regulations implementing the provisions of the Freedom of Information Act. For example, this may include records created in connection with DFC's receipt, evaluation and action on actual and proposed DFC finance projects and insurance policies (whether such projects or policies were cancelled or not), including all reports, internal memoranda, opinions, interpretations, and correspondence, whether prepared by DFC employees or by persons under contract, as well as confidential business information submitted by parties seeking to do business with DFC. Whether DFC has actually chosen in practice to apply any exemption to specific documents is irrelevant to the question of whether they are “nonpublic” for the purposes of this Part.
+
+*DFC employee* means current and former officials, members of the Board of Directors, officers, directors, employees and agents of the US International Development Finance Corporation, including contract employees, consultants and their employees. This definition does not include persons who are no longer employed by DFC and are retained or hired as expert witnesses or agree to testify about general matters, matters available to the public, or matters with which they had no specific involvement or responsibility during their employment.
+
+*Subpoena* means any order, subpoena for records or other tangible things or for testimony, summons, notice or legal process issued in a legal proceeding.
+
+*Testimony* means any written or oral statements made by an individual in connection with a legal proceeding, including personal appearances in court or at depositions, interviews in person or by telephone, responses to written interrogatories or other written statements such as reports, declarations, affidavits, or certifications or any response involving more than the delivery of records.

@@ -1,7 +1,5 @@
-##### § 708.23 How does the Office of Hearings and Appeals issue a report of investigation? #####
+##### § 708.23 Time to issue a report of investigation. #####
 
-(a) The investigator will complete the investigation and issue a report of investigation by the 60th day after the complaint is received by the Office of Hearings and Appeals, unless the OHA Director, for good cause, extends the investigation for no more than 30 days.
+(a) If the complaint is not dismissed prior to the completion of the investigation, the investigator will complete the investigation and issue a report of investigation by the 60th day after the complaint is received by the Office of Hearings and Appeals, unless the OHA Director, for good cause, extends the investigation for no more than 30 days. If a case is referred for dismissal by an investigator, the time to issue the report of investigation stops running on the day of referral and, if the Administrative Judge decides against dismissal, begins to run again on the day after the Administrative Judge's decision issues.
 
 (b) The investigator will provide copies of the report of investigation to the parties. The investigation will not be reopened after the report of investigation is issued.
-
-(c) If the parties informally resolve the complaint (e.g., through mediation) after an investigation is started, you must notify the OHA Director in writing of your decision to withdraw the complaint.

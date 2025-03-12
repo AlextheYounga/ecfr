@@ -1,5 +1,7 @@
 ##### § 192.949 How does an operator notify PHMSA? #####
 
+Link to an amendment published at 84 FR 52255, Oct. 1, 2019.
+
 An operator must provide any notification required by this subpart by -
 
 (a) Sending the notification by electronic mail to *InformationResourcesManager@dot.gov;* or

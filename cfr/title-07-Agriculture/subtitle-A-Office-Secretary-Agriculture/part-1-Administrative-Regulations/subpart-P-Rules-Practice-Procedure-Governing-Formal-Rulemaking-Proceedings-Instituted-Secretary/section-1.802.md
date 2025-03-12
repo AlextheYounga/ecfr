@@ -12,7 +12,7 @@ Federal Register means the publication provided for by the Federal Register Act,
 
 *Hearing clerk* means the Hearing Clerk, U.S. Department of Agriculture, Washington, DC
 
-*Judge* means any administrative law Judge appointed pursuant to 5 U.S.C. 3105 and assigned to conduct the hearing.
+*Judge* means any administrative law Judge appointed pursuant to 5 U.S.C. 3105 or any presiding official appointed by the Secretary, and assigned to conduct the proceeding.
 
 *Party* means:
 
@@ -31,3 +31,5 @@ Federal Register means the publication provided for by the Federal Register Act,
 (2) Who submits written direct testimony on the proposed regulations pursuant to § 1.807; and
 
 (3) Testifies orally at the hearing.
+
+[82 FR 51149, Nov. 3, 2017, as amended at 84 FR 51939, Oct. 1, 2019]

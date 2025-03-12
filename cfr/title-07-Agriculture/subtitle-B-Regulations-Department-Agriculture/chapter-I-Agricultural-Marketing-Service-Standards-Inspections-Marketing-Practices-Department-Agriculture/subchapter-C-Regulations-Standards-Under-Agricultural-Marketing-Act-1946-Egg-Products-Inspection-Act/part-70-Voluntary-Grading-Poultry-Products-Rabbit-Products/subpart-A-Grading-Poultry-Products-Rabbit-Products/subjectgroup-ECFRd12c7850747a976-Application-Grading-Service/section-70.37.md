@@ -1,0 +1,9 @@
+##### § 70.37 Types of Service. #####
+
+(a) *Noncontinuous grading service.* Service is performed on an unscheduled basis, with no scheduled tour of duty, and when an applicant requests grading of a particular lot of poultry or rabbit product. Charges or fees are based on the time, travel, and expenses needed to perform the work. This service may be referred to as unscheduled grading service. Poultry and rabbit products graded under unscheduled grading service are not eligible to be identified with the official grademarks shown in § 70.51.
+
+(b) *Continuous grading service on a scheduled basis.* Service on a scheduled basis has a scheduled tour of duty and is performed when an applicant requests that a USDA licensed grader be stationed in the applicant's plant or warehouse and grade poultry and rabbit products in accordance with U.S. Standards. The applicant agrees to comply with the facility, operating, and sanitary requirements of scheduled service. Minimum fees for service performed under a scheduled agreement shall be based on the hours of the regular tour of duty. Poultry and rabbit products graded under scheduled grading service are eligible to be identified with the official grademarks shown in § 70.51 only when processed and graded under the supervision of a grader.
+
+(c) *Temporary grading service.* Service is performed when an applicant requests an official plant number with service provided on an unscheduled basis. The applicant must meet facility, operating, and sanitary requirements of continuous service. Charges or fees are based on the time and expenses needed to perform the work. Poultry and rabbit products graded under temporary grading service are eligible to be identified with the official grademarks only when they are processed and graded under the supervision of a grader.
+
+[84 FR 49643, Sept. 23, 2019]

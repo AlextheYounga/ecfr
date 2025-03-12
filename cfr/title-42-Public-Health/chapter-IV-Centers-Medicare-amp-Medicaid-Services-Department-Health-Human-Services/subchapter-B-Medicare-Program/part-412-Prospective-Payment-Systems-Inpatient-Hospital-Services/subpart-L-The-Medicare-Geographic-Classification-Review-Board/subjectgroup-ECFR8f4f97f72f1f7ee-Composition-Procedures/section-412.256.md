@@ -1,10 +1,8 @@
 ##### § 412.256 Application requirements. #####
 
-Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
-
 (a) *Written application.* A request for reclassification must be in writing and must constitute a complete application in accordance with paragraph (b) of this section.
 
-(1) An application must be submitted to the MGCRB according to the method prescribed by the MGCRB, with an electronic copy of the application sent to CMS.
+(1) An application must be submitted to the MGCRB according to the method prescribed by the MGCRB.
 
 (2) A complete application must be received not later than the first day of the 13-month period preceding the Federal fiscal year for which reclassification is requested.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 84 FR 42614, Aug. 16, 2019.
 
 (e) *Notification of complete application.* When the MGCRB determines that the hospital's application contains all the necessary elements for a complete application, it notifies the hospital in writing, with a copy to CMS, that the application is complete and that the case may proceed to an MGCRB decision.
 
-[55 FR 36766, Sept. 6, 1990, as amended at 56 FR 25488, June 4, 1991; 62 FR 46031, Aug. 29, 1997; 63 FR 26357, May 12, 1998; 64 FR 41541, July 30, 1999; 81 FR 57268, Aug. 22, 2016]
+[55 FR 36766, Sept. 6, 1990, as amended at 56 FR 25488, June 4, 1991; 62 FR 46031, Aug. 29, 1997; 63 FR 26357, May 12, 1998; 64 FR 41541, July 30, 1999; 81 FR 57268, Aug. 22, 2016; 84 FR 42614, Aug. 16, 2019]

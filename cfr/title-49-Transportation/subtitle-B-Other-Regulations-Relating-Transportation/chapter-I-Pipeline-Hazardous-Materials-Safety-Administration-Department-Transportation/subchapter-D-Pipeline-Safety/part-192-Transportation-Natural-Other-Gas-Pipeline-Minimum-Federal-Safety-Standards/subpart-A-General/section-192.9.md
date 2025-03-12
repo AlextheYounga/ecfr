@@ -1,5 +1,7 @@
 ##### § 192.9 What requirements apply to gathering lines? #####
 
+Link to an amendment published at 84 FR 52244, Oct. 1, 2019.
+
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 
 (b) *Offshore lines.* An operator of an offshore gathering line must comply with requirements of this part applicable to transmission lines, except the requirements in § 192.150 and in subpart O of this part.

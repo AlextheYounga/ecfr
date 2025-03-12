@@ -1,7 +1,5 @@
 ##### § 3.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
-Link to an amendment published at 84 FR 35249, July 22, 2019.
-
 (a) *Regulatory capital components.* A national bank's or Federal savings association's regulatory capital components are:
 
 (1) Common equity tier 1 capital;
@@ -46,7 +44,7 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 11*See* § 3.22 for specific adjustments related to AOCI.
 
-(4) Any common equity tier 1 minority interest, subject to the limitations in § 3.21(c).
+(4) Any common equity tier 1 minority interest, subject to the limitations in § 3.21.
 
 (5) Notwithstanding the criteria for common stock instruments referenced above, a national bank's or Federal savings association's common stock issued and held in trust for the benefit of its employees as part of an employee stock ownership plan does not violate any of the criteria in paragraph (b)(1)(iii), paragraph (b)(1)(iv) or paragraph (b)(1)(xi) of this section, provided that any repurchase of the stock is required solely by virtue of ERISA for an instrument of a national bank or Federal savings association that is not publicly-traded. In addition, an instrument issued by a national bank or Federal savings association to its employee stock ownership plan does not violate the criterion in paragraph (b)(1)(x) of this section.
 
@@ -76,7 +74,7 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 (vii) The national bank or Federal savings association has full discretion at all times to cancel dividends or other distributions on the instrument without triggering an event of default, a requirement to make a payment-in-kind, or an imposition of other restrictions on the national bank or Federal savings association except in relation to any distributions to holders of common stock or instruments that are pari passu with the instrument.
 
-(viii) Any cash dividend payments on the instrument are paid out of the national bank's or Federal savings association's net income or retained earnings and are not subject to a limit imposed by the contractual terms governing the instrument.
+(viii) Any cash dividend payments on the instrument are paid out of the national bank's or Federal savings association's net income or retained earnings.
 
 (ix) The instrument does not have a credit-sensitive feature, such as a dividend rate that is reset periodically based in whole or in part on the national bank's or Federal savings association's credit quality, but may have a dividend rate that is adjusted periodically independent of the national bank's or Federal savings association's credit quality, in relation to general market interest rates or similar adjustments.
 
@@ -92,7 +90,7 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 (xiv) For an advanced approaches national bank or Federal savings association, the governing agreement, offering circular, or prospectus of an instrument issued after the date upon which the national bank or Federal savings association becomes subject to this part as set forth in § 3.1(f) must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in the event that the national bank or Federal savings association enters into a receivership, insolvency, liquidation, or similar proceeding.
 
-(2) Tier 1 minority interest, subject to the limitations in § 3.21(d), that is not included in the national bank's or Federal savings association's common equity tier 1 capital.
+(2) Tier 1 minority interest, subject to the limitations in § 3.21, that is not included in the national bank's or Federal savings association's common equity tier 1 capital.
 
 (3) Any and all instruments that qualified as tier 1 capital under the OCC's general risk-based capital rules under appendix A to this part (national banks), 12 CFR part 167 (Federal savings associations) as then in effect, that were issued under the Small Business Jobs Act of 201014 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
 
@@ -144,7 +142,7 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 (xi) For an advanced approaches national bank or Federal savings association, the governing agreement, offering circular, or prospectus of an instrument issued after the date on which the advanced approaches national bank or Federal savings association becomes subject to this part under § 3.1(f) must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in the event that the national bank or Federal savings association enters into a receivership, insolvency, liquidation, or similar proceeding.
 
-(2) Total capital minority interest, subject to the limitations set forth in § 3.21(e), that is not included in the national bank's or Federal savings association's tier 1 capital.
+(2) Total capital minority interest, subject to the limitations set forth in § 3.21, that is not included in the national bank's or Federal savings association's tier 1 capital.
 
 (3) ALLL or AACL, as applicable, up to 1.25 percent of the national bank's or Federal savings association's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk national bank or Federal savings association, its standardized market risk-weighted assets).
 
@@ -154,7 +152,7 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 20 Public Law 110-343, 122 Stat. 3765 (2008).
 
-(5) For a national bank or Federal savings association that makes an AOCI opt-out election (as defined in paragraph (b)(2) of this section), 45 percent of pretax net unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures.
+(5) For a national bank or Federal savings association that makes an AOCI opt-out election (as defined in paragraph (b)(2) of § 3.22), 45 percent of pretax net unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures.
 
 (6) Notwithstanding the criteria for tier 2 capital instruments referenced above, an instrument with terms that provide that the instrument may be called earlier than five years upon the occurrence of a rating agency event does not violate the criterion in paragraph (d)(1)(v) of this section provided that the instrument was issued and included in a national bank's or Federal savings association's tier 1 or tier 2 capital prior to January 1, 2014, and that such instrument satisfies all other criteria under this paragraph (d).
 
@@ -168,4 +166,4 @@ Link to an amendment published at 84 FR 35249, July 22, 2019.
 
 (3) After determining that a regulatory capital element may be included in a national bank's or Federal savings association's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the OCC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019; 84 FR 35249, July 22, 2019]

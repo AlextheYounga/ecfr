@@ -1,9 +1,19 @@
-##### § 708.18 How can an employee appeal dismissal of a complaint for lack of jurisdiction or other good cause? #####
+##### § 708.18 Dismissal for lack of jurisdiction or other good cause. #####
 
-(a) If your complaint is dismissed by the Head of Field Element or EC Director, the administrative process is terminated unless you appeal the dismissal to the OHA Director by the 10th day after you receive the notice of dismissal as evidenced by a receipt for delivery of certified mail.
+(a) The Head of Field Element or EC Director (as applicable) may dismiss a complaint for lack of jurisdiction or for other good cause after receiving the complaint, either on his own initiative or at the request of a party named in the complaint. Such decisions are generally issued by the 20th day after the receipt of the employer's response, but not before the complainant has submitted comments on the response or his time to do so has elapsed, whichever is soonest.
 
-(b) If you appeal a dismissal to the OHA Director, you must send copies of your appeal to the Head of Field Element or EC Director (as applicable) and all parties. Your appeal must include a copy of the notice of dismissal, and state the reasons why you think the dismissal was erroneous.
+(b) The Head of Field Element or EC Director (as applicable) will notify the complainant by certified mail, return receipt requested, if the complaint is dismissed for lack of jurisdiction or other good cause, will give specific reasons for the dismissal and the contact information for the DOE's Alternative Dispute Resolution Office, and will notify other parties of the dismissal.
 
-(c) The OHA Director will issue a decision on your appeal and notify the parties of the decision by the 30th day after it is received.
+(c) Dismissal for lack of jurisdiction or other good cause is appropriate if:
 
-(d) The OHA Director's decision, either upholding the dismissal by the Head of Field Element or EC Director or ordering further processing of your complaint, is the final decision on your appeal, unless a party files a petition for Secretarial review by the 30th day after receiving the appeal decision.
+(1) The complaint is untimely; or
+
+(2) The facts, as alleged in the complaint, do not present issues for which relief can be granted under this part; or
+
+(3) The complainant filed a complaint under State or other applicable law with respect to the same facts as alleged in a complaint under this part; or
+
+(4) The complaint is frivolous or without merit on its face; or
+
+(5) The issues presented in the complaint have been rendered moot by subsequent events or substantially resolved; or
+
+(6) The employer has made a formal offer to provide the remedy requested in the complaint or a remedy that DOE considers to be equivalent to what could be provided as a remedy under this part.

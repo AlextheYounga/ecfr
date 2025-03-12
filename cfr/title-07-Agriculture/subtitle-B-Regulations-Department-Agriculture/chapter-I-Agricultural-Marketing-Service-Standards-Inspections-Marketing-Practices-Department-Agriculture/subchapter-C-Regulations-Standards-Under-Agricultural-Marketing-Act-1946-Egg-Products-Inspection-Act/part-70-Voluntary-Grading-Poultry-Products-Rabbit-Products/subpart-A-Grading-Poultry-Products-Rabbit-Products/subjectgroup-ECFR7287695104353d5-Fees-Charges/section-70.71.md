@@ -1,8 +1,6 @@
-##### § 70.71 On a fee basis. #####
+##### § 70.71 Charges for services on an unscheduled basis. #####
 
-Link to an amendment published at 84 FR 49644, Sept. 23, 2019.
-
-Unless otherwise provided in this part, the fees to be charged and collected for any grading or audit service performed in accordance with this part, on a fee basis shall be based on the applicable formulas specified in this section.
+Unless otherwise provided in this part, the fees to be charged and collected for any service performed, in accordance with this part, on an unscheduled basis shall be based on the applicable formulas specified in this section.
 
 (a) For each calendar year, AMS will calculate the rate for grading and audit services, per hour per program employee using the following formulas:
 
@@ -22,8 +20,14 @@ Unless otherwise provided in this part, the fees to be charged and collected for
 
 (2) The calendar year cost of living expenses and percentage of inflation factors used in the formulas in this section are based on the most recent Office of Management and Budget's Presidential Economic Assumptions.
 
-(c) Fees for grading services will be based on the time required to perform the services. The hourly charges shall include the time actually required to perform the grading, waiting time, travel time, and any clerical costs involved in issuing a certificate.
+(c) Fees for unscheduled grading services will be based on the time required to perform the services. The hourly charges will include the time actually required to perform the grading, waiting time, travel time, and any clerical costs involved in issuing a certificate. Charges to plants are as follows:
+
+(1) The regular hourly rate will be charged for the first 8 hours worked per grader per day for all days except observed legal holidays.
+
+(2) The overtime rate will be charged for hours worked in excess of 8 hours per grader per day for all days except observed legal holidays.
+
+(3) The holiday hourly rate will be charged for hours worked on observed legal holidays.
 
 (d) Fees for audit services will be based on the time and expenses required to perform the audit. The hourly charge shall include the time actually required to perform the audit, waiting time, travel time, and any clerical costs involved in issuing an audit report.
 
-[79 FR 67324, Nov. 13, 2014]
+[79 FR 67324, Nov. 13, 2014, as amended at 84 FR 49644, Sept. 23, 2019]

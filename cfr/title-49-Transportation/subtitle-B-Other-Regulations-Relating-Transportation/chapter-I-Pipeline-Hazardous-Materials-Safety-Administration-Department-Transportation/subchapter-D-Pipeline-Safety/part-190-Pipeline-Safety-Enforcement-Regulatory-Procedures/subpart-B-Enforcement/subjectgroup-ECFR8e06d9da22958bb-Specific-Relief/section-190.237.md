@@ -1,5 +1,7 @@
 ##### § 190.237 Petitions for review. #####
 
+Link to an amendment published at 84 FR 52027, Oct. 1, 2019.
+
 (a) *Requirements.* An entity that is subject to and aggrieved by an emergency order may petition the Administrator for review to determine whether the order will remain in place, be modified, or terminated. A petition for review must:
 
 (1) Be in writing;

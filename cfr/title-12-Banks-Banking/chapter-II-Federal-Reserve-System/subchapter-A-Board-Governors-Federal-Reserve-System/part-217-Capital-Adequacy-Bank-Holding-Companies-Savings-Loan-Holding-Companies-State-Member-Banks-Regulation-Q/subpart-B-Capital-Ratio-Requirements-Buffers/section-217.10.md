@@ -1,7 +1,5 @@
 ##### § 217.10 Minimum capital requirements. #####
 
-Link to an amendment published at 84 FR 35259, July 22, 2019.
-
 (a) *Minimum capital requirements.* A Board-regulated institution must maintain the following minimum capital ratios:
 
 (1) A common equity tier 1 capital ratio of 4.5 percent.
@@ -48,7 +46,7 @@ Link to an amendment published at 84 FR 35259, July 22, 2019.
 
 (B) An advanced approaches Board-regulated institution must add to its total capital any eligible credit reserves that exceed the Board-regulated institution's total expected credit losses to the extent that the excess reserve amount does not exceed 0.6 percent of the Board-regulated institution's credit risk-weighted assets.
 
-*(4) Supplementary leverage ratio.* (i) An advanced approaches Board-regulated institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
+(4) *Supplementary leverage ratio.* (i) An advanced approaches Board-regulated institution's supplementary leverage ratio is the ratio of its tier 1 capital to total leverage exposure, the latter which is calculated as the sum of:
 
 (A) The mean of the on-balance sheet assets calculated as of each day of the reporting quarter; and
 
@@ -60,9 +58,9 @@ Link to an amendment published at 84 FR 35259, July 22, 2019.
 
 (B) The PFE for each derivative contract or each single-product netting set of derivative contracts (including a cleared transaction except as provided in paragraph (c)(4)(ii)(I) of this section and, at the discretion of the Board-supervised institution, excluding a forward agreement treated as a derivative contract that is part of a repurchase or reverse repurchase or a securities borrowing or lending transaction that qualifies for sales treatment under U.S. GAAP), to which the Board-regulated institution is a counterparty as determined under § 217.34, but without regard to § 217.34(b), provided that:
 
-(1) A Board-regulated institution may choose to exclude the PFE of all credit derivatives or other similar instruments through which it provides credit protection when calculating the PFE under § 217.34, but without regard to § 217.34(b), provided that it does not adjust the net-to-gross ratio (NGR); and
+(*1*) A Board-regulated institution may choose to exclude the PFE of all credit derivatives or other similar instruments through which it provides credit protection when calculating the PFE under § 217.34, but without regard to § 217.34(b), provided that it does not adjust the net-to-gross ratio (NGR); and
 
-(2) A Board-regulated institution that chooses to exclude the PFE of credit derivatives or other similar instruments through which it provides credit protection pursuant to paragraph (c)(4)(ii)(B)(*1*) of this section must do so consistently over time for the calculation of the PFE for all such instruments;
+(*2*) A Board-regulated institution that chooses to exclude the PFE of credit derivatives or other similar instruments through which it provides credit protection pursuant to paragraph (c)(4)(ii)(B)(*1*) of this section must do so consistently over time for the calculation of the PFE for all such instruments;
 
 (C) The amount of cash collateral that is received from a counterparty to a derivative contract and that has offset the mark-to-fair value of the derivative asset, or cash collateral that is posted to a counterparty to a derivative contract and that has reduced the Board-regulated institution's on-balance sheet assets, unless such cash collateral is all or part of variation margin that satisfies the following requirements:
 
@@ -114,7 +112,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (G) If a Board-regulated institution acting as an agent for a repo-style transaction provides a guarantee to a customer of the security or cash its customer has lent or borrowed with respect to the performance of the customer's counterparty and the guarantee is not limited to the difference between the fair value of the security or cash its customer has lent and the fair value of the collateral the borrower has provided, the amount of the guarantee that is greater than the difference between the fair value of the security or cash its customer has lent and the value of the collateral the borrower has provided;
 
-(H) The credit equivalent amount of all off-balance sheet exposures of the Board-regulated institution, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversation factor under § 217.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
+(H) The credit equivalent amount of all off-balance sheet exposures of the Board-regulated institution, excluding repo-style transactions, repurchase or reverse repurchase or securities borrowing or lending transactions that qualify for sales treatment under U.S. GAAP, and derivative transactions, determined using the applicable credit conversion factor under § 217.33(b), provided, however, that the minimum credit conversion factor that may be assigned to an off-balance sheet exposure under this paragraph is 10 percent; and
 
 (I) For a Board-regulated institution that is a clearing member:
 
@@ -124,7 +122,7 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (*3*) A clearing member Board-regulated institution that does not guarantee the performance of a CCP with respect to a transaction cleared on behalf of a clearing member client may exclude its exposure to the CCP for purposes of determining its total leverage exposure;
 
-(*4)* A Board-regulated institution that is a clearing member may exclude from its total leverage exposure the effective notional principal amount of credit protection sold through a credit derivative contract, or other similar instrument, that it clears on behalf of a clearing member client through a CCP as calculated in accordance with part (c)(4)(ii)(D); and
+(*4*) A Board-regulated institution that is a clearing member may exclude from its total leverage exposure the effective notional principal amount of credit protection sold through a credit derivative contract, or other similar instrument, that it clears on behalf of a clearing member client through a CCP as calculated in accordance with part (c)(4)(ii)(D); and
 
 (*5*) Notwithstanding paragraphs (c)(4)(ii)(I)(*1*) through (*3)* of this section, a Board-regulated institution may exclude from its total leverage exposure a clearing member's exposure to a clearing member client for a derivative contract, if the clearing member client and the clearing member are affiliates and consolidated for financial reporting purposes on the Board-regulated institution's balance sheet.
 
@@ -132,4 +130,4 @@ E\* = max {0, [ΣEi− ΣCi]}
 
 (2) A Board-regulated institution must have a process for assessing its overall capital adequacy in relation to its risk profile and a comprehensive strategy for maintaining an appropriate level of capital.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 57744, Sept. 26, 2014; 80 FR 41419, July 15, 2015; 84 FR 4242, Feb. 14, 2019; 84 FR 35259, July 22, 2019]

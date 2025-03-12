@@ -1,7 +1,5 @@
 ##### § 324.35 Cleared transactions. #####
 
-Link to an amendment published at 84 FR 35277, July 22, 2019.
-
 (a) *General requirements* - (1) *Clearing member clients.* An FDIC-supervised institution that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) *Clearing members.* An FDIC-supervised institution that is a clearing member must use the methodologies described in paragraph (c) of this section to calculate its risk-weighted assets for a cleared transaction and paragraph (d) of this section to calculate its risk-weighted assets for its default fund contribution to a CCP.
@@ -28,11 +26,11 @@ Link to an amendment published at 84 FR 35277, July 22, 2019.
 
 (B) 4 percent if the requirements of § 324.35(b)(3)(A) are not met.
 
-(ii) For a cleared transaction with a CCP that is not a QCCP, a clearing member client FDIC-supervised institution must apply the risk weight appropriate for the CCP according to § 324.32.
+(ii) For a cleared transaction with a CCP that is not a QCCP, a clearing member client FDIC-supervised institution must apply the risk weight appropriate for the CCP according to this subpart D.
 
 (4) *Collateral.* (i) Notwithstanding any other requirements in this section, collateral posted by a clearing member client FDIC-supervised institution that is held by a custodian (in its capacity as custodian) in a manner that is bankruptcy remote from the CCP, the custodian, clearing member and other clearing member clients of the clearing member, is not subject to a capital requirement under this section.
 
-(ii) A clearing member client FDIC-supervised institution must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction in accordance with the requirements under § 324.32.
+(ii) A clearing member client FDIC-supervised institution must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or custodian in connection with a cleared transaction in accordance with the requirements under this subpart D.
 
 (c) *Clearing member FDIC-supervised institutions* - (1) *Risk-weighted assets for cleared transactions.* (i) To determine the risk-weighted asset amount for a cleared transaction, a clearing member FDIC-supervised institution must multiply the trade exposure amount for the cleared transaction, calculated in accordance with paragraph (c)(2) of this section, by the risk weight appropriate for the cleared transaction, determined in accordance with paragraph (c)(3) of this section.
 
@@ -54,11 +52,11 @@ Link to an amendment published at 84 FR 35277, July 22, 2019.
 
 (3) *Cleared transaction risk weight.* (i) A clearing member FDIC-supervised institution must apply a risk weight of 2 percent to the trade exposure amount for a cleared transaction with a QCCP.
 
-(ii) For a cleared transaction with a CCP that is not a QCCP, a clearing member FDIC-supervised institution must apply the risk weight appropriate for the CCP according to § 324.32.
+(ii) For a cleared transaction with a CCP that is not a QCCP, a clearing member FDIC-supervised institution must apply the risk weight appropriate for the CCP according to this subpart D.
 
 (4) *Collateral.* (i) Notwithstanding any other requirement in this section, collateral posted by a clearing member FDIC-supervised institution that is held by a custodian in a manner that is bankruptcy remote from the CCP is not subject to a capital requirement under this section.
 
-(ii) A clearing member FDIC-supervised institution must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or a custodian in connection with a cleared transaction in accordance with requirements under § 324.32.
+(ii) A clearing member FDIC-supervised institution must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or a custodian in connection with a cleared transaction in accordance with requirements under this subpart D.
 
 (d) *Default fund contributions* - (1) *General requirement.* A clearing member FDIC-supervised institution must determine the risk-weighted asset amount for a default fund contribution to a CCP at least quarterly, or more frequently if, in the opinion of the FDIC-supervised institution or the FDIC, there is a material change in the financial condition of the CCP.
 
@@ -96,4 +94,4 @@ RWADF = Min {12.5 \* DF; 0.18 \* TE}Where(A) TE equals the FDIC-supervised insti
 
 (4) *Total risk-weighted assets for default fund contributions.* Total risk-weighted assets for default fund contributions is the sum of a clearing member FDIC-supervised institution's risk-weighted assets for all of its default fund contributions to all CCPs of which the FDIC-supervised institution is a clearing member.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20760, Apr. 14, 2014; 84 FR 35277, July 22, 2019]

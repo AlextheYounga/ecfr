@@ -1,11 +1,15 @@
-##### § 708.13 What must an employee do to show that all grievance-arbitration procedures have been exhausted? #####
+##### § 708.13 Requirements for the form and content of a complaint. #####
 
-(a) To show that you have exhausted all applicable grievance-arbitration procedures, you must:
+A complaint does not need to be in any specific form but must be signed by the employee and contain the following:
 
-(1) State that all available opportunities for resolution through an applicable grievance-arbitration procedure have been exhausted, and provide the date on which the grievance-arbitration procedure was terminated and the reasons for termination; or
+(a) A statement specifically describing
 
-(2) State that you filed a grievance under applicable grievance-arbitration procedures, but more than 150 days have passed and a final decision on it has not been issued, and provide the date that you filed your grievance; or
+(1) The alleged retaliation taken against the employee and
 
-(3) State that your employer has established no grievance-arbitration procedures.
+(2) The disclosure, participation, or refusal covered under § 708.5 that the employee believes gave rise to the retaliation;
 
-(b) If you do not provide the information specified in § 708.13(a), your complaint may be dismissed for lack of jurisdiction as provided in § 708.17 of this subpart.
+(b) A statement that the complainant is not currently pursuing a remedy under State or other applicable law, as described in § 708.16 of this subpart;
+
+(c) A statement that all of the facts that the complainant has included in his complaint are true and correct to the best of his knowledge and belief; and
+
+(d) An affirmation, as described in § 708.14 of this subpart, that the complainant has exhausted all applicable grievance or arbitration procedures.

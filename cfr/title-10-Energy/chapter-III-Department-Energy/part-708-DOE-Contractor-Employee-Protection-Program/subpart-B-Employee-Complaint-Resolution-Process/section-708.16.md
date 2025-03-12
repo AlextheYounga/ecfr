@@ -1,5 +1,15 @@
-##### § 708.16 Will a contractor or a labor organization that represents an employee be notified of an employee's complaint and be given an opportunity to respond with information? #####
+##### § 708.16 Duplicative actions under State or other law. #####
 
-(a) By the 15th day after receiving your complaint, the Head of Field Element or EC Director (as applicable) will provide your employer a copy of your complaint. Your employer has 10 days from receipt of your complaint to submit any comments it wishes to make regarding the allegations in the complaint.
+(a) An employee may not file a complaint under this part if, with respect to the same facts, he chooses to pursue a remedy under State or other applicable law, including final and binding grievance-arbitration procedures, unless:
 
-(b) If you are part of a bargaining unit represented for purposes of collective bargaining by a labor organization, the Head of Field Element or EC Director (as applicable) will provide your representative a copy of your complaint by the 15th day after receiving it. The labor organization will be advised that it has 10 days from the receipt of your complaint to submit any comments it wishes to make regarding the allegations in the complaint.
+(1) The complaint under State or other applicable law is dismissed for lack of jurisdiction;
+
+(2) The complaint was filed under 48 CFR part 3, subpart 3.9 and the Inspector General, after conducting an initial inquiry, determines not to pursue it; or
+
+(3) The employee has exhausted grievance-arbitration procedures pursuant to § 708.14, and issues related to alleged retaliation for conduct protected under § 708.5 remain.
+
+(b) Pursuing a remedy other than final and binding grievance-arbitration procedures does not prevent an employee from filing a complaint under this part.
+
+(c) An employee is considered to have filed a complaint under State or other applicable law if he files a complaint, or other pleading, with respect to the same facts in a proceeding established or mandated by State or other applicable law, whether such a complaint is filed before, concurrently with, or after a complaint is filed under this part.
+
+(d) If an employee files a complaint under State or other applicable law after filing a complaint under this part, the complaint under this regulation will be dismissed under § 708.18(c)(3).

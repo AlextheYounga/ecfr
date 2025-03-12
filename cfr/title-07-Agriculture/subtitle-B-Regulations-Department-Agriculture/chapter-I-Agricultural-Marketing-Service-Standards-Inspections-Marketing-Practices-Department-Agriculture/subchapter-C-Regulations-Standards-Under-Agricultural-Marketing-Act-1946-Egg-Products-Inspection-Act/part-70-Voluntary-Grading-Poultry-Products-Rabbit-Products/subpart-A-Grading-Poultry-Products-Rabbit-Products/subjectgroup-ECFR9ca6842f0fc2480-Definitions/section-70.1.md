@@ -1,7 +1,5 @@
 ##### § 70.1 Definitions. #####
 
-Link to an amendment published at 84 FR 49643, Sept. 23, 2019.
-
 For the purpose of the regulations in this part, words in the singular shall be deemed to import the plural and vice versa, as the case may demand. Unless the context otherwise requires, the terms shall have the following meaning:
 
 *Acceptable* means suitable for the purpose intended by the AMS.
@@ -50,6 +48,8 @@ For the purpose of the regulations in this part, words in the singular shall be 
 
 *National supervisor* means the officer in charge of the poultry grading service of the AMS, and other employees of the Department as may be designated by the national supervisor.
 
+*Observed legal holiday.* When a holiday falls on a weekend - Saturday or Sunday - the holiday usually is observed on Monday (if the holiday falls on Sunday) or Friday (if the holiday falls on Saturday).
+
 *Office of grading* means the office of any grader.
 
 *Official plant* or *official establishment* means one or more buildings or parts thereof comprising a single plant in which the facilities and methods of operation therein have been approved by the Administrator as suitable and adequate for grading service and in which grading is carried on in accordance with the regulations in this part.
@@ -92,4 +92,4 @@ For the purpose of the regulations in this part, words in the singular shall be 
 
 *United States Classes, Standards, and Grades for Rabbits* means the official U.S. Classes, Standards, and Grades for Rabbits (AMS 70.300 *et seq.*) that are maintained by and available from Poultry Programs, AMS.
 
-[41 FR 23681, June 11, 1976; 41 FR 24693, June 18, 1976. Redesignated at 42 FR 32514, June 27, 1977, as amended at 43 FR 60138, Dec. 26, 1978. Redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 47 FR 46071, Oct. 15, 1982; 47 FR 54421, Dec. 3, 1982; 51 FR 17280, May 9, 1986; 60 FR 6639, Feb. 2, 1995; 63 FR 40628, July 30, 1998; 71 FR 42011, July 24, 2006; 72 FR 11775, Mar. 14, 2007]
+[41 FR 23681, June 11, 1976; 41 FR 24693, June 18, 1976. Redesignated at 42 FR 32514, June 27, 1977, as amended at 43 FR 60138, Dec. 26, 1978. Redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 47 FR 46071, Oct. 15, 1982; 47 FR 54421, Dec. 3, 1982; 51 FR 17280, May 9, 1986; 60 FR 6639, Feb. 2, 1995; 63 FR 40628, July 30, 1998; 71 FR 42011, July 24, 2006; 72 FR 11775, Mar. 14, 2007; 84 FR 49643, Sept. 23, 2019]

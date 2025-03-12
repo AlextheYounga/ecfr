@@ -1,5 +1,7 @@
 ##### § 310.25 Contamination with microorganisms; process control verification criteria and testing; pathogen reduction standards. #####
 
+Link to an amendment published at 84 FR 52348, Oct. 1, 2019.
+
 (a) Criteria for verifying process control; *E. coli* testing. (1) Each official establishment that slaughters livestock must test for *Escherichia coli* Biotype 1 (*E.coli*) Establishments that slaughter more than one type of livestock or both livestock and poultry, shall test the type of livestock or poultry slaughtered in the greatest number. The establishment shall:
 
 (i) Collect samples in accordance with the sampling techniques, methodology, and frequency requirements in paragraph (a)(2) of this section;

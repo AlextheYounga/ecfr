@@ -1,7 +1,11 @@
 ##### 213.106-1 Soliciting competition. #####
 
-Link to an amendment published at 84 FR 50788, September 26, 2019.
+(a) *Considerations.*
 
-(a)(2) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
+(2)(i) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
-[80 FR 67251, Oct. 30, 2015]
+(ii) See 215.101-2-70 for limitations and prohibitions on the use of the lowest price technically acceptable source selection process, which are applicable to simplified acquisitions.
+
+(iii) See 217.7801 for the prohibition on the use of reverse auctions for personal protective equipment and aviation critical safety items.
+
+[84 FR 50788, Sept. 26, 2019]

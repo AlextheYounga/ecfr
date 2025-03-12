@@ -1,0 +1,3 @@
+##### § 708.1 Purpose and applicability. #####
+
+The purpose of this part is to effectuate the provisions of the Government in the Sunshine Act. This part applies to the deliberations of a quorum of the Directors of the Corporation required to take action on behalf of the Corporation where such deliberations determine or result in the joint conduct or disposition of official Corporation business, but does not apply to deliberations to take action to open or close a meeting or to release or withhold information under § 708.5. Any deliberation to which this part applies is hereinafter in this part referred to as a meeting of the Board of Directors.

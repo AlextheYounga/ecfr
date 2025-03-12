@@ -1,5 +1,7 @@
 ##### § 383.141 General. #####
 
+Link to an amendment published at 84 FR 52034, Oct. 1, 2019.
+
 (a) *Applicability.* This section applies to State agencies responsible for issuing hazardous materials endorsements for a CDL, and applicants for such endorsements.
 
 (b) *Prohibition.* A State may not issue, renew, upgrade, or transfer a hazardous materials endorsement for a CDL to any individual authorizing that individual to operate a commercial motor vehicle transporting a hazardous material in commerce unless the Transportation Security Administration has determined that the individual does not pose a security risk warranting denial of the endorsement.

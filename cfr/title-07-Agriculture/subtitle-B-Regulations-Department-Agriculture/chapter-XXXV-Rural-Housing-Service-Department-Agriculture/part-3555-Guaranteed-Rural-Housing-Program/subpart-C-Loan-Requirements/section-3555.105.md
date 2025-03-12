@@ -1,7 +1,5 @@
 ##### § 3555.105 Combination construction and permanent loans. #####
 
-Link to an amendment published at 84 FR 35006, July 22, 2019.Link to a delay in the effective date of the above amendment published at 84 FR 42799, August 19, 2019.
-
 Guarantees of combination construction and permanent loans are subject to the following conditions:
 
 (a) *Lender requirements.* In addition to other lender requirements of this part, lenders seeking guarantees of combination construction and permanent loans must:
@@ -32,7 +30,7 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (6) Contractors or builders who are constructing their own residence are ineligible.
 
-(c) *Use of loan funds.* (1) The loan is to finance the construction and purchase of a single family housing residence. Condominiums are ineligible for combination construction and permanent loans.
+(c) *Use of loan funds.* (1) The loan is to finance the purchase of real estate and construction of a single family dwelling or the purchase and required rehabilitation of an existing single family dwelling. Condominiums, including detached condominiums and site condominiums, are ineligible for combination construction and permanent loans.
 
 (2) The loan amount may include:
 
@@ -42,13 +40,15 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (iii) Reasonable and customary closing costs as defined at § 3555.101; and
 
+(iv) The costs of an interim construction financing interest rate and PITI reserve under § 3555.104(e) and § 3555.105(d)(7), respectively.
+
 (3) Funds remaining after full disbursement of construction costs will be applied by the lender as a principal payment. Borrowers are not to receive funds after closing except that the borrower may receive funds remaining from certain unused prepaid expenses if the borrower used personal, non-loan funds to pay those expenses.
 
 (d) *Terms.* The following terms apply to guarantees of combination construction and permanent loans:
 
 (1) The interest rate for the construction and permanent loan will be established in accordance with § 3555.104 at the time the rate is locked, which must occur prior to closing.
 
-(2) The fair market value of the proposed property to be constructed will be used to establish the maximum loan amount.
+(2) The fair market value as determined by a licensed or certified appraiser in accordance with regulation 3555.107(d) will be used to establish the maximum loan amount.
 
 (3) Annual fees will begin in the month immediately following loan closing and will not be affected by loan reamortization following the completion of construction. Lenders may fund a lender imposed escrow account for borrower payments of the annual fee in accordance with § 3555.101(b)(6)(xi), as an eligible loan purpose, provided the market value of the property is not exceeded.
 
@@ -58,9 +58,11 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (6) The loan will be modified and re-amortized to achieve full repayment within its remaining term once construction is complete. Within a reasonable time, as specified by the Agency, after the final inspection, the borrower will begin making regularly scheduled (amortized) principal and interest payments once the loan is re-amortized.
 
+(7) Lenders may fund a reserve account for up to 12 months of regularly scheduled (amortized) principal and interest payments along with taxes and insurance (PITI). In such cases, a loan modification is not required after construction is complete. Funds remaining in the PITI reserve after construction is complete will be applied by the lender as a principal payment.
+
 (e) *Mortgage file documentation.* Standard industry credit and verification documents may be utilized when processing and closing the loan and must be dated within a reasonable time, specified by the Agency, of the closing in order to be considered valid. In addition to documentation noted at § 3555.202(a), lenders must obtain and retain evidence:
 
-(1) The actual cost to construct the subject dwelling;
+(1) The actual cost to construct or rehabilitate the subject dwelling.
 
 (2) The acquisition, transfer of ownership, and/or ownership of land;
 
@@ -70,9 +72,11 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (5) Certification that property is free and clear of all other liens after conversion to permanent loan;
 
-(6) Required inspections and warranties; and
+(6) Required inspections and warranties;
 
-(7) Loan modification agreement when construction is complete confirming the existence of the permanent loan and the amortizing interest rate on the loan.
+(7) Loan modification agreement, once construction is complete, confirming the existence of a permanent loan and the amortizing interest rate on the loan; and
+
+(8) Evidence that all funds remaining in the construction escrow or PITI reserve accounts have been applied as a principal curtailment once construction or rehabilitation is complete.
 
 (f) *Loan Note Guarantee.* The Loan Note Guarantee will be issued after closing of the construction loan without waiting for complete construction of the subject property upon:
 
@@ -84,8 +88,8 @@ Guarantees of combination construction and permanent loans are subject to the fo
 
 (4) The lender's compliance with other requirements under § 3555.107.
 
-(g) *Unplanned changes during construction.* Should an unplanned change occur with the borrower or contractor preventing completion of construction, the lender remains responsible for completion of improvements satisfactory to Rural Development. The loan will be serviced in accordance with subparts F and G of this part.
+(g) *Unplanned changes during construction.* Should an unplanned change occur with the borrower or contractor preventing completion of construction, the lender remains responsible for completion of improvements satisfactory to Rural Development. The loan will be serviced in accordance with subparts F and G of this part. Funds remaining in all PITI reserve and construction escrow accounts after full disbursement of construction costs will be applied by the lender as a principal payment.
 
 (h) *Reservation of funding.* Rural Development reserves the right to limit the number or amount of loans guaranteed under this section based on market conditions and other factors it considers appropriate, such as loan and portfolio performance.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 84 FR 35006, July 22, 2019]

@@ -1,30 +1,26 @@
-##### § 56.52 Charges for continuous grading performed on a resident basis. #####
+##### § 56.52 Charges for services on a scheduled basis. #####
 
-Link to an amendment published at 84 FR 49642, Sept. 23, 2019.
+Fees to be charged and collected for any grading service, other than for an appeal grading, on a scheduled grading basis, will be determined based on the formulas in this part. The fees to be charged for any appeal grading shall be as provided in § 56.47.
 
-Fees to be charged and collected for any grading service, other than for an appeal grading, on a resident grading basis, shall be calculated as described in this part. The fees to be charged for any appeal grading shall be as provided in § 56.47.
+(a) *Charges.* The charges for the grading of shell eggs shall be paid by the applicant for the service and shall include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to the National Finance Center. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills are payable upon receipt.
 
-(a) *Charges.* The charges for the grading of shell eggs shall be paid by the applicant for the service and shall include items listed in this section as are applicable. Payment for the full cost of the grading service rendered to the applicant shall be made by the applicant to AMS. Such full costs shall comprise such of the items listed in this section as are due and included in the bill or bills covering the period or periods during which the grading service was rendered. Bills will be rendered by the 10th day following the end of the period in which the service was rendered and are payable upon receipt.
+(1) When a signed application for service has been received, the State supervisor or his designee will complete a plant survey pursuant to § 56.30. The costs for completing the plant survey will be charged to the applicant on an unscheduled basis as described in § 56.46. No charges will be assessed when the application is required because of a change in name or ownership. If service is not installed within 6 months from the date the application is filed, or if service is inactive due to an approved request for removal of a grader or graders(s) for a period of 6 months, the application will be considered terminated. A new application may be filed at any time. In addition, there will be a charge of $300 if the application is terminated at the request of the applicant for reasons other than for a change in location within 12 months from the date of the inauguration of service.
 
-(1) When a signed application for service has been received, the State supervisor or the supervisor's assistant shall complete a plant survey pursuant to § 56.30. The costs for completing the plant survey shall be borne by the applicant on a fee basis as described in § 56.46. No charges will be assessed when the application is required because of a change in name or ownership. If service is not installed within 6 months from the date the application is filed, or if service is inactive due to an approved request for removal of a grader(s) for a period of 6 months, the application will be considered terminated, but a new application may be filed at any time. In addition there will be a charge of $300 if the application is terminated at the request of the applicant for reasons other than for a change in location, within 12 months from the date of the inauguration of service.
+(2) Charges for the cost of each grader assigned to a plant will be calculated as described in § 56.46. Minimum fees for service performed under a scheduled agreement shall be based on the hours of the regular tour of duty. The Agency reserves the right to use any grader assigned to the plant under a scheduled agreement to perform service for other applicants except that no charge will be assessed to the scheduled applicant for the number of hours charged to the other applicant. Charges to plants are as follows:
 
-(2) Charges for the cost of each grader assigned to a plant will be calculated as described in § 56.46, except that no charge will be assessed when the assigned grader is temporarily reassigned by AMS to perform grading service for other than the applicant. Base salary rates will be determined on a national average for all official plants operating in States under a Federal Trust Fund Agreement where Federal graders, State graders, or a combination of Federal and State graders are used, by averaging the salary rates paid to each Federal or State grader assigned to such plants. Charges to plants are as follows:
+(i) The regular hourly rate shall be charged for hours worked in accordance with the approved tour of duty on the application for service between the hours of 6 a.m. and 6 p.m.
 
-(i) For all regular hours of work scheduled and approved as an established tour of duty for a plant, the regular rate charge will be made. The regular rate charge will be determined by adding an amount to the base salary rate to cover the costs to AMS for such items as the Employer's Tax imposed under the U.S. Internal Revenue Code (26 U.S.C.) for Old Age and Survivor's Benefits under the Social Security System, retirement benefits, group life insurance, severance pay, sick leave, annual leave, additional salary and travel costs for relief grading service, accident payments, certain moving costs, and related servicing costs.
+(ii) The overtime rate shall be charged for hours worked in excess of the approved tour of duty on the application for service.
 
-(ii) All hours worked by an assigned grader or another grader in excess of the approved tour of duty, or worked on a nonscheduled workday, or actually worked on a holiday in excess of the tour of duty, will be considered as overtime. The charge for such overtime will be 150 percent of the grader's base salary rate.
+(iii) The holiday hourly rate will be charged for hours worked on observed legal holidays.
 
-(iii) For work performed on a holiday which is within the established tour of duty approved for a plant, the added charge will be the same as the grader's base rate.
+(iv) The night differential rate (for regular or overtime hours) will be charged for hours worked between 6 p.m. and 6 a.m.
 
-(iv) For work performed between 6 p.m. and 6 a.m., night differential charges (for regular, overtime, or holiday hours worked during this period) will be at the applicable rates established plus 10 percent of the base rate.
+(v) The Sunday differential rate (for regular or overtime hours) will be charged for hours worked on a Sunday.
 
-(v) For work performed on Sunday, Sunday differential charges (for regular, overtime, or holiday hours worked on Sunday) will be at the applicable rates established plus 25 percent of the base rate.
-
-(vi) For all hours of work performed in a plant without an approved tour of duty, the charge will be one of the applicable hourly rates in § 56.46.
+(vi) For all hours of work performed in a plant without an approved tour of duty, the charge will be one of the applicable hourly rates in § 56.46, plus actual travel expenses incurred by AMS.
 
 (3) A charge at the hourly rates specified in § 56.46, plus actual travel expenses incurred by AMS for intermediate surveys to firms without grading service in effect.
-
-(4) An administrative service charge based upon the aggregate number of 30-dozen cases of all shell eggs handled in the plant per billing period multiplied by $0.055 beginning March 30, 2008, and $0.058 on or after January 25, 2009, except that the minimum charge per billing period shall be $275 and the maximum charge shall be $3,150 beginning March 30, 2008, and $3,225 on or after January 25, 2009. The minimum charge also applies where an approved application is in effect and no product is handled.
 
 (b) *Other provisions.* (1) The applicant shall designate in writing the employees of the applicant who will be required and authorized to furnish each grader with such information as may be necessary for the performance of the grading service.
 

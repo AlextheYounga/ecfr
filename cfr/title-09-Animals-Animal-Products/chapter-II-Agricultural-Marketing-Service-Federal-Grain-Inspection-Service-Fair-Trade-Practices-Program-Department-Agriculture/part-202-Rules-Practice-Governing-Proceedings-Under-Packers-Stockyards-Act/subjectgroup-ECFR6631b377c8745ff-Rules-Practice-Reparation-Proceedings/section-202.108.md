@@ -1,0 +1,3 @@
+##### § 202.108 Rule 8: Docketing of proceeding. #####
+
+Promptly following receipt of the answer, or the reply (if the answer asserts a counterclaim or a setoff), or following the expiration of the period of time prescribed above for the filing of the answer or of the reply, the agency head shall transmit all of the papers which have been filed in the proceeding (including the investigation report if any has been served on the parties) to the hearing clerk, who shall assign a docket number to the proceeding. Thereafter the proceeding shall be referred to by such number. The hearing clerk shall promptly transmit all such papers to the Office of the General Counsel for assignment of a presiding officer.

@@ -1,0 +1,3 @@
+##### § 202.120 Rule 20: Official notice. #####
+
+Official notice shall be taken of such matters as are judicially noticed by the courts of the United States and of any other matter of technical or scientific fact of established character: *Provided,* That the parties shall be given notice of matters so noticed, and shall be given adequate opportunity to show that such facts are erroneously noticed.

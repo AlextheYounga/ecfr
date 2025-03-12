@@ -152,21 +152,21 @@ Table 7 to § 217.300
 
 (B) During calendar years 2014 and 2015, a depository institution holding company of $15 billion or more that is an advanced approaches Board-regulated institution may include non-qualifying capital instruments in tier 2 capital that have been phased out of tier 1 capital in accordance with Table 8 to § 217.300. Beginning January 1, 2016, a depository institution holding company of $15 billion or more that is an advanced approaches Board-regulated institution may include non-qualifying capital instruments in tier 2 capital that have been phased out of tier 1 capital in accordance with Table 8, up to the applicable percentages set forth in Table 9 to § 217.300.
 
-(2) *Mergers and acquisitions.* (i) A depository institution holding company of $15 billion or more that acquires either a depository institution holding company with total consolidated assets of less than $15 billion as of December 31, 2009 (depository institution holding company under $15 billion) or a depository institution holding company that is a 2010 MHC, may include in regulatory capital the non-qualifying capital instruments issued by the acquired organization up to the applicable percentages set forth in Table 8 to § 217.300.
+(2) *Mergers and acquisitions.* (i) A depository institution holding company of $15 billion or more that acquires after December 31, 2013 either a depository institution holding company with total consolidated assets of less than $15 billion as of December 31, 2009 (depository institution holding company under $15 billion) or a depository institution holding company that is a 2010 MHC, may include in regulatory capital the non-qualifying capital instruments issued by the acquired organization up to the applicable percentages set forth in Table 8 to § 217.300.
 
-(ii) If a depository institution holding company under $15 billion acquires a depository institution holding company under $15 billion or a 2010 MHC, and the resulting organization has total consolidated assets of $15 billion or more as reported on the resulting organization's FR Y-9C for the period in which the transaction occurred, the resulting organization may include in regulatory capital non-qualifying instruments of the resulting organization up to the applicable percentages set forth in Table 8 to § 217.300.
+(ii) If a depository institution holding company under $15 billion acquires after December 31, 2013 a depository institution holding company under $15 billion or a 2010 MHC, and the resulting organization has total consolidated assets of $15 billion or more as reported on the resulting organization's FR Y-9C for the period in which the transaction occurred, the resulting organization may include in regulatory capital non-qualifying instruments of the resulting organization up to the applicable percentages set forth in Table 8 to § 217.300.
 
 Table 8 to § 217.300
 
-|Transition period (calendar year)|Percentage of non-qualifying capital  <br/>instruments includable in additional tier 1 or tier 2 capital for a depository institution  <br/>holding company of $15 billion or more|
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       Calendar year 2014        |                                                                                        50                                                                                        |
-|       Calendar year 2015        |                                                                                        25                                                                                        |
-|Calendar year 2016 and thereafter|                                                                                        0                                                                                         |
+|Transition period  <br/>(calendar year)|Percentage of non-qualifying capital instruments includable in additional tier 1 or tier 2 capital for a depository institution holding company of $15 billion or more|
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          Calendar year 2014           |                                                                                  50                                                                                  |
+|          Calendar year 2015           |                                                                                  25                                                                                  |
+|   Calendar year 2016 and thereafter   |                                                                                   0                                                                                  |
 
 (3) *Depository institution holding companies under $15 billion and 2010 MHCs.* (i) Non-qualifying capital instruments issued by depository institution holding companies under $15 billion and 2010 MHCs prior to May 19, 2010, may be included in additional tier 1 or tier 2 capital if the instrument was included in tier 1 or tier 2 capital, respectively, as of January 1, 2014.
 
-(ii) Non-qualifying capital instruments includable in tier 1 capital are subject to a limit of 25 percent of tier 1 capital elements, excluding any nonqualifying capital instruments and after applying all regulatory capital deductions and adjustments to tier 1 capital.
+(ii) Non-qualifying capital instruments includable in tier 1 capital are subject to a limit of 25 percent of tier 1 capital elements, excluding any non-qualifying capital instruments and after applying all regulatory capital deductions and adjustments to tier 1 capital.
 
 (iii) Non-qualifying capital instruments that are not included in tier 1 as a result of the limitation in paragraph (c)(3)(ii) of this section are includable in tier 2 capital.
 
@@ -210,4 +210,4 @@ Table 10 to § 217.300
 
 (f) Until July 21, 2015, this part will not apply to any bank holding company subsidiary of a foreign banking organization that is currently relying on Supervision and Regulation Letter SR 01-01 issued by the Board (as in effect on May 19, 2010).
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62290, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 55316, Nov. 21, 2017; 83 FR 705, Jan. 8, 2018]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62290, Oct. 11, 2013; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 55316, Nov. 21, 2017; 83 FR 705, Jan. 8, 2018; 84 FR 35269, July 22, 2019]

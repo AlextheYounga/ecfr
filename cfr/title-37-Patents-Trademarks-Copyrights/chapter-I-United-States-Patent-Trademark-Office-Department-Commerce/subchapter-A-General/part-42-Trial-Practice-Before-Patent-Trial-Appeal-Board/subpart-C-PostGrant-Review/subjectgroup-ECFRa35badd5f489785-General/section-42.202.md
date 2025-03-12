@@ -1,5 +1,7 @@
 ##### § 42.202 Time for filing. #####
 
+Link to an amendment published at 84 FR 51982, Oct. 1, 2019.
+
 (a) A petition for a post-grant review of a patent must be filed no later than the date that is nine months after the date of the grant of a patent or of the issuance of a reissue patent. A petition, however, may not request a post-grant review for a claim in a reissue patent that is identical to or narrower than a claim in the original patent from which the reissue patent was issued unless the petition is filed not later than the date that is nine months after the date of the grant of the original patent.
 
 (b) The Director may impose a limit on the number of post-grant reviews that may be instituted during each of the first four one-year periods in which 35 U.S.C. 321 is in effect by providing notice in the Office's Official Gazette or Federal Register. Petitions filed after an established limit has been reached will be deemed untimely.

@@ -1,7 +1,5 @@
 ##### § 217.131 Mechanics for calculating total wholesale and retail risk-weighted assets. #####
 
-Link to an amendment published at 84 FR 35268, July 22, 2019.
-
 (a) *Overview.* A Board-regulated institution must calculate its total wholesale and retail risk-weighted asset amount in four distinct phases:
 
 (1) Phase 1 - categorization of exposures;
@@ -38,7 +36,7 @@ Link to an amendment published at 84 FR 35268, July 22, 2019.
 
 (iv) Assign a PD, LGD, and EAD to each segment of retail exposures.
 
-(2) *Floor on PD assignment.* The PD for each wholesale obligor or retail segment may not be less than 0.03 percent, except for exposures to or directly and unconditionally guaranteed by a sovereign entity, the Bank for International Settlements, the International Monetary Fund, the European Commission, the European Central Bank, or a multilateral development bank, to which the Board-regulated institution assigns a rating grade associated with a PD of less than 0.03 percent.
+(2) *Floor on PD assignment.* The PD for each wholesale obligor or retail segment may not be less than 0.03 percent, except for exposures to or directly and unconditionally guaranteed by a sovereign entity, the Bank for International Settlements, the International Monetary Fund, the European Commission, the European Central Bank, the European Stability Mechanism, the European Financial Stability Facility, or a multilateral development bank, to which the Board-regulated institution assigns a rating grade associated with a PD of less than 0.03 percent.
 
 (3) *Floor on LGD estimation.* The LGD for each segment of residential mortgage exposures may not be less than 10 percent, except for segments of residential mortgage exposures for which all or substantially all of the principal of each exposure is either:
 
@@ -104,4 +102,4 @@ Link to an amendment published at 84 FR 35268, July 22, 2019.
 
 (5) *Assets held in non-guaranteed separate accounts.* The risk-weighted asset amount for an on-balance sheet asset that is held in a non-guaranteed separate account is zero percent of the carrying value of the asset.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62289, Oct. 11, 2013; 80 FR 41420, July 15, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62289, Oct. 11, 2013; 80 FR 41420, July 15, 2015; 84 FR 35268, July 22, 2019]

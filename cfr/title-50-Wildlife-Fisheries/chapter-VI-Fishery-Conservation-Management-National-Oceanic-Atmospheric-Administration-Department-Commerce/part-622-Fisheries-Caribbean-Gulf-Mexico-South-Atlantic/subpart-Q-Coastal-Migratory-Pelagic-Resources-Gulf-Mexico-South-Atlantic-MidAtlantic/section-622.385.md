@@ -1,7 +1,5 @@
 ##### § 622.385 Commercial trip limits. #####
 
-Link to an amendment published at 84 FR 51438, Sept. 30, 2019.
-
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. Except for Atlantic migratory group Spanish mackerel harvested by gillnet, as specified in § 622.377(b)(2)(vi), a species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) *King mackerel* - (1) *Atlantic migratory group.* The following trip limits apply to vessels for which commercial permits for king mackerel have been issued, as required under § 622.370(a)(1):
@@ -60,4 +58,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (3) For the purpose of paragraph (b)(1)(ii) of this section, a day starts at 6 a.m., local time, and extends for 24 hours. If a vessel terminates a trip prior to 6 a.m., but retains Spanish mackerel on board after that time, the Spanish mackerel retained on board will not be considered in possession during the succeeding day, provided the vessel is not underway between 6 a.m. and the time such Spanish mackerel are unloaded, and provided such Spanish mackerel are unloaded prior to 6 p.m.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014; 79 FR 69090, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2014; 80 FR 40937, July 14, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019; 84 FR 47904, Sept. 11, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014; 79 FR 69090, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2014; 80 FR 40937, July 14, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019; 84 FR 47904, Sept. 11, 2019; 84 FR 51438, Sept. 30, 2019]

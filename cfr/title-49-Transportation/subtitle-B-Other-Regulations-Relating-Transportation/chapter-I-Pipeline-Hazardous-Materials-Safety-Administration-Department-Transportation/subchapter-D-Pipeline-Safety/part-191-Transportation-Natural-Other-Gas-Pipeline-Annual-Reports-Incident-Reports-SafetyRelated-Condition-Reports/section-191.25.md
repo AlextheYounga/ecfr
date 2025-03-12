@@ -1,5 +1,7 @@
 ##### § 191.25 Filing safety-related condition reports. #####
 
+Link to an amendment published at 84 FR 52242, Oct. 1, 2019.
+
 (a) Each report of a safety-related condition under § 191.23(a) must be filed (received by OPS within five working days, not including Saturday, Sunday, or Federal Holidays) after the day a representative of the operator first determines that the condition exists, but not later than 10 working days after the day a representative of the operator discovers the condition. Separate conditions may be described in a single report if they are closely related. Reports may be transmitted by electronic mail to *InformationResourcesManager@dot.gov* or by facsimile at (202) 366-7128.
 
 (b) The report must be headed “Safety-Related Condition Report” and provide the following information:

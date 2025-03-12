@@ -1,3 +1,3 @@
-##### 215.101-2 xxx #####
+##### 215.101-2 Lowest price technically acceptable source selection process. #####
 
-Link to an amendment published at 84 FR 50788, September 26, 2019.
+[84 FR 50788, Sept. 26, 2019]

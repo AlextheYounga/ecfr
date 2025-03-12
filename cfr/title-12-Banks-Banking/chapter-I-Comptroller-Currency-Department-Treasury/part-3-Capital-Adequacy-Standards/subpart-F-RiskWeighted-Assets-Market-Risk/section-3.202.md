@@ -1,7 +1,5 @@
 ##### § 3.202 Definitions. #####
 
-Link to an amendment published at 84 FR 35258, July 22, 2019.
-
 (a) Terms set forth in § 3.2 and used in this subpart have the definitions assigned thereto in § 3.2.
 
 (b) For the purposes of this subpart, the following terms are defined as follows:
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 35258, July 22, 2019.
 
 *Commodity position* means a position for which price risk arises from changes in the price of a commodity.
 
-*Corporate debt position* means a debt position that is an exposure to a company that is not a sovereign entity, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, a multilateral development bank, a depository institution, a foreign bank, a credit union, a public sector entity, a GSE, or a securitization.
+*Corporate debt position* means a debt position that is an exposure to a company that is not a sovereign entity, the Bank for International Settlements, the European Central Bank, the European Commission, the International Monetary Fund, the European Stability Mechanism, the European Financial Stability Facility, a multilateral development bank, a depository institution, a foreign bank, a credit union, a public sector entity, a GSE, or a securitization.
 
 *Correlation trading position* means:
 
@@ -143,3 +141,5 @@ Link to an amendment published at 84 FR 35258, July 22, 2019.
 *Two-way market* means a market where there are independent bona fide offers to buy and sell so that a price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined within one day and settled at that price within a relatively short time frame conforming to trade custom.
 
 *Value-at-Risk (VaR)* means the estimate of the maximum amount that the value of one or more positions could decline due to market price or rate movements during a fixed holding period within a stated confidence interval.
+
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 35258, July 22, 2019]
