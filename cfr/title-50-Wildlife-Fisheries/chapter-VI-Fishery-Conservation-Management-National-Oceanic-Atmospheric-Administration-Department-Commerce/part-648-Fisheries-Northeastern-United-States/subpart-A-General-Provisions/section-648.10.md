@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -78,11 +76,13 @@ VMS Demarcation Line
 
 (8) A vessel issued a limited access herring permit (i.e., All Areas Limited Access Permit, Areas 2 and 3 Limited Access Permit, Incidental Catch Limited Access Permit), or a vessel issued an Areas 2/3 open access herring permit, or a vessel declaring an Atlantic herring carrier trip via VMS.
 
-(9) Vessels issued a Tier 1, Tier 2, or Tier 3 limited access Atlantic mackerel permit; or
+(9) A vessel issued a Tier 1, Tier 2, or Tier 3 limited access Atlantic mackerel permit;
 
-(10) Vessels issued a longfin squid/butterfish moratorium permit.
+(10) A vessel issued a Tier 1 or Tier 2 longfin squid moratorium permit;
 
-(11) Vessels issued an *Illex* squid moratorium permit.
+(11) A vessel issued an *Illex* squid moratorium permit; or
+
+(12) A vessel issued a butterfish moratorium permit.
 
 (c) *Operating requirements for all vessels.* (1) Except as provided in paragraph (c)(2) of this section, or unless otherwise required by paragraph (c)(1)(ii) of this section, all vessels required to use VMS units, as specified in paragraph (b) of this section, must transmit a signal indicating the vessel's accurate position, as specified under paragraph (c)(1)(i) of this section:
 
@@ -124,7 +124,7 @@ VMS Demarcation Line
 
 (4) *Tampering.* Tampering with a VMS, a VMS unit, or a VMS signal, is prohibited. Tampering includes any activity that may affect the unit's ability to operate or signal properly, or to accurately compute or report the vessel's position.
 
-(5) *Fishery participation notification.* (i) A vessel subject to the VMS requirements of § 648.9 and paragraphs (b) through (d) of this section that has crossed the VMS Demarcation Line under paragraph (a) of this section is deemed to be fishing under the DAS program, the Access Area Program, the LAGC IFQ or NGOM scallop fishery, or other fishery requiring the operation of VMS as applicable, unless prior to leaving port, the vessel's owner or authorized representative declares the vessel out of the scallop, NE multispecies, or monkfish fishery, as applicable, for a specific time period. NMFS must be notified by transmitting the appropriate VMS code through the VMS, or unless the vessel's owner or authorized representative declares the vessel will be fishing in the Eastern U.S./Canada Area, as described in § 648.85(a)(3)(ii), under the provisions of that program.
+(5) *Fishery participation notification.* (i) A vessel subject to the VMS requirements of § 648.9 and paragraphs (b) through (d) of this section that has crossed the VMS Demarcation Line under paragraph (a) of this section is deemed to be fishing under the DAS program, the Access Area Program, the LAGC IFQ or NGOM scallop fishery, or other fishery requiring the operation of VMS as applicable, unless prior to leaving port, the vessel's owner or authorized representative declares the vessel out of the scallop, NE multispecies, monkfish, or any other fishery, as applicable, for a specific time period. NMFS must be notified by transmitting the appropriate VMS code through the VMS, or unless the vessel's owner or authorized representative declares the vessel will be fishing in the Eastern U.S./Canada Area, as described in § 648.85(a)(3)(ii), under the provisions of that program.
 
 (ii) Notification that the vessel is not under the DAS program, the Access Area Program, the LAGC IFQ or NGOM scallop fishery, or any other fishery requiring the operation of VMS, must be received by NMFS prior to the vessel leaving port. A vessel may not change its status after the vessel leaves port or before it returns to port on any fishing trip, unless the vessel is a scallop vessel and is exempted, as specified in paragraph (f) of this section.
 
@@ -378,8 +378,8 @@ SNE/MA Stock Area 4
 
 (2) A vessel issued a limited access Atlantic mackerel permit intending to land more than 20,000 lb (9.07 mt) of mackerel must notify NMFS of the time and place of offloading at least 6 hr prior prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds. The Regional Administrator may adjust the prior notification minimum time through publication in the Federal Register consistent with the Administrative Procedure Act.
 
-(o) *Longfin squid/butterfish VMS notification requirement.* A vessel issued a longfin squid/butterfish moratorium permit intending to declare into the longfin squid fishery must notify NMFS by declaring a longfin squid trip prior to leaving port at the start of each trip in order to harvest, possess, or land more than 2,500 lb (1.13 mt) of longfin squid on that trip.
+(o) *Longfin squid VMS notification requirement.* A vessel issued a Tier 1 or Tier 2 longfin squid moratorium permit intending to harvest, possess, or land more than 2,500 lb (1.13 mt) of longfin squid on that trip must notify NMFS by declaring a longfin squid trip before leaving port at the start of each trip.
 
-(p) *Illex squid VMS notification requirement.* A vessel issued an *Illex* squid moratorium permit intending to declare into the *Illex* squid fishery must notify NMFS by declaring an *Illex* squid trip prior to leaving port at the start of each trip in order to harvest, possess, or land 10,000 lb (4,535.9 kg) or more of *Illex* squid on that trip.
+(p) *Illex squid VMS notification requirement.* A vessel issued an *Illex* squid moratorium permit intending to harvest, possess, or land 10,000 lb (4,536 kg) or more of *Illex* squid on that trip must notify NMFS by declaring an *Illex* squid trip before leaving port at the start of each trip.
 
 [74 FR 20530, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

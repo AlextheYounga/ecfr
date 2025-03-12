@@ -1,7 +1,5 @@
 ##### § 648.24 Fishery closures and accountability measures. #####
 
-Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
-
 (a) *Fishery closure procedures* - (1) *Longfin squid.* NMFS shall close the directed fishery in the EEZ for longfin squid when the Regional Administrator projects that 90 percent of the longfin squid quota is harvested before April 15 of Trimester I and/or August 15 of Trimester II, and when 95 percent of the longfin squid DAH has been harvested in Trimester III. On or after April 15 of Trimester I and/or August 15 of Trimester II, NMFS shall close the directed fishery in the EEZ for longfin squid when the Regional Administrator projects that 95 percent of the longfin squid quota is harvested. The closure of the directed fishery shall be in effect for the remainder of that fishing period, with incidental catches allowed as specified at § 648.26.
 
 (2) *Illex.* NMFS shall close the directed *Illex* fishery in the EEZ when the Regional Administrator projects that 95 percent of the *Illex* DAH is harvested. The closure of the directed fishery shall be in effect for the remainder of that fishing period, with incidental catches allowed as specified at § 648.26.
@@ -34,7 +32,7 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (6) *River herring and shad catch cap.* The river herring and shad cap on the mackerel fishery applies to all trips that land more than 20,000 lb (9.08 mt) of mackerel. NMFS shall close the directed mackerel fishery in the EEZ when the Regional Administrator project that 95 percent of the river herring/shad catch cap has been harvested. Following closures of the directed mackerel fishery, vessels must adhere to the possession restrictions specified in § 648.26.
 
-(c) *Butterfish AMs* - (1) *Directed butterfish fishery closure.* When butterfish catch reaches the butterfish closure threshold as determined in the annual specifications, NMFS shall implement a 5,000-lb (2.27-mt) possession limit for vessels issued a longfin squid/butterfish moratorium permit and that are fishing with a minimum mesh size of 3 inches (76 mm). When the butterfish catch is projected to reach the butterfish DAH as determined in the annual specifications, NMFS shall implement a 600-lb (0.27-mt) possession limit for all vessels issued a longfin squid/butterfish moratorium or incidental catch permit.
+(c) *Butterfish AMs* - (1) *Directed butterfish fishery closure.* When the butterfish catch reaches the butterfish closure threshold as determined in the annual specifications, NMFS shall implement a 5,000 lb (2,268 kg) possession limit for vessels issued a butterfish moratorium permit that are fishing with a minimum mesh size of 3 inches (76 mm). When NMFS projects that the butterfish catch has reached the butterfish DAH, as determined in the annual specifications, NMFS shall implement a 600 lb (272 kg) possession limit for all vessels issued a longfin squid or butterfish moratorium permit, or a squid/butterfish incidental catch permit.
 
 (2) *Butterfish ACL overage repayment.* If the butterfish ACL is exceeded, then catch in excess of the ACL will be deducted from the ACL the following year, as a single-year adjustment.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (d) *Notification.* Upon determining that a closure or trip limit reduction is necessary, the Regional Administrator will notify, in advance of the closure, the Executive Directors of the MAFMC, NEFMC, and SAFMC; mail notification of the closure or trip limit reduction to all holders of mackerel, squid, and butterfish fishery permits at least 72 hr before the effective date of the closure; provide adequate notice of the closure or trip limit reduction to recreational participants in the fishery; and publish notification of the closure or trip limit reduction in the Federal Register.
 
-[76 FR 60619, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 3354, Jan. 16, 2013; 78 FR 76762, Dec. 19, 2013; 79 FR 18843, Apr. 4, 2014; 79 FR 18481, Apr. 2, 2014; 80 FR 14874, Mar. 20, 2015; 80 FR 48248, Aug. 12, 2015; 83 FR 65314, Dec. 20, 2018]
+[76 FR 60619, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 77 FR 16480, Mar. 21, 2012; 77 FR 3354, Jan. 16, 2013; 78 FR 76762, Dec. 19, 2013; 79 FR 18843, Apr. 4, 2014; 79 FR 18481, Apr. 2, 2014; 80 FR 14874, Mar. 20, 2015; 80 FR 48248, Aug. 12, 2015; 83 FR 65314, Dec. 20, 2018; 83 FR 64268, Dec. 14, 2018]

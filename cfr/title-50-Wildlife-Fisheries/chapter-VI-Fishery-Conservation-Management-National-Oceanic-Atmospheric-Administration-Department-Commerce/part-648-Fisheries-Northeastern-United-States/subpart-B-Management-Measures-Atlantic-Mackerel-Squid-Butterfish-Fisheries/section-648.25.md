@@ -1,7 +1,5 @@
 ##### § 648.25 Atlantic Mackerel, squid, and butterfish framework adjustments to management measures. #####
 
-Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
-
 (a) *Within season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures within the Atlantic Mackerel, Squid, and Butterfish FMP if it finds that action is necessary to meet or be consistent with the goals and objectives of the FMP.
 
 (1) *Adjustment process.* The MAFMC shall develop and analyze appropriate management actions over the span of at least two MAFMC meetings. The MAFMC must provide the public with advance notice of the availability of the recommendation(s), appropriate justification(s) and economic and biological analyses, and the opportunity to comment on the proposed adjustment(s) at the first meeting and prior to and at the second MAFMC meeting. The MAFMC's recommendations on adjustments or additions to management measures must come from one or more of the following categories:
@@ -70,7 +68,7 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (4) *NMFS action.* If the MAFMC's recommendation includes adjustments or additions to management measures and, after reviewing the MAFMC's recommendation and supporting information:
 
-(i) If NMFS concurs with the MAFMC's recommended management measures and determines that the recommended management measures should be issued as a final rule based on the factors specified in paragraph (a)(2) of this section, the measures will be issued as a final rule in the Federal Register.
+(i) If NMFS concurs with the MAFMC's recommended management measures and determines that the recommended management measures should be issued as a final rule based on the factors specified in paragraph (a)(3) of this section, the measures will be issued as a final rule in the Federal Register.
 
 (ii) If NMFS concurs with the MAFMC's recommended management measures and determines that the recommended management measures should be published first as a proposed rule, the measures will be published as a proposed rule in the Federal Register. After additional public comment, if NMFS concurs with the MAFMC recommendation, the measures will be issued as a final rule in the Federal Register.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 83 FR 64268, Dec. 14, 2018.
 
 (b) [Reserved]
 
-[76 FR 60620, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 79 FR 10048, Feb. 24, 2014; 80 FR 37194, June 30, 2015; 81 FR 90250, Dec. 14, 2016]
+[76 FR 60620, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 79 FR 10048, Feb. 24, 2014; 80 FR 37194, June 30, 2015; 81 FR 90250, Dec. 14, 2016; 83 FR 64268, Dec. 14, 2018]

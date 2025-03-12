@@ -1,6 +1,6 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 83 FR 64262, Dec. 14, 2018.Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
+Link to an amendment published at 84 FR 2728, Feb. 8, 2019.
 
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
@@ -281,7 +281,7 @@ Link to an amendment published at 83 FR 64262, Dec. 14, 2018.Link to an amendmen
 |                                             635.44                                              |                                          \-0040                                          |
 |                                             635.46                                              |                                          \-0363                                          |
 |                                      635.69(a) and (e)(4)                                       |                                          \-0372                                          |
-|                                              648.4                                              |                                 \-0202, -0212, and -0529                                 |
+|                                              648.4                                              |                             \-0202, -0212, -0529, and -0679                              |
 |                                              648.5                                              |                                          \-0202                                          |
 |                                              648.6                                              |                                     \-0202 and -0555                                     |
 |                                              648.7                                              |                      \-0018, -0202, -0212, -0229, -0590, and -0605                       |

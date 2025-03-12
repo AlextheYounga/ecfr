@@ -1,5 +1,7 @@
 ##### § 165.164 Security Zones; Dignitary Arrival/Departure and United Nations Meetings, New York, NY. #####
 
+Link to an amendment published at 84 FR 6974, Mar. 1, 2019.
+
 (a) *Location.* The following areas are security zones:
 
 (1) *Wall Street Heliport.* All waters of the East River within the following boundaries: East of a line drawn between approximate position 40°42′01″ N, 074°00′39″ W (east of The Battery) to 40°41′36″ N, 074°00′52″ W (point north of Governors Island) and north of a line drawn from the point north of Governors Island to the southwest corner of Pier 7 North, Brooklyn; and south of a line drawn between 40°42′14.8″ N, 074°00′20.3″ W (Wall Street, Manhattan), and the northwest corner of Pier 2 North, Brooklyn (NAD 1983).

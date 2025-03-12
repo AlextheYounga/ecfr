@@ -1,18 +1,18 @@
 ##### § 648.22 Atlantic mackerel, squid, and butterfish specifications. #####
 
-Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
-
 (a) *Initial recommended annual specifications.* The Atlantic Mackerel, Squid, and Butterfish Monitoring Committee (Monitoring Committee) shall meet annually to develop and recommend the following specifications for consideration by the Squid, Mackerel, and Butterfish Committee of the MAFMC:
 
-(1) Initial OY (IOY), including Research Set-Aside (RSA), DAH, and DAP for *Illex* squid, which, subject to annual review, may be specified for a period of up to 3 years;
+(1) *Illex squid* - Initial OY (IOY), including Research Set-Aside (RSA), domestic annual harvest (DAH), and domestic annual processing (DAP) for *Illex* squid, which, subject to annual review, may be specified for a period of up to 3 years;
 
-(2) ACL; ACT including RSA, DAH, DAP; bycatch level of the TALFF, if any; and butterfish mortality cap for the longfin squid fishery for butterfish; which, subject to annual review, may be specified for a period of up to 3 years;
+(2) *Butterfish* - ACL; ACT including RSA, DAH, DAP; bycatch level of the total allowable level of foreign fishing (TALFF), if any; and butterfish mortality cap for the longfin squid fishery for butterfish; which, subject to annual review, may be specified for a period of up to 3 years;
 
-(3) ACL; commercial ACT, including RSA, DAH, Tier 3 allocation (up to 7 percent of the DAH), DAP; JVP if any; TALFF, if any; and recreational ACT, including RSA for mackerel; which, subject to annual review, may be specified for a period of up to 3 years. The Monitoring Committee may also recommend that certain ratios of TALFF, if any, for mackerel to purchases of domestic harvested fish and/or domestic processed fish be established in relation to the initial annual amounts.
+(3) *Atlantic mackerel* - ACL; commercial ACT, including RSA, DAH, mackerel Tier 3 allocation (up to 7 percent of the DAH), DAP; joint venture processing (JVP) if any; TALFF, if any; and recreational ACT, including RSA for mackerel; which, subject to annual review, may be specified for a period of up to 3 years. The Monitoring Committee may also recommend that certain ratios of TALFF, if any, for mackerel to purchases of domestic harvested fish and/or domestic processed fish be established in relation to the initial annual amounts.
 
-(4) IOY, including RSA, DAH, and DAP for longfin squid, which, subject to annual review, may be specified for a period of up to 3 years; and
+(4) *Longfin squid* -
 
-(5) Inseason adjustment, upward or downward, to the specifications for longfin squid, as specified in paragraph (e) of this section.
+(i) IOY, including RSA, DAH, and DAP for longfin squid, which, subject to annual review, may be specified for a period of up to 3 years; and
+
+(ii) Inseason adjustment, upward or downward, to the specifications for longfin squid, as specified in paragraph (e) of this section.
 
 (b) *Guidelines.* As the basis for its recommendations under paragraph (a) of this section, the Monitoring Committee shall review the best available data to recommend specifications consistent with the following:
 
@@ -20,7 +20,7 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (A) Longfin squid - The catch associated with a fishing mortality rate of FThreshold.
 
-(B) *Illex* - Catch associated with a fishing mortality rate of FMSY.
+(B) *Illex squid* - Catch associated with a fishing mortality rate of FMSY.
 
 (ii) IOY is a modification of ABC based on social and economic factors. The IOY is composed of RSA and DAH. RSA will be based on requests for research quota as described in paragraph (g) of this section. DAH will be set after deduction for RSA, if applicable.
 
@@ -96,13 +96,13 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (2) Commercial quotas, set after reductions for research quotas.
 
-(3) The amount of longfin squid, *Illex,* and butterfish that may be retained and landed by vessels issued the incidental catch permit specified in § 648.4(1)(5)(ii), and the amount of mackerel that may be retained, possessed and landed by any of the limited access mackerel permits described at § 648.4(1)(5)(iii) and the incidental mackerel permit at § 648.4(1)(5)(iv).
+(3) The amount of longfin squid, *Illex* squid, and butterfish that may be retained and landed by vessels issued the incidental catch permit specified in § 648.4(a)(5)(vi), and the amount of mackerel that may be retained, possessed and landed by any of the limited access mackerel permits described at § 648.4(a)(5)(iii) and the incidental mackerel permit at § 648.4(a)(5)(iv).
 
 (4) Commercial minimum fish sizes.
 
 (5) Commercial trip limits.
 
-(6) Commercial seasonal quotas/closures for longfin squid and *Illex,* and allocation for the Limited Access Mackerel Tier 3.
+(6) Commercial seasonal quotas/closures for longfin squid and *Illex* squid, and allocation for the Tier 3 Limited Access Mackerel permit.
 
 (7) Minimum mesh sizes.
 
@@ -156,4 +156,4 @@ Link to an amendment published at 83 FR 64267, Dec. 14, 2018.
 
 (ii) For proposals that require exemptions that extend beyond the scope of the analysis provided by the MAFMC, applicants may be required to provide additional analysis of impacts of the exemptions before issuance of an EFP will be considered, as specified in the EFP regulations at § 648.12(b).
 
-[76 FR 60616, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 77 FR 16480, Mar. 21, 2012; 78 FR 3353, Jan. 16, 2013; 79 FR 10048, Feb. 24, 2014; 79 FR 18481, Apr. 2, 2014; 80 FR 37194, June 30, 2015]
+[76 FR 60616, Sept. 29, 2011, as amended at 76 FR 68656, Nov. 7, 2011; 76 FR 81848, Dec. 29, 2011; 77 FR 16480, Mar. 21, 2012; 78 FR 3353, Jan. 16, 2013; 79 FR 10048, Feb. 24, 2014; 79 FR 18481, Apr. 2, 2014; 80 FR 37194, June 30, 2015; 80 FR 48248, Aug. 12, 2015; 83 FR 64267, Dec. 14, 2018]

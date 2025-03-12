@@ -1,7 +1,5 @@
 ##### § 648.11 At-sea sea sampler/observer coverage. #####
 
-Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
-
 (a) The Regional Administrator may request any vessel holding a permit for Atlantic sea scallops, NE multispecies, monkfish, skates, Atlantic mackerel, squid, butterfish, scup, black sea bass, bluefish, spiny dogfish, Atlantic herring, tilefish, Atlantic surfclam, ocean quahog, or Atlantic deep-sea red crab; or a moratorium permit for summer flounder; to carry a NMFS-certified fisheries observer. A vessel holding a permit for Atlantic sea scallops is subject to the additional requirements specific in paragraph (g) of this section. Also, any vessel or vessel owner/operator that fishes for, catches or lands hagfish, or intends to fish for, catch, or land hagfish in or from the exclusive economic zone must carry a NMFS-certified fisheries observer when requested by the Regional Administrator in accordance with the requirements of this section.
 
 (b) If requested by the Regional Administrator to carry an observer or sea sampler, it is the responsibility of the vessel owner to arrange for and facilitate observer or sea sampler placement. Owners of vessels selected for sea sampler/observer coverage must notify the appropriate Regional or Science and Research Director, as specified by the Regional Administrator, before commencing any fishing trip that may result in the harvest of resources of the respective fishery. Notification procedures will be specified in selection letters to vessel owners.
@@ -268,7 +266,7 @@ Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
 
 (iv) If a vessel issued a limited access Atlantic mackerel permit, as specified in § 648.4(a)(5)(iii), intends to possess, harvest, or land more than 20,000 lb (9.07 mt) of mackerel per trip or per calendar day, and has a representative notify NMFS of an upcoming trip, is selected by NMFS to carry an observer, and then cancels that trip, the representative is required to provide notice to NMFS of the vessel name, vessel permit number, contact name for coordination of observer deployment, and telephone number or email address for contact, and the intended date, time, and port of departure for the cancelled trip prior to the planned departure time. In addition, if a trip selected for observer coverage is cancelled, then that vessel is required to carry an observer, provided an observer is available, on its next trip.
 
-(2) *Sampling requirements for limited access Atlantic mackerel and longfin squid/butterfish moratorium permit holders.* In addition to the requirements in paragraphs (d)(1) through (7) of this section, an owner or operator of a vessel issued a limited access Atlantic mackerel or longfin squid/butterfish moratorium permit on which a NMFS-approved observer is embarked must provide observers:
+(2) *Sampling requirements for limited access Atlantic mackerel or Tier 1 or 2 longfin squid, or butterfish moratorium permit holders.* In addition to the requirements in paragraphs (d)(1) through (7) of this section, an owner or operator of a vessel issued a limited access Atlantic mackerel or a longfin squid or butterfish moratorium permit on which a NMFS-approved observer is embarked must provide observers:
 
 (i) A safe sampling station adjacent to the fish deck, including: A safety harness, if footing is compromised and grating systems are high above the deck; a safe method to obtain samples; and a storage space for baskets and sampling gear.
 
@@ -276,7 +274,7 @@ Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
 
 (iii) Advance notice when pumping will be starting; when sampling of the catch may begin; and when pumping is coming to an end.
 
-(3) *Measures to address slippage.* (i) No vessel issued a limited access Atlantic mackerel permit or a longfin squid/butterfish moratorium permit may slip catch, as defined at § 648.2, except in the following circumstances:
+(3) *Measures to address slippage.* (i) No vessel issued a limited access Atlantic mackerel permit or a longfin squid or butterfish moratorium permit may slip catch, as defined at § 648.2, except in the following circumstances:
 
 (A) The vessel operator has determined, and the preponderance of available evidence indicates that, there is a compelling safety reason; or
 
@@ -284,7 +282,7 @@ Link to an amendment published at 83 FR 64266, Dec. 14, 2018.
 
 (C) The vessel operator determines that pumping becomes impossible as a result of spiny dogfish clogging the pump intake. The vessel operator shall take reasonable measures, such as strapping and splitting the net, to remove all fish that can be pumped from the net prior to release.
 
-(ii) If a vessel issued any limited access Atlantic mackerel permit slips catch, the vessel operator must report the slippage event on the Atlantic mackerel and longfin squid daily VMS catch report and indicate the reason for slipping catch. Additionally, vessels issued a limited Atlantic mackerel permit or a longfin squid/butterfish moratorium permit, the vessel operator must complete and sign a Released Catch Affidavit detailing: The vessel name and permit number; the VTR serial number; where, when, and the reason for slipping catch; the estimated weight of each species brought on board or slipped on that tow. A completed affidavit must be submitted to NMFS within 48 hr of the end of the trip.
+(ii) If a vessel issued any limited access Atlantic mackerel permit slips catch, the vessel operator must report the slippage event on the Atlantic mackerel and longfin squid daily VMS catch report and indicate the reason for slipping catch. Additionally, for a vessel issued a limited Atlantic mackerel permit or a longfin squid or butterfish moratorium permit, the vessel operator must complete and sign a Released Catch Affidavit detailing: The vessel name and permit number; the VTR serial number; where, when, and the reason for slipping catch; the estimated weight of each species brought on board or slipped on that tow. A completed affidavit must be submitted to NMFS within 48 hr of the end of the trip.
 
 (iii) If a vessel issued a limited access Atlantic mackerel permit slips catch for any of the reasons described in paragraph (n)(3)(i) of this section, the vessel operator must move at least 15 nm (27.8 km) from the location of the slippage event before deploying any gear again, and must stay at least 15 nm (27.8 km) from the slippage event location for the remainder of the fishing trip.
 

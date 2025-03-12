@@ -1,7 +1,5 @@
 ##### § 648.2 Definitions. #####
 
-Link to an amendment published at 83 FR 64263, Dec. 14, 2018.
-
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*
@@ -44,7 +42,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Atlantic mackerel* or *mackerel* means *Scomber scombrus.*
 
-*Atlantic Mackerel, Squid, and Butterfish Monitoring Committee* means the committee made up of staff representatives of the MAFMC and the NEFMC, and the Northeast Regional Office and NEFSC of NMFS. The MAFMC Executive Director or a designee chairs the Committee.
+*Atlantic Mackerel, Squid, and Butterfish Monitoring Committee* means the committee made up of staff representatives of the MAFMC and the NEFMC, and the Greater Atlantic Regional Fisheries Office and NEFSC of NMFS. The MAFMC Executive Director or a designee chairs the Committee.
 
 *Atlantic salmon* means *Salmo salar.*
 
@@ -81,6 +79,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Bushel* (bu) means a standard unit of volumetric measurement deemed to hold 1.88 ft3 (53.24 L) of surfclams or ocean quahogs in shell, or 1.24 ft3 (35.24 L) of in-shell Atlantic sea scallops.
 
 *Cage* means a container with a standard unit of volumetric measurement containing 60 ft3 (1,700 L). The outside dimensions of a standard cage generally are 3 ft (91 cm) wide, 4 ft (122 cm) long, and 5 ft (152 cm) high.
+
+*Calendar day,* with respect to the squid and butterfish fisheries, means the 24-hr period beginning at 0001 hours and ending at 2400 hours,
 
 *Chafing gear* or *cookies,* with respect to the scallop fishery, means steel, rubberized or other types of donut rings, disks, washers, twine, or other material attached to or between the steel rings of a sea scallop dredge.
 
@@ -121,6 +121,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Dealer code* means a confidential five-digit number assigned to each dealer required to submit purchases using the IVR system for the purpose of maintaining the integrity of the data reported through the IVR system.
 
 *De-hooker,* with respect to the NE multispecies hook gear fishery, means the fairlead rollers when used in a manner that extracts fish hooks from caught fish, also known as “crucifiers.”
+
+*Directed fishery,* with respect to the longfin squid, *Illex* squid, and butterfish fisheries, means commercial fishery operations in which more than an incidental catch of each species, as defined in this section, is retained by a vessel.
 
 *Dockside/roving monitor,* with respect to the NE multispecies fishery, means any person responsible for observing/verifying the offloads of all species by common pool or sector vessels either directly to a federally permitted dealer or to a truck for later delivery to a federally permitted dealer, and for certifying the accuracy of landed weights, as reported by federally permitted dealers, pursuant to this part.
 
@@ -187,6 +189,8 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 *Hook gear* means fishing gear that is comprised of a hook or hooks attached to a line and includes, but is not limited to, longline, setline, jigs, troll line, rod and reel, and line trawl.
 
 *Illex* means *Illex illecebrosus* (short-finned or summer squid).
+
+*Incidental catch,* with respect to the longfin squid, *Illex* squid, and butterfish fisheries, means less than 250 lb (113 kg) of longfin squid, 10,000 lb (4,536 kg) of *Illex* squid, or 600 lb (272 kg) of butterfish retained on board the vessel.
 
 *Incidental Total Allowable Catch (TAC)*, with respect to the NE multispecies fishery, means the total amount of catch (both kept and discarded) of a regulated groundfish stock of concern that can be taken by vessels fishing under Category B DAS.
 
@@ -617,8 +621,6 @@ Yellowtail flounder - *Pleuronectes ferruginea.*
 *Skate* means members of the Family Rajidae, including: *Leucoraja ocellata* (winter skate); *Dipturis laevis* (barndoor skate); *Amblyraja radiata* (thorny skate); *Malacoraja senta* (smooth skate); *Leucoraja erinacea* (little skate); *Raja eglanteria* (clearnose skate); and *Leucoraja garmani* (rosette skate).
 
 *Skate Management Unit* means an area of the Atlantic Ocean from 35°15.3′ N. lat., the approximate latitude of Cape Hatteras Light, NC, northward to the U.S.-Canada border, extending eastward from the shore to the outer boundary of the EEZ and northward to the U.S.-Canada border in which the United States exercises exclusive jurisdiction over all skates fished for, possessed, caught, or retained in or from such area.
-
-*Slippage in the Atlantic herring fishery* means catch that is discarded prior to it being brought aboard a vessel issued an Atlantic herring permit and/or prior to making it available for sampling and inspection by a NMFS-approved observer. Slippage includes releasing catch from a codend or seine prior to the completion of pumping the catch aboard and the release of catch from a codend or seine while the codend or seine is in the water. Fish that cannot be pumped and remain in the codend or seine at the end of pumping operations are not considered slippage. Discards that occur after the catch is brought on board and sorted are also not considered slippage.
 
 *Slip(s) or slipping catch in the Atlantic herring fishery* means discarded catch from a vessel issued an Atlantic herring permit that is carrying a NMFS-approved observer prior to the catch being brought on board or prior to the catch being made available for sampling and inspection by a NMFS-approved observer after the catch is on board. Slip(s) or slipping catch includes releasing fish from a codend or seine prior to the completion of pumping the fish on board and the release of fish from a codend or seine while the codend or seine is in the water. Slippage or slipped catch refers to fish that are slipped. Slippage or slipped catch does not include operational discards, discards that occur after the catch is brought on board and made available for sampling and inspection by a NMFS-approved observer, or fish that inadvertently fall out of or off fishing gear as gear is being brought on board the vessel.
 

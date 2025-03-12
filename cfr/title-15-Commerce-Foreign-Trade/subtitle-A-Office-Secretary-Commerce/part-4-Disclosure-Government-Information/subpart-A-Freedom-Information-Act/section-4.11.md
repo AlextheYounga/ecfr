@@ -8,7 +8,7 @@
 
 (2) *Direct costs* means those expenses a component incurs in searching for and duplicating (and, in the case of commercial use requests, reviewing) records to respond to a FOIA request. The hourly processing fees for calculating direct costs for Department or component personnel searching for, duplication, and reviewing records are reflected in Table 1. Note that the 16% overhead has already been included in the hourly rates identified in Table 1.
 
-Table 1 - FOIA Hourly Processing Fees
+Table 1—FOIA Hourly Processing Fees
 
 |     Type     |                    Grade                     |Hourly rate|
 |--------------|----------------------------------------------|-----------|
@@ -52,7 +52,7 @@ Example 1.A request from a professor or a student of geology at a university for
 |                                                                                                          (A) Paper copy reproduction                                                                                                          |                                              $.08 per page.                                              |
 |(B) Other reproduction (e.g., converting paper into an electronic format (e.g., scanning), computer disk or printout, or other electronically-formatted reproduction (e.g., uploading records made available to the requester into FOIAonline))|Actual direct cost, including operator time, using the hourly rate from Table 1, of the employee involved.|
 
-(3) *Search.* (i) Search fees shall be charged for all requests - other than requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media - subject to the limitations of paragraph (d) of this section. Components shall charge for time spent searching even if they do not locate any responsive records or if they withhold any records located as entirely exempt from disclosure. Search fees shall be the direct costs of conducting the search by the involved employees.
+(3) *Search.* (i) Search fees shall be charged for all requests—other than requests made by educational institutions, noncommercial scientific institutions, or representatives of the news media—subject to the limitations of paragraph (d) of this section. Components shall charge for time spent searching even if they do not locate any responsive records or if they withhold any records located as entirely exempt from disclosure. Search fees shall be the direct costs of conducting the search by the involved employees.
 
 (ii) For computer searches of records, requesters will be charged the direct costs of conducting the search, although certain requesters (as provided in paragraph (d)(1) of this section) will be charged no search fee and certain other requesters (as provided in paragraph (d)(3) of this section) are entitled to the cost equivalent of two hours of manual search time without charge. These direct costs will include the costs of the operator/programmer FOIA hourly processing rate apportionable to the search and any other tangible direct costs associated with a computer search.
 
