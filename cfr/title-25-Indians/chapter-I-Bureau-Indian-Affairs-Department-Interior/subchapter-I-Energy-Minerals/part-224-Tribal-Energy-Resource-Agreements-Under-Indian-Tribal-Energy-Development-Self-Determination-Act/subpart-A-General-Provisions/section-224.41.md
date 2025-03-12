@@ -1,3 +1,3 @@
-##### § 224.41 When does the Secretary require agreement of more than one tribe to approve a TERA? #####
+##### § 224.41 When does the Secretary require agreement of more than one Tribe to approve a TERA? #####
 
-When tribal land held for the benefit of more than one tribe is contemplated for inclusion in a TERA, each appropriate tribal governing body must request a pre-application consultation meeting, and submit a resolution or formal act of the tribal governing body approving the submission of any application. Each appropriate tribal governing body must also sign the TERA, if it is approved.
+When Tribal land held for the benefit of more than one Tribe is contemplated for inclusion in a TERA, each appropriate Tribal governing body must request a pre-application consultation meeting, and submit a resolution or formal act of the Tribal governing body approving the submission of any application. Each appropriate Tribal governing body must also sign the TERA, if it is approved.

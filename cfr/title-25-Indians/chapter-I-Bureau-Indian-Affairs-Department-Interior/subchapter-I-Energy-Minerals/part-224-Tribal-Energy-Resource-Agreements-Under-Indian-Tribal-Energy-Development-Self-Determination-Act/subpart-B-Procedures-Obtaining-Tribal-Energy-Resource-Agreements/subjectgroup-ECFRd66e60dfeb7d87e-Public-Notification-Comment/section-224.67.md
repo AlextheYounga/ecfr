@@ -1,6 +1,6 @@
-##### § 224.67 What must the Secretary do upon the Director's receipt of a final proposed TERA? #####
+##### § 224.67 What must the Secretary do upon the Secretary's receipt of a final proposed TERA? #####
 
-(a) Within 10 days of the Director's receipt of a final proposed TERA, the Secretary must submit a notice for publication in the Federal Register advising the public:
+(a) Within 10 days of the Secretary's receipt of a final proposed TERA, the Secretary must submit a notice for publication in the Federal Register advising the public:
 
 (1) That the Secretary is considering a final proposed TERA for approval or disapproval: and
 

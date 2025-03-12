@@ -1,3 +1,3 @@
-##### § 224.60 What will the Director provide to the tribe after the application consultation meeting? #####
+##### § 224.60 What will the Secretary provide to the Tribe after the application consultation meeting? #####
 
-Within 30 days following the meeting with the tribe, the Director will provide to the Designated Tribal Official a written report on the application consultation meeting. The report must include the Director's recommendations, if any, for revising the proposed TERA that was submitted as part of the tribe's application.
+Within 30 days following the meeting with the Tribe, the Secretary will provide to the Designated Tribal Official a written report on the application consultation meeting. The report must include the Secretary's recommendations, if any, for revising the proposed TERA that was submitted as part of the Tribe's application.

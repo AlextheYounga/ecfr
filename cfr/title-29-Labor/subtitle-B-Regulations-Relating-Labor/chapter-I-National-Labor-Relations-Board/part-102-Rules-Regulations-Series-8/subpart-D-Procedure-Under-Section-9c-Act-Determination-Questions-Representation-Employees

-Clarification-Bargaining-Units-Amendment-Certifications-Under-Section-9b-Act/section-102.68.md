@@ -1,5 +1,7 @@
 ##### § 102.68 Record in pre-election proceeding; what constitutes; transmission to Board. #####
 
+Link to an amendment published at 84 FR 69597, Dec. 18, 2019.
+
 The record in a proceeding conducted pursuant to the foregoing section shall consist of: the petition, notice of hearing with affidavit of service thereof, statements of position, responses to statements of position, offers of proof made at the pre-election hearing, motions, rulings, orders, the stenographic report of the hearing and of any oral argument before the regional director, stipulations, exhibits, affidavits of service, and any briefs or other legal memoranda submitted by the parties to the regional director or to the Board, and the decision of the regional director, if any. Immediately upon issuance of an order granting a request for review by the Board, the regional director shall transmit the record to the Board.
 
 [79 FR 74486, Dec. 15, 2014]

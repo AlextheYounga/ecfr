@@ -1,3 +1,3 @@
-##### § 224.155 When must a tribe respond to a notice of intent to reassume? #####
+##### § 224.155 When must a Tribe respond to a notice of intent to reassume? #####
 
-The tribe must respond to the Director in writing by mail, facsimile, or overnight express within 5 days of receiving the Secretary's notice of intent to reassume. If sent by mail, the tribe must send the response by certified mail, with return receipt requested. The Director will consider the date of the written response as the date it is postmarked.
+The Tribe must respond to the Secretary in writing by mail, facsimile, or overnight express within 5 days of receiving the Secretary's notice of intent to reassume. If sent by mail, the Tribe must send the response by certified mail, with return receipt requested. The Secretary will consider the date of the written response as the date it is postmarked.

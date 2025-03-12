@@ -1,14 +1,12 @@
 ##### § 73.70 Records. #####
 
-Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
-
 Each record required by this part must be legible throughout the retention period specified by each Commission regulation. The record may be the original or a reproduced copy or a microform provided that the copy or microform is authenticated by authorized personnel and that the microform is capable of producing a clear copy throughout the required retention period. The record may also be stored in electronic media with the capability for producing legible, accurate, and complete records during the required retention period. Records such as letters, drawings, specifications, must include all pertinent information such as stamps, initials, and signatures. The licensee shall maintain adequate safeguards against tampering with and loss of records. Each licensee subject to the provisions of §§ 73.20, 73.25, 73.26, 73.27, 73.45, 73.46, 73.55, or 73.60 shall keep the following records:
 
 (a) Names and addresses of all individuals who have been designated as authorized individuals. The licensee shall retain this record of currently designated authorized individuals for the period during which the licensee possesses the appropriate type and quantity of special nuclear material requiring this record under each license that authorizes the activity that is subject to the recordkeeping requirement and, for three years thereafter. Copies of superseded material must be retained for three years after each change.
 
 (b) Names, addresses, and badge numbers of all individuals authorized to have access to vital equipment or special nuclear material, and the vital areas and material access areas to which authorization is granted. The licensee shall retain the record of individuals currently authorized this access for the period during which the licensee possesses the appropriate type and quantity of special nuclear material requiring this record under each license that authorizes the activity that is subject to the recordkeeping requirement and, for three years thereafter. Copies of superseded material must be retained for three years after each change.
 
-(c) A register of visitors, vendors, and other individuals not employed by the licensee pursuant to §§ 73.46(d)(13), 73.55(d)(6), or 73.60. The licensee shall retain this register as a record, available for inspection, for 3 years after the last entry is made in the register.
+(c) A register of visitors, vendors, and other individuals not employed by the licensee pursuant to §§ 73.46(d)(13), 73.55(g)(7), or 73.60. The licensee shall retain this register as a record, available for inspection, for 3 years after the last entry is made in the register.
 
 (d) A log indicating name, badge number, time of entry, and time of exit of all individuals granted access to a vital area except those individuals entering or exiting the reactor control room. The licensee shall retain this log as a record for three years after the last entry is made in the log.
 
@@ -20,4 +18,4 @@ Each record required by this part must be legible throughout the retention perio
 
 (h) Procedures for controlling access to protected areas and for controlling access to keys for locks used to protect special nuclear material. The licensee shall retain a copy of the current procedures as a record until the Commission terminates each license for which the procedures were developed and, if any portion of the procedure is superseded, retain the superseded material for three years after each change.
 
-[53 FR 19261, May 27, 1988, as amended at 57 FR 33431, July 29, 1992; 83 FR 30288, June 28, 2018]
+[53 FR 19261, May 27, 1988, as amended at 57 FR 33431, July 29, 1992; 83 FR 30288, June 28, 2018; 84 FR 63568, Nov. 18, 2019]

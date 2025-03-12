@@ -1,6 +1,6 @@
 ##### § 1.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61792, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61792, Nov. 13, 2019.Link to an amendment published at 84 FR 69297, Dec. 18, 2019.
 
 (a) *Capital and surplus* means:
 

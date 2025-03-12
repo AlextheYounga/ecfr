@@ -1,0 +1,3 @@
+##### § 224.200 What is the purpose of this subpart? #####
+
+The purpose of this part is to establish a process by which an entity may be certified as an Tribal energy development organization (TEDO) that may enter into a lease or business agreement with an Indian Tribe without Secretarial review under 25 U.S.C. 3504(a)(2) or right-of-way with an Indian Tribe without Secretarial review under 25 U.S.C. 3504(b)(2)(B) and without a TERA.

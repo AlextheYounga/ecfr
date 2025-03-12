@@ -1,14 +1,12 @@
 ##### § 37.23 Access authorization program requirements. #####
 
-Link to an amendment published at 84 FR 63567, Nov. 18, 2019.
-
 (a) *Granting unescorted access authorization.* (1) Licensees shall implement the requirements of this subpart for granting initial or reinstated unescorted access authorization.
 
 (2) Individuals who have been determined to be trustworthy and reliable shall also complete the security training required by § 37.43(c) before being allowed unescorted access to category 1 or category 2 quantities of radioactive material.
 
 (b) *Reviewing officials.* (1) Reviewing officials are the only individuals who may make trustworthiness and reliability determinations that allow individuals to have unescorted access to category 1 or category 2 quantities of radioactive materials possessed by the licensee.
 
-(2) Each licensee shall name one or more individuals to be reviewing officials. After completing the background investigation on the reviewing official, the licensee shall provide under oath or affirmation, a certification that the reviewing official is deemed trustworthy and reliable by the licensee. Provide oath or affirmation certifications to the ATTN: Document Control Desk; Director, Office of Nuclear Material Safety and Safeguards. The fingerprints of the named reviewing official must be taken by a law enforcement agency, Federal or State agencies that provide fingerprinting services to the public, or commercial fingerprinting services authorized by a State to take fingerprints. The licensee shall recertify that the reviewing official is deemed trustworthy and reliable every 10 years in accordance with § 37.25(c).
+(2) Each licensee shall name one or more individuals to be reviewing officials. After completing the background investigation on the reviewing official, the licensee shall provide under oath or affirmation, a certification that the reviewing official is deemed trustworthy and reliable by the licensee. Provide oath or affirmation certifications to the Director, Office of Nuclear Material Safety and Safeguards, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, ATTN: Source Management and Protection Branch. The fingerprints of the named reviewing official must be taken by a law enforcement agency, Federal or State agencies that provide fingerprinting services to the public, or commercial fingerprinting services authorized by a State to take fingerprints. The licensee shall recertify that the reviewing official is deemed trustworthy and reliable every 10 years in accordance with § 37.25(c).
 
 (3) Reviewing officials must be permitted to have unescorted access to category 1 or category 2 quantities of radioactive materials or access to safeguards information or safeguards information-modified handling, if the licensee possesses safeguards information or safeguards information-modified handling.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 84 FR 63567, Nov. 18, 2019.
 
 (3) The licensee shall retain the list of persons approved for unescorted access authorization for 3 years after the list is superseded or replaced.
 
-[78 FR 17007, Mar. 19, 2013, as amended at 80 FR 45843, Aug. 3, 2015; 83 FR 30287, June 28, 2018]
+[78 FR 17007, Mar. 19, 2013, as amended at 80 FR 45843, Aug. 3, 2015; 83 FR 30287, June 28, 2018; 84 FR 63567, Nov. 18, 2019]

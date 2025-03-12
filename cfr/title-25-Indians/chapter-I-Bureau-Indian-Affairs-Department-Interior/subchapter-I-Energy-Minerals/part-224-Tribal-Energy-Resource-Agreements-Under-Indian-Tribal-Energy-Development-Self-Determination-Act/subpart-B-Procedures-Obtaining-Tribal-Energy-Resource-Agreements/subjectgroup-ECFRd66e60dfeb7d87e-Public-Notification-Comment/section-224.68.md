@@ -4,6 +4,8 @@
 
 (b) The Secretary will provide copies of the comments to the Designated Tribal Official;
 
-(c) Upon mutual agreement between the tribe and the Secretary, the tribe may make changes in the final proposed TERA based on the comments received; and
+(c) Upon mutual agreement between the Tribe and the Secretary, the Tribe may make changes in the final proposed TERA based on the comments received; and
 
-(d) If the tribe revises the final proposed TERA based on public comments, the tribal governing body must approve the changes, the authorized representative of the tribe must sign the final proposed TERA as revised, and the tribe must send the revised final proposed TERA to the Director. The Secretary and the tribe will consult on whether an extension of the review period is necessary under § 224.62(b).
+(d) If the Tribe revises the final proposed TERA based on public comments, the Tribal governing body must approve the changes, the authorized representative of the Tribe must sign the final proposed TERA as revised, and the Tribe must send the revised final proposed TERA to the Secretary.
+
+[73 FR 12821, Mar. 10, 2008, as amended at 84 FR 69612, Dec. 18, 2019]

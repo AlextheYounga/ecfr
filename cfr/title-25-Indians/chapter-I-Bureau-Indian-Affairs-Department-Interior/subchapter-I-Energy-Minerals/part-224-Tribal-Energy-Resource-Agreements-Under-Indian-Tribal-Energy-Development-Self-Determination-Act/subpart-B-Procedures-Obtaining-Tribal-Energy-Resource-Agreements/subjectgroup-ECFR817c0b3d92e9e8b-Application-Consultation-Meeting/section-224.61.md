@@ -1,3 +1,3 @@
-##### § 224.61 What will the tribe provide to the Director after receipt of the Director's report on the application consultation meeting? #####
+##### § 224.61 What will the Tribe provide to the Secretary after receipt of the Secretary's report on the application consultation meeting? #####
 
-If the tribe wishes to proceed with the application, the tribe must submit a final proposed TERA to the Director within 45 days following the date of the Tribe's receipt of the Director's report on the application consultation meeting.
+If the Tribe wishes to proceed with the application, the Tribe must submit a final proposed TERA to the Secretary within 45 days following the date of the Tribe's receipt of the Secretary's report on the application consultation meeting.

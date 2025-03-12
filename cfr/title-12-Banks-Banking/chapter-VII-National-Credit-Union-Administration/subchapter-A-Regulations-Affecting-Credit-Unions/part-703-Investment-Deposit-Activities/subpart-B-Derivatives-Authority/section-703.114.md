@@ -14,6 +14,4 @@
 
 (d) With respect to an appeal regarding revocation of a Federal credit union's derivatives authority, the Federal credit union may not enter into any new derivatives transactions until the NCUA Board renders a final decision on the appeal. The Federal credit union may, however, elect to terminate existing derivatives positions. With respect to an appeal regarding an order to terminate a Federal credit union's existing derivatives positions, the Federal credit union is not required to terminate any existing positions until the NCUA Board renders a final decision on the appeal.
 
-(3) Through the originator's initial written communication with a consumer, if any, whether on paper or electronically.
-
 [79 FR 5241, Jan. 31, 2014, as amended at 82 FR 50293, Oct. 30, 2017]

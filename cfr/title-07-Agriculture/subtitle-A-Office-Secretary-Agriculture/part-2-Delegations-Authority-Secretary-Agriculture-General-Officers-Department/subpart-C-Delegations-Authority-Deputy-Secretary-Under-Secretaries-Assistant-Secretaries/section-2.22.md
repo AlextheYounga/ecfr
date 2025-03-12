@@ -72,10 +72,6 @@
 
 (X) Beef Research and Information Act, as amended (7 U.S.C. 2901-2918), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in §§ 2.26(a)(1)(xiv) and (a)(3)(x);
 
-(xiv) Administer the U.S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Agricultural Marketing Services programs.
-
-(xv) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
-
 (Y) Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (Z) Egg Products Inspection Act relating to the Shell Egg Surveillance Program, voluntary laboratory analyses of egg products, and the Voluntary Egg Grading Program (21 U.S.C. 1031-1056);

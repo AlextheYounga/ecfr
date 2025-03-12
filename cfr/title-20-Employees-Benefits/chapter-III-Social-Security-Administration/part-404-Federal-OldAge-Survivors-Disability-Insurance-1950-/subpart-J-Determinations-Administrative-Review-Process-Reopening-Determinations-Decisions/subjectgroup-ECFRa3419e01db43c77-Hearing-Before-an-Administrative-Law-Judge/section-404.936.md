@@ -1,5 +1,7 @@
 ##### § 404.936 Time and place for a hearing before an administrative law judge. #####
 
+Link to an amendment published at 84 FR 69305, Dec. 18, 2019.
+
 (a) *General.* We may set the time and place for any hearing. We may change the time and place, if it is necessary. After sending you reasonable notice of the proposed action, the administrative law judge may adjourn or postpone the hearing or reopen it to receive additional evidence any time before he or she notifies you of a hearing decision.
 
 (b) *Where we hold hearings.* We hold hearings in the 50 States, the District of Columbia, American Samoa, Guam, the Northern Mariana Islands, the Commonwealth of Puerto Rico, and the United States Virgin Islands. The “place” of the hearing is the hearing office or other site(s) at which you and any other parties to the hearing are located when you make your appearance(s) before the administrative law judge, whether in person, by video teleconferencing, or by telephone.

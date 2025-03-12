@@ -1,6 +1,6 @@
 ##### § 1.355-0 Outline of sections. #####
 
-In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section lists the major paragraphs in those sections as follows:
+In order to facilitate the use of §§ 1.355-1 through 1.355-8, this section lists the major paragraphs in those sections as follows:
 
 § 1.355-1 Distribution of stock and securities of a controlled corporation.
 
@@ -268,7 +268,7 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (C) Certain stock conversion features.
 
-(D) Options exercisable only upon death, disability, mental imcompetency, or separation from service.
+(D) Options exercisable only upon death, disability, mental incompetency, or separation from service.
 
 (E) Rights of first refusal.
 
@@ -592,23 +592,39 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (k) Effective dates.
 
-§ 1.355-8T Definition of predecessor and successor and limitations on gain recognition under section 355(e) and section 355(f).
+§ 1.355-8 Definition of predecessor and successor and limitations on gain recognition under section 355(e) and section 355(f).
 
 (a) In general.
 
 (1) Scope.
 
-(2) Purpose.
+(2) Overview.
 
-(3) Overview.
+(i) Purposes and conceptual overview.
+
+(ii) References to and definitions of terms used in this section.
+
+(iii) Special rules and examples.
+
+(3) Purposes of section; Predecessor of Distributing overview.
+
+(i) Purposes.
+
+(ii) Predecessor of Distributing overview.
+
+(A) Relevant Property transferred to Controlled.
+
+(B) Relevant Property includes Controlled Stock.
 
 (4) References.
 
 (i) References to Distributing or Controlled.
 
-(ii) References to Plan or distribution.
+(ii) References to Plan or Distribution.
 
 (iii) Plan Period.
+
+(5) List of definitions.
 
 (b) Predecessor of Distributing.
 
@@ -616,13 +632,13 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (i) In general.
 
-(ii) Pre-distribution requirements.
+(ii) Pre-Distribution requirements.
 
-(A) Relevant Property.
+(A) Relevant Property requirement.
 
-(B) Reflection of basis.
+(B) Reflection of basis requirement.
 
-(iii) Post-distribution requirement.
+(iii) Post-Distribution requirement.
 
 (2) Additional definitions and rules related to paragraph (b)(1) of this section.
 
@@ -630,15 +646,19 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (ii) Potential Predecessor.
 
+(A) Potential Predecessor definition.
+
+(B) Expanded Affiliated Group definition.
+
 (iii) Successors of Potential Predecessors.
 
-(iv) Relevant Property; Relevant Stock.
+(iv) Relevant Property; Relevant Equity.
 
 (A) In general.
 
 (B) Property held by Distributing.
 
-(C) Certain reorganizations.
+(C) F reorganizations.
 
 (v) Stock of Distributing as Relevant Property.
 
@@ -648,11 +668,21 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (vi) Substitute Asset.
 
+(A) In general.
+
+(B) Controlled stock received by Distributing.
+
+(*1*) In general.
+
+(*2*) Exception.
+
+(C) Treatment as Relevant Property.
+
 (vii) Separated Property.
 
 (viii) Underlying Property.
 
-(ix) Scope of definition of Predecessor of Distributing.
+(ix) Multiple Predecessors of Distributing.
 
 (x) Deemed exchanges.
 
@@ -666,21 +696,31 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (ii) Determination of Successor status.
 
-(3) Section 381 transaction.
+(3) Section 381 Transaction.
 
 (d) Special acquisition rules.
 
-(1) Deemed acquisitions of stock in section 381 transactions.
+(1) Deemed acquisitions of stock in Section 381 Transactions.
 
-(2) Deemed acquisitions of stock after section 381 transactions.
+(i) Rule.
+
+(ii) Example.
+
+(2) Deemed acquisitions of stock after Section 381 Transactions.
 
 (3) Separate counting for Distributing and each Predecessor of Distributing.
 
-(e) Special rules for gain recognition.
+(e) Special rules for limiting gain recognition.
 
-(1) In general.
+(1) Overview.
 
-(2) Planned 50-percent or greater acquisitions of a Predecessor of Distributing.
+(i) Gain limitation.
+
+(ii) Multiple Planned 50-percent Acquisitions.
+
+(iii) Statutory Recognition Amount limit; Section 336(e).
+
+(2) Planned 50-percent Acquisition of a Predecessor of Distributing.
 
 (i) In general.
 
@@ -692,15 +732,15 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (C) Anti-duplication rule.
 
-(3) Planned 50-percent Acquisition of Distributing in a section 381 transaction.
+(3) Planned 50-percent Acquisition of Distributing.
 
-(4) Overall gain recognition.
+(4) Gain recognition limited to Statutory Recognition Amount.
 
 (5) Section 336(e) election.
 
 (f) Predecessor or Successor as a member of the affiliated group.
 
-(g) Inapplicability of section 355(f) to certain intra-group distributions.
+(g) Inapplicability of section 355(f) to certain intra-group Distributions.
 
 (1) In general.
 
@@ -708,16 +748,6 @@ In order to facilitate the use of §§ 1.355-1 through 1.355-8T, this section li
 
 (h) Examples.
 
-(i) Effective/applicability date.
+(i) Applicability date.
 
-(1) In general.
-
-(2) Transition rule.
-
-(i) In general.
-
-(ii) Definition of distribution.
-
-(3) Exception.
-
-[T.D. 8238, 54 FR 289, Jan. 5, 1989, as amended by T.D. 8913, 65 FR 79722, Dec. 20, 2000; T.D. 8960, 66 FR 40591, Aug. 3, 2001; T.D. 8988, 67 FR 20636, Apr. 26, 2002; 67 FR 38200, June 3, 2002; T.D. 9198, 70 FR 20283, Apr. 19, 2005; T.D. 9264, 71 FR 30597, May 30, 2006; T.D. 9329, 72 FR 32799, June 14, 2007; T.D. 9435, 73 FR 75950, Dec. 15, 2008; T.D. 9548, 76 FR 65111, Oct. 20, 2011; T.D. 9805, 81 FR 91747, Dec. 19, 2016]
+[T.D. 8238, 54 FR 289, Jan. 5, 1989, as amended by T.D. 8913, 65 FR 79722, Dec. 20, 2000; T.D. 8960, 66 FR 40591, Aug. 3, 2001; T.D. 8988, 67 FR 20636, Apr. 26, 2002; 67 FR 38200, June 3, 2002; T.D. 9198, 70 FR 20283, Apr. 19, 2005; T.D. 9264, 71 FR 30597, May 30, 2006; T.D. 9329, 72 FR 32799, June 14, 2007; T.D. 9435, 73 FR 75950, Dec. 15, 2008; T.D. 9548, 76 FR 65111, Oct. 20, 2011; T.D. 9805, 81 FR 91747, Dec. 19, 2016; T.D. 9888, 84 FR 69316, Dec. 18, 2019]

@@ -1,6 +1,6 @@
 ##### § 5.58 Pass-through investments by a Federal savings association. #####
 
-Link to an amendment published at 84 FR 61794, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61794, Nov. 13, 2019.Link to an amendment published at 84 FR 69297, Dec. 18, 2019.
 
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1828, 5412(b)(2)(B).
 

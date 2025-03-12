@@ -1,7 +1,5 @@
 ##### § 110.42 Export licensing criteria. #####
 
-Link to an amendment published at 84 FR 63569, Nov. 18, 2019.
-
 (a) The review of license applications for export for peaceful nuclear uses of production or utilization facilities1 or for export for peaceful nuclear uses of special nuclear or source material requiring a specific license under this part is governed by the following criteria:
 
 1 Export of nuclear reactors, reactor pressure vessels, reactor primary coolant pumps and circulators, “on-line” reactor fuel charging and discharging machines, and complete reactor control rod systems, as specified in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(a). Exports of nuclear reactor components, as specified in paragraphs (5) through (11) of appendix A to this part, when exported separately from the items described in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(b).
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 63569, Nov. 18, 2019.
 
 (e) In making its findings under paragraphs (a)(8) and (c) of this section for proposed exports of radioactive material listed in Appendix P to this part, the NRC shall consider:
 
-(1) Whether the foreign recipient is authorized based on the authorization or confirmation required by § 110.32(h) to receive and possess the material under the laws and regulations of the importing country;
+(1) Whether the foreign recipient is authorized based on the authorization or confirmation required by § 110.32(g) to receive and possess the material under the laws and regulations of the importing country;
 
 (2) Whether the importing country has the appropriate technical and administrative capability, resources and regulatory structure to manage the material in a safe and secure manner;
 
@@ -84,4 +82,4 @@ Link to an amendment published at 84 FR 63569, Nov. 18, 2019.
 
 (9) Based upon available information, whether there is a risk of diversion or malicious acts involving radioactive material in Table 1 of Appendix P to this part.
 
-[49 FR 47200, Dec. 3, 1984, as amended at 55 FR 34519, Aug. 23, 1990; 58 FR 13004, Mar. 9, 1993; 58 FR 57964, Oct. 28, 1993; 60 FR 37564, July 21, 1995; 70 FR 37992, July 1, 2005; 70 FR 41939, July 21, 2005; 70 FR 46066, Aug. 9, 2005; 71 FR 20339, Apr. 20, 2006; 71 FR 40003, July 14, 2006; 79 FR 39291, July 10, 2014]
+[49 FR 47200, Dec. 3, 1984, as amended at 55 FR 34519, Aug. 23, 1990; 58 FR 13004, Mar. 9, 1993; 58 FR 57964, Oct. 28, 1993; 60 FR 37564, July 21, 1995; 70 FR 37992, July 1, 2005; 70 FR 41939, July 21, 2005; 70 FR 46066, Aug. 9, 2005; 71 FR 20339, Apr. 20, 2006; 71 FR 40003, July 14, 2006; 79 FR 39291, July 10, 2014; 84 FR 63569, Nov. 18, 2019]

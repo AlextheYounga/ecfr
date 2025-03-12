@@ -1,5 +1,7 @@
 ##### § 102.1 Terms defined in Section 2 of the Act. #####
 
+Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
+
 (a) *Definition of terms.* The terms *person, employer, employee, representative, labor organization, commerce, affecting commerce,* and *unfair labor practice* as used herein have the meanings set forth in Section 2 of the National Labor Relations Act, as amended by title I of the Labor Management Relations Act, 1947.
 
 (b) *Act, Board, and Board agent.* The term *Act* means the National Labor Relations Act, as amended. The term *Board* means the National Labor Relations Board and must include any group of three or more Members designated pursuant to Section 3(b) of the Act. The term *Board agent* means any Member, agent, or agency of the Board, including its General Counsel.

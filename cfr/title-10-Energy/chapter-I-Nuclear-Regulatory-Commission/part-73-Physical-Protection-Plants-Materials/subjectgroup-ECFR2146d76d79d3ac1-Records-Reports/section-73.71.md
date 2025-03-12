@@ -1,12 +1,10 @@
 ##### § 73.71 Reporting of safeguards events. #####
 
-Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
-
 (a)(1) Each licensee subject to the provisions of §§ 73.25, 73.26, 73.27(c), 73.37, 73.67(e), or 73.67(g) shall notify the NRC Operations Center3 within one hour after discovery of the loss of any shipment of SNM or spent fuel, and within one hour after recovery of or accounting for such lost shipment.
 
 3 Commercial telephone number of the NRC Operation Center is (301) 816-5100.
 
-(2) This notification must be made to the NRC Operations Center via the Emergency Notification System, if the licensee is party to that system. If the Emergency Notification System is inoperative or unavailable, the licensee shall make the required notification via commercial telephonic service or other dedicated telephonic system or any other methods that will ensure that a report is received by the NRC Operations Center within one hour. The exemption of § 73.21(g)(3) applies to all telephonic reports required by this section.
+(2) This notification must be made to the NRC Operations Center via the Emergency Notification System, if the licensee is party to that system. If the Emergency Notification System is inoperative or unavailable, the licensee shall make the required notification via commercial telephonic service or other dedicated telephonic system or any other methods that will ensure that a report is received by the NRC Operations Center within one hour. The exemption of § 73.22(f)(3) applies to all telephonic reports required by this section.
 
 (3) The licensee shall, upon request to the NRC, maintain an open and continuous communication channel with the NRC Operations Center.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
 
 (e) Duplicate reports are not required for events that are also reportable in accordance with §§ 50.72 and 50.73 of this chapter.
 
-[52 FR 21658, June 9, 1987; 52 FR 23257, June 18, 1987, as amended at 59 FR 14087, Mar. 25, 1994; 60 FR 13617, Mar. 14, 1995; 63 FR 26963, May 15, 1998; 67 FR 3586, Jan. 25, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 33617, June 5, 2003; 74 FR 62684, Dec. 1, 2009; 78 FR 29557, May 20, 2013; 83 FR 58723, Nov. 21, 2018]
+[52 FR 21658, June 9, 1987; 52 FR 23257, June 18, 1987, as amended at 59 FR 14087, Mar. 25, 1994; 60 FR 13617, Mar. 14, 1995; 63 FR 26963, May 15, 1998; 67 FR 3586, Jan. 25, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 33617, June 5, 2003; 74 FR 62684, Dec. 1, 2009; 78 FR 29557, May 20, 2013; 83 FR 58723, Nov. 21, 2018; 84 FR 63568, Nov. 18, 2019]

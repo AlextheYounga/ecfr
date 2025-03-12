@@ -1,5 +1,7 @@
 ##### § 102.71 Dismissal of petition; refusal to proceed with petition; requests for review by the Board of action of the regional director. #####
 
+Link to an amendment published at 84 FR 69599, Dec. 18, 2019.
+
 (a) If, after a petition has been filed and at any time prior to the close of hearing, it shall appear to the regional director that no further proceedings are warranted, the regional director may dismiss the petition by administrative action and shall so advise the petitioner in writing, setting forth a simple statement of the procedural or other grounds for the dismissal, with copies to the other parties to the proceeding. Any party may obtain a review of such action by filing a request therefor with the Board in Washington, DC, in accordance with the provisions of paragraph (c) of this section. A request for review from an action of a regional director pursuant to this subsection may be granted only upon one or more of the following grounds:
 
 (1) That a substantial question of law or policy is raised because of (i) the absence of, or (ii) a departure from, officially reported Board precedent.

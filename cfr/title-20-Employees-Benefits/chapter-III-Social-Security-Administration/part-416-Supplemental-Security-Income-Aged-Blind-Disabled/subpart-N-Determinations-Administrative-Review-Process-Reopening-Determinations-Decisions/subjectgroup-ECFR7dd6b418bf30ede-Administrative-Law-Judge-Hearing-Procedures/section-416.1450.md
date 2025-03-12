@@ -1,5 +1,7 @@
 ##### § 416.1450 Presenting evidence at a hearing before an administrative law judge. #####
 
+Link to an amendment published at 84 FR 69308, Dec. 18, 2019.
+
 (a) *The right to appear and present evidence.* Any party to a hearing has a right to appear before the administrative law judge, either in person, or, when the conditions in § 416.1436(c)(1) exist, by video teleconferencing or telephone, to present evidence and to state his or her position. A party may also make his or her appearance by means of a designated representative, who may make the appearance in person, or, when the conditions in § 416.1436(c)(1) exist, by video teleconferencing or telephone.
 
 (b) *Waiver of the right to appear.* You may send the administrative law judge a waiver or a written statement indicating that you do not wish to appear at the hearing. You may withdraw this waiver any time before a notice of the hearing decision is mailed to you. Even if all of the parties waive their right to appear at a hearing, we may notify them of a time and a place for an oral hearing, if the administrative law judge believes that a personal appearance and testimony by you or any other party is necessary to decide the case.

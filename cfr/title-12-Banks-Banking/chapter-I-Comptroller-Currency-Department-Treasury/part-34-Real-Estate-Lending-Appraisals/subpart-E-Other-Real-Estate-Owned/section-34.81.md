@@ -1,6 +1,6 @@
 ##### § 34.81 Definitions. #####
 
-Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.Link to an amendment published at 84 FR 61795, Nov. 13, 2019.
+Link to an amendment published at 84 FR 56374, Oct. 22, 2019.The effective date of this amendment was corrected to read January 1, 2020, at 84 FR 64193, Nov. 21, 2019.Link to an amendment published at 84 FR 61795, Nov. 13, 2019.Link to an amendment published at 84 FR 69298, Dec. 18, 2019.
 
 (a) *Capital and surplus* means:
 

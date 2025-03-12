@@ -1,5 +1,7 @@
 ##### § 102.61 Contents of petition for certification; contents of petition for decertification; contents of petition for clarification of bargaining unit; contents of petition for amendment of certification. #####
 
+Link to an amendment published at 84 FR 69588, Dec. 18, 2019.
+
 (a) *RC Petitions.* A petition for certification, when filed by an employee or group of employees or an individual or labor organization acting in their behalf, shall contain the following:
 
 (1) The name of the employer.

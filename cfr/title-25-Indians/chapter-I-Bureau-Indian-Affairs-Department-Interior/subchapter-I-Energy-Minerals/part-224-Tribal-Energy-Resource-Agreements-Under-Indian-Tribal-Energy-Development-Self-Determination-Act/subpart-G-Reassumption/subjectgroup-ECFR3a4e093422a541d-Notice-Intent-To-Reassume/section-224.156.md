@@ -1,9 +1,9 @@
-##### § 224.156 What information must the tribe's response to the notice of intent to reassume include? #####
+##### § 224.156 What information must the Tribe's response to the notice of intent to reassume include? #####
 
-The tribe's response to the notice of intent to reassume must state that:
+The Tribe's response to the notice of intent to reassume must state that:
 
-(a) The tribe has complied with the Secretary's requirements in the notice of intent to reassume;
+(a) The Tribe has complied with the Secretary's requirements in the notice of intent to reassume;
 
-(b) The tribe is taking specified measures to comply with the Secretary's requirements, and when the tribe will complete such measures, if the tribe needs more than 5 days to do so; or
+(b) The Tribe is taking specified measures to comply with the Secretary's requirements, and when the Tribe will complete such measures, if the Tribe needs more than 5 days to do so; or
 
-(c) The tribe will not comply with the Secretary's requirements.
+(c) The Tribe will not comply with the Secretary's requirements.

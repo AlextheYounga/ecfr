@@ -1,7 +1,5 @@
 ##### § 21.3 Definitions. #####
 
-Link to an amendment published at 84 FR 63567, Nov. 18, 2019.
-
 As used in this part:
 
 *Basic component.* (1)(i) When applied to nuclear power plants licensed under 10 CFR part 50 or part 52 of this chapter, basic component means a structure, system, or component, or part thereof that affects its safety function necessary to assure:
@@ -14,7 +12,7 @@ As used in this part:
 
 (ii) Basic components are items designed and manufactured under a quality assurance program complying with appendix B to part 50 of this chapter, or commercial grade items which have successfully completed the dedication process.
 
-(2) When applied to standard design certifications under subpart C of part 52 of this chapter and standard design approvals under part 52 of this chapter, basic component means the design or procurement information approved or to be approved within the scope of the design certification or approval for a structure, system, or component, or part thereof, that affects its safety function necessary to assure:
+(2) When applied to standard design certifications under subpart B of part 52 of this chapter and standard design approvals under part 52 of this chapter, basic component means the design or procurement information approved or to be approved within the scope of the design certification or approval for a structure, system, or component, or part thereof, that affects its safety function necessary to assure:
 
 (i) The integrity of the reactor coolant pressure boundary;
 
@@ -80,4 +78,4 @@ As used in this part:
 
 *Supplying* or *supplies* means contractually responsible for a basic component used or to be used in a facility or activity which is subject to the regulations in this part.
 
-[42 FR 28893, June 6, 1977; 42 FR 36803, July 18, 1977, as amended at 43 FR 48622, Oct. 19, 1978; 46 FR 58283, Dec. 1, 1981; 47 FR 57480, Dec. 27, 1982; 56 FR 36089, July 31, 1991; 59 FR 5519, Feb. 7, 1994; 60 FR 48373, Sept. 19, 1995; 61 FR 65171, Dec. 11, 1996; 64 FR 72000, Dec. 23, 1999; 66 FR 55790, Nov. 2, 2001; 72 FR 49486, Aug. 28, 2007]
+[42 FR 28893, June 6, 1977; 42 FR 36803, July 18, 1977, as amended at 43 FR 48622, Oct. 19, 1978; 46 FR 58283, Dec. 1, 1981; 47 FR 57480, Dec. 27, 1982; 56 FR 36089, July 31, 1991; 59 FR 5519, Feb. 7, 1994; 60 FR 48373, Sept. 19, 1995; 61 FR 65171, Dec. 11, 1996; 64 FR 72000, Dec. 23, 1999; 66 FR 55790, Nov. 2, 2001; 72 FR 49486, Aug. 28, 2007; 84 FR 63567, Nov. 18, 2019]

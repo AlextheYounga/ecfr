@@ -20,7 +20,7 @@
 
 (d) Where a petition is not based on allegations that a cable operator's leased access rates are unreasonable, the petition must be filed within 60 days of the alleged violation. Where a petition is based on allegations that the cable operator's leased access rates are unreasonable, the petition must be filed within 60 days of the final accountant's report, or within 60 days of the termination of ADR proceedings. Aggrieved parties must certify that their petition was filed within 60 days of the termination of ADR proceedings in order to file a petition later than 60 days after completion of the final accountant's report. Cable operators may rebut such certifications.
 
-(e) The cable operator or other respondent will have 30 days from the filing of the petition to file a response. If a leased access rate is disputed, the response must show that the rate charged is not higher than the maximum permitted rate for such leased access, and must be supported by the affidavit of a responsible company official. If, after a response is submitted, the staff finds a prima facie violation of our rules, the staff may require a respondent to produce additional information, or specify other procedures necessary for resolution of the proceeding.
+(e) The cable operator or other respondent will have 30 days from service of the petition to file an answer. If a leased access rate is disputed, the answer must show that the rate charged is not higher than the maximum permitted rate for such leased access, and must be supported by the affidavit of a responsible company official. If, after an answer is submitted, the staff finds a prima facie violation of our rules, the staff may require a respondent to produce additional information, or specify other procedures necessary for resolution of the proceeding. Replies to answers must be filed within fifteen (15) days after submission of the answer.
 
 (f) The Commission, after consideration of the pleadings, may grant the relief requested, in whole or in part, including, but not limited to ordering refunds, injunctive measures, or forfeitures pursuant 47 U.S.C. 503, denying the petition, or issuing a ruling on the petition or dispute.
 
@@ -30,8 +30,4 @@
 
 (i) Section 76.7 applies to petitions for relief filed under this section, except as otherwise provided in this section.
 
-[78 FR 20257, Apr. 4, 2013, as amended at 84 FR 28769, June 20, 2019]Effective Date Note:At 84 FR 28769, June 20, 2019, § 76.975 was amended by revising paragraph (e) and adding paragraph (i), effective July 22, 2019, except for paragraph (e) which was delayed. For the convenience of the user, the revised text is set forth as follows:
-
-##### § 76.975 Commercial leased access dispute resolution. #####
-
-(e) The cable operator or other respondent will have 30 days from service of the petition to file an answer. If a leased access rate is disputed, the answer must show that the rate charged is not higher than the maximum permitted rate for such leased access, and must be supported by the affidavit of a responsible company official. If, after an answer is submitted, the staff finds a prima facie violation of our rules, the staff may require a respondent to produce additional information, or specify other procedures necessary for resolution of the proceeding. Replies to answers must be filed within fifteen (15) days after submission of the answer.
+[78 FR 20257, Apr. 4, 2013, as amended at 84 FR 28769, June 20, 2019]

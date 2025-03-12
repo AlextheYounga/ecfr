@@ -1,7 +1,5 @@
 ##### § 52.79 Contents of applications; technical information in final safety analysis report. #####
 
-Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
-
 (a) The application must contain a final safety analysis report that describes the facility, presents the design bases and the limits on its operation, and presents a safety analysis of the structures, systems, and components of the facility as a whole. The final safety analysis report shall include the following information, at a level of information sufficient to enable the Commission to reach a final conclusion on all safety matters that must be resolved by the Commission before issuance of a combined license:
 
 (1)(i) The boundaries of the site;
@@ -172,7 +170,7 @@ Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
 
 (1) The final safety analysis report need not contain information or analyses submitted to the Commission in connection with the design approval, *provided, however,* that the final safety analysis report must either include or incorporate by reference the standard design approval final safety analysis report and must contain, in addition to the information and analyses otherwise required, information sufficient to demonstrate that the characteristics of the site fall within the site parameters specified in the design approval. In addition, the plant-specific PRA information must use the PRA information for the design approval and must be updated to account for site-specific design information and any design changes or departures.
 
-(2) The final safety analysis report must demonstrate that all terms and conditions that have been included in the final design approval will be satisfied by the date of issuance of the combined license.
+(2) The final safety analysis report must demonstrate that all terms and conditions that have been included in the design approval will be satisfied by the date of issuance of the combined license.
 
 (d) If the combined license application references a standard design certification, then the following requirements apply:
 
@@ -192,4 +190,4 @@ Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
 
 (f) Each applicant for a combined license under this subpart shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in §§ 73.21 and 73.22 of this chapter, as applicable.
 
-[72 FR 49517, Aug. 28, 2007, as amended at 73 FR 63571, Oct. 24, 2008; 74 FR 13970, Mar. 27, 2009; 74 FR 28147, June 12, 2009; 76 FR 72600, Nov. 23, 2011; 78 FR 34249, June 7, 2013]
+[72 FR 49517, Aug. 28, 2007, as amended at 73 FR 63571, Oct. 24, 2008; 74 FR 13970, Mar. 27, 2009; 74 FR 28147, June 12, 2009; 76 FR 72600, Nov. 23, 2011; 78 FR 34249, June 7, 2013; 84 FR 63568, Nov. 18, 2019]

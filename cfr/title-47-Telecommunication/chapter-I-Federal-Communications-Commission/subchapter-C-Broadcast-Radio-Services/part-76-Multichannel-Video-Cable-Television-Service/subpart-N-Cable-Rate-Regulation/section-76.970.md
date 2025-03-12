@@ -18,44 +18,6 @@
 
 (g) The highest implicit fee on an aggregate basis for full-time channel placement as an a la carte service shall be calculated by first determining the total amount received by the operator in subscriber revenue per month for each non-leased access a la carte channel on its system (including affiliated a la carte channels) and deducting the total amount paid by the operator in programming costs (including license and copyright fees) per month for programming on such individual channels. This calculation will result in implicit fees determined on an aggregate basis, and the highest of these implicit fees shall be the maximum rate per month that the operator may charge the leased access programmer for placement as a full-time a la carte channel. The license fees for affiliated channels used in determining the highest implicit fee shall reflect the prevailing company prices offered in the marketplace to third parties. If a prevailing company price does not exist, the license fee for that programming shall be priced at the programmer's cost or the fair market value, whichever is lower. The highest implicit fee shall be based on contracts in effect in the previous calendar year. The implicit fee for a contracted service may not include fees, stated or implied, for services other than the provision of channel capacity (e.g., billing and collection, marketing, or studio services). Any subscriber revenue received by a cable operator for an a la carte leased access service shall be passed through to the leased access programmer.
 
-(h) The maximum commercial leased access rate that a cable operator may charge for part-time channel placement shall be determined by either prorating the maximum full-time rate uniformly, or by developing a schedule of and applying different rates for different times of the day, provided that the total of the rates for a 24-hour period does not exceed the maximum daily leased access rate.
-
-(i)(1) Cable system operators shall provide prospective leased access programmers with the following information within 15 calendar days of the date on which a request for leased access information is made:
-
-(i) How much of the operator's leased access set-aside capacity is available;
-
-(ii) A complete schedule of the operator's full-time and part-time leased access rates;
-
-(iii) Rates associated with technical and studio costs; and
-
-(iv) If specifically requested, a sample leased access contract.
-
-(2) Operators of systems subject to small system relief shall provide the information required in paragraph (h)(1) of this section within 30 calendar days of a bona fide request from a prospective leased access programmer. For these purposes, systems subject to small system relief are systems that either:
-
-(i) Qualify as small systems under § 76.901(c) and are owned by a small cable company as defined under § 76.901(e); or
-
-(ii) Have been granted special relief.
-
-(3) Bona fide requests, as used in this section, are defined as requests from potential leased access programmers that have provided the following information:
-
-(i) The desired length of a contract term;
-
-(ii) The time slot desired;
-
-(iii) The anticipated commencement date for carriage; and
-
-(iv) The nature of the programming.
-
-(4) All requests for leased access must be made in writing and must specify the date on which the request was sent to the operator.
-
-(5) Operators shall maintain, for Commission inspection, sufficient supporting documentation to justify the scheduled rates, including supporting contracts, calculations of the implicit fees, and justifications for all adjustments.
-
-(j) Cable operators are permitted to negotiate rates below the maximum rates permitted in paragraphs (c) through (g) of this section.
-
-[78 FR 20256, Apr. 4, 2013, as amended at 84 FR 28768, June 20, 2019]Effective Date Note:At 84 FR 28768, June 20, 2019, § 76.970 was amended by revising paragraph (a), removing paragraph (h),redesignating paragraphs (i) and (j) as paragraphs (h) and (i) and revising newly redesignated (h), effective July 22, 2019, except for paragraph 76.970(h) which was delayed. For the convenience of the user, the revised text is set forth as follows:
-
-##### § 76.970 Commercial leased access rates. #####
-
 (h)(1) Cable system operators shall provide prospective leased access programmers with the following information within 30 calendar days of the date on which a bona fide request for leased access information is made, provided that the programmer has remitted any application fee that the cable system operator requires up to a maximum of $100 per system-specific bona fide request:
 
 (i) How much of the operator's leased access set-aside capacity is available;
@@ -85,3 +47,7 @@
 (5) Operators shall maintain, for Commission inspection, sufficient supporting documentation to justify the scheduled rates, including supporting contracts, calculations of the implicit fees, and justifications for all adjustments.
 
 (6) Cable system operators shall disclose on their own websites, or through alternate means if they do not have their own websites, a contact name or title, telephone number, and email address for the person responsible for responding to requests for information about leased access channels.
+
+(i) Cable operators are permitted to negotiate rates below the maximum rates permitted in paragraphs (c) through (g) of this section.
+
+[78 FR 20256, Apr. 4, 2013, as amended at 84 FR 28768, June 20, 2019]

@@ -1,6 +1,6 @@
 ##### § 24.2 Definitions. #####
 
-Link to an amendment published at 84 FR 61795, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61795, Nov. 13, 2019.Link to an amendment published at 84 FR 69298, Dec. 18, 2019.
 
 For purposes of this part, the following definitions apply:
 
