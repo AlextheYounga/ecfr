@@ -1,7 +1,5 @@
 ##### § 3550.68 Payment subsidies. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
-
 RHS administers three types of payment subsidies: interest credit, payment assistance method 1, and payment assistance method 2. Payment subsidies are subject to recapture when the borrower transfers title or ceases to occupy the property.
 
 (a) *Eligibility for payment subsidy.* (1) Applicants or borrowers who receive loans on program terms are eligible to receive payment subsidy if they personally occupy the property and have adjusted income at or below the applicable moderate-income limit.
@@ -12,7 +10,7 @@ RHS administers three types of payment subsidies: interest credit, payment assis
 
 (b) *Determining type of payment subsidy.* (1) A borrower currently receiving interest credit will continue to receive it for the initial loan and for any subsequent loan for as long as the borrower is eligible for and remains on interest credit.
 
-(2) A borrower currently receiving payment assistance using payment assistance method 1 will continue to receive it for the initial loan and for any subsequent loan for as long as the borrower is eligible for and remains on payment assistance method 1.
+(2) If a borrower receiving payment assistance using payment assistance method 1 receives a subsequent loan, payment assistance method 2 will be used to calculate the subsidy for the initial loan and subsequent loan.
 
 (3) A borrower who has never received payment subsidy, or who has stopped receiving interest credit or payment assistance method 1, and at a later date again qualifies for a payment subsidy, will receive payment assistance method 2.
 
@@ -34,23 +32,20 @@ RHS administers three types of payment subsidies: interest credit, payment assis
 
 When the applicant's adjusted income is:
 
-Percentage of Median Income and the Equivalent Interest Rate
-
-|Equal to or more than:|          BUT less than:           |THEN the equivalent interest rate is\*|
-|----------------------|-----------------------------------|--------------------------------------|
-|         00%          |  50.01 of adjusted median income  |                  1%                  |
-|        50.01%        |   55 of adjusted median income    |                  2%                  |
-|         55%          |   60 of adjusted median income    |                  3%                  |
-|         60%          |   65 of adjusted median income    |                  4%                  |
-|         65%          |   70 of adjusted median income    |                  5%                  |
-|         70%          |   75 of adjusted median income    |                  6%                  |
-|         75%          |  80.01 of adjusted median income  |                 6.5%                 |
-|        80.01%        |   90 of adjusted median income    |                 7.5%                 |
-|         90%          |   100 of adjusted median income   |                 8.5%                 |
-|         100%         |  110% of adjusted median income   |                  9%                  |
-|         110%         |Or more than adjusted median income|                 9.5%                 |
-
-\* Or note rate, whichever is less; in no case will the equivalent interest rate be less than one percent.
+|                                          Equal to or more than:                                          |          BUT less than:           |THEN the equivalent interest rate is\*|
+|----------------------------------------------------------------------------------------------------------|-----------------------------------|--------------------------------------|
+|                                                   00%                                                    |  50.01 of adjusted median income  |                  1%                  |
+|                                                  50.01%                                                  |   55 of adjusted median income    |                  2%                  |
+|                                                   55%                                                    |   60 of adjusted median income    |                  3%                  |
+|                                                   60%                                                    |   65 of adjusted median income    |                  4%                  |
+|                                                   65%                                                    |   70 of adjusted median income    |                  5%                  |
+|                                                   70%                                                    |   75 of adjusted median income    |                  6%                  |
+|                                                   75%                                                    |  80.01 of adjusted median income  |                 6.5%                 |
+|                                                  80.01%                                                  |   90 of adjusted median income    |                 7.5%                 |
+|                                                   90%                                                    |   100 of adjusted median income   |                 8.5%                 |
+|                                                   100%                                                   |  110% of adjusted median income   |                  9%                  |
+|                                                   110%                                                   |Or more than adjusted median income|                 9.5%                 |
+|\* Or note rate, whichever is less; in no case will the equivalent interest rate be less than one percent.|                                   |                                      |
 
 (d) *Calculation of interest credit.* The amount of interest credit granted is the difference between the note rate installment as prescribed on the promissory note and the greater of:
 
@@ -60,4 +55,4 @@ Percentage of Median Income and the Equivalent Interest Rate
 
 (e) *Annual review.* The borrower's income will be reviewed annually to determine whether the borrower is eligible for continued payment subsidy. The borrower must notify RHS whenever an adult member of the household changes or obtains employment, there is a change in household composition, or if income increases by at least 10 percent so that RHS can determine whether a review of the borrower's circumstances is required.
 
-[72 FR 73255, Dec. 27, 2007, as amended at 79 FR 28810, May 20, 2014]
+[72 FR 73255, Dec. 27, 2007, as amended at 79 FR 28810, May 20, 2014; 84 FR 29038, June 21, 2019]

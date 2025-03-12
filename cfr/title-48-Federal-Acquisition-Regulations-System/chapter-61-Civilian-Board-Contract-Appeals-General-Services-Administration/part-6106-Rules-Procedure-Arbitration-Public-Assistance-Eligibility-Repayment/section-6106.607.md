@@ -1,0 +1,3 @@
+##### 6106.607 Initial conference [Rule 607]. #####
+
+The panel will hold a telephonic scheduling conference with all parties as soon as practicable, ordinarily within 14 calendar days after the Clerk dockets an arbitration request. Each primary party representative shall participate in the conference. At least one panel member will preside. The panel will promptly issue to the parties a written summary of the conference and the schedule. A party has 5 calendar days from receipt of the panel's conference summary to efile any objection to it. The panel may hold and summarize other conferences as necessary.

@@ -1,5 +1,7 @@
 ##### § 3.1 Purpose, applicability, reservations of authority, and timing. #####
 
+Link to an amendment published at 84 FR 35248, July 22, 2019.
+
 (a) *Purpose.* This part establishes minimum capital requirements and overall capital adequacy standards for national banks or Federal savings associations. This part includes methodologies for calculating minimum capital requirements, public disclosure requirements related to the capital requirements, and transition provisions for the application of this part.
 
 (b) *Limitation of authority.* Nothing in this part shall be read to limit the authority of the OCC to take action under other provisions of law, including action to address unsafe or unsound practices or conditions, deficient capital levels, or violations of law or regulation, under section 8 of the Federal Deposit Insurance Act.

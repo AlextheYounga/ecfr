@@ -1,4 +1,6 @@
-##### § 3.210 Standardized measurement method for specific risk #####
+##### § 3.210 Standardized measurement method for specific risk. #####
+
+Link to an amendment published at 84 FR 35258, July 22, 2019.
 
 (a) *General requirement.* A national bank or Federal savings association must calculate a total specific risk add-on for each portfolio of debt and equity positions for which the national bank's or Federal savings association's VaR-based measure does not capture all material aspects of specific risk and for all securitization positions that are not modeled under § 3.209. A national bank or Federal savings association must calculate each specific risk add-on in accordance with the requirements of this section. Notwithstanding any other definition or requirement in this subpart, a position that would have qualified as a debt position or an equity position but for the fact that it qualifies as a correlation trading position under paragraph (2) of the definition of correlation trading position in § 3.202, shall be considered a debt position or an equity position, respectively, for purposes of this section 210 of this subpart.
 

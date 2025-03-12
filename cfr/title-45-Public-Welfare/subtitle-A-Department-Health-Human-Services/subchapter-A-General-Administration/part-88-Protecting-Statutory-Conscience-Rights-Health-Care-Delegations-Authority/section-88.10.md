@@ -1,0 +1,3 @@
+##### § 88.10 Severability. #####
+
+Any provision of this part held to be invalid or unenforceable either by its terms or as applied to any entity or circumstance shall be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be severable from this part, which shall remain in full force and effect to the maximum extent permitted by law. A severed provision shall not affect the remainder of this part or the application of the provision to other persons or entities not similarly situated or to other, dissimilar circumstances.

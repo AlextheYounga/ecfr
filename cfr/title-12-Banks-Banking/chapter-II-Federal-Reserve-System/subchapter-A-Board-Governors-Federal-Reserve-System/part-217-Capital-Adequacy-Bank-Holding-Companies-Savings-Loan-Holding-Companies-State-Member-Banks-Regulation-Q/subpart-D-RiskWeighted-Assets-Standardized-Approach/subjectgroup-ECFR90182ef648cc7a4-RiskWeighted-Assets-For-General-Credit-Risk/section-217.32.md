@@ -1,5 +1,7 @@
 ##### § 217.32 General risk weights. #####
 
+Link to an amendment published at 84 FR 35264, July 22, 2019.
+
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. government.* (i) Notwithstanding any other requirement in this subpart, a Board-regulated institution must assign a zero percent risk weight to:
 
 (A) An exposure to the U.S. government, its central bank, or a U.S. government agency; and

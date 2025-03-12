@@ -1,5 +1,7 @@
 ##### § 324.131 Mechanics for calculating total wholesale and retail risk-weighted assets. #####
 
+Link to an amendment published at 84 FR 35279, July 22, 2019.
+
 (a) *Overview.* An FDIC-supervised institution must calculate its total wholesale and retail risk-weighted asset amount in four distinct phases:
 
 (1) Phase 1 - categorization of exposures;

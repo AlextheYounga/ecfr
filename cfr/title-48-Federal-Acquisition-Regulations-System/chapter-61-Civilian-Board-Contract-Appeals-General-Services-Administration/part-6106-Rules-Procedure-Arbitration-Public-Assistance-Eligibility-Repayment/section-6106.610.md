@@ -1,0 +1,3 @@
+##### 6106.610 Motions [Rule 610]. #####
+
+Motions are strictly limited and should ordinarily be made orally during the initial conference under Rule 607. A later motion may be efiled. A party may make a procedural motion, such as to extend time. An applicant may move for voluntary dismissal. No party may move for a prehearing merits decision (*e.g.,* summary judgment or dismissal for failure to state a claim) or for involuntary prehearing dismissal other than on the merits except on the grounds that an arbitration request is untimely. A panel ordinarily issues one decision per arbitration.

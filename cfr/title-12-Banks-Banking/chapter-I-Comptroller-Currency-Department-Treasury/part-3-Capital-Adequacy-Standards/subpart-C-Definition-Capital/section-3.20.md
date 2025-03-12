@@ -1,5 +1,7 @@
 ##### § 3.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
+Link to an amendment published at 84 FR 35249, July 22, 2019.
+
 (a) *Regulatory capital components.* A national bank's or Federal savings association's regulatory capital components are:
 
 (1) Common equity tier 1 capital;

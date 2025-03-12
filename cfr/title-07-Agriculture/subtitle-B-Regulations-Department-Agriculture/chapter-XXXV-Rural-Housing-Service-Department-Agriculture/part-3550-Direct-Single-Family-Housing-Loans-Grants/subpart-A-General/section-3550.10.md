@@ -1,7 +1,5 @@
 ##### § 3550.10 Definitions. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
-
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the security instruments are breached.
 
 *Adjusted income.* Used to determine whether an applicant is income-eligible. Adjusted income provides for deductions to account for varying household circumstances and expenses. See § 3550.54 for a complete description of adjusted income.
@@ -86,7 +84,7 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 *Live-in aide.* A person who lives with an elderly or disabled person and is essential to that person's care and well-being, not obligated for the person's support, and would not be living in the unit except to provide the support services.
 
-*Low income.* An adjusted income that is greater than the HUD established very low-income limit, but that does not exceed the HUD established low-income limit (generally 80 percent of median income adjusted for household size) for the county or Metropolitan Statistical Area where the property is or will be located.
+*Low income.* An adjusted income limit developed in consultation with HUD under 42 U.S.C. 1437a(b)(2)(D).
 
 *Major hazard.* A condition so severe that it makes the property unfit for habitation. (See also the definition of hazard in this section.)
 
@@ -96,7 +94,7 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 *Mobile home.* A manufactured unit often referred to as a “trailer,” designed to be used as a dwelling, but built prior to the enactment of the Housing and Community Development Act of 1980 (Pub. L. 96-399) enacted October 8, 1980.
 
-*Moderate income.* An adjusted income that is greater than the low-income limit, but that does not exceed the HUD established low-income limit by more than $5,500.
+*Moderate income.* An adjusted income that does not exceed the moderate income limit for the guaranteed single family housing loan program authorized by Section 502(h) of the Housing Act of 1949, as amended.
 
 *Modest housing.* A property that is considered modest for the area, with a market value that does not exceed the applicable maximum loan limit as established by RHS in accordance with § 3550.63. In addition, the property must not be designed for income producing activities nor have an in-ground swimming pool.
 
@@ -164,21 +162,7 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 *RHS interest rate.* The unsubsidized interest rate offered by RHS for loans made on program terms.
 
-*Rural area.* A rural area is:
-
-(a) Open country or any town, village, city, or place, including the immediate adjacent densely settled area, which is not part of or associated with an urban area and which:
-
-(1) Has a population not in excess of 2,500 inhabitants; or
-
-(2) Has a population in excess of 2,500 but not in excess of 10,000 if it is rural in character; or
-
-(3) Has a population in excess of 10,000 but not in excess of 20,000, and -
-
-(i) Is not contained within a Metropolitan Statistical Area; and
-
-(ii) Has a serious lack of mortgage credit for lower and moderate-income families as determined by the Secretary of Agriculture and the Secretary of Housing and Urban Development.
-
-(b) Any area classified as “rural” or a “rural area” prior to October 1, 1990, and determined not to be “rural” or a “rural area” as a result of data received from or after the 1990, 2000, or 2010 decennial census, and any area deemed to be a “rural area” at any time during the period beginning January 1, 2000, and ending December 31, 2010, shall continue to be so classified until the receipt of data from the decennial census in the year 2020, if such area has a population in excess of 10,000 but not in excess of 35,000, is rural in character, and has a serious lack of mortgage credit for lower and moderate-income families.
+*Rural area.* An area defined in section 520 of the Housing Act of 1949, as amended.
 
 *Rural Development.* A mission area within USDA which includes RHS, Rural Utilities Service (RUS), and Rural Business-Cooperative Service (RBS).
 
@@ -202,7 +186,7 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 *Value appreciation.* The current market value of the property minus: the balance due prior lienholders, the unpaid balance of the RHS debt, unreimbursed closing costs (if any), principal reduction, the original equity (if any) of the borrower, and the value added by capital improvements.
 
-*Very low-income.* An adjusted income that does not exceed the HUD- established very low-income limit (generally 50 percent of median income adjusted for household size) for the county or the Metropolitan Statistical Area where the property is or will be located.
+*Very low-income.* An adjusted income limit developed in consultation with HUD under 42 U.S.C. 1437a(b)(2)(D).
 
 *Veterans preference.* A preference extended to any person applying for a loan or grant under this part who served on active duty and has been discharged or released from the active forces on conditions other than dishonorable from the United States Army, Navy, Air Force, Marine Corps, or Coast Guard. The preference applies to the serviceperson, or the family of a deceased serviceperson who died in service before the termination of such war or such period or era. The applicable timeframes are:
 
@@ -216,4 +200,4 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 (5) During the period beginning August 2, 1990, and ending the date prescribed by Presidential Proclamation or law.
 
-[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 70 FR 6552, Feb. 8, 2005; 72 FR 73255, Dec. 27, 2007; 73 FR 49592, Aug. 22, 2008; 79 FR 74016, Dec. 15, 2014; 80 FR 23678, Apr. 29, 2015]
+[61 FR 59779, Nov. 22, 1996; 61 FR 65266, Dec. 11, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 70 FR 6552, Feb. 8, 2005; 72 FR 73255, Dec. 27, 2007; 73 FR 49592, Aug. 22, 2008; 79 FR 74016, Dec. 15, 2014; 80 FR 23678, Apr. 29, 2015; 84 FR 29038, June 21, 2019]

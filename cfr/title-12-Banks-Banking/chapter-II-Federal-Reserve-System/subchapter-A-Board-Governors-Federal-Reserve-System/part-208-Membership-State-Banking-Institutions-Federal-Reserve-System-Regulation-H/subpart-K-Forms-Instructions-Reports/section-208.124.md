@@ -1,0 +1,5 @@
+##### § 208.124 Reservation of authority. #####
+
+(a) Notwithstanding § 208.123, the Board in consultation with the applicable state chartering authority may require an otherwise eligible covered depository institution to file the FFIEC 041 version of the report of condition, or any successor thereto, based on an institution-specific determination. In making this determination, the Board may consider criteria including, but not limited to, whether the institution is significantly engaged in one or more complex, specialized, or other higher risk activities, such as those for which limited information is reported in the FFIEC 051 version of the report of condition compared to the FFIEC 041 version of the report of condition. Nothing in this part shall be construed to limit the Board's authority to obtain information from a state member bank.
+
+(b) Nothing in this subpart limits the authority of the Board under any other provision of law or regulation to take supervisory or enforcement action, including action to address unsafe or unsound practices or conditions or violations of law.

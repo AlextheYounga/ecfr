@@ -1,7 +1,5 @@
 ##### § 21.3 Definitions. #####
 
-Link to an amendment published at 84 FR 28773, June 20, 2019.
-
 In addition to definitions contained in part 10 of this chapter, and unless the context requires otherwise, as used in this part:
 
 *Armed Forces* means the Army, Navy, Air Force, Marine Corps, Coast Guard, and the National Guard of any State.
@@ -28,7 +26,7 @@ In addition to definitions contained in part 10 of this chapter, and unless the 
 
 *Raptor* means a migratory bird of the Order Accipitriformes, the Order Falconiformes, or the Order Strigiformes listed in § 10.13 of this chapter, including the bald eagle (*Haliaeetus leucocephalus*) and the golden eagle (*Aquila chrysaetos*).
 
-*Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia in the months of March, April, May, or June, or reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
+*Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia or that reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
 
 *Secretary of Defense* means the Secretary of Defense or any other national defense official who has been nominated by the President and confirmed by the Senate.
 
@@ -36,4 +34,4 @@ In addition to definitions contained in part 10 of this chapter, and unless the 
 
 *Significant adverse effect on a population,* as used in § 21.15, means an effect that could, within a reasonable period of time, diminish the capacity of a population of migratory bird species to sustain itself at a biologically viable level. A population is “biologically viable” when its ability to maintain its genetic diversity, to reproduce, and to function effectively in its native ecosystem is not significantly harmed. This effect may be characterized by increased risk to the population from actions that cause direct mortality or a reduction in fecundity. Assessment of impacts should take into account yearly variations and migratory movements of the impacted species. Due to the significant variability in potential military readiness activities and the species that may be impacted, determinations of significant measurable decline will be made on a case-by-case basis.
 
-[48 FR 31607, July 8, 1983, as amended at 64 FR 32774, June 17, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 8949, Feb. 28, 2007; 72 FR 46408, Aug. 20, 2007; 73 FR 59465, Oct. 8, 2008; 75 FR 931, Jan. 7, 2010; 78 FR 65578, 65864, Nov. 1, 2013]
+[48 FR 31607, July 8, 1983, as amended at 64 FR 32774, June 17, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 8949, Feb. 28, 2007; 72 FR 46408, Aug. 20, 2007; 73 FR 59465, Oct. 8, 2008; 75 FR 931, Jan. 7, 2010; 78 FR 65578, 65864, Nov. 1, 2013; 84 FR 28773, June 20, 2019]

@@ -1,5 +1,7 @@
 ##### § 3.131 Mechanics for calculating total wholesale and retail risk-weighted assets. #####
 
+Link to an amendment published at 84 FR 35258, July 22, 2019.
+
 (a) *Overview.* A national bank or Federal savings association must calculate its total wholesale and retail risk-weighted asset amount in four distinct phases:
 
 (1) Phase 1 - categorization of exposures;

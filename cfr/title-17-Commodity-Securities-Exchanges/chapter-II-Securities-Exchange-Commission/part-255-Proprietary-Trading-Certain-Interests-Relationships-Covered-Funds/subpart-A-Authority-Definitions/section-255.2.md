@@ -70,7 +70,11 @@ Unless otherwise specified, for purposes of this part:
 
 (q) *Insurance company* means a company that is organized as an insurance company, primarily and predominantly engaged in writing insurance or reinsuring risks underwritten by insurance companies, subject to supervision as such by a state insurance regulator or a foreign insurance regulator, and not operated for the purpose of evading the provisions of section 13 of the BHC Act (12 U.S.C. 1851).
 
-(r) *Insured depository institution* has the same meaning as in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)), but does not include an insured depository institution that is described in section 2(c)(2)(D) of the BHC Act (12 U.S.C. 1841(c)(2)(D)).
+(r) *Insured depository institution,* unless otherwise indicated, has the same meaning as in section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)), but does not include:
+
+(1) An insured depository institution that is described in section 2(c)(2)(D) of the BHC Act (12 U.S.C. 1841(c)(2)(D)); or
+
+(2) An insured depository institution if it has, and if every company that controls it has, total consolidated assets of $10 billion or less and total trading assets and trading liabilities, on a consolidated basis, that are 5 percent or less of total consolidated assets.
 
 (s) *Loan* means any loan, lease, extension of credit, or secured or unsecured receivable that is not a security or derivative.
 
@@ -99,3 +103,5 @@ Unless otherwise specified, for purposes of this part:
 (ee) *State insurance regulator* means the insurance commissioner, or a similar official or agency, of a State that is engaged in the supervision of insurance companies under State insurance law.
 
 (ff) *Swap dealer* has the same meaning as in section 1(a)(49) of the Commodity Exchange Act (7 U.S.C. 1a(49)).
+
+[79 FR 5779, 5805, Jan. 31, 2014, as amended at 84 FR 35022, July 22, 2019]

@@ -1,5 +1,7 @@
 ##### § 217.22 Regulatory capital adjustments and deductions. #####
 
+Link to an amendment published at 84 FR 35261, July 22, 2019.
+
 (a) *Regulatory capital deductions from common equity tier 1 capital.* A Board-regulated institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section, including goodwill that is embedded in the valuation of a significant investment in the capital of an unconsolidated financial institution in the form of common stock (and that is reflected in the consolidated financial statements of the Board-regulated institution), in accordance with paragraph (d) of this section;

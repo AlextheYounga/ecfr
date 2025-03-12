@@ -1,6 +1,6 @@
 ##### § 325.7 Publication of stress test results. #####
 
-*(a) Publication date* - (1) *$10 billion to $50 billion covered bank.* (i) Prior to January 1, 2016, a $10 billion to $50 billion covered bank must publish a summary of the results of its annual stress test in the period starting June 15 and ending June 30 (for the stress test cycle beginning October 1, 2014).
+(a) *Publication date* - (1) *$10 billion to $50 billion covered bank.* (i) Prior to January 1, 2016, a $10 billion to $50 billion covered bank must publish a summary of the results of its annual stress test in the period starting June 15 and ending June 30 (for the stress test cycle beginning October 1, 2014).
 
 (ii) Beginning January 1, 2016, a $10 billion to $50 billion covered bank must publish a summary of the results of its annual stress test in the period starting October 15 and ending October 31 (for the stress test cycle beginning January 1, 2016 and for all stress test cycles thereafter).
 

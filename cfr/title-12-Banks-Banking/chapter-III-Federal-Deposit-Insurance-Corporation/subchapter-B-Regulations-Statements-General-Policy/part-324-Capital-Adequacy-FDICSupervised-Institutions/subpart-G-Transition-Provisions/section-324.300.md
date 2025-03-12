@@ -1,5 +1,7 @@
 ##### § 324.300 Transitions. #####
 
+Link to an amendment published at 84 FR 35280, July 22, 2019.
+
 (a) *Capital conservation and countercyclical capital buffer.* (1) From January 1, 2014, through December 31, 2015, an FDIC-supervised institution is not subject to limits on distributions and discretionary bonus payments under § 324.11 notwithstanding the amount of its capital conservation buffer or any applicable countercyclical capital buffer amount.
 
 (2) Beginning January 1, 2016, through December 31, 2018, an FDIC-supervised institution's maximum payout ratio shall be determined as set forth in Table 1 to § 324.300.

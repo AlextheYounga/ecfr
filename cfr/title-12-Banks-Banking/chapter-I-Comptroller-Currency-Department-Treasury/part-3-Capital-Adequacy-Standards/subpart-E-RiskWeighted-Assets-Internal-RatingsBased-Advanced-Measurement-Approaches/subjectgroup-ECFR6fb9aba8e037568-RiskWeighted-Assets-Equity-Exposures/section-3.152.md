@@ -1,5 +1,7 @@
 ##### § 3.152 Simple risk weight approach (SRWA). #####
 
+Link to an amendment published at 84 FR 35258, July 22, 2019.
+
 (a) *General.* Under the SRWA, a national bank's or Federal savings association's aggregate risk-weighted asset amount for its equity exposures is equal to the sum of the risk-weighted asset amounts for each of the national bank's or Federal savings association's individual equity exposures (other than equity exposures to an investment fund) as determined in this section and the risk-weighted asset amounts for each of the national bank's or Federal savings association's individual equity exposures to an investment fund as determined in § 3.154.
 
 (b) *SRWA computation for individual equity exposures.* A national bank or Federal savings association must determine the risk-weighted asset amount for an individual equity exposure (other than an equity exposure to an investment fund) by multiplying the adjusted carrying value of the equity exposure or the effective portion and ineffective portion of a hedge pair (as defined in paragraph (c) of this section) by the lowest applicable risk weight in this section.

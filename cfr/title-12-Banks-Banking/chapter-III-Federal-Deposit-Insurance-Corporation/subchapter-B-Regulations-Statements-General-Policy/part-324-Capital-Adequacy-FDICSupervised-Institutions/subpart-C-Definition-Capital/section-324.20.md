@@ -1,5 +1,7 @@
 ##### § 324.20 Capital components and eligibility criteria for regulatory capital instruments. #####
 
+Link to an amendment published at 84 FR 35271, July 22, 2019.
+
 (a) *Regulatory capital components.* An FDIC-supervised institution's regulatory capital components are:
 
 (1) Common equity tier 1 capital;

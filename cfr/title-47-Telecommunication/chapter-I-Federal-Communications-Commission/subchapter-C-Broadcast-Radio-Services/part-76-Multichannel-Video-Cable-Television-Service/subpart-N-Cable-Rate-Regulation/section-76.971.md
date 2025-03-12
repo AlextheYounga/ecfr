@@ -1,14 +1,10 @@
 ##### § 76.971 Commercial leased access terms and conditions. #####
 
-Link to an amendment published at 84 FR 28769, June 20, 2019.
-
 (a)(1) Cable operators shall place leased access programmers that request access to a tier actually used by most subscribers on any tier that has a subscriber penetration of more than 50 percent, unless there are technical or other compelling reasons for denying access to such tiers.
 
 (2) Cable operators shall be permitted to make reasonable selections when placing leased access channels at specific channel locations. The Commission will evaluate disputes involving channel placement on a case-by-case basis and will consider any evidence that an operator has acted unreasonably in this regard.
 
 (3) On systems with available leased access capacity sufficient to satisfy current leased access demand, cable operators shall be required to accommodate as expeditiously as possible all leased access requests for programming that is not obscene or indecent. On systems with insufficient available leased access capacity to satisfy current leased access demand, cable operators shall be permitted to select from among leased access programmers using objective, content-neutral criteria.
-
-(4) Cable operators that have not satisfied their statutory leased access requirements shall accommodate part-time leased access requests as set forth in this paragraph. Cable operators shall not be required to accept leases for less than one half-hour of programming. Cable operators may accommodate part-time leased access requests by opening additional channels for part-time use or providing comparable time slots on channels currently carrying leased or non-leased access programming. The comparability of time slots shall be determined by objective factors such as day of the week, time of day, and audience share. A cable operator that is unable to provide a comparable time slot to accommodate a part-time programming request shall be required to open an additional channel for part-time use unless such operator has at least one channel designated for part-time leased access use that is programmed with less than 18 hours of part-time leased access programming every day. However, regardless of the availability of partially programmed part-time leased access channels, a cable operator shall be required to open an additional channel to accommodate any request for part-time leased access for at least eight contiguous hours, for the same time period every day, for at least a year. Once an operator has opened a vacant channel to accommodate such a request, our other leased access rules apply. If, however, the operator has accommodated such a request on a channel already carrying an existing full-time non-leased access programmer, the operator does not have to accommodate other part-time requests of less than eight hours on that channel until all other existing part-time leased access channels are substantially filled with leased access programming.
 
 (b) Cable operators may not apply programming production standards to leased access that are any higher than those applied to public, educational and governmental access channels.
 
@@ -30,4 +26,4 @@ Link to an amendment published at 84 FR 28769, June 20, 2019.
 
 (h) Cable operators may not prohibit the resale of leased access capacity to persons unaffiliated with the operator, but may provide in their leased access contracts that any sublessees will be subject to the non-price terms and conditions that apply to the initial lessee, and that, if the capacity is resold, the rate for the capacity shall be the maximum permissible rate.
 
-[58 FR 29753, May 21, 1993, as amended at 61 FR 16401, Apr. 15, 1996; 62 FR 11381, Mar. 12, 1997]
+[58 FR 29753, May 21, 1993, as amended at 61 FR 16401, Apr. 15, 1996; 62 FR 11381, Mar. 12, 1997; 84 FR 28769, June 20, 2019]

@@ -1,7 +1,5 @@
 ##### § 21.49 Control order for resident Canada geese at airports and military airfields. #####
 
-Link to an amendment published at 84 FR 28773, June 20, 2019.
-
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the control order for resident Canada geese at airports, and what is its purpose?* The airport control order authorizes managers at commercial, public, and private airports (airports) (and their employees or their agents) and military air operation facilities (military airfields) (and their employees or their agents) to establish and implement a control and management program when necessary to resolve or prevent threats to public safety from resident Canada geese. Control and management activities include indirect and/or direct control strategies such as trapping and relocation, nest and egg destruction, gosling and adult trapping and culling programs, or other lethal and non-lethal control strategies.
@@ -46,7 +44,7 @@ Link to an amendment published at 84 FR 28773, June 20, 2019.
 
 (v) Persons using egg oiling must use 100 percent corn oil, a substance exempted from regulation by the U.S. Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act.
 
-(3) Airports and military airfields may conduct management and control activities, involving the take of resident Canada geese, under this section between April 1 and September 15. The destruction of resident Canada goose nests and eggs may take place between March 1 and June 30.
+(3) Airports and military airfields may conduct management and control activities, involving the take of resident Canada geese, under this section between April 1 and September 15. The destruction of resident Canada goose nests and eggs may take place at any time of year.
 
 (4) Airports and military airfields and their employees and agents may possess, transport, and otherwise dispose of resident Canada geese taken under this section. Disposal of birds taken under this order may be by donation to public museums or public institutions for scientific or educational purposes, processing for human consumption and subsequent distribution free of charge to charitable organizations, or burial or incineration. Airports/military airfields, their employees, and designated agents may not sell, offer for sale, barter, or ship for the purpose of sale or barter any resident Canada geese taken under this section, nor their plumage or eggs. Any specimens needed for scientific purposes as determined by the Regional Director must not be destroyed, and information on birds carrying metal leg bands must be submitted to the Bird Banding Laboratory by means of a toll-free telephone number at 1-800-327-BAND (or 2263).
 
@@ -86,4 +84,4 @@ Link to an amendment published at 84 FR 28773, June 20, 2019.
 
 (f) *Has the Office of Management and Budget (OMB) approved the information collection requirements of the control order?* OMB has approved the information collection and recordkeeping requirements of the control order under OMB control number 1018-0133. We may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. You may send comments on the information collection and recordkeeping requirements to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
 
-[71 FR 45986, Aug. 10, 2006, as amended at 72 FR 46408, Aug. 20, 2007; 79 FR 43966, July 29, 2014]
+[71 FR 45986, Aug. 10, 2006, as amended at 72 FR 46408, Aug. 20, 2007; 79 FR 43966, July 29, 2014; 84 FR 28773, June 20, 2019]

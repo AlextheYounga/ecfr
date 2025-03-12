@@ -1,7 +1,5 @@
 ##### § 3550.53 Eligibility requirements. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
-
 (a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable low-income limit for the area, and at closing, must not exceed the applicable moderate-income limit for the area (see § 3550.544).
 
 (b) *Citizenship status.* The applicant must be a United States citizen or a noncitizen who qualifies as a legal alien as defined in § 3550.10.
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 (e) *Legal capacity.* Applicants must have the legal capacity to incur the loan obligation, or have a court appointed guardian or conservator who is empowered to obligate the applicant in real estate matters.
 
-(f) *Suspension or debarment.* Applications from applicants who have been suspended or debarred from participation in federal programs will be handled in accordance with 7 CFR part 3017.
+(f) *Suspension or debarment.* Applications from applicants who have been suspended or debarred from participation in Federal programs will be handled in accordance with 2 CFR parts 180 and 417.
 
 (g) *Repayment ability.* Repayment ability means applicants must demonstrate adequate and dependably available income. The determination of income dependability will include consideration of the applicant's past history of annual income.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 (i) *Homeownership education.* Applicants who are first-time homebuyers must agree to provide documentation, in the form of a completion certificate or letter from the provider, that a homeownership education course from a certified provider under § 3550.11 has been successfully completed as defined by the provider prior to loan closing. Requests for exceptions to the homeowner education requirement will be reviewed and granted on an individual case-by-case basis. The State Director may grant an exception the homeownership education requirement for individuals in geographic areas within the State where the State Director verifies that certified homeownership education is not reasonably available in the local area in any of the formats listed in § 3550.11(b). Whether such homeownership education is reasonably available will be determined based on factors including, but not limited to: Distance, travel time, geographic obstacles, and cost. On a case-by-case basis, the State Director also may grant an exception, provided the applicant borrower documents a special need, such as a disability, that would unduly impede completing a homeownership course in a reasonably available format.
 
-[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78330, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007]
+[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78330, Dec. 24, 2002; 72 FR 5157, Feb. 5, 2007; 84 FR 29038, June 21, 2019]

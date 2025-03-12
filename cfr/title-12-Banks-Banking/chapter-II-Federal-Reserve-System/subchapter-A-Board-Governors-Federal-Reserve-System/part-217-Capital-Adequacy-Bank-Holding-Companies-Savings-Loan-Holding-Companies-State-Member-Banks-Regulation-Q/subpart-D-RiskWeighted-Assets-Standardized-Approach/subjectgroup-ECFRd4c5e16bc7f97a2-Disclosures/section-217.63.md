@@ -1,5 +1,7 @@
 ##### § 217.63 Disclosures by Board-regulated institutions described in § 217.61. #####
 
+Link to an amendment published at 84 FR 35267, July 22, 2019.
+
 (a) Except as provided in § 217.62, a Board-regulated institution described in § 217.61 must make the disclosures described in Tables 1 through 10 of this section. The Board-regulated institution must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015.
 
 (b) A Board-regulated institution must publicly disclose each quarter the following:

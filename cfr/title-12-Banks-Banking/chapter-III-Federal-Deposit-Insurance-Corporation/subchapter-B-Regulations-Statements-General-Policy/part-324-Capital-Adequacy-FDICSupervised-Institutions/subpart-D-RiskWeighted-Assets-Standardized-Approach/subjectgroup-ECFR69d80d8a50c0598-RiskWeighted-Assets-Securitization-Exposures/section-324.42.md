@@ -1,5 +1,7 @@
 ##### § 324.42 Risk-weighted assets for securitization exposures. #####
 
+Link to an amendment published at 84 FR 35277, July 22, 2019.
+
 (a) *Securitization risk weight approaches.* Except as provided elsewhere in this section or in § 324.41:
 
 (1) An FDIC-supervised institution must deduct from common equity tier 1 capital any after-tax gain-on-sale resulting from a securitization and apply a 1,250 percent risk weight to the portion of a CEIO that does not constitute after-tax gain-on-sale.

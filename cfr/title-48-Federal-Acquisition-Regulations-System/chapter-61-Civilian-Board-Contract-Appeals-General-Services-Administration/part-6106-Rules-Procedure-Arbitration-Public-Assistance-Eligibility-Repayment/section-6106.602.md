@@ -1,0 +1,3 @@
+##### 6106.602 Authority [Rule 602]. #####
+
+The Board is authorized by section 423 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act), 42 U.S.C. 5189a(d), to arbitrate disputes between applicants and FEMA as to eligibility for public assistance (or repayment of past public assistance) for a disaster post-dating January 1, 2016, when the disputed amount exceeds $500,000 or, for an applicant in a rural area, is at least $100,000.

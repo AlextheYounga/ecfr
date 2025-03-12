@@ -1,7 +1,5 @@
 ##### § 10.232 Sea service. #####
 
-Link to an amendment published at 84 FR 26591, June 7, 2019.
-
 (a) *Documenting sea service.* (1) Sea service may be documented in various forms such as certificates of discharge, pilotage service and billing forms, and service letters or other official documents from marine companies signed by the owner, operator, master, or chief engineer of the vessel. The Coast Guard must be satisfied as to the authenticity and acceptability of all evidence of experience or training presented.
 
 (2) Documentary evidence produced by the applicant, unless in the form of a Certificate of Discharge conforming to § 14.307 of this subchapter, must contain all of the following information:
@@ -18,13 +16,15 @@ Link to an amendment published at 84 FR 26591, June 7, 2019.
 
 (vi) The routes upon which the experience was acquired.
 
-(vii) For those seeking service credit on towing vessels in accordance with § 11.211(e) of this subchapter, the aggregate tonnage of the tug and barges during the mariner's service.
+(vii) For those seeking to renew a radar observer endorsement, whether the vessel is equipped with radar and if the mariner served in a position that routinely uses radar for navigation and collision avoidance purposes.
 
-(viii) Any other information necessary to determine the applicability of STCW to the vessel.
+(viii) For those seeking service credit on towing vessels in accordance with § 11.211(e) of this subchapter, the aggregate tonnage of the tug and barges during the mariner's service.
 
-(ix) Whether the vessel is manned and equipped in accordance with SOLAS.
+(ix) Any other information necessary to determine the applicability of STCW to the vessel.
 
-(x) Where required for an officer endorsement, time served as bridge watchkeeping or engine watchkeeping duties under the supervision of a qualified officer.
+(x) Whether the vessel is manned and equipped in accordance with SOLAS.
+
+(xi) Where required for an officer endorsement, time served as bridge watchkeeping or engine watchkeeping duties under the supervision of a qualified officer.
 
 (3) An MMC endorsement, in certain cases, may be considered as satisfactory evidence of any qualifying experience for obtaining other endorsements.
 
@@ -32,7 +32,7 @@ Link to an amendment published at 84 FR 26591, June 7, 2019.
 
 (5) If the required sea service is associated with watchkeeping functions and the performance of duties, as required in §§ 11.323, 11.329, and 11.333, the service must be documented as having been carried out under the direct supervision of the appropriate person. If the required sea service is associated with the performance of duties, as required in §§ 11.470, 11.472, and 11.474, the service must be documented as having been carried out under the supervision of the appropriate person.
 
-(6) An applicant who has been acting as a pilot may submit a letter from a pilot's association attesting to the applicant's sea service. Pilots not part of an association may submit other relevant records indicating service, such as billing forms. For a raise-of-grade, pilots must comply with the requirements of paragraph (a)(2) of this section.
+(6) An applicant who has been acting as a pilot may submit a letter from a pilot's association attesting to the applicant's sea service. For those pilots seeking to renew a radar observer endorsement, the association's letter should indicate that the vessels piloted were equipped with radar, and that radar was used by the pilot for navigation and collision avoidance purposes. Pilots not part of an association may submit other relevant records indicating service, such as billing forms. For a raise-of-grade, pilots must comply with the requirements of paragraph (a)(2) of this section.
 
 (b) Service toward an oceans, near-coastal, or STCW endorsement will be credited as follows:
 
@@ -90,4 +90,4 @@ Link to an amendment published at 84 FR 26591, June 7, 2019.
 
 (i) *Tonnage equivalency.* For the purpose of parts 10, 11 and 12, 200 GRT will be considered equivalent to 500 GT, and 1,600 GRT will be considered equivalent to 3,000 GT.
 
-[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2018-0874, 84 FR 30881, June 28, 2019]
+[USCG-2004-17914, 78 FR 77894, Dec. 24, 2013, as amended by USCG-2018-0100, 84 FR 26591, June 7, 2019; USCG-2018-0874, 84 FR 30881, June 28, 2019]

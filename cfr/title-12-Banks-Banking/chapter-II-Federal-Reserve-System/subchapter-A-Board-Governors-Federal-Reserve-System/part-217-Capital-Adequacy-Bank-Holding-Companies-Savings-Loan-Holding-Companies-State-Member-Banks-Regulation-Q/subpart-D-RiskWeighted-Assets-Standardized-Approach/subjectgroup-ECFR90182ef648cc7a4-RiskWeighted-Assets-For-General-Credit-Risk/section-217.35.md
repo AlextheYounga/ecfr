@@ -1,5 +1,7 @@
 ##### § 217.35 Cleared transactions. #####
 
+Link to an amendment published at 84 FR 35266, July 22, 2019.
+
 (a) *General requirements* - (1) *Clearing member clients.* A Board-regulated institution that is a clearing member client must use the methodologies described in paragraph (b) of this section to calculate risk-weighted assets for a cleared transaction.
 
 (2) *Clearing members.* A Board-regulated institution that is a clearing member must use the methodologies described in paragraph (c) of this section to calculate its risk-weighted assets for a cleared transaction and paragraph (d) of this section to calculate its risk-weighted assets for its default fund contribution to a CCP.

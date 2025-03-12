@@ -1,7 +1,5 @@
 ##### § 3550.54 Calculation of income and assets. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
-
 (a) *Repayment income.* Repayment income is the annual amount of income from all sources that are expected to be received by those household members who are parties to the promissory note, except for any student financial aid received by these household members for tuition, fees, books, equipment, materials, and transportation. Repayment income is used to determine the household's ability to repay a loan.
 
 (b) *Annual income.* Annual income is the income of all household members from all sources except those listed in (b)(1) through (b)(12) of this section:
@@ -54,27 +52,26 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 (5) For elderly households only, a deduction for household medical expenses that are not reimbursed from insurance or another source and which in combination with any expenses related to the care of household members with disabilities described in paragraph (c)(3) of this section, are in excess of three percent of the household's annual income.
 
-(d) *Net family assets.* Income from net family assets must be included in the calculation of annual and repayment income. Net family assets also are considered in determining whether a down payment is required.
+(d) *Net family assets.* Income from net family assets must be included in the calculation of annual income.
+Net family assets also are considered in determining whether a down payment is required.
 
-(1) Net family assets include the cash value of:
+(1) Net family assets include, but are not limited to:
 
-(i) Equity in real property, other than the dwelling or site;
+(i) Equity in real property or other capital investments, other than the dwelling or site;
 
 (ii) Cash on hand and funds in savings or checking accounts;
 
 (iii) Amounts in trust accounts that are available to the household;
 
-(iv) Stocks, bonds, and other forms of capital investments including life insurance policies and retirement plans that are accessible to the applicant without retiring or terminating employment;
+(iv) Stocks, bonds, and other forms of capital investments that are accessible without retiring or terminating employment;
 
-(v) Lump sum receipts such as lottery winnings, capital gains, inheritances;
+(v) Lump sum receipts such as lottery winnings, capital gains, inheritances; and
 
-(vi) Personal property held as an investment; and
-
-(vii) Any value, in excess of the consideration received, for any business or household assets disposed for less than fair market value during the 2 years preceding the income determination. The value of assets disposed of for less than fair market value shall not be considered if they were disposed of as a result of foreclosure or bankruptcy or a divorce or separation settlement.
+(vi) Personal property held as an investment.
 
 (2) Net family assets do not include:
 
-(i) Interest in American Indian trust land;
+(i) Interest in American Indian restricted land;
 
 (ii) Cash on hand which will be used to reduce the amount of the loan;
 
@@ -82,6 +79,16 @@ Link to an amendment published at 84 FR 29038, June 21, 2019.
 
 (iv) Assets that are part of the business, trade, or farming operation of any member of the household who is actively engaged in such operation;
 
-(v) The value of an irrevocable trust fund or any other trust over which no member of the household has control.
+(v) Amounts in voluntary retirement plans such as individual retirement accounts (IRAs), 401(k) plans, and Keogh accounts (except at the time interest assistance is initially granted);
 
-[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78329, Dec. 24, 2002]
+(vi) The value of an irrevocable trust fund or any other trust over which no member of the household has control;
+
+(vii) Cash value of life insurance policies;
+
+(viii) The value of tax advantaged college savings plans (529 plan, Coverdell Education Savings Account, etc.);
+
+(ix) The value of tax advantaged health or medical savings or spending accounts; and
+
+(x) Other amounts deemed by the Agency not to constitute net family assets.
+
+[61 FR 59779, Nov. 22, 1996, as amended at 67 FR 78329, Dec. 24, 2002; 84 FR 29038, June 21, 2019]

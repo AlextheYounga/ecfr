@@ -1,8 +1,22 @@
-##### § 102.2 Statement of organization: Forms and committee identification number (52 U.S.C. 30103(b), (c)). #####
+##### § 102.2 Statement of organization: Forms and committee identification number (52 U.S.C. 30102(g), 30103(b), (c)). #####
 
-(a) *Forms.*
+(a) *Forms.* (1) The Statement of Organization shall be filed with the Commission on Federal Election Commission Form 1. The Statement shall be signed by the treasurer and shall include the following information:
 
-(1) The Statement of Organization shall be filed with the Commission on Federal Election Commission Form 1.
+(i) The name, address, and type of committee;
+
+(ii) The name, address, relationship, and type of any connected organization or affiliated committee in accordance with paragraph (b) of this section;
+
+(iii) The name, address, and committee position of the custodian of books and accounts of the committee;
+
+(iv) The name and address of the treasurer of the committee;
+
+(v) If the committee is authorized by a candidate, the name, office sought (including State and Congressional district, when applicable) and party affiliation of the candidate; and the address to which communications should be sent;
+
+(vi) A listing of all banks, safe deposit boxes, or other depositories used by the committee;
+
+(vii) The internet address of the committee's official website, if such a website exists. If the committee is required to file electronically under 11 CFR 104.18, its electronic mail address, if such an address exists; and
+
+(viii) If the committee is a principal campaign committee of a candidate for the Senate or the House of Representatives, the principal campaign committee's electronic mail address.
 
 (2) Any change or correction in the information previously filed in the Statement of Organization shall be reported no later than 10 days following the date of the change or correction by filing an amended Statement of Organization or, if the political committee is not required to file electronically under 11 CFR 104.18, by filing a letter noting the change(s). The amendment need list only the name of the political committee and the change or correction.
 
@@ -22,4 +36,4 @@
 
 (c) *Committee identification number.* Upon receipt of a Statement of Organization under 11 CFR part 102 by the Commission, an identification number shall be assigned to the committee, receipt shall be acknowledged, and the political committee shall be notified of the number assigned. This identification number shall be entered by the political committee on all subsequent reports or statements filed under the Act, as well as on all communications concerning reports and statements.
 
-[45 FR 15104, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 58 FR 42173, Aug. 6, 1993; 65 FR 38422, June 21, 2000; 68 FR 3995, Jan. 27, 2003; 68 FR 64516, Nov. 14, 2003; 68 FR 67018, Dec. 1, 2003; 73 FR 79601, Dec. 30, 2008; 82 FR 60853, Dec. 26, 2017; 84 FR 18699, May 2, 2019]
+[45 FR 15104, Mar. 7, 1980, as amended at 50 FR 50778, Dec. 12, 1985; 54 FR 34109, Aug. 17, 1989; 54 FR 48580, Nov. 24, 1989; 58 FR 42173, Aug. 6, 1993; 65 FR 38422, June 21, 2000; 68 FR 3995, Jan. 27, 2003; 68 FR 64516, Nov. 14, 2003; 68 FR 67018, Dec. 1, 2003; 73 FR 79601, Dec. 30, 2008; 82 FR 60853, Dec. 26, 2017; 84 FR 18699, May 2, 2019; 84 FR 35007, July 22, 2019]

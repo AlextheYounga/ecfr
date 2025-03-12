@@ -1,5 +1,7 @@
 ##### § 324.21 Minority interest. #####
 
+Link to an amendment published at 84 FR 35271, July 22, 2019.The effective date of this amendment was changed to Jan. 1, 2020 at 84 FR 61807, Nov. 13, 2019.
+
 (a) *Applicability.* For purposes of § 324.20, an FDIC-supervised institution is subject to the minority interest limitations in this section if:
 
 (1) A consolidated subsidiary of the FDIC-supervised institution has issued regulatory capital that is not owned by the FDIC-supervised institution; and

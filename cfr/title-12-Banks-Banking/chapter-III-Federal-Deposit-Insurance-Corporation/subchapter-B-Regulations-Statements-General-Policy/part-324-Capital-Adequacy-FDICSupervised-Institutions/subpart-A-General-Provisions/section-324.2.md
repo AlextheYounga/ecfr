@@ -1,5 +1,7 @@
 ##### § 324.2 Definitions. #####
 
+Link to an amendment published at 84 FR 35270, July 22, 2019.
+
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 324.20(c).
@@ -422,7 +424,7 @@ As used in this part:
 
 *Federal Deposit Insurance Act* means the Federal Deposit Insurance Act (12 U.S.C. 1811 *et seq.*).
 
-*Federal Deposit Insurance Corporation Improvement Act* means the Federal Deposit Insurance Corporation Improvement Act of 1991 ((Pub. L. 102-242, 105 Stat. 2236).
+*Federal Deposit Insurance Corporation Improvement Act* means the Federal Deposit Insurance Corporation Improvement Act of 1991 (Pub. L. 102-242, 105 Stat. 2236).
 
 *Federal Reserve* means the Board of Governors of the Federal Reserve System.
 

@@ -1,5 +1,7 @@
 ##### § 3.21 Minority interest. #####
 
+Link to an amendment published at 84 FR 35249, July 22, 2019.
+
 (a) *Applicability.* For purposes of § 3.20, a national bank or Federal savings association is subject to the minority interest limitations in this section if:
 
 (1) A consolidated subsidiary of the national bank or Federal savings association has issued regulatory capital that is not owned by the national bank or Federal savings association; and

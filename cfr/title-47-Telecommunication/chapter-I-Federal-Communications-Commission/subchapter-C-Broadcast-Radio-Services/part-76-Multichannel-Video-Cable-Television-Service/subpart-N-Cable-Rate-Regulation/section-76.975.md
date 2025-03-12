@@ -1,7 +1,5 @@
 ##### § 76.975 Commercial leased access dispute resolution. #####
 
-Link to an amendment published at 84 FR 28769, June 20, 2019.
-
 (a) Any person aggrieved by the failure or refusal of a cable operator to make commercial channel capacity available in accordance with the provisions of Title VI of the Communications Act may bring an action in the district court of the United States for the Judicial district in which the cable system is located to compel that such capacity be made available.
 
 (b)(1) Any person aggrieved by the failure or refusal of a cable operator to make commercial channel capacity available or to charge rates for such capacity in accordance with the provisions of Title VI of the Communications Act, or our implementing regulations, §§ 76.970 and 76.971, may file a petition for relief with the Commission. Persons alleging that a cable operator's leased access rate is unreasonable must receive a determination of the cable operator's maximum permitted rate from an independent accountant prior to filing a petition for relief with the Commission.
@@ -30,4 +28,10 @@ Link to an amendment published at 84 FR 28769, June 20, 2019.
 
 (h) During the pendency of a dispute, a party seeking to lease channel capacity for commercial purposes, shall comply with the rates, terms and conditions prescribed by the cable operator, subject to refund or other appropriate remedy.
 
-[78 FR 20257, Apr. 4, 2013]
+(i) Section 76.7 applies to petitions for relief filed under this section, except as otherwise provided in this section.
+
+[78 FR 20257, Apr. 4, 2013, as amended at 84 FR 28769, June 20, 2019]Effective Date Note:At 84 FR 28769, June 20, 2019, § 76.975 was amended by revising paragraph (e) and adding paragraph (i), effective July 22, 2019, except for paragraph (e) which was delayed. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 76.975 Commercial leased access dispute resolution. #####
+
+(e) The cable operator or other respondent will have 30 days from service of the petition to file an answer. If a leased access rate is disputed, the answer must show that the rate charged is not higher than the maximum permitted rate for such leased access, and must be supported by the affidavit of a responsible company official. If, after an answer is submitted, the staff finds a prima facie violation of our rules, the staff may require a respondent to produce additional information, or specify other procedures necessary for resolution of the proceeding. Replies to answers must be filed within fifteen (15) days after submission of the answer.

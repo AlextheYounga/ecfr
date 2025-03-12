@@ -1,7 +1,5 @@
 ##### § 20.11 What terms do I need to understand? #####
 
-Link to an amendment published at 84 FR 28773, June 20, 2019.
-
 For the purpose of this part, the following terms shall be construed, respectively, to mean and to include:
 
 (a) *Migratory game birds* means those migratory birds included in the terms of conventions between the United States and any foreign country for the protection of migratory birds, for which open seasons are prescribed in this part and belong to the following families:
@@ -58,6 +56,6 @@ A list of migratory birds protected by the international conventions and the Mig
 
 (m) *Natural vegetation* means any non-agricultural, native, or naturalized plant species that grows at a site in response to planting or from existing seeds or other propagules. The term *natural vegetation* does not include planted millet. However, planted millet that grows on its own in subsequent years after the year of planting is considered *natural vegetation.*
 
-(n) *Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia in the months of March, April, May, or June, or reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
+(n) *Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia or that reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
 
-[53 FR 24290, June 28, 1988, as amended at 64 FR 29804, June 3, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 46407, Aug. 20, 2007]
+[53 FR 24290, June 28, 1988, as amended at 64 FR 29804, June 3, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 46407, Aug. 20, 2007; 84 FR 28773, June 20, 2019]

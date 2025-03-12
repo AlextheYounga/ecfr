@@ -1,6 +1,6 @@
 ##### § 3555.10 Definitions and abbreviations. #####
 
-Link to an amendment published at 84 FR 29038, June 21, 2019.
+Link to an amendment published at 84 FR 35006, July 22, 2019.
 
 The definitions and abbreviations in this section apply to this part.
 
@@ -128,7 +128,7 @@ The definitions and abbreviations in this section apply to this part.
 
 *Loan modification.* A written agreement that permanently changes an original note term, such as the interest rate, monthly payment, and/or the principal balance due to capitalization of interest or advances.
 
-*Low-income.* An adjusted income that is greater than the HUD established very low-income limit, but that does not exceed the HUD established low-income limit (generally 80 percent of median income adjusted for household size) for the county or Metropolitan Statistical Area where the property is or will be located.
+*Low-income.* An adjusted income limit developed in consultation with HUD under 42 U.S.C. 1437a(b)(2)(D).
 
 *Manufactured home.* A structure that is built on a permanent foundation according to Federally Manufactured Home Construction and Safety Standards established by HUD and found at 24 CFR part 3280.
 
@@ -250,4 +250,4 @@ The definitions and abbreviations in this section apply to this part.
 
 (6) During any other period as prescribed by Presidential proclamation or law.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016; 84 FR 29038, June 21, 2019]

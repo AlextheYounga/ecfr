@@ -1,5 +1,7 @@
 ##### § 3.37 Collateralized transactions. #####
 
+Link to an amendment published at 84 FR 35256, July 22, 2019.
+
 (a) *General.* (1) To recognize the risk-mitigating effects of financial collateral, a national bank or Federal savings association may use:
 
 (i) The simple approach in paragraph (b) of this section for any exposure; or

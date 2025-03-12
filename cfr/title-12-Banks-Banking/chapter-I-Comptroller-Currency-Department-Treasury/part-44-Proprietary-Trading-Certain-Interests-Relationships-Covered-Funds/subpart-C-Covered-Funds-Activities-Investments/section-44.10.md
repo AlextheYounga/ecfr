@@ -256,7 +256,7 @@
 
 (ii) In any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a covered fund; or
 
-(iii) To share with a covered fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name.
+(iii) To share with a covered fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name, except as permitted under § 44.11(a)(6).
 
 (10) *Trustee.* (i) For purposes of paragraph (d)(9) of this section and § 44.11 of subpart C, a trustee does not include:
 
@@ -265,3 +265,5 @@
 (B) A trustee that is subject to fiduciary standards imposed under foreign law that are substantially equivalent to those described in paragraph (d)(10)(i)(A) of this section;
 
 (ii) Any entity that directs a person described in paragraph (d)(10)(i) of this section, or that possesses authority and discretion to manage and control the investment decisions of a covered fund for which such person serves as trustee, shall be considered to be a trustee of such covered fund.
+
+[79 FR 5779, 5804, Jan. 31, 2014, as amended at 84 FR 35020, July 22, 2019]

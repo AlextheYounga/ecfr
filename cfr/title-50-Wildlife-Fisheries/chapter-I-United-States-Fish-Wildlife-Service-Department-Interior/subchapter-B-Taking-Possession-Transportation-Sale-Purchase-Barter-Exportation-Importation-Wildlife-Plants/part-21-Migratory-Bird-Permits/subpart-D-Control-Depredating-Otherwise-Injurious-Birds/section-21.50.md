@@ -1,7 +1,5 @@
 ##### § 21.50 Depredation order for resident Canada geese nests and eggs. #####
 
-Link to an amendment published at 84 FR 28773, June 20, 2019.
-
 (a) *Which Canada geese are covered by this order?* This regulation addresses the control and management of resident Canada geese, as defined in § 21.3.
 
 (b) *What is the depredation order for resident Canada geese nests and eggs, and what is its purpose?* The nest and egg depredation order for resident Canada geese authorizes private landowners and managers of public lands (landowners); homeowners' associations; and village, town, municipality, and county governments (local governments); and the employees or agents of any of these persons or entities to destroy resident Canada goose nests and eggs on property under their jurisdiction when necessary to resolve or prevent injury to people, property, agricultural crops, or other interests.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 28773, June 20, 2019.
 
 (ii) Egg and nest destruction, including but not limited to the removal and disposal of eggs and nest material.
 
-(4) Registrants may conduct resident Canada goose nest and egg destruction activities between March 1 and June 30. Homeowners' associations and local governments or their agents must obtain landowner consent prior to destroying nests and eggs on private property within the homeowners' association or local government's jurisdiction and be in compliance with all State and local laws and regulations.
+(4) Registrants may conduct resident Canada goose nest and egg destruction activities at any time of year. Homeowners' associations and local governments or their agents must obtain landowner consent prior to destroying nests and eggs on private property within the homeowners' association or local government's jurisdiction and be in compliance with all State and local laws and regulations.
 
 (5) Registrants authorized to operate under the depredation order may possess, transport, and dispose of resident Canada goose nests and eggs taken under this section. Registrants authorized to operate under the program may not sell, offer for sale, barter, or ship for the purpose of sale or barter any resident Canada goose nest or egg taken under this section.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 84 FR 28773, June 20, 2019.
 
 (f) *Has the Office of Management and Budget (OMB) approved the information collection requirements of the depredation order?* OMB has approved the information collection and recordkeeping requirements of the depredation order under OMB control number 1018-0133. We may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. You may send comments on the information collection and recordkeeping requirements to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
 
-[71 FR 45988, Aug. 10, 2006, as amended at 72 FR 46408, Aug. 20, 2007; 79 FR 43966, July 29, 2014]
+[71 FR 45988, Aug. 10, 2006, as amended at 72 FR 46408, Aug. 20, 2007; 79 FR 43966, July 29, 2014; 84 FR 28773, June 20, 2019]

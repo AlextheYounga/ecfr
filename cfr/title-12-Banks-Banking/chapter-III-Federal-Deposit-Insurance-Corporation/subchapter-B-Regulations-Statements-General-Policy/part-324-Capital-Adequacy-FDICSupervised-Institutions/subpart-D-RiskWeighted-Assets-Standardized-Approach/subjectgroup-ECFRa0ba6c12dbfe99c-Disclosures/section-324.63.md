@@ -1,5 +1,7 @@
 ##### § 324.63 Disclosures by FDIC-supervised institutions described in § 324.61. #####
 
+Link to an amendment published at 84 FR 35278, July 22, 2019.
+
 (a) Except as provided in § 324.62, an FDIC-supervised institution described in § 324.61 must make the disclosures described in Tables 1 through 10 of this section. The FDIC-supervised institution must make these disclosures publicly available for each of the last three years (that is, twelve quarters) or such shorter period beginning on January 1, 2015.
 
 (b) An FDIC-supervised institution must publicly disclose each quarter the following:

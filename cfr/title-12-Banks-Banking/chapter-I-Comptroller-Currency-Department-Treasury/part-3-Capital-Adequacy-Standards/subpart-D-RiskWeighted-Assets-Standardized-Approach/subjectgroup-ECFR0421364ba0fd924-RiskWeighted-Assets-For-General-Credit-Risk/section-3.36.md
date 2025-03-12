@@ -1,5 +1,7 @@
 ##### § 3.36 Guarantees and credit derivatives: substitution treatment. #####
 
+Link to an amendment published at 84 FR 35255, July 22, 2019.
+
 (a) *Scope* - (1) *General.* A national bank or Federal savings association may recognize the credit risk mitigation benefits of an eligible guarantee or eligible credit derivative by substituting the risk weight associated with the protection provider for the risk weight assigned to an exposure, as provided under this section.
 
 (2) This section applies to exposures for which:

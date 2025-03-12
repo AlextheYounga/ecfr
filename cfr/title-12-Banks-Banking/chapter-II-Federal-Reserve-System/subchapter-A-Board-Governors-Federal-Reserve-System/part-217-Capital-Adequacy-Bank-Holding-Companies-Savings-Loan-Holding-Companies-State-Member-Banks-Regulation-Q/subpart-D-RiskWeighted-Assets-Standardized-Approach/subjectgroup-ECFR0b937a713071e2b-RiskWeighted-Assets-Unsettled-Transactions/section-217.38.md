@@ -1,5 +1,7 @@
 ##### § 217.38 Unsettled transactions. #####
 
+Link to an amendment published at 84 FR 35266, July 22, 2019.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) Delivery-versus-payment (DvP) transaction means a securities or commodities transaction in which the buyer is obligated to make payment only if the seller has made delivery of the securities or commodities and the seller is obligated to deliver the securities or commodities only if the buyer has made payment.

@@ -1,0 +1,3 @@
+##### 6106.603 Purpose [Rule 603]. #####
+
+Under the Stafford Act, the Board acts for the United States Government to resolve public assistance eligibility and repayment disputes by arbitration, a speedy and flexible method of impartial dispute resolution. Eligibility and repayment disputes come to the Board prior to final agency action by FEMA. An arbitration decision under these rules is the final action by the Executive Branch in a dispute. These rules facilitate the creation of an arbitration record sufficient to allow the Board to issue a prompt, just, and reasoned decision.

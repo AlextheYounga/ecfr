@@ -1,5 +1,7 @@
 ##### § 3555.104 Loan terms. #####
 
+Link to an amendment published at 84 FR 35006, July 22, 2019.
+
 (a) *Interest rate.* The loan must be written at an interest rate that:
 
 (1) Is fixed over the term of the loan;

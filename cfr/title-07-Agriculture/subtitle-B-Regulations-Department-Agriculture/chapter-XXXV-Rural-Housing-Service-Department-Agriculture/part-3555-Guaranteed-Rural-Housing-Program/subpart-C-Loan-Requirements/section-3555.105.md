@@ -1,5 +1,7 @@
 ##### § 3555.105 Combination construction and permanent loans. #####
 
+Link to an amendment published at 84 FR 35006, July 22, 2019.
+
 Guarantees of combination construction and permanent loans are subject to the following conditions:
 
 (a) *Lender requirements.* In addition to other lender requirements of this part, lenders seeking guarantees of combination construction and permanent loans must:
