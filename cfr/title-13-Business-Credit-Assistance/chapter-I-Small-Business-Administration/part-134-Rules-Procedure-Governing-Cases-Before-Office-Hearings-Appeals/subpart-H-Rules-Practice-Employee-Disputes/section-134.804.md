@@ -1,5 +1,7 @@
 ##### § 134.804 The appeal petition. #####
 
+Link to an amendment published at 82 FR 25507, June 2, 2017.
+
 (a) *Form.* There is no required format for an appeal petition. However, it must include the following:
 
 (1) A copy of the original Statement of Dispute;

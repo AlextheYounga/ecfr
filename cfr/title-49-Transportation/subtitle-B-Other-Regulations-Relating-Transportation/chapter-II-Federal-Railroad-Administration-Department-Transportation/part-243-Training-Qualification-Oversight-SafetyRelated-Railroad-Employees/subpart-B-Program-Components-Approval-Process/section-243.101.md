@@ -1,12 +1,10 @@
 ##### § 243.101 Employer program required. #####
 
-Link to an amendment published at 82 FR 20552, May 3, 2017.
+(a)(1) Effective January 1, 2019, each employer conducting operations subject to this part with 400,000 total employee work hours annually or more shall submit, adopt, and comply with a training program for its safety-related railroad employees.
 
-(a)(1) Effective January 1, 2018, each employer conducting operations subject to this part with 400,000 total employee work hours annually or more shall submit, adopt, and comply with a training program for its safety-related railroad employees.
+(2) Effective May 1, 2020, each employer conducting operations subject to this part with less than 400,000 total employee work hours annually shall submit, adopt, and comply with a training program for its safety-related railroad employees.
 
-(2) Effective January 1, 2019 or four years from the date of issuance of FRA's Interim Final Compliance Guide, whichever is later, each employer conducting operations subject to this part with less than 400,000 total employee work hours annually shall submit, adopt, and comply with a training program for its safety-related railroad employees.
-
-(b) Except for an employer subject to the requirement in paragraph (a)(2) of this section, an employer commencing operations subject to this part after January 1, 2018 shall submit a training program for its safety-related railroad employees prior to commencing operations. Upon commencing operations, the employer shall adopt and comply with the training program.
+(b) Except for an employer subject to the requirement in paragraph (a)(2) of this section, an employer commencing operations subject to this part after January 1, 2019, shall submit a training program for its safety-related railroad employees before commencing operations. Upon commencing operations, the employer shall adopt and comply with the training program.
 
 (c) In the program required by this part, the employer shall:
 
@@ -37,3 +35,5 @@ Link to an amendment published at 82 FR 20552, May 3, 2017.
 (e) Contractor's responsibility to validate approved program to a railroad: A contractor that chooses to train its own safety-related railroad employees shall provide each railroad that utilizes it with a document indicating that the contractor's program of training was approved by FRA. A contractor is being utilized by a railroad when any of the contractor's employees conduct safety-related duties on behalf of the railroad and the railroad does not otherwise qualify those employees of the contractor that are allowed to perform those duties.
 
 (f) Railroad's responsibility to retain contractor's validation of program: A railroad that chooses to utilize contractor employees to perform safety-related duties and relies on contractor-provided training as the basis for those employees' qualification to perform those duties shall retain a document from the contractor indicating that the contractor's program was approved by FRA. A copy of the document required in paragraph (e) of this section satisfies this requirement.
+
+[79 FR 66501, Nov. 7, 2014, as amended at 82 FR 20552, May 3, 2017]

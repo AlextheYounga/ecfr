@@ -1,7 +1,5 @@
 ##### § 447.299 Reporting requirements. #####
 
-Link to an amendment published at 82 FR 16122, Apr. 3, 2017.
-
 (a) Beginning with the first quarter of Federal fiscal year 1993, each State must submit to CMS the quarterly aggregate amount of its disproportionate share hospital payments made to each individual public and private provider or facility. States' reports must present a complete, accurate, and full disclosure of all of their DSH programs and expenditures.
 
 (b) Each State must report the aggregate information specified under paragraph (a) of this section on a quarterly basis in accordance with procedures established by CMS.
@@ -26,7 +24,11 @@ Link to an amendment published at 82 FR 16122, Apr. 3, 2017.
 
 (9) *Total Medicaid IP/OP Payments.* Provide the total sum of items identified in § 447.299(c)(6), (7) and (8).
 
-(10) *Total Cost of Care for Medicaid IP/OP Services.* The total annual costs incurred by each hospital for furnishing inpatient hospital and outpatient hospital services to Medicaid eligible individuals.
+(10) *Total Cost of Care for Medicaid IP/OP Services.* The total annual costs incurred by each hospital for furnishing inpatient hospital and outpatient hospital services to Medicaid eligible individuals. The total annual costs are determined on a hospital-specific basis, not a service-specific basis. For purposes of this section, costs -
+
+(i) Are defined as costs net of third-party payments, including, but not limited to, payments by Medicare and private insurance.
+
+(ii) Must capture the total burden on the hospital of treating Medicaid eligible patients prior to payment by Medicaid. Thus, costs must be determined in the aggregate and not by estimating the cost of individual patients. For example, if a hospital treats two Medicaid eligible patients at a cost of $2,000 and receives a $500 payment from a third party for each individual, the total cost to the hospital for purposes of this section is $1,000, regardless of whether the third party payment received for one patient exceeds the cost of providing the service to that individual.
 
 (11) *Total Medicaid Uncompensated Care.* The total amount of uncompensated care attributable to Medicaid inpatient and outpatient services. The amount should be the result of subtracting the amount identified in § 447.299(c)(9) from the amount identified in § 447.299(c)(10). The uncompensated care costs of providing Medicaid physician services cannot be included in this amount.
 
@@ -62,4 +64,4 @@ Link to an amendment published at 82 FR 16122, Apr. 3, 2017.
 
 (e) If a State fails to comply with the reporting requirements contained in this section, future grant awards will be reduced by the amount of FFP CMS estimates is attributable to the expenditures made to the disproportionate share hospitals as to which the State has not reported properly, until such time as the State complies with the reporting requirements. Deferrals and/or disallowances of equivalent amounts may also be imposed with respect to quarters for which the State has failed to report properly. Unless otherwise prohibited by law, FFP for those expenditures will be released when the State complies with all reporting requirements.
 
-[46 FR 47971, Sept. 30, 1981, as amended at 73 FR 77950, Dec. 19, 2008; 74 FR 18657, Apr. 24, 2009; 77 FR 31512, May 29, 2012; 78 FR 57313, Sept. 18, 2013]
+[46 FR 47971, Sept. 30, 1981, as amended at 73 FR 77950, Dec. 19, 2008; 74 FR 18657, Apr. 24, 2009; 77 FR 31512, May 29, 2012; 78 FR 57313, Sept. 18, 2013; 82 FR 16122, Apr. 3, 2017]

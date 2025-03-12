@@ -1,5 +1,7 @@
 ##### § 1.774 Pricing flexibility. #####
 
+Link to an amendment published at 82 FR 25711, June 2, 2017.
+
 (a) *Petitions.* (1) A petition seeking pricing flexibility for specific services pursuant to part 69, subpart H, of this chapter, with respect to a metropolitan statistical area (MSA), as defined in § 22.909(a) of this chapter, or the non-MSA parts of a study area, must show that the price cap LEC has met the relevant thresholds set forth in part 69, subpart H, of this chapter.
 
 (2) The petition must make a separate showing for each MSA for which the petitioner seeks pricing flexibility, and for the portion of the study area that falls outside any MSA.

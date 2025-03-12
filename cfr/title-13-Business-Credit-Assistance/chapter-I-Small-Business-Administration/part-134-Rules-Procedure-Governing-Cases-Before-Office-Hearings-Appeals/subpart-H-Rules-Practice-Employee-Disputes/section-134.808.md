@@ -1,5 +1,7 @@
 ##### § 134.808 The decision. #####
 
+Link to an amendment published at 82 FR 25507, June 2, 2017.
+
 (a) The Judge will decide the appeal within 45 calendar days (if practicable) from close of record. The decision will affirm, modify, remand, or reverse the AMO's decision.
 
 (b) The standard of review and burden of proof will be determined by the specific issue presented.

@@ -1,5 +1,7 @@
 ##### § 0.291 Authority delegated. #####
 
+Link to an amendment published at 82 FR 25771, June 2, 2017.
+
 The Chief, Wireline Competition Bureau, is hereby delegated authority to perform all functions of the Bureau, described in § 0.91, subject to the following exceptions and limitations.
 
 (a) *Authority concerning applications.* (1) The Chief, Wireline Competition Bureau shall not have authority to act on any formal or informal common carrier applications or section 214 applications for common carrier services which are in hearing status.

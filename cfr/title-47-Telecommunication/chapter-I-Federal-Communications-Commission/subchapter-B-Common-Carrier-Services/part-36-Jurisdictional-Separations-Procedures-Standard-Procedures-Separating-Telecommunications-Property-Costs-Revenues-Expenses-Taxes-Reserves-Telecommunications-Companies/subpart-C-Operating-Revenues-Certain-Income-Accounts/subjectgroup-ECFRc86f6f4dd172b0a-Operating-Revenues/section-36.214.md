@@ -1,6 +1,6 @@
 ##### § 36.214 Long distance message revenue - Account 5100. #####
 
-(a) Wideband message service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through June 30, 2017, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
+(a) Wideband message service revenues from monthly and miscellaneous charges, service connections, move and change charges, are apportioned between state and interstate operations on the basis of the relative number of minutes-of-use in the study area. Effective July 1, 2001, through December 30, 2018, all study areas shall apportion Wideband Message Service revenues among the jurisdictions using the relative number of minutes of use for the twelve-month period ending December 31, 2000.
 
 (b) Long Distance private line service revenues from broadcast program transmission audio services and broadcast program transmission video services are assigned to the interstate operation.
 

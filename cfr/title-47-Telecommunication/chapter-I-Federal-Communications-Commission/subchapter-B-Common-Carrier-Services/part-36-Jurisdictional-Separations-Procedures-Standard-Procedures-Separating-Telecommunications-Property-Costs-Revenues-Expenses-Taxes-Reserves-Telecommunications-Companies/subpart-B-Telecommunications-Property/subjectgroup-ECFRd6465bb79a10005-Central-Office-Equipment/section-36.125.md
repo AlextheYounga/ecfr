@@ -27,9 +27,9 @@
 
 (g) For purposes of this section, an access line is a line that does not include WATS access lines, special access lines or private lines.
 
-(h) Effective July 1, 2001, through June 30, 2017, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balances of Accounts 2210, 2211, and 2212 to Category 3, Local Switching Equipment, based on the relative percentage assignment of the average balances of Account 2210, 2211, 2212 and 2215 to Category 3, during the twelve month period ending December 31, 2000.
+(h) Effective July 1, 2001, through December 30, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balances of Accounts 2210, 2211, and 2212 to Category 3, Local Switching Equipment, based on the relative percentage assignment of the average balances of Account 2210, 2211, 2212 and 2215 to Category 3, during the twelve month period ending December 31, 2000.
 
-(i) Effective July 1, 2001, through June 30, 2017, all study areas shall apportion costs in Category 3, Local Switching Equipment, among the jurisdictions using relative dial equipment minutes of use for the twelve month period ending December 31, 2000.
+(i) Effective July 1, 2001, through December 30, 2018, all study areas shall apportion costs in Category 3, Local Switching Equipment, among the jurisdictions using relative dial equipment minutes of use for the twelve month period ending December 31, 2000.
 
 (j) If the number of a study area's access lines increases such that, under paragraph (f) of this section, the weighted interstate DEM factor for 1997 or any successive year would be reduced, that lowered weighted interstate DEM factor shall be applied to the study area's 1996 unweighted interstate DEM factor to derive a new local switching support factor. If the number of a study area's access lines decreases or has decreased such that, under paragraph (f) of this section, the weighted interstate DEM factor for 2010 or any successive year would be raised, that higher weighted interstate DEM factor shall be applied to the study area's 1996 unweighted interstate DEM factor to derive a new local switching support factor.
 

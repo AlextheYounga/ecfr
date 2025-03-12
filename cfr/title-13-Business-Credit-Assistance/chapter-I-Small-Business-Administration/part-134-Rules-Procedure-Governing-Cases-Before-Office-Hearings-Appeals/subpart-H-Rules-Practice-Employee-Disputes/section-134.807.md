@@ -1,5 +1,7 @@
 ##### § 134.807 SBA response. #####
 
+Link to an amendment published at 82 FR 25507, June 2, 2017.
+
 (a) If the appeal goes to adjudication, SBA will file and serve the SBA's response to the appeal and a copy of the Dispute File.
 
 (b) Unless the Judge orders a different date (either on his or her own initiative or on motion by a party), the SBA must file any response to the appeal petition no later than 15 days from the conclusion of mediation or 45 days from the filing of the appeal petition, whichever is later.

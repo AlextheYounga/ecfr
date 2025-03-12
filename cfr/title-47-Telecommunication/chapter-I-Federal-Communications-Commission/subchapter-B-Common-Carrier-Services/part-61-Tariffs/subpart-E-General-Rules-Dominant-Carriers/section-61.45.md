@@ -1,5 +1,7 @@
 ##### § 61.45 Adjustments to the PCI for Local Exchange Carriers. #####
 
+Link to an amendment published at 82 FR 25711, June 2, 2017.
+
 (a) Price cap local exchange carriers shall file adjustments to the PCI for each basket as part of the annual price cap tariff filing, and shall maintain updated PCIs to reflect the effect of mid-year exogenous cost changes.
 
 (b)(1)(i) Adjustments to price cap local exchange carrier PCIs, in those carriers' annual access tariff filings, the traffic sensitive basket described in § 61.42(d)(2), the trunking basket described in § 61.42(d)(3), the special access basket described in § 61.42(d)(5) and the Interexchange Basket described in § 61.42(d)(4)(i), shall be made pursuant to the following formula:

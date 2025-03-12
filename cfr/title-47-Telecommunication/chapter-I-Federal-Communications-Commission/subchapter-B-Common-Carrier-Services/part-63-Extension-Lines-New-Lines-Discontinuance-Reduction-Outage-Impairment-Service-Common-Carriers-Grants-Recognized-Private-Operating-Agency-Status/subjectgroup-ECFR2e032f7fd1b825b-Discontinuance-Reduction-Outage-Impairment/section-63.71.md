@@ -1,5 +1,7 @@
 ##### § 63.71 Procedures for discontinuance, reduction or impairment of service by domestic carriers. #####
 
+Link to an amendment published at 82 FR 25711, June 2, 2017.
+
 Any domestic carrier that seeks to discontinue, reduce or impair service shall be subject to the following procedures:
 
 (a) The carrier shall notify all affected customers of the planned discontinuance, reduction, or impairment of service and shall notify and submit a copy of its application to the public utility commission and to the Governor of the State in which the discontinuance, reduction, or impairment of service is proposed; to any federally-recognized Tribal Nations with authority over the Tribal lands in which the discontinuance, reduction, or impairment of service is proposed; and also to the Secretary of Defense, Attn. Special Assistant for Telecommunications, Pentagon, Washington, DC 20301. Notice shall be in writing to each affected customer unless the Commission authorizes in advance, for good cause shown, another form of notice. For purposes of this section, notice by email constitutes notice in writing. Notice shall include the following:

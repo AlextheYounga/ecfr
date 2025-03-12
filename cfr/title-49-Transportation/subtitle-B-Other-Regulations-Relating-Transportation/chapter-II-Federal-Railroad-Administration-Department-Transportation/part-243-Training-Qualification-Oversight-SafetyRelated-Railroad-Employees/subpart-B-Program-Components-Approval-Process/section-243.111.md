@@ -1,10 +1,8 @@
 ##### § 243.111 Approval of programs filed by training organizations or learning institutions. #####
 
-Link to an amendment published at 82 FR 20553, May 3, 2017.
-
 (a) A training organization or learning institution that provides training services for safety-related railroad employees, including providing such training services to independent students who enroll with such training organization or learning institution and who will rely on the training services provided to qualify to become safety-related railroad employees, must submit its program to FRA for review and approval.
 
-(b) A training organization or learning institution that has provided training services to employers covered by this part prior to January 1, 2017 may continue to offer such training services without FRA approval until January 1, 2018. The Associate Administrator may extend this period at any time based on a written request. Such written requests for an extension of time to submit a program should contain any factors the training organization or learning institution wants the Associate Administrator to consider prior to approving or disapproving the extension.
+(b) A training organization or learning institution that has provided training services to employers covered by this part before January 1, 2018, may continue to offer such training services without FRA approval until January 1, 2019. The Associate Administrator may extend this period at any time based on a written request. Such written requests for an extension of time to submit a program should contain any factors the training organization or learning institution wants the Associate Administrator to consider before approving or disapproving the extension.
 
 (c) A program submitted by a training organization or learning institution must include all information required for an employer's program in accordance with this part, unless the requirement could only apply to an employer's program. The submitted program for a training organization or learning institution must also include the following information:
 
@@ -37,3 +35,5 @@ Link to an amendment published at 82 FR 20553, May 3, 2017.
 (g) Training organizations and learning institutions subject to this part are required to maintain records for each safety-related railroad employee that attends the training, in accordance with the recordkeeping requirements of this part.
 
 (h) Training organizations and learning institutions subject to this part shall provide a student's training transcript or training record to any employer upon request by the student.
+
+[79 FR 66501, Nov. 7, 2014, as amended at 82 FR 20553, May 3, 2017]

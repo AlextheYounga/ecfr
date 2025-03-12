@@ -1,5 +1,7 @@
 ##### § 134.227 Finality of decisions. #####
 
+Link to an amendment published at 82 FR 25507, June 2, 2017.
+
 (a) *Initial decisions.* Except as otherwise provided in paragraph (b) of this section, a decision by the Judge on the merits is an initial decision. However, unless a request for review is filed pursuant to § 134.228(a), or a request for reconsideration is filed pursuant to paragraph (c) of this section, an initial decision shall become the final decision of the SBA 30 days after its service.
 
 (b) *Final decisions.* A decision by the Judge on the merits shall be a final decision in the following proceedings:
