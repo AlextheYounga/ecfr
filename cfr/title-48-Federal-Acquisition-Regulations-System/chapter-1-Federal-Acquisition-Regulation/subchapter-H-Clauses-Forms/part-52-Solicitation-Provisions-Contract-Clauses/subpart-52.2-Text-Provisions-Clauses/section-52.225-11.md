@@ -1,5 +1,7 @@
 ##### 52.225-11 Buy American - Construction Materials Under Trade Agreements. #####
 
+Link to an amendment published at 84 FR 47868, September 10, 2019.
+
 As prescribed in 25.1102(c), insert the following clause:
 
 Buy American - Construction Materials Under Trade Agreements (OCT 2016)

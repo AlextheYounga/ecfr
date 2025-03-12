@@ -1,0 +1,5 @@
+##### § 32.9 Information collection requirements. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1018-0140. The information is being collected to provide the refuge managers the information needed to decide whether or not to allow the requested use. A response is required in order to obtain a benefit. The Service may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. Direct comments regarding the burden estimate or any other aspect of these information collection requirements to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
+
+[84 FR 47675, Sept. 10, 2019]

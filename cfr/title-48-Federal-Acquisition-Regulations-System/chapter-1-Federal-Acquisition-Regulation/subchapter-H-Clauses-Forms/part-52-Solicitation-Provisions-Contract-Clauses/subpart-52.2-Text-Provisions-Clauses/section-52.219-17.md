@@ -1,5 +1,7 @@
 ##### 52.219-17 Section 8(a) Award. #####
 
+Link to an amendment published at 84 FR 47864, September 10, 2019.
+
 As prescribed in 19.811-3(c), insert the following clause:
 
 Section 8(a) Award (JAN 2017)

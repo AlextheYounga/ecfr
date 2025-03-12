@@ -1,5 +1,7 @@
 ##### 52.219-12 Special 8(a) Subcontract Conditions. #####
 
+Link to an amendment published at 84 FR 47864, September 10, 2019.
+
 As prescribed in 19.811-3(b), insert the following clause:
 
 Special 8(a) Subcontract Conditions (JAN 2017)

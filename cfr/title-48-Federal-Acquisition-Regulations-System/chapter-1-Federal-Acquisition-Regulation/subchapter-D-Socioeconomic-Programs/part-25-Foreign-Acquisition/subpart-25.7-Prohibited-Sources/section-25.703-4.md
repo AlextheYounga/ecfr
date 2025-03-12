@@ -1,5 +1,7 @@
 ##### 25.703-4 Waiver. #####
 
+Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
+
 (a) An agency or contractor seeking a waiver of the requirements of 25.703-2 or 25.703-3, consistent with section 6(b)(5) of the Iran Sanctions Act or 22 U.S.C. 8551(b), respectively, and the Presidential Memorandum of September 23, 2010 (75 FR 67025), shall submit the request to the Office of Federal Procurement Policy, allowing sufficient time for review and approval.
 
 (b) Agencies may request a waiver on an individual or class basis; however, waivers are not indefinite and can be cancelled, if warranted.

@@ -1,272 +1,331 @@
-##### § 32.66 Virginia. #####
+##### § 32.66 Washington. #####
 
-The following refuge units have been opened for hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Back Bay National Wildlife Refuge
+(a) *Billy Frank Jr. Nisqually National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(i) We allow hunters to possess and carry no more than 25 shells while hunting in the field.
 
-*B. Upland Game Hunting.* [Reserved]
+(ii) Hunters may access the hunt areas by boat only.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and feral hogs on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(2)-(3) [Reserved]
 
-1. We prohibit use of dogs.
+(4) *Sport fishing.* We allow fishing and shellfishing on designated areas of the refuge subject to the following conditions:
 
-2. We allow scouting on designated days prior to the start of each refuge hunt period. Hunters may enter the hunt zones on foot, on bicycle, or through transportation provided by the refuge only.
+(i) We prohibit bank fishing within the refuge along the Nisqually River and McAllister Creek.
 
-3. Hunters may go to Hunt Zone 1 (Long Island) only by hand-launched watercraft (canoe, punt, rowboat, and similar watercraft) from the canoe launch at refuge headquarters. We prohibit use of trailers.
+(ii) We prohibit shellfishing (clams, oysters, mussels) on the tideflats.
 
-4. We prohibit hunting or discharging of firearms within designated Safety Zones. We prohibit retrieval of wounded game from a “No Hunting Area” or “Safety Zone” without the consent of the refuge employee on duty at the check station.
+(iii) We prohibit tidal flat and marsh access from refuge trails.
 
-5. We prohibit use of tree stands, except on Long Island (Hunt Zone 1).
+(b) *Columbia National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
-*D. Sport Fishing.* We allow fishing, noncommercial crabbing, and clamming on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-1. We close all areas within the hunting zones, as well as the oceanfront, to fishing, crabbing, and clamming during the annual refuge white-tailed deer and feral hog hunt.
+(ii) We only allow portable blinds and temporary blinds constructed of nonliving natural materials. Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-2. You may surf fish, crab, and clam south of the refuge's beach access ramp. We allow night surf fishing by Special Use Permit (FWS Form 3-1383-G) in this area in accordance with dates and times designated on the permit.
+(iii) We allow hunting only on Wednesdays, Saturdays, Sundays, and Federal holidays on Marsh Unit 1 and Farm Units 226 and 227.
 
-3. For sport fishing in D Pool:
+(2) *Upland game hunting.* We allow hunting of upland game birds on designated areas of the refuge subject to the following conditions:
 
-i. We only allow fishing from the docks or banks in D Pool. We prohibit boats, canoes, or kayaks on D Pool and all other refuge pools and impoundments.
+(i) The condition set forth at paragraph (b)(1)(i) of this section applies.
 
-ii. We prohibit live minnows or other live bait fish.
+(ii) We allow hunting from 12 p.m. (noon) to legal sunset on Wednesdays, Saturdays, Sundays, and Federal holidays in Marsh Unit 1.
 
-iii. We prohibit hooks other than barbless or flattened.
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
 
-iv. You must catch and release all freshwater game fish. The daily creel limit for D Pool for other species is a maximum combination of any 10 nongame fish.
+(i) The condition set forth at paragraph (b)(1)(i) of this section applies.
 
-v. Parking for nonambulatory visitors only is available adjacent to the dock at D Pool.
+(ii) We allow hunting with shotgun, muzzleloader, and archery only.
 
-Chincoteague National Wildlife Refuge
+(4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* We allow hunting of waterfowl (as defined by the Virginia Waterfowl Hunting Guide) and rail on designated areas of the refuge within Wildcat Marsh, Morris Island, Assawoman Island, and Metompkin Island Divisions in accordance with State regulations and subject to the following conditions:
+(i) On waters open to fishing, we allow fishing only from April 1 to September 30, except that we allow fishing year-round on Falcon, Heron, Goldeneye, Corral, Blythe, Chukar, and Scaup Lakes.
 
-1. You must obtain a Refuge Migratory Game Bird Hunt Permit (Migratory Bird Hunt Application, FWS Form 3-2357) and maintain the permit on your person while hunting on the refuge.
+(ii) We allow frogging during periods when we allow fishing on designated waters.
 
-2. You may only access hunting areas by boat.
+(c) *Conboy Lake National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
 
-3. We prohibit hunting on Assawoman and Metompkin Islands' beach and dune habitats beginning March 15.
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-*B. Upland Game Hunting.* [Reserved]
+(ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and sika with archery tackle and firearms in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(2) [Reserved]
 
-1. We allow holders of a refuge hunt permit (Quota Deer Hunt Application, FWS Form 3-2354) to access areas of the refuge typically closed to the nonhunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception to exist for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions: The condition set forth at paragraph (c)(1)(i) of this section applies.
 
-2. You may not hunt within 100 feet (30.5 meters) of any building.
+(4) [Reserved]
 
-3. We prohibit deer drives. We define a “drive” as four or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
+(d) *Dungeness National Wildlife Refuge.* (1)-(3) [Reserved]
 
-4. You may not hunt, discharge a firearm, or nock an arrow or crossbow bolt within 50 feet (15.2 meters) of the centerline of any road, whether improved or unimproved, or paved trail.
+(4) *Sport fishing.* We allow saltwater fishing on designated areas of the refuge.
 
-*D. Sport Fishing.* We allow sport fishing, crabbing, and clamming from the shoreline of the refuge in designated areas of Tom's Cove, Swan's Cove, and the Atlantic Ocean in accordance with State regulations and subject to the following conditions:
+(e) *Hanford Reach National Monument/Saddle Mountain National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the monument/refuge subject to the following conditions:
 
-1. You may not wade or launch a vessel in Swan's Cove Impoundment.
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-2. You must attend minnow traps, crab traps, crab pots, and handlines at all times.
+(ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-3. We prohibit the use of seine nets and pneumatic (compressed air or otherwise) bait launchers.
+(2) *Upland game hunting.* We allow hunting of pheasant, quail, grey partridge, and chukar partridge on designated areas of the monument/refuge subject to the following conditions: The conditions set forth at paragraphs (e)(1)(i) and (ii) of this section apply.
 
-4. The State regulates certain species of finfish, shellfish, and crustacean (crab) using size or possession limits. You may not alter these species, to include cleaning or filleting, in such a way that we cannot determine its species or total length.
+(3) *Big game hunting.* We allow hunting of deer and elk on designated areas of the monument/refuge subject to the following conditions:
 
-5. In order to fish after the refuge closes, anglers must obtain an overnight fishing pass (name/address/phone) issued by the National Park Service. Anglers can obtain a pass in person at the National Park Service Tom's Cove Visitor Center.
+(i) We allow sport hunting of deer and elk on the Saddle Mountain, Ringold, and Wahluke (East) units of the monument/refuge subject to the following conditions:
 
-6. We allow only three surf fishing poles per licensed angler, and those poles must be attended at all times. This includes persons age 65 or older who are license-exempt in Virginia.
+(A) The condition set forth at paragraph (e)(1)(i) of this section applies.
 
-Eastern Shore of Virginia National Wildlife Refuge
+(B) We allow hunting with shotgun, muzzleloader, and archery only.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(ii) We allow population control hunting of elk on the Rattlesnake Unit of the monument/refuge subject to the following conditions:
 
-*B. Upland Game Hunting.* [Reserved]
+(A) We prohibit overnight camping, overnight parking, and smoking.
 
-*C. Big Game Hunting.* We allow archery and shotgun hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(B) We require elk population control hunters to participate in a Service-directed, hunt-specific training session each year prior to hunting. Hunters must check-in and out at a refuge check station and fill out and display the Self-Clearing check-In Permit (Form 3-2405) on the dashboards of their vehicles.
 
-1. We allow holders of a refuge hunt permit (Quota Deer Hunt Application, FWS Form 3-2354) to access areas of the refuge typically closed to the nonhunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception to exist for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
+(C) We allow hunting with modern firearms only.
 
-2. You must sign in before entering the hunt zones and sign out upon leaving the zone.
+(D) We allow authorized vehicles only on designated roads and only in designated parking areas.
 
-3. We prohibit deer drives. We define a “drive” as four or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
+(E) We prohibit the use of bicycles and carts.
 
-4. We prohibit nocked arrows or loaded firearms outside of the designated hunting areas.
+(F) We allow hunting Monday through Friday only.
 
-5. We only allow shotguns loaded with buckshot during the firearm season.
+(G) All hunt assistants must check-in and out at a refuge check station and be under the supervision of the permitted hunter at all times. All hunt assistants must fill out and display the Self-Clearing check-In Permit (Form 3-2405) on the dashboards of their vehicles.
 
-*D. Sport Fishing.* [Reserved]
+(H) We allow foot access only beyond designated roads and parking areas.
 
-Great Dismal Swamp National Wildlife Refuge
+(I) We prohibit retrieval of animals outside the hunt area without prior Service approval.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(4) *Sport fishing.* We allow sport fishing on the designated areas of the monument/refuge subject to the following condition: We allow access from legal sunrise to legal sunset, except that we allow access to the Wahluke Unit's White Bluffs boat launch from 2 hours before legal sunrise until 2 hours after legal sunset for launch and recovery activities only.
 
-*B. Upland Game Hunting.* [Reserved]
+(f) *Julia Butler Hansen Refuge for the Columbian White-Tailed Deer* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and common snipe on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and bear on designated areas of the refuge in accordance with State regulations and subject to the following condition: You must possess and carry a refuge permit.
+(i) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
 
-*D. Sport Fishing.* We allow fishing in designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(ii) We open the refuge for hunting access from 11/2 hours before legal sunrise until 11/2 hours after legal sunset.
 
-1. We allow fishing in Lake Drummond from a boat and from the piers at Washington Ditch and Interior Ditch.
+(iii) We allow the use of dogs when hunting.
 
-2. We prohibit bank fishing.
+(2) [Reserved]
 
-3. We require permits for vehicular access to the boat ramp on Interior Ditch Road on the west side of Lake Drummond.
+(3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge subject to the following conditions:
 
-James River National Wildlife Refuge
+(i) We allow hunting on Mondays through Fridays only. We close the refuge to hunting on weekends and Federal holidays.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(ii) We allow a maximum of 10 hunters to use the refuge in any one day, with one hunt period consisting of 5 consecutive days.
 
-*B. Upland Game Hunting.* [Reserved]
+(iii) We allow hunting of elk using muzzleloading firearms only.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(iv) We require hunters to attend a refuge-specific orientation session each year prior to hunting on the refuge.
 
-1. We require hunters to possess and carry a refuge hunting permit.
+(v) We require hunters to sign in and out each day at the refuge headquarters. When signing out for the day, you must report hunting success or failure, and any hit-but-not-retrieved animals on the Big Game Harvest Report (FWS Form 3-2359).
 
-2. We require persons who wish to hunt during the refuge's archery season to obtain a refuge hunting permit through a lottery administered by the Virginia Department of Game and Inland Fisheries. We notify successful applicants by mail or email, and if we receive the hunting fee by the date identified in the mailing, we mail refuge hunting permits to successful applicants.
+(vi) Additional persons may assist hunters during elk retrieval only. No more than one unlicensed person may assist each licensed hunter during the hunt or during elk retrieval.
 
-3. We prohibit dogs.
+(vii) We prohibit hunters from operating motorized vehicles on the refuge.
 
-4. We require that hunters during firearms and muzzleloader seasons remain within 100 feet (30 meters) of their assigned stand while hunting.
+(4) *Sport fishing.* We allow bank fishing on designated areas of the refuge.
 
-5. We require that hunters using a muzzleloader must hunt from a stand elevated 10 feet (3 meters) or more above the ground.
+(g) *Little Pend Oreille National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-*D. Sport Fishing.* [Reserved]
+(i) We allow hunting September through December.
 
-Mackay Island National Wildlife Refuge
+(ii) We allow the use of dogs when hunting.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(2) *Upland game hunting.* We allow hunting of upland game and small game on designated areas of the refuge subject to the following conditions:
 
-*B. Upland Game Hunting.* [Reserved]
+(i) We allow hunting September through December, and during the spring wild turkey season.
 
-*C. Big Game Hunting.* We allow hunting of deer on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(ii) During the spring turkey season, we prohibit hunting of all species except wild turkey.
 
-1. Hunters must sign and carry a Refuge Deer Hunting Permit while hunting on the refuge.
+(iii) We allow the use of dogs when hunting, with the exception of raccoon.
 
-2. We allow the use of shotguns, muzzleloading rifles/shotguns, and bows. We prohibit the use of all other rifles and pistols.
+(3) *Big Game Hunting.* We allow hunting of big game on designated areas of the refuge subject to the following conditions: The condition set forth at paragraph (g)(1)(i) of this section applies.
 
-3. We allow access to hunting areas from 5 a.m. until 8 p.m.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-4. We prohibit marking of trees or vegetation (*see* § 27.51 of this chapter) with blazes, flagging, or other marking devices.
+(h) *McNary National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-1. We allow fishing only from sunrise to sunset from March 15 through October 15.
+(ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-2. You must attend all fishing lines.
+(iii) On the McNary Fee Hunt Area (McNary Headquarters Unit), we allow hunting subject to the following conditions:
 
-3. We do not allow airboats.
+(A) The McNary Fee Hunt Area (McNary Headquarters Unit) is only open on Wednesdays, Saturdays, Sundays, Thanksgiving Day, and New Year's Day.
 
-Mason Neck National Wildlife Refuge
+(B) We require hunters to possess and carry a special refuge permit (signed refuge brochure).
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(C) We allow hunting only from assigned areas.
 
-*B. Upland Game Hunting.* [Reserved]
+(iv) On the Peninsula Unit, we allow hunting subject to the following condition: On the east shoreline of the Peninsula Unit, we allow hunting only from established numbered blind sites, assigned on a first-come, first-served basis, and we require hunters to remain within 100 feet (30 meters) of marked posts unless retrieving birds or setting decoys.
 
-*C. Big Game Hunting.* We allow hunting of deer on designated areas of the refuge in accordance with State and County regulations subject to the following conditions:
+(2) *Upland game hunting.* We allow hunting of upland game birds on designated areas of the refuge subject to the following conditions:
 
-1. You must possess and carry a refuge permit.
+(i) The condition set forth at paragraph (h)(1)(i) of this section applies.
 
-2. Hunters must certify/qualify weapons and ammunition and view the orientation session online prior to issuance of a permit. Consult the refuge office or website for certification and orientation information and procedures.
+(ii) On the McNary Fee Hunt Area (McNary Headquarters Unit), we allow hunting on Wednesdays, Saturdays, Sundays, Thanksgiving Day, and New Year's Day from 12 p.m. (noon) to the end of State legal hunting hours.
 
-*D. Sport Fishing.* [Reserved]
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
 
-Occoquan Bay National Wildlife Refuge
+(i) The condition set forth at paragraph (h)(1)(i) of this section applies.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(ii) On the Stateline and Juniper Canyon Units, we allow hunting with modern firearms, shotgun, muzzleloader, and archery.
 
-*B. Upland Game Hunting.* [Reserved]
+(iii) On the Peninsula, Two-Rivers, and Wallula Units, we allow hunting with archery and shotgun only.
 
-*C. Big Game Hunting.* We allow hunting of deer on designated areas of the refuge in accordance with State and County regulations, and subject to the following conditions:
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-1. You must possess and carry a refuge permit.
+(i) *Ridgefield National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
-2. We select hunters by lottery. Consult the refuge office or website for application information and procedures.
+(i) You may not shoot or discharge any firearm from, across, or along any designated route of travel, including pedestrian trails.
 
-3. Hunters must certify/qualify weapons and ammunition and view an orientation session online prior to issuance of a permit. Consult the refuge office or website for certification and orientation information and procedures.
+(ii) We close the refuge to goose hunting when the dusky Canada goose harvest reaches the quota posted at the refuge.
 
-*D. Sport Fishing.* [Reserved]
+(iii) We allow hunting on designated portions of the River “S” Unit on Tuesdays, Thursdays, and Saturdays, excluding Federal holidays, during the regular State waterfowl hunting season.
 
-Plum Tree Island National Wildlife Refuge
+(iv) Prior to entering the hunt area, you must check in at the refuge check station, and obtain a Migratory Bird Hunt Report (FWS Form 3-2361). You must carry the Migratory Bird Hunt Report while hunting as proof of blind assignment and user fee payment.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of migratory waterfowl, gallinule, and coot on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(v) We allow access to the refuge check station 2 hours before legal shooting time. We require hunters to depart the refuge no later than 1 hour after legal shooting time.
 
-1. We require hunters to possess and carry a refuge hunting permit (see condition A2) along with their State hunting license and stamps, while hunting migratory game birds on the refuge. We open the Cow Island unit of the refuge only to migratory game bird hunting. We close all other areas of the refuge to public entry.
+(vi) We allow hunting only from designated permanent blinds.
 
-2. We require migratory game bird hunters to obtain a permit through a lottery administered by the Virginia Department of Game and Inland Fisheries. We mail permits to successful applicants.
+(vii) We allow a maximum of three persons per hunting blind.
 
-3. We prohibit jump-shooting by foot or boat. All hunting must take place from a blind as determined by the hunting permit.
+(viii) We prohibit additional hunters to join a hunt party after the party has checked in.
 
-*B. Upland Game Hunting.* [Reserved]
+(ix) We allow the use of dogs when hunting.
 
-*C. Big Game Hunting.* [Reserved]
+(x) Prior to switching blinds, you must first report to the refuge check station to obtain a new blind assignment. You must submit an accurate Migratory Bird Hunt Report (FWS Form 3-2361) for the blind being vacated, and obtain a new Migratory Bird Hunt Report for the new blind.
 
-*D. Sport Fishing.* [Reserved]
+(xi) Prior to leaving the hunt area, you must check out at the refuge check station, submit an accurate Migratory Bird Hunt Report (FWS Form 3-2361), and present all harvested birds for inspection by check station personnel.
 
-Presquile National Wildlife Refuge
+(xii) We reserve Blind 1A for exclusive use by hunters with permanent disabilities who qualify for a valid State Disabled Hunter Permit or America the Beautiful access pass, and their nonhunting assistants.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(2)-(3) [Reserved]
 
-*B. Upland Game Hunting.* [Reserved]
+(4) *Sport fishing.* We allow sport fishing and frogging on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(i) We allow fishing and frogging from March 1 through September 30 only.
 
-1. We require big game hunters to obtain a permit through a lottery administered by the Virginia Department of Game and Inland Fisheries. We require a fee to obtain a refuge hunting permit. We will notify successful applicants by mail or email, and if we receive the hunting fee by the date identified in the mailing, we will mail refuge hunting permits to successful applicants.
+(ii) We allow fishing and frogging from legal sunrise to legal sunset only.
 
-2. We prohibit the use of “deer drives,” defined as individual or group efforts intended to “push” or “jump” deer for the purposes of hunting.
+(j) *San Juan Islands National Wildlife Refuge.* (1)-(3) [Reserved]
 
-3. We allow shotgun hunting on designated days as indicated on refuge hunting permits, in the State hunting guide, and on the refuge website, *https://www.fws.gov/refuge/presquile/.*
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
 
-4. We prohibit dogs.
+(k) *Toppenish National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-5. We require hunters to dock their boats at designated locations on the refuge.
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters (m)) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-*D. Sport Fishing.* [Reserved]
+(ii) We allow only portable blinds and temporary blinds constructed of nonliving natural materials. Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-Rappahannock River Valley National Wildlife Refuge
+(iii) On the Pumphouse, Petty, Isiri, Chamber, and Chloe Units, we allow hunting 7 days a week subject to the following condition: We require a minimum distance between hunt parties of 200 yards (180 m).
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(iv) On the Halvorson and Webb Units, we allow hunting only on Wednesdays, Saturdays, Sundays, Thanksgiving Day, Christmas Day, and New Year's Day.
 
-*B. Upland Game Hunting.* [Reserved]
+(v) On the Robbins Road Unit, we allow hunting only on Tuesdays, Thursdays, Saturdays, Sundays, Thanksgiving Day, Christmas Day, and New Year's Day.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vi) On the Robbins Road and Pumphouse Units, we allow hunting only from numbered field blind sites. We prohibit free-roam hunting or jump shooting, and you must remain within 100 feet (30 m) of the numbered field blind post unless retrieving birds or setting decoys. We allow a maximum of four persons per blind site.
 
-1. We require big game hunters to obtain a permit. Please contact the refuge on how to obtain a permit.
+(2) *Upland game hunting.* We allow hunting of upland game birds on designated areas of the refuge subject to the following conditions:
 
-2. We prohibit dogs.
+(i) The condition set forth at paragraph (k)(1)(i) of this section applies.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(ii) We allow hunting of upland game birds from 12 p.m. (noon) to legal sunset of each hunt day.
 
-1. We allow fishing access daily from legal sunrise to legal sunset.
+(iii) On the Halvorson and Webb Units, we allow hunting only on Wednesdays, Saturdays, Sundays, Thanksgiving Day, Christmas Day, and New Year's Day.
 
-2. During the period when the refuge is open for hunting, we will close hunting areas to all other uses, including sport fishing.
+(iv) On the Robbins Road Unit, we allow hunting only on Tuesdays, Thursdays, Saturdays, Sundays, Thanksgiving Day, Christmas Day, and New Year's Day.
 
-3. We prohibit fishing by any means other than by use of one or more attended poles with hook and line attached.
+(3)-(4) [Reserved]
 
-4. We prohibit the use of lead sinkers in freshwater ponds, including Wilna Pond and Laurel Grove Pond.
+(l) *Turnbull National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, and coot on designated areas of the refuge subject to the following conditions:
 
-5. We require catch-and-release fishing for largemouth bass in freshwater ponds, including Wilna Pond and Laurel Grove Pond. Anglers may take other finfish species in accordance with State regulations.
+(i) We only allow hunting during the State youth season.
 
-6. We prohibit the use of minnows as bait.
+(ii) We allow the use of dogs when hunting.
 
-7. We prohibit use of boats propelled by gasoline motors, sail, or mechanically operated paddle wheel.
+(iii) Hunters may access the refuge no earlier than 2 hours before legal sunrise and must leave no later than 1 hour after legal sunset.
 
-Wallops Island National Wildlife Refuge
+(iv) Hunters must obtain a letter from the refuge manager authorizing them to access the refuge for the purpose of hunting migratory game birds.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(2) [Reserved]
 
-*B. Upland Game Hunting.* [Reserved]
+(3) *Big game hunting.* We allow hunting of elk on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer in designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(i) Hunters must obtain a letter from the refuge manager assigning them a hunt unit.
 
-1. You must obtain a refuge hunt permit (Big/Upland Game Hunt Application, FWS Form 3-2356) and carry it on your person while hunting.
+(ii) Hunters may access the refuge no earlier than 2 hours before State legal shooting time and must leave no later than 5 hours after the end of State legal hunting hours.
 
-2. You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. All hunters must sign out no later than 2 hours after the end of legal shooting hours.
+(iii) Hunters not using approved nontoxic ammunition (see § 32.2(k)) must remove or bury the visceral remains of harvested animals.
 
-3. You must report all harvested animals on the sign-out sheet at the hunter registration station when signing out.
+(4) [Reserved]
 
-4. We prohibit dogs.
-5
+(m) *Umatilla National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, dove, and snipe on designated areas of the refuge subject to the following conditions:
 
-. We prohibit deer drives. We define a “drive” as four or more persons involved in the act of chasing, pursuing, disturbing, or otherwise directing deer so as to make the animal more susceptible to harvest.
+(i) We prohibit discharge of any firearm within1/4 mile (396 meters) of any maintained building or Federal facility, such as, but not limited to, a structure designed for storage, human occupancy, or shelter for animals.
 
-*D. Sport Fishing.* [Reserved]
+(ii) Hunters must remove all decoys and other equipment at the end of each day's hunt (see § 27.93 of this chapter).
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29077, May 18, 1993; 58 FR 29085, May 18, 1993; 59 FR 6686, Feb. 11, 1994; 60 FR 62048, Dec. 4, 1995; 61 FR 46399, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 65 FR 56409, Sept. 18, 2000; 67 FR 58951, Sept. 18, 2002; 68 FR 57318, Oct. 2, 2003; 69 FR 54362, 54465, Sept. 8, 2004; 70 FR 54194, Sept. 13, 2005; 73 FR 33199, June 11, 2008; 74 FR 45698, Sept. 3, 2009; 74 FR 50737, Oct. 1, 2009; 76 FR 3997, Jan. 21, 2011; 77 FR 56064, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 80 FR 51933, Aug. 26, 2015; 81 FR 68920, Oct. 4, 2016; 82 FR 51960, Nov. 8, 2017; 83 FR 45807, Sept. 10, 2018]
+(iii) On the Paterson and Whitcomb Units, we allow hunting only on Wednesdays, Saturdays, Sundays, and all Federal holidays within the State season.
+
+(iv) On the Ridge Unit, we allow only shoreline hunting; we prohibit hunting from boats.
+
+(2) *Upland game hunting.* We allow hunting of upland game birds on designated areas of the refuge subject to the following conditions:
+
+(i) The conditions set forth at paragraphs (m)(1)(i) and (iii) of this section apply.
+
+(ii) On the Whitcomb Island Unit, we only allow hunting of upland game from 12 p.m. (noon) to the end of State legal hunting hours.
+
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
+
+(i) The condition set forth at paragraph (m)(1)(i) of this section applies.
+
+(ii) We allow hunting by special permit only (issued by the State).
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.
+
+(n) *Willapa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, and snipe on designated areas of the refuge subject to the following conditions:
+
+(i) We require all hunters to obtain and carry a Migratory Bird Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) prior to entering the hunt area at the Riekkola Unit.
+
+(ii) We require all hunters to report waterfowl taken per instructions on the Migratory Bird Hunt Report (FWS Form 3-2361).
+
+(iii) In the designated goose hunt area in the Riekkola Unit, hunters may take ducks, coots, and snipe only incidental to hunting geese.
+
+(iv) We allow goose hunting on Wednesdays, Saturdays, and Sundays in the designated goose hunt area in the Riekkola Unit.
+
+(v) We open the refuge for hunting access from 11/2 hours before legal sunrise until 11/2 hours after legal sunset.
+
+(vi) We allow the use of dogs when hunting.
+
+(vii) You must remove all personal property, including decoys and boats, by 1 hour after legal sunset (see §§ 27.93 and 27.94 of this chapter).
+
+(2) *Upland game hunting.* We allow hunting of forest grouse (sooty and ruffed) on designated areas of the refuge subject to the following conditions:
+
+(i) We require all hunters to obtain and carry a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+
+(ii) We require all hunters to report game taken, hours hunted, and name/address/date on the Upland/Small Game/Furbearer Report (FWS Form 3-2362).
+
+(iii) We allow archery hunting only.
+
+(iv) The conditions set forth at paragraphs (n)(1)(v) and (vi) of this section apply.
+
+(3) *Big game hunting.* We allow hunting of deer, elk, and bear on designated areas of the refuge subject to the following conditions:
+
+(i) We require all Long Island hunters to obtain and carry a Big/Upland Game Hunt Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+
+(ii) We require all hunters to report game taken, hours hunted, and name/address/date on the Big Game Harvest Report (FWS Form 3-2359).
+
+(iii) At Long Island, we allow only archery hunting; we prohibit hunting firearms.
+
+(iv) We prohibit bear hunting on any portion of the refuge except Long Island.
+
+(v) We prohibit the use of centerfire or rimfire rifles within the Lewis, Porter Point, and Riekkola Units.
+
+(vi) The conditions set forth at paragraphs (n)(1)(v) and (vi) of this section apply.
+
+(vii) You may leave your tree stand(s) in place for 3 days. You must label your tree stand(s) with your hunting license number and the date you set up the stand. You may set up stands 11/2 hours before legal sunrise. You must remove your tree stand(s) and all other personal property from the refuge by 11/2 hours after legal sunset on the third day (see § 27.93 of this chapter).
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge.

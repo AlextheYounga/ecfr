@@ -1,7 +1,5 @@
 ##### § 240.17a-4 Records to be preserved by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendment published at 84 FR 33629, July 12, 2019.
-
 (a) Every member, broker and dealer subject to § 240.17a-3 shall preserve for a period of not less than six years, the first two years in an easily accessible place, all records required to be made pursuant to paragraphs § 240.17a-3(a)(1), (a)(2), (a)(3), (a)(5), (a)(21), (a)(22), and analogous records created pursuant to paragraph § 240.17a-3(f).
 
 (b) Every member, broker and dealer subject to § 240.17a-3 shall preserve for a period of not less than three years, the first two years in an easily accessible place:
@@ -76,7 +74,7 @@ Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendmen
 
 (4) All records required pursuant to paragraph (a)(14) of § 240.17a-3 for three years.
 
-(5) All account record information required pursuant to § 240.17a-3(a)(17) until at least six years after the earlier of the date the account was closed or the date on which the information was replaced or updated.
+(5) All account record information required pursuant to § 240.17a-3(a)(17) and all records required pursuant to § 240.17a-3(a)(35), in each case until at least six years after the earlier of the date the account was closed or the date on which the information was collected, provided, replaced, or updated.
 
 (6) Each report which a securities regulatory authority has requested or required the member, broker or dealer to make and furnish to it pursuant to an order or settlement, and each securities regulatory authority examination report until three years after the date of the report.
 
@@ -85,6 +83,8 @@ Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendmen
 (8) All reports produced to review for unusual activity in customer accounts until eighteen months after the date the report was generated. In lieu of maintaining the reports, a member, broker or dealer may produce promptly the reports upon request by a representative of a securities regulatory authority. If a report was generated in a computer system that has been changed in the most recent eighteen month period in a manner such that the report cannot be reproduced using historical data in the same format as it was originally generated, the report may be produced by using the historical data in the current system, but must be accompanied by a record explaining each system change which affected the reports. If a report is generated in a computer system that has been changed in the most recent eighteen month period in a manner such that the report cannot be reproduced in any format using historical data, the member, broker or dealer shall promptly produce upon request a record of the parameters that were used to generate the report at the time specified by a representative of a securities regulatory authority, including a record of the frequency with which the reports were generated.
 
 (9) All records required pursuant to § 240.17a-3(a)(23) until three years after the termination of the use of the risk management controls documented therein.
+
+(10) All records required pursuant to § 240.17a-3(a)(24), as well as a copy of each Form CRS, until at least six years after such record or Form CRS is created.
 
 (f) The records required to be maintained and preserved pursuant to §§ 240.17a-3 and 240.17a-4 may be immediately produced or reproduced on “micrographic media” (as defined in this section) or by means of “electronic storage media” (as defined in this section) that meet the conditions set forth in this paragraph and be maintained and preserved for the required time in that form.
 

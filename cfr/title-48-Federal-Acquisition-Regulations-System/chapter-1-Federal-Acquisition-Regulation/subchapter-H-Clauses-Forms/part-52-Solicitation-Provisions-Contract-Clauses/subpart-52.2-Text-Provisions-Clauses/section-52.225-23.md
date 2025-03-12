@@ -1,5 +1,7 @@
 ##### 52.225-23 Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements. #####
 
+Link to an amendment published at 84 FR 47868, September 10, 2019.
+
 As prescribed in 25.1102(e), insert the following clause:
 
 Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (OCT 2016)

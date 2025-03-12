@@ -1,5 +1,7 @@
 ##### § 405.371 Suspension, offset, and recoupment of Medicare payments to providers and suppliers of services. #####
 
+Link to an amendment published at 84 FR 47851, Sept. 10, 2019.
+
 (a) *General rules.* Medicare payments to providers and suppliers, as authorized under this subchapter (excluding payments to beneficiaries), may be -
 
 (1) Suspended, in whole or in part, by CMS or a Medicare contractor if CMS or the Medicare contractor possesses reliable information that an overpayment exists or that the payments to be made may not be correct, although additional information may be needed for a determination;

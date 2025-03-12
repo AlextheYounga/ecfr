@@ -1,5 +1,7 @@
 ##### § 424.570 Moratoria on newly enrolling Medicare providers and suppliers. #####
 
+Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
+
 (a) *Temporary moratoria* - (1) *General rules.* (i) CMS may impose a moratorium on the enrollment of new Medicare providers and suppliers of a particular type or the establishment of new practice locations of a particular type in a particular geographic area.
 
 (ii) CMS will announce the temporary enrollment moratorium in a Federal Register document that includes the rationale for imposition of the temporary enrollment moratorium.

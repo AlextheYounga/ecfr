@@ -1,5 +1,7 @@
 ##### § 457.990 Provider and supplier screening, oversight, and reporting requirements. #####
 
+Link to an amendment published at 84 FR 47857, Sept. 10, 2019.
+
 The following provisions and their corresponding regulations apply to a State under title XXI of the Act, in the same manner as these provisions and regulations apply to a State under title XIX of the Act:
 
 (a) Part 455, subpart E, of this chapter.

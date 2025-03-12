@@ -58,4 +58,4 @@ A wrap fee program brochure does not take the place of any brochure supplements 
 
 (5) *Wrap fee program* means an advisory program under which a specified fee or fees not based directly upon transactions in a client's account is charged for investment advisory services (which may include portfolio management or advice concerning the selection of other investment advisers) and the execution of client transactions.
 
-[75 FR 49268, Aug. 12, 2010, as amended at 81 FR 60458, Oct. 31, 2016]
+[75 FR 49268, Aug. 12, 2010, as amended at 81 FR 60458, Oct. 31, 2016; 84 FR 33630, July 12, 2019]

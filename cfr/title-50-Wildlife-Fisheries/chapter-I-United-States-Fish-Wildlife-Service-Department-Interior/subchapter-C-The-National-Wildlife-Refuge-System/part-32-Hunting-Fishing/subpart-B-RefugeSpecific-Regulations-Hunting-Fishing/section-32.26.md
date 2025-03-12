@@ -1,33 +1,31 @@
 ##### § 32.26 Connecticut. #####
 
-The following refuge units have been opened for hunting and/or fishing and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Silvio O. Conte National Fish and Wildlife Refuge
+(a) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(i) We allow refuge access from1/2 hour prior to legal sunrise until1/2 hour after legal sunset.
 
-*B. Upland Game Hunting.* [Reserved]
+(ii) We allow the use of dogs when hunting waterfowl and upland game species.
 
-*C. Big Game Hunting.* [Reserved]
+(iii) We only allow the use of temporary tree stands and blinds, which must be removed at the end of each hunt day. All tree stands and blinds must have the name and telephone number of the owner clearly printed in an easily readable area.
 
-*D. Sport Fishing.* [Reserved]
+(2) *Upland game hunting.* We allow hunting of upland game on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (ii) of this section apply.
 
-Stewart B. McKinney National Wildlife Refuge
+(3) *Big game hunting.* We allow hunting of big game on designated areas of the refuge subject to the following condition: The conditions set forth at paragraphs (a)(1)(i) and (iii) of this section apply.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, coot, and goose on designated areas of the Great Meadows Unit in Stratford, Connecticut in accordance with State regulations subject to the following conditions:
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-1. We require hunters to obtain an annual Special Use Permit in advance for permission to hunt in the designated hunting area. Consult the refuge manager for details on how and when to apply for a Special Use Permit.
+(i) The condition set forth at paragraph (a)(1)(i) of this section applies.
 
-2. We will limit hunt days to Tuesdays, Wednesdays, and Saturdays during the waterfowl hunting season as established by the State.
+(ii) We prohibit launching of motorboats from the refuge.
 
-3. During State-established youth days, licensed junior hunters may hunt in the designated hunting area when accompanied by a licensed adult hunter age 18 or older. Adults must possess a valid hunting license; however, we prohibit them carrying a firearm.
+(iii) We prohibit the use of reptiles and amphibians as bait.
 
-4. We prohibit the use of air-thrust and inboard water-thrust boats such as, but not limited to, hovercrafts, airboats, jet skis, watercycles, and waterbikes on all waters within the refuge boundaries.
+(b) *Stewart B. McKinney National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, coot, and goose on designated areas of the refuge subject to the following conditions:
 
-*B. Upland Game Hunting.* [Reserved]
+(i) We require hunters to obtain an annual Special Use Permit (FWS Form 3-1383-G) in advance for permission to hunt in the designated hunting area.
 
-*C. Big Game Hunting.* [Reserved]
+(ii) We will limit hunt days to Tuesdays, Wednesdays, and Saturdays during the waterfowl hunting season as established by the State.
 
-*D. Sport Fishing.* [Reserved]
-
-[70 FR 54163, Sept. 13, 2005, as amended at 79 FR 14825, Mar. 17, 2014; 83 FR 45776, Sept. 10, 2018]
+(2)-(4) [Reserved]

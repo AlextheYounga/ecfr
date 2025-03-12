@@ -1,7 +1,5 @@
 ##### § 240.17a-3 Records to be made by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendment published at 84 FR 33629, July 12, 2019.
-
 (a) Every member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange, and every broker or dealer who transacts a business in securities through the medium of any such member, and every broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934, as amended, (48 Stat. 895, 49 Stat. 1377, 52 Stat. 1075; 15 U.S.C. 78*o*) shall make and keep current the following books and records relating to its business:
 
 (1) Blotters (or other records of original entry) containing an itemized daily record of all purchases and sales of securities, all receipts and deliveries of securities (including certificate numbers), all receipts and disbursements of cash and all other debits and credits. Such records shall show the account for which each such transaction was effected, the name and amount of securities, the unit and aggregate purchase or sale price (if any), the trade date, and the name or other designation of the person from whom purchased or received or to whom sold or delivered.
@@ -145,6 +143,16 @@ Link to an amendment published at 84 FR 33492, July 12, 2019.Link to an amendmen
 (i) $1,000,000 in aggregate credit items as computed under § 240.15c3-3a; or
 
 (ii) $20,000,000 in capital, which includes debt subordinated in accordance with § 240.15c3-1d.
+
+(24) A record of the date that each Form CRS was provided to each retail investor, including any Form CRS provided before such retail investor opens an account.
+
+(25)-(34) [Reserved].
+
+(35) For each retail customer to whom a recommendation of any securities transaction or investment strategy involving securities is or will be provided:
+
+(i) A record of all information collected from and provided to the retail customer pursuant to § 240.15*l*-1, as well as the identity of each natural person who is an associated person, if any, responsible for the account.
+
+(ii) For purposes of this paragraph (a)(35), the neglect, refusal, or inability of the retail customer to provide or update any information described in paragraph (a)(35)(i) of this section shall excuse the broker, dealer, or associated person from obtaining that required information.
 
 (b)(1) This section shall not be deemed to require a member of a national securities exchange, a broker, or dealer who transacts a business in securities through the medium of any such member, or a broker or dealer registered pursuant to section 15 of the Act, to make or keep such records of transactions cleared for such member, broker, or dealer as are customarily made and kept by a clearing broker or dealer pursuant to the requirements of §§ 240.17a-3 and 240.17a-4: *Provided,* That the clearing broker or dealer has and maintains net capital of not less than $25,000 and is otherwise in compliance with § 240.15c3-1 or the capital rules of the exchange of which such clearing broker or dealer is a member if the members of such exchange are exempt from § 240.15c3-1 by paragraph (b)(2) thereof.
 

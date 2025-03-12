@@ -1,123 +1,197 @@
-##### § 32.65 Vermont. #####
+##### § 32.65 Virginia. #####
 
-The following refuge units have been opened for hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Missisquoi National Wildlife Refuge
+(a) *Back Bay National Wildlife Refuge.* (1)-(2) [Reserved]
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, brant, merganser, coot, woodcock, and snipe in accordance with State regulations and subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
 
-1. Waterfowl: For the hunting of goose, brant, duck, merganser, and coot, we divide the refuge into six discrete waterfowl hunting units: the Delta Lakeshore Area, the Maquam Shore Area, the Saxes Pothole/Creek and Shad Island Area, the Junior Waterfowl Hunting Area (including Long Marsh Bay, Patrick Marsh, and Charcoal Creek), the Long Marsh Channel and Metcalfe Island Area, and the Maquam Swamp Area. See the Missisquoi National Wildlife Refuge Migratory Game Bird Hunting Map and Regulations for further information. Conditions for each area are as follows:
+(i) We allow scouting on designated days prior to the start of each refuge hunt period. Hunters may enter the hunt zones on foot, on bicycle, or through transportation provided by the refuge only.
 
-i. Delta Lakeshore Area, which includes lakeshore areas from Shad Island to the south side of Martindale Point but does not include Saxes Pothole/Creek and Shad Island Pothole, is open to migratory bird hunting with the following special requirements:
+(ii) Hunters may go to Hunt Zone 1 (Long Island) only by hand-launched watercraft (canoe, punt, rowboat, and similar watercraft) from the canoe launch at refuge headquarters. We prohibit use of trailers.
 
-a. We do not require a refuge permit to hunt or scout in this area.
+(iii) We prohibit hunting or discharging of firearms within designated safety zones. We prohibit retrieval of wounded game from a “No Hunting Area” or “Safety Zone” without the consent of the refuge employee on duty at the check station.
 
-b. We prohibit blind staking, permanent blinds, and unattended decoys.
+(iv) We prohibit the use of tree stands, except on Long Island (Hunt Zone 1).
 
-ii. Maquam Shore Area encompasses a 30-acre area along the lakeshore of Maquam Bay and is bounded by private land on the west and a Vermont wildlife management area on the east. We do not require a refuge permit to hunt or scout in this area.
+(4) *Sport fishing.* We allow sport fishing, noncommercial crabbing, and clamming on designated areas of the refuge subject to the following conditions:
 
-iii. Saxes Pothole/Creek and Shad Island Pothole, which encompass Saxes Creek, Saxes Pothole, and Shad Island Pothole, are open to migratory bird hunting with the following special requirements:
+(i) We close all areas within the hunting zones, as well as the oceanfront, to fishing, crabbing, and clamming during the annual refuge white-tailed deer and feral hog hunt.
 
-a. This is a controlled hunting area. We require a refuge permit to hunt in this area.
+(ii) You may surf fish, crab, and clam south of the refuge's beach access ramp. We allow night surf fishing by Special Use Permit (FWS Form 3-1383-G) in this area on dates and at times designated on the permit.
 
-b. Each hunting party must possess and carry a permit for the specific zone on the specific day they are hunting in this area. Permits are not transferable.
+(iii) For sport fishing in D Pool:
 
-c. You must use a retrieving dog.
+(A) We only allow fishing from the docks or banks in D Pool. We prohibit boats, canoes, and kayaks on D Pool.
 
-iv. Junior Waterfowl Hunting Area, which encompasses Long Marsh Bay, Patrick Marsh, and that portion of Charcoal Creek south of Vermont Route 78, is open to migratory bird hunting with the following special requirements:
+(B) We prohibit hooks other than barbless or flattened.
 
-a. This is a controlled hunting area. We require a refuge permit to hunt in this area.
+(C) You must catch and release all freshwater game fish. The daily creel limit for D Pool for other species is a maximum combination of any 10 nongame fish.
 
-b. Each junior hunter must possess and carry a permit for the assigned blind site and day. On Mentor Day, mentors must also possess and carry this permit for the assigned blind site. Each adult hunting party must possess and carry a permit for the blind site and day they are hunting. Permits are not transferable.
+(D) Parking for non-ambulatory anglers is available adjacent to the dock at D Pool. All other anglers must enter the area by foot or bicycle.
 
-c. Shooting hours end at 11 a.m.
+(b) *Chincoteague National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of waterfowl and rail on designated areas of the refuge subject to the following conditions:
 
-v. Long Marsh Channel and Metcalfe Island, which encompass the Metcalfe Island Pothole and Long Marsh Channel, are open to migratory bird hunting with the following special requirements:
+(i) You must obtain a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and maintain the permit on your person while hunting on the refuge.
 
-a. This is a controlled hunting area. We require a refuge permit to hunt in this area.
+(ii) You may only access hunting areas by boat.
 
-b. We will limit hunting to Tuesdays, Thursdays, and Saturdays throughout the waterfowl hunting season for duck.
+(iii) We prohibit hunting on Assawoman and Metompkin Islands' beach and dune habitats beginning March 15.
 
-c. Each hunting party must possess and carry a permit for the blind on the specific day they are hunting in this area. Permits are not transferable.
+(2) [Reserved]
 
-d. Shooting hours end at 11 a.m.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and sika in designated areas of the refuge subject to the following conditions:
 
-e. You must use a retrieving dog.
+(i) We allow holders of a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to access areas of the refuge typically closed to the nonhunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
 
-f. We will close this area to waterfowl hunting during split seasons when geese are the only waterfowl that hunters may legally take.
+(ii) You may not hunt within 100 feet (30.5 meters) of any building.
 
-vi. Maquam Swamp Area encompasses about 200 acres (80 hectares) west of the Central Vermont Railroad and south of Coleman's inholding, and is open to migratory bird hunting with the following special requirements:
+(iii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-a. We prohibit blind staking, permanent blinds, or unattended decoys.
+(iv) You may not hunt, discharge a firearm, or nock an arrow or crossbow bolt within 50 feet (15.2 meters) of the centerline of any road, whether improved or unimproved, or paved trail.
 
-b. You must use a retrieving dog.
+(4) *Sport fishing.* We allow sport fishing, crabbing, and clamming from the shoreline of the refuge in designated areas subject to the following conditions:
 
-2. Other migratory birds (including woodcock, snipe and crow): You may hunt woodcock and snipe in the Delta Lakeshore Waterfowl Hunting Area, excluding the Saxe's Creek/Pothole and Shad Island Pothole controlled areas and Maquam Swamp area. We do not require a refuge permit to hunt or scout in these areas.
+(i) You must attend minnow traps, crab traps, crab pots, and handlines at all times.
 
-3. On the Eagle Point Unit, we allow hunting of migratory birds in accordance with State regulations.
+(ii) We prohibit the use of seine nets and pneumatic (compressed air or otherwise) bait launchers.
 
-*B. Upland Game Hunting.* We allow hunting of cottontail rabbits, snowshoe hare, ruffed grouse, and gray squirrels on open areas of the refuge in accordance with State regulations and subject to the following conditions:
+(iii) The State regulates certain species of finfish, shellfish, and crustacean (crab) using size or possession limits. You may not alter these species, to include cleaning or filleting, in such a way that we cannot determine its species or total length.
 
-1. You must obtain a permit at refuge headquarters prior to hunting, and you must hold a valid State hunting license. We will collect a fee for each permit we issue. The permit applies for the calendar year of issue.
+(iv) In order to fish after the refuge closes for the day, anglers must obtain an overnight fishing pass (name/address/phone) issued by the National Park Service. Anglers can obtain a pass in person at the National Park Service Tom's Cove Visitor Center.
 
-2. We only allow shotguns or muzzleloaders on open areas east of the Missisquoi River and on Shad Island.
+(v) We allow only three surf fishing poles per licensed angler, and those poles must be attended at all times. This includes persons age 65 or older who are license-exempt in Virginia.
 
-3. You must use approved nontoxic shot for the shotgun hunting of all upland game species (see § 32.2(k)).
+(c) *Eastern Shore of Virginia National Wildlife Refuge.* (1)-(2) [Reserved]
 
-4. We prohibit hunting from the end of snowshoe hare and rabbit season through September 1.
+(3) *Big game hunting.* We allow archery and shotgun hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-5. On the Eagle Point Unit, we allow hunting in accordance with State regulations; conditions B1 through B4 do not apply on the Eagle Point Unit.
+(i) We allow holders of a refuge hunt permit (Quota Deer Hunt Application, FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to access areas of the refuge typically closed to the nonhunting public. All occupants of a vehicle or hunt party must possess a refuge hunt permit and be actively engaged in hunting. We allow an exception for those persons aiding a disabled person who possesses a valid State-issued Commonwealth of Virginia Disabled Resident Lifetime License or Commonwealth of Virginia Resident Disabled Veteran's Lifetime License.
 
-*C. Big Game Hunting.* We allow hunting of big game in accordance with State regulations and subject to the following conditions:
+(ii) You must sign in before entering the hunt zone and sign out upon leaving the zone.
 
-1. We allow hunting of white-tailed deer.
+(iii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-2. You must obtain a permit at refuge headquarters prior to hunting, and you must hold a valid State hunting license.
+(iv) You may not hunt, discharge a firearm, or nock an arrow or crossbow bolt outside of the designated hunting areas.
 
-3. We only allow shotguns, muzzleloaders, or archery equipment on open areas east and north of Vermont Route 78. We prohibit rifles in these areas at any time.
+(v) We only allow shotguns loaded with buckshot during the firearm season.
 
-4. You may use portable tree stands in accordance with State regulations guiding their use on State Wildlife Management Areas with the following exception: We allow only one tree stand or ground blind for each big game/upland game permit we issue.
+(4) [Reserved]
 
-5. On the Eagle Point Unit, we allow hunting in accordance with State regulations and subject to the following conditions:
+(d) *Elizabeth Hartwell Mason Neck National Wildlife Refuge.* (1)-(2) [Reserved]
 
-i. You may use portable tree stands in accordance with State regulations guiding their use on State Wildlife Management Areas. We prohibit permanent stands and blinds.
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
 
-ii. We allow training of hunting dogs during the regular hunting seasons as regulated by the State. Dog training outside the regular hunting seasons (June 1 to July 31) will be permitted by Special Use Permit (Permit Application Form: National Wildlife Refuge System General Special Use, FWS Form 3-1383-G) only.
+(i) You must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
-iii. You must request a permit in writing from the refuge manager, Missisquoi National Wildlife Refuge.
+(ii) Hunters must certify/qualify weapons and ammunition and view the orientation session online prior to issuance of a permit.
 
-*D. Sport Fishing.* We allow fishing on areas described below in accordance with State regulations and subject to the following conditions:
+(iii) We only allow shotguns with slugs during the firearm season.
 
-1. We allow sport fishing by boat (including bow fishing) and ice fishing in the west branch, east branch, and main channel of the Missisquoi River; Dead Creek; and shallow water areas of the Missisquoi River delta from Goose Bay to Charcoal Creek (north of Vermont Route 78) with the following exceptions:
+(iv) Hunters must remove all hunting equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
-i. We close the following areas from ice out to July 15 - Goose Bay, Saxes Creek and Pothole, Metcalfe Island Pothole, Long Marsh Channel, and Clark Marsh.
+(v) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-ii. We close the following areas from Labor Day to December 31 - Long Marsh Bay and Long Marsh Channel.
+(4) [Reserved]
 
-2. We allow bank fishing along Charcoal Creek where it passes under Route 78, and along the shoreline of the Missisquoi River from refuge headquarters to Mac's Bend boat launch. Bank fishing is accessible only by foot along the Missisquoi River from Louie's Landing to Mac's Bend.
+(e) *Great Dismal Swamp National Wildlife Refuge.* (1)-(2) [Reserved]
 
-3. We prohibit taking fish with firearms within refuge boundaries.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and bear on designated areas of the refuge subject to the following condition: You must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
-4. We allow boat launching from Louie's Landing year-round. We allow boat launching from Mac's Bend boat launch area from September through November inclusive.
+(4) *Sport fishing.* We allow sport fishing in designated areas of the refuge subject to the following conditions:
 
-Silvio O. Conte National Fish and Wildlife Refuge
+(i) We allow fishing in Lake Drummond from a boat (maximum 25 horsepower) and from the piers at Washington Ditch and Interior Ditch.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of ducks, geese, crows, and American woodcock at the Nulhegan Basin Division and Putney Mountain Unit in accordance with State of Vermont regulations and subject to the following condition: We allow disabled hunters to hunt from a vehicle on refuge roads if the hunter possesses a State-issued disabled hunting license in accordance with State regulations and a Special Use Permit (FWS Form 3-1383-G) issued by the Refuge Manager.
+(ii) We prohibit bank fishing.
 
-*B. Upland Game Hunting.* We allow hunting of coyote, fox, raccoon, bobcat, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, snowshoe hare, eastern cottontail, and ruffed grouse at the Nulhegan Basin Division and Putney Mountain Unit in accordance with State of Vermont regulations, seasons, and bag limits, and subject to the following conditions:
+(iii) We require permits (Special Use Permit (FWS Form 3-1383-G)) for vehicular access to the boat ramp on Interior Ditch Road on the west side of Lake Drummond.
 
-1. We allow disabled hunters to hunt from a vehicle on refuge roads if the hunter possesses a State-issued disabled hunting license in accordance with State regulations and a Special Use Permit (FWS Form 3-1383-G) issued by the Refuge Manager.
+(f) *James River National Wildlife Refuge.* (1)-(2) [Reserved]
 
-2. To monitor and mitigate potential disturbances to wildlife and neighboring landowners, we require hunters hunting at night to possess a Special Use Permit (FWS Form 3-1383-G) issued by the Refuge Manager.
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey at the Nulhegan Basin Division and Putney Mountain Unit in accordance with State of Vermont regulations, seasons, and bag limits subject to the following conditions:
+(i) We require hunters to possess and carry a refuge hunting permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
 
-1. We allow disabled hunters to hunt from a vehicle on refuge roads if the hunter possesses a State-issued disabled hunting license in accordance with State regulations and a Special Use Permit (FWS Form 3-1383-G) issued by the Refuge Manager.
+(ii) We require persons who wish to hunt during the refuge's archery season to obtain a refuge hunting permit through a lottery administered by the Virginia Department of Game and Inland Fisheries.
 
-2. You may use portable tree stands and blinds in accordance with State regulations guiding their use on State Wildlife Management Areas, and you must remove them by the end of the final deer season.
+(iii) We require that, during firearms and muzzleloader seasons, hunters remain within 100 feet (30 meters (m)) of their assigned stand while hunting.
 
-3. Moose may be retrieved at the Nulhegan Basin Division by a commercial moose hauler, if the hauler possesses a Special Use Permit (FWS Form 3-1383-C) issued by the Refuge Manager.
+(iv) We require that hunters using a muzzleloader must hunt from a stand elevated 10 feet (3 m) or more above the ground.
 
-*D. Sport Fishing.* [Reserved]
+(4) [Reserved]
 
-[83 FR 45805, Sept. 10, 2018]
+(g) *Mackay Island National Wildlife Refuge.* Refer to § 32.52(e) for regulations.
+
+(h) *Occoquan Bay National Wildlife Refuge.* (1)-(2) [Reserved]
+
+(3) *Big game hunting.* We allow hunting of deer on designated areas of the refuge subject to the following conditions:
+
+(i) You must possess and carry a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and be selected in the refuge lottery to hunt.
+
+(ii) Hunters must certify/qualify weapons and ammunition and view an orientation session online prior to issuance of a permit.
+
+(iii) We only allow shotguns with slugs during the firearm season.
+
+(iv) Hunters must remove all hunting equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
+
+(v) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(4) [Reserved]
+
+(i) *Plum Tree Island National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory waterfowl, gallinule, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) We require migratory game bird hunters to obtain a permit through a lottery administered by the Virginia Department of Game and Inland Fisheries. We require hunters to possess and carry that permit, along with their State hunting license and stamps, while hunting migratory game birds on the refuge.
+
+(ii) We prohibit jump-shooting by foot or boat.
+
+(iii) You must hunt from a blind, as assigned by the hunting permit.
+
+(2)-(4) [Reserved]
+
+(j) *Presquile National Wildlife Refuge.* (1)-(2) [Reserved]
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
+
+(i) We require big game hunters to obtain a permit through a lottery administered by the Virginia Department of Game and Inland Fisheries.
+
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(iii) We allow shotgun hunting on designated days as indicated on refuge hunting permits, in the State hunting guide, and on the refuge website.
+
+(iv) We require hunters to dock their boats at designated locations on the refuge.
+
+(4) [Reserved]
+
+(k) *Rappahannock River Valley National Wildlife Refuge.* (1)-(2) [Reserved]
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following condition: We require big game hunters to obtain a permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System).
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
+
+(i) We allow fishing access each day from legal sunrise to legal sunset.
+
+(ii) During the period when the refuge is open for hunting, we close hunting areas to all other uses, including sport fishing.
+
+(iii) We allow fishing only by use of one or more attended poles with hook and line attached. We prohibit all other fishing methods and means.
+
+(iv) We prohibit the use of lead sinkers in freshwater ponds, including Wilna Pond and Laurel Grove Pond.
+
+(v) We require catch-and-release fishing for largemouth bass in freshwater ponds, including Wilna Pond and Laurel Grove Pond. Anglers may take other finfish species as governed by State regulations.
+
+(vi) We prohibit the use of minnows as bait.
+
+(vii) We prohibit use of boats propelled by gasoline motors, sail, or mechanically operated paddle wheel while fishing.
+
+(l) *Wallops Island National Wildlife Refuge.* (1)-(2) [Reserved]
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer on designated areas of the refuge subject to the following conditions:
+
+(i) You must obtain a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and carry it on your person while hunting.
+
+(ii) You must sign in at the hunter registration station prior to entering your hunt zone and sign out upon exiting your hunt zone. All hunters must sign out no later than 2 hours after the end of legal shooting hours.
+
+(iii) You must report all harvested animals on the sign-out sheet at the hunter registration station when signing out.
+
+(iv) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
+
+(4) [Reserved]

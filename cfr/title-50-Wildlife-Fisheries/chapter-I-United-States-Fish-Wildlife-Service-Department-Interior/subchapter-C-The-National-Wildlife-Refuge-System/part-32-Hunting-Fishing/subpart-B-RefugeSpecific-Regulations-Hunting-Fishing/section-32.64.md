@@ -1,105 +1,113 @@
-##### § 32.64 Utah. #####
+##### § 32.64 Vermont. #####
 
-The following refuge units have been opened for hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Bear River Migratory Bird Refuge
+(a) *Missisquoi National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, brant, merganser, coot, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, coot, and tundra swan on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(i) In the Delta Lakeshore Area:
 
-1. We prohibit hunting or shooting within 100 yards (90 m) of refuge roads, the D line levee, parking areas, and other observation platforms.
+(A) We prohibit blind staking and unattended decoys.
 
-2. We allow airboats only in Refuge Unit 9 and Block C.
+(B) We prohibit jumpshooting within 200 yards of a party hunting from a boat or blind.
 
-3. You may possess only 10 shells while hunting on or within 50 feet (15 m) from the center of Unit 1A or 2C dike.
+(ii) In the Maquam Shore Area:
 
-4. We are closed for spring and extended season goose hunts.
+(A) We do not require a refuge permit to hunt or scout in this area.
 
-5. We prohibit entering the refuge hunting units prior to the opening day of waterfowl season.
+(B) We prohibit jumpshooting within 200 yards (183 meters) of a party hunting from a boat or blind.
 
-6. We prohibit archery hunting on the refuge.
+(iii) In the Saxes Pothole/Creek and Shad Island Pothole:
 
-7. You may enter the refuge 2 hours before legal sunrise and must exit the refuge by 2 hours after legal sunset.
+(A) This is a controlled hunting area. We require a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in this area.
 
-*B. Upland Game Hunting.* We allow hunting of pheasants on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(B) Each hunting party must possess and carry a permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) for the specific zone on the specific day they are hunting in this area. Permits are not transferable.
 
-1. We prohibit hunting or taking of pheasants with a shotgun of any description capable of holding more than three shells, unless it is plugged with a one-piece filler incapable of removal without disassembling the gun, so its total capacity does not exceed three shells.
+(C) You must use a dog to retrieve migratory game birds.
 
-*C. Big Game Hunting.* [Reserved]
+(iv) In the Junior Waterfowl Hunting Area:
 
-*D. Sport Fishing.* Fishermen may fish on designated areas of the refuge subject to the following conditions:
+(A) This is a controlled hunting area. We require a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in this area.
 
-1. Fishermen may fish year-round in designated areas of the Refuge.
+(B) Each junior hunter must possess and carry a permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) for the assigned blind site and day. On Mentor Day, mentors must also possess and carry this permit for the assigned blind site. Each adult hunting party must possess and carry a permit for the blind site and day they are hunting. Permits are not transferable.
 
-2. You may fish only in designated areas west of the Auto Tour Road access gate from legal sunrise to legal sunset.
+(C) Shooting hours end at 11 a.m.
 
-3. We prohibit fishing from refuge bridges and water control structures.
+(v) In the Long Marsh Channel and Metcalfe Island:
 
-Fish Springs National Wildlife Refuge
+(A) This is a controlled hunting area. We require a refuge permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) to hunt in this area.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, coot, and goose on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(B) We limit hunting to Tuesdays, Thursdays, and Saturdays throughout the waterfowl hunting season for duck.
 
-1. All hunters must register individually at the visitor information station before entering the open hunting area and prior to exiting the refuge.
+(C) Each hunting party must possess and carry a permit for the blind on the specific day they are hunting in this area. Permits are not transferable.
 
-2. We do not allow hunters or dogs to enter closed areas to retrieve birds.
+(D) Shooting hours end at 11 a.m.
 
-3. You may only possess firearms legally used to hunt waterfowl unless you case or break them down.
+(E) You must use a dog to retrieve migratory game birds.
 
-4. You may construct nonpermanent blinds. You must remove all blinds constructed out of materials other than vegetation at the end of a hunt day.
+(F) We close this area to waterfowl hunting during split seasons when geese are the only waterfowl that hunters may legally take.
 
-5. We allow use of small boats (15′ or less). We do not allow gasoline motors and air boats.
+(vi) In the Maquam Swamp Area:
 
-6. You may enter the refuge 2 hours prior to sunrise and must exit the refuge by 11/2 hours after sunset. You may not leave decoys, boats, vehicles, and other personal property on the refuge overnight.
+(A) We prohibit blind staking and unattended decoys.
 
-7. We have a Special Blind Area for use by the disabled. We prohibit trespass for any reason by any individual not registered to utilize that area.
+(B) You must use a dog to retrieve migratory game birds.
 
-*B. Upland Game Hunting.* [Reserved]
+(2) *Upland game hunting.* We allow hunting of cottontail rabbit, snowshoe hare, ruffed grouse, and gray squirrel on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* [Reserved]
+(i) You must obtain a signed refuge hunt brochure (signed brochure) at refuge headquarters prior to hunting, and you must hold a valid State hunting license.
 
-*D. Sport Fishing.* [Reserved]
+(ii) We only allow shotguns or muzzleloaders on open areas east of the Missisquoi River and on Shad Island.
 
-Ouray National Wildlife Refuge
+(iii) We prohibit hunting from the end of snowshoe hare and rabbit season through September 1.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, coot, and goose within Leota Bottom in accordance with State regulations subject to the following conditions:
+(iv) On the Eagle Point Unit, conditions in paragraphs (a)(2)(i) through (iii) of this section do not apply.
 
-1. We prohibit hunting within 100 yards (90 m) of the Green River in Leota Bottom.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, bear, and turkey on designated areas of the refuge subject to the following conditions:
 
-2. We close the Green River within the refuge boundaries to hunting.
+(i) You must obtain a signed refuge hunt brochure (signed brochure) at refuge headquarters prior to hunting, and you must hold a valid State hunting license.
 
-3. We prohibit operation of a gas-powered boat or vehicle within Leota Bottom.
+(ii) We only allow shotguns, muzzleloaders, or archery equipment on open areas east and north of Vermont Route 78. We prohibit rifles in these areas at any time.
 
-4. During hunting season the refuge is open from 11/2 hours before legal sunrise to 11/2 hours after legal sunset. We gate and lock the main entrance on the west side of the Green River during closed hours.
+(iii) You may use portable tree stands as governed by State regulations guiding their use on State wildlife management areas with the following exception: We allow only one tree stand or ground blind for each signed refuge hunt brochure (signed brochure) we issue.
 
-*B. Upland Game Hunting.* We allow hunting of pheasant and turkey in designated areas in accordance with State regulations and subject to the following conditions:
+(iv) On the Eagle Point Unit, we allow hunting subject to the following conditions:
 
-1. We prohibit hunting on the islands and sandbars within the Green River.
+(A) You may use portable tree stands as governed by State regulations guiding their use on State wildlife management areas.
 
-2. You may possess only approved nontoxic shot while in the field (see § 32.2(k)).
+(B) We allow training of dogs during the regular hunting seasons as governed by State regulations. We allow dog training outside the regular hunting seasons (*i.e.,* from June 1 through July 31) only with a Special Use Permit (Permit Application Form: National Wildlife Refuge System General Special Use, FWS Form 3-1383-G).
 
-3. We allow turkey hunting for youth hunters only.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of deer and elk in designated areas in accordance with State regulations and subject to the following conditions:
+(i) We allow sport fishing (including bow fishing) by boat and ice fishing in designated areas with the following exceptions:
 
-1. We prohibit hunting on the islands and sandbars within the Green River.
+(A) We close the following areas from ice-out to July 15: Goose Bay, Saxes Creek and Pothole, Metcalfe Island Pothole, Long Marsh Channel, and Clark Marsh.
 
-2. You may use portable tree stands and hunting blinds that do not require drilling or nailing into a tree (see § 32.2(i)). You must remove all tree stands and blinds no later than the last day of the hunting season for which you have a permit (see § 27.93 of this chapter).
+(B) We close the following areas from Labor Day to December 31: Long Marsh Bay and Long Marsh Channel.
 
-3. We allow any-legal-weapon elk hunting for youth, disabled, and depredation pool hunters during State seasons subject to refuge regulations.
+(ii) We allow bank fishing along designated areas of Charcoal Creek.
 
-4. We allow archery elk hunting during the general and the Uintah Basin extended archery elk hunts during State seasons subject to refuge regulations.
+(iii) We prohibit taking fish with firearms within refuge boundaries.
 
-5. We are closed for the general any-legal-weapon (rifle) and muzzleloader bull elk hunts.
+(iv) We allow boat launching from Louie's Landing year-round. We allow boat launching from Mac's Bend boat launch area from September through November (inclusive).
 
-6. We allow any-legal-weapon elk hunting during limited late season antlerless elk hunts starting on December 1 during State seasons subject to refuge regulations.
+(b) *Silvio O. Conte National Fish and Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, crow, and American woodcock on designated areas of the refuge subject to the following condition: We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-7. We prohibit the use of trail or game cameras.
+(2) *Upland game hunting.* We allow hunting of coyote, fox, raccoon, bobcat, woodchuck, red squirrel, eastern gray squirrel, porcupine, skunk, snowshoe hare, eastern cottontail, and ruffed grouse on designated areas of the refuge subject to the following conditions:
 
-*D. Sport Fishing.* We allow sport fishing within and on the banks of the Green River (the southernmost portion of the Green River within the Refuge Boundary requires a Ute Tribe fishing permit) in accordance with State regulations subject to the following conditions:
+(i) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-1. We prohibit fishing on or from the diked interior impoundments or canals.
+(ii) Shooting from, over, or within 10 feet of the traveled portion of any gravel road is prohibited (see § 25.71 of this chapter).
 
-2. You may only fish with the aid of a pole, hook, and line. We prohibit trot lines, bow and arrows, spears, spear guns, cross bows, and firearms.
+(iii) We require hunters hunting at night to possess a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
 
-3. You must release unharmed any of the four federally endangered fish if caught (razorback sucker, Colorado pike minnow, humpback chub, or bonytail chub).
+(3) *Big game hunting.* We allow hunting of white-tailed deer, moose, black bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-[58 FR 5064, Jan. 19, 1993, as amended at 59 FR 6699, Feb. 11, 1994; 60 FR 62047, Dec. 4, 1995; 61 FR 46398, Sept. 3, 1996; 62 FR 47383, Sept. 9, 1997; 63 FR 46922, Sept. 3, 1998; 65 FR 30792, May 12, 2000; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54462, Sept. 8, 2004; 73 FR 33199, June 11, 2008; 76 FR 3997, Jan. 21, 2011; 76 FR 56088, Sept. 9, 2011; 77 FR 56063, Sept. 11, 2012; 79 FR 14842, Mar. 17, 2014; 81 FR 68920, Oct. 4, 2016; 83 FR 45805, Sept. 10, 2018]
+(i) The condition set forth at paragraph (b)(2)(ii) of this section applies.
+
+(ii) We allow disabled hunters to hunt from a vehicle that is at least 10 feet from the traveled portion of the refuge road if the hunter possesses a State-issued disabled hunting license and a Special Use Permit (FWS Form 3-1383-G) issued by the refuge manager.
+
+(iii) You may use portable tree stands and blinds as governed by State regulations guiding their use on State wildlife management areas. You must remove tree stands and blinds by the end of the final deer season (see § 27.93 of this chapter).
+
+(iv) You may retrieve moose at the Nulhegan Basin Division with the use of a commercial moose hauler, if the hauler possesses a Special Use Permit (FWS Form 3-1383-C) issued by the refuge manager.
+
+(4) [Reserved]

@@ -1,79 +1,65 @@
 ##### § 32.54 Ohio. #####
 
-The following refuge units have been opened to hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Cedar Point National Wildlife Refuge
+(a) *Cedar Point National Wildlife Refuge.* (1)-(2) [Reserved]
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(3) *Big game hunting.* We allow white-tailed deer hunting on designated areas of the refuge subject to the following conditions:
 
-*B. Upland Game Hunting.* [Reserved]
+(i) You must possess and carry a State-issued permit. All hunters must check in and out at the refuge check station. We require hunters to check out with the State-issued Harvest Card no later than 2 hours after the conclusion of their controlled hunt.
 
-*C. Big Game Hunting.* We allow white-tailed deer hunting on designated dates in the controlled hunt areas of the refuge in accordance with State regulations and subject to the following conditions:
+(ii) We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
 
-1. You must possess and carry a State-issued permit. All hunters must check in and out at the refuge check station. We require hunters to check out with the State-issued Harvest Card no later than 2 hours after the conclusion of their controlled hunt.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-2. We require hunters to remain within their assigned unit.
+(i) We allow fishing from legal sunrise to legal sunset.
 
-3. We require hunters to obtain permission from refuge officials before tracking a wounded deer out of the assigned hunting unit.
+(ii) We prohibit the taking of turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-4. We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
+(iii) You must remove all boats, ice fishing structures, devices, and personal property from the refuge each day (see § 27.93 of this chapter).
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
+(b) *Ottawa National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, rail, gallinule, coot, dove, woodcock, and snipe on designated areas of the refuge subject to the following conditions:
 
-1. We allow fishing from legal sunrise to legal sunset during designated dates.
+(i) On controlled waterfowl hunt units, we allow hunting of goose, duck, and coot as governed by with State regulations and subject to the following conditions:
 
-2. We allow boats and flotation devices.
+(A) You must stop hunting at 12 p.m. (noon) each day.
 
-Ottawa National Wildlife Refuge
+(B) You may possess no more than 25 shot shells.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of goose, duck, rails, gallinule, coot, dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(ii) On public hunting units, we allow hunting of duck, goose, rail, gallinule, coot, dove, woodcock, and snipe subject to the following conditions:
 
-1. On controlled waterfowl hunt units, we allow hunting of goose, duck, and coot in accordance with State regulations and subject to the following conditions:
+(A) We allow refuge access from 11/2 hours prior to the State-listed morning shooting time and 1 hour after the State-listed evening shooting time.
 
-i. You must stop hunting at 12 p.m. (noon) each day.
+(B) We allow the use of dogs when hunting, provided the dog is under the immediate control of the hunter at all times.
 
-ii. You must stay in your assigned hunt unit.
+(C) We allow nonmotorized boats in areas open to waterfowl hunting during the waterfowl hunting seasons with the following exception: We allow motorized boats in the Metzger Marsh and Two Rivers units.
 
-iii. You may possess no more than 25 shot shells.
+(2) *Upland game hunting.* We allow hunting of pheasant, squirrel, rabbit, fox, raccoon, skunk, opossum, groundhog, and coyote on designated areas of the refuge subject to the following conditions:
 
-2. On public hunting units, we allow hunting of ducks, geese, rails, gallinule, coot, dove, woodcock, and snipe in accordance with State regulations and subject to the following conditions:
+(i) The conditions set forth at paragraphs (b)(1)(ii)(A) and (B) of this section apply.
 
-i. We allow refuge access from 11/2 hours prior to the State-listed morning shooting time and 1 hour after the State-listed evening shooting time.
+(ii) We prohibit the use of buckshot for any hunting on the refuge.
 
-ii. We allow the use of hunting dogs, provided the dog is under the immediate control of the hunter at all times.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge subject to the following conditions:
 
-iii. We allow nonmotorized boats in areas open to waterfowl hunting during the waterfowl hunting seasons with the following exception: We allow motorized boats in the Metzger Marsh and Two Rivers units.
+(i) On controlled deer hunt units, we allow hunting of white-tailed deer only as governed by State regulations and subject to the following conditions:
 
-*B. Upland Game Hunting.* We allow hunting of pheasant, squirrel, rabbit, fox, raccoon, skunk, opossum, groundhog, and coyote on designated public hunting units of the refuge in accordance with State regulations and subject to the following conditions:
+(A) We require hunters to possess and carry a State-issued permit. You must check in and out at the refuge check station using the State-issued Harvest Card no later than 2 hours after the conclusion of your hunt.
 
-1. Conditions A.2.i and A.2.ii apply.
+(B) We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
 
-2. We prohibit the use of buckshot for any hunting on the refuge.
+(ii) We allow hunting of white-tailed deer and turkey on designated public hunting units of the refuge as governed by State regulations and subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and wild turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(A) The conditions set forth at paragraphs (b)(1)(ii)(A) and (b)(2)(ii) of this section apply.
 
-1. On controlled deer hunt units, we allow hunting of white-tailed deer only in accordance with State regulations and subject to the following conditions:
+(B) We allow only portable deer stands for hunting. We allow only one tree stand per hunter per refuge unit. We allow placement of tree stands after September 1, and require hunters to remove tree stands by March 1 of each year (see § 27.93 of this chapter). We require deer stands to be labeled with the hunter's Ohio customer identification number, which is on the hunting license.
 
-i. We require hunters to possess and carry a State-issued permit. You must check in and out at the refuge check station using the State-issued Harvest Card no later than 2 hours after the conclusion of your hunt.
+(C) For hunting, you may use or possess only approved nontoxic shot shells (see § 32.2(k)) while in the field, including shot shells used for hunting wild turkey.
 
-ii. You must remain within your assigned unit.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-iii. You must obtain permission from refuge officials before tracking a wounded deer out of your assigned hunting unit.
+(i) We allow fishing from legal sunrise to legal sunset.
 
-iv. We prohibit hunting or shooting within 150 feet (45.7 meters) of any structure, building, or parking lot.
+(ii) We prohibit the taking of any turtle, frog, leech, minnow, crayfish, and mussel (clam) species by any method on the refuge (see § 27.21 of this chapter).
 
-2. We allow hunting of white-tailed deer and turkey on designated public hunting units of the refuge in accordance with State regulations and subject to the following conditions:
-
-i. Conditions A.2.i and B2 apply.
-
-ii. We allow only portable deer stands for hunting. We allow only one tree stand per hunter per refuge unit. We allow placement of tree stands after September 1 and require hunters to remove tree stands by March 1 of each year. We require deer stands to be labeled with owner's name and address.
-
-iii. For hunting, you may use or possess only approved nontoxic shot shells while in the field, including shot shells used for hunting wild turkey (see § 32.2(k)).
-
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
-
-1. We allow fishing from legal sunrise to legal sunset during designated dates.
-
-2. We allow boats and flotation devices in designated areas.
-
-[83 FR 45800, Sept. 10, 2018]
+(iii) You must remove all boats, ice fishing structures, devices, and personal property from the refuge each day (see § 27.93 of this chapter).

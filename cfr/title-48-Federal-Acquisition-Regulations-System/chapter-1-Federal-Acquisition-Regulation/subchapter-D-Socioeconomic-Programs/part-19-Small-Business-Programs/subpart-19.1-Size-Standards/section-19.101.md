@@ -1,5 +1,7 @@
 ##### 19.101 Explanation of terms. #####
 
+Link to an amendment published at 84 FR 47864, Sept. 10, 2019.
+
 As used in this subpart -
 
 *Affiliates.* Business concerns are affiliates of each other if, directly or indirectly, either one controls or has the power to control the other, or another concern controls or has the power to control both. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships; *provided,* that restraints imposed by a franchise agreement are not considered in determining whether the franchisor controls or has the power to control the franchisee, if the franchisee has the right to profit from its effort, commensurate with ownership, and bears the risk of loss or failure. Any business entity may be found to be an affiliate, whether or not it is organized for profit or located in the United States or its outlying areas.

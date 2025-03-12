@@ -1,99 +1,79 @@
 ##### § 32.57 Pennsylvania. #####
 
-The following refuge units have been opened for hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Cherry Valley National Wildlife Refuge
+(a) *Cherry Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of migratory game birds on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* We allow hunting of migratory birds, including waterfowl (*i.e.,* ducks, mergansers, coots, and geese), doves, woodcock, snipe, rails, moorhens, and gallinules, on designated areas of the refuge in accordance with State of Pennsylvania regulations and subject to the following conditions:
+(i) Hunters must obtain a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). We require hunters to possess a signed refuge hunt permit at all times while scouting and hunting on the refuge.
 
-1. Hunters must purchase a Cherry Valley NWR Migratory Bird Hunting Permit from the refuge's hunt permit website. We require hunters to possess a signed refuge hunt permit at all times while scouting and hunting on the refuge. We charge a fee for all hunters except youth age 16 and younger. We provide hunters with refuge hunt regulations, hunt maps, and a Refuge Parking Permit.
+(ii) Hunters may enter the refuge 2 hours before legal shooting time and must leave no later than 2 hours after legal shooting time.
 
-2. Hunters may enter the refuge 2 hours before legal shooting time and must leave no later than 2 hours after legal shooting time.
+(2) *Upland game hunting.* We allow hunting of squirrel, grouse, rabbit, pheasant, quail, woodchuck, crow, fox, raccoon, opossum, skunk, weasel, coyote, and bobcat on designated areas of the refuge subject to the following conditions:
 
-*B. Upland Game Hunting.* We allow hunting of squirrels, grouse, rabbit, pheasant, quail, woodchuck, crow, fox, raccoon, opossum, skunk, weasel, coyote, and bobcat on designated areas of the refuge in accordance with State of Pennsylvania regulations and subject to the following conditions:
+(i) Hunters must obtain a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System). We require hunters to possess a signed refuge hunt permit at all times while scouting and hunting on the refuge.
 
-1. Hunters must purchase a Cherry Valley NWR Small Game Hunting Permit from the refuge's hunt permit website. We require hunters to possess a signed refuge hunt permit at all times while scouting and hunting on the refuge. We charge a fee for all hunters except youth age 16 and younger. We provide hunters with refuge hunt regulations, hunt maps, and a Refuge Parking Permit.
+(ii) The condition set forth at paragraph (a)(1)(ii) of this section applies.
 
-2. We prohibit night hunting.
+(iii) We allow hunting from legal sunrise to legal sunset.
 
-3. We prohibit the use of dogs.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-4. We prohibit the use of rifles.
+(i) The conditions set forth at paragraphs (a)(1)(ii) and (a)(2)(i) of this section apply.
 
-5. Hunters may enter the refuge 2 hours before legal shooting time and must leave no later than 2 hours after legal shooting time.
+(ii) We prohibit organized deer drives. We define a “deer drive” as an organized or planned effort to pursue, drive, chase, or otherwise frighten or cause deer to move in the direction of any person(s) who is part of the organized or planned hunt and known to be waiting for the deer.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer, bear, and wild turkey on designated areas of the refuge in accordance with State of Pennsylvania regulations and subject to the following conditions:
+(4) *Sport fishing.* We allow sport fishing on the refuge subject to the following conditions:
 
-1. Hunters must purchase a Cherry Valley NWR Deer, Bear, or Wild Turkey Hunting Permit from the refuge's hunt permit website. We require hunters to possess a signed refuge hunt permit at all times while scouting and hunting on the refuge. We charge a fee for all hunters except youth age 16 and younger. We provide hunters with refuge hunt regulations, hunt maps, and a Refuge Parking Permit.
+(i) The Cherry Creek section located on the former Cherry Valley Golf Course is open for catch-and-release fishing, with only artificial lures and barbless hooks. Anglers at this location must obtain a day-use fishing permit, with a maximum of three anglers per day.
 
-2. We prohibit organized deer drives.
+(ii) We allow fishing from1/2 hour before legal sunrise to1/2 hour after legal sunset.
 
-3. Hunters may enter the refuge 2 hours before legal shooting time and must leave no later than 2 hours after legal shooting time.
+(iii) We allow only nonmotorized or electric-motor boats in designated areas.
 
-*D. Sport Fishing.* [Reserved]
+(iv) We prohibit the use of eel chutes, eelpots, and fyke nets.
 
-Erie National Wildlife Refuge
+(v) We prohibit trapping fish for use as bait on the refuge.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of mourning dove, rail, common snipe, Canada goose, duck, coot, and crow on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vi) We prohibit the take, collection, capture, killing and possession of any reptile or amphibian on the refuge (see § 27.21 of this chapter).
 
-1. We allow hunting activities on the refuge from September 1 through the end of February. We allow scouting for those same dates, and for the 7 days prior to the start of each season.
+(b) *Erie National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove, woodcock, rail, Wilson's snipe, Canada goose, duck, coot, and crow on designated areas of the refuge subject to the following conditions:
 
-2. We only allow nonmotorized boats for waterfowl hunting in permitted areas.
+(i) We allow hunting activities on the refuge from September 1 through the end of February. We allow scouting for those same dates, and for the 7 days prior to the start of each season.
 
-3. We prohibit field possession of migratory game birds in areas of the refuge closed to migratory game bird hunting, unless authorized by the refuge to retrieve downed or crippled animals.
+(ii) We allow only nonmotorized boats for waterfowl hunting in permitted areas.
 
-*B. Upland Game Hunting*. We allow hunting of ruffed grouse, squirrel, rabbit, woodchuck, pheasant, quail, raccoon, fox, coyote, skunk, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(iii) We prohibit field possession of migratory game birds in areas of the refuge closed to migratory game bird hunting.
 
-1. We allow woodchuck hunting on the refuge from September 1 through the end of February.
+(2) *Upland game hunting.* We allow hunting of ruffed grouse, squirrel, rabbit, woodchuck, pheasant, quail, raccoon, fox, coyote, skunk, and opossum on designated areas of the refuge subject to the following conditions:
 
-2. We prohibit the use of raptors to take small game.
+(i) We allow woodchuck hunting on the refuge from September 1 through the end of February.
 
-*C. Big Game Hunting*. We allow hunting of deer, bear, and turkey on designated areas of the refuge in accordance with State regulations.
+(ii) We prohibit the use of raptors to take small game.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of deer, bear, and turkey on designated areas of the refuge.
 
-1. We allow bank fishing only on the Seneca Unit of the refuge. We prohibit wading.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-2. We prohibit the use of watercraft for fishing, with the exception of Area 5 where we allow nonmotorized watercraft use. Watercraft must remain in an area from the dike to 3,000 feet (900 meters) upstream.
+(i) We allow nonmotorized watercraft use in Area 5. Watercraft must remain in an area from the dike to 3,000 feet (900 meters) upstream.
 
-3. We prohibit the taking of turtle or frog.
+(ii) We prohibit the taking of turtle or frog (see § 27.21 of this chapter).
 
-4. We prohibit the collecting or releasing of baitfish.
+(iii) We prohibit the collecting or releasing of baitfish.
 
-5. We prohibit the taking or possession of shellfish on the refuge.
+(iv) We prohibit the taking or possession of shellfish on the refuge (see § 27.21 of this chapter).
 
-John Heinz National Wildlife Refuge at Tinicum
+(c) *John Heinz National Wildlife Refuge at Tinicum.* (1)-(2) [Reserved]
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(3) *Big game hunting.* We allow archery-only hunting of white-tailed deer on designated areas of the refuge subject to the following condition: Hunters must possess a refuge hunt permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) and comply with all of its terms and conditions.
 
-B. *Upland Game Hunting.* [Reserved]
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow archery-only hunting of white-tailed deer on designated areas of the refuge, during specified dates, in accordance with State regulations and subject to the following conditions:
+(i) We allow fishing on the refuge from legal sunrise to legal sunset.
 
-1. Hunters must possess a valid refuge hunting special use permit and comply with all terms and conditions.
+(ii) Anglers may only operate boats, canoes, and floats in tidal waters.
 
-2. Junior hunters age 15 and younger must be accompanied by an adult member of the family (age 18 or older), or by an adult serving in the place of a parent.
+(iii) We prohibit bowfishing or spearfishing on the refuge.
 
-*D. Sport Fishing.* We allow sport fishing on the refuge in accordance with State regulations subject to the following conditions:
+(iv) We prohibit the take, collection, or capture of any reptile or amphibian on the refuge (see § 27.21 of this chapter).
 
-1. We allow fishing on all refuge waters, except:
-
-i. The East side of the Main Impoundment from the Dike Road south to the Trolley Bed trail; and
-
-ii. The small pond located on the south side of Bartram Ave at the I-95 South on ramp.
-
-2. We allow fishing on the refuge from legal sunrise to legal sunset.
-
-3. Anglers may only operate boats, canoes, and floats in tidal waters. We prohibit them on the refuge impoundments and ponds.
-
-4. We only allow fishing from the shoreline in refuge impoundments and ponds. We prohibit wading.
-
-5. We prohibit bowfishing or spearfishing on the refuge.
-
-6. We prohibit the take, collection, or capture of reptile or amphibian on the refuge.
-
-Ohio River Islands National Wildlife Refuge
-
-Refer to § 32.68 West Virginia for regulations.
-
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29076, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 61 FR 31461, June 20, 1996; 61 FR 46398, Sept. 3, 1996; 62 FR 47381, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58949, Sept. 18, 2002; 69 FR 54362, 54448, Sept. 8, 2004; 70 FR 54189, Sept. 13, 2005; 73 FR 33195, June 11, 2008; 76 FR 3989, Jan. 21, 2011; 76 FR 56085, Sept. 9, 2011; 79 FR 14839, Mar. 17, 2014; 83 FR 45801, Sept. 10, 2018]
+(d) *Ohio River Islands National Wildlife Refuge.* Refer to § 32.67(b) for regulations.

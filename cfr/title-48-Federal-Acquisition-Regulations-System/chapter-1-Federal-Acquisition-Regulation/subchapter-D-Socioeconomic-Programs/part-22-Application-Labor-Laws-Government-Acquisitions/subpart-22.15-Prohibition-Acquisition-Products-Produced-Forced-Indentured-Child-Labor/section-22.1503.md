@@ -1,5 +1,7 @@
 ##### 22.1503 Procedures for acquiring end products on the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor. #####
 
+Link to an amendment published at 84 FR 47867, Sept. 10, 2019.
+
 (a) When issuing a solicitation for supplies expected to exceed the micro-purchase threshold, the contracting officer must check the List of Products Requiring Contractor Certification as to Forced or Indentured Child Labor (the List) (*www.dol.gov/ilab/*) (see 22.1505(a)). Appearance of a product on the List is not a bar to purchase of any such product mined, produced, or manufactured in the identified country, but rather is an alert that there is a reasonable basis to believe that such product may have been mined, produced, or manufactured by forced or indentured child labor.
 
 (b) The requirements of this subpart that result from the appearance of any end product on the List do not apply to a solicitation or contract if the identified country of origin on the List is -

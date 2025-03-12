@@ -1,367 +1,519 @@
-##### § 32.62 Tennessee. #####
+##### § 32.62 Texas. #####
 
-The following refuge units have been opened for hunting and/or fishing, and are listed in alphabetical order with applicable refuge-specific regulations.
+The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
-Chickasaw National Wildlife Refuge
+(a) *Anahuac National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, coot, white-winged, mourning, rock, and Eurasian collared-dove, and rock pigeon on designated areas of the refuge subject to the following conditions:
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(i) You must carry a current signed refuge hunting permit (signed tearsheet) while waterfowl hunting on all refuge hunt units.
 
-1. We seasonally close the refuge sanctuary area to the public from November 15 through March 15.
+(ii) Season dates for waterfowl will be concurrent with the State, except as specified in the refuge hunting permit (signed tearsheet).
 
-2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+(iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-3. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no more than 2 hours before legal sunrise.
+(iv) For waterfowl hunting, you may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). You must leave refuge hunt units by 12:30 p.m. For dove hunting, you may enter the refuge 1 hour before legal sunrise and must leave the refuge by1/2 hour after legal sunset. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
 
-4. We close mourning dove, woodcock, and snipe seasons during all firearms, youth, and muzzleloader deer seasons.
+(v) For waterfowl hunting, we allow hunting in portions of the East Unit on Saturdays, Sundays, and Tuesdays during the regular waterfowl seasons.
 
-5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
+(vi) Hunters must check in and out through the check station (FWS Form 3-2405) when accessing the East Unit by vehicle.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vii) We require hunters to remain in an assigned area for that day's hunt.
 
-1. Conditions A1 and A2 apply.
+(viii) We allow hunters to access designated areas of the East Unit by boat from Jackson Ditch, East Bay Bayou, or Onion Bayou.
 
-2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
+(ix) We allow hunting on the East Unit as governed by the State light goose conservation order. Hunt areas are by permit on a first-come, first-served basis the morning of the hunt. We allow a maximum of six persons per field. Individuals in each group must set up and stay in their permitted area and stay within 50 feet (15 meters (m)) of each other unless retrieving goose.
 
-3. We do not open for spring squirrel season on the refuge.
+(x) Hunters must set up within 50 yards (45 m) of the post marker and must stay within 50 feet (15 m) of each other unless retrieving waterfowl. We allow a minimum of two, and a maximum of six, persons per permit.
 
-4. We close squirrel, rabbit, and quail seasons during all firearms, youth, and muzzleloader deer seasons.
+(xi) We allow hunting in portions of the Middleton Tract daily during the September teal season and on Saturdays, Sundays, and Wednesdays of the regular waterfowl season.
 
-5. We close raccoon and opossum seasons on Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
+(xii) We restrict motorized boats in inland waters of the Middleton Tract to motors of 25 horsepower or less or electric trolling motors during hunting season.
 
-6. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
+(xiii) You may access hunt areas by foot, nonmotorized watercraft, outboard motorboat, or airboat. Airboats may not exceed 10 horsepower with direct drive with a propeller length of 48 inches (120 centimeters) or less.
 
-7. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
+(xiv) On inland waters of refuge hunt areas open to motorized boats, we restrict the operation of motorized boats to lakes, ponds, ditches, and other waterways when hunting. We prohibit the operation of motorized boats on or through emergent wetland vegetation.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(xv) On inland waters of the refuge hunt areas open to motorized boats, we restrict the use of boats powered by air-cooled or radiator-cooled engines to those powered by a single engine of 25 horsepower or less and utilizing a propeller 9 inches (22.5 centimeters) in diameter or less during the hunting season.
 
-1. Conditions A1, A2, B2, B6, and B7 apply.
+(xvi) We allow portable blinds or temporary natural vegetation blinds. You must remove all blinds, decoys, boats, spent shells, marsh chairs, and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-2. You may only participate in the refuge quota hunts with a special quota permit issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(xvii) We require a minimum distance between hunt parties of 200 yards (180 m).
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(xviii) We allow the use of dogs when hunting.
 
-1. Condition A1 applies.
+(2)-(3) [Reserved]
 
-2. We allow fishing only with pole and line, or rod and reel.
+(4) *Sport fishing.* We allow fishing and crabbing on designated areas of the refuge subject to the following conditions:
 
-3. We allow the use of bow and arrow, or a gig to take nongame fish on refuge waters.
+(i) We allow fishing and crabbing only with pole and line, rod and reel, or handheld line. We prohibit the use any method not expressly allowed, including trotlines, setlines, jug lines, limb lines, bows and arrows, gigs, spears, or crab traps.
 
-4. We prohibit taking frog or turtle on the refuge.
+(ii) We allow cast netting for bait for personal use along waterways in areas open to the public and along public roads.
 
-Cross Creeks National Wildlife Refuge
+(iii) The conditions set forth at paragraphs (a)(1)(xiii) and (xv) of this section apply.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of Canada geese (September season only) on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(iv) We prohibit mooring to water control structures.
 
-1. The refuge is open daily from1/2 hour before legal sunrise to1/2 hour after legal sunset, with the exception of legal hunting and/or fishing activities.
+(b) *Aransas National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, and merganser on designated areas of the refuge subject to the following conditions:
 
-2. We require a refuge hunt permit (name and address) for all hunters age 17 and older. We charge a fee for all hunt permits. You must carry a valid refuge permit while hunting on the refuge.
+(i) For the Matagorda Island upland units, each adult hunter age 17 or older must possess an annual public hunting permit administered by the State.
 
-3. We set and publish season dates and bag limits annually in the Refuge Hunting and Fishing Regulations available at the refuge office.
+(ii) Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon) on the Matagorda Island upland units. Hunters must leave upland units by 12:30 p.m. Authorized hunting on other designated areas begins 30 minutes before legal sunrise and ends at legal sunset.
 
-4. We prohibit hunting within 50 yards (45 m) of any building, public use road, or boat launching ramp.
+(iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-5. We allow access for goose hunting on the refuge from 2 hours before legal sunrise to 2 hours after legal sunset.
+(iv) We allow portable blinds or temporary natural vegetation blinds. You must remove all blinds, decoys, boats, spent shells, marsh chairs, and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-6. We prohibit the use of unlicensed motorized vehicles (e.g., ATVs, golf carts, etc.) on the refuge.
+(v) For the Matagorda Island upland units, we require all hunters to check in and out at the hunter check station located on the north end of the Island.
 
-7. We prohibit the use of horses or other animal conveyances on refuge hunts.
+(vi) We allow the use of dogs when hunting.
 
-8. Youth hunters under age 17 must remain in sight and normal voice contact with an adult hunter age 21 or older. One adult hunter may supervise no more than two youth hunters.
+(2) [Reserved]
 
-9. We allow the use of dogs to retrieve geese.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
 
-10. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge at the end of each day.
+(i) The condition set forth at paragraph (b)(1)(iii) of this section applies.
 
-11. We prohibit the use of lead shot.
+(ii) On the Blackjack and Tatton Units, we allow hunting subject to the following conditions:
 
-*B. Upland Game Hunting.* We allow hunting of squirrel on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(A) We allow sprays and other non-ingestible attractants.
 
-1. The refuge is a day-use area only, with the exception of legal hunting/fishing activities.
+(B) For the archery and rifle season, hunters must obtain a refuge self-clearing permit (FWS Form 3-2405).
 
-2. We require a refuge hunt permit (name and address) for all hunters age 17 and older. We charge a fee for all hunt permits. You must carry a valid refuge permit while hunting on the refuge.
+(C) The annual refuge hunt brochure provides bag limits.
 
-3. We set and publish season dates and bag limits annually in the Refuge Hunting and Fishing Regulations available at the refuge office.
+(D) Hunters must field dress all harvested game in the field.
 
-4. We prohibit hunting within 50 yards (45 m) of any building, public use road, or boat launching ramp.
+(E) We prohibit hunting on or across any part of the refuge road system, or hunting from a vehicle on any refuge road or road right-of-way. Hunters must remain at a minimum of 100 yards (90 meters) off any designated refuge road or structure.
 
-5. We allow hunters to access the refuge from 2 hours before legal sunrise to 2 hours after legal sunset.
+(F) We prohibit hunters using handguns during archery and rifle hunts.
 
-6. We prohibit the use of unlicensed motorized vehicles (e.g., ATVs & golf carts, etc.) on the refuge (see § 27.31(f) of this chapter).
+(G) We allow use of portable hunting stands, stalking of game, and still-hunting. There is a limit of two portable stands per permitted hunter. A hunter may set up the portable stands during the scouting day, but must remove them when the hunter's permit expires (see § 27.93 of this chapter).
 
-7. We prohibit the use of horses or other animal conveyances on the refuge hunts.
+(H) We allow the use of only biodegradable flagging tape to mark trails and hunt stand location during the archery and rifle hunts on the refuge. You must write your last name in black permanent marker on the first piece of flagging tape nearest the adjacent designated roadway.
 
-8. Each youth hunter under age 17 must remain within sight and normal voice contact of an adult age 21 or older. One adult hunter may supervise no more than two youth hunters.
+(iii) On the Matagorda Island Unit, we allow hunting subject to the following conditions:
 
-*C. Big Game Hunting.* We allow the hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(A) The conditions set forth at paragraphs (b)(3)(ii)(A) through (H) of this section apply.
 
-1. Conditions B1 through B7 apply.
+(B) We require all hunters to stay in their designated stand unless they are retrieving game. We prohibit stalking of game.
 
-2. We only allow the use of portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day.
+(C) Each adult hunter may supervise up to two youth hunters.
 
-3. You may only participate in the refuge quota deer hunts with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(4) *Sport fishing.* We allow sport fishing and fishing access on designated areas of the refuge subject to the following conditions:
 
-4. Each youth hunter younger than age 17 must remain within sight and normal voice contact of an adult age 21 or older. One adult hunter may supervise no more than one youth hunter.
+(i) We prohibit the use of crab traps in marshes within the boundary of any refuge unit.
 
-*D. Sport Fishing.* We allow fishing on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(ii) We allow the use of no more than two rods while fishing.
 
-1. We allow fishing on the refuge pools and reservoirs from March 16 through November 14 from1/2 hour before legal sunrise to1/2 hour after legal sunset.
+(iii) Beginning April 15 through October 15, you may access State waters for fishing at areas designated in the refuge fishing brochure. From October 16 through April 14, we open to fishing only the area adjacent to the picnic area off of the fishing pier; we allow wade fishing access in that immediate area. You may fish all year in the bayside marsh unit and the Gulf side beach of Matagorda Island.
 
-2. We prohibit trotlines, limblines, jugs, and slat baskets in refuge pools and impoundments and on Elk Reservoir and South Cross Creeks Reservoir.
+(iv) We prohibit consumption of alcohol or possession of open alcohol containers while fishing.
 
-3. We prohibit taking frog, turtle, and crawfish on the refuge (see § 27.21 of this chapter).
+(c) *Balcones Canyonlands National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning, white-wing, rock, and Eurasian-collared dove on designated areas of the refuge subject to the following conditions:
 
-4. We prohibit leaving boats unattended on the refuge after daylight use hours.
+(i) We allow hunters in designated area(s) from 12 p.m. (noon) to legal sunset.
 
-5. We prohibit swimming in refuge impoundments and from boat ramps and boat docks.
+(ii) We require refuge permits (name only).
 
-6. We allow bow fishing in refuge impoundments and on Barkley Lake.
+(iii) We allow the use of dogs to retrieve game birds during the hunt.
 
-Hatchie National Wildlife Refuge
+(iv) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(v) Hunter may bring up to two guests. Guests may not use a hunting firearm. Guests must be with the hunter at all times.
 
-1. We seasonally close the sanctuary areas of the refuge to the public from November 15 through March 15.
+(2) *Upland game hunting.* We allow hunting of wild turkey on designated areas of the refuge subject to the following conditions:
 
-2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+(i) The conditions set forth at paragraphs (c)(1)(ii) and (iv) of this section apply.
 
-3. We allow waterfowl hunting only on Tuesdays, Thursdays, and Saturdays. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise until 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+(ii) We require hunters to check in and out daily at designated check station(s).
 
-4. We close mourning dove, woodcock, and snipe seasons during all quota gun and youth deer gun hunts.
+(iii) The annual refuge hunt brochure provides bag limits.
 
-5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
+(iv) We allow the use of all-terrain vehicles (ATVs) to retrieve downed game.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(v) We allow scent attractants.
 
-1. Conditions A1 and A2 apply.
+(vi) A hunter may bring one guest. The guest may not use a hunting firearm or other hunting weapon (archery). The guest may assist the hunter in game retrieval or field dressing activities. The guest must be with the hunter at all times.
 
-2. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions: The conditions set forth at paragraphs (c)(1)(iv) and (c)(2)(ii) through (vi) of this section apply.
 
-3. We do not open to spring squirrel season on the refuge.
+(4) [Reserved]
 
-4. We close all small game hunts during the refuge deer quota and youth gun hunts.
+(d) *Big Boggy National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
-5. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
+(i) Season dates will be concurrent with the State for the September teal season, youth-only season, and duck and coot regular season in the Texas South Zone, and goose regular season in the Texas East Zone, with the exception that we prohibit duck (not including the September teal and youth-only seasons) and coot hunting on the refuge until the last Saturday in October. If the State-specified duck and coot regular season opens later than the last Saturday in October, then hunting on the refuge will open consistent with the State-specified season date.
 
-6. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
+(ii) Hunters 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(iii) Hunters may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 1 p.m.
 
-1. Conditions A1 through A2, B2, B5, and B6 apply.
+(iv) We allow motorized boats, including airboats, in open tidal waters. We prohibit the operation of motorized boats in shallow water through emergent and submergent wetland vegetation, or where bottom gouging would occur. We allow motorized boats to enter shallow water by drifting or polling, or by means of trolling motor where it does not cause damage to vegetation or the bottom.
 
-2. You may only participate in the refuge deer quota hunts with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(v) You must remove all decoys, boats, spent shells, marsh chairs, vegetation (blind material), and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-3. We allow archery deer and turkey hunting on designated areas of the refuge as defined annually in the refuge Public Use Regulations available at the refuge office and in accordance with State regulations.
+(vi) We require a minimum distance between hunt parties of 200 yards (180 meters).
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vii) We restrict vehicle access to designated roads and parking areas. You may access hunt units from land by foot or nonmotorized conveyance from designated parking areas or turn-arounds. You may access public waterfowl hunting areas by motorized boat from State waters, where applicable.
 
-1. Condition A1 applies.
+(2)-(4) [Reserved]
 
-2. We allow fishing only with pole and line, or rod and reel.
+(e) *Brazoria National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
 
-3. We allow use of a bow and arrow, or gig to take nongame fish on refuge waters.
+(i) Season dates will be concurrent with the State for the September teal season, youth-only season, and duck and coot regular season in the Texas South Zone, and goose regular season in the Texas East Zone, with the exception that we prohibit duck (not including the September teal and youth-only seasons) and coot hunting on the refuge until the last Saturday in October. If the State-specified duck and coot regular season opens later than the last Saturday in October, then hunting on the refuge will open consistent with the State-specified season date.
 
-4. We prohibit taking frog or turtle on the refuge.
+(ii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-5. We open Oneal Lake for fishing during a restricted season and for authorized special events. Information on events and season dates is available at the refuge headquarters.
+(iii) Hunters may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 1 p.m.
 
-6. We only allow fishing boats of 18 feet (5.5 meters) or less in length on refuge lakes.
+(iv) We allow hunting in the Alligator Marsh public waterfowl hunting area daily during the September teal season and on Saturdays, Sundays, and Wednesdays of the regular waterfowl season.
 
-7. We allow the use of nonmotorized boats and boats with electric motors only; we prohibit the use of gas and diesel motors on refuge lakes except in the waterfowl hunting area.
+(v) We allow motorized boats, including airboats, in open tidal waters. We prohibit the operation of motorized boats in shallow waters, through emergent and submergent wetland vegetation, or where bottom gouging would occur. We allow motorized boats to enter shallow water by drifting or polling, or by means of trolling motor where it does not cause damage to vegetation or the bottom.
 
-Lake Isom National Wildlife Refuge
+(vi) You must remove all decoys, boats, spent shells, marsh chairs, vegetation (blind material), and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(vii) We require a minimum distance between hunt parties of 200 yards (180 meters (m)).
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(viii) We allow the retrieval of downed waterfowl inside a 100-yard (91-m) retrieval zone west of Middle Bayou. We also allow the retrieval of downed waterfowl inside a 100-yard (91-m) retrieval zone around the portions of Alligator Lake that are open to hunting.
 
-1. We seasonally close the refuge to the public from November 15 through March 15.
+(ix) We restrict vehicle access to designated roads and parking areas. You may access hunt units from land by foot or nonmotorized conveyance from designated parking areas and turn-arounds. You may access public waterfowl hunting areas by motorized boat from State waters, where applicable.
 
-2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+(2)-(3) [Reserved]
 
-3. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon hunters may access the refuge from legal sunset to legal sunrise.
+(4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
 
-4. We allow horses only on roads opened to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
+(i) We prohibit the use or possession of alcoholic beverages in all public fishing areas.
 
-5. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
+(ii) We open Bastrop Bayou Fishing Pier and pull-offs to fishing 24 hours a day.
 
-6. We do not open for spring squirrel season on the refuge.
+(iii) We prohibit the use of trotlines, sail lines, set lines, jugs, gigs, spears, bush hooks, snatch hooks, crossbows, or bows and arrows of any type.
 
-*C. Big Game Hunting.* We allow only archery hunting for white-tailed deer on designated areas of the refuge in accordance with State regulations and subject to the following condition: Conditions B1 through B5 apply.
+(iv) The condition set forth at paragraph (e)(1)(v) of this section applies.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(f) *Buffalo Lake National Wildlife Refuge.* (1) [Reserved]
 
-1. We open all waters of Lake Isom to fishing only from March 16 through November 14 and from legal sunrise to legal sunset.
+(2) *Upland game hunting.* We allow hunting of ring-necked pheasant on designated areas of the refuge subject to the following conditions:
 
-2. We allow boats with only electric or outboard motors of 10 horsepower or less.
+(i) We require hunters to obtain a Special Use Permit (FWS Form 3-1383-G).
 
-3. We prohibit taking frog or turtle from refuge waters.
+(ii) Hunters age 17 and younger (“youth hunters”) must be under the direct supervision of an adult age 18 or older (“adult supervisor”).
 
-4. We allow fishing only with pole and line, or rod and reel.
+(iii) We limit hunting to 5 days, opening on Saturday as governed by the opening of the State of Texas hunting season, and the subsequent Monday, Wednesday, Friday, and Sunday.
 
-5. We allow use of a bow and arrow, or a gig to take nongame fish on refuge waters.
+(iv) Hunting hours will be from 9 a.m. to the close of legal shooting time as listed in the State of Texas pheasant hunting regulations.
 
-Lower Hatchie National Wildlife Refuge
+(v) All hunters must check in and out at refuge headquarters.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of duck, goose, coot, merganser, mourning dove, woodcock, and snipe on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vi) We allow only shotguns for pheasant hunting.
 
-1. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, mule deer, and feral hog on designated areas of the refuge subject to the following conditions:
 
-2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal laws.
+(i) The condition set forth at paragraph (f)(2)(ii) of this section applies.
 
-3. We allow hunting for duck, goose, coot, and merganser from1/2 hour before legal sunrise to 12 p.m. (noon) CST. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise.
+(ii) After legal sunset, hunters may be in designated camping areas only. We prohibit hunters in all other areas of the refuge after legal sunset.
 
-4. We close mourning dove, woodcock, and snipe seasons during all firearms, youth, and muzzleloader deer seasons.
+(iii) During the youth hunt:
 
-5. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge by 1 p.m. CST daily.
+(A) When hunting, each adult supervisor may supervise only one youth hunter. A youth hunter may have up to two adult supervisors.
 
-6. We close Sunk Lake Public Use Natural Area to all migratory game bird hunting, and we close the southern unit of Sunk Lake Public Use Natural Area to all hunting.
+(B) The condition set forth at paragraph (f)(2)(i) of this section applies.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel, rabbit, quail, raccoon, and opossum on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(4) [Reserved]
 
-1. Conditions A1, A2, and A6 apply.
+(g) *Caddo Lake National Wildlife Refuge.* (1)-(2) [Reserved]
 
-2. We allow hunters to access the refuge no more than 2 hours before legal sunrise to no more than 2 hours after legal sunset, except that raccoon and opossum hunters may access the refuge from legal sunset to legal sunrise.
+(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
 
-3. We do not open for spring squirrel season on the refuge.
+(i) The annual refuge tearsheet (signed brochure) provides season dates and bag limits.
 
-4. We close squirrel, rabbit, and quail seasons during all firearms, youth, and muzzleloader deer seasons.
+(ii) Deer archery hunters must possess and carry a signed refuge tearsheet (signed brochure) while hunting.
 
-5. We close raccoon and opossum seasons on Friday and Saturday nights during all firearms, youth, and muzzleloader deer hunts and seasons, including the Friday night prior to any hunt or season that opens on a Saturday morning.
+(iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-6. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
+(iv) You may hunt feral hog during any established refuge hunting season. Refuge permits and legal weapons apply for the current hunting season.
 
-7. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
+(v) We allow hunters to access the refuge no more than 2 hours before legal sunrise and no more than 2 hours after legal sunset.
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vi) You may participate in the refuge firearms deer hunt only with a Quota Deer Hunt Permit (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) issued through random drawing.
 
-1. Conditions A1, A2, A6, B2, B6, and B7 apply.
+(vii) We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment from the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
-2. You may participate in the refuge quota hunts only with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(viii) We allow all-terrain vehicles for medically documented disabled hunters by Special Use Permit (FWS Form 3-1383-G only).
 
-3. We allow archery deer hunting only on the northern unit of Sunk Lake Public Use Natural Area.
+(4) [Reserved]
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge and the Sunk Lake Public Use Natural Area in accordance with State regulations and subject to the following conditions:
+(h) *Hagerman National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning dove on designated areas of the refuge subject to the following conditions:
 
-1. We allow fishing only from legal sunrise to legal sunset.
+(i) You must possess and carry a signed refuge tearsheet (signed brochure).
 
-2. We allow fishing only with pole and line, or rod and reel.
+(ii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-3. We allow use of a bow and arrow, or a gig to take nongame fish on refuge waters.
+(iii) We require hunters to self-check-in and self-check-out (FWS Form 3-2405), with the exception of Nocona Unit.
 
-4. We prohibit taking frog or turtle on the refuge.
+(iv) We prohibit falconry.
 
-5. We seasonally close the sanctuary area of the refuge and the southern unit of Sunk Lake Public Use Natural Area to the public from November 15 through March 15.
+(v) We allow the use of dogs to retrieve game.
 
-6. We allow the use of only nonmotorized boats and boats with electric motors on Sunk Lake Public Use Natural Area.
+(vi) We allow only approved nontoxic shot (see § 32.2(k)) for all hunts on the refuge.
 
-Reelfoot National Wildlife Refuge
+(vii) We prohibit hunting within 150 feet (45 meters) of any day use area or walking trail.
 
-*A. Migratory Game Bird Hunting.* [Reserved]
+(2) *Upland game hunting.* We allow hunting of fox squirrel and eastern cottontail rabbit in the months of January, February, and September on designated areas of the refuge and subject to the following condition: The conditions set forth at paragraphs (h)(1)(i) through (vii) of this section apply.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and wild turkey on designated areas of the refuge subject to the following conditions:
 
-1. We seasonally close the refuge to the public from November 15 through March 15.
+(i) We require a limited hunt permit (name only) for controlled hunts for archery deer, hunts for feral hog, and spring wild turkey hunts.
 
-2. You must possess and carry a signed refuge permit (signed refuge brochure) and comply with all permit provisions and other applicable State and Federal law.
+(ii) We require feral hog and turkey hunters to self-check-in and self-check-out (FWS Form 3-2405), with the exception of Nocona Unit.
 
-3. We allow hunters to access the refuge no earlier than 2 hours before legal sunrise to no later than 2 hours after legal sunset, except that raccoon hunters may access the refuge from legal sunset to legal sunrise.
+(iii) We require controlled deer hunters to check in and out (FWS Form 3-2405) at the refuge check station.
 
-4. We allow horses only on roads open to motorized traffic. We prohibit the use of horses and other animal conveyances from all other areas including fields, woods, and foot trails.
+(iv) We allow muzzleloaders, bow and arrow, and shotguns for feral hog and spring turkey hunts. You may possess only lead-free, approved nontoxic (steel, bismuth, copper, or tungsten; see § 32.2(k)) bullets, slugs, and shot (00 buck for hogs, no shell larger than #4 shot size for turkey).
 
-5. You may take coyote and beaver incidental to legal hunting activities with legal methods of take for those hunts.
+(v) We require all hunters to check-in, show proof of personal identification, and produce a valid limited hunt permit (name only) prior to the hunt.
 
-6. We do not open for spring squirrel season on the refuge.
+(vi) We limit each hunter to one stand, which the hunter may place on the refuge during the day preceding each hunt. You must remove all stands by legal sunset on the last day of each hunt (see § 27.93 of this chapter).
 
-*C. Big Game Hunting.* We allow hunting for white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(vii) Hunters must check all game harvested during limited hunts at the refuge check station the same day of the kill and prior to leaving the refuge for the day.
 
-1. Conditions B1 through B5 apply.
+(viii) The conditions set forth at paragraphs (h)(1)(ii) and (v) of this section apply.
 
-2. You may participate in the refuge firearms deer and turkey quota hunts only with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(ix) We require proof of completion of a bow hunter education course for all archery deer hunting.
 
-*D. Sport Fishing.* We allow sport fishing on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(x) We require annual successful completion of an archery proficiency test with a score of 80 percent or higher for all deer hunt permit holders.
 
-1. We allow access to the Long Point Unit (north of Upper Blue Basin) for fishing from March 16 through November 14, and the Grassy Island Unit (south of Upper Blue Basin) for fishing from February 1 through November 14.
+(xi) We allow hunting only from stands or blinds, or by stalking.
 
-2. We allow fishing on the refuge from legal sunrise to legal sunset.
+(xii) We prohibit cutting of trees or limbs greater than 1 inch (2.5 centimeters).
 
-3. We prohibit taking of frog or turtle on the refuge.
+(xiii) We allow hunters with valid limited permits to place hunt stands on trees the day before their hunt segment begins, but they must first check-in at the hunter check station. They may not enter any hunt unit until 8 a.m., and they must leave the unit by 2 p.m. We will disqualify anyone in violation from hunting.
 
-4. We prohibit airboats, hovercraft, or personal watercraft (*e.g.,* Jet Skis) on any waters within the refuge boundary.
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge and subject to the following conditions:
 
-Tennessee National Wildlife Refuge
+(i) We open Lake Texoma and connected streams to bank fishing with pole and line, rod and reel, or hand line year-round.
 
-*A. Migratory Game Bird Hunting.* We allow hunting of Canada geese (September season only) on designated areas of the refuge in accordance with State regulations and subject to the following conditions:
+(ii) We allow wade fishing from March 15 through October 1 annually from all areas except Refuge Road, Wildlife Drive, Plover Road, Tern Road, and Egret Road.
 
-1. The refuge is open daily from1/2 hour before legal sunrise to1/2 hour after legal sunset, with the exception of legal hunting/fishing activities.
+(iii) We allow fishing in refuge ponds from March 15 through September 30 annually, with the exception of Refuge Road pond, which is open year-round.
 
-2. We require a refuge hunt permit (name and address) for all hunters age 17 and older. We charge a fee for all hunt permits. You must carry a valid refuge permit while hunting on the refuge.
+(iv) We prohibit the use of glass containers, plastic jugs, and/or plastic bottles as floats on trotlines.
 
-3. We set and publish season dates and bag limits annually in the refuge Public Use Regulations available at the refuge office.
+(v) You may only take bait for personal use while fishing in refuge waters as governed by Texas State law.
 
-4. We prohibit hunting within 50 yards (45 m) of any building, public use road, or boat launching ramp.
+(vi) We allow the use of bow and arrow to take nongame fish on refuge waters except from Refuge Road, Wildlife Drive, Plover Road, Tern Road, and Egret Road.
 
-5. We allow access for goose hunting on the refuge from 2 hours before legal sunrise to 2 hours after legal sunset.
+(vii) We prohibit limb lines, throw lines, jug lines, seine nets, noodling, and yo-yos.
 
-6. We prohibit the use of unlicensed motorized vehicles (e.g., ATVs and golf carts, etc.) on the refuge (see § 27.31(f) of this chapter).
+(viii) We prohibit taking frog, turtle, and mussel from refuge lands and waters (see § 27.21 of this chapter).
 
-7. We prohibit the use of horses or other animal conveyances on refuge hunts.
+(i) *Laguna Atascosa National Wildlife Refuge.* (1)-(2) [Reserved]
 
-8. Youth hunters under age 17 must remain in sight and normal voice contact with an adult hunter age 21 or older. One adult hunter may supervise no more than two youth hunters.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and nilgai antelope on designated areas of the refuge subject to the following conditions:
 
-9. We allow the use of dogs to retrieve geese.
+(i) We require hunters to obtain a refuge hunt permit (name and address only). We require the hunter to possess and carry a signed and dated refuge hunt permit (tearsheet) in addition to the State hunt permit.
 
-10. You may use only portable blinds, and you must remove all boats, blinds, and decoys from the refuge at the end of each day.
+(ii) We allow archery and firearm hunting on designated units of the refuge. Units 1, 2, 3, 5, 6, and 8 are open to archery hunting during designated dates. Units 2, 3, 5, and 8 are open to firearm hunting during designated dates.
 
-11. We prohibit hunters cutting vegetation and bringing exotic/invasive vegetation to the refuge.
+(iii) The annual refuge hunt brochure provides the bag limit for deer hunted on the refuge.
 
-12. We prohibit the use of lead shot.
+(iv) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-*B. Upland Game Hunting.* We allow hunting of squirrel and raccoon on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(v) We allow a scouting period prior to the commencement of the refuge deer hunting season. A permitted hunter and a limit of two non-permitted individuals may enter the hunt units during the scouting period. We allow access to the units during the scouting period from 11/2 hours before legal sunrise to legal sunset. You must clearly display the signed refuge hunt permit (tearsheet) face up on the vehicle dashboard when hunting and scouting.
 
-1. Condition A1 applies.
+(vi) We allow hunters to enter the refuge 11/2 hours before legal sunrise during the permitted hunt season. Hunters must leave the hunt unit no later than 1 hour after legal shooting hours.
 
-2. We require a refuge hunt permit (name and address) for all hunters age 17 and older. We charge a fee for all hunt permits. You must possess and carry a valid refuge hunt permit while hunting on the refuge.
+(vii) You may access hunt units only by foot or by bicycle.
 
-3. We set and publish season dates and bag limits annually in the refuge Public Use Regulations available at the refuge office.
+(viii) We allow hunting from portable stands or by stalking and still hunting. There is a limit of one blind or stand per permitted hunter. You must attach hunter identification (permit number or license number) to the blind or stand. You must remove all blinds and stands at the end of the permitted hunt season (see § 27.93 of this chapter).
 
-4. We prohibit hunting within 50 yards (45 m) of any building, public use road, or boat launching ramp.
+(ix) Hunters must field-dress all harvested big game in the field and check the game at the refuge check station before removal from the refuge. You may use a nonmotorized cart to assist with the transportation of harvested game animals.
 
-5. We allow hunters to access the refuge from 2 hours before legal sunrise to 2 hours after legal sunset.
+(x) We prohibit killing or wounding a deer, hog, or antelope and then intentionally or knowingly failing to make a reasonable effort to retrieve and include it in the hunter's bag limit.
 
-6. We allow hunting for raccoon from legal sunset to legal sunrise.
+(4) *Sport fishing.* We allow fishing and crabbing on designated areas of the refuge subject to the following conditions:
 
-7. We prohibit the use of unlicensed motorized vehicles (e.g., ATVs and golf carts, etc.) on the refuge (see § 27.31(f) of this chapter).
+(i) We only allow fishing and crabbing year-round from Adoph Thomae Jr. County Park on San Martin Lake of the Bahia Grande Unit, and on the South Padre Island Unit.
 
-8. We prohibit the use of horses and other animal conveyances on refuge hunts.
+(ii) We only allow pole and line, rod and reel, hand line, dip net, or cast net for fishing. We prohibit the use of crab traps or pots for crabbing. Anglers must attend all fishing lines, crabbing equipment, or other fishing devices at all times.
 
-9. Each youth hunter (under age 17) must remain within sight and normal voice contact and under supervision of an adult age 21 or older. One adult may supervise no more than two youth hunters.
+(iii) We allow the use of boats for sport fishing. We only allow bank and wade fishing on the shoreline of San Martin Lake within the refuge boundary. We only allow access by foot behind posted refuge boundary signs.
 
-10. You may take coyote and beaver incidental to legal hunting activities.
+(j) *Lower Rio Grande Valley National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of mourning, white-winged, and white-tipped dove on designated areas of the refuge subject to the following conditions:
 
-*C. Big Game Hunting.* We allow hunting of white-tailed deer and turkey on designated areas of the refuge in accordance with State regulations subject to the following conditions:
+(i) We require hunters to obtain a refuge hunt permit (signed tearsheet) and to possess and carry that permit at all times during your designated hunt period. Hunters must also display the refuge-issued vehicle placard (part of the hunt permit) while participating in the designated hunt period.
 
-1. Conditions B1 through B5, B7 through B9 (each adult may only supervise one youth hunter), and B11 apply.
+(ii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
 
-2. You may participate in the refuge quota deer hunts only with a special quota permit (name and address only) issued through random drawing. Information for permit applications is available at the refuge headquarters.
+(iii) You may access the refuge during your permitted hunt period from 1 hour before legal hunt time to 1 hour after legal hunt time. You must only hunt during legal hunt hours.
 
-3. We allow the use of only portable blinds and tree stands on the refuge. You must remove blinds, tree stands, and all other personal equipment (see § 27.93 of this chapter) from the refuge at the end of each day.
+(iv) We restrict hunt participants to those listed on the refuge hunt permit (hunter, non-hunting chaperone, and non-hunting assistant).
 
-*D. Sport Fishing.* We allow fishing on designated portions of the refuge in accordance with State regulations subject to the following conditions:
+(v) We allow hunters to use bicycles on designated routes of travel.
 
-1. We allow fishing in Swamp Creek, Sulphur Well Bay, and Bennetts Creek from March 16 through November 14. The remainder of the refuge portion of Kentucky Lake will remain open year-round. We allow bank fishing year-round along Refuge Lake from the New Johnsonville Pump Station.
+(vi) We allow the use of dogs to retrieve doves during the hunt.
 
-2. We limit boats to no wake speed on all refuge impoundments.
+(2) [Reserved]
 
-3. We prohibit leaving boats unattended on the refuge after daylight use hours.
+(3) *Big game hunting.* We allow hunting of white-tailed deer, feral hog, and nilgai antelope on designated areas of the refuge subject to the following conditions:
 
-4. We allow fishing on interior refuge impoundments from1/2 hour before legal sunrise to1/2 hour after legal sunset from March 16 to November 14.
+(i) The conditions set forth at paragraphs (j)(1)(i) through (v) of this section apply.
 
-5. We prohibit taking frog, turtle, and crawfish on the refuge (see § 27.21 of this chapter).
+(ii) We allow the use of rattling horns.
 
-6. We prohibit trotlines, limblines, jugs, and slat baskets in refuge pools and impoundments.
+(iii) We allow free-standing blinds or tripods. Hunters may set them up during the scouting days preceding each permitted hunt day and must take them down by the end of each hunt day (see § 27.93 of this chapter). Hunters must mark and tag all stands with their hunting license number during the period of use.
 
-7. We prohibit swimming in refuge impoundments and from boat ramps and boat docks.
+(iv) Hunters must field-dress all harvested big game in the field.
 
-8. We allow bow fishing in refuge impoundments and on Kentucky Lake.
+(v) Hunters may use nonmotorized dollies or carts off improved roads or trails to haul carcasses to a parking area.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 58 FR 29085, May 18, 1993; 59 FR 6698, Feb. 11, 1994; 59 FR 55188, Nov. 3, 1994; 60 FR 62047, Dec. 4, 1995; 62 FR 47382, Sept. 9, 1997; 63 FR 46921, Sept. 3, 1998; 65 FR 30791, May 12, 2000; 66 FR 46361, Sept. 4, 2001; 67 FR 58950, Sept. 18, 2002; 69 FR 54362, 54454, Sept. 8, 2004; 70 FR 54191, Sept. 13, 2005; 73 FR 33197, June 11, 2008; 74 FR 45697, Sept. 3, 2009; 76 FR 3990, Jan. 21, 2011; 76 FR 56086, Sept. 9, 2011; 77 FR 56060, Sept. 11, 2012; 80 FR 51930, Aug. 26, 2015; 81 FR 68918, Oct. 4, 2016; 83 FR 45802, Sept. 10, 2018]
+(vi) We prohibit use of big game decoys.
+
+(vii) We prohibit the killing, wounding, taking, or possession of a deer, hog, or antelope and then intentionally or knowingly failing to make a reasonable effort to retrieve or keep the edible portions of the animal and include it in your bag limit.
+
+(4) [Reserved]
+
+(k) *McFaddin National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) Season dates will be concurrent with the State for the September teal season, youth-only season, and duck and coot regular season in the Texas South Zone, and goose regular season in the Texas East Zone, with the exception that we prohibit duck (not including the September teal and youth-only seasons) and coot hunting on the refuge until the last Saturday in October. If the State-specified duck and coot regular season opens later than the last Saturday in October, then hunting on the refuge will open consistent with the State-specified season date.
+
+(ii) You must possess and carry a current signed refuge hunting permit (signed tearsheet) while hunting on all units of the refuge.
+
+(iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+
+(iv) Hunters must enter the refuge hunt units between 4 a.m. and1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+
+(v) You may access hunt areas by foot, nonmotorized watercraft, outboard motorboat, or airboat. Airboats may not exceed 10 horsepower with direct drive with a propeller length of 48 inches (120 centimeters) or less. Engines may not exceed 2 cylinders and 484 cc.
+
+(vi) We allow hunting in the Star Lake/Clam Lake Hunt Unit daily during the special teal season and on Saturdays, Sundays, and Tuesdays of the regular waterfowl season. During the regular waterfowl season only, all hunters hunting the Star Lake/Clam Lake Hunt Units must register at the check station (FWS Form 3-2405), including those accessing the unit from the beach along the Brine Line or Perkins Levee.
+
+(vii) We allow hunting in the Central Hunt Units daily during the September teal season and on Saturdays, Sundays, and Tuesdays of the regular waterfowl season.
+
+(viii) We only allow hunting in the Spaced Hunt Units on Saturdays, Sundays, and Tuesdays of the regular waterfowl season. We allow a maximum of four hunters per area. Hunters must possess and carry Special Fee Area Permits (signed refuge tearsheet) while hunting.
+
+(ix) We allow daily hunting in the Mud Bayou Hunt Unit during the September teal season and on Sundays, Wednesdays, and Fridays of the regular waterfowl season. We allow access by foot from the beach at designated crossings or by boat from the Gulf Intracoastal Waterway via Mud Bayou.
+
+(x) On inland waters of the refuge hunt area open to motorized boats, we restrict the use of boats powered by air-cooled or radiator-cooled engines to those powered by a single engine of 25 horsepower or less and utilizing a propeller 9 inches (22.5 centimeters) in diameter or less during the hunting season.
+
+(xi) We allow portable blinds and temporary natural vegetation blinds. You must remove all blinds, decoys, boats, spent shells, marsh chairs, and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(xii) We require a minimum distance between hunt parties, and between hunters and driveable roads and buildings, of 200 yards (180 meters).
+
+(xiii) We allow the use of dogs when hunting.
+
+(2)-(3) [Reserved]
+
+(4) *Sport fishing.* We allow fishing and crabbing on designated areas of the refuge subject to the following conditions:
+
+(i) We only allow fishing and crabbing with pole and line, rod and reel, or handheld line. We prohibit the use of any method not expressly allowed in inland waters, including trotlines, set lines, jug lines, limb lines, bows and arrows, gigs, spears, and crab traps.
+
+(ii) We allow cast netting for bait for personal use along waterways in areas open to the public and along public roads.
+
+(iii) The conditions set forth at paragraphs (k)(1)(v) and (x) of this section apply.
+
+(iv) We prohibit mooring to water control structures.
+
+(l) *San Bernard National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) Season dates will be concurrent with the State for the September teal season, youth-only season, and duck and coot regular season in the Texas South Zone, and goose regular season in the Texas East Zone, with the exception that we prohibit duck (not including the September teal and youth-only seasons) and coot hunting on the refuge until the last Saturday in October. If the State-specified duck and coot regular season opens later than the last Saturday in October, then hunting on the refuge will open consistent with the State-specified season date.
+
+(ii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+
+(iii) Hunters may enter the refuge hunt units no earlier than 4 a.m. Hunting starts at the designated legal shooting time and ends at 12 p.m. (noon). Hunters must leave refuge hunt units by 1 p.m.
+
+(iv) We require hunters to use the Waterfowl Lottery Application (FWS Form 3-2439, Hunt Application - National Wildlife Refuge System) for the Sargent Permit Waterfowl Hunt Area. Hunters must abide by all terms and conditions set by the permit.
+
+(v) We allow motorized boats, including airboats, in open tidal waters. We prohibit the operation of motorized boats in shallow waters, through emergent and submergent wetland vegetation, or where bottom gouging would occur. We allow motorized boats to enter shallow water by drifting or polling, or by means of trolling motor where it does not cause damage to vegetation or the bottom.
+
+(vi) You must remove all decoys, boats, spent shells, marsh chairs, vegetation (blind material), and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(vii) We require a minimum distance between hunt parties of 200 yards (180 meters).
+
+(viii) We restrict vehicle access to designated roads. You may access hunt units from land by foot or nonmotorized conveyance from designated parking areas or turn-arounds. You may access public waterfowl hunting areas by motorized boat from State waters, where applicable.
+
+(2)-(3) [Reserved]
+
+(4) *Sport fishing.* We allow sport fishing on designated areas of the refuge subject to the following conditions:
+
+(i) We prohibit the use or possession of alcoholic beverages in all public fishing areas.
+
+(ii) The condition set forth at paragraph (l)(1)(v) of this section applies.
+
+(m) *Texas Point National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of goose, duck, and coot on designated areas of the refuge subject to the following conditions:
+
+(i) Season dates will be concurrent with the State for the September teal season, youth-only season, and duck and coot regular season in the Texas South Zone, and goose regular season in the Texas East Zone, with the exception that we prohibit duck (not including the September teal and youth-only seasons) and coot hunting on the refuge until the last Saturday in October. If the State-specified duck and coot regular season opens later than the last Saturday in October, then hunting on the refuge will open consistent with the State-specified season date.
+
+(ii) You must possess and carry a current signed refuge hunting permit (signed tearsheet) while hunting on all hunt units of the refuge.
+
+(iii) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+
+(iv) Hunters must enter the refuge hunt unit between 4 a.m. and1/2 hour before the designated legal shooting time. Hunting starts at legal shooting time and ends at 12 p.m. (noon). Hunters must be off refuge hunt units by 12:30 p.m. We close refuge hunt units on Thanksgiving, Christmas, and New Year's Day.
+
+(v) We allow hunting in portions of the refuge daily during the September teal season and on Saturdays, Mondays, and Wednesdays during the regular waterfowl season.
+
+(vi) You may access hunt areas by foot, nonmotorized watercraft, outboard motorboat, or airboat. Airboats may not exceed 10 horsepower with direct drive with a propeller length of 48 inches (120 centimeters) or less. Engines may not exceed 2 cylinders and 484 cc.
+
+(vii) On inland waters of the refuge hunt area open to motorized boats, we restrict the use of boats powered by air-cooled or radiator-cooled engines to those powered by a single engine of 25 horsepower or less and utilizing a propeller 9 inches (22.5 centimeters) in diameter or less during the hunting season.
+
+(viii) We allow portable blinds and temporary natural vegetation blinds. You must remove all blinds, decoys, boats, spent shells, marsh chairs, and other equipment from the refuge at the end of each day's hunt (see §§ 27.93 and 27.94 of this chapter).
+
+(ix) We require a minimum distance between hunt parties of 200 yards (180 meters).
+
+(x) We allow the use of dogs when hunting.
+
+(2)-(3) [Reserved]
+
+(4) *Sport fishing.* We allow fishing and crabbing on designated areas of the refuge subject to the following conditions:
+
+(i) We allow fishing and crabbing with pole and line, rod and reel, or handheld line. We prohibit the use of any method not expressly allowed in inland waters, including trotlines, set lines, jug lines, limb lines, bows and arrows, gigs, spears, and crab traps.
+
+(ii) We allow cast netting for bait by individuals along waterways in areas open to the public and along public roads.
+
+(iii) The conditions set forth at paragraphs (m)(1)(vi) and (vii) of this section apply.
+
+(iv) We prohibit mooring to water control structures.
+
+(n) *Trinity River National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck on designated areas of the refuge subject to the following conditions:
+
+(i) We only allow hunting on Champion Lake by refuge lottery drawing.
+
+(ii) We only allow hunting on Champion Lake Saturdays and Sundays during the State duck season. Hunters may not enter the refuge until 5 a.m. and must be out of the hunt area by 12 p.m. (noon).
+
+(iii) You must remove all blinds, decoys, shell casings, and other personal equipment following each hunt day (see §§ 27.93 and 27.94 of this chapter).
+
+(iv) We allow the use of dogs when retrieving game.
+
+(v) Hunters age 17 and younger must be under the direct supervision of an adult age 18 or older.
+
+(vi) We require a minimum distance between hunt parties of 150 yards (135 meters).
+
+(2) *Upland game hunting.* We allow hunting for squirrel and rabbit on designated areas of the refuge subject to the following conditions:
+
+(i) We require hunters to possess a refuge permit (signed tearsheet). The hunter must carry the nontransferable permit at all times while hunting.
+
+(ii) We require that refuge hunters turn in the Upland/Small Game/Furbearer Report (FWS Form 3-2362) by the date specified on the permit. Failure to submit the report will render the hunter ineligible for the next year's limited upland game hunt.
+
+(iii) The condition set forth at paragraph (n)(1)(v) of this section applies.
+
+(iv) We allow all-terrain vehicle use for hunters with disabilities in designated units.
+
+(v) We require a minimum distance between hunt parties of 200 yards (180 meters). Hunters must visibly wear 400 square inches (2,600 square centimeters) of hunter orange above the waist and a solid hunter-orange hat or cap.
+
+(vi) Hunters may enter the refuge no earlier than 4:30 a.m. We allow hunting from1/2 hour before legal sunrise to legal sunset only during the days specified on the permit.
+
+(vii) Hunters may place no more than one temporary stand on the refuge. Hunters may place the stand during the scouting week before the hunt begins and must remove it the day the hunt ends (see § 27.93 of this chapter). Hunters must label blinds with the name of the permit holder. We prohibit hunting or erection of blinds on refuge roads or mowed/maintained trails.
+
+(3) *Big game hunting.* We allow hunting of white-tailed deer and feral hog on designated areas of the refuge subject to the following conditions:
+
+(i) We require a refuge permit (signed refuge tearsheet) and Big Game Harvest Report (FWS Form 3-2359). Hunters must turn in both forms by the date specified on the permit. Failure to submit the Big Game Harvest Report will render the hunter ineligible for the next year's limited big game hunt. Drawings are by lottery. The hunter must carry the nontransferable permit at all times while hunting.
+
+(ii) The conditions set forth at paragraphs (n)(1)(v) and (n)(2)(iv) through (vii) of this section apply.
+
+(iii) We allow hunting during a designated 23-day archery season.
+
+(4) *Sport fishing.* We allow fishing on designated areas of the refuge subject to the following conditions:
+
+(i) We only allow fishing with pole and line, rod and reel, or hand-held line.
+
+(ii) We prohibit the use of trotlines, setlines, bows and arrows, gigs, spears, fish traps, crab/crawfish traps, and/or nets.
+
+(iii) We prohibit the harvesting of frog or turtle (see § 27.21 of this chapter).
+
+(iv) We allow fishing from legal sunrise to legal sunset.

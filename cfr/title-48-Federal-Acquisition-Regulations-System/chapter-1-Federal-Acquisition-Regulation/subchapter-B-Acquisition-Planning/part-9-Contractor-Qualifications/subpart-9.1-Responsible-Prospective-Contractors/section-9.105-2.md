@@ -1,5 +1,7 @@
 ##### 9.105-2 Determinations and documentation. #####
 
+Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
+
 (a) *Determinations.* (1) The contracting officer's signing of a contract constitutes a determination that the prospective contractor is responsible with respect to that contract. When an offer on which an award would otherwise be made is rejected because the prospective contractor is found to be nonresponsible, the contracting officer shall make, sign, and place in the contract file a determination of nonresponsibility, which shall state the basis for the determination.
 
 (2) If the contracting officer determines that a responsive small business lacks certain elements of responsibility, the contracting officer shall comply with the procedures in subpart 19.6. When a Certificate of Competency is issued for a small business concern (see subpart 19.6), the contracting officer shall accept the Small Business Administration's decision to issue a Certificate of Competency and award the contract to the concern.

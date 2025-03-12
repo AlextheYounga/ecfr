@@ -1,5 +1,7 @@
 ##### 13.106-2 Evaluation of quotations or offers. #####
 
+Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
+
 (a) *General.* (1) The contracting officer shall evaluate quotations or offers -
 
 (i) In an impartial manner; and

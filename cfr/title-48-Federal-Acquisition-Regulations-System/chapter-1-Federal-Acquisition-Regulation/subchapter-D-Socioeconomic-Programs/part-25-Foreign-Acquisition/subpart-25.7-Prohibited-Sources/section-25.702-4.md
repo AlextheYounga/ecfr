@@ -1,5 +1,7 @@
 ##### 25.702-4 Waiver. #####
 
+Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
+
 (a) The President may waive the requirement of subsection 25.702-2 on a case-by-case basis if the President determines and certifies in writing to the appropriate congressional committees that it is in the national interest to do so.
 
 (b) An agency seeking waiver of the requirement shall submit the request to the Administrator of the Office of Federal Procurement Policy (OFPP), allowing sufficient time for review and approval. Upon receipt of the waiver request, OFPP shall consult with the President's National Security Council, Office of African Affairs, and the Department of State Sudan Office and Sanctions Office to assess foreign policy aspects of making a national interest recommendation.

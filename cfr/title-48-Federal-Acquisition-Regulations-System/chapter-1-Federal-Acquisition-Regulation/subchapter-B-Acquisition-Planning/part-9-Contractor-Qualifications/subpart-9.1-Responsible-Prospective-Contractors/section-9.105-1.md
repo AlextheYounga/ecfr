@@ -1,5 +1,7 @@
 ##### 9.105-1 Obtaining information. #####
 
+Link to an amendment published at 84 FR 47866, Sept. 10, 2019.
+
 (a) Before making a determination of responsibility, the contracting officer shall possess or obtain information sufficient to be satisfied that a prospective contractor currently meets the applicable standards in 9.104.
 
 (b)(1) Generally, the contracting officer shall obtain information regarding the responsibility of prospective contractors, including requesting preaward surveys when necessary (see 9.106), promptly after a bid opening or receipt of offers. However, in negotiated contracting, especially when research and development is involved, the contracting officer may obtain this information before issuing the request for proposals. Requests for information shall ordinarily be limited to information concerning -

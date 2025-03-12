@@ -1,5 +1,7 @@
 ##### § 455.101 Definitions. #####
 
+Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
+
 *Agent* means any person who has been delegated the authority to obligate or act on behalf of a provider.
 
 *Disclosing entity* means a Medicaid provider (other than an individual practitioner or group of practitioners), or a fiscal agent.

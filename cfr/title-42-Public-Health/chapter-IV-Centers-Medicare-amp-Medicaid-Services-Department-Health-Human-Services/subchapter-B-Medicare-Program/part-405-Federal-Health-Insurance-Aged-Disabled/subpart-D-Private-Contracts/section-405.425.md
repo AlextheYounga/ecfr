@@ -1,5 +1,7 @@
 ##### § 405.425 Effects of opting-out of Medicare. #####
 
+Link to an amendment published at 84 FR 47852, Sept. 10, 2019.
+
 If a physician or practitioner opts-out of Medicare in accordance with this subpart, the following results obtain during the opt-out period:
 
 (a) Except as provided in § 405.440, no payment may be made directly by Medicare or by any Medicare Advantage plan to the physician or practitioner or to any entity to which the physician or practitioner reassigns his right to receive payment for services.

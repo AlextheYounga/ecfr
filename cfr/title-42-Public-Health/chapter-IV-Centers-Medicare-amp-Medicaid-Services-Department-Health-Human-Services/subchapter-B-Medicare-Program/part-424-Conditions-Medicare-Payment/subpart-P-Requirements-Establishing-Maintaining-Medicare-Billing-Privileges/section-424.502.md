@@ -1,5 +1,7 @@
 ##### § 424.502 Definitions. #####
 
+Link to an amendment published at 84 FR 47852, Sep. 10, 2019.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Approve/Approval* means the enrolling provider or supplier has been determined to be eligible under Medicare rules and regulations to receive a Medicare billing number and be granted Medicare billing privileges.

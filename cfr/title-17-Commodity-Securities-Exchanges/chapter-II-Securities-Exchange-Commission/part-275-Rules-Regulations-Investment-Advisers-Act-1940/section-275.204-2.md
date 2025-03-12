@@ -1,7 +1,5 @@
 ##### § 275.204-2 Books and records to be maintained by investment advisers. #####
 
-Link to an amendment published at 84 FR 33630, July 12, 2019.
-
 (a) Every investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3) shall make and keep true, accurate and current the following books and records relating to its investment advisory business;
 
 (1) A journal or journals, including cash receipts and disbursements, records, and any other records of original entry forming the basis of entries in any ledger.
@@ -50,7 +48,7 @@ Link to an amendment published at 84 FR 33630, July 12, 2019.
 
 (iii) A record of any decision, and the reasons supporting the decision, to approve the acquisition of securities by access persons under § 275.204A-1(c), for at least five years after the end of the fiscal year in which the approval is granted.
 
-(14)(i) A copy of each brochure and brochure supplement, and each amendment or revision to the brochure and brochure supplement, that satisfies the requirements of Part 2 of Form ADV [17 CFR 279.1]; any summary of material changes that satisfies the requirements of Part 2 of Form ADV but is not contained in the brochure; and a record of the dates that each brochure and brochure supplement, each amendment or revision thereto, and each summary of material changes not contained in a brochure was given to any client or to any prospective client who subsequently becomes a client.
+(14)(i) A copy of each brochure, brochure supplement and Form CRS, and each amendment or revision to the brochure, brochure supplement and Form CRS, that satisfies the requirements of Part 2 or Part 3 of Form ADV, as applicable [17 CFR 279.1]; any summary of material changes that satisfies the requirements of Part 2 of Form ADV but is not contained in the brochure; and a record of the dates that each brochure, brochure supplement and Form CRS, each amendment or revision thereto, and each summary of material changes not contained in a brochure given to any client or to any prospective client who subsequently becomes a client.
 
 (ii) Documentation describing the method used to compute managed assets for purposes of Item 4.E of Part 2A of Form ADV, if the method differs from the method used to compute regulatory assets under management in Item 5.F of Part 1A of Form ADV.
 

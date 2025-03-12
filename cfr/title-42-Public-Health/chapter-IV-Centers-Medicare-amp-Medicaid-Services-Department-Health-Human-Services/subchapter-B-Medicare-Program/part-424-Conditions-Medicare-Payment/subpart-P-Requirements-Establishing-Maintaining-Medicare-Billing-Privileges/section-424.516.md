@@ -1,5 +1,7 @@
 ##### § 424.516 Additional provider and supplier requirements for enrolling and maintaining active enrollment status in the Medicare program. #####
 
+Link to an amendment published at 84 FR 47852, Sept. 10, 2019.
+
 (a) *Certifying compliance.* CMS enrolls and maintains an active enrollment status for a provider or supplier when that provider or supplier certifies that it meets, and continues to meet, and CMS verifies that it meets, and continues to meet, all of the following requirements:
 
 (1) Compliance with title XVIII of the Act and applicable Medicare regulations.
