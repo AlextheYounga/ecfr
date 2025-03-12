@@ -1,5 +1,7 @@
 ##### § 460.121 Service determination process. #####
 
+Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
+
 (a) *Written procedures.* Each PACE organization must have formal written procedures for identifying and processing service determination requests in accordance with the requirements of this Part.
 
 (b) *What is a service determination request*—(1) *Requests that constitute a service determination request.* Except as provided in paragraph (b)(2) of this section, the following requests constitute service determination requests:

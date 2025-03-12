@@ -1,5 +1,7 @@
 ##### § 422.2265 Websites. #####
 
+Link to an amendment published at 88 FR 22336, Apr. 12, 2023.
+
 As required under § 422.111(h)(2), MA organizations must have a website.
 
 (a) *General website requirements.* (1) MA organization websites must meet all of the following requirements:

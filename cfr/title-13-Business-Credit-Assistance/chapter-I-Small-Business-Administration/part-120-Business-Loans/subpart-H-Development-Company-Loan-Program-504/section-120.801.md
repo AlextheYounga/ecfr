@@ -1,5 +1,7 @@
 ##### § 120.801 How a 504 Project is financed. #####
 
+Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
+
 (a) One or more small businesses may apply for 504 financing through a CDC serving the area where the 504 Project is located. SBA issues an Authorization if it agrees to guarantee part of the funding for a Project.
 
 (b) Usually, a Project requires interim financing from an interim lender (often the same lender that later provides a portion of the permanent financing).

@@ -1,5 +1,7 @@
 ##### § 422.113 Special rules for ambulance services, emergency and urgently needed services, and maintenance and post-stabilization care services. #####
 
+Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
+
 (a) *Ambulance services.* The MA organization is financially responsible for ambulance services, including ambulance services dispatched through 911 or its local equivalent, where other means of transportation would endanger the beneficiary's health.
 
 (b) *Emergency and urgently needed services*—(1) *Definitions.* (i) *Emergency medical condition* means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, with an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in—

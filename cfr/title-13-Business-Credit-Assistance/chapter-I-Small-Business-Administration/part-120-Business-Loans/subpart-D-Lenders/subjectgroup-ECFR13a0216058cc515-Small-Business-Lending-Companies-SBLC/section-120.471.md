@@ -1,5 +1,7 @@
 ##### § 120.471 What are the minimum capital requirements for SBLCs? #####
 
+Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
+
 (a) *Minimum capital requirements.* (1) Beginning on January 4, 2024, each SBLC that makes or acquires a 7(a) loan must maintain, at a minimum, unencumbered paid-in capital and paid-in surplus of at least $5,000,000, or 10 percent of the aggregate of its share of all outstanding loans, whichever is greater.
 
 (2) Any SBLC approved on or after January 4, 2021, including in the event of a change of ownership or control, must maintain the minimum capital requirement set forth in paragraph (a)(1) of this section.

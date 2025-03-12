@@ -1,5 +1,7 @@
 ##### § 422.2263 General marketing requirements. #####
 
+Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
+
 Marketing is a subset of communications and therefore must follow the requirements outlined in § 422.2262 as well as this section. Marketing (as defined in § 422.2260) must additionally meet the following requirements:
 
 (a) MA organizations may begin marketing prospective plan year offerings on October 1 of each year for the following contract year. MA organizations may market the current and prospective year simultaneously provided materials clearly indicate what year is being discussed.

@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to an amendment published at 88 FR 21073, Apr. 10, 2023.
+Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to an amendment published at 88 FR 21073, Apr. 10, 2023.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -307,17 +307,51 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (6) Determine all other measures of energy efficiency or consumption or other useful measures of performance using appendix M or M1 of this subpart.
 
-(n) *Furnaces.* (1) The estimated annual operating cost for furnaces is the sum of: (i) The product of the average annual fuel energy consumption, in Btu's per year for gas or oil furnaces or in kilowatt-hours per year for electric furnaces, determined according to section 10.2.2 or 10.3 of appendix N of this subpart, respectively, and the representative average unit cost in dollars per Btu for gas or oil, or dollars per kilowatt-hour for electric, as appropriate, as provided pursuant to section 323(b)(2) of the Act, plus (ii) the product of the average annual auxiliary electric energy consumption in kilowatt-hours per year determined according to section 10.2.3 of appendix N of this subpart, and the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting sum then being rounded off to the nearest dollar per year. (For furnaces which operate with variable inputs, an estimated annual operating cost is to be calculated for each degree of oversizing specified in section 10 of appendix N of this subpart.)
+(n) *Furnaces.* (1) The estimated annual operating cost for furnaces is the sum of:
 
-(2) The annual fuel utilization efficiency for furnaces, expressed in percent, is the ratio of the annual fuel output of useful energy delivered to the heated space to the annual fuel energy input to the furnace determined according to section 10.1 of appendix N of this subpart for gas and oil furnaces and determined in accordance with section 11.1 of the American National Standards Institute/American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ANSI/ASHRAE) Standard 103-1993 (incorporated by reference, see § 430.3) for electric furnaces. Truncate the annual fuel utilization efficiency to one-tenth of a percentage point.
+(i) The product of the average annual fuel energy consumption, in Btu's per year for gas or oil furnaces or in kilowatt-hours per year for electric furnaces, determined according to section 10.2.2 or 10.3 of appendix N of this subpart, respectively, (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or section 10.2.2 or 10.3 of appendix EE of this subpart, respectively (for low pressure steam or hot water boilers and electric boilers), and the representative average unit cost in dollars per Btu for gas or oil, or dollars per kilowatt-hour for electric, as appropriate, as provided pursuant to section 323(b)(2) of the Act; plus
 
-(3) The estimated regional annual operating cost for furnaces is the sum of: (i) The product of the regional annual fuel energy consumption in Btu's per year for gas or oil furnaces or in kilowatt-hours per year for electric furnaces, determined according to section 10.5.1 or 10.5.3 of appendix N of this subpart, respectively, and the representative average unit cost in dollars per Btu for gas or oil, or dollars per kilowatt-hour for electric, as appropriate, as provided pursuant to section 323(b)(2) of the Act, plus (ii) the product of the regional annual auxiliary electrical energy consumption in kilowatt-hours per year, determined according to section 10.5.2 of appendix N of this subpart, and the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting sum then being rounded off to the nearest dollar per year.
+(ii) The product of the average annual auxiliary electric energy consumption in kilowatt-hours per year determined according to section 10.2.3 of appendix N of this subpart (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or section 10.2.3 of appendix EE of this subpart (for low pressure steam or hot water boilers and electric boilers) of this subpart, and the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act.
 
-(4) The energy factor for furnaces, expressed in percent, is the ratio of annual fuel output of useful energy delivered to the heated space to the total annual energy input to the furnace determined according to section 10.4 of appendix N of this subpart.
+(iii) Round the resulting sum to the nearest dollar per year.
 
-(5) The average standby mode and off mode electrical power consumption for furnaces shall be determined according to section 8.6 of appendix N of this subpart. Round the average standby mode and off mode electrical power consumption to the nearest watt.
+(2) The annual fuel utilization efficiency (AFUE) for furnaces, expressed in percent, is the ratio of the annual fuel output of useful energy delivered to the heated space to the annual fuel energy input to the furnace.
 
-(6) Other useful measures of energy consumption for furnaces shall be those measures of energy consumption which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix N of this subpart.
+(i) For gas and oil furnaces, determine AFUE according to section 10.1 of appendix N (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or section 10.1 of appendix EE (for low pressure steam or hot water boilers and electric boilers) of this subpart, as applicable.
+
+(ii) For electric furnaces, excluding electric boilers, determine AFUE in accordance with section 11.1 of ANSI/ASHRAE 103-1993 (incorporated by reference, *see* § 430.3); for electric boilers, determine AFUE in accordance with section 11.1 of ANSI/ASHRAE 103-2017 (incorporated by reference, *see* § 430.3).
+
+(iii) Round the AFUE to one-tenth of a percentage point.
+
+(3) The estimated regional annual operating cost for furnaces is calculated as follows:
+
+(i) When using appendix N of this subpart for furnaces excluding low pressure steam or hot water boilers and electric boilers (see the note at the beginning of appendix N of this subpart),
+
+(A) For gas or oil-fueled furnaces,
+
+(*E*FR × *C*BTU) + (*E*AER × *C*KWH)Where:EFR = the regional annual fuel energy consumption in Btu per year, determined according to section 10.7.1 of appendix N of this subpart;CBTU = the representative average unit cost in dollars per Btu of gas or oil, as provided pursuant to section 323(b)(2) of the Act;EAER = the regional annual auxiliary electrical energy consumption in kilowatt-hours per year, determined according to section 10.7.2 of appendix N of this subpart; andCKWH = the representative average unit cost in dollars per kilowatt-hour of electricity, as provided pursuant to section 323(b)(2) of the Act.
+
+(B) For electric furnaces,
+
+(*E*ER × *C*KWH)Where:EER = the regional annual fuel energy consumption in kilowatt-hours per year, determined according to section 10.7.3 of appendix N of this subpart; andCKWH is as defined in paragraph (n)(3)(i)(A) of this section.
+
+(ii) When using appendix EE of this subpart for low pressure steam or hot water boilers and electric boilers (see the note at the beginning of appendix EE of this subpart),
+
+(A) For gas or oil-fueled boilers,
+
+(*E*ER × *C*BTU) + (*E*AER × *C*KWH)Where:EFR = the regional annual fuel energy consumption in Btu per year, determined according to section 10.5.1 of appendix EE of this subpart;CBTU and CKWH are as defined in paragraph (n)(3)(i)(A) of this section; andEAER = the regional annual auxiliary electrical energy consumption in kilowatt-hours per year, determined according to section 10.5.2 of appendix EE of this subpart.
+
+(B) For electric boilers,
+
+(*E*ER × *C*KWH)Where:EER = the regional annual fuel energy consumption in kilowatt-hours per year, determined according to section 10.5.3 of appendix EE of this subpart; andCKWH is as defined in paragraph (n)(3)(i)(A) of this section.
+
+(iii) Round the estimated regional annual operating cost to the nearest dollar per year.
+
+(4) The energy factor for furnaces, expressed in percent, is the ratio of annual fuel output of useful energy delivered to the heated space to the total annual energy input to the furnace determined according to either section 10.6 of appendix N of this subpart (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or section 10.4 of appendix EE of this subpart (for low pressure steam or hot water boilers and electric boilers), as applicable.
+
+(5) The average standby mode and off mode electrical power consumption for furnaces shall be determined according to section 8.10 of appendix N of this subpart (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or section 8.9 of appendix EE of this subpart (for low pressure steam or hot water boilers and electric boilers), as applicable. Round the average standby mode and off mode electrical power consumption to the nearest tenth of a watt.
+
+(6) Other useful measures of energy consumption for furnaces shall be those measures of energy consumption which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix N of this subpart (for furnaces, excluding low pressure steam or hot water boilers and electric boilers) or appendix EE of this subpart (for low pressure steam or hot water boilers and electric boilers).
 
 (o) *Vented home heating equipment.* (1) When determining the annual fuel utilization efficiency (AFUE) of vented home heating equipment (see the note at the beginning of appendix O), expressed in percent (%), calculate AFUE in accordance with section 4.1.17 of appendix O of this subpart for vented heaters without either manual controls or thermal stack dampers; in accordance with section 4.2.6 of appendix O of this subpart for vented heaters equipped with manual controls; or in accordance with section 4.3.7 of appendix O of this subpart for vented heaters equipped with thermal stack dampers.
 

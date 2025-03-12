@@ -1,5 +1,7 @@
 ##### § 460.200 Maintenance of records and reporting of data. #####
 
+Link to an amendment published at 88 FR 22345, Apr. 12, 2023.
+
 (a) *General rule.* A PACE organization must collect data, maintain records, and submit reports as required by CMS and the State administering agency.
 
 (b) *Access to data and records.* A PACE organization must allow CMS and the State administering agency access to data and records including, but not limited to, the following:

@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 17975, Mar. 24, 2023.Link to an amendment published at 88 FR 21838, Apr. 11, 2023.
+Link to an amendment published at 88 FR 17975, Mar. 24, 2023.Link to an amendment published at 88 FR 21838, Apr. 11, 2023.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -102,11 +102,11 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendmen
 
 (g) *Air-cooled small (≥65,000 Btu/h and \<135,000 Btu/h), large (≥135,000 Btu/h and \<240,000 Btu/h), and very large (≥240,000 Btu/h and \<760,000 Btu/h) commercial package air conditioning and heating equipment—verification of cooling capacity.* The cooling capacity of each tested unit of the basic model will be measured pursuant to the test requirements of part 431 of this chapter. The mean of the measurement(s) will be used to determine the applicable standards for purposes of compliance.
 
-(h) *Residential boilers—test protocols for functional verification of automatic means for adjusting water temperature.* These tests are intended to verify the functionality of the design requirement that a boiler has an automatic means for adjusting water temperature for single-stage, two-stage, and modulating boilers. These test methods are intended to permit the functional testing of a range of control strategies used to fulfill this design requirement. Section 2, *Definitions,* and paragraph 6.1.a of appendix N to subpart B of part 430 of this chapter apply for the purposes of this paragraph (h).
+(h) *Residential boilers—test protocols for functional verification of automatic means for adjusting water temperature.* These tests are intended to verify the functionality of the design requirement that a boiler has an automatic means for adjusting water temperature for single-stage, two-stage, and modulating boilers. These test methods are intended to permit the functional testing of a range of control strategies used to fulfill this design requirement. Section 2, *Definitions,* and paragraph 6.1.a of appendix EE to subpart B of part 430 of this chapter apply for the purposes of this paragraph (h).
 
 (1) *Test protocol for all products other than single-stage products employing burner delay.* This test is intended to verify whether an automatic means for adjusting water temperature other than burner delay produces an incremental change in water supply temperature in response to an incremental change in inferred heat load.
 
-(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements of section 6 of appendix N to subpart B of 10 CFR part 430.
+(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements of section 6 of appendix EE to subpart B of 10 CFR part 430.
 
 (B) *Establishing flow rate and temperature rise.* Start the boiler without enabling the means for adjusting water temperature. Establish a water flow rate that allows for a water temperature rise of greater than or equal to 20 °F at maximum input rate.
 
@@ -136,7 +136,7 @@ Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendmen
 
 (2) *Test protocol for single-stage products employing burner delay.* This test will be used in place of paragraph (h)(1) of this section for products manufacturers have certified to DOE under § 429.18(b)(3) as employing a burner delay automatic means strategy. This test verifies whether the automatic means in single-stage boiler products establishes a burner delay upon a call for heat until the means has determined that the inferred heat load cannot be met by the residual heat of the water in the system.
 
-(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements by section 6.0 of appendix N to subpart B of 10 CFR part 430.
+(i) *Boiler setup*—(A) *Boiler installation.* Boiler installation in the test room shall be in accordance with the setup and apparatus requirements by section 6.0 of appendix EE to subpart B of 10 CFR part 430.
 
 (B) *Activation of controls.* Adjust the boiler controls in accordance with the I&O manual at the default setting that allows for activation of the means for adjusting water temperature.
 
@@ -431,4 +431,4 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023]

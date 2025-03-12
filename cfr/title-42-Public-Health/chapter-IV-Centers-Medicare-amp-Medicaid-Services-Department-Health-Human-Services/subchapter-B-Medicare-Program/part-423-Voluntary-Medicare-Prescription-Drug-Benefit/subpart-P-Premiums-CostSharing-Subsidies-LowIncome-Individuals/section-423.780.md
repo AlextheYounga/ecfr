@@ -1,5 +1,7 @@
 ##### § 423.780 Premium subsidy. #####
 
+Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
+
 (a) *Full subsidy eligible individuals.* Full subsidy eligible individuals are entitled to a premium subsidy equal to 100 percent of the premium subsidy amount.
 
 (b) *Premium subsidy amount.* (1) The premium subsidy amount is equal to the lesser of—

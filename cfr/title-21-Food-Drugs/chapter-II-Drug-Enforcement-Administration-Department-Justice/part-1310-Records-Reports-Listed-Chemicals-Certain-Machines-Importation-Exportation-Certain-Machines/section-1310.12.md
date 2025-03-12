@@ -1,5 +1,7 @@
 ##### § 1310.12 Exempt chemical mixtures. #####
 
+Link to an amendment published at 88 FR 21909, Apr. 12, 2023.
+
 (a) The chemical mixtures meeting the criteria in paragraphs (c) or (d) of this section are exempted by the Administrator from application of sections 302, 303, 310, 1007, 1008, and 1018 of the Act (21 U.S.C. 822, 823, 830, 957, 958, and 971) to the extent described in paragraphs (b) and (c) of this section.
 
 (b) No exemption granted pursuant to this § 1310.12 or § 1310.13 affects the criminal liability for illegal possession, distribution, exportation, or importation of listed chemicals contained in the exempt chemical mixture or the civil liability for unlawful acts related to exempt chemical mixtures, including distribution in violation of 21 U.S.C. 842(a)(11).

@@ -1,5 +1,7 @@
 ##### § 120.820 CDC Affiliation. #####
 
+Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
+
 (a) A CDC must be independent and must not be affiliated (as determined in accordance with § 121.103 of this chapter) with any Person (as defined in § 120.10) except as permitted under this section.
 
 (b) A CDC may be affiliated with an entity (other than a 7(a) Lender or another CDC) whose function is economic development in the same Area of Operations and that is either a non-profit entity or a State or local government or political subdivision (e.g., council of governments).

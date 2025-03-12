@@ -1,5 +1,7 @@
 ##### § 422.109 Effect of national coverage determinations (NCDs) and legislative changes in benefits. #####
 
+Link to an amendment published at 88 FR 22329, Apr. 12, 2023.
+
 (a) *Definitions.* The term *significant cost,* as it relates to a particular NCD or legislative change in benefits, means either of the following:
 
 (1) The average cost of furnishing a single service exceeds a cost threshold that—

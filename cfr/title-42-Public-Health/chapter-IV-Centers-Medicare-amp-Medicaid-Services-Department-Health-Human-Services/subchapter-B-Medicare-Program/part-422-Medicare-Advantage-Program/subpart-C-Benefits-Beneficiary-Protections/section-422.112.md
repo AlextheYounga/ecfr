@@ -1,5 +1,7 @@
 ##### § 422.112 Access to services. #####
 
+Link to an amendment published at 88 FR 22330, Apr. 12, 2023.
+
 (a) *Rules for coordinated care plans.* An MA organization that offers an MA coordinated care plan may specify the networks of providers from whom enrollees may obtain services if the MA organization ensures that all covered services, including supplemental services contracted for by (or on behalf of) the Medicare enrollee, are available and accessible under the plan. To accomplish this, the MA organization must meet the following requirements:
 
 (1) *Provider network.* (i) Maintain and monitor a network of appropriate providers that is supported by written agreements and is sufficient to provide adequate access to covered services to meet the needs of the population served. These providers are typically used in the network as primary care providers (PCPs), specialists, hospitals, skilled nursing facilities, home health agencies, ambulatory clinics, and other providers.

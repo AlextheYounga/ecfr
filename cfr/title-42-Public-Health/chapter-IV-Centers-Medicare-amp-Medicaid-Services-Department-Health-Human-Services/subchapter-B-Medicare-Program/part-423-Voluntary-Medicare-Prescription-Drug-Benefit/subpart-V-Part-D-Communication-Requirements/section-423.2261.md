@@ -1,5 +1,7 @@
 ##### § 423.2261 Submission, review, and distribution of materials. #####
 
+Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
+
 (a) *General requirements.* Part D sponsors must submit all marketing materials, all election forms, and certain designated communications materials for CMS review.
 
 (1) The Health Plan Management System (HPMS) Marketing Module is the primary system of record for the collection, review, and storage of materials that must be submitted for review.

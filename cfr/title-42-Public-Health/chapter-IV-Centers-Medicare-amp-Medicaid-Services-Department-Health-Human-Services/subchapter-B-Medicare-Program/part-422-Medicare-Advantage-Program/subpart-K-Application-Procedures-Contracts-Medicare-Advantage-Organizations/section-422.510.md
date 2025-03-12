@@ -1,5 +1,7 @@
 ##### § 422.510 Termination of contract by CMS. #####
 
+Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
+
 (a) *Termination by CMS.* CMS may at any time terminate a contract if CMS determines that the MA organization meets any of the following:
 
 (1) Has failed substantially to carry out the contract.

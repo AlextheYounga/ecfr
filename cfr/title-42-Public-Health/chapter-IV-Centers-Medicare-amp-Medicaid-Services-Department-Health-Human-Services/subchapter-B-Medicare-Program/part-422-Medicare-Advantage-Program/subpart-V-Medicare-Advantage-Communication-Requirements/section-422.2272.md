@@ -1,5 +1,7 @@
 ##### § 422.2272 Licensing of marketing representatives and confirmation of marketing resources. #####
 
+Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
+
 In its marketing, the MA organization must:
 
 (a) Demonstrate to CMS' satisfaction that marketing resources are allocated to marketing to the disabled Medicare population as well as beneficiaries age 65 and over.

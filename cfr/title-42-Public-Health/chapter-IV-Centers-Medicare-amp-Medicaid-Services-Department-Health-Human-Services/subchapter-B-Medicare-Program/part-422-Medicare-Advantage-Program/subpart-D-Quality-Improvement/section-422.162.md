@@ -1,5 +1,7 @@
 ##### § 422.162 Medicare Advantage Quality Rating System. #####
 
+Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
+
 (a) *Definitions.* In this subpart the following terms have the meanings:
 
 *Absolute percentage cap* is a cap applied to non-CAHPS measures that are on a 0 to 100 scale that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage as compared to the prior year's cut point.

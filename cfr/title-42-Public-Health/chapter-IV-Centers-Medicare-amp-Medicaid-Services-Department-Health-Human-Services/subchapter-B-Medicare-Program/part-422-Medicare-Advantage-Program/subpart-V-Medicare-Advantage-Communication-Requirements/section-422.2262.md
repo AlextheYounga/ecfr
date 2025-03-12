@@ -1,5 +1,7 @@
 ##### § 422.2262 General communications materials and activities requirements. #####
 
+Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
+
 MA organizations may not mislead, confuse, or provide materially inaccurate information to current or potential enrollees.
 
 (a) *General rules.* MA organizations must ensure their statements and the terminology used in communications activities and materials adhere to the following requirements:

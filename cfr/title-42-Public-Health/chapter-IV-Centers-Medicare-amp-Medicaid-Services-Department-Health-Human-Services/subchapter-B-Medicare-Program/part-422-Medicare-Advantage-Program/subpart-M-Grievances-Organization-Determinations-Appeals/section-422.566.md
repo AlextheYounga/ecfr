@@ -1,5 +1,7 @@
 ##### § 422.566 Organization determinations. #####
 
+Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
+
 (a) *Responsibilities of the MA organization.* Each MA organization must have a procedure for making timely organization determinations (in accordance with the requirements of this subpart) regarding the benefits an enrollee is entitled to receive under an MA plan, including basic benefits as described under § 422.100(c)(1) and mandatory and optional supplemental benefits as described under § 422.102, and the amount, if any, that the enrollee is required to pay for a health service. The MA organization must have a standard procedure for making determinations, in accordance with § 422.568, and an expedited procedure for situations in which applying the standard procedure could seriously jeopardize the enrollee's life, health, or ability to regain maximum function, in accordance with §§ 422.570 and 422.572. For an applicable integrated plan, beginning January 1, 2021, the MA organization must comply with §§ 422.629 through 422.634 in lieu of §§ 422.566(c) and (d), 422.568, 422.570 and 422.572 with regard to the procedures for making determinations, including integrated organization determinations and integrated reconsiderations, on a standard and expedited basis.
 
 (b) *Actions that are organization determinations.* An organization determination is any determination made by an MA organization with respect to any of the following:

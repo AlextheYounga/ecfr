@@ -1,5 +1,7 @@
 ##### § 422.202 Participation procedures. #####
 
+Link to an amendment published at 88 FR 22334, Apr. 12, 2023.
+
 (a) *Notice and appeal rights.* An MA organization that operates a coordinated care plan or network MSA plan must provide for the participation of individual physicians, and the management and members of groups of physicians, through reasonable procedures that include the following:
 
 (1) Written notice of rules of participation including terms of payment, credentialing, and other rules directly related to participation decisions.

@@ -1,5 +1,7 @@
 ##### § 423.2262 General communications materials and activity requirements. #####
 
+Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
+
 Part D sponsors may not mislead, confuse, or provide materially inaccurate information to current or potential enrollees.
 
 (a) *General rules.* Part D sponsors must ensure their statements and the terminology used in communications activities and materials adhere to the following requirements:

@@ -1,5 +1,7 @@
 ##### § 422.152 Quality improvement program. #####
 
+Link to an amendment published at 88 FR 22332, Apr. 12, 2023.
+
 (a) *General rule.* Each MA organization that offers one or more MA plan must have, for each plan, an ongoing quality improvement program that meets applicable requirements of this section for the service it furnishes to its MA enrollees. As part of its ongoing quality improvement program, a plan must do all of the following:
 
 (1) Create a quality improvement program plan that sufficiently outlines the elements of the plan's quality improvement program.

@@ -1,5 +1,7 @@
 ##### § 422.2264 Beneficiary contact. #####
 
+Link to an amendment published at 88 FR 22335, Apr. 12, 2023.
+
 For the purpose of this section, beneficiary contact means any outreach activities to a beneficiary or a beneficiary's caregivers by the MA organization or its agents and brokers.
 
 (a) *Unsolicited contact.* Subject to the rules for contact for plan business in paragraph (b) of this section, the following rules apply when materials or activities are given or supplied to a beneficiary or their caregiver without prior request:

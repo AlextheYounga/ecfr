@@ -1,5 +1,7 @@
 ##### § 1310.04 Maintenance of records. #####
 
+Link to an amendment published at 88 FR 21909, Apr. 12, 2023.
+
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.

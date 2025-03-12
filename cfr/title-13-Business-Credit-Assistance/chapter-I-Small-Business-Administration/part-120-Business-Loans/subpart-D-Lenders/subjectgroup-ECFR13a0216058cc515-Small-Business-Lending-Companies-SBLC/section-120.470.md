@@ -1,5 +1,7 @@
 ##### § 120.470 What are SBA's additional requirements for SBLCs? #####
 
+Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
+
 In addition to complying with SBA's requirements for SBA Lenders and SBA Supervised Lenders, an SBLC must meet the requirements contained in this regulation and the SBLC regulations that follow.
 
 (a) *Lending.* An SBLC may only make:

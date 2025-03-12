@@ -1,5 +1,7 @@
 ##### § 120.842 ALP Express Loans. #####
 
+Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
+
 (a) *Definition.* For the purposes of this section, an *ALP Express Loan:*
 
 (1) Means a 504 loan in an amount that is not more than $500,000; and

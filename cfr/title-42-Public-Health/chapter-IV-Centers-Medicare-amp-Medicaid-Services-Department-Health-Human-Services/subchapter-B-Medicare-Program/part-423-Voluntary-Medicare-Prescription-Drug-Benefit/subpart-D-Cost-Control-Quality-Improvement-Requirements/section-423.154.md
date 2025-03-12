@@ -1,5 +1,7 @@
 ##### § 423.154 Appropriate dispensing of prescription drugs in long-term care facilities under PDPs and MA-PD plans. #####
 
+Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
+
 (a) *In general.* Except as provided in paragraph (b) of this section, when dispensing covered Part D drugs to enrollees who reside in long-term care facilities, a Part D sponsor must—
 
 (1) Require all pharmacies servicing long-term care facilities, as defined in § 423.100 to—

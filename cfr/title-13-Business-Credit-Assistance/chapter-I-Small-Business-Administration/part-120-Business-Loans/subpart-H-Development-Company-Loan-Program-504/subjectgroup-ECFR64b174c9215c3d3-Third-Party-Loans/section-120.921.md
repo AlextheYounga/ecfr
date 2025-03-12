@@ -1,5 +1,7 @@
 ##### § 120.921 Terms of Third Party loans. #####
 
+Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
+
 (a) *Maturity.* A Third Party Loan must have a term of at least 7 years when the 504 loan is for a term of 10 years and 10 years when the 504 loan is for 20 years. If there is more than one Third Party Loan, an overall loan maturity must be calculated, taking into account the maturities and amounts of each loan. If there is a balloon payment, it must be justified in the loan report and clearly identified in the Loan Authorization.
 
 (b) *Interest rates.* Interest rates must be reasonable. SBA must establish and publish in the Federal Register a maximum interest rate for any Third Party Loan from commercial financial institutions. The rate shall remain in effect until changed.

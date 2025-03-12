@@ -1,5 +1,7 @@
 ##### § 120.466 SBA Supervised Lender application. #####
 
+Link to an amendment published at 88 FR 21899, Apr. 12, 2023.
+
 An entity seeking to participate as an SBA Supervised Lender must apply to SBA. SBA evaluates SBA Supervised Lender applicants through an initial review and final review, as follows:
 
 (a) *Initial review.* SBA Supervised Lender applicants must submit a written plan containing information about the organization and its current and proposed lending activities (“Lender Assessment Plan”). After SBA's review of the Lender Assessment Plan, the Office of Capital Access may require an interview with the applicant and its management team. SBA will determine, in its sole discretion, whether an applicant may proceed to the final review. If SBA determines that an applicant may not proceed to the final review, the applicant must wait at least 6 months before it may submit a new Lender Assessment Plan. Each applicant must demonstrate to SBA's satisfaction that it meets the ethical requirements and the participation criteria set forth in 13 CFR 120.140 and 120.410. The Lender Assessment Plan must include the following items:

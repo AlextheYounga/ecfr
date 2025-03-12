@@ -1,5 +1,7 @@
 ##### § 423.265 Submission of bids and related information. #####
 
+Link to an amendment published at 88 FR 22339, Apr. 12, 2023.
+
 (a) *Eligibility for bidding.* An applicant may submit a bid to become a Part D plan sponsor.
 
 (b) *Bid submission*—(1) *General.* Not later than the first Monday in June, each potential Part D sponsor must submit bids and supplemental information described in this section for each Part D plan it intends to offer in the subsequent calendar year.

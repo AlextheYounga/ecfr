@@ -1,5 +1,7 @@
 ##### § 423.4 Definitions. #####
 
+Link to an amendment published at 88 FR 22337, Apr. 12, 2023.
+
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial equivalence* means a state of equivalent value demonstrated through the use of generally accepted actuarial principles and in accordance with section 1860D-11(c) of the Act and with CMS actuarial guidelines.

@@ -1,5 +1,7 @@
 ##### § 120.960 Responsibility for closing. #####
 
+Link to an amendment published at 88 FR 21900, Apr. 12, 2023.
+
 (a) The CDC is responsible for the 504 loan closing.
 
 (b) The Debenture closing is the joint responsibility of the CDC and SBA.

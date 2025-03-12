@@ -1,5 +1,7 @@
 ##### § 423.773 Requirements for eligibility. #####
 
+Link to an amendment published at 88 FR 22340, Apr. 12, 2023.
+
 (a) *Subsidy eligible individual.* A subsidy eligible individual is a Part D eligible individual residing in a State who is enrolled in, or seeking to enroll in a Part D plan and meets the following requirements:
 
 (1) Has income below 150 percent of the FPL applicable to the individual's family size.

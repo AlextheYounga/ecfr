@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 88 FR 15537, Mar. 13, 2023.Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to a correction published at 88 FR 19801, Apr. 4, 2023.Link to an amendment published at 88 FR 21072, Apr. 10, 2023.
+Link to an amendment published at 88 FR 16109, Mar. 15, 2023.Link to a correction published at 88 FR 19801, Apr. 4, 2023.Link to an amendment published at 88 FR 21072, Apr. 10, 2023.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -208,7 +208,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (10) ANSI/ASHRAE Standard 41.3-2014, (“ASHRAE 41.3-2014”), Standard Methods for Pressure Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
 
-(11) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix F to subpart B.
+(11) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendices F and EE to subpart B.
 
 (12) ANSI/ASHRAE Standard 41.6-2014, (“ASHRAE 41.6-2014”), Standard Method for Humidity Measurement, ANSI approved July 3, 2014, IBR approved for appendix M to subpart B, as follows:
 
@@ -240,7 +240,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (16) ANSI/ASHRAE Standard 103-2007 (“ASHRAE 103-2007”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved March 25, 2008; IBR approved for appendix AA to subpart B.
 
-(17) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for appendix O to subpart B.
+(17) ANSI/ASHRAE Standard 103-2017 (“ASHRAE 103-2017”), Method of Testing for Annual Fuel Utilization Efficiency of Residential Central Furnaces and Boilers, ANSI-approved July 3, 2017; IBR approved for § 430.23 and appendices O and EE to subpart B.
 
 (18) ANSI/ASHRAE Standard 116-2010, (“ASHRAE 116-2010”), Methods of Testing for Rating Seasonal Efficiency of Unitary Air Conditioners and Heat Pumps, ANSI approved February 24, 2010, Section 7—Methods of Test, Section 7.4—Air Enthalpy Method—Indoor Side (Primary Method), Section 7.4.3—Measurements, Section 7.4.3.4—Temperature, Section 7.4.3.4.5, IBR approved for appendices M and M1 to subpart B.
 
@@ -274,13 +274,13 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (9) AHAM RAC-1-2020 (“AHAM RAC-1”), Energy Measurement Test Procedure for Room Air Conditioners, approved 2020, IBR approved for appendix F to subpart B.
 
-(j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
+(j) *ATSM.* ASTM International, 100 Barr Harbor Drive, Post Office Box C700, West Conshohocken, PA 19428-2959, (877) 909-2786, *www.astm.org.*
 
 (1) ASTM D2156-09 (“ASTM D2156”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, ASTM-approved December 1, 2009; IBR approved for appendix E to subpart B.
 
 (2) ASTM D2156-09 (Reapproved 2013) (“ASTM D2156R13”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2013, IBR approved for appendix N to subpart B.
 
-(3) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156-09 (R2018)”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2018; IBR approved for appendix O to subpart B.
+(3) ASTM D2156-09 (Reapproved 2018) (“ASTM D2156-09 (R2018)”), Standard Test Method for Smoke Density in Flue Gases from Burning Distillate Fuels, approved October 1, 2018; IBR approved for appendices O and EE to subpart B.
 
 (4) ASTM E741-11 (Reapproved 2017) (“ASTM E741-11(2017)”), *Standard Test Method for Determining Air Change in a Single Zone Means of a Tracer Gas Dilution* Approved Sept. 1, 2017; IBR approved for appendix FF to subpart B.
 
@@ -352,7 +352,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (6) IEC 62301, *Household electrical appliances—Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, and FF to subpart B.
+(7) IEC 62301 (“IEC 62301”), *Household electrical appliances—Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, C2, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC, EE, and FF to subpart B.
 
 (8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01); Section 5—Measurements, IBR approved for appendix DD to subpart B.
 
