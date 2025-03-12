@@ -1,5 +1,7 @@
 ##### § 1290.5 Probation or restriction on member access to long-term Bank advances. #####
 
+Link to an amendment published at 83 FR 52118, Oct. 16, 2018.
+
 (a) *Probation.* FHFA will place a member on probation if the member is subject to the CRA, its most recent CRA rating was “Needs to Improve,” and either the member has not received any other CRA rating or its second-most recent CRA rating was “Outstanding” or “Satisfactory.”
 
 (b) *Restriction.* FHFA will restrict a member's access to long-term advances if:

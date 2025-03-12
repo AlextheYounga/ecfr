@@ -1,13 +1,34 @@
 ##### § 400.162 Qualification ratios. #####
 
-The sixteen qualification ratios include:
+(a) The eighteen qualification ratios include:
 
-(a) Eleven National Association of Insurance Commissioner's (NAIC's) Insurance Regulatory Information System (IRIS) ratios found in §§ 400.170(d)(1)(ii) and 400.170(d)(2) (i), (ii), (iii), (vi), (vii), (ix), (xi), (xii), (xiii), and (xiv) and referenced in “Using the NAIC Insurance Regulatory Information System” distributed by NAIC, 120 West 12th St., Kansas City, MO 64105-1925;
+(1) Thirteen National Association of Insurance Commissioner's (NAIC) Insurance Regulatory Information System (IRIS) ratios found in paragraphs (b)(1) through (12) and (17) of this section and referenced in “Using the NAIC Insurance Regulatory Information System” distributed by NAIC, 1100 Walnut St., Suite 1500, Kansas City, MO 64106-2197;
 
-(b) Three ratios used by A.M. Best Company found in § 400.170(d)(2) (v), (viii), and (x) and referenced in Best's Key Rating Guide, A.M. Best, Ambest Road, Oldwick, N.J. 08858-0700;
+(2) Three ratios used by A.M. Best Company found in paragraphs (b)(13), (15), and (16) of this section and referenced in Best's Key Rating Guide, A.M. Best, Ambest Road, Oldwick, N.J. 08858-0700;
 
-(c) One ratio found in § 400.170(d)(1)(i) is calculated the same as the Gross Premium to Surplus IRIS ratio, with Gross Premium adjusted to exclude the MPCI premium assumed by FCIC; and
+(3) One ratio found in paragraph (b)(14) of this section which is formulated by FCIC and is calculated the same as the One-Year Change to Surplus IRIS ratio but for a two-year period; and
 
-(d) One ratio found in § 400.170(d)(2)(iv) which is formulated by FCIC and is calculated the same as the One-Year Change to Surplus IRIS ratio but for a two-year period.
+(4) One ratio found in paragraph (b)(18) of this section, which is reported on the annual statutory financial statement.
 
-[60 FR 57903, Nov. 24, 1995]
+(b) The Company shall provide an explanation for any ratio falling outside of the following requirements in paragraphs (b)(1) through (18):
+
+|                              Ratio                               |Ratio  <br/>requirement|
+|------------------------------------------------------------------|-----------------------|
+|        (1) Gross Premium Written to Policyholders Surplus        |        \<900%         |
+|         (2) Net Premium Written to Policyholders Surplus         |        \<300%         |
+|               (3) Change in Net Premiums Writings                |      −33% to 33%      |
+|             (4) Surplus Aid to Policyholders Surplus             |         \<15%         |
+|               (5) Two-Year Overall Operating Ratio               |        \<100%         |
+|               (6) Change in Policyholders Surplus                |      −10% to 50%      |
+|                       (7) Investment Yield                       |     3.0% to 6.5%      |
+|                 (8) Liabilities to Liquid Assets                 |        \<100%         |
+|        (9) Gross Agents Balances to Policyholders Surplus        |         \<40%         |
+|    (10) One Year Reserve Development to Policyholders Surplus    |         \<20%         |
+|    (11) Two Year Reserve Development to Policyholders Surplus    |         \<20%         |
+|(12) Estimated Current Reserve Deficiency to Policyholders Surplus|         \<25%         |
+|         (13) Combined Ratio after Policyholder Dividend          |        \<115%         |
+|                 (14) Two Year Change in Surplus                  |        \>−10%         |
+|                       (15) Quick Liquidity                       |         \>20%         |
+|                      (16) Return on Surplus                      |         \>−5%         |
+|         (17) Net Change in Adjusted Policyholder Surplus         |      −10% to 25%      |
+|                  (18) Risk Based Capital Ratio                   |        \> 200%        |

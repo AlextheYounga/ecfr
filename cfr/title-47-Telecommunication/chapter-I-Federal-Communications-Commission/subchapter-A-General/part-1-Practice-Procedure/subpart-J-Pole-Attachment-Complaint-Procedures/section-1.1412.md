@@ -22,4 +22,4 @@
 
 (d) The consulting representative of an electric utility may make final determinations, on a nondiscriminatory basis, where there is insufficient capacity and for reasons of safety, reliability, and generally applicable engineering purposes.
 
-[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44842, Sept. 4, 2018; 83 FR 46839, Sept. 14, 2018]
+[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44842, Sept. 4, 2018; 83 FR 46839, Sept. 14, 2018]Effective Date Note:At 83 FR 46839, Sept. 14, 2018, § 1.1412 was amended by revising paragraphs (a), (b), and (c). Paragraphs (a) and (b) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

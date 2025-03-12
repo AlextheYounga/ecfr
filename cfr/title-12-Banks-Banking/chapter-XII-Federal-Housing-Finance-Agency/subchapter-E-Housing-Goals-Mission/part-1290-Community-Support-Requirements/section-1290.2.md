@@ -1,5 +1,7 @@
 ##### § 1290.2 Community support requirements. #####
 
+Link to an amendment published at 83 FR 52117, Oct. 16, 2018.
+
 (a) *Bank notice to members.* By June 29, 2015, and by March 31, 2017, and every two years thereafter, each Bank must provide written notice to all of its members subject to community support review that each such member must submit to FHFA a completed Community Support Statement in accordance with the requirements of paragraph (b) of this section. Unless instructed otherwise by FHFA, the Bank must provide to each member a blank Community Support Statement Form, which will also be available on FHFA's Web site. Upon a member's request, the Bank must provide assistance to the member in completing the Community Support Statement.
 
 (b) *Community Support Statement.* - (1) *Submission requirements.* Except as provided in paragraph (b)(2) of this section, each member that is subject to community support review must submit to FHFA a completed Community Support Statement and any other related information FHFA may require by December 31, 2015, and by December 31 every two years thereafter. The member's completed Community Support Statement must be executed by an appropriate senior officer of the member and must be submitted to FHFA pursuant to FHFA's submission instructions.

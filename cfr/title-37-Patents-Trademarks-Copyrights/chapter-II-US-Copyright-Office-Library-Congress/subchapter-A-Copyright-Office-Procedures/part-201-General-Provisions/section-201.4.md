@@ -26,6 +26,10 @@
 
 (11) Designations of agents to receive notifications of claimed infringement (17 U.S.C. 512(c)(2); see § 201.38).
 
+(12) Notices of contact information for transmitting entities publicly performing pre-1972 sound recordings by means of digital audio transmission (17 U.S.C. 1401(f)(5)(B); see § 201.36).
+
+(13) Schedules of pre-1972 sound recordings (17 U.S.C. 1401(f)(5)(A); see § 201.35).
+
 (c) *Definitions.* For purposes of this section:
 
 (1) A *transfer of copyright ownership* has the meaning set forth in 17 U.S.C. 101.
@@ -70,4 +74,4 @@
 
 (g) *Effect of recordation.* The fact that the Office has recorded a document is not a determination by the Office of the document's validity or legal effect. Recordation of a document by the Copyright Office is without prejudice to any party claiming that the legal or formal requirements for recordation have not been met, including before a court of competent jurisdiction.
 
-[82 FR 52219, Nov. 13, 2017]
+[82 FR 52219, Nov. 13, 2017, as amended at 83 FR 52153, Oct. 16, 2018]
