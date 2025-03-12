@@ -1,5 +1,7 @@
 ##### § 305.6 Cold treatment requirements. #####
 
+Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
+
 (a) *Certification of treatment facilities.* All facilities or locations used for refrigerating fruits or vegetables in accordance with the cold treatment schedules in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 must be certified by APHIS. Recertification of the facility or carrier is required every 3 years, or as often as APHIS directs, depending on treatments performed, commodities handled, and operations conducted at the facility. In order to be certified, facilities and carriers must:
 
 (1) Be capable of keeping treated and untreated fruits, vegetables, or other articles separate so as to prevent reinfestation of articles and spread of pests;

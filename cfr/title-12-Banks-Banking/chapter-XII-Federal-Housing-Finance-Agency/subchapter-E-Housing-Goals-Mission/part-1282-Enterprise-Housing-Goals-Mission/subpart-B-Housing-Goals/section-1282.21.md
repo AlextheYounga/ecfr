@@ -1,5 +1,7 @@
 ##### § 1282.21 Housing plans. #####
 
+Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
+
 (a) *General.* If the Director determines that an Enterprise has failed, or there is a substantial probability that an Enterprise will fail, to meet any housing goal and that the achievement of the housing goal was or is feasible, the Director may require the Enterprise to submit a housing plan for approval by the Director.
 
 (b) *Nature of plan.* If the Director requires a housing plan, the housing plan shall:

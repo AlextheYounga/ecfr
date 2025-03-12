@@ -1,7 +1,5 @@
 ##### § 1.9035 Short-term de facto transfer leasing arrangements. #####
 
-Link to an amendment published at 82 FR 48773, October 20, 2017.
-
 (a) *Overview.* Under the provisions of this section, a licensee (in any of the included services) and a spectrum lessee may enter into a short-term *de facto* transfer leasing arrangement in which the licensee retains *de jure* control of the license while *de facto* control of the leased spectrum is transferred to the spectrum lessee for the duration of the spectrum leasing arrangement, subject to prior Commission consent pursuant to the application procedures set forth in this section. A “short-term” *de facto* transfer leasing arrangement has an individual or combined term of not longer than one year. The term of a short-term *de facto* transfer leasing arrangement may be no longer than the term of the license authorization.
 
 (b) *Rights and responsibilities of licensee.* The rights and responsibilities applicable to a licensee that enters into a short-term *de facto* transfer leasing arrangement are the same as those applicable to a licensee that enters into a long-term *de facto* transfer leasing arrangement, as set forth in § 1.9030(b).
@@ -56,6 +54,4 @@ Link to an amendment published at 82 FR 48773, October 20, 2017.
 
 (o) *Community notification requirement for certain contraband interdiction systems.* 10 days prior to deploying a Contraband Interdiction System that prevents communications to or from mobile devices, a lessee must notify the community in which the correctional facility is located. The notification must include a description of what the system is intended to do, the date the system is scheduled to begin operating, and the location of the correctional facility. Notification must be tailored to reach the community immediately adjacent to the correctional facility, including through local television, radio, Internet news sources, or community groups, as may be appropriate. No notification is required, however, for brief tests of a system prior to deployment.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77557, Dec. 27, 2004; 82 FR 22760, May 18, 2017]Effective Date Notes:1. At 69 FR 77557, Dec. 27, 2004, § 1.9035(e) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
-
-2. At 82 FR 22760, May 18, 2017, § 1.9035 was amended by revising (d)(4) and adding paragraph (o). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77557, Dec. 27, 2004; 82 FR 22760, May 18, 2017]Effective Date Note: At 69 FR 77557, Dec. 27, 2004, § 1.9035(e) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

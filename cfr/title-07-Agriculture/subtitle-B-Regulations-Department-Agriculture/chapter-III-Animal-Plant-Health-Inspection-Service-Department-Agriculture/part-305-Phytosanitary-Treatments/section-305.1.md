@@ -1,5 +1,7 @@
 ##### § 305.1 Definitions. #####
 
+Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
+
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, United States Department of Agriculture, or any person delegated to act for the Administrator in matters affecting this part.
 
 *APHIS.* The Animal and Plant Health Inspection Service, United States Department of Agriculture.

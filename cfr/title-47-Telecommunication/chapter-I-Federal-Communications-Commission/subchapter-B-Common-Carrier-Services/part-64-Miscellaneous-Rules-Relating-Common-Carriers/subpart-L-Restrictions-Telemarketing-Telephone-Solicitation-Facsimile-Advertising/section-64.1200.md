@@ -1,7 +1,5 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 83 FR 1277, Jan. 12, 2018.
-
 (a) No person or entity may:
 
 (1) Except as provided in paragraph (a)(2) of this section, initiate any telephone call (other than a call made for emergency purposes or is made with the prior express consent of the called party) using an automatic telephone dialing system or an artificial or prerecorded voice;
@@ -202,4 +200,22 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (h) The administrator of the national do-not-call registry that is maintained by the federal government shall make the telephone numbers in the database available to the States so that a State may use the telephone numbers that relate to such State as part of any database, list or listing system maintained by such State for the regulation of telephone solicitations.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012]
+(i)-(j) [Reserved]
+
+(k) Voice service providers may block calls so that they do not reach a called party as follows:
+
+(1) A provider may block a voice call when the subscriber to which the originating number is assigned has requested that calls purporting to originate from that number be blocked because the number is used for inbound calls only.
+
+(2) A provider may block a voice call purporting to originate from any of the following:
+
+(i) A North American Numbering Plan number that is not valid;
+
+(ii) A valid North American Numbering Plan number that is not allocated to a provider by the North American Numbering Plan Administrator or the Pooling Administrator; and
+
+(iii) A valid North American Numbering Plan number that is allocated to a provider by the North American Numbering Plan Administrator or Pooling Administrator, but is unused, so long as the provider blocking the calls is the allocatee of the number and confirms that the number is unused or has obtained verification from the allocatee that the number is unused at the time of the blocking.
+
+(3) A provider may not block a voice call under paragraph (k)(1) or (2) of this section if the call is an emergency call placed to 911.
+
+(4) For purposes of this subsection, a provider may rely on Caller ID information to determine the purported originating number without regard to whether the call in fact originated from that number.
+
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018]

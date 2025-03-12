@@ -1,7 +1,5 @@
 ##### § 622.191 Commercial trip limits. #####
 
-Link to an amendment published at 83 FR 1309, Jan. 11, 2018.
-
 Commercial trip limits are limits on the amount of the applicable species that may be possessed on board or landed, purchased, or sold from a vessel per day. A person who fishes in the EEZ may not combine a trip limit specified in this section with any trip or possession limit applicable to state waters. A species subject to a trip limit specified in this section taken in the EEZ may not be transferred at sea, regardless of where such transfer takes place, and such species may not be transferred in the EEZ. Commercial trip limits apply as follows (all weights are round or eviscerated weights unless specified otherwise):
 
 (a) When a vessel fishes on a trip in the South Atlantic EEZ, the vessel trip limits specified in this paragraph (a) apply, provided persons aboard the vessel are not subject to the bag limits. See § 622.11 and § 622.187(a) for applicability of the bag limits.
@@ -56,6 +54,12 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (iii) See § 622.193(u)(1)(i) or (u)(2)(i) for the limitations regarding hogfish after a commercial ACL is reached.
 
+(13) *Mutton snapper.* The following commercial trip limits apply until the applicable commercial ACL in § 622.193(o)(1)(iii) is reached. See § 622.193(o)(1) for the limitations regarding mutton snapper after the commercial ACL is reached.
+
+(i) From January 1 through March 31, and July 1 through December 31 - 500 lb (227 kg), round weight.
+
+(ii) From April 1 through June 30 - 5 fish per person per day or 5 fish per person per trip, whichever is more restrictive.
+
 (b) When a vessel fishes for hogfish on a trip in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida, the vessel trip limit specified in paragraph (a)(12)(ii) of this section applies, provided persons aboard are not subject to the bag limit. See § 622.11(a) and § 622.187(a) for applicability of the bag limit.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018]

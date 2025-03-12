@@ -1,5 +1,7 @@
 ##### § 305.5 Chemical treatment requirements. #####
 
+Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
+
 (a) *Certified facility.* The fumigation treatment facility must be certified by APHIS. Facilities are required to be inspected and recertified annually, or as often as APHIS directs, depending upon treatments performed, commodities handled, and operations conducted at the facility. In order to be certified, a fumigation facility must:
 
 (1) Be capable of administering the required dosage range for the required duration and at the appropriate temperature, as specified in the treatment schedules in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2.
