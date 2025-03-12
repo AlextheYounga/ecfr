@@ -30,7 +30,7 @@
 
 (c) *Preparation and submission of reports.* Reports made by licensees in response to the requirements of this section must be made as follows:
 
-(1) Licensees shall make reports required by paragraphs (a) and (b) of this section, and by § 70.74 and Appendix A of this part, if applicable, by telephone to the NRC Operations Center.1/\> To the extent that the information is available at the time of notification, the information provided in these reports must include:
+(1) Licensees shall make reports required by paragraphs (a) and (b) of this section, and by § 70.74 and Appendix A of this part, if applicable, by telephone to the NRC Operations Center.1 To the extent that the information is available at the time of notification, the information provided in these reports must include:
 
 1 The commercial telephone number for the NRC Operations Center is (301) 816-5100.
 

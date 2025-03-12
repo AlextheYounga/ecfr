@@ -1,4 +1,4 @@
-##### § 63.16 Review of site characterization activities.2/\> #####
+##### § 63.16 Review of site characterization activities.2 #####
 
 2 In addition to the review of site characterization activities specified in this section, the Commission contemplates an ongoing review of other information on site investigation and site characterization, to allow early identification of potential licensing issues for timely resolution at the staff level.
 

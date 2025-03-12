@@ -1,7 +1,5 @@
 ##### § 170.299 Incorporation by reference. #####
 
-Link to an amendment published at 85 FR 25941, May 1, 2020.
-
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Health and Human Services, Office of the National Coordinator for Health Information Technology, 330 C Street SW., Washington, DC 20201, call ahead to arrange for inspection at 202-690-7151, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*.
 
 (b) American National Standards Institute, Health Information Technology Standards Panel (HITSP) Secretariat, 25 West 43rd Street - Fourth Floor, New York, NY 10036, *http://www.hitsp.org.*
@@ -12,17 +10,15 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (c) ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959 USA; Telephone (610) 832-9585 or *http://www.astm.org/.*
 
-(1) ASTM E2147-01 (Reapproved 2013) Standard Specification for Audit and Disclosure Logs for Use in Health Information Systems, approved March 1, 2013, IBR approved for § 170.210(h).
+(1) ASTM E2147-18 Standard Specification for Audit and Disclosure Logs for Use in Health Information Systems, approved May 1, 2018, IBR approved for § 170.210(h).
 
-(2) ASTM E2369-05: Standard Specification for Continuity of Care Record (CCR), year of adoption 2005, ASTM approved July 17, 2006, IBR approved for § 170.205.
-
-(3) ASTM E2369-05 (Adjunct to E2369): Standard Specification Continuity of Care Record, - Final Version 1.0 (V1.0), November 7, 2005, IBR approved for § 170.205.
+(2)-(3) [Reserved]
 
 (d) Centers for Disease Control and Prevention, 2500 Century Parkway, Mailstop E-78, Atlanta, GA 30333, USA (800-232-4636); *http://www.cdc.gov/ehrmeaningfuluse/.*
 
 (1) HL7 Standard Code Set CVX - Vaccines Administered, July 30, 2009, IBR approved for § 170.207.
 
-(2) IIS: HL7 Standard Code Set CVX - Vaccines Administered, updates through July 11, 2012, IBR approved for § 170.207.
+(2) [Reserved]
 
 (3) Implementation Guide for Immunization Data Transactions using Version 2.3.1 of the Health Level Seven (HL7)Standard Protocol Implementation Guide Version 2.2, June 2006, IBR approved for § 170.205.
 
@@ -32,9 +28,7 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (6) Conformance Clarification for EHR Certification of Electronic Syndromic Surveillance, ADT MESSAGES A01, A03, A04, and A08, HL7 Version 2.5.1, Addendum to PHIN Messaging Guide for Syndromic Surveillance: Emergency Department and Urgent Care Data (Release 1.1), August 2012, IBR approved for § 170.205.
 
-(7) HL7 2.5.1 Implementation Guide for Immunization Messaging, Release 1.4, August 1, 2012, IBR approved for § 170.205.
-
-(8) Implementation Guide for Ambulatory Healthcare Provider Reporting to Central Cancer Registries, HL7 Clinical Document Architecture (CDA), Release 1.0, August 2012, IBR approved for § 170.205.
+(7)-(8) [Reserved]
 
 (9) ELR 2.5.1 Clarification Document for EHR Technology Certification, July 16, 2012, IBR approved for § 170.205.
 
@@ -60,29 +54,29 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (3) Crosswalk: Medicare Provider/Supplier to Healthcare Provider Taxonomy, April 2, 2015, IBR approved for § 170.207(r).
 
+(4) CMS Implementation Guide for Quality Reporting Document Architecture Category I Hospital Quality Reporting Implementation Guide for 2019; published May 4, 2018, IBR approved for § 170.205(h).
+
+(5) CMS Implementation Guide for Quality Reporting Document Architecture Category III Eligible Clinicians and Eligible Professionals Programs Implementation Guide for 2019; published October 8, 2018, IBR approved for § 170.205(k).
+
 (f) Health Level Seven, 3300 Washtenaw Avenue, Suite 227, Ann Arbor, MI 48104; Telephone (734) 677-7777 or *http://www.hl7.org/*
 
 (1) Health Level Seven Standard Version 2.3.1 (HL7 2.3.1), An Application Protocol for Electronic Data Exchange in Healthcare Environments, April 14, 1999, IBR approved for § 170.205.
 
 (2) Health Level Seven Messaging Standard Version 2.5.1 (HL7 2.5.1), An Application Protocol for Electronic Data Exchange in Healthcare Environments, February 21, 2007, IBR approved for § 170.205.
 
-(3) Health Level Seven Implementation Guide: Clinical Document Architecture (CDA) Release 2 - Continuity of Care Document (CCD), April 01, 2007, IBR approved for § 170.205.
+(3) [Reserved]
 
 (4) HL7 Version 2.5.1 Implementation Guide: Electronic Laboratory Reporting to Public Health, Release 1 (US Realm) HL7 Version 2.5.1: ORU^R01, HL7 Informative Document, February, 2010, IBR approved for § 170.205.
 
 (5) HL7 Version 3 Standard: Context-Aware Retrieval Application (Infobutton); Release 1, July 2010, IBR approved for § 170.204.
 
-(6) HL7 Version 3 Implementation Guide: URL-Based Implementations of the Context-Aware Information Retrieval (Infobutton) Domain, Release 3, December 2010, IBR approved for § 170.204.
-
-(7) HL7 Version 3 Implementation Guide: Context-Aware Knowledge Retrieval (Infobutton) Service-Oriented Architecture Implementation Guide, Release 1, HL7 Draft Standard for Trial Use, March 2011, IBR approved for § 170.204.
+(6)-(7) [Reserved]
 
 (8) HL7 Implementation Guide for CDA® Release 2: IHE Health Story Consolidation, DSTU Release 1.1 (US Realm) Draft Standard for Trial Use July 2012, IBR approved for § 170.205.
 
 (9) HL7 Clinical Document Architecture, Release 2.0, Normative Edition, May 2005, IBR approved for § 170.205.
 
-(10) HL7 Version 2.5.1 Implementation Guide: S&I Framework Lab Results Interface, Release 1 - US Realm [HL7 Version 2.5.1: ORU−R01] Draft Standard for Trial Use, July 2012, IBR approved for § 170.205.
-
-(11) HL7 Version 3 Standard: Clinical Genomics; Pedigree, Release 1, Edition 2011, March 2012, IBR approved for § 170.207.
+(10)-(11) [Reserved]
 
 (12) HL7 Implementation Guide for CDA® Release 2: Quality Reporting Document Architecture, DTSU Release 2 (Universal Realm), Draft Standard for Trial Use, July 2012, IBR approved for § 170.205.
 
@@ -120,6 +114,16 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (29) HL7 Version 3 (V3) Standard, Value Sets for AdministrativeGender and NullFlavor, published August 1, 2013, IBR approved for § 170.207(n) and (o).
 
+(30) HL7® CDA® R2 Implementation Guide: C-CDA Templates for Clinical Notes R2.1 Companion Guide, Release 2-US Realm, October 2019, IBR approved for § 170.205(a).
+
+(31) HL7 FHIR® Bulk Data Access (Flat FHIR®) (v1.0.0: STU 1), August 22, 2019, IBR approved for § 170.215(a).
+
+(32) HL7 FHIR SMART Application Launch Framework Implementation Guide Release 1.0.0, November 13, 2018, IBR approved for § 170.215(a).
+
+(33) HL7 Fast Healthcare Interoperability Resources Specification (FHIR®) Release 4, Version 4.0.1: R4, October 30, 2019, including Technical Correction #1, November 1, 2019, IBR approved for § 170.215(a).
+
+(34) HL7 FHIR® US Core Implementation Guide STU3 Release 3.1.0, November 06, 2019, IBR approved for § 170.215(a).
+
 (g) Integrating the Healthcare Enterprise (IHE), 820 Jorie Boulevard, Oak Brook, IL, Telephone (630) 481-1004, *http://http://www.ihe.net/.*
 
 (1) IHE IT Infrastructure Technical Framework Volume 2b (ITI TF-2b), Transactions Part B - Sections 3.29 - 2.43, Revision 7.0, August 10, 2010, IBR approved for § 170.205(p).
@@ -128,7 +132,7 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (h) Internet Engineering Task Force (IETF) Secretariat, c/o Association Management Solutions, LLC (AMS), 48377 Fremont Blvd., Suite 117, Fremont, CA, 94538, Telephone (510) 492-4080, *http://www.ietf.org/rfc.html*.
 
-(1) Network Time Protocol (Version 3) Specification, Implementation and Analysis, March 1992, IBR approved for § 170.210.
+(1) [Reserved]
 
 (2) Network Time Protocol Version 4: Protocol and Algorithms Specification, June 2010, IBR approved for § 170.210.
 
@@ -142,9 +146,7 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (j) Library of Congress, Network Development and MARC Standards Office, Washington, DC 20540-4402, Tel: (202) 707-6237 or *http://www.loc.gov/standards/iso639-2/.*
 
-(1) ISO 639-2. Codes for the Representation of Names of Languages Part 2: Alpha-3 Code, April 8, 2011, IBR approved for § 170.207.
-
-(2) [Reserved]
+(1)-(2) [Reserved]
 
 (k) National Council for Prescription Drug Programs, Incorporated, 9240 E. Raintree Drive, Scottsdale, AZ 85260-7518; Telephone (480) 477-1000; and Facsimile (480) 767-1042 or *http://www.ncpdp.org.*
 
@@ -152,13 +154,15 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (2) SCRIPT Standard, Implementation Guide, Version 10.6, October, 2008, (Approval date for ANSI: November 12, 2008), IBR approved for § 170.205.
 
+(3) SCRIPT Standard, Implementation Guide, Version 2017071 (Approval Date for ANSI: July 28, 2017), IBR approved for § 170.205(b).
+
 (l) National Institute of Standards and Technology, Information Technology Laboratory, National Institute of Standards and Technology, 100 Bureau Drive, Gaithersburg, MD 20899-8930, *http://csrc.nist.gov/groups/STM/cmvp/standards.html.*
 
 (1) Annex A: Approved Security Functions for FIPS PUB 140-2, Security Requirements for Cryptographic Modules, Draft, January 27, 2010, IBR approved for § 170.210.
 
 (2) Annex A: Approved Security Functions for FIPS PUB 140-2, Security Requirements for Cryptographic Modules, Draft, May 30, 2012, IBR approved for § 170.210.
 
-(3) Annex A: Federal Information Processing Standards (FIPS) Publication 140-2, Security Requirements for Cryptographic Modules, October 8, 2014, IBR approved for § 170.210(a).
+(3) [Reserved]
 
 (4) FIPS PUB 180-4, Secure Hash Standard (August 2015), IBR approved for § 170.210(c).
 
@@ -172,13 +176,21 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (4) ONC Implementation Guide for Direct Edge Protocols, Version 1.1, June 25, 2014, IBR approved for § 170.202; available at *http://www.healthit.gov/sites/default/files/implementationguidefordirectedgeprotocolsv1\_1.pdf.*
 
-(n) Public Health Data Standards Consortium, 111 South Calvert Street, Suite 2700, Baltimore, MD 21202, *http://www.phdsc.org/*.
+(5) United States Core Data for Interoperability (USCDI), Version 1, February 2020, IBR approved for § 170.213; available at *https://www.healthit.gov/USCDI*.
+
+(n) OpenID Foundation, 2400 Camino Ramon, Suite 375, San Ramon, CA 94583, Telephone +1 925-275-6639, *http://openid.net/*.
+
+(1) OpenID Connect Core 1.0 Incorporating errata set 1, November 8, 2014, IBR approved for § 170.215(b).
+
+(2) [Reserved]
+
+(o) Public Health Data Standards Consortium, 111 South Calvert Street, Suite 2700, Baltimore, MD 21202, *http://www.phdsc.org/*.
 
 (1) Public Health Data Standards Consortium Source of Payment Typology Code Set Version 5.0 (October 2011), IBR approved for § 170.207(s).
 
 (2) [Reserved]
 
-(o) Regenstrief Institute, Inc., LOINC® c/o Regenstrief Center for Biomedical Informatics, Inc., 410 West 10th Street, Suite 2000, Indianapolis, IN 46202-3012, *http://loinc.org/*.
+(p) Regenstrief Institute, Inc., LOINC® c/o Regenstrief Center for Biomedical Informatics, Inc., 410 West 10th Street, Suite 2000, Indianapolis, IN 46202-3012, *http://loinc.org/*.
 
 (1) Logical Observation Identifiers Names and Codes (LOINC®) version 2.27, June 15, 2009, IBR approved for § 170.207.
 
@@ -188,13 +200,13 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (4) The Unified Code of Units for Measure, Revision 1.9, October 23, 2013, IBR approved for § 170.207.
 
-(p) The Direct Project, c/o the Office of the National Coordinator for Health Information Technology (ONC), 330 C Street SW., Washington, DC 20201, *http://healthit.hhs.gov*.
+(q) The Direct Project, c/o the Office of the National Coordinator for Health Information Technology (ONC), 330 C Street SW., Washington, DC 20201, *http://healthit.hhs.gov*.
 
 (1) Applicability Statement for Secure Health Transport, Version 1.2, August 2015, IBR approved for § 170.202(a).
 
 (2) Implementation Guide for Delivery Notification in Direct, Version 1.0, June 29, 2012, IBR approved for § 170.202(e).
 
-(q) U.S. National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894; Telephone (301) 594-5983 or *http://www.nlm.nih.gov/.*
+(r) U.S. National Library of Medicine, 8600 Rockville Pike, Bethesda, MD 20894; Telephone (301) 594-5983 or *http://www.nlm.nih.gov/.*
 
 (1) International Health Terminology Standards Development Organization Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT®), International Release, July 2009, IBR approved for § 170.207.
 
@@ -202,18 +214,16 @@ Link to an amendment published at 85 FR 25941, May 1, 2020.
 
 (3) US Extension to SNOMED CT® March 2012 Release, IBR approved for § 170.207.
 
-(4) RxNorm, August 6, 2012 Full Release Update, IBR approved for § 170.207.
-
-(5) Data Element Catalog, Version 1.1, October 2012, IBR approved for § 170.204.
+(4)-(5) [Reserved]
 
 (6) International Health Terminology Standards Development Organization (IHTSDO) Systematized Nomenclature of Medicine Clinical Terms (SNOMED CT®) U.S. Edition, September 2015 Release, IBR approved for § 170.207(a).
 
 (7) RxNorm, September 8, 2015 Full Release Update, IBR approved for § 170.207(d).
 
-(r) World Wide Web Consortium (W3C)/MIT, 32 Vassar Street, Room 32-G515, Cambridge, MA 02139 USA, *http://www.w3.org/standards/*
+(s) World Wide Web Consortium (W3C)/MIT, 32 Vassar Street, Room 32-G515, Cambridge, MA 02139 USA, *http://www.w3.org/standards/*
 
 (1) Web Content Accessibility Guidelines (WCAG) 2.0, December 11, 2008, IBR approved for § 170.204.
 
 (2) [Reserved]
 
-[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016]
+[75 FR 44649, July 28, 2010, as amended at 75 FR 62690, Oct. 13, 2010; 77 FR 54285, Sept. 4, 2012; 77 FR 72991, Dec. 7, 2012; 79 FR 54478, Sept. 11, 2014; 80 FR 62745, Oct. 16, 2015; 81 FR 72463, Oct. 19, 2016; 85 FR 25941, May 1, 2020]

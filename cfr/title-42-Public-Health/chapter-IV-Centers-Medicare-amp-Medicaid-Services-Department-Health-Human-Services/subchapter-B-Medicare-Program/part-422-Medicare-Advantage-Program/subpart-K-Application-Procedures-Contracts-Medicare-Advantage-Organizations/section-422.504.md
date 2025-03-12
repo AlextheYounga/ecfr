@@ -1,7 +1,5 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 85 FR 25633, May 1, 2020.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
 (a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -
@@ -49,6 +47,8 @@ The contract between the MA organization and CMS must contain the following prov
 (16) To maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality improvement activities related to the delivery of Part C services.
 
 (17) To maintain a Part C summary plan rating score of at least 3 stars under the 5-star rating system specified in subpart D of this part. A Part C summary plan rating is calculated as provided in § 422.166.
+
+(18) To comply with the requirements for access to health data and plan information under §§ 422.119 and 422.120 of this chapter.
 
 (b) *Communication with CMS.* The MA organization must have the capacity to communicate with CMS electronically.
 

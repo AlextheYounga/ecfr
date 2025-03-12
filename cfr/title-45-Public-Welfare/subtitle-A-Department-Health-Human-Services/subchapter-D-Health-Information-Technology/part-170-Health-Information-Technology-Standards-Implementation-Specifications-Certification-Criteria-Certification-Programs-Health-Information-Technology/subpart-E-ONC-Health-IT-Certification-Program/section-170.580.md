@@ -1,10 +1,8 @@
 ##### § 170.580 ONC review of certified health IT. #####
 
-Link to an amendment published at 85 FR 25953, May 1, 2020.
+(a) *Direct review*—(1) *Purpose.* ONC may directly review certified health IT or a health IT developer's actions or practices to determine whether either conform to the requirements of the ONC Health IT Certification Program.
 
-(a) *Direct review* - (1) *Purpose.* ONC may directly review certified health IT to determine whether it conforms to the requirements of the ONC Health IT Certification Program.
-
-(2) *Circumstances that may trigger review* - (i) *Unsafe conditions.* ONC may initiate direct review under this section if it has a reasonable belief that certified health IT may not conform to the requirements of the Program because the certified health IT may be causing or contributing to conditions that present a serious risk to public health or safety, taking into consideration -
+(2) *Circumstances that may trigger review*—(i) *Certified health IT causing or contributing to unsafe conditions.* ONC may initiate direct review under this section if it has a reasonable belief that certified health IT may not conform to the requirements of the Program because the certified health IT may be causing or contributing to conditions that present a serious risk to public health or safety, taking into consideration—
 
 (A) The potential nature, severity, and extent of the suspected conditions;
 
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (C) If applicable, information that calls into question the validity of the health IT's certification or maintenance thereof under the Program.
 
-(ii) *Impediments to ONC-ACB oversight.* ONC may initiate direct review under this section if it has a reasonable belief that certified health IT may not conform to requirements of the Program and the suspected non-conformity presents issues that -
+(ii) *Impediments to ONC-ACB oversight of certified health IT.* ONC may initiate direct review under this section if it has a reasonable belief that certified health IT may not conform to requirements of the Program and the suspected non-conformity presents issues that—
 
 (A) May require access to confidential or other information that is not available to an ONC-ACB;
 
@@ -20,17 +18,21 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (C) May exceed an ONC-ACB's resources or expertise.
 
-(3) *Relationship to ONC-ACBs and ONC-ATLs.* (i) ONC's review of certified health IT is independent of, and may be in addition to, any surveillance conducted by an ONC-ACB.
+(iii) *Noncompliance with a Condition and Maintenance of Certification requirement.* ONC may initiate direct review under this section if it has a reasonable belief that a health IT developer has not complied with a Condition or Maintenance of Certification requirement under subpart D of this part.
 
-(ii) ONC may assert exclusive review of certified health IT as to any matters under review by ONC and any similar matters under surveillance by an ONC-ACB.
+(3) *Relationship to ONC-ACBs and ONC-ATLs.* (i) ONC's review of certified health IT or a health IT developer's actions or practices is independent of, and may be in addition to, any surveillance of certified health IT conducted by an ONC-ACB.
 
 (iii) ONC's determination on matters under its review is controlling and supersedes any determination by an ONC-ACB on the same matters.
 
-(iv) An ONC-ACB and ONC-ATL shall provide ONC with any available information that ONC deems relevant to its review of certified health IT.
+(iv) An ONC-ACB and ONC-ATL shall provide ONC with any available information that ONC deems relevant to its review of certified health IT or a health IT developer's actions or practices.
 
-(v) ONC may end all or any part of its review of certified health IT under this section at any time and refer the applicable part of the review to the relevant ONC-ACB(s) if ONC determines that doing so would serve the effective administration or oversight of the ONC Health IT Certification Program.
+(v) ONC may end all or any part of its review of certified health IT or a health IT developer's actions or practices under this section at any time and refer the applicable part of the review to the relevant ONC-ACB(s) if ONC determines that doing so would serve the effective administration or oversight of the ONC Health IT Certification Program.
 
-(b) *Notice* - (1) *Notice of potential non-conformity* - (i) *Circumstances that may trigger notice of potential non-conformity.* At any time during its review of certified health IT under paragraph (a) of this section, ONC may send a notice of potential non-conformity if it has a reasonable belief that certified health IT may not conform to the requirements of the ONC Health IT Certification Program.
+(4) *Coordination with the Office of Inspector General.* (i) ONC may coordinate its review of a claim of information blocking with the Office of Inspector General or defer to the Office of Inspector General to lead a review of a claim of information blocking.
+
+(ii) ONC may rely on Office of Inspector General findings to form the basis of a direct review action.
+
+(b) *Notice*—(1) *Notice of potential non-conformity*—(i) *Circumstances that may trigger notice of potential non-conformity.* At any time during its review of certified health IT or a health IT developer's actions or practices under paragraph (a) of this section, ONC may send a notice of potential non-conformity if it has a reasonable belief that certified health IT or a health IT developer's actions or practices may not conform to the requirements of the ONC Health IT Certification Program.
 
 (ii) *Health IT developer response.* (A) The health IT developer must respond to the notice of potential non-conformity by:
 
@@ -58,9 +60,9 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (C) Substantiate a non-conformity and issue a notice of non-conformity.
 
-(D) Issue a notice of proposed termination.
+(D) Issue a notice of proposed termination if the health IT is under review in accordance with paragraph (a)(2)(i) or (ii) of this section.
 
-(2) *Notice of non-conformity* - (i) *Circumstances that may trigger notice of non-conformity.* At any time during its review of certified health IT under paragraph (a) of this section, ONC may send a notice of non-conformity to the health IT developer if it determines that certified health IT does not conform to the requirements of the ONC Health IT Certification Program.
+(2) *Notice of non-conformity*—(i) *Circumstances that may trigger notice of non-conformity.* At any time during its review of certified health IT or a health IT developer's actions or practices under paragraph (a) of this section, ONC may send a notice of non-conformity to the health IT developer if it determines that certified health IT or a health IT developer's actions or practices does not conform to the requirements of the ONC Health IT Certification Program.
 
 (ii) *Health IT developer response.* (A) The health IT developer must respond to the notice of non-conformity by:
 
@@ -86,11 +88,15 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (3) *Records access.* In response to a notice of potential non-conformity or notice of non-conformity, a health IT developer shall make available to ONC and for sharing within HHS, with other federal departments, agencies, and offices, and with appropriate entities including, but not limited to, third-parties acting on behalf of ONC:
 
-(i) All records related to the development, testing, certification, implementation, maintenance and use of its certified health IT; and
+(i) All records related to the development, testing, certification, implementation, maintenance and use of its certified health IT;
 
-(ii) Any complaint records related to the certified health IT.
+(ii) Any complaint records related to the certified health IT;
 
-(c) *Corrective action plan and procedures.* (1) If ONC determines that certified health IT does not conform to requirements of the ONC Health IT Certification Program, ONC shall notify the health IT developer of its determination and require the health IT developer to submit a proposed corrective action plan.
+(iii) All records related to the Condition(s) and Maintenance of Certification requirements, including marketing and distribution records, communications, and contracts; and
+
+(iv) Any other relevant information.
+
+(c) *Corrective action plan and procedures*—(1) *Applicability.* If ONC determines that certified health IT or a health IT developer's action or practice does not conform to requirements of the ONC Health IT Certification Program, ONC shall notify the health IT developer of its determination and require the health IT developer to submit a proposed corrective action plan.
 
 (2) ONC shall provide direction to the health IT developer as to the required elements of the corrective action plan, which shall include such required elements as ONC determines necessary to comprehensively and expeditiously resolve the identified non-conformity(ies). The corrective action plan shall, in all cases, at a minimum include the following required elements:
 
@@ -120,7 +126,7 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (7) ONC may reinstitute a corrective action plan if it later determines that a health IT developer has not fulfilled all of its obligations under the corrective action plan as attested in accordance with paragraph (c)(6) of this section.
 
-(d) *Suspension.* (1) ONC may suspend the certification of a Complete EHR or Health IT Module at any time if ONC has a reasonable belief that the certified health IT may present a serious risk to public health or safety.
+(d) *Suspension.* (1) ONC may suspend the certification of a Health IT Module at any time if ONC has a reasonable belief that the certified health IT may present a serious risk to public health or safety.
 
 (2) When ONC decides to suspend a certification, ONC will notify the health IT developer of its determination through a notice of suspension.
 
@@ -130,7 +136,7 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (B) Information supporting the determination;
 
-(C) The consequences of suspension for the health IT developer and the Complete EHR or Health IT Module under the ONC Health IT Certification Program; and
+(C) The consequences of suspension for the health IT developer and the Health IT Module under the ONC Health IT Certification Program; and
 
 (D) Instructions for appealing the suspension.
 
@@ -138,13 +144,13 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (3) The health IT developer must notify all potentially affected customers of the identified non-conformity(ies) and suspension of certification in a timely manner.
 
-(4) When a certification is suspended, the health IT developer must cease and desist from any marketing, licensing, and sale of the suspended Complete EHR or Health IT Module as “certified” under the ONC Health IT Certification Program from that point forward until such time ONC cancels the suspension in accordance with paragraph (d)(6) of this section.
+(4) When a certification is suspended, the health IT developer must cease and desist from any marketing, licensing, and sale of the suspended Health IT Module as “certified” under the ONC Health IT Certification Program from that point forward until such time ONC cancels the suspension in accordance with paragraph (d)(6) of this section.
 
-(5) The certification of any health IT produced by a health IT developer that has the certification of one of its Complete EHRs or Health IT Modules suspended under the Program is prohibited, unless ONC cancels a suspension in accordance with paragraph (d)(6) of this section.
+(5) The certification of any health IT produced by a health IT developer that has the certification of one of its Health IT Modules suspended under the Program is prohibited, unless ONC cancels a suspension in accordance with paragraph (d)(6) of this section.
 
 (6) ONC may cancel a suspension at any time if ONC no longer has a reasonable belief that the certified health IT presents a serious risk to public health or safety.
 
-(e) *Proposed termination.* (1) ONC may propose to terminate a certification issued to a Complete EHR and/or Health IT Module if:
+(e) *Proposed termination*—(1) *Applicability.* Excluding situations of noncompliance with a Condition or Maintenance of Certification requirement under subpart D of this part, ONC may propose to terminate a certification issued to a Health IT Module if:
 
 (i) The health IT developer fails to timely respond to any communication from ONC, including, but not limited to:
 
@@ -188,11 +194,33 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (iii) Proceed to terminate the certification of the health IT under review consistent with paragraph (f) of this section.
 
-(f) *Termination.* (1) The National Coordinator may terminate a certification if:
+(f) *Termination*—(1) *Applicability.* The National Coordinator may terminate a certification if:
 
-(i) A determination is made that termination is appropriate after considering the information provided by the health IT developer in response to the proposed termination notice; or
+(i) A determination is made that termination is appropriate after considering the information provided by the health IT developer in response to the proposed termination notice;
 
-(ii) The health IT developer does not respond in writing to a proposed termination notice within the timeframe specified in paragraph (e)(3) of this section.
+(ii) The health IT developer does not respond in writing to a proposed termination notice within the timeframe specified in paragraph (e)(3) of this section; or
+
+(iii) A determination is made that the health IT developer is noncompliant with a Condition or Maintenance of Certification requirement under subpart D of this part or for the following circumstances when ONC exercises direct review under paragraph (a)(2)(iii) of this section:
+
+(A) The health IT developer fails to timely respond to any communication from ONC, including, but not limited to:
+
+(*1*) Fact-finding;
+
+(*2*) A notice of potential non-conformity within the timeframe established in accordance with paragraph (b)(1)(ii)(A)(*3*) of this section; or
+
+(*3*) A notice of non-conformity within the timeframe established in accordance with paragraph (b)(2)(ii)(A)(*3*) of this section.
+
+(B) The information or access provided by the health IT developer in response to any ONC communication, including, but not limited to: Fact-finding, a notice of potential non-conformity, or a notice of non-conformity is insufficient or incomplete;
+
+(C) The health IT developer fails to cooperate with ONC and/or a third party acting on behalf of ONC;
+
+(D) The health IT developer fails to timely submit in writing a proposed corrective action plan;
+
+(E) The health IT developer fails to timely submit a corrective action plan that adequately addresses the elements required by ONC as described in paragraph (c) of this section;
+
+(F) The health IT developer does not fulfill its obligations under the corrective action plan developed in accordance with paragraph (c) of this section; or
+
+(G) ONC concludes that the non-conformity(ies) cannot be cured.
 
 (2) When ONC decides to terminate a certification, ONC will notify the health IT developer of its determination through a notice of termination.
 
@@ -202,7 +230,7 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (B) Information supporting the determination;
 
-(C) The consequences of termination for the health IT developer and the Complete EHR or Health IT Module under the ONC Health IT Certification Program; and
+(C) The consequences of termination for the health IT developer and the Health IT Module under the ONC Health IT Certification Program; and
 
 (D) Instructions for appealing the termination.
 
@@ -218,25 +246,45 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (4) ONC may rescind a termination determination before the termination becomes effective if ONC determines that termination is no longer appropriate.
 
-(g) *Appeal* - (1) *Basis for appeal.* A health IT developer may appeal an ONC determination to suspend or terminate a certification issued to a Complete EHR or Health IT Module if the health IT developer asserts:
+(g) *Appeal*—(1) *Basis for appeal.* A health IT developer may appeal an ONC determination to suspend or terminate a certification issued to a Health IT Module and/or an ONC determination to issue a certification ban under § 170.581(a)(2) if the health IT developer asserts:
 
-(i) ONC incorrectly applied ONC Health IT Certification Program requirements for suspension or termination; or
+(i) ONC incorrectly applied ONC Health IT Certification Program requirements for a:
+
+(A) Suspension;
+
+(B) Termination; or
+
+(C) Certification ban under § 170.581(a)(2).
 
 (ii) ONC's determination was not sufficiently supported by the information provided by ONC with its determination.
 
-(2) *Method and place for filing an appeal.* A statement of intent to appeal followed by a request for appeal must be submitted to ONC in writing by an authorized representative of the health IT developer whose Complete EHR or Health IT Module was subject to the determination being appealed. The statement of intent to appeal and request for appeal must be filed in accordance with the requirements specified in the notice of termination or notice of suspension.
+(2) *Method and place for filing an appeal.* A statement of intent to appeal followed by a request for appeal must be submitted to ONC in writing by an authorized representative of the health IT developer subject to the determination being appealed. The statement of intent to appeal and request for appeal must be filed in accordance with the requirements specified in the notice of:
 
-(3) *Time for filing a request for appeal.* (i) A statement of intent to appeal must be filed within 10 days of a health IT developer's receipt of the notice of suspension or notice of termination.
+(i) Termination;
+
+(ii) Suspension; or
+
+(iii) Certification ban under § 170.581(a)(2).
+
+(3) *Time for filing a request for appeal.* (i) A statement of intent to appeal must be filed within 10 days of a health IT developer's receipt of the notice of:
+
+(A) Suspension;
+
+(B) Termination; or
+
+(C) Certification ban under § 170.581(a)(2).
 
 (ii) An appeal, including all supporting documentation, must be filed within 30 days of the filing of the intent to appeal.
 
-(4) *Effect of appeal on suspension and termination.* (i) A request for appeal stays the termination of a certification issued to a Complete EHR or Health IT Module, but the Complete EHR or Health IT Module is prohibited from being marketed, licensed, or sold as “certified” during the stay.
+(4) *Effect of appeal.* (i) A request for appeal stays the termination of a certification issued to a Health IT Module, but the Health IT Module is prohibited from being marketed, licensed, or sold as “certified” during the stay.
 
-(ii) A request for appeal does not stay the suspension of a Complete EHR or Health IT Module.
+(ii) A request for appeal does not stay the suspension of a Health IT Module.
+
+(iii) A request for appeal stays a certification ban issued under § 170.581(a)(2).
 
 (5) *Appointment of a hearing officer.* The National Coordinator will assign the case to a hearing officer to adjudicate the appeal on his or her behalf.
 
-(i) The hearing officer may not review an appeal in which he or she participated in the initial suspension or termination determination or has a conflict of interest in the pending matter.
+(i) The hearing officer may not review an appeal in which he or she participated in the initial suspension, termination, or certification ban determination or has a conflict of interest in the pending matter.
 
 (ii) The hearing officer must be trained in a nationally recognized ethics code that articulates nationally recognized standards of conduct for hearing officers/officials.
 
@@ -264,14 +312,10 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (iv) The default process will be a determination in accordance with paragraph (g)(6)(i)(A) of this section.
 
-(v) ONC will have an opportunity to provide the hearing officer with a written statement and supporting documentation on its behalf that clarifies, as necessary, its determination to suspend or terminate the certification.
-
-(A) The written statement and supporting documentation must be included as part of the written record and provided to the health IT developer within 15 days of the health IT developer's filing of an intent to appeal.
-
-(B) Failure of ONC to submit a written statement does not result in any adverse findings against ONC and may not in any way be taken into account by the hearing officer in reaching a determination.
+(v) ONC will have an opportunity to provide the hearing officer with a written statement and supporting documentation on its behalf that clarifies, as necessary, its determination to suspend or terminate the certification or issue a certification ban.
 
 (7) *Determination by the hearing officer.* (i) The hearing officer will issue a written determination to the health IT developer within 30 days of receipt of the appeal or within a timeframe agreed to by the health IT developer and ONC and approved by the hearing officer, unless ONC cancels the suspension or rescinds the termination determination.
 
 (ii) The National Coordinator's determination on appeal, as issued by the hearing officer, is final and not subject to further review.
 
-[81 FR 72468, Oct. 19, 2016]
+[81 FR 72468, Oct. 19, 2016, as amended at 85 FR 25953, May 1, 2020]

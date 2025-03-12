@@ -1,7 +1,5 @@
 ##### § 482.61 Condition of participation: Special medical record requirements for psychiatric hospitals. #####
 
-Link to an amendment published at 85 FR 25637, May 1, 2020.
-
 The medical records maintained by a psychiatric hospital must permit determination of the degree and intensity of the treatment provided to individuals who are furnished services in the institution.
 
 (a) *Standard: Development of assessment/diagnostic data.* Medical records must stress the psychiatric components of the record, including history of findings and treatment provided for the psychiatric condition for which the patient is hospitalized.
@@ -16,7 +14,7 @@ The medical records maintained by a psychiatric hospital must permit determinati
 
 (5) When indicated, a complete neurological examination must be recorded at the time of the admission physical examination.
 
-(b) *Standard: Psychiatric evaluation.* Each patient must receive a psychiatric evaluation that must -
+(b) *Standard: Psychiatric evaluation.* Each patient must receive a psychiatric evaluation that must—
 
 (1) Be completed within 60 hours of admission;
 
@@ -32,7 +30,7 @@ The medical records maintained by a psychiatric hospital must permit determinati
 
 (7) Include an inventory of the patient's assets in descriptive, not interpretative, fashion.
 
-(c) *Standard: Treatment plan.* (1) Each patient must have an individual comprehensive treatment plan that must be based on an inventory of the patient's strengths and disabilities. The written plan must include -
+(c) *Standard: Treatment plan.* (1) Each patient must have an individual comprehensive treatment plan that must be based on an inventory of the patient's strengths and disabilities. The written plan must include—
 
 (i) A substantiated diagnosis;
 
@@ -50,4 +48,30 @@ The medical records maintained by a psychiatric hospital must permit determinati
 
 (e) *Standard: Discharge planning and discharge summary.* The record of each patient who has been discharged must have a discharge summary that includes a recapitulation of the patient's hospitalization and recommendations from appropriate services concerning follow-up or aftercare as well as a brief summary of the patient's condition on discharge.
 
-[72 FR 60788, Oct. 26, 2007, as amended at 84 FR 51821, Sept. 30, 2019; 85 FR 19292, Apr. 6, 2020]
+(f) *Standard: Electronic notifications.* If the hospital utilizes an electronic medical records system or other electronic administrative system, which is conformant with the content exchange standard at 45 CFR 170.205(d)(2), then the hospital must demonstrate that—
+
+(1) The system's notification capacity is fully operational and the hospital uses it in accordance with all State and Federal statutes and regulations applicable to the hospital's exchange of patient health information.
+
+(2) The system sends notifications that must include at least patient name, treating practitioner name, and sending institution name.
+
+(3) To the extent permissible under applicable federal and state law and regulations, and not inconsistent with the patient's expressed privacy preferences, the system sends notifications directly, or through an intermediary that facilitates exchange of health information, at the time of:
+
+(i) The patient's registration in the hospital's emergency department (if applicable).
+
+(ii) The patient's admission to the hospital's inpatient services (if applicable).
+
+(4) To the extent permissible under applicable federal and state law and regulations, and not inconsistent with the patient's expressed privacy preferences, the system sends notifications directly, or through an intermediary that facilitates exchange of health information, either immediately prior to, or at the time of:
+
+(i) The patient's discharge or transfer from the hospital's emergency department (if applicable).
+
+(ii) The patient's discharge or transfer from the hospital's inpatient services (if applicable).
+
+(5) The hospital has made a reasonable effort to ensure that the system sends the notifications to all applicable post-acute care services providers and suppliers, as well as to any of the following practitioners and entities, which need to receive notification of the patient's status for treatment, care coordination, or quality improvement purposes:
+
+(i) The patient's established primary care practitioner;
+
+(ii) The patient's established primary care practice group or entity; or
+
+(iii) Other practitioner, or other practice group or entity, identified by the patient as the practitioner, or practice group or entity, primarily responsible for his or her care.
+
+[72 FR 60788, Oct. 26, 2007, as amended at 84 FR 51821, Sept. 30, 2019; 85 FR 19292, Apr. 6, 2020; 85 FR 25637, May 1, 2020]

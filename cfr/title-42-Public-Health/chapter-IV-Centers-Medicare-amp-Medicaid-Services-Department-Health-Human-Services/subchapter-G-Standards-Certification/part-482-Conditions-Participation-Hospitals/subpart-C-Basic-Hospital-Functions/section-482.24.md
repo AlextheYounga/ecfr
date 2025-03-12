@@ -1,7 +1,5 @@
 ##### § 482.24 Condition of participation: Medical record services. #####
 
-Link to an amendment published at 85 FR 25637, May 1, 2020.
-
 The hospital must have a medical record service that has administrative responsibility for medical records. A medical record must be maintained for every individual evaluated or treated in the hospital.
 
 (a) *Standard: Organization and staffing.* The organization of the medical record service must be appropriate to the scope and complexity of the services performed. The hospital must employ adequate personnel to ensure prompt completion, filing, and retrieval of records.
@@ -32,7 +30,7 @@ The hospital must have a medical record service that has administrative responsi
 
 (4) All records must document the following, as appropriate:
 
-(i) Evidence of -
+(i) Evidence of—
 
 (A) A medical history and physical examination completed and documented no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, and except as provided under paragraph (c)(4)(i)(C) of this section. The medical history and physical examination must be placed in the patient's medical record within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services.
 
@@ -54,4 +52,30 @@ The hospital must have a medical record service that has administrative responsi
 
 (viii) Final diagnosis with completion of medical records within 30 days following discharge.
 
-[51 FR 22042, June 17, 1986, as amended at 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 77 FR 29074, May 16, 2012; 84 FR 51819, Sept. 30, 2019]
+(d) *Standard: Electronic notifications.* If the hospital utilizes an electronic medical records system or other electronic administrative system, which is conformant with the content exchange standard at 45 CFR 170.205(d)(2), then the hospital must demonstrate that—
+
+(1) The system's notification capacity is fully operational and the hospital uses it in accordance with all State and Federal statutes and regulations applicable to the hospital's exchange of patient health information.
+
+(2) The system sends notifications that must include at least patient name, treating practitioner name, and sending institution name.
+
+(3) To the extent permissible under applicable federal and state law and regulations, and not inconsistent with the patient's expressed privacy preferences, the system sends notifications directly, or through an intermediary that facilitates exchange of health information, at the time of:
+
+(i) The patient's registration in the hospital's emergency department (if applicable).
+
+(ii) The patient's admission to the hospital's inpatient services (if applicable).
+
+(4) To the extent permissible under applicable federal and state law and regulations and not inconsistent with the patient's expressed privacy preferences, the system sends notifications directly, or through an intermediary that facilitates exchange of health information, either immediately prior to, or at the time of:
+
+(i) The patient's discharge or transfer from the hospital's emergency department (if applicable).
+
+(ii) The patient's discharge or transfer from the hospital's inpatient services (if applicable).
+
+(5) The hospital has made a reasonable effort to ensure that the system sends the notifications to all applicable post-acute care services providers and suppliers, as well as to any of the following practitioners and entities, which need to receive notification of the patient's status for treatment, care coordination, or quality improvement purposes:
+
+(i) The patient's established primary care practitioner;
+
+(ii) The patient's established primary care practice group or entity; or
+
+(iii) Other practitioner, or other practice group or entity, identified by the patient as the practitioner, or practice group or entity, primarily responsible for his or her care.
+
+[51 FR 22042, June 17, 1986, as amended at 71 FR 68694, Nov. 27, 2006; 72 FR 66933, Nov. 27, 2007; 77 FR 29074, May 16, 2012; 84 FR 51819, Sept. 30, 2019; 85 FR 25637, May 1, 2020]

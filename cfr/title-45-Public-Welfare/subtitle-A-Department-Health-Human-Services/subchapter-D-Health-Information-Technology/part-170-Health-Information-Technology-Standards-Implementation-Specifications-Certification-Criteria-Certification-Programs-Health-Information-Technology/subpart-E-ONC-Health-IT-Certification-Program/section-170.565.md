@@ -1,7 +1,5 @@
 ##### § 170.565 Revocation of ONC-ACB or ONC-ATL status. #####
 
-Link to an amendment published at 85 FR 25953, May 1, 2020.
-
 (a) *Type-1 violations.* The National Coordinator may revoke an ONC-ATL or ONC-ACB's status for committing a Type-1 violation. Type-1 violations include violations of law or ONC Health IT Certification Program policies that threaten or significantly undermine the integrity of the ONC Health IT Certification Program. These violations include, but are not limited to: False, fraudulent, or abusive activities that affect the ONC Health IT Certification Program, a program administered by HHS or any program administered by the federal government.
 
 (b) *Type-2 violations.* The National Coordinator may revoke an ONC-ATL or ONC-ACB's status for failing to timely or adequately correct a Type-2 violation. Type-2 violations constitute noncompliance with § 170.560.
@@ -28,9 +26,9 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (i) *Applicable to both ONC-ACBs and ONC-ATLs.* The ONC-ATL or ONC-ACB committed a Type-1 or Type-2 violation;
 
-(ii) *Applicable to ONC-ACBs.* The continued certification of Complete EHRs or Health IT Modules by the ONC-ACB could have an adverse impact on the health or safety of patients.
+(ii) *Applicable to ONC-ACBs.* The continued certification of Health IT Modules by the ONC-ACB could have an adverse impact on the health or safety of patients.
 
-(iii) *Applicable to ONC-ATLs.* The continued testing of Complete EHRs or Health IT Modules by the ONC-ATL could have an adverse impact on the health or safety of patients.
+(iii) *Applicable to ONC-ATLs.* The continued testing of Health IT Modules by the ONC-ATL could have an adverse impact on the health or safety of patients.
 
 (2) If the National Coordinator determines that the conditions of paragraph (d)(1) of this section have been met, an ONC-ATL or ONC-ACB will be issued a notice of proposed suspension.
 
@@ -62,13 +60,13 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (2) A decision to revoke an ONC-ATL or ONC-ACB's status is final and not subject to further review unless the National Coordinator chooses to reconsider the revocation.
 
-(h) *Extent and duration of revocation* - (1) *Effectuation.* The revocation of an ONC-ATL or ONC-ACB is effective as soon as the ONC-ATL or ONC-ACB receives the revocation notice.
+(h) *Extent and duration of revocation*—(1) *Effectuation.* The revocation of an ONC-ATL or ONC-ACB is effective as soon as the ONC-ATL or ONC-ACB receives the revocation notice.
 
 (2) *ONC-ACB provisions.* (i) A certification body that has had its ONC-ACB status revoked is prohibited from accepting new requests for certification and must cease its current certification operations under the ONC Health IT Certification Program.
 
 (ii) A certification body that has had its ONC-ACB status revoked for a Type-1 violation is not permitted to reapply for ONC-ACB status under the ONC Health IT Certification Program for a period of 1 year.
 
-(iii) The failure of a certification body that has had its ONC-ACB status revoked to promptly refund any and all fees for certifications of Complete EHRs and Health IT Module(s) not completed will be considered a violation of the Principles of Proper Conduct for ONC-ACBs and will be taken into account by the National Coordinator if the certification body reapplies for ONC-ACB status under the ONC Health IT Certification Program.
+(iii) The failure of a certification body that has had its ONC-ACB status revoked to promptly refund any and all fees for certifications of Health IT Module(s) not completed will be considered a violation of the Principles of Proper Conduct for ONC-ACBs and will be taken into account by the National Coordinator if the certification body reapplies for ONC-ACB status under the ONC Health IT Certification Program.
 
 (3) *ONC-ATL provisions.* (i) A testing lab that has had its ONC-ATL status revoked is prohibited from accepting new requests for testing and must cease its current testing operations under the ONC Health IT Certification Program.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 85 FR 25953, May 1, 2020.
 
 (iii) The failure of a testing lab that has had its ONC-ATL status revoked to promptly refund any and all fees for testing of health IT not completed will be considered a violation of the Principles of Proper Conduct for ONC-ATLs and will be taken into account by the National Coordinator if the testing lab reapplies for ONC-ATL status under the ONC Health IT Certification Program.
 
-[81 FR 72466, Oct. 19, 2016]
+[81 FR 72466, Oct. 19, 2016, as amended at 85 FR 25953, May 1, 2020]

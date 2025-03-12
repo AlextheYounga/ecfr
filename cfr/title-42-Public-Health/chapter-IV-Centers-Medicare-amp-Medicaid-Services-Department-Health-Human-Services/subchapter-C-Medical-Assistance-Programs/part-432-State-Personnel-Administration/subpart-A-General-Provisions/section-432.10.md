@@ -12,7 +12,7 @@
 
 (d) *Compliance of local jurisdictions.* The Medicaid agency must have in effect methods to assure compliance with the standards by local jurisdictions included in the plan.
 
-(e) *Review and adequacy of State laws, regulations, and policies.* The agency must -
+(e) *Review and adequacy of State laws, regulations, and policies.* The agency must—
 
 (1) Assure that the U.S. Civil Service Commission has determined the adequacy of current State laws, regulations, and policy statements that effect methods of personnel administration in conformity with the standards, and
 
@@ -20,7 +20,7 @@
 
 (f) *Statements of acceptance by local agencies.* If the Medicaid agency changes from a State-administered to a State-supervised, locally administered program, it must obtain statements of acceptance of the standards from the local agencies.
 
-(g) *Affirmative action plan.* The Medicaid agency must have in effect an affirmative action plan for equal employment opportunity, that includes specific action steps and timetables to assure that opportunity, and meets all other requirements of 45 CFR 70.4.1/\>
+(g) *Affirmative action plan.* The Medicaid agency must have in effect an affirmative action plan for equal employment opportunity, that includes specific action steps and timetables to assure that opportunity, and meets all other requirements of 45 CFR 70.4.1
 
 1 Editorial Note: The regulations formerly contained in 45 CFR 70.4 were revised and reissued by the Office of Personnel Management at 5 CFR part 900, (subpart F).
 

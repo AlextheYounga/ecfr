@@ -1,14 +1,10 @@
 ##### § 423.910 Requirements. #####
 
-Link to an amendment published at 85 FR 25634, May 1, 2020.
-
 (a) *General rule.* Each of the 50 States and the District of Columbia is required to provide for payment to CMS a phased-down contribution to defray a portion of the Medicare drug expenditures for individuals whose projected Medicaid drug coverage is assumed by Medicare Part D.
 
-(b) *State contribution payment* -
+(b) *State contribution payment*—
 
-(1) *Calculation of payment.* The State contribution payment is calculated by CMS on a monthly basis, as indicated in the following chart. For States that do not meet the monthly reporting requirement for the monthly enrollment reporting, the State contribution payment is calculated using a methodology determined by CMS.
-
-Illustrative Calculation of State Phased-down Monthly Contribution for 2006
+(1) *Calculation of payment.* The State contribution payment is calculated by CMS on a monthly basis, as indicated in the following chart. For States that do not meet state enrollment reporting requirement described in paragraph (d) of this section, the State contribution payment is calculated using a methodology determined by CMS.
 
 |      |                                                                                                            Item                                                                                                            |Illustrative Value|                    Source                    |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------|
@@ -21,7 +17,7 @@ Illustrative Calculation of State Phased-down Monthly Contribution for 2006
 |(vii) |                                    Average number of full-benefit dual eligibles in 2003 who did not receive covered outpatient drugs through comprehensive Medicaid managed care plans                                    |      90,000      |                 CY MSIS data                 |
 |(viii)|                                       Average number of full-benefit dual eligibles in 2003 who received covered outpatient drugs through comprehensive Medicaid managed care plans                                        |      10,000      |                 CY MSIS data                 |
 | (ix) |                                   Base year State Medicaid per capita expenditures for covered Part D drugs for full-benefit dual eligible individuals (weighted average of (5) and (6))                                   |      $1,590      |    [(7) × (5) + (8) × (6)] ÷ [(7) + (8)]     |
-| (x)  |                                                     100 minus Federal Medical Assistance Percentage (FMAP) applicable to month of State contribution (as a proportion)                                                     |      0.4000      |               Federal Register               |
+| (x)  |                                                     100 minus Federal Medical Assistance Percentage (FMAP) applicable to month of State contribution (as a proportion)                                                     |      0.4000      |             **Federal Register**             |
 | (xi) |                                                                           Applicable growth factor (cumulative increase from 2003 through 2006)                                                                            |      50.0%       |               NHE projections                |
 |(xii) |                                                                                    Number of full-benefit dual eligibles for the month                                                                                     |     120,000      |             State submitted data             |
 |(xiii)|                                                                                      Phased-down State reduction factor for the month                                                                                      |      0.9000      |             specified in statute             |
@@ -31,7 +27,13 @@ Illustrative Calculation of State Phased-down Monthly Contribution for 2006
 
 (c) *State Medicaid Statistical Information System (MSIS) Reporting.* Effective with calendar year (CY) 2003 and all subsequent MSIS data submittals, States are required to provide accurate and complete coding to identify the numbers and types of Medicaid and Medicare dual eligibles. Calendar year 2003 submittals must be complete and must be accepted, based on CMS' data quality review, by December 31, 2004.
 
-(d) *State monthly enrollment reporting.* Effective June 2005, and each subsequent month, States must submit an electronic file, in a manner specified by CMS, identifying each full-benefit dual eligible individual enrolled in the State for each month. This file must include specified information including identifying information, a dual eligible type code, available income data and institutional status. The file includes data on enrollment for the current month, plus retroactive changes in enrollment characteristics for prior months. This file will be used by CMS to establish the monthly enrollment for those individuals with Part D drug coverage who are also determined by the State to be eligible for full Medicaid benefits subject to the phased down State contribution payment. This file is due to CMS no later than the last day of the reporting month. For States that do not submit an acceptable file by the end of the month, the phased down State contribution for that month is based on data deemed appropriate by CMS.
+(d) *State monthly enrollment reporting.*—
+
+(1) States must submit an electronic file as specified in paragraph (d)(2) of this section, identifying each full-benefit dual eligible individual enrolled in the State for each month. This file must include specified information including identifying information, a dual eligible type code, available income data and institutional status. The file includes data on enrollment for the current month, plus retroactive changes in enrollment characteristics for prior months. This file will be used by CMS to establish the monthly enrollment for those individuals with Part D drug coverage who are also determined by the State to be eligible for full Medicaid benefits subject to the phased down State contribution payment. This file is due to CMS no later than the last day of the reporting month. For States that do not submit an acceptable file by the end of the month, the phased down State contribution for that month is based on data deemed appropriate by CMS.
+
+(2)(i) For the period prior to April 1, 2022, States must submit the file at least monthly and may submit updates to that file on a more frequent basis.
+
+(ii) For the period beginning April 1, 2022, States must submit the file at least monthly and must submit updates to that file on a daily basis.
 
 (e) *Data match.* CMS performs those periodic data matches as may be necessary to identify and compute the number of full-benefit dual eligible individuals needed to establish the State contribution payment.
 
@@ -39,4 +41,4 @@ Illustrative Calculation of State Phased-down Monthly Contribution for 2006
 
 (g) *Annual per capita drug expenditures.* CMS notifies each State no later than October 15 before each calendar year, beginning October 15, 2005, of their annual per capita drug payment expenditure amount for the next year.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20509, Apr. 15, 2008]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20509, Apr. 15, 2008; 85 FR 25634, May 1, 2020]

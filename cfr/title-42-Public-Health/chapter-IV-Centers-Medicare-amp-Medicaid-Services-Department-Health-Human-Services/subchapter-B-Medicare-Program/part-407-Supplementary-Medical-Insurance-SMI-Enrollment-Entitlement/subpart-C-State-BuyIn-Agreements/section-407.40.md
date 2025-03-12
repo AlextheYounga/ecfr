@@ -1,7 +1,5 @@
 ##### § 407.40 Enrollment under a State buy-in agreement. #####
 
-Link to an amendment published at 85 FR 25632, May 1, 2020.
-
 (a) *Statutory basis.* (1) Section 1843 of the Act, as amended through 1969, permitted a State to enter into an agreement with the Secretary to enroll in the SMI program certain individuals who are eligible for SMI and who are members of the buy-in group specified in the agreement. A buy-in group could include certain individuals receiving Federally-aided State cash assistance (with the option of excluding individuals also entitled to social security benefits or railroad retirement benefits) or could include all individuals eligible for Medicaid. Before 1981, December 31, 1969 was the last day on which a State could request a buy-in agreement or a modification to include a coverage group broader than the one originally selected.
 
 (2) Section 945(e) of the Omnibus Reconciliation Act of 1980 (Pub. L. 96-499) further amended section 1843 to provide that, during calendar year 1981, a State could request a buy-in agreement if it did not already have one, or request a broader coverage group for an existing agreement.
@@ -44,4 +42,6 @@ Link to an amendment published at 85 FR 25632, May 1, 2020.
 
 (3) Any State that does have an agreement may request a modification to cover a broader buy-in group or cancel its current agreement and request a new agreement to cover a narrower group.
 
-[56 FR 38080, Aug. 12, 1991; 56 FR 50058, Oct. 3, 1991]
+(4) Any State that has a buy-in agreement in effect must participate in daily exchanges of enrollment data with CMS.
+
+[56 FR 38080, Aug. 12, 1991; 56 FR 50058, Oct. 3, 1991; 85 FR 25632, May 1, 2020]

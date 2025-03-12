@@ -14,13 +14,13 @@
 
 (1) Shall not possess at any one time, at any one location of storage or use, more than 5 microcuries of plutonium in such sources;
 
-(2) Shall not receive, possess, use or transfer such source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement:1/\>
+(2) Shall not receive, possess, use or transfer such source unless the source, or the storage container, bears a label which includes the following statement or a substantially similar statement which contains the information called for in the following statement:1
 
 1 Sources generally licensed under this section prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 
-The receipt, possession, use and transfer of this source, Model \_\_\_, Serial No. \_\_\_, are subject to a general license and the regulations of the United States Nuclear Regulatory Commission or of a State with which the Commission has entered into an agreement for the exercise of regulatory authority. Do not remove this label.
+The receipt, possession, use and transfer of this source, Model \_\_\_\_\_\_, Serial No. \_\_\_\_\_\_, are subject to a general license and the regulations of the United States Nuclear Regulatory Commission or of a State with which the Commission has entered into an agreement for the exercise of regulatory authority. Do not remove this label.
 
-caution - radioactive material - this source contains plutonium. do not touch radioactive portion of this source.(Name of Manufacturer or Initial Transferor)
+caution—radioactive material—this source contains plutonium. do not touch radioactive portion of this source.(Name of Manufacturer or Initial Transferor)
 
 (3) Shall not transfer, abandon, or dispose of such source except by transfer to a person authorized by a license from the Commission or the Atomic Energy Commission or an Agreement State to receive the source.
 

@@ -1,14 +1,14 @@
-##### § 140.91 Appendix A - Form of nuclear energy liability policy for facilities. #####
+##### § 140.91 Appendix A—Form of nuclear energy liability policy for facilities. #####
 
 While the text of the policy which follows is exemplary of a contract acceptable to the Commission as evidence of the financial protection required of the licensee by section 170 of the Atomic Energy Act of 1954, as amended, variations on this text submitted by the licensee also will be considered by the Commission in determining whether the licensee meets the financial protection requirements of the Act. The full text of the policy is published solely for the purpose of completeness. Publication of this text should not be construed as a Commission endorsement of any particular provision pertaining solely to the business relationship between the insurers and the insureds or to any other matter not within the Commission's statutory jurisdiction under the Atomic Energy Act.
 
 Nuclear Energy Liability Policy(Facility Form)
 
-The undersigned members of \_\_\_\_\_, hereinafter called the “companies,” each for itself, severally and not jointly, and in the respective proportions hereinafter set forth, agree with the insured, named in the declarations made a part hereof, in consideration of the premium and in reliance upon the statements in the declarations and subject to the limit of liability, exclusions, conditions and other terms of this policy;
+The undersigned members of \_\_\_\_\_\_\_\_\_\_, hereinafter called the “companies,” each for itself, severally and not jointly, and in the respective proportions hereinafter set forth, agree with the insured, named in the declarations made a part hereof, in consideration of the premium and in reliance upon the statements in the declarations and subject to the limit of liability, exclusions, conditions and other terms of this policy;
 
 insuring agreements
 
-I. *Coverage A - Bodily injury and property damage liability.* To pay on behalf of the insured:
+I. *Coverage A—Bodily injury and property damage liability.* To pay on behalf of the insured:
 
 (1) All sums which the insured shall become legally obligated to pay as damages because of bodily injury or property damage caused by the nuclear energy hazard, and the companies shall defend any suit against the insured alleging such bodily injury or property damage and seeking damages which are payable under the terms of this policy; but the companies may make such investigation, negotiation and settlement of any claim or suit as they deem expedient;
 
@@ -18,9 +18,9 @@ I. *Coverage A - Bodily injury and property damage liability.* To pay on behalf 
 
 (4) Reasonable expenses, other than loss of earnings, incurred by the insured at the companies' request.
 
-*Coverage B - Damage to property of an insured away from the facility.* With respect to property damage caused by the nuclear energy hazard to property of an insured which is away from the facility, to pay to such insured those sums which such insured would have been legally obligated to pay as damages therefor, had such property belonged to another.
+*Coverage B—Damage to property of an insured away from the facility.* With respect to property damage caused by the nuclear energy hazard to property of an insured which is away from the facility, to pay to such insured those sums which such insured would have been legally obligated to pay as damages therefor, had such property belonged to another.
 
-*Coverage C - Subrogation - Offsite employees.* With respect to bodily injury sustained by any employee of an insured and caused by the nuclear energy hazard, to pay to the workmen's compensation carrier of such insured all sums which such carrier would have been entitled to recover and retain as damages from another person or organization, had such person or organization alone been legally responsible for such bodily injury, by reason of the rights acquired by subrogation by the payment of the benefits required of such carrier under the applicable workmen's compensation or occupational disease law. An employer who is a duly qualified self-insurer under such law shall be deemed to be a workmen's compensation carrier within the meaning of this coverage. This Coverage C does not apply to bodily injury sustained by any person who is employed at and in connection with the facility. This Coverage C shall not constitute workmen's compensation insurance as required under the laws of any state.
+*Coverage C—Subrogation—Offsite employees.* With respect to bodily injury sustained by any employee of an insured and caused by the nuclear energy hazard, to pay to the workmen's compensation carrier of such insured all sums which such carrier would have been entitled to recover and retain as damages from another person or organization, had such person or organization alone been legally responsible for such bodily injury, by reason of the rights acquired by subrogation by the payment of the benefits required of such carrier under the applicable workmen's compensation or occupational disease law. An employer who is a duly qualified self-insurer under such law shall be deemed to be a workmen's compensation carrier within the meaning of this coverage. This Coverage C does not apply to bodily injury sustained by any person who is employed at and in connection with the facility. This Coverage C shall not constitute workmen's compensation insurance as required under the laws of any state.
 
 II. *Definition of insured.* The unqualified word *insured* includes (a) the named insured and (b) any other person or organization with respect to his legal responsibility for damages because of bodily injury or property damage caused by the nuclear energy hazard.
 
@@ -44,7 +44,7 @@ III. *Definitions.* Wherever used in this policy:
 
 *The facility* means the facility described in the declarations and includes the location designated in Item 3 of the declarations and all property and operations at such location;
 
-*Nuclear facility* means *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by the companies or by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+*Nuclear facility* means *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by the companies or by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 The term *nuclear facility* also means
 
@@ -58,7 +58,7 @@ The term *nuclear facility* also means
 
 *Indemnified nuclear facility* means
 
-(1) *The facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by the companies or by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
+(1) *The facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by the companies or by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
 (2) Any other nuclear facility,
 
@@ -98,7 +98,7 @@ This policy does not apply:
 
 Conditions
 
-1. *Premium* - (1) *Definitions.* With reference to the premium for this policy: *advance premium,* for any calendar year, is the estimated standard premium for that calendar year;
+1. *Premium*—(1) *Definitions.* With reference to the premium for this policy: *advance premium,* for any calendar year, is the estimated standard premium for that calendar year;
 
 *Standard premium,* for any calendar year, is the premium for that calendar year computed in accordance with the companies' rules, rates, rating plans (other than the Industry Credit Rating Plan), premiums and minimum premiums applicable to this insurance;
 
@@ -158,25 +158,25 @@ Regardless of the number of years this policy shall continue in force and the nu
 
 (b) Source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under this policy and also arising out of such properties of other source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under one or more other Nuclear Energy Liability Policies (Facility Form) issued by the companies, shall be deemed to be a common occurrence resulting in bodily injury or property damage caused by the nuclear energy hazard.
 
-With respect to such bodily injury and property damage (1) the total aggregate liability of the companies under all Nuclear Energy Liability Policies (Facility Form), including this policy, applicable to such common occurrence shall be the sum of the limits of liability of all such policies, the limit of liability of each such policy being as determined by Condition 3 thereof, but in no event shall such total aggregate liability of the companies exceed $\_\_\_\_\_\_\_;1/\> (2) the total liability of the companies under this policy shall not exceed that proportion of the total aggregate liability of the companies, as stated in clause (1) above, which (a) the limit of liability of this policy, as determined by Condition 3, bears to (b) the sum of the limits of liability of all such policies issued by the companies, the limit of liability of each such policy being as determined by Condition 3, thereof.
+With respect to such bodily injury and property damage (1) the total aggregate liability of the companies under all Nuclear Energy Liability Policies (Facility Form), including this policy, applicable to such common occurrence shall be the sum of the limits of liability of all such policies, the limit of liability of each such policy being as determined by Condition 3 thereof, but in no event shall such total aggregate liability of the companies exceed $\_\_\_\_\_\_\_\_\_\_\_\_\_\_;1 (2) the total liability of the companies under this policy shall not exceed that proportion of the total aggregate liability of the companies, as stated in clause (1) above, which (a) the limit of liability of this policy, as determined by Condition 3, bears to (b) the sum of the limits of liability of all such policies issued by the companies, the limit of liability of each such policy being as determined by Condition 3, thereof.
 
 1 For policies issued by Nuclear Energy Liability-Property Insurance Association the amount will be “$124,000,000,” for policies issued by Mutual Atomic Energy Liability Underwriters, the amount will be “$36,000,000.”
 
 The provisions of this condition shall not operate to increase the limit of the companies' liability under this policy.
 
-5. *Notice of occurrence, claim, or suit.* In the event of bodily injury or property damage to which this policy applies or of an occurrence which may give rise to claims therefor, written notice containing particulars sufficient to identify the insured and also reasonably obtainable information with respect to the time, place and circumstances thereof, and the names and addresses of the injured and of available witnesses, shall be given by or for the insured to \_\_\_\_\_\_or the companies as soon as practicable. If claim is made or suit is brought against the insured, he shall immediately forward to \_\_\_\_\_ or the companies every demand, notice, summons or other process received by him or his representative.
+5. *Notice of occurrence, claim, or suit.* In the event of bodily injury or property damage to which this policy applies or of an occurrence which may give rise to claims therefor, written notice containing particulars sufficient to identify the insured and also reasonably obtainable information with respect to the time, place and circumstances thereof, and the names and addresses of the injured and of available witnesses, shall be given by or for the insured to \_\_\_\_\_\_\_\_\_\_\_\_or the companies as soon as practicable. If claim is made or suit is brought against the insured, he shall immediately forward to \_\_\_\_\_\_\_\_\_\_ or the companies every demand, notice, summons or other process received by him or his representative.
 
 6. *Assistance and cooperation of the insured.* The insured shall cooperate with the companies and, upon the companies' request, attend hearings and trials and assist in making settlements, securing and giving evidence, obtaining the attendance of witnesses and in the conduct of any legal proceedings in connection with the subject matter of this insurance. The insured shall not, except at his own cost, make any payment, assume any obligation or incur any expense.
 
-7. *Action against companies - Coverages A and C.* No action shall lie against the companies or any of them unless, as a condition precedent thereto, the insured shall have fully complied with all the terms of this policy, nor until the amount of the insured's obligation to pay shall have been finally determined either by judgment against the insured after actual trial or by written agreement of the insured, the claimant and the companies.
+7. *Action against companies—Coverages A and C.* No action shall lie against the companies or any of them unless, as a condition precedent thereto, the insured shall have fully complied with all the terms of this policy, nor until the amount of the insured's obligation to pay shall have been finally determined either by judgment against the insured after actual trial or by written agreement of the insured, the claimant and the companies.
 
 Any person or organization or the legal representative thereof who has secured such judgment or written agreement shall thereafter be entitled to recover under this policy to the extent of the insurance afforded by this policy. No person or organization shall have any right under this policy to join the companies or any of them as parties to any action against the insured to determine the insured's liability, nor shall the companies or any of them be impleaded by the insured or his legal representative. Bankruptcy or insolvency of the insured or of the insured's estate shall not relieve the companies of any of their obligations hereunder.
 
-8. *Action against companies - Coverage B.* No suit or action on this policy for the recovery of any claim for property damage to which Coverage B applies shall be sustainable in any court of law or equity unless all the requirements of this policy shall have been complied with and unless commenced within two years after the occurrence resulting in such property damage.
+8. *Action against companies—Coverage B.* No suit or action on this policy for the recovery of any claim for property damage to which Coverage B applies shall be sustainable in any court of law or equity unless all the requirements of this policy shall have been complied with and unless commenced within two years after the occurrence resulting in such property damage.
 
-9. *Insured's duties when loss occurs - Coverage B.* In the event of property damage to which Coverage B applies, the insured shall furnish a complete inventory of the property damage claimed, showing in detail the amount thereof. Within ninety-one days after the occurrence resulting in such property damage, unless such time is extended in writing by the companies, the insured shall render to the companies a proof of loss, signed and sworn to by the insured, stating the knowledge and belief of the insured as to the following: identification of such occurrence; the interest of the insured in the property destroyed or damaged, and the amount of each item of property damage claimed; all encumbrances on such property; and all other contracts of insurance, whether valid or not, covering any of such property. The insured shall include in the proof of loss a copy of all descriptions and schedules in all policies. Upon the companies' request, the insured shall furnish verified plans and specifications of any such property. The insured, as often as may be reasonably required, shall exhibit to any person designated by the companies any of such property, and submit to examinations under oath by any person named by the companies and subscribe the same; and, as often as may be reasonably required, shall produce for examination all books of account, records, bills, invoices and other vouchers, or certified copies thereof if originals be lost, at such reasonable time and place as may be designated by the companies or their representatives, and shall permit extracts and copies thereof to be made.
+9. *Insured's duties when loss occurs—Coverage B.* In the event of property damage to which Coverage B applies, the insured shall furnish a complete inventory of the property damage claimed, showing in detail the amount thereof. Within ninety-one days after the occurrence resulting in such property damage, unless such time is extended in writing by the companies, the insured shall render to the companies a proof of loss, signed and sworn to by the insured, stating the knowledge and belief of the insured as to the following: identification of such occurrence; the interest of the insured in the property destroyed or damaged, and the amount of each item of property damage claimed; all encumbrances on such property; and all other contracts of insurance, whether valid or not, covering any of such property. The insured shall include in the proof of loss a copy of all descriptions and schedules in all policies. Upon the companies' request, the insured shall furnish verified plans and specifications of any such property. The insured, as often as may be reasonably required, shall exhibit to any person designated by the companies any of such property, and submit to examinations under oath by any person named by the companies and subscribe the same; and, as often as may be reasonably required, shall produce for examination all books of account, records, bills, invoices and other vouchers, or certified copies thereof if originals be lost, at such reasonable time and place as may be designated by the companies or their representatives, and shall permit extracts and copies thereof to be made.
 
-10. *Appraisal - Coverage B.* In case the insured and the companies shall fail to agree as to the amount of property damage, then, on the written demand of either, each shall select a competent and disinterested appraiser and notify the other of the appraiser selected within twenty days of such demand. The appraisers shall first select a competent and disinterested umpire and, failing for fifteen days to agree upon such umpire, then, on request of the insured or the companies, such umpire shall be selected by a judge of a court of record in the state in which the property is located. The appraisers shall then appraise each item of property damage and, failing to agree, shall submit their differences only to the umpire. An award in writing, so itemized, of any two when filed with the companies shall determine the amount of property damage. Each appraiser shall be paid by the party selecting him and the expenses of the appraisal and umpire shall be paid by the parties equally. The companies shall not be held to have waived any of their rights by any act relating to appraisal.
+10. *Appraisal—Coverage B.* In case the insured and the companies shall fail to agree as to the amount of property damage, then, on the written demand of either, each shall select a competent and disinterested appraiser and notify the other of the appraiser selected within twenty days of such demand. The appraisers shall first select a competent and disinterested umpire and, failing for fifteen days to agree upon such umpire, then, on request of the insured or the companies, such umpire shall be selected by a judge of a court of record in the state in which the property is located. The appraisers shall then appraise each item of property damage and, failing to agree, shall submit their differences only to the umpire. An award in writing, so itemized, of any two when filed with the companies shall determine the amount of property damage. Each appraiser shall be paid by the party selecting him and the expenses of the appraisal and umpire shall be paid by the parties equally. The companies shall not be held to have waived any of their rights by any act relating to appraisal.
 
 11. *Subrogation.* In the event of any payment under this policy, the companies shall be subrogated to all the insured's rights of recovery therefor against any person or organization, and the insured shall execute and deliver instruments and papers and do whatever else is necessary to secure such rights. Prior to knowledge of bodily injury or property damage caused by the nuclear energy hazard the insured may waive in writing any right or recovery against any person or organization, but after such knowledge the insured shall not waive or otherwise prejudice any such right of recovery.
 
@@ -184,11 +184,11 @@ The companies hereby waive any rights of subrogation acquired against the United
 
 The companies do not relinquish, by the foregoing provisions, any right to restitution from the insured out of any recoveries made by the insured on account of a loss covered by this policy of any amounts to which the companies would be entitled had such provisions, or any of them, not been included in this policy.
 
-12. *Other insurance.* If the insurance afforded by this policy for loss or expense is concurrent with insurance afforded for such loss or expense by a Nuclear Energy Liability Policy (Facility Form) issued to the named insured by \_\_\_\_\_ hereinafter called “concurrent insurance,” the companies shall not be liable under this policy for a greater proportion of such loss or expense than the limit of liability stated in the declarations of this policy bears to the sum of such limit and the limit of liability stated in the declarations of such concurrent policy.
+12. *Other insurance.* If the insurance afforded by this policy for loss or expense is concurrent with insurance afforded for such loss or expense by a Nuclear Energy Liability Policy (Facility Form) issued to the named insured by \_\_\_\_\_\_\_\_\_\_ hereinafter called “concurrent insurance,” the companies shall not be liable under this policy for a greater proportion of such loss or expense than the limit of liability stated in the declarations of this policy bears to the sum of such limit and the limit of liability stated in the declarations of such concurrent policy.
 
-If the insured has other valid and collectible insurance (other than such concurrent insurance or any other nuclear energy liability insurance issued by the companies or \_\_\_\_\_ to any person or organization) applicable to loss or expense covered by this policy, the insurance afforded by this policy shall be excess insurance over such other insurance; provided, with respect to any person who is not employed at and in connection with the facility, such insurance as is afforded by this policy for bodily injury to an employee of the insured arising out of and in the course of his employment shall be primary insurance under such other insurance.
+If the insured has other valid and collectible insurance (other than such concurrent insurance or any other nuclear energy liability insurance issued by the companies or \_\_\_\_\_\_\_\_\_\_ to any person or organization) applicable to loss or expense covered by this policy, the insurance afforded by this policy shall be excess insurance over such other insurance; provided, with respect to any person who is not employed at and in connection with the facility, such insurance as is afforded by this policy for bodily injury to an employee of the insured arising out of and in the course of his employment shall be primary insurance under such other insurance.
 
-13. *Changes.* Notice to any agent or knowledge possessed by any agent or by any other person shall not effect a waiver or a change in any part of this policy or stop the companies from asserting any right under the terms of this policy; nor shall the terms of this policy be waived or changed except by endorsement issued to form a part of this policy executed by \_\_\_\_\_ on behalf of the companies.
+13. *Changes.* Notice to any agent or knowledge possessed by any agent or by any other person shall not effect a waiver or a change in any part of this policy or stop the companies from asserting any right under the terms of this policy; nor shall the terms of this policy be waived or changed except by endorsement issued to form a part of this policy executed by \_\_\_\_\_\_\_\_\_\_ on behalf of the companies.
 
 14. *Assignment.* Assignment of interest by the named insured shall not bind the companies until their consent is endorsed hereon; if, however, the named insured shall die or be declared bankrupt or insolvent, this policy shall cover such insured's legal representative, receiver or trustee as an insured under this policy, but only with respect to his liability as such, and then only provided written notice of his appointment as legal representative, receiver or trustee is given to the companies within ten days after such appointment.
 
@@ -208,13 +208,13 @@ Premium adjustment, if any, may be made either at the time cancellation is effec
 
 (b) In any action or suit against the companies, service of process may be made on any one of them, and such service shall be deemed valid and binding service on all companies.
 
-(c) \_\_\_\_\_ is the agent of the companies with respect to all matters pertaining to this insurance. All notices or other communications required by this policy to be given to the companies may be given to such agent, at its office at \_\_\_\_\_ with the same force and effect as if given directly to the companies. Any requests, demands or agreements made by such agent shall be deemed to have been made directly by the companies.
+(c) \_\_\_\_\_\_\_\_\_\_ is the agent of the companies with respect to all matters pertaining to this insurance. All notices or other communications required by this policy to be given to the companies may be given to such agent, at its office at \_\_\_\_\_\_\_\_\_\_ with the same force and effect as if given directly to the companies. Any requests, demands or agreements made by such agent shall be deemed to have been made directly by the companies.
 
 17. *Authorization of named insured.* Except with respect to compliance with the obligations imposed on the insured by Conditions 5, 6, 7, 8, 9, 10 and 11 of this policy, the named insured is authorized to act for every other insured in all matters pertaining to this insurance.
 
-18. *Changes in subscribing companies and in their proportionate liability.* By acceptance of this policy the named insured agrees that the members of \_\_\_\_\_ liable under this policy, and the proportionate liability of each such member, may change from year to year, and further agrees that regardless of such changes:
+18. *Changes in subscribing companies and in their proportionate liability.* By acceptance of this policy the named insured agrees that the members of \_\_\_\_\_\_\_\_\_\_ liable under this policy, and the proportionate liability of each such member, may change from year to year, and further agrees that regardless of such changes:
 
-(1) Each company subscribing this policy upon its issuance shall be liable only for its stated proportion of any obligation assumed or expense incurred under this policy because of bodily injury or property damage caused, during the period from the effective date of this policy to the close of December 31 next following, by the nuclear energy hazard; for each subsequent calendar year, beginning January 1 next following the effective date of this policy, the subscribing companies and the proportionate liability of each such company shall be stated in an endorsement issued to form a part of this policy, duly executed and attested by the \_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_\_ on behalf of each such company, and mailed or delivered to the named insured;
+(1) Each company subscribing this policy upon its issuance shall be liable only for its stated proportion of any obligation assumed or expense incurred under this policy because of bodily injury or property damage caused, during the period from the effective date of this policy to the close of December 31 next following, by the nuclear energy hazard; for each subsequent calendar year, beginning January 1 next following the effective date of this policy, the subscribing companies and the proportionate liability of each such company shall be stated in an endorsement issued to form a part of this policy, duly executed and attested by the \_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ on behalf of each such company, and mailed or delivered to the named insured;
 
 (2) This policy shall remain continuously in effect from the effective date stated in the declarations until terminated in accordance with Condition 3 or Condition 15;
 
@@ -222,55 +222,55 @@ Premium adjustment, if any, may be made either at the time cancellation is effec
 
 19. *Declarations.* By acceptance of this policy the named insured agrees that the statements in the declarations are the agreements and representations of the named insured, that this policy is issued in reliance upon the truth of such representations and that this policy embodies all agreements between the named insured and the companies or any of their agents relating to this insurance.
 
-In Witness Whereof, each of the subscribing companies has caused this policy to be executed and attested on its behalf by the \_\_\_\_ of \_\_\_\_\_\_\_\_\_\_ and duly countersigned on the declarations page by an authorized representative.
+In Witness Whereof, each of the subscribing companies has caused this policy to be executed and attested on its behalf by the \_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and duly countersigned on the declarations page by an authorized representative.
 
 For the subscribing companies.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_Subscribing Companies Proportion of 100%Nuclear Energy Liability Policy No.\_\_\_\_ (Facility Form)Declarations
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Subscribing Companies Proportion of 100%Nuclear Energy Liability Policy No.\_\_\_\_\_\_\_\_ (Facility Form)Declarations
 
-Item 1. Named Insured \_\_\_\_\_\_\_\_.
+Item 1. Named Insured \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.(No. Street Town or City State)
+Address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.(No. Street Town or City State)
 
-Item 2. Policy Period: Beginning at 12:01 a.m. on the \_\_\_\_\_ day of \_\_\_\_\_\_\_, 19\_\_, and continuing through the effective date of the cancellation or termination of this policy, standard time at the address of the named insured as stated herein.
+Item 2. Policy Period: Beginning at 12:01 a.m. on the \_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_, and continuing through the effective date of the cancellation or termination of this policy, standard time at the address of the named insured as stated herein.
 
 Item 3. Description of the Facility:
 
 LocationType
 
-The Operator of the facility is \_\_\_\_.
+The Operator of the facility is \_\_\_\_\_\_\_\_.
 
-Item 4. The limit of the companies' liability is $\_\_\_ subject to all the terms of this policy having reference thereto.
+Item 4. The limit of the companies' liability is $\_\_\_\_\_\_ subject to all the terms of this policy having reference thereto.
 
-Item 5. Advance Premium $\_\_\_.
+Item 5. Advance Premium $\_\_\_\_\_\_.
 
-Item 6. These declarations and the schedules forming a part hereof give a complete description of the facility, insofar as it relates to the nuclear energy hazard, except as noted \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Item 6. These declarations and the schedules forming a part hereof give a complete description of the facility, insofar as it relates to the nuclear energy hazard, except as noted \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date of Issue \_\_\_\_\_\_, 19\_\_.
+Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_(Authorized representative)Nuclear Energy Liability Policy(Facility Form)Amendment of Transportation Coverage (Indemnified Nuclear Facility)
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Authorized representative)Nuclear Energy Liability Policy(Facility Form)Amendment of Transportation Coverage (Indemnified Nuclear Facility)
 
 It is agreed that the definition of *insured shipment* in Insuring Agreement III is amended to read: *insured shipment* means a shipment of source material, special nuclear material, spent fuel or waste, herein called *material,* (1) to the facility from any location except an indemnified nuclear facility, but only if the transportation of the material is not by predetermination to be interrupted by removal of the material from a transporting conveyance for any purpose other than the continuation of its transportation, or (2) from the facility to any other location, but only until the material is removed from a transporting conveyance for any purpose other than the continuation of its transportation.
 
-Effective date of this endorsement \_\_\_ to form a part of Policy No. \_\_\_.
+Effective date of this endorsement \_\_\_\_\_\_ to form a part of Policy No. \_\_\_\_\_\_.
 
-Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_\_.Optional Amendatory Endorsement(Facility Form)
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.Optional Amendatory Endorsement(Facility Form)
 
 It is agreed that:
 
 I. The first sentence of the definition of nuclear facility is amended to read:
 
-*nuclear facility* means *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_\_ or by \_\_\_\_\_\_\_\_.
+*nuclear facility* means *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_\_\_\_\_\_\_ or by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 II. The definition of *indemnified nuclear facility* is replaced by the following:
 
 *indemnified nuclear facility* means
 
-(1) *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_ or by \_\_\_\_ or
+(1) *the facility* as defined in any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_\_\_\_\_ or by \_\_\_\_\_\_\_\_ or
 
 (2) any other nuclear facility,
 
@@ -280,13 +280,13 @@ III. Condition 4 is replaced by the following:
 
 Limitation of liability; common occurrence. Any occurrence or series of occurrences resulting in bodily injury or property damage arising out of the radioactive, toxic, explosive, or other hazardous properties of
 
-(a) nuclear material discharged or dispersed from the facility over a period of days, weeks, months or longer and also arising out of such properties of other nuclear material so discharged or dispersed from one or more other nuclear facilities insured under any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_\_\_ or,
+(a) nuclear material discharged or dispersed from the facility over a period of days, weeks, months or longer and also arising out of such properties of other nuclear material so discharged or dispersed from one or more other nuclear facilities insured under any Nuclear Energy Liability Policy (Facility Form) issued by \_\_\_\_\_\_\_\_\_\_\_\_ or,
 
-(b) source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under this policy and also arising out of such properties of other source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under one or more other Nuclear Energy Liability Policies (Facility Form) issued by \_\_\_\_\_\_\_\_.
+(b) source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under this policy and also arising out of such properties of other source material, special nuclear material, spent fuel or waste in the course of transportation for which insurance is afforded under one or more other Nuclear Energy Liability Policies (Facility Form) issued by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 shall be deemed to be a common occurrence resulting in bodily injury or property damage caused by the nuclear energy hazard.
 
-With respect to such bodily injury and property damage (1) the total aggregate liability of the members of \_\_\_\_, under all Nuclear Energy Liability Policies (Facility Form), including this policy, applicable to such common occurrence shall be the sum of the limits of liability of all such policies, the limit of liability of each such policy being as determined by Condition 3 thereof, but in no event shall such total aggregate liability of such members exceed $\_\_\_\_;1/\> (2) the total liability of the companies under this policy shall not exceed that proportion of the total aggregate liability of the members of \_\_\_\_, as stated in clause (1) above, which (a) the limit of liability of this policy, as determined by Condition 3, bears to (b) the sum of the limits of liability of all such policies issued by such members the limit of liability of each such policy being as determined by Condition 3 thereof.
+With respect to such bodily injury and property damage (1) the total aggregate liability of the members of \_\_\_\_\_\_\_\_, under all Nuclear Energy Liability Policies (Facility Form), including this policy, applicable to such common occurrence shall be the sum of the limits of liability of all such policies, the limit of liability of each such policy being as determined by Condition 3 thereof, but in no event shall such total aggregate liability of such members exceed $\_\_\_\_\_\_\_\_;1 (2) the total liability of the companies under this policy shall not exceed that proportion of the total aggregate liability of the members of \_\_\_\_\_\_\_\_, as stated in clause (1) above, which (a) the limit of liability of this policy, as determined by Condition 3, bears to (b) the sum of the limits of liability of all such policies issued by such members the limit of liability of each such policy being as determined by Condition 3 thereof.
 
 1 For policies issued by Nuclear Energy Liability-Property Insurance Association the amount will be “$124,000,000,” for policies issued by Mutual Atomic Energy Liability Underwriters, the amount will be “$36,000,000.”
 
@@ -294,13 +294,13 @@ The provisions of this condition shall not operate to increase the limit of the 
 
 IV. The second paragraph of Condition 12 *Other Insurance* is amended to read:
 
-*If the insured has other valid and collectible insurance (other than such concurrent insurance or any other nuclear energy liability insurance issued by \_\_\_\_ or to any person or organization) applicable to loss or expense covered by this policy the insurance afforded by this policy shall be excess insurance over such other insurance; provided, with respect to any person who is not employed at and in connection with the facility, such insurance as is afforded by this policy for bodily injury to an employee of the insured arising out of and in the course of his employment shall be primary insurance under such other insurance.*
+*If the insured has other valid and collectible insurance (other than such concurrent insurance or any other nuclear energy liability insurance issued by \_\_\_\_\_\_\_\_ or to any person or organization) applicable to loss or expense covered by this policy the insurance afforded by this policy shall be excess insurance over such other insurance; provided, with respect to any person who is not employed at and in connection with the facility, such insurance as is afforded by this policy for bodily injury to an employee of the insured arising out of and in the course of his employment shall be primary insurance under such other insurance.*
 
 Nuclear Energy Liability Policy(Facility Form)Restoration of Limit of Liability Endorsement
 
 It is agreed that:
 
-1. Payments made by the companies under this policy have reduced the limit of the companies' liability, stated in Item 4 of the declarations, to $\_\_\_\_.
+1. Payments made by the companies under this policy have reduced the limit of the companies' liability, stated in Item 4 of the declarations, to $\_\_\_\_\_\_\_\_.
 
 2. Such reduced limit is restored to the amount stated in Item 4 of the declarations. Such restored limit applies to obligations assumed or expenses incurred because of bodily injury or property damage caused during the period from the effective date of this endorsement to the termination of the policy, by the nuclear energy hazard.
 
@@ -312,31 +312,31 @@ When the reduction of the limit of liability results from a clearly identifiable
 
 3. The reduced limit of liability stated in paragraph 1 above, and the limit of liability stated in Item 4 of the declarations, as restored by this endorsement, shall not be cumulative; and each payment made by the companies after the effective date of this endorsement for any loss or expense covered by the policy shall reduce by the amount of such payment both the reduced limit of liability stated in paragraph 1 above and the limit of liability stated in Item 4 of the declarations, as restored by this endorsement, regardless of which limit of liability applies with respect to bodily injury or property damage out of which such loss or expense arises.
 
-Effective date of this endorsement \_\_\_to form a part of Policy No. \_\_\_\_
+Effective date of this endorsement \_\_\_\_\_\_to form a part of Policy No. \_\_\_\_\_\_\_\_
 
-Issued to \_\_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_.
 
-Date of Issue \_\_\_\_\_\_.
+Date of Issue \_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies
 
-By \_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_.Nuclear Energy Liability Policy(Facility Form)Amendatory Endorsement
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_.Nuclear Energy Liability Policy(Facility Form)Amendatory Endorsement
 
-This policy does not apply to bodily injury or property damage with respect to which the insured is entitled to indemnity from the United States Nuclear Regulatory Commission under the provisions of Indemnity Agreement No. \_\_\_ between the United States Nuclear Regulatory Commission and \_\_\_\_\_, dated \_\_\_\_\_, as now in effect or as hereafter amended.
+This policy does not apply to bodily injury or property damage with respect to which the insured is entitled to indemnity from the United States Nuclear Regulatory Commission under the provisions of Indemnity Agreement No. \_\_\_\_\_\_ between the United States Nuclear Regulatory Commission and \_\_\_\_\_\_\_\_\_\_, dated \_\_\_\_\_\_\_\_\_\_, as now in effect or as hereafter amended.
 
 Effective date of this endorsement to form a part of Policy No.
 
-Issued to \_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_.
 
-Date of issue \_\_\_\_\_.
+Date of issue \_\_\_\_\_\_\_\_\_\_.
 
-For the subscribing companies \_\_\_\_
+For the subscribing companies \_\_\_\_\_\_\_\_
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_.Nuclear Energy Liability Policy(Facility Form)Waiver of Defenses Endorsement(Extraordinary Nuclear Occurrence)
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Endorsement No. \_\_\_\_\_\_.Nuclear Energy Liability Policy(Facility Form)Waiver of Defenses Endorsement(Extraordinary Nuclear Occurrence)
 
-The named insured, acting for himself and every other insured under the policy, and the members of \_\_\_\_\_\_\_\_\_\_\_\_ agree as follows:
+The named insured, acting for himself and every other insured under the policy, and the members of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ agree as follows:
 
-1. With respect to any extraordinary nuclear occurrence to which the policy applies as proof of financial protection and which -
+1. With respect to any extraordinary nuclear occurrence to which the policy applies as proof of financial protection and which—
 
 (a) Arises out of or results from or occurs in the course of the construction, possession, or operation of the facility, or
 
@@ -368,7 +368,7 @@ The waiver of any such issue or defense shall be effective regardless of whether
 
 3. The waivers set forth in paragraph 1 above shall be effective only with respect to bodily injury or property damage to which the policy applies under its terms other than this endorsement.
 
-Such waivers shall not apply to, or prejudice the prosecution or defense of any claim or portion of claim which is not within the protection afforded under -
+Such waivers shall not apply to, or prejudice the prosecution or defense of any claim or portion of claim which is not within the protection afforded under—
 
 (1) The provisions of the policy applicable to the financial protection required of the named insured,
 
@@ -446,23 +446,23 @@ Such waivers shall not preclude a defense based upon the failure of the claimant
 
 *Claimant* means the person or organization actually sustaining the bodily injury or property damage and also includes his assignees, legal representatives and other persons or organizations entitled to bring an action for damages on account of such injury or damage.
 
-Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_\_\_ to form a part of Policy No. \_\_\_\_\_\_\_,
+Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to form a part of Policy No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
  12:01 A.M. Standard Time
 
-Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Date of issue \_\_\_\_\_\_\_.
+Date of issue \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Endorsement No. \_\_\_\_\_\_\_.
+Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
-By \_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
 General Manager
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 Supplementary Endorsement Waiver of DefensesReactor Construction at the Facility
 
@@ -474,23 +474,23 @@ It is agreed that in construing the application of paragraph 2.(b) of the Waiver
 
 (3) The claimant is not employed in connection with the possession, storage, use or transfer of nuclear material at the facility.
 
-Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_\_\_ to form a part of Policy No. \_\_\_\_\_\_\_.
+Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to form a part of Policy No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
  12:01 A.M. Standard Time
 
-Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Date of issue \_\_\_\_\_\_\_.
+Date of issue \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Endorsement No \_\_\_\_\_\_\_.
+Endorsement No \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
-By \_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
 General Manager
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 Nuclear Energy Liability Policy(Facility Form)Amendment of Definition of *Nuclear Energy Hazard* (Indemnified Nuclear Facility)
 
@@ -504,25 +504,25 @@ It is agreed that: 1. Solely with respect to an *insured shipment* to which the 
 
 2. As used herein, *financial protection* has the meaning given it in the Atomic Energy Act of 1954, as amended.
 
-Instructions - This form is to be used to modify all Nuclear Energy Liability Facility Forms in force on January 1, 1977 which were issued to become effective prior to January 1, 1977 and which are offered by the named insured as proof of financial protection being maintained as required by the Atomic Energy Act of 1954, as amended.
+Instructions—This form is to be used to modify all Nuclear Energy Liability Facility Forms in force on January 1, 1977 which were issued to become effective prior to January 1, 1977 and which are offered by the named insured as proof of financial protection being maintained as required by the Atomic Energy Act of 1954, as amended.
 
-Effective date of this Endorsement \_\_\_\_\_\_\_\_\_\_\_\_ To form a part of Policy No. \_\_\_\_\_\_\_.
+Effective date of this Endorsement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ To form a part of Policy No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 12:01 A.M. Standard Time
 
-Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Date of issue \_\_\_\_\_\_\_.
+Date of issue \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Endorsement No. \_\_\_\_\_\_\_.
+Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
-By \_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
 General Manager
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 Nuclear Energy Liability Policy(Facility Form)Amendment of Definitions of *Nuclear Energy Hazard* and *Insured Shipment* (Indemnified Nuclear Facility)
 
@@ -542,25 +542,25 @@ B. The definition of *insured shipment* is replaced with the following:
 
 II. As used herein, *financial protection* has the meaning given it in the Atomic Energy Act of 1954, as amended.
 
-Instructions - This form is to be used to modify all Nuclear Energy Liability Facility Forms which are issued to become effective on or after January 1, 1977 and which are offered by the named insured as proof of financial protection being maintained as required by the Atomic Energy Act of 1954, as amended.
+Instructions—This form is to be used to modify all Nuclear Energy Liability Facility Forms which are issued to become effective on or after January 1, 1977 and which are offered by the named insured as proof of financial protection being maintained as required by the Atomic Energy Act of 1954, as amended.
 
-Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_ To form a part of Policy No. \_\_\_\_\_\_\_.
+Effective date of this endorsement \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ To form a part of Policy No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 12:01 A.M. standard time
 
-Issued to \_\_\_\_\_\_\_\_\_\_\_\_.
+Issued to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Date of issue \_\_\_\_\_\_\_.
+Date of issue \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-Endorsement No. \_\_\_\_\_\_\_.
+Endorsement No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 For the subscribing companies:
 
-By \_\_\_\_\_\_\_\_\_\_\_\_,
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
 
 General Manager.
 
-Countersigned by \_\_\_\_\_\_\_\_\_\_\_.
+Countersigned by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 NE-50 (1/1/80), Amendatory Endorsement(Indemnified Nuclear Facility)
 
@@ -622,15 +622,15 @@ VI. Paragraph (c) of Condition 16, *Company Representation,* is amended to read:
 
 (c) Nuclear Energy Liability Insurance Association is the agent of the companies with respect to all matters pertaining to this insurance. All notices or other communications required by this policy to be given to the companies may be given to such agent, at its office at the Exchange, Suite 245, 270 Farmington Avenue, Farmington, Connecticut 06032, with the same force and effect as if given directly to the companies. Any requests, demand or agreements made by such agent shall be deemed to have been made directly by the companies.
 
-Effective Date of this Endorsement \_\_\_\_ 12:01 a.m. Standard Time to form a part of policy No. \_\_\_.
+Effective Date of this Endorsement \_\_\_\_\_\_\_\_ 12:01 a.m. Standard Time to form a part of policy No. \_\_\_\_\_\_.
 
-Issued to \_\_\_\_ For the subscribing companies.
+Issued to \_\_\_\_\_\_\_\_ For the subscribing companies.
 
-Date of Issue \_\_\_\_.
+Date of Issue \_\_\_\_\_\_\_\_.
 
-By \_\_\_\_ General Manager.
+By \_\_\_\_\_\_\_\_ General Manager.
 
-Endorsement No.NE-50 (1/1/81)NE-51 (1/1/81) - Amendment of Definition of Condition 2 *Inspection; Suspension* and *Insured Shipment*(Indemnified Nuclear Facility)
+Endorsement No.NE-50 (1/1/81)NE-51 (1/1/81)—Amendment of Definition of Condition 2 *Inspection; Suspension* and *Insured Shipment*(Indemnified Nuclear Facility)
 
 It is agreed that:
 
@@ -642,13 +642,13 @@ Neither the right to make such inspections and examinations nor the making there
 
 (2) The definition of *insured shipment* in Insuring Agreement III, *Definitions,* is replaced by the following: *insured shipment* means a shipment of source material, special nuclear material, spent fuel, waste, or tailings or wastes produced by the extraction or concentration of uranium or thorium from any ore processed primarily for its source material content herein called *material,* (1) to the facility from any location except an indemnified nuclear facility, but only if the transportation of the material is not by predetermination to be interrupted by removal from a transporting conveyance for any purpose other than the continuation of its transportation, or (2) from the facility to any other location, but only until the material is removed from a transporting conveyance for any purpose other than the continuation of its transportation.
 
-Effective Date of this Endorsement \_\_\_\_ 12:01 a.m. Standard Time to form a part of Policy No. \_\_\_
+Effective Date of this Endorsement \_\_\_\_\_\_\_\_ 12:01 a.m. Standard Time to form a part of Policy No. \_\_\_\_\_\_
 
-Issued to \_\_\_\_ For the subscribing companies.
+Issued to \_\_\_\_\_\_\_\_ For the subscribing companies.
 
-Date of Issue \_\_\_\_.
+Date of Issue \_\_\_\_\_\_\_\_.
 
-By \_\_\_\_ General Manager.
+By \_\_\_\_\_\_\_\_ General Manager.
 
 Endorsement No.NE-51 (1/1/81)Amendment of Coverage Endorsement for Workers Claims(Facility Form)NE-64(1/1/88)Preamble
 
@@ -698,7 +698,7 @@ The Master Workers Policies will provide, under their separate terms and conditi
 
 It is understood and agreed that all of the provisions of this endorsement shall remain in full force and effect without regard to this section 5, and without regard to whether or not the Named Insureds become insureds under the Master Worker Policies, or whether or not NELIA or MAELU terminate such policies or withdraw or modify their offer to underwrite such policies.
 
-Executed for the companiesDateBy(Signature or Authorized Officer)(Print or Type Name and Title of Officer)Executed for the Named Insured(Named Insured - Type or Print)DateBy(Signature of Authorized Officer)(Print or Type Name and Title of Officer)Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy No.Issued toDate of IssueFor the subscribing companiesByGeneral ManagerEndorsement No.Countersigned byAMENDMENT OF COVERAGE ENDORSEMENT FOR WORKERS CLAIMS (Facility Form) NE-66(1/1/88)
+Executed for the companiesDateBy(Signature or Authorized Officer)(Print or Type Name and Title of Officer)Executed for the Named Insured(Named Insured—Type or Print)DateBy(Signature of Authorized Officer)(Print or Type Name and Title of Officer)Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy No.Issued toDate of IssueFor the subscribing companiesByGeneral ManagerEndorsement No.Countersigned byAMENDMENT OF COVERAGE ENDORSEMENT FOR WORKERS CLAIMS (Facility Form) NE-66(1/1/88)
 
 It is agreed that:
 
@@ -748,13 +748,13 @@ Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Poli
 
 The undersigned members of Nuclear Energy Liability Insurance Association, hereinafter called the *companies,* each itself severally and not jointly, and in the respective proportion hereinafter set forth, agree with the insureds named in Item 1 of the Declarations of each Certificate, hereinafter called the *Named Insureds,* in consideration of the payment of the premium, and subject to all of the provisions of the applicable Certificate and of this policy, as follows:
 
-I - Relation Between the Master Worker Policy and Certificates
+I—Relation Between the Master Worker Policy and Certificates
 
 No insurance is provided by this policy except through a Certificate issued to form a part hereof. The insurance then applies separately to the persons and organizations who are defined in Section IV as insureds under each such Certificate, except with respect to the Amount of Insurance Available.
 
 The Amount of Insurance Available through such a Certificate to any person or organization who is an insured thereunder is limited as provided in Section VIII of this policy.
 
-II - Definitions
+II—Definitions
 
 When used in reference to this policy:
 
@@ -866,7 +866,7 @@ All of a new worker's nuclear related employment shall be considered as having b
 
 (c) Handling, processing or packaging such waste material.
 
-III - Coverage
+III—Coverage
 
 In the event that a new worker's claim is made against a person or organization who is an insured under a Certificate issued to form a part of this policy:
 
@@ -878,7 +878,7 @@ The companies shall have the right and duty to defend any suit against the insur
 
 (3) The companies' obligation to pay damages and claims costs, and to defend any claim and suit ends when the Policy Aggregrate Limit has been exhausted pursuant to the provisions of Section VIII.
 
-IV - Definition of Insured
+IV—Definition of Insured
 
 When used in reference to a Certificate issued to form a part of this policy, the unqualified word *insured* means:
 
@@ -886,7 +886,7 @@ When used in reference to a Certificate issued to form a part of this policy, th
 
 (2) any other person or organization with respect to legal responsibility for damages because of bodily injury to a new worker caused by the nuclear energy hazard applicable to the Certificate. This subsection (2) does not include as an insured the United States of America or any of its agencies except the Tennessee Valley Authority.
 
-V - Exclusions
+V—Exclusions
 
 This policy does not apply:
 
@@ -902,7 +902,7 @@ This policy does not apply:
 
 (6) To bodily injury to a new worker arising in whole or in part out of an extraordinary nuclear occurrence.
 
-VI - Policy Period; Discovery Period; Application of PolicyA. Policy Period
+VI—Policy Period; Discovery Period; Application of PolicyA. Policy Period
 
 The policy period of this policy begins at 12:01 a.m. on January 1, 1988 and ends at the close of December 31, 1992, Eastern Standard Time, or when all Certificates issued to form a part hereof have been cancelled, whichever first occurs.
 
@@ -914,13 +914,13 @@ C. Application of Policy
 
 This policy applies only to bodily injury to a new worker (1) which is caused during the policy period by the nuclear energy hazard and (2) which is discovered and for which written claim is first made against the insured within the discovery period.
 
-VII - Other Insurance
+VII—Other Insurance
 
 A. This insurance is primary insurance under any insurance afforded by a Master Policy-Nuclear Energy Liability Insurance (Secondary Financial Protection) issued by NELIA or MAELU.
 
 B. If an insured has other valid and collectible insurance, except under a MAELU Policy, for loss or expense covered by this policy, this shall be excess insurance over such other insurance. If the insured has insurance under a MAELU Policy, whether the insurance is collectible or not, the companies shall then be liable under this policy only for such proportion of loss or expense as the amount stated as the Policy Aggregate Limit in Section VIII of this policy bears to the sum of such amount and the corresponding amount stated in the MAELU Policy.
 
-VIII - Amount of Insurance AvailableA. Policy Aggregate Limit
+VIII—Amount of Insurance AvailableA. Policy Aggregate Limit
 
 1. The Policy Aggregate Limit is $124 million. This limit is not cumulative from year to year. The limit applies to all new worker's claims that qualify for coverage under this policy (herein called *qualified claims*).
 
@@ -946,7 +946,7 @@ C. Reduction and Reinstatement of the Policy Aggregate Limit
 
 3. It is a condition of this insurance that the companies shall have the right to reimburse themselves, as a matter of first priority, from funds held by NELIA in the Special Reserve Account described in Attachment 1 to this policy or from retrospective premiums received by NELIA for this insurance. The amount of reimbursement shall be equal to 95% of each payment made by the companies with respect to their obligations under this policy.
 
-IX - Insured's Duties in Case of Claims or Suits
+IX—Insured's Duties in Case of Claims or Suits
 
 A. Notice of Claims or Suits
 
@@ -962,7 +962,7 @@ The insured shall cooperate with the companies and, upon their request, shall:
 
 The insured shall not, except at the insured's own cost, make any payment, assume any obligation or incur any expense.
 
-X - Subrogation
+X—Subrogation
 
 In the event of any payment through a Certificate to form a part of this policy, the companies shall be subrogated to all the insured's rights of recovery therefor against any person or organization, and the insured shall execute and deliver instruments and papers, and so whatever else is necessary to secure such rights. Prior to knowledge of bodily injury caused by the nuclear energy hazard the insured may waive in writing any or all right of recovery against any person or organization, but after such knowledge the insured shall not waive or otherwise prejudice any such right of recovery.
 
@@ -970,7 +970,7 @@ The companies hereby waive any right of subrogation against (1) any other insure
 
 It is a condition of this policy that if an insured makes a recovery on account of any such injury, the insured shall repay to the companies the amount to which the companies would have been entitled had the foregoing provisions, or any of them, not been included in the policy.
 
-XI - Inspection and Suspension
+XI—Inspection and Suspension
 
 The companies shall be permitted, but not obligated, to inspect at any time the facility as described in any Certificate and all books, records and operation relating thereto, both with respect to this insurance, and any other nuclear energy liability insurance and property insurance also afford with respect thereto by members of NELIA, American Nuclear Insurers, MAELU or MAERP Reinsurance Association.
 
@@ -980,7 +980,7 @@ Neither the right to make such inspections or suspensions nor the making thereof
 
 In consideration of the issuance or continuation of a Certificate, the Named Insureds agree that neither the companies nor any persons or organizations making such inspections on their behalf shall be liable for damage to the facility or any consequential damage or cost resulting therefrom, including but not limited to any such damage or cost relating to interruption of business or manufacture, arising out of the making of or failure to make any such inspection of the facility, any report thereon, or any such suspension of insurance, but this provision does not limit the companies' contractual obligations under a Certificate issued by NELIA or any policy issued by NELIA or American Nuclear Insurers affording the insured nuclear energy liability or property insurance.
 
-XII - Cancellation of Certificates
+XII—Cancellation of Certificates
 
 The first Named Insured designated in a Certificate issued to from a part of this policy any cancel such Certificate by mailing to the companies and the United States Nuclear Regulatory Commission written notice stating when, not less than 30 days thereafter, such cancellation shall be effective.
 
@@ -998,7 +998,7 @@ Premium adjustment, if any, may be made either at the time of cancellation or as
 
 Cancellation of a Certificate shall not affect the rights and obligations of the Named Insureds under the Insureds under the Industry Retrospective Rating Plan Premium Endorsement forming a part of the Certificate.
 
-XIII - General ConditionsA. Premium
+XIII—General ConditionsA. Premium
 
 The Named Insureds designated in a Certificate issued by NELIA shall pay the companies the premiums for the Certificate in accordance with the provisions of the *Industry Retrospective Rating Plan Premium Endorsement* described in Attachment 1 to this policy.
 
@@ -1044,17 +1044,17 @@ By acceptance of this Master Worker Policy, the Named Insureds designated in a C
 
 *In Witness Whereof,* the companies subscribing this policy have caused the policy to be executed and attested on their behalf by the President of Nuclear Energy Liability Insurance Association and duly countersigned by an authorized representative, but this policy shall be binding on each company only to the extent of its designated proportion of any obligation assumed or expense incurred under this policy.
 
-For the Subscribing Companies:Date of Issue: \_\_\_\_ 19\_\_Countersigned by: (Authorized Representative)NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability Policy(Facility Worker Form) herein called the Master Worker PolicyCertificate of Insurance, NMWPC-1(1/1/88)
+For the Subscribing Companies:Date of Issue: \_\_\_\_\_\_\_\_ 19\_\_\_\_Countersigned by: (Authorized Representative)NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability Policy(Facility Worker Form) herein called the Master Worker PolicyCertificate of Insurance, NMWPC-1(1/1/88)
 
-Certificate No. \_\_\_
+Certificate No. \_\_\_\_\_\_
 
 This is to certify that the insured named in Item 1 of the Declarations hereof, hereinafter called the *Named Insureds,* have obtained insurance under the Master Worker Policy issued by Nuclear Energy Liability Insurance Association on behalf of its members. The insurance is subject to all of the provisions of the *Certificate* and the Master Worker Policy.
 
-1 - DeclarationsItem 1. - Named Insureds and Addresses:Item 2. - Certificate Coverage Period:
+1—DeclarationsItem 1.—Named Insureds and Addresses:Item 2.—Certificate Coverage Period:
 
 Beginning at 12:01 a.m. January 1, 1988 and ending at the close of December 31, 1992, Eastern Standard Time, or at the time and date this Certificate is cancelled or terminated, whichever first occurs.
 
-Item 3. - Description of the Facility:
+Item 3.—Description of the Facility:
 
 *Location:*
 
@@ -1062,15 +1062,15 @@ Item 3. - Description of the Facility:
 
 *Operator of the Facility:*
 
-Item 4. - Amount of Insurance Available:
+Item 4.—Amount of Insurance Available:
 
 The amount of insurance afforded by the Master Worker Policy through this Certificate shall be determined by Section VIII of the Master Worker Policy and all of the other provisions of the policy relating thereto.
 
-Item 5. - Advance Premium: $2 - Application of Certificate
+Item 5.—Advance Premium: $2—Application of Certificate
 
 This Certificate applies only to bodily injury to a new worker (1) which is caused, during the Certificate Coverage Period, by the nuclear energy hazard and (2) which is discovered and for which written claim is first made against an insured under the Certificate within the discovery period of the Master Worker Policy.
 
-3 - Industry Retrospective Rating Plan
+3—Industry Retrospective Rating Plan
 
 All insurance under the Master Worker Policy is subject to the Industry Retrospective Rating Plan in use by the companies. No insurance is provided under this Certificate unless and until the first Named Insured has accepted in writing the Industry Retrospective Rating Plan Premium Endorsement and a copy of the signed endorsement has been issued by the companies to form a part of this Certificate.
 
@@ -1078,7 +1078,7 @@ All insurance under the Master Worker Policy is subject to the Industry Retrospe
 
 For the Subscribing Companies:
 
-Date of Issue \_\_\_\_\_ 19 \_\_\_
+Date of Issue \_\_\_\_\_\_\_\_\_\_ 19 \_\_\_\_\_\_
 
 Countersigned by:(Authorized Representative)NUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceIndustry Retrospective Rating Plan Premium Endorsement, NE-W-1(1/1/88)
 
@@ -1186,7 +1186,7 @@ Each member of NELIA subscribing the Master Worker Policy for any calendar year,
 
 Accepted and agreed by the first Named Insured in behalf of itself and every other Named Insured stated in the Declarations of the Certificate of which this endorsement forms a part.
 
-(First Named Insured - Type or PrintDateBy(Signature of Authorized Officer)(Type of Print Named and Title of Officer)Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy NoIssued toDate of Issue
+(First Named Insured—Type or PrintDateBy(Signature of Authorized Officer)(Type of Print Named and Title of Officer)Effective Date of this Endorsement12:01 a.m. Standard TimeTo form a part of Policy NoIssued toDate of Issue
 
 For the subscribing companies:
 
@@ -1214,7 +1214,7 @@ ByGeneral Manager
 
 Endorsement No:
 
-Countersigned byNUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceAdvance Premium and Standard Premium Endorsement, NE-W-3 (1/1/88)Calendar Year \_\_\_\_
+Countersigned byNUCLEAR ENERGY LIABILITY INSURANCE ASSOCIATIONNuclear Energy Liability InsuranceAdvance Premium and Standard Premium Endorsement, NE-W-3 (1/1/88)Calendar Year \_\_\_\_\_\_\_\_
 
 It is agreed that Items 1 and 2 of Endorsement No. are amended to read:
 

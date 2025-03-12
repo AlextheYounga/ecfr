@@ -42,13 +42,13 @@
 
 (vi) *Observations.* Removal of more than 0.005 microcurie of radioactivity in any test prescribed by this paragraph shall be cause for rejection of the source design. Results of prototype tests submitted to the Commission shall be given in terms of radioactivity in microcuries and percent of removal from the total amount of radioactive material deposited on the source.
 
-(b) Each person licensed under this section shall affix to each source, or storage container for the source, a label which shall contain sufficient information relative to safe use and storage of the source and shall include the following statement or a substantially similar statement which contains the information called for in the following statement.1/\>
+(b) Each person licensed under this section shall affix to each source, or storage container for the source, a label which shall contain sufficient information relative to safe use and storage of the source and shall include the following statement or a substantially similar statement which contains the information called for in the following statement.1
 
 1 Sources generally licensed under this section prior to January 19, 1975 may bear labels authorized by the regulations in effect on January 1, 1975.
 
-The receipt, possession, use and transfer of this source, Model \_\_\_, Serial No. \_\_\_, are subject to a general license and the regulations of the United States Nuclear Regulatory Commission or of a State with which the Commission has entered into an agreement for the exercise of regulatory authority. Do not remove this label.
+The receipt, possession, use and transfer of this source, Model \_\_\_\_\_\_, Serial No. \_\_\_\_\_\_, are subject to a general license and the regulations of the United States Nuclear Regulatory Commission or of a State with which the Commission has entered into an agreement for the exercise of regulatory authority. Do not remove this label.
 
- caution - radioactive material - this source contains plutonium. do not touch radioactive portion of this source.(Name of Manufacturer or Initial Transferor)
+ caution—radioactive material—this source contains plutonium. do not touch radioactive portion of this source.(Name of Manufacturer or Initial Transferor)
 
 (c) Each person licensed under this section shall perform a dry wipe test upon each source containing more than 0.1 microcurie of plutonium prior to transferring the source to a general licensee under § 70.19. This test shall be performed by wiping the entire radioactive surface of the source with a filter paper with the application of moderate finger pressure. The radioactivity on the paper shall be measured by using radiation detection instrumentation capable of detecting 0.005 microcurie of plutonium. If any such test discloses more than 0.005 microcurie of radioactive material, the source shall be deemed to be leaking or losing plutonium and shall not be transferred to a general licensee under § 70.19.
 
