@@ -1,5 +1,7 @@
 ##### § 203.16a Mortgagor and mortgagee requirement for maintaining flood insurance coverage. #####
 
+Link to an amendment published at 87 FR 70742, Nov. 21, 2022.
+
 (a) If the mortgage is to cover property improvements (dwelling and related structures/equipment essential to the value of the property and subject to flood damage) that:
 
 (1) Are located in an area designated by the Federal Emergency Management Agency (FEMA) as a floodplain area having special flood hazards, or

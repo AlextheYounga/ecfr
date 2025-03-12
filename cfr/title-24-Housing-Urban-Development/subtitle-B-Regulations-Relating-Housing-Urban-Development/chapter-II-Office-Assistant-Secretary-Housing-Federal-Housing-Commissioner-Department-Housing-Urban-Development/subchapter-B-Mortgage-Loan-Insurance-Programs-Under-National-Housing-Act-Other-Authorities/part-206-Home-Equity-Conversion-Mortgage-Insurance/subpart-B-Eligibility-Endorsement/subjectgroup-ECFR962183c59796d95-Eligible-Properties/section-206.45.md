@@ -1,5 +1,7 @@
 ##### § 206.45 Eligible properties. #####
 
+Link to an amendment published at 87 FR 70743, Nov. 21, 2022.
+
 (a) *Title.* A mortgage must be on real estate held in fee simple; or on a leasehold that is under a lease with a duration lasting until the later of: 99 years, if such lease is renewable; or the actuarial life expectancy of the mortgagor plus a number of years specified by the Commissioner, which shall not be more than 99 years. The mortgagee shall obtain a title insurance policy satisfactory to the Commissioner. If the Commissioner determines that title insurance for reverse mortgages is not available for reasonable rates in a state, then the Commissioner may specify other acceptable forms of title evidence in lieu of title insurance.
 
 (b) *Type of property.* The property shall include a dwelling designed principally as a residence for one family or such additional families as the Commissioner shall determine. A condominium unit designed for one-family occupancy shall also be an eligible property.

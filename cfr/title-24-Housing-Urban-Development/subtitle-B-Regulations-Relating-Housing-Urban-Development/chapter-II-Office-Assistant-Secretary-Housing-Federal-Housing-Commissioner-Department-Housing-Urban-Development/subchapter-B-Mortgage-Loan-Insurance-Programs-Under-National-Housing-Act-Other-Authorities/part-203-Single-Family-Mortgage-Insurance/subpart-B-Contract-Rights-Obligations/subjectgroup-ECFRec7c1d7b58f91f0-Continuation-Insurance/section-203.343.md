@@ -1,5 +1,7 @@
 ##### § 203.343 Partial release, addition or substitution of security. #####
 
+Link to an amendment published at 87 FR 70743, Nov. 21, 2022.
+
 (a) Except as provided in § 203.389(n), a mortgagee shall not release the security or any part thereof, while the mortgage is insured, without the prior consent of the Commissioner.
 
 (b) A mortgagee may, with the prior consent of the Commissioner, accept an addition to, or substitution of, security for the purpose of removing the dwelling to a new lot under the following conditions:

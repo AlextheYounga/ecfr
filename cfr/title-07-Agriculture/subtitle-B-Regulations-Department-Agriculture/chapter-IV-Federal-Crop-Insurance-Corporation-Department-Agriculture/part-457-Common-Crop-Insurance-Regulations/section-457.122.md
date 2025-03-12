@@ -8,7 +8,7 @@ Both FCIC and reinsured policies:
 
 Walnut Crop Provisions1. Definitions
 
-*Harvest.* Removal of the mature walnuts from the orchard.
+*Harvest.* Removal of mature walnuts from the orchard.
 
 *Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 

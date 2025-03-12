@@ -1,8 +1,6 @@
 ##### § 429.4 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 63891, Oct. 20, 2022.
-
-(a) General. We incorporate by reference the following standards into part 429. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved incorporation by reference (IBR) material is available for inspection at DOE and at the National Archives and Records Administration (NARA). Contact DOE at: U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, www.energy.gov/eere/buildings/building-technologies-office.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to:*www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
 
@@ -14,7 +12,9 @@ Link to an amendment published at 87 FR 63891, Oct. 20, 2022.
 
 (1) ANSI/AHRI Standard 340/360-2007, (“AHRI-340/360-2007”), 2007 Standard for Performance Rating of Commercial and Industrial Unitary Air-Conditioning and Heat Pump Equipment, with Addenda 1 and 2, ANSI approved October 27, 2011, IBR approved for § 429.43.
 
-(2) AHRI Standard 1500-2015, (“ANSI/AHRI Standard 1500-2015”), “2015 Standard for Performance Rating of Commercial Space Heating Boilers,” ANSI approved November 28, 2014: Figure C9, Suggested Piping Arrangement for Hot Water Boilers; IBR approved for § 429.60.
+(2) AHRI Standard 1230(I-P) (“AHRI 1230-2021”), *2021 Standard for Performance Rating of Variable Refrigerant Flow (VRF) Multi-Split Air-Conditioning and Heat Pump Equipment,* copyright 2021; IBR approved for §§ 429.43; 429.134.
+
+(3) AHRI Standard 1500-2015, (“ANSI/AHRI Standard 1500-2015”), “2015 Standard for Performance Rating of Commercial Space Heating Boilers,” ANSI approved November 28, 2014: Figure C9, Suggested Piping Arrangement for Hot Water Boilers; IBR approved for § 429.60.
 
 (d) *HI.* Hydraulic Institute, 6 Campus Drive, First Floor North, Parsippany, NJ 07054-4406, 973-267-9700. *www.Pumps.org*.
 
@@ -34,4 +34,4 @@ Link to an amendment published at 87 FR 63891, Oct. 20, 2022.
 
 (2) [Reserved]
 
-[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017]
+[76 FR 12451, Mar. 7, 2011, as amended at 77 FR 65977, Oct. 31, 2012; 80 FR 79668, Dec. 23, 2015; 81 FR 35264, June 1, 2016; 81 FR 89303, Dec. 9, 2016; 81 FR 90118, Dec. 13, 2016; 82 FR 36917, Aug. 7, 2017; 87 FR 63891, Oct. 20, 2022]

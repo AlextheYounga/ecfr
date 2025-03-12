@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 63895, Oct. 20, 2022.Link to an amendment published at 87 FR 65899, Nov. 1, 2022.Link to an amendment published at 87 FR 65667, Nov. 1, 2022.
+Link to an amendment published at 87 FR 65899, Nov. 1, 2022.Link to an amendment published at 87 FR 65667, Nov. 1, 2022.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -323,7 +323,7 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) If the certified seasonally adjusted cooling capacity is found to be invalid, the average measured seasonally adjusted cooling capacity will be used to determine the minimum allowed combined energy efficiency ratio for the basic model.
 
-(s) *Direct Expansion-Dedicated Outdoor Air Systems.* (1) If a basic model includes individual models with components listed at Table 1 of § 429.43(a)(3) and DOE is not able to obtain an individual model with the least number (which could be zero) of those components within an otherwise comparable model group (as defined in § 429.43(a)(3)(i)(A)(*1*)), DOE may test any individual model within the otherwise comparable model group.
+(s) *Direct Expansion-Dedicated Outdoor Air Systems.* (1) If a basic model includes individual models with components listed at table 1 to § 429.43(a)(3)(i)(A) and DOE is not able to obtain an individual model with the least number (which could be zero) of those components within an otherwise comparable model group (as defined in § 429.43(a)(3)(i)(A)(*1*)), DOE may test any individual model within the otherwise comparable model group.
 
 (2) [Reserved]
 
@@ -353,4 +353,44 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (u) *Battery chargers* - *verification of reported represented value obtained from testing in accordance with appendix Y1 of 10 CFR part 430 subpart B when using an external power supply.* If the battery charger basic model requires the use of an external power supply (“EPS”), and the manufacturer reported EPS is no longer available on the market, then DOE will test the battery charger with any compatible EPS that is minimally compliant with DOE's energy conservation standards for EPSs as prescribed in § 430.32(w) of this subchapter and that meets the battery charger input power criteria.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022]
+(v) *Variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h).* The following provisions apply for assessment and enforcement testing of models subject to standards in terms of IEER:
+
+(1) *Specific components.* For each indoor unit model identified in the tested combination for which the model number certified in the STI does not fully specify the presence or absence of components listed at table 2 to 10 CFR 429.43(a)(3)(ii)(B), the following provision applies. If DOE is not able to obtain an individual model with the least number of those components, then DOE may test a system that includes any individual indoor unit model that has a model number consistent with the certified indoor unit model number.
+
+(2) *Manufacturer involvement in assessment or enforcement testing.* A manufacturer's representative will be allowed to support commissioning and witness assessment and/or enforcement testing for variable refrigerant flow multi-split air conditioners and heat pumps, including during the controls verification procedures (CVPs) specified in paragraph (v)(3) of this section, with allowance for additional involvement as described in the following provisions.
+
+(i) *Manufacturer involvement in CVP.* Control settings must be set by a member of the third-party laboratory consistent with the provisions in section 5.1 of appendix D1 to subpart F of 10 CFR part 431. Critical parameters must operate automatically from the system controls and must not be manually controlled or adjusted at any point by any party during the CVP.
+
+(ii) *Manufacturer involvement in heating tests and IEER cooling tests.* All control settings other than critical parameters must be set by a member of the third-party laboratory consistent with the provisions of section 5.1 of appendix D1 to subpart F of 10 CFR part 431. In heating tests and IEER cooling tests, critical parameters may be manually controlled by a manufacturer's representative and initially set to their certified values as described in section 5.1 of appendix D1 to subpart F of 10 CFR part 431. During IEER cooling mode tests only, a manufacturer's representative may also make additional adjustments to the critical parameters as described in section 5.2 of appendix D1 to subpart F of 10 CFR part 431. Setting and adjustment of critical parameters by a manufacturer's representative must be monitored by third-party laboratory personnel using a service tool. Other than critical parameter adjustments made in accordance with section 5.3 of appendix D1 to subpart F of 10 CFR part 431, the manufacturer's representative must not make any other adjustments to the VRF multi-split system under test. If a manufacturer's representative is not present for testing, a member of the third-party laboratory must set and adjust critical parameters using the means of control provided by the manufacturer, as described in § 429.110(b)(1)(iv) for enforcement testing and § 429.104 for assessment testing.
+
+(3) *Controls Verification Procedure (CVP).* This procedure validates the certified values of critical parameters for which positions may be manually set during the full- and part-load IEER cooling test conditions specified at appendix D1 to subpart F of 10 CFR part 431. The CVP will only be conducted for a single system.
+
+(i) *Conducting the CVP* - The CVP will be conducted at all of the four IEER cooling test conditions as specified in appendix D1 to subpart F of 10 CFR part 431; the CVP is not conducted at any heating test conditions. The CVP will first be performed at the full-load cooling condition before being conducted at part-load cooling conditions and must be conducted per Appendix C of AHRI 1230-2021 (incorporated by reference, see § 429.4).
+
+(ii) *Validating critical parameters* - At each load point, certified critical parameter values will be validated or invalidated according to Section C6 of AHRI 1230-2021 with the following amendments:
+
+(A) The duration of the period used for validating certified critical parameter values must be whichever of the following is longer: three minutes, or the time period needed to obtain five sample readings while meeting the minimum data collection interval requirements of Table C2 of AHRI 1230-2021.
+
+(B) If at least one measurement period with duration identified in paragraph (v)(3)(ii)(A) of this section exists before tOFF that has an average root-sum-square (“RSS”) points total (as defined in Section 3.27 of AHRI 1230-2021) over the measurement period that is less than or equal to 70 points, the certified critical parameter values are valid.
+
+(C) If no measurement period with duration identified in paragraph (v)(3)(ii)(A) of this section exists before tOFF that has an average RSS points total over the measurement period that is less than or equal to 70 points, the certified critical parameter values are invalid.
+
+(iii) *Determining critical parameters for use in steady-state IEER cooling tests.* If, following a CVP, IEER testing is conducted per appendix D1 to subpart F of 10 CFR part 431, the following provisions apply:
+
+(A) *Validated critical parameter settings.* At each load point, if certified critical parameter values are found to be valid according to the results of the CVP, initially set critical parameters to their certified values for the IEER test at the corresponding full- or part-load cooling condition. Perform additional adjustments to critical parameters as described in section 5.2 of appendix D1 to subpart F of 10 CFR part 431.
+
+(B) *Invalidated critical parameter settings.* At each load point, if certified critical parameter values identified pursuant to paragraph (v)(3) of this section are found to be invalid according to the results of the CVP, determine alternate critical parameter values for use in the corresponding IEER test (as specified in appendix D1 to subpart F of 10 CFR part 431) as follows:
+
+(*1*) Select the CVP measurement period - this period must have duration determined per paragraph (v)(3)(ii)(A) of this section and must be the period where the RSS points total has a lower average value over the measurement period than over any other time period in the CVP of the same duration. If multiple periods exist with the same RSS points total, select the measurement period closest to but before the time that the first indoor unit switches to thermally inactive (denoted as “toff” in AHRI 1230-2021).
+
+(*2*) Determine alternate critical parameters - calculate the average position for each critical parameter during the measurement period selected in paragraph (v)(3)(iii)(B)(*1*) of this section. When initially setting critical parameters per section 5.1 of appendix D1 to subpart F of 10 CFR part 431, instead of using the certified critical parameter values, use the alternate critical parameter values as control inputs. The same initial alternate critical parameter values must be used for all systems in the assessment/enforcement sample (though critical parameter adjustments as needed to achieve target capacity or sensible heat ratio (SHR) limits are made independently for each tested system, per paragraph (v)(3)(iii)(B)(*3)* of this section.
+
+(*3*) For each system, determine whether critical parameter adjustments are needed to achieve the target capacity or SHR limit for an IEER cooling test. Perform critical parameter adjustments independently on each system as described in section 5.2 of appendix D1 to subpart F of 10 CFR part 431, with the following exceptions:
+
+(*i*) Replace all references to “certified critical parameter values” with “alternate critical parameter values” as determined in paragraph (v)(3)(iii)(B) of this section.
+
+(*ii*) Determine *CP*Max from a CVP conducted at full-load cooling conditions as the maximum value observed during the R2 period as described in Section C.4.4.2.3 of AHRI 1230-2021. If multiple components corresponding to a single parameter are present, determine *CP*Max at the point during the R2 period at which the average value across all components corresponding to that critical parameter is maximized.
+
+(4) *Break-in period.* DOE will perform a compressor break-in period during assessment or enforcement testing using a duration specified by the manufacturer only if a break-in period duration is provided in the supplemental testing instructions.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022]

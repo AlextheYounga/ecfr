@@ -1,6 +1,6 @@
 ##### § 1308.11 Schedule I. #####
 
-Link to an amendment published at 87 FR 68898, Nov. 17, 2022.
+Link to an amendment published at 87 FR 68898, Nov. 17, 2022.Link to an amendment published at 87 FR 70721, Nov. 21, 2022.
 
 (a) Schedule I shall consist of the drugs and other substances, by whatever official name, common or usual name, chemical name, or brand name designated, listed in this section. Each drug or substance has been assigned the DEA Controlled Substances Code Number set forth opposite it.
 

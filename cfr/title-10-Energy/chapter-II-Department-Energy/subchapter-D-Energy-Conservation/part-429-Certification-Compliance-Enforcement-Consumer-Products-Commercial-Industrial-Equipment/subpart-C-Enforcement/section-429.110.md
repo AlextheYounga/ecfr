@@ -1,12 +1,12 @@
 ##### § 429.110 Enforcement testing. #####
 
-Link to an amendment published at 87 FR 63895, Oct. 20, 2022.
-
 (a) *General provisions.* (1) If DOE has reason to believe that a basic model is not in compliance it may test for enforcement.
 
-(2) DOE will select and test units pursuant to paragraphs (c) and (e) of this section.
+(2) For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 Btu/h), when determining compliance with an energy conservation standard based on IEER, DOE may test for enforcement if DOE has reason to believe that a basic model is not in compliance, has invalid certified operational settings for critical parameter values, or has an otherwise invalid certified rating.
 
-(3) Testing will be conducted at a laboratory accredited to the International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), “General requirements for the competence of testing and calibration laboratories,” ISO/IEC 17025:2005(E) (incorporated by reference; see § 429.4). If testing cannot be completed at an independent laboratory, DOE, at its discretion, may allow enforcement testing at a manufacturer's laboratory, so long as the lab is accredited to ISO/IEC 17025:2005(E) and DOE representatives witness the testing. In addition, for commercial packaged boilers with rated input greater than 5,000,000 Btu/h, DOE, at its discretion, may allow enforcement testing of a commissioned commercial packaged boiler in the location in which it was commissioned for use, pursuant to the test provisions at § 431.86(c) of this chapter, for which accreditation to ISO/IEC 17025:2005(E) would not be required.
+(3) DOE will select and test units pursuant to paragraphs (c) and (e) of this section.
+
+(4) Testing will be conducted at a laboratory accredited to the International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), “General requirements for the competence of testing and calibration laboratories,” ISO/IEC 17025:2005(E) (incorporated by reference; see § 429.4). If testing cannot be completed at an independent laboratory, DOE, at its discretion, may allow enforcement testing at a manufacturer's laboratory, so long as the lab is accredited to ISO/IEC 17025:2005(E) and DOE representatives witness the testing. In addition, for commercial packaged boilers with rated input greater than 5,000,000 Btu/h, DOE, at its discretion, may allow enforcement testing of a commissioned commercial packaged boiler in the location in which it was commissioned for use, pursuant to the test provisions at § 431.86(c) of this chapter, for which accreditation to ISO/IEC 17025:2005(E) would not be required.
 
 (b) *Test notice.* (1) To obtain units for enforcement testing to determine compliance with an applicable standard, DOE will issue a test notice addressed to the manufacturer in accordance with the following requirements:
 
@@ -16,7 +16,7 @@ Link to an amendment published at 87 FR 63895, Oct. 20, 2022.
 
 (iii) DOE will state in the test notice that it will select the units of a basic model to be tested from the manufacturer, from one or more distributors, and/or from one or more retailers. If any unit is selected from a distributor or retailer, the manufacturer shall make arrangements with the distributor or retailer for compensation for or replacement of any such units.
 
-(iv) DOE may require in the test notice that the manufacturer of a basic model ship or cause to be shipped from a retailer or distributor at its expense the requested number of units of a basic model specified in such test notice to the testing laboratory specified in the test notice. The manufacturer shall ship the specified initial test unit(s) of the basic model to the testing laboratory within 5 working days from the time units are selected.
+(iv) DOE may require in the test notice that the manufacturer of a basic model ship or cause to be shipped from a retailer or distributor at its expense the requested number of units of a basic model specified in such test notice to the testing laboratory specified in the test notice. The manufacturer shall ship the specified initial test unit(s) of the basic model to the testing laboratory within 5 working days from the time unit(s) are selected. For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h) the manufacturer shall also ship any means of control necessary for conducting testing in accordance with appendix D1 to subpart F of 10 CFR part 431 of this subchapter. The manufacturer may ship the means of control separately from the system(s) selected for testing.
 
 (v) If DOE determines that the units identified are low-volume or built-to-order products, DOE will contact the manufacturer to develop a plan for enforcement testing in lieu of paragraphs (ii)-(iv) of this section.
 
@@ -76,4 +76,4 @@ Link to an amendment published at 87 FR 63895, Oct. 20, 2022.
 
 (9) For the purposes of this section, available units are those that are available for distribution in commerce within the United States.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 31841, May 20, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022]

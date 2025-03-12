@@ -1,7 +1,5 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 87 FR 63894, Oct. 20, 2022.
-
 (a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
 (b) *Testing.* Testing for each covered product or covered equipment must be done in accordance with the sampling plan provisions established in § 429.11 and the testing procedures in parts 430 and 431 of this chapter.
@@ -16,7 +14,19 @@ Link to an amendment published at 87 FR 63894, Oct. 20, 2022.
 
 (2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability as follows:
 
-(i) The manufacturer must select at least the minimum number of basic models for each validation class specified in paragraph (c)(2)(iv) of this section to which the particular AEDM applies. Using the AEDM, calculate the energy use or efficiency for each of the selected basic models. Test a single unit of each selected basic model in accordance with paragraph (c)(2)(iii) of this section. Compare the results from the single unit test and the AEDM energy use or efficiency output according to paragraph (c)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM.
+(i) The manufacturer must select at least the minimum number of basic models for each validation class specified in paragraph (c)(2)(iv) of this section to which the particular AEDM applies. Using the AEDM, calculate the energy use or efficiency for each of the selected basic models.
+
+(A) Except for variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h) when certifying to standards in terms of IEER, test a single unit of each selected basic model in accordance with paragraph (c)(2)(iii) of this section. Compare the results from the single unit test and the AEDM energy use or efficiency output according to paragraph (c)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM.
+
+(B) For variable refrigerant flow multi-split air conditioners and heat pumps (other than air-cooled with rated cooling capacity less than 65,000 btu/h) when certifying to standards in terms of IEER, the following provisions apply.
+
+(*1*) If a manufacturer makes representations for a single type of indoor unit combination (*i.e.,* only ducted, non-ducted, or SDHV indoor unit combinations) across all the basic models for which an AEDM applies, the manufacturer must test at least a single tested combination of that type of indoor unit combination for each selected basic model in accordance with paragraph (c)(2)(iii) of this section.
+
+(*2*) If a manufacturer makes representations for two types of indoor unit combinations (*i.e.,* ducted, non-ducted, and/or SDHV) within or across all the basic models for which the AEDM applies, the manufacturer must test at least a single tested combination of a selected basic model for one of those two types of indoor unit combination, and at least a single tested combination of a different selected basic model for the other of those two types of indoor unit combination, each tested in accordance with paragraph (c)(2)(iii) of this section.
+
+(*3*) If a manufacturer makes representations for all three types of indoor unit combinations (*i.e.,* ducted, non-ducted, and SDHV) within or across basic models for which the AEDM applies, the manufacturer must test at least a single tested combination of a selected basic model as a non-ducted tested combination and a single tested combination of a different selected basic model as a ducted tested combination, each in accordance with paragraph (c)(2)(iii) of this section.
+
+(*4*) In all cases, compare the results from each tested basic model and the AEDM energy use or efficiency output according to paragraph (c)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and reliability of the AEDM.
 
 (ii) *Individual model tolerances.* (A) For those covered products with an energy-efficiency metric, the predicted efficiency for each model calculated by applying the AEDM may not be more than five percent greater than the efficiency determined from the corresponding test of the model.
 
@@ -586,4 +596,4 @@ Link to an amendment published at 87 FR 63894, Oct. 20, 2022.
 
 (D) A combination of the foregoing.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022]

@@ -1,5 +1,7 @@
 ##### 852.270-1 Representatives of Contracting Officers. #####
 
+Link to an amendment published at 87 FR 70751, Nov. 21, 2022.
+
 As prescribed in 801.603-70(d), insert the following provision:
 
 Representatives of Contracting Officers (JAN 2008)
