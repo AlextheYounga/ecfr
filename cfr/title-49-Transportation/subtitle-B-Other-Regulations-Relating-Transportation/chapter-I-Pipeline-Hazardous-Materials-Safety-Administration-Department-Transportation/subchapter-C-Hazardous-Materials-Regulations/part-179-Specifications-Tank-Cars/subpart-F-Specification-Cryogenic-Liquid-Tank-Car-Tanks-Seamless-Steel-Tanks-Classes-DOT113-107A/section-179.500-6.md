@@ -1,0 +1,7 @@
+##### § 179.500-6 Heat treatment. #####
+
+(a) Each necked-down tank shall be uniformly heat treated. Heat treatment shall consist of annealing or normalizing and tempering for Class I, Class II and Class III steel or oil quenching and tempering for Class III steel. Tempering temperatures shall not be less than 1000 °F. Heat treatment of alternate steels shall be approved. All scale shall be removed from outside of tank to an extent sufficient to allow proper inspection.
+
+(b) To check uniformity of heat treatment, Brinnel hardness tests shall be made at 18 inch intervals on the entire longitudinal axis. The hardness shall not vary more than 35 points in the length of the tank. No hardness tests need be taken within 12 inches from point of head to shell tangency.
+
+(c) A magnetic particle inspection shall be performed after heat treatment on all tanks subjected to a quench and temper treatment to detect the presence of quenching cracks. Cracks shall be removed to sound metal by grinding and the surface exposed shall be blended smoothly into the surrounding area. A wall thickness check shall then be made of the affected area by ultrasonic equipment or other suitable means acceptable to the inspector and if the remaining wall thickness is less than the minimum recorded thickness as determined by § 179.500-4(b) it shall be used for making the calculation prescribed in paragraph (b) of this section.

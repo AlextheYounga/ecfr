@@ -1,7 +1,5 @@
 ##### § 173.56 New explosives - definition and procedures for classification and approval. #####
 
-Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
-
 (a) *Definition of new explosive.* For the purposes of this subchapter a *new explosive* means an explosive produced by a person who:
 
 (1) Has not previously produced that explosive; or
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
 
 (2) A new explosive made by or under the direction or supervision of a component of the DOD may be examined, classed, and concurred in by:
 
-(i) U.S. Army Technical Center for Explosives Safety (SMCAC-EST), Naval Sea Systems Command (SEA-9934), or Air Force Safety Agency (SEW), when approved by the Chairman, DOD Explosives Board, in accordance with the DOD Explosives Hazard Classification Procedures (IBR, see § 171.7 of the subchapter); or
+(i) U.S. Army Technical Center for Explosives Safety (SMCAC-EST), Naval Sea Systems Command (SEA-9934), or Air Force Safety Agency (SEW), when approved by the Chairman, DOD Explosives Board, in accordance with the DOD Ammunition and Explosives Hazard Classification Procedures (IBR, see § 171.7 of the subchapter); or
 
 (ii) The agencies and procedures specified in paragraph (b)(1) of this section.
 
@@ -82,4 +80,4 @@ Cartridges, small arms meeting the criteria of this paragraph (h) may be assigne
 
 (j) [Reserved]
 
-[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-234, 58 FR 51532, Oct. 1, 1993; 62 FR 51560, Oct. 1, 1997; 63 FR 37461, July 10, 1998; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 68 FR 75743, Dec. 31, 2003; 72 FR 25177, May 3, 2007; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013]
+[Amdt. 173-224, 55 FR 52617 Dec. 21, 1990, as amended at 56 FR 66267, Dec. 20, 1991; Amdt. 173-234, 58 FR 51532, Oct. 1, 1993; 62 FR 51560, Oct. 1, 1997; 63 FR 37461, July 10, 1998; 64 FR 10777, Mar. 5, 1999; 66 FR 45379, Aug. 28, 2001; 68 FR 75743, Dec. 31, 2003; 72 FR 25177, May 3, 2007; 78 FR 1074, Jan. 7, 2013; 78 FR 42477, July 16, 2013; 83 FR 55809, Nov. 7, 2018]

@@ -1,7 +1,5 @@
 ##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
 
-Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
-
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
 (1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:
@@ -46,6 +44,10 @@ Packagings<sup>1</sup>
 (9) Specification 2P, 2Q, 3E, 3HT, spherical 4BA, 4D, 4DA, 4DS, and 39 cylinders must be packed in strong non-bulk outer packagings. The outside of the combination packaging must be marked with an indication that the inner packagings conform to the prescribed specifications.
 
 (10) Any person who installs a valve into an aluminum cylinder in oxygen service must verify the valve and the cylinder have the same thread type.
+
+(11) Cylinder valves manufactured on or after November 7, 2019, used on cylinders to transport compressed gases must conform to the requirements in CGA V-9 (IBR; see § 171.7 of this subchapter). A valve for a UN pressure receptacle must conform to the requirements of § 173.301b(c)(1). Cylinder valves used on cylinders in liquefied petroleum gas (LPG) service are permitted to comply with the requirements of NFPA 58 (IBR; see § 171.7 of this subchapter).
+
+(12) Cylinder valve protection caps manufactured on or after November 7, 2019, must conform to the requirements of CGA V-9.
 
 (b) *Cylinder markings.* Required markings on a cylinder must be legible and must meet the applicable requirements of subpart C of part 180 of this subchapter. Additional information may be marked on the cylinder provided it does not affect the required markings prescribed in the applicable cylinder specification.
 
@@ -149,4 +151,4 @@ Packagings<sup>1</sup>
 
 (l) *Cylinders made of aluminum alloy 6351-T6.* A DOT 3AL cylinder manufactured of aluminum alloy 6351-T6 may not be filled and offered for transportation or transported with pyrophoric gases. The use of UN cylinders manufactured of aluminum alloy 6351-T6 is prohibited.
 
-[67 FR 51643, Aug. 8, 2002]Editorial Note:For Federal Register citations affecting § 173.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[67 FR 51643, Aug. 8, 2002]Editorial Note:For Federal Register citations affecting § 173.301, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

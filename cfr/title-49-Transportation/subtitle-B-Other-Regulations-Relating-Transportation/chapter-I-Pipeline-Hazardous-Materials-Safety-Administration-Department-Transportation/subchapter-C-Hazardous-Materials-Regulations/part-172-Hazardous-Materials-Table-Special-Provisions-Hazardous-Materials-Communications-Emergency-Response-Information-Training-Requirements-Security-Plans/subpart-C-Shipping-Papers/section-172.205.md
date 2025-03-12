@@ -1,7 +1,5 @@
 ##### § 172.205 Hazardous waste manifest. #####
 
-Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
-
 (a) No person may offer, transport, transfer, or deliver a hazardous waste (waste) unless an EPA Form 8700-22 and 8700-22A (when necessary) hazardous waste manifest (manifest) is prepared in accordance with 40 CFR 262.20 and is signed, carried, and given as required of that person by this section.
 
 (b) The shipper (generator) shall prepare the manifest in accordance with 40 CFR part 262.
@@ -70,4 +68,6 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (i) The shipping description for a hazardous waste must be modified as required by § 172.101(c)(9).
 
-[Amdt. 172-58, 45 FR 34698, May 22, 1980, as amended by Amdt. 172-90, 49 FR 10510, Mar. 20, 1984; 49 FR 11184, Mar. 26, 1984; Amdt. 172-248, 61 FR 28675, June 5, 1996; 70 FR 34075, June 13, 2005]
+(j) Electronic manifests that are obtained, completed, and transmitted in accordance with 40 CFR262.20(a)(3), and used in accordance with 40 CFR 262.24 in lieu of EPA Forms 8700-22 and 8700-22A are the legal equivalent of paper manifest forms bearing handwritten signatures, and satisfy for all purposes any requirements in these regulations to obtain, complete, sign, provide, use, or retain a manifest. Electronic signatures in conformance with 40 CFR 262.25 are therefore acceptable in lieu of handwritten signatures required by paragraphs (c) and (d) of this section provided one printed copy of the electronic manifest bearing the electronic signature is provided to the initial transporter as required by 40 CFR 262.24(d). A copy of the electronic manifest would satisfy the 3-year retention requirement for maintaining a copy of the manifest.
+
+[Amdt. 172-58, 45 FR 34698, May 22, 1980, as amended by Amdt. 172-90, 49 FR 10510, Mar. 20, 1984; 49 FR 11184, Mar. 26, 1984; Amdt. 172-248, 61 FR 28675, June 5, 1996; 70 FR 34075, June 13, 2005; 83 FR 55806, Nov. 7, 2018]

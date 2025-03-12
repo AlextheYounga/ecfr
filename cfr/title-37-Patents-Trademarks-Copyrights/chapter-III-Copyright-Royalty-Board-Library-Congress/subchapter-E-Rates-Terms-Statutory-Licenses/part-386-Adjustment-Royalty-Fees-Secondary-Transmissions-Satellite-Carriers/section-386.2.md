@@ -18,11 +18,11 @@ Link to an amendment published at 83 FR 61127, November 28, 2018.
 
 (v) 2014: 27 cents per subscriber per month.
 
-(vi) 2015: 27 cents per subscriber per month (for each month of 2015).1/\>
+(vi) 2015: 27 cents per subscriber per month (for each month of 2015).1
 
 1 This is the 2014 rate adjusted for the amount of inflation as measured by the change in the Consumer Price Index for All Urban Consumers All Items from October 2013 to October 2014.
 
-(vii) 2016: 27 cents per subscriber per month (for each month of 2016).3/\>
+(vii) 2016: 27 cents per subscriber per month (for each month of 2016).3
 
 3 This is the 2015 rate adjusted for the amount of inflation as measured by the change in the Consumer Price Index for All Urban Consumers All Items from October 2014 to October 2015.
 
@@ -42,11 +42,11 @@ Link to an amendment published at 83 FR 61127, November 28, 2018.
 
 (v) 2014: 55 cents per subscriber per month.
 
-(vi) 2015: 56 cents per subscriber per month (for each month of 2015).2/\>
+(vi) 2015: 56 cents per subscriber per month (for each month of 2015).2
 
 2 This is the 2014 rate adjusted for the amount of inflation as measured by the change in the Consumer Price Index for All Urban Consumers All Items from October 2013 to October 2014.
 
-(vii) 2016: 56 cents per subscriber per month (for each month of 2016).4/\>
+(vii) 2016: 56 cents per subscriber per month (for each month of 2016).4
 
 4 This is the 2015 rate adjusted for the amount of inflation as measured by the change in the Consumer Price Index for All Urban Consumers All Items from October 2014 to October 2015.
 

@@ -1,5 +1,7 @@
 ##### § 96.25 Priority access licenses. #####
 
+Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
+
 (a) Priority Access Licensees must operate CBSDs consistent with the technical rules and interference protection requirements set forth in this part.
 
 (b) PALs have the following parameters:

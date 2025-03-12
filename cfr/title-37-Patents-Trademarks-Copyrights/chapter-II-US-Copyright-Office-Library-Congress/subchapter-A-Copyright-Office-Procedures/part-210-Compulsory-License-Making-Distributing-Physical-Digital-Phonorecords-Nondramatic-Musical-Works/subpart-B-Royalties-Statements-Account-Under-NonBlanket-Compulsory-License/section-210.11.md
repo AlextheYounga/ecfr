@@ -1,0 +1,5 @@
+##### § 210.11 General. #####
+
+This subpart prescribes rules for the payment of royalties and the preparation and service of statements of account under the compulsory license for the making and distribution of phonorecords of nondramatic musical works, including by means of a digital phonorecord delivery, pursuant to 17 U.S.C. 115 and the rates and terms in part 385 of this title. On and after the license availability date, this subpart shall not apply with respect to any digital phonorecord delivery made pursuant to the compulsory license unless such digital phonorecord delivery is made by a record company under an individual download license under 17 U.S.C. 115(b)(3), which must be reported and paid for in accordance with § 210.21; that is, this subpart shall not apply where a digital music provider reports and pays royalties under a blanket license under 17 U.S.C. 115(d)(4)(A)(i).
+
+[79 FR 56206, Sept. 18, 2014, as amended at 83 FR 63065, Dec. 7, 2018]

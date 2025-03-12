@@ -1,5 +1,7 @@
 ##### § 1.949 Application for renewal of authorization. #####
 
+Link to an amendment published at 83 FR 63095, December 7, 2018.
+
 (a) *Filing requirements.* Applications for renewal of authorizations in the Wireless Radio Services must be filed no later than the expiration date of the authorization, and no sooner than 90 days prior to the expiration date. Renewal applications must be filed on the same form as applications for initial authorization in the same service, *i.e.,* FCC Form 601 or 605.
 
 (b) *Common expiration date.* Licensees with multiple authorizations in the same service may request a common date on which such authorizations expire for renewal purposes. License terms may be shortened by up to one year but will not be extended.
@@ -42,5 +44,4 @@
 
 (h) *Consequences of denial.* If the Commission, or the Wireless Telecommunications Bureau acting under delegated authority, finds that a licensee has not met the Renewal Standard under paragraph (d) of this section, or that its Regulatory Compliance Certification under paragraph (g) of this section is insufficient, its renewal application will be denied, and its licensed spectrum will return automatically to the Commission for reassignment (by auction or other mechanism). In the case of certain services licensed site-by-site, the spectrum will revert automatically to the holder of the related overlay geographic-area license. To the extent that an AWS-4 licensee also holds the 2 GHz Mobile Satellite Service (MSS) rights for the affected license area, the MSS protection rule in § 27.1136 of this chapter will no longer apply in that license area.
 
-[82 FR 41545, Sept. 1, 2017]Effective Date Note:At 82 FR 41545, Sept. 1, 2017,
-§ 1.949 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 41545, Sept. 1, 2017]Effective Date Note:At 82 FR 41545, Sept. 1, 2017, § 1.949 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

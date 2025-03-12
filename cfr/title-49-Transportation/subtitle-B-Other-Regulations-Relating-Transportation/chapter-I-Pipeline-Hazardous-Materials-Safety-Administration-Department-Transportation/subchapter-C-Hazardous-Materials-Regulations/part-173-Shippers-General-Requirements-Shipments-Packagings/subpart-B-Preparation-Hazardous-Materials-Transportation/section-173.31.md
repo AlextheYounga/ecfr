@@ -1,7 +1,5 @@
 ##### § 173.31 Use of tank cars. #####
 
-Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
-
 (a) *General.* (1) No person may offer a hazardous material for transportation in a tank car unless the tank car meets the applicable specification and packaging requirements of this subchapter or, when this subchapter authorizes the use of a non-DOT specification tank car, the applicable specification to which the tank was constructed.
 
 (2) Tank cars and appurtenances may be used for the transportation of any commodity for which they are authorized in this part and specified on the certificate of construction (AAR Form 4-2 or by addendum on Form R-1). See § 179.5 of this subchapter. Transfer of a tank car from one specified service on its certificate of construction to another may be made only by the owner or with the owner's authorization. A tank car proposed for a commodity service other than specified on its certificate of construction must be approved for such service by the AAR's Tank Car Committee.
@@ -94,13 +92,13 @@ Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
 
 (e) *Special requirements for materials poisonous by inhalation* - (1) *Interior heater coils.* Tank cars used for materials poisonous by inhalation may not have interior heater coils.
 
-(2) Tank car specifications. A tank car used for a material poisonous by inhalation must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (e.g., DOT 105S300W), except that -
+(2) *Tank car specifications.* A tank car used for a material poisonous by inhalation must have a tank test pressure of 20.7 Bar (300 psig) or greater, head protection, and a metal jacket (*e.g.,* DOT 105S300W), except that -
 
 (i) A higher test pressure is required if otherwise specified in this subchapter; and
 
-(ii) Each tank car constructed on or after March 16, 2009, and used for the transportation of PIH materials must meet the applicable authorized tank car specifications and standards listed in § 173.244(a)(2) or (3) and § 173.314(c) or (d).
+(ii) Each tank car constructed on or after March 16, 2009, and used for the transportation of PIH materials must meet the applicable authorized tank car specifications and standards listed in §§ 173.244(a)(2) or (3) and 173.314(c) or (d).
 
-(iii) A tank car meeting the applicable authorized tank car specifications listed in § 173.244(a)(2) or (3), or § 173.314(c) or (d) is authorized for the transportation of a material poisonous by inhalation for a period of 20 years after the date of original construction.
+(iii) [Reserved]
 
 (iv) A tank car owner retiring or otherwise removing a tank car from service transporting materials poisonous by inhalation, other than because of damage to the car, must retire or remove cars constructed of non-normalized steel in the head or shell before removing any car in service transporting materials poisonous by inhalation constructed of normalized steel meeting the applicable DOT specification.
 
@@ -128,4 +126,4 @@ AldrinAllyl chloridealpha-BHCbeta-BHCdelta-BHCgamma-BHCBis(2-chloroethyl) etherB
 
 (3) At least one wheel on the tank car must be blocked against movement in both directions, and the hand brakes must be set. If multiple tank cars are coupled together, sufficient hand brakes must be set and wheels blocked to prevent movement in both directions.
 
-[Amdt. 173-245, 60 FR 49072, Sept. 21, 1995, as amended by Amdt. 173-245, 61 FR 33254, June 26, 1996; Amdt. 173-256, 61 FR 51338, Oct. 1, 1996; 65 FR 58629, Sept. 29, 2000; 66 FR 33427, June 21, 2001; 66 FR 45379, 45381, Aug. 28, 2001; 68 FR 48569, Aug. 14, 2003; 68 FR 75743, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 70 FR 34075, June 13, 2005; 72 FR 25176, May 3, 2007; 72 FR 55692, Oct. 1, 2007; 74 FR 1799, Jan. 13, 2009; 75 FR 27215, May 14, 2010]
+[Amdt. 173-245, 60 FR 49072, Sept. 21, 1995, as amended by Amdt. 173-245, 61 FR 33254, June 26, 1996; Amdt. 173-256, 61 FR 51338, Oct. 1, 1996; 65 FR 58629, Sept. 29, 2000; 66 FR 33427, June 21, 2001; 66 FR 45379, 45381, Aug. 28, 2001; 68 FR 48569, Aug. 14, 2003; 68 FR 75743, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 70 FR 34075, June 13, 2005; 72 FR 25176, May 3, 2007; 72 FR 55692, Oct. 1, 2007; 74 FR 1799, Jan. 13, 2009; 75 FR 27215, May 14, 2010; 83 FR 55808, Nov. 7, 2018]

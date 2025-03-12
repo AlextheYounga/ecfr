@@ -1,5 +1,7 @@
 ##### § 96.23 Authorization. #####
 
+Link to an amendment published at 83 FR 63095, Dec. 7, 2018.
+
 (a) Applications for PALs must:
 
 (1) Demonstrate the applicant's qualifications to hold an authorization;

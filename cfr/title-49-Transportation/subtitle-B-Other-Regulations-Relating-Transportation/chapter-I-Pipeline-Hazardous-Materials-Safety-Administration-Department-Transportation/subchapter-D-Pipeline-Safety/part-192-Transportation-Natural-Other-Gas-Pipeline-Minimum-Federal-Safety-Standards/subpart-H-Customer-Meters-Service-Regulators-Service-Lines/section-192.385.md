@@ -8,4 +8,4 @@
 
 (c) *Accessibility and maintenance.* Manual service line shut-off valves for any new or replaced service line must be installed in such a way as to allow accessibility during emergencies. Manual service shut-off valves installed under this section are subject to regular scheduled maintenance, as documented by the operator and consistent with the valve manufacturer's specification.
 
-[81 FR 71002, Oct. 14, 2016]
+[Amdt. 192-121, 81 FR 71002, Oct. 14, 2016]

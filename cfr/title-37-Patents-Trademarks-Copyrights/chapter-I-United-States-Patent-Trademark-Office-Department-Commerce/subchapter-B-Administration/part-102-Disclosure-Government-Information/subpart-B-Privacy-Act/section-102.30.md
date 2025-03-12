@@ -10,7 +10,7 @@
 
 (4) When required by the Act and not covered explicitly by the provisions of 5 U.S.C. 552a(b); and
 
-(5) When permitted under 5 U.S.C. 552a(b)(1) through (12), which read as follows:1/\>
+(5) When permitted under 5 U.S.C. 552a(b)(1) through (12), which read as follows:1
 
 1 5 U.S.C. 552a(b)(4) has no application within USPTO.
 

@@ -16,6 +16,6 @@
 
 (b) *Highly erodible.* A soil map unit shall be determined to be highly erodible if either the RKLS/T or the CI/T value for the map unit equals or exceeds 8.
 
-(c) *Potentially highly erodible.* Whenever a soil map unit description contains a range of a slope length and steepness characteristics that produce a range of LS values which result in RKLS/T quotients both above and below 8, the soil map unit will be entered on the list of highly erodible soil map units as “potentially highly erodible.” The final determination of erodibility for an individual field containing these soil map unit delineations will be made by an on-site investigation.
+(c) *Potentially highly erodible.* Whenever a soil map unit description contains a range of a slope length and steepness characteristics that produce a range of LS values that result in RKLS/T quotients both above and below 8, the soil map unit will be entered on the list of highly erodible soil map units as “potentially highly erodible.” The final determination of erodibility for an individual field containing these soil map unit delineations will be made by an on-site investigation, or by use of Light Detection and Ranging or other elevation data of an adequate resolution to make slope length and steepness measurements. In any case where a person disagrees with an off-site determination on potentially highly erodible soils, a determination will be made on-site.
 
-[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996]
+[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996; 83 FR 63051, Dec. 7, 2018]

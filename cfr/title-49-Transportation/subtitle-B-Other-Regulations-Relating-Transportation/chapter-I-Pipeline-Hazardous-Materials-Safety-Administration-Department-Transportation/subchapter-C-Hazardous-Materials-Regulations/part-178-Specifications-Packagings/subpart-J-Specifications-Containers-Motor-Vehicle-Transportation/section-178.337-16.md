@@ -1,0 +1,11 @@
+##### § 178.337-16 Testing. #####
+
+(a) *Inspection and tests.* Inspection of materials of construction of the cargo tank and its appurtenances and original test and inspection of the finished cargo tank and its appurtenances must be as required by Section VIII of the ASME Code (IBR, see § 171.7 of this subchapter) and as further required by this specification, except that for cargo tanks constructed in accordance with part UHT in Section VIII of the ASME Code the original test pressure must be at least twice the cargo tank design pressure.
+
+(b) *Weld testing and inspection.* (1) Each cargo tank constructed in accordance with part UHT in Section VIII of the ASME Code must be subjected, after postweld heat treatment and hydrostatic tests, to a wet fluorescent magnetic particle inspection to be made on all welds in or on the cargo tank shell and heads both inside and out. The method of inspection must conform to appendix 6 in Section VIII of the ASME Code except that permanent magnets shall not be used.
+
+(2) On cargo tanks of over 3,500 gallons water capacity other than those described in paragraph (b)(1) of this section unless fully radiographed, a test must be made of all welds in or on the shell and heads both inside and outside by either the wet fluorescent magnetic particle method conforming to appendix U in Section VIII of the ASME Code, liquid dye penetrant method, or ultrasonic testing in accordance with appendix 12 in Section VIII of the ASME Code. Permanent magnets must not be used to perform the magnetic particle inspection.
+
+(c) All defects found shall be repaired, the cargo tanks shall then again be postweld heat treated, if such heat treatment was previously performed, and the repaired areas shall again be tested.
+
+[Order 59-B, 30 FR 582, Jan. 16, 1965. Redesignated at 32 FR 5606, Apr. 5, 1967, and amended by Amdt. 178-7, 34 FR 18250, Nov. 14, 1969; Amdt. 178-99, 58 FR 51534, Oct. 1, 1993; Amdt. 178-118, 61 FR 51340, Oct. 1, 1996; 68 FR 75753, Dec. 31, 2003]

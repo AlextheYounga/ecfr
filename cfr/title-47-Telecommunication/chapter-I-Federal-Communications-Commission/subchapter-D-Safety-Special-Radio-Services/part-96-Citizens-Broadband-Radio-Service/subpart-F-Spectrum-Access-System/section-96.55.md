@@ -1,5 +1,7 @@
 ##### § 96.55 Information gathering and retention. #####
 
+Link to an amendment published at 83 FR 63097, Dec. 7, 2018.
+
 (a) The SAS shall maintain current information on registered CBSDs, the geographic locations and configuration of protected FSS locations as set forth in § 96.17, and the federal Incumbent User Exclusion Zones and Protection Zones.
 
 (1) For registered CBSDs, such information shall include all information required by §§ 96.39 and 96.45.

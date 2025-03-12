@@ -1,5 +1,7 @@
 ##### § 96.29 Competitive bidding procedures. #####
 
+Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
+
 (a) Mutually exclusive initial applications for a Priority Access License are subject to competitive bidding. The general competitive bidding procedures set forth in part 1, subpart Q of this chapter will apply unless otherwise provided in this subpart.
 
 (b) Applications for Priority Access Licenses are mutually exclusive when they seek in total more PALs in a particular geographic area than the number of PALs available in that geographic area.

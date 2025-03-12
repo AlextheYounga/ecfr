@@ -1,5 +1,7 @@
 ##### § 96.41 General radio requirements. #####
 
+Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
+
 The requirements in this section apply to CBSDs and their associated End User Devices, unless otherwise specified.
 
 (a) *Digital modulation.* Systems operating in the Citizens Broadband Radio Service must use digital modulation techniques.

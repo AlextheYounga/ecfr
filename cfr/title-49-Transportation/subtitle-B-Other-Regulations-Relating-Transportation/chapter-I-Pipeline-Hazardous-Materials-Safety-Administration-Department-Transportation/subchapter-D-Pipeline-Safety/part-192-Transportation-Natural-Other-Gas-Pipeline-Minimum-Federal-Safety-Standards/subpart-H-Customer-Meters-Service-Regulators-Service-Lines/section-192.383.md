@@ -48,4 +48,4 @@
 
 (g) *Reporting.* Except for operators of master-meter systems and LPG operators with fewer than 100 customers, each operator must report the EFV measures detailed in the annual report required by § 191.11.
 
-[81 FR 71001, Oct. 14, 2016; 81 FR 72739, Oct. 21, 2016]
+[Amdt. 192-121, 81 FR 71001, Oct. 14, 2016; 81 FR 72739, Oct. 21, 2016]

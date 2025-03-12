@@ -1,10 +1,8 @@
 ##### § 173.156 Exceptions for limited quantity and ORM. #####
 
-Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
-
 (a) Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 Table or in a packaging section in this part.
 
-(b) Packagings for limited quantity and ORM-D are specified according to hazard class in §§ 173.150 through 173.155, 173.306 and 173.309(b). In addition to exceptions provided for limited quantity and ORM-D materials elsewhere in this part, the following are provided:
+(b) Packagings for limited quantity and ORM-D are specified according to hazard class in §§ 173.150 through 173.155, 173.306, and 173.309(b). In addition to exceptions provided for limited quantity and ORM-D materials elsewhere in this part, the following are provided:
 
 (1) Strong outer packagings as specified in this part, marking requirements specified in subpart D of part 172 of this subchapter, and the 30 kg (66 pounds) gross weight limitation when -
 
@@ -22,11 +20,11 @@ Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
 
 (2) The 30 kg (66 pounds) gross weight limitation does not apply to packages of limited quantity materials marked in accordance with § 172.315 of this subchapter, or, until December 31, 2020, materials classed and marked as ORM-D and described as a Consumer commodity, as defined in § 171.8 of this subchapter, when offered for transportation or transported by highway or rail between a manufacturer, a distribution center, and a retail outlet provided -
 
-(i) Inner packagings conform to the quantity limits for inner packagings specified in §§ 173.150(b), 173.152(b), 173.154(b), 173.155(b), 173.306 (a) and (b), and 173.309(b), as appropriate;
+(i) Inner packagings conform to the quantity limits for inner packagings specified in §§ 173.150(b), 173.152(b), 173.154(b), 173.155(b), 173.306(a) and (b), and 173.309(b), as appropriate;
 
 (ii) The inner packagings are packed into corrugated fiberboard trays to prevent them from moving freely;
 
-(iii) The trays are placed in a fiberboard box which is banded and secured to a wooden pallet by metal, fabric, or plastic straps, to form a single palletized unit;
+(iii) The trays are placed in a fiberboard box which is banded and secured to a metal, plastic, composite, or wooden pallet by metal, fabric, or plastic straps, to form a single palletized unit. Hazardous materials should be compatible with the pallet material;
 
 (iv) The package conforms to the general packaging requirements of subpart B of this part; and
 
@@ -52,4 +50,4 @@ Link to an amendment published at 83 FR 55809, Nov. 7, 2018.
 
 (d) *Exceptions for waste limited quantities and ORM-D materials.* Exceptions for certain waste limited quantity and ORM-D materials are prescribed in § 173.12(h).
 
-[78 FR 1114, Jan. 7, 2013, as amended at 78 FR 65481, Oct. 31, 2013; 80 FR 72924, Nov. 23, 2015; 81 FR 3673, Jan. 21, 2016]
+[78 FR 1114, Jan. 7, 2013, as amended at 78 FR 65481, Oct. 31, 2013; 80 FR 72924, Nov. 23, 2015; 81 FR 3673, Jan. 21, 2016; 83 FR 55809, Nov. 7, 2018]

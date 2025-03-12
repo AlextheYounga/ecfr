@@ -1,7 +1,5 @@
 ##### § 171.7 Reference material. #####
 
-Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
-
 (a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
 (2) *Accessibility of materials.* All incorporated matter is available for inspection at:
@@ -192,27 +190,29 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (l) *Chlorine Institute, Inc.,* 1300 Wilson Boulevard, Arlington, VA 22209.
 
-(1) Chlorine Institute Emergency Kit “A” for 100-lb. & 150 lb. Chlorine Cylinders (with the exception of repair method using Device 8 for side leaks), Edition 10, June 2003, into 173.3.
+(1) Chlorine Institute Emergency Kit “A” for 100-lb. & 150-lb. Chlorine Cylinders, Edition 12, Revision 2, January 2014, into § 173.3.
 
-(2) Chlorine Institute Emergency Kit “B” for Chlorine Ton Containers (with the exception of repair method using Device 9 for side leaks), Edition 9, June 2003, into 173.3.
+(2) Chlorine Institute Emergency Kit “B” for Chlorine Ton Containers, Edition 11, July 2014, into § 173.3.
 
 (3) Type 1 JQ 225, Dwg., H51970, Revision F, November 1996, into § 173.315.
 
 (4) Type 1 JQ 225, Dwg. H50155, Revision H, November 1996, into § 173.315.
 
-(5) Section 3, Pamphlet 57, Emergency Shut-Off Systems for Bulk Transfer of Chlorine, Edition 4, October 2003, into § 177.840.
+(5) Pamphlet 57, Emergency Shut-Off Systems for Bulk Transfer of Chlorine, Edition 6, June 2015, into § 177.840.
 
 (6) Section 3, Pamphlet 166, Angle Valve Guidelines for Chlorine Bulk Transportation, 1st Edition, October 2002, into § 178.337-9.
 
-(7) Standard Chlorine Angle Valve Assembly, Dwg. 104-8, July 1993, into § 178.337-9.
+(7) Pamphlet 168, Guidelines for Dual Valve Systems for Bulk Chlorine Transport, Edition 2, July 2015, into § 178.337-9.
 
-(8) Excess Flow Valve with Removable Seat, Dwg. 101-7, July 1993, into § 178.337-8.
+(8) Standard Chlorine Angle Valve Assembly, Dwg. 104-8, July 1993, into § 178.337-9.
 
-(9) Excess Flow Valve with Removable Basket, Dwg. 106-6, July 1993, into § 178.337-8.
+(9) Excess Flow Valve with Removable Seat, Dwg. 101-7, July 1993, into § 178.337-8.
 
-(10) Standards for Housing and Manway Covers for Steel Cargo Tanks, Dwgs. 137-1 and 137-2, September 1, 1982, into § 178.337-10.
+(10) Excess Flow Valve with Removable Basket, Dwg. 106-6, July 1993, into § 178.337-8.
 
-(11) Typical Manway Arrangement Chlorine Cargo Tank, Dwg 137-5, November 1996, into 178.337-10.
+(11) Standards for Housing and Manway Covers for Steel Cargo Tanks, Dwgs. 137-1 and 137-2, September 1, 1982, into § 178.337-10.
+
+(12) Typical Manway Arrangement Chlorine Cargo Tank, Dwg 137-5, November 1996, into 178.337-10.
 
 (m) *Canadian General Standards Board*, Place du Portage III, 6B1 11 Laurier Street, Gatineau, Quebec, Canada K1A 1G6.
 
@@ -234,7 +234,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (6) CGA Pamphlet C-6.3, Guidelines for Visual Inspection and Requalification of Low Pressure Aluminum Compressed Gas Cylinders, 1991, into § 180.205; 180.209.
 
-(7) CGA C-7, Guide to Preparation of Precautionary Labeling and Marking of Compressed Gas Containers, Appendix A, issued 2004 (8th Edition), into § 172.400a.
+(7) CGA C-7-2014, Guide to Classification and Labeling of Compressed Gases, Tenth Edition, copyright 2014, into § 172.400a.
 
 (8) CGA Pamphlet C-8, Standard for Requalification of DOT-3HT Cylinder Design, 1985, into § 180.205; 180.209.
 
@@ -266,11 +266,13 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (22) CGA Technical Bulletin TB-25, Design Considerations for Tube Trailers, 2008 Edition, into § 173.301.
 
-(o) *Department of Defense (DOD)*, 2461 Eisenhower Avenue, Alexandria, VA 22331.
+(23) CGA V-9-2012, Compressed Gas Association Standard for Compressed Cylinder Valves, Seventh Edition, 2012, into § 173.301.
 
-(1) DOD TB 700-2; NAVSEAINST 8020.8B; AFTO 11A-1-47; DLAR 8220.1: Explosives Hazard Classification Procedures, January 1998, into § 173.56.
+(o) *Department of Defense (DoD),* DoD Explosives Safety Board, 4800 Mark Center Drive, Suite 16E12, Alexandria, VA 22350, *https://www.ddesb.pentagon.mil/;* or Defense Logistics Agency, Technical and Quality Assurance Division, 8725 John J. Kingman Rd., Fort Belvoir, VA 22060, *http://www.dla.mil/Pages/default.aspx.*
 
-(2) Packaging of Hazardous Material, DLAD 4145.41/AR 700-143/AFJI 24-210/NAVSUPINST 4030.55B/MCO 4030.40B, January 14, 2000, into § 173.7.
+(1) TB 700-2; NAVSEAINST 8020.8C/TO 11A-1-47: DOD Ammunition and Explosives Hazard Classification Procedures, July 30, 2012, into § 173.56.
+
+(2) DLAR 4145.41/AR 700-143/NAVSUPINST 4030.55D/AFMAN 24-210\_IP/MCO 4030.40C: Packaging of Hazardous Material, April 21, 2015, into § 173.7.
 
 (p) [Reserved]
 
@@ -294,7 +296,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (t) *International Civil Aviation Organization (“ICAO”),* 999 Robert-Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada, 1-514-954-8219, *http://www.icao.int*. ICAO Technical Instructions available from: ICAO Document Sales Unit, *sales@icao.int*.
 
-(1) Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2017-2018 Edition, copyright 2016, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
+(1) Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2017-2018 Edition, copyright 2016, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.407; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
 
 (2) [Reserved]
 
@@ -308,7 +310,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (1) International Convention for the Safety of Life at Sea, 1974, Consolidated Edition (SOLAS), Chapter II-2, Construction - Fire protection, fire detection and fire extinction, Regulation 19, Carriage of dangerous goods, Fifth Edition 2009, into §§ 176.63, 176.84.
 
-(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 38-16 (English Edition), 2016 Edition, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 176.906; 178.3; 178.274.
+(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 38-16 (English Edition), 2016 Edition, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.407; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 176.906; 178.3; 178.274.
 
 (w) *International Organization for Standardization,* Case Postale 56, CH-1211, Geneve 20, Switzerland, *http://www.iso.org*. Also available from: ANSI 25, West 43rd Street, New York, NY 10036, 1-212-642-4900, *http://www.ansi.org*.
 
@@ -456,7 +458,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (y) *National Fire Protection Association,* 1 Batterymarch Park, Quincy, MA, 02169-7471 1-617-770-3000, *http://www.nfpa.org.*
 
-(1) NFPA 58-Liquefied Petroleum Gas Code, 2001 Edition, into §§ 173.5, 173.315.
+(1) NFPA 58-Liquefied Petroleum Gas Code, 2001 Edition, into §§ 173.5, 173.315, 173.301(a)(11).
 
 (2) NFPA 498-Standards for Safe Havens and Interchange Lots for Vehicles Transporting Explosives, 2010 Edition, into § 177.835.
 
@@ -478,7 +480,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (bb) *Transport Canada,* Transport Dangerous Goods. Mailstop: ASD 330 Sparks Street, Ottawa, Ontario, Canada K1A 0N5, 416-973-1868, *http://www.tc.gc.ca*.
 
-(1) Transportation of Dangerous Goods Regulations (Transport Canada TDG Regulations), into §§ 107.801; 107.805; 171.12; 171.22; 171.23; 172.401; 172.502; 172.519; 172.602; 173.31; 173.32; 173.33; 173.301; 180.205; 180.211; 180.212; 180.413.
+(1) Transportation of Dangerous Goods Regulations (Transport Canada TDG Regulations), into §§ 107.801; 107.805; 171.12; 171.22; 171.23; 172.401; 172.407; 172.502; 172.519; 172.602; 173.31; 173.32; 173.33; 173.301; 180.205; 180.211; 180.212; 180.413.
 
 (i) SOR 2001-286, including Clear Language Amendments, August 2001.
 
@@ -530,7 +532,7 @@ Link to an amendment published at 83 FR 55806, Nov. 7, 2018.
 
 (dd) *United Nations,* Bookshop, GA-1B-103, New York, NY 10017, 1-212-963-7680, *https://shop.un.org* or *bookshop@un.org**.*
 
-(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 19th revised edition, Volumes I and II (2015), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
+(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 19th revised edition, Volumes I and II (2015), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 172.519; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
 
 (2) UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, (Manual of Tests and Criteria), Sixth revised edition (2015), into §§ 171.24, 172.102; 173.21; 173.56; 173.57; 173.58; 173.60; 173.115; 173.124; 173.125; 173.127; 173.128; 173.137; 173.185; 173.220; 173.221; 173.225, part 173, appendix H; 176.905; 178.274.
 
@@ -574,4 +576,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018]

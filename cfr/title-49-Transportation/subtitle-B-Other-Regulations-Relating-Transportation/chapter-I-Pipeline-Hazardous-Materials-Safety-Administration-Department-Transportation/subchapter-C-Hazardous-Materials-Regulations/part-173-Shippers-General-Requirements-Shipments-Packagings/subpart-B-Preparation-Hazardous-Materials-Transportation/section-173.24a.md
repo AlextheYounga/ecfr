@@ -1,7 +1,5 @@
 ##### § 173.24a Additional general requirements for non-bulk packagings and packages. #####
 
-Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
-
 (a) *Packaging design.* Except as provided in § 172.312 of this subchapter:
 
 (1) *Inner packaging closures.* A combination packaging containing liquid hazardous materials must be packed so that closures on inner packagings are upright.
@@ -14,23 +12,23 @@ Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
 
 (5) *Vibration.* Each non-bulk package must be capable of withstanding, without rupture or leakage, the vibration test procedure specified in § 178.608 of this subchapter.
 
-(b) *Non-bulk packaging filling limits.* (1) A single or composite non-bulk packaging may be filled with a liquid hazardous material only when the specific gravity of the material does not exceed that marked on the packaging, or a specific gravity of 1.2 if not marked, except as follows:
+(b) *Non-bulk packaging filling limits.* (1) A non-bulk packaging not exceeding 400 kg may be filled with a liquid hazardous material only when the specific gravity of the material or gross mass of the package does not exceed that marked on the packaging, or a specific gravity of 1.2 if not marked, except as follows:
 
-(i) A Packing Group I packaging may be used for a Packing Group II material with a specific gravity not exceeding the greater of 1.8, or 1.5 times the specific gravity marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material;
+(i) A Packing Group I packaging may be used for a Packing Group II material with a specific gravity not exceeding the greater of 1.8, or 1.5 times the specific gravity or gross mass of the package marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material;
 
-(ii) A Packing Group I packaging may be used for a Packing Group III material with a specific gravity not exceeding the greater of 2.7, or 2.25 times the specific gravity marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material; and
+(ii) A Packing Group I packaging may be used for a Packing Group III material with a specific gravity not exceeding the greater of 2.7, or 2.25 times the specific gravity or gross mass of the package marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material; and
 
-(iii) A Packing Group II packaging may be used for a Packing Group III material with a specific gravity not exceeding the greater of 1.8, or 1.5 times the specific gravity marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material.
+(iii) A Packing Group II packaging may be used for a Packing Group III material with a specific gravity not exceeding the greater of 1.8, or 1.5 times the specific gravity or gross mass of the package marked on the packaging, provided all the performance criteria can still be met with the higher specific gravity material.
 
 (2) Except as otherwise provided in this section, a non-bulk packaging may not be filled with a hazardous material to a gross mass greater than the maximum gross mass marked on the packaging.
 
-(3) A single or composite non-bulk packaging which is tested and marked for liquid hazardous materials may be filled with a solid hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, multiplied by the specific gravity marked on the packaging, or 1.2 if not marked. In addition:
+(3) A non-bulk packaging not exceeding 400 kg which is tested and marked for liquid hazardous materials may be filled with a solid hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, or gross mass of the package, multiplied by the specific gravity or gross mass of the package marked on the packaging, or 1.2 if not marked. In addition:
 
-(i) A single or composite non-bulk packaging which is tested and marked for Packing Group I liquid hazardous materials may be filled with a solid Packing Group II hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, multiplied by 1.5, multiplied by the specific gravity marked on the packaging, or 1.2 if not marked.
+(i) A non-bulk packaging not exceeding 400 kg which is tested and marked for Packing Group I liquid hazardous materials may be filled with a solid Packing Group II hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, or gross mass of the package, multiplied by 1.5, multiplied by the specific gravity or gross mass of the package marked on the packaging, or 1.2 if not marked.
 
-(ii) A single or composite non-bulk packaging which is tested and marked for Packing Group I liquid hazardous materials may be filled with a solid Packing Group III hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, multiplied by 2.25, multiplied by the specific gravity marked on the packaging, or 1.2 if not marked.
+(ii) A non-bulk packaging not exceeding 400 kg which is tested and marked for Packing Group I liquid hazardous materials may be filled with a solid Packing Group III hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, or gross mass of the package, multiplied by 2.25, multiplied by the specific gravity or gross mass of the package marked on the packaging, or 1.2 if not marked.
 
-(iii) A single or composite non-bulk packaging which is tested and marked for Packing Group II liquid hazardous materials may be filled with a solid Packing Group III hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, multiplied by 1.5, multiplied by the specific gravity marked on the packaging, or 1.2 if not marked.
+(iii) A non-bulk packaging not exceeding 400 kg which is tested and marked for Packing Group II liquid hazardous materials may be filled with a solid Packing Group III hazardous material to a gross mass, in kilograms, not exceeding the rated capacity of the packaging in liters, or gross mass of the package, multiplied by 1.5, multiplied by the specific gravity or gross mass of the package marked on the packaging, or 1.2 if not marked.
 
 (4) Packagings tested as prescribed in § 178.605 of this subchapter and marked with the hydrostatic test pressure as prescribed in § 178.503(a)(5) of this subchapter may be used for liquids only when the vapor pressure of the liquid conforms to one of the following:
 
@@ -62,4 +60,4 @@ Link to an amendment published at 83 FR 55808, Nov. 7, 2018.
 
 (d) Liquids must not completely fill a receptacle at a temperature of 55 °C (131 °F) or less.
 
-[Amdt. 173-224, 55 FR 52611, Dec. 21, 1990, as amended at 56 FR 66265, Dec. 20, 1991; 57 FR 45460, Oct. 1, 1992; 58 FR 51532, Oct. 1, 1993; Amdt. 173-255, 61 FR 50624, Sept. 26, 1996; 66 FR 45380, Aug. 28, 2001; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 81 FR 35541, June 2, 2016]
+[Amdt. 173-224, 55 FR 52611, Dec. 21, 1990, as amended at 56 FR 66265, Dec. 20, 1991; 57 FR 45460, Oct. 1, 1992; 58 FR 51532, Oct. 1, 1993; Amdt. 173-255, 61 FR 50624, Sept. 26, 1996; 66 FR 45380, Aug. 28, 2001; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 81 FR 35541, June 2, 2016; 83 FR 55808, Nov. 7, 2018]

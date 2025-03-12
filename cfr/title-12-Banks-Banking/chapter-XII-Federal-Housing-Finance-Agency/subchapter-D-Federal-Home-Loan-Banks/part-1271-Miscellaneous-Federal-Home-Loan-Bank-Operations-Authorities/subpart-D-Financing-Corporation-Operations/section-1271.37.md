@@ -1,5 +1,7 @@
 ##### § 1271.37 Non-administrative expenses; assessments. #####
 
+Link to an amendment published at 83 FR 63058, Dec. 7, 2018.
+
 (a) *Interest expenses.* The Financing Corporation shall determine anticipated interest expenses on its obligations at least semiannually.
 
 (b) *Assessments on insured depository institutions* - (1) *Authority.* To provide sufficient funds to pay the non-administrative expenses of the Financing Corporation approved under § 1271.35, the Financing Corporation shall, with the approval of the board of directors of the FDIC, assess against each insured depository institution an assessment in the same manner as assessments are made by the FDIC under section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817).

@@ -1,5 +1,7 @@
 ##### § 96.3 Definitions. #####
 
+Link to an amendment published at 83 FR 63095, Dec. 7, 2018.
+
 The definitions in this section apply to this part.
 
 *Census tract.* Statistical subdivisions of a county or equivalent entity that are updated prior to each decennial census as part of the Census Bureau's Participant Statistical Areas Program. Census tracts are defined by the United States Census Bureau and census tract maps can be found at *http://www.census.gov*. For purposes of this part, Census Tracts shall be defined as they were in the 2010 United States Census. The Commission may from time to time update this definition to reflect boundaries used in subsequent decennial Census definitions.

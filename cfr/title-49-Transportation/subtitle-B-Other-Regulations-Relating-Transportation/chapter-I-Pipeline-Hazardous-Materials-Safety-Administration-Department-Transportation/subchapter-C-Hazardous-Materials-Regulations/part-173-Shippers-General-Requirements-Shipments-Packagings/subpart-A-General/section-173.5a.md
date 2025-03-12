@@ -1,8 +1,6 @@
 ##### § 173.5a Oilfield service vehicles, mechanical displacement meter provers, and roadway striping vehicles exceptions. #####
 
-Link to an amendment published at 83 FR 55807, Nov. 7, 2018.
-
-(a) *Oilfield service vehicles.* Notwithstanding § 173.29 of this subchapter, a cargo tank motor vehicle used in oilfield servicing operations is not subject to the specification requirements of this subchapter provided -
+(a) *Oilfield service vehicles.* Notwithstanding § 173.29 of this subchapter, a cargo tank motor vehicle used in oilfield servicing operations is not subject to the specification requirements of this subchapter provided—
 
 (1) The cargo tank and equipment contains only residual amounts (*i.e.*, it is emptied so far as practicable) of a flammable liquid alone or in combination with water,
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 55807, Nov. 7, 2018.
 
 (3) The proper shipping name is preceded by “RESIDUE: LAST CONTAINED \* \* \* ” on the shipping paper for each movement on a public highway.
 
-(b) *Mechanical displacement meter provers.* (1) A mechanical displacement meter prover, as defined in § 171.8 of this subchapter, permanently mounted on a truck chassis or trailer and transported by motor vehicle is excepted from the specification packaging requirements in part 178 of this subchapter provided it -
+(b) *Mechanical displacement meter provers.* (1) A mechanical displacement meter prover, as defined in § 171.8 of this subchapter, permanently mounted on a truck chassis or trailer and transported by motor vehicle is excepted from the specification packaging requirements in part 178 of this subchapter provided it—
 
 (i) Contains only the residue of a Division 2.1 (flammable gas) or Class 3 (flammable liquid) material. For liquids, the meter prover must be drained to not exceed 10% of its capacity or, to the extent that draining of the meter prover is impracticable, to the maximum extent practicable. For gases, the meter prover must not exceed 25% of the marked pressure rating;
 
@@ -58,41 +56,36 @@ The marking must be on the side of a tank or the largest piping component in let
 
 (c) *Roadway striping.* In addition to conformance with all other applicable requirements of this subchapter, non-DOT specification cargo tanks used for roadway striping are authorized provided all the following conditions in this paragraph (c) are met.
 
-(1) *Authorized materials.* Only the hazardous materials listed in the table below may be transported in roadway striping vehicles. Cargo tanks may not be filled to a capacity that would be greater than liquid full at 130 °F.
+(1) *Authorized materials.* Only the hazardous materials listed in the table 1 to this paragraph (c)(1) may be transported in roadway striping vehicles. Cargo tanks may not be filled to a capacity that would be greater than liquid full at 130 °F.
 
-Hazardous Materials Description
+|                                                           Proper shipping name                                                            |Hazard class/  <br/>division|Identification No.|Packing  <br/>group|
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------------|-------------------|
+|                                                           Acetone <sup>a</sup>                                                            |             3              |      UN1090      |        II.        |
+|                                                 Adhesives, containing a flammable liquid                                                  |             3              |      UN1133      |        II.        |
+|                    Amines, liquid, corrosive, n.o.s.<sup>b</sup> or Polyamines, liquid, corrosive, n.o.s <sup>b</sup>                     |             8              |      UN2735      |       III.        |
+|                                           Corrosive liquid, basic, organic, n.o.s <sup>b</sup>                                            |             8              |      UN3267      |       III.        |
+|                                                   Corrosive liquids, n.o.s <sup>b</sup>                                                   |             8              |      UN1760      |       III.        |
+|                                                       Dichloromethane <sup>a</sup>                                                        |            6.1             |      UN1593      |       III.        |
+|Elevated temperature liquid, n.o.s., at or above 100 °C and below its flash point (including molten metals, molten salts, etc.)<sup>c</sup>|             9              |      UN3257      |       III.        |
+|                                      Environmentally hazardous substance, liquid, n.o.s <sup>b</sup>                                      |             9              |      UN3082      |       III.        |
+|                                                        Ethyl acetate <sup>a</sup>                                                         |             3              |      UN1173      |        II.        |
+|                                          Ethyl methyl ketone or Methyl ethyl ketone <sup>a</sup>                                          |             3              |      UN1193      |        II.        |
+|                                                   Flammable liquids, n.o.s <sup>d</sup>                                                   |             3              |      UN1993      |        II.        |
+|                                                                 Gasoline                                                                  |             3              |      UN1203      |        II.        |
+|                                                           Methanol <sup>a</sup>                                                           |             3              |      UN1230      |        II.        |
+|                                     Organic peroxide type E, liquid (Dibenzoyl peroxide) <sup>b</sup>                                     |            5.2             |      UN3107      |        NA.        |
+|         Paint including paint, lacquer, enamel, stain, shellac solution, varnish, polish, liquid filler, and liquid lacquer base          |             3              |      UN1263      |        II.        |
+|                          Paint related material including paint thinning drying, removing, or reducing compound                           |             3              |      UN1263      |        II.        |
+|                                  Petroleum distillates, n.o.s. or Petroleum products, n.o.s <sup>a</sup>                                  |             3              |      UN1268      |       III.        |
+|                                                           Toluene <sup>a</sup>                                                            |             3              |      UN1294      |        II.        |
+|                                                    1,1,1-Trichloroethane <sup>a</sup>                                                     |            6.1             |      UN2831      |       III.        |
+|                                                           Xylenes <sup>a</sup>                                                            |             3              |      UN1307      |     II, III.      |
+|                                                          <sup>a</sup>: Solvent.                                                           |                            |                  |                   |
+|                                                          <sup>b</sup>: Catalyst.                                                          |                            |                  |                   |
+|                                  <sup>c</sup>: Thermoplastic material non-hazardous at room temperature.                                  |                            |                  |                   |
+|                                             <sup>d</sup>: Adhesive containing ethyl acetate.                                              |                            |                  |                   |
 
-|                                                           Proper shipping name                                                            |Hazard class/  <br/>division|Identification  <br/>number|Packing  <br/>group|
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------|-------------------|
-|                                                 Adhesives, containing a flammable liquid                                                  |             3              |          UN1133           |        II         |
-|         Paint including paint, lacquer, enamel, stain, shellac solution, varnish, polish, liquid filler, and liquid lacquer base          |             3              |          UN1263           |        II         |
-|                          Paint related material including paint thinning drying, removing, or reducing compound                           |             3              |          UN1263           |        II         |
-|                                                   Flammable liquids, n.o.s.<sup>a</sup>                                                   |             3              |          UN1993           |        II         |
-|                                                                 Gasoline                                                                  |             3              |          UN1203           |        II         |
-|                                                            Acetone<sup>b</sup>                                                            |             3              |          UN1090           |        II         |
-|                                                        Dichloromethane<sup>b</sup>                                                        |            6.1             |          UN1593           |        III        |
-|                                          Ethyl methyl ketone or Methyl ethyl ketone<sup>b</sup>                                           |             3              |          UN1193           |        II         |
-|                                                         Ethyl acetate<sup>b</sup>                                                         |             3              |          UN1173           |        II         |
-|                                                           Methanol<sup>b</sup>                                                            |             3              |          UN1230           |        II         |
-|                                     Organic peroxide type E, liquid (Dibenzoyl peroxide)<sup>c</sup>                                      |            5.2             |          UN3107           |        II         |
-|                                  Petroleum distillates, n.o.s. or Petroleum products, n.o.s.<sup>b</sup>                                  |             3              |          UN1268           |        III        |
-|                                                     1,1,1-Trichloroethane<sup>b</sup>                                                     |            6.1             |          UN2831           |        III        |
-|                                                            Toluene<sup>b</sup>                                                            |             3              |          UN1294           |        II         |
-|                                                            Xylenes<sup>b</sup>                                                            |             3              |          UN1307           |      II, III      |
-|                                      Environmentally hazardous substance, liquid, n.o.s.<sup>c</sup>                                      |             9              |          UN3082           |        III        |
-|                                           Corrosive liquid, basic, organic, n.o.s.<sup>c</sup>                                            |             8              |          UN3267           |        III        |
-|                                                   Corrosive liquids, n.o.s.<sup>c</sup>                                                   |             8              |          UN1760           |        III        |
-|Elevated temperature liquid, n.o.s., at or above 100 °C and below its flash point (including molten metals, molten salts, etc.)<sup>d</sup>|             9              |          UN3257           |        III        |
-
-<sup>a</sup>: Adhesive containing ethyl acetate.
-
-<sup>b</sup>: Solvent.
-
-<sup>c</sup>: Catalyst.
-
-<sup>d</sup>: Thermoplastic material non-hazardous at room temperature.
-
-(2) *Cargo tank requirements.* Each non-DOT specification cargo tank used for roadway striping must be securely bolted to a motor vehicle and must -
+(2) *Cargo tank requirements.* Each non-DOT specification cargo tank used for roadway striping must be securely bolted to a motor vehicle and must—
 
 (i) Be constructed and certified in conformance with the HMR in effect at the time of its manufacture and must be marked accordingly. For questions regarding these requirements, contact PHMSA by either: (1) Telephone (800) 467-4922 or (202) 366-4488 (local); or (2) by electronic mail (e-mail) to: *infocntr@dot.gov*;
 
@@ -114,4 +107,4 @@ Hazardous Materials Description
 
 (5) *Operational controls.* A non-DOT specification cargo tank used for roadway striping may not be pressurized when the motor vehicle is traveling to and from job sites. Additionally, the distance traveled by a non-DOT specification cargo tank used for roadway striping may not exceed 750 miles. Thermoplastic resin may only be heated during roadway striping operations.
 
-[70 FR 3308, Jan. 24, 2005, as amended at 75 FR 27213, May 14, 2010; 76 FR 5492, Feb. 1, 2011]
+[70 FR 3308, Jan. 24, 2005, as amended at 75 FR 27213, May 14, 2010; 76 FR 5492, Feb. 1, 2011; 83 FR 55807, Nov. 7, 2018]

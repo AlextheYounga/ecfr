@@ -10,7 +10,7 @@ Link to an amendment published at 83 FR 61549, November 30, 2018.
 
 (i) The author of a work;
 
-(ii) A person or organization that has obtained ownership of all rights under the copyright initially belonging to the author.1/\>
+(ii) A person or organization that has obtained ownership of all rights under the copyright initially belonging to the author.1
 
 1 This category includes a person or organization that has obtained, from the author or from an entity that has obtained ownership of all rights under the copyright initially belonging to the author, the contractual right to claim legal title to the copyright in an application for copyright registration.
 
@@ -164,7 +164,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (i) Where a work has been registered as unpublished, another registration may be made for the first published edition of the work, even if it does not represent a new version;
 
-(ii) Where someone other than the author is identified as copyright claimant in a registration, another registration for the same version may be made by the author in his or her own name as copyright claimant;2/\>
+(ii) Where someone other than the author is identified as copyright claimant in a registration, another registration for the same version may be made by the author in his or her own name as copyright claimant;2
 
 2 An *author* includes an employer or other person for whom a work is “made for hire” under 17 U.S.C. 101. This paragraph does not permit an employee or other person working “for hire” under that section to make a later registration in his or her own name. In the case of authors of a joint work, this paragraph does permit a later registration by one author in his or her own name as copyright claimant, where an earlier registration identifies only another author as claimant.
 

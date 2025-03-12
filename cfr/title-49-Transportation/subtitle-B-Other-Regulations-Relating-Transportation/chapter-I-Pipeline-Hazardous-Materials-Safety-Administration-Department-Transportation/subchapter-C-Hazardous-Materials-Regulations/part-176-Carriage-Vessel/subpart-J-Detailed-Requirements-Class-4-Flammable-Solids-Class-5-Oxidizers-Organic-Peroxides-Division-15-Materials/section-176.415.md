@@ -16,6 +16,8 @@
 
 (4) Ammonium nitrate fertilizer, Class 9, UN 2071.
 
+(5) Ammonium nitrate, Division 5.1 (oxidizer) UN1942, shipped as a limited quantity, if the nearest COTP is notified at least 24 hours in advance of any loading or unloading in excess of 454 kg (1,000 pounds).
+
 (c) Before a permit may be issued, the following requirements must be met in addition to any others the COTP may impose:
 
 (1) If the material is Explosives, blasting, type E, Division 1.5 compatibility group D, UN0332 in a combustible packaging or in a rigid packaging with a combustible inside packaging, it must be loaded or unloaded at a facility remote from populous areas, or high-value or high-hazard industrial facilities, so that in the event of fire or explosion, loss of lives and property may be minimized;
@@ -26,4 +28,4 @@
 
 (4) Each facility at which the material is to be loaded or unloaded must be located so that each vessel to be loaded or unloaded has an unrestricted passage to open water. Each vessel must be moored bow to seaward, and must be maintained in a mobile status during loading, unloading, or handling operations by the presence of tugs or the readiness of engines. Each vessel must have two wire towing hawsers, each having an eye splice, lowered to the water's edge, one at the bow and the other at the stern.
 
-[Amdt. 176-30, 55 FR 52706, Dec. 21, 1990, as amended at 56 FR 66282, Dec. 20, 1991; Amdt. 176-35, 59 FR 49134, Sept. 26, 1994; 65 FR 58630, Sept. 29, 2000; 66 FR 45185, 45384, 45385, Aug. 28, 2001; 68 FR 45041, July 31, 2003; 74 FR 53189, Oct. 16, 2009]
+[Amdt. 176-30, 55 FR 52706, Dec. 21, 1990, as amended at 56 FR 66282, Dec. 20, 1991; Amdt. 176-35, 59 FR 49134, Sept. 26, 1994; 65 FR 58630, Sept. 29, 2000; 66 FR 45185, 45384, 45385, Aug. 28, 2001; 68 FR 45041, July 31, 2003; 74 FR 53189, Oct. 16, 2009; 83 FR 55810, Nov. 7, 2018]

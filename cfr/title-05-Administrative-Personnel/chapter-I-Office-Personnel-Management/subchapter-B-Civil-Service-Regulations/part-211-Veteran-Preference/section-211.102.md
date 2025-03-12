@@ -1,5 +1,7 @@
 ##### § 211.102 Definitions. #####
 
+Link to an amendment published at 83 FR 63042, Dec. 7, 2018.
+
 For the purposes of preference in Federal employment, the following definitions apply:
 
 (a) *Veteran* means a person who has been discharged or released from active duty in the armed forces under honorable conditions, or who has a certification as defined in paragraph (h) of this section, if the active duty service was performed:

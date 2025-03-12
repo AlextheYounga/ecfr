@@ -14,7 +14,7 @@ The Office of Engineering and Technology has the following duties and responsibi
 
 (f) To advise and represent the Commission on frequency allocation and spectrum usage matters.
 
-(g) To render, in cooperation with the General Counsel and the Office of Strategic Planning and Policy Analysis, advice to the Commission, participate in and coordinate staff work with respect to general frequency allocation proceedings and other proceedings not within the jurisdiction of any single bureau, and render service and advice with respect to rule making matters and proceedings affecting more than one Bureau.
+(g) In cooperation with the relevant Bureaus and Offices, including the Office of General Counsel and the Office of Economics and Analytics, to advise the Commission, participate in and coordinate staff work with respect to general frequency allocation proceedings and other proceedings not within the jurisdiction of any single Bureau, and render service and advice with respect to rule making matters and proceedings affecting more than one Bureau.
 
 (h) To collaborate with and advise other Bureaus and Offices in the formulation of technical requirements of the Rules.
 
@@ -30,4 +30,4 @@ The Office of Engineering and Technology has the following duties and responsibi
 
 (n) To assist the Consumer and Governmental Affairs Bureau on issues involving informal consumer complaints and other general inquiries by consumers.
 
-(Secs. 2, 3, 4, 5, 301, 303, 307, 308, 309, 315, 317, 48 Stat., as amended, 1064, 1065, 1066, 1068, 1081, 1082, 1083, 1084, 1085, 1088, 1089; 47 U.S.C. 152, 153, 154, 155, 301, 303, 307, 308, 309, 315, 317)[45 FR 28718, Apr. 30, 1980, as amended at 46 FR 45342, Sept. 11, 1981; 51 FR 12615, Apr. 14, 1986; 60 FR 5323, Jan. 27, 1995; 62 FR 4170, Jan. 29, 1997; 63 FR 37499, July 13, 1998; 64 FR 60716, Nov. 8, 1999; 67 FR 13217, Mar. 21, 2002; 68 FR 11747, Mar. 12, 2003; 69 FR 70337, Dec. 3, 2004; 71 FR 69034, Nov. 29, 2006; 73 FR 9463, Feb. 21, 2008]
+(Secs. 2, 3, 4, 5, 301, 303, 307, 308, 309, 315, 317, 48 Stat., as amended, 1064, 1065, 1066, 1068, 1081, 1082, 1083, 1084, 1085, 1088, 1089; 47 U.S.C. 152, 153, 154, 155, 301, 303, 307, 308, 309, 315, 317)[45 FR 28718, Apr. 30, 1980, as amended at 46 FR 45342, Sept. 11, 1981; 51 FR 12615, Apr. 14, 1986; 60 FR 5323, Jan. 27, 1995; 62 FR 4170, Jan. 29, 1997; 63 FR 37499, July 13, 1998; 64 FR 60716, Nov. 8, 1999; 67 FR 13217, Mar. 21, 2002; 68 FR 11747, Mar. 12, 2003; 69 FR 70337, Dec. 3, 2004; 71 FR 69034, Nov. 29, 2006; 73 FR 9463, Feb. 21, 2008; 83 FR 63075, Dec. 7, 2018]

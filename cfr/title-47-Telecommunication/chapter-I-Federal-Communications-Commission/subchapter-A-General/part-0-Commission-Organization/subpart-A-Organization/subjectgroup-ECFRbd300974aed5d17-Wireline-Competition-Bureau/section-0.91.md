@@ -32,6 +32,6 @@ The Wireline Competition Bureau advises and makes recommendations to the Commiss
 
 (o) Coordinate with the Public Safety and Homeland Security Bureau on all matters affecting public safety, homeland security, national security, emergency management, disaster management, and related issues.
 
-(p) In coordination with the Wireless Telecommunications Bureau, serves as the Commission's principal policy and administrative staff resource with respect to the use of market-based mechanisms, including competitive bidding, to distribute universal service support. Develops, recommends and administers policies, programs, rules and procedures concerning the use of market-based mechanisms, including competitive bidding, to distribute universal service support.
+(p) In coordination with the Office of Economics and Analytics and Wireless Telecommunications Bureau, serves as the Commission's principal policy and administrative staff resource with respect to the use of market-based mechanisms, including competitive bidding, to distribute universal service support. Develops, recommends and administers policies, programs, rules and procedures concerning the use of market-based mechanisms, including competitive bidding, to distribute universal service support.
 
-[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013]
+[67 FR 13218, Mar. 21, 2002, as amended at 68 FR 13850, Mar. 21, 2003; 69 FR 55109, Sept. 13, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 73851, Nov. 29, 2011; 78 FR 49148, Aug. 13, 2013; 83 FR 63076, Dec. 7, 2018]

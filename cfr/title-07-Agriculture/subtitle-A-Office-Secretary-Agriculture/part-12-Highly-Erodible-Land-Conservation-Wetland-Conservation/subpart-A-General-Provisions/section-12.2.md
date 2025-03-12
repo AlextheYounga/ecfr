@@ -6,6 +6,8 @@
 
 *Approved insurance provider* means a private insurance company that has been approved and reinsured by FCIC to provide insurance coverage to persons participating in programs authorized by the Federal Crop Insurance Act, as amended (7 U.S.C. 1501-1524).
 
+*Best drained condition* means the hydrologic conditions with respect to depth, duration, frequency, and timing of soil saturation or inundation resulting from drainage manipulations that occurred prior to December 23, 1985, and that exist during the wet portion of the growing season during normal climatic conditions.
+
 *CCC* means the Commodity Credit Corporation, a wholly-owned government corporation within USDA organized under the provisions of 15 U.S.C. 714 *et seq.*
 
 *Conservation District (CD)* means a subdivision of a State or local government organized pursuant to the applicable law to develop and implement soil and water conservation activities or programs.
@@ -52,6 +54,8 @@
 
 *NIFA* means the National Institute of Food and Agriculture, an agency of USDA which is generally responsible for coordinating the information and educational programs of USDA.
 
+*Normal climatic conditions* means the normal range of hydrologic inputs on a site as determined by the bounds provided in the Climate Analysis for Wetlands Tables or methods posted in the Field Office Technical Guide.
+
 *NRCS* means the Natural Resources Conservation Service, an agency within USDA which is generally responsible for providing technical assistance in matters of natural resources conservation and for administering certain conservation programs of USDA.
 
 *Operator* means the person who is in general control of the farming operations on the farm during the crop year.
@@ -59,6 +63,12 @@
 *Owner* means a person who is determined to have legal ownership of farmland and shall include a person who is purchasing farmland under contract.
 
 *Person* means an individual, partnership, association, corporation, cooperative, estate, trust, joint venture, joint operation, or other business enterprise or other legal entity and, whenever applicable, a State, a political subdivision of a State, or any agency thereof, and such person's affiliates as provided in § 12.8 of this part.
+
+*Playa* means a usually dry and nearly level lake plain that occupies the lowest parts of closed depressions (basins). Temporary inundation occurs primarily in response to precipitation-runoff events. Playas may or may not be characterized by high water table and saline conditions. They occur primarily in the Southern Great Plains.
+
+*Pocosin* means a wet area on nearly level interstream divides in the Atlantic Coastal Plain. Soils are generally organic but may include some areas of high organic mineral soils.
+
+*Pothole* means a closed depression, generally circular, elliptical, or linear in shape, occurring in glacial outwash plains, moraines, till plains, and glacial lake plains.
 
 *Reinsurance year* means a 1-year period beginning July 1 and ending on June 30 of the following year, identified by reference to the year containing June.
 
@@ -100,17 +110,37 @@
 
 (ii) Before such action such land was wetland, farmed wetland, or farmed-wetland pasture and was neither highly erodible land nor highly erodible cropland;
 
-(4) *Farmed wetland* is a wetland that prior to December 23, 1985, was manipulated and used to produce an agricultural commodity, and on December 23, 1985, did not support woody vegetation and met the following hydrologic criteria:
+(4) *Farmed wetland* is a wetland that prior to December 23, 1985, was manipulated and used to produce an agricultural commodity, and on December 23, 1985, did not support woody vegetation, and met the following hydrologic criteria:
 
-(i) Is inundated for 15 consecutive days or more during the growing season or 10 percent of the growing season, whichever is less, in most years (50 percent chance or more), or
+(i) If not a playa, pocosin, or pothole, experienced inundation for 15 consecutive days or more during the growing season or 10 percent of the growing season, whichever is less, in most years (50 percent chance or more), as determined by having met any of the following hydrologic indicators:
 
-(ii) If a pothole, playa, or pocosion, is ponded for 7 or more consecutive days during the growing season in most years (50 percent chance of more) or is saturated for 14 or more consecutive days during the growing season in most years (50 percent chance or more);
+(A) Inundation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
 
-(5) *Farmed-wetland pasture* is wetland that was manipulated and managed for pasture or hayland prior to December 23, 1985, and on December 23, 1985, met the following hydrologic criteria:
+(B) The presence of any indicator from Group B (Evidence of Recent Inundation) of the wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
 
-(i) Inundated or ponded for 7 or more consecutive days during the growing season in most years (50) percent chance or more), or
+(C) The presence of conditions resulting from inundation during the growing season is observed on aerial imagery, and the imagery is determined to represent normal or drier than normal climatic conditions (that is, not abnormally wet); or
 
-(ii) Saturated for 14 or more consecutive days during the growing season in most years (50 percent chance or more);
+(D) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation during the growing season in most years (50-percent chance or more).
+
+(ii) If a playa, pocosin, or pothole experienced ponding for 7 or more consecutive days during the growing season in most years (50-percent chance of more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more) as determined by having met any of the following hydrologic indicators:
+
+(A) Inundation or saturation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
+
+(B) The presence of one primary or two secondary wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
+
+(C) The presence of conditions resulting from inundation or saturation during the growing season is observed on aerial imagery, and the imagery is determined to represent hydrologic conditions that would be expected to occur under normal or drier than normal climatic conditions (that is, not abnormally wet); or
+
+(D) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation or saturation during the growing season in most years (50-percent chance or more).
+
+(5) *Farmed-wetland pasture* is wetland that was manipulated and managed for pasture or hayland prior to December 23, 1985, and on December 23, 1985, experienced inundation or ponding for 7 or more consecutive days during the growing season in most years (50-percent chance or more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more) as determined by having met any of the following hydrologic indicators:
+
+(i) Inundation or saturation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
+
+(ii) The presence of one primary or two secondary wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
+
+(iii) The presence of conditions resulting from inundation or saturation during the growing season is observed on aerial imagery, and the imagery is determined to represent hydrologic conditions that would be expected to occur under normal, or drier than normal climatic conditions (that is, not abnormally wet); or
+
+(iv) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation or saturation during the growing season in most years (50-percent chance or more).
 
 (6) *Not-inventoried land,* is an area for which no evaluation of soils, vegetation, or hydrology has been conducted to determine if wetland criteria are met;
 
@@ -120,16 +150,14 @@
 
 (ii) Is converted wetland the conversion of which occurred prior to December 23, 1985, and on that date, the land did not meet wetland criteria but an agricultural commodity was not produced and the area was not managed for pasture or hay;
 
-(8) *Prior-converted cropland* is a converted wetland where the conversion occurred prior to December 23, 1985, an agricultural commodity had been produced at least once before December 23, 1985, and as of December 23, 1985, the converted wetland did not support woody vegetation and met the following hydrologic criteria:
-
-(i) Inundation was less than 15 consecutive days during the growing season or 10 percent of the growing season, whichever is less, in most years (50 percent chance or more); and
-
-(ii) If a pothole, playa or pocosin, ponding was less than 7 consecutive days during the growing season in most years (50 percent chance or more) and saturation was less than 14 consecutive days during the growing season most years (50 percent chance or more); or
+(8) *Prior-converted cropland* is a converted wetland where the conversion occurred prior to December 23, 1985, an agricultural commodity had been produced at least once before December 23, 1985, and as of December 23, 1985, the converted wetland did not support woody vegetation and did not meet the hydrologic criteria for farmed wetland.
 
 (9) *Wetland,* as defined above in this section.
 
 *Wetland delineation* means outlining the boundaries of a wetland determination on aerial photography, digital imagery, other graphic representation of the area, or on the land.
 
+*Wetland hydrology* means inundation or saturation by surface or groundwater during a growing season at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation.
+
 (b) *Terms for FSA operations.* In the regulations in this part, and in all instructions, forms, and documents in connection therewith, all other words and phrases specifically relating to FSA operations shall, unless required by the subject matter or the specific provisions of this part, have the meanings assigned to them in the regulations at part 718 of this title that govern reconstitutions of farms, allotments, and bases and any subsequent amendment thereto.
 
-[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996; 76 FR 4803, Jan. 27, 2011; 80 FR 22879, Apr. 24, 2015]
+[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996; 76 FR 4803, Jan. 27, 2011; 80 FR 22879, Apr. 24, 2015; 83 FR 63050, Dec. 7, 2018]

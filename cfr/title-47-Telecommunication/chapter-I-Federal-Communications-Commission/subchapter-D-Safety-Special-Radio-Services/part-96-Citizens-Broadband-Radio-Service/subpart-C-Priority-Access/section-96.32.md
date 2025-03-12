@@ -1,5 +1,7 @@
 ##### § 96.32 Priority access assignments of authorization, transfers of control, and leasing arrangements. #####
 
+Link to an amendment published at 83 FR 63096, Dec. 7, 2018.
+
 (a) Priority Access Licensees may transfer or assign their licenses and enter into de facto leasing arrangements in accordance with part 1 of this chapter.
 
 (b) Priority Access Licensees may not partition or disaggregate their licenses or partially assign or transfer their licenses nor may they enter into de facto leasing arrangements for a portion of their licenses.

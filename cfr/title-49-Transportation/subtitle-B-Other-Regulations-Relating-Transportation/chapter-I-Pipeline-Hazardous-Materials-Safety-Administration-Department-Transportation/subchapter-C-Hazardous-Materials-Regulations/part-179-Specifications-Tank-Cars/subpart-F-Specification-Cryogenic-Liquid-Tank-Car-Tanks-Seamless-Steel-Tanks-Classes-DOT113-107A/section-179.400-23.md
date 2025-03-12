@@ -1,0 +1,3 @@
+##### § 179.400-23 Operating instructions. #####
+
+All valves and gages must be clearly identified with corrosion-resistant nameplates. A plate of corrosion-resistant material bearing precautionary instructions for the safe operation of the equipment during storage and transfer operations must be securely mounted so as to be readily visible to an operator. The instruction plate must be mounted in each housing containing operating equipment and controls for product handling. These instructions must include a diagram of the tank and its piping system with the various gages, control valves and pressure relief devices clearly identified and located.

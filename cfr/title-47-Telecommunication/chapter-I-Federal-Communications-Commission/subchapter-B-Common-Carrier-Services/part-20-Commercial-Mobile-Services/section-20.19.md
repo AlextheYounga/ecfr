@@ -1,5 +1,7 @@
 ##### § 20.19 Hearing aid-compatible mobile handsets. #####
 
+Link to an amendment published at 83 FR 63105, Dec. 7, 2018.
+
 (a) *Scope of section; definitions* - (1) *Service providers.* (i) On or after January 1, 2018 for Tier I carriers and April 1, 2018 for service providers other than Tier I carriers, the hearing aid compatibility requirements of this section apply to providers of digital mobile service in the United States to the extent that they offer terrestrial mobile service that enables two-way real-time voice communications among members of the public or a substantial portion of the public, including both interconnected and non-interconnected VoIP services, and such service is provided over frequencies in the 698 MHz to 6 GHz bands.
 
 (ii) Prior to January 1, 2018 for Tier I carriers and April 1, 2018 for service providers other than Tier I carriers, the hearing aid compatibility requirements of this section apply to providers of digital CMRS in the United States to the extent that they offer real-time, two-way switched voice or data service that is interconnected with the public switched network and utilizes an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless hand-offs of subscriber calls, and such service is provided over frequencies in the 698 MHz to 6 GHz bands.

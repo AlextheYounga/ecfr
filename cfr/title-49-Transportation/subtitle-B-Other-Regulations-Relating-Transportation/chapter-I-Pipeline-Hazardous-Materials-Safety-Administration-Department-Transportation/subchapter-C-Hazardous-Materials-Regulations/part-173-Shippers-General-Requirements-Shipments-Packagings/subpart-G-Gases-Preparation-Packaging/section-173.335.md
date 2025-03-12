@@ -1,8 +1,6 @@
 ##### § 173.335 Chemical under pressure n.o.s. #####
 
-Link to an amendment published at 83 FR 55810, Nov. 7, 2018.
-
-(a) *General requirements.* A cylinder filled with a chemical under pressure must be offered for transportation in accordance with the requirements of this section and § 172.301 of this subchapter. In addition, a DOT specification cylinder must meet the requirements in §§ 173.301a, 173.302, 173.302a, and 173.305, as applicable. UN pressure receptacles must meet the requirements in §§ 173.301b, 173.302b, and 173.304b, as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed.
+(a) *General requirements.* A cylinder filled with a chemical under pressure must be offered for transportation in accordance with the requirements of this section and § 172.301 of this subchapter. In addition, a DOT specification cylinder must meet the requirements in §§ 173.301a, 173.302, 173.302a, and 173.305, as applicable. UN pressure receptacles must meet the requirements in §§ 173.301b, 173.302b, and 173.304b as applicable. Where more than one section applies to a cylinder, the most restrictive requirements must be followed. These materials are not subject to the cylinder valve cap requirements in § 173.301(a)(11) and (12).
 
 (b) *Filling limits.* Cylinders must be filled so that at 50 °C (122 °F) the non-gaseous phase does not exceed 95% of their water capacity and they are not completely filled at 60 °C (140 °F). When filled, the internal pressure at 65 °C (149 °F) must not exceed the test pressure of the cylinder. The vapor pressures and volumetric expansion of all substances in the cylinders must be taken into account.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 83 FR 55810, Nov. 7, 2018.
 
 (d) *Periodic inspection.* The maximum requalification test period for cylinders transporting chemical under pressure n.o.s. is 5 years.
 
-[78 FR 1092, Jan. 7, 2013, as amended at 82 FR 15891, Mar. 30, 2017]
+[78 FR 1092, Jan. 7, 2013, as amended at 82 FR 15891, Mar. 30, 2017; 83 FR 55810, Nov. 7, 2018]
