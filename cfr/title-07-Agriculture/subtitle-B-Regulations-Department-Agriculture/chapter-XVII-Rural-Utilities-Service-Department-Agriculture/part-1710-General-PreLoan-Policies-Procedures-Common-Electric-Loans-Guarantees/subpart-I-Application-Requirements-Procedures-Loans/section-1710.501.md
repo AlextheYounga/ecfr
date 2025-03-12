@@ -1,7 +1,5 @@
 ##### § 1710.501 Loan application documents. #####
 
-Link to an amendment published at 86 FR 36196, July 9, 2021.
-
 (a) *All borrowers.* Borrowers may be eligible to submit their loan application via RUS' electronic application intake system instead of submitting a paper submission. Please consult your GFR in accordance with § 1710.500. All applications for electric loans shall include the documents listed in this paragraph (a).
 
 (1) *Loan application letter.* A letter signed by the borrower's manager indicating the actual corporate name, the borrowers RUS Designation, the borrowers RUS Loan Designation, and taxpayer identification number of the borrower and addressing the following items:
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 36196, July 9, 2021.
 
 (ii) The Maturity Date/Term of the Loan in number of years (useful life to determine maximum);
 
-(iii) A short description of the purpose of the loan, *i.e.,* generation, distribution, transmission, energy efficiency, etc;
+(iii) A short description of the purpose of the loan, *i.e.,* generation, distribution, transmission, energy efficiency, etc.;
 
 (iv) Method of Amortization;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 86 FR 36196, July 9, 2021.
 
 (2) *Special resolutions.* Included any special resolutions required by Federal or State Authorities and any others as identified and required by the RUS General Field Representative (for example, use of contractors, corrective action plans, etc.)
 
-(3) *RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.* This form together with its attachments lists the construction, equipment, facilities and other cost estimates from the construction work plan or engineering and cost studies. The date on page 1 of the form is the beginning date of the loan period. Form 740c also includes the following information, exhibits, and attachments:
+(3) *RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.* This form together with its attachments lists the construction, equipment, facilities, and other cost estimates from the construction work plan or engineering and cost studies. The projects and related costs, included on this form, shall be used to justify the loan amount and are not meant to be an exclusive list of those projects that could receive funds under this loan. In addition, to be included on this form, the project must have received written documentation of RUS concluding its environmental review. The advance of loan funds for projects shall be governed by 7 CFR part 1721. The date on page one (1) of the RUS Form 740c is the beginning date of the loan period. RUS Form 740c also includes the following information, exhibits, and attachments:
 
 (i) *Description of funds and materials.* This description details the availability of materials and equipment, any unadvanced funds from prior loans, and any general funds the borrower designates, to determine the amount of such materials and funds to be applied against the capital requirements estimated for the loan period.
 
@@ -164,4 +162,4 @@ Link to an amendment published at 86 FR 36196, July 9, 2021.
 
 (g) *Interest rate category.* For pending loans, RUS will promptly notify the borrower if its eligibility for an interest rate category changes pursuant to new information from the Department of Energy or the Bureau of the Census. See 7 CFR part 1714.
 
-(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32613, July 9, 2019]
+(Approved by the Office of Management and Budget under control numbers 0572-0017, 0572-0032 and 0572-1013)[60 FR 3731, Jan. 19, 1995. Redesignated at 78 FR 73366, Dec. 5, 2013, as amended at 79 FR 76002, Dec. 19, 2014; 81 FR 11026, Mar. 2, 2016; 84 FR 32613, July 9, 2019; 86 FR 36196, July 9, 2021]

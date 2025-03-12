@@ -1,7 +1,5 @@
 ##### § 1717.154 Transitional assistance in connection with new loans. #####
 
-Link to an amendment published at 86 FR 36197, July 9, 2021.
-
 Requests for transitional assistance in connection with new loans may be submitted to RUS no later than the loan application.
 
 (a) *Loan processing priority.* (1) RUS loans are generally processed in chronological order based on the date the complete application is received in the regional or division office. At the borrower's request, RUS may offer loan processing priority for the first loan to a successor, provided that the loan is approved by RUS not later than 5 years after the effective date of the merger. In considering the request, the Administrator will take into account, among other factors, the amount of the loan application, whether there is a significant backlog in pending loan applications, the impact that loan priority would have on the backlog, the savings and efficiencies to be realized from the merger and the relative importance of loan priority to facilitating the merger. The Administrator may, in his or her sole discretion, grant or decline to grant priority, or grant priority for a limited amount of the loan application while deferring for later consideration the remainder of the application.
@@ -18,7 +16,7 @@ Requests for transitional assistance in connection with new loans may be submitt
 
 (ii) At least one of the merging parties is an active distribution borrower, all merging parties are either active distribution borrowers or former distribution borrowers, *and* the merger is effective after December 19, 1996.
 
-(c) *Reimbursement of general funds and interim financing.* (1) Borrowers may request RUS loan funds to reimburse general funds and/or interim financing used to finance equipment and facilities included in a RUS approved construction work plan or amendment if the construction was completed immediately preceding the current loan period. This reimbursement period is generally limited to 24 months. See 7 CFR 1710.109. RUS may, in connection with the first RUS loan approved after the effective date, approve a reimbursement period of up to 48 months prior to the current loan period if the loan is approved not later than 5 years after the effective date. In reviewing requests for this longer reimbursement period, RUS will consider the stresses that the transaction and other costs of entering into the merger places on the borrower's rates and cash flows, and the mitigating effects of more generous reimbursement.
+(c) *Reimbursement of general funds and interim financing.* (1) Borrowers may request RUS loan funds to reimburse general funds and/or interim financing used to finance equipment and facilities included in a RUS approved construction work plan or amendment if the construction was completed immediately preceding the current loan period. This reimbursement period is generally limited to 48 months. See 7 CFR 1710.109. RUS may, in connection with the first RUS loan approved after the effective date, approve a reimbursement period of up to 48 months prior to the current loan period if the loan is approved not later than 5 years after the effective date. In reviewing requests for this longer reimbursement period, RUS will consider the stresses that the transaction and other costs of entering into the merger places on the borrower's rates and cash flows, and the mitigating effects of more generous reimbursement.
 
 (2) A longer reimbursement period may be available if:
 
@@ -26,4 +24,4 @@ Requests for transitional assistance in connection with new loans may be submitt
 
 (ii) At least one of the merging parties is an active distribution borrower, all merging parties are either active distribution borrowers of former distribution borrowers, *and* the merger is effective after December 19, 1996.
 
-[61 FR 66871, Dec. 19, 1996, as amended at 67 FR 58322, Sept. 16, 2002]
+[61 FR 66871, Dec. 19, 1996, as amended at 67 FR 58322, Sept. 16, 2002; 86 FR 36197, July 9, 2021]

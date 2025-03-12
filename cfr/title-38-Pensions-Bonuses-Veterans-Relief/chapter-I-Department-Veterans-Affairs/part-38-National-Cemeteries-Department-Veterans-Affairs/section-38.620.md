@@ -1,7 +1,5 @@
 ##### § 38.620 Persons eligible for burial. #####
 
-Link to an amendment published at 86 FR 43098, Aug. 6, 2021.
-
 The following is a list of those individuals who are eligible for burial in a national cemetery:
 
 (a) Any veteran (which for purposes of this section includes a person who died in the active military, naval, or air service).
@@ -70,4 +68,14 @@ The following is a list of those individuals who are eligible for burial in a na
 
 (4) Parent burial eligibility is subject to a determination by the Secretary that there is available space within the veteran's gravesite.
 
-(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012]
+(j) Any individual who:
+
+(1) Was naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000 (Pub. L. 106-207, 114 Stat. 316; 8 U.S.C. 1423 note); and
+
+(2) At the time of the individual's death resided in the United States; and
+
+(3) Died on or after March 23, 2018.
+
+(k) The spouse, minor child, and unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024. Paragraphs (e)(2) and (3) of this section provide the applicable definitions for “minor child” and “unmarried adult child.”
+
+(Authority: 38 U.S.C. 107, 501, 2402)[70 FR 4769, Jan. 31, 2005, as amended at 77 FR 4678, Jan. 31, 2012; 86 FR 43098, Aug. 6, 2021]

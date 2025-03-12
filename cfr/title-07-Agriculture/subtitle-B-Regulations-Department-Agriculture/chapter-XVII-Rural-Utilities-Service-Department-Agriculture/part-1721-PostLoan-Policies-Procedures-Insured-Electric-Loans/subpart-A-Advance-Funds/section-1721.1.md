@@ -1,8 +1,6 @@
 ##### § 1721.1 Advances. #####
 
-Link to an amendment published at 86 FR 36197, July 9, 2021.
-
-(a) *Purpose and amount.* With the exception of minor projects, loan funds will be advanced only for projects which are included in an RUS approved construction work plan (CWP), EE Program work plan (EEWP), or approved amendment, and in an approved loan as amended. Loan fund advances can be requested in an amount representing actual costs incurred.
+(a) *Purpose and amount.* With the exception of minor projects which are addressed in paragraph (b) of this section and generation projects which need to be included on a RUS Form 740c or an amendment to a RUS Form 740c, loan funds will be advanced for projects which are included in a RUS approved construction work plan (CWP), Energy Efficiency and Conservation Program work plan (EEWP), or approved amendment to either, have received written documentation of RUS concluding its environmental reviews and have complied with all Contracting and Bidding Procedures included in 7 CFR part 1726. Loan fund advances can be requested in an amount representing actual costs incurred.
 
 (b) *Minor project.* Minor project means a project costing $100,000 or less. Such a project qualifies for advance of loan funds even though it may not have been included in an RUS-approved borrower's CWP, amendment to such CWP, or approved loan. Total advances requested shall not exceed the total loan amount. All projects for which loan fund advances are requested must be constructed to achieve purposes permitted by terms of the loan contract between the borrower and RUS.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 86 FR 36197, July 9, 2021.
 
 (d) *Noncompliance.* Where insured loan funds are found to have been advanced in noncompliance with this section, borrowers will be required to deposit the appropriate amount of the over-advance in the construction fund-trustee account and pay any accrued and unpaid interest to RUS. The Administrator will require borrowers, in order to remedy such noncompliance, to pay an additional amount equal to the interest on the funds over-advanced for the period such funds were outstanding, calculated at a rate equal to the difference between the RUS loan interest rate and the most recent rate at which RUS sold Certificates of Beneficial Ownership (CBO's). While RUS will generally permit the amount of over-advance deposited in the construction fund-trustee account to be subsequently used by the borrower for RUS approved projects, nothing in this section shall be construed to preclude RUS from exercising any rights or remedies which RUS may have pursuant to the loan contract.
 
-[64 FR 72489, Dec. 28, 1999, as amended at 78 FR 73370, Dec. 5, 2013; 81 FR 11026, Mar. 2, 2016]
+[64 FR 72489, Dec. 28, 1999, as amended at 78 FR 73370, Dec. 5, 2013; 81 FR 11026, Mar. 2, 2016; 86 FR 36197, July 9, 2021]

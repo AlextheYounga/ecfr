@@ -1,16 +1,14 @@
 ##### § 38.633 Group memorial monuments. #####
 
-Link to an amendment published at 86 FR 43102, Aug. 6, 2021.
-
 (a) *Definitions of terms.* For the purpose of this section, the following definitions apply:
 
-(1) *Group* - all the known and unknown dead who perished in a common military event.
+(1) *Group*—all the known and unknown dead who perished in a common military event.
 
-(2) *Memorial Monument* - a monument commemorating veterans, whose remains have not been recovered or identified. Monuments will be selected in accordance with policies established under 38 CFR 38.630.
+(2) *Memorial Monument*—a monument commemorating veterans, whose remains have not been recovered or identified.
 
-(3) *Next of kin* - recognized in order: Surviving spouse; children, according to age; parents, including adoptive, stepparents, and foster parents; brothers or sisters, including half or stepbrothers and stepsisters; grandparents; grandchildren; uncles or aunts; nephews or nieces; cousins; and/or other lineal descendent.
+(3) *Next of kin*—recognized in order: Surviving spouse; children, according to age; parents, including adoptive, stepparents, and foster parents; brothers or sisters, including half or stepbrothers and stepsisters; grandparents; grandchildren; uncles or aunts; nephews or nieces; cousins; and/or other lineal descendent.
 
-(4) *Documentary evidence* - Official documents, records, or correspondence signed by an Armed Services branch historical center representative attesting to the accuracy of the evidence.
+(4) *Documentary evidence*—Official documents, records, or correspondence signed by an Armed Services branch historical center representative attesting to the accuracy of the evidence.
 
 (b) The Secretary may furnish at government expense a group memorial monument upon request of next of kin. The group memorial monument will commemorate two or more identified members of the Armed Forces, including their reserve components, who died in a sanctioned common military event, (e.g., battle or other hostile action, bombing or other explosion, disappearance of aircraft, vessel or other vehicle) while in active military, naval or air service, and whose remains were not recovered or identified, were buried at sea, or are otherwise unavailable for interment.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 86 FR 43102, Aug. 6, 2021.
 
 (d) Application for a group memorial monument shall be submitted in a manner specified by the Secretary. Evidence used to establish and determine eligibility for a group memorial monument will conform to paragraph (a)(4) of this section.
 
-(Authority: 38 U.S.C. 501, 2403)
+(Authority: 38 U.S.C. 501, 2403)[70 FR 4769, Jan. 31, 2005, as amended at 86 FR 43102, Aug. 6, 2021]

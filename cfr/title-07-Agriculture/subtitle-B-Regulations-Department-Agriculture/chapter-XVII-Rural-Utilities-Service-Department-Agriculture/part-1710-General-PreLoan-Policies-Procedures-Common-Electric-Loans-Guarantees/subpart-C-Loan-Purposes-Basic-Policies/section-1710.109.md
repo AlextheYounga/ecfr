@@ -1,21 +1,11 @@
 ##### § 1710.109 Reimbursement of general funds and interim financing. #####
 
-Link to an amendment published at 86 FR 36196, July 9, 2021.
-
 (a) Borrowers may request that a loan include funds to reimburse general funds and/or replace interim financing used to finance equipment and facilities that were included in an RUS-approved construction work plan, energy efficiency and conservation program work plan, work plan amendment or other RUS-approved plan, and for which loan funds have not been provided by RUS. Such reimbursement and/or replacement of interim financing may include the direct costs of procurement and construction, as well as the related cost of engineering, architectural, environmental and other studies and plans needed to support the project, when such cost is capitalized as part of the cost of the facilities.
 
 (b) If procurement and/or construction of the equipment and facilities was completed prior to the current loan period, reimbursement, including replacement of interim financing, will be limited, except in cases of extreme financial hardship as determined by the Administrator, to the cost of procurement and construction completed during the period immediately preceding the current loan period, as specified in paragraph (c) of this section. As defined in § 1710.2, the loan period begins on the date shown on page 1 of RUS Form 740c, Cost Estimates and Loan Budget for Electric Borrowers.
 
-(c)(1) The period immediately preceding the current loan period for which reimbursement and replacement of interim financing is authorized under paragraph (b) of this section is as follows:
-
-(i) The number of months agreed to by RUS and the borrower for complete loan applications received by RUS before February 10, 1992;
-
-(ii) 36 months for complete loan applications received from February 10, 1992 through February 10, 1993; or
-
-(iii) 24 months for complete loan applications received after February 10, 1993.
-
-(2) Policies for reimbursement of general funds and interim financing following certain mergers, consolidations, and transfers of systems substantially in their entirety are set forth in 7 CFR 1717.154.
+(c) The period immediately preceding the current loan period for which reimbursement and replacement of interim financing is authorized under paragraph (b) of this section is 48 months. Policies for reimbursement of general funds and interim financing following certain mergers, consolidations, and transfers of systems substantially in their entirety are set forth in 7 CFR 1717.154.
 
 (d) If the reimbursement of general funds and/or replacement of interim financing is for approved expenditures for equipment and facilities whose procurement and/or construction is completed during the current loan period, the time limits of paragraph (c) of this section do not apply.
 
-[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 61 FR 66870, Dec. 19, 1996; 78 FR 73366, Dec. 5, 2013]
+[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 61 FR 66870, Dec. 19, 1996; 78 FR 73366, Dec. 5, 2013; 86 FR 36196, July 9, 2021]

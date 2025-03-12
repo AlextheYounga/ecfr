@@ -34,7 +34,7 @@
 
 (b) *Testing using one or more licensed, approved, or cleared screening tests.* To perform testing for evidence of infection due to relevant transfusion-transmitted infections as required in paragraph (a) of this section, you must use screening tests that FDA has licensed, approved, or cleared for such use, in accordance with the manufacturer's instructions. You must perform one or more such tests as necessary to reduce adequately and appropriately the risk of transmission of relevant transfusion-transmitted infections.
 
-(c) *Exceptions to testing for dedicated donations, medical devices, and samples.* - (1) *Dedicated donations.* (i) You must test donations of human blood and blood components from a donor whose donations are dedicated to and used solely by a single identified recipient under paragraphs (a), (b), and (e) of this section; except that, if the donor makes multiple donations for a single identified recipient, you may perform such testing only on the first donation in each 30-day period. If an untested dedicated donation is made available for any use other than transfusion to the single, identified recipient, then this exemption from the testing required under this section no longer applies.
+(c) *Exceptions to testing for dedicated donations, medical devices, and samples.*—(1) *Dedicated donations.* (i) You must test donations of human blood and blood components from a donor whose donations are dedicated to and used solely by a single identified recipient under paragraphs (a), (b), and (e) of this section; except that, if the donor makes multiple donations for a single identified recipient, you may perform such testing only on the first donation in each 30-day period. If an untested dedicated donation is made available for any use other than transfusion to the single, identified recipient, then this exemption from the testing required under this section no longer applies.
 
 (ii) Each donation must be labeled as required under § 606.121 of this chapter and with a label entitled “INTENDED RECIPIENT INFORMATION LABEL” containing the name and identifying information of the recipient. Each donation must also have the following label, as appropriate:
 
@@ -84,7 +84,7 @@
 
 (2) For further manufacturing use as approved in writing by FDA.
 
-(h) *Restrictions on shipment or use* - (1) *Reactive screening test.* You must not ship or use human blood or blood components that have a reactive screening test for evidence of infection due to relevant transfusion-transmitted infection(s) designated in paragraph (a) of this section or that are collected from a donor with a previous record of a reactive screening test for evidence of infection due to relevant transfusion-transmitted infection(s) designated in paragraph (a) of this section, except as provided in paragraphs (h)(2)(i) through (h)(2)(vii) of this section.
+(h) *Restrictions on shipment or use*—(1) *Reactive screening test.* You must not ship or use human blood or blood components that have a reactive screening test for evidence of infection due to relevant transfusion-transmitted infection(s) designated in paragraph (a) of this section or that are collected from a donor with a previous record of a reactive screening test for evidence of infection due to relevant transfusion-transmitted infection(s) designated in paragraph (a) of this section, except as provided in paragraphs (h)(2)(i) through (h)(2)(vii) of this section.
 
 (2) *Exceptions.* (i) You may ship or use blood or blood components intended for autologous use, including reactive donations, as described in paragraph (d) of this section.
 
@@ -117,6 +117,6 @@
 
 (vi) You may use human blood or blood components, excluding Source Plasma, that test reactive by a screening test for syphilis as required under paragraph (a) of this section if, the donation is further tested by an adequate and appropriate test which demonstrates that the reactive screening test is a biological false positive. You must label the blood or blood components with both test results.
 
-(vii) You may use Source Plasma from a donor who tests reactive by a screening test for syphilis as required under § 640.65(a)(2)(ii) and (b)(1)(i) of this chapter, if the donor meets the requirements of § 640.65(b)(2)(i) through (b)(2)(iv) of this chapter.
+(vii) You may use Source Plasma from a donor who tests reactive by a screening test for syphilis as required under § 640.65(b)(1)(i) of this chapter, if the donor meets the requirements of § 640.65(b)(2)(ii) through (iv) of this chapter.
 
-[66 FR 31162, June 11, 2001, as amended at 77 FR 18, Jan. 3, 2012; 80 FR 29896, May 22, 2015]
+[66 FR 31162, June 11, 2001, as amended at 77 FR 18, Jan. 3, 2012; 80 FR 29896, May 22, 2015; 86 FR 49922, July 9, 2021]

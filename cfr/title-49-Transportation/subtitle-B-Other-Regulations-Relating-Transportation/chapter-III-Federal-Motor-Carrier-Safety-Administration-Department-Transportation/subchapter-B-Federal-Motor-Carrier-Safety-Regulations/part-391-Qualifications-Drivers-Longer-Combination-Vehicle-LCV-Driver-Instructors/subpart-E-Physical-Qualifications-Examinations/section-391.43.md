@@ -1,7 +1,5 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
-Link to an amendment published at 86 FR 35643, July 7, 2021.
-
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) Exceptions:
@@ -20,9 +18,9 @@ Link to an amendment published at 86 FR 35643, July 7, 2021.
 
 (e) Any driver operating under a limited exemption authorized by § 391.64 shall furnish the medical examiner with a copy of the annual medical findings of the ophthalmologist or optometrist, as required under § 391.64. If the medical examiner finds the driver qualified under the limited exemption in § 391.64, such fact shall be noted on the Medical Examiner's Certificate.
 
-(f) The medical examination shall be performed, and its results shall be recorded on the Medical Examination Report Form, MCSA-5875, set out below:
+(f) The medical examination shall be performed, and its results shall be recorded on the Medical Examination Report Form, MCSA-5875, set out in this paragraph (f):
 
-![](/graphics/er04oc16.141.gif)![](/graphics/er04oc16.142.gif)![](/graphics/er04oc16.143.gif)![](/graphics/er04oc16.144.gif)![](/graphics/er04oc16.145.gif)![](/graphics/er04oc16.146.gif)![](/graphics/er04oc16.147.gif)![](/graphics/er04oc16.148.gif)![](/graphics/er04oc16.149.gif)
+![](/graphics/er07jy21.077.gif)![](/graphics/er07jy21.078.gif)![](/graphics/er07jy21.079.gif)![](/graphics/er07jy21.080.gif)![](/graphics/er07jy21.081.gif)![](/graphics/er07jy21.082.gif)![](/graphics/er07jy21.083.gif)![](/graphics/er07jy21.084.gif)![](/graphics/er07jy21.085.gif)
 
 (g) Upon completion of the medical examination required by this subpart:
 

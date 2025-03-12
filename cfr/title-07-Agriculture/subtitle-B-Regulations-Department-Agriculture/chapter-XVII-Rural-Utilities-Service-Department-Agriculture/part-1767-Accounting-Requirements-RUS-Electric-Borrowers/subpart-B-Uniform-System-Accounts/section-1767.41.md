@@ -1,7 +1,5 @@
 ##### § 1767.41 Accounting methods and procedures required of all RUS borrowers. #####
 
-Link to an amendment published at 86 FR 36199, July 9, 2021.
-
 All RUS borrowers shall maintain and keep their books of accounts and all other books and records which support the entries in such books of accounts in accordance with the accounting principles prescribed in this section. Interpretations Nos. 133, 134, 137, 403, 404, 602, 606, 618, 627, 628, and 629 adopt and implement the provisions of standards issued by the Financial Accounting Standards Board (FASB). Each interpretation includes a synopsis of the requirements of the standard as well as specific accounting requirements and interpretations required by RUS. The synopsis provides general information to assist borrowers in determining whether the standard applies to an individual cooperative's operations. The synopsis is not intended to change the requirements of the FASB standards unless it is set forth in the section entitled RUS Accounting Requirements in each interpretation. If a particular borrower believes a conflict exists between the FASB standard and an RUS interpretation, the borrower shall contact the Director, PASD, to seek resolution of the issue.
 
 Numerical Index
@@ -493,9 +491,21 @@ Load control equipment shall be recorded in separate subaccounts of the primary 
 
 119 Special Equipment
 
-Special Equipment items are classified as such because they are continually being moved from one location to another due to load changes and maintenance practices. The USoA provides accounting that differs from that used for other types of materials. The cost, new, of special equipment items shall be capitalized at the time of purchase; it shall not be charged to Account 154 as is the case with other materials. The first installation cost, as well as all incidental costs necessary to prepare the equipment for use, shall be capitalized with the material upon purchase. All subsequent costs of removing, resetting, changing, renewing oil, and repairing constitute operations and maintenance expenses. The capitalized cost of special equipment items, including the first installation, shall be removed from the electric plant accounts only when the items are abandoned or retired from the system.
+Special Equipment items are classified separately from work order items. The USoA provides accounting that differs from that used for other types of materials. The cost of new, special equipment items shall be capitalized at the time of purchase; it shall not be charged to Account 154 as is the case with other materials. The first installation cost, as well as all incidental costs necessary to prepare the equipment for use, shall be capitalized with the material upon purchase. All subsequent costs of removing, resetting, changing, renewing oil, and repairing constitute operations and maintenance expenses. The capitalized cost of special equipment items, including the first installation, shall be removed from the electric plant accounts only when the items are abandoned or retired from the system. Borrowers may request a waiver from the special equipment accounting requirements as described later in this section.
 
-Meters, line-type transformers, oil circuit reclosers, sectionalizers, current and potential transformers, meter sockets, and other metering equipment listed in Account 370, Meters, as well as pole-type and underground voltage regulators in Account 368, Line Transformers, are considered to be special equipment items. Similarly, load control receivers (load control switches) recorded in Account 371, Installations on Customers' Premises, are considered to be items of special equipment. (*See* Interpretation No. 118.) Transformers, voltage regulators, metering equipment, and current and potential transformers for substations are not.
+Special Equipment Items include the following:
+
+1. Reclosers and Sectionalizers recorded in Account 365, Conductor and Devices
+
+2. Transformers, Capacitors and Voltage Regulators recorded in Account 368, Line Transformers
+
+3. Meters, Meter Sockets, current and potential transformers, and other metering equipment recorded in Account 379, Meters
+
+4. Load Control Devices recorded in Account 371, Installations on Customers' Premises (See Interpretation No. 118)
+
+Note:
+
+Equipment installed in a substation is not considered special equipment.
 
 Special equipment items which are classified as nonusable shall be segregated in the warehouse and retired from service. The Summary of Special Equipment Costs shall be retitled Summary of Special Equipment Costs Retired and used for this purpose. A journal entry reflecting this information shall be prepared and posted to the books. Since loan funds for special equipment, including first installation costs, are approved for advance by the Rural Development upon receipt of the borrower's written estimate of funds required, and not on the basis of an Inventory of Work Orders, it is improper to take a credit for any salvage involved in the retirement of special equipment on the Inventory of Work Orders.
 
@@ -2031,4 +2041,4 @@ Previously, Rural Development required that the balance in the cushion of credit
 
 For purposes of the audited financial statements, presentation of the balance of the cushion of credit account as a long-term investment is an acceptable alternative to Rural Development.
 
-[58 FR 59825, Nov. 10, 1993, as amended at 59 FR 27436, May 27, 1994; 60 FR 55430, 55435, Nov. 1, 1995; 62 FR 42319, 42323, 42330, Aug. 6, 1997; 73 FR 30288, May 27, 2008]
+[58 FR 59825, Nov. 10, 1993, as amended at 59 FR 27436, May 27, 1994; 60 FR 55430, 55435, Nov. 1, 1995; 62 FR 42319, 42323, 42330, Aug. 6, 1997; 73 FR 30288, May 27, 2008; 86 FR 36199, July 9, 2021]

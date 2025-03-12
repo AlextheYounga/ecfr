@@ -1,12 +1,10 @@
 ##### § 1717.616 Sale, lease, or transfer of capital assets. #####
 
-Link to an amendment published at 86 FR 36197, July 9, 2021.
-
-A distribution borrower may without the prior approval of RUS sell, lease, or transfer any capital asset if the following conditions are met:
+A borrower may, without the prior approval of RUS, sell, lease, or transfer any capital asset if the following conditions are met:
 
 (a) The borrower is not in default;
 
-(b) In the most recent year for which data are available, the borrower achieved a TIER of at least 1.25, DSC of at least 1.25, OTIER of at least 1.1, and ODSC of at least 1.1 in each case based on the average or the best 2 out of the 3 most recent years;
+(b) In the most recent year for which data is available, the borrower has met its coverage ratios as set in 7 CFR part 1710.114(b) or other financial requirements as established by their Mortgages, Loan Contracts, and/or other Security Agreements;
 
 (c) The sale, lease, or transfer of assets will not reduce the borrower's existing or future requirements for energy or capacity being furnished to the borrower under any wholesale power contract which has been pledged as security to the government;
 
@@ -22,4 +20,4 @@ A distribution borrower may without the prior approval of RUS sell, lease, or tr
 
 (3) Applied to the acquisition of construction of utility plant.
 
-[60 FR 67405, Dec. 29, 1995, as amended at 65 FR 51748, Aug. 25, 2000]
+[60 FR 67405, Dec. 29, 1995, as amended at 65 FR 51748, Aug. 25, 2000; 86 FR 36197, July 9, 2021]
