@@ -1,5 +1,7 @@
 ##### § 73.8000 Incorporation by reference. #####
 
+Link to an amendment published at 83 FR 5026, Feb. 2, 2018.
+
 (a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. The materials are available for inspection at the Federal Communications Commission (FCC), 445 12th St., SW., Reference Information Center, Room CY-A257, Washington, DC 20554 and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The following materials are available from Advanced Television Systems Committee (ATSC), 1776 K Street NW., 8th Floor, Washington, DC 20006; or at the ATSC Web site: *http://www.atsc.org/standards.html.*

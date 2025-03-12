@@ -1,5 +1,7 @@
 ##### § 73.682 TV transmission standards. #####
 
+Link to an amendment published at 83 FR 5022, Feb. 2, 2018.
+
 (a) *Transmission standards.* (1) The width of the television broadcast channel shall be 6 MHz.
 
 (2) The visual carrier frequency shall be nominally 1.25 MHz above the lower boundary of the channel.

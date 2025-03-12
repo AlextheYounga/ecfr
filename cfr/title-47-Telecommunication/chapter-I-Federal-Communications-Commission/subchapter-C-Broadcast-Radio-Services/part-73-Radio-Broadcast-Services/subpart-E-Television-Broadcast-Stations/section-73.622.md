@@ -1631,7 +1631,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |     Ishpeming      |                        10                         |
 |      Jackson       |                        34                         |
 |     Kalamazoo      |                    \*5, 8, 45                     |
-|      Lansing       |                    36, 38, 25                     |
+|      Lansing       |                    25, 36, 38                     |
 |      Manistee      |                       \*21                        |
 |     Marquette      |                   \*13, 19, 35                    |
 |   Mount Clemens    |                        39                         |
@@ -1688,7 +1688,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |      Hannibal      |                         7                         |
 |   Jefferson City   |                      12, 20                       |
 |       Joplin       |                   \*25, 43, 46                    |
-|    Kansas City     |         \*18, 24, 29, 31, 34, 42, 47, 30          |
+|    Kansas City     |         \*18, 24, 29, 30, 31, 34, 42, 47          |
 |     Kirksville     |                        33                         |
 |    Osage Beach     |                        49                         |
 |    Poplar Bluff    |                        15                         |
@@ -2005,7 +2005,7 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |    Lake Dallas     |                        39                         |
 |       Laredo       |                     8, 13, 19                     |
 |       Llano        |                        27                         |
-|      Longview      |                      31, 26                       |
+|      Longview      |                      26, 31                       |
 |      Lubbock       |             11, 16, 27, 35, \*39, 40              |
 |       Lufkin       |                         9                         |
 |      Mcallen       |                        49                         |

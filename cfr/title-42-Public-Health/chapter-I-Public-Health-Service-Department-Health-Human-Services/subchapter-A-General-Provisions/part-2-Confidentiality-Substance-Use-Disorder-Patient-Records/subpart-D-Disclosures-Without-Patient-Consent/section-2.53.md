@@ -1,18 +1,16 @@
 ##### § 2.53 Audit and evaluation. #####
 
-Link to an amendment published at 83 FR 252, Jan. 3, 2018.
-
-(a) *Records not copied or removed.* If patient records are not downloaded, copied or removed from the part 2 program premises or forwarded electronically to another electronic system or device, patient identifying information, as defined in § 2.11, may be disclosed in the course of a review of records on the part 2 program premises to any individual or entity who agrees in writing to comply with the limitations on re-disclosure and use in paragraph (d) of this section and who:
+(a) *Records not copied or removed.* If patient records are not downloaded, copied or removed from the premises of a part 2 program or other lawful holder, or forwarded electronically to another electronic system or device, patient identifying information, as defined in § 2.11, may be disclosed in the course of a review of records on the premises of a part 2 program or other lawful holder to any individual or entity who agrees in writing to comply with the limitations on re-disclosure and use in paragraph (d) of this section and who:
 
 (1) Performs the audit or evaluation on behalf of:
 
-(i) Any federal, state, or local government agency which provides financial assistance to the part 2 program or is authorized by law to regulate its activities; or
+(i) Any federal, state, or local governmental agency that provides financial assistance to a part 2 program or other lawful holder, or is authorized by law to regulate the activities of the part 2 program or other lawful holder;
 
-(ii) Any individual or entity who provides financial assistance to the part 2 program, which is a third-party payer covering patients in the part 2 program, or which is a quality improvement organization performing a utilization or quality control review; or
+(ii) Any individual or entity which provides financial assistance to the part 2 program or other lawful holder, which is a third-party payer covering patients in the part 2 program, or which is a quality improvement organization performing a utilization or quality control review, or such individual's or entity's or quality improvement organization's contractors, subcontractors, or legal representatives.
 
-(2) Is determined by the part 2 program to be qualified to conduct an audit or evaluation of the part 2 program.
+(2) Is determined by the part 2 program or other lawful holder to be qualified to conduct an audit or evaluation of the part 2 program or other lawful holder.
 
-(b) *Copying, removing, downloading, or forwarding patient records.* Records containing patient identifying information, as defined in § 2.11, may be copied or removed from a part 2 program premises or downloaded or forwarded to another electronic system or device from the part 2 program's electronic records by any individual or entity who:
+(b) *Copying, removing, downloading, or forwarding patient records.* Records containing patient identifying information, as defined in § 2.11, may be copied or removed from the premises of a part 2 program or other lawful holder or downloaded or forwarded to another electronic system or device from the part 2 program's or other lawful holder's electronic records by any individual or entity who:
 
 (1) Agrees in writing to:
 
@@ -24,9 +22,9 @@ Link to an amendment published at 83 FR 252, Jan. 3, 2018.
 
 (2) Performs the audit or evaluation on behalf of:
 
-(i) Any federal, state, or local government agency which provides financial assistance to the part 2 program or is authorized by law to regulate its activities; or
+(i) Any federal, state, or local governmental agency that provides financial assistance to the part 2 program or other lawful holder, or is authorized by law to regulate the activities of the part 2 program or other lawful holder; or
 
-(ii) Any individual or entity who provides financial assistance to the part 2 program, which is a third-party payer covering patients in the part 2 program, or which is a quality improvement organization performing a utilization or quality control review.
+(ii) Any individual or entity which provides financial assistance to the part 2 program or other lawful holder, which is a third-party payer covering patients in the part 2 program, or which is a quality improvement organization performing a utilization or quality control review, or such individual's or entity's or quality improvement organization's contractors, subcontractors, or legal representatives.
 
 (c) *Medicare, Medicaid, Children's Health Insurance Program (CHIP), or related audit or evaluation.* (1) Patient identifying information, as defined in § 2.11, may be disclosed under paragraph (c) of this section to any individual or entity for the purpose of conducting a Medicare, Medicaid, or CHIP audit or evaluation, including an audit or evaluation necessary to meet the requirements for a Centers for Medicare & Medicaid Services (CMS)-regulated accountable care organization (CMS-regulated ACO) or similar CMS-regulated organization (including a CMS-regulated Qualified Entity (QE)), if the individual or entity agrees in writing to comply with the following:
 
@@ -62,8 +60,10 @@ Link to an amendment published at 83 FR 252, Jan. 3, 2018.
 
 (4) Program, as defined in § 2.11, includes an employee of, or provider of medical services under the program when the employee or provider is the subject of a civil investigation or administrative remedy, as those terms are used in paragraph (c)(2) of this section.
 
-(5) If a disclosure to an individual or entity is authorized under this section for a Medicare, Medicaid, or CHIP audit or evaluation, including a civil investigation or administrative remedy, as those terms are used in paragraph (c)(2) of this section, then a quality improvement organization which obtains the information under paragraph (a) or (b) of this section may disclose the information to that individual or entity but only for the purpose of conducting a Medicare, Medicaid, or CHIP audit or evaluation.
+(5) If a disclosure to an individual or entity is authorized under this section for a Medicare, Medicaid, or CHIP audit or evaluation, including a civil investigation or administrative remedy, as those terms are used in paragraph (c)(2) of this section, the individual or entity may further disclose the patient identifying information that is received for such purposes to its contractor(s), subcontractor(s), or legal representative(s), to carry out the audit or evaluation, and a quality improvement organization which obtains such information under paragraph (a) or (b) of this section may disclose the information to that individual or entity (or, to such individual's or entity's contractors, subcontractors, or legal representatives, but only for the purposes of this section).
 
 (6) The provisions of this paragraph do not authorize the part 2 program, the federal, state, or local government agency, or any other individual or entity to disclose or use patient identifying information obtained during the audit or evaluation for any purposes other than those necessary to complete the audit or evaluation as specified in paragraph (c) of this section.
 
-(d) *Limitations on disclosure and use.* Except as provided in paragraph (c) of this section, patient identifying information disclosed under this section may be disclosed only back to the program from which it was obtained and used only to carry out an audit or evaluation purpose or to investigate or prosecute criminal or other activities, as authorized by a court order entered under § 2.66.
+(d) Limitations on disclosure and use. Except as provided in paragraph (c) of this section, patient identifying information disclosed under this section may be disclosed only back to the part 2 program or other lawful holder from which it was obtained and may be used only to carry out an audit or evaluation purpose or to investigate or prosecute criminal or other activities, as authorized by a court order entered under § 2.66.
+
+[82 FR 6115, Jan. 18, 2017, as amended at 83 FR 252, Jan. 3, 2018]
