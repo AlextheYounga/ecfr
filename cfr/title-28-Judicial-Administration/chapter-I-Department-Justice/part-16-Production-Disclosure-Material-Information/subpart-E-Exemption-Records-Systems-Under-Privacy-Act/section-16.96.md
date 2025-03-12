@@ -1,5 +1,7 @@
 ##### § 16.96 Exemption of Federal Bureau of Investigation Systems - limited access. #####
 
+Link to an amendment published at 85 FR 37750, June 24, 2020.
+
 (a) The following system of records is exempt from 5 U.S.C. 552a(c)(3), (d), (e)(1), (e)(2), (e)(3), (e)(4)(G) and (H), (e)(5), (e)(8), (f) and (g):
 
 (1) Central Records System (CRS) (JUSTICE/FBI-002).

@@ -2,7 +2,7 @@
 
 (a) The statutory requirements of section 4(f)(4) and section 203(c) regarding minority language material and assistance are essentially identical.
 
-(b) Jurisdictions subject to the requirements of section 4(f)(4) - but not jurisdictions subject only to the requirements of section 203(c) - are also subject to the Act's special provisions, such as section 5 (regarding preclearance of changes in voting laws) and section 8 (regarding federal observers).2/\> See part 51 of this chapter.
+(b) Jurisdictions subject to the requirements of section 4(f)(4)—but not jurisdictions subject only to the requirements of section 203(c)—are also subject to the Act's special provisions, such as section 5 (regarding preclearance of changes in voting laws) and section 8 (regarding federal observers).2 See part 51 of this chapter.
 
 2 In addition, a jurisdiction covered under section 203(c) but not under section 4(f)(4) is subject to the Act's special provisions if it was covered under section 4(b) prior to the 1975 Amendments to the Act.
 

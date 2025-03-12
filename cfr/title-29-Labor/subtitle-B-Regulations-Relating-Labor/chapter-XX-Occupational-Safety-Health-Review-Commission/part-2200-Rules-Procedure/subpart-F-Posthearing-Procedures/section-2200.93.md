@@ -28,4 +28,4 @@
 
 (i) *Brief of an amicus curiae.* The Commission may allow a brief of an amicus curiae pursuant to the criteria and time period set forth in § 2200.24. Any brief of an amicus curiae must meet the requirements of paragraphs (b) through (h) of this section. No reply brief of an amicus curiae will be received.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]

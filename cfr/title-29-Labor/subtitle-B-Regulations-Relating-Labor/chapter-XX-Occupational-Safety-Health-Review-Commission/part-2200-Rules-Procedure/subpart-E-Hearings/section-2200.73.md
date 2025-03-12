@@ -10,14 +10,14 @@
 
 (c) *Denial without prejudice.* The Commission's decision not to grant a petition for interlocutory review shall not preclude a party from raising an objection to the Judge's interlocutory ruling in a petition for discretionary review.
 
-(d) *Stay* - (1) *Trade secret matters.* The filing of a petition for interlocutory review of a Judge's ruling concerning an alleged trade secret shall stay the effect of the ruling until the petition is deemed denied or ruled upon.
+(d) *Stay*—(1) *Trade secret matters.* The filing of a petition for interlocutory review of a Judge's ruling concerning an alleged trade secret shall stay the effect of the ruling until the petition is deemed denied or ruled upon.
 
 (2) *Other cases.* In all other cases, the filing or granting of a petition for interlocutory review shall not stay a proceeding or the effect of a ruling unless otherwise ordered.
 
 (e) *Judge's comments.* The Judge may be requested to provide the Commission with written views on whether the petition is meritorious. When the written comments are filed with the Commission, the Judge shall serve the comments on all parties in a manner prescribed in § 2200.7(c).
 
-(f) *Briefs.* Notice shall be given to the parties if the Commission decides to request briefs on the issues raised by an interlocutory review. See § 2200.93 - Briefs before the Commission.
+(f) *Briefs.* Notice shall be given to the parties if the Commission decides to request briefs on the issues raised by an interlocutory review. See § 2200.93—Briefs before the Commission.
 
 (g) *When filing effective.* A petition for interlocutory review is deemed to be filed only when received by the Commission, as specified in § 2200.8(d)(3)(ii).
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]

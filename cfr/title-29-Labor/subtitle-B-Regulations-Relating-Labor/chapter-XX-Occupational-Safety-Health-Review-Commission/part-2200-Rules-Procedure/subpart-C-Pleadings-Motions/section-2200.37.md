@@ -34,4 +34,4 @@
 
 (5) Each objecting party shall file a response setting forth the reasons for opposing the abatement date requested in the petition, within 10 working days after service of the Commission docketing notice of the petition for modification of the abatement date. Service of the response on the other parties and intervenors shall be accomplished in a manner prescribed in § 2200.7(c).
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]

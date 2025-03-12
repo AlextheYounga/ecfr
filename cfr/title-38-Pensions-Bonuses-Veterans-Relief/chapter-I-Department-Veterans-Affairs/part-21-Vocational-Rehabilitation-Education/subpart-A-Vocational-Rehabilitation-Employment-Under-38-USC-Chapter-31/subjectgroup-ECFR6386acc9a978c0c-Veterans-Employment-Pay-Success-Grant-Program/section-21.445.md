@@ -4,7 +4,7 @@ To apply for a VEPFS grant, eligible entities must submit to VA a complete appli
 
 (a) Project description, including a description of the intervention, the Veteran population to be served, and anticipated employment outcomes;
 
-(b) Description of anticipated project partnership(s), including the responsibilities of each of the partner entities, the experience of any involved entities with serving Veteran populations, and other qualifications of the involved entities that may be relevant in carrying out responsibilities of the project partnership. In procuring partners such as the project coordinator and investor, procurement standards set forth in 2 CFR 200.317 through 200.326 must be followed;
+(b) Description of anticipated project partnership(s), including the responsibilities of each of the partner entities, the experience of any involved entities with serving Veteran populations, and other qualifications of the involved entities that may be relevant in carrying out responsibilities of the project partnership. In establishing the project partnership, entities, including the project coordinator, evaluator, and service provider, but excluding investors, must be procured following procurement standards set forth in 2 CFR 200.317 through 200.326.
 
 (c) A work plan, including a budget and timelines;
 
@@ -16,4 +16,4 @@ To apply for a VEPFS grant, eligible entities must submit to VA a complete appli
 
 (g) Any additional information as deemed appropriate by VA and set forth in the NOFA.
 
-(Authority: 38 U.S.C. 3119)
+(Authority: 38 U.S.C. 3119)[81 FR 52775, Aug. 10, 2016, as amended at 85 FR 37755, June 24, 2020]

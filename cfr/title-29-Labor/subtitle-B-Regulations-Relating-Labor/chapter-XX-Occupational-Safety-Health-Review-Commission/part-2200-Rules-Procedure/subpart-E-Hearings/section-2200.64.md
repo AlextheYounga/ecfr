@@ -6,4 +6,4 @@
 
 (c) *Rescheduling hearing.* The Commission or the Judge, upon a showing of good cause, may excuse such failure to appear. In such event, the hearing will be rescheduled as expeditiously as possible from the issuance of the Judge's order.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]

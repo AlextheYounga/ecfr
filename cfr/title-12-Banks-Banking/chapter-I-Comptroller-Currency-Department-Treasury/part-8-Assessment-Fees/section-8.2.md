@@ -32,7 +32,9 @@ Assessments = C + [(Assets − E) × D].
 
 (4) Each year, the OCC may index the marginal rates in Column D to adjust for the percent change in the level of prices, as measured by changes in the Gross Domestic Product Implicit Price Deflator (GDPIPD) for each June-to-June period. The OCC may at its discretion adjust marginal rates by amounts other than the percentage change in the GDPIPD. The OCC will also adjust the amounts in Column C to reflect any change made to the marginal rate.
 
-(5) The specific marginal rates and complete assessment schedule will be published in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” provided for at § 8.8. Each semiannual assessment is based upon the total assets shown in the national bank's or Federal savings association's most recent “Consolidated Reports of Condition and Income” (Call Report) preceding the payment date. Each national bank or Federal savings association subject to the jurisdiction of the OCC on the date of the second or fourth quarterly Call Report as appropriate, required by the OCC under 12 U.S.C. 161 and 12 U.S.C. 1464(v), is subject to the full assessment for the next six-month period. National banks and Federal savings associations that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
+(5)(i) The specific marginal rates and complete assessment schedule will be published in the “Notice of Office of the Comptroller of the Currency Fees and Assessments,” provided for at § 8.8. Each semiannual assessment is based upon the total assets shown in the national bank's or Federal savings association's most recent “Consolidated Reports of Condition and Income” (Call Report) preceding the payment date. Each national bank or Federal savings association subject to the jurisdiction of the OCC on the date of the second or fourth quarterly Call Report as appropriate, required by the OCC under 12 U.S.C. 161 and 12 U.S.C. 1464(v), is subject to the full assessment for the next six-month period. National banks and Federal savings associations that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
+
+(ii) Notwithstanding paragraph (a)(5)(i) of this section, the semiannual assessment for each national bank or Federal savings association due on September 30, 2020, will be based upon the lesser of total assets shown in the national bank's or Federal savings association's December 31, 2019, Call Report or June 30, 2020, Call Report.
 
 (6)(i) Notwithstanding any other provision of this part, the OCC may reduce the semiannual assessment for each non-lead national bank or non-lead Federal savings association by a percentage that it will specify in the “Notice of Office of the Comptroller of the Currency Fees and Assessments” described in § 8.8.
 
@@ -50,7 +52,9 @@ Assessments = C + [(Assets − E) × D].
 
 (2) The amount of the semiannual assessment paid by each Federal branch and Federal agency shall be computed at the same rate as provided in the Table in 12 CFR 8.2(a); however, only the total domestic assets of the Federal branch or agency shall be subject to assessment.
 
-(3) Each semiannual assessment of each Federal branch and each agency is based upon the total assets shown in the Federal branch's or agency's Call Report most recently preceding the payment date. Each Federal branch or agency subject to the jurisdiction of the OCC on the date of the second and fourth Call Reports is subject to the full assessment for the next six-month period. Federal branches and agencies that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
+(3)(i) Each semiannual assessment of each Federal branch and each agency is based upon the total assets shown in the Federal branch's or agency's Call Report most recently preceding the payment date. Each Federal branch or agency subject to the jurisdiction of the OCC on the date of the second and fourth Call Reports is subject to the full assessment for the next six-month period. Federal branches and agencies that are no longer subject to the jurisdiction of the OCC as of the date of the first or third quarterly Call Report, as appropriate, will receive a refund of assessments for the second three months of the semiannual assessment period.
+
+(ii) Notwithstanding paragraph (b)(3)(i) of this section, the semiannual assessment for each Federal branch and each agency due on September 30, 2020, will be based upon the lesser of total assets shown in the Federal branch's or agency's December 31, 2019, Call Report or June 30, 2020, Call Report.
 
 (4)(i) Notwithstanding any other provision of this part, the OCC may reduce the semiannual assessment for each non-lead Federal branch and agency by an amount that it will specify in the “Notice of Office of the Comptroller of the Currency Fees and Assessments” described in § 8.8.
 
@@ -90,4 +94,12 @@ Assessments = C + [(Assets − E) × D].
 
 (2) 2.0, in the case of any national bank or Federal savings association that receives a composite UFIRS rating of 4 or 5 and any Federal branch or agency that receives a composite rating of 4 or 5 under the ROCA rating system at its most recent examination prior to December 31 or June 30, as appropriate.
 
-[76 FR 43566, July 21, 2011, as amended at 79 FR 38772, July 9, 2014; 84 FR 43478, Aug. 21, 2019]
+[76 FR 43566, July 21, 2011, as amended at 79 FR 38772, July 9, 2014; 84 FR 43478, Aug. 21, 2019; 85 FR 37734, June 24, 2020]Effective Date Note:At 85 FR 37734, June 24, 2020, effective until Oct. 15, 2020, § 8.2 was amended by:
+
+a. Redesignating paragraph (a)(5) as paragraph (a)(5)(i);
+
+b. Adding paragraph (a)(5)(ii);
+
+c. Redesignating paragraph (b)(3) as paragraph (b)(3)(i); and
+
+d. Adding paragraph (b)(3)(ii).

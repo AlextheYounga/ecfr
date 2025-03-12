@@ -1,6 +1,6 @@
 ##### § 4043.27 Distribution to a substantial owner. #####
 
-(a) *Reportable event.* A reportable event occurs for a plan when -
+(a) *Reportable event.* A reportable event occurs for a plan when—
 
 (1) There is a distribution to a substantial owner of a contributing sponsor of the plan;
 
@@ -10,13 +10,13 @@
 
 (4) Immediately after the distribution, the plan has nonforfeitable benefits (as provided in § 4022.5 of this chapter) that are not funded; and
 
-(5) Either -
+(5) Either—
 
 (i) The sum of the values of all distributions to any one substantial owner within the one-year period ending with the date of the distribution is more than one percent of the end-of-year total amount of the plan's assets (as required to be reported on Schedule H or Schedule I to Form 5500) for each of the two plan years immediately preceding the event year, or
 
 (ii) The sum of the values of all distributions to all substantial owners within the one-year period ending with the date of the distribution is more than five percent of the end-of-year total amount of the plan's assets (as required to be reported on Schedule H or Schedule I to Form 5500) for each of the two plan years immediately preceding the event year.
 
-(b) *Determination rules* - (1) *Valuation of distribution.* The value of a distribution under this section is the sum of -
+(b) *Determination rules*—(1) *Valuation of distribution.* The value of a distribution under this section is the sum of—
 
 (i) The cash amounts actually received by the substantial owner;
 
@@ -28,10 +28,12 @@
 
 (3) *Determination date.* The determination of whether a participant is (or has been in the preceding 60 months) a substantial owner is made on the date when there has been a distribution that would be reportable under this section if made to a substantial owner.
 
-(c) *Alternative method of compliance - annuity.* In the case of an annuity for a substantial owner, a filing that satisfies the requirements of this section with respect to any payment under the annuity and that discloses the period, the amount of the payment, and the duration of the annuity satisfies the requirements of this section with respect to all subsequent payments under the annuity.
+(c) *Alternative method of compliance—annuity.* In the case of an annuity for a substantial owner, a filing that satisfies the requirements of this section with respect to any payment under the annuity and that discloses the period, the amount of the payment, and the duration of the annuity satisfies the requirements of this section with respect to all subsequent payments under the annuity.
 
-(d) *Waivers* - (1) *Low-default-risk.* Notice under this section is waived if each contributing sponsor of the plan and the highest level U.S. parent of each contributing sponsor are low-default-risk on the date of the event.
+(d) *Waivers*—(1) *Low-default-risk.* Notice under this section is waived if each contributing sponsor of the plan and the highest level U.S. parent of each contributing sponsor are low-default-risk on the date of the event.
 
 (2) *Well-funded plan.* Notice under this section is waived if the plan is in the well-funded plan safe harbor for the event year.
+
+(3) *Public company.* Notice under this section is waived if any contributing sponsor of the plan before the transaction, or the parent company within a parent-subsidiary controlled group of any such contributing sponsor, is a public company and timely files a SEC Form 8-K disclosing the event under an item of the Form 8-K other than under Item 2.02 (Results of Operations and Financial Condition) or in financial statements under Item 9.01 (Financial Statements and Exhibits).
 
 [80 FR 55002, Sept. 11, 2015, as amended at 85 FR 6062, Feb. 4, 2020]

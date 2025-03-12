@@ -1,10 +1,10 @@
 ##### § 2200.90 Decisions and reports of Judges. #####
 
-(a) *Judge's decision* - (1) *Contents of Judge's decision.* The Judge shall prepare a decision that conforms to 5 U.S.C. 557 of the Administrative Procedure Act and constitutes the final disposition of the proceedings. The decision shall be in writing and shall include findings of fact, conclusions of law, and the reasons or bases for them, on all the material issues of fact, law, or discretion presented on the record. The decision shall include an order affirming, modifying, or vacating each contested citation item and each proposed penalty or directing other appropriate relief. A decision finally disposing of a petition for modification of the abatement period shall contain an order affirming or modifying the abatement period.
+(a) *Judge's decision*—(1) *Contents of Judge's decision.* The Judge shall prepare a decision that conforms to 5 U.S.C. 557 of the Administrative Procedure Act and constitutes the final disposition of the proceedings. The decision shall be in writing and shall include findings of fact, conclusions of law, and the reasons or bases for them, on all the material issues of fact, law, or discretion presented on the record. The decision shall include an order affirming, modifying, or vacating each contested citation item and each proposed penalty or directing other appropriate relief. A decision finally disposing of a petition for modification of the abatement period shall contain an order affirming or modifying the abatement period.
 
 (2) *Service of the Judge's decision.* The Judge shall serve a copy of the decision on each party in a manner prescribed in § 2200.7(c).
 
-(b) *Judge's report* - (1) *Contents of Judge's report.* The Judge's report shall consist of the entire record, including the Judge's decision.
+(b) *Judge's report*—(1) *Contents of Judge's report.* The Judge's report shall consist of the entire record, including the Judge's decision.
 
 (2) *Filing of Judge's report.* On the eleventh day after service of the decision on the parties, the Judge shall file the report with the Executive Secretary for docketing.
 
@@ -22,4 +22,4 @@
 
 (f) *Judge's decision final unless review directed.* If no Commissioner directs review of a report on or before the thirtieth day following the date of docketing of the Judge's report, the decision of the Judge shall become a final order of the Commission.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]

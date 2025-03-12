@@ -1,16 +1,16 @@
 ##### § 55.6 Coverage under section 203(c). #####
 
-(a) *Coverage formula.* There are four ways in which a political subdivision can become subject to section 203(c).2/\>
+(a) *Coverage formula.* There are four ways in which a political subdivision can become subject to section 203(c).2
 
 2 The criteria for coverage are contained in section 203(b).
 
-(1) *Political subdivision approach.* A political subdivision is covered if -
+(1) *Political subdivision approach.* A political subdivision is covered if—
 
 (i) More than 5 percent of its voting age citizens are members of a single language minority group and are limited-English proficient; and
 
 (ii) The illiteracy rate of such language minority citizens in the political subdivision is higher than the national illiteracy rate.
 
-(2) *State approach.* A political subdivision is covered if -
+(2) *State approach.* A political subdivision is covered if—
 
 (i) It is located in a state in which more than 5 percent of the voting age citizens are members of a single language minority and are limited-English proficient;
 
@@ -18,13 +18,13 @@
 
 (iii) Five percent or more of the voting age citizens of the political subdivision are members of such language minority group and are limited-English proficient.
 
-(3) *Numerical approach.* A political subdivision is covered if -
+(3) *Numerical approach.* A political subdivision is covered if—
 
 (i) More than 10,000 of its voting age citizens are members of a single language minority group and are limited-English proficient; and
 
 (ii) The illiteracy rate of such language minority citizens in the political subdivision is higher than the national illiteracy rate.
 
-(4) *Indian reservation approach.* A political subdivision is covered if there is located within its borders all or any part of an Indian reservation -
+(4) *Indian reservation approach.* A political subdivision is covered if there is located within its borders all or any part of an Indian reservation—
 
 (i) In which more than 5 percent of the voting age American Indian or Alaska Native citizens are members of a single language minority group and are limited-English proficient; and
 

@@ -6,15 +6,15 @@ For the purposes of §§ 21.440 through 21.449, and any Notices of Funding Avail
 
 *Eligible entity* is a public or nonprofit agency, to include institutions of higher learning.
 
-*Employment outcome* is the employment or earnings of a participant in the intervention or control group member after the service period. Improving employment outcomes means creating positive impact in terms of these outcomes, where the results for individuals that receive the intervention are better than the results for a valid control group that did not receive the intervention.
+*Employment outcome* is the employment or earnings of a participant in an intervention group or control or comparison group during or after the service period. Improving employment outcomes means creating positive impact in terms of these outcomes, where the results for individuals that receive the intervention are better than the results for a valid control or comparison group that did not receive the intervention.
 
 *Intervention* is a service or technology that is provided to individuals and is intended to achieve certain results.
 
-*Outcomes payments* are funds that are paid to an investor or service provider and that are released only for the achievement of outcomes, as compared to those of a control group, that meet target levels that have been agreed to in advance of the provision of intervention (*i.e.,* if positive impact has been created by the intervention in terms of these outcomes). When investors have provided the upfront capital for the project, these payments generally cover repayment of the principal investment and provide a modest return on investment for any associated risks of paying for the intervention upfront.
+*Outcomes payments* are funds that are paid to an investor or service provider and that are released only for the achievement of outcomes, as compared to those of a control or comparison group, that meet target levels that have been agreed to in advance of the provision of intervention (*i.e.,* if positive impact has been created by the intervention in terms of these outcomes). When investors have provided the upfront capital for the project, these payments generally cover repayment of the principal investment and provide a modest return on investment for any associated risks of paying for the intervention upfront.
 
 *Pay for Success (PFS) agreement* is a multi-party agreement to deliver an innovative or evidence-based intervention intended to improve outcomes for a targeted population signed by the entities that constitute the project partnership.
 
-*Project partnership* is a collaboration among entities that negotiate an agreement and execute a project to improve employment outcomes for Veterans with service-connected disabilities. The entities that may be involved in a project partnership include:
+*Project partnership* is a collaboration among entities that negotiate one or more agreements and execute a project to improve employment outcomes for Veterans with service-connected disabilities. The entities that may be involved in a project partnership include:
 
 (1)(i) *Outcomes payor.* Entity that receives a VEPFS grant and pays for outcomes of services that meet target levels that have been agreed to in advance of the provision of the intervention.
 
@@ -46,4 +46,4 @@ For the purposes of §§ 21.440 through 21.449, and any Notices of Funding Avail
 
 *Work-plan* is a document that articulates tasks and milestones with regard to a particular project.
 
-(Authority: 38 U.S.C. 3119)
+(Authority: 38 U.S.C. 3119)[81 FR 52775, Aug. 10, 2016, as amended at 85 FR 37755, June 24, 2020]

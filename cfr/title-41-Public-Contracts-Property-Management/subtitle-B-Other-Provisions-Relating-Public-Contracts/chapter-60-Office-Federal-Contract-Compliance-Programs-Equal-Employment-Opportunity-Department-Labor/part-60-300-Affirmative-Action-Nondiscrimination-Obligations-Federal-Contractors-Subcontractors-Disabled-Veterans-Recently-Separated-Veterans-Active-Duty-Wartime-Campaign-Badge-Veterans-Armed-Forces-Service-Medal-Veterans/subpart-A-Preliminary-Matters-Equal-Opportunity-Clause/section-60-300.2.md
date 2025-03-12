@@ -118,7 +118,7 @@ For the purpose of this part:
 
 (t) *Reasonable accommodation* - (1) The term *reasonable accommodation* means:
 
-(i) Modifications or adjustments to a job application process that enable a qualified applicant who is a disabled veteran to be considered for the position such applicant desires;1/\> or
+(i) Modifications or adjustments to a job application process that enable a qualified applicant who is a disabled veteran to be considered for the position such applicant desires;1 or
 
 1 A contractor's duty to provide a reasonable accommodation with respect to applicants who are disabled veterans is not limited to those who ultimately demonstrate that they are qualified to perform the job in issue. Disabled veteran applicants must be provided a reasonable accommodation with respect to the application process if they are qualified with respect to that process (e.g., if they present themselves at the correct location and time to fill out an application).
 
@@ -132,7 +132,7 @@ For the purpose of this part:
 
 (ii) Job restructuring; part-time or modified work schedules; reassignment to a vacant position; acquisition or modifications of equipment or devices; appropriate adjustment or modifications of examinations, training materials, or policies; the provision of qualified readers or interpreters; and other similar accommodations for disabled veterans.
 
-(3) To determine the appropriate reasonable accommodation it may be necessary for the contractor to initiate an informal, interactive process with the qualified disabled veteran in need of the accommodation.2/\> This process should identify the precise limitations resulting from the disability and potential reasonable accommodations that could overcome those limitations. (Appendix A of this part provides guidance on a contractor's duty to provide reasonable accommodation.)
+(3) To determine the appropriate reasonable accommodation it may be necessary for the contractor to initiate an informal, interactive process with the qualified disabled veteran in need of the accommodation.2 This process should identify the precise limitations resulting from the disability and potential reasonable accommodations that could overcome those limitations. (Appendix A of this part provides guidance on a contractor's duty to provide reasonable accommodation.)
 
 2 Contractors must engage in such an interactive process with a disabled veteran, whether or not a reasonable accommodation ultimately is identified that will make the person a qualified individual. Contractors must engage in the interactive process because, until they have done so, they may be unable to determine whether a reasonable accommodation exists that will result in the person being qualified.
 

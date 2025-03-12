@@ -4,7 +4,7 @@
 
 (b) If there is a reasonable possibility the guidance may be considered “significant” within the meaning of § 813.7 or if the Agencies are uncertain whether the guidance may qualify as such, the Agencies must receive OMB's Office of Information and Regulatory Affairs (OIRA) approval before issuance, unless the Agencies and OIRA agree that exigency, safety, health, or other compelling cause warrants an exemption from some or all requirements.
 
-(c) When an agency is assessing or explaining whether it believes a guidance document is significant, it should, at a minimum, provide the same level of analysis that would be required for a major determination under the Congressional Review Act.1/\>
+(c) When an agency is assessing or explaining whether it believes a guidance document is significant, it should, at a minimum, provide the same level of analysis that would be required for a major determination under the Congressional Review Act.1
 
 1 See OMB Memorandum M-19-14, Guidance on Compliance with the Congressional Review Act (April 11, 2019).
 

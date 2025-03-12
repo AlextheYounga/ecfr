@@ -14,4 +14,4 @@
 
 (g) *Statements in opposition to petition.* Statements in opposition to petitions for discretionary review may be filed in the manner specified in this section for the filing of petitions for discretionary review. Statements in opposition shall concisely state why the Judge's decision should not be reviewed with respect to each portion of the petition to which it is addressed.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]
