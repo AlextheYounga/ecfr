@@ -1669,13 +1669,15 @@ In accordance with section 744 of the DoD Appropriation Act for 1981 (Pub. L. 96
 
 (51) *Hearing aids.* Hearing aids or other auditory sensory enhancing devices, except those allowed in paragraph (e)(24) of this section.
 
-(52) *Telephone services.* Services or advice rendered by telephone are excluded, except that a diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is not excluded when:
+(52) *Telephone services.* Services or advice rendered by telephone are excluded, except that: (i) Telephone services (audio-only) are not excluded when otherwise covered TRICARE services are provided to a beneficiary through this modality during the coronavirus 2019 (COVID-19) public health national emergency, if the services are medically necessary and appropriate, and
 
-(i) The procedure without electronic transmission of data or biotelemetry is otherwise an explicit or derived benefit of this section; and
+(ii) A diagnostic or monitoring procedure which incorporates electronic transmission of data or remote detection and measurement of a condition, activity, or function (biotelemetry) is not excluded when:
 
-(ii) The addition of electronic transmission of data or biotelemetry to the procedure is found by the Director, CHAMPUS, or designee, to be medically necessary and appropriate medical care which usually improves the efficiency of the management of a clinical condition in defined circumstances; and
+(A) The procedure without electronic transmission of data or biotelemetry is otherwise an explicit or derived benefit of this section;
 
-(iii) That each data transmission or biotelemetry device incorporated into a procedure that is otherwise an explicit or derived benefit of this section, has been classified by the U.S. Food and Drug Administration, either separately or as a part of a system, for use consistent with the defined circumstances in paragraph (g)(52)(ii) of this section.
+(B) The addition of electronic transmission of data or biotelemetry to the procedure is found by the Director, CHAMPUS, or designee, to be medically necessary and appropriate medical care which usually improves the efficiency of the management of a clinical condition in defined circumstances; and
+
+(C) The each data transmission or biotelemetry devices incorporated into a procedure that is otherwise an explicit or derived benefit of this section, has been classified by the U.S. Food and Drug Administration, either separately or as a part of a system, for consistent use with the defined circumstances in paragraph (g)(52)(ii) of this section.
 
 (53) *Air conditioners, humidifiers, dehumidifiers, and purifiers.*
 
@@ -1753,4 +1755,4 @@ The fact that a physician may prescribe, order, recommend, or approve a service 
 
 (vi) Preadmission authorization was available but not requested, or concurrent review requirements were not followed.
 
-[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 27927, May 12, 2020, paragraph (g)(52) was revised, effective May 12, 2020. The amendment is in effect until the expiration of Proclamation 9994 of March 13, 2020, published at 85 FR 15337, Mar. 18, 2020.

@@ -1,5 +1,7 @@
 ##### § 1355.46 Compliance. #####
 
+Link to an amendment published at 85 FR 28434, May 12, 2020.
+
 (a) *Files subject to compliance.* ACF will evaluate the out-of-home care and adoption and guardianship assistance data files that a title IV-E agency submits to determine whether the data complies with the requirements of § 1355.43 and the data file submission and data quality standards described in paragraphs (c) and (d) of this section. ACF will exempt records related to a child in either data file whose 18th birthday occurred in a prior report period and will exempt records relating to a child in the adoption and guardianship assistance data file who is in a title IV-E guardianship from a compliance determination as described in paragraph (e) of this section.
 
 (b) *Errors.* ACF will utilize the error definitions in paragraphs (b)(1) through (5) of this section to assess a title IV-E agency's out-of-home care and adoption and guardianship assistance data files. This assessment of errors will help ACF to determine if the title IV-E agency's submitted data files meet the data file submission and data quality standards outlined in paragraphs (c) and (d) of this section. ACF will develop and issue error specifications.

@@ -1,5 +1,7 @@
 ##### § 1355.45 Adoption and guardianship assistance data file elements. #####
 
+Link to an amendment published at 85 FR 28433, May 12, 2020.
+
 A title IV-E agency must report the following information for each child in the adoption and guardianship assistance reporting population, if applicable based on § 1355.42(b).
 
 (a) *General information* - (1) *Title IV-E agency.* Indicate the title IV-E agency responsible for submitting the AFCARS data to ACF per requirements issued by ACF.
