@@ -1,12 +1,12 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 82 FR 17385, Apr. 11, 2017.Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
+Link to an amendment published at 82 FR 18705, Apr. 21, 2017.
 
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
 
-(b) Fish on floating objects in the Convention Area using any gear type specified by the Regional Administrator's notification of closure issued under § 300.25.
+(b) [Reserved]
 
 (c) Use tender vessels in the Convention Area.
 
@@ -24,23 +24,23 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (j) Fail to provide written notification as described under § 300.22(b)(8) to the Regional Administrator at least 10 business days prior to submission of an application to transfer a purse seine vessel listed on the Vessel Register to foreign registry and flag, unless transfer of the vessel requires approval by the U.S. Maritime Administration.
 
-(k) Use a fishing vessel over 24 meters in length to retain on board, transship, or land bigeye tuna captured by longline gear in the Convention Area or to fish in contravention of § 300.25(b)(4)(i) or (ii).
+(k) Use a U.S. fishing vessel over 24 meters in length to retain on board, transship, or land bigeye tuna caught by longline gear in the Convention Area or to fish in contravention of § 300.25(a)(4)(i) or (ii).
 
-(l) Use a fishing vessel over 24 meters in length to fish in the Pacific Ocean using longline gear both inside and outside the Convention Area on the same fishing trip in contravention of § 300.25(b)(4)(iii).
+(l) Use a U.S. fishing vessel over 24 meters in overall length to fish with longline gear in the Pacific Ocean both inside and outside the Convention Area on the same fishing trip in contravention of § 300.25(a)(4)(iii).
 
-(m) Fail to stow gear as required in § 300.25(b)(4)(iv) or (f)(7).
+(m) Fail to stow gear as required in § 300.25(a)(4)(iv) or (e)(7).
 
-(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of § 300.25(f)(1), (f)(2), (f)(5), or (6).
+(n) Use a fishing vessel of class size 4-6 to fish with purse seine gear in the Convention Area in contravention of § 300.25(e)(1), (e)(2), or (e)(5) or (e)(6).
 
-(o) Use a U.S. longline or purse seine fishing vessel used to fish for HMS within one nautical mile of an anchored data buoy while the fishing vessel is in the Convention Area in contravention of § 300.25(g)(1).
+(o) Use a U.S. longline or purse seine fishing vessel used to fish for HMS within one nautical mile of an anchored data buoy while the fishing vessel is in the Convention Area in contravention of § 300.25(f)(1).
 
-(p) Use a U.S. fishing vessel used for fishing for HMS, or any gear, equipment, or watercraft deployed by such a fishing vessel, to interact with a data buoy in the Convention Area in contravention of § 300.25(g)(2).
+(p) Use a U.S. fishing vessel used for fishing for HMS, or any gear, equipment, or watercraft deployed by such a fishing vessel, to interact with a data buoy in the Convention Area in contravention of § 300.25(f)(2).
 
-(q) Remove from the water a data buoy and place it on board or tow a data buoy with a U.S. fishing vessel used for fishing for HMS while the vessel is in the Convention Area without authorization by the owner of the data buoy or the owner's authorized representative in contravention of § 300.25(g)(3).
+(q) Remove from the water a data buoy and place it on board or tow a data buoy with a U.S. fishing vessel used for fishing for HMS while the vessel is in the Convention Area without authorization by the owner of the data buoy or the owner's authorized representative in contravention of § 300.25(f)(3).
 
-(r) In the event of an entanglement of a data buoy with a U.S. fishing vessel, or its fishing gear, equipment, or associated watercraft, used for fishing for HMS in the Convention Area, fail to promptly remove the data buoy with as little damage to the data buoy and its mooring and anchor lines as possible, in contravention of § 300.25(g)(4).
+(r) In the event of an entanglement of a data buoy with a U.S. fishing vessel, or its fishing gear, equipment, or associated watercraft, used for fishing for HMS in the Convention Area, fail to promptly remove the data buoy with as little damage to the data buoy and its mooring and anchor lines as possible, in contravention of § 300.25(f)(4).
 
-(s) Fail to take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys in contravention of § 300.25(g)(5).
+(s) Fail to take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys in contravention of § 300.25(f)(5).
 
 (t) Use a U.S. fishing vessel to fish for HMS in the Convention Area and retain on board, transship, land, store, sell, or offer for sale any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) or fail to release unharmed, to the extent practicable, all oceanic whitetip sharks when brought alongside the vessel in contravention of § 300.27(d).
 
@@ -72,4 +72,6 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (hh) Use a U.S. longline vessel to catch silky shark in contravention of § 300.27(f).
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016]
+(ii) Use a U.S. purse seine fishing vessel of the applicable class size to make a set on either floating objects or dolphins in the IATTC Convention Area after a closure for either of these set types is announced by the Regional Administrator, in contravention of § 300.25(d).
+
+[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017]

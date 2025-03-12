@@ -24,8 +24,8 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |                             Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                              |     060865      |
 |                      Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043                       |     086073      |
 |                      AquaBounty Technologies, Inc., Two Clock Tower Pl., suite 395, Maynard, MA 01754                      |     086053      |
-|                          Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                           |     076175      |
 |                         Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211                          |     086026      |
+|                          Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                           |     076175      |
 |                        Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009                         |     051072      |
 |                     Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                      |     086009      |
 |                                   B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756                                    |     067188      |
@@ -57,10 +57,10 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |                          IDEXX Pharmaceuticals, Inc., 7009 Albert Pick Rd., Greensboro, NC 27409                           |     065274      |
 |                              IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                              |     000115      |
 |                                     Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                     |     000061      |
-|                            Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155                             |     086064      |
+|                            Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155                             |     086064      |
 |                            JBS United Animal Health II LLC, 322 S. Main St., Sheridan, IN 46069                            |     051233      |
 |                             Jurox Pty. Ltd., 85 Gardiner St., Rutherford, NSW 2320, Australia                              |     049480      |
-|                         Kinetic Technologies, LLC, 961 Beasley St., Suite 270, Lexington, KY 40509                         |     051031      |
+|                         Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509                         |     051031      |
 |                                  LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702                                   |     086047      |
 |                                   Lloyd, Inc., 604 W. Thomas Ave., Shenandoah, IA 51601                                    |     061690      |
 |                         Luitpold Pharmaceuticals, Inc., Animal Health Division, Shirley, NY 11967                          |     010797      |
@@ -102,14 +102,14 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |                           Taro Pharmaceuticals U.S.A., Inc., 3 Skyline Dr., Hawthorne, NY 10532                            |     051672      |
 |                                   Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503                                    |     052923      |
 |                             Thorn Bioscience LLC, 1044 East Chestnut St., Louisville, KY 40204                             |     051330      |
-|                              VetDC, Inc., 320 E. Vine Dr., Suite 218, Fort Collins, CO 80524                               |     086072      |
+|                              VetDC, Inc., 320 E. Vine Dr., suite 218, Fort Collins, CO 80524                               |     086072      |
 |                        Vétoquinol N.-A., Inc., 2000 chemin Georges, Lavaltrie (PQ), Canada, J5T 3S5                        |     059320      |
 |                             Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                              |     017030      |
 |                                  Virbac AH, Inc., 3200 Meacham Blvd., Ft. Worth, TX 76137                                  |     051311      |
 |                              Walco International, Inc., 15 West Putnam, Porterville, CA 93257                              |     049185      |
 |                              Watson Laboratories, Inc., 311 Bonnie Circle, Corona, CA 92880.                               |     000402      |
 |                               Western Chemical, Inc., 1269 Lattimore Rd., Ferndale, WA 98248                               |     050378      |
-|                          Wildlife Laboratories, Inc., 1230 W. Ash St., Suite D, Windsor, CO 80550                          |     053923      |
+|                          Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                          |     053923      |
 |                                     Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007                                      |     054771      |
 
 (2) Numerical Listing of Sponsors
@@ -153,7 +153,7 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |     050057      |                           Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                           |
 |     050378      |                           Western Chemical, Inc., 1269 Lattimore Rd., Ferndale, WA 98248.                            |
 |     050604      |                        Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640.                         |
-|     051031      |                     Kinetic Technologies, LLC, 961 Beasley St., Suite 270, Lexington, KY 40509.                      |
+|     051031      |                     Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509.                      |
 |     051072      |                     Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009.                     |
 |     051079      |                      Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                       |
 |     051233      |                        JBS United Animal Health II LLC, 322 S. Main St., Sheridan, IN 46069.                         |
@@ -164,7 +164,7 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |     052483      |                                   Orion Corp., Orionintie 1, 02200 Espoo, Finland.                                   |
 |     052818      |                           Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden.                            |
 |     052923      |                                Therio, Inc., 8801 Anderson Ave., Manhattan, KS 66503.                                |
-|     053923      |                      Wildlife Laboratories, Inc., 1230 W. Ash St., Suite D, Windsor, CO 80550.                       |
+|     053923      |                      Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550.                       |
 |     054628      |                Strategic Veterinary Pharmaceuticals, Inc., 100 NW. Airport Rd., St. Joseph, MO 64503.                |
 |     054771      |                                  Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007.                                  |
 |     054925      |                          Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861.                          |
@@ -213,8 +213,8 @@ Link to an amendment published at 82 FR 21690, May 10, 2017.
 |     086026      |                      Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211.                      |
 |     086047      |                               LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702.                               |
 |     086053      |                  AquaBounty Technologies, Inc., Two Clock Tower Pl., suite 395, Maynard, MA 01754.                   |
-|     086064      |                         Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155.                         |
-|     086072      |                           VetDC, Inc., 320 E Vine Dr., Suite 218, Fort Collins, CO 80524.                            |
+|     086064      |                         Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155.                         |
+|     086072      |                           VetDC, Inc., 320 E Vine Dr., suite 218, Fort Collins, CO 80524.                            |
 |     086073      |                   Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043.                   |
 |     099207      |                      Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258.                       |
 

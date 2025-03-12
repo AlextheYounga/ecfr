@@ -9,4 +9,5 @@
 (2) *Indications for use.* For appetite stimulation in dogs.
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+
 [81 FR 59133, Aug. 29, 2016]

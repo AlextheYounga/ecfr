@@ -43,6 +43,7 @@ Category I
 |    Semduramicin (as semduramicin sodium)    |                90-110                 |  2.27 g/lb (0.50%)  |                                                                80-110                                                                 |
 |Semduramicin (as semduramicin sodium biomass)|                90-110                 |  2.27 g/lb (0.50%)  |                                                                80-120                                                                 |
 |                   Tylosin                   |                80-120                 |  10.0 g/lb (2.2%)   |                                                                75-125.                                                                |
+|                 Tylvalosin                  |                90-110                 |      3.86 g/lb      |                                                                85-115.                                                                |
 |                Virginiamycin                |                85-115                 |  10.0 g/lb (2.2%)   |                                                                70-130.                                                                |
 |                   Zoalene                   |                92-104                 |  11.35 g/lb (2.5%)  |                                                                85-115.                                                                |
 
@@ -87,7 +88,6 @@ Category II
 |      Thiabendazole       |                94-106                 |            45.4 g/lb (10.0%)            |                         \>7% 85-115; \<7% 90-110.                         |
 |Tiamulin hydrogen fumarate|                90-115                 |                 10 g/lb                 |                              90-115/70-130.                               |
 |        Tilmicosin        |                90-110                 |            37.9 g/lb (8.35%)            |                                  85-115.                                  |
-|        Tylvalosin        |                90-110                 |                3.86 g/lb                |                                  85-115.                                  |
 |        Zilpaterol        |                90-110                 |            680 g/t (0.075%)             |                              80-110/75-115.                               |
 
 <sup>1</sup> Percent of labeled amount.

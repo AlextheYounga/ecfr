@@ -1,10 +1,6 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 82 FR 17385, Apr. 11, 2017.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
-
-*Bigeye tuna* means the species *Thunnus obesus.*
 
 *Commercial* with respect to commercial fishing, means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce through sale, barter or trade.
 
@@ -18,6 +14,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Data buoy* means, for the purpose of § 300.25, a floating device, either drifting or anchored, which is deployed by one or more governmental or recognized scientific organizations or entities for the purpose of electronically collecting and measuring environmental data, and not for the purpose of fishing activities, and which has been reported to the IATTC by a Member or Cooperating non-Member of the Commission.
 
+*Dolphin set* means a purse seine set where a class size 6 U.S. purse seine vessel (greater than 363 metric tons carrying capacity) deploys a net on, or encircles, dolphins to catch yellowfin tuna.
+
 *Fish aggregating device (FAD)* means a manmade raft or other floating object used to attract tuna and make them available to fishing vessels.
 
 *Fishing trip* means a period that a fishing vessel spends at sea between port visits and during which any fishing occurs.
@@ -25,6 +23,8 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 *Fishing vessel* means any vessel, boat, ship, or other craft that is used for, equipped to be used for, or of a type that is normally used for fishing or for assisting or supporting a vessel engaged in fishing, except purse seine skiffs.
 
 *Floating object* means any natural object or FAD around which fishing vessels may catch tuna.
+
+*Floating object set* means a purse seine set in which purse seine gear is deployed to encircle a floating object.
 
 *Force majeure* means, for the purpose of § 300.25, a situation in which a vessel is disabled by mechanical and/or structural failure, fire or explosion.
 
@@ -58,10 +58,18 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Trip limit* means the total allowable amount of a species by weight of fish that may be retained on board, transshipped, or landed from a single fishing trip by a vessel that harvests tuna or tuna-like species.
 
+*Tropical tuna* means any of the following species:
+
+| Common name  |  Scientific name  |
+|--------------|-------------------|
+| Bigeye tuna  |  Thunnus obesus.  |
+|Skipjack tuna |Katsuwonus pelamis.|
+|Yellowfin tuna|Thunnus albacares. |
+
 *Tuna* means any fish of the genus Thunnus and the species *Euthynnus (Katsuwonus) pelamis.*
 
 *Vessel monitoring system (VMS)* means an automated, remote system that provides information about a vessel's identity, location and activity, for the purposes of routine monitoring, control, surveillance and enforcement of area and time restrictions and other fishery management measures.
 
 *VMS unit,* sometimes known as a “mobile transmitting unit,” means a transceiver or communications device, including all hardware and software that is carried and operated on a vessel as part of a VMS.
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 69 FR 67277, Nov. 17, 2004; 70 FR 19010, Apr. 12, 2005; 74 FR 1618, Jan. 13, 2009; 74 FR 61050, Nov. 23, 2009; 76 FR 287, Jan. 4, 2011; 76 FR 68337, Nov. 4, 2011; 79 FR 19489, Apr. 9, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 24504, Apr. 26, 2016; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016]
+[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 69 FR 67277, Nov. 17, 2004; 70 FR 19010, Apr. 12, 2005; 74 FR 1618, Jan. 13, 2009; 74 FR 61050, Nov. 23, 2009; 76 FR 287, Jan. 4, 2011; 76 FR 68337, Nov. 4, 2011; 79 FR 19489, Apr. 9, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 24504, Apr. 26, 2016; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017]
