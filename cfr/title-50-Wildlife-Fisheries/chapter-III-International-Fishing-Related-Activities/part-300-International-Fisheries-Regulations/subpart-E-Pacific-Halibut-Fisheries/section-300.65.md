@@ -1,7 +1,5 @@
 ##### § 300.65 Catch sharing plan and domestic management measures in waters in and off Alaska. #####
 
-Link to an amendment published at 84 FR 52806, Oct. 3, 2019.
-
 (a) A catch sharing plan (CSP) may be developed by the North Pacific Fishery Management Council and approved by NMFS for portions of the fishery. Any approved CSP may be obtained from the Administrator, Alaska Region, NMFS.
 
 (b) The catch sharing plan for Commission regulatory area 4 allocates the annual commercial catch limit among Areas 4C, 4D, and 4E and will be adopted by the Commission as annual management measures and published in the Federal Register as required in § 300.62.
@@ -257,6 +255,8 @@ IFQ net pounds = (number of GAF × average net weight).
 (*3*) Instructions for correcting a submitted GAF landing electronic report are at (d)(4)(iii)(A)(*4*) of this section.
 
 (5) *Carcass retention requirement for size-restricted halibut.* If a size-restricted halibut is filleted on board the charter vessel, the entire carcass, with head and tail connected as a single piece, must be retained on board the charter vessel on which it was caught until all fillets are offloaded.
+
+(6) If a charter vessel angler catches and retains halibut, and that halibut is on board a fishing vessel with halibut caught and retained by persons who are not charter vessel anglers, then the daily bag limit, possession limit, size limit, and carcass retention regulations applicable to charter vessel anglers shall apply to all halibut on board the fishing vessel.
 
 (e) The Local Area Management Plan (LAMP) for Sitka Sound provides guidelines for participation in the halibut fishery in Sitka Sound.
 

@@ -1,7 +1,5 @@
 ##### § 17.95 Critical habitat - fish and wildlife. #####
 
-Link to an amendment published at 84 FR 52800, Oct. 3, 2019.
-
 (a) *Mammals.*
 
 Indiana Bat (*Myotis sodalis*)
@@ -8960,7 +8958,7 @@ Critical Habitat Map Unit
 
 (ii) Map 1 of the critical habitat for Rota bridled white-eye follows:
 
-![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Link to an amendment published at 84 FR 25003, May 30, 2019.Link to an amendment published at 84 FR 52800, October 3, 2019.
+![](/graphics/er12se06.000.gif)Editorial Notes:For Federal Register citations affecting § 17.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 (c) *Reptiles.*
 
@@ -8984,15 +8982,7 @@ Note:
 
 No map.
 
-Monito Gecko (*Sphaerodactylus micropithecus*)
-
-*Puerto Rico.* Isla Monito - entire island.
-
-Note:
-
-Map follows:
-
-![](/graphics/ec01jn91.053.gif)Mona Ground Iguana (*Cyclura stejnegeri*)
+Mona Ground Iguana (*Cyclura stejnegeri*)
 
 *Commonwealth of Puerto Rico.* Mona Island - entire island.
 

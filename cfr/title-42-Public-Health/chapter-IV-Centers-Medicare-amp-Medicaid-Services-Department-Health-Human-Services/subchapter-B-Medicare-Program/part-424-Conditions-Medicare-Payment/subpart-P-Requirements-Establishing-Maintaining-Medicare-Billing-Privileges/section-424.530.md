@@ -1,7 +1,5 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 84 FR 47853, Sept. 10, 2019.
-
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
@@ -62,7 +60,17 @@ Link to an amendment published at 84 FR 47853, Sept. 10, 2019.
 
 (B) Repays the debt in full.
 
-(7) *Payment suspension.* The current owner (as defined in § 424.502), physician or nonphysician practitioner has been placed under a Medicare payment suspension as defined in § 405.370 through § 405.372 of this subchapter.
+(7) *Payment suspension.* (i) The provider or supplier, or any owning or managing employee or organization of the provider or supplier, is currently under a Medicare or Medicaid payment suspension as defined in §§ 405.370 through 405.372 or in § 455.23 of this chapter.
+
+(ii) CMS may apply the provision in this paragraph (a)(7) to the provider or supplier under any of the provider's, supplier's, or owning or managing employee's or organization's current or former names, numerical identifiers, or business identities or to any of its existing enrollments.
+
+(iii) In determining whether a denial is appropriate, CMS considers the following factors:
+
+(A) The specific behavior in question.
+
+(B) Whether the provider or supplier is the subject of other similar investigations.
+
+(C) Any other information that CMS deems relevant to its determination.
 
 (8) *Initial Reserve Operating Funds.* (i) CMS or its designated Medicare contractor may deny Medicare billing privileges if, within 30 days of a CMS or Medicare contractor request, a home health agency (HHA) cannot furnish supporting documentation which verifies that the HHA meets the initial reserve operating funds requirement found in § 489.28(a) of this title.
 
@@ -76,6 +84,30 @@ Link to an amendment published at 84 FR 47853, Sept. 10, 2019.
 
 (ii) The applicable licensing or administrative body for any State in which a physician or eligible professional practices has suspended or revoked the physician or eligible professional's ability to prescribe drugs, and such suspension or revocation is in effect on the date the physician or eligible professional submits his or her enrollment application to the Medicare contractor.
 
+(12) *Revoked under different name, numerical identifier or business identity.* The provider or supplier is currently revoked under a different name, numerical identifier, or business identity, and the applicable reenrollment bar period has not expired. In determining whether a provider or supplier is a currently revoked provider or supplier under a different name, numerical identifier, or business identity, CMS investigates the degree of commonality by considering the following factors:
+
+(i) Owning and managing employees and organizations (regardless of whether they have been disclosed on the Form CMS-855 application).
+
+(ii) Geographic location.
+
+(iii) Provider or supplier type.
+
+(iv) Business structure.
+
+(v) Any evidence indicating that the two parties are similar or that the provider or supplier was created to circumvent the revocation or reenrollment bar.
+
+(13) *Affiliation that poses undue risk.* CMS determines that the provider or supplier has or has had an affiliation under § 424.519 that poses an undue risk of fraud, waste, or abuse to the Medicare program.
+
+(14) *Other program termination or suspension.* (i) The provider or supplier is currently terminated or suspended (or otherwise barred) from participation in a State Medicaid program or any other federal health care program, or the provider's or supplier's license is currently revoked or suspended in a State other than that in which the provider or supplier is enrolling. In determining whether a denial under this paragraph (a)(14) is appropriate, CMS considers the following factors:
+
+(A) The reason(s) for the termination, suspension, or revocation.
+
+(B) Whether, as applicable, the provider or supplier is currently terminated or suspended (or otherwise barred) from more than one program (for example, more than one State's Medicaid program), has been subject to any other sanctions during its participation in other programs or by any other State licensing boards or has had any other final adverse actions (as that term is defined in § 424.502) imposed against it.
+
+(C) Any other information that CMS deems relevant to its determination.
+
+(ii) CMS may apply paragraph (a)(14)(i) of this section to the provider or supplier under any of its current or former names, numerical identifiers or business identities, and regardless of whether any appeals are pending.
+
 (b) *Resubmission after denial.* A provider or supplier that is denied enrollment in the Medicare program cannot submit a new enrollment application until the following has occurred if the denial:
 
 (1) Was not appealed, the provider or supplier may reapply after its appeal rights have lapsed.
@@ -88,4 +120,18 @@ Link to an amendment published at 84 FR 47853, Sept. 10, 2019.
 
 (e) *Effective date of denial.* Denial becomes effective within 30 days of the initial denial notification.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014]
+(f) *Reapplication bar.* CMS may prohibit a prospective provider or supplier from enrolling in Medicare for up to 3 years if its enrollment application is denied because the provider or supplier submitted false or misleading information on or with (or omitted information from) its application in order to gain enrollment in the Medicare program.
+
+(1) The reapplication bar applies to the prospective provider or supplier under any of its current, former, or future names, numerical identifiers or business identities.
+
+(2) CMS determines the bar's length by considering the following factors:
+
+(i) The materiality of the information in question.
+
+(ii) Whether there is evidence to suggest that the provider or supplier purposely furnished false or misleading information or deliberately withheld information.
+
+(iii) Whether the provider or supplier has any history of final adverse actions or Medicare or Medicaid payment suspensions.
+
+(iv) Any other information that CMS deems relevant to its determination.
+
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019]

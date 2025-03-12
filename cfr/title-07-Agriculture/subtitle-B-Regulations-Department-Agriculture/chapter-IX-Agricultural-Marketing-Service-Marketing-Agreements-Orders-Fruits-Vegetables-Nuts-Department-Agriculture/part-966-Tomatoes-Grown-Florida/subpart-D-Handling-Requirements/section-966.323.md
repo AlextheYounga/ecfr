@@ -1,5 +1,7 @@
 ##### § 966.323 Handling regulation. #####
 
+Link to an amendment published at 84 FR 59292, Nov. 4, 2019.
+
 From October 10 through June 15 of each season, except as provided in paragraphs (b) and (d) of this section, no person shall handle any lot of tomatoes produced in the production area for shipment outside the regulated area unless it meets the requirements of paragraph (a) of this section.
 
 (a) *Grade, size, container, and inspection requirements* - (1) *Grade.* Tomatoes shall be graded and meet the requirements specified for U.S. No. 1, U.S. Combination, or U.S. No. 2 of the U.S. Standards for Grades of Fresh Tomatoes. When not more than 15 percent of the tomatoes in any lot fail to meet the requirements of U.S. No. 1 grade and not more than one-third of this 15 percent (or 5 percent) are comprised of defects causing very serious damage including not more than 1 percent of tomatoes which are soft or affected by decay, such tomatoes may be shipped and designated as at least 85 percent U.S. No. 1 grade.

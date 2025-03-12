@@ -316,7 +316,7 @@
 
 (D) Engaged in regular issuances of (or subject to ongoing liability with respect to) insurance, reinsurance, or annuity contracts with persons that are not related persons (within the meaning of section 954(d)(3)).
 
-(4) *Debt instrument.* The term debt instrument means an interest that would, but for the application of this section, be treated as a debt instrument as defined in section 1275(a) and § 1.1275-1(d), provided that the interest is not recharacterized as stock under § 1.385-2.
+(4) *Debt instrument.* The term debt instrument means an interest that would, but for the application of this section, be treated as a debt instrument as defined in section 1275(a) and § 1.1275-1(d).
 
 (5) *Deemed holder.* [Reserved]. For further guidance, see § 1.385-3T(g)(5).
 
@@ -514,4 +514,4 @@ Example 12.[Reserved]. For further guidance, see § 1.385-3T(h)(3), *Example 12.
 
 (v) *Option to apply proposed regulations.* In lieu of applying §§ 1.385-1, 1.385-3, 1.385-3T, and 1.385-4T, taxpayers may apply the provisions matching §§ 1.385-1, 1.385-3, and 1.385-4 from the Internal Revenue Bulletin (IRB) 2016-17 (*https://www.irs.gov/pub/irs-irbs/irb16-17.pdf*) to all debt instruments issued by a particular issuer (and members of its expanded group that are covered members) after April 4, 2016, and before October 13, 2016, solely for purposes of determining whether a debt instrument is treated as stock, provided that those sections are consistently applied.
 
-[T.D. 9790, 81 FR 72960, Oct. 21, 2016, as amended by T.D. 9790, 82 FR 8167, Jan. 24, 2017]
+[T.D. 9790, 81 FR 72960, Oct. 21, 2016, as amended by T.D. 9790, 82 FR 8167, Jan. 24, 2017; T.D. 9880, 84 FR 59302, Nov. 4, 2019]

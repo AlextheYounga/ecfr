@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 84 FR 53055, Oct. 4, 2019.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b)-(c) [Reserved]
@@ -28,7 +26,11 @@ Link to an amendment published at 84 FR 53055, Oct. 4, 2019.
 
 (l) *John F. Kennedy Space Center bridge, mile 885 at Addison Point.* The draw shall open on signal; except that, from 6:30 a.m. to 8 a.m. and 3:30 p.m. to 5 p.m. Monday through Friday, except Federal holidays, the draw need not open.
 
-(m)-(p) [Reserved]
+(m) [Reserved]
+
+(n) *A1A North Causeway Bridge, mile 964.8 at Fort Pierce.* The draw shall open on the hour and half-hour.
+
+(o)-(p) [Reserved]
 
 (q) *Indiantown Road bridge, mile 1006.2.* The draw shall open on the hour and half-hour.
 
@@ -100,6 +102,6 @@ Link to an amendment published at 84 FR 53055, Oct. 4, 2019.
 
 (nn) The Venetian Causeway Bridge (West), mile 1088.6, at Miami. The draw shall open on signal, except that from 7 a.m. to 7 p.m. daily, including Federal holidays, the draw need only open on the hour and half hour.
 
-(oo) - (ss) [Reserved]
+(oo)—(ss) [Reserved]
 
 [CGD7-84-29, 50 FR 51248, Dec. 16, 1985]Editorial Note:For Federal Register citations affecting § 117.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

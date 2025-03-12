@@ -2,7 +2,7 @@
 
 (a) *Applicability.* The definitions contained in this section apply for purposes of sections 163(e) and 1271 through 1275 and the regulations thereunder.
 
-(b) *Adjusted issue price* - (1) *In general.* The adjusted issue price of a debt instrument at the beginning of the first accrual period is the issue price. Thereafter, the adjusted issue price of the debt instrument is the issue price of the debt instrument -
+(b) *Adjusted issue price*—(1) *In general.* The adjusted issue price of a debt instrument at the beginning of the first accrual period is the issue price. Thereafter, the adjusted issue price of the debt instrument is the issue price of the debt instrument—
 
 (i) Increased by the amount of OID previously includible in the gross income of any holder (determined without regard to section 1272(a)(7) and section 1272(c)(1)); and
 
@@ -14,8 +14,7 @@
 
 (c) *OID.* OID means original issue discount (as defined in section 1273(a) and § 1.1273-1).
 
-(d) *Debt instrument.* Except as provided in section 1275(a)(1)(B) (relating to certain annuity contracts; see paragraph (j) of this section), debt instrument means any instrument or contractual arrangement that constitutes indebtedness under general principles of Federal income tax law (including, for example, a certificate of deposit or a loan). Nothing in the regulations under sections 163(e), 483, and 1271 through 1275, however, shall influence whether an instrument constitutes indebtedness for Federal income tax purposes.
-See § 1.385-2 for rules to determine whether certain instruments are treated as stock for federal tax purposes and § 1.385-3 for rules that treat certain instruments that otherwise would be treated as indebtedness as stock for federal tax purposes.
+(d) *Debt instrument.* Except as provided in section 1275(a)(1)(B) (relating to certain annuity contracts; see paragraph (j) of this section), debt instrument means any instrument or contractual arrangement that constitutes indebtedness under general principles of Federal income tax law (including, for example, a certificate of deposit or a loan). Nothing in the regulations under sections 163(e), 483, and 1271 through 1275, however, shall influence whether an instrument constitutes indebtedness for Federal income tax purposes. See § 1.385-3 for rules that treat certain instruments that otherwise would be treated as indebtedness as stock for Federal tax purposes.
 
 (e) *Tax-exempt obligations.* For purposes of section 1275(a)(3)(B), exempt from tax means exempt from Federal income tax.
 
@@ -29,11 +28,11 @@ See § 1.385-2 for rules to determine whether certain instruments are treated as
 
 (g) *Debt instruments issued by a natural person.* If an entity is a primary obligor under a debt instrument, the debt instrument is considered to be issued by the entity and not by a natural person even if a natural person is a co-maker and is jointly liable for the debt instrument's repayment. A debt instrument issued by a partnership is considered to be issued by the partnership as an entity even if the partnership is composed entirely of natural persons.
 
-(h) *Publicly offered debt instrument.* A debt instrument is publicly offered if it is part of an issue of debt instruments the initial offering of which -
+(h) *Publicly offered debt instrument.* A debt instrument is publicly offered if it is part of an issue of debt instruments the initial offering of which—
 
 (1) Is registered with the Securities and Exchange Commission; or
 
-(2) Would be required to be registered under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) but for an exemption from registration -
+(2) Would be required to be registered under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) but for an exemption from registration—
 
 (i) Under section 3 of the Securities Act of 1933 (relating to exempted securities);
 
@@ -43,9 +42,9 @@ See § 1.385-2 for rules to determine whether certain instruments are treated as
 
 (i) [Reserved]
 
-(j) *Life annuity exception under section 1275(a)(1)(B)(i)* - (1) *Purpose.* Section 1275(a)(1)(B)(i) excepts an annuity contract from the definition of *debt instrument* if section 72 applies to the contract and the contract depends (in whole or in substantial part) on the life expectancy of one or more individuals. This paragraph (j) provides rules to ensure that an annuity contract qualifies for the exception in section 1275(a)(1)(B)(i) only in cases where the life contingency under the contract is real and significant.
+(j) *Life annuity exception under section 1275(a)(1)(B)(i)*—(1) *Purpose.* Section 1275(a)(1)(B)(i) excepts an annuity contract from the definition of *debt instrument* if section 72 applies to the contract and the contract depends (in whole or in substantial part) on the life expectancy of one or more individuals. This paragraph (j) provides rules to ensure that an annuity contract qualifies for the exception in section 1275(a)(1)(B)(i) only in cases where the life contingency under the contract is real and significant.
 
-(2) *General rule* - (i) *Rule.* For purposes of section 1275(a)(1)(B)(i), an annuity contract depends (in whole or in substantial part) on the life expectancy of one or more individuals only if -
+(2) *General rule*—(i) *Rule.* For purposes of section 1275(a)(1)(B)(i), an annuity contract depends (in whole or in substantial part) on the life expectancy of one or more individuals only if—
 
 (A) The contract provides for periodic distributions made not less frequently than annually for the life (or joint lives) of an individual (or a reasonable number of individuals); and
 
@@ -61,7 +60,7 @@ See § 1.385-2 for rules to determine whether certain instruments are treated as
 
 (iii) *Coordination with specific rules.* Paragraphs (j) (3) through (7) of this section describe certain terms and conditions that can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). If a term or provision is not specifically described in paragraphs (j) (3) through (7) of this section, the annuity contract must be tested under the general rule of paragraph (j)(2)(i) of this section to determine whether it depends (in whole or in substantial part) on the life expectancy of one or more individuals.
 
-(3) *Availability of a cash surrender option* - (i) *Impact on life contingency.* The availability of a cash surrender option can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the availability of any cash surrender option causes the contract to fail to be described in section 1275(a)(1)(B)(i). A cash surrender option is available if there is reason to believe that the issuer (or a person acting in concert with the issuer) will be willing to terminate or purchase all or a part of the annuity contract by making one or more payments of cash or property (other than an annuity contract described in this paragraph (j)).
+(3) *Availability of a cash surrender option*—(i) *Impact on life contingency.* The availability of a cash surrender option can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the availability of any cash surrender option causes the contract to fail to be described in section 1275(a)(1)(B)(i). A cash surrender option is available if there is reason to believe that the issuer (or a person acting in concert with the issuer) will be willing to terminate or purchase all or a part of the annuity contract by making one or more payments of cash or property (other than an annuity contract described in this paragraph (j)).
 
 (ii) *Examples.* The following examples illustrate the rules of this paragraph (j)(3):
 
@@ -73,7 +72,7 @@ Example 2.(i) *Facts.* On March 1, 1998, X issues a contract to B for cash. The 
 
 (ii) *Analysis.* Because there is reason to believe that an affiliate of X stands ready to purchase B's contract for its commuted value, a cash surrender option is available within the meaning of paragraph (j)(3)(i) of this section. This availability can significantly reduce the probability that total distributions under the contract will increase commensurately with B's longevity. Thus, the contract fails to be described in section 1275(a)(1)(B)(i).
 
-(4) *Availability of a loan secured by the contract* - (i) *Impact on life contingency.* The availability of a loan secured by the contract can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the availability of any such loan causes the contract to fail to be described in section 1275(a)(1)(B)(i). A loan secured by the contract is available if there is reason to believe that the issuer (or a person acting in concert with the issuer) will be willing to make a loan that is directly or indirectly secured by the annuity contract.
+(4) *Availability of a loan secured by the contract*—(i) *Impact on life contingency.* The availability of a loan secured by the contract can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the availability of any such loan causes the contract to fail to be described in section 1275(a)(1)(B)(i). A loan secured by the contract is available if there is reason to believe that the issuer (or a person acting in concert with the issuer) will be willing to make a loan that is directly or indirectly secured by the annuity contract.
 
 (ii) *Example.* The following example illustrates the rules of this paragraph (j)(4):
 
@@ -81,15 +80,15 @@ Example:(i) *Facts.* On March 1, 1998, X issues a contract to C for $100,000. Th
 
 (ii) *Analysis.* Because there is reason to believe that Y, a person acting in concert with X, is willing to lend money against C's contract, a loan secured by the contract is available within the meaning of paragraph (j)(4)(i) of this section. This availability can significantly reduce the probability that total distributions under the contract will increase commensurately with C's longevity. Thus, the contract fails to be described in section 1275(a)(1)(B)(i).
 
-(5) *Minimum payout provision* - (i) *Impact on life contingency.* The existence of a minimum payout provision can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of any minimum payout provision causes the contract to fail to be described in section 1275(a)(1)(B)(i).
+(5) *Minimum payout provision*—(i) *Impact on life contingency.* The existence of a minimum payout provision can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of any minimum payout provision causes the contract to fail to be described in section 1275(a)(1)(B)(i).
 
-(ii) *Definition of minimum payout provision.* A minimum payout provision is a contractual provision (for example, an agreement to make distributions over a term certain) that provides for one or more distributions made -
+(ii) *Definition of minimum payout provision.* A minimum payout provision is a contractual provision (for example, an agreement to make distributions over a term certain) that provides for one or more distributions made—
 
 (A) After the terminating death under the contract; or
 
 (B) By reason of the death of any individual (including distributions triggered by or increased by terminal or chronic illness, as defined in section 101(g)(1) (A) and (B)).
 
-(iii) *Exceptions for certain minimum payouts* - (A) *Recovery of consideration paid for the contract.* Notwithstanding paragraphs (j)(2)(i)(A) and (j)(5)(i) of this section, a contract does not fail to be described in section 1275(a)(1)(B)(i) merely because it provides that, after the terminating death, there will be one or more distributions that, in the aggregate, do not exceed the consideration paid for the contract less total distributions previously made under the contract.
+(iii) *Exceptions for certain minimum payouts*—(A) *Recovery of consideration paid for the contract.* Notwithstanding paragraphs (j)(2)(i)(A) and (j)(5)(i) of this section, a contract does not fail to be described in section 1275(a)(1)(B)(i) merely because it provides that, after the terminating death, there will be one or more distributions that, in the aggregate, do not exceed the consideration paid for the contract less total distributions previously made under the contract.
 
 (B) *Payout for one-half of life expectancy.* Notwithstanding paragraphs (j)(2)(i)(A) and (j)(5)(i) of this section, a contract does not fail to be described in section 1275(a)(1)(B)(i) merely because it provides that, if the terminating death occurs after the annuity starting date, distributions under the contract will continue to be made after the terminating death until a date that is no later than the halfway date. This exception does not apply unless the amounts distributed in each contract year will not exceed the amounts that would have been distributed in that year if the terminating death had not occurred until the expected date of the terminating death, determined under paragraph (j)(5)(iii)(C) of this section.
 
@@ -105,7 +104,7 @@ Example 2.(i) *Facts.* The facts are the same as in *Example 1* of this paragrap
 
 (ii) *Analysis.* The minimum payout provision qualifies for the exception in paragraph (j)(5)(iii)(B) of this section because distributions under the minimum payout provision will not continue past the halfway date and the contract does not provide for any adjustments in the amount of distributions by reason of the death of D or any other individual, other than a guaranteed death benefit described in paragraph (j)(5)(iii)(A) of this section. Accordingly, the existence of this minimum payout provision does not prevent the contract from being described in section 1275(a)(1)(B)(i).
 
-(6) *Maximum payout provision* - (i) *Impact on life contingency.* The existence of a maximum payout provision can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of any maximum payout provision causes the contract to fail to be described in section 1275(a)(1)(B)(i).
+(6) *Maximum payout provision*—(i) *Impact on life contingency.* The existence of a maximum payout provision can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of any maximum payout provision causes the contract to fail to be described in section 1275(a)(1)(B)(i).
 
 (ii) *Definition of maximum payout provision.* A maximum payout provision is a contractual provision that provides that no distributions under the contract may be made after some date (the termination date), even if the terminating death has not yet occurred.
 
@@ -117,7 +116,7 @@ Example:(i) *Facts.* On March 1, 1998, X issues a contract to E for cash. The co
 
 (ii) *Analysis.* A maximum payout provision exists because if E survives beyond April 1, 2018, E will receive no further distributions under the contract. The period of time from the annuity starting date (April 1, 1998) to the termination date (April 1, 2018) is 20 years. Because this 20-year period is more than twice as long as E's life expectancy on April 1, 1998, the maximum payout provision qualifies for the exception in paragraph (j)(6)(iii) of this section. Accordingly, the existence of this maximum payout provision does not prevent the contract from being described in section 1275(a)(1)(B)(i).
 
-(7) *Decreasing payout provision* - (i) *General rule.* If the amount of distributions during any contract year (other than the last year during which distributions are made) may be less than the amount of distributions during the preceding year, this possibility can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of this possibility causes the contract to fail to be described in section 1275(a)(1)(B)(i).
+(7) *Decreasing payout provision*—(i) *General rule.* If the amount of distributions during any contract year (other than the last year during which distributions are made) may be less than the amount of distributions during the preceding year, this possibility can significantly reduce the probability that total distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants). Thus, the existence of this possibility causes the contract to fail to be described in section 1275(a)(1)(B)(i).
 
 (ii) *Exception for certain variable distributions.* Notwithstanding paragraph (j)(7)(i) of this section, if an annuity contract provides that the amount of each distribution must increase and decrease in accordance with investment experience, cost of living indices, or similar fluctuating criteria, then the possibility that the amount of a distribution may decrease for this reason does not significantly reduce the probability that the distributions under the contract will increase commensurately with the longevity of the annuitant (or annuitants).
 
@@ -131,13 +130,13 @@ Example 2.(i) *Facts.* On March 1, 1998, X issues a contract to G for cash. The 
 
 (ii) *Analysis.* Because the only possible year-to-year declines in annuity distributions are described in paragraph (j)(7)(ii) of this section, the possibility that the amount of distributions may decline from the previous year does not reduce the probability that total distributions under the contract will increase commensurately with G's longevity. Thus, the potential fluctuation in the annuity distributions does not cause the contract to fail to be described in section 1275(a)(1)(B)(i).
 
-(8) *Effective dates* - (i) *In general.* Except as provided in paragraph (j)(8) (ii) and (iii) of this section, this paragraph (j) is applicable for interest accruals on or after February 9, 1998 on annuity contracts held on or after February 9, 1998.
+(8) *Effective dates*—(i) *In general.* Except as provided in paragraph (j)(8) (ii) and (iii) of this section, this paragraph (j) is applicable for interest accruals on or after February 9, 1998 on annuity contracts held on or after February 9, 1998.
 
 (ii) *Grandfathered contracts.* This paragraph (j) does not apply to an annuity contract that was purchased before April 7, 1995. For purposes of this paragraph (j)(8), if any additional investment in such a contract is made on or after April 7, 1995, and the additional investment is not required to be made under a binding contractual obligation that was entered into before April 7, 1995, then the additional investment is treated as the purchase of a contract after April 7, 1995.
 
 (iii) *Contracts consistent with the provisions of FI-33-94, published at 1995-1 C.B. 920. See § 601.601(d)(2)(ii)(b) of this chapter.* This paragraph (j) does not apply to a contract purchased on or after April 7, 1995, and before February 9, 1998, if all payments under the contract are periodic payments that are made at least annually for the life (or lives) of one or more individuals, do not increase at any time during the term of the contract, and are part of a series of distributions that begins within one year of the date of the initial investment in the contract. An annuity contract that is otherwise described in the preceding sentence does not fail to be described therein merely because it also provides for a payment (or payments) made by reason of the death of one or more individuals.
 
-(k) *Exception under section 1275(a)(1)(B)(ii) for annuities issued by an insurance company subject to tax under subchapter L of the Internal Revenue Code* - (1) *Rule.* For purposes of section 1275(a)(1)(B)(ii), an annuity contract issued by a foreign insurance company is considered as issued by an insurance company subject to tax under subchapter L if the insurance company is subject to tax under subchapter L with respect to income earned on the annuity contract.
+(k) *Exception under section 1275(a)(1)(B)(ii) for annuities issued by an insurance company subject to tax under subchapter L of the Internal Revenue Code*—(1) *Rule.* For purposes of section 1275(a)(1)(B)(ii), an annuity contract issued by a foreign insurance company is considered as issued by an insurance company subject to tax under subchapter L if the insurance company is subject to tax under subchapter L with respect to income earned on the annuity contract.
 
 (2) *Examples.* The following examples illustrate the rule of paragraph (k)(1) of this section. Each example assumes that the annuity contract is a contract to which section 72 applies and was issued in a transaction where there is no consideration other than cash or another qualifying annuity contract, pursuant to the exercise of an election under an insurance contract by a beneficiary thereof on the death of the insured party, or in a transaction involving a qualified pension or employee benefit plan. The examples are as follows:
 
@@ -145,4 +144,4 @@ Example 1.Company X is an insurance company that is organized, licensed and doin
 
 (3) *Effective date.* This paragraph (k) is applicable for interest accruals on or after June 6, 2002. This paragraph (k) does not apply to an annuity contract that was purchased before January 12, 2001. For purposes of this paragraph (k), if any additional investment in a contract purchased before January 12, 2001, is made on or after January 12, 2001, and the additional investment is not required to be made under a binding written contractual obligation that was entered into before that date, then the additional investment is treated as the purchase of a contract after January 12, 2001.
 
-[T.D. 8517, 59 FR 4825, Feb. 2, 1994, as amended by T.D. 8746, 62 FR 68183, Dec. 31, 1997; T.D. 8754, 63 FR 1057, Jan. 8, 1998; T.D. 8934, 66 FR 2815, Jan. 12, 2001; T.D. 8993, 67 FR 30548, May 7, 2002; T.D. 9790, 81 FR 72984, Oct. 21, 2016]
+[T.D. 8517, 59 FR 4825, Feb. 2, 1994, as amended by T.D. 8746, 62 FR 68183, Dec. 31, 1997; T.D. 8754, 63 FR 1057, Jan. 8, 1998; T.D. 8934, 66 FR 2815, Jan. 12, 2001; T.D. 8993, 67 FR 30548, May 7, 2002; T.D. 9790, 81 FR 72984, Oct. 21, 2016: T.D. 9880, 84 FR 59302, Nov. 4, 2019]

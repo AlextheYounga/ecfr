@@ -1,7 +1,5 @@
 ##### § 498.3 Scope and applicability. #####
 
-Link to an amendment published at 84 FR 47857, Sept. 10, 2019.
-
 (a) *Scope.* (1) This part sets forth procedures for reviewing initial determinations that CMS makes with respect to the matters specified in paragraph (b) of this section, and that the OIG makes with respect to the matters specified in paragraph (c) of this section. It also specifies, in paragraph (d) of this section, administrative actions that are not subject to appeal under this part.
 
 (2) The determinations listed in this section affect participation in the Medicare program. Many of the procedures of this part also apply to other determinations that do not affect participation in Medicare. Some examples follow:
@@ -60,7 +58,11 @@ Link to an amendment published at 84 FR 47857, Sept. 10, 2019.
 
 (16) The finding of substandard quality of care that leads to the loss by a SNF or NF of the approval of its nurse aide training program.
 
-(17) Whether to deny or revoke a provider or supplier's Medicare enrollment in accordance with § 424.530 or § 424.535 of this chapter.
+(17)(i) Whether to deny or revoke a provider's or supplier's Medicare enrollment in accordance with § 424.530 or § 424.535 of this chapter;
+
+(ii) Whether, under § 424.535(c)(2)(i) of this chapter, to add years to a provider's or supplier's existing reenrollment bar; or
+
+(iii) Whether, under § 424.535(c)(3) of this chapter, an individual or entity other than the provider or supplier that is the subject of the second revocation was the actual subject of the first revocation.
 
 (18) The level of noncompliance found by CMS with respect to the failure of an individual who is the administrator of a SNF to comply with the requirements at § 483.75(r) of this chapter, and the appropriate sanction to be imposed under § 488.446 of this chapter.
 

@@ -1,8 +1,18 @@
 ##### § 424.502 Definitions. #####
 
-Link to an amendment published at 84 FR 47852, Sep. 10, 2019.
-
 As used in this subpart, unless the context indicates otherwise -
+
+*Affiliation* means, for purposes of applying § 424.519, any of the following:
+
+(1) A 5 percent or greater direct or indirect ownership interest that an individual or entity has in another organization.
+
+(2) A general or limited partnership interest (regardless of the percentage) that an individual or entity has in another organization.
+
+(3) An interest in which an individual or entity exercises operational or managerial control over, or directly or indirectly conducts, the day-to-day operations of another organization (including, for purposes of this paragraph (3), sole proprietorships), either under contract or through some other arrangement, regardless of whether or not the managing individual or entity is a W-2 employee of the organization.
+
+(4) An interest in which an individual is acting as an officer or director of a corporation.
+
+(5) Any reassignment relationship under § 424.80.
 
 *Approve/Approval* means the enrolling provider or supplier has been determined to be eligible under Medicare rules and regulations to receive a Medicare billing number and be granted Medicare billing privileges.
 
@@ -15,6 +25,28 @@ As used in this subpart, unless the context indicates otherwise -
 *Delegated official* means an individual who is delegated by the “Authorized Official,” the authority to report changes and updates to the enrollment record. The delegated official must be an individual with ownership or control interest in, or be a W-2 managing employee of the provider or supplier.
 
 *Deny/Denial* means the enrolling provider or supplier has been determined to be ineligible to receive Medicare billing privileges for Medicare covered items or services provided to Medicare beneficiaries.
+
+*Disclosable event* means, for purposes of § 424.519, any of the following:
+
+(1) Currently has an uncollected debt to Medicare, Medicaid, or CHIP, regardless of -
+
+(i) The amount of the debt;
+
+(ii) Whether the debt is currently being repaid (for example, as part of a repayment plan); or
+
+(iii) Whether the debt is currently being appealed;
+
+(2) Has been or is subject to a payment suspension under a federal health care program (as that latter term is defined in section 1128B(f) of the Act), regardless of when the payment suspension occurred or was imposed;
+
+(3) Has been or is excluded by the OIG from participation in Medicare, Medicaid, or CHIP, regardless of whether the exclusion is currently being appealed or when the exclusion occurred or was imposed; or
+
+(4) Has had its Medicare, Medicaid, or CHIP enrollment denied, revoked, or terminated, regardless of -
+
+(i) The reason for the denial, revocation, or termination;
+
+(ii) Whether the denial, revocation, or termination is currently being appealed; or
+
+(iii) When the denial, revocation, or termination occurred or was imposed.
 
 *Enroll/Enrollment* means the process that Medicare uses to establish eligibility to submit claims for Medicare-covered items and services, and the process that Medicare uses to establish eligibility to order or certify Medicare-covered items and services. The process includes -
 
@@ -44,9 +76,13 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Managing employee* means a general manager, business manager, administrator, director, or other individual that exercises operational or managerial control over, or who directly or indirectly conducts, the day-to-day operation of the provider or supplier, either under contract or through some other arrangement, whether or not the individual is a W-2 employee of the provider or supplier.
 
+*NPI* stands for National Provider Identifier.
+
 *Operational* means the provider or supplier has a qualified physical practice location, is open to the public for the purpose of providing health care related services, is prepared to submit valid Medicare claims, and is properly staffed, equipped, and stocked (as applicable, based on the type of facility or organization, provider or supplier specialty, or the services or items being rendered), to furnish these items or services.
 
 *Owner* means any individual or entity that has any partnership interest in, or that has 5 percent or more direct or indirect ownership of the provider or supplier as defined in sections 1124 and 1124A(A) of the Act.
+
+*PECOS* stands for Internet-based Provider Enrollment, Chain, and Ownership System.
 
 *Physician or nonphysician practitioner organization* means any physician or nonphysician practitioner entity that enrolls in the Medicare program as a sole proprietorship or organizational entity.
 
@@ -56,4 +92,4 @@ As used in this subpart, unless the context indicates otherwise -
 
 *Voluntary termination* means that a provider or supplier, including an individual physician or nonphysician practitioner, submits written confirmation to CMS of its decision to discontinue enrollment in the Medicare program.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69939, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 75 FR 73628, Nov. 29, 2010; 76 FR 5962, Feb. 2, 2011; 79 FR 72531, Dec. 5, 2014; 82 FR 53368, Nov. 15, 2017; 84 FR 47852, Sept. 10, 2019]

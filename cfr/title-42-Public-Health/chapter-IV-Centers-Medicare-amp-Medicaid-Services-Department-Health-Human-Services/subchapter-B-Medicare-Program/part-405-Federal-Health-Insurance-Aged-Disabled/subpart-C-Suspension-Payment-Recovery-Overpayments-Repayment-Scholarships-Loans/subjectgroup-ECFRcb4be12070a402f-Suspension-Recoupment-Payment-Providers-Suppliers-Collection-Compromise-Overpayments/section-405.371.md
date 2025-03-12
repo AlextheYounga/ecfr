@@ -1,16 +1,16 @@
 ##### § 405.371 Suspension, offset, and recoupment of Medicare payments to providers and suppliers of services. #####
 
-Link to an amendment published at 84 FR 47851, Sept. 10, 2019.
+(a) *General rules*—Medicare payments to providers and suppliers, as authorized under this subchapter (excluding payments to beneficiaries), may be one of the following:
 
-(a) *General rules.* Medicare payments to providers and suppliers, as authorized under this subchapter (excluding payments to beneficiaries), may be -
+(1) Suspended, in whole or in part, by CMS or a Medicare contractor if CMS or the Medicare contractor possesses reliable information that an overpayment exists or that the payments to be made may not be correct, although additional information may be needed for a determination.
 
-(1) Suspended, in whole or in part, by CMS or a Medicare contractor if CMS or the Medicare contractor possesses reliable information that an overpayment exists or that the payments to be made may not be correct, although additional information may be needed for a determination;
-
-(2) In cases of suspected fraud, suspended, in whole or in part, by CMS or a Medicare contractor if CMS or the Medicare contractor has consulted with the OIG, and, as appropriate, the Department of Justice, and determined that a credible allegation of fraud exists against a provider or supplier, unless there is good cause not to suspend payments; or
+(2) In cases of suspected fraud, suspended, in whole or in part, by CMS or a Medicare contractor if CMS or the Medicare contractor has consulted with the OIG, and, as appropriate, the Department of Justice, and determined that a credible allegation of fraud exists against a provider or supplier, unless there is good cause not to suspend payments.
 
 (3) Offset or recouped, in whole or in part, by a Medicare contractor if the Medicare contractor or CMS has determined that the provider or supplier to whom payments are to be made has been overpaid.
 
-(b) *Good cause exceptions applicable to payment suspensions.* (1) CMS may find that good cause exists not to suspend payments or not to continue to suspend payments to an individual or entity against which there are credible allegations of fraud if -
+(4) Suspended, in whole or in part, by CMS or a Medicare contractor if the provider or supplier has been subject to a Medicaid payment suspension under § 455.23(a)(1) of this chapter.
+
+(b) *Good cause exceptions applicable to payment suspensions.* (1) CMS may find that good cause exists not to suspend payments or not to continue to suspend payments to an individual or entity against which there are credible allegations of fraud if—
 
 (i) OIG or other law enforcement agency has specifically requested that a payment suspension not be imposed because such a payment suspension may compromise or jeopardize an investigation;
 
@@ -20,13 +20,13 @@ Link to an amendment published at 84 FR 47851, Sept. 10, 2019.
 
 (iv) CMS determines that a payment suspension or a continuation of a payment suspension is not in the best interests of the Medicare program.
 
-(2) Every 180 days after the initiation of a suspension of payments based on credible allegations of fraud, CMS will -
+(2) Every 180 days after the initiation of a suspension of payments based on credible allegations of fraud, CMS will—
 
 (i) Evaluate whether there is good cause to not continue such suspension under this section; and
 
 (ii) Request a certification from the OIG or other law enforcement agency that the matter continues to be under investigation warranting continuation of the suspension.
 
-(3) Good cause not to continue to suspend payments to an individual or entity against which there are credible allegations of fraud must be deemed to exist if a payment suspension has been in effect for 18 months and there has not been a resolution of the investigation, except CMS may extend a payment suspension beyond that point if -
+(3) Good cause not to continue to suspend payments to an individual or entity against which there are credible allegations of fraud must be deemed to exist if a payment suspension has been in effect for 18 months and there has not been a resolution of the investigation, except CMS may extend a payment suspension beyond that point if—
 
 (i) The case has been referred to, and is being considered by, the OIG for administrative action (for example, civil money penalties); or such administrative action is pending or
 
@@ -50,4 +50,5 @@ Link to an amendment published at 84 FR 47851, Sept. 10, 2019.
 
 (2) In the case of an unfiled hospice cap determination report, the provisions of § 405.372 do not apply. (See § 405.372(a)(2) concerning failure to furnish other information.)
 
-[76 FR 5961, Feb. 2, 2011, as amended at 79 FR 50509, Aug. 22, 2014]
+[76 FR 5961, Feb. 2, 2011, as amended at 79 FR 50509, Aug. 22, 2014; 84 FR 47852, Sept. 10, 2019]
+i

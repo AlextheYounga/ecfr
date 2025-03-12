@@ -1,8 +1,40 @@
 ##### § 455.101 Definitions. #####
 
-Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
+*Affiliation* means, for purposes of applying § 455.107, any of the following:
+
+(1) A 5 percent or greater direct or indirect ownership interest that an individual or entity has in another organization.
+
+(2) A general or limited partnership interest (regardless of the percentage) that an individual or entity has in another organization.
+
+(3) An interest in which an individual or entity exercises operational or managerial control over, or directly or indirectly conducts, the day-to-day operations of another organization (including, for purposes of this paragraph (3), sole proprietorships), either under contract or through some other arrangement, regardless of whether or not the managing individual or entity is a W-2 employee of the organization.
+
+(4) An interest in which an individual is acting as an officer or director of a corporation.
+
+(5) Any payment assignment relationship under § 447.10(g) of this chapter.
 
 *Agent* means any person who has been delegated the authority to obligate or act on behalf of a provider.
+
+*Disclosable event* means, for purposes of § 455.107, any of the following:
+
+(1) Currently has an uncollected debt to Medicare, Medicaid, or CHIP, regardless of—
+
+(i) The amount of the debt;
+
+(ii) Whether the debt is currently being repaid (for example, as part of a repayment plan); or
+
+(iii) Whether the debt is currently being appealed;
+
+(2) Has been or is subject to a payment suspension under a federal health care program (as that latter term is defined in section 1128B(f) of the Act), regardless of when the payment suspension occurred or was imposed;
+
+(3) Has been or is excluded by the OIG from participation in Medicare, Medicaid, or CHIP, regardless of whether the exclusion is currently being appealed or when the exclusion occurred or was imposed; or
+
+(4) Has had its Medicare, Medicaid, or CHIP enrollment denied, revoked or terminated, regardless of—
+
+(i) The reason for the denial, revocation, or termination;
+
+(ii) Whether the denial, revocation, or termination is currently being appealed; or
+
+(iii) When the denial, revocation, or termination occurred or was imposed.
 
 *Disclosing entity* means a Medicaid provider (other than an individual practitioner or group of practitioners), or a fiscal agent.
 
@@ -28,7 +60,7 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 *Ownership interest* means the possession of equity in the capital, the stock, or the profits of the disclosing entity.
 
-*Person with an ownership or control interest* means a person or corporation that -
+*Person with an ownership or control interest* means a person or corporation that—
 
 (a) Has an ownership interest totaling 5 percent or more in a disclosing entity;
 
@@ -50,7 +82,7 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 *Significant business transaction* means any business transaction or series of transactions that, during any one fiscal year, exceed the lesser of $25,000 and 5 percent of a provider's total operating expenses.
 
-*Subcontractor* means -
+*Subcontractor* means—
 
 (a) An individual, agency, or organization to which a disclosing entity has contracted or delegated some of its management functions or responsibilities of providing medical care to its patients; or
 
@@ -58,9 +90,9 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 *Supplier* means an individual, agency, or organization from which a provider purchases goods and services used in carrying out its responsibilities under Medicaid (e.g., a commercial laundry, a manufacturer of hospital beds, or a pharmaceutical firm).
 
-*Termination* means -
+*Termination* means—
 
-(1) For a -
+(1) For a—
 
 (i) Medicaid or CHIP provider, a State Medicaid program or CHIP has taken an action to revoke the provider's billing privileges, and the provider has exhausted all applicable appeal rights or the timeline for appeal has expired; and
 
@@ -70,7 +102,7 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 (ii) The provider, supplier, or eligible professional will be required to reenroll with the applicable program if they wish billing privileges to be reinstated.
 
-(3) The requirement for termination applies in cases where providers, suppliers, or eligible professionals were terminated or had their billing privileges revoked for cause which may include, but is not limited to -
+(3) The requirement for termination applies in cases where providers, suppliers, or eligible professionals were terminated or had their billing privileges revoked for cause which may include, but is not limited to—
 
 (i) Fraud;
 
@@ -80,4 +112,4 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 *Wholly owned supplier* means a supplier whose total ownership interest is held by a provider or by a person, persons, or other entity with an ownership or control interest in a provider.
 
-[44 FR 41644, July 17, 1979, as amended at 51 FR 34788, Sept. 30, 1986; 76 FR 5967, Feb. 2, 2011]
+[44 FR 41644, July 17, 1979, as amended at 51 FR 34788, Sept. 30, 1986; 76 FR 5967, Feb. 2, 2011; 84 FR 47856, Sept. 10, 2019]

@@ -12,17 +12,17 @@
 
 (4) Explain why NEH's denial of access, amendment or correction was erroneous.
 
-(b) Appeals should be directed to the NEH Office of the General Counsel at the physical address or email address identified in § 1169.3. The Office of the General Counsel will refer the appeal letter to the Chairperson (or his or his or her designee), or in the case of records retrieved from NEH's OIG Investigative Files, will refer the appeal letter to the NEH OIG.
+(c) Appeals should be directed to the NEH Office of the General Counsel at the physical address or email address identified in § 1169.3. The Office of the General Counsel will refer the appeal letter to the Chairperson (or his or his or her designee), or in the case of records retrieved from NEH's OIG Investigative Files, will refer the appeal letter to the NEH OIG.
 
-(c) The Chairperson will review the initial request for access to, or amendment or correction of, the record, NEH's refusal, and any other pertinent material relating to the appeal. NEH will not hold a hearing on the appeal.
+(d) The Chairperson will review the initial request for access to, or amendment or correction of, the record, NEH's refusal, and any other pertinent material relating to the appeal. NEH will not hold a hearing on the appeal.
 
-(d) The Chairperson will render a final decision on the appeal within 30 business days of its receipt by NEH, unless the Chairperson, for good cause shown, extends the 30-day period. Should the Chairperson extend the 30-day period, NEH will inform the requester of the extension and the circumstances of the delay.
+(e) The Chairperson will render a final decision on the appeal within 30 business days of its receipt by NEH, unless the Chairperson, for good cause shown, extends the 30-day period. Should the Chairperson extend the 30-day period, NEH will inform the requester of the extension and the circumstances of the delay.
 
-(e) In conducting appeals under this provision, the Chairperson will be guided by the requirements of 5 U.S.C. 552a(e)(1) and (e)(5).
+(f) In conducting appeals under this provision, the Chairperson will be guided by the requirements of 5 U.S.C. 552a(e)(1) and (e)(5).
 
-(f) NEH will notify a requester, in writing, when the Chairperson determines to grant an appeal in whole or in part, and will grant the requester access to his or her record, or correct or amend the record, in accordance with the Chairperson's determination.
+(g) NEH will notify a requester, in writing, when the Chairperson determines to grant an appeal in whole or in part, and will grant the requester access to his or her record, or correct or amend the record, in accordance with the Chairperson's determination.
 
-(g) When the Chairperson determines to deny an appeal, in whole or in part, NEH will notify the requester in writing of the following:
+(h) When the Chairperson determines to deny an appeal, in whole or in part, NEH will notify the requester in writing of the following:
 
 (1) The basis for the decision;
 
@@ -34,4 +34,4 @@
 
 (5) The requester's right to seek judicial review under 5 U.S.C. 552a(g)(1)(a).
 
-Editorial Note:At 84 FR 34789, July 19, 2019, part 1160 was added, including § 1169.8 which contains two paragraphs designated as (b).
+[84 FR 34789, July 19, 2019, as amended at 84 FR 59314, Nov. 4, 2019]

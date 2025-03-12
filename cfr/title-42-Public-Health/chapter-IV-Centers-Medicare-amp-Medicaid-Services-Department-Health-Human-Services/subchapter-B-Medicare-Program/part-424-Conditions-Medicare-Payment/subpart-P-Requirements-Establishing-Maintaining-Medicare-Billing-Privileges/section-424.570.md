@@ -1,18 +1,22 @@
 ##### § 424.570 Moratoria on newly enrolling Medicare providers and suppliers. #####
 
-Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
-
-(a) *Temporary moratoria* - (1) *General rules.* (i) CMS may impose a moratorium on the enrollment of new Medicare providers and suppliers of a particular type or the establishment of new practice locations of a particular type in a particular geographic area.
+(a) *Temporary moratoria*—(1) *General rules.* (i) CMS may impose a moratorium on the enrollment of new Medicare providers and suppliers of a particular type or the establishment of new practice locations of a particular type in a particular geographic area.
 
 (ii) CMS will announce the temporary enrollment moratorium in a Federal Register document that includes the rationale for imposition of the temporary enrollment moratorium.
 
-(iii) The temporary moratorium does not apply to changes in practice location, changes in provider or supplier information such as phone number, address or changes in ownership (except changes in ownership of home health agencies that would require an initial enrollment under § 424.550).
+(iii) The temporary moratorium does not apply to any of the following:
 
-(iv) The temporary enrollment moratorium does not apply to any enrollment application that has been approved by the enrollment contractor but not yet entered into PECOS at the time the moratorium is imposed.
+(A) Changes in practice location (except if the location is changing from a location outside the moratorium area to a location inside the moratorium area).
 
-(2) *Imposition of a temporary moratoria.* CMS may impose the temporary moratorium if -
+(B) Changes in provider or supplier information, such as phone numbers.
 
-(i) CMS determines that there is a significant potential for fraud, waste or abuse with respect to a particular provider or supplier type or particular geographic area or both. CMS's determination is based on its review of existing data, and without limitation, identifies a trend that appears to be associated with a high risk of fraud, waste or abuse, such as a -
+(C) Changes in ownership (except changes in ownership of home health agencies that would require an initial enrollment).
+
+(iv) A temporary moratorium does not apply to any enrollment application that has been received by the Medicare contractor prior to the date the moratorium is imposed.
+
+(2) *Imposition of a temporary moratoria.* CMS may impose the temporary moratorium if—
+
+(i) CMS determines that there is a significant potential for fraud, waste or abuse with respect to a particular provider or supplier type or particular geographic area or both. CMS's determination is based on its review of existing data, and without limitation, identifies a trend that appears to be associated with a high risk of fraud, waste or abuse, such as a—
 
 (A) Highly disproportionate number of providers or suppliers in a category relative to the number of beneficiaries; or
 
@@ -42,4 +46,4 @@ Link to an amendment published at 84 FR 47856, Sept. 10, 2019.
 
 (4) In the judgment of the Secretary, the moratorium is no longer needed.
 
-[76 FR 5965, Feb. 2, 2011]
+[76 FR 5965, Feb. 2, 2011, as amended at 84 FR 47856, Sept. 10, 2019]
