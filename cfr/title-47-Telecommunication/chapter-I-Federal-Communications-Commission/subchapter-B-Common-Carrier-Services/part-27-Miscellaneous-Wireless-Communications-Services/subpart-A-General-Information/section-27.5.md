@@ -110,4 +110,4 @@ No 125 kHz channels are provided for channels in operation in this service. The 
 
 *Block G:* 647-652 MHz and 693-698 MHz.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

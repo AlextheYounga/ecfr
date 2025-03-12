@@ -1,5 +1,7 @@
 ##### § 30.4 Frequencies. #####
 
+Link to an amendment published at 84 FR 1631, Feb. 5, 2019.
+
 The following frequencies are available for assignment in the Upper Microwave Flexible Use Service:
 
 (a) 24.25-24.45 GHz and 24.75-25.25 GHz bands - 24.25-24.35 GHz; 24.35-24.45 GHz; 24.75-24.85 GHz; 24.85-24.95 GHz; 24.95-25.05 GHz; 25.05-25.15 GHz; and 25.15-25.25 GHz.

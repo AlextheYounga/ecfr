@@ -102,7 +102,7 @@ For purposes of the part:
 
 (rr) *Serving wire center* means the telephone company central office designated by the telephone company to serve the geographic area in which the interexchange carrier or other person's point of demarcation is located.
 
-(ss) *Tandem-switched transport* means transport of traffic that is switched at a tandem switch -
+(ss) *Tandem-switched transport* means transport of traffic that is switched at a tandem switch—
 
 (1) Between the serving wire center and the end office, or
 
@@ -118,4 +118,4 @@ Tandem-switched transport between a serving wire center and an end office consis
 
 (ww) *Interstate common line support (ICLS)* means funds that are provided pursuant to § 54.901 of this chapter.
 
-[52 FR 37309, Oct. 6, 1987]Editorial Note:For Federal Register citations affecting § 69.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 37309, Oct. 6, 1987]Editorial Note:For Federal Register citations affecting § 69.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

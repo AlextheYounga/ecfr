@@ -202,4 +202,4 @@ Table 4 to § 27.50 - Permissible Power and Antenna Heights for Base and Fixed S
 |         Above 305 (1000) To 458 (1500)          |                          1200                          |
 |                Up to 305 (1000)                 |                          2000                          |
 
-[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.50, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

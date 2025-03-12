@@ -78,4 +78,4 @@
 
 (j) [Reserved]
 
-(47 U.S.C. 154 (i) and (j), 201, 202, 203, 205, 218 and 403 and 5 U.S.C. 553)[48 FR 10358, Mar. 11, 1983]Editorial Note:For Federal Register citations affecting § 69.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(47 U.S.C. 154 (i) and (j), 201, 202, 203, 205, 218 and 403 and 5 U.S.C. 553)[48 FR 10358, Mar. 11, 1983]Editorial Note:For Federal Register citations affecting § 69.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

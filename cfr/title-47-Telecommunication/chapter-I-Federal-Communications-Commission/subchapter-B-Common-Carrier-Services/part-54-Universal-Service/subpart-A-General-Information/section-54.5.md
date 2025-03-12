@@ -72,4 +72,4 @@ Terms used in this part have the following meanings:
 
 *Wire center.* A wire center is the location of a local switching facility containing one or more central offices, as defined in the Appendix to part 36 of this chapter. The wire center boundaries define the area in which all customers served by a given wire center are located.
 
-[62 FR 32948, June 17, 1997]Editorial Note:For Federal Register citations affecting § 54.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 32948, June 17, 1997]Editorial Note:For Federal Register citations affecting § 54.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

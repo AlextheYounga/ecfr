@@ -169,4 +169,4 @@
 
 (3) Each applicant for such new or modified feeder-link earth stations shall file with its application memoranda of coordination with each licensee authorized to construct BSS receive earth stations within the coordination zone.
 
-[30 FR 7176, May 28, 1965]Editorial Note:For Federal Register citations affecting § 25.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[30 FR 7176, May 28, 1965]Editorial Note:For Federal Register citations affecting § 25.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -112,4 +112,4 @@ Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite ser
 
 (j) For earth stations in the Fixed-Satellite Service (Earth-to-space) that transmit in the 49.7-50.2 GHz and 50.4-50.9 GHz bands, the unwanted emission power in the 50.2-50.4 GHz band shall not exceed −20 dBW/200 MHz (measured at the input of the antenna), except that the maximum unwanted emission power may be increased to −10 dBW/200 MHz for earth stations having an antenna gain greater than or equal to 57 dBi. These limits apply under clear-sky conditions. During fading conditions, the limits may be exceeded by earth stations when using uplink power control.
 
-[30 FR 7176, May 28, 1965]Editorial Note:For Federal Register citations affecting § 25.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[30 FR 7176, May 28, 1965]Editorial Note:For Federal Register citations affecting § 25.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

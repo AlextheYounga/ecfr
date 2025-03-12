@@ -167,4 +167,4 @@ Note to paragraph (w):
 
 These limits pertain to the power flux-density that would be obtained under assumed free-space propagation conditions.
 
-[48 FR 40255, Sept. 6, 1983]Editorial Note:For Federal Register citations affecting § 25.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 40255, Sept. 6, 1983]Editorial Note:For Federal Register citations affecting § 25.208, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

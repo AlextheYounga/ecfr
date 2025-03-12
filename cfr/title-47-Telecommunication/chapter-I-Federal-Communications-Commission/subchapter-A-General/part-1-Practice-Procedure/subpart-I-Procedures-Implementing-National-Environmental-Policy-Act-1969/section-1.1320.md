@@ -1,6 +1,6 @@
 ##### § 1.1320 Review of Commission undertakings that may affect historic properties. #####
 
-(a) *Review of Commission undertakings.* Any Commission undertaking that has the potential to cause effects on historic properties, unless excluded from review pursuant to paragraph (b) of this section, shall be subject to review under section 106 of the National Historic Preservation Act, as amended, 54 U.S.C. 306108, by applying -
+(a) *Review of Commission undertakings.* Any Commission undertaking that has the potential to cause effects on historic properties, unless excluded from review pursuant to paragraph (b) of this section, shall be subject to review under section 106 of the National Historic Preservation Act, as amended, 54 U.S.C. 306108, by applying—
 
 (1) The procedures set forth in regulations of the Advisory Council on Historic Preservation, 36 CFR800.3-800.13, or
 
@@ -20,7 +20,7 @@
 
 (3) *Replacement utility poles.* Construction of a replacement for an existing structure where all the following criteria are satisfied:
 
-(i) The original structure -
+(i) The original structure—
 
 (A) Is a pole that can hold utility, communications, or related transmission lines;
 
@@ -28,7 +28,7 @@
 
 (C) Is not itself a historic property.
 
-(ii) The replacement pole -
+(ii) The replacement pole—
 
 (A) Is located no more than 10 feet away from the original pole, based on the distance between the centerpoint of the replacement pole and the centerpoint of the original pole; *provided* that construction of the replacement pole in place of the original pole entails no new ground disturbance (either laterally or in depth) outside previously disturbed areas, including disturbance associated with temporary support of utility, communications, or related transmission lines. For purposes of this paragraph, “ground disturbance” means any activity that moves, compacts, alters, displaces, or penetrates the ground surface of previously undisturbed soils;
 
@@ -74,7 +74,7 @@
 
 (v) The deployment would otherwise require the preparation of an Environmental Assessment under 1.1304(a)(4) solely because of the age of the structure.
 
-Note 1 to Paragraph (b)(4):
+Note 1 to paragraph (b)(4):
 
 A non-visible new antenna is in the “same vicinity” as a pre-existing antenna if it will be collocated on the same rooftop, façade or other surface. A visible new antenna is in the “same vicinity” as a pre-existing antenna if it is on the same rooftop, façade, or other surface and the centerpoint of the new antenna is within ten feet of the centerpoint of the pre-existing antenna. A deployment causes no new ground disturbance when the depth and width of previous disturbance exceeds the proposed construction depth and width by at least two feet.
 

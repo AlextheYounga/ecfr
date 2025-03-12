@@ -1,6 +1,6 @@
 ##### § 894.804 Am I a sponsor for a FEDVIP dental or vision plan? #####
 
-(a) Generally, the *sponsor* is the individual who is eligible for medical or dental benefits under 10 U.S.C. chapter 55 based on his or her direct affiliation with the uniformed services, including military members of the National Guard and Reserves. Relationship to a *sponsor* conveys *TEI* status to a *TEI family member.* If two parents of a *TEI child* are entitled to be a s*ponsor,* see restriction on dual enrollment at § 894.203.
+(a) Generally, the sponsor is the individual who is eligible for medical or dental benefits under 10 U.S.C. chapter 55 based on his or her direct affiliation with the uniformed services, including military members of the National Guard and Reserves. Relationship to a sponsor conveys TEI status to a TEI family member. If two parents of a TEI child are entitled to be a sponsor, see restriction on dual enrollment at § 894.204.
 
 (b) *Sponsor* for a FEDVIP dental plan means:
 
@@ -29,3 +29,5 @@ Prime and who is not on active duty;
 (6) Deceased member described at paragraphs (c)(1) through (5) of this section; or
 
 (7) Deceased Reserve Component member (deceased in the line of duty).
+
+[83 FR 58180, Nov. 19, 2018, as amended at 84 FR 1599, Feb. 5, 2019]

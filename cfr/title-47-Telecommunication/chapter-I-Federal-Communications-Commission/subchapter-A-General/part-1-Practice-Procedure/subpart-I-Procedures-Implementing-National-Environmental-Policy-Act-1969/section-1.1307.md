@@ -121,4 +121,4 @@ Pending a final determination as to what, if any, permanent measures should be a
 
 (4) The term *direct-to-home satellite services* means the distribution or broadcasting of programming or services by satellite directly to the subscriber's premises without the use of ground receiving or distribution equipment, except at the subscriber's premises or in the uplink process to the satellite.
 
-[51 FR 15000, Apr. 22, 1986]Editorial Note:For Federal Register citations affecting § 1.1307, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 15000, Apr. 22, 1986]Editorial Note:For Federal Register citations affecting § 1.1307, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

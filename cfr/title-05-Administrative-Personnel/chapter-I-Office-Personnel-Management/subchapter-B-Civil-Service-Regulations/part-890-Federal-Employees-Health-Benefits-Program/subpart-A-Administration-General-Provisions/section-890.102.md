@@ -10,7 +10,7 @@
 
 (2) An employee who is expected to work less than 6 months in each year, except for an employee who receives an appointment of at least 1 year's duration as an Intern under § 213.3402(a) of this chapter and who is expected to be in a pay status for at least one-third of the total period of time from the date of the first appointment to the completion of the Internship Program.
 
-(3) An intermittent employee - a non-full-time employee without a prearranged regular tour of duty.
+(3) An intermittent employee—a non-full-time employee without a prearranged regular tour of duty.
 
 (4) A beneficiary or patient employee in a Government hospital or home.
 
@@ -78,4 +78,4 @@
 
 (k) The Director, upon written request of an employer of employees other than those covered by 5 U.S.C. 8901(1)(A), may, in his or her sole discretion, waive application of paragraph (j) of this section to its employees when the employer demonstrates to the Director that the waiver is necessary to avoid an adverse impact on the employer's need to manage its workforce. However, a Tribal employer participating under 25 U.S.C. 1647b may provide a written notification to the Director that it has chosen not to apply paragraph (j) of this section for its workforce.
 
-[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

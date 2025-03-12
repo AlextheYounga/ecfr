@@ -24,4 +24,4 @@
 
 (l) *600 MHz band.* Authorizations for the 600 MHz band will have an initial term not to exceed twelve years from the date of issuance and ten years from the date of any subsequent license renewal.
 
-[65 FR 3146, Jan. 20, 2000]Editorial Note:For Federal Register citations affecting § 27.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[65 FR 3146, Jan. 20, 2000]Editorial Note:For Federal Register citations affecting § 27.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -62,4 +62,4 @@ SBIt = SBIt-1[Σi vi(Pt/Pt−1)i]whereSBIt = the proposed SBI value,SBIt-1 = the
 
 (k) In no case shall a price cap local exchange carrier include data associated with services offered pursuant to contract tariff in the calculations required by this section.
 
-[54 FR 19843, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 19843, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

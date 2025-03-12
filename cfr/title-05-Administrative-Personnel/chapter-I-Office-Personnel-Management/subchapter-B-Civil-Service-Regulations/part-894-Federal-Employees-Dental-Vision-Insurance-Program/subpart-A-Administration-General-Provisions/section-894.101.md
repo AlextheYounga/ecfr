@@ -86,6 +86,8 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 *TEI child* means an individual who is a *TEI* and who meets the definition of dependent in 10 U.S.C. 1072(2)(D) or (I) with respect to a *sponsor.*
 
+*TEI family member* means a TEI who is a dependent with respect to a sponsor, as defined in 10 U.S.C. 1072(2)(A) (spouse), 10 U.S.C. 1072(2)(B) (unremarried widow), 10 U.S.C. 1072(2)(C) (unremarried widower), 10 U.S.C. 1072(2)(D) (child), or 10 U.S.C 1072(2)(I) (unmarried person).
+
 *TEI former spouse* means a *TEI* who is an unremarried former spouse as defined in 10 U.S.C. 1072(2)(F), (G), or (H) and is entitled to medical care under 10 U.S.C. 1086(c) or (d).
 
 *TRICARE-eligible individual (TEI)* means a *TRICARE-eligible individual for FEDVIP dental benefits (TEI-D)* or a *TRICARE-eligible individual for FEDVIP vision benefits (TEI-V),* as the case may be.
@@ -102,4 +104,4 @@ This part is written as if the reader were an applicant or enrollee. Accordingly
 
 (3) Self and family.
 
-[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018]
+[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 81 FR 86906, Dec. 2, 2016; 83 FR 32193, July 12, 2018; 83 FR 58177, Nov. 19, 2018; 84 FR 1599, Feb. 5, 2019]

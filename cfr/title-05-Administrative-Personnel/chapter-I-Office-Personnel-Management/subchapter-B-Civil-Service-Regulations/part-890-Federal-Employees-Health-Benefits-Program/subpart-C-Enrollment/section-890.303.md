@@ -42,4 +42,4 @@
 
 (3) If the enrollment of an employee had terminated due to the expiration of 365 days in nonpay status or because of the employee's separation from service, it may be reinstated for the remainder of the 24-month period beginning on the date that the employee is placed on leave without pay or separated from service to perform active duty in the uniformed services, provided that the employee continues to be entitled to continued coverage under part 353 of this chapter, or similar authority.
 
-[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

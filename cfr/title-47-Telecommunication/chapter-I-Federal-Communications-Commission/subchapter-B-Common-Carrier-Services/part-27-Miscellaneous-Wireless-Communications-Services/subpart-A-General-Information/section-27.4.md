@@ -98,4 +98,4 @@
 
 *Wireless communications service.* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

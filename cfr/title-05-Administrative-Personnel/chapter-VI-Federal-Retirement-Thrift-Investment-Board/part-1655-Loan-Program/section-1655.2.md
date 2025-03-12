@@ -12,4 +12,6 @@ A participant can apply for a TSP general purpose or residential loan if:
 
 (e) The participant has not had a TSP loan declared a taxable distribution within the last 12 months for any reason other than a separation from Government service.
 
-[69 FR 29852, May 26, 2004, as amended at 70 FR 32218, June 1, 2005]
+Paragraph (b) of this section shall not apply to loan requests made during a Government shutdown by participants who are furloughed or excepted from furlough due to the Government shutdown.
+
+[84 FR 1601, Feb. 5, 2019]

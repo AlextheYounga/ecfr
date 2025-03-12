@@ -142,4 +142,4 @@ Zone Average Revenue per Line = (25% \* (Loop + Port)) + U (Uniform revenue per 
 
 (2) The local exchange carrier will continue to be engaging in access stimulation until it terminates all revenue sharing arrangements covered in paragraph (a)(1)(i) of this section. A local exchange carrier engaging in access stimulation is subject to revised interstate switched access charge rules under § 61.38 and § 69.3(e)(12) of this chapter.
 
-[54 FR 19840, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 19840, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

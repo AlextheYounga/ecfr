@@ -140,4 +140,4 @@ Economic Areas are defined by the Regional Economic Analysis Division, Bureau of
 
 (l) *600 MHz band.* Service areas for the 600 MHz band are based on Partial Economic Areas (PEAs) as defined by *Wireless Telecommunications Bureau Provides Details About Partial Economic Areas,* Public Notice, 29 FCC Rcd 6491, App. B (2014). The service areas of PEAs that border the U.S. coastline of the Gulf of Mexico extend 12 nautical miles from the U.S. Gulf coastline. The service area of the Gulf of Mexico PEA (PEA 416) that comprises the water area of the Gulf of Mexico extends from 12 nautical miles off the U.S. Gulf coast outward into the Gulf.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

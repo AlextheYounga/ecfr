@@ -62,4 +62,4 @@
 
 (g) New services, other than those within the scope of paragraph (f) of this section, must be included in the affected basket at the first annual price cap tariff filing following completion of the base period in which they are introduced. To the extent that such new services are permitted or required to be included in new or existing service categories within the assigned basket, they shall be so included at the first annual price cap tariff filing following completion of the base period in which they are introduced.
 
-[54 FR 19842, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[54 FR 19842, May 8, 1989]Editorial Note:For Federal Register citations affecting § 61.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

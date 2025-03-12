@@ -92,4 +92,4 @@
 
 (b) Whenever, in this part, a period of time is stated as a number of days or a number of days from an event, the period is computed in calendar days, excluding the day of the event. Whenever, in this part, a period of time is defined by beginning and ending dates, the period includes the beginning and ending dates.
 
-[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[33 FR 12510, Sept. 4, 1968]Editorial Note:For Federal Register citations affecting § 890.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

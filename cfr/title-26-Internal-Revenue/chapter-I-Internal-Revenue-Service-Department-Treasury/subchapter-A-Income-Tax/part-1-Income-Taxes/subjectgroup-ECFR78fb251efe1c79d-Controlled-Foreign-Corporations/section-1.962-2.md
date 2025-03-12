@@ -1,6 +1,6 @@
 ##### § 1.962-2 Election of limitation of tax for individuals. #####
 
-(a) *Who may elect.* The election under section 962 may be made only by a United States shareholder who is an individual (including a trust or estate).
+(a) *Who may elect.* The election under section 962 may be made only by an individual (including a trust or estate) who is a United States shareholder (including an individual who is a United States shareholder because, by reason of section 958(b), he is considered to own stock of a foreign corporation owned (within the meaning of section 958(a)) by a domestic pass-through entity (as defined in § 1.965-1(f)(19))).
 
 (b) *Time and manner of making election.* Except as provided in § 1.962-4, a United States shareholder shall make an election under this section by filing a statement to such effect with his return for the taxable year with respect to which the election is made. The statement shall include the following information:
 
@@ -18,4 +18,6 @@
 
 (2) *Revocation.* Upon application by the United States shareholder, an election made under this section may, subject to the approval of the Commissioner, be revoked. Approval will not be granted unless a material and substantial change in circumstances occurs which could not have been anticipated when the election was made. The application for consent to revocation shall be made by the United States shareholder's mailing a letter for such purpose to Commissioner of Internal Revenue, Attention: T:R, Washington, DC 20224, containing a statement of the facts upon which such shareholder relies in requesting such consent.
 
-[T.D. 6858, 30 FR 13696, Oct. 28, 1965]
+(d) *Applicability dates.* Paragraph (a) of this section applies beginning the last taxable year of a foreign corporation that begins before January 1, 2018, and with respect to a United States person, for the taxable year in which or with which such taxable year of the foreign corporation ends.
+
+[T.D. 6858, 30 FR 13696, Oct. 28, 1965, as amended at T.D. 9846, 84 FR 1875, Feb. 5, 2019]

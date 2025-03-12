@@ -38,4 +38,4 @@
 
 47 CFR part 19, subpart E.
 
-[29 FR 14666, Oct. 28, 1964]Editorial Note:For Federal Register citations affecting § 0.231, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[29 FR 14666, Oct. 28, 1964]Editorial Note:For Federal Register citations affecting § 0.231, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -44,4 +44,4 @@ Wireless Telecommunications Bureau applications that require frequency coordinat
 
 (2) Alternatively, applications and other filings may be sent electronically via the Universal Licensing System (ULS) or the Cable Operations and Licensing System (COALS) as appropriate for use of those systems.
 
-[52 FR 10227, Mar. 31, 1987]Editorial Note:For Federal Register citations affecting § 0.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 10227, Mar. 31, 1987]Editorial Note:For Federal Register citations affecting § 0.401, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
