@@ -6,7 +6,7 @@
 
 1-800-843-2763; *http://www.asme.org/Codes/.*
 
-(i) *ASME Boiler and Pressure Vessel Code, Section III.* The editions and addenda for Section III of the ASME Boiler and Pressure Vessel Code (excluding Nonmandatory Appendices) (referred to herein as ASME BPV Code) are listed in this paragraph (a)(1)(i), but limited by those provisions identified in paragraph (b)(1) of this section.
+(i) *ASME Boiler and Pressure Vessel Code, Section III.* The editions and addenda for Section III of the ASME Boiler and Pressure Vessel Code (excluding Nonmandatory Appendices) are listed in this paragraph (a)(1)(i), but limited by those provisions identified in paragraph (b)(1) of this section.
 
 (A) “Rules for Construction of Nuclear Vessels:”
 
@@ -184,11 +184,16 @@
 
 (*15*) 2010 Edition (including Subsection NCA; and Division 1 subsections NB through NH and Appendices),
 
-(*16*) 2011a Addenda (including Subsection NCA; and Division 1 subsections NB through NH and Appendices), and
+(*16*) 2011a Addenda (including Subsection NCA; and Division 1 subsections NB through NH and Appendices),
 
-(*17*) 2013 Edition (including Subsection NCA; and Division 1 subsections NB through NH and Appendices).
+(*17*) 2013 Edition (including Subsection NCA; and Division 1 subsections NB through NH and Appendices),
 
-(ii) *ASME Boiler and Pressure Vessel Code, Section XI.* The editions and addenda for Section XI of the ASME BPV Code are listed in this paragraph (a)(1)(ii), but limited by those provisions identified in paragraph (b)(2) of this section.
+(*18*) 2015 Edition (including Subsection NCA; and Division 1 subsections NB through NH and Appendices), and
+
+(*19*) 2017 Edition (including Subsection NCA; and Division 1 subsections NB through NG and Appendices).
+.
+
+(ii) *ASME Boiler and Pressure Vessel Code, Section XI.* The editions and addenda for Section XI of the ASME Boiler and Pressure Vessel Code are listed in this paragraph (a)(1)(ii), but limited by those provisions identified in paragraph (b)(2) of this section.
 
 (A) “Rules for Inservice Inspection of Nuclear Reactor Coolant Systems:”
 
@@ -328,24 +333,29 @@
 
 (*51*) 2010 Edition,
 
-(*52*) 2011a Addenda (Excluding Article IWB-2000: IWB-2500 “Examination and Inspection: Examination and Pressure Test Requirements,” Table IWB-2500-1 “Examination Categories,” Item numbers B5.11 and B5.71), and
+(*52*) 2011a Addenda,
 
-(*53*) 2013 Edition (Excluding Article IWB-2000: IWB-2500 “Examination and Inspection: Examination and Pressure Test Requirements,” Table IWB-2500-1 (B-F) “Examination Category B-F, Pressure Retaining Dissimilar Metal Welds in Vessel Nozzles,” Item numbers B5.11 and B5.71; Article IWB-3000 “Acceptance Standards,” IWB-3100 “Evaluation of Examination Results,” IWB-3110 “Preservice Volumetric and Surface Examinations,” IWB-3112 “Acceptance,” paragraph (a)(3); and Article IWC-3000 “Acceptance Standards,” IWC-3100 “Evaluation of Examination Results,” IWC-3110 “Preservice Volumetric and Surface Examinations,” IWC-3112 “Acceptance,” paragraph (a)(3)).
+(*53*) 2013 Edition,
+
+(*54*) 2015 Edition, and
+
+(*55*) 2017 Edition.
 
 (iii) *ASME Code Cases: Nuclear Components* -
 (A) *ASME BPV Code Case N-513-3 Mandatory Appendix I.* ASME BPV Code Case N-513-3, “Evaluation Criteria for Temporary Acceptance of Flaws in Moderate Energy Class 2 or 3 Piping Section XI, Division 1,” Mandatory Appendix I, “Relations for *F*m, *F*b, and *F* for Through-Wall Flaws” (Approval Date: January 26, 2009). ASME BPV Code Case N-513-3 Mandatory Appendix I is referenced in paragraph (b)(2)(xxxiv)(B) of this section.
 
 (B) *ASME BPV Code Case N-722-1.* ASME BPV Code Case N-722-1, “Additional Examinations for PWR Pressure Retaining Welds in Class 1 Components Fabricated with Alloy 600/82/182 Materials, Section XI, Division 1” (Approval Date: January 26, 2009), with the conditions in paragraph (g)(6)(ii)(E) of this section.
-
-(C) *ASME BPV Code Case N-729-4.* ASME BPV Code Case N-729-4, “Alternative Examination Requirements for PWR Reactor Vessel Upper Heads With Nozzles Having Pressure-Retaining Partial-Penetration Welds Section XI, Division 1” (Approval Date: June 22, 2012), with the conditions in paragraph (g)(6)(ii)(D) of this section.
-
-(D) *ASME BPV Code Case N-770-2.* ASME BPV Code Case N-770-2, “Alternative Examination Requirements and Acceptance Standards for Class 1 PWR Piping and Vessel Nozzle Butt Welds Fabricated with UNS N06082 or UNS W86182 Weld Filler Material With or Without Application of Listed Mitigation Activities Section XI, Division 1” (Approval Date: June 9, 2011), with the conditions in paragraph (g)(6)(ii)(F) of this section.
 [Reserved]
 
 (F) *ASME BPV Code Case N-852.* ASME BPV Code Case N-852, “Application of the ASME NPT Stamp, Section III, Division 1; Section III, Division 2; Section III, Division 3; Section III, Division 5” (Approval Date: February 9, 2015). ASME BPV Code Case N-852 is referenced in paragraph (b)(1)(ix) of this section.
-[Reserved]
 
-(iv) *ASME Operation and Maintenance Code.* The editions and addenda for the ASME Operation and Maintenance of Nuclear Power Plants (various edition titles referred to herein as ASME OM Code) are listed in this paragraph (a)(1)(iv), but limited by those provisions identified in paragraph (b)(3) of this section.
+(C) *ASME BPV Code Case N-729-6.* ASME BPV Code Case N-729-6, “Alternative Examination Requirements for PWR Reactor Vessel Upper Heads With Nozzles Having Pressure-Retaining Partial-Penetration Welds Section XI, Division 1” (Approval Date: March 3, 2016), with the conditions in paragraph (g)(6)(ii)(D) of this section.
+
+(D) *ASME BPV Code Case N-770-5.* ASME BPV Code Case N-770-5, “Alternative Examination Requirements and Acceptance Standards for Class 1 PWR Piping and Vessel Nozzle Butt Welds Fabricated with UNS N06082 or UNS W86182 Weld Filler Material With or Without Application of Listed Mitigation Activities Section XI, Division 1” (Approval Date: November 7, 2016), with the conditions in paragraph (g)(6)(ii)(F) of this section.
+
+(E)[Reserved]
+
+(iv) *ASME Operation and Maintenance Code.* The editions and addenda for the ASME Operation and Maintenance of Nuclear Power Plants are listed in this paragraph (a)(1)(iv), but limited by those provisions identified in paragraph (b)(3) of this section.
 
 (A) “Code for Operation and Maintenance of Nuclear Power Plants:”
 
@@ -379,11 +389,13 @@
 
 (*2*) 2011 Addenda.
 
-(C) “Operation and Maintenance of Nuclear Power Plants, Division 1: OM Code: Section IST:”
+(C) *Operation and Maintenance of Nuclear Power Plants:*
 
-(*1*) 2012 Edition.
+(*1*) 2012 Edition, “Division 1: OM Code: Section IST”
 
-(*2*) [Reserved]
+(*2*) 2015 Edition, and
+
+(*3*) 2017 Edition.
 
 (v) *ASME Quality Assurance Requirements.* (A) ASME NQA-1, “Quality Assurance Program Requirements for Nuclear Facilities:”
 
@@ -431,15 +443,21 @@
 
 (3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov;* https://www.nrc.gov/reading-rm/doc-collections/reg-guides/. The use of Code Cases listed in the NRC regulatory guides in paragraphs (a)(1)(i) through (iii) of this section is acceptable with the specified conditions in those guides when implementing the editions and addenda of the ASME BPV Code and ASME OM Code incorporated by reference in paragraph (a)(1) of this section.
 
-(i) *NRC Regulatory Guide 1.84, Revision 38.* NRC Regulatory Guide 1.84, Revision 38, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated March 2017, with the requirements in paragraph (b)(4) of this section.
+(i) *NRC Regulatory Guide 1.84, Revision 38.* NRC Regulatory Guide 1.84, Revision 38, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated October 2019, with the requirements in paragraph (b)(4) of this section.
 
-(ii) *NRC Regulatory Guide 1.147, Revision 19.* NRC Regulatory Guide 1.147, Revision 19, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
+(ii) *NRC Regulatory Guide 1.147, Revision 19.* NRC Regulatory Guide 1.147, Revision 19, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated October 2019, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
 
-(iii) *NRC Regulatory Guide 1.192, Revision 3.* NRC Regulatory Guide 1.192, Revision 3, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+(iii) *NRC Regulatory Guide 1.192, Revision 3.* NRC Regulatory Guide 1.192, Revision 3, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated October 2019, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+
+(4) Electric Power Research Institute, Materials Reliability Program, 3420 Hillview Avenue, Palo Alto, CA 94304-1338; telephone: 1-650-855-2000; *http://www.epri.com.*
+
+(i) “Materials Reliability Program: Topical Report for Primary Water Stress Corrosion Cracking Mitigation by Surface Stress Improvement (MRP-335, Revision 3-A)”, EPRI approval date: November 2016.
+
+(ii) [Reserved]
 
 (b) *Use and conditions on the use of standards.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code and the ASME OM Code as specified in this paragraph (b). Each combined license for a utilization facility is subject to the following conditions.
 
-(1) *Conditions on ASME BPV Code Section III.* Each manufacturing license, standard design approval, and design certification under 10 CFR part 52 is subject to the following conditions. As used in this section, references to Section III refer to Section III of the ASME BPV Code and include the 1963 Edition through 1973 Winter Addenda and the 1974 Edition (Division 1) through the 2013 Edition (Division 1), subject to the following conditions:
+(1) *Conditions on ASME BPV Code Section III.* Each manufacturing license, standard design approval, and design certification under 10 CFR part 52 is subject to the following conditions. As used in this section, references to Section III refer to Section III of the ASME BPV Code and include the 1963 Edition through 1973 Winter Addenda and the 1974 Edition (Division 1) through the 2017 Edition (Division 1), subject to the following conditions:
 
 (i) *Section III condition: Section III materials.* When applying the 1992 Edition of Section III, applicants or licensees must apply the 1992 Edition with the 1992 Addenda of Section II of the ASME Boiler and Pressure Vessel Code.
 
@@ -447,14 +465,14 @@
 
 Table I - Prohibited Code Provisions
 
-|      Editions and addenda       |                          Code provision                           |
-|---------------------------------|-------------------------------------------------------------------|
-|1989 Addenda through 2013 Edition|    Subparagraph NB-3683.4(c)(1); Subparagraph NB-3683.4(c)(2).    |
-|1989 Addenda through 2003 Addenda|Note 11 to Figure NC-3673.2(b)-1; Note 11 to Figure ND-3673.2(b)-1.|
-|2004 Edition through 2010 Edition|Note 13 to Figure NC-3673.2(b)-1; Note 13 to Figure ND-3673.2(b)-1.|
-|2011 Addenda through 2013 Edition| Note 11 to Table NC-3673.2(b)-1; Note 11 to Table ND-3673.2(b)-1. |
+|      Editions and addenda       |                            Code provision                             |
+|---------------------------------|-----------------------------------------------------------------------|
+|1989 Addenda through 2013 Edition|      Subparagraph NB-3683.4(c)(1); Subparagraph NB-3683.4(c)(2).      |
+|1989 Addenda through 2003 Addenda|Footnote 11 to Figure NC-3673.2(b)-1; Note 11 to Figure ND-3673.2(b)-1.|
+|2004 Edition through 2010 Edition|Footnote 13 to Figure NC-3673.2(b)-1; Note 13 to Figure ND-3673.2(b)-1.|
+|2011 Addenda through 2017 Edition| Footnote 11 to Table NC-3673.2(b)-1; Note 11 to Table ND-3673.2(b)-1. |
 
-(iii) *Section III condition: Seismic design of piping.* Applicants or licensees may use Subarticles NB-3200, NB-3600, NC-3600, and ND-3600 for seismic design of piping, up to and including the 1993 Addenda, subject to the condition specified in paragraph (b)(1)(ii) of this section. Applicants or licensees may not use these subarticles for seismic design of piping in the 1994 Addenda through the 2005 Addenda incorporated by reference in paragraph (a)(1) of this section, except that Subarticle NB-3200 in the 2004 Edition through the 2008 Addenda may be used by applicants and licensees, subject to the condition in paragraph (b)(1)(iii)(A) of this section. Applicants or licensees may use Subarticles NB-3600, NC-3600, and ND-3600 for the seismic design of piping in the 2006 Addenda through the 2008 Addenda, subject to the conditions of this paragraph corresponding to those subarticles.
+(iii) *Section III condition: Seismic design of piping.* Applicants or licensees may use Subarticles NB-3200, NB-3600, NC-3600, and ND-3600 for seismic design of piping, up to and including the 1993 Addenda, subject to the condition specified in paragraph (b)(1)(ii) of this section. Applicants or licensees may not use these subarticles for seismic design of piping in the 1994 Addenda through the 2005 Addenda incorporated by reference in paragraph (a)(1) of this section, except that Subarticle NB-3200 in the 2004 Edition through the 2017 Edition may be used by applicants and licensees, subject to the condition in paragraph (b)(1)(iii)(A) of this section. Applicants or licensees may use Subarticles NB-3600, NC-3600, and ND-3600 for the seismic design of piping in the 2006 Addenda through the 2017 Edition, subject to the conditions of this paragraph corresponding to those subarticles.
 
 (A) *Seismic design of piping: First provision.* When applying Note (1) of Figure NB-3222-1 for Level B service limits, the calculation of Pb stresses must include reversing dynamic loads (including inertia earthquake effects) if evaluation of these loads is required by NB-3223(b).
 
@@ -462,27 +480,99 @@ Table I - Prohibited Code Provisions
 
 (iv) *Section III condition: Quality assurance.* When applying editions and addenda later than the 1989 Edition of Section III, the requirements of NQA-1, “Quality Assurance Requirements for Nuclear Facility Applications,” 1994 Edition, 2008 Edition, and the 2009-1a Addenda specified in either NCA-4000 or NCA-7000 of that edition and addenda of Section III may be used by an applicant or licensee, provided that the administrative, quality, and technical provisions contained in that edition and addenda of Section III are used in conjunction with the applicant's or licensee's appendix B to this part quality assurance program; and that the applicant's or licensee's Section III activities comply with those commitments contained in the applicant's or licensee's quality assurance program description. Where NQA-1 and Section III do not address the commitments contained in the applicant's or licensee's appendix B quality assurance program description, those licensee commitments must be applied to Section III activities.
 
-(v) *Section III condition: Independence of inspection.* Applicants or licensees may not apply NCA-4134.10(a) of Section III, 1995 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section.
+(v) *Section III condition: Independence of inspection.* Applicants or licensees may not apply the exception in NCA-4134.10(a) of Section III, 1995 Edition through 2009b Addenda of the 2007 Edition, from paragraph 3.1 of Supplement 10S-1 of NQA-1-1994 Edition.
 
-(vi) *Section III condition: Subsection NH.* The provisions in Subsection NH, “Class 1 Components in Elevated Temperature Service,” 1995 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section, may only be used for the design and construction of Type 316 stainless steel pressurizer heater sleeves where service conditions do not cause the components to reach temperatures exceeding 900 °F.
+(vi) *Section III condition: Subsection NH.* The provisions in Subsection NH, “Class 1 Components in Elevated Temperature Service,” 1995 Addenda through all editions and addenda up to and including the 2013 Edition incorporated by reference in paragraph (a)(1) of this section, may only be used for the design and construction of Type 316 stainless steel pressurizer heater sleeves where service conditions do not cause the components to reach temperatures exceeding 900 °F.
 
-(vii) *Section III condition: Capacity certification and demonstration of function of incompressible-fluid pressure-relief valves.* When applying the 2006 Addenda through the 2013 Edition, applicants and licensees may use paragraph NB-7742, except that paragraph NB-7742(a)(2) may not be used. For a valve design of a single size to be certified over a range of set pressures, the demonstration of function tests under paragraph NB-7742 must be conducted as prescribed in NB-7732.2 on two valves covering the minimum set pressure for the design and the maximum set pressure that can be accommodated at the demonstration facility selected for the test.
+(vii) *Section III condition: Capacity certification and demonstration of function of incompressible-fluid pressure-relief valves.* When applying the 2006 Addenda through all editions and addenda up to and including the 2017 Edition, applicants and licensees may use paragraph NB-7742, except that paragraph NB-7742(a)(2) may not be used. For a valve design of a single size to be certified over a range of set pressures, the demonstration of function tests under paragraph NB-7742 must be conducted as prescribed in NB-7732.2 on two valves covering the minimum set pressure for the design and the maximum set pressure that can be accommodated at the demonstration facility selected for the test.
 
 (viii) *Section III condition: Use of ASME certification marks.* When applying editions and addenda earlier than the 2011 Addenda to the 2010 Edition, licensees may use either the ASME BPV Code Symbol Stamps or the ASME Certification Marks with the appropriate certification designators and class designators as specified in the 2013 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section.
 
 (ix) *Section III Condition: NPT Code Symbol Stamps.* Licensees may use the NPT Code Symbol Stamp with the letters arranged horizontally as specified in ASME BPV Code Case N-852 for the service life of a component that had the NPT Code Symbol Stamp applied during the time period from January 1, 2005, through December 31, 2015.
 
-(2) *Conditions on ASME BPV Code, Section XI.* As used in this section, references to Section XI refer to Section XI, Division 1, of the ASME BPV Code, and include the 1970 Edition through the 1976 Winter Addenda and the 1977 Edition through the 2013 Edition, subject to the following conditions:
+(x) *Section III Condition: Visual examination of bolts, studs and nuts.* Applicants or licensees applying the provisions of NB-2582, NC-2582, ND-2582, NE-2582, NF-2582, NG-2582 in the 2017 Edition of Section III, must apply paragraphs (b)(1)(x)(A) through (B) of this section.
+
+(A) *Visual examination of bolts, studs, and nuts: First provision.* When applying the provisions of NB-2582, NC-2582, ND-2582, NE-2582, NF-2582, NG-2582 in the 2017 Edition of Section III, the visual examinations are required to be performed in accordance with procedures qualified to NB-5100, NC-5100, ND-5100, NE-5100, NF-5100, NG-5100 and performed by personnel qualified in accordance with NB-5500, NC-5500, ND-5500, NE-5500, NF-5500, and NG-5500.
+
+(B) Visual examination of bolts, studs, and nuts: Second provision. When applying the provisions of NB-2582, NC-2582, ND-2582, NE-2582, NF-2582, and NG-2582 in the 2017 Edition of Section III, bolts, studs, and nuts must be visually examined for discontinuities including cracks, bursts, seams, folds, thread lap, voids, and tool marks.
+
+(xi) *Section III condition: Mandatory Appendix XXVI.* When applying the 2015 and 2017 Editions of Section III, Mandatory Appendix XXVI, “Rules for Construction of Class 3 Buried Polyethylene Pressure Piping,” applicants or licensees must meet the following conditions:
+
+(A) *Mandatory Appendix XXVI: First provision.* When performing fusing procedure qualification testing in accordance with XXVI-2300 and XXVI-4330 the following essential variables must be used for the performance qualification tests of butt fusion joints:
+
+(*1*) Joint Type: A change in the type of joint from that qualified, except that a square butt joint qualifies as a mitered joint.
+
+(*2*) Pipe Surface Alignment: A change in the pipe outside diameter (O.D.) surface misalignment of more than 10 percent of the wall thickness of the thinner member to be fused.
+
+(*3*) PE Material: Each lot of polyethylene source material to be used in production (XXVI-2310(c)).
+
+(*4*) Wall Thickness: Each thickness to be fused in production (XXVI-2310(c)).
+
+(*5*) Diameter: Each diameter to be fused in production (XXVI-2310(c)).
+
+(*6*) Cross-sectional Area: Each combination of thickness and diameter (XXVI-2310(c)).
+
+(*7*) Position: Maximum machine carriage slope when greater than 20 degrees from horizontal (XXVI-4321(c)).
+
+(*8*) Heater Surface Temperature: A change in the heater surface temperature to a value beyond the range tested (XXVI-2321).
+
+(*9*) Ambient Temperature: A change in ambient temperature to less than 50 °F (10 °C) or greater than 125 °F (52 °C) (XXVI-4412(b)).
+
+(*10*) Interfacial Pressure: A change in interfacial pressure to a value beyond the range tested (XXVI-2321).
+
+(*11*) Decrease in Melt Bead Width: A decrease in melt bead size from that qualified.
+
+(*12*) Increase in Heater Removal Time: An increase in heater plate removal time from that qualified.
+
+(*13*) Decrease in Cool-down Time: A decrease in the cooling time at pressure from that qualified.
+
+(*14*) Fusing Machine Carriage Model: A change in the fusing machine carriage model from that tested (XXVI-2310(d)).
+
+(B) *Mandatory Appendix XXVI: Second provision.* When performing procedure qualification for high speed tensile impact testing of butt fusion joints in accordance with XXVI-2300 or XXVI-4330, breaks in the specimen that are away from the fusion zone must be retested. When performing fusing operator qualification bend tests of butt fusion joints in accordance with XXVI-4342, guided side bend testing must be used for all thicknesses greater than 1.25 inches.
+
+(C) *Mandatory Appendix XXVI: Third provision.* When performing fusing procedure qualification tests in accordance with 2017 Edition of BPV Code Section III XXVI-2300 and XXVI-4330, the following essential variables must be used for the testing of electrofusion joints:
+
+(*1*) Joint Design: A change in the design of an electrofusion joint.
+
+(*2*) Fit-up Gap: An increase in the maximum radial fit-up gap qualified.
+
+(*3*) Pipe PE Material: A change in the PE designation or cell classification of the pipe from that tested (XXVI-2322(a)).
+
+(*4*) Fitting PE Material: A change in the manufacturing facility or production lot from that tested (XXVI-2322(b)).
+
+(*5*) Pipe Wall Thickness: Each thickness to be fused in production (XXVI-2310(c)).
+
+(*6*) Fitting Manufacturer: A change in fitting manufacturer.
+
+(*7*) Pipe Diameter: Each diameter to be fused in production (XXVI-2310(c)).
+
+(*8*) Cool-down Time: A decrease in the cool time at pressure from that qualified.
+
+(*9*) Fusion Voltage: A change in fusion voltage.
+
+(*10*) Nominal Fusion Time: A change in the nominal fusion time.
+
+(*11*) Material Temperature Range: A change in material fusing temperature beyond the range qualified.
+
+(*12*) Power Supply: A change in the make or model of electrofusion control box (XXVI-2310(f)).
+
+(*13*) Power Cord: A change in power cord material, length, or diameter that reduces current at the coil to below the minimum qualified.
+
+(*14*) Processor: A change in the manufacturer or model number of the processor. (XXVI-2310(f)).
+
+(*15*) Saddle Clamp: A change in the type of saddle clamp.
+
+(*16*) Scraping Device: A change from a clean peeling scraping tool to any other type of tool.
+
+(xii) *Section III condition: Certifying Engineer.* When applying the 2017 and later editions of ASME BPV Code Section III, the NRC does not permit applicants and licensees to use a Certifying Engineer who is not a Registered Professional Engineer qualified in accordance with paragraph XXIII-1222 for Code-related activities that are applicable to U.S. nuclear facilities regulated by the NRC. The use of paragraph XXIII-1223 is prohibited.
+
+(2) *Conditions on ASME BPV Code, Section XI.* As used in this section, references to Section XI refer to Section XI, Division 1, of the ASME BPV Code, and include the 1970 Edition through the 1976 Winter Addenda and the 1977 Edition through the 2017 Edition, subject to the following conditions:
 
 (i) [Reserved]
 
 (ii) *Section XI condition: Pressure-retaining welds in ASME Code Class 1 piping (applies to Table IWB-2500 and IWB-2500-1 and Category B-J).* If the facility's application for a construction permit was docketed prior to July 1, 1978, the extent of examination for Code Class 1 pipe welds may be determined by the requirements of Table IWB-2500 and Table IWB-2600 Category B-J of Section XI of the ASME BPV Code in the 1974 Edition and Addenda through the Summer 1975 Addenda or other requirements the NRC may adopt.
 
-(iii)-(v) [Reserved]
-
-(vi) *Section XI condition: Effective edition and addenda of Subsection IWE and Subsection IWL.* Licensees that implemented the expedited examination of containment, in accordance with Subsection IWE and Subsection IWL, during the period from September 9, 1996, to September 9, 2001, may use either the 1992 Edition with the 1992 Addenda or the 1995 Edition with the 1996 Addenda of Subsection IWE and Subsection IWL, as conditioned by the requirements in paragraphs (b)(2)(viii) and (ix) of this section, when implementing the initial 120-month inspection interval for the containment inservice inspection requirements of this section. Successive 120-month interval updates must be implemented in accordance with paragraph (g)(4)(ii) of this section.
-
-(vii) *Section XI condition: Section XI references to OM Part 4, OM Part 6, and OM Part 10 (Table IWA-1600-1).* When using Table IWA-1600-1, “Referenced Standards and Specifications,” in the Section XI, Division 1, 1987 Addenda, 1988 Addenda, or 1989 Edition, the specified “Revision Date or Indicator” for ASME/ANSI OM part 4, ASME/ANSI part 6, and ASME/ANSI part 10 must be the OMa-1988 Addenda to the OM-1987 Edition. These requirements have been incorporated into the OM Code, which is incorporated by reference in paragraph (a)(1)(iv) of this section.
+(iii)-(vii) [Reserved]
 
 (viii) *Section XI condition: Concrete containment examinations.* Applicants or licensees applying Subsection IWL, 1992 Edition with the 1992 Addenda, must apply paragraphs (b)(2)(viii)(A) through (E) of this section. Applicants or licensees applying Subsection IWL, 1995 Edition with the 1996 Addenda, must apply paragraphs (b)(2)(viii)(A), (b)(2)(viii)(D)(*3*), and (b)(2)(viii)(E) of this section. Applicants or licensees applying Subsection IWL, 1998 Edition through the 2000 Addenda, must apply paragraphs (b)(2)(viii)(E) and (F) of this section. Applicants or licensees applying Subsection IWL, 2001 Edition through the 2004 Edition, up to and including the 2006 Addenda, must apply paragraphs (b)(2)(viii)(E) through (G) of this section. Applicants or licensees applying Subsection IWL, 2007 Edition up to and including the 2008 Addenda must apply paragraph (b)(2)(viii)(E) of this section. Applicants or licensees applying Subsection IWL, 2007 Edition with the 2009 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, must apply paragraphs (b)(2)(viii)(H) and (I) of this section.
 
@@ -516,7 +606,7 @@ Table I - Prohibited Code Provisions
 
 (I) *Concrete containment examinations: Ninth provision.* During the period of extended operation of a renewed license under part 54 of this chapter, the licensee must perform the technical evaluation under IWL-2512(b) of inaccessible below-grade concrete surfaces exposed to foundation soil, backfill, or groundwater at periodic intervals not to exceed 5 years. In addition, the licensee must examine representative samples of the exposed portions of the below-grade concrete, when such below-grade concrete is excavated for any reason.
 
-(ix) *Section XI condition: Metal containment examinations.* Applicants or licensees applying Subsection IWE, 1992 Edition with the 1992 Addenda, or the 1995 Edition with the 1996 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) through (E) of this section. Applicants or licensees applying Subsection IWE, 1998 Edition through the 2001 Edition with the 2003 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) and (B) and (F) through (I) of this section. Applicants or licensees applying Subsection IWE, 2004 Edition, up to and including the 2005 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) and (B) and (F) through (H) of this section. Applicants or licensees applying Subsection IWE, 2004 Edition with the 2006 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A)(*2*) and (b)(2)(ix)(B) of this section. Applicants or licensees applying Subsection IWE, 2007 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, must satisfy the requirements of paragraphs (b)(2)(ix)(A)(*2*) and (b)(2)(ix)(B) and (J) of this section.
+(ix) *Section XI condition: Metal containment examinations.* Applicants or licensees applying Subsection IWE, 1992 Edition with the 1992 Addenda, or the 1995 Edition with the 1996 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) through (E) and (b)(2)(ix)(K) of this section. Applicants or licensees applying Subsection IWE, 1998 Edition through the 2001 Edition with the 2003 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) and (B) and (b)(2)(ix)(F) through (I) and (b)(2)(ix)(K) of this section. Applicants or licensees applying Subsection IWE, 2004 Edition, up to and including the 2005 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A) and (B) and (b)(2)(ix)(F) through (H) and (b)(2)(ix)(K) of this section. Applicants or licensees applying Subsection IWE, 2004 Edition with the 2006 Addenda, must satisfy the requirements of paragraphs (b)(2)(ix)(A)(2) and (b)(2)(ix)(B) and (b)(2)(ix)(K) of this section. Applicants or licensees applying Subsection IWE, 2007 Edition through the 2015 Edition, must satisfy the requirements of paragraphs (b)(2)(ix)(A)(2) and (b)(2)(ix)(B) and (J) and (K) of this section. Applicants or licensees applying Subsection IWE, 2017 Edition, must satisfy the requirements of paragraphs (b)(2)(ix)(A)(2) and (b)(2)(ix)(B) and (J) of this section.
 
 (A) *Metal containment examinations: First provision.* For Class MC applications, the following apply to inaccessible areas.
 
@@ -555,6 +645,8 @@ Table I - Prohibited Code Provisions
 (I) *Metal containment examinations: Ninth provision.* The ultrasonic examination acceptance standard specified in IWE-3511.3 for Class MC pressure-retaining components must also be applied to metallic liners of Class CC pressure-retaining components.
 
 (J) *Metal containment examinations: Tenth provision.* In general, a repair/replacement activity such as replacing a large containment penetration, cutting a large construction opening in the containment pressure boundary to replace steam generators, reactor vessel heads, pressurizers, or other major equipment; or other similar modification is considered a major containment modification. When applying IWE-5000 to Class MC pressure-retaining components, any major containment modification or repair/replacement must be followed by a Type A test to provide assurance of both containment structural integrity and leak-tight integrity prior to returning to service, in accordance with 10 CFR part 50, Appendix J, Option A or Option B on which the applicant's or licensee's Containment Leak-Rate Testing Program is based. When applying IWE-5000, if a Type A, B, or C Test is performed, the test pressure and acceptance standard for the test must be in accordance with 10 CFR part 50, Appendix J.
+
+(K) *Metal Containment Examinations: Eleventh provision.* A general visual examination of containment leak chase channel moisture barriers must be performed once each interval, in accordance with the completion percentages in Table IWE 2411-1 of the 2017 Edition. Examination shall include the moisture barrier materials (caulking, gaskets, coatings, etc.) that prevent water from accessing the embedded containment liner within the leak chase channel system. Caps of stub tubes extending to or above the concrete floor interface may be inspected, provided the configuration of the cap functions as a moisture barrier as described previously. Leak chase channel system closures need not be disassembled for performance of examinations if the moisture barrier material is clearly visible without disassembly, or coatings are intact. The closures are acceptable if no damage or degradation exists that would allow intrusion of moisture against inaccessible surfaces of the metal containment shell or liner within the leak chase channel system. Examinations that identify flaws or relevant conditions shall be extended in accordance with paragraph IWE 2430 of the 2017 Edition.
 
 (x) *Section XI condition: Quality assurance.* When applying the editions and addenda later than the 1989 Edition of ASME BPV Code, Section XI, the edition and addenda of NQA-1, “Quality Assurance Requirements for Nuclear Facility Applications,” 1994 Edition, the 2008 Edition, and the 2009-1a Addenda specified in either IWA-1400 or Table IWA 1600-1 of that edition and addenda of Section XI, may be used by a licensee provided that the licensee uses its appendix B to this part quality assurance program in conjunction with Section XI requirements and the commitments contained in the licensee's quality assurance program description. Where NQA-1 and Section XI do not address the commitments contained in the licensee's appendix B quality assurance program description, those licensee commitments must be applied to Section XI activities.
 
@@ -694,7 +786,7 @@ Table VIII - S7-1 - Modified
 
 (B) *Ferritic and stainless steel piping examinations: Second provision.* Examinations performed from one side of a ferritic or stainless steel pipe weld must be conducted with equipment, procedures, and personnel that have demonstrated proficiency with single side examinations. To demonstrate equivalency to two sided examinations, the demonstration must be performed to the requirements of Appendix VIII, as conditioned by this paragraph and paragraph (b)(2)(xv)(A) of this section.
 
-(xvii) *Section XI condition: Reconciliation of quality requirements.* When purchasing replacement items, in addition to the reconciliation provisions of IWA-4200, 1995 Addenda through 1998 Edition, the replacement items must be purchased, to the extent necessary, in accordance with the licensee's quality assurance program description required by 10 CFR 50.34(b)(6)(ii).
+(xvii) [Reserved]
 
 (xviii) *Section XI condition: NDE personnel certification.* (A) *NDE personnel certification: First provision.* Level I and II nondestructive examination personnel must be recertified on a 3-year interval in lieu of the 5-year interval specified in the 1997 Addenda and 1998 Edition of IWA-2314, and IWA-2314(a) and IWA-2314(b) of the 1999 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section.
 
@@ -702,17 +794,29 @@ Table VIII - S7-1 - Modified
 
 (C) *NDE personnel certification: Third provision.* When applying editions and addenda prior to the 2005 Addenda of Section XI, licensee's qualifying visual examination personnel for VT-3 visual examination under paragraph IWA-2317 of Section XI must demonstrate the proficiency of the training by administering an initial qualification examination and administering subsequent examinations on a 3-year interval.
 
-(D) *NDE personnel certification: Fourth provision.* The use of Appendix VII, Table VII-4110-1 and Appendix VIII, Subarticle VIII-2200 of the 2011 Addenda and 2013 Edition of Section XI of the ASME BPV Code is prohibited. When using ASME BPV Code, Section XI editions and addenda later than the 2010 Edition, licensees and applicants must use the prerequisites for ultrasonic examination personnel certifications in Appendix VII, Table VII-4110-1 and Appendix VIII, Subarticle VIII-2200 in the 2010 Edition.
+(D) *NDE personnel certification: Fourth provision.* The use of Appendix VII, Table VII-4110-1 and Appendix VIII, Subarticle VIII-2200 of the 2011 Addenda through the latest edition incorporated by reference in paragraph (a)(1)(ii) of this section is prohibited. When using ASME BPV Code, Section XI editions and addenda later than the 2010 Edition, licensees and applicants must use the prerequisites for ultrasonic examination personnel certifications in Appendix VII, Table VII-4110-1 and Appendix VIII, Subarticle VIII-2200 in the 2010 Edition.
 
 (xix) *Section XI condition: Substitution of alternative methods.* The provisions for substituting alternative examination methods, a combination of methods, or newly developed techniques in the 1997 Addenda of IWA-2240 must be applied when using the 1998 Edition through the 2004 Edition of Section XI of the ASME BPV Code. The provisions in IWA-4520(c), 1997 Addenda through the 2004 Edition, allowing the substitution of alternative methods, a combination of methods, or newly developed techniques for the methods specified in the Construction Code, are not approved for use. The provisions in IWA-4520(b)(2) and IWA-4521 of the 2008 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, allowing the substitution of ultrasonic examination for radiographic examination specified in the Construction Code, are not approved for use.
 
 (xx) *Section XI condition: System leakage tests* - (A) *System leakage tests: First provision.* When performing system leakage tests in accordance with IWA-5213(a), 1997 through 2002 Addenda, the licensee must maintain a 10-minute hold time after test pressure has been reached for Class 2 and Class 3 components that are not in use during normal operating conditions. No hold time is required for the remaining Class 2 and Class 3 components provided that the system has been in operation for at least 4 hours for insulated components or 10 minutes for uninsulated components.
 
-(B) *System leakage tests: Second provision.* The NDE provision in IWA-4540(a)(2) of the 2002 Addenda of Section XI must be applied when performing system leakage tests after repair and replacement activities performed by welding or brazing on a pressure retaining boundary using the 2003 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section.
+(B) *System leakage tests: Second provision.* The nondestructive examination method and acceptance criteria of the 1992 Edition or later of Section III shall be met when performing system leakage tests (in lieu of a hydrostatic test) in accordance with IWA-4520 after repair and replacement activities performed by welding or brazing on a pressure retaining boundary using the 2003 Addenda through the latest edition and addenda of Section XI incorporated by reference in paragraph (a)(1)(ii) of this section. The nondestructive examination and pressure testing may be performed using procedures and personnel meeting the requirements of the licensee's/applicant's current ISI code of record.
 
-(xxi) *Section XI condition: Table IWB-2500-1 examination requirements.* (A) *Table IWB-2500-1 examination requirements: First provision.* The provisions of Table IWB 2500-1, Examination Category B-D, Full Penetration Welded Nozzles in Vessels, Items B3.40 and B3.60 (Inspection Program A) and Items B3.120 and B3.140 (Inspection Program B) of the 1998 Edition must be applied when using the 1999 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section. A visual examination with magnification that has a resolution sensitivity to resolve 0.044 inch (1.1 mm) lower case characters without an ascender or descender (*e.g.,* a, e, n, v), utilizing the allowable flaw length criteria in Table IWB-3512-1, 1997 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, with a limiting assumption on the flaw aspect ratio (*i.e.,* a/l = 0.5), may be performed instead of an ultrasonic examination.
+(C) *System leakage tests: Third provision.* The use of the provisions for an alternative BWR pressure test at reduced pressure to satisfy IWA-4540 requirements as described in IWA-5213(b)(2), IWB-5210(c) and IWB-5221(d) of Section XI, 2017 Edition may be used subject to the following conditions:
 
-(B) [Reserved]
+(*1*) The use of nuclear heat to conduct the BWR Class 1 system leakage test is prohibited (*i.e.,* the reactor must be in a non-critical state), except during refueling outages in which the ASME Section XI Category B-P pressure test has already been performed, or at the end of mid-cycle maintenance outages fourteen (14) days or less in duration.
+
+(*2*) In lieu of the test condition holding time of IWA-5213(b)(2), after pressurization to test conditions, and before the visual examinations commence, the holding time shall be 1 hour for non-insulated components.
+
+(xxi) *Section XI condition: Table IWB-2500-1 examination requirements.* (A)[Reserved]
+
+(B) *Table IWB-2500-1 examination.* Use of the provisions of IWB-2500(f) and (g) and Table IWB-2500-1 Notes 6 and 7 of the 2017 Edition of ASME Section XI for examination of Examination Category B-D Item Numbers B3.90 and B3.100 shall be subject to the following conditions:
+
+(*1*) A plant-specific evaluation demonstrating the criteria of IWB-2500(f) are met must be maintained in accordance with IWA-1400(l).
+
+(*2*) The use of the provisions of IWB-2500(f) and Table IWB-2500-1 Note 6 for examination of Examination Category B-D Item Numbers B3.90 is prohibited for plants with renewed licenses in accordance with 10 CFR part 54.
+
+(*3*) The provisions of IWB-2500(g) and Table IWB-2500-1 Notes 6 and 7 for examination of Examination Category B-D Item Numbers B3.90 and B3.100 shall not be used to eliminate the preservice or inservice volumetric examination of plants with a Combined Operating License pursuant to 10 CFR part 52, or a plant that receives its operating license after October 22, 2015.
 
 (xxii) *Section XI condition: Surface examination.* The use of the provision in IWA-2220, “Surface Examination,” of Section XI, 2001 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, that allows use of an ultrasonic examination method is prohibited.
 
@@ -720,9 +824,23 @@ Table VIII - S7-1 - Modified
 
 (xxiv) *Section XI condition: Incorporation of the performance demonstration initiative and addition of ultrasonic examination criteria.* The use of Appendix VIII and the supplements to Appendix VIII and Article I-3000 of Section XI of the ASME BPV Code, 2002 Addenda through the 2006 Addenda, is prohibited.
 
-(xxv) *Section XI condition: Mitigation of defects by modification.* The use of the provisions in IWA-4340, “Mitigation of Defects by Modification,” Section XI, 2001 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section are prohibited.
+(xxv) *Section XI condition: Mitigation of defects by modification.* Use of the provisions of IWA-4340 shall be subject to the following conditions:
 
-(xxvi) *Section XI condition: Pressure testing Class 1, 2 and 3 mechanical joints.* The repair and replacement activity provisions in IWA-4540(c) of the 1998 Edition of Section XI for pressure testing Class 1, 2, and 3 mechanical joints must be applied when using the 2001 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section.
+(A) *Mitigation of defects by modification: First provision.* The use of the provisions for mitigation of defects by modification in IWA-4340 of Section XI 2001 Edition through the 2010 Addenda, is prohibited.
+
+(B) *Mitigation of defects by modification: Second provision.* The provisions for mitigation of defects by modification in IWA-4340 of Section XI 2011 Edition through the 2017 Edition may be used subject to the following conditions:
+
+(*1*) The use of the provisions in IWA 4340 to mitigate crack-like defects or those associated with flow accelerated corrosion are prohibited.
+
+(*2*) The design of a modification that mitigates a defect shall incorporate a loss of material rate either 2 times the actual measured corrosion rate in that pipe location (established based on wall thickness measurements conducted at least twice in two prior consecutive or nonconsecutive refueling outage cycles in the 10 year period prior to installation of the modification), or 4 times the estimated maximum corrosion rate for the piping system.
+
+(*3*) The licensee shall perform a wall thickness examination in the vicinity of the modification and relevant pipe base metal. Except as provided in paragraphs (b)(2)(xxv)(B)(*3*)(*i*) and (*ii*), the examination must be performed during each refueling outage cycle to detect propagation of the defect into the material credited for structural integrity of the item unless the examinations in the two refueling outage cycles subsequent to the installation of the modification are capable of validating the projected flaw growth. Where the projected flaw growth has been validated, the modification must be examined at half its expected life or once per interval, whichever is smaller.
+
+(*i*) For buried pipe locations where the loss of material has occurred due to internal corrosion, the refueling outage interval wall thickness examinations may be conducted at a different location in the same system as long as: Wall thickness measurements were conducted at the different location at the same time as installation of the modification; the flow rate is the same or higher at the different location; the piping configuration is the same (*e.g.,* straight run of pipe, elbow, tee), and if pitting occurred at the modification location, but not the different location, wall loss values must be multiplied by four. Where wall loss values are greater than that assumed during the design of the modification, the structural integrity of the modification shall be reanalyzed. Additionally, if the extent of degradation is different (*i.e.,* through wall, percent wall loss plus or minus 25 percent) or the corrosion mechanism (*e.g.,* general, pitting) is not the same at the different location as at the modification location, the modification must be examined at half its expected life or 10 years, whichever is smaller.
+
+(*ii*) For buried pipe locations where loss of material has occurred due to external corrosion, the modification must be examined at half its expected life or 10 years, whichever is smaller.
+
+(xxvi) *Section XI condition: Pressure testing Class 1, 2, and 3 mechanical joints.* When using the 2001 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, licensees shall pressure test in accordance with IWA-5211(a) mechanical joints in Class 1, 2, and 3 piping and components greater than NPS-1 which are disassembled and reassembled during the performance of a Section XI repair/replacement activity requiring documentation on a Form NIS-2. The system pressure test and NDE examiners shall meet the requirements of the licensee's/applicant's current ISI code of record.
 
 (xxvii) *Section XI condition: Removal of insulation.* When performing visual examination in accordance with IWA-5242 of Section XI of the ASME BPV Code, 2003 Addenda through the 2006 Addenda, or IWA-5241 of the 2007 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, insulation must be removed from 17-4 PH or 410 stainless steel studs or bolts aged at a temperature below 1100 °F or having a Rockwell Method C hardness value above 30, and from A-286 stainless steel studs or bolts preloaded to 100,000 pounds per square inch or higher.
 
@@ -736,25 +854,55 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (xxxi) *Section XI condition: Mechanical clamping devices.* When installing a mechanical clamping device on an ASME BPV Code class piping system, Appendix W of Section XI shall be treated as a mandatory appendix and all of the provisions of Appendix W shall be met for the mechanical clamping device being installed. Additionally, use of IWA-4131.1(c) of the 2010 Edition of Section XI and IWA-4131.1(d) of the 2011 Addenda of the 2010 Edition and later versions of Section XI is prohibited on small item Class 1 piping and portions of a piping system that form the containment boundary.
 
-(xxxii) *Section XI condition: Summary report submittal.* When using ASME BPV Code, Section XI, 2010 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, Summary Reports described in IWA-6000 must be submitted to the NRC as described in IWA-6240(a) and IWA-6240(b). Preservice inspection summary reports shall be submitted prior to the date of placement of the unit into commercial service and inservice inspection summary reports shall be submitted within 90 calendar days of the completion of each refueling outage.
+(xxxii) *Section XI condition: Summary report submittal.* When using ASME BPV Code, Section XI, 2010 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section, Summary Reports and Owner's Activity Reports described in IWA-6230 must be submitted to the NRC. Preservice inspection reports for examinations prior to commercial service shall be submitted prior to the date of placement of the unit into commercial service. For preservice and inservice examinations performed following placement of the unit into commercial service, reports shall be submitted within 90 calendar days of the completion of each refueling outage.
 
 (xxxiii) *Section XI condition: Risk-Informed allowable pressure.* The use of Paragraph G-2216 in Appendix G in the 2011 Addenda and later editions and addenda of the ASME BPV Code, Section XI is prohibited.
 
-(xxxiv) *Section XI condition: Nonmandatory Appendix U.* When using Nonmandatory Appendix U of the 2013 Edition of the ASME BPV Code, Section XI the following conditions apply:
+(xxxiv) *Section XI condition: Nonmandatory Appendix U.* When using Nonmandatory Appendix U of the ASME BPV Code, Section XI, 2013 Edition through the latest edition incorporated by reference in paragraph (a)(1)(ii) of this section, the following conditions apply:
 
 (A) The repair or replacement activities temporarily deferred under the provisions of Nonmandatory Appendix U must be performed during the next scheduled refueling outage.
 
-(B) In lieu of the appendix referenced in paragraph U-S1-4.2.1(c) of Appendix U the mandatory appendix in ASME BPV Code Case N-513-3 must be used.
+(B) In lieu of the appendix referenced in paragraph U-S1-4.2.1(c) of Appendix U of the 2013 and the 2015 Editions the mandatory appendix in ASME BPV Code Case N-513-3 must be used.
 
-(xxxv) *Section XI condition: Use of RT*T0*in the K*Ia*and K*Ic*equations.* When using the 2013 Edition of the ASME BPV Code, Section XI, Appendix A, paragraph A-4200, if T0 is available, then RTT0 may be used in place of RTNDT for applications using the KIc equation and the associated KIc curve, but not for applications using the KIa equation and the associated KIa curve.
+(xxxv) *Section XI condition: Use of RT*T0 *in the K*Ia *and K*Ic *equations.*
 
-(xxxvi) *Section XI condition: Fracture toughness of irradiated materials.* When using the 2013 Edition of the ASME BPV Code, Section XI, Appendix A paragraph A-4400, the licensee shall obtain NRC approval under paragraph (z) of this section before using irradiated T0 and the associated RTT0 in establishing fracture toughness of irradiated materials.
+(A) When using the 2013 Edition of the ASME BPV Code, Section XI, Appendix A, paragraph A-4200, if T0 is available, then RTT0 may be used in place of RTNDT for applications using the KIc equation and the associated KIc curve, but not for applications using the KIa equation and the associated KIa curve.
 
-(3) *Conditions on ASME OM Code.* As used in this section, references to the ASME OM Code are to the ASME OM Code, Subsections ISTA, ISTB, ISTC, ISTD, ISTE, and ISTF; Mandatory Appendices I, II, III, and V; and Nonmandatory Appendices A through H and J through M, in the 1995 Edition through the 2012 Edition, as specified in paragraph (a)(1)(iv) of this section. Mandatory appendices must be used if required by the OM Code; nonmandatory appendices are approved for use by the NRC but need not be used. The following conditions are applicable when implementing the ASME OM Code:
+(B) When using the 2015 Edition of the ASME BPV Code, Section XI, Appendix A, paragraph A-4200 subparagraph (c) RTKIa shall be defined as RTKIa = T0 + 90.267 exp(−0.003406T0) for U.S. Customary Units.
+
+(xxxvi) *Section XI condition: Fracture toughness of irradiated materials.* When using the 2013 through 2017 Editions of the ASME BPV Code, Section XI, Appendix A paragraph A-4400, the licensee shall obtain NRC approval under paragraph (z) of this section before using irradiated T0 and the associated RTT0 in establishing fracture toughness of irradiated materials.
+
+(xxxviii) Section XI condition: ASME Code Section XI Appendix III Supplement 2. Licensees applying the provisions of ASME Code Section XI Appendix III Supplement 2, “Welds in Cast Austenitic Materials,” are subject to the following conditions:
+
+(A) ASME Code Section XI Appendix III Supplement 2: First provision. In lieu of Paragraph (c)(1)(-c)(-2), licensees shall use a search unit with a center frequency of 500 kHz with a tolerance of ± 20 percent.
+
+(B) ASME Code Section XI Appendix III Supplement 2: Second provision. In lieu of Paragraph (c)(1)(-d), the search unit shall produce angles including, but not limited to, 30 to 55 degrees with a maximum increment of 5 degrees.
+
+(xxxix) *Section XI condition: Defect Removal.* The use of the provisions for removal of defects by welding or brazing in IWA-4421(c)(1) and IWA-4421(c)(2) of Section XI, 2017 Edition may be used subject to the following conditions:
+
+(A) *Defect removal requirements: First provision.* The provisions of subparagraph IWA 4421(c)(1) shall not be used to contain or isolate a defective area without removal of the defect.
+
+(B) *Defect removal requirements: Second provision.* The provisions of subparagraph IWA-4421(c)(2) shall not be used for crack-like defects.
+
+(xl) *Section XI condition: Prohibitions on use of IWB-3510.4(b).* The use of ASME BPV Code, Section XI, 2017 Edition, Subparagraphs IWB-3510.4(b)(4) and IWB-3510.4(b)(5) is prohibited.
+
+(xli) *Section XI condition: Preservice Volumetric and Surface Examinations Acceptance.* The use of the provisions for accepting flaws by analytical evaluation during preservice inspection in IWB-3112(a)(3) and IWC-3112(a)(3) of Section XI, 2013 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section is prohibited.
+
+(xlii) *Section XI condition: Steam Generator Nozzle-to-Component welds and Reactor Vessel Nozzle-to-Component welds.* Licensees applying the provisions of Table IWB-2500-1, Examination Category B-F, Pressure Retaining Dissimilar Metal Welds in Vessel Nozzles, Item B5.11 (NPS 4 or Larger Nozzle-to-Component Butt Welds) of the 2013 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section and Item B5.71 (NPS 4 or Larger Nozzle-to-Component Butt Welds) of the 2011a Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1)(ii) of this section must also meet the following conditions:
+
+(A) Ultrasonic examination procedures, equipment, and personnel shall be qualified by performance demonstration in accordance with Mandatory Appendix VIII.
+
+(B) When applying the examination requirements of Figure IWB-2500-8, the volumetric examination volume shall be extended to include 100 percent of the weld volume, except as provided in paragraph (b)(2)(xlii)(B)(*1*) of this section:
+
+(*1*) If the examination volume that can be obtained by performance demonstration qualified procedures is less than 100 percent of the weld volume, the licensee may ultrasonically examine the qualified volume and perform a flaw evaluation of the largest hypothetical crack that could exist in the volume not qualified for ultrasonic examination, subject to prior NRC authorization in accordance with paragraph (z) of this section.
+
+(*2*) [Reserved]
+
+(3) *Conditions on ASME OM Code.* As used in this section, references to the ASME OM Code are to the ASME OM Code, Subsections ISTA, ISTB, ISTC, ISTD, ISTE, and ISTF; Mandatory Appendices I, II, III, IV, and V; and Nonmandatory Appendices A through H and J through M, in the 1995 Edition through the latest edition and addenda of the ASME OM Code incorporated by referencein paragraph (a)(1)(iv) of this section. Mandatory appendices must be used if required by the OM Code; nonmandatory appendices are approved for use by the NRC but need not be used. When implementing the ASME OM Code, conditions are applicable only as specified in the following paragraphs:
 
 (i) *OM condition: Quality assurance.* When applying editions and addenda of the ASME OM Code, the requirements of ASME Standard NQA-1, “Quality Assurance Requirements for Nuclear Facility Applications,” 1994 Edition, 2008 Edition, and 2009-1a Addenda, are acceptable as permitted by either ISTA 1.4 of the 1995 Edition through 1997 Addenda or ISTA-1500 of the 1998 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section, provided the licensee uses its appendix B to this part quality assurance program in conjunction with the ASME OM Code requirements and the commitments contained in the licensee's quality assurance program description. Where NQA-1 and the ASME OM Code do not address the commitments contained in the licensee's appendix B quality assurance program description, the commitments must be applied to ASME OM Code activities.
 
-(ii) *OM condition: Motor-Operated Valve (MOV) testing.* Licensees must comply with the provisions for testing MOVs in ASME OM Code, ISTC 4.2, 1995 Edition with the 1996 and 1997 Addenda, or ISTC-3500, 1998 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(iv) of this section, and must establish a program to ensure that MOVs continue to be capable of performing their design basis safety functions. Licensees implementing ASME OM Code, Mandatory Appendix III, “Preservice and Inservice Testing of Active Electric Motor Operated Valve Assemblies in Light-Water Reactor Power Plants,” of the 2009 Edition, 2011 Addenda, and 2012 Edition shall comply with the following conditions:
+(ii) *OM condition: Motor-Operated Valve (MOV) testing.* Licensees must comply with the provisions for testing MOVs in ASME OM Code, ISTC 4.2, 1995 Edition with the 1996 and 1997 Addenda, or ISTC-3500, 1998 Edition through the latest edition and addenda incorporated by reference in paragraph (a)(1)(iv) of this section, and must establish a program to ensure that MOVs continue to be capable of performing their design basis safety functions. Licensees implementing ASME OM Code, Mandatory Appendix III, “Preservice and Inservice Testing of Active Electric Motor Operated Valve Assemblies in Light-Water Reactor Power Plants,” of the 2009 Edition, through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section shall comply with the following conditions:
 
 (A) *MOV diagnostic test interval.* Licensees shall evaluate the adequacy of the diagnostic test intervals established for MOVs within the scope of ASME OM Code, Appendix III, not later than 5 years or three refueling outages (whichever is longer) from initial implementation of ASME OM Code, Appendix III.
 
@@ -774,7 +922,7 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (D) *High risk non-safety systems.* Licensees shall assess the operational readiness of pumps, valves, and dynamic restraints within the scope of the Regulatory Treatment of Non-Safety Systems for applicable reactor designs.
 
-(iv) *OM condition: Check valves (Appendix II).* Licensees applying Appendix II, “Check Valve Condition Monitoring Program,” of the ASME OM Code, 1995 Edition with the 1996 and 1997 Addenda, shall satisfy the requirements of paragraphs (b)(3)(iv)(A) through (C) of this section. Licensees applying Appendix II, 1998 Edition through the 2002 Addenda, shall satisfy the requirements of paragraphs (b)(3)(iv)(A), (B), and (D) of this section. Appendix II of the ASME OM Code, 2003 Addenda through the 2012 Edition, is acceptable for use with the following requirements. Trending and evaluation shall support the determination that the valve or group of valves is capable of performing its intended function(s) over the entire interval. At least one of the Appendix II condition monitoring activities for a valve group shall be performed on each valve of the group at approximate equal intervals not to exceed the maximum interval shown in the following table:
+(iv) *OM condition: Check valves (Appendix II).* Licensees applying Appendix II of the ASME OM Code, 2003 Addenda through the 2015 Edition, is acceptable for use with the following requirements. Trending and evaluation shall support the determination that the valve or group of valves is capable of performing its intended function(s) over the entire interval. At least one of the Appendix II condition monitoring activities for a valve group shall be performed on each valve of the group at approximate equal intervals not to exceed the maximum interval shown in the following table:
 
 Table II - Maximum Intervals for Use When Applying Interval Extensions
 
@@ -784,14 +932,6 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 |       3        |                                      4.5                                       |                                              12                                              |
 |       2        |                                       6                                        |                                              12                                              |
 |       1        |                                 Not applicable                                 |                                              10                                              |
-
-(A) *Check valves: First provision.* Valve opening and closing functions must be demonstrated when flow testing or examination methods (nonintrusive, or disassembly and inspection) are used;
-
-(B) *Check valves: Second provision.* The initial interval for tests and associated examinations may not exceed two fuel cycles or 3 years, whichever is longer; any extension of this interval may not exceed one fuel cycle per extension with the maximum interval not to exceed 10 years. Trending and evaluation of existing data must be used to reduce or extend the time interval between tests.
-
-(C) *Check valves: Third provision.* If the Appendix II condition monitoring program is discontinued, then the requirements of ISTC 4.5.1 through 4.5.4 must be implemented.
-
-(D) *Check valves: Fourth provision.* The applicable provisions of subsection ISTC must be implemented if the Appendix II condition monitoring program is discontinued.
 
 (v) *OM condition: Snubbers ISTD.* Article IWF-5000, “Inservice Inspection Requirements for Snubbers,” of the ASME BPV Code, Section XI, must be used when performing inservice inspection examinations and tests of snubbers at nuclear power plants, except as conditioned in paragraphs (b)(3)(v)(A) and (B) of this section.
 
@@ -803,13 +943,13 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (vii) *OM condition: Subsection ISTB.* Subsection ISTB, 2011 Addenda, is prohibited for use.
 
-(viii) *OM condition: Subsection ISTE.* Licensees may not implement the risk-informed approach for inservice testing (IST) of pumps and valves specified in Subsection ISTE, “Risk-Informed Inservice Testing of Components in Light-Water Reactor Nuclear Power Plants,” in the ASME OM Code, 2009 Edition, 2011 Addenda, or 2012 Edition, without first obtaining NRC authorization to use Subsection ISTE as an alternative to the applicable IST requirements in the ASME OM Code, pursuant to paragraph (z) of this section.
+(viii) *OM condition: Subsection ISTE.* Licensees may not implement the risk-informed approach for inservice testing (IST) of pumps and valves specified in Subsection ISTE, “Risk-Informed Inservice Testing of Components in Light-Water Reactor Nuclear Power Plants,” in the ASME OM Code, 2009 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section, without first obtaining NRC authorization to use Subsection ISTE as an alternative to the applicable IST requirements in the ASME OM Code, pursuant to paragraph (z) of this section.
 
-(ix) *OM condition: Subsection ISTF.* Licensees applying Subsection ISTF, 2012 Edition, shall satisfy the requirements of Mandatory Appendix V, “Pump Periodic Verification Test Program,” of the ASME OM Code, 2012 Edition. Subsection ISTF, 2011 Addenda, is prohibited for use.
+(ix) *OM condition: Subsection ISTF.* Licensees applying Subsection ISTF, 2012 Edition or 2015 Edition, shall satisfy the requirements of Mandatory Appendix V, “Pump Periodic Verification Test Program,” of the ASME OM Code in that edition. Subsection ISTF, 2011 Addenda, is prohibited for use.
 
 (x) [Reserved]
 
-(xi) *OM condition: Valve Position Indication.* When implementing ASME OM Code, 2012 Edition, Subsection ISTC-3700, “Position Verification Testing,” licensees shall verify that valve operation is accurately indicated by supplementing valve position indicating lights with other indications, such as flow meters or other suitable instrumentation, to provide assurance of proper obturator position.
+(xi) *OM condition: Valve Position Indication.* When implementing paragraph ISTC-3700, “Position Verification Testing,” in the ASME OM Code, 2012 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section, licensees shall verify that valve operation is accurately indicated by supplementing valve position indicating lights with other indications, such as flow meters or other suitable instrumentation to provide assurance of proper obturator position for valves with remote position indication within the scope of Subsection ISTC including its mandatory appendices and their verification methods and frequencies.
 
 (4) *Conditions on Design, Fabrication, and Materials Code Cases.* Each manufacturing license, standard design approval, and design certification application under part 52 of this chapter is subject to the following conditions. Licensees may apply the ASME BPV Code Cases listed in NRC Regulatory Guide 1.84, as incorporated by reference in paragraph (a)(3)(i) of this section, without prior NRC approval, subject to the following conditions:
 
@@ -903,9 +1043,9 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (4) *Inservice testing standards requirement for operating plants.* Throughout the service life of a boiling or pressurized water-cooled nuclear power facility, pumps and valves that are within the scope of the ASME OM Code must meet the inservice test requirements (except design and access provisions) set forth in the ASME OM Code and addenda that become effective subsequent to editions and addenda specified in paragraphs (f)(2) and (3) of this section and that are incorporated by reference in paragraph (a)(1)(iv) of this section, to the extent practical within the limitations of design, geometry, and materials of construction of the components. The inservice test requirements for pumps and valves that are within the scope of the ASME OM Code but are not classified as ASME BPV Code Class 1, Class 2, or Class 3 may be satisfied as an augmented IST program in accordance with paragraph (f)(6)(ii) of this section without requesting relief under paragraph (f)(5) of this section or alternatives under paragraph (z) of this section. This use of an augmented IST program may be acceptable provided the basis for deviations from the ASME OM Code, as incorporated by reference in this section, demonstrates an acceptable level of quality and safety, or that implementing the Code provisions would result in hardship or unusual difficulty without a compensating increase in the level of quality and safety, where documented and available for NRC review.
 
-(i) *Applicable IST Code: Initial 120-month interval.* Inservice tests to verify operational readiness of pumps and valves, whose function is required for safety, conducted during the initial 120-month interval must comply with the requirements in the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section on the date 12 months before the date of issuance of the operating license under this part, or 12 months before the date scheduled for initial loading of fuel under a combined license under part 52 of this chapter (or the optional ASME OM Code Cases listed in NRC Regulatory Guide 1.192, as incorporated by reference in paragraph (a)(3)(iii) of this section, subject to the conditions listed in paragraph (b) of this section).
+(i) *Applicable IST Code: Initial 120-month interval.* Inservice tests to verify operational readiness of pumps and valves, whose function is required for safety, conducted during the initial 120-month interval must comply with the requirements in the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section on the date 18 months before the date of issuance of the operating license under this part, or 18 months before the date scheduled for initial loading of fuel under a combined license under part 52 of this chapter (or the optional ASME OM Code Cases listed in NRC Regulatory Guide 1.192, as incorporated by reference in paragraph (a)(3)(iii) of this section, subject to the conditions listed in paragraph (b) of this section).
 
-(ii) *Applicable IST Code: Successive 120-month intervals.* Inservice tests to verify operational readiness of pumps and valves, whose function is required for safety, conducted during successive 120-month intervals must comply with the requirements of the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section 12 months before the start of the 120-month interval (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147 or NRC Regulatory Guide 1.192 as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section, respectively), subject to the conditions listed in paragraph (b) of this section.
+(ii) *Applicable IST Code: Successive 120-month intervals.* Inservice tests to verify operational readiness of pumps and valves, whose function is required for safety, conducted during successive 120-month intervals must comply with the requirements of the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section 18 months before the start of the 120-month interval (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147 or NRC Regulatory Guide 1.192 as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section, respectively), subject to the conditions listed in paragraph (b) of this section.
 
 (iii) [Reserved]
 
@@ -941,11 +1081,12 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (v) *Preservice examination requirements: Meeting later Code requirements.* All components (including supports) may meet the requirements set forth in subsequent editions of codes and addenda or portions thereof that are incorporated by reference in paragraph (a) of this section, subject to the conditions listed therein.
 
-(4) *Inservice inspection standards requirement for operating plants.* Throughout the service life of a boiling or pressurized water-cooled nuclear power facility, components (including supports) that are classified as ASME Code Class 1, Class 2, and Class 3 must meet the requirements, except design and access provisions and preservice examination requirements, set forth in Section XI of editions and addenda of the ASME BPV Code (or ASME OM Code for snubber examination and testing) that become effective subsequent to editions specified in paragraphs (g)(2) and (3) of this section and that are incorporated by reference in paragraph (a)(1)(ii) or (iv) for snubber examination and testing of this section, to the extent practical within the limitations of design, geometry, and materials of construction of the components. Components that are classified as Class MC pressure retaining components and their integral attachments, and components that are classified as Class CC pressure retaining components and their integral attachments, must meet the requirements, except design and access provisions and preservice examination requirements, set forth in Section XI of the ASME BPV Code and addenda that are incorporated by reference in paragraph (a)(1)(ii) of this section, subject to the condition listed in paragraph (b)(2)(vi) of this section and the conditions listed in paragraphs (b)(2)(viii) and (ix) of this section, to the extent practical within the limitation of design, geometry, and materials of construction of the components.
+(4) *Inservice inspection standards requirement for operating plants.* Throughout the service life of a boiling or pressurized water-cooled nuclear power facility, components (including supports) that are classified as ASME Code Class 1, Class 2, and Class 3 must meet the requirements, except design and access provisions and preservice examination requirements, set forth in Section XI of editions and addenda of the ASME BPV Code (or ASME OM Code for snubber examination and testing) that become effective subsequent to editions specified in paragraphs (g)(2) and (3) of this section and that are incorporated by reference in paragraph (a)(1)(ii) or (iv) for snubber examination and testing of this section, to the extent practical within the limitations of design, geometry, and materials of construction of the components. Components that are classified as Class MC pressure retaining components and their integral attachments, and components that are classified as Class CC pressure retaining components and their integral attachments, must meet the requirements, except design and access provisions and preservice examination requirements, set forth in Section XI of the ASME BPV Code and addenda that are incorporated by reference in paragraph (a)(1)(ii) of this section, and the conditions listed in paragraphs (b)(2)(viii) and (ix) of this section, to the extent practical within the limitation of design, geometry, and materials of construction of the components.
 
-(i) *Applicable ISI Code: Initial 120-month interval.* Inservice examination of components and system pressure tests conducted during the initial 120-month inspection interval must comply with the requirements in the latest edition and addenda of the ASME Code incorporated by reference in paragraph (a) of this section on the date 12 months before the date of issuance of the operating license under this part, or 12 months before the date scheduled for initial loading of fuel under a combined license under part 52 of this chapter (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147, when using ASME BPV Code, Section XI, or NRC Regulatory Guide 1.192, when using the ASME OM Code, as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section, respectively), subject to the conditions listed in paragraph (b) of this section. Licensees may, at any time in their 120-month ISI interval, elect to use the Appendix VIII in the latest edition and addenda of the ASME BPV Code incorporated by reference in paragraph (a) of this section, subject to any applicable conditions listed in paragraph (b) of this section. Licensees using this option must also use the same edition and addenda of Appendix I as Appendix VIII, including any applicable conditions listed in paragraph (b) of this section.
+(i) *Applicable ISI Code: Initial 120-month interval.* Inservice examination of components and system pressure tests conducted during the initial 120-month inspection interval must comply with the requirements in the latest edition and addenda of the ASME Code incorporated by reference in paragraph (a) of this section on the date 18 months before the date of issuance of the operating license under this part, or 18 months before the date scheduled for initial loading of fuel under a combined license under part 52 of this chapter (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147, when using ASME BPV Code, Section XI, or NRC Regulatory Guide 1.192, when using the ASME OM Code, as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section, respectively), subject to the conditions listed in paragraph (b) of this section. Licensees may, at any time in their 120-month ISI interval, elect to use the Appendix VIII in the latest edition and addenda of the ASME BPV Code incorporated by reference in paragraph (a) of this section, subject to any applicable conditions listed in paragraph (b) of this section.
+Licensees using this option must also use the same edition and addenda of Appendix I, Subarticle I-3200, as Appendix VIII, including any applicable conditions listed in paragraph (b) of this section.
 
-(ii) *Applicable ISI Code: Successive 120-month intervals.* Inservice examination of components and system pressure tests conducted during successive 120-month inspection intervals must comply with the requirements of the latest edition and addenda of the ASME Code incorporated by reference in paragraph (a) of this section 12 months before the start of the 120-month inspection interval (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147, when using ASME BPV Code, Section XI, or NRC Regulatory Guide 1.192, when using the ASME OM Code, as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section), subject to the conditions listed in paragraph (b) of this section. However, a licensee whose inservice inspection interval commences during the 12 through 18-month period after August 17, 2017, may delay the update of their Appendix VIII program by up to 18 months after August 17, 2017. Alternatively, licensees may, at any time in their 120-month ISI interval, elect to use the Appendix VIII in the latest edition and addenda of the ASME BPV Code incorporated by reference in paragraph (a) of this section, subject to any applicable conditions listed in paragraph (b) of this section. Licensees using this option must also use the same Edition and Addenda of Appendix I as Appendix VIII, including any applicable conditions listed in paragraph (b) of this section.
+(ii) *Applicable ISI Code: Successive 120-month intervals.* Inservice examination of components and system pressure tests conducted during successive 120-month inspection intervals must comply with the requirements of the latest edition and addenda of the ASME Code incorporated by reference in paragraph (a) of this section 18 months before the start of the 120-month inspection interval (or the optional ASME Code Cases listed in NRC Regulatory Guide 1.147, when using ASME BPV Code, Section XI, or NRC Regulatory Guide 1.192, when using the ASME OM Code, as incorporated by reference in paragraphs (a)(3)(ii) and (iii) of this section), subject to the conditions listed in paragraph (b) of this section. However, a licensee whose inservice inspection interval commences during the 12 through 18-month period after June 3, 2020, may delay the update of their Appendix VIII program by up to 18 months after June 3, 2020. Alternatively, licensees may, at any time in their 120-month ISI interval, elect to use the Appendix VIII in the latest edition and addenda of the ASME BPV Code incorporated by reference in paragraph (a) of this section, subject to any applicable conditions listed in paragraph (b) of this section. Licensees using this option must also use the same edition and addenda of Appendix I, Subarticle I-3200, as Appendix VIII, including any applicable conditions listed in paragraph (b) of this section.
 
 (iii) *Applicable ISI Code: Optional surface examination requirement.* When applying editions and addenda prior to the 2003 Addenda of Section XI of the ASME BPV Code, licensees may, but are not required to, perform the surface examinations of high-pressure safety injection systems specified in Table IWB-2500-1, Examination Category B-J, Item Numbers B9.20, B9.21, and B9.22.
 
@@ -975,22 +1116,27 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (B) *Augmented ISI requirements: Submitting containment ISI programs.* Licensees do not have to submit to the NRC for approval of their containment inservice inspection programs that were developed to satisfy the requirements of Subsection IWE and Subsection IWL with specified conditions. The program elements and the required documentation must be maintained on site for audit.
 
-(C) *Augmented ISI requirements: Implementation of Appendix VIII to Section XI.* (*1*) Appendix VIII and the supplements to Appendix VIII to Section XI, Division 1, 1995 Edition with the 1996 Addenda of the ASME BPV Code must be implemented in accordance with the following schedule: Appendix VIII and Supplements 1, 2, 3, and 8 - May 22, 2000; Supplements 4 and 6 - November 22, 2000; Supplement 11 - November 22, 2001; and Supplements 5, 7, and 10 - November 22, 2002.
+(C) [Reserved]
 
-(*2*) Licensees implementing the 1989 Edition and earlier editions and addenda of IWA-2232 of Section XI, Division 1, of the ASME BPV Code must implement the 1995 Edition with the 1996 Addenda of Appendix VIII and the supplements to Appendix VIII of Section XI, Division 1, of the ASME BPV Code.
+(D) *Augmented ISI requirements: Reactor vessel head inspections* - (*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized-water reactors as of or after June 3, 2020 shall implement the requirements of ASME BPV Code Case N-729-6 instead of ASME BPV Code Case N-729-4, subject to the conditions specified in paragraphs (g)(6)(ii)(D)(*2*) through (*8*) of this section, by no later than one year after June 3, 2020. All previous NRC-approved alternatives from the requirements of paragraph (g)(6)(ii)(D) of this section remain valid.
 
-(D) *Augmented ISI requirements: Reactor vessel head inspections* -
-(*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized-water reactors as of or after August 17, 2017 shall implement the requirements of ASME BPV Code Case N-729-4 instead of ASME BPV Code Case N-729-1, subject to the conditions specified in paragraphs (g)(6)(ii)(D)(*2*) through (*4*) of this section, by the first refueling outage starting after August 17, 2017.
+(*2*) *Appendix I use.* If Appendix I is used, Section I-3000 must be implemented to define an alternative examination area or volume.
 
-(*2*) *Appendix I use.* Appendix I of ASME BPV Code Case N-729-4 shall not be implemented without prior NRC approval.
-
-(*3*) *Bare metal visual frequency.* Instead of Note 4 of ASME BPV Code Case N-729-4, the following shall be implemented. If effective degradation years (EDY) \< 8 and if no flaws are found that are attributed to primary water stress corrosion cracking:
+(*3*) *Bare metal visual frequency.* Instead of Note 4 of ASME BPV Code Case N-729-6, the following shall be implemented. If effective degradation years (EDY) \< 8 and if no flaws are found that are attributed to primary water stress corrosion cracking:
 
 (*i*) A bare metal visual examination is not required during refueling outages when a volumetric or surface examination is performed; and
 
 (*ii*) If a wetted surface examination has been performed of all of the partial penetration welds during the previous non-visual examination, the reexamination frequency may be extended to every third refueling outage or 5 calendar years, whichever is less, provided an IWA-2212 VT-2 visual examination of the head is performed under the insulation through multiple access points in outages that the VE is not completed. This IWA-2212 VT-2 visual examination may be performed with the reactor vessel depressurized.
 
-(*4*) *Surface exam acceptance criteria.* In addition to the requirements of Paragraph -3132.1(b) of ASME BPV Code Case N-729-4, a component whose surface examination detects rounded indications greater than allowed in Paragraph NB-5352 in size on the partial-penetration or associated fillet weld shall be classified as having an unacceptable indication and corrected in accordance with the provisions of paragraph-3132.2 of ASME BPV Code Case N-729-4.
+(*4*) *Surface exam acceptance criteria.* In addition to the requirements of paragraph 3132.1(b) of ASME BPV Code Case N-729-6, a component whose surface examination detects rounded indications greater than allowed in paragraph NB-5352 in size on the partial-penetration or associated fillet weld shall be classified as having an unacceptable indication and corrected in accordance with the provisions of paragraph 3132.2 of ASME BPV Code Case N-729-6.
+
+(*5*) *Peening.* In lieu of inspection requirements of Table 1, Items B4.50 and B4.60, and all other requirements in ASME BPV Code Case N-729-6 pertaining to peening, in order for a RPV upper head with nozzles and associated J-groove welds mitigated by peening to obtain examination relief from the requirements of Table 1 for unmitigated heads, peening must meet the performance criteria, qualification, and examination requirements stated in MRP-335, Revision 3-A, with the exception that a plant-specific alternative request is not required and NRC condition 5.4 of MRP-335, Revision 3-A does not apply.
+
+(*6*) *Baseline Examinations.* In lieu of the requirements for Note 7(c) the baseline volumetric and surface examination for plants with a RPV Head with less than 8 EDY shall be performed by 2.25 reinspection years (RIY) after initial startup not to exceed 8 years.
+
+(*7*) *Sister Plants.* Note 10 of ASME BPV Code Case N-729-6 shall not be implemented without prior NRC approval.
+
+(*8*) *Volumetric Leak Path.* In lieu of paragraph 3200(b) requirement for a surface examination of the partial penetration weld, a volumetric leak path assessment of the nozzle may be performed in accordance with Note 6 of Table 1 of N-729-6.
 
 (E) *Augmented ISI requirements: Reactor coolant pressure boundary visual inspections*10 - (*1*) All licensees of pressurized water reactors must augment their inservice inspection program by implementing ASME Code Case N-722-1, subject to the conditions specified in paragraphs (g)(6)(ii)(E)(*2*) through (*4*) of this section. The inspection requirements of ASME Code Case N-722-1 do not apply to components with pressure retaining welds fabricated with Alloy 600/82/182 materials that have been mitigated by weld overlay or stress improvement.
 
@@ -1000,32 +1146,49 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (*4*) If ultrasonic examinations of butt welds are used to meet the NDE requirements in paragraphs (g)(6)(ii)(E)(*2*) or (*3*) of this section, they must be performed using the appropriate supplement of Section XI, Appendix VIII, of the ASME BPV Code.
 
-(F) *Augmented ISI requirements: Examination requirements for Class 1 piping and nozzle dissimilar-metal butt welds* -
-(*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized-water reactors as of or after August 17, 2017, shall implement the requirements of ASME BPV Code Case N-770-2 instead of ASME BPV Code Case N-770-1, subject to the conditions specified in paragraphs (g)(6)(ii)(F)(*2*) through (*13*) of this section, by the first refueling outage starting after August 17, 2017.
+(F) *Augmented ISI requirements: Examination requirements for Class 1 piping and nozzle dissimilar-metal butt welds* - (*1*) *Implementation.* Holders of operating licenses or combined licenses for pressurized-water reactors as of or after June 3, 2020, shall implement the requirements of ASME BPV Code Case N-770-5 instead of ASME BPV Code Case N-770-2, subject to the conditions specified in paragraphs (g)(6)(ii)(F)(*2*) through (*16*) of this section, by no later than one year after June 3, 2020. All NRC authorized alternatives from previous versions of paragraph (g)(6)(ii)(F) of this section remain applicable.
 
-(*2*) *Categorization.* Full structural weld overlays, authorized by the NRC staff in accordance with the alternatives approval process of this section, may be categorized as Inspection Items C-1 or F-1, as appropriate. Welds that have been mitigated by the Mechanical Stress Improvement Process (MSIPTM) may be categorized as Inspection Items D or E, as appropriate, provided the criteria in Appendix I of the code case have been met. For the purpose of determining ISI frequencies, all other butt welds that rely on Alloy 82/182 for structural integrity shall be categorized as Inspection Items A-1, A-2, or B until the NRC staff has reviewed the mitigation and authorized an alternative code case Inspection Item for the mitigated weld, or an alternative code case Inspection Item is used based on conformance with an ASME mitigation code case endorsed in NRC Regulatory Guide 1.147 with any applying conditions specified in NRC Regulatory Guide 1.147, as incorporated by reference in paragraph (a)(3)(ii) of this section. Paragraph -1100(e) of ASME BPV Code Case N-770-2 shall not be used to exempt welds that rely on Alloy 82/182 for structural integrity from any requirement of paragraph (g)(6)(ii)(F) of this section.
+(*2*) *Categorization.* (*i*) Welds that have been mitigated by the Mechanical Stress Improvement Process (MSIPTM) may be categorized as Inspection Items D or E, as appropriate, provided the criteria in Appendix I of the code case have been met.
 
-(*3*) *Baseline examinations.* Baseline examinations for welds in Table 1 of ASME BPV Code Case N-770-2, Inspection Items A-1, A-2, and B, if not previously performed or currently scheduled to be performed in an ongoing refueling outage as of August 17, 2017, in accordance with paragraph (g)(6)(ii)(F) of this section, shall be completed by the end of the next refueling outage. Previous examinations of these welds can be credited for baseline examinations only if they were performed within the re-inspection period for the weld item in Table 1 of ASME BPV Code Case N-770-2 and the examination of each weld meets the examination requirements of paragraphs -2500(a) or -2500(b) of ASME BPV Code Case N-770-2 as conditioned in this section. Other previous examinations that do not meet these requirements can be used to meet the baseline examination requirement, provided NRC approval in accordance with paragraph (z)(1) or (2) of this section, is granted prior to the end of the next refueling outage.
+(*ii*) In order to be categorized as peened welds, in lieu of inspection category L requirements and examinations, welds must meet the performance criteria, qualification and examination requirements as stated by MRP-335, Revision 3-A, with the exception that no plant-specific alternative is required.
 
-(*4*) *Examination coverage.* When implementing Paragraph -2500(a) of ASME BPV Code Case N-770-2, essentially 100 percent of the required volumetric examination coverage shall be obtained, including greater than 90 percent of the volumetric examination coverage for circumferential flaws. Licensees are prohibited from using Paragraphs -2500(c) and -2500(d) of ASME BPV Code Case N-770-2 to meet examination requirements.
+(*iii*) Other mitigated welds shall be identified as the appropriate inspection item of the NRC authorized alternative or NRC-approved code case for the mitigation type in Regulatory Guide 1.147.
+
+(*iv*) All other butt welds that rely on Alloy 82/182 for structural integrity shall be categorized as Inspection Items A-1, A-2, B-1 or B-2, as appropriate.
+
+(*v*) Paragraph -1100(e) of ASME BPV Code Case N-770-5 shall not be used to exempt welds that rely on Alloy 82/182 for structural integrity from any requirement of this section.
+
+(*3*) [Reserved]
+
+(*4*) *Examination coverage.* When implementing Paragraph -2500(a) of ASME BPV Code Case N-770-5, essentially 100 percent of the required volumetric examination coverage shall be obtained, including greater than 90 percent of the volumetric examination coverage for circumferential flaws. Licensees are prohibited from using Paragraphs -2500(c) and -2500(d) of ASME BPV Code Case N-770-5 to meet examination requirements.
 
 (*5*) *Inlay/onlay inspection frequency.* All hot-leg operating temperature welds in Inspection Items G, H, J, and K shall be inspected each inspection interval. A 25 percent sample of Inspection Items G, H, J, and K cold-leg operating temperature welds shall be inspected whenever the core barrel is removed (unless it has already been inspected within the past 10 years) or within 20 years, whichever is less.
 
-(*6*) *Reporting requirements.* For any mitigated weld whose volumetric examination detects growth of existing flaws in the required examination volume that exceed the previous IWB-3600 flaw evaluations or new flaws, a report summarizing the evaluation, along with inputs, methodologies, assumptions, and causes of the new flaw or flaw growth is to be provided to the NRC prior to the weld being placed in service other than modes 5 or 6.
+(*6*) *Reporting requirements.* The licensee will promptly notify the NRC regarding any volumetric examination of a mitigated weld that detects growth of existing flaws in the required examination volume that exceed the previous IWB-3600 flaw evaluations, new flaws, or any indication in the weld overlay or excavate and weld repair material characterized as stress corrosion cracking. Additionally, the licensee will submit to the NRC a report summarizing the evaluation, along with inputs, methodologies, assumptions, and causes of the new flaw or flaw growth within 30 days following plant startup.
 
 (*7*) *Defining “t”.* For Inspection Items G, H, J, and K, when applying the acceptance standards of ASME BPV Code, Section XI, IWB-3514, for planar flaws contained within the inlay or onlay, the thickness “t” in IWB-3514 is the thickness of the inlay or onlay. For planar flaws in the balance of the dissimilar metal weld examination volume, the thickness “t” in IWB-3514 is the combined thickness of the inlay or onlay and the dissimilar metal weld.
 
 (*8*) *Optimized weld overlay examination.* Initial inservice examination of Inspection Item C-2 welds shall be performed between the third refueling outage and no later than 10 years after application of the overlay.
 
-(*9*) *Deferral.* Note (11)(b)(1) in ASME BPV Code Case N-770-2 shall not be used to defer the initial inservice examination of optimized weld overlays (*i.e.,* Inspection Item C-2 of ASME BPV Code Case N-770-2).
+(*9*) *Deferrals.* (*i*) The initial inservice volumetric examination of optimized weld overlays, Inspection Item C-2, shall not be deferred.
 
-(*10*) *Examination technique.* Note 14(b) of Table 1 and Note (b) of Figure 5(a) of ASME BPV Code Case N-770-2 may only be implemented if the requirements of Note 14(a) of Table 1 of ASME BPV Code Case N-770-2 cannot be met.
+(*ii*) Volumetric inspection of peened dissimilar metal butt welds shall not be deferred.
 
-(*11*) *Cast stainless steel.* Examination of ASME BPV Code Class 1 piping and vessel nozzle butt welds involving cast stainless steel materials, shall be performed with Appendix VIII, Supplement 9 qualifications, or qualifications similar to Appendix VIII, Supplement 2 or 10 using cast stainless steel mockups no later than the next scheduled weld examination after January 1, 2022, in accordance with the requirements of Paragraph -2500(a).
+*(iii*) For Inspection Item M-2, N-1 and N-2 welds, the second required inservice volumetric examination shall not be deferred.
+
+(*10*) *Examination technique.* Note 14(b) of Table 1 and Note (b) of Figure 5(a) of ASME BPV Code Case N-770-5 may only be implemented if the requirements of Note 14(a) of Table 1 of ASME BPV Code Case N-770-5 cannot be met.
+
+(*11*) [Reserved]
 
 (*12*) *Stress improvement inspection coverage.* Under Paragraph I.5.1, for cast stainless steel items, the required examination volume shall be examined by Appendix VIII procedures to the maximum extent practical including 100 percent of the susceptible material volume.
 
-(*13*) *Encoded ultrasonic examination.* Ultrasonic examinations of non-mitigated or cracked mitigated dissimilar metal butt welds in the reactor coolant pressure boundary must be performed in accordance with the requirements of Table 1 for Inspection Item A-1, A-2, B, E, F-2, J, and K for 100 percent of the required inspection volume using an encoded method.
+(*13*) *Encoded ultrasonic examination.* Ultrasonic examinations of non-mitigated or cracked mitigated dissimilar metal butt welds in the reactor coolant pressure boundary must be performed in accordance with the requirements of Table 1 for Inspection Item A-1, A-2, B-1, B-2, E, F-2, J, K, N-1, N-2 and O. Essentially 100 percent of the required inspection volume shall be examined using an encoded method.
+
+(*14*) *Excavate and weld repair cold leg.* For cold leg temperature M-2, N-1 and N-2 welds, initial volumetric inspection after application of an excavate and weld repair (EWR) shall be performed during the second refueling outage.
+
+(*15*) *Cracked excavate and weld repair.* In lieu of the examination requirements for cracked welds with 360 excavate and weld repairs, Inspection Item N-1 of Table 1, welds shall be examined during the first or second refueling outage following EWR. Examination volumes that show no indication of crack growth or new cracking shall be examined once each inspection interval thereafter.
+
+(*16*) *Partial arc excavate and weld repair.* Inspection Item O cannot be used without NRC review and approval.
 
 (h) *Protection and safety systems.* Protection systems of nuclear power reactors of all types must meet the requirements specified in this paragraph. Each combined license for a utilization facility is subject to the following conditions.
 

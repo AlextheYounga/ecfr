@@ -1,7 +1,5 @@
 ##### § 117.723 Hackensack River. #####
 
-Link to an amendment published at 85 FR 26359, May 4, 2020.
-
 (a) The following requirements apply to all bridges across the Hackensack River:
 
 (1) The owners of each bridge shall provide and keep in good legible condition clearance gauges for each draw, with figures not less than 18 inches high for bridges below the turning basin at mile 4.0, and 12 inches high for bridges above mile 4.0. The gauges shall be designed, installed and maintained according to the provisions of § 118.160 of this chapter.
@@ -34,4 +32,8 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (i) The draw of the New York Susquehanna and Western Railroad bridge, mile 16.3, and the Midtown bridge, mile 16.5, both at Hackensack, need not be opened for the passage of vessels, however, the draws shall be restored to operable condition within 12 months after notification by the District Commander to do so.
 
-[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019; USCG-2019-0086, 85 FR 8749, Feb. 18, 2020]
+(j) The draw of the Route 1 & 9 Bridge, mile 1.8, at Jersey City, shall open on signal; except that, from 11 p.m. to 7 a.m., the draw shall open on signal if at least two hours advance notice is given by calling the number posted at the bridge.
+
+(k) The draw of the Route 7 Bridge, mile 3.1, at Jersey City, shall open on signal; except that, from 11 p.m. to 7 a.m., the draw shall open on signal if at least two hours advance notice is given by calling the number posted at the bridge.
+
+[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019; USCG-2019-0086, 85 FR 8749, Feb. 18, 2020; USCG-2019-0892, 85 FR 26359, May 4, 2020]
