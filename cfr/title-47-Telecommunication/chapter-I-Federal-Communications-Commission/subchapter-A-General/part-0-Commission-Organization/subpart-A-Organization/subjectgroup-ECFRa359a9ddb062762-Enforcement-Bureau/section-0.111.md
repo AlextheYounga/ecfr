@@ -1,7 +1,5 @@
 ##### § 0.111 Functions of the Bureau. #####
 
-Link to an amendment published at 86 FR 52843, Sept. 23, 2021.
-
 (a) Serve as the primary Commission entity responsible for enforcement of the Communications Act and other communications statutes, the Commission's rules, Commission orders and Commission authorizations, other than matters that are addressed in the context of a pending application for a license or other authorization or in the context of administration, including post-grant administration, of a licensing or other authorization or registration program.
 
 (1) Resolve complaints, including complaints filed under section 208 of the Communications Act, regarding acts or omissions of common carriers (wireline, wireless and international).
@@ -110,6 +108,8 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (i) Conduct the annual registration and select a single consortium to conduct private-led efforts to trace back the origin of suspected unlawful robocalls, under section 13(d) of the TRACED Act, 133 Stat. at 3287, and § 64.1203 of this chapter, consistent with FCC No. 20-34.
 
-(j) Perform such other functions as may be assigned or referred to it by the Commission.
+(j) Collects and reviews information received from private entities related to violations of §§ 64.1200(a) and 64.1604(a) of this chapter.
 
-[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021]
+(k) Perform such other functions as may be assigned or referred to it by the Commission.
+
+[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019; 85 FR 21788, Apr. 20, 2020; 85 FR 63171, Oct. 6, 2020; 86 FR 17734, Apr. 6, 2021; 86 FR 52843, Sept. 23, 2021]

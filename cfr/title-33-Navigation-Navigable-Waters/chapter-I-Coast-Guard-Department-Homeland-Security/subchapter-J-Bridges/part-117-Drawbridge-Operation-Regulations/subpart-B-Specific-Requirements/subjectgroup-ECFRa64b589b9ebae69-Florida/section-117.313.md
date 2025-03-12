@@ -1,5 +1,7 @@
 ##### § 117.313 New River. #####
 
+Link to an amendment published at 86 FR 58800, Oct. 25, 2021.
+
 (a) The draw of the SE. Third Avenue bridge, mile 1.4 at Fort Lauderdale shall open on signal; except that, from 7:30 a.m. to 9 a.m. and 4:30 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need not open. Public vessels of the United States, tugs with tows, and vessels in distress shall be passed at any time.
 
 (b) The draw of the Andrews Avenue bridge, mile 2.3 at Fort Lauderdale, shall open on signal; except that, from 7:30 a.m. to 9 a.m. and 4:30 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need not open. The draw need not open for inbound vessels when the draw of the Florida East Coast Railroad bridge, mile 2.5 at Fort Lauderdale is in the closed position for the passage of a train. Public vessels of the United States, tugs with tows, and vessels in distress shall be passed at any time.
