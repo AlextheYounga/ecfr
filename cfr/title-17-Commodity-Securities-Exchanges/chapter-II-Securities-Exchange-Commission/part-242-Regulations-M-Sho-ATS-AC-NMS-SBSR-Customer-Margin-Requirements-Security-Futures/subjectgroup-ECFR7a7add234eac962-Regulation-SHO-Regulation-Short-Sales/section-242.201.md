@@ -1,26 +1,24 @@
 ##### § 242.201 Circuit breaker. #####
 
-Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
-
 (a) *Definitions.* For the purposes of this section:
 
-(1) The term *covered security* shall mean any NMS stock as defined in § 242.600(b)(47).
+(1) The term *covered security* shall mean any NMS stock as defined in § 242.600(b)(48).
 
-(2) The term *effective transaction reporting plan for a covered security* shall have the same meaning as in § 242.600(b)(22).
+(2) The term *effective transaction reporting plan for a covered security* shall have the same meaning as in § 242.600(b)(23).
 
 (3) The term *listing market* shall have the same meaning as the term “listing market” as defined in the effective transaction reporting plan for the covered security.
 
-(4) The term *national best bid* shall have the same meaning as in § 242.600(b)(42).
+(4) The term *national best bid* shall have the same meaning as in § 242.600(b)(43).
 
-(5) The term *odd lot* shall have the same meaning as in § 242.600(b)(49).
+(5) The term *odd lot* shall have the same meaning as in § 242.600(b)(51).
 
-(6) The term *plan processor* shall have the same meaning as in § 242.600(b)(55).
+(6) The term *plan processor* shall have the same meaning as in § 242.600(b)(59).
 
-(7) The term *regular trading hours* shall have the same meaning as in § 242.600(b)(64).
+(7) The term *regular trading hours* shall have the same meaning as in § 242.600(b)(68).
 
 (8) The term *riskless principal* shall mean a transaction in which a broker or dealer, after having received an order to buy a security, purchases the security as principal at the same price to satisfy the order to buy, exclusive of any explicitly disclosed markup or markdown, commission equivalent, or other fee, or, after having received an order to sell, sells the security as principal at the same price to satisfy the order to sell, exclusive of any explicitly disclosed markup or markdown, commission equivalent, or other fee.
 
-(9) The term *trading center* shall have the same meaning as in § 242.600(b)(78).
+(9) The term *trading center* shall have the same meaning as in § 242.600(b)(82).
 
 (b)(1) A trading center shall establish, maintain, and enforce written policies and procedures reasonably designed to:
 
@@ -92,4 +90,4 @@ Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
 
 (f) Upon written application or upon its own motion, the Commission may grant an exemption from the provisions of this section, either unconditionally or on specified terms and conditions, to any person or class of persons, to any transaction or class of transactions, or to any security or class of securities to the extent that such exemption is necessary or appropriate, in the public interest, and is consistent with the protection of investors.
 
-[75 FR 11323, Mar. 10, 2010]
+[75 FR 11323, Mar. 10, 2010, as amended at 83 FR 58427, Nov. 19, 2018]

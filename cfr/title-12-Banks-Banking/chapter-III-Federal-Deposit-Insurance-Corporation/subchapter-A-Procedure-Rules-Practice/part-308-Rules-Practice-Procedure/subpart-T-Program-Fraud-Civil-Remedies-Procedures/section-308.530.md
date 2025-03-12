@@ -1,7 +1,5 @@
 ##### § 308.530 Determining the amount of penalties and assessments. #####
 
-Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
-
 (a) In determining an appropriate amount of civil penalties and assessments, the ALJ and the Board, upon appeal, should evaluate any circumstances that mitigate or aggravate the violation and should articulate in their opinions the reasons that support the penalties and assessments they impose. Because of the intangible costs of fraud, the expense of investigating such conduct, and the need to deter others who might be similarly tempted, ordinarily double damages and a significant civil penalty should be imposed.
 
 (b) Although not exhaustive, the following factors are among those that may influence the ALJ and the Board in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.,* the false, fictitious, or fraudulent claims or statement) charged in the complaint:
@@ -40,4 +38,6 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (c) Nothing in this section will be construed to limit the ALJ or the Board from considering any other factors that in any given case may mitigate or aggravate the offense for which penalties and assessments are imposed.
 
-(d) Civil money penalties that are assessed pursuant to this subpart are subject to adjustment on a four-year basis to account for inflation as required by section 4 of the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (codified at 28 U.S.C. 2461, note) (*see also* 12 CFR 308.132(c)(3)(xv)).
+(d) Civil money penalties that are assessed under this subpart are subject to annual adjustments to account for inflation as required by the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Pub. L. 114-74, sec. 701, 129 Stat. 584) (*see also* § 308.132(d)).
+
+[66 FR 9189, Feb. 7, 2001, as amended at 83 FR 61115, Nov. 28, 2018]

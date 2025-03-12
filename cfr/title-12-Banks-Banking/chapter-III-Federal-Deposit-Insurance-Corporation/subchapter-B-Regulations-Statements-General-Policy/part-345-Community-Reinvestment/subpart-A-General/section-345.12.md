@@ -110,4 +110,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 345.25(b).
 
-[60 FR 22201, May 4, 1995]Editorial Note:For Federal Register citations affecting § 345.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[60 FR 22201, May 4, 1995]Editorial Note:For Federal Register citations affecting § 345.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

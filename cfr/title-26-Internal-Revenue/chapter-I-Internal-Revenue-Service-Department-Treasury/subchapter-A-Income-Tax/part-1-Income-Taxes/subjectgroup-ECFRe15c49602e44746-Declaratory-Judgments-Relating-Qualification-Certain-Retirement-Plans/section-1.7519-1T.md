@@ -129,15 +129,15 @@ Example 1.I1 and I2, calendar year individuals, own 100 percent of the profits a
 
 Example 1.D, a partnership, is owned 10 percent by a C corporation with a September 30 taxable year and 90 percent by calendar year individuals. D has historically used a September 30 taxable year. For its taxable year beginning October 1, 1987, D makes a section 444 election to retain its September 30 taxable year. For the base year from October 1, 1986 to September 30, 1987, D has net income of $200,000 and no applicable payments. D's deferral ratio is3/12 (the ratio of the number of months in the deferral period to 12 months). Based upon these facts, D has net base year income of $50,000 ($200,000 ×3/12).Example 2.The facts are the same as in example (1) except that D's net income for the base year is $140,000, after applicable payments of $60,000. Of the applicable payments $15,000 were deductible during the deferral period of the base year. Based upon these facts, D has net base year income of $35,000, determined as follows:
 
-|                          Net income multiplied by deferral ratio                          |$140,000|       |       |
-|-------------------------------------------------------------------------------------------|--------|-------|-------|
-|                                                                                           | × 3/12 |       |       |
-|                                                                                           |        |       |$35,000|
-|       Plus the excess, if any, of applicable payments multiplied by deferral ratio        |$60,000 |       |       |
-|                                                                                           | × 3/12 |       |       |
-|                                                                                           |        |$15,000|       |
-|Over aggregate amount of applicable payments deductible during deferral period of base year|        |$15,000|   0   |
-|                                   Net base year income                                    |        |       |$35,000|
+|                          Net income multiplied by deferral ratio                          |          $140,000          |       |       |
+|-------------------------------------------------------------------------------------------|----------------------------|-------|-------|
+|                                                                                           |× <sup>3</sup>⁄<sub>12</sub>|       |       |
+|                                                                                           |                            |       |$35,000|
+|       Plus the excess, if any, of applicable payments multiplied by deferral ratio        |          $60,000           |       |       |
+|                                                                                           |× <sup>3</sup>⁄<sub>12</sub>|       |       |
+|                                                                                           |                            |$15,000|       |
+|Over aggregate amount of applicable payments deductible during deferral period of base year|                            |$15,000|   0   |
+|                                   Net base year income                                    |                            |       |$35,000|
 
 Example 3.The facts are the same as in example (2) except that of the $60,000 applicable payments only $10,000 are deductible during the deferral period of the base year. Based on these facts, D has net base year income of $40,000, determined as follows:
 

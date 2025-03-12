@@ -84,7 +84,7 @@
 
 (15) *Solvents for paint or other similar surface-coating material.* Prepackaged liquid solvents (such as removers, thinners, brush cleaners, etc.) for paints or other similar surface-coating materials (such as varnishes and lacquers), that contain 10 percent or more by weight of benzene (also known as benzol), toluene (also known as toluol), xylene (also known as xylol), petroleum distillates (such as gasoline, kerosene, mineral seal oil, mineral spirits, naphtha, and Stoddard solvent, etc.), or combinations thereof, and that have a viscosity of less than 100 Saybolt universal seconds at 100 °F., shall be packaged in accordance with the provisions of § 1700.15 (a) and (b).
 
-(16) *Acetaminophen.* Preparations for human use in a dosage form intended for oral administration and containing in a single package a total of more than one gram acetaminophen shall be packaged in accordance with the provisions of § 1700.15 (a), (b), and (c), except the following -
+(16) *Acetaminophen.* Preparations for human use in a dosage form intended for oral administration and containing in a single package a total of more than one gram acetaminophen shall be packaged in accordance with the provisions of § 1700.15 (a), (b), and (c), except the following—
 
 (i) Effervescent tablets or granules containing acetaminophen, provided the dry tablet or granules contain less than 15 percent acetaminophen, the tablet or granules have an oral LD-50 of 5 grams or greater per kilogram of body weight, and the tablet or granules contain no other substance subject to the provisions of this section.
 
@@ -146,4 +146,4 @@
 
 (c) *Applicability.* Special packaging standards for drugs listed under paragraph (a) of this section shall be in addition to any packaging requirements of the Federal Food, Drug, and Cosmetic Act or regulations promulgated thereunder or of any official compendia recognized by that act.
 
-(Pub. L. 91-601, secs. 2(4), 3, 5, 85 Stat. 1670-72; 15 U.S.C. 1471(4), 1472, 1474; Pub. L. 92-573, 86 Stat. 1231; 15 U.S.C. 2079(a))[38 FR 21247, Aug. 7, 1973]Editorial Note:For Federal Register citations affecting § 1700.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Pub. L. 91-601, secs. 2(4), 3, 5, 85 Stat. 1670-72; 15 U.S.C. 1471(4), 1472, 1474; Pub. L. 92-573, 86 Stat. 1231; 15 U.S.C. 2079(a))[38 FR 21247, Aug. 7, 1973]Editorial Note:For Federal Register citations affecting § 1700.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

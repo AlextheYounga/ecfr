@@ -1,7 +1,5 @@
 ##### § 327.3 Payment of assessments. #####
 
-Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
-
 (a) *Required* - (1) *In general.* Each insured depository institution shall pay to the Corporation for each assessment period an assessment determined in accordance with this part 327.
 
 (2) *Notice of designated deposit account.* For the purpose of making such payments, each insured depository institution shall designate a deposit account for direct debit by the Corporation. No later than 30 days prior to the next payment date specified in paragraph (b)(2) of this section, each institution shall provide notice to the Corporation via FDIC*connect* of the account designated, including all information and authorizations needed by the Corporation for direct debit of the account. After the initial notice of the designated account, no further notice is required unless the institution designates a different account for assessment debit by the Corporation, in which case the requirements of the preceding sentence apply.
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (iv) In the case of the assessment payment for the quarter that begins on October 1, the payment date is the following March 30.
 
-(c) *Necessary action, sufficient funding by institution.* Each insured depository institution shall take all actions necessary to allow the Corporation to debit assessments from the insured depository institution's designated deposit account. Each insured depository institution shall, prior to each payment date indicated in paragraph (b)(2) of this section, ensure that funds in an amount at least equal to the amount on the quarterly certified statement invoice are available in the designated account for direct debit by the Corporation. Failure to take any such action or to provide such funding of the account shall be deemed to constitute nonpayment of the assessment. Penalties for failure to timely pay assessments are provided for at 12 CFR 308.132(d)(9).
+(c) *Necessary action, sufficient funding by institution.* Each insured depository institution shall take all actions necessary to allow the Corporation to debit assessments from the insured depository institution's designated deposit account. Each insured depository institution shall, prior to each payment date indicated in paragraph (b)(2) of this section, ensure that funds in an amount at least equal to the amount on the quarterly certified statement invoice are available in the designated account for direct debit by the Corporation. Failure to take any such action or to provide such funding of the account shall be deemed to constitute nonpayment of the assessment. Penalties for failure to timely pay assessments will be calculated and published in accordance with 12 CFR 308.132(d).
 
 (d) *Business days.* If a payment date specified in paragraph (b)(2) falls on a date that is not a business day, the applicable date shall be the previous business day.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (g) *Quarterly certified statement invoice unavailable.* Any institution whose quarterly certified statement invoice is unavailable on FDIC*connect* by the fifteenth day of the month in which the payment is due shall promptly notify the Corporation. Failure to provide prompt notice to the Corporation shall not affect the institution's obligation to make full and timely assessment payment. Unless otherwise directed by the Corporation, the institution shall preliminarily pay the amount shown on its quarterly certified statement invoice for the preceding assessment period, subject to subsequent correction.
 
-[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9550, Mar. 4, 2009; 81 FR 32201, May 20, 2016; 81 FR 42243, June 29, 2016]
+[54 FR 51374, Dec. 15, 1989, as amended at 74 FR 9550, Mar. 4, 2009; 81 FR 32201, May 20, 2016; 81 FR 42243, June 29, 2016; 83 FR 61115, Nov. 28, 2018]

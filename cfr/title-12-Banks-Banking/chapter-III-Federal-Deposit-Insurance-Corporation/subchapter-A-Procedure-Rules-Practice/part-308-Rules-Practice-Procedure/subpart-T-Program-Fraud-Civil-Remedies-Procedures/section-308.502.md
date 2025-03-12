@@ -1,7 +1,5 @@
 ##### § 308.502 Basis for civil penalties and assessments. #####
 
-Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
-
 (a) *Claims.* (1) A person who makes a false, fictitious, or fraudulent claim to the FDIC is subject to a civil penalty of up to $5,000 per claim. A claim is false, fictitious, or fraudulent if the person making the claim knows, or has reason to know, that:
 
 (i) The claim is false, fictitious, or fraudulent; or
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (5) If the FDIC has made any payment (including transferred property or provided services) on a claim, a person subject to a civil penalty under paragraph (a)(1) of this section will also be subject to an assessment of not more than twice the amount of such claim (or portion of the claim) that is determined to constitute a false, fictitious, or fraudulent claim under paragraph (a)(1) of this section. The assessment will be in lieu of damages sustained by the FDIC because of the claims.
 
-(6) The amount of any penalty assessed under paragraph (a)(1) of this section will be adjusted for inflation in accordance with § 308.132(d)(17) of this part.
+(6) The amount of any penalty assessed under paragraph (a)(1) of this section will be adjusted for inflation in accordance with § 308.132(d).
 
 (7) The penalty specified in paragraph (a)(1) of this section is in addition to any other remedy allowable by law.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (3) A statement will be considered made to the FDIC when the statement is actually made to an agent, fiscal intermediary, or other entity, including any state or political subdivision thereof, acting for or on behalf of the FDIC.
 
-(4) The amount of any penalty assessed under paragraph (a)(1) of this section will be adjusted for inflation in accordance with § 308.132(d)(17) of this part.
+(4) The amount of any penalty assessed under paragraph (a)(1) of this section will be adjusted for inflation in accordance with § 308.132(d).
 
 (5) The penalty specified in paragraph (a)(1) of this section is in addition to any other remedy allowable by law.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
 
 (2) In any case in which it is determined that more than one person is liable for making a claim under this section on which the FDIC has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-[66 FR 9189, Feb. 7, 2001, as amended at 81 FR 42242, June 29, 2016]
+[66 FR 9189, Feb. 7, 2001, as amended at 81 FR 42242, June 29, 2016; 83 FR 61115, Nov. 28, 2018]

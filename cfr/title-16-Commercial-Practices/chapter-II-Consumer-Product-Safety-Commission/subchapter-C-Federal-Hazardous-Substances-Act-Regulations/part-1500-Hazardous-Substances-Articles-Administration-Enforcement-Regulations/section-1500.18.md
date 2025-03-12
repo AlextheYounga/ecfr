@@ -48,7 +48,7 @@
 
 (E) Is intended or promoted for use by children under one year of age.
 
-(ii) *Findings* - (A) *General.* In order to issue a rule under section 2(q)(1) of the Federal Hazardous Substance Act (FHSA), 15 U.S.C. 1261(q)(1), classifying a substance or article as a banned hazardous substance, the FHSA requires the Commission to make certain findings and to include these findings in the regulation. These findings are discussed in paragraphs (a)(16)(ii) (B) through (D) of this section.
+(ii) *Findings*—(A) *General.* In order to issue a rule under section 2(q)(1) of the Federal Hazardous Substance Act (FHSA), 15 U.S.C. 1261(q)(1), classifying a substance or article as a banned hazardous substance, the FHSA requires the Commission to make certain findings and to include these findings in the regulation. These findings are discussed in paragraphs (a)(16)(ii) (B) through (D) of this section.
 
 (B) *Voluntary standard.* No findings concerning compliance with or adequacy of a voluntary standard are necessary since no voluntary standard addressing infant cushions has been adopted or implemented.
 
@@ -94,4 +94,4 @@ Paragraph (b)(1) was originally promulgated as 21 CFR 191.9a(b)(1) with an effec
 
 (2) [Reserved]
 
-(15 U.S.C. 1261 (f)(1)(D), (g)(1)(A), (r); 15 U.S.C. 1262(e)(1); 15 U.S.C. 2079(a))[38 FR 27012, Sept. 27, 1973]Editorial Note:For Federal Register citations affecting § 1500.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(15 U.S.C. 1261 (f)(1)(D), (g)(1)(A), (r); 15 U.S.C. 1262(e)(1); 15 U.S.C. 2079(a))[38 FR 27012, Sept. 27, 1973]Editorial Note:For Federal Register citations affecting § 1500.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
