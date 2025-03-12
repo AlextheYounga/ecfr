@@ -10,9 +10,9 @@
 
 (4) Does not apply to claims for Part B services furnished by suppliers that have in effect provider agreements under section 1866 of the Act and part 489 of this chapter, and are paid by intermediaries.
 
-(b) *Definition.* As used in this section, *advance payment* means a conditional partial payment made by the carrier in response to a claim that it is unable to process within established time limits.
+(b) *Definition.* As used in this section, *advance payment* means a conditional partial payment made by the contractor in response to a claim that it is unable to process within established time limits except as provided in paragraph (j) of this section.
 
-(c) *When advance payments may be made.* An advance payment may be made if all of the following conditions are met:
+(c) *When advance payments may be made.* Unless otherwise qualified under paragraph (j) of this section, an advance payment may be made if all of the following conditions are met:
 
 (1) The carrier is unable to process the claim timely.
 
@@ -30,13 +30,15 @@
 
 (4) Has not accepted claims' assignments within the most recent 180-day period preceding the system malfunction.
 
+(5) Is in bankruptcy.
+
 (e) *Requirements for suppliers.* (1) Except as provided for in paragraph (g)(1) of this section, a supplier must request, in writing to the carrier, an advance payment for Part B services it furnished.
 
 (2) A supplier must accept an advance payment as a conditional payment subject to adjustment, recoupment, or both, based on an eventual determination of the actual amount due on the claim and subject to the provisions of this section.
 
 (f) *Requirements for carriers.* (1) A carrier must notify a supplier as soon as it is determined that payment will not be made in a timely manner, and an advance payment option is to be offered to the supplier.
 
-(i) A carrier must calculate an advance payment for a particular claim at no more than 80 percent of the anticipated payment for that claim based upon the historical assigned claims payment data for claims paid the supplier.
+(i) Unless otherwise qualified under paragraph (j) of this section, a contractor must calculate an advance payment for a particular claim at no more than 80 percent of the anticipated payment for that claim based upon the historical assigned claims payment data as defined in paragraph (f)(1)(ii) of this section for claims paid to the supplier. For suppliers qualifying and approved for advance payments under paragraph (j) of this section, a contractor may calculate an advance payment for a particular claim at up to 100 percent of the anticipated payment for that claim based upon the historical assigned claims payment data as defined in paragraph (f)(1)(ii) of this section for claims paid to the supplier.
 
 (ii) “Historical data” are defined as a representative 90-day assigned claims payment trend within the most recent 180-day experience before the system malfunction.
 
@@ -66,4 +68,10 @@
 
 (4) The review and explanation described in paragraph (i)(3) of this section is separate from a supplier's right to appeal the amount and computation of benefits paid on the claim, as provided at part 405, subpart H of this chapter. The carrier's reconciliation of amounts advanced and recouped is not an initial determination as defined at § 405.803 of this chapter, and any written explanation of a reconciliation is not subject to further administrative review.
 
-[61 FR 49275, Sept. 19, 1996]
+(j) *Advanced payments in exceptional circumstances.* CMS may approve, in writing to the contractor, the making of advance payments during the period of a Public Health Emergency, as defined in § 400.200 of this chapter, or during the period under a Presidential Disaster Declaration, under the following exceptional conditions:
+
+(1) The contractor is unable to process the claim timely, or is at risk of being untimely in processing the claim; or
+
+(2) When the supplier has experienced a temporary delay in preparing and submitting bills to the contractor beyond its normal billing cycle.
+
+[61 FR 49275, Sept. 19, 1996, as amended at 85 FR 19289, Apr. 6, 2020]

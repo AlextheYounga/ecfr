@@ -6,4 +6,6 @@
 
 (c) For purposes of the reports required by paragraphs (a) and (b) of this section, the period covered thereby shall be the portion of the labor organization's fiscal year ending on the effective date of its loss of reporting identity, or the portion of the subordinate labor organization's fiscal year ending on the effective date of the termination of trusteeship over such subordinate labor organization, as the case may be.
 
-[28 FR 14383, Dec. 27, 1963, as amended at 50 FR 31309, 31310, Aug. 1, 1985; 62 FR 6092, Feb. 10, 1997; 68 FR 58447, Oct. 9, 2003; 71 FR 57737, Sept. 29, 2006; 73 FR 57449, Oct. 2, 2008; 75 FR 74959, Dec. 1, 2010]
+(d) If a labor organization filed or was required to file a report on a trust pursuant to Sec. 403.2(d) and that trust loses its identity during its subsequent fiscal year through merger, consolidation, or otherwise, the labor organization shall, within 30 days after such loss, file a terminal report on Form T-1, with the Office of Labor-Management Standards, signed by the president and treasurer or corresponding principal officers of the labor organization. For purposes of the report required by this paragraph, the period covered thereby shall be the portion of the trust's fiscal year ending on the effective date of the loss of its reporting identity.
+
+[28 FR 14383, Dec. 27, 1963, as amended at 50 FR 31309, 31310, Aug. 1, 1985; 62 FR 6092, Feb. 10, 1997; 68 FR 58447, Oct. 9, 2003; 71 FR 57737, Sept. 29, 2006; 73 FR 57449, Oct. 2, 2008; 75 FR 74959, Dec. 1, 2010; 85 FR 13442, Mar. 6, 2020]

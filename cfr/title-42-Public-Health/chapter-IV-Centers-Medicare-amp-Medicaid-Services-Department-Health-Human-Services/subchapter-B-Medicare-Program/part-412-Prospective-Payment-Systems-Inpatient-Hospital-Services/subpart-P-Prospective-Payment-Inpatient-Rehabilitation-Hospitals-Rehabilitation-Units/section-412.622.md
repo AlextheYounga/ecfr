@@ -11,8 +11,9 @@
 (ii) Generally requires and can reasonably be expected to actively participate in, and benefit from, an intensive rehabilitation therapy program. Under current industry standards, this intensive rehabilitation therapy program generally consists of at least 3 hours of therapy (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics therapy) per day at least 5 days per week. In certain well-documented cases, this intensive rehabilitation therapy program might instead consist of at least 15 hours of intensive rehabilitation therapy within a 7 consecutive day period, beginning with the date of admission to the IRF. Benefit from this intensive rehabilitation therapy program is demonstrated by measurable improvement that will be of practical value to the patient in improving the patient's functional capacity or adaptation to impairments. The required therapy treatments must begin within 36 hours from midnight of the day of admission to the IRF.
 
 (iii) Is sufficiently stable at the time of admission to the IRF to be able to actively participate in the intensive rehabilitation therapy program that is described in paragraph (a)(3)(ii) of this section.
+]
 
-(iv) Requires physician supervision by a rehabilitation physician. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process. The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
+(iv) Requires physician supervision by a rehabilitation physician. The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient's stay in the IRF to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process, except that during a Public Health Emergency, as defined in § 400.200 of this chapter, such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act). The post-admission physician evaluation described in paragraph (a)(4)(ii) of this section may count as one of the face-to-face visits.
 
 (4) *Documentation.* To document that each patient for whom the IRF seeks payment is reasonably expected to meet all of the requirements in paragraph (a)(3) of this section at the time of admission, the patient's medical record at the IRF must contain the following documentation -
 
@@ -28,7 +29,7 @@
 
 (E) It is retained in the patient's medical record at the IRF.
 
-(ii) A post-admission physician evaluation that meets all of the following requirements -
+(ii) A post-admission physician evaluation that meets all of the following requirements, except for the duration of the Public Health Emergency, as defined in § 400.200 of this chapter -
 
 (A) It is completed by a rehabilitation physician within 24 hours of the patient's admission to the IRF.
 
@@ -62,4 +63,4 @@
 
 *Rehabilitation physician* means a licensed physician who is determined by the IRF to have specialized training and experience in inpatient rehabilitation.
 
-[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019]
+[66 FR 41388, Aug. 7, 2001, as amended at 70 FR 47952, Aug. 15, 2005; 74 FR 39811, Aug. 7, 2009; 83 FR 38573,Aug. 6, 2018; 84 FR 39172, Aug. 8, 2019; 85 FR 19287, Apr. 6, 2020]

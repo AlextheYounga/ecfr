@@ -118,7 +118,7 @@ This section lists the table of contents for §§ 1.1400Z2(a)-1 through 1.1400Z2
 
 (1) Taxable year of deferral election.
 
-(2) Taxable years after deferral election.
+(2) Annual reporting of qualifying investments.
 
 (e) Interaction of section 1400Z-2 and § 1.897-6T.
 
@@ -212,7 +212,7 @@ This section lists the table of contents for §§ 1.1400Z2(a)-1 through 1.1400Z2
 
 (6) Basis in the hands of a taxpayer who received a qualifying investment in a QOF by reason of the prior owner's death.
 
-(h) Notifications by partners and partnerships, and shareholders and S corporations.
+(h) Notifications by partners and partnerships, and shareholders and.
 
 (1) Notification of deferral election.
 
@@ -230,7 +230,7 @@ This section lists the table of contents for §§ 1.1400Z2(a)-1 through 1.1400Z2
 
 (2) Prior periods.
 
-§ 1.1400Z2 (c)-1 Investments held for at least 10 years.
+§ 1.1400Z2(c)-1 Investments held for at least 10 years.
 
 (a) Scope.
 
@@ -268,7 +268,7 @@ This section lists the table of contents for §§ 1.1400Z2(a)-1 through 1.1400Z2
 
 (3) Self-decertification of a QOF.
 
-(4) Involuntary decertification.
+(4) [Reserved]
 
 (b) Valuation of property for purposes of the 90-percent investment standard and the 70-percent tangible property standard.
 
@@ -376,4 +376,4 @@ This section lists the table of contents for §§ 1.1400Z2(a)-1 through 1.1400Z2
 
 (2) Prior periods.
 
-[T.D. 9889, 85 FR 1953, Jan. 13, 2020]
+[T.D. 9889, 85 FR 1953, Jan. 13, 2020; 85 FR 19082, Apr. 6, 2020]

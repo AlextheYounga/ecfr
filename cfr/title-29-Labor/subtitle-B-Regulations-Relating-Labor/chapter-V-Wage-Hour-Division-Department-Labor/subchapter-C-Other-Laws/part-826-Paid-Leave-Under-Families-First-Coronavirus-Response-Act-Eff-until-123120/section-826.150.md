@@ -1,0 +1,7 @@
+##### § 826.150 Prohibited acts and enforcement under the EPSLA. #####
+
+(a) *Prohibited acts.* An Employer is prohibited from discharging, disciplining, or discriminating against any Employee because such Employee took Paid Sick Leave under the EPSLA. Likewise, an Employer is prohibited from discharging, disciplining, or discriminating against any Employee because such Employee has filed any complaint or instituted or caused to be instituted any proceeding, including an enforcement proceeding, under or related to the EPSLA, or has testified or is about to testify in any such proceeding.
+
+(b) *Enforcement* - (1) *Failure to provide Paid Sick Leave.* An Employer who fails to provide its Employee Paid Sick Leave under the EPSLA is considered to have failed to pay the minimum wage as required by section 6 of the FLSA, 29 U.S.C. 206, and shall be subject to the enforcement provisions set forth in sections 16 and 17 of the FLSA, 29 U.S.C. 216, 217.
+
+(2) *Discharge, discipline, or discrimination.* An Employer who discharges, disciplines, or discriminates against an Employee in the manner described in subsection (a) is considered to have violated section 15(a)(3) of the FLSA, 29 U.S.C. 215(a)(3), and shall be subject to the enforcement provisions relevant to such violations set forth in sections 16 and 17 of the FLSA, 29 U.S.C. 216, 217.

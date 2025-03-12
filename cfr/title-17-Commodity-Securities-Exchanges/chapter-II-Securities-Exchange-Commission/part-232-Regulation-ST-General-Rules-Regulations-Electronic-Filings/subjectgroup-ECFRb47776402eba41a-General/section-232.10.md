@@ -20,4 +20,4 @@ Note to § 232.10:
 
 The Commission strongly urges any person or entity about to become subject to the disclosure and filing requirements of the federal securities laws to submit a Form ID well in advance of the first required filing, including a registration statement relating to an initial public offering, in order to facilitate electronic filing on a timely basis.
 
-[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 69 FR 22709, Apr. 26, 2004; 74 FR 10838, Mar. 13, 2009; 77 FR 54807, Sept. 6, 2012; 85 FR 17751, Mar. 31, 2020]
+[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 69 FR 22709, Apr. 26, 2004; 74 FR 10838, Mar. 13, 2009; 77 FR 54807, Sept. 6, 2012; 85 FR 17751, Mar. 31, 2020]Effective Date Note:At 85 FR 17751, Mar. 31, 2020, § 232.10 was amended by adding paragraph (c) effective from Mar. 30, 2020, through July 15, 2020

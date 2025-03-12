@@ -80,4 +80,6 @@
 
 (2) Part D sponsors are required to collect, analyze, and report data that permit measurements of health outcomes and other indices of quality. Part D sponsors must provide unbiased, accurate, and complete quality data described in paragraph (c)(1) of this section to CMS on a timely basis as requested by CMS.
 
-[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019]
+(3) For 2021 Star Ratings only, Part D sponsors are not required to submit CAHPS data that would otherwise be required for the calculation of the 2021 Star Ratings.
+
+[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019, as amended at 85 FR 19290, Apr. 6, 2020]

@@ -1,6 +1,6 @@
 ##### § 510.200 Time periods, included and excluded services, and attribution. #####
 
-(a) *Time periods.* All episodes must begin on or after April 1, 2016 and end on or before December 31, 2020.
+(a) *Time periods.* All episodes must begin on or after April 1, 2016 and end on or before March 31, 2021.
 
 (b) *Included services.* All Medicare Parts A and B items and services are included in the episode, except as specified in paragraph (d) of this section. These services include, but are not limited to, the following:
 
@@ -91,3 +91,5 @@
 (i) Potential revisions to the exclusion to allow for public comment; and
 
 (ii) An updated exclusions list after consideration of public comment.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 85 FR 19292, Apr. 6, 2020]

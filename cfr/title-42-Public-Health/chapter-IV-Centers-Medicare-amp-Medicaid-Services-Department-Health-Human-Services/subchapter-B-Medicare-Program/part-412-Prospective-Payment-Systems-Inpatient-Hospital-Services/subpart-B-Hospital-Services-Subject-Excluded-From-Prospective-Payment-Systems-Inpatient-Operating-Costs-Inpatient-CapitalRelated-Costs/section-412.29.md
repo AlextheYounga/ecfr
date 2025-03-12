@@ -60,7 +60,7 @@ To be excluded from the prospective payment systems described in § 412.1(a)(1) 
 
 (d) Have in effect a preadmission screening procedure under which each prospective patient's condition and medical history are reviewed to determine whether the patient is likely to benefit significantly from an intensive inpatient hospital program. This procedure must ensure that the preadmission screening for each Medicare Part A Fee-for-Service patient is reviewed and approved by a rehabilitation physician prior to the patient's admission to the IRF.
 
-(e) Have in effect a procedure to ensure that patients receive close medical supervision, as evidenced by at least 3 face-to-face visits per week by a licensed physician with specialized training and experience in inpatient rehabilitation to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process.
+(e) Have in effect a procedure to ensure that patients receive close medical supervision, as evidenced by at least 3 face-to-face visits per week by a licensed physician with specialized training and experience in inpatient rehabilitation to assess the patient both medically and functionally, as well as to modify the course of treatment as needed to maximize the patient's capacity to benefit from the rehabilitation process, except that during a Public Health Emergency, as defined in § 400.200 of this chapter, such visits may be conducted using telehealth services (as defined in section 1834(m)(4)(F) of the Act).
 
 (f) Furnish, through the use of qualified personnel, rehabilitation nursing, physical therapy, and occupational therapy, plus, as needed, speech-language pathology, social services, psychological services (including neuropsychological services), and orthotic and prosthetic services.
 
@@ -80,4 +80,4 @@ To be excluded from the prospective payment systems described in § 412.1(a)(1) 
 
 (j) *Retroactive adjustments.* If a new IRF (or new beds that are added to an existing IRF) are excluded from the prospective payment systems specified in § 412.1(a)(1) and paid under the prospective payment system specified in § 412.1(a)(3) for a cost reporting period under paragraph (c) of this section, but the inpatient population actually treated during that period does not meet the requirements of paragraph (b) of this section, we adjust payments to the IRF retroactively in accordance with the provisions in § 412.130.
 
-[76 FR 47891, Aug. 5, 2011, as amended at 78 FR 47934, Aug. 6, 2013]
+[76 FR 47891, Aug. 5, 2011, as amended at 78 FR 47934, Aug. 6, 2013; 85 FR 19287, Apr. 6, 2020]

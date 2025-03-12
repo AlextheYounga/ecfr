@@ -18,6 +18,8 @@
 
 (ii) Signed by the supervising physician, nurse practitioner, physician assistant or certified nurse midwife of the RHC or FQHC.
 
+(5) During a PHE, as defined in § 400.200 of this chapter, an area typically served by the RHC, and an area that is included in the FQHC's service area plan, is determined to have a shortage of home health agencies, and no request for this determination is required.
+
 (b) The nursing care covered by this section includes the following:
 
 (1) Services that must be performed by a registered professional nurse or licensed practical nurse if the safety of the patient is to be assured and the medically desired results achieved.
@@ -28,4 +30,4 @@
 
 (d) For purposes of this section, *homebound* means an individual who is permanently or temporarily confined to his or her place of residence because of a medical or health condition. The individual may be considered homebound if he or she leaves the place of residence infrequently. For this purpose, “place of residence” does not include a hospital or long term care facility.
 
-[43 FR 8261, Mar. 1, 1978, as amended at 79 FR 25475, May 2, 2014]
+[43 FR 8261, Mar. 1, 1978, as amended at 79 FR 25475, May 2, 2014; 85 FR 19285, Apr. 6, 2020]

@@ -32,7 +32,7 @@
 
 (i) *General supervision* means the procedure is furnished under the physician's overall direction and control, but the physician's presence is not required during the performance of the procedure. Under general supervision, the training of the nonphysician personnel who actually perform the diagnostic procedure and the maintenance of the necessary equipment and supplies are the continuing responsibility of the physician.
 
-(ii) *Direct supervision* in the office setting means the physician must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician must be present in the room when the procedure is performed.
+(ii) *Direct supervision* in the office setting means the physician must be present in the office suite and immediately available to furnish assistance and direction throughout the performance of the procedure. It does not mean that the physician must be present in the room when the procedure is performed. During a PHE, as defined in § 400.200 of this chapter, the presence of the physician includes virtual presence through audio/video real-time communications technology when use of such technology is indicated to reduce exposure risks for the beneficiary or health care provider.
 
 (iii) *Personal supervision* means a physician must be in attendance in the room during the performance of the procedure.
 
@@ -104,4 +104,4 @@
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020]

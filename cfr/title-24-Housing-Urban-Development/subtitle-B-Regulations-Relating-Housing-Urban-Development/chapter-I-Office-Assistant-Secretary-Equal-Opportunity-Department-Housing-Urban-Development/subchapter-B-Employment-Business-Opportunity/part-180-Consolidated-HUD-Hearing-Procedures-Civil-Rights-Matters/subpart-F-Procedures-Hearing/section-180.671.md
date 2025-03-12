@@ -1,14 +1,12 @@
 ##### § 180.671 Assessing civil penalties for Fair Housing Act cases. #####
 
-Link to an amendment published at 85 FR 13044, Mar. 6, 2020.
-
 (a) *Amounts.* The ALJ may assess a civil penalty against any respondent under § 180.670(b)(3) for each separate and distinct discriminatory housing practice (as defined in paragraph (b) of this section) that the respondent committed, each civil penalty in an amount not to exceed:
 
-(1) $21,039, if the respondent has not been adjudged in any administrative hearing or civil action permitted under the Fair Housing Act or any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a federal, state, or local governmental agency, to have committed any prior discriminatory housing practice.
+(1) $21,410, if the respondent has not been adjudged in any administrative hearing or civil action permitted under the Fair Housing Act or any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a Federal, state, or local governmental agency, to have committed any prior discriminatory housing practice.
 
-(2) $52,596, if the respondent has been adjudged in any administrative hearing or civil action permitted under the Fair Housing Act, or under any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a federal, state, or local government agency, to have committed one other discriminatory housing practice and the adjudication was made during the 5-year period preceding the date of filing of the charge.
+(2) $53,524, if the respondent has been adjudged in any administrative hearing or civil action permitted under the Fair Housing Act, or under any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a Federal, state, or local government agency, to have committed one other discriminatory housing practice and the adjudication was made during the 5-year period preceding the date of filing of the charge.
 
-(3) $105,194, if the respondent has been adjudged in any administrative hearings or civil actions permitted under the Fair Housing Act, or under any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a federal, state, or local government agency, to have committed two or more discriminatory housing practices and the adjudications were made during the 7-year period preceding the date of filing of the charge.
+(3) $107,050, if the respondent has been adjudged in any administrative hearings or civil actions permitted under the Fair Housing Act, or under any state or local fair housing law, or in any licensing or regulatory proceeding conducted by a Federal, state, or local government agency, to have committed two or more discriminatory housing practices and the adjudications were made during the 7-year period preceding the date of filing of the charge.
 
 (b) *Definition of separate and distinct discriminatory housing practice.* A separate and distinct discriminatory housing practice is a single, continuous uninterrupted transaction or occurrence that violates section 804, 805, 806 or 818 of the Fair Housing Act. Even if such a transaction or occurrence violates more than one provision of the Fair Housing Act, violates a provision more than once, or violates the fair housing rights of more than one person, it constitutes only one separate and distinct discriminatory housing practice.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 13044, Mar. 6, 2020.
 
 (2) In a proceeding involving two or more respondents who have been determined to have engaged in, or are about to engage in, one or more discriminatory housing practices, one or more civil penalties, as provided under this section, may be assessed against each respondent.
 
-[64 FR 6754, Feb. 10, 1999, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 78 FR 4060, Jan. 18, 2013; 82 FR 24525, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9454, Mar. 15, 2019]
+[64 FR 6754, Feb. 10, 1999, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 78 FR 4060, Jan. 18, 2013; 82 FR 24525, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9454, Mar. 15, 2019; 85 FR 13044, Mar. 6, 2020]

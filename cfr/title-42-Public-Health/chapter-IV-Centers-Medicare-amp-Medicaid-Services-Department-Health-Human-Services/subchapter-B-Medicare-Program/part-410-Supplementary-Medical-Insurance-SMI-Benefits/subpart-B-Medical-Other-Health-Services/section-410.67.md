@@ -16,9 +16,9 @@
 
 (2) Dispensing and administration of opioid agonist and antagonist treatment medications, if applicable.
 
-(3) Substance use counseling by a professional to the extent authorized under State law to furnish such services including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements.
+(3) Substance use counseling by a professional to the extent authorized under State law to furnish such services including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, where audio/video communication technology is not available to the beneficiary, the counseling services may be furnished using audio-only telephone calls if all other applicable requirements are met.
 
-(4) Individual and group therapy with a physician or psychologist (or other mental health professional to the extent authorized under State law), including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements.
+(4) Individual and group therapy with a physician or psychologist (or other mental health professional to the extent authorized under State law), including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, where audio/video communication technology is not available to the beneficiary, the therapy services may be furnished using audio-only telephone calls if all other applicable requirements are met.
 
 (5) Toxicology testing.
 
@@ -98,4 +98,4 @@
 
 (e) *Beneficiary cost-sharing.* A beneficiary copayment amount of zero will apply.
 
-[84 FR 63189, Nov. 15, 2019]
+[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020]

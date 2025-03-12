@@ -1,7 +1,5 @@
 ##### § 240.18a-6 Records to be preserved by certain security-based swap dealers and major security-based swap participants. #####
 
-Link to an amendment published at 85 FR 6416, Feb. 4, 2020.
-
 This section applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is not also a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.17a-4 (rather than this section) applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; a security-based swap dealer registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a)(1) Every security-based swap dealer and major security-based swap participant for which there is no prudential regulator must preserve for a period not less than six years, the first two years in an easily accessible place, all records required to be made pursuant to § 240.18a-5(a)(1) through (4).
@@ -10,7 +8,7 @@ This section applies to the following types of entities: A security-based swap d
 
 (b)(1) Every security-based swap dealer and major security-based swap participant for which there is no prudential regulator must preserve for a period of not less than three years, the first two years in an easily accessible place:
 
-(i) All records required to be made pursuant to § 240.18a-5(a)(5) through (9) and (12) through (17).
+(i) All records required to be made pursuant to § 240.18a-5(a)(5) through (9) and (12) through (18).
 
 (ii) All check books, bank statements, cancelled checks, and cash reconciliations.
 
@@ -68,7 +66,7 @@ This section applies to the following types of entities: A security-based swap d
 
 (2) Every security-based swap dealer and major security-based swap participant for which there is a prudential regulator must preserve for a period of not less than three years, the first two years in an easily accessible place:
 
-(i) All records required to be made pursuant to § 240.18a-5(b)(4) through (7) and (9) through (13).
+(i) All records required to be made pursuant to § 240.18a-5(b)(4) through (7) and (9) through (14).
 
 (ii) Originals of all communications received and copies of all communications sent (and any approvals thereof) by the security-based swap dealer or major security-based swap participant (including inter-office memoranda and communications) relating to its business as a security-based swap dealer or major security-based swap participant. As used in this paragraph (b)(2)(ii), the term “communications” includes sales scripts and recordings of telephone calls required to be maintained pursuant to section 15F(g)(1) of the Act (15 U.S.C. 78*o*-10(g)(1)).
 
@@ -97,6 +95,14 @@ This section applies to the following types of entities: A security-based swap d
 (3)(i) For security-based swap dealers and major security-based swap participants for which there is not a prudential regulator, each compliance, supervisory, and procedures manual, including any updates, modifications, and revisions to the manual, describing the policies and practices of the security-based swap dealer or major security-based swap participant with respect to compliance with applicable laws and rules, and supervision of the activities of each natural person associated with the security-based swap dealer or major security-based swap participant until three years after the termination of the use of the manual.
 
 (ii) For security-based swap dealers and major security-based swap participants for which there is a prudential regulator, each compliance, supervisory, and procedures manual, including any updates, modifications, and revisions to the manual, describing the policies and practices of the security-based swap dealer or major security-based swap participant with respect to compliance with applicable laws and rules relating to security-based swap activities, and supervision of the activities of each natural person associated with the security-based swap dealer or major security-based swap participant until three years after the termination of the use of the manual.
+
+(4) The written policies and procedures required pursuant to §§ 240.15Fi-3, 240.15Fi-4, and 240.15Fi-5 until three years after termination of the use of the policies and procedures.
+
+(5)(i) Each written agreement with counterparties on the terms of portfolio reconciliation with those counterparties as required to be created under § 240.15Fi-3(a)(1) and (b)(1) until three years after the termination of the agreement and all transactions governed thereby.
+
+(ii) Security-based swap trading relationship documentation with counterparties required to be created under § 240.15Fi-5 until three years after the termination of such documentation and all transactions governed thereby.
+
+(iii) A record of the results of each audit required to be performed pursuant to § 240.15Fi-5(c) until three years after the conclusion of the audit.
 
 (e) The records required to be maintained and preserved pursuant to §§ 240.18a-5 and 240.18a-6 may be immediately produced or reproduced by means of an *electronic storage system* (as defined in this paragraph (e)) that meets the conditions set forth in this paragraph (e) and be maintained and preserved for the required time in that form.
 
@@ -148,4 +154,4 @@ With respect to any books and records maintained or preserved on behalf of [SBSD
 
 (2) The term *associated person* has the meaning set forth in § 240.18a-5(d).
 
-[84 FR 68659, Dec. 16, 2019]
+[84 FR 68659, Dec. 16, 2019, as amended at 85 FR 6416, Feb. 4, 2020]

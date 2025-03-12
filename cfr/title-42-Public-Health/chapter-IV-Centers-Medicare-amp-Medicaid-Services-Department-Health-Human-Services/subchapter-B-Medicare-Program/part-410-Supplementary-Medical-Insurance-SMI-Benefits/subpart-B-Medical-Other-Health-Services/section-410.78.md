@@ -8,9 +8,13 @@
 
 (3) *Interactive telecommunications system* means multimedia communications equipment that includes, at a minimum, audio and video equipment permitting two-way, real-time interactive communication between the patient and distant site physician or practitioner. Telephones, facsimile machines, and electronic mail systems do not meet the definition of an interactive telecommunications system.
 
+(i) *Exception.* For the duration of the Public Health Emergency as defined in § 400.200 of this chapter, *Interactive telecommunications system* means multimedia communications equipment that includes, at a minimum, audio and video equipment permitting two-way, real-time interactive communication between the patient and distant site physician or practitioner.
+
+(ii) [Reserved]
+
 (4) *Originating site* means the location of an eligible Medicare beneficiary at the time the service being furnished via a telecommunications system occurs. For asynchronous store and forward telecommunications technologies, the only originating sites are Federal telemedicine demonstration programs conducted in Alaska or Hawaii.
 
-(b) *General rule.* Medicare Part B pays for covered telehealth services included on the telehealth list when furnished by an interactive telecommunications system if the following conditions are met:
+(b) *General rule.* Medicare Part B pays for covered telehealth services included on the telehealth list when furnished by an interactive telecommunications system if the following conditions are met, except that for the duration of the Public Health Emergency as defined in § 400.200 of this chapter, Medicare Part B pays for office and other outpatient visits, professional consultation, psychiatric diagnostic interview examination, individual psychotherapy, pharmacologic management and end stage renal disease related services included in the monthly capitation payment furnished by an interactive telecommunications system if the following conditions are met:
 
 (1) The physician or practitioner at the distant site must be licensed to furnish the service under State law. The physician or practitioner at the distant site who is licensed under State law to furnish a covered telehealth service described in this section may bill, and receive payment for, the service when it is delivered via a telecommunications system.
 
@@ -88,4 +92,4 @@
 
 (f) *Process for adding or deleting services.* Changes to the list of Medicare telehealth services are made through the annual physician fee schedule rulemaking process. A list of the services covered as telehealth services under this section is available on the CMS Web site.
 
-[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018]
+[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018; 85 FR 19286, Apr. 6, 2020]

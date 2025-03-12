@@ -1,3 +1,13 @@
-##### § 240.15Fi-4 Security-based swap portfolio reconciliation. #####
+##### § 240.15Fi-4 Security-based swap portfolio compression. #####
 
-Link to an amendment published at 85 FR 6414, Feb. 4, 2020.
+(a) *Portfolio compression with security-based swap dealers and major security-based swap participants*—(1) *Bilateral offset.* Each security-based swap dealer and major security-based swap participant shall establish, maintain, and follow written policies and procedures for terminating each fully offsetting security-based swap between a security-based swap dealer or major security-based swap participant and another security-based swap dealer or major security-based swap participant in a timely fashion, when appropriate.
+
+(2) *Bilateral compression.* Each security-based swap dealer and major security-based swap participant shall establish, maintain, and follow written policies and procedures for periodically engaging in bilateral portfolio compression exercises, when appropriate, with each counterparty that is also a security-based swap dealer or major security-based swap participant. Such policies and procedures shall address, among other things, the evaluation of bilateral portfolio compression exercises that are initiated, offered, or sponsored by any third party.
+
+(3) *Multilateral compression.* Each security-based swap dealer and major security-based swap participant shall establish, maintain, and follow written policies and procedures for periodically engaging in multilateral portfolio compression exercises, when appropriate, with each counterparty that is also a security-based swap dealer or major security-based swap participant. Such policies and procedures shall address, among other things, the evaluation of multilateral portfolio compression exercises that are initiated, offered, or sponsored by any third party.
+
+(b) *Portfolio compression with counterparties other than security-based swap dealers and major security-based swap participants.* Each security-based swap dealer and major security-based swap participant shall establish, maintain, and follow written policies and procedures for periodically terminating fully offsetting security-based swaps and for engaging in bilateral or multilateral portfolio compression exercises with respect to security-based swaps in which its counterparty is an entity other than a security-based swap dealer or major security-based swap participant, when appropriate and to the extent requested by any such counterparty.
+
+(c) *Portfolio compression of cleared security-based swaps.* Nothing in this section shall apply to any security-based swap that is, directly or indirectly, submitted to and cleared by a clearing agency registered pursuant to section 17A of the Act (15 U.S.C. 78q-1) or by a clearing agency that the Commission has exempted from registration by rule or order pursuant to section 17A of the Act (15 U.S.C. 78q-1).
+
+[85 FR 6414, Feb. 4, 2020]

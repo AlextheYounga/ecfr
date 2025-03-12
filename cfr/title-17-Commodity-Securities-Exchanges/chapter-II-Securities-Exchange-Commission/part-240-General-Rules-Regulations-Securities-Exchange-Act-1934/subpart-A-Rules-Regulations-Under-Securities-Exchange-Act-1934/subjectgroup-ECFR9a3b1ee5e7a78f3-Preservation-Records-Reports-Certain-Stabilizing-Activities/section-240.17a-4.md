@@ -1,14 +1,12 @@
 ##### § 240.17a-4 Records to be preserved by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 85 FR 6416, Feb. 4, 2020.
-
 This section applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); a security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.18a-6 (rather than this section) applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a) Every member, broker or dealer subject to § 240.17a-3 must preserve for a period of not less than 6 years, the first two years in an easily accessible place, all records required to be made pursuant to § 240.17a-3(a)(1) through (3), (5), and (21) and (22), and analogous records created pursuant to § 240.17a-3(d).
 
 (b) Every member, broker or dealer subject to § 240.17a-3 must preserve for a period of not less than three years, the first two years in an easily accessible place:
 
-(1) All records required to be made pursuant to § 240.17a-3(a)(4), (6) through (11), (16), (18) through (20), and (25) through (30), and analogous records created pursuant to § 240.17a-3(e).
+(1) All records required to be made pursuant to § 240.17a-3(a)(4), (6) through (11), (16), (18) through (20), and (25) through (31), and analogous records created pursuant to § 240.17a-3(e).
 
 (2) All check books, bank statements, cancelled checks and cash reconciliations.
 
@@ -99,6 +97,14 @@ This section applies to the following types of entities: A member of a national 
 (9) All records required pursuant to § 240.17a-3(a)(23) until three years after the termination of the use of the risk management controls documented therein.
 
 (10) All records required pursuant to § 240.17a-3(a)(24), as well as a copy of each Form CRS, until at least six years after such record or Form CRS is created.
+
+(11) The written policies and procedures required pursuant to §§ 240.15Fi-3, 240.15Fi-4, and 240.15Fi-5 until three years after termination of the use of the policies and procedures.
+
+(12)(i) Each written agreement with counterparties on the terms of portfolio reconciliation with those counterparties as required to be created under § 240.15Fi-3(a)(1) and (b)(1) until three years after the termination of the agreement and all transactions governed thereby.
+
+(ii) Security-based swap trading relationship documentation with counterparties required to be created under § 240.15Fi-5 until three years after the termination of such documentation and all transactions governed thereby.
+
+(iii) A record of the results of each audit required to be performed pursuant to § 240.15Fi-5(c) until three years after the conclusion of the audit.
 
 (f) The records required to be maintained and preserved pursuant to §§ 240.17a-3 and 240.17a-4 may be immediately produced or reproduced on “micrographic media” (as defined in this section) or by means of “electronic storage media” (as defined in this section) that meet the conditions set forth in this section and be maintained and preserved for the required time in that form.
 

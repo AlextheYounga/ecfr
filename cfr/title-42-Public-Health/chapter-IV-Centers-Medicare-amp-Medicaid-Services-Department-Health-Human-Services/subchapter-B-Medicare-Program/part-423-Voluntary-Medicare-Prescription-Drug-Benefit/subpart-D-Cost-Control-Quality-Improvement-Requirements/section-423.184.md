@@ -120,4 +120,6 @@
 
 (2) A Part D plan sponsor may request that CMS review its' contract's Complaints Tracking Module (CTM) data provided that the request is received by the annual deadline set by CMS for the applicable Star Ratings year.
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019]
+(i) *Special rule for 2021 Star Ratings only.* In the event that the threat to health and safety posed by the COVID-19 pandemic compromises the quality of the data, or ability to validate such data, for all plans, used to calculate a particular measure, CMS will substitute and use the 2021 Star Ratings measure score and Star Ratings with the 2020 Star Ratings measure score and Star Rating.
+
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020]

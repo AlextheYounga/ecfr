@@ -215,7 +215,7 @@
 
 (*5*) For the Promoting Interoperability performance category for the 2019, 2020, 2021, and 2022 MIPS payment years, the MIPS eligible clinician is a nurse practitioner, physician assistant, clinical nurse specialist, or certified registered nurse anesthetist. In the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
-(*6*) Beginning with the 2020 MIPS payment year, for the quality, cost, and improvement activities performance categories, the MIPS eligible clinician demonstrates through an application submitted to CMS that they were subject to extreme and uncontrollable circumstances that prevented the clinician from collecting information that the clinician would submit for a performance category or submitting information that would be used to score a performance category for an extended period of time. Beginning with the 2021 MIPS payment year, in the event that a MIPS eligible clinician submits data for the quality, cost, or improvement activities performance categories, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
+(*6*) Beginning with the 2020 MIPS payment year, for the quality, cost, and improvement activities performance categories, the MIPS eligible clinician demonstrates through an application submitted to CMS that they were subject to extreme and uncontrollable circumstances that prevented the clinician from collecting information that the clinician would submit for a performance category or submitting information that would be used to score a performance category for an extended period of time. Beginning with the 2021 MIPS payment year, in the event that a MIPS eligible clinician submits data for the quality, cost, or improvement activities performance categories, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed, unless an exception applies. Exception: for the 2021 MIPS payment year only, if a MIPS eligible clinician demonstrates through an application submitted to CMS that they have been adversely affected by the Public Health Emergency for the COVID-19 pandemic and also submits data for the quality, cost, or improvement activities performance categories, the preceding sentence will not apply.
 
 (*7*) For the 2019 MIPS payment year, for the quality and improvement activities performance categories, the MIPS eligible clinician was located in an area affected by extreme and uncontrollable circumstances as identified by CMS. In the event that a MIPS eligible clinician submits data for a performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
@@ -225,7 +225,7 @@
 
 (B) Under section 1848(q)(5)(E)(ii) of the Act, CMS estimates that the proportion of MIPS eligible clinicians who are physicians as defined in section 1861(r) of the Act and earn a Promoting Interoperability performance category score of at least 75 percent is 75 percent or greater. The estimation is based on data from the performance period that occurs four years before the MIPS payment year and does not include physicians for whom the Promoting Interoperability performance category is weighted at zero percent.
 
-(C) Under section 1848(o)(2)(D) of the Act, a significant hardship exception or other type of exception is granted to a MIPS eligible clinician based on the following circumstances for the Promoting Interoperability performance category. Except as provided in paragraph (c)(2)(i)(C)(10) of this section, in the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
+(C) Under section 1848(o)(2)(D) of the Act, a significant hardship exception or other type of exception is granted to a MIPS eligible clinician based on the following circumstances for the Promoting Interoperability performance category. Except as provided in paragraphs (c)(2)(i)(C)(*10*) and (*11*) of this section, in the event that a MIPS eligible clinician submits data for the Promoting Interoperability performance category, the scoring weight specified in paragraph (c)(1) of this section will be applied and its weight will not be redistributed.
 
 (*1*) The MIPS eligible clinician demonstrates through an application submitted to CMS that they lacked sufficient internet access during the performance period, and insurmountable barriers prevented the clinician from obtaining sufficient internet access.
 
@@ -246,6 +246,8 @@
 (*9*) Beginning with the 2020 MIPS payment year, the MIPS eligible clinician demonstrates through an application submitted to CMS that they are in a small practice as defined in § 414.1305, and overwhelming barriers prevent them from complying with the requirements for the Promoting Interoperability performance category.
 
 (*10*) Beginning with the 2020 MIPS payment year, CMS determines, based on information known to the agency prior to the beginning of the relevant MIPS payment year, that data for a MIPS eligible clinician are inaccurate, unusable or otherwise compromised due to circumstances outside of the control of the clinician and its agents.
+
+(*11*) For the 2021 MIPS payment year only, the MIPS eligible clinician demonstrates through an application submitted to CMS that they have been adversely affected by the Public Health Emergency for the COVID-19 pandemic.
 
 (ii) A scoring weight different from the weights specified in paragraph (c)(1) of this section will be assigned to a performance category, and its weight as specified in paragraph (c)(1) of this section will be redistributed to another performance category or categories, as follows:
 
@@ -373,4 +375,4 @@
 
 (vi) *Use of score from facility-based measurement.* The MIPS quality and cost performance category scores will be based on the facility-based measurement scoring methodology described in paragraph (e)(6) of this section unless a clinician or group receives a higher combined MIPS quality and cost performance category score through another MIPS submission.
 
-[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019]
+[83 FR 60081, Nov. 23, 2018, as amended at 84 FR 63196, Nov. 15, 2019; 85 FR 19287, Apr. 6, 2020]

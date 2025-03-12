@@ -174,7 +174,7 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *PBPM* stands for per-beneficiary-per-month.
 
-*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exception of performance year 1, which is April 1, 2016 through December 31, 2016.
+*Performance year* means one of the years in which the CJR model is being tested. Performance years for the model correlate to calendar years with the exceptions of performance year 1, which is April 1, 2016 through December 31, 2016 and performance year 5, which is January 1, 2020 through March 31, 2021.
 
 *PGP* stands for physician group practice.
 
@@ -242,4 +242,4 @@ For the purposes of this part, the following definitions are applicable unless o
 
 *Voluntary MSA* means an MSA designated by CMS as a voluntary participation MSA in accordance with § 510.105(a).
 
-[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017]
+[80 FR 73540, Nov. 24, 2015, as amended at 82 FR 610, 611, Jan. 3, 2017; 82 FR 57103, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020]

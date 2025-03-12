@@ -122,4 +122,12 @@
 
 (ii) For a fracture episode with a date of admission to the anchor hospitalization that is on or within 30 days before or after the date that the emergency period (as defined in section 1135(g) of the Act) begins, actual episode payments are capped at the target price determined for that episode under § 510.300.
 
-[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017]
+(3) The following is an extreme and uncontrollable circumstances adjustment for 2019 Novel Coronavirus (previously referred to as 2019-nCoV, now as COVID-19):
+
+(i) The episode spending adjustments specified in paragraph (k)(4) of this section apply for a participant hospital that has a CCN primary address that is located in an emergency area during an emergency period, as those terms are defined in section 1135(g) of the Act, for which the Secretary issued a waiver or modification of requirements under section 1135 of the Act on March 13, 2020.
+
+(ii) [Reserved]
+
+(4) For a fracture or non-fracture episode with a date of admission to the anchor hospitalization that is on or within 30 days before the date that the emergency period (as defined in section 1135(g) of the Act) begins or that occurs through the termination of the emergency period (as described in section 1135(e) of the Act), actual episode payments are capped at the target price determined for that episode under § 510.300.
+
+[80 FR 73540, Nov. 24, 2015, as amended at 81 FR 11451, Mar. 4, 2016; 82 FR 613, Jan. 3, 2017; 82 FR 57104, Dec. 1, 2017; 85 FR 19292, Apr. 6, 2020]

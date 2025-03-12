@@ -28,6 +28,8 @@
 
 (5) All coordinated care contracts (including local and regional PPOs, contracts with exclusively SNP benefit packages, private fee-for-service contracts, and MSA contracts), and all cost contracts under section 1876 of the Act, with 600 or more enrollees in July of the prior year, must contract with approved Medicare Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey vendors to conduct the Medicare CAHPS satisfaction survey of Medicare plan enrollees in accordance with CMS specifications and submit the survey data to CMS.
 
+(6) For 2021 Star Ratings only, MA organizations are not required to submit HEDIS and CAHPS data that would otherwise be required for the calculation of the 2021 Star Ratings.
+
 (c) *Chronic care improvement program requirements.* (1) Develop criteria for a chronic care improvement program. These criteria must include the following:
 
 (i) Methods for identifying MA enrollees with multiple or sufficiently severe chronic conditions that would benefit from participating in a chronic care improvement program.
@@ -110,4 +112,4 @@
 
 (h) *Requirements for MA private-fee-for-service plans and Medicare medical savings account plans.* MA PFFS and MSA plans are subject to the requirement that may not exceed the requirement specified in § 422.152(e).
 
-[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 83 FR 16725, Apr. 16, 2018]
+[70 FR 4723, Jan. 28, 2005, as amended at 70 FR 52026, Sept. 1, 2005; 73 FR 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21564, Apr. 15, 2011; 80 FR 7959, Feb. 12, 2015; 83 FR 16725, Apr. 16, 2018; 85 FR 19290, Apr. 6, 2020]

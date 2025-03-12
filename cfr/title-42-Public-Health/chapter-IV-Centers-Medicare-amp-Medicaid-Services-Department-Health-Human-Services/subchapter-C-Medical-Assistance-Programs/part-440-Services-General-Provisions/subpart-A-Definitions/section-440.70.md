@@ -4,7 +4,7 @@
 
 (1) At his place of residence, as specified in paragraph (c) of this section; and
 
-(2) On his or her physician's orders as part of a written plan of care that the physician reviews every 60 days, except as specified in paragraph (b)(3) of this section.
+(2) On his or her physician's orders as part of a written plan of care that the physician reviews every 60 days for services described in paragraphs (b)(1), (2), and (4) of this section, or, for the period of the Public Health Emergency, as defined in § 400.200 of this chapter, orders written by an other licensed practitioner of the healing arts acting within the scope of practice authorized under State law, as part of a written plan of care that the ordering practitioner reviews every 60 days for services described in paragraphs (b)(1), (2), and (4) of this section.
 
 (b) Home health services include the following services and items. Paragraphs (b)(1), (2) and (3) of this section are required services and items that must be covered according to the home health coverage parameters. Services in paragraph (b)(4) of this section are optional. Coverage of home health services cannot be contingent upon the beneficiary needing nursing or therapy services.
 
@@ -12,7 +12,7 @@
 
 (i) Is currently licensed to practice in the State;
 
-(ii) Receives written orders from the patient's physician;
+(ii) Receives written orders from the patient's physician or, for the period of the Public Health Emergency, as defined in § 400.200 of this chapter, other licensed practitioner of the healing arts acting within the scope of practice authorized under State law;
 
 (iii) Documents the care and services provided; and
 
@@ -26,9 +26,9 @@
 
 (ii) Equipment and appliances are items that are primarily and customarily used to serve a medical purpose, generally are not useful to an individual in the absence of a disability, illness or injury, can withstand repeated use, and can be reusable or removable. State Medicaid coverage of equipment and appliances is not restricted to the items covered as durable medical equipment in the Medicare program.
 
-(iii) A beneficiary's need for medical supplies, equipment, and appliances must be reviewed by a physician annually.
+(iii) A beneficiary's need for medical supplies, equipment, and appliances must be reviewed by a physician or, for the period of the Public Health Emergency, as defined in § 400.200 of this chapter, an other licensed practitioner of the healing arts acting within the scope of practice authorized under State law, annually.
 
-(iv) Frequency of further physician review of a beneficiary's continuing need for the items is determined on a case-by-case basis, based on the nature of the item prescribed;
+(iv) Frequency of further physician or, for the period of the Public Health Emergency, as defined in § 400.200 of this chapter, an other licensed practitioner review of a beneficiary's continuing need for the items is determined on a case-by-case basis based on the nature of the item prescribed.
 
 (v) States can have a list of preapproved medical equipment supplies and appliances for administrative ease but States are prohibited from having absolute exclusions of coverage on medical equipment, supplies, or appliances. States must have processes and criteria for requesting medical equipment that is made available to individuals to request items not on the State's list. The procedure must use reasonable and specific criteria to assess items for coverage. When denying a request, a State must inform the beneficiary of the right to a fair hearing.
 
@@ -88,4 +88,4 @@
 
 (2) The face-to-face encounter may be performed by any of the practitioners described in paragraph (f)(3) of this section, with the exception of certified nurse-midwives, as described in paragraph (f)(3)(iii) of this section.
 
-[43 FR 45224, Sept. 29, 1978, as amended at 45 FR 24888, Apr. 11, 1980; 62 FR 47902, Sept. 11, 1997; 63 FR 310, Jan. 5, 1998; 81 FR 5566, Feb. 2, 2016]
+[43 FR 45224, Sept. 29, 1978, as amended at 45 FR 24888, Apr. 11, 1980; 62 FR 47902, Sept. 11, 1997; 63 FR 310, Jan. 5, 1998; 81 FR 5566, Feb. 2, 2016; 85 FR 19291, Apr. 6, 2020]

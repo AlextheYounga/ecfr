@@ -1,7 +1,5 @@
 ##### § 17.607 Obligated service. #####
 
-Link to an amendment published at 85 FR 13053, Mar. 6, 2020.
-
 (a) *General.* Except as provided in paragraph (d) of this section, each participant is obligated to provide service as a Department of Veterans Affairs employee in full-time clinical practice in the participant's discipline in an assignment or location determined by the Secretary.
 
 (Authority: 38 U.S.C. 7616(a))
@@ -16,7 +14,9 @@ Link to an amendment published at 85 FR 13053, Mar. 6, 2020.
 
 (Authority: 38 U.S.C. 7616(b), 7616(c), 7618(a))
 
-(c) *Duration of service* - (1) *Full-time student.* A participant who attended school as a full-time student will agree to serve as a full-time clinical employee in the Veterans Health Administration for 1 calendar year for each school year or part thereof for which a scholarship was awarded, but for no less than 2 years.
+(c) *Duration of service* - (1) *Full-time student* - (i) *Physician or dentist.* A participant who attended school as a full-time student will agree to serve as a full-time physician or dentist in the Veterans Health Administration for 18 months for each school year or part thereof for which a scholarship was awarded.
+
+(ii) *Other health care profession.* A participant who attended school as a full-time student in a health care profession other than physician or dentist will agree to serve as a full-time clinical employee in the Veterans Health Administration for 1 calendar year for each school year or part thereof for which a scholarship was awarded, but for no less than 2 years.
 
 (2) *Part-time student.* Obligated service to VA for a participant who attended school as a part-time student must be satisfied by full-time clinical employment. The period of obligated service will be reduced from that which a full-time student must serve under paragraph (c)(1) of this section in accordance with the proportion that the number of credit hours carried by the part-time student in any school year bears to the number of credit hours required to be carried by a full-time student who is pursuing the same degree; however, the period of obligated service will not be for less than 1 year.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 85 FR 13053, Mar. 6, 2020.
 
 (e) *Creditability of advanced clinical training.* No period of advanced clinical training will be credited toward satisfying the period of obligated service incurred under the Scholarship Program.
 
-(Authority: 38 U.S.C. 7616(b)(3)(A)(ii)[47 FR 10810, Mar. 12, 1982, as amended at 48 FR 37400, Aug. 18, 1983; 54 FR 28675, July 7, 1989; 78 FR 51070, Aug. 20, 2013]
+(Authority: 38 U.S.C. 7616(b)(3)(A)(ii)[47 FR 10810, Mar. 12, 1982, as amended at 48 FR 37400, Aug. 18, 1983; 54 FR 28675, July 7, 1989; 78 FR 51070, Aug. 20, 2013; 85 FR 13053, Mar. 6, 2020]

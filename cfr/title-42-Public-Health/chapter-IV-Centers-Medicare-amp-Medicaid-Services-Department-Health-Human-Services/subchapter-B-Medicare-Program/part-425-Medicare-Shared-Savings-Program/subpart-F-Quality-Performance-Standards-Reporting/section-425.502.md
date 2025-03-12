@@ -78,7 +78,7 @@
 
 (vii) For performance year 2017 and subsequent performance years, if an ACO receives the mean Shared Savings Program ACO quality score under paragraph (f) of this section, in the next performance year for which the ACO receives a quality performance score based on its own quality reporting, quality improvement is measured based on a comparison between the performance in that year and the most recently available prior performance year in which the ACO reported quality.
 
-(f) *Extreme and uncontrollable circumstances.* For performance year 2017 and subsequent performance years, including the applicable quality data reporting period for the performance year if the quality reporting period is not extended, CMS uses an alternative approach to calculating the quality score for ACOs affected by extreme and uncontrollable circumstances instead of the methodology specified in paragraphs (a) through (e) of this section as follows:
+(f) *Extreme and uncontrollable circumstances.* For performance year 2017 and subsequent performance years, including the applicable quality data reporting period for the performance year, CMS uses an alternative approach to calculating the quality score for ACOs affected by extreme and uncontrollable circumstances instead of the methodology specified in paragraphs (a) through (e) of this section as follows:
 
 (1) CMS determines the ACO was affected by an extreme and uncontrollable circumstance based on either of the following:
 
@@ -104,4 +104,4 @@
 
 (4) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred, the percentage of the ACO's assigned beneficiaries residing in the affected areas, and the location of the ACO legal entity.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018]
+[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60093, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 19291, Apr. 6, 2020]

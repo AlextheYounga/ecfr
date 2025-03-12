@@ -24,7 +24,7 @@
 
 (3) The amount for provision of supplemental health care benefits (if any).
 
-*New MA plan* means a MA contract offered by a parent organization that has not had another MA contract in the previous 3 years.
+*New MA plan* means a MA contract offered by a parent organization that has not had another MA contract in the previous 3 years. For purposes of 2022 quality bonus payments based on 2021 Star Ratings only, new MA plan means an MA contract offered by a parent organization that has not had another MA contract in the previous 4 years.
 
 *Plan basic cost sharing* means cost sharing that would be charged by a plan for basic benefits as defined in § 422.100(c)(1) before any reductions resulting from mandatory supplemental benefits.
 
@@ -34,4 +34,4 @@
 
 *Unadjusted MA statutory non-drug monthly bid amount* means a plan's estimate of its average monthly required revenue to provide coverage of basic benefits as defined in § 422.100(c)(1) to an MA eligible beneficiary with a nationally average risk profile for the risk factors CMS applies to payment calculations as set forth at § 422.308(c).
 
-[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 76 FR 21564, Apr. 15, 2011; 84 FR 15832, Apr. 16, 2019]
+[63 FR 35085, June 26, 1998, as amended at 70 FR 52026, Sept. 1, 2005; 76 FR 21564, Apr. 15, 2011; 84 FR 15832, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020]

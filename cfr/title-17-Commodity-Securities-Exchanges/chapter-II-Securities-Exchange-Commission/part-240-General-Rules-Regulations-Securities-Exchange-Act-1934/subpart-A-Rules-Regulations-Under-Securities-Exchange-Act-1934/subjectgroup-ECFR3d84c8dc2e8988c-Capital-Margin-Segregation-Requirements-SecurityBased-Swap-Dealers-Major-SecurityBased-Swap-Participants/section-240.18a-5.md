@@ -1,7 +1,5 @@
 ##### § 240.18a-5 Records to be made by certain security-based swap dealers and major security-based swap participants. #####
 
-Link to an amendment published at 85 FR 6353, Feb. 4, 2020.Link to an amendment published at 85 FR 6416, Feb. 4, 2020.
-
 This section applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is not also a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.17a-3 (rather than this section) applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; a security-based swap dealer registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a) This paragraph (a) applies only to security-based swap dealers and major security-based swap participants registered under section 15F of the Act for which there is no prudential regulator. Each security-based swap dealer and major security-based swap participant subject to this paragraph (a) must make and keep current the following books and records:
@@ -48,6 +46,12 @@ This section applies to the following types of entities: A security-based swap d
 
 (ii) A record listing every associated person of the security-based swap dealer or major security-based swap participant which shows, for each associated person, every office of the security-based swap dealer or major security-based swap participant where the associated person regularly conducts the business of handling funds or securities or effecting any transactions in, or inducing or attempting to induce the purchase or sale of any security, for the security-based swap dealer or major security-based swap participant and the Central Registration Depository number, if any, and every internal identification number or code assigned to that person by the security-based swap dealer or major security-based swap participant.
 
+(iii) Notwithstanding paragraph (a)(10)(i) of this section:
+
+(A) A security-based swap dealer or major security-based swap participant is not required to make and keep current a questionnaire or application for employment executed by an associated person if the security-based swap dealer or major security-based swap participant is excluded from the prohibition in section 15F(b)(6) of the Exchange Act (15 U.S.C. 78o-10(b)(6)) with respect to such associated person; and
+
+(B) A questionnaire or application for employment executed by an associated person who is not a U.S. person (as that term is defined in § 240.3a71-3(a)(4)(i)(A)) need not include the information described in paragraphs (a)(10)(i)(A) through (H) of this section, unless the security-based swap dealer or major security-based swap participant is required to obtain such information under applicable law in the jurisdiction in which the associated person is employed or located or obtains such information in conducting a background check that is customary for such firms in that jurisdiction and the creation or maintenance of records reflecting that information, would not result in a violation of applicable law in the jurisdiction in which the associated person is employed or located; *provided, however,* the security-based swap dealer or major security-based swap participant must comply with section 15F(b)(6) of the Exchange Act (15 U.S.C. 78o-10(b)(6)).
+
 (11) [Reserved]
 
 (12) A record of the daily calculation of the current exposure and, if applicable, the initial margin amount for each account of a counterparty required under § 240.18a-3(c).
@@ -62,7 +66,11 @@ This section applies to the following types of entities: A security-based swap d
 
 (17) A record documenting that the security-based swap dealer or major security-based swap participant has complied with the business conduct standards as required under §§ 240.15Fh-1 through 240.15Fh-5 and 240.15Fk-1.
 
-(18) [Reserved]
+(18)(i) A record of each security-based swap portfolio reconciliation, whether conducted pursuant to § 240.15Fi-3 or otherwise, including the dates of the security-based swap portfolio reconciliation, the number of portfolio reconciliation discrepancies, the number of security-based swap valuation disputes (including the time-to-resolution of each valuation dispute and the age of outstanding valuation disputes, categorized by transaction and counterparty), and the name of the third-party entity performing the security-based swap portfolio reconciliation, if any.
+
+(ii) A copy of each notification required to be provided to the Commission pursuant to § 240.15Fi-3(c).
+
+(iii) A record of each bilateral offset and each bilateral portfolio compression exercise or multilateral portfolio compression exercise in which it participates, whether conducted pursuant to § 240.15Fi-4 or otherwise, including the dates of the offset or compression, the security-based swaps included in the offset or compression, the identity of the counterparties participating in the offset or compression, the results of the compression, and the name of the third-party entity performing the offset or compression, if any.
 
 (b) This paragraph (b) applies only to security-based swap dealers and major security-based swap participants registered under section 15F of the Act for which there is a prudential regulator. Each security-based swap dealer and major security-based swap participant subject to this paragraph (b) must make and keep current the following books and records:
 
@@ -104,6 +112,12 @@ This section applies to the following types of entities: A security-based swap d
 
 (ii) A record listing every associated person of the security-based swap dealer or major security-based swap participant which shows, for each associated person, every office of the security-based swap dealer or major security-based swap participant where the associated person regularly conducts the business of handling funds or securities or effecting any transactions in, or inducing or attempting to induce the purchase or sale of any security, for the security-based swap dealer or major security-based swap participant and every internal identification number or code assigned to that person by the security-based swap dealer or major security-based swap participant.
 
+(iii) Notwithstanding paragraph (b)(8)(i) of this section;
+
+(A) A security-based swap dealer or major security-based swap participant is not required to make and keep current a questionnaire or application for employment executed by an associated person if the security-based swap dealer or major security-based swap participant is excluded from the prohibition in section 15F(b)(6) of the Exchange Act (15 U.S.C. 78o-10(b)(6)) with respect to such associated person; and
+
+(B) A questionnaire or application for employment executed by an associated person who is not a U.S. person (as that term is defined in § 240.3a71-3(a)(4)(i)(A)) need not include the information described in paragraphs (b)(8)(i)(A) through (H) of this section, unless the security-based swap dealer or major security-based swap participant is required to obtain such information under applicable law in the jurisdiction in which the associated person is employed or located or obtains such information in conducting a background check that is customary for such firms in that jurisdiction and the creation or maintenance of records reflecting that information would not result in a violation of applicable law in the jurisdiction in which the associated person is employed or located; *provided, however,* the security-based swap dealer or major security-based swap participant must comply with Section 15F(b)(6) of the Exchange Act (15 U.S.C. 78o-10(b)(6)).
+
 (9) A record of compliance with possession or control requirements under § 240.18a-4(b).
 
 (10) A record of the reserve computation required under § 240.18a-4(c).
@@ -114,7 +128,11 @@ This section applies to the following types of entities: A security-based swap d
 
 (13) A record documenting that the security-based swap dealer or major security-based swap participant has complied with the business conduct standards as required under § 240.15Fh-1 through § 240.15Fh-5 and § 240.15Fk-1.
 
-(14) [Reserved]
+(14)(i) A record of each security-based swap portfolio reconciliation, whether conducted pursuant to § 240.15Fi-3 or otherwise, including the dates of the security-based swap portfolio reconciliation, the number of portfolio reconciliation discrepancies, the number of security-based swap valuation disputes (including the time-to-resolution of each valuation dispute and the age of outstanding valuation disputes, categorized by transaction and counterparty), and the name of the third-party entity performing the security-based swap portfolio reconciliation, if any.
+
+(ii) A copy of each notification required to be provided to the Commission pursuant to § 240.15Fi-3(c).
+
+(iii) A record of each bilateral offset and each bilateral portfolio compression exercise or multilateral portfolio compression exercise in which it participates, whether conducted pursuant to § 240.15Fi-4 or otherwise, including the dates of the offset or compression, the security-based swaps included in the offset or compression, the identity of the counterparties participating in the offset or compression, the results of the compression, and the name of the third-party entity performing the offset or compression, if any.
 
 (c) A security-based swap dealer or major security-based swap participant may comply with the recordkeeping requirements of the Commodity Exchange Act and chapter I of this title applicable to swap dealers and major swap participants in lieu of complying with paragraphs (a)(1), (3), and (4) or paragraphs (b)(1) through (3) of this section, as applicable, solely with respect to required information regarding security-based swap transactions and positions if:
 
@@ -134,4 +152,4 @@ This section applies to the following types of entities: A security-based swap d
 
 (2) The term *associated person,* as to an entity supervised by a prudential regulator, includes only those persons whose activities relate to its business as a security-based swap dealer or major security-based swap participant.
 
-[84 FR 68656, Dec. 16, 2019]
+[84 FR 68656, Dec. 16, 2019, as amended at 85 FR 6353, 6416, Feb. 4, 2020]

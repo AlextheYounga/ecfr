@@ -106,6 +106,8 @@
 
 (4) For a beneficiary who is receiving renal dialysis for treatment of ESRD, from the beneficiary's home to the nearest facility that furnishes renal dialysis, including the return trip.
 
+(5) During a Public Health Emergency, as defined in § 400.200 of this chapter, a ground ambulance transport from any point of origin to a destination that is equipped to treat the condition of the patient consistent with any applicable state or local Emergency Medical Services protocol that governs the destination location. Such destinations include, but are not limited to, alternative sites determined to be part of a hospital, critical access hospital or skilled nursing facility, community mental health centers, federally qualified health centers, rural health clinics, physician offices, urgent care facilities, ambulatory surgical centers, any location furnishing dialysis services outside of an ESRD facility when an ESRD facility is not available, and the beneficiary's home.
+
 (g) *Specific limits on coverage of ambulance services outside the United States.* If services are furnished outside the United States, Medicare Part B covers ambulance transportation to a foreign hospital only in conjunction with the beneficiary's admission for medically necessary inpatient services as specified in subpart H of part 424 of this chapter.
 
-[64 FR 3648, Jan. 25, 1999, as amended at 65 FR 13914, Mar. 15, 2000; 67 FR 9132, Feb. 27, 2002; 77 FR 69362, Nov. 16, 2012; 84 FR 63187, Nov. 15, 2019]
+[64 FR 3648, Jan. 25, 1999, as amended at 65 FR 13914, Mar. 15, 2000; 67 FR 9132, Feb. 27, 2002; 77 FR 69362, Nov. 16, 2012; 84 FR 63187, Nov. 15, 2019; 85 FR 19286, Apr. 6, 2020]

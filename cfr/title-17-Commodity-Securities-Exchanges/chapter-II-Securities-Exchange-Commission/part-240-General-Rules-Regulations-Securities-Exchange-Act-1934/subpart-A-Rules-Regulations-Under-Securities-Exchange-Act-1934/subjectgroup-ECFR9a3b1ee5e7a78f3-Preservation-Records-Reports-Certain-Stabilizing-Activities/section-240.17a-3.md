@@ -1,7 +1,5 @@
 ##### § 240.17a-3 Records to be made by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 85 FR 6416, Feb. 4, 2020.
-
 This section applies to the following types of entities: A member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange; a broker or dealer who transacts a business in securities through the medium of a member of a national securities exchange; a broker or dealer, including an *OTC derivatives dealer* as that term is defined in § 240.3b-12, registered pursuant to section 15 of the Act (15 U.S.C. 78*o*); a security-based swap dealer registered pursuant to section 15F of the Act (15 U.S.C. 78*o*-10) that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act. Section 240.18a-5 (rather than this section) applies to the following types of entities: A security-based swap dealer registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act; and a major security-based swap participant registered pursuant to section 15F of the Act that is not also a broker or dealer, including an OTC derivatives dealer, registered pursuant to section 15 of the Act.
 
 (a) Every member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange, every broker or dealer who transacts a business in securities through the medium of any such member, and every broker or dealer registered pursuant to section 15 of the Act (15 U.S.C. 78*o*) must make and keep current the following books and records relating to its business:
@@ -178,7 +176,13 @@ This section applies to the following types of entities: A member of a national 
 
 (30) A record documenting that the broker or dealer has complied with the business conduct standards as required under §§ 240.15Fh-1 through 240.15Fh-5 and 240.15Fk-1.
 
-(31)-(34) [Reserved]
+(31)(i) A record of each security-based swap portfolio reconciliation, whether conducted pursuant to § 240.15Fi-3 or otherwise, including the dates of the security-based swap portfolio reconciliation, the number of portfolio reconciliation discrepancies, the number of security-based swap valuation disputes (including the time-to-resolution of each valuation dispute and the age of outstanding valuation disputes, categorized by transaction and counterparty), and the name of the third-party entity performing the security-based swap portfolio reconciliation, if any.
+
+(ii) A copy of each notification required to be provided to the Commission pursuant to § 240.15Fi-3(c).
+
+(iii) A record of each bilateral offset and each bilateral portfolio compression exercise or multilateral portfolio compression exercise in which it participates, whether conducted pursuant to § 240.15Fi-4 or otherwise, including the dates of the offset or compression, the security-based swaps included in the offset or compression, the identity of the counterparties participating in the offset or compression, the results of the compression, and the name of the third-party entity performing the offset or compression, if any.
+
+(32)-(34) [Reserved]
 
 (35) For each retail customer to whom a recommendation of any securities transaction or investment strategy involving securities is or will be provided:
 

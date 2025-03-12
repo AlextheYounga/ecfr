@@ -18,10 +18,10 @@
 
 (2) In applying the part 422 rules, references to “M + C organizations” or “M + C plans” must be read as references to “risk HMOs and CMPs”.
 
-(i) The HMO or CMP must comply with the requirements at § 422.152(b)(5).
+(i) *HMOs and CMPs.* The HMO or CMP must comply with the requirements at § 422.152(b)(5) and (6) of this chapter.
 
-(j) All coordinated care contracts (including local and regional PPOs, contracts with exclusively SNP benefit packages, private fee-for-service contracts, and MSA contracts), and all cost contracts under section 1876 of the Act, with 600 or more enrollees in July of the prior year, must contract with approved Medicare Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey vendors to conduct the Medicare CAHPS satisfaction survey of Medicare plan enrollees in accordance with CMS specifications and submit the survey data to CMS.
+(j) *Coordinated care and cost contracts.* Subject to paragraph (i) of this section, all coordinated care contracts (including local and regional PPOs, contracts with exclusively SNP benefit packages, private fee-for-service contracts, and MSA contracts), and all cost contracts under section 1876 of the Act, with 600 or more enrollees in July of the prior year, must contract with approved Medicare Consumer Assessment of Healthcare Providers and Systems (CAHPS) survey vendors to conduct the Medicare CAHPS satisfaction survey of Medicare plan enrollees in accordance with CMS specifications and submit the survey data to CMS.
 
 (k) All cost contracts under section 1876 of the Act must agree to be rated under the quality rating system specified at subpart D of part 422, and for cost plans that provide the Part D prescription benefit, under the quality rating system specified at part 423 subpart D, of this chapter. Cost contacts are not required to submit data on or be rated on specific measures determined by CMS to be inapplicable to their contract or for which data are not available, including hospital readmission and call center measures.
 
-[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 57 FR 8202, Mar. 6, 1992; 58 FR 38079, July 15, 1993; 60 FR 45680, Sept. 1, 1995; 63 FR 35067, June 26, 1998; 75 FR 19802, Apr. 15, 2010; 83 FR 16721, Apr. 16, 2018]
+[50 FR 1346, Jan. 10, 1985; 50 FR 20570, May 17, 1985, as amended at 57 FR 8202, Mar. 6, 1992; 58 FR 38079, July 15, 1993; 60 FR 45680, Sept. 1, 1995; 63 FR 35067, June 26, 1998; 75 FR 19802, Apr. 15, 2010; 83 FR 16721, Apr. 16, 2018; 85 FR 19289, Apr. 6, 2020]

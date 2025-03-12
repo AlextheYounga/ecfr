@@ -1,7 +1,5 @@
 ##### § 648.84 Gear-marking requirements and gear restrictions. #####
 
-Link to an amendment published at 85 FR 13073, Mar. 6, 2020.
-
 (a) Bottom-tending fixed gear, including, but not limited to, gillnets and longlines designed for, capable of, or fishing for NE multispecies or monkfish, must have the name of the owner or vessel or the official number of that vessel permanently affixed to any buoys, gillnets, longlines, or other appropriate gear so that the name of the owner or vessel or the official number of the vessel is visible on the surface of the water.
 
 (b) Bottom-tending fixed gear, including, but not limited to gillnets or longline gear, must be marked so that the westernmost end (measuring the half compass circle from magnetic south through west to, and including, north) of the gear displays a standard 12-inch (30.5-cm) tetrahedral corner radar reflector and a pennant positioned on a staff at least 6 ft (1.8 m) above the buoy. The easternmost end (meaning the half compass circle from magnetic north through east to, and including, south) of the gear need display only the standard 12-inch (30.5-cm) tetrahedral radar reflector positioned in the same way.
@@ -18,4 +16,12 @@ Link to an amendment published at 85 FR 13073, Mar. 6, 2020.
 
 (3) *Escape opening.* The escape opening must be positioned in the bottom belly of the net behind the sweep and terminate under the separator panel, as described in paragraph (e)(2) of this section. Longitudinal lines may be used to maintain the shape of the escape opening, as necessary. The escape opening shall be at least 18 meshes in both length and width.
 
-[69 FR 22974, Apr. 27, 2004, as amended at 78 FR 26158, May 3, 2013]
+(f) *Large-mesh belly panel trawl.* A large-mesh belly panel trawl is defined as a four-seam bottom trawl net (*i.e.,* a net with a top and bottom panel and two side panels) modified to include a large-mesh panel to replace the first bottom belly, as further specified in paragraphs (f)(1) through (3) of this section.
+
+(1) *Mesh size.* The minimum mesh size applied throughout the body of the trawl, as well as the codend mesh size, must be consistent with mesh size requirements specified in § 648.80. If a vessel is fishing in an exemption area or an exempted fishery, it must comply with all of the requirements and conditions of the exemption.
+
+(2) *Large-mesh belly panel.* The large-mesh belly panel must have a minimum mesh size of 30 in (76.2 cm) measured using the standard defined in § 648.80(f)(2). The owner or operator of a fishing vessel shall not use any mesh construction, mesh configuration, or other means on, in, or attached to the regulated portion of the net, as defined in this paragraph (f)(2), if it obstructs or constricts the meshes of the net in any manner. The width of the panel must extend the full width of the bottom panel (*i.e.,* from one bottom gore to the other bottom gore). To determine the width of the large-mesh panel please see the explanation, and example provided below. The depth must be at least 90 in (228.6 cm) and at least three meshes deep (two meshes deep with a 15-in (38.1-cm) sewing seam on top and bottom). No more than six meshes of the small-mesh net may be left behind the sweep, before the large-mesh panel is sewn in.
+
+(3) *Determining panel width example.* Assume the large-mesh twine is 30 in (76.2 cm) knot center to knot center (KKFM), two meshes deep with a 15-in (38.1-cm) sewing seam on the top and bottom. In most cases, the existing first bottom-belly twine sizes are 12 cm (4.7 in) KKFM and 16 cm (6.3 in) KKFM yielding ratios of 20:3 and 5:1, respectively. Therefore, to determine the required width of large mesh panel, take the number of meshes of the existing belly and divide by the ratio. If the existing twine is 16 cm (6.3 in) KKFM, and the belly, six meshes behind the sweep is 150 meshes wide, you would divide 150 by 5:1 to get the width of the large-mesh panel, 30 meshes.
+
+[69 FR 22974, Apr. 27, 2004, as amended at 78 FR 26158, May 3, 2013; 85 FR 13073, Mar. 6, 2020]

@@ -1,0 +1,3 @@
+##### § 826.152 Filing a complaint with the Federal Government. #####
+
+A complaint alleging any violation of the EPSLA and/or the EFMLEA may be filed in person, by mail, or by telephone, with the Wage and Hour Division, U.S. Department of Labor, including at any local office of the Wage and Hour Division. No particular form of complaint is required, except that a complaint must be in writing and should include a full statement of the acts and/or omissions, with pertinent dates, that are believed to constitute the violation.

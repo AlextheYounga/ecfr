@@ -132,4 +132,44 @@
 
 (ii) The MDPP beneficiary receives no more than 3 virtual make-up sessions that are ongoing maintenance sessions.
 
-[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017]
+(e) *MDPP expanded model emergency policy.* (1) Notwithstanding paragraphs (a) through (d) of this section, the policies described in this paragraph (e) apply during the Public Health Emergency (PHE), as defined in § 400.200 of this chapter.
+
+(2) MDPP requirement changes described in paragraph (e)(1) of this section are applicable to:
+
+(i) Organizations that are enrolled as an MDPP supplier as defined in paragraph (b) of this section, as of March 1, 2020; and
+
+(ii) MDPP beneficiaries as defined in paragraph (b) of this section, who are receiving the MDPP set of services as of March 1, 2020.
+
+(3) The following changes apply under this paragraph (e):
+
+(i) The in-person attendance requirements of paragraphs (c)(1)(ii)(A), (c)(1)(iii)(A), and (c)(3)(ii) of this section are waived. MDPP suppliers shall not start new cohorts with MDPP beneficiaries who are unable to attend the first core session in-person;
+
+(ii) The limit described in paragraphs (d)(2) and (d)(3)(i) and (ii) of this section to the number of virtual make-up sessions is waived for MDPP suppliers with capabilities to provide services virtually so long as the provision of virtual services complies with the following:
+
+(A) The curriculum furnished during the virtual make-up session must address the same CDC-approved DPP curriculum topic as the regularly scheduled session;
+
+(B) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one session on the same day as a regularly scheduled session;
+
+(C) The MDPP supplier furnishes to the MDPP beneficiary a maximum of one virtual make-up session per week;
+
+(D) Virtual make-up sessions must be furnished in a manner consistent with the DPRP standards for virtual sessions;
+
+(E) Virtual make-up sessions can only be furnished to achieve attendance goals and cannot be furnished to achieve weight-loss goals;
+
+(F) An MDPP supplier can only offer virtual make-up sessions upon an individual MDPP beneficiary's request; and
+
+(G) An MDPP supplier can offer to an MDPP beneficiary:
+
+(*1*) No more than 15 virtual make-up sessions offered weekly during the core session period, months 1 through 6 of the MDPP services period;
+
+(*2*) No more than 6 virtual make-up sessions offered monthly during the core maintenance session interval periods, months 7 through 12 of the MDPP services period; and
+
+(*3*) No more than 12 virtual make-up sessions offered monthly during the ongoing maintenance session interval periods, months 13 through 24;
+
+(iii) The once per lifetime requirement as described in paragraph (c)(1)(i)(B) of this section is waived to permit MDPP beneficiaries whose sessions were paused or cancelled due to the PHE to obtain the set of MDPP services more than once per lifetime by electing to restart the MDPP set of services or resume with the most recent attendance session of record;
+
+(iv) The minimum weight loss requirements for beneficiary eligibility in the ongoing maintenance session intervals described in paragraphs (c)(1)(ii)(B) and (c)(1)(iii)(B) of this section are waived; and
+
+(v) MDPP suppliers may pause or delay the delivery of the MDPP set of services and subsequently resume services on a delayed schedule. The time periods and intervals must be consistent with the MDPP requirements as described in paragraphs (c)(1)(i)(B), (c)(1)(ii)(A), (c)(1)(iii)(A), (c)(2)(i)(A) and (B), and (c)(3)(i) and (ii) of this section.
+
+[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020]

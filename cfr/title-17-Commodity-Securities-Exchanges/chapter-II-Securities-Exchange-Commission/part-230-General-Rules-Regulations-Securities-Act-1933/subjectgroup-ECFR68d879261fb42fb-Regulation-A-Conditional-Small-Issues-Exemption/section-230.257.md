@@ -60,4 +60,4 @@
 
 (2) In any report or form filed pursuant to paragraph (f)(1)(ii) of this section, the issuer must disclose that it is relying on this paragraph (f) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
 
-[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 84 FR 529, Jan. 31, 2019; 85 FR 17751, Mar. 31, 2020]
+[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 84 FR 529, Jan. 31, 2019; 85 FR 17751, Mar. 31, 2020]Effective Date Note:At 85 FR 17751, Mar. 31, 2020, § 230.257 was amended by adding paragraph (f) effective from Mar. 30, 2020 through July 15, 2020

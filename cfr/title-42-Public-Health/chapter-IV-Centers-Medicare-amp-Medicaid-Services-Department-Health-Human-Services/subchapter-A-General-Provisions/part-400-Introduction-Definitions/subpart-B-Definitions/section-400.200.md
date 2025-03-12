@@ -62,6 +62,8 @@ In this chapter, unless the context indicates otherwise -
 
 *OIG* stands for the Department's Office of the Inspector General.
 
+*Public Health Emergency (PHE)* means the Public Health Emergency determined to exist nationwide as of January 27, 2020, by the Secretary pursuant to section 319 of the Public Health Security Act on January 31, 2020, as a result of confirmed cases of COVID-19, including any subsequent renewals.
+
 *QDWI* stands for Qualified Disabled and Working Individual.
 
 *QIO* stands for quality improvement organization.

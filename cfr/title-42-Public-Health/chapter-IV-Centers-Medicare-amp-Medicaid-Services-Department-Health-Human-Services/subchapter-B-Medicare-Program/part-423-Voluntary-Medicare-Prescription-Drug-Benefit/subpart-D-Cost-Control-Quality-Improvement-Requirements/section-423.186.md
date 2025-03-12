@@ -4,7 +4,7 @@
 
 (2) Clustering algorithm for all measures except CAHPS measures.
 
-(i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data, and a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from one year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for three years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
+(i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from one year to the next. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years of the program.
 
 (ii) In cases where multiple clusters have the same measure score value range, those clusters would be combined, leading to fewer than 5 clusters.
 
@@ -110,7 +110,7 @@
 
 (1) *Reward factor.* This rating-specific factor is added to both the summary and overall ratings of contracts that qualify for the reward factor based on both high and stable relative performance for the rating level.
 
-(i) The contract's performance will be assessed using its weighted mean and its ranking relative to all rated contracts in the rating level (overall for MA-PDs and Part D summary for MA-PDs and PDPs) for the same Star Ratings year. The contract's stability of performance will be assessed using the weighted variance and its ranking relative to all rated contracts in the rating type (overall for MA-PDs and Part D summary for MA-PDs and PDPs). The weighted mean and weighted variance are compared separately for MA-PD and standalone Part D contracts (PDPs). The measure weights are specified in paragraph (e) of this section. Since highly-rated contracts may have the improvement measure(s) excluded in the determination of their final highest rating, each contract's weighted variance and weighted mean will be calculated both with and without the improvement measures. For an MA-PD's Part C and D summary ratings, its ranking is relative to all other contracts' weighted variance and weighted mean for the rating type (Part C summary, Part D summary) with the improvement measure.
+(i) The contract's performance will be assessed using its weighted mean and its ranking relative to all rated contracts in the rating level (overall for MA-PDs and Part D summary for MA-PDs and PDPs) for the same Star Ratings year. The contract's stability of performance will be assessed using the weighted variance and its ranking relative to all rated contracts in the rating type (overall for MA-PDs and Part D summary for MA-PDs and PDPs). The weighted mean and weighted variance are compared separately for MA-PD and standalone Part D contracts (PDPs). The measure weights are specified in paragraph (e) of this section. Since highly-rated contracts may have the improvement measure(s) excluded in the determination of their final highest rating, each contract's weighted variance and weighted mean will be calculated both with and without the improvement measures. For an MA-PD's Part C and D summary ratings, its ranking is relative to all other contracts' weighted variance and weighted mean for the rating type (Part C summary, Part D summary) with the improvement measure. For the 2022 Star Ratings only, since all contracts may have the improvement measure(s) excluded in the determination of their highest rating and summary rating(s), each contract's weighted variance and weighted mean are calculated both with and without the improvement measures.
 
 (ii) Relative performance of the weighted variance (or weighted variance ranking) will be categorized as being high (at or above 70th percentile), medium (between the 30th and 69th percentile) or low (below the 30th percentile). Relative performance of the weighted mean (or weighted mean ranking) will be categorized as being high (at or above the 85th percentile), relatively high (between the 65th and 84th percentiles), or other (below the 65th percentile).
 
@@ -192,6 +192,12 @@
 
 (2) The Part D summary rating for MA-PDs will include the Part D improvement measure.
 
+(3) For 2022 Star Ratings only, CMS runs the calculations twice for the highest rating for each contract-type (overall rating for MA-PD contracts and Part D summary rating for PDPs) and Part D summary rating for MA-PDs with all applicable adjustments (CAI and the reward factor), once including the improvement measure(s) and once without including the improvement measure(s). In deciding whether to include the improvement measures in a contract's highest and summary rating(s), CMS applies the following rules:
+
+(i) For MA-PDs and PDPs, a comparison of the highest rating with and without the improvement measure is done. The higher rating is used for the highest rating.
+
+(ii) For MA-PDs, a comparison of the Part D summary rating with and without the improvement measure is done. The higher rating is used for the summary rating.
+
 (h) *Posting and display of ratings.* For all ratings at the measure, domain, summary and overall level, posting and display of the ratings is based on there being sufficient data to calculate and assign ratings. If a contract does not have sufficient data to calculate a rating, the posting and display would be the flag “Not enough data available.” If the measurement period is prior to one year past the contract's effective date, the posting and display would be the flag “Plan too new to be measured”.
 
 (1) *Medicare Plan Finder performance icons.* Icons are displayed on Medicare Plan Finder to note performance as provided in this paragraph (h)(1):
@@ -250,4 +256,16 @@
 
 (ii) All affected contracts are eligible for the Reward Factor based on the calculations described in paragraph (i)(8)(i) of this section.
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019]
+(j) *Special rules for 2021 Star Ratings only.* (1) For the 2021 Star Ratings:
+
+(i) The measures calculated based on CAHPS data are calculated based on survey data collected from March through May 2019.
+
+(ii) The measure-level change score calculation described at § 423.184(f)(4)(i) is not applied for CAHPS measures and the measure-level change score used for the 2020 Star Ratings is applied in its place for all CAHPS-based measures.
+
+(iii) The provisions of § 423.184(g)(2) are not applied for failure to submit CAHPS-based measures.
+
+(iv) In the event that there are extraordinary circumstances resulting from the COVID-19 pandemic that compromise CMS resources to the extent that CMS cannot calculate or issue 2021 Star Ratings by October 2020, CMS will adopt the 2020 Star Ratings as the 2021 Star Ratings.
+
+(2) [Reserved]
+
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020]
