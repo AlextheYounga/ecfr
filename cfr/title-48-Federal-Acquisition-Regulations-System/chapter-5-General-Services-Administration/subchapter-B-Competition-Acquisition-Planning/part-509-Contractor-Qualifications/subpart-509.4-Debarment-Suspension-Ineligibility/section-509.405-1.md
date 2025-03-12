@@ -1,5 +1,7 @@
 ##### 509.405-1 Continuation of current contracts. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) When a contractor appears as a current exclusion in the System for Award Management (SAM), consider terminating a contract under any of the following circumstances:
 
 (1) Any circumstances giving rise to the debarment or suspension also constitute a default in the contractor's performance of the contract.

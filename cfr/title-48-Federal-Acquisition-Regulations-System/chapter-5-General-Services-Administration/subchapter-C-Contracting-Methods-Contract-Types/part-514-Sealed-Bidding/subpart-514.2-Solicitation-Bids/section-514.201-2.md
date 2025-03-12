@@ -1,5 +1,7 @@
 ##### 514.201-2 Part I - The Schedule. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) When using Standard Form 33, Solicitation, Offer and Award, include the following cautionary notice:
 
 “Notice to Bidders - Use Item 13 of the Standard Form 33, Solicitation, Offer and Award, to offer prompt payment discounts. The Prompt Payment clause of this solicitation sets forth payment terms. Do not insert any statement in Item 13 that requires payment sooner than the time stipulated in the Prompt Payment clause (See FAR 52.232-25, 52.232-26, or 52.232-27, as applicable). EXAMPLE: If you insert “NET 20” in Item 13, GSA will reject your bid as nonresponsive because the entry contradicts the 30 day payment terms specified in the Prompt Payment clause.”

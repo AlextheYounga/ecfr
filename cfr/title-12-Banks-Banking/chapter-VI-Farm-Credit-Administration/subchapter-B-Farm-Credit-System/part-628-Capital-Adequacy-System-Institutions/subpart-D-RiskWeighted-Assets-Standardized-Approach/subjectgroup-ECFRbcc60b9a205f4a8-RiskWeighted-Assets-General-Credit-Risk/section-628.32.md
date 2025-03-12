@@ -1,6 +1,6 @@
 ##### § 628.32 General risk weights. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) *Sovereign exposures* - (1) *Exposures to the U.S. Government.* (i) Notwithstanding any other requirement in this subpart, a System institution must assign a 0-percent risk weight to:
 

@@ -1,5 +1,7 @@
 ##### 552.232-25 Prompt Payment. #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 As prescribed in 532.908(b)(2), insert the following clause:
 
 Prompt Payment (NOV 2009) (Deviation FAR 52.232-25)

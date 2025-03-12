@@ -1,6 +1,6 @@
 ##### § 628.10 Minimum capital requirements. #####
 
-Link to an amendment published at 86 FR 54358, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54358, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) *Computation of regulatory capital ratios.* A System institution's regulatory capital ratios are determined on the basis of the financial statements of the institution prepared in accordance with GAAP using average daily balances for the most recent 3 months.
 

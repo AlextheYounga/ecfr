@@ -1,5 +1,7 @@
 ##### 552.238-75 Evaluation - Commercial Items (Federal Supply Schedule). #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 As prescribed in 538.273(c)(1), insert the following provision:
 
 Evaluation - Commercial Items (Federal Supply Schedule) (MAY 2019)

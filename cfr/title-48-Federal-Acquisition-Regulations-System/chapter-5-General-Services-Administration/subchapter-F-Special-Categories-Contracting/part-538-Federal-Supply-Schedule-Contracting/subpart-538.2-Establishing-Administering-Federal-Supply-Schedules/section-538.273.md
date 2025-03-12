@@ -1,5 +1,7 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.

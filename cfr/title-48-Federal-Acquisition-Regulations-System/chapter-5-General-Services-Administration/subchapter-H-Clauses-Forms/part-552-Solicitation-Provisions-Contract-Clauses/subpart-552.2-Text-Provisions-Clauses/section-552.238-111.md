@@ -1,5 +1,7 @@
 ##### 552.238-111 Environmental Protection Agency Registration Requirement. #####
 
+Link to an amendment published at 86 FR 68444, Dec. 2, 2021.
+
 As prescribed in 538.273(d)(35), insert the following clause:
 
 Environmental Protection Agency Registration Requirement (MAY 2019)

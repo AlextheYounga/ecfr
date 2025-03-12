@@ -1,6 +1,6 @@
 ##### § 615.5200 Capital planning. #####
 
-Link to an amendment published at 86 FR 54356, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54356, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) The Board of Directors of each System institution shall determine the amount of regulatory capital needed to assure the System institution's continued financial viability and to provide for growth necessary to meet the needs of its borrowers. The minimum capital standards specified in this part and part 628 of this chapter are not meant to be adopted as the optimal capital level in the System institution's capital adequacy plan. Rather, the standards are intended to serve as minimum levels of capital that each System institution must maintain to protect against the credit and other general risks inherent in its operations.
 

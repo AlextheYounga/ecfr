@@ -1,5 +1,7 @@
 ##### 532.908 Contract clauses. #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 (a) *Building services contracts.* Insert the clause at 552.232-72, Final Payment Under Building Services Contracts, in solicitations and contracts for building services.
 
 (b) *Stock, Special Order, and Schedules programs.* (1) GSA has a FAR deviation to authorize payment within 10 days of receipt of a proper invoice. The deviation applies only to:

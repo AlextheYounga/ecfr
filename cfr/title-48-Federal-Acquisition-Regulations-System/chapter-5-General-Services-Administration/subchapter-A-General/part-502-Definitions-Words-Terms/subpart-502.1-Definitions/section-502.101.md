@@ -1,5 +1,7 @@
 ##### 502.101 Definitions. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 *Commercial supplier agreements* means terms and conditions customarily offered to the public by vendors of supplies or services that meet the definition of “commercial item” set forth in FAR 2.101 and intended to create a binding legal obligation on the end user. Commercial supplier agreements are particularly common in information technology acquisitions, including acquisitions of commercial computer software and commercial technical data, but they may apply to any supply or service. The term applies -
 
 (a) Regardless of the format or style of the document. For example, a commercial supplier agreement may be styled as standard terms of sale or lease, Terms of Service (TOS), End User License Agreement (EULA), or another similar legal instrument or agreement, and may be presented as part of a proposal or quotation responding to a solicitation for a contract or order;

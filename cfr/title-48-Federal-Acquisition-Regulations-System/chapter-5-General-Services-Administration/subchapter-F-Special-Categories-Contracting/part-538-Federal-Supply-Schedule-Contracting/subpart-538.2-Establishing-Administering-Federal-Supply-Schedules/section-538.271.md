@@ -1,5 +1,7 @@
 ##### 538.271 FSS contract awards. #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 (a) FSS awards will be for commercial items as defined in FAR 2.101.
 
 (b) Before awarding any FSS contract, determine that the offered prices are fair and reasonable (see FAR subpart 15.4 and 538.270). Document the negotiation and your determination using FAR 15.406-3 as guidance.

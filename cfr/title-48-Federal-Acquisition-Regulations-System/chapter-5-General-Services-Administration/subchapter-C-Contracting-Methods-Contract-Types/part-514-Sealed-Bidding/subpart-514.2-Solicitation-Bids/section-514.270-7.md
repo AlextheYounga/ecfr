@@ -1,5 +1,7 @@
 ##### 514.270-7 Guidelines for using the price list method. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) *General.* The price list method helps avoid unbalanced bidding when making aggregate awards, but lack accurate estimates of anticipated quantities. This method establishes base prices for bidders to use in preparing their bids.
 
 (b) *Solicitation requirements.* When using the price list method, in the solicitation:

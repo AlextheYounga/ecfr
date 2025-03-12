@@ -1,5 +1,7 @@
 ##### 512.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) *Contract clauses.* Insert the following clauses in solicitations and contracts for the acquisition of commercial items:
 
 (1) The clause at 552.212-71, Contract Terms and Conditions Applicable to GSA Acquisition of Commercial Items. This clause incorporates by reference only those clauses required to implement GSA requirements applicable to the acquisition of commercial items. This clause may be tailored in accordance with FAR 12.302 and GSAM 512.302.

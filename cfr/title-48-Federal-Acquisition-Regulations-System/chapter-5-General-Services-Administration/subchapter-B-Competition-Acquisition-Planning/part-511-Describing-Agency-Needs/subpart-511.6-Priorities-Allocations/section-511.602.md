@@ -1,5 +1,7 @@
 ##### 511.602 General. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) The purpose of the DPAS is to assure the timely availability of industrial resources to meet current national defense, energy, and civil emergency preparedness program requirements and to provide an operating system to support rapid industrial response in a national emergency. The primary statutory authority for the DPAS is Title I of the Defense Production Act of 1950, as amended, with additional authority from the Selective Service Act of 1948 and the Robert T. Stafford Disaster Relief and Emergency Assistance Act. Executive Orders 12919 and 12742 delegate to the DOC authority to administer the DPAS. Within the DOC, the Office of Strategic Industries and Economic Security (SIES) is assigned responsibility for DPAS implementation, administration, and compliance.
 
 (b) The DPAS is published in the Code of Federal Regulations at 15 CFR part 700. This regulation provides an overview, a detailed explanation of operations and procedures, and other implementing guidance, including information on special priorities assistance and compliance.

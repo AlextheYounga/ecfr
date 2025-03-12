@@ -1,6 +1,6 @@
 ##### § 614.4351 Computation of lending and leasing limit base. #####
 
-Link to an amendment published at 86 FR 54356, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54356, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) *Lending and leasing limit base.* An institution's lending and leasing limit base is composed of the permanent capital of the institution, as defined in § 615.5201 of this chapter, with adjustments applicable to the institution provided for in § 615.5207 of this chapter, and with the following further adjustments:
 

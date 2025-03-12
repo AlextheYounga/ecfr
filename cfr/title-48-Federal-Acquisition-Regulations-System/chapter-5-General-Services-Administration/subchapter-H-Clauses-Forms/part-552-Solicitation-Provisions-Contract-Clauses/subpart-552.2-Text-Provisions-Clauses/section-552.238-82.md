@@ -1,5 +1,7 @@
 ##### 552.238-82 Modifications (Federal Supply Schedules). #####
 
+Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
+
 As prescribed in 538.273(d)(6), insert the following clause:
 
 Modifications (Federal Supply Schedules) (MAR 2020)

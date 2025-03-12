@@ -1,5 +1,7 @@
 ##### 552.238-114 Use of Federal Supply Schedule Contracts by Non-Federal Entities. #####
 
+Link to an amendment published at 86 FR 68444, Dec. 2, 2021.
+
 As prescribed in 538.7004(c), insert the following clause:
 
 Use of Federal Supply Schedule Contracts by Non-Federal Entities (MAY 2019)

@@ -1,5 +1,7 @@
 ##### 514.270-4 Grouping line items for aggregate award. #####
 
+Link to an amendment published at 86 FR 68442, Dec. 2, 2021.
+
 (a) *Supplies and services.* This subsection applies to acquisitions of supplies and services.
 
 (b) *Effect on compeition.* Provide for full and open competition when grouping items for award. Grouping items for award may preclude a significant of firms from bidding. This occurs if firms are unable to provide all the types or quanities of supplies or services, or make deliveries to the various delivery points included in the prospective aggregate group.

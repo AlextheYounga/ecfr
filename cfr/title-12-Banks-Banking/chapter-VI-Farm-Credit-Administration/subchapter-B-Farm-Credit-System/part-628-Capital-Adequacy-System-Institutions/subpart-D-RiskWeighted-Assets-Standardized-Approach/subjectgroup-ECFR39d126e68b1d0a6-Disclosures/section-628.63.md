@@ -1,6 +1,6 @@
 ##### § 628.63 Disclosures. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017.
 

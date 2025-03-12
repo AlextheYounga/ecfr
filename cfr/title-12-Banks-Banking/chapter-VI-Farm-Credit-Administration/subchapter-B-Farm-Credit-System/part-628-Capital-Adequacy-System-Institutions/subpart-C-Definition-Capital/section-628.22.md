@@ -1,6 +1,6 @@
 ##### § 628.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.
+Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
 
 (a) *Regulatory capital deductions from CET1 capital.* A System institution must deduct from the sum of its CET1 capital elements the items set forth in this paragraph (a):
 
