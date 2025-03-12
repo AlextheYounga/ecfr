@@ -1,5 +1,7 @@
 ##### 213.270 Use of the Governmentwide commercial purchase card. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 Use the Governmentwide commercial purchase card as the method of purchase and/or method of payment for purchases valued at or below the micro-purchase threshold. This policy applies to all types of contract actions authorized by the FAR unless -
 
 (a) The Deputy Secretary of Defense has approved an exception for an electronic commerce/electronic data interchange system or operational requirement that results in a more cost-effective payment process;

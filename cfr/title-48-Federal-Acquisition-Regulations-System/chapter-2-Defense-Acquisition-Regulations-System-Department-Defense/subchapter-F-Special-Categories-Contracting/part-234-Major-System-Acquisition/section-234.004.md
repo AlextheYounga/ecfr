@@ -1,5 +1,7 @@
 ##### 234.004 Acquisition strategy. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (1) See 209.570 for policy applicable to acquisition strategies that consider the use of lead system integrators.
 
 (2) *Contract type.*

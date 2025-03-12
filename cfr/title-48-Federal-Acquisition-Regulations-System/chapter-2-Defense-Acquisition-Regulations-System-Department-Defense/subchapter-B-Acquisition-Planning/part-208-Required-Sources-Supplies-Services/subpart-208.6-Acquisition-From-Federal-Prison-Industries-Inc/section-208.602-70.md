@@ -1,5 +1,7 @@
 ##### 208.602-70 Acquisition of items for which FPI has a significant market share. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (a) *Scope.* This subsection implements Section 827 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (b) *Definition. Item for which FPI has a significant market share*, as used in this subsection, means an item for which FPI's share of the DoD market for the federal supply class including that item is greater than 5 percent, as determined by DoD in consultation with the Office of Federal Procurement Policy. A list of the federal supply classes of items for which FPI has a significant market share is maintained at *https://www.acq.osd.mil/asda/dpc/cp/policy/other-policy-areas.html#fpi.*

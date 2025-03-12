@@ -1,5 +1,7 @@
 ##### 217.172 Multiyear contracts for supplies. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 (a) This section applies to all multiyear contracts for supplies, including weapon systems and other multiyear acquisitions specifically authorized by law (10 U.S.C. 2306b).
 
 (b) The head of the agency may enter into a multiyear contract for supplies if, in addition to the conditions listed in FAR 17.105-1(b), the use of such a contract will promote the national security of the United States (10 U.S.C. 2306b(a)(6)).

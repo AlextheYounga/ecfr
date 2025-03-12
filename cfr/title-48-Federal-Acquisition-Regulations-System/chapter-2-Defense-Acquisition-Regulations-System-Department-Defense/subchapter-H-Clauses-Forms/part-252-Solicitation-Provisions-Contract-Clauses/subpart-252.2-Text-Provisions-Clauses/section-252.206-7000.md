@@ -1,5 +1,7 @@
 ##### 252.206-7000 Domestic source restriction. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed at 206.302-3-70, use the following provision:
 
 Domestic Source Restriction (DEC 1991)

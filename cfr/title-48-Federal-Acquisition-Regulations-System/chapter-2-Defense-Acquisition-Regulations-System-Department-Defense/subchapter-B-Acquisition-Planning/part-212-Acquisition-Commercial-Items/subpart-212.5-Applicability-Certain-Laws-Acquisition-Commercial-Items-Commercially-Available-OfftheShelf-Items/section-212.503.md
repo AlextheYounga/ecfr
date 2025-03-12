@@ -1,5 +1,7 @@
 ##### 212.503 Applicability of certain laws to executive agency contracts for the acquisition of commercial items. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a) The following laws are not applicable to contracts for the acquisition of commercial items:
 
 (i) 10 U.S.C. 2306(b), Prohibition on Contingent Fees.

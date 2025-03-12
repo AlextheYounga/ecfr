@@ -1,5 +1,7 @@
 ##### 231.205-18 Independent research and development and bid and proposal costs. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) *Definitions.* As used in this subsection -
 
 (i) *Covered contract* means a DoD prime contract for an amount exceeding the simplified acquisition threshold, except for a fixed-price contract without cost incentives. The term also includes a subcontract for an amount exceeding the simplified acquisition threshold, except for a fixed-price subcontract without cost incentives under such a prime contract.

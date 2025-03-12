@@ -1,5 +1,7 @@
 ##### § 660.231 Limited entry fixed gear sablefish primary fishery. #####
 
+Link to an amendment published at 87 FR 77027, Dec. 16, 2022.
+
 This section applies to the sablefish primary fishery for the limited entry fixed gear fishery north of 36° N. lat. Limited entry and open access fixed gear sablefish fishing outside of the sablefish primary season north of 36° N. lat. is governed by management measures imposed under §§ 660.230, 660.232, 660.330 and 660.332.
 
 (a) *Sablefish endorsement.* In addition to requirements pertaining to fishing in the limited entry fixed gear fishery (described in subparts C and E), a vessel may not fish in the sablefish primary season for the limited entry fixed gear fishery, unless at least one limited entry permit with both a gear endorsement for longline or trap (or pot) gear and a sablefish endorsement is registered for use with that vessel. Permits with sablefish endorsements are assigned to one of three tiers, as described at § 660.25(b)(3)(iv), subpart C.

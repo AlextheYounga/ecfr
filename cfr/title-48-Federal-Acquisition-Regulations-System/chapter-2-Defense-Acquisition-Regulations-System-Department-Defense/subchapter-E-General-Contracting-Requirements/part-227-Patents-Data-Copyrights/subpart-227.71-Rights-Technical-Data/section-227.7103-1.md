@@ -1,5 +1,7 @@
 ##### 227.7103-1 Policy. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) DoD policy is to acquire only the technical data, and the rights in that data, necessary to satisfy agency needs.
 
 (b) Solicitations and contracts shall -

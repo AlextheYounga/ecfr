@@ -1,5 +1,7 @@
 ##### 252.225-7013 Duty-Free Entry. #####
 
+Link to an amendment published at 87 FR 76986, Dec. 16, 2022.
+
 As prescribed in 225.1101(4), use the following clause:
 
 Duty-Free Entry (MAR 2022)

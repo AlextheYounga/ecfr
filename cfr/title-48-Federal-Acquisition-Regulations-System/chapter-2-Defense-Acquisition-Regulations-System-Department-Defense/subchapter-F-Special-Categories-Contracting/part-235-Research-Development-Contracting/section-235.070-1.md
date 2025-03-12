@@ -1,5 +1,7 @@
 ##### 235.070-1 Indemnification under research and development contracts. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (a) Under 10 U.S.C. 2354, and if authorized by the Secretary concerned, contracts for research and/or development may provide for indemnification of the contractor or subcontractors for -
 
 (1) Claims by third persons (including employees) for death, bodily injury, or loss of or damage to property; and

@@ -1,5 +1,7 @@
 ##### 242.7000 Contractor business system deficiencies. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 (a) *Definitions.* As used in this subpart -
 
 *Acceptable contractor business systems* and *contractor business systems* are defined in the clause at 252.242-7005, Contractor Business Systems.

@@ -1,5 +1,7 @@
 ##### 252.232-7013 Performance-Based Payments - Deliverable-Item Basis. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 232.1005-70(a)(2), use the following clause:
 
 Performance-Based Payments - Deliverable-Item Basis (APR 2020)

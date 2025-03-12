@@ -1,5 +1,7 @@
 ##### 252.227-7013 Rights in technical data - Noncommercial items. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 227.7103-6(a), use the following clause:
 
 Rights in Technical Data - Noncommercial Items (FEB 2014)

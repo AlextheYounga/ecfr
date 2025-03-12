@@ -1,5 +1,7 @@
 ##### 213.306 SF 44, Purchase Order-Invoice-Voucher. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (a)(1) The micro-purchase limitation applies to all purchases, except that purchases not exceeding the simplified acquisition threshold may be made for -
 
 (A) *Fuel and oil.* U.S. Government fuel cards may be used in lieu of an SF 44 for fuel, oil, and authorized refueling-related items (see PGI 213.306 for procedures on use of fuel cards);

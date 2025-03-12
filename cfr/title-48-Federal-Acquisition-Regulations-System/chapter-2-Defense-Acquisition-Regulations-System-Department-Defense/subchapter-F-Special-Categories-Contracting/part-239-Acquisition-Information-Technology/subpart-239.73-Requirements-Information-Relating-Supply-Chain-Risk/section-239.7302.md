@@ -1,5 +1,7 @@
 ##### 239.7302 Applicability. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 Notwithstanding FAR 39.001, this subpart shall be applied to acquisition of information technology for covered systems (see 10 U.S.C. 2339a), for procurements involving -
 
 (a) A source selection for a covered system or a covered item of supply involving either a performance specification (see 10 U.S.C. 2305(a)(1)(C)(ii)), or an evaluation factor (see 10 U.S.C. 2305(a)(2)(A)), relating to supply chain risk;

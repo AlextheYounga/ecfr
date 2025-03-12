@@ -1,5 +1,7 @@
 ##### 225.7002-1 Restrictions. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 (a) The following restrictions implement 10 U.S.C. 2533a (the “Berry Amendment”). Except as provided in subsection 225.7002-2, do not acquire -
 
 (1) Any of the following items, either as end products or components, unless the items have been grown, reprocessed, reused, or produced in the United States:

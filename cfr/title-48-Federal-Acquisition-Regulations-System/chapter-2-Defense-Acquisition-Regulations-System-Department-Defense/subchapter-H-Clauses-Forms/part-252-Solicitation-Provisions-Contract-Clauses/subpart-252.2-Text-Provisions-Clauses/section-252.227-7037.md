@@ -1,5 +1,7 @@
 ##### 252.227-7037 Validation of Restrictive Markings on Technical Data. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 227.7102-4(c), 227.7103-6(e)(3),227.7104(e)(5), or 227.7203-6(f), use the following clause:
 
 Validation of Restrictive Markings on Technical Data (APR 2022)

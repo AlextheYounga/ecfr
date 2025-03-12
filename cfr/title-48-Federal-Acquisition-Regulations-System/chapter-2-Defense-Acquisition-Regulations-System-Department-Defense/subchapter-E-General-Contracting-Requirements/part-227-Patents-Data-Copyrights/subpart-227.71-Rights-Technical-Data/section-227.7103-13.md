@@ -1,5 +1,7 @@
 ##### 227.7103-13 Government right to review, verify, challenge, and validate asserted restrictions. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) *General.* An offeror's assertion(s) of restrictions on the Government's rights to use, modify, reproduce, release, or disclose technical data do not, by themselves, determine the extent of the Government's rights in the technical data. Under 10 U.S.C. 2321, the Government has the right to challenge asserted restrictions when there are reasonable grounds to question the validity of the assertion and continued adherence to the assertion would make it impractical to later procure competitively the item to which the data pertain.
 
 (b) *Pre-award considerations.* The challenge procedures required by 10 U.S.C. 2321 could significantly delay awards under competitive procurements. Therefore, avoid challenging asserted restrictions prior to a competitive contract award unless resolution of the assertion is essential for successful completion of the procurement.

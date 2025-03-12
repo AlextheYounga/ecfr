@@ -172,7 +172,7 @@ You have a 100 percent share in 100 acres of walnuts in the unit, with a guarant
 
 (4 & 5) 200,000 pounds production to count × $0.90 price election = $180,000 total value of production to count;
 
-(6) $225,000 total value guarantee - $180,000 total value of production to count = $45,000 loss; and
+(6) $225,000 total value guarantee—$180,000 total value of production to count = $45,000 loss; and
 
 (7) $45,000 × 100 percent share = $45,000 indemnity payment.
 
@@ -196,10 +196,10 @@ You have a 100 percent share in 100 acres of walnuts in the unit, with a guarant
 
 (2) All harvested production from the insurable acreage.
 
-(d) Mature walnut production damaged due to an insurable cause of loss which occurs within the insurance period may be adjusted for quality based on an inspection by the Dried Fruit Association or during our loss adjustment process. If walnut production has mold damage greater than 8 percent, based on the net delivered weight, will be reduced by the quality adjustment factors contained in the Special Provisions. Walnut production that exceeds 30 percent mold damage and will not be sold, the production to count will be zero.
+(d) Mature walnut production damaged due to an insurable cause of loss which occurs within the insurance period may be adjusted for quality based on an inspection by the Dried Fruit Association or during our loss adjustment process. Walnut production that has mold damage greater than 8 percent, based on the net delivered weight, will be reduced by the quality adjustment factors contained in the Special Provisions. If walnut production exceeds 30 percent mold damage and will not be sold, the production to count will be zero.
 
 12. Late and Prevented Planting
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 20091, Apr. 25, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007; 87 FR 64368, Oct. 25, 2022]
+[62 FR 20091, Apr. 25, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007; 87 FR 64368, Oct. 25, 2022; 87 FR 76919, Dec. 16, 2022]

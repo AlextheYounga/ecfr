@@ -1,5 +1,7 @@
 ##### 252.227-7012 Patent license and release contract. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed at 227.7012, insert the following clause in patent releases, license agreements, and assignments:
 
 (Contract No.)Patent License and Release Contract (SEP 1999)

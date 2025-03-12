@@ -1,5 +1,7 @@
 ##### 252.225-7006 Acquisition of the American flag. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 225.7002-3(c), insert the following clause:
 
 Acquisition of the American Flag (AUG 2015)

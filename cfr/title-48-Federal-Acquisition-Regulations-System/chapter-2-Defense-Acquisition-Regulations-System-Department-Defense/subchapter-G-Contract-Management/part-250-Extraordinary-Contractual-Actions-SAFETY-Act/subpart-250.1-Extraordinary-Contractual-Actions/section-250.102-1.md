@@ -1,5 +1,7 @@
 ##### 250.102-1 Delegation of authority. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 (b) Authority under FAR 50.104 to approve actions obligating $75,000 or less may not be delegated below the level of the head of the contracting activity.
 
 (d) In accordance with the acquisition authority of the Under Secretary of Defense (Acquisition, Technology, and Logistics (USD (AT&L)) under 10 U.S.C. 133, in addition to the Secretary of Defense and the Secretaries of the military departments, the USD (AT&L) may exercise authority to indemnify against unusually hazardous or nuclear risks.

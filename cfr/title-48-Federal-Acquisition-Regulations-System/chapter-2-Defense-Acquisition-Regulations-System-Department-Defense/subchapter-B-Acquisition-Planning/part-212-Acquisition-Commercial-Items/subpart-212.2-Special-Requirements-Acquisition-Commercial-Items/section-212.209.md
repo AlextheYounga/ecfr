@@ -1,5 +1,7 @@
 ##### 212.209 Determination of price reasonableness. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a) In accordance with 10 U.S.C. 2377(d), agencies shall conduct or obtain market research to support the determination of the reasonableness of price for commercial items contained in any bid or offer submitted in response to an agency solicitation. To the extent necessary to support such market research, the contracting officer -
 
 (1) In the case of major weapon systems items acquired as commercial items in accordance with subpart 234.70, shall use information submitted under 234.7002(d); and

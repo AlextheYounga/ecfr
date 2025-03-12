@@ -1,5 +1,7 @@
 ##### 225.7003-2 Restrictions. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) The following restrictions implement 10 U.S.C. 2533b. Except as provided in 225.7003-3 -
 
 (1) Do not acquire the following items, or any components of the following items, unless any specialty metals contained in the items or components are melted or produced in the United States (also see guidance at PGI 225.7003-2(a)):

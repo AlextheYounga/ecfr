@@ -1,5 +1,7 @@
 ##### 235.006 Contracting methods and contract type. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (b)(i) For major defense acquisition programs as defined in 10 U.S.C. 2430 -
 
 (A) Follow the procedures at 234.004; and

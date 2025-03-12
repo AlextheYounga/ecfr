@@ -1,5 +1,7 @@
 ##### 215.506 Postaward debriefing of offerors. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (b) Notwithstanding FAR 15.506(b), when requested by a successful or unsuccessful offeror, a written or oral debriefing is required for contract awards valued at $10 million or more (section 818 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91)).
 
 (c) [Reserved]

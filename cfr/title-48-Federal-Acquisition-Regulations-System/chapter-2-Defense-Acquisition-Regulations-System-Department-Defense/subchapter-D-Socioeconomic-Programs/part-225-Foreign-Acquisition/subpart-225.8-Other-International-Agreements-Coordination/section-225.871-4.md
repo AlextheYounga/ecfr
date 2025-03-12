@@ -1,5 +1,7 @@
 ##### 225.871-4 Statutory waivers. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 (a) For contracts or subcontracts placed outside the United States, the Deputy Secretary of Defense may waive any provision of law that specifically prescribes -
 
 (1) Procedures for the formation of contracts;

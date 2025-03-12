@@ -1,5 +1,7 @@
 ##### 217.204 Contracts. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 (e)(i) Notwithstanding FAR 17.204(e), the ordering period of a task order or delivery order contract (including a contract for information technology) awarded by DoD pursuant to 10 U.S.C. 2304a -
 
 (A) May be for any period up to 5 years;

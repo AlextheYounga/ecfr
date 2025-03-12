@@ -1,5 +1,7 @@
 ##### 243.204-71 Certification of requests for equitable adjustment. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 (a) A request for equitable adjustment to contract terms that exceeds the simplified acquisition threshold may not be paid unless the contract certifies the request in accordance with the clause at 252.243-7002.
 
 (b) To determine if the dollar threshold for requiring certification is met, add together the absolute value of each cost increase and each cost decrease. See PGI 243.204-71(b) for an example.

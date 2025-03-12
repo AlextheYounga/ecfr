@@ -1,5 +1,7 @@
 ##### § 385.2 Definitions. #####
 
+Link to an amendment published at 87 FR 76942, Dec. 16, 2022.
+
 *For the purposes of this part, the following definitions apply:*
 
 *Accounting Period* means the monthly period specified in 17 U.S.C. 115(c)(2)(I) and in 17 U.S.C. 115(d)(4)(A)(i), and any related regulations, as applicable.

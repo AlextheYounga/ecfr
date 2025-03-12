@@ -1,5 +1,7 @@
 ##### § 660.25 Permits. #####
 
+Link to an amendment published at 87 FR 77014, Dec. 16, 2022.Link to an amendment published at 87 FR 77005, Dec. 16, 2022.
+
 (a) *General.* Each of the permits or licenses in this section has different conditions or privileges as part of the permit or license. The permits or licenses in this section confer a conditional privilege of participating in the Pacific coast groundfish fishery, in accordance with Federal regulations in 50 CFR part 660, subparts C through G.
 
 (b) *Limited entry permit* - (1) *Eligibility and registration* - (i) *General.* In order for a vessel to be used to fish in the limited entry fishery, the vessel owner must hold a limited entry permit and, through SFD, must register that vessel for use with a limited entry permit. When participating in the limited entry fishery, a vessel is authorized to fish with the gear type endorsed on the limited entry permit registered for use with that vessel, except that the MS permit does not have a gear endorsement. There are three types of gear endorsements: Trawl, longline, and pot (or trap). All limited entry permits, except the MS permit, have size endorsements; a vessel registered for use with a limited entry permit must comply with the vessel size requirements of this subpart. A sablefish endorsement is also required for a vessel to be used to fish in the primary season for the limited entry fixed gear sablefish fishery, north of 36° N. lat. Certain limited entry permits will also have endorsements required for participation in a specific fishery, such as the MS/CV endorsement and the C/P endorsement.
@@ -153,10 +155,6 @@
 (e) *Coop permit* - (1) *MS coop permit.* An MS coop permit conveys a conditional privilege to an eligible coop entity to receive and manage a coop's allocation of designated species and species groups. An MS coop permit is not a limited entry permit. The provisions for the MS coop permit, including eligibility, annual registration, fees, and appeals are described in the MS Coop Program at § 660.150, subpart D.
 
 (2) *C/P coop permit.* A C/P coop permit conveys a conditional privilege to an eligible coop entity to receive and manage a coop's allocation of designated species and species groups. A C/P coop permit is not a limited entry permit. The provisions for the C/P coop permit, including eligibility, annual registration, fees, and appeals are described in the C/P Coop Program at § 660.160, subpart D.
-
-(1) *MS coop permit.* [Reserved]
-
-(2) *C/P coop permit.* [Reserved]
 
 (f) *Permit fees.* The Regional Administrator is authorized to charge fees to cover administrative expenses related to issuance of permits including initial issuance, renewal, permit registration, vessel registration, replacement, and appeals. The appropriate fee must accompany each application.
 

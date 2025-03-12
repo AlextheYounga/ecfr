@@ -1,5 +1,7 @@
 ##### 225.7013 Restrictions on construction or repair of vessels in foreign shipyards. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 In accordance with 10 U.S.C. 7309 and 7310 -
 
 (a) Do not award a contract to construct in a foreign shipyard -

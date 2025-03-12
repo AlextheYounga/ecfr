@@ -1,5 +1,7 @@
 ##### 225.772-1 Definitions. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 As used in this section -
 
 *Covered foreign country* means -

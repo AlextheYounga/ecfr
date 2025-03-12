@@ -1,5 +1,7 @@
 ##### 252.217-7026 Identification of sources of supply. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 217.7303, use the following provision:
 
 Identification of Sources of Supply (NOV 1995)

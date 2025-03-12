@@ -1,5 +1,7 @@
 ##### 234.7002 Policy. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (a) *Major weapon systems.* (1) A DoD major weapon system may be treated as a commercial item, or acquired under procedures established for the acquisition of commercial items, only if -
 
 (i) The Secretary of Defense determines that -

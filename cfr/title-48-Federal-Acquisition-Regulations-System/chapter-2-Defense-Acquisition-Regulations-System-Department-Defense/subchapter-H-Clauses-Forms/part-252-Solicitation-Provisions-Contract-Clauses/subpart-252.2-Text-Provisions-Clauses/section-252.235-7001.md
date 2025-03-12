@@ -1,5 +1,7 @@
 ##### 252.235-7001 Indemnification under 10 U.S.C. 2354 - cost reimbursement. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 235.070-3, use the following clause:
 
 Indemnification Under 10 U.S.C. 2354 - Cost Reimbursement (DEC 1991)

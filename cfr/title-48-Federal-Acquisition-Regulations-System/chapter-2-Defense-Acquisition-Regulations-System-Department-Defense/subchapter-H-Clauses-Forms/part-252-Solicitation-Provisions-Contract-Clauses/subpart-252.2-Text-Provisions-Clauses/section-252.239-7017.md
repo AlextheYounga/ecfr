@@ -1,5 +1,7 @@
 ##### 252.239-7017 Notice of supply chain risk. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 239.7306(a), use the following provision:
 
 Notice of Supply Chain Risk (FEB 2019)

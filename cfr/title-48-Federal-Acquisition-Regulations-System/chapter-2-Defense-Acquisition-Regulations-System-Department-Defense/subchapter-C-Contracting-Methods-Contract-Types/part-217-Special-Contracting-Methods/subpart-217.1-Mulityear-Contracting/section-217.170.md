@@ -1,5 +1,7 @@
 ##### 217.170 General. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (a) Before awarding a multiyear contract, the head of the agency must compare the cost of that contract to the cost of an annual procurement approach, using a present value analysis. Do not award the multiyear contract unless the analysis shows that the multiyear contract will result in the lower cost (10 U.S.C. 2306b(l)(7); section 8008(a) of Pub. L. 105-56 and similar sections in subsequent DoD appropriations acts).
 
 (b) The head of the agency must provide written notice to the congressional defense committees at least 30 days before termination of any multiyear contract (section 8010 of Division C, Title VIII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and similar sections in subsequent DoD appropriations acts).

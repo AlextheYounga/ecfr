@@ -1,5 +1,7 @@
 ##### 213.301 Governmentwide commercial purchase card. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 Follow the procedures at PGI 213.301 for authorizing, establishing, and operating a Governmentwide commercial purchase card program.
 
 (1) “United States,” as used in this section, means the 50 States and the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, Wake Island, Johnston Island, Canton Island, the outer Continental Shelf, and any other place subject to the jurisdiction of the United States (but not including leased bases).

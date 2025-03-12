@@ -1,5 +1,7 @@
 ##### 252.243-7002 Requests for equitable adjustment. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 243.205-71, use the following clause:
 
 Requests for Equitable Adjustment (DEC 2012)

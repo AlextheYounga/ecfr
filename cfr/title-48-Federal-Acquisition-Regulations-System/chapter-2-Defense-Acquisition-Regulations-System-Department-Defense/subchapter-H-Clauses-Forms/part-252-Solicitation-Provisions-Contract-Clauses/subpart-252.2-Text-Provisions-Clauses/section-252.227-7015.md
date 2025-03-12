@@ -1,5 +1,7 @@
 ##### 252.227-7015 Technical data - Commercial items. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 227.7102-4(a)(1), use the following clause:
 
 Technical Data - Commercial Items (FEB 2014)

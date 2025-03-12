@@ -1,6 +1,6 @@
 ##### § 5.31 Security of systems of records. #####
 
-(a) *In general.* Each component shall establish administrative and physical controls to prevent unauthorized access to its systems of records, to prevent unauthorized disclosure of records, and to prevent physical damage to or destruction of records. The stringency of these controls shall correspond to the sensitivity of the records that the controls protect. At a minimum, each component's administrative and physical controls shall ensure that:
+(a) *In general.* Each component will establish administrative and physical controls to prevent unauthorized access to its systems of records, to prevent unauthorized disclosure of records, and to prevent physical damage to or destruction of records. The stringency of these controls will correspond to the sensitivity of the records that the controls protect. At a minimum, each component's administrative and physical controls will ensure that:
 
 (1) Records are protected from public view;
 
@@ -10,4 +10,4 @@
 
 (4) Records are not disclosed to unauthorized persons or under unauthorized circumstances in either oral or written form.
 
-(b) *Procedures required.* Each component shall have procedures that restrict access to records to only those individuals within the Department who must have access to those records in order to perform their duties and that prevent inadvertent disclosure of records.
+(b) *Procedures required.* Each component will have procedures that restrict access to records to only those individuals within the Department who must have access to those records to perform their duties and that prevent inadvertent disclosure of records.

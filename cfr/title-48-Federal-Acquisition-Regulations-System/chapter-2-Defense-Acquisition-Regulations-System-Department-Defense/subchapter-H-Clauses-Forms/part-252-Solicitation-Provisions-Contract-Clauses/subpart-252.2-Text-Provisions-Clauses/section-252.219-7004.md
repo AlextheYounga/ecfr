@@ -1,5 +1,7 @@
 ##### 252.219-7004 Small Business Subcontracting Plan (Test Program). #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 219.708(b)(1)(B), use the following clause:
 
 Small Business Subcontracting Plan (Test Program) (MAY 2019)

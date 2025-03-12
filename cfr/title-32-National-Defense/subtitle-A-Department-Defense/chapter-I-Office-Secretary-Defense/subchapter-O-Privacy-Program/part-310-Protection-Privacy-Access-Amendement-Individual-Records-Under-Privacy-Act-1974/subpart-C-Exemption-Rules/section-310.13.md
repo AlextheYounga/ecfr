@@ -1,5 +1,7 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
+Link to an amendment published at 87 FR 76934, Dec. 16, 2022.Link to an amendment published at 87 FR 76936, Dec. 16, 2022.
+
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 
 (b) *Promises of confidentiality.* (1) Only the identity of and information furnished by sources that have been given an express promise of confidentiality may be protected from disclosure under this section, consistent with (k)(2), (k)(5), and (k)(7) of the Privacy Act, as applicable. However, the identity of sources who were given implied promises of confidentiality in inquiries conducted before September 27, 1975, also may be protected from disclosure.

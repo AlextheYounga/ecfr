@@ -1,5 +1,7 @@
 ##### 252.209-7007 Prohibited Financial Interests for Lead System Integrators. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed in 209.570-4(b), use the following clause:
 
 Prohibited Financial Interests for Lead System Integrators (JUL 2009)

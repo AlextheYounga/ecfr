@@ -1,5 +1,7 @@
 ##### 242.7302 Requirements. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 (a)(1) An in-depth CIPR as described at DFARS 242.7301(a)(1) shall be conducted only when -
 
 (i) A contractor has $50 million of qualifying sales to the Government during the contractor's preceding fiscal year; and

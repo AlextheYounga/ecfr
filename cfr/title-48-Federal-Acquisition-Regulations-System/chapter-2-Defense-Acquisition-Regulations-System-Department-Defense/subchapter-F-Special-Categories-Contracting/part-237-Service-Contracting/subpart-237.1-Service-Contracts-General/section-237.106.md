@@ -1,5 +1,7 @@
 ##### 237.106 Funding and term of service contracts. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (1) Personal service contracts for expert or consultant services shall not exceed 1 year. The nature of the duties must be -
 
 (i) Temporary (not more than 1 year); or

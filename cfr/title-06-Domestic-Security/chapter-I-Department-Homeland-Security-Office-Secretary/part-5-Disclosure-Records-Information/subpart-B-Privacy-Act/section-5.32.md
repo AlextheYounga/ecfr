@@ -1,3 +1,3 @@
-##### § 5.32 Contracts for the operation of record systems. #####
+##### § 5.32 Contracts for the operation of systems of records. #####
 
-Under 5 U.S.C. 552a(m), any approved contract for the operation of a record system will contain the standard contract requirements issued by the General Services Administration to ensure compliance with the requirements of the Privacy Act for that record system. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements.
+As required by 5 U.S.C. 552a(m), any approved contract for the operation of a system of records to accomplish an agency function will contain the standard contract requirements issued by the General Services Administration to ensure compliance with the requirements of the Privacy Act for that system. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements.

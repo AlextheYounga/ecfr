@@ -1,5 +1,7 @@
 ##### 227.7103-14 Conformity, acceptance, and warranty of technical data. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) *Statutory requirements.* 10 U.S.C. 2320 -
 
 (1) Provides for the establishment of remedies applicable to technical data found to be incomplete, inadequate, or not to satisfy the requirements of the contract concerning such data; and

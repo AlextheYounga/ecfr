@@ -1,5 +1,7 @@
 ##### 252.225-7050 Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 225.771-5, use the following provision:
 
 Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism (SEP 2021)

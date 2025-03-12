@@ -1,5 +1,7 @@
 ##### § 660.50 Pacific Coast treaty Indian fisheries. #####
 
+Link to an amendment published at 87 FR 77015, Dec. 16, 2022.
+
 (a) *Pacific Coast treaty Indian tribes have treaty rights.* Pacific Coast treaty Indian tribes have treaty rights to harvest groundfish in their usual and accustomed fishing areas in U.S. waters. In 1994, the United States formally recognized that the four Washington coastal treaty Indian tribes (Makah, Quileute, Hoh, and Quinault) have treaty rights to fish for groundfish in the Pacific Ocean, and concluded that, in general terms, the quantification of those rights is 50 percent of the harvestable surplus of groundfish that pass through the tribes U&A fishing areas.
 
 (b) *Pacific Coast treaty Indian tribes.* For the purposes of this part, Pacific Coast treaty Indian tribes means the Hoh Indian Tribe, Makah Indian Tribe, Quileute Indian Tribe and the Quinault Indian Nation.

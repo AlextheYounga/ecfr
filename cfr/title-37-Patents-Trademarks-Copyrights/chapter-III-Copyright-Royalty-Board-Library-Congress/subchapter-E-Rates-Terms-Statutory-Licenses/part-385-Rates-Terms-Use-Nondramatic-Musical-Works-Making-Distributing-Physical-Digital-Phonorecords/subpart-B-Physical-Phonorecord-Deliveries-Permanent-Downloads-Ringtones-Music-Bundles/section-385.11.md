@@ -1,5 +1,7 @@
 ##### § 385.11 Royalty rates. #####
 
+Link to an amendment published at 87 FR 76942, Dec. 16, 2022.
+
 (a) *Physical phonorecord deliveries and Permanent Downloads.* For every physical phonorecord and Permanent Download the Licensee makes and distributes or authorizes to be made and distributed, the royalty rate payable for each work embodied in the phonorecord or Permanent Download shall be either 9.1 cents or 1.75 cents per minute of playing time or fraction thereof, whichever amount is larger.
 
 (b) *Ringtones.* For every Ringtone the Licensee makes and distributes or authorizes to be made and distributed, the royalty rate payable for each work embodied therein shall be 24 cents.

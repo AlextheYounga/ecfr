@@ -1,5 +1,7 @@
 ##### 239.7305 Exclusion and limitation on disclosure. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 Subject to 239.7304, the individuals authorized in 239.7303 may, in the course of procuring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system -
 
 (a) Exclude a source that fails to meet qualification standards established in accordance with the requirements of 10 U.S.C. 2319, for the purpose of reducing supply chain risk in the acquisition of covered systems;

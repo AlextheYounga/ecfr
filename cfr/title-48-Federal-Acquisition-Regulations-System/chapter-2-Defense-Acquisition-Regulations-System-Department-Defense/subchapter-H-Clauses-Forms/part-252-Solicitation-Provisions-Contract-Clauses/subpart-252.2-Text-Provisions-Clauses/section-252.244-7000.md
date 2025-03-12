@@ -1,5 +1,7 @@
 ##### 252.244-7000 Subcontracts for Commercial Items. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 244.403, use the following clause:
 
 Subcontracts for Commercial Items (JAN 2021)

@@ -1,5 +1,7 @@
 ##### 252.209-7006 Limitations on Contractors Acting as Lead System Integrators. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed in 209.570-4(a), use the following provision:
 
 Limitations on Contractors Acting As Lead System Integrators (JAN 2008)

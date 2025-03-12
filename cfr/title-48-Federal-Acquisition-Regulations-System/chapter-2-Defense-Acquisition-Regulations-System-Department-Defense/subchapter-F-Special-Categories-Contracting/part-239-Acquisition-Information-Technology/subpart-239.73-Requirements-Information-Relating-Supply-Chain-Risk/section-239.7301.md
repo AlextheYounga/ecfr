@@ -1,5 +1,7 @@
 ##### 239.7301 Definitions. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 As used in this subpart -
 
 *Covered item of supply* means an item of information technology that is purchased for inclusion in a covered system, and the loss of integrity of which could result in a supply chain risk for a covered system (see 10 U.S.C. 2339a).

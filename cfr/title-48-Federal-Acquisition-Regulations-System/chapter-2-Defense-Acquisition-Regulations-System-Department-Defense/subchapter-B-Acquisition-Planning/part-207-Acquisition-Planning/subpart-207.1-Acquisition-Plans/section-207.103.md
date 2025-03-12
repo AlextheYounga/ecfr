@@ -1,5 +1,7 @@
 ##### 207.103 Agency-head responsibilities. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (d)(i) Prepare written acquisition plans for -
 
 (A) Acquisitions for development, as defined in FAR 35.001, when the total cost of all contracts for the acquisition program is estimated at $10 million or more;

@@ -1,5 +1,7 @@
 ##### 203.900 Scope of subpart. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 This subpart implements 10 U.S.C. 2409 and section 883 of the National Defense Authorization Act for Fiscal Year 2021 (Pub. L. 116-283).
 
 (a)(i) 10 U.S.C. 2409 provides DoD whistleblower protection policies and procedures for contractor employees. Use sections 203.901 through 203.906 of this subpart in lieu of FAR sections 3.901 through 3.906 to implement 10 U.S.C. 2409.

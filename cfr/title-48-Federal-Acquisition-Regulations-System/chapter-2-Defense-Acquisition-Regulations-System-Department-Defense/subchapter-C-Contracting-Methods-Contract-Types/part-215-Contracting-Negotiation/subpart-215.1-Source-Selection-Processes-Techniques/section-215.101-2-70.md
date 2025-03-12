@@ -1,5 +1,7 @@
 ##### 215.101-2-70 Limitations and prohibitions. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 The following limitations and prohibitions apply when considering the use of the lowest price technically acceptable source selection procedures.
 
 (a) *Limitations.*

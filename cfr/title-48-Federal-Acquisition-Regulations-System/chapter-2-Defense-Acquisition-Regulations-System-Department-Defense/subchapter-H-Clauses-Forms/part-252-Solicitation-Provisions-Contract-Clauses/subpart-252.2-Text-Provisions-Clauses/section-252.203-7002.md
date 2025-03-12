@@ -1,5 +1,7 @@
 ##### 252.203-7002 Requirement to Inform Employees of Whistleblower Rights. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed in 203.970, use the following clause:
 
 Requirement To Inform Employees of Whistleblower Rights (SEP 2013)

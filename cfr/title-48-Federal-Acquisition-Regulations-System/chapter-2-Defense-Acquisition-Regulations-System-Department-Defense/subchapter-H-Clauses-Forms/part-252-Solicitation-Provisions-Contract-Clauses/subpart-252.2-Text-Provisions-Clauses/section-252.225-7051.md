@@ -1,5 +1,7 @@
 ##### 252.225-7051 Prohibition on Acquisition of Certain Foreign Commercial Satellite Services. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 225.772-5, use the following clause:
 
 Prohibition on Acquisition of Certain Foreign Commerical Satellite Services (SEP 2021)

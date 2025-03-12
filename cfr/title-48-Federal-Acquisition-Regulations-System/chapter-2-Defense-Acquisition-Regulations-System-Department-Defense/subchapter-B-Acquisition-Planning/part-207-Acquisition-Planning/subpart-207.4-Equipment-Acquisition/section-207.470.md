@@ -1,5 +1,7 @@
 ##### 207.470 Statutory requirements. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (a) *Requirement for authorization of certain contracts relating to vessels, aircraft, and combat vehicles.* The contracting officer shall not enter into any contract for the lease or charter of any vessel, aircraft, or combat vehicle, or any contract for services that would require the use of the contractor's vessel, aircraft, or combat vehicle, unless the Secretary of the military department concerned has satisfied the requirements of 10 U.S.C. 2401, when -
 
 (1) The contract will be a long-term lease or charter as defined in 10 U.S.C. 2401(d)(1); or

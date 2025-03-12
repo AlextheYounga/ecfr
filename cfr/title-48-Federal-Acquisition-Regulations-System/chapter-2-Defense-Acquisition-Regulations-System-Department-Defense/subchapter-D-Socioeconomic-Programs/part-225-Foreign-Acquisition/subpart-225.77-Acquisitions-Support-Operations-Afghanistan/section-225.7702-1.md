@@ -1,5 +1,7 @@
 ##### 225.7702-1 Acquisition of small arms. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) Except as provided in paragraph (b) of this section, when acquiring small arms for assistance to the Army of Afghanistan, the Afghani Police Forces, or other Afghani security organizations -
 
 (1) Use full and open competition to the maximum extent practicable, consistent with the provisions of 10 U.S.C. 2304;

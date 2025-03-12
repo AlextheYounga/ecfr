@@ -1,5 +1,7 @@
 ##### § 660.360 Recreational fishery - management measures. #####
 
+Link to an amendment published at 87 FR 77033, Dec. 16, 2022.
+
 (a) *General.* Federal recreational groundfish regulations are not intended to supersede any more restrictive state recreational groundfish regulations relating to federally-managed groundfish. The bag limits include fish taken in both state and Federal waters.
 
 (b) *Gear restrictions.* The only types of fishing gear authorized for recreational fishing are hook-and-line and spear. Spears may be propelled by hand or by mechanical means. More fishery-specific gear restrictions may be required by state as noted in paragraph (c) of this section (e.g., California's recreational “other flatfish” fishery).

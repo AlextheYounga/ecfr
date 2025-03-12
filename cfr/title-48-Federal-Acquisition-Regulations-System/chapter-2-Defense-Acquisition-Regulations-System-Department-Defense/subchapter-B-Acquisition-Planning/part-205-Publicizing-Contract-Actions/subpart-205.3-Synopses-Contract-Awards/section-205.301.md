@@ -1,5 +1,7 @@
 ##### 205.301 General. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (a)(S-70) *Synopsis of exceptions to domestic source requirements.*
 
 (i) In accordance with 10 U.S.C. 2533a(k), contracting officers also must synopsize through the GPE, awards exceeding the simplified acquisition threshold that are for the acquisition of any clothing, fiber, yarn, or fabric items described in 225.7002-1(a)(1)(ii) through (x), if -

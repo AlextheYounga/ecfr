@@ -1,5 +1,7 @@
 ##### 225.7010-1 Restriction. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 In accordance with 10 U.S.C. 2534, do not acquire the following components of naval vessels, to the extent they are unique to marine applications, unless manufactured in the United States, Australia, Canada, or the United Kingdom:
 
 (a) Gyrocompasses.

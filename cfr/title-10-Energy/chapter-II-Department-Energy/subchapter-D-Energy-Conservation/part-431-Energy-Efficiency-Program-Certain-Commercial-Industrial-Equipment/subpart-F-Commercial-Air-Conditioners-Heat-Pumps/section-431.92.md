@@ -1,6 +1,6 @@
 ##### § 431.92 Definitions concerning commercial air conditioners and heat pumps. #####
 
-Link to an amendment published at 87 FR 75167, Dec. 7, 2022.
+Link to an amendment published at 87 FR 75167, Dec. 7, 2022.Link to an amendment published at 87 FR 77325, Dec. 16, 2022.
 
 The following definitions apply for purposes of this subpart F, and of subparts J through M of this part. Any words or terms not defined in this section or elsewhere in this part shall be defined as provided in 42 U.S.C. 6311.
 

@@ -1,5 +1,7 @@
 ##### 252.215-7008 Only One Offer. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed at 215.408(3), use the following provision:
 
 Only One Offer (JUL 2019)

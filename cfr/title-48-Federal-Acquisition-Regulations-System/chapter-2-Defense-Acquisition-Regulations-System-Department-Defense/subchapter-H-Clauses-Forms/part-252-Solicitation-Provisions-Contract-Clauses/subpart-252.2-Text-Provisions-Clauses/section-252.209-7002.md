@@ -1,5 +1,7 @@
 ##### 252.209-7002 Disclosure of ownership or control by a foreign government. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed in 209.104-70, use the following provision:
 
 Disclosure of Ownership or Control by a Foreign Government (JUN 2010)

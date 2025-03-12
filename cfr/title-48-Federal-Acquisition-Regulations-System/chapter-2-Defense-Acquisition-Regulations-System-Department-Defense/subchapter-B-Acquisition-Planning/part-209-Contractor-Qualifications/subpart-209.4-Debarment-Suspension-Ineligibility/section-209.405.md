@@ -1,5 +1,7 @@
 ##### 209.405 Effect of listing. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a) Under 10 U.S.C. 2393(b), when a department or agency determines that a compelling reason exists for it to conduct business with a contractor that is debarred or suspended from procurement programs, it must provide written notice of the determination to the General Services Administration (GSA), GSA Suspension and Debarment Official, Office of Acquisition Policy, 1275 First Street, NE., Washington, DC 20417. Examples of compelling reasons are -
 
 (i) Only a debarred or suspended contractor can provide the supplies or services;

@@ -1,5 +1,7 @@
 ##### 252.216-7010 Postaward Debriefings for Task Orders and Delivery Orders. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed at 216.506-70(b), use the following clause:
 
 Postaward Debriefings for Task Orders and Delivery Orders (MAR 2022)

@@ -1,5 +1,7 @@
 ##### 215.404-1 Proposal analysis techniques. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (a) *General.* (i) Follow the procedures at PGI 215.404-1 for proposal analysis.
 
 (ii) For spare parts or support equipment, perform an analysis of -

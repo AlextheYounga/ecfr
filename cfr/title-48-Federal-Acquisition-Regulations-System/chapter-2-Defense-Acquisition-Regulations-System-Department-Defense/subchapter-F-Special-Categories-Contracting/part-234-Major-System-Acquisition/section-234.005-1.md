@@ -1,5 +1,7 @@
 ##### 234.005-1 Competition. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 A contract that is initially awarded from the competitive selection of a proposal resulting from a broad agency announcement (see 235.016) may contain a contract line item or contract option using funds not limited to those identified in 235.016 for the development and demonstration or initial production of technology developed under the contract, or the delivery of initial or additional items if the item or a prototype thereof is created as the result of work performed under the contract, only when it adheres to the following limitations:
 
 (1) The contract line item or contract option shall be limited to the delivery of the minimal amount of initial or additional items or prototypes that will allow for timely competitive solicitation and award of a follow-on development or production contract for those items.

@@ -1,5 +1,7 @@
 ##### 216.402-2 Performance incentives. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (1) See PGI 216.402-2 for guidance on establishing performance incentives.
 
 (2) Contracting officers shall ensure requirements about the payment of incentive fees or the imposition of penalties are included in the solicitation for a contract for the engineering and manufacturing development or production of a weapon system, including embedded software, if the program manager or comparable requiring activity official exercising program manager responsibilities includes -

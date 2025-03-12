@@ -1,5 +1,7 @@
 ##### 252.225-7052 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 225.7018-5, use the following clause:
 
 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Aug 2022)

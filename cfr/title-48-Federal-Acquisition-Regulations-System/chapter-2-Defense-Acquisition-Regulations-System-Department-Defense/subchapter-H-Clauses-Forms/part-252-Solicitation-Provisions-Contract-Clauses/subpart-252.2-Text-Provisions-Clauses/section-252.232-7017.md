@@ -1,5 +1,7 @@
 ##### 252.232-7017 Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 232.009-2, use the following clause:
 
 Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration (APR 2020)

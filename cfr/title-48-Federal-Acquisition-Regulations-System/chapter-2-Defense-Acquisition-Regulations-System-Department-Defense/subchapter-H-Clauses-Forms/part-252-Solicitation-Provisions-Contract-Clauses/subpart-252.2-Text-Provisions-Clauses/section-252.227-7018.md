@@ -1,5 +1,7 @@
 ##### 252.227-7018 Rights in noncommercial technical data and computer software - Small Business Innovation Research (SBIR) Program. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 227.7104(a), use the following clause:
 
 Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program (FEB 2014)

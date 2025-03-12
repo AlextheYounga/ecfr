@@ -1,6 +1,6 @@
 ##### § 660.11 General definitions. #####
 
-Link to an amendment published at 87 FR 59728, Oct. 3, 2022.
+Link to an amendment published at 87 FR 59728, Oct. 3, 2022.Link to an amendment published at 87 FR 77014, Dec. 16, 2022.
 
 These definitions are specific to the fisheries covered in subparts C through G of this part.
 

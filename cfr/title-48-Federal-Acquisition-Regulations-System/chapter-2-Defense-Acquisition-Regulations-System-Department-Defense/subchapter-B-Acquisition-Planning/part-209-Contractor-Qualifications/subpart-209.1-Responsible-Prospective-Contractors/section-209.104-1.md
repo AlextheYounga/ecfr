@@ -1,5 +1,7 @@
 ##### 209.104-1 General standards. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (e) For cost-reimbursement or incentive type contracts, or contracts which provide for progress payments based on costs or on a percentage or stage of completion, the prospective contractor's accounting system and related internal controls must provide reasonable assurance that -
 
 (i) Applicable laws and regulations are complied with;

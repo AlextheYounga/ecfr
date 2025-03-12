@@ -1,5 +1,7 @@
 ##### 252.216-7009 Allowability of legal costs incurred in connection with a whistleblower proceeding. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 216.307(a), use the following clause:
 
 Allowability of Legal Costs Incurred in Connection With a Whistleblower Proceeding (SEP 2013)

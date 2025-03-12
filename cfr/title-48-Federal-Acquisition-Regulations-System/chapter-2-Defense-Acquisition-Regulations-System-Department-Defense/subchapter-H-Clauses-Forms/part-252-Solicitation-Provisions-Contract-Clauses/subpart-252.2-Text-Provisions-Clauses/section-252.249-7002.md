@@ -1,5 +1,7 @@
 ##### 252.249-7002 Notification of Anticipated Contract Termination or Reduction. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 249.7004, use the following clause:
 
 Notification of Anticipated Contract Termination or Reduction (JUN 2020)

@@ -1,5 +1,7 @@
 ##### 252.225-7045 Balance of Payments Program - Construction Material Under Trade Agreements. #####
 
+Link to an amendment published at 87 FR 76988, Dec. 16, 2022.
+
 *Basic.* As prescribed in 225.7503(b) and (b)(1), use the following clause:
 
 Balance of Payments Program - Construction Material Under Trade Agreements - Basic (JUN 2022)

@@ -1,5 +1,7 @@
 ##### 239.7304 Determination and notification. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 The individuals authorized in 239.7303 may exercise the authority provided in 239.7305 only after -
 
 (a) Obtaining a joint recommendation by the Under Secretary of Defense for Acquisition and Sustainment and the Chief Information Officer of the Department of Defense, on the basis of a risk assessment by the Under Secretary of Defense for Intelligence, that there is a significant supply chain risk to a covered system;

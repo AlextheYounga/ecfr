@@ -1,5 +1,7 @@
 ##### 227.7100 Scope of subpart. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 This subpart -
 
 (a) Prescribes policies and procedures for the acquisition of technical data and the rights to use, modify, reproduce, release, perform, display, or disclose technical data. It implements requirements in the following laws and Executive Order:

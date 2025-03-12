@@ -1,5 +1,7 @@
 ##### 252.225-7009 Restriction on Acquisition of Certain Articles Containing Specialty Metals. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 225.7003-5(a)(2), use the following clause:
 
 Restriction on Acquisition of Certain Articles Containing Specialty Metals (DEC 2019)

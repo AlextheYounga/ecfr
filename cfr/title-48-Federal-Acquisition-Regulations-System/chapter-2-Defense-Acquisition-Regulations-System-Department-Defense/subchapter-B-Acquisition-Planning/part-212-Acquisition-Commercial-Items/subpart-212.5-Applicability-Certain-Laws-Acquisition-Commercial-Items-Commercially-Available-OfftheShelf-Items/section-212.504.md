@@ -1,5 +1,7 @@
 ##### 212.504 Applicability of certain laws to subcontracts for the acquisition of commercial items. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a) The following laws are not applicable to subcontracts at any tier for the acquisition of commercial items or commercial components:
 
 (i) 10 U.S.C. 2306(b) Prohibition on Contingent Fees.

@@ -1,5 +1,7 @@
 ##### 252.219-7000 Advancing Small Business Growth. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 219.309(1), use the following provision:
 
 Advancing Small Business Growth (SEP 2016)

@@ -1,5 +1,7 @@
 ##### 225.7018-2 Restriction. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) Except as provided in 225.7018-3 and 225.7018-4, do not acquire any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 2533c).
 
 (b)(1) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -

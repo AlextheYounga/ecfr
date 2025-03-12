@@ -1,5 +1,7 @@
 ##### 252.225-7035 Buy American - Free Trade Agreements - Balance of Payments Program Certificate. #####
 
+Link to an amendment published at 87 FR 76987, Dec. 16, 2022.
+
 *Basic.* As prescribed in 225.1101(9) and (9)(i), use the following provision:
 
 Buy American - Free Trade Agreements - Balance of Payments Program Certificate - Basic (NOV 2014)

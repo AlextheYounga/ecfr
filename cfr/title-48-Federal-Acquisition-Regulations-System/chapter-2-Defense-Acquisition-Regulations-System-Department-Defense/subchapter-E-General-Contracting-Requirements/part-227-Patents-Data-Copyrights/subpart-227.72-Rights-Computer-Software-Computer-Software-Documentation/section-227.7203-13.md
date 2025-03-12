@@ -1,5 +1,7 @@
 ##### 227.7203-13 Government right to review, verify, challenge, and validate asserted restrictions. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) *General.* An offeror's or contractor's assertion(s) of restrictions on the Government's rights to use, modify, reproduce, release, or disclose computer software or computer software documentation do not, by themselves, determine the extent of the Government's rights in such software or documentation. The Government may require an offeror or contractor to submit sufficient information to permit an evaluation of a particular asserted restriction and may challenge asserted restrictions when there are reasonable grounds to believe that an assertion is not valid.
 
 (b) *Requests for information.* Contracting officers should have a reason to suspect that an asserted restriction might not be correct prior to requesting information. When requesting information, provide the offeror or contractor the reason(s) for suspecting that an asserted restriction might not be correct. A need for additional license rights is not, by itself, a sufficient basis for requesting information concerning an asserted restriction. Follow the procedures at 227.7203-5(d) when additional license rights are needed but there is no basis to suspect that an asserted restriction might not be valid.

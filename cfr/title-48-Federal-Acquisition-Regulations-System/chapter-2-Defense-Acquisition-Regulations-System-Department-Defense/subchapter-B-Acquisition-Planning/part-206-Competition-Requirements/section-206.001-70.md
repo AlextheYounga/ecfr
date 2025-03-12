@@ -1,5 +1,7 @@
 ##### 206.001-70 Exception for prototype projects for follow-on production contracts. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (a) Also excepted from this part are follow-on production contracts for products developed pursuant to the “other transactions” authority of 10 U.S.C. 2371b for prototype projects when -
 
 (1) The other transaction solicitation and agreement included provisions for a follow-on production contract; and

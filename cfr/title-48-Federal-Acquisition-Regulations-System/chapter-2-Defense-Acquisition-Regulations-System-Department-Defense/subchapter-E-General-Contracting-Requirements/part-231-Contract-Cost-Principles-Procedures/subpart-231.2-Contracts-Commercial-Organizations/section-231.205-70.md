@@ -1,5 +1,7 @@
 ##### 231.205-70 External restructuring costs. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (a) *Scope.* This subsection -
 
 (1) Prescribes policies and procedures for allowing contractor external restructuring costs when savings would result for DoD; and

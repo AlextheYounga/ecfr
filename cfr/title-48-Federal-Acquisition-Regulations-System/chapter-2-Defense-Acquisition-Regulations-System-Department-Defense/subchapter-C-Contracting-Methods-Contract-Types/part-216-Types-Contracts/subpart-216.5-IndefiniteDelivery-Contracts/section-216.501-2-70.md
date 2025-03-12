@@ -1,5 +1,7 @@
 ##### 216.501-2-70 General. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (a)(i) For items with a shelf-life of less than 6 months, consider the use of indefinite-delivery type contracts with orders to be placed either -
 
 (A) Directly by the users; or

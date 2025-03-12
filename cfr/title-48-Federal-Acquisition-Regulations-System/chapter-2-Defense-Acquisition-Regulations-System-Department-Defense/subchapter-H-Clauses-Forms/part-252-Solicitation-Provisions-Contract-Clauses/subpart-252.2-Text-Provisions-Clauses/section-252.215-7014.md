@@ -1,5 +1,7 @@
 ##### 252.215-7014 Exception from Certified Cost or Pricing Data Requirements for Foreign Military Sales Indirect Offsets. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 215.408(8), use the following clause:
 
 Exception From Certified Cost or Pricing Data Requirements for Foreign Military Sales Indirect Offsets (JUN 2018)

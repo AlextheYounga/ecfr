@@ -1,5 +1,7 @@
 ##### 252.215-7016 Notification to Offerors - Postaward Debriefings. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 215.570, use the following provision:
 
 Notification to Offerors - Postaward Debriefings (MAR 2022)

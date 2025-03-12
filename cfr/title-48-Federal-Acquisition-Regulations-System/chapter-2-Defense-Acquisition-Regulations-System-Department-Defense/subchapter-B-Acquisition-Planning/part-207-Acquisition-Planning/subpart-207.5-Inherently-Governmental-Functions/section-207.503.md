@@ -1,5 +1,7 @@
 ##### 207.503 Policy. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (e) The written determination required by FAR 7.503(e), that none of the functions to be performed by contract are inherently governmental -
 
 (i) Shall be prepared using DoD Instruction 1100.22, Guidance for Determining Workforce Mix; and

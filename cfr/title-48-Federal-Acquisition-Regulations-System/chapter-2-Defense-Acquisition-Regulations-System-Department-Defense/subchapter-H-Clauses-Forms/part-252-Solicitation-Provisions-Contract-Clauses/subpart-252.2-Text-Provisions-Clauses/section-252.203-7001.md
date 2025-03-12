@@ -1,5 +1,7 @@
 ##### 252.203-7001 Prohibition on persons convicted of fraud or other defense-contract-related felonies. #####
 
+Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+
 As prescribed in 203.570-3, use the following clause:
 
 Prohibition on Persons Convicted of Fraud or Other Defense-Contract-Related Felonies (DEC 2008)

@@ -1,5 +1,7 @@
 ##### 227.7200 Scope of subpart. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 This subpart -
 
 (a) Prescribes policies and procedures for the acquisition of computer software and computer software documentation, and the rights to use, modify, reproduce, release, perform, display, or disclose such software or documentation. It implements requirements in the following laws and Executive Order:

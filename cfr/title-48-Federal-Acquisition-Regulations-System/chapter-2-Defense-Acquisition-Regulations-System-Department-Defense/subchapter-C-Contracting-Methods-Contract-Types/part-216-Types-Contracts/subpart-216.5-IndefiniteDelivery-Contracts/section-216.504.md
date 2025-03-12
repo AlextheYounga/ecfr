@@ -1,5 +1,7 @@
 ##### 216.504 Indefinite-quantity contracts. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (c) *Multiple award preference* - (1) *Planning the acquisition.* (ii)(D)(*1*) The senior procurement executive has the authority to make the determination authorized in FAR 16.504(c)(1)(ii)(D)(*1*).
 
 (*i*) In accordance with section 816 of the National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232), when making the determination at FAR 16.504(c)(1)(ii)(D)(*1*)(*i*), the senior procurement executive shall determine that the task or delivery orders expected under the contract are so integrally related that only a single source can “efficiently perform the work,” instead of “reasonably perform the work” as required by the FAR.

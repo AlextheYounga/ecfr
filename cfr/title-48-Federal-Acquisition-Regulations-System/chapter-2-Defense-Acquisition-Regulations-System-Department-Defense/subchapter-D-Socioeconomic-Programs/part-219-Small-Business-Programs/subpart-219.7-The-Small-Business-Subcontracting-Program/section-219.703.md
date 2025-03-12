@@ -1,5 +1,7 @@
 ##### 219.703 Eligibility requirements for participating in the program. #####
 
+Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+
 (a) Qualified nonprofit agencies for the blind and other severely disabled, that have been approved by the Committee for Purchase from People Who Are Blind or Severely Disabled under 41 U.S.C. chapter 85, are eligible to participate in the program as a result of 10 U.S.C. 2410d and section 9077 of Pub. L. 102-396 and similar sections in subsequent Defense appropriations acts. Under this authority, subcontracts awarded to such entities may be counted toward the prime contractor's small business subcontracting goal.
 
 (b) A contractor may also rely on the written representation as to status of -

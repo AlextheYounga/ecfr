@@ -1,5 +1,7 @@
 ##### 252.232-7015 Performance-Based Payments - Representation. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 232.1005-70(b), use the following provision:
 
 Performance-Based Payments - Representation (APR 2020)

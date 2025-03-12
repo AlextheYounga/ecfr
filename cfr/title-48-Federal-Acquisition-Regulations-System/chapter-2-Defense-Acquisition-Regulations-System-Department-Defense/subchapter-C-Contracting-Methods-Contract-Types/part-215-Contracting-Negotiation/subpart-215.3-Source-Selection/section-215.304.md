@@ -1,5 +1,7 @@
 ##### 215.304 Evaluation factors and significant subfactors. #####
 
+Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+
 (c)(i) In acquisitions that require use of the clause at FAR 52.219-9, Small Business Subcontracting Plan, other than those based on the lowest price technically acceptable source selection process (see FAR 15.101-2), the extent of participation of small businesses (to include service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns) in performance of the contract shall be addressed in source selection. The contracting officer shall evaluate the extent to which offerors identify and commit to small business performance of the contract, whether as a joint venture, teaming arrangement, or subcontractor.
 
 (A) See PGI 215.304(c)(i)(A) for examples of evaluation factors.

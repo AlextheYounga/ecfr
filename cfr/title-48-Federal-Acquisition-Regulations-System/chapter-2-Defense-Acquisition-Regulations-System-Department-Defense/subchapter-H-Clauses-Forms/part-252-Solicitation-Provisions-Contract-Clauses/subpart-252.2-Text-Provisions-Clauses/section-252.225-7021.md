@@ -1,5 +1,7 @@
 ##### 252.225-7021 Trade agreements. #####
 
+                                                                                                                                                                                                                                Link to an amendment published at 87 FR 76986, Dec. 16, 2022.
+
                                                                                                                                                                                                                                 *Basic.* As prescribed in 225.1101(6) and (6)(i), use the following clause:
 
                                                                                                                                                                                                                                 Trade Agreements - Basic (MAR 2022)

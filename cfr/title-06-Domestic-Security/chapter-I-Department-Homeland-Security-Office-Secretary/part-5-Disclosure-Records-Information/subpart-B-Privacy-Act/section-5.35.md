@@ -1,3 +1,3 @@
 ##### § 5.35 Sanctions and penalties. #####
 
-Under the provisions of the Privacy Act, 5 U.S.C. 552a, civil and criminal penalties may be assessed.
+Each component will inform its employees and contractors of the Privacy Act's civil liability provisions (5 U.S.C. 552a(g)) and criminal penalty provisions (5 U.S.C. 552a(i)) as they apply to Privacy Act and JRA complaints.

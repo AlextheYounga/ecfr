@@ -1,5 +1,7 @@
 ##### 233.104 Protests to GAO. #####
 
+Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
+
 (c) *Protests after award.* (1) In lieu of the time periods in FAR 33.104(c)(1), contracting officers shall immediately suspend performance or terminate the awarded contract, task order, or delivery order upon notice from the GAO of a protest filed within the time periods listed in paragraphs (c)(1)(A) through (D) of this section, whichever is later, except as provided in FAR 33.104(c)(2) and (3) -
 
 (A) Within 10 days after the date of contract award;

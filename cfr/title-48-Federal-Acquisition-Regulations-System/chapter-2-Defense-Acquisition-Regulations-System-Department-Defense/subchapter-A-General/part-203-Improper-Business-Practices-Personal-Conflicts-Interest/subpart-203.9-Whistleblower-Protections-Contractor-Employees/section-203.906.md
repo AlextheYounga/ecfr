@@ -1,5 +1,7 @@
 ##### 203.906 Remedies. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (1) Not later than 30 days after receiving a DoD Inspector General report in accordance with 203.905, the head of the agency shall determine whether sufficient basis exists to conclude that the contractor has subjected the complainant to a reprisal as prohibited by 203.903 and shall either issue an order denying relief or shall take one or more of the following actions:
 
 (i) Order the contractor to take affirmative action to abate the reprisal.

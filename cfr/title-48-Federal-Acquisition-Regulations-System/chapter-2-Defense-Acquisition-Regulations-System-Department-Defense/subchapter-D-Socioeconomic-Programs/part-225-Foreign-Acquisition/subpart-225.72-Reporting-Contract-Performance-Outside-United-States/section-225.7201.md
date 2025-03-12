@@ -1,5 +1,7 @@
 ##### 225.7201 Policy. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 10 U.S.C. 2410g requires offerors and contractors to notify DoD of any intention to perform any part of a DoD contract outside the United States and Canada that -
 
 (a) Exceeds $750,000 in value; and

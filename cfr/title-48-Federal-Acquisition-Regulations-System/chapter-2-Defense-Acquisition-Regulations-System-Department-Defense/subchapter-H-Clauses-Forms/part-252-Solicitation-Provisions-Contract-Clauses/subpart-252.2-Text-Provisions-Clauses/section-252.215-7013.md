@@ -1,5 +1,7 @@
 ##### 252.215-7013 Supplies and Services Provided by Nontraditional Defense Contractors. #####
 
+Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+
 As prescribed in 215.408(6), use the following provision:
 
 Supples and Services Provided by Nontraditional Defense Contractors (JAN 2018)

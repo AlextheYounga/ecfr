@@ -1,5 +1,7 @@
 ##### 225.7002-2 Exceptions. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 Acquisitions in the following categories are not subject to the restrictions in 225.7002-1:
 
 (a) Acquisitions not exceeding $150,000, except for athletic footwear purchased by DoD for use by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the Armed Forces (section 817 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328)).

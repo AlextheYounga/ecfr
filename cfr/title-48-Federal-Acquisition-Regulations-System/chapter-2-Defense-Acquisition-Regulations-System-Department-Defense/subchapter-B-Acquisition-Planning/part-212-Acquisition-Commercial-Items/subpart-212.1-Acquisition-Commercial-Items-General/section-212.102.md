@@ -1,5 +1,7 @@
 ##### 212.102 Applicability. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a)(i) *Use of FAR part 12 procedures.* Use of FAR part 12 procedures is based on -
 
 (A) A determination that an item is a commercial item (see paragraph (a)(iii) of this section); or

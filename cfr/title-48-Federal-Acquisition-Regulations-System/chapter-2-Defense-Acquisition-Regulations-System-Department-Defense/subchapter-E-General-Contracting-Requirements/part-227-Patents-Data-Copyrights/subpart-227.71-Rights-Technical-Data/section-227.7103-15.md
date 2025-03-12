@@ -1,5 +1,7 @@
 ##### 227.7103-15 Subcontractor rights in technical data. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a) 10 U.S.C. 2320 provides subcontractors at all tiers the same protection for their rights in data as is provided to prime contractors. The clauses at 252.227-7013, Rights in Technical Data - Noncommercial Items, and 252.227-7037, Validation of Restrictive Markings on Technical Data, implement the statutory requirements.
 
 (b) 10 U.S.C. 2321 permits a subcontractor to transact directly with the Government matters relating to the validation of its asserted restrictions on the Government's rights to use or disclose technical data. The clause at 252.227-7037 obtains a contractor's agreement that the direct transaction of validation or challenge matters with subcontractors at any tier does not establish or imply privity of contract. When a subcontractor or supplier exercise its right to transact validation matters directly with the Government, contracting officers shall deal directly with such persons, as provided at 227.7103-13(c)(3).

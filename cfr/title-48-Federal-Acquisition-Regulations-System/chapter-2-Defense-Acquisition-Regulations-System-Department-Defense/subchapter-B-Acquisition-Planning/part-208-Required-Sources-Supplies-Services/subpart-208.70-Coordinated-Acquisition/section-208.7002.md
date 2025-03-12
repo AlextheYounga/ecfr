@@ -1,5 +1,7 @@
 ##### 208.7002 Assignment authority. #####
 
+Link to an amendment published at 87 FR 76990, Dec. 16, 2022.
+
 (a) Under the DoD Coordinated Acquisition Program, contracting responsibility for certain commodities is assigned to a single department, agency, or the General Services Administration (GSA). Commodity assignments are made -
 
 (1) To the departments and agencies, by the Deputy Under Secretary of Defense (Logistics);

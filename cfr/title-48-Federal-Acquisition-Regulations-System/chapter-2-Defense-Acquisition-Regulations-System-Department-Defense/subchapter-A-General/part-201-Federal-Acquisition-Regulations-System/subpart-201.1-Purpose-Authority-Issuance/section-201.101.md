@@ -1,5 +1,7 @@
 ##### 201.101 Purpose. #####
 
+Link to an amendment published at 87 FR 76989, Dec. 16, 2022.
+
 (1) The defense acquisition system, as defined in 10 U.S.C. 2545, exists to manage the investments of the United States in technologies, programs, and product support necessary to achieve the national security strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043) and to support the United States Armed Forces.
 
 (2) The investment strategy of DoD shall be postured to support not only the current United States armed forces, but also future armed forces of the United States.

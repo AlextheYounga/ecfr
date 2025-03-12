@@ -1,5 +1,7 @@
 ##### 209.570-2 Policy. #####
 
+Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
+
 (a) Except as provided in paragraph (b) of this subsection, 10 U.S.C. 2410p prohibits any entity performing lead system integrator functions in the acquisition of a major system by DoD from having any direct financial interest in the development or construction of any individual system or element of any system of systems.
 
 (b) The prohibition in paragraph (a) of this subsection does not apply if -

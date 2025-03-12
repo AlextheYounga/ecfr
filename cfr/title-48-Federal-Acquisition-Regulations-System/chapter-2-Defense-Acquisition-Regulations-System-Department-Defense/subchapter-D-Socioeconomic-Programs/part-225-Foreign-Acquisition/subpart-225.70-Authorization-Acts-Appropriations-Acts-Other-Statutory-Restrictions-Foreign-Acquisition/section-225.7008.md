@@ -1,5 +1,7 @@
 ##### 225.7008 Waiver of restrictions of 10 U.S.C. 2534. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 When specifically authorized by reference elsewhere in this subpart, the restrictions on certain foreign purchases under 10 U.S.C. 2534(a) may be waived as follows:
 
 (a)(1) The Under Secretary of Defense (Acquisition and Sustainment) (USD(A&S)), without power of delegation, may waive a restriction for a particular item for a particular foreign country upon determination that -

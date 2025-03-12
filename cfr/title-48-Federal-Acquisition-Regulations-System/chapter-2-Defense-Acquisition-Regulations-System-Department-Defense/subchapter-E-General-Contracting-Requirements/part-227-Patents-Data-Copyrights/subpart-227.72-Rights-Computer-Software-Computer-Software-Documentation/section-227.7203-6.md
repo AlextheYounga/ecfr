@@ -1,5 +1,7 @@
 ##### 227.7203-6 Contract clauses. #####
 
+Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+
 (a)(1) Use the clause at 252.227-7014, Rights in Noncommercial Computer Software and Noncommercial Computer Software Documentation, in solicitations and contracts when the successful offeror(s) will be required to deliver computer software or computer software documentation. Do not use the clause when the only deliverable items are technical data (other than computer software documentation), commercial computer software or commercial computer software documentation, commercial items (see 227.7102-3), special works (see 227.7205), or contracts under the Small Business Innovation Research Program (see 227.7104), Except as provided in 227.7107-2, do not use the clause in architect-engineer and construction contracts.
 
 (2) Use the clause at 252.227-7014 with its Alternate I in research contracts when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be -

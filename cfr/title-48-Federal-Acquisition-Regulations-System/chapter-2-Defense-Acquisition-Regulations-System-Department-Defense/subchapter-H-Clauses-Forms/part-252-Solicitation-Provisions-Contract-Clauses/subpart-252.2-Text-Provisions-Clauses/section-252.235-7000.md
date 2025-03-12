@@ -1,5 +1,7 @@
 ##### 252.235-7000 Indemnification under 10 U.S.C. 2354 - fixed price. #####
 
+Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+
 As prescribed in 235.070-3, use the following clause:
 
 Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
