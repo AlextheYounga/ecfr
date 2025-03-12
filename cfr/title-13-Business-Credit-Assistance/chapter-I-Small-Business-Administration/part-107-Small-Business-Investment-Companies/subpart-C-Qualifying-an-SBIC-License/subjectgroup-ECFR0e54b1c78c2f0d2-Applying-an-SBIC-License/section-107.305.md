@@ -1,5 +1,7 @@
 ##### § 107.305 Evaluation of license applicants. #####
 
+Link to an amendment published at 88 FR 46008, July 18, 2023.
+
 SBA will evaluate a license applicant based on the submitted application materials, any interviews with the applicant's management team, and the results of background investigations, public record searches, and other due diligence conducted by SBA and other Federal agencies. SBA's evaluation will consider factors including the following:
 
 (a) Management qualifications, including demonstrated investment skills and experience as a principal investor; business reputation; adherence to legal and ethical standards; record of active involvement in making and monitoring investments and assisting portfolio companies; successful history of working as a team; and experience in developing appropriate processes for evaluating investments and implementing best practices for investment firms.

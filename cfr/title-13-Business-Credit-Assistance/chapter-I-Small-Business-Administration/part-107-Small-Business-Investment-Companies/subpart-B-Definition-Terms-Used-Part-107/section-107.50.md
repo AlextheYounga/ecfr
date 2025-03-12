@@ -1,5 +1,7 @@
 ##### § 107.50 Definition of terms. #####
 
+Link to an amendment published at 88 FR 46005, July 18, 2023.
+
 *Accumulated Prioritized Payments* has the meaning set forth in § 107.1520.
 
 *Act* means the Small Business Investment Act of 1958, as amended.

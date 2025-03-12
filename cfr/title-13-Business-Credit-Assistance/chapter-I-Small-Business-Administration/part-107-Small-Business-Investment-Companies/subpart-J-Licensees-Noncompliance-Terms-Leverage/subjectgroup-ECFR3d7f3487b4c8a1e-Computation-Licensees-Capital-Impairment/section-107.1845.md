@@ -1,5 +1,7 @@
 ##### § 107.1845 Determination of Capital Impairment Percentage for Early Stage SBICs. #####
 
+Link to an amendment published at 88 FR 46013, July 18, 2023.
+
 This section applies to Early Stage SBICs only. Except as modified by this section, all provisions of § 107.1840 apply to an Early Stage SBIC.
 
 (a) To determine your Class 2 Appreciation under § 107.1840(d)(3), use the following provisions instead of § 107.1840(d)(3)(iii):

@@ -1,5 +1,7 @@
 ##### § 107.1150 Maximum amount of Leverage for a Section 301(c) Licensee. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 A Section 301(c) Licensee, other than an Early Stage SBIC, may have maximum outstanding Leverage as set forth in paragraphs (a), (b), (d), and (e) of this section. An Early Stage SBIC may have maximum outstanding Leverage as set forth in paragraph (c) of this section. In general, SBA will approve Leverage commitment requests in excess of 200 percent of Regulatory Capital and draw requests in excess of 200 percent of Leverageable Capital only after a Licensee has demonstrated consistent, sustainable profitability based on a conservative investment strategy that limits downside risk. Any such Leverage request must be supported by an up-to-date business plan that reflects continuation of the Licensee's successful investment strategy and demonstrates the Licensee's ability to pay all SBA obligations in accordance with their terms.
 
 (a) *Individual Licensee.* Subject to SBA's credit policies, if you are a Section 301(c) Licensee, the maximum amount of Leverage you may have outstanding at any time is the lesser of:

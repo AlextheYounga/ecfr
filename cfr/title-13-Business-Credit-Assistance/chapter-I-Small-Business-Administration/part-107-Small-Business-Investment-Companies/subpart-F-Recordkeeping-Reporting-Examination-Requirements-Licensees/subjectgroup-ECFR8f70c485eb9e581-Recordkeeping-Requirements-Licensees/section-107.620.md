@@ -1,5 +1,7 @@
 ##### § 107.620 Requirements to obtain information from Portfolio Concerns. #####
 
+Link to an amendment published at 88 FR 46010, July 18, 2023.
+
 All the information required by this section is subject to the requirements of § 107.600 and must be in English.
 
 (a) *Information for initial Financing decision.* Before extending any Financing, you must require the applicant to submit such financial statements, plans of operation (including intended use of financing proceeds), cash flow analyses and projections as are necessary to support your investment decision. The information submitted must be consistent with the size and type of the business and the amount of the proposed Financing.

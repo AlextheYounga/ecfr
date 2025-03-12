@@ -1,5 +1,7 @@
 ##### § 107.660 Other items required to be filed by Licensee with SBA. #####
 
+Link to an amendment published at 88 FR 46011, July 18, 2023.
+
 (a) *Reports to owners.* You must give SBA a copy of any report you furnish to your investors, including any prospectus, letter, or other publication concerning your financial operations or those of any Portfolio Concern.
 
 (b) *Documents filed with SEC.* You must give SBA a copy of any report, application or document you file with the Securities and Exchange Commission.

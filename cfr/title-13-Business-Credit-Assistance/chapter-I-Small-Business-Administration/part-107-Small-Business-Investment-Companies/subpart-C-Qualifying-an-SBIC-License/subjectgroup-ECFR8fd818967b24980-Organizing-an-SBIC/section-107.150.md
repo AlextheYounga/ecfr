@@ -1,5 +1,7 @@
 ##### § 107.150 Management-ownership diversity requirement. #####
 
+Link to an amendment published at 88 FR 46007, July 18, 2023.
+
 (a) *Diversity requirement.* You must satisfy the requirements in paragraphs (b), (c) and (d) of this section:
 
 (1) In order to obtain an SBIC license (unless you do not plan to obtain Leverage),

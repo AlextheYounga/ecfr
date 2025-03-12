@@ -1,5 +1,7 @@
 ##### § 107.1120 General eligibility requirements for Leverage. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 To be eligible for Leverage, you must:
 
 (a) Demonstrate a need for Leverage, evidenced by your investment activity and a lack of sufficient funds for investment. For your first issuance of Leverage, if you have invested at least 50 percent of your Leverageable Capital, you are presumed to lack sufficient funds for investment.

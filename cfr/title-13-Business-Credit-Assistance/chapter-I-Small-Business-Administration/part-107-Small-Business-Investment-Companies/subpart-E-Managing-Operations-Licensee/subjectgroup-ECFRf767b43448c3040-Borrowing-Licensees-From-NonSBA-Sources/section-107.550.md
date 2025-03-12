@@ -1,5 +1,7 @@
 ##### § 107.550 Prior approval of secured third-party debt of leveraged Licensees. #####
 
+Link to an amendment published at 88 FR 46009, July 18, 2023.
+
 (a) *Definition.* In this § 107.550, “secured third-party debt” means any non-SBA debt secured by any of your assets, including secured guarantees and other contingent obligations that you voluntarily assume, secured lines of credit, and secured Temporary Debt of a Licensee with outstanding Participating Securities.
 
 (b) *General rule.* If you have outstanding Leverage, you must get SBA's written approval before you incur any secured third-party debt or refinance any debt with secured third-party debt, including any renewal of a secured line of credit, increase in the maximum amount available under a secured line of credit, or expansion of the scope of a security interest or lien. For purposes of this paragraph (b), “expansion of the scope of a security interest or lien” does not include the substitution of one asset or group of assets for another, provided the asset values (as reported on your most recent annual Form 468) are comparable.

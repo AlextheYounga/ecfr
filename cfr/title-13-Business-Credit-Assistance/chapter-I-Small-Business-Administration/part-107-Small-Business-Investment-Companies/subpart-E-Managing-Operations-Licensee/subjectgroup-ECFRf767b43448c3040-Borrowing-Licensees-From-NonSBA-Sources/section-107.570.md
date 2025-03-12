@@ -1,5 +1,7 @@
 ##### § 107.570 Restrictions on third-party debt of issuers of Participating Securities. #####
 
+Link to an amendment published at 88 FR 46009, July 18, 2023.
+
 (a) *General.* Temporary Debt is the only debt (other than Leverage) that you are permitted to incur if you have applied to issue Participating Securities or if you have outstanding Participating Securities. For additional rules governing secured Temporary Debt, see § 107.550.
 
 (b) *Definition of Temporary Debt.* Temporary Debt means your short-term borrowings if:

@@ -1,5 +1,7 @@
 ##### § 107.1000 Licensees without Leverage—exceptions to the regulations. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 The regulatory exceptions in this section apply to Licensees with no outstanding Leverage or Earmarked Assets.
 
 (a) You are exempt from the following provisions (but you must come into compliance with them to become eligible for Leverage):

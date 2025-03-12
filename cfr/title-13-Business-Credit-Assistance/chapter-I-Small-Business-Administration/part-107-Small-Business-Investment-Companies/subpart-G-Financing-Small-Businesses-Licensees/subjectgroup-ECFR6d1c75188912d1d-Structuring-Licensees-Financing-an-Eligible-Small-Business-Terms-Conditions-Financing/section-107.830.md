@@ -1,5 +1,7 @@
 ##### § 107.830 Minimum duration/term of financing. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 (a) *General rule.* The duration/term of all your Financings must be for a minimum period of one year.
 
 (b) *Restrictions on mandatory redemption of Equity Securities.* If you have acquired Equity Securities, options or warrants on terms that include redemption by the Small Business, you must not require redemption by the Small Business within the first year of your acquisition except as permitted in § 107.850.

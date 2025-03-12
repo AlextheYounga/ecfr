@@ -1,5 +1,7 @@
 ##### § 107.1850 Exceptions to Capital Impairment provisions for Licensees with outstanding Participating Securities. #####
 
+Link to an amendment published at 88 FR 46013, July 18, 2023.
+
 The provisions in this § 107.1850 apply only if at least two-thirds of your outstanding Leverage consists of Participating Securities, and at least two-thirds of your Loans and Investments (at cost) consist of Equity Capital Investments.
 
 (a) *Forbearance period for Participating Securities issuers.* During the first forty-eight (48) months following your first issuance of Participating Securities, you will not have a condition of Capital Impairment if your Capital Impairment Percentage is below 85 percent.

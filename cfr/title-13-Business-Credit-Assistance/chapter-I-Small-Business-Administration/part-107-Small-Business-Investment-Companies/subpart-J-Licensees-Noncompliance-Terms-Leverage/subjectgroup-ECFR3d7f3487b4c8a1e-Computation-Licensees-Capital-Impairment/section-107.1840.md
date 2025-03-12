@@ -1,5 +1,7 @@
 ##### § 107.1840 Computation of Licensee's Capital Impairment Percentage. #####
 
+Link to an amendment published at 88 FR 46013, July 18, 2023.
+
 (a) *General.* This section contains the procedures you must use to determine your Capital Impairment Percentage if you have outstanding Leverage issued after April 25, 1994. You must compare your Capital Impairment Percentage to the maximum permitted under § 107.1830(c) to determine whether you have a condition of Capital Impairment.
 
 (b) *Preliminary impairment test.* If you satisfy the preliminary impairment test, your Capital Impairment Percentage is zero and you do not have to perform any more procedures in this § 107.1840. Otherwise, you must continue with paragraph (c) of this section. You satisfy the test if the following amounts are both zero or greater:

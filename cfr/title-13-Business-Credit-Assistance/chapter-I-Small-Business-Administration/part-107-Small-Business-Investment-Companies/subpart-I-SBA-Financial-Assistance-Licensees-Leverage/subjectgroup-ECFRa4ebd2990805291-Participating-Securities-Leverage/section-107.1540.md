@@ -1,5 +1,7 @@
 ##### § 107.1540 Distributions by Licensee—Prioritized Payments and Adjustments. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 After you compute Prioritized Payments and Adjustments under § 107.1520, you must distribute them in accordance with this § 107.1540. You must notify SBA of any planned distribution under this section 10 business days before the distribution date, unless SBA permits otherwise.
 
 (a) *Requirement to distribute Prioritized Payments and Adjustments.* This paragraph (a) applies only if you satisfy the liquidity requirement in § 107.1505. All Distributions under this paragraph (a) go to SBA or its designated agent or trustee.

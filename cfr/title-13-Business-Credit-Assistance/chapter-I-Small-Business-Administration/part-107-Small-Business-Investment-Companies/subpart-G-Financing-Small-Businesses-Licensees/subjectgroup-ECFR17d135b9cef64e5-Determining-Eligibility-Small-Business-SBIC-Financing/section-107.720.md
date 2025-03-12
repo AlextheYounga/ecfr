@@ -1,5 +1,7 @@
 ##### § 107.720 Small Businesses that may be ineligible for financing. #####
 
+Link to an amendment published at 88 FR 46011, July 18, 2023.
+
 (a) *Relenders or reinvestors.* You are not permitted to finance any business that is a relender or reinvestor.
 
 (1) *Definition.* Relenders or reinvestors are businesses whose primary business activity involves, directly or indirectly, providing funds to others, purchasing debt obligations, factoring, or long-term leasing of equipment with no provision for maintenance or repair.

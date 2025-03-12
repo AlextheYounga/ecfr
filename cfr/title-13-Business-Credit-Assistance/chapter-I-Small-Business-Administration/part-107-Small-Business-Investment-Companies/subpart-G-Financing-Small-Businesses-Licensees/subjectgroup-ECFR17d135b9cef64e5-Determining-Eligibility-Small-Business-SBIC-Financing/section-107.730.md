@@ -1,5 +1,7 @@
 ##### § 107.730 Financings which constitute conflicts of interest. #####
 
+Link to an amendment published at 88 FR 46011, July 18, 2023.
+
 (a) *General rule.* You must not self-deal to the prejudice of a Small Business, the Licensee, its shareholders or partners, or SBA. Unless you obtain a prior written exemption from SBA for special instances in which a Financing may further the purposes of the Act despite presenting a conflict of interest, you must not directly or indirectly:
 
 (1) Provide Financing to any of your Associates, except for a Financing to an Associate that meets all of the following conditions:

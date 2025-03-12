@@ -1,5 +1,7 @@
 ##### § 107.1830 Licensee's Capital Impairment—definition and general requirements. #####
 
+Link to an amendment published at 88 FR 46012, July 18, 2023.
+
 (a) *Applicability of this section.* This section applies to Leverage issued on or after April 25, 1994. For Leverage issued before April 25, 1994, you must comply with paragraphs (e) and (f) of this section and the Capital Impairment regulations in this part in effect when you issued your Leverage. For all Leverage issued, you must also comply with any contractual provisions to which you have agreed.
 
 (b) *Significance of Capital Impairment condition.* If you have a condition of Capital Impairment, you are not in compliance with the terms of your Leverage. As a result, SBA has the right to impose the applicable remedies for noncompliance in §§ 107.1810(g) and 107.1820(f).

@@ -1,5 +1,7 @@
 ##### § 107.300 License application form and fee. #####
 
+Link to an amendment published at 88 FR 46007, July 18, 2023.
+
 SBA evaluates license applicants in two review phases (initial review and final licensing), as follows:
 
 (a) *Initial review.* Except as provided in this paragraph, SBIC applicants must submit a MAQ and the Initial Licensing Fee. MAQ means the Management Assessment Questionnaire in the form approved by SBA and available on SBA's Web site at *www.sba.gov/sbic.* Initial Licensing Fee means a non-refundable fee of $10,000. An applicant under Common Control with one or more Licensees must submit a written request to SBA, and the Initial Licensing Fee, to be considered for a license and is exempt from the requirement in this paragraph to submit a MAQ unless otherwise determined by SBA in SBA's discretion.

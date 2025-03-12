@@ -1,5 +1,7 @@
 ##### § 107.590 Licensee's requirement to maintain active operations. #####
 
+Link to an amendment published at 88 FR 46010, July 18, 2023.
+
 (a) *Activity test.* You must conduct active operations, as determined under this § 107.590, as a condition of your license. You will be considered active if:
 
 (1) During the eighteen months preceding your most recent fiscal year end, you made Financings totaling at least 20 percent of your Regulatory Capital; or

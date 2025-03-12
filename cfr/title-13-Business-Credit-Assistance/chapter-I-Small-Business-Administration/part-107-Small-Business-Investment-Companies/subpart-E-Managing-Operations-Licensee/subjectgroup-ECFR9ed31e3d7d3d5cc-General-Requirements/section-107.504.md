@@ -1,5 +1,7 @@
 ##### § 107.504 Equipment and office requirements. #####
 
+Link to an amendment published at 88 FR 46009, July 18, 2023.
+
 (a) *Computer capability.* You must have a personal computer with a modem, and be able to use this equipment to prepare reports (using SBA-provided software) and transmit them to SBA. In addition, by March 31, 2000, you must have access to the Internet and the capability to send and receive electronic mail via the Internet.
 
 (b) *Facsimile capability.* You must be able to receive facsimile messages 24 hours per day at your primary office.
