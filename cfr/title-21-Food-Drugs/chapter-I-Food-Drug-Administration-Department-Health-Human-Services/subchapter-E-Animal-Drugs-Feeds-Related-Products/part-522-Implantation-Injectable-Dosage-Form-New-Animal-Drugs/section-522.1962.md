@@ -6,7 +6,7 @@
 
 (1) No. 054771 for use as in paragraphs (c)(1)(i)(A), (c)(1)(ii)(A), (c)(1)(iii), and (c)(2) of this section.
 
-(2) No. 061623 for use as in paragraphs (c)(1)(i)(B), (c)(1)(ii)(B), and (c)(1)(iii) of this section.
+(2) No. 061133 for use as in paragraphs (c)(1)(i)(B), (c)(1)(ii)(B), and (c)(1)(iii) of this section.
 
 (c) *Conditions of use* - (1) *Horses* - (i) *Amount* - (A) 0.2 to 0.5 milligrams per pounds (mg/lb) body weight intramuscularly or intravenously every 4 to 6 hours.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[46 FR 18962, Mar. 27, 1981, as amended at 68 FR 59881, Oct. 20, 2003; 70 FR 50183, Aug. 26, 2005; 79 FR 16194, Mar. 25, 2014]
+[46 FR 18962, Mar. 27, 1981, as amended at 68 FR 59881, Oct. 20, 2003; 70 FR 50183, Aug. 26, 2005; 79 FR 16194, Mar. 25, 2014; 84 FR 8974, Mar. 13, 2019]

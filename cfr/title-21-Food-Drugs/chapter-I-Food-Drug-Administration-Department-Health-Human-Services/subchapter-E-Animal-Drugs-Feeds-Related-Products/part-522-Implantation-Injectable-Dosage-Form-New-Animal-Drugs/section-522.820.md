@@ -1,14 +1,14 @@
 ##### § 522.820 Erythromycin. #####
 
-(a) *Specifications* - (1) Each milliliter (mL) of solution contains 100 milligrams (mg) erythromycin base.
+(a) *Specifications*—(1) Each milliliter (mL) of solution contains 100 milligrams (mg) erythromycin base.
 
 (2) Each mL of solution contains 200 mg erythromycin base.
 
-(b) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.230 of this chapter.
 
-(d) *Conditions of use* - (1) *Dog.* Administer product described in paragraph (a)(1) of this section as follows:
+(d) *Conditions of use*—(1) *Dog.* Administer product described in paragraph (a)(1) of this section as follows:
 
 (i) *Amount.* 3 to 5 mg per pound (/lb) body weight, intramuscularly, two to three times daily, for up to 5 days.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Do not use in female dairy cattle over 20 months of age. Do not slaughter treated animals within 6 days of last treatment. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal. To avoid excess trim, do not slaughter within 21 days of last injection.
 
-[72 FR 69142, Dec. 7, 2007, as amended at 79 FR 16187, Mar. 25, 2014]
+[72 FR 69142, Dec. 7, 2007, as amended at 79 FR 16187, Mar. 25, 2014; 84 FR 8973, Mar. 13, 2019]

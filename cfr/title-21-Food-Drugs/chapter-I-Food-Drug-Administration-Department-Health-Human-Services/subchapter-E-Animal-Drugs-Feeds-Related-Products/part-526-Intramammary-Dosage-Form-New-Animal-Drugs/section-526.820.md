@@ -8,7 +8,7 @@
 
 (4) The drug may or may not be sterile.
 
-(b) *Sponsor.* See Nos. 054771 and 061623 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See Nos. 054771 and 061133 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use* - (1) *Amount.* (i) Lactating cows: After milking, cleaning, and disinfecting, infuse contents of a single 6-milliliter syringe into each infected quarter; repeat procedure at 12-hour intervals for a maximum of 3 consecutive infusions.
 
@@ -18,4 +18,4 @@
 
 (3) *Limitations.* Milk taken from animals during treatment and for 36 hours (3 milkings) after the latest treatment must not be used for food.
 
-[47 FR 15772, Apr. 13, 1982, as amended at 66 FR 14074, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 79 FR 10973, Feb. 27, 2014]
+[47 FR 15772, Apr. 13, 1982, as amended at 66 FR 14074, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 79 FR 10973, Feb. 27, 2014; 84 FR 8974, Mar. 13, 2019]

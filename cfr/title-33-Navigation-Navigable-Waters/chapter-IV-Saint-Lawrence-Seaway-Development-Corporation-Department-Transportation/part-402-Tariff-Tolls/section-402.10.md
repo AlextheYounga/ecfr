@@ -1,5 +1,7 @@
 ##### § 402.10 Post-clearance date operational surcharges. #####
 
+Link to an amendment published at 84 FR 8985, Mar. 13, 2019.
+
 (a) Subject to paragraph (b) of this section, a vessel that reports for its final transit of the Seaway from a place set out in column 1 of § 402.12 within a period after the clearance date established by the Manager and the Corporation set out in column 2 of § 402.12 shall pay operational surcharges in the amount set out in column 3 of § 402.12, prorated on a per-lock basis.
 
 (b) If surcharges are postponed for operational or climatic reasons, a vessel that reports for its final transit of the Seaway from a place set out in column 1 within a period after the clearance date established by the Manager and the Corporation set out in column 2 shall pay operational surcharges in the amount set out in column 3, prorated on a per-lock basis.

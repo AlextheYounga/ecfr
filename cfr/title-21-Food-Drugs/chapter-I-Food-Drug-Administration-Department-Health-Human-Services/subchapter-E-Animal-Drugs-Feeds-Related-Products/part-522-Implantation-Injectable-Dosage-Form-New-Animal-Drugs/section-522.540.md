@@ -4,11 +4,11 @@
 
 (2) *Sponsors.* See sponsors in § 510.600(c) of this chapter:
 
-(i) Nos. 000061, 016592, and 061623 for use as in paragraph (a)(3) of this section.
+(i) Nos. 000061, 016592, and 061133 for use as in paragraph (a)(3) of this section.
 
 (ii) *Sponsors.* See Nos. 054925 and 058005 for use as in paragraphs (a)(3)(i)(C), (a)(3)(i)(D), (a)(3)(ii)(A), and (a)(3)(iii) of this section.
 
-(3) *Conditions of use* - (i) *Amount.* The drug is administered intravenously or intramuscularly and dosage may be repeated if necessary, as follows:
+(3) *Conditions of use*—(i) *Amount.* The drug is administered intravenously or intramuscularly and dosage may be repeated if necessary, as follows:
 
 (A) *Dogs.* 0.25 to 1 mg.
 
@@ -28,9 +28,9 @@
 
 (b)(1) *Specifications.* Each milliliter of solution contains 2.0 mg of dexamethasone or 4.0 mg of dexamethasone sodium phosphate (equivalent to 3.0 mg dexamethasone).
 
-(2) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
 
-(3) *Conditions of use* - (i) *Amount.* Administer 0.25 to 1 mg by intravenous injection, repeated for 3 to 5 days or until a response is noted.
+(3) *Conditions of use*—(i) *Amount.* Administer 0.25 to 1 mg by intravenous injection, repeated for 3 to 5 days or until a response is noted.
 
 (ii) *Indications for use.* For use in dogs for the treatment of inflammatory conditions, as supportive therapy in canine posterior paresis, as supportive therapy before or after surgery to enhance recovery of poor surgical risks, and as supportive therapy in nonspecific dermatosis.
 
@@ -38,9 +38,9 @@
 
 (c)(1) *Specifications.* Each milliliter of solution contains 2.0 mg of dexamethasone or 4.0 mg of dexamethasone sodium phosphate (equivalent to 3.0 mg of dexamethasone).
 
-(2) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
 
-(3) *Conditions of use* - (i) *Amount.* Administer 2.5 to 5.0 mg by intravenous injection.
+(3) *Conditions of use*—(i) *Amount.* Administer 2.5 to 5.0 mg by intravenous injection.
 
 (ii) *Indications for use.* For use in horses as a rapid adrenal glucocorticoid and/or anti-inflammatory agent.
 
@@ -54,7 +54,7 @@
 
 (ii) No. 054771 for intravenous use of 2.0 milligrams dexamethasone injection.
 
-(3) *Conditions of use* - (i) *Amount.* Administer by intravenous or intramuscular injection as follows:
+(3) *Conditions of use*—(i) *Amount.* Administer by intravenous or intramuscular injection as follows:
 
 (A) *Dogs:* 0.25 to 1 mg.
 
@@ -70,7 +70,7 @@
 
 (2) *Sponsor.* See No. 069043 in § 510.600(c) of this chapter.
 
-(3) *Conditions of use* - (i) *Amount.* Administer by intravenous injection as follows:
+(3) *Conditions of use*—(i) *Amount.* Administer by intravenous injection as follows:
 
 (A) *Dogs:* 0.25 to 1 mg; may be repeated for 3 to 5 days.
 

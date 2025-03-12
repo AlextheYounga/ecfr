@@ -8,7 +8,7 @@
 
 (1) No. 054771 for use of product described in paragraph (a)(1) as in paragraph (c) of this section.
 
-(2) Nos. 000061, 000859, 054771, and 061623 for use of product described in paragraph (a)(2) as in paragraph (c) of this section.
+(2) Nos. 000061, 000859, 054771, and 061133 for use of product described in paragraph (a)(2) as in paragraph (c) of this section.
 
 (3) Nos. 058005 and 069043 for use of product described in paragraph (a)(2) as in paragraph (c)(2) of this section.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16193, Mar. 25, 2014, as amended at 83 FR 48946, Sept. 28, 2018]
+[79 FR 16193, Mar. 25, 2014, as amended at 83 FR 48946, Sept. 28, 2018; 84 FR 8974, Mar. 13, 2019]

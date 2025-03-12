@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter of sterile solution contains 200 milligrams of oxytetracycline base.
 
-(b) *Sponsors.* See Nos. 000010, 016592, 048164, 054771, 055529, and 061623 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 000010, 016592, 048164, 054771, 055529, and 061133 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.500 of this chapter.
 

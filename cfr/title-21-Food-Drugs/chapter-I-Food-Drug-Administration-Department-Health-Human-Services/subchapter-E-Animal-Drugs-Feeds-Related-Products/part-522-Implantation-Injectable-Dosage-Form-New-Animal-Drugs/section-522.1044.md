@@ -10,7 +10,7 @@
 
 (3) No. 069043 for use of 50 mg/mL solution in dogs as in paragraph (d)(5) of this section.
 
-(4) Nos. 016592 and 061623 for use of 100 mg/mL solution in turkeys as in paragraph (d)(2) and in chickens as in paragraph (d)(3) of this section.
+(4) Nos. 016592 and 061133 for use of 100 mg/mL solution in turkeys as in paragraph (d)(2) and in chickens as in paragraph (d)(3) of this section.
 
 (c) *Related tolerances.* See § 556.300 of this chapter.
 
@@ -46,4 +46,4 @@
 
 (iii) *Limitations.* Administer intramuscularly or subcutaneously. If no improvement is seen after 3 days, treatment should be discontinued and the diagnosis reevaluated. Treatment not to exceed 7 days. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[43 FR 1942, Jan. 13, 1978, as amended at 48 FR 791, Jan. 7, 1983; 51 FR 15606, Apr. 25, 1986; 52 FR 7832, Mar. 13, 1987; 53 FR 40727, Oct. 18, 1988; 60 FR 29985, June 7, 1995; 61 FR 24441, May 15, 1996; 62 FR 45157, Aug. 26, 1997; 63 FR 59714, Nov. 5, 1998; 63 FR 68182, Dec. 10, 1998; 65 FR 45877, July 26, 2000; 71 FR 76901, Dec. 22, 2006; 78 FR 17597, Mar. 22, 2013; 78 FR 21060, Apr. 9, 2013; 79 FR 21127, Apr. 15, 2014; 81 FR 22524, Apr. 18, 2016; 83 FR 48946, Sept. 28, 2018]
+[43 FR 1942, Jan. 13, 1978, as amended at 48 FR 791, Jan. 7, 1983; 51 FR 15606, Apr. 25, 1986; 52 FR 7832, Mar. 13, 1987; 53 FR 40727, Oct. 18, 1988; 60 FR 29985, June 7, 1995; 61 FR 24441, May 15, 1996; 62 FR 45157, Aug. 26, 1997; 63 FR 59714, Nov. 5, 1998; 63 FR 68182, Dec. 10, 1998; 65 FR 45877, July 26, 2000; 71 FR 76901, Dec. 22, 2006; 78 FR 17597, Mar. 22, 2013; 78 FR 21060, Apr. 9, 2013; 79 FR 21127, Apr. 15, 2014; 81 FR 22524, Apr. 18, 2016; 83 FR 48946, Sept. 28, 2018; 84 FR 8973, Mar. 13, 2019]

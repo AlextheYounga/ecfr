@@ -8,7 +8,7 @@
 
 (2) No. 054771 for use of the 5 mg/mL product as in paragraphs (d)(1), (2), and (3) of this section.
 
-(3) No. 061623 for use of the 5 mg/mL product as in paragraphs (d)(2), (3), and (4) of this section.
+(3) No. 061133 for use of the 5 mg/mL product as in paragraphs (d)(2), (3), and (4) of this section.
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -62,4 +62,4 @@
 
 (v) Dinoprost injection as provided by No. 054771 in § 510.600(c) of this chapter may also be used concurrently with gonadorelin hydrochloride injection as in § 522.1077 and with progesterone intravaginal inserts as in § 529.1940 of this chapter.
 
-[67 FR 41824, June 20, 2002, as amended at 79 FR 16187, Mar. 25, 2014; 79 FR 44278, July 31, 2014; 79 FR 64116, Oct. 28, 2014; 80 FR 61296, Oct. 13, 2015; 80 FR 76386, Dec. 9, 2015; 81 FR 36789, June 8, 2016]
+[67 FR 41824, June 20, 2002, as amended at 79 FR 16187, Mar. 25, 2014; 79 FR 44278, July 31, 2014; 79 FR 64116, Oct. 28, 2014; 80 FR 61296, Oct. 13, 2015; 80 FR 76386, Dec. 9, 2015; 81 FR 36789, June 8, 2016; 84 FR 8973, Mar. 13, 2019]

@@ -34,7 +34,7 @@
 
 (b) *Notice provided to Board.* The Reserve Bank shall immediately send to the Board a copy of any notice received under paragraphs (a)(2) or (a)(3) of this section.
 
-(c) *Notice to public* - (1) *Listed activities and activities approved by order* - (i) In a case involving an activity listed in § 225.28 or previously approved by the Board by order, the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
+(c) *Notice to public* - (1) *Listed activities and activities approved by order.* (i) In a case involving an activity listed in § 225.28 or previously approved by the Board by order, the Reserve Bank shall notify the Board for publication in the Federal Register immediately upon receipt by the Reserve Bank of:
 
 (A) A notice under this section; or
 

@@ -10,7 +10,7 @@
 
 (1) No. 050604 for use of the product described in paragraph (a)(1) of this section as in paragraph (e)(1) of this section; the product described in paragraph (a)(2) of this section as in paragraphs (e)(2), (e)(3), (e)(4), and (e)(5) of this section; and the product described in paragraph (a)(3) of this section as in paragraphs (e)(3) and (e)(6) of this section.
 
-(2) Nos. 016592, 055529, 058005, and 061623 for use of the product described in paragraph (a)(2) of this section as in paragraphs (e)(2), (e)(3), (e)(4), and (e)(5) of this section.
+(2) Nos. 016592, 055529, 058005, and 061133 for use of the product described in paragraph (a)(2) of this section as in paragraphs (e)(2), (e)(3), (e)(4), and (e)(5) of this section.
 
 (d) *Special considerations* - (1) See § 500.25 of this chapter.
 
@@ -50,4 +50,4 @@
 
 (ii) *Indications for use.* For treatment and control of ear mites (*Otodectes cynotis*).
 
-[72 FR 27735, May 17, 2007, as amended at 72 FR 62771, Nov. 7, 2007; 74 FR 9049, Mar. 2, 2009; 75 FR 26647, May 12, 2010; 76 FR 57906, Sept. 19, 2011; 78 FR 17597, Mar. 22, 2013; 81 FR 59134, Aug. 29, 2016]
+[72 FR 27735, May 17, 2007, as amended at 72 FR 62771, Nov. 7, 2007; 74 FR 9049, Mar. 2, 2009; 75 FR 26647, May 12, 2010; 76 FR 57906, Sept. 19, 2011; 78 FR 17597, Mar. 22, 2013; 81 FR 59134, Aug. 29, 2016; 84 FR 8974, Mar. 13, 2019]

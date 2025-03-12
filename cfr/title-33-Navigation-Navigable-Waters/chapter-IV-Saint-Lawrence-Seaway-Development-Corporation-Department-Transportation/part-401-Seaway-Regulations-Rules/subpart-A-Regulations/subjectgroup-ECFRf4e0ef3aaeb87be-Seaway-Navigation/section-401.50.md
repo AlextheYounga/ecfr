@@ -1,5 +1,7 @@
 ##### § 401.50 Anchorage areas. #####
 
+Link to an amendment published at 84 FR 8984, Mar. 13, 2019.
+
 Except in an emergency, or unless authorized to do so by the traffic controller, no vessel shall drop anchor in any part of the Seaway except in the following designated anchorage areas:
 
 (a) Point Fortier (Lake St. Louis).

@@ -132,7 +132,7 @@
 
 (k)(1) *Specifications.* Each milliliter of sterile solution contains either 50 or 100 milligrams of oxytetracycline hydrochloride.
 
-(2) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use in beef cattle and nonlactating dairy cattle* - (i) *Amount.* 3 to 5 milligrams per pound of body weight daily, 5 milligrams per pound for anaplasmosis, severe foot rot, and severe forms of other diseases.
 

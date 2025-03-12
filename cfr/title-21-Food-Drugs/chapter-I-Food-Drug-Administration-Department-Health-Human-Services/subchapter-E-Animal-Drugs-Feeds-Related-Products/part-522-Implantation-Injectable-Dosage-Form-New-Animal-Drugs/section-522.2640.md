@@ -6,7 +6,7 @@
 
 (1) No. 000986 for use of 50- or 200-mg/mL solutions as in paragraph (e) of this section.
 
-(2) Nos. 000010 and 061623 for use of a 200-mg/mL solution as in paragraphs (e)(1) and (2) of this section.
+(2) Nos. 000010 and 061133 for use of a 200-mg/mL solution as in paragraphs (e)(1) and (2) of this section.
 
 (c) *Related tolerances.* See § 556.740 of this chapter.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[81 FR 67151, Sept. 30, 2016]
+[81 FR 67151, Sept. 30, 2016, as amended at 84 FR 8974, Mar. 13, 2019]

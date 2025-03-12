@@ -16,7 +16,7 @@
 
 (iii) *Limitations.* If no response within 2 to 3 days, reevaluate therapy; do not crush tablets; treated animals must not be slaughtered for food within 28 days after the latest treatment; Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(c)(1) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter for use of a 32.1-gram sustained-release bolus.
+(c)(1) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter for use of a 32.1-gram sustained-release bolus.
 
 (2) *Conditions of use* - (i) *Amount.* 32.1 grams (1 bolus) per 200 pounds of body weight.
 
@@ -32,7 +32,7 @@
 
 (iii) *Limitations.* Cattle that are acutely ill should be treated by injection with a suitable antibacterial product to obtain immediate therapeutic blood levels; do not slaughter animals for food within 16 days of treatment; do not use in lactating dairy cattle; if treated animals do not respond within 2 to 3 days, consult a veterinarian.
 
-(e)(1) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter for use of an 8.02-gram sulfamethazine sustained-release bolus.
+(e)(1) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter for use of an 8.02-gram sulfamethazine sustained-release bolus.
 
 (2) *Conditions of use* - (i) *Amount.* Administer 2 boluses (8.02 grams per bolus) per 100 pounds of body weight, as a single dose.
 
@@ -58,4 +58,4 @@
 
 (iii) *Limitations.* Do not use in calves to be slaughtered under 1 month of age or calves being fed an all milk diet. Do not use in female dairy cattle 20 months of age or older. If symptoms persist after 3 days, consult a veterinarian. Do not administer more than 2 consecutive doses. Do not slaughter animals for food for at least 8 days after the last dose. Do not crush bolus.
 
-[46 FR 36132, July 14, 1981, as amended at 48 FR 18803, Apr. 26, 1983; 48 FR 32760, July 19, 1983; 49 FR 29057, July 18, 1984; 50 FR 49372, Dec. 2, 1985; 51 FR 30212, Aug. 25, 1986; 53 FR 40727, Oct. 18, 1988; 54 FR 14341, Apr. 11, 1989; 55 FR 8462, Mar. 8, 1990; 56 FR 50653, Oct. 8, 1991; 59 FR 22754, May 3, 1994; 61 FR 4875, Feb. 9, 1996; 62 FR 35076, June 30, 1997; 66 FR 14073, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 70 FR 8290, Feb. 18, 2005; 78 FR 17596, Mar. 22, 2013; 79 FR 28830, May 20, 2014; 81 FR 22523, Apr. 18, 2016]
+[46 FR 36132, July 14, 1981, as amended at 48 FR 18803, Apr. 26, 1983; 48 FR 32760, July 19, 1983; 49 FR 29057, July 18, 1984; 50 FR 49372, Dec. 2, 1985; 51 FR 30212, Aug. 25, 1986; 53 FR 40727, Oct. 18, 1988; 54 FR 14341, Apr. 11, 1989; 55 FR 8462, Mar. 8, 1990; 56 FR 50653, Oct. 8, 1991; 59 FR 22754, May 3, 1994; 61 FR 4875, Feb. 9, 1996; 62 FR 35076, June 30, 1997; 66 FR 14073, Mar. 9, 2001; 68 FR 4915, Jan. 31, 2003; 70 FR 8290, Feb. 18, 2005; 78 FR 17596, Mar. 22, 2013; 79 FR 28830, May 20, 2014; 81 FR 22523, Apr. 18, 2016; 84 FR 8973, Mar. 13, 2019]

@@ -1,5 +1,7 @@
 ##### § 520.2041 Pyrantel pamoate chewable tablets. #####
 
+Link to an amendment published at 84 FR 8973, Mar. 13, 2019.
+
 (a) *Specifications.* Each tablet contains pyrantel pamoate equivalent to 22.7 or 113.5 milligrams pyrantel base.
 
 (b) *Sponsor.* See Nos. 066916, 017135, and 051311 in § 510.600(c) of this chapter.

@@ -12,7 +12,7 @@
 
 (2) No. 054771 for use of the product described in paragraph (a)(2) as in paragraphs (d)(2), (3), and (4) of this section.
 
-(3) Nos. 016592 and 061623 for use of the product described in paragraph (a)(2) as in paragraph (d)(4) of this section.
+(3) Nos. 016592 and 061133 for use of the product described in paragraph (a)(2) as in paragraph (d)(4) of this section.
 
 (c) *Related tolerances.* See § 556.640 of this chapter.
 
@@ -40,4 +40,4 @@
 
 (iii) *Limitations.* Milk taken from animals during treatment and for 60 hours (5 milkings) after the latest treatment must not be used for food. Do not administer within 5 days of slaughter. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
 
-[79 FR 16196, Mar. 25, 2014, as amended at 81 FR 22524, Apr. 18, 2016; 83 FR 48946, Sept.. 28, 2018]
+[79 FR 16196, Mar. 25, 2014, as amended at 81 FR 22524, Apr. 18, 2016; 83 FR 48946, Sept. 28, 2018; 84 FR 8974, Mar. 13, 2019]

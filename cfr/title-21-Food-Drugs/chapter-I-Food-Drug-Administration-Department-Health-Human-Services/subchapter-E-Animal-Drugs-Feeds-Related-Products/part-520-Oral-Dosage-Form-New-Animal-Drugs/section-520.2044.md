@@ -12,7 +12,7 @@
 
 (2) No. 017135 for use of product described in paragraph (a)(2) of this section as in paragraph (d) of this section.
 
-(3) No. 061623 for use of product described in paragraph (a)(3) of this section as in paragraph (d)(1)(i) and (d)(2) of this section.
+(3) No. 061133 for use of product described in paragraph (a)(3) of this section as in paragraph (d)(1)(i) and (d)(2) of this section.
 
 (c) *Special considerations.* See § 500.25 of this chapter.
 
@@ -24,4 +24,4 @@
 
 (2) *Limitations.* Do not use in horses intended for human consumption.
 
-[70 FR 29447, May 23, 2005, as amended at 76 FR 17337, Mar. 29, 2011; 78 FR 17596, Mar. 22, 2013; 79 FR 28827, May 20, 2014; 81 FR 17607, Mar. 30, 2016]
+[70 FR 29447, May 23, 2005, as amended at 76 FR 17337, Mar. 29, 2011; 78 FR 17596, Mar. 22, 2013; 79 FR 28827, May 20, 2014; 81 FR 17607, Mar. 30, 2016; 84 FR 8973, Mar. 13, 2019]

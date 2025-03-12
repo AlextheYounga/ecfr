@@ -32,11 +32,11 @@
 
 (4) No. 016592 for use of OTC HCl concentration in paragraph (a)(6) of this section in chickens, turkeys, and swine.
 
-(5) No. 061623 for use of OTC HCl concentration in paragraph (a)(7) of this section in chickens, turkeys, swine, cattle, sheep, and honeybees.
+(5) No. 061133 for use of OTC HCl concentration in paragraph (a)(7) of this section in chickens, turkeys, swine, cattle, sheep, and honeybees.
 
 (6) No. 069254 for use of OTC HCl concentrations in paragraph (a)(8) of this section in chickens, turkeys, swine, cattle, sheep, and honey bees.
 
-(7) No. 061623 for use of OTC HCl concentration in paragraph (a)(9) of this section in chickens, turkeys, and swine.
+(7) No. 061133 for use of OTC HCl concentration in paragraph (a)(9) of this section in chickens, turkeys, and swine.
 
 (c) *Related tolerances.* See § 556.500 of this chapter.
 
@@ -58,25 +58,25 @@
 
 (*2*) *Indications for use.* Control of hexamitiasis caused by *Hexamita meleagridis* susceptible to oxytetracycline.
 
-(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061623 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061133 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (B)(*1*) *Amount.* Administer 400 milligrams/gallon for 7 to 14 days. Not to be used for more than 14 consecutive days.
 
 (*2*) *Indications for use.* Control of infectious synovitis caused by *Mycoplasma synoviae* susceptible to oxytetracycline.
 
-(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061623 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061133 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (C)(*1*) *Amount.* Administer 25 milligrams per pound of body weight daily for 7 to 14 days. Not to be used for more than 14 consecutive days.
 
 (*2*) *Indications for use.* Growing turkeys. Control of complicating bacterial organisms associated with bluecomb (transmissible enteritis, coronaviral enteritis) susceptible to oxytetracycline.
 
-(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061623 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(*3*) Do not use in birds producing eggs for human consumption. Withdraw 5 days prior to slaughter those products sponsored by Nos. 054771 and 061133 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Zero-day withdrawal for those products sponsored by Nos. 057561 and 069254. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (iii) *Swine* - (A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Do not use for more than 14 consecutive days.
 
 (B) *Indications for use.* Control and treatment of bacterial enteritis caused by *Escherichia coli* and *Salmonella choleraesuis* and bacterial pneumonia caused by *Pasteurella multocida* susceptible to oxytetracycline. For breeding swine: Control and treatment of leptospirosis (reducing the incidence of abortions and shedding of leptospira) caused by *Leptospira pomona* susceptible to oxytetracycline.
 
-(C) Withdraw zero days prior to slaughter those products sponsored by Nos. 054771, 057561, 061623, and 069254 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+(C) Withdraw zero days prior to slaughter those products sponsored by Nos. 054771, 057561, 061133, and 069254 in § 510.600(c) of this chapter. Withdraw 4 days prior to slaughter those products sponsored by No. 054628. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
 (iv) *Calves, beef cattle, and nonlactating dairy cattle* - (A) *Amount.* Administer 10 milligrams per pound of body weight daily for up to 14 days. Do not use for more than 14 consecutive days.
 

@@ -10,7 +10,7 @@
 
 (1) No. 000061 for use of products described in paragraph (a) for use as in paragraph (d) of this section.
 
-(2) No. 061623 for use of the powder described in paragraph (a)(1) for use as in paragraphs (d)(1)(i)(A) and (d)(1)(ii) of this section.
+(2) No. 061133 for use of the powder described in paragraph (a)(1) for use as in paragraphs (d)(1)(i)(A) and (d)(1)(ii) of this section.
 
 (c) *Special considerations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
@@ -28,4 +28,4 @@
 
 (ii) *Indications for use.* For treatment of fungal infections of the skin, hair, and claws caused by *Trichophyton mentagrophytes, T. rubrum, T. schoenleini, T. sulphurem, T. verrucosum, T. interdigitale, Epidermophyton floccosum, Microsporum gypseum, M. canis, M. audouini.*
 
-[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 42948, Sept. 29, 1976; 43 FR 28458, June 30, 1978; 52 FR 7832, Mar. 13, 1987; 54 FR 30205, July 19, 1989; 71 FR 38073, July 5, 2006; 77 FR 28253, May 14, 2012; 78 FR 28822, May 20, 2014]
+[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 42948, Sept. 29, 1976; 43 FR 28458, June 30, 1978; 52 FR 7832, Mar. 13, 1987; 54 FR 30205, July 19, 1989; 71 FR 38073, July 5, 2006; 77 FR 28253, May 14, 2012; 78 FR 28822, May 20, 2014; 84 FR 8972, Mar. 13, 2019]

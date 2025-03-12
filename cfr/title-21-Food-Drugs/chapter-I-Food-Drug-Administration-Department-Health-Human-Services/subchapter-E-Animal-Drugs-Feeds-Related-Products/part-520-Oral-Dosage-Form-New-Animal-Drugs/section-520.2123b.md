@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each gram (g) of powder contains spectinomycin dihydrochloride pentahydrate equivalent to 0.5 g spectinomycin.
 
-(b) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 061133 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.600 of this chapter.
 
@@ -14,4 +14,4 @@
 
 (2) *Limitations.* Do not administer to laying chickens. Do not administer within 5 days of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[73 FR 6607, Feb. 5, 2008, as amended at 81 FR 94990, Dec. 27, 2016]
+[73 FR 6607, Feb. 5, 2008, as amended at 81 FR 94990, Dec. 27, 2016; 84 FR 8973, Mar. 13, 2019]

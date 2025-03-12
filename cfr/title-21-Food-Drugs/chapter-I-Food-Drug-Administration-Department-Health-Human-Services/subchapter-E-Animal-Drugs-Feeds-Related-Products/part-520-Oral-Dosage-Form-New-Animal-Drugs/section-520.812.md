@@ -1,16 +1,20 @@
 ##### § 520.812 Enrofloxacin. #####
 
-(a) *Specifications.* Each tablet contains:
+(a) *Specifications* - (1) Each tablet contains:
 
-(1) 22.7, 68.0, or 136.0 milligrams (mg) enrofloxacin; or
+(i) 2.7, 68.0, or 136.0 milligrams (mg) enrofloxacin; or
 
-(2) 22.7, 68.0, 136.0, or 272 mg enrofloxacin.
+(ii) 22.7, 68.0, 136.0, or 272 mg enrofloxacin.
+
+(2) Each soft chewable tablet contains 22.7, 68.0, or 136.0 mg enrofloxacin.
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter for use as in paragraph (c) of this section.
 
-(1) Nos. 000859 and 026637 for use of product described in paragraph (a)(1) of this section.
+(1) Nos. 000859 and 026637 for use of product described in paragraph (a)(1)(i) of this section.
 
-(2) No. 058198 for use of product described in paragraph (a)(2) of this section.
+(2) No. 058198 for use of product described in paragraph (a)(1)(ii) of this section.
+
+(3) No. 000859 for use of product described in paragraph (a)(2) of this section.
 
 (c) *Conditions of use in dogs and cats* - (1) *Amount.* Administer orally as a single, daily dose or divided into two equal doses at 12-hour intervals.
 
@@ -22,4 +26,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits the extralabel use of this drug in food-producing animals.
 
-[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013]
+[78 FR 30197, May 22, 2013, as amended at 78 FR 52853, Aug. 27, 2013; 84 FR 8972, Mar. 13, 2019]

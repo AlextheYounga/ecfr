@@ -4,7 +4,7 @@
 
 (b) *Related tolerances.* See § 556.510 of this chapter.
 
-(c) *Sponsors.* See Nos. 010515 and 061623 in § 510.600(c) of this chapter.
+(c) *Sponsors.* See Nos. 010515 and 061133 in § 510.600(c) of this chapter.
 
 (d) *Conditions of use in lactating cows* - (1) *Amount.* Infuse one 10-milliliter dose into each infected quarter. Treatment may be repeated at 12-hour intervals for not more than three doses, as indicated by clinical response.
 
@@ -18,4 +18,4 @@
 
 (3) *Limitations.* Discard all milk for 72 hours (6 milkings) following calving, or later as indicated by the marketable quality of the milk. Animals must not be slaughtered for food within 14 days postinfusion.
 
-[73 FR 18442, Apr. 4, 2008, as amended at 74 FR 18990, Apr. 27, 2009]
+[73 FR 18442, Apr. 4, 2008, as amended at 74 FR 18990, Apr. 27, 2009; 84 FR 8974, Mar. 13, 2019]

@@ -8,7 +8,7 @@
 
 (1) Nos. 016592, 054771, 054925, and 069043 for use of the product described in paragraph (a)(1) of this section.
 
-(2) Nos. 016592, 054771, 054925, 058829, 061623, and 066104 for use of the product described in paragraph (a)(2) of this section.
+(2) Nos. 016592, 054771, 054925, 058829, 061133, and 066104 for use of the product described in paragraph (a)(2) of this section.
 
 (c) *Related tolerances.* See § 556.640 of this chapter.
 
@@ -30,4 +30,4 @@
 
 (iii) *Limitations.* Withdraw 7 days before slaughter. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian. Federal law prohibits the extralabel use of this product in lactating dairy cattle.
 
-[79 FR 28829, May 20, 2014, as amended at 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016; 83 FR 48946, Sept. 28, 2018]
+[79 FR 28829, May 20, 2014, as amended at 81 FR 22523, Apr. 18, 2016; 81 FR 94990, Dec. 27, 2016; 83 FR 48946, Sept. 28, 2018; 84 FR 8973, Mar. 13, 2019]

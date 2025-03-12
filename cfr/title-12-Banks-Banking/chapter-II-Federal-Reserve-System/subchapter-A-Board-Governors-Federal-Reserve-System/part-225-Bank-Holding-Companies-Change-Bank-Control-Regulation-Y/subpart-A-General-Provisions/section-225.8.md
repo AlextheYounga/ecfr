@@ -182,13 +182,17 @@
 
 (B) *Bank holding companies that are not large and noncomplex bank holding companies.* The Board or the appropriate Reserve Bank with concurrence of the Board, may object to a capital plan submitted by a bank holding company that is not a large and noncomplex bank holding company if it determines that:
 
-(*1*) The bank holding company has not demonstrated an ability to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout the planning horizon;
+(*1*) The bank holding company has not demonstrated an ability to maintain capital above each minimum regulatory capital ratio on a pro forma basis under expected and stressful conditions throughout the planning horizon; or
 
-(*2*) The bank holding company has material unresolved supervisory issues, including but not limited to issues associated with its capital adequacy process;
+(*2*) Until January 1, 2021, except as provided in paragraph (f)(2)(ii)(B)(*3*) of this section, for a bank holding company that was subject to this section as of January 1, 2019, but whose capital plan has not been subject to review and a potential qualitative objection under the criteria listed in paragraph (f)(2)(ii)(B)(*2*)(*i*) through (*iii*) of this section for any period of four consecutive years:
 
-(*3*) The assumptions and analysis underlying the bank holding company's capital plan, or the bank holding company's methodologies and practices that support its capital planning process, are not reasonable or appropriate; or
+(*i*) The bank holding company has material unresolved supervisory issues, including but not limited to issues associated with its capital adequacy process;
 
-(*4*) The bank holding company's capital planning process or proposed capital distributions otherwise constitute an unsafe or unsound practice, or would violate any law, regulation, Board order, directive, or condition imposed by, or written agreement with, the Board or the appropriate Reserve Bank. In determining whether a capital plan or any proposed capital distribution would constitute an unsafe or unsound practice, the Board or the appropriate Reserve Bank would consider whether the bank holding company is and would remain in sound financial condition after giving effect to the capital plan and all proposed capital distributions.
+(*ii*) The assumptions and analysis underlying the bank holding company's capital plan, or the bank holding company's methodologies and practices that support its capital planning process, are not reasonable or appropriate; or
+
+(*iii*) The bank holding company's capital planning process or proposed capital distributions otherwise constitute an unsafe or unsound practice, or would violate any law, regulation, Board order, directive, or condition imposed by, or written agreement with, the Board or the appropriate Reserve Bank. In determining whether a capital plan or any proposed capital distribution would constitute an unsafe or unsound practice, the Board or the appropriate Reserve Bank would consider whether the bank holding company is and would remain in sound financial condition after giving effect to the capital plan and all proposed capital distributions.
+
+(*3*) Notwithstanding paragraph (f)(2)(ii)(B)(*2*) of this section, a bank holding company that was subject to this section as of January 1, 2019, and that receives a qualitative objection in the fourth year of the four-year period described in paragraph (f)(2)(ii)(B)(*2*), pursuant to the criteria in paragraph (f)(2)(ii)(B)(*2*)(*i*) through (*iii*) of this section, will remain subject to a qualitative objection under this section until January 1 of the year after the first year in which the bank holding company does not receive a qualitative objection.
 
 (iii) *Notification of decision.* The Board or the appropriate Reserve Bank will notify the bank holding company in writing of the reasons for a decision to object to a capital plan.
 
@@ -288,4 +292,4 @@
 
 (D) While the Board's final decision is pending and until such time as the Board or the appropriate Reserve Bank with concurrence of the Board, approves the capital distribution at issue, the bank holding company may not make such capital distribution.
 
-[82 FR 9323, Feb. 3, 2017]
+[82 FR 9323, Feb. 3, 2017, as amended at 84 FR 8958, Mar. 13, 2019]

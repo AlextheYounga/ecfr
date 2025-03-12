@@ -10,7 +10,7 @@
 
 (3) No. 016592 for use of 46.8- and 544.5-g packages as in paragraphs (e)(1)(i), (e)(1)(ii)(A), and (e)(1)(iii) and (e)(2)(i), (e)(2)(ii)(A), and (e)(2)(iii) of this section.
 
-(4) No. 059130 for use of 46.8-, 362.7-, and 544.5-g packages as in paragraphs (e)(1)(i), (e)(1)(ii)(B), (e)(1)(iii), (e)(2)(i), (e)(2)(ii)(B), and (e)(2)(iii) of this section; and for use of an 18.15-g package as in paragraph (e)(3) of this section.
+(4) No. 061133 for use of 46.8-, 362.7-, and 544.5-g packages as in paragraphs (e)(1)(i), (e)(1)(ii)(B), (e)(1)(iii), (e)(2)(i), (e)(2)(ii)(B), and (e)(2)(iii) of this section; and for use of an 18.15-g package as in paragraph (e)(3) of this section.
 
 (c) *Related tolerances.* See § 556.350 of this chapter.
 
@@ -40,4 +40,4 @@
 
 (iii) *Limitations.* Do not administer within 72 hours of slaughter for food. Pigs maintained under conditions of constant exposure to worms may require retreatment within 4 to 5 weeks after the first treatment. Consult your veterinarian before administering to sick swine.
 
-[69 FR 9753, Mar. 2, 2004, as amended at 69 FR 33839, June 17, 2004; 70 FR 2353, Jan. 13, 2005; 77 FR 28253, May 14, 2012; 78 FR 28822, May 20, 2014; 83 FR 48945, Sept. 28, 2018]
+[69 FR 9753, Mar. 2, 2004, as amended at 69 FR 33839, June 17, 2004; 70 FR 2353, Jan. 13, 2005; 77 FR 28253, May 14, 2012; 78 FR 28822, May 20, 2014; 83 FR 48945, Sept. 28, 2018; 84 FR 8972, Mar. 13, 2019]

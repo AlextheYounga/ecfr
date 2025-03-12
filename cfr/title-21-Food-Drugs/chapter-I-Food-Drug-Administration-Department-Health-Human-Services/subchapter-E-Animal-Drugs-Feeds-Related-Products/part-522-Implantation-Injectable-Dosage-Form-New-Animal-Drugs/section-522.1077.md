@@ -16,7 +16,7 @@
 
 (2) No. 068504 for use of the 100-µg/mL product described in paragraph (a)(2) as in paragraphs (d)(1)(ii), (d)(1)(v), and (d)(2) of this section.
 
-(3) No. 061623 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i) and (d)(2) of this section.
+(3) No. 061133 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i) and (d)(2) of this section.
 
 (4) No. 050604 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i), (d)(1)(vi), and (d)(2) of this section.
 
@@ -46,4 +46,4 @@
 
 (2) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[83 FR 64740, Dec. 18, 2018]
+[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019]

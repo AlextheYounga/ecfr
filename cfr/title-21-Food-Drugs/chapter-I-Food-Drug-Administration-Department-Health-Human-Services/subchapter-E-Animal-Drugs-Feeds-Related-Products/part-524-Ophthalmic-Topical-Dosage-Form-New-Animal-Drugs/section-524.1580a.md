@@ -4,7 +4,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter.
 
-(1) See Nos. 054925, 058005, 059051, 061623, and 069043 for use on dogs, cats, or horses.
+(1) See Nos. 054925, 058005, 059051, 061133, and 069043 for use on dogs, cats, or horses.
 
 (2) See No. 017135 for use on dogs and horses.
 
@@ -12,7 +12,7 @@
 
 (c) [Reserved]
 
-(d) *Conditions of use* - (1) *Amount.* Apply directly on the lesion with a spatula or first place on a piece of gauze. The preparation should remain on the lesion for at least 24 hours. Use of a bandage is optional.
+(d) *Conditions of use*—(1) *Amount.* Apply directly on the lesion with a spatula or first place on a piece of gauze. The preparation should remain on the lesion for at least 24 hours. Use of a bandage is optional.
 
 (2) *Indications for use.* For prevention or treatment of surface bacterial infections of wounds, burns, and cutaneous ulcers of dogs, cats, or horses.
 

@@ -4,7 +4,7 @@
 
 (b) *Sponsor.* See sponsors in § 510.600(c) of this chapter.
 
-(1) No. 061623 for use as in paragraphs (c)(1) and (2) of this section.
+(1) No. 061133 for use as in paragraphs (c)(1) and (2) of this section.
 
 (2) No. 026637 for use as in paragraph (c)(2) and (3) of this section.
 
@@ -26,4 +26,4 @@
 
 (iii) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[79 FR 16185, Mar. 25, 2014]
+[79 FR 16185, Mar. 25, 2014, as amended at 84 FR 8973, Mar. 13, 2019]
