@@ -1,0 +1,3 @@
+##### § 220.8 Consolidation of petitions. #####
+
+Should the Commission receive petitions for duty suspensions or reductions from multiple petitioners for identical or overlapping articles classified in the same HTS subheading or subheadings, the Commission may consolidate the petitions and publish a single recommendation so that a single proposed HTS chapter 99 provision for the articles is presented in the Commission's preliminary and final reports.

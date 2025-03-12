@@ -1,5 +1,7 @@
 ##### § 149.1 Definitions. #####
 
+Link to an amendment published at 83 FR 15740, Apr. 12, 2018.
+
 (a) *Importer Security Filing Importer.* For purposes of this part, “Importer Security Filing (ISF) Importer” means the party causing goods to arrive within the limits of a port in the United States by vessel. For shipments other than foreign cargo remaining on board (FROB), immediate exportation (IE) and transportation and exportation (T&E) in-bond shipments, and goods to be delivered to a foreign trade zone (FTZ), the ISF Importer will be the goods' owner, purchaser, consignee, or agent such as a licensed customs broker. For FROB cargo, the ISF Importer will be the carrier. For IE and T&E in-bond shipments, and goods to be delivered to an FTZ, the ISF Importer will be the party filing the IE, T&E, or FTZ documentation.
 
 (b) *Importation.* For purposes of this part, “importation” means the point at which cargo arrives within the limits of a port in the United States.

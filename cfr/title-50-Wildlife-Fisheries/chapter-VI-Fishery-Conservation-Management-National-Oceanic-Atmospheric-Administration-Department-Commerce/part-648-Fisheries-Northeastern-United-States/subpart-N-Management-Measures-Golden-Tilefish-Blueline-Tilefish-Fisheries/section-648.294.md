@@ -1,14 +1,12 @@
 ##### § 648.294 Golden tilefish individual fishing quota (IFQ) program. #####
 
-Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
-
 (a) *IFQ allocation permits.* (1) After adjustments for incidental catch, research set-asides, and overages, as appropriate, pursuant to § 648.292(a)(3), the Regional Administrator shall divide the remaining golden tilefish TAL among the IFQ quota shareholders who held IFQ quota share as of September 1 of a given fishing year. Allocations shall be made by applying the IFQ quota share percentages that exist on September 1 of a given fishing year to the IFQ TAL pursuant to § 648.292(a)(3), subject to any deductions for overages pursuant to paragraph (f) of this section. Amounts of IFQ allocation of 0.5 lb (0.23 kg) or smaller created by this calculation shall be rounded downward to the nearest whole number, and amounts of IFQ allocation greater than 0.5 lb (0.23 kg) shall be rounded upward to the nearest whole number, so that annual IFQ allocations are specified in whole pounds.
 
 (2) Allocations shall be issued in the form of an annual IFQ allocation permit. The IFQ allocation permit shall specify the quota share percentage held by the IFQ allocation permit holder and the total pounds of golden tilefish that the IFQ allocation permit holder is authorized to harvest.
 
 (3) In order to be eligible to hold tilefish IFQ allocation, an individual must be a U.S. citizen or permanent resident alien. Businesses or other entities that wish to hold allocation must be eligible to own a documented vessel under the terms of 46 U.S.C. 12103(b).
 
-(b) *Application* - (1) *General.* Applicants for a permit under this section must submit a completed application on an appropriate form obtained from NMFS. The application must be filled out completely and signed by the applicant. Each application must include a declaration of all interests in IFQ quota shares and IFQ allocations, as defined in § 648.2, listed by IFQ allocation permit number, and must list all Federal vessel permit numbers for all vessels that an applicant owns or leases that would be authorized to possess golden tilefish pursuant to the IFQ allocation permit. The Regional Administrator will notify the applicant of any deficiency in the application.
+(b) *Application*—(1) *General.* Applicants for a permit under this section must submit a completed application on an appropriate form obtained from NMFS. The application must be filled out completely and signed by the applicant. Each application must include a declaration of all interests in IFQ quota shares and IFQ allocations, as defined in § 648.2, listed by IFQ allocation permit number, and must list all Federal vessel permit numbers for all vessels that an applicant owns or leases that would be authorized to possess golden tilefish pursuant to the IFQ allocation permit. The Regional Administrator will notify the applicant of any deficiency in the application.
 
 (i) [Reserved]
 
@@ -18,7 +16,19 @@ Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
 
 (3) *Duration.* An annual IFQ allocation permit is valid until October 31 of each fishing year unless it is suspended, modified, or revoked pursuant to 15 CFR part 904; revised due to a transfer of all or part of the IFQ quota share or annual IFQ allocation under paragraph (e) of this section; or suspended for non-payment of the cost recovery fee as described in paragraph (h)(4) of this section.
 
-(4) *IFQ vessel.* All Federal vessel permit numbers that are listed on the IFQ allocation permit are authorized to possess golden tilefish pursuant to the IFQ allocation permit until the end of the fishing year or until NMFS receives written notification from the IFQ allocation permit holder that the vessel is no longer authorized to possess golden tilefish pursuant to the subject permit. An IFQ allocation permit holder who wishes to authorize an additional vessel(s) to possess golden tilefish pursuant to the IFQ allocation permit must send written notification to NMFS. This notification must include the vessel name and permit number, and the dates on which the IFQ allocation permit holder desires the vessel to be authorized to land golden tilefish pursuant to the IFQ allocation permit. A copy of the IFQ allocation permit must be carried on board each vessel so authorized to possess IFQ golden tilefish.
+(4) *IFQ vessel.* (i) All Federal vessel permit numbers listed on the IFQ allocation permit are authorized to possess golden tilefish pursuant to the IFQ allocation permit.
+
+(ii) An IFQ allocation permit holder who wishes to authorize an additional vessel(s) to possess golden tilefish pursuant to the IFQ allocation permit must send written notification to NMFS. This notification must include:
+
+(A) The vessel name and permit number, and
+
+(B) The dates on which the IFQ allocation permit holder desires the vessel to be authorized to land golden tilefish pursuant to the IFQ allocation permit.
+
+(iii) A vessel listed on the IFQ allocation permit is authorized to possess golden tilefish pursuant to the subject permit, until the end of the fishing year or until NMFS receives written notification from the IFQ allocation permit holder to remove the vessel.
+
+(iv) A single vessel may not be listed on more than one IFQ allocation permit at the same time.
+
+(v) A copy of the IFQ allocation permit must be carried on board each vessel so authorized to possess IFQ golden tilefish.
 
 (5) *Alteration.* An annual IFQ allocation permit that is altered, erased, or mutilated is invalid.
 
@@ -30,7 +40,7 @@ Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
 
 (c)-(d) [Reserved]
 
-(e) *Transferring IFQ allocations* - (1) *Temporary transfers.* Unless otherwise restricted by the provisions in paragraph (e)(3) of this section, the initial holder of an annual IFQ allocation may transfer the entire annual IFQ allocation, or a portion of the annual IFQ allocation, to any person or entity eligible to hold tilefish IFQ allocation under paragraph (a)(3) of this section. Annual IFQ allocation transfers shall be effective only for the fishing year in which the transfer is requested and processed, unless the applicant specifically requests that the transfer be processed for the subsequent fishing year. The Regional Administrator has final approval authority for all annual IFQ allocation transfer requests. The approval of a temporary transfer may be rescinded if the Regional Administrator finds that an emergency has rendered the lessee unable to fish for the transferred annual IFQ allocation, but only if none of the transferred allocation has been landed.
+(e) *Transferring IFQ allocations*—(1) *Temporary transfers.* Unless otherwise restricted by the provisions in paragraph (e)(3) of this section, the initial holder of an annual IFQ allocation may transfer the entire annual IFQ allocation, or a portion of the annual IFQ allocation, to any person or entity eligible to hold tilefish IFQ allocation under paragraph (a)(3) of this section. Annual IFQ allocation transfers shall be effective only for the fishing year in which the transfer is requested and processed, unless the applicant specifically requests that the transfer be processed for the subsequent fishing year. The Regional Administrator has final approval authority for all annual IFQ allocation transfer requests. The approval of a temporary transfer may be rescinded if the Regional Administrator finds that an emergency has rendered the lessee unable to fish for the transferred annual IFQ allocation, but only if none of the transferred allocation has been landed.
 
 (2) *Permanent transfers.* Unless otherwise restricted by the provisions in paragraph (e)(3) of this section, and subject to final approval by the Regional Administrator, a holder of IFQ quota share may permanently transfer the entire IFQ quota share allocation, or a portion of the IFQ quota share allocation, to any person or entity eligible to hold tilefish IFQ allocation under paragraph (a)(3) of this section.
 
@@ -108,4 +118,4 @@ Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
 
 (i) *Periodic review of the IFQ program.* A formal review of the IFQ program must be conducted by the MAFMC within 5 years of the effective date of the final regulations. Thereafter, it shall be incorporated into every scheduled MAFMC review of the FMP (*i.e.,* future amendments or frameworks), but no less frequently than every 7 years.
 
-[78 FR 49187, Aug. 13, 2013, as amended at 82 FR 52859, Nov. 15, 2017]
+[78 FR 49187, Aug. 13, 2013, as amended at 82 FR 52859, Nov. 15, 2017; 83 FR 10807, Mar. 13, 2018]

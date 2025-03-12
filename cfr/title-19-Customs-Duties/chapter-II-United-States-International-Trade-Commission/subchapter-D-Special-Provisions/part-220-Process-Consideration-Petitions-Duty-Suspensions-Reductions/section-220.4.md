@@ -1,0 +1,3 @@
+##### § 220.4 Time for filing. #####
+
+Petitions for duty suspensions and reductions and Commission disclosure forms must be filed not later than 60 days after the Commission publishes in the Federal Register and on its Web site a notice requesting members of the public to submit this information. The Commission will publish notice requesting such petitions and disclosure forms not later than October 15, 2016, and October 15, 2019.

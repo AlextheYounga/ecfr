@@ -1,12 +1,10 @@
 ##### § 648.293 Tilefish accountability measures. #####
 
-Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
-
-(a) *Golden tilefish* - (1) *Commercial incidental fishery closure.* See § 648.295(a)(2).
+(a) *Golden tilefish*—(1) *Commercial incidental fishery closure.* See § 648.295(a)(3).
 
 (2) *Commercial ACL overage evaluation.* If the golden tilefish ACL is exceeded, the amount of the ACL overage that cannot be directly attributed to IFQ allocation holders having exceeded their IFQ allocation will be deducted from the golden tilefish ACL in the following fishing year. All overages directly attributable to IFQ allocation holders will be deducted from the appropriate IFQ allocation(s) in the subsequent fishing year, as required by § 648.294(f).
 
-(b) *Blueline tilefish* - (1) *Commercial fishery closure.* See § 648.295(b)(2).
+(b) *Blueline tilefish*—(1) *Commercial fishery closure.* See § 648.295(b)(2).
 
 (2) *Commercial ACL overage evaluation.* The commercial sector ACL will be evaluated based on a single-year examination of total catch (landings and discards).
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 10807, Mar. 13, 2018.
 
 (iii) *If biomass is above target.* If the most recent estimate of biomass is above BMSY (*i.e.,* B/BMSY is greater than 1.0), then adjustments to the recreational management measures, taking into account the performance of the measures and conditions that precipitated the overage, will be made in the following fishing year, or as soon as possible thereafter, once catch data are available, as a single-year adjustment.
 
-[82 FR 52859, Nov. 15, 2017]
+[82 FR 52859, Nov. 15, 2017, as amended at 83 FR 10807, Mar. 13, 2018]

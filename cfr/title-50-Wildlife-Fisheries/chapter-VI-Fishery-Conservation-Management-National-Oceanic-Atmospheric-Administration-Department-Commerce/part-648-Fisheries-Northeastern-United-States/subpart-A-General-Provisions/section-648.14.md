@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -1262,11 +1260,13 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (v) Discard golden tilefish harvested in or from the Tilefish Management Unit, as defined in § 648.2, unless participating in recreational fishing, as defined in § 648.2, or while fishing subject to a trip limit pursuant to § 648.295(a).
 
-(vi) Land or possess golden tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the incidental golden tilefish fishery is closed pursuant to § 648.295(a)(2), unless fishing under a valid tilefish IFQ allocation permit as specified in § 648.294(a), or engaged in recreational fishing.
+(vi) Land or possess golden tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the incidental golden tilefish fishery is closed pursuant to § 648.295(a)(3), unless fishing under a valid tilefish IFQ allocation permit as specified in § 648.294(a), or engaged in recreational fishing.
 
 (vii) Land or possess blueline tilefish in or from the Tilefish Management Unit, on a vessel issued a valid tilefish permit under this part, after the commercial blueline tilefish fishery is closed pursuant to § 648.295(b)(2), unless engaged in recreational fishing.
 
-(viii) Land or possess blueline tilefish in or from the Tilefish Management Unit, on a vessel issued a valid commercial tilefish permit under this part, that do not have the head and fins naturally attached to the fish.
+(viii) Land or possess golden or blueline tilefish in or from the Tilefish Management Unit, on a vessel issued a valid commercial tilefish permit under this part, that do not have the head and fins naturally attached to the fish.
+
+(ix) Engage in recreational fishing for golden tilefish with fishing gear that is not compliant with the gear restrictions specified at § 648.296.
 
 (3) *Transfer and purchase.* (i) Purchase, possess, or receive for a commercial purpose, other than solely for transport on land; or attempt to purchase, possess, or receive for a commercial purpose, other than solely for transport on land; golden or blueline tilefish caught by a vessel without a tilefish permit, unless the tilefish were harvested by a vessel without a tilefish permit that fished exclusively in State waters.
 

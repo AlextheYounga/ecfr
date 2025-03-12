@@ -2223,6 +2223,35 @@ US362 The band 1670-1675 MHz is allocated to the meteorological-satellite servic
 
 US364 Consistent with US18, stations may be authorized on a primary basis in the band 285-325 kHz for the specific purpose of transmitting differential global positioning system information.
 
+US378 In the band 1710-1755 MHz, the following provisions apply:
+
+(a) Federal fixed and tactical radio relay stations may operate indefinitely on a primary basis within 80 km of Cherry Point, NC (34°58′ N, 76°56′ W) and Yuma, AZ (32°32′ N, 113°58′ W).
+
+(b) Federal fixed and tactical radio relay stations shall operate on a secondary basis to primary non-Federal operations at the 14 sites listed below:
+
+|                State                 |              Location               |    Coordinates     |
+|--------------------------------------|-------------------------------------|--------------------|
+|80 km radius of operation centered on:|                                     |                    |
+|                  CA                  |             China Lake              |35°41′ N, 117°41′ W.|
+|                  CA                  |Pacific Missile Test Range/Point Mugu|34°07′ N, 119°30′ W.|
+|                  FL                  |              Eglin AFB              |30°29′ N, 086°31′ W.|
+|                  MD                  |           Patuxent River            |38°17′ N, 076°25′ W.|
+|                  NM                  |      White Sands Missile Range      |33°00′ N, 106°30′ W.|
+|                  NV                  |             Nellis AFB              |36°14′ N, 115°02′ W.|
+|                  UT                  |              Hill AFB               |41°07′ N, 111°58′ W.|
+|50 km radius of operation centered on:|                                     |                    |
+|                  AL                  |             Fort Rucker             |31°13′ N, 085°49′ W.|
+|                  CA                  |             Fort Irwin              |35°16′ N, 116°41′ W.|
+|                  GA                  |            Fort Benning             |32°22′ N, 084°56′ W.|
+|                  GA                  |            Fort Stewart             |31°52′ N, 081°37′ W.|
+|                  KY                  |            Fort Campbell            |36°41′ N, 087°28′ W.|
+|                  NC                  |             Fort Bragg              |35°09′ N, 079°01′ W.|
+|                  WA                  |             Fort Lewis              |47°05′ N, 122°36′ W.|
+
+(c) In the sub-band 1710-1720 MHz, precision guided munitions shall operate on a primary basis until inventory is exhausted or until December 31, 2008, whichever is earlier.
+
+(d) All other Federal stations in the fixed and mobile services shall operate on a primary basis until reaccommodated in accordance with the Commercial Spectrum Enhancement Act.
+
 US379 In the band 55.78-56.26 GHz, in order to protect stations in the Earth exploration-satellite service (passive), the maximum power density delivered by a transmitter to the antenna of a fixed service station is limited to−28.5 dB(W/MHz).
 
 US380 In the bands 1525-1544 MHz, 1545-1559 MHz, 1610-1645.5 MHz, 1646.5-1660.5 MHz, and 2483.5-2500 MHz, a non-Federal licensee in the mobile-satellite service (MSS) may also operate an ancillary terrestrial component in conjunction with its MSS network, subject to the Commission's rules for ancillary terrestrial component and subject to all applicable conditions and provisions of its MSS authorization.

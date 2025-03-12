@@ -1,0 +1,5 @@
+##### § 220.3 Who may file a petition, format for filing. #####
+
+(a) *Who may file.* A petition under this part may be filed by members of the public who can demonstrate that they are likely beneficiaries of duty suspensions or reductions. A member of the public for these purposes would generally be a firm, importer of record, a manufacturer that uses the imported article, or a government entity at the U.S. Federal, state, or local level.
+
+(b) *Format for filing.* Each such petition shall be submitted via the secure Commission web portal designated by the Commission and in the format designated by the Commission. The Commission will not accept petitions submitted in paper or in any other form or format. Petitions, including any attachments thereto, shall otherwise comply with the Commission's Handbook on MTB Filing Procedures as posted on the Commission's Web site.
