@@ -1,7 +1,5 @@
 ##### § 200.30-1 Delegation of authority to Director of Division of Corporation Finance. #####
 
-Link to an amendment published at 86 FR 70043, Dec. 9, 2021.
-
 Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Corporation Finance, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to registration of securities pursuant to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), and Regulation C thereunder (§ 230.400 *et seq.* of this chapter):
@@ -98,7 +96,7 @@ Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amende
 
 (12) To grant an exemption from § 240.14b-2(b) or § 240.14b-2(c), or both, of this chapter.
 
-(13) To determine with respect to a tender or exchange offer otherwise eligible to be made pursuant to rule 13e-4(g) (§ 240.13e-4(g) of this chapter) or rule 14d-1(b) (§ 240.14d-1(b) of this chapter) whether, in light of any exemptive order granted by a Canadian federal, provincial or territorial regulatory authority, application of certain or all of the provisions of section 13(e)(1) and sections 14(d)(1) through 14(d)(7) of the Exchange Act, rule 13e-4, Regulation 14D (§§ 240.14d-1 - 240.14d-103 of this chapter) and Schedules TO and 14D-9 thereunder (§§ 240.14d-100 and 240.14d-101 of this chapter), and rule 14e-1 of Regulation 14E (§§ 240.14e-1 - 240.14f-1 of this chapter), to such offer is necessary or appropriate in the public interest.
+(13) To determine with respect to a tender or exchange offer otherwise eligible to be made pursuant to rule 13e-4(g) (§ 240.13e-4(g) of this chapter) or rule 14d-1(b) (§ 240.14d-1(b) of this chapter) whether, in light of any exemptive order granted by a Canadian federal, provincial or territorial regulatory authority, application of certain or all of the provisions of section 13(e)(1) and sections 14(d)(1) through 14(d)(7) of the Exchange Act, rule 13e-4, Regulation 14D (§§ 240.14d-1—240.14d-103 of this chapter) and Schedules TO and 14D-9 thereunder (§§ 240.14d-100 and 240.14d-101 of this chapter), and rule 14e-1 of Regulation 14E (§§ 240.14e-1—240.14f-1 of this chapter), to such offer is necessary or appropriate in the public interest.
 
 (14) To administer the provisions of § 240.24c-1 of this chapter; provided that access to nonpublic information as defined in such section shall be provided only with the concurrence of the head of the Commission division or office responsible for such information or the files containing such information.
 
@@ -120,7 +118,7 @@ Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amende
 
 (iii) Has made a good faith effort to furnish the audited financial statements before holding the security holder meeting;
 
-(iv) Has made a determination that it has disclosed to security holders all available material information necessary for the security holders to make an informed voting decision in accordance with Regulation 14A or Regulation 14C (§§ 240.14a-1 - 240.14b-2 or §§ 240.14c-1 - 240.14c-101 of this chapter); and
+(iv) Has made a determination that it has disclosed to security holders all available material information necessary for the security holders to make an informed voting decision in accordance with Regulation 14A or Regulation 14C (§§ 240.14a-1—240.14b-2 or §§ 240.14c-1—240.14c-101 of this chapter); and
 
 (v) Absent a grant of exemptive relief, it would be forced to violate either state law or the rules and regulations administered by the Commission.
 
@@ -139,5 +137,7 @@ Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amende
 (k) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to grant or deny a request submitted pursuant to Rule 13(b) of Regulation S-T (§ 232.13(b) of this chapter) to adjust the filing date of an electronic filing.
 
 (l) With respect to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*), and Regulation S-T thereunder (part 232 of this chapter), to set the terms of, and grant or deny as appropriate, continuing hardship exemptions, pursuant to Rule 202 of Regulation S-T, (§ 232.202 of this chapter), from the electronic submission requirements of Regulation S-T (part 232 of this chapter).
+
+(m) With respect to Section 104(i)(2)(A) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7214 (as amended by Pub. L. 116-222)), to identify each “covered issuer,” as that term is defined in Section 104(i)(1)(A) of the Sarbanes-Oxley Act of 2002, that has retained a registered public accounting firm to issue an audit report where that registered public accounting firm has a branch or office that is located in a foreign jurisdiction and Public Company Accounting Oversight Board has determined that it is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction.
 
 [41 FR 29375, July 16, 1976]Editorial Note:For Federal Register citations affecting § 200.30-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

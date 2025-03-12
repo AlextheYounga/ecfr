@@ -1,25 +1,99 @@
 ##### § 314.4 Elements. #####
 
-Link to an amendment published at 86 FR 70307, Dec. 9, 2021.
-
 In order to develop, implement, and maintain your information security program, you shall:
 
-(a) Designate an employee or employees to coordinate your information security program.
+(a) Designate a qualified individual responsible for overseeing and implementing your information security program and enforcing your information security program (for purposes of this part, “Qualified Individual”). The Qualified Individual may be employed by you, an affiliate, or a service provider. To the extent the requirement in this paragraph (a) is met using a service provider or an affiliate, you shall:
 
-(b) Identify reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of customer information that could result in the unauthorized disclosure, misuse, alteration, destruction or other compromise of such information, and assess the sufficiency of any safeguards in place to control these risks. At a minimum, such a risk assessment should include consideration of risks in each relevant area of your operations, including:
+(1) Retain responsibility for compliance with this part;
 
-(1) Employee training and management;
+(2) Designate a senior member of your personnel responsible for direction and oversight of the Qualified Individual; and
 
-(2) Information systems, including network and software design, as well as information processing, storage, transmission and disposal; and
+(3) Require the service provider or affiliate to maintain an information security program that protects you in accordance with the requirements of this part.
 
-(3) Detecting, preventing and responding to attacks, intrusions, or other systems failures.
+(b) Base your information security program on a risk assessment that identifies reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of customer information that could result in the unauthorized disclosure, misuse, alteration, destruction, or other compromise of such information, and assesses the sufficiency of any safeguards in place to control these risks.
 
-(c) Design and implement information safeguards to control the risks you identify through risk assessment, and regularly test or otherwise monitor the effectiveness of the safeguards' key controls, systems, and procedures.
+(1) The risk assessment shall be written and shall include:
 
-(d) Oversee service providers, by:
+(i) Criteria for the evaluation and categorization of identified security risks or threats you face;
 
-(1) Taking reasonable steps to select and retain service providers that are capable of maintaining appropriate safeguards for the customer information at issue; and
+(ii) Criteria for the assessment of the confidentiality, integrity, and availability of your information systems and customer information, including the adequacy of the existing controls in the context of the identified risks or threats you face; and
 
-(2) Requiring your service providers by contract to implement and maintain such safeguards.
+(iii) Requirements describing how identified risks will be mitigated or accepted based on the risk assessment and how the information security program will address the risks.
 
-(e) Evaluate and adjust your information security program in light of the results of the testing and monitoring required by paragraph (c) of this section; any material changes to your operations or business arrangements; or any other circumstances that you know or have reason to know may have a material impact on your information security program.
+(2) You shall periodically perform additional risk assessments that reexamine the reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of customer information that could result in the unauthorized disclosure, misuse, alteration, destruction, or other compromise of such information, and reassess the sufficiency of any safeguards in place to control these risks.
+
+(c) Design and implement safeguards to control the risks you identity through risk assessment, including by:
+
+(1) Implementing and periodically reviewing access controls, including technical and, as appropriate, physical controls to:
+
+(i) Authenticate and permit access only to authorized users to protect against the unauthorized acquisition of customer information; and
+
+(ii) Limit authorized users' access only to customer information that they need to perform their duties and functions, or, in the case of customers, to access their own information;
+
+(2) Identify and manage the data, personnel, devices, systems, and facilities that enable you to achieve business purposes in accordance with their relative importance to business objectives and your risk strategy;
+
+(3) Protect by encryption all customer information held or transmitted by you both in transit over external networks and at rest. To the extent you determine that encryption of customer information, either in transit over external networks or at rest, is infeasible, you may instead secure such customer information using effective alternative compensating controls reviewed and approved by your Qualified Individual;
+
+(4) Adopt secure development practices for in-house developed applications utilized by you for transmitting, accessing, or storing customer information and procedures for evaluating, assessing, or testing the security of externally developed applications you utilize to transmit, access, or store customer information;
+
+(5) Implement multi-factor authentication for any individual accessing any information system, unless your Qualified Individual has approved in writing the use of reasonably equivalent or more secure access controls;
+
+(6)(i) Develop, implement, and maintain procedures for the secure disposal of customer information in any format no later than two years after the last date the information is used in connection with the provision of a product or service to the customer to which it relates, unless such information is necessary for business operations or for other legitimate business purposes, is otherwise required to be retained by law or regulation, or where targeted disposal is not reasonably feasible due to the manner in which the information is maintained; and
+
+(ii) Periodically review your data retention policy to minimize the unnecessary retention of data;
+
+(7) Adopt procedures for change management; and
+
+(8) Implement policies, procedures, and controls designed to monitor and log the activity of authorized users and detect unauthorized access or use of, or tampering with, customer information by such users.
+
+(d)(1) Regularly test or otherwise monitor the effectiveness of the safeguards' key controls, systems, and procedures, including those to detect actual and attempted attacks on, or intrusions into, information systems.
+
+(2) For information systems, the monitoring and testing shall include continuous monitoring or periodic penetration testing and vulnerability assessments. Absent effective continuous monitoring or other systems to detect, on an ongoing basis, changes in information systems that may create vulnerabilities, you shall conduct:
+
+(i) Annual penetration testing of your information systems determined each given year based on relevant identified risks in accordance with the risk assessment; and
+
+(ii) Vulnerability assessments, including any systemic scans or reviews of information systems reasonably designed to identify publicly known security vulnerabilities in your information systems based on the risk assessment, at least every six months; and whenever there are material changes to your operations or business arrangements; and whenever there are circumstances you know or have reason to know may have a material impact on your information security program.
+
+(e) Implement policies and procedures to ensure that personnel are able to enact your information security program by:
+
+(1) Providing your personnel with security awareness training that is updated as necessary to reflect risks identified by the risk assessment;
+
+(2) Utilizing qualified information security personnel employed by you or an affiliate or service provider sufficient to manage your information security risks and to perform or oversee the information security program;
+
+(3) Providing information security personnel with security updates and training sufficient to address relevant security risks; and
+
+(4) Verifying that key information security personnel take steps to maintain current knowledge of changing information security threats and countermeasures.
+
+(f) Oversee service providers, by:
+
+(1) Taking reasonable steps to select and retain service providers that are capable of maintaining appropriate safeguards for the customer information at issue;
+
+(2) Requiring your service providers by contract to implement and maintain such safeguards; and
+
+(3) Periodically assessing your service providers based on the risk they present and the continued adequacy of their safeguards.
+
+(g) Evaluate and adjust your information security program in light of the results of the testing and monitoring required by paragraph (d) of this section; any material changes to your operations or business arrangements; the results of risk assessments performed under paragraph (b)(2) of this section; or any other circumstances that you know or have reason to know may have a material impact on your information security program.
+
+(h) Establish a written incident response plan designed to promptly respond to, and recover from, any security event materially affecting the confidentiality, integrity, or availability of customer information in your control. Such incident response plan shall address the following areas:
+
+(1) The goals of the incident response plan;
+
+(2) The internal processes for responding to a security event;
+
+(3) The definition of clear roles, responsibilities, and levels of decision-making authority;
+
+(4) External and internal communications and information sharing;
+
+(5) Identification of requirements for the remediation of any identified weaknesses in information systems and associated controls;
+
+(6) Documentation and reporting regarding security events and related incident response activities; and
+
+(7) The evaluation and revision as necessary of the incident response plan following a security event.
+
+(i) Require your Qualified Individual to report in writing, regularly and at least annually, to your board of directors or equivalent governing body. If no such board of directors or equivalent governing body exists, such report shall be timely presented to a senior officer responsible for your information security program. The report shall include the following information:
+
+(1) The overall status of the information security program and your compliance with this part; and
+
+(2) Material matters related to the information security program, addressing issues such as risk assessment, risk management and control decisions, service provider arrangements, results of testing, security events or violations and management's responses thereto, and recommendations for changes in the information security program.
+
+[86 FR 70307, Dec. 9, 2021]
