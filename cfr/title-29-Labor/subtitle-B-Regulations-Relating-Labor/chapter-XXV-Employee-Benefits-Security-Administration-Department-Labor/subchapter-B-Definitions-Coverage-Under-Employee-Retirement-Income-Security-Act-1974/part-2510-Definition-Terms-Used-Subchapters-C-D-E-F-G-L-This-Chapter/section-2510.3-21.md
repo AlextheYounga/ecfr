@@ -1,5 +1,7 @@
 ##### § 2510.3-21 Definition of “Fiduciary.” #####
 
+Link to an amendment published at 82 FR 196918, Apr. 7, 2017.
+
 (a) *Investment advice.* For purposes of section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 (Act) and section 4975(e)(3)(B) of the Internal Revenue Code (Code), except as provided in paragraph (c) of this section, a person shall be deemed to be rendering investment advice with respect to moneys or other property of a plan or IRA described in paragraph (g)(6) of this section if -
 
 (1) Such person provides to a plan, plan fiduciary, plan participant or beneficiary, IRA, or IRA owner the following types of advice for a fee or other compensation, direct or indirect:
@@ -208,4 +210,4 @@
 
 (3) *Expiration date.* This paragraph (j) expires on April 10, 2017.
 
-[81 FR 20997, 21001, Apr. 8, 2016]Effective Date Note:At 81 FR 21001, Apr. 8, 2016, § 2510.3-21(j) was added, effective June 7, 2016 to Apr. 10, 2017.
+[81 FR 20997, 21001, Apr. 8, 2016]Effective Date Note:At 81 FR 21001, Apr. 8, 2016, in § 2510.3-21, paragraph (j) was added, effective June 7, 2016 to Apr. 10, 2017.
