@@ -1,16 +1,16 @@
-##### 52.222-32 Construction Wage Rate Requirements - Price Adjustment (Actual Method). #####
+##### 52.222-32 Construction Wage Rate Requirements—Price Adjustment (Actual Method). #####
 
 As prescribed in 22.407(g), insert the following clause:
 
-Construction Wage Rate Requirements - Price Adjustment (Actual Method) (JAN 2017)
+Construction Wage Rate Requirements—Price Adjustment (Actual Method) (AUG 2018)
 
-(a) The wage determination issued under the Construction Wage Rate Requirements statute by the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, that is effective for an option to extend the term of the contract, will apply to that option period.
+(a) The wage determination issued under the Construction Wage Rate Requirements statute by the Administrator, Wage and Hour Division, U.S. Department of Labor, that is effective for an option to extend the term of the contract, will apply to that option period.
 
 (b)(1) The Contractor states that if the prices in this contract contain an allowance for wage or benefit increases, such allowance will not be included in any request for contract price adjustment submitted under this clause.
 
 (2) The Contractor shall provide with each request for contract price adjustment under this clause a statement that the prices in the contract do not include any allowance for any increased cost for which adjustment is being requested.
 
-(c) The Contracting Officer will adjust the contract price or contract unit price labor rates to reflect the Contractor's actual increase or decrease in wages and fringe benefits to the extent that the increase is made to comply with, or the decrease is voluntarily made by the Contractor as a result of -
+(c) The Contracting Officer will adjust the contract price or contract unit price labor rates to reflect the Contractor's actual increase or decrease in wages and fringe benefits to the extent that the increase is made to comply with, or the decrease is voluntarily made by the Contractor as a result of—
 
 (1) Incorporation of the Department of Labor's Construction Wage Rate Requirements wage determination applicable at the exercise of an option to extend the term of the contract; or
 
@@ -26,8 +26,6 @@ Construction Wage Rate Requirements - Price Adjustment (Actual Method) (JAN 2017
 
 (2) *Computation for contract unit price containing multiple craft hours for schedule of indefinite-quantity work.* For each labor classification, the difference between the actual wage and benefit rates (combined) paid and the wage and benefit rates (combined) required by the new wage determination shall be multiplied by the actual number of hours expended for each craft involved in accomplishing the unit-priced work item. The product of this computation will then be divided by the actual number of units ordered in the preceding contract period. The total of these computations for each craft will be added to the current contract unit price to obtain the new contract unit price. The extended amount for the line item will be obtained by multiplying the new unit price by the estimated quantity. If actual hours are not available from the preceding contract period for computation of the adjustment for a specific contract unit of work, the Contractor, in agreement with the Contracting Officer, shall estimate the total hours per craft per contract unit of work.
 
-Example: Asphalt Paving - Current Price $3.38 per Square Yard
-
 |                                                                         DBA craft                                                                         |New WD |   |Hourly rate paid|   |Diff.|   |Actual hrs.|Actual units (sq. yard)|   |Increase/sq. yard|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------|---|----------------|---|-----|---|-----------|-----------------------|---|-----------------|
 |                                                                        Equip. Opr.                                                                        |$18.50 | − |     $18.00     |\= |$.50 | × | 600 hrs./ |    3,000 sq. yrd.     |\= |      $.10       |
@@ -36,7 +34,7 @@ Example: Asphalt Paving - Current Price $3.38 per Square Yard
 |                                                              Total increase per square yard                                                               |\* $.29|   |                |   |     |   |           |                       |   |                 |
 |\* Note: Adjustment for labor rate increases or decreases may be accompanied by social security and unemployment taxes and workers' compensation insurance.|       |   |                |   |     |   |           |                       |   |                 |
 |                                                           Current unit price (per square yard)                                                            | $3.38 |   |                |   |     |   |           |                       |   |                 |
-|                                                                    Add DBA price adj.                                                                     | \+ .29|   |                |   |     |   |           |                       |   |                 |
+|                                                                    Add DBA price adj.                                                                     |\+ .29 |   |                |   |     |   |           |                       |   |                 |
 |                                                             New unit price (per square yard)                                                              | $3.67 |   |                |   |     |   |           |                       |   |                 |
 
-(End of clause)[66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24219, Apr. 29, 2014; 82 FR 4715, Jan. 13, 2017]
+(End of clause)[66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24219, Apr. 29, 2014; 82 FR 4715, Jan. 13, 2017; 83 FR 42575, Aug. 22, 2018]

@@ -14,6 +14,6 @@
 
 (c) The primary purposes of the notice are to improve small business access to acquisition information and enhance competition by identifying contracting and subcontracting opportunities.
 
-(d) The GPE may be accessed via the Internet at *http://www.fedbizopps.gov.*
+(d) The GPE may be accessed via the Internet at *https://www.fbo.gov.*
 
-[66 FR 27410, May 16, 2001, as amended at 68 FR 56678, Oct. 1, 2003; 72 FR 63076, Nov. 7, 2007; 79 FR 24197, Apr. 29, 2014]
+[66 FR 27410, May 16, 2001, as amended at 68 FR 56678, Oct. 1, 2003; 72 FR 63076, Nov. 7, 2007; 79 FR 24197, Apr. 29, 2014; 83 FR 42572, Aug. 22, 2018]

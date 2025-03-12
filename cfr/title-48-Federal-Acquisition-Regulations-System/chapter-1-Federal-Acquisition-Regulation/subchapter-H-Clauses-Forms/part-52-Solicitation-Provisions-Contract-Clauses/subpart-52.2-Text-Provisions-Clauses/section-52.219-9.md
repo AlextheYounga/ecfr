@@ -2,7 +2,7 @@
 
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (JAN 2017)
+Small Business Subcontracting Plan (AUG 2018)
 
 (a) This clause does not apply to small business concerns.
 
@@ -29,14 +29,6 @@ Small Business Subcontracting Plan (JAN 2017)
 *Total contract dollars* means the final anticipated dollar value, including the dollar value of all options.
 
 *Untimely payment* means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor.
-
-(d) The Offeror's subcontracting plan shall include the following:
-
-(1) Separate goals, expressed in terms of total dollars subcontracted, and as a percentage of total planned subcontracting dollars, for the use of small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns as subcontractors. For individual subcontracting plans, and if required by the Contracting Officer, goals shall also be expressed in terms of percentage of total contract dollars, in addition to the goals expressed as a percentage of total subcontract dollars. The Offeror shall include all subcontracts that contribute to contract performance, and may include a proportionate share of products and services that are normally allocated as indirect costs. In accordance with 43 U.S.C. 1626 -
-
-(i) Subcontracts awarded to an ANC or Indian tribe shall be counted towards the subcontracting goals for small business and small disadvantaged business concerns, regardless of the size or Small Business Administration certification status of the ANC or Indian tribe; and
-
-(ii) Where one or more subcontractors are in the subcontract tier between the prime Contractor and the ANC or Indian tribe, the ANC or Indian tribe shall designate the appropriate Contractor(s) to count the subcontract towards its small business and small disadvantaged business subcontracting goals.
 
 (c)(1) The Offeror, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate the subcontracting plan shall make the Offeror ineligible for award of a contract.
 
@@ -129,15 +121,15 @@ Small Business Subcontracting Plan (JAN 2017)
 
 (ii) Submit periodic reports so that the Government can determine the extent of compliance by the Offeror with the subcontracting plan;
 
-(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for indefinite-delivery, indefinite-quantity contracts intended for use by multiple agencies;
+(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for indefinite-delivery, indefinite-quantity contracts with individual subcontracting plans where the contract is intended for use by multiple agencies;
 
 (iv) Submit the Individual Subcontract Report (ISR) and/or the Summary Subcontract Report (SSR), in accordance with paragraph (l) of this clause using the Electronic Subcontracting Reporting System (eSRS) at *http://www.esrs.gov.* The reports shall provide information on subcontract awards to small business concerns (including ANCs and Indian tribes that are not small businesses), veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns (including ANCs and Indian tribes that have not been certified by SBA as small disadvantaged businesses), women-owned small business concerns, and for NASA only, Historically Black Colleges and Universities and Minority Institutions. Reporting shall be in accordance with this clause, or as provided in agency regulations;
 
 (v) Ensure that its subcontractors with subcontracting plans agree to submit the ISR and/or the SSR using eSRS;
 
-(vi) Provide its prime contract number, its DUNS number, and the email address of the Offeror's official responsible for acknowledging receipt of or rejecting the ISRs, to all first-tier subcontractors with subcontracting plans so they can enter this information into the eSRS when submitting their ISRs; and
+(vi) Provide its prime contract number, its unique entity identifier, and the email address of the Offeror's official responsible for acknowledging receipt of or rejecting the ISRs, to all first-tier subcontractors with subcontracting plans so they can enter this information into the eSRS when submitting their ISRs; and
 
-(vii) Require that each subcontractor with a subcontracting plan provide the prime contract number, its own DUNS number, and the email address of the subcontractor's official responsible for acknowledging receipt of or rejecting the ISRs, to its subcontractors with subcontracting plans.
+(vii) Require that each subcontractor with a subcontracting plan provide the prime contract number, its own unique entity identifier, and the email address of the subcontractor's official responsible for acknowledging receipt of or rejecting the ISRs, to its subcontractors with subcontracting plans.
 
 (11) A description of the types of records that will be maintained concerning procedures that have been adopted to comply with the requirements and goals in the plan, including establishing source lists; and a description of the offeror's efforts to locate small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns and award subcontracts to them. The records shall include at least the following (on a plant-wide or company-wide basis, unless otherwise indicated):
 
@@ -325,7 +317,7 @@ Small Business Subcontracting Plan (JAN 2017)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (JAN 2017). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (AUG 2018). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
@@ -417,15 +409,15 @@ Small Business Subcontracting Plan (JAN 2017)
 
 (ii) Submit periodic reports so that the Government can determine the extent of compliance by the Contractor with the subcontracting plan;
 
-(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for an indefinite-delivery, indefinite-quantity contract intended for use by multiple agencies;
+(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for an indefinite-delivery, indefinite-quantity contract with an individual subcontracting plan where the contract is intended for use by multiple agencies;
 
 (iv) Submit the Individual Subcontract Report (ISR) and/or the Summary Subcontract Report (SSR), in accordance with paragraph (l) of this clause using the Electronic Subcontracting Reporting System (eSRS) at *http://www.esrs.gov.* The reports shall provide information on subcontract awards to small business concerns (including ANCs and Indian tribes that are not small businesses), veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns (including ANCs and Indian tribes that have not been certified by SBA as small disadvantaged businesses), women-owned small business concerns, and for NASA only, Historically Black Colleges and Universities and Minority Institutions. Reporting shall be in accordance with this clause, or as provided in agency regulations;
 
 (v) Ensure that its subcontractors with subcontracting plans agree to submit the ISR and/or the SSR using eSRS;
 
-(vi) Provide its prime contract number, its DUNS number, and the email address of the Contractor's official responsible for acknowledging receipt of or rejecting the ISRs, to all first-tier subcontractors with subcontracting plans so they can enter this information into the eSRS when submitting their ISRs; and
+(vi) Provide its prime contract number, its unique entity identifier, and the email address of the Contractor's official responsible for acknowledging receipt of or rejecting the ISRs, to all first-tier subcontractors with subcontracting plans so they can enter this information into the eSRS when submitting their ISRs; and
 
-(vii) Require that each subcontractor with a subcontracting plan provide the prime contract number, its own DUNS number, and the email address of the subcontractor's official responsible for acknowledging receipt of or rejecting the ISRs, to its subcontractors with subcontracting plans.
+(vii) Require that each subcontractor with a subcontracting plan provide the prime contract number, its own unique entity identifier, and the email address of the subcontractor's official responsible for acknowledging receipt of or rejecting the ISRs, to its subcontractors with subcontracting plans.
 
 (11) A description of the types of records that will be maintained concerning procedures that have been adopted to comply with the requirements and goals in the plan, including establishing source lists; and a description of the Contractor's efforts to locate small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns and award subcontracts to them. The records shall include at least the following (on a plant-wide or company-wide basis, unless otherwise indicated):
 
@@ -479,4 +471,4 @@ Small Business Subcontracting Plan (JAN 2017)
 
 (15) Assurances that the offeror will pay its small business subcontractors on time and in accordance with the terms and conditions of the underlying subcontract, and notify the contracting officer when the prime contractor makes either a reduced or an untimely payment to a small business subcontractor (see 52.242-5).
 
-[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.219-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.219-9, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

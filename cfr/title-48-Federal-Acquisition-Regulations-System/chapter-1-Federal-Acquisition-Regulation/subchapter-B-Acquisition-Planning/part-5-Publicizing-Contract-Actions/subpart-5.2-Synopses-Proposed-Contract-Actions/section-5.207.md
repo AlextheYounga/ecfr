@@ -38,7 +38,7 @@
 
 (18) Set-aside Status.
 
-(b) *Transmittal.* Transmissions to the GPE must be in accordance with the interface description available via the Internet at *http://www.fedbizopps.gov.*
+(b) *Transmittal.* Transmissions to the GPE must be in accordance with the interface description available via the Internet at *https://www.fbo.gov.*
 
 (c) *General format for “Description.”* Prepare a clear and concise description of the supplies or services that is not unnecessarily restrictive of competition and will allow a prospective offeror to make an informed business judgment as to whether a copy of the solicitation should be requested including the following, as appropriate:
 
@@ -88,12 +88,12 @@
 
 (18) If the solicitation will be made available to interested parties through electronic data interchange, provide any information necessary to obtain and respond to the solicitation electronically.
 
-(19) If the technical data required to respond to the solicitation will not be furnished as part of such solicitation, identify the source in the Government, such as *http://www.fedbizopps.gov*, from which the technical data may be obtained.
+(19) If the technical data required to respond to the solicitation will not be furnished as part of such solicitation, identify the source in the Government, such as *https://www.fbo.gov*, from which the technical data may be obtained.
 
 (d) *Set-asides.* When the proposed acquisition provides for a total or partial small business program set-aside, or when the proposed acquisition provides for a local area set-aside (see Subpart 26.2), the contracting officer shall identify the type of set-aside in the synopsis and in the solicitation.
 
-(e) *Codes to be used in Synopses to identify services or supplies.* Contracting officers must use one of the classification codes identified at *http://www.fedbizopps.gov/* to identify services or supplies in synopses.
+(e) *Codes to be used in Synopses to identify services or supplies.* Contracting officers must use one of the classification codes identified at *https://www.fbo.gov/* to identify services or supplies in synopses.
 
 (f) *Notice of solicitation cancellation.* Contracting officers may publish notices of solicitation cancellations (or indefinite suspensions) of proposed contract actions in the GPE.
 
-[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015; 82 FR 4713, Jan. 13, 2017]
+[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 83 FR 42572, Aug. 22, 2018]

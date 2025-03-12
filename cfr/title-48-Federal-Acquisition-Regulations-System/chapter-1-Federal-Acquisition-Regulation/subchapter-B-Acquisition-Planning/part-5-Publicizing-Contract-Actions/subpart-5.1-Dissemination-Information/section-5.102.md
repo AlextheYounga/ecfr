@@ -1,6 +1,6 @@
 ##### 5.102 Availability of solicitations. #####
 
-(a)(1) Except as provided in paragraph (a)(5) of this section, the contracting officer must make available through the GPE solicitations synopsized through the GPE, including specifications, technical data, and other pertinent information determined necessary by the contracting officer. Transmissions to the GPE must be in accordance with the interface description available via the Internet at *http://www.fedbizopps.gov.*
+(a)(1) Except as provided in paragraph (a)(5) of this section, the contracting officer must make available through the GPE solicitations synopsized through the GPE, including specifications, technical data, and other pertinent information determined necessary by the contracting officer. Transmissions to the GPE must be in accordance with the interface description available via the Internet at *https://www.fbo.gov.*
 
 (2) The contracting officer is encouraged, when practicable and cost-effective, to make accessible through the GPE additional information related to a solicitation.
 
@@ -44,4 +44,4 @@
 
 (f) This section 5.102 applies to classified contracts to the extent consistent with agency security requirements (see 5.202(a)(1)).
 
-[66 FR 27409, May 16, 2001, as amended at 71 FR 20297, Apr. 19, 2006; 71 FR 57359, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 74 FR 40460, Aug. 11, 2009; 74 FR 52860, Oct. 14, 2009]
+[66 FR 27409, May 16, 2001, as amended at 71 FR 20297, Apr. 19, 2006; 71 FR 57359, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 74 FR 40460, Aug. 11, 2009; 74 FR 52860, Oct. 14, 2009; 83 FR 42572, Aug. 22, 2018]

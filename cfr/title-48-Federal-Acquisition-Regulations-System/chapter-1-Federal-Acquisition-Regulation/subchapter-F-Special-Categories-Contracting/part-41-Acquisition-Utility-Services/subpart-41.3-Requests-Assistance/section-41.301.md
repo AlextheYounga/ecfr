@@ -1,6 +1,6 @@
 ##### 41.301 Requirements. #####
 
-(a) Requests for delegations of GSA contracting authority, assistance with a proposed contract as provided in 41.203, and the submission of other information required by this part, shall be sent or submitted to the General Services Administration (GSA) region in which service is required. The names and locations of GSA regional offices are available from the General Services Administration, Energy Center of Expertise, 301 7th Street, SW., Room 4004, Washington, DC 20407.
+(a) Requests for delegations of GSA contracting authority, assistance with a proposed contract as provided in 41.203, and the submission of other information required by this part, shall be sent or submitted to the General Services Administration (GSA) region in which service is required. The names and locations of GSA regional offices are available from the General Services Administration, Energy Division—PMA, 1800 F St NW, Washington, DC 20405; website: *www.gsa.gov/energy;* Email: *energy@gsa.gov*.
 
 (b) Requests for contracting assistance for utility services shall be sent not later than 120 days prior to the date new services are required to commence an existing contract will expire. Requests for assistance shall contain the following information:
 
@@ -46,4 +46,4 @@
 
 (5) A statement noting whether the transformer, or other system components, on either side of the delivery point are owned by the Federal agency or the utility supplier, and if the metering is on the primary or secondary side of the transformer.
 
-[69 FR 76358, Dec. 20, 2004]
+[69 FR 76358, Dec. 20, 2004, as amended at 83 FR 42574, Aug. 22, 2018]

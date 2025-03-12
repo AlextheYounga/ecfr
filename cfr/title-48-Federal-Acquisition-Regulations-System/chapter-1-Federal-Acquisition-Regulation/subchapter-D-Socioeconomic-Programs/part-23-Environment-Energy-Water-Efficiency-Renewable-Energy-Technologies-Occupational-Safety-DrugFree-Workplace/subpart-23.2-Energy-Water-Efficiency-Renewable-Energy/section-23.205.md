@@ -6,10 +6,12 @@
 
 (2) Except as provided in 10 CFR 436.34, ESPC's are subject to subpart 17.1.
 
-(c) To solicit and award an ESPC, the contracting officer -
+(c) To solicit and award an ESPC, the contracting officer—
 
-(1) Must use the procedures, selection method, and terms and conditions provided in 10 CFR part 436, subpart B; at *http://www1.eere.energy.gov/femp/financing/espcs\_regulations.html*; and
+(1) Must use the procedures, selection method, and terms and conditions provided in 10 CFR part 436, subpart B; and
 
 (2) May use the “Qualified List” of energy service companies established by the Department of Energy and other agencies.
 
-[66 FR 65352, Dec. 18, 2001. Redesignated at 72 FR 65872, Nov. 23, 2007; 76 FR 31400, May 31, 2011; 77 FR 204, Jan. 3, 2012]
+(d) For more information see *https://energy.gov/eere/femp/energy-savings-performance-contracts-federal-agencies.*
+
+[66 FR 65352, Dec. 18, 2001. Redesignated at 72 FR 65872, Nov. 23, 2007; 76 FR 31400, May 31, 2011; 77 FR 204, Jan. 3, 2012; 83 FR 42573, Aug. 22, 2018]

@@ -26,7 +26,7 @@
 
 (ii) Submit periodic reports so that the Government can determine the extent of compliance by the offeror with the subcontracting plan;
 
-(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for indefinite-delivery, indefinite-quantity contracts intended for use by multiple agencies;
+(iii) After November 30, 2017, include subcontracting data for each order when reporting subcontracting achievements for indefinite-delivery, indefinite-quantity contracts with individual subcontracting plans where the contract is intended for use by multiple agencies;
 
 (iv) Submit the Individual Subcontract Report (ISR), and the Summary Subcontract Report (SSR) using the Electronic Subcontracting Reporting System (eSRS) (*http://www.esrs.gov*), following the instructions in the eSRS.
 
@@ -68,4 +68,4 @@
 
 (4) Comply with the reporting requirements stated in paragraph (a)(10) of this section by submitting one SSR in eSRS, for all contracts covered by its commercial plan. This report will be acknowledged or rejected in eSRS by the contracting officer who approved the plan. The report shall be submitted within 30 days after the end of the Government's fiscal year.
 
-[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.704, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.704, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

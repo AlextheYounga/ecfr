@@ -2,7 +2,7 @@
 
 As prescribed in 25.1101(c)(1), insert the following clause:
 
-Trade Agreements (OCT 2016)
+Trade Agreements (AUG 2018)
 
 (a) *Definitions.* As used in this clause.
 
@@ -26,7 +26,7 @@ Trade Agreements (OCT 2016)
 
 (*4*) Certain of the following: textiles and apparel articles; footwear, handbags, luggage, flat goods, work gloves, and leather wearing apparel; or handloomed, handmade, and folklore articles;
 
-(B) Access to the HTSUS to determine duty-free status of articles of these types is available at *http://www.usitc.gov/tata/hts/.* In particular, see the following:
+(B) Access to the HTSUS to determine duty-free status of articles of these types is available at *https://usitc.gov/tata/hts/index.htm*. In particular, see the following:
 
 (*1*) General Note 3(c), Products Eligible for Special Tariff treatment.
 
@@ -76,4 +76,4 @@ Trade Agreements (OCT 2016)
 
 (b) *Delivery of end products.* The Contracting Officer has determined that the WTO GPA and FTAs apply to this acquisition. Unless otherwise specified, these trade agreements apply to all items in the Schedule. The Contractor shall deliver under this contract only U.S.-made or designated country end products except to the extent that, in its offer, it specified delivery of other end products in the provision entitled “Trade Agreements Certificate.”
 
-(End of clause)[64 FR 72435, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 52.225-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(End of clause)[64 FR 72435, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 52.225-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

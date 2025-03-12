@@ -1,12 +1,12 @@
 ##### 23.203 Energy-efficient products. #####
 
-(a) Unless exempt as provided at 23.204 -
+(a) Unless exempt as provided at 23.204—
 
-(1) When acquiring energy-consuming products listed in the ENERGY STAR ® Program or Federal Energy Management Program (FEMP) -
+(1) When acquiring energy-consuming products listed in the ENERGY STAR ® Program or Federal Energy Management Program (FEMP)—
 
 (i) Agencies shall purchase ENERGY STAR ® or FEMP-designated products; and
 
-(ii) For products that consume power in a standby mode and are listed on FEMP's Low Standby Power Devices product listing, agencies shall -
+(ii) For products that consume power in a standby mode and are listed on FEMP's Low Standby Power Devices product listing, agencies shall—
 
 (A) Purchase items which meet FEMP's standby power wattage recommendation or document the reason for not purchasing such items; or
 
@@ -14,10 +14,10 @@
 
 (2) When contracting for services or construction that will include the provision of energy-consuming products, agencies shall specify products that comply with the applicable requirements in paragraph (a)(1) of this section.
 
-(b) Information is available via the Internet about -
+(b) Information is available via the Internet about—
 
 (1) ENERGY STAR ® at *http://www.energystar.gov/products*; and
 
-(2) FEMP at *http://www1.eere.energy.gov/femp/procurement/eep\_requirements.html.*
+(2) FEMP at *http://energy.gov/eere/femp/energy-and-water-efficient-products.*
 
-[72 FR 65872, Nov. 23, 2007]
+[72 FR 65872, Nov. 23, 2007, as amended at 83 FR 42573, Aug. 22, 2018]

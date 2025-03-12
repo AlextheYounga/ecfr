@@ -1,4 +1,4 @@
-##### 14.201-2 Part I - The Schedule. #####
+##### 14.201-2 Part I—The Schedule. #####
 
 The contracting officer shall prepare the Schedule as follows:
 
@@ -22,7 +22,7 @@ The contracting officer shall prepare the Schedule as follows:
 
 (viii) A statement that bidders should include in the bid the address to which payment should be mailed, if that address is different from that of the bidder.
 
-(b) *Section B, Supplies or services and prices.*Include a brief description of the supplies or services; *e.g.,* line item number, national stock number/part number if applicable, title or name identifying the supplies or services, and quantities (see part 11). The SF 33 and SF 1447 may be supplemented as necessary by the Optional Form 336 (OF 336), Continuation Sheet (53.302-336).
+(b) *Section B, Supplies or services and prices.*Include a brief description of the supplies or services; *e.g.,* line item number, national stock number/part number if applicable, title or name identifying the supplies or services, and quantities (see part 11). The SF 33 and SF 1447 may be supplemented as necessary by the Optional Form 336 (OF 336), Continuation Sheet.
 
 (c) *Section C, Description/specifications.* Include any description or specifications needed in addition to Section B to permit full and open competition (see part 11).
 
@@ -36,4 +36,4 @@ The contracting officer shall prepare the Schedule as follows:
 
 (h) *Section H, Special contract requirements.* Include a clear statement of any special contract requirements that are not included in Section I, Contract clauses, or in other sections of the uniform contract format.
 
-[48 FR 42171, Sept. 19, 1983, as amended at 50 FR 1737, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 27119, July 29, 1986; 54 FR 48982, Nov. 28, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 48248, Sept. 18, 1995; 82 FR 4713, Jan. 13, 2017]
+[48 FR 42171, Sept. 19, 1983, as amended at 50 FR 1737, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 51 FR 27119, July 29, 1986; 54 FR 48982, Nov. 28, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 48248, Sept. 18, 1995; 82 FR 4713, Jan. 13, 2017; 83 FR 42572, Aug. 22, 2018]

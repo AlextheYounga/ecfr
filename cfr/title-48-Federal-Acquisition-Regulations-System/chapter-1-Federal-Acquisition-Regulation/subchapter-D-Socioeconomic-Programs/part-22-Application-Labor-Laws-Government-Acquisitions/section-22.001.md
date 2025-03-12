@@ -1,6 +1,6 @@
 ##### 22.001 Definitions. #####
 
-*Administrator* or *Administrator, Wage and Hour Division,* as used in this part, means the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, Washington, DC 20210 or an authorized representative.
+*Administrator* or *Administrator, Wage and Hour Division,* as used in this part, means the Administrator, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210 or an authorized representative.
 
 *Agency labor advisor* means an individual responsible for advising contracting agency officials on Federal contract labor matters.
 
@@ -12,4 +12,4 @@
 
 *Wage Determinations OnLine (WDOL)* means the Government Internet Web site for both Construction Wage Rate Requirements statute and Service Contract Labor Standards statute wage determinations available at *http://www.wdol.gov.*
 
-[53 FR 4935, Feb. 18, 1988, as amended at 71 FR 36931, June 28, 2006; 77 FR 75775, Dec. 21, 2012; 79 FR 24202, Apr. 29, 2014; 79 FR 74549, Dec. 15, 2014]
+[53 FR 4935, Feb. 18, 1988, as amended at 71 FR 36931, June 28, 2006; 77 FR 75775, Dec. 21, 2012; 79 FR 24202, Apr. 29, 2014; 79 FR 74549, Dec. 15, 2014; 83 FR 42573, Aug. 22, 2018]

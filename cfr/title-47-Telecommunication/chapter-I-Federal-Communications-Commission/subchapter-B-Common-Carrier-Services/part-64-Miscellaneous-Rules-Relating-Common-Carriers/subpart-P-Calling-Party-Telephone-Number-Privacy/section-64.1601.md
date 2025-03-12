@@ -1,7 +1,5 @@
 ##### § 64.1601 Delivery requirements and privacy restrictions. #####
 
-Link to an amendment published at 83 FR 34794, July 23, 2018.
-
 (a) *Delivery.* Except as provided in paragraphs (d) and (e) of this section:
 
 (1) Telecommunications carriers and providers of interconnected Voice over Internet Protocol (VoIP) services, in originating interstate or intrastate traffic on the public switched telephone network (PSTN) or originating interstate or intrastate traffic that is destined for the PSTN (collectively “PSTN Traffic”), are required to transmit for all PSTN Traffic the telephone number received from or assigned to or otherwise associated with the calling party to the next provider in the path from the originating provider to the terminating provider. This provision applies regardless of the voice call signaling and transmission technology used by the carrier or VoIP provider. Entities subject to this provision that use Signaling System 7 (SS7) are required to transmit the calling party number (CPN) associated with all PSTN Traffic in the SS7 ISUP (ISDN User Part) CPN field to interconnecting providers, and are required to transmit the calling party's charge number (CN) in the SS7 ISUP CN field to interconnecting providers for any PSTN Traffic where CN differs from CPN. Entities subject to this provision who use multi-frequency (MF) signaling are required to transmit CPN, or CN if it differs from CPN, associated with all PSTN Traffic in the MF signaling automatic numbering information (ANI) field.
@@ -24,7 +22,7 @@ Link to an amendment published at 83 FR 34794, July 23, 2018.
 
 (3) A Private Branch Exchange or Centrex system does not pass end user CPN. Centrex systems that rely on \*6 or \*8 for a function other than CPN blocking or unblocking, respectively, are also exempt if they employ alternative means of blocking or unblocking.
 
-(4) CPN delivery -
+(4) CPN delivery—
 
 (i) Is used solely in connection with calls within the same limited system, including (but not limited to) a Centrex system, virtual private network, or Private Branch Exchange;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 34794, July 23, 2018.
 
 (6) Any violation of these conditions must be reported promptly to the Commission.
 
-[60 FR 29490, June 5, 1995; 60 FR 54449, Oct. 24, 1995, as amended at 62 FR 34015, June 24, 1997; 68 FR 44179, July 25, 2003; 71 FR 75122, Dec. 14, 2006; 76 FR 73882, Nov. 29, 2011; 82 FR 56917, Dec. 1, 2017]Effective Date Note:At 82 FR 56917, Dec. 1, 2017, § 64.1601 was amended by revising paragraphs (d)(4)(ii) and adding paragraph (f). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[60 FR 29490, June 5, 1995; 60 FR 54449, Oct. 24, 1995, as amended at 62 FR 34015, June 24, 1997; 68 FR 44179, July 25, 2003; 71 FR 75122, Dec. 14, 2006; 76 FR 73882, Nov. 29, 2011; 82 FR 56917, Dec. 1, 2017]

@@ -1,8 +1,8 @@
-##### 52.243-1 Changes - Fixed-Price. #####
+##### 52.243-1 Changes—Fixed-Price. #####
 
-As prescribed in 43.205(e), insert the following clause:
+As prescribed in 43.205(a)(1), insert the following clause. The 30-day period may be varied according to agency procedures.
 
-Changes - Fixed-Price (AUG 1987)
+Changes—Fixed-Price (AUG 1987)
 
 (a) The Contracting Officer may at any time, by written order, and without notice to the sureties, if any, make changes within the general scope of this contract in any one or more of the following:
 
@@ -72,10 +72,10 @@ Changes - Fixed-Price (AUG 1987)
 
 *Alternate V* (APR 1984). If the requirement is for research and development and it is desired to include the clause, substitute the following subparagraphs (a)(1) and (a)(3) and paragraph (b) for subparagraphs (a)(1) and (a)(3) and paragraph (b) of the basic clause:
 
-(1) Drawings, designs, or specifications.
+(a)(1) Drawings, designs, or specifications.
 
 (3) Place of inspection, delivery, or acceptance.
 
 (b) If any such change causes an increase or decrease in the cost of, or time required for, performing this contract, whether or not changed by the order, the Contracting Officer shall make an equitable adjustment in (1) the contract price, the time of performance, or both; and (2) other affected terms of the contract, and shall modify the contract accordingly.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30079, Aug. 12, 1987; 54 FR 48995, Nov. 28, 1989; 60 FR 34761, July 3, 1995]
+[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30079, Aug. 12, 1987; 54 FR 48995, Nov. 28, 1989; 83 FR 42576, Aug. 22, 2018]

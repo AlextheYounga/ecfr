@@ -2,7 +2,7 @@
 
 As prescribed in 16.307(a), insert the following clause:
 
-Allowable Cost and Payment (JUN 2013)
+Allowable Cost and Payment (AUG 2018)
 
 (a) *Invoicing.* (1) The Government will make payments to the Contractor when requested as work progresses, but (except for small business concerns) not more often than once every 2 weeks, in amounts determined to be allowable by the Contracting Officer in accordance with Federal Acquisition Regulation (FAR) subpart 31.2 in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.
 
@@ -12,13 +12,13 @@ Allowable Cost and Payment (JUN 2013)
 
 In the event that the Government requires an audit or other review of a specific payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date.
 
-(b) *Reimbursing costs.* (1) For the purpose of reimbursing allowable costs (except as provided in paragraph (b)(2) of the clause, with respect to pension, deferred profit sharing, and employee stock ownership plan contributions), the term *costs* includes only -
+(b) *Reimbursing costs.* (1) For the purpose of reimbursing allowable costs (except as provided in paragraph (b)(2) of the clause, with respect to pension, deferred profit sharing, and employee stock ownership plan contributions), the term *costs* includes only—
 
 (i) Those recorded costs that, at the time of the request for reimbursement, the Contractor has paid by cash, check, or other form of actual payment for items or services purchased directly for the contract;
 
-(ii) When the Contractor is not delinquent in paying costs of contract performance in the ordinary course of business, costs incurred, but not necessarily paid, for -
+(ii) When the Contractor is not delinquent in paying costs of contract performance in the ordinary course of business, costs incurred, but not necessarily paid, for—
 
-(A) Supplies and services purchased directly for the contract and associated financing payments to subcontractors, provided payments determined due will be made -
+(A) Supplies and services purchased directly for the contract and associated financing payments to subcontractors, provided payments determined due will be made—
 
 (*1*) In accordance with the terms and conditions of a subcontract or invoice; and
 
@@ -36,7 +36,7 @@ In the event that the Government requires an audit or other review of a specific
 
 (iii) The amount of financing payments that have been paid by cash, check, or other forms of payment to subcontractors.
 
-(2) Accrued costs of Contractor contributions under employee pension plans shall be excluded until actually paid unless -
+(2) Accrued costs of Contractor contributions under employee pension plans shall be excluded until actually paid unless—
 
 (i) The Contractor's practice is to make contributions to the retirement fund quarterly or more frequently; and
 
@@ -90,7 +90,7 @@ In the event that the Government requires an audit or other review of a specific
 
 (A) Comparative analysis of indirect expense pools detailed by account to prior fiscal year and budgetary data.
 
-(B) General organizational information and limitation on allowability of compensation for certain contractor personnel. See 31.205-6(p). Additional salary reference information is available at *http://www.whitehouse.gov/omb/procurement\_index\_exec\_comp/.*
+(B) General organizational information and limitation on allowability of compensation for certain contractor personnel. See 31.205-6(p). Additional salary reference information is available at *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf* and *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf*.
 
 (C) Identification of prime contracts under which the contractor performs as a subcontractor.
 
@@ -126,7 +126,7 @@ In the event that the Government requires an audit or other review of a specific
 
 (5) Within 120 days (or longer period if approved in writing by the Contracting Officer) after settlement of the final annual indirect cost rates for all years of a physically complete contract, the Contractor shall submit a completion invoice or voucher to reflect the settled amounts and rates. The completion invoice or voucher shall include settled subcontract amounts and rates. The prime contractor is responsible for settling subcontractor amounts and rates included in the completion invoice or voucher and providing status of subcontractor audits to the contracting officer upon request.
 
-(6)(i) If the Contractor fails to submit a completion invoice or voucher within the time specified in paragraph (d)(5) of this clause, the Contracting Officer may -
+(6)(i) If the Contractor fails to submit a completion invoice or voucher within the time specified in paragraph (d)(5) of this clause, the Contracting Officer may—
 
 (A) Determine the amounts due to the Contractor under the contract; and
 
@@ -134,7 +134,7 @@ In the event that the Government requires an audit or other review of a specific
 
 (ii) This determination constitutes the final decision of the Contracting Officer in accordance with the Disputes clause.
 
-(e) *Billing rates.* Until final annual indirect cost rates are established for any period, the Government shall reimburse the Contractor at billing rates established by the Contracting Officer or by an authorized representative (the cognizant auditor), subject to adjustment when the final rates are established. These billing rates -
+(e) *Billing rates.* Until final annual indirect cost rates are established for any period, the Government shall reimburse the Contractor at billing rates established by the Contracting Officer or by an authorized representative (the cognizant auditor), subject to adjustment when the final rates are established. These billing rates—
 
 (1) Shall be the anticipated final rates; and
 
@@ -146,11 +146,11 @@ In the event that the Government requires an audit or other review of a specific
 
 (h) *Final payment.* (1) Upon approval of a completion invoice or voucher submitted by the Contractor in accordance with paragraph (d)(5) of this clause, and upon the Contractor's compliance with all terms of this contract, the Government shall promptly pay any balance of allowable costs and that part of the fee (if any) not previously paid.
 
-(2) The Contractor shall pay to the Government any refunds, rebates, credits, or other amounts (including interest, if any) accruing to or received by the Contractor or any assignee under this contract, to the extent that those amounts are properly allocable to costs for which the Contractor has been reimbursed by the Government. Reasonable expenses incurred by the Contractor for securing refunds, rebates, credits, or other amounts shall be allowable costs if approved by the Contracting Officer. Before final payment under this contract, the Contractor and each assignee whose assignment is in effect at the time of final payment shall execute and deliver -
+(2) The Contractor shall pay to the Government any refunds, rebates, credits, or other amounts (including interest, if any) accruing to or received by the Contractor or any assignee under this contract, to the extent that those amounts are properly allocable to costs for which the Contractor has been reimbursed by the Government. Reasonable expenses incurred by the Contractor for securing refunds, rebates, credits, or other amounts shall be allowable costs if approved by the Contracting Officer. Before final payment under this contract, the Contractor and each assignee whose assignment is in effect at the time of final payment shall execute and deliver—
 
 (i) An assignment to the Government, in form and substance satisfactory to the Contracting Officer, of refunds, rebates, credits, or other amounts (including interest, if any) properly allocable to costs for which the Contractor has been reimbursed by the Government under this contract; and
 
-(ii) A release discharging the Government, its officers, agents, and employees from all liabilities, obligations, and claims arising out of or under this contract, except -
+(ii) A release discharging the Government, its officers, agents, and employees from all liabilities, obligations, and claims arising out of or under this contract, except—
 
 (A) Specified claims stated in exact amounts, or in estimated amounts when the exact amounts are not known;
 
@@ -162,7 +162,7 @@ In the event that the Government requires an audit or other review of a specific
 
 *Alternate I* (FEB 1997). As prescribed in 16.307(a)(2), substitute the following paragraph (b)(1)(iii) for paragraph (b)(1)(iii) of the basic clause:
 
-(iii) The amount of progress and other payments to the Contractor's subcontractors that either have been paid, or that the Contractor is required to pay pursuant to the clause of this contract entitled “Prompt Payment for Construction Contracts.” Payments shall be made by cash, check, or other form of payment to the Contractor's subcontractors under similar cost standards.
+(b)(1)(iii) The amount of progress and other payments to the Contractor's subcontractors that either have been paid, or that the Contractor is required to pay pursuant to the clause of this contract entitled “Prompt Payment for Construction Contracts.” Payments shall be made by cash, check, or other form of payment to the Contractor's subcontractors under similar cost standards.
 
 *Alternate II* (AUG 2012). As prescribed in 16.307(a)(3), substitute the following paragraph (a)(1) for paragraph (a)(1) of the basic clause:
 
@@ -176,4 +176,4 @@ In the event that the Government requires an audit or other review of a specific
 
 (a)(1) The Government will make payments to the Contractor when requested as work progresses, but not more often than once every two weeks, in amounts determined to be allowable by the Contracting Officer in accordance with FAR subpart 31.7 in effect on the date of this contract and the terms of this contract. The Contractor may submit to an authorized representative of the Contracting Officer, in such form and reasonable detail as the representative may require, an invoice or voucher supported by a statement of the claimed allowable cost for performing this contract.
 
-[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.216-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 52.216-7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

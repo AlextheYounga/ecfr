@@ -1,15 +1,17 @@
 ##### 53.209-1 Responsible prospective contractors. #####
 
-(a) *SF 1403 (Rev. 9/88), Preaward Survey of Prospective Contractor (General).* SF 1403 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+The following forms are prescribed for use in conducting preaward surveys of prospective contractors, as specified in 9.106-1, 9.106-2, and 9.106-4. These forms are authorized for local reproduction and can be found at the GSA Forms Library at *https://www.gsa.gov/forms.*
 
-(b) *SF 1404 (Rev. 9/88), Preaward Survey of Prospective Contractor - Technical.* SF 1404 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+(a) SF 1403 (Rev. 01/2014), Preaward Survey of Prospective Contractor (General).
 
-(c) *SF 1405 (Rev. 9/88), Preaward Survey of Prospective Contractor - Production.* SF 1405 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+(b) SF 1404 (Rev. 01/2014), Preaward Survey of Prospective Contractor—Technical.
 
-(d) *SF 1406 (Rev. 11/97), Preaward Survey of Prospective Contractor - Quality Assurance.* SF 1406 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+(c) SF 1405 (Rev. 01/2014), Preaward Survey of Prospective Contractor—Production.
 
-(e) *SF 1407 (Rev. 9/88), Preaward Survey of Prospective Contractor - Financial Capability.* SF 1407 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+(d) SF 1406 (Rev. 01/2014), Preaward Survey of Prospective Contractor—Quality Assurance.
 
-(f) *SF 1408 (Rev. 9/88), Preaward Survey of Prospective Contractor - Accounting System.* SF 1408 is authorized for local reproduction and a copy is furnished for this purpose in part 53 of the looseleaf edition of the FAR.
+(e) SF 1407 (Rev. 01/2014), Preaward Survey of Prospective Contractor—Financial Capability.
 
-[55 FR 25534, June 21, 1990, as amended at 62 FR 64937, Dec. 9, 1997]
+(f) SF 1408 (Rev. 01/2014), Preaward Survey of Prospective Contractor—Accounting System.
+
+[83 FR 42576, Aug. 22, 2018]

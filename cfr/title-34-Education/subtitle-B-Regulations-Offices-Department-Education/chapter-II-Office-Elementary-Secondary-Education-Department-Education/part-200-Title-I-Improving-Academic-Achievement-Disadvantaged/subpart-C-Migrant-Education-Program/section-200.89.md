@@ -1,10 +1,6 @@
-##### § 200.89 MEP allocations; Re-interviewing; Eligibility documentation; and Quality control. #####
+##### § 200.89 Re-interviewing; eligibility documentation; and quality control. #####
 
-(a) *Allocation of funds under the MEP for fiscal year (FY) 2006 and subsequent years.* (1) For purposes of calculating the size of MEP allocations for each SEA for FY 2006 and subsequent years (as well as for supplemental MEP allocations for FY 2005), the Secretary determines each SEA's FY 2002 base allocation amount under section 1303(a)(2) and (b) of the Act by applying, to the counts of eligible migratory children that the SEA submitted for 2000-2001, the defect rate that the SEA reports to the Secretary and that the Secretary accepts based on a statewide retrospective re-interviewing process that the SEA has conducted.
-
-(2)(i) The Secretary conditions an SEA's receipt of final FY 2007 and subsequent-year MEP awards on the SEA's completion of a thorough re-documentation of the eligibility of all children (and the removal of all ineligible children) included in the State's 2007-2008 MEP child counts.
-
-(ii) To carry out this re-documentation, an SEA must examine its rolls of all currently identified migratory children and remove from the rolls all children it judges to be ineligible based on the types of problems identified in its statewide retrospective re-interviewing as causing defective eligibility determinations.
+(a) [Reserved]
 
 (b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP* - (1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA that received such funds in FY 2005 but did not implement a statewide re-interviewing process prior to the enactment of this regulation, as well as an SEA with a defect rate that is not accepted by the Secretary under paragraph (a)(1) of this section, or an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section, must, within six months of the effective date of these regulations or as subsequently required by the Secretary, -
 
@@ -72,4 +68,4 @@
 
 (7) A process for implementing corrective action if the SEA finds COEs that do not sufficiently document a child's eligibility for the MEP, or in response to internal State audit findings and recommendations, or monitoring or audit findings of the Secretary.
 
-Authority:20 U.S.C. 6391-6399, 6571, 7844(d); 18 U.S.C. 1001.[73 FR 44124, July 29, 2008]Effective Date Note:At 73 FR 44124, July 29, 2008, § 200.89 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(Authority: 20 U.S.C. 6391-6399, 6571, 7844(d); 18 U.S.C. 1001)[73 FR 44124, July 29, 2008, as amended at 83 FR 42440, Aug. 22, 2018]Effective Date Note:At 73 FR 44124, July 29, 2008, § 200.89 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

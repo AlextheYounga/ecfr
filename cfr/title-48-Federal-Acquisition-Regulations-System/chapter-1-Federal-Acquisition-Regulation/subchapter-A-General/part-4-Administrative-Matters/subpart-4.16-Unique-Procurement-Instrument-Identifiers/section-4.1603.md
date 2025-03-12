@@ -46,11 +46,11 @@
 
 ![](/graphics/er14oc14.003.gif)
 
-(b) *Elements of a supplementary PIID.* Use the supplementary PIID to identify amendments to solicitations and modifications to contracts, orders, and agreements.
+(b) *Elements of a supplementary PIID.* Use the supplementary PIID to identify amendments to solicitations and modifications to contracts, orders, and agreements. The supplementary PIID is reported as a separate data element used in conjunction with, but not appended to, the PIID.
 
-(1) *Amendments to solicitations.* Number amendments to solicitations sequentially using a four position numeric serial number added to the 13-17 character PIID beginning with 0001.
+(1) *Amendments to solicitations.* Number amendments to solicitations sequentially using a four position numeric serial number in addition to the 13-17 character PIID beginning with 0001.
 
-(2) *Modifications to contracts, orders, and agreements.* Number modifications to contracts, orders, and agreements using a six position alpha or numeric, or a combination thereof, added to the 13-17 character PIID. For example, a modification could be numbered P00001. This would be added to the end of the 13-17 character PIID illustrated in (a)(5) of this section.
+(2) *Modifications to contracts, orders, and agreements.* Number modifications to contracts, orders, and agreements using a six position alpha or numeric, or a combination thereof, in addition to the 13-17 character PIID. For example, a modification could be numbered P00001. This would be in addition to the 13-17 character PIID illustrated in paragraph (a)(5) of this section.
 
 (i) *Position 1.* Identify the office issuing the modification. The letter P shall be designated for modifications issued by the procuring contracting office. The letter A shall be used for modifications issued by the contract administration office (if other than the procuring contracting office).
 
@@ -58,4 +58,4 @@
 
 (iii) Each office authorized to issue modifications shall assign the supplementary identification numbers in sequence (unless provided otherwise in agency procedures). Do not assign the numbers until it has been determined that a modification is to be issued.
 
-[79 FR 61741, Oct. 14, 2014]
+[79 FR 61741, Oct. 14, 2014, as amended at 83 FR 42572, Aug. 22, 2018]

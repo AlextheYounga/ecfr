@@ -18,9 +18,9 @@
 
 (ii) Include FPI in the solicitation process and consider a timely offer from FPI for award in accordance with the item description or specifications, and evaluation factors in the solicitation -
 
-(A) If the solicitation is available through the Governmentwide point of entry (FedBizOpps), it is not necessary to provide a separate copy of the solicitation to FPI;
+(A) If the solicitation is available through the Governmentwide point of entry (FedBizOpps, also known as FBO), it is not necessary to provide a separate copy of the solicitation to FPI;
 
-(B) If the solicitation is not available through FedBizOpps, provide a copy of the solicitation to FPI;
+(B) If the solicitation is not available through FedBizOpps, also known as FBO, provide a copy of the solicitation to FPI;
 
 (iii) When using a multiple award schedule issued under the procedures in Subpart 8.4 or when using the fair opportunity procedures in 16.505 -
 
@@ -42,4 +42,4 @@
 
 (d) Disputes regarding price, quality, character, or suitability of supplies produced by FPI, except for determinations under paragraph (a)(1) of this section, are subject to arbitration as specified in 18 U.S.C. 4124. The statute provides that the arbitration shall be conducted by a board consisting of the Comptroller General of the United States, the Administrator of General Services, and the President, or their representatives. The decisions of the board are final and binding on all parties.
 
-[69 FR 16149, Mar. 26, 2004, as amended at 70 FR 18958, Apr. 11, 2005; 71 FR 222, Jan. 3, 2006; 73 FR 53994, Sept. 17, 2008; 79 FR 24199, Apr. 29, 2014]
+[69 FR 16149, Mar. 26, 2004, as amended at 70 FR 18958, Apr. 11, 2005; 71 FR 222, Jan. 3, 2006; 73 FR 53994, Sept. 17, 2008; 79 FR 24199, Apr. 29, 2014; 83 FR 42572, Aug. 22, 2018]

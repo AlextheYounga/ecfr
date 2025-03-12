@@ -2,7 +2,7 @@
 
 (a) Whenever a bond with a security interest in real property is submitted, the individual surety shall provide -
 
-(1) A mortgagee title insurance policy, in an insurance amount equal to the amount of the lien, or other evidence of title that is consistent with the requirements of Section 2 of the United States Department of Justice Title Standards at *http://www.justice.gov/enrd/ENRD\_Assets/Title\_Standards\_2001.pdf.* This title evidence must show fee simple title vested in the surety along with any concurrent owners; whether any real estate taxes are due and payable; and any recorded encumbrances against the property, including the lien filed in favor of the Government under paragraph (d) of this subsection. Agency contracting officers should request the assistance of their designated agency legal counsel in determining if the title evidence is consistent with the Department of Justice standards;
+(1) A mortgagee title insurance policy, in an insurance amount equal to the amount of the lien, or other evidence of title that is consistent with the requirements of Section 2 of the United States Department of Justice Title Standards at *https://www.justice.gov/enrd/page/file/922431/download.* This title evidence must show fee simple title vested in the surety along with any concurrent owners; whether any real estate taxes are due and payable; and any recorded encumbrances against the property, including the lien filed in favor of the Government under paragraph (d) of this subsection. Agency contracting officers should request the assistance of their designated agency legal counsel in determining if the title evidence is consistent with the Department of Justice standards;
 
 (2) Evidence of the amount due under any encumbrance shown in the evidence of title;
 
@@ -28,4 +28,4 @@ NOTARY PUBLIC, STATE
 
 My Commission expires:
 
-[54 FR 48987, Nov. 28, 1989, as amended at 70 FR 11763, Mar. 9, 2005; 74 FR 40467, Aug. 11, 2009; 77 FR 204, Jan. 3, 2012]
+[54 FR 48987, Nov. 28, 1989, as amended at 70 FR 11763, Mar. 9, 2005; 74 FR 40467, Aug. 11, 2009; 77 FR 204, Jan. 3, 2012; 83 FR 42573, Aug. 22, 2018]

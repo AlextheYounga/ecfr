@@ -2,7 +2,7 @@
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (JUL 2018)
+Subcontracts for Commercial Items (AUG 2018)
 
 (a) *Definitions.* As used in this clause -
 
@@ -20,11 +20,11 @@ Subcontracts for Commercial Items (JUL 2018)
 
 (iii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017).
 
-(iv) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+(iv) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (JUN 2016), other than subcontracts for commercially available off-the-shelf items, if flow down is required in accordance with paragraph (c) of FAR clause 52.204-21.
 
-(v) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities.
+(v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.219-8, Utilization of Small Business Concerns (OCT 2014) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(vi) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (vii) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
 
@@ -44,11 +44,11 @@ Subcontracts for Commercial Items (JUL 2018)
 
 (xiv) 52.222-55, Minimum Wages under Executive Order 13658 (DEC 2015), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
 
-(xv)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
+(xv) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause 52.222-62.
+
+(xvi)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
 
 (B) Alternate I (JAN 2017) of 52.224-3, if flow down is required in accordance with 52.224-3(f) and the agency specifies that only its agency-provided training is acceptable).
-
-(xvi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flowdown is required in accordance with paragraph (m) of FAR clause 52.222-62.
 
 (xvii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 

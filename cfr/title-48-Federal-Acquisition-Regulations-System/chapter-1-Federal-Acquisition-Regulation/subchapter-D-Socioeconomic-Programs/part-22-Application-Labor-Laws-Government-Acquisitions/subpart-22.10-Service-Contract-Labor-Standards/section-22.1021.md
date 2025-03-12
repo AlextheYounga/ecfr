@@ -1,8 +1,8 @@
 ##### 22.1021 Requests for hearing. #####
 
-(a) A contracting agency or other interested party may request a hearing on an issue presented in 22.1013(a). To obtain a hearing for the contracting agency, the contracting officer shall submit a written request through appropriate channels (ordinarily the agency labor advisor) to: Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, Washington, DC 20210.
+(a) A contracting agency or other interested party may request a hearing on an issue presented in 22.1013(a). To obtain a hearing for the contracting agency, the contracting officer shall submit a written request through appropriate channels (ordinarily the agency labor advisor) to: Administrator, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210.
 
-(b) A request for a substantial variance hearing shall include sufficient data to show that the rates at issue vary substantially from those prevailing for similar services in the locality. The request shall also include -
+(b) A request for a substantial variance hearing shall include sufficient data to show that the rates at issue vary substantially from those prevailing for similar services in the locality. The request shall also include—
 
 (1) The number of the wage determinations at issue;
 
@@ -18,7 +18,7 @@
 
 (7) Any other data required by the Administrator.
 
-(c) A request for an arm's length hearing shall include -
+(c) A request for an arm's length hearing shall include—
 
 (1) A statement of the applicant's case setting forth in detail the reasons why the applicant believes that the wages and fringe benefits contained in the collective bargaining agreement were not reached as a result of arm's length negotiations;
 
@@ -32,4 +32,4 @@
 
 (2) For negotiated contracts and for contracts with provisions exceeding the initial term by option, before the commencement date of the contract or the follow-up option period.
 
-[59 FR 67041, Dec. 28, 1994]
+[59 FR 67041, Dec. 28, 1994, as amended at 83 FR 42573, Aug. 22, 2018]

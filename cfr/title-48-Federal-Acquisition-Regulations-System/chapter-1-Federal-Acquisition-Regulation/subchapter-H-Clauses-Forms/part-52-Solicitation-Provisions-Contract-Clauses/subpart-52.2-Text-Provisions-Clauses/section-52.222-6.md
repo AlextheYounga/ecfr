@@ -2,19 +2,19 @@
 
 As prescribed in 22.407(a), insert the following clause:
 
-Construction Wage Rate Requirements (MAY 2014)
+Construction Wage Rate Requirements (AUG 2018)
 
-(a) *Definition* - *Site of the work* - (1) Means -
+(a) *Definition*—*Site of the work*—(1) Means—
 
 (i) *The primary site of the work.* The physical place or places where the construction called for in the contract will remain when work on it is completed; and
 
-(ii) *The secondary site of the work, if any.* Any other site where a significant portion of the building or work is constructed, provided that such site is -
+(ii) *The secondary site of the work, if any.* Any other site where a significant portion of the building or work is constructed, provided that such site is—
 
 (A) Located in the United States; and
 
 (B) Established specifically for the performance of the contract or project;
 
-(2) Except as provided in paragraph (3) of this definition, includes any fabrication plants, mobile factories, batch plants, borrow pits, job headquarters, tool yards, etc., provided -
+(2) Except as provided in paragraph (3) of this definition, includes any fabrication plants, mobile factories, batch plants, borrow pits, job headquarters, tool yards, etc., provided—
 
 (i) They are dedicated exclusively, or nearly so, to performance of the contract or project; and
 
@@ -40,7 +40,7 @@ Construction Wage Rate Requirements (MAY 2014)
 
 (iv) With respect to helpers, such a classification prevails in the area in which the work is performed.
 
-(2) If the Contractor and the laborers and mechanics to be employed in the classification (if known), or their representatives, and the Contracting Officer agree on the classification and wage rate (including the amount designated for fringe benefits, where appropriate), a report of the action taken shall be sent by the Contracting Officer to the Administrator of the Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, Washington, DC 20210. The Administrator or an authorized representative will approve, modify, or disapprove every additional classification action within 30 days of receipt and so advise the Contracting Officer or will notify the Contracting Officer within the 30-day period that additional time is necessary.
+(2) If the Contractor and the laborers and mechanics to be employed in the classification (if known), or their representatives, and the Contracting Officer agree on the classification and wage rate (including the amount designated for fringe benefits, where appropriate), a report of the action taken shall be sent by the Contracting Officer to the Administrator of the Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210. The Administrator or an authorized representative will approve, modify, or disapprove every additional classification action within 30 days of receipt and so advise the Contracting Officer or will notify the Contracting Officer within the 30-day period that additional time is necessary.
 
 (3) In the event the Contractor, the laborers or mechanics to be employed in the classification, or their representatives, and the Contracting Officer do not agree on the proposed classification and wage rate (including the amount designated for fringe benefits, where appropriate), the Contracting Officer shall refer the questions, including the views of all interested parties and the recommendation of the Contracting Officer, to the Administrator of the Wage and Hour Division for Determination. The Administrator, or an authorized representative, will issue a determination within 30 days of receipt and so advise the Contracting Officer or will notify the Contracting Officer within the 30-day period that additional time is necessary.
 
@@ -50,4 +50,4 @@ Construction Wage Rate Requirements (MAY 2014)
 
 (e) If the Contractor does not make payments to a trustee or other third person, the Contractor may consider as part of the wages of any laborer or mechanic the amount of any costs reasonably anticipated in providing bona fide fringe benefits under a plan or program; *provided,* that the Secretary of Labor has found, upon the written request of the Contractor, that the applicable standards of the Construction Wage Rate Requirements statute have been met. The Secretary of Labor may require the Contractor to set aside in a separate account assets for the meeting of obligations under the plan or program.
 
-(End of clause)[53 FR 4945, Feb. 18, 1988, as amended at 57 FR 44263, Sept. 24, 1992; 59 FR 67038, Dec. 28, 1994; 70 FR 33667, June 8, 2005; 79 FR 24217, Apr. 29, 2014]
+(End of clause)[53 FR 4945, Feb. 18, 1988, as amended at 57 FR 44263, Sept. 24, 1992; 59 FR 67038, Dec. 28, 1994; 70 FR 33667, June 8, 2005; 79 FR 24217, Apr. 29, 2014; 83 FR 42575, Aug. 22, 2018]

@@ -24,7 +24,7 @@ As used in this part -
 
 (*4*) Certain of the following: textiles and apparel articles; footwear, handbags, luggage, flat goods, work gloves, and leather wearing apparel; or handloomed, handmade, and folklore articles.
 
-(B) Access to the HTSUS to determine duty-free status of articles of the types listed in paragraph (1)(ii)(A)(*4*) of this definition is available via the Internet at *http://www.usitc.gov/tata/hts/.* In particular, see the following:
+(B) Access to the HTSUS to determine duty-free status of articles of the types listed in paragraph (1)(ii)(A)(*4*) of this definition is available via the Internet at *https://usitc.gov/tata/hts/index.htm.* In particular, see the following:
 
 (*1*) General Note 3(c), Products Eligible for Special Tariff treatment.
 
@@ -144,4 +144,4 @@ As used in this part -
 
 (2) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product includes services (except transportation services) incidental to the article, provided that the value of those incidental services does not exceed that of the article itself.
 
-[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 25.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting section 25.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

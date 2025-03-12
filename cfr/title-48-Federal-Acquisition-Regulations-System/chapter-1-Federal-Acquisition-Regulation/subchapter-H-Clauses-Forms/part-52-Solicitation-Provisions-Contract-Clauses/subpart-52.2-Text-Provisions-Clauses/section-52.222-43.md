@@ -1,14 +1,14 @@
-##### 52.222-43 Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (Multiple Year and Option Contracts). #####
+##### 52.222-43 Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (Multiple Year and Option Contracts). #####
 
 As prescribed in 22.1006(c)(1), insert the following clause:
 
-Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (Multiple Year and Option Contracts) (MAY 2014)
+Fair Labor Standards Act and Service Contract Labor Standards—Price Adjustment (Multiple Year and Option Contracts) (AUG 2018)
 
 (a) This clause applies to both contracts subject to area prevailing wage determinations and contracts subject to collective bargaining agreements.
 
 (b) The Contractor warrants that the prices in this contract do not include any allowance for any contingency to cover increased costs for which adjustment is provided under this clause.
 
-(c) The wage determination, issued under the Service Contract Labor Standards statute, (41 U.S.C. chapter 67), by the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, current on the anniversary date of a multiple year contract or the beginning of each renewal option period, shall apply to this contract. If no such determination has been made applicable to this contract, then the Federal minimum wage as established by section 6(a)(1) of the Fair Labor Standards Act of 1938, as amended, (29 U.S.C. 206) current on the anniversary date of a multiple year contract or the beginning of each renewal option period, shall apply to this contract.
+(c) The wage determination, issued under the Service Contract Labor Standards statute, (41 U.S.C. chapter 67), by the Administrator, Wage and Hour Division, U.S. Department of Labor, current on the anniversary date of a multiple year contract or the beginning of each renewal option period, shall apply to this contract. If no such determination has been made applicable to this contract, then the Federal minimum wage as established by section 6(a)(1) of the Fair Labor Standards Act of 1938, as amended, (29 U.S.C. 206) current on the anniversary date of a multiple year contract or the beginning of each renewal option period, shall apply to this contract.
 
 (d) The contract price, contract unit price labor rates, or fixed hourly labor rates will be adjusted to reflect the Contractor's actual increase or decrease in applicable wages and fringe benefits to the extent that the increase is made to comply with or the decrease is voluntarily made by the Contractor as a result of:
 
@@ -24,4 +24,4 @@ Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment
 
 (g) The Contracting Officer or an authorized representative shall have access to and the right to examine any directly pertinent books, documents, papers and records of the Contractor until the expiration of 3 years after final payment under the contract.
 
-(End of clause)[54 FR 19831, May 8, 1989, as amended at 71 FR 67779, Nov. 22, 2006; 74 FR 40461, Aug. 11, 2009; 79 FR 24219, Apr. 29, 2014]
+(End of clause)[54 FR 19831, May 8, 1989, as amended at 71 FR 67779, Nov. 22, 2006; 74 FR 40461, Aug. 11, 2009; 79 FR 24219, Apr. 29, 2014; 83 FR 42575, Aug. 22, 2018]

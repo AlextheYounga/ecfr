@@ -102,7 +102,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (15) *Government-furnished property.* Indicate any Government property to be furnished to contractors, and discuss any associated considerations, such as its availability or the schedule for its acquisition (see 45.102).
 
-(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the GPE at *http://www.fedbizopps.gov* (see 5.102(a)).
+(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the GPE at *https://www.fbo.gov* (see 5.102(a)).
 
 (17) *Environmental and energy conservation objectives.* Discuss all applicable environmental and energy conservation objectives associated with the acquisition (see part 23), the applicability of an environmental assessment or environmental impact statement (see 40 CFR part 1502), the proposed resolution of environmental issues, and any environmentally-related requirements to be included in solicitations and contracts (see 11.002 and 11.303).
 
@@ -140,4 +140,4 @@ Acquisition plan approval.Statement of work.Specifications.Data requirements.Com
 
 (22) *Identification of participants in acquisition plan preparation.* List the individuals who participated in preparing the acquisition plan, giving contact information for each.
 
-[48 FR 42124, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 7.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42124, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 7.105, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

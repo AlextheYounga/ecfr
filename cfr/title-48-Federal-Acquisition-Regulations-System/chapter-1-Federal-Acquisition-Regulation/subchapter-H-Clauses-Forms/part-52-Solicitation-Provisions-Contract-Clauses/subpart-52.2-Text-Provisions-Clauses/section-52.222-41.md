@@ -2,9 +2,9 @@
 
 As prescribed in 22.1006(a), insert the following clause:
 
-Service Contract Labor Standards (MAY 2014)
+Service Contract Labor Standards (AUG 2018)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Contractor* when this clause is used in any subcontract, shall be deemed to refer to the subcontractor, except in the term “Government Prime Contractor.”
 
@@ -16,7 +16,7 @@ Service Contract Labor Standards (MAY 2014)
 
 (2)(i) If a wage determination is attached to this contract, the Contractor shall classify any class of service employee which is not listed therein and which is to be employed under the contract (i.e., the work to be performed is not performed by any classification listed in the wage determination) so as to provide a reasonable relationship (i.e., appropriate level of skill comparison) between such unlisted classifications and the classifications listed in the wage determination. Such conformed class of employees shall be paid the monetary wages and furnished the fringe benefits as are determined pursuant to the procedures in this paragraph (c).
 
-(ii) This conforming procedure shall be initiated by the Contractor prior to the performance of contract work by the unlisted class of employee. The Contractor shall submit Standard Form (SF) 1444, Request for Authorization of Additional Classification and Rate, to the Contracting Officer no later than 30 days after the unlisted class of employee performs any contract work. The Contracting Officer shall review the proposed classification and rate and promptly submit the completed SF 1444 (which must include information regarding the agreement or disagreement of the employees' authorized representatives or the employees themselves together with the agency recommendation), and all pertinent information to the Wage and Hour Division, Employment Standards Administration U.S. Department of Labor. The Wage and Hour Division will approve, modify, or disapprove the action or render a final determination in the event of disagreement within 30 days of receipt or will notify the Contracting Officer within 30 days of receipt that additional time is necessary.
+(ii) This conforming procedure shall be initiated by the Contractor prior to the performance of contract work by the unlisted class of employee. The Contractor shall submit Standard Form (SF) 1444, Request for Authorization of Additional Classification and Rate, to the Contracting Officer no later than 30 days after the unlisted class of employee performs any contract work. The Contracting Officer shall review the proposed classification and rate and promptly submit the completed SF 1444 (which must include information regarding the agreement or disagreement of the employees' authorized representatives or the employees themselves together with the agency recommendation), and all pertinent information to the Wage and Hour Division, U.S. Department of Labor. The Wage and Hour Division will approve, modify, or disapprove the action or render a final determination in the event of disagreement within 30 days of receipt or will notify the Contracting Officer within 30 days of receipt that additional time is necessary.
 
 (iii) The final determination of the conformance action by the Wage and Hour Division shall be transmitted to the Contracting Officer who shall promptly notify the Contractor of the action taken. Each affected employee shall be furnished by the Contractor with a written copy of such determination or it shall be posted as a part of the wage determination.
 
@@ -42,9 +42,9 @@ Service Contract Labor Standards (MAY 2014)
 
 (h) *Safe and Sanitary Working Conditions.* The Contractor or subcontractor shall not permit any part of the services called for by this contract to be performed in buildings or surroundings or under working conditions provided by or under the control or supervision of the Contractor or subcontractor which are unsanitary, hazardous, or dangerous to the health or safety of the service employees. The Contractor or subcontractor shall comply with the safety and health standards applied under 29 CFR part 1925.
 
-(i) *Records.* (1) The Contractor and each subcontractor performing work subject to the Service Contract Labor Standards statute shall make and maintain for 3 years from the completion of the work, and make them available for inspection and transcription by authorized representatives of the Wage and Hour Division, Employment Standards Administration, a record of the following:
+(i) *Records.* (1) The Contractor and each subcontractor performing work subject to the Service Contract Labor Standards statute shall make and maintain for 3 years from the completion of the work, and make them available for inspection and transcription by authorized representatives of the Wage and Hour Division, a record of the following:
 
-(i) For each employee subject to the Service Contract Labor Standards statute -
+(i) For each employee subject to the Service Contract Labor Standards statute—
 
 (A) Name and address and social security number;
 
@@ -92,7 +92,7 @@ Service Contract Labor Standards (MAY 2014)
 
 (r) *Apprentices.* Apprentices will be permitted to work at less than the predetermined rate for the work they perform when they are employed and individually registered in a bona fide apprenticeship program registered with a State Apprenticeship Agency which is recognized by the U.S. Department of Labor, or if no such recognized agency exists in a State, under a program registered with the Office of Apprenticeship and Training, Employer, and Labor Services (OATELS), U.S. Department of Labor. Any employee who is not registered as an apprentice in an approved program shall be paid the wage rate and fringe benefits contained in the applicable wage determination for the journeyman classification of work actually performed. The wage rates paid apprentices shall not be less than the wage rate for their level of progress set forth in the registered program, expressed as the appropriate percentage of the journeyman's rate contained in the applicable wage determination. The allowable ratio of apprentices to journeymen employed on the contract work in any craft classification shall not be greater than the ratio permitted to the Contractor as to his entire work force under the registered program.
 
-(s) *Tips.* An employee engaged in an occupation in which the employee customarily and regularly receives more than $30 a month in tips may have the amount of these tips credited by the employer against the minimum wage required by 41 U.S.C. 6703(1), in accordance with section 3(m) of the Fair Labor Standards Act and Regulations 29 CFR part 531. However, the amount of credit shall not exceed $1.34 per hour beginning January l, 1981. To use this provision -
+(s) *Tips.* An employee engaged in an occupation in which the employee customarily and regularly receives more than $30 a month in tips may have the amount of these tips credited by the employer against the minimum wage required by 41 U.S.C. 6703(1), in accordance with section 3(m) of the Fair Labor Standards Act and Regulations 29 CFR part 531. However, the amount of credit shall not exceed $1.34 per hour beginning January l, 1981. To use this provision—
 
 (1) The employer must inform tipped employees about this tip credit allowance before the credit is utilized;
 
@@ -104,4 +104,4 @@ Service Contract Labor Standards (MAY 2014)
 
 (t) *Disputes Concerning Labor Standards.* The U.S. Department of Labor has set forth in 29 CFR parts 4, 6, and 8 procedures for resolving disputes concerning labor standards requirements. Such disputes shall be resolved in accordance with those procedures and not the Disputes clause of this contract. Disputes within the meaning of this clause include disputes between the Contractor (or any of its subcontractors) and the contracting agency, the U.S. Department of Labor, or the employees or their representatives.
 
-(End of clause)[54 FR 19828, May 8, 1989, as amended at 70 FR 33669, June 8, 2005; 72 FR 63082, Nov. 7, 2007; 79 FR 24219, Apr. 29, 2014]
+(End of clause)[54 FR 19828, May 8, 1989, as amended at 70 FR 33669, June 8, 2005; 72 FR 63082, Nov. 7, 2007; 79 FR 24219, Apr. 29, 2014; 83 FR 42575, Aug. 22, 2018]

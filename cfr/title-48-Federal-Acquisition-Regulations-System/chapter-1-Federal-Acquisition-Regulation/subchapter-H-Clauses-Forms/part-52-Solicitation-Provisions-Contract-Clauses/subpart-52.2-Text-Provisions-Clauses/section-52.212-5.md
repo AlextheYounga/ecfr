@@ -2,13 +2,13 @@
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JUL 2018)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (AUG 2018)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
 (1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-\_\_\_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
+\_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (Jul 2018) (Section 1634 of Pub. L. 115-91).
 
 (3) 52.209-10, Prohibition on Contracting with Inverted Domestic Corporations (NOV 2015).
 
@@ -62,7 +62,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (16) 52.219-8, Utilization of Small Business Concerns (Nov 2016) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JAN 2017) (15 U.S.C. 637(d)(4)).
+\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (AUG 2018) (15 U.S.C. 637(d)(4)).
 
 \_\_ (ii) Alternate I (Nov 2016) of 52.219-9.
 
@@ -70,7 +70,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (iv) Alternate III (Nov 2016) of 52.219-9.
 
-\_\_ (v) Alternate IV (Nov 2016) of 52.219-9.
+\_\_ (v) Alternate IV (AUG 2018) of 52.219-9.
 
 \_\_ (18) 52.219-13, Notice of Set-Aside of Orders (NOV 2011) (15 U.S.C. 644(r)).
 
@@ -92,11 +92,19 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (27) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-\_\_ (28) 52.222-26, Equal Opportunity (Sept 2016) (E.O. 11246).
+\_\_ (28)(i) 52.222-26, Equal Opportunity (SEPT 2016)
 
-\_\_ (29) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
+\_\_ (ii) Alternate I (Feb 1999) of 52.222-26.
 
-\_\_ (30) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+\_\_ (29)(i) 52.222-35, Equal Opportunity for Veterans
+(OCT 2015)(38 U.S.C. 4212).
+
+\_\_ (ii) Alternate I (July 2014) of 52.222-35.
+
+\_\_ (30)(i) 52.222-36, Equal Opportunity for Workers with
+Disabilities (JUL 2014) (29 U.S.C. 793).
+
+\_\_ (ii) Alternate I (July 2014) of 52.222-36.
 
 \_\_ (31) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
 
@@ -150,9 +158,10 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (iv) Alternate III (**MAY 2014**) of 52.225-3.
 
-\_\_ (48) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note). (49) 52.225-5, Trade Agreements (Oct 2016) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_\_ (48) 52.225-5, Trade Agreements (AUG 2018)
+19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
-\_\_ (49) 52.225-13, Restrictions on Certain Foreign Purchases (JUN 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
+\_\_ (49) 52.225-13, Restrictions on Certain Foreign Purchases (JUNE 2008) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
 \_\_ (50) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
@@ -170,21 +179,25 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (57) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
 
-\_\_ (58) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(12)).
+\_\_ (58) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
 
-\_\_ (59)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+\_\_ (59) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(12)).
 
-\_\_ (ii) *Alternate I* (APR 2003) of 52.247-64.
+\_\_ (60)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+
+\_\_ (ii) Alternate I (Apr 2003) of 52.247-64.
+
+\_\_ (iii) Alternate II (Feb 2006) of 52.247-64.
 
 (c) The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
 \_\_ (1) 52.222-17, Nondisplacement of Qualified Workers (May 2014) (E.O. 13495).
 
-\_\_ (2) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (2) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67).
 
 \_\_ (3) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_ (4) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (Multiple Year and Option Contracts) (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+\_\_ (4) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts) (AUG 2018) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
 \_\_ (5) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
 
@@ -233,7 +246,7 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 (xi) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(xii) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
+(xii) 52.222-41, Service Contract Labor Standards (AUG 2018)(41 U.S.C. chapter 67).
 
 (xiii) \_\_ (A) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
 
@@ -265,7 +278,7 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (JUL 2018). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (AUG 2018). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -298,7 +311,7 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 (I) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(J) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67).
+(J) 52.222-41, Service Contract Labor Standards (AUG 2018)(41 U.S.C. chapter 67).
 
 (K) \_\_ (*1*) 52.222-50, Combating Trafficking in Persons (Mar 2015) (22 U.S.C. chapter 78 and E.O. 13627).
 
@@ -312,20 +325,16 @@ If the subcontract (except subcontracts to small business concerns) exceeds $700
 
 (O) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
 
-(P) 52.225-26, Contractors Performing Private Security Functions Outside the United States (Oct 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(P) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017)(E.O. 13706).
 
-(Q) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+(Q)(*1*) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
-(R)(1) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+(*2*) Alternate I (JAN 2017) of 52.224-3.
 
-(2) Alternate I (JAN 2017) of 52.224-3.
+(R) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
 (S) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
 (T) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
-[60 FR 48255, Sept. 18, 1995]Editorial Notes:1. For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
-
-2. At 75 FR 34264, June 16, 2010, 52.212-5 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
-
-3. At 79 FR 61752, Oct. 14, 2014, 52.212-5 was amended, however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 48255, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.212-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

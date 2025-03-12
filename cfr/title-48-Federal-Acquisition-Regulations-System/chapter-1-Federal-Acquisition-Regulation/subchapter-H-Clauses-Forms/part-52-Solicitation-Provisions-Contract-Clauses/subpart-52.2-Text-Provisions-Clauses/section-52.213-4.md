@@ -2,7 +2,7 @@
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JUL 2018)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (AUG 2018)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -40,7 +40,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (NOV 2017)
+(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2018).
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
@@ -58,7 +58,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (vi) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212) (Applies to contracts of $150,000 or more).
 
-(vii) 52.222-41, Service Contract Labor Standards (MAY 2014) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
+(vii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
 
 (viii)(A) 52.222-50, Combating Trafficking in Persons (MAR 2015) (22 U.S.C. chapter 78 and E.O 13627) (Applies to all solicitations and contracts).
 

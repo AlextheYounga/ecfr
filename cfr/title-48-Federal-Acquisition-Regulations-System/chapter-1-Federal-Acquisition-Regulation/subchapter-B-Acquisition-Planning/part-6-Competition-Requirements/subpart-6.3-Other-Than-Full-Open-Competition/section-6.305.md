@@ -8,7 +8,7 @@
 
 (d) The justifications shall be made publicly available -
 
-(1) At the Government Point of Entry (GPE) *www.fedbizopps.gov*;
+(1) At the Government Point of Entry (GPE) *https://www.fbo.gov*;
 
 (2) On the website of the agency, which may provide access to the justifications by linking to the GPE; and
 
@@ -18,4 +18,4 @@
 
 (f) The requirements of paragraphs (a) through (d) do not apply if posting the justification would disclose the executive agency's needs and disclosure of such needs would compromise national security or create other security risks.
 
-[75 FR 34276, June 16, 2010, as amended at 79 FR 24198, Apr. 29, 2014]
+[75 FR 34276, June 16, 2010, as amended at 79 FR 24198, Apr. 29, 2014; 83 FR 42572, Aug. 22, 2018]

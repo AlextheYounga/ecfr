@@ -48,10 +48,10 @@
 
 (2) If debarment is not imposed, the debarring official shall promptly notify the contractor and any affiliates involved, by certified mail, return receipt requested.
 
-(f)(1) If the contractor enters into an administrative agreement with the Government in order to resolve a debarment proceeding, the debarring official shall access the website (available at *www.cpars.csd.disa.mil*, then select FAPIIS) and enter the requested information.
+(f)(1) If the contractor enters into an administrative agreement with the Government in order to resolve a debarment proceeding, the debarring official shall access the website (available at *https://www.cpars.gov*, then select FAPIIS) and enter the requested information.
 
 (2) The debarring official is responsible for the timely submission, within 3 working days, and accuracy of the documentation regarding the administrative agreement.
 
 (3) With regard to information that may be covered by a disclosure exemption under the Freedom of Information Act, the debarring official shall follow the procedures at 9.105-2(b)(2)(iv).
 
-[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19815, May 8, 1989; 59 FR 67033, Dec. 28, 1994; 75 FR 14066, Mar. 23, 2010; 77 FR 201, Jan. 3, 2012]
+[48 FR 42142, Sept. 19, 1983, as amended at 54 FR 19815, May 8, 1989; 59 FR 67033, Dec. 28, 1994; 75 FR 14066, Mar. 23, 2010; 77 FR 201, Jan. 3, 2012; 83 FR 42572, Aug. 22, 2018]

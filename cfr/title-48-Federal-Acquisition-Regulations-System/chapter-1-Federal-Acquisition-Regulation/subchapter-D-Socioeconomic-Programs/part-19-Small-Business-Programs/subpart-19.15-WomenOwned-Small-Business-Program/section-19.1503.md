@@ -34,7 +34,7 @@
 
 (vii) SBA's WOSB Program Certification form (SBA Form 2413 for WOSB concerns eligible under the WOSB Program and SBA Form 2414 for EDWOSB concerns).
 
-(viii) For EDWOSB concerns, in addition to the above, the SBA Form 413, Personal Financial Statement, available to the public at *http://www.sba.gov/tools/Forms/index.html,* for each woman claiming economic disadvantage.
+(viii) For EDWOSB concerns, in addition to the above, the SBA Form 413, Personal Financial Statement, available to the public at *https://www.sba.gov/managing-business/forms/small-business-forms/financial-assistance-forms/personal-financial-statement,* for each woman claiming economic disadvantage.
 
 (d)(1) A contracting officer may accept a concern's self-certification as accurate for a specific procurement reserved for award under this subpart if -
 
@@ -56,4 +56,4 @@
 
 (g) An EDWOSB concern or WOSB concern eligible under the WOSB Program that is a non-manufacturer, as defined in 13 CFR 121.406(b), may submit an offer on a requirement set aside for an EDWOSB concern or a WOSB concern eligible under the WOSB Program with a NAICS code for supplies, if it meets the requirements under the non-manufacturer rule set forth in that regulation.
 
-[77 FR 12917, Mar. 2, 2012, as amended at 78 FR 37679, June 21, 2013]
+[77 FR 12917, Mar. 2, 2012, as amended at 78 FR 37679, June 21, 2013; 83 FR 42573, Aug. 22, 2018]

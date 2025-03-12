@@ -194,7 +194,7 @@
 
 (*2*) The justification shall be made publicly available -
 
-(*i*) At the GPE *http://www.fedbizopps.gov;*
+(*i*) At the GPE *https://www.fbo.gov;*
 
 (*ii*) On the Web site of the agency, which may provide access to the justifications by linking to the GPE; and
 

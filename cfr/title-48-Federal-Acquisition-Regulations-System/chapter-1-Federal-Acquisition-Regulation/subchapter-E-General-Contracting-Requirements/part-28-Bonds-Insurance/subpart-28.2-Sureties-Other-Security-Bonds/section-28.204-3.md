@@ -16,7 +16,7 @@
 
 (2) If used as an alternative to corporate or individual sureties as security for a performance or payment bond, the offeror/contractor may submit an ILC with an initial expiration date estimated to cover the entire period for which financial security is required or an ILC with an initial expiration date that is a minimum period of one year from the date of issuance. The ILC shall provide that, unless the issuer provides the beneficiary written notice of non-renewal at least 60 days in advance of the current expiration date, the ILC is automatically extended without amendment for one year from the expiration date, or any future expiration date, until the period of required coverage is completed and the contracting officer provides the financial institution with a written statement waiving the right to payment. The period of required coverage shall be:
 
-(i) For contracts subject to the Bonds statute, the later of -
+(i) For contracts subject to the Bonds statute, the later of—
 
 (A) One year following the expected date of final payment;
 
@@ -24,7 +24,7 @@
 
 (C) For payment bonds only, until resolution of all claims filed against the payment bond during the one-year period following final payment.
 
-(ii) For contracts not subject to the Bonds statute, the later of -
+(ii) For contracts not subject to the Bonds statute, the later of—
 
 (A) 90 days following final payment; or
 
@@ -42,6 +42,6 @@
 
 (3) The rating services listed in the Web site *http://www.sec.gov/answers/nrsro.htm* use different rating scales (*e.g.,* AAA, AA, A, BBB, BB, B, CCC, CC, C, and D; or Aaa, Aa, A, Baa, Ba, B, Caa, Ca, and C) to provide evaluations of institutional credit risk; however, all such systems specify the range of investment grade ratings (*e.g.,* BBB-AAA or Baa-Aaa in the examples in this section) and permit evaluation of the relative risk associated with a specific institution. If the contracting officer learns that a financial institution's rating has dropped below investment grade level, the contracting officer shall give the contractor 30 days to substitute an acceptable ILC or shall draw on the ILC using the sight draft in paragraph (g) of the clause at 52.228-14.
 
-(h) A copy of the Uniform Customs and Practice (UCP) for Documentary Credits, 2006 Edition, International Chamber of Commerce Publication No. 600, is available from: ICC Books USA, 1212 Avenue of the Americas, 21st Floor, New York, NY 10036; Phone: 212-703-5066; Fax: 212-391-6568; E-Mail: *iccbooks@uscib.org;* Via the Internet at: *http://store.iccbooksusa.net.*
+(h) A copy of the Uniform Customs and Practice (UCP) for Documentary Credits, 2007 Edition, International Chamber of Commerce Publication No. 600, is available from: ICC Books USA, 1212 Avenue of the Americas, 21st Floor, New York, NY 10036; Phone: 212-703-5078; Fax: 212-391-6568; Email: *iccbooks@uscib.org;* Via the internet at: *http://www.uscib.org/ucp-600-ud-4465/.*
 
-[61 FR 31653, June 20, 1996, as amended at 62 FR 44807, Aug. 22, 1997; 79 FR 24210, Apr. 29, 2014; 79 FR 61745, Oct. 14, 2014]
+[61 FR 31653, June 20, 1996, as amended at 62 FR 44807, Aug. 22, 1997; 79 FR 24210, Apr. 29, 2014; 79 FR 61745, Oct. 14, 2014; 83 FR 42573, Aug. 22, 2018]

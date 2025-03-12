@@ -1,9 +1,7 @@
-##### § 531.4 Confidentiality. #####
+##### § 531.4 NVOCC rules tariff. #####
 
-Link to an amendment published at 83 FR 34791, July 23, 2018.
+(a) Before entering into NSAs under this part, an NVOCC must provide electronic access to its rules tariffs to the public free of charge.
 
-(a) All NSAs and amendments to NSAs filed with the Commission shall, to the fullest extent permitted by law, be held in confidence by the Commission.
+(b) An NVOCC wishing to invoke an exemption pursuant to this part must indicate that intention to the Commission and the public by a prominent notice in its rules tariff.
 
-(b) Nothing contained in this part shall preclude the Commission from providing certain information from or access to NSAs to another agency of the Federal government of the United States.
-
-(c) Parties to a filed NSA may agree to disclose information contained in it. Breach of any confidentiality agreement contained in an NSA by either party will not, on its own, be considered a violation of these rules.
+[83 FR 34791, July 23, 2018]

@@ -4,7 +4,7 @@
 
 (b) Agencies shall implement high-performance sustainable building design, construction, renovation, repair, commissioning, operation and maintenance, management, and deconstruction practices so as to -
 
-(1) Ensure that all new construction, major renovation, or repair and alteration of Federal buildings complies with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (available at *http://www.wbdg.org/pdfs/hpsb\_guidance.pdf*);
+(1) Ensure that all new construction, major renovation, or repair and alteration of Federal buildings complies with the Guiding Principles for Federal Leadership in High-Performance and Sustainable Buildings (available at *https://www.epa.gov/greeningepa/guiding-principles-federal-leadership-high-performance-and-sustainable-buildings*);
 
 (2) Pursue cost-effective, innovative strategies, such as highly reflective and vegetated roofs, to minimize consumption of energy, water, and materials;
 
@@ -14,4 +14,4 @@
 
 (5) Ensure pollution prevention and eliminate waste by diverting at least 50 percent of construction and demolition materials and debris by the end of Fiscal Year 2015.
 
-[76 FR 31401, May 31, 2011, as amended at 79 FR 24212, Apr. 29, 2014]
+[76 FR 31401, May 31, 2011, as amended at 79 FR 24212, Apr. 29, 2014; 83 FR 42574, Aug. 22, 2018]

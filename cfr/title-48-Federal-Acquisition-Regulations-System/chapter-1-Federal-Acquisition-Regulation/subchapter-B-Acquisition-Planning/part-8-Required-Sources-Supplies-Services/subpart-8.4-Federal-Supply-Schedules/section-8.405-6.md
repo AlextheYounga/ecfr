@@ -18,7 +18,7 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (B) Post the justification -
 
-(*1*) At the GPE *http://www.fedbizopps.gov;*
+(*1*) At the GPE *https://www.fbo.gov;*
 
 (*2*) On the Web site of the ordering activity agency, which may provide access to the justification by linking to the GPE; and
 
@@ -102,4 +102,4 @@ Orders placed or BPAs established under Federal Supply Schedules are exempt from
 
 (4) For a proposed order or BPA with an estimated value exceeding $68 million (or, for DoD, NASA, and the Coast Guard, over $93 million), the justification must be approved by the senior procurement executive of the agency placing the order. This authority is not delegable, except in the case of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting as the senior procurement executive for the Department of Defense.
 
-[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015]
+[76 FR 14555, Mar. 16, 2011, as amended at 77 FR 193, Jan. 3, 2012; 79 FR 24199, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 83 FR 42572, Aug. 22, 2018]
