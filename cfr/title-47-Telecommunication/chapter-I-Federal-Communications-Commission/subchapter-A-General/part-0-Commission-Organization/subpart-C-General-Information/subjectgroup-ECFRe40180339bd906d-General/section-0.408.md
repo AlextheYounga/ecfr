@@ -19,7 +19,6 @@
 |   3060-0056   |                                                      Part 68 - Connection of Terminal Equipment to the Telephone Network                                                       |     05/31/17      |
 |   3060-0057   |                                                                                    FCC 731                                                                                     |     04/30/17      |
 |   3060-0059   |                                                                                    FCC 740                                                                                     |     04/30/19      |
-|   3060-0061   |                                                                                    FCC 325                                                                                     |     01/31/20      |
 |   3060-0065   |                                                                                    FCC 442                                                                                     |     12/31/18      |
 |   3060-0075   |                                                                                    FCC 345                                                                                     |     04/30/19      |
 |   3060-0076   |                                                                                    FCC 395                                                                                     |     06/30/19      |
@@ -429,4 +428,4 @@
 |   3060-1225   |                                                               National Deaf-Blind Equipment Distribution Program                                                               |     01/31/20      |
 |   3060-1226   |                                                    Receiving Written Consent for Communication with Base Stations in Canada                                                    |     01/31/20      |
 
-[82 FR 13260, Mar. 10, 2017]
+[82 FR 13260, Mar. 10, 2017, as amended at 83 FR 61335, Nov. 29, 2018]

@@ -2,7 +2,7 @@
 
 (a) *Delegations.* Pursuant to § 2.21(a)(1), (a)(3) and (a)(5) through (a)(7), subject to reservations in § 2.21(b)(1), the following delegations of authority are made by the Under Secretary for Research, Education, and Economics to the Administrator, Agricultural Research Service:
 
-(1) Coordinate USDA policy relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C. 136-136y).
+(1) [Reserved]
 
 (2) Conduct research related to the economic feasibility of the manufacture and commercialization of natural rubber from hydrocarbon-containing plants (7 U.S.C. 178-178n).
 
@@ -110,7 +110,7 @@
 
 (58) Administer the Department's Patent Program except as delegated to the General Counsel in § 2.31(a)(5).
 
-(59) Provide management support services for the Economic Research Service, the National Institute of Food and Agriculture, and the National Agricultural Statistics Service as agreed upon by the agencies with authority to take actions required by law or regulation. As used herein, the term management support services includes budget, finance, personnel, procurement, property management, communications, paperwork management, ADP support, and related administrative services.
+(59) Provide management support services for the Economic Research Service, the National Institute of Food and Agriculture, and the National Agricultural Statistics Service as agreed upon by the agencies with authority to take actions required by law or regulation. As used herein, the term management support services includes budget, finance, personnel, information technology, procurement, property management, communications, paperwork management, and related administrative services.
 
 (60) With respect to land and facilities under his or her authority, exercise the functions delegated to the Secretary by Executive Order 12580, 3 CFR, 1987 Comp., p. 193, under the following provisions of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“the Act”), as amended:
 
@@ -272,4 +272,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018]

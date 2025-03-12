@@ -10,10 +10,12 @@ For purposes of this subpart, the following definitions apply:
 
 (d) *Cable Television Relay Service (CARS).* All services authorized under part 78 of this title.
 
-(e) *Filings.* Any application, notification, registration statement, or report in plain text or, when as prescribed, on FCC Forms 320, 321, 322, 324, 325, or 327, whether filed in paper form or electronically.
+(e) *Filings.* Any application, notification, registration statement, or report in plain text, or, when as prescribed, on FCC Forms, 320, 321, 322, 324, or 327, whether filed in paper form or electronically.
 
 (f) *Multichannel Video and Cable Television Services (MVCTS).* All services authorized or operated in accordance with part 76 of this title.
 
 (g) *Receipt date.* The date an electronic or paper application is received at the appropriate location at the Commission or the lock box bank. Major amendments to pending applications as defined in § 78.109 of this chapter, will result in the assignment of a new receipt date.
 
 (h) *Signed.* For manually filed applications only, an original hand-written signature. For electronically filed applications only, an electronic signature. An electronic signature shall consist of the name of the applicant transmitted electronically via COALS and entered on the filing as a signature.
+
+[68 FR 27001, May 19, 2003, as amended at 83 FR 61335, Nov. 29, 2018]

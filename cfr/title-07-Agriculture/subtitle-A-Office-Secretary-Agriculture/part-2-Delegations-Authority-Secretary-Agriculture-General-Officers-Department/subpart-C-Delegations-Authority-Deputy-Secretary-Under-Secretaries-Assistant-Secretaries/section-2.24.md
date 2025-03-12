@@ -442,35 +442,7 @@
 
 (C) Any other offices or agencies of the Department as may be agreed, including as a Working Capital Fund activity.
 
-(7) *Related to advocacy and outreach.* (i) Ensure that small farms and ranches, beginning farmers or ranchers, and socially disadvantaged farmers or ranchers have access to, and equitable participation in, programs and services of the Department pursuant to section 226B(c) of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6934(c)).
-
-(ii) Oversee the Advisory Committee for Beginning Farmers and Ranchers.
-
-(iii) Oversee the operations of the Office of Small Farms Coordination.
-
-(iv) Administer section 2501 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279), except for authorities related to the Census of Agriculture and economic studies in subsection (h) of that section.
-
-(v) Establish and oversee the Minority Farmer Advisory Committee pursuant to section 14008 of FCEA (7 U.S.C. 2279 note).
-
-(vi) Administer the low-income migrant and seasonal farmworker grants program under section 2281 of the Food, Agriculture, Conservation, and Trade Act of 1990 (42 U.S.C. 5177a).
-
-(vii) Consult with appropriate entities regarding integration of farmworker interests into Department programs, including assisting farmworkers in becoming agricultural producers or landowners, and research, program improvements, and agricultural education opportunities for low-income and migrant seasonal farmworkers.
-
-(viii) Administer the grants program under section 14204 of FCEA (7 U.S.C. 2008q-1) to improve the supply, stability, safety, and training of the agricultural labor force.
-
-(ix) Administer and coordinate a USDA outreach program in collaboration with USDA agencies.
-
-(x) Administer section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1), including the authority to coordinate Department policy for the issuance of receipts under subsection (e) of that section.
-
-(xi) Provide strategic planning and performance measurement, coordinate outreach activities, monitor goals and objectives, and evaluate programs, of Department programs and activities involving small farms or ranches and beginning or socially disadvantaged farmers or ranchers.
-
-(xii) Administer the USDA/1994 Land Grant Institutions (Tribal Colleges) Programs.
-
-(xiii) Administer the USDA/1890 Liaison Officer Program.
-
-(xiv) Administer the Hispanic Serving Institutions National Program, including through the use of cooperative agreements under 7 U.S.C. 3318(b).
-
-(xv) Serve as a lead agency in carrying out student internship programs (7 U.S.C. 2279c).
+(7) [Reserved]
 
 (8) *Related to homeland security, personnel and document security, and emergency coordination.* (i) Provide administrative supervision to the unit that grants, denies, or revokes security clearances for USDA employees and contractors.
 
@@ -486,13 +458,13 @@
 
 (E) Develop and promulgate policies for the Department regarding emergency preparedness and national security, including matters relating to anti-terrorism and agriculture-related emergency preparedness planning both national and international, and guidance to USDA State and County Emergency Boards.
 
-(F) Establish and provide oversight of a Department-wide training program for the National Incident Management System to include Incident Command System, National Response Framework, Continuity programs, and Critical Infrastructure Protection program.
+(F) [Reserved]
 
 (G) Provide representation and liaison for the Department in contacts with other Federal entities and organizations, including the National Security Council, Homeland Security Council, Office of Management and Budget, Department of Homeland Security, Federal Emergency Management Agency, Office of The Director of National Intelligence, and Department of Defense concerning matters of a national security, natural disaster, other emergencies, and agriculture/food-related international civil emergency planning and related activities.
 
 (H) Act as the primary USDA representative for anti-terrorism activities.
 
-(I) Develop and submit a coordinated budget request for homeland security requirements.
+(I) [Reserved]
 
 (J) Provide guidance and direction regarding radiological emergency preparedness programs and the implementation of the National Response Framework's Nuclear/Radiological Incident Annex to Departmental staff offices, mission areas, and agencies.
 
@@ -502,7 +474,7 @@
 
 (M) Support USDA in its management of the Department's emergency response program with respect to radiological emergency response activities.
 
-(iii) Provide for the personal security to the Secretary and the Deputy Secretary.
+(iii) Administer the Classified Network, Controlled Unclassified Information, and Insider Threat programs of the Department (E.O. 13587; E.O. 13556 and 32 CFR part 2002).
 
 (iv) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland security activities.
 
@@ -510,7 +482,7 @@
 
 (vi) Oversee the Department's ability to collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity, and coordinate such activities among agencies and offices within the Department (7 U.S.C. 8912).
 
-(vii) Administer a funded competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians; administer a funded competitive grant and low-interest loan assistance program to assist States in assessing agricultural disease response capability (7 U.S.C. 8913).
+(vii) [Reserved]
 
 (viii) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide.
 
@@ -606,7 +578,7 @@
 
 (vii) Prepare responses to requests under the Freedom of Information Act with authority to take actions as required by law or regulation for the office and agencies reporting to the Assistant Secretary for Administration.
 
-(viii) Administer the records management program in support of Departmental Management, and prepare and coordinate responses to management audits by the Inspector General and the Government Accountability Office, with authority to take actions as required by law or regulation for the offices and agencies reporting to the Assistant Secretary for Administration.
+(viii) Administer the records management program in support of Departmental Administration, and prepare and coordinate responses to management audits by the Inspector General and the Government Accountability Office, with authority to take actions as required by law or regulation for the offices and agencies reporting to the Assistant Secretary for Administration.
 
 (10) *Related to Secretarial correspondence.* (i) Exercise responsibility for all correspondence control and related records management functions for the Office of the Secretary.
 
@@ -670,4 +642,4 @@
 
 (ii) [Reserved]
 
-[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015]
+[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018]

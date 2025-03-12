@@ -1,6 +1,6 @@
 ##### § 2.96 Director, Office of Operations. #####
 
-(a) *Delegations.* Pursuant to § 2.24(a)(9), and with due deference for delegations to other Departmental Management officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Operations:
+(a) *Delegations.* Pursuant to § 2.24(a)(9), and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Operations:
 
 (1) Provide services relating to facilities management and daily operational support for agencies and offices occupying USDA's headquarters complex, George Washington Carver Center, and, in coordination with the General Services Administration (GSA), USDA leased facilities in the Washington, DC metropolitan area, as well as at emergency relocation sites and certain critical facilities specified by the Assistant Secretary for Administration in the following areas:
 
@@ -46,7 +46,7 @@
 
 (7) Prepare responses to requests under the Freedom of Information Act with authority to take actions as required by law or regulation for the office and agencies reporting to the Assistant Secretary for Administration.
 
-(8) Administer the records management program in support of Departmental Management, and prepare and coordinate responses to management audits by the Inspector General and the Government Accountability Office, with authority to take actions as required by law or regulation for the offices and agencies reporting to the Assistant Secretary for Administration.
+(8) Administer the records management program in support ofDepartmental Administration, and prepare and coordinate responses to management audits by the Inspector General and the Government Accountability Office, with authority to take actions as required by law or regulation for the offices and agencies reporting to the Assistant Secretary for Administration.
 
 (b) [Reserved]
 

@@ -1,6 +1,6 @@
 ##### § 2.89 Chief Information Officer. #####
 
-(a) *Delegations.* The Chief Information Officer, under the supervision of the Assistant Secretary for Administration pursuant to § 2.24(a)(2), and with due deference for delegations to other Departmental Management officials, is responsible for executing the duties enumerated in Public Law 104-106 for agency Chief Information Officers, and additional specified duties, as follows:
+(a) *Delegations.* The Chief Information Officer, under the supervision of the Assistant Secretary for Administration pursuant to § 2.24(a)(2), and with due deference for delegations to other Departmental Administration officials, is responsible for executing the duties enumerated in Public Law 104-106 for agency Chief Information Officers, and additional specified duties, as follows:
 
 (1) Report directly to the Secretary of Agriculture regarding information technology matters.
 
@@ -74,7 +74,7 @@
 
 (x) Design, develop, implement, and revise systems, processes, work methods, and techniques to improve the management and operational effectiveness of information resources.
 
-(xi) Administer the Departmental records, forms, reports and Directives Management Programs.
+(xi) [Reserved]
 
 (xii) Manage all aspects of the USDA Telecommunications Program including planning, development, acquisition, and use of equipment and systems for voice, data, and communications, excluding the actual procurement of data transmission equipment, software, maintenance, and related supplies.
 
@@ -92,15 +92,15 @@
 
 (i) Disposing of information technology that is acquired by a Department agency in violation of procedures or standards for the Department Information Systems Technology Architecture.
 
-(ii) Establishing information technology and information resources management performance standards for agency Chief Information Officers, information resources managers, and project managers to be used in the performance appraisal process.
+(ii) Establishing information technology and information resources management performance standards for mission area Chief Information Officers, information resources managers, and project managers to be used in the performance appraisal process.
 
-(iii) Approving the selection of agency Chief Information Officers and agency major information technology system project managers in accordance with OMB policies.
+(iii) Approving the selection of mission area Chief Information Officers and mission area major information technology system project managers in accordance with OMB policies.
 
-(iv) Providing recommendations to Agency Heads for the removal or replacement of information technology project managers, when, in the opinion of the Chief Information Officer, applicable laws and policies are being violated, or, when the cost, schedule, or performance of an information technology project would indicate management deficiencies.
+(iv) Providing recommendations to mission area heads for the removal or replacement of information technology project managers, when, in the opinion of the Chief Information Officer, applicable laws and policies are being violated, or, when the cost, schedule, or performance of an information technology project would indicate management deficiencies.
 
 (v) Withdrawing agencies' authority to obligate funds on Information Technology programs or projects if the agency violates the Chief Information Officer policies, standards, or Department Information Systems Technology Architecture.
 
-(vi) Requiring agencies to validate and verify major information technology systems through the use of an existing contract for such purpose designated by the Chief Information Officer.
+(vi) Requiring mission areas to validate and verify major information technology systems through the use of an existing contract for such purpose designated by the Chief Information Officer.
 
 (vii) Requiring approval by the Chief Information Officer of any proposed acquisition of information technology (whether through the award or modification of a procurement contract, a cooperative or other agreement with a non-Federal party, or an interagency agreement) to ensure technical conformance to the Department technical architecture.
 
@@ -112,4 +112,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14954, Mar. 14, 2012; 78 FR 40939, July 9, 2013]
+[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14954, Mar. 14, 2012; 78 FR 40939, July 9, 2013; 83 FR 61315, Nov. 29, 2018]

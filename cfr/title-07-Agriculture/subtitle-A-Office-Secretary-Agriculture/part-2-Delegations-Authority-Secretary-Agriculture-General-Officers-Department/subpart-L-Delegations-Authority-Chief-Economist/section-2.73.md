@@ -1,6 +1,6 @@
-##### § 2.73 Director, Office of Energy Policy and New Uses. #####
+##### § 2.73 Director, Office of Energy and Environmental Policy. #####
 
-(a) Delegations. Pursuant to § 2.29(a)(11), the following delegations of authority are made by the Chief Economist to the Director, Office of Energy Policy and New Uses:
+(a) *Delegations.* Pursuant to § 2.29(a)(11) through (13) the following delegations of authority are made by the Chief Economist to the Director, Office of Energy and Environmental Policy.
 
 (1) Providing Department leadership in:
 
@@ -30,6 +30,30 @@
 
 (9) Implement a memorandum of understanding with the Secretary of Energy regarding cooperation in the application of hydrogen and fuel cell technology programs for rural communities and agricultural producers.
 
+(10) *Related to global climate change.* (i) Coordinate policy analysis, long-range planning, research, and response strategies relating to climate change issues.
+
+(ii) Provide liaison with other Federal agencies, through the Office of Science and Technology Policy, regarding climate change issues.
+
+(iii) Inform the Department of scientific developments and policy issues relating to the effects of climate change on agriculture and forestry, including broader issues that affect the impact of climate change on the farms and forests of the United States.
+
+(iv) Recommend to the Chief Economist alternative courses of action with which to respond to such scientific developments and policy issues.
+
+(v) Ensure that recognition of the potential for climate change is fully integrated into the research, planning, and decisionmaking processes of the Department.
+
+(vi) Coordinate global climate change studies.
+
+(vii) Coordinate the participation of the Department in interagency climate-related activities.
+
+(viii) Consult with the National Academy of Sciences and private, academic, State, and local groups with respect to climate research and related activities.
+
+(ix) Represent the Department to the Office of Science and Technology Policy on issues related to climate change.
+
+(x) Represent the Department on the Intergovernmental Panel on Climate Change.
+
+(xi) Review all Department budget items relating to climate change issues, including specifically the research budget to be submitted by the Secretary to the Office of Management and Budget.
+
+(11) *Related to environmental markets.* Coordinate implementation of section 1245 of the Food Security Act of 1985 regarding environmental services markets (16 U.S.C. 3845).
+
 (b) [Reserved]
 
-[64 FR 40736, July 28, 1999, as amended at 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 79 FR 44116, July 30, 2014]
+[64 FR 40736, July 28, 1999, as amended at 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 61314, Nov. 29, 2018]

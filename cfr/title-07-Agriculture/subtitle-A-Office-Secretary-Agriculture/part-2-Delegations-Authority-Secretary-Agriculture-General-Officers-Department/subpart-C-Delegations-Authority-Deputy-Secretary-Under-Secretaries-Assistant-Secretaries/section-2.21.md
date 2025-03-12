@@ -6,7 +6,7 @@
 
 (ii) Provide national leadership and support for research, extension, and teaching programs in the food and agricultural sciences to carry out sustainable agriculture research and education; a National Plant Genetic Resources Program; a national agricultural weather information system; and any other provisions pursuant to title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 (Pub. L. 101-624, 104 Stat. 3703).
 
-(iii) Coordinate USDA policy and conduct programs relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C. 136-136y).
+(iii) [Reserved]
 
 (iv) Carry out research, technology development, technology transfer, and demonstration projects related to the economic feasibility of the manufacture and commercialization of natural rubber from plants containing hydrocarbons (7 U.S.C. 178-178n).
 
@@ -566,4 +566,4 @@
 
 (3) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995]Editorial Note:For Federal Register citations affecting § 2.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[60 FR 56393, Nov. 8, 1995]Editorial Note:For Federal Register citations affecting § 2.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

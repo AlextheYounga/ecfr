@@ -2,7 +2,7 @@
 
 (a) *Delegations.* Pursuant to § 2.22(a)(1), (a)(5) and (a)(8), subject to reservations in § 2.22(b)(1), the following delegations of authority are made by the Under Secretary for Marketing and Regulatory Programs to the Administrator, Agricultural Marketing Service:
 
-(1) Exercise the functions of the Secretary of Agriculture contained in the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621-1627b), including payments to State Departments of Agriculture in connection with cooperative marketing service projects under section 204(b) (7 U.S.C. 1623(b)), but excepting matters otherwise assigned.
+(1) Exercise the functions of the Secretary of Agriculture contained in the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621 *et seq.*), including payments to State Departments of Agriculture in connection with cooperative marketing service projects under section 204(b) (7 U.S.C. 1623(b)), but excepting matters otherwise assigned.
 
 (2) Conduct marketing efficiency research and development activities directly applicable to the conduct of the Wholesale Market Development Program, specifically:
 
@@ -86,7 +86,7 @@
 
 (xxxvi) Procurement of agricultural commodities and other foods under section 6 of the National School Lunch Act of 1946, as amended (42 U.S.C. 1755);
 
-(xxxvii) In carrying out the procurement functions in paragraphs (a)(8)(xxxv) and (xxxvi) of this section, the Administrator, Agricultural Marketing Service shall, to the extent practicable, use the commodity procurement, handling, payment and related services of the Farm Service Agency;
+(xxxvii) [Reserved]
 
 (xxxviii) Act of May 23, 1908, regarding inspection of dairy products for export (21 U.S.C. 693);
 
@@ -174,7 +174,7 @@
 
 (9) Furnish, on request, copies of programs, pamphlets, reports, or other publications for missions or programs as may otherwise be delegated or assigned to the Administrator, Agricultural Marketing Service and charge user fees therefore, as authorized by section 1121 of the Agriculture and Food Act of 1981, as amended by section 1769 of the Food Security Act of 1985, 7 U.S.C. 2242a.
 
-(10) Collect, summarize, and publish data on the production, distribution, and stocks of sugar.
+(10) [Reserved]
 
 (11) With respect to land and facilities under his or her authority, exercise the functions delegated to the Secretary by Executive Order 12580, 3 CFR, 1987 Comp., p. 193, under the following provisions of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (“the Act”), as amended:
 
@@ -230,6 +230,20 @@
 
 (15) Assist the Administrator, Economic Research Service with implementing section 10016 of the Agricultural Act of 2014 regarding locally or regionally produced agricultural food products (7 U.S.C. 2204h).
 
+(16) Administer the United States Grain Standards Act, as amended (7 U.S.C. 71-87h).
+
+(17) Administer the Packers and Stockyards Act, 1921, as amended and supplemented.
+
+(18) Enforce provisions of the Consumer Credit Protection Act (15 U.S.C. 1601-1665, 1681-1681t), with respect to any activities subject to the Packers and Stockyards Act, 1921, as amended and supplemented.
+
+(19) Exercise the functions of the Secretary of Agriculture contained in section 1324 of the Food Security Act of 1985 (7 U.S.C. 1631).
+
+(20) Administer responsibilities and functions assigned to the Secretary in section 11006 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 228 note), with respect to the Packers and Stockyards Act, 1921.
+
+(21) Administer the U. S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Agricultural Marketing Services programs.
+
+(22) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
+
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 22188, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 62 FR 37485, July 14, 1997; 62 FR 40255, July 28, 1997; 68 FR 27446, May 20, 2003; 74 FR 3411, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 83 FR 22188, May 14, 2018; 83 FR 61314, Nov. 29, 2018]

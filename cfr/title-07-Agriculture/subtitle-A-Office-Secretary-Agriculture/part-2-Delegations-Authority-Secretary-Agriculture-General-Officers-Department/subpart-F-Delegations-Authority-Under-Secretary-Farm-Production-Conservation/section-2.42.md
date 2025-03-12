@@ -6,35 +6,15 @@
 
 (2) Formulate policies and administer programs authorized by the Agricultural Act of 1949, as amended (7 U.S.C. 1441 *et seq.*), except the provisions of section 416(a)(1), (a)(2) and (b) of the Agricultural Act of 1949, as amended, unless specifically provided herein.
 
-(3) Coordinate and prevent duplication of aerial photographic work of the Department, including:
+(3)-(4) [Reserved]
 
-(i) Clearing photography projects;
-
-(ii) Assigning symbols for new aerial photography, maintaining symbol records, and furnishing symbol books;
-
-(iii) Recording departmental aerial photography flow and coordinating the issuance of aerial photography status maps of latest coverage;
-
-(iv) Promoting interchange of technical information and techniques to develop lower costs and better quality;
-
-(v) Representing the Department on committees, task forces, work groups, and other similar groups concerned with aerial photography acquisition and reproduction;
-
-(vi) Providing a Chairperson for the Photography Sales Committee of the Department;
-
-(vii) Coordinating development, preparation, and issuance of specifications for aerial photography for the Department;
-
-(viii) Coordinating and performing procurement, inspection, and application of specifications for USDA aerial photography;
-
-(ix) Maintaining library and files of USDA aerial film and retrieving and supplying reproductions on request.
-
-(4) Administer the Agricultural Conservation Program under title X of the Agricultural Act of 1970, as amended (16 U.S.C. 1501 *et seq.*), and under the Soil Conservation and Domestic Allotment Act, as amended (16 U.S.C. 590g *et seq.*).
-
-(5) *Related to defense and emergency preparedness.* (i) Administer responsibilities and functions assigned under the Defense Production Act of 1950 (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning agricultural production; food processing, storage, and distribution; distribution of farm equipment and fertilizer; rehabilitation and use of food, agricultural, and related agribusiness facilities; CCC resources; and farm credit and financial assistance.
+(5) *Related to defense and emergency preparedness.* (i) [Reserved]
 
 (ii) Administer functions delegated by the President to the Secretary under Executive Order 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225), and Executive Order 12742, “National Security Industrial Responsiveness” (3 CFR, 1991 Comp., p. 309), including administration of an Agriculture Priorities and Allocations System.
 
 (6) Administer the Emergency Conservation Program under the Agricultural Credit Act of 1978, as amended (16 U.S.C. 2201 *et seq.*).
 
-(7) Conduct fiscal, accounting and claims functions relating to CCC programs for which the Foreign Agricultural Service has been delegated authority under § 2.601 and, in conjunction with other agencies of the U.S. Government, develop and formulate agreements to reschedule amounts due from foreign countries.
+(7) [Reserved]
 
 (8) Conduct assigned activities under the Strategic and Critical Materials Stockpiling Act, as amended (50 U.S.C. 98 *et seq.*).
 
@@ -44,9 +24,7 @@
 
 (11) Administer procurement, processing, handling, distribution, disposition, transportation, payment, and related services with respect to surplus removal and supply operations which are carried out under section 210 of the Agricultural Act of 1956 (7 U.S.C. 1859), the Act of August 19, 1958, as amended (7 U.S.C. 1431 note), and section 709 of the Food and Agriculture Act of 1965, as amended (7 U.S.C. 1446a-1), except as delegated to the Under Secretary for Food, Nutrition, and Consumer Services in § 2.19 and to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.16(a)(3), and assist the Food and Consumer Service and the Agricultural Marketing Service in the procurement, handling, payment, and related services under section 32 of the Act of August 24, 1935, as amended (7 U.S.C. 612c), the Act of June 28, 1937, as amended (7 U.S.C. 713c), the National School Lunch Act, as amended (42 U.S.C. 1751 *et seq.*), section 8 of the Child Nutrition Act of 1966, as amended (42 U.S.C. 1777), section 311 of the Older Americans Act of 1965, as amended (42 U.S.C. 3030a), and section 4(a) of the Agriculture and Consumer Protection Act of 1973, as amended (7 U.S.C. 612c note), and section 1114 of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e).
 
-(12) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment,and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1) (except for the authority under section 3107(d) to designate federal agencies that is reserved to the President), and payment and related services with respect to export programs and barter operations.
-
-(13) [Reserved]
+(12)-(13) [Reserved]
 
 (14) Administer the Agricultural Foreign Investment Disclosure Act of 1978 (7 U.S.C. 3501 *et seq.*) except those functions delegated in § 2.21(a)(8)(xi).
 
@@ -56,9 +34,9 @@
 
 (17) Conduct field operations of diversion programs for fresh fruits and vegetables under section 32 of the Act of August 29, 1935.
 
-(18) Administer the U. S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Farm Service Agency programs.
+(18) [Reserved]
 
-(19) [Reserved]
+(19) Collect, summarize, and publish data on the production, distribution, and stocks of sugar.
 
 (20) Formulate and carry out the Conservation Reserve Program, including the implementation of technical assistance, under the Food Security Act of 1985, as amended (16 U.S.C. 1231 *et seq.*), and the functions of the Grassland Reserve Program transferred to the Conservation Reserve Program.
 
@@ -232,7 +210,7 @@
 
 (viii) Section 14212 relating to the closure or relocation of county or field offices of the Farm Service Agency.
 
-(ix) Section 15353(a) relating to information reporting for Commodity Credit Corporation transactions.
+(ix) [Reserved]
 
 (57) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
@@ -260,4 +238,4 @@
 
 (2) Making and issuing notes to the Secretary of the Treasury for the purposes of the Agricultural Credit Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018]

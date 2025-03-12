@@ -2,7 +2,7 @@
 
 (a) The following delegations of authority are made by the Secretary to the Under Secretary for Marketing and Regulatory Programs:
 
-(1) *Related to agricultural marketing.* (i) Exercise the functions of the Secretary of Agriculture contained in the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621-1627b), including payments to State Departments of Agriculture in connection with cooperative marketing service projects under section 204(b) (7 U.S.C. 1623(b)), but excepting matters otherwise assigned.
+(1) *Related to agricultural marketing.* (i) Exercise the functions of the Secretary of Agriculture contained in the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621 *et seq.*), including payments to State Departments of Agriculture in connection with cooperative marketing service projects under section 204(b) (7 U.S.C. 1623(b)), but excepting matters otherwise assigned.
 
 (ii) Conduct marketing efficiency research and development activities directly applicable to the conduct of the Wholesale Market Development Program, specifically:
 
@@ -70,11 +70,13 @@
 
 (W) Egg Research and Consumer Information Act (7 U.S.C. 2701-2718), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
-(X) Beef Research and Information Act, as amended (7 U.S.C. 2901-2918), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in §§ 2.16(a)(1)(xiv) and (a)(3)(x);
+(X) Beef Research and Information Act, as amended (7 U.S.C. 2901-2918), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in §§ 2.26(a)(1)(xiv) and (a)(3)(x);
 
-(Y) Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in
+(xiv) Administer the U.S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Agricultural Marketing Services programs.
 
-§ 2.26(a)(1)(x);
+(xv) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
+
+(Y) Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (Z) Egg Products Inspection Act relating to the Shell Egg Surveillance Program, voluntary laboratory analyses of egg products, and the Voluntary Egg Grading Program (21 U.S.C. 1031-1056);
 
@@ -82,7 +84,7 @@
 
 (BB) Procurement of agricultural commodities and other foods under section 6 of the National School Lunch Act of 1946, as amended (42 U.S.C. 1755);
 
-(CC) In carrying out the procurement functions in paragraphs (a)(1)(viii)(AA) and (BB) of this section, the Assistant Secretary for Marketing and Regulatory Programs shall, to the extent practicable, use the commodity procurement, handling, payment and related services of the Farm Service Agency;
+(CC) [Reserved]
 
 (DD)Act of May 23, 1980, regarding inspection of dairy products for export (21 U.S.C. 693);
 
@@ -171,13 +173,17 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (ix) Furnish, on request, copies of programs, pamphlets, reports, or other publications for missions or programs as may otherwise be delegated or assigned to the Assistant Secretary for Marketing and Regulatory Programs, and charge user fees therefor, as authorized by section 1121 of the Agriculture and Food Act of 1981, as amended by section 1769 of the Food Security Act of 1985, 7 U.S.C. 2242a.
 
-(x) Collect, summarize, and publish data on the production, distribution, and stocks of sugar.
+(x) [Reserved]
 
 (xi) Administer a program for Dairy Product Mandatory Reporting (7 U.S.C. 1637-1637b), with the assistance of the Under Secretary for Research, Education, and Economics.
 
 (xii) Assist the Under Secretary for Trade and Foreign Agricultural Affairs with implementing section 3205 of the Food, Conservation, and Energy Act of 2008 (22 U.S.C. 7112 note) regarding the Consultative Group to Eliminate the Use of Child Labor and Forced Labor in Imported Agricultural Products.
 
 (xiii) Assist the Under Secretary for Research, Education, and Economics with implementing section 10016 of the Agricultural Act of 2014 regarding locally or regionally produced agricultural food products (7 U.S.C. 2204h).
+
+(xiv) Administer the U.S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Agricultural Marketing Services programs.
+
+(xv) Administer commodity procurement and supply, transportation (other than from point of export, except for movement to trust territories or possessions), handling, payment, and related services in connection with programs under titles II and III of Public Law 480 (7 U.S.C. 1691, 1701, *et seq.*) and section 3107 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 1736o-1), and payment and related services with respect to export programs and barter operations.
 
 (2) *Related to animal and plant health inspection.* Exercise the functions of the Secretary of Agriculture under the following authorities:
 
@@ -401,4 +407,4 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (3) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.

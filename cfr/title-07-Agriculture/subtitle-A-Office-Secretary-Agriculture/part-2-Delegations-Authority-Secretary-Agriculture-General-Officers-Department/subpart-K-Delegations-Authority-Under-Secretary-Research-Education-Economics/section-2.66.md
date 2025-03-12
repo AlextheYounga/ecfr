@@ -186,9 +186,7 @@
 
 (114) Provide technical assistance to farmers and ranchers under the Environmental Quality Incentives Program (16 U.S.C. 3830 *et seq.*).
 
-(115) Coordinate USDA policy and conduct programs relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136, *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C. 136-136y).
-
-(116) [Reserved]
+(115)-(116) [Reserved]
 
 (117) Represent the Department in international organizational activities and on international technical committees concerned with agricultural science, education, and development activities, including library and information science activities.
 
@@ -282,4 +280,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65595, Dec. 15, 1997; 65 FR 5417, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 72 FR 12701, Mar. 19, 2007; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4803, Jan. 27, 2011; 76 FR 52852, Aug. 24, 2011; 77 FR 40249, July 9, 2012; 79 FR 44115, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65595, Dec. 15, 1997; 65 FR 5417, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 72 FR 12701, Mar. 19, 2007; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4803, Jan. 27, 2011; 76 FR 52852, Aug. 24, 2011; 77 FR 40249, July 9, 2012; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018]

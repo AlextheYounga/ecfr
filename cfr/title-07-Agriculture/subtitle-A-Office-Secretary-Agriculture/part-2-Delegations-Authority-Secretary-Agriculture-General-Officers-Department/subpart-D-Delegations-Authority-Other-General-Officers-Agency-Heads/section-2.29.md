@@ -122,10 +122,12 @@
 
 (15) Carry out prize competition authorities in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719) related to functions otherwise delegated to the Chief Economist, except for authorities delegated to the Chief Financial Officer in § 2.28(a)(29) and authorities reserved to the Secretary in paragraph (b)(1) of this section.
 
+(16) *Related to Pest Management and Policy.* Coordinate USDA policy relative to the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136 *et seq.*) and coordinate the Department's Integrated Pest Management Programs and the Pesticide Assessment Program (7 U.S.C.136-136y) (7 U.S.C. 7653).
+
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
 (1) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
 (2) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 66979, Dec. 4, 1998; 64 FR 40735, July 28, 1999; 68 FR 27442, May 20, 2003; 73 FR 56706, Sept. 30, 2008; 74 FR 3405, Jan. 21, 2009; 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013; 79 FR 44111, July 30, 2014; 80 FR 58338, Sept. 29, 2015]
+[60 FR 56393, Nov. 8, 1995, as amended at 63 FR 66979, Dec. 4, 1998; 64 FR 40735, July 28, 1999; 68 FR 27442, May 20, 2003; 73 FR 56706, Sept. 30, 2008; 74 FR 3405, Jan. 21, 2009; 77 FR 14952, Mar. 14, 2012; 78 FR 40938, July 9, 2013; 79 FR 44111, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018]

@@ -48,7 +48,7 @@
 
 (23) Authority to prescribe the amounts of commuted traveltime allowances and the circumstances under which such allowances may be paid to employees covered by the Act of August 28, 1950 (7 U.S.C. 2260).
 
-(24) Provide management support services for the Grain Inspection, Packers and Stockyards Administration, and the Agricultural Marketing Service as agreed upon by the agencies with authority to take actions required by law or regulation. As used herein, the term management support services includes budget, finance, personnel, procurement, property management, communications, paperwork management, and related administrative services.
+(24) Provide management support services for the Agricultural Marketing Service, as agreed upon by the agencies, with authority to take actions required by law or regulation. As used herein, the term management support services includes information technology, budget, finance, personnel, procurement, property management, communications, paperwork management, and related administrative services.
 
 (25) Coordinate the development and carrying out by Department agencies of all matters and functions pertaining to the Department's regulation of biotechnology, and act as liaison on all matters and functions pertaining to the regulation of biotechnology between agencies within the Department and between the Department and other governmental and private organizations.
 
@@ -144,4 +144,4 @@
 
 (b) *Reservation.* The following authority is reserved to the Under Secretary for Marketing and Regulatory Programs: The authority to make determinations under 35 U.S.C. 156 as to whether an applicant acted with due diligence.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 68541, Dec. 30, 1996; 65 FR 49471, Aug. 14, 2000; 68 FR 27446, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3411, Jan. 21, 2009; 76 FR 4803, Jan. 27, 2011; 79 FR 44116, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 68541, Dec. 30, 1996; 65 FR 49471, Aug. 14, 2000; 68 FR 27446, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3411, Jan. 21, 2009; 76 FR 4803, Jan. 27, 2011; 79 FR 44116, July 30, 2014; 83 FR 61314, Nov. 29, 2018]

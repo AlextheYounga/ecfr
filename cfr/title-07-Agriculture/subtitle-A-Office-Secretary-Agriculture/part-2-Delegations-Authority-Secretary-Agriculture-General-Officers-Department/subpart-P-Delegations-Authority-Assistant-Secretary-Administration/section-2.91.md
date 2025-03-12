@@ -1,6 +1,6 @@
 ##### § 2.91 Director, Office of Human Resources Management. #####
 
-(a) *Delegations.* Pursuant to § 2.24(a)(4), with due deference for delegations to other Departmental Management officials, and subject to the reservations in § 2.24(b), the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Human Resources Management:
+(a) *Delegations.* Pursuant to § 2.24(a)(4), with due deference for delegations to other Departmental Administration officials, and subject to the reservations in § 2.24(b), the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Human Resources Management:
 
 (1) Formulate and issue Department policy, standards, rules and regulations relating to human resources management.
 
@@ -156,7 +156,21 @@
 
 (v) Any other offices or agencies of the Department as may be agreed.
 
-(21) Redelegate, as appropriate, any authority delegated under paragraphs (a)(1) through (a)(20) of this section to general officers of the Department and heads of Departmental agencies, provided that the Director, Office of Human Resources Management retains the authority to make final decisions in any human resources matter so redelegated.
+(21) Related to occupational safety and health:
+
+(i) Establish Departmentwide safety and health policy and provide leadership in the development, coordination, and implementation of related standards, techniques, and procedures, and represent the Department in complying with laws, Executive Orders and other policy and procedural issuances and related to occupational safety and health and workers' compensation programs within the Department.
+
+(ii) Represent the Department in all rulemaking, advisory, or legislative capacities on any groups, committees, or Governmentwide activities that affect the USDA Occupational Safety and Health Management Program.
+
+(iii) Determine and provide Departmentwide technical services and regional staff support for the safety and health programs.
+
+(iv) Administer the computerized management information systems for the collection, processing, and dissemination of data related to the Department's occupational safety and health programs.
+
+(v) Administer the Department's Occupational Health and Preventive Medicine Program, as well as design and operate employee assistance and workers' compensation activities.
+
+(vi) Provide education and training on a Departmentwide basis for safety and health-related issues and develop resource and operational manuals.
+
+(22) Redelegate, as appropriate, any authority delegated under paragraphs (a)(1) through (21) of this section to general officers of the Department and heads of Departmental agencies, provided that the Director, Office of Human Resources Management retains the authority to make final decisions in any human resources matter so redelegated.
 
 (b) *Reservations.* The following authorities are reserved to the Assistant Secretary for Administration:
 
@@ -164,4 +178,4 @@
 
 (2) Approve coverage and waiver of individual law enforcement and firefighter positions under the special retirement provisions of the Civil Service Retirement System and the Federal Employees Retirement System.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14954, Mar. 14, 2012; 78 FR 40939, July 9, 2013; 79 FR 44117, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 77 FR 14954, Mar. 14, 2012; 78 FR 40939, July 9, 2013; 79 FR 44117, July 30, 2014; 83 FR 61316, Nov. 29, 2018]

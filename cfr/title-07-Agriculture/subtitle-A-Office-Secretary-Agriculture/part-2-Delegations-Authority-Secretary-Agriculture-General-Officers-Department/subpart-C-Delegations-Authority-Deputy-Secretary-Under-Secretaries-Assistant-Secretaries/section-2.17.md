@@ -132,7 +132,7 @@
 
 (x) [Reserved]
 
-(xi) In coordination with the Assistant Secretary for Administration, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
+(xi) In coordination with the Director, Office of Partnerships and Public Engagement, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
 (xii) Administer section 6407 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8107a), relating to a rural energy savings program.
 
@@ -222,7 +222,7 @@
 
 (xxiv) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
-(xxv) In coordination with the Assistant Secretary for Administration, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
+(xxv) In coordination with the Director, Office of Partnerships and Public Engagement, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
 (xxvi) Administer the Healthy Food Financing Initiative under section 243 of the Department of Agriculture Reorganization Act of 1994 (7 U.S.C. 6953).
 
@@ -260,7 +260,7 @@
 
 (vii) Implement the information disclosure authorities of section 1619(b)(3)(A) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8791(b)(3)(A)).
 
-(viii) In coordination with the Assistant Secretary for Administration, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
+(viii) In coordination with the Director, Office of Partnerships and Public Engagement, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
 (23) *Related to hazardous materials management.* (i) Serve on the USDA Hazardous Materials Policy Council.
 
@@ -292,4 +292,4 @@ Administer section 9008 of FSRIA (7 U.S.C. 8108) with respect to biomass researc
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22181, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 65 FR 12427, Mar. 9, 2000; 66 FR 31107, June 11, 2001; 68 FR 27436, May 20, 2003; 74 FR 3402, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 76 FR 52851, Aug. 24, 2011; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018]

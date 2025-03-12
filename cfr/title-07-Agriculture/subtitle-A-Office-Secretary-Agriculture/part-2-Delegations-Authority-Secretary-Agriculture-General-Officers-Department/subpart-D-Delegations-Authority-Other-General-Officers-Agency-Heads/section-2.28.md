@@ -6,7 +6,7 @@
 
 (2) Oversee all financial management activities relating to the programs and operations of the Department and component agencies.
 
-(3) Develop and maintain an integrated accounting and financial system for the Department and component agencies, including financial reporting and internal controls, which -
+(3) Develop and maintain an integrated accounting and financial system for the Department and component agencies, including financial reporting and internal controls, which—
 
 (i) Complies with applicable accounting principles, standards, and requirements, and internal control standards;
 
@@ -128,11 +128,13 @@
 
 (26) Prepare and submit to Congress reports on conferences sponsored or held by the Department or attended by employees of the Department (7 U.S.C. 2255b).
 
-(27) Administer the debarment authorities in section 14211 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 2209j) in coordination with the Director, Office of Procurement and Property Management.
+(27) Administer the debarment authorities in section 14211 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 2209j) in coordination with the Director, Office of Contracting and Procurement.
 
 (28) Redelegate, as appropriate, any authority delegated under paragraphs (a)(1) through (27) of this section to general officers of the Department and heads of Departmental agencies.
 
 (29) Provide Departmentwide guidance on implementation of prize competition authority in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719); develop guidelines to ensure that judges appointed for prize competitions under that authority are fairly balanced and operate in a transparent manner (15 U.S.C. 3719(k)(3)).
+
+(30) Settle claims not otherwise provided for under 31 U.S.C. 3702(a) or another provision of law.
 
 (b) The following authorities are reserved to the Secretary of Agriculture:
 
@@ -140,4 +142,4 @@
 
 (2) [Reserved]
 
-[79 FR 44110, July 30, 2014, as amended at 80 FR 58338, Sept. 29, 2015]
+[79 FR 44110, July 30, 2014, as amended at 80 FR 58338, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018]

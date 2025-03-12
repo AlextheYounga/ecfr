@@ -28,7 +28,7 @@
 
 (J) Maintaining library and files of USDA aerial film and retrieving and supplying reproductions on request.
 
-(iv) Administer the Agricultural Conservation Program under title X of the Agricultural Act of 1970, as amended (16 U.S.C. 1501 *et seq.*), and under the Soil Conservation and Domestic Allotment Act, as amended (16 U.S.C. 590g *et seq.*).
+(iv) [Reserved]
 
 (v) Administer the Emergency Conservation Program under the Agricultural Credit Act of 1978, as amended (16 U.S.C. 2201 *et seq.*).
 
@@ -52,9 +52,9 @@
 
 (xv) Conduct field operations of diversion programs for fresh fruits and vegetables under section 32 of the Act of August 29, 1935.
 
-(xvi) Administer the U.S. Warehouse Act, as amended (7 U.S.C. 241-273), and perform compliance examinations for Farm Service Agency programs.
+(xvi) [Reserved]
 
-(xvii) [Reserved]
+(xvii) Collect, summarize, and publish data on the production, distribution, and stocks of sugar.
 
 (xviii) Formulate and carry out the Conservation Reserve Program, including the implementation of technical assistance, under the Food Security Act of 1985, as amended (16 U.S.C. 1231 *et seq.*), and the functions of the Grassland Reserve Program transferred to the Conservation Reserve Program.
 
@@ -80,7 +80,7 @@
 
 (A) Administer cooperative agreements with respect to conservation programs;
 
-(B) Administer cooperative agreements, of less than $100,000, with nongovernmental organizations or educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Assistant Secretary for Administration to reduce potential duplication.
+(B) Administer cooperative agreements, of less than $100,000, with nongovernmental organizations or educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Partnerships and Public Engagement to reduce potential duplication.
 
 (xxix) Administer the feedstock flexibility program for bioenergy producers under section 9010 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8110) and the biomass crop assistance program under section 9011 of that Act (7 U.S.C. 8111).
 
@@ -88,7 +88,7 @@
 
 (xxxii) Implement the authority in section 1241 of the Food Security Act of 1985 (16 U.S.C. 3841) to accept and use voluntary contributions of non-Federal funds in support of natural resources conservation programs under subtitle D of title XII of that Act with respect to authorities delegated to the Under Secretary for Farm Production and Conservation.
 
-(xxxiii) In coordination with the Assistant Secretary for Administration, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
+(xxxiii) In coordination with the Director, Office of Partnerships and Public Engagement, issue receipts under section 2501A(e) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279-1(e)).
 
 (xxxiv) Administer the following provisions of the Food, Conservation, and Energy Act of 2008, Public Law 110-246:
 
@@ -246,7 +246,7 @@
 
 (F) The joint investigations and surveys with the Department of the Army under 16 U.S.C. 1009; and
 
-(G) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205, except for the provisions of sections 401 and 402, 16 U.S.C. 2201-2202, as administered by the Under Secretary for Farm Production and Conservation.
+(G) The Emergency Conservation Program and the Emergency Watershed Protection Program under sections 401-405 of the Agricultural Credit Act of 1978, 16 U.S.C. 2201-2205.
 
 (v) Administer the Great Plains Conservation Program and the Critical Lands Resources Conservation Program under 16 U.S.C. 590p(b), 590q and 590q-3.
 
@@ -364,7 +364,7 @@
 
 (5) *Related to committee management.* Establish and reestablish regional, state, and local advisory committees for activities under his or her authority. This authority may not be redelegated.
 
-(6) *Related to defense and emergency preparedness.* (i) Administer responsibilities and functions assigned under the Defense Production Act of 1950 (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning agricultural production; food processing, storage, and distribution; distribution of farm equipment and fertilizer; rehabilitation and use of food, agricultural, and related agribusiness facilities; CCC resources; farm credit and financial assistance; and foreign agricultural intelligence and other foreign agricultural matters.
+(6) *Related to defense and emergency preparedness.*(i) Administer responsibilities and functions assigned under the Defense Production Act of 1950 (50 U.S.C. App. 2061 *et seq.*), and title VI of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5195 *et seq.*), concerning agricultural production; food processing, storage, and distribution; distribution of farm equipment and fertilizer; rehabilitation and use of food, agricultural, and related agribusiness facilities; CCC resources; and farm credit and financial assistance.
 
 (ii) Administer functions delegated by the President to the Secretary under Executive Order 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225), and Executive Order 12742, “National Security Industrial Responsiveness” (3 CFR, 1991 Comp., p. 309), including administration of an Agriculture Priorities and Allocations System.
 
@@ -442,4 +442,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018]

@@ -1,6 +1,6 @@
-##### § 2.95 Director, Office of Homeland Security and Emergency Coordination. #####
+##### § 2.95 Director, Office of Homeland Security. #####
 
-(a) *Delegations from the Secretary.* Pursuant to Executive Order 10450, “Security Requirements for Government Employment” (18 FR 2489, Apr. 29, 1953); Executive Order 12968, “Access to Classified Information,” 3 CFR, 1995 Comp., p. 391; Executive Order 13526, “Classified National Security Information” (75 FR 707, Jan. 5, 2010); and 5 CFR part 732, and with due deference for delegations to other Departmental Management officials, the following delegations of authority are made by the Secretary to the Director, Office of Homeland Security and Emergency Coordination, pursuant to the Director's responsibilities as the Departmental National Security Programs Officer, as designated by the Secretary:
+(a) *Delegations from the Secretary.* Pursuant to Executive Order 10450, “Security Requirements for Government Employment” (18 FR 2489, Apr. 29, 1953); Executive Order 12968, “Access to Classified Information,” 3 CFR, 1995 Comp., p. 391; Executive Order 13526, “Classified National Security Information” (75 FR 707, Jan. 5, 2010); and 5 CFR part 732, and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Secretary to the Director, Office of Homeland Security, pursuant to the Director's responsibilities as the Departmental National Security Programs Officer, as designated by the Secretary:
 
 (1) Manage the personnel security functions of the Department, which includes sole authority for making eligibility access determinations and sponsoring Sensitive Compartmented Information clearances; obtaining and granting security clearances for USDA employees and consultants and volunteers on authorized agreements; and suspending, denying, or revoking access to national security information (Executive Order 12968 “Access to Classified Information”, as amended), notwithstanding the Secretary's authority to remove an employee for national security reasons as outlined in 5 U.S.C. 7532.
 
@@ -8,7 +8,7 @@
 
 (3) Review and develop recommendations on classifying, declassifying, and safeguarding national security information for which the Secretary is responsible as Original Classification Authority.
 
-(b) *Delegations from the Assistant Secretary for Administration.* Pursuant to § 2.24(a)(8), and with due deference for delegations to other Departmental Management officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Homeland Security and Emergency Coordination:
+(b) *Delegations from the Assistant Secretary for Administration.* Pursuant to § 2.24(a)(8), and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Homeland Security:
 
 (1) Administer the Department Emergency Preparedness Program. This includes:
 
@@ -28,7 +28,7 @@
 
 (viii) Act as the primary USDA representative for anti-terrorism activities.
 
-(ix) Develop and submit a coordinated budget request for homeland security requirements.
+(ix) [Reserved]
 
 (x) Provide guidance and direction regarding radiological emergency preparedness programs and the implementation of the National Response Framework's Nuclear/Radiological Incident Annex to Departmental staff offices, mission areas, and agencies.
 
@@ -38,9 +38,9 @@
 
 (xiii) Support USDA in its management of the Department's emergency response program with respect to radiological emergency response activities.
 
-(xiv) Exercise responsibility for USDA response efforts when a spill of national significance is declared under the Oil Pollution Act of 1990, as determined by the Assistant Secretary for Administration.
+(xiv) [Reserved]
 
-(2) Provide for the personal security to the Secretary and the Deputy Secretary.
+(2) [Reserved]
 
 (3) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland security activities.
 
@@ -48,7 +48,7 @@
 
 (5) Oversee the Department's ability to collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity, and coordinate such activities among agencies and offices within the Department (7 U.S.C. 8912).
 
-(6) Administer a funded competitive grant program to support the development and expansion of advanced training programs in agricultural biosecurity planning and response for food science professionals and veterinarians; administer a funded competitive grant and low-interest loan assistance program to assist States in assessing agricultural disease response capability (7 U.S.C. 8913).
+(6)[Reserved]
 
 (7) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide.
 
@@ -100,4 +100,4 @@
 
 (ii) Maintain and ensure compliance with the Nuclear Regulatory Commission regulations (Title 10, Code of Federal Regulations) and license(s) issued to USDA for the acquisition, use, and disposal of radioactive materials.
 
-[75 FR 43381, July 23, 2010, as amended at 80 FR 58339, Sept. 29, 2015]
+[75 FR 43381, July 23, 2010, as amended at 80 FR 58339, Sept. 29, 2015; 83 FR 61317, Nov. 29, 2018]Editorial Note:At 83 FR 61317, Nov. 29, 2018, § 2.95 was amended; however, the amendment to paragraph (b)(1)(vi) could not be incorporated because no text was provided.
