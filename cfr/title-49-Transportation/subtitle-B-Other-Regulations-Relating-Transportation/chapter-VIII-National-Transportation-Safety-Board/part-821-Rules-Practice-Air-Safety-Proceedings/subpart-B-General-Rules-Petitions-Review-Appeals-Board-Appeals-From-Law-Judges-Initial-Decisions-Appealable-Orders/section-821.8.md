@@ -2,7 +2,7 @@
 
 (a) *Who must be served.* (1) Copies of all documents filed with the Board must be simultaneously served on (*i.e.,* sent to) all other parties to the proceeding, on the date of filing, by the person filing them. A certificate of service shall be a part of each document and any copy or copies thereof tendered for filing, and shall certify concurrent service on the Board and the parties. A certificate of service shall be in substantially the following form:
 
-I hereby certify that I have this day served the foregoing [specify document] on the following party's counsel or designated representatives [or party, if without counsel or representative], at the address indicated, by [specify the method of service (*e.g.,* first-class mail, electronic mail, personal service, etc.)] [List names and addresses of all persons served] Dated at \_\_\_this\_\_ day of\_\_\_\_\_ 20\_ (Signature)\_\_\_\_\_ For (on behalf of)\_\_\_\_\_
+I hereby certify that I have this day served the foregoing [specify document] on the following party's counsel or designated representatives [or party, if without counsel or representative], at the address indicated, by [specify the method of service (e.g., first-class mail, electronic mail, personal service, etc.)] [List names and addresses of all persons served] Dated at \_\_\_\_\_\_this\_\_\_\_ day of\_\_\_\_\_\_\_\_\_\_ 20\_\_ (Signature)\_\_\_\_\_\_\_\_\_\_ For (on behalf of)\_\_\_\_\_\_\_\_\_\_
 
 (2) Service shall be made on the person designated in accordance with § 821.7(f) to receive service. If no such person has been designated, service shall be made directly on the party.
 

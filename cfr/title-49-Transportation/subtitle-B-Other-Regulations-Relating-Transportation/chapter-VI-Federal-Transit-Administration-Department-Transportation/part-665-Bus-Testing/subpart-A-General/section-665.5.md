@@ -1,6 +1,6 @@
 ##### § 665.5 Definitions. #####
 
-As used in this part -
+As used in this part—
 
 *Administrator* means the Administrator of the Federal Transit Administration or the Administrator's designee.
 
@@ -18,7 +18,7 @@ As used in this part -
 
 *Emissions* means the components of the engine tailpipe exhaust that are regulated by the United States Environmental Protection Agency (EPA), plus carbon dioxide (CO2) and methane (CH4).
 
-*Emissions control system* means the components on a bus whose primary purpose is to minimize regulated emissions before they exit the tailpipe. This definition does not include components that contribute to low emissions as a side effect of the manner in which they perform their primary function (*e.g.,* fuel injectors or combustion chambers).
+*Emissions control system* means the components on a bus whose primary purpose is to minimize regulated emissions before they exit the tailpipe. This definition does not include components that contribute to low emissions as a side effect of the manner in which they perform their primary function (e.g., fuel injectors or combustion chambers).
 
 *Final acceptance* means the formal approval by the recipient that the vehicle has met all of its bid specifications and the recipient has received proper title.
 
@@ -38,7 +38,7 @@ As used in this part -
 
 *Modified third-party chassis or van* means a vehicle that is manufactured from an incomplete, partially assembled third-party chassis or van as provided by an OEM to a small bus manufacturer. This includes vehicles whose chassis structure has been modified to include: A tandem or tag axle; a drop or lowered floor; changes to the GVWR from the OEM rating; or other modifications that are not made in strict conformance with the OEM's modifications guidelines where they exist.
 
-*New bus model* means a bus model that -
+*New bus model* means a bus model that—
 
 (1) Has not been used in public transportation service in the United States before October 1, 1988; or
 

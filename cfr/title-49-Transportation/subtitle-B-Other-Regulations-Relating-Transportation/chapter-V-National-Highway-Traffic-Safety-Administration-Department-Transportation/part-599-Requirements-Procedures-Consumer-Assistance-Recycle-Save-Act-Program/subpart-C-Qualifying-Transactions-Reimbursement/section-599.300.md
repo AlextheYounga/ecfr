@@ -8,7 +8,7 @@
 
 (2) Continuously insured consistent with the applicable State law for a period of not less than 1 year immediately prior to the trade-in, as demonstrated by:
 
-(i) One or more current insurance cards specifying the make, model, model year, and vehicle identification number (VIN) of the insured vehicle and displaying a continuous one-year period of insurance coverage; or a copy of an insurance policy document (*e.g.,* a declarations page or pages) showing a continuous one-year period of insurance coverage for the vehicle; or a signed letter, on insurance company letterhead, specifying the same vehicle identification information (*i.e.,* make, model, model year, and VIN) of the insured vehicle and identifying the period of continuous coverage, which must be for at least one year prior to the date of the trade-in; and
+(i) One or more current insurance cards specifying the make, model, model year, and vehicle identification number (VIN) of the insured vehicle and displaying a continuous one-year period of insurance coverage; or a copy of an insurance policy document (e.g., a declarations page or pages) showing a continuous one-year period of insurance coverage for the vehicle; or a signed letter, on insurance company letterhead, specifying the same vehicle identification information (*i.e.,* make, model, model year, and VIN) of the insured vehicle and identifying the period of continuous coverage, which must be for at least one year prior to the date of the trade-in; and
 
 (ii) By certification by the purchaser, as provided in Appendix A to this part, certifications section, that the vehicle was so insured;
 
@@ -26,7 +26,7 @@
 
 (2) Have a manufacturer's suggested retail price of $45,000 or less.
 
-(d) *Trade-in Vehicle - Disclosure of Scrap Value, Engine Disablement, and Title Marking.* As part of a qualifying transaction under this part, the dealer shall:
+(d) *Trade-in Vehicle—Disclosure of Scrap Value, Engine Disablement, and Title Marking.* As part of a qualifying transaction under this part, the dealer shall:
 
 (1) During the transaction, disclose to the person purchasing or leasing an eligible new vehicle and trading in an eligible trade-in vehicle, the best estimate of the scrap value of the trade-in vehicle, inform that person that the dealer is authorized to retain $50 of this amount as payment for its administrative costs of participation in the program, and certify, as provided in Appendix A to this part, certifications section, that it has made such disclosure;
 

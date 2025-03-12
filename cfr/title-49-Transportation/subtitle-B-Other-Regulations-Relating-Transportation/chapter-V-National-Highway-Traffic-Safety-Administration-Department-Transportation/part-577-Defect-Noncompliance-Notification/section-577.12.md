@@ -10,7 +10,7 @@
 
 (2) When the accelerated remedy program has been required by the Administrator, a statement that the National Highway Traffic Safety Administration has required the manufacturer to accelerate its remedy program;
 
-(3) A statement of how the program has been accelerated (*e.g.,* by expanding the sources of replacement parts and/or expanding the number of authorized repair facilities);
+(3) A statement of how the program has been accelerated (e.g., by expanding the sources of replacement parts and/or expanding the number of authorized repair facilities);
 
 (4) Where applicable, a statement that the owner may elect to obtain the recall remedy using designated service facilities other than those that are owned or franchised by the manufacturer or are the manufacturer's authorized dealers, and an explanation of how the owner may arrange for service at those other facilities;
 

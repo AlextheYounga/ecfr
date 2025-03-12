@@ -10,7 +10,7 @@
 
 (2) *Fuel economy and environment label* means the label with information about automobile performance in terms of fuel economy, greenhouse gases, and other emissions and with rating systems for fuel economy, greenhouse gases, and other emissions that also indicate the automobile(s) with the highest fuel economy and lowest greenhouse gas emissions, as specified at 49 U.S.C. 32908(g).
 
-(3) *Miles per gasoline gallon equivalent (MPGe)* is a measure of distance traveled per unit of energy consumed, and functions as a recognizable equivalent to, *e.g.,* kilowatt-hours per mile (kW-hr/mile).
+(3) *Miles per gasoline gallon equivalent (MPGe)* is a measure of distance traveled per unit of energy consumed, and functions as a recognizable equivalent to, e.g., kilowatt-hours per mile (kW-hr/mile).
 
 (4) *Monroney label* means the label placed on new automobiles with the manufacturer's suggested retail price and other consumer information, as specified at 15 U.S.C. 1231-1233 (also known as the “Automobile Information Disclosure Act label”).
 

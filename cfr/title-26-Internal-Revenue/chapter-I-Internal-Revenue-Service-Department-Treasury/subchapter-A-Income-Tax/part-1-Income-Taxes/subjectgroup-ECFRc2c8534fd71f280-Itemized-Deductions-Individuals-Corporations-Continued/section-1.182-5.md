@@ -8,28 +8,28 @@
 
 Example 1.For the taxable year 1963, A, who uses the cash receipts and disbursements method of accounting, incurs expenditures to which section 182 applies in the amount of $2,000 and makes the election under section 182. A has the following items of income and deductions (without regard to section 182 expenditures).
 
-|                                                                   Income:                                                                    |       |       |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
-|                                                 Proceeds from sale of his 1963 yield of corn                                                 |$10,000|       |
-|                                                         Proceeds from sales of milk                                                          | 8,000 |       |
-|                                                  Gain from disposition of old breeding cows                                                  |  500  |       |
-|                                                          Gain from sale of tractor                                                           |  100  |       |
-|                                                          Gain from sale of farmland                                                          | 5,000 |       |
-|                                                         Interest on loan to brother                                                          |  100  |       |
-|                                                                                                                                              |23,700 |       |
-|                                                                 Deductions:                                                                  |       |       |
-|                                                                Cost of labor                                                                 | 4,000 |       |
-|                                                                 Cost of feed                                                                 | 3,000 |       |
-|                                                 Depreciation on farm equipment and buildings                                                 | 2,500 |       |
-|                                                        Cost of maintenance, fuel, etc                                                        | 2,000 |       |
-|                                                  Interest paid, mortgage on farm buildings                                                   | 1,000 |       |
-|                                                         Interest paid, personal loan                                                         |  500  |       |
-|                                                         Loss on destruction of barn                                                          | 2,000 |       |
-|                                                            Loss on sale of truck                                                             |  300  |       |
-|                                           Section 1202 deduction—gain on sale of cows (500 × 1/2)                                            |  250  |       |
-|Section 1202 deduction—net gain on disposition of section 1231 property, other than cows [$2,800 ($5,100−$2,300) × <sup>1</sup>⁄<sub>2</sub> ]| 1,400 |       |
-|                                                                                                                                              |  ———  |$16,950|
-|                                                   Net income before section 182 deduction                                                    |       | 6,750 |
+|                                                        Income:                                                         |       |       |
+|------------------------------------------------------------------------------------------------------------------------|-------|-------|
+|                                      Proceeds from sale of his 1963 yield of corn                                      |$10,000|       |
+|                                              Proceeds from sales of milk                                               | 8,000 |       |
+|                                       Gain from disposition of old breeding cows                                       |  500  |       |
+|                                               Gain from sale of tractor                                                |  100  |       |
+|                                               Gain from sale of farmland                                               | 5,000 |       |
+|                                              Interest on loan to brother                                               |  100  |       |
+|                                                                                                                        |23,700 |       |
+|                                                      Deductions:                                                       |       |       |
+|                                                     Cost of labor                                                      | 4,000 |       |
+|                                                      Cost of feed                                                      | 3,000 |       |
+|                                      Depreciation on farm equipment and buildings                                      | 2,500 |       |
+|                                             Cost of maintenance, fuel, etc                                             | 2,000 |       |
+|                                       Interest paid, mortgage on farm buildings                                        | 1,000 |       |
+|                                              Interest paid, personal loan                                              |  500  |       |
+|                                              Loss on destruction of barn                                               | 2,000 |       |
+|                                                 Loss on sale of truck                                                  |  300  |       |
+|                                Section 1202 deduction—gain on sale of cows (500 × 1/2)                                 |  250  |       |
+|Section 1202 deduction—net gain on disposition of section 1231 property, other than cows [$2,800 ($5,100−$2,300) × 1/2 ]| 1,400 |       |
+|                                                                                                                        |  ———  |$16,950|
+|                                        Net income before section 182 deduction                                         |       | 6,750 |
 
 For purposes of computing taxable income derived from farming under section 182, the following items of income and deductions are not taken into account:
 

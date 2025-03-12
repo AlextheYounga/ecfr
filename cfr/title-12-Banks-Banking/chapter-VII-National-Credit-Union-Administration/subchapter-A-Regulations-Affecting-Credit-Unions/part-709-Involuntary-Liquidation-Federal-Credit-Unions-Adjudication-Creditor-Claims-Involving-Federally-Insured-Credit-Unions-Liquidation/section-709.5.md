@@ -1,5 +1,7 @@
 ##### § 709.5 Payout priorities in involuntary liquidation. #####
 
+Link to an amendment published at 83 FR 24652, May 30, 2018.
+
 (a) Claimants whose claims are secured shall receive their security. To the extent their respective claims exceed the value of the security for those claims, as determined to the satisfaction of the liquidating agent, they shall each have an unsecured claim against the credit union having priority as provided in paragraph (b) of this section.
 
 (b) Unsecured claims against the liquidation estate that are proved to the satisfaction of the liquidating agent shall have priority in the following order:

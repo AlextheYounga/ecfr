@@ -44,7 +44,7 @@ All terms defined in 49 U.S.C. Chapter 53 are incorporated into this part by ref
 
 *Participant* means a tier II provider that participates in a group TAM plan.
 
-*Performance Measure* means an expression based on a quantifiable indicator of performance or condition that is used to establish targets and to assess progress toward meeting the established targets (*e.g.,* a measure for on-time performance is the percent of trains that arrive on time, and a corresponding quantifiable indicator of performance or condition is an arithmetic difference between scheduled and actual arrival time for each train).
+*Performance Measure* means an expression based on a quantifiable indicator of performance or condition that is used to establish targets and to assess progress toward meeting the established targets (e.g., a measure for on-time performance is the percent of trains that arrive on time, and a corresponding quantifiable indicator of performance or condition is an arithmetic difference between scheduled and actual arrival time for each train).
 
 *Performance target* means a quantifiable level of performance or condition, expressed as a value for the measure, to be achieved within a time period required by the Federal Transit Administration (FTA).
 
@@ -64,7 +64,7 @@ All terms defined in 49 U.S.C. Chapter 53 are incorporated into this part by ref
 
 *Subrecipient* means an entity that receives Federal transit grant funds indirectly through a State or a direct recipient.
 
-*TERM scale* means the five (5) category rating system used in the Federal Transit Administration's Transit Economic Requirements Model (TERM) to describe the condition of an asset: 5.0 - Excellent, 4.0 - Good; 3.0 - Adequate, 2.0 - Marginal, and 1.0 - Poor.
+*TERM scale* means the five (5) category rating system used in the Federal Transit Administration's Transit Economic Requirements Model (TERM) to describe the condition of an asset: 5.0—Excellent, 4.0—Good; 3.0—Adequate, 2.0—Marginal, and 1.0—Poor.
 
 *Tier I provider* means a recipient that owns, operates, or manages either (1) one hundred and one (101) or more vehicles in revenue service during peak regular service across all fixed route modes or in any one non-fixed route mode, or (2) rail transit.
 

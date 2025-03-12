@@ -1,4 +1,4 @@
-##### § 71.5 Requirements relating to the transmission of vessel passenger, crew, and flight information for public health purposes. #####
+##### § 71.5 Requirements relating to the transmission of vessel passenger, crew, and voyage information for public health purposes. #####
 
 (a) The operator of any vessel carrying 13 or more passengers (excluding crew) and, which is not a ferry as defined under 46 U.S.C. 2101 and U.S. Coast Guard (USCG) regulations (46 CFR 2.10-25), shall make the data elements in paragraph (b) of this section available to the Director for passengers or crew who, as determined by the Director, may be at risk of exposure to a communicable disease, to the extent that such data are already in the operator's possession, within 24 hours of an order by the Director and in a format available and acceptable to both the operator and the Director.
 
