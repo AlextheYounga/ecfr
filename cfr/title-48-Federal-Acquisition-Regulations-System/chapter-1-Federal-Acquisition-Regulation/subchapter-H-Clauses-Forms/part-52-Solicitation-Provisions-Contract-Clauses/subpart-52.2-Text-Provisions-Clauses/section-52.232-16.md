@@ -1,14 +1,12 @@
 ##### 52.232-16 Progress Payments. #####
 
-Link to an amendment published at 85 FR 27097, May 6, 2020.
-
 As prescribed in 32.502-4(a), insert the following clause:
 
-Progress Payments (APR 2012)
+Progress Payments (JUN 2020)
 
 The Government will make progress payments to the Contractor when requested as work progresses, but not more frequently than monthly, in amounts of $2,500 or more approved by the Contracting Officer, under the following conditions:
 
-(a) *Computation of amounts.* (1) Unless the Contractor requests a smaller amount, the Government will compute each progress payment as 80 percent of the Contractor's total costs incurred under this contract whether or not actually paid, plus financing payments to subcontractors (see paragraph (j) of this clause), less the sum of all previous progress payments made by the Government under this contract. The Contracting Officer will consider cost of money that would be allowable under FAR 31.205-10 as an incurred cost for progress payment purposes.
+(a) *Computation of amounts.* (1) Unless the Contractor requests a smaller amount, the Government will compute each progress payment as 80 percent of the Contractor's total costs incurred under this contract whether or not actually paid, plus financing payments to subcontractors (see paragraph (j) of this clause), less the sum of all previous progress payments made by the Government under this contract. The Contracting Officer will consider cost of money that would be allowable under Federal Acquisition Regulation (FAR) 31.205-10 as an incurred cost for progress payment purposes.
 
 (2) The amount of financing and other payments for supplies and services purchased directly for the contract are limited to the amounts that have been paid by cash, check, or other forms of payment, or that are determined due and will be paid to subcontractors -
 
@@ -190,8 +188,8 @@ The Government will make progress payments to the Contractor when requested as w
 
 (o) The amount of unliquidated progress payments shall not exceed \_\_\_\_ [*Contracting Officer specify dollar amount*].
 
-*Alternate III* (APR 2003). As prescribed in 32.502-4(d), add the following paragraph (n) to the basic clause. If *Alternate II* is also being used, redesignate the following paragraph as paragraph (p):
+*Alternate III* (JUN 2020). As prescribed in 32.502-4(d), add the following paragraph (n) to the basic clause. If *Alternate II* is also being used, redesignate the following paragraph as paragraph (p):
 
-(n) The provisions of this clause will not be applicable to individual orders at or below the simplified acquisition threshold.
+(n) The provisions of this clause will not be applicable to individual orders at or below the simplified acquisition threshold, as defined in FAR 2.101 on the date of individual order award.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30078, Aug. 12, 1987; 55 FR 40392, Oct. 3, 1990; 56 FR 29138, June 25, 1991; 65 FR 16284, Mar. 27, 2000; 66 FR 65361, Dec. 18, 2001; 67 FR 56126, Aug. 30, 2002; 67 FR 70521, Nov. 22, 2002; 68 FR 13208, Mar. 18, 2003; 72 FR 46363, Aug. 17, 2007; 74 FR 28431, June 15, 2009; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012]
+[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30078, Aug. 12, 1987; 55 FR 40392, Oct. 3, 1990; 56 FR 29138, June 25, 1991; 65 FR 16284, Mar. 27, 2000; 66 FR 65361, Dec. 18, 2001; 67 FR 56126, Aug. 30, 2002; 67 FR 70521, Nov. 22, 2002; 68 FR 13208, Mar. 18, 2003; 72 FR 46363, Aug. 17, 2007; 74 FR 28431, June 15, 2009; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 85 FR 27097, May 6, 2020]

@@ -1,7 +1,5 @@
 ##### 1.106 OMB approval under the Paperwork Reduction Act. #####
 
-Link to an amendment published at 85 FR 27087, May 6, 2020.Link to an amendment published at 85 FR 27099, May 6, 2020.
-
 The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from 10 or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by the OMB. The following OMB control numbers apply:
 
 |   FAR segment    |              OMB control No.              |
@@ -38,7 +36,6 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |       22.5       |                 9000-0175                 |
 |       22.8       |                 1250-0003                 |
 |      22.11       |                 9000-0066                 |
-|      22.12       |       1235-0007 and  <br/>1235-0025       |
 |      22.14       |                 1250-0005                 |
 |      22.16       |                 1245-0004                 |
 |      22.17       |                 9000-0188                 |
@@ -157,7 +154,6 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |     52.222-6     |                 1235-0023                 |
 |     52.222-8     |       1235-0008 and  <br/>1235-0018       |
 |    52.222-11     |                 9000-0014                 |
-|    52.222-17     |       1235-0007 and  <br/>1235-0025       |
 |    52.222-18     |                 9000-0155                 |
 |    52.222-21     |                 1250-0003                 |
 |    52.222-22     |                 1250-0003                 |
@@ -223,6 +219,8 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. chapter 35) imposes a requirement
 |    52.228-15     |                 9000-0045                 |
 |    52.228-16     |                 9000-0045                 |
 |     52.229-2     |                 9000-0059                 |
+|    52.229-11     |                 1545-2263                 |
+|    52.229-12     |                 1545-2263                 |
 |     52.230-6     |                 9000-0129                 |
 |     52.232-1     |                 9000-0070                 |
 |     52.232-2     |                 9000-0070                 |

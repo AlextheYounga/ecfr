@@ -1,7 +1,5 @@
 ##### § 984.56 Disposition of reserve walnuts. #####
 
-Link to an amendment published at 85 FR 27109, May 7, 2020.
-
 (a) *General.* The Board shall have power and authority to sell or dispose of any and all reserve walnuts withheld upon the best terms and at the highest returns obtainable consistent with the ultimate complete disposition of reserve, subject to all conditions of this section. The Board may dispose of reserve walnuts through handlers acting as agents of the Board under the terms and conditions specified by the Board.
 
 (b) *Export.* The Board may export or authorize the disposition in export to the destinations outside the United States, Puerto Rico, and the Canal Zone, the quantity of reserve walnuts permitted to be exported by the export percentage establishment pursuant to § 984.49. Reserve walnuts may be exported by any handler as an agent of the Board under the terms and conditions specified by the Board.
@@ -14,4 +12,4 @@ Link to an amendment published at 85 FR 27109, May 7, 2020.
 
 (f) *Rules and regulations.* The Board, with the approval of the Secretary, may prescribe such rules and regulations as are necessary to carry out the provisions of this section.
 
-[41 FR 31544, July 29, 1976]
+[41 FR 31544, July 29, 1976]Effective Date Note:At 85 FR 27109, May 7, 2020, § 984.56 was stayed indefinitely.

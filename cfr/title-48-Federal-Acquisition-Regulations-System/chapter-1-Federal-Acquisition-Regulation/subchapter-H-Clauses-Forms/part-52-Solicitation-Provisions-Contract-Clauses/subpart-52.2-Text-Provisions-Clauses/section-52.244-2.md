@@ -1,12 +1,10 @@
 ##### 52.244-2 Subcontracts. #####
 
-Link to an amendment published at 85 FR 27097, May 6, 2020.
-
 As prescribed in 44.204(a)(1), insert the following clause:
 
-Subcontracts (OCT 2010)
+Subcontracts (JUN 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Approved purchasing system* means a Contractor's purchasing system that has been reviewed and approved in accordance with Part 44 of the Federal Acquisition Regulation (FAR).
 
@@ -16,15 +14,15 @@ Subcontracts (OCT 2010)
 
 (b) When this clause is included in a fixed-price type contract, consent to subcontract is required only on unpriced contract actions (including unpriced modifications or unpriced delivery orders), and only if required in accordance with paragraph (c) or (d) of this clause.
 
-(c) If the Contractor does not have an approved purchasing system, consent to subcontract is required for any subcontract that -
+(c) If the Contractor does not have an approved purchasing system, consent to subcontract is required for any subcontract that—
 
 (1) Is of the cost-reimbursement, time-and-materials, or labor-hour type; or
 
-(2) Is fixed-price and exceeds -
+(2) Is fixed-price and exceeds—
 
-(i) For a contract awarded by the Department of Defense, the Coast Guard, or the National Aeronautics and Space Administration, the greater of the simplified acquisition threshold or 5 percent of the total estimated cost of the contract; or
+(i) For a contract awarded by the Department of Defense, the Coast Guard, or the National Aeronautics and Space Administration, the greater of the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, or 5 percent of the total estimated cost of the contract; or
 
-(ii) For a contract awarded by a civilian agency other than the Coast Guard and the National Aeronautics and Space Administration, either the simplified acquisition threshold or 5 percent of the total estimated cost of the contract.
+(ii) For a contract awarded by a civilian agency other than the Coast Guard and the National Aeronautics and Space Administration, either the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, or 5 percent of the total estimated cost of the contract.
 
 (d) If the Contractor has an approved purchasing system, the Contractor nevertheless shall obtain the Contracting Officer's written consent before placing the following subcontracts:
 
@@ -42,7 +40,7 @@ Subcontracts (OCT 2010)
 
 (vi) The subcontractor's Disclosure Statement or Certificate relating to Cost Accounting Standards when such data are required by other provisions of this contract.
 
-(vii) A negotiation memorandum reflecting -
+(vii) A negotiation memorandum reflecting—
 
 (A) The principal elements of the subcontract price negotiations;
 
@@ -60,7 +58,7 @@ Subcontracts (OCT 2010)
 
 (2) The Contractor is not required to notify the Contracting Officer in advance of entering into any subcontract for which consent is not required under paragraph (b), (c), or (d) of this clause.
 
-(f) Unless the consent or approval specifically provides otherwise, neither consent by the Contracting Officer to any subcontract nor approval of the Contractor's purchasing system shall constitute a determination -
+(f) Unless the consent or approval specifically provides otherwise, neither consent by the Contracting Officer to any subcontract nor approval of the Contractor's purchasing system shall constitute a determination—
 
 (1) Of the acceptability of any subcontract terms or conditions;
 
@@ -78,8 +76,8 @@ Subcontracts (OCT 2010)
 
 (End of clause)
 
-*Alternate I* (JUNE 2007). As prescribed in 44.204(a)(2), substitute the following paragraph (e)(2) for paragraph (e)(2) of the basic clause:
+*Alternate I* (JUN 2020). As prescribed in 44.204(a)(2), substitute the following paragraph (e)(2) for paragraph (e)(2) of the basic clause:
 
-(e)(2) If the Contractor has an approved purchasing system and consent is not required under paragraph (c) or (d) of this clause, the Contractor nevertheless shall notify the Contracting Officer reasonably in advance of entering into any (i) cost-plus-fixed-fee subcontract, or (ii) fixed-price subcontract that exceeds either the simplified acquisition threshold or 5 percent of the total estimated cost of this contract. The notification shall include the information required by paragraphs (e)(1)(i) through (e)(1)(iv) of this clause.
+(e)(2) If the Contractor has an approved purchasing system and consent is not required under paragraph (c) or (d) of this clause, the Contractor nevertheless shall notify the Contracting Officer reasonably in advance of entering into any (i) cost-plus-fixed-fee subcontract, or (ii) fixed-price subcontract that exceeds either the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, or 5 percent of the total estimated cost of this contract. The notification shall include the information required by paragraphs (e)(1)(i) through (iv) of this clause.
 
-[63 FR 34061, June 22, 1998, as amended at 70 FR 11762, Mar. 9, 2005; 71 FR 226, Jan. 3, 2006; 72 FR 27389, May 15, 2007; 75 FR 53152, Aug. 30, 2010]
+[63 FR 34061, June 22, 1998, as amended at 70 FR 11762, Mar. 9, 2005; 71 FR 226, Jan. 3, 2006; 72 FR 27389, May 15, 2007; 75 FR 53152, Aug. 30, 2010; 85 FR 27097, May 6, 2020]

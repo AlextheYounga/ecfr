@@ -1,16 +1,14 @@
-##### 52.228-15 Performance and Payment Bonds - Construction. #####
-
-Link to an amendment published at 85 FR 27096, May 6, 2020.
+##### 52.228-15 Performance and Payment Bonds—Construction. #####
 
 As prescribed in 28.102-3(a), insert a clause substantially as follows:
 
-Performance and Payment Bonds - Construction (OCT 2010)
+Performance and Payment Bonds—Construction (JUN 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Original contract price* means the award price of the contract; or, for requirements contracts, the price payable for the estimated total quantity; or, for indefinite-quantity contracts, the price payable for the specified minimum quantity. Original contract price does not include the price of any options, except those options exercised at the time of contract award.
 
-(b) *Amount of required bonds.* Unless the resulting contract price is $150,000 or less, the successful offeror shall furnish performance and payment bonds to the Contracting Officer as follows:
+(b) *Amount of required bonds.* Unless the resulting contract price is valued at or below the threshold specified in Federal Acquisition Regulation 28.102-1(a) on the date of award of this contract, the successful offeror shall furnish performance and payment bonds to the Contracting Officer as follows:
 
 (1) *Performance bonds (Standard Form 25).* The penal amount of performance bonds at the time of contract award shall be 100 percent of the original contract price.
 
@@ -26,4 +24,4 @@ Performance and Payment Bonds - Construction (OCT 2010)
 
 (e) *Notice of subcontractor waiver of protection (40 U.S.C. 3133(c)).* Any waiver of the right to sue on the payment bond is void unless it is in writing, signed by the person whose right is waived, and executed after such person has first furnished labor or material for use in the performance of the contract.
 
-(End of clause)[65 FR 46071, July 26, 2000, as amended at 70 FR 57455, Sept. 30, 2005; 71 FR 67779, Nov. 22, 2006; 75 FR 53135, Aug. 30, 2010]
+(End of clause)[65 FR 46071, July 26, 2000, as amended at 70 FR 57455, Sept. 30, 2005; 71 FR 67779, Nov. 22, 2006; 75 FR 53135, Aug. 30, 2010; 85 FR 27096, May 6, 2020]

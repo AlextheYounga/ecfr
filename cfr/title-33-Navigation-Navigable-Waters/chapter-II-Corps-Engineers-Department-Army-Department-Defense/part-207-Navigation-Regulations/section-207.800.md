@@ -86,7 +86,7 @@ Company A is the barge owner, and the barge transports corn from Minneapolis, MN
 
 (1) *Criminal penalties.* Every person or persons violating the provisions of this regulation shall, for each and every offenses, be liable to a fine of not more than $5,000, or imprisonment not exceeding two months, to be enforced in any district court in the United States within whose territorial jurisdiction such offense may have been committed.
 
-(2) *Civil penalties.* In addition, any person or entity that fails to provide timely, accurate, and complete statements or reports required to be submitted by the regulation in this section may also be assessed a civil penalty of up to $5,732 per violation under 33 U.S.C. 555, as amended.
+(2) In addition, any person or entity that fails to provide timely, accurate, and complete statements or reports required to be submitted by the regulation in this section may also be assessed a civil penalty of up to $5,834 per violation under 33 U.S.C. 555, as amended.
 
 (3) *Denial of passage.* In addition to these fines, penalties, and imprisonments, the lockmaster or canal operator can refuse to allow vessel passage.
 
@@ -122,4 +122,4 @@ Company A is the barge owner, and the barge transports corn from Minneapolis, MN
 
 (4) *Additional remedies.* Appropriate cases may also be referred to the local U.S. Attorney for prosecution, penalty collection, injunctive, and other relief by the Chief of the Waterborne Commerce Statistics Center.
 
-[56 FR 13765, Apr. 4, 1991, as amended at 84 FR 31497, July 2, 2019]
+[56 FR 13765, Apr. 4, 1991, as amended at 84 FR 31497, July 2, 2019; 85 FR 35005, June 8, 2020]

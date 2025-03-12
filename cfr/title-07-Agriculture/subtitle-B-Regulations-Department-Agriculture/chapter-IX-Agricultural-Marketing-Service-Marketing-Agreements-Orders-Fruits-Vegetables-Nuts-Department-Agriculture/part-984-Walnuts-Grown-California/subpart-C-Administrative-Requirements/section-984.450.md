@@ -1,7 +1,5 @@
 ##### § 984.450 Grade and size regulations. #####
 
-Link to an amendment published at 85 FR 27109, May 7, 2020.
-
 (a) *Minimum kernel content requirements for inshell walnuts for reserve disposition credit.* For purposes of §§ 984.54 and 984.56, no lot of inshell walnuts may be held, exported, or disposed of for use by governmental agencies or charitable institutions unless it meets the minimum requirements for merchantable inshell walnuts effective pursuant to § 984.50(a). The disposition of any lot of inshell walnuts pursuant to § 984.64 having at least a certified kernelweight of not less than 10 percent of the inshell weight of the lot may be credited against a handler's reserve obligation.
 
 (b) *Minimum kernel content requirements for shelled walnuts for reserve disposition credit.* For the purposes of §§ 984.54 and 984.56, no lot of shelled walnuts may be held, exported, or disposed of for use by government agencies or charitable institutions unless it meets the minimum requirements for merchantable shelled walnuts effective pursuant to § 984.50(b). The disposition of any lot of shelled walnuts pursuant to § 984.64 having at least a certified kernelweight of kernels six sixty-fourths of an inch or larger of not less than 10 percent of the total weight of the lot may be credited against a handler's reserve obligation: *Provided,* That such minimum kernel content requirements shall not apply to any lot of walnut meal certified by the designated inspection service as having been derived from chopping, slicing, or dicing merchantable shelled walnuts.
@@ -14,4 +12,4 @@ Link to an amendment published at 85 FR 27109, May 7, 2020.
 
 (3) *Failed lots.* If the end product fails to meet applicable U.S. Commercial grade requirements, the end product may be reconditioned, re-sampled, inspected again, and certified. However, the walnut meal accumulated during the manufacture of that end product shall be rejected and disposed of pursuant to the requirements of § 984.64.
 
-[41 FR 54476, Dec. 14, 1976, as amended at 75 FR 51929, Aug. 24, 2010]
+[41 FR 54476, Dec. 14, 1976, as amended at 75 FR 51929, Aug. 24, 2010]Effective Date Note:At 85 FR 27109, May 7, 2020, in § 984.450, paragraphs (a) and (b) were stayed indefinitely.

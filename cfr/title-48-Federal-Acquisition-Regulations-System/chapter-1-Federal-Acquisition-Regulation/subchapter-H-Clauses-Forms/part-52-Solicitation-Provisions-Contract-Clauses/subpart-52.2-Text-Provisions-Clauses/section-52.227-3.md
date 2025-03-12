@@ -1,7 +1,5 @@
 ##### 52.227-3 Patent Indemnity. #####
 
-Link to an amendment published at 85 FR 27096, May 6, 2020.
-
 As prescribed in 27.201-2(c)(1), insert the following clause:
 
 Patent Indemnity (APR 1984)
@@ -22,8 +20,8 @@ Patent Indemnity (APR 1984)
 
 List or identify the items to be included under this indemnity
 
-*Alternate III* (JUL 1995). As prescribed in 27.201-2(c)(3), add the following paragraph to the basic clause:
+*Alternate III* (JUN 2020). As prescribed in 27.201-2(c)(3), add the following paragraph to the basic clause:
 
-( ) As to subcontracts at any tier for communication service, this clause shall apply only to individual communication service authorizations over the simplified acquisition threshold issued under this contract and covering those communications services and facilities (1) that are or have been sold or offered for sale by the Contractor to the public, (2) that can be provided over commercially available equipment, or (3) that involve relatively minor modifications.
+( ) As to subcontracts at any tier for communication service, this clause shall apply only to individual communication service authorizations over the simplified acquisition threshold, as defined in Federal Acquisition Regulation 2.101 on the date of subcontract award, issued under this contract and covering those communications services and facilities (1) that are or have been sold or offered for sale by the Contractor to the public, (2) that can be provided over commercially available equipment, or (3) that involve relatively minor modifications.
 
-[49 FR 12987, Mar. 30, 1984, as amended at 56 FR 15156, Apr. 15, 1991; 60 FR 34761, July 3, 1995; 72 FR 63065, Nov. 7, 2007]
+[49 FR 12987, Mar. 30, 1984, as amended at 56 FR 15156, Apr. 15, 1991; 60 FR 34761, July 3, 1995; 72 FR 63065, Nov. 7, 2007; 85 FR 27096, May 6, 2020]

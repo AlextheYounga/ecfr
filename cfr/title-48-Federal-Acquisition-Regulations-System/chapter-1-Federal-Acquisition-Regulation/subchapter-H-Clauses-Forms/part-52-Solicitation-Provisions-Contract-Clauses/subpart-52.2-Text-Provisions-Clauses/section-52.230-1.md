@@ -1,10 +1,8 @@
 ##### 52.230-1 Cost Accounting Standards Notices and Certification. #####
 
-Link to an amendment published at 85 FR 27096, May 6, 2020.
+As prescribed in 30.201-3(a), insert the following provision:
 
-As prescribed in 30.201-3, insert the following provisions:
-
-Cost Accounting Standards Notices and Certification (OCT 2015)Note:
+Cost Accounting Standards Notices and Certification (JUN 2020)Note:
 
 This notice does not apply to small businesses or foreign governments. This notice is in three parts, identified by Roman numerals I through III.
 
@@ -12,9 +10,9 @@ Offerors shall examine each part and provide the requested information in order 
 
 If the offeror is an educational institution, Part II does not apply unless the contemplated contract will be subject to full or modified CAS coverage pursuant to 48 CFR 9903.201-2(c)(5) or 9903.201-2(c)(6), respectively.
 
-I. Disclosure Statement - Cost Accounting Practices and Certification
+I. Disclosure Statement—Cost Accounting Practices and Certification
 
-(a) Any contract in excess of $750,000 resulting from this solicitation will be subject to the requirements of the Cost Accounting Standards Board (48 CFR Chapter 99), except for those contracts which are exempt as specified in 48 CFR 9903.201-1.
+(a) Any contract in excess of the lower CAS threshold specified in Federal Acquisition Regulation (FAR) 30.201-4(b) resulting from this solicitation will be subject to the requirements of the Cost Accounting Standards Board (48 CFR chapter 99), except for those contracts which are exempt as specified in 48 CFR 9903.201-1.
 
 (b) Any offeror submitting a proposal which, if accepted, will result in a contract subject to the requirements of 48 CFR chapter 99 must, as a condition of contracting, submit a Disclosure Statement as required by 48 CFR 9903.202. When required, the Disclosure Statement must be submitted as a part of the offeror's proposal under this solicitation unless the offeror has already submitted a Disclosure Statement disclosing the practices used in connection with the pricing of this proposal. If an applicable Disclosure Statement has already been submitted, the offeror may satisfy the requirement for submission by providing the information requested in paragraph (c) of Part I of this provision.
 
@@ -24,7 +22,7 @@ CAUTION: In the absence of specific regulations or agreement, a practice disclos
 
 □ (1) *Certificate of Concurrent Submission of Disclosure Statement.* The offeror hereby certifies that, as a part of the offer, copies of the Disclosure Statement have been submitted as follows: (i) original and one copy to the cognizant Administrative Contracting Officer (ACO) or cognizant Federal agency official authorized to act in that capacity (Federal official), as applicable, and (ii) one copy to the cognizant Federal auditor.
 
-(Disclosure must be on Form No. CASB DS-1 or CASB DS-2, as applicable. Forms may be obtained from the cognizant ACO or Federal official and/or from the loose-leaf version of the Federal Acquisition Regulation.)
+(Disclosure must be on Form No. CASB DS-1 or CASB DS-2, as applicable. Forms may be obtained from the cognizant ACO or Federal official.)
 
 Date of Disclosure Statement:Name and Address of Cognizant ACO or Federal Official Where Filed:
 
@@ -42,7 +40,7 @@ The offeror further certifies that the practices used in estimating costs in pri
 
 CAUTION: Offerors currently required to disclose because they were awarded a CAS-covered prime contract or subcontract of $50 million or more in the current cost accounting period may not claim this exemption (4). Further, the exemption applies only in connection with proposals submitted before expiration of the 90-day period following the cost accounting period in which the monetary exemption was exceeded.
 
-II. Cost Accounting Standards - Eligibility for Modified Contract Coverage
+II. Cost Accounting Standards—Eligibility for Modified Contract Coverage
 
 If the offeror is eligible to use the modified provisions of 48 CFR 9903.201-2(b) and elects to do so, the offeror shall indicate by checking the box below. Checking the box below shall mean that the resultant contract is subject to the Disclosure and Consistency of Cost Accounting Practices clause in lieu of the Cost Accounting Standards clause.
 
@@ -66,4 +64,4 @@ The offeror shall indicate below whether award of the contemplated contract woul
 
 (ii) The Disclosure Statement will be submitted within the 6-month period ending \_\_\_\_\_\_\_ months after receipt of this award.
 
-Name and Address of Cognizant ACO or Federal Official Where Disclosure Statement is to be Filed:[57 FR 39591, Aug. 31, 1992; 57 FR 43409, 43495, Sept. 21, 1992, as amended at 59 FR 67043, Dec. 28, 1994; 61 FR 18918, Apr. 29, 1996; 63 FR 9061, Feb. 23, 1998; 65 FR 36030, June 6, 2000; 73 FR 54012, Sept. 17, 2008; 77 FR 27551, May 10, 2012; 80 FR 38300, July 2, 2015]
+Name and Address of Cognizant ACO or Federal Official Where Disclosure Statement is to be Filed:[57 FR 39591, Aug. 31, 1992; 57 FR 43409, 43495, Sept. 21, 1992, as amended at 59 FR 67043, Dec. 28, 1994; 61 FR 18918, Apr. 29, 1996; 63 FR 9061, Feb. 23, 1998; 65 FR 36030, June 6, 2000; 73 FR 54012, Sept. 17, 2008; 77 FR 27551, May 10, 2012; 80 FR 38300, July 2, 2015; 85 FR 27096, May 6, 2020]

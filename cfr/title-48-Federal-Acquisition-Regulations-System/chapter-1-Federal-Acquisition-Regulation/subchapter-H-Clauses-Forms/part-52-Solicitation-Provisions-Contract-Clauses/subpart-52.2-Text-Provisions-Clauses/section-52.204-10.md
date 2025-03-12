@@ -1,10 +1,8 @@
 ##### 52.204-10 Reporting Executive Compensation and First-Tier Subcontract Awards. #####
 
-Link to an amendment published at 85 FR 27092, May 6, 2020.
-
 As prescribed in 4.1403(a), insert the following clause:
 
-Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
+Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020)
 
 (a) *Definitions.* As used in this clause:
 
@@ -32,9 +30,9 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (c) Nothing in this clause requires the disclosure of classified information.
 
-(d)(1) *Executive compensation of the prime contractor.* As a part of its annual registration requirement in the System for Award Management (SAM) (FAR provision 52.204-7), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for its preceding completed fiscal year, if -
+(d)(1) *Executive compensation of the prime contractor.* As a part of its annual registration requirement in the System for Award Management (SAM) (Federal Acquisition Regulation (FAR) provision 52.204-7), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for its preceding completed fiscal year, if—
 
-(i) In the Contractor's preceding fiscal year, the Contractor received -
+(i) In the Contractor's preceding fiscal year, the Contractor received—
 
 (A) 80 percent or more of its annual gross revenues from Federal contracts (and subcontracts), loans, grants (and subgrants), cooperative agreements, and other forms of Federal financial assistance; and
 
@@ -42,7 +40,7 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (ii) The public does not have access to information about the compensation of the executives through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. (To determine if the public has access to the compensation information, see the U.S. Security and Exchange Commission total compensation filings at *http://www.sec.gov/answers/execomp.htm.*).
 
-(2) *First-tier subcontract information.* Unless otherwise directed by the contracting officer, or as provided in paragraph (g) of this clause, by the end of the month following the month of award of a first-tier subcontract with a value of $30,000 or more, the Contractor shall report the following information at *http://www.fsrs.gov* for that first-tier subcontract. (The Contractor shall follow the instructions at *http://www.fsrs.gov* to report the data.)
+(2) *First-tier subcontract information.* Unless otherwise directed by the Contracting Officer, or as provided in paragraph (g) of this clause, by the end of the month following the month of award of a first-tier subcontract valued at or above the threshold specified in FAR 4.1403(a) on the date of subcontract award, the Contractor shall report the following information at *http://www.fsrs.gov* for that first-tier subcontract. (The Contractor shall follow the instructions at *http://www.fsrs.gov* to report the data.)
 
 (i) Unique identifier entity identifier for the subcontractor receiving the award and for the subcontractor's parent company, if the subcontractor has a parent company.
 
@@ -72,9 +70,9 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (xiv) The applicable North American Industry Classification System code (NAICS).
 
-(3) *Executive compensation of the first-tier subcontractor.* Unless otherwise directed by the Contracting Officer, by the end of the month following the month of award of a first-tier subcontract with a value of $30,000 or more, and annually thereafter (calculated from the prime contract award date), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for that first-tier subcontractor for the first-tier subcontractor's preceding completed fiscal year at *http://www.fsrs.gov,* if -
+(3) *Executive compensation of the first-tier subcontractor.* Unless otherwise directed by the Contracting Officer, by the end of the month following the month of award of a first-tier subcontract valued at or above the threshold specified in FAR 4.1403(a) on the date of subcontract award, and annually thereafter (calculated from the prime contract award date), the Contractor shall report the names and total compensation of each of the five most highly compensated executives for that first-tier subcontractor for the first-tier subcontractor's preceding completed fiscal year at *http://www.fsrs.gov,* if—
 
-(i) In the subcontractor's preceding fiscal year, the subcontractor received -
+(i) In the subcontractor's preceding fiscal year, the subcontractor received—
 
 (A) 80 percent or more of its annual gross revenues from Federal contracts (and subcontracts), loans, grants (and subgrants), cooperative agreements, and other forms of Federal financial assistance; and
 
@@ -82,7 +80,7 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (ii) The public does not have access to information about the compensation of the executives through periodic reports filed under section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a), 78o(d)) or section 6104 of the Internal Revenue Code of 1986. (To determine if the public has access to the compensation information, see the U.S. Security and Exchange Commission total compensation filings at *http://www.sec.gov/answers/execomp.htm.*)
 
-(e) The Contractor shall not split or break down first-tier subcontract awards to a value less than $30,000 to avoid the reporting requirements in paragraph (d) of this clause.
+(e) The Contractor shall not split or break down first-tier subcontract awards to a value below the threshold specified in FAR 4.1403(a), on the date of subcontract award, to avoid the reporting requirements in paragraph (d) of this clause.
 
 (f) The Contractor is required to report information on a first-tier subcontract covered by paragraph (d) when the subcontract is awarded. Continued reporting on the same subcontract is not required unless one of the reported data elements changes during the performance of the subcontract. The Contractor is not required to make further reports after the first-tier subcontract expires.
 
@@ -92,4 +90,4 @@ Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018)
 
 (h) The FSRS database at *http://www.fsrs.gov* will be prepopulated with some information from SAM and the FPDS database. If FPDS information is incorrect, the contractor should notify the contracting officer. If the SAM information is incorrect, the contractor is responsible for correcting this information.
 
-(End of clause)[77 FR 44058, July 26, 2012, as amended at 78 FR 37681, 37698, June 21, 2013; 80 FR 38299, July 2, 2015; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018]
+(End of clause)[77 FR 44058, July 26, 2012, as amended at 78 FR 37681, 37698, June 21, 2013; 80 FR 38299, July 2, 2015; 81 FR 67739, Sept. 30, 2016; 83 FR 48698, Sept. 26, 2018; 85 FR 27092, May 6, 2020]

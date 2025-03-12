@@ -1,10 +1,8 @@
 ##### 52.203-14 Display of Hotline Poster(s). #####
 
-Link to an amendment published at 85 FR 27091, May 6, 2020.
-
 As prescribed in 3.1004(b), insert the following clause:
 
-Display of Hotline Poster(s) (OCT 2015)
+Display of Hotline Poster(s) (JUN 2020)
 
 (a) *Definition.*
 
@@ -34,10 +32,10 @@ Display of Hotline Poster(s) (OCT 2015)
 
 (c) If the Contractor has implemented a business ethics and conduct awareness program, including a reporting mechanism, such as a hotline poster, then the Contractor need not display any agency fraud hotline posters as required in paragraph (b) of this clause, other than any required DHS posters.
 
-(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed $5.5 million, except when the subcontract -
+(d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Federal Acquisition Regulation 3.1004(b)(1) on the date of subcontract award, except when the subcontract -
 
 (1) Is for the acquisition of a commercial item; or
 
 (2) Is performed entirely outside the United States.
 
-(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 80 FR 38299, July 2, 2015]
+(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 80 FR 38299, July 2, 2015; 85 FR 27091, May 6, 2020]

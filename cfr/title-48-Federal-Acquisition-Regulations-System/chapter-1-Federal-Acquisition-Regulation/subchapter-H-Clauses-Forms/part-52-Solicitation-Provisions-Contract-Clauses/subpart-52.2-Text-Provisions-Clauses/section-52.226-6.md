@@ -1,16 +1,14 @@
-##### 52.226-6 Promoting excess food donation to nonprofit organizations. #####
-
-Link to an amendment published at 85 FR 27096, May 6, 2020.
+##### 52.226-6 Promoting Excess Food Donation to Nonprofit Organizations. #####
 
 As prescribed in 26.404, insert the following clause:
 
-Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014)
+Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Apparently wholesome food* means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
-*Excess food* means food that -
+*Excess food* means food that—
 
 (1) Is not required to meet the needs of the executive agencies; and
 
@@ -18,7 +16,7 @@ Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014)
 
 *Food-insecure* means inconsistent access to sufficient, safe, and nutritious food.
 
-*Nonprofit organization* means any organization that is -
+*Nonprofit organization* means any organization that is—
 
 (1) Described in section 501(c) of the Internal Revenue Code of 1986; and
 
@@ -32,6 +30,6 @@ Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014)
 
 (d) *Liability.* The Government and the Contractor, including any subcontractors, shall be exempt from civil and criminal liability to the extent provided under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791). Nothing in this clause shall be construed to supersede State or local health regulations (subsection (f) of 42 U.S.C. 1791).
 
-(e) *Flowdown.* The Contractor shall insert this clause in all contracts, task orders, delivery orders, purchase orders, and other similar instruments greater than $25,000 with its subcontractors or suppliers, at any tier, who will perform, under this contract, the provision, service, or sale of food in the United States.
+(e) *Subcontracts.* The Contractor shall insert this clause in all contracts, task orders, delivery orders, purchase orders, and other similar instruments that exceed the threshold specified in Federal Acquisition Regulation 26.404 on the date of subcontract award with its subcontractors or suppliers, at any tier, who will perform, under this contract, the provision, service, or sale of food in the United States.
 
-(End of clause)[74 FR 11832, Mar. 19, 2009, as amended at 79 FR 24223, Apr. 29, 2014]
+(End of clause)[74 FR 11832, Mar. 19, 2009, as amended at 79 FR 24223, Apr. 29, 2014; 85 FR 27096, May 6, 2020]

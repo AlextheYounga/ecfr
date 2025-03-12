@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 85 FR 27088, May 6, 2020.Link to an amendment published at 85 FR 27092, May 6, 2020.Link to a correction published at 85 FR 29666, May 18, 2020.Link to an amendment published at 85 FR 27100, May 6, 2020.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (MAR 2020)
+Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items (JUN 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -22,13 +20,13 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
-\_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (SEP 2006), with *Alternate I* (OCT 1995) (41 U.S.C. 4704 and 10 U.S.C. 2402).
+\_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (JUN 2020), with *Alternate I* (OCT 1995) (41 U.S.C. 4704 and 10 U.S.C. 2402).
 
-\_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (OCT 2015) (41 U.S.C. 3509).
+\_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (JUN 2020) (41 U.S.C. 3509).
 
 \_\_ (3) 52.203-15, Whistleblower Protections under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5). (Applies to contracts funded by the American Recovery and Reinvestment Act of 2009.)
 
-\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note).
+\_\_ (4) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note).
 
 \_\_ (5) [Reserved]
 
@@ -36,7 +34,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (7) 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts (OCT 2016) (Pub. L. 111-117, section 743 of Div. C).
 
-\_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (Oct 2015) (31 U.S.C. 6101 note).
+\_\_ (8) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment. (JUN 2020) (31 U.S.C. 6101 note).
 
 \_\_ (9) 52.209-9, Updates of Publicly Available Information Regarding Responsibility Matters (OCT 2018) (41 U.S.C. 2313).
 
@@ -62,15 +60,15 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (16) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (AUG 2018) (15 U.S.C. 637(d)(4)).
+\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JUN 2020) (15 U.S.C. 637(d)(4)).
 
 \_\_ (ii) Alternate I (NOV 2016) of 52.219-9.
 
 \_\_ (iii) Alternate II (NOV 2016) of 52.219-9.
 
-\_\_ (iv) Alternate III (NOV 2016) of 52.219-9.
+\_\_ (iv) Alternate III (JUN 2020) of 52.219-9.
 
-\_\_ (v) Alternate IV (AUG 2018) of 52.219-9.
+\_\_ (v) Alternate IV (JUN 2020) of 52.219-9.
 
 \_\_ (18) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
 
@@ -102,15 +100,15 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (Feb 1999) of 52.222-26.
 
-\_\_ (31)(i) 52.222-35, Equal Opportunity for Veterans (OCT 2015)(38 U.S.C. 4212).
+\_\_ (31)(i) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
 
 \_\_ (ii) Alternate I (July 2014) of 52.222-35.
 
-\_\_ (32)(i) 52.222-36, Equal Opportunity for Workers with Disabilities (JUL 2014) (29 U.S.C. 793).
+\_\_ (32)(i) 52.222-36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
 
 \_\_ (ii) Alternate I (July 2014) of 52.222-36.
 
-\_\_ (33) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
+\_\_ (33) 52.222-37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212).
 
 \_\_ (34) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496).
 
@@ -142,7 +140,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (Jun 2014) of 52.223-16.
 
-\_\_ (44) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (AUG 2011)
+\_\_ (44) 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving (JUN 2020) (E.O. 13513).
 
 \_\_ (45) 52.223-20, Aerosols (JUN 2016) (E.O. 13693).
 
@@ -172,21 +170,23 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_ (54) 52.226-5, Restrictions on Subcontracting Outside Disaster or Emergency Area (NOV 2007) (42 U.S.C. 5150).
 
-\_\_ (55) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
+\_\_ (55) 52.229-12, Tax on Certain Foreign Procurements (JUN 2020).
 
-\_\_ (56) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
+\_\_ (56) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
 
-\_\_ (57) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (31 U.S.C. 3332).
+\_\_ (57) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
-\_\_ (58) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
+\_\_ (58) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (31 U.S.C. 3332).
 
-\_\_ (59) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
+\_\_ (59) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (31 U.S.C. 3332).
 
-\_\_ (60) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
+\_\_ (60) 52.232-36, Payment by Third Party (MAY 2014) (31 U.S.C. 3332).
 
-\_\_ (61) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(13)).
+\_\_ (61) 52.239-1, Privacy or Security Safeguards (AUG 1996) (5 U.S.C. 552a).
 
-\_\_ (62)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
+\_\_ (62) 52.242-5, Payments to Small Business Subcontractors (JAN 2017)(15 U.S.C. 637(d)(13)).
+
+\_\_ (63)(i) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (Feb 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631).
 
 \_\_ (ii) Alternate I (Apr 2003) of 52.247-64.
 
@@ -194,27 +194,25 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (c) The Contractor shall comply with the FAR clauses in this paragraph (c), applicable to commercial services, that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial items: [Contracting Officer check as appropriate.]
 
-\_\_ (1) 52.222-17, Nondisplacement of Qualified Workers (May 2014) (E.O. 13495).
+\_\_ (1) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67).
 
-\_\_ (2) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67).
+\_\_ (2) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_ (3) 52.222-42, Statement of Equivalent Rates for Federal Hires (MAY 2014) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+\_\_ (3) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts) (AUG 2018) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
 
-\_\_ (4) 52.222-43, Fair Labor Standards Act and Service Contract Labor Standards-Price Adjustment (Multiple Year and Option Contracts) (AUG 2018) (29 U.S.C. 206 and 41 U.S.C. chapter 67).
+\_\_ (4) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
 
-\_\_ (5) 52.222-44, Fair Labor Standards Act and Service Contract Labor Standards - Price Adjustment (MAY 2014) (29 U.S.C 206 and 41 U.S.C. chapter 67).
+\_\_ (5) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (6) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (6) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-\_\_ (7) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+\_\_ (7) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
 
-\_\_ (8) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+\_\_ (8) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
-\_\_ (9) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+\_\_ (9) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792).
 
-\_\_ (10) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792).
-
-(d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, and does not contain the clause at 52.215-2, Audit and Records - Negotiation.
+(d) *Comptroller General Examination of Record.* The Contractor shall comply with the provisions of this paragraph (d) if this contract was awarded using other than sealed bid, is in excess of the simplified acquisition threshold, as defined in FAR 2.101, on the date of award of this contract, and does not contain the clause at 52.215-2, Audit and Records - Negotiation.
 
 (1) The Comptroller General of the United States, or an authorized representative of the Comptroller General, shall have access to and right to examine any of the Contractor's directly pertinent records involving transactions related to this contract.
 
@@ -224,7 +222,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (e)(1) Notwithstanding the requirements of the clauses in paragraphs (a), (b), (c), and (d) of this clause, the Contractor is not required to flow down any FAR clause, other than those in this paragraph (e)(1) of this paragraph in a subcontract for commercial items. Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
 
-(i) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
+(i) 52.203-13, Contractor Code of Business Ethics and Conduct (JUN 2020) (41 U.S.C. 3509).
 
 (ii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
@@ -232,47 +230,45 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (iv) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(v) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(v) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
-(vi) 52.222-17, Nondisplacement of Qualified Workers (MAY 2014) (E.O. 13495). Flow down required in accordance with paragraph (l) of FAR clause 52.222-17.
+(vi) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
-(vii) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
+(vii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(viii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
+(viii) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
 
-(ix) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
+(ix) 52.222-36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
 
-(x) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+(x) 52.222-37, Employment Reports on Veterans (JUN 2020) (38 U.S.C. 4212).
 
-(xi) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
+(xi) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(xii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
+(xii) 52.222-41, Service Contract Labor Standards (AUG 2018)(41 U.S.C. chapter 67).
 
-(xiii) 52.222-41, Service Contract Labor Standards (AUG 2018)(41 U.S.C. chapter 67).
-
-(xiv) \_\_ (A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
+(xiii) \_\_ (A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
 
 \_\_ (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(xv) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xiv) 52.222-51, Exemption from Application of the Service Contract Labor Standards to Contracts for Maintenance, Calibration, or Repair of Certain Equipment - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xvi) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
+(xv) 52.222-53, Exemption from Application of the Service Contract Labor Standards to Contracts for Certain Services - Requirements (MAY 2014) (41 U.S.C. chapter 67).
 
-(xvii) 52.222-54, Employment Eligibility Verification (Oct 2015) (E. O. 12989).
+(xvi) 52.222-54, Employment Eligibility Verification (Oct 2015) (E. O. 12989).
 
-(xviii) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
+(xvii) 52.222-55, Minimum Wages Under Executive Order 13658 (DEC 2015).
 
-(xix) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
+(xviii) 52.222-62 Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706).
 
-(xx)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
+(xix)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a).
 
 (B) Alternate I (JAN 2017) of 52.224-3.
 
-(xxi) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xx) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-(xxii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+(xxi) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
-(xxiii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xxii) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor May include in its subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
@@ -280,7 +276,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (AUG 2019). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (JUN 2020). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -294,7 +290,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (ii) *Those clauses listed in this paragraph (e)(1).* Unless otherwise indicated below, the extent of the flow down shall be as required by the clause -
 
-(A) 52.203-13, Contractor Code of Business Ethics and Conduct (Oct 2015) (41 U.S.C. 3509).
+(A) 52.203-13, Contractor Code of Business Ethics and Conduct (JUN 2020) (41 U.S.C. 3509).
 
 (B) 52.203 - 15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5).
 
@@ -302,15 +298,15 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (D) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(E) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(E) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), in all subcontracts that offer further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
 (F) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
 (G) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(H) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212).
+(H) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212).
 
-(I) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+(I) 52.222-36, Equal Opportunity for Workers with Disabilities (JUN 2020) (29 U.S.C. 793).
 
 (J) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496). Flow down required in accordance with paragraph (f) of FAR clause 52.222-40.
 
@@ -336,7 +332,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 (S) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-(T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (MAY 2014) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
+(T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
 (U) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. Appx. 1241(b) and 10 U.S.C. 2631). Flow down required in accordance with paragraph (d) of FAR clause 52.247-64.
 

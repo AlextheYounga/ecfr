@@ -2,7 +2,7 @@
 
 As prescribed in 225.1101(4), use the following clause:
 
-Duty-Free Entry (MAR 2020)
+Duty-Free Entry (APR 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -148,4 +148,4 @@ Duty-Free Entry (MAR 2020)
 
 (iii) The information required by paragraphs (h)(1), (2), and (3) of this clause.
 
-(End of clause)[68 FR 15635, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 35547, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58542, Oct. 4, 2006; 74 FR 68384, Dec. 24, 2009; 77 FR 35882, June 15, 2012; 78 FR 65222, Oct. 31, 2013; 79 FR 65820, Nov. 5, 2014; 81 FR 28732, May 10, 2016; 85 FR 19681, Apr. 8, 2020]
+(End of clause)[68 FR 15635, Mar. 31, 2003, as amended at 69 FR 1928, Jan. 13, 2004; 70 FR 2363, Jan. 13, 2005; 70 FR 35547, June 21, 2005; 71 FR 34835, June 16, 2006; 71 FR 58542, Oct. 4, 2006; 74 FR 68384, Dec. 24, 2009; 77 FR 35882, June 15, 2012; 78 FR 65222, Oct. 31, 2013; 79 FR 65820, Nov. 5, 2014; 81 FR 28732, May 10, 2016; 85 FR 19681, Apr. 8, 2020; 85 FR 34536, June 5, 2020]

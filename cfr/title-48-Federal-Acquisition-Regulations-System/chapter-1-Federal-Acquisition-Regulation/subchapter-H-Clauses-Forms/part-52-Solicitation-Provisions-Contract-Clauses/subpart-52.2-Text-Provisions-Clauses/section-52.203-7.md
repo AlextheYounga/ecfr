@@ -1,10 +1,8 @@
 ##### 52.203-7 Anti-Kickback Procedures. #####
 
-Link to an amendment published at 85 FR 27091, May 6, 2020.
-
 As prescribed in 3.502-3, insert the following clause:
 
-Anti-Kickback Procedures (MAY 2014)
+Anti-Kickback Procedures (JUN 2020)
 
 (a) *Definitions.*
 
@@ -24,7 +22,7 @@ Anti-Kickback Procedures (MAY 2014)
 
 *Subcontractor employee,* as used in this clause, means any officer, partner, employee, or agent of a subcontractor.
 
-(b) 41 U.S.C. chapter 87, Kickbacks, prohibits any person from -
+(b) 41 U.S.C. chapter 87, Kickbacks, prohibits any person from—
 
 (1) Providing or attempting to provide or offering to provide any kickback;
 
@@ -40,6 +38,6 @@ Anti-Kickback Procedures (MAY 2014)
 
 (4) The Contracting Officer may (i) offset the amount of the kickback against any monies owed by the United States under the prime contract and/or (ii) direct that the Prime Contractor withhold, from sums owed a subcontractor under the prime contract, the amount of any kickback. The Contracting Officer may order the monies withheld under subdivision (c)(4)(ii) of this clause be paid over to the Government unless the Government has already offset those monies under subdivision (c)(4)(i) of this clause. In either case, the Prime Contractor shall notify the Contracting Officer when the monies are withheld.
 
-(5) The Contractor agrees to incorporate the substance of this clause, including this subparagraph (c)(5) but excepting subparagraph (c)(1), in all subcontracts under under this contract which exceed $150,000.
+(5) The Contractor agrees to incorporate the substance of this clause, including this paragraph (c)(5) but excepting paragraph (c)(1) of this clause, in all subcontracts under this contract that exceed the threshold specified in Federal Acquisition Regulation 3.502-2(i) on the date of subcontract award.
 
-[52 FR 6122, Feb. 27, 1987, as amended at 53 FR 34228, Sept. 2, 1988; 53 FR 36028, Sept. 16, 1988; 60 FR 34761, July 3, 1995; 75 FR 53134, Aug. 30, 2010; 79 FR 24214, Apr. 29, 2014]
+(End of clause)[52 FR 6122, Feb. 27, 1987, as amended at 53 FR 34228, Sept. 2, 1988; 53 FR 36028, Sept. 16, 1988; 60 FR 34761, July 3, 1995; 75 FR 53134, Aug. 30, 2010; 79 FR 24214, Apr. 29, 2014; 85 FR 27091, May 6, 2020]

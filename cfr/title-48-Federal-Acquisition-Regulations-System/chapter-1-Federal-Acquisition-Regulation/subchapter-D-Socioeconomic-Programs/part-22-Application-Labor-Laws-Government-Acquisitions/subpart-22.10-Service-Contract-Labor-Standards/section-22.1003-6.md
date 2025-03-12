@@ -1,8 +1,6 @@
 ##### 22.1003-6 Repair distinguished from remanufacturing of equipment. #####
 
-Link to an amendment published at 85 FR 27091, May 6, 2020.
-
-(a) Contracts principally for remanufacturing of equipment which is so extensive as to be equivalent to manufacturing are subject to 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000, rather than to the Service Contract Labor Standards statute. Remanufacturing shall be deemed to be manufacturing when the criteria in either paragraphs (a)(1) or (a)(2) of this subsection are met.
+(a) Contracts principally for remanufacturing of equipment which is so extensive as to be equivalent to manufacturing are subject to 41 U.S.C. chapter 65 rather than to the Service Contract Labor Standards statute. Remanufacturing shall be deemed to be manufacturing when the criteria in either paragraphs (a)(1) or (2) of this section are met.
 
 (1) Major overhaul of an item, piece of equipment, or materiel which is degraded or inoperable, and under which all of the following conditions exist:
 
@@ -44,4 +42,4 @@ Link to an amendment published at 85 FR 27091, May 6, 2020.
 
 (5) Reupholstering, reconditioning, repair, and refinishing of furniture.
 
-[48 FR 42258, Sept. 19, 1983, as amended at 72 FR 63080, Nov. 7, 2007; 74 FR 2729, Jan. 15, 2009; 79 FR 24206, Apr. 29, 2014]
+[48 FR 42258, Sept. 19, 1983, as amended at 72 FR 63080, Nov. 7, 2007; 74 FR 2729, Jan. 15, 2009; 79 FR 24206, Apr. 29, 2014; 85 FR 27091, May 6, 2020]

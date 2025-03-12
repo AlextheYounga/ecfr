@@ -30,7 +30,7 @@
 
 (2) This paragraph (c) shall apply only to components and spare parts that are acquired by DoD through a prime contract or a modification to a prime contract, or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value.
 
-(d) *Relevant information.* This section implements 10 U.S.C. 2379.
+(d) *Relevant information.* See 212.209(a) for requirements of 10 U.S.C. 2377 with regard to market research.
 
 (1) To the extent necessary to make a determination of price reasonableness, the contracting officer shall require the offeror to submit prices paid for the same or similar commercial items under comparable terms and conditions by both Government and commercial customers.
 
@@ -48,4 +48,6 @@
 
 (4) An offeror shall not be required to submit information described in paragraph (d)(3) of this section with regard to a commercially available off-the-shelf item. An offeror may be required to submit such information with regard to any other item that was developed exclusively at private expense only after the head of the contracting activity determines in writing that the information submitted pursuant to paragraphs (d)(1) and (2) of this section is not sufficient to determine the reasonableness of price.
 
-[74 FR 34264, July 15, 2009, as amended at 83 FR 4445, Jan. 31, 2018]
+(5) An offeror may submit information or analysis relating to the value of a commercial item to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (d)(1) and (2) of this section. For additional guidance see PGI 234.7002(d)(5).
+
+[74 FR 34264, July 15, 2009, as amended at 83 FR 4445, Jan. 31, 2018; 85 FR 34532, June 5, 2020]

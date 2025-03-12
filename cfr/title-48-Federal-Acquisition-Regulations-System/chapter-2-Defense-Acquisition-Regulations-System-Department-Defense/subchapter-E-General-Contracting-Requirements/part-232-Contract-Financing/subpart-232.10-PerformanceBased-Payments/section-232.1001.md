@@ -4,4 +4,4 @@
 
 (d) The contracting officer shall use the following standard payment terms for performance-based payments: The contractor entitlement date, if any, specified in the contract, or 14 days after receipt by the designated billing office of a proper request for payment, whichever is later.
 
-[63 FR 11537, Mar. 9, 1998, as amended at 79 FR 17936, Mar. 31, 2014' 85 FR 19688, Apr. 8, 2020]
+[63 FR 11537, Mar. 9, 1998, as amended at 79 FR 17936, Mar. 31, 2014; 85 FR 19688, Apr. 8, 2020]

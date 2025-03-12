@@ -1,8 +1,6 @@
 ##### 15.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
 
-Link to an amendment published at 85 FR 27090, May 6, 2020.
-
-(a)(1) The contracting officer shall obtain certified cost or pricing data only if the contracting officer concludes that none of the exceptions in 15.403-1(b) applies. However, if the contracting officer has reason to believe exceptional circumstances exist and has sufficient data available to determine a fair and reasonable price, then the contracting officer should consider requesting a waiver under the exception at 15.403-1(b)(4). The threshold for obtaining certified cost or pricing data is $750,000. Unless an exception applies, certified cost or pricing data are required before accomplishing any of the following actions expected to exceed the current threshold or, in the case of existing contracts, the threshold specified in the contract:
+(a)(1) The contracting officer shall obtain certified cost or pricing data only if the contracting officer concludes that none of the exceptions in 15.403-1(b) applies. However, if the contracting officer has reason to believe exceptional circumstances exist and has sufficient data available to determine a fair and reasonable price, then the contracting officer should consider requesting a waiver under the exception at 15.403-1(b)(4). The threshold for obtaining certified cost or pricing data is $750,000. When a clause refers to this threshold, and if the threshold is adjusted for inflation pursuant to 1.109(a), then pursuant to 1.109(d) the changed threshold applies throughout the remaining term of the contract, unless there is a subsequent threshold adjustment. Unless an exception applies, certified cost or pricing data are required before accomplishing any of the following actions expected to exceed the current threshold or, in the case of existing contracts, the threshold specified in the contract:
 
 (i) The award of any negotiated contract (except for undefinitized actions such as letter contracts).
 
@@ -26,4 +24,4 @@ Link to an amendment published at 85 FR 27090, May 6, 2020.
 
 (d) The requirements of this subsection also apply to contracts entered into by an agency on behalf of a foreign government.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 65 FR 60553, Oct. 11, 2000; 66 FR 2129, Jan. 10, 2001; 71 FR 57367, Sept. 28, 2006; 75 FR 53133, 53144, Aug. 30, 2010; 80 FR 38297, July 2, 2015]
+[62 FR 51230, Sept. 30, 1997, as amended at 65 FR 60553, Oct. 11, 2000; 66 FR 2129, Jan. 10, 2001; 71 FR 57367, Sept. 28, 2006; 75 FR 53133, 53144, Aug. 30, 2010; 80 FR 38297, July 2, 2015; 85 FR 27090, May 6, 2020]

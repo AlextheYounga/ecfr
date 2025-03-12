@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 85 FR 27088, May 6, 2020.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -950,23 +948,21 @@ Link to an amendment published at 85 FR 27088, May 6, 2020.
 
 (3) For use in subpart 22.10, see the definition at 22.1001.
 
-(4) For use in subpart 22.12, see the definition at 22.1201.
+(4) For use in subpart 22.13, see the definition at 22.1301.
 
-(5) For use in subpart 22.13, see the definition at 22.1301.
+(5) For use in subpart 22.16, *see* the definition at 22.1601.
 
-(6) For use in subpart 22.16, *see* the definition at 22.1601.
+(6) For use in subpart 22.17, see the definition at 22.1702.
 
-(7) For use in subpart 22.17, see the definition at 22.1702.
+(7) For use in subpart 22.18, see the definition at 22.1801.
 
-(8) For use in subpart 22.18, see the definition at 22.1801.
+(8) For use in part 23, see definition at 23.001.
 
-(9) For use in part 23, see definition at 23.001.
+(9) For use in part 25, see the definition at 25.003.
 
-(10) For use in part 25, see the definition at 25.003.
+(10) For use in Part 27, see the definition at 27.001.
 
-(11) For use in Part 27, see the definition at 27.001.
-
-(12) For use in subpart 47.4, see the definition at 47.401.
+(11) For use in subpart 47.4, see the definition at 47.401.
 
 *Unsolicited proposal* means a written proposal for a new or innovative idea that is submitted to an agency on the initiative of the offeror for the purpose of obtaining a contract with the Government, and that is not in response to a request for proposals, Broad Agency Announcement, Small Business Innovation Research topic, Small Business Technology Transfer Research topic, Program Research and Development Announcement, or any other Government-initiated solicitation or program.
 

@@ -1,10 +1,8 @@
 ##### 52.246-26 Reporting Nonconforming Items. #####
 
-Link to an amendment published at 85 FR 27097, May 6, 2020.
-
 As prescribed in 46.317, insert the following clause:
 
-Reporting Nonconforming Items (DEC 2019)
+Reporting Nonconforming Items (JUNE 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -62,7 +60,7 @@ Reporting Nonconforming Items (DEC 2019)
 
 (ii) Items that the Contractor determines to be critical items for which use of the clause is appropriate;
 
-(iii) Electronic parts or end items, components, parts, or materials containing electronic parts, whether or not covered in paragraph (g)(1)(i) or (ii) of this clause, if the subcontract exceeds the simplified acquisition threshold and this contract is by, or for, the Department of Defense (as required by paragraph (c)(4) of section 818 of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81)); or
+(iii) Electronic parts or end items, components, parts, or materials containing electronic parts, whether or not covered in paragraph (g)(1)(i) or (ii) of this clause, if the subcontract exceeds the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, and this contract is by, or for, the Department of Defense (as required by paragraph (c)(4) of section 818 of the National Defense Authorization Act for Fiscal Year 2012 (Pub. L. 112-81)); or
 
 (iv) For the acquisition of services, if the subcontractor will furnish, as part of the service, any items that meet the criteria specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this clause.
 
@@ -74,4 +72,4 @@ Reporting Nonconforming Items (DEC 2019)
 
 (3) The Contractor shall not alter the clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 64695, Nov. 22, 2019]
+(End of clause)[84 FR 64695, Nov. 22, 2019, as amended at 85 FR 27097, May 6, 2020]

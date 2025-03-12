@@ -18,11 +18,9 @@
 
 (B) If only one offer is received in response to a competitive solicitation, see 215.371-3.
 
-(3) *Commercial items.* (A) Follow the procedures at PGI 215.403-1(c)(3)(A) for pricing commercial items.
+(3) *Commercial items.* (A) Follow the procedures at PGI 215.403-1(c)(3) for pricing commercial items.
 
-(B) By November 30th of each year, departments and agencies shall provide a report to the Director, Defense Procurement and Acquisition Policy (DPAP), ATTN: DPAP/CPIC, of all contracting officer determinations that commercial item exceptions apply under FAR 15.403-1(b)(3), during the previous fiscal year, for any contract, subcontract, or modification expected to have a value of $19.5 million or more. See PGI 215.403-1(c)(3)(B) for the format and guidance for the report. The Director, DPAP, will submit a consolidated report to the congressional defense committees.
-
-(C) When applying the commercial item exception under FAR 15.403-1(b)(3), see 212.102(a)(ii) regarding prior commercial item determinations.
+(B) When applying the commercial item exception under FAR 15.403-1(b)(3), see 212.102(a)(ii) regarding prior commercial item determinations.
 
 (4) *Waivers.* (A) The head of the contracting activity may, without power of delegation, apply the exceptional circumstances authority when a determination is made that -
 
@@ -32,7 +30,7 @@
 
 (*3*) There are demonstrated benefits to granting the waiver. Follow the procedures at PGI 215.403-1(c)(4)(A) for determining when an exceptional case waiver is appropriate, for approval of such waivers, for partial waivers, and for waivers applicable to unpriced supplies or services.
 
-(B) By November 30th of each year, departments and agencies shall provide a report to the Director, DPAP, ATTN: DPAP/CPIC, of all waivers granted under FAR 15.403-1(b)(4), during the previous fiscal year, for any contract, subcontract, or modification expected to have a value of $19.5 million or more. See PGI 215.403-1(c)(4)(B) for the format and guidance for the report. The Director, DPAP, will submit a consolidated report to the congressional defense committees.
+(B) By November 30th of each year, departments and agencies shall provide a report to the Director, Defense Pricing and Contracting, Pricing and Contracting Initiatives (DPC/PCI), of all waivers granted under FAR 15.403-1(b)(4), during the previous fiscal year, for any contract, subcontract, or modification expected to have a value of $19.5 million or more. See PGI 215.403-1(c)(4)(B) for the format and guidance for the report.
 
 (C) DoD has waived the requirement for submission of certified cost or pricing data for the Canadian Commercial Corporation and its subcontractors (but see 215.408(3) and 225.870-4(c)).
 
@@ -42,4 +40,4 @@
 
 (*2*) Certified cost or pricing data from subcontractors that are not nonprofit organizations when the subcontractor's proposal exceeds the certified cost or pricing data threshold at FAR 15.403-4(a)(1).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020]

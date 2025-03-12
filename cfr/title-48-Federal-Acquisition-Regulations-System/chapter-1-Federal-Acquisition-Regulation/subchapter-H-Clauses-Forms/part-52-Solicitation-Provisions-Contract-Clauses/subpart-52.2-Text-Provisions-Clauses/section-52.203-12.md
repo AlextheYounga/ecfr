@@ -1,12 +1,10 @@
 ##### 52.203-12 Limitation on Payments to Influence Certain Federal Transactions. #####
 
-Link to an amendment published at 85 FR 27091, May 6, 2020.
-
 As prescribed in 3.808(b), insert the following clause:
 
-Limitation on Payments To influence Certain Federal Transactions (OCT 2010)
+Limitation on Payments To influence Certain Federal Transactions (JUN 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Agency* means executive agency as defined in Federal Acquisition Regulation (FAR) 2.101.
 
@@ -60,7 +58,7 @@ Limitation on Payments To influence Certain Federal Transactions (OCT 2010)
 
 (1) *Agency and legislative liaison by Contractor employees.* (i) Payment of reasonable compensation made to an officer or employee of the Contractor if the payment is for agency and legislative liaison activities not directly related to this contract. For purposes of this paragraph, providing any information specifically requested by an agency or Congress is permitted at any time.
 
-(ii) Participating with an agency in discussions that are not related to a specific solicitation for any covered Federal action, but that concern -
+(ii) Participating with an agency in discussions that are not related to a specific solicitation for any covered Federal action, but that concern—
 
 (A) The qualities and characteristics (including individual demonstrations) of the person's products or services, conditions or terms of sale, and service capabilities; or
 
@@ -92,10 +90,10 @@ Limitation on Payments To influence Certain Federal Transactions (OCT 2010)
 
 (f) *Cost allowability.* Nothing in this clause makes allowable or reasonable any costs which would otherwise be unallowable or unreasonable. Conversely, costs made specifically unallowable by the requirements in this clause will not be made allowable under any other provision.
 
-(g) *Subcontracts.* (1) The Contractor shall obtain a declaration, including the certification and disclosure in paragraphs (c) and (d) of the provision at FAR 52.203-11, Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions, from each person requesting or receiving a subcontract exceeding $150,000 under this contract. The Contractor or subcontractor that awards the subcontract shall retain the declaration.
+(g) *Subcontracts.* (1) The Contractor shall obtain a declaration, including the certification and disclosure in paragraphs (c) and (d) of the provision at FAR 52.203-11, Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions, from each person requesting or receiving a subcontract under this contract that exceeds the threshold specified in FAR 3.808 on the date of subcontract award. The Contractor or subcontractor that awards the subcontract shall retain the declaration.
 
 (2) A copy of each subcontractor disclosure form (but not certifications) shall be forwarded from tier to tier until received by the prime Contractor. The prime Contractor shall, at the end of the calendar quarter in which the disclosure form is submitted by the subcontractor, submit to the Contracting Officer within 30 days a copy of all disclosures. Each subcontractor certification shall be retained in the subcontract file of the awarding Contractor.
 
-(3) The Contractor shall include the substance of this clause, including this paragraph (g), in any subcontract exceeding $150,000.
+(3) The Contractor shall include the substance of this clause, including this paragraph (g), in any subcontract that exceeds the threshold specified in FAR 3.808 on the date of subcontract award.
 
-(End of clause)[72 FR 46331, Aug. 17, 2007, as amended at 75 FR 53134, Aug. 30, 2010]
+(End of clause)[72 FR 46331, Aug. 17, 2007, as amended at 75 FR 53134, Aug. 30, 2010; 85 FR 27091, May 6, 2020]

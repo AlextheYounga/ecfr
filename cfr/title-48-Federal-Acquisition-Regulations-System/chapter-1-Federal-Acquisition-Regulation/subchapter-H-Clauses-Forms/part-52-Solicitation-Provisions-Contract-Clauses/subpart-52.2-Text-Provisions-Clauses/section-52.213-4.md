@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 85 FR 27093, May 6, 2020.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2020)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JUN 2020)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -36,7 +34,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (iii) 52.232-11, Extras (APR 1984).
 
-(iv) 52.232-25, Prompt Payment (JAN 2017)
+(iv) 52.232-25, Prompt Payment (JAN 2017).
 
 (v) 52.232-39, Unenforceability of Unauthorized Obligations (JUN 2013).
 
@@ -44,23 +42,23 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (AUG 2019).
+(viii) 52.244-6, Subcontracts for Commercial Items (JUN 2020)
 
 (b) The Contractor shall comply with the following FAR clauses, incorporated by reference, unless the circumstances do not apply:
 
 (1) The clauses listed below implement provisions of law or Executive order:
 
-(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (OCT 2018) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at $30,000 or more).
+(i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(ii) 52.222-19, Child Labor-Cooperation with Authorities and Remedies (JAN 2020) (E.O. 13126). (Applies to contracts for supplies exceeding the micro-purchase threshold).
+(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2020) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract).
 
-(iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (MAY 2014) (41 U.S.C. chapter 65) (Applies to supply contracts over $15,000 in the United States, Puerto Rico, or the U.S. Virgin Islands).
+(iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
-(iv) 52.222-35, Equal Opportunity for Veterans (Oct 2015) (38 U.S.C. 4212) (applies to contracts of $150,000 or more).
+(iv) 52.222-35, Equal Opportunity for Veterans (JUN 2020) (38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
 
-(v) 52.222-36, Equal Employment for Workers with Disabilities (JUL 2014) (29 U.S.C. 793) (Applies to contracts over $15,000, unless the work is to be performed outside the United States by employees recruited outside the United States). (For purposes of this clause, “United States” includes the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)
+(v) 52.222-36, Equal Employment for Workers with Disabilities (JUN 2020) (29 U.S.C. 793) (Applies to contracts over the threshold specified in FAR 22.1408(a) on the date of award of this contract, unless the work is to be performed outside the United States by employees recruited outside the United States). (For purposes of this clause, “United States” includes the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and Wake Island.)
 
-(vi) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212) (Applies to contracts of $150,000 or more).
+(vi) 52.222-37, Employment Reports on Veterans (JUN 2020)(38 U.S.C. 4212) (Applies to contracts valued at or above the threshold specified in FAR 22.1303(a) on the date of award of this contract).
 
 (vii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
 
@@ -92,13 +90,13 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii) 52.225-1, Buy American - Supplies (MAY 2014) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold and the acquisition -
+(xvii) 52.225-1, Buy American - Supplies (MAY 2014) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
 
 (A) Is set aside for small business concerns; or
 
 (B) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $25,000).
 
-(xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (MAY 2014) (42 U.S.C. 1792) (Applies to contracts greater than $25,000 that provide for the provision, the service, or the sale of food in the United States).
+(xviii) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792) (Applies to contracts greater than the threshold specified in FAR 26.404 on the date of award of this contract, that provide for the provision, the service, or the sale of food in the United States).
 
 (xix) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (Applies when the payment will be made by electronic funds transfer (EFT) and the payment office uses the System for Award Management (SAM) as its source of EFT information).
 
@@ -110,7 +108,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (JUN 2016) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.
 
-(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (Oct 2015) (Applies to contracts over $35,000).
+(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (JUN 2020) (Applies to contracts over the threshold specified in FAR 9.405-2(b) on the date of award of this contract).
 
 (iii) 52.211-17, Delivery of Excess Quantities (SEP 1989) (Applies to fixed-price supplies).
 

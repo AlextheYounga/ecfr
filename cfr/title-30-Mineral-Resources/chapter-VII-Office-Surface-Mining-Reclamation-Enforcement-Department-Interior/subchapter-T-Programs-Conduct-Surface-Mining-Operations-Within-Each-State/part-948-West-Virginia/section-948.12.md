@@ -1,7 +1,5 @@
 ##### § 948.12 State statutory, regulatory, and proposed program amendment provisions not approved. #####
 
-Link to an amendment published at 85 FR 27156, May 7, 2020.
-
 (a) We are not approving the following provisions of the proposed program amendment that West Virginia submitted on May 11, 1998:
 
 (1) CSR 38-2-3.14, to the extent that it could be interpreted as applying to the on-site reprocessing of abandoned coal mine waste piles or to the extent that it would apply to the removal of abandoned coal refuse piles where, on average, the material to be removed meets the definition of coal in 30 CFR 700.5.
@@ -60,10 +58,20 @@ Link to an amendment published at 85 FR 27156, May 7, 2020.
 
 (2) At CSR 38-2-7.7.e.1, the word “excessive.”
 
-(i) We are not approving the following provisions of the proposed program amendment that West Virginia submitted on June 13, 2005, and modified on August 23, 2005:
+(i) We are removing and reserving paragraph (i) for the following reasons:
 
-(1) At CSR 38-2-5.4.e.1, the words “Impoundments meeting.”
+(1) We are removing and reserving subparagraph (1) of paragraph (i) since the words “Impoundments meeting” have been removed from CSR 38-2-5.4.e.1.
 
-(2) At CSR 38-2-7.4.b.1.J.1(c), the deletion of the words “surface material shall be composed of soil and the materials described in subparagraph 7.4.b.1.D.”
+(2) We are removing and reserving subparagraph (2) of paragraph (i) since CSR 38-2-7.4.b.1.J.1(C) has been reinserted in the State regulations.
 
-[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006]
+(j) We are not approving the following provisions of the proposed West Virginia program amendment dated April 8, 2008, and received electronically on April 17, 2008:
+
+(1) At CSR 199-1-2.27 regarding other structure, the last sentence which provides that, “The term does not include structures owned, operated, or built by the permittee for the purpose of carrying out surface mining operations.”
+
+(2) At CSR 199-1-2.36 regarding structure, the last sentence which provides that, “The term does not include structures built and/or utilized for the purpose of carrying out the surface mining operation.”
+
+(3) At CSR 38-2-2.119 regarding structure, the last sentence which provides that, “The term does not include structures built and/or utilized for the purpose of carrying out the surface mining operation.”
+
+(4) At CSR 38-2-6.5.h, we are not approving its deletion because the deletion of CSR 38-2-6.5.h would make CSR 199-1-3.6.g and 3.11 less effective than the Federal blasting requirements.
+
+[48 FR 52053, Nov. 16, 1983, as amended at 50 FR 28323, 28342, July 11, 1985; 55 FR 21337, May 23, 1990; 61 FR 6535, Feb. 21, 1996; 65 FR 26135, May 5, 2000; 65 FR 50430, Aug. 18, 2000; 65 FR 80328, Dec. 21, 2000; 68 FR 40167, July 7, 2003; 68 FR 68738, Dec. 10, 2003; 70 FR 6590, Feb. 8, 2005; 71 FR 10790, Mar. 2, 2006; 85 FR 27156, May 7, 2020]

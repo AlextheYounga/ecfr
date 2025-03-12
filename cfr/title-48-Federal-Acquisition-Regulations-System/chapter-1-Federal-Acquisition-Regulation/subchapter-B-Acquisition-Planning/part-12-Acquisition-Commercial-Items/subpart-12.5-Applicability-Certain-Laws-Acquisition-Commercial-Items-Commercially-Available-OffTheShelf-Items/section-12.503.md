@@ -1,10 +1,8 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial items. #####
 
-Link to an amendment published at 85 FR 27090, May 6, 2020.
-
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial items:
 
-(1) 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $15,000 (see subpart 22.6).
+(1) 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000 (see subpart 22.6).
 
 (2) 41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see 3.404).
 

@@ -1,12 +1,10 @@
 ##### 52.215-21 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications. #####
 
-Link to an amendment published at 85 FR 27095, May 6, 2020.
-
 As prescribed in 15.408(m), insert the following clause:
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications (OCT 2010)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications (JUN 2020)
 
-(a) *Exceptions from certified cost or pricing data.* (1) In lieu of submitting certified cost or pricing data for modifications under this contract, for price adjustments expected to exceed the threshold set forth at FAR 15.403-4 on the date of the agreement on price or the date of the award, whichever is later, the Contractor may submit a written request for exception by submitting the information described in the following subparagraphs. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether an exception should be granted, and whether the price is fair and reasonable -
+(a) *Exceptions from certified cost or pricing data.* (1) In lieu of submitting certified cost or pricing data for modifications under this contract, for price adjustments expected to exceed the threshold set forth in Federal Acquisition Regulation (FAR) 15.403-4(a)(1) on the date of the agreement on price or the date of the award, whichever is later, the Contractor may submit a written request for exception by submitting the information described in paragraphs (a)(1)(i) and (ii) of this clause. If the threshold for submission of certified cost or pricing data specified in FAR 15.403-4(a)(1) is adjusted for inflation as set forth in FAR 1.109(a), then pursuant to FAR 1.109(d) the changed threshold applies throughout the remaining term of the contract, unless there is a subsequent threshold adjustment. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether an exception should be granted, and whether the price is fair and reasonable -
 
 (i) *Identification of the law or regulation establishing the price offered.* If the price is controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
@@ -52,4 +50,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (b) Provide data described below: *[Insert description of the data and the format that are required, including the access to records necessary to permit an adequate evaluation of the proposed price in accordance with 15.403-3.]*
 
-[62 FR 51264, Sept. 30, 1997, as amended at 75 FR 53152, Aug. 30, 2010]
+[62 FR 51264, Sept. 30, 1997, as amended at 75 FR 53152, Aug. 30, 2010; 85 FR 27095, May 6, 2020]

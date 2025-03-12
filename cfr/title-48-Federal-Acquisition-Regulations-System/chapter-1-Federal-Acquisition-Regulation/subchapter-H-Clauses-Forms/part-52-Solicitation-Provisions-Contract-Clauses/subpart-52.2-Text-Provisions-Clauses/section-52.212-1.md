@@ -1,10 +1,8 @@
 ##### 52.212-1 Instructions to Offerors - Commercial Items. #####
 
-Link to an amendment published at 85 FR 27092, May 6, 2020.
-
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (MAR 2020)
+Instructions to Offerors - Commercial Items (JUN 2020)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
 
@@ -82,7 +80,7 @@ Instructions to Offerors - Commercial Items (MAR 2020)
 
 (4) Nongovernment (voluntary) standards must be obtained from the organization responsible for their preparation, publication, or maintenance.
 
-(j) *Unique entity identifier.* (Applies to all offers exceeding $3,500, and offers of $3,500 or less if the solicitation requires the Contractor to be registered in the System for Award Management (SAM).) The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address. The Offeror also shall enter its Electronic Funds Transfer (EFT) indicator, if applicable. The EFT indicator is a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the Offeror to establish additional SAM records for identifying alternative EFT accounts (see subpart 32.11) for the same entity. If the Offeror does not have a unique entity identifier, it should contact the entity designated at *www.sam.gov* for unique entity identifier establishment directly to obtain one. The Offeror should indicate that it is an offeror for a Government contract when contacting the entity designated at *www.sam.gov* for establishing the unique entity identifier.
+(j) *Unique entity identifier.* (Applies to all offers that exceed the micro-purchase threshold, and offers at or below the micro-purchase threshold if the solicitation requires the Contractor to be registered in the System for Award Management (SAM).) The Offeror shall enter, in the block with its name and address on the cover page of its offer, the annotation “Unique Entity Identifier” followed by the unique entity identifier that identifies the Offeror's name and address. The Offeror also shall enter its Electronic Funds Transfer (EFT) indicator, if applicable. The EFT indicator is a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the Offeror to establish additional SAM records for identifying alternative EFT accounts (see FAR subpart 32.11) for the same entity. If the Offeror does not have a unique entity identifier, it should contact the entity designated at *www.sam.gov* for unique entity identifier establishment directly to obtain one. The Offeror should indicate that it is an offeror for a Government contract when contacting the entity designated at *www.sam.gov* for establishing the unique entity identifier.
 
 (k) [Reserved]
 

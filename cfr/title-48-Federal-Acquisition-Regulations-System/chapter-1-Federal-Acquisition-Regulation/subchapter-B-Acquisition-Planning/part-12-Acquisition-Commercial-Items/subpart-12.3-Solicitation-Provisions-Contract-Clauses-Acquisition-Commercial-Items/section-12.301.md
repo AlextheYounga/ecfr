@@ -1,7 +1,5 @@
 ##### 12.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 85 FR 27099, May 6, 2020.
-
 (a) In accordance with 41 U.S.C. 3307, contracts for the acquisition of commercial items shall, to the maximum extent practicable, include only those clauses -
 
 (1) Required to implement provisions of law or executive orders applicable to the acquisition of commercial items; or
@@ -58,7 +56,9 @@ Link to an amendment published at 85 FR 27099, May 6, 2020.
 
 (11) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
 
-(12) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
+(12) Insert the provision at 52.229-11, Tax on Certain Foreign Procurements - Notice and Representation, in solicitations as prescribed in 29.402-3(a). The representation in the provision at 52.229-11 is not in the System for Award Management.
+
+(13) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
 
 (e) *Discretionary use of FAR provisions and clauses.* The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:
 

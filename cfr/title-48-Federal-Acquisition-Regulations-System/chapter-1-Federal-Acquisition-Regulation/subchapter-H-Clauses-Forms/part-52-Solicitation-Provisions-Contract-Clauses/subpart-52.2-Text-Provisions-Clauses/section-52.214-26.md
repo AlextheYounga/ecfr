@@ -1,14 +1,12 @@
-##### 52.214-26 Audit and Records - Sealed Bidding. #####
-
-Link to an amendment published at 85 FR 27093, May 6, 2020.
+##### 52.214-26 Audit and Records—Sealed Bidding. #####
 
 As prescribed in 14.201-7(a)(1), insert the following clause:
 
-Audit and Records - Sealed Bidding (OCT 2010)
+Audit and Records—Sealed Bidding (JUN 2020)
 
 (a) As used in this clause, *records* includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
-(b) *Certified cost or pricing data.* If the Contractor has been required to submit certified cost or pricing data in connection with the pricing of any modification to this contract, the Contracting Officer, or an authorized representative of the Contracting Officer, in order to evaluate the accuracy, completeness, and currency of the certified cost or pricing data, shall have the right to examine and audit all of the Contractor's records, including computations and projections, related to -
+(b) *Certified cost or pricing data.* If the Contractor has been required to submit certified cost or pricing data in connection with the pricing of any modification to this contract, the Contracting Officer, or an authorized representative of the Contracting Officer, in order to evaluate the accuracy, completeness, and currency of the certified cost or pricing data, shall have the right to examine and audit all of the Contractor's records, including computations and projections, related to—
 
 (1) The proposal for the modification;
 
@@ -26,13 +24,13 @@ Audit and Records - Sealed Bidding (OCT 2010)
 
 (2) Records pertaining to appeals under the Disputes clause or to litigation or the settlement of claims arising under or relating to the performance of this contract shall be made available until disposition of such appeals, litigation, or claims.
 
-(e) The Contractor shall insert a clause containing all the provisions of this clause, including this paragraph (e), in all subcontracts expected to exceed the threshold in FAR 15.403-4(a)(1) for submission of certified cost or pricing data.
+(e) *Subcontracts.* The Contractor shall insert a clause containing all the provisions of this clause, including this paragraph (e), in all subcontracts expected to exceed the threshold for submission of certified cost or pricing data in FAR 15.403-4(a)(1) on the date of subcontract award.
 
 (End of clause)
 
 *Alternate I* (MAR 2009). As prescribed in 14.201-7(a)(2),substitute the following paragraphs (c) and (e) for paragraphs (c) and (e) of the basic clause:
 
-(c) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials, shall have access to and the right to -
+(c) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials, shall have access to and the right to—
 
 (1) Examine any of the Contractor's or any subcontractors' records that pertain to, and involve transactions relating to, this contract or a subcontract hereunder; and
 
@@ -42,4 +40,4 @@ Audit and Records - Sealed Bidding (OCT 2010)
 
 (2) The authority of the Inspector General under paragraph (c)(2) of this clause does not flow down to subcontracts.
 
-[60 FR 42651, Aug. 16, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 51271, Sept. 30, 1997; 74 FR 14649, 14651, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 75 FR 53150, Aug. 30, 2010]
+[60 FR 42651, Aug. 16, 1995; 60 FR 44548, Aug. 28, 1995; 62 FR 51271, Sept. 30, 1997; 74 FR 14649, 14651, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 75 FR 53150, Aug. 30, 2010; 85 FR 27093, May 6, 2020]

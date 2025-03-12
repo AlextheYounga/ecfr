@@ -1,14 +1,12 @@
 ##### 52.223-18 Encouraging Contractor Policies To Ban Text Messaging While Driving. #####
 
-Link to an amendment published at 85 FR 27096, May 6, 2020.
-
 As prescribed in 23.1105, insert the following clause:
 
-Encouraging Contractor Policies To Ban Text Messaging While Driving (AUG 2011)
+Encouraging Contractor Policies To Ban Text Messaging While Driving (JUN 2020)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Driving* - (1) Means operating a motor vehicle on an active roadway with the motor running, including while temporarily stationary because of traffic, a traffic light, stop sign, or otherwise.
+*Driving*—(1) Means operating a motor vehicle on an active roadway with the motor running, including while temporarily stationary because of traffic, a traffic light, stop sign, or otherwise.
 
 (2) Does not include operating a motor vehicle with or without the motor running when one has pulled over to the side of, or off, an active roadway and has halted in a location where one can safely remain stationary.
 
@@ -16,20 +14,20 @@ Encouraging Contractor Policies To Ban Text Messaging While Driving (AUG 2011)
 
 (b) This clause implements Executive Order 13513, Federal Leadership on Reducing Text Messaging while Driving, dated October 1, 2009.
 
-(c) The Contractor is encouraged to -
+(c) The Contractor is encouraged to—
 
-(1) Adopt and enforce policies that ban text messaging while driving -
+(1) Adopt and enforce policies that ban text messaging while driving—
 
 (i) Company-owned or -rented vehicles or Government-owned vehicles; or
 
 (ii) Privately-owned vehicles when on official Government business or when performing any work for or on behalf of the Government.
 
-(2) Conduct initiatives in a manner commensurate with the size of the business, such as -
+(2) Conduct initiatives in a manner commensurate with the size of the business, such as—
 
 (i) Establishment of new rules and programs or re-evaluation of existing programs to prohibit text messaging while driving; and
 
 (ii) Education, awareness, and other outreach to employees about the safety risks associated with texting while driving.
 
-(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in all subcontracts that exceed the micro-purchase threshold.
+(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in all subcontracts that exceed the micro-purchase threshold, as defined in Federal Acquisition Regulation 2.101 on the date of subcontract award.
 
-(End of clause)[75 FR 60266, Sept. 29, 2010, as amended at 76 FR 39241, July 5, 2011]
+(End of clause)[75 FR 60266, Sept. 29, 2010, as amended at 76 FR 39241, July 5, 2011; 85 FR 27096, May 6, 2020]

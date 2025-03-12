@@ -1,6 +1,6 @@
 ##### 218.201 Contingency operation. #####
 
-(1) *Selection, appointment, and termination of appointment.* Contracting officer qualification requirements pertaining to a baccalaureate degree and 24 semester credit hours of business related courses do not apply to DoD employees or members of the armed forces who are in a contingency contracting force. See 201.603-2(2).
+(1) *Selection, appointment, and termination of appointment.* Contracting officer qualification requirements pertaining to a baccalaureate degree do not apply to DoD employees or members of the armed forces who are in a contingency contracting force. See 201.603-2(2).
 
 (2) *Policy for item unique identification.* Contractors will not be required to provide DoD item unique identification if the items, as determined by the head of the contracting activity, are to be used to support a contingency operation. See 211.274-2(b).
 
@@ -24,4 +24,4 @@
 
 (12) *Electronic submission and processing of payment requests.* Contractors do not have to submit payment requests in electronic form for contracts awarded by deployed contracting officers in the course of military operations, including contingency operations or humanitarian or peacekeeping operations. See 232.7002(a)(4).
 
-[72 FR 2632, Jan. 22, 2007, as amended at 78 FR 76072, Dec. 16, 2013; 81 FR 53045, Aug. 11, 2016; 83 FR 24890, May 30, 2018]
+[72 FR 2632, Jan. 22, 2007, as amended at 78 FR 76072, Dec. 16, 2013; 81 FR 53045, Aug. 11, 2016; 83 FR 24890, May 30, 2018; 85 FR 34528, June 5, 2020]

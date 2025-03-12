@@ -1,7 +1,5 @@
 ##### § 982.516 Family income and composition: Annual and interim examinations. #####
 
-Link to an amendment published at 85 FR 27139, May 7, 2020.
-
 (a) *PHA responsibility for reexamination and verification.* (1) The PHA must conduct a reexamination of family income and composition at least annually.
 
 (2) Except as provided in paragraph (a)(3) of this section, the PHA must obtain and document in the tenant file third-party verification of the following factors, or must document in the tenant file why third-party verification was not available:
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 27139, May 7, 2020.
 
 (3) *Method of streamlined income determination.* A PHA using the streamlined income determination must adjust a family's income according to the percentage of a family's unadjusted income that is from fixed income.
 
-(i) When 90 percent or more of a family's unadjusted income consists of fixed income, PHAs using streamlined income determinations must apply a COLA or COLAs to the family's fixed-income sources, provided that the family certifies both that 90 percent or more of their unadjusted income is fixed income and that their sources of fixed income have not changed from the previous year. For non-fixed income, the PHA may choose, but is not required, to make appropriate adjustments pursuant to paragraph (a) of this section
+(i) When 90 percent or more of a family's unadjusted income consists of fixed income, PHAs using streamlined income determinations must apply a COLA or COLAs to the family's fixed-income sources, provided that the family certifies both that 90 percent or more of their unadjusted income is fixed income and that their sources of fixed income have not changed from the previous year. For non-fixed income, the PHA is not required to make adjustments pursuant to paragraph (a) of this section.
 
 (ii) When less than 90 percent of a family's unadjusted income consists of fixed income, PHAs using streamlined income determinations must apply a COLA to each of the family's sources of fixed income individually. The PHA must determine all other income pursuant to paragraph (a) of this section.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 85 FR 27139, May 7, 2020.
 
 (2) The PHA and HUD must limit the use or disclosure of information obtained from a family or from another source pursuant to this release and consent to purposes directly in connection with administration of the program.
 
-(Information collection requirements contained in this section have been approved by the Office of Management and Budget under control number 2577-0169.)[63 FR 23861, Apr. 30, 1998, as amended at 64 FR 13057, Mar. 16, 1999; 64 FR 26649, May 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16822, Mar. 30, 2000; 80 FR 8247, Feb. 17, 2015; 81 FR 12376, Mar. 8, 2016; 82 FR 58341, Dec. 12, 2017]Editorial Note:At 64 FR 26649, May 14, 1999, § 982.516 was amended in paragraph (e) by removing the reference to “and family unit size”; however paragraph (e) does not contain this phrase.
+(Information collection requirements contained in this section have been approved by the Office of Management and Budget under control number 2577-0169.)[63 FR 23861, Apr. 30, 1998, as amended at 64 FR 13057, Mar. 16, 1999; 64 FR 26649, May 14, 1999; 64 FR 56915, Oct. 21, 1999; 65 FR 16822, Mar. 30, 2000; 80 FR 8247, Feb. 17, 2015; 81 FR 12376, Mar. 8, 2016; 82 FR 58341, Dec. 12, 2017; 85 FR 27139, May 7, 2020]Editorial Note:At 64 FR 26649, May 14, 1999, § 982.516 was amended in paragraph (e) by removing the reference to “and family unit size”; however paragraph (e) does not contain this phrase.

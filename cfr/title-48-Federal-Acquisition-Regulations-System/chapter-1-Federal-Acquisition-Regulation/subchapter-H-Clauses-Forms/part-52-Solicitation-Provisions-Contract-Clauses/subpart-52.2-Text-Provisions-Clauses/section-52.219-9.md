@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 85 FR 27095, May 6, 2020.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (MAR 2020)
+Small Business Subcontracting Plan (JUN 2020)
 
 (a) This clause does not apply to small business concerns.
 
@@ -12,7 +10,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).
 
-*Commercial item* means a product or service that satisfies the definition of commercial item in section 2.101 of the Federal Acquisition Regulation.
+*Commercial item* means a product or service that satisfies the definition of commercial item in Federal Acquisition Regulation (FAR) 2.101.
 
 *Commercial plan* means a subcontracting plan (including goals) that covers the offeror's fiscal year and that applies to the entire production of commercial items sold by either the entire company or a portion thereof (*e.g.,* division, plant, or product line).
 
@@ -115,7 +113,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (8) A description of the efforts the Offeror will make to assure that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns have an equitable opportunity to compete for subcontracts.
 
-(9) Assurances that the Offeror will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of $700,000 ($1.5 million for construction of any public facility) with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
+(9) Assurances that the Offeror will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
 (10) Assurances that the Offeror will -
 
@@ -139,7 +137,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (ii) Organizations contacted in an attempt to locate sources that are small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concerns.
 
-(iii) Records on each subcontract solicitation resulting in an award of more than $150,000, indicating -
+(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating -
 
 (A) Whether small business concerns were solicited and, if not, why not;
 
@@ -197,7 +195,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (5) Provide notice to subcontractors concerning penalties and remedies for misrepresentations of business status as small, veteran-owned small business, HUBZone small, small disadvantaged, or women-owned small business for the purpose of obtaining a subcontract that is to be included as part or all of a goal contained in the Contractor's subcontracting plan.
 
-(6) For all competitive subcontracts over the simplified acquisition threshold in which a small business concern received a small business preference, upon determination of the successful subcontract offeror, prior to award of the subcontract the Contractor must inform each unsuccessful small business subcontract offeror in writing of the name and location of the apparent successful offeror and if the successful subcontract offeror is a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
+(6) For all competitive subcontracts over the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, in which a small business concern received a small business preference, upon determination of the successful subcontract offeror, prior to award of the subcontract the Contractor must inform each unsuccessful small business subcontract offeror in writing of the name and location of the apparent successful offeror and if the successful subcontract offeror is a small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concern.
 
 (7) Assign each subcontract the NAICS code and corresponding size standard that best describes the principal purpose of the subcontract.
 
@@ -213,7 +211,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (h) Prior compliance of the offeror with other such subcontracting plans under previous contracts will be considered by the Contracting Officer in determining the responsibility of the offeror for award of the contract.
 
-(i) A contract may have no more than one subcontracting plan. When a contract modification exceeds the subcontracting plan threshold in 19.702(a), or an option is exercised, the goals of the existing subcontracting plan shall be amended to reflect any new subcontracting opportunities. When the goals in a subcontracting plan are amended, these goal changes do not apply retroactively.
+(i) A contract may have no more than one subcontracting plan. When a contract modification exceeds the subcontracting plan threshold in FAR 19.702(a), or an option is exercised, the goals of the existing subcontracting plan shall be amended to reflect any new subcontracting opportunities. When the goals in a subcontracting plan are amended, these goal changes do not apply retroactively.
 
 (j) Subcontracting plans are not required from subcontractors when the prime contract contains the clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items, or when the subcontractor provides a commercial item subject to the clause at 52.244-6, Subcontracts for Commercial Items, under a prime contract.
 
@@ -243,7 +241,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (B) The report may be submitted on a corporate, company or subdivision (e.g. plant or division operating as a separate profit center) basis, unless otherwise directed by the agency.
 
-(C) If the Contractor or a subcontractor is performing work for more than one executive agency, a separate report shall be submitted to each executive agency covering only that agency's contracts, provided at least one of that agency's contracts is over $700,000 (over $1.5 million for construction of a public facility) and contains a subcontracting plan. For DoD, a consolidated report shall be submitted for all contracts awarded by military departments/agencies and/or subcontracts awarded by DoD prime contractors.
+(C) If the Contractor or a subcontractor is performing work for more than one executive agency, a separate report shall be submitted to each executive agency covering only that agency's contracts, provided at least one of that agency's contracts is over the applicable threshold specified in FAR 19.702(a), and the contract contains a subcontracting plan. For DoD, a consolidated report shall be submitted for all contracts awarded by military departments/agencies and/or subcontracts awarded by DoD prime contractors.
 
 (D) The report shall be submitted annually by October 30 for the twelve month period ending September 30. When a Contracting Officer rejects an SSR, the Contractor shall submit a revised report within 30 days of receiving the notice of SSR rejection.
 
@@ -271,7 +269,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (c)(1) Proposals submitted in response to this solicitation shall include a subcontracting plan that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate a subcontracting plan shall make the Offeror ineligible for award of a contract.
 
-*Alternate III* (MAR 2020). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
+*Alternate III* (JUN 2020). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
 
 (d)(10) Assurances that the Offeror will -
 
@@ -301,7 +299,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (B) The report may be submitted on a corporate, company or subdivision (e.g., plant or division operating as a separate profit center) basis, unless otherwise directed by the agency.
 
-(C) If the Contractor and/or a subcontractor is performing work for more than one executive agency, a separate report shall be submitted to each executive agency covering only that agency's contracts, provided at least one of that agency's contracts is over $700,000 (over $1.5 million for construction of a public facility) and contains a subcontracting plan. For DoD, a consolidated report shall be submitted for all contracts awarded by military departments/agencies and/or subcontracts awarded by DoD prime contractors.
+(C) If the Contractor and/or a subcontractor is performing work for more than one executive agency, a separate report shall be submitted to each executive agency covering only that agency's contracts, provided at least one of that agency's contracts is over the applicable threshold specified in FAR 19.702(a), and the contract and contains a subcontracting plan. For DoD, a consolidated report shall be submitted for all contracts awarded by military departments/agencies and/or subcontracts awarded by DoD prime contractors.
 
 (D) The report shall be submitted annually by October 30, for the twelve month period ending September 30. When a Contracting Officer rejects an SSR, the Contractor is required to submit a revised SSR within 30 days of receiving the notice of report rejection.
 
@@ -319,7 +317,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (AUG 2018). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (JUN 2020). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
@@ -403,7 +401,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (8) A description of the efforts the Contractor will make to assure that small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns have an equitable opportunity to compete for subcontracts.
 
-(9) Assurances that the Contractor will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Contractor will require all subcontractors (except small business concerns) that receive subcontracts in excess of $700,000 ($1.5 million for construction of any public facility) with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
+(9) Assurances that the Contractor will include the clause of this contract entitled “Utilization of Small Business Concerns” in all subcontracts that offer further subcontracting opportunities, and that the Contractor will require all subcontractors (except small business concerns) that receive subcontracts in excess of the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, with further subcontracting possibilities to adopt a subcontracting plan that complies with the requirements of this clause.
 
 (10) Assurances that the Contractor will -
 
@@ -427,7 +425,7 @@ Small Business Subcontracting Plan (MAR 2020)
 
 (ii) Organizations contacted in an attempt to locate sources that are small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, or women-owned small business concerns.
 
-(iii) Records on each subcontract solicitation resulting in an award of more than $150,000, indicating -
+(iii) Records on each subcontract solicitation resulting in an award of more than the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, indicating -
 
 (A) Whether small business concerns were solicited and, if not, why not;
 

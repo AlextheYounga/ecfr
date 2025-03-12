@@ -1,12 +1,10 @@
 ##### 52.230-3 Disclosure and Consistency of Cost Accounting Practices. #####
 
-Link to an amendment published at 85 FR 27096, May 6, 2020.
-
 As prescribed in 30.201-4(b)(1), insert the following clause:
 
-Disclosure and Consistency of Cost Accounting Practices (OCT 2015)
+Disclosure and Consistency of Cost Accounting Practices (JUN 2020)
 
-(a) The Contractor, in connection with this contract, shall -
+(a) The Contractor, in connection with this contract, shall—
 
 (1) Comply with the requirements of 48 CFR 9904.401, Consistency in Estimating, Accumulating, and Reporting Costs; 48 CFR 9904.402, Consistency in Allocating Costs Incurred for the Same Purpose; 48 CFR 9904.405, Accounting for Unallowable Costs; and 48 CFR 9904.406, Cost Accounting Standard-Cost Accounting Period, in effect on the date of award of this contract as indicated in 48 CFR part 9904.
 
@@ -22,12 +20,12 @@ Disclosure and Consistency of Cost Accounting Practices (OCT 2015)
 
 (c) The Contractor shall permit any authorized representatives of the Government to examine and make copies of any documents, papers, and records relating to compliance with the requirements of this clause.
 
-(d) The Contractor shall include in all negotiated subcontracts, which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts of any tier, except that -
+(d) The Contractor shall include in all negotiated subcontracts, which the Contractor enters into, the substance of this clause, except paragraph (b), and shall require such inclusion in all other subcontracts of any tier, except that—
 
-(1) If the subcontract is awarded to a business unit which pursuant to 48 CFR 9903.201-2 is subject to other types of CAS coverage, the substance of the applicable clause set forth in subsection 30.201-4 of the Federal Acquisition Regulation shall be inserted.
+(1) If the subcontract is awarded to a business unit which pursuant to 48 CFR 9903.201-2 is subject to other types of CAS coverage, the substance of the applicable clause set forth in section 30.201-4 of the Federal Acquisition Regulation (FAR) shall be inserted.
 
-(2) This requirement shall apply only to negotiated subcontracts in excess of $750,000.
+(2) The requirement in this paragraph (d) shall apply only to negotiated subcontracts in excess of the lower CAS threshold specified in FAR 30.201-4(b) on the date of subcontract award.
 
 (3) The requirement shall not apply to negotiated subcontracts otherwise exempt from the requirement to include a CAS clause as specified in 48 CFR 9903.201-1.
 
-(End of clause)[57 FR 39592, Aug. 31, 1992; 57 FR 43495, Sept. 21, 1992, as amended at 59 FR 67044, Dec. 28, 1994; 61 FR 18919, Apr. 29, 1996; 63 FR 9054, Feb. 23, 1998; 73 FR 54012, Sept. 17, 2008; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015]
+(End of clause)[57 FR 39592, Aug. 31, 1992; 57 FR 43495, Sept. 21, 1992, as amended at 59 FR 67044, Dec. 28, 1994; 61 FR 18919, Apr. 29, 1996; 63 FR 9054, Feb. 23, 1998; 73 FR 54012, Sept. 17, 2008; 77 FR 27551, May 10, 2012; 79 FR 24223, Apr. 29, 2014; 80 FR 38300, July 2, 2015; 85 FR 27096, May 6, 2020]

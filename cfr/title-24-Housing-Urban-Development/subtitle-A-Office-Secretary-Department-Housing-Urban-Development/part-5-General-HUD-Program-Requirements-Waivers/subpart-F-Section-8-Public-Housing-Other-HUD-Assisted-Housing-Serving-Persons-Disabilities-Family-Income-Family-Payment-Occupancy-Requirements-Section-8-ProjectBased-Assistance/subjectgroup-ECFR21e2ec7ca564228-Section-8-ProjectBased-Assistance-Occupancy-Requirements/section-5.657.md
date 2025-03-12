@@ -1,7 +1,5 @@
 ##### § 5.657 Section 8 project-based assistance programs: Reexamination of family income and composition. #####
 
-Link to an amendment published at 85 FR 27139, May 7, 2020.
-
 (a) *Applicability.* This section states requirements for reexamination of family income and composition in the Section 8 project-based assistance programs, except for the moderate rehabilitation and the project-based certificate or voucher programs.
 
 (b) *Regular reexamination.* The owner must conduct a reexamination and redetermination of family income and composition at least annually.
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 27139, May 7, 2020.
 
 (3) *Method of streamlined income determination.* Owners using the streamlined income determination must adjust a family's income according to the percentage of a family's unadjusted income that is from fixed income.
 
-(i) When 90 percent or more of a family's unadjusted income consists of fixed income, owners using streamlined income determinations must apply a COLA or COLAs to the family's fixed-income sources, provided that the family certifies both that 90 percent or more of their unadjusted income is fixed income and that their sources of fixed income have not changed from the previous year. For non-fixed income, owners may choose, but are not required, to make appropriate adjustments pursuant to paragraph (b) of this section.
+(i) When 90 percent or more of a family's unadjusted income consists of fixed income, owners using streamlined income determinations must apply a COLA or COLAs to the family's fixed-income sources, provided that the family certifies both that 90 percent or more of their unadjusted income is fixed income and that their sources of fixed income have not changed from the previous year. For non-fixed income, owners are not required to make adjustments pursuant to paragraph (b) of this section.
 
 (ii) When less than 90 percent of a family's unadjusted income consists of fixed income, owners using streamlined income determinations must apply a COLA to each of the family's sources of fixed income. Owners must determine all other income pursuant to paragraph (b) of this section.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 27139, May 7, 2020.
 
 (5) *Triennial verification.* For any income determined pursuant to a streamlined income determination, an owner must obtain third-party verification of all income amounts every 3 years.
 
-[65 FR 16720, Mar. 29, 2000, as amended at 81 FR 12371, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017]
+[65 FR 16720, Mar. 29, 2000, as amended at 81 FR 12371, Mar. 8, 2016; 82 FR 58340, Dec. 12, 2017; 85 FR 27139, May 7, 2020]

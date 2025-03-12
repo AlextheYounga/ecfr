@@ -1,0 +1,11 @@
+##### § 165.1190 Security Zone; San Francisco Bay, Oakland Estuary, Alameda, CA. #####
+
+(a) *Location.* The following area is a security zone: All navigable waters of the Oakland Estuary, California, from the surface to the sea floor, approximately 50 yards into the Oakland Estuary surrounding the Coast Guard Island Pier. The perimeter of the security zone follows the same perimeter as the floating security barrier installed around the Coast Guard Island pier. The perimeter of the security barrier is located along the following coordinates: commencing at a point on land approximately 50 yards northwest of the northwestern end of the Coast Guard Island Pier at latitude 37°46′53.60″ N and longitude 122°15′06.10″ W; thence to the edge of the navigable channel at latitude 37°46′51.83″ N and longitude 122°15′07.47″ W; thence to a position approximately 10 yards into the charted navigation channel at latitude 37°46′51.27″ N and longitude 122°15′07.22″ W; thence closely paralleling the edge of the charted navigation channel to latitude 37°46′46.75″ N and longitude 122°15′00.21″ W; thence closely paralleling the edge of the charted navigation channel to a point approximately 20 yards into the charted navigation channel at latitude 37°46′42.36″ N and longitude 122°14′51.55″ W; thence to a point on land approximately 50 yards southeast of the southeastern end of the Coast Guard Island Pier at latitude 37°46′44.80″ N and longitude 122°14′48.80″ W; thence northwest along the shoreline back to the beginning point.
+
+(b) *Regulations.* (1) Under § 165.33, entry into or remaining in this zone is prohibited unless authorized by the Coast Guard Captain of the Port, San Francisco Bay, or his designated representative.
+
+(2) Persons desiring to transit the area of the security zone may contact the Captain of the Port at telephone number 415-399-3547 or on VHF-FM channel 16 (156.8 MHz) to seek permission to transit the area. If permission is granted, all persons and vessels must comply with the instructions of the Captain of the Port or his designated representative.
+
+(c) *Enforcement.* The Captain of the Port will enforce this security zone and may be assisted in the patrol and enforcement of this security zone by any Federal, State, county, municipal, or private agency.
+
+[COTP San Francisco Bay 05-006, 70 FR 48874, Aug. 22, 2005]

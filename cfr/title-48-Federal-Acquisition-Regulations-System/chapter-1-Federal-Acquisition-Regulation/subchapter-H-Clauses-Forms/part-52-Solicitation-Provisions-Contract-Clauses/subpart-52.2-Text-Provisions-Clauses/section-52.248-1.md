@@ -1,14 +1,12 @@
 ##### 52.248-1 Value Engineering. #####
 
-Link to an amendment published at 85 FR 27097, May 6, 2020.
-
 As prescribed in 48.201, insert the following clause:
 
-Value Engineering (OCT 2010)
+Value Engineering (JUN 2020)
 
 (a) *General.* The Contractor is encouraged to develop, prepare, and submit value engineering change proposals (VECP's) voluntarily. The Contractor shall share in any net acquisition savings realized from accepted VECP's, in accordance with the incentive sharing rates in paragraph (f) below.
 
-(b) *Definitions. Acquisition savings,* as used in this clause, means savings resulting from the application of a VECP to contracts awarded by the same contracting office or its successor for essentially the same unit. Acquisition savings include -
+(b) *Definitions. Acquisition savings,* as used in this clause, means savings resulting from the application of a VECP to contracts awarded by the same contracting office or its successor for essentially the same unit. Acquisition savings include—
 
 (1) Instant contract savings, which are the net cost reductions on this, the instant contract, and which are equal to the instant unit cost reduction multiplied by the number of instant contract units affected by the VECP, less the Contractor's allowable development and implementation costs;
 
@@ -42,11 +40,11 @@ Value Engineering (OCT 2010)
 
 *Unit,* as used in this clause, means the item or task to which the Contracting Officer and the Contractor agree the VECP applies.
 
-*Value engineering change proposal (VECP)* means a proposal that -
+*Value engineering change proposal (VECP)* means a proposal that—
 
 (1) Requires a change to this, the instant contract, to implement; and
 
-(2) Results in reducing the overall projected cost to the agency without impairing essential functions or characteristics; *provided,* that it does not involve a change -
+(2) Results in reducing the overall projected cost to the agency without impairing essential functions or characteristics; *provided,* that it does not involve a change—
 
 (i) In deliverable end item quantities only;
 
@@ -82,23 +80,16 @@ Value Engineering (OCT 2010)
 
 (f) *Sharing rates.* If a VECP is accepted, the Contractor shall share in net acquisition savings according to the percentages shown in the table below. The percentage paid the Contractor depends upon (1) this contract's type (fixed-price, incentive, or cost-reimbursement), (2) the sharing arrangement specified in paragraph (a) above (incentive, program requirement, or a combination as delineated in the Schedule), and (3) the source of the savings (the instant contract, or concurrent and future contracts), as follows:
 
-Contractor's Share of Net Acquisition Savings
-
-[Figures in Percent]
-
-|                                         Contract type                                         |        Sharing arrangement         |                     |                                    |   |
-|-----------------------------------------------------------------------------------------------|------------------------------------|---------------------|------------------------------------|---|
-|                                     Incentive (voluntary)                                     |  Program requirement (mandatory)   |                     |                                    |   |
-|                                     Instant contract rate                                     |Con-current and future contract rate|Instant contract rate|Con-current and future contract rate|   |
-| Fixed-price (includes fixed-price-award-fee; excludes other fixed-price incentive contracts)  |          <sup>1</sup> 50           |   <sup>1</sup> 50   |                 25                 |25 |
-|                    Incentive (fixed-price or cost) (other than award fee)                     |           (<sup>2</sup>)           |   <sup>1</sup> 50   |           (<sup>2</sup>)           |25 |
-|Cost-reimbursement (includes cost-plus-award-fee; excludes other cost-type incentive contracts)|          <sup>3</sup> 25           |   <sup>3</sup> 25   |                 15                 |15 |
-
-<sup>1</sup> The Contracting Officer may increase the Contractor's sharing rate to as high as 75 percent for each VECP.
-
-<sup>2</sup> Same sharing arrangement as the contract's profit or fee adjustment formula.
-
-<sup>3</sup> The Contracting Officer may increase the Contractor's sharing rate to as high as 50 percent for each VECP.
+|                                                     Contract type                                                     |        Sharing arrangement         |                     |                                    |   |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------|---------------------|------------------------------------|---|
+|                                                 Incentive (voluntary)                                                 |  Program requirement (mandatory)   |                     |                                    |   |
+|                                                 Instant contract rate                                                 |Con-current and future contract rate|Instant contract rate|Con-current and future contract rate|   |
+|             Fixed-price (includes fixed-price-award-fee; excludes other fixed-price incentive contracts)              |          <sup>1</sup> 50           |   <sup>1</sup> 50   |                 25                 |25 |
+|                                Incentive (fixed-price or cost) (other than award fee)                                 |           (<sup>2</sup>)           |   <sup>1</sup> 50   |           (<sup>2</sup>)           |25 |
+|            Cost-reimbursement (includes cost-plus-award-fee; excludes other cost-type incentive contracts)            |          <sup>3</sup> 25           |   <sup>3</sup> 25   |                 15                 |15 |
+|<sup>1</sup> The Contracting Officer may increase the Contractor's sharing rate to as high as 75 percent for each VECP.|                                    |                     |                                    |   |
+|               <sup>2</sup> Same sharing arrangement as the contract's profit or fee adjustment formula.               |                                    |                     |                                    |   |
+|<sup>3</sup> The Contracting Officer may increase the Contractor's sharing rate to as high as 50 percent for each VECP.|                                    |                     |                                    |   |
 
 (g) *Calculating net acquisition savings.* (1) Acquisition savings are realized when (i) the cost or price is reduced on the instant contract, (ii) reductions are negotiated in concurrent contracts, (iii) future contracts are awarded, or (iv) agreement is reached on a lump-sum payment for future contract savings (see subparagraph (i)(4) below). Net acquisition savings are first realized, and the Contractor shall be paid a share, when Government costs and any negative instant contract savings have been fully offset against acquisition savings.
 
@@ -108,7 +99,7 @@ Contractor's Share of Net Acquisition Savings
 
 (4) If the Government does not receive and accept all items on which it paid the Contractor's share, the Contractor shall reimburse the Government for the proportionate share of these payments.
 
-(h) *Contract adjustment.* The modification accepting the VECP (or a subsequent modification issued as soon as possible after any negotiations are completed) shall -
+(h) *Contract adjustment.* The modification accepting the VECP (or a subsequent modification issued as soon as possible after any negotiations are completed) shall—
 
 (1) Reduce the contract price or estimated cost by the amount of instant contract savings, unless this is an incentive contract;
 
@@ -120,9 +111,9 @@ Contractor's Share of Net Acquisition Savings
 
 (5) Provide the Contractor's share of any net acquisition savings under the instant contract in accordance with the following:
 
-(i) Fixed-price contracts - add to contract price.
+(i) Fixed-price contracts—add to contract price.
 
-(ii) Cost-reimbursement contracts - add to contract fee.
+(ii) Cost-reimbursement contracts—add to contract fee.
 
 (i) *Concurrent and future contract savings.* (1) Payments of the Contractor's share of concurrent and future contract savings shall be made by a modification to the instant contract in accordance with subparagraph (h)(5) above. For incentive contracts, shares shall be added as a separate firm-fixed-price line item on the instant contract. The Contractor shall maintain records adequate to identify the first delivered unit for 3 years after final payment under this contract.
 
@@ -132,7 +123,7 @@ Contractor's Share of Net Acquisition Savings
 
 (4) When the Government wishes and the Contractor agrees, the Contractor's share of future contract savings may be paid in a single lump sum rather than in a series of payments over time as future contracts are awarded. Under this alternate procedure, the future contract savings may be calculated when the VECP is accepted, on the basis of the Contracting Officer's forecast of the number of units that will be delivered during the sharing period. The Contractor's share shall be included in a modification to this contract (see subparagraph (h)(3) above) and shall not be subject to subsequent adjustment.
 
-(5) Alternate no-cost settlement method. When, in accordance with subsection 48.104-4 of the Federal Acquisition Regulation, the Government and the Contractor mutually agree to use the no-cost settlement method, the following applies:
+(5) Alternate no-cost settlement method. When, in accordance with section 48.104-4 of the Federal Acquisition Regulation (FAR), the Government and the Contractor mutually agree to use the no-cost settlement method, the following applies:
 
 (i) The Contractor will keep all the savings on the instant contract and on its concurrent contracts only.
 
@@ -142,7 +133,7 @@ Contractor's Share of Net Acquisition Savings
 
 (k) *Relationship to other incentives.* Only those benefits of an accepted VECP not rewardable under performance, design-to-cost (production unit cost, operating and support costs, reliability and maintainability), or similar incentives shall be rewarded under this clause. However, the targets of such incentives affected by the VECP shall not be adjusted because of VECP acceptance. If this contract specifies targets but provides no incentive to surpass them, the value engineering sharing shall apply only to the amount of achievement better than target.
 
-(l) *Subcontracts.* The Contractor shall include an appropriate value engineering clause in any subcontract of $150,000 or more and may include one in subcontracts of lesser value. In calculating any adjustment in this contract's price for instant contract savings (or negative instant contract savings), the Contractor's allowable development and implementation costs shall include any subcontractor's allowable development and implementation costs, and any value engineering incentive payments to a subcontractor, clearly resulting from a VECP accepted by the Government under this contract. The Contractor may choose any arrangement for subcontractor value engineering incentive payments; *provided,* that the payments shall not reduce the Government's share of concurrent or future contract savings or collateral savings.
+(l) *Subcontracts.* The Contractor shall include an appropriate value engineering clause in any subcontract-valued at or above the simplified acquisition threshold, as defined in FAR 2.101 on the date of subcontract award, and may include one in subcontracts of lesser value. In calculating any adjustment in this contract's price for instant contract savings (or negative instant contract savings), the Contractor's allowable development and implementation costs shall include any subcontractor's allowable development and implementation costs, and any value engineering incentive payments to a subcontractor, clearly resulting from a VECP accepted by the Government under this contract. The Contractor may choose any arrangement for subcontractor value engineering incentive payments; *provided,* that the payments shall not reduce the Government's share of concurrent or future contract savings or collateral savings.
 
 (m) *Data.* The Contractor may restrict the Government's right to use any part of a VECP or the supporting data by marking the following legend on the affected parts:
 
@@ -162,4 +153,4 @@ If a VECP is accepted, the Contractor hereby grants the Government unlimited rig
 
 *Alternate III* (APR 1984). When the head of the contracting activity determines that the cost of calculating and tracking collateral savings will exceed the benefits to be derived in a contract calling for a value engineering incentive, delete paragraph (j) from the basic clause and redesignate the remaining paragraphs accordingly.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 54 FR 5059, Jan. 31, 1989; 64 FR 51848, Sept. 24, 1999; 64 FR 72449, Dec. 27, 1999; 75 FR 53135, Aug. 30, 2010; 82 FR 4716, Jan. 13, 2017]
+[48 FR 42478, Sept. 19, 1983, as amended at 54 FR 5059, Jan. 31, 1989; 64 FR 51848, Sept. 24, 1999; 64 FR 72449, Dec. 27, 1999; 75 FR 53135, Aug. 30, 2010; 82 FR 4716, Jan. 13, 2017; 85 FR 27097, May 6, 2020]

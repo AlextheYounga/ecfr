@@ -1,10 +1,8 @@
 ##### 52.203-13 Contractor Code of Business Ethics and Conduct. #####
 
-Link to an amendment published at 85 FR 27091, May 6, 2020.
-
 As prescribed in 3.1004(a), insert the following clause:
 
-Contractor Code of Business Ethics and Conduct (OCT 2015)
+Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 (a) *Definitions.* As used in this clause -
 
@@ -100,8 +98,8 @@ Contractor Code of Business Ethics and Conduct (OCT 2015)
 
 (G) Full cooperation with any Government agencies responsible for audits, investigations, or corrective actions.
 
-(d) *Subcontracts.* (1) The Contractor shall include the substance of this clause, including this paragraph (d), in subcontracts that have a value in excess of $5.5 million and a performance period of more than 120 days.
+(d) *Subcontracts.* (1) The Contractor shall include the substance of this clause, including this paragraph (d), in subcontracts that exceed the threshold specified in FAR 3.1004(a) on the date of subcontract award and a performance period of more than 120 days.
 
 (2) In altering this clause to identify the appropriate parties, all disclosures of violation of the civil False Claims Act or of Federal criminal law shall be directed to the agency Office of the Inspector General, with a copy to the Contracting Officer.
 
-(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 73 FR 67091, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015]
+(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 73 FR 67091, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015; 85 FR 27091, May 6, 2020]
