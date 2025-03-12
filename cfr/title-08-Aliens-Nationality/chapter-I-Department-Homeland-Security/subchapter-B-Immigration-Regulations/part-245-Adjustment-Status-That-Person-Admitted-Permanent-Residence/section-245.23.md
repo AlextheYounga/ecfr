@@ -1,7 +1,5 @@
 ##### § 245.23 Adjustment of aliens in T nonimmigrant classification. #####
 
-Link to an amendment published at 87 FR 55639, Sept. 9, 2022.
-
 (a) *Eligibility of principal T-1 applicants.* Except as described in paragraph (c) of this section, an alien may be granted adjustment of status to that of an alien lawfully admitted for permanent residence, provided the alien:
 
 (1) Applies for such adjustment;
@@ -40,11 +38,11 @@ Link to an amendment published at 87 FR 55639, Sept. 9, 2022.
 
 (2) The alien is described in sections 212(a)(3), 212(a)(10)(C), or 212(a)(10)(E) of the Act; or
 
-(3) The alien is inadmissible under any other provisions of section 212(a) of the Act and has not obtained a waiver of inadmissibility in accordance with 8 CFR 212.18 or 214.11(j). Where the applicant establishes that the victimization was a central reason for the applicant's unlawful presence in the United States, section 212(a)(9)(B)(iii) of the Act is not applicable, and the applicant need not obtain a waiver of that ground of inadmissibility. The applicant, however, must submit with the Form I-485 evidence sufficient to demonstrate that the victimization suffered was a central reason for the unlawful presence in the United States. To qualify for this exception, the victimization need not be the sole reason for the unlawful presence but the nexus between the victimization and the unlawful presence must be more than tangential, incidental, or superficial.
+(3) The alien is inadmissible under any applicable provisions of section 212(a) of the Act and has not obtained a waiver of inadmissibility in accordance with 8 CFR 212.18 or 214.11(j). Where the alien establishes that the victimization was a central reason for the alien's unlawful presence in the United States, section 212(a)(9)(B)(iii) of the Act is not applicable, and the alien need not obtain a waiver of that ground of inadmissibility. The alien, however, must submit with the Form I-485 evidence sufficient to demonstrate that the victimization suffered was a central reason for the unlawful presence in the United States. To qualify for this exception, the victimization need not be the sole reason for the unlawful presence but the nexus between the victimization and the unlawful presence must be more than tangential, incidental, or superficial.
 
 (d) *Jurisdiction.* USCIS shall determine whether a T-1 applicant for adjustment of status under this section was lawfully admitted as a T-1 nonimmigrant and continues to hold such status, has been physically present in the United States during the requisite period, is admissible to the United States or has otherwise been granted a waiver of any applicable ground of inadmissibility, and has been a person of good moral character during the requisite period. The Attorney General shall determine whether the applicant received a reasonable request for assistance in the investigation or prosecution of acts of trafficking as defined in 8 CFR 214.11(a), and, if so, whether the applicant complied in such request. If the Attorney General determines that the applicant failed to comply with any reasonable request for assistance, USCIS shall deny the application for adjustment of status unless USCIS finds that the applicant would suffer extreme hardship involving unusual and severe harm upon removal from the United States.
 
-(e) *Application* - (1) *General.* Each T-1 principal applicant and each derivative family member who is applying for adjustment of status must file Form I-485, Application to Register Permanent Residence or Adjust Status, and
+(e) *Application*—(1) *General.* Each T-1 principal applicant and each derivative family member who is applying for adjustment of status must file Form I-485, Application to Register Permanent Residence or Adjust Status, and
 
 (i) Accompanying documents, in accordance with the form instructions;
 
@@ -100,8 +98,8 @@ Link to an amendment published at 87 FR 55639, Sept. 9, 2022.
 
 (k) *Inapplicability of 8 CFR 245.1 and 245.2.* Sections 245.1 and 245.2 of this chapter do not apply to aliens seeking adjustment of status under this section.
 
-(l) *Annual cap of T-1 principal applicant adjustments* - (1) *General.* The total number of T-1 principal applicants whose status is adjusted to that of lawful permanent residents under this section may not exceed the statutory cap in any fiscal year.
+(l) *Annual cap of T-1 principal applicant adjustments*—(1) *General.* The total number of T-1 principal applicants whose status is adjusted to that of lawful permanent residents under this section may not exceed the statutory cap in any fiscal year.
 
 (2) *Waiting list.* All eligible applicants who, due solely to the limit imposed in section 245(*l*)(4) of the Act and paragraph (m)(1) of this section, are not granted adjustment of status will be placed on a waiting list. USCIS will send the applicant written notice of such placement. Priority on the waiting list will be determined by the date the application was properly filed, with the oldest applications receiving the highest priority. In the following fiscal year, USCIS will proceed with granting adjustment of status to applicants on the waiting list who remain admissible and eligible for adjustment of status in order of highest priority until the available numbers are exhausted for the given fiscal year. After the status of qualifying applicants on the waiting list has been adjusted, any remaining numbers for that fiscal year will be issued to new qualifying applicants in the order that the applications were properly filed.
 
-[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013; 81 FR 92312, Dec. 19, 2016; 84 FR 41507, Aug. 14, 2019; 85 FR 46927, Aug. 3, 2020; 86 FR 14228, Mar. 15, 2021]
+[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013; 81 FR 92312, Dec. 19, 2016; 84 FR 41507, Aug. 14, 2019; 85 FR 46927, Aug. 3, 2020; 86 FR 14228, Mar. 15, 2021; 87 FR 55639, Sept. 9, 2022]

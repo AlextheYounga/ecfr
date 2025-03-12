@@ -1,17 +1,15 @@
-##### § 111.14 Investigation of the license applicant. #####
+##### § 111.14 Background investigation of the license applicant. #####
 
-Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
+(a) *Scope of background investigation.* A background investigation under this section will ascertain facts relevant to the question of whether the applicant is qualified and will cover, but need not be limited to:
 
-(a) *Referral of application for investigation.* The port director will immediately refer an application for an individual, partnership, association, or corporation license to the special agent in charge or other entity designated by Headquarters for investigation and report.
+(1) The accuracy of the statements made in the application and interview;
 
-(b) *Scope of investigation.* An investigation under this section will ascertain facts relevant to the question of whether the applicant is qualified and will cover, but need not be limited to:
+(2) The business integrity and financial responsibility of the applicant; and
 
-(1) The accuracy of the statements made in the application;
+(3) When the applicant is an individual (including a member of a partnership or an officer of an association or corporation), the character and reputation of the applicant, including any association with any individuals or groups that may present a risk to the security or to the revenue collection of the United States.
 
-(2) The business integrity of the applicant; and
+(b) *Referral to Headquarters.* The processing Center will forward the application and supporting documentation to the appropriate Executive Director, Office of Trade. The processing Center will also submit the recommendation for action on the application.
 
-(3) When the applicant is an individual (including a member of a partnership or an officer of an association or corporation), the character and reputation of the applicant.
+(c) *Additional inquiry.* The appropriate Executive Director, Office of Trade, may require further inquiry if additional facts are deemed necessary to evaluate the application. The appropriate Executive Director, Office of Trade, may also require the applicant (or in the case of a partnership, association, or corporation, one or more of its members or officers) to appear in person or by another approved method before the appropriate Executive Director, Office of Trade, or his or her representatives, for the purpose of undergoing further written or oral inquiry.
 
-(c) *Referral to Headquarters.* The port director will forward the originals of the application and the report of investigation to the Assistant Commissioner. The port director will also submit his recommendation for action on the application.
-
-(d) *Additional investigation or inquiry.* The Assistant Commissioner may require further investigation to be conducted if additional facts are deemed necessary to pass upon the application. The Assistant Commissioner may also require the applicant (or in the case of a partnership, association, or corporation, one or more of its members or officers) to appear in person before him or before one or more representatives of the Assistant Commissioner for the purpose of undergoing further written or oral inquiry into the applicant's qualifications for a license.
+[CBP Dec. 22-21, 87 FR 63314, Oct. 18, 2022]

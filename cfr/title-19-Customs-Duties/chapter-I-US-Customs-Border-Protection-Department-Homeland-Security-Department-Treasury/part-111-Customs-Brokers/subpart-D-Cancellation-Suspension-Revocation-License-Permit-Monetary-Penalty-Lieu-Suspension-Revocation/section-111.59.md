@@ -1,10 +1,8 @@
 ##### § 111.59 Preliminary proceedings. #####
 
-Link to an amendment published at 87 FR 63319, Oct. 18, 2022.
+(a) *Opportunity to participate.* The processing Center will advise the broker of his opportunity to participate in preliminary proceedings with an opportunity to avoid formal proceedings against his license or permit.
 
-(a) *Opportunity to participate.* The port director will advise the broker of his opportunity to participate in preliminary proceedings with an opportunity to avoid formal proceedings against his license or permit.
-
-(b) *Notice of preliminary proceedings.* The port director will serve upon the broker, in the manner set forth in § 111.63, written notice that:
+(b) *Notice of preliminary proceedings.* The processing Center will serve upon the broker, in the manner set forth in § 111.63, written notice that:
 
 (1) Transmits a copy of the proposed statement of charges;
 
@@ -23,3 +21,5 @@ Link to an amendment published at 87 FR 63319, Oct. 18, 2022.
 (8) Specifies the place where the broker may respond in writing; and
 
 (9) Advises the broker that the response must be received within 30 calendar days of the date of the notice.
+
+[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 22-21, 87 FR 63319, Oct. 18, 2022]

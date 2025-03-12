@@ -1,8 +1,6 @@
-##### § 111.16 Denial of license. #####
+##### § 111.16 Denial of a license. #####
 
-Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
-
-(a) *Notice of denial.* If the Assistant Commissioner determines that the application for a license should be denied for any reason, notice of denial will be given by him to the applicant and to the director of the port at which the application was filed. The notice of denial will state the reasons why the license was not issued.
+(a) *Notice of denial.* If the appropriate Executive Director, Office of Trade, determines that the application for a license should be denied for any reason, notice of denial will be given by him or her to the applicant and to the processing Center. The notice of denial will state the reasons why the license was not issued.
 
 (b) *Grounds for denial.* The grounds sufficient to justify denial of an application for a license include, but need not be limited to:
 
@@ -10,10 +8,16 @@ Link to an amendment published at 87 FR 63314, Oct. 18, 2022.
 
 (2) The failure to meet any requirement set forth in § 111.11;
 
-(3) A failure to establish the business integrity and good character of the applicant;
+(3) A failure to establish the business integrity and financial responsibility of the applicant;
 
-(4) Any willful misstatement of pertinent facts in the application for the license;
+(4) A failure to establish the good character and reputation of the applicant;
 
-(5) Any conduct which would be deemed unfair in commercial transactions by accepted standards; or
+(5) Any willful misstatement or omission of pertinent facts in the application or interview for the license;
 
-(6) A reputation imputing to the applicant criminal, dishonest, or unethical conduct, or a record of that conduct.
+(6) Any conduct which would be deemed unfair or detrimental in commercial transactions by accepted standards;
+
+(7) A reputation imputing to the applicant criminal, dishonest, or unethical conduct, or a record of that conduct; or
+
+(8) Any other relevant information uncovered over the course of the background investigation.
+
+[CBP Dec. 22-21, 87 FR 63314, Oct. 18, 2022]

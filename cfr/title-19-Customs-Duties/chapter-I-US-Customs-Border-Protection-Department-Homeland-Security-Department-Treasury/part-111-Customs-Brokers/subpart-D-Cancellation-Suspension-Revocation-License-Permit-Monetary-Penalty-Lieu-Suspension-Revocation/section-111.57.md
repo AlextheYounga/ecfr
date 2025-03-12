@@ -1,5 +1,5 @@
-##### § 111.57 Determination by Assistant Commissioner. #####
+##### § 111.57 Determination by appropriate Executive Director, Office of Trade. #####
 
-Link to an amendment published at 87 FR 63319, Oct. 18, 2022.
+The appropriate Executive Director, Office of Trade, will make a determination on whether or not charges should be preferred, and will notify the processing Center of the decision.
 
-The Assistant Commissioner will make a determination on whether or not charges should be preferred, and he will notify the port director of his decision.
+[CBP Dec. 22-21, 87 FR 63319, Oct. 18, 2022]

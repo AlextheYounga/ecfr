@@ -1,5 +1,7 @@
 ##### § 138.230 Limits of liability. #####
 
+Link to an amendment published at 87 FR 78864, Dec. 23, 2022.
+
 (a) *Vessels.* (1) The OPA 90 limits of liability for tank vessels, other than edible oil tank vessels and oil spill response vessels, are -
 
 (i) For a single-hull tank vessel greater than 3,000 gross tons, the greater of $3,700 per gross ton or $27,422,200;

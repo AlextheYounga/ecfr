@@ -1,6 +1,6 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 87 FR 71529, Nov. 23, 2022.Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
+Link to an amendment published at 87 FR 75885, Dec. 9, 2022.
 
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
@@ -388,6 +388,8 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 (vi) Land or possess, after offloading, any cage holding surfclams or ocean quahogs without a cage tag or tags required by § 648.77, unless the person can demonstrate the inapplicability of the presumptions set forth in § 648.77(h).
 
 (vii) Sell null and void tags.
+
+(viii) Take action to circumvent an ITQ quota share cap or cage tag cap specified in 648.74(a)(2) or fail to take corrective action if such cap is exceeded inadvertently.
 
 (4) *VMS requirements.* (i) Fail to maintain an operational VMS unit as specified in § 648.9, and comply with any of the notification requirements specified in § 648.15(b) including:
 

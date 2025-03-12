@@ -1,9 +1,7 @@
 ##### § 111.92 Notice of monetary penalty. #####
 
-Link to an amendment published at 87 FR 63321, Oct. 18, 2022.
-
-(a) *Pre-penalty notice.* If assessment of a monetary penalty under § 111.91 is contemplated, Customs will issue a written notice which advises the broker or other person of the allegations or complaints against him and explains that the broker or other person has a right to respond to the allegations or complaints in writing within 30 days of the date of mailing of the notice. The Fines, Penalties, and Forfeitures Officer has discretion to provide additional time for good cause.
+(a) *Pre-penalty notice.* If assessment of a monetary penalty under § 111.91 is contemplated, CBP will issue a written notice which advises the broker or other person of the allegations or complaints against him and explains that the broker or other person has a right to respond to the allegations or complaints in writing within 30 days of the date of mailing of the notice. The Fines, Penalties, and Forfeitures Officer has discretion to provide additional time for good cause.
 
 (b) *Penalty notice.* If the broker or other person files a timely response to the written notice of the allegations or complaints, the Fines, Penalties, and Forfeiture Officer will review this response and will either cancel the case, issue a notice of penalty in an amount which is lower than that provided for in the written notice of allegations or complaints or issue a notice of penalty in the same amount as that provided in the written notice of allegations or complaints. If no response is received from the broker or other person, the Fines, Penalties, and Forfeitures Officer will issue a notice of penalty in the same amount as that provided in the written notice of allegations or complaints.
 
-[T.D. 00-57, 65 FR 53575, Sept. 5, 2000]
+[T.D. 00-57, 65 FR 53575, Sept. 5, 2000, as amended by CBP Dec. 22-21, 87 FR 63321, Oct. 18, 2022]

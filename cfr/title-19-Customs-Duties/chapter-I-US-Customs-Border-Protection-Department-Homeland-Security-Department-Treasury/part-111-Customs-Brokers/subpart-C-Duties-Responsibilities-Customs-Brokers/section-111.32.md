@@ -1,5 +1,5 @@
 ##### § 111.32 False information. #####
 
-Link to an amendment published at 87 FR 63318, Oct. 18, 2022.
+A broker must not file or procure or assist in the filing of any claim, or of any document, affidavit, or other papers, known by such broker to be false. In addition, a broker must not give, or solicit or procure the giving of, any information or testimony that the broker knew or should have known was false or misleading in any matter pending before the Department of Homeland Security or to any representative of the Department of Homeland Security. A broker also must document and report to CBP when the broker separates from or cancels representation of a client as a result of determining the client is intentionally attempting to use the broker to defraud the U.S. Government or commit any criminal act against the U.S. Government. The report to CBP must include the client name, date of separation or cancellation, and reason for the separation or cancellation.
 
-A broker must not file or procure or assist in the filing of any claim, or of any document, affidavit, or other papers, known by such broker to be false. In addition, a broker must not knowingly give, or solicit or procure the giving of, any false or misleading information or testimony in any matter pending before the Department of Homeland Security or any representative of the Department of Homeland Security.
+[CBP Dec. 22-21, 87 FR 63318, Oct. 18, 2022]
