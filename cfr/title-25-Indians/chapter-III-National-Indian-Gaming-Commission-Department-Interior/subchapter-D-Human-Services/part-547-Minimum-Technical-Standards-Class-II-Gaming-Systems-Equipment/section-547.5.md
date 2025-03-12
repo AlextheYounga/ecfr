@@ -4,11 +4,11 @@
 
 (i) The Class II gaming system software that affects the play of the Class II game, together with the signature verification required by § 547.8(f) was submitted to a testing laboratory within 120 days after November 10, 2008, or October 22, 2012;
 
-(ii) The testing laboratory tested the submission to the standards established by § 547.8(b), § 547.8(f), and § 547.14;
+(ii) The testing laboratory tested the submission to the standards established by §§ 547.8(b), 547.8(f), and 547.14;
 
 (iii) The testing laboratory provided the TGRA with a formal written report setting forth and certifying to the findings and conclusions of the test;
 
-(iv) The TGRA made a finding, in the form of a certificate provided to the supplier or manufacturer of the Class II gaming system, that the Class II gaming system is compliant with § 547.8(b), § 547.8(f), and § 547.14;
+(iv) The TGRA made a finding, in the form of a certificate provided to the supplier or manufacturer of the Class II gaming system, that the Class II gaming system is compliant with §§ 547.8(b), 547.8(f), and 547.14;
 
 (v) The Class II gaming system is only used as approved by the TGRA and the TGRA transmitted its notice of that approval, identifying the Class II gaming system and its components, to the Commission;
 
@@ -26,7 +26,7 @@
 
 (3) If the Class II gaming system is subsequently approved by the TGRA pursuant to paragraph (b)(1)(v) as compliant with paragraph (b) of this section, this paragraph (a) no longer applies.
 
-(b) *Gaming system submission, testing, and approval - generally.* (1) Except as provided in paragraph (a) of this section, a TGRA may not permit the use of any Class II gaming system in a tribal gaming operation unless:
+(b) *Gaming system submission, testing, and approval—generally.* (1) Except as provided in paragraph (a) of this section, a TGRA may not permit the use of any Class II gaming system in a tribal gaming operation unless:
 
 (i) The Class II gaming system has been submitted to a testing laboratory;
 

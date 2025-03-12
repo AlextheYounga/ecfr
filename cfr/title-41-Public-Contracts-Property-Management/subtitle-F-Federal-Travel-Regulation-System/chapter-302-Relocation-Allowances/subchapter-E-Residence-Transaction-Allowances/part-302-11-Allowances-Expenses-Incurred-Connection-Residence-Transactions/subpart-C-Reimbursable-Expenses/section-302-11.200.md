@@ -1,7 +1,5 @@
 ##### § 302-11.200 What residence transaction expenses will my agency pay? #####
 
-Link to an amendment published at 83 FR 30079, June 27, 2018.
-
 Provided the residence transaction expenses are customarily charged to the seller of a residence in the locality of the old official station or paid by the purchaser at the new official station, your agency will, with appropriate supporting documentation provided by you, reimburse you for the following residence transaction expenses when they are incurred by you incident to your relocation:
 
 (a) Your broker's fee or real estate commission that you pay in the sale of your residence at the last official station, not to exceed the rates that are generally charged in the locality of your old official station;
@@ -26,7 +24,7 @@ Provided the residence transaction expenses are customarily charged to the selle
 
 (f) The following “other” miscellaneous expenses in connection with the sale and/or purchase of your residence, provided they are normally paid by the seller or the purchaser in the locality of the residence, to the extent that they do not exceed specifically stated limitations, or if not specifically stated, the amounts customarily paid in the locality of the residence:
 
-(1) FHA or VA fees for the loan application;
+(1) Federal Housing Administration (FHA) or VA fees for the loan application;
 
 (2) Loan origination fees and similar charges such as loan assumption fees, loan transfer fees or other similar charges not to exceed 1 percent of the loan amount without itemization of the lender's administrative charges (unless requirements in § 302-11.201 are met), if the charges are assessed in lieu of a loan origination fee and reflects charges for services similar to those covered by a loan origination fee;
 
@@ -50,4 +48,4 @@ Provided the residence transaction expenses are customarily charged to the selle
 
 (12) Other expenses of sale and purchase made for required services that are customarily paid by the seller of a residence at the old official station or if customarily paid by the purchaser of a residence at the new official station.
 
-[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-01, 76 FR 18343, Apr. 1, 2011]
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2011-01, 76 FR 18343, Apr. 1, 2011; FTR Amdt. 2018-01, 83 FR 30079, June 27, 2018]

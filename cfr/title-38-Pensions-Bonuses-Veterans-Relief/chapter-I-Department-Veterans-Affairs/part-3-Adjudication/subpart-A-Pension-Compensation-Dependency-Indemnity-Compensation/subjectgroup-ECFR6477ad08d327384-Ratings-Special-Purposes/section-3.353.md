@@ -1,12 +1,10 @@
 ##### § 3.353 Determinations of incompetency and competency. #####
 
-Link to an amendment published at 83 FR 32738, July 13, 2018.
-
 (a) *Definition of mental incompetency.* A mentally incompetent person is one who because of injury or disease lacks the mental capacity to contract or to manage his or her own affairs, including disbursement of funds without limitation.
 
-(b) *Authority.* (1) Rating agencies have sole authority to make official determinations of competency and incompetency for purposes of: insurance (38 U.S.C. 1922), and, subject to § 13.56 of this chapter, disbursement of benefits. Such determinations are final and binding on field stations for these purposes.
+(b) *Authority.* (1) Rating agencies have sole authority to make official determinations of competency and incompetency for purposes of: insurance (38 U.S.C. 1922), and, subject to § 13.110 of this chapter, disbursement of benefits. Such determinations are final and binding on field stations for these purposes.
 
-(2) Where the beneficiary is rated incompetent, the Veterans Service Center Manager will develop information as to the beneficiary's social, economic and industrial adjustment; appoint (or recommend appointment of) a fiduciary as provided in § 13.55 of this chapter; select a method of disbursing payment as provided in § 13.56 of this chapter, or in the case of a married beneficiary, appoint the beneficiary's spouse to receive payments as provided in § 13.57 of this chapter; and authorize disbursement of the benefit.
+(2) Where the beneficiary is rated incompetent, the Veterans Service Center Manager will develop information as to the beneficiary's social, economic and industrial adjustment; appoint (or recommend appointment of) a fiduciary as provided in § 13.100 of this chapter; select a method of disbursing payment as provided in § 13.100 of this chapter, or in the case of a married beneficiary, appoint the beneficiary's spouse to receive payments as provided in § 13.100 of this chapter; and authorize disbursement of the benefit.
 
 (3) If in the course of fulfilling the responsibilities assigned in paragraph (b)(2) the Veterans Service Center Manager develops evidence indicating that the beneficiary may be capable of administering the funds payable without limitation, he or she will refer that evidence to the rating agency with a statement as to his or her findings. The rating agency will consider this evidence, together with all other evidence of record, to determine whether its prior determination of incompetency should remain in effect. Reexamination may be requested as provided in § 3.327(a) if necessary to properly evaluate the beneficiary's mental capacity to contract or manage his or her own affairs.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 83 FR 32738, July 13, 2018.
 
 (e) *Due process.* Whenever it is proposed to make an incompetency determination, the beneficiary will be notified of the proposed action and of the right to a hearing as provided in § 3.103. Such notice is not necessary if the beneficiary has been declared incompetent by a court of competent jurisdiction or if a guardian has been appointed for the beneficiary based upon a court finding of incompetency. If a hearing is requested it must be held prior to a rating decision of incompetency. Failure or refusal of the beneficiary after proper notice to request or cooperate in such a hearing will not preclude a rating decision based on the evidence of record.
 
-(Authority: 38 U.S.C. 501(a))[36 FR 19020, Sept. 25, 1971, and 40 FR 1241, Jan. 7, 1975, as amended at 42 FR 2069, Jan. 10, 1977; 58 FR 37856, July 14, 1993; 60 FR 55792, Nov. 3, 1995; 66 FR 48560, Sept. 21, 2001; 67 FR 46868, July 17, 2002; 68 FR 34542, June 10, 2003]
+(Authority: 38 U.S.C. 501(a))[36 FR 19020, Sept. 25, 1971, and 40 FR 1241, Jan. 7, 1975, as amended at 42 FR 2069, Jan. 10, 1977; 58 FR 37856, July 14, 1993; 60 FR 55792, Nov. 3, 1995; 66 FR 48560, Sept. 21, 2001; 67 FR 46868, July 17, 2002; 68 FR 34542, June 10, 2003; 83 FR 32738, July 13, 2018]

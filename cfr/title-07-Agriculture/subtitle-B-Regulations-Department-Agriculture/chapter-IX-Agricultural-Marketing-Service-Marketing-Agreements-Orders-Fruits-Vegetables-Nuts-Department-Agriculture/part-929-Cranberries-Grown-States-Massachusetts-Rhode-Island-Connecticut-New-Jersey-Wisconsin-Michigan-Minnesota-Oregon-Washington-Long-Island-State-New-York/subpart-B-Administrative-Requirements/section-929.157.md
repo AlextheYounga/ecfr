@@ -1,3 +1,17 @@
-##### § 929.157 xxx #####
+##### § 929.157 Handler diversion. #####
 
-Link to an amendment published at 83 FR 32197, July 12, 2018.
+(a) *Methods of diversion.* Handlers may divert cranberries by disposing of cranberries or cranberry products. Diversion by disposal may take place prior to placing the cranberries into the processing line or after processing. Handlers may also divert cranberries or cranberry products to approved, noncompetitive outlets for withheld fruit. Whole berries or processed products diverted must come from the current crop year. Any information collected of a confidential and/or proprietary nature would be held in confidence pursuant to § 929.65.
+
+(1) *Diversion through disposal.* This type of diversion is to be carried out under the supervision of the Committee, and the cost of such supervision is to be paid by the handler. Handlers shall notify the Committee of their intent to dispose of cranberries or cranberry products using Form CMC-DISP as specified in § 929.162(c). Following notification, a Committee inspector will meet with the handler to verify the documentation provided and, when possible, witness the destruction. The Committee inspector may request receipts, visual proof, or any other information needed to support the disposal as reported. Once the verification process has been completed, the Committee inspector will sign the certification section of Form CMC-DISP and return it to the Committee.
+
+(2) *Diversion through noncompetitive outlets.* To divert cranberries or cranberry products to a noncompetitive outlet, handlers must apply to the Committee using Form CMC-OUT as specified in § 929.162(d) prior to each disposal activity of this type. The Committee will review the information and approve or disapprove the diversion request. Once the cranberries or cranberry products are delivered to the approved noncompetitive outlets, the Committee must receive satisfactory documentation of the transaction using Form CMC-CONF as specified in § 929.162(e).
+
+(b) *Committee notification and handler plan.* Any handler intending to divert cranberries or cranberry products pursuant to § 929.54 must notify the Committee of such intent and provide a plan by June 1 that shows how the handler intends to meet the restricted percentage obligation. The handler shall submit this plan using Form CMC-JUNE as specified in the reporting requirements under § 929.162(a). The handler will have until August 31 to fulfill the plan, by which time the handler shall submit a final report detailing how the restricted percentage obligation was met using Form CMC-AUG as specified in § 929.162(b).
+
+(c) *Request for review.* (1) If a handler is dissatisfied with a determination made by the Committee which affects such handler, the handler may submit to the Committee within 30 days after receipt of the Committee's determination, a request for a review by an appeals subcommittee composed of two independent growers and two cooperative representatives, as well as a public member. The appeals subcommittee shall be appointed by the Committee chairperson. The handler may forward with the request any pertinent materials for consideration of the appeal.
+
+(2) The subcommittee shall review the information submitted by the handler and render a decision within 30 days of receipt of such appeal. The subcommittee shall notify the handler of its decision, accompanied by the reasons for its conclusions and findings.
+
+(3) The handler may further appeal to the Secretary, within 15 days after notification of the subcommittee's findings, if such handler is not satisfied with the appeals subcommittee's decision. The Committee shall forward a file to the Secretary with all pertinent information related to the handler's appeal. The Secretary shall inform the handler and all interested parties of the Secretary's decision. All decisions by the Secretary are final.
+
+[83 FR 32197, July 12, 2018]

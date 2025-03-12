@@ -1,7 +1,5 @@
 ##### § 49.22 Chief compliance officer. #####
 
-Link to an amendment published at 83 FR 27439, June 12, 2018.
-
 (a) *Definition of Board of Directors.* For purposes of this part 49, the term “board of directors” means the board of directors of a registered swap data repository, or for those swap data repositories whose organizational structure does not include a board of directors, a body performing a function similar to that of a board of directors.
 
 (b) *Designation and qualifications of chief compliance officer* - (1) *Chief Compliance Officer required.* Each registered swap data repository shall establish the position of chief compliance officer, and designate an individual to serve in that capacity.
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 27439, June 12, 2018.
 
 (3) Establishing and administering written policies and procedures reasonably designed to prevent violation of the Act and any rules adopted by the Commission;
 
-(4) Taking reasonable steps to ensure compliance with the Act and Commission regulations relating to agreements, contracts, or transactions, and with Commission regulations under Section 21 of the Act, including confidentiality and indemnification agreements entered into with foreign or domestic regulators pursuant to Section 21(d) of the Act;
+(4) Taking reasonable steps to ensure compliance with the Act and Commission regulations relating to agreements, contracts, or transactions, and with Commission regulations under Section 21 of the Act, including confidentiality arrangements received by the chief compliance officer's registered swap depository pursuant to § 49.18(a);
 
 (5) Establishing procedures for the remediation of noncompliance issues identified by the chief compliance officer through a compliance office review, look-back, internal or external audit finding, self-reported error, or validated complaint;
 
@@ -89,3 +87,5 @@ Link to an amendment published at 83 FR 27439, June 12, 2018.
 (B) Contain conclusions, opinions, analyses, or financial data related to the annual compliance report.
 
 (2) The registered swap data repository shall maintain records in accordance with § 1.31 of this chapter.
+
+[76 FR 54575, Sept. 1, 2011, as amended at 83 FR 27439, June 12, 2018]

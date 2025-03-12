@@ -6,4 +6,4 @@
 
 (c) *Combination of visual field defect and decreased visual acuity.* To determine the evaluation for visual impairment when both decreased visual acuity and visual field defect are present in one or both eyes and are service connected, separately evaluate the visual acuity and visual field defect (expressed as a level of visual acuity), and combine them under the provisions of § 4.25.
 
-![](/graphics/ec04no91.006.gif)(Authority: 38 U.S.C. 1155)[53 FR 30262, Aug. 11, 1988, as amended at 73 FR 66549, Nov. 10, 2008; 74 FR 7648, Feb. 19, 2009; 83 FR 15320, May 14, 2018]
+![](/graphics/ec04no91.006.gif)(Authority: 38 U.S.C. 1155)[53 FR 30262, Aug. 11, 1988, as amended at 73 FR 66549, Nov. 10, 2008; 74 FR 7648, Feb. 19, 2009; 83 FR 15320, Apr. 10, 2018]

@@ -186,9 +186,9 @@
 
 (i) The value determined in paragraph (f)(1)(i)(A) of this section if using appendix M to subpart B of part 430 or the value determined in paragraph (f)(1)(i)(B) of this section if using appendix M1 to subpart B of part 430;
 
-(A) the quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(iii) of this section, divided by the represented value of SEER, in Btu's per watt-hour, as determined in paragraph (b)(3)(ii) of this section;
+(A) The quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(iii) of this section, divided by the represented value of SEER, in Btu's per watt-hour, as determined in paragraph (b)(3)(ii) of this section;
 
-(B) the quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(i)(C) of this section, and multiplied by 0.93 for variable-speed heat pumps only, divided by the represented value of SEER2, in Btu's per watt-hour, as determined in paragraph (b)(3)(i)(B) of this section.
+(B) The quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(i)(C) of this section, and multiplied by 0.93 for variable-speed heat pumps only, divided by the represented value of SEER2, in Btu's per watt-hour, as determined in paragraph (b)(3)(i)(B) of this section.
 
 (ii) The representative average use cycle for cooling of 1,000 hours per year;
 
@@ -228,15 +228,15 @@
 
 (i) The value determined in paragraph (f)(4)(i)(A) of this section if using appendix M to subpart B of part 430 or the value determined in paragraph (f)(4)(i)(B) of this section if using appendix M1 to subpart B of part 430;
 
-(A) the quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(iii) of this section, divided by the represented value of SEER, in Btu's per watt-hour, as determined in paragraph (b)(3)(ii) of this section;
+(A) The quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(iii) of this section, divided by the represented value of SEER, in Btu's per watt-hour, as determined in paragraph (b)(3)(ii) of this section;
 
-(B) the quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(i)(C) of this section, and multiplied by 0.93 for variable-speed heat pumps only, divided by the represented value of SEER2, in Btu's per watt-hour, as determined in paragraph (b)(3)(i)(B) of this section;
+(B) The quotient of the represented value of cooling capacity, in Btu's per hour as determined in paragraph (b)(3)(i)(C) of this section, and multiplied by 0.93 for variable-speed heat pumps only, divided by the represented value of SEER2, in Btu's per watt-hour, as determined in paragraph (b)(3)(i)(B) of this section;
 
 (ii) The value determined in paragraph (f)(4)(ii)(A) of this section if using appendix M to subpart B of part 430 or the value determined in paragraph (f)(4)(ii)(B) of this section if using appendix M1 to subpart B of part 430;
 
-(A) the estimated number of regional cooling load hours per year determined from Table 22 in section 4.4 of appendix M to subpart B of part 430;
+(A) The estimated number of regional cooling load hours per year determined from Table 22 in section 4.4 of appendix M to subpart B of part 430;
 
-(B) the estimated number of regional cooling load hours per year determined from Table 21 in section 4.4 of appendix M1 to subpart B of part 430;
+(B) The estimated number of regional cooling load hours per year determined from Table 21 in section 4.4 of appendix M1 to subpart B of part 430;
 
 (iii) A conversion factor of 0.001 kilowatts per watt; and
 
@@ -272,4 +272,4 @@
 
 (7) *Annual Operating Cost - Rounding.* Round any represented values of estimated annual operating cost determined in paragraphs (f)(1) through (6) of this section to the nearest dollar per year.
 
-[81 FR 37049, June 8, 2016, as amended by T.D. 9782, 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017]Effective Date Note:At 82 FR 32227, July 13, 2017, as of July 3, 2017, § 429.16(a)(3)(i) was stayed indefinitely.
+[81 FR 37049, June 8, 2016, as amended by T.D. 9782, 81 FR 55112, Aug. 18, 2016; 82 FR 1468, Jan. 5, 2017]

@@ -1,7 +1,5 @@
 ##### § 3.500 General. #####
 
-Link to an amendment published at 83 FR 32738, July 13, 2018.
-
 The effective date of a rating which results in the reduction or discontinuance of an award will be in accordance with the facts found except as provided in § 3.105. The effective date of reduction or discontinuance of an award of pension, compensation, or dependency and indemnity compensation for a payee or dependent will be the earliest of the dates stated in these paragraphs unless otherwise provided. Where an award is reduced, the reduced rate will be effective the day following the date of discontinuance of the greater benefit.
 
 (Authority: 38 U.S.C. 5112(b))
@@ -42,9 +40,7 @@ The effective date of a rating which results in the reduction or discontinuance 
 
 (k) *Fraud (38 U.S.C. 6103(a), (d); §§ 3.669 and 3.901).* Beginning date of award or day preceding date of fraudulent act, whichever is later.
 
-(l) *Guardian, marriage or divorce of (§ 3.856).* Date of last payment (pending receipt of information as to change of name).
-
-(m) *Incompetency* (§ *3.855*). Date of last payment.
+(l)-(m) [Reserved]
 
 (n) *Marriage (or remarriage)* (38 U.S.C. 101(3), 5112 (b)) - (1) *Payee* (*includes apportionee*). Last day of month before marriage.
 

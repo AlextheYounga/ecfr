@@ -1,7 +1,5 @@
 ##### § 49.9 Duties of registered swap data repositories. #####
 
-Link to an amendment published at 83 FR 27436, June 12, 2018.
-
 (a) *Duties.* To be registered, and maintain registration, as a swap data repository, a registered swap data repository shall:
 
 (1) Accept swap data as prescribed in § 49.10 for each swap;
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 27436, June 12, 2018.
 
 (8) Maintain the privacy of any and all swap data and any other related information that the swap data repository receives from a reporting entity as prescribed in § 49.16;
 
-(9) Upon request of certain appropriate domestic and foreign regulators, provide access to swap data and information held and maintained by the swap data repository as prescribed in § 49.17;
+(9) Upon request of Appropriate Domestic Regulators and Appropriate Foreign Regulators, provide access to swap data held and maintained by the swap data repository, as prescribed in § 49.17;
 
 (10) Adopt and establish appropriate emergency policies and procedures, including business continuity and disaster recovery plans, as prescribed in §§ 49.23 and 49.24.
 
@@ -29,3 +27,5 @@ Link to an amendment published at 83 FR 27436, June 12, 2018.
 (12) Subject itself to inspection and examination by the Commission.
 
 (b) This Regulation is not intended to limit, or restrict, the applicability of other provisions of the Act, including, but not limited to, Section 2(a)(13) of the Act and rules and regulations promulgated thereunder.
+
+[76 FR 54575, Sept. 1, 2011, as amended at 83 FR 27436, June 12, 2018]

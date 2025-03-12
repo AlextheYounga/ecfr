@@ -8,4 +8,4 @@
 
 (3) When diplopia exists in two separate areas of the same eye, increase the equivalent visual acuity under diagnostic code 6090 to the next poorer level of visual acuity, not to exceed 5/200.
 
-(Authority: 38 U.S.C. 1155)[73 FR 66550, Nov. 10, 2008, as amended at 83 FR 15320, Apr. 10, 2018]
+(Authority: 38 U.S.C. 1155)[73 FR 66550, Nov. 10, 2008, as amended at 83 FR 15321, Apr. 10, 2018]

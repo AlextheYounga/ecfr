@@ -1,8 +1,10 @@
 ##### § 3.1702 Persons who may receive burial benefits; priority of payments. #####
 
-(a) *Automatic payments to eligible surviving spouse.* On or after July 7, 2014, VA will automatically pay a burial benefit to an eligible surviving spouse when VA is able to determine eligibility based on evidence of record as of the date of the veteran's death. VA may grant additional burial benefits, including the plot or interment allowance, reimbursement for transportation, and the service-connected burial allowance under § 3.1704, to the surviving spouse or any other eligible person in accordance with paragraph (b) of this section and based on a claim described in § 3.1703.
+(a) *Automatic payments to surviving spouses of eligible deceased veterans.* (1) On or after July 7, 2014, VA may automatically pay a burial benefit to an eligible veteran's surviving spouse, whether or not previously established as a dependent spouse on the deceased veteran's compensation or pension award, when VA knows of or is informed of the existence of the surviving spouse, can establish the surviving spouse's relationship under § 3.204 (when applicable), and is able to determine burial benefits eligibility based on evidence of record at the time VA updates its computer system to reflect the veteran's date of death.
 
-(b) *Priority of payments - claims received on or after July 7, 2014.* (1) Except for claims a State, or an agency or political subdivision of a State, files under § 3.1707, Plot or interment allowance for burial in a State veterans cemetery or other cemetery, or § 3.1708, Burial of a veteran whose remains are unclaimed, VA will pay, upon the death of a veteran, the first living person to file of those listed below:
+(2) VA may grant additional burial benefits, including the plot or interment allowance, reimbursement for transportation, and the service-connected burial allowance under § 3.1704, to the surviving spouse or any other eligible person in accordance with paragraph (b) of this section and based on a claim described in § 3.1703.
+
+(b) *Priority of payments—claims received on or after July 7, 2014.* (1) Except for claims a State, or an agency or political subdivision of a State, files under § 3.1707, Plot or interment allowance for burial in a State veterans cemetery or other cemetery, or § 3.1708, Burial of a veteran whose remains are unclaimed, VA will pay, upon the death of a veteran, the first living person to file of those listed below:
 
 (i) His or her surviving spouse;
 
@@ -24,7 +26,7 @@
 
 (3) VA will pay burial benefits to a single representative of the categories in paragraph (b)(1) of this section. VA will not divide applicable burial benefits among claimants; it is the responsibility of the recipient to distribute benefits as may be required.
 
-(c) Priority of payments - claims received before July 7, 2014.
+(c) Priority of payments—claims received before July 7, 2014.
 
 (1) Claims for burial allowance may be executed by:
 
@@ -44,4 +46,4 @@
 
 (iv) The executor or administrator of the estate of the veteran or the estate of the person who bore the expense of the plot or interment expenses. If no executor or administrator has been appointed, claim for the plot or interment allowance may be filed as provided in paragraph (c)(1)(iii) of this section for the burial allowance.
 
-(Authority: 38 U.S.C. 2302, 2303, 2307)Cross Reference: § 3.1(i) for the definition of “State”.
+(Authority: 38 U.S.C. 2302, 2303, 2307)Cross Reference: § 3.1(i) for the definition of “State”.[79 FR 32658, June 6, 2014, as amended at 83 FR 39888, Aug. 13, 2018]

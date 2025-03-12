@@ -400,8 +400,6 @@ Staff consultations required by rules and regulations of the medical staff of a 
 
 *Long Term Care Hospital (LTCH).* A hospital that is classified by the Centers for Medicare and Medicaid Services (CMS) as an LTCH and meets the applicable requirements established by § 199.6(b)(4)(v) (which includes the requirement to be a Medicare participating provider).
 
-*Long-term hospital care.* Any inpatient hospital stay that exceeds 30 days.
-
 *Low-risk pregnancy.* A pregnancy is low-risk when the basis for the ongoing clinical expectation of a normal uncomplicated birth, as defined by reasonable and generally accepted criteria of maternal and fetal health, is documented throughout a generally accepted course of prenatal care.
 
 *Major life activity.* Breathing, cognition, hearing, seeing, and age appropriate ability essential to bathing, dressing, eating, grooming, speaking, stair use, toilet use, transferring, and walking.
@@ -764,6 +762,4 @@ Unless the veteran is eligible for “retired pay,” “retirement pay,” or �
 
 *X-ray services.* An x-ray examination from which an x-ray film or other image is produced, ordered by the attending physician when necessary and rendered in connection with a medical or surgical diagnosis or treatment of an illness or injury, or in connection with maternity or well-baby care.
 
-[51 FR 24008, July 1, 1986]Editorial Notes:1. At 66 FR 45172, Aug. 28, 2001, § 199.2, was amended in part by revising the definition of “Director, OCHAMPUS”; however, this amendment could not be incorporated due to inaccurate amendatory instruction.
-
-2. For Federal Register citations affecting § 199.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

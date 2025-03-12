@@ -1,7 +1,5 @@
 ##### § 300-3.1 What do the following terms mean? #####
 
-Link to an amendment published at 83 FR 30078, June 27, 2018.
-
 *Accompanied baggage* - Government property and personal property of the traveler necessary for official travel.
 
 *Actual expense* - Payment of authorized actual expenses incurred, up to the limit prescribed by the Administrator of GSA or agency, as appropriate. Entitlement to reimbursement is contingent upon entitlement to per diem, and is subject to the same definitions and rules governing per diem.
@@ -32,7 +30,7 @@ Link to an amendment published at 83 FR 30078, June 27, 2018.
 
 *Appraised value sale* - Type of home sale transaction that occurs when the relocating employee accepts the offer from the RSC to buy the employee's home based upon the average of a specific number of appraisals conducted by designated certified appraisers.
 
-*Approved accommodation* - Any place of public lodging that is listed on the national master list of approved accommodations. The national master list of all approved accommodations is compiled, periodically updated, and published in the Federal Register by FEMA. Additionally, the approved accommodation list is available on the U.S. Fire Administration's Internet site at *http://www.usfa.fema.gov/hotel/index.htm.*
+*Approved accommodation* - Any place of public lodging that is listed on the national master list of approved accommodations. The national master list of all approved accommodations is compiled, periodically updated, and published in the Federal Register by the Federal Emergency Management Agency (FEMA). Additionally, the approved accommodation list is available on the U.S. Fire Administration's internet site at *https://apps.usfa.fema.gov/hotel/*.
 
 *Automated-Teller-Machine (ATM) services* - Government contractor-provided ATM services that allow cash withdrawals from participating ATMs to be charged to a Government contractor-issued charge card.
 
@@ -350,4 +348,4 @@ Certain jurisdictions may have limits or prohibit the operation or use of innova
 
 *United States* - The 48 contiguous States, the District of Columbia and the States and areas defined under the term “Non-Foreign Area.”
 
-[FTR Amdt. 70, 63 FR 15951, Apr. 1, 1998]Editorial Note:For Federal Register citations affecting § 300-3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[FTR Amdt. 70, 63 FR 15951, Apr. 1, 1998]Editorial Note:For Federal Register citations affecting § 300-3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

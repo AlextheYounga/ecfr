@@ -1,7 +1,5 @@
 ##### § 3.401 Veterans. #####
 
-Link to an amendment published at 83 FR 32738, July 13, 2018.
-
 Awards of pension or compensation payable to or for a veteran will be effective as follows:
 
 (a) *Aid and attendance and housebound benefits.* (1) Except as provided in § 3.400(o)(2), the date of receipt of claim or date entitlement arose, whichever is later. However, when an award of pension or compensation based on an original or reopened claim is effective for a period prior to the date of receipt of the claim, any additional pension or compensation payable by reason of need for aid and attendance or housebound status shall also be awarded for any part of the award's retroactive period for which entitlement to the additional benefit is established.
@@ -36,13 +34,7 @@ Awards of pension or compensation payable to or for a veteran will be effective 
 
 (c) *Divorce of veteran and spouse.* See § 3.501(d).
 
-(d) *Institutional awards* (§ *3.852*) - (1) *Chief officer of non-Department of Veterans Affairs hospital or institution.* From first day of month in which award is approved or day following date of last payment to veteran, whichever is later.
-
-Note:
-
-If apportionment under §§ 3.452(c) and 3.454 is in order or payment under § 3.850(a), Personal Funds of Patients account will not be set up but difference withheld for dependents.
-
-(2) *Director of a Department of Veterans Affairs medical center or domiciliary.* From day following date of last payment to veteran where veteran previously received payments. On initial or resumed payments from date of entitlement to benefits subject to any amounts payable to or withheld for apportionments for dependents.
+(d) [Reserved]
 
 (e) *Retirement pay* (§ *3.750*) - (1) *Election.* Date of entitlement if timely filed. Subject to prior payments of retirement pay.
 
@@ -60,4 +52,4 @@ If apportionment under §§ 3.452(c) and 3.454 is in order or payment under § 3
 
 (i) *Increased disability pension based on attainment of age 78.* First day of the month during which veteran attains age 78.
 
-[26 FR 1594, Feb. 24, 1961, as amended at 27 FR 11889, Dec. 1, 1962; 36 FR 4599, Mar. 10, 1971; 39 FR 17222, Mar. 14, 1974; 41 FR 36493, Aug. 30, 1976; 41 FR 55874, Dec. 23, 1976; 41 FR 56804, Dec. 30, 1976; 45 FR 34886, May 23, 1980; 54 FR 34981, Aug. 23, 1989; 62 FR 5529, Feb. 6, 1997]
+[26 FR 1594, Feb. 24, 1961, as amended at 27 FR 11889, Dec. 1, 1962; 36 FR 4599, Mar. 10, 1971; 39 FR 17222, Mar. 14, 1974; 41 FR 36493, Aug. 30, 1976; 41 FR 55874, Dec. 23, 1976; 41 FR 56804, Dec. 30, 1976; 45 FR 34886, May 23, 1980; 54 FR 34981, Aug. 23, 1989; 62 FR 5529, Feb. 6, 1997; 83 FR 32738, July 13, 2018]

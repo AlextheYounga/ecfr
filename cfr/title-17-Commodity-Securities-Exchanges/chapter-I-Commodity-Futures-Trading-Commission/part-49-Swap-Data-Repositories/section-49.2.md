@@ -1,7 +1,5 @@
 ##### § 49.2 Definitions. #####
 
-Link to an amendment published at 83 FR 27436, June 12, 2018.
-
 (a) As used in this part:
 
 (1) *Affiliate.* The term “*affiliate*” means a person that directly, or indirectly, controls, is controlled by, or is under common control with, the swap data repository.
@@ -12,7 +10,7 @@ Link to an amendment published at 83 FR 27436, June 12, 2018.
 
 (4) *Control.* The term “control” (including the terms “*controlled by*” and “*under common control with*”) means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract, or otherwise.
 
-(5) *Foreign regulator.* The term “*foreign regulator*” means a foreign futures authority as defined in Section 1a(26) of the Act, foreign financial supervisors, foreign central banks and foreign ministries.
+(5) *Foreign Regulator.* The term “*foreign regulator”* means a foreign futures authority as defined in Section 1a(26) of the Act, foreign financial supervisors, foreign central banks, foreign ministries and other foreign authorities.
 
 (6) *Independent perspective.* The term “*independent perspective*” means a viewpoint that is impartial regarding competitive, commercial, or industry concerns and contemplates the effect of a decision on all constituencies involved.
 
@@ -59,3 +57,5 @@ Link to an amendment published at 83 FR 27436, June 12, 2018.
 (15) *Swap data.* The term “*swap data*” means the specific data elements and information set forth in part 45 of this chapter that is required to be reported by a reporting entity to a registered swap data repository.
 
 (b) *Defined terms.* Capitalized terms not defined in this part shall have the meanings assigned to them in § 1.3 of this chapter.
+
+[76 FR 54575, Sept. 1, 2011, as amended at 83 FR 27436, June 12, 2018]
