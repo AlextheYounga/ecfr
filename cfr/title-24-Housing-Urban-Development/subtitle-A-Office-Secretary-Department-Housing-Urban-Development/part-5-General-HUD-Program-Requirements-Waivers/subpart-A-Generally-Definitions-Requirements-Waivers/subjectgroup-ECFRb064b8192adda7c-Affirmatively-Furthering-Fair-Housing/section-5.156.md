@@ -1,5 +1,7 @@
 ##### § 5.156 Joint and Regional AFHs. #####
 
+Link to an amendment published at 85 FR 47906, Aug. 7, 2020.
+
 (a) *General.* For the purposes of sharing resources and addressing fair housing issues from a broader perspective, program participants are encouraged to collaborate to conduct and submit a single AFH, either a joint AFH or regional AFH (as defined in § 5.152), for the purpose of evaluating fair housing issues and contributing factors.
 
 (1) Collaborating program participants, whether joint participants or regionally collaborating participants, need not be located in contiguous jurisdictions and may cross State boundaries, provided that the collaborating program participants are located within the same Core Based Statistical Area (CBSA), as defined by the United States Office of Management and Budget (OMB) at the time of submission of the joint or regional AFH.

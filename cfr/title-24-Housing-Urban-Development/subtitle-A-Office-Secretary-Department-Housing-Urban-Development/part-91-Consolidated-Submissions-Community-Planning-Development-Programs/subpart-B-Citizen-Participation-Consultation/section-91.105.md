@@ -1,5 +1,7 @@
 ##### § 91.105 Citizen participation plan; local governments. #####
 
+Link to an amendment published at 85 FR 47906, Aug. 7, 2020.
+
 (a) *Applicability and adoption of the citizen participation plan.* (1) The jurisdiction is required to adopt a citizen participation plan that sets forth the jurisdiction's policies and procedures for citizen participation. (Where a jurisdiction, before August 17, 2015, adopted a citizen participation plan it, will need to amend the citizen participation plan to comply with provisions of this section.)
 
 (2) *Encouragement of citizen participation.* (i) The citizen participation plan must provide for and encourage citizens to participate in the development of the AFH, any revisions to the AFH, the consolidated plan, any substantial amendment to the consolidated plan, and the performance report. These requirements are designed especially to encourage participation by low- and moderate-income persons, particularly those persons living in areas designated by the jurisdiction as a revitalization area or in a slum and blighted area and in areas where CDBG funds are proposed to be used, and by residents of predominantly low- and moderate-income neighborhoods, as defined by the jurisdiction. A jurisdiction must take appropriate actions to encourage the participation of all its citizens, including minorities and non-English speaking persons, as provided in paragraph (a)(4) of this section, as well as persons with disabilities.

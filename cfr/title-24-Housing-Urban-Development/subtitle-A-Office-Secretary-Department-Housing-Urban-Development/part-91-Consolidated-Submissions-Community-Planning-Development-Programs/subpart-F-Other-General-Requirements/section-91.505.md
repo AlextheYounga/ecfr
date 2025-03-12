@@ -1,5 +1,7 @@
 ##### § 91.505 Amendments to the consolidated plan. #####
 
+Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
+
 (a) *Amendments to the plan.* The jurisdiction shall amend its approved plan whenever it makes one of the following decisions:
 
 (1) To make a change in its allocation priorities or a change in the method of distribution of funds;

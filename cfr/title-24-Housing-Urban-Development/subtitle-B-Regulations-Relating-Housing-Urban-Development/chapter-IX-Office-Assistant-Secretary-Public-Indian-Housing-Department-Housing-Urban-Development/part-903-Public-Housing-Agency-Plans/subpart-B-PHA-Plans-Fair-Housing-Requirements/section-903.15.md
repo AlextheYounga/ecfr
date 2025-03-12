@@ -1,5 +1,7 @@
 ##### § 903.15 What is the relationship of the public housing agency plans to the Consolidated Plan, the Assessment of Fair Housing, and a PHA's Fair Housing Requirements? #####
 
+Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
+
 (a) The preparation of an Assessment of Fair Housing (AFH) is required once every 5 years, in accordance with 24 CFR 5.150 through 5.180. PHAs have three options in meeting their AFH requirements. PHAs must notify HUD of the option they choose. The options are:
 
 (1) *Option 1: Assessment of Fair Housing with Units of General Local Government or State Governmental Agencies.* (i) A PHA may work with a unit of general local government or State governmental agency in the preparation of the AFH.

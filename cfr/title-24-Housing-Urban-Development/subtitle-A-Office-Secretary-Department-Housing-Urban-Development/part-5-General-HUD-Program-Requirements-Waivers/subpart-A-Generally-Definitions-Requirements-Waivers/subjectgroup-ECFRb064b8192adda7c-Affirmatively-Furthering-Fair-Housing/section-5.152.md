@@ -1,5 +1,7 @@
 ##### § 5.152 Definitions. #####
 
+Link to an amendment published at 85 FR 47906, Aug. 7, 2020.
+
 For purposes of §§ 5.150 through 5.180, the terms “consolidated plan,” “consortium,” “unit of general local government,” “jurisdiction,” and “State” are defined in 24 CFR part 91. For PHAs, “jurisdiction” is defined in 24 CFR 982.4. The following additional definitions are provided solely for purposes of §§ 5.150 through 5.180 and related amendments in 24 CFR parts 91, 92, 570, 574, 576, and 903:
 
 *Affirmatively furthering fair housing* means taking meaningful actions, in addition to combating discrimination, that overcome patterns of segregation and foster inclusive communities free from barriers that restrict access to opportunity based on protected characteristics. Specifically, affirmatively furthering fair housing means taking meaningful actions that, taken together, address significant disparities in housing needs and in access to opportunity, replacing segregated living patterns with truly integrated and balanced living patterns, transforming racially and ethnically concentrated areas of poverty into areas of opportunity, and fostering and maintaining compliance with civil rights and fair housing laws. The duty to affirmatively further fair housing extends to all of a program participant's activities and programs relating to housing and urban development.

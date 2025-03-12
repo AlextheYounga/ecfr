@@ -1,5 +1,7 @@
 ##### § 5.154 Assessment of Fair Housing (AFH). #####
 
+Link to an amendment published at 85 FR 47906, Aug. 7, 2020.
+
 (a) *General.* To develop a successful affirmatively furthering fair housing strategy, it is central to assess the elements and factors that cause, increase, contribute to, maintain, or perpetuate segregation, racially or ethnically concentrated areas of poverty, significant disparities in access to opportunity, and disproportionate housing needs. For HUD program participants already required to develop plans for effective uses of HUD funds consistent with the statutory requirements and goals governing such funds, an AFH will be integrated into such plans.
 
 (b) *Requirement to submit an AFH.* In furtherance of the statutory obligation to affirmatively further fair housing, an AFH must be developed following the AFH consultation, content, and submission requirements described in §§ 5.150 through 5.180, and submitted in a manner and form prescribed by HUD by the following entities:

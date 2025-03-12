@@ -1,5 +1,7 @@
 ##### § 91.315 Strategic plan. #####
 
+Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
+
 (a) *General.* For the categories described in paragraphs (b), (c), (d), (e), and (f) of this section, the consolidated plan must do the following:
 
 (1) Indicate the general priorities for allocating investment geographically within the state and among different activities and needs.

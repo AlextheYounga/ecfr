@@ -1,5 +1,7 @@
 ##### § 570.506 Records to be maintained. #####
 
+Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
+
 Each recipient shall establish and maintain sufficient records to enable the Secretary to determine whether the recipient has met the requirements of this part. At a minimum, the following records are needed:
 
 (a) Records providing a full description of each activity assisted (or being assisted) with CDBG funds, including its location (if the activity has a geographical locus), the amount of CDBG funds budgeted, obligated and expended for the activity, and the provision in subpart C under which it is eligible.

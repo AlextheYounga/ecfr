@@ -1,5 +1,7 @@
 ##### § 570.3 Definitions. #####
 
+Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
+
 The terms *Affirmatively Furthering Fair Housing, Assessment of Fair Housing or AFH,**HUD,* and *Secretary* are defined in 24 CFR part 5. All of the following definitions in this section that rely on data from the United States Bureau of the Census shall rely upon the data available from the latest decennial census or the American Community Survey.
 
 *Act* means title I of the Housing and Community Development Act of 1974 as amended (42 U.S.C. 5301 *et seq.*).

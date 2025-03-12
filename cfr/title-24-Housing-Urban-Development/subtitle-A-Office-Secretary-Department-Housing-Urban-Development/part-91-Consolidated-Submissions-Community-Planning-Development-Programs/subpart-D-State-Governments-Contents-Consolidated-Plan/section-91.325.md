@@ -1,5 +1,7 @@
 ##### § 91.325 Certifications. #####
 
+Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
+
 (a) *General* - (1) *Affirmatively furthering fair housing.* Each State is required to submit a certification that it will affirmatively further fair housing, which means that it will take meaningful actions to further the goals identified in an AFH conducted in accordance with the requirements of 24 CFR 5.150 through 5.180, and that it will take no action that is materially inconsistent with its obligation to affirmatively further fair housing.
 
 (2) *Anti-displacement and relocation plan.* The State is required to submit a certification that it has in effect and is following a residential antidisplacement and relocation assistance plan in connection with any activity assisted with funding under the CDBG or HOME programs.

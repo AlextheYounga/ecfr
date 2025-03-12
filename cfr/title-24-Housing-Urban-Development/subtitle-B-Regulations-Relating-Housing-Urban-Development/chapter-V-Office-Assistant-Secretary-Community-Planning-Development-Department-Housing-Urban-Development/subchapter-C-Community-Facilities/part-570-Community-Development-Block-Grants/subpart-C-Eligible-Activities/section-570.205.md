@@ -1,5 +1,7 @@
 ##### § 570.205 Eligible planning, urban environmental design and policy-planning-management-capacity building activities. #####
 
+Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
+
 (a) Planning activities which consist of all costs of data gathering, studies, analysis, and preparation of plans and the identification of actions that will implement such plans, including, but not limited to:
 
 (1) Comprehensive plans;

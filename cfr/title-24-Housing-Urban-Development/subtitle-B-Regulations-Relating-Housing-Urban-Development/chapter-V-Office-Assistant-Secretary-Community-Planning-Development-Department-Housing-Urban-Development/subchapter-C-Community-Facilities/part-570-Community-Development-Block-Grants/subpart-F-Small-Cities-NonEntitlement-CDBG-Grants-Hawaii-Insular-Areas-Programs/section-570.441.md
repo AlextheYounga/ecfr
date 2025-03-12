@@ -1,5 +1,7 @@
 ##### § 570.441 Citizen participation - insular areas. #####
 
+Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
+
 (a) *General.* An insular area jurisdiction submitting an abbreviated consolidated plan under 24 CFR 91.235 shall comply with the citizen participation requirements described in this section. An insular area jurisdiction submitting a complete consolidated plan in accordance with 24 CFR 91.200 through 91.230 shall follow the citizen participation requirements of § 91.100 and § 91.105, except for § 91.100(a)(4). For funding under section 106 of the Act, these requirements are applicable to all aspects of the Insular Areas program, including the preparation of the proposed statement and final statements as described in § 570.440. The requirements for citizen participation do not restrict the responsibility or authority of the jurisdiction for the development and execution of its community development program.
 
 (b) *Citizen participation plan.* The insular area jurisdiction must develop and follow a detailed citizen participation plan and must make the plan public. The plan must be completed and available before the AFH and statement for assistance is submitted to HUD, and the jurisdiction must certify that it is following the plan. The plan must set forth the jurisdiction's policies and procedures for:

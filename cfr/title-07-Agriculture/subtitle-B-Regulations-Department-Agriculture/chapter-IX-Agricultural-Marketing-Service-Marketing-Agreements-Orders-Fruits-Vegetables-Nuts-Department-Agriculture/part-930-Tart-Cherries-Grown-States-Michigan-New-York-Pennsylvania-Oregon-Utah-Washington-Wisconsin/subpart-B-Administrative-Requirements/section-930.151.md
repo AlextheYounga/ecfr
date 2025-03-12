@@ -1,7 +1,5 @@
 ##### § 930.151 Desirable carry-out inventory. #####
 
-Link to an amendment published at 85 FR 40872, July 8, 2020.
+Beginning with the crop year starting July 1, 2016, for the purposes of determining an optimum supply volume, the Board may recommend a desirable carry-out inventory not to exceed 100 million pounds.
 
-For the 2016 crop year, the desirable carry-out inventory, for the purposes of determining an optimum supply volume, will be 57 million pounds.
-
-[82 FR 28755, June 26, 2017]
+[85 FR 40872, July 8, 2020]

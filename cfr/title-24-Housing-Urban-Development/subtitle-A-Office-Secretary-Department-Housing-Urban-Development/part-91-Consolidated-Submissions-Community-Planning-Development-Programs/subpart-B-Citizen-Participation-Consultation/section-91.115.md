@@ -1,5 +1,7 @@
 ##### § 91.115 Citizen participation plan; States. #####
 
+Link to an amendment published at 85 FR 47907, Aug. 7, 2020.
+
 (a) *Applicability and adoption of the citizen participation plan* - (1) *When citizen participation plan must be amended.* The State is required to adopt a citizen participation plan that sets forth the State's policies and procedures for citizen participation. (Where a State, before August 17, 2015, adopted a citizen participation plan, it will need to amend the citizen participation plan to comply with provisions of this section.)
 
 (2) *Encouragement of citizen participation.* (i) The citizen participation plan must provide for and encourage citizens to participate in the development of the AFH, any revision to the AFH, the consolidated plan, any substantial amendments to the consolidated plan, and the performance report. These requirements are designed especially to encourage participation by low- and moderate-income persons, particularly those living in slum and blighted areas and in areas where CDBG funds are proposed to be used and by residents of predominantly low- and moderate-income neighborhoods. A State must take appropriate actions to encourage the participation of all its residents, including minorities and non-English speaking persons, as provided in paragraph (a)(4) of this section, as well as persons with disabilities.
