@@ -1,0 +1,3 @@
+##### § 58.406 Starter facility. #####
+
+A separate starter room or properly designed starter tanks and satisfactory air movement techniques shall be provided for the propagation and handling of starter cultures. All necessary precaution shall be taken to prevent contamination of the facility, equipment and the air therein. A filtered air supply with a minimum average efficiency of 90 percent when tested in accordance with the ASHRAE Synthetic Dust Arrestance Test should be provided so as to obtain outward movement of air from the room to minimize contamination.

@@ -1,0 +1,3 @@
+##### § 58.123 Survey and approval. #####
+
+Prior to the approval of a plant, a designated representative of the Administrator shall make a survey of the plant, premises, storage facilities, equipment and raw material, volume of raw material processed daily, and facilities for handling the products at the plant. The survey shall be made at least twice a year to determine whether the facilities, equipment, method of operation, and raw material being received are adequate and suitable for USDA inspection and grading service in accordance with the provisions of this part. To be eligible for approval a plant shall satisfactorily meet the specifications of this subpart as determined by the Administrator.

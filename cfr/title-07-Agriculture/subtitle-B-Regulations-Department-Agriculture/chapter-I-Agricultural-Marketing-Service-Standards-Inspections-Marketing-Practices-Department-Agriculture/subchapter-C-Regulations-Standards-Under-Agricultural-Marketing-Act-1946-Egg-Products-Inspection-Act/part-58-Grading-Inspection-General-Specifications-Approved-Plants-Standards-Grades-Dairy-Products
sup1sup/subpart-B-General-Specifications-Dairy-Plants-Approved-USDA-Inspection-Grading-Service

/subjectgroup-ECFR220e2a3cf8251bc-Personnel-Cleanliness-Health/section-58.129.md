@@ -1,0 +1,3 @@
+##### § 58.129 Cleanliness. #####
+
+All employees shall wash their hands before beginning work and upon returning to work after using toilet facilities, eating, smoking or otherwise soiling their hands. They shall keep their hands clean and follow good hygienic practices while on duty. Expectorating or use of tobacco in any form shall be prohibited in each room and compartment where any milk, dairy products, or supplies are prepared, stored or otherwise handled. Clean white or light-colored washable or disposable outer garments and caps (paper caps, hard hats, or hair nets acceptable) shall be worn to adequately protect the hair and beards when grown by all persons engaged in receiving, testing, processing milk, manufacturing, packaging or handling dairy products.

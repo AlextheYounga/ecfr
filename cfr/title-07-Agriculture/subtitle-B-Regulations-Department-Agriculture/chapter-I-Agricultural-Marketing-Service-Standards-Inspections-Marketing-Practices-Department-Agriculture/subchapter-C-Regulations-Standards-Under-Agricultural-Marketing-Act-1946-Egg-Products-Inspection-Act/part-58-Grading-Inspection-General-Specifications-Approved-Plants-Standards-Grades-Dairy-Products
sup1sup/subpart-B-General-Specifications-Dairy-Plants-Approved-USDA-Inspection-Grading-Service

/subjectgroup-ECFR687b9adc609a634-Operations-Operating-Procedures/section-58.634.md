@@ -1,0 +1,3 @@
+##### § 58.634 Assembling and combining mix ingredients. #####
+
+The assembling and combining of mix ingredients for processing shall be in accordance with clean and sanitary methods and shall be consistent with good commercial practices. All raw materials shall be subjected to inspection for quality and condition prior to being combined and processed into the finished mix. All necessary precautions shall be taken to prevent the contamination of any raw material or the finished mix with any foreign substance.

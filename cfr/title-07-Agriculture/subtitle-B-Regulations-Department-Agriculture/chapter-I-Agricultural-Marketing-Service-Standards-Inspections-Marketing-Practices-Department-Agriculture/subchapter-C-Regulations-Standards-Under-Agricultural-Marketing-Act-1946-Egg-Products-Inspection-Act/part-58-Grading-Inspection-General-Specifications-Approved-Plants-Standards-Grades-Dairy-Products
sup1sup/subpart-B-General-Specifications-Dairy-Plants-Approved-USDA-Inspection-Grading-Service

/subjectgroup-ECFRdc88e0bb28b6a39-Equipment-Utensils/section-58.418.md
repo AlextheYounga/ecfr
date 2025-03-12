@@ -1,0 +1,11 @@
+##### § 58.418 Automatic cheese making equipment. #####
+
+(a) *Automatic Curd Maker.* The automatic curd making system shall be constructed of stainless steel or of material approved in the 3-A Sanitary Standards for Plastic, and Rubber and Rubber-Like Material. All areas shall be free from cracks and rough surfaces and constructed so that they can be easily cleaned.
+
+(b) *Curd conveying systems.* The curd conveying system, conveying lines and cyclone separator shall be constructed of stainless steel or other equally corrosion resistant metal and in such manner that it can be satisfactorily cleaned. The system shall be of sufficient size to handle the volume of curd and be provided with filtered air of the quality satisfactory for the intended use. Air compressors or vacuum pumps shall not be located in the processing or packaging areas.
+
+(c) *Automatic salter.* The automatic salter shall be constructed of stainless steel or other equally corrosion resistant metal. This equipment shall be constructed to equally distribute the salt throughout the curd. It shall be designed to accurately weigh the amount of salt added. The automatic salter shall be constructed so that it can be satisfactorily cleaned. The salting system shall provide for adequate absorption of the salt in the curd. Water and steam used to moisten the curd prior to salting shall be potable water or culinary steam.
+
+(d) *Automatic curd filler.* The automatic curd filler shall be constructed of stainless steel or other equally corrosion resistant metal. This equipment shall be of sufficient size to handle the volume of curd and constructed and controlled so as to accurately weigh the amount of curd as it fills. The curd filler shall be constructed so that it can be satisfactorily cleaned.
+
+(e) *Hoop and barrel washer.* The washer shall be constructed so that it can be satisfactorily cleaned. It shall also be equipped with temperature and pressure controls to ensure satisfactory cleaning of the hoops or barrels. It should be adequately vented to the outside.

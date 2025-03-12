@@ -1,0 +1,3 @@
+##### § 58.515 Mixers. #####
+
+Only mixers shall be used which will mix the cheese carefully and keep shattering of the curd particles to a minimum. They shall be constructed in such a manner as to be readily cleanable. If shafts extend through the wall of the tank below the level of the product, they shall be equipped with proper seals which are readily removable for cleaning and sanitizing. The mixer shall be enclosed or equipped with tight fitting covers.

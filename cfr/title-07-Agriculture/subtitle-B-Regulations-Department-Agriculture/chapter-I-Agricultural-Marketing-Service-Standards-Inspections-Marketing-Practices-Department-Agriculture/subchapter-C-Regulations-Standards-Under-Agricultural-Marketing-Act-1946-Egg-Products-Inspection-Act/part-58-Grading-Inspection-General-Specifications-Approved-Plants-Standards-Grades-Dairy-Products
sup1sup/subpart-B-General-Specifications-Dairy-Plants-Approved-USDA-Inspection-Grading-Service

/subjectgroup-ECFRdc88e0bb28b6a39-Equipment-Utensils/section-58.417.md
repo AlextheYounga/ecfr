@@ -1,0 +1,3 @@
+##### § 58.417 Mechanical agitators. #####
+
+The mechanical agitators shall be of sanitary construction. The carriages shall be of the enclosed type and all product contact surfaces, shields, shafts, and hubs shall be constructed of stainless steel or other equally corrosion resistant metal. Metal blades, forks, or stirrers shall be constructed of stainless steel and of material approved in the 3-A Sanitary Standards for Plastic, and Rubber and Rubber-Like Materials and shall be free from rough or sharp edges which might scratch the equipment or remove metal particles.

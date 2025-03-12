@@ -1,0 +1,3 @@
+##### § 58.640 Packaging. #####
+
+The packaging of the semifrozen product shall be done by means which will in no way contaminate the container or the product. When single service containers and lids are used, they shall be of good construction and protect the finished product. Containers used for frozen products shall be stored and handled in a sanitary manner so as to protect them from dust and bacterial contamination.

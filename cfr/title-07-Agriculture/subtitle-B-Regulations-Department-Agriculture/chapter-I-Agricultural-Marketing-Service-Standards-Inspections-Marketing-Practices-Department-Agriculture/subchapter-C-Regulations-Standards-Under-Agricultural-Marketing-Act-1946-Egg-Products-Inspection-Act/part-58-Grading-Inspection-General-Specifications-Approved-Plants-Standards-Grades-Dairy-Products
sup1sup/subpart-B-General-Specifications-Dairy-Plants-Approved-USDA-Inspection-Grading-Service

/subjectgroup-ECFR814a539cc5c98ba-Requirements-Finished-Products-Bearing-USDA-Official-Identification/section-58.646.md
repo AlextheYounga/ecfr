@@ -1,0 +1,5 @@
+##### § 58.646 Official identification. #####
+
+(a) Only ice cream and related products manufactured and packaged in accordance with the requirements of this part and with the applicable requirements in subpart A of this part which have been officially inspected in process and found to be in compliance with these requirements may be identified with the official USDA Quality Approved Inspection Shield.
+
+(b) Dairy products used in the manufacture of frozen desserts for which there are U.S. grades established (nonfat dry milk, whole milk, buttermilk and whey) shall be U.S. Extra Grade or better, and in the case of unsalted butter, shall be no lower than U.S. Grade A. Dairy products for which there are not USDA grade shall meet the applicable requirements of this part which permit such product to bear the USDA Quality Approved Inspection Shield.

@@ -1,0 +1,3 @@
+##### § 58.426 Rindless cheese wrapping equipment. #####
+
+The equipment used to heat seal the wrapper applied to rindless cheese shall have square interior corners, reasonably smooth interior surface and have controls that shall provide uniform pressure and heat equally to all surfaces. The equipment used to apply shrinkable wrapping material to rindless cheese shall operate to maintain the natural intended shape of the cheese in an acceptable manner, reasonably smooth surfaces on the cheese and tightly adhere the wrapper to the surface of the cheese.

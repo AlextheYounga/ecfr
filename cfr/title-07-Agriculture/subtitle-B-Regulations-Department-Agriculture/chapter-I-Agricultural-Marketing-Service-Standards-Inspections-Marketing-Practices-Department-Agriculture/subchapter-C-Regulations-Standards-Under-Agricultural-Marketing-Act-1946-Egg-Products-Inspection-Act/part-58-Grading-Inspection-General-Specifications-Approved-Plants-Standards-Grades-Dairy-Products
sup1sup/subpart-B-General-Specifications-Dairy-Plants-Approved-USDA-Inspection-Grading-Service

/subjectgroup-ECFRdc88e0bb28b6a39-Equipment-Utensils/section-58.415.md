@@ -1,0 +1,3 @@
+##### § 58.415 Starter vats. #####
+
+Bulk starter vats shall be of stainless steel or equally corrosion resistant metal and should be constructed according to the applicable 3-A Sanitary Standards. New or replacement vats shall be constructed according to the applicable 3-A Sanitary Standards. The vats shall be in good repair, equipped with tight fitting lids and have adequate temperature controls such as valves, indicating and/or recording thermometers.

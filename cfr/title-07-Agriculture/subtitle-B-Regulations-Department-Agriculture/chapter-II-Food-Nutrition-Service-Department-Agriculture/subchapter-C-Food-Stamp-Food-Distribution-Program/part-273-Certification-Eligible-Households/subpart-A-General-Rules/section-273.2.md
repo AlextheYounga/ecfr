@@ -28,7 +28,7 @@
 
 (iv) *Recording the filing date.* The date of application is the date the application is received by the State agency. State agencies must document the application date on the application. If the application is received outside normal business hours the State agency will consider the date of application the next business day. For online applications, the date of application is the date the application is submitted, or the next business day if it is submitted after business hours. For telephonic applications, the date of application is the date on which the household member provides verbal assent.
 
-(v) [Reserved]
+(v) *Application copies.* When a household member completes an application, the State agency must offer to provide a copy of the completed application. For purposes of this subsection, a copy of the completed application is a copy of the information provided by the client that the State agency has used or will use to determine a household's eligibility and benefit allotment. At the option of the household, the State may provide the copy in an electronic format.
 
 (vi) *Residents of institutions.* The following special provisions apply to residents of institutions.
 

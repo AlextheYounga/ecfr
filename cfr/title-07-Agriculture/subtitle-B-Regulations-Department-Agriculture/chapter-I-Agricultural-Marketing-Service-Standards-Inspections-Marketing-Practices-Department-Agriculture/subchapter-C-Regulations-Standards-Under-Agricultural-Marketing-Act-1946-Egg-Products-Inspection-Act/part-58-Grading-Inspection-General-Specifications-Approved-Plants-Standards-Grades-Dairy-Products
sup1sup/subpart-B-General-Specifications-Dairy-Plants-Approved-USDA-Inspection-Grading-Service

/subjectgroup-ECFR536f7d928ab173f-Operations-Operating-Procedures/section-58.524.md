@@ -1,0 +1,7 @@
+##### § 58.524 Packaging and general identification. #####
+
+(a) *Containers.* Containers used for packaging cottage cheese shall be any commercially acceptable multiple use or single service container or packaging material which will satisfactorily protect the contents through the regular channels of trade without significant impairment of quality with respect to flavor, or contamination under normal conditions of handling. Caps or covers which extend over the lip of the container shall be used on all cups or tubs containing two pounds or less, to protect the product from contamination during subsequent handling.
+
+(b) *Packaging.* The cheese shall be packaged in a sanitary manner and automatic filling and capping equipment shall be used on all small sizes. The containers shall be checked weighed during the filling operation to assure they are filled uniformly to not less than the stated net weight on the container. Also care shall be taken that the cottage cheese be of uniform consistency at the time of packaging to assure legal composition in all packages.
+
+(c) *General identification.* Bulk packages containing cottage cheese shall be adequately and legibly marked with the name of the product, net weight, name and address of the manufacturer, lot number, code or date of packaging and any other identification as may be required. Consumer size packaged products shall meet the applicable regulations of the Food and Drug Administration.

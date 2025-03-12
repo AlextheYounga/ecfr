@@ -253,13 +253,13 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |              (20) N-(1-phenethylpiperidin-4-yl)-N-phenyltetrahydrofuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: tetrahydrofuranyl fentanyl)              |(9843) |
 |                     (21) 2-methoxy-N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: methoxyacetyl fentanyl)                     |(9825) |
 |                    (22) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopropanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopropyl fentanyl)                    |(9845) |
-|                            (23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: valeryl fentanyl)                            |(9804) |
+|                            (23) N-(1-phenethylpiperidin-4-yl)-N-phenylpentanamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Valeryl fentanyl)                            |(9840) |
 |                  (24) N-(4-fluorophenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-fluorobutyryl fentanyl)                  |(9823) |
 |                 (25) N-(4-methoxyphenyl)-N-(1-phenethylpiperidin-4-yl)butyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-methoxybutyryl fentanyl)                 |(9837) |
 |               (26) N-(4-chlorophenyl)-N-(1-phenethylpiperidin-4-yl)isobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: para-chloroisobutyryl fentanyl)               |(9826) |
 |                         (27) N-(1-phenethylpiperidin-4-yl)-N-phenylisobutyramide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: isobutyryl fentanyl)                          |(9827) |
 |                    (28) N-(1-phenethylpiperidin-4-yl)-N-phenylcyclopentanecarboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: cyclopentyl fentanyl)                    |(9847) |
-|                      (29) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: ocfentanil)                      |(9832) |
+|                      (29) N-(2-fluorophenyl)-2-methoxy-N-(1-phenethylpiperidin-4-yl)acetamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Ocfentanil)                      |(9838) |
 |                                                     (30) Fentanyl-related substances, their isomers, esters, ethers, salts and salts of isomers, esters and ethers                                                      | 9850  |
 
 (i) Fentanyl-related substance means any substance not otherwise listed under another Administration Controlled Substance Code Number, and for which no exemption or approval is in effect under section 505 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355], that is structurally related to fentanyl by one or more of the following modifications:
@@ -291,3 +291,6 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 6. At 83 FR 4584, Feb. 1, 2018, § 1308.11 was amended by adding paragraphs (h)(23) through (h)(29), effective Feb. 1, 2018, through Feb. 1, 2020.
 
 7. At 83 FR 5191, Feb. 6, 2018, § 1308.11 was amended by adding paragraph (h)(30), effective Feb. 6, 2018, through Feb. 6, 2020.
+
+8. At 83 FR 10368, Mar. 9, 2018, § 1308.11 was amended by revising paragraphs (h)(23) and (h)(29), effective Mar. 9, 2018, through
+Feb. 1, 2020.

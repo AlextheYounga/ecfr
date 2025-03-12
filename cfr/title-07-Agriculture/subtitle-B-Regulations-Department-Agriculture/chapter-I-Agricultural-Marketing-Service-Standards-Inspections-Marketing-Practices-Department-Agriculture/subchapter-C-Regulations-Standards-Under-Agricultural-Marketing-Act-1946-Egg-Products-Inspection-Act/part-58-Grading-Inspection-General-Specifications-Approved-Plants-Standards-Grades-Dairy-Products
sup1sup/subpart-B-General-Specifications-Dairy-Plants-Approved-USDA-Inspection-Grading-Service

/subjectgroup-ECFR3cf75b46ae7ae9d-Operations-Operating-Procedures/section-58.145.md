@@ -1,0 +1,3 @@
+##### § 58.145 Composition and wholesomeness. #####
+
+All necessary precautions shall be taken to prevent contamination or adulteration of the milk or dairy products during manufacturing. All substances and ingredients used in the processing or manufacturing of any dairy product shall be subject to inspection and shall be wholesome and practically free from impurities. The finished products shall comply with the requirements of the Federal Food, Drug, and Cosmetic Act as to their composition and wholesomeness.

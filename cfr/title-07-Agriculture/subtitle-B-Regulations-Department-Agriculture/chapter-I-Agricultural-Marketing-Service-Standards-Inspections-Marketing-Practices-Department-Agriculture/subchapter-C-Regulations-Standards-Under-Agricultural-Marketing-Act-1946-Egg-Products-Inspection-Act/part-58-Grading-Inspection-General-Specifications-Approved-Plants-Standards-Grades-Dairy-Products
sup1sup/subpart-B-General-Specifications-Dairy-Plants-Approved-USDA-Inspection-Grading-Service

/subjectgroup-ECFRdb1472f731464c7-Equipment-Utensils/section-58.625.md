@@ -1,0 +1,3 @@
+##### § 58.625 Fruit or syrup feeders. #####
+
+Fruit or syrup feeders inject flavoring material into the semi-frozen product. Product contact surfaces shall be constructed of stainless steel or equally corrosion resistant metal and all pumps shall be in accordance to 3-A Sanitary Standards for dairy equipment. The feeder shall be constructed to enable complete disassembly for cleaning and sanitizing.

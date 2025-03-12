@@ -1,0 +1,3 @@
+##### § 58.438 Cheese from pasteurized milk. #####
+
+If the cheese is labeled as pasteurized, the milk shall be pasteurized by subjecting every particle of milk to a minimum temperature of 161 °F. for not less than 15 seconds or by any other acceptable combination of temperature and time treatment approved by the Administrator. HTST pasteurization units shall be equipped with the proper controls and equipment to assure pasteurization. If the milk is held more than 2 hours between the time of pasteurization and setting, it shall be cooled to 45 °F. or lower until time of setting.

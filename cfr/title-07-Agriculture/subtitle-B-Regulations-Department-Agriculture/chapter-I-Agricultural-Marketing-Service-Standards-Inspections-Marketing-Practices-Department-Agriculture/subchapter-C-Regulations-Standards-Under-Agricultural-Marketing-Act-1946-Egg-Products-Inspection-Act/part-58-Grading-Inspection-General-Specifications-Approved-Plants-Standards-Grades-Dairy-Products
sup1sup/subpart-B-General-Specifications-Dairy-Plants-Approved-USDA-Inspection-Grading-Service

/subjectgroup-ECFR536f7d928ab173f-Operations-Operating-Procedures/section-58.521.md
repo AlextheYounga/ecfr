@@ -1,0 +1,7 @@
+##### § 58.521 Pasteurization and product flow. #####
+
+(a) The skim milk used for the manufacture of cottage cheese shall be pasteurized not more than 24 hours prior to the time of setting by heating every particle of skim milk to a temperature of 161 °F. for not less than 15 seconds or by any other combination of temperature and time giving equivalent results. All skim milk must be cooled promptly to setting temperature. If held more than two hours between pasteurization and time of setting, the skim milk shall be cooled and held at 45 °F. or lower until set.
+
+(b) Cream or cheese dressing shall be pasteurized at not less than 150 °F. for not less than 30 minutes or at not less than 166 °F. for not less than 15 seconds or by any other combination of temperature and time treatment giving equivalent results. Cream and cheese dressing shall be cooled promptly to 40 °F. or lower after pasteurization to aid in further cooling of cottage cheese curd for improved keeping quality.
+
+(c) Reconstituted nonfat dry milk for cottage cheese manufacture need not be re-pasteurized provided it is reconstituted within two hours prior to the time of setting using water which is free from viable pathogenic or otherwise harmful microorganisms as well as microorganisms which may cause spoilage of cottage cheese. Skim milk separated from pasteurized whole milk need not be re-pasteurized provided it is separated in equipment from which all traces of raw milk from previous operations have been removed by proper cleaning and sanitizing.

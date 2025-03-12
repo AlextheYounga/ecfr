@@ -1,0 +1,5 @@
+##### § 58.151 Packaging and repackaging. #####
+
+(a) Packaging dairy products or cutting and repackaging all styles of dairy products shall be conducted under rigid sanitary conditions. The atmosphere of the packaging rooms, the equipment and packaging materials shall be practically free from mold and bacterial contamination. Methods for checking the level of contamination shall be as prescribed by the latest edition of Standard Methods or by other satisfactory methods approved by the Administrator.
+
+(b) When officially graded bulk dairy products are to be repackaged into consumer type packages with official grade labels or other official identification, a supervisor of packaging shall be required, see subpart A of this part. (title 7, §§ 58.2 and 58.53 of the Code of Federal Regulations). If the packaging or repackaging is done in a plant other than the one in which the dairy product is manufactured, the plant, equipment, facilities and personnel shall meet the same requirements as outlined in this subpart.

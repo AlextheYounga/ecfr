@@ -1,0 +1,3 @@
+##### § 58.319 Printing equipment. #####
+
+All printing equipment shall be designed so as to adequately protect the product and be readily demountable for cleaning of product contact surfaces. All product contact surfaces shall be aluminum, stainless steel or equally corrosion resistant metal, or plastic, rubber and rubber like material which comply with 3-A standards, except that conveyors may be constructed of material which can be properly cleaned and maintained in a satisfactory manner.
