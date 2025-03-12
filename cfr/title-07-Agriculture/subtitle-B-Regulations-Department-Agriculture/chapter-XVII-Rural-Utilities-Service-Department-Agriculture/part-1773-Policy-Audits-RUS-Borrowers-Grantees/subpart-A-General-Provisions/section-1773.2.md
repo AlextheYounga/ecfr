@@ -1,5 +1,7 @@
 ##### § 1773.2 Definitions. #####
 
+Link to an amendment published at 88 FR 7562, Feb. 6, 2023.
+
 As used in this part:
 
 *2 CFR part 200, subpart F* means 2 CFR part 200, Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards, subpart F, Audit Requirements, as adopted by USDA in 2 CFR part 400.
@@ -88,4 +90,4 @@ As used in this part:
 
 *State* means any state or territory of the United States, or the District of Columbia.
 
-*Uniform System of Accounts* means, for telecommunications borrowers, Bulletin 1770B-1, Accounting Requirements for RUS Telecommunications Borrowers (*https://www.rd.usda.gov/files/UTP\_Bulletins\_1770B-1.pdf*), and for electric borrowers, as contained in 7 CFR part 1767, Accounting Requirements for RUS Electric Borrowers, subpart B - Uniform System of Accounts, Bulletin 1767B-1, (*https://www.rd.usda.gov/files/UPA\_Bulletin\_1767B-1.pdf*).
+*Uniform System of Accounts* means, for telecommunications borrowers, Bulletin 1770B-1, Accounting Requirements for RUS Telecommunications Borrowers (*https://www.rd.usda.gov/files/UTP\_Bulletins\_1770B-1.pdf*), and for electric borrowers, as contained in 7 CFR part 1767, Accounting Requirements for RUS Electric Borrowers, subpart B—Uniform System of Accounts, Bulletin 1767B-1, (*https://www.rd.usda.gov/files/UPA\_Bulletin\_1767B-1.pdf*).

@@ -6,9 +6,39 @@
 
 (1) A Class I permissive change includes those modifications in the equipment which do not degrade the characteristics reported by the manufacturer and accepted by the Commission when certification is granted. No filing is required for a Class I permissive change.
 
-(2) A Class II permissive change includes those modifications which degrade the performance characteristics as reported to the Commission at the time of the initial certification. Such degraded performance must still meet the minimum requirements of the applicable rules. When a Class II permissive change is made by the grantee, the grantee shall provide complete information and the results of tests of the characteristics affected by such change. The modified equipment shall not be marketed under the existing grant of certification prior to acknowledgement that the change is acceptable.
+(2) A Class II permissive change includes those modifications which degrade the performance characteristics as reported to the Commission at the time of the initial certification. Such degraded performance must still meet the minimum requirements of the applicable rules.
 
-(3) A Class III permissive change includes modifications to the software of a software defined radio transmitter that change the frequency range, modulation type or maximum output power (either radiated or conducted) outside the parameters previously approved, or that change the circumstances under which the transmitter operates in accordance with Commission rules. When a Class III permissive change is made, the grantee shall provide a description of the changes and test results showing that the equipment complies with the applicable rules with the new software loaded, including compliance with the applicable RF exposure requirements. The modified software shall not be loaded into the equipment, and the equipment shall not be marketed with the modified software under the existing grant of certification, prior to acknowledgement that the change is acceptable. Class III changes are permitted only for equipment in which no Class II changes have been made from the originally approved device.
+(i) When a Class II permissive change is made by the grantee, the grantee shall provide:
+
+(A) Complete information and the results of tests of the characteristics affected by such change;
+
+(B) A written and signed certification expressly stating that, as of the filing date, the equipment subject to the permissive change is not prohibited from receiving an equipment authorization pursuant to § 2.903;
+
+(C) An affirmative or negative statement as to whether the applicant is identified on the Covered List, established pursuant to § 1.50002 of this chapter, as an entity producing covered communications equipment;
+
+(D) The full name, mailing address and physical address (if different from mailing address), email address, and telephone number of the grantee's designated agent for service of process in the United States for matters relating to the authorized equipment; and
+
+(E) The written and signed certifications required by § 2.911(d)(7).
+
+(ii) The modified equipment shall not be marketed under the existing grant of certification prior to acknowledgement that the change is acceptable.
+
+(3) A Class III permissive change includes modifications to the software of a software defined radio transmitter that change the frequency range, modulation type or maximum output power (either radiated or conducted) outside the parameters previously approved, or that change the circumstances under which the transmitter operates in accordance with Commission rules.
+
+(i) When a Class III permissive change is made, the grantee shall provide:
+
+(A) A description of the changes and test results showing that the equipment complies with the applicable rules with the new software loaded, including compliance with the applicable RF exposure requirements.
+
+(B) A written and signed certification expressly stating that, as of the date of the filing, the equipment subject to the permissive change is not prohibited from receiving an equipment authorization pursuant to § 2.903;
+
+(C) An affirmative or negative statement as to whether the applicant is identified on the Covered List, established pursuant to § 1.50002 of this chapter, as an entity producing covered communications equipment;
+
+(D) The full name, mailing address and physical address (if different from mailing address), email address, and telephone number of the grantee's designated agent for service of process in the United States for matters relating to the authorized equipment; and
+
+(E) The written and signed certifications required by § 2.911(d)(7).
+
+(ii) The modified software shall not be loaded into the equipment, and the equipment shall not be marketed with the modified software under the existing grant of certification, prior to acknowledgement that the change is acceptable.
+
+(iii) Class III changes are permitted only for equipment in which no Class II changes have been made from the originally approved device.
 
 Note to paragraph (b)(3):
 
@@ -46,4 +76,4 @@ Any software change that degrades spurious and out-of-band emissions previously 
 
 (l) Notwithstanding the provisions of this section, broadcast licensees or permittees are permitted to modify certificated or formerly type accepted equipment pursuant to § 73.1690 of the FCC's rules.
 
-[63 FR 36600, July 7, 1998, as amended at 66 FR 50840, Oct. 5, 2001; 70 FR 23040, May 4, 2005; 80 FR 33446, June 12, 2015]
+[63 FR 36600, July 7, 1998, as amended at 66 FR 50840, Oct. 5, 2001; 70 FR 23040, May 4, 2005; 80 FR 33446, June 12, 2015; 88 FR 7625, Feb. 6, 2023]

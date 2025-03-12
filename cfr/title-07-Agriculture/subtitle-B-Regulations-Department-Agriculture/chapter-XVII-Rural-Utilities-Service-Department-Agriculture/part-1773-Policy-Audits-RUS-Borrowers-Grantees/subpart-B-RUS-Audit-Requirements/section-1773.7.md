@@ -1,5 +1,7 @@
 ##### § 1773.7 Audit standards. #####
 
+Link to an amendment published at 88 FR 7564, Feb. 6, 2023.
+
 (a) The audit of the financial statements must be performed in accordance with GAGAS and this part in effect at the audit date unless the auditee is directed otherwise, in writing, by RUS.
 
 (b) The audit of the financial statements must include such tests of the accounting records and such other auditing procedures that are sufficient to enable the auditor to express an opinion on the financial statements and to issue the required reporting package.

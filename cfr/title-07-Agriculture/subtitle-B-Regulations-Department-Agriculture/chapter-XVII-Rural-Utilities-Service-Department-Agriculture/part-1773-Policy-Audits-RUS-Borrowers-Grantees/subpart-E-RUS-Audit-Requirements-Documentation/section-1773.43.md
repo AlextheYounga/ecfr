@@ -1,5 +1,7 @@
 ##### § 1773.43 Capital and equity accounts. #####
 
+Link to an amendment published at 88 FR 7566, Feb. 6, 2023.
+
 (a) *Capital stock.* For privately owned companies, the audit documentation shall include analyses of all stock transactions during the audit period. The auditor's audit documentation shall support that the auditor:
 
 (1) Reviewed the subsidiary records and reconciled them to the general ledger control account;

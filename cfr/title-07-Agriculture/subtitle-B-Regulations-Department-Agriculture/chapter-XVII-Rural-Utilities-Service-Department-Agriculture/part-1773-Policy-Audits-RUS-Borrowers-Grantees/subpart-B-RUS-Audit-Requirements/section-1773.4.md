@@ -1,5 +1,7 @@
 ##### § 1773.4 Auditee's responsibilities. #####
 
+Link to an amendment published at 88 FR 7563, Feb. 6, 2023.
+
 (a) *Selection of a qualified auditor.* The auditee's governance board is responsible for the selection of a qualified auditor that meets the requirements set forth in § 1773.5. When selecting an auditor, the auditee should consider, among other matters:
 
 (1) The qualifications of auditors available to do the work;
@@ -22,7 +24,7 @@
 
 (d) *Audit engagement letter.* The auditee must enter into an audit agreement with the auditor that complies with § 1773.6 prior to the initiation of the audit.
 
-(e) *Debarment certification.* The auditee must obtain, from the selected auditor, a lower tier covered transaction certification (Form AD-1048, Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion - Lower Tier Covered Transactions), as required by Executive Orders 12549 and 12689, Debarment and Suspension, and any rules or regulations issued thereunder.
+(e) *Debarment certification.* The auditee must obtain, from the selected auditor, a lower tier covered transaction certification (Form AD-1048, Certification Regarding Debarment, Suspension, Ineligibility and Voluntary Exclusion—Lower Tier Covered Transactions), as required by Executive Orders 12549 and 12689, Debarment and Suspension, and any rules or regulations issued thereunder.
 
 (f) *Peer review report.* The auditee must obtain, from the selected auditor, a copy of the auditor's current approved peer review report.
 

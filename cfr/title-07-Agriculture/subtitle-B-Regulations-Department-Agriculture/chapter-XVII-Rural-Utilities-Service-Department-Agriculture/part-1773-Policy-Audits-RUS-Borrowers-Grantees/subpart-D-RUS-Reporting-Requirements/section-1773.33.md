@@ -1,5 +1,7 @@
 ##### § 1773.33 Report on compliance with aspects of contractual agreements and regulatory requirements. #####
 
+Link to an amendment published at 88 FR 7565, Feb. 6, 2023.
+
 The auditor must prepare a report on compliance with aspects of contractual agreements and regulatory requirements that includes, at a minimum, comments on:
 
 (a) *Audit procedures.* State whether the audit has been performed in accordance with this part;

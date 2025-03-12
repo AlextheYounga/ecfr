@@ -1,5 +1,7 @@
 ##### § 1738.254 Accounting, reporting, and monitoring requirements. #####
 
+Link to an amendment published at 88 FR 7561, Feb. 6, 2023.
+
 (a) Loan and loan/grant combination Awardees must adopt a system of accounts for maintaining financial records acceptable to the Agency, as described in 7 CFR part 1770, subpart B.
 
 (b) Loan and loan/grant combination Awardees must submit annual audited financial statements along with a report on compliance and on internal control over financial reporting and management letter in accordance with the requirements of 7 CFR part 1773. The Certified Public Accountant (CPA) conducting the annual audit is selected by the awardee and must be approved by RUS as set forth in 7 CFR 1773.4.

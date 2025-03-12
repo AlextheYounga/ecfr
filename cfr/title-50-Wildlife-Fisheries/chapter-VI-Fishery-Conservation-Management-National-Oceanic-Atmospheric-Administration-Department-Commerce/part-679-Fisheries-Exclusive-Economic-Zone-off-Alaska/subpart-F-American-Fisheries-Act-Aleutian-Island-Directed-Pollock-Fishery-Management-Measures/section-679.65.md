@@ -1,5 +1,7 @@
 ##### § 679.65 Bering Sea Chinook Salmon Bycatch Management Program Economic Data Report (Chinook salmon EDR program). #####
 
+Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
+
 (a) *Requirements.* NMFS developed the regulations under this section to implement the Chinook salmon EDR program. Additional regulations that implement specific portions of the Chinook salmon EDR program are set out under paragraphs (a)(1) through (4) of this section:
 
 (1) *Daily fishing logbook* (DFL), catcher vessel trawl gear. *See* § 679.5(c)(4).

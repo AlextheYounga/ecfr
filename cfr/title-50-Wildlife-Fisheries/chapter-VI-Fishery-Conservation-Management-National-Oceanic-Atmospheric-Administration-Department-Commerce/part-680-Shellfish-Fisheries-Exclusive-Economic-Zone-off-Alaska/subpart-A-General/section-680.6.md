@@ -1,5 +1,7 @@
 ##### § 680.6 Crab economic data report (EDR). #####
 
+Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
+
 (a) *Requirements.* (1) Any owner or leaseholder of a vessel or processing plant, or a holder of a registered crab receiver permit that harvested, processed, custom processed, or obtained custom processing for CR crab, during a calendar year, must submit a complete Economic Data Report (EDR) by following the instructions on the applicable EDR form.
 
 (2) A completed EDR or EDR certification pages must be submitted to the DCA for each calendar year on or before 1700 hours, A.l.t., July 31 of the following year.

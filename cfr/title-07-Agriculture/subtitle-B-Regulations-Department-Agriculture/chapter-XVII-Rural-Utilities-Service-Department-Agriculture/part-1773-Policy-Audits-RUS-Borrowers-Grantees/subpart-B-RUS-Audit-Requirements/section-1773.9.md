@@ -1,5 +1,7 @@
 ##### § 1773.9 Disclosure of fraud, and noncompliance with provisions of laws, regulations, contracts, and loan and grant agreements. #####
 
+Link to an amendment published at 88 FR 7564, Feb. 6, 2023.
+
 (a) In accordance with GAGAS, the auditor is responsible for planning and performing the audit to provide reasonable assurance about whether the financial statements are free of material misstatement due to error or fraud. The auditor must also plan the audit to provide reasonable assurance of detecting material misstatements resulting from violations of provisions of laws, regulations, contracts or loan and grant agreements that could have a direct and material effect on the financial statements.
 
 (b) If specific information comes to the auditor's attention that provides evidence concerning the existence of possible violations of provisions of laws, regulations, contracts or loan and grant agreements that could have a material indirect effect on the financial statements, the auditor should apply audit procedures specifically directed to ascertaining whether a violation of provisions of laws, regulations, contract or grant agreements has occurred.

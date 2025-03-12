@@ -1,5 +1,7 @@
 ##### § 1773.6 Auditor communication. #####
 
+Link to an amendment published at 88 FR 7564, Feb. 6, 2023.
+
 (a) GAGAS and AICPA standards require that the auditor communicate with the auditee the auditor's understanding of the services to be performed and document that understanding through a written communication to those charged with governance. To be acceptable to RUS, the auditor's communication must take the form of an audit engagement letter prepared by the auditor and must be formally accepted by the governance board or an audit committee representing the governance board. In addition to the requirements of the AICPA's professional auditing standards and GAGAS, the engagement letter must also include the following:
 
 (1) The nature of planned work and level of assurance to be provided related to internal control over financial reporting and compliance with laws, regulation, and provision of contracts or grant agreements;

@@ -1,6 +1,6 @@
 ##### § 15.103 Exempted devices. #####
 
-The following devices are subject only to the general conditions of operation in §§ 15.5 and 15.29 and are exempt from the specific technical standards and other requirements contained in this part. The operator of the exempted device shall be required to stop operating the device upon a finding by the Commission or its representative that the device is causing harmful interference. Operation shall not resume until the condition causing the harmful interference has been corrected. Although not mandatory, it is strongly recommended that the manufacturer of an exempted device endeavor to have the device meet the specific technical standards in this part.
+Except as provided in paragraph (j) of this section, the following devices are subject only to the general conditions of operation in §§ 15.5 and 15.29, and are exempt from the specific technical standards and other requirements contained in this part. The operator of the exempted device shall be required to stop operating the device upon a finding by the Commission or its representative that the device is causing harmful interference. Operation shall not resume until the condition causing the harmful interference has been corrected. Although not mandatory, it is strongly recommended that the manufacturer of an exempted device endeavor to have the device meet the specific technical standards in this part.
 
 (a) A digital device utilized exclusively in any transportation vehicle including motor vehicles and aircraft.
 
@@ -19,3 +19,7 @@ The following devices are subject only to the general conditions of operation in
 (h) Digital devices in which both the highest frequency generated and the highest frequency used are less than 1.705 MHz and which do not operate from the AC power lines or contain provisions for operation while connected to the AC power lines. Digital devices that include, or make provision for the use of, battery eliminators, AC adaptors or battery chargers which permit operation while charging or that connect to the AC power lines indirectly, obtaining their power through another device which is connected to the AC power lines, do not fall under this exemption.
 
 (i) Responsible parties should note that equipment containing more than one device is not exempt from the technical standards in this part unless all of the devices in the equipment meet the criteria for exemption. If only one of the included devices qualifies for exemption, the remainder of the equipment must comply with any applicable regulations. If a device performs more than one function and all of those functions do not meet the criteria for exemption, the device does not qualify for inclusion under the exemptions.
+
+(j) Notwithstanding other provisions of this section, the rules governing certification apply to any equipment produced by any entity identified on the Covered List, as established pursuant to § 1.50002 of this chapter, as producing covered communications equipment.
+
+[54 FR 17714, Apr. 25, 1989, as amended at 88 FR 7625, Feb. 6, 2023]

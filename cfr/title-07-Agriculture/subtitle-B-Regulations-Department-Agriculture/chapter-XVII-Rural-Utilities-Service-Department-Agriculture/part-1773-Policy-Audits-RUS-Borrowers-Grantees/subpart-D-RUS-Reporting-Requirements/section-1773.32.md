@@ -1,5 +1,7 @@
 ##### § 1773.32 Report on internal control over financial reporting and on compliance and other matters. #####
 
+Link to an amendment published at 88 FR 7565, Feb. 6, 2023.
+
 (a) As required by GAGAS, the auditor must prepare a written report describing the scope of the auditor's testing of internal control over financial reporting and of compliance with provisions of laws, regulations, contracts, and loan and grant agreements, and that the tests provided sufficient, appropriate evidence to support opinions on the effectiveness of internal control and on compliance with provisions of laws, regulations, contracts, and loan and grant agreements. This report must include the manual or printed signature of the auditor and must include the following items as appropriate:
 
 (1) Significant deficiencies and material weaknesses in internal control;

@@ -1,5 +1,7 @@
 ##### § 680.2 Definitions. #####
 
+Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
+
 In addition to the definitions in the Magnuson-Stevens Act, in 50 CFR part 600, and § 679.2 of this chapter, the terms used in this part have the following meanings:
 
 *Adak community entity* means the non-profit entity incorporated under the laws of the state of Alaska that represents the community of Adak and has a board of directors elected by the residents of Adak.

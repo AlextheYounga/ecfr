@@ -1,5 +1,7 @@
 ##### § 1709.21 Audit requirements. #####
 
+Link to an amendment published at 88 FR 7561, Feb. 6, 2023.
+
 The grantee shall provide the Agency with an audit for each year, beginning with the year in which a portion of the financial assistance is expended, in accordance with the following:
 
 (a) If the grantee is a for-profit entity, an RUS Electric or Telecommunication borrower or any other entity not covered by paragraph (b) of this section, the recipient shall provide an independent audit report in accordance with 7 CFR part 1773, “Policy on Audits of RUS Borrowers” and the grant agreement.

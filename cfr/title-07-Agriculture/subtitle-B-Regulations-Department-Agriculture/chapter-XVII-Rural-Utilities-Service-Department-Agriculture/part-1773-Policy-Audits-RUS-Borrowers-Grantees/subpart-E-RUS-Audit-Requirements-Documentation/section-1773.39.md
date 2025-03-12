@@ -1,5 +1,7 @@
 ##### § 1773.39 Utility plant and accumulated depreciation. #####
 
+Link to an amendment published at 88 FR 7566, Feb. 6, 2023.
+
 (a) *General.* The audit of these accounts shall include tests of additions, replacements, retirements, and changes. The auditor's audit documentation shall support that the auditor:
 
 (1) Examined direct labor and material transactions to determine whether the auditee's accounting records reflect a complete accumulation of costs;

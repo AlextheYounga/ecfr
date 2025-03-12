@@ -1,6 +1,6 @@
 ##### § 2.909 Responsible party. #####
 
-(a) In the case of equipment that requires the issuance of a grant of certification, the party to whom that grant of certification is issued is responsible for the compliance of the equipment with the applicable standards. If the radio frequency equipment is modified by any party other than the grantee and that party is not working under the authorization of the grantee pursuant to § 2.929(b), the party performing the modification is responsible for compliance of the product with the applicable administrative and technical provisions in this chapter.
+(a) In the case of equipment that requires the issuance of a grant of certification, the party to whom that grant of certification is issued is responsible for the compliance of the equipment with the applicable technical and other requirements. If any party other than the grantee modifies the radio frequency equipment and that party is not working under the authorization of the grantee pursuant to § 2.929(b), the party performing the modification is responsible for compliance of the product with the applicable administrative and technical provisions in this chapter.
 
 (b) For equipment subject to Supplier's Declaration of Conformity the party responsible for the compliance of the equipment with the applicable standards, who must be located in the United States (see § 2.1077), is set forth as follows:
 
@@ -18,4 +18,4 @@
 
 (e) In the case of transfer of control of equipment, as in the case of sale or merger of the responsible party, the new entity shall bear the responsibility of continued compliance of the equipment.
 
-[82 FR 50825, Nov. 2, 2017]
+[82 FR 50825, Nov. 2, 2017, as amended at 88 FR 7623, Feb. 6, 2023]

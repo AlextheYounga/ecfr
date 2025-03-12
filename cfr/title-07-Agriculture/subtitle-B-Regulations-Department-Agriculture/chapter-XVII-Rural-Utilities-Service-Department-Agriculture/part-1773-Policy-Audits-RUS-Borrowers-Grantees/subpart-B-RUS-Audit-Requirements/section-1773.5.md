@@ -1,5 +1,7 @@
 ##### § 1773.5 Qualifications of the auditor. #####
 
+Link to an amendment published at 88 FR 7564, Feb. 6, 2023.
+
 Auditors that meet the qualifications criteria of this section and enter into an audit engagement with the auditee that complies with § 1773.6, will be considered satisfactory to RUS.
 
 (a) *Licensing.* Auditors that audit the financial statements of an RUS auditee must be licensed to perform attestation engagements in the United States of America. Auditors do not have to be licensed by the state in which the auditee is located; however, auditors must abide by the rules and regulations of professional conduct promulgated by the accountancy board of the state in which the auditee is located.

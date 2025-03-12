@@ -1,8 +1,10 @@
 ##### § 1719.13 Auditing and accounting requirements. #####
 
+Link to an amendment published at 88 FR 7561, Feb. 6, 2023.
+
 (a) *Accounting requirements.* RESP borrowers must follow RUS accounting requirements as set forth in the loan documents.
 
-(1) Existing RUS borrowers must continue recording and reporting transactions pursuant to the RUS Uniform Systems of Accounts - Electric, 7 CFR part 1767. Such borrowers will continue to follow the accounting and reporting requirements set forth in the previously executed loan documents for RUS outstanding loans.
+(1) Existing RUS borrowers must continue recording and reporting transactions pursuant to the RUS Uniform Systems of Accounts—Electric, 7 CFR part 1767. Such borrowers will continue to follow the accounting and reporting requirements set forth in the previously executed loan documents for RUS outstanding loans.
 
 (2) New and RESP only borrowers must adopt and follow a GAAP based system of accounts acceptable to RUS, as well as compliance with the requirements of 2 CFR part 200 (for RESP Awardees, the term “grant recipient” in 2 CFR part 200 will also mean “loan recipient.”)
 
@@ -16,7 +18,7 @@
 
 (b) *Auditing requirements.* RESP borrowers will be required to prepare and furnish to RUS, at least once during each 12-month period, a full and complete report of its financial condition, operations, and cash flows, on a comparative basis, along with a report on internal control over financial reporting and on compliance in other matters, both reports in form and substance satisfactory to RUS, audited and certified by an independent certified public accountant, satisfactory to RUS according to the requirements set forth in 7 CFR 1773.5.
 
-(1) Audits must follow governmental auditing standards issued by the Comptroller General of the United States (GAGAS) and the provisions of 2 CFR part 200, subpart F - Audit Requirements if applicable.
+(1) Audits must follow governmental auditing standards issued by the Comptroller General of the United States (GAGAS) and the provisions of 2 CFR part 200, subpart F—Audit Requirements if applicable.
 
 (2) RESP borrowers with outstanding RUS loans will be subject to the auditing requirements set forth in their existing RUS loan documents. RUS Policy on Audits of RUS Borrowers as provided in 7 CFR part 1773 will govern audits under this paragraph.
 

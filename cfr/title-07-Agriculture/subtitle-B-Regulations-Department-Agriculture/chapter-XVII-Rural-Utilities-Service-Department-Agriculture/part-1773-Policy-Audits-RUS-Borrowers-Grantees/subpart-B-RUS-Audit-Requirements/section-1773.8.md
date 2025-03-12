@@ -1,5 +1,7 @@
 ##### § 1773.8 Audit date. #####
 
+Link to an amendment published at 88 FR 7564, Feb. 6, 2023.
+
 (a) The annual audit must be performed as of the end of the same calendar month each year unless prior approval to change the audit date is obtained, in writing, from RUS.
 
 (1) An auditee may request a change in the audit date by writing to the AA-PARA at least 60 days prior to the currently approved audit date, providing justification for the change.

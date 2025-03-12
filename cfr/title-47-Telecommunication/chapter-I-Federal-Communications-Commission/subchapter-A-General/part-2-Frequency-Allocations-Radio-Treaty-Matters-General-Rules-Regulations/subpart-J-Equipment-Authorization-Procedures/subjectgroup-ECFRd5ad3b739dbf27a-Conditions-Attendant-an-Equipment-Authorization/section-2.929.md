@@ -12,8 +12,16 @@ Any change in the FCC Identifier desired as a result of such production or marke
 
 (2) The grantee of the equipment authorization shall continue to be responsible to the Commission for the equipment produced pursuant to such an agreement.
 
-(c) Whenever there is a change in the name and/or address of the grantee of certification, notice of such change(s) shall be submitted to the Commission via the Internet at *https://apps.fcc.gov/eas* within 30 days after the grantee starts using the new name and/or address.
+(3) Such second party must not be an entity identified on the Covered List established pursuant to § 1.50002 of this chapter.
+
+(c) Whenever there is a change in the name and/or address of the grantee of certification, or a change in the name, mailing address or physical address (if different from mailing address), email address, or telephone number of the designated agent for service of process in the United States, notice of such change(s) shall be submitted to the Commission via the internet at *https://www.fcc.gov/eas* within 30 days after the beginning use of the new name, mailing address or physical address (if different from mailing address), email address, or telephone number and include:
+
+(1) A written and signed certification that, as of the date of the filing of the notice, the equipment to which the change applies is not prohibited from receiving an equipment authorization pursuant to § 2.903;
+
+(2) An affirmative or negative statement as to whether the applicant is identified on the Covered List, established pursuant to § 1.50002 of this chapter, as an entity producing covered communications equipment; and
+
+(3) The written and signed certifications required under § 2.911(d)(7).
 
 (d) In the case of transactions affecting the grantee, such as a transfer of control or sale to another company, mergers, or transfer of manufacturing rights, notice must be given to the Commission via the Internet at *https://apps.fcc.gov/eas* within 60 days after the consummation of the transaction. Depending on the circumstances in each case, the Commission may require new applications for certification. In reaching a decision the Commission will consider whether the acquiring party can adequately ensure and accept responsibility for continued compliance with the regulations. In general, new applications for each device will not be required. A single application for certification may be filed covering all the affected equipment.
 
-[63 FR 36598, July 7, 1998, as amended at 69 FR 54033, Sept. 7, 2004; 80 FR 33441, June 12, 2015]
+[63 FR 36598, July 7, 1998, as amended at 69 FR 54033, Sept. 7, 2004; 80 FR 33441, June 12, 2015; 88 FR 7624, Feb. 6, 2023]

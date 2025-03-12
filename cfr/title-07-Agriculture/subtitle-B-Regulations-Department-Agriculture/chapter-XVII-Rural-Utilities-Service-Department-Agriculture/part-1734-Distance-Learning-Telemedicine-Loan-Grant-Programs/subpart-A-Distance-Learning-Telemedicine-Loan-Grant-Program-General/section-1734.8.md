@@ -1,5 +1,7 @@
 ##### § 1734.8 Audit requirements. #####
 
+Link to an amendment published at 88 FR 7561, Feb. 6, 2023.
+
 A recipient of financial assistance shall provide RUS with an audit for each year, beginning with the year in which a portion of the financial assistance is expended, in accordance with the following:
 
 (a) If the recipient is a for-profit entity, a Telecommunications or Electric borrower, or any other entity not covered by the following paragraph, the recipient shall provide an independent audit report in accordance with 7 CFR part 1773, “Policy on Audits of RUS Borrowers.”

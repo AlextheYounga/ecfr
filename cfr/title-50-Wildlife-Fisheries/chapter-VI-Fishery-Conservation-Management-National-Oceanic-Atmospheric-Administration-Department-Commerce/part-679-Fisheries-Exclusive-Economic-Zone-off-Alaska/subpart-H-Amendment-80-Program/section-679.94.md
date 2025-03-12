@@ -1,5 +1,7 @@
 ##### § 679.94 Economic data report (EDR) for the Amendment 80 sector and Gulf of Alaska Trawl Catcher/Processors. #####
 
+Link to an amendment published at 88 FR 7591, Feb. 6, 2023.
+
 (a) *Annual Trawl Catcher/Processor Economic Data Report (EDR)* - (1) *Requirement to submit an EDR.* A person who held an Amendment 80 QS permit during a calendar year, or an owner or leaseholder of a vessel that was named on a Limited License Program (LLP) groundfish license that authorizes a Catcher/Processor using trawl gear to harvest and process LLP groundfish species in the GOA must submit a complete Annual Trawl Catcher/Processor EDR for that calendar year by following the instructions on the Annual Trawl Catcher/Processor EDR form.
 
 (2) *Deadline.* A completed EDR or EDR certification pages must be submitted as required on the form to NMFS for each calendar year on or before 1700 hours, A.l.t., June 1 of the following year.
