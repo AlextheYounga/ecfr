@@ -1,7 +1,5 @@
 ##### § 27.5 Frequencies. #####
 
-Link to an amendment published at 82 FR 47160, Oct. 11, 2017.
-
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 
 (1) Two paired channel blocks are available for assignment on a Major Economic Area basis as follows:
@@ -96,6 +94,20 @@ No 125 kHz channels are provided for channels in operation in this service. The 
 
 (k) *1915-1920 MHz and 1995-2000 MHz bands.* The paired 1915-1920 MHz and 1995-2000 MHz bands are available for assignment on an Economic Area (EA) basis.
 
-(l) *600 MHz band.* In accordance with the terms and conditions established in Docket No. 12-268, pursuant to section 6403 of the Spectrum Act, paired channel blocks of 5 + 5 megahertz are available for assignment on a Partial Economic Area basis. The specific frequencies and number of channel blocks will be determined in light of further proceedings pursuant to Docket No. 12-268 and the rule will be updated accordingly pursuant to a future public notice.
+(l) *600 MHz band.* The 600 MHz band (617-652 MHz and 663-698 MHz) has seven pairs of 5 megahertz channel blocks available for assignment on a Partial Economic Area basis as follows:
+
+*Block A:* 617-622 MHz and 663-668 MHz;
+
+*Block B:* 622-627 MHz and 668-673 MHz;
+
+*Block C:* 627-632 MHz and 673-678 MHz;
+
+*Block D:* 632-637 MHz and 678-683 MHz;
+
+*Block E:* 637-642 MHz and 683-688 MHz;
+
+*Block F:* 642-647 MHz and 688-693 MHz; and
+
+*Block G:* 647-652 MHz and 693-698 MHz.
 
 [62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

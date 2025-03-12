@@ -1,5 +1,7 @@
 ##### § 40.331 To what additional parties must employers and service agents release information? #####
 
+Link to an amendment published at 82 FR 52247, Nov. 13, 2017.
+
 As an employer or service agent you must release information under the following circumstances:
 
 (a) If you receive a specific, written consent from an employee authorizing the release of information about that employee's drug or alcohol tests to an identified person, you must provide the information to the identified person. For example, as an employer, when you receive a written request from a former employee to provide information to a subsequent employer, you must do so. In providing the information, you must comply with the terms of the employee's consent.

@@ -1,5 +1,7 @@
 ##### § 107.692 Examination fees. #####
 
+Link to an amendment published at 82 FR 52185, Nov. 13, 2017.
+
 (a) *General.* SBA will assess fees for examinations in accordance with this § 107.692. Unless SBA determines otherwise on a case by case basis, SBA will not assess fees for special examinations to obtain specific information.
 
 (b) *Base fee.* A base fee will be assessed based on your total assets (at cost) as of the date of your latest certified financial statement or a more recent interim statement requested by and submitted to SBA in connection with the examination. The base fee table is as follows:

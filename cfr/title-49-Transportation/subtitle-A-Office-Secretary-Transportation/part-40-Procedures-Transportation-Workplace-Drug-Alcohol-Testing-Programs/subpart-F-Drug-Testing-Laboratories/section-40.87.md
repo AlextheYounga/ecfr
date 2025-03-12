@@ -1,5 +1,7 @@
 ##### § 40.87 What are the cutoff concentrations for drug tests? #####
 
+Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
+
 (a) As a laboratory, you must use the cutoff concentrations displayed in the following table for initial and confirmatory drug tests. All cutoff concentrations are expressed in nanograms per milliliter (ng/mL). The table follows:
 
 |    Initial test analyte    |Initial test cutoff concentration| Confirmatory test analyte |Confirmatory test cutoff concentration|

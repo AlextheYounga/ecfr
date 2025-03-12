@@ -1,5 +1,7 @@
 ##### § 40.33 What training requirements must a collector meet? #####
 
+Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
+
 To be permitted to act as a collector in the DOT drug testing program, you must meet each of the requirements of this section:
 
 (a) *Basic information.* You must be knowledgeable about this part, the current “DOT Urine Specimen Collection Procedures Guidelines,” and DOT agency regulations applicable to the employers for whom you perform collections, and you must keep current on any changes to these materials. The DOT Urine Specimen Collection Procedures Guidelines document is available from ODAPC (Department of Transportation, 1200 New Jersey Avenue, SE., Washington DC, 20590, 202-366-3784, or on the ODAPC web site (*http://www.dot.gov/ost/dapc*).

@@ -20,13 +20,17 @@ The food additive, formic acid, may be safely used in accordance with the follow
 
 (iii) Moisture not to exceed 15 percent.
 
-(3) To assure safe use of the additive, in addition to the other information required by the Federal Food, Drug and Cosmetic Act, the label and labeling shall contain:
+(3) To ensure safe use of the additive, formic acid and formate salts from all added sources cannot exceed 1.2 percent of complete feed when multiple sources of formic acid and its salts are used in combination.
+
+(4) To assure safe use of the additive, in addition to the other information required by the Federal Food, Drug and Cosmetic Act, the label and labeling shall contain:
 
 (i) The name of the additive.
 
 (ii) Adequate directions for use including a statement that formic acid must be uniformly applied and thoroughly mixed into complete swine feeds and that the complete swine feeds so treated shall be labeled as containing formic acid.
 
-(4) To assure safe use of the additive, in addition to the other information required by the Federal Food, Drug, and Cosmetic Act and paragraph (b)(3) of this section, the label and labeling shall contain:
+(iii) Cautions for use including this statement: Caution: Follow label directions. Formic acid and formate salts from all added sources cannot exceed 1.2 percent of complete feed when multiple sources of formic acid and its salts are used in combination.
+
+(5) To ensure safe use of the additive, in addition to the other information required by the Federal Food, Drug, and Cosmetic Act and paragraph (b)(4) of this section, the label and labeling shall contain:
 
 (i) Appropriate warnings and safety precautions concerning formic acid (85 percent formic acid).
 
@@ -38,4 +42,4 @@ The food additive, formic acid, may be safely used in accordance with the follow
 
 (B) Contact address and telephone number for reporting adverse reactions or to request a copy of the Material Safety Data Sheet (MSDS).
 
-[76 FR 7106, Feb. 9, 2011]
+[76 FR 7106, Feb. 9, 2011, as amended at 82 FR 52209, Nov. 13, 2017]

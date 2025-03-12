@@ -1,5 +1,7 @@
 ##### § 40.162 What must MROs do with multiple verified results for the same testing event? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 (a) If the testing event is one in which there was one specimen collection with multiple verified non-negative results, as the MRO, you must report them all to the DER. For example, if you verified the specimen as being positive for marijuana and cocaine and as being a refusal to test because the specimen was also adulterated, as the MRO, you should report the positives and the refusal to the DER.
 
 (b) If the testing event was one in which two separate specimen collections (e.g., a specimen out of temperature range and the subsequent observed collection) were sent to the laboratory, as the MRO, you must:

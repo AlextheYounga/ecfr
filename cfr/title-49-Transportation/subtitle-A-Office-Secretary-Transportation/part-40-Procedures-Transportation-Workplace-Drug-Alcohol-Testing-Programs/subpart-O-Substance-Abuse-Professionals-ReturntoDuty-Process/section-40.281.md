@@ -1,5 +1,7 @@
 ##### § 40.281 Who is qualified to act as a SAP? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 To be permitted to act as a SAP in the DOT drug and alcohol testing program, you must meet each of the requirements of this section:
 
 (a) *Credentials.* You must have one of the following credentials:

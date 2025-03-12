@@ -2,7 +2,7 @@
 
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
-(b) *Definitions.* For purposes of this section, the terms *compilation, collective work,**copy, derivative work,* and *work made for hire* have the meanings set forth in section 101 of title 17 of the United States Code, and the terms *claimant, Class TX,**Class VA,* and *works of the visual arts* have the meanings set forth in § 202.3(a)(3) and (b)(1)(i) and (iii).
+(b) *Definitions.* For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.
 
 (c)-(f) [Reserved]
 
@@ -28,10 +28,12 @@
 
 (h)-(j) [Reserved]
 
-(k) *Refusal to register.* The Copyright Office may refuse registration if the applicant fails to satisfy the requirements for registering a group of related works under this section or § 202.3(b)(5) through (7), (9), or (10).
+(k) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
 
-(l) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
+(l) *Refusal to register.* The Copyright Office may refuse registration if the applicant fails to satisfy the requirements for registering a group of related works under this section or § 202.3(b)(5) through (7), (9), or (10).
 
-(m) *The scope of a group registration.* When the Office issues a group registration under paragraph (g) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under sections 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+(m) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
 
-[82 FR 29413, June 29, 2017]
+(n) *The scope of a group registration.* When the Office issues a group registration under paragraph (g) or (k) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under sections 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017]

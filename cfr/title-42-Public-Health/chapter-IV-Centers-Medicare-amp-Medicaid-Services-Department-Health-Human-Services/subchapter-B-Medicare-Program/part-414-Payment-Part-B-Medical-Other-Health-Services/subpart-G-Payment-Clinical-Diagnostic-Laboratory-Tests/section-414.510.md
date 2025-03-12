@@ -1,5 +1,7 @@
 ##### § 414.510 Laboratory date of service for clinical laboratory and pathology specimens. #####
 
+Link to an amendment published at 82 FR 52636, Nov. 13, 2017.
+
 The date of service for either a clinical laboratory test or the technical component of physician pathology service is as follows:
 
 (a) Except as provided under paragraph (b) of this section, the date of service of the test must be the date the specimen was collected.

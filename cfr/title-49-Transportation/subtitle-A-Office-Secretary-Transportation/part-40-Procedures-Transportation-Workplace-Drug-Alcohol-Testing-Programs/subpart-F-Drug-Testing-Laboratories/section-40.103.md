@@ -1,5 +1,7 @@
 ##### § 40.103 What are the requirements for submitting blind specimens to a laboratory? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 (a) As an employer or C/TPA with an aggregate of 2000 or more DOT-covered employees, you must send blind specimens to laboratories you use. If you have an aggregate of fewer than 2000 DOT-covered employees, you are not required to provide blind specimens.
 
 (b) To each laboratory to which you send at least 100 specimens in a year, you must transmit a number of blind specimens equivalent to one percent of the specimens you send to that laboratory, up to a maximum of 50 blind specimens in each quarter (*i.e.,* January-March, April-June, July-September, October-December). As a C/TPA, you must apply this percentage to the total number of DOT-covered employees' specimens you send to the laboratory. Your blind specimen submissions must be evenly spread throughout the year. The following examples illustrate how this requirement works:

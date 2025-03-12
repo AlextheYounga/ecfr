@@ -1,5 +1,7 @@
 ##### § 40.203 What problems cause a drug test to be cancelled unless they are corrected? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 (a) As the MRO, when a laboratory discovers a “correctable flaw” during its processing of incoming specimens (see § 40.83), the laboratory will attempt to correct it. If the laboratory is unsuccessful in this attempt, it will report to you that the specimen has been “Rejected for Testing” (with the reason stated).
 
 (b) The following is a “correctable flaw” that laboratories must attempt to correct: The collector's signature is omitted on the certification statement on the CCF.

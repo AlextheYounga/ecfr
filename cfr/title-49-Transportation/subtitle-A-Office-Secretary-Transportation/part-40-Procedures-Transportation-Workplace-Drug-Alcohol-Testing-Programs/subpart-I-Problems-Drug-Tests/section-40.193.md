@@ -1,5 +1,7 @@
 ##### § 40.193 What happens when an employee does not provide a sufficient amount of urine for a drug test? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 (a) This section prescribes procedures for situations in which an employee does not provide a sufficient amount of urine to permit a drug test (*i.e.,* 45 mL of urine).
 
 (b) As the collector, you must do the following:

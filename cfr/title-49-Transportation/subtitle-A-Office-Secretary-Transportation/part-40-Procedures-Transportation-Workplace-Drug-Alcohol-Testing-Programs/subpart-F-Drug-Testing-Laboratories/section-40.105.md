@@ -1,5 +1,7 @@
 ##### § 40.105 What happens if the laboratory reports a result different from that expected for a blind specimen? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 (a) If you are an employer, MRO, or C/TPA who submits a blind specimen, and if the result reported to the MRO is different from the result expected, you must investigate the discrepancy.
 
 (b) If the unexpected result is a false negative, you must provide the laboratory with the expected results (obtained from the supplier of the blind specimen), and direct the laboratory to determine the reason for the discrepancy.

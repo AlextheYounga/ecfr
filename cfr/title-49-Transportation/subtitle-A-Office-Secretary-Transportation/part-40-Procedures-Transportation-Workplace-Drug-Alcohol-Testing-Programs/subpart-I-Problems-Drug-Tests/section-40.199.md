@@ -1,5 +1,7 @@
 ##### § 40.199 What problems always cause a drug test to be cancelled? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 (a) As the MRO, when the laboratory discovers a “fatal flaw” during its processing of incoming specimens (see § 40.83), the laboratory will report to you that the specimen has been “Rejected for Testing” (with the reason stated). You must always cancel such a test.
 
 (b) The following are “fatal flaws”:

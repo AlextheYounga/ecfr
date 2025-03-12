@@ -1,5 +1,7 @@
 ##### § 40.401 How does the Department notify employers and the public about a PIE? #####
 
+Link to an amendment published at 82 FR 52247, Nov. 13, 2017.
+
 (a) The Department maintains a document called the “List of Excluded Drug and Alcohol Service Agents.” This document may be found on the Department's web site (*http://www.dot.gov/ost/dapc*). You may also request a copy of the document from ODAPC.
 
 (b) When the Director issues a PIE, he or she adds to the List the name and address of the service agent, and any other persons or organizations, to whom the PIE applies and information about the scope and duration of the PIE.

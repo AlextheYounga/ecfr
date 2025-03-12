@@ -1,5 +1,7 @@
 ##### § 107.300 License application form and fee. #####
 
+Link to an amendment published at 82 FR 52184, Nov. 13, 2017.
+
 The license application must be submitted on SBA Form 2181 together with all applicable exhibits on SBA Form 2182 and a non-refundable processing fee computed as follows:
 
 (a) All license applicants will pay a base fee of $10,000.

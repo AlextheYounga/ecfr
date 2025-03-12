@@ -1,7 +1,5 @@
 ##### § 249.3 Definitions. #####
 
-Link to an amendment published at 82 FR 42919, Sept. 12, 2017.
-
 For the purposes of this part:
 
 *Affiliated depository institution* means with respect to a Board-regulated institution that is a depository institution, another depository institution that is a consolidated subsidiary of a bank holding company or savings and loan holding company of which the Board-regulated institution is also a consolidated subsidiary.
@@ -162,17 +160,17 @@ For the purposes of this part:
 
 (1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty;
 
-(2) The agreement provides the Board-regulated institution the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case, any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+(2) The agreement provides the Board-regulated institution the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case:
 
-(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar1 to the U.S. laws referenced in this paragraph (2)(i) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar1 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 1 The Board expects to evaluate jointly with the OCC and Federal Deposit Insurance Corporation whether foreign special resolution regimes meet the requirements of this paragraph.
 
-(ii) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i) of this definition;
+(B) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i)(A) of this definition; and
 
-(3) The agreement does not contain a walkaway clause (that is, a provision that permits a non-defaulting counterparty to make a lower payment than it otherwise would make under the agreement, or no payment at all, to a defaulter or the estate of a defaulter, even if the defaulter or the estate of the defaulter is a net creditor under the agreement); and
-
-(4) In order to recognize an agreement as a qualifying master netting agreement for purposes of this subpart, a Board-regulated institution must comply with the requirements of § 249.4(a) with respect to that agreement.
+(ii) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of subpart I of the Board's Regulation YY (part 252 of this chapter), part 47 of this title, or part 382 of this title, as applicable;
 
 *Reciprocal brokered deposit* means a brokered deposit that a Board-regulated institution receives through a deposit placement network on a reciprocal basis, such that:
 
@@ -282,4 +280,4 @@ For the purposes of this part:
 
 *Wholesale deposit means* a demand or term deposit that is provided by a wholesale customer or counterparty.
 
-[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016]
+[79 FR 61523, 61539, Oct. 10, 2014, as amended at 79 FR 78296, Dec. 30, 2014; 81 FR 21232, Apr. 11, 2016; 82 FR 42919, Sept. 12, 2017]

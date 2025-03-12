@@ -1,5 +1,7 @@
 ##### § 40.137 On what basis does the MRO verify test results involving marijuana, cocaine, amphetamines, or PCP? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 (a) As the MRO, you must verify a confirmed positive test result for marijuana, cocaine, amphetamines, and/or PCP unless the employee presents a legitimate medical explanation for the presence of the drug(s)/metabolite(s) in his or her system.
 
 (b) You must offer the employee an opportunity to present a legitimate medical explanation in all cases.

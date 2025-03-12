@@ -1,5 +1,7 @@
 ##### § 40.225 What form is used for an alcohol test? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 (a) The DOT Alcohol Testing Form (ATF) must be used for every DOT alcohol test. The ATF must be a three-part carbonless manifold form. The ATF is found in Appendix G to this part. You may view this form on the ODAPC web site (*http://www.dot.gov/ost/dapc*).
 
 (b) As an employer in the DOT alcohol testing program, you are not permitted to modify or revise the ATF except as follows:

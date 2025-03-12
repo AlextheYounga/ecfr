@@ -1,6 +1,6 @@
 ##### § 217.2 Definitions. #####
 
-Link to an amendment published at 82 FR 42918, Sept. 12, 2017.Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
+Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
 
 As used in this part:
 
@@ -82,13 +82,17 @@ As used in this part:
 
 *Clearing member client* means a party to a cleared transaction associated with a CCP in which a clearing member acts either as a financial intermediary with respect to the party or guarantees the performance of the party to the CCP.
 
-*Collateral agreement* means a legal contract that specifies the time when, and circumstances under which, a counterparty is required to pledge collateral to a Board-regulated institution for a single financial contract or for all financial contracts in a netting set and confers upon the Board-regulated institution a perfected, first-priority security interest (notwithstanding the prior security interest of any custodial agent), or the legal equivalent thereof, in the collateral posted by the counterparty under the agreement. This security interest must provide the Board-regulated institution with a right to close-out the financial positions and liquidate the collateral upon an event of default of, or failure to perform by, the counterparty under the collateral agreement. A contract would not satisfy this requirement if the Board-regulated institution's exercise of rights under the agreement may be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+*Collateral agreement* means a legal contract that specifies the time when, and circumstances under which, a counterparty is required to pledge collateral to a Board-regulated institution for a single financial contract or for all financial contracts in a netting set and confers upon the Board-regulated institution a perfected, first-priority security interest (notwithstanding the prior security interest of any custodial agent), or the legal equivalent thereof, in the collateral posted by the counterparty under the agreement. This security interest must provide the Board-regulated institution with a right to close-out the financial positions and liquidate the collateral upon an event of default of, or failure to perform by, the counterparty under the collateral agreement. A contract would not satisfy this requirement if the Board-regulated institution's exercise of rights under the agreement may be stayed or avoided:
 
-(1) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar4 to the U.S. laws referenced in this paragraph (1) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(1) Under applicable law in the relevant jurisdictions, other than:
+
+(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar4 to the U.S. laws referenced in this paragraph (1)(i) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 4 The Board expects to evaluate jointly with the OCC and Federal Deposit Insurance Corporation whether foreign special resolution regimes meet the requirements of this paragraph.
 
-(2) Where the agreement is subject by its terms to any of the laws referenced in paragraph (1) of this definition.
+(ii) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (1)(i) of this definition; or
+
+(2) Other than to the extent necessary for the counterparty to comply with the requirements of subpart I of the Board's Regulation YY (part 252 of this chapter), part 47 of this title, or part 382 of this title, as applicable.
 
 *Commitment* means any legally binding arrangement that obligates a Board-regulated institution to extend credit or to purchase assets.
 
@@ -318,11 +322,19 @@ As used in this part:
 
 (ii) The collateral is marked-to-fair value daily, and the transaction is subject to daily margin maintenance requirements; and
 
-(iii) The extension of credit is conducted under an agreement that provides the Board-regulated institution the right to accelerate and terminate the extension of credit and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, conservatorship, or similar proceeding, of the counterparty, provided that, in any such case, any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar6 to the U.S. laws referenced in this paragraph in order to facilitate the orderly resolution of the defaulting counterparty; or
+(iii) The extension of credit is conducted under an agreement that provides the Board-regulated institution the right to accelerate and terminate the extension of credit and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, conservatorship, or similar proceeding, of the counterparty, provided that, in any such case:
+
+(A) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+
+(*1*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs,5 or laws of foreign jurisdictions that are substantially similar6 to the U.S. laws referenced in this paragraph (1)(iii)(A)(*1*) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 5 This requirement is met where all transactions under the agreement are (i) executed under U.S. law and (ii) constitute “securities contracts” under section 555 of the Bankruptcy Code (11 U.S.C. 555), qualified financial contracts under section 11(e)(8) of the Federal Deposit Insurance Act, or netting contracts between or among financial institutions under sections 401-407 of the Federal Deposit Insurance Corporation Improvement Act or the Federal Reserve Board's Regulation EE (12 CFR part 231).
 
 6 The Board expects to evaluate jointly with the OCC and Federal Deposit Insurance Corporation whether foreign special resolution regimes meet the requirements of this paragraph.
+
+(*2*) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (1)(iii)(A)(*1*) of this definition; and
+
+(B) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of subpart I of the Board's Regulation YY (part 252 of this chapter), part 47 of this title, or part 382 of this title, as applicable.
 
 (2) In order to recognize an exposure as an eligible margin loan for purposes of this subpart, a Board-regulated institution must comply with the requirements of § 217.3(b) with respect to that exposure.
 
@@ -652,17 +664,17 @@ As used in this part:
 
 (1) The agreement creates a single legal obligation for all individual transactions covered by the agreement upon an event of default following any stay permitted by paragraph (2) of this definition, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty;
 
-(2) The agreement provides the Board-regulated institution the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case, any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+(2) The agreement provides the Board-regulated institution the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, conservatorship, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case:
 
-(i) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar7 to the U.S. laws referenced in this paragraph (2)(i) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(i) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+
+(A) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar7 to the U.S. laws referenced in this paragraph (2)(i)(A) in order to facilitate the orderly resolution of the defaulting counterparty; or
 
 7 The Board expects to evaluate jointly with the OCC and Federal Deposit Insurance Corporation whether foreign special resolution regimes meet the requirements of this paragraph.
 
-(ii) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i) of this definition;
+(B) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (2)(i)(A) of this definition; and
 
-(3) The agreement does not contain a walkaway clause (that is, a provision that permits a non-defaulting counterparty to make a lower payment than it otherwise would make under the agreement, or no payment at all, to a defaulter or the estate of a defaulter, even if the defaulter or the estate of the defaulter is a net creditor under the agreement); and
-
-(4) In order to recognize an agreement as a qualifying master netting agreement for purposes of this subpart, a Board-regulated institution must comply with the requirements of § 217.3(d) with respect to that agreement.
+(ii) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of subpart I of the Board's Regulation YY (part 252 of this chapter), part 47 of this title, or part 382 of this title, as applicable;
 
 *Regulated financial institution* means a financial institution subject to consolidated supervision and regulation comparable to that imposed on the following U.S. financial institutions: Depository institutions, depository institution holding companies, nonbank financial companies supervised by the Board, designated financial market utilities, securities broker-dealers, credit unions, or insurance companies.
 
@@ -676,9 +688,17 @@ As used in this part:
 
 (ii) If the transaction does not meet the criteria set forth in paragraph (3)(i) of this definition, then either:
 
-(A) The transaction is executed under an agreement that provides the Board-regulated institution the right to accelerate, terminate, and close-out the transaction on a net basis and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case, any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than in receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar8 to the U.S. laws referenced in this paragraph (3)(ii)(a) in order to facilitate the orderly resolution of the defaulting counterparty; or
+(A) The transaction is executed under an agreement that provides the Board-regulated institution the right to accelerate, terminate, and close-out the transaction on a net basis and to liquidate or set-off collateral promptly upon an event of default, including upon an event of receivership, insolvency, liquidation, or similar proceeding, of the counterparty, provided that, in any such case:
+
+(*1*) Any exercise of rights under the agreement will not be stayed or avoided under applicable law in the relevant jurisdictions, other than:
+
+(*i*) In receivership, conservatorship, or resolution under the Federal Deposit Insurance Act, Title II of the Dodd-Frank Act, or under any similar insolvency law applicable to GSEs, or laws of foreign jurisdictions that are substantially similar8 to the U.S. laws referenced in this paragraph (3)(ii)(A)(*1*)(*i*) in order to facilitate the orderly resolution of the defaulting counterparty;
 
 8 The Board expects to evaluate jointly with the OCC and Federal Deposit Insurance Corporation whether foreign special resolution regimes meet the requirements of this paragraph.
+
+(ii) Where the agreement is subject by its terms to, or incorporates, any of the laws referenced in paragraph (3)(ii)(A)(*1*)(*i*) of this definition; and
+
+(*2*) The agreement may limit the right to accelerate, terminate, and close-out on a net basis all transactions under the agreement and to liquidate or set-off collateral promptly upon an event of default of the counterparty to the extent necessary for the counterparty to comply with the requirements of subpart I of the Board's Regulation YY (part 252 of this chapter), part 47 of this title, or part 382 of this title, as applicable; or
 
 (B) The transaction is:
 
@@ -874,4 +894,4 @@ As used in this part:
 
 *Wrong-way risk* means the risk that arises when an exposure to a particular counterparty is positively correlated with the probability of default of such counterparty itself.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 79 FR 44124, July 30, 2014; 79 FR 57744, Sept. 26, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 41418, July 15, 2015; 80 FR 70672, Nov. 16, 2015; 80 FR 49103, Aug. 14, 2015; 82 FR 42918, Sept. 12, 2017]

@@ -1,5 +1,7 @@
 ##### § 40.231 What devices are used to conduct alcohol confirmation tests? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 (a) EBTs on the NHTSA CPL for evidential devices that meet the requirements of paragraph (b) of this section are the only devices you may use to conduct alcohol confirmation tests under this part. Note that, among devices on the CPL for EBTs, only those devices listed without an asterisk (\*) are authorized for use in confirmation testing in the DOT alcohol testing program.
 
 (b) To conduct a confirmation test, you must use an EBT that has the following capabilities:

@@ -1,5 +1,7 @@
 ##### § 40.45 What form is used to document a DOT urine collection? #####
 
+Link to an amendment published at 82 FR 52244, Nov. 13, 2017.
+
 (a) The Federal Drug Testing Custody and Control Form (CCF) must be used to document every urine collection required by the DOT drug testing program. You may view this form on the Department's Web site (*http://www.dot.gov/odapc*) or the HHS Web site (*http://www.workplace.samhsa.gov*).
 
 (b) You must not use a non-Federal form or an expired CCF to conduct a DOT urine collection. As a laboratory, C/TPA or other party that provides CCFs to employers, collection sites, or other customers, you must not provide copies of an expired CCF to these participants. You must also affirmatively notify these participants that they must not use an expired CCF (e.g., that after November 30, 2011, they must not use an expired CCF for DOT urine collections).

@@ -1,5 +1,7 @@
 ##### § 40.233 What are the requirements for proper use and care of EBTs? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 (a) As an EBT manufacturer, you must submit, for NHTSA approval, a quality assurance plan (QAP) for your EBT before NHTSA places the EBT on the CPL.
 
 (1) Your QAP must specify the methods used to perform external calibration checks on the EBT, the tolerances within which the EBT is regarded as being in proper calibration, and the intervals at which these checks must be performed. In designating these intervals, your QAP must take into account factors like frequency of use, environmental conditions (*e.g.,* temperature, humidity, altitude) and type of operation (*e.g.,* stationary or mobile).

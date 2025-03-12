@@ -1,5 +1,7 @@
 ##### § 40.123 What are the MRO's responsibilities in the DOT drug testing program? #####
 
+Link to an amendment published at 82 FR 52245, Nov. 13, 2017.
+
 As an MRO, you have the following basic responsibilities:
 
 (a) Acting as an independent and impartial “gatekeeper” and advocate for the accuracy and integrity of the drug testing process.

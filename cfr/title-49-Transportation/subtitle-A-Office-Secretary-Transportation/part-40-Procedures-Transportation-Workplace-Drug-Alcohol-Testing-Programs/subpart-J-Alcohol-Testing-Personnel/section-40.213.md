@@ -1,5 +1,7 @@
 ##### § 40.213 What training requirements must STTs and BATs meet? #####
 
+Link to an amendment published at 82 FR 52246, Nov. 13, 2017.
+
 To be permitted to act as a BAT or STT in the DOT alcohol testing program, you must meet each of the requirements of this section:
 
 (a) *Basic information.* You must be knowledgeable about the alcohol testing procedures in this part and the current DOT guidance. These documents and information are available from ODAPC (Department of Transportation, 1200 New Jersey Avenue, SE., Washington DC, 20590, 202-366-3784, or on the ODAPC web site, *http://www.dot.gov/ost/dapc*)).
