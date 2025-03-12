@@ -1,5 +1,7 @@
 ##### § 607.11 What must be included in individual development grant applications? #####
 
+Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+
 In addition to the information needed by the Secretary to determine whether the institution should be awarded a grant under the funding criteria contained in subpart C, an application for a development grant must include -
 
 (a) The institution's comprehensive development plan;

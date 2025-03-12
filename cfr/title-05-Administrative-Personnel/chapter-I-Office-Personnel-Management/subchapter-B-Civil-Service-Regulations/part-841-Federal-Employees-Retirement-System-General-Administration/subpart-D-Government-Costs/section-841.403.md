@@ -1,5 +1,7 @@
 ##### § 841.403 Categories of employees for computation of normal cost percentages. #####
 
+Link to an amendment published at 85 FR 59378, Sept. 22, 2020.
+
 Separate normal cost percentages for FERS, FERS-RAE and FERS-FRAE will be determined for each of the following groups of employees:
 
 (a) Members;

@@ -1,5 +1,7 @@
 ##### § 606.12 What must be included in cooperative arrangement grant applications? #####
 
+Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+
 (a)(1) Institutions applying for a cooperative arrangement grant shall submit only one application for that grant regardless of the number of institutions participating in the cooperative arrangement.
 
 (2) The application must include the names of each participating institution, the role of each institution, and the rationale for each eligible participating institution's decision to request grant funds as part of a cooperative arrangement rather than as an individual grantee.

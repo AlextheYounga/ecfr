@@ -1,0 +1,7 @@
+##### § 285.5 Failure to comply. #####
+
+(a) Grant funds may be withheld in whole or in part, or denied if there is a substantial failure by the Commonwealth of Puerto Rico to comply with the requirements of § 285.4, or to bring into compliance a plan of operation disapproved by FNS, or to comply with program requirements detailed in the plan of operation approved for that fiscal year. (For example, funds shall be paid to the Commonwealth of Puerto Rico to cover only the costs of the part or parts of the plan of operation receiving FNS approval. Withheld payments shall be paid when the unapproved part(s) of the plan are modified and approved.) FNS shall notify the Commonwealth of Puerto Rico that further payments shall not be made until FNS is satisfied that there will no longer be any such failure to comply.
+
+(b) Upon a finding of a substantial failure to comply with the requirements of § 285.4 or the plan of operation, FNS may, in addition to or in lieu of actions taken in accordance with paragraph (a) of this section, refer the matter to the Attorney General with a request that injunctive relief be sought from the appropriate district court of the United States to require compliance with these regulations by the Commonwealth of Puerto Rico.
+
+[Amdt. 209, 47 FR 32409, July 27, 1982. Redesignated by Amdt. 371, 61 FR 60013, Nov. 26, 1996]

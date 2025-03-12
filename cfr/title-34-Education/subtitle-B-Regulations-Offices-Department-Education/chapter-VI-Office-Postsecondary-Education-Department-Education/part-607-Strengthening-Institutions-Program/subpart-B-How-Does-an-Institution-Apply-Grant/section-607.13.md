@@ -1,5 +1,7 @@
 ##### § 607.13 How many applications for a development grant may an institution submit? #####
 
+Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+
 In any fiscal year, an institution of higher education that meets the eligibility requirements under sections 311, 316, and 317 of the HEA may -
 
 (a) Submit an application for a development grant authorized under sections 311, 316, and 317 of the HEA; and

@@ -1,0 +1,3 @@
+##### § 281.6 Liabilities and sanctions. #####
+
+An ITO administering SNAP on a reservation is subject to the same liabilities and Federal sanctions as is any other State agency. FNS shall monitor administration of the Program and conduct reviews through the Performance Reporting System described in part 275. When necessary, warning procedures and other Federal sanctions prescribed in part 276 will be implemented.

@@ -1,5 +1,7 @@
 ##### § 609.10 What activities may be carried out under a grant? #####
 
+Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+
 (a) *Allowable activities.* Except as provided in paragraph (b) of this section, a grantee may carry out the following activities under this part -
 
 (1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional or research purposes;

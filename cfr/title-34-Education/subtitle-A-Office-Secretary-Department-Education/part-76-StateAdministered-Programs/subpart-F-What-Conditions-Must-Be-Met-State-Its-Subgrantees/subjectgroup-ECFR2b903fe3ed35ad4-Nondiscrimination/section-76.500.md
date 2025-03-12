@@ -1,5 +1,7 @@
 ##### § 76.500 Federal statutes and regulations on nondiscrimination. #####
 
+Link to an amendment published at 85 FR 59979, Sept. 23, 2020.
+
 (a) A State and a subgrantee shall comply with the following statutes and regulations:
 
 |                           Subject                            |                                 Statute                                  |   Regulation   |

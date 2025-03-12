@@ -1,0 +1,3 @@
+##### § 283.24 Incorporation of procedures by reference. #####
+
+Except as otherwise provided, the following procedures detailed in subpart B of this part shall apply to appeals of QC claims of less than $50,000: §§ 283.5 *Motion to Dismiss*; 283.6 *Answer*; 283.8 *Rebuttal or Amendment of Appeal or Answer*; 283.9 *Withdrawal of Appeal*; 283.10 *Consent Decision*; 283.18 *Motions and Requests*; 283.19 *ALJ's*; 283.20 *Review by the Judicial Officer*; 283.21 *Ex Parte Communications*; 283.22 *Filings; Service; Extensions of Time; and Computations of Time*; and 283.23 *Procedural Matters.*

@@ -1,5 +1,7 @@
 ##### § 606.10 What activities may and may not be carried out under a grant? #####
 
+Link to an amendment published at 85 FR 59981, Sept. 23, 2020.
+
 (a) *Planning grants.* Under a planning grant, a grantee shall formulate -
 
 (1) A comprehensive development plan described in § 606.8; and

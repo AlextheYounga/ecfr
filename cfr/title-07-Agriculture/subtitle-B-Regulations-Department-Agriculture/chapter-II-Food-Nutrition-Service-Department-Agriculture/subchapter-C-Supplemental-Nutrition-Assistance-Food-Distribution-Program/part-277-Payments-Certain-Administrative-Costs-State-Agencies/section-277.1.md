@@ -1,0 +1,5 @@
+##### § 277.1 General purpose and scope. #####
+
+(a) *Purpose.* This part establishes uniform requirements for the management of administrative funds provided to State agencies and sets forth principles for claiming costs of activities paid with administrative funds under SNAP, and the Food Distribution Program and SNAP on Indian Reservations.
+
+(b) *Scope and applicability.* Upon compliance with the provisions of this part, payments to State agencies will be made for cost(s) incurred for administration of SNAP and for administration of the Food Distribution Program on Indian Reservations. To ensure maximum practical uniformity, deviation(s) by a State agency from this part may be authorized only when necessary to meet program objectives, to conserve program funds, or when essential to the public interest. However, any deviations from this part must be authorized by the Administrator of FNS.

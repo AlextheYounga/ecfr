@@ -1,5 +1,7 @@
 ##### § 843.309 Basic employee death benefit. #####
 
+Link to an amendment published at 85 FR 59379, Sept. 22, 2020.
+
 (a) Except as provided in § 843.312, if an employee or Member dies after completing at least 18 months of civilian service creditable under subpart C of part 842 of this chapter and is survived by a current spouse who meets the requirements of § 843.303, the current spouse is entitled to the basic employee death benefit equal to the sum of -
 
 (1) Fifty percent of the final annual rate of basic pay (or of the average pay, if higher) of the employee; and

@@ -1,5 +1,7 @@
 ##### § 75.500 Federal statutes and regulations on nondiscrimination. #####
 
+Link to an amendment published at 85 FR 59978, Sept. 23, 2020.
+
 (a) Each grantee shall comply with the following statutes and regulations:
 
 |                           Subject                           |                                 Statute                                  |  Regulations   |

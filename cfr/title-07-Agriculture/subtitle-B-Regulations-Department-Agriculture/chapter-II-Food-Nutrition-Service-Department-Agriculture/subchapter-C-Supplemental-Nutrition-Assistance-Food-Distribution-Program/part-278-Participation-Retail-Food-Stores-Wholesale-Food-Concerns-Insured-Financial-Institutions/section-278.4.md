@@ -1,0 +1,9 @@
+##### § 278.4 Procedure for redeeming coupons. #####
+
+(a) *Coupons accepted without authorization.* Coupons accepted by a retail food store or a wholesale food concern before the receipt by the firm of an authorization card from FNS may not be presented for redemption unless the FNS officer in charge has approved the redemption under § 278.7(b). Burned or mutilated coupons shall be presented for redemption to the FNS officer in charge as provided in § 278.7(c).
+
+(b) *Endorsing coupons.* Each authorized retail food store or authorized wholesale food concern shall mark its authorization number or name on each coupon before it presents the coupons for redemption.
+
+(c) *Using redemption certificates.* FNS will provide all authorized firms with redemption certificates. Wholesale food concerns and retail food stores, except for drug addict and alcoholic treatment and rehabilitation programs and public or private nonprofit homeless meal providers, shall use the redemption certificates to present coupons to insured financial institutions for credit or for cash. All retail food stores which wish to redeem coupons at wholesale food concerns shall use the redemption certificates for that purpose. An authorized retail firm using redemption certificates to redeem coupons shall fill out the redemption certificate to show the value of the coupons redeemed, the name of the insured financial institution or wholesaler, the date, and the signature and title of the official of the firm redeeming coupons.
+
+[Amdt. 136, 43 FR 43274, Sept. 22, 1978, as amended by Amdt. 286, 52 FR 7558, Mar. 11, 1987; Amdt. 344, 56 FR 54778, Oct. 23, 1991; Amdt. 343, 61 FR 53601, Oct. 15, 1996]
