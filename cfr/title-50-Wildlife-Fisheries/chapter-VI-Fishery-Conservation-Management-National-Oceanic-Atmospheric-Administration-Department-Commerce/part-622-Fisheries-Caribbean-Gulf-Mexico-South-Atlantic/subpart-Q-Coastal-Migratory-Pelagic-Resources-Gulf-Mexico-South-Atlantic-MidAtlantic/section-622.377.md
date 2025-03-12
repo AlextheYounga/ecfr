@@ -8,7 +8,7 @@
 
 (ii) A vessel in the South Atlantic or Mid-Atlantic EEZ, or having fished on a trip in such EEZ, with a gillnet on board that has a mesh size less than 3.5 inches (8.9 cm), stretched mesh, may possess or land on the day of that trip no more than 500 lb (227 kg) of incidentally caught Spanish mackerel.
 
-(2) On board a vessel with a valid Spanish mackerel permit that is fishing for Spanish mackerel in, or that possesses Spanish mackerel in or from, the South Atlantic EEZ off Florida north of 25°20.4′ N. lat., which is a line directly east from the Miami-Dade/Monroe County, FL, boundary -
+(2) On board a vessel with a valid Spanish mackerel permit that is fishing for Spanish mackerel in, or that possesses Spanish mackerel in or from, the South Atlantic EEZ off Florida north of 25°20.4′ N. lat., which is a line directly east from the Miami-Dade/Monroe County, FL, boundary—
 
 (i) No person may fish with, set, place in the water, or have on board a gillnet with a float line longer than 800 yd (732 m).
 
@@ -26,6 +26,6 @@
 
 (B) The receiving vessel may possess no more than three gillnets on board after the transfer is complete.
 
-(C) Prior to cutting the gillnet and prior to any transfer of Spanish mackerel from one vessel to another, the owner or operator of both vessels must contact NMFS Office for Law Enforcement, Port Orange, Florida, phone: 1-386-492-6686.
+(C) Prior to cutting the gillnet and prior to any transfer of Spanish mackerel from one vessel to another, the owner or operator of both vessels must contact NMFS Office for Law Enforcement, St Petersburg, Florida, phone: 1-727-824-5344.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014; 84 FR 47904, Sept. 11, 2019]

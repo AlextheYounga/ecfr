@@ -16,10 +16,8 @@
 
 (2) Having been on duty 70 hours in any period of 8 consecutive days if the employing motor carrier operates commercial motor vehicles every day of the week.
 
-(c)(1) Any period of 7 consecutive days may end with the beginning of an off-duty period of 34 or more consecutive hours that includes two periods from 1:00 a.m. to 5:00 a.m.
+(c)(1) Any period of 7 consecutive days may end with the beginning of an off-duty period of 34 or more consecutive hours.
 
-(2) Any period of 8 consecutive days may end with the beginning of an off-duty period of 34 or more consecutive hours that includes two periods from 1:00 a.m. to 5:00 a.m.
+(2) Any period of 8 consecutive days may end with the beginning of an off-duty period of 34 or more consecutive hours.
 
-(d) A driver may not take an off-duty period allowed by paragraph (c) of this section to restart the calculation of 60 hours in 7 consecutive days or 70 hours in 8 consecutive days until 168 or more consecutive hours have passed since the beginning of the last such off-duty period. When a driver takes more than one off-duty period of 34 or more consecutive hours within a period of 168 consecutive hours, he or she must indicate in the Remarks section of the record of duty status which such off-duty period is being used to restart the calculation of 60 hours in 7 consecutive days or 70 hours in 8 consecutive days.
-
-[76 FR 81188, Dec. 27, 2011, as amended at 78 FR 58485, Sept. 24, 2013; 78 FR 64181, Oct. 28, 2013]
+[76 FR 81188, Dec. 27, 2011, as amended at 78 FR 58485, Sept. 24, 2013; 78 FR 64181, Oct. 28, 2013; 84 FR 48081, Sept. 12, 2019]
