@@ -1,0 +1,7 @@
+##### § 1738.252 Construction. #####
+
+(a) Construction paid for with loan or loan/grant combination funds must comply with 7 CFR parts 1787, 1788, and 1970, the RUS Broadband Construction Procedures located at *https://reconnect.usda.gov,* and any other guidance from the Agency.
+
+(b) Once the Agency has extended a loan or loan/grant combination offer, the Applicant, at its own risk, may start construction that is included in the application on an interim financing basis. For this construction to be eligible for reimbursement with loan or loan/grant combination funds, all construction procedures contained in this part must be followed. Note, however, that the Agency's extension of a loan or loan/grant combination offer is not a guarantee that a loan or loan/grant combination will be made, unless and until a contract has been entered into between the Applicant and RUS.
+
+(c) All Awardees must complete build-out within 5 years from the date that funds have been made available. Build-out is considered complete when the network design has been fully implemented, the service operations and management systems infrastructure is operational, and the awardee is ready to support the activation and commissioning of individual customers to the new system.

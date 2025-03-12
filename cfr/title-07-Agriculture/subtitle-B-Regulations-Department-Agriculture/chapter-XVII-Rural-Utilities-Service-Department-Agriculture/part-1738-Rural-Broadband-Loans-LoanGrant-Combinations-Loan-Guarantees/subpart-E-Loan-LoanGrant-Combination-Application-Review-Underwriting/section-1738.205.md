@@ -1,0 +1,3 @@
+##### § 1738.205 Competitive analysis. #####
+
+The Applicant must submit a competitive market analysis for each service area regardless of projected penetration rates. Each analysis must identify all existing service providers and all resellers in each service area regardless of the provider's market share, for each type of service the Applicant proposes to provide. The analysis must compare the rates, services, and the quality of that service being offered by competitors against those that will be offered by the Applicant. The analysis must also discuss strategies the Applicant will use to compete, as well as the impacts of the competitors on the projected penetration rates for the project.

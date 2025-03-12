@@ -18,6 +18,6 @@
 
 (b) [Reserved]
 
-(c) When fish scrap or fish meal is offered for transportation by vessel in bulk in freight containers, the fish meal must contain at least 100 ppm of anti-oxident (ethoxyquin) at the time of shipment.
+(c) When fish scrap or fish meal is offered for transportation by vessel in bulk in freight containers, the fish scrap or fish meal shall contain at least 50 ppm (mg/kg) of ethoxyquin, 100 ppm (mg/kg) of butylated hydroxytoluene (BHT) or 250 ppm (mg/kg) of tocopherol based antioxidant at the time of shipment.
 
-[Amdt. 173-224, 55 FR 52643, Dec. 21, 1990, as amended at 68 FR 45034, July 31, 2003]
+[Amdt. 173-224, 55 FR 52643, Dec. 21, 1990, as amended at 68 FR 45034, July 31, 2003; 85 FR 27886, May 11, 2020]

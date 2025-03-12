@@ -1,5 +1,7 @@
 ##### § 127.300 How is a concern certified as an EDWOSB or WOSB? #####
 
+Link to an amendment published at 85 FR 27660, May 11, 2020.
+
 (a) *General.* At the time a concern submits an offer on a specific contract (including a Multiple Award Contract) or order reserved for competition among EDWOSBs or WOSBs under this Part, it must be registered in the System for Award Management (SAM) (or any successor system), have a current representation posted on SAM (or any successor system) that it qualifies as an EDWOSB or WOSB, and have provided the required documents to the WOSB Program Repository, or if the repository is unavailable, be prepared to submit the documents to the contracting officer if selected as the apparent successful offeror.
 
 (b) *Form of certification.* In conjunction with its required registration in the SAM (or any successor system), the concern must submit a copy of the Women-Owned Small Business Program Certification (WOSB or EDWOSB) to the WOSB Program Repository and representations to the electronic annual representations and certifications at *http://orca.bpn.gov,* that it is a qualified EDWOSB or WOSB. The Women-Owned Small Business Program Certification (WOSB or EDWOSB) and representation must state, subject to penalties for misrepresentation, that:

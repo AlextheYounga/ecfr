@@ -1,5 +1,7 @@
 ##### § 127.203 What are the rules governing the requirement that economically disadvantaged women must own EDWOSBs? #####
 
+Link to an amendment published at 85 FR 27660, May 11, 2020.
+
 (a) *General.* To qualify as an EDWOSB, the concern must be at least 51 percent owned by one or more women who are economically disadvantaged. A woman is economically disadvantaged if she can demonstrate that her ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same or similar line of business. SBA does not take into consideration community property laws when determining economic disadvantage when the woman has no direct, individual or separate ownership interest in the property.
 
 (b) *Limitation on personal net worth.* (1) In order to be considered economically disadvantaged, the woman's personal net worth must be less than $750,000, excluding her ownership interest in the concern and her equity interest in her primary personal residence.

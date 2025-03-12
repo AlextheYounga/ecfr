@@ -188,10 +188,10 @@ Replacement closures and gasketings qualified under the above test requirements 
 
 (vii) Maximum capacity;
 
-(viii) Characteristics of test contents, e.g., viscosity and relative density for liquids and particle size for solids;
+(viii) Characteristics of test contents, including for plastic packagings subject to the hydrostatic pressure test in § 178.605 of this subpart, the temperature of the water used;
 
 (ix) Test descriptions and results; and
 
 (x) Signed with the name and title of signatory.
 
-[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013]
+[Amdt. 178-97, 55 FR 52723, Dec. 21, 1990, as amended at 56 FR 66285, Dec. 20, 1991; 57 FR 45465, Oct. 1, 1992; Amdt. 178-102, 59 FR 28494, June 2, 1994; Amdt. 178-106, 59 FR 67521, 67522, Dec. 29, 1994; Amdt. 178-117, 61 FR 50628, Sept. 26, 1996; 66 FR 45386, Aug. 28, 2001; 67 FR 53143, Aug. 14, 2002; 68 FR 75758, Dec. 31, 2003; 68 FR 61942, Oct. 30, 2003; 75 FR 5396, Feb. 2, 2010; 75 FR 60339, Sept. 30, 2010; 77 FR 60944, Oct. 5, 2012; 78 FR 1118, Jan. 7, 2013; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 85 FR 27901, May 11, 2020]

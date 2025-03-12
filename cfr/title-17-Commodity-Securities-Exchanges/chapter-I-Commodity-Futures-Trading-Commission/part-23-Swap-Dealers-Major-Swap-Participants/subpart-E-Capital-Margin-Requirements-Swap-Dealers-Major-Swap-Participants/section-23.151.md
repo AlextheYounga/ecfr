@@ -1,5 +1,7 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
+Link to an amendment published at 85 FR 27678, May 11, 2020.
+
 For the purposes of §§ 23.150 through 23.161:
 
 *Bank holding company* has the meaning specified in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).

@@ -1,0 +1,3 @@
+##### § 1738.155 Advance of funds. #####
+
+RUS loan and grant advances are made at the request of the Awardee according to the procedures stipulated in the Award documents. For loan and loan/grant combination Awards, all non-RUS funds must be expended first, followed by loan funds and then grant funds, except for RUS approved development costs. Grant funds for eligible development costs, if any, will be used only on the first advance request.

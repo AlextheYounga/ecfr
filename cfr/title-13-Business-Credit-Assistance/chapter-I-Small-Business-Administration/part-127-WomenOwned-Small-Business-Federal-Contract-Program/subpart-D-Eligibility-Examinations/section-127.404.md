@@ -1,5 +1,7 @@
 ##### § 127.404 What happens if SBA is unable to verify a concern's eligibility? #####
 
+Link to an amendment published at 85 FR 27664, May 11, 2020.
+
 (a) *Notice of proposed determination of ineligibility.* If SBA is unable to verify that the concern qualifies as an EDWOSB or WOSB, then the D/GC will send the concern a written notice explaining the reasons SBA believes the concern did not qualify at the time of certification or does not qualify as an EDWOSB or WOSB. The notice will advise the concern that it has fifteen (15) calendar days from the date of the notice to respond.
 
 (b) *SBA determination.* Following the fifteen (15) day response period, the D/GC or designee will consider the reasons of proposed ineligibility and any information the concern submitted in response, and will send the concern a written decision with its findings. The D/GC's decision is effective immediately and remains in full force and effect unless a new examination verifies the concern is an eligible EDWOSB or WOSB or the concern is certified by a third-party certifier.

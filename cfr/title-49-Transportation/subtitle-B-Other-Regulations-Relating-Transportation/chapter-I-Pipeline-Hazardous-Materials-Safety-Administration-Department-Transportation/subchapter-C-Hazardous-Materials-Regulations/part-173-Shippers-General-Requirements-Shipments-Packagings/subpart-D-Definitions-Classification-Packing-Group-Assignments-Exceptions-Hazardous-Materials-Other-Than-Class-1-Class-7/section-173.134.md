@@ -12,7 +12,7 @@
 
 (3) *Culture* means an infectious substance containing a pathogen that is intentionally propagated. *Culture* does not include a human or animal patient specimen as defined in paragraph (a)(4) of this section.
 
-(4) *Patient specimen* means human or animal material collected directly from humans or animals and transported for research, diagnosis, investigational activities, or disease treatment or prevention. *Patient specimen* includes excreta, secreta, blood and its components, tissue and tissue swabs, body parts, and specimens in transport media (*e.g.*, transwabs, culture media, and blood culture bottles).
+(4) *Patient specimens* means those collected directly from humans or animals and transported for research, diagnosis, investigational activities, or disease treatment or prevention. *Patient specimens* includes excreta, secreta, blood and its components, tissue and tissue swabs, body parts, and specimens in transport media (*e.g.,* transwabs, culture media, and blood culture bottles).
 
 (5) *Regulated medical waste or clinical waste or (bio) medical waste* means a waste or reusable material derived from the medical treatment of an animal or human, which includes diagnosis and immunization, or from biomedical research, which includes the production and testing of biological products. Regulated medical waste or clinical waste or (bio) medical waste containing a Category A infectious substance must be classed as an infectious substance, and assigned to UN2814 or UN2900, as appropriate.
 
@@ -116,4 +116,4 @@
 
 (e) *Transitional provisions.* The authorization for continued use of the criteria for packing group assignments in effect on December 31, 2006 ended on January 1, 2012.
 
-[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013]
+[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013; 85 FR 27880, May 11, 2020]

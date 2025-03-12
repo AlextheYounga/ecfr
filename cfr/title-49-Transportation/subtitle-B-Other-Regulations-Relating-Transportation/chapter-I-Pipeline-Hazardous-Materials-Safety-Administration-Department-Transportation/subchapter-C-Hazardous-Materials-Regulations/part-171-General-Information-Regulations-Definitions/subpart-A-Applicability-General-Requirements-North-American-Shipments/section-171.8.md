@@ -745,7 +745,9 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *UN portable tank* means an intermodal tank having a capacity of more than 450 liters (118.9 gallons). It includes a shell fitted with service equipment and structural equipment, including stabilizing members external to the shell and skids, mountings or accessories to facilitate mechanical handling. A UN portable tank must be capable of being filled and discharged without the removal of its structural equipment and must be capable of being lifted when full. Cargo tanks, rail tank car tanks, non-metallic tanks, non-specification tanks, bulk bins, and IBCs and packagings made to cylinder specifications are not UN portable tanks.
 
-*UN pressure receptacle* means a UN cylinder or tube.
+*UN pressure drum* means a welded transportable pressure receptacle of a water capacity exceeding 150 L (39.6 gallons) and not more than 1,000 L (264.2 gallons) (*e.g.* cylindrical receptacles equipped with rolling hoops, spheres on skids).
+
+*UN pressure receptacle* means a UN cylinder, drum, or tube.
 
 *UN Recommendations* means the UN Recommendations on the Transport of Dangerous Goods (IBR, see § 171.7).
 

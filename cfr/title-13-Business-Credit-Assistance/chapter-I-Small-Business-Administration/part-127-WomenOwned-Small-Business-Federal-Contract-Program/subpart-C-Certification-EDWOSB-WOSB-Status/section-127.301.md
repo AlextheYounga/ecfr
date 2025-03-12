@@ -1,5 +1,7 @@
 ##### § 127.301 When may a contracting officer accept a concern's self-certification? #####
 
+Link to an amendment published at 85 FR 27661, May 11, 2020.
+
 (a) *General.* (1) *Third-Party Certifications.* A contracting officer may accept a concern's self-certification in SAM (or any successor system) as accurate for a specific procurement reserved for award under this Part if the apparent successful offeror WOSB or EDWOSB provided the required documents, which are set forth in § 127.300(d), and there has been no protest or other credible information that calls into question the concern's eligibility as a EDWOSB or WOSB. An example of such credible evidence includes information that the concern was determined by SBA or an SBA-approved certifier not to qualify as an EDWOSB or WOSB.
 
 (2) *Non-Third Party Certification.* A contracting officer may accept a concern's self-certification in SAM (or any successor system) if the apparent successful offeror WOSB or EDWOSB has provided the required documents, which are set forth in § 127.300(e), and there has been no protest or other credible information that calls into question the concern's eligibility as an EDWOSB or WOSB.

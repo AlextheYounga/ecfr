@@ -1,14 +1,16 @@
-##### § 173.127 Class 5, Division 5.1 - Definition and assignment of packing groups. #####
+##### § 173.127 Class 5, Division 5.1—Definition and assignment of packing groups. #####
 
 (a) *Definition.* For the purpose of this subchapter, *oxidizer* (Division 5.1) means a material that may, generally by yielding oxygen, cause or enhance the combustion of other materials.
 
-(1) A solid material is classed as a Division 5.1 material if, when tested in accordance with the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter):
+(1) A solid material, except for solid ammonium nitrate based fertilizer (see paragraph (a)(3) of this section), is classed as a Division 5.1 material if, when tested in accordance with the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter):
 
 (i) If test O.1 is used (UN Manual of Tests and Criteria, sub-section 34.4.1), the mean burning time is less than or equal to the burning time of a 3:7 potassium bromate/cellulose mixture; or
 
 (ii) If test O.3 is used (UN Manual of Tests and Criteria, sub-section 34.4.3), the mean burning rate is greater than or equal to the burning rate of a 1:2 calcium peroxide/cellulose mixture.
 
 (2) A liquid material is classed as a Division 5.1 material if, when tested in accordance with the UN Manual of Tests and Criteria, it spontaneously ignites or its mean time for a pressure rise from 690 kPa to 2070 kPa gauge is less then the time of a 1:1 nitric acid (65 percent)/cellulose mixture.
+
+(3) Solid ammonium nitrate-based fertilizers must be classified in accordance with the procedure as set out in the UN Manual of Tests and Criteria, Part III, Section 39.
 
 (b) *Assignment of packing groups.* (1) The packing group of a Division 5.1 material which is a solid shall be assigned using the following criteria:
 
@@ -48,4 +50,4 @@
 
 (iii) Packing Group III, any material which exhibits a mean pressure rise time less than or equal to the pressure rise time of a 1:1 nitric acid (65 percent)/cellulose mixture and the criteria for Packing Group I and II are not met.
 
-[Amdt. 173-261, 62 FR 24732, May 6, 1997, as amended at 68 FR 75744, Dec. 31, 2003; 80 FR 1156, Jan. 8, 2015; 80 FR 72924, Nov. 23, 2015]
+[Amdt. 173-261, 62 FR 24732, May 6, 1997, as amended at 68 FR 75744, Dec. 31, 2003; 80 FR 1156, Jan. 8, 2015; 80 FR 72924, Nov. 23, 2015; 85 FR 27880, May 11, 2020]

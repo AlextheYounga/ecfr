@@ -6,11 +6,11 @@
 
 (2) Short circuits, including, but not limited to:
 
-(i) Packaging each battery or each battery-powered device when practicable, in fully enclosed inner packagings made of non-conductive material;
+(i) Packaging each battery or each battery-powered device when practicable, in fully enclosed inner packagings made of electrically non-conductive material;
 
-(ii) Separating or packaging batteries and battery-powered devices in a manner to prevent contact with other batteries, devices or conductive materials (*e.g.*, metal) in the packagings; or
+(ii) Separating or packaging batteries and battery-powered devices in a manner to prevent contact with other batteries, devices or electrically conductive materials (*e.g.,* metal) in the packagings; or
 
-(iii) Ensuring exposed terminals are protected with non-conductive caps, non-conductive tape, or by other appropriate means; and
+(iii) Ensuring exposed terminals are protected with electrically non-conductive caps, electrically non-conductive tape, or by other appropriate means; and;
 
 (3) *Damage to terminals.* If not impact resistant, the outer packaging must not be used as the sole means of protecting the battery terminals from damage or short circuiting. Batteries must be securely cushioned and packed to prevent shifting which could loosen terminal caps or reorient the terminals. Batteries contained in devices must be securely installed. Terminal protection methods include but are not limited to:
 
@@ -44,7 +44,7 @@
 
 (d) The following non-specification packagings are authorized for batteries packed without other materials provided all requirements of paragraph (a) of this section, and for transportation by aircraft, paragraph (b) of this section are met:
 
-(1) Electric storage batteries are firmly secured to skids or pallets capable of withstanding the shocks normally incident to transportation are authorized for transportation by rail, highway, or vessel. The height of the completed unit must not exceed 11/2 times the width of the skid or pallet. The unit must be capable of withstanding, without damage, a superimposed weight equal to two times the weight of the unit or, if the weight of the unit exceeds 907 kg (2,000 pounds), a superimposed weight of 1814 kg (4,000 pounds). Battery terminals must not be relied upon to support any part of the superimposed weight and must not short out if a conductive material is placed in direct contact with them.
+(1) Electric storage batteries are firmly secured to skids or pallets capable of withstanding the shocks normally incident to transportation are authorized for transportation by rail, highway, or vessel. The height of the completed unit must not exceed 11/2 times the width of the skid or pallet. The unit must be capable of withstanding, without damage, a superimposed weight equal to two times the weight of the unit or, if the weight of the unit exceeds 907 kg (2,000 pounds), a superimposed weight of 1,814 kg (4,000 pounds). Battery terminals must not be relied upon to support any part of the superimposed weight and must not short out if an electrically conductive material is placed in direct contact with them.
 
 (2) Electric storage batteries weighing 225 kg (500 pounds) or more, consisting of carriers' equipment, may be shipped by rail when mounted on suitable skids. Such shipments may not be offered in interchange service.
 
@@ -112,4 +112,4 @@
 
 (2) Shipment of damage batteries in accordance with this paragraph is eligible for exception under paragraph (e) of this section.
 
-[74 FR 2257, Jan. 14, 2009, as amended at 81 FR 3673, Jan. 21, 2016; 81 FR 18540, Mar. 31, 2016; 81 FR 35541, June 2, 2016]
+[74 FR 2257, Jan. 14, 2009, as amended at 81 FR 3673, Jan. 21, 2016; 81 FR 18540, Mar. 31, 2016; 81 FR 35541, June 2, 2016; 85 FR 27882, May 11, 2020]

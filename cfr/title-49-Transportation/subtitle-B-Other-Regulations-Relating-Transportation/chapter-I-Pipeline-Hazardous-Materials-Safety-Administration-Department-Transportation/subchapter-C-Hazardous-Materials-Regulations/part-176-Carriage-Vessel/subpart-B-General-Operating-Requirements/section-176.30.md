@@ -32,6 +32,14 @@
 
 (v) A complete record, by time intervals of one week, of all receipts and disbursements of hazardous materials. The name and address of the consignor must be shown against all receipts and the name and address of the consignee against all deliveries.
 
+(9) For excepted packages containing Class 7 materials only the following information is required:
+
+(i) The UN identification number for the material preceded by the letters “UN”;
+
+(ii) The name and address of the consignor and the consignee; and
+
+(iii) The stowage location of the hazardous material on board the vessel.
+
 (b) The hazardous material information on the dangerous cargo manifest must be the same as the information furnished by the shipper on the shipping order or other shipping paper, except that the IMO “correct technical name” and the IMO class may be indicated on the manifest as provided in paragraphs (a)(3) and (a)(5) of this section. The person who supervises the preparation of the manifest, list, or stowage plan shall ensure that the information is correctly transcribed, and shall certify to the truth and accuracy of this information to the best of his knowledge and belief by his signature and notation of the date prepared.
 
 (c) The carrier and its agents shall insure that the master, or a licensed deck officer designated by the master and attached to the vessel, or in the case of a barge, the person in charge of the barge, acknowledges the correctness of the dangerous cargo manifest, list or stowage plan by his signature.

@@ -2,21 +2,24 @@
 
 (a) For stowage on an aircraft, in a cargo facility, or in any other area at an airport designated for the stowage of hazardous materials, packages containing hazardous materials which might react dangerously with one another may not be placed next to each other or in a position that would allow a dangerous interaction in the event of leakage.
 
-(b) At a minimum, the segregation instructions prescribed in the following Segregation Table must be followed to maintain acceptable segregation between packages containing hazardous materials with different hazards. The Segregation Table instructions apply whether or not the class or division is the primary or subsidiary risk. The Segregation Table follows:
+(b)(1) At a minimum, the segregation instructions prescribed in the following Segregation Table must be followed to maintain acceptable segregation between packages containing hazardous materials with different hazards. The Segregation Table instructions apply whether or not the class or division is the primary or subsidiary risk.
 
-Segregation Table
+(2) Packages and overpacks containing articles of Identification Numbers UN3090 and UN3480 prepared in accordance with § 173.185(b)(3) and (c)(4)(vi) must not be stowed on an aircraft next to, in contact with, or in a position that would allow interaction with packages or overpacks containing hazardous materials that bear a Class 1 (other than Division 1.4S), Division 2.1, Class 3, Division 4.1, or Division 5.1 hazard label. To maintain acceptable segregation between packages and overpacks, the segregation requirements shown in the Segregation Table must be followed. The segregation requirements apply based on all hazard labels applied to the package or overpack, irrespective of whether the hazard is the primary or subsidiary hazard.
 
-|Hazard label|Class or division|      |      |      |      |      |      |      |
-|------------|-----------------|------|------|------|------|------|------|------|
-|     1      |        2        |  3   | 4.2  | 4.3  | 5.1  | 5.2  |  8   |      |
-|     1      |     Note 1      |Note 2|Note 2|Note 2|Note 2|Note 2|Note 2|Note 2|
-|     2      |     Note 2      |      |      |      |      |      |      |      |
-|     3      |     Note 2      |      |      |      |      |  X   |      |      |
-|    4.2     |     Note 2      |      |      |      |      |  X   |      |      |
-|    4.3     |     Note 2      |      |      |      |      |      |      |  X   |
-|    5.1     |     Note 2      |      |  X   |  X   |      |      |      |      |
-|    5.2     |     Note 2      |      |      |      |      |      |      |      |
-|     8      |     Note 2      |      |      |      |  X   |      |      |      |
+|Hazard label|Class or division|        |      |          |      |      |      |          |      |                  |      |
+|------------|-----------------|--------|------|----------|------|------|------|----------|------|------------------|------|
+|     1      |       2.1       |2.2, 2.3|  3   |   4.1    | 4.2  | 4.3  | 5.1  |   5.2    |  8   |9  <br/>see (b)(2)|      |
+|     1      |     Note 1      | Note 2 |Note 2|  Note 2  |Note 2|Note 2|Note 2|  Note 2  |Note 2|      Note 2      |Note 2|
+|    2.1     |     Note 2      |        |      |          |      |      |      |          |      |                  |  X   |
+|  2.2, 2.3  |     Note 2      |        |      |          |      |      |      |          |      |                  |      |
+|     3      |     Note 2      |        |      |          |      |      |      |X (Note 3)|      |                  |  X   |
+|    4.1     |     Note 2      |        |      |          |      |      |      |          |      |                  |  X   |
+|    4.2     |     Note 2      |        |      |          |      |      |      |    X     |      |                  |      |
+|    4.3     |     Note 2      |        |      |          |      |      |      |          |      |        X         |      |
+|    5.1     |     Note 2      |        |      |X (Note 3)|      |  X   |      |          |      |                  |  X   |
+|    5.2     |     Note 2      |        |      |          |      |      |      |          |      |                  |      |
+|     8      |     Note 2      |        |      |          |      |      |  X   |          |      |                  |      |
+|9 see (b)(2)|     Note 2      |   X    |      |    X     |  X   |      |      |    X     |      |                  |      |
 
 (c) Instructions for using the Segregation Table are as follows:
 
@@ -42,4 +45,6 @@ Segregation Table
 
 (7) A package labeled “BLASTING AGENT” may not be stowed next to or in a position that will allow contact with a package of special fireworks or railway torpedoes.
 
-[71 FR 14604, Mar. 22, 2006, as amended at 71 FR 54396, Sept. 14, 2006; 71 FR 78634, Dec. 29, 2006; 76 FR 3384, Jan. 19, 2011]
+(8) Note 3. “Note 3” at the intersection of a row and column means that UN 3528, Engines, internal combustion, flammable liquid powered; Engines, fuel cell, flammable liquid powered; Machinery internal combustion, flammable liquid powered; and Machinery, fuel cell, flammable liquid powered need not be segregated from packages containing dangerous goods in Division 5.1.
+
+[71 FR 14604, Mar. 22, 2006, as amended at 71 FR 54396, Sept. 14, 2006; 71 FR 78634, Dec. 29, 2006; 76 FR 3384, Jan. 19, 2011; 85 FR 27899, May 11, 2020]

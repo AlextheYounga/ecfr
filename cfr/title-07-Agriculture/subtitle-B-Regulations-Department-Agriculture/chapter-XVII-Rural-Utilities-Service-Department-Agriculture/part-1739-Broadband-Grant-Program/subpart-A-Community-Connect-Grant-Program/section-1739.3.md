@@ -1,20 +1,18 @@
 ##### § 1739.3 Definitions. #####
 
-Link to an amendment published at 85 FR 14408, Mar. 12, 2020.
-
 As used in this subpart:
 
 *Agency* or *RUS* shall mean the Rural Utilities Service, which administers the United States Department of Agriculture (USDA) Rural Development Utilities Programs.
 
 *Broadband Grant Speed* means the minimum bandwidth described in the funding opportunity that an applicant must propose to deliver to every customer in the proposed funded service area in order for the Agency to approve a broadband grant. The Broadband Grant Speed may be different for fixed and mobile broadband services and from the minimum rate of data transmission required to determine the availability of broadband service when qualifying a service area.
 
-*Broadband service* means any terrestrial technology having the capacity to provide transmission facilities that enable subscribers of the service to originate and receive high-quality voice, data, graphics, and video at the minimum rate of data transmission described in the funding opportunity. The broadband service speed may be different from the broadband grant speed for the Community Connect program.
+*Broadband service* means any terrestrial technology having the capacity to provide transmission facilities that enable subscribers of the service to originate and receive high-quality voice, data, graphics, and video at the minimum rate of data transmission described in the funding opportunity. Satellite and mobile services are not considered broadband service. The broadband service speed may be different from the broadband grant speed for the Community Connect program.
 
 *Community Center* means a building within the Proposed Funded Service Area that provides access to the public, or a section of a public building with at least two (2) Computer Access Points and wireless access, that is used for the purposes of providing free access to and/or instruction in the use of broadband Internet service, and is of the appropriate size to accommodate this purpose. The community center must be open and accessible to area residents before, during, and after normal working hours and on Saturdays or Sunday.
 
 *Computer Access Point* means a new computer terminal with access to service at the Broadband Grant Speed.
 
-*Critical Community Facilities* means the Community Center; any public school, public education center, public library, public medical clinic, public hospital, community college, public university; or law enforcement, fire or ambulance station in the Proposed Funded Service Area.
+*Critical Community Facilities* means an essential community facility as defined pursuant to section 306(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)).
 
 *Eligible applicant* shall have the meaning as set forth in § 1739.10.
 
@@ -34,4 +32,4 @@ As used in this subpart:
 
 (2) An urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants. For purposes of the definition of rural area, an urbanized area means a densely populated territory as defined in the most recent decennial Census.
 
-[78 FR 25791, June 3, 2013, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018]
+[78 FR 25791, June 3, 2013, as amended at 80 FR 9862, Feb. 24, 2015; 83 FR 45033, Sept. 5, 2018; 85 FR 14408, Mar. 12, 2020]

@@ -1,0 +1,7 @@
+##### § 1738.54 Eligible service area exceptions for broadband facility upgrades. #####
+
+(a) Applicants upgrading existing broadband facilities in their existing service area are exempt from the requirement concerning the limit of incumbent service providers in § 1738.53(a)(3). Additionally, applicants for loans or loan guarantee funding that have received a broadband loan under Section 601 of the RE Act are exempt from the requirement concerning the number of households in § 1738.53(a)(2) without access to broadband service.
+
+(b) Applicants submitting one application to upgrade existing broadband facilities and to expand service beyond their existing service area must segregate the upgrade and expansion into two service areas, even if the upgrade and expansion areas are contiguous. The expansion service area will not be subject to any exemptions.
+
+(c) Applicants will be asked to remove areas determined to be ineligible from their proposed funded service area. The application will then be evaluated based on what remains if the resultant service territory is *de minimis* in change. Otherwise, the Applicant will be requested to provide additional information to the Agency relating to the ineligible areas, such as updated pro forma financials. If the Applicant fails to respond, the application may be returned.

@@ -28,7 +28,7 @@
 
 (ii) The mixture or any separated solvent does not contain any substances with a primary or a subsidiary risk of Division 6.1 or Class 8;
 
-(iii) The capacity of the packaging is not more than 30 L (7.9 gallons); except that for transportation by highway, rail or cargo aircraft, the capacity of the package is not more than 100 L (26.3 gallons); and
+(iii) The capacity of the packaging is not more than 450 L (119 gallons); except that for transportation by passenger aircraft, the capacity of the packaging is not more than 30 L (7.9 gallons) and for transportation by cargo aircraft, the capacity of the packaging is not more than 100 L (26.3 gallons); and
 
 (iv) The viscosity1 and flash point are in accordance with the following table:
 
@@ -51,4 +51,4 @@
 
 (c) *Transitional provisions.* The criteria for packing group assignments in effect on December 31, 2006, may continue to be used until January 1, 2012.
 
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017; 84 FR 6952, Feb. 28, 2019]
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017; 84 FR 6952, Feb. 28, 2019; 85 FR 27880, May 11, 2020]

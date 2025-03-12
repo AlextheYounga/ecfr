@@ -1,5 +1,7 @@
 ##### § 173.21 Forbidden materials and packages. #####
 
+Link to an amendment published at 85 FR 27879, May 11, 2020.
+
 Unless otherwise provided in this subchapter, the offering for transportation or transportation of the following is forbidden:
 
 (a) Materials that are designated “Forbidden” in Column 3 of the § 172.101 table.
@@ -12,22 +14,26 @@ Unless otherwise provided in this subchapter, the offering for transportation or
 
 (e) A material in the same packaging, freight container, or overpack with another material, the mixing of which is likely to cause a dangerous evolution of heat, or flammable or poisonous gases or vapors, or to produce corrosive materials.
 
-(f) A package containing a material which is likely to decompose with a self-accelerated decomposition temperature (SADT) of 50 °C (122 °F) or less, or polymerize at a temperature of 54 °C (130 °F) or less with an evolution of a dangerous quantity of heat or gas when decomposing or polymerizing, unless the material is stabilized or inhibited in a manner to preclude such evolution. The SADT may be determined by any of the test methods described in Part II of the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
+(f) A package containing a material which is likely to decompose with a self-accelerated decomposition temperature (SADT) or polymerize with a self-accelerated polymerization temperature (SAPT) of 50 °C (122 °F) or less, with an evolution of a dangerous quantity of heat or gas when decomposing or polymerizing, unless the material is stabilized or inhibited in a manner to preclude such evolution. The SADT and SAPT may be determined by any of the test methods described in Part II of the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
 
-(1) A package meeting the criteria of paragraph (f) of this section may be required to be shipped under controlled temperature conditions. The control temperature and emergency temperature for a package shall be as specified in the table in this paragraph based upon the SADT of the material. The control temperature is the temperature above which a package of the material may not be offered for transportation or transported. The emergency temperature is the temperature at which, due to imminent danger, emergency measures must be initiated.
+(1) A package meeting the criteria of paragraph (f) of this section may be required to be shipped under controlled temperature conditions. The control temperature and emergency temperature for a package shall be as specified in the table in this paragraph (f)(1) based upon the SADT or SAPT of the material. The control temperature is the temperature above which a package of the material may not be offered for transportation or transported. The emergency temperature is the temperature at which, due to imminent danger, emergency measures must be initiated.
 
-§ 173.21 Table - Method of Determining Control and Emergency Temperature
+Table 1 to Paragraph (f)(1) - Derivation of Control and Emergency Temperature
 
-|         SADT<sup>1</sup>         |  Control temperatures  |  Emergency temperature  |
-|----------------------------------|------------------------|-------------------------|
-|       SADT ≤20 °C (68 °F)        |20 °C (36 °F) below SADT|10 °C (18 °F) below SADT.|
-|20 °C (68 °F) SADT ≤35 °C (95 °F) |15 °C (27 °F) below SADT|10 °C (18 °F) below SADT.|
-|35 °C (95 °F) SADT ≤50 °C (122 °F)|10 °C (18 °F) below SADT| 5 °C (9 °F) below SADT. |
-|       50 °C (122 °F) SADT        |     (<sup>2</sup>)     |     (<sup>2</sup>)      |
+|          SADT/SAPT<sup>1</sup>           |    Control temperatures     |    Emergency temperature     |
+|------------------------------------------|-----------------------------|------------------------------|
+|         SADT/SAPT ≤20 °C (68 °F)         |20 °C (36 °F) below SADT/SAPT|10 °C (18 °F) below SADT/SAPT.|
+| 20 °C (68 °F) \<SADT/SAPT ≤35 °C (95 °F) |15 °C (27 °F) below SADT/SAPT|10 °C (18 °F) below SADT/SAPT.|
+|35 °C (95 °F) \<SADT/SAPT ≤ 50 °C (122 °F)|10 °C (18 °F) below SADT/SAPT| 5 °C (9 °F) below SADT/SAPT. |
+|        50 °C (122 °F) \<SADT/SAPT        |       (<sup>2</sup>)        |        (<sup>2</sup>)        |
 
-<sup>1</sup> Self-accelerating decomposition temperature.
+<sup>1</sup> Self-accelerating decomposition temperature or Self-accelerating polymerization temperature.
 
 <sup>2</sup> Temperature control not required.
+
+(i) The provisions concerning polymerizing substances in paragraph (f) will be effective until January 2, 2023.
+
+(ii) [Reserved]
 
 (2) For self-reactive materials listed in § 173.224(b) table control and emergency temperatures, where required are shown in Columns 5 and 6, respectively. For organic peroxides listed in The Organic Peroxides Table in § 173.225 control and emergency temperatures, where required, are shown in Columns 7a and 7b, respectively.
 

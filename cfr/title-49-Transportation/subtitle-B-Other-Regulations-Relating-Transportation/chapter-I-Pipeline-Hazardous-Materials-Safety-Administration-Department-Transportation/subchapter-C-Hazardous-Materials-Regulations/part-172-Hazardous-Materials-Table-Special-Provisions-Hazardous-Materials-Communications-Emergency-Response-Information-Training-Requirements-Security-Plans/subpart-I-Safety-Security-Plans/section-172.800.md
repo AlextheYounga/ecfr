@@ -32,7 +32,7 @@
 
 (14) A quantity of uranium hexafluoride requiring placarding under § 172.505(b);
 
-(15) International Atomic Energy Agency (IAEA) Code of Conduct Category 1 and 2 materials including Highway Route Controlled quantities as defined in 49 CFR 173.403 or known radionuclides in forms listed as RAM-QC by the Nuclear Regulatory Commission;
+(15) International Atomic Energy Agency Code of Conduct (IBR, see § 171.7) Category 1 and 2 materials, Nuclear Regulatory Commission, Category 1 and Category 2 radioactive materials as listed in Table 1, appendix A to 10 CFR part 37, and Highway Route Controlled quantities as defined in 49 CFR 173.403.
 
 (16) A large bulk quantity of Class 8 material meeting the criteria for Packing Group I.
 
@@ -44,4 +44,4 @@
 
 (3) Conducted within a 150-mile radius of those operations.
 
-[68 FR 14521, Mar. 25, 2003, as amended at 70 FR 73164, Dec. 9, 2005; 71 FR 32258, June 2, 2006; 75 FR 10988, Mar. 9, 2010; 75 FR 53597, Sept. 1, 2010; 76 FR 56314, Sept. 13, 2011]
+[68 FR 14521, Mar. 25, 2003, as amended at 70 FR 73164, Dec. 9, 2005; 71 FR 32258, June 2, 2006; 75 FR 10988, Mar. 9, 2010; 75 FR 53597, Sept. 1, 2010; 76 FR 56314, Sept. 13, 2011; 85 FR 27878, May 11, 2020]

@@ -1,0 +1,5 @@
+##### § 29.30 Scope of Industry-Recognized Apprenticeship Programs Recognition by Standards Recognition Entities. #####
+
+(a) The Administrator will not recognize as SREs entities that intend to recognize as IRAPs programs that seek to train apprentices to perform construction activities, consisting of: The erecting of buildings and other structures (including additions); heavy construction other than buildings; and alterations, reconstruction, installation, and maintenance and repairs.
+
+(b) SREs that obtain recognition from the Administrator are prohibited from recognizing as IRAPs programs that seek to train apprentices to perform construction activities, consisting of: The erecting of buildings and other structures (including additions); heavy construction other than buildings; and alterations, reconstruction, installation, and maintenance and repairs.

@@ -1,3 +1,5 @@
-##### § 1739.8 [Reserved] #####
+##### § 1739.8 Buy American requirement. #####
 
-Link to an amendment published at 85 FR 14408, Mar. 12, 2020.
+Awardees shall use in connection with the expenditure of grant funds only such unmanufactured articles, materials, and supplies, as have been mined or produced in the United States or in any eligible country, and only such manufactured articles, materials, and supplies as have been manufactured in the United States or in any eligible country, substantially all from articles, materials, or supplies mined, produced, or manufactured, as the case may be, in the United States or in any eligible country. For purposes of this section, an “eligible country” is any country that applies with respect to the United States an agreement ensuring reciprocal access for United States products and services and United States suppliers to the markets of that country, as determined by the United States Trade Representative. The Buy American regulations may be found at, and any requests for waiver must be submitted pursuant to, 7 CFR part 1787.
+
+[85 FR 14408, Mar. 12, 2020]

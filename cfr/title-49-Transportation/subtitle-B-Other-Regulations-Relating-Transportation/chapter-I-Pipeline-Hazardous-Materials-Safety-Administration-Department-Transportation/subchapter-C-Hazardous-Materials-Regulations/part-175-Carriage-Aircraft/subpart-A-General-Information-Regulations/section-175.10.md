@@ -8,9 +8,13 @@
 
 (iii) The aggregate quantity of these hazardous materials carried by each person may not exceed 2 kg (70 ounces) by mass or 2 L (68 fluid ounces) by volume and the capacity of each container may not exceed 0.5 kg (18 ounces) by mass or 500 ml (17 fluid ounces) by volume.
 
-(2) One packet of safety matches or a lighter intended for use by an individual when carried on one's person or in carry-on baggage only. Lighter fuel, lighter refills, and lighters containing unabsorbed liquid fuel (other than liquefied gas) are not permitted on one's person or in carry-on or checked baggage.
+(2) One packet of safety matches or a lighter intended for use by an individual when carried on one's person or in carry-on baggage only. Lighter fuel, lighter refills, and lighters containing unabsorbed liquid fuel (other than liquefied gas) are not permitted on one's person or in carry-on or checked baggage. For lighters powered by lithium batteries (*e.g.,* laser plasma lighters, tesla coil lighters, flux lighters, arc lighters and double arc lighters), each battery must be of a type which meets the requirements of each test in the UN Manual of Tests and Criteria, Part III, Subsection 38.3 (IBR, *see* § 171.7 of this subchapter). The lighters must be equipped with a safety cap or similar means of protection to prevent unintentional activation of the heating element while on board the aircraft. Recharging of the devices and/or the batteries on board the aircraft is not permitted. Each battery must not exceed the following:
 
-(3) Implanted medical devices in humans or animals that contain hazardous materials, such as a heart pacemaker containing Class 7 (radioactive) material or lithium batteries; and radiopharmaceuticals that have been injected or ingested.
+(i) For lithium metal batteries, a lithium content of 2 grams; or
+
+(ii) For lithium ion batteries, a Watt-hour (Wh) rating of 100 Wh.
+
+(3) Medical devices that contain radioactive materials (*e.g.,* cardiac pacemaker) implanted or externally fitted in humans or animals and radiopharmaceuticals that have been injected or ingested as the result of medical treatment.
 
 (4) Alcoholic beverages containing:
 
@@ -40,27 +44,37 @@
 
 (13) A mercury barometer or thermometer carried as carry-on baggage, by a representative of a government weather bureau or similar official agency, provided that individual advises the operator of the presence of the barometer or thermometer in his baggage. The barometer or thermometer must be packaged in a strong packaging having a sealed inner liner or bag of strong, leak proof and puncture-resistant material impervious to mercury, which will prevent the escape of mercury from the package in any position.
 
-(14) Electrically powered heat-producing articles (e.g., battery-operated equipment such as diving lamps and soldering equipment) as checked or carry-on baggage only and with the approval of the operator of the aircraft. The heat-producing component, the energy source, or other component (e.g., fuse) must be removed to prevent unintentional functioning during transport. Any battery that is removed must be protected against short circuit by placement in original retail packaging or by otherwise insulating terminals (*e.g.,* by taping over exposed terminals or placing each battery in a separate plastic bag or protective pouch).
+(14) Battery powered heat-producing devices (*e.g.,* battery-operated equipment such as diving lamps and soldering equipment) as checked or carry-on baggage and with the approval of the operator of the aircraft. The heating element, the battery, or other component (*e.g.,* fuse) must be isolated to prevent unintentional activation during transport. Any battery that is removed must be carried in accordance with the provisions for spare batteries in paragraph (a)(18) of this section. Each installed or spare lithium battery:
 
-(15) A wheelchair or other battery-powered mobility aid equipped with a nonspillable battery or a dry sealed battery when carried as checked baggage, provided -
+(i) For a lithium metal battery, a lithium content must not exceed 2 grams; or
+
+(ii) For a lithium ion battery, the Watt-hour rating must not exceed 100 Wh.
+
+(15) A wheelchair or other battery-powered mobility aid equipped with a non-spillable battery or a dry sealed battery when carried as checked baggage, provided -
 
 (i) The battery conforms to the requirements of § 173.159a(d) of this subchapter for non-spillable batteries;
 
-(ii) The battery conforms to the requirements of § 172.102(c)(1), Special provision 130 of this subchapter for dry sealed batteries, as applicable;
+(ii) The battery conforms to the requirements of § 172.102(c)(1), special provision 130 of this subchapter for dry sealed batteries, as applicable;
 
 (iii) Visual inspection including removal of the battery, where necessary, reveals no obvious defects (removal of the battery from the housing should be performed by qualified airline personnel only);
 
-(iv) The battery is disconnected and the battery terminals are protected to prevent short circuits, unless the wheelchair or mobility aid design provides an effective means of preventing unintentional activation, and
+(iv) The battery is disconnected and the battery terminals are protected to prevent short circuits, unless the wheelchair or mobility aid design provides an effective means of preventing unintentional activation;
 
-(v) The battery is -
+(v) The non-spillable battery is -
 
 (A) Securely attached to the wheelchair or mobility aid;
 
-(B) Is removed and placed in a strong, rigid packaging marked “NONSPILLABLE BATTERY” (unless fully enclosed in a rigid housing that is properly marked);
+(B) Removed and placed in a strong, rigid packaging marked “NONSPILLABLE BATTERY” (unless fully enclosed in a rigid housing that is properly marked); or
 
-(C) Is removed and placed in a strong, rigid packaging marked with the words “not restricted” in accordance with paragraph (c)(2) of § 172.102, Special provision 130, of this subchapter; or
+(C) Is handled in accordance with paragraph (a)(16)(iv) of this section; and
 
-(D) Is handled in accordance with paragraph (a)(16)(iv) of this section.
+(vi) The dry sealed battery is -
+
+(A) Securely attached to the wheelchair or mobility aid; or
+
+(B) Removed and placed in a strong, rigid packaging marked with the words “not restricted” in accordance with § 172.102(c)(2), special provision 130, of this subchapter;
+
+(vii) A maximum of one spare battery that conforms to the requirements in (a)(15)(i) or (ii) may be carried per passenger if handled in accordance with paragraph (a)(15)(v) or (vi) of this section, as applicable.
 
 (16) A wheelchair or other battery-powered mobility aid equipped with a spillable battery, when carried as checked baggage, provided -
 
@@ -96,7 +110,7 @@
 
 (iv) The wheelchair or other mobility aid must be protected from damage by the movement of baggage, mail, service items, or other cargo;
 
-(v) Where a lithium ion battery-powered wheelchair or other mobility aid is specifically designed to allow its battery to be removed by the user (e.g., collapsible):
+(v) Where a lithium ion battery-powered wheelchair or other mobility aid does not provide adequate protection to the battery:
 
 (A) The battery must be removed from the wheelchair or other mobility aid according to instructions provided by the wheelchair or other mobility aid owner or its manufacturer;
 
@@ -110,9 +124,9 @@
 
 (vi) The pilot-in-command is advised either orally or in writing, prior to departure, as to the location of the lithium ion battery or batteries aboard the aircraft.
 
-(18) Except as provided in § 173.21 of this subchapter, portable electronic devices (e.g., watches, calculating machines, cameras, cellular phones, laptop and notebook computers, camcorders, medical devices, etc.) containing dry cells or dry batteries (including lithium cells or batteries) and spare dry cells or batteries for these devices, when carried by passengers or crewmembers for personal use. Portable electronic devices powered by lithium batteries may be carried in either checked or carry-on baggage. Spare lithium batteries must be carried in carry-on baggage only. Each installed or spare lithium battery must be of a type proven to meet the requirements of each test in the UN Manual of Tests and Criteria, part III, sub-section 38.3 and each spare lithium battery must be individually protected so as to prevent short circuits (e.g., by placement in original retail packaging, by otherwise insulating terminals by taping over exposed terminals, or placing each battery in a separate plastic bag or protective pouch). In addition, each installed or spare lithium battery must not exceed the following:
+(18) Except as provided in § 173.21 of this subchapter, portable electronic devices (*e.g.,* watches, calculating machines, cameras, cellular phones, laptop and notebook computers, camcorders, medical devices, etc.) containing dry cells or dry batteries (including lithium cells or batteries) and spare dry cells or batteries for these devices, when carried by passengers or crew members for personal use. Portable electronic devices powered by lithium batteries may be carried in either checked or carry-on baggage. When carried in checked baggage, portable electronic devices powered by lithium batteries must be completely switched off (not in sleep or hibernation mode) and protected to prevent unintentional activation or damage. Spare lithium batteries must be carried in carry-on baggage only. Each installed or spare lithium battery must be of a type proven to meet the requirements of each test in the UN Manual of Tests and Criteria, Part III, Sub-section 38.3, and each spare lithium battery must be individually protected so as to prevent short circuits (*e.g.,* by placement in original retail packaging, by otherwise insulating terminals by taping over exposed terminals, or placing each battery in a separate plastic bag or protective pouch). In addition, each installed or spare lithium battery:
 
-(i) For a lithium metal battery, the lithium content must not exceed 2 grams. With the approval of the operator, portable medical electronic devices (e.g., automated external defibrillators (AED), nebulizer, continuous positive airway pressure (CPAP), etc.) may contain lithium metal batteries exceeding 2 grams, but not exceeding 8 grams. With the approval of the operator, no more than two lithium metal batteries each exceeding 2 grams, but not exceeding 8 grams, may be carried as spare batteries for portable medical electronic devices in carry-on baggage and must be carried with the portable medical electronic device the spare batteries are intended to operate;
+(i) For a lithium metal battery, the lithium content must not exceed 2 grams. With the approval of the operator, portable medical electronic devices (*e.g.,* automated external defibrillators (AED), nebulizer, continuous positive airway pressure (CPAP), etc.) may contain lithium metal batteries exceeding 2 grams, but not exceeding 8 grams. With the approval of the operator, no more than two lithium metal batteries each exceeding 2 grams, but not exceeding 8 grams, may be carried as spare batteries for portable medical electronic devices in carry-on baggage and must be carried with the portable medical electronic device the spare batteries are intended to operate;
 
 (ii) For a lithium ion battery, the Watt-hour rating must not exceed 100 Wh. With the approval of the operator, portable electronic devices may contain lithium ion batteries exceeding 100 Wh, but not exceeding 160 Wh and no more than two individually protected lithium ion batteries each exceeding 100 Wh, but not exceeding 160 Wh, may be carried per person as spare batteries in carry-on baggage.
 
@@ -120,11 +134,11 @@
 
 (iv) Articles containing lithium metal or lithium ion cells or batteries the primary purpose of which is to provide power to another device must be carried as spare batteries in accordance with the provisions of this paragraph.
 
-(19) Except as provided in § 173.21 of this subchapter, battery-powered portable electronic smoking devices (e.g., e-cigarettes, e-cigs, e-cigars, e-pipes, e-hookahs, personal vaporizers, electronic nicotine delivery systems) when carried by passengers or crewmembers for personal use must be carried on one's person or in carry-on baggage only. Spare lithium batteries also must be carried on one's person or in carry-on baggage only and must be individually protected so as to prevent short circuits (by placement in original retail packaging or by otherwise insulating terminals, e.g., by taping over exposed terminals or placing each battery in a separate plastic bag or protective pouch). Each lithium battery must be of a type which meets the requirements of each test in the UN Manual of Tests and Criteria, Part III, Subsection 38.3. Recharging of the devices and/or the batteries on board the aircraft is not permitted. Each battery must not exceed the following:
+(19) Except as provided in § 173.21 of this subchapter, battery-powered portable electronic smoking devices (*e.g.,* e-cigarettes, e-cigs, e-cigars, e-pipes, e-hookahs, personal vaporizers, electronic nicotine delivery systems) when carried by passengers or crewmembers for personal use must be carried on one's person or in carry-on baggage only. Measures must be taken to prevent unintentional activation of the heating element while on board the aircraft. Spare lithium batteries also must be carried on one's person or in carry-on baggage only and must be individually protected so as to prevent short circuits (by placement in original retail packaging or by otherwise insulating terminals, *e.g.,* by taping over exposed terminals or placing each battery in a separate plastic bag or protective pouch). Each lithium battery must be of a type which meets the requirements of each test in the UN Manual of Tests and Criteria, Part III, Subsection 38.3. Recharging of the devices and/or the batteries on board the aircraft is not permitted. Each installed or spare lithium battery:
 
-(i) For lithium metal batteries, a lithium content of 2 grams; or
+(i) For a lithium metal battery, the lithium content must not exceed 2 grams; or
 
-(ii) For lithium ion batteries, a Watt-hour rating of 100 Wh.
+(ii) For a lithium ion battery, the Watt-hour rating must not exceed 100 Wh.
 
 (20) Fuel cells used to power portable electronic devices (*e.g.,* cameras, cellular phones, laptop computers and camcorders) and spare fuel cell cartridges when transported personal use under the following conditions:
 
@@ -175,6 +189,12 @@
 (24) Insulated packagings containing refrigerated liquid nitrogen when carried in checked or carry-on baggage in accordance with the ICAO Technical Instructions (IBR, see § 171.7 of this subchapter), Packing Instruction 202, the packaging specifications in part 6, chapter 5, and special provision A152.
 
 (25) Small cartridges fitted into or securely packed with devices with no more than four small cartridges of carbon dioxide or other suitable gas in Division 2.2, without subsidiary risk with the approval of the operator. The water capacity of each cartridge must not exceed 50 mL (equivalent to a 28 g cartridge).
+
+(26) Baggage equipped with lithium battery(ies) must be carried as carry-on baggage unless the battery(ies) is removed from the baggage. Removed battery(ies) must be carried in accordance with the provision for spare batteries prescribed in paragraph (a)(18) of this section. The provisions of this paragraph do not apply to baggage equipped with lithium batteries not exceeding:
+
+(i) For lithium metal batteries, a lithium content of 0.3 grams; or
+
+(ii) For lithium ion batteries, a Watt-hour rating of 2.7 Wh.
 
 (b) The exceptions provided in paragraph (a) of this section also apply to aircraft operators when transporting passenger or crewmember baggage that has been separated from the passenger or crewmember, including transfer to another carrier for transport to its final destination.
 

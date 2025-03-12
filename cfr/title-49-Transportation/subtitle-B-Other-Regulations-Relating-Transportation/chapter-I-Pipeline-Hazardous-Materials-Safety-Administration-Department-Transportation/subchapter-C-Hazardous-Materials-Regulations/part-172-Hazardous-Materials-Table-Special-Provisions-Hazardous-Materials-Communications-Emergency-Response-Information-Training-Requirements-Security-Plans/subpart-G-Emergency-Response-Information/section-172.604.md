@@ -1,6 +1,6 @@
 ##### § 172.604 Emergency response telephone number. #####
 
-(a) A person who offers a hazardous material for transportation must provide a numeric emergency response telephone number, including the area code, for use in an emergency involving the hazardous material. For telephone numbers outside the United States, the international access code or the “+” (plus) sign, country code, and city code, as appropriate, that are needed to complete the call must be included. The telephone number must be -
+(a) A person who offers a hazardous material for transportation must provide a numeric emergency response telephone number, including the area code, for use in an emergency involving the hazardous material. For telephone numbers outside the United States, the international access code or the “+” (plus) sign, country code, and city code, as appropriate, that are needed to complete the call must be included. The telephone number must be—
 
 (1) Monitored at all times the hazardous material is in transportation, including storage incidental to transportation;
 
@@ -20,7 +20,7 @@
 
 (c) A person preparing shipping papers for continued transportation in commerce must include the information required by this section. If the person preparing shipping papers for continued transportation in commerce elects to assume responsibility for providing the emergency response telephone number required by this section, the person must ensure that all the requirements of this section are met.
 
-(d) The requirements of this section do not apply to -
+(d) The requirements of this section do not apply to—
 
 (1) Hazardous materials that are offered for transportation under the provisions applicable to limited quantities or excepted quantities; or
 
@@ -44,22 +44,40 @@
 
 (ix) Dry ice.
 
-(x) Engines, internal combustion.
+(x) Engine, fuel cell, flammable gas powered.
 
-(xi) Fish meal, stabilized.
+(xi) Engine, fuel cell, flammable liquid powered.
 
-(xii) Fish scrap, stabilized.
+(xii) Engine, internal combustion.
 
-(xiii) Krill Meal, PG III.
+(xiii) Engine, internal combustion, flammable gas powered.
 
-(xiv) Refrigerating machine.
+(xiv) Engine, internal combustion, flammable liquid powered.
 
-(xv) Vehicle, flammable gas powered.
+(xv) Fish meal, stabilized.
 
-(xvi) Vehicle, flammable liquid powered.
+(xvi) Fish scrap, stabilized.
 
-(xvii) Wheelchair, electric.
+(xvii) Krill Meal, PG III.
+
+(xviii) Machinery, internal combustion.
+
+(xix) Machinery, fuel cell, flammable gas powered.
+
+(xx) Machinery, fuel cell, flammable liquid powered.
+
+(xxi) Machinery, internal combustion, flammable gas powered.
+
+(xxii) Machinery, internal combustion, flammable liquid powered.
+
+(xxiii) Refrigerating machine.
+
+(xxiv) Vehicle, flammable gas powered.
+
+(xxv) Vehicle, flammable liquid powered.
+
+(xxvi) Wheelchair, electric.
 
 (3) Transportation vehicles or freight containers containing lading that has been fumigated and displaying the FUMIGANT marking (see § 172.302(g)) as required by § 173.9 of this subchapter, unless other hazardous materials are present in the cargo transport unit.
 
-[74 FR 53422, Oct. 19, 2009, as amended at 75 FR 53596, Sept. 1, 2010; 77 FR 37984, June 25, 2012; 78 FR 1073, Jan. 7, 2013; 78 FR 60753, Oct. 1, 2013; 81 FR 35541, June 2, 2016; 83 FR 55807, Nov. 7, 2018]
+[74 FR 53422, Oct. 19, 2009, as amended at 75 FR 53596, Sept. 1, 2010; 77 FR 37984, June 25, 2012; 78 FR 1073, Jan. 7, 2013; 78 FR 60753, Oct. 1, 2013; 81 FR 35541, June 2, 2016; 83 FR 55807, Nov. 7, 2018; 85 FR 27878, May 11, 2020]

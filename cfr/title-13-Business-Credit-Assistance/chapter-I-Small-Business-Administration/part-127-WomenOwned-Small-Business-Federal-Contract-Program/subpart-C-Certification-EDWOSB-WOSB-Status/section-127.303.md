@@ -1,5 +1,7 @@
 ##### § 127.303 How will SBA select and identify approved certifiers? #####
 
+Link to an amendment published at 85 FR 27661, May 11, 2020.
+
 (a) *General.* SBA may enter into written agreements to accept the EDWOSB or WOSB certification of a Federal agency, State government, or national certifying entity if SBA determines that the entity's certification process complies with SBA-approved certification standards and tracks the EDWOSB or WOSB eligibility requirements set forth in subpart B of this part. The written agreement will include a provision authorizing SBA to terminate the agreement if SBA subsequently determines that the entity's certification process does not comply with SBA-approved certification standards or is not based on the same EDWOSB or WOSB eligibility requirements as set forth in subpart B of this part.
 
 (b) *Required certification standards.* In order for SBA to enter into an agreement to accept the EDWOSB or WOSB certification of a Federal agency, State government, or national certifying entity, the entity must establish the following:

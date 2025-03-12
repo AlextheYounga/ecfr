@@ -12,16 +12,24 @@ Hazardous materials in machinery or apparatus are excepted from the specificatio
 
 (3) Receptacles for gases, their contents and filling densities must conform to the applicable requirements of this subchapter, unless otherwise approved by the Associate Administrator.
 
-(c) The total net quantity of hazardous materials contained in one item of machinery or apparatus must not exceed the following:
+(c)(1) Except for transportation by aircraft, the total net quantity of hazardous materials contained in one item of machinery or apparatus must not exceed the following:
 
-(1) 1 kg (2.2 pounds) in the case of solids;
+(i) In the case of solids or liquids, the limited quantity amount specified in the corresponding section referenced in Column (8A) of the § 172.101 Table;
 
-(2) 0.5 L (0.1 gallons) in the case of liquids;
+(ii) 0.5 kg (1.1 pounds) in the case of Division 2.2 gases.
 
-(3) 0.5 kg (1.1 pounds) in the case of Division 2.2 gases. For transportation by aircraft, Division 2.2 gases with subsidiary risks and refrigerated liquefied gases are not authorized; and
+(iii) When machinery or apparatus contains multiple hazardous materials, the quantity of each hazardous material must not exceed the quantity specified in the corresponding section referenced in Column (8A) of the § 172.101 Table, or for gases, paragraph (c)(1)(ii) of this section.
 
-(4) A total quantity of not more than the aggregate of that permitted in paragraphs (c)(1) through (c)(3) of this section, for each category of material in the package, when a package contains hazardous materials in two or more of the categories in paragraphs (c)(1) through (c)(3) of this section.
+(2) For transportation by aircraft, the total net quantity of hazardous materials contained in one item of machinery or apparatus must not exceed the following:
 
-(d) Except for transportation by aircraft, when a package contains hazardous materials in two or more of the categories listed in paragraphs (c)(1) through (c)(3) of this section the total quantity required by § 172.202(c) of this subchapter to be entered on the shipping paper must be either the aggregate quantity, or the estimated quantity, of all hazardous materials, expressed as net mass.
+(i) 1 kg (2.2 pounds) in the case of solids;
 
-[64 FR 10779, Mar. 5, 1999, as amended at 64 FR 44428, Aug. 16, 1999; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 71 FR 78633, Dec. 29, 2006; 74 FR 2259, Jan. 14, 2009]
+(ii) 0.5 L (0.1 gallons) in the case of liquids;
+
+(iii) 0.5 kg (1.1 pounds) in the case of Division 2.2 gases. Division 2.2 gases with subsidiary risks and refrigerated liquefied gases are not authorized;
+
+(iv) A total quantity of not more than the aggregate of that permitted in paragraphs (c)(2)(i) through (iii) of this section, for each category of material in the package, when a package contains hazardous materials in two or more of the categories in paragraphs (c)(2)(i) through (iii) of this section; and
+
+(d) Except for transportation by aircraft, when a package contains hazardous materials in two or more of the categories listed in paragraph (c)(1) of this section the total quantity required by § 172.202(c) of this subchapter to be entered on the shipping paper must be either the aggregate quantity, or the estimated quantity, of all hazardous materials, expressed as net mass.
+
+[64 FR 10779, Mar. 5, 1999, as amended at 64 FR 44428, Aug. 16, 1999; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 71 FR 78633, Dec. 29, 2006; 74 FR 2259, Jan. 14, 2009; 85 FR 27887, May 11, 2020]

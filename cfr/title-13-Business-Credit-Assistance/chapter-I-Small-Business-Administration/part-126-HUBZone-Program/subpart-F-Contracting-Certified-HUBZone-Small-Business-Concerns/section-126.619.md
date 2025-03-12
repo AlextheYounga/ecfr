@@ -1,5 +1,7 @@
 ##### § 126.619 When must a certified HUBZone small business concern recertify its status for a HUBZone contract? #####
 
+Link to an amendment published at 85 FR 27660, May 11, 2020.
+
 (a) A concern that is a certified HUBZone small business concern at the time of initial offer (including a Multiple Award Contract) is generally considered a HUBZone small business concern throughout the life of that contract.
 
 (1) If a concern is a certified HUBZone small business concern at the time of initial offer for a HUBZone Multiple Award Contract, then it will be considered a certified HUBZone small business concern for each order issued against the contract, unless a contracting officer requests a new HUBZone certification in connection with a specific order (see paragraph (b)(4) of this section).

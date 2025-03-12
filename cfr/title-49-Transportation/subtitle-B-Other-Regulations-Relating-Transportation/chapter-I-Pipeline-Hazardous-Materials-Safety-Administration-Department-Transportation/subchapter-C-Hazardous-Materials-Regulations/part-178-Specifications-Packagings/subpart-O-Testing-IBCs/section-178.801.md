@@ -86,10 +86,10 @@
 
 (vii) Maximum IBC capacity;
 
-(viii) Characteristics of test contents;
+(viii) Characteristics of test contents, including for rigid plastics and composite IBCs subject to the hydrostatic pressure test in § 178.814 of this subpart, the temperature of the water used;
 
 (ix) Test descriptions and results (including drop heights, hydrostatic pressures, tear propagation length, etc.); and
 
 (x) The signature of the person conducting the test, and name of the person responsible for testing.
 
-[Amdt. 178-103, 59 FR 38074, July 26, 1994, as amended by Amdt. 178-108, 60 FR 40038, Aug. 4, 1995; 66 FR 45386, Aug. 28, 2001; 66 FR 33452, June 21, 2001; 68 FR 75758, Dec. 31, 2003; 73 FR 57008, Oct. 1, 2008; 74 FR 2269, Jan. 14, 2009; 75 FR 5397, Feb. 2, 2010; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 80 FR 72929, Nov. 23, 2015]
+[Amdt. 178-103, 59 FR 38074, July 26, 1994, as amended by Amdt. 178-108, 60 FR 40038, Aug. 4, 1995; 66 FR 45386, Aug. 28, 2001; 66 FR 33452, June 21, 2001; 68 FR 75758, Dec. 31, 2003; 73 FR 57008, Oct. 1, 2008; 74 FR 2269, Jan. 14, 2009; 75 FR 5397, Feb. 2, 2010; 78 FR 14715, Mar. 7, 2013; 78 FR 65487, Oct. 31, 2013; 80 FR 72929, Nov. 23, 2015; 85 FR 27901, May 11, 2020]

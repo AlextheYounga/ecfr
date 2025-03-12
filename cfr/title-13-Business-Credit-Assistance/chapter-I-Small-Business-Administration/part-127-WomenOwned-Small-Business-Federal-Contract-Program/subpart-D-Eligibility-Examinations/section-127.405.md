@@ -1,5 +1,7 @@
 ##### § 127.405 What is the process for requesting an eligibility examination? #####
 
+Link to an amendment published at 85 FR 27664, May 11, 2020.
+
 (a) *General.* A concern may request that SBA conduct an examination to verify its eligibility as an EDWOSB or WOSB at any time after it is determined by SBA not to qualify as an EDWOSB or WOSB, if the concern believes in good faith that it satisfies all of the EDWOSB or WOSB eligibility requirements under subpart B of this part.
 
 (b) *Format.* The request for an examination must be in writing and must specify the particular reasons the concern was determined not to qualify as an EDWOSB or WOSB.

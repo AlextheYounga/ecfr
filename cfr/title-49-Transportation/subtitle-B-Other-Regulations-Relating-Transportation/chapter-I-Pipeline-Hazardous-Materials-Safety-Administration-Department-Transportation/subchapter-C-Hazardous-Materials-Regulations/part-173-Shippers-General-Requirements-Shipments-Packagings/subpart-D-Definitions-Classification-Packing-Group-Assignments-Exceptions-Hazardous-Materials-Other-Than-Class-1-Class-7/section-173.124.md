@@ -1,12 +1,12 @@
-##### § 173.124 Class 4, Divisions 4.1, 4.2 and 4.3 - Definitions. #####
+##### § 173.124 Class 4, Divisions 4.1, 4.2 and 4.3—Definitions. #####
 
 (a) *Division 4.1 (Flammable Solid).* For the purposes of this subchapter, *flammable solid* (Division 4.1) means any of the following four types of materials:
 
-(1) Desensitized explosives that -
+(1) Desensitized explosives that—
 
 (i) When dry are Explosives of Class 1 other than those of compatibility group A, which are wetted with sufficient water, alcohol, or plasticizer to suppress explosive properties; and
 
-(ii) Are specifically authorized by name either in the Hazardous Materials Table in § 172.101 of this subchapter or have been assigned a shipping name and hazard class by the Associate Administrator under the provisions of -
+(ii) Are specifically authorized by name either in the Hazardous Materials Table in § 172.101 of this subchapter or have been assigned a shipping name and hazard class by the Associate Administrator under the provisions of—
 
 (A) A special permit issued under subchapter A of this chapter; or
 
@@ -38,7 +38,7 @@
 
 (C) *Type C.* Self-reactive material type C is a self-reactive material which, as packaged for transportation, neither detonates nor deflagrates rapidly and cannot undergo a thermal explosion.
 
-(D) *Type D.* Self-reactive material type D is a self-reactive material which -
+(D) *Type D.* Self-reactive material type D is a self-reactive material which—
 
 (*1*) Detonates partially, does not deflagrate rapidly and shows no violent effect when heated under confinement;
 
@@ -52,7 +52,7 @@
 
 (G) *Type G.* Self-reactive material type G is a self-reactive material which, in laboratory testing, does not detonate in the cavitated state, will not deflagrate at all, shows no effect when heated under confinement, nor shows any explosive power. A type G self-reactive material is not subject to the requirements of this subchapter for self-reactive material of Division 4.1 provided that it is thermally stable (self-accelerating decomposition temperature is 50 °C (122 °F) or higher for a 50 kg (110 pounds) package). A self-reactive material meeting all characteristics of type G except thermal stability is classed as a type F self-reactive, temperature control material.
 
-(iii) *Procedures for assigning a self-reactive material to a generic type.* A self-reactive material must be assigned to a generic type based on -
+(iii) *Procedures for assigning a self-reactive material to a generic type.* A self-reactive material must be assigned to a generic type based on—
 
 (A) Its physical state (*i.e.* liquid or solid), in accordance with the definition of liquid and solid in § 171.8 of this subchapter;
 
@@ -60,7 +60,7 @@
 
 (C) Performance of the self-reactive material under the test procedures specified in the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter) and the provisions of paragraph (a)(2)(iii) of this section; and
 
-(D) Except for a self-reactive material which is identified by technical name in the Self-Reactive Materials Table in § 173.224(b) or a self-reactive material which may be shipped as a sample under the provisions of § 173.224, the self-reactive material is approved in writing by the Associate Administrator. The person requesting approval shall submit to the Associate Administrator the tentative shipping description and generic type and -
+(D) Except for a self-reactive material which is identified by technical name in the Self-Reactive Materials Table in § 173.224(b) or a self-reactive material which may be shipped as a sample under the provisions of § 173.224, the self-reactive material is approved in writing by the Associate Administrator. The person requesting approval shall submit to the Associate Administrator the tentative shipping description and generic type and—
 
 (*1*) All relevant data concerning physical state, temperature controls, and tests results; or
 
@@ -68,7 +68,7 @@
 
 (iv) *Tests.* The generic type for a self-reactive material must be determined using the testing protocol from Figure 20.1 (a) and (b) (Flow Chart Scheme for Self-Reactive Substances and Organic Peroxides) from the UN Manual of Tests and Criteria (IBR, see § 171.7 of this subchapter).
 
-(3) Readily combustible solids are materials that -
+(3) Readily combustible solids are materials that—
 
 (i) Are solids which may cause a fire through friction, such as matches;
 
@@ -84,9 +84,9 @@
 
 (iii) Do not meet the definition of hazard classes 1-8 (including combustible liquids).
 
-(iv) The provisions concerning polymerizing substances in paragraph (a)(4) will be effective until January 2, 2019.
+(iv) The provisions concerning polymerizing substances in paragraph (a)(4) will be effective until January 2, 2023.
 
-(b) *Division 4.2 (Spontaneously Combustible Material).* For the purposes of this subchapter, *spontaneously combustible material* (Division 4.2) means -
+(b) *Division 4.2 (Spontaneously Combustible Material).* For the purposes of this subchapter, *spontaneously combustible material* (Division 4.2) means—
 
 (1) *A pyrophoric material.* A pyrophoric material is a liquid or solid that, even in small quantities and without an external ignition source, can ignite within five (5) minutes after coming in contact with air when tested according to UN Manual of Tests and Criteria.
 
@@ -94,4 +94,4 @@
 
 (c) *Division 4.3 (Dangerous when wet material).* For the purposes of this chapter, *dangerous when wet material* (Division 4.3) means a material that, by contact with water, is liable to become spontaneously flammable or to give off flammable or toxic gas at a rate greater than 1 L per kilogram of the material, per hour, when tested in accordance with UN Manual of Tests and Criteria.
 
-[82 FR 15879, Mar. 30, 2017]
+[82 FR 15879, Mar. 30, 2017, as amended at 85 FR 27880, May 11, 2020]

@@ -12,7 +12,7 @@
 
 (b) *Individual shut-off valves and pressure relief devices.* Except for Division 2.2 permanent gases, each UN pressure receptacle must be equipped with an individual shutoff valve that must be tightly closed while in transit. Each UN pressure receptacle must be individually equipped with a pressure relief device as prescribed by § 173.301(f), except that pressure relief devices on bundles of cylinders or manifolded horizontal cylinders must have a set-to-discharge pressure that is based on the lowest marked pressure of any cylinder in the bundle or manifolded unit.
 
-(c) *Pressure receptacle valve requirements.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 10297:2014(E) (IBR, *see* § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
+(c) *Pressure receptacle valve requirements.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 10297:2014(E) (IBR, *see* § 171.7 of this subchapter). Quick release cylinder valves for specification and type testing must conform to the requirements in ISO 17871:2015(E) Gas cylinders - Quick-release cylinder valves - Specification and type testing (IBR, *see* § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
 
 (2) A UN pressure receptacle must have its valves protected from damage that could cause inadvertent release of the contents of the UN pressure receptacle by one of the following methods:
 
@@ -28,7 +28,7 @@
 
 (vi) By packing the UN pressure receptacles in a strong outer package, such as a box or crate, capable of meeting the drop test specified in § 178.603 of this subchapter at the Packing Group I performance level.
 
-(d) *Non-refillable UN pressure receptacles.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 13340 (IBR, see § 171.7 of this subchapter);
+(d) *Non-refillable UN pressure receptacles.* (1) When the use of a valve is prescribed, the valve must conform to the requirements in ISO 11118:2015(E), (IBR, *see* § 171.7 of this subchapter). Manufacture of valves to ISO 13340:2001(E) is authorized until December 31, 2020;
 
 (2) The receptacles must be transported as an inner package of a combination package;
 
@@ -42,4 +42,4 @@
 
 (g) *Composite cylinders in underwater use.* A composite cylinder certified to ISO-11119-2 or ISO-11119-3 may not be used for underwater applications unless the cylinder is manufactured in accordance with the requirements for underwater use and is marked “UW” as prescribed in § 178.71(q)(18) of this subchapter.
 
-[71 FR 33882, June 12, 2006, as amended at 71 FR 54395, Sept. 14, 2006; 76 FR 3380, Jan. 19, 2011; 78 FR 1091, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 80 FR 1161, Jan. 8, 2015; 82 FR 15891, Mar. 30, 2017]
+[71 FR 33882, June 12, 2006, as amended at 71 FR 54395, Sept. 14, 2006; 76 FR 3380, Jan. 19, 2011; 78 FR 1091, Jan. 7, 2013; 78 FR 65485, Oct. 31, 2013; 80 FR 1161, Jan. 8, 2015; 82 FR 15891, Mar. 30, 2017; 85 FR 27896, May 11, 2020]

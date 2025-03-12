@@ -12,7 +12,7 @@
 
 (c) *Test method.* (1) Samples of all IBC design types must be dropped onto a rigid, non-resilient, smooth, flat and horizontal surface. The point of impact must be the most vulnerable part of the base of the IBC being tested. Following the drop, the IBC must be restored to the upright position for observation.
 
-(2) IBC design types with a capacity of 0.45 cubic meters (15.9 cubic feet) or less must be subject to an additional drop test.
+(2) IBC design types with a capacity of 0.45 cubic meters (15.9 cubic feet) or less must be subject to an additional drop test. The same IBC or a different IBC of the same design may be used for each drop.
 
 (d) *Drop height.* (1) For all IBCs, drop heights are specified as follows:
 
@@ -38,4 +38,4 @@
 
 (e) *Criteria for passing the test.* For all IBC design types, there may be no damage which renders the IBC unsafe to be transported for salvage or for disposable, and no loss of contents. The IBC shall be capable of being lifted by an appropriate means until clear of the floor for five minutes. A slight discharge from a closure upon impact is not considered to be a failure of the IBC provided that no further leakage occurs. A slight discharge (e.g., from closures or stitch holes) upon impact is not considered a failure of the flexible IBC provided that no further leakage occurs after the IBC has been raised clear of the ground.
 
-[Amdt. 178-103, 59 FR 38074, July 26, 1994, as amended at 66 FR 45386, Aug. 28, 2001; 69 FR 76186, Dec. 20, 2004; 71 FR 78635, Dec. 29, 2006; 74 FR 2269, Jan. 14, 2009; 75 FR 5397, Feb. 2, 2010]
+[Amdt. 178-103, 59 FR 38074, July 26, 1994, as amended at 66 FR 45386, Aug. 28, 2001; 69 FR 76186, Dec. 20, 2004; 71 FR 78635, Dec. 29, 2006; 74 FR 2269, Jan. 14, 2009; 75 FR 5397, Feb. 2, 2010; 85 FR 27901, May 11, 2020]

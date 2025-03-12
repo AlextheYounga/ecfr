@@ -1,7 +1,5 @@
 ##### § 1739.19 Reporting and oversight requirements. #####
 
-Link to an amendment published at 85 FR 14409, Mar. 12, 2020.
-
 (a) A project performance activity report will be required of all recipients on an annual basis until the Project is complete and the funds are expended by the applicant. The reporting period will start with the calendar year the award is made and continue for every calendar year through the term of the award. The report must be submitted by January 31 of the following year of the reporting period. Recipients are to submit an original and one copy of all project performance reports, including, but not limited to, the following:
 
 (1) A comparison of actual accomplishments to the objectives established for that period;
@@ -23,3 +21,7 @@ Link to an amendment published at 85 FR 14409, Mar. 12, 2020.
 (2) The Total Compensation of the Recipient's Executives (5 most highly compensated executives) must be reported by the Recipient (if the Recipient meets the criteria under 2 CFR part 170) to *http://www.sam.gov* by the end of the month following the month in which the award was made.
 
 (3) The Total Compensation of the Subrecipient's Executives (5 most highly compensated executives) must be reported by the Subrecipient (if the Subrecipient meets the criteria under 2 CFR part 170) to the Recipient by the end of the month following the month in which the subaward was made.
+
+(f) Entities that receive assistance from the Agency under this part to provide retail broadband service must submit annual reports for 3 years after project completion. The information required can be found in 7 CFR 1738.107(a) and (c).
+
+[78 FR 25791, June 3, 2013, as amended at 85 FR 14409, Mar. 12, 2020]

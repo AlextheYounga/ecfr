@@ -1,7 +1,5 @@
 ##### § 1739.15 Completed application. #####
 
-Link to an amendment published at 85 FR 14409, Mar. 12, 2020.
-
 Applications should be prepared in conformance with the provisions of this part and all applicable regulations, including 2 CFR part 200, as adopted by USDA through 2 CFR part 400. Applicants must also conform to the requirements of the FOA posted on *www.Grants.gov*, the RUS Community Connect Grant program application guide, and the Community Connect Grant program website. Applicants should refer to the FOA and the application guide for submission directions. The application guide contains instructions and forms, as well as other important information needed to prepare an application and is updated on an annual basis. Paper copies of the application guide can be requested by contacting the Loan Origination and Approval Division at 202-720-0800. Completed applications must include the following documentation, studies, reports and information, in form and substance satisfactory to the Agency:
 
 (a) *An Application for Federal Assistance.* A completed Standard Form 424;
@@ -22,7 +20,7 @@ Applications should be prepared in conformance with the provisions of this part 
 
 (c) *Scoring Criteria Documentation.* A narrative, with documentation where necessary, addressing the elements listed in the scoring criteria of § 1739.17;
 
-(d) *System design.* A system design of the Project that is economical and practical, including a detailed description of the facilities to be funded, technical specifications, data rates, and costs. In addition, a network diagram detailing the proposed system must be provided. The system design must also comply with the environmental review requirements in accordance with 7 CFR part 1970;
+(d) *System design.* A system design of the Project that is economical and practical, including a detailed description of the facilities to be funded, technical specifications, data rates, and costs. In addition, a network diagram detailing the proposed system must be provided. The system design must also comply with the environmental review requirements in accordance with 7 CFR part 1970 and as supplemented by 7 CFR 1738.108;
 
 (e) *Service Area Demographics.* The following information about the PFSA:
 
@@ -60,23 +58,25 @@ Applications should be prepared in conformance with the provisions of this part 
 
 (k) *Additional funding.* Evidence that funding agreements have been attained, if the Project requires funding commitment(s) from sources other than the grant. An applicant submitting multiple applications for funding must demonstrate its financial wherewithal to support all applications, if accepted, and that it can simultaneously complete and operate all of the Projects under consideration. Additionally, commitments for outside funding must be explicit that they will be available if all applications are not funded;
 
-(l) *Federal compliance.* Evidence of compliance with other federal statutes and regulations including, but not limited to the following:
+(l) *Public notice.* The Agency will publish a public notice of each application requesting assistance under this part. The application must provide a summary of the information required for such public notice. The information required can be found in 7 CFR 1738.106.
 
-(1) 7 CFR part 15, subpart A - Nondiscrimination in Federally Assisted Programs of the Department of Agriculture - Effectuation of Title VI of the Civil Rights Act of 1964;
+(m) *Federal compliance.* Evidence of compliance with other federal statutes and regulations including, but not limited to the following:
+
+(1) 7 CFR part 15, subpart A—Nondiscrimination in Federally Assisted Programs of the Department of Agriculture—Effectuation of Title VI of the Civil Rights Act of 1964;
 
 (2) 2 CFR part 200, as adopted by USDA through 2 CFR part 400.
 
-(3) 2 CFR part 417 - Nonprocurement Debarment and Suspension;
+(3) 2 CFR part 417—Nonprocurement Debarment and Suspension;
 
-(4) 2 CFR part 418 - New Restrictions on Lobbying;
+(4) 2 CFR part 418—New Restrictions on Lobbying;
 
-(5) 2 CFR part 421 - Requirements for Drug-Free Workplace (Financial Assistance);
+(5) 2 CFR part 421—Requirements for Drug-Free Workplace (Financial Assistance);
 
 (6) Certification regarding Architectural Barriers;
 
 (7) Certification regarding Flood Hazard Precautions;
 
-(8) Environmental review documentation prepared in accordance with 7 CFR part 1970.
+(8) Environmental review documentation prepared in accordance with 7 CFR part 1970 and as supplemented by 7 CFR 1738.108.
 
 (9) A certification that grant funds will not be used to duplicate lines, facilities, or systems providing Broadband Service;
 
@@ -84,4 +84,4 @@ Applications should be prepared in conformance with the provisions of this part 
 
 (11) Assurance Regarding Felony Conviction or Tax Delinquent Status for Corporate Applicants.
 
-[78 FR 25791, June 3, 2013, as amended at 79 FR 76004, Dec. 19, 2014; 81 FR 11027, Mar. 2, 2016; 83 FR 45033, Sept. 5, 2018]
+[78 FR 25791, June 3, 2013, as amended at 79 FR 76004, Dec. 19, 2014; 81 FR 11027, Mar. 2, 2016; 83 FR 45033, Sept. 5, 2018; 85 FR 14409, Mar. 12, 2020]

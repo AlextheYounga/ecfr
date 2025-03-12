@@ -100,11 +100,11 @@
 
 (n) *Elevated temperature materials.* If a liquid material in a package meets the definition of an elevated temperature material in § 171.8 of this subchapter, and the fact that it is an elevated temperature material is not disclosed in the proper shipping name (for example, when the words “Molten” or “Elevated temperature” are part of the proper shipping name), the word “HOT” must immediately precede the proper shipping name of the material on the shipping paper.
 
-(o) *Organic peroxides and self-reactive materials.* The description on a shipping paper for a Division 4.1 (self-reactive) material or a Division 5.2 (organic peroxide) material must include the following additional information, as appropriate:
+(o) *Organic peroxides, polymerizing substances, and self-reactive materials.* The description on a shipping paper for a Division 4.1 (polymerizing substance and self-reactive) material or a Division 5.2 (organic peroxide) material must include the following additional information, as appropriate:
 
 (1) If notification or competent authority approval is required, the shipping paper must contain a statement of approval of the classification and conditions of transport.
 
-(2) For Division 4.1 (self-reactive) and Division 5.2 (organic peroxide) materials that require temperature control during transport, the control and emergency temperature must be included on the shipping paper.
+(2) For Division 4.1 (polymerizing substance and self-reactive) and Division 5.2 (organic peroxide) materials that require temperature control during transport, the words “TEMPERATURE CONTROLLED” must be added as part of the proper shipping name, unless already part of the proper shipping name. The control and emergency temperature must be included on the shipping paper.
 
 (3) The word “SAMPLE” must be included in association with the basic description when a sample of a Division 4.1 (self-reactive) material (see § 173.224(c)(3) of this subchapter) or Division 5.2 (organic peroxide) material (see § 173.225(b)(2) of this subchapter) is offered for transportation.
 

@@ -26,11 +26,11 @@
 
 (12) For UN1845, Carbon dioxide, solid (dry ice), the information required by this paragraph (a) may be replaced by the UN number, proper shipping name, hazard class, total quantity in each cargo compartment aboard the aircraft, and the airport at which the package(s) is to be unloaded; and
 
-(13)(i) For UN3480, Lithium ion batteries, and UN3090, Lithium metal batteries, the information required by this paragraph (a) may be replaced by the UN number, proper shipping name, hazard class, total quantity at each specific loading location, and whether the package must be carried on cargo-only aircraft.
+(13)(i) For UN3480, Lithium ion batteries, and UN3090, Lithium metal batteries, the information required by paragraph (a) of this section may be replaced by the UN number, proper shipping name, hazard class, total quantity at each specific loading location, the airport at which the package(s) is to be unloaded, and whether the package must be carried on cargo-only aircraft.
 
 (ii) For UN3480, Lithium ion batteries, and UN3090, Lithium metal batteries, carried under a special permit or a State exemption as prescribed in the ICAO Technical Instructions (IBR, see § 171.7 of this subchapter), must meet all of the requirements of this section.
 
-(iii) For UN3480, UN3481, UN3090, and UN3091 prepared in accordance with § 173.185(c), except those prepared in accordance with § 173.185(c)(4)(vi), are not required to appear on the information to the pilot-in-command.
+(iii) For UN3480, UN3481, UN3090, and UN3091 prepared in accordance with § 173.185(c), except those prepared in accordance with § 173.185(c)(5), are not required to appear on the information to the pilot-in-command.
 
 (b)(1) The information provided to the pilot-in-command must also include a signed confirmation or some other indication from the person responsible for loading the aircraft that there was no evidence of any damage to or leakage from the packages or any leakage from the unit load devices loaded on the aircraft;
 
@@ -38,7 +38,7 @@
 
 (3) The pilot-in-command must indicate in writing (e.g., handwritten, printed, or electronic form) that the information to the pilot-in-command has been received.
 
-(c) The aircraft operator must -
+(c) The aircraft operator must—
 
 (1) *For shipping papers.* (i) Ensure a copy of the shipping paper required by § 175.30(a)(2) accompanies the shipment it covers during transportation aboard the aircraft.
 
@@ -54,4 +54,4 @@
 
 (d) The information required by paragraph (a) of this section and the shipping paper required by (c)(1) of this section may be combined into one document.
 
-[83 FR 52899, Oct. 18, 2018]
+[83 FR 52899, Oct. 18, 2018, as amended at 85 FR 27899, May 11, 2020]

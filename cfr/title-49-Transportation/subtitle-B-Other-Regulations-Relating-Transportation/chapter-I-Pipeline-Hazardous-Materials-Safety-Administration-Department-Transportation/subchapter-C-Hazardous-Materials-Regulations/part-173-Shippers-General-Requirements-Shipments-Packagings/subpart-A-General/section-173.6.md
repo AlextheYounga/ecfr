@@ -30,11 +30,17 @@ When transported by motor vehicle in conformance with this section, a material o
 
 (6) A limited quantity package prepared in accordance with § 173.63(b), § 173.150, § 173.151(b) and (c), § 173.152, § 173.153, § 173.154, § 173.155, § 173.161, § 173.165, § 173.167, § 173.306(i), or § 173.309(d) of this subchapter. Division 4.3 substances must be prepared in accordance with paragraph (a)(3) of this section. Class 7 (radioactive) substances, instruments and articles are not authorized under the provisions of this section.
 
+(7) For a material or article for which Column (5) of the Hazardous Materials Table in § 172.101 of this subchapter does not indicate a packing group. Authorized amounts are:
+
+(i) For Classes or Divisions indicated in paragraph (a)(1) of this section, the amounts shown in paragraph (a)(1)(ii).
+
+(ii) For Division 4.3, the amounts shown in paragraph (a)(3) of this section.
+
 (b) *Packaging.* (1) Packagings must be leak tight for liquids and gases, sift proof for solids, and be securely closed, secured against shifting, and protected against damage.
 
 (2) Each material must be packaged in the manufacturer's original packaging, or a packaging of equal or greater strength and integrity.
 
-(3) Outer packagings are not required for receptacles (e.g., cans and bottles) that are secured against shifting in cages, carts, bins, boxes or compartments.
+(3) Outer packagings are not required for receptacles (*e.g.,* cans and bottles) or articles that are secured against shifting in cages, carts, bins, boxes, or compartments or by other means.
 
 (4) For gasoline, a packaging must be made of metal or plastic and conform to the requirements of this subchapter or to the requirements of the Occupational Safety and Health Administration of the Department of Labor contained in 29 CFR 1910.106(d)(2) or 1926.152(a)(1).
 
@@ -52,4 +58,4 @@ When transported by motor vehicle in conformance with this section, a material o
 
 (e) *Other exceptions.* A material of trade may be transported on a motor vehicle under the provisions of this section with other hazardous materials without affecting its eligibility for exceptions provided by this section.
 
-[Amdt. 173-259, 62 FR 1216, Jan. 8, 1997, as amended by Amdt. 173-262, 62 FR 49566, Sept. 22, 1997; 62 FR 51560, Oct. 1, 1997; Amdt. 173-259, 63 FR 8142, Feb. 18, 1998; 63 FR 52849, Oct. 1, 1998; 66 FR 45381, Aug. 28, 2001; 67 FR 53137, Aug. 14, 2002; 68 FR 75742, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 72 FR 55692, Oct. 1, 2007; 78 FR 1113, Jan. 7, 2013; 78 FR 15326, Mar. 11, 2013; 78 FR 65478, Oct. 31, 2013]
+[Amdt. 173-259, 62 FR 1216, Jan. 8, 1997, as amended by Amdt. 173-262, 62 FR 49566, Sept. 22, 1997; 62 FR 51560, Oct. 1, 1997; Amdt. 173-259, 63 FR 8142, Feb. 18, 1998; 63 FR 52849, Oct. 1, 1998; 66 FR 45381, Aug. 28, 2001; 67 FR 53137, Aug. 14, 2002; 68 FR 75742, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 71 FR 32258, June 2, 2006; 72 FR 55692, Oct. 1, 2007; 78 FR 1113, Jan. 7, 2013; 78 FR 15326, Mar. 11, 2013; 78 FR 65478, Oct. 31, 2013; 85 FR 27878, May 11, 2020]

@@ -1,0 +1,5 @@
+##### § 1738.208 Award determinations. #####
+
+(a) If the loan or loan/grant combination application meets all statutory and regulatory requirements and the feasibility study demonstrates that the Net worth and TIER, CR, or DSCR requirements in § 1738.206(b)(2)(i) can be satisfied and the business plan is sustainable, the application will be submitted to the Agency's credit committees for consideration according to the priorities in § 1738.105. Such submission of an application to the Agency's credit committees does not guarantee that a loan or loan/grant combination will be approved. In making a loan and/or loan/grant combination Award determination, the Administrator shall consider the recommendations of the credit committees.
+
+(b) The Applicant will be notified of the Agency's decision in writing. If the Agency does not approve the loan or loan/grant combination, a rejection letter will be sent to the Applicant, and the application will be returned with an explanation of the reasons for the rejection.

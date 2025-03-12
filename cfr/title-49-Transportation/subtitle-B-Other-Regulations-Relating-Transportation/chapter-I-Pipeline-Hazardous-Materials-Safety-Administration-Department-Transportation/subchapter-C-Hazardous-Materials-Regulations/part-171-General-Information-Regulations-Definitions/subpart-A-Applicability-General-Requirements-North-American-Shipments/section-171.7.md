@@ -294,11 +294,11 @@
 
 (1) IAEA Safety Standards for Protecting People and the Environment; Regulations for the Safe Transport of Radioactive Material, No. SSR-6, (IAEA Regulations), 2012 Edition, into §§ 171.22; 171.23; 171.26; 173.415; 173.416; 173.417; 173.435; 173.473.
 
-(2) [Reserved]
+(2) Code of Conduct on the Safety and Security of Radioactive Sources (International Atomic Energy Agency Code of Conduct), copyright 2004, into § 172.800.
 
 (t) *International Civil Aviation Organization (“ICAO”),* 999 Robert-Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada, 1-514-954-8219, *http://www.icao.int*. ICAO Technical Instructions available from: ICAO Document Sales Unit, *sales@icao.int*.
 
-(1) Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2017-2018 Edition, copyright 2016, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.407; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
+(1) ICAO Doc 9284, Technical Instructions for the Safe Transport of Dangerous Goods by Air (ICAO Technical Instructions), 2019-2020 Edition, copyright 2018, into §§ 171.8; 171.22; 171.23; 171.24; 172.101; 172.202; 172.401; 172.407; 172.512; 172.519; 172.602; 173.56; 173.320; 175.10, 175.33; 178.3.
 
 (2) [Reserved]
 
@@ -312,7 +312,7 @@
 
 (1) International Convention for the Safety of Life at Sea, 1974, Consolidated Edition (SOLAS), Chapter II-2, Construction - Fire protection, fire detection and fire extinction, Regulation 19, Carriage of dangerous goods, Fifth Edition 2009, into §§ 176.63, 176.84.
 
-(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 38-16 (English Edition), 2016 Edition, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.407; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 176.906; 178.3; 178.274.
+(2) International Maritime Dangerous Goods Code (IMDG Code), Incorporating Amendment 39-18 (English Edition), Volumes 1 and 2, 2018 Edition, copyright 2018, into §§ 171.22; 171.23; 171.25; 172.101; 172.202; 172.203 172.401; 172.407; 172.502; 172.519; 172.602; 173.21; 173.56; 176.2; 176.5; 176.11; 176.27; 176.30; 176.83; 176.84; 176.140; 176.720; 176.906; 178.3; 178.274.
 
 (w) *International Organization for Standardization,* Case Postale 56, CH-1211, Geneve 20, Switzerland, *http://www.iso.org*. Also available from: ANSI 25, West 43rd Street, New York, NY 10036, 1-212-642-4900, *http://www.ansi.org*.
 
@@ -420,37 +420,55 @@
 
 (52) ISO 11118(E), Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods, First edition, October 1999, into § 178.71.
 
-(53) ISO 11119-1(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 1: Hoop-wrapped composite gas cylinders, First edition, May 2002, into § 178.71.
+(53) ISO 11118:2015(E), Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods, Second edition, 2015-09-15, into §§ 173.301b; 178.71.
 
-(54) ISO 11119-1:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 1: Hoop wrapped fibre reinforced composite gas cylinders and tubes up to 450 l, Second edition, 2012-08-01, into § 178.71.
+(54) ISO 11119-1(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 1: Hoop-wrapped composite gas cylinders, First edition, May 2002, into § 178.71.
 
-(55) ISO 11119-2(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 2: Fully wrapped fibre reinforced composite gas cylinders with load-sharing metal liners, First edition, May 2002, into § 178.71.
+(55) ISO 11119-1:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 1: Hoop wrapped fibre reinforced composite gas cylinders and tubes up to 450 l, Second edition, 2012-08-01, into § 178.71.
 
-(56) ISO 11119-2:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Second edition, 2012-07-15, into § 178.71.
+(56) ISO 11119-2(E), Gas cylinders - Gas cylinders of composite construction - Specification and test methods - Part 2: Fully wrapped fibre reinforced composite gas cylinders with load-sharing metal liners, First edition, May 2002, into § 178.71.
 
-(57) ISO 11119-2:2012/Amd.1:2014(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Amendment 1, 2014-08-15, into § 178.71.
+(57) ISO 11119-2:2012(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Second edition, 2012-07-15, into § 178.71.
 
-(58) ISO 11119-3(E), Gas cylinders of composite construction - Specification and test methods - Part 3: Fully wrapped fibre reinforced composite gas cylinders with non-load-sharing metallic or non-metallic liners, First edition, September 2002, into § 178.71.
+(58) ISO 11119-2:2012/Amd.1:2014(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 2: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with load-sharing metal liners, Amendment 1, 2014-08-15, into § 178.71.
 
-(59) ISO 11119-3:2013(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 3: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with non-load-sharing metallic or non-metallic liners, Second edition, 2013-04-15, into § 178.71.
+(59) ISO 11119-3(E), Gas cylinders of composite construction - Specification and test methods - Part 3: Fully wrapped fibre reinforced composite gas cylinders with non-load-sharing metallic or non-metallic liners, First edition, September 2002, into § 178.71.
 
-(60) ISO 11120(E), Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing, First edition, March 1999, into §§ 178.71; 178.75.
+(60) ISO 11119-3:2013(E), Gas cylinders - Refillable composite gas cylinders and tubes - Design, construction and testing - Part 3: Fully wrapped fibre reinforced composite gas cylinders and tubes up to 450 l with non-load-sharing metallic or non-metallic liners, Second edition, 2013-04-15, into § 178.71.
 
-(61) ISO 11513:2011(E), Gas cylinders - Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene) - Design, construction, testing, use and periodic inspection, First edition, 2011-09-12, into §§ 173.302c; 178.71; 180.207.
+(61) ISO 11120(E), Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing, First edition, March 1999, into §§ 178.71; 178.75.
 
-(62) ISO 11621(E), Gas cylinders - Procedures for change of gas service, First edition, April 1997, into §§ 173.302, 173.336, 173.337.
+(62) ISO 11120:2015(E), Gas cylinders - Refillable seamless steel tubes of water capacity between 150 l and 3000 l - Design, construction and testing, Second Edition, 2015-02-01, into §§ 178.71; 178.75.
 
-(63) ISO 11623(E), Transportable gas cylinders - Periodic inspection and testing of composite gas cylinders, First edition, March 2002, into § 180.207.
+(63) ISO 11513:2011(E), Gas cylinders - Refillable welded steel cylinders containing materials for sub-atmospheric gas packaging (excluding acetylene) - Design, construction, testing, use and periodic inspection, First edition, 2011-09-12, into §§ 173.302c; 178.71; 180.207.
 
-(64) ISO 13340:2001(E) Transportable gas cylinders - Cylinder valves for non-refillable cylinders - Specification and prototype testing, First edition, 2004-04-01, into §§ 173.301b; 178.71.
+(64) ISO 11621(E), Gas cylinders - Procedures for change of gas service, First edition, April 1997, into §§ 173.302, 173.336, 173.337.
 
-(65) ISO 13736:2008(E), Determination of flash point - Abel closed-cup method, Second Edition, 2008-09-15, into § 173.120.
+(65) ISO 11623(E), Transportable gas cylinders - Periodic inspection and testing of composite gas cylinders, First edition, March 2002, into § 180.207.
 
-(66) ISO 16111:2008(E), Transportable gas storage devices - Hydrogen absorbed in reversible metal hydride, First Edition, 2008-11-15, into §§ 173.301b; 173.311; 178.71.
+(66) ISO 11623:2015(E), Gas cylinders - Composite construction - Periodic inspection and testing, Second edition, 2015-12-01, into § 180.207.
 
-(67) ISO 18172-1:2007(E), Gas cylinders - Refillable welded stainless steel cylinders - Part 1: Test pressure 6 MPa and below, First Edition, 2007-03-01, into § 178.71.
+(67) ISO 13340:2001(E) Transportable gas cylinders - Cylinder valves for non-refillable cylinders - Specification and prototype testing, First edition, 2004-04-01, into §§ 173.301b; 178.71.
 
-(68) ISO 20703:2006(E), Gas cylinders - Refillable welded aluminum-alloy cylinders - Design, construction and testing, First Edition, 2006-05-01, into § 178.71.
+(68) ISO 13736:2008(E), Determination of flash point - Abel closed-cup method, Second Edition, 2008-09-15, into § 173.120.
+
+(69) [Reserved]
+
+(70) ISO 16111:2008(E), Transportable gas storage devices - Hydrogen absorbed in reversible metal hydride, First Edition, 2008-11-15, into §§ 173.301b; 173.311; 178.71.
+
+(71) ISO 16148:2016(E), Gas cylinders - Refillable seamless steel gas cylinders and tubes - Acoustic emission examination (AT) and follow-up ultrasonic examination (UT) for periodic inspection and testing, Second Edition, 2016-04-15, into § 180.207.
+
+(72) ISO 17871:2015(E), Gas cylinders - Quick-release cylinder valves - Specification and type testing, First Edition, 2015-08-15, into 173.301b.
+
+(73) ISO 18172-1:2007(E), Gas cylinders - Refillable welded stainless steel cylinders - Part 1: Test pressure 6 MPa and below, First Edition, 2007-03-01, into § 178.71.
+
+(74) ISO 20703:2006(E), Gas cylinders - Refillable welded aluminum-alloy cylinders - Design, construction and testing, First Edition, 2006-05-01, into § 178.71.
+
+(75) ISO 21172-1:2015(E), Gas cylinders - Welded steel pressure drums up to 3 000 litres capacity for the transport of gases - Design and construction - Part 1: Capacities up to 1 000 litres, First edition, 2015-04-01, into § 178.71.
+
+(76) ISO 22434:2006(E), Transportable gas cylinders - Inspection and maintenance of cylinder valves, First Edition, 2006-09-01, into § 180.207.
+
+(77) ISO/TR 11364:2012(E), Gas cylinders - Compilation of national and international valve stem/gas cylinder neck threads and their identification and marking system, First Edition, 2012-12-01, into § 178.71.
 
 (x) *National Board of Boiler and Pressure Vessel Inspectors,* 1055 Crupper Avenue, Columbus, Ohio 43229.
 
@@ -472,13 +490,13 @@
 
 (aa) *Organization for Economic Cooperation and Development (OECD),* OECD Publications and Information Center, 2001 L Street, N.W., Suite 700, Washington, DC 20036.
 
-(1) Test No. 404: Acute Dermal Irritation/Corrosion, OECD Guidelines for the Testing of Chemicals, Section 4: Health Effects, adopted April 24, 2002, into § 173.137.
+(1) Test No. 404: Acute Dermal Irritation/Corrosion, OECD Guidelines for the Testing of Chemicals, adopted 28 July 2015, into § 173.137.
 
-(2) Test No. 430: In VitroSkin Corrosion: Transcutaneous Electrical Resistance Test (TER), OECD Guidelines for the Testing of Chemicals, Section 4: Health Effects, adopted April 13, 2004, into § 173.137.
+(2) Test No. 430: In Vitro Skin Corrosion: Transcutaneous Electrical Resistance Test (TER), OECD Guidelines for the Testing of Chemicals, adopted 28 July 2015, into § 173.137.
 
-(3) OECD (2004), Test No. 431: In VitroSkin Corrosion: Human Skin Model Test, OECD Guidelines for the Testing of Chemicals, Section 4: Health Effects, OECD Publishing, adopted April 13, 2004, into § 173.137.
+(3) Test No. 431: In Vitro Skin Corrosion: Reconstructed Human Epidermis (RHE) Test Method, OECD Guidelines for the Testing of Chemicals, adopted 28 July 2015, into § 173.137.
 
-(4) Test No. 435: In VitroMembrane Barrier Test Method for Skin Corrosion, OECD Guidelines for the Testing of Chemicals, Section 4: Health Effects, adopted July 19, 2006, into § 173.137.
+(4) Test No. 435: In Vitro Membrane Barrier Test Method for Skin Corrosion, OECD Guidelines for the Testing of Chemicals, adopted 28 July 2015, into § 173.137.
 
 (bb) *Transport Canada,* Transport Dangerous Goods. Mailstop: ASD 330 Sparks Street, Ottawa, Ontario, Canada K1A 0N5, 416-973-1868, *http://www.tc.gc.ca*.
 
@@ -522,7 +540,13 @@
 
 (xix) SOR/2015-100 May 20, 2015.
 
-(2) [Reserved]
+(xx) SOR/2016-95 June 1, 2016;
+
+(xxi) SOR/2017-137 July 12, 2017.
+
+(xxii) SOR/2017-253 December 13, 2017.
+
+(2) Containers for Transport of Dangerous Goods by Rail, TP 14877E, 12/2013, into § 171.12.
 
 (cc) *Truck Trailer Manufacturers Association,* 1020 Princess Street, Alexandria, Virginia 22314.
 
@@ -534,11 +558,15 @@
 
 (dd) *United Nations,* Bookshop, GA-1B-103, New York, NY 10017, 1-212-963-7680, *https://shop.un.org* or *bookshop@un.org**.*
 
-(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 19th revised edition, Volumes I and II (2015), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 172.519; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
+(1) UN Recommendations on the Transport of Dangerous Goods, Model Regulations (UN Recommendations), 20th revised edition, Volumes I and II, ST/SG/AC.10/1/Rev.20(Vol.I) and (Vol.II), (2017), into §§ 171.8; 171.12; 172.202; 172.401; 172.407; 172.502; 172.519; 173.22; 173.24; 173.24b; 173.40; 173.56; 173.192; 173.302b; 173.304b; 178.75; 178.274.
 
-(2) UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, (Manual of Tests and Criteria), Sixth revised edition (2015), into §§ 171.24, 172.102; 173.21; 173.56; 173.57; 173.58; 173.60; 173.115; 173.124; 173.125; 173.127; 173.128; 173.137; 173.185; 173.220; 173.221; 173.225, part 173, appendix H; 176.905; 178.274.
+(2) UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria, (Manual of Tests and Criteria), into §§ 171.24, 172.102; 173.21; 173.56; 173.57; 173.58; 173.60; 173.115; 173.124; 173.125; 173.127; 173.128; 173.137; 173.185; 173.220; 173.221; 173.224; 173.225; 173.232; part 173, appendix H; 175.10; 176.905; 178.274:
 
-(3) UN Recommendations on the Transport of Dangerous Goods, Globally Harmonized System of Classification and Labelling of Chemicals (GHS), Sixth revised edition (2015), into § 172.401.
+(i) Sixth Revised Edition (2015);
+
+(ii) Sixth Revised Edition, Amendment 1, ST/SG/AC.10/11/Rev.6/.Amend.1 (2017).
+
+(3) Globally Harmonized System of Classification and Labelling of Chemicals (GHS), Seventh Revised Edition, ST/SG/AC.10/30/Rev.7 (2017), into § 172.401.
 
 Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 
@@ -578,4 +606,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020]

@@ -18,7 +18,7 @@
 
 (d) *Service equipment.* (1) Except for pressure relief devices, UN pressure receptacle equipment, including valves, piping, fittings, and other equipment subjected to pressure must be designed and constructed to withstand at least 1.5 times the test pressure of the pressure receptacle.
 
-(2) Service equipment must be configured or designed to prevent damage that could result in the release of the pressure receptacle contents during normal conditions of handling and transport. Manifold piping leading to shut-off valves must be sufficiently flexible to protect the valves and the piping from shearing or releasing the pressure receptacle contents. The filling and discharge valves and any protective caps must be secured against unintended opening. The valves must conform to ISO 10297:2014(E) or ISO 13340:2001(E) (IBR, *see* § 171.7 of this subchapter) for non-refillable pressure receptacles, and be protected as specified in § 173.301b(f) of this subchapter. Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) (IBR, *see* § 171.7 of this subchapter) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized.
+(2) Service equipment must be configured, or designed, to prevent damage that could result in the release of the pressure receptacle contents during normal conditions of handling and transport. Manifold piping leading to shut-off valves must be sufficiently flexible to protect the valves and the piping from shearing or releasing the pressure receptacle contents. The filling and discharge valves and any protective caps must be secured against unintended opening. The valves must conform to ISO 10297:2014(E) or, for non-refillable pressure receptacles valves manufactured until December 31, 2020, ISO 13340:2001(E) (IBR, *see* § 171.7 of this subchapter), and be protected as specified in § 173.301b(f) of this subchapter. Until December 31, 2020, the manufacture of a valve conforming to the requirements in ISO 10297:2006(E) (IBR, *see* § 171.7 of this subchapter) is authorized. Until December 31, 2008, the manufacture of a valve conforming to the requirements in ISO 10297:1999(E) (IBR, *see* § 171.7 of this subchapter) is authorized. Additionally, valves must be initially inspected and tested in accordance with ISO 14246:2014(E) Gas cylinders - Cylinder valves - Manufacturing tests and examinations (IBR, *see* § 171.7 of this subchapter).
 
 (3) UN pressure receptacles that cannot be handled manually or rolled, must be equipped with devices (e.g., skids, rings, straps) ensuring that they can be safely handled by mechanical means and so arranged as not to impair the strength of, nor cause undue stresses, in the pressure receptacle.
 
@@ -42,13 +42,15 @@
 
 (8) For bundles of cylinders, pressure receptacle marking requirements only apply to the individual cylinders of a bundle and not to any assembly structure.
 
-(f) *Design and construction requirements for UN refillable welded cylinders.* In addition to the general requirements of this section, UN refillable welded cylinders must conform to the following ISO standards, as applicable:
+(f) *Design and construction requirements for UN refillable welded cylinders and UN pressure drums.* In addition to the general requirements of this section, UN refillable welded cylinders and UN pressure drums must conform to the following ISO standards, as applicable:
 
 (1) ISO 4706: Gas cylinders - Refillable welded steel cylinders - Test pressure 60 bar and below (IBR, *see* § 171.7 of this subchapter).
 
 (2) ISO 18172-1: Gas cylinders - Refillable welded stainless steel cylinders - Part 1: Test pressure 6 MPa and below (IBR, *see* § 171.7 of this subchapter).
 
 (3) ISO 20703: Gas cylinders - Refillable welded aluminum-alloy cylinders - Design, construction and testing (IBR, *see* § 171.7 of this subchapter).
+
+(4) ISO 21172-1:2015(E) Gas cylinders - Welded steel pressure drums up to 3,000 litres capacity for the transport of gases - Design and construction - Part 1: Capacities up to 1,000 litres (IBR, *see* § 171.7 of this subchapter). Irrespective of section 6.3.3.4 of this standard, welded steel gas pressure drums with dished ends convex to pressure may be used for the transport of corrosive substances provided all applicable additional requirements are met.
 
 (g) *Design and construction requirements for UN refillable seamless steel cylinders.* In addition to the general requirements of this section, UN refillable seamless steel cylinders must conform to the following ISO standards, as applicable:
 
@@ -62,9 +64,9 @@
 
 (h) *Design and construction requirements for UN refillable seamless aluminum alloy cylinders.* In addition to the general requirements of this section, UN refillable seamless aluminum cylinders must conform to ISO 7866:2012(E) as modified by ISO 7866:2012/Cor.1:2014(E) (IBR, see § 171.7 of this subchapter). Until December 31, 2020, the manufacture of a cylinder conforming to the requirements in ISO 7866(E) (IBR, see § 171.7 of this subchapter) is authorized. The use of Aluminum alloy 6351-T6 or equivalent is prohibited.
 
-(i) *Design and construction requirements for UN non-refillable metal cylinders.* In addition to the general requirements of this section, UN non-refillable metal cylinders must conform to ISO 11118: Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods. (IBR, *see* § 171.7 of this subchapter.)
+(i) *Design and construction requirements for UN non-refillable metal cylinders.* In addition to the general requirements of this section, UN non-refillable metal cylinders must conform to ISO 11118:2015(E) Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods (IBR, *see* § 171.7 of this subchapter). Until December 31, 2020, cylinders conforming to ISO 11118:1999(E) Gas cylinders - Non-refillable metallic gas cylinders - Specification and test methods (IBR, *see* § 171.7 of this subchapter) are authorized.
 
-(j) *Design and construction requirements for UN refillable seamless steel tubes.* In addition to the general requirements of this section, UN refillable seamless steel tubes must conform to ISO 11120: Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3000 L - Design, construction and testing. (IBR, *see* § 171.7 of this subchapter).
+(j) *Design and construction requirements for UN refillable seamless steel tubes.* In addition to the general requirements of this section, UN refillable seamless steel tubes must conform to ISO 11120:2015(E) Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3,000 L - Design, construction and testing (IBR, *see* § 171.7 of this subchapter). Until December 31, 2022, UN refillable seamless steel tubes may be manufactured in accordance with ISO 11120: Gas cylinders - Refillable seamless steel tubes of water capacity between 150 L and 3,000 L - Design, construction and testing (IBR, *see* § 171.7 of this subchapter)
 
 (k) *Design and construction requirements for UN acetylene cylinders.* In addition to the general requirements of this section, UN acetylene cylinders must conform to the following ISO standards, as applicable:
 
@@ -124,7 +126,7 @@
 
 (11) For liquefied gases, the water capacity in liters expressed to three significant digits rounded down to the last digit, followed by the letter “L”. If the value of the minimum or nominal water capacity is an integer, the digits after the decimal point may be omitted.
 
-(12) Identification of the cylinder thread type (e.g., 25E).
+(12) Identification of the cylinder thread type (*e.g.,* 25E). Information on the marks that may be used for identifying threads for cylinders is given in ISO/TR 11364, Gas Cylinders - Compilation of national and international valve stem/gas cylinder neck threads and their identification and marking system (IBR, *see* § 171.7 of this subchapter).
 
 (13) The country of manufacture. The letters “USA” must be marked on cylinders manufactured in the United States.
 
@@ -204,4 +206,4 @@
 
 (3) The bottom grouping contains certification marks and must appear consecutively in the sequence given in paragraphs (u)(2)(i) through (u)(2)(v) of this section as applicable.
 
-[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015; 82 FR 15895, Mar. 30, 2017]
+[76 FR 3385, Jan. 19, 2011, as amended at 76 FR 43532, July 20, 2011; 77 FR 60943, Oct. 5, 2012; 78 FR 1096, Jan. 7, 2013; 80 FR 1166, Jan. 8, 2015; 80 FR 72929, Nov. 23, 2015; 82 FR 15895, Mar. 30, 2017; 85 FR 27900, May 11, 2020]

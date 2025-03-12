@@ -1,5 +1,7 @@
 ##### § 127.400 What is an eligibility examination? #####
 
+Link to an amendment published at 85 FR 27663, May 11, 2020.
+
 (a) *Purpose of examination.* Eligibility examinations are investigations that verify the accuracy of any certification made or information provided as part of the certification process (including third-party certifications) or in connection with an EDWOSB or WOSB requirement. In addition, eligibility examinations may verify that a concern meets the EDWOSB or WOSB eligibility requirements at the time of the examination. SBA will, in its sole discretion, perform eligibility examinations at any time after a concern self-certifies in SAM (or any successor system) that it is an EDWOSB or WOSB. SBA may conduct the examination, or parts of the examination, at one or all of the concern's offices.
 
 (b) *Determination on conduct of an examination.* SBA may consider protest allegations set forth in a protest in determining whether to conduct an examination of a concern pursuant to subpart D of this part, notwithstanding a dismissal or denial of a protest pursuant to § 127.604. SBA may also consider information provided to the D/GC by a third-party that questions the eligibility of a WOSB or EDWOSB that has certified its status in SAM in determining whether to conduct an eligibility examination.

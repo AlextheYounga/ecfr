@@ -12,10 +12,10 @@
 
 (4) For low pressure liquefied gases or gas mixtures, the maximum filling ratio may be determined using the formulas in (3)(c) of P200 of the UN Recommendations.
 
-(5) For liquefied gases charged with compressed gases, both components - the liquid phase and the compressed - have to be taken into consideration in the calculation of the internal pressure in the pressure receptacle. The maximum mass of contents per liter of water capacity shall not exceed 95 percent of the density of the liquid phase at 50 °C (122 °F); in addition, the liquid phase shall not completely fill the pressure receptacle at any temperature up to 60 °C (140 °F). When filled, the internal pressure at 65 °C (149 °F) shall not exceed the test pressure of the pressure receptacles. The vapor pressures and volumetric expansions of all substances in the pressure receptacles shall be considered. The maximum filling limits may be determined using the procedure in (3)(e) of P200 of the UN Recommendations.
+(5) For liquefied gases charged with compressed gases, both components - the liquefied gas and the compressed gas - must be taken into consideration in the calculation of the internal pressure in the pressure receptacle. The maximum mass of contents per liter of water capacity shall not exceed 95 percent of the density of the liquid phase at 50 °C (122 °F); in addition, the liquid phase shall not completely fill the pressure receptacle at any temperature up to 60 °C (140 °F). When filled, the internal pressure at 65 °C (149 °F) shall not exceed the test pressure of the pressure receptacles. The vapor pressures and volumetric expansions of all substances in the pressure receptacles shall be considered. The maximum filling limits may be determined using the procedure in (3)(e) of P200 of the UN Recommendations.
 
 (c) Tetraflouroethylene, stabilized, UN1081 must be packaged in a pressure receptacle with a minimum test pressure of 200 bar and a working pressure not exceeding 5 bar.
 
 (d) Fertilizer ammoniating solution with free ammonia, UN1043 is not authorized in UN tubes or MEGCs.
 
-[74 FR 2265, Jan. 14, 2009, as amended at 82 FR 15891, Mar. 30, 2017]
+[74 FR 2265, Jan. 14, 2009, as amended at 82 FR 15891, Mar. 30, 2017; 85 FR 27897, May 11, 2020]
