@@ -2,7 +2,7 @@
 
 (a) *Identification.* Orthopedic surgical instruments designed for osteochondral implants with press-fit fixation are hand-held devices intended to manipulate bone and cartilage tissue or the implant for the positioning, alignment, defect creation, and placement of press-fit osteochondral implants that utilize no additional means of fixation (*e.g.,* suture fixation, adhesives). This type of device includes instruments specific to the geometry of the implant.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 888.9. The special controls for this device are:
 
 (1) Technical specifications regarding geometry of the instruments must be specified and validated to demonstrate that the instruments can safely position and place the implant.
 
@@ -14,4 +14,4 @@
 
 (ii) Validated methods and instructions for reprocessing any reusable parts.
 
-[84 FR 57321, Oct. 25, 2019]
+[84 FR 57321, Oct. 25, 2019, as amended at 85 FR 44188, July 22, 2020]

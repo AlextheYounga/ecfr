@@ -1,5 +1,7 @@
 ##### § 1041.2 Definitions. #####
 
+Link to an amendment published at 85 FR 44444, July 22, 2020.
+
 (a) *Definitions.* For the purposes of this part, the following definitions apply:
 
 (1) *Account* has the same meaning as in Regulation E, 12 CFR 1005.2(b).

@@ -1,8 +1,6 @@
 ##### § 300.223 Purse seine fishing restrictions. #####
 
-Link to an amendment published at 85 FR 37390, June 22, 2020.
-
-None of the requirements of this section apply in the territorial seas or archipelagic waters of the United States or any other nation, as defined by the domestic laws and regulations of that nation and recognized by the United States. All dates used in this section are in Universal Coordinated Time, also known as UTC; for example: the year 2013 starts at 00:00 on January 1, 2013 UTC and ends at 24:00 on December 31, 2013 UTC; and July 1, 2013, begins at 00:00 UTC and ends at 24:00 UTC.
+None of the requirements of this section apply in the territorial seas or archipelagic waters of the United States or any other nation, as defined by the domestic laws and regulations of that nation and recognized by the United States, or within the Overlap Area. All dates used in this section are in Universal Coordinated Time, also known as UTC; for example: The year 2013 starts at 00:00 on January 1, 2013 UTC and ends at 24:00 on December 31, 2013 UTC; and July 1, 2013, begins at 00:00 UTC and ends at 24:00 UTC.
 
 (a) *Fishing effort limits.* This paragraph establishes limits on the number of fishing days that fishing vessels of the United States equipped with purse seine gear may operate in the Convention Area in the area between 20° N latitude and 20° S latitude in a calendar year.
 
@@ -120,4 +118,4 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (h) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area must release any whale shark that is encircled in a purse seine net in the Convention Area, and take reasonable steps for its safe release, without compromising the safety of any persons. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019]
+[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019; 85 FR 37390, June 22, 2020]

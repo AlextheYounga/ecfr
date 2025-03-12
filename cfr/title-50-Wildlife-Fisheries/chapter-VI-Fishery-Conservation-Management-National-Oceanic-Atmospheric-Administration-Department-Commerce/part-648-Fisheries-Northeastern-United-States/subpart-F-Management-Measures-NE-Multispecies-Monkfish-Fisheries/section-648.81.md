@@ -1,6 +1,6 @@
 ##### § 648.81 NE multispecies year-round and seasonal closed areas. #####
 
-(a) *Year-round groundfish closed areas.* (1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
+(a) *Year-round groundfish closed areas* - (1) *Restrictions.* No fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the, Cashes Ledge, Western Gulf of Maine, or Closed Area II Closure Areas, unless otherwise allowed by or exempted under this part. Charts of the areas described in this section are available from the Regional Administrator upon request.
 
 (2) *Exemptions.* Unless restricted by the requirements of subpart P of this part or elsewhere in this part, paragraph (a)(1) of this section does not apply to a fishing vessel or person on a fishing vessel when fishing under the following conditions:
 
@@ -79,7 +79,7 @@ Closed Area II Closure Area
 
 (B) Fishing with tuna purse seine gear outside of the portion of Closed Area II known as the Habitat Area of Particular Concern, as described in § 648.370(g).
 
-(C) Fishing in the CA II Yellowtail Flounder/Haddock SAP or the Eastern U.S./Canada Haddock SAP Program as specified in § 648.85(b)(3)(ii) or (b)(8)(ii), respectively.
+(C) Fishing in the CA II Yellowtail Flounder/Haddock SAP or the Eastern U.S./Canada Haddock SAP Program as specified in § 648.85(b)(3)(ii) or (b)(7)(ii), respectively.
 
 (D) Transiting the area, provided the vessel's fishing gear is stowed and not available for immediate use as defined in § 648.2; and
 
@@ -115,7 +115,7 @@ Table 5 to Paragraph  (a)(6)(ii) - Nantucket Lightship Closed Area
 | CN3 |40°50′|70°20′ |
 | G10 |40°50′|69°00′ |
 
-(b) *Gulf of Maine spawning groundfish closures.* (1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
+(b) *Gulf of Maine spawning groundfish closures* - (1) *Restrictions.* Unless allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, the spawning closure areas described in paragraphs (b)(3) and (4) of this section, during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
 (2) *Exemptions.* Paragraph (b)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
@@ -190,7 +190,7 @@ Spring Massachusetts Bay Spawning Protection Area
 
 (ii) Unless otherwise restricted in this part, the Spring Massachusetts Bay Spawning Protection Area closure does not apply to a fishing vessel or person on a fishing vessel that meets the criteria in paragraphs (d)(5)(ii) through (vi) and (x) of this section (listed under the exemptions for the GOM Cod Protection Closures). This includes recreational vessels meeting the criteria specified in paragraphs (d)(5)(v)(A) through (D) of this section.
 
-(c) *Georges Bank Spawning Groundfish Closures.* (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
+(c) *Georges Bank Spawning Groundfish Closures* - (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used on board a vessel in the spawning closure areas described in paragraphs (b)(3) and (4) of this section, and during the times specified in this section. Charts depicting the areas defined here are available from the RA upon request.
 
 (2) *Exemptions.* Paragraph (c)(1) of this section does not apply to a fishing vessel or person on a fishing vessel:
 
@@ -241,7 +241,7 @@ Closed Area II
 
 <sup>3</sup> The intersection of 67°20′ W long. and the U.S.-Canada Maritime Boundary, approximately 42°22.06′ N lat. and 67°20′ W long.
 
-(d) *GOM Cod Protection Closures.* (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section.
+(d) *GOM Cod Protection Closures* - (1) *Restrictions.* Unless otherwise allowed in this part, no fishing vessel or person on a fishing vessel may enter, fish, or be in, and no fishing gear capable of catching NE multispecies may be used or on board a vessel in, GOM Cod Protection Closures I through V as described, and during the times specified, in paragraphs (d)(4)(i) through (v) of this section.
 
 (2) *Review of closure.* The New England Fishery Management Council shall review the GOM Cod Protection Closures Areas specified in this section when the spawning stock biomass for GOM cod reaches the minimum biomass threshold specified for the stock (50 percent of SSBMSY).
 
@@ -709,4 +709,4 @@ GOM Cod Protection Closure V
 | AB  |40°02.45′ N|70°14.10′ W|(\*)|
 | AA  |40°02.75′ N|70°16.10′ W|(\*)|
 
-[83 FR 15266, Apr. 9, 2018, as amended at 83 FR 17313, Apr. 19, 2018; 84 FR 68799, Dec. 17, 2019]
+[83 FR 15266, Apr. 9, 2018, as amended at 83 FR 17313, Apr. 19, 2018; 84 FR 68799, Dec. 17, 2019; 85 FR 44221, July 22, 2020]

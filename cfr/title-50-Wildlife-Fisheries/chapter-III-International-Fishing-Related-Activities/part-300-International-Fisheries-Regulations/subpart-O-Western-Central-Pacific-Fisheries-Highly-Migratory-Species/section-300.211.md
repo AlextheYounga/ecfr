@@ -1,7 +1,5 @@
 ##### § 300.211 Definitions. #####
 
-Link to an amendment published at 85 FR 37388, June 22, 2020.
-
 In addition to the terms defined in § 300.2 and those in the Act and in the Convention on the Conservation and Management of Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, with Annexes (WCPF Convention), which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High-Level Conference on Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, the terms used in this subpart have the following meanings.
 
 *1982 Convention* means the United Nations Convention on the Law of the Sea of 10 December 1982.
@@ -26,7 +24,7 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *Eastern High Seas Special Management Area* means the area of the high seas within the area bounded by the four lines connecting, in the most direct fashion, the coordinates specified as follows: 11° S. latitude and 161° W. longitude; 11° S. latitude and 154° W. longitude; 16° S. latitude and 154° W. longitude; and 16° S. latitude and 161° W. longitude.
 
-*Effort Limit Area for Purse Seine,* or *ELAPS,* means, within the area between 20° N. latitude and 20° S. latitude, areas within the Convention Area that either are high seas or within the EEZ.
+*Effort Limit Area for Purse Seine,* or *ELAPS,* means, within the area between 20° N latitude and 20° S latitude, areas within the Convention Area that either are high seas or within the EEZ, except for the Overlap Area.
 
 *Fish aggregating device,* or *FAD,* means any artificial or natural floating object, whether anchored or not and whether situated at the water surface or not, that is capable of aggregating fish, as well as any object used for that purpose that is situated on board a vessel or otherwise out of the water. The definition of FAD does not include a vessel.
 
@@ -87,6 +85,8 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *Observer information* means any information collected, observed, retrieved, or created by an observer or electronic monitoring system pursuant to authorization by the Secretary, or collected as part of a cooperative research initiative, including fish harvest or processing observations, fish sampling or weighing data, vessel logbook data, vessel or processor-specific information (including any safety, location, or operating condition observations), and video, audio, photographic, or written documents.
 
+*Overlap Area* means the area within the Pacific Ocean bounded by 50° S latitude, 4° S latitude, 150° W longitude, and 130° W longitude.
+
 *Pacific Islands Regional Administrator* means the Regional Administrator, Pacific Islands Region, NMFS, 1845 Wasp Blvd., Bldg. 176, Honolulu, HI 96818, or a designee.
 
 *Parties to the Nauru Agreement* means the parties to the Nauru Agreement Concerning Cooperation in the Management of Fisheries of Common Interest, as specified on the Web site of the Parties to the Nauru Agreement at *www.pnatuna.com.*
@@ -127,4 +127,4 @@ In addition to the terms defined in § 300.2 and those in the Act and in the Con
 
 *WCPFC transshipment monitor* means, with respect to transshipments that take place on the high seas, a person authorized by the Commission to conduct transshipment monitoring on the high seas, and with respect to transshipments that take place in areas under the jurisdiction of a member of the Commission other than the United States, a person authorized by such member of the Commission to conduct transshipment monitoring.
 
-[72 FR 18405, Apr. 12, 2007, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3347, Jan. 21, 2010; 77 FR 71509, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 64110, Oct. 28, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59047, Oct. 1, 2015; 83 FR 33869, July 18, 2018]
+[72 FR 18405, Apr. 12, 2007, as amended at 74 FR 64010, Dec. 7, 2009; 75 FR 3347, Jan. 21, 2010; 77 FR 71509, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 79 FR 64110, Oct. 28, 2014; 80 FR 8815, Feb. 19, 2015; 80 FR 59047, Oct. 1, 2015; 83 FR 33869, July 18, 2018; 85 FR 37388, June 22, 2020]

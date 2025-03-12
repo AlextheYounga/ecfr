@@ -12,6 +12,6 @@
 
 (5) Cryopreservation instrumentation and devices, used to contain, freeze, and maintain gametes and/or embryos at an appropriate freezing temperature.
 
-(b) *Classification.* Class II (special controls) (design specifications, labeling requirements, and clinical testing). The device, when it is a simple embryo incubator with only temperature, gas, and humidity control; a syringe pump; a collection tube warmer; a dish/plate/microscope stage warmer; or a controlled-rate cryopreservation freezer, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 884.9.
+(b) *Classification.* Class II (special controls) (design specifications, labeling requirements, and clinical testing). The device, when it is a simple embryo incubator with only temperature, gas, and humidity control; a syringe pump; a collection tube warmer; a dish/plate/microscope stage warmer; a controlled-rate cryopreservation freezer; or an assisted reproduction laminar flow workstation is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 884.9.
 
-[45 FR 12684, Feb. 26, 1980, as amended at 84 FR 71816, Dec. 30, 2019]
+[45 FR 12684, Feb. 26, 1980, as amended at 84 FR 71816, Dec. 30, 2019; 85 FR 44188, July 22, 2020]

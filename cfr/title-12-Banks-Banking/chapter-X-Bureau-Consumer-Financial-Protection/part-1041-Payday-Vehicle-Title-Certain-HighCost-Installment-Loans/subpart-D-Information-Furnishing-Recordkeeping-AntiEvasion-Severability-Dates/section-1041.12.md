@@ -1,5 +1,7 @@
 ##### § 1041.12 Compliance program and record retention. #####
 
+Link to an amendment published at 85 FR 44444, July 22, 2020.
+
 (a) *Compliance program.* A lender making a covered loan must develop and follow written policies and procedures that are reasonably designed to ensure compliance with the requirements in this part. These written policies and procedures must be appropriate to the size and complexity of the lender and its affiliates, and the nature and scope of the covered loan lending activities of the lender and its affiliates.
 
 (b) *Record retention.* A lender must retain evidence of compliance with this part for 36 months after the date on which a covered loan ceases to be an outstanding loan.

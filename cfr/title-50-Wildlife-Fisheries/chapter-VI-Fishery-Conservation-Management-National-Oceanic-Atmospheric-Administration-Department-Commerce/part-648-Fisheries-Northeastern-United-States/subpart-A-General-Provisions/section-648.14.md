@@ -555,7 +555,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*5*) Enter, fail to remove sink gillnet gear or gillnet gear capable of catching NE multispecies from, or be in the areas, and for the times, described in § 648.80(g)(6)(i) and (ii), except as provided in §§ 648.80(g)(6)(i) and 648.81(i).
 
-(B) *Hook gear.* Fail to comply with the restrictions on fishing and gear specified in § 648.80(a)(3)(v), (a)(4)(v), (b)(2)(v), and (c)(2)(iv) if the vessel has been issued a limited access NE multispecies permit and fishes with hook gear in areas specified in § 648.80(a), (b), or (c), unless allowed under § 648.85(b)(7)(iv)(E).
+(B) *Hook gear.* Fail to comply with the restrictions on fishing and gear specified in §§ 648.80(a)(3)(v), (a)(4)(v), (b)(2)(v), and (c)(2)(iv) if the vessel has been issued a limited access NE multispecies permit and fishes with hook gear in areas specified in § 648.80(a), (b), or (c).
 
 (7) *Closed areas and EFH* - (i) *All persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
@@ -657,7 +657,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*3*) If fishing inside the Eastern U.S./Canada Area and in possession of fish in excess of what is allowed under more restrictive regulations that apply outside of the Eastern U.S./Canada Area, fish outside of the Eastern U.S./Canada Area on the same trip, as prohibited under § 648.85(a)(3)(ii)(A).
 
-(*4*) If fishing both outside and inside of the areas specified for a SAP under § 648.85(b)(3) and (8), under a NE multispecies DAS in the Eastern U.S./Canada Area specified in § 648.85(a)(1), fail to abide by the DAS and possession restrictions under § 648.85(b)(8)(v)(A)(*2*) through (*4*).
+(*4*) If fishing both outside and inside of the areas specified for a SAP under § 648.85(b)(3) and (7), under a NE multispecies DAS in the Eastern U.S./Canada Area specified in § 648.85(a)(1), fail to abide by the DAS and possession restrictions under § 648.85(b)(7)(v)(A)(*2*) through (*4*).
 
 (B) *Vessel and operator permit holders.* Fail to comply with the GB yellowtail flounder trip limit specified under § 648.85(a)(3)(iv)(C).
 
@@ -685,15 +685,15 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*2*) For vessels fishing inside and outside the Eastern U.S./Canada Area on the same trip, fail to comply with the most restrictive regulations that apply on the trip as required by § 648.85(a)(3)(ii)(A).
 
-(vi) *Closure of the U.S./Canada Area for all persons.* If fishing under a NE multispecies DAS or on a sector trip, declare into, enter, or fish in the Eastern U.S./Canada Area specified in § 648.85(a)(1) if the area is closed under the authority of the Regional Administrator as described in § 648.85(a)(3)(iv)(D) or (E), unless fishing in the Closed Area II Yellowtail Flounder/Haddock SAP specified in § 648.85(b)(3) or the Eastern U.S./Canada Haddock SAP Program specified in § 648.85(b)(8).
+(vi) *Closure of the U.S./Canada Area for all persons.* If fishing under a NE multispecies DAS or on a sector trip, declare into, enter, or fish in the Eastern U.S./Canada Area specified in § 648.85(a)(1) if the area is closed under the authority of the Regional Administrator as described in § 648.85(a)(3)(iv)(D) or (E), unless fishing in the Closed Area II Yellowtail Flounder/Haddock SAP specified in § 648.85(b)(3) or the Eastern U.S./Canada Haddock SAP Program specified in § 648.85(b)(7).
 
 (12) *SAP restrictions* (i) It is unlawful for any person to:
 
 (A) If declared into the areas specified in § 648.85(b), enter or exit the declared areas more than once per trip.
 
-(B) If a vessel is fishing under a Category B DAS in the Closed Area II Yellowtail Flounder SAP specified in § 648.85(b)(3), the Regular B DAS Program specified in § 648.85(b)(6), or the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(8), remove any fish caught with any gear, including dumping the contents of a net, except on board the vessel.
+(B) If a vessel is fishing under a Category B DAS in the Closed Area II Yellowtail Flounder SAP specified in § 648.85(b)(3), the Regular B DAS Program specified in § 648.85(b)(6), or the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(7), remove any fish caught with any gear, including dumping the contents of a net, except on board the vessel.
 
-(ii) *General restrictions for vessel and operator permit holders.* Discard legal-sized NE regulated multispecies, ocean pout, or Atlantic halibut while fishing under a SAP, as described in §§ 648.85(b)(3)(xi), 648.85(b)(7)(iv)(H), or 648.85(b)(8)(v)(I).
+(ii) *General restrictions for vessel and operator permit holders.* Discard legal-sized NE regulated multispecies, ocean pout, or Atlantic halibut while fishing under a SAP, as described in §§ 648.85(b)(3)(xi) or 648.85(b)(7)(v)(I).
 
 (iii) *Closed Area II Yellowtail Flounder/Haddock SAP restrictions for all persons.* (A) If fishing under the Closed Area II Yellowtail Flounder/Haddock SAP, fish for, harvest, possess, or land any regulated NE multispecies or ocean pout from the area specified in § 648.85(b)(3)(ii), unless in compliance with § 648.85(b)(3)(i) through (xiii).
 
@@ -735,27 +735,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (J) If fishing in the Regular B DAS Program specified in § 648.85(b)(6), fail to comply with the reporting requirements specified in § 648.85(b)(6)(iv)(I).
 
-(vi) *Closed Area I Hook Gear Haddock SAP restrictions for vessel and operator permit holders.* (A) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the applicable requirements and conditions specified in § 648.85(b)(7)(iv), and (b)(7)(v) or (b)(7)(vi).
-
-(B) Fish in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7) outside of the season specified in § 648.85(b)(7)(iii).
-
-(C) Fish in the Closed Area I Hook Gear Haddock Access Area specified in § 648.85(b)(7)(ii), if that area is closed as specified in § 648.85(b)(7)(iv)(I) or (b)(7)(vi)(F).
-
-(D) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the applicable DAS use restrictions specified in § 648.85(b)(7)(iv)(A) and (b)(7)(vi)(A).
-
-(E) *VMS requirements.* (*1*) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the VMS requirements specified in § 648.85(b)(7)(iv)(B).
-
-(*2*) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the VMS declaration requirement specified in § 648.85(b)(7)(iv)(D).
-
-(F) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the observer notification requirements specified in § 648.85(b)(7)(iv)(C).
-
-(G) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the applicable gear restrictions specified in § 648.85(b)(7)(iv)(E), and (b)(7)(v)(A) or (b)(7)(vi)(B).
-
-(H) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the applicable landing limits specified in § 648.85(b)(7)(iv)(H), and (b)(7)(v)(C) or (b)(7)(vi)(C).
-
-(I) If fishing in the Closed Area I Hook Gear Haddock SAP specified in § 648.85(b)(7), fail to comply with the applicable reporting requirement specified in § 648.85(b)(7)(v)(C) or (b)(7)(vi)(D).
-
-(vii) *Eastern U.S./Canada Haddock SAP Restrictions* - (A) *All Persons.* (*1*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(8), in the area specified in § 648.85(b)(8)(ii), and during the season specified in § 648.85(b)(8)(iv), fail to comply with § 648.85(b)(8)(v).
+(vi) *Eastern U.S./Canada Haddock SAP Restrictions* - (A) *All Persons.* (*1*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP specified in § 648.85(b)(8), in the area specified in § 648.85(b)(8)(ii), and during the season specified in § 648.85(b)(8)(iv), fail to comply with § 648.85(b)(8)(v).
 
 (*2*) *VMS and declaration requirements.* (*i*) If fishing under a NE multispecies DAS or on a sector trip in the Eastern U.S./Canada Haddock SAP in the area specified in § 648.85(b)(8)(ii), fail to comply with the VMS requirements in § 648.85(b)(8)(v)(B).
 

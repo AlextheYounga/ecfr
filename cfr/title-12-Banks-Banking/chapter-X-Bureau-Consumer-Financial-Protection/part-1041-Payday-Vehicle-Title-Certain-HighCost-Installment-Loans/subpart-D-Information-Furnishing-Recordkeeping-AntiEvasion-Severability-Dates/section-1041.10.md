@@ -1,5 +1,7 @@
 ##### § 1041.10 Information furnishing requirements. #####
 
+Link to an amendment published at 85 FR 44444, July 22, 2020.
+
 (a) *Loans subject to furnishing requirement.* For each covered short-term loan and covered longer-term balloon-payment loan a lender makes, the lender must furnish the loan information described in paragraph (c) of this section to each information system described in paragraph (b)(1) of this section.
 
 (b) *Information systems to which information must be furnished.* (1) A lender must furnish information as required in paragraphs (a) and (c) of this section to each information system that, as of the date the loan is consummated:

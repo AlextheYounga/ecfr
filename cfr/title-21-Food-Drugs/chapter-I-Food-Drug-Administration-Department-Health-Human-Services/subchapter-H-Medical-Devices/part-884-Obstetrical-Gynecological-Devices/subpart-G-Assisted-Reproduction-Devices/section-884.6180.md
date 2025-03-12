@@ -2,4 +2,6 @@
 
 (a) *Identification.* Reproductive media and supplement are products that are used for assisted reproduction procedures. Media include liquid and powder versions of various substances that come in direct physical contact with human gametes or embryos (including water, acid solutions used to treat gametes or embryos, rinsing solutions, sperm separation media, supplements, or oil used to cover the media) for the purposes of preparation, maintenance, transfer or storage. Supplements are specific reagents added to media to enhance specific properties of the media (e.g., proteins, sera, antibiotics, etc.).
 
-(b) *Classification.* Class II (special controls) (mouse embryo assay information, endotoxin testing, sterilization validation, design specifications, labeling requirements, biocompatibility testing, and clinical testing).
+(b) *Classification.* Class II (special controls) (mouse embryo assay information, endotoxin testing, sterilization validation, design specifications, labeling requirements, biocompatibility testing, and clinical testing). The device, when it is phosphate-buffered saline used for washing, and short-term handling and manipulation of gametes and embryos; culture oil used as an overlay for culture media containing gametes and embryos; and water for assisted reproduction applications, is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 884.9.
+
+[63 FR 48436, Sept. 10, 1998, as amended at 85 FR 44188, July 22, 2020]

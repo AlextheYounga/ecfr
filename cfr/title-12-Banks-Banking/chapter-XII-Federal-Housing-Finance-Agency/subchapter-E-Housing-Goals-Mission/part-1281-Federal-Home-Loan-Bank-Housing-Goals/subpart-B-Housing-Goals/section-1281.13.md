@@ -1,6 +1,6 @@
 ##### § 1281.13 Special counting requirements. #####
 
-Link to an amendment published at 85 FR 38052, June 25, 2020.
+Link to an amendment published at 85 FR 38052, June 25, 2020.Link to a correction published at 85 FR 44159, July 22, 2020.
 
 (a) *General.* FHFA shall determine whether a Bank shall receive full, partial, or no credit toward achievement of any of the housing goals for a transaction that otherwise qualifies under this part.
 

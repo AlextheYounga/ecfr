@@ -1,7 +1,5 @@
 ##### § 300.21 Definitions. #####
 
-Link to an amendment published at 85 FR 37388, June 22, 2020.
-
 In addition to the terms defined in § 300.2, in the Act, the Convention for the Establishment of an Inter-American Tropical Tuna Commission (Convention), and the Convention for the Strengthening of the Inter-American Tropical Tuna Commission Established by the 1949 Convention between the United States of America and the Republic of Costa Rica (Antigua Convention), the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, in the Act, or in the Antigua Convention, the definition in this section shall apply.
 
 *Active FAD* means a FAD whose location is being tracked by the vessel owner or operator using tracking equipment, such as radio or satellite buoys. A FAD shall be considered an Active FAD unless/until the vessel is no longer tracking its location and the vessel owner or operator notifies the IATTC that the FAD is no longer active (*i.e.,* deactivated).
@@ -10,11 +8,7 @@ In addition to the terms defined in § 300.2, in the Act, the Convention for the
 
 *Commercial passenger fishing vessel* means any vessel licensed for commercial passenger fishing purposes within the State out of which it is operating and from which, while under charter or hire, persons are legally permitted to conduct sportfishing activities.
 
-*Convention Area* or *IATTC Convention Area* means:
-
-(1) For the purpose of § 300.22(b), all waters of the Pacific Ocean within the area bounded by the west coast of the Americas and by 50° N. latitude from the coast of North America to its intersection with 150° W. longitude, then 150° W. longitude to its intersection with 50° S. latitude, and then 50° S. latitude to its intersection with the coast of South America; and
-
-(2) For the purpose of all other sections and paragraphs of this subpart, all waters of the Pacific Ocean within the area bounded by the west coast of the Americas and by 50° N. latitude from the coast of North America to its intersection with 150° W. longitude, then 150° W. longitude to its intersection with 4° S. latitude, then 4° S. to its intersection with 130° W. longitude, then 130° W. longitude to its intersection with 50° S. latitude, and then 50° S. latitude to its intersection with the coast of South America.
+*Convention Area* or *IATTC Convention Area* means all waters of the Pacific Ocean within the area bounded by the west coast of the Americas and by 50° N latitude from the coast of North America to its intersection with 150° W longitude, then 150° W longitude to its intersection with 50° S latitude, and then 50° S latitude to its intersection with the coast of South America.
 
 *Data buoy* means, for the purpose of § 300.25, a floating device, either drifting or anchored, which is deployed by one or more governmental or recognized scientific organizations or entities for the purpose of electronically collecting and measuring environmental data, and not for the purpose of fishing activities, and which has been reported to the IATTC by a Member or Cooperating non-Member of the Commission.
 
