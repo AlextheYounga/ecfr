@@ -1,5 +1,7 @@
 ##### § 74.706 Digital TV (DTV) station protection. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) For purposes of this section, the DTV station protected service area is the geographic-area in which the field strength of the station's signal exceeds the noise-limited service levels specified in § 73.622(e) of this chapter. The extremity of this area (noise-limited perimeter) is calculated from the authorized maximum radiated power (without depression angle correction), the horizontal radiation pattern, and height above average terrain in the pertinent direction, using the signal propagation method specified in § 73.625(b) of this chapter.
 
 (b)(1) An application to construct a new low power TV or TV translator station or change the facilities of an existing station will not be accepted if it specifies a site which is located within the noise-limited service perimeter of a co-channel DTV station.

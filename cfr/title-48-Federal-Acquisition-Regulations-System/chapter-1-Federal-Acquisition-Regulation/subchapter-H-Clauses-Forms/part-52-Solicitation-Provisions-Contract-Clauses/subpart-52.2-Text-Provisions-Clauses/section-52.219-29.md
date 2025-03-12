@@ -1,10 +1,14 @@
 ##### 52.219-29 Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns. #####
 
+Link to an amendment published at 87 FR 58227, Sept. 23, 2022.Link to an amendment published at 87 FR 58243, Sept. 23, 2022.
+
 As prescribed in 19.1508(a), insert the following clause:
 
 Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (SEP 2021)
 
-(a) *Definitions. Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business (WOSB) concern eligible under the WOSB Program.
+(a) *Definitions.*
+
+*Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business (WOSB) concern eligible under the WOSB Program.
 
 *WOSB Program Repository* means a secure, Web-based application that collects, stores, and disseminates documents to the contracting community and SBA, which verify the eligibility of a business concern for a contract to be awarded under the WOSB Program.
 

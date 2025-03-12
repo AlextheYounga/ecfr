@@ -1,5 +1,7 @@
 ##### 19.1504 Exclusions. #####
 
+Link to an amendment published at 87 FR 58241, Sept. 23, 2022.
+
 This subpart does not apply to -
 
 (a) Requirements that an 8(a) contractor is currently performing under the 8(a) program or that SBA has accepted for performance under the authority of the 8(a) program, unless SBA has consented to release the requirements from the 8(a) program;

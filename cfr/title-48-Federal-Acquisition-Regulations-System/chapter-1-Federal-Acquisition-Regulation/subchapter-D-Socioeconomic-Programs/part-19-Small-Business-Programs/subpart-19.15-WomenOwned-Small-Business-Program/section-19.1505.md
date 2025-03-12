@@ -1,5 +1,7 @@
 ##### 19.1505 Set-aside procedures. #####
 
+Link to an amendment published at 87 FR 58241, Sept. 23, 2022.
+
 (a) The contracting officer -
 
 (1) Shall comply with 19.203 before deciding to set aside an acquisition under the WOSB Program; and

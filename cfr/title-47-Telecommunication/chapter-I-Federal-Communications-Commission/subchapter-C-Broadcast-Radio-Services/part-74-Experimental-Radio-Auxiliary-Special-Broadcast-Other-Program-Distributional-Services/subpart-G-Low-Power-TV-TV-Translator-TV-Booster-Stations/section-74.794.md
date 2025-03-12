@@ -1,5 +1,7 @@
 ##### § 74.794 Digital emissions. #####
 
+Link to an amendment published at 87 FR 58206, Sept. 23, 2022.
+
 (a)(1) An applicant for a digital LPTV or TV translator station construction permit shall specify that the station will be constructed to confine out-of-channel emissions within one of the following emission masks: Simple, stringent or full service.
 
 (2) The power level of emissions on frequencies outside the authorized channel of operation must be attenuated no less than following amounts below the average transmitted power within the authorized 6 MHz channel. In the mask specifications listed in § 74.794(a)(2) and (a)(3), A is the attenuation in dB and Δf is the frequency difference in MHz from the edge of the channel.

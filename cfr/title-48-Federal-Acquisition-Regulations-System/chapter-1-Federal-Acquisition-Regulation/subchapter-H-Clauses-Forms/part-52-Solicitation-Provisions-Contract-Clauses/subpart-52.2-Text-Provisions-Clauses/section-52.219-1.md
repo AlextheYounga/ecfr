@@ -1,5 +1,7 @@
 ##### 52.219-1 Small Business Program Representations. #####
 
+Link to an amendment published at 87 FR 58225, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
+
 As prescribed in 19.309(a)(1), insert the following provision:
 
 Small Business Program Representations (SEP 2021)

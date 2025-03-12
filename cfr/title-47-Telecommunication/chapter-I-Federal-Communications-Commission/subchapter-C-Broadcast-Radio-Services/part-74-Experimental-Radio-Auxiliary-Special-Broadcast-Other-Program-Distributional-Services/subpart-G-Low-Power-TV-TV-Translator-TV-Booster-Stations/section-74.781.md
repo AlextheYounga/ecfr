@@ -1,5 +1,7 @@
 ##### § 74.781 Station records. #####
 
+Link to an amendment published at 87 FR 58204, Sept. 23, 2022.
+
 (a) The licensee of a low power TV, TV translator, or TV booster station shall maintain adequate station records, including the current instrument of authorization, official correspondence with the FCC, contracts, permission for rebroadcasts, and other pertinent documents.
 
 (b) Entries required by § 17.49 of this Chapter concerning any observed or otherwise known extinguishment or improper functioning of a tower light:

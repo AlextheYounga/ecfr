@@ -1,5 +1,7 @@
 ##### § 74.761 Frequency tolerance. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 The licensee of a low power TV, TV translator, or TV booster station shall maintain the transmitter output frequencies as set forth below. The frequency tolerance of stations using direct frequency conversion of a received signal and not engaging in offset carrier operation as set forth in paragraph (d) of this section will be referenced to the authorized plus or minus 10 kHz offset, if any, of the primary station.
 
 (a) The visual carrier shall be maintained to within 0.02 percent of the assigned visual carrier frequency for transmitters rated at not more than 100 watts peak visual power.

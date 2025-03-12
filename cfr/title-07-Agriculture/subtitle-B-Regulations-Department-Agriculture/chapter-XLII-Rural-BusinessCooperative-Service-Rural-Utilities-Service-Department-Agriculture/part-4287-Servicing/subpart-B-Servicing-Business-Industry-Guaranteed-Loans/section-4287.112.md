@@ -1,5 +1,7 @@
 ##### § 4287.112 Interest rate changes. #####
 
+Link to an amendment published at 87 FR 58021, Sept. 23, 2022.
+
 (a) The borrower, lender, and holder (if any) may collectively initiate a permanent or temporary reduction in the interest rate of the guaranteed loan at any time during the life of the loan upon written agreement among these parties. The lender must obtain prior Agency concurrence and provide a copy of the modification agreement to the Agency. If any of the guaranteed portion has been purchased by the Agency, the Agency (as a holder) will affirm or reject interest rate change proposals in writing.
 
 (b) No increases in interest rates will be permitted, except the normal fluctuations in approved variable interest rates, unless a temporary interest rate reduction occurred.

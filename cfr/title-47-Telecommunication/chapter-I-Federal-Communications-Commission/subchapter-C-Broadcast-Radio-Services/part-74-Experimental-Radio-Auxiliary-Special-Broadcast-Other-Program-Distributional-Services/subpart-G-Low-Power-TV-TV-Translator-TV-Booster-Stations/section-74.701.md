@@ -1,5 +1,7 @@
 ##### § 74.701 Definitions. #####
 
+Link to an amendment published at 87 FR 58202, Sept. 23, 2022.
+
 (a) *Television broadcast translator station.* A station in the broadcast service operated for the purpose of retransmitting the programs and signals of a television broadcast station, without significantly altering any characteristic of the original signal other than its frequency and amplitude, for the purpose of providing television reception to the general public.
 
 (b) *Primary station.* The analog television broadcast station (TV broadcast) or digital television station (DTV) which provides the programs and signals being retransmitted by a television broadcast translator station.

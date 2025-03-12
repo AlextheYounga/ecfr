@@ -1,5 +1,7 @@
 ##### § 74.707 Low power TV and TV translator station protection. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a)(1) A low power TV or TV translator will be protected from interference from other low power TV or TV translator stations, or TV booster stations within the following predicted contours:
 
 (i) 62 dBu for stations on Channels 2 through 6;

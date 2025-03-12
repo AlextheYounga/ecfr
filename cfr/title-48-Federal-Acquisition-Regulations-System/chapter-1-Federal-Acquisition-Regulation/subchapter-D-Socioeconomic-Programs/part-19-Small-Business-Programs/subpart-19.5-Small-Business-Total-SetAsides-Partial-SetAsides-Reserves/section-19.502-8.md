@@ -1,5 +1,7 @@
 ##### 19.502-8 Rejecting Small Business Administration recommendations. #####
 
+Link to an amendment published at 87 FR 58241, Sept. 23, 2022.
+
 (a) If the contracting officer rejects a recommendation of the SBA, written notice shall be furnished to the appropriate SBA representative within 5 working days of the contracting officer's receipt of the recommendation.
 
 (b) The SBA PCR (or, if a PCR is not assigned, see 19.402(a)) may appeal the contracting officer's rejection to the head of the contracting activity within 2 working days after receiving the notice (except see 19.1305(d), 19.1405(d), and 19.1505(g)). The head of the contracting activity shall render a decision in writing, and provide it to the SBA representative within 7 working days. Pending issuance of a decision to the SBA representative, the contracting officer shall suspend action on the acquisition.

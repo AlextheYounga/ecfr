@@ -1,5 +1,7 @@
 ##### 19.805-2 Procedures. #####
 
+Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
+
 (a) Offers shall be solicited from those sources identified in accordance with 19.804-3.
 
 (b) The SBA will determine the eligibility of the participants for award of the contract. Eligibility will be determined by the SBA as of the time of submission of initial offers which include price. Eligibility is based on Section 8(a) program criteria. An 8(a) participant must represent that it is a small business in accordance with the size standard corresponding to the NAICS code assigned to the contract.

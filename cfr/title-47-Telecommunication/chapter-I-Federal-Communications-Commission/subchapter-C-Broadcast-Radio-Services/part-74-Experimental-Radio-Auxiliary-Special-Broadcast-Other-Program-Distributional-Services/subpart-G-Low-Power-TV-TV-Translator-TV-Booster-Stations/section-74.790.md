@@ -1,5 +1,7 @@
 ##### § 74.790 Permissible service of digital TV translator and LPTV stations. #####
 
+Link to an amendment published at 87 FR 58205, Sept. 23, 2022.
+
 (a) Digital TV translator stations provide a means whereby the signals of DTV broadcast stations may be retransmitted to areas in which direct reception of such DTV stations is unsatisfactory due to distance or intervening terrain barriers.
 
 (b) Except as provided in paragraph (f) of this section, a digital TV translator station may be used only to receive the signals of a TV broadcast or DTV broadcast station, another digital TV translator station, a TV translator relay station, a television intercity relay station, a television STL station, or other suitable sources such as a CARS or common carrier microwave station, for the simultaneous retransmission of the programs and signals of a TV or DTV broadcast station. Such retransmissions may be accomplished by any of the following means:

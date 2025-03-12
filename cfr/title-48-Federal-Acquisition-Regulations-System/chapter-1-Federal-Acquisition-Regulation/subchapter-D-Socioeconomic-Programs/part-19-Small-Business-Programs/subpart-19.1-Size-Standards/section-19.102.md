@@ -6,9 +6,9 @@
 
 (b) *Determining the appropriate NAICS codes for the solicitation.* (1) Unless required to do otherwise by paragraph (b)(2)(ii)(B) of this section, contracting officers shall assign one NAICS code and corresponding size standard to all solicitations, contracts, and task and delivery orders. The contracting officer shall determine the appropriate NAICS code by classifying the product or service being acquired in the one industry that best describes the principal purpose of the supply or service being acquired. Primary consideration is given to the industry descriptions in the U.S. NAICS Manual, the product or service descriptions in the solicitation, the relative value and importance of the components of the requirement making up the end item being procured, and the function of the goods or services being purchased. A procurement is usually classified according to the component that accounts for the greatest percentage of contract value.
 
-(2)(i) For solicitations issued on or before October 1, 2022, that will result in multiple-award contracts, the contracting officer shall assign a NAICS code in accordance with paragraph (b)(1) of this section.
+(2)(i) For solicitations issued on or before October 1, 2025, that will result in multiple-award contracts, the contracting officer shall assign a NAICS code in accordance with paragraph (b)(1) of this section.
 
-(ii) For solicitations issued after October 1, 2022, that will result in multiple-award contracts, the contracting officer shall -
+(ii) For solicitations issued after October 1, 2025, that will result in multiple-award contracts, the contracting officer shall -
 
 (A) Assign a single NAICS code (and corresponding size standard) that best describes the principal purpose of both the acquisition and each subsequent order; or
 
@@ -24,4 +24,4 @@
 
 (2) The contracting officer may amend the solicitation and use the new size standard if SBA amends the size standard and it becomes effective before the due date for receipt of initial offers.
 
-[85 FR 11757, Feb. 27, 2020, as amended at 85 FR 27101, May 6, 2020; 86 FR 31074, June 10, 2021]
+[85 FR 11757, Feb. 27, 2020, as amended at 85 FR 27101, May 6, 2020; 86 FR 31074, June 10, 2021; 87 FR 58244, Sept. 23, 2022]

@@ -1,5 +1,7 @@
 ##### § 74.709 Land mobile station protection. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) Stations in the Land Mobile Radio Service, using the following channels in the indicated cities will be protected from interference caused by low power TV or TV translator stations, and low power TV and TV translator stations must accept any interference from stations in the land mobile service operating on the following channels:
 
 |      City       | Channels |Coordinates|          |

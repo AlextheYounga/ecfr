@@ -1,5 +1,7 @@
 ##### 52.219-14 Limitations on Subcontracting. #####
 
+Link to an amendment published at 87 FR 58226, Sept. 23, 2022.
+
 As prescribed in 19.507(e), insert the following clause:
 
 Limitations on Subcontracting (SEP 2021)

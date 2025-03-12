@@ -1,5 +1,7 @@
 ##### § 74.736 Emissions and bandwidth. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) The license of a low power TV, TV translator, or TV booster station authorizes the transmission of the visual signal by amplitude modulation (A5) and the accompanying aural signal by frequency modulation (F3).
 
 (b) Standard width television channels will be assigned and the transmitting apparatus shall be operated so as to limit spurious emissions to the lowest practicable value. Any emissions including intermodulation products and radio frequency harmonics which are not essential for the transmission of the desired picture and sound information shall be considered to be spurious emissions.

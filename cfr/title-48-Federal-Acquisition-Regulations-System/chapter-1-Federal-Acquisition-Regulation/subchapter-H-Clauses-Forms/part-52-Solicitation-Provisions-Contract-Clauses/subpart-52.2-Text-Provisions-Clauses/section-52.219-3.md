@@ -1,5 +1,7 @@
 ##### 52.219-3 Notice of HUBZone Set-Aside or Sole-Source Award. #####
 
+Link to an amendment published at 87 FR 58226, Sept. 23, 2022.Link to an amendment published at 87 FR 58237, Sept. 23, 2022.
+
 As prescribed in 19.1309(a), insert the following clause:
 
 Notice of HUBZone Set-Aside or Sole-Source Award (SEP 2021)

@@ -1,0 +1,3 @@
+##### § 102-81.5 What does this part cover? #####
+
+This part covers physical security in and at nonmilitary federally owned and leased facilities and grounds under the jurisdiction, custody, or control of the U.S. General Services Administration (GSA), including those facilities and grounds that have been delegated by the Administrator of General Services. *Federal facility* means all or any part of any federally owned or leased building, physical structure or associated support infrastructure (*e.g.,* parking facilities and utilities) that is under the jurisdiction, custody, or control of GSA. *Federal grounds* mean all or any part of any area outside a Federal facility that is under the jurisdiction, custody, or control of GSA.

@@ -1,5 +1,7 @@
 ##### § 74.735 Power limitations. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) [Reserved]
 
 (b) The maximum ERP of a digital low power TV, TV translator, or TV booster station (average power) shall not exceed:

@@ -1,5 +1,7 @@
 ##### 52.219-30 Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program. #####
 
+Link to an amendment published at 87 FR 58227, Sept. 23, 2022.Link to an amendment published at 87 FR 58243, Sept. 23, 2022.
+
 As prescribed in 19.1508(b), insert the following clause:
 
 Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (SEP 2021)

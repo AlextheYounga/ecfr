@@ -1,5 +1,7 @@
 ##### 19.1305 HUBZone set-aside procedures. #####
 
+Link to an amendment published at 87 FR 58236, Sept. 23, 2022.
+
 (a) The contracting officer -
 
 (1) Shall comply with 19.203 before deciding to set aside an acquisition under the HUBZone Program;

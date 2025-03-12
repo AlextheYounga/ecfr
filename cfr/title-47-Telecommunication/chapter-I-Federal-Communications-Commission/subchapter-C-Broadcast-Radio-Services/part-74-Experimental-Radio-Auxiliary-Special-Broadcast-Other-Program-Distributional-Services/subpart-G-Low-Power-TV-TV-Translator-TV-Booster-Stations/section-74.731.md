@@ -1,5 +1,7 @@
 ##### § 74.731 Purpose and permissible service. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) Television broadcast translator stations and television broadcast booster stations provide a means whereby the signals of television broadcast stations may be retransmitted to areas in which direct reception of such television broadcast stations is unsatisfactory due to distance or intervening terrain barriers.
 
 (b) Except as provided in paragraph (f) of this section, a television broadcast translator station or television broadcast booster station may be used only to receive the signals of a television broadcast station, another television broadcast translator station, a television translator relay station, a television intercity relay station, a television STL station, or other suitable source such as a CARS or common carrier microwave station, for the simultaneous retransmission of the programs and signals of a television broadcast station. Such retransmissions may be accomplished by either:

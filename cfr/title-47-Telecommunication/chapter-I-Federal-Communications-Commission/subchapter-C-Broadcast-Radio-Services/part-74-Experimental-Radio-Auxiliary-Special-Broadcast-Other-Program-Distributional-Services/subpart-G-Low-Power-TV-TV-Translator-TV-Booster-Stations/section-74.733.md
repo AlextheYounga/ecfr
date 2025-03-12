@@ -1,5 +1,7 @@
 ##### § 74.733 UHF translator signal boosters. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) The licensee of a UHF television broadcast translator station may be authorized to operate one or more signal boosters for the purpose of providing reception to small shadowed areas within the area intended to be served by the translator.
 
 (b) The transmitting apparatus shall consist of a simple linear radio frequency amplifier, with one or more amplifying stages, which is capable of receiving, amplifying, and retransmitting the signals of the parent translator without significantly altering any electrical characteristic of the received signal other than its amplitude. The maximum power input to the plate of the final radio frequency amplifier shall not exceed 5 watts.

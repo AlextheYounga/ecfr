@@ -1,5 +1,7 @@
 ##### § 74.798 Digital television transition notices by broadcasters. #####
 
+Link to an amendment published at 87 FR 58206, Sept. 23, 2022.
+
 (a) Each low power television, TV translator and Class A television station licensee or permittee must air an educational campaign about the transition from analog broadcasting to digital television (DTV).
 
 (b) Stations that have already terminated analog service and begun operating in digital prior to effective date of this rule shall not be subject to this requirement.

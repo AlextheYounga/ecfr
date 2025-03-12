@@ -1,5 +1,7 @@
 ##### § 4287.113 Release of collateral. #####
 
+Link to an amendment published at 87 FR 58021, Sept. 23, 2022.
+
 (a) Within the parameters of paragraph (c) of this section, lenders may, over the life of the loan, release collateral (other than personal and corporate guarantees) with a cumulative value of up to 20 percent of the original loan amount without Agency concurrence if the proceeds generated are used to reduce the guaranteed loan or to buy replacement collateral. Working assets, such as accounts receivable, inventory, and work-in-progress that are routinely depleted or sold and proceeds used for the normal course of business operations may be used in and released for routine business purposes without prior concurrence of the Agency as long as the loan has not been accelerated.
 
 (b) If a release of collateral does not meet the requirements of paragraph (a) of this section, the lender must complete a written evaluation to justify the release and obtain written Agency concurrence in advance of the release.

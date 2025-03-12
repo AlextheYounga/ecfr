@@ -1,5 +1,7 @@
 ##### § 74.797 Biennial Ownership Reports. #####
 
+Link to an amendment published at 87 FR 58206, Sept. 23, 2022.
+
 The Ownership Report for Commercial Broadcast Stations (FCC Form 323) must be electronically filed by December 1 in all odd-numbered years by each licensee of a low power television station or other Respondent (as defined in § 73.3615(a) of this chapter). A licensee or other Respondent with a current and unamended biennial ownership report (*i.e.,* a report that was filed pursuant to this subsection) on file with the Commission that is still accurate and which was filed using the version of FCC Form 323 that is current on October 1 of the year in which its biennial ownership report is due may electronically validate and resubmit its previously filed biennial ownership report. The information provided on each ownership report shall be current as of October 1 of the year in which the ownership report is filed. For information on filing requirements, filers should refer to § 73.3615(a) of this chapter.
 
 [82 FR 55772, Nov. 24, 2017]

@@ -1,5 +1,7 @@
 ##### 19.301-1 Representation by the offeror. #####
 
+Link to an amendment published at 87 FR 58223, Sept. 23, 2022.Link to an amendment published at 87 FR 58235, Sept. 23, 2022.
+
 (a) To be eligible for award as a small business concern identified in 19.000(a)(3), an offeror is required to represent in good faith -
 
 (1)(i) That it meets the small business size standard corresponding to the North American Industry Classification System (NAICS) code identified in the solicitation; or

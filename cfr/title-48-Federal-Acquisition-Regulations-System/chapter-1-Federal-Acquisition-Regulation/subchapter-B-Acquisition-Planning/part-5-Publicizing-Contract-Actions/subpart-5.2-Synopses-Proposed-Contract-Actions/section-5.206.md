@@ -1,5 +1,7 @@
 ##### 5.206 Notices of subcontracting opportunities. #####
 
+Link to an amendment published at 87 FR 58235, Sept. 23, 2022.
+
 (a) The following entities may transmit a notice to the GPE to seek competition for subcontracts, to increase participation by qualified HUBZone small business, small, small disadvantaged, women-owned small business, veteran-owned small business and service-disabled veteran-owned small business concerns, and to meet established subcontracting plan goals:
 
 (1) A contractor awarded a contract exceeding the simplified acquisition threshold that is likely to result in the award of any subcontracts.

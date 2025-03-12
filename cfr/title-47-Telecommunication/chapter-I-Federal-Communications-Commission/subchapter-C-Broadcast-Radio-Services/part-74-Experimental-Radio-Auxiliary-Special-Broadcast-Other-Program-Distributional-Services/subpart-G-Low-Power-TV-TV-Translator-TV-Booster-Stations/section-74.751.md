@@ -1,5 +1,7 @@
 ##### § 74.751 Modification of transmission systems. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) No change, either mechanical or electrical, may be made in apparatus which has been certificated by the Commission without prior authority of the Commission. If such prior authority has been given to the manufacturer of certificated equipment, the manufacturer may issue instructions for such changes citing its authority. In such cases, individual licensees are not required to secure prior Commission approval but shall notify the Commission when such changes are completed.
 
 (b) Formal application (FCC Form 346) is required for any of the following changes:

@@ -1,5 +1,7 @@
 ##### 19.804-3 SBA acceptance. #####
 
+Link to an amendment published at 87 FR 58224, Sept. 23, 2022.
+
 (a) Upon receipt of the contracting office's offering letter, SBA will determine whether to accept the requirement for the 8(a) program. SBA's decision whether to accept the requirement will be transmitted to the contracting office in writing within 10 working days of receipt of the offer if the contract is likely to exceed the simplified acquisition threshold and within two working days of receipt if the contract is at or below the simplified acquisition threshold. The contracting office may grant an extension of these time periods, if requested by SBA.
 
 (1) For acquisitions exceeding the simplified acquisition threshold, if SBA does not respond to an offering letter within ten working days, the contracting office may seek SBA's acceptance through the Associate Administrator for Business Development. The contracting office may assume that SBA has accepted the requirement into the 8(a) program if it does not receive a reply from the Associate Administrator for Business Development within five calendar days of receipt of the contracting office's request.

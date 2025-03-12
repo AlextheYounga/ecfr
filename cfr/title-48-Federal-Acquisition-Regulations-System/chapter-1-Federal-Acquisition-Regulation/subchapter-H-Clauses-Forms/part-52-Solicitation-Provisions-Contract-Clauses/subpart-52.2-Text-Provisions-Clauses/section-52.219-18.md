@@ -1,5 +1,7 @@
 ##### 52.219-18 Notification of Competition Limited to Eligible 8(a) Participants. #####
 
+Link to an amendment published at 87 FR 58226, Sept. 23, 2022.
+
 As prescribed in 19.811-3(d), insert the following clause:
 
 Notification of Competition Limited to Eligible 8(a) Participants (MAR 2020)

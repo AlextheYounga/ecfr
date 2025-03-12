@@ -1,5 +1,7 @@
 ##### 15.305 Proposal evaluation. #####
 
+Link to an amendment published at 87 FR 58223, Sept. 23, 2022.
+
 (a) Proposal evaluation is an assessment of the proposal and the offeror's ability to perform the prospective contract successfully. An agency shall evaluate competitive proposals and then assess their relative qualities solely on the factors and subfactors specified in the solicitation. Evaluations may be conducted using any rating method or combination of methods, including color or adjectival ratings, numerical weights, and ordinal rankings. The relative strengths, deficiencies, significant weaknesses, and risks supporting proposal evaluation shall be documented in the contract file.
 
 (1) *Cost or price evaluation.* Normally, competition establishes price reasonableness. Therefore, when contracting on a firm-fixed-price or fixed-price with economic price adjustment basis, comparison of the proposed prices will usually satisfy the requirement to perform a price analysis, and a cost analysis need not be performed. In limited situations, a cost analysis may be appropriate to establish reasonableness of the otherwise successful offeror's price (see 15.403-1(c)(1)(i)(C)).

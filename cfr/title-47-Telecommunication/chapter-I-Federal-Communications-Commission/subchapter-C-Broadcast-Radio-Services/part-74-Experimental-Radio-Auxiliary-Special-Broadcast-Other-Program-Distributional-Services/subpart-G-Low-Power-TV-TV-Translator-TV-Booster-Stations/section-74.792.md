@@ -1,5 +1,7 @@
 ##### § 74.792 Digital low power TV and TV translator station protected contour. #####
 
+Link to an amendment published at 87 FR 58206, Sept. 23, 2022.
+
 (a) A digital low power TV or TV translator will be protected from interference from other low power TV, TV translator, Class A TV or TV booster stations or digital low power TV, TV translator or Class A TV stations within the following predicted contours:
 
 (1) 43 dBu for stations on Channels 2 through 6;

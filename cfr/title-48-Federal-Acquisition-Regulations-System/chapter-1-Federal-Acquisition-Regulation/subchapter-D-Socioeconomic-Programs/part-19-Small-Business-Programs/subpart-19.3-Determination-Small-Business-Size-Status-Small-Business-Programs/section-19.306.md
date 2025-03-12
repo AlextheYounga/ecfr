@@ -1,5 +1,7 @@
 ##### 19.306 Protesting a firm's status as a HUBZone small business concern. #####
 
+Link to an amendment published at 87 FR 58235, Sept. 23, 2022.
+
 (a) *Definition.* As used in this section -
 
 *Interested party* has the meaning given in 13 CFR 126.103.

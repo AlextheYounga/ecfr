@@ -1,5 +1,7 @@
 ##### 19.1506 Women-Owned Small Business Program sole source awards. #####
 
+Link to an amendment published at 87 FR 58242, Sept. 23, 2022.
+
 (a) A contracting officer shall consider a contract award to an EDWOSB concern on a sole source basis (see 6.302-5(b)(7)) before considering small business set-asides (see 19.203 and subpart 19.5) provided none of the exclusions at 19.1504 apply and -
 
 (1) The acquisition is assigned a NAICS code in which SBA has determined that WOSB concerns are underrepresented in Federal procurement;

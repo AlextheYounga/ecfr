@@ -1,5 +1,7 @@
 ##### § 74.734 Attended and unattended operation. #####
 
+Link to an amendment published at 87 FR 58203, Sept. 23, 2022.
+
 (a) Low power TV, TV translator, and TV booster stations may be operated without a designated person in attendance if the following requirements are met:
 
 (1) If the transmitter site cannot be promptly reached at all hours and in all seasons, means shall be provided so that the transmitting apparatus can be turned on and off at will from a point that readily is accessible at all hours and in all seasons.

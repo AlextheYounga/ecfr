@@ -1,5 +1,7 @@
 ##### § 74.788 Digital construction period. #####
 
+Link to an amendment published at 87 FR 58205, Sept. 23, 2022.
+
 (a) Except as indicated below, each original construction permit for the construction of a new digital low power television or television translator station shall specify a period of three years from the date of issuance of the original construction permit within which construction shall be completed and application for license filed. Construction permits for the construction of a new digital low power television or television translator station granted after the release of the LPTV DTV Third Report and Order, MB Docket No. 03-185 (FCC 15-175) shall specify the later of either the digital transition deadline or three years from the date of issuance of the original construction permit within which construction shall be completed and application for license filed.
 
 (b) Any construction permit for which construction has not been completed and for which an application for license or extension of time has not been filed, shall be automatically forfeited upon expiration without any further affirmative cancellation by the Commission.

@@ -1,5 +1,7 @@
 ##### 19.1304 Exclusions. #####
 
+Link to an amendment published at 87 FR 58236, Sept. 23, 2022.
+
 This subpart does not apply to -
 
 (a) Requirements that can be satisfied through award to -

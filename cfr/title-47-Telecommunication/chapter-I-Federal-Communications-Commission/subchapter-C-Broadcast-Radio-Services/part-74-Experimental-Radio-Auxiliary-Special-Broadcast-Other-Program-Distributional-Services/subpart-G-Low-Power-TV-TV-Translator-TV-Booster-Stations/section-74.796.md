@@ -1,5 +1,7 @@
 ##### § 74.796 Modification of digital transmission systems and analog transmission systems for digital operation. #####
 
+Link to an amendment published at 87 FR 58206, Sept. 23, 2022.
+
 (a) The provisions of § 74.751 shall apply to the modification of digital low power TV and TV translator transmission systems and the modification of existing analog transmission systems for digital operation.
 
 (b) The following additional provisions shall apply to the modification of existing analog transmissions systems for digital operation, including installation of manufacturers' certificated equipment (“field modification kits”) and custom modifications.

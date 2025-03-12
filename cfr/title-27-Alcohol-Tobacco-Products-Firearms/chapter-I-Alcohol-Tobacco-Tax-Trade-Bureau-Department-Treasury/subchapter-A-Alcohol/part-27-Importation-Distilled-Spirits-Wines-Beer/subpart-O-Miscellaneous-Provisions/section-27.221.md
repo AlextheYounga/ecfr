@@ -1,5 +1,7 @@
 ##### § 27.221 Alternate methods or procedures. #####
 
+Link to an amendment published at 87 FR 58031, Sept. 23, 2022.
+
 (a) *Application.* An importer who desires to use an alternate method or procedure in lieu of a method or procedure prescribed by this part must file an application with the appropriate TTB officer. Each application must:
 
 (1) Specify the name, address, and permit number of the importer to which it relates;

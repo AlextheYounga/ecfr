@@ -1,5 +1,7 @@
 ##### 43.204 Administration. #####
 
+Link to an amendment published at 87 FR 58232, Sept. 23, 2022.
+
 (a) *Change order documentation.* When change orders are not forward priced, they require two documents: the change order and a supplemental agreement reflecting the resulting equitable adjustment in contract terms. If an equitable adjustment in the contract price or delivery terms or both can be agreed upon in advance, only a supplemental agreement need be issued, but administrative changes and changes issued pursuant to a clause giving the Government a unilateral right to make a change (e.g., an option clause) initially require only one document.
 
 (b) *Definitization.* (1) Contracting officers shall negotiate equitable adjustments resulting from change orders in the shortest practicable time.
