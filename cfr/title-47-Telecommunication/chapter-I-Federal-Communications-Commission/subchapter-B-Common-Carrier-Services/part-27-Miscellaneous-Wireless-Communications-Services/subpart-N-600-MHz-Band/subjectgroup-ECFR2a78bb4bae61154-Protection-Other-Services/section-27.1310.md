@@ -36,4 +36,4 @@
 
 (5) Adjacent channel operations are defined as operations of broadcast television stations and wireless services where their assigned channels or frequencies spectrally abut each other or are separated by up to 5 MHz.
 
-[80 FR 71743, Nov. 17, 2015]Effective Date Note:At 80 FR 71743, Nov. 17, 2015, § 27.1310 was added. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 71743, Nov. 17, 2015]

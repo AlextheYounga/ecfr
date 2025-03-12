@@ -1,6 +1,6 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
-Link to an amendment published at 83 FR 47831, Sept. 21, 2018.Link to an amendment published at 83 FR 47833, Sept. 21, 2018.Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
+Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
@@ -50,9 +50,17 @@ Link to an amendment published at 83 FR 47831, Sept. 21, 2018.Link to an amendme
 
 (v) The CQE applying to receive QS has received notification of approval of eligibility to receive QS/IFQ for that community as described in paragraph (d)(1) of this section.
 
-(11) The person applying to receive QS assigned to vessel category B, C, or D is not a corporation, partnership, association, or other non-individual entity, except as specified in paragraph (g)(3) of this section.
+(11) If the person applying to receive or transfer QS is an RQE, the following determinations are required:
 
-(d) *Eligibility to receive QS or IFQ by transfer* - (1) *Application for Eligibility.* All persons applying to receive QS or IFQ must submit an Application for Eligibility to Receive QS/IFQ (Application for Eligibility) containing accurate information to the Regional Administrator, except that an Application for Eligibility to Receive QS/IFQ (Application for Eligibility) is not required for a CQE if a complete application to become a CQE, as described in paragraph (l)(3) of this section, has been approved by the Regional Administrator on behalf of an eligible community. The Regional Administrator will not approve a transfer of IFQ or QS to a person until the Application for Eligibility for that person is approved by the Regional Administrator. The Regional Administrator shall provide an Application for Eligibility form to any person on request.
+(i) The RQE applying to receive or transfer QS, has submitted the timely and complete annual report required by § 679.5(v);
+
+(ii) The RQE applying to receive QS is eligible to hold QS on behalf of the charter halibut sector in IFQ regulatory area 2C or 3A; and
+
+(iii) The RQE applying to receive QS has received notification of approval of eligibility to receive QS on behalf of the charter halibut sector in IFQ regulatory area 2C or 3A as described in paragraph (d)(1) of this section.
+
+(12) The person applying to receive QS assigned to vessel category B, C, or D is not a corporation, partnership, association, or other non-individual entity, except as specified in paragraph (g)(3) of this section.
+
+(d) *Eligibility to receive QS or IFQ by transfer* - (1) *Application for Eligibility.* All persons applying to receive QS or IFQ must submit an Application for Eligibility to Receive QS/IFQ (Application for Eligibility) containing accurate information to the Regional Administrator. An Application for Eligibility to Receive QS/IFQ (Application for Eligibility) is not required for a CQE if a complete application to become a CQE, as described in paragraph (l)(3) of this section, has been approved by the Regional Administrator on behalf of an eligible community. An Application for Eligibility to Receive QS/IFQ (Application for Eligibility) is not required for the RQE if a complete application to become an RQE, as described in paragraph (n)(2) of this section, has been approved by the Regional Administrator. The Regional Administrator will not approve a transfer of IFQ or QS to a person until the Application for Eligibility for that person is approved by the Regional Administrator. The Regional Administrator will provide an Application for Eligibility form to any person on request.
 
 (2) *Type of eligibility.* A person must indicate on the Application for Eligibility whether the eligibility sought is as:
 
@@ -120,7 +128,7 @@ Link to an amendment published at 83 FR 47831, Sept. 21, 2018.Link to an amendme
 
 (2) The Regional Administrator approves the Application for Transfer from the person who received the QS or IFQ with restrictions to a person who meets the requirements of this section.
 
-(g) *Transfer restrictions.* (1) Except as provided in paragraph (f), paragraph (g)(2), or paragraph (l) of this section, only persons who are IFQ crew members, or who were initially issued QS assigned to vessel categories B, C, or D, and meet the eligibility requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it.
+(g) *Transfer restrictions.* (1) Except as provided in paragraph (f), (g)(2), (l), or (n) of this section, only persons who are IFQ crew members, or who were initially issued QS assigned to vessel categories B, C, or D, and meet the eligibility requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it.
 
 (2) Except as provided in paragraph (g)(3) of this section, only persons who are IFQ crew members, and meet the other requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it, in IFQ regulatory area 2C for halibut or in the IFQ regulatory area east of 140° W. long. for sablefish.
 
@@ -158,6 +166,32 @@ Link to an amendment published at 83 FR 47831, Sept. 21, 2018.Link to an amendme
 
 (ii) The Regional Administrator will not approve a CQE to represent the eligible community in whose name the CQE transferred quota for a period of three years after the effective date of final agency action on the Regional Administrator's determination.
 
+(9) For transfers of QS to an RQE, the RQE may only receive halibut QS that is assigned to IFQ regulatory area 2C or 3A.
+
+(10) For transfers of QS from an RQE:
+
+(i) Quota category and block designations at time of purchase by an RQE are retained if QS is transferred to an eligible QS holder for use in the IFQ program.
+
+(ii) NMFS will not issue any IFQ from any QS transferred from an RQE to a QS holder for use in the IFQ program for a calendar year if that QS resulted in the issuance of RFQ to an RQE during that calendar year.
+
+(11)(i) To maintain eligibility as the RQE authorized by NMFS, the RQE must be a non-profit entity incorporated under the laws of the State of Alaska and recognized as exempt from Federal income tax by the Internal Revenue Service as required by paragraph (n)(1)(ii) of this section.
+
+(ii) If the Regional Administrator determines the RQE approved by NMFS does not meet the requirements specified in paragraph (n)(1) of this section, NMFS will notify the RQE of the Regional Administrator's determination and specify that the RQE has 60 days to meet the requirements in paragraph (n)(1) of this section to maintain eligibility as the RQE authorized by NMFS.
+
+(iii) If the RQE demonstrates to NMFS within 60 days of notification that it meets the requirements in paragraph (n)(1) of this section, NMFS will notify the RQE that it remains the authorized RQE.
+
+(iv) If the RQE does not demonstrate to NMFS within 60 days of notification that it meets the requirements in paragraph (n)(1) of this section, NMFS will issue an initial administrative determination (IAD):
+
+(A) Revoking authorization of the RQE;
+
+(B) Disallowing the RQE from receiving any QS by transfer;
+
+(C) Requiring the CQE to divest of any QS that it holds; and
+
+(D) Withholding the issuance of RFQ based on any QS that the RQE holds.
+
+(v) The RQE will have the opportunity to appeal the IAD through the National Appeals Office under the provisions established at 15 CFR part 906.
+
 (h) *Transfer of IFQ.* (1) Pursuant to paragraph (a) of this section, an Application for Transfer must be approved by the Regional Administrator before a person may use any IFQ that results from a direct transfer to harvest halibut or sablefish. After approving the Application for Transfer, the Regional Administrator will change any IFQ accounts affected by the approved transfer and issue all necessary IFQ permits.
 
 (2) IFQ resulting from category B, C, or D QS may not be transferred separately from its originating QS, except as provided in paragraph (k) of this section.
@@ -184,7 +218,7 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (2) Each eligible community may designate only one CQE to hold QS on behalf of that community at any one time.
 
-(3) Prior to initially receiving QS by transfer on behalf of a specific eligible community, a non-profit entity that intends to represent that eligible community as a CQE must have approval from the Regional Administrator. To receive that approval, the non-profit entity seeking to become a CQE must submit a complete application to become a CQE to the Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802. The Regional Administrator will provide a copy of the complete application to the Alaska Department of Community and Economic Development, Commissioner, P.O. Box 110809, Juneau, AK 99811-0809. NMFS will consider comments received from the Alaska Department of Community and Economic Development when reviewing applications for a non-profit entity to become a CQE. The Alaska Department of Community and Economic Development must submit comments on an application to the Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802, within 30 days of receipt of the application in order for those comments to be considered by the Regional Administrator during the approval process. If an application is disapproved, than that determination may be appealed under the provisions established at 50 CFR 679.43. A complete application to become a CQE consists of:
+(3) Prior to initially receiving QS by transfer on behalf of a specific eligible community, a non-profit entity that intends to represent that eligible community as a CQE must have approval from the Regional Administrator. To receive that approval, the non-profit entity seeking to become a CQE must submit a complete application to become a CQE to the Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802. The Regional Administrator will provide a copy of the complete application to the Alaska Department of Community and Economic Development, Commissioner, P.O. Box 110809, Juneau, AK 99811-0809. NMFS will consider comments received from the Alaska Department of Community and Economic Development when reviewing applications for a non-profit entity to become a CQE. The Alaska Department of Community and Economic Development must submit comments on an application to the Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802, within 30 days of receipt of the application in order for those comments to be considered by the Regional Administrator during the approval process. If an application is disapproved, than that determination may be appealed under the provisions established at 15 CFR part 906. A complete application to become a CQE consists of:
 
 (i) The articles of incorporation under the laws of the State of Alaska for that non-profit entity, except that a non-profit entity that is representing the Metlakatla Indian Village may provide articles of incorporation under Federal Law;
 
@@ -232,7 +266,7 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (*2*) Comments from the State of Alaska Department of Community and Economic Development on the articles of incorporation for that non-profit entity and the ability of that non-profit entity to adequately represent the interests of that community for purposes of governmental functions.
 
-(*3*) If the Regional Administrator determines that this statement of support is not adequate, than that determination may be appealed under the provisions established at 50 CFR 679.43.
+(*3*) If the Regional Administrator determines that this statement of support is not adequate, than that determination may be appealed under the provisions established at 15 CFR part 906.
 
 (4) The governing body of an eligible community as that governing body is identified in Table 21 to this part, must provide authorization for any transfer of QS by the CQE that holds QS on behalf of that eligible community prior to that transfer of QS being approved by NMFS. This authorization must be submitted as part of the Application for Transfer. That authorization consists of a signature on the Application for Transfer by a representative of the governing body that has been designated by that governing body to provide such authorization to approve the transfer of QS.
 
@@ -274,6 +308,36 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (5) *Temporary military transfer evaluations and appeals* - (i) *Initial evaluation.* The Regional Administrator will evaluate an application for a temporary military transfer submitted in accordance with paragraphs (c)(1) through (c)(9) of this section. An applicant who fails to submit the information specified in the application for a temporary military transfer will be provided a reasonable opportunity to submit the specified information or submit a revised application.
 
-(ii) *Initial administrative determination (IAD).* The Regional Administrator will prepare and send an IAD to the applicant if the Regional Administrator determines that the application provided by the applicant is deficient or if the applicant fails to submit the specified information or a revised application. The IAD will indicate the deficiencies in the application, including any deficiencies with the information on the revised application. An applicant who receives an IAD may appeal under the appeals procedures set out at § 679.43.
+(ii) *Initial administrative determination (IAD).* The Regional Administrator will prepare and send an IAD to the applicant if the Regional Administrator determines that the application provided by the applicant is deficient or if the applicant fails to submit the specified information or a revised application. The IAD will indicate the deficiencies in the application, including any deficiencies with the information on the revised application. An applicant who receives an IAD may appeal under the appeals procedures set out at 15 CFR part 906.
+
+(n) *Transfer of halibut QS to an RQE* - (1) *RQE organizational structure.* (i) The RQE must be a single entity representing IFQ regulatory Areas 2C and 3A.
+
+(ii) The RQE must be a non-profit entity incorporated under the laws of the State of Alaska and recognized as exempt from Federal income tax by the Internal Revenue Service; and
+
+(iii) The RQE must submit an annual report to NMFS and the Council detailing RQE activities during the prior year according to § 679.5(v).
+
+(2) *Application for Eligibility.* Prior to initially receiving QS by transfer, a non-profit entity that intends to participate in the Halibut IFQ Program and purchase and hold halibut QS in Area 2C and Area 3A as the RQE must have approval from the Regional Administrator. To receive that approval, the non-profit entity seeking to become an RQE must submit a complete “Application for a Non-profit Entity to be Designated as a Recreational Quota Entity (RQE)” (available on the NMFS Alaska Region website at *https://alaskafisheries.noaa.gov/*). NMFS will approve only one entity as the RQE. A complete application to become an RQE must include:
+
+(i) The articles of incorporation under the laws of the State of Alaska for that non-profit entity;
+
+(ii) Acknowledgement from the Internal Revenue Service that the non-profit entity is exempt from Federal income tax under section 501(a) of the Internal Revenue Code; and
+
+(iii) Management organization information, including:
+
+(A) The bylaws of the non-profit entity;
+
+(B) A list of key personnel of the managing organization including, but not limited to, the RQE board of directors, officers, representatives, and any managers;
+
+(C) A description of how the non-profit entity is qualified to manage QS on behalf of charter fishery participants and a demonstration that the non-profit entity has the management, technical expertise, and ability to manage QS and RFQ;
+
+(D) The name of the non-profit organization, taxpayer ID number, NMFS person number, permanent business mailing addresses, name of contact persons and additional contact information of the managing personnel for the non-profit entity, resumes of management personnel, name and notarized signature of applicant, and Notary Public signature and date when commission expires; and
+
+(iv) A statement describing the procedures that will be used to determine the acquisition of funds to purchase QS.
+
+(3) *Address for submittal of application.* Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802.
+
+(4) *Approval.* NMFS will approve the first complete application received. If an application is approved, NMFS will notify the RQE by mail, unless another mode of communication is requested on the application.
+
+(5) *Disapproval.* If an application is disapproved, that determination may be appealed under the provisions established at 15 CFR part 906.
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,10 +1,8 @@
 ##### § 679.40 Sablefish and halibut QS. #####
 
-Link to an amendment published at 83 FR 47831, Sept. 21, 2018.
-
 The Regional Administrator shall annually divide the annual commercial fishing catch limit of halibut as defined in § 300.61 of this title and published in the Federal Register pursuant to § 300.62 of this title, among qualified halibut quota share holders. The Regional Administrator shall annually divide the TAC of sablefish that is apportioned to the fixed gear fishery pursuant to § 679.20, minus the CDQ reserve, among qualified sablefish quota share holders.
 
-(a) *Initial allocation of QS* - (1) *General.* The Regional Administrator shall initially assign to qualified persons, on or after October 18, 1994, halibut and sablefish fixed gear fishery QS that are specific to IFQ regulatory areas and vessel categories. QS will be assigned as a block in the appropriate IFQ regulatory area and vessel category, if that QS would have resulted in an allocation of less than 20,000 lb (9 mt) of IFQ for halibut or sablefish based on the 1994 TAC for fixed gear in those fisheries for specific IFQ regulatory areas and the QS pools of those fisheries for specific IFQ regulatory areas as of October 17, 1994.
+(a) *Initial allocation of QS*—(1) *General.* The Regional Administrator shall initially assign to qualified persons, on or after October 18, 1994, halibut and sablefish fixed gear fishery QS that are specific to IFQ regulatory areas and vessel categories. QS will be assigned as a block in the appropriate IFQ regulatory area and vessel category, if that QS would have resulted in an allocation of less than 20,000 lb (9 mt) of IFQ for halibut or sablefish based on the 1994 TAC for fixed gear in those fisheries for specific IFQ regulatory areas and the QS pools of those fisheries for specific IFQ regulatory areas as of October 17, 1994.
 
 (2) *Qualified person.* (i) As used in this section, a “qualified person” means a “person,” as defined in § 679.2:
 
@@ -22,7 +20,7 @@ The Regional Administrator shall annually divide the annual commercial fishing c
 
 (iv) Sablefish harvested within Prince William Sound, or under a State of Alaska limited entry program, will not be considered in determining whether a person is a qualified person.
 
-(3) *Qualification for QS* - (i) *Year.* A QS qualifying year is 1988, 1989, or 1990.
+(3) *Qualification for QS*—(i) *Year.* A QS qualifying year is 1988, 1989, or 1990.
 
 (ii) *Vessel ownership.* Evidence of vessel ownership shall be limited to the following documents, in order of priority:
 
@@ -36,17 +34,17 @@ The Regional Administrator shall annually divide the annual commercial fishing c
 
 (iv) *Ownership interest.* Evidence of ownership interest in a dissolved partnership or corporation shall be limited to corporate documents (e.g., articles of incorporation) or notarized statements signed by each former partner, shareholder or director, and specifying their proportions of interest.
 
-(v) *Legal landing of halibut or sablefish* - (A) *Definition.* As used in this section, a “legal landing of halibut or sablefish” means halibut or sablefish harvested with fixed gear and landed in compliance with state and Federal regulations in effect at the time of the landing.
+(v) *Legal landing of halibut or sablefish*—(A) *Definition.* As used in this section, a “legal landing of halibut or sablefish” means halibut or sablefish harvested with fixed gear and landed in compliance with state and Federal regulations in effect at the time of the landing.
 
 (B) *Documentation.* Evidence of legal landings shall be limited to documentation of state or Federal catch reports that indicate the amount of halibut or sablefish harvested, the IPHC regulatory area or groundfish reporting area in which it was caught, the vessel and gear type used to catch it, and the date of harvesting, landing, or reporting. State catch reports are Alaska, Washington, Oregon, or California fish tickets. Federal catch reports are production reports required under § 679.5. Sablefish harvested within Prince William Sound or under a State of Alaska limited entry program will not be considered in determining qualification to receive QS, nor in calculating initial QS.
 
-(4) *Calculation of initial QS* - (i) *Halibut QS.* The Regional Administrator shall calculate the halibut QS for any qualified person in each IFQ regulatory area based on that person's highest total legal landings of halibut in each IPHC regulatory area for any 5 years of the 7-year halibut QS base period 1984 through 1990. The sum of all halibut QS for an IFQ regulatory area will be the halibut QS pool for that area.
+(4) *Calculation of initial QS*—(i) *Halibut QS.* The Regional Administrator shall calculate the halibut QS for any qualified person in each IFQ regulatory area based on that person's highest total legal landings of halibut in each IPHC regulatory area for any 5 years of the 7-year halibut QS base period 1984 through 1990. The sum of all halibut QS for an IFQ regulatory area will be the halibut QS pool for that area.
 
 (ii) *Sablefish QS.* The Regional Administrator shall calculate the sablefish QS for any qualified person in each IFQ regulatory area based on that person's highest total legal landings of sablefish in each groundfish reporting area for any 5 years of the 6-year sablefish QS base period 1985 through 1990. The sum of all sablefish QS for an IFQ regulatory area will be the sablefish QS pool for that area.
 
 (iii) *CDQ program.* Each initial QS calculation will be modified to accommodate the CDQ program prescribed at subpart C of this part.
 
-(5) *Assignment of QS to vessel categories* - (i) *LOA.* Each qualified person's QS will be assigned to a vessel category based on the LOA of vessel(s) from which that person made fixed gear legal landings of groundfish or halibut in the most recent year of participation and the product type landed. As used in this paragraph (a)(5), “the most recent year of participation” means the most recent of 4 calendar years in which any groundfish or halibut were harvested using fixed gear, as follows: 1988, 1989, or 1990; or calendar year 1991 prior to September 26, 1991.
+(5) *Assignment of QS to vessel categories*—(i) *LOA.* Each qualified person's QS will be assigned to a vessel category based on the LOA of vessel(s) from which that person made fixed gear legal landings of groundfish or halibut in the most recent year of participation and the product type landed. As used in this paragraph (a)(5), “the most recent year of participation” means the most recent of 4 calendar years in which any groundfish or halibut were harvested using fixed gear, as follows: 1988, 1989, or 1990; or calendar year 1991 prior to September 26, 1991.
 
 (ii) *Vessel categories.* QS and its associated IFQ assigned to vessel categories include:
 
@@ -82,7 +80,7 @@ The Regional Administrator shall annually divide the annual commercial fishing c
 
 (vi) *Both species QS.* A qualified person's QS for both species will be assigned to the vessel category in which groundfish were landed in the most recent year of participation if, at any time during that year, that person landed halibut in one vessel category and sablefish in a different vessel category.
 
-(6) *Application for initial QS* - (i) *Application form.* The Application period for QS ended on July 15, 1994. As of that date, the Request for QS Application form replaced the QS Application form as the means by which the Administrator, RAM, reviews and makes initial administrative determinations on requests for initial allocations of QS. A Request for QS Application must contain the following: information identifying the individual, representative of a deceased fisherman's estate, corporation, partnership, or other non-individual entity, or dissolved corporation, partnership, or other non-individual entity making the request; contact numbers; vessel identification, length overall, and purchase date; and information on any vessel leasing arrangement pertinent to the claim of eligibility.
+(6) *Application for initial QS*—(i) *Application form.* The Application period for QS ended on July 15, 1994. As of that date, the Request for QS Application form replaced the QS Application form as the means by which the Administrator, RAM, reviews and makes initial administrative determinations on requests for initial allocations of QS. A Request for QS Application must contain the following: information identifying the individual, representative of a deceased fisherman's estate, corporation, partnership, or other non-individual entity, or dissolved corporation, partnership, or other non-individual entity making the request; contact numbers; vessel identification, length overall, and purchase date; and information on any vessel leasing arrangement pertinent to the claim of eligibility.
 
 (ii) *Application period.* An application period of no less than 180 days will be specified by notification in the Federal Register and other information sources that the Regional Administrator deems appropriate.
 
@@ -110,9 +108,9 @@ The Regional Administrator shall annually divide the annual commercial fishing c
 
 (D) Landed any sablefish authorized by IFQ sablefish permit(s) issued to that person.
 
-(b) *Annual allocation of IFQ.* The Regional Administrator shall assign halibut or sablefish IFQs to each person holding unrestricted QS for halibut or sablefish, respectively, up to the limits prescribed in § 679.42 (e) and (f). Each assigned IFQ will be specific to an IFQ regulatory area and vessel category, and will represent the maximum amount of halibut or sablefish that may be harvested from the specified IFQ regulatory area and by the person to whom it is assigned during the specified fishing year, unless the IFQ assignment is changed by the Regional Administrator within the fishing year because of an approved transfer or because all or part of the IFQ is sanctioned for violating rules of this part.
+(b) *Annual allocation of IFQ and RFQ.* The Regional Administrator shall assign halibut or sablefish IFQs to each person, except the RQE, holding unrestricted QS halibut or sablefish, respectively, up to the limits prescribed in § 679.42(e) and (f). Each assigned IFQ will be specific to an IFQ regulatory area and vessel category, and will represent the maximum amount of halibut or sablefish that may be harvested from the specified IFQ regulatory area and by the person to whom it is assigned during the specified fishing year, unless the IFQ assignment is changed by the Regional Administrator within the fishing year because of an approved transfer or because all or part of the IFQ is sanctioned for violating rules of this part. The Regional Administrator shall assign RFQ to the RQE pursuant to paragraph (c)(4) of this section.
 
-(c) *Calculation of annual IFQ allocation* - (1) *General.* (i) The annual allocation of halibut IFQ to any person (person p) in any IFQ regulatory area (area a) will be equal to the product of the annual commercial catch limit as defined in § 300.61 of this title, after adjustment for purposes of the Western Alaska CDQ Program, and that person's QS divided by the QS pool for that area. Overage adjustments will be subtracted from a person's IFQ pursuant to paragraph (d) of this section; underage adjustments will be added to a person's IFQ pursuant to paragraph (e) of this section. Expressed algebraically, the annual halibut IFQ allocation formula is as follows:
+(c) *Calculation of annual IFQ and RFQ allocations*—(1) *General.* (i) The annual allocation of halibut IFQ to any person (person p) in any IFQ regulatory area (area a) will be equal to the product of the annual commercial catch limit as defined in § 300.61 of this title, after adjustment for purposes of the Western Alaska CDQ Program, and that person's QS divided by the QS pool for that area. Overage adjustments will be subtracted from a person's IFQ pursuant to paragraph (d) of this section; underage adjustments will be added to a person's IFQ pursuant to paragraph (e) of this section. Expressed algebraically, the annual halibut IFQ allocation formula is as follows:
 
 IFQpa = [(fixed gear TACa− CDQ reservea) × (QSpa/QS poola)] − overage adjustment of IFQpa + underage adjustment of IFQpa.
 
@@ -120,9 +118,29 @@ IFQpa = [(fixed gear TACa− CDQ reservea) × (QSpa/QS poola)] − overage adjus
 
 IFQpa = [(fixed gear TACa − CDQ reservea) × (QSpa/QS poola)] − overage adjustment of IFQpa + underage adjustment of IFQpa.
 
-(2) *QS amounts.* For purposes of calculating IFQs for any fishing year, the amount of a person's QS and the amount of the QS pool for any IFQ regulatory area will be the amounts on record with the Alaska Region, NMFS, as of 1200 hours, A.l.t., on January 31 of that year.
+(2) *QS amounts.* For purposes of calculating IFQs and RFQ for any fishing year, the amount of a person's QS and the amount of the QS pool for any IFQ regulatory area will be the amounts on record with the Alaska Region, NMFS, on January 15 of that year.
 
 (3) *IFQ permit.* The Regional Administrator shall issue to each QS holder, pursuant to § 679.4, an IFQ permit specifying the maximum amount of halibut and sablefish that may be harvested with fixed gear in a specified IFQ regulatory area and vessel category. Such IFQ permits will be sent to each QS holder at the address on record for that person prior to the start of the IFQ fishing season or to any IFQ holder(s) following transfers or penalties (15 CFR part 904).
+
+(4) *RFQ allocation to RQE*—(i) *RQE QS amounts.* For purposes of calculating RFQ for any fishing year, the amount of halibut QS held by the RQE for either IFQ regulatory area 2C or 3A for the corresponding IFQ regulatory area will be the amounts on record with the Alaska Region, NMFS on October 1 of the year prior.
+
+(ii) *Calculation of RFQ.* The annual allocation of RFQ halibut to an RQE (person r) in IFQ regulatory area 2C or 3A (area a) will be equal to the product of the annual commercial catch limit as defined in § 300.61 of this title, and the QS held by the RQE (specified in paragraph (c)(4)(i) of this section) divided by the QS pool for that area (specified in paragraph (c)(2) of this section). No overage or underage adjustments will be applied to the RQE's annual RFQ. Expressed algebraically, the annual RFQ halibut allocation formula is as follows:
+
+RFQra = [fixed gear TACa × (QSra/QS poola)]
+
+(iii) *Excess RFQ.* NMFS will not issue the RQE any excess RFQ. Excess RFQ is the difference between the amount of RFQ based on the QS held by the RQE and the amount of RFQ needed to provide charter fishery management measures that are equivalent to unguided recreational fishery management measures. If the annual management measures published pursuant to § 300.62 of this title specify charter fishery management measures that are equivalent to the unguided recreational management measures, NMFS will:
+
+(A) Calculate the annual allocation of halibut RFQ to the RQE as specified in paragraph (c)(4)(ii) of this section; and
+
+(B) Determine the amount of RFQ needed to supplement the annual guided sport catch limit from the CSP in Area 2C and Area 3A (described in § 300.65(c) of this title) to account for charter fishery harvests under the charter fishery management measures specified in the annual management measures and issue that amount of RFQ to the RFQ permit account.
+
+(C) Calculate the amount of excess RFQ by subtracting the amount of RFQ issued as determined in paragraph (c)(4)(iii)(B) of this section from the annual calculation of RFQ halibut to the RQE as calculated in paragraph (c)(4)(iii)(A) of this section.
+
+(iv) *Redistribution of excess RFQ.* Excess pounds of RFQ will be redistributed as IFQ as follows:
+
+(A) 50 percent to all catcher vessel QS holders in the applicable area who held not more than 32,333 QS units in Area 2C, and 47,469 QS units in Area 3A in the current calendar year and in the calendar year prior to the redistribution, in proportion to their QS holdings; and
+
+(B) 50 percent divided equally among all CQEs that held halibut QS in the applicable IFQ regulatory area (Area 2C or Area 3A) in the current calendar year and in the calendar year prior to the redistribution. If no CQE held QS in the applicable IFQ regulatory area (Area 2C and Area 3A) in the current calendar year and in the calendar year prior to the redistribution, that RFQ will not be redistributed as IFQ and will not be available for use by any CQE, IFQ permit holder, or RQE in that calendar year.
 
 (d) *Ten-percent adjustment policy.* A person's annual IFQ account will be adjusted in the year following a determination that the person harvested or landed IFQ species in an amount is greater than the amount available in the person's annual IFQ account and if the amount greater than the amount available does not exceed 10 percent of the amount available in the person's annual IFQ account at the time of landing. The adjustment would be a deduction of the amount of IFQ species harvested or landed that was determined to exceed the amount available in the person's annual IFQ account and will apply to any person to whom the affected IFQ is allocated in the year following the determination.
 
@@ -142,14 +160,18 @@ IFQpa = [(fixed gear TACa − CDQ reservea) × (QSpa/QS poola)] − overage adju
 
 (ii) The fish shall not be calculated as part of the CDQ harvest of halibut or sablefish and shall not be debited against a CDQ group's halibut CDQ or a CDQ group's sablefish CDQ.
 
-(h) *Properly debited landing* - (1) *Permit holder's account.* Except as provided in paragraph (g) of this section, all IFQ halibut, CDQ halibut, and IFQ sablefish catch onboard a vessel must be weighed and debited from the IFQ permit holder's account or CDQ halibut permit holder's account under which the catch was harvested.
+(iii) The fish will not be calculated as part of the recreational harvest of halibut and will not be debited against the RFQ permit account or the annual guided sport catch limit as defined in § 300.61 of this title.
+
+(h) *Properly debited landing*—(1) *Permit holder's account.* Except as provided in paragraph (g) of this section, all IFQ halibut, CDQ halibut, and IFQ sablefish catch onboard a vessel must be weighed and debited from the IFQ permit holder's account or CDQ halibut permit holder's account under which the catch was harvested.
 
 (2) *Properly debited account.* A properly concluded sablefish/halibut IFQ landing receipt, crab IFQ landing receipt, or a manual IFQ landing report which is signed by the Registered Buyer and IFQ permit holder or IFQ hired master permit holder or CDQ hired master permit holder constitutes confirmation that the IFQ permit holder's or CDQ permit holder's account is properly debited.
 
-(3) *Source of debit.* NMFS shall use the following sources (see paragraphs (h)(3)(i) and (ii) of this section) of information to debit a CDQ halibut, IFQ halibut, or IFQ sablefish account:
+(3) *Source of debit.* NMFS will use the following sources (see paragraphs (h)(3)(i), (ii) and (iii) of this section) of information to debit a CDQ halibut, IFQ halibut, IFQ sablefish, or RFQ permit account:
 
 (i) *Unprocessed landing.* If offload of unprocessed IFQ halibut, CDQ halibut, or IFQ sablefish from a vessel, the scale weight (to the nearest pound) of the halibut or sablefish product actually measured at the time of offload, as required by § 679.5(e)(7)(i)(E)(*6*) to be included in the IFQ Landing Report.
 
 (ii) *Processed landing.* If offload of processed IFQ halibut, CDQ halibut, or IFQ sablefish from a vessel, the scale weight (to the nearest pound) of the halibut or sablefish processed product actually measured at or before the time of offload. If the product scale weights are taken before the time of offload, then the species and actual product weight of each box or container must be visibly marked on the outside of each container to facilitate inspection by OLE or designees.
 
-[61 FR 31230, June 19, 1996, as amended at 61 FR 35579, July 5, 1996; 61 FR 41525, Aug. 9, 1996; 61 FR 43314, Aug. 22, 1996; 62 FR 59299, Nov. 3, 1997; 66 FR 27910, May 21, 2001; 67 FR 4133, Jan. 28, 2002; 71 FR 36492, June 27, 2006; 72 FR 44809, Aug. 9, 2007; 73 FR 76166, Dec. 15, 2008; 76 FR 40633, July 11, 2011; 77 FR 29563, May 18, 2012; 78 FR 75893, Dec. 12, 2013]
+(iii) *Landed RFQ.* All annual RFQ halibut issued to an RQE will be considered landed in the year for which it is issued.
+
+[61 FR 31230, June 19, 1996, as amended at 61 FR 35579, July 5, 1996; 61 FR 41525, Aug. 9, 1996; 61 FR 43314, Aug. 22, 1996; 62 FR 59299, Nov. 3, 1997; 66 FR 27910, May 21, 2001; 67 FR 4133, Jan. 28, 2002; 71 FR 36492, June 27, 2006; 72 FR 44809, Aug. 9, 2007; 73 FR 76166, Dec. 15, 2008; 76 FR 40633, July 11, 2011; 77 FR 29563, May 18, 2012; 78 FR 75893, Dec. 12, 2013; 83 FR 47831, Sept. 21, 2018]

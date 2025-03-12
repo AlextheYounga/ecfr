@@ -1,6 +1,6 @@
 ##### § 679.4 Permits. #####
 
-Link to an amendment published at 83 FR 47830, Sept. 21, 2018.Link to an amendment published at 83 FR 50001, Oct. 4, 2018.
+Link to an amendment published at 83 FR 50001, Oct. 4, 2018.
 
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
@@ -139,6 +139,8 @@ Link to an amendment published at 83 FR 47830, Sept. 21, 2018.Link to an amendme
 (ii) A legible copy of any IFQ permit that specifies the IFQ regulatory area and vessel length overall from which IFQ halibut or IFQ sablefish may be harvested by the IFQ permit holder must be carried on board the vessel used by the permitted person to harvest IFQ halibut or IFQ sablefish at all times that such fish are retained on board.
 
 (iii) An IFQ permit may be voluntarily surrendered in accordance with paragraph (a)(9) of this section. An annual IFQ permit will not be reissued in the same fishing year in which it was surrendered, but a new annual IFQ permit may be issued to the quota share holder of record in a subsequent fishing year.
+
+(iv) An RFQ permit account identifies the amount of RFQ authorized for use by charter vessel anglers in Area 2C or Area 3A. The number of pounds of RFQ allocated to the RFQ permit account will be added to the annual guided sport catch limit under the catch sharing plan (described at 50 CFR 300.65(c)) for the appropriate IFQ regulatory area, Area 2C or Area 3A.
 
 (2) *IFQ hired master permit.* (i) An IFQ hired master permit authorizes the individual identified on the IFQ hired master permit to land IFQ halibut or IFQ sablefish for debit against the specified IFQ permit until the IFQ hired master permit expires, or is revoked, suspended, surrendered in accordance with paragraph (a)(9) of this section, or modified under 15 CFR part 904, or cancelled on request of the IFQ permit holder.
 

@@ -1,6 +1,6 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 83 FR 47831, Sept. 21, 2018.Link to an amendment published at 83 FR 50002, Oct. 4, 2018.
+Link to an amendment published at 83 FR 50002, Oct. 4, 2018.
 
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
@@ -277,6 +277,8 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 (3)(i) *Halibut.* (A) Retain halibut caught with fixed gear without a valid IFQ permit, and if using a hired master, without an IFQ hired master permit in the name of an individual aboard.
 
 (B) Retain halibut caught with fixed gear without a valid CDQ permit and without a CDQ hired master permit in the name of an individual aboard.
+
+(C) Use fixed gear to retain RFQ halibut.
 
 (ii) *Sablefish.* Retain sablefish caught with fixed gear without a valid IFQ permit, and if using a hired master, without an IFQ hired master permit in the name of an individual aboard, unless fishing on behalf of a CDQ group.
 

@@ -1,6 +1,6 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 83 FR 47832, Sept. 21, 2018.Link to an amendment published at 83 FR 52767, Oct. 18, 2018.
+Link to an amendment published at 83 FR 52767, Oct. 18, 2018.
 
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
 
@@ -17,6 +17,8 @@ Link to an amendment published at 83 FR 47832, Sept. 21, 2018.Link to an amendme
 (iii) IFQ derived from QS held by a CQE may be used to harvest IFQ species from a vessel of any length, with the exception of IFQ derived from QS in IFQ regulatory areas 3A and 4B that are assigned to vessel category D.
 
 (iv) In IFQ regulatory areas 3B, 4B, and 4C, category D QS and associated IFQ authorizes an IFQ permit holder to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA.
+
+(v) In IFQ regulatory areas 2C and 3A, RFQ held by an RQE may be harvested aboard charter vessels as defined at 50 CFR 300.61 of any size, regardless of the QS category from which that RFQ originated.
 
 (b) *Gear* - (1) *IFQ Fisheries.* Authorized fishing gear to harvest IFQ halibut and IFQ sablefish is defined in § 679.2.
 
@@ -110,7 +112,7 @@ Link to an amendment published at 83 FR 47832, Sept. 21, 2018.Link to an amendme
 
 (9) A CQE representing an eligible community in the Aleutian Islands subarea may receive by transfer or use sablefish QS only in the Aleutian Islands subarea.
 
-(f) *Halibut QS use.* (1) Unless the amount in excess of the following limits was received in the initial allocation of halibut QS, no person other than a CQE representing the community of Adak, AK, individually or collectively, may use more than:
+(f) *Halibut QS use.* (1) Unless the amount in excess of the following limits was received in the initial allocation of halibut QS, no person other than a CQE representing the community of Adak, AK, individually or collectively, or an RQE, may use more than:
 
 (i) *IFQ regulatory Area 2C.* 599,799 units of halibut QS, including halibut QS issued as IFQ and transferred to GAF, as defined in § 300.61 of this title.
 
@@ -144,11 +146,27 @@ Link to an amendment published at 83 FR 47832, Sept. 21, 2018.Link to an amendme
 
 (ii) In IFQ regulatory area 4B may lease the IFQ resulting from that QS to any person who has received an approved Application for Eligibility as described in paragraph (d) of this section prior to March 17, 2019 and only to an eligible community resident of Adak, AK, after March 17, 2019.
 
+(8)(i) *Annual transfer limits.* The RQE may not receive by transfer more than 594,774 units of Area 2C halibut QS and more than 2,218,716 units of Area 3A halibut QS in a year.
+
+(ii) *Cumulative use limits.* The RQE may not hold more than 5,947,740 units of Area 2C halibut QS and more than 22,187,161 units of Area 3A halibut QS.
+
+(iii) *Vessel category restrictions.* (A) The RQE may not hold more than 889,548 units of halibut QS in IFQ regulatory area 2C that is assigned to vessel category D.
+
+(B) The RQE may not hold halibut QS in IFQ regulatory area 3A that is assigned to vessel category D.
+
+(C) The RQE may not hold more than 265,524 units of halibut QS that is assigned to vessel category B in IFQ regulatory area 2C.
+
 (g) *Limitations on QS blocks* - (1) *Number of blocks per species.* No person, individually or collectively, may hold more than two blocks of sablefish or three blocks of halibut in any IFQ regulatory area, except:
 
 (i) A person, individually or collectively, who holds unblocked QS for a species in an IFQ regulatory area, may hold only one QS block for that species in that regulatory area; and
 
 (ii) A CQE may hold no more than ten blocks of halibut QS in any IFQ regulatory area and no more than five blocks of sablefish QS in any IFQ regulatory area on behalf of any eligible community.
+
+(iii) The RQE may not receive:
+
+(A) Transfers of halibut QS blocks of less than or equal to 24,250 quota share units in IFQ regulatory area 2C.
+
+(B) Transfers of halibut QS blocks of less than or equal to 35,620 quota share units in IFQ regulatory area 3A.
 
 (2) *Action by the Regional Administrator in Areas 3B and 4A.* In Areas 3B and 4A, the Regional Administrator shall:
 

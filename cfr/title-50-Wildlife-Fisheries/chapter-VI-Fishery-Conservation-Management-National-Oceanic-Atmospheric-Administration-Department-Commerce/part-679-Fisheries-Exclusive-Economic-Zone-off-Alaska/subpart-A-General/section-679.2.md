@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 83 FR 47830, Sept. 21, 2018.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -986,6 +984,10 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Reconstruction* means a change in the LOA of the vessel from its original qualifying LOA.
 
+*Recreational Fishing Quota (RFQ)* means the pounds of halibut issued annually to a Recreational Quota Entity to supplement the annual guided sport catch limit under the catch sharing plan for IFQ regulatory areas 2C and 3A pursuant to § 300.65(c) of this title.
+
+*Recreational Quota Entity (RQE)* means a non-profit entity incorporated under the laws of the State of Alaska, recognized as exempt from Federal income tax by the Internal Revenue Service, and authorized by NMFS to participate in the Halibut IFQ Program to hold commercial halibut quota share to supplement the annual guided sport catch limit in IFQ regulatory areas 2C and 3A under the catch sharing plan pursuant to § 300.65(c) of this title. NMFS will authorize only one RQE at a time.
+
 *Red King Crab Savings Area (RKCSA) of the BSAI* (see § 679.22(a)(3) and Figure 11 to this part).
 
 *Red King Crab Savings Subarea (RKCSS) of the BSAI* (see § 679.21(e)(3)(ii)(B) and Figure 11 to this part).
@@ -1288,4 +1290,4 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Wing tip* means the point where adjacent breast lines intersect or where a breast line intersects with the fishing line.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 83 FR 47830, Sept. 21, 2018.Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
+Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
@@ -1286,13 +1286,13 @@ CR Crab Regional Designations
 
 (E) *Reporting period.* The reporting period of the IFQ Buyer Report shall extend from October 1 through September 30 of the following year, inclusive.
 
-(ii) *IFQ Permit Holder Fee Submission Form* - (A) *Applicability.* An IFQ permit holder who holds an IFQ permit against which a landing was made must submit to NMFS a complete IFQ Permit Holder Fee Submission Form provided by NMFS.
+(ii) *IFQ Permit Holder Fee Submission Form* - (A) *Applicability.* An IFQ permit holder who holds an IFQ permit against which a landing was made or an RQE that holds RFQ must submit to NMFS a complete IFQ Permit Holder Fee Submission Form provided by NMFS.
 
 (B) *Due date and submittal.* A complete IFQ Permit Holder Fee Submission Form must be postmarked or received by the Regional Administrator not later than January 31 following the calendar year in which any IFQ landing was made.
 
-(C) *Completed application.* NMFS will process an IFQ Permit Holder Fee Submission Form provided that a paper or electronic form is completed by the permit holder, with all applicable fields accurately filled in, and all required additional documentation is attached.
+(C) *Completed application.* NMFS will process an IFQ Permit Holder Fee Submission Form provided that a paper or electronic form is completed by the IFQ permit holder or an RQE that holds RFQ, with all applicable fields accurately filled in, and all required additional documentation is attached.
 
-(D) *IFQ landing summary and estimated fee liability.* NMFS will provide to an IFQ permit holder an IFQ Landing and Estimated Fee Liability page as required by § 679.45(a)(2). The IFQ permit holder must either accept the accuracy of the NMFS estimated fee liability associated with his or her IFQ landings for each IFQ permit, or calculate a revised IFQ fee liability in accordance with paragraph (l)(7)(ii)(E) of this section. The IFQ permit holder may calculate a revised fee liability for all or part of his or her IFQ landings.
+(D) *IFQ landing summary and estimated fee liability.* NMFS will provide to an IFQ permit holder and an RQE that holds RFQ an IFQ Landing and Estimated Fee Liability page as required by § 679.45(a)(2). The IFQ permit holder must either accept the accuracy of the NMFS estimated fee liability associated with his or her IFQ landings for each IFQ permit, or calculate a revised IFQ fee liability in accordance with paragraph (l)(7)(ii)(E) of this section. The IFQ permit holder may calculate a revised fee liability for all or part of his or her IFQ landings.
 
 (E) *Revised fee liability calculation.* To calculate a revised fee liability, an IFQ permit holder must multiply the IFQ percentage in effect by either the IFQ actual ex-vessel value or the IFQ standard ex-vessel of the IFQ landing. If parts of the landing have different values, the permit holder must apply the appropriate values to the different parts of the landings.
 
@@ -1301,6 +1301,8 @@ CR Crab Regional Designations
 (G) *Reporting period.* The reporting period of the IFQ Permit Holder Fee Submission Form shall extend from January 1 to December 31 of the year prior to the January 31 due date.
 
 (8) An annual report on the halibut and sablefish IFQ activity must be submitted by the CQE as required at § 679.5(t).
+
+(9) *Recreational Quota Entity Program annual report.* An annual report on RQE activities must be submitted to NMFS by the RQE as required at § 679.5(v).
 
 (m) *CDQ Vessel Registration* - (1) *Registration.* The representative for a CDQ group must register each vessel that is to receive the exemption from the LLP license requirements at § 679.4(k)(2)(vi) through the CDQ vessel registration system available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*). The CDQ group representative must log into the CDQ vessel registration system and provide the information required on the computer screen. NMFS will add each vessel successfully registered to the CDQ vessel registration list on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
 
@@ -1721,5 +1723,29 @@ Substituting the value for *GFroundweight* into the following equation:
 (B) *Certification.* By using the NMFS person ID and password and submitting the report, the Amendment 80 vessel owner certifies that all information is true, correct, and complete to the best of his or her knowledge and belief.
 
 (v) *Submittal.* The Amendment 80 vessel owner must complete and submit online to NMFS the First Wholesale Volume and Value Report available at *https://alaskafisheries.noaa.gov.*
+
+(v) *Recreational Quota Entity Program Annual Report* - (1) *Applicability.* The RQE must submit a timely and complete annual report on the RQE's administrative activities and business operation for each calendar year that it holds halibut recreational fishing quota (RFQ) and quota shares (QS). The RQE may combine annual reports on its holdings of halibut QS and RFQ for IFQ regulatory areas 2C and 3A into one report. The RQE must submit annual report data for the halibut QS and RFQ it held during the calendar year. The RQE is not required to submit an annual report for any calendar year in which it did not hold any halibut QS or RFQ.
+
+(2) *Time limits and submittal.* By January 31, the RQE must submit a complete annual report for the prior calendar year to the North Pacific Fishery Management Council, 605 West 4th Ave., Suite 306, Anchorage, AK 99501-2252, and to NMFS-Alaska Regional Administrator, P.O. Box 21668, Juneau, AK 99802-1668.
+
+(3) *Complete annual report.* A complete annual report contains all general report requirements described in paragraphs (v)(4)(i) through (iv) of this section, and all information specific to IFQ regulatory areas 2C and 3A described in paragraphs (v)(5)(i) through (iii) of this section.
+
+(4) *General report requirements.* The RQE must annually report the following information:
+
+(i) Any changes to the bylaws, board of directors, or other key management personnel of the RQE from the preceding year;
+
+(ii) Amount and description of annual administrative expenses;
+
+(iii) Amount and description of funds spent on conservation and research, including a summary of the results of those expenditures; and
+
+(iv) Amount and description of all other expenses incurred by the RQE.
+
+(5) *Information by IFQ regulatory area.* For each IFQ regulatory area represented by the RQE, the RQE must annually report the following information:
+
+(i) The total amount of halibut QS by category and blocks held by the RQE at the start of the calendar year, on October 1, and at the end of the calendar year;
+
+(ii) A list of all transfers (purchases or sales) of halibut QS, including the transaction price; and
+
+(iii) A description of the number of charter halibut permits and number of angler endorsements purchased and held by the RQE.
 
 [61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

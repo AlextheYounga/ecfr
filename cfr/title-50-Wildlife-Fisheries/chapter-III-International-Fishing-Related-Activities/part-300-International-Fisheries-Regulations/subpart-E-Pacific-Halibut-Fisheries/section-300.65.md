@@ -1,7 +1,5 @@
 ##### § 300.65 Catch sharing plan and domestic management measures in waters in and off Alaska. #####
 
-Link to an amendment published at 83 FR 47829, Sept. 21, 2018.
-
 (a) A catch sharing plan (CSP) may be developed by the North Pacific Fishery Management Council and approved by NMFS for portions of the fishery. Any approved CSP may be obtained from the Administrator, Alaska Region, NMFS.
 
 (b) The catch sharing plan for Commission regulatory area 4 allocates the annual commercial catch limit among Areas 4C, 4D, and 4E and will be adopted by the Commission as annual management measures and published in the Federal Register as required in § 300.62.
@@ -12,15 +10,19 @@ Link to an amendment published at 83 FR 47829, Sept. 21, 2018.
 
 (ii) Authorizes the use of Commission regulatory areas 2C and 3A halibut IFQ as guided angler fish (GAF) for harvest by charter vessel anglers in the corresponding area, pursuant to paragraph (c)(5) of this section.
 
+(iii) Authorizes the use of Commission regulatory areas 2C and 3A RFQ resulting from halibut QS held by the RQE as authorized in part 679 to this title to supplement the annual guided sport catch limit in the corresponding area, pursuant to paragraph (c)(4) of this section.
+
 (2) *Implementation.* The Commission regulatory areas 2C and 3A CSP annual combined catch limits, annual commercial catch limits, and annual guided sport catch limits are adopted by the Commission as annual management measures and published by NMFS in the Federal Register as required in § 300.62.
 
 (3) *Annual commercial catch limits.* (i) The Commission regulatory areas 2C and 3A annual commercial catch limits are determined by subtracting wastage from the allocations in Tables 1 and 2 of this subpart E, adopted by the Commission as annual management measures, and published in the Federal Register as required in § 300.62.
 
 (ii) Commercial fishing in Commission regulatory areas 2C and 3A is governed by the Commission's annual management measures and by regulations at 50 CFR part 679, subparts A, B, D, and E.
 
-(4) *Annual guided sport catch limits.* (i) The Commission regulatory areas 2C and 3A annual guided sport catch limits are determined by subtracting wastage from the allocations in Tables 3 and 4 of this subpart E, adopted by the Commission as annual management measures, and published in the Federal Register as required in § 300.62.
+(4) *Annual guided sport catch limits.* (i) The Commission regulatory areas 2C and 3A annual guided sport catch limits are determined by subtracting wastage from, and adding any pounds of RFQ held by an RQE for that area to, the allocations in Tables 3 and 4 of this subpart, adopted by the Commission as annual management measures, and published in the Federal Register as required in § 300.62.
 
 (ii) Sport fishing by charter vessel anglers in Commission regulatory areas 2C and 3A is governed by the Commission's annual management measures and by regulations at 50 CFR part 300, subparts A and E.
+
+(iii) The amount of QS held by the RQE for Commission regulatory area 2C and 3A as of October 1 each year will be the basis for determining the amount of RFQ pounds that will be added to the annual guided sport catch limit for the corresponding area in the upcoming year.
 
 (5) *Guided Angler Fish (GAF).* This paragraph (§ 300.65(c)(5)) governs the transfer of Commission regulatory areas 2C and 3A halibut between individual fishing quota (IFQ) and guided angler fish (GAF), the issuance of GAF permits, and GAF use.
 
@@ -73,6 +75,8 @@ Link to an amendment published at 83 FR 47829, Sept. 21, 2018.
 (*ii*) Has been issued an annual IFQ Permit, as defined in § 679.4(d)(1) of this title, for the Commission regulatory area corresponding to the person's QS holding, either Area 2C or Area 3A, resulting from that halibut QS; and
 
 (*iii*) Has an IFQ permit holder's account with an IFQ amount equal to or greater than amount of IFQ to be transferred in the Commission regulatory area, either Area 2C or Area 3A, for which the transfer of IFQ to GAF is requested.
+
+(*iv*) In the applicable Commission regulatory area, either Area 2C or Area 3A, the sum of IFQ halibut equivalent pounds, as defined in § 679.2 of this title, from the transfer of IFQ to GAF and the pounds of RFQ issued to the RQE during a calendar year does not exceed an amount that is greater than the amount derived from: 5,947,740 units of Area 2C QS, or 22,187,161 units of Area 3A QS.
 
 (*2*) The person applying to receive or transfer GAF possesses a valid charter halibut permit, community charter halibut permit, or military charter halibut permit in the Commission regulatory area (Area 2C or Area 3A) that corresponds to the IFQ permit area from or to which the IFQ will be transferred.
 
@@ -906,4 +910,4 @@ Halibut Regulatory Area 4E
 
 (l) *Appeals.* If Restricted Access Management (RAM) determines that an application is deficient, it will prepare and send an Initial Administrative Determination (IAD) to the applicant. The IAD will indicate the deficiencies in the application or any additional provided information. An applicant who receives an IAD may appeal RAM's findings pursuant to § 679.43 of this title.
 
-[68 FR 18156, Apr. 15, 2003]Editorial Note:For Federal Register citations affecting § 300.65, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[68 FR 18156, Apr. 15, 2003]Editorial Note:For Federal Register citations affecting § 300.65, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

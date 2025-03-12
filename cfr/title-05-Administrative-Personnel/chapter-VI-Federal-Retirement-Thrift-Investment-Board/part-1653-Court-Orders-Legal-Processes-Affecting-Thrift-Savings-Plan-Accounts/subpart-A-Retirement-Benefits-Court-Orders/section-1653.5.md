@@ -1,7 +1,5 @@
 ##### § 1653.5 Payment. #####
 
-Link to an amendment published at 83 FR 47547, Sept. 20, 2018.
-
 (a) *Payment date.* Payment pursuant to a qualifying retirement benefits court order will generally be made:
 
 (1) 60 days after the date of the TSP decision letter when the payee is the current or former spouse of the participant. The payee can request to receive the payment sooner than 60 days, but in no event earlier than 30 days after the date of the TSP decision letter, if:
@@ -18,11 +16,7 @@ Link to an amendment published at 83 FR 47547, Sept. 20, 2018.
 
 (d) Payment will be made pro rata from the participant's traditional and Roth balances. The distribution from the traditional balance will be further pro rated between the tax-deferred balance and tax-exempt balance. The payment from the Roth balance will be further pro rated between contributions in the Roth balance and earnings in the Roth balance. In addition, all payments will be distributed pro rata from all TSP Funds in which the participant's account is invested. All pro rated amounts will be based on the balances in each fund or source of contributions on the day the disbursement is made. The TSP will not honor provisions of a court order that require payment to be made from a specific TSP Fund, source of contributions, or balance.
 
-(e) Payment will be made only to the person or persons specified in the court order.
-
-(1) If payment is made to the current or former spouse of the participant, the distribution will be reported to the Internal Revenue Service (IRS) as income to the payee. If the court order specifies a third-party mailing address for the payment, the TSP will mail to the address specified any portion of the payment that is not transferred to a traditional IRA, Roth IRA, or eligible employer plan.
-
-(2) If the payment is made to anyone other than the current or former spouse of the participant, the payment is taxable to the participant and is subject to 10 percent Federal income tax under Internal Revenue Code section 3405(b). The participant cannot elect to change the amount of Federal income tax withholding. The tax withholding will be taken from the payee's entitlement and the gross amount of the payment (*i.e.*, the net payment distributed to the payee plus the amount withheld from the payment for taxes) will be reported to the IRS as income to the participant.
+(e) Payment will be made only to the person or persons specified in the court order. However, if the court order specifies a third-party mailing address for the payment, the TSP will mail to the address specified any portion of the payment that is not transferred to a traditional IRA, Roth IRA, or eligible employer plan.
 
 (f) Payment will not be made jointly to two or more persons. If the court order requires payments to more than one person, the order must separately indicate the amount to be paid to each.
 
@@ -46,4 +40,4 @@ Link to an amendment published at 83 FR 47547, Sept. 20, 2018.
 
 (n) If the TSP maintains an account (other than a beneficiary participant account) for a court order payee who is the current or former spouse of the participant, the payee can request that the TSP transfer the court-ordered payment to the payee's TSP account in accordance with the rules described in 5 CFR 1650.25. However, any pro rata share attributable to tax-exempt contributions cannot be transferred; instead it will be paid directly to the payee.
 
-[68 FR 35510, June 13, 2003, as amended at 68 FR 74451, Dec. 23, 2003; 70 FR 32217, June 1, 2005; 74 FR 63063, Dec. 2, 2009; 76 FR 30510, May 26, 2011; 76 FR 78095, Dec. 16, 2011; 77 FR 26428, May 4, 2012]
+[68 FR 35510, June 13, 2003, as amended at 68 FR 74451, Dec. 23, 2003; 70 FR 32217, June 1, 2005; 74 FR 63063, Dec. 2, 2009; 76 FR 30510, May 26, 2011; 76 FR 78095, Dec. 16, 2011; 77 FR 26428, May 4, 2012; 83 FR 47547, Sept. 20, 2018]
