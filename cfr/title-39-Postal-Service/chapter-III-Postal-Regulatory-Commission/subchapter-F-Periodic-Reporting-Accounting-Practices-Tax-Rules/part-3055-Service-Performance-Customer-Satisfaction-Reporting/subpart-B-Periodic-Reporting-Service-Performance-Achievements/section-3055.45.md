@@ -1,5 +1,7 @@
 ##### § 3055.45 First-Class Mail. #####
 
+Link to an amendment published at 88 FR 10041, Feb. 16, 2023.
+
 (a) *Single-Piece Letters/Postcards, Bulk Letters/Postcards, Flats, and Parcels.* For each of the Single-Piece Letters/Postcards, Bulk Letters/Postcards, Flats, and Parcels products within the First-Class Mail class, report the:
 
 (1) On-time service performance (as a percentage rounded to one decimal place), disaggregated by mail subject to the overnight, 2-day, and 3/4/5-day service standards, provided at the District, Postal Administrative Area, and National levels; and

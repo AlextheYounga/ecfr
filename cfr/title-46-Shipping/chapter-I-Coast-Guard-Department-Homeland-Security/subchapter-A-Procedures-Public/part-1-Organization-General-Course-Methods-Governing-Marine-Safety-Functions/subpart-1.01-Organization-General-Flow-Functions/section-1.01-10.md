@@ -8,7 +8,7 @@
 
 (1) CG-5R directs, supervises, and coordinates the activities of:
 
-(i) The Director of Incident Management and Preparedness Policy (CG-5RI), including -
+(i) The Director of Incident Management and Preparedness Policy (CG-5RI), including—
 
 (A) The Office of Environmental Response Policy (CG-MER),
 
@@ -70,7 +70,7 @@
 
 (e) The Director of Commercial Regulations and Standards (CG-5PS), under the general direction and supervision of the Deputy for Operations Policy and Capabilities (CG-DCO-D) and the Assistant Commandant for Prevention Policy (CG-5P), establishes federal policies for development of marine safety, security, and environmental protection treaties, laws, and regulations; develops safety, security, and environmental protection standards for the maritime industry; integrates all marine safety, security, and environmental protection regulatory programs; prepares legislation, regulations, and industry guidance for new safety and environmental protection programs; maintains an active program for development of third party consensus industry standards, and provides oversight to marine personnel matters.
 
-(1) The Chief, Office of Design and Engineering Standards (CG-ENG), at Headquarters, under the direction of the Assistant Commandant for Prevention Policy (CG-5P) and the Director of Commercial Regulations and Standards (CG-5PS), manages the program for defining the overall regulatory approach for vessels, offshore structures, and other marine systems incorporating safety considerations regarding the role of the human element; develops policies and regulations on load line matters and supervises classification societies authorized to assign load lines on behalf of the Coast Guard; oversees the development and maintenance of programs that incorporate risk-based methods in making safety determinations and policies; and oversees technical research and development for safety and environmental protection associated with marine vessels, structures and facilities.
+(1) The Chief, Office of Design and Engineering Standards (CG-ENG), at Headquarters, under the direction of the Assistant Commandant for Prevention Policy (CG-5P) and the Director of Commercial Regulations and Standards (CG-5PS), develops and maintains national regulations and standards that govern the safe design, engineering, and construction of ships and shipboard equipment; establishes policy, provides technical clarifications, and resolves appeals; and represents the United States at the International Maritime Organization (IMO) and is actively engaged in standards committees and classification society rules committees in support of marine safety, security and environmental stewardship.
 
 (2) The Chief, Office of Merchant Mariner Credentialing (CG-MMC), at Headquarters, under the direction of the Assistant Commandant for Prevention Policy (CG-5P) and the Director of Commercial Regulations and Standards (CG-5PS), develops and maintains standards and policy, statutes, regulations and guidance for the maritime industry regarding personnel qualifications, licensing, certification, manning and labor issues; provides oversight of mariner credentialing and marine personnel administration matters, and coordinates the monitoring of U.S. implementation efforts with respect to the International Convention on Standards of Training, Certification & Watchkeeping for Seafarers (STCW) 1978, as amended; and reviews mariner appeals of credentialing decisions and provides a recommended final agency action for CG-5PS signature.
 

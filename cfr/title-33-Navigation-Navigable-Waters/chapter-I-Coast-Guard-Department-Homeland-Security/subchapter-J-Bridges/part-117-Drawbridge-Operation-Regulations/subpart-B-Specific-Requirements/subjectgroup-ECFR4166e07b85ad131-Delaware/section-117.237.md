@@ -10,7 +10,7 @@
 
 (1) The draw shall remain in the open position for navigation. The draw shall only be closed for train crossings or periodic maintenance authorized in accordance with subpart A of this part.
 
-(2) The bridge shall be operated by the controller at the Harrisburg, PA Dispatcher's Office. The controller shall monitor vessel traffic with closed circuit cameras and infrared sensors covering the swing radius. Operational information will be provided 24 hours a day on marine channel 13 and via telephone (717) 541-2140.
+(2) The bridge shall be operated by the controller at the Harrisburg, PA Dispatcher's Office. The controller shall monitor vessel traffic with closed circuit cameras and infrared sensors covering the swing radius. Operational information will be provided 24 hours a day on marine channel 13 and via telephone 470-463-1102.
 
 (3) The bridge shall not be operated from the remote location in the following events: Failure or obstruction of the infrared sensors, closed-circuit cameras or marine-radio communications, or anytime controller's visibility is inhibited. In these situations, a bridge tender with Norfolk Southern must be called and on-site within 30 minutes.
 
@@ -26,4 +26,4 @@
 
 (e) The draw of the SH141 bridge, mile 7.5 at Wilmington, shall open on signal if at least 24 hours notice is given.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD3 84-06, 49 FR 33448, Aug. 23, 1984, CGD3 85-42, 50 FR 26712, June 28, 1985; CGD 87-035, 52 FR 33812, Sept. 8, 1987; CGD05-04-168, 70 FR 4016, Jan. 28, 2005; USCG-2012-1085, 78 FR 61182, Oct. 3, 2013]
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984, as amended by CGD3 84-06, 49 FR 33448, Aug. 23, 1984, CGD3 85-42, 50 FR 26712, June 28, 1985; CGD 87-035, 52 FR 33812, Sept. 8, 1987; CGD05-04-168, 70 FR 4016, Jan. 28, 2005; USCG-2012-1085, 78 FR 61182, Oct. 3, 2013; USCG-2022-0323, 88 FR 10029, Feb. 16, 2023]

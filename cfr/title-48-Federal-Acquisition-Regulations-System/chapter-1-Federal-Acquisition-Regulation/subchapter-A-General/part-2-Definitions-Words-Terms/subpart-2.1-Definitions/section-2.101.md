@@ -1,12 +1,12 @@
 ##### 2.101 Definitions. #####
 
-(a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
+(a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless—
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
 
 (2) Another FAR part, subpart, or section provides a different definition for the particular part or portion of the part.
 
-(b) If a word or term that is defined in this section is defined differently in another part, subpart, or section of this regulation (48 CFR chapter 1), the definition in -
+(b) If a word or term that is defined in this section is defined differently in another part, subpart, or section of this regulation (48 CFR chapter 1), the definition in—
 
 (1) This section includes a cross-reference to the other definitions; and
 
@@ -38,7 +38,7 @@
 
 *Alternate* means a substantive variation of a basic provision or clause prescribed for use in a defined circumstance. It adds wording to, deletes wording from, or substitutes specified wording for a portion of the basic provision or clause. The alternate version of a provision or clause is the basic provision or clause as changed by the addition, deletion, or substitution (see 52.105(a)).
 
-*Architect-engineer services,* as defined in 40 U.S.C. 1102, means -
+*Architect-engineer services,* as defined in 40 U.S.C. 1102, means—
 
 (1) Professional services of an architectural or engineering nature, as defined by State law, if applicable, that are required to be performed or approved by a person licensed, registered, or certified to provide those services;
 
@@ -62,9 +62,9 @@
 
 *Building or work* means construction activity as distinguished from manufacturing, furnishing of materials, or servicing and maintenance work. The terms include, without limitation, buildings, structures, and improvements of all types, such as bridges, dams, plants, highways, parkways, streets, subways, tunnels, sewers, mains, power lines, pumping stations, heavy generators, railways, airports, terminals, docks, piers, wharves, ways, lighthouses, buoys, jetties, breakwaters, levees, canals, dredging, shoring, rehabilitation and reactivation of plants, scaffolding, drilling, blasting, excavating, clearing, and landscaping. The manufacture or furnishing of materials, articles, supplies, or equipment (whether or not a Federal or State agency acquires title to such materials, articles, supplies, or equipment during the course of the manufacture or furnishing, or owns the materials from which they are manufactured or furnished) is not “building” or “work” within the meaning of this definition unless conducted in connection with and at the site of such building or work as is described in the foregoing sentence, or under the United States Housing Act of 1937 and the Housing Act of 1949 in the construction or development of the project.
 
-*Bundling* -
+*Bundling*—
 
-(1) Means a subset of consolidation that combines two or more requirements for supplies or services, previously provided or performed under separate smaller contracts (see paragraph (2) of this definition), into a solicitation for a single contract, a multiple-award contract, or a task or delivery order that is likely to be unsuitable for award to a small business concern (even if it is suitable for award to a small business with a Small Business Teaming Arrangement) due to -
+(1) Means a subset of consolidation that combines two or more requirements for supplies or services, previously provided or performed under separate smaller contracts (see paragraph (2) of this definition), into a solicitation for a single contract, a multiple-award contract, or a task or delivery order that is likely to be unsuitable for award to a small business concern (even if it is suitable for award to a small business with a Small Business Teaming Arrangement) due to—
 
 (i) The diversity, size, or specialized nature of the elements of the performance specified;
 
@@ -94,7 +94,7 @@
 
 *Classified contract* means any contract in which the contractor or its employees must have access to classified information during contract performance. A contract may be a classified contract even though the contract document itself is unclassified.
 
-*Classified information* means any knowledge that can be communicated or any documentary material, regardless of its physical form or characteristics, that -
+*Classified information* means any knowledge that can be communicated or any documentary material, regardless of its physical form or characteristics, that—
 
 (1)(i) Is owned by, is produced by or for, or is under the control of the United States Government; or
 
@@ -106,7 +106,7 @@
 
 *Combatant commander* means the commander of a unified or specified combatant command established in accordance with 10 U.S.C. 161.
 
-*Commercial and Government Entity (CAGE) code* means -
+*Commercial and Government Entity (CAGE) code* means—
 
 (1) An identifier assigned to entities located in the United States or its outlying areas by the Defense Logistics Agency (DLA) Commercial and Government Entity (CAGE) Branch to identify a commercial or government entity by unique location; or
 
@@ -116,9 +116,9 @@
 
 *Commercial computer software* means any computer software that is a commercial product or commercial service.
 
-*Commercial product* means -
+*Commercial product* means—
 
-(1) A product, other than real property, that is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes, and -
+(1) A product, other than real property, that is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes, and—
 
 (i) Has been sold, leased, or licensed to the general public; or
 
@@ -126,7 +126,7 @@
 
 (2) A product that evolved from a product described in paragraph (1) of this definition through advances in technology or performance and that is not yet available in the commercial marketplace, but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Government solicitation;
 
-(3) A product that would satisfy a criterion expressed in paragraph (1) or (2) of this definition, except for -
+(3) A product that would satisfy a criterion expressed in paragraph (1) or (2) of this definition, except for—
 
 (i) Modifications of a type customarily available in the commercial marketplace; or
 
@@ -138,15 +138,15 @@
 
 (6) A nondevelopmental item, if the procuring agency determines the product was developed exclusively at private expense and sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
 
-*Commercial service* means -
+*Commercial service* means—
 
-(1) Installation services, maintenance services, repair services, training services, and other services if -
+(1) Installation services, maintenance services, repair services, training services, and other services if—
 
 (i) Such services are procured for support of a commercial product as defined in this section, regardless of whether such services are provided by the same source or at the same time as the commercial product; and
 
 (ii) The source of such services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;
 
-(2) Services of a type offered and sold competitively in substantial quantities in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions. For purposes of these services -
+(2) Services of a type offered and sold competitively in substantial quantities in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions. For purposes of these services—
 
 (i) *Catalog price* means a price included in a catalog, price list, schedule, or other form that is regularly maintained by the manufacturer or vendor, is either published or otherwise available for inspection by customers, and states prices at which sales are currently, or were last, made to a significant number of buyers constituting the general public; and
 
@@ -154,7 +154,7 @@
 
 (3) A service referred to in paragraph (1) or (2) of this definition, even though the service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
-*Commercially available off-the-shelf (COTS) item -*  (1) Means any item of supply (including construction material) that is -
+*Commercially available off-the-shelf (COTS) item—*  (1) Means any item of supply (including construction material) that is—
 
 (i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in this section);
 
@@ -166,7 +166,7 @@
 
 *Common item* means material that is common to the applicable Government contract and the contractor's other work, except that for use in the clause at 52.246-26, see the definition in paragraph (a) of that clause.
 
-*Component* means any item supplied to the Government as part of an end item or of another component, except that for use in -
+*Component* means any item supplied to the Government as part of an end item or of another component, except that for use in—
 
 (1) Part 25, see the definition in 25.003;
 
@@ -178,7 +178,7 @@
 
 *Computer database* or *database* means a collection of recorded information in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.
 
-*Computer software* - (1) Means -
+*Computer software*—(1) Means—
 
 (i) Computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
 
@@ -190,9 +190,9 @@
 
 *Consent to subcontract* means the contracting officer's written consent for the prime contractor to enter into a particular subcontract.
 
-*Consolidation or consolidated requirement* -
+*Consolidation or consolidated requirement*—
 
-(1) Means a solicitation for a single contract, a multiple-award contract, a task order, or a delivery order to satisfy -
+(1) Means a solicitation for a single contract, a multiple-award contract, a task order, or a delivery order to satisfy—
 
 (i) Two or more requirements of the Federal agency for supplies or services that have been provided to or performed for the Federal agency under two or more separate contracts, each of which was lower in cost than the total cost of the contract for which offers are solicited; or
 
@@ -204,7 +204,7 @@
 
 *Contiguous United States (CONUS)* means the 48 contiguous States and the District of Columbia.
 
-*Contingency operation* (10 U.S.C. 101(a)(13)) means a military operation that -
+*Contingency operation* (10 U.S.C. 101(a)(13)) means a military operation that—
 
 (1) Is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
 
@@ -214,7 +214,7 @@
 
 *Contract* means a mutually binding legal relationship obligating the seller to furnish the supplies or services (including construction) and the buyer to pay for them. It includes all types of commitments that obligate the Government to an expenditure of appropriated funds and that, except as otherwise authorized, are in writing. In addition to bilateral instruments, contracts include (but are not limited to) awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications. Contracts do not include grants and cooperative agreements covered by 31 U.S.C. 6301, *et seq.* For discussion of various types of contracts, see part 16.
 
-*Contract administration office* means an office that performs -
+*Contract administration office* means an office that performs—
 
 (1) Assigned postaward functions related to the administration of contracts; and
 
@@ -230,7 +230,7 @@
 
 *Contracting office* means an office that awards or executes a contract for supplies or services and performs postaward functions not assigned to a contract administration office (except for use in part 48, see also 48.001).
 
-*Contracting officer* means a person with the authority to enter into, administer, and/or terminate contracts and make related determinations and findings. The term includes certain authorized representatives of the contracting officer acting within the limits of their authority as delegated by the contracting officer. “Administrative contracting officer (ACO)” refers to a contracting officer who is administering contracts. “Termination contracting officer (TCO)” refers to a contracting officer who is settling terminated contracts. A single contracting officer may be responsible for duties in any or all of these areas. Reference in this regulation (48 CFR chapter 1) to administrative contracting officer or termination contracting officer does not -
+*Contracting officer* means a person with the authority to enter into, administer, and/or terminate contracts and make related determinations and findings. The term includes certain authorized representatives of the contracting officer acting within the limits of their authority as delegated by the contracting officer. “Administrative contracting officer (ACO)” refers to a contracting officer who is administering contracts. “Termination contracting officer (TCO)” refers to a contracting officer who is settling terminated contracts. A single contracting officer may be responsible for duties in any or all of these areas. Reference in this regulation (48 CFR chapter 1) to administrative contracting officer or termination contracting officer does not—
 
 (1) Require that a duty be performed at a particular office or activity; or
 
@@ -240,7 +240,7 @@
 
 *Conviction* means a judgment or conviction of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or a plea, and includes a conviction entered upon a plea of *nolo contendere.* For use in subpart 23.5, see the definition at 23.503.
 
-*Cost or pricing data* (10 U.S.C. 3701(1) and 41 U.S.C. chapter 35) means all facts that, as of the date of price agreement, or, if applicable, an earlier date agreed upon between the parties that is as close as practicable to the date of agreement on price, prudent buyers and sellers would reasonably expect to affect price negotiations significantly. Cost or pricing data are factual, not judgmental; and are verifiable. While they do not indicate the accuracy of the prospective contractor's judgment about estimated future costs or projections, they do include the data forming the basis for that judgment. Cost or pricing data are more than historical accounting data; they are all the facts that can be reasonably expected to contribute to the soundness of estimates of future costs and to the validity of determinations of costs already incurred. They also include, but are not limited to, such factors as -
+*Cost or pricing data* (10 U.S.C. 3701(1) and 41 U.S.C. chapter 35) means all facts that, as of the date of price agreement, or, if applicable, an earlier date agreed upon between the parties that is as close as practicable to the date of agreement on price, prudent buyers and sellers would reasonably expect to affect price negotiations significantly. Cost or pricing data are factual, not judgmental; and are verifiable. While they do not indicate the accuracy of the prospective contractor's judgment about estimated future costs or projections, they do include the data forming the basis for that judgment. Cost or pricing data are more than historical accounting data; they are all the facts that can be reasonably expected to contribute to the soundness of estimates of future costs and to the validity of determinations of costs already incurred. They also include, but are not limited to, such factors as—
 
 (1) Vendor quotations;
 
@@ -258,7 +258,7 @@
 
 (8) Information on management decisions that could have a significant bearing on costs.
 
-*Cost realism* means that the costs in an offeror's proposal -
+*Cost realism* means that the costs in an offeror's proposal—
 
 (1) Are realistic for the work to be performed;
 
@@ -270,7 +270,7 @@
 
 *Customs territory of the United States* means the 50 States, the District of Columbia, and Puerto Rico.
 
-*Data other than certified cost or pricing data* means pricing data, cost data, and judgmental information necessary for the contracting officer to determine a fair and reasonable price or to determine cost realism. Such data may include the identical types of data as certified cost or pricing data, consistent with Table 15-2 of 15.408, but without the certification. The data may also include, for example, sales data and any information reasonably required to explain the offeror's estimating process, including, but not limited to -
+*Data other than certified cost or pricing data* means pricing data, cost data, and judgmental information necessary for the contracting officer to determine a fair and reasonable price or to determine cost realism. Such data may include the identical types of data as certified cost or pricing data, consistent with Table 15-2 of 15.408, but without the certification. The data may also include, for example, sales data and any information reasonably required to explain the offeror's estimating process, including, but not limited to—
 
 (1) The judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data; and
 
@@ -300,7 +300,7 @@
 
 *Earned value management system* means a project management tool that effectively integrates the project scope of work with cost, schedule and performance elements for optimum project planning and control. The qualities and operating characteristics of an earned value management system are described in Electronic Industries Alliance Standard 748 (EIA-748), Earned Value Management Systems. (See OMB Circular A-11, Part 7.)
 
-*Economically disadvantaged women-owned small business (EDWOSB) concern* - (see definition of *Women-Owned Small Business (WOSB) Program* in this section).
+*Economically disadvantaged women-owned small business (EDWOSB) concern*—(see definition of *Women-Owned Small Business (WOSB) Program* in this section).
 
 *Effective date of termination* means the date on which the notice of termination requires the contractor to stop performance under the contract. If the contractor receives the termination notice after the date fixed for termination, then the effective date of termination means the date the contractor receives the notice.
 
@@ -316,7 +316,7 @@
 
 *End product* means supplies delivered under a line item of a Government contract, except for use in part 25 and the associated clauses at 52.225-1, 52.225-3, and 52.225-5, see the definitions in 25.003, 52.225-1(a), 52.225-3(a), and 52.225-5(a).
 
-*Energy-efficient product* - (1) Means a product that -
+*Energy-efficient product*—(1) Means a product that—
 
 (i) Meets Department of Energy and Environmental Protection Agency criteria for use of the Energy Star trademark label; or
 
@@ -324,13 +324,13 @@
 
 (2) As used in this definition, the term “product” does not include any energy-consuming product or system designed or procured for combat or combat-related missions (42 U.S.C. 8259b).
 
-*Energy-efficient standby power devices* means products that use -
+*Energy-efficient standby power devices* means products that use—
 
 (1) External standby power devices, or that contain an internal standby power function; and
 
 (2) No more than one watt of electricity in their standby power consuming mode or meet recommended low standby levels as designated by the Department of Energy Federal Energy Management Program.
 
-*Energy-savings performance contract* means a contract that requires the contractor to -
+*Energy-savings performance contract* means a contract that requires the contractor to—
 
 (1) Perform services for the design, acquisition, financing, installation, testing, operation, and where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations;
 
@@ -344,11 +344,11 @@
 
 *Executive agency* means an executive department, a military department, or any independent establishment within the meaning of 5 U.S.C. 101, 102, and 104(1), respectively, and any wholly owned Government corporation within the meaning of 31 U.S.C. 9101.
 
-*Facilities capital cost of money* means “cost of money as an element of the cost of facilities capital” as used at 48 CFR 9904.414 - Cost Accounting Standard - Cost of Money as an Element of the Cost of Facilities Capital.
+*Facilities capital cost of money* means “cost of money as an element of the cost of facilities capital” as used at 48 CFR 9904.414—Cost Accounting Standard—Cost of Money as an Element of the Cost of Facilities Capital.
 
 *Federal agency* means any executive agency or any independent establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, the Architect of the Capitol, and any activities under the Architect's direction).
 
-*Federally-controlled facilities* means -
+*Federally-controlled facilities* means—
 
 (1) Federally-owned buildings or leased space, whether for single or multi-tenant occupancy, and its grounds and approaches, all or any portion of which is under the jurisdiction, custody or control of a department or agency;
 
@@ -360,7 +360,7 @@
 
 *Federally-controlled information system* means an information system (44 U.S.C. 3502(8) used or operated by a Federal agency, or a contractor or other organization on behalf of the agency (44 U.S.C. 3544(a)(1)(A)).
 
-*Federally Funded Research and Development Centers (FFRDC's)* means activities that are sponsored under a broad charter by a Government agency (or agencies) for the purpose of performing, analyzing, integrating, supporting, and/or managing basic or applied research and/or development, and that receive 70 percent or more of their financial support from the Government; and -
+*Federally Funded Research and Development Centers (FFRDC's)* means activities that are sponsored under a broad charter by a Government agency (or agencies) for the purpose of performing, analyzing, integrating, supporting, and/or managing basic or applied research and/or development, and that receive 70 percent or more of their financial support from the Government; and—
 
 (1) A long-term relationship is contemplated;
 
@@ -374,7 +374,7 @@
 
 *First article testing* means testing and evaluating the first article for conformance with specified contract requirements before or in the initial stage of production.
 
-*F.o.b.* means free on board. This term is used in conjunction with a physical point to determine -
+*F.o.b.* means free on board. This term is used in conjunction with a physical point to determine—
 
 (1) The responsibility and basis for payment of freight charges; and
 
@@ -398,7 +398,7 @@
 
 *Global warming potential* means how much a given mass of a chemical contributes to global warming over a given time period compared to the same mass of carbon dioxide. Carbon dioxide's global warming potential is defined as 1.0.
 
-*Governmentwide acquisition contract (GWAC)* means a task-order or delivery-order contract for information technology established by one agency for Governmentwide use that is operated -
+*Governmentwide acquisition contract (GWAC)* means a task-order or delivery-order contract for information technology established by one agency for Governmentwide use that is operated—
 
 (1) By an executive agent designated by the Office of Management and Budget pursuant to 40 U.S.C. 11302(e); or
 
@@ -438,7 +438,7 @@
 
 *Indirect cost rate* means the percentage or dollar factor that expresses the ratio of indirect expense incurred in a given period to direct labor cost, manufacturing cost, or another appropriate base for the same period (see also “final indirect cost rate”).
 
-*Ineligible* means excluded from Government contracting (and subcontracting, if appropriate) pursuant to statutory, Executive order, or regulatory authority other than this regulation (48 CFR chapter 1) and its implementing and supplementing regulations; for example, pursuant to -
+*Ineligible* means excluded from Government contracting (and subcontracting, if appropriate) pursuant to statutory, Executive order, or regulatory authority other than this regulation (48 CFR chapter 1) and its implementing and supplementing regulations; for example, pursuant to—
 
 (1) 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), and its related statutes and implementing regulations;
 
@@ -454,7 +454,7 @@
 
 *Information and communication technology (ICT)* means information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include but are not limited to the following: Computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents.
 
-*Information security* means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide -
+*Information security* means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—
 
 (1) Integrity, which means guarding against improper information modification or destruction, and includes ensuring information nonrepudiation and authenticity;
 
@@ -464,7 +464,7 @@
 
 *Information technology* means any equipment, or interconnected system(s) or subsystem(s) of equipment, that is used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.
 
-(1) For purposes of this definition, equipment is used by an agency if the equipment is used by the agency directly or is used by a contractor under a contract with the agency that requires -
+(1) For purposes of this definition, equipment is used by an agency if the equipment is used by the agency directly or is used by a contractor under a contract with the agency that requires—
 
 (i) Its use; or
 
@@ -472,7 +472,7 @@
 
 (2) The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources.
 
-(3) The term “information technology” does not include any equipment that -
+(3) The term “information technology” does not include any equipment that—
 
 (i) Is acquired by a contractor incidental to a contract; or
 
@@ -480,7 +480,7 @@
 
 *Inherently governmental function* means, as a matter of policy, a function that is so intimately related to the public interest as to mandate performance by Government employees. This definition is a policy determination, not a legal determination. An inherently governmental function includes activities that require either the exercise of discretion in applying Government authority, or the making of value judgments in making decisions for the Government. Governmental functions normally fall into two categories: the act of governing, *i.e.,* the discretionary exercise of Government authority, and monetary transactions and entitlements.
 
-(1) An inherently governmental function involves, among other things, the interpretation and execution of the laws of the United States so as to -
+(1) An inherently governmental function involves, among other things, the interpretation and execution of the laws of the United States so as to—
 
 (i) Bind the United States to take or not to take some action by contract, policy, regulation, authorization, order, or otherwise;
 
@@ -498,7 +498,7 @@
 
 *Insurance* means a contract that provides that for a stipulated consideration, one party undertakes to indemnify another against loss, damage, or liability arising from an unknown or contingent event.
 
-*Interagency acquisition* means a procedure by which an agency needing supplies or services (the requesting agency) obtains them from another agency (the servicing agency), by an assisted acquisition or a direct acquisition. The term includes -
+*Interagency acquisition* means a procedure by which an agency needing supplies or services (the requesting agency) obtains them from another agency (the servicing agency), by an assisted acquisition or a direct acquisition. The term includes—
 
 (1) Acquisitions under the Economy Act (31 U.S.C. 1535); and
 
@@ -520,7 +520,7 @@
 
 *Major disaster,* as used in 6.208, 13.201, 13.500, 18.001, 18.202, 18.203, and subpart 26.2, means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or regardless of cause, any fire, flood, or explosion, in any part of the United States, which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under the Stafford Act to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby (42 U.S.C. 5122).
 
-*Major system* means that combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software, or any combination thereof, but exclude construction or other improvements to real property. A system is a major system if -
+*Major system* means that combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software, or any combination thereof, but exclude construction or other improvements to real property. A system is a major system if—
 
 (1) The Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $185 million based on Fiscal Year 2014 constant dollars or the eventual total expenditure for the acquisition exceeds $835 million based on Fiscal Year 2014 constant dollars (or any update of these thresholds based on a more recent fiscal year, as specified in the DoD Instruction 5000.02, “Operation of the Defense Acquisition System”);
 
@@ -530,7 +530,7 @@
 
 *Make-or-buy program* means that part of a contractor's written plan for a contract identifying those major items to be produced or work efforts to be performed in the prime contractor's facilities and those to be subcontracted.
 
-*Manufactured end product* means any end product in product and service codes (PSC) 1000-9999, except -
+*Manufactured end product* means any end product in product and service codes (PSC) 1000-9999, except—
 
 (1) PSC 5510, Lumber and Related Basic Wood Materials;
 
@@ -560,19 +560,19 @@
 
 *Micro-purchase* means an acquisition of supplies or services using simplified acquisition procedures, the aggregate amount of which does not exceed the micro-purchase threshold.
 
-*Micro-purchase threshold* means $10,000, except it means -
+*Micro-purchase threshold* means $10,000, except it means—
 
 (1) For acquisitions of construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction), $2,000;
 
 (2) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500;
 
-(3) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
+(3) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903)—
 
 (i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
 (ii) $35,000 in the case of any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-(4) For acquisitions of supplies or services from institutions of higher education (20 U.S.C. 1001(a)) or related or affiliated nonprofit entities, or from nonprofit research organizations or independent research institutes -
+(4) For acquisitions of supplies or services from institutions of higher education (20 U.S.C. 1001(a)) or related or affiliated nonprofit entities, or from nonprofit research organizations or independent research institutes—
 
 (i) $10,000; or
 
@@ -582,7 +582,7 @@
 
 *Multi-agency contract (MAC)* means a task-order or delivery-order contract established by one agency for use by Government agencies to obtain supplies and services, consistent with the Economy Act (see 17.502-2). Multi-agency contracts include contracts for information technology established pursuant to 40 U.S.C. 11314(a)(2).
 
-*Multiple-award contract* means a contract that is -
+*Multiple-award contract* means a contract that is—
 
 (1) A Multiple Award Schedule contract issued by GSA (*e.g.,* GSA Schedule Contract) or agencies granted Multiple Award Schedule contract authority by GSA (*e.g.,* Department of Veterans Affairs) as described in FAR part 38;
 
@@ -596,7 +596,7 @@
 
 *Neutral person* means an impartial third party, who serves as a mediator, fact finder, or arbitrator, or otherwise functions to assist the parties to resolve the issues in controversy. A neutral person may be a permanent or temporary officer or employee of the Federal Government or any other individual who is acceptable to the parties. A neutral person must have no official, financial, or personal conflict of interest with respect to the issues in controversy, unless the interest is fully disclosed in writing to all parties and all parties agree that the neutral person may serve (5 U.S.C. 583).
 
-*Nondevelopmental item* means -
+*Nondevelopmental item* means—
 
 (1) Any previously developed item of supply used exclusively for governmental purposes by a Federal agency, a State or local government, or a foreign government with which the United States has a mutual defense cooperation agreement;
 
@@ -604,9 +604,9 @@
 
 (3) Any item of supply being produced that does not meet the requirements of paragraphs (1) or (2) solely because the item is not yet in use.
 
-*Novation agreement* means a legal instrument -
+*Novation agreement* means a legal instrument—
 
-(1) Executed by the -
+(1) Executed by the—
 
 (i) Contractor (transferor);
 
@@ -628,7 +628,7 @@
 
 *Organizational conflict of interest* means that because of other activities or relationships with other persons, a person is unable or potentially unable to render impartial assistance or advice to the Government, or the person's objectivity in performing the contract work is or might be otherwise impaired, or a person has an unfair competitive advantage.
 
-*Outlying areas* means -
+*Outlying areas* means—
 
 (1) *Commonwealths.* (i) Puerto Rico.
 
@@ -662,7 +662,7 @@
 
 *Overtime premium* means the difference between the contractor's regular rate of pay to an employee for the shift involved and the higher rate paid for overtime. It does not include shift premium, *i.e.,* the difference between the contractor's regular rate of pay to an employee and the higher rate paid for extra-pay-shift work.
 
-*Ozone-depleting substance* means any substance the Environmental Protection Agency designates in 40 CFR part 82 as -
+*Ozone-depleting substance* means any substance the Environmental Protection Agency designates in 40 CFR part 82 as—
 
 (1) Class I, including, but not limited to, chlorofluorocarbons, halons, carbon tetrachloride, and methyl chloroform; or
 
@@ -692,7 +692,7 @@
 
 *Plant clearance officer* means an authorized representative of the contracting officer, appointed in accordance with agency procedures, responsible for screening, redistributing, and disposing of contractor inventory from a contractor's plant or work site. The term “Contractor's plant” includes, but is not limited to, Government-owned contractor-operated plants, Federal installations, and Federal and non-Federal industrial operations, as may be required under the scope of the contract.
 
-*Pollution prevention* means any practice that -
+*Pollution prevention* means any practice that—
 
 (1)(i) Reduces the amount of any hazardous substance, pollutant, or contaminant entering any waste stream or otherwise released into the environment (including fugitive emissions) prior to recycling, treatment, or disposal; and
 
@@ -734,7 +734,7 @@
 
 *Recovered material* means waste materials and by-products recovered or diverted from solid waste, but the term does not include those materials and by-products generated from, and commonly reused within, an original manufacturing process. For use in subpart 11.3 for paper and paper products, see the definition at 11.301.
 
-*Registered in the System for Award Management (SAM)* means that -
+*Registered in the System for Award Management (SAM)* means that—
 
 (1) The Contractor has entered all mandatory information, including the unique entity identifier and the Electronic Funds Transfer indicator (if applicable), the Commercial and Government Entity (CAGE) code, as well as data required by the Federal Funding Accountability and Transparency Act of 2006 (see subpart 4.14), into SAM;
 
@@ -746,7 +746,7 @@
 
 *Renewable energy* means energy produced by solar, wind, geothermal, biomass, landfill gas, ocean (including tidal, wave, current, and thermal), municipal solid waste, or new hydroelectric generation capacity achieved from increased efficiency or additions of new capacity at an existing hydroelectric project (Energy Policy Act of 2005, 42 U.S.C. 15852).
 
-*Renewable energy technology* means -
+*Renewable energy technology* means—
 
 (1) Technologies that use renewable energy to provide light, heat, cooling, or mechanical or electrical energy for use in facilities or other activities; or
 
@@ -762,11 +762,11 @@
 
 *Scrap* means personal property that has no value except its basic metallic, mineral, or organic content.
 
-*Segment* means one of two or more divisions, product departments, plants, or other subdivisions of an organization reporting directly to a home office, usually identified with responsibility for profit and/or producing a product or service. The term includes -
+*Segment* means one of two or more divisions, product departments, plants, or other subdivisions of an organization reporting directly to a home office, usually identified with responsibility for profit and/or producing a product or service. The term includes—
 
 (1) Government-owned contractor-operated (GOCO) facilities; and
 
-(2) Joint ventures and subsidiaries (domestic and foreign) in which the organization has -
+(2) Joint ventures and subsidiaries (domestic and foreign) in which the organization has—
 
 (i) A majority ownership; or
 
@@ -776,9 +776,9 @@
 
 *Senior procurement executive* means the individual appointed pursuant to 41 U.S.C. 1702(c) who is responsible for management direction of the acquisition system of the executive agency, including implementation of the unique acquisition policies, regulations, and standards of the executive agency.
 
-*Service-disabled veteran-owned small business concern* -
+*Service-disabled veteran-owned small business concern*—
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
 (i) Not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
@@ -804,9 +804,9 @@
 
 *Simplified acquisition procedures* means the methods prescribed in part 13 for making purchases of supplies or services.
 
-*Simplified acquisition threshold* means $250,000, except for -
+*Simplified acquisition threshold* means $250,000, except for—
 
-(1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), (41 U.S.C. 1903), the term means -
+(1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), (41 U.S.C. 1903), the term means—
 
 (i) $800,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
@@ -816,7 +816,7 @@
 
 *Single, Governmentwide point of entry,* means the one point of entry to be designated by the Administrator of OFPP that will allow the private sector to electronically access procurement opportunities Governmentwide.
 
-*Small business concern* -
+*Small business concern*—
 
 (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria and size standards in 13 CFR part 121 (see 19.102).
 
@@ -824,13 +824,13 @@
 
 *Small business subcontractor* means a concern that does not exceed the size standard for the North American Industry Classification Systems code that the prime contractor determines best describes the product or service being acquired by the subcontract.
 
-*Small Business Teaming Arrangement* -
+*Small Business Teaming Arrangement*—
 
-(1) Means an arrangement where -
+(1) Means an arrangement where—
 
 (i) Two or more small business concerns have formed a joint venture; or
 
-(ii) A small business offeror agrees with one or more other small business concerns to have them act as its subcontractors under a specified Government contract. A Small Business Teaming Arrangement between the offeror and its small business subcontractor(s) exists through a written agreement between the parties that -
+(ii) A small business offeror agrees with one or more other small business concerns to have them act as its subcontractors under a specified Government contract. A Small Business Teaming Arrangement between the offeror and its small business subcontractor(s) exists through a written agreement between the parties that—
 
 (A) Is specifically referred to as a “Small Business Teaming Arrangement”; and
 
@@ -844,7 +844,7 @@
 
 *Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that
 
-(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by -
+(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
@@ -878,7 +878,7 @@
 
 (9) Reports and evaluations of source selection panels, boards, or advisory councils.
 
-(10) Other information marked as “Source Selection Information - See FAR 2.101 and 3.104” based on a case-by-case determination by the head of the agency or the contracting officer, that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
+(10) Other information marked as “Source Selection Information—See FAR 2.101 and 3.104” based on a case-by-case determination by the head of the agency or the contracting officer, that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
 *Special competency* means a special or unique capability, including qualitative aspects, developed incidental to the primary functions of the Federally Funded Research and Development Centers to meet some special need.
 
@@ -914,13 +914,13 @@
 
 *Suspension* means action taken by a suspending official under 9.407 to disqualify a contractor temporarily from Government contracting and Government-approved subcontracting; a contractor that is disqualified is “suspended.”
 
-*Sustainable acquisition* means acquiring goods and services in order to create and maintain conditions -
+*Sustainable acquisition* means acquiring goods and services in order to create and maintain conditions—
 
 (1) Under which humans and nature can exist in productive harmony; and
 
 (2) That permit fulfilling the social, economic, and other requirements of present and future generations.
 
-*System for Award Management (SAM)* means the primary Government repository for prospective Federal awardee and Federal awardee information and the centralized Government system for certain contracting, grants, and other assistance-related processes. It includes -
+*System for Award Management (SAM)* means the primary Government repository for prospective Federal awardee and Federal awardee information and the centralized Government system for certain contracting, grants, and other assistance-related processes. It includes—
 
 (1) Data collected from prospective Federal awardees required for the conduct of business with the Government;
 
@@ -944,9 +944,9 @@
 
 *Unallowable cost* means any cost that, under the provisions of any pertinent law, regulation, or contract, cannot be included in prices, cost-reimbursements, or settlements under a Government contract to which it is allocable.
 
-*Unique and innovative concept,* when used relative to an unsolicited research proposal, means that -
+*Unique and innovative concept,* when used relative to an unsolicited research proposal, means that—
 
-(1) In the opinion and to the knowledge of the Government evaluator, the meritorious proposal -
+(1) In the opinion and to the knowledge of the Government evaluator, the meritorious proposal—
 
 (i) Is the product of original thinking submitted confidentially by one source;
 
@@ -990,11 +990,11 @@
 
 *Value engineering* means an analysis of the functions of a program, project, system, product, item of equipment, building, facility, service, or supply of an executive agency, performed by qualified agency or contractor personnel, directed at improving performance, reliability, quality, safety, and life-cycle costs (41 U.S.C. 1711). For use in the clause at 52.248-2, see the definition at 52.248-2(b).
 
-*Value engineering change proposal* (VECP)- (1) Means a proposal that -
+*Value engineering change proposal* (VECP)- (1) Means a proposal that—
 
 (i) Requires a change to the instant contract to implement; and
 
-(ii) Results in reducing the overall projected cost to the agency without impairing essential functions or characteristics, provided, that it does not involve a change -
+(ii) Results in reducing the overall projected cost to the agency without impairing essential functions or characteristics, provided, that it does not involve a change—
 
 (A) In deliverable end item quantities only;
 
@@ -1002,19 +1002,19 @@
 
 (C) To the contract type only.
 
-(2) For use in the clauses at -
+(2) For use in the clauses at—
 
 (i) 52.248-2, see the definition at 52.248-2(b); and
 
 (ii) 52.248-3, see the definition at 52.248-3(b).
 
-*Veteran-owned small business concern* means a small business concern -
+*Veteran-owned small business concern* means a small business concern—
 
 (1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
 (2) The management and daily business operations of which are controlled by one or more veterans.
 
-*Virgin material* means -
+*Virgin material* means—
 
 (1) Previously unused raw material, including previously unused copper, aluminum, lead, zinc, iron, other metal or metal ore; or
 
@@ -1028,9 +1028,9 @@
 
 *Water consumption intensity* means water consumption per square foot of building space.
 
-*Women-owned small business concern* means -
+*Women-owned small business concern* means—
 
-(1) A small business concern -
+(1) A small business concern—
 
 (i) That is at least 51 percent owned by one or more women; or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
@@ -1038,7 +1038,7 @@
 
 (2) A small business concern eligible under the Women-Owned Small Business Program in accordance with 13 CFR part 127 (see subpart 19.15).
 
-*Women-Owned Small Business (WOSB) Program.* (1) *Women-Owned Small Business (WOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to -
+*Women-Owned Small Business (WOSB) Program.* (1) *Women-Owned Small Business (WOSB) Program* means a program that authorizes contracting officers to limit competition, including award on a sole-source basis, to—
 
 (i) Economically disadvantaged women-owned small business (EDWOSB) concerns eligible under the WOSB Program for Federal contracts assigned a North American Industry Classification Systems (NAICS) code in an industry in which the Small Business Administration (SBA) has determined that WOSB concerns are underrepresented in Federal procurement; and
 
@@ -1050,4 +1050,6 @@
 
 *Writing* or *written* (see “in writing”).
 
-[66 FR 2118, Jan. 10, 2001]Editorial Note:For Federal Register citations affecting section 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[66 FR 2118, Jan. 10, 2001]Editorial Notes:1.For Federal Register citations affecting section 2.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 88 FR 10058, Feb. 16, 2023, the effective date of the amendments to section 2.101 at 88 FR 9739, Feb. 14, 2023, was corrected from Feb. 14, 2023 to Mar. 16, 2023.

@@ -1,5 +1,7 @@
 ##### § 70.20 Application. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) A claimant may apply for beneficiary travel orally or in writing but must provide VA the receipt for each expense other than for mileage.
 
 (b) A claimant must apply for payment of beneficiary travel within 30 calendar days after completing beneficiary travel that does not include a special mode of transportation.

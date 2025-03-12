@@ -1,5 +1,7 @@
 ##### § 96.07-5 Ocean, coastwise, or Great Lakes service. #####
 
+Link to an amendment published at 88 FR 10030, Feb. 16, 2023.
+
 (a) Vessels in ocean, coastwise, or Great Lakes service, except unmanned barges, shall be fitted with anchors. chains, and hawsers in general agreement with the Standards established by the American Bureau of Shipping, see Subpart 90.35 of this subchapter.
 
 (b) In addition to the provisions of paragraph (a) of this section, the following requirements and alternatives also apply:

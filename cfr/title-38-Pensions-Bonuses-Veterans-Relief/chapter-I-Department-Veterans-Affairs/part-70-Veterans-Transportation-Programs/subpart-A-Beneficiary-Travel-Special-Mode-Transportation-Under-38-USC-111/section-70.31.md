@@ -1,5 +1,7 @@
 ##### § 70.31 Deductibles. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) VA shall deduct an amount established by the Secretary for each one-way trip from the amount otherwise payable under this part for such one-way trip, except that:
 
 (1) VA shall not deduct any amounts in a calendar month after the completion of six one-way trips for which deductions were made in such calendar month, and

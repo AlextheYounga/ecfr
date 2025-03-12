@@ -1,6 +1,6 @@
 ##### § 160.135-5 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at Commandant (CG-ENG-4), U.S. Coast Guard, 2100 2nd Street, SW., Stop 7126, Washington, DC 20593-7126. You may also inspect this material at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* You may obtain copies of the material from the sources specified in the following paragraphs.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959.
 
@@ -50,11 +50,11 @@
 
 (e) International Organization for Standardization (ISO): ISO Central Secretariat [ISO Copyright Office], Case Postale 56, CH-1211 Geneve 20, Switzerland.
 
-(1) ISO 527-1:1993(E), Plastics - Determination of tensile properties, part 1: General Principles, First Edition (June 15, 1993), IBR approved for § 160.135-11 (“ISO 527”).
+(1) ISO 527-1:1993(E), Plastics—Determination of tensile properties, part 1: General Principles, First Edition (June 15, 1993), IBR approved for § 160.135-11 (“ISO 527”).
 
-(2) ISO 1172:1996(E), Textile-glass-reinforced plastics - Prepregs, moulding compounds and laminates - Determination of the textile-glass and mineral-filler content - Calcination methods, Second Edition (December 15, 1996), IBR approved for §§ 160.135-11 and 160.135-15 (“ISO 1172”).
+(2) ISO 1172:1996(E), Textile-glass-reinforced plastics—Prepregs, moulding compounds and laminates—Determination of the textile-glass and mineral-filler content—Calcination methods, Second Edition (December 15, 1996), IBR approved for §§ 160.135-11 and 160.135-15 (“ISO 1172”).
 
-(3) ISO 14125:1998(E), Fibre-reinforced plastic composites - Determination of flexural properties, First Edition (March 1, 1998), IBR approved for § 160.135-11 (“ISO 14125”).
+(3) ISO 14125:1998(E), Fibre-reinforced plastic composites—Determination of flexural properties, First Edition (March 1, 1998), IBR approved for § 160.135-11 (“ISO 14125”).
 
 (f) Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robbins Avenue, Philadelphia, PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 
@@ -66,4 +66,4 @@
 
 (4) MIL-R-21607E(SH), Military Specification, Resins, Polyester, Low Pressure Laminating, Fire-Retardant, (May 25, 1990), IBR approved for § 160.135-11,
 
-[USCG-2010-0048, 76 FR 62987, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014]
+[USCG-2010-0048, 76 FR 62987, Oct. 11, 2011, as amended by 79 FR 44140, July 30, 2014; USCG-2022-0323, 88 FR 10031, Feb. 16, 2023]

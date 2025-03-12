@@ -1,5 +1,7 @@
 ##### § 70.4 Criteria for approval. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) VA will approve payment for beneficiary travel under this part if:
 
 (1) The travel was made to obtain care or services for a person who is eligible for beneficiary travel payments under § 70.10,

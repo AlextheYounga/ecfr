@@ -1,5 +1,7 @@
 ##### § 70.10 Eligible persons. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) The following listed persons are eligible for beneficiary travel payments under this part:
 
 (1) A veteran who travels to or from a VA facility or VA-authorized health care facility in connection with treatment or care for a service-connected disability (regardless of percent of disability).

@@ -1,5 +1,7 @@
 ##### § 70.30 Payment principles. #####
 
+Link to an amendment published at 88 FR 10036, Feb. 16, 2023.Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) Subject to the other provisions of this section and subject to the deductibles required under § 70.31, VA will pay the following for beneficiary travel by an eligible beneficiary when travel expenses are actually incurred:
 
 (1) The per mile rate established by the Secretary for the period of travel for use of privately owned vehicle or the actual cost for use of the most economical common carrier (bus, train, taxi, airplane, etc.), for travel to and from VA or VA-authorized health care subject to the following:

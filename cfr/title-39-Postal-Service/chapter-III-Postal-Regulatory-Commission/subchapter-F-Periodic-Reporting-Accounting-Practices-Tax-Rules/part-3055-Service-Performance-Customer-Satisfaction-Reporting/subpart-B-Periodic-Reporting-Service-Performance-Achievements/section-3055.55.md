@@ -1,5 +1,7 @@
 ##### § 3055.55 Periodicals. #####
 
+Link to an amendment published at 88 FR 10042, Feb. 16, 2023.
+
 (a) *Within County Periodicals.* For the Within County Periodicals product within the Periodicals class, report the:
 
 (1) On-time service performance (as a percentage rounded to one decimal place), provided at the Postal Administrative Area and National levels; and

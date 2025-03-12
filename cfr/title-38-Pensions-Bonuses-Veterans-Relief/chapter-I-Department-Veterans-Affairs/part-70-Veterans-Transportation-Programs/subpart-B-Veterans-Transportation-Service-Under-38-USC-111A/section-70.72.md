@@ -1,5 +1,7 @@
 ##### § 70.72 Types of transportation. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 The following types of transportation may be provided by VA facilities through VTS:
 
 (a) *Door-to-door service.* VA facilities may use VTS to transport, on a scheduled or unscheduled basis, eligible persons between a VA or VA-authorized facility and their residence or a place where the person is staying. VA facilities may use VTS to transport eligible persons to and from a VA or VA-authorized facility and another location identified by the person when it is financially favorable to the government to do so.

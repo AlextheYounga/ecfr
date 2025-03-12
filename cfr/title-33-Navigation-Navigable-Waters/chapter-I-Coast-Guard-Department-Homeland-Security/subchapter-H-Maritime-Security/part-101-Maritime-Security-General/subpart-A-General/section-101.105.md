@@ -8,7 +8,7 @@ Unless otherwise specified, as used in this subchapter:
 
 *Area Maritime Security (AMS) Assessment* means an analysis that examines and evaluates the infrastructure and operations of a port taking into account possible threats, vulnerabilities, and existing protective measures, procedures and operations.
 
-*Area Maritime Security (AMS) Committee* means the committee established pursuant to 46 U.S.C. 70112(a)(2)(A). This committee can be the Port Security Committee established pursuant to Navigation and Vessel Inspection Circular (NVIC) 09-02 change 2, available from the cognizant Captain of the Port (COTP) or at *http://www.uscg.mil/hq/cg5/nvic/.*
+*Area Maritime Security (AMS) Committee* means the committee established pursuant to 46 U.S.C. 70112(a)(2)(A). This committee can be the Port Security Committee established pursuant to Navigation and Vessel Inspection Circular (NVIC) 09-02 series, available from the cognizant Captain of the Port (COTP) or at *https://www.dco.uscg.mil/Our-Organization/NVIC/*.
 
 *Area Maritime Security (AMS) Plan* means the plan developed pursuant to 46 U.S.C. 70103(b). This plan may be the Port Security plan developed pursuant to NVIC 09-02 provided it meets the requirements of part 103 of this subchapter.
 
@@ -96,7 +96,7 @@ Unless otherwise specified, as used in this subchapter:
 
 *Foreign vessel* means a vessel of foreign registry or a vessel operated under the authority of a country, except the U.S., that is engaged in commerce.
 
-*General shipyard facility* means -
+*General shipyard facility* means—
 
 (1) For operations on land, any structure or appurtenance thereto designed for the construction, repair, rehabilitation, refurbishment, or rebuilding of any vessel, including graving docks, building ways, ship lifts, wharves, and pier cranes; the land necessary for any structures or appurtenances; and the equipment necessary for the performance of any function referred to in this definition; and
 
@@ -144,7 +144,7 @@ Unless otherwise specified, as used in this subchapter:
 
 *Owner or operator* means any person or entity that owns, or maintains operational control over, any facility, vessel, or OCS facility subject to this subchapter. This includes a towing vessel that has operational control of an unmanned vessel when the unmanned vessel is attached to the towing vessel and a facility that has operational control of an unmanned vessel when the unmanned vessel is not attached to a towing vessel and is moored to the facility; attachment begins with the securing of the first mooring line and ends with the casting-off of the last mooring line.
 
-*Passenger vessel* means -
+*Passenger vessel* means—
 
 (1) On an international voyage, a vessel carrying more than 12 passengers, including at least one passenger-for-hire; and
 
@@ -168,7 +168,7 @@ Unless otherwise specified, as used in this subchapter:
 
 *Port of call* means a U.S. port where a cruise ship makes a scheduled or unscheduled stop in the course of its voyage and passengers are allowed to embark and disembark the vessel or its tenders.
 
-*Public access facility* means a facility -
+*Public access facility* means a facility—
 
 (1) That is used by the public primarily for purposes such as recreation, entertainment, retail, or tourism, and not for receiving vessels subject to part 104;
 
@@ -240,7 +240,7 @@ Unless otherwise specified, as used in this subchapter:
 
 *Vessel Security Officer (VSO)* means the person onboard the vessel, accountable to the Master, designated by the Company as responsible for security of the vessel, including implementation and maintenance of the Vessel Security Plan, and for liaison with the Facility Security Officer and the vessel's Company Security Officer.
 
-*Vessel stores* means -
+*Vessel stores* means—
 
 (1) Materials that are on board a vessel for the upkeep, maintenance, safety, operation or navigation of the vessel; and
 

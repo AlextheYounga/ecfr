@@ -6,7 +6,7 @@ The following procedures will be observed in the handling of applications for pe
 
 (b) *Public meeting.* (1) Public meetings will be held when there are substantial issues concerning the effect that the proposed bridge will have on the reasonable needs of navigation.
 
-(2) Notice of the public meeting will be published in the Federal Register. Notice of the meeting is also mailed to State, county, and municipal authorities and all other known interested parties. It is also posted at the post office nearest the site and public places in the vicinity.
+(2) Notice of the public meeting will be published in the Federal Register. Notice of the meeting is also emailed or mailed to State, county, municipal authorities, and all other known interested parties. It may also be posted in public places in the vicinity of the project or published in local publications and through local media channels, or both.
 
 (3) Meetings are public and conducted in an informal manner. A designated Coast Guard official presides. The submission of written statements is invited and encouraged. Anyone desiring to do so may speak. Statements, written or oral, are not under oath, and cross-examination is not permitted. No fixed order has been established for the presentation of evidence or argument although proponents are generally heard first, followed by opponents with full opportunity afforded for rebuttals.
 
@@ -28,4 +28,4 @@ The following procedures will be observed in the handling of applications for pe
 
 (e) *Permit amendments.* Applications for amendments to permits will be processed in the same manner as permit applications. The District Commander may approve amendments to any permits which that official is authorized to issue under § 1.01-60(b) of this chapter. All other amendments must be approved by the Commandant.
 
-(5 U.S.C. 559; 14 U.S.C. 503; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981; 46 FR 42268, Aug. 20, 1981, as amended by CGD 82-006, 47 FR 36641, Aug. 23, 1982; CGD 82-074, 47 FR 51865, Nov. 18, 1982; USCG-2008-0179, 73 FR 35012, June 19, 2008; USCG-2010-0351, 75 FR 49410, Aug. 13, 2010: USCG-2012-0306, 77 FR 37314, June 21, 2012; USCG-2013-0397, 78 FR 39174, July 1, 2013; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020]
+(5 U.S.C. 559; 14 U.S.C. 503; 33 U.S.C. 401, 491, 499, and 525; and 49 CFR 1.46(c) and (q))[CGD 80-099, 46 FR 38354, July 27, 1981; 46 FR 42268, Aug. 20, 1981, as amended by CGD 82-006, 47 FR 36641, Aug. 23, 1982; CGD 82-074, 47 FR 51865, Nov. 18, 1982; USCG-2008-0179, 73 FR 35012, June 19, 2008; USCG-2010-0351, 75 FR 49410, Aug. 13, 2010: USCG-2012-0306, 77 FR 37314, June 21, 2012; USCG-2013-0397, 78 FR 39174, July 1, 2013; USCG-2020-0304, 85 FR 58278, Sept. 18, 2020; USCG-2022-0323, 88 FR 10029, Feb. 16, 2023]

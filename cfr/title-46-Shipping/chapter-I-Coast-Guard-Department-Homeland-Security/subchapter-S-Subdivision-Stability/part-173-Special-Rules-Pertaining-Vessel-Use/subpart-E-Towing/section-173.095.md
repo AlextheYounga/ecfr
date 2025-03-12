@@ -4,9 +4,9 @@
 
 (b) The vessel's metacentric height (GM) must be equal to or greater than the following:
 
-![](/graphics/ec01mr91.032.gif)where -N = number of propellers.P = shaft power per shaft in horsepower (kilowatts).D = propeller diameter in feet (meters).s = that fraction of the propeller circle cylinder which would be intercepted by the rudder if turned to 45 degrees from the vessel's centerline.h = vertical distance from propeller shaft centerline at rudder to towing bitts in feet (meters).Δ = displacement in long tons (metric tons).f = minimum freeboard along the length of the vessel in feet (meters).B = molded beam in feet (meters).K = 38 in English units.K = 13.93 in metric units.
+![](/graphics/er16fe23cfr1.eps.gif)where—N = number of propellers.P = shaft power per shaft in horsepower (kilowatts).D = propeller diameter in feet (meters).s = that fraction of the propeller circle cylinder which would be intercepted by the rudder if turned to 45 degrees from the vessel's centerline.h = vertical distance from propeller shaft centerline at rudder to towing bitts in feet (meters).Δ = displacement in long tons (metric tons).f = minimum freeboard along the length of the vessel in feet (meters).B = molded beam in feet (meters).K = 38 in English units.K = 13.93 in metric units.
 
-(c) When a heeling arm curve, calculated in accordance with paragraph (d) of this section, is plotted against the vessel's righting arm curve -
+(c) When a heeling arm curve, calculated in accordance with paragraph (d) of this section, is plotted against the vessel's righting arm curve—
 
 (1) Equilibrium must be reached before the downflooding angle; and
 
@@ -20,12 +20,14 @@
 
 (d) The heeling arm curve specified in paragraph (c) of this section must be calculated by the following equation:
 
-![](/graphics/ec01mr91.033.gif)where -HA = heeling arm.θ = angle of heel.N, P, D, K, s, h, and Δ are as defined in paragraph (b) of this section.
+![](/graphics/er16fe23cfr2.eps.gif)where—HA = heeling arm.θ = angle of heel.N, P, D, K, s, h, and Δ are as defined in paragraph (b) of this section.
 
 (e) For the purpose of this section, downflooding angle means the static angle from the intersection of the vessel's centerline and waterline in calm water to the first opening that does not close watertight automatically.
 
-(f) For the purpose of this section, at each angle of heel, a vessel's righting arm may be calculated considering either -
+(f) For the purpose of this section, at each angle of heel, a vessel's righting arm may be calculated considering either—
 
 (1) The vessel is permitted to trim free until the trimming moment is zero; or
 
 (2) The vessel does not trim as it heels.
+
+[CGD 79-023, 48 FR 51045, Nov. 4, 1983, as amended at 88 FR 10032, Feb. 16, 2023 ]

@@ -1,6 +1,6 @@
 ##### § 160.077-5 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish a notice of change in the Federal Register and make the material available to the public. All approved material is on file at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Systems, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509. You may also contact the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All material is available from the sources listed below.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, 877-909-2786, *http://www.astm.org.*
 
@@ -40,4 +40,4 @@
 
 (2) UL 1517, Standard for Hybrid Personal Flotation Devices (November 12, 1984), incorporation by reference approved for 46 CFR 160.077-5(e)(2); 160.077-11(a)(5)(ii) and(g)(1); 160.077-15(b)(12); 160.077-17(b)(9); 160.077-19(a)(5) and (b)(1) through (18); 160.077-21(c)(1) through (5); 160.077-23(h)(4) through (7); 160.077-27(e)(1) and (4); and 160.077-29(c)(5), (7), and (9), and (d)(1) and (5).
 
-[USCG-2012-0866, 78 FR 13251, Feb. 27, 2013, as amended by USCG-2013-0671, 78 FR 60158, Sept. 30, 2013]
+[USCG-2012-0866, 78 FR 13251, Feb. 27, 2013, as amended by USCG-2013-0671, 78 FR 60158, Sept. 30, 2013; USCG-2022-0323, 88 FR 10030, Feb. 16, 2023]

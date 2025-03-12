@@ -12,12 +12,10 @@
 
 (5) May cover more than one facility to the extent that they share similarities in design and operations, if authorized and approved by the cognizant COTP.
 
-(b) The FSP must be submitted for approval to the cognizant COTP in a written or electronic format. Information for submitting the FSP electronically can be found at *https://homeport.uscg.mil/cgi-bin/st/portal/uscg\_docs*
-
-*/MyCG/Editorial/20090220/FSP\_Submissi\_**FAQ05DEC.pdf?id=00388e15db7e7bf4b1fc3**556059dac7c3e063b57&user\_id=c5535d249**7d5d673ff261157e034a1ea.*
+(b) The FSP must be submitted for approval to the cognizant COTP in a written or electronic format.
 
 (c) The FSP is sensitive security information and must be protected in accordance with 49 CFR part 1520.
 
 (d) If the FSP is kept in an electronic format, procedures must be in place to prevent its unauthorized deletion, destruction, or amendment.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60542, Oct. 22, 2003; USCG-2013-0397, 78 FR 39173, July 1, 2013]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60542, Oct. 22, 2003; USCG-2013-0397, 78 FR 39173, July 1, 2013; USCG-2022-0323, 88 FR 10029, Feb. 16, 2023]

@@ -1,5 +1,7 @@
 ##### § 70.2 Definitions. #####
 
+Link to an amendment published at 88 FR 10036, Feb. 16, 2023.Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 For purposes of this part:
 
 *Attendant* means an individual traveling with a beneficiary who is eligible for beneficiary travel and requires the aid and/or physical assistance of another person.

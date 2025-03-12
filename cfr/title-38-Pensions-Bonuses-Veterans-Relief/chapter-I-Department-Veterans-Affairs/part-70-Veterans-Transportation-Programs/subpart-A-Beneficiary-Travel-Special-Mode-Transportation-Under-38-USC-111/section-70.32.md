@@ -1,5 +1,7 @@
 ##### § 70.32 Reimbursement or prior payment. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 (a) Payment will be made on a reimbursement basis after the travel has occurred, except that:
 
 (1) Upon completion of examination, treatment, or care, payment may be made before the return travel has occurred, and

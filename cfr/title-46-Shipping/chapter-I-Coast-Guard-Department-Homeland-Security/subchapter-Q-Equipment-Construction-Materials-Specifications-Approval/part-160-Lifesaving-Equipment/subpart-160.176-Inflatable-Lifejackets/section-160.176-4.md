@@ -1,6 +1,6 @@
 ##### § 160.176-4 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish a notice of change in the Federal Register and make the material available to the public. All approved material is on file at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509. You may also inspect this material or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All material is available from the sources listed below.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) ASTM International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959, 877-909-2786, *http://www.astm.org.*
 
@@ -10,7 +10,7 @@
 
 (3) ASTM D 975-98, Standard Specification for Diesel Fuel Oils, incorporation by reference approved for § 160.176-13.
 
-(4) ASTM D1434-82 (Reapproved 2009)ε1, Standard Test Method for Determining Gas Permeability Characteristics of Plastic Film and Sheeting - (approved May 1, 2009), incorporation by reference approved for § 160.176-13.
+(4) ASTM D1434-82 (Reapproved 2009)ε1, Standard Test Method for Determining Gas Permeability Characteristics of Plastic Film and Sheeting—(approved May 1, 2009), incorporation by reference approved for § 160.176-13.
 
 (c) Federal Aviation Administration, Aircraft Certification Service, 800 Independence Avenue SW., Washington, DC 20591, 202-385-6346, *http://www.faa.gov/aircraft/air\_cert/design approvals/tso.*
 
@@ -34,7 +34,7 @@
 
 (2) Federal Standard No. 751a, Stitches, Seams, and Stitching, January 25, 1965, incorporation by reference
 
-(3) MIL-L-24611 - Life Preserver Support Package For Life Preserver, MK 4, dated May 18, 1982, incorporation by reference approved for § 160.176-8.
+(3) MIL-L-24611—Life Preserver Support Package For Life Preserver, MK 4, dated May 18, 1982, incorporation by reference approved for § 160.176-8.
 
 (e) National Institute of Standards and Technology (NIST) (formerly National Bureau of Standards), c/o Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402, 202.512.1800, *http://www.gpo.gov.*
 
@@ -48,4 +48,4 @@
 
 (2) [Reserved]
 
-[USCG-2012-0866, 78 FR 13252, Feb. 27, 2013, as amended by USCG-2013-0671, 78 FR 60159, Sept. 30, 2013]
+[USCG-2012-0866, 78 FR 13252, Feb. 27, 2013, as amended by USCG-2013-0671, 78 FR 60159, Sept. 30, 2013; USCG-2022-0323, 88 FR 10031, Feb. 16, 2023]

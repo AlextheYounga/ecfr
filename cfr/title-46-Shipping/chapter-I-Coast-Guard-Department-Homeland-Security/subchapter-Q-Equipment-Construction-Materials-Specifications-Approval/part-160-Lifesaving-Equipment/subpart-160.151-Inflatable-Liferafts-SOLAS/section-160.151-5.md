@@ -1,6 +1,6 @@
 ##### § 160.151-5 Incorporation by reference. #####
 
-(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509. You may also inspect this material at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* You may obtain copies of the material from the sources specified in the following paragraphs.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at Coast Guard Headquarters and at the National Archives and Records Administration (NARA). Contact the Coast Guard at: Commandant (CG-ENG-4), U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE, Washington, DC 20593-7509; or email *typeapproval@uscg.mil* or visit *https://www.dco.uscg.mil/CG-ENG-4/.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959.
 
@@ -30,11 +30,11 @@
 
 (e) International Standards Organization (ISO): ISO Central Secretariat [ISO Copyright Office], Case Postale 56, CH 1211 Geneva 20, Switzerland.
 
-(1) ISO 15738:2002(E), Ships and marine technology - Gas inflation systems for inflatable life-saving appliances, First Edition (February 1, 2002), IBR approved for § 160.151-15 (“ISO 15738”).
+(1) ISO 15738:2002(E), Ships and marine technology—Gas inflation systems for inflatable life-saving appliances, First Edition (February 1, 2002), IBR approved for § 160.151-15 (“ISO 15738”).
 
-(2) ISO 17339:2002(E), Ships and marine technology - Sea anchors for survival craft and rescue boats, First Edition (November 15, 2002), IBR approved for § 160.151-21 (“ISO 17339”).
+(2) ISO 17339:2002(E), Ships and marine technology—Sea anchors for survival craft and rescue boats, First Edition (November 15, 2002), IBR approved for § 160.151-21 (“ISO 17339”).
 
-(3) ISO 18813:2006(E), Ships and marine technology - Survival equipment for survival craft and rescue boats, First Edition (April 1, 2006), IBR approved for § 160.151-21 (“ISO 18813”).
+(3) ISO 18813:2006(E), Ships and marine technology—Survival equipment for survival craft and rescue boats, First Edition (April 1, 2006), IBR approved for § 160.151-21 (“ISO 18813”).
 
 (f) Military Specifications and Standards, Standardization Documents Order Desk, Building 4D, 700 Robins Avenue, Philadelphia PA 19111-5094, *https://assist.daps.dla.mil/quicksearch/.*
 
@@ -42,4 +42,4 @@
 
 (2) [Reserved]
 
-[USCG-2010-0048, 76 FR 62996, Oct. 11, 2011, as amended by 77 FR 9865, Feb. 21, 2012; USCG-2013-0671, 78 FR 60159, Sept. 30, 2013]
+[USCG-2010-0048, 76 FR 62996, Oct. 11, 2011, as amended by 77 FR 9865, Feb. 21, 2012; USCG-2013-0671, 78 FR 60159, Sept. 30, 2013; USCG-2022-0323, 88 FR 10031, Feb. 16, 2023]

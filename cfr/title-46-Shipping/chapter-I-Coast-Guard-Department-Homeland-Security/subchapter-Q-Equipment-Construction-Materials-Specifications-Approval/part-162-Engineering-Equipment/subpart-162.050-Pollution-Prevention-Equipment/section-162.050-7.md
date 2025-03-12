@@ -1,6 +1,6 @@
 ##### § 162.050-7 Approval procedures. #####
 
-(a) An application for approval of equipment under this subpart must either be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for submitting the VSP electronically can be found at *http://www.uscg.mil/HQ/MSC.*
+(a) An application for approval of equipment under this subpart must either be delivered by visitors to the Commanding Officer, Marine Safety Center, U.S. Coast Guard, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593, or transmitted by mail to: Commanding Officer (MSC), Attn: Marine Safety Center, U.S. Coast Guard Stop 7430, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7430, in a written or electronic format. Information for electronic submittals can be found at *https://www.uscg.mil/HQ/MSC*.
 
 (b) The application is examined by the Coast Guard to determine whether the item complies with the design requirements and vibration standard prescribed in this subpart and to determine what probability the item has of passing the approval tests. The applicant is notified of the results of the examination.
 
@@ -14,7 +14,7 @@
 
 (g) The Commanding Officer, USCG Marine Safety Center, sends a copy of the test report to the applicant and advises him whether the item is approved. If the item is approved, an approval certificate is sent to the applicant. The approval certificate lists conditions of approval applicable to the item.
 
-(h) A separator is approved under this subpart if -
+(h) A separator is approved under this subpart if—
 
 (1) It meets the design requirements in § 162.050-21 and is tested in accordance with this subpart;
 
@@ -26,7 +26,7 @@
 
 (5) Any substance used in operating the separator that requires certification under part 147 of this chapter as an article of ships' stores or supplies has been certified.
 
-(i) An oil content meter is approved under this subpart if -
+(i) An oil content meter is approved under this subpart if—
 
 (1) It meets the design requirements in § 162.050-25 and is tested in accordance with this subpart;
 
@@ -38,7 +38,7 @@
 
 (5) Any substance used in operating the monitor that requires certification under part 147 of this chapter as an article of ships' stores or supplies has been certified.
 
-(j) A bilge alarm is approved under this subpart if -
+(j) A bilge alarm is approved under this subpart if—
 
 (1) It meets the design requirements in § 162.050-33 and is tested in accordance with this subpart;
 

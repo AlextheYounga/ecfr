@@ -6,7 +6,7 @@
 
 (1) The new hire has applied for a TWIC in accordance with 49 CFR part 1572 by completing the full enrollment process, paying the user fee, and is not currently engaged in a waiver or appeal process. The OCS facility owner or operator or Facility Security Officer (FSO) must have th enew hire sign a statement affirming this, and must retain the signed statement until the new hire receives a TWIC;
 
-(2) The OCS facility owner or operator or the FSO enters the following information on the new hire into the Coast Guard's Homeport Web site (*http://homeport.uscg.mil*):
+(2) The OCS facility owner or operator or the FSO enters the following information on the new hire into the Coast Guard's Homeport Web site (*https://homeport.uscg.mil*):
 
 (i) Full legal name, including middle name if one exists;
 
@@ -28,4 +28,4 @@
 
 (d) The new hire may not begin working at the OCS facility under the provisions of this section until the owner, operator, or FSO receives notification, via Homeport or some other means, the new hire has passed an initial name check.
 
-[USCG-2006-24196, 72 FR 3587, Jan. 25, 2007, as amended by USCG-2007-28915, 81 FR 57713, Aug. 23, 2016]
+[USCG-2006-24196, 72 FR 3587, Jan. 25, 2007, as amended by USCG-2007-28915, 81 FR 57713, Aug. 23, 2016; USCG-2022-0323, 88 FR 10029, Feb. 16, 2023]

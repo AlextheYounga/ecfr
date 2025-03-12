@@ -1,5 +1,7 @@
 ##### § 70.71 Eligibility. #####
 
+Link to an amendment published at 88 FR 10037, Feb. 16, 2023.
+
 Except as provided in paragraph (j) of this section, VA facilities may provide VTS benefits to the following:
 
 (a) *Persons eligible for beneficiary travel.* All persons eligible for beneficiary travel benefits in § 70.10 are eligible for VTS benefits (however, persons cannot claim benefits under both programs for the same trip or portion of a trip).

@@ -1,5 +1,7 @@
 ##### § 3055.60 Package Services. #####
 
+Link to an amendment published at 88 FR 10042, Feb. 16, 2023.
+
 (a) *Single-Piece Parcel Post.* For the Single-Piece Parcel Post product within the Package Services class, report the:
 
 (1) On-time service performance (as a percentage rounded to one decimal place), disaggregated by mail subject to the 2-day through 4-day and 5-day through 20-day service standards, provided at the District, Postal Administrative Area, and National levels; and
