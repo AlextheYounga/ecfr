@@ -1,5 +1,7 @@
 ##### § 252.56 Methodologies and practices. #####
 
+Link to an amendment published at 85 FR 15605, Mar. 18, 2020.
+
 (a) *Potential impact on capital.* In conducting a stress test under § 252.54, for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
 
 (1) Losses, pre-provision net revenue, provision for credit losses, and net income; and

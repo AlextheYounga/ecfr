@@ -1,5 +1,7 @@
 ##### § 34.47 Personnel monitoring. #####
 
+Link to an amendment published at 85 FR 15351, Mar. 18, 2020.
+
 (a) The licensee may not permit any individual to act as a radiographer or a radiographer's assistant unless, at all times during radiographic operations, each individual wears, on the trunk of the body, a direct reading dosimeter, an operating alarm ratemeter, and a personnel dosimeter that is processed and evaluated by an accredited National Voluntary Laboratory Accreditation Program (NVLAP) processor. At permanent radiography installations where other appropriate alarming or warning devices are in routine use, the wearing of an alarming ratemeter is not required.
 
 (1) Pocket dosimeters must have a range from zero to 2 millisieverts (200 millirems) and must be recharged at the start of each shift. Electronic personal dosimeters may only be used in place of ion-chamber pocket dosimeters.

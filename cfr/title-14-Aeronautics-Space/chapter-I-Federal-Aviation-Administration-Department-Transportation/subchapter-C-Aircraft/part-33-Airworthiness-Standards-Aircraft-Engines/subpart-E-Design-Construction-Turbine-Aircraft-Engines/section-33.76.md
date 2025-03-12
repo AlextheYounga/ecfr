@@ -24,15 +24,15 @@
 
 (4) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of § 33.94(a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph.
 
-Table 1 to § 33.76 - Large Bird Weight Requirements
+Table 1 to § 33.76—Large Bird Weight Requirements
 
-|Engine Inlet Throat Area (A) - Square-meters (square-inches)|                                   Bird weight kg. (lb.)                                   |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|                      1.35 (2,092)\>A                       |1.85 (4.07) minimum, unless a smaller bird is determined to be a more severe demonstration.|
-|                1.35 (2,092)≤A\<3.90 (6,045)                |                                        2.75 (6.05)                                        |
-|                       3.90 (6,045)≤A                       |                                        3.65 (8.03)                                        |
+|Engine Inlet Throat Area (A)—Square-meters (square-inches)|                                   Bird weight kg. (lb.)                                   |
+|----------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|                     1.35 (2,092)\>A                      |1.85 (4.07) minimum, unless a smaller bird is determined to be a more severe demonstration.|
+|               1.35 (2,092)≤A\<3.90 (6,045)               |                                        2.75 (6.05)                                        |
+|                      3.90 (6,045)≤A                      |                                        3.65 (8.03)                                        |
 
-(c) *Small and medium flocking bir.d* Compliance with the small and medium bird ingestion requirements shall be in accordance with the following:
+(c) *Small and medium flocking bird.* Compliance with the small and medium bird ingestion requirements shall be in accordance with the following:
 
 (1) Analysis or component test, or both, acceptable to the Administrator, shall be conducted to determine the critical ingestion parameters affecting power loss and damage. Critical ingestion parameters shall include, but are not limited to, the effects of bird speed, critical target location, and first stage rotor speed. The critical bird ingestion speed should reflect the most critical condition within the range of airspeeds used for normal flight operations up to 1,500 feet above ground level, but not less than V1 minimum for airplanes.
 
@@ -92,37 +92,37 @@ Table 1 to § 33.76 - Large Bird Weight Requirements
 
 (10) If any engine operating limit(s) is exceeded during the initial 2 minutes without power lever movement, as provided by paragraph (c)(7)(ii) of this section, then it shall be established that the limit exceedence will not result in an unsafe condition.
 
-Table 2 to § 33.76 - Medium Flocking Bird Weight and Quantity Requirements
+Table 2 to § 33.76—Medium Flocking Bird Weight and Quantity Requirements
 
-|Engine Inlet Throat Area (A) -  <br/>Square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
-|------------------------------------------------------------------|-------------|---------------------|
-|                          0.05 (77.5)\>A                          |    none     |                     |
-|                    0.05 (77.5)≤A \<0.10 (155)                    |      1      |     0.35 (0.77)     |
-|                    0.10 (155)≤A \<0.20 (310)                     |      1      |     0.45 (0.99)     |
-|                    0.20 (310)≤A \<0.40 (620)                     |      2      |     0.45 (0.99)     |
-|                    0.40 (620)≤A \<0.60 (930)                     |      2      |     0.70 (1.54)     |
-|                   0.60 (930)≤A \<1.00 (1,550)                    |      3      |     0.70 (1.54)     |
-|                  1.00 (1,550)≤A \<1.35 (2,092)                   |      4      |     0.70 (1.54)     |
-|                  1.35 (2,092)≤A \<1.70 (2,635)                   |      1      |     1.15 (2.53)     |
-|                                                                  |   plus 3    |     0.70 (1.54)     |
-|                  1.70 (2,635)≤A \<2.10 (3,255)                   |      1      |     1.15 (2.53)     |
-|                                                                  |   plus 4    |     0.70 (1.54)     |
-|                  2.10 (3,255)≤A \<2.50 (3,875)                   |      1      |     1.15 (2.53)     |
-|                                                                  |   plus 5    |     0.70 (1.54)     |
-|                   2.50 (3,875)≤A \<3.90 (6045)                   |      1      |     1.15 (2.53)     |
-|                                                                  |   plus 6    |     0.70 (1.54)     |
-|                   3.90 (6045)≤A \<4.50 (6975)                    |      3      |     1.15 (2.53)     |
-|                          4.50 (6975)≤A                           |      4      |     1.15 (2.53)     |
+|Engine Inlet Throat Area (A)—  <br/>Square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
+|-----------------------------------------------------------------|-------------|---------------------|
+|                         0.05 (77.5)\>A                          |    none     |                     |
+|                   0.05 (77.5)≤A \<0.10 (155)                    |      1      |     0.35 (0.77)     |
+|                    0.10 (155)≤A \<0.20 (310)                    |      1      |     0.45 (0.99)     |
+|                    0.20 (310)≤A \<0.40 (620)                    |      2      |     0.45 (0.99)     |
+|                    0.40 (620)≤A \<0.60 (930)                    |      2      |     0.70 (1.54)     |
+|                   0.60 (930)≤A \<1.00 (1,550)                   |      3      |     0.70 (1.54)     |
+|                  1.00 (1,550)≤A \<1.35 (2,092)                  |      4      |     0.70 (1.54)     |
+|                  1.35 (2,092)≤A \<1.70 (2,635)                  |      1      |     1.15 (2.53)     |
+|                                                                 |   plus 3    |     0.70 (1.54)     |
+|                  1.70 (2,635)≤A \<2.10 (3,255)                  |      1      |     1.15 (2.53)     |
+|                                                                 |   plus 4    |     0.70 (1.54)     |
+|                  2.10 (3,255)≤A \<2.50 (3,875)                  |      1      |     1.15 (2.53)     |
+|                                                                 |   plus 5    |     0.70 (1.54)     |
+|                  2.50 (3,875)≤A \<3.90 (6045)                   |      1      |     1.15 (2.53)     |
+|                                                                 |   plus 6    |     0.70 (1.54)     |
+|                   3.90 (6045)≤A \<4.50 (6975)                   |      3      |     1.15 (2.53)     |
+|                          4.50 (6975)≤A                          |      4      |     1.15 (2.53)     |
 
-Table 3 to § 33.76 - Additional Integrity Assessment
+Table 3 to § 33.76—Additional Integrity Assessment
 
-|Engine Inlet Throat Area (A) -  <br/>square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
-|------------------------------------------------------------------|-------------|---------------------|
-|                         1.35 (2,092)\>A                          |    none     |                     |
-|                  1.35 (2,092)≤A \<2.90 (4,495)                   |      1      |     1.15 (2.53)     |
-|                  2.90 (4,495)≤A \<3.90 (6,045)                   |      2      |     1.15 (2.53)     |
-|                          3.90 (6,045)≤A                          |      1      |     1.15 (2.53)     |
-|                                                                  |   plus 6    |     0.70 (1.54)     |
+|Engine Inlet Throat Area (A)—  <br/>square-meters (square-inches)|Bird quantity|Bird weight kg. (lb.)|
+|-----------------------------------------------------------------|-------------|---------------------|
+|                         1.35 (2,092)\>A                         |    none     |                     |
+|                  1.35 (2,092)≤A \<2.90 (4,495)                  |      1      |     1.15 (2.53)     |
+|                  2.90 (4,495)≤A \<3.90 (6,045)                  |      2      |     1.15 (2.53)     |
+|                         3.90 (6,045)≤A                          |      1      |     1.15 (2.53)     |
+|                                                                 |   plus 6    |     0.70 (1.54)     |
 
 (d) *Large flocking bird.* An engine test will be performed as follows:
 
@@ -168,7 +168,7 @@ Table 3 to § 33.76 - Additional Integrity Assessment
 
 (7) Applicants must show that an unsafe condition will not result if any engine operating limit is exceeded during the run-on period.
 
-Table 4 to § 33.76 - Large Flocking Bird Mass and Weight
+Table 4 to § 33.76—Large Flocking Bird Mass and Weight
 
 |Engine inlet throat area  <br/>(square meters/square inches)|Bird quantity|Bird mass and weight  <br/>(kg (lbs))|
 |------------------------------------------------------------|-------------|-------------------------------------|

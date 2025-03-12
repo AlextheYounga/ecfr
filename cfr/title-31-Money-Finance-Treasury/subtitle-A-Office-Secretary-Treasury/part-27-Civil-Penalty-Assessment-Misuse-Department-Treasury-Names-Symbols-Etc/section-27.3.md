@@ -20,7 +20,7 @@
 
 (b) *Disclaimers.* Any determination of whether a person has violated the provisions of paragraph (a) of this section shall be made without regard to any use of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
-(c) *Civil Penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $8,116 for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $40,576 for each and every use if such use is in a broadcast or telecast.
+(c) *Civil penalty.* An assessing official may impose a civil penalty on any person who violates the provisions of paragraph (a) of this section. The amount of a civil monetary penalty shall not exceed $8,116 for each and every use of any material in violation of paragraph (a), except that such penalty shall not exceed $40,576 for each and every use if such use is in a broadcast or telecast.
 
 (d) *Time limitations.* (1) Civil penalties imposed under this part must be assessed before the end of the three year period beginning on the date of offense charged.
 

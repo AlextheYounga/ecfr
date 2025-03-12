@@ -1,5 +1,7 @@
 ##### § 252.16 Reports of stress test results. #####
 
+Link to an amendment published at 85 FR 15604, Mar. 18, 2020.
+
 (a) *Reports to the Board of stress test results* - (1) *General.* A state member bank must report the results of the stress test to the Board in the manner and form prescribed by the Board, in accordance with paragraphs (a)(2) of this section.
 
 (2) *Timing.* For each stress test cycle in which a stress test is conducted:

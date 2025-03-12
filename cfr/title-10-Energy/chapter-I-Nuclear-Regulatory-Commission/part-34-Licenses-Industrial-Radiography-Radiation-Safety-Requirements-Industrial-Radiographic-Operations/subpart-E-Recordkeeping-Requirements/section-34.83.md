@@ -1,5 +1,7 @@
 ##### § 34.83 Records of personnel monitoring procedures. #####
 
+Link to an amendment published at 85 FR 15351, Mar. 18, 2020.
+
 Each licensee shall maintain the following exposure records specified in § 34.47:
 
 (a) Direct reading dosimeter readings and yearly operability checks required by § 34.47 (b) and (c) for 3 years after the record is made.

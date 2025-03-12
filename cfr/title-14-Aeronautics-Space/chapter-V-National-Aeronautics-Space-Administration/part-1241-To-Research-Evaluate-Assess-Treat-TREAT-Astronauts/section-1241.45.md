@@ -1,0 +1,3 @@
+##### § 1241.45 Collaboration with other agencies. #####
+
+Copies of records generated from medical monitoring, diagnosis, and treatment collected by primary payer facilities and/or relevant health care providers will be acquired by NASA. NASA will collaborate with the Department of Defense Military Health System, Department of Veterans Affairs, and Department of Labor Office of Workers' Compensation and other entities for acquisition of copies of these medical records as allowed by law.

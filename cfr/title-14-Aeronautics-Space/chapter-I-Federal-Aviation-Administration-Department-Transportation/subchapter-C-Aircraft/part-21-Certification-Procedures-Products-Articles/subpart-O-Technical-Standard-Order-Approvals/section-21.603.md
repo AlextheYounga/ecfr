@@ -10,4 +10,4 @@
 
 (c) If the application is deficient, the applicant must, when requested by the FAA, provide any additional information necessary to show compliance with this part. If the applicant fails to provide the additional information within 30 days after the FAA's request, the FAA denies the application and notifies the applicant.
 
-[, as amended by Doc. No. FAA-2018-0119, Amdt. 21-101, 83 FR 9169, Mar. 5, 2018]
+[Docket No. FAA-2006-25877, Amdt. 21-92, 74 FR 53392, Oct. 16, 2009, as amended by Doc. No. FAA-2018-0119, Amdt. 21-101, 83 FR 9169, Mar. 5, 2018]

@@ -1,5 +1,7 @@
 ##### § 36.55 Personnel monitoring. #####
 
+Link to an amendment published at 85 FR 15351, Mar. 18, 2020.
+
 (a) Irradiator operators shall wear a personnel dosimeter that is processed and evaluated by an accredited National Voluntary Laboratory Accreditation Program (NVLAP) processor while operating a panoramic irradiator or while in the area around the pool of an underwater irradiator. The personnel dosimeter processor must be accredited for high energy photons in the normal and accident dose ranges (see 10 CFR 20.1501(c)). Each personnel dosimeter must be assigned to and worn by only one individual. Film badges must be processed at least monthly, and other personnel dosimeters must be processed at least quarterly.
 
 (b) Other individuals who enter the radiation room of a panoramic irradiator shall wear a dosimeter, which may be a pocket dosimeter. For groups of visitors, only two people who enter the radiation room are required to wear dosimeters. If pocket dosimeters are used to meet the requirements of this paragraph, a check of their response to radiation must be done at least annually. Acceptable dosimeters must read within plus or minus 30 percent of the true radiation dose.

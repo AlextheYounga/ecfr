@@ -1,6 +1,6 @@
 ##### § 600.705 Relation to other laws. #####
 
-(a) *General.* Persons affected by these regulations should be aware that other Federal and state statutes and regulations may apply to their activities. Vessel operators may wish to refer to USCG regulations found in the Code of Federal Regulations title 33 - Navigation and Navigable Waters and 46 - Shipping; 15 CFR part 904, subpart D - Permit Sanctions and Denials; and title 43 - Public Lands (in regard to marine sanctuaries).
+(a) *General.* Persons affected by these regulations should be aware that other Federal and state statutes and regulations may apply to their activities. Vessel operators may wish to refer to USCG regulations found in the Code of Federal Regulations title 33—Navigation and Navigable Waters and 46—Shipping; 15 CFR part 904, subpart D—Permit Sanctions and Denials; and title 43—Public Lands (in regard to marine sanctuaries).
 
 (b) *State responsibilities.* Certain responsibilities relating to data collection and enforcement may be performed by authorized state personnel under a state/Federal agreement for data collection and a tripartite agreement among the state, the USCG, and the Secretary for enforcement.
 
@@ -10,8 +10,8 @@
 
 (e) *Halibut fishing.* Fishing for halibut is governed by regulations of the International Pacific Halibut Commission set forth at part 300 of this title.
 
-(f) *Marine sanctuaries.* All fishing activity, regardless of species sought, is prohibited under 15 CFR part 924 in the U.S.S. Monitor Marine Sanctuary, which is located approximately 15 miles southwest of Cape Hatteras off the coast of North Carolina.
+(f) *Marine sanctuaries.* Regulations governing fishing activities inside the boundaries of national marine sanctuaries are set forth in 15 CFR part 922.
 
 (g) *High seas fishing activities.* Regulations governing permits and requirements for fishing activities on the high seas are set forth in 50 CFR part 300, subparts A and R. Any vessel operating on the high seas must obtain a permit issued pursuant to the High Seas Fishing Compliance Act.
 
-[61 FR 32540, June 24, 1996, as amended at 80 FR 62500, Oct. 16, 2015; 81 FR 51138, Aug. 3, 2016]
+[61 FR 32540, June 24, 1996, as amended at 80 FR 62500, Oct. 16, 2015; 81 FR 51138, Aug. 3, 2016; 85 FR 15392, Mar. 18, 2020]

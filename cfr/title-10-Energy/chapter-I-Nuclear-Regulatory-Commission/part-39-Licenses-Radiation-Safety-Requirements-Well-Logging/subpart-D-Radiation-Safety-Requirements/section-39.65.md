@@ -1,5 +1,7 @@
 ##### § 39.65 Personnel monitoring. #####
 
+Link to an amendment published at 85 FR 15352, Mar. 18, 2020.
+
 (a) The licensee may not permit an individual to act as a logging supervisor or logging assistant unless that person wears, at all times during the handling of licensed radioactive materials, a personnel dosimeter that is processed and evaluated by an accredited National Voluntary Laboratory Accreditation Program (NVLAP) processor. Each personnel dosimeter must be assigned to and worn by only one individual. Film badges must be replaced at least monthly and other personnel dosimeters replaced at least quarterly. After replacement, each personnel dosimeter must be promptly processed.
 
 (b) The licensee shall provide bioassay services to individuals using licensed materials in subsurface tracer studies if required by the license.

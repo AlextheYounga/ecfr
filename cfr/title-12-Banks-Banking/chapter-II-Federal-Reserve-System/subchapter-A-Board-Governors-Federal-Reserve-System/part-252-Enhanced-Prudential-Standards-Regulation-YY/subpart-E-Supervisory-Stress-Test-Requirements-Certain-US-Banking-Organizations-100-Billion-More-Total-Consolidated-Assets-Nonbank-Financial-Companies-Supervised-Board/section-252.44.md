@@ -1,5 +1,7 @@
 ##### § 252.44 Analysis conducted by the Board. #####
 
+Link to an amendment published at 85 FR 15604, Mar. 18, 2020.
+
 (a) *In general.* (1) The Board will conduct an analysis of each covered company's capital, on a total consolidated basis, taking into account all relevant exposures and activities of that covered company, to evaluate the ability of the covered company to absorb losses in specified economic and financial conditions.
 
 (2) The analysis will include an assessment of the projected losses, net income, and pro forma capital levels and regulatory capital ratios and other capital ratios for the covered company and use such analytical techniques that the Board determines are appropriate to identify, measure, and monitor risks of the covered company that may affect the financial stability of the United States.
