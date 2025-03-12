@@ -1,5 +1,7 @@
 ##### § 1015.6 Responses: Form and content. #####
 
+Link to an amendment published at 82 FR 37008, Aug. 8, 2017.
+
 (a) When a requested record has been identified and is available for disclosure, the requester shall either be supplied with a copy or notified as to where and when the record will be made available for inspection. If a requester desires to inspect records at one of the regional offices of the Commission, the Secretary will ordinarily make the records available at the requested regional office. If the payment of fees is required the requester shall be advised by the Secretary in writing of any applicable fees under § 1015.9 hereof.
 
 (b) A response denying a written request for a record shall be in writing signed by the Secretary or delegate of the Secretary and shall include:

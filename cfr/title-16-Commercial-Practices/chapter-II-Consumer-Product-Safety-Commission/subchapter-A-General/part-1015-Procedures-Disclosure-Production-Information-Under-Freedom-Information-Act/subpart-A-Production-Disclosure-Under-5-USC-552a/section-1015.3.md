@@ -1,5 +1,7 @@
 ##### § 1015.3 Requests for records and copies. #####
 
+Link to an amendment published at 82 FR 37008, Aug. 8, 2017.
+
 (a) A request for access to records of the Commission shall be in writing addressed to the Secretary, Consumer Product Safety Commission, Washington, DC 20207. Any written request for records covered by this part shall be deemed to be a request for records pursuant to the Freedom of Information Act, whether or not the Freedom of Information Act is mentioned in the request. An oral request for records will not be considered a request for records pursuant to the Freedom of Information Act. Responses to oral requests for records shall be made as promptly as resources and time restraints permit.
 
 (b) A request for access to records must reasonably describe the records requested. Where possible, specific information regarding dates, title, file designations, and other information which may help identify the records should be supplied by the requester. If the request relates to a matter in pending litigation, where the Commission is a party, the court and its location should be identified. Where the information supplied by the requester is not sufficient to permit identification and location of the records by Commission personnel without an unreasonable amount of effort, the requester will be contacted and asked to supply the necessary information. Every reasonable effort shall be made by Commission personnel to assist in the identification and location of requested records.

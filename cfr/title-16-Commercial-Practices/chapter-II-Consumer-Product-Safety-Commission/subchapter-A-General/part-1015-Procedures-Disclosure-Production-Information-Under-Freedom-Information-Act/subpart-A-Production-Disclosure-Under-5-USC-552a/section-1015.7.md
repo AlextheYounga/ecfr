@@ -1,5 +1,7 @@
 ##### § 1015.7 Appeals from initial denials; reconsideration by the Secretary. #####
 
+Link to an amendment published at 82 FR 37009, Aug. 8, 2017.
+
 (a) When the Secretary or delegate of the Secretary has denied a request for records in whole or in part, the requester may, within 30 days of its receipt, appeal the denial to the General Counsel of the Consumer Product Safety Commission, attention of the Secretary, Washington, DC 20207.
 
 (b) The General Counsel, or the Secretary upon reconsideration, will act upon an appeal within 20 working days of its receipt. The time limitations on an appeal begin to run as of the time an appeal is received by the Office of the Secretary and date stamped.

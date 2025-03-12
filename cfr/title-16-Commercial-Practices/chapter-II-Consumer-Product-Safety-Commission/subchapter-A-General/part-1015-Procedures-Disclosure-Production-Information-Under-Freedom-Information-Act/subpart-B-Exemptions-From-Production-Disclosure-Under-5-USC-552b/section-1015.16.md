@@ -1,5 +1,7 @@
 ##### § 1015.16 Exemptions (5 U.S.C. 552(b)). #####
 
+Link to an amendment published at 82 FR 37010, Aug. 8, 2017.
+
 (a) Records specifically authorized under criteria established by an Executive Order to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive Order.
 
 (b) Records related solely to the internal personnel rules and practices of the Commission.

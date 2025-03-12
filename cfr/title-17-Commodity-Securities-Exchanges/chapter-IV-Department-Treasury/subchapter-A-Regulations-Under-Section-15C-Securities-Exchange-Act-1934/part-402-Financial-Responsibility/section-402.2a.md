@@ -1,4 +1,4 @@
-##### § 402.2a Appendix A - Calculation of market risk haircut for purposes of § 402.2(g)(2). #####
+##### § 402.2a Appendix A—Calculation of market risk haircut for purposes of § 402.2(g)(2). #####
 
 The market risk haircut is the sum of the Treasury market risk haircut and the other securities haircut, calculated as follows.
 
@@ -94,26 +94,21 @@ The market risk haircut is the sum of the Treasury market risk haircut and the o
 
 (c) *Schedules.* This paragraph sets forth schedules which may be used by government securities brokers or dealers in the calculation of total haircuts as required by this part 402. The appropriate regulatory agency or designated examining authority may specify other substantially similar forms required to be used by government securities brokers or dealers in the calculation of such haircuts.
 
-Schedule A - Liquid Capital Requirement, Summary Computation
-
-[In thousands of dollars]
-
-|                          1. Liquid capital<sup>1</sup>                           |\_\_\_|
-|:---------------------------------------------------------------------------------|-----:|
-|2. Haircuts on security and financing positions including contractual commitments:|      |
-|             a. Total governments offset portion haircut (Schedule C)             |\_\_\_|
-|             b. Total futures and options offset haircut (Schedule D)             |\_\_\_|
-|                c. Total hedging disallowance haircut (Schedule E)                |\_\_\_|
-|                  d. Residual net position haircut (Schedule E)                   |\_\_\_|
-|                  e. Other securities haircut (use SEC factors)                   |\_\_\_|
-|                         3. Haircuts on credit exposure:                          |      |
-|                      a. Total counterparty exposure haircut                      |\_\_\_|
-|                     b. Total concentration of credit haircut                     |\_\_\_|
-|                           c. Credit volatility haircut                           |\_\_\_|
-|          4. Total haircuts (sum of lines 2 a through e, 3 a, b, and c)           |\_\_\_|
-|               5. Capital-to-risk ratio (line 1 divided by line 4)                |\_\_\_|
-
-<sup>1</sup> Identical to the amount reported on line 3640 of the Report on Finances and Operations of Government Securities Brokers and Dealers, Form G-405.
+|                                                               1. Liquid capital <sup>1</sup>                                                                |\_\_\_\_\_\_|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|                                     2. Haircuts on security and financing positions including contractual commitments:                                      |            |
+|                                                  a. Total governments offset portion haircut (Schedule C)                                                   |\_\_\_\_\_\_|
+|                                                  b. Total futures and options offset haircut (Schedule D)                                                   |\_\_\_\_\_\_|
+|                                                     c. Total hedging disallowance haircut (Schedule E)                                                      |\_\_\_\_\_\_|
+|                                                        d. Residual net position haircut (Schedule E)                                                        |\_\_\_\_\_\_|
+|                                                        e. Other securities haircut (use SEC factors)                                                        |\_\_\_\_\_\_|
+|                                                               3. Haircuts on credit exposure:                                                               |            |
+|                                                           a. Total counterparty exposure haircut                                                            |\_\_\_\_\_\_|
+|                                                          b. Total concentration of credit haircut                                                           |\_\_\_\_\_\_|
+|                                                                c. Credit volatility haircut                                                                 |\_\_\_\_\_\_|
+|                                                4. Total haircuts (sum of lines 2 a through e, 3 a, b, and c)                                                |\_\_\_\_\_\_|
+|                                                     5. Capital-to-risk ratio (line 1 divided by line 4)                                                     |\_\_\_\_\_\_|
+|<sup>1</sup> Identical to the amount reported on line 3640 of the Report on Finances and Operations of Government Securities Brokers and Dealers, Form G-405.|            |
 
 ![](/graphics/ec11oc91.008.gif)![](/graphics/ec11oc91.009.gif)![](/graphics/ec11oc91.010.gif)![](/graphics/ec11oc91.011.gif)Instructions to Schedules A through E
 
@@ -129,13 +124,13 @@ All haircuts may be calculated to the nearest hundred dollars, unless such round
 
 Appendix A to the Preamble published with the temporary regulations for 17 CFR part 402 (52 FR 19669, May 26, 1987) contains an example of the capital calculation. It may also be used as an aid in completing these schedules.
 
-Schedule A - Liquid Capital Requirement Summary Computation
+Schedule A—Liquid Capital Requirement Summary Computation
 
 Schedule A is used to determine the capital-to-risk ratio by comparing liquid capital to total haircuts. Schedule A will be the last schedule completed as many of the haircuts entered on Schedule A are calculated on Schedules B through E.
 
-Line 1 - Enter liquid capital, which is identical to the amount reported on line 3640 of the Report on Finances and Operations of Government Securities Brokers and Dealers, Form G-405.
+Line 1—Enter liquid capital, which is identical to the amount reported on line 3640 of the Report on Finances and Operations of Government Securities Brokers and Dealers, Form G-405.
 
-Line 2 - Haircuts on “Security and Financing Positions” including contractual commitments:
+Line 2—Haircuts on “Security and Financing Positions” including contractual commitments:
 
 a. Enter the Total Governments Offset Portion Haircut from column 10 of Schedule C.
 
@@ -147,7 +142,7 @@ d. Enter the Residual Net Position Haircut as given in column 28 of Schedule E.
 
 e. Enter the other securities haircut as determined by applying the SEC haircut factors to securities, futures contracts, forward contracts, options and other inventory that are not Treasury market risk instruments as defined in 17 CFR 402.2(e). The other securities haircut is the sum of all applicable deductions as specified in 17 CFR 240.15c3-1 (c)(2)(vi) and (c)(2)(viii) and in 17 CFR 240.15c3-1a and 240.15c3-1b. Any position(s) in Treasury market risk instruments that have been excluded from the calculation of the Treasury market risk haircut because they are part of a hedge with these other instruments are to be included in the calculation of this haircut.
 
-Line 3 - Haircuts on credit exposure:
+Line 3—Haircuts on credit exposure:
 
 a. Enter the total counterparty exposure haircut which is the sum of the counterparty exposure haircut with each counterparty, except a Federal Reserve Bank. A counterparty exposure haircut is equal to 5 percent of the net credit exposure to a single counterparty which is not in excess of 15 percent of the government securities broker's or dealer's liquid capital. If the net credit exposure to a counterparty does exceed 15 percent of liquid capital, the excess will be used in calculating the total concentration of credit haircut on line 3b.
 
@@ -159,21 +154,21 @@ b. Enter the total concentration of credit haircut which is the sum of all conce
 
 c. Enter the credit volatility haircut which equals a factor of 0.15 percent applied to the larger of the gross long or gross short position in money market instruments qualifying as Treasury market risk instruments which mature in 45 days or more, in futures and forwards on these instruments that are settled on a cash or delivery basis, and in futures and forwards on time deposits described in § 402.2(e)(1)(vii), that mature in 45 days or more, settled on a cash or delivery basis. Money market instruments qualifying as Treasury market risk instruments are (1) marketable certificates of deposit with no more than one year to maturity, (2) bankers acceptances, and (3) commercial paper of no more than one year to maturity and which has only a minimal amount of credit risk as determined by the government securities broker or dealer pursuant to reasonably designed written policies and procedures the government securities broker or government securities dealer establishes, maintains, and enforces to assess and monitor creditworthiness. These policies and procedures should result in creditworthiness assessments that typically are consistent with market data.
 
-Line 4 - Enter total haircuts which is the sum of lines 2 a through e, and 3 a, b, and c.
+Line 4—Enter total haircuts which is the sum of lines 2 a through e, and 3 a, b, and c.
 
-Line 5 - Enter the capital-to-risk ratio which is found by dividing line 1, “Liquid capital,” by line 4, “Total haircuts.” The capital-to-risk ratio must be at least equal to 1.2:1.
+Line 5—Enter the capital-to-risk ratio which is found by dividing line 1, “Liquid capital,” by line 4, “Total haircuts.” The capital-to-risk ratio must be at least equal to 1.2:1.
 
-Schedule B - Calculation of Net Immediate Position in Securities and Financings
+Schedule B—Calculation of Net Immediate Position in Securities and Financings
 
 Schedule B is used to calculate the net immediate position in and offset portion of securities and financings. The results are then carried over to Schedule C for initial haircut calculations. Futures, forwards, and options which are Treasury market risk instruments are to be entered on Schedule D.
 
 Positions in and financings on debt instruments other than mortgage-backed or adjustable rate mortgage-backed securities should be placed in the category corresponding to their remaining term to maturity. In the case of a floating rate note, however, the note should be placed in the category corresponding to the time to the next scheduled interest rate adjustment or remaining term to maturity, whichever is less.
 
-Column 1 - Under “Financings-Long” report in the appropriate category the contract value of reverse repurchase agreements and the value(s) of cash collateral on security borrowings. Financings so reported should be placed in the category corresponding to the remaining term to maturity or time to the next scheduled interest rate adjustment, whichever is less.
+Column 1—Under “Financings-Long” report in the appropriate category the contract value of reverse repurchase agreements and the value(s) of cash collateral on security borrowings. Financings so reported should be placed in the category corresponding to the remaining term to maturity or time to the next scheduled interest rate adjustment, whichever is less.
 
-Column 2 - Under “Financings-Short” report in the appropriate category as a negative number the values of funds received from financing transactions. Include repurchase agreements, securities lending secured by cash collateral, and term financings, but exclude subordinated debt which meets the requirements of 17 CFR 240.15c3-1d as modified by 17 CFR 402.2d. Financings so reported should be placed in the category corresponding to the remaining term to maturity or time to the next scheduled interest rate adjustment, whichever is less.
+Column 2—Under “Financings-Short” report in the appropriate category as a negative number the values of funds received from financing transactions. Include repurchase agreements, securities lending secured by cash collateral, and term financings, but exclude subordinated debt which meets the requirements of 17 CFR 240.15c3-1d as modified by 17 CFR 402.2d. Financings so reported should be placed in the category corresponding to the remaining term to maturity or time to the next scheduled interest rate adjustment, whichever is less.
 
-Columns 3 and 4 - Report in the appropriate column by maturity or type of mortgage-backed security under “Securities Positions” the sum of the market values of immediate positions in Treasury market risk instruments. The net position in each individual Treasury market risk instrument is to be appropriately reported as a long ( + ) or short (−) position in summation with all other positions of the same category (long/short). Short positions are assigned a negative value. Treasury market risk instruments are defined in 17 CFR 402.2(e). Those to be reported in Schedule B are:
+Columns 3 and 4—Report in the appropriate column by maturity or type of mortgage-backed security under “Securities Positions” the sum of the market values of immediate positions in Treasury market risk instruments. The net position in each individual Treasury market risk instrument is to be appropriately reported as a long (+) or short (−) position in summation with all other positions of the same category (long/short). Short positions are assigned a negative value. Treasury market risk instruments are defined in 17 CFR 402.2(e). Those to be reported in Schedule B are:
 
 (1) Government securities as defined in 17 CFR 400.3 except equity securities and mortgage-backed securities which do not pass through to the security holder on a pro rata basis a distribution based on the monthly payments and prepayments of principal and interest on the underlying pool of mortgage collateral less fees and expenses;
 
@@ -191,37 +186,37 @@ Report all positions as of the trade date. If the settlement date is scheduled f
 
 Exclude positions in Treasury market risk instruments which form part of a hedge against long and short positions in securities, futures contracts, forward contracts, or options that are not Treasury market risk instruments and are to be included in the calculation of the other securities haircut. Only that portion of the total position in a Treasury market risk instrument that forms part of such a hedge may be excluded, and the inclusion of the Treasury market risk instruments must reduce the other securities haircut.
 
-Column 5 - Under “Total Securities and Financing Positions ( + )” report in the appropriate category the sum of the long financings (column 1) and long securities positions (column 3).
+Column 5—Under “Total Securities and Financing Positions (+)” report in the appropriate category the sum of the long financings (column 1) and long securities positions (column 3).
 
-Column 6 - Under “Total Securities and Financing Positions (−)” report in the appropriate category the sum of the short financings (column 2) and short securities positions (column 4).
+Column 6—Under “Total Securities and Financing Positions (−)” report in the appropriate category the sum of the short financings (column 2) and short securities positions (column 4).
 
-Column 7 - Under “Offset Portions” report in the appropriate category the lesser of the absolute values of the positive (column 5) or negative (column 6) total securities and financing positions.
+Column 7—Under “Offset Portions” report in the appropriate category the lesser of the absolute values of the positive (column 5) or negative (column 6) total securities and financing positions.
 
-Column 8 - Under “Net Immediate Positions” report in the appropriate category the sum, or net value, of the positive (column 5) and negative (column 6) total securities and financing positions.
+Column 8—Under “Net Immediate Positions” report in the appropriate category the sum, or net value, of the positive (column 5) and negative (column 6) total securities and financing positions.
 
 Columns 7, “Offset Portions,” and 8, “Net Immediate Positions,” are to be carried to Schedule C.
 
-Schedule C - Governments Offset Portion and Net Immediate Position Interim Haircuts Calculation
+Schedule C—Governments Offset Portion and Net Immediate Position Interim Haircuts Calculation
 
 Schedule C is used to calculate the total governments offset portion haircut and net immediate position interim haircuts by applying offset and net position haircut factors to the offset portions and net immediate positions in Treasury market risk instruments and financings. The total governments offset portion haircut is then carried to Schedule A, and the net immediate position interim haircuts are carried to Schedule D or E.
 
-Column 7 - Transfer to column 7, “Governments Offset Portion - $ Amounts,” column seven from Schedule B, “Offset Portions.”
+Column 7—Transfer to column 7, “Governments Offset Portion—$ Amounts,” column seven from Schedule B, “Offset Portions.”
 
-Column 9 - These are the governments offset portion haircut factors given at 17 CFR 402.2(f)(2). They may be updated from time to time.
+Column 9—These are the governments offset portion haircut factors given at 17 CFR 402.2(f)(2). They may be updated from time to time.
 
-Column 10 - Under “Governments Offset Portion - Haircuts” report in the appropriate category the product of the corresponding values in column 7, “$ Amounts,” and in column 9, “Factors.”
+Column 10—Under “Governments Offset Portion—Haircuts” report in the appropriate category the product of the corresponding values in column 7, “$ Amounts,” and in column 9, “Factors.”
 
-To determine the total governments offset portion haircut, sum the values under “Governments Offset Portion - Haircuts” in column 10, and enter this number in the appropriate space. Carry this value to Schedule A, line 2a, converting, if necessary, to thousands of dollars.
+To determine the total governments offset portion haircut, sum the values under “Governments Offset Portion—Haircuts” in column 10, and enter this number in the appropriate space. Carry this value to Schedule A, line 2a, converting, if necessary, to thousands of dollars.
 
-Column 8 - Transfer to column 8, “Net Immediate Positions - $ Amounts,” column eight from Schedule B, “Net Immediate Positions.”
+Column 8—Transfer to column 8, “Net Immediate Positions—$ Amounts,” column eight from Schedule B, “Net Immediate Positions.”
 
-Column 11 - These are the net immediate position haircut factors given at 17 CFR 402.2(f)(2). They may be updated from time to time.
+Column 11—These are the net immediate position haircut factors given at 17 CFR 402.2(f)(2). They may be updated from time to time.
 
-Column 12 - Under “Net Immediate Positions - Interim Haircuts” place in the appropriate category the product of the corresponding values in column 8, “$ Amounts,” and in column 11, “Factors.” A haircut on a short position remains negative.
+Column 12—Under “Net Immediate Positions—Interim Haircuts” place in the appropriate category the product of the corresponding values in column 8, “$ Amounts,” and in column 11, “Factors.” A haircut on a short position remains negative.
 
 Carry column 12 to Schedule D, or, if there are no futures, forwards, or options positions, to Schedule E.
 
-Schedule D - Consolidation of Net Immediate Position Interim Haircuts with Gross Futures and Options Interim Haircuts
+Schedule D—Consolidation of Net Immediate Position Interim Haircuts with Gross Futures and Options Interim Haircuts
 
 Schedule D is used to enter haircuts on futures, forwards and options positions and to calculate the total futures and options offset haircut and the residual position interim haircuts as needed for Schedules A and E respectively. If there are no futures and options positions, it is not necessary to fill out Schedule D.
 
@@ -229,25 +224,25 @@ Report on Schedule D futures, forwards, and options which are Treasury market ri
 
 Report as a forward contract any position for which the time between trade date and settlement date is more than five business days (30 calendar days for a mortgage-backed security). Any when-issued position in a marketable Treasury security established between announcement and issue date, any when-issued position in a government agency or a government-sponsored agency debt security established between release date and issue date, and any when-issued position in a security described in § 402.2(e)(1)(vi) between announcement date and issue date is reported in the appropriate category on Schedule B under “Securities Positions.”
 
-Column 12 - Transfer to column 12, “Net Immediate Position Interim Haircuts,” column 12 from Schedule C, “Net Immediate Positions - Interim Haircuts,” converting, if necessary, to thousands of dollars.
+Column 12—Transfer to column 12, “Net Immediate Position Interim Haircuts,” column 12 from Schedule C, “Net Immediate Positions—Interim Haircuts,” converting, if necessary, to thousands of dollars.
 
-Columns 13 and 14 - Under “Gross Interim Haircuts - Futures and Forward” enter in the appropriate category the sum of the interim haircuts on the futures or forward positions belonging to that category. The interim haircut on a futures or forward position equals the product of the value of the position evaluated at the current market price for such contract and the net position haircut factor that corresponds to either the term to maturity of the underlying instrument or, for mortgage-backed securities, the type of security. The term to maturity of the underlying instrument is the term to maturity of the deliverable security at the time of the maturity of the futures or forward contract. The haircut on a futures or forward position on a non-mortgaged-backed instrument is to be entered in the category corresponding to the sum of the remaining time to maturity of the futures or forward contract and the maturity of the underlying instrument. Haircuts on futures and forwards on mortgage-backed securities are to be entered in the appropriate mortgage-backed securities category. The interim haircuts on long futures and forwards are positive (column 13), and on short futures and forwards, negative (column 14).
+Columns 13 and 14—Under “Gross Interim Haircuts—Futures and Forward” enter in the appropriate category the sum of the interim haircuts on the futures or forward positions belonging to that category. The interim haircut on a futures or forward position equals the product of the value of the position evaluated at the current market price for such contract and the net position haircut factor that corresponds to either the term to maturity of the underlying instrument or, for mortgage-backed securities, the type of security. The term to maturity of the underlying instrument is the term to maturity of the deliverable security at the time of the maturity of the futures or forward contract. The haircut on a futures or forward position on a non-mortgaged-backed instrument is to be entered in the category corresponding to the sum of the remaining time to maturity of the futures or forward contract and the maturity of the underlying instrument. Haircuts on futures and forwards on mortgage-backed securities are to be entered in the appropriate mortgage-backed securities category. The interim haircuts on long futures and forwards are positive (column 13), and on short futures and forwards, negative (column 14).
 
-Columns 15 and 16 - Under “Gross Interim Haircuts - Options” enter, in the category in which the instrument directly underlying the contract would be entered, the lesser of (1) the market value of the option or (2) the net immediate position interim haircut on the underlying cash instrument or gross futures interim haircut on the underlying futures contract. Note that in the case of an option on a futures contract the category in which the option contract is to be entered is the sum of the remaining time to maturity of the futures or forward contract and the maturity of the instrument underlying the futures or forward contract. The haircut factor used to determine the gross futures interim haircut is that factor corresponding to the term to maturity of the deliverable security at the time of the maturity of the futures or forward contract. Gross option haircuts on purchased calls and sold puts are positive, those on sold calls and purchased puts are negative.
+Columns 15 and 16—Under “Gross Interim Haircuts—Options” enter, in the category in which the instrument directly underlying the contract would be entered, the lesser of (1) the market value of the option or (2) the net immediate position interim haircut on the underlying cash instrument or gross futures interim haircut on the underlying futures contract. Note that in the case of an option on a futures contract the category in which the option contract is to be entered is the sum of the remaining time to maturity of the futures or forward contract and the maturity of the instrument underlying the futures or forward contract. The haircut factor used to determine the gross futures interim haircut is that factor corresponding to the term to maturity of the deliverable security at the time of the maturity of the futures or forward contract. Gross option haircuts on purchased calls and sold puts are positive, those on sold calls and purchased puts are negative.
 
-Column 17 - Under “Aggregate Interim Haircuts ( + )” enter in the appropriate category, the sum of any positive net immediate position interim haircut (column 12) and the positive gross option (column 15) and gross futures and forward (column 13) interim haircuts for that category.
+Column 17—Under “Aggregate Interim Haircuts (+)” enter in the appropriate category, the sum of any positive net immediate position interim haircut (column 12) and the positive gross option (column 15) and gross futures and forward (column 13) interim haircuts for that category.
 
-Column 18 - Under “Aggregate Interim Haircuts (−)” enter in the appropriate category, the sum of any negative net immediate position interim haircut (column 12) and the negative gross option (column 16) and gross futures and forward (column 14) interim haircuts for that category.
+Column 18—Under “Aggregate Interim Haircuts (−)” enter in the appropriate category, the sum of any negative net immediate position interim haircut (column 12) and the negative gross option (column 16) and gross futures and forward (column 14) interim haircuts for that category.
 
-Column 19 - Under “Futures and Options Offset Portions” enter, in the appropriate category, the lesser of the absolute values of the positive and negative aggregate interim haircuts (columns 17 and 18) for that category.
+Column 19—Under “Futures and Options Offset Portions” enter, in the appropriate category, the lesser of the absolute values of the positive and negative aggregate interim haircuts (columns 17 and 18) for that category.
 
 The total futures and options offset portion is the sum of the values in column 19 under “Futures and Options Offset Portions.”
 
 The total futures and options offset haircut is the total futures and options offset portion multiplied by a factor of 20 percent and is carried to line 2b, Schedule A.
 
-Column 20 - Enter in the appropriate category under “Residual Position Interim Haircuts” the sum, or net value, of the positive and negative aggregate interim haircuts. Carry this to column 20 on Schedule E.
+Column 20—Enter in the appropriate category under “Residual Position Interim Haircuts” the sum, or net value, of the positive and negative aggregate interim haircuts. Carry this to column 20 on Schedule E.
 
-Schedule E - Calculation of Hedging Disallowance Haircuts When Netting Haircuts Across Categories
+Schedule E—Calculation of Hedging Disallowance Haircuts When Netting Haircuts Across Categories
 
 Schedule E is used to calculate the hedging disallowance and residual net position haircuts which are then carried to Schedule A. The purpose of Schedule E is to hedge positions in different categories in order to reduce total haircuts. Netting the residual position interim haircuts reflects the risk reduction inherent in hedges between positions in different categories where the price volatility is reasonably well correlated.
 
@@ -255,11 +250,11 @@ Section 402.2(f)(3) of the rule specifies the hedging disallowance haircut facto
 
 There are three levels of permissible netting corresponding to the three hedging disallowance haircut factors: The 20 percent, 30 percent, and 40 percent levels. It is not necessary to net all possible pairs at any one level. A greater reduction in total haircuts can sometimes be obtained by choosing not to net a pair at one level (e.g., the 20 percent level) so that one element of the pair can be netted against a third category at another level (e.g., the 30 percent level).
 
-Column 20 - Transfer column 20, “Residual Position Interim Haircuts,” from Schedule D. If there are no futures or options positions, transfer instead column 12, “Net Immediate Positions - Interim Haircuts,” from Schedule C.
+Column 20—Transfer column 20, “Residual Position Interim Haircuts,” from Schedule D. If there are no futures or options positions, transfer instead column 12, “Net Immediate Positions—Interim Haircuts,” from Schedule C.
 
-Column 21 - Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts may be paired at the 20 percent level. For each pair multiply the smaller of the absolute values of the two residual position interim haircuts by the hedging disallowance haircut factor of 20 percent, and, in the category of the smaller, enter the resulting hedging disallowance haircut.
+Column 21—Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts may be paired at the 20 percent level. For each pair multiply the smaller of the absolute values of the two residual position interim haircuts by the hedging disallowance haircut factor of 20 percent, and, in the category of the smaller, enter the resulting hedging disallowance haircut.
 
-Column 22 - For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two residual position interim haircuts (and/or net residual position interim haircuts) in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller.
+Column 22—For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two residual position interim haircuts (and/or net residual position interim haircuts) in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller.
 
 These net residual position interim haircuts replace the residual position interim haircuts (or net residual position interim haircuts) from which they were derived. Net residual position interim haircuts can in turn be used in any other allowable netting exactly as residual position interim haircuts would be. If further netting of that category at the same level is permissible and possible, it will be necessary to replace the net residual position interim haircut involved with a new (and smaller) net residual position interim haircut in column 22.
 
@@ -267,23 +262,23 @@ Since the net residual position interim haircut in any category containing a hed
 
 After all netting has been completed for category pairs with a 20 percent hedging disallowance haircut factor, move on to column 23.
 
-Column 23 - Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts and/or net residual position interim haircuts may be paired at the 30 percent level. In each category, the newest (and smallest) net residual position interim haircut determined by netting at the 20 percent level replaces the old value and must be used in hedging in that category at higher levels. For each pair being netted, multiply the smaller of the absolute values of the two (net) residual position interim haircuts by the hedging disallowance haircut factor of 30 percent, and in the category of the smaller, enter the resulting hedging disallowance haircut.
+Column 23—Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts and/or net residual position interim haircuts may be paired at the 30 percent level. In each category, the newest (and smallest) net residual position interim haircut determined by netting at the 20 percent level replaces the old value and must be used in hedging in that category at higher levels. For each pair being netted, multiply the smaller of the absolute values of the two (net) residual position interim haircuts by the hedging disallowance haircut factor of 30 percent, and in the category of the smaller, enter the resulting hedging disallowance haircut.
 
-Column 24 - For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two residual position interim haircuts and/or net residual position interim haircuts in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller.
+Column 24—For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two residual position interim haircuts and/or net residual position interim haircuts in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller.
 
 These net residual position interim haircuts replace the residual position interim haircuts (or net residual position interim haircuts) from which they were derived. Net residual position interim haircuts can in turn be used in any other allowable netting exactly as residual position interim haircuts would be. If further netting of that category at the same level is permissible and possible, it will be necessary to replace the net residual position interim haircut involved with a new (and smaller) net residual position interim haircut.
 
 After all netting has been completed for category pairs with a 30 percent hedging disallowance haircut factor, continue to column 25.
 
-Column 25 - Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts and/or net residual position interim haircuts may be paired at the 40 percent level. In each category, any new net residual position interim haircut determined by netting at the 20 or 30 percent level replaces the old value and must be used in hedging with that category at the 40 percent level. For each pair being netted, multiply the smaller of the absolute values of the two (net) residual position interim haircuts by the hedging disallowance haircut factor of 40 percent and, in the category of the smaller, enter the resulting hedging disallowance haircut.
+Column 25—Use the matrix at 17 CFR 402.2(f)(3) to determine the categories from which the residual position interim haircuts and/or net residual position interim haircuts may be paired at the 40 percent level. In each category, any new net residual position interim haircut determined by netting at the 20 or 30 percent level replaces the old value and must be used in hedging with that category at the 40 percent level. For each pair being netted, multiply the smaller of the absolute values of the two (net) residual position interim haircuts by the hedging disallowance haircut factor of 40 percent and, in the category of the smaller, enter the resulting hedging disallowance haircut.
 
-Column 26 - For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two (net) residual position interim haircuts in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller. If further netting of that category at the same level is permissible and possible, it will be necessary to replace the net residual position interim haircut involved with a new (and smaller) net residua1 position interim haircut.
+Column 26—For each pair being netted at this level, enter under “Net Residual Position Interim Haircuts” (1) the sum, or net value, of the two (net) residual position interim haircuts in the category of the larger (in absolute value) of the two interim haircuts that were netted, and (2) a zero in the category of the smaller. If further netting of that category at the same level is permissible and possible, it will be necessary to replace the net residual position interim haircut involved with a new (and smaller) net residua1 position interim haircut.
 
-Column 27 - When all possible (net) residual position interim haircuts have been netted, enter under “Hedging Disallowance Haircuts” all hedging disallowance haircuts calculated in the netting procedures, each in its appropriate category.
+Column 27—When all possible (net) residual position interim haircuts have been netted, enter under “Hedging Disallowance Haircuts” all hedging disallowance haircuts calculated in the netting procedures, each in its appropriate category.
 
 Enter under “Total Hedging Disallowance Haircut” the sum of all the hedging disallowance haircuts entered in column 27. Carry to Schedule A, line 2c.
 
-Column 28 - Under “Qualified Netting Interim Haircuts” enter in the appropriate category the absolute value of the haircut given under “Net Residual Position Interim Haircut” at the highest hedging disallowance factor used for that category (columns 26, 24, or 22). This value will also be the smallest of the net residual position interim haircuts in that category. If the position in a given category was not used in hedging then enter the absolute value of the residual position interim haircut from column 20.
+Column 28—Under “Qualified Netting Interim Haircuts” enter in the appropriate category the absolute value of the haircut given under “Net Residual Position Interim Haircut” at the highest hedging disallowance factor used for that category (columns 26, 24, or 22). This value will also be the smallest of the net residual position interim haircuts in that category. If the position in a given category was not used in hedging then enter the absolute value of the residual position interim haircut from column 20.
 
 Sum the qualified netting interim haircuts, enter this value under “Residual Net Position Haircut,” and carry to Schedule A, line 2d.
 

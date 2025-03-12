@@ -1,5 +1,7 @@
 ##### § 1015.17 Internal Commission procedure for withholding exempt records. #####
 
+Link to an amendment published at 82 FR 37010, Aug. 8, 2017.
+
 Paragraphs (a) and (b) of this section describe the internal Commission procedure to be followed for requesting that a record exempt from disclosure under the inter- intra-agency memorandum exemption, 5 U.S.C. 552(b)(5), or the investigatory file exemption, 5 U.S.C. 552(b)(7), not be disclosed.
 
 (a) If a bureau or office director believes that it is against the public interest to disclose a Commission record prepared by his/her bureau or office, he/she may request in writing that the Secretary withhold the document. The request must specify why the release would be against the public interest.

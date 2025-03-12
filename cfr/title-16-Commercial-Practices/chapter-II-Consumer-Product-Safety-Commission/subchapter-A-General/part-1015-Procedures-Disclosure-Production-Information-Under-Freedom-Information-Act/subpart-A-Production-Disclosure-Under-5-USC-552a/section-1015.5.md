@@ -1,5 +1,7 @@
 ##### § 1015.5 Time limitation on responses to requests for records and requests for expedited processing. #####
 
+Link to an amendment published at 82 FR 37008, Aug. 8, 2017.
+
 (a) The Secretary or delegate of the Secretary shall respond to all written requests for records within twenty (20) working days (excepting Saturdays, Sundays, and legal public holidays). The time limitations on responses to requests for records shall begin to run as of the time a request for records is received by the Office of the Secretary and a date stamp notation placed directly on the request.
 
 (b) The time for responding to requests for records may be extended by the Secretary at the initial stage or by the General Counsel of the Commission at the appellate stage up to an additional ten (10) working days under the following unusual circumstances:

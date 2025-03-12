@@ -1,5 +1,7 @@
 ##### § 1015.10 Commission report of actions to Congress. #####
 
+Link to an amendment published at 82 FR 37010, Aug. 8, 2017.
+
 On or before February 1 of each year, the Commission shall submit a report of its activities with regard to freedom of information requests during the preceding fiscal year to the Attorney General of the United States. This report shall include:
 
 (a) The number of determinations made by the Commission not to comply with requests for records made to the Commission under the provisions of this part and the reasons for each such determination.

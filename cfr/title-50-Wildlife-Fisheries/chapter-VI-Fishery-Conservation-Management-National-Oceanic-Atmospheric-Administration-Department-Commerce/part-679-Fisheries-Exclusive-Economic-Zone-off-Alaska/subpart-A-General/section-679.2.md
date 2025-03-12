@@ -1,5 +1,7 @@
 ##### § 679.2 Definitions. #####
 
+Link to an amendment published at 82 FR 37001, Aug. 8, 2017.
+
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).

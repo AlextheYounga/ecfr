@@ -1,5 +1,7 @@
 ##### § 1015.2 Public reference facilities. #####
 
+Link to an amendment published at 82 FR 37007, Aug. 8, 2017.
+
 (a) The Consumer Product Safety Commission will maintain in a public reference room or area the materials relating to the Consumer Product Safety Commission that are required by 5 U.S.C. 552(a)(2) and 552(a)(5) to be made available for public inspection and copying. The principal location will be in the Office of the Secretary of the Commission. The address of this office is:
 
 Office of the Secretary, Consumer Product Safety Commission, Room 502, 4330 East West Highway, Bethesda, MD 20814.

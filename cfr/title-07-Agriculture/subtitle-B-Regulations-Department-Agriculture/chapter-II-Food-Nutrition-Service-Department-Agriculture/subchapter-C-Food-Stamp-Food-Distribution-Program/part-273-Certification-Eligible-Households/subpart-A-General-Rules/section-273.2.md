@@ -72,17 +72,7 @@
 
 (B) An authorized representative, as described in paragraph (n)(1) of this section.
 
-(v) *Criteria for all signatures.* All systems for signatures must meet all of the following criteria:
-
-(A) Record for future reference the assent of the household member and the information to which assent was given;
-
-(B) Include effective safeguards against impersonation, identity theft, and invasions of privacy;
-
-(C) Not deny or interfere with the right of the household to apply in writing;
-
-(D) Comply with the SNAP regulations regarding bilingual requirements at § 272.4(b) of this chapter; and
-
-(E) Satisfy all requirements for a signature on an application under all laws and guidance applicable to SNAP, including civil rights laws.
+(v) *Application copies.* When a household member completes an application, the State agency must offer to provide a copy of the completed application. For purposes of this subsection, a copy of the completed application is a copy of the information provided by the client that the State agency has used or will use to determine a household's eligibility and benefit allotment. At the option of the household, the State may provide the copy in an electronic format.
 
 (vi) *Handwritten signatures.* These provisions apply specifically to handwritten signatures, including handwritten signatures that the household transmits by facsimile or other electronic transmission.
 

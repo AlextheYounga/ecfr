@@ -1,5 +1,7 @@
 ##### § 1015.15 Purpose and scope. #####
 
+Link to an amendment published at 82 FR 37010, Aug. 8, 2017.
+
 (a) The regulations of this subpart provide information concerning the types of records which may be withheld from production and disclosure by the Consumer Product Safety Commission and the internal Commission procedure for withholding exempt records. These regulations also provide information on the method whereby persons submitting information to the Commission may request that the information be considered exempt from disclosure, and information concerning the Commission's treatment of documents submitted with a request that they be treated as exempt from disclosure.
 
 (b) No identifiable record requested in accordance with the procedures contained in this part shall be withheld from disclosure unless it falls within one of the classes of records exempt under 5 U.S.C 552(b). The Commission will make available, to the extent permitted by law, records authorized to be withheld under 5 U.S.C. 552(b) unless the Commission determines that disclosure is contrary to the public interest. In this regard the Commission will not ordinarily release documents that provide legal advice to the Commission concerning pending or prospective litigation where the release of such documents would significantly interfere with the Commission's regulatory or enforcement proceedings.
