@@ -40,7 +40,7 @@
 
 (vii) During the two-year period ending on the qualifying date, there has not been any failure to make when due any contribution described in § 4043.25(a)(1) or (2) (dealing with failure to make required minimum funding payments), unless reporting was waived under § 4043.25(c).
 
-(3) *Using financial information to evaluate criteria* - (i) Subject to paragraph (e)(3)(ii) of this section with respect to evaluating the criterion described in paragraph (e)(2)(v) of this section, to evaluate whether criteria described in paragraphs (e)(2)(ii) through (v) of this section are met, a company must use the supporting financial information described in paragraph (d) of this section associated with the qualifying date.
+(3) *Using financial information to evaluate criteria.* (i) Subject to paragraph (e)(3)(ii) of this section with respect to evaluating the criterion described in paragraph (e)(2)(v) of this section, to evaluate whether criteria described in paragraphs (e)(2)(ii) through (v) of this section are met, a company must use the supporting financial information described in paragraph (d) of this section associated with the qualifying date.
 
 (ii) In addition to the use of the supporting financial information to evaluate criteria as described in paragraph (e)(3)(i) of this section, to evaluate whether the criterion described in paragraph (e)(2)(v) of this section is met, the company must also use the supporting financial information as described in paragraph (d) of this section associated with the financial information date for the fiscal year preceding the fiscal year covered by the supporting financial information associated with the qualifying date.
 

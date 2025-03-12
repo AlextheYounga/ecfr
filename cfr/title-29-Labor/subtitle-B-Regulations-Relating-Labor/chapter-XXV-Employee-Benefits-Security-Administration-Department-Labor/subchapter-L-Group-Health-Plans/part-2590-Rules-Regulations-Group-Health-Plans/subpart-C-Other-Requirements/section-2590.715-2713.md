@@ -10,7 +10,7 @@
 
 (iv) With respect to women, such additional preventive care and screenings not described in paragraph (a)(1)(i) of this section as provided for in comprehensive guidelines supported by the Health Resources and Services Administration for purposes of section 2713(a)(4) of the Public Health Service Act, subject to 45 CFR 147.131, 147.132, and 147.133.
 
-(2) *Office visits* - (i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
+(2) *Office visits.* (i) If an item or service described in paragraph (a)(1) of this section is billed separately (or is tracked as individual encounter data separately) from an office visit, then a plan or issuer may impose cost-sharing requirements with respect to the office visit.
 
 (ii) If an item or service described in paragraph (a)(1) of this section is not billed separately (or is not tracked as individual encounter data separately) from an office visit and the primary purpose of the office visit is the delivery of such an item or service, then a plan or issuer may not impose cost-sharing requirements with respect to the office visit.
 
@@ -34,7 +34,7 @@ Example 4.(i) *Facts.* A child covered by a group health plan visits an in-netwo
 
 (ii) *Conclusion.* In this *Example 4,* the service was not billed as a separate charge and was billed as part of an office visit. Moreover, the primary purpose for the visit was to deliver items and services described as part of the comprehensive guidelines supported by the Health Resources and Services Administration. Therefore, the plan may not impose a cost-sharing requirement with respect to the office visit.
 
-(3) *Out-of-network providers* - (i) Subject to paragraph (a)(3)(ii) of this section, nothing in this section requires a plan or issuer that has a network of providers to provide benefits for items or services described in paragraph (a)(1) of this section that are delivered by an out-of-network provider. Moreover, nothing in this section precludes a plan or issuer that has a network of providers from imposing cost-sharing requirements for items or services described in paragraph (a)(1) of this section that are delivered by an out-of-network provider.
+(3) *Out-of-network providers.* (i) Subject to paragraph (a)(3)(ii) of this section, nothing in this section requires a plan or issuer that has a network of providers to provide benefits for items or services described in paragraph (a)(1) of this section that are delivered by an out-of-network provider. Moreover, nothing in this section precludes a plan or issuer that has a network of providers from imposing cost-sharing requirements for items or services described in paragraph (a)(1) of this section that are delivered by an out-of-network provider.
 
 (ii) If a plan or issuer does not have in its network a provider who can provide an item or service described in paragraph (a)(1) of this section, the plan or issuer must cover the item or service when performed by an out-of-network provider, and may not impose cost sharing with respect to the item or service.
 

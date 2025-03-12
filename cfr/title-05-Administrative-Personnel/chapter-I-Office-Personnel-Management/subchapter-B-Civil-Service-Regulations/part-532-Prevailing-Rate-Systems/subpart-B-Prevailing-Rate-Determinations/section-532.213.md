@@ -1,5 +1,7 @@
 ##### § 532.213 Industries included in regular appropriated fund wage surveys. #####
 
+Link to an amendment published at 84 FR 36813, July 30, 2019.
+
 (a) The lead agency must include the industries in the following North American Industry Classification System (NAICS) codes in all regular appropriated fund wage surveys:
 
 |      2012 NAICS codes      |                                                                    2012 NAICS industry titles                                                                    |

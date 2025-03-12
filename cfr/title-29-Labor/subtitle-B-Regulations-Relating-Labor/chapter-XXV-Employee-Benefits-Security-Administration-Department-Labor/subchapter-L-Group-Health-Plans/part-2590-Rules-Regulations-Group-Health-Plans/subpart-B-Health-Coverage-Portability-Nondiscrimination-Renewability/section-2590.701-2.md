@@ -1,7 +1,5 @@
 ##### § 2590.701-2 Definitions. #####
 
-Link to an amendment published at 84 FR 29001, June 20, 2019.
-
 Unless otherwise provided, the definitions in this section govern in applying the provisions of §§ 2590.701 through 2590.734.
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -14,7 +12,7 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 (3) *COBRA continuation provision* means sections 601-608 of the Act, section 4980B of the Internal Revenue Code (other than paragraph (f)(1) of such section 4980B insofar as it relates to pediatric vaccines), or Title XXII of the PHS Act.
 
-(4) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases -
+(4) *Exhaustion of COBRA continuation coverage* means that an individual's COBRA continuation coverage ceases for any reason other than either failure of the individual to pay premiums on a timely basis, or for cause (such as making a fraudulent claim or an intentional misrepresentation of a material fact in connection with the plan). An individual is considered to have exhausted COBRA continuation coverage if such coverage ceases—
 
 (i) Due to the failure of the employer or other responsible entity to remit premiums on a timely basis;
 
@@ -38,7 +36,7 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Genetic information* has the meaning given the term in § 2590.702-1(a)(3) of this Part.
 
-*Group health insurance coverage* means health insurance coverage offered in connection with a group health plan.
+*Group health insurance coverage* means health insurance coverage offered in connection with a group health plan. Individual health insurance coverage reimbursed by the arrangements described in 29 CFR 2510.3-1(l) is not offered in connection with a group health plan, and is not group health insurance coverage, provided all the conditions in 29 CFR 2510.3-1(l) are satisfied.
 
 *Group health plan* or *plan* means a *group health plan* within the meaning of § 2590.732(a).
 
@@ -48,7 +46,7 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Health insurance issuer* or *issuer* means an insurance company, insurance service, or insurance organization (including an HMO) that is required to be licensed to engage in the business of insurance in a State and that is subject to State law that regulates insurance (within the meaning of section 514(b)(2) of the Act). Such term does not include a group health plan.
 
-*Health maintenance organization* or *HMO* means -
+*Health maintenance organization* or *HMO* means—
 
 (1) A federally qualified health maintenance organization (as defined in section 1301(a) of the PHS Act);
 
@@ -68,7 +66,7 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Late enrollment* means enrollment of an individual under a group health plan other than on the earliest date on which coverage can become effective for the individual under the terms of the plan; or through special enrollment. (For rules relating to special enrollment, see § 2590.701-6.) If an individual ceases to be eligible for coverage under a plan, and then subsequently becomes eligible for coverage under the plan, only the individual's most recent period of eligibility is taken into account in determining whether the individual is a late enrollee under the plan with respect to the most recent period of coverage. Similar rules apply if an individual again becomes eligible for coverage following a suspension of coverage that applied generally under the plan.
 
-*Medical care* means amounts paid for -
+*Medical care* means amounts paid for—
 
 (1) The diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body;
 
@@ -82,7 +80,7 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Placement, or being placed, for adoption* means the assumption and retention of a legal obligation for total or partial support of a child by a person with whom the child has been placed in anticipation of the child's adoption. The child's placement for adoption with such person ends upon the termination of such legal obligation.
 
-*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is -
+*Plan year* means the year that is designated as the plan year in the plan document of a group health plan, except that if the plan document does not designate a plan year or if there is no plan document, the plan year is—
 
 (1) The deductible or limit year used under the plan;
 
@@ -128,4 +126,4 @@ This coverage is not required to comply with certain federal market requirements
 
 *Waiting period* means *waiting period* within the meaning of § 2590.715-2708(b).
 
-[69 FR 78763, Dec. 30, 2004, as amended at 74 FR 51683, Oct. 7, 2009; 75 FR 37229, June 28, 2010; 79 FR 10308, Feb. 24, 2014; 80 FR 72256, Nov. 18, 2015; 81 FR 75325, Oct. 31, 2016; 83 FR 38242, Aug. 3, 2018]
+[69 FR 78763, Dec. 30, 2004, as amended at 74 FR 51683, Oct. 7, 2009; 75 FR 37229, June 28, 2010; 79 FR 10308, Feb. 24, 2014; 80 FR 72256, Nov. 18, 2015; 81 FR 75325, Oct. 31, 2016; 83 FR 38242, Aug. 3, 2018; 84 FR 29001, June 20, 2019]

@@ -16,7 +16,7 @@ The following terms are defined in § 4001.2 of this chapter: Employer, ERISA, I
 
 *Insolvent* means unable to pay benefits when due during the plan year.
 
-*Interested parties* means, with respect to a plan -
+*Interested parties* means, with respect to a plan—
 
 (1) Employers required to contribute to the plan;
 
@@ -28,4 +28,4 @@ The following terms are defined in § 4001.2 of this chapter: Employer, ERISA, I
 
 *Resource benefit level* means resource benefit level as described in section 4245(b)(2) of ERISA.
 
-[61 FR 34115, July 1, 1966, as amended at 84 FR 18724, May 2, 2019]
+[61 FR 34115, July 1, 1996, as amended at 84 FR 18724, May 2, 2019]

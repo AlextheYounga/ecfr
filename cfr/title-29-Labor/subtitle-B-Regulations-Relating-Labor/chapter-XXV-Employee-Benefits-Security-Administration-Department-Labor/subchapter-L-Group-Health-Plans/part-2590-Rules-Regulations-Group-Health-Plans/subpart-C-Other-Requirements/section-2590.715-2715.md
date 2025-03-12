@@ -1,8 +1,8 @@
 ##### § 2590.715-2715 Summary of benefits and coverage and uniform glossary. #####
 
-(a) *Summary of benefits and coverage* - (1) *In general.* A group health plan (and its administrator as defined in section 3(16)(A) of ERISA)), and a health insurance issuer offering group health insurance coverage, is required to provide a written summary of benefits and coverage (SBC) for each benefit package without charge to entities and individuals described in this paragraph (a)(1) in accordance with the rules of this section.
+(a) *Summary of benefits and coverage*—(1) *In general.* A group health plan (and its administrator as defined in section 3(16)(A) of ERISA)), and a health insurance issuer offering group health insurance coverage, is required to provide a written summary of benefits and coverage (SBC) for each benefit package without charge to entities and individuals described in this paragraph (a)(1) in accordance with the rules of this section.
 
-(i) *SBC provided by a group health insurance issuer to a group health plan* - (A) *Upon application.* A health insurance issuer offering group health insurance coverage must provide the SBC to a group health plan (or its sponsor) upon application for health coverage, as soon as practicable following receipt of the application, but in no event later than seven business days following receipt of the application. If an SBC was provided before application pursuant to paragraph (a)(1)(i)(D) of this section (relating to SBCs upon request), this paragraph (a)(1)(i)(A) is deemed satisfied, provided there is no change to the information required to be in the SBC. However, if there has been a change in the information required, a new SBC that includes the changed information must be provided upon application pursuant to this paragraph (a)(1)(i)(A).
+(i) *SBC provided by a group health insurance issuer to a group health plan*—(A) *Upon application.* A health insurance issuer offering group health insurance coverage must provide the SBC to a group health plan (or its sponsor) upon application for health coverage, as soon as practicable following receipt of the application, but in no event later than seven business days following receipt of the application. If an SBC was provided before application pursuant to paragraph (a)(1)(i)(D) of this section (relating to SBCs upon request), this paragraph (a)(1)(i)(A) is deemed satisfied, provided there is no change to the information required to be in the SBC. However, if there has been a change in the information required, a new SBC that includes the changed information must be provided upon application pursuant to this paragraph (a)(1)(i)(A).
 
 (B) *By first day of coverage (if there are changes).* If there is any change in the information required to be in the SBC that was provided upon application and before the first day of coverage, the issuer must update and provide a current SBC to the plan (or its sponsor) no later than the first day of coverage.
 
@@ -14,7 +14,7 @@
 
 (D) *Upon request.* If a group health plan (or its sponsor) requests an SBC or summary information about a health insurance product from a health insurance issuer offering group health insurance coverage, an SBC must be provided as soon as practicable, but in no event later than seven business days following receipt of the request.
 
-(ii) *SBC provided by a group health insurance issuer and a group health plan to participants and beneficiaries* - (A) *In general.* A group health plan (including its administrator, as defined under section 3(16) of ERISA), and a health insurance issuer offering group health insurance coverage, must provide an SBC to a participant or beneficiary (as defined under sections 3(7) and 3(8) of ERISA), and consistent with the rules of paragraph (a)(1)(iii) of this section, with respect to each benefit package offered by the plan or issuer for which the participant or beneficiary is eligible.
+(ii) *SBC provided by a group health insurance issuer and a group health plan to participants and beneficiaries*—(A) *In general.* A group health plan (including its administrator, as defined under section 3(16) of ERISA), and a health insurance issuer offering group health insurance coverage, must provide an SBC to a participant or beneficiary (as defined under sections 3(7) and 3(8) of ERISA), and consistent with the rules of paragraph (a)(1)(iii) of this section, with respect to each benefit package offered by the plan or issuer for which the participant or beneficiary is eligible.
 
 (B) *Upon application.* The SBC must be provided as part of any written application materials that are distributed by the plan or issuer for enrollment. If the plan or issuer does not distribute written application materials for enrollment, the SBC must be provided no later than the first date on which the participant is eligible to enroll in coverage for the participant or any beneficiaries. If an SBC was provided before application pursuant to paragraph (a)(1)(ii)(F) of this section (relating to SBCs upon request), this paragraph (a)(1)(ii)(B) is deemed satisfied, provided there is no change to the information required to be in the SBC. However, if there has been a change in the information that is required to be in the SBC, a new SBC that includes the changed information must be provided upon application pursuant to this paragraph (a)(1)(ii)(B).
 
@@ -32,7 +32,7 @@
 
 (F) *Upon request.* A plan or issuer must provide the SBC to participants or beneficiaries upon request for an SBC or summary information about the health coverage, as soon as practicable, but in no event later than seven business days following receipt of the request.
 
-(iii) *Special rules to prevent unnecessary duplication with respect to group health coverage* - (A) An entity required to provide an SBC under this paragraph (a)(1) with respect to an individual satisfies that requirement if another party provides the SBC, but only to the extent that the SBC is timely and complete in accordance with the other rules of this section. Therefore, for example, in the case of a group health plan funded through an insurance policy, the plan satisfies the requirement to provide an SBC with respect to an individual if the issuer provides a timely and complete SBC to the individual. An entity required to provide an SBC under this paragraph (a)(1) with respect to an individual that contracts with another party to provide such SBC is considered to satisfy the requirement to provide such SBC if:
+(iii) *Special rules to prevent unnecessary duplication with respect to group health coverage.* (A) An entity required to provide an SBC under this paragraph (a)(1) with respect to an individual satisfies that requirement if another party provides the SBC, but only to the extent that the SBC is timely and complete in accordance with the other rules of this section. Therefore, for example, in the case of a group health plan funded through an insurance policy, the plan satisfies the requirement to provide an SBC with respect to an individual if the issuer provides a timely and complete SBC to the individual. An entity required to provide an SBC under this paragraph (a)(1) with respect to an individual that contracts with another party to provide such SBC is considered to satisfy the requirement to provide such SBC if:
 
 (*1*) The entity monitors performance under the contract;
 
@@ -46,7 +46,7 @@
 
 (D) Subject to paragraph (a)(2)(ii) of this section, a plan administrator of a group health plan that uses two or more insurance products provided by separate health insurance issuers with respect to a single group health plan may synthesize the information into a single SBC or provide multiple partial SBCs provided that all the SBC include the content in paragraph (a)(2)(iii) of this section.
 
-(2) *Content* - (i) *In general.* Subject to paragraph (a)(2)(iii) of this section, the SBC must include the following:
+(2) *Content*—(i) *In general.* Subject to paragraph (a)(2)(iii) of this section, the SBC must include the following:
 
 (A) Uniform definitions of standard insurance terms and medical terms so that consumers may compare health coverage and understand the terms of (or exceptions to) their coverage, in accordance with guidance as specified by the Secretary;
 
@@ -88,7 +88,7 @@
 
 (ii) A group health plan that utilizes two or more benefit packages (such as major medical coverage and a health flexible spending arrangement) may synthesize the information into a single SBC, or provide multiple SBCs.
 
-(4) *Form.* (i) An SBC provided by an issuer offering group health insurance coverage to a plan (or its sponsor), may be provided in paper form. Alternatively, the SBC may be provided electronically (such as by email or an Internet posting) if the following three conditions are satisfied -
+(4) *Form.* (i) An SBC provided by an issuer offering group health insurance coverage to a plan (or its sponsor), may be provided in paper form. Alternatively, the SBC may be provided electronically (such as by email or an Internet posting) if the following three conditions are satisfied—
 
 (A) The format is readily accessible by the plan (or its sponsor);
 
@@ -118,7 +118,7 @@
 
 (b) *Notice of modification.* If a group health plan, or health insurance issuer offering group health insurance coverage, makes any material modification (as defined under section 102 of ERISA) in any of the terms of the plan or coverage that would affect the content of the SBC, that is not reflected in the most recently provided SBC, and that occurs other than in connection with a renewal or reissuance of coverage, the plan or issuer must provide notice of the modification to enrollees not later than 60 days prior to the date on which the modification will become effective. The notice of modification must be provided in a form that is consistent with the rules of paragraph (a)(4) of this section.
 
-(c) *Uniform glossary* - (1) *In general.* A group health plan, and a health insurance issuer offering group health insurance coverage, must make available to participants and beneficiaries the uniform glossary described in paragraph (c)(2) of this section in accordance with the appearance and form and manner requirements of paragraphs (c)(3) and (4) of this section.
+(c) *Uniform glossary*—(1) *In general.* A group health plan, and a health insurance issuer offering group health insurance coverage, must make available to participants and beneficiaries the uniform glossary described in paragraph (c)(2) of this section in accordance with the appearance and form and manner requirements of paragraphs (c)(3) and (4) of this section.
 
 (2) *Health-coverage-related terms and medical terms.* The uniform glossary must provide uniform definitions, specified by the Secretary in guidance, of the following health-coverage-related terms and medical terms:
 
@@ -132,8 +132,7 @@
 
 (d) *Preemption.* See § 2590.731. State laws that conflict with this section (including a state law that requires a health insurance issuer to provide an SBC that supplies less information than required under paragraph (a) of this section) are preempted.
 
-(e) *Failure to provide.* A group health plan that willfully fails to provide information under this section to a participant or beneficiary is subject to a fine of not more than $1,000 (adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended) for each such failure.
-A failure with respect to each participant or beneficiary constitutes a separate offense for purposes of this paragraph (e). The Department will enforce this section using a process and procedure consistent with § 2560.502c-2 of this chapter and 29 CFR part 2570, subpart C.
+(e) *Failure to provide.* A group health plan that willfully fails to provide information under this section to a participant or beneficiary is subject to a fine of not more than $1,000 (adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended) for each such failure. A failure with respect to each participant or beneficiary constitutes a separate offense for purposes of this paragraph (e). The Department will enforce this section using a process and procedure consistent with § 2560.502c-2 of this chapter and 29 CFR part 2570, subpart C.
 
 (f) *Applicability to Medicare Advantage benefits.* The requirements of this section do not apply to a group health plan benefit package that provides Medicare Advantage benefits pursuant to or 42 U.S.C. Chapter 7, Subchapter XVIII, Part C.
 

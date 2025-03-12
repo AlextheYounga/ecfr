@@ -1,5 +1,7 @@
 ##### § 532.285 Special wage schedules for supervisors of negotiated rate Bureau of Reclamation employees. #####
 
+Link to an amendment published at 84 FR 36814, July 30, 2019.
+
 (a) The Department of the Interior shall establish and issue special wage schedules for wage supervisors of negotiated rate wage employees in the Bureau of Reclamation. These schedules shall be based on annual special wage surveys conducted by the Bureau of Reclamation in each special wage area. Survey jobs representing Bureau of Reclamation positions at up to four levels will be matched to private industry jobs in each special wage area. Special schedule rates for each position will be based on prevailing rates for that particular job in private industry.
 
 (b) Each supervisory job shall be described at one of four levels corresponding to the four supervisory situations described in Factor I and four levels of Subfactor IIIA of the FWS Job Grading Standard for Supervisors. They shall be titled in accordance with regular FWS practices, with the added designation of level I, II, III, or IV. The special survey and wage schedule for a given special wage area includes only those occupations and levels having employees in that area. For each position on the special schedule, there shall be three step rates. Step 2 is the prevailing rate as determined by the survey; step 1 is 96 percent of the prevailing rate; and step 3 is 104 percent of the prevailing rate.

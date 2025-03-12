@@ -1,7 +1,5 @@
 ##### § 385.2011 Procedures for filing on electronic media (Rule 2011). #####
 
-Link to an amendment published at 84 FR 30628, June 27, 2019.
-
 (a) FERC Forms subject to the procedures provided in this section include:
 
 (1) FERC Form No. 2, Annual report for major natural gas companies.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 30628, June 27, 2019.
 
 (7) FERC Form No. 6, Annual Report of Oil Pipeline Companies.
 
-(8) [Reserved]
+(8) FERC Form No. 1-F, Annual report for Nonmajor public utilities and licensees.
 
 (9) FERC Form No. 60, Annual report of centralized service companies.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 84 FR 30628, June 27, 2019.
 
 (2) Electronic media suitable for Commission filings are listed in the instructions for each form and filings. Additionally, lists of suitable electronic media are available upon request from the Commission.
 
-(3) With the exception of the FERC Form Nos. 1, 2, 2-A, 6, 60, and 714, the electronic media must be accompanied by the traditional prescribed number of paper copies.
+(3) With the exception of the FERC Form Nos. 1, 1-F, 2, 2-A, 6, 60, and 714, the electronic media must be accompanied by the traditional prescribed number of paper copies.
 
 (4) The formats for the electronic filing and the paper copy can be obtained at the Federal Energy Regulatory Commission, Public Reference and Files Maintenance Branch, Division of Information Services, Washington, DC 20426.
 

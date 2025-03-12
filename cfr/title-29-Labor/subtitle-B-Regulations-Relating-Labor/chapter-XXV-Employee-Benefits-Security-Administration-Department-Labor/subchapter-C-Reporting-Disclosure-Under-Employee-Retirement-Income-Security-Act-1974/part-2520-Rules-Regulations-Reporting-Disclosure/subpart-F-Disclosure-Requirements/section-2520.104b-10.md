@@ -50,7 +50,7 @@ To obtain a copy of the full annual report, or any part thereof, write or call t
 
 Summary Annual Report for (name of plan)This is a summary of the annual report of the (name of plan, EIN and type of welfare plan) for (period covered by this report). The annual report has been filed with the Employee Benefits Security Administration, as required under the Employee Retirement Income Security Act of 1974 (ERISA).[If any benefits under the plan are provided on an uninsured basis:](Name of sponsor) has committed itself to pay (all, certain) (state type of) claims incurred under the terms of the plan.[If any of the funds are used to purchase insurance contracts:]Insurance Information
 
-The plan has (a) contract(s) with (name of insurance carrier(s)) to pay (all, certain) (state type of) claims incurred under the terms of the plan. The total premiums paid for the plan year ending (date) were ($\_\_\_\_\_).
+The plan has (a) contract(s) with (name of insurance carrier(s)) to pay (all, certain) (state type of) claims incurred under the terms of the plan. The total premiums paid for the plan year ending (date) were ($\_\_\_\_\_\_\_\_\_\_).
 
 [If applicable add:]
 

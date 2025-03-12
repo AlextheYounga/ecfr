@@ -1,7 +1,5 @@
 ##### § 2510.3-1 Employee welfare benefit plan. #####
 
-Link to an amendment published at 84 FR 29000, June 20, 2019.
-
 (a) *General.* (1) The purpose of this section is to clarify the definition of the terms “employee welfare benefit plan” and “welfare plan” for purposes of title I of the Act and this chapter by identifying certain practices which do not constitute employee welfare benefit plans for those purposes. In addition, the practices listed in this section do not constitute employee pension benefit plans within the meaning of section 3(2) of the Act, and, therefore, do not constitute employee benefit plans within the meaning of section 3(3). Since under section 4(a) of the Act, only employee benefit plans within the meaning of section 3(3) are subject to title I of the Act, the practices listed in this section are not subject to title I.
 
 (2) The terms “employee welfare benefit plan” and “welfare plan” are defined in section 3(1) of the Act to include plans providing “(i) medical, surgical, or hospital care or benefits, or benefits in the event of sickness, accident, disability, death or unemployment, or vacation benefits, apprenticeship or other training programs, or day care centers, scholarship funds, or prepaid legal services, or (ii) any benefit described in section 302(c) of the Labor Management Relations Act, 1947 (other than pensions on retirement or death, and insurance to provide such pensions).” Under this definition, only plans which provide benefits described in section 3(1)(A) of the Act or in section 302(c) of the Labor-Management Relations Act, 1947 (hereinafter “the LMRA”) (other than pensions on retirement or death) constitute welfare plans. For example, a system of payroll deductions by an employer for deposit in savings accounts owned by its employees is not an employee welfare benefit plan within the meaning of section 3(1) of the Act because it does not provide benefits described in section 3(1)(A) of the Act or section 302(c) of the LMRA. (In addition, if each employee has the right to withdraw the balance in his or her account at any time, such a payroll savings plan does not meet the requirements for a pension plan set forth in section 3(2) of the Act and, therefore, is not an employee benefit plan within the meaning of section 3(3) of the Act).
@@ -10,9 +8,9 @@ Link to an amendment published at 84 FR 29000, June 20, 2019.
 
 (4) Some of the practices listed in this section as excluded from the definition of “welfare plan” or mentioned as examples of general categories of excluded practices are inserted in response to questions received by the Department of Labor and, in the Department's judgment, do not represent borderline cases under the definition in section 3(1) of the Act. Therefore, this section should not be read as implicitly indicating the Department's views on the possible scope of section 3(1).
 
-(b) *Payroll practices.* For purposes of title I of the Act and this chapter, the terms “employee welfare benefit plan” and “welfare plan” shall not include -
+(b) *Payroll practices.* For purposes of title I of the Act and this chapter, the terms “employee welfare benefit plan” and “welfare plan” shall not include—
 
-(1) Payment by an employer of compensation on account of work performed by an employee, including compensation at a rate in excess of the normal rate of compensation on account of performance of duties under other than ordinary circumstances, such as -
+(1) Payment by an employer of compensation on account of work performed by an employee, including compensation at a rate in excess of the normal rate of compensation on account of performance of duties under other than ordinary circumstances, such as—
 
 (i) Overtime pay,
 
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 29000, June 20, 2019.
 
 (2) Payment of an employee's normal compensation, out of the employer's general assets, on account of periods of time during which the employee is physically or mentally unable to perform his or her duties, or is otherwise absent for medical reasons (such as pregnancy, a physical examination or psychiatric treatment); and
 
-(3) Payment of compensation, out of the employer's general assets, on account of periods of time during which the employee, although physically and mentally able to perform his or her duties and not absent for medical reasons (such as pregnancy, a physical examination or psychiatric treatment) performs no duties; for example -
+(3) Payment of compensation, out of the employer's general assets, on account of periods of time during which the employee, although physically and mentally able to perform his or her duties and not absent for medical reasons (such as pregnancy, a physical examination or psychiatric treatment) performs no duties; for example—
 
 (i) Payment of compensation while an employee is on vacation or absent on a holiday, including payment of premiums to induce employees to take vacations at a time favorable to the employer for business reasons,
 
@@ -36,7 +34,7 @@ Link to an amendment published at 84 FR 29000, June 20, 2019.
 
 (v) Payment of compensation to an employee who is relieved of duties while on sabbatical leave or while pursuing further education.
 
-(c) *On-premises facilities.* For purposes of title I of the Act and this chapter, the terms “employee welfare benefit plan” and “welfare plan” shall not include -
+(c) *On-premises facilities.* For purposes of title I of the Act and this chapter, the terms “employee welfare benefit plan” and “welfare plan” shall not include—
 
 (1) The maintenance on the premises of an employer or of an employee organization of recreation, dining or other facilities (other than day care centers) for use by employees or members; and
 
@@ -66,4 +64,16 @@ Link to an amendment published at 84 FR 29000, June 20, 2019.
 
 (k) *Unfunded scholarship programs.* For purposes of title I of the Act and this chapter, the terms “employe welfare benefit plan” and “welfare plan” shall not include a scholarship program, including a tuition and education expense refund program, under which payments are made solely from the general assets of an employer or employee organization.
 
-[40 FR 34530, Aug. 15, 1975]
+(l) *Safe harbor for health reimbursement arrangements (HRAs) and certain other arrangements that reimburse individual health insurance coverage.* For purposes of title I of the Act and this chapter, the terms “employee welfare benefit plan” and “welfare plan” shall not include individual health insurance coverage the premiums of which are reimbursed by a health reimbursement arrangement (HRA) (or other account-based group health plan), including an HRA or other account-based group health plan integrated with individual health insurance coverage (as described in § 2590.702-2 of this chapter), an HRA that covers fewer than two current employees (as described in § 2590.732(b) of this chapter) and that reimburses premiums for individual health insurance coverage, a qualified small employer health reimbursement arrangement (QSEHRA), as defined in section 9831(d)(2) of the Code, or an arrangement under which an employer allows employees to pay the portion of the premium for individual health insurance coverage that is not covered by an HRA or other account-based group health plan with which the coverage is integrated by using a salary reduction arrangement in a cafeteria plan under section 125 of the Code (supplemental salary reduction arrangement), if all the conditions of this paragraph (l) are satisfied.
+
+(1) The purchase of any individual health insurance coverage is completely voluntary for participants and beneficiaries. The fact that a plan sponsor requires such coverage to be purchased as a condition for participation in an HRA or supplemental salary reduction arrangement does not make the purchase involuntary.
+
+(2) The employer, employee organization, or other plan sponsor does not select or endorse any particular issuer or insurance coverage. In contrast, providing general contact information regarding availability of health insurance in a state (such as providing information regarding *www.HealthCare.gov* or contact information for a state insurance commissioner's office) or providing general health insurance educational information (such as the uniform glossary of health coverage and medical terms available at: *https://www.dol.gov/sites/default/files/ebsa/laws-and-regulations/laws/affordable-care-act/for-employers-and-advisers/sbc-uniform-glossary-of-coverage-and-medical-terms-final.pdf*) is permitted.
+
+(3) Reimbursement for non-group health insurance premiums is limited solely to individual health insurance coverage (as defined in § 2590.701-2 of this chapter) that does not consist solely of excepted benefits (as defined in § 2590.732(c) of this chapter).
+
+(4) The employer, employee organization, or other plan sponsor receives no consideration in the form of cash or otherwise in connection with the employee's selection or renewal of any individual health insurance coverage.
+
+(5) Each plan participant is notified annually that the individual health insurance coverage is not subject to title I of ERISA. For an HRA that is integrated with individual health insurance coverage, the notice must satisfy the notice requirement set forth in § 2590.702-2(c)(6) of this chapter. A QSEHRA or an HRA not subject to the notice requirement set forth in § 2590.702-2(c)(6) of this chapter may use the following language to satisfy this condition: “The individual health insurance coverage that is paid for by this plan, if any, is not subject to the rules and consumer protections of the Employee Retirement Income Security Act. You should contact your state insurance department for more information regarding your rights and responsibilities if you purchase individual health insurance coverage.” A supplemental salary reduction arrangement is not required to provide this notice as the notice will be provided by the HRA that such an arrangement supplements.
+
+[40 FR 34530, Aug. 15, 1975, as amended at 84 FR 29000, June 20, 2019]

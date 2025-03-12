@@ -48,11 +48,7 @@ As used in this chapter:
 
 (w) The term *DHS* means the Department of Homeland Security. These rules incorporate by reference the organizational definitions for components of DHS as provided in 8 CFR 1.1.
 
-(x) The term *OLAP* means the Office of Legal Access Programs.
-
-(y) The term *OLAP Director* means the Program Director of the Office of Legal Access Programs.
-
-(aa) [Reserved]
+(x)-(aa) [Reserved]
 
 (bb) The term *transition program effective date* as used with respect to extending the immigration laws to the Commonwealth of the Northern Mariana Islands means November 28, 2009.
 
