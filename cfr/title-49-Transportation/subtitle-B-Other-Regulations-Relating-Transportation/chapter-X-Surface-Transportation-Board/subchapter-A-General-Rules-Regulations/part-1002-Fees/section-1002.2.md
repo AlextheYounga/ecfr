@@ -1,5 +1,7 @@
 ##### § 1002.2 Filing fees. #####
 
+Link to an amendment published at 82 FR 35907, Aug. 2, 2017.
+
 (a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing. Filing fees for tariffs, including schedules, and contract summaries, including supplements (Item 78), and filing fees for documents submitted for recording (Item 83) may be charged to accounts established by the Board in accordance with paragraph (a)(2) of this section.
 
 (2) *Billing account procedure.* Form STB-1032 must be submitted to the Board's Section of Financial Services to establish STB billing accounts for filing fees for tariffs and for documents submitted for recording.

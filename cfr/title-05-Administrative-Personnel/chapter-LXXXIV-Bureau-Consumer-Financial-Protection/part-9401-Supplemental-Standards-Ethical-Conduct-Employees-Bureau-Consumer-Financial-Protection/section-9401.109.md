@@ -1,5 +1,7 @@
 ##### § 9401.109 Disqualification of employees from particular matters involving creditors. #####
 
+Link to an amendment published at 82 FR 35887, Aug. 2, 2017.
+
 (a) *Disqualification required.* Absent an authorization pursuant to paragraph (d) of this section, an employee shall not participate in a particular matter involving specific parties if the employee is aware that any of the following have credit with or are indebted to an entity that is or represents a party to the matter:
 
 (1) The employee;

@@ -1,5 +1,7 @@
 ##### § 9401.102 Definitions. #####
 
+Link to an amendment published at 82 FR 35883, Aug. 2, 2017.
+
 For purposes of this part:
 
 *CFPB Ethics Regulations* means the supplemental ethics standards set forth in this part.

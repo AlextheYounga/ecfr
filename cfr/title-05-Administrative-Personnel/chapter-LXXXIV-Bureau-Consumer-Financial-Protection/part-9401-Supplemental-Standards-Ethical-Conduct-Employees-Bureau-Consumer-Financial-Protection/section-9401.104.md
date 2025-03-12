@@ -1,5 +1,7 @@
 ##### § 9401.104 Additional rules concerning outside employment for covered employees. #####
 
+Link to an amendment published at 82 FR 35885, Aug. 2, 2017.
+
 (a) *Prohibited outside employment.* A covered employee shall not engage in compensated outside employment for an entity supervised by the Bureau or for an officer, director, or employee of such entity.
 
 (b) *Definition of employment.* For purposes of this section, “employment” has the same meaning as set forth in § 9401.103(b) of this part.

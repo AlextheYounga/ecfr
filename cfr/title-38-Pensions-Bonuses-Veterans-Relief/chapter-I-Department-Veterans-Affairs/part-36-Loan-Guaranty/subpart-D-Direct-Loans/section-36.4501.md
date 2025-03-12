@@ -1,5 +1,7 @@
 ##### § 36.4501 Definitions. #####
 
+Link to an amendment published at 82 FR 35904, Aug. 2, 2017.
+
 Wherever used in 38 U.S.C. 3711, 3762 or the regulations concerning direct loans to veterans, unless the context otherwise requires, the terms defined in this section shall have the meaning herein stated, namely:
 
 *Cost* means the entire consideration paid or payable for or on account of the application of materials and labor to tangible property.

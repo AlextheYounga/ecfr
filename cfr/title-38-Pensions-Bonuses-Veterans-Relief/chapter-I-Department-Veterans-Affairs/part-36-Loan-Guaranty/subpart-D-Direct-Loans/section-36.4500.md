@@ -1,5 +1,7 @@
 ##### § 36.4500 Applicability and qualified mortgage status. #####
 
+Link to an amendment published at 82 FR 35904, Aug. 2, 2017.
+
 (a) *Applicability to direct loans.* The regulations concerning direct loans to veterans shall be applicable to loans made by Department of Veterans Affairs pursuant to 38 U.S.C. 3711.
 
 (b) *Applicability to direct loans to Native Americans.* Sections 36.4501, 36.4512, and 36.4527, which concern direct loans to Native American veterans shall be applicable to loans made by the Secretary pursuant to 38 U.S.C. 3761 through 3764.

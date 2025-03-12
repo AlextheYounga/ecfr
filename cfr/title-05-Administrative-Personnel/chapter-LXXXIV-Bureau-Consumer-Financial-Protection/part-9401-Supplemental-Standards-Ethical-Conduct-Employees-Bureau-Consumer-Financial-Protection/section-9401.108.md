@@ -1,5 +1,7 @@
 ##### § 9401.108 Restrictions on seeking, obtaining, or renegotiating credit from an entity that is or represents a party to a matter to which an employee is assigned or may be assigned. #####
 
+Link to an amendment published at 82 FR 35886, Aug. 2, 2017.
+
 (a) *Prohibition on employee seeking, obtaining, or renegotiating credit or indebtedness.* (1) While an employee is assigned to participate in a particular matter involving specific parties, the employee shall not seek, obtain, or renegotiate credit or indebtedness with an entity that is or represents a party to the matter. This prohibition also applies to a particular matter involving specific parties pending at the Bureau in which the employee is not currently participating but of which the employee is aware and believes it is likely that he or she will participate.
 
 (2) The prohibition in paragraph (a)(1) of this section continues for two years after the employee's participation in the particular matter has ended.

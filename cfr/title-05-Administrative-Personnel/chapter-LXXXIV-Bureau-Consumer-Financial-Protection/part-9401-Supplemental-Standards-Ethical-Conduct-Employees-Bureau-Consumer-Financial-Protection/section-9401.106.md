@@ -1,5 +1,7 @@
 ##### § 9401.106 Prohibited financial interests. #####
 
+Link to an amendment published at 82 FR 35885, Aug. 2, 2017.
+
 (a) *Prohibited interests.* Except as permitted by this section, an employee or an employee's spouse or minor child shall not own or control a debt or equity interest in an entity supervised by the Bureau.
 
 (b) *Exceptions.* Interests prohibited in paragraph (a) of this section do not include the ownership or control of a debt or equity interest in:
