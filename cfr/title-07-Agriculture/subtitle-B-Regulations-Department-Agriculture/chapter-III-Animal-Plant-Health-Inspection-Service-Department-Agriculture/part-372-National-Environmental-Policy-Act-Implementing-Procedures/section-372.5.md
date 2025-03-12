@@ -1,5 +1,7 @@
 ##### § 372.5 Classification of actions. #####
 
+Link to an amendment published at 83 FR 24010, May 24, 2018.
+
 (a) *Actions normally requiring environmental impact statements.* This class of policymakings and rulemakings seeks to establish programmatic approaches to animal and plant health issues. Actions in this class typically involve the agency, an entire program, or a substantial program component and are characterized by their broad scope (often global or nationwide) and potential effect (impacting a wide range of environmental quality values or indicators, whether or not affected individuals or systems may be completely identified at the time). Ordinarily, new or untried methodologies, strategies, or techniques to deal with pervasive threats to animal and plant health are the subjects of this class of actions. Alternative means of dealing with those threats usually have not been well developed. Actions in this class include:
 
 (1) Formulation of contingent response strategies to combat future widespread outbreaks of animal and plant diseases; and

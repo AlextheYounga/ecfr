@@ -1,3 +1,5 @@
 ##### § 372.3 Information and assistance. #####
 
+Link to an amendment published at 83 FR 24009, May 24, 2018.
+
 Information, including the status of studies, and the availability of reference materials, as well as the informal interpretations of APHIS' NEPA procedures and other forms of assistance, will be made available upon request to Environmental Analysis and Documentation, Biotechnology, Biologics, and Environmental Protection, APHIS, USDA, P.O. Drawer 810, Riverdale MD 20738, (301) 436-8565 (Hyattsville) or (301) 734-8565 (Riverdale).

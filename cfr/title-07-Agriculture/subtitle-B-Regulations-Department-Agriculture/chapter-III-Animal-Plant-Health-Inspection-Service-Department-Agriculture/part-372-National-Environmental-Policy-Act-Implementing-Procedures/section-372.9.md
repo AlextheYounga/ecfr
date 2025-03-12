@@ -1,5 +1,7 @@
 ##### § 372.9 Processing and use of environmental documents. #####
 
+Link to an amendment published at 83 FR 24011, May 24, 2018.
+
 (a) Environmental assessments will be forwarded immediately upon completion to the decisionmaker for a determination of whether the proposed action may have significant effects on the quality of the human environment, and for the execution, as appropriate, of a finding of no significant impact or a notice of intent to prepare an environmental impact statement.
 
 (1) The availability of environmental assessments will be announced by publishing a notice consistent with the notification provisions of § 372.8.

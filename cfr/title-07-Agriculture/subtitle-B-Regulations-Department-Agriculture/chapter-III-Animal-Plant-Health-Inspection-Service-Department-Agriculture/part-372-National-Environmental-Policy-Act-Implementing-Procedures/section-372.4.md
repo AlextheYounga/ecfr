@@ -1,5 +1,7 @@
 ##### § 372.4 Definitions. #####
 
+Link to an amendment published at 83 FR 24010, May 24, 2018.
+
 The terminology set forth in the Council on Environmental Quality's (CEQ) implementing regulations at 40 CFR part 1508 is incorporated herein. In addition, the following terms, as used in these procedures, are defined as follows:
 
 *APHIS.* The Animal and Plant Health Inspection Service (APHIS).

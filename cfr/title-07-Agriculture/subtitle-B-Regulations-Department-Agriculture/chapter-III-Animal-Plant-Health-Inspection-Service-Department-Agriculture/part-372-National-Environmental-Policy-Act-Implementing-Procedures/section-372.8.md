@@ -1,5 +1,7 @@
 ##### § 372.8 Major planning and decision points and public involvement. #####
 
+Link to an amendment published at 83 FR 24011, May 24, 2018.
+
 (a) *Major planning and decisions points.* The NEPA process will be fully coordinated with APHIS planning in cooperation with program personnel. Specific decision points or milestones will be identified and communicated to the public and others in a notice of intent and in the context of the public scoping process.
 
 (b) *Public involvement.* There will be an early and open process for determining the scope of issues to be addressed in the environmental impact statement process.
