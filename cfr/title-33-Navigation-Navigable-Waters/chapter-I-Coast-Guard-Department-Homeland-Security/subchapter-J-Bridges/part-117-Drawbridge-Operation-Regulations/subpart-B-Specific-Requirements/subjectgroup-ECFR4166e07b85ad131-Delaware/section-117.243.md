@@ -1,5 +1,7 @@
 ##### § 117.243 Nanticoke River. #####
 
+Link to an amendment published at 82 FR 50084, Oct. 30, 2017.
+
 (a) The draw of the Norfolk Southern Railway Bridge, mile 39.4 in Seaford, will operate as follows:
 
 (1) From March 15 through November 15, the draw will open on signal for all vessels except that from 11 p.m. to 5 a.m. at least 21/2 hours notice will be required.

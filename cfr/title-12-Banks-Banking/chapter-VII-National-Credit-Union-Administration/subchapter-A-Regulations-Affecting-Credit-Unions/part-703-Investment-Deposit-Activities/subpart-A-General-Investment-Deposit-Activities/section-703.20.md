@@ -1,5 +1,7 @@
 ##### § 703.20 Request for additional authority. #####
 
+Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
+
 (a) *Additional authority.* A federal credit union may submit a written request to its regional director seeking expanded authority above the following limits in this part:
 
 (1) Borrowing repurchase transaction maximum maturity mismatch of 30 days under § 703.13(d)(3)(ii).

@@ -1,3 +1,5 @@
 ##### § 709.7 Procedures for appeal of initial determination. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 In order to appeal all or part of an initial decision which disallows a claim, in whole or in part, a claimant must, within 60 days of the mailing of the initial determination, file an administrative appeal pursuant to § 709.8 of this part, or file suit against the liquidated credit union in the United States District Court for the District of Columbia or in the United States district court having jurisdiction over the place where the credit union's principal place of business is located, or continue an action commenced before the appointment of the liquidating agent. If the claimant does not appeal or file or continue a suit, any disallowance shall be final and the claimant shall have no further rights or remedies with respect to such claim.

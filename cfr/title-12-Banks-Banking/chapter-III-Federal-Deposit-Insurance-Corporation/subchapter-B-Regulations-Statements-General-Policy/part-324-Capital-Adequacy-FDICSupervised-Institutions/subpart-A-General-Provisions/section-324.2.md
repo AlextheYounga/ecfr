@@ -1,5 +1,7 @@
 ##### § 324.2 Definitions. #####
 
+Link to an amendment published at 82 FR 50260, Oct. 30, 2017.
+
 As used in this part:
 
 *Additional tier 1 capital* is defined in § 324.20(c).

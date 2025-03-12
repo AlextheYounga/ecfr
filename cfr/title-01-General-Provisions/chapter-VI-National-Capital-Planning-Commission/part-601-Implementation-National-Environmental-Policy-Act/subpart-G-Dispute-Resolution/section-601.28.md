@@ -1,0 +1,3 @@
+##### § 601.28 Dispute resolution. #####
+
+Any disputes arising under this part, shall be resolved, unless otherwise otherwise provided by law or regulation by the parties through interagency, good faith negotiations starting at the working levels of each agency, and if necessary, by elevating such disputes within the respective Agencies. If resolution at higher levels is unsuccessful, the parties may participate in mediation.

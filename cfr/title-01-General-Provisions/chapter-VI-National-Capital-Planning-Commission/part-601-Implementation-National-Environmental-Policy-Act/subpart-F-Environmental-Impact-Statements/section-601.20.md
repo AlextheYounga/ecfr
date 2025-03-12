@@ -1,0 +1,3 @@
+##### § 601.20 Streamlining Environmental Impact Statements. #####
+
+The NCPC as Lead Agency shall use all available techniques to minimize the length of an EIS. Such techniques include, without limitation, drafting an EIS in clear, concise language; preparing an analytic vs. encyclopedic EIS; reducing emphasis on background information; using the scoping process to emphasize significant issues and de-emphasize non-significant issues; incorporating relevant information by reference; using a programmatic EIS and tiering to eliminate duplication in subsequent EISs; and following the format guidelines of § 601.22.

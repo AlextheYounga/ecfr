@@ -1,5 +1,7 @@
 ##### § 705.10 Appeals. #####
 
+Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
+
 (a) *Appeals of non-qualification.* A Qualifying Credit Union whose application for a loan or technical assistance grant has been denied, under § 705.7(f), for failure of a qualification may appeal that decision to the NCUA Board in accordance with the following:
 
 (1) Within thirty days of its receipt of a notice of non-qualification, a credit union may appeal the decision to the NCUA Board. The scope of the NCUA Board's review is limited to the threshold question of qualification and not the issue of whether, among qualified applicants, a particular loan or technical assistance grant is funded.

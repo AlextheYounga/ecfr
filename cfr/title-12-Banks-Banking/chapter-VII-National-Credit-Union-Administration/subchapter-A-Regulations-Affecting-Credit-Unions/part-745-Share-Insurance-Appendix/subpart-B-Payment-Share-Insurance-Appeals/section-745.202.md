@@ -1,5 +1,7 @@
 ##### § 745.202 Appeal. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 (a) *Time for filing.* Within 60 days after issuance of an initial determination, or of the determination on a request for reconsideration by the liquidating agent, the accountholder may appeal by filing with the Board a written request for appeal. The appeal may be filed with the Secretary of the Board, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428.
 
 (b) *Content of request.* Any appeal must include:

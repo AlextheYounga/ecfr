@@ -1,5 +1,7 @@
 ##### § 230.146 Rules under section 18 of the Act. #####
 
+Link to an amendment published at 82 FR 50069, Oct. 30, 2017.
+
 (a) *Prepared by or on behalf of the issuer.* An offering document (as defined in Section 18(d)(1) of the Act [15 U.S.C. 77r(d)(1)]) is “prepared by or on behalf of the issuer” for purposes of Section 18 of the Act, if the issuer or an agent or representative:
 
 (1) Authorizes the document's production, and

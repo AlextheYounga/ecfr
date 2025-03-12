@@ -1,5 +1,7 @@
 ##### § 703.114 Regulatory violation. #####
 
+Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
+
 (a) A Federal credit union with derivatives authority that no longer meets the requirements of this subpart or fails to comply with its approved strategy (including employing the resources, policies, procedures, accounting, and competencies that formed the basis for the approval) must:
 
 (1) Immediately stop entering into any new derivatives transactions until the Federal credit union is in compliance with this subpart. During this period, however, the Federal credit union may terminate existing derivatives transactions. NCUA may permit a Federal credit union to enter into offsetting transactions if NCUA determines these transactions are part of a corrective action strategy.

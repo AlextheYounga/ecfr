@@ -1,7 +1,5 @@
 ##### § 1024.39 Early intervention requirements for certain borrowers. #####
 
-Link to an amendment published at 82 FR 47957, Oct. 16, 2017.
-
 (a) *Live contact.* Except as otherwise provided in this section, a servicer shall establish or make good faith efforts to establish live contact with a delinquent borrower no later than the 36th day of a borrower's delinquency and again no later than 36 days after each payment due date so long as the borrower remains delinquent. Promptly after establishing live contact with a borrower, the servicer shall inform the borrower about the availability of loss mitigation options, if appropriate.
 
 (b) *Written notice* - (1) *Notice required.* Except as otherwise provided in this section, a servicer shall provide to a delinquent borrower a written notice with the information set forth in paragraph (b)(2) of this section no later than the 45th day of the borrower's delinquency and again no later than 45 days after each payment due date so long as the borrower remains delinquent. A servicer is not required to provide the written notice, however, more than once during any 180-day period. If a borrower is 45 days or more delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 180 days after the provision of the prior written notice. If a borrower is less than 45 days delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 45 days after the payment due date for which the borrower remains delinquent.
@@ -60,6 +58,6 @@ Link to an amendment published at 82 FR 47957, Oct. 16, 2017.
 
 (ii) The written notice may not contain a request for payment.
 
-(iii) A servicer is prohibited from providing the written notice more than once during any 180-day period.
+(iii) A servicer is prohibited from providing the written notice more than once during any 180-day period. If a borrower is 45 days or more delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 190 days after the provision of the prior written notice. If a borrower is less than 45 days delinquent at the end of any 180-day period after the servicer has provided the written notice, a servicer must provide the written notice again no later than 45 days after the payment due date for which the borrower remains delinquent or 190 days after the provision of the prior written notice, whichever is later.
 
-[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013; 78 FR 63004, Oct. 23, 2013; 81 FR 72373, Oct. 19, 2016]
+[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013; 78 FR 63004, Oct. 23, 2013; 81 FR 72373, Oct. 19, 2016; 82 FR 47957, Oct. 16, 2017]

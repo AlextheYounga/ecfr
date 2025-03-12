@@ -1,5 +1,7 @@
 ##### § 741.11 Foreign branching. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 (a) *Application and prior NCUA approval required.* Any credit union insured under title II of the Act must apply for and receive approval from the regional director before establishing a credit union branch outside the United States unless the foreign branch is located on a United States military instillation or embassy outside the United States. The regional director will have 60 days to approve or deny the request.
 
 (b) *Contents of application.* The application must include a business plan, written approval by the state supervisory agency if the applicant is a state-chartered credit union, and documentation evidencing written permission from the host country to establish the branch that explicitly recognizes NCUA's authority to examine and take any enforcement action, including conservatorship and liquidation actions.

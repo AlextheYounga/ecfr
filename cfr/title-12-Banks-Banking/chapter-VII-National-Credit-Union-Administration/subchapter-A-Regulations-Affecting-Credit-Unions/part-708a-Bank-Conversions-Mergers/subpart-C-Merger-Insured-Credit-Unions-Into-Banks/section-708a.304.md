@@ -1,5 +1,7 @@
 ##### § 708a.304 Notice to NCUA and request to proceed with member vote. #####
 
+Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
+
 (a) *NIMRA.* If a credit union's board of directors adopts a proposal to merge, it must, within 30 days of the adoption, provide the Regional Director with a Notice of its Intent to Merge and Request for NCUA Authorization (NIMRA) to conduct a member vote. The NIMRA must include the following:
 
 (1) The merger plan (as described below in paragraph (b) of this section);

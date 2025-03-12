@@ -1,5 +1,7 @@
 ##### § 745.203 Judicial review. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 (a) For purposes of seeking judicial review of actions taken pursuant to this subpart, only a determination on appeal issued by the Board pursuant to § 745.202 of this subpart shall constitute a final determination regarding an accountholder's claim for insurance.
 
 (b) Failure to file an appeal with regard to an initial determination, or a decision rendered on a request for reconsideration with the applicable time periods shall constitute a failure by the accountholder to exhaust available administrative remedies and, due to such failure, any objections to the initial determination or request for reconsideration shall be deemed to be waived and such determination shall be deemed to have been accepted by, and binding upon, the accountholder.

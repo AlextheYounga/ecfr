@@ -1,0 +1,9 @@
+##### § 601.16 Finding of No Significant Impact. #####
+
+(a) If NCPC is the Lead Agency and the final EA supports a FONSI, NCPC shall prepare and execute a FONSI. The FONSI shall be prepared following closure of the discretionary public comment period on a Draft EA, or if no public comment period is deemed necessary, at the conclusion of the preparation of an EA. The FONSI shall briefly state the reasons why the proposed action will not have a significant effect on the environment and include the EA or a summary thereof, any Mitigation commitments, and a schedule for implementing the Mitigation commitments. The FONSI shall be signed following the Commission final approval of the applicant's project.
+
+(b) If NCPC is not the Lead Agency, it shall evaluate the adequacy of the Lead Agency's FONSI. If NCPC determines the FONSI to be adequate, NCPC shall proceed as follows. If consistent with the Federal Agency's NEPA regulations, NCPC may co-sign the Lead Agency's FONSI following the Commission final approval of the application. Alternatively, NCPC may prepare and execute its own FONSI consistent with the requirements of paragraph (a) of this section and sign the FONSI following the Commission's final approval of the project.
+
+(c) In certain limited circumstances described in 40 CFR 1501.4(e)(2)(i) and (ii), a FONSI prepared by NCPC shall be available for public review for thirty (30) days before NCPC makes it final determination. NCPC shall also publish all FONSIs on its Web site seven (7) calendar days before the Commission takes action on the underlying application.
+
+(d) If the Commission determines a Lead Agency's EA does not support a FONSI, either the Lead Agency shall prepare an EIS, or the Commission shall not approve or consider further the underlying application.

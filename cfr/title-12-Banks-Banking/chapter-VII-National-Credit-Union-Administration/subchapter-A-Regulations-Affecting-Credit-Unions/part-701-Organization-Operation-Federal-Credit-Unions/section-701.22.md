@@ -1,5 +1,7 @@
 ##### § 701.22 Loan participations. #####
 
+Link to an amendment published at 82 FR 50291, Oct. 30, 2017.
+
 This section applies only to loan participations as defined in paragraph (a) of this section. It does not apply to the purchase of an investment interest in a pool of loans. This section establishes the requirements a federally insured credit union must satisfy to purchase a participation in a loan. This section applies only to a federally insured credit union's purchase of a loan participation where the borrower is not a member of that credit union and where a continuing contractual obligation between the seller and purchaser is contemplated. Generally, a federal credit union's purchase of all or part of a loan made to one of its own members, subject to a limited exception for certain well capitalized federal credit unions in § 701.23(b)(2), where no continuing contractual obligation between the seller and purchaser is contemplated, is governed by § 701.23 of this part. Federally insured, state-chartered credit unions are required by § 741.225 of this chapter to comply with the loan participation requirements of this section. This section does not apply to corporate credit unions, as that term is defined in § 704.2 of this chapter.
 
 (a) For purposes of this section, the following definitions apply:

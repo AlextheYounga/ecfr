@@ -1,5 +1,7 @@
 ##### § 750.6 Filing instructions; appeal. #####
 
+Link to an amendment published at 82 FR 50297, Oct. 30, 2017.
+
 (a) Requests to make excess nondiscriminatory severance plan payments pursuant to§ 750.1(d)(2)(v) and golden parachute payments permitted by § 750.4 must be submitted in writing to NCUA. In the case of a Federal or state chartered natural person credit union, such written requests must be submitted to the NCUA regional director for the region in which the credit union is located. In the case of a Federal or state chartered corporate credit union, such written requests must be submitted to the Director of the Office of National Examinations and Supervision. The request must be in letter form and must contain all relevant factual information as well as the reasons why such approval should be granted. If written concurrence by the state supervisory authority is required, the requesting party must submit a copy of its written request to the state supervisory authority where the credit union is located.
 
 (b) An FICU whose request for approval by NCUA in accordance with paragraph (a) of this section has been denied may file an appeal of that denial with the NCUA Board by following the procedures set out in this paragraph.

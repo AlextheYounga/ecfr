@@ -1,5 +1,7 @@
 ##### § 709.11 Treatment by conservator or liquidating agent of collateralized public funds. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 An agreement to provide for the lawful collateralization of funds of a federal, state, or local governmental entity or of any depositor or member referred to in section 207(k)(2)(A) of the Act will not be deemed to be invalid under sections 207(b)(9) and 208(a)(3) of the Act solely because such agreement was not executed contemporaneously with the acquisition of collateral or with any changes, increases, or substitutions in the collateral made in accordance with such agreement, provided the following conditions are met:
 
 (a) The agreement was undertaken in the ordinary course of business, not in contemplation of insolvency, and with no intent to hinder, delay or defraud the credit union or its creditors;

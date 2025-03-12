@@ -1,5 +1,7 @@
 ##### § 703.111 NCUA approval. #####
 
+Link to an amendment published at 82 FR 50293, Oct. 30, 2017.
+
 (a) *Interim approval.* The field director will notify the Federal credit union in writing if the field director has approved or denied its application and, if applicable, the reason(s) for any denial. A Federal credit union approved for derivatives authority may not enter into any derivatives transactions until it receives final approval from NCUA under paragraph (c) of this section.
 
 (b) *Notice of readiness.* A Federal credit union approved under paragraph (a) of this section must provide written notification to NCUA when it is ready to begin using derivatives.

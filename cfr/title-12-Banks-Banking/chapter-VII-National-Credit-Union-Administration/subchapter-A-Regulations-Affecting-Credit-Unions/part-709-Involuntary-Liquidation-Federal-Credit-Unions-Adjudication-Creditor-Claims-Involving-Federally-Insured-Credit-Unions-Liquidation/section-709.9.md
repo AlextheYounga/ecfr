@@ -1,5 +1,7 @@
 ##### § 709.9 Expedited determination of creditor claims. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 (a) *General.* The provisions of this section establish procedures under which claimants may request expedited relief in lieu of the procedures set forth in § 709.6 of this part. A claimant shall be entitled to expedited determination of a claim only upon a showing that there exists a legally valid and enforceable or perfected security interest in assets of the liquidated credit union and that irreparable injury will occur if the routine claims procedure is followed.
 
 (b) *Filing of request for expedited relief.* All requests for expedited relief must be filed within 30 days from the date of mailing, by the liquidating agent, of the notice to the creditor concerned. The request shall be deemed to be filed when received by the Secretary of the Board, National Credit Union Administration, 1775 Duke Street, Alexandria, VA 22314-3428. A copy of the request must be simultaneously served upon the liquidating agent for the credit union concerned. There shall be no right of personal appearance before the Board in connection with any claim submitted under this paragraph.

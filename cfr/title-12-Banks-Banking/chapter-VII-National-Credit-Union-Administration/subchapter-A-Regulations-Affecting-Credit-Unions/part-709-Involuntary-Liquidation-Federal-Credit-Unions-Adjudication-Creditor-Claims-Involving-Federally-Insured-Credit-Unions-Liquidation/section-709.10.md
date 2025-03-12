@@ -1,5 +1,7 @@
 ##### § 709.10 Treatment of financial assets transferred in connection with a securitization or participation. #####
 
+Link to an amendment published at 82 FR 50294, Oct. 30, 2017.
+
 (a) *Definitions.*
 
 *Financial asset* means cash or a contract or instrument that conveys to one entity a contractual right to receive cash or another financial instrument from another entity.
