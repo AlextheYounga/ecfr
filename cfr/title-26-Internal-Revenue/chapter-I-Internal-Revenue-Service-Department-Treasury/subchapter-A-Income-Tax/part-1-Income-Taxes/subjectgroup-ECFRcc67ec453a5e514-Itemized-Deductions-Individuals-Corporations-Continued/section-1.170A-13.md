@@ -1,7 +1,5 @@
 ##### § 1.170A-13 Recordkeeping and return requirements for deductions for charitable contributions. #####
 
-Link to an amendment published at 84 FR 27530, June 13, 2019.
-
 (a) *Charitable contributions of money made in taxable years beginning after December 31, 1982* - (1) *In general.* If a taxpayer makes a charitable contribution of money in a taxable year beginning after December 31, 1982, the taxpayer shall maintain for each contribution one of the following:
 
 (i) A cancelled check.
@@ -372,7 +370,7 @@ In general, the term, refers only to the original donee. However, with respect t
 
 (6) *In consideration for.* A donee organization provides goods or services in consideration for a taxpayer's payment if, at the time the taxpayer makes the payment to the donee organization, the taxpayer receives or expects to receive goods or services in exchange for that payment. Goods or services a donee organization provides in consideration for a payment by a taxpayer include goods or services provided in a year other than the year in which the taxpayer makes the payment to the donee organization.
 
-(7) *Good faith estimate.* For purposes of this section, good faith estimate means a donee organization's estimate of the fair market value of any goods or services, without regard to the manner in which the organization in fact made that estimate. See § 1.170A-1(h)(4) for rules regarding when a taxpayer may treat a donee organization's estimate of the value of goods or services as the fair market value.
+(7) *Good faith estimate.* For purposes of this section, good faith estimate means a donee organization's estimate of the fair market value of any goods or services, without regard to the manner in which the organization in fact made that estimate. See § 1.170A-1(h)(5) for rules regarding when a taxpayer may treat a donee organization's estimate of the value of goods or services as the fair market value.
 
 (8) *Certain goods or services disregarded* - (i) *In general.* For purposes of section 170(f)(8), the following goods or services are disregarded -
 
@@ -434,4 +432,4 @@ Example.Taxpayer makes a $400 payment to Charity *L,* a donee organization. Purs
 
 (18) *Effective date.* This paragraph (f) applies to contributions made on or after December 16, 1996. However, taxpayers may rely on the rules of this paragraph (f) for contributions made on or after January 1, 1994.
 
-[T.D. 8002, 49 FR 50664, 50666, Dec. 31, 1984, as amended by T.D. 8003, 49 FR 50659, Dec. 31, 1984; T.D. 8199, 53 FR 16080, May 5, 1988; 53 FR 18372, May 23, 1988; T.D. 8623, 60 FR 53128, Oct. 12, 1995; T.D. 8690, 61 FR 65952, Dec. 16, 1996]
+[T.D. 8002, 49 FR 50664, 50666, Dec. 31, 1984, as amended by T.D. 8003, 49 FR 50659, Dec. 31, 1984; T.D. 8199, 53 FR 16080, May 5, 1988; 53 FR 18372, May 23, 1988; T.D. 8623, 60 FR 53128, Oct. 12, 1995; T.D. 8690, 61 FR 65952, Dec. 16, 1996; T.D. 9864, 84 FR 27530, June 13, 2019]

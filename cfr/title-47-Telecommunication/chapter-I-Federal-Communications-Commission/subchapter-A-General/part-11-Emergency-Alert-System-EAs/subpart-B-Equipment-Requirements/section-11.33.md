@@ -1,7 +1,5 @@
 ##### § 11.33 EAS Decoder. #####
 
-Link to an amendment published at 83 FR 39620, August 10, 2018.
-
 (a) An EAS Decoder must at a minimum be capable of providing the EAS monitoring functions described in § 11.52, decoding EAS messages formatted in accordance with the EAS Protocol described in § 11.31, and converting Common Alerting Protocol (CAP)-formatted EAS messages into EAS alert messages that comply with the EAS Protocol, in accordance with § 11.56(a)(2), with the exception that the CAP-related monitoring and conversion requirements set forth in §§ 11.52(d)(2) and 11.56(a)(2) can be satisfied via an Intermediary Device, as specified in § 11.56(b), provided that all other requirements set forth in this part are met. An EAS Decoder also must be capable of the following minimum specifications:
 
 (1) *Inputs.* Decoders must have the capability to receive at least two audio inputs from EAS monitoring assignments, and at least one data input. The data input(s) may be used to monitor other communications modes such as Radio Broadcast Data System (RBDS), NWR, satellite, public switched telephone network, or any other source that uses the EAS protocol.
@@ -32,10 +30,10 @@ Link to an amendment published at 83 FR 39620, August 10, 2018.
 
 (9) *Reset.* There shall be a method to automatically or manually reset the decoder to the normal monitoring condition. Operators shall be able to select a time interval, not less than two minutes, in which the decoder would automatically reset if it received an EAS header code but not an end-of-message (EOM) code. Messages received with the EAN Event codes shall disable the reset function so that lengthy audio messages can be handled. The last message received with valid header codes shall be displayed as required by paragraph (a)(4) of this section before the decoder is reset.
 
-(10) *Message Validity.* An EAS Decoder must provide error detection and validation of the header codes of each message to ascertain if the message is valid. Header code comparisons may be accomplished through the use of a bit-by-bit compare or any other error detection and validation protocol. A header code must only be considered valid when two of the three headers match exactly. Duplicate messages must not be relayed automatically.
+(10) *Message Validity.* An EAS Decoder must provide error detection and validation of the header codes of each message to ascertain if the message is valid. Header code comparisons may be accomplished through the use of a bit-by-bit compare or any other error detection and validation protocol. A header code must only be considered valid when two of the three headers match exactly; the Origination Date/Time field (JJJHHMM) is not more than 15 minutes in the future and the expiration time (Origination Date/Time plus Valid Time TTTT) is in the future (*i.e.,* current time at the EAS equipment when the alert is received is between origination time minus 15 minutes and expiration time). Duplicate messages must not be relayed automatically.
 
 (11) A header code with the EAN Event code specified in § 11.31(c) that is received through any of the audio or data inputs must override all other messages.
 
 (b) Decoders shall be capable of operation within the tolerances specified in this section as well as those in § 11.32 (b), (c) and (d).
 
-[59 FR 67092, Dec. 28, 1994, as amended at 60 FR 55999, Nov. 6, 1995; 67 FR 18510, Apr. 16, 2002; 70 FR 71033, Nov. 25, 2005; 77 FR 16703, Mar. 22, 2012]
+[59 FR 67092, Dec. 28, 1994, as amended at 60 FR 55999, Nov. 6, 1995; 67 FR 18510, Apr. 16, 2002; 70 FR 71033, Nov. 25, 2005; 77 FR 16703, Mar. 22, 2012; 83 FR 39620, Aug. 10, 2018]
