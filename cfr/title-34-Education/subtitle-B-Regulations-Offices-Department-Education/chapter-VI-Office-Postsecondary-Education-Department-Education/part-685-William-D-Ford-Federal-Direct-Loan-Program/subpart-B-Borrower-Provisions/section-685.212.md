@@ -2,9 +2,17 @@
 
 Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.This amendment was delayed until July 1, 2018, at 82 FR 49114, Oct. 24, 2017.This amendment was delayed until July 1, 2019, at 83 FR 6459, Feb. 14, 2018.
 
-(a) *Death.* (1) If a borrower (or a student on whose behalf a parent borrowed a Direct PLUS Loan) dies, the Secretary discharges the obligation of the borrower and any endorser to make any further payments on the loan based on an original or certified copy of the borrower's (or student's in the case of a Direct PLUS loan obtained by a parent borrower) death certificate, or an accurate and complete photocopy of the original or certified copy of the borrower's (or student's in the case of a Direct PLUS loan obtained by a parent borrower) death certificate.
+(a) *Death.* (1) If a borrower (or a student on whose behalf a parent borrowed a Direct PLUS Loan) dies, the Secretary discharges the obligation of the borrower and any endorser to make any further payments on the loan based on -
 
-(2) If an original or certified copy of the death certificate or an accurate and complete photocopy of the original or certified copy of the death certificate is not available, the Secretary discharges the loan only if other reliable documentation establishes, to the Secretary's satisfaction, that the borrower (or student) has died. The Secretary discharges a loan based on documentation other than an original or certified copy of the death certificate, or an accurate and complete photocopy of the original or certified copy of the death certificate only under exceptional circumstances and on a case-by-case basis.
+(i) An original or certified copy of the death certificate;
+
+(ii) An accurate and complete photocopy of the original or certified copy of the death certificate;
+
+(iii) An accurate and complete original or certified copy of the death certificate that is scanned and submitted electronically or sent by facsimile transmission; or
+
+(iv) Verification of the borrower's or student's death through an authoritative Federal or State electronic database approved for use by the Secretary.
+
+(2) Under exceptional circumstances and on a case-by-case basis, the Secretary discharges a loan based upon other reliable documentation of the borrower's or student's death that is acceptable to the Secretary.
 
 (3) In the case of a Direct Consolidation Loan that repaid a Direct PLUS Loan or a Federal PLUS Loan obtained on behalf of a student who dies, the Secretary discharges an amount equal to the portion of the outstanding balance of the consolidation loan, as of the date of the student's death, attributable to that Direct PLUS Loan or Federal PLUS Loan.
 
@@ -38,4 +46,4 @@ Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was, 
 
 (4) On the portion of a Direct Consolidation Loan that repaid a PLUS loan incurred on behalf of an eligible victim, if the borrower qualifies as an eligible parent.
 
-(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994, as amended at 61 FR 29900, June 12, 1996; 62 FR 30412, June 3, 1997; 62 FR 63435, Nov. 28, 1997; 63 FR 34816, June 26, 1998; 64 FR 58969, Nov. 1, 1999; 65 FR 65629, 65694, Nov. 1, 2000; 66 FR 34765, June 29, 2001; 67 FR 67081, Nov. 1, 2002; 71 FR 45714, Aug. 9, 2006; 71 FR 78083, Dec. 28, 2006; 72 FR 62010, Nov. 1, 2007; 73 FR 63256, Oct. 23, 2008; 77 FR 66142, Nov. 1, 2012; 78 FR 65834, Nov. 1, 2013]
+(Approved by the Office of Management and Budget under control number 1845-0021)(Authority: 20 U.S.C. 1087a *et seq.*)[59 FR 61690, Dec. 1, 1994]Editorial Note:For Federal Register citations affecting § 685.212, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -12,7 +12,7 @@
 
 (3) *Technology delivery mechanisms.* Does the proposal clearly and sharply define an effective methodology for delivering advanced manufacturing technology to small- and medium-sized manufacturers?
 
-(i)
+(i) *Linkages.* Development of effective partnerships or linkages to third parties such as industry, universities, nonprofit economic organizations, and state governments who will amplify the Center's technology delivery to reach a large number of clients in its service region.
 
 (ii) *Program leverage.* Provision of an effective strategy to amplify the Center's technology delivery approaches to achieve the proposed objectives as described in § 290.3(e).
 

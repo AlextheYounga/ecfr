@@ -2,13 +2,13 @@
 
 As prescribed in 1816.406-70(a), insert the following clause:
 
-Award Fee for Service Contracts (APR 2012)
+Award Fee for Service Contracts (JUN 2018)
 
 (a) The contractor can earn award fee from a minimum of zero dollars to the maximum stated in NASA FAR Supplement clause 1852.216-85, “Estimated Cost and Award Fee” in this contract.
 
 (b) Beginning 6\* months after the effective date of this contract, the Government shall evaluate the Contractor's performance every 6\* months to determine the amount of award fee earned by the contractor during the period. The Contractor may submit a self-evaluation of performance for each evaluation period under consideration. These self-evaluations will be considered by the Government in its evaluation. The Government's Fee Determination Official (FDO) will determine the award fee amounts based on the Contractor's performance in accordance with [identify performance evaluation plan]. The plan may be revised unilaterally by the Government prior to the beginning of any rating period to redirect emphasis.
 
-(c) The Government will advise the Contractor in writing of the evaluation results. The [insert payment office] will make payment based on [Insert method of authorizing award fee payment, e.g., issuance of unilateral modification by contracting officer].
+(c) The Government will advise the Contractor in writing of the evaluation results. The [insert payment office] will make payment based on [Insert method of authorizing award fee payment].
 
 (d) The Contracting Officer may direct the withholding of earned award fee payments until a reserve is set aside in an amount that the Contracting Officer considers necessary to protect the Government's interest relative to an orderly and timely closeout of the contract. This reserve shall not exceed 15 percent of the contract's total potential award fee or $100,000, whichever is less.
 
@@ -26,4 +26,4 @@ Award Fee for Service Contracts (APR 2012)
 
 \* [A period of time greater or lesser than 6 months may be substituted in accordance with 1816.405-272(a).]
 
-(End of clause)[77 FR 18106, Mar. 27, 2012]
+(End of clause)[77 FR 18106, Mar. 27, 2012, as amended at 83 FR 28386, June 19, 2018]

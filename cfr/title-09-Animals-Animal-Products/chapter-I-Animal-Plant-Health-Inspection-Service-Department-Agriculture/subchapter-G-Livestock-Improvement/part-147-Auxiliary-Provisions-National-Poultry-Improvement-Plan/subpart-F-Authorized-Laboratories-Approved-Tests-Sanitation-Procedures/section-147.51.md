@@ -1,5 +1,7 @@
 ##### § 147.51 Definitions. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 The following definitions apply in this subpart:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any other employee of the Animal and Plant Health Inspection Service delegated to act in the Administrator's stead.

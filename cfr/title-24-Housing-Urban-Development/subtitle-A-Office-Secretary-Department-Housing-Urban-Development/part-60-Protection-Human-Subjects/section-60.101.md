@@ -1,5 +1,7 @@
 ##### § 60.101 To what does this policy apply? #####
 
+Link to an amendment published at 83 FR 28514, June 19, 2018.
+
 (a) Except as detailed in § 60.104, this policy applies to all research involving human subjects conducted, supported, or otherwise subject to regulation by any Federal department or agency that takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by Federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the Federal Government outside the United States. Institutions that are engaged in research described in this paragraph and institutional review boards (IRBs) reviewing research that is subject to this policy must comply with this policy.
 
 (b) [Reserved]

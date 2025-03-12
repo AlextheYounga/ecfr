@@ -14,7 +14,7 @@
 
 (3) The obligation to identify and properly and timely to report a suspicious transaction rests with each broker-dealer involved in the transaction, provided that no more than one report is required to be filed by the broker-dealers involved in a particular transaction (so long as the report filed contains all relevant facts).
 
-(b) *Filing procedures* - (1) *What to file.* A suspicious transaction shall be reported by completing a Suspicious Activity Report by the Securities and Futures Industry (“SAR”), and collecting and maintaining supporting documentation as required by paragraph (d) of this section.
+(b) *Filing procedures*—(1) *What to file.* A suspicious transaction shall be reported by completing a Suspicious Activity Report (“SAR”), and collecting and maintaining supporting documentation as required by paragraph (d) of this section.
 
 (2) *Where to file.* The SAR shall be filed with FinCEN in a central location, to be determined by FinCEN, as indicated in the instructions to the SAR.
 

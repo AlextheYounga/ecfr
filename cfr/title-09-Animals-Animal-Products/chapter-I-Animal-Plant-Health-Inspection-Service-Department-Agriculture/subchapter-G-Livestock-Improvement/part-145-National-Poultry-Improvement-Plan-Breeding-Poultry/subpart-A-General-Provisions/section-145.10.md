@@ -1,5 +1,7 @@
 ##### § 145.10 Terminology and classification; flocks, products, and States. #####
 
+Link to an amendment published at 83 FR 28352, June 19, 2018.
+
 Participating flocks, products produced from them, and States that have met the requirements of a classification in this part may be designated by the corresponding illustrative design in this section.
 
 (a) [Reserved]

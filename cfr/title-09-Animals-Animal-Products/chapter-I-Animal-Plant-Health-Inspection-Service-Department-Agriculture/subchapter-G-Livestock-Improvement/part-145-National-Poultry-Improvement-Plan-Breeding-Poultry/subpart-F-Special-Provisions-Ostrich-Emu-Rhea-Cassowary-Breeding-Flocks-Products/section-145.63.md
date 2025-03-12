@@ -1,5 +1,7 @@
 ##### § 145.63 Terminology and classification; flocks and products. #####
 
+Link to an amendment published at 83 FR 28353, June 19, 2018.
+
 Participating flocks, and the eggs and baby poultry produced from them, that have met the respective requirements specified in this section may be designated by the following terms and their corresponding designs illustrated in § 145.10.
 
 (a) *U.S. Pullorum-Typhoid Clean.* A flock in which freedom from pullorum and typhoid has been demonstrated to the Official State Agency under the criteria in paragraph (a)(1) or (a)(2) of this section. (See § 145.14(a) relating to the official blood test for pullorum-typhoid where applicable.)

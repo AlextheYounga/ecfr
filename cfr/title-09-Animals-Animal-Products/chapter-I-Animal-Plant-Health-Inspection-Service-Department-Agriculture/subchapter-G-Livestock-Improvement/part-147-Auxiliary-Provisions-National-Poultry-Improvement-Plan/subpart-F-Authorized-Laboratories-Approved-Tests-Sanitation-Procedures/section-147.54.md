@@ -1,5 +1,7 @@
 ##### § 147.54 Approval of diagnostic test kits not licensed by the Service. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 (a) Diagnostic test kits that are not licensed by the Service (e.g., bacteriological culturing kits) may be approved through the following procedure:
 
 (1) The sensitivity of the kit will be evaluated in at least three NPIP authorized laboratories by testing known positive samples, as determined by the official NPIP procedures found in the NPIP Program Standards or through other procedures approved by the Administrator. Field samples for which the presence or absence of the target organism or analyte has been determined by the current NPIP test should be used, not spiked samples or pure cultures. Samples from a variety of field cases representing a range of low, medium, and high analyte concentrations should be used. In some cases it may be necessary to utilize samples from experimentally infected animals. Spiked samples (clinical sample matrix with a known amount of pure culture added) should only be used in the event that no other sample types are available. Pure cultures should never be used. Additionally, laboratories should be selected for their experience with testing for the target organism or analyte with the current NPIP approved test. If certain conditions or interfering substances are known to affect the performance of the kit, appropriate samples will be included so that the magnitude and significance of the effect(s) can be evaluated.

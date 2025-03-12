@@ -1,5 +1,7 @@
 ##### § 145.82 Participation. #####
 
+Link to an amendment published at 83 FR 28354, June 19, 2018.
+
 Participating flocks of primary meat-type chickens, and the eggs and chicks produced from them, shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart H.
 
 (a) Started chickens shall lose their identity under Plan terminology when not maintained by Plan participants under the conditions prescribed in § 145.5(a).

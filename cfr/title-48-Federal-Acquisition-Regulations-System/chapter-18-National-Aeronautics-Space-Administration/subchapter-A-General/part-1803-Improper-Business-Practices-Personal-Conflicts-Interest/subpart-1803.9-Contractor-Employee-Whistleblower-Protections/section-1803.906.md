@@ -8,7 +8,7 @@
 
 (3) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the Agency.
 
-(b) If the head of the Agency issues an order denying relief or has not issued an order within 210 days after the submission of the complaint or within 30 days after the expiration of an extension of time granted in accordance with 1803.905(3)(ii), and there is no showing that such delay is due to the bad faith of the complainant -
+(b) If the head of the Agency issues an order denying relief or has not issued an order within 210 days after the submission of the complaint or within 30 days after the expiration of an extension of time granted in accordance with 1803.905(3)(ii), and there is no showing that such delay is due to the bad faith of the complainant—
 
 (1) The complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint; and
 
@@ -16,6 +16,8 @@
 
 (c) Whenever a contractor fails to comply with an order issued by the head of agency in accordance with 10 U.S.C. 2409, the head of the Agency or designee shall request the Department of Justice to file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
 
-(d) Any person adversely affected or aggrieved by an order issued by the head of the Agency in accordance with 10 U.S.C. 2409 may obtain judicial review of the order's conformance with the law, and the implementing regulation, in the United States Court of Appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency or designee. Review shall conform to chapter 7 of title 5, Unites States Code. Filing such an appeal shall not act to stay the enforcement of the order by the head of an agency, unless a stay is specifically entered by the court.
+(d) Any person adversely affected or aggrieved by an order issued by the head of the Agency in accordance with 10 U.S.C. 2409 may obtain judicial review of the order's conformance with the law, and the implementing regulation, in the United States Court of Appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency or designee. Review shall conform to chapter 7 of title 5, United States Code. Filing such an appeal shall not act to stay the enforcement of the order by the head of an agency, unless a stay is specifically entered by the court.
 
 (e) The rights and remedies provided for in this subpart may not be waived by any agreement, policy, form, or condition of employment.
+
+[79 FR 43959, July 29, 2014, as amended at 83 FR 28386, June 19, 2018]

@@ -18,4 +18,4 @@ Note 2 to § 560.304:
 
 Section 501.807 of this chapter describes the procedures to be followed by persons seeking administrative reconsideration of OFAC's determination that they fall within the definition of the term *Government of Iran.*
 
-[77 FR 64666, Oct. 22, 2012, as amended at 81 FR 3331, Jan. 21, 2016]
+[77 FR 64666, Oct. 22, 2012, as amended at 81 FR 3332, Jan. 21, 2016]

@@ -1,5 +1,7 @@
 ##### § 146.23 Terminology and classification; flocks and products. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 Participating flocks which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 146.9 of this part:
 
 (a) *U.S. H5/H7 Avian Influenza Monitored* - (1) *Table-egg layer pullet flocks.* This program is intended to be the basis from which the table-egg layer industry may conduct a program to monitor for the H5/H7 subtypes of avian influenza. It is intended to determine the presence of the H5/H7 subtypes of avian influenza in table-egg layer pullets through routine surveillance of each participating commercial table-egg layer pullet flock. A flock will qualify for this classification when the Official State Agency determines that it has met one of the following requirements:

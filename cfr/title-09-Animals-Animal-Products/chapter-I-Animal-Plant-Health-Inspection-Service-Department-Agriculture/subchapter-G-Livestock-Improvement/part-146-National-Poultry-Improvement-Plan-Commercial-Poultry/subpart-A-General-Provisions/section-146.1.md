@@ -1,5 +1,7 @@
 ##### § 146.1 Definitions. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 Except where the context otherwise requires, for the purposes of this subpart the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

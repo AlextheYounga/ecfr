@@ -1,5 +1,7 @@
 ##### § 147.52 Authorized laboratories. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 These minimum requirements are intended to be the basis on which an authorized laboratory of the Plan can be evaluated to ensure that official Plan assays are performed in accordance with the NPIP Program Standards or other procedures approved by the Administrator in accordance with § 147.53(d)(1) and reported as described in paragraph (f) of this section. A satisfactory evaluation will result in the laboratory being recognized by the NPIP office of the Service as an authorized laboratory qualified to perform the assays provided for in this part.
 
 (a) *Check-test proficiency.* The NPIP will serve as the lead agency for the coordination of available check tests from the National Veterinary Services Laboratories. The authorized laboratory must use a regularly scheduled check test for each assay that it performs.

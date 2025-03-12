@@ -4,6 +4,6 @@
 
 (ii) NFS regulations that require public comment are issued as chapter 18 of title 48, CFR.
 
-(iii) The single official NASA-maintained version of the NFS is on the Internet (*http://www.hq.nasa.gov/office/procurement/regs/nfstoc.htm*).
+(iii) The single official NASA-maintained version of the NFS is on the Internet (*https://www.hq.nasa.gov/office/procurement/regs/NFS.pdf*).
 
-[69 FR 21762, Apr. 22, 2004]
+[69 FR 21762, Apr. 22, 2004, as amended at 83 FR 28386, June 19, 2018]

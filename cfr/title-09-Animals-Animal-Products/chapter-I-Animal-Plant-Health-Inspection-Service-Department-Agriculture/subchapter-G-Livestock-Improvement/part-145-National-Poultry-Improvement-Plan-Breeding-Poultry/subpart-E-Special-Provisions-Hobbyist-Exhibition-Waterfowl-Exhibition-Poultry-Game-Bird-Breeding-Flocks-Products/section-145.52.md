@@ -1,5 +1,7 @@
 ##### § 145.52 Participation. #####
 
+Link to an amendment published at 83 FR 28353, June 19, 2018.
+
 Participating flocks of hobbyist and exhibition waterfowl, exhibition poultry, and game birds, and the eggs and baby poultry produced from them shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart E. The special provisions that apply to meat-type waterfowl flocks are found in subpart I of this part.
 
 (a) Started poultry shall lose their identity under Plan terminology when not maintained by Plan participants under the conditions prescribed in § 145.5(a).

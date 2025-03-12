@@ -1,5 +1,7 @@
 ##### § 145.4 General provisions for all participants. #####
 
+Link to an amendment published at 83 FR 28352, June 19, 2018.
+
 (a) Records of purchases and sales and the identity of products handled shall be maintained in a manner satisfactory to the Official State Agency.
 
 (b) Products, records of sales and purchase of products, and material used to advertise products shall be subject to inspection by the Official State Agency at any time.

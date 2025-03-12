@@ -28,4 +28,4 @@ The International Emergency Economic Powers Act (50 U.S.C. 1701-1706), in sectio
 
 (f) The prohibitions in paragraphs (a) through (c) of this section apply except to the extent transactions are authorized by regulations, orders, directives, rulings, instructions, licenses, or otherwise, and notwithstanding any contracts entered into or any license or permit granted prior to the effective date.
 
-[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75847, Dec. 26, 2012; 81 FR 3331, Jan. 21, 2016]
+[77 FR 64666, Oct. 22, 2012, as amended at 77 FR 75847, Dec. 26, 2012; 81 FR 3332, Jan. 21, 2016]

@@ -2,7 +2,7 @@
 
 As prescribed in 1845.107-70(b)(1), insert the following clause:
 
-Installation-Accountable Government Property (JAN 2011)
+Installation-Accountable Government Property (JUN 2018)
 
 (a) The Government property described in paragraph (c) of this clause may be made available to the Contractor on a no-charge basis for use in performance of this contract. This property shall be utilized only within the physical confines of the NASA installation that provided the property unless authorized by the Contracting Officer under (b)(1)(iv). Under this clause, the Government retains accountability for, and title to, the property, and the Contractor shall comply with the following:
 
@@ -64,4 +64,4 @@ The Contractor shall establish and adhere to a system of written procedures to a
 
 (i) The Contractor shall not utilize the installation's central receiving facility for receipt of contractor-acquired property. However, the Contractor shall provide listings suitable for establishing accountable records of all such property received, on a monthly basis, to the SEMO.
 
-[76 FR 2006, Jan. 12, 2011]
+[76 FR 2006, Jan. 12, 2011, as amended at 83 FR 28386, June 19, 2018]

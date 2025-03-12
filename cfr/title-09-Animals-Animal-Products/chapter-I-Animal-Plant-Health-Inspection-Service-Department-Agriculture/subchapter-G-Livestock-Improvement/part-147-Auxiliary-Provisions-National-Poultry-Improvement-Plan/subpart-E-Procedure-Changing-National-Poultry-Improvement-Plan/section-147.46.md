@@ -1,5 +1,7 @@
 ##### § 147.46 Committee consideration of proposed changes. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 (a) The following committees shall be established to give preliminary consideration to the proposed changes falling in their respective fields:
 
 (1) Egg-type breeding chickens.

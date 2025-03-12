@@ -1,5 +1,7 @@
 ##### § 147.43 General Conference Committee. #####
 
+Link to an amendment published at 83 FR 28355, June 19, 2018.
+
 (a) The General Conference Committee Chairperson and the Vice Chairperson shall be elected by the members of the General Conference Committee. A representative of the Animal and Plant Health Inspection Service will serve as Executive Secretary and will provide the necessary staff support for the General Conference Committee. The General Conference Committee shall consist of one member-at-large who is a participant in the National Poultry Improvement Plan and one member to be elected, as provided in paragraph (b) of this section, from each of the following regions:
 
 (1) North Atlantic: Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, and Pennsylvania.

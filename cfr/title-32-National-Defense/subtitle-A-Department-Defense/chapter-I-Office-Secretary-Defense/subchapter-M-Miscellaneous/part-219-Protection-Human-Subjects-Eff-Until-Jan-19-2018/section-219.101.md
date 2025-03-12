@@ -1,6 +1,6 @@
 ##### § 219.101 To what does this policy apply? #####
 
-Link to an amendment published at 83 FR 2892, Jan. 22, 2018.
+Link to an amendment published at 83 FR 2892, Jan. 22, 2018.Link to an amendment published at 83 FR 28516, June 19, 2018.
 
 (a) Except as provided in paragraph (b) of this section, this policy applies to all research involving human subjects conducted, supported or otherwise subject to regulation by any federal department or agency which takes appropriate administrative action to make the policy applicable to such research. This includes research conducted by federal civilian employees or military personnel, except that each department or agency head may adopt such procedural modifications as may be appropriate from an administrative standpoint. It also includes research conducted, supported, or otherwise subject to regulation by the federal government outside the United States.
 
