@@ -1,7 +1,5 @@
 ##### § 416.1545 Violations of our requirements, rules, or standards. #####
 
-Link to an amendment published at 83 FR 30858, July 2, 2018.
-
 When we have evidence that a representative fails to meet our qualification requirements or has violated the rules governing dealings with us, we may begin proceedings to suspend or disqualify that individual from acting in a representational capacity before us. We may file charges seeking such sanctions when we have evidence that a representative:
 
 (a) Does not meet the qualifying requirements described in § 416.1505;
@@ -10,8 +8,10 @@ When we have evidence that a representative fails to meet our qualification requ
 
 (c) Has been convicted of a violation under section 1631(d) of the Act;
 
-(d) Has been, by reason of misconduct, disbarred or suspended from any bar or court to which he or she was previously admitted to practice (see § 416.1570(a)); or
+(d) Has been, by reason of misconduct, disbarred or suspended from any bar or court to which he or she was previously admitted to practice (see § 416.1570(a));
 
-(e) Has been, by reason of misconduct, disqualified from participating in or appearing before any Federal program or agency (see § 416.1570(a)).
+(e) Has been, by reason of misconduct, disqualified from participating in or appearing before any Federal program or agency (see § 416.1570(a)); or
 
-[63 FR 41418, Aug. 4, 1998, as amended at 71 FR 2877, Jan. 18, 2006]
+(f) Who, as a non-attorney, has been removed from practice or suspended by a professional licensing authority for reasons that reflect on the person's character, integrity, judgment, reliability, or fitness to serve as a fiduciary.
+
+[63 FR 41418, Aug. 4, 1998, as amended at 71 FR 2877, Jan. 18, 2006; 83 FR 30858, July 2, 2018]

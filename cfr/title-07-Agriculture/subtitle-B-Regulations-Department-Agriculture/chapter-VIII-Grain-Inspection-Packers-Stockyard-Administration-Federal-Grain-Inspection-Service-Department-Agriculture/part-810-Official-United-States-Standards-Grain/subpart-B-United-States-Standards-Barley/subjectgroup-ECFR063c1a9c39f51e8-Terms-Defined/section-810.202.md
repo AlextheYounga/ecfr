@@ -1,20 +1,16 @@
 ##### § 810.202 Definition of other terms. #####
 
-Link to an amendment published at 81 FR 20543, May 3, 2017.
-
 (a) *Black barley.* Barley with black hulls.
 
 (b) *Broken kernels.* Barley with more than1/4 of the kernel removed.
 
 (c) *Classes.* There are two classes of barley: Malting barley and Barley.
 
-(1) *Malting barley.* Barley of a six-rowed or two-rowed malting type. The class Malting barley is divided into the following three subclasses:
+(1) *Malting barley* is divided into the following two subclasses:
 
-(i) *Six-rowed Malting barley.* Barley that has a minimum of 95.0 percent of a six-rowed suitable malting type that has 90.0 percent or more of kernels with white aleurone layers that contains not more than 1.9 percent injured-by-frost kernels, 0.4 percent frost-damaged kernels, 0.2 percent injured-by-heat kernels, and 0.1 percent heat-damaged kernels. Six-rowed Malting barley shall not be infested, blighted, ergoty, garlicky, or smutty as defined in § 810.107(b) and § 810.206.
+(i) *Six-rowed Malting barley* has a minimum of 95.0 percent of a six-rowed suitable malting type that contains not more than 1.9 percent injured-by-frost kernels, 0.4 percent frost-damaged kernels, 0.2 percent injured-by-heat kernels, 0.1 percent heat-damaged kernels, 1.9 percent injured-by-mold kernels, and 0.4 percent mold-damaged kernels. Six-rowed Malting barley must not be infested, blighted, ergoty, garlicky, or smutty as defined in § 810.107(b) and § 810.206.
 
-(ii) *Six-rowed Blue Malting barley.* Barley that has a minimum of 95.0 percent of a six-rowed suitable malting type that has 90.0 percent or more of kernels with blue aleurone layers that contains not more than 1.9 percent injured-by-frost kernels, 0.4 percent frost-damaged kernels, 0.2 percent injured-by-heat kernels, and 0.1 percent heat-damaged kernels. Six-rowed Blue Malting barley shall not be infested, blighted, ergoty, garlicky, or smutty as defined in § 810.107(b) and § 810.206.
-
-(iii) *Two-rowed Malting barley.* Barley that has a minimum of 95.0 percent of a two-rowed suitable malting type that contains not more than 1.9 percent injured-by-frost kernels, 0.4 percent frost-damaged kernels, 0.2 percent injured-by-heat kernels, 0.1 percent heat-damaged kernels, 1.9 percent injured-by-mold kernels, and 0.4 percent mold-damaged kernels. Two-rowed Malting barley shall not be infested, blighted, ergoty, garlicky, or smutty as defined in § 810.107(b) and § 810.206.
+(ii) *Two-rowed Malting barley* has a minimum of 95.0 percent of a two-rowed suitable malting type that contains not more than 1.9 percent injured-by-frost kernels, 0.4 percent frost-damaged kernels, 0.2 percent injured-by-heat kernels, 0.1 percent heat-damaged kernels, 1.9 percent injured-by-mold kernels, and 0.4 percent mold-damaged kernels. Two-rowed Malting barley must not be infested, blighted, ergoty, garlicky, or smutty as defined in § 810.107(b) and § 810.206.
 
 (2) *Barley.* Any barley of a six-rowed or two-rowed type. The class Barley is divided into the following three subclasses:
 
@@ -68,4 +64,4 @@ Link to an amendment published at 81 FR 20543, May 3, 2017.
 
 (u) *Wild oats.* Seeds of *Avena fatua* L. and *A. sterilis* L.
 
-[52 FR 24418, June 30, 1987; 52 FR 28534, July 31, 1987, as amended at 61 FR 18491, Apr. 26, 1996]
+[52 FR 24418, June 30, 1987; 52 FR 28534, July 31, 1987, as amended at 61 FR 18491, Apr. 26, 1996; 82 FR 20543, May 3, 2017]

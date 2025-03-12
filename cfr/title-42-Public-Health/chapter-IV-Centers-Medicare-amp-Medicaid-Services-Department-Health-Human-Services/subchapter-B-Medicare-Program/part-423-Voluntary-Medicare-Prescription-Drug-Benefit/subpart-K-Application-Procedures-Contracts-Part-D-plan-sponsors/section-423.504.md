@@ -14,6 +14,8 @@
 
 (i) A policy making body that exercises oversight and control over the Part D plan sponsor's policies and personnel to ensure that management actions are in the best interest of the organization and its enrollees.
 
+(ii) Personnel and systems sufficient for the Part D plan sponsor to organize, implement, control, and evaluate financial and communication activities, the furnishing of prescription drug services, the quality assurance, medical therapy management, and drug and or utilization management programs, and the administrative and management aspects of the organization.
+
 (iii) At a minimum, an executive manager whose appointment and removal are under the control of the policy making body.
 
 (iv) A fidelity bond or bonds, procured and maintained by the Part D sponsor, in an amount fixed by its policymaking body but not less than $100,000 per individual, covering each officer and employee entrusted with the handling of its funds. The bond may have reasonable deductibles, based upon the financial strength of the Part D plan sponsor.
@@ -45,6 +47,10 @@
 (*2*) The compliance officer and the compliance committee must periodically report directly to the governing body of the Part D plan sponsor on the activities and status of the compliance program, including issues identified, investigated, and resolved by the compliance program.
 
 (*3*) The governing body of the Part D plan sponsor must be knowledgeable about the content and operation of the compliance program and must exercise reasonable oversight with respect to the implementation and effectiveness of the compliance programs.
+
+(C)(*1*) Each Part D plan sponsor must establish and implement effective training and education for its compliance officer and organization employees, the Part D sponsor's chief executive and other senior administrators, managers and governing body members.
+
+(*2*) Such training and education must occur at a minimum annually and must be made a part of the orientation for a new employee, and new appointment to a chief executive, manager, or governing body member.
 
 (D) Establishment and implementation of effective lines of communication, ensuring confidentiality, between the compliance officer, members of the compliance committee, the Part D plan sponsor's employees, managers and governing body, and the Part D plan sponsor's first tier, downstream, and related entities. Such lines of communication must be accessible to all and allow compliance issues to be reported including a method for anonymous and confidential good faith reporting of potential compliance issues as they are identified.
 

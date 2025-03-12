@@ -1,10 +1,8 @@
 ##### § 416.1565 Hearing on charges. #####
 
-Link to an amendment published at 83 FR 30859, July 2, 2018.
-
 (a) *Holding the hearing.* If the General Counsel or other delegated official does not take action to withdraw the charges within 15 days after the date on which the representative filed an answer, we will hold a hearing and make a decision on the charges.
 
-(b) *Hearing officer.* (1) The Deputy Commissioner for Disability Adjudication and Review or other delegated official will assign an administrative law judge, designated to act as a hearing officer, to hold a hearing on the charges.
+(b) *Hearing officer.* (1) The Deputy Commissioner for the Office of Hearings Operations or other delegated official will assign an administrative law judge, designated to act as a hearing officer, to hold a hearing on the charges.
 
 (2) No hearing officer shall hold a hearing in a case in which he or she is prejudiced or partial about any party, or has any interest in the matter.
 
@@ -14,13 +12,13 @@ Link to an amendment published at 83 FR 30859, July 2, 2018.
 
 (5) If the hearing officer does not withdraw, the representative or any other person objecting may, after the hearing, present his or her objections to the Appeals Council explaining why he or she believes the hearing officer's decision should be revised or a new hearing held by another administrative law judge designated to act as a hearing officer.
 
-(c) *Time and place of hearing.* The hearing officer shall mail the parties a written notice of the hearing at their last known addresses, at least 20 days before the date set for the hearing.
+(c) *Time and place of hearing.* The hearing officer shall mail the parties a written notice of the hearing at their last known addresses, at least 14 calendar days before the date set for the hearing. The notice will inform the parties whether the appearance of the parties or any witnesses will be in person, by video teleconferencing, or by telephone. The notice will also include requirements and instructions for filing motions, requesting witnesses, and entering exhibits.
 
-(d) *Change of time and place for hearing.* (1) The hearing officer may change the time and place for the hearing. This may be done either on his or her own initiative, or at the request of the representative or the other party to the hearing,
+(d) *Change of time and place for hearing.* (1) The hearing officer may change the time and place for the hearing, either on his or her own initiative, or at the request of the representative or the other party to the hearing. The hearing officer will not consider objections to the manner of appearance of parties or witnesses, unless the party shows good cause not to appear in the prescribed manner. To determine whether good cause exists for extending the deadline, we use the standards explained in § 416.1411.
 
 (2) The hearing officer may adjourn or postpone the hearing.
 
-(3) The hearing officer may reopen the hearing for the receipt of additional evidence at any time before mailing notice of the decision.
+(3) Subject to the limitations in paragraph (g)(2) of this section, the hearing officer may reopen the hearing for the receipt of additional evidence at any time before mailing notice of the decision.
 
 (4) The hearing officer shall give the representative and the other party to the hearing reasonable notice of any change in the time or place for the hearing, or of an adjournment or reopening of the hearing.
 
@@ -34,11 +32,11 @@ Link to an amendment published at 83 FR 30859, July 2, 2018.
 
 (4) We will pay the cost of the issuance and the fees and mileage of any witness subpoenaed, as provided in section 205(d) of the Act.
 
-(g) *Conduct of the hearing.* (1) The hearing officer shall make the hearing open to the representative, to the other party, and to any persons the hearing officer or the parties consider necessary or proper. The hearing officer shall inquire fully into the matters being considered, hear the testimony of witnesses, and accept any documents that are material.
+(g) *Conduct of the hearing.* (1) The representative or the other party may file a motion for decision on the basis of the record prior to the hearing. The hearing officer will give the representative and the other party a reasonable amount of time to submit any evidence and to file briefs or other written statements as to fact and law prior to deciding the motion. If the hearing officer concludes that there is no genuine dispute as to any material fact and the movant is entitled to a decision as a matter of law, the hearing officer may grant the motion and issue a decision in accordance with the provisions of § 416.1570.
 
 (2) If the representative did not file an answer to the charges, he or she has no right to present evidence at the hearing. The hearing officer may make or recommend a decision on the basis of the record, or permit the representative to present a statement about the sufficiency of the evidence or the validity of the proceedings upon which the suspension or disqualification, if it occurred, would be based.
 
-(3) If the representative did file an answer to the charges, and if the hearing officer believes that there is material evidence available that was not presented at the hearing, the hearing officer may at any time before mailing notice of the hearing decision reopen the hearing to accept the additional evidence.
+(3) The hearing officer will make the hearing open to the representative, to the other party, and to any persons the hearing officer or the parties consider necessary or proper. The hearing officer will inquire fully into the matters being considered, hear the testimony of witnesses, and accept any documents that are material.
 
 (4) The hearing officer has the right to decide the order in which the evidence and the allegations will be presented and the conduct of the hearing.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 83 FR 30859, July 2, 2018.
 
 (o) *Cost of transcript.* If the representative or the other party to a hearing requests a copy of the transcript of the hearing, the hearing officer will have it prepared and sent to the party upon payment of the cost, unless the payment is waived for good cause.
 
-[45 FR 52106, Aug. 5, 1980, as amended at 56 FR 24132, May 29, 1991; 62 FR 38455, July 18, 1997; 63 FR 41418, Aug. 4, 1998; 71 FR 2878, Jan. 18, 2006; 76 FR 80248, Dec. 23, 2011]
+[45 FR 52106, Aug. 5, 1980, as amended at 56 FR 24132, May 29, 1991; 62 FR 38455, July 18, 1997; 63 FR 41418, Aug. 4, 1998; 71 FR 2878, Jan. 18, 2006; 76 FR 80248, Dec. 23, 2011; 83 FR 30859, July 2, 2018]

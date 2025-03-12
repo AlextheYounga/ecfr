@@ -1,8 +1,6 @@
-##### § 416.1599 Reinstatement after suspension or disqualification - period of suspension not expired. #####
+##### § 416.1599 Reinstatement after suspension or disqualification—period of suspension not expired. #####
 
-Link to an amendment published at 83 FR 30860, July 2, 2018.
-
-(a) After more than one year has passed, a person who has been suspended or disqualified may ask the Appeals Council for permission to serve as a representative again.
+(a) After more than one year has passed, a person who has been suspended or disqualified may ask the Appeals Council for permission to serve as a representative again. The Appeals Council will assign and process a request for reinstatement using the same general procedures described in § 416.1576.
 
 (b) The suspended or disqualified person must submit any evidence the person wishes to have considered along with the request to be allowed to serve as a representative again.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 30860, July 2, 2018.
 
 (d)(1) The Appeals Council shall not grant the request unless it is reasonably satisfied that the person will in the future act according to the provisions of section 206(a) of the Act, and to our rules and regulations.
 
-(2) If a person was disqualified because he or she had been disbarred or suspended from a court or bar, the Appeals Council will grant a request for reinstatement as a representative only if the criterion in paragraph (d)(1) of this section is met and the disqualified person shows that he or she has been admitted (or readmitted) to and is in good standing with the court or bar from which he or she had been disbarred or suspended.
+(2) If a person was disqualified because he or she had been disbarred, suspended, or removed from practice for the reasons described in § 416.1545(d) through (f), the Appeals Council will grant a request for reinstatement as a representative only if the criterion in paragraph (d)(1) of this section is met and the disqualified person shows that he or she has been admitted (or readmitted) to and is in good standing with the court, bar, Federal program or agency, or other governmental or professional licensing authority from which he or she had been disbarred, suspended, or removed from practice.
 
 (3) If a person was disqualified because the person had been disqualified from participating in or appearing before a Federal program or Federal agency, the Appeals Council will grant the request for reinstatement only if the criterion in paragraph (d)(1) of this section is met and the disqualified person shows that the person is now qualified to participate in or appear before that Federal program or Federal agency.
 
@@ -18,6 +16,6 @@ Link to an amendment published at 83 FR 30860, July 2, 2018.
 
 (e) The Appeals Council will mail a notice of its decision on the request for reinstatement to the suspended or disqualified person. It will also mail a copy to the General Counsel or other delegated official.
 
-(f) If the Appeals Council decides not to grant the request it shall not consider another request before the end of 1 year from the date of the notice of the previous denial.
+(f) If the Appeals Council decides not to grant the request, it will not consider another request before the end of 3 years from the date of the notice of the previous denial.
 
-[45 FR 52106, Aug. 5, 1980, as amended at 56 FR 24133, May 29, 1991; 62 FR 38455, July 18, 1997; 63 FR 41418, Aug. 4, 1998; 71 FR 2878, Jan. 18, 2006; 76 FR 80248, Dec. 23, 2011]
+[45 FR 52106, Aug. 5, 1980, as amended at 56 FR 24133, May 29, 1991; 62 FR 38455, July 18, 1997; 63 FR 41418, Aug. 4, 1998; 71 FR 2878, Jan. 18, 2006; 76 FR 80248, Dec. 23, 2011; 83 FR 30860, July 2, 2018]

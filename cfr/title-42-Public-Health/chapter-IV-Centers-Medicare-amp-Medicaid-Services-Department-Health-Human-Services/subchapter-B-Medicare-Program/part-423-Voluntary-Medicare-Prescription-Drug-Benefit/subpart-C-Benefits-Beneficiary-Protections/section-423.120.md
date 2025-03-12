@@ -156,7 +156,7 @@
 
 (E) The means by which enrollees may obtain a coverage determination under § 423.566 or exception under § 423.578.
 
-(iii) Part D sponsors may immediately remove from their Part D plan formularies covered Part D drugs deemed unsafe by the Food and Drug Administration or removed from the market by their manufacturer without meeting the requirements of paragraphs (b)(5)(i) of this section. Part D sponsors must provide retrospective notice of any such formulary changes to affected enrollees, and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(ii)(A), (b)(5)(ii)(B), (b)(5)(ii)(C), and (b)(5)(ii)(D) of this section.
+(iii) Part D sponsors may immediately remove from their Part D plan formularies covered Part D drugs deemed unsafe by the Food and Drug Administration or removed from the market by their manufacturer without meeting the requirements of paragraphs (b)(5)(i) of this section. Part D sponsors must provide retrospective notice of any such formulary changes to affected enrollees and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(ii)(A), (b)(5)(ii)(B), (b)(5)(ii)(C), and (b)(5)(ii)(D) of this section.
 
 (iv) A Part D sponsor may immediately remove a brand name drug (as defined in § 423.4) from its Part D formulary or change the brand name drug's preferred or tiered cost-sharing without meeting the deadlines and refill requirements of paragraph (b)(5)(i) of this section provided that the Part D sponsor does all of the following:
 
@@ -174,7 +174,7 @@
 
 (E) The Part D sponsor provides notice of any such formulary changes to affected enrollees and CMS and other specified entities consistent with the requirements of paragraphs (b)(5)(i) (as applicable) and (ii) of this section. This would include direct notice to the affected enrollees.
 
-(6) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided under paragraphs (b)(5)(iii) and (iv) of this section , a Part D sponsor may not remove a covered Part D drug from its Part D plan's formulary, or make any change in the preferred or tiered cost-sharing status of a covered Part D drug on its plan's formulary, between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
+(6) *Limitation on formulary changes prior to the beginning of a contract year.* Except as provided under paragraphs (b)(5)(iii) and (iv) of this section, a Part D sponsor may not remove a covered Part D drug from its Part D plan's formulary, or make any change in the preferred or tiered cost-sharing status of a covered Part D drug on its plan's formulary, between the beginning of the annual coordinated election period described in § 423.38(b) and 60 days after the beginning of the contract year associated with that annual coordinated election period.
 
 (7) *Provider and patient education.* A Part D sponsor must establish policies and procedures to educate and inform health care providers and enrollees concerning its formulary.
 
