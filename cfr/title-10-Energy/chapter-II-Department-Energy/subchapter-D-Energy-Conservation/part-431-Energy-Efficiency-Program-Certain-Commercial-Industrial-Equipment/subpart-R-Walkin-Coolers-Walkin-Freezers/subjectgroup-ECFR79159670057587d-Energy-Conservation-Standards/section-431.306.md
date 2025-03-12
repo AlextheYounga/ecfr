@@ -1,7 +1,5 @@
 ##### § 431.306 Energy conservation standards and their effective dates. #####
 
-Link to an amendment published at 82 FR 31885, July 10, 2017.
-
 (a) Each walk-in cooler or walk-in freezer manufactured on or after January 1, 2009, shall -
 
 (1) Have automatic door closers that firmly close all walk-in doors that have been closed to within 1 inch of full closure, except that this paragraph shall not apply to doors wider than 3 feet 9 inches or taller than 7 feet;
@@ -66,13 +64,23 @@ Link to an amendment published at 82 FR 31885, July 10, 2017.
 
 \*And represents the surface area of the non-display door.
 
-(e) *Walk-in cooler and freezer refrigeration systems.* All walk-in cooler and walk-in freezer refrigeration systems manufactured starting on June 5, 2017, must satisfy the following standards:
+(e) *Walk-in cooler refrigeration systems.* All walk-in cooler and walk-in freezer refrigeration systems manufactured starting on the dates listed in the table, except for walk-in process cooling refrigeration systems (as defined in § 431.302), must satisfy the following standards:
 
-|                                Class descriptor                                |     Class     |Equations for  <br/>minimum AWEF  <br/>(Btu/W-h)|
-|--------------------------------------------------------------------------------|---------------|------------------------------------------------|
-|Dedicated Condensing, Medium Temperature, Indoor System, \<9,000 Btu/h Capacity |DC.M.I, \<9,000|                      5.61                      |
-| Dedicated Condensing, Medium Temperature, Indoor System, ≥9,000 Btu/h Capacity |DC.M.I, ≥9,000 |                      5.61                      |
-|Dedicated Condensing, Medium Temperature, Outdoor System, \<9,000 Btu/h Capacity|DC.M.O, \<9,000|                      7.60                      |
-|Dedicated Condensing, Medium Temperature, Outdoor System, ≥9,000 Btu/h Capacity |DC.M.O, ≥9,000 |                      7.60                      |
+|                             Equipment class                             |    Minimum AWEF  <br/>(Btu/W-h)\*    |Compliance date: equipment manufactured starting on . . .|
+|-------------------------------------------------------------------------|--------------------------------------|---------------------------------------------------------|
+|              Dedicated Condensing System - Medium, Indoor               |                 5.61                 |                      June 5, 2017.                      |
+|              Dedicated Condensing System - Medium, Outdoor              |                 7.60                 |                                                         |
+|Dedicated Condensing System - Low, Indoor with a Net Capacity (qnet) of: |                                      |                                                         |
+|                             \< 6,500 Btu/h                              |9.091 × 10 −<sup>5</sup> × qnet + 1.81|                     July 10, 2020.                      |
+|                              ≥ 6,500 Btu/h                              |                 2.40                 |                                                         |
+|Dedicated Condensing System - Low, Outdoor with a Net Capacity (qnet) of:|                                      |                                                         |
+|                             \< 6,500 Btu/h                              |6.522 × 10−<sup>5</sup> × qnet + 2.73 |                                                         |
+|                              ≥ 6,500 Btu/h                              |                 3.15                 |                                                         |
+|                          Unit Cooler - Medium                           |                 9.00                 |                                                         |
+|            Unit Cooler - Low with a Net Capacity (qnet) of:             |                                      |                                                         |
+|                             \< 15,500 Btu/h                             |1.575 × 10 −<sup>5</sup> × qnet + 3.91|                                                         |
+|                             ≥ 15,500 Btu/h                              |                 4.15                 |                                                         |
 
-[74 FR 12074, Mar. 23, 2009, as amended at 78 FR 62993, Oct. 23, 2013; 79 FR 32123, June 3, 2014; 80 FR 69838, Nov. 12, 2015]
+\* Where qnet is net capacity as determined in accordance with § 431.304 and certified in accordance with 10 CFR part 429.
+
+[74 FR 12074, Mar. 23, 2009, as amended at 78 FR 62993, Oct. 23, 2013; 79 FR 32123, June 3, 2014; 80 FR 69838, Nov. 12, 2015; 82 FR 31885, July 10, 2017]
