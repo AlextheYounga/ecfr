@@ -1,5 +1,7 @@
 ##### § 944.106 Grapefruit import regulation. #####
 
+Link to an amendment published at 84 FR 16201, Apr. 18, 2019.
+
 (a) Pursuant to Section 8e [7 U.S.C. Section 608e-1] of the Agricultural Marketing Agreement Act of 1937, as amended [7 U.S.C. 601-674], and Part 944 - Fruits; Import Regulations, the importation into the United States of any grapefruit is prohibited unless such grapefruit meet the following minimum grade and size requirements for each specified grapefruit classification:
 
 |Grapefruit classification|  Regulation period  |Minimum grade|Minimum  <br/>diameter  <br/>(inches)|

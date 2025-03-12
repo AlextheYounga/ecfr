@@ -1,5 +1,7 @@
 ##### § 301.92-12 Testing protocols. #####
 
+Link to an amendment published at 84 FR 16195, Apr. 18, 2019.
+
 Samples must be analyzed using a methodology approved by APHIS at a laboratory approved by APHIS. The following methodology is approved by APHIS.
 
 (a) *Optional ELISA Prescreening.* An APHIS-approved ELISA may be used to prescreen plant samples to determine the presence of *Phytophthora* spp.

@@ -1,5 +1,7 @@
 ##### § 301.92-7 Availability of inspectors; assembly for inspection. #####
 
+Link to an amendment published at 84 FR 16194, Apr. 18, 2019.
+
 (a) Any person (other than a person authorized to issue certificates under § 301.92-5(c)) who desires to move a regulated or associated article or non-host nursery stock interstate accompanied by a certificate must notify an inspector16 as far in advance of the desired interstate movement as possible, but no less than 48 hours before the desired time of inspection.
 
 16 See footnote 7 of this subpart.

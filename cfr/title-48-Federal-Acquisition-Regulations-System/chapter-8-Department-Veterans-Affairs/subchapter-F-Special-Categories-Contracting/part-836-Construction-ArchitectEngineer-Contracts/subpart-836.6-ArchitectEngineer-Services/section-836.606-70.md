@@ -1,5 +1,7 @@
-##### 836.606-70 General. #####
+##### 836.606-70 Architect-engineer firms' proposal. #####
 
-Link to an amendment published at 84 FR 9973, Mar. 19, 2019.
+(a) When the contract price is estimated to be $50,000 or more, the contracting officer shall use VA Form 6298, Architect-Engineer Fee Proposal, to obtain the proposal and supporting cost data from the proposed contractor and subcontractor in the negotiation of an A-E contract for design services.
 
-To assure that the fee limitation is not violated, the contracting officer must maintain suitable records to be able to isolate the amount in the total fee to which the 6-percent limitation applies.
+(b) In obtaining A-E services for research study, seismic study, master planning study, construction management and other related services contracts, the contracting officer shall use VA Form 6298, supplemented or modified as needed for the particular project type.
+
+[84 FR 9973, Mar. 19, 2019]

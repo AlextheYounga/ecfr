@@ -1,11 +1,11 @@
-##### 852.236-79 Daily report of workers and material. #####
-
-Link to an amendment published at 84 FR 9974, Mar. 19, 2019.
+##### 852.236-79 Contractor production report. #####
 
 As prescribed in 836.573, insert the following clause:
 
-Daily Report of Workers and material (APR 1984)
+Contractor Production Report (Apr 2019)
 
-The contractor shall furnish to the resident engineer each day a consolidated report for the preceding work day in which is shown the number of laborers, mechanics, foremen/forewomen and pieces of heavy equipment used or employed by the contractor and subcontractors. The report shall bear the name of the firm, the branch of work that they perform, such as concrete, plastering, masonry, plumbing, sheet metal work, etc. The report shall give a breakdown of employees by crafts, location where employed, and work performed. The report shall also list materials delivered to the site on the date covered by the report.
+(a) The Contractor shall furnish to the resident engineer, for each workday, a consolidated report for the preceding workday. Reporting shall begin from date of mobilization until the date of final acceptance except for authorized holidays. VA Form 10101, Contractor Production Report, or a Contractor generated form containing the same type of information shall be signed, dated and submitted by the Contractor superintendent.
 
-(End of clause)
+(b) Each report shall include and specifically identify at least one safety topic germane to the jobsite that day.
+
+(End of clause)[84 FR 9974, Mar. 19, 2019]

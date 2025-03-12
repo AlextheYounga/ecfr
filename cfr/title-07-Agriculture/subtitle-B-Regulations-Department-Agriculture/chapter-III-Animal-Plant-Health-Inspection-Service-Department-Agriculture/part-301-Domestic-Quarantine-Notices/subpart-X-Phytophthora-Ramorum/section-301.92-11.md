@@ -1,5 +1,7 @@
 ##### § 301.92-11 Inspection and sampling protocols. #####
 
+Link to an amendment published at 84 FR 16194, Apr. 18, 2019.
+
 |           Type(s) of plants in the nursery           |  Type(s) of plants shipped interstate   |Inspection and certification protocol|               |
 |------------------------------------------------------|-----------------------------------------|-------------------------------------|---------------|
 |              Origin: Quarantined areas               |         Origin: Regulated areas         |                                     |               |
