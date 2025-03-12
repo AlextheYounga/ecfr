@@ -1,7 +1,5 @@
 ##### § 110.32 Information required in an application for a specific license/NRC Form 7. #####
 
-Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
-
 (a) Name and address of applicant.
 
 (b) Name and address of any other party, including the supplier of equipment or material, if different from the applicant.
@@ -18,7 +16,7 @@ This is meant to include all obligations attached to the material, according to 
 
 (f) Description of the equipment or material including, as appropriate, the following:
 
-(1) Maximum quantity of material in grams or kilograms (terabequerels or TBq for byproduct material) and its chemical and physical form.
+(1) Maximum quantity of material in grams or kilograms (terabecquerels or TBq for byproduct material) and its chemical and physical form.
 
 (2) For enriched uranium, the maximum weight percentage of enrichment and maximum weight of contained uranium-235.
 
@@ -48,4 +46,4 @@ This is meant to include all obligations attached to the material, according to 
 
 (v) The expiration date of the recipient's authorization (if any).
 
-[75 FR 44089, July 28, 2010]
+[75 FR 44089, July 28, 2010, as amended at 82 FR 52826, Nov. 15, 2017]

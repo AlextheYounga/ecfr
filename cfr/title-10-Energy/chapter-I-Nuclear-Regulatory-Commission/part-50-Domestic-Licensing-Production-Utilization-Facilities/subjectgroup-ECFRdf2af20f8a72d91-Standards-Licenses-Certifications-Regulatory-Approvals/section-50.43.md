@@ -1,7 +1,5 @@
 ##### § 50.43 Additional standards and provisions affecting class 103 licenses and certifications for commercial power. #####
 
-Link to an amendment published at 82 FR 52825, November 15, 2017.
-
 In addition to applying the standards set forth in §§ 50.40 and 50.42, paragraphs (a) through (e) of this section apply in the case of a class 103 license for a facility for the generation of commercial power. For a design certification under part 52 of this chapter, only paragraph (e) of this section applies.
 
 (a) The NRC will:
@@ -18,7 +16,7 @@ In addition to applying the standards set forth in §§ 50.40 and 50.42, paragra
 
 (d) Nothing shall preclude any government agency, now or hereafter authorized by law to engage in the production, marketing, or distribution of electric energy, if otherwise qualified, from obtaining a construction permit or operating license under this part, or a combined license under part 52 of this chapter for a utilization facility for the primary purpose of producing electric energy for disposition for ultimate public consumption.
 
-(e) Applications for a design certification, combined license, manufacturing license, or operating license that propose nuclear reactor designs which differ significantly from light-water reactor designs that were licensed before 1997, or use simplified, inherent, passive, or other innovative means to accomplish their safety functions, will be approved only if:
+(e) Applications for a design certification, combined license, manufacturing license, operating license or standard design approval that propose nuclear reactor designs which differ significantly from light-water reactor designs that were licensed before 1997. Or use simplified, inherent, passive, or other innovative means to accomplish their safety functions will be approved only if:
 
 (1)(i) The performance of each safety feature of the design has been demonstrated through either analysis, appropriate test programs, experience, or a combination thereof;
 
@@ -28,4 +26,4 @@ In addition to applying the standards set forth in §§ 50.40 and 50.42, paragra
 
 (2) There has been acceptable testing of a prototype plant over a sufficient range of normal operating conditions, transient conditions, and specified accident sequences, including equilibrium core conditions. If a prototype plant is used to comply with the testing requirements, then the NRC may impose additional requirements on siting, safety features, or operational conditions for the prototype plant to protect the public and the plant staff from the possible consequences of accidents during the testing period.
 
-[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 63 FR 50480, Sept. 22, 1998; 72 FR 49494, Aug. 28, 2007]
+[21 FR 355, Jan. 19, 1956, as amended at 35 FR 19660, Dec. 29, 1970; 63 FR 50480, Sept. 22, 1998; 72 FR 49494, Aug. 28, 2007; 82 FR 52825, Nov. 15, 2017]

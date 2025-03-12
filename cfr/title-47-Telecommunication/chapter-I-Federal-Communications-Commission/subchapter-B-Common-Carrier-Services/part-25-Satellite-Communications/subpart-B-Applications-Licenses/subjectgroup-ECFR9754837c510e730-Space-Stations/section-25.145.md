@@ -1,5 +1,7 @@
 ##### § 25.145 Licensing provisions for the FSS in the 18.3-20.2 GHz and 28.35-30.0 GHz bands. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 (a) [Reserved]
 
 (b) *System License.* Applicants authorized to construct and launch a system of technically identical non-geostationary satellite orbit satellites will be awarded a single “blanket” license covering a specified number of space stations to operate in a specified number of orbital planes.

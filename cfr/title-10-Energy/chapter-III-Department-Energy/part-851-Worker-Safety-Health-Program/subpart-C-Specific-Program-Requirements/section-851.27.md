@@ -1,5 +1,7 @@
 ##### § 851.27 Reference sources. #####
 
+Link to an amendment published at 82 FR 59954, Dec. 18, 2017.
+
 (a) *Materials incorporated by reference* - (1) *General.* The following standards which are not otherwise set forth in part 851 are incorporated by reference and made a part of part 851. The standards listed in this section have been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
 
 (2) *Availability of standards.* The standards incorporated by reference are available for inspection at:

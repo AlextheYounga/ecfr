@@ -1,7 +1,5 @@
 ##### § 71.4 Definitions. #####
 
-Link to an amendment published at 82 FR 52825, Nov. 15, 2017.
-
 The following terms are as defined here for the purpose of this part. To ensure compatibility with international transportation standards, all limits in this part are given in terms of dual units: The International System of Units (SI) followed or preceded by U.S. standard or customary units. The U.S. customary units are not exact equivalents but are rounded to a convenient value, providing a functionally equivalent unit. For the purpose of this part, either unit may be used.
 
 *A*1 means the maximum activity of special form radioactive material permitted in a Type A package. This value is either listed in Appendix A, Table A-1, of this part, or may be derived in accordance with the procedures prescribed in Appendix A of this part.
@@ -46,7 +44,7 @@ The following terms are as defined here for the purpose of this part. To ensure 
 
 *Graphite* means, for the purposes of §§ 71.15 and 71.22, graphite with a boron equivalent content less than 5 parts per million and density greater than 1.5 grams per cubic centimeter.
 
-*Indian tribe* means an Indian or Alaska Native Tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+*Indian tribe* means an Indian or Alaska Native Tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 5130.
 
 *Licensed* material means byproduct, source, or special nuclear material received, possessed, used, or transferred under a general or specific license issued by the Commission pursuant to the regulations in this chapter.
 
@@ -144,4 +142,4 @@ The following terms are as defined here for the purpose of this part. To ensure 
 
 (3) Enriched uranium means uranium containing more uranium-235 than the naturally occurring distribution of uranium isotopes.
 
-[69 FR 3786, Jan. 26, 2004, as amended at 69 FR 58038, Sept. 29, 2004; 77 FR 34204, June 11, 2012; 80 FR 34011, June 12, 2015; 80 FR 48684, Aug. 14, 2015; 80 FR 74981, Dec. 1, 2015]
+[69 FR 3786, Jan. 26, 2004, as amended at 69 FR 58038, Sept. 29, 2004; 77 FR 34204, June 11, 2012; 80 FR 34011, June 12, 2015; 80 FR 48684, Aug. 14, 2015; 80 FR 74981, Dec. 1, 2015; 82 FR 52825, Nov. 15, 2017]

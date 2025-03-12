@@ -1,7 +1,5 @@
 ##### § 73.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52825, Nov. 15, 2017.
-
 As used in this part:
 
 (a) Terms defined in parts 50, 52, and 70 of this chapter have the same meaning when used in this part.
@@ -42,7 +40,7 @@ As used in this part:
 
 *Incendiary device* means any self-contained device intended to create an intense fire that can damage normally flame-resistant or retardant materials.
 
-*Indian Tribe* means an Indian or Alaska Native Tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+*Indian Tribe* means an Indian or Alaska Native Tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 5130.
 
 *Individual authorized access to Safeguards Information* is an individual authorized to have access to and handle such information pursuant to the requirements of §§ 73.21 and 73.22 of this part.
 

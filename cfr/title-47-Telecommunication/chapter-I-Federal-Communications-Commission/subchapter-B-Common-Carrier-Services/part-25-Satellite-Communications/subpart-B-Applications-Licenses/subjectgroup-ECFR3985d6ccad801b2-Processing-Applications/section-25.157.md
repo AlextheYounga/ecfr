@@ -1,5 +1,7 @@
 ##### § 25.157 Consideration of applications for NGSO-like satellite operation. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 (a) This section specifies the procedures for considering license applications for “NGSO-like” satellite operation, except as provided in paragraph (b) of this section. For purposes of this section, the term “NGSO-like satellite operation” means:
 
 (1) Operation of any NGSO satellite system, and

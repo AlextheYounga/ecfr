@@ -1,7 +1,5 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
 
-Link to an amendment published at 82 FR 52220, November 13, 2017.
-
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -44,9 +42,15 @@ Link to an amendment published at 82 FR 52220, November 13, 2017.
 |                    (15) Retrieval of in-process or completed Copyright Office records or other Copyright Office materials:                     |              |
 |                                           (i) Retrieval of paper records (per hour, 1 hour minimum)                                            |     200      |
 |                            (ii) Retrieval of digital records (per hour, half hour minimum, quarter hour increments)                            |     200      |
-|                                    (16) Recordation of document, including a notice of intention to enforce                                    |              |
-|                                                                 (single title)                                                                 |     105      |
+|                                   (16) Recordation of a document, including a notice of intention to enforce                                   |              |
+|                                                                  Single title                                                                  |     105      |
 |                                                Additional titles (per group of 1 to 10 titles)                                                 |      35      |
+|                                             Additional titles provided in an electronic title list                                             |              |
+|                                                           1 to 50 additional titles                                                            |      60      |
+|                                                          51 to 500 additional titles                                                           |     225      |
+|                                                         501 to 1,000 additional titles                                                         |     390      |
+|                                                       1,001 to 10,000 additional titles                                                        |     555      |
+|                                                        10,001 or more additional titles                                                        |    5,550     |
 |                       Correction of online Public Catalog data due to erroneous electronic title submission (per title)                        |      7       |
 |(17) Designation of agent under 17 U.S.C. 512(c)(2) to receive notification of claimed infringement, or amendment or resubmission of designation|      6       |
 |                                                 (18) Issuance of a receipt for a § 407 deposit                                                 |      30      |
@@ -110,4 +114,4 @@ Link to an amendment published at 82 FR 52220, November 13, 2017.
 
 (f) *Fees for travel in connection with educational activities.* For travel expenses in connection with Copyright Office educational activities when participation by Copyright Office personnel has been requested by another organization or person and that organization or person has agreed to pay such expenses, collection of the fee shall be subject to, and the amount of the fee shall be no greater than, the amount authorized under the Federal Travel Regulations found in Chapters 300 through 304 of Title 41.
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017]

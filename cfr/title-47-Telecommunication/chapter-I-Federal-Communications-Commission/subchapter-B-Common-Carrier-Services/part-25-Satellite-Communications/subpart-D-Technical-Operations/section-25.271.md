@@ -1,5 +1,7 @@
 ##### § 25.271 Control of transmitting stations. #####
 
+Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+
 (a) The licensee of a facility licensed under this part is responsible for the proper operation and maintenance of the station.
 
 (b) The licensee of a transmitting earth station licensed under this part shall ensure that a trained operator is present on the earth station site, or at a designated remote control point for the earth station, at all times that transmissions are being conducted. No operator's license is required for a person to operate or perform maintenance on facilities authorized under this part.

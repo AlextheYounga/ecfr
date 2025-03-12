@@ -1,5 +1,7 @@
 ##### § 25.164 Milestones. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 (a) The recipient of an initial license for a GSO space station, other than a DBS or SDARS space station, granted on or after August 27, 2003, must launch the space station, position it in its assigned orbital location, and operate it in accordance with the station authorization no later than five years after the grant of the license, unless a different schedule is established by Title 47, Chapter I, or the Commission.
 
 (b) The recipient of an initial license for an NGSO satellite system, other than a DBS or SDARS satellite system, granted on or after September 11, 2003, must launch the space stations, place them in the assigned orbits, and operate them in accordance with the station authorization no later than six years after the grant of the license, unless a different schedule is established by Title 47, Chapter I, or the Commission.

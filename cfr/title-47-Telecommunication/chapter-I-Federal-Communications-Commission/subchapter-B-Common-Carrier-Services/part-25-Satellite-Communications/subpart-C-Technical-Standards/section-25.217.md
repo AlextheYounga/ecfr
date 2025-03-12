@@ -1,5 +1,7 @@
 ##### § 25.217 Default service rules. #####
 
+Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+
 (a) The technical rules in this section apply only to licenses to operate a satellite system in a frequency band granted after a domestic frequency allocation has been adopted for that frequency band, but before any frequency-band-specific service rules have been adopted for that frequency band.
 
 (b)(1) For all NGSO-like satellite licenses for which the application was filed pursuant to the procedures set forth in § 25.157 after August 27, 2003, authorizing operations in a frequency band for which the Commission has not adopted frequency band-specific service rules at the time the license is granted, the licensee will be required to comply with the following technical requirements, notwithstanding the frequency bands specified in these rule provisions: §§ 25.142(d), 25.143(b)(2)(ii), 25.143(b)(2)(iii), 25.204(e), 25.210(d), 25.210(f), and 25.210(i).

@@ -1,5 +1,7 @@
 ##### § 851.26 Recordkeeping and reporting. #####
 
+Link to an amendment published at 82 FR 59954, Dec. 18, 2017.
+
 (a) *Recordkeeping.* Contractors must:
 
 (1) Establish and maintain complete and accurate records of all hazard inventory information, hazard assessments, exposure measurements, and exposure controls.

@@ -1,7 +1,5 @@
 ##### § 61.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52825, Nov. 15, 2017.
-
 As used in this part:
 
 *Active maintenance* means any significant remedial activity needed during the period of institutional control to maintain a reasonable assurance that the performance objectives in §§ 61.41 and 61.42 are met. Such active maintenance includes ongoing activities such as the pumping and treatment of water from a disposal unit or one-time measures such as replacement of a disposal unit cover. Active maintenance does not include custodial activities such as repair of fencing, repair or replacement of monitoring equipment, revegetation, minor additions to soil cover, minor repair of disposal unit covers, and general disposal site upkeep such as mowing grass.
@@ -36,7 +34,7 @@ As used in this part:
 
 *Inadvertent intruder* means a person who might occupy the disposal site after closure and engage in normal activities, such as agriculture, dwelling construction, or other pursuits in which the person might be unknowingly exposed to radiation from the waste.
 
-*Indian Tribe* means an Indian Tribe as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450).
+*Indian Tribe* means an Indian Tribe as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301).
 
 *Intruder barrier* means a sufficient depth of cover over the waste that inhibits contact with waste and helps to ensure that radiation exposures to an inadvertent intruder will meet the performance objectives set forth in this part, or engineered structures that provide equivalent protection to the inadvertent intruder.
 
@@ -60,8 +58,8 @@ As used in this part:
 
 *Surveillance* means observation of the disposal site for purposes of visual detection of need for maintenance, custodial care, evidence of intrusion, and compliance with other license and regulatory requirements.
 
-*Tribal Governing Body* means a Tribal organization as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450).
+*Tribal Governing Body* means a Tribal organization as defined in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301).
 
 *Waste* means those low-level radioactive wastes containing source, special nuclear, or byproduct material that are acceptable for disposal in a land disposal facility. For the purposes of this definition, low-level radioactive waste means radioactive waste not classified as high-level radioactive waste, transuranic waste, spent nuclear fuel, or byproduct material as defined in paragraphs (2), (3), and (4) of the definition of *Byproduct material* set forth in § 20.1003 of this chapter.
 
-[47 FR 57463, Dec. 27, 1982, as amended at 54 FR 22583, May 25, 1989; 58 FR 33891, June 22, 1993; 66 FR 55792, Nov. 2, 2001; 72 FR 55933, Oct. 1, 2007; 73 FR 5725, Jan. 31, 2008; 79 FR 75740, Dec. 19, 2014]
+[47 FR 57463, Dec. 27, 1982, as amended at 54 FR 22583, May 25, 1989; 58 FR 33891, June 22, 1993; 66 FR 55792, Nov. 2, 2001; 72 FR 55933, Oct. 1, 2007; 73 FR 5725, Jan. 31, 2008; 79 FR 75740, Dec. 19, 2014; 82 FR 52825, Nov. 15, 2017]

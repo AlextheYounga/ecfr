@@ -331,7 +331,6 @@
 (*52*) 2011a Addenda (Excluding Article IWB-2000: IWB-2500 “Examination and Inspection: Examination and Pressure Test Requirements,” Table IWB-2500-1 “Examination Categories,” Item numbers B5.11 and B5.71), and
 
 (*53*) 2013 Edition (Excluding Article IWB-2000: IWB-2500 “Examination and Inspection: Examination and Pressure Test Requirements,” Table IWB-2500-1 (B-F) “Examination Category B-F, Pressure Retaining Dissimilar Metal Welds in Vessel Nozzles,” Item numbers B5.11 and B5.71; Article IWB-3000 “Acceptance Standards,” IWB-3100 “Evaluation of Examination Results,” IWB-3110 “Preservice Volumetric and Surface Examinations,” IWB-3112 “Acceptance,” paragraph (a)(3); and Article IWC-3000 “Acceptance Standards,” IWC-3100 “Evaluation of Examination Results,” IWC-3110 “Preservice Volumetric and Surface Examinations,” IWC-3112 “Acceptance,” paragraph (a)(3)).
-.
 
 (iii) *ASME Code Cases: Nuclear Components* -
 (A) *ASME BPV Code Case N-513-3 Mandatory Appendix I.* ASME BPV Code Case N-513-3, “Evaluation Criteria for Temporary Acceptance of Flaws in Moderate Energy Class 2 or 3 Piping Section XI, Division 1,” Mandatory Appendix I, “Relations for *F*m, *F*b, and *F* for Through-Wall Flaws” (Approval Date: January 26, 2009). ASME BPV Code Case N-513-3 Mandatory Appendix I is referenced in paragraph (b)(2)(xxxiv)(B) of this section.
@@ -533,7 +532,7 @@ Table I - Prohibited Code Provisions
 
 (*iii*) A description of necessary corrective actions.
 
-(B) *Metal containment examinations: Second provision.* When performing remotely the visual examinations required by Subsection IWE, the maximum direct examination distance specified in Table IWA-2210-1 may be extended and the minimum illumination requirements specified in Table IWA-2210-1 may be decreased provided that the conditions or indications for which the visual examination is performed can be detected at the chosen distance and illumination.
+(B) *Metal containment examinations: Second provision.* When performing remotely the visual examinations required by Subsection IWE, the maximum direct examination distance specified in Table IWA-2210-1 (1992 Edition through 2004 Edition) or Table IWA-2211-1 (2005 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section) may be extended and the minimum illumination requirements specified may be decreased provided that the conditions or indications for which the visual examination is performed can be detected at the chosen distance and illumination.
 
 (C) *Metal containment examinations: Third provision.* The examinations specified in Examination Category E-B, Pressure Retaining Welds, and Examination Category E-F, Pressure Retaining Dissimilar Metal Welds, are optional.
 
@@ -1070,4 +1069,4 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017]

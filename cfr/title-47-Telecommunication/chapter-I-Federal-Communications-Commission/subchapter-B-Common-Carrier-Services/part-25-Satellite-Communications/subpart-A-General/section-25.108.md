@@ -1,5 +1,7 @@
 ##### § 25.108 Incorporation by reference. #####
 
+Link to an amendment published at 82 FR 59984, Dec. 18, 2017.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Commission must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Communications Commission, 445 12th Street SW., Reference Information Center, Room CY-A257, Washington, DC 20554, 202-418-0270, and is available from the sources listed below. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) European Telecommunications Standards Institute (ETSI), 650 Route des Lucioles, 06921 Sophia-Antipolis Cedex, France; *http://www.etsi.org;* Voice: +33 (0)4 92 94 42 00; Fax: +33 (0)4 93 65 47 16; email: *webstore@etsi.org.*

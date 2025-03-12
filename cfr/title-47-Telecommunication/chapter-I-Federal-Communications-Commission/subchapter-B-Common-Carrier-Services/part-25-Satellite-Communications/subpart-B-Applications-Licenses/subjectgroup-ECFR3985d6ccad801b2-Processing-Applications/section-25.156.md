@@ -1,5 +1,7 @@
 ##### § 25.156 Consideration of applications. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 (a) Applications for a radio station authorization, or for modification or renewal of an authorization, will be granted if, upon examination of the application, any pleadings or objections filed, and upon consideration of such other matters as it may officially notice, the Commission finds that the applicant is legally, technically, and otherwise qualified, that the proposed facilities and operations comply with all applicable rules, regulations, and policies, and that grant of the application will serve the public interest, convenience and necessity.
 
 (b) [Reserved]

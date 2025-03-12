@@ -1,5 +1,7 @@
 ##### § 25.202 Frequencies, frequency tolerance, and emission limits. #####
 
+Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+
 (a)(1) *Frequency band.* The following frequencies are available for use by the Fixed-Satellite Service. Precise frequencies and bandwidths of emission shall be assigned on a case-by-case basis. Refer to the U.S. Table of Frequency Allocations, 47 CFR 2.106, including relevant footnotes, for band-specific use restrictions and coordination requirements. Restrictions and coordination conditions not mentioned in the Table of Frequency Allocations are set forth in the annotations to the following list:
 
 |Space-to-Earth (GHz) |  Earth-to-space (GHz)  |

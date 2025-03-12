@@ -1,5 +1,7 @@
 ##### § 25.143 Licensing provisions for the 1.6/2.4 GHz Mobile-Satellite Service and 2 GHz Mobile-Satellite Service. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 (a) Authority to launch and operate a constellation of NGSO satellites will be granted in a single blanket license for operation of a specified number of space stations in specified orbital planes. An individual license will be issued for each GSO satellite, whether it is to be operated in a GSO-only system or in a GSO/NGSO hybrid system.
 
 (b) *Qualification Requirements* - (1) *General Requirements.* Each application for a space station system authorization in the 1.6/2.4 GHz Mobile-Satellite Service or 2 GHz Mobile-Satellite Service must include the information specified in § 25.114. Applications for non-U.S.-licensed systems must comply with the provisions of § 25.137.

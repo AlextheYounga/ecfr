@@ -1,6 +1,6 @@
 ##### § 73.3527 Local public inspection file of noncommercial educational stations. #####
 
-Link to an amendment published at 82 FR 57883, Dec. 8, 2017.
+Link to an amendment published at 82 FR 57883, Dec. 8, 2017.Link to an amendment published at 82 FR 59987, Dec. 18, 2017.
 
 (a) *Responsibility to maintain a file.* The following shall maintain for public inspection a file containing the material set forth in this section.
 

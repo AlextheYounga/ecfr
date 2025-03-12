@@ -1,5 +1,7 @@
 ##### § 25.261 Procedures for avoidance of in-line interference events for Non Geostationary Satellite Orbit (NGSO) Satellite Network Operations in the Fixed-Satellite Service (FSS) Bands. #####
 
+Link to an amendment published at 82 FR 59986, Dec. 18, 2017.
+
 (a) *Applicable NGSO FSS Bands.* The coordination procedures in this section apply to non-Federal-Government NGSO FSS satellite networks operating in the following assigned frequency bands: The 28.6-29.1 GHz or 18.8-19.3 GHz frequency bands.
 
 (b) *Definition of “In-line interference events.”* For purposes of this section, an “in-line interference event” is defined as the interference associated with an occurrence of any physical alignment of space stations of two or more satellite networks with an operating Earth station of one of these networks in such a way that the angular separation between operational links of the two networks is less than 10° as measured at the Earth station.

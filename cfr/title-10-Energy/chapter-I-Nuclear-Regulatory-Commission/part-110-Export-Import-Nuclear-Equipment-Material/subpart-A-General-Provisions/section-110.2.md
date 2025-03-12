@@ -1,7 +1,5 @@
 ##### § 110.2 Definitions. #####
 
-Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
-
 As used in this part,
 
 *Accelerator-produced radioactive material* means any material made radioactive by a particle accelerator.
@@ -186,7 +184,7 @@ The definition of *radioactive waste* in this part does not include spent or irr
 
 *Special nuclear material* means plutonium, uranium-233 or uranium enriched above 0.711 percent by weight in the isotope uranium-235.
 
-*Specific activity* means the radioactivity of a radionuclide per unit mass of that nuclide, expressed in the SI unit of Terabequerels per gram (TBq/g). Values of specific activity are found in Appendix A to part 71 of this chapter.
+*Specific activity* means the radioactivity of a radionuclide per unit mass of that nuclide, expressed in the SI unit of terabecquerels per gram (TBq/g). Values of specific activity are found in Appendix A to part 71 of this chapter.
 
 *Specific license* means an export or import license document issued to a named person and authorizing the export or import of specified nuclear equipment or materials based upon the review and approval of an NRC Form 7 application filed pursuant to this part and other related submittals in support of the application.
 

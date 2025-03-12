@@ -1,7 +1,5 @@
 ##### § 40.35 Conditions of specific licenses issued pursuant to § 40.34. #####
 
-Link to an amendment published at 82 FR 52825, November 15, 2017.
-
 Each person licensed pursuant to § 40.34 shall:
 
 (a) Maintain the level of quality control required by the license in the manufacture of the industrial product or device, and in the installation of the depleted uranium into the product or device;
@@ -20,6 +18,6 @@ Each person licensed pursuant to § 40.34 shall:
 
 (3) Keep records showing the name, address, and a point of contact for each general license to whom he or she transfers depleted uranium in industrial products or devices for use pursuant to the general license provided in § 40.25 or equivalent regulations of an Agreement State. The records must be retained for three years from the date of transfer and must show the date of each transfer, the quantity of depleted uranium in each product or device transferred, and compliance with the report requirements of this section.
 
-(f) Licensees required to submit emergency plans by § 40.31(i) shall follow the emergency plan approved by the Commission. The licensee may change the plan without Commission approval if the changes do not decrease the effectiveness of the plan. The licensee shall furnish the change to the Director, Office of Nuclear Material Safety and Safeguards, by an appropriate method listed in § 40.5, and to affected offsite response organizations, within six months after the change is made. Proposed changes that decrease the effectiveness of the approved emergency plan may not be implemented without application to and prior approval by the Commission.
+(f) Licensees required to submit emergency plans by § 40.31(j)(1)-(4) shall follow the emergency plan approved by the Commission. The licensee may change the plan without Commission approval if the changes do not decrease the effectiveness of the plan. The licensee shall furnish the change to the Director, Office of Nuclear Material Safety and Safeguards, by an appropriate method listed in § 40.5, and to affected offsite response organizations, within six months after the change is made. Proposed changes that decrease the effectiveness of the approved emergency plan may not be implemented without application to and prior approval by the Commission.
 
-[41 FR 53332, Dec. 6, 1976, as amended at 43 FR 6924, Feb. 17, 1978; 52 FR 31611, Aug. 21, 1987; 53 FR 19248, May 27, 1988; 54 FR 14062, Apr. 7, 1989; 68 FR 58807, Oct. 10, 2003; 73 FR 5721, Jan. 31, 2008]
+[41 FR 53332, Dec. 6, 1976, as amended at 43 FR 6924, Feb. 17, 1978; 52 FR 31611, Aug. 21, 1987; 53 FR 19248, May 27, 1988; 54 FR 14062, Apr. 7, 1989; 68 FR 58807, Oct. 10, 2003; 73 FR 5721, Jan. 31, 2008; 82 FR 52825, Nov. 15, 2017]

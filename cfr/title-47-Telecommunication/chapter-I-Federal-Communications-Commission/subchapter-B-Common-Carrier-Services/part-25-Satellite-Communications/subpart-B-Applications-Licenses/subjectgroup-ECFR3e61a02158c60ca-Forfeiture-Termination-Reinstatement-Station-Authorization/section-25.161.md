@@ -1,5 +1,7 @@
 ##### § 25.161 Automatic termination of station authorization. #####
 
+Link to an amendment published at 82 FR 59985, Dec. 18, 2017.
+
 A station authorization shall be automatically terminated in whole or in part without further notice to the licensee upon:
 
 (a)(1) Failure to meet any applicable milestone for implementation of the licensed satellite system specified in § 25.164(a) and/or (b), without demonstrating that the failure was caused by circumstances beyond the licensee's control, or

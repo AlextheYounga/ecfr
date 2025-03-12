@@ -1,7 +1,5 @@
 ##### § 110.23 General license for the export of byproduct material. #####
 
-Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
-
 (a) A general license is issued to any person to export byproduct material (see Appendix L to this part) to any country not listed in § 110.28 and subject to the following limitations:
 
 (1) The general license in this section does not authorize the export of byproduct material in the form of radioactive waste.
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
 
 Americium-242mCalifornium-249Californium-251Curium-245Curium-247
 
-(3) For byproduct materials listed in Table 1 of Appendix P to this part, individual shipments under a general license for export must be less than the terabequeral (TBq) values specified in Category 2 of Table 1 unless a more restrictive requirement applies.
+(3) For byproduct materials listed in Table 1 of Appendix P to this part, individual shipments under a general license for export must be less than the terabecquerel (TBq) values specified in Category 2 of Table 1 unless a more restrictive requirement applies.
 
 (4) The general license authorizes exports of the following radionuclides when contained in a device, or a source for use in a device, in quantities less than 3.7 × 10−3 TBq (100 millicuries) of alpha activity per device or source, unless the export is to a country listed in § 110.30:
 
@@ -36,4 +34,4 @@ Actinium-225Actinium-227Californium-248Californium-250Californium-252Californium
 
 (b) [Reserved]
 
-[75 FR 44088, July 28, 2010]
+[75 FR 44088, July 28, 2010, as amended at 82 FR 52826, Nov. 15, 2017]

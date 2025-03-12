@@ -6,7 +6,7 @@ As used in this subpart:
 
 (b) The term *maintain* includes maintain, collect, use or disseminate.
 
-(c) *Record* means any item, collection or grouping of information about an individual that is maintained by the NRC, including, but not limited to, his education, financial transactions, medical history, employment history or criminal history, and that contains the individual's name, or the identifying number, symbol or other identifying particular assigned to the individual, such as a finger or voice print or a photograph.
+(c) *Record* means any item, collection or grouping of information about an individual that is maintained by the NRC, including, but not limited to, his or her education, financial transactions, medical history, employment history or criminal history, and that contains the individual's name, or the identifying number, symbol or other identifying particular assigned to the individual, such as a finger or voice print or a photograph.
 
 (d) *System manager* means the NRC official responsible for maintaining a system of records.
 

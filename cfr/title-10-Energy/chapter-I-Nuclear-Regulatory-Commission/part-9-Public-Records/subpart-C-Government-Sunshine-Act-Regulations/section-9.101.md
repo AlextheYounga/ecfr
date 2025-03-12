@@ -14,6 +14,6 @@ As used in this subpart:
 
 (f) *Secretary* means the Secretary to the Commission.
 
-(g) *General Counsel* means the General Counsel of the commission as provided by section 25(b) of the Atomic Energy Act of 1954 and section 201(f) of the Energy Reorganization Act of 1974, and, until such time as the offices of that officer are in the same location as those of the Commission, any member of his office specially designated in writing by him pursuant to this subsection to carry out his responsibilities under this subpart.
+(g) *General Counsel* means the General Counsel of the commission as provided by section 25(b) of the Atomic Energy Act of 1954 and section 201(f) of the Energy Reorganization Act of 1974, and, until such time as the offices of that officer are in the same location as those of the Commission, any member of his or her office specially designated in writing by him or her pursuant to this subsection to carry out his or her responsibilities under this subpart.
 
 [42 FR 12877, Mar. 7, 1977, as amended at 50 FR 20891, May 21, 1985]

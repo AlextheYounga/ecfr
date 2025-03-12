@@ -1,5 +1,7 @@
 ##### § 851.23 Safety and health standards. #####
 
+Link to an amendment published at 82 FR 59954, Dec. 18, 2017.
+
 (a) Contractors must comply with the following safety and health standards that are applicable to the hazards at their covered workplace:
 
 (1) Title 10 Code of Federal Regulations (CFR) 850, “Chronic Beryllium Disease Prevention Program.”
