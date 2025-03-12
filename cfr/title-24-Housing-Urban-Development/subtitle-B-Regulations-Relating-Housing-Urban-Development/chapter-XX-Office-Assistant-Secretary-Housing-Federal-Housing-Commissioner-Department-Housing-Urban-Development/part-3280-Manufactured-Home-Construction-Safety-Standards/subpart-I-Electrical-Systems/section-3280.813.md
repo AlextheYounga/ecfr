@@ -8,7 +8,7 @@
 
 (2)(i) The label must include the correct voltage and ampere rating and the following information:
 
-THIS CONNECTION IS FOR HEATING AND/OR AIR-CONDITIONING EQUIPMENT. THE BRANCH CIRCUIT IS RATED AT NOT MORE THAN\_\_AMPERES, AT\_\_VOLTS, 60-HERTZ,\_\_CONDUCTOR AMPACITY. A DISCONNECTING MEANS IS LOCATED WITHIN SIGHT OF THE EQUIPMENT.
+THIS CONNECTION IS FOR HEATING AND/OR AIR-CONDITIONING EQUIPMENT. THE BRANCH CIRCUIT IS RATED AT NOT MORE THAN\_\_\_\_AMPERES, AT\_\_\_\_VOLTS, 60-HERTZ,\_\_\_\_CONDUCTOR AMPACITY. A DISCONNECTING MEANS IS LOCATED WITHIN SIGHT OF THE EQUIPMENT.
 
 (ii) The correct voltage and ampere rating shall be given. The tag must be not less than 0.020-inches thick etched brass, stainless steel, anodized or alclad aluminum, or equivalent. The tag must have a minimum size of not less than 3 inches × 13/4 inches.
 

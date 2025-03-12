@@ -70,7 +70,7 @@ All pass-through entities must:
 
 (3) Issuing a management decision for applicable audit findings pertaining only to the Federal award provided to the subrecipient from the pass-through entity as required by § 200.521.
 
-(4) The pass-through entity is responsible for resolving audit findings specifically related to the subaward and not responsible for resolving cross-cutting findings. If a subrecipient has a current Single Audit report posted in the Federal Audit Clearinghouse and has not otherwise been excluded from receipt of Federal funding (*e.g.,* has been debarred or suspended), the pass-through entity may rely on the subrecipient's cognizant audit agency or cognizant oversight agency to perform audit follow-up and make management decisions related to cross-cutting findings in accordance with section § 300.513(a)(3)(vii). Such reliance does not eliminate the responsibility of the pass-through entity to issue subawards that conform to agency and award-specific requirements, to manage risk through ongoing subaward monitoring, and to monitor the status of the findings that are specifically related to the subaward.
+(4) The pass-through entity is responsible for resolving audit findings specifically related to the subaward and not responsible for resolving crosscutting findings. If a subrecipient has a current Single Audit report posted in the Federal Audit Clearinghouse and has not otherwise been excluded from receipt of Federal funding (*e.g.,* has been debarred or suspended), the pass-through entity may rely on the subrecipient's cognizant audit agency or cognizant oversight agency to perform audit follow-up and make management decisions related to cross-cutting findings in accordance with section § 200.513(a)(3)(vii). Such reliance does not eliminate the responsibility of the pass-through entity to issue subawards that conform to agency and award-specific requirements, to manage risk through ongoing subaward monitoring, and to monitor the status of the findings that are specifically related to the subaward.
 
 (e) Depending upon the pass-through entity's assessment of risk posed by the subrecipient (as described in paragraph (b) of this section), the following monitoring tools may be useful for the pass-through entity to ensure proper accountability and compliance with program requirements and achievement of performance goals:
 
@@ -85,3 +85,5 @@ All pass-through entities must:
 (g) Consider whether the results of the subrecipient's audits, on-site reviews, or other monitoring indicate conditions that necessitate adjustments to the pass-through entity's own records.
 
 (h) Consider taking enforcement action against noncompliant subrecipients as described in § 200.339 of this part and in program regulations.
+
+[85 FR 49543, Aug. 13, 2020, as amended at 86 FR 10440, Feb. 22, 2021]

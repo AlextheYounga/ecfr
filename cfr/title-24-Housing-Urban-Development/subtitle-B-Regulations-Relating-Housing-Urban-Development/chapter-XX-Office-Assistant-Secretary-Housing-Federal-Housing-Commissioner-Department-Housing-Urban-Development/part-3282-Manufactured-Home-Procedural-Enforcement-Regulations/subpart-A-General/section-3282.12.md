@@ -1,4 +1,4 @@
-##### § 3282.12 Excluded structures - modular homes. #####
+##### § 3282.12 Excluded structures—modular homes. #####
 
 (a) The purpose of this section is to provide the certification procedure authorized by section 604(h) of the National Manufactured Housing Construction and Safety Standards Act under which modular homes may be excluded from coverage of the Act if the manufacturer of the structure elects to have them excluded. If a manufacturer wishes to construct a structure that is both a manufactured home and a modular home, the manufacturer need not make the certification provided for by this section and may meet both the Federal manufactured home requirements and any modular housing requirements. When the certification is not made, all provisions of the Federal requirements shall be met.
 
@@ -72,15 +72,15 @@
 
 (c) When a manufacturer makes a certification provided for under paragraph (b) of this section, the certification shall state as follows:
 
-The manufacturer of this structure, Name \_\_\_\_\_\_\_\_\_\_ Address \_\_\_\_\_\_\_\_\_\_ (location where structure was manufactured).
+The manufacturer of this structure, Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (location where structure was manufactured).
 
-Certifies that this structure (Ser. No. \_\_\_\_) is not a manufactured home subject to the provisions of the National Manufactured Housing Construction and Safety Standards Act and is -
+Certifies that this structure (Ser. No. \_\_\_\_\_\_\_\_) is not a manufactured home subject to the provisions of the National Manufactured Housing Construction and Safety Standards Act and is—
 
 (1) designed only for erection or installation on a site-built permanent foundation,
 
 (2) not designed to be moved once so erected or installed,
 
-(3) designed and manufactured to comply with \_\_\_\_\_\_\_ (Here state which code included in paragraph (b)(3) of this section has been followed), and
+(3) designed and manufactured to comply with \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Here state which code included in paragraph (b)(3) of this section has been followed), and
 
 (4) to the manufacturer's knowledge is not intended to be used other than on a site-built permanent foundation.
 

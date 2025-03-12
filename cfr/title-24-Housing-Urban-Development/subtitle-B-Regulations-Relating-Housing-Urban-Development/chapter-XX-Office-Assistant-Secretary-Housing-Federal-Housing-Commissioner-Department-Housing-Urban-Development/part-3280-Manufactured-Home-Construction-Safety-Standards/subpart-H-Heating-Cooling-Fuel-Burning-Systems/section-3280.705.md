@@ -123,7 +123,7 @@ The connector capacity indicated on this tag shall be equal to or greater than t
 
 (iv) A tag shall be permanently attached to the outside of the exterior wall of the manufactured home as close as possible to the gas supply connection. The tag shall indicate the type of gas and the Btuh capacity of the outlet and shall be legibly inscribed as follows:
 
-THIS OUTLET IS DESIGNED FOR USE WITH GAS PORTABLE APPLIANCES WHOSE TOTAL INPUT DO NOT EXCEED \_\_\_ BTUH. REPLACE PROTECTIVE COVERING OVER CONNECTOR WHEN NOT IN USE.
+THIS OUTLET IS DESIGNED FOR USE WITH GAS PORTABLE APPLIANCES WHOSE TOTAL INPUT DO NOT EXCEED \_\_\_\_\_\_ BTUH. REPLACE PROTECTIVE COVERING OVER CONNECTOR WHEN NOT IN USE.
 
 (3) *Valves.* A shutoff valve must be installed in the fuel piping at each appliance inside the manufactured home structure, upstream of the union or connector in addition to any valve on the appliance and so arranged to be accessible to permit servicing of the appliance and removal of its components. The shutoff valve must be located within 6 feet of any cooking appliance and within 3 feet of any other appliance. A shutoff valve may serve more than one appliance if located as required by this paragraph (3). The shutoff valve must be of the non-displaceable rotor type and conform to ANSI Z21.15-1997, Manually Operated Gas Valves.
 

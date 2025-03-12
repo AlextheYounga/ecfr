@@ -4,11 +4,17 @@
 
 (2) *Diplomatic visa* means any nonimmigrant visa, regardless of classification, which bears that title and is issued in accordance with the regulations of this section.
 
-(3) *Equivalent of a diplomatic passport* means a national passport, issued by a competent authority of a foreign government which does not issue diplomatic passports to its career diplomatic and consular officers, indicating the career diplomatic or consular status of the bearer.
+(3) *Equivalent of a diplomatic passport* means a passport that:
+
+(i) Is issued by a competent authority that does not issue diplomatic passports and
+
+(ii) Has been designated by the Secretary as the equivalent of a diplomatic passport.
 
 (b) *Place of application.* With the exception of certain aliens in the United States issued nonimmigrant visas by the Department under the provisions of § 41.111(b), application for a diplomatic visa shall be made at a diplomatic mission or at a consular office authorized to issue diplomatic visas, regardless of the nationality or residence of the applicant.
 
-(c) *Classes of aliens eligible to receive diplomatic visas.* (1) A nonimmigrant alien who is in possession of a diplomatic passport or its equivalent shall, if otherwise qualified, be eligible to receive a diplomatic visa irrespective of the classification of the visa under § 41.12 if within one of the following categories:
+(c) *Classes of aliens eligible to receive diplomatic visas.* A nonimmigrant alien who presents a diplomatic passport or its equivalent shall, if otherwise qualified, be eligible to receive a diplomatic visa if:
+
+(1) The nonimmigrant alien is within one of the following categories, irrespective of the classification of the visa under § 41.12:
 
 (i) Heads of states and their alternates;
 
@@ -32,17 +38,17 @@
 
 (xi) Officers of foreign-government delegations to, and officers of, international bodies of an official nature, other than international organizations so designated by Executive Order;
 
-(xii) Officers of a diplomatic mission of a temporary character proceeding to or through the United States in the performance of their official duties;
+(xii) Officers of a foreign government proceeding to the United States on a temporary basis or through the United States in the performance of their official duties;
 
 (xiii) Officers of foreign-government delegations proceeding to or from a specific international conference of an official nature;
 
-(xiv) Members of the immediate family of a principal alien who is within one of the classes described in paragraphs (c)(1)(i) to (c)(1)(xi) inclusive, of this section;
+(xiv) Members of the immediate family of a principal alien who is within one of the classes described in paragraphs (c)(1)(i) through (xi) of this section;
 
 (xv) Members of the immediate family accompanying or following to join the principal alien who is within one of the classes described in paragraphs (c)(1)(xii) and (c)(1)(xiii) of this section;
 
-(xvi) Diplomatic couriers proceeding to or through the United States in the performance of their official duties.
+(xvi) Diplomatic couriers proceeding to or through the United States in the performance of their official duties; or
 
-(2) Aliens Classifiable G-4, who are otherwise qualified, are eligible to receive a diplomatic visa if accompanying these officers:
+(2) The alien is classifiable as a G-4 and is accompanying any of these officers:
 
 (i) The Secretary General of the United Nations;
 
@@ -56,7 +62,7 @@
 
 (vi) The Executive Director of the:
 
-(A) United Nation's Children's Fund;
+(A) United Nations Children's Fund;
 
 (B) United Nations Institute for Training and Research;
 
@@ -82,8 +88,8 @@
 
 (xii) The Commissioner General of the United Nations Relief and Works Agency for Palestine Refugees in the Near East;
 
-(xiii) The spouse or child of any nonimmigrant alien listed in paragraphs (c)(2)(i) through (c)(2)(xii) of this section.
+(xiii) Members of the immediate family accompanying or following to join any principal nonimmigrant alien listed in paragraphs (c)(2)(i) through (xii) of this section.
 
 (3) Other individual aliens or classes of aliens are eligible to receive diplomatic visas upon authorization of the Department, the Chief of a U.S. Diplomatic Mission, the Deputy Chief of Mission, the Counselor for Consular Affairs or the principal officer of a consular post not under the jurisdiction of a diplomatic mission.
 
-[52 FR 42597, Nov. 5, 1987; 53 FR 9111, Mar. 21, 1988]
+[52 FR 42597, Nov. 5, 1987; 53 FR 9111, Mar. 21, 1988, as amended at 86 FR 10456, Feb. 22, 2021]

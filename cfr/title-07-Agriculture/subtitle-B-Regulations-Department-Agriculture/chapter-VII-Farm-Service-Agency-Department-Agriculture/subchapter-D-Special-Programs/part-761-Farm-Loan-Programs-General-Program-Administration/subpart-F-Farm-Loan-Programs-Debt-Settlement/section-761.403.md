@@ -36,7 +36,7 @@
 
 (2) Debts that have been referred to Justice for a judgment, or a judgement has been obtained by the United States Attorney or Justice, unless Justice closes its file and releases the judgement back to FSA for continued servicing; or
 
-(3) The debtor's account is involved in a fiscal irregularity investigation in which final action has not been taken or the account shows evidence that a shortage may exist and an investigation will be requested; or
+(3) The debtor's account is involved in a fiscal irregularity investigation in which final action has not been taken or the account shows evidence that a shortage may exist and an investigation will be requested.
 
 (d) The Agency will consider settlement of a debt only when:
 
@@ -59,3 +59,5 @@
 (5) Interest accrual to date of payment.
 
 (f) Settlement of FLP debt referred to Treasury's cross-servicing program and returned to the Agency as uncollectible will not be processed for the borrower until all FLP debts referred to the cross-servicing program for that borrower have been returned, with or without payment agreements.
+
+[85 FR 36691, June 17, 2020, as amended at 86 FR 10441, Feb. 22, 2021]

@@ -10,7 +10,7 @@ The manufactured home manufacturer shall permanently affix the following “Cert
 
 HEATING CERTIFICATEHome ManufacturerPlant LocationHome Model(Include Uo Value Zone Map)
 
-This manufactured home has been thermally insulated to conform with the requirements of the Federal Manufactured Home Construction and Safety Standards for all locations within Uo Value Zone \_\_.
+This manufactured home has been thermally insulated to conform with the requirements of the Federal Manufactured Home Construction and Safety Standards for all locations within Uo Value Zone \_\_\_\_.
 
 Heating Equipment ManufacturerHeating Equipment Model
 

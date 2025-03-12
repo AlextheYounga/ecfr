@@ -10,7 +10,7 @@
 
 (d) The non-Federal entity's procedures must avoid acquisition of unnecessary or duplicative items. Consideration should be given to consolidating or breaking out procurements to obtain a more economical purchase. Where appropriate, an analysis will be made of lease versus purchase alternatives, and any other appropriate analysis to determine the most economical approach.
 
-(e) To foster greater economy and efficiency, and in accordance with efforts to promote cost-effective use of shared services across the Federal Government, the non-Federal entity is encouraged to enter into state and local intergovernmental agreements or inter-entity agreements where appropriate for procurement or use of common or shared goods and services. Competition requirements will be met with applied to documented procurement actions using strategic sourcing, shared services, and other similar procurement arrangements.
+(e) To foster greater economy and efficiency, and in accordance with efforts to promote cost-effective use of shared services across the Federal Government, the non-Federal entity is encouraged to enter into state and local intergovernmental agreements or inter-entity agreements where appropriate for procurement or use of common or shared goods and services. Competition requirements will be met with documented procurement actions using strategic sourcing, shared services, and other similar procurement arrangements.
 
 (f) The non-Federal entity is encouraged to use Federal excess and surplus property in lieu of purchasing new equipment and property whenever such use is feasible and reduces project costs.
 
@@ -29,3 +29,5 @@
 (2) Since this formula generates an open-ended contract price, a time-and-materials contract provides no positive profit incentive to the contractor for cost control or labor efficiency. Therefore, each contract must set a ceiling price that the contractor exceeds at its own risk. Further, the non-Federal entity awarding such a contract must assert a high degree of oversight in order to obtain reasonable assurance that the contractor is using efficient methods and effective cost controls.
 
 (k) The non-Federal entity alone must be responsible, in accordance with good administrative practice and sound business judgment, for the settlement of all contractual and administrative issues arising out of procurements. These issues include, but are not limited to, source evaluation, protests, disputes, and claims. These standards do not relieve the non-Federal entity of any contractual responsibilities under its contracts. The Federal awarding agency will not substitute its judgment for that of the non-Federal entity unless the matter is primarily a Federal concern. Violations of law will be referred to the local, state, or Federal authority having proper jurisdiction.
+
+[85 FR 49543, Aug. 13, 2020, as amended at 86 FR 10440, Feb. 22, 2021]

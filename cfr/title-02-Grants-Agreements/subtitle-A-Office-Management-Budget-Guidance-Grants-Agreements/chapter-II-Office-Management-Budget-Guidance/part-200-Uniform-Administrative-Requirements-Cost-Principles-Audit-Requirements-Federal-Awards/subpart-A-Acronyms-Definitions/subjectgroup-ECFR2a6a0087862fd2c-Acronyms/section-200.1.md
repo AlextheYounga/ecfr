@@ -180,6 +180,8 @@ These are the definitions for terms used in this part. Different definitions may
 
 *Federal award date* means the date when the Federal award is signed by the authorized official of the Federal awarding agency.
 
+*Federal awarding agency* means the Federal agency that provides a Federal award directly to a non-Federal entity.
+
 *Federal financial assistance* means
 
 (1) Assistance that non-Federal entities receive or administer in the form of:
@@ -404,7 +406,7 @@ These are the definitions for terms used in this part. Different definitions may
 
 *Office of Management and Budget (OMB)* means the Executive Office of the President, Office of Management and Budget.
 
-*Oversight agency for audit* means the Federal awarding agency that provides the predominant amount of funding directly (direct funding) (as listed on the schedule of expenditures of Federal awards, see § 200.510(b)) to a non-Federal entity unless OMB designates a specific cognizant agency for audit. When the direct funding represents less than 25 percent of the total Federal expenditures (as direct and sub-awards) by the non-Federal entity, then the Federal agency with the predominant amount of total funding is the designated cognizant agency for audit. When there is no direct funding, the Federal awarding agency which is the predominant source of pass-through funding must assume the oversight responsibilities. The duties of the oversight agency for audit and the process for any reassignments are described in § 200.513(b).
+*Oversight agency for audit* means the Federal awarding agency that provides the predominant amount of funding directly (direct funding) (as listed on the schedule of expenditures of Federal awards, see § 200.510(b)) to a non-Federal entity unless OMB designates a specific cognizant agency for audit. When the direct funding represents less than 25 percent of the total Federal expenditures (as direct and sub-awards) by the non-Federal entity, then the Federal agency with the predominant amount of total funding is the designated oversight agency for audit. When there is no direct funding, the Federal awarding agency which is the predominant source of pass-through funding must assume the oversight responsibilities. The duties of the oversight agency for audit and the process for any reassignments are described in § 200.513(b).
 
 *Participant support costs* means direct costs for items such as stipends or subsistence allowances, travel allowances, and registration fees paid to or on behalf of participants or trainees (but not employees) in connection with conferences, or training projects.
 
@@ -464,7 +466,7 @@ These are the definitions for terms used in this part. Different definitions may
 
 *Termination* means the ending of a Federal award, in whole or in part at any time prior to the planned end of period of performance. A lack of available funds is not a termination.
 
-*Third-party in-kind contributions* means the value of non-cash contributions (*i.e.,* property or services) that -
+*Third-party in-kind contributions* means the value of non-cash contributions (*i.e.,* property or services) that—
 
 (1) Benefit a federally-assisted project or program; and
 
@@ -476,4 +478,4 @@ These are the definitions for terms used in this part. Different definitions may
 
 *Voluntary committed cost sharing* means cost sharing specifically pledged on a voluntary basis in the proposal's budget on the part of the non-Federal entity and that becomes a binding requirement of Federal award. See also § 200.306.
 
-[85 FR 49529, Aug. 13, 2020]
+[85 FR 49529, Aug. 13, 2020, as amended at 86 FR 10439, Feb. 22, 2021]

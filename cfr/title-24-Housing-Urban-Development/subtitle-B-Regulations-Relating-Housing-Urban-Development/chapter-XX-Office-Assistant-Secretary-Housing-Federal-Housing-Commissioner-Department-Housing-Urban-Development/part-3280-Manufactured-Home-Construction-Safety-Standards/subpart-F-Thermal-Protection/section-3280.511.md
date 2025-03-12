@@ -6,15 +6,15 @@
 
 Air Conditioner ManufacturerAir Conditioner Model
 
-Certified Capacity \_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards
+Certified Capacity \_\_\_\_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards
 
-The central air conditioning system provided with this home has been sized, assuming an orientation of the front (hitch) end of the home facing \_\_\_ and is designed on the basis of a 75 °F indoor temperature and an outdoor temperature of \_ °F dry bulb and \_ °F wet bulb.
+The central air conditioning system provided with this home has been sized, assuming an orientation of the front (hitch) end of the home facing \_\_\_\_\_\_ and is designed on the basis of a 75 °F indoor temperature and an outdoor temperature of \_\_ °F dry bulb and \_\_ °F wet bulb.
 
 Example Alternate ICOMFORT COOLING CERTIFICATEManufactured Home MfgPlant LocationManufactured Home ModelAir Conditioner Manufacturer
 
-Certified Capacity \_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards.
+Certified Capacity \_\_\_\_\_\_ BTU/Hr. in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards.
 
-The central air conditioning system provided with this home has been sized assuming an orientation of the front (hitch end) of the home facing \_\_\_. On this basis, the system is designed to maintain an indoor temperature of 75 °F when outdoor temperatures are \_ °F dry bulb and \_ °F wet bulb.
+The central air conditioning system provided with this home has been sized assuming an orientation of the front (hitch end) of the home facing \_\_\_\_\_\_. On this basis, the system is designed to maintain an indoor temperature of 75 °F when outdoor temperatures are \_\_ °F dry bulb and \_\_ °F wet bulb.
 
 The temperature to which this home can be cooled will change depending upon the amount of exposure of the windows to the sun's radiant heat. Therefore, the home's heat gains will vary dependent upon its orientation to the sun and any permanent shading provided. Information concerning the calculation of cooling loads at various locations, window exposures and shadings are provided in chapter 22 of the 1989 edition of the ASHRAE Handbook of Fundamentals.
 
@@ -24,7 +24,7 @@ Example Alternate 2COMFORT COOLING CERTIFICATEManufactured Home ManufacturerPlan
 
 This air distribution system of this home is suitable for the installation of central air conditioning.
 
-The supply air distribution system installed in this home is sized for Manufactured Home Central Air Conditioning System of up to \_\_\_ B.T.U./Hr. rated capacity which are certified in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards. When the air circulators of such air conditioners are rated at 0.3 inch water column static pressure or greater for the cooling air delivered to the manufactured home supply air duct system.
+The supply air distribution system installed in this home is sized for Manufactured Home Central Air Conditioning System of up to \_\_\_\_\_\_ B.T.U./Hr. rated capacity which are certified in accordance with the appropriate Air Conditioning and Refrigeration Institute Standards. When the air circulators of such air conditioners are rated at 0.3 inch water column static pressure or greater for the cooling air delivered to the manufactured home supply air duct system.
 
 Information necessary to calculate cooling loads at various locations and orientations is provided in the special comfort cooling information provided with this manufactured home.
 
@@ -43,7 +43,7 @@ To determine the required capacity of equipment to cool a home efficiently and e
 Information Provided by the Manufacturer Necessary To Calculate Sensible Heat Gain
 
 | Walls (without windows and doors)  | U |
-|:-----------------------------------|--:|
+|------------------------------------|---|
 | Ceilings and roofs of light color  | U |
 |  Ceilings and roofs of dark color  | U |
 |               Floors               | U |

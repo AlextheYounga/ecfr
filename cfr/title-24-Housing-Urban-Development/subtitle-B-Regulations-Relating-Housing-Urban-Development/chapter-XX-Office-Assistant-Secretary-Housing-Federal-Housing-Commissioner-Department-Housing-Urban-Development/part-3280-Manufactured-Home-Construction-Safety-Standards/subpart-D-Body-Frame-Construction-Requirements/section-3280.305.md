@@ -1,6 +1,6 @@
 ##### § 3280.305 Structural design requirements. #####
 
-Link to an amendment published at 86 FR 2520, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2520, Jan. 12, 2021.Link to a correction published at 86 FR 10457, Feb. 22, 2021.
 
 (a) *General.* Each manufactured home shall be designed and constructed as a completely integrated structure capable of sustaining the design load requirements of this standard, and shall be capable of transmitting these loads to stabilizing devices without exceeding the allowable stresses or deflections. Roof framing shall be securely fastened to wall framing, walls to floor structure, and floor structure to chassis to secure and maintain continuity between the floor and chassis, so as to resist wind overturning, uplift, and sliding as imposed by design loads in this part. Uncompressed finished flooring greater than1/8 inch in thickness shall not extend beneath load-bearing walls that are fastened to the floor structure.
 

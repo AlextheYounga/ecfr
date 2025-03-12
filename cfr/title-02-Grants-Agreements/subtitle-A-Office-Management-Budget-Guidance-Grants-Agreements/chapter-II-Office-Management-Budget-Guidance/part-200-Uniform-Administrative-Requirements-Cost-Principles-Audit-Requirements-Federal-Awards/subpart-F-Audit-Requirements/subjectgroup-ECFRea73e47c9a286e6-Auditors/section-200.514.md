@@ -4,7 +4,7 @@
 
 (b) *Financial statements.* The auditor must determine whether the financial statements of the auditee are presented fairly in all material respects in accordance with generally accepted accounting principles. The auditor must also determine whether the schedule of expenditures of Federal awards is stated fairly in all material respects in relation to the auditee's financial statements as a whole.
 
-(c) *Internal control.* (1) The compliance supplement provides guidance on internal controls over Federal programs based upon the guidance in Standards for Internal Control in the Federal Government issued by the Comptroller General of the United States and the Internal Control - Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+(c) *Internal control.* (1) The compliance supplement provides guidance on internal controls over Federal programs based upon the guidance in Standards for Internal Control in the Federal Government issued by the Comptroller General of the United States and the Internal Control—Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
 
 (2) In addition to the requirements of GAGAS, the auditor must perform procedures to obtain an understanding of internal control over Federal programs sufficient to plan the audit to support a low assessed level of control risk of noncompliance for major programs.
 
@@ -14,7 +14,7 @@
 
 (ii) Perform testing of internal control as planned in paragraph (c)(3)(i) of this section.
 
-(4) When internal control over some or all of the compliance requirements for a major program are likely to be ineffective in preventing or detecting noncompliance, the planning and performing of testing described in paragraph (c)(3) of this section are not required for those compliance requirements. However, the auditor must report a significant deficiency or material weakness in accordance with § 200.516 Audit findings, assess the related control risk at the maximum, and consider whether additional compliance tests are required because of ineffective internal control.
+(4) When internal control over some or all of the compliance requirements for a major program are likely to be ineffective in preventing or detecting noncompliance, the planning and performing of testing described in paragraph (c)(3) of this section are not required for those compliance requirements. However, the auditor must report a significant deficiency or material weakness in accordance with § 200.516, assess the related control risk at the maximum, and consider whether additional compliance tests are required because of ineffective internal control.
 
 (d) *Compliance.* (1) In addition to the requirements of GAGAS, the auditor must determine whether the auditee has complied with Federal statutes, regulations, and the terms and conditions of Federal awards that may have a direct and material effect on each of its major programs.
 
@@ -28,4 +28,4 @@
 
 (f) *Data collection form.* As required in § 200.512(b)(3), the auditor must complete and sign specified sections of the data collection form.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014; 85 FR 49574, Aug. 13, 2020]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014; 85 FR 49574, Aug. 13, 2020; 86 FR 10440, Feb. 22, 2021]

@@ -8,4 +8,6 @@
 
 (2) The costs of central governmental services distributed through the central service cost allocation plan and not otherwise treated as direct costs.
 
-(c) The requirements for development and submission of cost allocation plans (for central service costs and public assistance programs) and indirect cost rate proposals are contained in appendices IV, V and VI to this part.
+(c) The requirements for development and submission of cost allocation plans (for central service costs and public assistance programs) and indirect cost rate proposals are contained in appendices V, VI and VII to this part.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 86 FR 10440, Feb. 22, 2021]
