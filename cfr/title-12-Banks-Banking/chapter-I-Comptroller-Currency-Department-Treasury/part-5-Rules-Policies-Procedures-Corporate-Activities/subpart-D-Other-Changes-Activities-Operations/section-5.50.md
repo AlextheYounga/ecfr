@@ -1,7 +1,5 @@
 ##### § 5.50 Change in control of a national bank or Federal savings association; reporting of stock loans. #####
 
-Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 93a, 1817(j), and 1831aa.
 
 (b) *Licensing requirements.* Any person seeking to acquire control of a national bank or Federal savings association shall provide 60 days prior written notice of a change in control to the OCC, except where otherwise provided in this section.
@@ -116,7 +114,7 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (D) Persons that have made, or propose to make, a joint filing under section 13 or 14 of the Securities Exchange Act of 1934, and the rules thereunder promulgated by the Securities and Exchange Commission;
 
-(E) A person or company will be presumed to be acting in concert with any trust for which such person or company serves as trustee, except that a tax-qualified employee stock benefit plan as defined in § 192.2(a)(39) of this chapter shall not be presumed to be acting in concert with its trustee or person acting in a similar fiduciary capacity solely for the purposes of determining whether to combine the holdings of a plan and its trustee or fiduciary; and
+(E) A person or company will be presumed to be acting in concert with any trust for which such person or company serves as trustee, except that a tax-qualified employee stock benefit plan as defined in § 192.25 of this chapter shall not be presumed to be acting in concert with its trustee or person acting in a similar fiduciary capacity solely for the purposes of determining whether to combine the holdings of a plan and its trustee or fiduciary; and
 
 (F) Persons that are parties to any agreement, contract, understanding, relationship, or other arrangement, whether written or otherwise, regarding the acquisition, voting or transfer of control of voting securities of a national bank or Federal savings association, other than through a revocable proxy in connection with a proxy solicitation for the purposes of conducting business at a regular or special meeting of the institution, if the proxy terminates within a reasonable period after the meeting.
 
@@ -222,4 +220,4 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (5) *Other reporting requirements.* A foreign bank or any affiliate thereof, supervised by the OCC and required to report credit outstanding secured by the shares of a depository institution to another Federal banking agency also shall file a copy of the report with its appropriate OCC supervisory office.
 
-[80 FR 28456, May 18, 2015]
+[80 FR 28456, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017]

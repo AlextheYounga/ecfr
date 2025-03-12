@@ -132,7 +132,9 @@ Table 7 to § 3.300
 
 (iv) Beginning January 1, 2018, a national bank or Federal savings association must calculate the 15 percent common equity tier 1 capital deduction threshold in accordance with § 3.22(d).
 
-(c) *Non-qualifying capital instruments* (1) - (3) [Reserved]
+(c) *Non-qualifying capital instruments.*
+
+(1)-(3) [Reserved]
 
 (4) *Depository institutions.* (i) Beginning on January 1, 2014, a depository institution that is an advanced approaches national bank or Federal savings association, and beginning on January 1, 2015, all other depository institutions, may include in regulatory capital debt or equity instruments issued prior to September 12, 2010 that do not meet the criteria for additional tier 1 or tier 2 capital instruments in § 3.20 but that were included in tier 1 or tier 2 capital respectively as of September 12, 2010 (non-qualifying capital instruments issued prior to September 12, 2010) up to the percentage of the outstanding principal amount of such non-qualifying capital instruments as of January 1, 2014 in accordance with Table 9 to § 3.300.
 

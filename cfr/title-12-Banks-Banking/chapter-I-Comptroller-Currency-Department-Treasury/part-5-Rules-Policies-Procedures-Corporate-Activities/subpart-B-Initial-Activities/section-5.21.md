@@ -1,7 +1,5 @@
 ##### § 5.21 Federal mutual savings association charter and bylaws. #####
 
-Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, and 2901 *et seq.*
 
 (b) *Licensing requirements.* A Federal mutual savings association must file an application, notice, or other filing as prescribed by this section when adopting or amending its charter or bylaws.
@@ -116,14 +114,14 @@ Attest:Secretary of the AssociationBy:President or Chief Executive Officer of th
 
 (3) *Form of filing* - (i) *Application requirement.* (A) Any bylaw amendment shall be submitted to the appropriate OCC licensing office for OCC approval if it would render more difficult or discourage a merger, proxy contest, the assumption of control by a mutual account holder of the association, or the removal of incumbent management; involve a significant issue of law or policy, including indemnification, conflicts of interest, and limitations on director or officer liability; or be inconsistent with the requirements of this paragraph or with applicable laws, rules, regulations, or the association's charter.
 
-(B) For purposes of paragraph (j)(2) of this section, bylaw provisions that adopt the language of the OCC's model or optional bylaws, if adopted without change, and filed with the OCC within 30 days after adoption, are effective upon adoption.
+(B) For purposes of paragraph (j)(3) of this section, bylaw provisions that adopt the language of the OCC's model or optional bylaws, if adopted without change, and filed with the OCC within 30 days after adoption, are effective upon adoption.
 
-(ii) *Filing requirement.* If the proposed bylaw amendment does not involve a provision that would be covered by paragraph (j)(2)(i)(A) of this section, then the association shall submit the amendment to the appropriate OCC licensing office at least 30 days prior to the date the bylaw amendment is to be adopted by the association.
+(ii) *Filing requirement.* If the proposed bylaw amendment does not involve a provision that would be covered by paragraph (j)(3)(i)(A) of this section, then the association shall submit the amendment to the appropriate OCC licensing office at least 30 days prior to the date the bylaw amendment is to be adopted by the association.
 
-(iii) *Corporate governance procedures.* A Federal mutual association may elect to follow the corporate governance procedures of the laws of the state where the main office of the institution is located, provided that such procedures may be elected only to the extent not inconsistent with applicable Federal statutes, regulations, and safety and soundness, and such procedures are not of the type described in paragraph (j)(2)(i)(A) of this section. If this election is selected, a Federal mutual association shall designate in its bylaws the provision or provisions from the body of law selected for its corporate governance procedures, and shall file a copy of such bylaws, which are effective upon adoption, within 30 days after adoption. The submission shall indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(2)(i)(A) of this section.
+(iii) *Corporate governance procedures.* A Federal mutual association may elect to follow the corporate governance procedures of the laws of the state where the home office of the institution is located, provided that such procedures may be elected only to the extent not inconsistent with applicable Federal statutes, regulations, and safety and soundness, and such procedures are not of the type described in paragraph (j)(3)(i)(A) of this section. If this election is selected, a Federal mutual association shall designate in its bylaws the provision or provisions from the body of law selected for its corporate governance procedures, and shall file a copy of such bylaws, which are effective upon adoption, within 30 days after adoption. The submission shall indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(3)(i)(A) of this section.
 
-(4) *Effectiveness.* Any bylaw amendment filed pursuant to paragraph (j)(2)(ii) of this section shall automatically be effective 30 days from the date of filing of such amendment, provided that the association follows the requirements of its charter and bylaws in adopting such amendment. This automatic effective date does not apply if, prior to the expiration of such 30-day period, the OCC notifies the association that such amendment is rejected or that such amendment requires an application to be filed pursuant to paragraph (j)(2)(i) of this section.
+(4) *Effectiveness.* Any bylaw amendment filed pursuant to paragraph (j)(3)(ii) of this section shall automatically be effective 30 days from the date of filing of such amendment, provided that the association follows the requirements of its charter and bylaws in adopting such amendment. This automatic effective date does not apply if, prior to the expiration of such 30-day period, the OCC notifies the association that such amendment is rejected or that such amendment requires an application to be filed pursuant to paragraph (j)(3)(i) of this section.
 
 (5) *Effect of subsequent charter or bylaw change.* Notwithstanding any subsequent change to its charter or bylaws, the authority of a Federal mutual savings association to engage in any transaction shall be determined only by the association's charter or bylaws then in effect.
 
-[80 FR 28421, May 18, 2015]
+[80 FR 28421, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]

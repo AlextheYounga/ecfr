@@ -58,7 +58,7 @@
 
 (ii) A clearing member national bank or Federal savings association must calculate a risk-weighted asset amount for any collateral provided to a CCP, clearing member, or a custodian in connection with a cleared transaction in accordance with requirements under § 3.32.
 
-(d) *Default fund contributions.* (1) *General requirement.* A clearing member national bank or Federal savings association must determine the risk-weighted asset amount for a default fund contribution to a CCP at least quarterly, or more frequently if, in the opinion of the national bank or Federal savings association or the OCC, there is a material change in the financial condition of the CCP.
+(d) *Default fund contributions* - (1) *General requirement.* A clearing member national bank or Federal savings association must determine the risk-weighted asset amount for a default fund contribution to a CCP at least quarterly, or more frequently if, in the opinion of the national bank or Federal savings association or the OCC, there is a material change in the financial condition of the CCP.
 
 (2) *Risk-weighted asset amount for default fund contributions to non-qualifying CCPs.* A clearing member national bank's or Federal savings association's risk-weighted asset amount for default fund contributions to CCPs that are not QCCPs equals the sum of such default fund contributions multiplied by 1,250 percent, or an amount determined by the OCC, based on factors such as size, structure and membership characteristics of the CCP and riskiness of its transactions, in cases where such default fund contributions may be unlimited.
 

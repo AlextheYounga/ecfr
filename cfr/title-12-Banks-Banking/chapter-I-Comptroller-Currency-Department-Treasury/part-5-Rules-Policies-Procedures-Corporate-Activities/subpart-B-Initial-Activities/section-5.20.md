@@ -1,12 +1,10 @@
 ##### § 5.20 Organizing a national bank or Federal savings association. #####
 
-Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 21, 22, 24(Seventh), 26, 27, 92a, 93a, 1814(b), 1816, 1462a, 1463, 1464, 2903, and 5412(b)(2)(B).
 
-(b) *Licensing requirements.* Any person desiring to establish a national bank or a Federal savings association shall submit an application and obtain prior OCC approval.
+(b) *Licensing requirements.* Any person desiring to establish a national bank or a Federal savings association shall submit an application and obtain prior OCC approval. An existing national bank or Federal savings association desiring to change the purpose of its charter shall submit an application and obtain prior OCC approval.
 
-(c) *Scope.* This section describes the procedures and requirements governing OCC review and approval of an application to establish a national bank or a Federal stock or mutual savings association, including a national bank or a Federal savings association with a special purpose. Information regarding an application to establish an interim national bank or an interim Federal savings association solely to facilitate a business combination is set forth in § 5.33.
+(c) *Scope.* This section describes the procedures and requirements governing OCC review and approval of an application to establish a national bank or a Federal stock or mutual savings association, including a national bank or a Federal savings association with a special purpose. Information regarding an application to establish an interim national bank or an interim Federal savings association solely to facilitate a business combination is set forth in § 5.33. This section also describes the requirements for an existing national bank or Federal savings association to change the purpose of its charter and refers such institutions to § 5.53 for the procedures to follow.
 
 (d) *Definitions.* For purposes of this section:
 
@@ -158,6 +156,8 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 
 (3) *Investments.* A national bank or Federal savings association may invest up to 10 percent of its capital and surplus in a bankers' bank and may own five percent or less of any class of a bankers' bank's voting securities.
 
-(l) *Special purpose institutions.* An applicant for a national bank or Federal savings association charter that will limit its activities to fiduciary activities, credit card operations, or another special purpose shall adhere to established charter procedures with modifications appropriate for the circumstances as determined by the OCC. An applicant for a national bank or Federal savings association charter that will have a community development focus shall also adhere to established charter procedures with modifications appropriate for the circumstances as determined by the OCC. A national bank that seeks to invest in a bank or savings association with a community development focus must comply with applicable requirements of 12 CFR part 24. A Federal savings association that seeks to invest in a bank or savings association with a community development focus must comply with § 160.36 or any other applicable requirements.
+(l) *Special purpose institutions* - (1) *In general.* An applicant for a national bank or Federal savings association charter that will limit its activities to fiduciary activities, credit card operations, or another special purpose shall adhere to established charter procedures with modifications appropriate for the circumstances as determined by the OCC. An applicant for a national bank or Federal savings association charter that will have a community development focus shall also adhere to established charter procedures with modifications appropriate for the circumstances as determined by the OCC. A national bank that seeks to invest in a bank or savings association with a community development focus must comply with applicable requirements of 12 CFR part 24. A Federal savings association that seeks to invest in a bank or savings association with a community development focus must comply with § 160.36 or any other applicable requirements.
 
-[80 FR 28418, May 18, 2015]
+(2) *Changes in charter purpose.* An existing national bank or Federal savings association whose activities are limited to a special purpose that desires to change to another special purpose, to add another special purpose, or to no longer be limited to a special purpose charter shall submit an application and obtain prior OCC approval under § 5.53. An existing national bank or Federal savings association whose activities are not limited that desires to limit its activities and become a special purpose institution shall submit an application and obtain prior OCC approval under § 5.53.
+
+[80 FR 28418, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]

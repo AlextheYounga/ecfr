@@ -1,7 +1,5 @@
 ##### § 5.53 Substantial asset change by a national bank or Federal savings association. #####
 
-Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 93a, 1818, 1462a, 1463, 1464, 1467a, and 5412(b)(2)(B).
 
 (b) *Scope.* This section requires a national bank or a Federal savings association to obtain the approval of the OCC for a substantial asset change.
@@ -12,9 +10,11 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (ii) After having sold or disposed of all, or substantially all, of its assets, subsequent purchases or other acquisitions or other expansions of the national bank's or Federal savings association's operations;
 
-(iii) Any other purchases, acquisitions or other expansions of operations that are part of a plan to increase the size of the national bank or Federal savings association by more than 25 percent in a one year period; or
+(iii) Any other purchases, acquisitions or other expansions of operations that are part of a plan to increase the size of the national bank or Federal savings association by more than 25 percent in a one year period;
 
-(iv) Any other material increase or decrease in the size of the national bank or Federal savings association or a material alteration in the composition of the types of assets or liabilities of the national bank or Federal savings association (including the entry or exit of business lines), on a case-by-case basis, as determined by the OCC.
+(iv) Any other material increase or decrease in the size of the national bank or Federal savings association or a material alteration in the composition of the types of assets or liabilities of the national bank or Federal savings association (including the entry or exit of business lines), on a case-by-case basis, as determined by the OCC; or
+
+(v) Any change in the purpose of the charter of the national bank or Federal savings association as described in § 5.20(l)(2).
 
 (2) *Exceptions.* The term “substantial asset change” does not include, and this section does not apply, to a change in composition of all, or substantially all, of a bank's or savings association's assets:
 
@@ -44,8 +44,8 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (B) The OCC may deny the application if the transaction would have a negative effect in any of these respects.
 
-(ii) *Additional factors.* The OCC's review of any substantial asset change that involves the purchase or other acquisition or other expansions of the bank's or savings association's operations will include, in addition to the foregoing factors, the factors governing the organization of a bank or savings association under § 5.20.
+(ii) *Additional factors.* The OCC's review of any substantial asset change that involves the purchase or other acquisition or other expansions of the bank's or savings association's operations or that involves a change in the purpose of the bank's or association's charter, as described in § 5.20(l)(2), will include, in addition to the foregoing factors, the factors governing the organization of a bank or savings association under § 5.20.
 
 (e) *Exceptions to rules of general applicability.* Sections 5.8, 5.10, and 5.11 do not apply with respect to applications filed pursuant to this section. However, if the OCC concludes that an application presents significant or novel policy, supervisory, or legal issues, the OCC may determine that some or all of the provisions of §§ 5.8, 5.10, and 5.11 apply.
 
-[80 FR 28462, May 18, 2015]
+[80 FR 28462, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017]

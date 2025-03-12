@@ -1,7 +1,5 @@
 ##### § 5.22 Federal stock savings association charter and bylaws. #####
 
-Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, and 2901 *et seq.*
 
 (b) *Licensing requirements.* A Federal stock savings association must file an application, notice, or other filing as prescribed by this section when adopting or amending its charter or bylaws.
@@ -140,7 +138,7 @@ C. *Call for Special Meetings.* Special meetings of stockholders relating to cha
 
 (ii) *Filing requirement.* If the proposed bylaw amendment does not involve a provision that would be covered by paragraph (j)(2)(i) or (iii) of this section and is permissible under all applicable laws, rules, or regulations, then the association shall submit the amendment to the OCC at least 30 days prior to the date the bylaw amendment is to be adopted by the association.
 
-(iii) *Corporate governance procedures.* A Federal stock association may elect to follow the corporate governance procedures of: The laws of the state where the main office of the association is located; the laws of the state where the association's holding company, if any, is incorporated or chartered; Delaware General Corporation law; or The Model Business Corporation Act, provided that such procedures may be elected to the extent not inconsistent with applicable Federal statutes and regulations and safety and soundness, and such procedures are not of the type described in paragraph (j)(2)(i) of this section. If this election is selected, a Federal stock association shall designate in its bylaws the provision or provisions from the body or bodies of law selected for its corporate governance procedures, and shall file a copy of such bylaws, which are effective upon adoption, within 30 days after adoption. The submission shall indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(2)(i) of this section.
+(iii) *Corporate governance procedures.* A Federal stock association may elect to follow the corporate governance procedures of: The laws of the state where the home office of the association is located; the laws of the state where the association's holding company, if any, is incorporated or chartered; Delaware General Corporation law; or The Model Business Corporation Act, provided that such procedures may be elected to the extent not inconsistent with applicable Federal statutes and regulations and safety and soundness, and such procedures are not of the type described in paragraph (j)(2)(i) of this section. If this election is selected, a Federal stock association shall designate in its bylaws the provision or provisions from the body or bodies of law selected for its corporate governance procedures, and shall file a copy of such bylaws, which are effective upon adoption, within 30 days after adoption. The submission shall indicate, where not obvious, why the bylaw provisions meet the requirements stated in paragraph (j)(2)(i) of this section.
 
 (3) *Effectiveness.* Any bylaw amendment filed pursuant to paragraph (j)(2)(ii) of this section shall automatically be effective 30 days from the date of filing of such amendment, provided that the association follows the requirements of its charter and bylaws in adopting such amendment, unless prior to the expiration of such 30-day period the OCC notifies the association that such amendment is rejected or that such amendment requires an application to be filed pursuant to paragraph (j)(2)(i) of this section.
 
@@ -202,4 +200,4 @@ C. *Call for Special Meetings.* Special meetings of stockholders relating to cha
 
 (2) *Transfer of shares.* Transfer of shares of capital stock of the association shall be made only on its stock transfer books. Authority for such transfer shall be given only by the holder of record or by a legal representative, who shall furnish proper evidence of such authority, or by an attorney authorized by a duly executed power of attorney and filed with the association. The transfer shall be made only on surrender for cancellation of the certificate for the shares. The person in whose name shares of capital stock stand on the books of the association shall be deemed by the association to be the owner for all purposes.
 
-[80 FR 28425, May 18, 2015]
+[80 FR 28425, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]

@@ -1,7 +1,5 @@
 ##### § 12.4 Content and time of notification. #####
 
-Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
-
 Unless a national bank elects to provide notification by one of the means specified in § 12.5, a national bank effecting a securities transaction for a customer shall give or send to the customer either of the following types of notifications at or before completion of the transaction or, if the bank uses a registered broker/dealer's confirmation, within one business day from the bank's receipt of the registered broker/dealer's confirmation:
 
 (a) *Written notification.* A written notification disclosing:
@@ -54,4 +52,6 @@ Unless a national bank elects to provide notification by one of the means specif
 
 (12) In the case of a transaction in a debt security, other than a government security, that the security is unrated by a nationally recognized statistical rating organization, if that is the case; or
 
-(b) *Copy of the registered broker/dealer's confirmation.* A copy of the confirmation of a registered broker/dealer relating to the securities transaction and, if the customer or any other source will provide remuneration to the bank in connection with the transaction and a written agreement between the bank and the customer does not determine the remuneration, a statement of the source and amount of any remuneration that the customer or any other source is to provide the bank.
+(b) *Copy of the registered broker/dealer's confirmation.* A copy of the confirmation of a registered broker/dealer relating to the securities transaction, which the bank may direct the registered broker/dealer to send directly to the customer; and, if the customer or any other source will provide remuneration to the bank in connection with the transaction and a written agreement between the bank and the customer does not determine the remuneration, a statement of the source and amount of any remuneration that the customer or any other source is to provide the bank.
+
+[61 FR 63965, Dec. 2, 1996, as amended at 82 FR 8106, Jan. 23, 2017]

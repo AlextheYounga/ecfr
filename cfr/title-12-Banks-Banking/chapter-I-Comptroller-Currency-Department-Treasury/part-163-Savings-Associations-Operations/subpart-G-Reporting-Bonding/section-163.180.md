@@ -1,8 +1,6 @@
 ##### § 163.180 Suspicious Activity Reports and other reports and statements. #####
 
-Link to an amendment published at 82 FR 8111, Jan. 23, 2017.
-
-(a) *Periodic reports.* Each savings association and service corporation thereof shall make such periodic or other reports of its affairs in such manner and on such forms as the appropriate Federal banking agency may prescribe. The appropriate Federal banking agency may provide that reports filed by savings associations or service corporations to meet the requirements of other regulations also satisfy requirements imposed under this section.
+(a) [Reserved]
 
 (b) *False or misleading statements or omissions.* No savings association or director, officer, agent, employee, affiliated person, or other person participating in the conduct of the affairs of such association nor any person filing or seeking approval of any application shall knowingly:
 
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 8111, Jan. 23, 2017.
 
 (2) Make any such statement or omission to a person or organization auditing a savings association or otherwise preparing or reviewing its financial statements concerning the accounts, assets, management condition, ownership, safety, or soundness, or other affairs of the association.
 
-(c) *Notifications of loss and reports of increase in deductible amount of bond.* A savings association maintaining bond coverage as required by § 163.190 of this part shall promptly notify its bond company and file a proof of loss under the procedures provided by its bond, concerning any covered losses greater than twice the deductible amount.
+(c) [Reserved]
 
 (d) *Suspicious Activity Reports* - (1) *Purpose and scope.* This paragraph (d) ensures that savings associations and service corporations file a Suspicious Activity Report when they detect a known or suspected violation of Federal law or a suspicious transaction related to a money laundering activity or a violation of the Bank Secrecy Act.
 
@@ -90,4 +88,4 @@ Link to an amendment published at 82 FR 8111, Jan. 23, 2017.
 
 (3) *Applicable indices.* For the purpose of this reporting requirement, the term “adjustable-rate mortgage index” means any of the adjustable-rate mortgage indices calculated and published by a Federal Home Loan Bank or the Federal Home Loan Bank Board on or before August 9, 1989.
 
-Editorial Note:At 76 FR 49047, Aug. 9, 2011, § 163.180 was added; however, there are two paragraphs (d)(12)(i)(A).
+[76 FR 49047, Aug. 9, 2011, as amended at 82 FR 8111, Jan. 23, 2017]Editorial Note:At 76 FR 49047, Aug. 9, 2011, § 163.180 was added; however, there are two paragraphs (d)(12)(i)(A).

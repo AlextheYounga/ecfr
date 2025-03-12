@@ -1,10 +1,8 @@
 ##### § 5.8 Public notice. #####
 
-Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
-
 (a) *In general.* An applicant shall publish a public notice of its filing in a newspaper of general circulation in the community in which the applicant proposes to engage in business, on the date of filing, or as soon as practicable before or after the date of filing. This notice shall be published in the English language but if the OCC determines that the primary language of a significant number of adult residents of the community is a language other than English, the OCC may require that an additional notice(s) simultaneously be published in the community in the appropriate language(s).
 
-(b) *Contents of the public notice.* The public notice shall state that a filing is being made, the date of the filing, the name and address of the applicant, the subject matter of the filing (including the name of the institution that is the subject of the filing), that the public may submit comments to the appropriate OCC licensing office, the address of the appropriate OCC licensing office where comments should be sent, the closing date of the public comment period, that the public portion of the filing is available on request, and any other information that the OCC requires.
+(b) *Contents of the public notice.* The public notice shall state that a filing is being made, the date of the filing, the name and address of the applicant, the subject matter of the filing (including the name of the institution that is the subject of the filing), that the public may submit comments to the appropriate OCC licensing office, the address of the appropriate OCC licensing office where comments should be sent, the closing date of the public comment period (if known at the time of publication of the notice), that the public portion of the filing is available on request, that the public may find information about the filing (including the closing date of the comment period) in the OCC's Weekly Bulletin available at *www.occ.gov*, and any other information that the OCC requires.
 
 (c) *Confirmation of public notice.* Promptly following publication, the applicant shall mail or otherwise deliver to the appropriate OCC licensing office a statement containing the date of publication, the name and address of the newspaper that published the public notice, a copy of the public notice, and any other information that the OCC requires.
 
@@ -21,3 +19,5 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 (2) A major issue of law or change in circumstance arises after a filing; or
 
 (3) The OCC determines that a new public notice is appropriate.
+
+[80 FR 28414, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]

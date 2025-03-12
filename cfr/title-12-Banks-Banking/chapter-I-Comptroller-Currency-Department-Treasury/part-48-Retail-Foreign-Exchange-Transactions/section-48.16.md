@@ -18,7 +18,7 @@ By signing this agreement, you: (1) May be waving your right to sue in a court o
 
 You need not sign this agreement to open or maintain a retail forex account with [name of entity].
 
-(b) *Election of forum.* - (1) Within 10 business days after receipt of notice from the retail forex customer that the customer intends to submit a claim to arbitration, the national bank must provide the customer with a list of persons qualified in dispute resolution.
+(b) *Election of forum.* (1) Within 10 business days after receipt of notice from the retail forex customer that the customer intends to submit a claim to arbitration, the national bank must provide the customer with a list of persons qualified in dispute resolution.
 
 (2) The customer must, within 45 days after receipt of such list, notify the national bank of the person selected. The customer's failure to provide such notice must give the national bank the right to select a person from the list.
 

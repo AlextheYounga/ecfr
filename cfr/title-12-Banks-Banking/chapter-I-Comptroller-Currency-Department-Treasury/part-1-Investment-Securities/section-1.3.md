@@ -14,7 +14,7 @@
 
 (g) *Securitization.* A national bank may securitize and sell assets that it holds, as a part of its banking business. The amount of securitized loans and obligations that a bank may sell is not limited to a specified percentage of the bank's capital and surplus.
 
-(h) *Pooled investments* - (1) *General.* A national bank may purchase and sell for its own account investment company shares provided that:
+(h) *Pooled investments*—(1) *General.* A national bank may purchase and sell for its own account investment company shares provided that:
 
 (i) The portfolio of the investment company consists exclusively of assets that the national bank may purchase and sell for its own account; and
 
@@ -28,7 +28,7 @@
 
 (ii) Satisfy the requirements of § 1.3(i).
 
-(i) *Securities held based on estimates of obligor's performance.* (1) Notwithstanding §§ 1.2(d) and (e), a national bank may treat a debt security as an investment security for purposes of this part if the security is marketable and the bank concludes, on the basis of estimates that the bank reasonably believes are reliable, that the obligor will be able to satisfy its obligations under that security.
+(i) *Securities held based on estimates of obligor's performance.* (1) Notwithstanding § 1.2(d) and (e), a national bank may treat a debt security as an investment security for purposes of this part if the security is marketable and the bank concludes, on the basis of estimates that the bank reasonably believes are reliable, that the obligor will be able to satisfy its obligations under that security.
 
 (2) The aggregate par value of securities treated as investment securities under paragraph (i)(1) of this section may not exceed 5 percent of the bank's capital and surplus.
 

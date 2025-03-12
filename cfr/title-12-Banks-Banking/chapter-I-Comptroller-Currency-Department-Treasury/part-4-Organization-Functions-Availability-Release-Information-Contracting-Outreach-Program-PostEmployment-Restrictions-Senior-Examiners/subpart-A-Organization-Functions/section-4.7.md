@@ -18,7 +18,7 @@
 
 (v) Has not experienced a change in control during the preceding 12-month period in which a full-scope, on-site examination would have been required but for this section.
 
-(2) Discretionary standards. In determining whether a Federal branch or agency that meets the standards of paragraph (b)(1) of this section should not be eligible for an 18-month examination cycle pursuant to this paragraph (b), the OCC may consider additional factors, including whether:
+(2) *Discretionary standards.* In determining whether a Federal branch or agency that meets the standards of paragraph (b)(1) of this section should not be eligible for an 18-month examination cycle pursuant to this paragraph (b), the OCC may consider additional factors, including whether:
 
 (i) Any of the individual components of the ROCA rating of the Federal branch or agency is rated “3” or worse;
 

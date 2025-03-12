@@ -1,17 +1,19 @@
 ##### § 16.17 Filing requirements and inspection of documents. #####
 
-Link to an amendment published at 82 FR 8108, Jan. 23, 2017.
+(a) Except as otherwise provided in this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the OCC's Securities and Corporate Practices Division electronically at *http://www.banknet.gov/.* Documents may be signed electronically using the signature provision in SEC Rule 402 (17 CFR 230.402).
 
-(a) Except as provided in paragraph (b) of this section, all registration statements, offering documents, amendments, notices, or other documents must be filed with the Securities, Investments, and Fiduciary Practices Division, Office of the Comptroller of the Currency, 400 7th Street SW., Washington, DC 20219.
+(b) All registration statements, offering documents, amendments, notices, or other documents relating to a national bank or Federal savings association in organization must be filed with the appropriate district office of the OCC at *http://www.banknet.gov/.*
 
-(b) All registration statements, offering documents, amendments, notices, or other documents relating to a bank in organization must be filed with the appropriate District office of the OCC.
+(c) Where this part refers to a section of the Securities Act or the Exchange Act or an SEC rule that requires the filing of a notice or other document with the SEC, that notice or other document must be filed with the OCC.
 
-(c) Where this part refers to a section of the Securities Act or the Exchange Act or a Commission rule that requires the filing of a notice or other document with the Commission, that notice or other document must be filed with the OCC.
+(d) Provided the person filing the document has complied with all requirements regarding the filing, including the submission of any fee required under § 16.33, the date of filing of the document is the date the OCC receives the filing. An electronic filing that is submitted on a business day by direct transmission commencing on or before 5:30 p.m. Eastern Standard or Daylight Savings Time, whichever is currently in effect, would be deemed received by the OCC on the same business day. An electronic filing that is submitted by direct transmission commencing after 5:30 p.m. Eastern Standard or Daylight Savings Time, whichever is currently in effect, or on a Saturday, Sunday, or Federal holiday, would be deemed received by the OCC on the next business day. If an electronic filer in good faith attempts to file a document with the OCC in a timely manner but the filing is delayed due to technical difficulties beyond the electronic filer's control, the electronic filer may request that the OCC adjust the filing date of such document. The OCC may grant the request if it appears that such adjustment is appropriate and consistent with the public interest and the protection of investors.
 
-(d) Unless otherwise requested by the OCC, any filing under this part must include four copies of any document filed. Material may be filed by delivery to the OCC through use of the mails or otherwise. The date on which documents are actually received by the OCC will be the date of filing of those documents, if the person filing the documents has complied with all requirements regarding the filing, including the submission of any fee required under § 16.33 of this part.
+(e) Notwithstanding paragraph (d) of this section, any registration statement or any post-effective amendment thereto filed pursuant to SEC Rule 462(b) (17 CFR 230.462(b)) shall be deemed received by the OCC on the same business day if its submission commenced on or before 10 p.m. Eastern Standard Time or Eastern Daylight Savings Time, whichever is currently in effect, and on the next business day if its submission commenced after 10 p.m. Eastern Standard or Daylight Savings Time, whichever is currently in effect, or any time on a Saturday, Sunday, or Federal holiday.
 
-(e) Any filing of amendments or revisions must include at least four copies, two of which are marked to indicate clearly and precisely, by underlining or in some other appropriate manner, the changes made.
+(f) If a national bank or Federal savings association experiences unanticipated technical difficulties preventing the timely preparation and submission of an electronic filing, the bank or savings association may, upon notice to the OCC's Securities and Corporate Practices Division or district office, as appropriate, file the subject filing in paper format no later than one business day after the date on which the filing was to be made. Paper filings should be submitted to the OCC's Securities and Corporate Practices Division or appropriate district office, at the address provided at *www.occ.gov.*
 
-(f) The OCC will make available for public inspection copies of the registration statements, offering documents, amendments, exhibits, notices or reports filed pursuant to this part at the address identified in § 4.17(b) of this chapter.
+(g) Any filing of amendments or revisions must include two copies, one of which must be marked to indicate clearly and precisely, by underlining or in some other appropriate manner, the changes made.
 
-[59 FR 54798, Nov. 2, 1994, as amended at 79 FR 15641, Mar. 21, 2014]
+(h) The OCC will make available for public inspection copies of the registration statements, offering documents, amendments, exhibits, notices or reports filed pursuant to this part at the address identified in § 4.14 of this chapter.
+
+[82 FR 8108, Jan. 23, 2017]

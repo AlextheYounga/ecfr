@@ -1,7 +1,5 @@
 ##### § 9.18 Collective investment funds. #####
 
-Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
-
 (a) *In general.* Where consistent with applicable law, a national bank may invest assets that it holds as fiduciary in the following collective investment funds:1
 
 1 In determining whether investing fiduciary assets in a collective investment fund is proper, the bank may consider the fund as a whole and, for example, shall not be prohibited from making that investment because any particular asset is nonincome producing.
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
 
 (b) *Requirements.* A national bank administering a collective investment fund authorized under paragraph (a) of this section shall comply with the following requirements:
 
-(1) *Written plan.* The bank shall establish and maintain each collective investment fund in accordance with a written plan (Plan) approved by a resolution of the bank's board of directors or by a committee authorized by the board. The bank shall make a copy of the Plan available for public inspection at its main office during all banking hours, and shall provide a copy of the Plan to any person who requests it. The Plan must contain appropriate provisions, not inconsistent with this part, regarding the manner in which the bank will operate the fund, including provisions relating to:
+(1) *Written plan.* The bank shall establish and maintain each collective investment fund in accordance with a written plan (Plan) approved by a resolution of the bank's board of directors or by a committee authorized by the board. The bank shall make a copy of the Plan available either for public inspection at its main office during all banking hours or on its Web site and shall provide a written or electronic copy of the Plan to any person who requests it. The Plan must contain appropriate provisions, not inconsistent with this part, regarding the manner in which the bank will operate the fund, including provisions relating to:
 
 (i) Investment powers and policies with respect to the fund;
 
@@ -182,7 +180,7 @@ Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
 
 (ii) A variable amount note of a borrower of prime credit, if the bank uses the note solely for investment of funds held in its fiduciary accounts.
 
-(2) *Mini-funds.* In a fund maintained by the bank for the collective investment of cash balances received or held by a bank in its capacity as trustee, executor, administrator, guardian, or custodian under a uniform gifts to minors act, that the bank considers too small to be invested separately to advantage. The total assets in the fund must not exceed $1,000,000 and the number of participating accounts must not exceed 100.
+(2) *Mini-funds.* In a fund maintained by the bank for the collective investment of cash balances received or held by a bank in its capacity as trustee, executor, administrator, guardian, or custodian under a uniform gifts to minors act, that the bank considers too small to be invested separately to advantage. The total assets in the fund must not exceed $1,500,000 and the number of participating accounts must not exceed 100. The OCC shall adjust this $1,500,000 threshold amount on January 1 of every year by the percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) that was in effect on the preceding June 1, rounded to the nearest $100 increment, and make this adjusted amount available to the public.
 
 (3) *Trust funds of corporations and closely-related settlors.* In any investment specifically authorized by the instrument creating the fiduciary account or a court order, in the case of trusts created by a corporation, including its affiliates and subsidiaries, or by several individual settlors who are closely related.
 
@@ -200,4 +198,4 @@ Link to an amendment published at 82 FR 8105, Jan. 23, 2017.
 
 (iv) The manner in which the proposed fund addresses the rights and interests of participating accounts.
 
-[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012]
+[61 FR 68554, Dec. 30, 1996, as amended at 68 FR 70131, Dec. 17, 2003; 77 FR 61237, Oct. 9, 2012; 82 FR 8105, Jan. 23, 2017]

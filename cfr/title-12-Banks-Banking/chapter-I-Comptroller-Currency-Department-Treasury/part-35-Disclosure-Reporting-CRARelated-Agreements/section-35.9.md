@@ -1,12 +1,12 @@
 ##### § 35.9 Compliance provisions. #####
 
-(a) *Willful failure to comply with disclosure and reporting obligations.* (1) If the OCC determines that a NGEP has willfully failed to comply in a material way with §§ 35.6 or 35.7, the OCC will notify the NGEP in writing of that determination and provide the NGEP a period of 90 days (or such longer period as the OCC finds to be reasonable under the circumstances) to comply.
+(a) *Willful failure to comply with disclosure and reporting obligations.* (1) If the OCC determines that a NGEP has willfully failed to comply in a material way with § 35.6 or § 35.7, the OCC will notify the NGEP in writing of that determination and provide the NGEP a period of 90 days (or such longer period as the OCC finds to be reasonable under the circumstances) to comply.
 
 (2) If the NGEP does not comply within the time period established by the OCC, the agreement shall thereafter be unenforceable by that NGEP by operation of section 48 of the Federal Deposit Insurance Act (12 U.S.C. 1831y).
 
 (3) The OCC may assist any insured depository institution or affiliate that is a party to a covered agreement that is unenforceable by a NGEP by operation of section 48 of the Federal Deposit Insurance Act (12 U.S.C. 1831y) in identifying a successor to assume the NGEP's responsibilities under the agreement.
 
-(b) *Diversion of funds.* If a court or other body of competent jurisdiction determines that funds or resources received under a covered agreement have been diverted contrary to the purposes of the covered agreement for an individual's personal financial gain, the OCC may take either or both of the following actions -
+(b) *Diversion of funds.* If a court or other body of competent jurisdiction determines that funds or resources received under a covered agreement have been diverted contrary to the purposes of the covered agreement for an individual's personal financial gain, the OCC may take either or both of the following actions—
 
 (1) Order the individual to disgorge the diverted funds or resources received under the agreement;
 

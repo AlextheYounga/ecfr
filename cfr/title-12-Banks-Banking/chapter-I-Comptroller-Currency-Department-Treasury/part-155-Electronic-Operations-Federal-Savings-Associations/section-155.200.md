@@ -1,0 +1,5 @@
+##### § 155.200 Use of electronic means and facilities. #####
+
+(a) *General.* A Federal savings association may use, or participate with others to use, electronic means or facilities to perform any function, or provide any product or service, as part of an authorized activity. Electronic means or facilities include, but are not limited to, automated teller machines, automated loan machines, personal computers, the internet, telephones, and other similar electronic devices.
+
+(b) *Other.* To optimize the use of resources, a Federal savings association may market and sell, or participate with others to market and sell, electronic capacities and by-products to third-parties, if the savings association acquired or developed these capacities and by-products in good faith as part of providing financial services.

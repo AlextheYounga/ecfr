@@ -1,7 +1,5 @@
 ##### § 12.2 Definitions. #####
 
-Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
-
 (a) *Asset-backed security* means a security that is primarily serviced by the cashflows of a discrete pool of receivables or other financial assets, either fixed or revolving, that by their terms convert into cash within a finite time period plus any rights or other assets designed to assure the servicing or timely distribution of proceeds to the security holders.
 
 (b) *Collective investment fund* means any fund established pursuant to 12 CFR 9.18.
@@ -28,7 +26,7 @@ Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
 
 (2) A security that is issued or guaranteed by a corporation in which the United States has a direct or indirect interest and which is designated by the Secretary of the Treasury for exemption as necessary or appropriate in the public interest or for the protection of investors;
 
-(3) A security issued or guaranteed as to principal and interest by any corporation whose securities are designated, by statute specifically naming the corporation, to constitute exempt securities within the meaning of the laws administered by the Securities and Exchange Commission; or
+(3) A security issued or guaranteed as to principal and interest by any corporation whose securities are designated, by statute specifically naming the corporation, to constitute exempt securities within the meaning of the laws administered by the SEC; or
 
 (4) Any put, call, straddle, option, or privilege on a security described in paragraph (g)(1), (2), or (3) of this section, other than a put, call, straddle, option, or privilege:
 
@@ -48,7 +46,7 @@ Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
 
 (2) A security that is a direct obligation of, or an obligation guaranteed as to principal or interest by, any municipal corporate instrumentality of one or more States; or
 
-(3) A security that is an industrial development bond (as defined in section 103(c)(2) of the Internal Revenue Code of 1954 (26 U.S.C. 103(c)(2) (1970)) (Code)) the interest on which is excludable from gross income under section 103(a)(1) of the Code (26 U.S.C. 103(a)(1)) if, by reason of the application of paragraph (4) or (6) of section 103(c) of the Code (26 U.S.C. 103(c)) (determined as if paragraphs (4)(A), (5), and (7) were not included in section 103(c) (26 U.S.C. 103(c)), paragraph (1) of section 103(c) (26 U.S.C. 103(c)) does not apply to the security.
+(3) A security that is an industrial development bond.
 
 (j) *Periodic plan* means:
 
@@ -59,3 +57,5 @@ Link to an amendment published at 82 FR 8106, Jan. 23, 2017.
 (k) *Security:* (1) Means any note, stock, treasury stock, bond, debenture, certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or other mineral royalty or lease, any collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, and any put, call, straddle, option, or privilege on any security or group or index of securities (including any interest therein or based on the value thereof), or, in general, any instrument commonly known as a “security”; or any certificate of interest or participation in, temporary or interim certificate for, receipt for, or warrant or right to subscribe to or purchase, any of the foregoing;
 
 (2) Does not mean currency; any note, draft, bill of exchange, or banker's acceptance which has a maturity at the time of issuance not exceeding nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited; a deposit or share account in a Federal or State chartered depository institution; a loan participation; a letter of credit or other form of bank indebtedness incurred in the ordinary course of business; units of a collective investment fund; interests in a variable amount note in accordance with 12 CFR 9.18; U.S. Savings Bonds; or any other instrument the OCC determines does not constitute a security for purposes of this part.
+
+[61 FR 63965, Dec. 2, 1996, as amended at 82 FR 8106, Jan. 23, 2017]

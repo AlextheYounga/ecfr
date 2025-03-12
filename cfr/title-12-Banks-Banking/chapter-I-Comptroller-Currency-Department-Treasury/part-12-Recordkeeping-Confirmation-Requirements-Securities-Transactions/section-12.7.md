@@ -1,7 +1,5 @@
 ##### § 12.7 Securities trading policies and procedures. #####
 
-Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
-
 (a) *Policies and procedures; reports of securities trading.* A national bank effecting securities transactions for customers shall maintain and adhere to policies and procedures that:
 
 (1) Assign responsibility for supervision of all officers or employees who:
@@ -44,6 +42,6 @@ Link to an amendment published at 82 FR 8107, Jan. 23, 2017.
 
 (4) The transactions involve an aggregate amount of purchases and sales per officer or employee of $10,000 or less during the calendar quarter.
 
-(d) *Additional reporting requirement.* A national bank that acts as an investment adviser to an investment company is subject to the requirements of Securities and Exchange Commission (SEC) Rule 17j-1 (17 CFR 270.17j-1) issued under the Investment Company Act of 1940. SEC Rule 17j-1 requires an “access person” of the investment adviser to report certain personal securities transactions to the investment adviser for review by the Securities and Exchange Commission. “Access person” includes directors, officers, and certain employees of the investment adviser. The reporting requirement under paragraph (a)(4) of this section is a separate requirement from any applicable requirements under SEC Rule 17j-1. However, an “access person” required to file a report with a national bank pursuant to SEC Rule 17j-1 need not file a separate report under paragraph (a)(4) of this section if the required information is the same.
+(d) *Additional reporting requirement.* A national bank that acts as an investment adviser to an investment company is subject to the requirements of SEC Rule 17j-1 (17 CFR 270.17j-1) issued under the Investment Company Act of 1940. SEC Rule 17j-1 requires an “access person” of the investment adviser to report certain personal securities transactions to the investment adviser for review by the Securities and Exchange Commission. “Access person” includes directors, officers, and certain employees of the investment adviser. The reporting requirement under paragraph (a)(4) of this section is a separate requirement from any applicable requirements under SEC Rule 17j-1. However, an “access person” required to file a report with a national bank pursuant to SEC Rule 17j-1 need not file a separate report under paragraph (a)(4) of this section if the required information is the same.
 
-[61 FR 63965, Dec. 2, 1996, as amended at 73 FR 22243, Apr. 24, 2008]
+[61 FR 63965, Dec. 2, 1996, as amended at 73 FR 22243, Apr. 24, 2008; 82 FR 8107, Jan. 23, 2017]

@@ -1,0 +1,3 @@
+##### § 370.1 Purpose and scope. #####
+
+Unless otherwise provided in this part, each “covered institution” (defined in § 370.2(a)) is required to implement the information technology system and recordkeeping capabilities needed to calculate the amount of deposit insurance coverage available for each deposit account in the event of its failure. Doing so will improve the FDIC's ability to fulfill its statutory mandates to pay deposit insurance as soon as possible after a covered institution's failure and to resolve a covered institution at the least cost to the Deposit Insurance Fund.

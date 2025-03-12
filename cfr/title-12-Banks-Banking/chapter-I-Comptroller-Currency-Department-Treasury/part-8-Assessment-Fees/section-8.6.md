@@ -1,7 +1,5 @@
 ##### § 8.6 Fees for special examinations and investigations. #####
 
-Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
-
 (a) *Fees.* Pursuant to the authority contained in 12 U.S.C. 16, 481, 482, 1467, and 1831c, the Office of the Comptroller of the Currency may assess a fee for:
 
 (1) Examining the fiduciary activities of national banks and Federal savings associations and related entities;
@@ -36,7 +34,7 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (iii) *Full-service national bank* is a national bank that generates more than 50% of its interest and non-interest income from activities other than credit card operations or trust activities and is authorized according to its charter to engage in all types of permissible banking activities.
 
-(iv) *Full-service trust Federal savings association* is a Federal savings association that generates more than 50% of its interest and non-interest income from activities other than credit card operations or trust activities and is authorized according to its charter to engage in all types of activities permissible for Federal savings associations.
+(iv) *Full-service Federal savings association* is a Federal savings association that generates more than 50% of its interest and non-interest income from activities other than credit card operations or trust activities and is authorized according to its charter to engage in all types of activities permissible for Federal savings associations.
 
 (v) *Independent trust bank* is a national bank that has trust powers, does not primarily offer full-service banking, and is not affiliated with a full-service national bank;
 
@@ -44,4 +42,4 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (vii) *Fiduciary and related assets* are those assets reported on Schedule RC-T of FFIEC Forms 031 and 041, Line 10 (columns A and B) and Line 11 (column B), any successor form issued by the FFIEC, and any other fiduciary and related assets defined in the “Notice of Comptroller of the Currency Fees.”
 
-[76 FR 43568, July 21, 2011, as amended at 76 FR 43568, July 7, 2011]
+[76 FR 43568, July 21, 2011, as amended at 76 FR 43568, July 7, 2011; 82 FR 8104, Jan. 23, 2017]

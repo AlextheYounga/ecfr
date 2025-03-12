@@ -1,7 +1,5 @@
 ##### § 5.46 Changes in permanent capital of a national bank. #####
 
-Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 21a, 51a, 51b, 51b-1, 52, 56, 57, 59, 60, and 93a.
 
 (b) *Licensing requirements.* A national bank shall submit an application and obtain OCC approval to decrease its permanent capital. Generally, a national bank need only submit a notice to increase its permanent capital, although, in certain circumstances, a national bank shall be required to submit an application and obtain OCC approval.
@@ -80,8 +78,12 @@ Link to an amendment published at 82 FR 8104, Jan. 23, 2017.
 
 (5) *Expiration of approval.* Approval expires if a national bank has not completed its change in permanent capital within one year of the date of approval.
 
+(6) *Exception for accounting adjustments.* (i) Changes to the permanent capital accounts that result solely from application of U.S. generally accepted accounting principles are not subject to the prior approval or notice requirements in paragraph (i)(1), (3), or (4) of this section, as applicable.
+
+(ii) Within 30 days after the end of the quarter in which the adjustment occurred, a bank must notify the OCC if the accounting adjustment resulted in an increase or decrease to permanent capital in an amount greater than 5% of the bank's total permanent capital prior to the adjustments; or, if the bank is subject to a letter, order, directive, written agreement, or otherwise related to changes in permanent capital. The notification must include the amount and description of the adjustment, including the applicable provision of U.S. GAAP.
+
 (j) *Offers and sales of stock.* A national bank shall comply with the Securities Offering Disclosure Rules in 12 CFR part 16 for offers and sales of common and preferred stock.
 
 (k) *Shareholder approval.* A national bank shall obtain the necessary shareholder approval required by statute for any change in its permanent capital.
 
-[80 FR 28454, May 18, 2015]
+[80 FR 28454, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017]

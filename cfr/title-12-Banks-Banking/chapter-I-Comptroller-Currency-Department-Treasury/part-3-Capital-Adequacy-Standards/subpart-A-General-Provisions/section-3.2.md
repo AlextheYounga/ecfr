@@ -70,7 +70,7 @@ As used in this part:
 
 (2) The exposure of a national bank or Federal savings association that is a clearing member to its clearing member client is not a cleared transaction where the national bank or Federal savings association is either acting as a financial intermediary and enters into an offsetting transaction with a CCP or where the national bank or Federal savings association provides a guarantee to the CCP on the performance of the client.3
 
-3 For the standardized approach treatment of these exposures, see § 3.34(e) (OTC derivative contracts) or § 3.37(c) (repo-style transactions). For the advanced approaches treatment of these exposures, see §§ 3.132(c)(8) and (d) (OTC derivative contracts) or §§ 3.132(b) and 3.132(d) (repo-style transactions) and for calculation of the margin period of risk, see §§ 3.132(d)(5)(iii)(C) (OTC derivative contracts) and § 3.132(d)(5)(iii)(A) (repo-style transactions).
+3 For the standardized approach treatment of these exposures, see § 3.34(e) (OTC derivative contracts) or § 3.37(c) (repo-style transactions). For the advanced approaches treatment of these exposures, see §§ 3.132(c)(8) and (d) (OTC derivative contracts) or §§ 3.132(b) and 3.132(d) (repo-style transactions) and for calculation of the margin period of risk, see §§ 3.132(d)(5)(iii)(C) (OTC derivative contracts) and 3.132(d)(5)(iii)(A) (repo-style transactions).
 
 *Clearing member* means a member of, or direct participant in, a CCP that is entitled to enter into transactions with the CCP.
 

@@ -1,29 +1,7 @@
 ##### § 151.60 How must I maintain my records? #####
 
-Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
+(a) *In general.* The records required by § 151.50 must clearly and accurately reflect the information required and provide an adequate basis for the audit of the information. Record maintenance may include the use of automated or electronic records provided the records are easily retrievable, readily available for inspection, and capable of being reproduced in a hard copy.
 
-(a) You may maintain the records required under § 151.50 in any manner, form, or format that you deem appropriate. However, your records must clearly and accurately reflect the required information and provide an adequate basis for an audit of the information.
+(b) *Use of third party.* You may contract with third-party service providers to maintain the records required by this section, provided that you maintain effective oversight of the third-party vendor to ensure records meet the requirements of § 150.50 and this section.
 
-(b) You, or the person that maintains and preserves records on your behalf, must:
-
-(1) Arrange and index the records in a way that permits easy location, access, and retrieval of a particular record;
-
-(2) Separately store, for the time required for preservation of the original record, a duplicate copy of the record on any medium allowed by this section;
-
-(3) Provide promptly any of the following that OCC examiners or your directors may request:
-
-(i) A legible, true, and complete copy of the record in the medium and format in which it is stored;
-
-(ii) A legible, true, and complete printout of the record; and
-
-(iii) Means to access, view, and print the records.
-
-(4) In the case of records on electronic storage media, you, or the person that maintains and preserves records for you, must establish procedures:
-
-(i) To maintain, preserve, and reasonably safeguard the records from loss, alteration, or destruction;
-
-(ii) To limit access to the records to properly authorized personnel, your directors, and OCC examiners; and
-
-(iii) To reasonably ensure that any reproduction of a non-electronic original record on electronic storage media is complete, true, and legible when retrieved.
-
-(c) You may contract with third party service providers to maintain the records.
+[82 FR 8110, Jan. 23, 2017]

@@ -1,7 +1,5 @@
 ##### § 151.40 What definitions apply to this part? #####
 
-Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
-
 *Asset-backed security* means a security that is primarily serviced by the cash flows of a discrete pool of receivables or other financial assets, either fixed or revolving, that by their terms convert into cash within a finite time period. *Asset-backed security* includes any rights or other assets designed to ensure the servicing or timely distribution of proceeds to the security holders.
 
 *Common or collective investment fund* means any fund established under 12 CFR 150.260(b) or 12 CFR 9.18.
@@ -52,7 +50,7 @@ Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
 
 (2) A security that is a direct obligation of, or an obligation guaranteed as to principal or interest by, any municipal corporate instrumentality of one or more states; or
 
-(3) A security that is an industrial development bond, the interest on which is excludable from gross income under section 103(a) of the Code (26 U.S.C. 103(a)).
+(3) A security that is an industrial development bond.
 
 *Periodic plan* means a written document that authorizes you to act as agent to purchase or sell for a customer a specific security or securities (other than securities issued by an open end investment company or unit investment trust registered under the Investment Company Act of 1940). The written document must authorize you to purchase or sell in specific amounts (calculated in security units or dollars) or to the extent of dividends and funds available, at specific time intervals, and must set forth the commission or charges to be paid by the customer or the manner of calculating them.
 
@@ -63,3 +61,5 @@ Link to an amendment published at 82 FR 8110, Jan. 23, 2017.
 *Security* does not include currency; any note, draft, bill of exchange, or banker's acceptance which has a maturity at the time of issuance of less than nine months, exclusive of days of grace, or any renewal thereof, the maturity of which is likewise limited; a deposit or share account in a Federal or state chartered depository institution; a loan participation; a letter of credit or other form of bank indebtedness incurred in the ordinary course of business; units of a collective investment fund; interests in a variable amount (master) note of a borrower of prime credit; U.S. Savings Bonds; or any other instrument the OCC determines does not constitute a security for purposes of this part.
 
 *Sweep account* means any prearranged, automatic transfer or sweep of funds above a certain dollar level from a deposit account to purchase a security or securities, or any prearranged, automatic redemption or sale of a security or securities when a deposit account drops below a certain level with the proceeds being transferred into a deposit account.
+
+[76 FR 49008, Aug. 9, 2011, as amended at 82 FR 8110, Jan. 23, 2017]

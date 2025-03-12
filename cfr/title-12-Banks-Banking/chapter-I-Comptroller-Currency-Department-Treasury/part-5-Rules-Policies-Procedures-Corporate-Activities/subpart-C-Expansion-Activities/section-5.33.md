@@ -1,7 +1,5 @@
 ##### § 5.33 Business combinations involving a national bank or Federal savings association. #####
 
-Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
-
 (a) *Authority.* 12 U.S.C. 24(Seventh), 93a, 181, 214a, 214b, 215, 215a, 215a-1, 215a-3, 215b, 215c, 1462a, 1463, 1464, 1467a, 1828(c), 1831u, 2903, and 5412(b)(2)(B).
 
 (b) *Scope.* This section sets forth the provisions governing business combinations and the standards for:
@@ -224,7 +222,7 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 
 (h) *Interstate combinations under 12 U.S.C. 1831u.* A business combination between insured banks with different home states under the authority of 12 U.S.C. 1831u must satisfy the standards and requirements and comply with the procedures of 12 U.S.C. 1831u and either 12 U.S.C. 215, 215a, and 215a-1, as applicable, if the resulting bank is a national bank, or 12 U.S.C. 214a, 214b, and 214c if the resulting bank is a state bank. For purposes of 12 U.S.C. 1831u, the acquisition of a branch without the acquisition of all or substantially all of the assets of a bank is treated as the acquisition of a bank whose home state is the state in which the branch is located.
 
-(i) *Expedited review for business reorganizations and streamlined applications.* A filing that qualifies as a business reorganization as defined in paragraph (d)(3) of this section, or a filing that qualifies as a streamlined application as described in paragraph (j) of this section, is deemed approved by the OCC as of the 45th day after the application is received by the OCC, or the 15th day after the close of the comment period, whichever is later, unless the OCC notifies the applicant that the filing is not eligible for expedited review, or the expedited review process is extended, under § 5.13(a)(2). An application under this paragraph must contain all necessary information for the OCC to determine if it qualifies as a business reorganization or streamlined application.
+(i) *Expedited review for business reorganizations and streamlined applications.* A filing that qualifies as a business reorganization as defined in paragraph (d)(3) of this section, or a filing that qualifies as a streamlined application as described in paragraph (j) of this section, is deemed approved by the OCC as of the 15th day after the close of the comment period, unless the OCC notifies the applicant that the filing is not eligible for expedited review, or the expedited review process is extended, under § 5.13(a)(2). An application under this paragraph must contain all necessary information for the OCC to determine if it qualifies as a business reorganization or streamlined application.
 
 (j) *Streamlined applications.* (1) An applicant may qualify for a streamlined business combination application in the following situations:
 
@@ -276,11 +274,11 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 
 (ii) Any resulting Federal savings association meets the requirements for insurance of accounts; and
 
-(iii) If any combining savings association is a mutual savings association, the resulting institution shall be a mutually held savings association, unless:
+(iii) If any combining savings association is a mutual savings association, the resulting institution shall be a mutually held depository institution that is insured by the FDIC, unless:
 
 (A) The transaction is approved under part 192 governing mutual to stock conversions; or
 
-(B) The transaction involves a mutual holding company reorganization under 12 U.S.C. 1467a(o).
+(B) The transaction involves a mutual holding company reorganization under 12 U.S.C. 1467a(o) or a similar transaction under state law.
 
 (3) Where the resulting institution is a Federal mutual savings association, the OCC may approve a temporary increase in the number of directors of the resulting institution provided that the association submits a plan for bringing the board of directors into compliance with the requirements of § 5.21(e) within a reasonable period of time.
 
@@ -296,7 +294,7 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 
 (2) *Change of name or home office.* If the name the resulting Federal savings association or the location of the home office of the resulting Federal savings association will be changed as a result of the business combination, the resulting Federal savings association shall amend its charter accordingly;
 
-(3) *Shareholder vote* - (i) *General rule.* Except as otherwise provided in this paragraph (n)(3), an affirmative vote of two-thirds of the outstanding voting stock of any constituent Federal stock savings association shall be required for approval of a consolidation or merger. If any class of shares is entitled to vote as a class pursuant to § 152.4 of this part, an affirmative vote of a majority of the shares of each voting class and two-thirds of the total voting shares shall be required. The required vote shall be taken at a meeting of the savings association.
+(3) *Shareholder vote* - (i) *General rule.* Except as otherwise provided in this paragraph (o)(3), an affirmative vote of two-thirds of the outstanding voting stock of any constituent Federal stock savings association shall be required for approval of a consolidation or merger. If any class of shares is entitled to vote as a class pursuant to § 152.4 of this part, an affirmative vote of a majority of the shares of each voting class and two-thirds of the total voting shares shall be required. The required vote shall be taken at a meeting of the savings association.
 
 (ii) *General exception.* Stockholders of the resulting Federal stock savings association need not authorize a consolidation or merger if:
 
@@ -316,4 +314,4 @@ Link to an amendment published at 82 FR 8103, Jan. 23, 2017.
 
 (4) *Mutual member vote.* Notwithstanding any other provision of this section, the OCC may require that a consolidation, merger or other business combination be submitted to the voting members of any mutual savings association participating in the proposed transaction at duly called meetings and that the transaction, to be effective, must be approved by such voting members.
 
-[80 FR 28437, May 18, 2015]
+[80 FR 28437, May 18, 2015, as amended at 82 FR 8103, Jan. 23, 2017]
