@@ -1,7 +1,5 @@
 ##### § 702.414 Regulations governing Grandfathered Secondary Capital. #####
 
-Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
-
 This section recodifies the requirements from 12 CFR 701.34(b), (c), and (d) that were in effect as of December 31, 2021, with minor modifications. The terminology used in this section is specific to this section. Except as provided in the next sentence, all secondary capital issued under § 701.34 of this chapter before January 1, 2022, or, in the case of a federally insured, state-chartered credit union, § 741.204(c) of this chapter, that is referred to elsewhere in this subpart as “Grandfathered Secondary Capital,” is subject to the requirements set forth in this section. Issuances of secondary capital to the U.S. Government or any of its subdivisions, under applications approved before January 1, 2022, pursuant to § 701.34 or § 741.204(c) of this chapter, are also considered “Grandfathered Secondary Capital” irrespective of the date of issuance.
 
 (a) Secondary capital is subject to the following conditions:
@@ -52,8 +50,6 @@ This section recodifies the requirements from 12 CFR 701.34(b), (c), and (d) tha
 
 (ii) The amounts calculated based on the following schedule:
 
-Table 1 to Paragraph (b)(2)(ii)
-
 |     Remaining maturity      |Net worth value of  <br/>original  <br/>balance  <br/>(percent)|
 |-----------------------------|---------------------------------------------------------------|
 |Four to less than five years |                              80                               |
@@ -64,7 +60,7 @@ Table 1 to Paragraph (b)(2)(ii)
 
 (3) *Financial statement.* The LICU must reflect the full amount of the secondary capital on deposit in a footnote to its financial statement.
 
-(c) *Redemption of secondary capital.* With the written approval of NCUA, secondary capital that is not recognized as net worth under paragraph (b)(2) of this section (“discounted secondary capital” re-categorized as Subordinated Debt) may be redeemed according to the remaining maturity schedule in paragraph (c)(3) of this section.
+(c) *Redemption of secondary capital.* With the written approval of NCUA, secondary capital that is not recognized as net worth under paragraph (b)(2) of this section may be redeemed according to the remaining maturity schedule in paragraph (c)(3) of this section.
 
 (1) *Request to redeem secondary capital.* A request for approval to redeem discounted secondary capital may be submitted in writing at any time, must specify the increment(s) to be redeemed and the schedule for redeeming all or any part of each eligible increment, and must demonstrate to the satisfaction of NCUA that:
 
@@ -84,8 +80,6 @@ Table 1 to Paragraph (b)(2)(ii)
 
 (3) *Schedule for redeeming secondary capital.*
 
-Table 2 to Paragraph (c)(3)
-
 |     Remaining maturity      |Redemption limit as  <br/>percent of  <br/>original  <br/>balance  <br/>(%)|
 |-----------------------------|---------------------------------------------------------------------------|
 |Four to less than five years |                                    20                                     |
@@ -95,4 +89,4 @@ Table 2 to Paragraph (c)(3)
 
 (4) *Early redemption exception.* Subject to the written approval of NCUA obtained pursuant to the requirements of paragraphs (c)(1) and (2) of this section, a LICU can redeem all or part of secondary capital accepted from the United States Government or any of its subdivisions at any time after the secondary capital has been on deposit for two years. If the secondary capital was accepted under conditions that required matching secondary capital from a source other than the Federal Government, the matching secondary capital may also be redeemed in the manner set forth in the preceding sentence. For purposes of obtaining NCUA's approval, all secondary capital a LICU accepts from the United States Government or any of its subdivisions, as well as its matching secondary capital, if any, is eligible for early redemption regardless of whether any part of the secondary capital has been discounted pursuant to paragraph (b)(2) of this section.
 
-[86 FR 11074, Feb. 23, 2021, as amended at 86 FR 72809, Dec. 23, 2021]
+[86 FR 11074, Feb. 23, 2021, as amended at 86 FR 72809, Dec. 23, 2021; 88 FR 18011, Mar. 27, 2023]

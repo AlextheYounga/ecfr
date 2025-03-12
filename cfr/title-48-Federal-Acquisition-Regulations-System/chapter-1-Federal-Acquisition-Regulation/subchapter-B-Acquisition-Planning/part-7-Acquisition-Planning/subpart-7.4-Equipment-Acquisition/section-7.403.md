@@ -1,5 +1,7 @@
 ##### 7.403 General Services Administration assistance and OMB guidance. #####
 
+Link to an amendment published at 88 FR 25477, Apr. 26, 2023.
+
 (a) When requested by an agency, the General Services Administration (GSA) will assist in rent, lease, or purchase decisions by providing information such as—
 
 (1) Pending price adjustments to Federal Supply Schedule contracts;

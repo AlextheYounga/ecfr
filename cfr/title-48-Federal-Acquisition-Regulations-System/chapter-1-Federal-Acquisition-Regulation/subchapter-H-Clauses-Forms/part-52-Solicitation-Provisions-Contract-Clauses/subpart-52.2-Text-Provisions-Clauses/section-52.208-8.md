@@ -1,5 +1,7 @@
 ##### 52.208-8 Required Sources for Helium and Helium Usage Data. #####
 
+Link to an amendment published at 88 FR 25476, Apr. 26, 2023.
+
 As prescribed in 8.505, insert the following clause:
 
 Required Sources for Helium and Helium Usage Data (AUG 2018)

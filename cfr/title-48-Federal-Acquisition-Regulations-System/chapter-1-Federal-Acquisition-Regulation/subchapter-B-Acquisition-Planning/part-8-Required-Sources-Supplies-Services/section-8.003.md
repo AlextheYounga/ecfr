@@ -1,5 +1,7 @@
 ##### 8.003 Use of other mandatory sources. #####
 
+Link to an amendment published at 88 FR 25476, Apr. 26, 2023.
+
 Agencies shall satisfy requirements for the following supplies or services from or through specified sources, as applicable:
 
 (a) Public utility services (see part 41).

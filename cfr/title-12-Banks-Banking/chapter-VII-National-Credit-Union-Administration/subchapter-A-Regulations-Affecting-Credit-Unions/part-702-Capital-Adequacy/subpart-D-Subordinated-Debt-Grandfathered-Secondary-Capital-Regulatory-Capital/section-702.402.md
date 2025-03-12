@@ -1,7 +1,5 @@
 ##### § 702.402 Definitions. #####
 
-Link to an amendment published at 88 FR 18010, Mar. 27, 2023.
-
 To the extent they differ, the definitions in this section apply only to Subordinated Debt and not to Grandfathered Secondary Capital. (Definitions applicable to Grandfathered Secondary Capital are in § 702.414.) All other terms in this subpart and not expressly defined in this section have the meanings assigned to them elsewhere in this part. For ease of use, certain key terms are included in this section using cross citations to other sections of this part where those terms are defined.
 
 *Accredited Investor* means a Natural Person Accredited Investor or an Entity Accredited Investor, as applicable.
@@ -32,17 +30,17 @@ To the extent they differ, the definitions in this section apply only to Subordi
 
 *Pro Forma Financial Statements* means projected financial statements that show the effects of proposed transactions as if they actually occurred in a variety of plausible scenarios, including both optimistic and pessimistic assumptions, over measurement horizons that align with the credit union's expected activities.
 
-*Qualified Counsel* means an attorney licensed to practice law in the relevant jurisdiction(s) who has expertise in the areas of Federal and state securities laws and debt transactions similar to those described in this subpart.
+*Qualified Counsel* means an attorney licensed to practice law who has expertise in the areas of Federal and state securities laws and debt transactions similar to those described in this subpart.
 
 *Regulatory Capital* means:
 
-(1) With respect to an Issuing Credit Union that is a LICU and not a complex credit union, the aggregate outstanding principal amount of Subordinated Debt and, until January 1, 2042, Grandfathered Secondary Capital that is included in the credit union's net worth ratio;
+(1) With respect to an Issuing Credit Union that is a LICU and not a complex credit union, the aggregate outstanding principal amount of Subordinated Debt and, until the later of 30 years from the date of issuance or January 1, 2052, Grandfathered Secondary Capital that is included in the credit union's net worth ratio;
 
-(2) With respect to an Issuing Credit Union that is a complex credit union and not a LICU, the aggregate outstanding principal amount of Subordinated Debt that is included in the credit union's RBC Ratio;
+(2) With respect to an Issuing Credit Union that is a complex credit union and not a LICU, the aggregate outstanding principal amount of Subordinated Debt that is included in the credit union's RBC ratio, if applicable;
 
-(3) With respect to an Issuing Credit Union that is both a LICU and a complex credit union, the aggregate outstanding principal amount of Subordinated Debt and, until January 1, 2042, Grandfathered Secondary Capital that is included in its net worth ratio and in its RBC Ratio; and
+(3) With respect to an Issuing Credit Union that is both a LICU and a complex credit union, the aggregate outstanding principal amount of Subordinated Debt and, until the later of 30 years from the date of issuance or January 1, 2052, Grandfathered Secondary Capital that is included in its net worth ratio and in its RBC ratio, if applicable; and
 
-(4) With respect to a new credit union, the aggregate outstanding principal amount of Subordinated Debt and, until January 1, 2042, Grandfathered Secondary Capital that is considered pursuant to § 702.207.
+(4) With respect to a new credit union, the aggregate outstanding principal amount of Subordinated Debt and, until the later of 30 years from the date of issuance or January 1, 2052, Grandfathered Secondary Capital that is considered pursuant to § 702.207.
 
 *Retained Earnings* has a meaning that is consistent with the one for this term under United States GAAP.
 
@@ -54,4 +52,4 @@ To the extent they differ, the definitions in this section apply only to Subordi
 
 *Subordinated Debt Note* means the written contract(s) evidencing the Subordinated Debt.
 
-[86 FR 11074, Feb. 23, 2021, as amended at 86 FR 72809, Dec. 23, 2021]
+[86 FR 11074, Feb. 23, 2021, as amended at 86 FR 72809, Dec. 23, 2021; 88 FR 18010, Mar. 27, 2023]

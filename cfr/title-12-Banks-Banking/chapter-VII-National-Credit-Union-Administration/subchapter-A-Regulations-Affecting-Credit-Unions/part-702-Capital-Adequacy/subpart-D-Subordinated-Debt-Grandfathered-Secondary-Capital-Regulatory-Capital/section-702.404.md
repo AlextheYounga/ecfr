@@ -1,12 +1,10 @@
-##### § 702.404 Requirements of the Subordinated Debt and Subordinated Debt Note. #####
-
-Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
+##### § 702.404 Requirements of the Subordinated Debt Note. #####
 
 (a) *Requirements.* At a minimum, the Subordinated Debt or the Subordinated Debt Note, as applicable, must:
 
 (1) Be in the form of a written, unconditional promise to pay on a specified date a sum certain in money in return for adequate consideration in money;
 
-(2) Have, at the time of issuance, a fixed stated maturity of at least five years and not more than 20 years from issuance. The stated maturity of the Subordinated Debt Note may not reset and may not contain an option to extend the maturity;
+(2) Have, at the time of issuance, a fixed stated maturity of at least five years. The stated maturity of the Subordinated Debt Note may not reset and may not contain an option to extend the maturity. A credit union seeking to issue Subordinated Debt Notes with maturities longer than 20 years from the date of issuance must provide the information required in § 702.408(b)(14) as part of its application for preapproval to issue Subordinated Debt;
 
 (3) Be subordinate to all other claims in liquidation under § 709.5(b) of this chapter, and have the same payout priority as all other outstanding Subordinated Debt and Grandfathered Secondary Capital;
 
@@ -67,3 +65,5 @@ Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
 (d) *Default covenants.* A Subordinated Debt Note that includes default covenants must provide the Issuing Credit Union with a reasonable cure period of not less than 30 calendar days.
 
 (e) *Minimum denominations of issuances to Natural Person Accredited Investors.* An Issuing Credit Union may only issue Subordinated Debt Notes to Natural Person Accredited Investors in minimum denominations of $100,000, and cannot exchange any such Subordinated Debt Notes after the initial issuance or any subsequent resale for Subordinated Debt Notes of the Issuing Credit Union in denominations less than $10,000. Each such Subordinated Debt Note, if issued in certificate form, must include a legend disclosing that it cannot be exchanged for Subordinated Debt Notes of the Issuing Credit Union in denominations less than $100,000, and Subordinated Debt Notes issued in book-entry or other uncertificated form shall include appropriate instructions prohibiting the exchange of such Subordinated Debt Notes for Subordinated Debt Notes of the Issuing Credit Union in denominations that would violate the foregoing restrictions.
+
+[86 FR 11074, Feb. 23, 2021, as amended at 88 FR 18011, Mar. 27, 2023]

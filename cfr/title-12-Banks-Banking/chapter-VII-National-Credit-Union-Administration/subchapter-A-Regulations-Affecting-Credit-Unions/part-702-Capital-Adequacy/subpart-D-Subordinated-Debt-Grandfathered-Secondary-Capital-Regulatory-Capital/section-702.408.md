@@ -1,7 +1,5 @@
 ##### § 702.408 Preapproval to issue Subordinated Debt. #####
 
-Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
-
 (a) *Scope.* This section requires all credit unions to receive written preapproval from the NCUA before issuing Subordinated Debt. Procedures related specifically to applications from federally insured, state-chartered credit unions are contained in § 702.409. A credit union seeking approval to offer and sell Subordinated Debt at one or more of its offices must also follow the application procedures in § 702.406(e). All approvals under this section are subject to the expiration limits specified in paragraph (k) of this section.
 
 (b) *Initial application to issue Subordinated Debt.* A credit union requesting approval to issue Subordinated Debt must first submit an application to the Appropriate Supervision Office that, at a minimum, includes:
@@ -18,7 +16,7 @@ Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
 
 (6) An analysis of how the credit union will provide for liquidity to repay the Subordinated Debt upon maturity of the Subordinated Debt;
 
-(7) Pro Forma Financial Statements (balance sheet, income statement, and statement of cash flows), including any off-balance sheet items, covering at least two years. Analytical support for key assumptions and key assumption changes must be included in the application. Key assumptions include, but are not limited to, interest rate, liquidity, and credit loss scenarios;
+(7) Pro Forma Financial Statements (balance sheet and income statement) and cash flow projections, including any off-balance sheet items, covering at least two years. Analytical support for key assumptions and key assumption changes must be included in the application. Key assumptions include, but are not limited to, interest rate, liquidity, and credit loss scenarios;
 
 (8) A statement indicating how the credit union will use the proceeds from the issuance and sale of the Subordinated Debt;
 
@@ -40,9 +38,17 @@ Link to an amendment published at 88 FR 18011, Mar. 27, 2023.
 
 (13) A statement describing any investments the credit union has in the Subordinated Debt of any other credit union, and the manner in which the credit union acquired such Subordinated Debt, including through a merger or other consolidation;
 
-(14) A signature page signed by the credit union's principal executive officer, principal financial officer or principal accounting officer, and a majority 'of the members of its board of directors. Amendments to an initial application must be signed and filed with the NCUA in the same manner as the initial application; and
+(14) In the case of a credit union applying to issue Subordinated Debt Notes with maturities longer than 20 years, an analysis demonstrating that the proposed Subordinated Debt Notes would be properly characterized as debt in accordance with U.S. GAAP. The Appropriate Supervision Office may require that such analysis include one or more of the following:
 
-(15) Any additional information requested in writing by the Appropriate Supervision Office.
+(i) A written legal opinion from a Qualified Counsel;
+
+(ii) A written opinion from a licensed certified public accountant (CPA); and
+
+(iii) An analysis conducted by the credit union or independent third party;
+
+(15) A signature page signed by the credit union's principal executive officer, principal financial officer or principal accounting officer, and a majority 'of the members of its board of directors. Amendments to an initial application must be signed and filed with the NCUA in the same manner as the initial application; and
+
+(16) Any additional information requested in writing by the Appropriate Supervision Office.
 
 (c) *Decision on initial application.* Upon receiving an initial application submitted under this paragraph (c) and any additional information requested in writing by the Appropriate Supervision Office, the Appropriate Supervision Office will evaluate, at a minimum, the credit union's compliance with this subpart and all other NCUA regulations in this chapter, the credit union's ability to manage and safely offer, issue, and sell the proposed Subordinated Debt, the safety and soundness of the proposed use of the Subordinated Debt, the overall condition of the credit union, and any other factors the Appropriate Supervision Office determines are relevant.
 
@@ -132,7 +138,7 @@ None of the Securities and Exchange Commission (the “SEC”), any state securi
 
 (2) Failure to issue all or part of the maximum aggregate principal amount of Subordinated Debt Notes approved in the initial application process within the applicable period specified in paragraph (k) of this section will result in the expiration of the NCUA's approval. An Issuing Credit Union may file a written extension request with the Appropriate Supervision Office. The Issuing Credit Union must demonstrate good cause for any extension(s), and must file the request at least 30 calendar days before the expiration of the applicable period specified in paragraph (k) of this section or any extensions granted under paragraph (k) of this section. In any such written application, the Issuing Credit Union must address whether any such extension poses any material securities law implications.
 
-(l) *Filing requirements and inspection of documents.* (1) Except as otherwise provided in this section, all initial applications, Offering Documents, amendments, notices, or other documents must be filed with the NCUA electronically. The NCUA will publish on its website, *http://www.NCUA.gov,* the web address for electronic filings. Documents may be signed electronically using the signature provision in 17 CFR 230.402 (Rule 402 under the Securities Act of 1933, as amended).
+(l) *Filing requirements.* (1) Except as otherwise provided in this section, all initial applications, Offering Documents, amendments, notices, or other documents must be filed electronically with the Appropriate Supervision Office. Documents may be signed electronically using the signature provision in 17 CFR 230.402 (Rule 402 under the Securities Act of 1933, as amended).
 
 (2) Provided the Issuing Credit Union filing the document has complied with all requirements regarding the filing in this section, the date of filing of the document is the date the NCUA receives the filing. An electronic filing that is submitted on a business day by direct transmission commencing on or before 5:30 p.m. Eastern Standard or Daylight Savings Time, whichever is then currently in effect, would be deemed received by the NCUA on the same business day. An electronic filing that is submitted by direct transmission commencing after 5:30 p.m. Eastern Standard or Daylight Savings Time, whichever is then currently in effect, or on a Saturday, Sunday, or Federal holiday, would be deemed received by the NCUA on the next business day. If an electronic filer in good faith attempts to file a document with the NCUA in a timely manner, but the filing is delayed due to technical difficulties beyond the electronic filer's control, the electronic filer may request that the NCUA adjust the filing date of such document. The NCUA may grant the request if it appears that such adjustment is appropriate and consistent with the public interest and the protection of investors.
 
@@ -143,3 +149,5 @@ None of the Securities and Exchange Commission (the “SEC”), any state securi
 (m) *Filing fees.* (1) The NCUA may require filing fees to accompany certain filings made under this subpart before it will accept those filings. If the NCUA requires the aforementioned filing fee, the NCUA will publish an applicable fee schedule on its website at *http://www.NCUA.gov.*
 
 (2) Filing fees must be paid to the NCUA by electronic transfer.
+
+[86 FR 11074, Feb. 23, 2021, as amended at 88 FR 18011, Mar. 27, 2023]

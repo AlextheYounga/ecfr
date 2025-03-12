@@ -1,5 +1,7 @@
 ##### 51.102 Authorization to use Government supply sources. #####
 
+Link to an amendment published at 88 FR 25476, Apr. 26, 2023.
+
 (a) Before issuing an authorization to a contractor to use Government supply sources in accordance with 51.101 (a) or (b), the contracting officer shall place in the contract file a written finding supporting issuance of the authorization. A written finding is not required when authorizing use of the Government supply sources in accordance with 51.101(c). Except for findings under 51.101(a)(3), the determination shall be based on, but not limited to, consideration of the following factors:
 
 (1) The administrative cost of placing orders with Government supply sources and the program impact of delay factors, if any.
