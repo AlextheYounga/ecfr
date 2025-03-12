@@ -1,12 +1,10 @@
 ##### § 550.103 Definitions. #####
 
-Link to an amendment published at 84 FR 17939, Apr. 29, 2019.
-
 In this subpart:
 
 *Administrative workweek* means any period of 7 consecutive days (as defined in this section) designated in advance by the head of the agency under section 6101 of title 5, United States Code.
 
-*Agency* means -
+*Agency* means—
 
 (1) A *department* as defined in this section; and
 
@@ -14,7 +12,7 @@ In this subpart:
 
 *Basic workweek,* for full-time employees, means the 40-hour workweek established in accordance with § 610.111 of this chapter.
 
-*Criminal investigator* means a law enforcement officer as defined in 5 U.S.C. 5541(3) and this section -
+*Criminal investigator* means a law enforcement officer as defined in 5 U.S.C. 5541(3) and this section—
 
 (1) Whose position is properly classified under the GS-1811 or GS-1812 series in the General Schedule classification system based on OPM classification standards (or would be so classified if covered under that system);
 
@@ -48,7 +46,7 @@ In this subpart:
 
 *Irregular or occasional overtime work* means overtime work that is not part of an employee's regularly scheduled administrative workweek.
 
-*Law enforcement officer* means an employee who -
+*Law enforcement officer* means an employee who—
 
 (1) Is a law enforcement officer within the meaning of 5 U.S.C. 8331(20) (as further defined in § 831.902 of this chapter) or 5 U.S.C. 8401(17) (as further defined in § 842.802 of this chapter), as applicable;
 
@@ -56,7 +54,7 @@ In this subpart:
 
 (3) In the case of an employee who holds a secondary position, as defined in § 842.802 of this chapter, and is subject to the Federal Employees Retirement System, but who does not qualify to be considered a law enforcement officer within the meaning of 5 U.S.C. 8401(17), would so qualify if such employee had transferred directly to such position after performing duties described in 5 U.S.C. 8401(17)(A) and (B) for at least 3 years; and
 
-(4) In the case of an employee who is not subject to either the Civil Service Retirement System or the Federal Employees Retirement System -
+(4) In the case of an employee who is not subject to either the Civil Service Retirement System or the Federal Employees Retirement System—
 
 (i) Holds a position that the agency head (as defined in §§ 831.902 and 842.802 of this chapter) determines would satisfy paragraph (1), (2), or (3) of this definition if the employee were subject to the Civil Service Retirement System or the Federal Employees Retirement System (subject to OPM oversight as described in §§ 831.911 and 842.808 of this chapter); or
 
@@ -72,11 +70,11 @@ In this subpart:
 
 *Protective duties* means duties authorized by section 3056(a) of title 18, United States Code, or by section 2709(a)(3) of title 22, United States Code.
 
-*Rate of basic pay* means the rate of pay fixed by law or administrative action for the position held by an employee, including any applicable locality payment under 5 CFR part 531, subpart F; special rate supplement under 5 CFR part 530, subpart C; or similar payment or supplement under other legal authority, before any deductions and exclusive of additional pay of any other kind.
+*Rate of basic pay* means the rate of pay fixed by law or administrative action for the position held by an employee, including any applicable locality payment under 5 CFR part 531, subpart F; special rate supplement under 5 CFR part 530, subpart C; retained rate under 5 CFR part 536; or similar payment or supplement under other legal authority, before any deductions and exclusive of additional pay of any other kind.
 
 *Regular overtime work* means overtime work that is part of an employee's regularly scheduled administrative workweek.
 
-*Regular tour of duty,* with respect to a Border Patrol agent covered by 5 U.S.C. 5550 and subpart P of this part, means the basic 40-hour workweek plus any regularly scheduled overtime work hours that the agent is assigned to work as part of an officially established 5-day weekly work schedule generally consisting of -
+*Regular tour of duty,* with respect to a Border Patrol agent covered by 5 U.S.C. 5550 and subpart P of this part, means the basic 40-hour workweek plus any regularly scheduled overtime work hours that the agent is assigned to work as part of an officially established 5-day weekly work schedule generally consisting of—
 
 (1) 10-hour workdays (including 2 overtime hours each workday) in exchange for a 25-percent overtime supplement (Level 1); or
 

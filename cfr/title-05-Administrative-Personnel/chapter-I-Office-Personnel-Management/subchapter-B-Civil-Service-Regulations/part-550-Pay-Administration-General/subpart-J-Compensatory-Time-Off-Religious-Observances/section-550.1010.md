@@ -1,0 +1,7 @@
+##### § 550.1010 Transitional provisions. #####
+
+(a) This section applies only with respect to employees who as of May 29, 2019 had a positive balance of earned but unused religious compensatory time off hours or a negative balance (*i.e.,* a debt) of used religious compensatory time off hours not yet repaid by earned hours.
+
+(b) If an employee described in paragraph (a) of this section has a negative balance (*i.e.,* a debt) of used but not-yet-earned religious compensatory time off hours as of the date specified in paragraph (a) of this section, the 13 pay period limitation in § 550.1006(c) is applied as if such date were the date on which the hours of religious compensatory time off were used.
+
+(c) If an employee described in paragraph (a) of this section has a positive balance of earned but unused religious compensatory time off hours as of the date specified in paragraph (a) of this section, the agency must confirm and document that the hours are connected to one or more specific religious observances requiring the employee's absence from work in order to meet the employee's personal religious requirements. The agency must give the employee an opportunity to direct all unused hours to such a future religious observance. If the employee does not so direct all of those unused hours, the employee may not earn any additional religious compensatory time off hours until the employee establishes a need to earn such time off hours.

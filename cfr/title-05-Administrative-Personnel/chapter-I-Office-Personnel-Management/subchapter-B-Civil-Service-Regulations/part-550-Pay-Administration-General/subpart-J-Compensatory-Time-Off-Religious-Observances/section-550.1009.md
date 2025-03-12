@@ -1,0 +1,3 @@
+##### § 550.1009 Relationship to premium pay and overtime work. #####
+
+The premium pay provisions for overtime work in subpart A of this part and section 7 of the Fair Labor Standards Act of 1938, as amended (FLSA), do not apply to overtime work performed by an employee that is used to earn religious compensatory time off under this subpart. The overtime hours worked to earn religious compensatory time off under this subpart do not create an entitlement to premium pay (including overtime pay) under subpart A of this part or FLSA overtime pay under 5 CFR part 551. Religious compensatory time off is not considered in applying the premium pay limitations described in §§ 550.105, 550.106, and 550.107.

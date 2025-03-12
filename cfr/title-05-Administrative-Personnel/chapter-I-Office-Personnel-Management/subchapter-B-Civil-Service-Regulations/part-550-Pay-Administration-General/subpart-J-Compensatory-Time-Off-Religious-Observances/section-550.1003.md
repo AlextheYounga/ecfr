@@ -1,0 +1,11 @@
+##### § 550.1003 Definitions. #####
+
+In this subpart:
+
+*Overtime work* means work performed by an employee outside his or her scheduled tour of duty for the purpose of making up time lost for meeting personal religious requirements, as such term is explained in the definition of “religious compensatory time off” in this section. It is also deemed to include work performed by a part-time employee outside of his or her scheduled tour of duty, even if that work is below applicable overtime thresholds (*e.g.,* below 40 hours in a week), and work an employee performs during holiday hours (within the employee's scheduled tour of duty) during which the employee would otherwise be excused from duty.
+
+*Rate of basic pay* means the rate of pay fixed by law or administrative action for the position held by an employee, including any special rate under 5 CFR part 530, subpart C; locality rate under 5 CFR part 531, subpart F; retained rate under 5 CFR part 536; or similar rate under other legal authority, before any deductions and excluding additional pay of any other kind. For example, a *rate of basic pay* does not include additional pay such as night shift differentials under 5 U.S.C. 5343(f) or environmental differentials under 5 U.S.C. 5343(c)(4).
+
+*Religious compensatory time off* means compensatory time off, as authorized by 5 U.S.C. 5550a, under which an employee whose personal religious beliefs require the abstention from work during certain periods of time may elect to perform overtime work in order to make up for time the employee takes off to meet those personal religious requirements. Those requirements need not be officially mandated by a religious organization to which the employee belongs. It is sufficient that the employee's personal religious beliefs cause the employee to feel an obligation that he or she should be absent from work for a religious purpose. An employee approved to perform overtime work under this subpart will be granted an equal amount of compensatory time off from his or her scheduled tour of duty (in lieu of overtime pay or other pay otherwise payable) to meet his or her personal religious obligations.
+
+*Scheduled tour of duty* means the regular work hours in an established full-time or part-time work schedule during which the employee is charged leave or time off when absent.

@@ -1,5 +1,7 @@
 ##### § 275.3 Definitions. #####
 
+Link to an amendment published at 84 FR 24708, May 29, 2019.
+
 (a) *Administrative Summons or Subpoena.* A statutory writ issued by a Government Authority.
 
 (b) *Customer.* Any person or authorized representative of that person who used or is using any service of a financial institution or for whom a financial institution is acting or has acted as fiduciary for an account maintained in the name of that person.

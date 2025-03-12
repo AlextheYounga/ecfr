@@ -1,5 +1,7 @@
 ##### § 275.5 Responsibilities. #####
 
+Link to an amendment published at 84 FR 24708, May 29, 2019.
+
 (a) The Director of Administration and Management, Office of the Secretary of Defense shall:
 
 (1) Exercise oversight to ensure compliance with this part.
