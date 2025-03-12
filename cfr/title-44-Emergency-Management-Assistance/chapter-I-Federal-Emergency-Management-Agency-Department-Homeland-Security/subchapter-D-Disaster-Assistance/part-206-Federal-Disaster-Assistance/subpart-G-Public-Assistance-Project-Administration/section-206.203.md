@@ -4,11 +4,13 @@
 
 (b) *Cost sharing.* All projects approved under State disaster assistance grants will be subject to the cost sharing provisions established in the FEMA-State Agreement and the Stafford Act.
 
-(c) *Project funding* - (1) *Large projects.* When the approved estimate of eligible costs for an individual project is $120,000 or greater, Federal funding shall equal the Federal share of the actual eligible costs documented by a recipient. Such $120,000 amount shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+(c) *Project funding*—(1) *Large projects.* When the approved estimate of eligible costs for an individual project is $1,000,000 or greater, Federal funding shall equal the Federal share of the actual eligible costs documented by a recipient. Such $1,000,000 amount shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
-(2) *Small projects.* When the approved estimate of costs for an individual project is less than $120,000, Federal funding shall equal the Federal share of the approved estimate of eligible costs. Such $120,000 amount shall be adjusted annually as indicated in paragraph (c)(1) of this section.
+(2) *Small projects.* When the approved estimate of costs for an individual project is less than $1,000,000, Federal funding shall equal the Federal share of the approved estimate of eligible costs. Such $1,000,000 amount shall be adjusted annually as indicated in paragraph (c)(1) of this section.
 
-(d) *Funding options* - (1) *Improved projects.* If a subrecipient desires to make improvements, but still restore the predisaster function of a damaged facility, the recipient's approval must be obtained. Federal funding for such improved projects shall be limited to the Federal share of the approved estimate of eligible costs.
+(3) *Applicability date.* The dollar threshold provided in this paragraph (c) applies to project worksheets that have not been obligated as of August 3, 2022 for major disasters and emergencies declared on or after March 13, 2020.
+
+(d) *Funding options*—(1) *Improved projects.* If a subrecipient desires to make improvements, but still restore the predisaster function of a damaged facility, the recipient's approval must be obtained. Federal funding for such improved projects shall be limited to the Federal share of the approved estimate of eligible costs.
 
 (2) *Alternate projects.* In any case where a subrecipient determines that the public welfare would not be best served by restoring a damaged public facility or the function of that facility, the recipient may request that the Regional Administrator approve an alternate project.
 
@@ -22,4 +24,4 @@
 
 (v) Prior to the start of construction of any alternate project the recipient shall submit for approval by the Regional Administrator the following: a description of the proposed alternate project(s); a schedule of work; and the projected cost of the project(s). The recipient shall also provide the necessary assurances to document compliance with special requirements, including, but not limited to floodplain management, environmental assessment, hazard mitigation, protection of wetlands, and insurance.
 
-[55 FR 2304, Jan. 23, 1990, as amended at 66 FR 22444, May 4, 2001; 73 FR 20551, Apr. 16, 2008; 79 FR 10686, Feb. 26, 2014; 82 FR 43, Jan. 3, 2017]
+[55 FR 2304, Jan. 23, 1990, as amended at 66 FR 22444, May 4, 2001; 73 FR 20551, Apr. 16, 2008; 79 FR 10686, Feb. 26, 2014; 82 FR 43, Jan. 3, 2017; 87 FR 47379, Aug. 3, 2022]

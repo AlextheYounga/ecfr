@@ -1,5 +1,7 @@
 ##### § 483.60 Food and nutrition services. #####
 
+Link to an amendment published at 87 FR 47618, Aug. 3, 2022.
+
 The facility must provide each resident with a nourishing, palatable, well-balanced diet that meets his or her daily nutritional and special dietary needs, taking into consideration the preferences of each resident.
 
 (a) *Staffing.* The facility must employ sufficient staff with the appropriate competencies and skills sets to carry out the functions of the food and nutrition service, taking into consideration resident assessments, individual plans of care and the number, acuity and diagnoses of the facility's resident population in accordance with the facility assessment required at § 483.70(e). This includes:

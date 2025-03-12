@@ -1,5 +1,7 @@
 ##### § 483.90 Physical environment. #####
 
+Link to an amendment published at 87 FR 47618, Aug. 3, 2022.
+
 The facility must be designed, constructed, equipped, and maintained to protect the health and safety of residents, personnel and the public.
 
 (a) *Life safety from fire.* (1) Except as otherwise provided in this section -

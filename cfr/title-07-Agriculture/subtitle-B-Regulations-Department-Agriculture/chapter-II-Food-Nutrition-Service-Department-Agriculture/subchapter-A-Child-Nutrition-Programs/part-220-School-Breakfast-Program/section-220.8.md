@@ -28,27 +28,26 @@
 
 (c) *Meal pattern for school breakfasts for grades K through 12.* A school must offer the food components and quantities required in the breakfast meal pattern established in the following table:
 
-Table 1 to Paragraph (c) Introductory Text - Breakfast Meal Pattern
-
-|                                                                        |                                           Grades K-5                                            |Grades 6-8|Grades 9-12|
-|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------|-----------|
-|                            Food components                             |                               Amount of Food<sup>a</sup> per Week                               |          |           |
-|                                                                        |                                        (minimum per day)                                        |          |           |
-|                 Fruits (cups)<sup>b</sup><sup>c</sup>                  |                                              5 (1)                                              |  5 (1)   |   5 (1)   |
-|               Vegetables (cups)<sup>b</sup><sup>c</sup>                |                                                0                                                |    0     |     0     |
-|                               Dark green                               |                                                0                                                |    0     |     0     |
-|                               Red/Orange                               |                                                0                                                |    0     |     0     |
-|                        Beans and peas (legumes)                        |                                                0                                                |    0     |     0     |
-|                                Starchy                                 |                                                0                                                |    0     |     0     |
-|                                 Other                                  |                                                0                                                |    0     |     0     |
-|                       Grains (oz eq)<sup>d</sup>                       |                                            7-10 (1)                                             | 8-10 (1) | 9-10 (1)  |
-|               Meats/Meat Alternates (oz eq)<sup>e</sup>                |                                                0                                                |    0     |     0     |
-|                     Fluid milk<sup>f</sup> (cups)                      |                                              5 (1)                                              |  5 (1)   |   5 (1)   |
-|Other Specifications: Daily Amount Based on the Average for a 5-Day Week|                                                                                                 |          |           |
-|            Min-max calories (kcal)<sup>g</sup><sup>h</sup>             |                                             350-500                                             | 400-550  |  450-600  |
-|            Saturated fat (% of total calories)<sup>h</sup>             |                                              \<10                                               |   \<10   |   \<10    |
-|                          Sodium Target 1 (mg)                          |                                              ≤540                                               |   ≤600   |   ≤640    |
-|                         Trans fat<sup>h</sup>                          |Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving.|          |           |
+|                                                                        |                                     Breakfast meal pattern                                      |           |        |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------|--------|
+|                               Grades K-5                               |                                           Grades 6-8                                            |Grades 9-12|        |
+|                             Food components                            |                               Amount of Food<sup>a</sup> per Week                               |           |        |
+|                                                                        |                                        (minimum per day)                                        |           |        |
+|                 Fruits (cups)<sup>b</sup><sup>c</sup>                  |                                              5 (1)                                              |   5 (1)   | 5 (1)  |
+|               Vegetables (cups)<sup>b</sup><sup>c</sup>                |                                                0                                                |     0     |   0    |
+|                               Dark green                               |                                                0                                                |     0     |   0    |
+|                               Red/Orange                               |                                                0                                                |     0     |   0    |
+|                        Beans and peas (legumes)                        |                                                0                                                |     0     |   0    |
+|                                Starchy                                 |                                                0                                                |     0     |   0    |
+|                                 Other                                  |                                                0                                                |     0     |   0    |
+|                       Grains (oz eq)<sup>d</sup>                       |                                            7-10 (1)                                             | 8-10 (1)  |9-10 (2)|
+|               Meats/Meat Alternates (oz eq)<sup>e</sup>                |                                                0                                                |     0     |   0    |
+|                     Fluid milk (cups)<sup>f</sup>                      |                                              5 (1)                                              |   5 (1)   | 5 (1)  |
+|Other Specifications: Daily Amount Based on the Average for a 5-Day Week|                                                                                                 |           |        |
+|            Min-max calories (kcal)<sup>g</sup><sup>h</sup>             |                                             350-500                                             |  400-550  |450-600 |
+|            Saturated fat (% of total calories)<sup>h</sup>             |                                              \<10                                               |   \<10    |  \<10  |
+|                    Sodium Target 1 (mg)<sup>h</sup>                    |                                              ≤540                                               |   ≤600    |  ≤640  |
+|                         Trans fat<sup>h</sup>                          |Nutrition label or manufacturer specifications must indicate zero grams of trans fat per serving.|           |        |
 
 <sup>a</sup> Food items included in each group and subgroup and amount equivalents. Minimum creditable serving is1/8 cup.
 
@@ -201,4 +200,4 @@ Table 5 to Paragraph (p)(2) - Infant Breakfast Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020; 86 FR 57546, Oct. 18, 2021; 87 FR 7006, Feb. 7, 2022]
+[77 FR 4154, Jan. 26, 2012, as amended at 78 FR 39093, June 28, 2013; 81 FR 24375, Apr. 25, 2016; 81 FR 50193, July 29, 2016; 81 FR 75675, Nov. 1, 2016; 82 FR 56714, Nov. 30, 2017; 83 FR 63790, Dec. 12, 2018; 84 FR 50292, Sept. 25, 2019; 85 FR 7854, Feb. 12, 2020; 85 FR 74849, Nov. 24, 2020; 86 FR 57546, Oct. 18, 2021; 87 FR 7006, Feb. 7, 2022; 87 FR 47332, Aug. 3, 2022]
