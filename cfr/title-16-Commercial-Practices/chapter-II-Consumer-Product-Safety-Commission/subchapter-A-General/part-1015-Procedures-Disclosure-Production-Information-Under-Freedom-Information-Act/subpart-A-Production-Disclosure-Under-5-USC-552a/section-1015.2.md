@@ -1,5 +1,7 @@
 ##### § 1015.2 Public inspection. #####
 
+Link to an amendment published at 86 FR 7503, Jan. 29, 2021.
+
 (a) The Consumer Product Safety Commission will maintain in a public reference room or area the materials relating to the Consumer Product Safety Commission that are required by 5 U.S.C. 552(a)(2) and 552(a)(5) to be made available for public inspection in an electronic format. The principal location will be in the Office of the Secretariat of the Commission. The address of this office is: Office of the Secretariat, Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814.
 
 (b) This public reference facility will maintain and make available for public inspection in an electronic format a current index of the materials available at that facility which are required to be indexed by 5 U.S.C. 552(a)(2).

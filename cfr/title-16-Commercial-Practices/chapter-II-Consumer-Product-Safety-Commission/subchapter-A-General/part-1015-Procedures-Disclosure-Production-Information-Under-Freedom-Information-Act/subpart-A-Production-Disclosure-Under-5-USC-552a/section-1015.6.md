@@ -1,5 +1,7 @@
 ##### § 1015.6 Responses: Form and content. #####
 
+Link to an amendment published at 86 FR 7504, Jan. 29, 2021.
+
 (a) When a requested record has been identified and is available for disclosure, the requester shall be supplied with a copy or notified as to where and when the record will be made available for public inspection in an electronic format. If the payment of fees is required the requester shall be advised by the Secretariat in writing of any applicable fees under § 1015.9 hereof. The requester will be notified of the right to seek assistance from the Commission's FOIA Public Liaison.
 
 (b) A response denying or partially denying a written request for a record shall be in writing, dated, and signed by the Secretariat or delegate of the Secretariat and shall include:

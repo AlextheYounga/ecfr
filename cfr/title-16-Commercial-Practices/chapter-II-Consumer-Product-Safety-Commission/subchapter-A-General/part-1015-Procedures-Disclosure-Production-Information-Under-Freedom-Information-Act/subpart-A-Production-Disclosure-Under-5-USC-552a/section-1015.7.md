@@ -1,5 +1,7 @@
 ##### § 1015.7 Appeals from initial denials; reconsideration by the Secretariat. #####
 
+Link to an amendment published at 86 FR 7504, Jan. 29, 2021.
+
 (a) When the Secretariat or delegate of the Secretariat has denied a request for records in whole or in part, the requester may, within 90 calendar days after the date of the denial or partial denial, appeal the denial to the General Counsel of the Consumer Product Safety Commission, attention of the Secretariat. Appeals may be submitted through any of the following methods: the e-FOIA Public Access Link at *https://www.cpsc.gov;* email to *cpsc-foia@cpsc.gov;* mail to 4330 East West Highway, Room 820, Bethesda, MD 20814; or facsimile to 301-504-0127.
 
 (b) The General Counsel, or the Secretariat upon reconsideration, will act upon an appeal within 20 working days of its receipt. The time limitations on an appeal submitted by mail shall begin to run at the time an appeal is received and date stamped by the Office of the Secretariat. The Office of the Secretariat will date stamp the appeal the same day that it receives the appeal. The time limitations on an appeal submitted electronically during working hours (8 a.m. to 4:30 p.m. EST) shall begin to run at the time the appeal was electronically received, and the time limitations on appeals submitted electronically during non-working hours will begin to run when working hours resume.

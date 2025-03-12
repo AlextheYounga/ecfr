@@ -1,5 +1,7 @@
 ##### § 1015.5 Time limitation on responses to requests for records and requests for expedited processing. #####
 
+Link to an amendment published at 86 FR 7503, Jan. 29, 2021.
+
 (a) The Secretariat or delegate of the Secretariat shall respond to all written requests for records within twenty (20) working days (excepting Saturdays, Sundays, and legal public holidays). The time limitations on responses to requests for records submitted by mail shall begin to run at the time a request for records is received and date stamped by the Office of the Secretariat. The Office of the Secretariat shall date stamp the request the same day that it receives the request. The time limitations on responses to requests for records submitted electronically during working hours (8 a.m. to 4:30 p.m. EST) shall begin to run at the time the request was electronically received, and the time limitations on responses to requests for records submitted electronically during non-working hours will begin to run when working hours resume.
 
 (b) The time for responding to requests for records may be extended by the Secretariat at the initial stage or by the General Counsel of the Commission at the appellate stage up to an additional ten (10) working days under the following unusual circumstances:

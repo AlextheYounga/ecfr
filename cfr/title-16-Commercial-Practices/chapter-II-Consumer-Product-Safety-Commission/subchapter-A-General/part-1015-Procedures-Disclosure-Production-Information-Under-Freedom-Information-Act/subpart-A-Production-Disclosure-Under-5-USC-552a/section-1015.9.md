@@ -1,5 +1,7 @@
 ##### § 1015.9 Fees for production of records. #####
 
+Link to an amendment published at 86 FR 7505, Jan. 29, 2021.
+
 (a) The Commission will provide, at no charge, certain routine information. For other Commission responses to information requests, the Secretariat shall determine and levy fees for duplication, search, review, and other services, in accordance with this section.
 
 (b) Fees shall be paid to the Treasury of the United States according to the directions provided by the Commission.
