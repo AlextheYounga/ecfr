@@ -1,6 +1,6 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 87 FR 43979, July 22, 2022.Link to an amendment published at 87 FR 45195, July 27, 2022.
+Link to an amendment published at 87 FR 45195, July 27, 2022.
 
 (a) *General applicability of an AEDM.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.62 may not distribute any basic model of such equipment in commerce unless the manufacturer has determined the energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model, the manufacturer may not knowingly use an AEDM to overrate the efficiency (or underrate the consumption) of the model.
 
@@ -474,4 +474,10 @@ Link to an amendment published at 87 FR 43979, July 22, 2022.Link to an amendmen
 
 (iii) Conduct certification testing of basic models selected by the Department.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017]
+(i) *Alternative determination of standby mode and off mode power consumption for untested basic models of consumer furnaces and consumer boilers.* For models of consumer furnaces or consumer boilers that have identical standby mode and off mode power consuming components, ratings for untested basic models may be established in accordance with the following procedures in lieu of testing. This method allows only for the use of ratings identical to those of a tested basic model as provided in paragraphs (i)(1) and (2) of this section; simulations or other modeling predictions for ratings for standby mode power consumption and off mode power consumption are not permitted.
+
+(1) *Consumer furnaces.* Rate the standby mode and off mode power consumption of an untested basic model of a consumer furnace using the standby mode and off mode power consumption obtained from a tested basic model as a basis for ratings if all aspects of the electrical components, controls, and design that impact the standby mode power consumption and off mode power consumption are identical.
+
+(2) *Consumer boilers.* Rate the standby mode and off mode power consumption of an untested basic model of a consumer boiler using the standby mode and off mode power consumption obtained from a tested basic model as a basis for ratings if all aspects of the electrical components, controls, and design that impact the standby mode power consumption and off mode power consumption are identical.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022]

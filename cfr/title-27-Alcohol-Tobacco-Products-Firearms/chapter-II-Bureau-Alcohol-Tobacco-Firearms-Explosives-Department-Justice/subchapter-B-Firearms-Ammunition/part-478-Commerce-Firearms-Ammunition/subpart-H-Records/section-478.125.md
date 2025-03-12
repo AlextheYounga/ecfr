@@ -1,6 +1,6 @@
 ##### § 478.125 Record of receipt and disposition. #####
 
-Link to an amendment published at 87 FR 24745, Apr. 26, 2022.
+Link to an amendment published at 87 FR 24745, Apr. 26, 2022.Link to a correction published at 87 FR 51250, Aug. 22, 2022.
 
 (a) *Armor piercing ammunition sales by licensed collectors to nonlicensees.* The sale or other disposition of armor piercing ammunition by licensed collectors shall be recorded in a bound record at the time a transaction is made. The bound record shall be maintained in chronological order by date of sale or disposition of the armor piercing ammunition, and shall be retained on the licensed premises of the licensee for a period not less than two years following the date of the recorded sale or disposition of the armor piercing ammunition. The bound record entry shall show:
 

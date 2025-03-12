@@ -1,6 +1,6 @@
 ##### § 479.102 How must firearms be identified? #####
 
-Link to an amendment published at 87 FR 24747, Apr. 26, 2022.
+Link to an amendment published at 87 FR 24747, Apr. 26, 2022.Link to a correction published at 87 FR 51250, Aug. 22, 2022.
 
 (a) You, as a manufacturer, importer, or maker of a firearm, must legibly identify the firearm as follows:
 

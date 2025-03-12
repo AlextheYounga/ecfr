@@ -1,65 +1,47 @@
-##### § 125.13 Who does SBA consider to control an SDVO SBC? #####
+##### § 125.13 Who does SBA consider to own an SDVO SBC? #####
 
-Link to an amendment published at 87 FR 43739, July 22, 2022.
+Generally, a concern must be at least 51% unconditionally and directly owned by one or more service-disabled veterans. More specifically:
 
-(a) *General.* To be an eligible SDVO SBC, the management and daily business operations of the concern must be controlled by one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran). Control by one or more service-disabled veterans means that both the long-term decisions making and the day-to-day management and administration of the business operations must be conducted by one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran).
+(a) *Ownership must be direct.* Ownership by one or more service disabled veterans must be direct ownership. A concern owned principally by another business entity that is in turn owned and controlled by one or more service-disabled veterans does not meet this requirement. Ownership by a trust, such as a living trust, may be treated as the functional equivalent of ownership by service-disabled veterans where the trust is revocable, and service-disabled veterans are the grantors, trustees, and the current beneficiaries of the trust.
 
-(b) *Managerial position and experience.* A service-disabled veteran (or in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran) must hold the highest officer position in the concern (usually President or Chief Executive Officer) and must have managerial experience of the extent and complexity needed to run the concern. The service-disabled veteran manager (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran) need not have the technical expertise or possess the required license to be found to control the concern if the service-disabled veteran can demonstrate that he or she has ultimate managerial and supervisory control over those who possess the required licenses or technical expertise.
+(b) *Ownership of a partnership.* In the case of a concern which is a partnership, at least 51% of aggregate voting interest must be unconditionally owned by one or more service-disabled veterans. The ownership must be reflected in the concern's partnership agreement.
 
-(c) *Control over a partnership.* In the case of a partnership, one or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran) must serve as general partners, with control over all partnership decisions.
+(c) *Ownership of a limited liability company.* In the case of a concern which is a limited liability company, at least 51% of each class of member interest must be unconditionally owned by one or more service-disabled veterans.
 
-(d) *Control over a limited liability company.* In the case of a limited liability company, one or more service-disabled veterans (or in the case of a veteran with permanent or severe disability, the spouse or permanent caregiver of such veteran) must serve as managing members, with control over all decisions of the limited liability company.
+(d) *Ownership of a corporation.* In the case of a concern which is a corporation, at least 51% of the aggregate of all stock outstanding and at least 51% of each class of voting stock outstanding must be unconditionally owned by one or more service-disabled veterans. In the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) must be unconditionally owned by one or more veterans.
 
-(e) *Control over a corporation.* One or more service-disabled veterans (or in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran) must control the Board of Directors of the concern.
+(e) *Stock options' effect on ownership.* In determining unconditional ownership, SBA will disregard any unexercised stock options or similar agreements held by service-disabled veterans. However, any unexercised stock options or similar agreements (including rights to convert non-voting stock or debentures into voting stock) held by non-service-disabled veterans sill be treated as exercised, except for any ownership interests which are held by investment companies licensed under the Small Business Investment Act of 1958.
 
-(1) SBA will deem service-disabled veteran individuals to control the Board of Directors where:
+(f) *Change of ownership.* A concern may change its ownership or business structure so long as one or more service-disabled veterans own and control it after the change.
 
-(i) A single service-disabled veteran individual owns 100% of all voting stock of an applicant or concern;
+(g) *Dividends and distributions.* One or more service-disabled veterans must be entitled to receive:
 
-(ii) A single service-disabled veteran individual owns at least 51% of all voting stock of an applicant or concern, the individual is on the Board of Directors and no super majority voting requirements exist for shareholders to approve corporation actions. Where super majority voting requirements are provided for in the concern's articles of incorporation, its by-laws, or by state law, the service-disabled veteran individual must own at least the percent of the voting stock needed to overcome any such super majority voting requirements; or
+(1) At least 51 percent of the annual distribution of profits paid to the owners of a corporation, partnership, or limited liability company concern;
 
-(iii) More than one service-disabled veteran shareholder seeks to qualify the concern (*i.e.,* no one individual owns 51%), each such individual is on the Board of Directors, together they own at least 51% of all voting stock of the concern, no super majority voting requirements exist, and the service-disabled veteran shareholders can demonstrate that they have made enforceable arrangements to permit one of them to vote the stock of all as a block without a shareholder meeting. Where the concern has super majority voting requirements, the service-disabled veteran shareholders must own at least that percentage of voting stock needed to overcome any such super majority ownership requirements. In the case of super majority ownership requirements, the service-disabled veteran shareholders can demonstrate that they have made enforceable arrangements to permit one of them to vote the stock of all as a block without a shareholder meeting.
+(2) 100 percent of the value of each share of stock owned by them in the event that the stock or member interest is sold; and
 
-(2) Where an applicant or concern does not meet the requirements set forth in paragraph (e)(1) of this section, the service-disabled veteran individual(s) upon whom eligibility is based must control the Board of Directors through actual numbers of voting directors or, where permitted by state law, through weighted voting (*e.g.,* in a concern having a two-person Board of Directors where one individual on the Board is service-disabled veteran and one is not, the service-disabled veteran vote must be weighted - worth more than one vote - in order for the concern to be eligible). Where a concern seeks to comply with this paragraph (e)(2):
+(3) At least 51 percent of the retained earnings of the concern and 100 percent of the unencumbered value of each share of stock or member interest owned in the event of dissolution of the corporation, partnership, or limited liability company.
 
-(i) Provisions for the establishment of a quorum cannot permit non-service-disabled veteran Directors to control the Board of Directors, directly or indirectly; and
+(4) An eligible individual's ability to share in the profits of the concern must be commensurate with the extent of his/her ownership interest in that concern.
 
-(ii) Any Executive Committee of Directors must be controlled by service-disabled veteran directors unless the Executive Committee can only make recommendations to and cannot independently exercise the authority of the Board of Directors.
+(h) *Community property.* Ownership will be determined without regard to community property laws.
 
-(3) Non-voting, advisory, or honorary Directors may be appointed without affecting service-disabled veteran individuals' control of the Board of Directors.
+(i) *Surviving spouse.* (1) A small business concern owned and controlled by one or more service-disabled veterans immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, will continue to qualify as a small business concern owned and controlled by service-disabled veterans during the time period if:
 
-(4) Arrangements regarding the structure and voting rights of the Board of Directors must comply with applicable state law.
+(i) The surviving spouse of the deceased veteran acquires such veteran's ownership interest in such concern;
 
-(f) *Super majority requirements.* One or more service-disabled veterans must meet all super majority voting requirements. An applicant must inform the Department of Veterans Affairs, when applicable, of any super majority voting requirements provided for in its articles of incorporation, its by-laws, by state law, or otherwise. Similarly, after being verified, a participant must inform the Department of Veterans Affairs of changes regarding super majority voting requirements.
+(ii) Such veteran had a service-connected disability (as defined in section 101(16) of title 38, United States Code); and
 
-(g) *Licenses.* A firm must obtain and keep current any and all required permits, licenses, and charters, required to operate the business.
+(iii) For a participant, immediately prior to the death of such veteran, and during the period described in paragraph (i)(2) of this section, the small business concern is included in the database described in 38 U.S.C. 8127(f).
 
-(h) *Unexercised rights.* A service-disabled veteran owner's unexercised right to cause a change in the control or management of the applicant concern does not in itself constitute control and management, regardless of how quickly or easily the right could be exercised.
+(2) The time period described in paragraph (i)(1)(iii) of this section is the time period beginning on the date of the veteran's death and ending on the earlier of -
 
-(i) *Control by non-service-disabled veterans.* Non-service-disabled veteran individuals or entities may not control the firm. There is a rebuttable presumption that non-service-disabled veteran individuals or entities control or have the power to control a firm in any of the following circumstances, which are illustrative only and not inclusive:
+(i) The date on which the surviving spouse remarries;
 
-(1) The non-service-disabled veteran individual or entity who is involved in the management or ownership of the firm is a current or former employer or a principal of a current or former employer of any service-disabled veteran individual upon whom the firm's eligibility is based. However, a firm may provide evidence to demonstrate that the relationship does not give the non-service-disabled veteran actual control over the concern and such relationship is in the best interests of the concern.
+(ii) The date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
 
-(2) One or more non-service-disabled veterans receive compensation from the firm in any form as directors, officers or employees, including dividends, that exceeds the compensation to be received by the highest-ranking officer (usually CEO or President). The highest ranking officer may elect to take a lower amount than the total compensation and distribution of profits that are received by a non-veteran only upon demonstrating that it helps the concern.
+(iii) In the case of a surviving spouse of a veteran with a service-connected disability rated as 100 percent disabling or who dies as a result of a service-connected disability, is 10 years after the date of the death of the veteran; or
 
-(3) In circumstances where the concern is co-located with another firm in the same or similar line of business, and that firm or an owner, director, officer, or manager, or a direct relative of an owner, director, officer, or manager of that firm owns an equity interest in the concern.
+(iv) In the case of a surviving spouse of a veteran with a service-connected disability rated as less than 100 percent disabling who does not die as a result of a service-connected disability, is 3 years after the date of the death of the veteran.
 
-(4) In circumstances where the concern shares employees, resources, equipment, or any type of services, whether by oral or written agreement with another firm in the same or similar line of business, and that firm or an owner, director, officer, or manager, or a direct relative of an owner, director, officer, or manager of that firm owns an equity interest in the concern.
-
-(5) A non-service-disabled veteran individual or entity, having an equity interest in the concern, provides critical financial or bonding support.
-
-(6) In circumstances where a critical license is held by a non-service-disabled individual, or other entity, the non-service-disabled individual or entity may be found to control the firm. A critical license is considered any license that would normally be required of firms operating in the same field or industry, regardless of whether a specific license is required on a specific contract.
-
-(7) Business relationships exist with non-service-disabled veteran individuals or entities which cause such dependence that the applicant or concern cannot exercise independent business judgment without great economic risk.
-
-(j) *Critical financing.* A non-service-disabled veteran individual or entity may be found to control the concern through loan arrangements with the concern or the service-disabled veteran(s). Providing a loan or a loan guaranty on commercially reasonable terms does not, by itself, give a non-service-disabled veteran individual or entity the power to control a firm, but when taken into consideration with other factors may be used to find that a non-service-disabled firm or individual controls the concern.
-
-(k) *Normal business hours.* There is a rebuttable presumption that a service-disabled veteran does not control the firm when the service-disabled veteran is not able to work for the firm during the normal working hours that businesses in that industry normally work. This may include, but is not limited to, other full-time or part-time employment, being a full-time or part-time student, or any other activity or obligation that prevents the service-disabled veteran from actively working for the firm during normal business operating hours.
-
-(l) *Close proximity.* There is rebuttable presumption that a service-disabled veteran does not control the firm if that individual is not located within a reasonable commute to firm's headquarters and/or job-sites locations, regardless of the firm's industry. The service-disabled veteran's ability to answer emails, communicate by telephone, or to communicate at a distance by other technological means, while delegating the responsibility of managing the concern to others is not by itself a reasonable rebuttal.
-
-(m) *Exception for “extraordinary circumstances.”* SBA will not find that a lack of control exists where a service-disabled veteran does not have the unilateral power and authority to make decisions in “extraordinary circumstances.” The only circumstances in which this exception applies are those articulated in the definition.
-
-(n) *Exception for active duty.* Notwithstanding the provisions of this section requiring a service-disabled veteran to control the daily business operations and long-term strategic planning of a concern, where a service-disabled veteran individual upon whom eligibility is based is a reserve component member in the United States military who has been called to active duty, the concern may elect to designate in writing one or more individuals to control the concern on behalf of the service-disabled veteran during the period of active duty. The concern will not be considered ineligible based on the absence of the service-disabled veteran during the period of active duty. The concern must keep records evidencing the active duty and the written designation of control, and provide those documents to VA, and if requested to SBA.
-
-[69 FR 25267, May 5, 2004. Redesignated at 81 FR 48585, July 25, 2016. Amended at 83 FR 48914, Sept. 28, 2018]
+[69 FR 25267, May 5, 2004. Redesignated at 81 FR 48585, July 25, 2016. Amended at 83 FR 48913, Sept. 28, 2018; 86 FR 61672, Nov. 8, 2021. Redesignated at 87 FR 43739, July 22, 2022]

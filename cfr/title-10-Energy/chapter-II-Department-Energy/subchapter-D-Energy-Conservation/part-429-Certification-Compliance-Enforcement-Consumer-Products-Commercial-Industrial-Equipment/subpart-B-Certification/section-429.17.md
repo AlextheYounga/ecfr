@@ -1,12 +1,14 @@
 ##### § 429.17 Water heaters. #####
 
-Link to an amendment published at 87 FR 43977, July 22, 2022.
+Note 1 to § 429.17:
+
+Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.17 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
 (a) *Determination of represented value.* (1) Manufacturers must determine the represented value for each water heater by applying an AEDM in accordance with 10 CFR 429.70 or by testing for the uniform energy factor, in conjunction with the applicable sampling provisions as follows:
 
 (i) If the represented value is determined through testing, the general requirements of 10 CFR 429.11 are applicable; and
 
-(ii) For each basic model selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that -
+(ii) For each basic model selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
 (A) Any represented value of the estimated annual operating cost or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
@@ -46,4 +48,6 @@ And *x* is the sample mean; s is the sample standard deviation; n is the number 
 
 (iii) For grid-enabled water heater basic models: The uniform energy factor (UEF, rounded to the nearest 0.01), the rated storage volume in gallons (gal, rounded to the nearest 1 gal), the first-hour rating in gallons (gal, rounded to the nearest 1 gal), the recovery efficiency in percent (%, rounded to the nearest 1%), a declaration that the model is a grid-enabled water heater, whether it is equipped at the point of manufacture with an activation lock, and whether it bears a permanent label applied by the manufacturer that advises purchasers and end-users of the intended and appropriate use of the product.
 
-[81 FR 96235, Dec. 29, 2016]
+(c) *Reporting of annual shipments for grid-enabled water heaters.* Pursuant to 42 U.S.C. 6295(e)(6)(C)(i), manufacturers of grid-enabled water heaters must report the total number of grid-enabled water heater units shipped for sale in the U.S. by the manufacturer for the previous calendar year (*i.e.,* January 1st through December 31st), as well as the calendar year that the shipments cover, starting on or before May 1, 2023, and annually on or before May 1 each year thereafter. This information shall be reported separately from the certification report required under paragraph (b)(2) of this section, and must be submitted to DOE in accordance with the submission procedures set forth in § 429.12(h). DOE will consider the annual reported shipments to be confidential business information without the need for the manufacturer to request confidential treatment of the information pursuant to § 429.7(c).
+
+[81 FR 96235, Dec. 29, 2016, as amended at 87 FR 43977, July 22, 2022]

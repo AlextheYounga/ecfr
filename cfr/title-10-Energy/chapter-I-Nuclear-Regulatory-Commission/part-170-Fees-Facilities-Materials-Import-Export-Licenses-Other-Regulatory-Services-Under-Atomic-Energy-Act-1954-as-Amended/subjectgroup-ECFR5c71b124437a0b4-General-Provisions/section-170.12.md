@@ -1,10 +1,8 @@
 ##### § 170.12 Payment of fees. #####
 
-Link to an amendment published at 87 FR 37214, June 22, 2022.
-
 (a) *Application and registration fees.* Each application or registration for which a fee is prescribed must be accompanied by a remittance for the full amount of the fee. The NRC will not issue a new license or an amendment increasing the scope of an existing license to a higher fee category before receiving the prescribed application fee. The application or registration fee(s) is charged whether the Commission approves the application or not. The application or registration fee(s) is also charged if the applicant withdraws the application or registration.
 
-(b) *Licensing fees.* (1) Licensing fees will be assessed to recover full costs for -
+(b) *Licensing fees.* (1) Licensing fees will be assessed to recover full costs for—
 
 (i) The review of applications for new licenses and approvals;
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 37214, June 22, 2022.
 
 (2) Full cost fees will be determined based on the professional staff time and appropriate contractual support services expended. The full cost fees for professional staff time will be determined at the professional hourly rates in effect the time the service was provided. The full cost fees are payable upon notification by the Commission.
 
-(3) The NRC intends to bill each applicant or licensee at quarterly intervals for all accumulated costs for each application the applicant or licensee has on file for NRC review, until the review is completed.
+(3) The NRC intends to bill each applicant or licensee at quarterly intervals for all accumulated costs for each application the applicant or licensee has on file for NRC review, until the review has been brought to an end, whether by issuance of a permit, license, approval, certificate, exemption, or other form of permission; by denial, withdrawal, or suspension of review of the application; or by postponement of action on the application by the applicant.
 
 (4) The NRC intends to bill each applicant or licensee for costs related to project manager time on a quarterly basis. Each bill will identify the costs related to project manager time.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 37214, June 22, 2022.
 
 (3) The NRC intends to bill for resident inspectors' time and for specific inspections subject to full cost recovery on a quarterly basis. The fees are payable upon notification by the Commission.
 
-(d) *Special project fees.* (1) All special projects performed by the Commission, unless otherwise exempt from fees or for which fees are otherwise specified in this part, will be assessed fees to recover the full cost of the service provided. Special projects means specific services provided by the Commission, including but not limited to -
+(d) *Special project fees.* (1) All special projects performed by the Commission, unless otherwise exempt from fees or for which fees are otherwise specified in this part, will be assessed fees to recover the full cost of the service provided. Special projects means specific services provided by the Commission, including but not limited to—
 
 (i) Topical reports;
 
@@ -46,8 +44,8 @@ Link to an amendment published at 87 FR 37214, June 22, 2022.
 
 (e) *Part 55 review fees.* Fees for Part 55 review services are based on NRC time spent in administering the examinations and tests and any related contractual costs. The fees assessed will also include related activities such as preparing, reviewing, and grading of the examinations and tests. The NRC intends to bill the costs at quarterly intervals to the licensee employing the operators.
 
-(f) *Method of payment.* All license fee payments are to be made payable to the U.S. Nuclear Regulatory Commission. The payments are to be made in U.S. funds by electronic funds transfer such as ACH (Automated Clearing House) using E.D.I. (Electronic Data Interchange), check, draft, money order, or credit card. Payment of invoices of $5,000 or more should be paid via ACH through NRC's Lockbox Bank at the address indicated on the invoice. Credit card payments should be made up to the limit established by the credit card bank at the address indicated on the invoice. Specific written instructions for making electronic payments and credit card payments may be obtained by contacting the License Fee and Accounts Receivable Branch at 301-415-7554. In accordance with Department of the Treasury requirements, refunds will only be made upon receipt of information on the payee's financial institution and bank accounts.
+(f) *Method of payment.* All fee payments under 10 CFR part 170 are to be made payable to the U.S. Nuclear Regulatory Commission. The payments are to be made in U.S. funds by electronic funds transfer such as ACH (Automated Clearing House) using E.D.I. (Electronic Data Interchange), check, draft, money order, or credit card (submit electronic payment at *www.Pay.gov* or manual payment using the NRC Form 629, “Authorization for Payment by Credit Card”). Payment of invoices of $5,000 or more should be paid via ACH through the NRC's Lockbox Bank at the address indicated on the invoice. Credit card payments should be made up to the limit established by the credit card bank at the address indicated on the invoice. Specific written instructions for making electronic payments and credit card payments may be obtained by contacting the Office of the Chief Financial Officer at 301-415-7554. In accordance with Department of the Treasury requirements, refunds will only be made upon receipt of information on the payee's financial institution and bank accounts.
 
 (g) *Collection of underpayment of fees.* The NRC is entitled to collect any underpayment of fees as a result of an error by the NRC.
 
-[64 FR 31469, June 10, 1999, as amended at 65 FR 11204, Mar. 2, 2000; 65 FR 36959, June 12, 2000; 66 FR 32469, June 14, 2001; 67 FR 64037, Oct. 17, 2002; 72 FR 31420, June 6, 2007; 79 FR 37144, June 30, 2014; 81 FR 41186, June 24, 2016]
+[64 FR 31469, June 10, 1999, as amended at 65 FR 11204, Mar. 2, 2000; 65 FR 36959, June 12, 2000; 66 FR 32469, June 14, 2001; 67 FR 64037, Oct. 17, 2002; 72 FR 31420, June 6, 2007; 79 FR 37144, June 30, 2014; 81 FR 41186, June 24, 2016; 87 FR 37214, June 22, 2022]

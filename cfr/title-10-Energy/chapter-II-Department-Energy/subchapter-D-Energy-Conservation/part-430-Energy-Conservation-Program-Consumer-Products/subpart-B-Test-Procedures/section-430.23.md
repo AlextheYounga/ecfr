@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 50424, Aug. 16, 2022.Link to an amendment published at 87 FR 51221, Aug. 19, 2022.
+Link to an amendment published at 87 FR 50424, Aug. 16, 2022.Link to an amendment published at 87 FR 51221, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -230,13 +230,21 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (ii) A representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary. Round the resulting product to the nearest dollar per year.
 
-(g) *Unvented home heating equipment.* (1) The estimated annual operating cost for primary electric heaters, shall be the product of: (i) The average annual electric energy consumption in kilowatt-hours per year, determined according to section 3.1 of appendix G of this subpart and (ii) the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting product then being rounded off to the nearest dollar per year.
+(g) *Unvented home heating equipment.* (1) The estimated annual operating cost for primary electric heaters, shall be the product of:
+
+(i) The average annual electric energy consumption in kilowatt-hours per year, determined according to section 3.1 of appendix G of this subpart and
+
+(ii) the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting product then being rounded off to the nearest dollar per year.
 
 (2) The estimated regional annual operating cost for primary electric heaters, shall be the product of: (i) The regional annual electric energy consumption in kilowatt-hours per year for primary heaters determined according to section 3.2 of appendix G of this subpart and (ii) the representative average unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting product then being rounded off to the nearest dollar per year.
 
 (3) The estimated operating cost per million Btu output shall be -
 
-(i) For primary and supplementary electric heaters and unvented gas and oil heaters without an auxiliary electric system, the product of: (A) One million; and (B) the representative unit cost in dollars per Btu for natural gas, propane, or oil, as provided pursuant to section 323(b)(2) of the Act as appropriate, or the quotient of the representative unit cost in dollars per kilowatt-hour, as provided pursuant to section 323(b)(2) of the Act, divided by 3,412 Btu per kilowatt hour, the resulting product then being rounded off to the nearest 0.01 dollar per million Btu output; and
+(i) For primary and supplementary electric heaters and unvented gas and oil heaters without an auxiliary electric system, the product of:
+
+(A) One million; and
+
+(B) The representative unit cost in dollars per Btu for natural gas, propane, or oil, as provided pursuant to section 323(b)(2) of the Act as appropriate, or the quotient of the representative unit cost in dollars per kilowatt-hour, as provided pursuant to section 323(b)(2) of the Act, divided by 3,412 Btu per kilowatt hour, the resulting product then being rounded off to the nearest 0.01 dollar per million Btu output; and
 
 (ii) For unvented gas and oil heaters with an auxiliary electric system, the product of: (A) The quotient of one million divided by the rated output in Btu's per hour as determined in 3.4 of appendix G of this subpart; and (B) the sum of: (*1*) The product of the maximum fuel input in Btu's per hour as determined in 2.2. of this appendix times the representative unit cost in dollars per Btu for natural gas, propane, or oil, as appropriate, as provided pursuant to section 323(b)(2) of the Act, plus (*2*) the product of the maximum auxiliary electric power in kilowatts as determined in 2.1 of appendix G of this subpart times the representative unit cost in dollars per kilowatt-hour as provided pursuant to section 323(b)(2) of the Act, the resulting quantity shall be rounded off to the nearest 0.01 dollar per million Btu output.
 

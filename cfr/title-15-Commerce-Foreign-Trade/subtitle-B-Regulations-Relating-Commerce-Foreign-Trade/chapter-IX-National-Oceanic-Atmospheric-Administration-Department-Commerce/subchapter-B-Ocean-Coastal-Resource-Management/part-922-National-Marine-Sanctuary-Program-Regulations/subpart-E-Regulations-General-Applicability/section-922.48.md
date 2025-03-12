@@ -1,8 +1,6 @@
-##### § 922.48 National Marine Sanctuary permits - application procedures and issuance criteria. #####
+##### § 922.48 National Marine Sanctuary permits—application procedures and issuance criteria. #####
 
-Link to an amendment published at 86 FR 32753, June 23, 2021.
-
-(a) A person may conduct an activity prohibited by subparts F through O and S and T of this part, if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subparts F through O and S and T, as appropriate. For the Florida Keys National Marine Sanctuary, a person may conduct an activity prohibited by subpart P of this part if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.166. For the Thunder Bay National Marine Sanctuary and Underwater Preserve, a person may conduct an activity prohibited by subpart R of this part in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.195.
+(a) A person may conduct an activity prohibited by subparts F through O and S and T of this part, if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under this section and subparts F through O and S and T, as appropriate. For Florida Keys National Marine Sanctuary, a person may conduct an activity prohibited by subpart P of this part if conducted in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.166. For Thunder Bay National Marine Sanctuary and Underwater Preserve, a person may conduct an activity prohibited by subpart R of this part in accordance with the scope, purpose, terms and conditions of a permit issued under § 922.195.
 
 (b) Applications for permits to conduct activities otherwise prohibited by subparts F through O and S and T of this part, should be addressed to the Director and sent to the address specified in subparts F through O of this part, or subparts R through T of this part, as appropriate. An application must include:
 
@@ -24,4 +22,4 @@ Link to an amendment published at 86 FR 32753, June 23, 2021.
 
 (f) The Director may amend, suspend, or revoke a permit issued pursuant to this section for good cause. The Director may deny a permit application pursuant to this section, in whole or in part, if it is determined that the permittee or applicant has acted in violation of the terms and conditions of a permit or of the regulations set forth in this section or subparts F through O of this part, or subparts R through T of this part or for other good cause. Any such action shall be communicated in writing to the permittee or applicant by certified mail and shall set forth the reason(s) for the action taken. Procedures governing permit sanctions and denials for enforcement reasons are set forth in subpart D of 15 CFR part 904.
 
-[84 FR 32601, July 8, 2019]
+[86 FR 32753, June 23, 2021]

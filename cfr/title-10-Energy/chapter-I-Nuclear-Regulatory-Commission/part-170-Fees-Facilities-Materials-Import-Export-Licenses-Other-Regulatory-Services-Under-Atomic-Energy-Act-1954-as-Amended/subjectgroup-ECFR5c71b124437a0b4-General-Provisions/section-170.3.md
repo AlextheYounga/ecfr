@@ -1,7 +1,5 @@
 ##### § 170.3 Definitions. #####
 
-Link to an amendment published at 87 FR 37214, June 22, 2022.
-
 As used in this part:
 
 *Act* means the Atomic Energy Act of 1954 (68 Stat. 919) including any amendments thereto;
@@ -12,19 +10,19 @@ As used in this part:
 
 *Application* means any request filed with the Commission for a permit, license, approval, exemption, certificate, other permission, or for any other service.
 
-*Byproduct material* means -
+*Byproduct material* means—
 
 (1) Any radioactive material (except special nuclear material) yielded in, or made radioactive by, exposure to the radiation incident to the process of producing or using special nuclear material;
 
 (2)(i) Any discrete source of radium-226 that is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; or
 
-(ii) Any material that -
+(ii) Any material that—
 
 (A) Has been made radioactive by use of a particle accelerator; and
 
 (B) Is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
 
-(3) Any discrete source of naturally occurring radioactive material, other than source material, that -
+(3) Any discrete source of naturally occurring radioactive material, other than source material, that—
 
 (i) The Commission, in consultation with the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of Homeland Security, and the head of any other appropriate Federal agency, determines would pose a threat similar to the threat posed by a discrete source of radium-226 to the public health and safety or the common defense and security; and
 
@@ -89,8 +87,6 @@ As used in this part:
 (iii) Facilities in which processing is conducted pursuant to a license issued under parts 30 and 70 of this chapter, or equivalent regulations of an Agreement State, for the receipt, possession, use, and transfer of irradiated special nuclear material, which authorizes the processing of the irradiated material on a batch basis for the separation of selected fission products and limits the process batch to not more than 100 grams of uranium enriched in the isotope 235 and not more than 15 grams of any other special nuclear material.
 
 *Research reactor* means a nuclear reactor licensed by the Commission under the authority of subsection 104c of the Act and pursuant to the provisions of § 50.21(c) of this chapter for operation at a thermal power level of 10 megawatts or less, and which is not a *testing facility* as defined in this section.
-
-The phrase *review is completed* as used in this part means that the review has been brought to an end, whether by reason of issuance of a permit, license, approval, certificate, exemption, or other form of permission, or whether the application is denied, withdrawn, suspended, or action on the application is postponed by the applicant.
 
 *Sealed source* means any byproduct material that is encased in a capsule designed to prevent leakage or escape of the byproduct material.
 

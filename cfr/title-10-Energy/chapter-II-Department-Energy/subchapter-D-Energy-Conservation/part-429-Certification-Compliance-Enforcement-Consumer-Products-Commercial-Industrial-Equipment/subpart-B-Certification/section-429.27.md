@@ -1,6 +1,8 @@
 ##### § 429.27 General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps. #####
 
-Link to an amendment published at 87 FR 43978, July 22, 2022.
+Note 1 to § 429.27:
+
+Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.27 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to general service fluorescent lamps, general service incandescent lamps and incandescent reflector lamps; and
 
@@ -46,10 +48,10 @@ Or,
 
 (i) General service fluorescent lamps: The testing laboratory's ILAC accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, production dates of the units tested, the 12-month average lamp efficacy in lumens per watt (lm/W), lamp wattage (W), correlated color temperature in Kelvin (K), and the 12-month average Color Rendering Index (CRI).
 
-(ii) Incandescent reflector lamps: The testing laboratory's ILAC accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, production dates of the units tested, the 12-month average lamp efficacy in lumens per watt (lm/W), and lamp wattage (W).
+(ii) For incandescent reflector lamps: The testing laboratory's International Laboratory Accreditation Cooperation (ILAC) accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, production dates of the units tested, the 12-month average lamp efficacy in lumens per watt (lm/W), lamp wattage (W), rated voltage (V), diameter in inches, and CRI.
 
-(iii) General service incandescent lamps: The testing laboratory's ILAC accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, production dates of the units tested, the 12-month average maximum rate wattage in watts (W), the 12-month average minimum rated lifetime (hours), and the 12-month average Color Rendering Index (CRI).
+(iii) For general service incandescent lamps: The testing laboratory's ILAC accreditation body's identification number or other approved identification assigned by the ILAC accreditation body, production dates of the units tested, the 12-month average maximum rate wattage in watts (W), the 12-month average minimum rated lifetime (hours), the 12-month average CRI, and initial lumen output in lumens (lm).
 
 (c) *Test data.* Manufacturers must include the production date codes and the accompanying decoding scheme corresponding to all of the units tested for a given basic model in the detailed test records maintained under § 429.71.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24770, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 77 FR 4215, Jan. 27, 2012; 81 FR 72503, Oct. 20, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24770, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 77 FR 4215, Jan. 27, 2012; 81 FR 72503, Oct. 20, 2016; 87 FR 43978, July 22, 2022]

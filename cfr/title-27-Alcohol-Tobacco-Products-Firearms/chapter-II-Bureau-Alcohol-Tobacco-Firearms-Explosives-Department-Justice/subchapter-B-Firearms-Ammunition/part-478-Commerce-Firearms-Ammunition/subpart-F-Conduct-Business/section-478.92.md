@@ -1,6 +1,6 @@
 ##### § 478.92 Identification of firearms and armor piercing ammunition by licensed manufacturers and licensed importers. #####
 
-Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
+Link to an amendment published at 87 FR 24741, Apr. 26, 2022.Link to a correction published at 87 FR 51250, Aug. 22, 2022.
 
 (a)(1) *Firearms.* You, as a licensed manufacturer or licensed importer of firearms, must legibly identify each firearm manufactured or imported as follows:
 

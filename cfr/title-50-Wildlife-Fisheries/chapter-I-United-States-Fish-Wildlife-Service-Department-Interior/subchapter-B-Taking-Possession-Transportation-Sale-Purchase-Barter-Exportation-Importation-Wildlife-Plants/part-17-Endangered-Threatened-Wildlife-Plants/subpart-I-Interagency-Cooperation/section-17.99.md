@@ -7831,7 +7831,7 @@ Molokai--Coastal--Unit 1, Molokai--Coastal--Unit 2, Molokai--Coastal--Unit 3, Mo
 
 ![](/graphics/er30mr16.105.gif)![](/graphics/er30mr16.106.gif)
 
-(xxix) OCCUPANCY OF SPECIES BY DESIGNATED CRITICAL HABITAT UNITS FOR MAUI
+(xxix) Occupancy of Species by Designated Critical Habitat Units for Maui
 
 |          Unit name          |              Species occupied              |             Species unoccupied              |
 |-----------------------------|--------------------------------------------|---------------------------------------------|
@@ -18950,4 +18950,4 @@ Hawaii 28 - *Adenophorus periens -* a, identified in the legal description in pa
 
 (ii) Elevations between 675 and 921 m (2,215 and 3,021 ft).
 
-[68 FR 9241, Feb. 27, 2003, as amended at 68 FR 13055, Mar. 18, 2003; 68 FR 26038, May 14, 2003; 68 FR 28072, May 22, 2003; 68 FR 36080, June 17, 2003; 68 FR 39704, July 2, 2003; 75 FR 19097, Apr. 13, 2010; 77 FR 57767, Sept. 18, 2012]
+[68 FR 9241, Feb. 27, 2003, as amended at 68 FR 13055, Mar. 18, 2003; 68 FR 26038, May 14, 2003; 68 FR 28072, May 22, 2003; 68 FR 36080, June 17, 2003; 68 FR 39704, July 2, 2003; 75 FR 19097, Apr. 13, 2010; 77 FR 57767, Sept. 18, 2012. Redesignated at 85 FR 82388, Dec. 18, 2020]

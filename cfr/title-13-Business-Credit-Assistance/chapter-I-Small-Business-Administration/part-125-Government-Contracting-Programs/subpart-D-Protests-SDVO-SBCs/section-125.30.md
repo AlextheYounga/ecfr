@@ -1,7 +1,5 @@
 ##### § 125.30 How will SBA process an SDVO protest? #####
 
-Link to an amendment published at 87 FR 43740, July 22, 2022.
-
 (a) *Notice of receipt of protest.* Upon receipt of the protest, SBA will notify the contracting officer and the protester of the date SBA received the protest and whether SBA will process the protest or dismiss it under paragraph (b) of this section.
 
 (b) *Dismissal of protest.* If SBA determines that the protest is premature, untimely, nonspecific, or is based on non-protestable allegations, SBA will dismiss the protest and will send the contracting officer and the protester a notice of dismissal, citing the reason(s) for the dismissal. The dismissal notice must also advise the protester of his/her right to appeal the dismissal to SBA's Office of Hearings and Appeals (OHA) in accordance with part 134 of this chapter.
@@ -32,6 +30,6 @@ Link to an amendment published at 87 FR 43740, July 22, 2022.
 
 (3) The contracting officer must update the Federal Procurement Data System and other procurement reporting databases to reflect the final agency decision (the D/GC's decision if no appeal is filed or OHA's decision).
 
-(4) A concern found to be ineligible may not submit an offer as an SDVO SBC on a future procurement unless it demonstrates to SBA's satisfaction that it has overcome the reasons for the protest (*e.g.,* it changes its ownership to satisfy the definition of an SDVO SBC set forth in § 125.8) and SBA issues a decision to this effect.
+(4) A concern found to be ineligible may not submit an offer as an SDVO SBC on a future procurement unless it demonstrates to SBA's satisfaction that it has overcome the reasons for the protest (*e.g.,* it changes its ownership to satisfy the definition of an SDVO SBC set forth in § 125.12) and SBA issues a decision to this effect.
 
-[70 FR 14528, Mar. 23, 2005, as amended at 76 FR 5684, Feb. 2, 2011. Redesignated at 81 FR 48585, July 25, 2016]
+[70 FR 14528, Mar. 23, 2005, as amended at 76 FR 5684, Feb. 2, 2011. Redesignated at 81 FR 48585, July 25, 2016. Amended at 87 FR 43740, July 22, 2022]

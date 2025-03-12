@@ -8,7 +8,7 @@
 
 (1) *Definition.* For purposes of this paragraph (c), a “graduated basis” means that the compensation a common carrier pays to a multiunit premise owner for each tenant served increases as the total number of tenants served by the common carrier in the multiunit premise increases.
 
-(2) *Compliance dates* - (i) *Compliance date for new contracts.* After April 27, 2022, no common carrier shall enter into any contract regarding the provision of communications service in a multiunit premise, written or oral, in which it gives the multiunit premise owner compensation on a graduated basis.
+(2) *Compliance dates*—(i) *Compliance date for new contracts.* After April 27, 2022, no common carrier shall enter into any contract regarding the provision of communications service in a multiunit premise, written or oral, in which it gives the multiunit premise owner compensation on a graduated basis.
 
 (ii) *Compliance date for existing contracts.* After September 26, 2022, no common carrier shall enforce any contract regarding the provision of communications service in a multiunit premise, written or oral, in existence as of April 27, 2022, in which it gives the multiunit premise owner compensation on a graduated basis.
 
@@ -28,8 +28,8 @@
 
 (iii) Be made in a manner that it is clear, conspicuous, and legible.
 
-(2)(i) *Compliance date for new contracts.* Paragraph (e) of this section contains an information-collection and/or recordkeeping requirement. Compliance with paragraph (e) will not be required for new contracts until this paragraph (e)(2)(i) is removed or contains a compliance date for new contracts, which will not occur until after the Office of Management and Budget completes its review of such requirements pursuant to the Paperwork Reduction Act.
+(2)(i) *Compliance date for new contracts.* After August 22, 2022, a common carrier shall disclose the existence of any contract entered into on or after April 27, 2022, regarding the provision of communications service in a multiunit premise, written or oral, in which it receives the exclusive right to market its service to tenants of a multiunit premise.
 
-(ii) *Compliance date for existing contracts.* For contracts in existence as of the compliance date for new contracts in paragraph (e)(2)(i) of this section, compliance with paragraph (e) of this section will not be required until the later of September 26, 2022 or the date that the Office of Management and Budget completes its review of the requirements in paragraph (e) pursuant to the Paperwork Reduction Act.
+(ii) *Compliance date for existing contracts.* After September 26, 2022, a common carrier shall disclose the existence of any contract in existence as of April 27, 2022, regarding the provision of communications service in a multiunit premise, written or oral, in which it receives the exclusive right to market its service to tenants of a multiunit premise.
 
-[73 FR 28057, May 15, 2008, as amended at 87 FR 17193, Mar. 28, 2022]
+[73 FR 28057, May 15, 2008, as amended at 87 FR 17193, Mar. 28, 2022; 87 FR 51268, Aug. 22, 2022]
