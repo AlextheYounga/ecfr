@@ -1,5 +1,7 @@
 ##### § 401.220 Registration of pilots. #####
 
+Link to an amendment published at 83 FR 26192, June 5, 2018.
+
 (a) The Director shall determine the number of pilots required to be registered in order to assure adequate and efficient pilotage service in the United States waters of the Great Lakes and to provide for equitable participation of United States Registered Pilots with Canadian Registered Pilots in the rendering of pilotage services.
 
 (b) Registration of pilots shall be made from among those Applicant Pilots who have (1) completed the minimum number of trips prescribed by the Commandant over the waters for which application is made on oceangoing vessels, in company with a Registered Pilot, within 1 year of date of application, (2) completed a course of instruction for Applicant Pilots prescribed by the association authorized to establish the pilotage pool, (3) satisfactorily completed a written examination prescribed by the Commandant, evidencing his knowledge and understanding of the Great Lakes Pilotage Regulations, Rules and Orders; the Memorandum of Arrangements, Great Lakes Pilotage, between the United States and Canada; and other related matters including the working rules and operating procedures of his district, given at such time and place as the Commandant may designate within the pilotage district of the Applicant Pilot.

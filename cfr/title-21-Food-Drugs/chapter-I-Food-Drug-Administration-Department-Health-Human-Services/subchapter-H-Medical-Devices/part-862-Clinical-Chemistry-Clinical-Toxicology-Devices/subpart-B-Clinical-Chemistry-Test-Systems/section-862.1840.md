@@ -2,7 +2,7 @@
 
 (a) *Identification.* A total 25-hydroxyvitamin D mass spectrometry test system is a device intended for use in clinical laboratories for the quantitative determination of total 25-hydroxyvitamin D (25-OH-D) in serum or plasma to be used in the assessment of vitamin D sufficiency.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in part 807, subpart E, of this chapter subject to the limitations in § 862.9. The device must comply with the following special controls:
 
 (1) The device must have initial and annual standardization verification by a certifying vitamin D standardization organization deemed acceptable by FDA.
 
@@ -18,4 +18,4 @@
 
 (4) The results of the device as provided in the 21 CFR 809.10(b) compliant labeling and any test report generated must be reported as only total 25-hydroxyvitamin D.
 
-[82 FR 51559, Nov. 7, 2017]
+[82 FR 51559, Nov. 7, 2017, as amended at 83 FR 25914, June 5, 2018]

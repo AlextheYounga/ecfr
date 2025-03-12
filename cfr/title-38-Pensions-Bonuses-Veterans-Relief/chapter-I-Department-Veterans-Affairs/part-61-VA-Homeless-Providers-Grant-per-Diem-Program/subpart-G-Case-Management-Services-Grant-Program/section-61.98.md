@@ -1,0 +1,3 @@
+##### § 61.98 Grant for case management services—requirements and oversight. #####
+
+VA will oversee grants for case management services to ensure that each grantee operates its program in accordance with §§ 61.90 through 61.98. VA's oversight responsibilities include reviewing and responding to requests from grantees for extensions to the otherwise applicable maximum 6-month time limit. Grantees must also comply with the requirements of 38 CFR 61.65; 61.67(d) and 61.67(e); and 61.80(c), (g), (h), (i), (n), (o), (p), and (q). VA may disapprove of case management services provided by the grantee if VA determines that they are of unacceptable quality in which case grant funds may not be used to pay for them.

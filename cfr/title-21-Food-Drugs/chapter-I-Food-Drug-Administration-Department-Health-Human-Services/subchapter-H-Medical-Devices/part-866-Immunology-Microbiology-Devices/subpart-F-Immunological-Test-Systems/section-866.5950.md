@@ -2,7 +2,7 @@
 
 (a) *Identification.* A genetic health risk assessment system is a qualitative in vitro molecular diagnostic system used for detecting variants in genomic deoxyribonucleic acid (DNA) isolated from human specimens that will provide information to users about their genetic risk of developing a disease to inform lifestyle choices and/or conversations with a health care professional. This assessment system is for over-the-counter use. This device does not determine the person's overall risk of developing a disease.
 
-(b) *Classification.* Class II (special controls). The special controls for this device are:
+(b) *Classification.* Class II (special controls). The genetic health risk assessment system device, when it has previously received a first-time FDA marketing authorization (*e.g.,* 510(k) clearance) for the genetic health risk assessment system (a “one-time FDA reviewed genetic health risk assessment system”), is exempt from the premarket notification procedures in part 807, subpart E, of this chapter subject to the limitations in § 866.9. The device must comply with the following special controls:
 
 (1) The 21 CFR 809.10 compliant labeling and any prepurchase page and test report generated, unless otherwise specified, must include:
 
@@ -192,4 +192,4 @@
 
 (iv) Assessing the presence of deterministic autosomal dominant variants.
 
-[82 FR 51561, Nov. 7, 2017]
+[82 FR 51561, Nov. 7, 2017, as amended at 83 FR 25914, June 5, 2018]
