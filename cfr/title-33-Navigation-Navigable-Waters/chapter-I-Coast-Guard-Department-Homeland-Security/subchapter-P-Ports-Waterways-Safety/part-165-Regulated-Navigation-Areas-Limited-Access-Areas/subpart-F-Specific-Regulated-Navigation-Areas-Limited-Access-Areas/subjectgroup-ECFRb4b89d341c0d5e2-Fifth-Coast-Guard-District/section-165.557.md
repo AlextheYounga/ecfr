@@ -1,5 +1,7 @@
 ##### § 165.557 Security Zone; Potomac River, Montgomery County, MD. #####
 
+Link to an amendment published at 85 FR 29620, May 18, 2020.
+
 (a) *Definitions.* As used in this section:
 
 *Captain of the Port (COTP)* means the Commander, U.S. Coast Guard Sector Maryland-National Capital Region or any Coast Guard commissioned, warrant or petty officer who has been authorized by the Captain of the Port to act on his or her behalf.

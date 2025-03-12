@@ -1,7 +1,5 @@
 ##### § 252.56 Methodologies and practices. #####
 
-Link to an amendment published at 85 FR 15605, Mar. 18, 2020.
-
 (a) *Potential impact on capital.* In conducting a stress test under § 252.54, for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
 
 (1) Losses, pre-provision net revenue, provision for credit losses, and net income; and
@@ -10,17 +8,13 @@ Link to an amendment published at 85 FR 15605, Mar. 18, 2020.
 
 (b) *Assumptions regarding capital actions.* In conducting a stress test under § 252.54, a covered company is required to make the following assumptions regarding its capital actions over the planning horizon:
 
-(1) For the first quarter of the planning horizon, the covered company must take into account its actual capital actions as of the end of that quarter; and
+(1) The covered company will not pay any dividends on any instruments that qualify as common equity tier 1 capital;
 
-(2) For each of the second through ninth quarters of the planning horizon, the covered company must include in the projections of capital:
+(2) The covered company will make payments on instruments that qualify as additional tier 1 capital or tier 2 capital equal to the stated dividend, interest, or principal due on such instrument;
 
-(i) Common stock dividends equal to the quarterly average dollar amount of common stock dividends that the company paid in the previous year (that is, the first quarter of the planning horizon and the preceding three calendar quarters) plus common stock dividends attributable to issuances related to expensed employee compensation or in connection with a planned merger or acquisition to the extent that the merger or acquisition is reflected in the covered company's pro forma balance sheet estimates;
+(3) The covered company will not make a redemption or repurchase of any capital instrument that is eligible for inclusion in the numerator of a regulatory capital ratio; and
 
-(ii) Payments on any other instrument that is eligible for inclusion in the numerator of a regulatory capital ratio equal to the stated dividend, interest, or principal due on such instrument during the quarter;
-
-(iii) An assumption of no redemption or repurchase of any capital instrument that is eligible for inclusion in the numerator of a regulatory capital ratio; and
-
-(iv) An assumption of no issuances of common stock or preferred stock, except for issuances related to expensed employee compensation or in connection with a planned merger or acquisition to the extent that the merger or acquisition is reflected in the covered company's pro forma balance sheet estimates.
+(4) The covered company will not make any issuances of common stock or preferred stock.
 
 (c) *Controls and oversight of stress testing processes* - (1) *In general.* The senior management of a covered company must establish and maintain a system of controls, oversight, and documentation, including policies and procedures, that are designed to ensure that its stress testing processes are effective in meeting the requirements in this subpart. These policies and procedures must, at a minimum, describe the covered company's stress testing practices and methodologies, and processes for validating and updating the company's stress test practices and methodologies consistent with applicable laws and regulations.
 
@@ -34,4 +28,4 @@ Link to an amendment published at 85 FR 15605, Mar. 18, 2020.
 
 (iii) In the development or implementation of any plans of the covered company for recovery or resolution.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 84 FR 4246, Feb. 14, 2019; 84 FR 59109, Nov. 1, 2019]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 80 FR 75426, Dec. 2, 2015; 84 FR 4246, Feb. 14, 2019; 84 FR 59109, Nov. 1, 2019; 85 FR 15605, Mar. 18, 2020]

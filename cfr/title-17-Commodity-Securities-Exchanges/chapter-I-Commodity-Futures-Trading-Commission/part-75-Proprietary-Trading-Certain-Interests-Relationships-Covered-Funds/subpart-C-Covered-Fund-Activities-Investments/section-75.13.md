@@ -66,7 +66,7 @@
 
 (5) For purposes of this section, a U.S. branch, agency, or subsidiary of a foreign bank, or any subsidiary thereof, is located in the United States; however, a foreign bank of which that branch, agency, or subsidiary is a part is not considered to be located in the United States solely by virtue of operation of the U.S. branch, agency, or subsidiary.
 
-(c) Permitted covered fund interests and activities by a regulated insurance company. The prohibition contained in § 75.10(a) of this subpart does not apply to the acquisition or retention by an insurance company, or an affiliate thereof, of any ownership interest in, or the sponsorship of, a covered fund only if:
+(c) *Permitted covered fund interests and activities by a regulated insurance company.* The prohibition contained in § 75.10(a) of this subpart does not apply to the acquisition or retention by an insurance company, or an affiliate thereof, of any ownership interest in, or the sponsorship of, a covered fund only if:
 
 (1) The insurance company or its affiliate acquires and retains the ownership interest solely for the general account of the insurance company or for one or more separate accounts established by the insurance company;
 

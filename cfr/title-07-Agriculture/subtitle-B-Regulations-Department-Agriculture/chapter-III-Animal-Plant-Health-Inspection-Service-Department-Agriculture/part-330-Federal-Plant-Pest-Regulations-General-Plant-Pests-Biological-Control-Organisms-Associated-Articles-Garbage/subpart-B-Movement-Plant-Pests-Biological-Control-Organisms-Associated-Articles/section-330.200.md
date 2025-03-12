@@ -1,5 +1,7 @@
 ##### § 330.200 Scope and general restrictions. #####
 
+Link to an amendment published at 85 FR 29832, May 18, 2020.
+
 (a) *Restrictions.* No person shall import, move interstate, transit, or release into the environment plant pests, biological control organisms, or associated articles, unless the importation, interstate movement, transit, or release into the environment of the plant pests, biological control organisms, or associated articles is:
 
 (1) Authorized under an import, interstate movement, or continued curation permit issued in accordance with § 330.201; or

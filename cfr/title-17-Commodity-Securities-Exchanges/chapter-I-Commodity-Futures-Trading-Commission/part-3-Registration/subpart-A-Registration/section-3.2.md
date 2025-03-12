@@ -22,4 +22,4 @@
 
 (d) Any registration form, any schedule or supplement thereto, any fingerprint card or other document required by this part or any rule of the National Futures Assocation to be filed with the National Futures Association shall be deemed for all purposes to have been filed with, and to be the official record of, the Commission.
 
-[49 FR 39530, Oct. 9, 1984, as amended at 53 FR 8431, Mar. 15, 1988; 54 FR 19558, May 8, 1989; 67 FR 38874, June 6, 2002; 77 FR 2626, Jan. 19, ,2012; 77 FR 51904, Aug. 28, 2012]
+[49 FR 39530, Oct. 9, 1984, as amended at 53 FR 8431, Mar. 15, 1988; 54 FR 19558, May 8, 1989; 67 FR 38874, June 6, 2002; 77 FR 2626, Jan. 19, 2012; 77 FR 51904, Aug. 28, 2012]

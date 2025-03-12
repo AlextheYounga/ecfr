@@ -2,7 +2,7 @@
 
 (a)(1)(i) *On issues concerning violation of section 337.* Unless otherwise ordered by the Commission, the administrative law judge shall certify the record to the Commission and shall file an initial determination on whether there is a violation of section 337 of the Tariff Act of 1930 in an original investigation no later than 4 months before the target date set pursuant to § 210.51(a)(1).
 
-(ii) *Recommended determination on issues concerning permanent relief, bonding, and the public interest.* Unless the Commission orders otherwise, within 14 days after issuance of the initial determination on violation of section 337 of the Tariff Act of 1930, the administrative law judge shall issue a recommended determination containing findings of fact and recommendations concerning -
+(ii) *Recommended determination on issues concerning permanent relief, bonding, and the public interest.* Unless the Commission orders otherwise, within 14 days after issuance of the initial determination on violation of section 337 of the Tariff Act of 1930, the administrative law judge shall issue a recommended determination containing findings of fact and recommendations concerning—
 
 (A) The appropriate remedy in the event that the Commission finds a violation of section 337, and
 
@@ -40,8 +40,8 @@
 
 (6) The disposition of an initial determination filed pursuant to § 210.42(c) which grants a motion for summary determination that would terminate the investigation in its entirety if it were to become the Commission's final determination, shall become the final determination of the Commission 45 days after the date of service of the initial determination, unless the Commission has ordered review of the initial determination or certain issues therein, or by order has changed the effective date of the initial determination.
 
-(i) *Notice of determination.* A notice stating that the Commission's decision on whether to review an initial determination will be issued by the Secretary and served on the parties. Notice of the Commission's decision will be published in the Federal Register if the decision results in termination of the investigation in its entirety, if the Commission deems publication of the notice to be appropriate under § 201.10 of subpart B of this part, or if publication of the notice is required under § 210.49(b) of this subpart or § 210.66(f) of subpart H of this part.
-
 (7) An initial determination filed pursuant to § 210.42(a)(3) shall become the determination of the Commission 30 days after the date of service of the initial determination, unless the Commission has ordered review of the initial determination or certain issues therein, or by order has changed the effective date of the initial determination.
+
+(i) *Notice of determination.* A notice stating that the Commission's decision on whether to review an initial determination will be issued by the Secretary and served on the parties. Notice of the Commission's decision will be published in the Federal Register if the decision results in termination of the investigation in its entirety, if the Commission deems publication of the notice to be appropriate under § 201.10 of subpart B of this part, or if publication of the notice is required under § 210.49(b) of this subpart or § 210.66(f) of subpart H of this part.
 
 [59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67628, Dec. 30, 1994; 60 FR 53120, Oct. 12, 1995; 73 FR 38324, July 7, 2008; 76 FR 64809, Oct. 19, 2011; 78 FR 23484, Apr. 19, 2013; 83 FR 21162, May 8, 2018]

@@ -1,3 +1,3 @@
 ##### § 404.1 General. #####
 
-This information is furnished for the guidance of the public and in compliance with the requirements of section 552 of Title 5, United States Code, as amended.
+The information in this part is furnished for the guidance of the public and in compliance with the requirements of the Freedom of Information Act (FOIA), 5 U.S.C. 552, as amended. Nothing in this part shall be construed to entitle any person to any service or to the disclosure of any record to which such person is not entitled under the FOIA. The rules in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”).

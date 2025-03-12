@@ -1,6 +1,6 @@
 ##### § 300.22 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 84 FR 70047, Dec. 20, 2019.
+Link to an amendment published at 84 FR 70047, Dec. 20, 2019.Link to an amendment published at 85 FR 29669, May 18, 2020.
 
 (a) *Logbooks and reporting on whale sharks and FADs* - (1) *Logbook reporting.* The master or other person in charge of a commercial fishing vessel or commercial passenger fishing vessel (CPFV) authorized to fish for tuna and tuna-like species in the Convention Area, or a person authorized in writing to serve as the agent for either person, must keep an accurate log of operations conducted from the fishing vessel. For vessels greater than 400 st (362.8 mt) carrying capacity that are authorized to purse seine for tuna in the Convention Area, the log must include for each day the date, noon position (stated in latitude and longitude or in relation to known physical features), and the tonnage of fish on board, by species. The record and bridge log maintained and submitted at the request of the IATTC shall be sufficient to comply with this paragraph, provided the items of information specified by the IATTC are accurately entered in the log. For purse seine vessels of 400 st (362.8 mt) carrying capacity or less and for non-purse seine vessels, maintaining and submitting any logbook required by existing state or federal regulation shall be sufficient to comply with this paragraph.
 

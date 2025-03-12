@@ -112,4 +112,4 @@ Each counterparty to any swap subject to the jurisdiction of the Commission shal
 
 (4) Prior to October 15, 2012, if a legal entity identifier system has been designated by the Commission as provided in this section, but a reporting counterparty's automated systems are not yet prepared to include legal entity identifiers in recordkeeping and swap data reporting pursuant to this part, the counterparty shall be excused from complying with paragraph (f)(1) of this section, and shall instead comply with paragraph (f)(2) of this section, until its automated systems are prepared with respect to legal entity identifiers, at which time it must commence compliance with paragraph (f)(1) of this section. This paragraph shall have no effect on or after October 15, 2012.
 
-Editorial Note:At 77 FR 2197, Jan. 13, 2012,part 45 was added, with two paragraphs (b) in § 45.6.
+Editorial Note:At 77 FR 2197, Jan. 13, 2012, part 45 was added, with two paragraphs (b) in § 45.6.

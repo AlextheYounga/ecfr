@@ -1,6 +1,6 @@
 ##### § 216.24 Taking and related acts in commercial fishing operations including tuna purse seine vessels in the eastern tropical Pacific Ocean. #####
 
-Link to an amendment published at 84 FR 70043, Dec. 20, 2019.
+Link to an amendment published at 84 FR 70043, Dec. 20, 2019.Link to an amendment published at 85 FR 29669, May 18, 2020.
 
 (a)(1) No marine mammal may be taken in the course of a commercial fishing operation by a U.S. purse seine fishing vessel in the ETP unless the taking constitutes an incidental catch as defined in § 216.3, and vessel and operator permits have been obtained in accordance with these regulations, and such taking is not in violation of such permits or regulations.
 

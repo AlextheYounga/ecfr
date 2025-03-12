@@ -1,7 +1,5 @@
 ##### § 252.54 Stress test. #####
 
-Link to an amendment published at 85 FR 15605, Mar. 18, 2020.
-
 (a) *Stress test* - (1) *In general.* A covered company must conduct a stress test as required under this subpart.
 
 (2) *Frequency* - (i) *General.* Except as provided in paragraph (a)(2)(ii) of this section, a covered company must conduct a stress test according to the frequency in Table 1 to § 252.54(a)(2)(i).
@@ -25,9 +23,13 @@ Table 1 to § 252.54(a)(2)(i)
 
 (b) *Scenarios provided by the Board* - (1) *In general.* In conducting a stress test under this section, a covered company must, at a minimum, use the scenarios provided by the Board. Except as provided in paragraphs (b)(2) and (3) of this section, the Board will provide a description of the scenarios to each covered company no later than February 15 of the calendar year in which the stress test is performed pursuant to this section.
 
-(2) *Additional components.* (i) The Board may require a covered company with significant trading activity, as determined by the Board and specified in the Capital Assessments and Stress Testing report (FR Y-14), to include a trading and counterparty component in its severely adverse scenario in the stress test required by this section. The data used in this component must be as of a date selected by the Board between October 1 of the previous calendar year and March 1 of the calendar year in which the stress test is performed pursuant to this section, and the Board will communicate the as-of date and a description of the component to the company no later than March 1 of the calendar year in which the stress test is performed pursuant to this section.
+(2) *Additional components.* (i) The Board may require a covered company with significant trading activity to include a trading and counterparty component in its severely adverse scenario in the stress test required by this section. A covered company has significant trading activity if it has:
 
-(ii) The Board may require a covered company to include one or more additional components in its adverse and severely adverse scenarios in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+(A) Aggregate trading assets and liabilities of $50 billion or more, or aggregate trading assets and liabilities equal to 10 percent or more of total consolidated assets;
+
+(B) Is not a large and noncomplex bank holding company as the term is used in 12 CFR 225.8.
+
+(ii) The Board may require a covered company to include one or more additional components in its severely adverse scenario in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
 
 (3) *Additional scenarios.* The Board may require a covered company to use one or more additional scenarios in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
 
@@ -37,4 +39,4 @@ Table 1 to § 252.54(a)(2)(i)
 
 (iii) *Description of component.* The Board will provide the covered company with a description of any additional component(s) or additional scenario(s) by March 1 of the calendar year in which the stress test is performed pursuant to this section.
 
-[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 82 FR 9330, Feb. 3, 2017; 84 FR 59108, Nov. 1, 2019]
+[Reg. YY, 79 FR 64051, Oct. 27, 2014, as amended at 82 FR 9330, Feb. 3, 2017; 84 FR 59108, Nov. 1, 2019; 85 FR 15605, Mar. 18, 2020]

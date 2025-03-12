@@ -48,7 +48,7 @@ Terms used in this subpart are defined in this section. Terms used in this subpa
 
 *Biogas.* Renewable Biomass converted to gaseous fuel.
 
-*Biorefinery.* A facility (including equipment and processes) that converts Renewable Biomass into Biofuels and Biobased Products and may produce electricity.
+*Biorefinery.* A facility (including equipment and processes) that converts Renewable biomass or an intermediate ingredient or feedstock of Renewable biomass into any one or more, or a combination, of Biofuels, Renewable chemicals or Biobased products, and may produce electricity.
 
 *Bond.* A form of debt security in which the authorized issuer (Borrower) owes the Bond holder (Lender) a debt and is obligated to repay the principal and Interest (coupon) at a later date(s) (maturity). An explanation of the type of Bond and other Bond stipulations must be attached to the Bond issuance.
 
@@ -92,9 +92,9 @@ Terms used in this subpart are defined in this section. Terms used in this subpa
 
 *Eligible technology.* The term “Eligible technology” means, as determined by the Secretary:
 
-(1) A technology that is being adopted in a viable Commercial-Scale operation of a Biorefinery that produces an Advanced Biofuel; or
+(1) A technology that is being adopted in a viable Commercial-scale operation of a Biorefinery that produces any one or more, or a combination, of an Advanced biofuel; a Renewable chemical; or a Biobased product; and
 
-(2) A technology not described in paragraph (1) of this definition that has been demonstrated to have Technical and Economic Potential for commercial application in a Biorefinery that produces an Advanced Biofuel.
+(2) A technology not described in paragraph (1) of this definition that has been demonstrated to have technical and economic potential for commercial application in a Biorefinery that produces any one or more, or a combination, of an Advanced biofuel, a Renewable chemical or a Biobased product.
 
 *Fair market value.* The price that could reasonably be expected for an asset in an Arm's-Length Transaction between a willing buyer and a willing seller under ordinary economic and business conditions.
 
@@ -239,3 +239,5 @@ Terms used in this subpart are defined in this section. Terms used in this subpa
 *Well capitalized.* Federal Deposit Insurance Corporation (FDIC) requirements used to determine if a lending institution has enough capital on hand to withstand negative effects in the market, and which the Agency uses to determine Lender eligibility. The criteria are specified in the Federal Deposit Insurance Act, and are currently at 12 CFR 325.103, or subsequent regulation.
 
 *Working capital.* Current assets available to support a business's operations. Working Capital is calculated as current assets less current liabilities.
+
+[80 FR 36425, June 24, 2015, as amended at 85 FR 29595, May 18, 2020]

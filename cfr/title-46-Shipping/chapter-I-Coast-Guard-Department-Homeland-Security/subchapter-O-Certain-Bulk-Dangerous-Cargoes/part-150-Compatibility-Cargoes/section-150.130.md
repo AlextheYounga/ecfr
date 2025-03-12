@@ -1,10 +1,8 @@
 ##### § 150.130 Loading a cargo on vessels carrying cargoes with which it is incompatible. #####
 
-Link to an amendment published at 85 FR 21674, Apr. 17, 2020.
-
 Except as described in § 150.160, the person in charge of a vessel shall ensure that the containment system for a cargo that is a hazardous material meets the following requirements:
 
-(a) The containment system must separate the hazardous material or its residue from any cargo in table I with which it is incompatible by two barriers such as formed by a:
+(a) The containment system must separate the hazardous material or its residue from any cargo in table 1 with which it is incompatible by two barriers such as formed by a:
 
 (1) Cofferdam;
 
@@ -25,3 +23,5 @@ Except as described in § 150.160, the person in charge of a vessel shall ensure
 (1) Removing a valve or spool piece and blanking off the exposed pipe ends, or
 
 (2) Installing two spectacle flanges in series with a means of detecting leakage into the pipe between the spectacle flanges.
+
+[CGD 75-59, 45 FR 70263, Oct. 23, 1980, as amended at USCG-2013-0423, 85 FR 21674, Apr. 17, 2020]

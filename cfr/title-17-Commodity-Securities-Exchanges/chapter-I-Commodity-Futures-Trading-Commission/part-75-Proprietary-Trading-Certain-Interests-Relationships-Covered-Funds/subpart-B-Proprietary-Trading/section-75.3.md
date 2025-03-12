@@ -2,7 +2,7 @@
 
 (a) *Prohibition.* Except as otherwise provided in this subpart, a banking entity may not engage in proprietary trading. *Proprietary trading* means engaging as principal for the trading account of the banking entity in any purchase or sale of one or more financial instruments.
 
-(b) *Definition of trading account.* (1) *Trading account.* Trading account means:
+(b) *Definition of trading account*—(1) *Trading account.* Trading account means:
 
 (i) Any account that is used by a banking entity to purchase or sell one or more financial instruments principally for the purpose of short-term resale, benefitting from actual or expected short-term price movements, realizing short-term arbitrage profits, or hedging one or more of the positions resulting from the purchases or sales of financial instruments described in this paragraph;
 
@@ -24,7 +24,7 @@
 
 (4) *Rebuttable presumption for certain purchases and sales.* The purchase (or sale) of a financial instrument by a banking entity shall be presumed not to be for the trading account of the banking entity under paragraph (b)(1)(i) of this section if the banking entity holds the financial instrument for sixty days or longer and does not transfer substantially all of the risk of the financial instrument within sixty days of the purchase (or sale).
 
-(c) *Financial instrument* - (1) *Financial instrument* means:
+(c) *Financial instrument*—(1) *Financial instrument* means:
 
 (i) A security, including an option on a security;
 
@@ -48,7 +48,7 @@
 
 (iii) Foreign exchange or currency.
 
-(d) *Proprietary trading does not include:* - (1) Any purchase or sale of one or more financial instruments by a banking entity that arises under a repurchase or reverse repurchase agreement pursuant to which the banking entity has simultaneously agreed, in writing, to both purchase and sell a stated asset, at stated prices, and on stated dates or on demand with the same counterparty;
+(d) *Proprietary trading does not include:*—(1) Any purchase or sale of one or more financial instruments by a banking entity that arises under a repurchase or reverse repurchase agreement pursuant to which the banking entity has simultaneously agreed, in writing, to both purchase and sell a stated asset, at stated prices, and on stated dates or on demand with the same counterparty;
 
 (2) Any purchase or sale of one or more financial instruments by a banking entity that arises under a transaction in which the banking entity lends or borrows a security temporarily to or from another party pursuant to a written securities lending agreement under which the lender retains the economic interests of an owner of such security, and has the right to terminate the transaction and to recall the loaned security on terms agreed by the parties;
 

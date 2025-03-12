@@ -1,15 +1,13 @@
 ##### § 404.3 Organization. #####
 
-(a) The brief description of the central organization of the American Battle Monuments Commission follows:
-
-(1) The Commission is composed of not more than 11 members appointed by the President.
+(a) *Personnel.* (1) The Commission is composed of not more than 11 members appointed by the President.
 
 (2) The day to day operation of the Commission is under the direction of a Secretary appointed by the President.
 
-(3) Principal Officials include the Executive Director, Director of Finance, Director of Procurement and Contracting, Director of Engineering, Maintenance, and Operations and Director of Personnel and Administration.
+(3) Principal officials subordinate to the Secretary include the Deputy Secretary, Chief Operating Officer, Chief of Staff, Executive Officer, Chief Financial Officer, Chief of Human Resources and Administration, Chief Information Officer, Director of Cemetery Operations, Executive Engineer, General Counsel, and Public Affairs Officer.
 
 (4) The Commission also creates temporary offices when tasked with major additional responsibilities not of a permanent nature.
 
-(b) *Locations.* (1) The principal offices of the American Battle Monuments Commission are located at Courthouse Plaza II, Suite 500, 2300 Clarendon Boulevard, Arlington, VA 22201. Persons desiring to visit offices or employees of the American Battle Monuments Commission should write or telephone ahead (703-696-6897 or 703-696-6895) to make an appointment.
+(b) *Locations.* (1) The principal office of the American Battle Monuments Commission is located at 2300 Clarendon Boulevard, Suite 500, Arlington, VA 22201, (703) 696-6900.
 
-(2) Field offices are located in Paris, France; Rome, Italy; Manila, Republic of the Philippines; the Republic of Panama; and Mexico City, Mexico.
+(2) The American Battle Monuments Commission maintains an overseas field office in Paris, France, and cemetery offices at 25 locations in Belgium, France, Italy, Luxembourg, Mexico, the Netherlands, Panama, the Philippines, Tunisia, and the United Kingdom.
