@@ -34,7 +34,9 @@ Transactional Data Reporting (JUN 2016)
 
 (xi) Total Price.
 
-Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.105(c)(3).
+Note to paragraph (b)(2):
+
+The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.105(c)(3).
 
 (3) The Contractor must report transactional data within 30 calendar days from the last calendar day of the month. If there was no contract activity during the month, the Contractor must submit a confirmation of no reportable transactional data within 30 calendar days of the last calendar day of the month.
 

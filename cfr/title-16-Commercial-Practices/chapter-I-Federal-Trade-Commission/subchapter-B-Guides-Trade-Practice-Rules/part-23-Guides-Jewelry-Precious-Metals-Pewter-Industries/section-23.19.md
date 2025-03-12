@@ -1,9 +1,11 @@
-##### § 23.19 Misuse of the word “pearl.” #####
+##### § 23.19 Definitions of various pearls. #####
 
-(a) It is unfair or deceptive to use the unqualified word “pearl” or any other word or phrase of like meaning to describe, identify, or refer to any object or product that is not in fact a pearl, as defined in § 23.18(a).
+As used in these guides, the terms set forth below have the following meanings:
 
-(b) It is unfair or deceptive to use the word “pearl” to describe, identify, or refer to a cultured pearl unless it is immediately preceded, with equal conspicuousness, by the word “cultured” or “cultivated,” or by some other word or phrase of like meaning, so as to indicate definitely and clearly that the product is not a pearl.
+(a) *Pearl:* A calcareous concretion consisting essentially of alternating concentric layers of carbonate of lime and organic material formed within the body of certain mollusks, the result of an abnormal secretory process caused by an irritation of the mantle of the mollusk following the intrusion of some foreign body inside the shell of the mollusk, or due to some abnormal physiological condition in the mollusk, neither of which has in any way been caused or induced by humans.
 
-(c) It is unfair or deceptive to use the word “pearl” to describe, identify, or refer to an imitation pearl unless it is immediately preceded, with equal conspicuousness, by the word “artificial,” “imitation,” or “simulated,” or by some other word or phrase of like meaning, so as to indicate definitely and clearly that the product is not a pearl.
+(b) *Cultured pearl:* The composite product created when a nucleus (usually a sphere of calcareous mollusk shell) planted by humans inside the shell or in the mantle of a mollusk is coated with nacre by the mollusk.
 
-(d) It is unfair or deceptive to use the terms “faux pearl,” “fashion pearl,” “Mother of Pearl,” or any other such term to describe or qualify an imitation pearl product unless it is immediately preceded, with equal conspicuousness, by the word “artificial,” “imitation,” or “simulated,” or by some other word or phrase of like meaning, so as to indicate definitely and clearly that the product is not a pearl.
+(c) *Imitation pearl:* A manufactured product composed of any material or materials that simulate in appearance a pearl or cultured pearl.
+
+(d) *Seed pearl:* A small pearl, as defined in paragraph (a), that measures approximately two millimeters or less.

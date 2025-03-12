@@ -1,7 +1,5 @@
 ##### § 64.2401 Truth-in-Billing Requirements. #####
 
-Link to an amendment published at 83 FR 33143, July 17, 2018.
-
 (a) *Bill organization.* Telephone bills shall be clearly organized, and must comply with the following requirements:
 
 (1) The name of the service provider associated with each charge must be clearly and conspicuously identified on the telephone bill.
@@ -24,4 +22,6 @@ Link to an amendment published at 83 FR 33143, July 17, 2018.
 
 (2) Carriers that offer subscribers the option to block third-party charges from appearing on telephone bills must clearly and conspicuously notify subscribers of this option on each telephone bill.
 
-[64 FR 34497, June 25, 1999, as amended at 65 FR 43258, July 13, 2000; 76 FR 63563, Oct. 13, 2011; 77 FR 30919, May 24, 2012; 77 FR 71354, Nov. 30, 2012]
+(g) *Prohibition against unauthorized charges.* Carriers shall not place or cause to be placed on any telephone bill charges that have not been authorized by the subscriber.
+
+[64 FR 34497, June 25, 1999, as amended at 65 FR 43258, July 13, 2000; 76 FR 63563, Oct. 13, 2011; 77 FR 30919, May 24, 2012; 77 FR 71354, Nov. 30, 2012; 83 FR 33143, July 17, 2018]

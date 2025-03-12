@@ -1,7 +1,9 @@
-##### § 23.2 Misleading illustrations. #####
+##### § 23.2 Misuse of the terms “handmade,” “hand-polished,” etc. #####
 
-It is unfair or deceptive to use, as part of any advertisement, packaging material, label, or other sales promotion matter, any visual representation, picture, televised or computer image, illustration, diagram, or other depiction which, either alone or in conjunction with any accompanying words or phrases, misrepresents the type, kind, grade, quality, quantity, metallic content, size, weight, cut, color, character, treatment, substance, durability, serviceability, origin, preparation, production, manufacture, distribution, or any other material aspect of an industry product.
+(a) It is unfair or deceptive to represent, directly or by implication, that any industry product is handmade or hand-wrought unless the entire shaping and forming of such product from raw materials and its finishing and decoration were accomplished by hand labor and manually-controlled methods which permit the maker to control and vary the construction, shape, design, and finish of each part of each individual product.
 
-Note to § 23.2:
+Note to Paragraph (a):
 
-An illustration or depiction of a diamond or other gemstone that portrays it in greater than its actual size may mislead consumers, unless a disclosure is made about the item's true size.
+As used herein, “raw materials” include bulk sheet, strip, wire, precious metal clays, ingots, casting grain, and similar items that have not been cut, shaped, or formed into jewelry parts, semi-finished parts, or blanks.
+
+(b) It is unfair or deceptive to represent, directly or by implication, that any industry product is hand-forged, hand-engraved, hand-finished, or hand-polished, or has been otherwise hand-processed, unless the operation described was accomplished by hand labor and manually-controlled methods which permit the maker to control and vary the type, amount, and effect of such operation on each part of each individual product.

@@ -1,7 +1,13 @@
-##### § 23.26 Misuse of the words “flawless,” “perfect,” etc. #####
+##### § 23.26 Misrepresentation as to varietal name. #####
 
-(a) It is unfair or deceptive to use the word “flawless” as a quality description of any gemstone that discloses blemishes, inclusions, or clarity faults of any sort when examined under a corrected magnifier at 10-power, with adequate illumination, by a person skilled in gemstone grading.
+(a) It is unfair or deceptive to mark or describe an industry product with the incorrect varietal name.
 
-(b) It is unfair or deceptive to use the word “perfect” or any representation of similar meaning to describe any gemstone unless the gemstone meets the definition of “flawless” and is not of inferior color or make.
+(b) The following are examples of markings or descriptions that may be misleading:
 
-(c) It is unfair or deceptive to use the word “flawless,” “perfect,” or any representation of similar meaning to describe any imitation gemstone.
+(1) Use of the term “yellow emerald” to describe golden beryl or heliodor.
+
+(2) Use of the term “green amethyst” to describe prasiolite.
+
+Note to § 23.26:
+
+A varietal name is given for a division of gem species or genus based on a color, type of optical phenomenon, or other distinguishing characteristic of appearance.

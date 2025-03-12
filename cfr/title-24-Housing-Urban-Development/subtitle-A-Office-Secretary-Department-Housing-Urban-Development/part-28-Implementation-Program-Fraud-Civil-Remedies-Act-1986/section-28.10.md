@@ -1,7 +1,5 @@
 ##### § 28.10 Basis for civil penalties and assessments. #####
 
-Link to an amendment published at 83 FR 32793, July 16, 2018.
-
 (a) *Claims.* (1) A civil penalty of not more than $10,957 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know:
 
 (i) Is false, fictitious, or fraudulent;
@@ -28,7 +26,7 @@ Link to an amendment published at 83 FR 32793, July 16, 2018.
 
 (6) If the Government has made any payment, transferred property, or provided services on a claim, then the Government may assess a person found liable up to twice the amount of the claim or portion of the claim that is determined to be in violation of paragraph (a)(1) of this section.
 
-(b) *Statements.* (1) A civil penalty of not more than $10,957 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that:
+(b) *Statements.* (1) A civil penalty of not more than $11,181 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that:
 
 (i) The person knows or has reason to know:
 
@@ -52,4 +50,4 @@ Link to an amendment published at 83 FR 32793, July 16, 2018.
 
 (e) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017]
+[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018]

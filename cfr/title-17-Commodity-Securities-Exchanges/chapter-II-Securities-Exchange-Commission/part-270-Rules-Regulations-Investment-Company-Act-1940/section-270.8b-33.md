@@ -1,6 +1,6 @@
 ##### § 270.8b-33 XBRL-Related Documents. #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.This amendment was delayed until May 1, 2020, at 82 FR 58731, Dec. 14, 2017.
+Link to an amendment published at 81 FR 82020, Nov. 18, 2016.This amendment was delayed until May 1, 2020, at 82 FR 58731, Dec. 14, 2017.Link to an amendment published at 83 FR 40880, Aug. 16, 2018.
 
 A registrant that participates in the voluntary XBRL (eXtensible Business Reporting Language) program may submit, in electronic format as an exhibit to a filing on Form N-1A (§§ 239.15A and 274.11A of this chapter), Form N-CSR (§§ 249.331 and 274.128 of this chapter), or Form N-Q (§§ 249.332 and 274.130 of this chapter) to which they relate, XBRL Related Documents (§ 232.11 of this chapter). A registrant that submits XBRL Related Documents as an exhibit to a form must name each XBRL Related Document “EX 100” as specified in the EDGAR Filer Manual and submit the XBRL Related Documents in such a manner that will permit the information for each series and, for any information that does not relate to all of the classes in a filing, each class of an investment company registrant and each contract of an insurance company separate account to be separately identified. A registrant may submit such exhibit with, or in an amendment to, the Form N-CSR or Form N-Q filing to which it relates, or in an amendment to the Form N-1A filing to which it relates, in accordance with rule 401 of Regulation S-T (§ 232.401).
 

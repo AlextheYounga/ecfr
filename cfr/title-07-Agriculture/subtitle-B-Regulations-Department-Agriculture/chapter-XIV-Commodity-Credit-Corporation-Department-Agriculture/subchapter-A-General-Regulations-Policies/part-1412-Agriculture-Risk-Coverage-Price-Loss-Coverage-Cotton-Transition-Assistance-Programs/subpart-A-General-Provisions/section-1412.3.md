@@ -4,8 +4,6 @@ The definitions in this section are applicable for all purposes of administering
 
 *2014 Farm Bill* means the Agricultural Act of 2014 (Pub. L. 113-79).
 
-*2014 farm structure* means the farm as it was last constituted effective as of September 30, 2014.
-
 *Actual average county yield* is calculated as the crop year production of a covered commodity in the county divided by the commodity's total planted acres for a crop year in the county, as determined by FSA. Separate irrigated and non-irrigated yields will be established in a county having a sufficient number of farms with P&CP acreage history of a covered commodity in 2009 through 2012, as determined by FSA. These separate yields will only be established where at least an average of 25 percent of a covered commodity's P&CP acreage was irrigated in 2009 through 2012 and at least an average of 25 percent of the same covered commodity's P&CP acreage in that county was non-irrigated in 2009 through 2012.
 
 *Actual crop revenue* is calculated as follows for:
@@ -22,8 +20,6 @@ The definitions in this section are applicable for all purposes of administering
 
 *Agriculture risk coverage (or ARC)* means coverage provided under subparts D and E of this part.
 
-*Application* means the CCC-approved form used by producers to apply for CTAP under subpart H of this part.
-
 *ARC-CO* means the Agriculture Risk Coverage elected with the county option.
 
 *ARC guarantee* is calculated for a crop year for a covered commodity, and is equal to 86 percent of the benchmark revenue for ARC-CO and 86 percent of the benchmark revenue for ARC-IC, as defined in this part.
@@ -34,7 +30,7 @@ The definitions in this section are applicable for all purposes of administering
 
 *Average historical county yield* means the 5-year Olympic average of actual average county yields for the most recent 5 years (substituting 70 percent of the county transitional yield as defined in this part in each year where the actual average county yield is less than 70 percent of the county transitional yield). Separate irrigated and non-irrigated yields will be established in a county having a sufficient number of farms with P&CP acreage history of a covered commodity in 2009 through 2012, as determined by FSA. These separate yields will only be established where at least an average of 25 percent of a covered commodity's P&CP acreage was irrigated in 2009 through 2012 and at least an average of 25 percent of the same covered commodity's P&CP acreage in that county was non-irrigated in 2009 through 2012.
 
-*Base acres* means, with respect to a covered commodity on a farm, the number of acres in effect on September 30, 2013, as defined in the regulations in 7 CFR part 1412, subpart B that were in effect on that date, subject to any reallocation, adjustment, or reduction. Unless specifically stated otherwise, the term “base acres” includes any generic base acres when planted to a covered commodity or are eligible subsequently planted crop acreage.
+*Base acres* means, with respect to a covered commodity on a farm, the number of acres in effect on September 30, 2013, as defined in the regulations in 7 CFR part 1412, subpart B that were in effect on that date, subject to any reallocation, adjustment, or reduction. The term “base acres” includes any unassigned base acres.
 
 *Benchmark revenue for ARC-CO* is calculated as the product obtained by multiplying the average historical county yield times the MYA price for the most recent 5 crop years, excluding each of the crop years with the highest and lowest prices and substituting the reference price in each year where the MYA price is less than the reference price.
 
@@ -54,13 +50,15 @@ The definitions in this section are applicable for all purposes of administering
 
 *Contract or application* means the CCC-approved forms and appendixes that constitute the CTAP application or agreement for participation in ARC or PLC Program, as applicable.
 
-*Contract period* means the compliance period specified for the contract or application for the particular program year, as designated on the contract or application. References to the “contract” or “application” period refer to the compliance period for the particular program year. The compliance period for the each program year is October 1 through September 30. For example, for the 2014 contract (and therefore for the 2014 program), the period that begins on October 1, 2013 and ends on September 30, 2014.
+*Contract period* means the compliance period specified for the contract for the particular program year, as designated on the contract or application. References to the “contract” period refer to the compliance period for the particular program year. The compliance period for each program year is October 1 through September 30. For example, for the 2014 contract (and therefore for the 2014 program), the period that begins on October 1, 2013 and ends on September 30, 2014.
 
 *Contract year or program year* means the particular year of the particular contract based on the compliance period for the contract or application. The compliance year will run from October 1 to the following September 30 and will have the same name as the corresponding fiscal year. For example, the 2014 contract or program year will be October 1, 2013, through September 30, 2014, and that year will also be considered the 2014 crop year. The same references will apply to all other years.
 
+*Counter-cyclical payment yield* means the farm's upland cotton yield as specified in the regulations for 7 CFR part 1412 that were in effect as of September 30, 2013.
+
 *County coverage* means agriculture risk coverage (ARC-CO) elected under subpart D of this part with the county option.
 
-*Covered commodity* means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, pulse crops, soybeans, other oilseeds, and peanuts.
+*Covered commodity* means wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing), corn, grain sorghum, long grain rice, medium grain rice, seed cotton, pulse crops, soybeans, other oilseeds, and peanuts.
 
 *Crop year* means the relevant contract or application year. For example, the 2014 crop year is the year that runs from October 1, 2013, through September 30, 2014, and references to payments for that year refer to payments made under contracts or applications with the compliance year that runs during those dates.
 
@@ -88,8 +86,6 @@ The definitions in this section are applicable for all purposes of administering
 
 (2) National average loan rate as defined in this part for the covered commodity in effect for the crop year, which is the same as the loan rate for a marketing assistance loan for the commodity for that crop year.
 
-*Eligible subsequently planted crop acreage* means planted acres of a covered commodity that are a replacement crop to any crop other than a covered commodity. Eligible subsequently planted crop acreage is included as payment acres if the crop acreage is planted to a covered commodity as a replacement crop after the failure or prevented planting of any crop other than a covered commodity. Eligible subsequently planted crop acreage is used to determine payment acres and attribution of generic base acres under this part.
-
 *Extra long staple cotton* means cotton that is other than upland cotton and both the following:
 
 (1) Produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
@@ -100,13 +96,13 @@ The definitions in this section are applicable for all purposes of administering
 
 *Fiscal year* means the year running from October 1 to the following September 30 and will be designated by the same calendar year in which it ends. For example, the 2014 fiscal year begins on October 1, 2013 and ends on September 30, 2014.
 
-*Generic base acres* means the number of base acres for upland cotton in effect on September 30, 2013, as defined in the regulations in 7 CFR part 1412, subpart B that were in effect on that date, subject to any adjustment or reduction under this part. Generic base acres are always the same amount as upland cotton base acres. Any adjustment in generic base acres on a farm will necessarily result in an adjustment in upland cotton base acres on the farm.
+*Generic base acres* means the number of base acres for upland cotton in effect on September 30, 2013, as defined in the regulations in 7 CFR part 1412, subpart B that were in effect on that date, subject to any adjustment or reduction under this part. For 2018, generic base acres are subject to allocation according to § 1412.25.
 
 *Harvested* means the producer has removed the crop from the field by hand, mechanically, or by grazing of livestock. The crop is considered harvested once it is removed from the field and placed in or on a truck or other conveyance or is consumed by livestock through the act of grazing. Crops normally placed in a truck or other conveyance and taken off the crop acreage, such as hay, are considered harvested when in the bale, whether removed from the field or not.
 
 *Individual coverage* means ARC (ARC-IC) elected under subpart D of this part with the individual option.
 
-*Initial crop* means acreage of a covered commodity or cotton planted or approved as prevented planted for harvest as peanuts, grain, or lint. The initial crop includes reseeded or replanted crop acreage.
+*Initial crop* means acreage of a covered commodity planted or approved as prevented planted for harvest as peanuts, grain, or lint. The initial crop includes reseeded or replanted crop acreage.
 
 *Marketing year* means the 12-month period beginning in the calendar year the crop is normally harvested as follows:
 
@@ -114,7 +110,7 @@ The definitions in this section are applicable for all purposes of administering
 
 (2) Canola, flax and rapeseed, lentils, and dry edible peas: July 1 through June 30;
 
-(3) Peanuts and rice: August 1 through July 31; and
+(3) Peanuts, seed cotton, and rice: August 1 through July 31; and
 
 (4) Corn, grain sorghum, soybeans, sunflowers, safflower, mustard, crambe, sesame, and chickpeas: September 1 through August 31.
 
@@ -132,13 +128,7 @@ The definitions in this section are applicable for all purposes of administering
 
 (2) For the purpose of ARC-IC, subject to planting flexibility provisions as specified in § 1412.46, the payment acres for a farm will be equal to 65 percent of the base acres for all of the covered commodities on the farm.
 
-(3) For the purpose of CTAP under subpart H of this part, the payment acres for a farm are the base acres of upland cotton in effect on a farm on September 30, 2013, subject to any adjustment or reduction under this part.
-
-*Payment yield* means for a farm for -
-
-(1) A covered commodity, the yield established under subpart C of this part; and
-
-(2) Upland cotton, the direct payment yield for upland cotton for the farm as of September 30, 2013.
+*Payment yield* means for a farm for a covered commodity, the yield established under subpart C of this part.
 
 *Price Loss Coverage (or PLC)* means coverage provided under subpart D of this part.
 
@@ -170,19 +160,23 @@ The definitions in this section are applicable for all purposes of administering
 
 (12) Lentils, $19.97 per hundredweight;
 
-(13) Small chickpeas, $19.04 per hundredweight; and
+(13) Small chickpeas, $19.04 per hundredweight;
 
-(14) Large chickpeas, $21.54 per hundredweight.
+(14) Large chickpeas, $21.54 per hundredweight; and
 
-*Replacement crop* means the planting or approved prevented planting of any crop for harvest following the failure of planted crop acreage or prevented planted acreage of a covered commodity not in a recognized double-cropping sequence (as specified in this section). Replacement crops cannot generate payments under this part unless the replacement crop acreage meets the definition of eligible subsequently planted crop acreage as specified in this section.
+(15) Seed cotton, $0.367 per pound.
+
+*Replacement crop* means the planting or approved prevented planting of any crop for harvest following the failure of planted crop acreage or prevented planted acreage of a covered commodity not in a recognized double-cropping sequence (as specified in this section). Replacement crops cannot generate payments under this part unless the replacement crop acreage meets the definition of eligible subsequently planted crop acreage as specified in this section; and
 
 *Reseeded or replanted crop* means the second planting of a covered commodity on the same acreage after the first planting of that same crop has failed.
+
+*Seed cotton* means unginned upland cotton that includes both lint and seed.
 
 *STAX* means Stacked Income Protection Plan, as specified in 7 U.S.C. 1508b. A list of counties having farms with upland cotton base acres for which STAX will not be made available in 2015 will be available upon request from FSA.
 
 *Subsequently planted crop acreage* means planted acres of a covered commodity following an initial P&CP covered commodity. Subsequently planted crop acreage can be used for base reallocation for ARC and PLC under subpart B.
 
-*Supportive and necessary contractual documents* mean those documents including, but not limited to, those items substantiating the ARC or PLC contract or CTAP application such as leases, deeds, signatures of contract participants, owners, operators, and other tenant signatures, as determined by CCC.
+*Supportive and necessary contractual documents* mean those documents including, but not limited to, those items substantiating the ARC or PLC contract such as leases, deeds, signatures of contract participants, owners, operators, and other tenant signatures, as determined by CCC.
 
 *Temperate japonica rice* means rice that is grown in high altitudes or temperate regions of high latitudes with cooler climate conditions, in the Western United States, as determined by CCC, for the purpose of the -
 
@@ -194,6 +188,8 @@ The definitions in this section are applicable for all purposes of administering
 
 *Transitional yield* means the yield determined according to section 502(b) of the Federal Crop Insurance Act (7 U.S.C. 1502(b)).
 
+*Unassigned base acres* means the number of acres derived from generic base acres where no ARC or PLC payments are generated or earned.
+
 *Upland cotton* means cotton that is produced in the United States from other than pure strain varieties of the Barbadense species, any hybrid thereof, or any other variety of cotton in which one or more of these varieties predominate. In other words, it means any cotton that is not extra long staple cotton.
 
-[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57714, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014]
+[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57714, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 40657, Aug. 16, 2018]

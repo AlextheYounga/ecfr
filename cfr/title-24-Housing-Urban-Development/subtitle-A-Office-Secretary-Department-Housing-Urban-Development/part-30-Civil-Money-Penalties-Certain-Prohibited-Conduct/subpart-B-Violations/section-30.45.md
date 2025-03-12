@@ -1,7 +1,5 @@
 ##### § 30.45 Multifamily and section 202 or 811 mortgagors. #####
 
-Link to an amendment published at 83 FR 32793, July 16, 2018.
-
 (a) *Definitions.* The following definitions apply to this section only:
 
 (1) *Agent employed to manage the property that has an identity of interest* and *identity of interest agent.* An entity:
@@ -66,4 +64,6 @@ Link to an amendment published at 83 FR 32793, July 16, 2018.
 
 (i) *Exceptions.* The Secretary may not impose penalties under this section for a violation, if a material cause of the violation is the failure of the Secretary, an agent of the Secretary, or a public housing agency to comply with an existing agreement.
 
-[66 FR 63441, Dec. 6, 2001, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017]
+(g) *Maximum penalty.* The maximum penalty for each violation under paragraphs (c) and (f) of this section is $49,096.
+
+[66 FR 63441, Dec. 6, 2001, as amended at 68 FR 12788, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018]

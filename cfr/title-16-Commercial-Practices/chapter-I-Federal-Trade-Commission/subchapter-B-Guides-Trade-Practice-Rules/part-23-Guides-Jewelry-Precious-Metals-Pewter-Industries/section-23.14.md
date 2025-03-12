@@ -1,3 +1,3 @@
-##### § 23.14 Misuse of the term “blue white.” #####
+##### § 23.14 Disclosure of treatments to diamonds. #####
 
-It is unfair or deceptive to use the term “blue white” or any representation of similar meaning to describe any diamond that under normal, north daylight or its equivalent shows any color or any trace of any color other than blue or bluish.
+A diamond is a gemstone product. Treatments to diamonds should be disclosed in the manner prescribed in § 23.24 of these guides (Disclosure of treatments to gemstones).

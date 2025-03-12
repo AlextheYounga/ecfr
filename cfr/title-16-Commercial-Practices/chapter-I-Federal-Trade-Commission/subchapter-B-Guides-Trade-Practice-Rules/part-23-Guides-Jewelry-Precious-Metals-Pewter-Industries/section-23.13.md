@@ -1,5 +1,7 @@
-##### § 23.13 Disclosure of treatments to diamonds. #####
+##### § 23.13 Misuse of the words “flawless,” “perfect,” etc. #####
 
-A diamond is a gemstone product. Treatments to diamonds should be disclosed in the manner prescribed in § 23.22 of these guides, Disclosure of treatments to gemstones.
+(a) It is unfair or deceptive to use the word “flawless” to describe any diamond that discloses flaws, cracks, inclusions, carbon spots, clouds, internal lasering, or other blemishes or imperfections of any sort when examined under a corrected magnifier at 10-power, with adequate illumination, by a person skilled in diamond grading.
 
-[65 FR 78743, Dec. 15, 2000]
+(b) It is unfair or deceptive to use the word “perfect,” or any representation of similar meaning, to describe any diamond unless the diamond meets the definition of “flawless” and is not of inferior color or make.
+
+(c) It is unfair or deceptive to use the words “flawless” or “perfect” to describe a ring or other article of jewelry having a “flawless” or “perfect” principal diamond or diamonds, and supplementary stones that are not of such quality, unless there is a disclosure that the description applies only to the principal diamond or diamonds.

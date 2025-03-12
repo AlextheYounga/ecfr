@@ -10,4 +10,4 @@ Ordering Agency Task-Order and Delivery-Order Ombudsman (JAN 2017)
 
 (c) If the contractor is not satisfied with the resolution of its complaint by the Ordering Agency Task-Order and Delivery-Order Ombudsman, the contractor may follow the procedures outlined in FAR subpart 33.1, as applicable (e.g., FAR 16.505(a)(10).
 
-(End of Clause)[82 FR 2250, Jan. 9, 2017]
+(End of clause)[82 FR 2250, Jan. 9, 2017]

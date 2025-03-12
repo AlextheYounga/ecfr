@@ -1,7 +1,3 @@
-##### § 23.15 Misuse of the term “properly cut,” etc. #####
+##### § 23.15 Misuse of the term “blue white.” #####
 
-It is unfair or deceptive to use the terms “properly cut,” “proper cut,” “modern cut,” or any representation of similar meaning to describe any diamond that is lopsided, or is so thick or so thin in depth as to detract materially from the brilliance of the stone.
-
-Note to § 23.15:
-
-Stones that are commonly called “fisheye” or “old mine” should not be described as “properly cut,” “modern cut,” etc.
+It is unfair or deceptive to use the term “blue white” or any representation of similar meaning to describe any diamond that under normal, north daylight or its equivalent shows any color or any trace of any color other than blue or bluish.

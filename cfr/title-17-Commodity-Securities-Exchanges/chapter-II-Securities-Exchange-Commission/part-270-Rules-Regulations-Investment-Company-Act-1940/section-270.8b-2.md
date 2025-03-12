@@ -1,5 +1,7 @@
 ##### § 270.8b-2 Definitions. #####
 
+Link to an amendment published at 83 FR 40880, Aug. 16, 2018.
+
 Unless the context otherwise requires, the terms in paragraphs (a) through (m) of this section, when used in the rules contained in §§ 270.8b-1 through 270.8b-33, in the rules under section 30(a) or (b) of the Act or in the forms for registration statements and reports pursuant to section 8 or 30(a) or (b) of the Act, shall have the respective meanings indicated in this section. The terms “EDGAR,” “EDGAR Filer Manual,” “electronic filer,” “electronic filing,” “electronic format,” “electronic submission,” “paper format,” and “signature” shall have the meanings assigned to such terms in Regulation S-T - General Rules for Electronic Filings (Part 232 of this chapter).
 
 (a) *Amount.* The term “amount”, when used in regard to securities, means the principal amount if relating to evidences of indebtedness, the number of shares if relating to shares, and the number of units if relating to any other kind of security.

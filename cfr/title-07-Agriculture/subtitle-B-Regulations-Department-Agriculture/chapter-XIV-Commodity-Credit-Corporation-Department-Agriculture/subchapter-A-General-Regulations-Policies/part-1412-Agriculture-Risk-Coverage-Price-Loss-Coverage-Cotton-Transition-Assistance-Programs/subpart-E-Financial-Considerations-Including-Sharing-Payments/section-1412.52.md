@@ -1,6 +1,6 @@
 ##### § 1412.52 PLC payment provisions. #####
 
-(a) Provided all provisions of this part including but not limited to election have been satisfied for each of the 2014 through 2018 contract years, a PLC payment will be made to eligible participants on a farm enrolled in PLC with respect to covered commodities for which a PLC yield and base acres are established:
+(a) Provided all provisions of this part including but not limited to election have been satisfied for the 2018 contract years, a PLC payment will be made to eligible participants on a farm enrolled in PLC with respect to covered commodities for which a PLC yield and base acres are established:
 
 (1) When the effective price for a covered commodity in a crop year is less than the reference price for the PLC enrolled covered commodity for that crop year as specified in this part; and
 
@@ -46,4 +46,4 @@
 
 (2) Outside of California will receive the effective price and guarantee for medium and short grain rice based only on the prices that temperate japonica or medium and short grain rice receives outside of California.
 
-[79 FR 57719, Sept. 26, 2014]
+[79 FR 57719, Sept. 26, 2014, as amended at 83 FR 40659, Aug. 16, 2018]

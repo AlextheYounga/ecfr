@@ -1,12 +1,14 @@
 ##### § 64.1120 Verification of orders for telecommunications service. #####
 
-Link to an amendment published at 83 FR 33143, July 17, 2018.
-
 (a) No telecommunications carrier shall submit or execute a change on the behalf of a subscriber in the subscriber's selection of a provider of telecommunications service except in accordance with the procedures prescribed in this subpart. Nothing in this section shall preclude any State commission from enforcing these procedures with respect to intrastate services.
 
 (1) No submitting carrier shall submit a change on the behalf of a subscriber in the subscriber's selection of a provider of telecommunications service prior to obtaining:
 
-(i) Authorization from the subscriber, and
+(i) Authorization from the subscriber, subject to the following:
+
+(A) Material misrepresentation on the sales call is prohibited. Upon a consumer's credible allegation of a sales call misrepresentation, the burden of proof shifts to the carrier making the sales call to provide persuasive evidence to rebut the claim. Upon a finding that such a material misrepresentation has occurred on a sales call, the subscriber's authorization to switch carriers will be deemed invalid.
+
+(B) [Reserved]
 
 (ii) Verification of that authorization in accordance with the procedures prescribed in this section. The submitting carrier shall maintain and preserve records of verification of subscriber authorization for a minimum period of two years after obtaining such verification.
 
@@ -14,7 +16,7 @@ Link to an amendment published at 83 FR 33143, July 17, 2018.
 
 (3) Commercial mobile radio services (CMRS) providers shall be excluded from the verification requirements of this part as long as they are not required to provide equal access to common carriers for the provision of telephone toll services, in accordance with 47 U.S.C. 332(c)(8).
 
-(b) Where a telecommunications carrier is selling more than one type of telecommunications service (e.g., local exchange, intraLATA toll, and interLATA toll), that carrier must obtain separate authorization from the subscriber for each service sold, although the authorizations may be obtained within the same solicitation. Each authorization must be verified separately from any other authorizations obtained in the same solicitation. Each authorization must be verified in accordance with the verification procedures prescribed in this part.
+(b) Any telecommunications carrier that becomes the subject of a Commission forfeiture action through a violation of the third-party verification process set forth in paragraph (c)(3) of this section will be suspended for a five-year period from utilizing the third-party verification process to confirm a carrier change.
 
 (c) No telecommunications carrier shall submit a preferred carrier change order unless and until the order has been confirmed in accordance with one of the following procedures:
 
@@ -58,4 +60,4 @@ Link to an amendment published at 83 FR 33143, July 17, 2018.
 
 (vii) The toll-free customer service telephone number of the acquiring carrier.
 
-[65 FR 47691, Aug. 3, 2000, as amended at 66 FR 12892, Mar. 1, 2001; 66 FR 28124, May 22, 2001; 68 FR 19159, Apr. 18, 2003; 70 FR 12611, Mar. 15, 2005; 73 FR 13149, Mar. 12, 2008]
+[65 FR 47691, Aug. 3, 2000, as amended at 66 FR 12892, Mar. 1, 2001; 66 FR 28124, May 22, 2001; 68 FR 19159, Apr. 18, 2003; 70 FR 12611, Mar. 15, 2005; 73 FR 13149, Mar. 12, 2008; 83 FR 33143, July 17, 2018]

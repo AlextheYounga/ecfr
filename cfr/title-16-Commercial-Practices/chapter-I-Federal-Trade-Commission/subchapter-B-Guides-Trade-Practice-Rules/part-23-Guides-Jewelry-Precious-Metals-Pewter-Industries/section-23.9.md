@@ -1,17 +1,5 @@
-##### § 23.9 Additional guidance for the use of quality marks. #####
+##### § 23.9 Misrepresentation as to content of pewter. #####
 
-As used in these guides, the term *quality mark* means any letter, figure, numeral, symbol, sign, word, or term, or any combination thereof, that has been stamped, embossed, inscribed, or otherwise placed on any industry product and which indicates or suggests that any such product is composed throughout of any precious metal or any precious metal alloy or has a surface or surfaces on which there has been plated or deposited any precious metal or precious metal alloy. Included are the words “gold,” “karat,” “carat,” “silver,” “sterling,” “vermeil,” “platinum,” “iridium,” “palladium,” “ruthenium,” “rhodium,” or “osmium,” or any abbreviations thereof, whether used alone or in conjunction with the words “filled,” “plated,” “overlay,” or “electroplated,” or any abbreviations thereof. Quality markings include those in which the words or terms “gold,” “karat,” “silver,” “vermeil,” “platinum” (or platinum group metals), or their abbreviations are included, either separately or as suffixes, prefixes, or syllables.
+(a) It is unfair or deceptive to mark, describe, or otherwise represent all or part of an industry product as “Pewter” or any abbreviation if such mark or description misrepresents the product's true composition.
 
-(a) *Deception as to applicability of marks.* (1) If a quality mark on an industry product is applicable to only part of the product, the part of the product to which it is applicable (or inapplicable) should be disclosed when, absent such disclosure, the location of the mark misrepresents the product or part's true composition.
-
-(2) If a quality mark is applicable to only part of an industry product, but not another part which is of similar surface appearance, each quality mark should be closely accompanied by an identification of the part or parts to which the mark is applicable.
-
-(b) *Deception by reason of difference in the size of letters or words in a marking or markings.* It is unfair or deceptive to place a quality mark on a product in which the words or letters appear in greater size than other words or letters of the mark, or when different markings placed on the product have different applications and are in different sizes, when the net impression of any such marking would be misleading as to the metallic composition of all or part of the product. (An example of improper marking would be the marking of a gold electroplated product with the word “electroplate” in small type and the word “gold” in larger type, with the result that purchasers and prospective purchasers of the product might only observe the word “gold.”)
-
-Note 1 to § 23.9:
-
-Legibility of markings. If a quality mark is engraved or stamped on an industry product, or is printed on a tag or label attached to the product, the quality mark should be of sufficient size type as to be legible to persons of normal vision, should be so placed as likely to be observed by purchasers, and should be so attached as to remain thereon until consumer purchase.
-
-Note 2 to § 23.9:
-
-Disclosure of identity of manufacturers, processors, or distributors. The National Stamping Act provides that any person, firm, corporation, or association, being a manufacturer or dealer subject to section 294 of the Act, who applies or causes to be applied a quality mark, or imports any article bearing a quality mark “which indicates or purports to indicate that such article is made in whole or in part of gold or silver or of an alloy of either metal” shall apply to the article the trademark or name of such person. 15 U.S.C. 297.
+(b) An industry product or part thereof may be described or marked as “Pewter” or any abbreviation if it consists of at least 900 parts per 1,000 Grade A Tin, with the remainder composed of metals appropriate for use in pewter.

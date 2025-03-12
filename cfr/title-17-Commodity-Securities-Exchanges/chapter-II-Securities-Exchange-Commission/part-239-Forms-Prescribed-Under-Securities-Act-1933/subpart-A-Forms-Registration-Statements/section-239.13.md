@@ -1,5 +1,7 @@
 ##### § 239.13 Form S-3, for registration under the Securities Act of 1933 of securities of certain issuers offered pursuant to certain types of transactions. #####
 
+Link to an amendment published at 83 FR 40877, Aug. 16, 2018.
+
 This instruction sets forth registrant requirements and transaction requirements for the use of Form S-3. Any registrant which meets the requirements of paragraph (a) of this section (“Registrant Requirements”) may use this Form for the registration of securities under the Securities Act of 1933 (“Securities Act”) which are offered in any transaction specified in paragraph (b) of this section (“Transaction Requirement”) provided that the requirement applicable to the specified transaction are met. With respect to majority-owned subsidiaries, see paragraph (c) of this section. With respect to well-known seasoned issuers and majority-owned subsidiaries of well-known seasoned issuers, see paragraph (d) of this section.
 
 (a) *Registrant requirements.* Registrants must meet the following conditions in order to use this Form for registration under the Securities Act of securities offered in the transactions specified in paragraph (b) of this section:

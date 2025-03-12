@@ -26,7 +26,7 @@ In addition to the safety/accident prevention requirements of FAR 52.236-13, Acc
 
 (9) Work in confined spaces (limited exits, potential for oxygen less than 19.5 percent or combustible atmosphere, potential for solid or liquid engulfment, or other hazards considered to be immediately dangerous to life or health such as water tanks, transformer vaults, sewers, cisterns, etc.);
 
-(10) Hazardous materials - a material with a physical or health hazard including but not limited to, flammable, explosive, corrosive, toxic, reactive or unstable, or any operations, which creates any kind of contamination inside an occupied building such as dust from demolition activities, paints, solvents, etc.; or
+(10) Hazardous materials—a material with a physical or health hazard including but not limited to, flammable, explosive, corrosive, toxic, reactive or unstable, or any operations, which creates any kind of contamination inside an occupied building such as dust from demolition activities, paints, solvents, etc.; or
 
 (11) Hazardous noise levels as required in EM 385-1 Section 5B or local standards if more restrictive.
 

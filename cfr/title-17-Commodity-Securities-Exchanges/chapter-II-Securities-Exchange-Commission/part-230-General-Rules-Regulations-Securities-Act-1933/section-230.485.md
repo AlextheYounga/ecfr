@@ -1,5 +1,7 @@
 ##### § 230.485 Effective date of post-effective amendments filed by certain registered investment companies. #####
 
+Link to an amendment published at 83 FR 40873, Aug. 16, 2018.
+
 (a) *Automatic effectiveness.* (1) Except as otherwise provided in this section, a post-effective amendment to a registration statement filed by a registered open-end management investment company, unit investment trust or separate account as defined in section 2(a)(37) of the Investment Company Act of 1940 [15 U.S.C. 80a-2(a)(37)] shall become effective on the sixtieth day after the filing thereof, or a later date designated by the registrant on the facing sheet of the amendment, which date shall be no later than eighty days after the date on which the amendment is filed.
 
 (2) A post-effective amendment filed by a registered open-end management investment company for the purpose of adding a series shall become effective on the seventy-fifth day after the filing thereof or a later date designated by the registrant on the facing sheet of the amendment, which date shall be no later than ninety-five days after the date on which the amendment is filed.

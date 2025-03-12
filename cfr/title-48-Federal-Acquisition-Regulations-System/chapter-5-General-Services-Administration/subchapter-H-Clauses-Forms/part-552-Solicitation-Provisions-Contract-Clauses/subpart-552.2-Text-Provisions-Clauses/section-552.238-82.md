@@ -20,7 +20,7 @@ Special Ordering Procedures for the Acquisition of Order-Level Materials (JAN 20
 
 (3) Order-level materials shall only be acquired in direct support of an individual task or delivery order and not as the primary basis or purpose of the order.
 
-(4) The cumulative value of order-level materials in an individual task or delivery order awarded under a FSS contract or FSS BPA shall not exceed 33.33 percent of the total value of the individual task or delivery order.
+(4) The value of order-level materials in a task or delivery order, or the cumulative value of order-level materials in orders against an FSS BPA awarded under a FSS contract shall not exceed 33.33 percent.
 
 (5) All order-level materials shall be placed under the Order-Level Materials SIN.
 
@@ -60,4 +60,4 @@ Special Ordering Procedures for the Acquisition of Order-Level Materials (JAN 20
 
 (iii) Travel costs are exempt from clause 552.238-74 Industrial Funding Fee and Sales Reporting.
 
-(End of clause)[83 FR 3280, Jan. 24, 2018]
+(End of clause)[83 FR 3280, Jan. 24, 2018, as amended at 83 FR 40684, Aug. 16, 2018]

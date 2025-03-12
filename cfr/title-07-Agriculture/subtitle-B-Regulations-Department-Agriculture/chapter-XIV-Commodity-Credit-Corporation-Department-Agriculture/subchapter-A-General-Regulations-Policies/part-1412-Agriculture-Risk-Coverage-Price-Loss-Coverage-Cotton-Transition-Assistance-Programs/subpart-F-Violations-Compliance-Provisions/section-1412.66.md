@@ -1,6 +1,7 @@
 ##### § 1412.66 Acreage and production reports, prevented planting, and notices of loss. #####
 
-(a) An accurate report of all cropland acreage on the farm is required for ARC, PLC, and CTAP. How to submit the acreage report is specified in part 718 of this title.
+(a) An accurate report of all cropland acreage on the farm is required for ARC or PLC.
+How to submit the acreage report is specified in part 718 of this title.
 
 (b) Prevented planting acreage credit will only be available to acreage that CCC determines was prevented from being planted due to an eligible cause of loss. Acreage ineligible for prevented planted credit includes acreage not planted due to a management decision. Prevented planting acreage credit is subject to the provisions of part 718 of this title.
 
@@ -10,4 +11,4 @@
 
 (2) Such documentary evidence such as contemporaneous measurements, truck scale tickets, and contemporaneous diaries, as is necessary in order to verify the information provided if the crop has been fed to livestock or otherwise disposed of other than through commercial channels, provided the records are reliable or verifiable as determined by CCC. If the crop will be disposed of through retail sales, such as roadside stands, u-pick, etc. and the producer will not be able to certify acceptable records of production, the producer must request an appraisal of the crop acreage prior to harvest.
 
-[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57720, Sept. 26, 2014]
+[79 FR 46339, Aug. 8, 2014, as amended at 79 FR 57720, Sept. 26, 2014; 83 FR 40659, Aug. 16, 2018]

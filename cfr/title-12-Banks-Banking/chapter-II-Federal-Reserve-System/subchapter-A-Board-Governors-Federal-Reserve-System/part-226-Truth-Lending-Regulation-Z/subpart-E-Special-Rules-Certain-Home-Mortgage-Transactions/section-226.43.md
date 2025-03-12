@@ -28,8 +28,6 @@
 
 (2) An extension of credit for which the amount of credit extended is equal to or less than the applicable threshold amount, which is adjusted every year to reflect increases in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as applicable, and published in the official staff commentary to this paragraph (b)(2);
 
-(1) A qualified mortgage as defined in 12 CFR 1026.43(e).
-
 (3) A transaction secured by a mobile home, boat, or trailer.
 
 (4) A transaction to finance the initial construction of a dwelling.
@@ -40,13 +38,13 @@
 
 (7) An extension of credit that is a refinancing secured by a first lien, with refinancing defined as in 12 CFR 1026.20(a) (except that the creditor need not be the original creditor or a holder or servicer of the original obligation), provided that the refinancing meets the following criteria:
 
-(i) Either -
+(i) Either—
 
 (A) The credit risk of the refinancing is retained by the person that held the credit risk of the existing obligation and there is no commitment, at consummation, to transfer the credit risk to another person; or
 
 (B) The refinancing is insured or guaranteed by the same Federal government agency that insured or guaranteed the existing obligation;
 
-(ii) The regular periodic payments under the refinance loan do not -
+(ii) The regular periodic payments under the refinance loan do not—
 
 (A) Cause the principal balance to increase;
 
@@ -60,7 +58,7 @@
 
 (i) A new manufactured home and land, but the exemption shall only apply to the requirement in paragraph (c)(1) of this section that the appraiser conduct a physical visit of the interior of the new manufactured home; or
 
-(ii) A manufactured home and not land, for which the creditor obtains one of the following and provides a copy to the consumer no later than three business days prior to consummation of the transaction -
+(ii) A manufactured home and not land, for which the creditor obtains one of the following and provides a copy to the consumer no later than three business days prior to consummation of the transaction—
 
 (A) For a new manufactured home, the manufacturer's invoice for the manufactured home securing the transaction, provided that the date of manufacture is no earlier than 18 months prior to the creditor's receipt of the consumer's application for credit;
 
@@ -68,7 +66,7 @@
 
 (C) A valuation, as defined in 12 CFR 1026.42(b)(3), of the manufactured home performed by a person who has no direct or indirect interest, financial or otherwise, in the property or transaction for which the valuation is performed and has training in valuing manufactured homes.
 
-(c) *Appraisals required* - (1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer without obtaining, prior to consummation, a written appraisal of the property to be mortgaged. The appraisal must be performed by a certified or licensed appraiser who conducts a physical visit of the interior of the property that will secure the transaction.
+(c) *Appraisals required*—(1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer without obtaining, prior to consummation, a written appraisal of the property to be mortgaged. The appraisal must be performed by a certified or licensed appraiser who conducts a physical visit of the interior of the property that will secure the transaction.
 
 (2) *Safe harbor.* A creditor obtains a written appraisal that meets the requirements for an appraisal required under paragraph (c)(1) of this section if the creditor:
 
@@ -80,7 +78,7 @@
 
 (iv) Has no actual knowledge contrary to the facts or certifications contained in the written appraisal.
 
-(d) *Additional appraisal for certain higher-priced mortgage loans* - (1) *In general.* Except as provided in paragraphs (b) and (d)(7) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer to finance the acquisition of the consumer's principal dwelling without obtaining, prior to consummation, two written appraisals, if:
+(d) *Additional appraisal for certain higher-priced mortgage loans*—(1) *In general.* Except as provided in paragraphs (b) and (d)(7) of this section, a creditor shall not extend a higher-priced mortgage loan to a consumer to finance the acquisition of the consumer's principal dwelling without obtaining, prior to consummation, two written appraisals, if:
 
 (i) The seller acquired the property 90 or fewer days prior to the date of the consumer's agreement to acquire the property and the price in the consumer's agreement to acquire the property exceeds the seller's acquisition price by more than 10 percent; or
 
@@ -100,9 +98,9 @@
 
 (5) *No charge for the additional appraisal.* If the creditor must obtain two appraisals under paragraph (d)(1) of this section, the creditor may charge the consumer for only one of the appraisals.
 
-(6) *Creditor's determination of prior sale date and price* - (i) *Reasonable diligence.* A creditor must obtain two written appraisals under paragraph (d)(1) of this section unless the creditor can demonstrate by exercising reasonable diligence that the requirement to obtain two appraisals does not apply. A creditor acts with reasonable diligence if the creditor bases its determination on information contained in written source documents, such as the documents listed in appendix O to this part.
+(6) *Creditor's determination of prior sale date and price*—(i) *Reasonable diligence.* A creditor must obtain two written appraisals under paragraph (d)(1) of this section unless the creditor can demonstrate by exercising reasonable diligence that the requirement to obtain two appraisals does not apply. A creditor acts with reasonable diligence if the creditor bases its determination on information contained in written source documents, such as the documents listed in appendix O to this part.
 
-(ii) *Inability to determine prior sale date or price - modified requirements for additional appraisal.* If, after exercising reasonable diligence, a creditor cannot determine whether the conditions in paragraphs (d)(1)(i) and (d)(1)(ii) are present and therefore must obtain two written appraisals in accordance with paragraphs (d)(1) through (5) of this section, one of the two appraisals shall include an analysis of the factors in paragraph (d)(4) of this section only to the extent that the information necessary for the appraiser to perform the analysis can be determined.
+(ii) *Inability to determine prior sale date or price—modified requirements for additional appraisal.* If, after exercising reasonable diligence, a creditor cannot determine whether the conditions in paragraphs (d)(1)(i) and (d)(1)(ii) are present and therefore must obtain two written appraisals in accordance with paragraphs (d)(1) through (5) of this section, one of the two appraisals shall include an analysis of the factors in paragraph (d)(4) of this section only to the extent that the information necessary for the appraiser to perform the analysis can be determined.
 
 (7) *Exemptions from the additional appraisal requirement.* The additional appraisal required under paragraph (d)(1) of this section shall not apply to extensions of credit that finance a consumer's acquisition of property:
 
@@ -122,11 +120,11 @@
 
 (viii) Located in a rural county, as defined in 12 CFR 1026.35(b)(2)(iv)(A).
 
-(e) *Required disclosure* - (1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall disclose the following statement, in writing, to a consumer who applies for a higher-priced mortgage loan: “We may order an appraisal to determine the property's value and charge you for this appraisal. We will give you a copy of any appraisal, even if your loan does not close. You can pay for an additional appraisal for your own use at your own cost.” Compliance with the disclosure requirement in Regulation B, 12 CFR 1002.14(a)(2), satisfies the requirements of this paragraph.
+(e) *Required disclosure*—(1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall disclose the following statement, in writing, to a consumer who applies for a higher-priced mortgage loan: “We may order an appraisal to determine the property's value and charge you for this appraisal. We will give you a copy of any appraisal, even if your loan does not close. You can pay for an additional appraisal for your own use at your own cost.” Compliance with the disclosure requirement in Regulation B, 12 CFR 1002.14(a)(2), satisfies the requirements of this paragraph.
 
 (2) *Timing of disclosure.* The disclosure required by paragraph (e)(1) of this section shall be delivered or placed in the mail no later than the third business day after the creditor receives the consumer's application for a higher-priced mortgage loan subject to this section. In the case of a loan that is not a higher-priced mortgage loan subject to this section at the time of application, but becomes a higher-priced mortgage loan subject to this section after application, the disclosure shall be delivered or placed in the mail not later than the third business day after the creditor determines that the loan is a higher-priced mortgage loan subject to this section.
 
-(f) *Copy of appraisals* - (1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall provide to the consumer a copy of any written appraisal performed in connection with a higher-priced mortgage loan pursuant to paragraphs (c) and (d) of this section.
+(f) *Copy of appraisals*—(1) *In general.* Except as provided in paragraph (b) of this section, a creditor shall provide to the consumer a copy of any written appraisal performed in connection with a higher-priced mortgage loan pursuant to paragraphs (c) and (d) of this section.
 
 (2) *Timing.* A creditor shall provide to the consumer a copy of each written appraisal pursuant to paragraph (f)(1) of this section:
 
