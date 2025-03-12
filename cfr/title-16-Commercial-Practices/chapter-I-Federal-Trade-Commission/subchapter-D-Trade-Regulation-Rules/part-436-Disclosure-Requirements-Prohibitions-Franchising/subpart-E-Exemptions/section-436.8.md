@@ -1,5 +1,7 @@
 ##### § 436.8 Exemptions. #####
 
+Link to an amendment published at 85 FR 38791, June 29, 2020.
+
 (a) The provisions of part 436 shall not apply if the franchisor can establish any of the following:
 
 (1) The total of the required payments, or commitments to make a required payment, to the franchisor or an affiliate that are made any time from before to within six months after commencing operation of the franchisee's business is less than $570.

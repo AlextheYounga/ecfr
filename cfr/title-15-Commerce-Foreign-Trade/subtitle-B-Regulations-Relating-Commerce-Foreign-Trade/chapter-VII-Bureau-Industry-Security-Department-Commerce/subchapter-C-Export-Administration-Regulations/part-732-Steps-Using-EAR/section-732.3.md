@@ -1,7 +1,5 @@
 ##### § 732.3 Steps regarding the ten general prohibitions. #####
 
-Link to an amendment published at 85 FR 23462, Apr. 28, 2020.
-
 (a) *Introduction.* If your item or activity is subject to the scope of the EAR, you should then consider each of the ten general prohibitions listed in part 736 of the EAR. General Prohibitions One ((Exports and Reexports), Two (Parts and Components Reexports), and Three (Foreign-Produced Direct Product Reexports) (§ 736.2(b) (1), (2), and (3) of the EAR) are product controls that are shaped and limited by parameters specified on the CCL and Country Chart. General Prohibitions Four through Ten are prohibitions on certain activities that are not allowed without authorization from BIS, and these prohibitions apply to all items subject to the EAR unless otherwise specified (§ 736.2(b) (4) through (10) of the EAR).
 
 (b) *Step 7: Classification.* (1) You should classify your items “subject to the EAR” in the relevant entry on the CCL, and you may do so on your own without BIS assistance. The CCL includes a supplement no. 4 to part 774 - Commerce Control List Order of Review. This supplement establishes the steps (i.e., the order of review) that should be followed in classifying items that are “subject to the EAR.” The exporter, reexporter, or transferor is responsible for correctly classifying the items in a transaction, which may involve submitting a classification request to BIS. Failure to classify or have classified the item correctly does not relieve the person of the obligation to obtain a license when one is required by the EAR.
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 23462, Apr. 28, 2020.
 
 (3) For items subject to the EAR but not listed on the CCL, the proper classification is EAR99. This number is a “basket” for items not specified under any CCL entry and appears at the end of each Category on the CCL.
 
-(4) Items subject to temporary CCL controls are classified under the ECCN 0Y521 series (i.e., 0A521, 0B521, 0C521, 0D521 and 0E521) pursuant to § 742.6(a)(7) of the EAR while a determination is being made as to whether classification under a revised or new ECCN or EAR99 designation is appropriate .
+(4) Items subject to temporary CCL controls are classified under the ECCN 0Y521 series (i.e., 0A521, 0B521, 0C521, 0D521 and 0E521) pursuant to § 742.6(a)(8) of the EAR while a determination is being made as to whether classification under a revised or new ECCN or EAR99 designation is appropriate.
 
 (c) *Step 8: Country of ultimate destination.* You should determine the country of ultimate destination. The country of destination determines the applicability of several general prohibitions, License Exceptions, and other requirements. Note that part 754 of the EAR concerning short supply controls is self-contained and is the only location in the EAR that contains both the prohibitions and exceptions applicable to short supply controls.
 

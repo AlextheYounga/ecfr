@@ -1,6 +1,6 @@
 ##### § 202.4 Group registration. #####
 
-Link to an amendment published at 85 FR 31982, May 28, 2020.Link to an amendment published at 85 FR 37346, June 22, 2020.
+Link to an amendment published at 85 FR 37346, June 22, 2020.
 
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
@@ -68,7 +68,7 @@ Link to an amendment published at 85 FR 31982, May 28, 2020.Link to an amendment
 
 (f) *Group registration of newsletters.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of newsletter issues may be registered with one application, the required deposit, and the filing fee required by § 201.3(c) of this chapter, if the following conditions are met:
 
-(1) *Eligible works.* (i) All the issues in the group must be newsletters. For purposes of this section, a newsletter is a serial that is published and distributed by mail, electronic media, or other medium, including paper, email, or download. Publication must usually occur at least two days each week and the newsletter must contain news or information that is chiefly of interest to a special group, such as trade and professional associations, colleges, schools, or churches. Newsletters are typically distributed through subscriptions, but are not distributed through newsstands or other retail outlets.
+(1) *Eligible works.* (i) All the issues in the group must be newsletters. For purposes of this section, a newsletter is a serial that is published and distributed by mail, electronic media, or other medium, including paper, email, or download. The newsletter must contain news or information that is chiefly of interest to a special group, such as trade and professional associations, colleges, schools, or churches. Newsletters are typically distributed through subscriptions, but are not distributed through newsstands or other retail outlets.
 
 (ii) The group must include at least two issues.
 
@@ -163,4 +163,4 @@ Link to an amendment published at 85 FR 31982, May 28, 2020.Link to an amendment
 (n) *The scope of a group registration.* When the Office issues a group registration under paragraphs (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
 When the Office issues a group registration under paragraphs (c), (g), (h), (i), or (k)of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
 
-[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019]
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020]

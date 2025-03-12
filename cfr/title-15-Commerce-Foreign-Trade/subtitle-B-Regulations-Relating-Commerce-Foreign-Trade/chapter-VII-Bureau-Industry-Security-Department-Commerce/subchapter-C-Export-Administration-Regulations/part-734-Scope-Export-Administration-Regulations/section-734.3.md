@@ -1,7 +1,5 @@
 ##### § 734.3 Items subject to the EAR. #####
 
-Link to an amendment published at 85 FR 23462, Apr. 28, 2020.
-
 (a) Except for items excluded in paragraph (b) of this section, the following items are subject to the EAR:
 
 (1) All items in the United States, including in a U.S. Foreign Trade Zone or moving intransit through the United States from one foreign country to another;
@@ -66,7 +64,7 @@ Note to paragraph (b)(3):
 
 Except as set forth in part 760 of this title, information that is not within the scope of the definition of “technology” (see § 772.1 of the EAR) is not subject to the EAR.
 
-(c) “Items subject to the EAR” consist of the items listed on the Commerce Control List (CCL) in part 774 of the EAR and all other items which meet the definition of that term. For ease of reference and classification purposes, items subject to the EAR which are *not* listed on the CCL are designated as “EAR99.” Items subject to temporary CCL controls are classified under the ECCN 0Y521 series (i.e., 0A521, 0B521, 0C521, 0D521, and 0E521) pursuant to § 742.6(a)(7) of the EAR, while a determination is made as to whether classification under a revised or new ECCN, or an EAR99 designation, is appropriate.
+(c) “Items subject to the EAR” consist of the items listed on the Commerce Control List (CCL) in part 774 of the EAR and all other items which meet the definition of that term. For ease of reference and classification purposes, items subject to the EAR which are *not* listed on the CCL are designated as “EAR99.” Items subject to temporary CCL controls are classified under the ECCN 0Y521 series (i.e., 0A521, 0B521, 0C521, 0D521, and 0E521) pursuant to § 742.6(a)(8) of the EAR, while a determination is made as to whether classification under a revised or new ECCN, or an EAR99 designation, is appropriate.
 
 (d) Commodity classification determinations and advisory opinions issued by BIS are not, and may not be relied upon as, determinations that the items in question are “subject to the EAR,” as described in § 748.3 of the EAR.
 

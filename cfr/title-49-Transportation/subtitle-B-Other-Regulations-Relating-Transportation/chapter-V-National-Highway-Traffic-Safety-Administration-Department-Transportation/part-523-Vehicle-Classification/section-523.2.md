@@ -1,7 +1,5 @@
 ##### § 523.2 Definitions. #####
 
-Link to an amendment published at 85 FR 25272, Apr. 30, 2020.
-
 As used in this part:
 
 *Ambulance* has the meaning given in 40 CFR 86.1803.
@@ -34,7 +32,7 @@ As used in this part:
 
 *Concrete mixer* has the meaning given in 40 CFR 1037.801.
 
-*Curb weight* has the meaning given in 49 CFR 571.3.
+*Curb weight* has the meaning given in 40 CFR 86.1803-01.
 
 *Dedicated vehicle* has the same meaning as dedicated automobile as defined in 49 U.S.C. 32901(a)(8).
 
@@ -58,7 +56,7 @@ As used in this part:
 
 *Footprint* is defined as the product of track width (measured in inches, calculated as the average of front and rear track widths, and rounded to the nearest tenth of an inch) times wheelbase (measured in inches and rounded to the nearest tenth of an inch), divided by 144 and then rounded to the nearest tenth of a square foot. For purposes of this definition, track width is the lateral distance between the centerlines of the base tires at ground, including the camber angle. For purposes of this definition, wheelbase is the longitudinal distance between front and rear wheel centerlines.
 
-*Full-size pickup truck* means a light truck or medium duty passenger vehicle that meets the requirements specified in 40 CFR 86.1866-12(e).
+*Full-size pickup truck* means a light truck or medium duty passenger vehicle that meets the specifications in 40 CFR 86.1803-01.
 
 *Gross axle weight rating (GAWR)* has the meaning given in 49 CFR 571.3.
 
@@ -78,7 +76,7 @@ As used in this part:
 
 *Manufacturer* has the meaning given in 49 U.S.C. 32901(a)(14).
 
-*Medium duty passenger vehicle* means a vehicle which would satisfy the criteria in § 523.5 (relating to light trucks) but for its gross vehicle weight rating or its curb weight, which is rated at more than 8,500 lbs GVWR or has a vehicle curb weight of more than 6,000 pounds or has a basic vehicle frontal area in excess of 45 square feet, and which is designed primarily to transport passengers, but does not include a vehicle that -
+*Medium duty passenger vehicle* means a vehicle which would satisfy the criteria in § 523.5 (relating to light trucks) but for its gross vehicle weight rating or its curb weight, which is rated at more than 8,500 lbs GVWR or has a vehicle curb weight of more than 6,000 pounds or has a basic vehicle frontal area in excess of 45 square feet, and which is designed primarily to transport passengers, but does not include a vehicle that—
 
 (1) Is an “incomplete vehicle” ' as defined in this subpart; or
 
@@ -98,19 +96,19 @@ As used in this part:
 
 (1) For front seat volume, divide 1,728 into the product of the following SAE dimensions, measured in inches to the nearest 0.1 inches, and round the quotient to the nearest 0.001 cubic feet.
 
-(i) H61-Effective head room - front.
+(i) H61-Effective head room—front.
 
-(ii) W3-Shoulder room - front.
+(ii) W3-Shoulder room—front.
 
 (iii) L34-Maximum effective leg room-accelerator.
 
 (2) For the volume of seats to the rear of the front seat, divide 1,728 into the product of the following SAE dimensions, measured in inches to the nearest 0.1 inches, and rounded the quotient to the nearest 0.001 cubic feet.
 
-(i) H63-Effective head room - second.
+(i) H63-Effective head room—second.
 
-(ii) W4-Shoulder room - second.
+(ii) W4-Shoulder room—second.
 
-(iii) L51-Minimum effective leg room - second.
+(iii) L51-Minimum effective leg room—second.
 
 *Pickup truck* means a non-passenger automobile which has a passenger compartment and an open cargo area (bed).
 
@@ -146,4 +144,4 @@ As used in this part:
 
 *Work truck* means a vehicle that is rated at more than 8,500 pounds and less than or equal to 10,000 pounds gross vehicle weight, and is not a medium-duty passenger vehicle as defined in 49 U.S.C. 32901(a)(19).
 
-[81 FR 74235, Oct. 25, 2016]
+[81 FR 74235, Oct. 25, 2016, as amended at 85 FR 25272, Apr. 30, 2020]

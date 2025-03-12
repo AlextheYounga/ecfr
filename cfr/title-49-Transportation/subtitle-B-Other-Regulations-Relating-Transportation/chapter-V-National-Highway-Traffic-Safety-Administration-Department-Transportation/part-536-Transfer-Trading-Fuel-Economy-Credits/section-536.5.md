@@ -1,7 +1,5 @@
 ##### § 536.5 Trading infrastructure. #####
 
-Link to an amendment published at 85 FR 25275, Apr. 30, 2020.
-
 (a) *Accounts.* NHTSA maintains “accounts” for each credit holder. The account consists of a balance of credits in each compliance category and vintage held by the holder.
 
 (b) *Who may hold credits.* Every manufacturer subject to fuel economy standards under 49 CFR parts 531 or 533 is automatically an account holder. If the manufacturer earns credits pursuant to this regulation, or receives credits from another party, so that the manufacturer's account has a non-zero balance, then the manufacturer is also a credit holder. Any party designated as a recipient of credits by a current credit holder will receive an account from NHTSA and become a credit holder, subject to the following conditions:
@@ -12,9 +10,25 @@ Link to an amendment published at 85 FR 25275, Apr. 30, 2020.
 
 (3) NHTSA maintains accounts with zero balances for a period of time, but reserves the right to close accounts that have had zero balances for more than one year.
 
-(c) *Automatic debits and credits of accounts.* (1) Upon receipt of a verified instruction to trade credits from an existing credit holder, NHTSA verifies the presence of sufficient credits in the account of the trader, then debits the account of the trader and credits the account of the recipient with credits of the vintage, origin, and compliance category designated. Traded credits identified by a specific compliance category are deposited into the recipient's account in that same compliance category. If the recipient is not a current account holder, NHTSA establishes the account subject to the conditions described in § 536.5(b), and adds the credits to the newly-opened account.
+(c) *Automatic debits and credits of accounts.* (1) To carry credits forward, backward, transfer credits, or trade credits into other credit accounts, a manufacturer or credit holder must submit a credit instruction to NHTSA. A credit instruction must detail and include:
 
-(2) NHTSA automatically deletes unused credits from holders' accounts as they reach their expiry date.
+(i) The credit holder(s) involved in the transaction.
+
+(ii) The originating credits described by the amount of the credits, compliance category and the vintage of the credits.
+
+(iii) The recipient credit account(s) for banking or applying the originating credits described by the compliance category(ies), model year(s), and if applicable the adjusted credit amount(s) and adjustment factor(s).
+
+(iv) For trades, a contract authorizing the trade signed by the manufacturers or credit holders or by managers legally authorized to obligate the sale and purchase of the traded credits.
+
+(2) Upon receipt of a credit instruction from an existing credit holder, NHTSA verifies the presence of sufficient credits in the account(s) of the credit holder(s) involved as applicable and notifies the credit holder(s) that the credits will be debited from and/or credited to the accounts involved, as specified in the credit instruction. NHTSA determines if the credits can be debited or credited based upon the amount of available credits, accurate application of any adjustment factors and the credit requirements prescribed by this part that are applicable at the time the transaction is requested.
+
+(3) After notifying the credit holder(s), all accounts involved are either credited or debited, as appropriate, in line with the credit instruction. Traded credits identified by a specific compliance category are deposited into the recipient's account in that same compliance category and model year. If a recipient of credits as identified in a credit instruction is not a current account holder, NHTSA establishes the credit recipient's account, subject to the conditions described in § 536.5(b), and adds the credits to the newly-opened account.
+
+(4) NHTSA will automatically delete unused credits from holders' accounts when those credits reach their expiry date.
+
+(5) Starting in model year 2021, manufacturers or credit holders issuing credit instructions or providing credit allocation plans as specified in § 536.5(d), must use the NHTSA Credit Template fillable form (OMB Control No. 2127-0019, NHTSA Form 1475). The NHTSA Credit Template is available for download on NHTSA's website. If a credit instruction includes a trade, the NHTSA Credit Template must be signed by managers legally authorized to obligate the sale and/or purchase of the traded credits from both parties to the trade. The NHTSA Credit Template signed by both parties to the trade serves as an acknowledgement that the parties have agreed to trade credits, and does not dictate terms, conditions, or other business obligations of the parties. All parties trading credits must also provide NHTSA the price paid for the credits including a description of any other monetary or non-monetary terms affecting the price of the traded credits, such as any technology exchanged or shared for the credits, any other non-monetary payment for the credits, or any other agreements related to the trade. Manufacturers must submit this information to NHTSA in a PDF document along with the Credit Template through the CAFE email, *cafe@dot.gov*. NHTSA reserves the right to request additional information from the parties regarding the terms of the trade.
+
+(6) NHTSA will consider claims that information submitted to the agency under this section is entitled to confidential treatment under 5 U.S.C. 552(b) and under the provisions of part 512 of this chapter if the information is submitted in accordance with the procedures of that part.
 
 (d) *Compliance.* (1) NHTSA assesses compliance with fuel economy standards each year, utilizing the certified and reported CAFE data provided by the Environmental Protection Agency for enforcement of the CAFE program pursuant to 49 U.S.C. 32904(e). Credit values are calculated based on the CAFE data from the EPA. If a particular compliance category within a manufacturer's fleet has above standard fuel economy, NHTSA adds credits to the manufacturer's account for that compliance category and vintage in the appropriate amount by which the manufacturer has exceeded the applicable standard.
 
@@ -26,8 +40,10 @@ Link to an amendment published at 85 FR 25275, Apr. 30, 2020.
 
 (5) The value, when used for compliance, of any credits received via trade or transfer is adjusted, using the adjustment factor described in § 536.4(c), pursuant to 49 U.S.C. 32903(f)(1).
 
-(6) Credit allocation plans received from a manufacturer will be reviewed and approved by NHTSA. NHTSA will approve a credit allocation plan unless it finds that the proposed credits are unavailable or that it is unlikely that the plan will result in the manufacturer earning sufficient credits to offset the subject credit shortfall. If a plan is approved, NHTSA will revise the respective manufacturer's credit account accordingly. If a plan is rejected, NHTSA will notify the respective manufacturer and request a revised plan or payment of the appropriate fine.
+(6) Credit allocation plans received from a manufacturer will be reviewed and approved by NHTSA. Starting in model year 2021, use the NHTSA Credit Template (OMB Control No. 2127-0019, NHTSA Form 1475) to record the credit transactions requested in the credit allocation plan. The template is a fillable form that has an option for recording and calculating credit transactions for credit allocation plans. The template calculates the required adjustments to the credits. The credit allocation plan and the completed transaction template must be submitted to NHTSA. NHTSA will approve the credit allocation plan unless it finds that the proposed credits are unavailable or that it is unlikely that the plan will result in the manufacturer earning sufficient credits to offset the subject credit shortfall. If the plan is approved, NHTSA will revise the respective manufacturer's credit account accordingly. If the plan is rejected, NHTSA will notify the respective manufacturer and request a revised plan or payment of the appropriate fine.
 
 (e) *Reporting.* (1) NHTSA periodically publishes the names and credit holdings of all credit holders. NHTSA does not publish individual transactions, nor respond to individual requests for updated balances from any party other than the account holder.
 
 (2) NHTSA issues an annual credit status letter to each party that is a credit holder at that time. The letter to a credit holder includes a credit accounting record that identifies the credit status of the credit holder including any activity (earned, expired, transferred, traded, carry-forward and carry-back credit transactions/allocations) that took place during the identified activity period.
+
+[74 FR 14452, Mar. 30, 2009, as amended at 85 FR 25275, Apr. 30, 2020]

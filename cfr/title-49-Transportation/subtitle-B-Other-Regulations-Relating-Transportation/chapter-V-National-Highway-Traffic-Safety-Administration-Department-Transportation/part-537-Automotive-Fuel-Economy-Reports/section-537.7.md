@@ -1,52 +1,52 @@
 ##### § 537.7 Pre-model year and mid-model year reports. #####
 
-Link to an amendment published at 85 FR 25277, Apr. 30, 2020.
+(a)(1) Provide a report with the information required by paragraphs (b) and (c) of this section for each domestic and import passenger automobile fleet, as specified in part 531 of this chapter, for the current model year.
 
-(a)(1) Provide the information required by paragraphs (b) and (c) of this section for the manufacturer's passenger automobiles for the current model year.
+(2) Provide a report with the information required by paragraphs (b) and (c) of this section for each light truck fleet, as specified in part 533 of this chapter, for the current model year.
 
-(2) After providing the information required by paragraph (a)(1) of this section provide the information required by paragraphs (b) and (c) for this section of each class, as specified in part 533 of this chapter, of the manufacturer's light trucks for the current model year.
+(3) For model year 2023 and later, provide the information required by paragraphs (a)(1) and (2) of this section for pre-model and mid-model year reports in accordance with the NHTSA CAFE Projections Reporting Template (OMB Control No. 2127-0019, NHTSA Form 1474). The required reporting template can be downloaded from NHTSA's website.
 
 (b) *Projected average and required fuel economy.* (1) State the projected average fuel economy for the manufacturer's automobiles determined in accordance with § 537.9 and based upon the fuel economy values and projected sales figures provided under paragraph (c)(2) of this section.
 
 (2) State the projected final average fuel economy that the manufacturer anticipates having if changes implemented during the model year will cause that average to be different from the average fuel economy projected under paragraph (b)(1) of this section.
 
-(3) State the projected required fuel economy for the manufacturer's passenger automobiles and light trucks determined in accordance with 49 CFR 531.5(c) and 49 CFR 533.5 and based upon the projected sales figures provided under paragraph (c)(2) of this section. For each unique model type and footprint combination of the manufacturer's automobiles, provide the information specified in paragraph (b)(3)(i) and (ii) of this section in tabular form. List the model types in order of increasing average inertia weight from top to bottom down the left side of the table and list the information categories in the order specified in paragraphs (b)(3)(i) and (ii) of this section from left to right across the top of the table. Other formats, such as those accepted by EPA, which contain all of the information in a readily identifiable format are also acceptable.
+(3) State the projected required fuel economy for the manufacturer's passenger automobiles and light trucks determined in accordance with §§ 531.5(c) and 533.5 of this chapter and based upon the projected sales figures provided under paragraph (c)(2) of this section. For each unique model type and footprint combination of the manufacturer's automobiles, provide the information specified in paragraph (b)(3)(i) and (ii) of this section in tabular form. List the model types in order of increasing average inertia weight from top to bottom down the left side of the table and list the information categories in the order specified in paragraphs (b)(3)(i) and (ii) of this section from left to right across the top of the table. Other formats, such as those accepted by the EPA, which contain all the information in a readily identifiable format are also acceptable. For model year 2023 and later, for each unique model type and footprint combination of the manufacturer's automobiles, provide the information specified in paragraph (b)(3)(i) and (ii) of this section in accordance with the CAFE Projections Reporting Template (OMB Control No. 2127-0019, NHTSA Form 1474).
 
 (i) In the case of passenger automobiles:
 
-(A) Beginning model year 2013, base tire as defined in 49 CFR 523.2,
+(A) Beginning model year 2013, base tire as defined in § 523.2 of this chapter,
 
-(B) Beginning model year 2013, front axle, rear axle and average track width as defined in 49 CFR 523.2,
+(B) Beginning model year 2013, front axle, rear axle, and average track width as defined in § CFR 523.2 of this chapter,
 
-(C) Beginning model year 2013, wheelbase as defined in 49 CFR 523.2, and
+(C) Beginning model year 2013, wheelbase as defined in § 523.2 of this chapter, and
 
-(D) Beginning model year 2013, footprint as defined in 49 CFR 523.2.
+(D) Beginning model year 2013, footprint as defined in § 523.2 of this chapter.
 
-(E) Optionally, beginning model year 2013, the target standard for each unique model type and footprint entry listed in accordance with the equation provided in 49 CFR 531 Figure 3.
+(E) The fuel economy target value for each unique model type and footprint entry listed in accordance with the equation provided in part 531 of this chapter.
 
 (ii) In the case of light trucks:
 
-(A) Beginning model year 2013, base tire as defined in 49 CFR 523.2,
+(A) Beginning model year 2013, base tire as defined in § 523.2 of this chapter,
 
-(B) Beginning model year 2013, front axle, rear axle and average track width as defined in 49 CFR 523.2,
+(B) Beginning model year 2013, front axle, rear axle, and average track width as defined in § 523.2 of this chapter,
 
-(C) Beginning model year 2013, wheelbase as defined in 49 CFR 523.2, and
+(C) Beginning model year 2013, wheelbase as defined in § 523.2 of this chapter, and
 
-(D) Beginning model year 2013, footprint as defined in 49 CFR 523.2.
+(D) Beginning model year 2013, footprint as defined in § 523.2 of this chapter.
 
-(E) Optionally, beginning model year 2013, the target standard for each unique model type and footprint entry listed in accordance with the equation provided in 49 CFR 533 Figure 4.
+(E) The fuel economy target value for each unique model type and footprint entry listed in accordance with the equation provided in part 533 of this chapter.
 
 (4) State the projected final required fuel economy that the manufacturer anticipates having if changes implemented during the model year will cause the targets to be different from the target fuel economy projected under paragraph (b)(3) of this section.
 
 (5) State whether the manufacturer believes that the projections it provides under paragraphs (b)(2) and (b)(4) of this section, or if it does not provide an average or target under those paragraphs, the projections it provides under paragraphs (b)(1) and (b)(3) of this section, sufficiently represent the manufacturer's average and target fuel economy for the current model year for purposes of the Act. In the case of a manufacturer that believes that the projections are not sufficiently representative for those purposes, state the specific nature of any reason for the insufficiency and the specific additional testing or derivation of fuel economy values by analytical methods believed by the manufacturer necessary to eliminate the insufficiency and any plans of the manufacturer to undertake that testing or derivation voluntarily and submit the resulting data to the Environmental Protection Agency under 40 CFR 600.509.
 
-(c) *Model type and configuration fuel economy and technical information.* (1) For each model type of the manufacturer's automobiles, provide the information specified in paragraph (c)(2) of this section in tabular form. List the model types in order of increasing average inertia weight from top to bottom down the left side of the table and list the information categories in the order specified in paragraph (c)(2) of this section from left to right across the top of the table.
+(c) *Model type and configuration fuel economy and technical information.* (1) For each model type of the manufacturer's automobiles, provide the information specified in paragraph (c)(2) of this section in tabular form. List the model types in order of increasing average inertia weight from top to bottom down the left side of the table and list the information categories in the order specified in paragraph (c)(2) of this section from left to right across the top of the table. For model year 2023 and later, CAFE reports required by part 537 of this chapter, shall for each model type of the manufacturer's automobiles, provide the information in specified in paragraph (c)(2) of this section in accordance with the NHTSA CAFE Projections Reporting Template (OMB Control No. 2127-0019, NHTSA Form 1474) and list the model types in order of increasing average inertia weight from top to bottom.
 
 (2)(i) Combined fuel economy; and
 
 (ii) Projected sales for the current model year and total sales of all model types.
 
-(3) (*Pre-model year report only.*) For each vehicle configuration whose fuel economy was used to calculate the fuel economy values for a model type under paragraph (c)(2) of this section, provide the information specified in paragraph (c)(4) of this section either in tabular form or as a fixed format computer tape. If a tabular form is used then list the vehicle configurations, by model type in the order listed under paragraph (c)(2) of this section, from top to bottom down the left of the table and list the information categories across the top of the table from left to right in the order specified in paragraph (c)(4) of this section. Other formats (such as copies of EPA reports) which contain all the required information in a readily identifiable form are also acceptable. If a computer tape is used, any NHTSA approved fixed format structure may be used, but each vehicle configuration record should identify the manufacturer, model type, and for light trucks the drive wheel code, e.g., 2 or 4 wheel drive. At least the information categories specified here and in paragraph (c)(4) of this section must be provided, but if preferred the tape may contain any additional categories. Each computer tape record must contain all the required categories of information to enable direct reading and interpretation in the fixed format that was approved. There should be no titles, column headings, page numbers, or attachment numbers on the tape. It must be possible to directly calculate and produce the tables specified in paragraph (c)(1) of this section from the records on this tape.
+(3) (Pre-model year reports only through model year 2022.) For each vehicle configuration whose fuel economy was used to calculate the fuel economy values for a model type under paragraph (c)(2) of this section, provide the information specified in paragraph (c)(4) of this section in accordance with the NHTSA CAFE Projections Reporting Template (OMB Control No. 2127-0019, NHTSA Form 1474).
 
 (4) (i) Loaded vehicle weight;
 
@@ -136,12 +136,10 @@ Link to an amendment published at 85 FR 25277, Apr. 30, 2020.
 
 (7) Identify any air-conditioning (AC), off-cycle and full-size pick-up truck technologies used each model year to calculate the average fuel economy specified in 40 CFR 600.510-12.
 
-(i) Provide a list of each air conditioning efficiency improvement technology utilized in your fleet(s) of vehicles for each model year. For each technology identify vehicles by make and model types that have the technology, which compliance category those vehicles belong to and the number of vehicles for each model equipped with the technology. For each compliance category (domestic passenger car, import passenger car and light truck) report the “Air conditioning fuel consumption improvements” value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(i).
+(i) Provide a list of each air conditioning efficiency improvement technology utilized in your fleet(s) of vehicles for each model year. For each technology identify vehicles by make and model types that have the technology, which compliance category those vehicles belong to and the number of vehicles for each model equipped with the technology. For each compliance category (domestic passenger car, import passenger car, and light truck), report the air conditioning fuel consumption improvement value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(i).
 
-(ii) Provide a list of off-cycle efficiency improvement technologies utilized in your fleet(s) of vehicles for each model year that is pending or approved by EPA. For each technology identify vehicles by make and model that have the technology, which compliance category those vehicles belong to, the number of vehicles for each model equipped with the technology, and the associated fuel efficiency credits (grams/mile) available for each technology. For each compliance category (domestic passenger car, import passenger car and light truck) calculate the fleet “Off-Cycle Credit” value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(ii).
+(ii) Provide a list of off-cycle efficiency improvement technologies utilized in your fleet(s) of vehicles for each model year that is pending or approved by the EPA. For each technology identify vehicles by make and model types that have the technology, which compliance category those vehicles belong to, the number of vehicles for each model equipped with the technology, and the associated off-cycle credits (grams/mile) available for each technology. For each compliance category (domestic passenger car, import passenger car, and light truck), calculate the fleet off-cycle fuel consumption improvement value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(ii).
 
-(iii) Provide a list of full-size pick-up trucks in your fleet that meet the mild and strong hybrid vehicle definitions. For each mild and strong hybrid type, identify vehicles by make and model that have the technology, the number of vehicles produced for each model equipped with the technology, the total number of full size pick-up trucks produced with and without the technology, the calculated percentage of hybrid vehicles relative to the total number of vehicles produced and the associated fuel efficiency credits (grams/mile) available for each technology. For the light truck compliance category calculate the fleet “Pick-up Truck Credit” value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(iii).
+(iii) Provide a list of full-size pickup trucks in your fleet that meet the mild and strong hybrid vehicle definitions. For each mild and strong hybrid type, identify vehicles by make and model types that have the technology, the number of vehicles produced for each model equipped with the technology, the total number of full-size pickup trucks produced with and without the technology, the calculated percentage of hybrid vehicles relative to the total number of vehicles produced, and the associated full-size pickup truck credits (grams/mile) available for each technology. For the light truck compliance category, calculate the fleet pickup truck fuel consumption improvement value in gallons/mile in accordance with the equation specified in 40 CFR 600.510-12(c)(3)(iii).
 
-(iv) For each model year and compliance category, provide the “MPG” and “Average MPG” which are the fleet CAFE value before and the revised fleet CAFE value after taking into consideration adjustments for AC, Off-Cycle and full-size pick-up truck technologies calculated in accordance with 40 CFR 600.510-12 (c)(1)(ii).
-
-[47 FR 34986, Aug. 12, 1982, as amended at 58 FR 18029, Apr. 7, 1993; 71 FR 17678, Apr. 6, 2006; 74 FR 14456, Mar. 30, 2009; 75 FR 25728, May 7, 2010; 77 FR 63198, Oct. 15, 2012]
+[47 FR 34986, Aug. 12, 1982, as amended at 58 FR 18029, Apr. 7, 1993; 71 FR 17678, Apr. 6, 2006; 74 FR 14456, Mar. 30, 2009; 75 FR 25728, May 7, 2010; 77 FR 63198, Oct. 15, 2012; 85 FR 25277, Apr. 30, 2020]

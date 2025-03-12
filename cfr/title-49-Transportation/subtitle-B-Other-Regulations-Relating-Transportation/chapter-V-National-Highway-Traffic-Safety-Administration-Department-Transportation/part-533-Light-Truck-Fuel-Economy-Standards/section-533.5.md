@@ -1,7 +1,5 @@
 ##### § 533.5 Requirements. #####
 
-Link to an amendment published at 85 FR 25273, Apr. 30, 2020.
-
 (a) Each manufacturer of light trucks shall comply with the following fleet average fuel economy standards, expressed in miles per gallon, in the model year specified as applicable:
 
 Table I
@@ -99,7 +97,7 @@ Figure 4:
 
 ![](/graphics/er15no12.102.gif)Where:*TARGET* is the fuel economy target (in mpg) applicable to vehicles of a given footprint (*FOOTPRINT,* in square feet);Parameters *a, b, c, d, e, f, g,* and *h* are defined in Table VII; andThe *MIN* and *MAX* functions take the minimum and maximum, respectively, of the included values.
 
-Table VII-Parameters for the Light Truck Fuel Economy Targets for MYs 2017-2025
+Table VII - Parameters for the Light Truck Fuel Economy Targets for MYs 2017-2026
 
 | Model year  | Parameters  |                               |                |             |             |                               |                |        |
 |-------------|-------------|-------------------------------|----------------|-------------|-------------|-------------------------------|----------------|--------|
@@ -108,11 +106,12 @@ Table VII-Parameters for the Light Truck Fuel Economy Targets for MYs 2017-2025
 |    2018     |    37.36    |             25.20             |   0.0005358    |  0.004797   |    35.31    |             25.20             |   0.0004546    |0.009682|
 |    2019     |    38.16    |             25.25             |   0.0005265    |  0.004623   |    35.41    |             25.25             |   0.0004546    |0.009603|
 |    2020     |    39.11    |             25.25             |   0.0005140    |  0.004494   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2021     |    41.80    |             25.25             |   0.0004820    |  0.004164   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2022     |    43.79    |             26.29             |   0.0004607    |  0.003944   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2023     |    45.89    |             27.53             |   0.0004404    |  0.003735   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2024     |    48.09    |             28.83             |   0.0004210    |  0.003534   |    35.41    |             25.25             |   0.0004546    |0.009603|
-|    2025     |    50.39    |             30.19             |   0.0004025    |  0.003343   |    35.41    |             25.25             |   0.0004546    |0.009603|
+|    2021     |    39.71    |             25.63             |    0.000506    |   0.00443   |     NA      |              NA               |       NA       |   NA   |
+|    2022     |    40.31    |             26.02             |    0.000499    |   0.00436   |     NA      |              NA               |       NA       |   NA   |
+|    2023     |    40.93    |             26.42             |    0.000491    |   0.00429   |     NA      |              NA               |       NA       |   NA   |
+|    2024     |    41.55    |             26.82             |    0.000484    |   0.00423   |     NA      |              NA               |       NA       |   NA   |
+|    2025     |    42.18    |             27.23             |    0.000477    |   0.00417   |     NA      |              NA               |       NA       |   NA   |
+|    2026     |    42.82    |             27.64             |    0.000469    |   0.00410   |     NA      |              NA               |       NA       |   NA   |
 
 (b)(1) For model year 1979, each manufacturer may:
 
@@ -145,7 +144,5 @@ Table VII-Parameters for the Light Truck Fuel Economy Targets for MYs 2017-2025
 (i) For model years 2012-2016, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 3 and the appropriate values in Table VI.
 
 (j) For model years 2017-2025, a manufacturer's light truck fleet shall comply with the fleet average fuel economy standard calculated for that model year according to Figures 2 and 4 and the appropriate values in Table VII.
-
-(k) For model years 2022-2025, each manufacturer shall comply with the standards set forth in paragraph (j) in this section, if NHTSA determines in a rulemaking, initiated after January 1, 2017, and conducted in accordance with 49 U.S.C. 32902, that the standards in paragraph (j) are the maximum feasible standards for model years 2022-2025. If, for any of those model years, NHTSA determines that the maximum feasible standard for light trucks should be set at a different level, manufacturers shall comply with those different standards in lieu of the standards set forth for those model years in paragraph (j), and NHTSA will revise this section to reflect the different standards.
 
 [43 FR 12014, Mar. 23, 1978]Editorial Note:For Federal Register citations affecting § 533.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

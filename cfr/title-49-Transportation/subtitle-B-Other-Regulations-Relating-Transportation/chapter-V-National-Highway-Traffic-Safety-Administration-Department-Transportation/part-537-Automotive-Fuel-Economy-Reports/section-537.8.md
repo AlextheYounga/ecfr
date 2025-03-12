@@ -4,7 +4,7 @@
 
 (2) Except as provided in paragraph (d) of this section, each manufacturer that determines that its average fuel economy for the current model year as projected under § 537.7(b)(2) or, if no average fuel economy was projected under that section, as projected under § 537.7(b)(1), is less representative than the manufacturer previously reported it to be under § 537.7(b)(3), this section, or both, shall file a supplementary report containing the information specified in paragraph (b)(2) of this section.
 
-(3) Each manufacturer whose pre-model year report omits any of the information specified in § 537.7(b), (c)(1) and (2), or (c)(4) shall file a supplementary report containing the information specified in paragraph (b)(3) of this section.
+(3) For model years through 2022, each manufacturer whose pre-model or mid-model year report omits any of the information specified in § 537.7(b) or (c) shall file a supplementary report containing the information specified in paragraph (b)(3) of this section. Starting model year 2023, each manufacturer whose pre-model or mid-model year report omits any of the information shall resubmit the information with other information required in accordance with the NHTSA CAFE Projections Reporting Template (OMB Control No. 2127-0019, NHTSA Form 1474).
 
 (b)(1) The supplementary report required by paragraph (a)(1) of this section must contain:
 
@@ -30,7 +30,13 @@
 
 (ii) Such revisions of and additions to the information submitted by the manufacturer in its pre-model year report regarding the automobiles produced during the current model year as are necessary to reflect the information provided under paragraph (b)(3)(i) of this section.
 
-(c)(1) Each report required by paragraph (a)(1), (2), or (3) of this section must be submitted in accordance with § 537.5(c) not more than 45 days after the date on which the manufacturer determined, or could have determined with reasonable diligence, that a report is required under paragraph (a)(1), (2), or (3) of this section.
+(4) The supplementary report required by paragraph (a)(4) of this section must contain:
+
+(i) All information omitted from the pre-model or mid-model year reports under § 537.6(c)(2); and
+
+(ii) Such revisions of and additions to the information submitted by the manufacturer in its pre-model or mid-model year reports regarding the automobiles produced during the current model year as are necessary to reflect the information provided under paragraph (b)(4)(i) of this section.
+
+(c)(1) Each report required by paragraphs (a)(1), (2), (3), or (4) of this section must be submitted in accordance with § 537.5(c) not more than 45 days after the date on which the manufacturer determined, or could have determined with reasonable diligence, that the report was required.
 
 (2) [Reserved]
 
@@ -46,4 +52,4 @@
 
 (e) *Reporting compliance option in model years 2008-2010.* For model years 2008, 2009, and 2010, each manufacturer of light trucks, as that term is defined in 49 CFR 523.5, shall submit a report, not later than 45 days following the end of the model year, indicating whether the manufacturer is opting to comply with 49 CFR 533.5(f) or 49 CFR 533.5(g).
 
-[47 FR 34986, Aug. 12, 1982, as amended at 71 FR 17678, Apr. 6, 2006; 75 FR 25728, May 7, 2010; 77 FR 63199, Oct. 15, 2012]
+[47 FR 34986, Aug. 12, 1982, as amended at 71 FR 17678, Apr. 6, 2006; 75 FR 25728, May 7, 2010; 77 FR 63199, Oct. 15, 2012; 85 FR 25278, Apr. 30, 2020]

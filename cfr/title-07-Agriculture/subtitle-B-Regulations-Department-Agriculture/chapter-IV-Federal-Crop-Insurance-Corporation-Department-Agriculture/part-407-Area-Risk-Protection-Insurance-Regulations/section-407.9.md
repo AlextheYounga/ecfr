@@ -1,5 +1,7 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
+Link to an amendment published at 85 FR 38754, June 29, 2020.
+
 This insurance is available for the 2017 and succeeding years.
 
 [FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]

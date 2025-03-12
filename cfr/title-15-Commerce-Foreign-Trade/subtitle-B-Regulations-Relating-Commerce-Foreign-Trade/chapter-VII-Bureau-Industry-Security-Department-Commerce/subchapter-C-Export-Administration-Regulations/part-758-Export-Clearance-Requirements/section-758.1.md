@@ -1,7 +1,5 @@
 ##### § 758.1 The Electronic Export Information (EEI) filing to the Automated Export System (AES). #####
 
-Link to an amendment published at 85 FR 23465, Apr. 28, 2020.
-
 (a) The *Electronic Export Information (EEI) filing to the Automated Export System (AES).* The EEI is used by the Bureau of Census to collect trade statistics and by the Bureau of Industry and Security for export control purposes. The EEI collects basic information such as the names and addresses of the parties to a transaction; the Export Control Classification Number (ECCN) (when required), the Schedule B number or Harmonized Tariff Schedule of the United States (HTS) number, the description, quantity and value of the items exported; and the license authority for the export. The EEI is a statement to the United States Government that the transaction occurred as described.
 
 (b) *When is an EEI filing required to be filed in the AES.* Except when the export of items subject to the EAR is to take place electronically or in an otherwise intangible form, you must file EEI in the AES with the United States Government for items subject to the EAR, including exports by U.S. mail, in the following situations:
@@ -23,6 +21,8 @@ Link to an amendment published at 85 FR 23465, Apr. 28, 2020.
 (8) For all exports of tangible items subject to the EAR where parties to the transaction, as described in § 748.5(d) through (f) of the EAR, are listed on the Unverified List (supplement no. 6 to part 744 of the EAR), regardless of value or destination; or
 
 (9) For all exports, except for exports authorized under License Exception BAG, as set forth in § 740.14 of the EAR, of items controlled under ECCNs 0A501.a or .b, shotguns with a barrel length less than 18 inches controlled under ECCN 0A502, or ammunition controlled under ECCN 0A505 except for .c, regardless of value or destination, including exports to Canada.
+
+(10) For all exports of items on the Commerce Control List to the People's Republic of China, Russia, or Venezuela, regardless of value, unless the export may be made under the exemption listed under paragraph (c)(4) of this section.
 
 (c) *Exemptions.* A complete list of exemptions from the EEI filing requirement is set forth in the 15 CFR 30.35 through 30.40 of the FTR. Some of these FTR exemptions have elements in common with certain EAR license exceptions. An FTR exemption may be narrower than an EAR license exception. The following references are provided in order to direct you to the FTR exemptions that relate to EAR license exceptions:
 
@@ -60,7 +60,7 @@ See the export clearance requirements for exports of firearms controlled under E
 
 (2) *Exports under a license exception.* You must report on any required EEI filing to the AES the ECCN and the correct License Exception symbol (e.g., LVS, GBS, CIV) for the License Exception(s) and the license code/license exception code that corresponds to the license exception under which you are exporting. Items temporarily in the United States meeting the provisions of License Exception TMP, under § 740.9(b)(3), are exempted from entering the ECCN. See also § 740.1(d) of the EAR.
 
-(3) *No License Required (NLR) exports.* You must report on any required EEI filing to the AES the correct license code/license exception code when using the “NLR” designation for the items that are subject to the EAR but not listed on the Commerce Control List (CCL) (i.e., items are designated as EAR99) (FTR license code “C33”), and when the items to be exported are listed on the CCL but are not subject to a license requirement. In addition, you must enter the correct ECCN on any required EEI filing for all items being exported under the NLR provisions that have a reason for control other than or in addition to anti-terrorism (AT).
+(3) *No License Required (NLR) exports.* You must report on any required EEI filing to the AES the correct license code/license exception code when using the “NLR” designation for the items that are subject to the EAR but not listed on the Commerce Control List (CCL) (*i.e.,* items are designated as EAR99) (FTR license code “C33”), and when the items to be exported are listed on the CCL but are not subject to a license requirement. In addition, you must enter the correct ECCN on any required EEI filing for all items being exported under the NLR provisions that have a reason for control other than or in addition to anti-terrorism (AT), unless the items are destined to China, Russia, or Venezuela. For items destined to China, Russia, or Venezuela, you must enter the correct ECCN on any required EEI filing regardless of reason for control.
 
 (4) *Exports of firearms and related items.* This paragraph (g)(4) includes two separate requirements under paragraphs (g)(4)(i) and (ii) of this section that are used to better identify exports of certain end item firearms under the EAR. Paragraph (g)(4)(i) of this section is limited to certain EAR authorizations. Paragraph (g)(4)(ii) of this section applies to all EAR authorizations that require EEI filing in AES.
 
@@ -88,4 +88,4 @@ The Bureau of Census Foreign Trade Regulations impose additional requirements fo
 
 (i) *Filing the Electronic Export Information (EEI).* The EEI must be filed with the United States Government in the manner prescribed by the Bureau of Census Foreign Trade Regulations (15 CFR part 30).
 
-[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020]
+[79 FR 4617, Jan. 29, 2014, as amended at 79 FR 32626, June 5, 2014; 79 FR 34221, June 16, 2014; 79 FR 48661, Aug. 18, 2014; 80 FR 3466, Jan. 23, 2015; 80 FR 43319, July 22, 2015; 83 FR 38021, Aug. 3, 2018; 85 FR 4178, Jan. 23, 2020; 85 FR 23465, Apr. 28, 2020]

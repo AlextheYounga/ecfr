@@ -1,20 +1,20 @@
-##### § 110.168 Hampton Roads, Virginia and adjacent waters (Datum: NAD 83). #####
+##### § 110.168 Hampton Roads, Virginia and adjacent waters. #####
 
-Link to an amendment published at 85 FR 31978, May 28, 2020.
+(a) *Anchorage grounds.* Unless otherwise stated, all coordinates in this section for anchorage grounds are based on North American Datum of 1983 (NAD 83).
 
-(a) *Anchorage Grounds* - (1) *Anchorage A [Naval Anchorage].* The waters bounded by the shoreline and a line connecting the following points:
+(1) *Anchorage A [Naval Anchorage].* The waters bounded by the shoreline and a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°55′36.2″ N|76°02′46.3″ W|
 |36°57′03.3″ N|76°03′01.4″ W|
 |36°56′45.5″ N|76°01′28.8″ W|
 |36°55′55.7″ N|76°01′35.7″ W|
 
-(2) *Chesapeake Bay, Thimble Shoals Channel Anchorages* - (i) *Anchorage B [Naval Anchorage].* The waters bounded by a line connecting the following points:
+(2) *Chesapeake Bay, Thimble Shoals Channel Anchorages*—(i) *Anchorage B [Naval Anchorage].* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′58.5″ N|76°06′05.8″ W|
 |36°57′11.5″ N|76°03′00.9″ W|
 |36°55′49.3″ N|76°03′12.8″ W|
@@ -25,7 +25,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (ii) *Anchorage C [Naval Anchorage].* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°58′55.3″ N|76°09′40.3″ W|
 |36°58′19.3″ N|76°07′16.8″ W|
 |36°57′27.5″ N|76°07′36.3″ W|
@@ -34,7 +34,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (iii) *Anchorage D [Naval Anchorage].* The waters bounded by the shoreline and a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°55′49.5″ N|76°10′31.6″ W|
 |36°58′04.5″ N|76°10′00.9″ W|
 |36°57′31.7″ N|76°07′53.6″ W|
@@ -43,7 +43,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (iv) *Anchorage E [Commercial Explosives Anchorage].* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°59′59.2″ N|76°13′45.8″ W|
 |36°59′08.7″ N|76°10′32.6″ W|
 |36°58′13.5″ N|76°10′50.6″ W|
@@ -52,13 +52,13 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (v) *Explosives Handling Berth E-1 [Explosives Anchorage Berth].* The waters bounded by the arc of a circle with a radius of 500 yards and the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°59′05.5″ N|76°11′21.8″ W|
 
-(3) *Hampton Roads Anchorages* - (i) *Anchorage F, Hampton Bar.* The waters bounded by a line connecting the following points:
+(3) *Hampton Roads Anchorages*—(i) *Anchorage F, Hampton Bar.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°59′25.5″ N|76°20′05.8″ W|
 |36°59′52.1″ N|76°19′10.8″ W|
 |36°59′25.7″ N|76°18′47.3″ W|
@@ -67,13 +67,13 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (ii) *Anchorage Berth F-1.* The waters bounded by the arc of a circle with a radius of 500 yards and the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°59′29.6″ N|76°19′13.9″ W|
 
 (iii) *Anchorage G, Hampton Flats (Naval Explosives Anchorage).* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°59′25.0″ N|76°20′07.0″ W|
 |36°58′49.1″ N|76°19′33.8″ W|
 |36°57′41.4″ N|76°21′07.7″ W|
@@ -85,19 +85,19 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (iv) *Explosives Handling Berth G-1.* The waters bounded by the arc of a circle with a radius of 500 yards and the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′50.5″ N|76°21′35.8″ W|
 
 (v) *Explosives Handling Berth G-2.* The waters bounded by the arc of a circle with a radius of 500 yards and the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°58′14.5″ N|76°21′00.3″ W|
 
 (vi) *Explosives Handling Berth G-3.* The waters bounded by the arc of a circle with a radius of 500 yards and with the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°58′34.2″ N|76°20′31.4″ W|
 
 (vii) *Explosives Handling Berth G-4.* The waters bounded by the arc of a circle with a radius of 500 yards and with the center located at:
@@ -109,17 +109,17 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (viii) *Anchorage H, Newport News Bar.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′38.8″ N|76°24′18.5″ W|
 |36°57′52.3″ N|76°22′29.7″ W|
 |36°58′07.4″ N|76°22′01.8″ W|
 |36°57′31.6″ N|76°22′00.6″ W|
 |36°57′18.7″ N|76°24′10.1″ W|
 
-(4) *James River Anchorages* - (i) *Anchorage I, Newport News.* The waters bounded by a line connecting the following points:
+(4) *James River Anchorages*—(i) *Anchorage I, Newport News.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°58′49.0″ N|76°27′09.8″ W|
 |36°58′35.9″ N|76°26′37.2″ W|
 |36°57′52.2″ N|76°26′01.6″ W|
@@ -133,19 +133,19 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (ii) *Anchorage Berth I-1.* The waters bounded by the arc of a circle with a radius of 400 yards and the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′09.0″ N|76°25′20.4″ W|
 
 (iii) *Anchorage Berth I-2.* The waters bounded by the arc of a circle with a radius of 400 yards and with the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′23.8″ N|76°25′46.0″ W|
 
 (iv) *Anchorage J, Newport News Middle Ground.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°55′59.9″ N|76°22′11.7″ W|
 |36°55′59.9″ N|76°24′00.0″ W|
 |36°56′25.3″ N|76°23′48.0″ W|
@@ -157,7 +157,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (v) *Anchorage K, Newport News Middle Ground.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′56.4″ N|76°20′30.5″ W|
 |36°57′08.5″ N|76°20′31.0″ W|
 |36°56′48.8″ N|76°20′22.5″ W|
@@ -169,19 +169,19 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (vi) *Anchorage Berth K-1.* The waters bounded by the arc of a circle with a radius of 400 yards and with the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′30.5″ N|76°20′45.3″ W|
 
 (vii) *Anchorage Berth K-2.* The waters bounded by the arc of a circle with a radius of 400 yards and with the center located at:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°57′16.8″ N|76°21′09.5″ W|
 
 (viii) *Anchorage Berth L, Craney Island Flats.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°55′59.9″ N|76°22′11.7″ W|
 |36°56′38.5″ N|76°20′45.5″ W|
 |36°56′30.0″ N|76°20′24.3″ W|
@@ -190,7 +190,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (5) *Elizabeth River Anchorages.* (i) *Anchorage M, Port Norfolk.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°51′45.7″ N|76°19′31.5″ W|
 |36°51′45.8″ N|76°19′20.7″ W|
 |36°51′37.8″ N|76°19′24.3″ W|
@@ -201,7 +201,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 (ii) *Anchorage N, Hospital Point.* The waters bounded by a line connecting the following points:
 
 |  Latitude   |  Longitude  |
-|:------------|:------------|
+|-------------|-------------|
 |36°51′05.4″ N|76°18′22.4″ W|
 |36°50′50.0″ N|76°18′00.0″ W|
 |36°50′36.7″ N|76°17′52.8″ W|
@@ -213,28 +213,26 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 
 (iii) *Anchorage O, The Hague.* The waters of the basin known as “The Hague”, north of the Brambleton Avenue Bridge, except for the area within 100 feet of the bridge span that provides access to and from the Elizabeth River.
 
-(6) *Anchorage Q. Quarantine Anchorage.* The waters bounded by a line connecting the following points:
+(6) *Anchorage Q*—*Quarantine Anchorage.* The waters bound by a line connecting the following points, which are based on the World Geodetic System (WGS84):
 
-|  Latitude   |  Longitude  |
-|:------------|:------------|
-|37°17′13.7″ N|76°06′41.6″ W|
-|37°17′30.3″ N|76°05′53.9″ W|
-|37°16′25.0″ N|76°05′18.4″ W|
-|37°16′08.4″ N|76°06′06.0″ W|
+| Latitude  | Longitude  |
+|-----------|------------|
+|37°05′40″ N|076°08′12″ W|
+|37°05′40″ N|076°07′19″ W|
+|37°03′46″ N|076°05′58″ W|
+|37°03′46″ N|076°06′51″ W|
 
-(i) *Anchorage Berth Q-1.* The waters bounded by the arc of a circle with a radius of 500 yards and with the center located at:
+(7) *Anchorage R.* The waters bound by a line connecting the following points, which are based on the World Geodetic System (WGS84):
 
-|  Latitude   |  Longitude  |
-|:------------|:------------|
-|37°17′05.7″ N|76°06′08.9″ W|
+| Latitude  | Longitude  |
+|-----------|------------|
+|37°19′10″ N|076°05′00″ W|
+|37°12′00″ N|076°05′00″ W|
+|37°09′08″ N|076°08′19″ W|
+|37°11′23″ N|076°08′49″ W|
+|37°19′10″ N|076°05′46″ W|
 
-(ii) *Anchorage Berth Q-2.* The waters bounded by the arc of a circle with a radius of 500 yards with the center located at:
-
-|  Latitude   |  Longitude  |
-|:------------|:------------|
-|37°16′33.0″ N|76°05′51.1″ W|
-
-(b) *Definitions.* As used in this section -
+(b) *Definitions.* As used in this section—
 
 *Class 1 (explosive) materials* means Division 1.1, 1.2, 1.3, and 1.4 explosives, as defined in 49 CFR 173.50.
 
@@ -286,7 +284,7 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 
 (6) Each vessel handling or carrying dangerous cargoes or Class 1 (explosive) materials while at anchor must display by day a red flag (Bravo flag) in a prominent location and by night a fixed red light.
 
-(e) *Regulations for Specific Anchorages* - (1) *Anchorages A, B, C, and D.* Except for a naval vessel, military support vessel, or vessel in an emergency situation, a vessel may not anchor in Anchorages A, B, C, or D without the permission of the Captain of the Port. The Captain of the Port must consult with the Commander, Naval Amphibious Base Little Creek, before granting a vessel permission to anchor in Anchorages A, B, C, or D.
+(e) *Regulations for Specific Anchorages*—(1) *Anchorages A, B, C, and D.* Except for a naval vessel, military support vessel, or vessel in an emergency situation, a vessel may not anchor in Anchorages A, B, C, or D without the permission of the Captain of the Port. The Captain of the Port must consult with the Commander, Naval Amphibious Base Little Creek, before granting a vessel permission to anchor in Anchorages A, B, C, or D.
 
 (2) *Anchorage E.* (i) A vessel may not anchor in Anchorage E without permission from the Captain of the Port.
 
@@ -330,4 +328,8 @@ Link to an amendment published at 85 FR 31978, May 28, 2020.
 
 (iii) Any non-self-propelled vessel using Anchorage Q must have a tugboat in attendance while undergoing examination by quarantine, customs, or immigration authorities, except with the permission of the Captain of the Port.
 
-[CGD05-04-043, 70 FR 29955, May 25, 2005, as amended by USCG-2008-0041, 73 FR 5746, Jan. 31, 2008; USCG-2005-21869, 80 FR 5330, Jan. 30, 2015]
+(10) *Anchorage R.* (i) No vessel using Anchorage R may conduct oil or hazardous material transfer operations subject to 33 CFR part 156 except with permission of the COTP.
+
+(ii) Any non-self-propelled vessel using Anchorage R must have a towing vessel in attendance except with permission of the COTP not to have a towing vessel in attendance.
+
+[CGD05-04-043, 70 FR 29955, May 25, 2005, as amended by USCG-2008-0041, 73 FR 5746, Jan. 31, 2008; USCG-2005-21869, 80 FR 5330, Jan. 30, 2015; USCG-2015-1118, 85 FR 31978, May 28, 2020]

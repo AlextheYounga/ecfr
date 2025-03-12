@@ -1,7 +1,5 @@
 ##### § 535.7 Averaging, banking, and trading (ABT) credit program. #####
 
-Link to an amendment published at 85 FR 25274, Apr. 30, 2020.
-
 (a) *General provisions.* After the end of each model year, manufacturers must comply with the fuel consumption standards in § 535.5 for averaging, banking and trading credits. Trailer manufacturers are excluded from this section except for those producing full-aero box trailers, which may comply with special provisions in paragraph (e) of this section. Manufacturers comply with standards if the sum of averaged, banked and traded credits generate a “zero” credit balance or a credit surplus within an averaging set of vehicles or engines. Manufacturers fail to comply with standards if the sum of the credit flexibilities generate a credit deficit (or shortfall) in an averaging set. Credit shortfalls must be offset by banked or traded credits within three model years after the shortfall is incurred. These processes are hereafter referenced as the NHTSA ABT credit program. The following provisions apply to all fuel consumption credits.
 
 (1) *Credits (or fuel consumption credits (FCCs)).* Credits in this part mean a calculated weighted value representing the difference between the fuel consumption performance and the standard of a vehicle or engine family or fleet within a particular averaging set. Positive credits represent cases where a vehicle or engine family or fleets perform better than the applicable standard (the fuel consumption performance is less than the standard) whereas negative credits represent underperforming cases. The value of a credit is calculated according to paragraphs (b) through (e) of this section. FCCs are only considered earned or useable for averaging, banking or trading after EPA and NHTSA have verified the information in a manufacturer's final reports required in § 535.8. Types of FCCs include the following:
@@ -104,7 +102,7 @@ Link to an amendment published at 85 FR 25274, Apr. 30, 2020.
 
 (b) *ABT provisions for heavy-duty pickup trucks and vans.* (1) Calculate fuel consumption credits in a model year for one fleet of conventional heavy-duty pickup trucks and vans and if designated by the manufacturer another consisting of advance technology vehicles for the averaging set as defined in § 535.4. Calculate credits for each fleet separately using the following equation:
 
-Total MY Fleet FCC (gallons) = (Std − Act) × (Volume) × (UL) × (102)Where:Std = Fleet average fuel consumption standard (gal/100 mile).Act = Fleet average actual fuel consumption value (gal/100 mile).Volume = the total U.S.-directed production of vehicles in the regulatory subcategory.UL = the useful life for the regulatory subcategory. The useful life value for heavy-pickup trucks and vans manufactured for model years 2013 through 2020 is equal to the 120,000 miles. The useful life for model years 2021 and later is equal to 150,000 miles.
+Total MY Fleet FCC (gallons) = (Std − Act) × (Volume) × (UL) × (10−2)Where:Std = Fleet average fuel consumption standard (gal/100 mile).Act = Fleet average actual fuel consumption value (gal/100 mile).Volume = the total U.S.-directed production of vehicles in the regulatory subcategory.UL = the useful life for the regulatory subcategory. The useful life value for heavy-pickup trucks and vans manufactured for model years 2013 through 2020 is equal to the 120,000 miles. The useful life for model years 2021 and later is equal to 150,000 miles.
 
 (2) Adjust the fuel consumption performance of subconfigurations with advanced technology for determining the fleet average actual fuel consumption value as specified in paragraph (f)(1) of this section and 40 CFR 86.1819-14(d)(7). Advanced technology vehicles can be separated in a different fleet for the purpose of applying credit incentives as described in paragraph (f)(1) of this section.
 
@@ -118,9 +116,7 @@ Total MY Fleet FCC (gallons) = (Std − Act) × (Volume) × (UL) × (102)Where:S
 
 (c) *ABT provisions for vocational vehicles and tractors.* (1) Calculate the fuel consumption credits in a model year for each participating family or subfamily consisting of conventional vehicles in each averaging set (as defined in § 535.4) using the equation in this section. Each designated vehicle family or subfamily has a “family emissions limit” (FEL) that is compared to the associated regulatory subcategory standard. An FEL that falls below the regulatory subcategory standard creates “positive credits,” while fuel consumption level of a family group above the standard creates a “negative credits.” The value of credits generated for each family or subfamily in a model year is calculated as follows and must be rounded to nearest whole number:
 
-Vehicle Family FCC (gallons) = (Std − FEL) × (Payload) × (Volume) × (UL) × (103)
-
-Where:Std = the standard for the respective vehicle family regulatory subcategory (gal/1000 ton-mile).FEL = family emissions limit for the vehicle family (gal/1000 ton-mile).Payload = the prescribed payload in tons for each regulatory subcategory as shown in the following table:
+Vehicle Family FCC (gallons) = (Std − FEL) × (Payload) × (Volume) × (UL) × (10−3)Where:Std = the standard for the respective vehicle family regulatory subcategory (gal/1000 ton-mile).FEL = family emissions limit for the vehicle family (gal/1000 ton-mile).Payload = the prescribed payload in tons for each regulatory subcategory as shown in the following table:
 
 |           Regulatory subcategory           |Payload  <br/>(tons)|
 |--------------------------------------------|--------------------|
@@ -133,7 +129,7 @@ Where:Std = the standard for the respective vehicle family regulatory subcategor
 
 Volume = the number of U.S.-directed production volume of vehicles in the corresponding vehicle family.UL = the useful life for the regulatory subcategory (miles) as shown in the following table:
 
-|                      Regulatory subcategory                       |             UL  <br/>(miles)              |
+|                      Regulatory subcategory                       |                UL (miles)                 |
 |-------------------------------------------------------------------|-------------------------------------------|
 |                           LHD Vehicles                            |110,000 (Phase 1).  <br/>150,000 (Phase 2).|
 |Vocational MHD Vehicles and tractors at or below 33,000 pounds GVWR|                 185,000.                  |
@@ -165,14 +161,13 @@ Total averaging set MY credits = Σ Vehicle family credits within each averaging
 
 (d) *ABT provisions for heavy-duty engines.* (1) Calculate the fuel consumption credits in a model year for each participating family or subfamily consisting of engines in each averaging set (as defined in § 535.4) using the equation in this section. Each designated engine family has a “family certification level” (FCL) which is compared to the associated regulatory subcategory standard. A FCL that falls below the regulatory subcategory standard creates “positive credits,” while fuel consumption level of a family group above the standard creates a “credit shortfall.” The value of credits generated in a model year for each engine family or subfamily is calculated as follows and must be rounded to nearest whole number:
 
-Engine Family FCC (gallons) = (Std − FCL) × (CF) × (Volume) × (UL) × (102)Where:Std = the standard for the respective engine regulatory subcategory (gal/100 hp-hr).FCL = family certification level for the engine family (gal/100 hp-hr).CF = a transient cycle conversion factor in hp-hr/mile which is the integrated total cycle horsepower-hour divided by the equivalent mileage of the applicable test cycle. For engines subject to spark-ignition heavy-duty standards, the equivalent mileage is 6.3 miles. For engines subject to compression-ignition heavy-duty standards, the equivalent mileage is 6.5 miles.Volume = the number of engines in the corresponding engine family.UL = the useful life of the given engine family (miles) as shown in the following table:
+Engine Family FCC (gallons) = (Std − FCL) × (CF) × (Volume) × (UL) × (10−2)Where:Std = the standard for the respective engine regulatory subcategory (gal/100 hp-hr).FCL = family certification level for the engine family (gal/100 hp-hr).CF= a transient cycle conversion factor in hp-hr/mile which is the integrated total cycle horsepower-hour divided by the equivalent mileage of the applicable test cycle. For engines subject to spark-ignition heavy-duty standards, the equivalent mileage is 6.3 miles. For engines subject to compression-ignition heavy-duty standards, the equivalent mileage is 6.5 miles.Volume = the number of engines in the corresponding engine family.UL = the useful life of the given engine family (miles) as shown in the following table:
 
-|Regulatory subcategory| UL  <br/>(miles) |
-|----------------------|------------------|
-|SI and CI LHD Engines |120,000 (Phase 1).|
-|                      |150,000 (Phase 2).|
-|    CI MHD Engines    |     185,000.     |
-|    CI HHD Engines    |     435,000.     |
+|Regulatory subcategory|                UL (miles)                 |
+|----------------------|-------------------------------------------|
+|SI and CI LHD Engines |120,000 (Phase 1).  <br/>150,000 (Phase 2).|
+|    CI MHD Engines    |                 185,000.                  |
+|    CI HHD Engines    |                 435,000.                  |
 
 (i) Calculate the value of credits generated in a model year for each family or subfamily consisting of engines with advanced technology vehicles in each averaging set using the equation above and the guidelines provided in paragraph (f)(1) of this section. Manufacturers may generate credits for advanced technology vehicles using incentives specified in paragraph (f)(1) of this section.
 
@@ -223,7 +218,7 @@ Total averaging set MY credits = Σ Engine family credits within each averaging 
 
 (2) Calculate the fuel consumption credits in a model year for each participating family or subfamily consisting of full aero box trailers (vehicles) in each averaging set (as defined in § 535.4) using the equation in this section. Each designated vehicle family or subfamily has a “family emissions limit” (FEL) which is compared to the associated regulatory subcategory standard. An FEL that falls below the regulatory subcategory standard creates “positive credits,” while fuel consumption level of a family group above the standard creates a “negative credits.” The value of credits generated for each family or subfamily in a model year is calculated as follows and must be rounded to nearest whole number:
 
-Vehicle Family FCC (gallons) = (Std - FEL) × (Payload) × (Volume) × (UL) × (103)Where:Std = the standard for the respective vehicle family regulatory subcategory (gal/1000 ton-mile).FEL = family emissions limit for the vehicle family (gal/1000 ton-mile).Payload = 10 tons for short box vans and 19 tons for other trailers.Volume = the number of U.S.-directed production volume of vehicles in the corresponding vehicle family.UL = the useful life for the regulatory subcategory. The useful life value for heavy-duty trailers is equal to the 250,000 miles.
+Vehicle Family FCC (gallons) = (Std − FEL) × (Payload) × (Volume) × (UL) × (10−3)Where:Std = the standard for the respective vehicle family regulatory subcategory (gal/1000 ton-mile).FEL = family emissions limit for the vehicle family (gal/1000 ton-mile).Payload = 10 tons for short box vans and 19 tons for other trailers.Volume = the number of U.S.-directed production volume of vehicles in the corresponding vehicle family.UL = the useful life for the regulatory subcategory. The useful life value for heavy-duty trailers is equal to 250,000 miles.
 
 (3) Trailer manufacturers may not generate advanced technology credits.
 
@@ -233,7 +228,7 @@ Total averaging set MY credits = Σ Vehicle family credits within each averaging
 
 (5) Trailer manufacturers may not bank credits within an averaging set but surplus fuel consumption credits from a given model year may be used to offset deficits from earlier model years.
 
-(f) *Additional credit provisions* - (1) *Advanced technology credits.* (i) For the Phase 1 program, manufacturers of heavy-duty pickup trucks and vans, vocational vehicles, tractors and the associated engines showing improvements in CO2 emissions and fuel consumption using hybrid vehicles with regenerative braking, vehicles equipped with Rankine-cycle engines, electric vehicles and fuel cell vehicles are eligible for advanced technology credits. Manufacturers shall use sound engineering judgment to determine the performance of the vehicle or engine with advanced technology. Advanced technology credits for vehicles or engines complying with Phase 1 standards may be increased by a 1.5 multiplier. Manufacturers may not apply this multiplier in addition to any early-credit multipliers. The maximum amount of credits a manufacturer may bring into the service class group that contains the heavy-duty pickup and van averaging set is 5.89 · 106 gallons (for advanced technology credits based upon compression-ignition engines) or 6.76 · 106 gallons (for advanced technology credits based upon spark-ignition engines) per model year as specified in 40 CFR part 86 for heavy-duty pickup trucks and vans, 40 CFR 1036.740 for engines and 40 CFR 1037.740 for tractors and vocational vehicles. The specified limit does not cap the amount of advanced technology credits that can be used across averaging sets within the same service class group. Advanced technology credits can be used to offset negative credits in the same averaging set or other averaging sets. A manufacturer must first apply advanced technology credits to any deficits in the same averaging set before applying them to other averaging.
+(f) *Additional credit provisions*—(1) *Advanced technology credits.* (i) For the Phase 1 program, manufacturers of heavy-duty pickup trucks and vans, vocational vehicles, tractors and the associated engines showing improvements in CO2 emissions and fuel consumption using hybrid vehicles with regenerative braking, vehicles equipped with Rankine-cycle engines, electric vehicles and fuel cell vehicles are eligible for advanced technology credits. Manufacturers shall use sound engineering judgment to determine the performance of the vehicle or engine with advanced technology. Advanced technology credits for vehicles or engines complying with Phase 1 standards may be increased by a 1.5 multiplier. Manufacturers may not apply this multiplier in addition to any early-credit multipliers. The maximum amount of credits a manufacturer may bring into the service class group that contains the heavy-duty pickup and van averaging set is 5.89 · 106 gallons (for advanced technology credits based upon compression-ignition engines) or 6.76 · 106 gallons (for advanced technology credits based upon spark-ignition engines) per model year as specified in 40 CFR part 86 for heavy-duty pickup trucks and vans, 40 CFR 1036.740 for engines and 40 CFR 1037.740 for tractors and vocational vehicles. The specified limit does not cap the amount of advanced technology credits that can be used across averaging sets within the same service class group. Advanced technology credits can be used to offset negative credits in the same averaging set or other averaging sets. A manufacturer must first apply advanced technology credits to any deficits in the same averaging set before applying them to other averaging.
 
 (A) *Heavy-duty pickup trucks and vans.* For advanced technology systems (hybrid vehicles with regenerative braking, vehicles equipped with Rankine-cycle engines and fuel cell vehicles), calculate fleet-average performance rates consistent with good engineering judgment and the provisions of 40 CFR 86.1819-14 and 86.1865.
 
@@ -245,7 +240,7 @@ Total averaging set MY credits = Σ Vehicle family credits within each averaging
 
 (*3*) The benefit associated with the advanced system for fuel consumption is determined from the weighted fuel consumption results from the chassis tests of each vehicle using the following equation:
 
-Benefit (gallon/1000 ton mile) = Improvement Factor × GEM Fuel Consumption Result\_BWhere:Improvement Factor = (Fuel Consumption\_A−Fuel Consumption\_B)/(Fuel Consumption\_A).Fuel Consumption Rates A and B are the gallons per 1000 ton-mile of the conventional and advanced vehicles, respectively as measured under the test procedures specified by EPA. GEM Fuel Consumption Result B is the estimated gallons per 1000 ton-mile rate resulting from emission modeling of the advanced vehicle as specified in 40 CFR 1037.520 and § 535.6(b).
+Benefit (gallon/1000 ton mile) = Improvement Factor × GEM Fuel Consumption Result\_\_BWhere:Improvement Factor = (Fuel Consumption\_\_A−Fuel Consumption\_\_B)/(Fuel Consumption\_\_A).Fuel Consumption Rates A and B are the gallons per 1000 ton-mile of the conventional and advanced vehicles, respectively as measured under the test procedures specified by EPA. GEM Fuel Consumption Result B is the estimated gallons per 1000 ton-mile rate resulting from emission modeling of the advanced vehicle as specified in 40 CFR 1037.520 and § 535.6(b).
 
 (*4*) Calculate the benefit in credits using the equation in paragraph (c) of this section and replacing the term (Std-FEL) with the benefit.
 
@@ -277,13 +272,13 @@ Benefit (gallon/1000 ton mile) = Improvement Factor × GEM Fuel Consumption Resu
 
 (2) *Innovative and off-cycle technology credits.* This provision allows fuel saving innovative and off-cycle engine and vehicle technologies to generate fuel consumption credits comparable to CO2 emission credits consistent with the provisions of 40 CFR 86.1819-14(d)(13) (for heavy-duty pickup trucks and vans), 40 CFR 1036.610 (for engines), and 40 CFR 1037.610 (for vocational vehicles and tractors).
 
-(i) For model years 2013 through 2020, manufacturers may generate innovative technology credits for introducing technologies that were not in-common use for heavy-duty tractor, vocational vehicles or engines before model year 2010 and that are not reflected in the EPA specified test procedures. Upon identification and joint approval with EPA, NHTSA will allow equivalent fuel consumption credits into its program to those allowed by EPA for manufacturers seeking to obtain innovative technology credits in a given model year. Such credits must remain within the same regulatory subcategory in which the credits were generated. NHTSA will adopt fuel consumption credits depending upon whether -
+(i) For model years 2013 through 2020, manufacturers may generate innovative technology credits for introducing technologies that were not in-common use for heavy-duty tractor, vocational vehicles or engines before model year 2010 and that are not reflected in the EPA specified test procedures. Upon identification and joint approval with EPA, NHTSA will allow equivalent fuel consumption credits into its program to those allowed by EPA for manufacturers seeking to obtain innovative technology credits in a given model year. Such credits must remain within the same regulatory subcategory in which the credits were generated. NHTSA will adopt fuel consumption credits depending upon whether—
 
 (A) The technology has a direct impact upon reducing fuel consumption performance; and
 
 (B) The manufacturer has provided sufficient information to make sound engineering judgments on the impact of the technology in reducing fuel consumption performance.
 
-(ii) For model years 2021 and later, manufacturers may generate off-cycle technology credits for introducing technologies that are not reflected in the EPA specified test procedures. Upon identification and joint approval with EPA, NHTSA will allow equivalent fuel consumption credits into its program to those allowed by EPA for manufacturers seeking to obtain innovative technology credits in a given model year. Such credits must remain within the same regulatory subcategory in which the credits were generated. NHTSA will adopt fuel consumption credits depending upon whether -
+(ii) For model years 2021 and later, manufacturers may generate off-cycle technology credits for introducing technologies that are not reflected in the EPA specified test procedures. Upon identification and joint approval with EPA, NHTSA will allow equivalent fuel consumption credits into its program to those allowed by EPA for manufacturers seeking to obtain innovative technology credits in a given model year. Such credits must remain within the same regulatory subcategory in which the credits were generated. NHTSA will adopt fuel consumption credits depending upon whether—
 
 (A) The technology meets paragraph (f)(2)(i)(A) and (B) of this section.
 
@@ -293,7 +288,7 @@ Benefit (gallon/1000 ton mile) = Improvement Factor × GEM Fuel Consumption Resu
 
 (A) Technologies found to be defective, or identified as a part of NHTSA's safety defects program, and technologies that are not performing as intended will have the values of approved off-cycle credits removed from the manufacturer's credit balance.
 
-(B) Approval granted for innovative and off-cycle technology credits under NHTSA's fuel efficiency program does not affect or relieve the obligation to comply with the Vehicle Safety Act (49 U.S.C. Chapter 301), including the “make inoperative” prohibition (49 U.S.C. 30122), and all applicable Federal motor vehicle safety standards issued thereunder (FMVSSs) (49 CFR part 571). In order to generate off-cycle or innovative technology credits manufacturers must state -
+(B) Approval granted for innovative and off-cycle technology credits under NHTSA's fuel efficiency program does not affect or relieve the obligation to comply with the Vehicle Safety Act (49 U.S.C. Chapter 301), including the “make inoperative” prohibition (49 U.S.C. 30122), and all applicable Federal motor vehicle safety standards issued thereunder (FMVSSs) (49 CFR part 571). In order to generate off-cycle or innovative technology credits manufacturers must state—
 
 (*1*) That each vehicle equipped with the technology for which they are seeking credits will comply with all applicable FMVSS(s); and
 
@@ -305,7 +300,7 @@ Benefit (gallon/1000 ton mile) = Improvement Factor × GEM Fuel Consumption Resu
 
 (E) For the heavy-duty pickup trucks and vans, the average fuel consumption will be calculated as a separate credit amount (rounded to the nearest whole number) using the following equation:
 
-Off-cycle FC credits = (CO2 Credit/CF) × 100 × Production × VLMWhere:CO2 Credits = the credit value in grams per mile determined in 40 CFR 86.1869-12(c)(3), (d)(1), (d)(2) or (d)(3).CF = conversion factor, which for spark-ignition engines is 8,887 and for compression-ignition engines is 10,180.Production = the total production volume for the applicable category of vehicles.VLM = vehicle lifetime miles, which for 2b-3 vehicles shall be 150,000 for the Phase 2 program.The term (CO2 Credit/CF) should be rounded to the nearest 0.0001.
+Off-cycle FC credits = (CO2 Credit/CF) × Production × VLMWhere:CO2 Credits = the credit value in grams per mile determined in 40 CFR 86.1869-12(c)(3), (d)(1), (d)(2) or (d)(3).CF = conversion factor, which for spark-ignition engines is 8,887 and for compression-ignition engines is 10,180.Production = the total production volume for the applicable category of vehiclesVLM = vehicle lifetime miles, which for 2b-3 vehicles shall be 150,000 for the Phase 2 program.The term (CO2 Credit/CF) should be rounded to the nearest 0.0001
 
 (F) NHTSA will not approve innovative technology credits for technology that is related to crash-avoidance technologies, safety critical systems or systems affecting safety-critical functions, or technologies designed for the purpose of reducing the frequency of vehicle crashes.
 
@@ -325,7 +320,7 @@ Off-cycle FC credits = (CO2 Credit/CF) × 100 × Production × VLMWhere:CO2 Cred
 
 (B) For model years 2021 and later, manufacturers may not rely on an approval for model years before 2021. Manufacturers must separately request the agencies approval before applying an improvement factor or credit under this section for 2021 and later engines and vehicle, even if the agencies approve the improvement factor or credit for similar engine and vehicle models before model year 2021.
 
-(C) The following restrictions also apply to manufacturers seeking to continue to carryover the improvement factor (not the credit value) if -
+(C) The following restrictions also apply to manufacturers seeking to continue to carryover the improvement factor (not the credit value) if—
 
 (*1*) The FEL is generated by GEM or 5-cycle testing;
 
@@ -336,3 +331,5 @@ Off-cycle FC credits = (CO2 Credit/CF) × 100 × Production × VLMWhere:CO2 Cred
 (*4*) The agencies do not expect the technology to be incorporated into GEM at any point during the Phase 2 program; and
 
 (D) The documentation to carryover credits that would primarily justify the difference in fuel efficiency between real world and compliance protocols is the same for both Phase 1 and Phase 2 compliance protocols. The agencies must approve the justification. If the agencies do not approve the justification, the manufacturer must recertify.
+
+[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020]

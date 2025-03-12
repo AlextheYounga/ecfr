@@ -1,7 +1,5 @@
 ##### § 535.6 Measurement and calculation procedures. #####
 
-Link to an amendment published at 85 FR 25274, Apr. 30, 2020.
-
 This part describes the measurement and calculation procedures manufacturers use to determine annual fuel consumption performance results. Manufacturers use the fuel consumption results determined in this part for calculating credit balances specified in § 535.7 and then determine whether they comply with standards as specified in § 535.10. Manufacturers must use EPA emissions test results for deriving NHTSA's fuel consumption performance rates. Consequently, manufacturers conducting testing for certification or annual demonstration testing and providing CO2 emissions data to EPA must also provide equivalent fuel consumption results to NHTSA for all values. NHTSA and EPA reserve the right to verify separately or in coordination the results of any testing and measurement established by manufacturers in complying with the provisions of this program and as specified in 40 CFR 1037.301 and § 535.9. Any carry over data from the Phase 1 program may be carried into the Phase 2 only with approval from EPA and by using good engineering judgment considering differences in testing protocols between test procedures.
 
 (a) *Heavy-duty pickup trucks and vans.* This section describes the method for determining the fuel consumption performance rates for test groups and for fleets of complete heavy-duty pickup trucks and vans each model year. The NHTSA heavy-duty pickup truck and van fuel consumption performance rates correspond to the same requirements for EPA as specified in 40 CFR 86.1819-14.
@@ -28,7 +26,7 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (i) Calculate the equivalent fuel consumption test group results as follows for compression-ignition vehicles and alternative fuel compression-ignition vehicles. CO2 emissions test group result (grams per mile)/10,180 grams per gallon of diesel fuel) × (102) = Fuel consumption test group result (gallons per 100 mile).
 
-(ii) Calculate the equivalent fuel consumption test group results as follows for spark-ignition vehicles and alternative fuel spark-ignition vehicles. CO2 emissions test group result (grams per mile)/8,877 grams per gallon of gasoline fuel) × (102) = Fuel consumption test group result (gallons per 100 mile).
+(ii) Calculate the equivalent fuel consumption test group results as follows for spark-ignition vehicles and alternative fuel spark-ignition vehicles. CO2 emissions test group result (grams per mile)/((8,887 grams per gallon of gasoline fuel) × (10−2)) = Fuel consumption test group result (gallons per 100 mile).
 
 (5) Calculate the fleet average fuel consumption result, in gallons per 100 miles, from the equivalent fuel consumption test group results and round the fuel consumption result to the nearest 0.001 gallon per 100 miles. Calculate the fleet average fuel consumption result using the following equation.
 
@@ -138,7 +136,7 @@ This part describes the measurement and calculation procedures manufacturers use
 
 (i) Calculate equivalent fuel consumption FCL values for compression-ignition engines and alternative fuel compression-ignition engines. CO2 FCL value (grams per hp-hr)/10,180 grams per gallon of diesel fuel) × (102) = Fuel consumption FCL value (gallons per 100 hp-hr).
 
-(ii) Calculate equivalent fuel consumption FCL values for spark-ignition engines and alternative fuel spark-ignition engines. CO2 FCL value (grams per hp-hr)/8,877 grams per gallon of gasoline fuel) × (102) = Fuel consumption FCL value (gallons per 100 hp-hr).
+(ii) Calculate equivalent fuel consumption FCL values for spark-ignition engines and alternative fuel spark-ignition engines. CO2 FCL value (grams per hp-hr)/((8,887 grams per gallon of gasoline fuel) × (10−2)) = Fuel consumption FCL value (gallons per 100 hp-hr).
 
 (iii) Manufacturers may carryover fuel consumption data from a previous model year if allowed to carry over emissions data for EPA in accordance with 40 CFR 1036.235.
 
@@ -157,3 +155,5 @@ This part describes the measurement and calculation procedures manufacturers use
 (i) For families containing multiple subfamilies, identify the FELs for each subfamily.
 
 (ii) Calculate equivalent fuel consumption FEL values for trailer families. CO2 FEL value (grams per 1000 ton-mile)/10,180 grams per 1000 ton-mile of diesel fuel) × (103) = Fuel consumption FEL value. The equivalent fuel consumption FELs are expressed to the nearest 0.0001 gallons per 1000 ton-mile.
+
+[81 FR 74238, Oct. 25, 2016, as amended at 85 FR 25274, Apr. 30, 2020]
