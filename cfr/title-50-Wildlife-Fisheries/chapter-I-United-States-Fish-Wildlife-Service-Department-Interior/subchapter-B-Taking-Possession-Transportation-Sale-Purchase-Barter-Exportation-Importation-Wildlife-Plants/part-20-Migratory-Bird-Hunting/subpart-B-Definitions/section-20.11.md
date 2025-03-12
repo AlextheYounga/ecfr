@@ -16,11 +16,11 @@ For the purpose of this part, the following terms shall be construed, respective
 
 A list of migratory birds protected by the international conventions and the Migratory Bird Treaty Act appears in § 10.13 of this subchapter.
 
-(b) *Seasons* - (1) *Open season* means the days on which migratory game birds may lawfully be taken. Each period precribed as an open season shall be construed to include the first and last days thereof.
+(b) *Seasons*—(1) *Open season* means the days on which migratory game birds may lawfully be taken. Each period precribed as an open season shall be construed to include the first and last days thereof.
 
 (2) *Closed season* means the days on which migratory game birds shall not be taken.
 
-(c) *Bag limits* - (1) *Aggregate bag limit* means a condition of taking in which two or more usually similar species may be bagged (reduced to possession) by the hunter in predetermined or unpredetermined quantities to satisfy a maximum take limit.
+(c) *Bag limits*—(1) *Aggregate bag limit* means a condition of taking in which two or more usually similar species may be bagged (reduced to possession) by the hunter in predetermined or unpredetermined quantities to satisfy a maximum take limit.
 
 (2) *Daily bag limit* means the maximum number of migratory game birds of single species or combination (aggregate) of species permitted to be taken by one person in any one day during the open season in any one specified geographic area for which a daily bag limit is prescribed.
 
@@ -54,8 +54,16 @@ A list of migratory birds protected by the international conventions and the Mig
 
 (l) *Manipulation* means the alteration of natural vegetation or agricultural crops by activities that include but are not limited to mowing, shredding, discing, rolling, chopping, trampling, flattening, burning, or herbicide treatments. The term *manipulation* does not include the distributing or scattering of grain, seed, or other feed after removal from or storage on the field where grown.
 
-(m) *Natural vegetation* means any non-agricultural, native, or naturalized plant species that grows at a site in response to planting or from existing seeds or other propagules. The term *natural vegetation* does not include planted millet. However, planted millet that grows on its own in subsequent years after the year of planting is considered *natural vegetation.*
+(m) *Rice ratooning* means the agricultural practice of harvesting rice by cutting the majority of the aboveground portion of the rice plant but leaving the roots and growing shoot apices intact to allow the plant to recover and produce a second crop yield.
 
-(n) *Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia or that reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
+(n) *Post-disaster flooding* means the destruction of a crop through flooding in accordance with practices required by the Federal Crop Insurance Corporation for agricultural producers to obtain crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 *et seq.*) on land on which a crop was not harvestable due to a natural disaster (including any hurricane, storm, tornado, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, drought, fire, snowstorm, or other catastrophe that is declared a major disaster by the President in accordance with section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170)) in the crop year—
 
-[53 FR 24290, June 28, 1988, as amended at 64 FR 29804, June 3, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 46407, Aug. 20, 2007; 84 FR 28773, June 20, 2019]
+(1) In which the natural disaster occurred; or
+
+(2) Immediately preceding the crop year in which the natural disaster occurred.
+
+(o) *Natural vegetation* means any non-agricultural, native, or naturalized plant species that grows at a site in response to planting or from existing seeds or other propagules. The term *natural vegetation* does not include planted millet. However, planted millet that grows on its own in subsequent years after the year of planting is considered *natural vegetation.*
+
+(p) *Resident Canada geese* means Canada geese that nest within the lower 48 States and the District of Columbia or that reside within the lower 48 States and the District of Columbia in the months of April, May, June, July, or August.
+
+[53 FR 24290, June 28, 1988, as amended at 64 FR 29804, June 3, 1999; 71 FR 45986, Aug. 10, 2006; 72 FR 46407, Aug. 20, 2007; 84 FR 28773, June 20, 2019; 84 FR 38885, Aug. 8, 2019]

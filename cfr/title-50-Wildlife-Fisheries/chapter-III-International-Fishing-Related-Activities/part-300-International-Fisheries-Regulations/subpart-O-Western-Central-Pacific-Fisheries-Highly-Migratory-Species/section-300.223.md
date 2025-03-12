@@ -4,11 +4,11 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (a) *Fishing effort limits.* This paragraph establishes limits on the number of fishing days that fishing vessels of the United States equipped with purse seine gear may operate in the Convention Area in the area between 20° N latitude and 20° S latitude in a calendar year.
 
-(1) For the high seas there is a limit of 1,370 fishing days in 2018.
+(1) For calendar year 2019, there is a limit of 1,616 fishing days in the ELAPS.
 
-(2) For the U.S. EEZ there is a limit of 458 fishing days for 2018. If NMFS expects that this limit will be reached by October 1, 2018, NMFS will publish a document in the Federal Register increasing the limit for that calendar year to 558 fishing days no later than seven days prior to October 1, 2018.
+(2) Beginning in 2020, there is a limit of 1,828 fishing days in the ELAPS per calendar year.
 
-(3) NMFS will determine the number of fishing days spent on the high seas and in the U.S. EEZ in each calendar year using data submitted in logbooks and other available information. After NMFS determines that a limit in a calendar year is expected to be reached by a specific future date, and at least seven calendar days in advance of the closure date, NMFS will publish a document in the Federal Register announcing that the purse seine fishery in the area where the limit is expected to be reached will be closed starting on that specific future date and will remain closed until the end of the calendar year.
+(3) NMFS will determine the number of fishing days spent in the ELAPS in each calendar year using data submitted in logbooks and other available information. After NMFS determines that a limit in a calendar year is expected to be reached by a specific future date, and at least seven calendar days in advance of the closure date, NMFS will publish a document in the Federal Register announcing that the purse seine fishery in the area where the limit is expected to be reached will be closed starting on that specific future date and will remain closed until the end of the calendar year.
 
 (4) Once a fishery closure is announced pursuant to paragraph (a)(3) of this section, fishing vessels of the United States equipped with purse seine gear may not be used to fish in the closed area during the period specified in the Federal Register document, except that such vessels are not prohibited from bunkering during a fishery closure.
 
@@ -118,4 +118,4 @@ None of the requirements of this section apply in the territorial seas or archip
 
 (h) The crew, operator, and owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area must release any whale shark that is encircled in a purse seine net in the Convention Area, and take reasonable steps for its safe release, without compromising the safety of any persons. This paragraph does not apply to the territorial seas or archipelagic waters of any nation, as defined by the domestic laws and regulations of that nation and recognized by the United States.
 
-[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018]
+[74 FR 38554, Aug. 4, 2009, as amended at 76 FR 82183, Dec. 30, 2011; 77 FR 71513, Dec. 3, 2012; 78 FR 30778, May 23, 2013; 80 FR 8815, Feb. 19, 2015; 80 FR 29223, May 21, 2015; 80 FR 51480, Aug. 25, 2015; 80 FR 59048, Oct. 1, 2015; 81 FR 41250, June 24, 2016; 83 FR 33869, July 18, 2018; 84 FR 37148, July 31, 2019]

@@ -1139,7 +1139,7 @@ PROVIDIAN (USCG documentation number 1062183); or
 
 (*3*) *AFA replacement vessel for a catcher vessel that qualified for an exemption.* A catcher vessel that is a replacement vessel for a vessel that was designated on an AFA catcher vessel permit with an exemption from a groundfish sideboard directed fishing closure will receive an AFA catcher vessel permit with the same exemption as the replaced vessel.
 
-(4) *AFA mothership permits.* - (i) NMFS will issue to an owner of a mothership an AFA mothership permit if the mothership:
+(4) *AFA mothership permits.* (i) NMFS will issue to an owner of a mothership an AFA mothership permit if the mothership:
 
 (A) Is one of the following (as listed in paragraphs 208(d)(1) through (3) of the AFA):
 

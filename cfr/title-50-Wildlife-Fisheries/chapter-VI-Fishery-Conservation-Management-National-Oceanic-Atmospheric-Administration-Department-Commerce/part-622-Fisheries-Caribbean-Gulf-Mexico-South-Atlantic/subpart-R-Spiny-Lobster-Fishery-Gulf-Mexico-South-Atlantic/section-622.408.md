@@ -1,5 +1,7 @@
 ##### § 622.408 Bag/possession limits. #####
 
+Link to an amendment published at 84 FR 37152, July 31, 2019.
+
 (a) *EEZ off the southern Atlantic states, other than Florida.* The daily bag or possession limit for spiny lobster in or from the EEZ off the southern Atlantic states, other than Florida, is two per person for commercial and recreational fishing, year-round.
 
 (b) *EEZ off Florida and off the Gulf states, other than Florida* - (1) *Commercial and recreational fishing season.* Except as specified in paragraphs (b)(3) and (b)(4) of this section, during the commercial and recreational fishing season specified in § 622.403(b)(1), the daily bag or possession limit of spiny lobster in or from the EEZ off Florida and off the Gulf states, other than Florida, is six per person.

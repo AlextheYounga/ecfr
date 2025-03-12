@@ -1,5 +1,7 @@
 ##### § 622.400 Permits and fees. #####
 
+Link to an amendment published at 84 FR 37151, July 31, 2019.
+
 (a) *Applicability* - (1) *Licenses, certificates, and permits* - (i) *EEZ off Florida and spiny lobster landed in Florida.* For a person to sell, trade, or barter, or attempt to sell, trade, or barter, a spiny lobster harvested or possessed in the EEZ off Florida, or harvested in the EEZ other than off Florida and landed from a fishing vessel in Florida, or for a person to be exempt from the daily bag and possession limit specified in § 622.408(b)(1) for such spiny lobster, such person must have the licenses and certificates specified to be a “commercial harvester,” as defined in Rule 68B-24.002, Florida Administrative Code, in effect as of July 1, 2008 (incorporated by reference, see § 622.413).
 
 (ii) *EEZ other than off Florida.* For a person to sell, trade, or barter, or attempt to sell, trade, or barter, a spiny lobster harvested in the EEZ other than off Florida or for a person to be exempt from the daily bag and possession limit specified in § 622.408(b)(1) for such spiny lobster, a Federal vessel permit must be issued to the harvesting vessel and must be on board. However, see paragraph (a)(1)(i) of this section for the licenses and certificates required for a person to possess or land spiny lobster harvested in the EEZ other than off Florida and subsequently possessed in the EEZ off Florida or landed from a fishing vessel in Florida.

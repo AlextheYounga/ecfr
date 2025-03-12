@@ -1,0 +1,3 @@
+##### § 18.130 Specified activities covered by this subpart. #####
+
+Regulations in this subpart apply to the nonlethal incidental, but not intentional, take, as defined in 50 CFR 18.3 and under the Marine Mammal Protection Act (16 U.S.C. 1362), of small numbers of northern sea otters (*Enhydra lutris kenyoni;* hereafter “otter,” “otters,” or “sea otters”) by Hilcorp Alaska, LLC, Harvest Alaska, LLC, and the Alaska Gasline Development Corporation while engaged in activities associated with or in support of oil and gas exploration, development, production, and transportation in Cook Inlet, Alaska.

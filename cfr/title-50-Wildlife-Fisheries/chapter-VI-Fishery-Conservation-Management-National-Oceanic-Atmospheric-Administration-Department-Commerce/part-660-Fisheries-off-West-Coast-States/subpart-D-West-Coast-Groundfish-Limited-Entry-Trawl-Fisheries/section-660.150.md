@@ -1,7 +1,5 @@
 ##### § 660.150 Mothership (MS) Coop Program. #####
 
-Link to an amendment published at 84 FR 31160, June 28, 2019.
-
 (a) *General.* The MS Coop Program is a general term to describe the limited access program that applies to eligible harvesters and processors in the mothership sector of the Pacific whiting at-sea trawl fishery. Eligible harvesters and processors, including coop and non-coop fishery participants, must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. Each year a vessel registered to an MS/CV-endorsed permit may fish in either the coop or non-coop portion of the MS Coop Program, but not both. In addition to the requirements of this section, the MS Coop Program is subject to the following groundfish regulations of subparts C and D of this part:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
@@ -410,13 +408,13 @@ Link to an amendment published at 84 FR 31160, June 28, 2019.
 
 (2) *Non-coop fishery closure.* The non-coop fishery will be closed by automatic action as specified at § 660.60(d) when the Pacific whiting or non-whiting allocations to the non-coop fishery have been reached or are projected to be reached.
 
-(i) *Retention requirements.* Catcher vessels participating in the MS Coop Program may discard minor operational amounts of catch at sea if the observer has accounted for the discard (*i.e.*, a maximized retention fishery).
+(i) *Retention requirements.* Catcher vessels participating in the MS Co-op Program may discard minor operational amounts of catch at sea if the observer or EMS has accounted for the discard (*i.e.,* a maximized retention fishery).
 
-(j) *Observer requirements* - (1) *Observer coverage requirements.* (i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS.
+(j) *Observer requirements* - (1) *Observer coverage requirements* - (i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS.
 
 (A) *MS vessels.* Any vessel registered to an MS permit 125 ft (38.1 m) LOA or longer must carry two certified observers, and any vessel registered to an MS permit shorter than 125 ft (38.1 m) LOA must carry one certified observer, each day that the vessel is used to take, retain, receive, land, process, or transport groundfish.
 
-(B) *Catcher vessels.* Any vessel delivering catch to any MS vessel must carry one certified observer each day that the vessel is used to take groundfish.
+(B) *Catcher vessels.* Any vessel delivering catch to any MS vessel must carry one certified observer each day that the vessel is used to take groundfish, unless the catcher vessel has a valid EM Authorization and is fishing with EM under § 660.604 of subpart J.
 
 (ii) *Observer workload* - (A) *MS vessels.* The time required for the observer to complete sampling duties must not exceed 12 consecutive hours in each 24-hour period.
 
@@ -892,4 +890,4 @@ Link to an amendment published at 84 FR 31160, June 28, 2019.
 
 (3) In the event of a NMFS determined coop failure, or reported failure, the designated coop manager will be notified in writing about NMFS' determination. Upon notification of a coop failure, fishing under the MS coop permit will no longer be allowed. Should a coop failure determination be made during the Pacific whiting primary season for the mothership sector, unused allocation associated with the catch history will not be available for harvest by the coop that failed, by any former members of the coop that failed, or any other MS coop for the remainder of that calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78406, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74744, Dec. 1, 2011; 77 FR 45512, Aug. 1, 2012; 77 FR 55157, Sept. 7, 2012; 78 FR 18896, Mar. 28, 2013; 78 FR 68772, Nov. 15, 2013; 78 FR 75282, Dec. 11, 2013; 80 FR 22290, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 762, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 31160, June 28, 2019]
