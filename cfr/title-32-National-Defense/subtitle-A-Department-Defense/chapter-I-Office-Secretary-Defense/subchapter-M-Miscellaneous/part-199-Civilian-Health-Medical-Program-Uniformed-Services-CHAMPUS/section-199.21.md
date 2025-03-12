@@ -1,6 +1,6 @@
 ##### § 199.21 TRICARE Pharmacy Benefits Program. #####
 
-(a) General - (1) *Statutory authority.* Title 10, U.S. Code, Section 1074g requires that the Department of Defense establish an effective, efficient, integrated pharmacy benefits program for the Military Health System. This law is independent of a number of sections of Title 10 and other laws that affect the benefits, rules, and procedures of TRICARE, resulting in changes to the rules otherwise applicable to TRICARE Prime, Standard, and Extra.
+(a) General—(1) *Statutory authority.* Title 10, U.S. Code, Section 1074g requires that the Department of Defense establish an effective, efficient, integrated pharmacy benefits program for the Military Health System. This law is independent of a number of sections of Title 10 and other laws that affect the benefits, rules, and procedures of TRICARE, resulting in changes to the rules otherwise applicable to TRICARE Prime, Standard, and Extra.
 
 (2) *Pharmacy benefits program.* (i) *Applicability.* The pharmacy benefits program, which includes the uniform formulary and its associated tiered co-payment structure, is applicable to all of the uniformed services. Geographically, except as specifically provided in paragraph (a)(2)(ii) of this section, this program is applicable to all 50 states and the District of Columbia, Guam, Puerto Rico, and the Virgin Islands. In addition, if authorized by the Assistant Secretary of Defense (Health Affairs) (ASD(HA)), the TRICARE pharmacy benefits program may be implemented in areas outside the 50 states and the District of Columbia, Guam, Puerto Rico, and the Virgin Islands. In such case, the ASD (HA) may also authorize modifications to the pharmacy benefits program rules and procedures as may be appropriate to the area involved.
 
@@ -22,7 +22,7 @@
 
 (3) *Over-the-counter drug.* A drug that is not subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)(1)).
 
-(c) *Department of Defense Pharmacy and Therapeutics Committee* - (1) *Purpose.* The Department of Defense Pharmacy and Therapeutics Committee is established by 10 U.S.C. 1074g to assure that the selection of pharmaceutical agents for the uniform formulary is based on broadly representative professional expertise concerning relative clinical and cost effectiveness of pharmaceutical agents and accomplishes an effective, efficient, integrated pharmacy benefits program.
+(c) *Department of Defense Pharmacy and Therapeutics Committee*—(1) *Purpose.* The Department of Defense Pharmacy and Therapeutics Committee is established by 10 U.S.C. 1074g to assure that the selection of pharmaceutical agents for the uniform formulary is based on broadly representative professional expertise concerning relative clinical and cost effectiveness of pharmaceutical agents and accomplishes an effective, efficient, integrated pharmacy benefits program.
 
 (2) *Composition.* As required by 10 U.S.C. 1074g(b), the committee includes representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members will have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations.
 
@@ -30,7 +30,7 @@
 
 (d) *Uniform Formulary Beneficiary Advisory Panel.* As required by 10 U.S.C. 1074g(c), a Uniform Formulary Beneficiary Advisory Panel reviews and comments on the development of the uniform formulary. The Panel includes members that represent non-governmental organizations and associations that represent the views and interests of a large number of eligible covered beneficiaries, contractors responsible for the TRICARE retail pharmacy program, contractors responsible for the TRICARE mail-order pharmacy program, and TRICARE network providers. The panel will meet after each Pharmacy and Therapeutics Committee quarterly meeting. The Panel's comments will be submitted to the Director, TRICARE Management Activity. The Director will consider the comments before implementing the uniform formulary or any recommendations for change made by the Pharmacy and Therapeutics Committee. The Panel will function in accordance with the Federated Advisory Committee Act (5 U.S.C. App. 2).
 
-(e) *Determinations regarding relative clinical and cost effectiveness for the selection of pharmaceutical agents for the uniform formulary* - (1) *Clinical effectiveness.* (i) It is presumed that pharmaceutical agents in a therapeutic class are clinically effective and should be included on the uniform formulary unless the Pharmacy and Therapeutics Committee finds by a majority vote that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other pharmaceutical agents included on the uniform formulary in that therapeutic class. This determination is based on the collective professional judgment of the DoD Pharmacy and Therapeutics Committee and consideration of pertinent information from a variety of sources determined by the Committee to be relevant and reliable. The DoD Pharmacy and Therapeutics Committee has discretion based on its collective professional judgment in determining what sources should be reviewed or relied upon in evaluating the clinical effectiveness of a pharmaceutical agent in a therapeutic class.
+(e) *Determinations regarding relative clinical and cost effectiveness for the selection of pharmaceutical agents for the uniform formulary*—(1) *Clinical effectiveness.* (i) It is presumed that pharmaceutical agents in a therapeutic class are clinically effective and should be included on the uniform formulary unless the Pharmacy and Therapeutics Committee finds by a majority vote that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other pharmaceutical agents included on the uniform formulary in that therapeutic class. This determination is based on the collective professional judgment of the DoD Pharmacy and Therapeutics Committee and consideration of pertinent information from a variety of sources determined by the Committee to be relevant and reliable. The DoD Pharmacy and Therapeutics Committee has discretion based on its collective professional judgment in determining what sources should be reviewed or relied upon in evaluating the clinical effectiveness of a pharmaceutical agent in a therapeutic class.
 
 (ii) Sources of information may include but are not limited to:
 
@@ -98,6 +98,12 @@
 
 (I) Existence of existing or proposed blanket purchase agreements, incentive price agreements, or contracts.
 
+(3) *Special rules for best clinical effectiveness.* (i) Under the authority of 10 U.S.C. 1074g(a)(10), the Pharmacy and Therapeutics Committee may recommend and the Director may, after considering the comments and recommendations of the Beneficiary Advisory Panel, approve special uniform formulary actions to encourage use of pharmaceutical agents that provide the best clinical effectiveness to covered beneficiaries and DoD, including consideration of better care, healthier people, and smarter spending. Such special actions may operate as exceptions to the normal rules and procedures under 10 U.S.C. 1074g(a)(2), (5) and (6) and the related provisions of this section.
+
+(ii) Actions under paragraph (e)(3)(i) of this section may include a complete or partial exclusion from the pharmacy benefits program of any pharmaceutical agent the Director determines provides very little or no clinical effectiveness relative to similar agents to covered beneficiaries and DoD. A partial exclusion under this paragraph may take the form (as one example) of a limitation on the clinical conditions, diagnoses, or indications for which the pharmaceutical agent may be prescribed. A partial exclusion may be implemented through any means recommended by the Pharmacy and Therapeutics Committee, including but not limited to preauthorization under paragraph (k) of this section. In the case of a partial exclusion, a pharmaceutical agent may be available on the non-formulary tier of the uniform formulary for limited purposes and for other purposes be excluded.
+
+(iii) Actions under paragraph (e)(3)(i) of this section may also include giving preferential status to any non-generic pharmaceutical agent of the uniform formulary by treating it for purposes of cost-sharing as a generic product.
+
 (f) *Evaluation of pharmaceutical agents for determinations regarding inclusion on the uniform formulary.* The DoD Pharmacy and Therapeutics Committee will periodically evaluate or re-evaluate individual pharmaceutical agents and therapeutic classes of pharmaceutical agents for determinations regarding inclusion or continuation on the uniform formulary. Such evaluation or re-evaluation may be prompted by a variety of circumstances including, but not limited to:
 
 (1) Approval of a new pharmaceutical agent by the U.S. Food and Drug Administration;
@@ -116,7 +122,7 @@
 
 (8) Requests from Pharmacy and Therapeutics Committee members, military treatment facilities, or other Military Health System officials.
 
-(g) *Administrative procedures for establishing and maintaining the uniform formulary* - (1) *Pharmacy and Therapeutics Committee determinations.* Determinations of the Pharmacy and Therapeutics Committee are by majority vote and recorded in minutes of Committee meetings. The minutes set forth the determinations of the committee regarding the pharmaceutical agents selected for inclusion in the uniform formulary and summarize the reasons for those determinations. For any pharmaceutical agent (including maintenance medications) for which a recommendation is made that the status of the agent be changed from the formulary tier to the non-formulary tier of the uniform formulary, or that the agent requires a pre-authorization, the Committee shall also make a recommendation as to effective date of such change that will not be longer than 180 days from the final decision date but may be less. The minutes will include a record of the number of members voting for and against the Committee's action.
+(g) *Administrative procedures for establishing and maintaining the uniform formulary*—(1) *Pharmacy and Therapeutics Committee determinations.* Determinations of the Pharmacy and Therapeutics Committee are by majority vote and recorded in minutes of Committee meetings. The minutes set forth the determinations of the committee regarding the pharmaceutical agents selected for inclusion in the uniform formulary and summarize the reasons for those determinations. For any pharmaceutical agent (including maintenance medications) for which a recommendation is made that the status of the agent be changed from the formulary tier to the non-formulary tier of the uniform formulary, or that the agent requires a pre-authorization, the Committee shall also make a recommendation as to effective date of such change that will not be longer than 180 days from the final decision date but may be less. The minutes will include a record of the number of members voting for and against the Committee's action.
 
 (2) *Beneficiary Advisory Panel.* Comments and recommendations of the Beneficiary Advisory Panel are recorded in minutes of Panel meetings. The minutes set forth the comments and recommendations of the Panel and summarize the reasons for those comments and recommendations. The minutes will include a record of the number of members voting for or against the Panel's comments and recommendations.
 
@@ -126,7 +132,7 @@
 
 (5) *Administrative procedure for newly approved drugs.* In the case of a newly approved innovator drug, other than a generic drug, the innovator drug will, not later than 120 days after the date of approval by the Food and Drug Administration, be added to the uniform formulary unless prior to that date the P&T Committee has recommended that the agent be listed as a non-formulary drug. If the Director, DHA subsequently approves that recommendation, the drug will be so listed. If the Director, DHA disapproves the recommendation to list the drug as non-formulary Third Tier, the drug will be then classified per the Director's decision. If, prior to the expiration of 120 days, the P&T Committee recommends that the agent be added to the uniform formulary and the recommendation is approved by the Director, DHA, that will be done as soon as feasible. Pending action under this paragraph (g)(5), the newly approved pharmaceutical agent will be considered to be in a classification pending status and will be available to beneficiaries under Third Tier terms applicable to all other non-formulary agents.
 
-(h) *Obtaining pharmacy services under the retail network pharmacy benefits program.*  - (1) *Points of service.* There are four outpatient pharmacy points of service:
+(h) *Obtaining pharmacy services under the retail network pharmacy benefits program.* —(1) *Points of service.* There are four outpatient pharmacy points of service:
 
 (i) Military Treatment Facilities (MTFs);
 
@@ -136,13 +142,13 @@
 
 (iv) the TRICARE Mail Order Pharmacy (TMOP).
 
-(2) *Availability of formulary pharmaceutical agents* - (i) *General.* Subject to paragraphs (h)(2)(ii) and (h)(2)(iii) of this section, formulary pharmaceutical agents are available under the Pharmacy Benefits Program from all points of service identified in paragraph (h)(1) of this section.
+(2) *Availability of formulary pharmaceutical agents*—(i) *General.* Subject to paragraphs (h)(2)(ii) and (h)(2)(iii) of this section, formulary pharmaceutical agents are available under the Pharmacy Benefits Program from all points of service identified in paragraph (h)(1) of this section.
 
 (ii) *Availability of formulary pharmaceutical agents at military treatment facilities (MTF).* Pharmaceutical agents included on the uniform formulary are available through facilities of uniformed services, consistent with the scope of health care services offered in such facilities and additional determinations by the P&T Committee of the relative clinical effectiveness and cost effectiveness, based on costs to the Program associated with providing the agents to beneficiaries. The BCF is a subset of the uniform formulary and is a mandatory component of formularies at all full-service MTF pharmacies. The BCF contains the minimum set of pharmaceutical agents that each full-service MTF pharmacy must have on its formulary to support the primary care scope of practice for Primary Care Manager enrollment sites. Limited-service MTF pharmacies (e.g., specialty pharmacies within an MTF or pharmacies servicing only active duty military members) are not required to include the entire BCF on their formularies, but may limit their formularies to those BCF agents appropriate to the needs of the patients they serve. An ECF may list preferred agents in drug classes other than those covered by the BCF. Among BCF and ECF agents, individual MTF formularies are determined by local P&T Committees based on the scope of health care services provided at the respective MTFs. All pharmaceutical agents on the local formulary of full-service MTF pharmacies must be available to all categories of beneficiaries.
 
 (iii) Pharmaceutical agents prescribed for smoking cessation are not available for coverage when obtained through a retail pharmacy. This includes network and non-network retail pharmacies.
 
-(3) *Availability of non-formulary pharmaceutical agents* - (i) *General.* Non-formulary pharmaceutical agents are generally not available in military treatment facilities or in the retail point of service. They are available in the mail order program.
+(3) *Availability of non-formulary pharmaceutical agents*—(i) *General.* Non-formulary pharmaceutical agents are generally not available in military treatment facilities or in the retail point of service. They are available in the mail order program.
 
 (ii) *Availability of non-formulary pharmaceutical agents at military treatment facilities.* Even when particular non-formulary agents are not generally available at military treatment facilities, they will be made available to eligible covered beneficiaries through the non-formulary special approval process as noted in this paragraph (h)(3)(ii) when there is a valid medical necessity for use of the non-formulary pharmaceutical agent.
 
@@ -158,31 +164,17 @@
 
 (ii) OTC drugs placed on the uniform formulary, in general, will be treated the same as generic drugs on the uniform formulary for purposes of availability in MTF pharmacies, retail pharmacies, and the mail order pharmacy program and other requirements. However, upon the recommendation of the Pharmacy and Therapeutics Committee and approval of the Director, DHA, the requirement for a prescription may be waived for a particular OTC drug for certain emergency care treatment situations. In addition, a special copayment may be established under paragraph (i)(2)(xii) of this section for OTC drugs specifically used in certain emergency care treatment situations.
 
-(i) *Cost-sharing requirements under the pharmacy benefits program* - (1) *General.* Under 10 U.S.C. 1074g(a)(6), cost-sharing requirements are established in this section for the pharmacy benefits program independent of those established under other provisions of this Part. Cost-shares under this section partially defray government costs of administering the pharmacy benefits program when collected by the government for prescriptions dispensed through the retail network pharmacies or the TRICARE Mail Order Pharmacy. The higher cost-share paid for prescriptions dispensed by a non-network retail pharmacy is established to encourage the use of the most economical venue to the government. Cost-sharing requirements are based on the classification of a pharmaceutical agent as generic, formulary, or non-formulary, in conjunction with the point of service from which the agent is acquired.
+(i) *Cost-sharing requirements under the pharmacy benefits program*—(1) *General.* Under 10 U.S.C. 1074g(a)(6), cost-sharing requirements are established in this section for the pharmacy benefits program independent of those established under other provisions of this Part. Cost-shares under this section partially defray government costs of administering the pharmacy benefits program when collected by the government for prescriptions dispensed through the retail network pharmacies or the TRICARE Mail Order Pharmacy. The higher cost-share paid for prescriptions dispensed by a non-network retail pharmacy is established to encourage the use of the most economical venue to the government. Cost-sharing requirements are based on the classification of a pharmaceutical agent as generic, formulary, or non-formulary, in conjunction with the point of service from which the agent is acquired.
 
 (2) *Cost-sharing amounts.* Active duty members of the uniformed services do not pay cost-shares or annual deductibles. For other categories of beneficiaries, after applicable annual deductibles are met, cost-sharing amounts prior to October 1, 2016, are set forth in this paragraph (i)(2).
 
 (i) For pharmaceutical agents obtained from a military treatment facility, there is no cost-sharing or annual deductible.
 
-(ii) For pharmaceutical agents obtained from a retail network pharmacy there is a:
-
-(A) $24.00 cost-share per prescription required for up to a 30-day supply of a formulary pharmaceutical agent.
-
-(B) $10.00 cost-share per prescription for up to a 30-day supply of a generic pharmaceutical agent.
-
-(C) $0.00 cost-share for vaccines/immunizations authorized as preventive care for eligible beneficiaries.
+(ii) For pharmaceutical agents obtained from a retail network pharmacy, the cost share will be as provided in 10 U.S.C. 1074g(a)(6), except that there is a $0 cost-share for vaccines/immunizations authorized as preventive care for eligible beneficiaries.
 
 (iii) For formulary and generic pharmaceutical agents obtained from a retail non-network pharmacy, except as provided in paragraph (i)(2)(vi) of this section, there is a 20 percent or $20.00 cost-share (whichever is greater) per prescription for up to a 30-day supply of the pharmaceutical agent.
 
-(iv) For pharmaceutical agents obtained under the TRICARE mail-order program there is a:
-
-(A) $20 cost-share per prescription for up to a 90-day supply of a formulary pharmaceutical agent.
-
-(B) $0.00 cost-share for up to a 90-day supply of a generic pharmaceutical agent.
-
-(C) $49.00 cost-share for up to a 90-day supply of a non-formulary pharmaceutical agent.
-
-(D) $0.00 cost-share for smoking cessation pharmaceutical agents covered under the smoking cessation program.
+(iv) For pharmaceutical agents obtained under the TRICARE mail order program, the cost share will be as provided in 10 U.S.C. 1074g(a)(6), except that there is a $0 cost-share for smoking cessation pharmaceutical agents covered under the smoking cessation program.
 
 (v) [Reserved]
 
@@ -194,11 +186,17 @@
 
 (ix) The TRICARE catastrophic cap limits apply to pharmacy benefits program cost-sharing.
 
-(x) The per prescription co-payments established in this paragraph (i)(2) may be adjusted periodically based on experience with the uniform formulary, changes in economic circumstances, and other appropriate factors. Any such adjustment must be approved by the Assistant Secretary of Defense (Health Affairs). These additional requirements apply:
+(x) For any year after 2027, the cost-sharing amounts under this paragraph shall be equal to the cost-sharing amounts for the previous year adjusted by an amount, if any, determined by the Director to reflect changes in the costs of pharmaceutical agents and prescription dispensing, rounded to the nearest dollar. These cost changes, if any, will consider costs under the TRICARE pharmacy benefits program calculated separately for each of the following categories based on prescriptions filled in the most recent period for which TRICARE cost data are available, updated to the current year, if necessary, by appropriate industry data:
 
-(A) Beginning October 1, 2016, the amounts specified in this paragraph (i)(2) shall be increased annually by the percentage increase in the cost-of-living adjustment by which retired pay is increased under 10 U.S.C. 1401a for the year. If the amount of the increase is equal to or greater than 50 cents, the amount of the increase shall be rounded to the nearest multiple of $1. If the amount of the increase is less than 50 cents, the increase shall not be made for that year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases for a year is equal to or greater than 50 cents.
+(A) Generic drugs in the retail point of service;
 
-(B) Effective January 1, 2023 (unless otherwise provided by law), the Assistant Secretary of Defense for Health Affairs may adjust the amounts specified in this paragraph (i)(2) as considered appropriate. Between January 1, 2016, and January 1, 2023, the only adjustments allowed are the cost of living adjustments described in paragraph (i)(2)(x)(A) of this section, unless otherwise provided by law.
+(B) Formulary drugs in the retail point of service;
+
+(C) Generic drugs in the mail order point of service;
+
+(D) Formulary drugs in the mail order point of service;
+
+(E) Non-formulary drugs.
 
 (xi) For a Medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by 10 U.S.C. 1086.
 
@@ -262,7 +260,7 @@
 
 (p) *General fraud, abuse, and conflict of interest requirements under TRICARE pharmacy benefits program.* All fraud, abuse, and conflict of interest requirements for the basic CHAMPUS program, as set forth in this part 199 (see applicable provisions of § 199.9 of this part) are applicable to the TRICARE pharmacy benefits program. Some methods and procedures for implementing and enforcing these requirements may differ from the methods and procedures followed under the basic CHAMPUS program.
 
-(q) *Pricing standards for retail pharmacy program* - (1) *Statutory requirement.* (i) As required by 10 U.S.C. 1074g(f), with respect to any prescription filled on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, the TRICARE retail pharmacy program shall be treated as an element of the DoD for purposes of the procurement of drugs by Federal agencies under 38 U.S.C. 8126 to the extent necessary to ensure pharmaceuticals paid for by the DoD that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
+(q) *Pricing standards for retail pharmacy program*—(1) *Statutory requirement.* (i) As required by 10 U.S.C. 1074g(f), with respect to any prescription filled on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008, the TRICARE retail pharmacy program shall be treated as an element of the DoD for purposes of the procurement of drugs by Federal agencies under 38 U.S.C. 8126 to the extent necessary to ensure pharmaceuticals paid for by the DoD that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
 
 (ii) Under paragraph (q)(1)(i) of this section, all covered drug TRICARE retail pharmacy network prescriptions are subject to Federal Ceiling Prices under 38 U.S.C. 8126.
 
@@ -308,7 +306,7 @@
 
 (5) *Beneficiary transition provisions.* In cases in which a pharmaceutical is removed from the uniform formulary or designated for preauthorization under paragraph (q)(2) of this section, the Director, TMA may for transitional time periods determined appropriate by the Director or for particular circumstances authorize the continued availability of the pharmaceutical in the retail pharmacy network or in MTF pharmacies for some or all beneficiaries as if the pharmaceutical were still on the uniform formulary.
 
-(r) *Refills of maintenance medications for eligible covered beneficiaries through the mail order pharmacy program* - (1) *In general.* Consistent with section 702 of the National Defense Authorization Act for Fiscal Year 2015, this paragraph requires that for non-generic covered maintenance medications, beneficiaries are generally required to obtain their prescription through the national mail-order pharmacy program or through military treatment facility pharmacies. For purposes of this paragraph, eligible covered beneficiaries are those defined under sections 1072 and 1086 of title 10, United States Code.
+(r) *Refills of maintenance medications for eligible covered beneficiaries through the mail order pharmacy program*—(1) *In general.* Consistent with section 702 of the National Defense Authorization Act for Fiscal Year 2015, this paragraph requires that for non-generic covered maintenance medications, beneficiaries are generally required to obtain their prescription through the national mail-order pharmacy program or through military treatment facility pharmacies. For purposes of this paragraph, eligible covered beneficiaries are those defined under sections 1072 and 1086 of title 10, United States Code.
 
 (2) *Medications covered.* The Director, DHA, will establish, maintain, and periodically revise and update a list of non-generic covered maintenance medications subject to the requirement of paragraph (r)(1) of this section. The current list will be accessible through the TRICARE Pharmacy Program Internet Web site and by telephone through the TRICARE Pharmacy Program Service Center. Each medication included on the list will meet the following requirements:
 
@@ -356,4 +354,4 @@
 
 (6) This program will remain in effect indefinitely with any adjustments or modifications required by law.
 
-[69 FR 17048, Apr. 1, 2004, as amended at 74 FR 11292, Mar. 17, 2009; 74 FR 55776, Oct. 29, 2009; 74 FR 65438, Dec. 10, 2009; 75 FR 63397, Oct. 15, 2010; 76 FR 41065, July 13, 2011; 78 FR 13241, Feb. 27, 2013; 78 FR 75247, Dec. 11, 2013; 80 FR 46798, Aug. 6, 2015; 80 FR 44272, July 27, 2015; 81 FR 76310, Nov. 2, 2016; 82 FR 45458, Sept. 29, 2017]Editorial Note:At 76 FR 41065, July 13, 2011, § 199.21 was amended by adding paragraphs (h)(4) and (i)(2)(ii)(D); however, the amendment could not be incorporated because both paragraphs already existed.
+[69 FR 17048, Apr. 1, 2004, as amended at 74 FR 11292, Mar. 17, 2009; 74 FR 55776, Oct. 29, 2009; 74 FR 65438, Dec. 10, 2009; 75 FR 63397, Oct. 15, 2010; 76 FR 41065, July 13, 2011; 78 FR 13241, Feb. 27, 2013; 78 FR 75247, Dec. 11, 2013; 80 FR 46798, Aug. 6, 2015; 80 FR 44272, July 27, 2015; 81 FR 76310, Nov. 2, 2016; 82 FR 45458, Sept. 29, 2017; 83 FR 63577, Dec. 11, 2018]
