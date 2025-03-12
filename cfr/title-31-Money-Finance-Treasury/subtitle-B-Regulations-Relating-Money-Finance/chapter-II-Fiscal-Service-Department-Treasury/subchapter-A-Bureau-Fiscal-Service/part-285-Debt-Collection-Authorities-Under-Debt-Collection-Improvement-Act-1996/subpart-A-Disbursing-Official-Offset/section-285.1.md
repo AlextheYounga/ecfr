@@ -1,6 +1,6 @@
 ##### § 285.1 Collection of past-due support by administrative offset. #####
 
-Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
+Link to an amendment published at 87 FR 50248, Aug. 16, 2022.Link to an amendment published at 87 FR 51611, Aug. 23, 2022.
 
 (a) *Definitions.* For purposes of this section:
 
