@@ -1,5 +1,7 @@
 ##### § 90.674 Interference resolution procedures before, during and after band reconfiguration. #####
 
+Link to an amendment published at 86 FR 26424, May 14, 2021.
+
 (a) *Initial Notification.* Any non-cellular licensee operating in the 806-824/851-869 MHz band who reasonably believes it is receiving unacceptable interference, as described in § 90.672, shall provide an initial notification of the interference incident. This initial notification of an interference incident shall be sent to all part 22 of this chapter Cellular Radiotelephone licensees and ESMR licensees who operate cellular base stations (“cell sites”) within 1,524 meters (5,000 feet) of the interference incident.
 
 (1) The initial notification of interference shall include the following information on interference:

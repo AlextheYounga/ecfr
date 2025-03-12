@@ -1,0 +1,3 @@
+##### § 677.3 Student eligibility. #####
+
+*Student,* for purposes of the phrases “grants to students”, “emergency financial aid grants to students” or “financial aid grants to students” as used in the Higher Education Emergency Relief (HEERF) programs, is defined as any individual who is or was enrolled (as defined in 34 CFR 668.2) at an eligible institution (as defined in 34 CFR 600.2) on or after March 13, 2020, the date of declaration of the national emergency concerning the novel coronavirus disease.

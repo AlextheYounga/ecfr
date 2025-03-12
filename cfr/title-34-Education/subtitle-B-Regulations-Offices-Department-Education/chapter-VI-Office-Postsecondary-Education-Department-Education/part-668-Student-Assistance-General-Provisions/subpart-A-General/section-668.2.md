@@ -208,10 +208,6 @@ AccreditedAward yearBranch campusClock hourCorrespondence courseCredit hourDista
 
 (Authority: 20 U.S.C. 1070c *et seq.*)
 
-*Student,* for purposes of the phrases “grants to students” and “emergency financial aid grants to students” in sections 18004(a)(2), (a)(3), and (c) of the Coronavirus Aid, Relief, and Economic Security (CARES) Act, is defined as an individual who is, or could be, eligible under section 484 of the HEA, to participate in programs under title IV of the HEA.
-
-(Authority: 20 U.S.C. 1221e-3 3474)
-
 *Student aid report (SAR):* A report provided to an applicant by the Secretary showing his or her FAFSA information and the amount of his or her EFC.
 
 *Teacher Education Assistance for College and Higher Education (TEACH) Grant Program:* A grant program authorized by title IV of the HEA under which grants are awarded by an institution to students who are completing, or intend to complete, coursework to begin a career in teaching and who agree to serve for not less than four years as a full-time, highly-qualified teacher in a high-need field in a low-income school. If the recipient of a TEACH Grant does not complete four years of qualified teaching service within eight years of completing the course of study for which the TEACH Grant was received or otherwise fails to meet the requirements of 34 CFR 686.12, the amount of the TEACH Grant converts into a Federal Direct Unsubsidized Loan.

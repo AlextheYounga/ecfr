@@ -353,7 +353,7 @@
 
 (F) *ASME BPV Code Case N-852.* ASME BPV Code Case N-852, “Application of the ASME NPT Stamp, Section III, Division 1; Section III, Division 2; Section III, Division 3; Section III, Division 5” (Approval Date: February 9, 2015). ASME BPV Code Case N-852 is referenced in paragraph (b)(1)(ix) of this section.
 
-(G)[Reserved]
+(G) [Reserved]
 
 (iv) *ASME Operation and Maintenance Code.* The editions and addenda for the ASME Operation and Maintenance of Nuclear Power Plants are listed in this paragraph (a)(1)(iv), but limited by those provisions identified in paragraph (b)(3) of this section.
 

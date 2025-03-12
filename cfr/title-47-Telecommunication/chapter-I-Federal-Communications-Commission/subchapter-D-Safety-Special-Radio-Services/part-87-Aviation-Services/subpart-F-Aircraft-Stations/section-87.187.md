@@ -34,7 +34,7 @@
 
 (3) The frequency 156.300 MHz may be used for safety purposes only. The frequency 156.800 MHz may be used for distress, safety and calling purposes only.
 
-(4) Except in the Great Lakes and along the St. Lawrence Seaway the frequency 157.425 MHz is available for communications with commercial fishing vessels.
+(4) Except in the Great Lakes and along the St. Lawrence Seaway the frequency 157.425 MHz is available for communications with commerical fishing vessels.
 
 (5) The frequency 156.375 MHz cannot be used in the New Orleans, LA, VTS protection area. No harmful interference shall be caused to the VTS.
 
@@ -92,7 +92,7 @@ Aeronautical telemetry operations must protect Miscellaneous Wireless Communicat
 
 35-59-44.9 N. Lat; 114-51-48.0 W. Long.36-09-29.9 N. Lat; 114-50-3.0 W. Long.36-09-29.9 N. Lat; 114-02-57.9 W. Long.35-54-45.0 N. Lat; 113-48-47.8 W. Long.
 
-(dd) The frequencies 136.425, 136.450, and 136.475 MHz are designated for flight information services - broadcast (FIS-B) and may not be used by aircraft for transmission.
+(dd) The frequencies 136.425, 136.450, and 136.475 MHz are designated for flight information services—broadcast (FIS-B) and may not be used by aircraft for transmission.
 
 (ee) The frequency 121.95 MHz is authorized for air-to-ground and air-to-air communications for aircraft up to 13000 feet above mean sea level (AMSL) within the area bounded by the following coordinates (all coordinates are referenced to North American Datum 1983 (NAD83)):
 

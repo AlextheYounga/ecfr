@@ -1,5 +1,7 @@
 ##### § 989.80 Assessments. #####
 
+Link to an amendment published at 86 FR 26348, May 14, 2021.
+
 (a) Each handler shall pay to the Committee, upon demand, his pro rata share of the expenses which the Secretary finds will be incurred, as aforesaid, by the Committee during each crop year less any amounts credited pursuant to § 989.53. Such handler's pro rata share of such expenses shall be equal to the ratio between the total raisin tonnage acquired by such handler during the applicable crop year and the total raisin tonnage acquired by all handlers during the same crop year.
 
 (b) Each handler who reconditions off-grade raisins but does not acquire the standard raisins recovered therefrom shall, with respect to his assessable portion of all such standard raisins, pay to the Committee, upon demand, his pro rata share of the expenses which the Secretary finds will be incurred by the Committee each crop year. Such handler's pro rata share of such expenses shall be equal to the ratio between the handler's assessable portion (which shall be a quantity equal to such handler's standard raisins which are acquired by some other handler or handlers) during the applicable crop year and the total raisin tonnage acquired by all handlers.
