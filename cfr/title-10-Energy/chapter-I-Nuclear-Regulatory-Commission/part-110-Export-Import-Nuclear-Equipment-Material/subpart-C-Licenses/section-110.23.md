@@ -1,5 +1,7 @@
 ##### § 110.23 General license for the export of byproduct material. #####
 
+Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
+
 (a) A general license is issued to any person to export byproduct material (see Appendix L to this part) to any country not listed in § 110.28 and subject to the following limitations:
 
 (1) The general license in this section does not authorize the export of byproduct material in the form of radioactive waste.

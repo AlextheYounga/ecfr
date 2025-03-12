@@ -1,5 +1,7 @@
 ##### § 110.2 Definitions. #####
 
+Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
+
 As used in this part,
 
 *Accelerator-produced radioactive material* means any material made radioactive by a particle accelerator.

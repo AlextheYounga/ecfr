@@ -1,5 +1,7 @@
 ##### § 110.32 Information required in an application for a specific license/NRC Form 7. #####
 
+Link to an amendment published at 82 FR 52826, Nov. 15, 2017.
+
 (a) Name and address of applicant.
 
 (b) Name and address of any other party, including the supplier of equipment or material, if different from the applicant.

@@ -1,5 +1,7 @@
 ##### § 71.4 Definitions. #####
 
+Link to an amendment published at 82 FR 52825, Nov. 15, 2017.
+
 The following terms are as defined here for the purpose of this part. To ensure compatibility with international transportation standards, all limits in this part are given in terms of dual units: The International System of Units (SI) followed or preceded by U.S. standard or customary units. The U.S. customary units are not exact equivalents but are rounded to a convenient value, providing a functionally equivalent unit. For the purpose of this part, either unit may be used.
 
 *A*1 means the maximum activity of special form radioactive material permitted in a Type A package. This value is either listed in Appendix A, Table A-1, of this part, or may be derived in accordance with the procedures prescribed in Appendix A of this part.

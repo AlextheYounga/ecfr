@@ -1,5 +1,7 @@
 ##### § 648.2 Definitions. #####
 
+Link to an amendment published at 82 FR 52855, Nov. 15, 2017.
+
 In addition to the definitions in the Magnuson Act and in § 600.10 of this chapter, the terms used in this part have the following meanings:
 
 *Alewife* means *Alosa pseudoharengus.*

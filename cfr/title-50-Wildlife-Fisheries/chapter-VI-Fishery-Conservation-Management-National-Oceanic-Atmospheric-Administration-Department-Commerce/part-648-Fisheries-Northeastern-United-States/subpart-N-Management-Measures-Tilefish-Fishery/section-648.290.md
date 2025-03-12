@@ -1,5 +1,7 @@
 ##### § 648.290 Tilefish Annual Catch Limit (ACL). #####
 
+Link to an amendment published at 82 FR 52857, Nov. 15, 2017.
+
 (a) The Tilefish Monitoring Committee shall recommend to the MAFMC an ACL for the commercial tilefish fishery, which shall be equal to the ABC recommended by the SSC.
 
 (1) [Reserved]

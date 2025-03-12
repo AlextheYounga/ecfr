@@ -1,5 +1,7 @@
 ##### § 648.291 Tilefish Annual Catch Target (ACT). #####
 
+Link to an amendment published at 82 FR 52857, Nov. 15, 2017.
+
 (a) The Tilefish Monitoring Committee shall identify and review the relevant sources of management uncertainty to recommend an ACT as part of the tilefish specification process. The Tilefish Monitoring Committee recommendations shall identify the specific sources of management uncertainty that were considered, technical approaches to mitigating these sources of uncertainty, and any additional relevant information considered in the ACT recommendation process.
 
 (1) *Sectors.* The ACT shall be less than or equal to the ACL. The Tilefish Monitoring Committee shall include the fishing mortality associated with the recreational fishery in its ACT recommendations only if this source of mortality has not already been accounted for in the ABC recommended by the SSC. The Tilefish Monitoring Committee shall recommend any reduction in catch necessary to address sector-specific management uncertainty, consistent with paragraph (a) of this section.

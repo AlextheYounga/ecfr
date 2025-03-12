@@ -1,5 +1,7 @@
 ##### § 61.2 Definitions. #####
 
+Link to an amendment published at 82 FR 52825, Nov. 15, 2017.
+
 As used in this part:
 
 *Active maintenance* means any significant remedial activity needed during the period of institutional control to maintain a reasonable assurance that the performance objectives in §§ 61.41 and 61.42 are met. Such active maintenance includes ongoing activities such as the pumping and treatment of water from a disposal unit or one-time measures such as replacement of a disposal unit cover. Active maintenance does not include custodial activities such as repair of fencing, repair or replacement of monitoring equipment, revegetation, minor additions to soil cover, minor repair of disposal unit covers, and general disposal site upkeep such as mowing grass.

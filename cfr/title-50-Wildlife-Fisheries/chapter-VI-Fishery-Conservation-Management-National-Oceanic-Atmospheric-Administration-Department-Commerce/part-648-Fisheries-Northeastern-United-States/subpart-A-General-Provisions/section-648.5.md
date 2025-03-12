@@ -1,5 +1,7 @@
 ##### § 648.5 Operator permits. #####
 
+Link to an amendment published at 82 FR 52856, Nov. 15, 2017.
+
 (a) *General.* (1) Any operator of a vessel issued a permit, carrier permit, or processing permit for, and that fishes for or possesses, the species listed in paragraph (a)(2) of this section, must have been issued, and carry on board, a valid operator permit for these species. An operator's permit issued pursuant to part 622 or part 697 of this chapter, satisfies the permitting requirement of this section. This requirement does not apply to operators of recreational vessels.
 
 (2) Following are the applicable species: Atlantic sea scallops, NE multispecies, spiny dogfish, monkfish, Atlantic herring, Atlantic surfclam, ocean quahog, Atlantic mackerel, squid, butterfish, scup, black sea bass, or Atlantic bluefish, harvested in or from the EEZ; tilefish harvested in or from the EEZ portion of the Tilefish Management Unit; skates harvested in or from the EEZ portion of the Skate Management Unit; Atlantic deep-sea red crab harvested in or from the EEZ portion of the Red Crab Management Unit; or Atlantic chub mackerel and Mid-Atlantic forage species, as defined at § 648.2, harvested in or from the EEZ portion of the Mid-Atlantic Forage Species Management Unit, as defined at § 648.351(c). The operator permit requirements specified in this paragraph (a)(2) for an operator of a vessel fishing for and possessing Atlantic chub mackerel are effective through December 31, 2020.

@@ -1,5 +1,7 @@
 ##### § 40.35 Conditions of specific licenses issued pursuant to § 40.34. #####
 
+Link to an amendment published at 82 FR 52825, November 15, 2017.
+
 Each person licensed pursuant to § 40.34 shall:
 
 (a) Maintain the level of quality control required by the license in the manufacture of the industrial product or device, and in the installation of the depleted uranium into the product or device;

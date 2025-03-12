@@ -1,5 +1,7 @@
 ##### § 648.299 Tilefish framework specifications. #####
 
+Link to an amendment published at 82 FR 52861, Nov. 15, 2017.
+
 (a) *Within-season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the Tilefish FMP.
 
 (1) *Specific management measures.* The following specific management measures may be adjusted at any time through the framework adjustment process:

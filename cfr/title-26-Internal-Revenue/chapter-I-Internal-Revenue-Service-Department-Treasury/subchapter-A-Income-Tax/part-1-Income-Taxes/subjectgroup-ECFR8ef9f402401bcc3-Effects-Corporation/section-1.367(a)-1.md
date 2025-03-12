@@ -2,13 +2,13 @@
 
 (a) *Scope.* Section 367(a)(1) provides the general rule concerning certain transfers of property by a United States person (referred to at times in this section as the “U.S. person” or “U.S. transferor”) to a foreign corporation. Paragraph (b) of this section provides general rules explaining the effect of section 367(a)(1). Paragraph (c) of this section describes transfers of property that are described in section 367(a)(1). Paragraph (d) of this section provides definitions that apply for purposes of sections 367(a) and (d) and the regulations thereunder. Paragraphs (e) and (f) of this section provide rules that apply to certain reorganizations described in section 368(a)(1)(F). Paragraph (g) of this section provides dates of applicability. For rules concerning the reporting requirements under section 6038B for certain transfers of property to a foreign corporation, see § 1.6038B-1.
 
-(b) *General rules* - (1) *Foreign corporation not considered a corporation for purposes of certain transfers.* If a U.S. person transfers property to a foreign corporation in connection with an exchange described in section 351, 354, 356, or 361, then, pursuant to section 367(a)(1), the foreign corporation will not be considered to be a corporation for purposes of determining the extent to which gain is recognized on the transfer. Section 367(a)(1) denies nonrecognition treatment only to transfers of items of property on which gain is realized. Thus, the amount of gain recognized because of section 367(a)(1) is unaffected by the transfer of items of property on which loss is realized (but not recognized).
+(b) *General rules*—(1) *Foreign corporation not considered a corporation for purposes of certain transfers.* If a U.S. person transfers property to a foreign corporation in connection with an exchange described in section 351, 354, 356, or 361, then, pursuant to section 367(a)(1), the foreign corporation will not be considered to be a corporation for purposes of determining the extent to which gain is recognized on the transfer. Section 367(a)(1) denies nonrecognition treatment only to transfers of items of property on which gain is realized. Thus, the amount of gain recognized because of section 367(a)(1) is unaffected by the transfer of items of property on which loss is realized (but not recognized).
 
 (2) *Cases in which foreign corporate status is not disregarded.* For circumstances in which section 367(a)(1) does not apply to a U.S. transferor's transfer of property to a foreign corporation, and thus the foreign corporation is considered to be a corporation, see §§ 1.367(a)-2, 1.367(a)-3, and 1.367(a)-7.
 
 (3) *Determination of value.* In cases in which a U.S. transferor's transfer of property to a foreign corporation constitutes a controlled transaction as defined in § 1.482-1(i)(8), the value of the property transferred is determined in accordance with section 482 and the regulations thereunder.
 
-(4) *Character, source, and adjustments* - (i) *In general.* If a U.S. person is required to recognize gain under section 367 upon a transfer of property to a foreign corporation, then -
+(4) *Character, source, and adjustments*—(i) *In general.* If a U.S. person is required to recognize gain under section 367 upon a transfer of property to a foreign corporation, then—
 
 (A) The character and source of such gain are determined as if the property had been disposed of in a taxable exchange with the transferee foreign corporation (unless otherwise provided by regulation); and
 
@@ -24,7 +24,7 @@ Example.Domestic corporation DC transfers inventory with a fair market value of 
 
 (c)(1) through (c)(3)(i) [Reserved]. For further guidance, see § 1.367(a)-1T(c)(1) through (c)(3)(i).
 
-(ii) *Transfer of partnership interest treated as transfer of proportionate share of assets* - (A) *In general.* If a U.S. person transfers an interest as a partner in a partnership (whether foreign or domestic) in an exchange described in section 367(a)(1), then that person is treated as having transferred a proportionate share of the property of the partnership in an exchange described in section 367(a)(1). Accordingly, the applicability of the exception to section 367(a)(1) provided in § 1.367(a)-2 is determined with reference to the property of the partnership rather than the partnership interest itself. A U.S. person's proportionate share of partnership property is determined under the rules and principles of sections 701 through 761 and the regulations thereunder.
+(ii) *Transfer of partnership interest treated as transfer of proportionate share of assets*—(A) *In general.* If a U.S. person transfers an interest as a partner in a partnership (whether foreign or domestic) in an exchange described in section 367(a)(1), then that person is treated as having transferred a proportionate share of the property of the partnership in an exchange described in section 367(a)(1). Accordingly, the applicability of the exception to section 367(a)(1) provided in § 1.367(a)-2 is determined with reference to the property of the partnership rather than the partnership interest itself. A U.S. person's proportionate share of partnership property is determined under the rules and principles of sections 701 through 761 and the regulations thereunder.
 
 (c)(3)(i)(A) *Example* through (7) [Reserved]. For further guidance, see § 1.367(a)-1T(c)(3)(i)(A) *Example* through (7).
 
@@ -42,7 +42,9 @@ Example.Domestic corporation DC transfers inventory with a fair market value of 
 
 (6) *Operating intangibles.* An operating intangible is any property described in section 936(h)(3)(B) of a type not ordinarily licensed or otherwise transferred in transactions between unrelated parties for consideration contingent upon the licensee's or transferee's use of the property. Examples of operating intangibles may include long-term purchase or supply contracts, surveys, studies, and customer lists.
 
-(f) *Exchanges under sections 354(a) and 361(a) in certain section 368(a)(1)(F) reorganizations* - (1) *Rule.* In every reorganization under section 368(a)(1)(F), where the transferor corporation is a domestic corporation, and the acquiring corporation is a foreign corporation, there is considered to exist -
+(e) *Close of taxable year in certain section 368(a)(1)(F) reorganizations.* If a domestic corporation is the transferor corporation in a reorganization described in section 368(a)(1)(F) after March 30, 1987, in which the acquiring corporation is a foreign corporation, then the taxable year of the transferor corporation shall end with the close of the date of the transfer and the taxable year of the acquiring corporation shall end with the close of the date on which the transferor's taxable year would have ended but for the occurrence of the transfer. With regard to the consequences of the closing of the taxable year, see section 381 and the regulations thereunder.
+
+(f) *Exchanges under sections 354(a) and 361(a) in certain section 368(a)(1)(F) reorganizations*—(1) *Rule.* In every reorganization under section 368(a)(1)(F), where the transferor corporation is a domestic corporation, and the acquiring corporation is a foreign corporation, there is considered to exist—
 
 (i) A transfer of assets by the transferor corporation to the acquiring corporation under section 361(a) in exchange for stock (or stock and securities) of the acquiring corporation and the assumption by the acquiring corporation of the transferor corporation's liabilities;
 
@@ -58,4 +60,4 @@ Example.Domestic corporation DC transfers inventory with a fair market value of 
 
 (5) Paragraphs (a), (b)(1) through (b)(4)(i)(B), (b)(4)(ii) through (b)(5), (c)(3)(ii)(A), (d) introductory text through (d)(2), (d)(4) through (d)(6) of this section apply to transfers occurring on or after September 14, 2015, and to transfers occurring before September 14, 2015, resulting from entity classification elections made under § 301.7701-3 that are filed on or after September 14, 2015. For transfers occurring before this section is applicable, see §§ 1.367(a)-1 and 1.367(a)-1T as contained in 26 CFR part 1 revised as of April 1, 2016.
 
-[T.D. 9803, 81 FR 91022, Dec. 16, 2016]
+[T.D. 9803, 81 FR 91022, Dec. 16, 2016, as amended at 82 FR 52848, Nov. 15, 2017]

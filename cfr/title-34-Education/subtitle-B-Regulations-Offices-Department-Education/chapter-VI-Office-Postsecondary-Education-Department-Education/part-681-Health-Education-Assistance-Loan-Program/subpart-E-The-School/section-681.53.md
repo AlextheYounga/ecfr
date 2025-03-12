@@ -1,0 +1,5 @@
+##### § 681.53 Notification to lender or holder of change in enrollment status. #####
+
+Each school must notify the holder of a HEAL loan of any change in the student's enrollment status within 30 days following the change in status. Each notice must contain the student's full name under which the loan was received, the student's current name (if different), the student's Social Security number, the date of the change in the enrollment status, or failure to enroll as scheduled for any academic period as a full-time student, the student's latest known permanent and temporary addresses, and other information which the school may decide is necessary to identify or locate the student. If the school does not know the identity of the current holder of the HEAL loan, it must notify the HEAL Program Office of a change in the student's enrollment status. This notification is not required for vacation periods and leaves of absence or other temporary interruptions which do not exceed one academic term.
+
+(Approved by the Office of Management and Budget under control number 1845-0125)
