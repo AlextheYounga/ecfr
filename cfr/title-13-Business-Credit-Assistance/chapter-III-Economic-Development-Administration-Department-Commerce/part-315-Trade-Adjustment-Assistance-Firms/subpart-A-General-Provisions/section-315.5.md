@@ -1,5 +1,7 @@
 ##### § 315.5 TAAC scope, selection, evaluation and awards. #####
 
+Link to an amendment published at 85 FR 8380, Feb. 14, 2020.
+
 (a) *TAAC purpose and scope.* (1) TAACs are available to assist Firms in obtaining Adjustment Assistance in all 50 U.S. States, the District of Columbia and the Commonwealth of Puerto Rico. TAACs provide Adjustment Assistance in accordance with this part either through their own staffs or by arrangements with outside consultants. Information concerning TAACs serving particular areas may be obtained from the TAAC Web site at *http://www.taacenters.org* or from EDA at *http://www.eda.gov.*
 
 (2) Prior to submitting a petition for Adjustment Assistance to EDA, a Firm should determine the extent to which a TAAC can provide the required Adjustment Assistance. EDA will provide Adjustment Assistance through TAACs whenever EDA determines that such assistance can be provided most effectively in this manner. Requests for Adjustment Assistance will normally be made through TAACs.

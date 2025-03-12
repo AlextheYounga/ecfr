@@ -1,5 +1,7 @@
 ##### § 315.2 Definitions. #####
 
+Link to an amendment published at 85 FR 8379, Feb. 14, 2020.
+
 In addition to the defined terms set forth in § 300.3 of this chapter, the following terms used in this part shall have the following meanings:
 
 *Adjustment Assistance* means technical assistance provided to Firms or industries under chapter 3 of title II of the Trade Act.

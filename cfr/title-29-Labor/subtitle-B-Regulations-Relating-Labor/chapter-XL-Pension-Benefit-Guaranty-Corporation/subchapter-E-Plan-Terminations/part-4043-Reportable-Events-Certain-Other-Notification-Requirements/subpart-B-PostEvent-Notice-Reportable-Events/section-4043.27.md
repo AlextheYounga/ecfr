@@ -1,7 +1,5 @@
 ##### § 4043.27 Distribution to a substantial owner. #####
 
-Link to an amendment published at 85 FR 6062, Feb. 4, 2020.
-
 (a) *Reportable event.* A reportable event occurs for a plan when -
 
 (1) There is a distribution to a substantial owner of a contributing sponsor of the plan;
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 6062, Feb. 4, 2020.
 
 (2) *Well-funded plan.* Notice under this section is waived if the plan is in the well-funded plan safe harbor for the event year.
 
-(3) *Public company.* Notice under this section is waived if any contributing sponsor of the plan before the transaction is a public company and the contributing sponsor timely files a SEC Form 8-K disclosing the event under an item of the Form 8-K other than under Item 2.02 (Results of Operations and Financial Condition) or in financial statements under Item 9.01 (Financial Statements and Exhibits).
+[80 FR 55002, Sept. 11, 2015, as amended at 85 FR 6062, Feb. 4, 2020]

@@ -1,22 +1,26 @@
 ##### § 4010.7 Identifying information. #####
 
-Link to an amendment published at 85 FR 6059, Feb. 4, 2020.
+(a) *Filers.* Each filer is required to provide, in accordance with the instructions on PBGC's website, *http://www.pbgc.gov,* the following identifying information with respect to each member of the filer's controlled group (excluding exempt entities)—
 
-(a) *Filers.* Each filer is required to provide, in accordance with the instructions on PBGC's Web site, *http://www.pbgc.gov*, the following identifying information with respect to each member of the filer's controlled group (excluding exempt entities) -
+(1) *Current members; individual member information.* For each entity that is a member of the controlled group as of the end of the filer's information year—
 
-(1) *Current members.* For an entity that is a member of the controlled group as of the end of the filer's information year -
-
-(i) The name, address, and telephone number of the entity and the legal relationships with other members of the controlled group (for example, parent, subsidiary);
+(i) The name, address, and telephone number of the entity;
 
 (ii) The nine-digit Employer Identification Number (EIN) assigned by the IRS to the entity (or if there is no EIN for the entity, an explanation); and
 
-(iii) If the entity became a member of the controlled group during the information year, the date the entity became a member of the controlled group; and
+(iii) If the entity became a member of the controlled group during the information year, the date the entity became a member of the controlled group.
 
-(2) *Former members.* For any entity that ceased to be a member of the controlled group during the filer's information year, the date the entity ceased to be a member of the controlled group and the identifying information required by paragraph (a)(1) of this section as of the day before the entity left the controlled group.
+(2) *Current members; legal relationships of members.* If, as of the end of the filer's information year, the filer's controlled group consists of—
 
-(b) *Plans.* Each filer is required to provide, in accordance with the instructions on PBGC's Web site, *http://www.pbgc.gov*, the following identifying information with respect to each plan (including exempt plans) maintained by any member of the filer's controlled group (including exempt entities) -
+(i) Ten or fewer members (excluding exempt entities), the legal relationship of each entity to the plan sponsor (for example, parent, subsidiary).
 
-(1) *Current plans.* For a plan that is maintained by the controlled group as of the last day of the filer's information year -
+(ii) More than ten members (excluding exempt entities), an organizational chart or other diagram showing the members of the filer's controlled group as of the end of the filer's information year and the legal relationships of the members to each other. Exempt entities may, but need not, be included in this organizational chart or diagram.
+
+(3) *Former members.* For any entity that ceased to be a member of the controlled group during the filer's information year, the date the entity ceased to be a member of the controlled group and the identifying information required by paragraph (a)(1) of this section as of the day before the entity left the controlled group.
+
+(b) *Plans.* Each filer is required to provide, in accordance with the instructions on PBGC's Web site, *http://www.pbgc.gov*, the following identifying information with respect to each plan (including exempt plans) maintained by any member of the filer's controlled group (including exempt entities)—
+
+(1) *Current plans.* For a plan that is maintained by the controlled group as of the last day of the filer's information year—
 
 (i) The name of the plan;
 
@@ -32,4 +36,4 @@ Link to an amendment published at 85 FR 6059, Feb. 4, 2020.
 
 (2) *Former plans.* For a plan that ceased to be maintained by the controlled group during the filer's information year, the date the plan ceased to be so maintained, identification of the controlled group currently maintaining the plan (if applicable), and the identifying information required by paragraph (b)(1) of this section as of the day before that date.
 
-[70 FR 11544, Mar. 9, 2005, as amended at 74 FR 11031, Mar. 16, 2009]
+[70 FR 11544, Mar. 9, 2005, as amended at 74 FR 11031, Mar. 16, 2009; 85 FR 6059, Feb. 4, 2020]

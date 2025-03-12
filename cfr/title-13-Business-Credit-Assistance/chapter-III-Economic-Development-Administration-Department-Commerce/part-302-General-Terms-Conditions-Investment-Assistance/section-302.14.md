@@ -1,5 +1,7 @@
 ##### § 302.14 Records. #####
 
+Link to an amendment published at 85 FR 8379, Feb. 14, 2020.
+
 (a) *Records.* Recipients of Investment Assistance under PWEDA shall keep such records as EDA shall require, including records that fully disclose:
 
 (1) The total cost of the Project;

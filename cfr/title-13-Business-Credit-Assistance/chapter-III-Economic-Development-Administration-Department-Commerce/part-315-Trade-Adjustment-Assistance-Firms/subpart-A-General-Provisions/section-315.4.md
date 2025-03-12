@@ -1,5 +1,7 @@
 ##### § 315.4 Eligible applicants. #####
 
+Link to an amendment published at 85 FR 8380, Feb. 14, 2020.
+
 (a) The following entities may apply for assistance to operate a TAAC:
 
 (1) Universities or affiliated organizations;

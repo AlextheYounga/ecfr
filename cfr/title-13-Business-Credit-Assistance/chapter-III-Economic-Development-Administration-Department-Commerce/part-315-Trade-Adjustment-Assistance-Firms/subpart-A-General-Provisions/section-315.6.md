@@ -1,5 +1,7 @@
 ##### § 315.6 Firm eligibility for Adjustment Assistance. #####
 
+Link to an amendment published at 85 FR 8380, Feb. 14, 2020.
+
 (a) Firms participate in the Trade Adjustment Assistance for Firms program in accordance with the following:
 
 (1) Firms apply for certification through a TAAC by completing a petition for certification. The TAAC will assist Firms in completing such petitions (at no cost to the Firms);

@@ -1,22 +1,20 @@
 ##### § 4043.2 Definitions. #####
 
-Link to an amendment published at 85 FR 6061, Feb. 4, 2020.
-
-The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, irrevocable commitment, multiemployer plan, PBGC, person, plan, plan administrator, plan year, and single-employer plan.
+The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, irrevocable commitment, multiemployer plan, PBGC, person, plan, plan administrator, plan year, single-employer plan, ultimate parent, and U.S. entity.
 
 In addition, for purposes of this part:
 
-*De minimis 10-percent segment* means, in connection with a plan's controlled group, one or more entities that in the aggregate have for a fiscal year -
+*De minimis 10-percent segment* means, in connection with a plan's controlled group, one or more entities that in the aggregate have for a fiscal year—
 
 (1) Revenue not exceeding 10 percent of the controlled group's revenue;
 
-(2) Annual operating income not exceeding the greater of -
+(2) Annual operating income not exceeding the greater of—
 
 (i) 10 percent of the controlled group's annual operating income; or
 
 (ii) $5 million; and
 
-(3) Net tangible assets at the end of the fiscal year(s) not exceeding the greater of -
+(3) Net tangible assets at the end of the fiscal year(s) not exceeding the greater of—
 
 (i) 10 percent of the controlled group's net tangible assets at the end of the fiscal year(s); or
 
@@ -26,13 +24,13 @@ In addition, for purposes of this part:
 
 *Event year* means the plan year in which a reportable event occurs.
 
-*Foreign entity* means a member of a controlled group that -
+*Foreign entity* means a member of a controlled group that—
 
 (1) Is not a contributing sponsor of a plan;
 
 (2) Is not organized under the laws of (or, if an individual, is not a domiciliary of) any state (as defined in section 3(10) of ERISA); and
 
-(3) For the fiscal year that includes the date the reportable event occurs, meets one of the following tests -
+(3) For the fiscal year that includes the date the reportable event occurs, meets one of the following tests—
 
 (i) Is not required to file any United States federal income tax form;
 
@@ -52,8 +50,6 @@ In addition, for purposes of this part:
 
 *Substantial owner* means a substantial owner as defined in section 4021(d) of ERISA.
 
-*U.S. entity* means an entity subject to the personal jurisdiction of the U.S. district court.
-
 *Well-funded plan safe harbor* has the meaning described in § 4043.10.
 
-[80 FR 55002, Sept. 11, 2015, as amended at 83 FR 49806, Oct. 3, 2018]
+[80 FR 55002, Sept. 11, 2015, as amended at 83 FR 49806, Oct. 3, 2018; 85 FR 6061, Feb. 4, 2020]
