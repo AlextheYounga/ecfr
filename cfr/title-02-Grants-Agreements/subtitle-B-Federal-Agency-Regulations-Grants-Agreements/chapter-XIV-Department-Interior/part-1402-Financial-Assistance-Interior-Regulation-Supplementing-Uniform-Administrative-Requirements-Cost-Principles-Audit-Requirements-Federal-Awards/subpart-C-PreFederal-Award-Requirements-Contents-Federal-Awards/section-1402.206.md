@@ -6,4 +6,6 @@
 
 (3) Depending on the nature of a particular program, offices and bureaus may additionally develop program-specific administrative guidelines for domestic for-profits based on the requirements in 2 CFR part 200, subparts A through D, but may not apply more restrictive requirements than the requirements in 2 CFR part 200, subparts A through D, unless approved by OMB through a request to the Director, Office of Grants Management.
 
-(b) *Requirements for award terms and conditions.* Bureau and office award terms and conditions must be managed in accordance with the requirements in 2 CFR 200.210, Information contained in a Federal award.
+(b) *Requirements for award terms and conditions.* Bureau and office award terms and conditions must be managed in accordance with the requirements in 2 CFR 200.211, Information contained in a Federal award.
+
+[84 FR 45635, Aug. 30, 2019, as amended at 86 FR 57531, Oct. 18, 2021]

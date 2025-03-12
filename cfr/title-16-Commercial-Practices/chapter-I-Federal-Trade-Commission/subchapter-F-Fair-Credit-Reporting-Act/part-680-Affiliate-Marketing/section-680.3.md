@@ -1,7 +1,5 @@
 ##### § 680.3 Definitions. #####
 
-Link to an amendment published at 86 FR 51610, Sept. 16, 2021.
-
 As used in this part:
 
 (a) *Act.* The term “Act” means the Fair Credit Reporting Act (15 U.S.C. 1681 *et seq.*).
@@ -24,7 +22,7 @@ As used in this part:
 
 (e) *Company.* The term “company” means any corporation, limited liability company, business trust, general or limited partnership, association, or similar organization.
 
-(f) *Concise* - (1) *In general.* The term “concise” means a reasonably brief expression or statement.
+(f) *Concise*—(1) *In general.* The term “concise” means a reasonably brief expression or statement.
 
 (2) *Combination with other required disclosures.* A notice required by this part may be concise even if it is combined with other disclosures required or authorized by federal or state law.
 
@@ -32,9 +30,11 @@ As used in this part:
 
 (h) *Eligibility information.* The term “eligibility information” means any information the communication of which would be a consumer report if the exclusions from the definition of “consumer report” in section 603(d)(2)(A) of the Act did not apply. Eligibility information does not include aggregate or blind data that does not contain personal identifiers such as account numbers, names, or addresses.
 
-(i) *Person.* The term “person” means any individual, partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity.
+(i) *Motor vehicle dealer.* The term “motor vehicle dealer” means any person excluded from Consumer Financial Protection Bureau jurisdiction as described in 12 U.S.C. 5519.
 
-(j) *Pre-existing business relationship* - (1) *In general.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on -
+(j) *Person.* The term “person” means any individual, partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity.
+
+(k) *Pre-existing business relationship*—(1) *In general.* The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer based on—
 
 (i) A financial contract between the person and the consumer which is in force on the date on which the consumer is sent a solicitation covered by this part;
 
@@ -62,7 +62,7 @@ As used in this part:
 
 (iii) If a consumer makes a telephone call to a creditor in response to an advertisement that offers a free promotional item to consumers who call a toll-free number, but the advertisement does not indicate that creditor's products or services will be marketed to consumers who call in response, the call does not create a pre-existing business relationship between the consumer and the creditor because the consumer has not made an inquiry about a product or service offered by the creditor, but has merely responded to an offer for a free promotional item.
 
-(k) *Solicitation* - (1) *In general.* The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is -
+(l) *Solicitation*—(1) *In general.* The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is—
 
 (i) Based on eligibility information communicated to that person by its affiliate as described in this part; and
 
@@ -72,4 +72,6 @@ As used in this part:
 
 (3) *Examples of solicitations.* A solicitation would include, for example, a telemarketing call, direct mail, e-mail, or other form of marketing communication directed to a particular consumer that is based on eligibility information received from an affiliate.
 
-(l) *You* means a person described in § 680.1(b).
+(m) *You* means a person described in § 680.1(b).
+
+[72 FR 61455, Oct. 30, 2007, as amended at 86 FR 51610, Sept. 16, 2021]

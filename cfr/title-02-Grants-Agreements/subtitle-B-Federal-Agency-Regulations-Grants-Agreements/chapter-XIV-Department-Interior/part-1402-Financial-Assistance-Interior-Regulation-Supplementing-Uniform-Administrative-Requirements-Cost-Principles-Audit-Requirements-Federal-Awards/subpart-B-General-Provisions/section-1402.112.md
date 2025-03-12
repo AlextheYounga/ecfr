@@ -14,4 +14,6 @@ This section shall apply to all non-Federal entities. NOFOs and financial assist
 
 (d) *Review procedures.* The Financial Assistance Officer will examine each conflict of interest disclosure on the basis of its particular facts and the nature of the proposed grant or cooperative agreement, and will determine whether a significant potential conflict exists and, if it does, develop an appropriate means for resolving it.
 
-(e) *Enforcement.* Failure to resolve conflicts of interest in a manner that satisfies the government may be cause for termination of the award. Failure to make required disclosures may result in any of the remedies described in 2 CFR 200.338, Remedies for noncompliance, including suspension or debarment (see also 2 CFR part 180).
+(e) *Enforcement.* Failure to resolve conflicts of interest in a manner that satisfies the government may be cause for termination of the award. Failure to make required disclosures may result in any of the remedies described in 2 CFR 200.339, Remedies for noncompliance, including suspension or debarment (see also 2 CFR part 180).
+
+[84 FR 45635, Aug. 30, 2019, as amended at 86 FR 57531, Oct. 18, 2021]

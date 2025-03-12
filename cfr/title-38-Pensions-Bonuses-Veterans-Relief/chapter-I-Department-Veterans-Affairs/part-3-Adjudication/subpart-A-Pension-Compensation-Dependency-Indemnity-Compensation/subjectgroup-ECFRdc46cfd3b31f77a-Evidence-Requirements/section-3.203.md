@@ -1,8 +1,11 @@
 ##### § 3.203 Service records as evidence of service and character of discharge. #####
 
+Link to an amendment published at 86 FR 57584, Oct. 18, 2021.
+
 (a) *Evidence submitted by a claimant.* For the purpose of establishing entitlement to pension, compensation, dependency and indemnity compensation or burial benefits the Department of Veterans Affairs may accept evidence of service submitted by a claimant (or sent directly to the Department of Veterans Affairs by the service department), such as a DD Form 214, Certificate of Release or Discharge from Active Duty, or original Certificate of Discharge, without verification from the appropriate service department if the evidence meets the following conditions:
 
-(1) The evidence is a document issued by the service department. A copy of an original document is acceptable if the copy was issued by the service department or if the copy was issued by a public custodian of records who certifies that it is a true and exact copy of the document in the custodian's custody or, if the copy was submitted by an accredited agent, attorney or service organization representative who has successfully completed VA-prescribed training on military records, and who certifies that it is a true and exact copy of either an original document or of a copy issued by the service department or a public custodian of records; and
+(1) The evidence is a document issued by the service department. A copy of an original document is acceptable if the copy was issued by the service department or if the copy was issued by a public custodian of records who certifies that it is a true and exact copy of the document in the custodian's custody or, if the copy was submitted by an accredited agent, attorney or service organization representative who has successfully completed VA-prescribed training on military records, and who certifies that it is a true and exact copy of either an original
+document or of a copy issued by the service department or a public custodian of records; and
 
 (2) The document contains needed information as to length, time and character of service; and
 

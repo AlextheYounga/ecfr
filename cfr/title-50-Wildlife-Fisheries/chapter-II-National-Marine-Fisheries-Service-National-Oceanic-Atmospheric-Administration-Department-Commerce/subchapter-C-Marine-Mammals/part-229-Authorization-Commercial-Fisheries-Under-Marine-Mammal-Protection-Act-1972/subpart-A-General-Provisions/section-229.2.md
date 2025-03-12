@@ -1,7 +1,5 @@
 ##### § 229.2 Definitions. #####
 
-Link to an amendment published at 86 FR 52011, Sept. 17, 2021.
-
 In addition to the definitions contained in the Act and § 216.3 of this chapter, and unless otherwise defined in this chapter, the terms in this chapter have the following meaning:
 
 *Act* or *MMPA* means the Marine Mammal Protection Act of 1972, as amended (16 U.S.C. 1361 *et seq.*).
@@ -62,6 +60,8 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Gillnet* means fishing gear consisting of a wall of webbing (meshes) or nets, designed or configured so that the webbing (meshes) or nets are placed in the water column, usually held approximately vertically, and are designed to capture fish by entanglement, gilling, or wedging. The term “gillnet” includes gillnets of all types, including but not limited to sink gillnets, other anchored gillnets (e.g., anchored float gillnets, stab, and set nets), and drift gillnets. Gillnets may or may not be attached to a vessel.
 
+*Greater Atlantic Regional Administrator* as used in this part, means the Regional Administrator for the regional fisheries office of the National Oceanic and Atmospheric Administration for the large marine ecosystem from Maine to Cape Hatteras, North Carolina directed from the Regional Office in Gloucester, Massachusetts.
+
 *Groundline,* with reference to trap/pot gear, means a line connecting traps in a trap trawl, and, with reference to gillnet gear, means a line connecting a gillnet or gillnet bridle to an anchor.
 
 *Hard lay lines* mean lines that are at least as stiff as5/16 inch (0.8 cm) diameter line composed of polyester wrapped around a blend of polypropylene and polyethylene and 42 visible twists of strands per foot of line.
@@ -79,6 +79,8 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 *Lead-line* means the rope, weighted or otherwise, to which the bottom edge of a gillnet is attached.
 
 *List of Fisheries* means the most recent final list of commercial fisheries published in the Federal Register by the Assistant Administrator, categorized according to the likelihood of incidental mortality and serious injury of marine mammals during commercial fishing operations.
+
+*Lobster Management Area* as used in this part means the management areas defined in the American Lobster Fishery regulations found at 50 CFR 697.18.
 
 *Mesh size* means the distance between inside knot to inside knot. Mesh size is measured as described in § 648.80(f)(1) of this title.
 
@@ -164,6 +166,8 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Sunset* means the time of sunset as determined for the date and location in The Nautical Almanac, prepared by the U.S. Naval Observatory.
 
+*Surface system,* with reference to trap/pot and fixed gillnet gear, includes the components at the sea surface to identify the presence of stationary bottom fishing gear, and includes buoys, radar reflectors, and high flyers.
+
 *Take Reduction Plan* means a plan developed to reduce the incidental mortality and serious injury of marine mammals during commercial fishing operations in accordance with section 118 of the Marine Mammal Protection Act of 1972, as amended.
 
 *Take Reduction Team* means a team established to recommend methods of reducing the incidental mortality and serious injury of marine mammals due to commercial fishing operations, in accordance with section 118 of the Marine Mammal Protection Act of 1972, as amended.
@@ -192,4 +196,4 @@ In addition to the definitions contained in the Act and § 216.3 of this chapter
 
 *Weak link* means a breakable component of gear that will part when subject to a certain tension load.
 
-[60 FR 45100, Aug. 30, 1995, as amended at 62 FR 39183, July 22, 1997; 63 FR 66487, Dec. 2, 1998; 64 FR 7551, Feb. 16, 1999; 64 FR 9086, Feb. 24, 1999; 65 FR 80377, Dec. 21, 2000; 67 FR 1141, Jan. 9, 2002; 67 FR 1313, Jan. 10, 2002; 69 FR 6584, Feb. 11, 2004; 69 FR 43345, July 20, 2004; 71 FR 24796, Apr. 26, 2006; 72 FR 34642, June 25, 2007; 72 FR 57180, Oct. 5, 2007; 73 FR 51241, Oct. 2, 2008; 75 FR 7396, Feb. 19, 2010; 79 FR 36610, June 27, 2014; 80 FR 6929, Feb. 9, 2015]
+[60 FR 45100, Aug. 30, 1995]Editorial Note:For Federal Register citations affecting § 229.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

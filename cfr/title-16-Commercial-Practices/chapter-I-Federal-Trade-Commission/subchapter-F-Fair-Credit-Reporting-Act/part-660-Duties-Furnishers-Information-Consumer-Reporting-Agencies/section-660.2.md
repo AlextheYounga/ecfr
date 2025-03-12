@@ -1,7 +1,5 @@
 ##### § 660.2 Definitions. #####
 
-Link to an amendment published at 86 FR 51821, Sept. 17, 2021.
-
 For purposes of this part and appendix A of this part, the following definitions apply:
 
 (a) *Accuracy* means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer correctly:
@@ -24,7 +22,7 @@ For purposes of this part and appendix A of this part, the following definitions
 
 (4) Is a neighbor, friend, or associate of the consumer, or another individual with whom the consumer is acquainted or who may have knowledge about the consumer, and who provides information about the consumer's character, general reputation, personal characteristics, or mode of living in response to a specific request from a consumer reporting agency.
 
-(d) *Identity theft* has the same meaning as in 16 CFR 603.2(a).
+(d) *Identity theft* has the same meaning as in 12 CFR 1022.3(h).
 
 (e) *Integrity* means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer:
 
@@ -35,3 +33,7 @@ For purposes of this part and appendix A of this part, the following definitions
 (3) Includes the information in the furnisher's possession about the account or other relationship that the Commission has:
 
 (i) Determined that the absence of which would likely be materially misleading in evaluating a consumer's creditworthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living; and (ii) Listed in section I.(b)(2)(iii) of Appendix A of this part.
+
+(f) *Motor vehicle dealer* means any person excluded from Consumer Financial Protection Bureau jurisdiction as described in 12 U.S.C. 5519.
+
+[74 FR 31525, July 1, 2009, as amended at 86 FR 51821, Sept. 17, 2021]

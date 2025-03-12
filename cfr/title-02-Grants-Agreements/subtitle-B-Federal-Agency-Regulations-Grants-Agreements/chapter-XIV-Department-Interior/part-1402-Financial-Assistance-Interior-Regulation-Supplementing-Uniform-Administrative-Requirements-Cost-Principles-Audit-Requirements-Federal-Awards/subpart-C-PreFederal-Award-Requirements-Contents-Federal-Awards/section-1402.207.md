@@ -20,6 +20,12 @@
 
 (9) Executive Order 13513, Federal Leadership on Reducing Text Messaging while Driving. Recipients are encouraged to adopt and enforce policies that ban text messaging while driving, including conducting initiatives of the type described in section 3(a) of the Executive Order.
 
+(10) 2 CFR part 183, Never Contract With the Enemy.
+
+(11) 2 CFR 200.216, Prohibition on Certain Telecommunication and Video Surveillance Services or Equipment.
+
+(12) All applicable Executive orders.
+
 (b) The following financial assistance award terms and conditions always apply to non-profit and domestic for-profit entities. The recipient shall insert the following clause in all subawards and contracts related to the prime award that are over the simplified acquisition threshold, as defined in the Federal Acquisition Regulation:
 
 All awards and related subawards and contracts over the Simplified Acquisition Threshold, and all employees working on applicable awards and related subawards and contracts, are subject to the whistleblower rights and remedies in accordance with the pilot program on award recipient employee whistleblower protections established at 41 U.S.C. 4712 by section 828 of the National Defense Authorization Act for Fiscal Year 2013 (Pub. L. 112-239).
@@ -33,3 +39,5 @@ Recipients, their subrecipients and contractors that are awarded contracts over 
 (2) Cost principles: 48 CFR part 31, subpart 31.2, Contracts with Commercial Organizations.
 
 (3) Indirect cost rate negotiations. For information on indirect cost rate negotiations, contact the Interior Business Center (IBC) Indirect Cost Services Division by telephone at (916) 566-7111 or by email at *ics@ibc.doi.gov.* Visit the IBC Indirect Cost Services Division website at *http://www.doi.gov/ibc/services/Indirect\_Cost\_Services/index.cfm* for more information.
+
+[84 FR 45635, Aug. 30, 2019, as amended at 86 FR 57531, Oct. 18, 2021]

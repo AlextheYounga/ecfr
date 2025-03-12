@@ -1,7 +1,5 @@
 ##### § 697.21 Gear identification and marking, escape vent, maximum trap size, and ghost panel requirements. #####
 
-Link to an amendment published at 86 FR 52023, Sept. 17, 2021.
-
 (a) *Gear identification and marking.* All lobster gear deployed or possessed in the EEZ, or, deployed or possessed by a person on or from a vessel issued a Federal limited access American lobster permit, and not permanently attached to the vessel must be legibly and indelibly marked with the following:
 
 (1) *Identification.* Effective through April 30, 2000, all lobster gear must be marked with the following code of identification:
@@ -20,9 +18,9 @@ Link to an amendment published at 86 FR 52023, Sept. 17, 2021.
 
 (1) Lobster trap trawls of three or fewer traps deployed in the EEZ must be attached to and marked with a single buoy.
 
-(2) Lobster trap trawls consisting of more than three traps must have a radar reflector and a single flag or pennant on the westernmost end (marking the half compass circle from magnetic south through west, to and including north), while the easternmost end (meaning the half compass circle from magnetic north through east, to and including south) of an American lobster trap trawl must be configured with a radar reflector only. Standard tetrahedral corner radar reflectors of at least 8 inches (20.32 cm) (both in height and width, and made from metal) must be employed. (A copy of a diagram showing a standard tetrahedral corner radar reflector is available upon request to the Office of the Regional Administrator.)
+(2) With the exception of Maine permitted vessels fishing in Maine Lobster Management Zones that can fish up to ten lobster traps on a trawl with one buoy line, lobster trap trawls consisting of more than three traps must have a radar reflector and a single flag or pennant on the westernmost end (marking the half compass circle from magnetic south through west, to and including north), while the easternmost end (meaning the half compass circle from magnetic north through east, to and including south) of an American lobster trap trawl must be configured with a radar reflector only. Standard tetrahedral corner radar reflectors of at least 8 inches (20.32 cm) (both in height and width, and made from metal) must be employed. (A copy of a diagram showing a standard tetrahedral corner radar reflector is available upon request to the Office of the Greater Atlantic Regional Administrator.)
 
-(3) No American lobster trap trawl shall exceed 1.5 nautical miles (2.78 km) in length, as measured from radar reflector to radar reflector.
+(3) No American lobster trap trawl shall exceed 1.5 nautical miles (2.78 km) in length, as measured from radar reflector to radar reflector, except in the EEZ Offshore Management Area 3 where the maximum length of a lobster trap trawl shall not exceed 1.75 nautical miles (3.24 km).
 
 (4) Gear deployment and configuration requirements specified in paragraphs (b)(1) through (b)(3) of this section apply in the following areas:
 
@@ -64,7 +62,7 @@ Link to an amendment published at 86 FR 52023, Sept. 17, 2021.
 
 (2) The Regional Administrator may, at the request of, or after consultation with, the Commission, approve and specify, through a technical amendment of this rule, any other design, mechanism, material, or other parameter that serves to create an escape portal not less than 33/4 inches (9.53 cm) by 33/4 inches (9.53 cm).
 
-(e) *Maximum trap size* - (1) *EEZ Nearshore Management Area maximum trap size.* (i) Beginning January 5, 2000, American lobster traps deployed or possessed in the EEZ, or, deployed or possessed by a person on or from a vessel issued a Federal limited access American lobster permit as specified under § 697.4, if deployed or possessed by a person or vessel permitted to fish in any EEZ Nearshore Management Area (Area 1, Outer Cape, Area 2, Area 4, Area 5, or Area 6) and the Area 2/3 Overlap, or only in the Area 2/3 Overlap shall not exceed 25,245 cubic inches (413,690 cubic centimeters) in volume, as measured on the outside portion of the trap, exclusive of the runners;
+(e) *Maximum trap size*—(1) *EEZ Nearshore Management Area maximum trap size.* (i) Beginning January 5, 2000, American lobster traps deployed or possessed in the EEZ, or, deployed or possessed by a person on or from a vessel issued a Federal limited access American lobster permit as specified under § 697.4, if deployed or possessed by a person or vessel permitted to fish in any EEZ Nearshore Management Area (Area 1, Outer Cape, Area 2, Area 4, Area 5, or Area 6) and the Area 2/3 Overlap, or only in the Area 2/3 Overlap shall not exceed 25,245 cubic inches (413,690 cubic centimeters) in volume, as measured on the outside portion of the trap, exclusive of the runners;
 
 (ii) Beginning May 1, 2003, American lobster traps deployed or possessed in the EEZ, or, deployed or possessed by a person on or from a vessel issued a Federal limited access American lobster permit as specified under § 697.4, if deployed or possessed by a person or vessel permitted to fish in any EEZ Nearshore Management Area (Area 1, Outer Cape, Area 2, Area 4, Area 5, or Area 6) and the Area 2/3 Overlap, or only in the Area 2/3 Overlap, shall not exceed 22,950 cubic inches (376,081 cubic centimeters) in volume as measured on the outside portion of the trap, exclusive of the runners.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 86 FR 52023, Sept. 17, 2021.
 
 (g) *Exemption.* Any vessel issued an Area 5 Trap Waiver permit under § 697.4(p) is exempt from the provisions of this section.
 
-[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14502, Mar. 13, 2001; 71 FR 13039, Mar. 14, 2006; 72 FR 56942, Oct. 5, 2007]
+[64 FR 68248, Dec. 6, 1999, as amended at 66 FR 14502, Mar. 13, 2001; 71 FR 13039, Mar. 14, 2006; 72 FR 56942, Oct. 5, 2007; 86 FR 52023, Sept. 17, 2021]

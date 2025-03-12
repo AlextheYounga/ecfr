@@ -18,6 +18,12 @@
 
 (4) 2 CFR part 1400, Nonprocurement Debarment and Suspension. Awards to foreign organizations are covered transactions under the DOI nonprocurement debarment and suspension program. Awards to foreign public entities are not covered transactions;
 
-(5) 43 CFR part 18, New Restrictions on Lobbying. Foreign entities shall file the 43 CFR part 18, appendix A, certification, and a disclosure form, if required, with each application for Federal assistance. See also 31 U.S.C. 1352, Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions; and
+(5) 43 CFR part 18, New Restrictions on Lobbying. Foreign entities shall file the 43 CFR part 18, appendix A, certification, and a disclosure form, if required, with each application for Federal assistance. See also 31 U.S.C. 1352, Limitation on use of appropriated funds to influence certain Federal contracting and financial transactions;
 
-(6) Public Law 113-235 (128 Stat. 2391, Dec. 16, 2014). Federal award recipients are prohibited from requiring employees or contractors seeking to report fraud, waste, or abuse to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or contractors from lawfully reporting such waste, fraud, or abuse to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information.
+(6) 48 CFR 3.909-2(a). Federal award recipients are prohibited from requiring employees or contractors seeking to report fraud, waste, or abuse to sign internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or contractors from lawfully reporting such fraud, waste, or abuse to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information;
+
+(7) 2 CFR part 183, Never Contract With the Enemy; and
+
+(8) 2 CFR 200.216, Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment.
+
+[84 FR 45635, Aug. 30, 2019, as amended at 86 FR 57531, Oct. 18, 2021]
