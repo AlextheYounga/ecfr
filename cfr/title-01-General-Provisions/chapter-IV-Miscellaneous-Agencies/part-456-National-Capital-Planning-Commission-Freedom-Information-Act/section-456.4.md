@@ -1,0 +1,5 @@
+##### § 456.4 General policy. #####
+
+(a) It is the NCPC's general policy to facilitate the broadest possible availability and dissemination of information to the public through use of the NCPC's Web site, *www.ncpc.gov*, and physical distribution of materials not available electronically. The NCPC staff shall be available to assist the public in obtaining information formally by using the procedures herein or informally in a manner not inconsistent with the rule set forth in this part. In addition, to the extent permitted by other laws, the NCPC will make available Agency Records of interest to the public that are appropriate for disclosure.
+
+(b) The NCPC possesses the administrative discretion in the context of individual Requests to release documents for no or reduced fees or to waive any of the NCPC's FOIA Request requirements in the interest of public disclosure of information eligible for disclosure under the Act.

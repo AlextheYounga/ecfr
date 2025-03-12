@@ -1,0 +1,3 @@
+##### § 20.5 Sources of information. #####
+
+Pertinent sources of information useful to the public, in areas of public interest such as employment, consumer activities, contracts, services to small business, and other topics of public interest should be provided with each agency statement. These sources of information shall plainly identify the places at which the public may obtain information or make submittals or requests.

@@ -1,0 +1,7 @@
+##### § 456.7 FOIA response requirements. #####
+
+(a) The Freedom of Information Act Officer, upon receipt of a FOIA Request made in compliance with these rules, shall determine within 20 Workdays whether to grant or deny the Request. The Freedom of Information Officer shall within 20 Workdays notify the Requester in writing of his/her determination and the reasons therefore and of the right to appeal any Adverse Determination to the head of the NCPC.
+
+(b) If a Request is denied in whole or in part, the Chief FOIA Officer's written determination shall include, if technically feasible, the precise amount of information withheld, a brief description of the information withheld without revealing its content, and the exemption under which it is being withheld unless revealing the exemption would harm an interested protected by the exemption. NCPC shall release any portion of a withheld Record that reasonably can be segregated from the exempt portion of the Record.
+
+(c) In cases involving Unusual Circumstances, the Chief FOIA Officer may extend the 20 Workday time limit by written notice to the Requester. The written notice shall set forth the reasons for the extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension of more than 10 Working Days unless the Freedom of Information Act Officer affords the Requester an opportunity to modify his/her Request or arranges an alternative timeframe with the Requester for completion of the NCPC's processing.

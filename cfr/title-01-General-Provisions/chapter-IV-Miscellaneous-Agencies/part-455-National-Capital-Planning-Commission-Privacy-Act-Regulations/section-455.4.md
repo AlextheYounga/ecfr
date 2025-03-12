@@ -1,0 +1,7 @@
+##### § 455.4 Times, places, and requirements for identification of individuals making requests. #####
+
+(a) An individual who, in accord with § 455.3(b) of this part indicated that he or she would appear personally shall do so at the Commission's offices, 1325 G Street NW., Washington, DC, between the hours of 8:30 A.M. and 5:00 P.M., Monday through Friday (legal holidays excluded) and present a form of identification, such as a valid driver's license or employee identification card, which will permit the System Manager to verify that the individual is the same individual as contained in the record requested.
+
+(b) An individual who, in accord with § 455.3(b) of this part indicated that he or she desired mail delivery of a copy of the record shall include in the request the date and location of birth of the individual as suitable proof of identity.
+
+(c) Where the above mentioned forms of identification are not feasible or appropriate, the Commission shall request a signed statement from the individual asserting his or her identity and stipulating that the individual understands that knowingly or willfully seeking or obtaining access to records about another individual under false pretenses is punishable by a fine of up to $5,000.

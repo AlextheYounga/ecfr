@@ -1,0 +1,17 @@
+##### § 301.4 Activities. #####
+
+(a) The Conference may study the efficiency, adequacy, and fairness of the administrative procedure used by administrative agencies in carrying out administrative programs. Subjects for inquiry by the Conference are developed by the Chairman, the Council, the committees, and the Assembly. The committees, with the assistance of staff and consultants, conduct thorough studies of these subjects and develop proposed recommendations and supporting reports. Reports and recommendations are considered by the Council and distributed to the membership, with the views and recommendations of the Council, to be placed on the agenda of a plenary session. The Assembly has complete authority to approve, amend, remand, or reject recommendations presented by the committees. The deliberations of the Assembly are public. Recommendations may be made to administrative agencies, collectively or individually, and to the President, Congress, or the Judicial Conference of the United States, as the Conference considers appropriate.
+
+(b) The Conference may arrange for interchange among administrative agencies of information potentially useful in improving administrative procedure, collect information and statistics from administrative agencies and publish such reports as it considers useful for evaluating and improving administrative procedure, and enter into arrangements with any administrative agency or major organizational unit within an administrative agency pursuant to which the Conference performs any of the functions described in this section.
+
+(c) The Conference may provide assistance in response to requests relating to the improvement of administrative procedure in foreign countries, subject to the concurrence of the Secretary of State or the Administrator of the Agency for International Development, as appropriate, except that:
+
+(1) Such assistance shall be limited to the analysis of issues relating to administrative procedure, the provision of training of foreign officials in administrative procedure, and the design or improvement of administrative procedure, where the expertise of members of the Conference is indicated; and
+
+(2) Such assistance may only be undertaken on a fully reimbursable basis, including all direct and indirect administrative costs.
+
+(d) For purposes of this section:
+
+(1) “Administrative program” includes a Federal function which involves protection of the public interest and the determination of rights, privileges, and obligations of private persons through rulemaking, adjudication, licensing, or investigation, except that it does not include a military or foreign affairs function of the United States; and
+
+(2) “Administrative procedure” means procedure used in carrying out an administrative program and is to be broadly construed to include any aspect of agency organization, procedure, or management which may affect the equitable consideration of public and private interests, the fairness of agency decisions, the speed of agency action, and the relationship of operating methods to later judicial review, but does not include the scope of agency responsibility as established by law or matters of substantive policy committed by law to agency discretion.

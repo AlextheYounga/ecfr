@@ -1,0 +1,3 @@
+##### § 15.10 Information on drafting and publication. #####
+
+The Director of the Federal Register may prepare, and distribute to agencies, information and instructions designed to promote effective compliance with the purposes of chapter 15 of title 44, United States Code, sections 552-553 of title 5, United States Code, related statutes, and this chapter. The Director may also develop and conduct programs of technical instruction.

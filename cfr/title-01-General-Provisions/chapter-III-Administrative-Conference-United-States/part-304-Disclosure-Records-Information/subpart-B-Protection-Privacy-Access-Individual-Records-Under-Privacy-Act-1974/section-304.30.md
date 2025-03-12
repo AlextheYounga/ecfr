@@ -1,0 +1,3 @@
+##### § 304.30 Contracts for the operation of record systems. #####
+
+Any approved contract for the operation of a record system will contain appropriate requirements issued by the General Services Administration in order to ensure compliance with the requirements of the Privacy Act for that record system. The contracting officer of the agency will be responsible for ensuring that the contractor complies with these contract requirements.

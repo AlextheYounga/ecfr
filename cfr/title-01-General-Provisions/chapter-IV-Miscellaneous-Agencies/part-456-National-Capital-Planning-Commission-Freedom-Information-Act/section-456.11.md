@@ -1,0 +1,5 @@
+##### § 456.11 Classified and controlled unclassified information. #####
+
+(a) For Requests for an Agency Record that has been classified or may be appropriate for classification by another Agency pursuant to an Executive Order concerning the classification of Records, the NCPC shall refer the responsibility for responding to the FOIA Request to the Agency that either classified the Record, should consider classifying the Record, or has primary interest in the Record, as appropriate.
+
+(b) Whenever a Request is made for a Record that is designated Controlled Unclassified Information by another Agency, the NCPC shall refer the FOIA Request to the Agency that designated the Record as Controlled Unclassified Information. Decisions to disclose or withhold information designated as Controlled Unclassified Information shall be made based on the applicability of the statutory exemptions contained in the FOIA, not on a Controlled Unclassified Information marking or designation.

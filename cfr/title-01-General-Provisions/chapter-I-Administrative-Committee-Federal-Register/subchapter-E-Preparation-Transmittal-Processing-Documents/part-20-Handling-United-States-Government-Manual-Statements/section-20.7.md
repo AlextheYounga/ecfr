@@ -1,0 +1,3 @@
+##### § 20.7 Deadline dates. #####
+
+The Manual is published on a schedule designed to provide the public with information about their Government on a timely basis. Therefore, agencies must comply with the deadline dates established by the Director of the Federal Register for transmittal of statements and charts and for the verification of proofs. Failure to do so may result in publication of an outdated statement or the omission of important material, thus depriving members of the public of information they have a right to expect in a particular edition of the Manual.
