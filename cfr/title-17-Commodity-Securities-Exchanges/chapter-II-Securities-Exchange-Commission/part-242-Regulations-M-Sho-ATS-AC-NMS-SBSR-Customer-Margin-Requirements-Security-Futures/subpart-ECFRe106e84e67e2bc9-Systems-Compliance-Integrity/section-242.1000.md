@@ -1,7 +1,5 @@
 ##### § 242.1000 Definitions. #####
 
-Link to an amendment published at 86 FR 18814, Apr. 9, 2021.
-
 For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following definitions shall apply:
 
 *Critical SCI systems* means any SCI systems of, or operated by or on behalf of, an SCI entity that:
@@ -16,7 +14,7 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 (iv) Initial public offerings;
 
-(v) The provision of consolidated market data; or
+(v) The provision of market data by a plan processor; or
 
 (vi) Exclusively-listed securities; or
 
@@ -34,23 +32,25 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 (2) A significant impact on the SCI entity's operations or on market participants.
 
-*Plan processor* has the meaning set forth in § 242.600(b)(59).
+*Plan processor* has the meaning set forth in § 242.600(b)(67).
 
 *Responsible SCI personnel* means, for a particular SCI system or indirect SCI system impacted by an SCI event, such senior manager(s) of the SCI entity having responsibility for such system, and their designee(s).
 
-*SCI alternative trading system* or *SCI ATS* means an alternative trading system, as defined in § 242.300(a), which during at least four of the preceding six calendar months:
+*SCI competing consolidator* means:
 
-(1) Had with respect to NMS stocks:
+(1) Any competing consolidator, as defined in § 242.600, which, during at least four of the preceding six calendar months, accounted for five percent (5%) or more of consolidated market data gross revenue paid to the effective national market system plan or plans required under § 242.603(b), for NMS stocks:
 
-(i) Five percent (5%) or more in any single NMS stock, and one-quarter percent (0.25%) or more in all NMS stocks, of the average daily dollar volume reported by applicable transaction reporting plans; or
+(i) Listed on the New York Stock Exchange LLC;
 
-(ii) One percent (1%) or more in all NMS stocks of the average daily dollar volume reported by applicable transaction reporting plans; or
+(ii) Listed on The Nasdaq Stock Market LLC; or
 
-(2) Had with respect to equity securities that are not NMS stocks and for which transactions are reported to a self-regulatory organization, five percent (5%) or more of the average daily dollar volume as calculated by the self-regulatory organization to which such transactions are reported;
+(iii) Listed on exchanges other than the New York Stock Exchange LLC or The Nasdaq Stock Market LLC, as reported by such plan or plans pursuant to the terms thereof.
 
-(3) Provided, however, that such SCI ATS shall not be required to comply with the requirements of Regulation SCI until six months after satisfying any of paragraphs (1) or (2) of this definition, as applicable, for the first time.
+(2) Provided, however, that such SCI competing consolidator shall not be required to comply with the requirements of this section and §§ 242.1001 through 242.1007 (Regulation SCI) until six months after satisfying any of paragraph (1) of this definition, as applicable, for the first time; and
 
-*SCI entity* means an SCI self-regulatory organization, SCI alternative trading system, plan processor, or exempt clearing agency subject to ARP.
+(3) Provided, however, that such SCI competing consolidator shall not be required to comply with the requirements of Regulation SCI prior to one year after the compliance date for § 242.614(d)(3).
+
+*SCI entity* means an SCI self-regulatory organization, SCI alternative trading system, plan processor, exempt clearing agency subject to ARP, or SCI competing consolidator.
 
 *SCI event* means an event at an SCI entity that constitutes:
 
@@ -78,4 +78,4 @@ For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following d
 
 *Systems intrusion* means any unauthorized entry into the SCI systems or indirect SCI systems of an SCI entity.
 
-[79 FR 72436, Dec. 5, 2014, as amended at 80 FR 81454, Dec. 30, 2015; 83 FR 58429, Nov. 19, 2018]
+[79 FR 72436, Dec. 5, 2014, as amended at 80 FR 81454, Dec. 30, 2015; 83 FR 58429, Nov. 19, 2018; 86 FR 18814, Apr. 9, 2021]

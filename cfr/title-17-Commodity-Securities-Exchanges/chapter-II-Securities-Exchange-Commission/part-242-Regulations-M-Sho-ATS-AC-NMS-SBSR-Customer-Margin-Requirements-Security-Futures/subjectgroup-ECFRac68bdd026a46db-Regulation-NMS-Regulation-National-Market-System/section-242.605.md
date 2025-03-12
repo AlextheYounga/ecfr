@@ -54,4 +54,4 @@ This section requires market centers to make available standardized, monthly rep
 
 (b) *Exemptions.* The Commission may, by order upon application, conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from any provision or provisions of this section, if the Commission determines that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-[62 FR 544, Jan. 3, 1997, as amended at 83 FR 58427, Nov. 19, 2018]
+[70 FR 37620, June 29, 2005, as amended at 83 FR 58427, Nov. 19, 2018]

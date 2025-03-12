@@ -1,7 +1,5 @@
 ##### § 242.602 Dissemination of quotations in NMS securities. #####
 
-Link to an amendment published at 86 FR 18811, Apr. 9, 2021.
-
 (a) *Dissemination requirements for national securities exchanges and national securities associations.* (1) Every national securities exchange and national securities association shall establish and maintain procedures and mechanisms for collecting bids, offers, quotation sizes, and aggregate quotation sizes from responsible brokers or dealers who are members of such exchange or association, processing such bids, offers, and sizes, and making such bids, offers, and sizes available to vendors, as follows:
 
 (i) Each national securities exchange shall at all times such exchange is open for trading, collect, process, and make available to vendors the best bid, the best offer, and aggregate quotation sizes for each subject security listed or admitted to unlisted trading privileges which is communicated on any national securities exchange by any responsible broker or dealer, but shall not include:
@@ -20,9 +18,9 @@ Link to an amendment published at 86 FR 18811, Apr. 9, 2021.
 
 (4) Nothing in this section shall preclude any national securities exchange or national securities association from making available to vendors indications of interest or bids and offers for a subject security at any time such exchange or association is not required to do so pursuant to paragraph (a)(1) of this section.
 
-(5)(i) Any national securities exchange may make an election for purposes of the definition of *subject security* in § 242.600(b)(77) for any NMS security, by collecting, processing, and making available bids, offers, quotation sizes, and aggregate quotation sizes in that security; except that for any NMS security previously listed or admitted to unlisted trading privileges on only one exchange and not traded by any OTC market maker, such election shall be made by notifying all specified persons, and shall be effective at the opening of trading on the business day following notification.
+(5)(i) Any national securities exchange may make an election for purposes of the definition of *subject security* in § 242.600(b)(90) for any NMS security, by collecting, processing, and making available bids, offers, quotation sizes, and aggregate quotation sizes in that security; except that for any NMS security previously listed or admitted to unlisted trading privileges on only one exchange and not traded by any OTC market maker, such election shall be made by notifying all specified persons, and shall be effective at the opening of trading on the business day following notification.
 
-(ii) Any member of a national securities association acting in the capacity of an OTC market maker may make an election for purposes of the definition of *subject security* in § 242.600(b)(77) for any NMS security, by communicating to its association bids, offers, and quotation sizes in that security; except that for any other NMS security listed or admitted to unlisted trading privileges on only one exchange and not traded by any other OTC market maker, such election shall be made by notifying its association and all specified persons, and shall be effective at the opening of trading on the business day following notification.
+(ii) Any member of a national securities association acting in the capacity of an OTC market maker may make an election for purposes of the definition of *subject security* in § 242.600(b)(90) for any NMS security, by communicating to its association bids, offers, and quotation sizes in that security; except that for any other NMS security listed or admitted to unlisted trading privileges on only one exchange and not traded by any other OTC market maker, such election shall be made by notifying its association and all specified persons, and shall be effective at the opening of trading on the business day following notification.
 
 (iii) The election of a national securities exchange or member of a national securities association for any NMS security pursuant to this paragraph (a)(5) shall cease to be in effect if such exchange or member ceases to make available or communicate bids, offers, and quotation sizes in such security.
 
@@ -104,4 +102,4 @@ Link to an amendment published at 86 FR 18811, Apr. 9, 2021.
 
 (d) *Exemptions.* The Commission may exempt from the provisions of this section, either unconditionally or on specified terms and conditions, any responsible broker or dealer, electronic communications network, national securities exchange, or national securities association if the Commission determines that such exemption is consistent with the public interest, the protection of investors and the removal of impediments to and perfection of the mechanism of a national market system.
 
-[62 FR 544, Jan. 3, 1997, as amended at 83 FR 58427, Nov. 19, 2018]
+[70 FR 37620, June 29, 20051997, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18811, Apr. 9, 2021]

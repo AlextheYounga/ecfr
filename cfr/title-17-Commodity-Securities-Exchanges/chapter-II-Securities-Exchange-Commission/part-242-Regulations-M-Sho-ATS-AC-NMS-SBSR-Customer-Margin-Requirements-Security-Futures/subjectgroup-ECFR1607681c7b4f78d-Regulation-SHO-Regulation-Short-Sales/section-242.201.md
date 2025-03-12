@@ -1,32 +1,30 @@
 ##### § 242.201 Circuit breaker. #####
 
-Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
-
 (a) *Definitions.* For the purposes of this section:
 
-(1) The term *covered security* shall mean any NMS stock as defined in § 242.600(b)(48).
+(1) The term *covered security* shall mean any NMS stock as defined in § 242.600(b)(55).
 
-(2) The term *effective transaction reporting plan for a covered security* shall have the same meaning as in § 242.600(b)(23).
+(2) The term *effective transaction reporting plan for a covered security* shall have the same meaning as in § 242.600(b)(30).
 
-(3) The term *listing market* shall have the same meaning as the term “listing market” as defined in the effective transaction reporting plan for the covered security.
+(3) The term *listing market* shall have the same meaning as the term “primary listing exchange” as defined in § 242.600(b)(68).
 
-(4) The term *national best bid* shall have the same meaning as in § 242.600(b)(43).
+(4) The term *national best bid* shall have the same meaning as in § 242.600(b)(50).
 
-(5) The term *odd lot* shall have the same meaning as in § 242.600(b)(51).
+(5) The term *odd lot* shall have the same meaning as in § 242.600(b)(58).
 
-(6) The term *plan processor* shall have the same meaning as in § 242.600(b)(59).
+(6) The term *plan processor* shall have the same meaning as in § 242.600(b)(67).
 
-(7) The term *regular trading hours* shall have the same meaning as in § 242.600(b)(68).
+(7) The term *regular trading hours* shall have the same meaning as in § 242.600(b)(77).
 
 (8) The term *riskless principal* shall mean a transaction in which a broker or dealer, after having received an order to buy a security, purchases the security as principal at the same price to satisfy the order to buy, exclusive of any explicitly disclosed markup or markdown, commission equivalent, or other fee, or, after having received an order to sell, sells the security as principal at the same price to satisfy the order to sell, exclusive of any explicitly disclosed markup or markdown, commission equivalent, or other fee.
 
-(9) The term *trading center* shall have the same meaning as in § 242.600(b)(82).
+(9) The term *trading center* shall have the same meaning as in § 242.600(b)(95).
 
 (b)(1) A trading center shall establish, maintain, and enforce written policies and procedures reasonably designed to:
 
 (i) Prevent the execution or display of a short sale order of a covered security at a price that is less than or equal to the current national best bid if the price of that covered security decreases by 10% or more from the covered security's closing price as determined by the listing market for the covered security as of the end of regular trading hours on the prior day; and
 
-(ii) Impose the requirements of paragraph (b)(1)(i) of this section for the remainder of the day and the following day when a national best bid for the covered security is calculated and disseminated on a current and continuing basis by a plan processor pursuant to an effective national market system plan.
+(ii) Impose the requirements of paragraph (b)(1)(i) of this section for the remainder of the day and the following day when a national best bid for the covered security is calculated and disseminated on a current and continuing basis pursuant to an effective national market system plan.
 
 (iii) *Provided, however,* that the policies and procedures must be reasonably designed to permit:
 
@@ -36,7 +34,7 @@ Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
 
 (2) A trading center shall regularly surveil to ascertain the effectiveness of the policies and procedures required by paragraph (b)(1) of this section and shall take prompt action to remedy deficiencies in such policies and procedures.
 
-(3) The determination regarding whether the price of a covered security has decreased by 10% or more from the covered security's closing price as determined by the listing market for the covered security as of the end of regular trading hours on the prior day shall be made by the listing market for the covered security and, if such decrease has occurred, the listing market shall immediately notify the single plan processor responsible for consolidation of information for the covered security pursuant to § 242.603(b). The single plan processor must then disseminate this information.
+(3) The determination regarding whether the price of a covered security has decreased by 10% or more from the covered security's closing price as determined by the listing market for the covered security as of the end of regular trading hours on the prior day shall be made by the listing market for the covered security and, if such decrease has occurred, the listing market shall immediately make such information available as provided in § 242.603(b).
 
 (c) Following any determination and notification pursuant to paragraph (b)(3) of this section with respect to a covered security, a broker or dealer submitting a short sale order of the covered security in question to a trading center may mark the order “short exempt” if the broker or dealer identifies the order as being at a price above the current national best bid at the time of submission; *provided, however:*
 
@@ -92,4 +90,4 @@ Link to an amendment published at 86 FR 18809, Apr. 9, 2021.
 
 (f) Upon written application or upon its own motion, the Commission may grant an exemption from the provisions of this section, either unconditionally or on specified terms and conditions, to any person or class of persons, to any transaction or class of transactions, or to any security or class of securities to the extent that such exemption is necessary or appropriate, in the public interest, and is consistent with the protection of investors.
 
-[75 FR 11323, Mar. 10, 2010, as amended at 83 FR 58427, Nov. 19, 2018]
+[75 FR 11323, Mar. 10, 2010, as amended at 83 FR 58427, Nov. 19, 2018; 86 FR 18809, Apr. 9, 2021]
