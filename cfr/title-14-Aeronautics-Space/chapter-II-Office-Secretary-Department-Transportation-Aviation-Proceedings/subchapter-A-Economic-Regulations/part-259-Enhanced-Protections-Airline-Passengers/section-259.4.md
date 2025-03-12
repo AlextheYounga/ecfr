@@ -1,55 +1,73 @@
 ##### § 259.4 Contingency Plan for Lengthy Tarmac Delays. #####
 
-Link to an amendment published at 86 FR 23270, May 3, 2021.
+(a) *Adoption of plan.* Each covered carrier, as defined by § 259.3, shall adopt a Contingency Plan for Lengthy Tarmac Delays for its scheduled and public charter flights at each U.S. large hub airport, medium hub airport, small hub airport, and non-hub airport at which it operates or markets such air service, except as specified in § 259.2, and shall adhere to its plan's terms.
 
-(a) *Adoption of Plan.* Each covered carrier shall adopt a Contingency Plan for Lengthy Tarmac Delays for its scheduled and public charter flights at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport at which it operates or markets such air service and shall adhere to its plan's terms.
+(b) *Contents of plan.* Each Contingency Plan for Lengthy Tarmac Delays shall include, at a minimum, assurances that the covered carrier shall comply with the requirements set forth in paragraph (c) of this section.
 
-(b) *Contents of Plan.* Each Contingency Plan for Lengthy Tarmac Delays shall include, at a minimum, the following:
+(c) *Requirements.* Covered carriers must comply with the following requirements:
 
-(1) For domestic flights, assurance that the covered U.S. air carrier will not permit an aircraft to remain on the tarmac for more than three hours before allowing passengers to deplane unless:
+(1) For all domestic flights, each covered U.S. air carrier shall provide a passenger on a flight experiencing a tarmac delay at a U.S. airport the opportunity to deplane before the tarmac delay exceeds three hours in duration, subject to the exceptions in paragraph (c)(3) of this section;
 
-(i) The pilot-in-command determines there is a safety-related or security-related reason (e.g. weather, a directive from an appropriate government agency) why the aircraft cannot leave its position on the tarmac to deplane passengers; or
+(2) For all international flights, each covered carrier shall provide a passenger on a flight experiencing a tarmac delay at a U.S. airport the opportunity to deplane before the tarmac delay exceeds four hours in duration, subject to the exceptions in paragraph (c)(3) of this section;
 
-(ii) Air traffic control advises the pilot-in-command that returning to the gate or another disembarkation point elsewhere in order to deplane passengers would significantly disrupt airport operations.
+(3) A covered U.S. carrier that experiences a tarmac delay at a U.S. airport must comply with paragraphs (c)(1) and (2) of this section, and a covered foreign air carrier must comply with paragraph (c)(2) of this section, unless:
 
-(2) For international flights operated by covered carriers that depart from or arrive at a U.S. airport, assurance that the carrier will not permit an aircraft to remain on the tarmac at a U.S. airport for more than four hours before allowing passengers to deplane, unless:
+(i) For departing flights, the flight begins to return to a suitable disembarkation point no later than three hours (for domestic flights) or four hours (for international flights) after the main aircraft door is closed in order to deplane passengers. If the aircraft is in an area that is not under the carrier's control, the aircraft has begun to return to a suitable disembarkation point when a request is made to the Federal Aviation Administration control tower, airport authority, or other relevant authority directing the aircraft's operations. If the aircraft is in an area that is under the carrier's control, the aircraft has begun to return to a suitable disembarkation point when the pilot begins maneuvering the aircraft to a suitable disembarkation point;
 
-(i) The pilot-in-command determines there is a safety-related or security-related reason why the aircraft cannot leave its position on the tarmac to deplane passengers; or
+(ii) The pilot-in-command determines that deplaning passengers at a suitable disembarkation point would jeopardize passenger safety or security, or there is a safety related or security related reason why the aircraft cannot leave its position on the tarmac to deplane passengers; or
 
-(ii) Air traffic control advises the pilot-in-command that returning to the gate or another disembarkation point elsewhere in order to deplane passengers would significantly disrupt airport operations.
+(iii) Air traffic control advises the pilot-in-command that returning to a suitable disembarkation point to deplane passengers would significantly disrupt airport operations;
 
-(3) For all flights, assurance that the carrier will provide adequate food and potable water no later than two hours after the aircraft leaves the gate (in the case of a departure) or touches down (in the case of an arrival) if the aircraft remains on the tarmac, unless the pilot-in-command determines that safety or security considerations preclude such service;
+(4) For all flights during a tarmac delay, each covered carrier must provide adequate food and potable water no later than two hours after the start of the tarmac delay, unless the pilot-in-command determines that safety or security considerations preclude such service;
 
-(4) For all flights, assurance of operable lavatory facilities, as well as adequate medical attention if needed, while the aircraft remains on the tarmac;
+(5) For all flights, each covered carrier must ensure operable lavatory facilities, as well as adequate medical attention if needed, during a tarmac delay;
 
-(5) For all flights, assurance that the passengers on the delayed flight will receive notifications regarding the status of the delay every 30 minutes while the aircraft is delayed, including the reasons for the tarmac delay, if known;
+(6) For all flights, each covered carrier must notify the passengers on board the aircraft during a tarmac delay regarding the status of the delay when the tarmac delay exceeds 30 minutes, and thereafter each covered carrier may provide subsequent updates, including flight status changes, as the carrier deems appropriate;
 
-(6) For all flights, assurance that the passengers on the delayed flight will be notified beginning 30 minutes after scheduled departure time (including any revised departure time that passengers were notified about before boarding) and every 30 minutes thereafter that they have the opportunity to deplane from an aircraft that is at the gate or another disembarkation area with the door open if the opportunity to deplane actually exists;
+(7) For all departing flights and diversions, each time the opportunity to deplane exists at a suitable disembarkation point, each covered carrier must timely notify the passengers on board the aircraft that the passengers have the opportunity to deplane;
 
-(7) Assurance of sufficient resources to implement the plan; and
+(8) Each covered carrier must ensure that it has sufficient resources to implement its Contingency Plan for Lengthy Tarmac Delays, as set forth in paragraphs (a) and (b) of this section; and
 
-(8) Assurance that the plan has been coordinated with airport authorities (including terminal facility operators where applicable) at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport that the carrier serves, as well as its regular U.S. diversion airports;
+(9) Each covered carrier must ensure that its Contingency Plan for Lengthy Tarmac Delays, as set forth in paragraphs (a) and (b) of this section, has been coordinated with the following entities:
 
-(9) Assurance that the plan has been coordinated with U.S. Customs and Border Protection (CBP) at each large U.S. hub airport, medium hub airport, small hub airport and non-hub airport that is regularly used for that carrier's international flights, including diversion airports; and
+(i) Airport authorities (including terminal facility operators where applicable) at each U.S. large hub airport, medium hub airport, small hub airport, and non-hub airport that the carrier serves, as well as its regular U.S. diversion airports;
 
-(10) Assurance that the plan has been coordinated with the Transportation Security Administration (TSA) at each U.S. large hub airport, medium hub airport, small hub airport and non-hub airport that the carrier serves, including diversion airports.
+(ii) U.S. Customs and Border Protection (CBP) at each large U.S. hub airport, medium hub airport, small hub airport, and non-hub airport that is regularly used for that carrier's international flights, including regular U.S. diversion airports; and
 
-(c) *Code-Share Responsibility.* The tarmac delay contingency plan of the carrier under whose code the service is marketed governs, if different from the operating carrier, unless the marketing carrier specifies in its contract of carriage that the operating carrier's plan governs.
+(iii) The Transportation Security Administration (TSA) at each U.S. large hub airport, medium hub airport, small hub airport, and non-hub airport that the carrier serves, including regular U.S. diversion airports.
 
-(d) *Amendment of plan.* At any time, a carrier may amend its Contingency Plan for Lengthy Tarmac Delays to decrease the time for aircraft to remain on the tarmac for domestic flights covered in paragraph (b)(1) of this section, for aircraft to remain on the tarmac for international flights covered in paragraph (b)(2) of this section, and for the trigger point for food and water covered in paragraph (b)(3) of this section. A carrier may also amend its plan to increase these intervals (up to the limits in this section), in which case the amended plan shall apply only to departures that are first offered for sale after the plan's amendment.
+(d) *Diversions.* For purposes of this section, a diverted flight is treated as an arriving flight up to the point that an opportunity to deplane is provided to passengers. Once an opportunity to deplane is provided, the diversion is treated as a departing flight, and after that point, the departure delay exception in paragraph (c)(3)(i) of this section applies if the carrier begins to return to a suitable disembarkation point in order to deplane passengers as required by the exception.
 
-(e) *Retention of records.* Each carrier that is required to adopt a Contingency Plan for Lengthy Tarmac Delays shall retain for two years the following information about any tarmac delay that lasts more than three hours:
+(e) *Code-share responsibility.* The tarmac delay contingency plan of the carrier under whose code the service is marketed governs, if different from the operating carrier, unless the marketing carrier specifies in its contract of carriage that the operating carrier's plan governs.
 
-(1) The length of the delay;
+(f) *Amendment of plan.* At any time, a carrier may amend its Contingency Plan for Lengthy Tarmac Delays to decrease the time for aircraft to remain on the tarmac for domestic flights covered in paragraph (c)(1) of this section, for aircraft to remain on the tarmac for international flights covered in paragraph (c)(2) of this section, for aircraft to begin to return to a suitable disembarkation point covered in paragraph (c)(3)(i) of this section, and for providing food and water covered in paragraph (c)(4) of this section. A carrier may also amend its plan to increase these intervals (up to the limits in this part), in which case the amended plan shall apply only to departures that are first offered for sale after the plan's amendment.
 
-(2) The precise cause of the delay;
+(g) *Written reports.* (1) Each covered operating carrier subject to this part shall submit to the Office of Aviation Consumer Protection of the U.S. Department of Transportation a written description of each of the flights it operates that experiences a tarmac delay of more than three hours (on domestic flights) and more than four hours (on international flights) at a U.S. airport no later than 30 days after the tarmac delay occurs.
 
-(3) The actions taken to minimize hardships for passengers, including the provision of food and water, the maintenance and servicing of lavatories, and medical assistance;
+(2) The written description referenced in paragraph (g)(1) of this section shall include, at a minimum, the following information:
 
-(4) Whether the flight ultimately took off (in the case of a departure delay or diversion) or returned to the gate; and
+(i) The name of the operating carrier, the name of the marketing carrier if the operating carrier is not the marketing carrier, and the flight number;
 
-(5) An explanation for any tarmac delay that exceeded 3 hours (*i.e.*, why the aircraft did not return to the gate by the 3-hour mark).
+(ii) The originally scheduled origin and destination airports of the flight;
 
-(f) *Unfair and deceptive practice.* A carrier's failure to comply with the assurances required by this section and contained in its Contingency Plan for Lengthy Tarmac Delays will be considered to be an unfair and deceptive practice within the meaning of 49 U.S.C. 41712 that is subject to enforcement action by the Department.
+(iii) The airport at which the tarmac delay occurred and the date it occurred;
 
-[Doc. No. DOT-OST-2010-0140, 76 FR 23164, Apr. 25, 2011; Doc. No. DOT-OST-2014-0140, 84 FR 15933, Apr. 16, 2019]
+(iv) The length of the tarmac delay that occurred; and
+
+(v) An explanation of the incident, including the precise cause of the tarmac delay, the actions taken to minimize hardships for passengers (including the provision of food and water, the maintenance and servicing of lavatories, and medical assistance), and the resolution of the incident.
+
+(3) The written description referenced in paragraph (g)(1) of this section shall be accompanied by a signed certification statement that reads as follows:
+
+I, (Name) and (Title), of (Carrier Name), certify that the enclosed report has been prepared under my direction, and affirm that, to the best of my knowledge and belief, the report is true and correct, based on information available at the time of this report's submission.
+
+Date:
+
+Signature:
+
+Email address and phone number:
+
+(4) A U.S. air carrier that submits a report in accordance with paragraph (g) of this section is in compliance with the reporting mandate for U.S. air carriers in 49 U.S.C. 42301(h) with respect to the excessive tarmac delay reported.
+
+(h) *Unfair and deceptive practice.* A carrier's failure to comply with the assurances required by this part and contained in its Contingency Plan for Lengthy Tarmac Delays will be considered to be an unfair and deceptive practice within the meaning of 49 U.S.C. 41712 that is subject to enforcement action by the Department.
+
+[Docket No. DOT-OST-2019-0144, 86 FR 23270, May 3, 2021]

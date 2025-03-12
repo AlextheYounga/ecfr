@@ -16,4 +16,4 @@
 
 (e) *Expiration.* This SFAR will remain in effect until October 26, 2022. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-[ Docket No. FAA-2018-0927, Amdt. No. 91-353A, 85 FR 65693, Oct. 16, 2020]
+[Docket No. FAA-2018-0927, Amdt. No. 91-353A, 85 FR 65693, Oct. 16, 2020]

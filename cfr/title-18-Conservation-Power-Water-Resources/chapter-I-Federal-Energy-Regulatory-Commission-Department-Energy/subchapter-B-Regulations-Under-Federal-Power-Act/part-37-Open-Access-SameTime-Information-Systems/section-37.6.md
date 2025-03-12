@@ -1,5 +1,7 @@
 ##### § 37.6 Information to be posted on the OASIS. #####
 
+Link to an amendment published at 86 FR 29502, June 2, 2021.
+
 (a) The information posted on the OASIS must be in such detail and the OASIS must have such capabilities as to allow Transmission Customers to:
 
 (1) Make requests for transmission services offered by Transmission Providers, Resellers and other providers of ancillary services, request the designation of a network resource, and request the termination of the designation of a network resource;

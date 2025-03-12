@@ -1,9 +1,5 @@
 ##### § 244.1 Definitions. #####
 
-Link to an amendment published at 86 FR 23269, May 3, 2021.
-
-*Arrival time* is the instant when the pilot sets the aircraft parking brake after arriving at the airport gate or passenger unloading area. If the parking brake is not set, record the time for the opening of the passenger door. Also, for purposes of section 244.3 carriers using a Docking Guidance System (DGS) may record the official “gate-arrival time” when the aircraft is stopped at the appropriate parking mark.
-
 *Cancelled flight* means a flight operation that was not operated, but was listed in an air carrier or a foreign air carrier's computer reservation system within seven calendar days of the scheduled departure.
 
 *Certificated air carrier* means a U.S. carrier holding a certificate issued under 49 U.S.C. 41102 to conduct passenger service or holding an exemption to conduct passenger operations under 49 U.S.C. 40109.
@@ -14,7 +10,11 @@ Link to an amendment published at 86 FR 23269, May 3, 2021.
 
 *Diverted flight* means a flight which is operated from the scheduled origin point to a point other than the scheduled destination point in the carrier's published schedule. For example, a carrier has a published schedule for a flight from A to B to C. If the carrier were to actually fly an A to C operation, the A to B segment is a diverted flight, and the B to C segment is a cancelled flight. The same would apply if the flight were to operate from A to an airport other than B or C.
 
+*Excessive tarmac delay* means a tarmac delay of more than three hours for a domestic flight and more than four hours for an international flight.
+
 *Foreign air carrier* means a carrier that is not a citizen of the United States as defined in 49 U.S.C. 40102(a) that holds a foreign air carrier permit issued under 49 U.S.C. 41302 or an exemption issued under 49 U.S.C. 40109 authorizing direct foreign air transportation.
+
+*Gate arrival time* is the instant when the pilot sets the aircraft parking brake after arriving at the airport gate or passenger unloading area. If the parking brake is not set, record the time for the opening of the passenger door. Also, for purposes of § 244.3 carriers using a Docking Guidance System (DGS) may record the official “gate-arrival time” when the aircraft is stopped at the appropriate parking mark.
 
 *Gate departure time* is the instant when the pilot releases the aircraft parking brake after passengers have boarded and aircraft doors have closed. In cases where the flight returned to the departure gate before wheels-off time and departs a second time, the reportable gate departure time for purposes of this part is the last gate departure time before wheels-off time. In cases of a return to the gate after wheels-off time, the reportable gate departure time is the last gate departure time before the gate return. If passengers were boarded without the parking brake being set, the reportable gate departure time is the time that the last passenger door was closed. Also, the official “gate-departure time” may be based on aircraft movement for carriers using a Docking Guidance System (DGS). For example, one DGS records gate departure time when the aircraft moves more than 1 meter from the appropriate parking mark within 15 seconds. Fifteen seconds is then subtracted from the recorded time to obtain the appropriate “out” time.
 
@@ -28,4 +28,6 @@ Link to an amendment published at 86 FR 23269, May 3, 2021.
 
 *Small hub airport* means an airport accounting for at least 0.05 percent but less than 0.25 percent of the total enplanements in the United States.
 
-*Tarmac delay* means the holding of an aircraft on the ground either before taking off or after landing with no opportunity for its passengers to deplane.
+*Tarmac delay* means the period of time when an aircraft is on the ground with passengers and the passengers have no opportunity to deplane.
+
+[Docket No. DOT-OST-2010-0140, 76 FR 23160, Apr. 25, 2011, as amended by Doc. No. DOT-OST-2019-0144, 86 FR 23269, May 3, 2021]

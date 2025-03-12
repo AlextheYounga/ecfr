@@ -1,14 +1,12 @@
 ##### § 530.3 Definitions. #####
 
-Link to an amendment published at 86 FR 21661, Apr. 23, 2021.
-
 When used in this part:
 
 (a) *Act* means the Shipping Act of 1984 as amended by the Ocean Shipping Reform Act of 1998.
 
 (b) *Agreement* means an understanding, arrangement, or association (written or oral) and any modification or cancellation thereof which has been filed and effective under part 535 of this chapter with the Commission. The term does not include a maritime labor agreement.
 
-(c) *Authorized person* means a carrier or a duly appointed agent who is authorized to file service contracts on behalf of the carrier party to a service contract and to publish the corresponding statement of essential terms and is registered by the Commission to file under § 530.5(d) and appendix A to this part.
+(c) *Authorized person* means a carrier or a duly appointed agent who is authorized to file service contracts on behalf of the carrier party to a service contract and is registered by the Commission to file under § 530.5(c) and appendix A to this part.
 
 (d) *BTA* means the Commission's Bureau of Trade Analysis or its successor bureau.
 
@@ -32,7 +30,7 @@ When used in this part:
 
 (2) That government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer or the chief executive officer of the carrier.
 
-(i) *Effective date* means the date upon which a service contract or amendment is scheduled to go into effect by the parties to the contract. For an original service contract, the effective date cannot be prior to the filing date with the Commission. For a service contract amendment, the effective date can be no more than thirty (30) calendar days prior to the filing date with the Commission. A service contract or amendment thereto becomes effective at 12:01 a.m. Eastern Standard Time on the beginning of the effective date.
+(i) *Effective date* means the date upon which a service contract or amendment is scheduled to go into effect by the parties to the contract. A service contract or amendment becomes effective at 12:01 a.m. Eastern Standard Time (Coordinated Universal Time (UTC)-05:00) on the effective date. The effective date may not be earlier than the date on which all parties have signed the service contract or amendment.
 
 (j) *Expiration date* means the last day after which the entire service contract is no longer in effect.
 
@@ -52,4 +50,4 @@ When used in this part:
 
 (r) *Shipper* means a cargo owner; the person for whose account the ocean transportation is provided; the person to whom delivery is to be made; a shippers' association; or an NVOCC that accepts responsibility for payment of all applicable charges under the service contract.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020; 86 FR 21661, Apr. 23, 2021]

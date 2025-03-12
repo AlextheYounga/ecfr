@@ -1,7 +1,5 @@
 ##### § 530.13 Exceptions and exemptions. #####
 
-Link to an amendment published at 86 FR 21662, Apr. 23, 2021.
-
 (a) *Statutory exceptions.* Service contracts for the movement of the following, as defined in section 3 of the Act (46 U.S.C. 40102), § 530.3 or § 520.2 of this chapter, are excepted by section 8(c) of the Act (46 U.S.C. 40502) from the requirements of that section, and are therefore not subject to the requirements of this part:
 
 (1) Bulk cargo;
@@ -30,4 +28,6 @@ Link to an amendment published at 86 FR 21662, Apr. 23, 2021.
 
 (d) *Waiver.* Upon filing a service contract pursuant to paragraph (c) of this section, the service contract shall be subject to the same requirements as those for service contracts generally.
 
-[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009; 85 FR 23229, Apr. 27, 2020; 85 FR 38089, June 25, 2020]
+(e) *Essential terms publication exemption.* Ocean common carriers are exempt from the requirement in 46 U.S.C. 40502(d) to publish and make available to the general public in tariff format a concise statement of certain essential terms when a service contract is filed with the Commission.
+
+[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009; 85 FR 23229, Apr. 27, 2020; 85 FR 38089, June 25, 2020; 86 FR 21662, Apr. 23, 2021]

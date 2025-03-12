@@ -1,14 +1,10 @@
 ##### § 530.8 Service Contracts. #####
 
-Link to an amendment published at 86 FR 21661, Apr. 23, 2021.
+(a) *Filing.* (1) Authorized persons shall file with BTA, in the manner set forth in appendix A of this part, a true and complete copy of every service contract and every amendment to a service contract no later than thirty (30) days after the effective date.
 
-(a) Authorized persons shall file with BTA, in the manner set forth in appendix A of this part, a true and complete copy of:
+(2) Failure to file a service contract or amendment in accordance with paragraph (a)(1) of this section does not affect the applicability of the service contract or amendment to cargo received on or after the effective date by the ocean common carrier or its agent.
 
-(1) Every service contract before any cargo moves pursuant to that service contract; and
-
-(2) Every amendment to a filed service contract no later than thirty (30) days after any cargo moves pursuant to that service contract amendment.
-
-(b) Every service contract filed with the Commission shall include the complete terms of the service contract including, but not limited to, the following:
+(b) *Required terms.* Every service contract filed with the Commission shall include the complete terms of the service contract including, but not limited to, the following:
 
 (1) The origin port ranges in the case of port-to-port movements and geographic areas in the case of through intermodal movements;
 
@@ -58,10 +54,6 @@ Link to an amendment published at 86 FR 21661, Apr. 23, 2021.
 
 (3) The filed FMC Agreement Number(s) assigned by the Commission under 46 CFR part 535 (if applicable); and
 
-(e) *Exception in case of malfunction of Commission filing system.* (1) In the event that the Commission's filing systems are not functioning and cannot receive service contract filings for twenty-four (24) continuous hours or more, affected parties will not be subject to the requirements of paragraph (a) of this section and § 530.14(a) that a service contract be filed before cargo is shipped under it.
+(e) *Exception in case of malfunction of Commission filing system.* In the event that the Commission's filing systems are not functioning and cannot receive service contract filings for twenty-four (24) continuous hours or more, an original service contract or amendment that must be filed during that period in accordance with paragraph (a)(1) of this section will be considered timely filed so long as the service contract or amendment is filed no later than twenty-four (24) hours after the Commission's filing systems return to service.
 
-(2) However, service contracts which go into effect before they are filed, pursuant to paragraph (e)(1) of this section, must be filed within twenty-four (24) hours of the Commission's filing systems' return to service.
-
-(3) Failure to file a service contract that goes into effect before it is filed, pursuant to paragraph (e)(1) of this section, within twenty-four (24) hours of the Commission's filing systems' return to service will be considered a violation of Commission regulations.
-
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012; 82 FR 16296, Apr. 4, 2017; 85 FR 38089, June 25, 2020; 86 FR 21661, Apr. 23, 2021]

@@ -70,8 +70,6 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (v) Coordinate communication among plan personnel, providers, and beneficiaries.
 
-(vi) All MAOs wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
-
 (3)(i) All MA organizations wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
 
 (ii) As part of the evaluation and approval of the SNP model of care, NCQA must evaluate whether goals were fulfilled from the previous model of care.
@@ -84,4 +82,4 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent, and a plan's model of care will only be approved if each element of the model of care meets the minimum benchmark.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021]
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021; 86 FR 29528, June 2, 2021]

@@ -174,7 +174,7 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (F) List 1-800-MEDICARE contact information together with other organizations that may be able to assist with comparing plans (for example, SHIPs).
 
-(H) Include the Part D sponsor's call center telephone number, TTY number, and hours and days of operation.
+(G) Include the Part D sponsor's call center telephone number, TTY number, and hours and days of operation.
 
 (14) *Part D Transition Letter.* This is a model communications material that must be provided to the beneficiary when they receive a transition fill for a nonformulary drug. The Part D Transition Letter must be sent within three days of adjudication of temporary transition fill.
 
@@ -300,4 +300,4 @@ For information CMS deems to be vital to the beneficiary, including information 
 
 (ii) Include the model content in disclaimer form or within the material whenever co-branding relationships with network provider are mentioned.
 
-[86 FR 6126, Jan. 19, 2021]
+[86 FR 6126, Jan. 19, 2021, as amended at 86 FR 29528, June 2, 2021]

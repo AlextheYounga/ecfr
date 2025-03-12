@@ -1,5 +1,7 @@
 ##### § 154.404 Tax Cuts and Jobs Act rate reduction. #####
 
+Link to an amendment published at 86 FR 29506, June 2, 2021.
+
 (a) *Purpose.* The limited rate filing permitted by this section is intended to permit:
 
 (1) A natural gas company subject to the Federal corporate income tax to reduce its maximum rates to reflect the decrease in the federal corporate income tax rate pursuant to the Tax Cuts and Jobs Act of 2017; and

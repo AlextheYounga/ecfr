@@ -52,14 +52,14 @@
 
 (1) The reason for the dismissal.
 
-(2) The right to request that the MA organization vacate the dismissal action.
+(2) The right to request that the Part D plan sponsor vacate the dismissal action.
 
-(3) The right to request reconsideration of the dismissal.
+(3) The right to request redetermination of the dismissal.
 
-(k) *Vacating a dismissal.* If good cause is established, the Part D plan sponsor may vacate its dismissal of a request for redetermination within 6 months from the date of the notice of dismissal.
+(k) *Vacating a dismissal.* If good cause is established, the Part D plan sponsor may vacate its dismissal of a request for coverage determination within 6 months from the date of the notice of dismissal.
 
 (*l*) *Effect of dismissal.* The Part D plan sponsor's dismissal is binding unless it is modified or reversed by the Part D plan sponsor or vacated under paragraph (k) of this section.
 
 (m) *Withdrawing a request.* A party that requests a coverage determination may withdraw its request at any time before the decision is issued by filing a request with the Part D plan sponsor.
 
-[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011; 84 FR 15843, Apr. 16, 2019; 86 FR 6119, Jan. 19, 2021]
+[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011; 84 FR 15843, Apr. 16, 2019; 86 FR 6119, Jan. 19, 2021; 86 FR 29528, June 2, 2021]
