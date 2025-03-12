@@ -1,5 +1,7 @@
 ##### § 113.63 Basic custodial bond conditions. #####
 
+Link to an amendment published at 82 FR 45404, Sept. 28, 2017.
+
 A basic custodial bond must contain the conditions listed in this section and must be a continuous bond.
 
 Basic Custodial Bond Conditions

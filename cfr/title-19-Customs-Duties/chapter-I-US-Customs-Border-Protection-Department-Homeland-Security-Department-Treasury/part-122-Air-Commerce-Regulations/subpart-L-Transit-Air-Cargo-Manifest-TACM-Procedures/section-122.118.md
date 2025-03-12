@@ -1,5 +1,7 @@
 ##### § 122.118 Exportation from port of arrival. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Application.* Transit air cargo may be transferred for exportation from any port of arrival under this section. The port director may require any supervision necessary to enforce the regulations of other Federal agencies.
 
 (b) *Time.* Transit air cargo shall be exported from the port of arrival within 10 days from the date the exporting airline receives the cargo. After the 10-day period, the individual cargo shipments must be made the subject of individual entries, as appropriate.

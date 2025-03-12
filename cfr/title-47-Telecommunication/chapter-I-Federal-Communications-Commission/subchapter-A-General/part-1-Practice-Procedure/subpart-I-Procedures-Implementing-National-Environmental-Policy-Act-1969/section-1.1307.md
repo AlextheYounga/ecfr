@@ -1,6 +1,6 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
-Link to an amendment published at 82 FR 41103, Aug. 29, 2017.Link to an amendment published at 82 FR 43868, September 20, 2017.
+Link to an amendment published at 82 FR 43868, September 20, 2017.
 
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
@@ -146,9 +146,9 @@ Table 1 - Transmitters, Facilities and Operations Subject to Routine Environment
 
 (ii) Unlicensed PCS, unlicensed NII and millimeter wave devices are also subject to routine environmental evaluation for RF exposure prior to equipment authorization or use, as specified in §§ 15.253(f), 15.255(g), 15.257(g), 15.319(i), and 15.407(f) of this chapter.
 
-(iii) Portable transmitting equipment for use in the Wireless Medical Telemetry Service (WMTS) is subject to routine environment evaluation as specified in §§ 2.1093 and 95.1125 of this chapter.
+(iii) Portable transmitting equipment for use in the Wireless Medical Telemetry Service (WMTS) is subject to routine environmental evaluation as specified in §§ 2.1093 and 95.2385 of this chapter.
 
-(iv) Equipment authorized for use in the Medical Device Radiocommunication Service (MedRadio) as a medical implant device or body-worn transmitter (as defined in Appendix 1 to subpart E of part 95 of this chapter) is subject to routine environmental evaluation for RF exposure prior to equipment authorization, as specified in §§ 2.1093 and 95.1221 of this chapter by finite difference time domain (FDTD) computational modeling or laboratory measurement techniques. Where a showing is based on computational modeling, the Commission retains the discretion to request that supporting documentation and/or specific absorption rate (SAR) measurement data be submitted.
+(iv) Equipment authorized for use in the Medical Device Radiocommunication Service (MedRadio) as a medical implant device or body-worn transmitter (as defined in subpart I of part 95 of this chapter) is subject to routine environmental evaluation for RF exposure prior to equipment authorization, as specified in §§ 2.1093 and 95.2585 of this chapter by finite difference time domain (FDTD) computational modeling or laboratory measurement techniques. Where a showing is based on computational modeling, the Commission retains the discretion to request that supporting documentation and/or specific absorption rate (SAR) measurement data be submitted.
 
 (v) All other mobile, portable, and unlicensed transmitting devices are categorically excluded from routine environmental evaluation for RF exposure under §§ 2.1091, 2.1093 of this chapter except as specified in paragraphs (c) and (d) of this section.
 

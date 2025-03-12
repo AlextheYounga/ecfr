@@ -25,5 +25,3 @@ Annual Volume = AADT × 365 days
 (2) The State DOT's fuel sales data used to create the summary data included in FHWA's MF-21, if it allows for a greater level of detail by fuel type. State DOTs shall make this data available to FHWA, upon request.
 
 (h) Final annual vehicle miles traveled (VMT) needed to calculate the GHG measure in § 490.507(b) shall come from the most recently available data posted by FHWA in Highway Statistics in Table VM-3, “Federal-Aid Highway Travel” as of August 15th of the HPMS reporting year.
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendments to § 490.509(f), (g), and (h) was delayed indefinitely.

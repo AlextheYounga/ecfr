@@ -4,7 +4,7 @@
 
 (b) *Payment of wages.* A payor who is required to make an information return under section 6041 with respect to a payment of wages (as defined in section 3401) because, e.g., the employee makes a certification under section 3402(n) (relating to employees incurring no income tax liability), must not withhold under section 3406 on those wages.
 
-(c) *Distribution from a pension, annuity, or other plan of deferred compensation.* An amount reportable under section 6047, such as a designated distribution under section 3405, is not a reportable payment subject to withholding under section 3406. See section 3406(b). Designated distributions not subject to withholding under section 3406 include -
+(c) *Distribution from a pension, annuity, or other plan of deferred compensation.* An amount reportable under section 6047, such as a designated distribution under section 3405, is not a reportable payment subject to withholding under section 3406. See section 3406(b). Designated distributions not subject to withholding under section 3406 include—
 
 (1) Distributions from a pension, annuity, profit-sharing, stock bonus plan, or other plan deferring the receipt of compensation;
 
@@ -14,15 +14,15 @@
 
 (4) Certain surrenders of life insurance contracts.
 
-(d) *Gambling winnings* - (1) *In general.* A payor of a reportable gambling winning must not withhold under section 3406 if tax is required to be withheld from the gambling winning under section 3402(q) (relating to the extension of withholding to certain gambling winnings). If the reportable gambling winning is not required to be withheld upon under section 3402(q), withholding under section 3406 applies to the gambling winning if, and only if, the payee does not furnish a taxpayer identification number to the payor. Section 31.3406(b)(3)-1(b)(3) does not apply to a reportable gambling winning. The payor of a reportable gambling winning is not required to aggregate all such winnings made to a payee during a calendar year, nor is the payor required to determine whether an information return was required to be made with respect to the payee for the preceding year.
+(d) *Gambling winnings*—(1) *In general.* A payor of a reportable gambling winning must not withhold under section 3406 if tax is required to be withheld from the gambling winning under section 3402(q) (relating to the extension of withholding to certain gambling winnings). If the reportable gambling winning is not required to be withheld upon under section 3402(q), withholding under section 3406 applies to the gambling winning if, and only if, the payee does not furnish a taxpayer identification number to the payor. Section 31.3406(b)(3)-1(b)(3) does not apply to a reportable gambling winning. The payor of a reportable gambling winning is not required to aggregate all such winnings made to a payee during a calendar year, nor is the payor required to determine whether an information return was required to be made with respect to the payee for the preceding year.
 
-(2) *Definition of a reportable gambling winning and determination of amount subject to backup withholding.* For purposes of withholding under section 3406, a reportable gambling winning is any gambling winning subject to information reporting under section 6041. The amount of a reportable gambling winning is -
+(2) *Definition of a reportable gambling winning and determination of amount subject to backup withholding.* For purposes of withholding under section 3406, a reportable gambling winning is any gambling winning subject to information reporting under section 6041. A gambling winning (other than a winning from bingo, keno, or slot machines) is a reportable gambling winning only if the amount paid with respect to the wager is $600 or more and if the proceeds are at least 300 times as large as the amount wagered. See § 1.6041-10 of this chapter to determine whether a winning from bingo, keno, or slot machines is a reportable gambling winning and thus subject to withholding under section 3406. The amount of a reportable gambling winning is—
 
-(i) The amount paid with respect to the amount of the wager reduced, at the option of the payor; by
+(i) The amount paid with respect to the amount of the wager reduced, at the option of the payer; by
 
 (ii) The amount of the wager.
 
-(3) *Special rules.* Amounts paid with respect to identical wagers are treated as paid with respect to a single wager. The determination of whether wagers are identical is made under § 31.3402(q)-1(c)(1)(ii). In addition, a gambling winning (other than a winning from bingo, keno, or slot machines) is a reportable gambling winning only if the amount paid with respect to the wager is $600 or more and if the proceeds are at least 300 times as large as the amount wagered. See § 1.6041-10 of this chapter to determine whether a winning from bingo, keno, or slot machines is a reportable gambling winning and thus subject to withholding under section 3406.
+(3) *Special rules.* For special rules for determining the amount of the wager in a wagering transaction with respect to horse racing, dog racing, and jai alai, or amounts paid with respect to identical wagers, see § 31.3402(q)-1(c).
 
 (e) *Certain real estate transactions.* A real estate reporting person (the so-called broker) as defined in section 6045(e)(2) must not withhold under section 3406 on a payment made with respect to a real estate transaction that is subject to reporting under sections 6045 (a) and (e) and § 1.6045-4 of this chapter.
 
@@ -30,4 +30,6 @@
 
 (g) *Certain gross proceeds.* No withholding under section 3406 is required with respect to any portion of the original issue discount on an instrument or security that is subject to withholding under section 3406 as reportable gross proceeds of such instrument or security under section 6045.
 
-[T.D. 8637, 60 FR 66128, Dec. 21, 1995, as amended by T.D. 9524, 76 FR 26601, May 9, 2011; T.D. 9586, 77 FR 24611, Apr. 25, 2012; T.D. 9807, 81 FR 96380, Dec. 30, 2016]
+(h) *Applicability date.* The rules apply to reportable gambling winnings paid with respect to a winning event that occurs after November 13, 2017. For rules that apply to payments made with respect to a winning event on or before that date, see § 31.3406(g)-2 as contained in 26 CFR part 31, revised April 1, 2017.
+
+[T.D. 8637, 60 FR 66128, Dec. 21, 1995, as amended by T.D. 9524, 76 FR 26601, May 9, 2011; T.D. 9586, 77 FR 24611, Apr. 25, 2012; T.D. 9807, 81 FR 96380, Dec. 30, 2016; T.D. 9824, 82 FR 44929, Sept. 27, 2017]

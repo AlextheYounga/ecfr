@@ -1,5 +1,7 @@
 ##### § 12.104g Specific items or categories designated by agreements or emergency actions. #####
 
+Link to an amendment published at 82 FR 45179, Sept. 28, 2017.
+
 (a) The following is a list of agreements imposing import restrictions on the described articles of cultural property of State Parties. The listed Treasury Decision contains the Designated Listing with a complete description of specific items or categories of archaeological or ethnological material designated by the agreement as coming under the protection of the Convention on Cultural Property Implementation Act. Import restrictions listed below shall be effective for no more than five years beginning on the date on which the agreement enters into force with respect to the United States. This period may be extended for additional periods of not more than five years if it is determined that the factors which justified the initial agreement still pertain and no cause for suspension of the agreement exists. Any such extension is indicated in the listing.
 
 |       State party        |                                                                                                                                           Cultural  <br/>Property                                                                                                                                            |               Decision No.               |

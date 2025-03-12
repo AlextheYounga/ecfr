@@ -1,5 +1,7 @@
 ##### § 146.66 Transfer of merchandise from one zone to another. #####
 
+Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
+
 (a) *At the same port.* A transfer of merchandise to another zone with a different operator at the same port (including a consolidated port) will be by a licensed cartman or a bonded carrier as provided for in § 112.2(b) of this chapter or by the operator of the zone for which the merchandise is destined under an entry for immediate transportation on Customs Form 7512 or other appropriate form with a Customs Form 214 filed at the destination zone. A transfer of merchandise between zone sites at the same port having the same operator may be made under a permit on CF 6043 or under a local control system approved by the port director wherein any loss of merchandise between sites will be treated as if the loss occurred in the zone.
 
 (b) *At a different port.* A transfer of merchandise from a zone at one port of entry to a zone at another port will be by bonded carrier under an entry for immediate transportation on Customs Form 7512. All copies of the entry must bear a notation that the merchandise is being transferred to another zone designated by its number.

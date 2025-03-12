@@ -1,5 +1,7 @@
 ##### § 123.64 Baggage in transit through the United States between ports in Canada or in Mexico. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Procedure.* Baggage in transit from point to point in Canada or Mexico through the United States may be transported in bond through the United States in accordance with the procedures set forth in §§ 18.13, 18.14, and 18.20 through 18.24 of this chapter except where those procedures are modified by this section.
 
 (b) *In-transit manifest.* Three copies of the manifest on Customs Form 7512 shall be required. One copy of the Form 7512 shall be delivered to the person in charge of the carrier to accompany the baggage and shall be delivered by the carrier to the Customs officer at the port of departure from the United States.

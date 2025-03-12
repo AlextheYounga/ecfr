@@ -1,0 +1,9 @@
+##### § 95.319 Malfunctioning transmitting equipment. #####
+
+If the operator of a Personal Radio Services station becomes aware that the transmitting equipment is no longer functioning properly, he or she must stop making transmissions (except for emergency communications) using the malfunctioning transmitting equipment until it has been adjusted and/or repaired, as necessary, to restore proper operation.
+
+(a) *FCC request to discontinue operation.* If an FCC representative informs a Personal Radio Services station operator that the technical characteristics of his or her transmitted signals are not in compliance with the applicable rules (*e.g.,* regarding power, unwanted emissions, frequency accuracy), he or she must immediately stop making transmissions with the transmitter producing the non-compliant signals.
+
+(b) *Internal repairs.* Internal adjustments and repairs to Personal Radio Services transmitters must be performed by or under the supervision of an individual who is qualified to maintain and repair transmitters.
+
+(c) *Test transmissions.* The operator of any Personal Radio Services station may make brief test transmissions to verify the functional status of the transmitting equipment at any time, provided that such transmissions do not cause interference to the communications of other stations. A qualified individual maintaining or repairing a Personal Radio station transmitter in accordance with paragraph (b) of this section may make test transmissions as necessary to maintain or repair the transmitter, provided that such transmissions do not cause interference to communications of other stations.

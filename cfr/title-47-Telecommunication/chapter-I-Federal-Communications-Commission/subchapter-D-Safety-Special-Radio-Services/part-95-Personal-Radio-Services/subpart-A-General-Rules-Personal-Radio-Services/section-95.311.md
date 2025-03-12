@@ -1,0 +1,9 @@
+##### § 95.311 Correspondence and notices from the FCC. #####
+
+Operators of Personal Radio Service stations must respond to and comply with official communications from the FCC.
+
+(a) The FCC may send a letter to the operator of a Personal Radio Service station requesting specific information about the Personal Radio Service station or its operation. Upon receipt of such a letter, the operator must respond in writing to the FCC office that sent the letter, within the time period stated in the letter. The written response must contain the information requested by the FCC, must be complete in itself, and should not rely on references to other communications or notices.
+
+(b) If it appears to the FCC that the operator of a Personal Radio Services station has violated the Communications Act or the FCC's rules, the FCC may send that operator an official notice concerning the apparent violation. Upon receipt of such official notice, the operator must respond in writing to the FCC office that sent the letter, within the time period stated in the letter and comply with all instructions in the notice concerning the response. The written response must contain a complete written statement that fully addresses each violation, reports any action that the operator has taken to correct the violation and to prevent it from happening again, and any other pertinent information, such as other operators or stations that may have caused the violation.
+
+(c) If the FCC notifies the operator of a Personal Radio Service station that the station is causing interference for technical reasons, the operator must follow all instructions in the official notice. The operator must comply with restricted hours of station operation if so specified in the official notice. The notice may require the operator to stop operating the station until technical adjustments or repairs have been made to the station equipment, such that the technical problem is corrected.

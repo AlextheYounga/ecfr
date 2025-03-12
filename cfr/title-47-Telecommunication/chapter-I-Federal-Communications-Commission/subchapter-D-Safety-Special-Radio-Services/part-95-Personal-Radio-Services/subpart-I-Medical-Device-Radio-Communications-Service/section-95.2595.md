@@ -1,0 +1,15 @@
+##### § 95.2595 MedRadio disclosures. #####
+
+Manufacturers of MedRadio transmitters must include with each transmitting device the statement set forth in this section that applies to the frequency bands in use.
+
+(a) For MedRadio transmitters operating in the 401-406 MHz band, the following statement applies:
+
+This transmitter is authorized by rule under the Medical Device Radiocommunication Service (in part 95 of the FCC Rules) and must not cause harmful interference to stations operating in the 400.150-406.000 MHz band in the Meteorological Aids (*i.e.,* transmitters and receivers used to communicate weather data), the Meteorological Satellite, or the Earth Exploration Satellite Services and must accept interference that may be caused by such stations, including interference that may cause undesired operation. This transmitter shall be used only in accordance with the FCC Rules governing the Medical Device Radiocommunication Service. Analog and digital voice communications are prohibited. Although this transmitter has been approved by the Federal Communications Commission, there is no guarantee that it will not receive interference or that any particular transmission from this transmitter will be free from interference.
+
+(b) For MedRadio transmitters operating in the 413-419 MHz, 426-432 MHz, 438-444 MHz and 451-457 MHz bands, the following statement applies:
+
+This transmitter is authorized by rule under the MedRadio Service (47 CFR part 95). This transmitter must not cause harmful interference to stations authorized to operate on a primary basis in the 413-419 MHz, 426-432 MHz, 438-444 MHz, and 451-457 MHz bands, and must accept interference that may be caused by such stations, including interference that may cause undesired operation. This transmitter shall be used only in accordance with the FCC Rules governing the MedRadio Service. Analog and digital voice communications are prohibited. Although this transmitter has been approved by the Federal Communications Commission, there is no guarantee that it will not receive interference or that any particular transmission from this transmitter will be free from interference.
+
+(c) For MedRadio transmitters operating in the 2360-2400 MHz band, the following statement applies:
+
+This transmitter is authorized by rule under the MedRadio Service (47 CFR part 95). This transmitter must not cause harmful interference to stations authorized to operate on a primary basis in the 2360-2400 MHz band, and must accept interference that may be caused by such stations, including interference that may cause undesired operation. This transmitter shall be used only in accordance with the FCC Rules governing the MedRadio Service. Analog and digital voice communications are prohibited. Although this transmitter has been approved by the Federal Communications Commission, there is no guarantee that it will not receive interference or that any particular transmission from this transmitter will be free from interference.

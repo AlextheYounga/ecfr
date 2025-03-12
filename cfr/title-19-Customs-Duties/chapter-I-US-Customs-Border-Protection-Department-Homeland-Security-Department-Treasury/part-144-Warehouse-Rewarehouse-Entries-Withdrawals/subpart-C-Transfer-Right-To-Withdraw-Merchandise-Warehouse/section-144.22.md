@@ -1,5 +1,7 @@
 ##### § 144.22 Endorsement of transfer on withdrawal form. #####
 
+Link to an amendment published at 82 FR 45406, Sept. 28, 2017.
+
 Transfer of the right to withdraw merchandise entered for warehouse shall be established by an appropriate endorsement on the withdrawal form by the person primarily liable for payment of duties before the transfer is completed, *i.e.*, the person who made the warehouse or rewarehouse entry or a transferee of the withdrawal right of such person. Endorsement shall be made on whichever of the following withdrawal forms is applicable:
 
 (a) Customs Form 7501, or its electronic equivalent, for:

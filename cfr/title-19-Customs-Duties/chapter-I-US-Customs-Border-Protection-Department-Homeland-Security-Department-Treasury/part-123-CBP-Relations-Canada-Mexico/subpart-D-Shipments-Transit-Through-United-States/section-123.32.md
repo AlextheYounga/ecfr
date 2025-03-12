@@ -1,5 +1,7 @@
 ##### § 123.32 Manifests. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Form and number of copies required.* Three copies of the transportation entry and manifest on Customs Form 7512 shall be presented upon arrival of merchandise which is to proceed under the provisions of this subpart.
 
 (b) *Consolidated train manifest.* When the route is such that a train will remain intact while proceeding through the United States, a consolidated train manifest containing the same information as is required on individual manifests may be used.

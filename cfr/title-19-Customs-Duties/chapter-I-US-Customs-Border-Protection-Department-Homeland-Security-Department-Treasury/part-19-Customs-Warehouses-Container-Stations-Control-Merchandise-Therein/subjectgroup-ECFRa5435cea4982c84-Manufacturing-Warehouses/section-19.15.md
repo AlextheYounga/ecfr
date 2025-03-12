@@ -1,5 +1,7 @@
 ##### § 19.15 Withdrawal for exportation of articles manufactured in bond; waste or byproducts for consumption. #####
 
+Link to an amendment published at 82 FR 45404, Sept. 28, 2017.
+
 (a) Except cigars manufactured in bond and supplies for vessels, no articles or materials received into a bonded manufacturing warehouse or articles manufactured therefrom shall be withdrawn or removed therefrom except for direct exportation or transportation and exportation in bond to a foreign country. The exportation or shipment shall in every case be under the supervision of Customs.
 
 (b) The coverings or containers of imported articles or materials, whether or not subject to duty apart from their contents, are not “articles or materials” within the meaning of section 311, Tariff Act of 1930, as amended, and need not be exported, but may be withdrawn from the warehouse for consumption under Customs Form 7501, or its electronic equivalent, upon payment of the duties applicable to such coverings or containers in their condition as withdrawn.

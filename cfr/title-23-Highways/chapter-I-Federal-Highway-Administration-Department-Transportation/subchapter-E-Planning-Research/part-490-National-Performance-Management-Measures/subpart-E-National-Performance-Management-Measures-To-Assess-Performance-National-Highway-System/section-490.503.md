@@ -7,5 +7,3 @@
 (2) The Greenhouse Gas (GHG) measure in § 490.507(b) is applicable to all mainline highways on the Interstate and non-Interstate NHS.
 
 (b) [Reserved]
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendment to § 490.503(a)(2) was delayed indefinitely.

@@ -1,0 +1,3 @@
+##### § 95.941 CBRS antenna height limits. #####
+
+The operator of a CBRS station must ensure that the transmitting antenna for the station is not higher than 18.3 meters (60 feet) above the ground, or 6.1 meters (20 feet) higher than the highest point of the building or tree on which it is mounted, whichever is higher. CBRS station antennas must also meet the requirements in § 95.317 regarding menaces to air navigation. *See* § 95.317 and consult part 17 of the FCC's Rules for more information.

@@ -1,5 +1,7 @@
 ##### § 123.42 Truck shipments transiting the United States. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Manifest required.* Trucks with merchandise transiting the United States from point to point in Canada will be manifested on United States-Canada Transit Manifest, Customs Form 7512-B Canada 81/2. The driver, in accordance with Canadian Customs regulations, shall present the manifest in four copies to Canadian Customs at the Canadian port of departure for review and validation.
 
 (b) *Procedure at Canadian port of departure.* The Customs officer receiving the manifest shall validate it by stamping each copy in the lower right hand corner to show the port name and date and by initialing each copy. All copies of the validated manifest then will be returned to the driver for presentation to U.S. Customs at the United States port of entry.

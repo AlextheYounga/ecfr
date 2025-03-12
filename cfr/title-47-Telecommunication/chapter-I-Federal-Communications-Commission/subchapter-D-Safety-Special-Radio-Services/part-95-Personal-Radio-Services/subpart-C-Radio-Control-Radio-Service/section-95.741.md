@@ -1,0 +1,3 @@
+##### § 95.741 RCRS antenna height limit. #####
+
+If the antenna of a RCRS station operating on a channel in the 26-28 MHz frequency band (whether receiving, transmitting) is installed at a fixed location, the highest point of the antenna must not be more than 6.10 meters (20 feet) higher than the highest point of the building or tree on which it is mounted; or 18.3 meters (60 feet) above the ground. RCRS station antennas must also meet the requirements in § 95.317 regarding menaces to air navigation. *See* 47 CFR 95.317 and consult part 17 of the FCC's Rules for more information (47 CFR part 17).

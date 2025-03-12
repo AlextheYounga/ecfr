@@ -1,0 +1,3 @@
+##### § 95.2109 Notification to affected TV stations required for AMTS use. #####
+
+Prior to operating a LPRS transmitter with an AMTS, the AMTS licensee must notify, in writing, each television station that may be affected by such operations, as defined in § 80.215(h) of this chapter. The notification provided with the station's license application (under part 80 of this chapter) is sufficient to satisfy this requirement if no new television stations would be affected.

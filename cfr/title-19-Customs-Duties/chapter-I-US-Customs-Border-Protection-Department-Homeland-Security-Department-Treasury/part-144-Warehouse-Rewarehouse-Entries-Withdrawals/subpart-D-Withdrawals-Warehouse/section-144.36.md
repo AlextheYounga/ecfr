@@ -1,5 +1,7 @@
 ##### § 144.36 Withdrawal for transportation. #####
 
+Link to an amendment published at 82 FR 45406, Sept. 28, 2017.
+
 (a) *Time limit.* Merchandise may be withdrawn from warehouse for transportation to another port of entry if withdrawal for consumption or exportation can be accomplished at the port of destination before the expiration of the warehousing period.
 
 (b) *Physical deposit in warehouse not needed.* All or any part of the merchandise covered by an entry summary, Customs Form 7501, or its electronic equivalent, may be withdrawn for transportation without deposit in a bonded warehouse and may be permitted to remain on the vessel or other vehicle or on the pier in a constructive warehouse status pending examination. When any such merchandise not deposited in a warehouse is not forwarded under the withdrawal for transportation on account of damage or other cause, the importer shall be required to withdraw such merchandise immediately for consumption or exportation, or designate a warehouse to which it may be sent and, upon his failure to do so, it shall be treated as unclaimed.

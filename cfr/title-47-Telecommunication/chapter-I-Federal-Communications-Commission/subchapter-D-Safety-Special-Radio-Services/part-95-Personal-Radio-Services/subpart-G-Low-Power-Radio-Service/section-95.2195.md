@@ -1,0 +1,5 @@
+##### § 95.2195 LPRS disclosures. #####
+
+Manufacturers of LPRS transmitters used for auditory assistance, health care assistance, and law enforcement tracking purposes must include with each transmitting device the following statement:
+
+This transmitter is authorized by rule under the Low Power Radio Service (47 CFR part 95) and must not cause harmful interference to TV reception or to the United States Air Force Space Surveillance System operating in the 216.88-217.08 MHz band. With the exception of automated maritime telecommunications system (AMTS) devices, you do not need an FCC license to operate this transmitter. This transmitter may only be used to provide: auditory assistance to persons with disabilities, persons who require language translation, or persons in educational settings; health care services to the ill; law enforcement tracking services under agreement with a law enforcement agency; or AMTS network control communications. Two-way voice communications and all other types of uses not mentioned above are expressly prohibited.

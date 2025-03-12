@@ -1,5 +1,7 @@
 ##### § 4.82 Touching at foreign port while in coastwise trade. #####
 
+Link to an amendment published at 82 FR 45393, Sept. 28, 2017.
+
 (a) A United States documented vessel with a registry or, coastwise endorsement, or both which, during a voyage between ports in the United States, touches at one or more foreign ports and there discharges or takes on merchandise, passengers, baggages, or mail shall obtain a permit to proceed or clearance at each port of lading in the United States for the foreign port or ports at which it is intended to touch. The Cargo Declaration Outward With Commercial Forms, Customs Form 1302-A (see § 4.63), shall show only the cargo for foreign destination. (See §§ 4.61 and 4.87.)
 
 (b) The master shall also present to the port director a coastwise Cargo Declaration in triplicate of the merchandise to be transported via the foreign port or ports to the subsequent ports in the United States. It shall describe the merchandise and show the marks and numbers of the packages, the names of the shippers and consignees, and the destinations. The port director shall certify the two copies and return them to the master. Merchandise carried by the vessel in bond under a transportation entry and manifest, Customs Form 7512, shall not be shown on the coastwise Cargo Declaration.

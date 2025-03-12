@@ -1,5 +1,7 @@
 ##### § 146.67 Transfer of merchandise for exportation. #####
 
+Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
+
 (a) *Direct exportation.* Any merchandise in a zone may be exported directly therefrom (without transfer into Customs territory) upon compliance with the procedures of paragraph (b) of this section.
 
 (b) *Immediate exportation.* Each transfer of merchandise to the Customs territory for exportation at the port where the zone is located, will be made under an entry for immediate exportation on Customs Form 7512. The person making entry shall furnish an export bond on Customs Form 301 containing the bond conditions provided for in § 113.62 of this chapter.

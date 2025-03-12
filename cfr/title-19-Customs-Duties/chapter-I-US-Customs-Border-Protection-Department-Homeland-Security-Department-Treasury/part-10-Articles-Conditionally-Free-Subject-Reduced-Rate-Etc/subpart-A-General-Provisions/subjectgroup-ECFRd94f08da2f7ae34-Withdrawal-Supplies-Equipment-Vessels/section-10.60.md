@@ -1,5 +1,7 @@
 ##### § 10.60 Forms of withdrawals; bond. #####
 
+Link to an amendment published at 82 FR 45393, Sept. 28, 2017.
+
 (a) Withdrawals from warehouse shall be made on Customs Form 7501, or its electronic equivalent. Each withdrawal shall contain the statement prescribed for withdrawals in § 144.32 of this chapter and all of the statistical information as provided in § 141.61(e) of this chapter. Withdrawals from continuous Customs custody elsewhere than in a bonded warehouse shall be made on Customs Form 7512, except as provided for by paragraph (h) of this section. When a withdrawal of supplies or other articles is made which may be used on a vessel while it is proceeding in ballast to another port as provided for by § 10.59(a)(3), a notation of this fact shall be made on the withdrawal and the name of the other port given if known.
 
 (b) If the withdrawal is made by other than the principal on the warehouse or rewarehouse entry, as the case may be, the assent of such principal shall be endorsed on the withdrawal, unless the principal has otherwise authorized such withdrawal in writing.

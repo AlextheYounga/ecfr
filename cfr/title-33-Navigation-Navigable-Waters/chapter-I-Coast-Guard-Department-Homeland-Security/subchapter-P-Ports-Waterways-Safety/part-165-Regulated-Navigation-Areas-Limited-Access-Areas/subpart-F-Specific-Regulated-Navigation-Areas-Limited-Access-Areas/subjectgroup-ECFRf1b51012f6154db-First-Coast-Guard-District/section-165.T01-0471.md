@@ -18,4 +18,4 @@
 
 (3) During periods of enforcement, upon being hailed by a U.S. Coast Guard vessel by siren, radio, flashing light, or other means, the operator of the vessel must proceed as directed.
 
-Effective Date Note:By USCG-2013-0471, 79 FR 26851, May 12, 2014, temporary § 165.T01-0471 was added, effective from May 12, 2014, until Sept. 30, 2017. At 79 FR 43256, July 25, 2014, paragraph (a) was revised, effective from July 25, 2014, until Sept. 30, 2017.
+Effective Date Note:By USCG-2013-0471, 79 FR 26851, May 12, 2014, temporary § 165.T01-0471 was added, effective from May 12, 2014, until Sept. 30, 2017. At 79 FR 43256, July 25, 2014, paragraph (a) was revised, effective from July 25, 2014, to Sept. 30, 2017.

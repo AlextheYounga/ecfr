@@ -1,0 +1,3 @@
+##### § 95.2541 MedRadio outdoor antenna restrictions. #####
+
+The antenna for a MedRadio transmitter, other than a MedRadio transmitter operating in the 2390-2400 MHz band, must not be configured for permanent outdoor use. Furthermore, except for MedRadio operations in the 2390-2400 MHz band, any MedRadio antenna used outdoors must not be affixed to any structure for which the height to the tip of the antenna would exceed three meters (9.8 feet) above ground level.

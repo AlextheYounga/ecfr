@@ -1,0 +1,3 @@
+##### § 95.2507 MBAN devices restricted to indoor operation within a health care facility. #####
+
+Use of Medical Body Area Network (MBAN) devices in the 2360-2390 MHz band is restricted to indoor operation within a health care facility registered with the MBAN frequency coordinator under § 95.2509. For the purposes of this subpart, health care facilities are limited to hospitals and other establishments, both Federal and non-Federal, that offer services, facilities and beds for use beyond a 24 hour period in rendering medical treatment.

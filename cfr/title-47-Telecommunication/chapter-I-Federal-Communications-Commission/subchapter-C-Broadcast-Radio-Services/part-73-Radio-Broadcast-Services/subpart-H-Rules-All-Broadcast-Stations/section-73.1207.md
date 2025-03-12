@@ -1,7 +1,5 @@
 ##### § 73.1207 Rebroadcasts. #####
 
-Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
-
 (a) The term *rebroadcast* means reception by radio of the programs or other transmissions of a broadcast or any other type of radio station, and the simultaneous or subsequent retransmission of such programs or transmissions by a broadcast station.
 
 (1) As used in this section, “program” includes any complete programs or part thereof.
@@ -22,11 +20,11 @@ Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
 
 (c) The transmissions of non-broadcast stations may be rebroadcast under the following conditions:
 
-(1) Messages originated by privately-owned non-broadcast stations other than those in the Amateur and Citizens Band (CB) Radio Services may be broadcast only upon receipt of prior permission from the non-broadcast licensee. Additionally, messages transmitted by common carrier stations may be rebroadcast only upon prior permission of the originator of the message as well as the station licensee.
+(1) Messages originated by privately-owned non-broadcast stations other than those in the Amateur and CB Radio Services may be broadcast only upon receipt of prior permission from the non-broadcast licensee. Additionally, messages transmitted by common carrier stations may be rebroadcast only upon prior permission of the originator of the message as well as the station licensee.
 
 (2) Except as provided in paragraph (d) of this section, messages originated entirely by non-broadcast stations owned and operated by the Federal Government may be rebroadcast only upon receipt of prior permission from the government agency originating the messages.
 
-(3) Messages originated by stations in the amateur and Citizens Band (CB) radio services may be rebroadcast at the discretion of broadcast station licensees.
+(3) Messages originated by stations in the Amateur and CB Radio Services may be rebroadcast at the discretion of broadcast station licensees.
 
 (4) Emergency communications originated under a State EAS plan.
 
@@ -64,4 +62,4 @@ National Bureau of Standards, Radio Stations WWV/WWVB, 2000 East County Road 58,
 
 (iii) Credit must be given to indicate that the rebroadcast message originates with the National Weather Service.
 
-[44 FR 36040, June 20, 1979, as amended at 45 FR 26065, Apr. 17, 1980; 48 FR 28456, June 22, 1983; 50 FR 25246, June 18, 1985; 59 FR 67102, Dec. 28, 1994; 61 FR 36305, July 10, 1996]
+[44 FR 36040, June 20, 1979, as amended at 45 FR 26065, Apr. 17, 1980; 48 FR 28456, June 22, 1983; 50 FR 25246, June 18, 1985; 59 FR 67102, Dec. 28, 1994; 61 FR 36305, July 10, 1996; 82 FR 41103, Aug. 29, 2017]

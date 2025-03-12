@@ -1,0 +1,3 @@
+##### § 95.2325 WMTS interference. #####
+
+Authorized health care providers, in conjunction with the equipment manufacturers, must cooperate in the selection and use of frequencies in order to reduce the potential for interference with other wireless medical telemetry devices, or other co-primary users. However, WMTS operations in the 608-614 MHz band are not entitled to protection from adjacent band interference from broadcast television stations transmitting on TV Channels 36 and 38.

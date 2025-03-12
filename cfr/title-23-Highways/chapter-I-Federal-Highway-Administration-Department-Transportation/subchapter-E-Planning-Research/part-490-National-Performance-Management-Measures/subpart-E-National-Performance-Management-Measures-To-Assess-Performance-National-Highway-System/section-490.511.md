@@ -45,5 +45,3 @@
 (ii) The 2 years preceding the reporting years.
 
 (2) [Reserved]
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendments to § 490.511(a)(2), (c), (d), and (f) was delayed indefinitely.

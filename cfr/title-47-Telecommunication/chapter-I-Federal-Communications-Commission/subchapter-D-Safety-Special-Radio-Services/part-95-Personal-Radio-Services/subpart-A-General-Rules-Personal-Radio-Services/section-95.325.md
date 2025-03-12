@@ -1,0 +1,3 @@
+##### § 95.325 Interference. #####
+
+Operators of Personal Radio Service stations experiencing or causing interference must first attempt to eliminate the interference by means of mutually satisfactory arrangements. If the operators are unable to resolve an interference problem, the FCC may impose restrictions including specifying the channels, maximum transmitting power, maximum antenna height and geographic area or hours of operation of the stations concerned.

@@ -1,5 +1,7 @@
 ##### § 122.119 Transportation to another U.S. port. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Application.* Air cargo shipments may be transferred for transportation as transit air cargo from the port of arrival to another port in the U.S. under this section. The director of the port of arrival may require Customs supervision of the transfer.
 
 (b) *Time.* Transit air cargo traveling to a final port of destination in the U.S. shall be delivered to Customs at its destination within 15 days from the date the receiving airline gives the receipt for the cargo at the port of arrival.

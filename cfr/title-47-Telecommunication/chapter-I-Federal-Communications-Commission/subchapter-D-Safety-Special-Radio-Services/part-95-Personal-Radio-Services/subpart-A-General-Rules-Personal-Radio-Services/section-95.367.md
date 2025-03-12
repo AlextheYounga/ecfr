@@ -1,0 +1,3 @@
+##### § 95.367 Transmitting power. #####
+
+For transmission of emergency messages, where operators of Personal Radio Services stations have the ability to select transmitting power levels, the highest transmitting power available may be used. In all other circumstances, the minimum amount of transmitting power necessary to carry out the desired communications must be used. *See* section 324 of the Communications Act (47 U.S.C. 324).

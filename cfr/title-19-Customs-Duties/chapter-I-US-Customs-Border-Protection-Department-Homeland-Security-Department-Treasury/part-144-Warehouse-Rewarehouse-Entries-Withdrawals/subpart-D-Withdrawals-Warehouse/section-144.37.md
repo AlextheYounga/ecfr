@@ -1,5 +1,7 @@
 ##### § 144.37 Withdrawal for exportation. #####
 
+Link to an amendment published at 82 FR 45406, Sept. 28, 2017.
+
 (a) *Form.* A withdrawal for either direct or indirect exportation must be filed on CBP Form 7512 (Transportation Entry and Manifest of Goods Subject to CBP Inspection and Permit) in 5 copies or on CBP Form 7501, or its electronic equivalent, in 3 copies for merchandise being exported under cover of a TIR carnet. CBP Form 7512 or CBP Form 7501 must contain all of the statistical information as provided in § 141.61(e) of this chapter. The port director may require an extra copy or copies of CBP Form 7512 or 7501 for use in connection with the delivery of merchandise to the carrier.
 
 (b) *Procedure for indirect exportation* - (1) *Forwarding.* Merchandise withdrawn for indirect exportation (transportation and exportation) must be forwarded to the port of exportation in accordance with the general provisions for transportation in bond (§§ 18.1-18.8 of this chapter).

@@ -1,0 +1,3 @@
+##### § 95.2741 MURS antenna height limit. #####
+
+The highest point of any MURS station antenna must not be more than 18.3 meters (60 feet) above the ground or 6.10 meters (20 feet) above the highest point of the structure on which it is mounted. MURS station antennas must also meet the requirements in § 95.317 regarding menaces to air navigation. *See* 47 CFR 95.317 and consult part 17 of the FCC's Rules for more information (47 CFR part 17).

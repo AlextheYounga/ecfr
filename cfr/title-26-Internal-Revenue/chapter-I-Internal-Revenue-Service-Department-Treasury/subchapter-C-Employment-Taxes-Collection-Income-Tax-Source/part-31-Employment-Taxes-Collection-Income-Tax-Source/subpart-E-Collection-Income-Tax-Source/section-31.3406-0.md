@@ -252,7 +252,7 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (2) Exceptions.
 
-(i) [Reserved.]
+(i) [Reserved]
 
 (j) Penalties.
 
@@ -276,7 +276,7 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (2) Manner required for furnishing a taxpayer identification number with respect to a post-1983 brokerage account.
 
-(d) Rents, commissions, nonemployee compensation, and certain fishing boat operators, etc. - Manner required for furnishing a taxpayer identification number.
+(d) Rents, commissions, nonemployee compensation, and certain fishing boat operators, etc.—Manner required for furnishing a taxpayer identification number.
 
 § 31.3406(d)-2 Payee certification failure.
 
@@ -450,6 +450,8 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (g) Certain gross proceeds.
 
+(h) *Applicability date.*
+
 § 31.3406(g)-3 Exemption while payee is waiting for a taxpayer identification number.
 
 (a) In general.
@@ -560,4 +562,4 @@ This section lists paragraphs contained in §§ 31.3406(a)-1 through 31.3406(i)-
 
 (h) Cross references.
 
-§ 31.3406(i)-1 Effective date.[T.D. 8637, 60 FR 66112, Dec. 21, 1995, as amended by T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9010, 67 FR 48759, July 26, 2002; T.D. 9496, 75 FR 49834, Aug. 16, 2010]
+§ 31.3406(i)-1 Effective date.[T.D. 8637, 60 FR 66112, Dec. 21, 1995, as amended by T.D. 8734, 62 FR 53493, Oct. 14, 1997; T.D. 9010, 67 FR 48759, July 26, 2002; T.D. 9496, 75 FR 49834, Aug. 16, 2010; T.D. 9824, 82 FR 44929, Sept. 27, 2017]

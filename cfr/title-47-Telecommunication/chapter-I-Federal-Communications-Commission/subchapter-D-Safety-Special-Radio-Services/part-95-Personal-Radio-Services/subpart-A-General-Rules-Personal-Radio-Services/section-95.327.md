@@ -1,0 +1,3 @@
+##### § 95.327 Restricted operation. #####
+
+The FCC may deny or restrict the use by any operator(s) of any specified channel(s) in a specified geographic area if, in the judgment of the FCC, such use is not in the public interest. Furthermore, the FCC may restrict the use by any particular operator(s) of any channel as to geographical area of operation, transmitting power, or other operating conditions.

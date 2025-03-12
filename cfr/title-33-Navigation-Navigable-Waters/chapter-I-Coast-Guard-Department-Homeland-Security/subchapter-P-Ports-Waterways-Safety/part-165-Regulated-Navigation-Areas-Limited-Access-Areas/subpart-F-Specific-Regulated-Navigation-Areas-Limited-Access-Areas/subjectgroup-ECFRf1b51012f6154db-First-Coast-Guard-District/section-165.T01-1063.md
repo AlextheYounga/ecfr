@@ -18,4 +18,4 @@
 
 (d) *Notification.* The Coast Guard will rely on the methods described in 33 CFR 165.7 to notify the public of the time and duration of any closure of the RNA. Violations of this RNA may be reported to the COTP at 718-354-4353 or on VHF-Channel 16.
 
-Effective Date Note:By USCG-2013-1063, 80 FR 831, Jan. 7, 2015, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015, temporary § 165.T01-1063 was added, effective from Jan. 7, 2015, until Oct. 31, 2018.
+Effective Date Note:By USCG-2013-1063, 80 FR 831, Jan. 7, 2015, as amended by USCG-2015-0433, 80 FR 44283, July 27, 2015, temporary § 165.T01-1063 was added, effective from Jan. 7, 2015, to Oct. 31, 2018.

@@ -1,5 +1,7 @@
 ##### § 143.1 Eligibility. #####
 
+Link to an amendment published at 82 FR 45406, Sept. 28, 2017.
+
 The Automated Broker Interface (ABI) allows participants to transmit data electronically to CBP through ABI and to receive transmissions from Automated Commercial Environment (ACE) or any other CBP-authorized electronic data interchange system. Its purposes are to improve administrative efficiency, enhance enforcement of customs and related laws, lower costs and expedite the release of cargo.
 
 (a) *Participants for entry and entry summary purposes.* Participants in ABI for the purposes of transmitting data relating to entry and entry summary may be:

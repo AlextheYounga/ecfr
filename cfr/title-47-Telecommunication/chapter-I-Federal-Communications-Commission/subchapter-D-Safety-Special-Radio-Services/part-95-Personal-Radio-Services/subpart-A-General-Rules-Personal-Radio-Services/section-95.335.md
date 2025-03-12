@@ -1,0 +1,9 @@
+##### § 95.335 Operation of non-certified transmitters prohibited. #####
+
+Except as provided in paragraph (a) of this section, no person shall operate a transmitter in any Personal Radio Service unless it is a certified transmitter; that is, a transmitter of a type which has obtained a grant of equipment certification for that service, pursuant to part 2, subpart J of this chapter. Use of a transmitter that is not FCC-certified voids the user's authority to operate that station. *See* sections 302(a), (b), and (e) of the Communications Act (47 U.S.C. 302(a), (b), and (e)).
+
+(a) *Exceptions.* Under certain exceptions, non-certified Personal Radio Service transmitters, or transmitters certified for use in the land mobile radio services may be operated. Any such exceptions applicable to stations in a Personal Radio Service are set forth in the subpart governing that specific service. *See e.g.,* §§ 95.735 and 95.1735.
+
+(b) *Revoked or withdrawn certification.* In the event that the FCC revokes or withdraws a grant of equipment certification for a type of Personal Radio Service transmitter, existing transmitters already in service may continue to be operated unless and until the FCC determines otherwise and gives Public Notice of that decision.
+
+(c) *Grantee permissible modifications.* Only the grantee of the equipment certification may modify the design of a certified Personal Radio Service transmitter type, and then only pursuant to and in full compliance with the requirements and procedures for permissible changes and modifications in part 2 of this chapter. *See* §§ 2.932 and 2.1043 of this chapter.

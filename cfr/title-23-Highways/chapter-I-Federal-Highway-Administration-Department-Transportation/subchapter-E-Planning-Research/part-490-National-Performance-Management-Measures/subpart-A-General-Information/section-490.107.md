@@ -121,5 +121,3 @@
 (C) An assessment of the progress of the projects identified in both paragraphs (c)(3)(ii)(C) and (c)(3)(iii)(D) of this section toward achieving the 4-year targets for these measures.
 
 (4) If an MPO elected to establish a quantifiable target, as provided in § 490.105(f)(3)(ii), for the GHG measure in § 490.507(b), then that MPO shall report a description of its measure calculation method to its State DOT in a manner that is documented and mutually agreed upon by both the State DOT and the MPO.
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendments to § 490.107(b)(1)(ii)(H), (b)(2)(ii)(J), (b)(3)(ii)(I), and (c)(4) was delayed indefinitely.

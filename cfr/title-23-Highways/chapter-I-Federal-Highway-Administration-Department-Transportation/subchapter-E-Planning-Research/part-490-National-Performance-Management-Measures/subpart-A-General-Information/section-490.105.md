@@ -225,5 +225,3 @@
 (8) *Target adjustment.* If the MPO establishes its target by committing to a quantifiable target, described in paragraph (f)(3)(ii) of this section or establishes target(s) for the Total Emissions Reduction measure required in paragraph (f)(6)(iii) of this section, then the MPOs may adjust its target(s) in a manner that is collectively developed, documented, and mutually agreed upon by the State DOT and MPO. Any adjustments made to 4-year targets, established for CMAQ Traffic Congestion measures in paragraph (f)(5)(i) or (ii) of this section, shall be collectively developed and agreed upon by all State DOTs and MPOs that include any portion of the NHS in the respective urbanized area applicable to the measure.
 
 (9) *Reporting.* The MPOs shall report targets and progress toward the achievement of their targets as specified in § 490.107(c). After the MPOs establish or adjust their targets, the relevant State DOT(s) must be able to provide these targets to FHWA upon request.
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendments to § 490.105(c)(5) and (d)(1)(v) was delayed indefinitely.

@@ -1,5 +1,7 @@
 ##### § 122.92 Procedure at port of origin. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Forms required* - (1) *Customs Form 7512 or other document.* Customs Form 7512 or other Customs approved documents, such as an air waybill (see paragraph (a)(3) of this section), shall be used for both entry and manifest. Three copies of the form or other document are required to be filed with Customs at the port of origin for merchandise for immediate transportation without appraisement. Four copies of the form or other document are required when merchandise for transportation and exportation is entered. (See also, §§ 18.11 and 18.20(a) of this chapter). Each copy shall be signed by the carrier or its authorized agent.
 
 (2) *Air Waybill.* An air waybill may be used for both entry and manifest. Three copies of the air waybill are required unless the port director deems additional copies necessary. Photocopies of the original air waybill are acceptable. Either preprinted stock air waybills or electronically generated air waybills may be used. The air waybill must:

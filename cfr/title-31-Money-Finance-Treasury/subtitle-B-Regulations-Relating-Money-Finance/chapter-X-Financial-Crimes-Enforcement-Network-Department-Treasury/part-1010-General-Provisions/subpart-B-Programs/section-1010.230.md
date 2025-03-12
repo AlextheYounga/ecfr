@@ -106,4 +106,4 @@ The number of individuals that satisfy the definition of “beneficial owner,”
 
 (3) The other financial institution enters into a contract requiring it to certify annually to the covered financial institution that it has implemented its anti-money laundering program, and that it will perform (or its agent will perform) the specified requirements of the covered financial institution's procedures to comply with the requirements of this section.
 
-![](/graphics/er11my16.021.gif)![](/graphics/er11my16.022.gif)![](/graphics/er11my16.023.gif)![](/graphics/er11my16.024.gif)[81 FR 29451, May 11, 2016]
+![](/graphics/er28se17.004.gif)![](/graphics/er28se17.005.gif)![](/graphics/er28se17.006.gif)![](/graphics/er28se17.007.gif)[81 FR 29451, May 11, 2016, as amended at 82 FR 45183, Sept. 28, 2017]

@@ -1,0 +1,3 @@
+##### § 95.381 Voice obscuring features. #####
+
+A grant of equipment certification will not be issued for any transmitter type that incorporates one or more voice scrambling or other obscuring features for any of the Personal Radio Services that provide for voice (telephony) communications on shared channels (*see* § 95.359), if the application for such grant is filed on or after December 27, 2017.

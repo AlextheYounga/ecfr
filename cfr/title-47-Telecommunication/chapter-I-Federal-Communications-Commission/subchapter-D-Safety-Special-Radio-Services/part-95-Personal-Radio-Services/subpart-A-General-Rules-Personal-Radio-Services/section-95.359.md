@@ -1,0 +1,3 @@
+##### § 95.359 Sharing of channels. #####
+
+Unless otherwise provided in the subparts governing the individual services, all channels designated for use in the Personal Radio Services are available for use on a shared basis, and are not assigned by the FCC for the exclusive use of any person or station. Operators of Personal Radio Service stations must cooperate in the selection and use of channels in order to avoid interference and make efficient use of these shared channels.

@@ -1,7 +1,5 @@
 ##### § 1.4000 Restrictions impairing reception of television broadcast signals, direct broadcast satellite services or multichannel multipoint distribution services. #####
 
-Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
-
 (a)(1) Any restriction, including but not limited to any state or local law or regulation, including zoning, land-use, or building regulations, or any private covenant, contract provision, lease provision, homeowners' association rule or similar restriction, on property within the exclusive use or control of the antenna user where the user has a direct or indirect ownership or leasehold interest in the property that impairs the installation, maintenance, or use of:
 
 (i) An antenna that is:
@@ -20,7 +18,7 @@ Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
 
 (iv) A mast supporting an antenna described in paragraphs (a)(1)(i), (a)(1)(ii), or (a)(1)(iii) of this section; is prohibited to the extent it so impairs, subject to paragraph (b) of this section.
 
-(2) For purposes of this section, “fixed wireless signals” means any commercial non-broadcast communications signals transmitted via wireless technology to and/or from a fixed customer location. Fixed wireless signals do not include, among other things, AM radio, FM radio, amateur (“HAM”) radio, Citizen's Band (CB) radio, and Digital Audio Radio Service (DARS) signals.
+(2) For purposes of this section, “fixed wireless signals” means any commercial non-broadcast communications signals transmitted via wireless technology to and/or from a fixed customer location. Fixed wireless signals do not include, among other things, AM radio, FM radio, amateur (“HAM”) radio, CB radio, and Digital Audio Radio Service (DARS) signals.
 
 (3) For purposes of this section, a law, regulation, or restriction impairs installation, maintenance, or use of an antenna if it:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
 
 (h) All allegations of fact contained in petitions and related pleadings before the Commission must be supported by affidavit of a person or persons with actual knowledge thereof. An original and two copies of all petitions and pleadings should be addressed to the Secretary, Federal Communications Commission, 445 12th Street, SW, Washington, DC 20554. Copies of the petitions and related pleadings will be available for public inspection in the Reference Information Center, Consumer and Governmental Affairs Bureau, Federal Communications Commission, 445 12th Street, SW, Washington, DC 20554. Copies will be available for purchase from the Commission's contract copy center, and the Commission decisions will be available on the Internet.
 
-[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002]
+[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002; 82 FR 41103, Aug. 29, 2017]

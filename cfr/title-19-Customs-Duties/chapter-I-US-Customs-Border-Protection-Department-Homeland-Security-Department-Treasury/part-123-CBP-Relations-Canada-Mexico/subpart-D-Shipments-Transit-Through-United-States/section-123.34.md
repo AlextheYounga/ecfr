@@ -1,5 +1,7 @@
 ##### § 123.34 Certain vehicle and vessel shipments. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 In the following circumstances, the copy of Customs Form 7512 to be retained at the port of first arrival may be adapted for use as a combined inward foreign manifest and in-bond transportation or direct exportation entry:
 
 (a) When all the merchandise arriving on one vehicle (except on trucks on the Canadian border) is to move in bond in the importing vehicle in a continuing movement through the United States; or

@@ -1,5 +1,7 @@
 ##### § 146.62 Entry. #####
 
+Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
+
 (a) *General.* Entry for foreign merchandise which is to be transferred from a zone, or removed from a zone for exportation or transportation to another port, for consumption or warehouse, will be made on Customs Form 7512, Customs Form 3461, Customs Form 7501, or other applicable Customs forms, or their electronic equivalents. If entry is made on Customs Form 3461, the person making entry shall file an entry summary for all the merchandise covered by the Customs Form 3461 within 10 working days after the time of entry.
 
 (b) *Documentation.* (1) Customs Form 7501, or its electronic equivalent, or the entry summary will be accompanied by the entry documentation, including invoices as provided in parts 141 and 142 of this chapter. The person with the right to make entry shall submit any other supporting documents required by law or regulations that relate to the transferred merchandise and provide the information necessary to support the admissibility, the declared values, quantity, and classification of the merchandise. If the declared values are predicated on estimates or estimated costs, that information must be clearly stated in writing at the time an entry or entry summary is filed.

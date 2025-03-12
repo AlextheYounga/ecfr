@@ -9,5 +9,3 @@ There are three performance measures to assess the performance of the Interstate
 (2) Percent of person-miles traveled on the non-Interstate NHS that are reliable (referred to as the Non-Interstate Travel Time Reliability measure).
 
 (b) One measure is used to assess GHG emissions, which is the percent change in tailpipe CO2 emissions on the NHS compared to the calendar year 2017 level (referred to as the GHG measure).
-
-Effective Date Note:At 82 FR 22879, May 19, 2017, the effective date of the amendment to § 490.507(b) was delayed indefinitely.

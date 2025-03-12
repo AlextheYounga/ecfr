@@ -1,5 +1,7 @@
 ##### § 122.120 Transportation to another port for exportation. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Application.* Air cargo may be transferred as transit air cargo at the port of arrival for transportation to another port in the U.S. and later exportation under this section.
 
 (b) *Supervision* - (1) *From port of arrival to exportation port.* The director of the port of arrival shall order any supervision found necessary for the transfer of transit air cargo for transportation to another port for export.

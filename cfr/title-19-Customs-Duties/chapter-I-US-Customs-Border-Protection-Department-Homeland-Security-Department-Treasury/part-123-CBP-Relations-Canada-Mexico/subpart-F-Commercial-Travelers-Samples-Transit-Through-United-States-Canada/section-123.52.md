@@ -1,5 +1,7 @@
 ##### § 123.52 Commercial samples transported by automobile through the United States between ports in Canada. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *General provisions.* A commercial traveler arriving from Canada may be permitted to transport effectively corded and sealed samples in his automobile without further sealing in the United States, upon compliance with this section and subject to the conditions of § 18.20(b), since Customs bonded carriers as described in § 18.1 of this chapter are not considered to be reasonably available. Samples having a total value of not more than $200 may be carried by a nonresident commercial traveler through the United States without cording and sealing and without an in-transit manifest in accordance with § 148.41 of this chapter.
 
 (b) *Presentation of sample list at Canadian port of exit.* A commercial traveler arriving from Canada desiring to transport without display in the United States commercial samples in his automobile through the United States to another port in Canada, may present his samples to a Canadian Customs officer at the Canadian port of exit. The traveler will be required to furnish the Canadian Customs officer a list in duplicate of all articles presented showing their approximate values. The list shall bear the traveler's name and address, and the name and address of the firm represented.

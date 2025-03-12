@@ -1,0 +1,3 @@
+##### § 95.363 Channels available for use. #####
+
+Operators of Personal Radio Stations may transmit only on the channels or frequency bands designated for the specific Personal Radio Service being used, as listed in the individual subpart governing that service. Transmissions on any channel or frequency not designated for the service being used constitutes a violation of section 301 of the Communications Act (47 U.S.C. 301).

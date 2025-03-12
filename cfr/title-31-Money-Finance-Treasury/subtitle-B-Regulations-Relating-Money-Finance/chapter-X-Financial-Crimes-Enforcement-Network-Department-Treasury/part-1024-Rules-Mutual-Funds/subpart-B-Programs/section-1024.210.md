@@ -10,10 +10,12 @@
 
 (3) Designate a person or persons responsible for implementing and monitoring the operations and internal controls of the program;
 
-(4) Implement appropriate risk-based procedures for conducting ongoing customer due diligence, to include, but not be limited to:
+(4) Provide ongoing training for appropriate persons; and
+
+(5) Implement appropriate risk-based procedures for conducting ongoing customer due diligence, to include, but not be limited to:
 
 (i) Understanding the nature and purpose of customer relationships for the purpose of developing a customer risk profile; and
 
-(ii) Conducting ongoing monitoring to identify and report suspicious transactions and, on a risk basis, to maintain and update customer information. For purposes of this paragraph (b)(4)(ii), customer information shall include information regarding the beneficial owners of legal entity customers (as defined in § 1010.230 of this chapter).
+(ii) Conducting ongoing monitoring to identify and report suspicious transactions and, on a risk basis, to maintain and update customer information. For purposes of this paragraph (b)(5)(ii), customer information shall include information regarding the beneficial owners of legal entity customers (as defined in § 1010.230 of this chapter).
 
-[81 FR 29457, May 11, 2016]
+[81 FR 29457, May 11, 2016, as amended at 82 FR 45187, Sept. 28, 2017]

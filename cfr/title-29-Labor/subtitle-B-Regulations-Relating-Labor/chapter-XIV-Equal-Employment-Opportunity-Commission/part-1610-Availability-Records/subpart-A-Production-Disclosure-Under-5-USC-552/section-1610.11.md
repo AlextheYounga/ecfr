@@ -6,9 +6,9 @@
 
 (2) An appeal ordinarily will not be adjudicated if the request becomes a matter of FOIA litigation.
 
-(c) *Decisions on appeals.* The Commission must provide its decision on an appeal in writing. A decision that upholds the Commission's determination in whole or in part must contain a statement that identifies the reasons for the affirmance, including any FOIA exemptions applied. The decision must provide the requester with notification of the statutory right to file a lawsuit and will inform the requester of the mediation services offered by the Office of Government Information Services of the National Archives and Records Administration as a non-exclusive alternative to litigation. If the Commission's decision is remanded or modified on appeal, the Commission will notify the requester of that determination in writing. The Commission will then further process the request in accordance with that appeal determination and will respond directly to the requester.
+(c) *Decisions on appeals.* The Commission must provide its decision on an appeal in writing. A decision that upholds the Commission's determination in whole or in part must contain a statement that identifies the reasons for the affirmance, including any FOIA exemptions applied. The decision must provide the requester with notification of the statutory right to file a lawsuit and will inform the requester of the dispute resolution services offered by the Office of Government Information Services of the National Archives and Records Administration as a non-exclusive alternative to litigation. If the Commission's decision is remanded or modified on appeal, the Commission will notify the requester of that determination in writing. The Commission will then further process the request in accordance with that appeal determination and will respond directly to the requester.
 
-(d) *Engaging in dispute resolution services provided by OGIS.* Mediation is a voluntary process. If the Commission agrees to participate in the mediation services provided by OGIS, it will actively engage as a partner to the process in an attempt to resolve the dispute.
+(d) *Engaging in dispute resolution services provided by OGIS.* Dispute resolution is a voluntary process. If the Commission agrees to participate in the dispute resolution services provided by OGIS, it will actively engage as a partner to the process in an attempt to resolve the dispute.
 
 (e) *When appeal is required.* Before seeking review by a court of the Commission's adverse determination, a requester generally must first submit a timely administrative appeal.
 
@@ -18,4 +18,4 @@
 
 (h) In the event that the Commission terminates its proceedings on a charge after the District Director or the District Director's designee denies a request, in whole or in part, for the charge file but during consideration of the requester's appeal from that denial, the request may be remanded for redetermination. The requester retains a right to appeal to the Assistant Legal Counsel, FOIA Programs, from the decision on remand.
 
-[78 FR 36652, June 19, 2013, as amended at 81 FR 95874, Dec. 29, 2016]
+[78 FR 36652, June 19, 2013, as amended at 81 FR 95874, Dec. 29, 2016; 82 FR 45182, Sept. 28, 2017]

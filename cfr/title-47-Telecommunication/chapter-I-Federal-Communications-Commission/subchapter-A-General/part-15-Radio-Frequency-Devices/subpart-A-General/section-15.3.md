@@ -1,7 +1,5 @@
 ##### § 15.3 Definitions. #####
 
-Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
-
 (a) *Auditory assistance device.* An intentional radiator used to provide auditory assistance communications (including but not limited to applications such as assistive listening, auricular training, audio description for the blind, and simultaneous language translation) for:
 
 (1) Persons with disabilities: In the context of part 15 rules (47 CFR part 15), the term “disability,” with respect to the individual, has the meaning given to it by section 3(2)(A) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102(2)(A)), *i.e.,* a physical or mental impairment that substantially limits one or more of the major life activities of such individuals;
@@ -20,7 +18,15 @@ Link to an amendment published at 82 FR 41103, Aug. 29, 2017.
 
 (f) *Carrier current system.* A system, or part of a system, that transmits radio frequency energy by conduction over the electric power lines. A carrier current system can be designed such that the signals are received by conduction directly from connection to the electric power lines (unintentional radiator) or the signals are received over-the-air due to radiation of the radio frequency signals from the electric power lines (intentional radiator).
 
-(g) *CB receiver.* Any receiver that operates in the Personal Radio Services on frequencies allocated for Citizens Band (CB) Radio Service stations, as well as any receiver provided with a separate band specifically designed to receive the transmissions of CB stations in the Personal Radio Services. This includes the following: (1) A CB receiver sold as a separate unit of equipment; (2) the receiver section of a CB transceiver; (3) a converter to be used with any receiver for the purpose of receiving CB transmissions; and, (4) a multiband receiver that includes a band labelled “CB” or “11-meter” in which such band can be separately selected, except that an Amateur Radio Service receiver that was manufactured prior to January 1, 1960, and which includes an 11-meter band shall not be considered to be a CB receiver.
+(g) *CB receiver.* Any receiver that operates in the Personal Radio Services on frequencies designated for CB Radio Service stations, as well as any receiver provided with a separate band specifically designed to receive the transmissions of CB stations in the Personal Radio Services. This includes the following:
+
+(1) A CB receiver sold as a separate unit of equipment;
+
+(2) The receiver section of a CB transceiver;
+
+(3) A converter to be used with any receiver for the purpose of receiving CB transmissions; and
+
+(4) A multiband receiver that includes a band labelled “CB” or “11-meter” in which such band can be separately selected, except that an Amateur Radio Service receiver that was manufactured prior to January 1, 1960, and which includes an 11-meter band shall not be considered to be a CB receiver.
 
 (h) *Class A digital device.* A digital device that is marketed for use in a commercial, industrial or business environment, exclusive of a device which is marketed for use by the general public or is intended to be used in the home.
 
@@ -104,4 +110,4 @@ If the responsible party can demonstrate that because of price or performance th
 
 (ii) *Level Probing Radar (LPR):* A short-range radar transmitter used in a wide range of applications to measure the amount of various substances, mostly liquids or granulates. LPR equipment may operate in open-air environments or inside an enclosure containing the substance being measured.
 
-[54 FR 17714, Apr. 25, 1989, as amended at 55 FR 18340, May 2, 1990; 57 FR 33448, July 29, 1992; 59 FR 25340, May 16, 1994; 61 FR 31048, June 19, 1996; 62 FR 26242, May 13, 1997; 64 FR 22561, Apr. 27, 1999; 65 FR 64391, Oct. 27, 2000; 66 FR 32582, June 15, 2001; 67 FR 48993, July 29, 2002; 70 FR 1373, Jan. 7, 2005; 76 FR 71907, Nov. 21, 2011; 78 FR 34927, June 11, 2013; 79 FR 12677, Mar. 6, 2014]
+[54 FR 17714, Apr. 25, 1989, as amended at 55 FR 18340, May 2, 1990; 57 FR 33448, July 29, 1992; 59 FR 25340, May 16, 1994; 61 FR 31048, June 19, 1996; 62 FR 26242, May 13, 1997; 64 FR 22561, Apr. 27, 1999; 65 FR 64391, Oct. 27, 2000; 66 FR 32582, June 15, 2001; 67 FR 48993, July 29, 2002; 70 FR 1373, Jan. 7, 2005; 76 FR 71907, Nov. 21, 2011; 78 FR 34927, June 11, 2013; 79 FR 12677, Mar. 6, 2014; 82 FR 41103, Aug. 29, 2017]

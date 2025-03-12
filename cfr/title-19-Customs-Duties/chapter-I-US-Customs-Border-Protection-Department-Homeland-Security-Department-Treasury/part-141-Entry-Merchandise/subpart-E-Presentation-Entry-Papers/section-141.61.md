@@ -1,5 +1,7 @@
 ##### § 141.61 Completion of entry and entry summary documentation. #####
 
+Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
+
 (a) *Preparation* - (1) *Paper entry and entry summary documentation.* Except when entry and entry summary documentation is filed with CBP electronically pursuant to the provisions of part 143 of this chapter:
 
 (i) Such documentation must be prepared on a typewriter (keyboard), or with ink, indelible pencil, or other permanent medium, and all copies must be legible;
