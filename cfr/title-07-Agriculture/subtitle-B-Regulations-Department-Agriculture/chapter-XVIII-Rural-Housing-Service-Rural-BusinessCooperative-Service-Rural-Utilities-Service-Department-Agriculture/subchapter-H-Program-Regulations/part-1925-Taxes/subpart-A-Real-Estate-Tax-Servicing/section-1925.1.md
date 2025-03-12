@@ -1,0 +1,5 @@
+##### § 1925.1 General. #####
+
+This Instruction applies to borrowers with Rural Rental Housing (RRH), Rural Cooperative Housing (RCH), Labor Housing (LH),and Non-Program (NP) loans secured by real estate. It also applies to section 502 and section 504 Rural Housing borrowers (Single Family Housing (SFH)) who also have a Farmer Program loan. It does not apply to borrowers who have a SFH loan only; those will be serviced under 7 CFR part 3550. Borrowers are responsible for paying taxes on the real estate security to the proper taxing authorities before taxes become delinquent. This obligation is set forth in the security instrument securing the loan. This subpart is inapplicable to Farm Service Agency, Farm Loan Programs.
+
+[57 FR 36590, Aug. 14, 1992, as amended at 67 FR 78327, Dec. 24, 2002; 72 FR 64122, Nov. 15, 2007]

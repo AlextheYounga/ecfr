@@ -1,0 +1,3 @@
+##### § 1951.225 Liquidation of security. #####
+
+When the District Director believes that continued servicing will not accomplish the objectives of the loan, he or she will complete Exhibit A of this subpart (available in any Rural Development office), and submit it with the District Office file to the State Office. If the State Director determines the account should be liquidated, he or she will encourage the borrower to dispose of the Rural Development security voluntarily through a sale or transfer and assumption, and establish a specified period, not to exceed 180 days, to accomplish the action. If a transfer or voluntary sale is not carried out, the loan will be liquidated according to subpart A of part 1955 of this chapter.

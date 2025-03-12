@@ -1,0 +1,3 @@
+##### § 1980.1201 Purpose. #####
+
+This subpart establishes policies and procedures for the review, approval and servicing of projects authorized to use funding for broadband and smart utility facilities (Special Broadband Authority) in select Rural Development programs. This special broadband authority will leverage the federal resources available for the deployment broadband services in rural areas. The Secretary has discretion to allow recipients of RD grants, loans, or loan guarantees to use a limited amount of funds for broadband purposes.

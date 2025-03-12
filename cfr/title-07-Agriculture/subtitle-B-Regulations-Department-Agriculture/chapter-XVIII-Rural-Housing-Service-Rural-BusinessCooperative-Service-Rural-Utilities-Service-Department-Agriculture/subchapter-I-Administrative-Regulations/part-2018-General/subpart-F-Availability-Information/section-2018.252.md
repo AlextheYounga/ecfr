@@ -1,0 +1,3 @@
+##### § 2018.252 Public inspection and copying. #####
+
+Facilities for inspection and copying are provided by the Freedom of Information Officer (FOIO) in the National Office, by the State Director in each State Office, by the Rural Development Manager (formerly, District Director) in each District Office, and by the Community Development Manager (formerly, County Supervisor) in each County Office. A person requesting information may inspect such materials and, upon payment of applicable fees, obtain copies. Material may be reviewed during regular business hours. If any of the Rural Development materials requested are not located at the office to which the request was made, the request will be referred to the office where such materials are available.

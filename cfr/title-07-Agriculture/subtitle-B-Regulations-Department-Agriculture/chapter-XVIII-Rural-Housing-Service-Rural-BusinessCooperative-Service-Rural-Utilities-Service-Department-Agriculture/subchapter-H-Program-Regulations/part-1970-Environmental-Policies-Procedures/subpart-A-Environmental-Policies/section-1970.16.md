@@ -1,0 +1,7 @@
+##### § 1970.16 Mitigation. #####
+
+(a) The goal of mitigation is to avoid, minimize, rectify, reduce, or compensate for the adverse environmental impacts of an action. The Agency will seek to mitigate potential adverse environmental impacts resulting from Agency actions. All mitigation measures will be included in Agency commitment or decision documents.
+
+(b) Mitigation measures, where necessary for a FONSI or a ROD, will be discussed with the applicant and with any other relevant agency and, to the extent practicable, incorporated into Agency commitment documents, plans and specifications, and construction contracts so as to be legally binding.
+
+(c) The Agency, applicable lenders, or any intermediaries will monitor implementation of all mitigation measures during development of design, final plans, inspections during the construction phase of projects, as well as in future servicing visits. The Agency will direct applicants to take necessary measures to bring the project into compliance. If the applicant fails to achieve compliance, all advancement of funds and the approval of cost reimbursements will be suspended. Other measures may be taken by the Agency to redress the failed mitigation as appropriate.

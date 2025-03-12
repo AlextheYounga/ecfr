@@ -1,0 +1,3 @@
+##### § 1924.3 Authorities and responsibilities. #####
+
+The County Supervisor and District Director are authorized to redelegate, in writing, any authority delegated to them in this subpart to the Assistant County Supervisor and Assistant District Director, respectively, when determined to be qualified. Agency Construction Inspectors, District Loan Assistants, and County Office Assistants are authorized to perform duties under this subpart as authorized in their job descriptions.

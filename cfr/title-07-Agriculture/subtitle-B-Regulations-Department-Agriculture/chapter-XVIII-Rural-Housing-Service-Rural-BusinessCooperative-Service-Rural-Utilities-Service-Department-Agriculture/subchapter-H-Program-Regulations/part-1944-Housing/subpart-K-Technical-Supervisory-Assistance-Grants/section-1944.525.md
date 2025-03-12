@@ -1,0 +1,5 @@
+##### § 1944.525 Targeting of TSA funds to States. #####
+
+(a) The Administrator will determine, based on the most current available information (generally that information used to determine the allocation to States of Rural Development housing loan funds), those States with the highest degree of substandard housing and persons in poverty in rural areas eligible to receive Rural Development housing assistance. The Administrator will distribute a portion of the available funds for TSA to these States, leaving the balance available for national competition.
+
+(b) The Administrator will provide annual notice through a published Notice on the distribution of appropriated TSA funds, the number of preapplications to be submitted to the National Office from the State Offices, and the maximum grant amount per project.

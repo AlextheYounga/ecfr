@@ -1,0 +1,9 @@
+##### § 1924.108 Grading and drainage. #####
+
+(a) *General.* Soil and geologic conditions must be suitable for the type of construction proposed. In questionable or unsurveyed areas, the applicant or developer will provide an engineering report with supporting data sufficient to identify all pertinent subsurface conditions which could adversely affect the structure and show proposed solutions. Grading will promote drainage of surface water away from buildings and foundations, minimize earth settlement and erosion, and assure that drainage from adjacent properties onto the development or from the development to adjacent properties does not create a health hazard or other undesirable conditions. Grading and drainage will comply with exhibit B, paragraphs III and IV, of this subpart.
+
+(b) *Cuts and fills.* Development requiring extensive earthwork, cuts and fills of 4 feet or more shall be designed by a professional engineer. Where topography requires fills or extensive earthwork that must support structures and building foundations, these must be controlled fills designed, supervised, and tested by a qualified soils engineer.
+
+(c) *Slope protection.* All slopes must be protected from erosion by planting or other means. Slopes may require temporary cover if exposed for long periods during construction.
+
+(d) *Storm water systems.* The design of storm water systems must consider convenience and property protection both at the individual site level and the drainage basin level. Storm water systems should be compatible with the natural features of the site. In areas with inadequate drainage systems, permanent or temporary storm water storage shall be an integral part of the overall development plan. Design of these facilities shall consider safety, appearance, and economical maintenance operations.

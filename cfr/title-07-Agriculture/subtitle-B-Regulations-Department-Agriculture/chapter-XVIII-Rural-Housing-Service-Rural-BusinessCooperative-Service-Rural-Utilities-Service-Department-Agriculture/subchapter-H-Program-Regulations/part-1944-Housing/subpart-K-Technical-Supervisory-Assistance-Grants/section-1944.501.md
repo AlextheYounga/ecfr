@@ -1,0 +1,7 @@
+##### § 1944.501 General. #####
+
+(a) This subpart sets forth the policies and procedures for making grants under section 525(a) of the Housing Act of 1949, 42 U.S.C. 1490e(a), to provide funds to eligible applicants to conduct programs of technical and supervisory assistance (TSA) for low-income rural residents to obtain and/or maintain occupancy of adequate housing. Any processing or servicing activity conducted pursuant to this subpart involving authorized assistance to Rural Development employees, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this chapter. Applicants for this assistance are required to identify any known relationship or association with a Rural Development employee. This financial assistance may pay part or all of the cost of developing, conducting, administering, or coordinating effective and comprehensive programs of technical and supervisory assistance which will aid needy low-income individuals and families in benefiting from federal, state, and local programs in rural areas.
+
+(b) Rural Development will provide technical and supervisory grant assistance to applicants without discrimination because of race, color, religion, sex, national origin, age, marital status, or physical or mental handicap.
+
+[44 FR 36891, June 22, 1979, as amended at 58 FR 228, Jan. 5, 1993]

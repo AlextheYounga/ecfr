@@ -1,0 +1,15 @@
+##### § 1806.22 Areas of responsibility. #####
+
+(a) *Federal Insurance Administration* (*FIA*). (1) Identify and publish information with respect to all areas in the country which are subject to floods and mudslides and designate those areas on Flood Hazard Boundary maps.
+
+(2) Notify affected communities of their designations and encourage them to adopt and enforce land use and other control measures and to adopt ordinances or laws which will regulate and control construction in areas designated as having special flood or mudslide hazards.
+
+(3) Make flood insurance available at reasonable rates in sufficient amounts, within the statutory limits, to adequately protect owners against loss to their buildings and contents when those buildings are located in or will be located in designated special flood and mudslide prone areas in communities participating in the National Flood Insurance Program.
+
+(b) *The Agency.* The State Director, after being notified by the National Office or FIA of designated flood or mudslide hazard areas and receiving flood hazard boundary maps identifying the hazard areas, FIA insurance rate charts, or other information concerning the program, will inform the appropriate County Supervisors and provide them the maps, rate charts, and other relevant information concerning the program in areas they serve. Permanent records indicating the date a community was notified as containing identified flood hazard areas, communities participating in the program, and communities eligible to participate but not participating in the program will be maintained in the State Office. County Supervisors will notify, in writing, those borrowers whose insurable buildings are located in designated flood or mudslide hazard areas of the availability of national flood insurance and encourage them to obtain flood insurance to protect their and the Government's financial interest.
+
+(c) *Community.* Communities are required to participate in the National Flood Insurance Program within 1 year after notification of its formal identification as a community containing one or more special flood and mudslide prone areas, or by July 1, 1975, whichever is later, or be denied Federal financial assistance or Federally-related financial assistance for acquisition or construction purposes in such areas. Communities wishing to qualify for the program may submit a completed application to: Administrator, Federal Insurance Administration, Department of Housing and Urban Development, 451 Seventh Street, SW., Washington, DC 20410.
+
+(d) *Lender.* The lender must determine whether real property is located in an area identified as having special flood or mudslide hazards and cannot discharge the responsibility merely by obtaining a self-certification from the applicant that the property is not located in an area having special flood hazards.
+
+[39 FR 17093, May 13, 1974, as amended at 80 FR 9865, Feb. 24, 2015]

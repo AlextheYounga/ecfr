@@ -1,0 +1,13 @@
+##### § 1955.123 Sale procedures (chattel). #####
+
+(a) *Credit sales.* Although cash sales are preferred in the sale of chattel, credit sales may be used advantageously in the sale of chattels to eligible purchasers and to facilitate sales of high-priced chattels. Credit sales to eligible purchasers will be in accordance with the provisions of this chapter for the appropriate program for which a loan would otherwise be made including eligibility determinations. Preference will be given to a cash offer that is at least \* percent of the higher offer requiring credit. [\*Refer to exhibit B of RD Instruction 440.1 (available in any Rural Development office) for the current percentage.] Credit sales made to ineligible purchasers will require not less than a 10 percent downpayment with the remaining balance amortized over a period not to exceed 5 years. The interest rate for ineligible purchasers of C&BP chattel will be the current ineligible interest rate for C&BP property set forth in Exhibit B of RD Instruction 440.1 (available in any Rural Development office). District Directors and State Directors are authorized to approve or disapprove sale of C&BP chattel on ineligible terms in accordance with the respective type of program approval authorities in Exhibit E of Subpart A of Part 1901 of this chapter (available in any Rural Development office). For other than C&BP, credit sales to NP purchasers will be handled in accordance with Subpart J of Part 1951 of this chapter.
+
+(b) *Receipt of payment.* Payment will be by cashier's check, certified check, postal or bank money order or personal check (not in excess of $500) made payable to the agency. Cash may be accepted if it is not possible for one of these forms of payment to be used. Third party checks are not acceptable. If full payment is not received at the time of sale, the offer will be documented by Form RD 1955-45 or Form RD 1955-46 where the chattel is sold jointly with real estate by regular sale.
+
+(c) *Transfer of title.* Title will be transferred to a purchaser in accordance with § 1955.141(b) of this subpart.
+
+(d) *Reporting sale.* Sales will be reported in accordance with § 1955.142 of this subpart.
+
+(e) *Reporting and disposal of inventory property not sold.* Refer to §§ 1955.143 and 1955.144 of this subpart for additional guidance in disposing of problem property.
+
+[50 FR 23904, June 7, 1985, as amended at 58 FR 52653, Oct. 12, 1993; 58 FR 58650, Nov. 3, 1993; 68 FR 61332, Oct. 28, 2003; 80 FR 9899, Feb. 24, 2015]

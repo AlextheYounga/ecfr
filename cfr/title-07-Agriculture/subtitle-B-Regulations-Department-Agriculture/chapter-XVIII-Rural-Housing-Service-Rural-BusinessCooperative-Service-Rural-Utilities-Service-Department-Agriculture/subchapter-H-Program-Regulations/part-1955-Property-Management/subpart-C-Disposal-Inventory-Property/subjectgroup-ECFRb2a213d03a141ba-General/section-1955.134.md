@@ -1,0 +1,7 @@
+##### § 1955.134 Loss, damage, or existing defects in inventory real property. #####
+
+(a) *Property under contract.* If a bid or offer has been accepted by the Rural Development and through no fault of either party, the property is lost or damaged as a result of fire, vandalism, or an act of God between the time of acceptance of the bid or offer and the time the title of the property is conveyed by Rural Development, FmHA or its successor agency under Public Law 103-354 will reappraise the property. The reappraised value of the property will serve as the amount Rural Development will accept from the purchaser. However, if the actual loss based on the reduction in market value of the property as determined by Rural Development is less than $500, payment of the full purchase price is required. In the event the two parties cannot agree upon an adjusted price, either party, by mailing notice in writing to the other, may terminate the contract of sale, and the bid deposit or earnest money, if any, will be returned to the offeror.
+
+(b) *Existing defects.* Rural Development does not provide any warranty on property sold from inventory. Subsequent loans may be made, in accordance with applicable loan making regulations for the respective loan program, to correct defects.
+
+[50 FR 23904, June 7, 1985, as amended at 53 FR 27837, July 25, 1988]

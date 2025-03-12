@@ -1,0 +1,5 @@
+##### § 1942.119 Professional services and borrower contracts. #####
+
+(a) Loans under this subpart are subject to the provisions of § 1942.17 (l) of subpart A of this part 1942.
+
+(b) The District Director will, with assistance as necessary by the State Director and OGC, concur in agreements between borrowers and third parties such as contracts for professional and technical services. The State Director may require State Office review of such documents in accordance with § 1942.108 (g) of this subpart. State Directors are expected to work closely with representatives of engineering and architectural societies, bar associations, commercial lenders, accountant associations, and others in developing standard forms of agreements, where needed, and other matters to expedite application processing, minimize referrals to OGC, and resolve problems which may arise. Standard forms should be reviewed by and approved by OGC.

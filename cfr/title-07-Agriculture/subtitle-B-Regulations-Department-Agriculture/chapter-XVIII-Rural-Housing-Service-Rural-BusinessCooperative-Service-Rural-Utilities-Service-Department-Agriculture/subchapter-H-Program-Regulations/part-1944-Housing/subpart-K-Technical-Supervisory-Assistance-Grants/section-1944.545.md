@@ -1,0 +1,3 @@
+##### § 1944.545 Additional grants. #####
+
+An additional grant may be made to an applicant that has previously received a TSA grant and has achieved or nearly achieved the goals established for the previous grant by submitting a new proposal for TSA funds. The additional grant application will be processed as if it were an initial application. Upon approval, a new grant agreement will be required and the grant will be coded as an initial grant on Form RD 1940-1.

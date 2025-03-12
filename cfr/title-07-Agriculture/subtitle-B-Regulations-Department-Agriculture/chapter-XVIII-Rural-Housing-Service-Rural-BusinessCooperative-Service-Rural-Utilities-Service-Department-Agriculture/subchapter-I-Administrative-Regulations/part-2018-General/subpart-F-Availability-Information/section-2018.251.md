@@ -1,0 +1,3 @@
+##### § 2018.251 General statement. #####
+
+In keeping with the spirit of the Freedom of Information Act (FOIA), the policy of Rural Development and its component agencies, Rural Housing Service (RHS), Rural Utilities Service (RUS), and Rural Business-Cooperative Service (RBS), governing access to information is one of nearly total availability, limited only by the countervailing policies recognized by the FOIA.

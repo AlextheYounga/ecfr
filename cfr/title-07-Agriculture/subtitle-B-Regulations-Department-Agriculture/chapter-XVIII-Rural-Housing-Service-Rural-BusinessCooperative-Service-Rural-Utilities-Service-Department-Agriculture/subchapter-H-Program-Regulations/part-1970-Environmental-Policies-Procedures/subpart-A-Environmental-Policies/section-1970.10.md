@@ -1,0 +1,3 @@
+##### § 1970.10 Raising the level of environmental review. #####
+
+Environmental conditions, scientific controversy, or other characteristics unique to a specific proposal can trigger the need for a higher level of environmental review than described in subparts B or C of this part. As appropriate, the Agency will determine whether extraordinary circumstances (see § 1970.52) or the potential for significant environmental impacts warrant a higher level of review. The Agency is solely responsible for determining the level of environmental review to be conducted and the adequacy of environmental review that has been performed.

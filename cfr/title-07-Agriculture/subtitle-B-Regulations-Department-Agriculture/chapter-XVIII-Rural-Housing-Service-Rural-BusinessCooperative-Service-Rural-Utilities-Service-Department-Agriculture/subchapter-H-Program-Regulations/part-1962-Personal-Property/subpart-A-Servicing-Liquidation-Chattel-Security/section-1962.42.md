@@ -1,0 +1,67 @@
+##### § 1962.42 Repossession, care, and sale of chattel security or EO property by the County Supervisor. #####
+
+(a) *Repossession.* Except as provided in paragraph (d) of this section, prior to any repossession of agency security a borrower and all cosigners on the note must receive exhibit A and attachments 1 and 2, or 1, 3 and 4 of subpart S of part 1951 of this chapter and the application forms. The appropriate procedures of subpart S of part 1951 of this chapter must be followed and any appeal must be concluded. The County Supervisor will take possession of security or EO property when the value of the property, based on appraisal, is substantially more than the estimated sale expenses and the amount of any prior lien, and if the prior lienholder does not intend to enforce the lien. See § 1955.20 of subpart A of part 1955 of this chapter.
+
+(1) *Conditions.* The County Supervisor will take possession under any of the following conditions:
+
+(i) When RD 455-4 has been executed. For EO property this form will be revised by placing a period after “interest” in the first sentence beginning “The Debtor” and deleting the remainder of that clause; deleting the words “collateral covered by the security instruments” in the second part of the sentence and inserting instead “property covered by the debtor's loan agreement which is referred to as the collateral.”
+
+(ii) When the borrower has abandoned the property.
+
+(iii) When peaceable possession can be obtained, but the borrower has not executed RD 455-4.
+
+(iv) When the property is delivered to the agency as a result of court action.
+
+(v) When Form RD 455-5, “Agreement of Secured Parties to Sale of SecurityProperty,” is executed by all prior lienholders. If prior lienholders will not agree to liquidate the property, their liens may be paid if their notes and liens are assigned to the agency on forms prepared or approved by OGC. When prior liens are paid, the payment will be made in accordance with RD Instruction 2024-A (available in any agency office) and charged to the borrower's account.
+
+(vi) When arrangements cannot be made with the borrower or a member of the borrower's family to sell EO property in accordance with the loan agreement.
+
+(2) *Recording.* A list, dated and signed by the servicing official, of all security or EO property repossessed except for those items on Form RD 455-4, will be maintained in the borrower's case file. Whenever the servicing official is transferred to another position or leaves the agency or there is a change in jurisdiction, the District Director will give the succeeding servicing official in writing, the names of such borrowers and a list of the property repossessed in the custody of the servicing official and caretakers, its location, and the names and addresses of the caretakers.
+
+(b) *Care.* The County Supervisor will arrange for the custody and care of repossessed property as follows:
+
+(1) *Livestock.* Care and feeding of livestock will be obtained by contract pursuant to subpart B of part 1955 of this chapter. The value of animal products (such as milk) may constitute all or part of the contractor's quotation, and if this is desired, such a statement should be included in the solicitation. Possession of the livestock will be turned over to the contractor only after the contract is awarded using Form AD-838, “Purchase Order.” If a contractor's services are needed for a longer period than is authorized in paragraph (c)(4)(i) of this section, the State Director may authorize the County Supervisor to continue obtaining the necessary services for the time needed.
+
+(2) *Machinery, equipment, tools, harvested crops, and other chattels.* Property will be stored and cared for pending sale. Storage and necessary services may be obtained by contract using Form AD-838. Use of property by the contractor is not authorized.
+
+(3) *Crops.* Form AD-838 will be used for obtaining services for the custody, care, and disposition of growing crops and for unharvested matured crops unless the crops are to be sold in place. Where a loanlord is involved, written consent of the landlord should be obtained. If landlord consent cannot be obtained, where applicable, the circumstances should be reported to the State Director for advice.
+
+(c) *Sale.* Repossessed property may be sold by Rural Development at public or private sale for cash under Form RD 455-4, “Agreement for Voluntary Liquidation of Chattel Security,” Form RD 1955-41, “Notice of Sale,” the power of sale in security agreements under the UCC, or in crop and chattel mortgages and similar instruments if authorized by a State supplement. Also, repossessed property may be sold at private sale when the borrower executes Form RD 455-11, “Bill of Sale ‘B’ (Sale by Private Party).”
+
+(1) *Tests and inspections of livestock.* If required by State law as a condition of sale, livestock will be tested or inspected before sale. A State supplement will be issued for those States.
+
+(2) *Public sales.* Such sales will be made to the highest bidder. They may be held on the borrower's farm or other premises, at public sale barns, pavilions, or at other advantageous sales locations. No Rural Development employee will bid on or acquire property at public sales except on behalf of FmHA or its successor agency under Public Law 103-354 in accordance with § 1955.20 of subpart A of part 1955 of this chapter. The County Supervisor will attend all public sales of repossessed property.
+
+(3) *Private sales.* Rural Development will sell perishable property such as fresh fruits and vegetables for the best price obtainable. Rural Development will sell staple crops such as when, rye, oats, corn, cotton, and tobacco for a price in line with current market quotations for products of similar grade, type, or other recognized classification. Chattel property sold under Form RD 455-4, other than perishable property and staple crops, will not be sold for less than the minimum price in the agreement. Rural Development will sell other property, including that sold when the borrower executes Form RD 455-11, for its present market value.
+
+(4) *Selling period.* Repossessed property will be sold as soon as possible. However, when notice is required by paragraph (c)(5) of this section, the sale will not be held until the notice period has expired.
+
+(i) The sale will be made within 60 days, unless a shorter period is indicated by a State supplement because of State law. Crops will be sold when the maximum return can be realized but not later than 60 days after harvesting, or the normal marketing time for such crops. The State Director may extend the sale time within State law limits.
+
+(ii) These requirements do not apply to irrigation or other equipment and fixtures which, together with real estate, serve as security for Rural Develoment real state loans and will be sold or transferred with the real estate. However, a State Supplement will be issued for any State having a time limit within which such items must be sold along with or as a part of the real estate.
+
+(5) *Notice.* (i) Notice of public or private sale of repossessed property when required will be given to the borrower and to any party who has filed a financing statement or who is known by the County Supervisor to have a security interest in the property, except as set forth below. The notice will be delivered or mailed so that it will reach the borrower and any lienholder at least 5 days (or longer time if specified by a State supplement) before the time of any public sale or the time after which any private sale will be held. Form RD 1955-41, “Notice of Sale,” may be used for public or private sales.
+
+(A) Notice of the borrower or lienholder is not required when the property is sold under Form RD 455-4 because the parties are placed on notice when they execute the form. When the sale involves only collateral which is perishable, will decline quickly in value, or is a type customarily sold on a recognized market, notice is not required but may be given if time permits to maintain good public relations.
+
+(B) Notice only to lienholder is required when repossessed property is sold at private sale and the borrower executes Form RD 455-11.
+
+(C) If the property is to be sold under a chattel mortgage, the manner of notice will be set forth in a State supplement or on an individual case basis.
+
+(ii) Notice of Internal Revenue Service (IRS). If a Federal tax lien notice has been filed in the local records more than 30 days before the sale of the repossessed security, notice to the District Director of IRS must be given at least 25 days before the sale. It should be given by sending a copy of Form RD 1955-41 and a copy of the filed Notice of Federal Tax Lien (Form IRS 668). If the security is perishable, the full 25 days' notice must be given to the District Director by registered or certified mail or by personal service before the sale. Also, the sale proceeds must be held for 30 days after the sale so that they may be claimed by IRS on the basis of its tax lien priority. In such perishable property cases, the proceeds or an amount large enough to pay the IRS tax lien will be forwarded to the Finance Office with a notation “Hold in suspense 30 days because of Federal Tax Lien.” OGC will advise the Finance Office about disposing of the funds.
+
+(6) *Advertising.* (i) Private sales and sales at established public auctions will be advertised by Rural Development only if required by a State supplement based on State law.
+
+(ii) Other public sales, whether under power of sale in the lien instrument or under Form RD 455-4, will be widely publicized to assure large attendance and a fair sale by one or more of the following methods customarily used in the area.
+
+(A) The sale may be advertised by posting or distributing handbills, posting Form RD 1955-41, or a revision of it approved by OGC to meet State law requirements, or by a combination of these methods. The length of time and place of giving notice will be covered by a State supplement.
+
+(B) Advertising in newspapers or spot advertisting on local radio or TV stations may be used depending on the amount of property to be sold and the cost in relation to the value of the property, the customs in the area, and State law requirements. When newspaper advertising is required, a State supplement will indicate the types of newspapers to be used, the number and times of insertions of the advertisement, and the form of notice of sale. All advertising must contain non-discrimination clauses.
+
+(7) *Payment of costs and prior lienholders.* If expenses must be paid before the sale or if cash proceeds are not available from the sale of the property to pay costs referred to in § 1962.44(b) of this subpart or to pay lienholders, such costs or prior liens will be paid in accordance with RD Instruction 2024-A (available in any RD office). The amount of the voucher will be charged to the borrower's account, except as limited by State law in a State Supplement. No costs in the repossession and sale of security should be incurred unless they can be charged to the borrower's account, and in no event will the Government pay them. However, if costs are legally chargeable to the borrower, they may be paid as provided in this subpart, and charged to an account set up for the officials or other persons found responsible for them.
+
+(8) *Bill of sale or transfer of title.* If a purchaser requests a written conveyance of repossessed property sold by Rural Development at public or private sale, the County Supervisior will execute and deliver to the purchaser Form RD 455-12, “Bill of Sale ‘C’ (Sale Through Government as Liquidating Agent),” or other necessary instruments to convey all the rights, title, and interests of the borrower and Rural Development. A State supplement will be issued as necessary for conveying title to motor vehicles and boats.
+
+(d) *Risk of injury.* If a farmer program loan borrower has abandoned security *and* the security is in danger of being substantially harmed or damaged, the County Supervisor will attempt to repossess the security as explained in paragraph (a) of this section. Then the County Supervisor will send the borrower and all cosigners on the note attachments 1, 3 and 4 of exhibit A of subpart S of part 1951 of this chapter. The security will be cared for as explained in paragraph (b) of this section until all appeal rights have been given and any appeal has been concluded. When the appeal process is concluded, the security will be returned to the borrower or sold in accordance with paragraph (c) of this section, depending on the outcome of any appeal. The County Supervisor will document the abandonment and the danger of substantial damage in the borrower's case file. In the case of livestock, abandonment occurs if a borrower stops caring for the animals, as determined by the County Supervisor. However, an independent third party (not a Rural Developmnet employee) must determine that livestock is in danger of substantial damage. Protective advances may be made in accordance with § 1962.40(e) of this subpart.
+
+[50 FR 45783, Nov. 1, 1985, as amended at 51 FR 13482, Apr. 21, 1986; 53 FR 35786, Sept. 14, 1988; 56 FR 15825, Apr. 18, 1991; 57 FR 36592, Aug. 14, 1992; 62 FR 10158, Mar. 5, 1997]

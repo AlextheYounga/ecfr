@@ -1,0 +1,3 @@
+##### § 1951.202 Objectives. #####
+
+The purpose of loan and grant servicing functions is to assist recipients to meet the objectives of loans and grants, repay loans on schedule, comply with agreements, and protect Rural Development's financial interest. Supervision by Rural Development includes, but is not limited to, review of budgets, management reports, audits and financial statements; performing security inspections and providing, arranging for, or recommending technical assistance; evaluating environmental impacts of proposed actions by the borrower; and performing civil rights compliance reviews.

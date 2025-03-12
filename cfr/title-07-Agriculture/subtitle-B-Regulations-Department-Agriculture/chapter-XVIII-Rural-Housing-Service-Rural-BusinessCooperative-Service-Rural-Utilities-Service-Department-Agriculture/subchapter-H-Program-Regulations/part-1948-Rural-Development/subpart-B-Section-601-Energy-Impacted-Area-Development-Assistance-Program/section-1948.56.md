@@ -1,0 +1,13 @@
+##### § 1948.56 Program purposes. #####
+
+(a) Rural Development will make grants for assistance to approved designated areas in accordance with criteria contained in this subpart by providing assistance to fill gaps in growth management and housing planning, and to provide supplementary support for acquisition and development of sites for housing and public facilities and services by States, local governments, and councils of local government.
+
+(b) Efforts will be made to provide comprehensive assistance to approved designated areas through the coordination power of the Secretary of Agriculture by utilizing existing plans, State and local programs, and other Federal programs to the maximum extent possible. Particular attention will be given to the utilization of existing Rural Development authorities under other Rural Development programs in conjunction with this subpart for providing assistance to approved designated areas in accordance with the Governor's approved State Investment Strategy for Energy Impacted Areas.
+
+(c) Where existing plans are unsuitable or nonexistent, and other assistance programs are inadequate or unavailable on a timely basis, Rural Development will provide assistance under this subpart to States, councils of local governments, and local governments for the modification, updating, and/or development of growth management and/or housing plans to deal with problems resulting from coal or uranium development within approved designated areas according to the criteria contained in this subpart.
+
+(d) Where needed, Rural Development will provide assistance for the development of sites and/or the acquisition of sites for housing and public facilities and services within approved designated areas according to the criteria contained in this subpart. Such assistance for site development and acquisition will be made in accordance with Rural Development approved plans and State Investment Strategies for Energy Impacted Areas in accordance with the criteria contained in the subpart.
+
+(e) At the request of the Governor of the appropriate State, Rural Development will take action to acquire real property directly for sites for housing and/or public facilities and services in accordance with procedures set forth in this subpart.
+
+(f) At the request of the Governor of the appropriate State, where neither the State nor local government has power to do so for this purpose, Rural Development may take action through condemnation to acquire real property for sites necessary for housing, public facilities, or services.

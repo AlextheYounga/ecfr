@@ -1,0 +1,11 @@
+##### § 1980.1202 Special broadband and smart utility facility funding. #####
+
+(a) The Secretary, acting directly or through authority delegated to the RD agency heads, may allow a recipient of an RD grant, loan, or loan guarantee to use up to 10 percent of project funds for any purpose outlined in § 1980.1205 and in compliance with this part.
+
+(b) Prior to exercising authority under this part, the Agency with a request for special broadband authority (the Awarding Agency) shall consult with the Administrator of the affected RD Agency to determine:
+
+(1) If the provision of broadband service by the recipient (or another party under a wholesale broadband service agreement) would cause competitive harm to a current Rural Development borrower, grantee, or guaranteed lender with respect to an active project for broadband deployment and provision of services With respect to a current RD awardee in the project service area that has significantly defaulted on, or not material complied with its award requirements, the affected RD agency may make a finding of no competitive harm unless it is necessary to protect the government's interest;
+
+(2) If the recipient intends to use the funds for the provision of retail broadband service and, if so, assist the agency in providing public notice and receiving responses from existing service providers, as provided in this rule, so that a determination can be made as to whether the minimum acceptable level of broadband service exists in the service area at the time of the request; and
+
+(3) If the recipient does not intend to provide broadband service, and the funded facilities will only be used for internal use, such as smart utility, there shall be no finding of competitive harm and the recipient shall be relieved of the public notice provision requirement of § 1980.1207 and reporting requirements of § 1980.1209. Note that recipients funding broadband facilities for internal use under an RD program's existing authority would not be subject to this part with respect to the 10 percent funding limitation; however, if such facilities are contemplated to provide retail broadband service in the future, the public notice requirements of § 1980.1206(b) and (c) will apply.

@@ -1,0 +1,3 @@
+##### § 1957.6 Appeal reviews. #####
+
+The Master Servicer, acting through its subservicer, will have the responsibility to conduct hearings under the appeal process. Final review of an adverse decision upheld under the appeal process will remain with RHS and be conducted by the Agency's National Appeal Staff, Washington, DC, under the RHS Appeal Procedures, 7 CFR part 1900, subpart B. This review is final and will conclude the appellant's administrative appeal process.

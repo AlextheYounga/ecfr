@@ -1,0 +1,3 @@
+##### § 2045.1751 General. #####
+
+Section 331(b) of the Consolidated Farm and Rural Development Act (Pub. L. 92-419), and section 506(a) of the Housing Act of 1949, empower the Secretary of Agriculture to accept and utilize voluntary and uncompensated services in carrying out the provisions of the above cited Acts. The Secretary has delegated those authorities to the Administrator of the Farmers Home Administration (FmHA) or its successor agency under Public Law 103-354 in 7 CFR 2.70(a) (1) and (2).

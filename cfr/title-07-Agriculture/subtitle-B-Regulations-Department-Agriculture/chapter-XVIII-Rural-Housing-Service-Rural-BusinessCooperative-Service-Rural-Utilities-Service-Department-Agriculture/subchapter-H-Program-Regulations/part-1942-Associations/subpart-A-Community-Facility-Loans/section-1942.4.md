@@ -1,0 +1,3 @@
+##### § 1942.4 Borrower contracts. #####
+
+The State Director will, with assistance as necessary by the Office of the General Counsel (OGC), concur in agreements between borrowers and third parties such as contracts for professional and technical services and contracts for the purchase of water or treatment of waste. State Directors are expected to work closely with representatives of engineering and architectural societies, bar associations, commercial lenders, accountant associations, and others in developing standard forms of agreements, where needed, and other such matters in order to expedite application processing, minimize referrals to OGC, and resolve problems which may arise.

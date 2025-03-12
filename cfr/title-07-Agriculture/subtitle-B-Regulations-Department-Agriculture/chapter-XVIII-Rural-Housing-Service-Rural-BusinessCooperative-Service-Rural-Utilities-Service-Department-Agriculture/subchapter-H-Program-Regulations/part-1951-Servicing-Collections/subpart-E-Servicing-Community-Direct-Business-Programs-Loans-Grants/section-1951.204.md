@@ -1,0 +1,5 @@
+##### § 1951.204 Nondiscrimination. #####
+
+Each instrument of conveyance required for a transfer, assumption, or other servicing action under this subpart will contain the following covenant.
+
+The property described herein was obtained or improved with Federal financial assistance and is subject to the nondiscrimination provisions of title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, and other similarly worded Federal statutes, and the regulations issued pursuant thereto that prohibit discrimination on the basis of race, color, national origin, handicap, religion, age, or sex in programs or activities receiving Federal financial assistance. Such provisions apply for as long as the property continues to be used for the same or similar purposes for which the Federal assistance was extended, for so long as the purchaser owns it, whichever is later.

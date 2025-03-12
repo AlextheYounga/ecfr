@@ -1,0 +1,3 @@
+##### § 1924.271 Processing applications. #####
+
+An application for compensation for construction defects shall be submitted by the claimant to Rural Development on the designated form. The application shall be completed in its entirety. All structural defects and claims for which compensation is sought will be listed. Borrowers will be told not to incur any expenses for repairs or temporary living expenses, except for emergency situations, until funds have been allocated and the request has been approved under § 1924.273 of this subpart.

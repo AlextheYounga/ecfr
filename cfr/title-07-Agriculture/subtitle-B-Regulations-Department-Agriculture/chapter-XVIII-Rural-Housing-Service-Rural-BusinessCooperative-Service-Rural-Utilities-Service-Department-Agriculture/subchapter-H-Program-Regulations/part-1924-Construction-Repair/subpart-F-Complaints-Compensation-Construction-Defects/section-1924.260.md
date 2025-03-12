@@ -1,0 +1,3 @@
+##### § 1924.260 Handling manufactured housing (unit) construction complaints. #####
+
+When a borrower who has purchased a manufactured home (or “unit”) complains about construction defects, the borrower will be instructed to first contact the dealer-contractor from whom the unit was purchased. Rural Development will assist the borrower in obtaining assistance through the dealer-contractor's and/or HUD's complaint resolution process. If the dealer-contractor cannot resolve the complaint, the borrower should contact the appropriate State Administrative Agency (SAA) or HUD. If the complaint resolution process does not result in the correction of the defect, the borrower's complaint will be handled in accordance with § 1924.259 of this subpart.

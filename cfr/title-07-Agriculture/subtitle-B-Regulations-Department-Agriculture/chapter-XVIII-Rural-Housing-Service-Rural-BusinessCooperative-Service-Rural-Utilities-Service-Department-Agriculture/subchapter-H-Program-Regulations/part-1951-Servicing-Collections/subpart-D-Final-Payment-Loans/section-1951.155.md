@@ -1,0 +1,23 @@
+##### § 1951.155 County and/or District Office actions. #####
+
+(a) *Funds remaining in supervised bank accounts.* When a borrower is ready to pay an insured or direct loan in full, any funds remaining in a supervised bank account will be withdrawn and remitted for application to the borrower's account. If the entire principal of the loan is refunded after the loan is closed, the borrower will be required to pay interest from the date of the note to the date of receipt of the refund.
+
+(b) *Determining amount to be collected.* RD will compute and verify the amount to be collected for payment of an account in full. Requests for payoff balances on all accounts will be furnished in writing in a format specified by RD (available in any Rural Development office).
+
+(c) *Delivery of satisfaction, notes, and other documents.* When the remittance which paid an account in full has been processed by RD, the paid note and satisfied mortgage may be returned to the borrower. If other provisions exist, the mortgage will not be satisfied until the total indebtedness secured by the mortgage is paid. For instance, in a situation where a rural housing loan is paid-in-full and there is a subsidy recapture receivable balance that the borrower elects to delay repaying, the amount of recapture to be repaid will be determined when the principal and interest balance is paid. The mortgage securing the RHS, RBS, RUS, and/or FSA or its successor agency under Public Law 103-354 debt will not be released of record until the total amount owed the Government is repaid. To permit graduation or refinancing by the borrower, the mortgage securing the recapture owed may be subordinated.
+
+(1) If RD receives final payments in a form other than cash, U.S. Treasury check, cashier's check, certified check, money order, bank draft, or check issued by an institution determined by RD to be financially responsible, the mortgage and paid note will not be released until after a 30-day waiting period. If other indebtedness to RD is not secured by the mortgage, RD will execute the satisfaction or release. When the stamped note is delivered to the borrower, RD will also deliver the real estate mortgage and related title papers such as title opinions, title insurance binders, certificates of title, and abstracts which are the property of the borrower. Any water stock certificates or other securities that are the property of the borrower will be returned to the borrower. Also, any assignments of income will be terminated as provided in the assignment forms.
+
+(2) Delivery of documents at the time of final payment will be made when payment is in the form of cash, U.S. Treasury check, cashier's check, certified check, money order, bank draft, or check issued by an institution determined by RD to be responsible. RD will not accept payment in the form of foreign currency, foreign checks or sight drafts. RD will execute the satisfaction or release (unless other indebtedness to RD is covered by the mortgage) and mark the original note with a paid-in-full legend based upon receipt of the full payment balance of the borrower's account(s), computed as of the date final payment is received. In unusual cases where an insured promissory note is held by a private holder, RD can release the mortgage and deliver the note when it is received.
+
+(d)-(e) [Reserved]
+
+(f) *Cost of recording or filing of satisfaction.* The satisfaction or release will be delivered to the borrower for recording and the recording costs will be paid by the borrower, except when State law requires the mortgagee to record or file satisfactions or release and pay the recording costs.
+
+(g) *Property insurance.* When the borrower's loan has been paid-in-full and the satisfaction or release of the mortgage has been executed, FD may release the mortgage interest in the insurance policy as provided in subpart A of part 1806 of this chapter (RD Instruction 426.1).
+
+(h) [Reserved]
+
+(i) *Outstanding Loan Balance(s).* RD will attempt to collect any account balance(s) that may result from an error by RD in handling final payments according to paragraph 1951.155(b) of this section. If collection cannot be made, the debt will be settled according to subpart B of part 1956 of this chapter or reclassified to collection-only. A deficiency judgment may be considered if the balance is a significant amount ($1,000 or more) and the borrower has known assets.
+
+[57 FR 774, Jan. 9, 1992, as amended at 60 FR 55145, Oct. 27, 1995]

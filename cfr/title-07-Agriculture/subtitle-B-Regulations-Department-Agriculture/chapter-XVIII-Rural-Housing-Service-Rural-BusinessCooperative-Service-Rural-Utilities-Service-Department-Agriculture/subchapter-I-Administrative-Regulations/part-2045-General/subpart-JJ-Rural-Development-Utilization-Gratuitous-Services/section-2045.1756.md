@@ -1,0 +1,3 @@
+##### § 2045.1756 Records and reports. #####
+
+The FmHA or its successor agency under Public Law 103-354 official signing the Agreement Form will maintain records to show the names, duty assignments, time worked and work locations of all persons performing gratuitous services. Copies of time reports submitted to the persons' employers should suffice. These records will be necessary to respond to occasional requests for reports on the acceptance and utilization of gratuitous services in the FmHA or its successor agency under Public Law 103-354.

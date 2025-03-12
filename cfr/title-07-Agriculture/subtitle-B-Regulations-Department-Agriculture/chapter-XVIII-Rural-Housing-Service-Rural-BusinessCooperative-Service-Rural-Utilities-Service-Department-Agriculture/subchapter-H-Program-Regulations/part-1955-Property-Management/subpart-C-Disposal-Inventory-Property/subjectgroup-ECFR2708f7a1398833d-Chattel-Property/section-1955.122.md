@@ -1,0 +1,23 @@
+##### § 1955.122 Method of sale (chattel). #####
+
+Acquired chattels will be sold as expeditiously as possible using the method(s) considered most appropriate. If the chattel is not sold within 180 days after acquisition, assistance will be requested as outlined in § 1955.143 of this subpart.
+
+(a) *Sale to beginning farmers or ranchers.* Beginning farmers or ranchers obtaining special OL loan assistance under § 1941.15 of subpart A of part 1941 of this chapter will receive priority in the purchase of farm equipment held in government inventory during the commitment period. The County Supervisor will notify such applicants/borrowers of any farm equipment held in government inventory within the service area of the Rural Development County Office. These applicants/borrowers will be given 10 working days to respond that they are interested in purchasing any or all items of equipment at the appraised fair market value established by Rural Development. Rural Development Form Letter 1955-C-1 will be used to notify applicants/borrowers of the availability of farm equipment in Rural Development inventory. The equipment must be essential to the success of the operation described in the loan application in order for the applicant to have an opportunity to purchase such equipment. The County Supervisor will determine what equipment is essential.
+
+(b) *Regular sale.* Chattels will be sold by Rural Development employees at market value to program applicants. Form RD 440-21, “Appraisal of Chattel Property,” will be used when appraising chattels for regular sale.
+
+(c) *Auctions.* Section 1955.148 of this subpart provides detailed guidance on auctions applicable to the sale of chattels, as supplemented by this section.
+
+(1) *Established public auction.* An established public auction is an auction that is widely advertised and held on a regularly scheduled basis at the same facility. This method of sale is particularly suited for the sale of commodities, farm machinery and livestock. No additional public notice of sale is required other than that commonly used by the facility. This is the preferred method of disposal.
+
+(2) *Other auctions.* Other auctions, whether conducted by Rural Development employees or fee auctioneers, are suitable for on-premises sales, for sale of dissimilar chattels, and for the sale of chattels in conjunction with the auction of real property. A minimum of 5 days public notice will be given prior to the date of auction.
+
+(d) *Sealed bid sales.* Section 1955.147 of this subpart provides detailed guidance on sealed bid sales applicable to the sale of chattels. When it is believed that financing will have to be provided through a credit sale, this method has advantages over auction sales. It requires, however, additional steps in the event any established minimum price is not obtained. Preference will be given to a cash offer which is at least \_\_\_\_\* percent of the highest offer requiring credit.
+
+[\* Refer to exhibit B of RD Instruction 440.1 (available in any Rural Development office) for the current percentage.]
+
+(e) *Negotiated sale.* Perishable acquired items and crops (except timber) and chattels for which no acceptable bid was received from auction or sealed bid methods may be sold by direct negotiation for the best price obtainable. No public notice is required to negotiate with interested parties including prior bidders. Justification for the use of this method of sale will be documented.
+
+(f) *Notification.* In many States the original owner of the chattel property must personally be notified of the sale date and method of sale within a certain time prior to the sale. The State Director then will issue a State supplement clearly stating what notices are to be sent, if any. County Supervisor will review State supplements to determine what notices must be sent to the previous owner of the chattel property prior to Rural Development taking action to sell the property.
+
+No public notice is required to negotiate with interested parties including prior bidders. Justification for the use of this method of sale will be documented. A copy of the sale instrument (Form RD 1955-47, “Bill of Sale ‘A’—Sale of Government Property”) will be kept in the County or District Office inventory file. Sale proceeds will be remitted according to RD Instruction 1951-B (available in any Rural Development office). A State Supplement, when needed, will be prepared with the assistance of OGC to provide additional guidance on negotiated sales and to insure compliance with State laws.[50 FR 23904, June 7, 1985, as amended at 53 FR 35780, Sept. 14, 1988; 58 FR 48290, Sept. 15, 1993; 58 FR 58650, Nov. 3, 1993; 62 FR 44401, Aug. 21, 1997; 68 FR 61332, Oct. 28, 2003]

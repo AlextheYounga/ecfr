@@ -1,0 +1,3 @@
+##### § 1951.216 Nonprogram (NP) loans. #####
+
+Borrowers with NP loans are not eligible for any program benefits, including appeal rights. However, Rural Development may use any servicing tool under this subpart necessary to protect the Government's security interest, including reamortization or rescheduling. The refinancing requirements of subpart F of part 1951 of this chapter do not apply to NP loans. Debt settlement actions relating to NP loans must be handled under the Federal Claims Collection Act; proposals will be submitted to the National Office for review and approval. Any exception to the servicing requirements of NP loans under this subpart must have prior concurrence of the National Office.

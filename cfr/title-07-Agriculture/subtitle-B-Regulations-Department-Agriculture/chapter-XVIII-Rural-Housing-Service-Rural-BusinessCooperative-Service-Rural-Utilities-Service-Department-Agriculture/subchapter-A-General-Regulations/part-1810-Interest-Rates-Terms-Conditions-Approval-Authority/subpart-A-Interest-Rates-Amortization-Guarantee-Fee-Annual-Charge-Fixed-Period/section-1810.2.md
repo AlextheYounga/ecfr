@@ -1,0 +1,9 @@
+##### § 1810.2 Adjustment of interest rates for certain loans involving use of or construction on prime or unique farmland. #####
+
+(a) For essential community facility loans, insured farm ownership loans for recreation or non-farm enterprises, insured farm operating loans for recreation enterprises, soil and water loans for recreation purposes, individual recreation loans, and insured business and industry loans, the interest rate will be increased by two per centum per annum if the project being financed will involve the use of, or construction on, prime or unique farmland. Prime or unique farmland is as defined in § 657.5 (a) and (b) of title 7, Code of Federal Regulations (1980).
+
+(b) The two per centum interest rate increase will not apply if the applicant/borrower is a public body or Indian tribe and has demonstrated to the Agency that there are no suitable options for locating the proposed essential community facility project on land that is not prime or unique farmland.
+
+(c) For each essential community facility loan and insured business and industry loan the District Director, after consultation with the Soil Conservation Service (SCS), will determine whether the proposed project will involve the use of, or construction on, prime or unique farmland. For each insured farm ownership loan for a recreation or non-farm enterprise, insured farm operating loan for a recreation enterprise, soil and water loan for a recreational purpose, or individual recreation loan, the County Supervisor, after consultation with SCS, will determine whether the proposed project will involve the use of, or construction on, prime or unique farmland. The determination will be documented by the Agency and made a part of the official case file.
+
+[46 FR 47763, Sept. 30, 1981, as amended at 56 FR 11503, Mar. 19, 1991; 80 FR 9866, Feb. 24, 2015]

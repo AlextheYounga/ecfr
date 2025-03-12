@@ -1,0 +1,17 @@
+##### § 1951.252 Definitions. #####
+
+*Commercial classified.* The Agency's highest quality Farm Credit Programs (FCP) accounts. The financial condition of the borrowers is strong enough to enable them to absorb the normal adversities of agricultural production and marketing. There is ample security for all loans, there is sufficient cash flow to meet the expenses of the agricultural enterprise and the financial needs of the family, and to service debts. The account is of such quality that commercial lenders would likely view the loans as a profitable investment.
+
+*Farm Credit Programs (FCP) loans.* FSA Farm Ownership (FO), Operating (OL), Soil and Water (SW), Recreation (RL), Emergency (EM), Economic Emergency (EE), Economic Opportunity (EO), Special Livestock (SL), Softwood Timber (ST) loans, and Rural Housing loans for farm service buildings (RHF).
+
+*Graduation, FCP.* The payment in full of all FCP loans or all FCP loans of one type (i.e., all loans made for chattel purposes or all loans made for real estate purposes) by refinancing with other credit sources either with or without an Agency loan guarantee. A loan made for both chattel and real estate purposes, for example an EM loan, will be classified according to how the majority of the loan's funds were expended. Borrowers must continue with their farming operations to be considered as graduated.
+
+*Graduation, other programs.* The payment in full of any direct loan for Community and Business Programs, and all direct loans for housing programs, before maturity by refinancing with other credit sources. Graduated housing borrowers must continue to hold title to the property. Graduation, for other than FCP, does not include credit which is guaranteed by the United States.
+
+*Prospectus, FCP.* Consists of a transmittal letter with a current balance sheet and projected year's budget attached. The applicant's or borrower's name and address need not be withheld from the lender. The prospectus is used to determine lender interest in financing or refinancing specific Agency direct loan applicants and borrowers. The prospectus will provide information regarding the availability of an Agency loan guarantee and interest assistance.
+
+*Reasonable rates and terms.* Those commercial rates and terms which borrowers are expected to meet when borrowing for similar purposes and similar periods of time. The “similar periods of time” of available commercial loans will be measured against, but need not be the same as, the remaining or original term of the loan. In the case of Multi-Family Housing (MFH) loans, “reasonable rates and terms” would be considered to mean financing that would allow the units to be offered to eligible tenants at rates consistent with other multi-family housing.
+
+*Servicing official.* The district or county office official responsible for the immediate servicing functions of the borrower.
+
+*Standard classified.* These loan accounts are fully acceptable by Agency standards. Loan risk and potential loan servicing costs are higher than would be acceptable to other lenders, but all loans are adequately secured. Repayment ability is adequate, and there is a high probability that all loans will be repaid as scheduled and in full.

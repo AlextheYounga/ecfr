@@ -1,0 +1,9 @@
+##### § 1980.488 Guaranteed industrial development bond issues. #####
+
+(a) Loans to public bodies will be guaranteed only in connection with the issuance of any class or series of industrial development bonds (as defined in section 103(c)(2) of the Internal Revenue Code of 1954, as amended (IRC)), the interest on which is included in gross income under IRC. No part of the loan guaranteed by Rural Development may extend to any class or series of industrial development bonds the interest on which is excludable from gross income under section 103(a)(1) of such Code. Before the execution of any Loan Note Guarantee, the lender will furnish Rural Development evidence regarding interest on bonds being taxable for Federal income tax purposes. Such evidence may be in the form of an unqualified opinion of a recognized bond counsel or a ruling from the Internal Revenue Service. Guaranteed loans to public bodies can only be used for constructing and equipping industrial plants for lease to private businesses engaged in industrial manufacturing and does not provide funds for debt refinancing, working capital and other miscellaneous fees, charges or services. The lessee will have to provide necessary capital and sufficient financial strength to provide for a sound project.
+
+(b) If Rural Development and the applicant agree that a guaranteed lender is not available, the application may be considered for an insured loan under the provisions of § 1980.481 of this subpart.
+
+Administrative
+
+The lender is responsible for notifying the Rural Development of the taxability of the proposed bond issue.

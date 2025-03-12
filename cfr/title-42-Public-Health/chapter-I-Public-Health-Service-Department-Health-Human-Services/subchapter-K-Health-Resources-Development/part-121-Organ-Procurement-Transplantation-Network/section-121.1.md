@@ -1,5 +1,7 @@
 ##### § 121.1 Applicability. #####
 
+Link to an amendment published at 85 FR 59444, Sept. 22, 2020.
+
 (a) The provisions of this part, with the exception of § 121.13, apply to the operation of the Organ Procurement and Transplantation Network (OPTN) and to the Scientific Registry.
 
 (b) The provisions of § 121.13 apply to the prohibition set forth in section 301 of the National Organ Transplant Act, as amended.

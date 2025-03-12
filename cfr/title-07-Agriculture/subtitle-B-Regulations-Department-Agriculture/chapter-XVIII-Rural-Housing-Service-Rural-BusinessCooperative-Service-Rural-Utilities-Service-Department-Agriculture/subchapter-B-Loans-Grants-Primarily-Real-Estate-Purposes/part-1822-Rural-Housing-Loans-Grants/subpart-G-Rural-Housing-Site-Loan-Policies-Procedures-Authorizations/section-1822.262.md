@@ -1,0 +1,3 @@
+##### § 1822.262 Objective. #####
+
+The basic objective of RHS loans is to assist public or private nonprofit organizations interested in providing sites for housing, to acquire and develop land in rural areas. This land will be subdivided into adequate building sites and sold on a nonprofit basis to (a) families eligible for low and moderate income section 502 Rural Housing (RH) loans, including self-help housing; (b) cooperative Rural Cooperative Housing (RCH) applicants and broadly based nonprofit Rural Rental Housing (RRH) applicants; and (c) applicants eligible for Housing and Urban Development (HUD) sections 235 and 236 insured mortgages.

@@ -1,0 +1,3 @@
+##### § 1806.26 Coverage and premium rates. #####
+
+Exhibit A sets forth limits of coverage and chargeable premium rates under the program. Insurance policies under the program can be obtained from any licensed property insurance agent or broker serving the eligible community or from the National Flood Insurers Association Serving Company (Serving Company) for the state. The Servicing Company for each state is shown in exhibit B.

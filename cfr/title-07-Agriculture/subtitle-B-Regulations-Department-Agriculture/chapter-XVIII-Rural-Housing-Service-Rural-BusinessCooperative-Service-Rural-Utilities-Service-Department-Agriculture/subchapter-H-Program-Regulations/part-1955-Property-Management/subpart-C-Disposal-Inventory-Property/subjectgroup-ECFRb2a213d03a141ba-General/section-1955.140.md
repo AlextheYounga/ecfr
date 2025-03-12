@@ -1,0 +1,7 @@
+##### § 1955.140 Sale in parcels. #####
+
+(a) Individual property subdivided. An individual property, other than Farm Loan Programs property, may be offered for sale as a whole or subdivided into parcels as determined by the State Director. For MFH property, guidance will be requested from the National Office for all properties other than RHS projects. When farm inventory property is larger than a family-size farm, the county official will subdivide the property into one or more tracts to be sold in accordance with § 1955.107. Division of the land or separate sales of portions of the property, such as timber, growing crops, inventory for small business enterprises, buildings, facilities, and similar items may be permitted if a better total price for the property can be obtained in this manner. Environmental review requirements must comply with 7 CFR part 1970. Any applicable State laws will be set forth in a State supplement and will be complied with in connection with the division of land. Subdivision of acquired property will be reported on Form RD 1955-3C, “Acquired Property—Subdivision,” in accordance with the FMI.
+
+(b) *Grouping of individual properties.* The county official for FCP cases, and the State Director for all other cases, may authorize the combining of two or more individual properties into a single parcel for sale as a suitable program property.
+
+[62 FR 44403, Aug. 21, 1997, as amended at 81 FR 11032, Mar. 2, 2016; 82 FR 19320, Apr. 27, 2017]

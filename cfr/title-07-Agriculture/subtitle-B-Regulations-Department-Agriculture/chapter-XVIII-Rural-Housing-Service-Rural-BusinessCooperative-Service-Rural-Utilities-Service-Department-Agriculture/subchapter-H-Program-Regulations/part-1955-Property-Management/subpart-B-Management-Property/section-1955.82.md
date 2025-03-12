@@ -1,0 +1,3 @@
+##### § 1955.82 State supplements. #####
+
+State supplements will be prepared with the assistance of OGC as necessary to comply with State laws or only as specifically authorized in this regulation to provide guidance to Rural Development officials. State supplements applicable to MFH must have prior approval of the National Office; others may receive post approval. Requests for approval for those affecting MFH must include complete justification, citations of State law, and an opinion from OGC.

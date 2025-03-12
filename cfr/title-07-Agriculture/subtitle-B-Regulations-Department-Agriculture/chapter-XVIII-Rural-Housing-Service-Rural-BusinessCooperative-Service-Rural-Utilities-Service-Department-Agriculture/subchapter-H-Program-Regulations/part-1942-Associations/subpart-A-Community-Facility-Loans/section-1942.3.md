@@ -1,0 +1,5 @@
+##### § 1942.3 Preparation of appraisal reports. #####
+
+When the loan approval official requires an appraisal, Form RD 442-10, “Appraisal Report—Water and Waste Disposal Systems,” may be used with appropriate supplements. Form RD 442-10 may be modified as appropriate or other appropriate format may be used for facilities other than water and waste disposal. Appraisal reports prepared for use in connection with the purchase of existing essential community facilities or when required by § 1942.17 (g)(2)(iii)(B)(*2*), (g)(3)(iii)(B)(*2*), and (j)(4) of this subpart, may be prepared by the RD engineer/architect or, if desired by the State Director, some other qualified appraiser. The loan approval official may require an applicant to provide an appraisal prepared by an independent qualified appraiser; however, the loan approval official must determine that the appraised value shown in such reports reflects the present market value.
+
+[50 FR 7296, Feb. 22, 1985, as amended at 53 FR 6786, Mar. 3, 1988]

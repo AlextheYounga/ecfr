@@ -1,0 +1,3 @@
+##### § 1944.528 Preapplication submission deadline. #####
+
+Dates governing the review and selection of TSA grant preapplications will be published annually in the Federal Register. Preapplications received after that time will not be considered for funding. For use of fiscal year 1979 funds, the deadline for submission of preapplications will be 45 calendar days from date of publication of final regulations.

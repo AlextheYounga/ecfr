@@ -1,0 +1,11 @@
+##### § 1925.4 Servicing delinquent taxes. #####
+
+(a) The County Supervisor will contact each borrower with a delinquent tax and make every practical effort to have him pay the tax with his own funds. He will use the Management System Card for follow-up of delinquent taxes. If the delinquent tax is not paid and the borrower comes to the office with proceeds for application on the Agency account secured by the real estate, the County Office personnel will endeavor to get the borrower to use the proceeds to pay the delinquent tax. If the amount of the delinquent tax is less than the amount of the proposed payment, the difference will be applied on the Agency account in accordance with the policy outlined in subpart A of part 1951 of this chapter.
+
+(b) Prior (usually about 90 days) to the time it is legally possible for action to be taken that will cause the borrower to lose title or right of possessions of the security property or the use of essential water, the County Supervisor will contact the borrower and definitely determine if he will pay the delinquent tax immediately. If the borrower is unable or unwilling to pay the delinquent tax with his own funds after every appropriate effort has been made to have him do so, the County Supervisor will refer to RD Instruction 2024-A and utilize the Type 60 Purchase Order System to pay the amount of the delinquent taxes plus the amount of any accrued penalty to bring taxes current.
+
+(1) In an exceptional case where reasons for delinquent taxes have been removed and planned income during the next year covers payment of current obligations plus delinquent taxes not vouchered, only the delinquent taxes will be paid that could cause the borrower to lose title or right of possession of security property.
+
+(2) If the Government is holding a mortgage other than a first mortgage on the property, do not initiate payment request until the County Supervisor has determined that (i) the prior lien holder will not pay the delinquent tax, (ii) the Government's security will be jeopardized if the delinquent tax is not paid, and (iii) the value of the security is sufficient to justify the advance.
+
+[57 FR 36590, Aug. 14, 1992, as amended at 67 FR 78327, Dec. 24, 2002]

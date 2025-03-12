@@ -1,0 +1,5 @@
+##### § 1951.265 Application for subsequent loan, subordination, or consent to additional indebtedness from a borrower who has been requested to graduate. #####
+
+(a) Any borrower who appears to meet the local commercial lending standards, taking into consideration the Agency's loan guarantee program, will not be considered for a subsequent loan, subordination, or consent to additional indebtedness until the borrower's ability or inability to graduate has been confirmed. An exception may be made where the proposed action is needed to alleviate an emergency situation, such as meeting applicable health or sanitary standards which require immediate attention.
+
+(b) If the borrower has been requested to graduate and has also been denied a request for a subsequent loan, subordination, or consent to additional indebtedness, the borrower may appeal both issues.

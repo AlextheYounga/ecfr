@@ -1,0 +1,3 @@
+##### § 1924.251 Purpose. #####
+
+This subpart contains policies and procedures for receiving and resolving complaints concerning the construction of dwellings and construction, installation and set-up of manufactured homes (herein called “units”), financed by the Rural Development, and for compensating borrowers for structural defects under section 509(c) of the Housing Act of 1949, as amended. Provisions of this subpart do not apply to dwellings financed with guaranteed section 502 loans.

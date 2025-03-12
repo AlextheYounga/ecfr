@@ -1,0 +1,3 @@
+##### § 1980.496 Exception authority. #####
+
+The Administrator may in individual cases grant an exception to any requirement or provision of this subpart which is not inconsistent with any applicable law or opinion of the Comptroller General, provided the Administrator determines that application of the requirement or provision would adversely affect the Government's interest. Requests for exceptions must be in writing by the State Director and submitted through the Assistant Administrator, Community and Business Programs. Requests must be supported with documentation to explain the adverse effect on the Government's interest, propose alternative courses of action, and show how the adverse effect will be eliminated or minimized if the exception is granted.

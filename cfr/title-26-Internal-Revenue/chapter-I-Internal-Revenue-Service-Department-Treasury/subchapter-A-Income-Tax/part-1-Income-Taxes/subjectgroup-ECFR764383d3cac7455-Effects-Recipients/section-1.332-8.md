@@ -1,0 +1,7 @@
+##### § 1.332-8 Recognition of gain on liquidation of certain holding companies. #####
+
+(a) *Definition of controlled foreign corporation.* For purposes of section 332(d)(3), a controlled foreign corporation has the meaning provided in section 957, determined without applying section 318(a)(3)(A), (B), and (C) so as to consider a United States person as owning stock which is owned by a person who is not a United States person.
+
+(b) *Applicability date.* This section applies to distributions in complete liquidation occurring on or after October 1, 2019, and to distributions in complete liquidation occurring before October 1, 2019, that result from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after October 1, 2019. For distributions in complete liquidation occurring before October 1, 2019, other than distributions in complete liquidation occurring before October 1, 2019, that result from an entity classification election made under § 301.7701-3 of this chapter that is filed on or after October 1, 2019, a taxpayer may apply this section to distributions in complete liquidation occurring during the last taxable year of a distributee foreign corporation beginning before January 1, 2018, and each subsequent taxable year of the foreign corporation, provided that the taxpayer and United States persons that are related (within the meaning of section 267 or 707) to the taxpayer consistently apply this section with respect to all foreign corporations.
+
+[T.D. 9908, 85 FR 59431, Sept. 22, 2020]

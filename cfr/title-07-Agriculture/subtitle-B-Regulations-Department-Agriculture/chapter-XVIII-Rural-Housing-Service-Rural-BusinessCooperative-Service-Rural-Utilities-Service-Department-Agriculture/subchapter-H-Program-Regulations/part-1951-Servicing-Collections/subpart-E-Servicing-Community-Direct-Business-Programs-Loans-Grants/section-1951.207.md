@@ -1,0 +1,3 @@
+##### § 1951.207 State supplements. #####
+
+State supplements developed to carry out the provisions of this subpart will be prepared in accordance with subpart B of part 2006 of this chapter (available in any Rural Development office) and applicable State laws and regulations. State supplements are to be used only when required by National Instructions or necessary to clarify the impact of State laws or regulations, and not to restate the provisions of National Instructions. Advice and guidance will be obtained as needed from the Office of the General Counsel (OGC).

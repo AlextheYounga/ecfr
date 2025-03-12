@@ -1,0 +1,3 @@
+##### § 1924.261 Handling complaints involving dwellings covered by an independent or insured home warranty plan. #####
+
+Borrowers with complaints about dwellings covered by an independent or insured home warranty plan will be instructed to first contact the warranty company and follow the complaint resolution process for that company, with the assistance of Rural Development, if needed. If the complaint is not resolved in this manner, it will be handled under § 1924.259 of this subpart.
