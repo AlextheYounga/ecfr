@@ -1,5 +1,7 @@
 ##### § 92.6 Use and possession of migratory birds. #####
 
+Link to an amendment published at 82 FR 34270, July 24, 2017.
+
 You may not sell, offer for sale, purchase, or offer to purchase migratory birds, their parts, or their eggs taken under this part.
 
 (a) *Eligible persons.* Under this part, you may take birds for human consumption only. Harvest and possession of migratory birds must be done using nonwasteful taking. Nonedible byproducts of migratory birds taken for food may be used for other purposes, except that taxidermy is not allowed.

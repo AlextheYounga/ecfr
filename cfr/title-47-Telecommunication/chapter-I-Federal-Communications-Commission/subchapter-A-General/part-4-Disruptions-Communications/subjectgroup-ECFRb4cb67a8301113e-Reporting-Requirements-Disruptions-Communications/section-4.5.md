@@ -1,7 +1,5 @@
 ##### § 4.5 Definitions of outage, special offices and facilities, and 911 special facilities. #####
 
-Link to an amendment published at 82 FR 28408, June 22, 2017.
-
 (a) *Outage* is defined as a significant degradation in the ability of an end user to establish and maintain a channel of communications as a result of failure or degradation in the performance of a communications provider's network.
 
 (b) *Special offices and facilities* are defined as entities enrolled in the Telecommunications Service Priority (TSP) Program at priority Levels 1 and 2, which may include, but are not limited to, major military installations, key government facilities, nuclear power plants, and those airports that are listed as current primary (PR) airports in the FAA's National Plan of Integrated Airports Systems (NPIAS) (as issued at least one calendar year prior to the outage).
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 28408, June 22, 2017.
 
 (4) There is a loss of ANI/ALI (associated name and location information) and/or a failure of location determination equipment, including Phase II equipment, for at least 30 minutes and potentially affecting at least 900,000 user-minutes (provided that the ANI/ALI or location determination equipment was then currently deployed and in use, and the failure is neither at the PSAP(s) or on the premises of the PSAP(s)).
 
-[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016]Effective Date Note:At 81 FR 45067, July 12, 2016, § 4.5(c) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016]

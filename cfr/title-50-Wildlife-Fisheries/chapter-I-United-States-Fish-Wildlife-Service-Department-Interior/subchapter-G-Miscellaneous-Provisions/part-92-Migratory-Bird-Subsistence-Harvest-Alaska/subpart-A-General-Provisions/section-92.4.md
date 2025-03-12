@@ -1,5 +1,7 @@
 ##### § 92.4 Definitions. #####
 
+Link to an amendment published at 82 FR 34270, July 24, 2017.
+
 The following definitions apply to all regulations contained in this part:
 
 *Alaska Native* means the same as “Native,” defined in section 3(b) of the Alaska Native Claims Settlement Act, 16 U.S.C. 1602(b).

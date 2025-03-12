@@ -1,7 +1,5 @@
 ##### § 9301.8 Fees in general. #####
 
-Link to an amendment published at 82 FR 28550, June 23, 2017.
-
 SIGAR shall charge reasonable fees that recoup the full allowable direct costs it incurs in responding to FOIA requests. SIGAR will provide an estimated amount of fees, including a breakdown of the fees for search, review, and/or duplication. SIGAR may assess charges for time spent searching for records even if SIGAR is unable to locate the records or if the records are located and determined to be exempt from disclosure. In general, SIGAR shall apply the following fee schedule, subject to §§ 9301.9 through 9301.11:
 
 (a) *Manual searches.* Time devoted to manual searches shall be charged on the basis of the salary of the employee(s) conducting the search (basic hourly rate(s) of pay for the employee).
@@ -30,10 +28,8 @@ SIGAR shall charge reasonable fees that recoup the full allowable direct costs i
 
 (2) SIGAR fails to comply with any time limit under the FOIA for responding to a request for records where no unusual or exceptional circumstances apply.
 
-(3) SIGAR determines that unusual circumstances apply to the processing of a request, provides timely notice the requester, and delay is excused for an additional ten days, but SIGAR still fails to respond within the timeframe established by the additional delay. This provision applies only to search fees. However, the following exceptions shall apply:
+(3) SIGAR determines that unusual circumstances apply to the processing of a request, provides timely notice to the requester, and delay is excused for an additional ten days, but SIGAR still fails to respond within the timeframe established by the additional delay. This provision applies only to search fees or duplication fees for educational institution, non-commercial scientific institution, or representative of the news media requesters. However, the following exceptions shall apply:
 
-(i) Notwithstanding § 9301.8(f)(3), if SIGAR determines that unusual circumstances apply and that responding to the request requires the production of more than 5,000 pages, SIGAR may continue to charge search fees, or duplication fees for requesters in preferred status, for as long as necessary, after timely written notice has been made to the requester and SIGAR has discussed with the requester how the requester could effectively limit the scope of the request via written mail, electronic mail, or telephone, or made three good-faith attempts to do so.
+(i) Notwithstanding § 9301.8(f)(3), if SIGAR determines that unusual circumstances apply and that more than 5000 pages are necessary to respond to the request, SIGAR may continue to charge search fees, or duplication fees for requesters in preferred status, for as long as necessary, after timely written notice has been made to the requester and SIGAR has discussed with the requester how the requester could effectively limit the scope of the request via written mail, electronic mail, or telephone, or made three good-faith attempts to do so.
 
-(ii) Notwithstanding § 9301.8(f)(3), if a court determines that exceptional circumstances exist, SIGAR's failure to comply with a time limit shall be excused for the length of time provided by the court order.
-
-[77 FR 34180, June 11, 2012, as amended at 77 FR 38172, June 27, 2012; 82 FR 712, Jan. 4, 2017]
+[77 FR 34180, June 11, 2012, as amended at 77 FR 38172, June 27, 2012; 82 FR 712, Jan. 4, 2017; 82 FR 28550, June 23, 2017]
