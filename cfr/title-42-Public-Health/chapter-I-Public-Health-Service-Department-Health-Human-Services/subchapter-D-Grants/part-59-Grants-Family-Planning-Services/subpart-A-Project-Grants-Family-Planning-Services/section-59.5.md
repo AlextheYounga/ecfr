@@ -1,5 +1,7 @@
 ##### § 59.5 What requirements must be met by a family planning project? #####
 
+Link to an amendment published at 84 FR 7787, Mar. 4, 2019.
+
 (a) Each project supported under this part must:
 
 (1) Provide a broad range of acceptable and effective medically approved family planning methods (including natural family planning methods) and services (including infertility services and services for adolescents). If an organization offers only a single method of family planning, it may participate as part of a project as long as the entire project offers a broad range of family planning services.

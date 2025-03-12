@@ -1,5 +1,7 @@
 ##### § 46.2 Definitions. #####
 
+Link to an amendment published at 84 FR 7283, Mar. 4, 2019.
+
 For the purpose of this part:
 
 (a) *Public utility* has the same meaning as in section 201(e) of the Federal Power Act and further includes any company which is part of a holding company system which includes a registered holding company unless no company in such system is an electric utility within the meaning of section 3 of the Federal Power Act. Such term does not include any rural electric cooperative which is regulated by the Rural Electrification Administration of the Department of Agriculture or any other entities covered in section 201(f) of the Federal Power Act.

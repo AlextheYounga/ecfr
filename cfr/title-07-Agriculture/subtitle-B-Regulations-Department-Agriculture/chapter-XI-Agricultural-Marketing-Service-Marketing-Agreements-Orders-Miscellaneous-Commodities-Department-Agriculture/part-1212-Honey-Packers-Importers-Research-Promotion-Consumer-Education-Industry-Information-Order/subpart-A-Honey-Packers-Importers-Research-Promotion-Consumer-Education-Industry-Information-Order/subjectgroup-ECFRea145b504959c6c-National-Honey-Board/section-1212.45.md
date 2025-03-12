@@ -1,0 +1,3 @@
+##### § 1212.45 Reimbursement and attendance. #####
+
+Board members and alternates, when acting as members, will serve without compensation but will be reimbursed for reasonable travel expenses, as approved by the Board, that they incur when performing Board business. The Board may request that alternates attend any meeting even if their respective members are expected to attend or actually attend the meeting.

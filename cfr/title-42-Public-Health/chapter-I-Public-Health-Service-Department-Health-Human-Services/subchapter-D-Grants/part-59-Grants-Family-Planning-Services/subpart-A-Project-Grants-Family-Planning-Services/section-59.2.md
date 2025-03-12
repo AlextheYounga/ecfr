@@ -1,5 +1,7 @@
 ##### § 59.2 Definitions. #####
 
+Link to an amendment published at 84 FR 7787, Mar. 4, 2019.
+
 As used in this subpart:
 
 *Act* means the Public Health Service Act, as amended.

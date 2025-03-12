@@ -1,5 +1,7 @@
 ##### § 45.8 Contents of application. #####
 
+Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
+
 Each application shall state the following:
 
 (a) *Identification of applicant.* (1) Full name, business address and state of residence.

@@ -1,5 +1,7 @@
 ##### § 45.1 Applicability; who must file. #####
 
+Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
+
 (a) This part applies to any person seeking to hold the following interlocking positions:
 
 (1) Officer or director of more than one public utility;

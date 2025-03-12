@@ -1,5 +1,7 @@
 ##### § 45.9 Automatic authorization of certain interlocking positions. #####
 
+Link to an amendment published at 84 FR 7282, Mar. 4, 2019.
+
 (a) *Applicability.* Subject to paragraphs (b) and (c) of this section, the Commission authorizes any officer or director of a public utility to hold the following interlocking positions:
 
 (1) Officer or director of one or more other public utilities if the same holding company owns, directly or indirectly, that percentage of each utility's stock (of whatever class or classes) which is required by each utility's by-laws to elect directors;

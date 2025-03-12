@@ -1,5 +1,7 @@
 ##### § 59.7 What criteria will the Department of Health and Human Services use to decide which family planning services projects to fund and in what amount? #####
 
+Link to an amendment published at 84 FR 7788, Mar. 4, 2019.
+
 (a) Within the limits of funds available for these purposes, the Secretary may award grants for the establishment and operation of those projects which will in the Department's judgment best promote the purposes of section 1001 of the Act, taking into account:
 
 (1) The number of patients, and, in particular, the number of low-income patients to be served;
