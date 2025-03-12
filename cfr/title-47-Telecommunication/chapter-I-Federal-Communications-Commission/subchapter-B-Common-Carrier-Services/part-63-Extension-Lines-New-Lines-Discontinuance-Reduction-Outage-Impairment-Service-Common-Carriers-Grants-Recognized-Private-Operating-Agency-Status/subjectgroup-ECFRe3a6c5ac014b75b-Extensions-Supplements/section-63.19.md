@@ -1,7 +1,5 @@
 ##### § 63.19 Special procedures for discontinuances of international services. #####
 
-Link to an amendment published at 83 FR 31659, July 9, 2018.
-
 (a) With the exception of those international carriers described in paragraphs (b) and (c) of this section, any international carrier that seeks to discontinue, reduce, or impair service, including the retiring of international facilities, dismantling or removing of international trunk lines, shall be subject to the following procedures in lieu of those specified in §§ 63.61 through 63.602:
 
 (1) The carrier shall notify all affected customers of the planned discontinuance, reduction or impairment at least 30 days prior to its planned action. Notice shall be in writing to each affected customer unless the Commission authorizes in advance, for good cause shown, another form of notice.

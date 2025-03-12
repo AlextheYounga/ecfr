@@ -1,5 +1,7 @@
 ##### § 1223.3 Limitations. #####
 
+Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
+
 (a) Except as expressly provided herein for enforcement by FHFA, the regulations in this part do not, are not intended to, and should not be construed to create any right or benefit, substantive or procedural, enforceable at law, in equity, or through administrative proceeding, by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, a regulated entity, their officers, employees or agents, or any other person.
 
 (b) The contract clause required by § 1223.21(b)(6) and the itemized data reporting on numbers of contracts and amounts involved required under §§ 1223.22 and 1223.23(b)(13) through (22) apply only to contracts for services in any amount and to contracts for goods that equal or exceed $25,000 in annual value, whether in a single contract, multiple contracts, a series of contracts or renewals of contracts, with a single vendor.

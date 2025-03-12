@@ -494,11 +494,13 @@ DANGERCONTAINS BERYLLIUMMAY CAUSE CANCERCAUSES DAMAGE TO LUNGSAVOID CREATING DUS
 
 (o) *Dates* - (1) *Effective date.* This standard shall become effective March 10, 2017.
 
-(2) *Compliance dates.* All obligations of this standard commence and become enforceable on March 12, 2018, except:
+(2) *Compliance dates.* (i) Obligations contained in paragraphs (c), (d), (g), (k), and (l) of this standard: March 12, 2018;
 
-(i) Change rooms and showers required by paragraph (i) of this standard must be provided by March 11, 2019; and
+(ii) Change rooms and showers required by paragraph (i) of this standard: March 11, 2019;
 
-(ii) Engineering controls required by paragraph (f) of this standard must be implemented by March 10, 2020.
+(iii) Engineering controls required by paragraph (f) of this standard: March 10, 2020; and
+
+(iv) All other obligations of this standard: December 12, 2018.
 
 (p) *Appendix.* Appendix A - Control Strategies to Minimize Beryllium Exposure of this standard is non-mandatory.
 
@@ -522,4 +524,4 @@ Table A.1 - Exposure Control Recommendations
 
 \* All LEV specifications should be in accordance with the ACGIH® Publication No. 2094, “Industrial Ventilation - A Manual of Recommended Practice” wherever applicable.
 
-[82 FR 2736, Jan. 9, 2017, as amended at 83 FR 19948, May 7, 2018]
+[82 FR 2736, Jan. 9, 2017, as amended at 83 FR 19948, May 7, 2018; 83 FR 39360, Aug. 9, 2018]

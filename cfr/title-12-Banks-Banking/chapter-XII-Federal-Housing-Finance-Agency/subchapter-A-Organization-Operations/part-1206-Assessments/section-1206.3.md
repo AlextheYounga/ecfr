@@ -1,5 +1,7 @@
 ##### § 1206.3 Annual assessments. #####
 
+Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
+
 (a) *Establishing assessments.* The Director shall establish annual assessments on the Regulated Entities in an amount sufficient to maintain a working capital fund and provide for the payment of the FHFA's costs and expenses, including, but not limited to:
 
 (1) Expenses of any examinations under 12 U.S.C. 4517 and section 20 of the Federal Home Loan Bank Act (12 U.S.C. 1440);

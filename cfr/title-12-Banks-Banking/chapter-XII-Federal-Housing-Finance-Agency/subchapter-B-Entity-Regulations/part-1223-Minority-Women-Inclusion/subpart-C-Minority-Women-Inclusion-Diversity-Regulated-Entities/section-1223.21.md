@@ -1,5 +1,7 @@
 ##### § 1223.21 Promoting diversity and ensuring inclusion in all business and activities. #####
 
+Link to an amendment published at 83 FR 39326, Aug. 9, 2018.
+
 (a) *Equal opportunity notice.* Each regulated entity shall publish a statement, endorsed by its Chief Executive Officer and approved by its Board of Directors, confirming its commitment to the principles of equal opportunity in employment and in contracting, at a minimum, regardless of race, color, religion, sex, national origin, disability status, genetic information, age, sexual orientation, gender identity, or status as a parent.
 The notice also shall confirm commitment against retaliation or reprisal. Publication shall include, at a minimum, conspicuous posting in all regulated entity physical facilities, including through alternative media formats, as necessary, and accessible posting on the regulated entity's Web site. The notice shall be updated and re-published, re-endorsed by the Chief Executive Officer and re-approved by the Board of Directors annually.
 

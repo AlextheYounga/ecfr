@@ -1,0 +1,7 @@
+##### § 301.7805-1 Rules and regulations. #####
+
+(a) *Issuance.* The Commissioner, with the approval of the Secretary, shall prescribe all needful rules and regulations for the enforcement of the Code (except where this authority is expressly given by the Code to any person other than an officer or employee of the Treasury Department), including all rules and regulations as may be necessary by reason of any alteration of law in relation to internal revenue.
+
+(b) *Retroactivity.* The Commissioner, with the approval of the Secretary, may prescribe the extent, if any, to which any regulation or Treasury decision relating to the internal revenue laws shall be applied without retroactive effect. The Commissioner may prescribe the extent, if any, to which any ruling relating to the internal revenue laws, issued by or pursuant to authorization from him, shall be applied without retroactive effect.
+
+(c) *Preparation and distribution of regulations, forms, stamps, and other matters.* The Commissioner, under the direction of the Secretary, shall prepare and distribute all the instructions, regulations, directions, forms, blanks, stamps, and other matters pertaining to the assessment and collection of internal revenue.

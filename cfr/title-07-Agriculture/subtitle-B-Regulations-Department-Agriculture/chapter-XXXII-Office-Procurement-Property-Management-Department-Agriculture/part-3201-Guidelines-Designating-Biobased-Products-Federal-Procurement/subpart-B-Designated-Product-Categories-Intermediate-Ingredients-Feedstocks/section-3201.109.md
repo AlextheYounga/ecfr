@@ -1,0 +1,9 @@
+##### § 3201.109 Intermediates—Chemicals. #####
+
+(a) *Definition.* Intermediates—Chemicals are those used as reactants for organic synthesis reactions rather than for their functional properties in a chemical mixture; those used as building block chemicals and secondary chemicals such as glycerol, succinic acid, propanediol, and monomers such as lactic acid and propylene; those used for specific functional properties during manufacturing of other products such as pH regulators, flocculants, precipitants, neutralizing agents, emulsifiers, viscosity reducers, rheology modifiers, adhesion agents, detergents, wetting agents, foaming agents, or dispersants; those that are added to end-use products for their specific functional properties including polyols, polymers, and solvents for thinning and drying applications but excluding solvents used for cleaning; and those used for dyes, pigments, and scents including flavorings for non-food products such as lip balm.
+
+(b) *Minimum biobased content.* The Federal preferred procurement product must have a minimum biobased content of at least 22 percent, which shall be based on the amount of qualifying biobased carbon in the product as a percent of the weight (mass) of the total organic carbon in the finished product.
+
+(c) *Preference compliance date.* No later than July 10, 2019, procuring agencies, in accordance with this part, will give a procurement preference for qualifying biobased Intermediates—Chemicals. By that date, Federal agencies responsible for drafting or reviewing specifications for products to be procured shall ensure that the relevant specifications require the use of biobased Intermediates—Chemicals.
+
+[83 FR 31848, July 10, 2018]

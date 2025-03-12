@@ -1,5 +1,7 @@
 ##### § 1200.4 OMB control numbers assigned under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 83 FR 39325, Aug. 9, 2018.
+
 (a) Under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501-3531) and the implementing regulations of the Office of Management and Budget (OMB) (5 CFR part 1320), an agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
 
 (b) OMB has approved the collections of information contained in FHFA's regulations and has assigned each collection a control number. The following table displays the sections of FHFA's regulations (both those located in this chapter and those promulgated by the former Federal Housing Finance Board that appear in chapter IX of this title) containing collections of information, along with the applicable OMB control numbers and the expirations dates for those control numbers:
