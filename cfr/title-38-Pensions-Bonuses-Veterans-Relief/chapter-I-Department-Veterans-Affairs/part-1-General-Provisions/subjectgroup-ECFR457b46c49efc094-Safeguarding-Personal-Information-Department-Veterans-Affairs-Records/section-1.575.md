@@ -1,5 +1,7 @@
 ##### § 1.575 Social security numbers in veterans' benefits matters. #####
 
+Link to an amendment published at 87 FR 53381, Aug. 31, 2022.
+
 (a) Except as provided in paragraph (b) of this section, no one will be denied any right, benefit, or privilege provided by law because of refusal to disclose to the Department of Veterans Affairs a social security number.
 
 (b) VA shall require mandatory disclosure of a claimant's or beneficiary's social security number (including the social security number of a dependent of a claimant or beneficiary) on necessary forms as prescribed by the Secretary as a condition precedent to receipt or continuation of receipt of compensation or pension payable under the provisions of chapters 11, 13 and 15 of title 38, United States Code, provided, however, that a claimant shall not be required to furnish VA with a social security number for any person to whom a social security number has not been assigned. VA may also require mandatory disclosure of an applicant's social security number as a condition for receiving loan guaranty benefits and a social security number or other taxpayer identification number from existing direct and vendee loan borrowers and as a condition precedent to receipt of a VA-guaranteed loan, direct loan or vendee loan, under chapter 37 of title 38, United States Code. (Pub. L. 97-365, sec. 4)

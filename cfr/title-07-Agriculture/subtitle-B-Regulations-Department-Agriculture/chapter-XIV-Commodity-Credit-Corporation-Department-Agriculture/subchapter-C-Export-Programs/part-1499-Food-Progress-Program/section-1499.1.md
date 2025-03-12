@@ -6,13 +6,13 @@
 
 (2) The OMB guidance at 2 CFR part 200, as supplemented by 2 CFR part 400 and this part, applies to the FFPr Program, except as provided in paragraphs (e), (f) and (g) of this section.
 
-(c) Except as otherwise provided in this part, other regulations that are generally applicable to grants and cooperative agreements of USDA, including the applicable regulations set forth in 2 CFR chapters I, II, and IV, also apply to the FFPr Program. The provisions of the CCC Charter Act (15 U.S.C. 714 *et seq.*) and any other statutory or regulatory provisions that are generally applicable to CCC apply to the FFPr Program.
+(c) In addition to the provisions of this part, other regulations that are generally applicable to grants and cooperative agreements of USDA, including the applicable regulations set forth in 2 CFR chapters I, II, and IV, also apply to the FFPr Program, to the extent that such regulations do not directly conflict with the provisions of this part. The provisions of the CCC Charter Act (15 U.S.C. 714 *et seq.*) and any other statutory or regulatory provisions that are generally applicable to CCC apply to the FFPr Program.
 
 (d) In accordance with 7 U.S.C. 1736o(b)(5), assistance under the FFPr Program may be provided to governments of emerging agricultural countries, intergovernmental organizations, private voluntary organizations, nonprofit agricultural organizations or cooperatives, nongovernmental organizations, colleges or universities, and any other private entities.
 
-(e) The OMB guidance at 2 CFR part 200, and the provisions of 2 CFR part 400 and of this part, do not apply to an award by CCC under the FFPr Program to a recipient that is a foreign public entity, as defined in 2 CFR 200.46, and, therefore, they do not apply to a foreign government or an intergovernmental organization.
+(e) The OMB guidance at 2 CFR part 200, and the provisions of 2 CFR part 400 and of this part, do not apply to an award by CCC under the FFPr Program to a recipient that is a foreign public entity, as defined in 2 CFR 200.1, and, therefore, they do not apply to a foreign government or an intergovernmental organization.
 
-(f)(1) The OMB guidance at subparts A through E of 2 CFR part 200, as supplemented by 2 CFR part 400 and this part, applies to all awards by CCC under the FFPr Program to all recipients that are private voluntary organizations, including a private voluntary organization that is a foreign organization, as defined in 2 CFR 200.47; nonprofit agricultural organizations or cooperatives, including a nonprofit agricultural organization or cooperative that is a foreign organization; nongovernmental organizations, including a nongovernmental organization that is a for-profit entity or a foreign organization; colleges or universities; or other private entities, including a private entity that is a for-profit entity or a foreign organization.
+(f)(1) The OMB guidance at subparts A through E of 2 CFR part 200, as supplemented by 2 CFR part 400 and this part, applies to all awards by CCC under the FFPr Program to all recipients that are private voluntary organizations, including a private voluntary organization that is a foreign organization, as defined in 2 CFR 200.1; nonprofit agricultural organizations or cooperatives, including a nonprofit agricultural organization or cooperative that is a foreign organization; nongovernmental organizations, including a nongovernmental organization that is a for-profit entity or a foreign organization; colleges or universities; or other private entities, including a private entity that is a for-profit entity or a foreign organization.
 
 (2) The OMB guidance at subparts A through E of 2 CFR part 200, as supplemented by 2 CFR part 400 and this part, applies to all subawards to all subrecipients under this part, except in cases:
 
@@ -26,4 +26,4 @@
 
 (3) Audit requirements for recipients and subrecipients that are for-profit entities or foreign organizations are set forth in § 1499.18.
 
-[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45058, Aug. 28, 2019]
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45058, Aug. 28, 2019; 87 FR 53365, Aug. 31, 2022]

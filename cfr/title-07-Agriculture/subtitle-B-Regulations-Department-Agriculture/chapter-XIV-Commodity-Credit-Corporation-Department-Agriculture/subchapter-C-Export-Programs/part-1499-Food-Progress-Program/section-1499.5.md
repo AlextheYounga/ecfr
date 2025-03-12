@@ -2,9 +2,9 @@
 
 (a) After CCC approves an application by an applicant, CCC will negotiate an agreement with the applicant. The agreement will set forth the obligations of CCC and the recipient.
 
-(b) The agreement will specify the general information required in 2 CFR 200.210(a), as applicable.
+(b) The agreement will include the general information required in 2 CFR 200.211(b), as applicable.
 
-(c) The agreement will incorporate general terms and conditions, pursuant to 2 CFR 200.210(b), as applicable.
+(c) The agreement will incorporate general terms and conditions, pursuant to 2 CFR 200.211(c), as applicable.
 
 (d) To the extent that this information is not already included in the agreement pursuant to paragraphs (b) and (c) of this section, the agreement will also include the following:
 
@@ -34,11 +34,11 @@
 
 (3) A budget, which will set forth the maximum amounts of sale proceeds, CCC-provided funds, interest, program income, and voluntary committed cost sharing or matching contributions that may be used for each line item, as well as other applicable budget requirements;
 
-(4) Performance goals for the agreement, including a list of results, with long-term benefits where applicable, to be achieved by the activities and corresponding indicators, targets, and time frames; and
+(4) Performance goals for the agreement, including a list of results, with long-term benefits where applicable, to be achieved by the activities; indicators, targets, and baseline data; and information about how performance will be assessed, including the timing and scope of expected performance; and
 
 (5) Any additional provisions specified by CCC during the negotiation of the agreement.
 
-(e) The agreement will also include specific terms and conditions, and certifications and representations, including the following:
+(e) The agreement will also include specific terms and conditions, and certifications and representations, including the following, as applicable:
 
 (1) The agreement will prohibit the sale or transshipment of the donated commodities by the recipient to a country not specified in the agreement, or the use of the donated commodities for other than domestic purposes, for as long as the recipient has title to such donated commodities;
 
@@ -46,7 +46,7 @@
 
 (3) The recipient will assert that, to the best of its knowledge, the importation and distribution of the donated commodities in the target country will not result in a substantial disincentive to or interference with domestic production or marketing in that country. The recipient must submit information to CCC to support this assertion;
 
-(4) The recipient will assert that, to the best of its knowledge, any sale or barter of the donated commodities will not displace or interfere with any sales of United States commodities that may otherwise be made to or within the target country. The recipient must submit information to CCC to support this assertion; and
+(4) The recipient will assert that, to the best of its knowledge, any sale or barter of the donated commodities will not displace or interfere with any sales of United States commodities that would otherwise be made to or within the target country. The recipient must submit information to CCC to support this assertion; and
 
 (5) The recipient will assert that adequate transportation and storage facilities will be available in the target country at the time of the arrival of the donated commodities to prevent spoilage or waste of the donated commodities. The recipient must submit information to CCC to support this assertion.
 
@@ -54,4 +54,4 @@
 
 (g) CCC may provide donated commodities and CCC-provided funds under a multiyear agreement contingent upon the availability of commodities and funds.
 
-[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019]
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019; 87 FR 53365, Aug. 31, 2022]

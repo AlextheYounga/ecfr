@@ -2,7 +2,7 @@
 
 (a) If a recipient arranges for transportation in accordance with § 1499.7(b)(2), CCC will, as specified in the agreement, pay the costs of such transportation to the ocean carrier or to the recipient. The recipient must, as specified in the agreement, submit to CCC, arrange to be submitted to CCC, or maintain on file and make available to CCC, the following documents:
 
-(1) The original, or a true copy of, each on board bill of lading indicating the freight rate and signed by the originating ocean carrier;
+(1) The original, or a true copy, of each on board bill of lading indicating the freight rate and signed by the originating ocean carrier;
 
 (2) For all non-containerized cargoes:
 
@@ -26,7 +26,7 @@
 
 (d) In no case will CCC provide payment to a recipient for demurrage costs or pay demurrage to any other entity.
 
-(e) If CCC has agreed to be responsible for the costs of transporting, storing, and distributing the donated commodities from the designated discharge port or point of entry, and if the recipient will bear or has borne any of these costs, in accordance with the agreement, CCC will either provide an advance payment or a reimbursement to the recipient in the amount of such costs, in the manner set forth in the agreement.
+(e) If CCC has agreed to be responsible for the costs of transporting, storing, and distributing the donated commodities from the designated discharge port or the point of entry into the target country, and if the recipient will bear or has borne any of these costs, in accordance with the agreement, CCC will either provide an advance payment or a reimbursement to the recipient in the amount of such costs, in the manner set forth in the agreement.
 
 (f) If the agreement authorizes the payment of CCC-provided funds, CCC will generally provide the funds to the recipient on an advance payment basis, in accordance with 2 CFR 200.305(b). In addition, the following procedures will apply to advance payments:
 
@@ -48,10 +48,10 @@
 
 (iv) If a recipient must return funds to CCC in accordance with paragraph (f)(6) of this section, the recipient must return the funds by the later of five business days after the 91st day after the funds were advanced, or five business days after the date on which the recipient receives notice from CCC that it has denied the recipient's request to roll over the funds; provided, however, that CCC may specify a different date for the return of funds in a written communication to the recipient.
 
-(7) Except as may otherwise be provided in the agreement, a recipient must deposit and maintain in an insured bank account located in the United States all funds advanced by CCC. The account must be interest-bearing, unless one of the exceptions in 2 CFR 200.305(b)(8) applies or CCC determines that this requirement would constitute an undue burden. A recipient will not be required to maintain a separate bank account for advance payments of CCC-provided funds. However, a recipient must be able to separately account for the receipt, obligation, and expenditure of funds under each agreement.
+(7) Except as may otherwise be provided in the agreement, a recipient must deposit and maintain in an insured bank account located in the United States all funds advanced by CCC. The account must be interest-bearing, unless one of the exceptions in 2 CFR 200.305(b)(8) applies or CCC determines that this requirement would constitute an undue burden. A recipient will not be required to maintain a separate bank account for advance payments of CCC-provided funds. However, a recipient must be able to separately account for funds received, obligated, and expended under each agreement. When the recipient requires the use of funds that have been advanced by CCC to pay approved expenses under this agreement, the recipient may transfer the funds from the bank account located in the United States to a bank account in the target country.
 
-(8) A recipient may retain, for administrative purposes, up to $500 per Federal fiscal year of any interest earned on funds advanced under an agreement. The recipient must remit to the U.S. Department of Health and Human Services, Payment Management System, any additional interest earned during the Federal fiscal year on such funds, in accordance with the procedures in 2 CFR 200.305(b)(9).
+(8) A recipient may retain, for administrative purposes, up to $500 per Federal fiscal year of any interest earned on funds advanced under an agreement. The recipient must remit to the U.S. Department of Health and Human Services any additional interest earned during the Federal fiscal year on such funds, in accordance with the procedures in 2 CFR 200.305(b)(9).
 
 (g) If a recipient is required to pay funds to CCC in connection with an agreement, the recipient must make such payment in U.S. dollars, unless otherwise approved in advance by CCC.
 
-[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019]
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019; 87 FR 53365, Aug. 31, 2022]

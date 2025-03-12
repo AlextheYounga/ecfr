@@ -6,7 +6,7 @@
 
 (1) A completed Form SF-424, which is a standard application for Federal assistance;
 
-(2) An introduction and a strategic analysis, which includes an impact analysis, as specified in the notice of funding opportunity;
+(2) An introduction and a strategic analysis, which includes a description of opportunities for lasting impact and sustainable benefits, as specified in the notice of funding opportunity;
 
 (3) A plan of operation that contains the elements specified in the notice of funding opportunity;
 
@@ -26,14 +26,16 @@
 
 (5) A project-level results framework that outlines the changes that the applicant expects to accomplish through the proposed project and is based on the FFPr Program-level results framework, as set forth in the notice of funding opportunity;
 
-(6) Unless otherwise specified in the notice of funding opportunity, an evaluation plan that describes the proposed design, methodology, and time frame of the project's evaluation activities, and how the applicant intends to manage these activities, and that will include a baseline study, interim evaluation, final evaluation, and any applicable special studies; and
+(6) Unless otherwise specified in the notice of funding opportunity, an evaluation plan that describes the proposed design, methodology, and time frame of the project's evaluation activities, and how the applicant intends to manage these activities, and that will include a baseline study, midterm evaluation, final evaluation, and any applicable special studies; and
 
 (7) Any additional required items set forth in the notice of funding opportunity.
 
-(c) Each applicant (unless the applicant has an exception approved by CCC under 2 CFR 25.110(d)) is required to:
+(c) Unless an exception in 2 CFR 25.110 applies, each applicant is required to:
 
 (1) Be registered in the System for Award Management (SAM) before submitting its application;
 
 (2) Provide a valid unique entity identifier in its application; and
 
-(3) Continue to maintain an active SAM registration with current information at all times during which it has an active Federal award or an application or plan under consideration by a Federal awarding agency.
+(3) Maintain an active SAM registration, in accordance with 2 CFR part 25, with current information at all times during which it has an active Federal award or an application or plan under consideration by a Federal awarding agency.
+
+[81 FR 62605, Sept. 12, 2016, as amended at 87 FR 53365, Aug. 31, 2022]

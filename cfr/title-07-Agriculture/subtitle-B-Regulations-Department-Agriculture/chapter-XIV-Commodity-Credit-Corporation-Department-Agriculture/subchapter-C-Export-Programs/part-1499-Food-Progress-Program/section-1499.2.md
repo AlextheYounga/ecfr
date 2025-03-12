@@ -12,7 +12,7 @@ These are definitions for terms used in this part. The definitions in 2 CFR part
 
 *College* or *university* means an educational institution in any State which admits as regular students only persons having a certificate of graduation from a school providing secondary education, or the recognized equivalent of such a certificate; is legally authorized within such State to provide a program of education beyond secondary education; provides an educational program for which a bachelor's degree or any other higher degree is awarded; is a public or other nonprofit institution; and is accredited by a nationally recognized accrediting agency or association. The terms include a research foundation maintained by such a college or university. As used in this definition, State will have the meaning given in 7 U.S.C. 3103(16).
 
-*Commodities* mean agricultural commodities, or products of agricultural commodities, that are produced in the United States.
+*Commodities* means agricultural commodities, or products of agricultural commodities, that are produced in the United States.
 
 *Cooperative* means a private sector organization whose members own and control the organization and share in its services and its profits and that provides business services and outreach in cooperative development for its membership.
 
@@ -30,7 +30,7 @@ These are definitions for terms used in this part. The definitions in 2 CFR part
 
 *Private voluntary organization* means a not-for-profit, nongovernmental organization (in the case of a United States organization, an organization that is exempt from Federal income taxes under section 501(c)(3) of the Internal Revenue Code of 1986) that receives funds from private sources, voluntary contributions of money, staff time, or in-kind support from the public, and that is engaged in or is planning to engage in voluntary, charitable, or development assistance activities (other than religious activities).
 
-*Program income* means interest earned on proceeds from the sale of donated commodities, as well as funds received by a recipient or subrecipient as a direct result of carrying out an approved activity under an agreement. The term includes but is not limited to income from fees for services performed, the use or rental of real or personal property acquired under a Federal award, the sale of items fabricated under a Federal award, license fees and royalties on patents and copyrights, and principal and interest on loans made with Federal award funds. Program income does not include proceeds from the sale of donated commodities; CCC-provided funds or interest earned on such funds; or funds provided for cost sharing or matching contributions, refunds or rebates, credits, discounts, or interest earned on any of them.
+*Program income* means interest earned on proceeds from the sale of donated commodities, as well as funds received by a recipient or subrecipient as a direct result of carrying out an approved activity under an agreement. The term includes but is not limited to income from fees for services performed, the use or rental of real or personal property acquired under a Federal award, the sale of items fabricated under a Federal award, license fees and royalties on patents and copyrights, and principal and interest on loans made with Federal award funds. Program income does not include any of the following: proceeds from the sale of donated commodities; CCC-provided funds; interest earned on CCC-provided funds; funds provided for cost sharing or matching contributions, refunds, rebates, credits, or discounts; or interest earned on funds provided for cost sharing or matching contributions, refunds, rebates, credits, or discounts.
 
 *Project* means the totality of the activities to be carried out by a recipient, directly or through a subrecipient, to fulfill the objectives of an agreement.
 
@@ -46,4 +46,4 @@ These are definitions for terms used in this part. The definitions in 2 CFR part
 
 *Voluntary committed cost sharing or matching contributions* means cost sharing or matching contributions specifically pledged on a voluntary basis by an applicant or recipient, which become binding as part of an agreement. Voluntary committed cost sharing or matching contributions may be provided in the form of cash or in-kind contributions.
 
-[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019]
+[81 FR 62605, Sept. 12, 2016, as amended at 84 FR 45059, Aug. 28, 2019; 87 FR 53365, Aug. 31, 2022]

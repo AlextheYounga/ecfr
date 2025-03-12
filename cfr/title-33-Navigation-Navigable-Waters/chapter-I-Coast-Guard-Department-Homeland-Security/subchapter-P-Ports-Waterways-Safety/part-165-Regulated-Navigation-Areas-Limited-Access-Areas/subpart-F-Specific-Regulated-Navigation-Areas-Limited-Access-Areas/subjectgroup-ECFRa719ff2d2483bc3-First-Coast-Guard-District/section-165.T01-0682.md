@@ -1,5 +1,7 @@
 ##### § 165.T01-0682 Safety Zone - North Hero-Grand Isle Bridge, Lake Champlain, VT. #####
 
+Link to an amendment published at 87 FR 53379, Aug. 31, 2022.
+
 (a) *Location.* The following area is a safety zone: All navigable waters on Lake Champlain, within a 50-yard radius of the center of the North Hero-Grand Isle Bridge that spans Lake Champlain between North Hero Island and Grand Isle in position 44°45′57″ N, 073°17′20″ W (NAD 83).
 
 (b) *Definitions.* As used in this section:

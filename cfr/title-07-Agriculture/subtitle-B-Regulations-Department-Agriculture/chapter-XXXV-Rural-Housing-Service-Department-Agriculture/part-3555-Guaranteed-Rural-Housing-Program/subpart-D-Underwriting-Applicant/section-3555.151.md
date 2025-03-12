@@ -1,5 +1,7 @@
 ##### § 3555.151 Eligibility requirements. #####
 
+Link to an amendment published at 87 FR 53372, Aug. 31, 2022.
+
 (a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable moderate income limit. The lender is responsible for documenting the household's income to determine eligibility for the SFHGLP.
 
 (b) *Citizenship status.* Applicants must provide evidence acceptable to the Agency of their status as United States citizens, U.S. non-citizen nationals, or qualified aliens, as defined in § 3555.10.
