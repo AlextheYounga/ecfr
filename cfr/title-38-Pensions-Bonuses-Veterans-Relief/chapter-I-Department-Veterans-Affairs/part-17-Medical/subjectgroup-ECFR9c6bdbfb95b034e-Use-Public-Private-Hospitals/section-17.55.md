@@ -1,5 +1,7 @@
 ##### § 17.55 Payment for authorized public or private hospital care. #####
 
+Link to an amendment published at 84 FR 26306, June 5, 2019.
+
 Except as otherwise provided in this section, payment for public or private hospital care authorized under 38 U.S.C. 1703 and 38 CFR 17.52 of this part or under 38 U.S.C. 1728 and 38 CFR 17.120 of this part shall be based on a prospective payment system similar to that used in the Medicare program for paying for similar inpatient hospital services in the community. Payment shall be made using the Health Care Financing Administration (HCFA) PRICER for each diagnosis-related group (DRG) applicable to the episode of care.
 
 (a) Payment shall be made of the full prospective payment amount per discharge, as determined according to the methodology in subparts D and G of 42 CFR part 412, as appropriate.

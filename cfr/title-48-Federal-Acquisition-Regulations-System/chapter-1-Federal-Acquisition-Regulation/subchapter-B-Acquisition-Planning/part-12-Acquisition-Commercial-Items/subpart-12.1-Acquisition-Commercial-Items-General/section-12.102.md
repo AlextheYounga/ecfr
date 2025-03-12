@@ -1,7 +1,5 @@
 ##### 12.102 Applicability. #####
 
-Link to an amendment published at 84 FR 19837, May 6, 2019.
-
 (a) This part shall be used for the acquisition of supplies or services that meet the definition of commercial items at section 2.101.
 
 (b) Contracting officers shall use the policies in this part in conjunction with the policies and procedures for solicitation, evaluation and award prescribed in part 13, Simplified Acquisition Procedures; part 14, Sealed Bidding; or part 15, Contracting by Negotiation, as appropriate for the particular acquisition.
@@ -22,7 +20,7 @@ Link to an amendment published at 84 FR 19837, May 6, 2019.
 
 (5) Directly from another Federal agency.
 
-(f)(1) Contracting officers may treat any acquisition of supplies or services that, as determined by the head of the agency, are to be used to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack, as an acquisition of commercial items.
+(f)(1) Contracting officers may treat any acquisition of supplies or services that, as determined by the head of the agency, are to be used to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack, as an acquisition of commercial items.
 
 (2) A contract in an amount greater than $19 million that is awarded on a sole source basis for an item or service treated as a commercial item under paragraph (f)(1) of this section but does not meet the definition of a commercial item as defined at FAR 2.101 shall not be exempt from -
 

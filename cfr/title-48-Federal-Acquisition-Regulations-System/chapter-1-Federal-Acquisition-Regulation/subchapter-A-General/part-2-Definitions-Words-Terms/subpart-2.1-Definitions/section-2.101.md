@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 84 FR 19836, May 6, 2019.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -308,6 +306,8 @@ Link to an amendment published at 84 FR 19836, May 6, 2019.
 
 *Electronic Funds Transfer (EFT) indicator* means a four-character suffix to the unique entity identifier. The suffix is assigned at the discretion of the commercial, nonprofit, or Government entity to establish additional System for Award Management records for identifying alternative EFT accounts (see subpart 32.11) for the same entity.
 
+*Emergency,* as used in 6.208, 13.201, 13.500, 18.001, 18.202, 18.203, and subpart 26.2, means any occasion or instance for which, in the determination of the President, Federal assistance is needed to supplement State and local efforts and capabilities to save lives and to protect property and public health and safety, or to lessen or avert the threat of a catastrophe in any part of the United States (42 U.S.C. 5122).
+
 *End product* means supplies delivered under a line item of a Government contract, except for use in part 25 and the associated clauses at 52.225-1, 52.225-3, and 52.225-5, see the definitions in 25.003, 52.225-1(a), 52.225-3(a), and 52.225-5(a).
 
 *Energy-efficient product* - (1) Means a product that -
@@ -508,6 +508,8 @@ Link to an amendment published at 84 FR 19836, May 6, 2019.
 
 *Line item number* means either a numeric or alphanumeric format to identify a line item.
 
+*Major disaster,* as used in 6.208, 13.201, 13.500, 18.001, 18.202, 18.203, and subpart 26.2, means any natural catastrophe (including any hurricane, tornado, storm, high water, winddriven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, or drought), or regardless of cause, any fire, flood, or explosion, in any part of the United States, which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under the Stafford Act to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby (42 U.S.C. 5122).
+
 *Major system* means that combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software, or any combination thereof, but exclude construction or other improvements to real property. A system is a major system if -
 
 (1) The Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $185 million based on Fiscal Year 2014 constant dollars or the eventual total expenditure for the acquisition exceeds $835 million based on Fiscal Year 2014 constant dollars (or any update of these thresholds based on a more recent fiscal year, as specified in the DoD Instruction 5000.02, “Operation of the Defense Acquisition System”);
@@ -554,7 +556,7 @@ Link to an amendment published at 84 FR 19836, May 6, 2019.
 
 (2) For acquisitions of services subject to 41 U.S.C. chapter 67, Service Contract Labor Standards, $2,500; and
 
-(3) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation or to facilitate defense against or recovery from nuclear, biological, chemical or radiological attack as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
+(3) For acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), as described in 13.201(g)(1), except for construction subject to 40 U.S.C. chapter 31, subchapter IV, Wage Rate Requirements (Construction) (41 U.S.C. 1903) -
 
 (i) $20,000 in the case of any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
@@ -786,7 +788,7 @@ Link to an amendment published at 84 FR 19836, May 6, 2019.
 
 *Simplified acquisition threshold* means $150,000, except for -
 
-(1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack (41 U.S.C. 1903), the term means -
+(1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation; to facilitate defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; to support a request from the Secretary of State or the Administrator of the United States Agency for International Development to facilitate provision of international disaster assistance pursuant to 22 U.S.C. 2292 *et seq.*; or to support response to an emergency or major disaster (42 U.S.C. 5122), (41 U.S.C. 1903), the term means -
 
 (i) $750,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
 

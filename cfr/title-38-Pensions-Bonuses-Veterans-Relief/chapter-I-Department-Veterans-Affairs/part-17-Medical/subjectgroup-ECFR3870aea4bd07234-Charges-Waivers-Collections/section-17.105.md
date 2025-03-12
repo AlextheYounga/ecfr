@@ -1,5 +1,7 @@
 ##### § 17.105 Waivers. #####
 
+Link to an amendment published at 84 FR 26017, June 5, 2019.
+
 Applications or requests for waiver of debts or claims asserted by the Department of Veterans Affairs in connection with the medical program generally will be denied by the facility Fiscal activity on the basis there is no legal authority to waive debts, unless the question of waiver should be referred as follows:
 
 (a) *Of charges for medical services.* If the debt represents charges made under § 17.102, the application or request for waiver should be referred for disposition under § 1.900 *et seq.* of this chapter to the field facility Committee on Waivers and Compromises which shall take final action, or

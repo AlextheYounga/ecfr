@@ -1,5 +1,7 @@
 ##### § 17.52 Hospital care and medical services in non-VA facilities. #####
 
+Link to an amendment published at 84 FR 26306, June 5, 2019.
+
 (a) When VA facilities or other government facilities are not capable of furnishing economical hospital care or medical services because of geographic inaccessibility or are not capable of furnishing care or services required, VA may contract with non-VA facilities for care in accordance with the provisions of this section. When demand is only for infrequent use, individual authorizations may be used. Care in public or private facilities, however, subject to the provisions of §§ 17.53, 17.54, 17.55 and 17.56, will only be authorized, whether under a contract or an individual authorization, for -
 
 (1) Hospital care or medical services to a veteran for the treatment of -

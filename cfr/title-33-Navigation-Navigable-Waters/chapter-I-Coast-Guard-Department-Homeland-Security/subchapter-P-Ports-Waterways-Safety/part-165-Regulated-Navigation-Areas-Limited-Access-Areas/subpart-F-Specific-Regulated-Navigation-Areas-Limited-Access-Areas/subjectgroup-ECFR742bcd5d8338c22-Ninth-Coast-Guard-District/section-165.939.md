@@ -1,5 +1,7 @@
 ##### § 165.939 Safety Zones; Annual Events in the Captain of the Port Buffalo Zone. #####
 
+Link to an amendment published at 84 FR 25994, June 5, 2019.
+
 (a) *Regulations.* (1) In accordance with the general regulations in § 165.23 of this part, entry into, transiting, or anchoring within this safety zone is prohibited unless authorized by the Captain of the Port Buffalo or his designated on-scene representative.
 
 (2) These safety zones are closed to all vessel traffic, except as may be permitted by the Captain of the Port Buffalo or his designated on-scene representative.

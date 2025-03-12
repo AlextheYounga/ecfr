@@ -1,5 +1,7 @@
 ##### § 17.108 Copayments for inpatient hospital care and outpatient medical care. #####
 
+Link to an amendment published at 84 FR 26017, June 5, 2019.Link to an amendment published at 84 FR 26306, June 5, 2019.
+
 (a) *General.* This section sets forth requirements regarding copayments for inpatient hospital care and outpatient medical care provided to veterans by VA.
 
 (b) *Copayments for inpatient hospital care.* (1) Except as provided in paragraphs (d) or (e) of this section, a veteran, as a condition of receiving inpatient hospital care provided by VA (provided either directly by VA or obtained by VA by contract, provider agreement, or sharing agreement), must agree to pay VA (and is obligated to pay VA) the applicable copayment, as set forth in paragraph (b)(2), (b)(3), or (b)(4) of this section.

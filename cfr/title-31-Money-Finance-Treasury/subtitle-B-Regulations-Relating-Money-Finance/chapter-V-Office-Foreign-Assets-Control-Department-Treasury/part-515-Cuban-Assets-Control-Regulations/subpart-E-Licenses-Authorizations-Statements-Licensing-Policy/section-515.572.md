@@ -6,6 +6,10 @@
 
 (ii) The entry into blocked space, code-sharing, or leasing arrangements to facilitate the provision of carrier services by air authorized pursuant to section 515.572(a)(2) is authorized, including the entry into such arrangements with a national of Cuba.
 
+Note 1 to paragraph (a)(2):
+
+The export or reexport to Cuba of items subject to the Export Administration Regulations (15 CFR part 730 *et seq.*), including vessels and aircraft used to provide carrier services, requires separate authorization from the Department of Commerce. See § 515.533.
+
 (3) *Authorization to provide remittance forwarding services.* Banking institutions, as defined in § 515.314, including U.S.-registered brokers or dealers in securities and U.S.-registered money transmitters, are authorized to provide services in connection with the collection, forwarding, or receipt of remittances authorized pursuant to this part.
 
 (4) *Authorization to provide lodging services.* Persons subject to U.S. jurisdiction who are providing carrier services by vessel authorized pursuant to paragraph (a)(2) of this section are authorized to provide lodging services onboard such vessels to persons authorized to travel to or from Cuba pursuant to this part during the period of time the vessel is traveling to, from, or within Cuba, including when docked at a port in Cuba.
@@ -40,4 +44,4 @@ The following persons may be transported, directly or indirectly, between the Un
 
 (5) An individual, including a foreign national, who is traveling on official business of the U.S. government, a foreign government, or an intergovernmental organization of which the United States is a member or in which the United States holds observer status - including an employee, contractor, or grantee of such government or intergovernmental organization and any individual traveling on a diplomatic passport, as well as any close relative, as defined in § 515.339, accompanying the traveler - may be transported between the United States and Cuba.
 
-[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017]
+[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017; 84 FR 25993, June 5, 2019]

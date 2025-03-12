@@ -1,5 +1,7 @@
 ##### § 17.56 VA payment for inpatient and outpatient health care professional services at non-departmental facilities and other medical charges associated with non-VA outpatient care. #####
 
+Link to an amendment published at 84 FR 26306, June 5, 2019.
+
 (a) Except for health care professional services provided in the state of Alaska (see paragraph (b) of this section), VA will determine the amounts paid under § 17.52 or § 17.120 for health care professional services, and all other medical services associated with non-VA outpatient care, using the applicable method in this section:
 
 (1) If a specific amount has been negotiated with a specific provider, VA will pay that amount.

@@ -1,5 +1,7 @@
 ##### § 17.46 Eligibility for hospital, domiciliary or nursing home care of persons discharged or released from active military, naval, or air service. #####
 
+Link to an amendment published at 84 FR 26306, June 5, 2019.
+
 (a) In furnishing hospital care under 38 U.S.C. 1710(a)(1), VA officials shall:
 
 (1) If the veteran is in immediate need of hospitalization, furnish care at VA facility where the veteran applies or, if that facility is incapable of furnishing care, arrange to admit the veteran to the nearest VA medical center, or Department of Defense hospital with which VA has a sharing agreement under 38 U.S.C. 8111, which is capable of providing the needed care, or if VA or DOD facilities are not available, arrange for care on a contract basis if authorized by 38 U.S.C. 1703 and 38 CFR 17.52; or

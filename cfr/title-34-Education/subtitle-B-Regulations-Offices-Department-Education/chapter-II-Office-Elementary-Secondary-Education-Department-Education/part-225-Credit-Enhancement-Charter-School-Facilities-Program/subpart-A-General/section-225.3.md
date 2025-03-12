@@ -14,7 +14,7 @@ The following regulations apply to the Credit Enhancement for Charter School Fac
 
 (5) [Reserved]
 
-(6) 34 CFR part 81 (General Educational Provisions Act - Enforcement).
+(6) 34 CFR part 81 (General Educational Provisions Act—Enforcement).
 
 (7) 34 CFR part 82 (New Restrictions on Lobbying).
 
@@ -32,4 +32,4 @@ The following regulations apply to the Credit Enhancement for Charter School Fac
 
 (c) The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards in 2 CFR part 200, as adopted in 2 CFR part 3474 and OMB Guidelines to Agencies on Governmentwide Debarment and Suspension (Nonprocurement) in 2 CFR part 180, as adopted in 2 CFR part 3485.
 
-(Authority: 20 U.S.C. 1221e-3; 1232)[70 FR 15003, Mar. 24, 2005, as amended at 79 FR 76095, Dec. 19, 2014]
+[70 FR 15003, Mar. 24, 2005, as amended at 79 FR 76095, Dec. 19, 2014; 84 FR 25998, June 5, 2019]

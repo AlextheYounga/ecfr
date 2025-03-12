@@ -1,5 +1,7 @@
 ##### § 17.111 Copayments for extended care services. #####
 
+Link to an amendment published at 84 FR 26307, June 5, 2019.
+
 (a) *General.* This section sets forth requirements regarding copayments for extended care services provided to veterans by VA (either directly by VA or paid for by VA).
 
 (b) *Copayments.* (1) Unless exempted under paragraph (f) of this section, as a condition of receiving extended care services from VA, a veteran must agree to pay VA and is obligated to pay VA a copayment as specified by this section. A veteran has no obligation to pay a copayment for the first 21 days of extended care services that VA provided the veteran in any 12-month period (the 12-month period begins on the date that VA first provided extended care services to the veteran). However, for each day that extended care services are provided beyond the first 21 days, a veteran is obligated to pay VA the copayment amount set forth below to the extent the veteran has available resources. Available resources are based on monthly calculations, as determined under paragraph (d) of this section. The following sets forth the extended care services provided by VA and the corresponding copayment amount per day:

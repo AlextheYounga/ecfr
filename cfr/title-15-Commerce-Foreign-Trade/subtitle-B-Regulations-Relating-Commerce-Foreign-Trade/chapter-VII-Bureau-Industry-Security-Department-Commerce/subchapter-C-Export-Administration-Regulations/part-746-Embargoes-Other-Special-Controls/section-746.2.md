@@ -80,7 +80,13 @@ Note 2 to paragraph (b)(3)(i):
 
 The policy of case-by-case review in this paragraph is intended to facilitate exports and reexports to meet the needs of the Cuban people. Accordingly, BIS generally will deny applications to export or reexport items for use by state-owned enterprises, agencies, and other organizations that primarily generate revenue for the state, including those engaged in tourism and those engaged in the extraction or production of minerals or other raw materials. Applications for export or reexport of items destined to the Cuban military, police, intelligence or security services also generally will be denied. Additionally, pursuant to section 3(a) of the National Security Presidential Memorandum on Strengthening the Policy of the United States Toward Cuba (NSPM), dated June 16, 2017, BIS generally will deny applications to export or reexport items for use by entities or subentities identified by the Department of State in the Federal Register or at *https://www.state.gov/e/eb/tfs/spi/cuba/cubarestrictedlist/index.htm,* unless such transactions are determined to be consistent with sections 2 and 3(a)(iii) of the NSPM.
 
-(ii) Applications for exports or reexports of aircraft or vessels on temporary sojourn to Cuba either to deliver humanitarian goods or services, or consistent with the foreign policy interests of the United States, may be authorized on a case-by-case basis.
+(ii) [Reserved]
+
+(4) *Temporary sojourns of aircraft and vessels.* Applications for exports or reexports of aircraft or vessels on temporary sojourn to Cuba, other than aircraft operated by certificated air carriers or cargo vessels for hire, are subject to a general policy of denial unless consistent with the foreign policy or national security interests of the United States. Applications for exports or reexports of aircraft operated by certificated air carriers or cargo vessels for hire on temporary sojourn to Cuba may be authorized on a case-by-case basis.
+
+Note 1 to paragraph (b)(4):
+
+Applications for exports or reexports of private and corporate aircraft, cruise ships, sailboats, fishing vessels, and other similar aircraft and vessels on temporary sojourn to Cuba will generally be denied.
 
 (c) *Definitions.* For purposes of this section, “U.S. person” means any person subject to the jurisdiction of the United States, as described in § 515.329 of the Cuban Assets Control Regulations (31 CFR 515.329).
 

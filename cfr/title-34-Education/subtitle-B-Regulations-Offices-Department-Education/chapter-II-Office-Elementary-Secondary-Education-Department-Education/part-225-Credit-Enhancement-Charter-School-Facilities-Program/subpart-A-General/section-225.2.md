@@ -8,4 +8,4 @@ The following are eligible to receive a grant under this part:
 
 (c) A consortium of entities described in paragraphs (a) and (b) of this section.
 
-(Authority: 20 U.S.C. 7223a; 7223i(2))
+[70 FR 15003, Mar. 24, 2005, as amended at 84 FR 25998, June 5, 2019]

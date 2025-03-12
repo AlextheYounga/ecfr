@@ -6,4 +6,4 @@
 
 (c) The maximum possible score for each criterion is indicated in parentheses.
 
-(Authority: 20 U.S.C. 7223; 1232)
+[70 FR 15003, Mar. 24, 2005, as amended at 84 FR 25998, June 5, 2019]

@@ -28,6 +28,10 @@
 
 (vii) The location of the consular office nearest to the petitioner's current residence or, if in the United States, nearest to the petitioner's last foreign residence prior to entry into the United States;
 
+(viii) The unique serial or issuance number associated with the petitioner's valid, unexpired passport, country or authority of passport issuance, and expiration date, unless the petitioner would be exempt from the passport requirement pursuant to 22 CFR 42.2(d), (e), or (g)(2).
+
+(ix) Failure to accurately include any information or documents required by paragraphs (b)(1)(i) through (viii) or paragraph (b)(2) of this section will result in disqualification of the entry for that fiscal year.
+
 (2) *Requirements for photographs.* The petition will also require inclusion of a photograph of the petitioner and of his or her spouse and all unmarried children under the age of 21 years. The photographs must meet the following specifications:
 
 (i) A digital image of the applicant from either a digital camera source or a scanned photograph via scanner. If scanned, the original photographic print must have been 2″ by 2″ (50mm × 50mm). Scanner hardware and digital image resolution requirements will be further specified in the public notice described in paragraph (b)(3) of this section.
@@ -78,4 +82,4 @@
 
 (i) *Diversity Visa Lottery fee.* Consular officers shall collect, or ensure the collection of, the Diversity Visa Lottery fee from those persons who apply for a diversity immigrant visa, described in INA 203(c), after being selected by the diversity visa lottery program. The Diversity Visa Lottery fee, as prescribed by the Secretary of State, is set forth in the Schedule of Fees, 22 CFR 22.1.
 
-[68 FR 49355, Aug. 18, 2003, as amended at 73 FR 7670, Feb. 11, 2008; 77 FR 18914, Mar. 29, 2012; 81 FR 63695, Sept. 16, 2016]
+[68 FR 49355, Aug. 18, 2003, as amended at 73 FR 7670, Feb. 11, 2008; 77 FR 18914, Mar. 29, 2012; 81 FR 63695, Sept. 16, 2016; 84 FR 25991, June 5, 2019]

@@ -68,23 +68,11 @@ Note 3 to paragraph (a):
 
 See § 515.590(a) for an authorization for the provision of educational grants, scholarships, or awards to a Cuban national or in which Cuba or a Cuban national otherwise has an interest.
 
-(b) *General license for people-to-people travel.* The travel-related transactions set forth in § 515.560(c) and such additional transactions as are directly incident to educational exchanges not involving academic study pursuant to a degree program are authorized, provided that:
+Note 4 to paragraph (a):
 
-(1) The exchanges take place under the auspices of an organization that is a person subject to U.S. jurisdiction and that sponsors such exchanges to promote people-to-people contact;
+Each person relying on the general authorization in this paragraph must retain specific records related to the authorized travel transactions. See §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
 
-(2) Travel-related transactions pursuant to this authorization are for the purpose of engaging, while in Cuba, in a full-time schedule of activities that enhance contact with the Cuban people, support civil society in Cuba, or promote the Cuban people's independence from Cuban authorities;
-
-(3) Each traveler has a full-time schedule of educational exchange activities that result in meaningful interaction between the traveler and individuals in Cuba;
-
-(4) A person subject to U.S. jurisdiction who is an employee, paid consultant, agent, or other representative of the sponsoring organization accompanies each group traveling to Cuba to ensure that each traveler has a full-time schedule of educational exchange activities;
-
-(5) The predominant portion of the activities engaged in by each travelers is not with a prohibited official of the Government of Cuba, as defined in § 515.337, or a prohibited member of the Cuban Communist Party, as defined in § 515.338; and
-
-(6) In addition to all other information required by § 501.601 of this chapter, persons relying on the authorization in paragraph (b) of this section, including entities sponsoring travel pursuant to the authorization in paragraph (b) of this section, must retain records sufficient to demonstrate that each individual traveler has engaged in a full-time schedule of activities that satisfy the requirements of paragraphs (b)(1) through (b)(5) of this section. Individuals may rely on the entity sponsoring the travel to satisfy his or her recordkeeping requirements with respect to the requirements of paragraphs (b)(1) through (5) of this section. These records must be furnished to the Office of Foreign Assets Control on demand pursuant to § 501.602 of this chapter.
-
-Example 1 to paragraph (b):An organization sponsors and organizes educational exchanges not involving academic study pursuant to a degree program for travelers to learn side-by-side with Cuban individuals in areas such as environmental protection or the arts. Each traveler in the group will have a full-time schedule of educational exchange activities that result in meaningful interaction between the travelers and individuals in Cuba. The group will be accompanied by a person who is subject to U.S. jurisdiction who is a representative of the sponsoring organization for the duration of the trip. The organization's activities qualify for the general license for people-to-people travel. In addition, the individual travelers may rely on the entity sponsoring the travel to satisfy their recordkeeping requirements.Example 2 to paragraph (b):An individual plans to travel to Cuba to participate in discussions with Cuban artists on community projects, exchanges with the founders of a youth arts program, and extended dialogue with local city planners and architects to learn about historical restoration projects in Old Havana. The individual traveler will have a full-time schedule of such educational exchange activities that result in meaningful interaction between the traveler and individuals in Cuba. The individual's activities do not qualify for the general license for people-to-people travel because the individual is not traveling under the auspices of an organization that is a person subject to U.S. jurisdiction and that sponsors such exchanges to promote people-to-people contact. The individual's travel may qualify for the general license in § 515.574 (Support for the Cuban People) provided the individual meets all of its requirements.Note to paragraphs (a) and (b):
-
-Except as provided in paragraph (b)(6) of this section, each person relying on the general authorizations in these paragraphs, including entities sponsoring travel pursuant to the authorization in paragraph (b) of this section, must retain specific records related to the authorized travel transactions. See §§ 501.601 and 501.602 of this chapter for applicable recordkeeping and reporting requirements.
+(b) *General license for certain people-to-people travel and related transactions where certain transactions were completed prior to June 5, 2019.* Persons subject to U.S. jurisdiction are authorized to engage in people-to-people travel and related transactions for a trip consistent with paragraph (b) of this section as those provisions existed on April 17, 2019, provided the traveler completed at least one travel-related transaction (such as purchasing a flight or reserving accommodation) for that particular trip prior to June 5, 2019.
 
 (c) *Certain direct financial transactions restricted.* Nothing in paragraph (a) or (b) of this section authorizes a direct financial transaction prohibited by § 515.209.
 
@@ -94,6 +82,6 @@ Except as provided in paragraph (b)(6) of this section, each person relying on t
 
 (f) Transactions related to activities that are primarily tourist-oriented are not authorized pursuant to this section.
 
-(g) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general licenses under paragraph (a) or (b) of this section.
+(g) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to educational activities that do not qualify for the general license under paragraph (a) of this section.
 
-[82 FR 52000, Nov. 9, 2017]
+[82 FR 52000, Nov. 9, 2017, as amended at 84 FR 25992, June 5, 2019]
