@@ -1,3 +1,13 @@
-##### § 310.26 xxx #####
+##### § 310.26 Establishment responsibilities under the new swine slaughter inspection system. #####
 
-Link to an amendment published at 84 FR 52348, Oct. 1, 2019.
+(a) *Facilities.* The establishment must comply with the facilities requirements in 9 CFR part 307. The establishment must provide a mirror at the carcass inspection station in accordance with 9 CFR 307.2(m)(6).
+
+(b) *Carcass sorting and disposition.* The establishment must conduct carcass sorting activities and identify any condemnable conditions or defects before carcasses are presented to online inspectors. Establishment sorters must incise mandibular lymph nodes and palpate the viscera to detect the presence of animal diseases as part of their sorting activities. The establishment must develop, implement, and maintain written procedures to ensure that market hog carcasses adulterated with septicemia, toxemia, pyemia, or cysticercosis are properly removed before the point of post-mortem inspection of carcasses. The establishment must incorporate these procedures into its HACCP plan, or sanitation SOPs, or other prerequisite program. These procedures must cover the establishment sorting activities required under this section.
+
+(c) *Line speed limits.* The line speed limits in § 310.1 do not apply to the establishment, provided it is able to maintain effective process control and prevent contamination of carcasses and parts by enteric pathogens and visible fecal material, ingesta, and milk. Establishments operating under the NSIS must reduce their line speed as directed by the Inspector-in-Charge (IIC). The IIC is authorized to direct an establishment to operate at a reduced line speed when in their judgment a carcass-by-carcass inspection cannot be adequately performed within the time available due to the manner in which the carcasses are presented to the online inspector, the health conditions of a particular herd, or factors that may indicate a loss of process control.
+
+(d) *Records.* (1) The establishment must maintain records to document that the products resulting from its slaughter operation meet the definition of Ready-to-cook pork product in § 301.2. These records are subject to review and evaluation by FSIS personnel.
+
+(2) The establishment must maintain records to document the number of carcasses disposed of per day by establishment sorters before FSIS post-mortem inspection and the reasons that the carcasses were disposed of. These records are subject to review and evaluation by FSIS personnel.
+
+[84 FR 52348, Oct. 1, 2019]

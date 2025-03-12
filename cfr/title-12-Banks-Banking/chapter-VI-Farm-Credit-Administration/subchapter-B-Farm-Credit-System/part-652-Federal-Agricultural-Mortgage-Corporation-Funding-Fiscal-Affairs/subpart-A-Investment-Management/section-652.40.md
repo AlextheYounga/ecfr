@@ -20,8 +20,6 @@
 
 (3) Days 31 through 90 with Level 1, Level 2, and Level 3 instruments.
 
-Table to § 652.40(c)
-
 |   Liquidity level    |                                                                                                                      Instruments                                                                                                                      |                                      Discount  <br/>(multiply market value by)                                      |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 |       Level 1        |                                                                                             Cash, including cash due from traded but not yet settled debt                                                                                             |                                                    100 percent.                                                     |
@@ -41,4 +39,4 @@ Table to § 652.40(c)
 |                      |Qualifying securities backed by Farmer Mac program assets (loans) guaranteed by the United States Department of Agriculture (excluding the portion that would be necessary to satisfy obligations to creditors and equity holders in Farmer Mac II LLC)|                                                                                                                     |
 |Supplemental Liquidity|                                                                                         Eligible investments under § 652.20 and those approved under § 652.23                                                                                         |90 percent except discounts for Level 1, 2 or 3 investments apply to such investments held as supplemental liquidity.|
 
-[78 FR 65553, Nov. 1, 2013; 79 FR 29074, May 21, 2014; 83 FR 55098, Nov. 2, 2018]
+[78 FR 65553, Nov. 1, 2013; 79 FR 29074, May 21, 2014, as amended at 83 FR 55098, Nov. 2, 2018]

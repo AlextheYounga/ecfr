@@ -1,7 +1,5 @@
 ##### § 310.25 Contamination with microorganisms; process control verification criteria and testing; pathogen reduction standards. #####
 
-Link to an amendment published at 84 FR 52348, Oct. 1, 2019.
-
 (a) Criteria for verifying process control; *E. coli* testing. (1) Each official establishment that slaughters livestock must test for *Escherichia coli* Biotype 1 (*E.coli*) Establishments that slaughter more than one type of livestock or both livestock and poultry, shall test the type of livestock or poultry slaughtered in the greatest number. The establishment shall:
 
 (i) Collect samples in accordance with the sampling techniques, methodology, and frequency requirements in paragraph (a)(2) of this section;
@@ -20,13 +18,9 @@ Link to an amendment published at 84 FR 52348, Oct. 1, 2019.
 
 (B) For sheep, goat, horse, mule, or other equine carcasses, establishments must sponge from the flank, brisket and rump, except for hide-on carcasses, in which case establishments must take samples by sponging from inside the flank, inside the brisket, and inside the rump.
 
-(C) For swine carcasses, establishments must sponge or excise tissue from the ham, belly and jowl areas.
-
 (iii) *Sampling frequency.* Slaughter establishments, except very low volume establishments as defined in paragraph (a)(2)(v) of this section, must take samples at a frequency proportional to the volume of production at the following rates:
 
 (A) Cattle, sheep, goats, horses, mules, and other equines: 1 test per 300 carcasses, but, a minimum of one sample during each week of operation.
-
-Swine: 1 test per 1,000 carcasses, but a minimum of one sample during each week of operation.
 
 (iv) *Sampling frequency alternatives.* An establishment operating under a validated HACCP plan in accordance with § 417.2(b) of this chapter may substitute an alternative frequency for the frequency of sampling required under paragraph (a)(2)(iii) of this section if,
 
@@ -34,7 +28,7 @@ Swine: 1 test per 1,000 carcasses, but a minimum of one sample during each week 
 
 (B) FSIS does not determine, and notify the establishment in writing, that the alternative frequency is inadequate to verify the effectiveness of the establishment's processing controls.
 
-(v) *Sampling in very low volume establishments.* (A) Very low volume establishments annually slaughter no more than 6,000 cattle, 6,000 sheep, 6,000 goats, 6,000 horses, mules or other equines, 20,000 swine, or a combination of livestock not exceeding 6,000 cattle and 20,000 total of all livestock. Very low volume establishments that collect samples by sponging shall collect at least one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the establishment operates until June 1 of the following year or until 13 samples have been collected, whichever comes first. Very low volume establishments collecting samples by excising tissue from carcasses shall collect one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the establishment operates until one series of 13 tests meets the criteria set forth in paragraph (a)(5)(i) of this section.
+(v) *Sampling in very low volume establishments.* (A) Very low volume establishments annually slaughter no more than 6,000 cattle, 6,000 sheep, 6,000 goats, 6,000 horses, mules or other equines, or a combination of livestock not exceeding 6,000 cattle and 20,000 total of all livestock. Very low volume establishments that collect samples by sponging shall collect at least one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the establishment operates until June 1 of the following year or until 13 samples have been collected, whichever comes first. Very low volume establishments collecting samples by excising tissue from carcasses shall collect one sample per week, starting the first full week of operation after June 1 of each year, and continue sampling at a minimum of once each week the establishment operates until one series of 13 tests meets the criteria set forth in paragraph (a)(5)(i) of this section.
 
 (B) Upon the establishment's meeting requirements of paragraph (a)(2)(v)(A) of this section, weekly sampling and testing is optional, unless changes are made in establishment facilities, equipment, personnel or procedures that may affect the adequacy of existing process control measures, as determined by the establishment or FSIS. FSIS determinations that changes have been made requiring resumption of weekly testing shall be provided to the establishment in writing.
 
@@ -46,14 +40,10 @@ Swine: 1 test per 1,000 carcasses, but a minimum of one sample during each week 
 
 (5) *Criteria for evaluation of test results.* (i) An establishment excising samples from carcasses is operating within the criteria when the most recent *E. coli* test result does not exceed the upper limit (M), and the number of samples, if any, testing positive at levels above (m) is three or fewer out of the most recent 13 samples (n) taken, as follows:
 
-Table 1 - Evaluation of E. Coli Test Results
-
-|Type of livestock|Lower limit of  <br/>marginal range  <br/>(m)|Upper limit of  <br/>marginal range  <br/>(M)|Number of sample  <br/>tested  <br/>(n)|Maximum number permitted in marginal range  <br/>(c)|
-|-----------------|---------------------------------------------|---------------------------------------------|---------------------------------------|----------------------------------------------------|
-|     Cattle      |            Negative<sup>a</sup>             |           100 CFU/cm<sup>2</sup>            |                  13                   |                         3                          |
-|      Swine      |            10 CFU/cm<sup>2</sup>            |          10,000 CFU/cm<sup>2</sup>          |                  13                   |                         3                          |
-
-<sup>a</sup> Negative is defined by the sensitivity of the method used in the baseline study with a limit of sensitivity of at least 5 cfu/cm<sup>2</sup> carcass surface area.
+|                                                                               Type of livestock                                                                               |Lower limit of  <br/>marginal range  <br/>(m)|Upper limit of  <br/>marginal range  <br/>(M)|Number of sample  <br/>tested  <br/>(n)|Maximum number permitted in marginal range  <br/>(c)|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------|----------------------------------------------------|
+|                                                                                    Cattle                                                                                     |            Negative <sup>a</sup>            |           100 CFU/cm <sup>2</sup>           |                  13                   |                         3                          |
+|<sup>a</sup> Negative is defined by the sensitivity of the method used in the baseline study with a limit of sensitivity of at least 5 cfu/cm<sup>2</sup> carcass surface area.|                                             |                                             |                                       |                                                    |
 
 (ii) Establishments sponging carcasses shall evaluate *E. coli* test results using statistical process control techniques.
 
@@ -61,21 +51,14 @@ Table 1 - Evaluation of E. Coli Test Results
 
 (7) *Failure to test and record.* Inspection shall be suspended in accordance with rules of practice that will be adopted for such proceedings upon a finding by FSIS that one or more provisions of paragraphs (a) (1)-(4) of this section have not been complied with and written notice of same has been provided to the establishment.
 
-(b) Pathogen reduction performance standard; *Salmonella* - (1) *Raw meat product performance standards for Salmonella.* An establishment's raw meat products, when sampled and tested by FSIS for *Salmonella,* as set forth in this section, may not test positive for *Salmonella* at a rate exceeding the applicable national pathogen reduction performance standard, as provided in Table 2:
+(b) Pathogen reduction performance standard; *Salmonella*—(1) *Raw meat product performance standards for Salmonella.* An establishment's raw meat products, when sampled and tested by FSIS for *Salmonella,* as set forth in this section, may not test positive for *Salmonella* at a rate exceeding the applicable national pathogen reduction performance standard, as provided in Table 1 to this paragraph:
 
-Table 2 - Salmonella Performance Standards
-
-| Class of product  |Performance Standard (percent positive for Salmonella)<sup>a</sup>|Number of samples tested  <br/>(n)|Maximum number of positives to achieve Standard  <br/>(c)|
-|-------------------|------------------------------------------------------------------|----------------------------------|---------------------------------------------------------|
-|  Steers/heifers   |                               1.0%                               |                82                |                            1                            |
-|    Cows/bulls     |                               2.7%                               |                58                |                            2                            |
-|    Ground beef    |                               7.5%                               |                53                |                            5                            |
-|       Hogs        |                               8.7%                               |                55                |                            6                            |
-|Fresh pork sausages|                        <sup>b</sup> N.A.                         |               N.A.               |                          N.A.                           |
-
-<sup>a</sup> Performance Standards are FSIS's calculation of the national prevalence of Salmonella on the indicated raw product based on data developed by FSIS in its nationwide microbiological data collection programs and surveys. Copies of Reports on FSIS's Nationwide Microbiological Data Collection Programs and Nationwide Microbiological Surveys used in determining the prevalence of Salmonella on raw products are available in the FSIS Docket Room.
-
-<sup>b</sup> Not available; values for fresh pork sausage will be added upon completion data collection programs for those products.
+|                                                                                                                                                                                                                           Class of product                                                                                                                                                                                                                           |Performance Standard (percent positive for Salmonella) <sup>a</sup>|Number of samples tested  <br/>(n)|Maximum number of positives to achieve Standard  <br/>(c)|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------|---------------------------------------------------------|
+|                                                                                                                                                                                                                            Steers/heifers                                                                                                                                                                                                                            |                               1.0%                                |                82                |                            1                            |
+|                                                                                                                                                                                                                              Cows/bulls                                                                                                                                                                                                                              |                               2.7%                                |                58                |                            2                            |
+|                                                                                                                                                                                                                             Ground beef                                                                                                                                                                                                                              |                               7.5%                                |                53                |                            5                            |
+|<sup>a</sup> Performance Standards are FSIS's calculation of the national prevalence of Salmonella on the indicated raw product based on data developed by FSIS in its nationwide microbiological data collection programs and surveys. Copies of Reports on FSIS's Nationwide Microbiological Data Collection Programs and Nationwide Microbiological Surveys used in determining the prevalence of Salmonella on raw products are available in the FSIS Docket Room.|                                                                   |                                  |                                                         |
 
 (2) *Enforcement.* FSIS will sample and test raw meat products in an individual establishment on an unannounced basis to determine prevalence of *Salmonella* in such products to determine compliance with the standard. The frequency and timing of such testing will be based on the establishment's previous test results and other information concerning the establishment's performance. In an establishment producing more than one class of product subject to the pathogen reduction standard, FSIS may sample any or all such classes of products.3
 
@@ -89,4 +72,4 @@ Table 2 - Salmonella Performance Standards
 
 (iii) Failure by the establishment to act in accordance with paragraph (b)(3)(ii) of this section, or failure to meet the standard on the third consecutive series of FSIS-conducted tests for that product, constitutes failure to maintain sanitary conditions and failure to maintain an adequate HACCP plan, in accordance with part 417 of this chapter, for that product, and will cause FSIS to suspend inspection services. Such suspension will remain in effect until the establishment submits to the FSIS Administrator or his/her designee satisfactory written assurances detailing the action taken to correct the HACCP system and, as appropriate, other measures taken by the establishment to reduce the prevalence of pathogens.
 
-[61 FR 38864, July 25, 1996, as amended at 62 FR 26217, May 13, 1997; 63 FR 1735, Jan. 12, 1998; 64 FR 66553, Nov. 29, 1999]
+[61 FR 38864, July 25, 1996, as amended at 62 FR 26217, May 13, 1997; 63 FR 1735, Jan. 12, 1998; 64 FR 66553, Nov. 29, 1999; 84 FR 52348, Oct. 1, 2019]

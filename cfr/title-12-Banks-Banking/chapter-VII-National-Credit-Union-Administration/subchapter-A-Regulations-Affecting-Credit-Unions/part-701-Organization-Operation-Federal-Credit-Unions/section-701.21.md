@@ -1,6 +1,6 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.Link to an amendment published at 84 FR 51950, Oct. 1, 2019.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
@@ -90,35 +90,57 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (C) Federal credit unions may continue to charge rates exceeding the established maximum rate only on existing loans or lines of credit made before the effective date of any lowering of the maximum rate.
 
-(iii) *Payday alternative Loans (PAL loans).* (A) Notwithstanding the provisions in § 701.21(c)(7)(ii), a Federal credit union may charge an interest rate of 1000 basis points above the maximum interest rate as established by the Board, provided the Federal credit union is making a closed-end loan in accordance with the following conditions:
+(iii) *Payday alternative loans (PALs I)* - (A) *Minimum requirements for PALs I.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
 
-(*1*) The principal of the loan is not less than $200 or more than $1000;
+(*1*) The principal of the payday alternative loan is not less than $200 or more than $1,000;
 
-(*2*) The loan has a minimum maturity term of one month and a maximum maturity term of six months;
+(*2*) The payday alternative loan has a minimum maturity of one month and a maximum maturity of six months;
 
-(*3*) The Federal credit union does not make more than three PAL loans in any rolling six-month period to any one borrower and makes no more than one payday alternative loan at a time to a borrower;
+(*3*) The federal credit union does not make more than three payday alternative loans provided under either this paragraph (c)(7)(iii) or paragraph (c)(7)(iv) of this section in any rolling six-month period to any one borrower and does not make more than one payday alternative loan provided under either this paragraph (c)(7)(iii) or paragraph (c)(7)(iv) of this section at a time to any borrower;
 
-(*4*) The Federal credit union must not roll-over any PAL loan;
+(*4*) The federal credit union does not rollover any payday alternative loan provided under this paragraph (c)(7)(iii) or paragraph (c)(7)(iv) of this section, provided that the prohibition against rollovers does not apply to an extension of a payday alternative loan term within the maximum loan term set forth in paragraph (c)(7)(iii)(A)(*3*) of this section that does not include any additional fees assessed or extend additional credit to the borrower;
 
-(A) The prohibition against roll-overs does not apply to an extension of the loan term within the maximum loan terms in paragraph (c)(7)(iii)(*3*) provided the Federal credit union does not charge any additional fees or extend any new credit.
+(*5*) The federal credit union fully amortizes the payday alternative loan;
 
-(B) [Reserved]
+(*6*) The federal credit union requires the borrower to be a member of the credit union for at least one month before receiving a payday alternative loan provided under this paragraph (c)(7)(iii);
 
-(*5*) The Federal credit union fully amortizes the loan;
+(*7*) The federal credit union charges a reasonable application fee to all members applying for a new payday alternative loan offered under this paragraph (c)(7)(iii) that reflects the actual costs associated with processing the application, but that in no case exceeds $20; and
 
-(*6*) The Federal credit union sets a minimum length of membership requirement of at least one month;
+(*8*) The federal credit union includes, in its written lending policies, a limit on the aggregate dollar amount of payday alternative loans made under this paragraph (c)(7)(iii) and paragraph (c)(7)(iv) of this section that does not exceed an aggregate of 20% of net worth and implements appropriate underwriting guidelines to minimize risk, such as, requiring a borrower to verify employment by providing at least two recent pay stubs.
 
-(*7*) The Federal credit union charges an application fee to all members applying for a new loan that reflects the actual costs associated with processing the application, but in no case may the application fee exceed $20; and
+(B) *PALs I guidance and best practices.* In developing a successful payday alternative loan program, a federal credit union should consider how the program would benefit a member's financial well-being while considering the higher degree of risk associated with this type of lending. The guidance and best practices are intended to help federal credit unions minimize risk and develop a successful program, but are not an exhaustive checklist and do not guarantee a successful program with a low degree of risk.
 
-(*8*) The Federal credit union includes, in its written lending policies, a limit on the aggregate dollar amount of loans made under this section of a maximum of 20% of net worth and implements appropriate underwriting guidelines to minimize risk; for example, requiring a borrower to verify employment by producing at least two recent pay stubs.
+(*1*) *Program features.* Several features that may increase the success of a payday alternative loan program and enhance member benefit include adding a savings component, financial education, reporting of members' payment of payday alternative loans to credit bureaus, or electronic loan transactions as part of a payday alternative loan program. In addition, although a federal credit union cannot require members to authorize a payroll deduction, a federal credit union should encourage or incentivize members to utilize payroll deduction.
 
-(B) *PAL Loan Program guidance and best practices.* In developing a successful PAL loan program, a Federal credit union should consider how the program will help benefit a member's financial well-being while considering the higher degree of risk associated with this type of lending. The guidance and best practices are intended to help Federal credit unions minimize risk and develop a successful program, but are not an exhaustive checklist and do not guarantee a successful program with a low degree of risk.
+(*2*) *Underwriting.* Federal credit unions should develop minimum underwriting standards that account for a member's need for quickly available funds, while adhering to principles of responsible lending. Underwriting standards should address required documentation for proof of employment or income, including at least two recent paycheck stubs. Federal credit unions should be able to use a borrower's proof of recurring income as the key criterion in developing standards for maturity lengths and loan amounts so a borrower can manage repayment of the loan. For members with established accounts, federal credit unions should only need to review a member's account records and proof of recurring income or employment.
 
-(*1*) *Program features.* Several features that may increase the success of a PAL loan program and enhance member benefit include adding a savings component, financial education, reporting of members' payment of PAL loans to credit bureaus, or electronic loan transactions as part of a PAL program. In addition, although a Federal credit union cannot require members to authorize a payroll deduction, a Federal credit union should encourage or incentivize members to utilize payroll deduction.
+(*3*) *Risk avoidance.* Federal credit unions should consider risk avoidance strategies, including requiring members to participate in direct deposit and conducting a thorough evaluation of the federal credit union's resources and ability to engage in a payday alternative loan program.
 
-(*2*) *Underwriting.* Federal credit unions need to develop minimum underwriting standards that account for a member's need for quickly available funds, while adhering to principles of responsible lending. Underwriting standards should address required documentation for proof of employment or income, including at least two recent paycheck stubs. FCUs should be able to use a borrower's proof of recurring income as the key criterion in developing standards for maturity lengths and loan amounts so a borrower can manage repayment of the loan. For members with established accounts, FCUs should only need to review a member's account records and proof of recurring income or employment.
+(iv) *Payday alternative loans (PALs II)* - (A) *Minimum requirements for PALs II.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
 
-(*3*) *Risk avoidance.* Federal credit unions need to consider risk avoidance strategies, including: requiring members to participate in direct deposit and conducting a thorough evaluation of the Federal credit union's resources and ability to engage in a PAL loan program.
+(*1*) The principal of the payday alternative loan is not more than $2,000;
+
+(*2*) The payday alternative loan has a minimum maturity of one month and a maximum maturity of 12 months;
+
+(*3*) The federal credit union does not make more than three payday alternative loans provided either under paragraph (c)(7)(iii) of this section or this paragraph (c)(7)(iv) in any rolling six-month period to any one borrower and does not make more than one payday alternative loan provided under either paragraph (c)(7)(iii) of this section or this paragraph (c)(7)(iv) at a time to any borrower;
+
+(*4*) The federal credit union does not rollover any payday alternative loan provided under paragraph (c)(7)(iii) of this section or this paragraph (c)(7)(iv), provided that the prohibition against rollovers does not apply to an extension of a payday alternative loan term within the maximum loan term set forth in paragraph (c)(7)(iv)(A)(*3*) of this section that does not include any additional fees assessed or extend additional credit to the borrower;
+
+(*5*) The federal credit union fully amortizes the payday alternative loan;
+
+(*6*) The federal credit union charges a reasonable application fee to all members applying for a new payday alternative loan offered under this paragraph (c)(7)(iv) that reflects the actual costs associated with processing the application, but that in no case exceeds $20;
+
+(*7*) The federal credit union does not assess a fee or charge, including a non-sufficient funds fee, on the borrower's account pursuant to the federal credit union's overdraft service, as defined in § 1005.17(a) of this title, in connection with any payday alternative loan provided under this paragraph (c)(7)(iv); and
+
+(*8*) The federal credit union includes, in its written lending policies, a limit on the aggregate dollar amount of payday alternative loans made under paragraph (c)(7)(iii) of this section and this paragraph (c)(7)(iv) that does not exceed an aggregate of 20% of net worth and implements appropriate underwriting guidelines to minimize risk, such as, requiring a borrower to verify employment by providing at least two recent pay stubs.
+
+(B) *PALs II guidance and best practices.* In developing a successful payday alternative loan program, a federal credit union should consider how the program would benefit a member's financial well-being while considering the higher degree of risk associated with this type of lending. The guidance and best practices are intended to help federal credit unions minimize risk and develop a successful program, but are not an exhaustive checklist and do not guarantee a successful program with a low degree of risk.
+
+(*1*) *Program features.* Several features that may increase the success of a payday alternative loan program and enhance member benefit include adding a savings component, financial education, reporting of members' payment of payday alternative loans to credit bureaus, or electronic loan transactions as part of a payday alternative loan program. In addition, although a federal credit union cannot require members to authorize a payroll deduction, a federal credit union should encourage or incentivize members to utilize payroll deduction.
+
+(*2*) *Underwriting.* Federal credit unions should develop minimum underwriting standards that account for a member's need for quickly available funds, while adhering to principles of responsible lending. Underwriting standards should address required documentation for proof of employment or income, including at least two recent paycheck stubs. Federal credit unions should be able to use a borrower's proof of recurring income as the key criterion in developing standards for maturity lengths and loan amounts so a borrower can manage repayment of the loan. For members with established accounts, federal credit unions should only need to review a member's account records and proof of recurring income or employment.
+
+(*3*) *Risk avoidance.* Federal credit unions should consider risk avoidance strategies, including requiring members to participate in direct deposit and conducting a thorough evaluation of the federal credit union's resources and ability to engage in a payday alternative loan program.
 
 (8)(i) Except as otherwise provided herein, no official or employee of a Federal credit union, or immediate family member of an official or employee of a Federal credit union, may receive, directly or indirectly, any commission, fee, or other compensation in connection with any loan made by the credit union.
 

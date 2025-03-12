@@ -70,6 +70,12 @@ Link to an amendment published at 84 FR 63988, Nov. 19, 2019.
 
 (4) Estimates of the portion of the tribal allocation that will not be used by the end of the fishing year will be based on the best information available to the Regional Administrator.
 
+(i) Salmon bycatch. This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
+
+(ii) [Reserved]
+
+(5) Prior to reapportionment, NMFS will consider Chinook salmon take numbers and bycatch rates in each sector of the Pacific whiting fishery, in order to prevent a reapportionment that would limit Pacific Coast treaty Indian Tribes' access to the tribal allocation by triggering inseason closure of the Pacific whiting fishery as described at § 660.60(d)(1)(v).
+
 (i) *Salmon bycatch.* This fishery may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 75421, Dec. 3, 2010; 75 FR 78390, Dec. 15, 2010; 76 FR 27546, May 11, 2011; 76 FR 53837, Aug. 30, 2011; 77 FR 28516, May 15, 2012; 80 FR 27600, May 14, 2015; 80 FR 19036, Apr. 9, 2015; 80 FR 77273, Dec. 14, 2015; 83 FR 64002, Dec. 12, 2018; 84 FR 65926, Dec. 2, 2019]

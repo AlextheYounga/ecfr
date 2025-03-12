@@ -1,7 +1,5 @@
 ##### § 301.2 Definitions. #####
 
-Link to an amendment published at 84 FR 52345, Oct. 1, 2019.
-
 As used in this subchapter, unless otherwise required by the context, the following terms shall be construed, respectively, to mean:
 
 *The Act.* The Federal Meat Inspection Act, as amended, (34 Stat. 1260, as amended, 81 Stat. 584, 84 Stat. 438, 92 Stat. 1069, 21 U.S.C., sec. 601 *et seq.*).
@@ -201,6 +199,8 @@ Other definitions, if any, that are applicable only for purposes of a specific p
 *Process schedule.* A written description of processing procedures, consisting of any number of specific, sequential operations directly under the control of the establishment employed in the manufacture of a specific product, including the control, monitoring, verification, validation, and corrective action activities associated with production. This definition does not apply to part 431 of this chapter.
 
 *Product.* Any carcass, meat, meat byproduct, or meat food product, capable of use as human food.
+
+*Ready-to-cook (RTC) pork product.* Any slaughtered pork product sufficiently free from bile, hair, scurf, dirt, hooves, toe nails, claws, bruises, edema, scabs, skin lesions, icterus, foreign material, and odor, which is suitable for cooking without need of further processing.
 
 *Renderer.* Any person engaged in the business of rendering carcasses or parts or products of the carcasses of any livestock except rendering conducted under inspection or exemption under Title I of the Act.
 
