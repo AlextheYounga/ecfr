@@ -20,8 +20,6 @@
 
 (3) From Memorial Day through Labor Day from 8 a.m. to 8 p.m., the draw need only open on the hour and half hour.
 
-(4) From 8 a.m. December 1, 2015 until 8 p.m. March 31, 2016; from 8 a.m. December 1, 2016 until 8 p.m. March 31, 2017; and from 8 a.m. December 1, 2017 until 8 p.m. March 31, 2018, the S37 Bridge, mile 14.1, at Seaside Heights may remain closed to navigation.
-
 (d) The draw of the AMTRAK New Jersey Transit Rail Operations (NJTRO) automated railroad swing bridge across Beach Thorofare, mile 68.9 at Atlantic City shall operate as follows:
 
 (1) Open on signal from 11 p.m. to 6 a.m. From 6 a.m. to 11 p.m., the draw shall open on signal from 20 minutes to 30 minutes after each hour and remain open for all waiting vessels.
@@ -94,4 +92,4 @@
 
 (4) Opening of the draw span may be delayed for ten minutes after a signal to open except as provide in (117.31(b). However, if a train is moving toward the bridge and has crossed the home signal for the bridge before the signal requesting opening of the bridge is given, the train may continue across the bridge and must clear the bridge interlocks as soon as possible in order to prevent unnecessary delays in the opening of the draw.
 
-[CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014; USCG-2013-0926, 79 FR 21628, Apr. 17, 2014]Effective Date Note:By USCG-2013-0926, 79 FR 21628, Apr. 17, 2014, § 117.733 was amended by suspending paragraph (c)(1) and adding a new paragraph (c)(4), effective Dec. 1, 2015, through Mar. 31, 2018.
+[CGD05-97-003, 63 FR 2311, Jan. 15, 1998, as amended by CGD05-01-007, 66 FR 39445, July 31, 2001; CGD05-06-045, 71 FR 59383, Oct. 10, 2006; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2007-0026, 73 FR 5749, Jan. 31, 2008; USCG-2008-0697, 73 FR 79639, Dec. 30, 2008; 74 FR 17084, Apr. 14, 2009; USCG-2011-0698, 76 FR 79535, Dec. 22, 2011; USCG-2014-0121, 79 FR 18183, Apr. 1, 2014]
