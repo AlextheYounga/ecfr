@@ -1,7 +1,5 @@
 ##### § 391.41 Physical qualifications for drivers. #####
 
-Link to an amendment published at 87 FR 3417, Jan. 21, 2022.
-
 (a)(1)(i) A person subject to this part must not operate a commercial motor vehicle unless he or she is medically certified as physically qualified to do so, and, except as provided in paragraph (a)(2) of this section, when on-duty has on his or her person the original, or a copy, of a current medical examiner's certificate that he or she is physically qualified to drive a commercial motor vehicle. NOTE: Effective December 29, 1991, and as amended on January 19, 2017, the FMCSA Administrator determined that the Licencia Federal de Conductor issued by the United Mexican States is recognized as proof of medical fitness to drive a CMV. The United States and Canada entered into a Reciprocity Agreement, effective March 30, 1999, recognizing that a Canadian commercial driver's license is proof of medical fitness to drive a CMV. Therefore, Canadian and Mexican CMV drivers are not required to have in their possession a medical examiner's certificate if the driver has been issued, and possesses, a valid commercial driver license issued by the United Mexican States, or a Canadian Province or Territory, and whose license and medical status, including any waiver or exemption, can be electronically verified. Drivers from any of the countries who have received a medical authorization that deviates from the mutually accepted compatible medical standards of the resident country are not qualified to drive a CMV in the other countries. For example, Canadian drivers who do not meet the medical fitness provisions of the Canadian National Safety Code for Motor Carriers but are issued a waiver by one of the Canadian Provinces or Territories, are not qualified to drive a CMV in the United States. In addition, U.S. drivers who received a medical variance from FMCSA are not qualified to drive a CMV in Canada.
 
 (ii) A person who qualifies for the medical examiner's certificate by virtue of having obtained a medical variance from FMCSA, in the form of an exemption letter or a skill performance evaluation certificate, must have on his or her person a copy of the variance documentation when on-duty.
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 3417, Jan. 21, 2022.
 
 (ii) That person obtained from FMCSA a medical variance from the physical qualification standards in paragraph (b) of this section and has complied with the medical examination requirement in § 391.43.
 
-(b) A person is physically qualified to drive a commercial motor vehicle if that person -
+(b) A person is physically qualified to drive a commercial motor vehicle if that person—
 
 (1) Has no loss of a foot, a leg, a hand, or an arm, or has been granted a skill performance evaluation certificate pursuant to § 391.49;
 
@@ -46,9 +44,11 @@ Link to an amendment published at 87 FR 3417, Jan. 21, 2022.
 
 (9) Has no mental, nervous, organic, or functional disease or psychiatric disorder likely to interfere with his/her ability to drive a commercial motor vehicle safely;
 
-(10) Has distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or visual acuity separately corrected to 20/40 (Snellen) or better with corrective lenses, distant binocular acuity of at least 20/40 (Snellen) in both eyes with or without corrective lenses, field of vision of at least 70° in the horizontal Meridian in each eye, and the ability to recognize the colors of traffic signals and devices showing standard red, green, and amber;
+(10)(i) Has distant visual acuity of at least 20/40 (Snellen) in each eye without corrective lenses or visual acuity separately corrected to 20/40 (Snellen) or better with corrective lenses, distant binocular acuity of at least 20/40 (Snellen) in both eyes with or without corrective lenses, field of vision of at least 70° in the horizontal meridian in each eye, and the ability to recognize the colors of traffic signals and devices showing standard red, green, and amber; or
 
-(11) First perceives a forced whispered voice in the better ear at not less than 5 feet with or without the use of a hearing aid or, if tested by use of an audiometric device, does not have an average hearing loss in the better ear greater than 40 decibels at 500 Hz, 1,000 Hz, and 2,000 Hz with or without a hearing aid when the audiometric device is calibrated to American National Standard (formerly ASA Standard) Z24.5 - 1951;
+(ii) Meets the requirements in § 391.44, if the person does not satisfy, with the worse eye, either the distant visual acuity standard with corrective lenses or the field of vision standard, or both, in paragraph (b)(10)(i) of this section;
+
+(11) First perceives a forced whispered voice in the better ear at not less than 5 feet with or without the use of a hearing aid or, if tested by use of an audiometric device, does not have an average hearing loss in the better ear greater than 40 decibels at 500 Hz, 1,000 Hz, and 2,000 Hz with or without a hearing aid when the audiometric device is calibrated to American National Standard (formerly ASA Standard) Z24.5—1951;
 
 (12)(i) Does not use any drug or substance identified in 21 CFR 1308.11 Schedule I, an amphetamine, a narcotic, or other habit-forming drug; or
 

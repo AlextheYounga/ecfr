@@ -1,12 +1,10 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
-Link to an amendment published at 87 FR 3417, Jan. 21, 2022.
-
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) Exceptions:
 
-(1) A licensed optometrist may perform so much of the medical examination as pertains to visual acuity, field of vision, and the ability to recognize colors as specified in paragraph (10) of § 391.41(b).
+(1) A licensed ophthalmologist or licensed optometrist may perform the part of the medical examination that involves visual acuity, field of vision, and the ability to recognize colors as specified in § 391.41(b)(10).
 
 (2) A certified VA medical examiner must only perform medical examinations of veteran operators.
 

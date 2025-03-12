@@ -1,6 +1,6 @@
 ##### § 391.51 General requirements for driver qualification files. #####
 
-Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
+Link to an amendment published at 87 FR 13209, Mar. 9, 2022.
 
 (a) Each motor carrier shall maintain a driver qualification file for each driver it employs. A driver's qualification file may be combined with his/her personnel file.
 
@@ -10,7 +10,7 @@ Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to an amendment
 
 (2) A copy of the motor vehicle record received from each State record pursuant to § 391.23(a)(1);
 
-(3) The certificate of driver's road test issued to the driver pursuant to § 391.31(e), or a copy of the license or certificate which the motor carrier accepted as equivalent to the driver's road test pursuant to § 391.33;
+(3) The certificate of driver's road test issued to the driver pursuant to § 391.31(e), a copy of the license or certificate which the motor carrier accepted as equivalent to the driver's road test pursuant to § 391.33, or the original of the written statement providing that the motor carrier determined the driver is not required by § 391.44(d) to complete a road test pursuant to § 391.44(d)(3)(ii)(A) and the original, or a copy, of the driver's certification required by § 391.44(d)(3)(i);
 
 (4) The motor vehicle record received from each State driver licensing agency to the annual driver record inquiry required by § 391.25(a);
 
@@ -46,4 +46,4 @@ Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to an amendment
 
 (6) The note relating to verification of medical examiner listing on the National Registry of Certified Medical Examiners required by § 391.23(m).
 
-(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 66 FR 49874, Oct. 1, 2001; 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018; 84 FR 51434, Sept. 30, 2019; 86 FR 32651, June 22, 2021; 86 FR 57076, Oct. 14, 2021]
+(Approved by the Office of Management and Budget under control number 2126-004)[63 FR 33277, June 18, 1998, as amended at 66 FR 49874, Oct. 1, 2001; 69 FR 16721, Mar. 30, 2004; 73 FR 73127, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 77 FR 24133, Apr. 20, 2012; 79 FR 2380, Jan. 14, 2014; 80 FR 22822, Apr. 23, 2015; 83 FR 28782, June 21, 2018; 84 FR 51434, Sept. 30, 2019; 86 FR 32651, June 22, 2021; 86 FR 57076, Oct. 14, 2021; 87 FR 3419, Jan. 21, 2022]

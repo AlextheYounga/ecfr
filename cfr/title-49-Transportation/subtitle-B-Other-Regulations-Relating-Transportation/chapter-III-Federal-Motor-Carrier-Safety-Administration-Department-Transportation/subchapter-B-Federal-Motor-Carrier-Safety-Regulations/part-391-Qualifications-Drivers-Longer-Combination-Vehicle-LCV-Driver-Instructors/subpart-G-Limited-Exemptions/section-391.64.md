@@ -1,10 +1,8 @@
 ##### § 391.64 Grandfathering for certain drivers who participated in a vision waiver study program. #####
 
-Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to a correction published at 87 FR 7756, Feb. 10, 2022.
-
 (a) [Reserved]
 
-(b) The provisions of § 391.41(b)(10) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by drivers with visual impairment in one eye; *provided:*
+(b) Until March 22, 2023, the provisions of § 391.41(b)(10) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by drivers with visual impairment in one eye; *provided:*
 
 (1) The driver is physically examined every year, including an examination by an ophthalmologist or optometrist attesting to the fact that the driver:
 
@@ -16,4 +14,6 @@ Link to an amendment published at 87 FR 3419, Jan. 21, 2022.Link to a correction
 
 (3) The driver provides a copy of the annual medical certification to the employer for retention in the driver's qualification file and retains a copy of the certification on his/her person while driving for presentation to a duly authorized federal, state or local enforcement official.
 
-[61 FR 13346, Mar. 26, 1996, as amended at 83 FR 47521, Sept. 19, 2018]
+(4) On March 22, 2023, the provisions of paragraph (b) of this section are no longer in effect, and any medical examiner's certificate issued under § 391.43 on the basis that the driver is qualified by operation of the provisions of paragraph (b) of this section, related to drivers with visual impairment in one eye, is void.
+
+[61 FR 13346, Mar. 26, 1996, as amended at 83 FR 47521, Sept. 19, 2018; 87 FR 3419, Jan. 21, 2022; 87 FR 7756, Feb. 10, 2022]

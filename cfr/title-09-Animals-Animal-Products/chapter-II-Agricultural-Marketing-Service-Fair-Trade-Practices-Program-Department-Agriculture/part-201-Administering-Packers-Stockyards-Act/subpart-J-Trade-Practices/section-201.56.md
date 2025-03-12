@@ -1,0 +1,11 @@
+##### § 201.56 Market agencies selling on commission; purchases from consignment. #####
+
+(a) *Livestock to be sold openly at highest available bid.* Every market agency engaged in the business of selling livestock on a commission or agency basis shall sell the livestock consigned to it openly, at the highest available bid, and in such a manner as to best promote the interest of each consignor.
+
+(b) *Purchases from consignment.* No market agency engaged in the business of selling livestock on a commission basis shall purchase livestock from consignments, and no such market agency shall permit its owners, officers, agents, employees or any firm in which such market agency or its owners, officers, agents, or employees have an ownership or financial interest to purchase livestock consigned to such market agency, without first offering the livestock for sale in an open and competitive manner to other available buyers, and then only at a price higher than the highest available bid on such livestock.
+
+(c) *Key employees not to purchase livestock out of consignments.* No market agency engaged in selling livestock on commission shall permit its auctioneers, weighmasters, or salesmen to purchase livestock out of consignment for any purpose for their own account, either directly or indirectly.
+
+(d) *Purchase from consignments; disclosure required.* When a market agency purchases consigned livestock or sells consigned livestock to any owner, officer, agent, employee, or any business in which such market agency, owner, officer, agent, or employee has an ownership or financial interest, the market agency shall disclose on the account of sale the name of the buyer and the nature of the relationship existing between the market agency and the buyer.
+
+(Approved by the Office of Management and Budget under control number 0580-0015)(7 U.S.C. 228, 7 U.S.C. 222, and 15 U.S.C. 46)[49 FR 6084, Feb. 17, 1984, as amended at 49 FR 13003, Apr. 2, 1984; 58 FR 52886, Oct. 13, 1993; 68 FR 75388, Dec. 31, 2003]

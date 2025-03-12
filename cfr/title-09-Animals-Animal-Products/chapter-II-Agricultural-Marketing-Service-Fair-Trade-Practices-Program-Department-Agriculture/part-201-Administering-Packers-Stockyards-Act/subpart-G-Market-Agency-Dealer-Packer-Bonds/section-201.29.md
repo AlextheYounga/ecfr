@@ -1,0 +1,11 @@
+##### § 201.29 Market agencies, packers and dealers required to file and maintain bonds. #####
+
+(a) Every market agency, packer, and dealer, except as provided in paragraph (d) of this section, and except packer buyers registered as dealers to purchase livestock for slaughter only, shall execute and maintain a reasonable bond on forms approved by the Administrator containing the appropriate condition clauses, as set forth in § 201.31 of the regulations, applicable to the activity or activities in which the person or persons propose to engage, to secure the performance of obligations incurred by such market agency, packer, or dealer. No market agency, packer, or dealer required to maintain a bond shall conduct his operations unless there is on file and in effect a bond complying with the regulations in this part.
+
+(b) Every market agency buying on a commission basis and every dealer buying for his own account or for the accounts of others shall file and maintain a bond. If a registrant operates as both a market agency buying on a commission basis and as a dealer, only one bond to cover both buying operations need be filed. Any person operating as a market agency selling on a commission basis and as a market agency buying on a commission basis or as a dealer shall file and maintain separate bonds to cover his selling and buying operations.
+
+(c) Each market agency and dealer whose buying operations are cleared by another market agency shall be named as clearee in the bond filed and maintained by the market agency registered to provide clearing services. Each market agency selling livestock on a commission basis shall file and maintain its own bond.
+
+(d) Every packer purchasing livestock, directly or through an affiliate or employee or a wholly-owned subsidiary, except those packers whose annual purchases do not exceed $500,000, shall file and maintain a reasonable bond. In the event a packer maintains a wholly-owned subsidiary or affiliate to conduct its livestock buying, the wholly-owned subsidiary or affiliate shall be registered as a packer buyer for its parent packer firm, and the required bond shall be maintained by the parent packer firm.
+
+(7 U.S.C. 204, 228(a))[48 FR 8806, Mar. 2, 1983]

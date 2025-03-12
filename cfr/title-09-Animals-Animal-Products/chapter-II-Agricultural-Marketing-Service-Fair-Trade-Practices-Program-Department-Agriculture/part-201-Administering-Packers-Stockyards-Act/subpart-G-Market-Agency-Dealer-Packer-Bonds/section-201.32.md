@@ -1,0 +1,5 @@
+##### § 201.32 Trustee in market agency, dealer and packer bonds. #####
+
+Bonds may be in favor of a trustee who shall be a financially responsible, disinterested person satisfactory to the Administrator. State officials, secretaries or other officers of livestock exchanges or of similar trade associations, attorneys at law, banks and trust companies, or their officers, are deemed suitable trustees. If a trustee is not designated in the bond and action is taken to recover damages for breach of any condition thereof, the Administrator shall designate a person to act as trustee. In those States in which a State official is required by statute to act or has agreed to act as trustee, such official shall be designated by the Administrator as trustee when a designation by the Administrator becomes necessary.
+
+[41 FR 53774, Dec. 9, 1976]
