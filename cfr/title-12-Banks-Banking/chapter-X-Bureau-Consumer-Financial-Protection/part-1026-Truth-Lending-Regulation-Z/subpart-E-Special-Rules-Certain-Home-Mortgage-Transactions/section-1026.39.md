@@ -1,7 +1,5 @@
 ##### § 1026.39 Mortgage transfer disclosures. #####
 
-Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
-
 (a) *Scope.* The disclosure requirements of this section apply to any covered person except as otherwise provided in this section. For purposes of this section:
 
 (1) A “*covered person”* means any person, as defined in § 1026.2(a)(22), that becomes the owner of an existing mortgage loan by acquiring legal title to the debt obligation, whether through a purchase, assignment or other transfer, and who acquires more than one mortgage loan in any twelve-month period. For purposes of this section, a servicer of a mortgage loan shall not be treated as the owner of the obligation if the servicer holds title to the loan, or title is assigned to the servicer, solely for the administrative convenience of the servicer in servicing the obligation.
@@ -58,4 +56,6 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (e) *Optional disclosures.* In addition to the information required to be disclosed under paragraph (d) of this section, a covered person may, at its option, provide any other information regarding the transaction.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80130, Dec. 31, 2013]
+(f) *Successor in interest.* If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraph (b) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80130, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]

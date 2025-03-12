@@ -1,5 +1,7 @@
 ##### § 648.125 Scup gear restrictions. #####
 
+Link to an amendment published at 83 FR 17315, Apr. 19, 2018.
+
 (a) *Trawl vessel gear restrictions* - (1) *Minimum mesh size.* No owner or operator of an otter trawl vessel that is issued a scup moratorium permit may possess more than 1,000 lb (454 kg) of scup from November 1 through April 30, or more than 200 lb (91 kg) of scup from May 1 through October 31, unless fishing with nets that have a minimum mesh size of 5.0-inch (12.7-cm) diamond mesh, applied throughout the codend for at least 75 continuous meshes forward of the terminus of the net, and all other nets are stowed and not available for immediate use as defined in § 648.2.
 
 (2) *Mesh-size measurement.* Mesh sizes will be measured according to the procedure specified in § 648.104(a)(2).

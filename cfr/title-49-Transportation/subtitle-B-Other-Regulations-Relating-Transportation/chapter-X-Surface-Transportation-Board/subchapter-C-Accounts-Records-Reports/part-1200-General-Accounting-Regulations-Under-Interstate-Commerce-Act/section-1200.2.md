@@ -1,5 +1,7 @@
 ##### § 1200.2 Adoption of generally accepted accounting principles issued by the Financial Accounting Standards Board (FASB). #####
 
+Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
+
 (a) *Accounting Series Circulars.* Following the release of a Statement of Financial Accounting Standards by the FASB, and provided that the Office of Economics, Environmental Analysis, and Administration of the Board considers such standards appropriate for the Board's accounting regulations, the Office of Economics, Environmental Analysis, and Administration shall issue an Accounting Series Circular (ASC) requiring carriers under the Board's jurisdiction to follow the new standards in their accounts and reports filed with the Board. The Office shall also specify in the ASC the proper accounting procedures that the carriers shall follow.
 
 (b) *Carriers' and Interested Parties' Comments on the ASC.* The ASC issued by the Office of Economics, Environmental Analysis, and Administration will remain effective until revoked by the Office of Economics, Environmental Analysis, and Administration. After an ASC is issued, the Office of Economics, Environmental Analysis, and Administration shall allow carriers and interested parties 45 days following the service date of the ASC during which the respondents may submit to the Office their comments and reasons either supporting or opposing the ASC.

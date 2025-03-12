@@ -1,7 +1,5 @@
 ##### § 1024.35 Error resolution procedures. #####
 
-Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
-
 (a) *Notice of error.* A servicer shall comply with the requirements of this section for any written notice from the borrower that asserts an error and that includes the name of the borrower, information that enables the servicer to identify the borrower's mortgage loan account, and the error the borrower believes has occurred. A notice on a payment coupon or other payment form supplied by the servicer need not be treated by the servicer as a notice of error. A qualified written request that asserts an error relating to the servicing of a mortgage loan is a notice of error for purposes of this section, and a servicer must comply with all requirements applicable to a notice of error with respect to such qualified written request.
 
 (b) *Scope of error resolution.* For purposes of this section, the term “error” refers to the following categories of covered errors:
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
 
 (d) *Acknowledgment of receipt.* Within five days (excluding legal public holidays, Saturdays, and Sundays) of a servicer receiving a notice of error from a borrower, the servicer shall provide to the borrower a written response acknowledging receipt of the notice of error.
 
-(e) *Response to notice of error* - (1) *Investigation and response requirements* - (i) *In general.* Except as provided in paragraphs (f) and (g) of this section, a servicer must respond to a notice of error by either:
+(e) *Response to notice of error*—(1) *Investigation and response requirements*—(i) *In general.* Except as provided in paragraphs (f) and (g) of this section, a servicer must respond to a notice of error by either:
 
 (A) Correcting the error or errors identified by the borrower and providing the borrower with a written notification of the correction, the effective date of the correction, and contact information, including a telephone number, for further assistance; or
 
@@ -46,7 +44,7 @@ Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
 
 (ii) Determine that no error occurred because the borrower failed to provide any requested information without conducting a reasonable investigation pursuant to paragraph (e)(1)(i)(B) of this section.
 
-(3) *Time limits* - (i) *In general.* A servicer must comply with the requirements of paragraph (e)(1) of this section:
+(3) *Time limits*—(i) *In general.* A servicer must comply with the requirements of paragraph (e)(1) of this section:
 
 (A) Not later than seven days (excluding legal public holidays, Saturdays, and Sundays) after the servicer receives the notice of error for errors asserted under paragraph (b)(6) of this section.
 
@@ -58,11 +56,17 @@ Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
 
 (4) *Copies of documentation.* A servicer shall provide to the borrower, at no charge, copies of documents and information relied upon by the servicer in making its determination that no error occurred within 15 days (excluding legal public holidays, Saturdays, and Sundays) of receiving the borrower's request for such documents. A servicer is not required to provide documents relied upon that constitute confidential, proprietary or privileged information. If a servicer withholds documents relied upon because it has determined that such documents constitute confidential, proprietary or privileged information, the servicer must notify the borrower of its determination in writing within 15 days (excluding legal public holidays, Saturdays, and Sundays) of receipt of the borrower's request for such documents.
 
-(f) *Alternative compliance* - (1) *Early correction.* A servicer is not required to comply with paragraphs (d) and (e) of this section if the servicer corrects the error or errors asserted by the borrower and notifies the borrower of that correction in writing within five days (excluding legal public holidays, Saturdays, and Sundays) of receiving the notice of error.
+(5) *Omissions in responses to requests for documentation.* In its response to a request for documentation under paragraph (e)(4) of this section, a servicer may omit location and contact information and personal financial information (other than information about the terms, status, and payment history of the mortgage loan) if:
+
+(i) The information pertains to a potential or confirmed successor in interest who is not the requester; or
+
+(ii) The requester is a confirmed successor in interest and the information pertains to any borrower who is not the requester.
+
+(f) *Alternative compliance*—(1) *Early correction.* A servicer is not required to comply with paragraphs (d) and (e) of this section if the servicer corrects the error or errors asserted by the borrower and notifies the borrower of that correction in writing within five days (excluding legal public holidays, Saturdays, and Sundays) of receiving the notice of error.
 
 (2) *Error asserted before foreclosure sale.* A servicer is not required to comply with the requirements of paragraphs (d) and (e) of this section for errors asserted under paragraph (b)(9) or (10) of this section if the servicer receives the applicable notice of an error seven or fewer days before a foreclosure sale. For any such notice of error, a servicer shall make a good faith attempt to respond to the borrower, orally or in writing, and either correct the error or state the reason the servicer has determined that no error has occurred.
 
-(g) *Requirements not applicable* - (1) *In general.* A servicer is not required to comply with the requirements of paragraphs (d), (e), and (i) of this section if the servicer reasonably determines that any of the following apply:
+(g) *Requirements not applicable*—(1) *In general.* A servicer is not required to comply with the requirements of paragraphs (d), (e), and (i) of this section if the servicer reasonably determines that any of the following apply:
 
 (i) *Duplicative notice of error.* The asserted error is substantially the same as an error previously asserted by the borrower for which the servicer has previously complied with its obligation to respond pursuant to paragraphs (d) and (e) of this section, unless the borrower provides new and material information to support the asserted error. New and material information means information that was not reviewed by the servicer in connection with investigating a prior notice of the same error and is reasonably likely to change the servicer's prior determination about the error.
 
@@ -78,8 +82,8 @@ Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
 
 (h) *Payment requirements prohibited.* A servicer shall not charge a fee, or require a borrower to make any payment that may be owed on a borrower's account, as a condition of responding to a notice of error.
 
-(i) *Effect on servicer remedies* - (1) *Adverse information.* After receipt of a notice of error, a servicer may not, for 60 days, furnish adverse information to any consumer reporting agency regarding any payment that is the subject of the notice of error.
+(i) *Effect on servicer remedies*—(1) *Adverse information.* After receipt of a notice of error, a servicer may not, for 60 days, furnish adverse information to any consumer reporting agency regarding any payment that is the subject of the notice of error.
 
 (2) *Remedies permitted.* Except as set forth in this section with respect to an assertion of error under paragraph (b)(9) or (10) of this section, nothing in this section shall limit or restrict a lender or servicer from pursuing any remedy it has under applicable law, including initiating foreclosure or proceeding with a foreclosure sale.
 
-[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013]
+[78 FR 10876, Feb. 14, 2013, as amended at 78 FR 60437, Oct. 1, 2013; 81 FR 72371, Oct. 19, 2016]

@@ -1,6 +1,6 @@
 ##### § 1244.9 Procedures for the release of waybill data. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
 
 (a) *General.* The procedures for the release of waybill data identify five classes of users of the STB Waybill Sample, define the waybill information or data that each class of users may obtain, and set forth the applicable requirements for the data's release. They also formalize notice and protest procedures for the possible release of waybill data to other users to protect against the inappropriate release of confidential data. The Director of the Office of Economics shall be responsible for releasing waybill data in accordance with these procedures.
 

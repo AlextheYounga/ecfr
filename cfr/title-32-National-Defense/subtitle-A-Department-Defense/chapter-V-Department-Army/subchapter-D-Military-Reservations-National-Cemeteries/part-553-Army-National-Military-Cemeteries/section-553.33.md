@@ -18,7 +18,7 @@
 
 (6) Bring a dog, cat, or other animal (other than a service animal or military working dog) within an Army National Military Cemetery. This prohibition does not apply to persons living in quarters located on the grounds of the Army National Military Cemeteries.
 
-(7) Use the cemetery grounds for recreational activities (*e.g.,* physical exercise, running, jogging, sports, or picnics).
+(7) Use the cemetery grounds for recreational activities (e.g., physical exercise, running, jogging, sports, or picnics).
 
 (8) Ride a bicycle or similar conveyance in an Army National Military Cemetery, except with a proper pass issued by the Executive Director to visit a gravesite or niche. An individual visiting a relative's gravesite or niche may be issued a temporary pass by the Executive Director to proceed directly to and from the gravesite or niche on a bicycle or similar vehicle or conveyance.
 

@@ -1,8 +1,8 @@
 ##### § 1024.31 Definitions. #####
 
-Link to an amendment published at 81 FR 72370, Oct. 19, 2016.
-
 For purposes of this subpart:
+
+*Confirmed successor in interest* means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in a property that secures a mortgage loan subject to this subpart.
 
 *Consumer reporting agency* has the meaning set forth in section 603 of the Fair Credit Reporting Act, 15 U.S.C. 1681a.
 
@@ -31,6 +31,18 @@ For purposes of this subpart:
 *Service provider* means any party retained by a servicer that interacts with a borrower or provides a service to the servicer for which a borrower may incur a fee.
 
 *Subservicer* means a servicer that does not own the right to perform servicing, but that performs servicing on behalf of the master servicer.
+
+*Successor in interest* means a person to whom an ownership interest in a property securing a mortgage loan subject to this subpart is transferred from a borrower, provided that the transfer is:
+
+(1) A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;
+
+(2) A transfer to a relative resulting from the death of a borrower;
+
+(3) A transfer where the spouse or children of the borrower become an owner of the property;
+
+(4) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the borrower becomes an owner of the property; or
+
+(5) A transfer into an *inter vivos* trust in which the borrower is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.
 
 *Transferee servicer* means a servicer that obtains or will obtain the right to perform servicing pursuant to an agreement or understanding.
 

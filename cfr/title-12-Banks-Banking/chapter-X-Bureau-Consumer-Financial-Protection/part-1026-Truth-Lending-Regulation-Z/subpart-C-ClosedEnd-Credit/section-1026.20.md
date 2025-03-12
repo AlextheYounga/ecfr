@@ -1,7 +1,5 @@
 ##### § 1026.20 Disclosure requirements regarding post-consummation events. #####
 
-Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
-
 (a) *Refinancings.* A refinancing occurs when an existing obligation that was subject to this subpart is satisfied and replaced by a new obligation undertaken by the same consumer. A refinancing is a new transaction requiring new disclosures to the consumer. The new finance charge shall include any unearned portion of the old finance charge that is not credited to the existing obligation. The following shall not be treated as a refinancing:
 
 (1) A renewal of a single payment obligation with no change in the original terms.
@@ -28,7 +26,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (c) *Rate adjustments with a corresponding change in payment.* The creditor, assignee, or servicer of an adjustable-rate mortgage shall provide consumers with disclosures, as described in this paragraph (c), in connection with the adjustment of interest rates pursuant to the loan contract that results in a corresponding adjustment to the payment. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (c), those provisions apply to assignees and servicers as well as to creditors. The disclosures required by this paragraph (c) also shall be provided for an interest rate adjustment resulting from the conversion of an adjustable-rate mortgage to a fixed-rate transaction, if that interest rate adjustment results in a corresponding payment change.
 
-(1) *Coverage* - (i) *In general.* For purposes of this paragraph (c), an adjustable-rate mortgage or “ARM” is a closed-end consumer credit transaction secured by the consumer's principal dwelling in which the annual percentage rate may increase after consummation.
+(1) *Coverage*—(i) *In general.* For purposes of this paragraph (c), an adjustable-rate mortgage or “ARM” is a closed-end consumer credit transaction secured by the consumer's principal dwelling in which the annual percentage rate may increase after consummation.
 
 (ii) *Exemptions.* The requirements of this paragraph (c) do not apply to:
 
@@ -84,7 +82,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (d) *Initial rate adjustment.* The creditor, assignee, or servicer of an adjustable-rate mortgage shall provide consumers with disclosures, as described in this paragraph (d), in connection with the initial interest rate adjustment pursuant to the loan contract. To the extent that other provisions of this subpart C govern the disclosures required by this paragraph (d), those provisions apply to assignees and servicers as well as to creditors. The disclosures required by this paragraph (d) shall be provided as a separate document from other documents provided by the creditor, assignee, or servicer. The disclosures shall be provided to consumers at least 210, but no more than 240, days before the first payment at the adjusted level is due. If the first payment at the adjusted level is due within the first 210 days after consummation, the disclosures shall be provided at consummation.
 
-(1) *Coverage* - (i) *In general.* For purposes of this paragraph (d), an adjustable-rate mortgage or “ARM” is a closed-end consumer credit transaction secured by the consumer's principal dwelling in which the annual percentage rate may increase after consummation.
+(1) *Coverage*—(i) *In general.* For purposes of this paragraph (d), an adjustable-rate mortgage or “ARM” is a closed-end consumer credit transaction secured by the consumer's principal dwelling in which the annual percentage rate may increase after consummation.
 
 (ii) *Exemptions.* The requirements of this paragraph (d) do not apply to ARMs with terms of one year or less.
 
@@ -152,7 +150,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (iii) The disclosures required by paragraph (d)(2)(iii) of this section shall be in the form of a table located within the table described in paragraph (d)(3)(i) of this section. These disclosures shall appear in the same order as, and with headings and format substantially similar to, the table inside the larger table in forms H-4(D)(3) and (4) in appendix H to this part.
 
-(e) *Escrow account cancellation notice for certain mortgage transactions* - (1) *Scope.* In a closed-end consumer credit transaction secured by a first lien on real property or a dwelling, other than a reverse mortgage subject to § 1026.33, for which an escrow account was established in connection with the transaction and will be cancelled, the creditor or servicer shall disclose the information specified in paragraph (e)(2) of this section in accordance with the form requirements in paragraph (e)(4) of this section, and the timing requirements in paragraph (e)(5) of this section. For purposes of this paragraph (e), the term “escrow account” has the same meaning as under 12 CFR 1024.17(b), and the term “servicer” has the same meaning as under 12 CFR 1024.2(b).
+(e) *Escrow account cancellation notice for certain mortgage transactions*—(1) *Scope.* In a closed-end consumer credit transaction secured by a first lien on real property or a dwelling, other than a reverse mortgage subject to § 1026.33, for which an escrow account was established in connection with the transaction and will be cancelled, the creditor or servicer shall disclose the information specified in paragraph (e)(2) of this section in accordance with the form requirements in paragraph (e)(4) of this section, and the timing requirements in paragraph (e)(5) of this section. For purposes of this paragraph (e), the term “escrow account” has the same meaning as under 12 CFR 1024.17(b), and the term “servicer” has the same meaning as under 12 CFR 1024.2(b).
 
 (2) *Content requirements.* If an escrow account was established in connection with a transaction subject to this paragraph (e) and the escrow account will be cancelled, the creditor or servicer shall clearly and conspicuously disclose, under the heading “Escrow Closing Notice,” the following information:
 
@@ -172,10 +170,12 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.
 
 (4) *Form of disclosures.* The disclosures required by paragraph (e)(2) of this section shall be provided in a minimum 10-point font, grouped together on the front side of a one-page document, separate from all other materials, with the headings, content, order, and format substantially similar to model form H-29 in appendix H to this part. The disclosure of the heading required by paragraph (e)(2) of this section shall be more conspicuous than, and shall precede, the other disclosures required by paragraph (e)(2) of this section.
 
-(5) *Timing* - (i) *Cancellation upon consumer's request.* If the creditor or servicer cancels the escrow account at the consumer's request, the creditor or servicer shall ensure that the consumer receives the disclosures required by paragraph (e)(2) of this section no later than three business days before the closure of the consumer's escrow account.
+(5) *Timing*—(i) *Cancellation upon consumer's request.* If the creditor or servicer cancels the escrow account at the consumer's request, the creditor or servicer shall ensure that the consumer receives the disclosures required by paragraph (e)(2) of this section no later than three business days before the closure of the consumer's escrow account.
 
 (ii) *Cancellations other than upon the consumer's request.* If the creditor or servicer cancels the escrow account and the cancellation is not at the consumer's request, the creditor or servicer shall ensure that the consumer receives the disclosures required by paragraph (e)(2) of this section no later than 30 business days before the closure of the consumer's escrow account.
 
 (iii) *Receipt of disclosure.* If the disclosures required by paragraph (e)(2) of this section are not provided to the consumer in person, the consumer is considered to have received the disclosures three business days after they are delivered or placed in the mail.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 11004, Feb. 14, 2013; 78 FR 63005, Oct. 23, 2013; 78 FR 80111, Dec. 31, 2013]
+(f) *Successor in interest.* If, upon confirmation, a servicer provides a confirmed successor in interest who is not liable on the mortgage loan obligation with a written notice and acknowledgment form in accordance with Regulation X, § 1024.32(c)(1) of this chapter, the servicer is not required to provide to the confirmed successor in interest any written disclosure required by paragraphs (c), (d), and (e) of this section unless and until the confirmed successor in interest either assumes the mortgage loan obligation under State law or has provided the servicer an executed acknowledgment in accordance with Regulation X, § 1024.32(c)(1)(iv) of this chapter, that the confirmed successor in interest has not revoked.
+
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 11004, Feb. 14, 2013; 78 FR 63005, Oct. 23, 2013; 78 FR 80111, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]

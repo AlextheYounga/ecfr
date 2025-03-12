@@ -1,6 +1,6 @@
 ##### § 1105.7 Environmental reports. #####
 
-Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.Link to an amendment published at 83 FR 17300, Apr. 19, 2018.
 
 (a) *Filing.* An applicant for an action identified in § 1105.6 (a) or (b) must submit to the Board (with or prior to its application, petition or notice of exemption) except as provided in paragraph (b) for abandonments and discontinuances) an Environmental Report on the proposed action containing the information set forth in paragraph (e) of this section. The Environmental Report may be filed with the Board electronically.
 

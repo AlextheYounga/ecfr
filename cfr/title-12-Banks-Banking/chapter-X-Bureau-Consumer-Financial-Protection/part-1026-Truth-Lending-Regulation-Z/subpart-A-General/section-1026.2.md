@@ -1,6 +1,6 @@
 ##### § 1026.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 81 FR 72388, Oct. 19, 2016.Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
+Link to an amendment published at 81 FR 84369, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.This amendment was further delayed until Apr. 1, 2019, at 83 FR 6364, Feb. 13, 2018.
 
 (a) *Definitions.* For purposes of this part, the following definitions apply:
 
@@ -26,7 +26,7 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.Link to an amendmen
 
 (10) *Closed-end credit* means consumer credit other than “open-end credit” as defined in this section.
 
-(11) *Consumer* means a cardholder or natural person to whom consumer credit is offered or extended. However, for purposes of rescission under §§ 1026.15 and 1026.23, the term also includes a natural person in whose principal dwelling a security interest is or will be retained or acquired, if that person's ownership interest in the dwelling is or will be subject to the security interest.
+(11) *Consumer* means a cardholder or natural person to whom consumer credit is offered or extended. However, for purposes of rescission under §§ 1026.15 and 1026.23, the term also includes a natural person in whose principal dwelling a security interest is or will be retained or acquired, if that person's ownership interest in the dwelling is or will be subject to the security interest. For purposes of §§ 1026.20(c) through (e), 1026.36(c), 1026.39, and 1026.41, the term includes a confirmed successor in interest.
 
 (12) *Consumer credit* means credit offered or extended to a consumer primarily for personal, family, or household purposes.
 
@@ -86,6 +86,20 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.Link to an amendmen
 
 (26) *State* means any state, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
+(27)(i) *Successor in interest* means a person to whom an ownership interest in a dwelling securing a closed-end consumer credit transaction is transferred from a consumer, provided that the transfer is:
+
+(A) A transfer by devise, descent, or operation of law on the death of a joint tenant or tenant by the entirety;
+
+(B) A transfer to a relative resulting from the death of the consumer;
+
+(C) A transfer where the spouse or children of the consumer become an owner of the property;
+
+(D) A transfer resulting from a decree of a dissolution of marriage, legal separation agreement, or from an incidental property settlement agreement, by which the spouse of the consumer becomes an owner of the property; or
+
+(E) A transfer into an *inter vivos* trust in which the consumer is and remains a beneficiary and which does not relate to a transfer of rights of occupancy in the property.
+
+(ii) *Confirmed successor in interest* means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in the dwelling.
+
 (b) *Rules of construction.* For purposes of this part, the following rules of construction apply:
 
 (1) Where appropriate, the singular form of a word includes the plural form and plural includes singular.
@@ -96,4 +110,4 @@ Link to an amendment published at 81 FR 72388, Oct. 19, 2016.Link to an amendmen
 
 (4) Where the word *amount* is used in this part to describe disclosure requirements, it refers to a numerical amount.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016]

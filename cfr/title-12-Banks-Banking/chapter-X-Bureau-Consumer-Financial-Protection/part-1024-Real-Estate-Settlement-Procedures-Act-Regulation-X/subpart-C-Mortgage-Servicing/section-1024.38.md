@@ -1,10 +1,8 @@
 ##### § 1024.38 General servicing policies, procedures, and requirements. #####
 
-Link to an amendment published at 81 FR 72372, Oct. 19, 2016.
-
 (a) *Reasonable policies and procedures.* A servicer shall maintain policies and procedures that are reasonably designed to achieve the objectives set forth in paragraph (b) of this section.
 
-(b) *Objectives* - (1) *Accessing and providing timely and accurate information.* The policies and procedures required by paragraph (a) of this section shall be reasonably designed to ensure that the servicer can:
+(b) *Objectives*—(1) *Accessing and providing timely and accurate information.* The policies and procedures required by paragraph (a) of this section shall be reasonably designed to ensure that the servicer can:
 
 (i) Provide accurate and timely disclosures to a borrower as required by this subpart or other applicable law;
 
@@ -16,7 +14,11 @@ Link to an amendment published at 81 FR 72372, Oct. 19, 2016.
 
 (v) Submit documents or filings required for a foreclosure process, including documents or filings required by a court of competent jurisdiction, that reflect accurate and current information and that comply with applicable law; and
 
-(vi) Upon notification of the death of a borrower, promptly identify and facilitate communication with the successor in interest of the deceased borrower with respect to the property secured by the deceased borrower's mortgage loan.
+(vi)(A) Upon receiving notice of the death of a borrower or of any transfer of the property securing a mortgage loan, promptly facilitate communication with any potential or confirmed successors in interest regarding the property;
+
+(B) Upon receiving notice of the existence of a potential successor in interest, promptly determine the documents the servicer reasonably requires to confirm that person's identity and ownership interest in the property and promptly provide to the potential successor in interest a description of those documents and how the person may submit a written request under § 1024.36(i) (including the appropriate address); and
+
+(C) Upon the receipt of such documents, promptly make a confirmation determination and promptly notify the person, as applicable, that the servicer has confirmed the person's status, has determined that additional documents are required (and what those documents are), or has determined that the person is not a successor in interest.
 
 (2) *Properly evaluating loss mitigation applications.* The policies and procedures required by paragraph (a) of this section shall be reasonably designed to ensure that the servicer can:
 
@@ -50,7 +52,7 @@ Link to an amendment published at 81 FR 72372, Oct. 19, 2016.
 
 (5) *Informing borrowers of the written error resolution and information request procedures.* The policies and procedures required by paragraph (a) of this section shall be reasonably designed to ensure that the servicer informs borrowers of the procedures for submitting written notices of error set forth in § 1024.35 and written information requests set forth in § 1024.36.
 
-(c) *Standard requirements* - (1) *Record retention.* A servicer shall retain records that document actions taken with respect to a borrower's mortgage loan account until one year after the date a mortgage loan is discharged or servicing of a mortgage loan is transferred by the servicer to a transferee servicer.
+(c) *Standard requirements*—(1) *Record retention.* A servicer shall retain records that document actions taken with respect to a borrower's mortgage loan account until one year after the date a mortgage loan is discharged or servicing of a mortgage loan is transferred by the servicer to a transferee servicer.
 
 (2) *Servicing file.* A servicer shall maintain the following documents and data on each mortgage loan account serviced by the servicer in a manner that facilitates compiling such documents and data into a servicing file within five days:
 

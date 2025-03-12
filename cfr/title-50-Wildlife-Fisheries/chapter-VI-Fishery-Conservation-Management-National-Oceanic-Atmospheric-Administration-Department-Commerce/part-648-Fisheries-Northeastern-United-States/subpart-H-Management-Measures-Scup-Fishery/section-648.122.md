@@ -1,5 +1,7 @@
 ##### § 648.122 Scup specifications. #####
 
+Link to an amendment published at 83 FR 17315, Apr. 19, 2018.
+
 (a) *Commercial quota, recreational landing limits, research set-asides, and other specification measures.* The Scup Monitoring Committee shall recommend to the Demersal Species Committee of the MAFMC and the ASMFC through the specifications process, for use in conjunction with each ACL and ACT, a sector specific research set-aside, estimates of sector-related discards, recreational harvest limit, and commercial quota, along with other measures, as needed, that are projected to ensure the sector-specific ACL for an upcoming fishing year or years will not be exceeded. The measures to be considered by the Scup Monitoring Committee are as follows:
 
 (1) Research quota set from a range of 0 to 3 percent of the maximum allowed to achieve the specified exploitation rate.
