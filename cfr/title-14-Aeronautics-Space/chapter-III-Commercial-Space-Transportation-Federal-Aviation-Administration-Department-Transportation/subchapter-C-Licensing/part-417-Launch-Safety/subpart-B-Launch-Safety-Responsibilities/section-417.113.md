@@ -1,7 +1,5 @@
 ##### § 417.113 Launch safety rules. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 (a) *General.* For each launch, a launch operator must satisfy written launch safety rules that govern the conduct of the launch.
 
 (1) The launch safety rules must identify the meteorological conditions and the status of the launch vehicle, launch support equipment, and personnel under which launch processing and flight may be conducted without adversely affecting public safety.
@@ -14,13 +12,13 @@ Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extensio
 
 (c) *Flight-commit criteria.* The launch safety rules must include flight-commit criteria that identify each condition that must be met in order to initiate flight.
 
-(1) The flight-commit criteria must implement the flight safety analysis of subpart C of this part. These must include criteria for:
+(1) The flight-commit criteria must implement the flight safety analysis of subpart C of this part and collision avoidance requirements in § 450.169 and critical asset protection requirements in § 450.101(a)(4) and (b)(4). These must include criteria for:
 
 (i) Surveillance of any region of land, sea, or air necessary to ensure the number and location of members of the public are consistent with the inputs used for the flight safety analysis of subpart C of this part;
 
 (ii) Monitoring of any meteorological condition and implementing any flight constraint developed using appendix G of this part. The launch operator must have clear and convincing evidence that the lightning flight commit criteria of appendix G, which apply to the conditions present at the time of lift-off, are not violated. If any other hazardous conditions exist, other than those identified by appendix G, the launch weather team will report the hazardous condition to the official designated under § 417.103(b)(1), who will determine whether initiating flight would expose the launch vehicle to a lightning hazard and not initiate flight in the presence of the hazard; and
 
-(iii) Implementation of any launch wait in the launch window for the purpose of collision avoidance.
+(iii) Implementation of any launch wait in the launch window for the purpose of collision avoidance in accordance with collision avoidance requirements in § 450.169.
 
 (2) For a launch that uses a flight safety system, the flight-commit criteria must ensure that the flight safety system is ready for flight. This must include criteria for ensuring that:
 
@@ -69,3 +67,5 @@ Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extensio
 (e) *Flight safety system safing.* For a launch that uses a flight safety system, the launch safety rules must ensure that any safing of the flight safety system occurs on or after the point in flight where the flight safety system is no longer required by § 417.107(b).
 
 (f) *Launch crew work shift and rest rules.* For any operation with the potential to have an adverse effect on public safety, the launch safety rules must ensure the launch crew is physically and mentally capable of performing all assigned tasks. These rules must govern the length, number, and frequency of work shifts, including the rest afforded the launch crew between shifts.
+
+[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Doc. No. FAA-2019-0229, Amdt. 417-6, 85 FR 79716, Dec. 10, 2020]

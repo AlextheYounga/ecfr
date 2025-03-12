@@ -1,7 +1,5 @@
 ##### § 423.570 Expediting certain coverage determinations. #####
 
-Link to an amendment published at 86 FR 6120, Jan. 19, 2021.
-
 (a) *Request for expedited determination.* An enrollee or an enrollee's prescribing physician or other prescriber may request that a Part D plan sponsor expedite a coverage determination involving issues described in § 423.566(b) of this part. This does not include requests for payment of Part D drugs already furnished.
 
 (b) *How to make a request.* (1) To ask for an expedited determination, an enrollee or an enrollee's prescribing physician or other prescriber on behalf of the enrollee must submit an oral or written request directly to the Part D plan sponsor or, if applicable, to the entity responsible for making the determination, as directed by the Part D plan sponsor.
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 6120, Jan. 19, 2021.
 
 (1) Make the determination within the 72-hour timeframe established in § 423.568(b) for a standard determination. The 72-hour period begins on the day the Part D plan sponsor receives the request for expedited determination. For an exceptions request, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receipt of the physician's or other prescriber's supporting statement. If a supporting statement is not received by the end of 14 calendar days from receipt of the exceptions request, the Part D plan sponsor must notify the enrollee (and the prescribing physician or other prescriber involved, as appropriate) of its determination as expeditiously as the enrollee's health condition requires, but no later than 72 hours from the end of 14 calendar days from receipt of the exceptions request.
 
-(2) Give the enrollee and prescribing physician or other prescriber prompt oral notice of the denial that -
+(2) Give the enrollee and prescribing physician or other prescriber prompt oral notice of the denial that—
 
 (i) Explains that the Part D plan sponsor must process the request using the 72 hour timeframe for standard determinations;
 
@@ -38,4 +36,6 @@ Link to an amendment published at 86 FR 6120, Jan. 19, 2021.
 
 (e) *Actions on accepted requests for expedited determination.* If a Part D plan sponsor grants a request for expedited determination, it must make the determination and give notice in accordance with § 423.572.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 74 FR 1546, Jan. 12, 2009; 75 FR 19823, Apr. 15, 2010; 84 FR 15843, Apr. 16, 2019]
+(f) *Dismissing a request.* The Part D plan sponsor dismisses an expedited coverage determination in accordance with § 423.568.
+
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 74 FR 1546, Jan. 12, 2009; 75 FR 19823, Apr. 15, 2010; 84 FR 15843, Apr. 16, 2019; 86 FR 6120, Jan. 19, 2021]

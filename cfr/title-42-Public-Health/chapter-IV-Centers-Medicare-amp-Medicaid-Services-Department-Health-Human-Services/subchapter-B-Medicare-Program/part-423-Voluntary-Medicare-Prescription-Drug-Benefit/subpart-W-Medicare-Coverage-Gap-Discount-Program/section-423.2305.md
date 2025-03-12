@@ -1,10 +1,8 @@
 ##### § 423.2305 Definitions. #####
 
-Link to an amendment published at 86 FR 6131, Jan. 19, 2021.
-
 As used in this subpart, unless otherwise specified -
 
-*Applicable discount* means 50 percent of the portion of the negotiated price (as defined in § 423.2305) of the applicable drug of a manufacturer that falls within the coverage gap and that remains after such negotiated price is reduced by any supplemental benefits that are available.
+*Applicable discount* means 50 percent or, with respect to a plan year after plan year 2018, 70 percent of the portion of the negotiated price (as defined in this section) of the applicable drug of a manufacturer that falls within the coverage gap and that remains after such negotiated price is reduced by any supplemental benefits that are available.
 
 *Applicable number of calendar days* means, with respect to claims for reimbursement submitted electronically, 14 days, and otherwise, 30 days.
 
@@ -35,3 +33,5 @@ In connection with applicable drugs dispensed by an out-of-network provider in a
 *Other health or prescription drug coverage* means any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries, including, in the case of employer group health or waiver plans, other than basic prescription drug coverage as defined in § 423.100.
 
 *Third Party Administrator* (TPA) means the CMS contractor responsible for administering the requirements established by the CMS to carry out section 1860D-14A of the Act.
+
+[77 FR 22172, Apr. 12, 2012, as amended at 86 FR 6131, Jan. 19, 2021]

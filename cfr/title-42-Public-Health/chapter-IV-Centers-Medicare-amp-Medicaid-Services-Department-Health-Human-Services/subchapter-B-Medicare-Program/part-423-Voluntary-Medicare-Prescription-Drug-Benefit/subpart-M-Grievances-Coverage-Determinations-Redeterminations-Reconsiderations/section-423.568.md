@@ -1,7 +1,5 @@
 ##### § 423.568 Standard timeframe and notice requirements for coverage determinations. #####
 
-Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
-
 (a) *Method and place for filing a request.* An enrollee must ask for a standard coverage determination by making a request with the Part D plan sponsor in accordance with the following:
 
 (1) Except as specified in paragraph (a)(2) of this section, the request may be made orally or in writing.
@@ -36,4 +34,32 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (h) *Effect of failure to meet the adjudicatory timeframes.* If the Part D plan sponsor fails to notify the enrollee of its determination in the appropriate timeframe under paragraphs (b) or (c) of this section, the failure constitutes an adverse coverage determination, and the plan sponsor must forward the enrollee's request to the IRE within 24 hours of the expiration of the adjudication timeframe.
 
-[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011; 84 FR 15843, Apr. 16, 2019]
+(i) *Dismissing a request.* The Part D plan sponsor dismisses a coverage determination request, either entirely or as to any stated issue, under any of the following circumstances:
+
+(1) When the individual making the request is not permitted to request a coverage determination under § 423.566(c).
+
+(2) When the Part D plan sponsor determines the party failed to make out a valid request for a coverage determination that substantially complies with paragraph (a) of this section.
+
+(3) When an enrollee or the enrollee's representative files a request for a coverage determination, but the enrollee dies while the request is pending, and both of the following criteria apply:
+
+(i) The enrollee's surviving spouse or estate has no remaining financial interest in the case.
+
+(ii) The enrollee's representative, if any, does not wish to pursue the request for coverage.
+
+(4) When a party filing the coverage determination request submits a timely request for withdrawal of the request for a coverage determination with the Part D plan sponsor.
+
+(j) *Notice of dismissal.* The Part D plan must mail or otherwise transmit a written notice of the dismissal of the coverage determination request to the parties. The notice must state all of the following:
+
+(1) The reason for the dismissal.
+
+(2) The right to request that the MA organization vacate the dismissal action.
+
+(3) The right to request reconsideration of the dismissal.
+
+(k) *Vacating a dismissal.* If good cause is established, the Part D plan sponsor may vacate its dismissal of a request for redetermination within 6 months from the date of the notice of dismissal.
+
+(*l*) *Effect of dismissal.* The Part D plan sponsor's dismissal is binding unless it is modified or reversed by the Part D plan sponsor or vacated under paragraph (k) of this section.
+
+(m) *Withdrawing a request.* A party that requests a coverage determination may withdraw its request at any time before the decision is issued by filing a request with the Part D plan sponsor.
+
+[75 FR 19823, Apr. 15, 2010, as amended at 76 FR 21576, Apr. 15, 2011; 84 FR 15843, Apr. 16, 2019; 86 FR 6119, Jan. 19, 2021]

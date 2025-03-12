@@ -1,9 +1,13 @@
 ##### § 435.1 General. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
+(a) *Applicability.* This part applies to the following—
 
-(a) *Scope.* This part prescribes requirements for obtaining a license to reenter a reentry vehicle other than a reusable launch vehicle (RLV), and postlicensing requirements with which a licensee must comply to remain licensed. Requirements for preparing a license application are contained in part 413 of this subchapter.
+(1) Licenses issued under this part before June 8, 2021; and
 
-(b) *Equivalent level of safety.* Each requirement of this part applies unless the applicant or licensee clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety to the requirement of this part.
+(2) Licenses issued on or after June 8, 2021, if the FAA accepted the application under § 413.11 of this chapter before that date.
 
-[Doc. No. FAA-2016-6761, Amdt. No. 435-4, 83 FR 28535, June 20, 2018]
+(b) *Scope.* This part prescribes requirements for obtaining a license to reenter a reentry vehicle other than a reusable launch vehicle (RLV), and post-licensing requirements with which a licensee must comply to remain licensed. Requirements for preparing a license application are contained in part 413 of this subchapter.
+
+(c) *Equivalent level of safety.* Each requirement of this part applies unless the applicant or licensee clearly and convincingly demonstrates that an alternative approach provides an equivalent level of safety to the requirement of this part.
+
+[Doc. No. FAA-2019-0229, Amdt. 435-5, 85 FR 79717, Dec. 10, 2020]

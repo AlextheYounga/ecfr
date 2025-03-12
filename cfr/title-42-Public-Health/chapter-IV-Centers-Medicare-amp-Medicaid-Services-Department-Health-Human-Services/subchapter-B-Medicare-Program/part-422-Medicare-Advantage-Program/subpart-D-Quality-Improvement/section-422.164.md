@@ -1,7 +1,5 @@
 ##### § 422.164 Adding, updating, and removing measures. #####
 
-Link to an amendment published at 86 FR 6097, Jan. 19, 2021.
-
 (a) *General.* CMS adds, updates, and removes measures used to calculate the Star Ratings as provided in this section. CMS lists the measures used for a particular Star Rating each year in the Technical Notes or similar guidance document with publication of the Star Ratings.
 
 (b) *Review of data quality.* CMS reviews the quality of the data on which performance, scoring and rating of a measure is based before using the data to score and rate performance or in calculating a Star Rating. This includes review of variation in scores among MA organizations and Part D plan sponsors, and the accuracy, reliability, and validity of measures and performance data before making a final determination about inclusion of measures in each year's Star Ratings.
@@ -82,7 +80,9 @@ Link to an amendment published at 86 FR 6097, Jan. 19, 2021.
 
 (iii) For the appeals measures, CMS will use statistical criteria to estimate the percentage of missing data for each contract (using data from multiple sources such as a timeliness monitoring study or audit information) to scale the star reductions to determine whether the data at the independent review entity (IRE) are complete. CMS will use scaled reductions for the Star Ratings for the applicable appeals measures to account for the degree to which the IRE data are missing.
 
-(A) The data submitted for the Timeliness Monitoring Project (TMP) or audit that aligns with the Star Ratings year measurement period is used to determine the scaled reduction.
+(A)(*1*) The data submitted for the Timeliness Monitoring Project (TMP) or audit that aligns with the Star Ratings year measurement period is used to determine the scaled reduction.
+
+(*2*) For contract consolidations approved on or after January 1, 2022, if there is a contract consolidation as described at § 422.162(b)(3), the TMP or audit data are combined for the consumed and surviving contracts before the methodology provided in paragraphs (g)(1)(iii)(B) through (O) of this section is applied.
 
 (B) The determination of the Part C appeals measure IRE data reduction is done independently of the Part D appeals measure IRE data reduction.
 
@@ -132,4 +132,4 @@ Link to an amendment published at 86 FR 6097, Jan. 19, 2021.
 
 (i) *Special rule for 2021 Star Ratings only.* In the event that the threat to health and safety posed by the COVID-19 pandemic compromises the quality of the data, or ability to validate such data for all plans used to calculate a particular measure, CMS will substitute and use the 2021 Star Ratings measure score and Star Rating with the 2020 Star Ratings measure score and Star Rating.
 
-[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020]
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15829, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 86 FR 6097, Jan. 19, 2021]

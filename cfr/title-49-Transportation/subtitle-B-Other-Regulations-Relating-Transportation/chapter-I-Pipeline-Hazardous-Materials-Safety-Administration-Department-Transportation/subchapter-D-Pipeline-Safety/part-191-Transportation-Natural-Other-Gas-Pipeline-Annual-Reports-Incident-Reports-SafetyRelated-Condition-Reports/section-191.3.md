@@ -1,7 +1,5 @@
 ##### § 191.3 Definitions. #####
 
-Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
-
 As used in this part and the PHMSA Forms referenced in this part -
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate
@@ -16,7 +14,7 @@ As used in this part and the PHMSA Forms referenced in this part -
 
 (i) A death, or personal injury necessitating in-patient hospitalization;
 
-(ii) Estimated property damage of $50,000 or more, including a loss to the operator and others, or both, but excluding the cost of gas lost; or
+(ii) Estimated property damage of $122,000 or more, including loss to the operator and others, or both, but excluding the cost of gas lost. For adjustments for inflation observed in calendar year 2021 onwards, changes to the reporting threshold will be posted on PHMSA's website. These changes will be determined in accordance with the procedures in appendix A to part 191.
 
 (iii) Unintentional estimated gas loss of three million cubic feet or more.
 
@@ -46,4 +44,4 @@ As used in this part and the PHMSA Forms referenced in this part -
 
 *Underground natural gas storage facility* (*UNGSF*) means an underground natural gas storage facility or UNGSF as defined in § 192.3 of this chapter.
 
-[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016; Amdt. 191-25, 82 FR 7997, Jan. 23, 2017; Amdt. 191-27, 85 FR 8125, Feb. 12, 2020]
+[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016; Amdt. 191-25, 82 FR 7997, Jan. 23, 2017; Amdt. 191-27, 85 FR 8125, Feb. 12, 2020; 86 FR 2237, Jan. 11, 2021]

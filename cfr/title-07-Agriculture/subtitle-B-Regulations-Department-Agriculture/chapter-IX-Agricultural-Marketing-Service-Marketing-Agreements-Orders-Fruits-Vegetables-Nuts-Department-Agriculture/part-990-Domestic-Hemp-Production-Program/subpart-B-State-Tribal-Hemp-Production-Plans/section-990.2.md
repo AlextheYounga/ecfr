@@ -1,3 +1,3 @@
 ##### § 990.2 State and Tribal plans; General authority. #####
 
-States or Indian Tribes desiring to have primary regulatory authority over the production of hemp in the State or territory of the Indian Tribe for which it has jurisdiction shall submit to the Secretary for approval, through the State department of agriculture (in consultation with the Governor and chief law enforcement officer of the State) or the Tribal government, as applicable, a plan under which the State or Indian Tribe monitors and regulates that production.
+States or Indian Tribes desiring to have primary regulatory authority over the production of hemp in the State or territory of the Indian Tribe shall submit to the Secretary for approval, through the State department of agriculture (in consultation with the Governor and chief law enforcement officer of the State) or the Tribal government, as applicable, a plan under which the State or Indian Tribe monitors and regulates that production.

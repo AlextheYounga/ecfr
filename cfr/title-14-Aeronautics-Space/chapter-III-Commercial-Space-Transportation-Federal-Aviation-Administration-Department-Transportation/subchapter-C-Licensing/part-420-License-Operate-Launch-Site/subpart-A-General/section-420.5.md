@@ -1,7 +1,5 @@
 ##### § 420.5 Definitions. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 For the purpose of this part.
 
 *Ballistic coefficient* means the weight of an object divided by the quantity product of the coefficient of drag of the object and the area of the object.
@@ -46,17 +44,13 @@ For the purpose of this part.
 
 *Impact range factor* means a constant used to estimate, when multiplied by a stage apogee, the nominal impact point of an intermediate or final stage of a suborbital launch vehicle.
 
-*Instantaneous impact point (IIP)* means an impact point, following thrust termination of a launch vehicle. IIP may be calculated with or without atmospheric drag effects.
-
-*Instantaneous impact point (IIP) range rate* means a launch vehicle's estimated IIP velocity along the Earth's surface.
+*Instantaneous impact point (IIP)* means an impact point, following thrust termination of a launch vehicle. IIP may be calculated with or without atmospheric drag effects
 
 *Intraline distance* means the minimum distance permitted between any two explosive hazard facilities in the ownership, possession or control of one launch site customer.
 
 *Launch area* means, for a flight corridor defined in accordance with appendix A of this part, the portion of a flight corridor from the launch point to a point 100 nautical miles in the direction of the flight azimuth. For a flight corridor defined in accordance with appendix B of this part, a launch area is the portion of a flight corridor from the launch point to the enveloping line enclosing the outer boundary of the last debris dispersion circle.
 
 *Launch point* means a point on the Earth from which the flight of a launch vehicle begins, and is defined by its geodetic latitude, longitude and height on an ellipsoidal Earth model.
-
-*Launch site accident* means an unplanned event occurring during a ground activity at a launch site resulting in a fatality or serious injury (as defined in 49 CFR 830.2) to any person who is not associated with the activity, or any damage estimated to exceed $25,000 to property not associated with the activity.
 
 *Liquid propellant* means:
 
@@ -80,8 +74,6 @@ For the purpose of this part.
 
 *Position data* means data referring to the current position of a launch vehicle with respect to flight time expressed through the X, Y, Z coordinate system.
 
-*Public* means people and property that are not involved in supporting a licensed or permitted launch, and includes those people and property that may be located within the boundary of a launch site, such as visitors, any individual providing goods or services not related to launch processing or flight, and any other launch operator and its personnel.
-
 *Public area* means any area outside a hazard area and is an area that is not in the possession, ownership or other control of a launch site operator or of a launch site customer who possesses, owns or otherwise controls that hazard area.
 
 *Public area distance* means the minimum distance permitted between a public area and an explosive hazard facility.
@@ -98,4 +90,4 @@ For the purpose of this part.
 
 *φ*0, *λ*0, *h*0 means a latitude, longitude, height system where φ0 is the geodetic latitude of a launch point, λ0 is the east longitude of the launch point, and h0 is the height of the launch point above the reference ellipsoid. φ0 and λ0 are expressed in degrees-decimal-degrees.
 
-[Doc. No. FAA-1999-5833, 65 FR 62861, Oct. 19, 2000, as amended by Amdt. 420-3, 72 FR 17019, Apr. 6, 2007; Amdt. 420-6, 77 FR 55113, Sept. 7, 2012]
+[Doc. No. FAA-1999-5833, 65 FR 62861, Oct. 19, 2000, as amended by Amdt. 420-3, 72 FR 17019, Apr. 6, 2007; Amdt. 420-6, 77 FR 55113, Sept. 7, 2012; Doc. No. FAA-2019-0229, Amdt. 420-9, 85 FR 79716, Dec. 10, 2020]

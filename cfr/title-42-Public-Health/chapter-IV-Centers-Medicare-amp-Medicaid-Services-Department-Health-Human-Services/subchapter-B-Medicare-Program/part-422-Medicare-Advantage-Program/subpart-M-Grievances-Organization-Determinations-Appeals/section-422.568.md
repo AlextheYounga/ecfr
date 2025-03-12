@@ -1,16 +1,14 @@
 ##### § 422.568 Standard timeframes and notice requirements for organization determinations. #####
 
-Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
-
 (a) *Method and place for filing a request.* An enrollee must ask for a standard organization determination by making a request with the MA organization or, if applicable, to the entity responsible for making the determination (as directed by the MA organization), in accordance with the following:
 
 (1) The request may be made orally or in writing, except as provided in paragraph (a)(2) of this section.
 
 (2) Requests for payment must be made in writing (unless the MA organization or entity responsible for making the determination has implemented a voluntary policy of accepting verbal payment requests).
 
-(b) *Timeframes* - (1) *Requests for service or item.* Except as provided in paragraph (b)(1)(i) of this section, when a party has made a request for a service or an item, the MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than 14 calendar days after the date the organization receives the request for a standard organization determination.
+(b) *Timeframes*—(1) *Requests for service or item.* Except as provided in paragraph (b)(1)(i) of this section, when a party has made a request for a service or an item, the MA organization must notify the enrollee of its determination as expeditiously as the enrollee's health condition requires, but no later than 14 calendar days after the date the organization receives the request for a standard organization determination.
 
-(i) *Extensions; requests for service or item.* The MA organization may extend the timeframe by up to 14 calendar days if -
+(i) *Extensions; requests for service or item.* The MA organization may extend the timeframe by up to 14 calendar days if—
 
 (A) The enrollee requests the extension;
 
@@ -24,13 +22,13 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (c) *Timeframe for requests for payment.* The MA organization must process requests for payment according to the “prompt payment” provisions set forth in § 422.520.
 
-(d) *Written notice for MA organization denials.* The MA organization must give the enrollee a written notice if -
+(d) *Written notice for MA organization denials.* The MA organization must give the enrollee a written notice if—
 
 (1) An MA organization decides to deny a service or an item, Part B drug, or payment in whole or in part, or reduce or prematurely discontinue the level of care for a previously authorized ongoing course of treatment.
 
 (2) An enrollee requests an MA organization to provide an explanation of a practitioner's denial of an item, service or Part B drug, in whole or in part.
 
-(e) *Form and content of the MA organization notice.* The notice of any denial under paragraph (d) of this section must -
+(e) *Form and content of the MA organization notice.* The notice of any denial under paragraph (d) of this section must—
 
 (1) Use approved notice language in a readable and understandable form;
 
@@ -46,4 +44,32 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (f) *Effect of failure to provide timely notice.* If the MA organization fails to provide the enrollee with timely notice of an organization determination as specified in this section, this failure itself constitutes an adverse organization determination and may be appealed.
 
-[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 23880, May 23, 2019]
+(g) *Dismissing a request.* The MA organization dismisses an organization determination request, either entirely or as to any stated issue, under any of the following circumstances:
+
+(1) The individual or entity making the request is not permitted to request an organization determination under § 422.566(c).
+
+(2) The MA organization determines the party failed to make out a valid request for an organization determination that substantially complies with paragraph (a) of this section.
+
+(3) An enrollee or the enrollee's representative files a request for an organization determination, but the enrollee dies while the request is pending, and both of the following apply:
+
+(i) The enrollee's surviving spouse or estate has no remaining financial interest in the case.
+
+(ii) No other individual or entity with a financial interest in the case wishes to pursue the organization determination.
+
+(4) A party filing the organization determination request submits a timely request for withdrawal of their request for an organization determination with the MA organization.
+
+(h) *Notice of dismissal.* The MA organization must mail or otherwise transmit a written notice of the dismissal of the organization determination request to the parties. The notice must state all of the following:
+
+(1) The reason for the dismissal.
+
+(2) The right to request that the MA organization vacate the dismissal action.
+
+(3) The right to request reconsideration of the dismissal.
+
+(i) *Vacating a dismissal.* If good cause is established, the MA organization may vacate its dismissal of a request for an organization determination within 6 months from the date of the notice of dismissal.
+
+(j) *Effect of dismissal.* The dismissal of a request for an organization determination is binding unless it is modified or reversed by the MA organization upon reconsideration or vacated under paragraph (i) of this section.
+
+(k) *Withdrawing a request.* A party that requests an organization determination may withdraw its request at any time before the decision is issued by filing a request with the MA organization.
+
+[65 FR 40329, June 29, 2000, as amended at 70 FR 4739, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 75 FR 19812, Apr. 15, 2010; 75 FR 32859, June 10, 2010; 80 FR 7961, Feb. 12, 2015; 84 FR 23880, May 23, 2019; 86 FR 6101, Jan. 19, 2021]

@@ -1,7 +1,5 @@
 ##### § 422.504 Contract provisions. #####
 
-Link to an amendment published at 86 FR 6099, Jan. 19, 2021.
-
 The contract between the MA organization and CMS must contain the following provisions:
 
 (a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -
@@ -40,11 +38,7 @@ The contract between the MA organization and CMS must contain the following prov
 
 (14) Maintain a fiscally sound operation by at least maintaining a positive net worth (total assets exceed total liabilities).
 
-(15) Address complaints received by CMS against the MAO by -
-
-(i) Addressing and resolving complaints in the CMS complaint tracking system.
-
-(ii) Displaying a link to the electronic complaint form on the Medicare.gov Internet Web site on the MA plan's main Web page.
+(15) Through the CMS complaint tracking system, to address and resolve complaints received by CMS against the MA organization.
 
 (16) To maintain administrative and management capabilities sufficient for the organization to organize, implement, and control the financial, marketing, benefit administration, and quality improvement activities related to the delivery of Part C services.
 

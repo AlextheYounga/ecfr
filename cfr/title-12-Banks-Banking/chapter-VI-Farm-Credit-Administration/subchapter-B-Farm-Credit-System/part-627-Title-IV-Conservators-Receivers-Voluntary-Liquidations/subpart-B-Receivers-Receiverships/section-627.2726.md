@@ -1,5 +1,7 @@
 ##### § 627.2726 Treatment by the conservator or receiver of financial assets transferred in connection with a securitization or participation. #####
 
+Link to an amendment published at 86 FR 15083, Mar. 22, 2021.
+
 (a) *Definitions.* For the purposes of this section, the following definitions apply:
 
 *Beneficial interest* means debt or equity (or mixed) interests or obligations of any type issued by a special purpose entity that entitle their holders to receive payments that depend primarily on the cash flow from financial assets owned by the special purpose entity.

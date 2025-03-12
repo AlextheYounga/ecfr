@@ -1,7 +1,5 @@
 ##### § 460.112 Specific rights to which a participant is entitled. #####
 
-Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
-
 (a) *Respect and nondiscrimination.* Each participant has the right to considerate, respectful care from all PACE employees and contractors at all times and under all circumstances. Each participant has the right not to be discriminated against in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex, age, sexual orientation, mental or physical disability, or source of payment. Specifically, each participant has the right to the following:
 
 (1) To receive comprehensive health care in a safe and clean environment and in an accessible manner.
@@ -30,13 +28,23 @@ Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
 
 (3) To examine, or upon reasonable request, to be helped to examine the results of the most recent review of the PACE organization conducted by CMS or the State administering agency and any plan of correction in effect.
 
+(4) To contact 1-800-MEDICARE for information and assistance, including to make a complaint related to the quality of care or the delivery of a service.
+
 (c) *Choice of providers.* Each participant has the right to a choice of health care providers, within the PACE organization's network, that is sufficient to ensure access to appropriate high-quality health care. Specifically, each participant has the right to the following:
 
 (1) To choose his or her primary care physician and specialists from within the PACE network.
 
 (2) To request that a qualified specialist for women's health services furnish routine or preventive women's health services.
 
-(3) To disenroll from the program at any time and have such disenrollment be effective the first day of the month following the date the PACE organization receives the participant's notice of voluntary disenrollment as set forth in § 460.162(a).
+(3) To have reasonable and timely access to specialists as indicated by the participant's health condition and consistent with current clinical practice guidelines.
+
+(4) To receive necessary care in all care settings, up to and including placement in a long-term care facility when the PACE organization can no longer provide the services necessary to maintain the participant safely in the community.
+
+(3) To have reasonable and timely access to specialists as indicated by the participant's health condition and consistent with current clinical practice guidelines.
+
+(4) To receive necessary care in all care settings, up to and including placement in a long-term care facility when the PACE organization can no longer provide the services necessary to maintain the participant safely in the community.
+
+(5) To disenroll from the program at any time and have such disenrollment be effective the first day of the month following the date the PACE organization receives the participant's notice of voluntary disenrollment as set forth in § 460.162(a).
 
 (d) *Access to emergency services.* Each participant has the right to access emergency health care services when and where the need arises without prior authorization by the PACE interdisciplinary team.
 
@@ -68,4 +76,4 @@ Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
 
 (2) To appeal any treatment decision of the PACE organization, its employees, or contractors through the process described in § 460.122.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019; 86 FR 6132, Jan. 19, 2021]

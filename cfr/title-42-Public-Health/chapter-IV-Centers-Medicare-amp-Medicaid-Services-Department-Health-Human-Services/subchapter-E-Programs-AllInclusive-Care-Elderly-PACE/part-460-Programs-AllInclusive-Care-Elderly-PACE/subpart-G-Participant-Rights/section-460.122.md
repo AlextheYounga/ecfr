@@ -1,32 +1,40 @@
 ##### § 460.122 PACE organization's appeals process. #####
 
-Link to an amendment published at 86 FR 6134, Jan. 19, 2021.
-
-For purposes of this section, an appeal is a participant's action taken with respect to the PACE organization's noncoverage of, or nonpayment for, a service including denials, reductions, or termination of services.
+For purposes of this section, an appeal is a participant's action taken with respect to the PACE organization's noncoverage of, or nonpayment for, a service including denials, reductions, or termination of services. A request to initiate, modify or continue a service must first be processed as a service determination request under § 460.121 before the PACE organization can process an appeal under this section.
 
 (a) *PACE organization's written appeals process.* The PACE organization must have a formal written appeals process, with specified timeframes for response, to address noncoverage or nonpayment of a service.
 
-(b) *Notification of participants.* Upon enrollment, at least annually thereafter, and whenever the interdisciplinary team denies a request for services or payment, the PACE organization must give a participant written information on the appeals process.
+(b) *Notification of participants.* Upon enrollment, at least annually thereafter, and whenever the interdisciplinary team denies a service determination request or request for payment, the PACE organization must give a participant written information on the appeals process.
 
 (c) *Minimum requirements.* At a minimum, the PACE organization's appeals process must include written procedures for the following:
 
-(1) Timely preparation and processing of a written denial of coverage or payment as provided in § 460.104(d)(2)(iv).
+(1) Timely preparation and processing of a written denial of coverage or payment as provided in §§ 460.121(i) and (m).
 
-(2) How a participant files an appeal.
+(2) How a participant or their designated representative files an appeal, including procedures for accepting oral and written appeal requests.
 
 (3) Documentation of a participant's appeal.
 
-(4) Appointment of an appropriately credentialed and impartial third party who was not involved in the original action and who does not have a stake in the outcome of the appeal to review the participant's appeal.
+(4) Review of an appeal by an appropriate third party reviewer or committee. An appropriate third party reviewer or member of a review committee must be an individual who meets all of the following:
 
-(5) Responses to, and resolution of, appeals as expeditiously as the participant's health condition requires, but no later than 30 calendar days after the organization receives an appeal.
+(i) Appropriately credentialed in the field(s) or discipline(s) related to the appeal.
+
+(ii) An impartial third party who meets both of the following:
+
+(A) Was not involved in the original action.
+
+(B) Does not have a stake in the outcome of the appeal.
+
+(5) The distribution of written or electronic materials to the third party reviewer or committee that, at a minimum, explain all of the following:
+
+(i) Services must be provided in a manner consistent with the requirements in §§ 460.92 and 460.98.
+
+(ii) The need to make decisions in a manner consistent with how determinations under section 1862(a)(1)(A) of the Act are made.
+
+(iii) The rules in § 460.90(a) that specify that certain limitations and conditions applicable to Medicare or Medicaid or both benefits do not apply.
 
 (6) Maintenance of confidentiality of appeals.
 
-(d) *Notification.* A PACE organization must give all parties involved in the appeal the following:
-
-(1) Appropriate written notification.
-
-(2) A reasonable opportunity to present evidence related to the dispute, in person, as well as in writing.
+(d) *Opportunity to submit evidence.* A PACE organization must give all parties involved in the appeal a reasonable opportunity to present evidence related to the dispute, in person, as well as in writing.
 
 (e) *Services furnished during appeals process.* During the appeals process, the PACE organization must meet the following requirements:
 
@@ -48,16 +56,28 @@ For purposes of this section, an appeal is a participant's action taken with res
 
 (ii) The organization justifies to the State administering agency the need for additional information and how the delay is in the interest of the participant.
 
-(g) Determination in favor of participant. A PACE organization must furnish the disputed service as expeditiously as the participant's health condition requires if a determination is made in favor of the participant on appeal.
+(g) *Notification.* A PACE organization must give all parties involved in the appeal appropriate written notification of the decision to approve or deny the appeal.
 
-(h) Determination adverse to participant. For a determination that is wholly or partially adverse to a participant, at the same time the decision is made, the PACE organization must notify the following:
+(1) *Notice of a favorable decision.* Notice of any favorable decision must explain the conditions of the approval in understandable language.
 
-(1) CMS.
+(2) *Notice of partially or fully adverse decisions.* (i) Notice of any denial must -
 
-(2) The State administering agency.
+(A) State the specific reason(s) for the denial;
 
-(3) The participant.
+(B) Explain the reason(s) why the service would not improve or maintain the participant's overall health status;
+
+(C) Inform the participant of his or her right to appeal the decision; and
+
+(D) Describe the external appeal rights under § 460.124.
+
+(ii) At the same time the decision is made, the PACE organization must also notify the following:
+
+(A) CMS.
+
+(B) The State administering agency.
+
+(h) *Actions following a favorable decision.* A PACE organization must furnish the disputed service as expeditiously as the participant's health condition requires if a determination is made in favor of the participant on appeal.
 
 (i) *Analyzing appeals information.* A PACE organization must maintain, aggregate, and analyze information on appeal proceedings and use this information in the organization's internal quality improvement program.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019; 86 FR 6134, Jan. 19, 2021]

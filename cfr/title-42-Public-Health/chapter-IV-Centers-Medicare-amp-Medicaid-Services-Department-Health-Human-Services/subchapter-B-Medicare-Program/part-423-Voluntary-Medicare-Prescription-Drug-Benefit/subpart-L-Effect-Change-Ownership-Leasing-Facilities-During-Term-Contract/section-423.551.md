@@ -1,7 +1,5 @@
 ##### § 423.551 General provisions. #####
 
-Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
-
 (a) *Change of ownership.* The following constitute a change of ownership:
 
 (1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (2) If the PDP sponsor fails to give CMS the required notice in a timely manner, it continues to be liable for payments that CMS makes to it on behalf of Medicare enrollees after the date of change of ownership.
 
-(d) *Novation agreement defined.* A novation agreement is an agreement among the current owner of the PDP sponsor, the prospective new owner, and CMS that -
+(d) *Novation agreement defined.* A novation agreement is an agreement among the current owner of the PDP sponsor, the prospective new owner, and CMS that—
 
 (1) Is embodied in a document executed and signed by all 3 parties;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (3) Recognizes the new owner as the successor in interest to the current owner's Medicare contract.
 
-(e) *Effect of change of ownership without novation agreement.* Except to the extent provided in paragraph (c)(2) of this section, the effect of a change of ownership without a novation agreement is that -
+(e) *Effect of change of ownership without novation agreement.* Except to the extent provided in paragraph (c)(2) of this section, the effect of a change of ownership without a novation agreement is that—
 
 (1) The existing contract becomes invalid; and
 
@@ -34,6 +32,6 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (g) *Sale of beneficiaries not permitted.* (1) CMS will only recognize the sale or transfer of an organization's entire PDP line of business, consisting of all PDP contracts held by the PDP sponsor with the exception of the sale or transfer of a full contract between wholly owned subsidiaries of the same parent organization which will be recognized and allowed by CMS.
 
-(2) CMS will not recognize or allow a sale or transfer that consists solely of the sale or transfer of individual beneficiaries, groups of beneficiaries enrolled in a pharmacy benefit package, or one contract if the sponsor holds more than one PDP contract.
+(2) CMS does not recognize or allow a sale or transfer that consists solely of the sale or transfer of individual beneficiaries or groups of beneficiaries enrolled in a plan benefit package.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 75 FR 19822, Apr. 15, 2010; 75 FR 32860, June 10, 2010]
+[70 FR 4525, Jan. 28, 2005, as amended at 74 FR 1546, Jan. 12, 2009; 75 FR 19822, Apr. 15, 2010; 75 FR 32860, June 10, 2010; 86 FR 6119, Jan. 19, 2021]

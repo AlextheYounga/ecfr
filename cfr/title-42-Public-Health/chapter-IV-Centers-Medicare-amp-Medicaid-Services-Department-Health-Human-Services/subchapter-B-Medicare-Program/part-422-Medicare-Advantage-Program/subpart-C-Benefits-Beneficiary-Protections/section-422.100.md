@@ -1,7 +1,5 @@
 ##### § 422.100 General requirements. #####
 
-Link to an amendment published at 86 FR 6094, Jan. 19, 2021.
-
 (a) *Basic rule.* Subject to the conditions and limitations set forth in this subpart, an MA organization offering an MA plan must provide enrollees in that plan with coverage of the basic benefits described in paragraph (c)(1) of this section (except that additional telehealth benefits may be, but are not required to be, offered by the MA plan) and, to the extent applicable, supplemental benefits as described in paragraph (c)(2) of this section, by furnishing the benefits directly or through arrangements, or by paying for the benefits. CMS reviews these benefits subject to the requirements of this section and the requirements in subpart G of this part.
 
 (b) *Services of noncontracting providers and suppliers.* (1) An MA organization must make timely and reasonable payment to or on behalf of the plan enrollee for the following services obtained from a provider or supplier that does not contract with the MA organization to provide services covered by the MA plan:
@@ -20,19 +18,31 @@ Link to an amendment published at 86 FR 6094, Jan. 19, 2021.
 
 (c) *Types of benefits.* An MA plan includes at a minimum basic benefits, and also may include mandatory and optional supplemental benefits.
 
-(1) Basic benefits are all items and services (other than hospice care or coverage for organ acquisitions for kidney transplants) for which benefits are available under parts A and B of Medicare, including additional telehealth benefits offered consistent with the requirements at § 422.135.
+(1) Basic benefits are all items and services (other than hospice care or, beginning in 2021, coverage for organ acquisitions for kidney transplants) for which benefits are available under Parts A and B of Medicare, including additional telehealth benefits offered consistent with the requirements at § 422.135.
 
-(2) Supplemental benefits, which consist of -
+(2) Supplemental benefits are benefits offered under § 422.102.
 
-(i) Mandatory supplemental benefits are services not covered by Medicare that an MA enrollee must purchase as part of an MA plan that are paid for in full, directly by (or on behalf of) Medicare enrollees, in the form of premiums or cost-sharing.
+(i) Supplemental benefits consist of -
 
-(ii) Optional supplemental benefits are health services not covered by Medicare that are purchased at the option of the MA enrollee and paid for in full, directly by (or on behalf of) the Medicare enrollee, in the form of premiums or cost-sharing. These services may be grouped or offered individually.
+(A) Mandatory supplemental benefits are services not covered by Medicare that an MA enrollee must purchase as part of an MA plan that are paid for in full, directly by (or on behalf of) Medicare enrollees, in the form of premiums or cost sharing.
+
+(B) Optional supplemental benefits are health services not covered by Medicare that are purchased at the option of the MA enrollee and paid for in full, directly by (or on behalf of) the Medicare enrollee, in the form of premiums or cost sharing. These services may be grouped or offered individually.
+
+(ii) Supplemental benefits must meet the following requirements:
+
+(A) Except in the case of special supplemental benefit for the chronically ill (SSBCI) offered in accordance with § 422.102(f) that are not primarily health related, the benefits diagnose, prevent, or treat an illness or injury; compensate for physical impairments; act to ameliorate the functional/psychological impact of injuries or health conditions; or reduce avoidable emergency and health care utilization;
+
+(B) The MA organization incurs a non-zero direct medical cost, except that in the case of a SSBCI that is not primarily health related that is offered in accordance with § 422.102, the MA organization may instead incur a non-zero direct non-administrative cost; and
+
+(C) The benefits are not covered by Medicare (This specifically includes Medicare Parts A, B, and D).
 
 (d) *Availability and structure of plans.* An MA organization offering an MA plan must offer it -
 
 (1) To all Medicare beneficiaries residing in the service area of the MA plan;
 
-(2) At a uniform premium, with uniform benefits and level of cost-sharing throughout the plan's service area, or segment of service area as provided in § 422.262(c)(2).
+(2)(i) At a uniform premium, with uniform benefits and level of cost-sharing throughout the plan's service area, or segment of service area as provided in § 422.262(c)(2).
+
+(ii) MA plans may provide supplemental benefits (such as specific reductions in cost sharing or additional services or items) that are tied to disease state or health status in a manner that ensures that similarly situated individuals are treated uniformly; there must be some nexus between the health status or disease state and the specific benefit package designed for enrollees meeting that health status or disease state.
 
 (e) *Multiple plans in one service area.* An MA organization may offer more than one MA plan in the same service area subject to the conditions and limitations set forth in this subpart for each MA plan.
 
@@ -136,6 +146,6 @@ Link to an amendment published at 86 FR 6094, Jan. 19, 2021.
 
 (ii) Annually notify enrollees of the information listed in paragraphs (m)(1) through (3) and (m)(5) of this section.
 
-(iii) Provide the information described in paragraphs (m)(1), (2), (3), and (4)(i) of this section on its Web site.
+(iii) Provide the information described in paragraphs (m)(1), (2), and (3) and (m)(5)(i) of this section on its website.
 
-[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]
+[65 FR 40319, June 29, 2000, as amended at 67 FR 13288, Mar. 22, 2002; 70 FR 4719, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 75 FR 19804, Apr. 15, 2010; 76 FR 21562, Apr. 15, 2011; 77 FR 22166, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6094, Jan. 19, 2021]

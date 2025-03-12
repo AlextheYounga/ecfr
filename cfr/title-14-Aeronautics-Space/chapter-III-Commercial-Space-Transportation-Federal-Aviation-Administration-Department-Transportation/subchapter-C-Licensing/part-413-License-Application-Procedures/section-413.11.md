@@ -1,11 +1,9 @@
 ##### § 413.11 Acceptance of an application. #####
 
-Link to an amendment published at 85 FR 79711, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 The FAA will initially screen an application to determine whether it is complete enough for the FAA to start its review. After completing the initial screening, the FAA will notify the applicant in writing of one of the following:
 
-(a) The FAA accepts the application and will initiate the reviews required to make a decision about the license or permit; or
+(a) The FAA accepts the application and will initiate review; or
 
 (b) The application is so incomplete or indefinite that the FAA cannot start to evaluate it. The FAA will reject it and notify the applicant, stating each reason for rejecting it and what action the applicant must take for the FAA to accept the application. The FAA may return a rejected application to the applicant or may hold it until the applicant takes the required actions.
 
-[Doc. No. FAA-2006-24197, 72 FR 17018, Apr. 6, 2007]
+[Doc. No. FAA-2006-24197, 72 FR 17018, Apr. 6, 2007; Doc. No. FAA-2019-0229, Amdt. 413-12, 85 FR 79711, Dec. 10, 2020]

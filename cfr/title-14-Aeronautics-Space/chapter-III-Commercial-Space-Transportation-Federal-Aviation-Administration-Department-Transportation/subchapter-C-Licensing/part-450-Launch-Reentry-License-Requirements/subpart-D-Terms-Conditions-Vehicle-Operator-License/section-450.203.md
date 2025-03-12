@@ -1,0 +1,3 @@
+##### § 450.203 Compliance. #####
+
+A licensee must conduct a licensed launch or reentry in accordance with representations made in its license application, the requirements of subparts C and D of this part, and the terms and conditions contained in the license. A licensee's failure to act in accordance with the representations made in the license application, the requirements of subparts C and D of this part, and the terms and conditions contained in the license, is sufficient basis for the revocation of a license or other appropriate enforcement action.

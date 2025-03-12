@@ -84,7 +84,7 @@
 
 (e) *Additional requirements to qualify as tier 2 capital.* In order to qualify as tier 2 capital, a national bank's subordinated debt must meet the requirements in 12 CFR 3.20(d).
 
-(f) *Process and procedures* - (1) *Issuance of subordinated debt* - (i) *Approval* - (A) *Eligible bank.* An eligible bank is required to receive prior approval from the OCC to issue any subordinated debt, in accordance with paragraph (g)(1)(i) of this section, if:
+(f) *Process and procedures*—(1) *Issuance of subordinated debt*—(i) *Approval*—(A) *Eligible bank.* An eligible bank is required to receive prior approval from the OCC to issue any subordinated debt, in accordance with paragraph (g)(1)(i) of this section, if:
 
 (*1*) The national bank will not continue to be an eligible bank after the transaction;
 
@@ -96,7 +96,7 @@
 
 (ii) *Application to include subordinated debt in tier 2 capital.* A national bank that intends to include subordinated debt in tier 2 capital must submit an application to the OCC for approval, in accordance with paragraph (h) of this section, before or within ten days after issuing the subordinated debt. Where a national bank's application to issue subordinated debt has been deemed to be approved, in accordance with paragraph (g)(2)(i) of this section, and the national bank does not contemporaneously receive approval from the OCC to include the subordinated debt as tier 2 capital, the national bank must submit an application for approval to include subordinated debt in tier 2 capital, pursuant to paragraph (h) of this section, after issuance of the subordinated debt. A national bank may not include subordinated debt in tier 2 capital unless the national bank has filed the application with the OCC and received approval from the OCC that the subordinated debt issued by the national bank qualifies as tier 2 capital.
 
-(2) *Prepayment of subordinated debt* - (i) *Subordinated debt not included in tier 2 capital* - (A) *Eligible bank.* An eligible bank is required to receive prior approval from the OCC to prepay any subordinated debt that is not included in tier 2 capital (including acceleration, repurchase, redemption prior to maturity, and exercising a call option), in accordance with paragraph (g)(1)(ii) of this section, only if:
+(2) *Prepayment of subordinated debt*—(i) *Subordinated debt not included in tier 2 capital*—(A) *Eligible bank.* An eligible bank is required to receive prior approval from the OCC to prepay any subordinated debt that is not included in tier 2 capital (including acceleration, repurchase, redemption prior to maturity, and exercising a call option), in accordance with paragraph (g)(1)(ii) of this section, only if:
 
 (*1*) The national bank will not be an eligible bank after the transaction;
 
@@ -112,7 +112,7 @@
 
 (3) *Material changes to existing subordinated debt documents.* A national bank must receive prior approval from the OCC in accordance with paragraph (g)(1)(iii) of this section prior to making a material change to an existing subordinated debt document if the bank would have been required to receive OCC approval to issue the security under paragraph (f)(1)(i) of this section or to include it in tier 2 capital under paragraph (h) of this section.
 
-(g) *Prior approval procedure* - (1) *Application* - (i) *Issuance of subordinated debt.* A national bank required to obtain OCC approval before issuing subordinated debt must submit an application to the appropriate OCC licensing office. The application must include:
+(g) *Prior approval procedure*—(1) *Application*—(i) *Issuance of subordinated debt.* A national bank required to obtain OCC approval before issuing subordinated debt must submit an application to the appropriate OCC licensing office. The application must include:
 
 (A) A description of the terms and amount of the proposed issuance;
 
@@ -148,7 +148,7 @@
 
 (iv) *Additional information.* The OCC reserves the right to request additional relevant information, as appropriate.
 
-(2) *Approval* - (i) *General.* The application is deemed approved by the OCC as of the 30th day after the filing is received by the OCC, unless the OCC notifies the national bank prior to that date that the filing presents a significant supervisory or compliance concern or raises a significant legal or policy issue.
+(2) *Approval*—(i) *General.* The application is deemed approved by the OCC as of the 30th day after the filing is received by the OCC, unless the OCC notifies the national bank prior to that date that the filing presents a significant supervisory or compliance concern or raises a significant legal or policy issue.
 
 (ii) *Prepayment.* Notwithstanding this paragraph (g)(2)(i) of this section, if the application for prior approval is for prepayment, the national bank must receive affirmative approval from the OCC. If the OCC requires the national bank to replace the subordinated debt, the national bank must receive affirmative approval that the replacement capital instrument meets the criteria for tier 1 or tier 2 capital under 12 CFR 3.20 and must issue the replacement instrument prior to prepaying the subordinated debt, or immediately thereafter.4
 
@@ -174,4 +174,6 @@
 
 (i) *Exceptions to rules of general applicability.* Sections 5.8, 5.10, and 5.11 do not apply to transactions governed by this section.
 
-[79 FR 75421, Dec. 18, 2014, as amended at 80 FR 28455, May 18, 2015; 85 FR 80464, Dec. 11, 2020]
+(j) *Subordinated debt issued under the Emergency Capital Investment Program.* A provision or covenant included in a subordinated debt document does not unduly restrict or otherwise act to unduly limit the authority of a national bank or interfere with the OCC's supervision of the national bank, for purposes of paragraph (d)(2) of this section, if the provision or covenant is included pursuant to requirements imposed by the U.S. Department of the Treasury and the subordinated debt is issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.
+
+[79 FR 75421, Dec. 18, 2014, as amended at 80 FR 28455, May 18, 2015; 85 FR 80464, Dec. 11, 2020; 86 FR 15080, Mar. 22, 2021]

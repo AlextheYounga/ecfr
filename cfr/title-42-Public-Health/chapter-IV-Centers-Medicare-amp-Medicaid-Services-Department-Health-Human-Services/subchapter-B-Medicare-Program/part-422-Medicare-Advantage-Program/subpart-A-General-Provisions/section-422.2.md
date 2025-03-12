@@ -1,7 +1,5 @@
 ##### § 422.2 Definitions. #####
 
-Link to an amendment published at 86 FR 6094, Jan. 19, 2021.
-
 As used in this part -
 
 *Aligned enrollment* refers to the enrollment in a dual eligible special needs plan of full-benefit dual eligible individuals whose Medicaid benefits are covered under a Medicaid managed care organization contract under section 1903(m) of the Act between the applicable State and: the dual eligible special needs plan's (D-SNP's) MA organization, the D-SNP's parent organization, or another entity that is owned and controlled by the D-SNP's parent organization. When State policy limits a D-SNP's membership to individuals with aligned enrollment, this condition is referred to as exclusively aligned enrollment.
@@ -68,7 +66,27 @@ As used in this part -
 
 (2) The capitated contract is between the MA organization's parent organization (or another entity that is owned and controlled by its parent organization) and the Medicaid agency.
 
-*Institutionalized* means for the purpose of defining a special needs individual, an MA eligible individual who continuously resides or is expected to continuously reside for 90 days or longer in a long-term care facility which is a skilled nursing facility (SNF) nursing facility (NF); SNF/NF; an intermediate care facility for individuals with intellectual disabilities (ICF/IID); or an inpatient psychiatric facility.
+*Institutionalized* means, for the purposes of defining a special needs individual and for the open enrollment period for institutionalized individuals at § 422.62(a)(4), an MA eligible individual who continuously resides or is expected to continuously reside for 90 days or longer in one of the following long-term care facility settings:
+
+(1) Skilled nursing facility (SNF) as defined in section 1819 of the Act (Medicare).
+
+(2) Nursing facility (NF) as defined in section 1919 of the Act (Medicaid).
+
+(3) Intermediate care facility for individuals with intellectual and developmental disabilities as defined in section 1905(d) of the Act.
+
+(4) Psychiatric hospital or unit as defined in section 1861(f) of the Act.
+
+(5) Rehabilitation hospital or unit as defined in section 1886(d)(1)(B) of the Act.
+
+(6) Long-term care hospital as defined in section 1886(d)(1)(B) of the Act.
+
+(7) Hospital which has an agreement under section 1883 of the Act (a swing-bed hospital).
+
+(8) Subject to CMS approval, a facility that is not listed in paragraphs (1) through (7) of this definition but meets both of the following:
+
+(i) Furnishes similar long-term, healthcare services that are covered under Medicare Part A, Medicare Part B, or Medicaid; and
+
+(ii) Whose residents have similar needs and healthcare status as residents of one or more facilities listed in paragraphs (1) through (7) of this definition.
 
 *Institutionalized-equivalent* means for the purpose of defining a special needs individual, an MA eligible individual who is living in the community but requires an institutional level of care. The determination that the individual requires an institutional level of care (LOC) must be made by -
 
@@ -111,6 +129,8 @@ As used in this part -
 *Optional supplemental benefits* are health services not covered by Medicare that are purchased at the option of the MA enrollee and paid for in full, directly by (or on behalf of) the Medicare enrollee, in the form of premiums or cost-sharing. These services may be grouped or offered individually.
 
 *Original Medicare* means health insurance available under Medicare Part A and Part B through the traditional fee-for service payment system.
+
+*Parent organization* means the legal entity that exercises a controlling interest, through the ownership of shares, the power to appoint voting board members, or other means, in a Part D sponsor or MA organization, directly or through a subsidiary or subsidiaries, and which is not itself a subsidiary of any other legal entity.
 
 *Point of service (POS)* means a benefit option that an MA HMO plan can offer to its Medicare enrollees as a mandatory supplemental, or optional supplemental benefit. Under the POS benefit option, the HMO plan allows members the option of receiving specified services outside of the HMO plan's provider network. In return for this flexibility, members typically have higher cost-sharing requirements for services received and, when offered as a mandatory or optional supplemental benefit, may also be charged a premium for the POS benefit option.
 
@@ -206,10 +226,10 @@ As used in this part -
 
 *Severe or disabling chronic condition* means for the purpose of defining a special needs individual, an MA eligible individual who has one or more co-morbid and medically complex chronic conditions that are substantially disabling or life-threatening, has a high risk of hospitalization or other significant adverse health outcomes, and requires specialized delivery systems across domains of care.
 
-*Special needs individual* means an MA eligible individual who is institutionalized, as defined above, is entitled to medical assistance under a State plan under title XIX, or has a severe or disabling chronic condition(s) and would benefit from enrollment in a specialized MA plan.
+*Special needs individual* means an MA eligible individual who is institutionalized or institutionalized-equivalent, as those terms are defined in this section, is entitled to medical assistance under a State plan under title XIX, or has a severe or disabling chronic condition(s) and would benefit from enrollment in a specialized MA plan.
 
 *Specialized MA Plans for Special Needs Individuals* means an MA coordinated care plan that exclusively enrolls special needs individuals as set forth in § 422.4(a)(1)(iv) and that provides Part D benefits under part 423 of this chapter to all enrollees; and which has been designated by CMS as meeting the requirements of an MA SNP as determined on a case-by-case basis using criteria that include the appropriateness of the target population, the existence of clinical programs or special expertise to serve the target population, and whether the proposal discriminates against sicker members of the target population.
 
 *Step therapy* means a utilization management policy for coverage of drugs that begins medication for a medical condition with the most preferred or cost effective drug therapy and progresses to other drug therapies if medically necessary.
 
-[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019]
+[63 FR 35068, June 26, 1998, as amended at 65 FR 40314, June 29, 2000; 68 FR 50855, Aug. 22, 2003; 70 FR 4714, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 74 FR 1540, Jan. 12, 2009; 75 FR 19803, Apr. 15, 2010; 76 FR 21561, Apr. 15, 2011; 79 FR 29955, May 23, 2014; 83 FR 16722, Apr. 16, 2018; 84 FR 15827, Apr. 16, 2019; 84 FR 23879, May 23, 2019; 86 FR 6094, Jan. 19, 2021]

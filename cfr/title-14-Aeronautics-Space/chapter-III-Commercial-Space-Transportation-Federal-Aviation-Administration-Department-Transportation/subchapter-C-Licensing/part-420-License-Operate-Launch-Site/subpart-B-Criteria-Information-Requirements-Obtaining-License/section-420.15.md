@@ -1,8 +1,6 @@
 ##### § 420.15 Information requirements. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
-(a) *General* - (1) *Launch site operator.* An applicant shall identify the name and address of the applicant, and the name, address, and telephone number of any person to whom inquiries and correspondence should be directed.
+(a) *General*—(1) *Launch site operator.* An applicant shall identify the name and address of the applicant, and the name, address, and telephone number of any person to whom inquiries and correspondence should be directed.
 
 (2) *Launch site.* An applicant shall provide the name and location of the proposed launch site and include the following information:
 
@@ -24,7 +22,19 @@ Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extensio
 
 (iii) For a joint venture, association, or other entity, any foreign entities participating in the entity.
 
-(b) *Environmental.* An applicant shall provide the FAA with information for the FAA to analyze the environmental impacts associated with the operation of the proposed launch site. The information provided by an applicant must be sufficient to enable the FAA to comply with the requirements of the National Environment Policy Act, 42 U.S.C. 4321 *et seq.* (NEPA), the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA, 40 CFR parts 1500-1508, and the FAA's Procedures for Considering Environmental Impacts, FAA Order 1050.1D. An applicant shall submit environmental information concerning a proposed launch site not covered by existing environmental documentation, and other factors as determined by the FAA.
+(b) *Environmental.* The FAA is responsible for complying with the procedures and policies of the National Environmental Policy Act (NEPA) and other applicable environmental laws, regulations, and Executive Orders prior to issuing a launch site license. An applicant must provide the FAA with information needed to comply with such requirements. The FAA will consider and document the potential environmental effects associated with issuing a launch site license.
+
+(1) *Environmental impact statement or environmental assessment.* When directed by the FAA, an applicant must—
+
+(i) Prepare an Environmental Assessment with FAA oversight;
+
+(ii) Assume financial responsibility for preparation of an Environmental Impact Statement by an FAA-selected and -managed consultant contractor; or
+
+(iii) Submit information to support a written re-evaluation of a previously submitted Environmental Assessment or Environmental Impact Statement when requested by the FAA.
+
+(2) *Categorical exclusion.* The FAA may determine that a categorical exclusion is appropriate upon receipt of supporting information from an applicant.
+
+(3) *Environmental information.* An application must include an approved FAA Environmental Assessment, Environmental Impact Statement, categorical exclusion determination, or written re-evaluation covering all planned licensed activities in compliance with NEPA and the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA.
 
 (c) *Launch site location.* (1) Except as provided by paragraph (c)(2) of this section, an applicant shall provide the information necessary to demonstrate compliance with §§ 420.19-420.29.
 
@@ -35,3 +45,5 @@ Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extensio
 (2) If an applicant plans to operate a launch site located on a federal launch range, and if the applicant is required by the federal launch range to comply with the federal launch range's explosive safety requirements, the applicant shall submit the explosive site plan submitted to the federal launch range.
 
 (e) *Launch site operations.* An applicant shall provide the information necessary to demonstrate compliance with the requirements of §§ 420.53, 420.55, 420.57, 420.59, 420.61, and 420.71.
+
+[Docket No. FAA-1999-5833, 65 FR 62861, Oct. 19, 2000, as amended by Doc. No. FAA-2019-0229, Amdt. 420-9, 85 FR 79716, Dec. 10, 2020]

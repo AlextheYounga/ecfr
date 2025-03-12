@@ -1,9 +1,5 @@
-##### § 420.51 Responsibilities - general. #####
+##### § 420.51 Responsibilities—general. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
+A licensee must operate its launch site in accordance with the representations in its application.
 
-(a) A licensee shall operate its launch site in accordance with the representations in the application upon which the licensing determination is based.
-
-(b) A licensee is responsible for compliance with 51 U.S.C. Subtitle V, chapter 509 and for meeting the requirements of this chapter.
-
-[Doc. No. FAA-1999-5833, 65 FR 62861, Oct. 19, 2000, as amended by Amdt. 420-5, 77 FR 20533, Apr. 5, 2012]
+[Docket No. FAA-2019-0229, Amdt. 420-9, 85 FR 79716, Dec. 10, 2020]

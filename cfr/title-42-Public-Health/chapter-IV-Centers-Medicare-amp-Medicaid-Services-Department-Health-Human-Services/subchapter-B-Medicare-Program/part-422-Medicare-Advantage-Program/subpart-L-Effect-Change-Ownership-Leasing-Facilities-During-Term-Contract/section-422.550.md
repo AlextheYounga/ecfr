@@ -1,8 +1,6 @@
 ##### § 422.550 General provisions. #####
 
-Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
-
-(a) *What constitutes change of ownership* - (1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.
+(a) *What constitutes change of ownership*—(1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.
 
 (2) *Asset transfer.* Transfer of title and property to another party constitutes change of ownership.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (2) If the MA organization fails to give CMS the required notice timely, it continues to be liable for capitation payments that CMS makes to it on behalf of Medicare enrollees after the date of change of ownership.
 
-(c) *Novation agreement defined.* A novation agreement is an agreement among the current owner of the MA organization, the prospective new owner, and CMS -
+(c) *Novation agreement defined.* A novation agreement is an agreement among the current owner of the MA organization, the prospective new owner, and CMS—
 
 (1) That is embodied in a document executed and signed by all three parties;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (3) Under which CMS recognizes the new owner as the successor in interest to the current owner's Medicare contract.
 
-(d) *Effect of change of ownership without novation agreement.* Except to the extent provided in paragraph (b)(2) of this section, the effect of a change of ownership without a novation agreement is that -
+(d) *Effect of change of ownership without novation agreement.* Except to the extent provided in paragraph (b)(2) of this section, the effect of a change of ownership without a novation agreement is that—
 
 (1) The existing contract becomes invalid; and
 
@@ -30,4 +28,8 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (e) *Effect of change of ownership with novation agreement.* If the MA organization submits a novation agreement that meets the requirements of § 422.552, and CMS signs it, the new owner becomes the successor in interest to the current owner's Medicare contract.
 
-[60 FR 45681, Sept. 1, 1995. Redesignated and amended at 63 FR 35067, 35106, June 26, 1998; 63 FR 52614, Oct. 1, 1998; 65 FR 40328, June 29, 2000; 70 FR 4738, Jan. 28, 2005]
+(f) *Sale of beneficiaries not permitted.* (1) CMS only recognizes the sale or transfer of an organization's entire MA line of business, consisting of all MA contracts held by the MA organization with the exception of the sale or transfer of a full contract between wholly owned subsidiaries of the same parent organization, which is permitted.
+
+(2) CMS does not recognize or allow a sale or transfer that consists solely of the sale or transfer of individual beneficiaries or groups of beneficiaries enrolled in a plan benefit package.
+
+[60 FR 45681, Sept. 1, 1995. Redesignated and amended at 63 FR 35067, 35106, June 26, 1998; 63 FR 52614, Oct. 1, 1998; 65 FR 40328, June 29, 2000; 70 FR 4738, Jan. 28, 2005; 86 FR 6101, Jan. 19, 2021]

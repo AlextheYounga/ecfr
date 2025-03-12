@@ -1,8 +1,8 @@
 ##### § 440.3 Definitions. #####
 
-Link to an amendment published at 85 FR 79718, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
+Link to an amendment published at 85 FR 79719, Dec. 10, 2020.
 
-Except as otherwise provided in this section, any term used in this part and defined in 51 U.S.C. 50901-50923, or in § 401.5 of this chapter shall have the meaning contained therein. For purposes of this part -
+Except as otherwise provided in this section, any term used in this part and defined in 51 U.S.C. 50901-50923, or in § 401.5 or § 401.7 of this chapter shall have the meaning contained therein.
 
 *Bodily injury* means physical injury, sickness, disease, disability, shock, mental anguish, or mental injury sustained by any person, including death.
 
@@ -40,9 +40,9 @@ Except as otherwise provided in this section, any term used in this part and def
 
 *Maximum probable loss (MPL)* means the greatest dollar amount of loss for bodily injury or property damage that is reasonably expected to result from a licensed or permitted activity;
 
-(1) Losses to third parties, excluding Government personnel and other launch or reentry participants' employees involved in licensed or permitted activities, that are reasonably expected to result from a licensed or permitted activity are those that have a probability of occurrence of no less than one in ten million.
+(1) Losses to third parties, excluding Government personnel and other launch or reentry participants' employees involved in licensed or permitted activities and neighboring operations personnel, that are reasonably expected to result from a licensed or permitted activity are those that have a probability of occurrence of no less than one in ten million.
 
-(2) Losses to Government property and Government personnel involved in licensed or permitted activities that are reasonably expected to result from licensed or permitted activities are those that have a probability of occurrence of no less than one in one hundred thousand.
+(2) Losses to Government property and Government personnel involved in licensed or permitted activities and neighboring operations personnel that are reasonably expected to result from licensed or permitted activities are those that have a probability of occurrence of no less than one in one hundred thousand.
 
 *Part 440 customer* means a customer as defined in this section, other than a first-tier customer.
 
@@ -72,4 +72,4 @@ Except as otherwise provided in this section, any term used in this part and def
 
 *United States* means the United States Government, including each of its agencies.
 
-[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20533, Apr. 5, 2012; Doc. No. FAA-2014-1012, Amdt. 440-4, 81 FR 55122, Aug. 18, 2016]
+[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20533, Apr. 5, 2012; Doc. No. FAA-2014-1012, Amdt. 440-4, 81 FR 55122, Aug. 18, 2016; Docket No. FAA-2019-0229, Amdt. 437-3, 85 FR 79718, Dec. 10, 2020]

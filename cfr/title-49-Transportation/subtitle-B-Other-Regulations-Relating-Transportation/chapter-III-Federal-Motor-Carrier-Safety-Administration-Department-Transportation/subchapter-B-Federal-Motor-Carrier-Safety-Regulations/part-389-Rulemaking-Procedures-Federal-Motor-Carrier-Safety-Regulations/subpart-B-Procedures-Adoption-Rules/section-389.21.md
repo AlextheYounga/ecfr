@@ -1,7 +1,15 @@
-##### § 389.21 Contents of written comments. #####
+##### § 389.21 Submission of written comments. #####
 
-Link to an amendment published at 85 FR 86849, Dec. 31, 2020.Link to an extension of the above amendment published at 86 FR 11891, Mar. 1, 2021.
+(a) You may submit comments identified by the docket number provided in the rulemaking document using any of the following methods. To avoid duplication, please use only one of these four methods.
 
-All written comments must be in English. Any interested person must submit as part of his/her written comments all material that he/she considers relevant to any statement of fact made by him/her. Incorporation of material by reference is to be avoided. However, if such incorporation is necessary, the incorporated material shall be identified with respect to document and page.
+(1) *Federal eRulemaking Portal: http://www.regulations.gov.* Follow the online instructions for submitting comments.
 
-[80 FR 59073, Oct. 1, 2015]
+(2) *Mail:* Dockets Operations, U.S. Department of Transportation, 1200 New Jersey Avenue SE, West Building, Ground Floor, Room W12-140, Washington, DC 20590-0001.
+
+(3) *Hand Delivery or Courier:* West Building, Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays.
+
+(4) *Fax:* (202) 493-2251.
+
+(b) All written comments must be submitted in English and include copies of any material that the commenter refers to within the comment.
+
+[85 FR 86849, Dec. 31, 2020]

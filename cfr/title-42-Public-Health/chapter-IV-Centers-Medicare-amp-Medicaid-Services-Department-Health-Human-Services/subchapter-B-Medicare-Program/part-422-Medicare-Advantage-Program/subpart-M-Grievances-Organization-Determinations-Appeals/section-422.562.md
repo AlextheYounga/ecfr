@@ -1,8 +1,6 @@
 ##### § 422.562 General provisions. #####
 
-Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
-
-(a) *Responsibilities of the MA organization.* (1) An MA organization, with respect to each MA plan that it offers, must establish and maintain -
+(a) *Responsibilities of the MA organization.* (1) An MA organization, with respect to each MA plan that it offers, must establish and maintain—
 
 (i) A grievance procedure as described in § 422.564 or, beginning January 1, 2021, § 422.630 as applicable, for addressing issues that do not involve organization determinations;
 
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (iii) Appeal procedures that meet the requirements of this subpart for issues that involve organization determinations; and
 
-(2) An MA organization must ensure that all enrollees receive written information about the -
+(2) An MA organization must ensure that all enrollees receive written information about the—
 
 (i) Grievance and appeal procedures that are available to them through the MA organization; and
 
@@ -24,7 +22,7 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (i) The dual eligible special needs plan must offer to assist an enrollee in that dual eligible special needs plan with obtaining Medicaid covered services and resolving grievances, including requesting authorization of Medicaid services, as applicable, and navigating Medicaid appeals and grievances in connection with the enrollee's own Medicaid coverage, regardless of whether such coverage is in Medicaid fee-for-service or a Medicaid managed care plan, such as a Medicaid MCO, PIHP, or PAHP as defined in § 438.2 of this chapter. If the enrollee accepts the offer of assistance, the plan must provide the assistance. Examples of such assistance include the following:
 
-(A) Explaining to an enrollee how to make a request for Medicaid authorization of a service and how to file appeal following an adverse benefit determination, such as -
+(A) Explaining to an enrollee how to make a request for Medicaid authorization of a service and how to file appeal following an adverse benefit determination, such as—
 
 (*1*) Assisting the enrollee in identifying the enrollee's specific Medicaid managed care plan or fee-for-service point of contact;
 
@@ -90,4 +88,6 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (vi) Sections 405.956(b)(8), 405.966(a)(2), 405.976(b)(5)(ii), 405.1018(c), 405.1028(a), and 405.1122(c), and any other reference to requiring a determination of good cause for the introduction of new evidence by a provider, supplier, or a beneficiary represented by a provider or supplier.
 
-[63 FR 35067, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4738, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 76 FR 21569, Apr. 15, 2011; 82 FR 5110, Jan. 17, 2017; 84 FR 15834, Apr. 16, 2019; 84 FR 26579, June 7, 2019]
+(3) For the sole purpose of applying the regulations at § 405.1038(c) of this chapter, an MA organization is included in the definition of “contractors” as it relates to stipulated decisions.
+
+[63 FR 35067, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4738, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 76 FR 21569, Apr. 15, 2011; 82 FR 5110, Jan. 17, 2017; 84 FR 15834, Apr. 16, 2019; 84 FR 26579, June 7, 2019; 86 FR 6101, Jan. 19, 2021]

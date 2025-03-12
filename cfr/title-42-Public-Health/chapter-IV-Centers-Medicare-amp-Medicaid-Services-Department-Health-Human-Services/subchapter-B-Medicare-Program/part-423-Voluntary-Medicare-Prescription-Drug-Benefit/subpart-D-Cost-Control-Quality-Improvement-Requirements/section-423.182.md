@@ -1,7 +1,5 @@
 ##### § 423.182 Part D Prescription Drug Plan Quality Rating System. #####
 
-Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
-
 (a) *Definitions.* In this subpart the following terms have the meanings:
 
 *Absolute percentage cap* is a cap applied to non-CAHPS measures that are on a 0 to 100 scale that restricts movement of the current year's measure-threshold-specific cut point to no more than the stated percentage as compared to the prior year's cut point.
@@ -66,7 +64,7 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 *Tukey outer fence outliers* are measure scores that are below a certain point (first quartile−3.0 × (third quartile−first quartile)) or above a certain point (third quartile + 3.0 × (third quartile−first quartile)).
 
-(b) *Contract ratings* - (1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract and a Part D summary rating for each PDP contract using the 5-star rating system described in this subpart. For PDP contracts, the Part D summary rating is the highest rating. Measures are assigned stars at the contract level and weighted in accordance with § 423.186(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 423.186(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 423.186(c), with both the reward factor and CAI applied as applicable, as described in § 423.186(f). Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 423.186(d) with both the reward factor and CAI applied as applicable, as described in § 423.186(f).
+(b) *Contract ratings*—(1) *General.* CMS calculates an overall Star Rating, Part C summary rating, and Part D summary rating for each MA-PD contract and a Part D summary rating for each PDP contract using the 5-star rating system described in this subpart. For PDP contracts, the Part D summary rating is the highest rating. Measures are assigned stars at the contract level and weighted in accordance with § 423.186(a). Domain ratings are the unweighted mean of the individual measure ratings under the topic area in accordance with § 423.186(b). Summary ratings are the weighted mean of the individual measure ratings for Part C or Part D in accordance with § 423.186(c), with both the reward factor and CAI applied as applicable, as described in § 423.186(f). Overall Star Ratings are calculated by using the weighted mean of the individual measure ratings in accordance with § 423.186(d) with both the reward factor and CAI applied as applicable, as described in § 423.186(f).
 
 (2) *Plan benefit packages.* All plan benefit packages (PBPs) offered under an MA contract or PDP plan sponsor have the same overall and/or summary Star Ratings as the contract under which the PBP is offered by the MA organization or PDP plan sponsor. Data from all the PBPs offered under a contract are used to calculate the measure and domain ratings for the contract.
 
@@ -74,9 +72,13 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (ii) The Star Ratings posted on Medicare Plan Finder for contracts that consolidate are as follows:
 
-(A) For the first year after consolidation, CMS will use enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except the survey-based and call center measures. The survey-based measures would use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures would use average enrollment during the study period.
+(A)(*1*) For the first year after consolidation, CMS uses enrollment-weighted measure scores using the July enrollment of the measurement period of the consumed and surviving contracts for all measures, except survey-based measures and call center measures. The survey-based measures would use enrollment of the surviving and consumed contracts at the time the sample is pulled for the rating year. The call center measures would use average enrollment during the study period.
 
-(B) For the second year after consolidation, CMS will use the enrollment-weighted measure scores using the July enrollment of the measurement year of the consumed and surviving contracts for all measures except those from CAHPS. CMS will ensure that the CAHPS survey sample will include enrollees in the sample frame from both the surviving and consumed contracts.
+(*2*) For contract consolidations approved on or after January 1, 2022, if a measure score for a consumed or surviving contract is missing due to a data integrity issue as described in § 423.184(g)(1)(i) and (ii), CMS assigns a score of zero for the missing measure score in the calculation of the enrollment-weighted measure score.
+
+(B)(*1*) For the second year after consolidation, CMS uses the enrollment-weighted measure scores using the July enrollment of the measurement year of the consumed and surviving contracts for all measures except for CAHPS. CMS ensures that the CAHPS survey sample includes enrollees in the sample frame from both the surviving and consumed contracts.
+
+(*2*) For contract consolidations approved on or after January 1, 2022, for all measures except CAHPS if a measure score for a consumed or surviving contract is missing due to a data integrity issue as described in § 423.184(g)(1)(i) and (ii), CMS assigns a score of zero for the missing measure score in the calculation of the enrollment-weighted measure score.
 
 (iii) This provision governing the Star Ratings of surviving contracts is applicable to contract consolidations that are approved on or after January 1, 2019.
 
@@ -86,4 +88,4 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (3) For 2021 Star Ratings only, Part D sponsors are not required to submit CAHPS data that would otherwise be required for the calculation of the 2021 Star Ratings.
 
-[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019, as amended at 85 FR 19290, Apr. 6, 2020; 85 FR 33911, June 2, 2020]
+[83 FR 16743, Apr. 16, 2018; 84 FR 15841, Apr. 16, 2019, as amended at 85 FR 19290, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 86 FR 6118, Jan. 19, 2021]

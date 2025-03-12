@@ -40,9 +40,9 @@
 
 (2) Retained earnings.
 
-(3) Accumulated other comprehensive income (AOCI) as reported under GAAP.11
+(3) Accumulated other comprehensive income (AOCI) as reported under GAAP.1
 
-11*See* § 3.22 for specific adjustments related to AOCI.
+1*See* § 3.22 for specific adjustments related to AOCI.
 
 (4) Any common equity tier 1 minority interest, subject to the limitations in § 3.21.
 
@@ -66,9 +66,9 @@
 
 (B) The national bank or Federal savings association does not create at issuance of the instrument, through any action or communication, an expectation that the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the national bank or Federal savings association must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c);12 or demonstrate to the satisfaction of the OCC that following redemption, the national bank or Federal savings association will continue to hold capital commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the national bank or Federal savings association must either: Replace the instrument to be called with an equal amount of instruments that meet the criteria under paragraph (b) of this section or this paragraph (c);2 or demonstrate to the satisfaction of the OCC that following redemption, the national bank or Federal savings association will continue to hold capital commensurate with its risk.
 
-12 Replacement can be concurrent with redemption of existing additional tier 1 capital instruments.
+2 Replacement can be concurrent with redemption of existing additional tier 1 capital instruments.
 
 (vi) Redemption or repurchase of the instrument requires prior approval from the OCC.
 
@@ -84,19 +84,23 @@
 
 (xii) The instrument does not have any features that would limit or discourage additional issuance of capital by the national bank or Federal savings association, such as provisions that require the national bank or Federal savings association to compensate holders of the instrument if a new instrument is issued at a lower price during a specified time frame.
 
-(xiii) If the instrument is not issued directly by the national bank or Federal savings association or by a subsidiary of the national bank or Federal savings association that is an operating entity, the only asset of the issuing entity is its investment in the capital of the national bank or Federal savings association, and proceeds must be immediately available without limitation to the national bank or Federal savings association or to the national bank's or Federal savings association's top-tier holding company in a form which meets or exceeds all of the other criteria for additional tier 1 capital instruments.13
+(xiii) If the instrument is not issued directly by the national bank or Federal savings association or by a subsidiary of the national bank or Federal savings association that is an operating entity, the only asset of the issuing entity is its investment in the capital of the national bank or Federal savings association, and proceeds must be immediately available without limitation to the national bank or Federal savings association or to the national bank's or Federal savings association's top-tier holding company in a form which meets or exceeds all of the other criteria for additional tier 1 capital instruments.3
 
-13*De minimis* assets related to the operation of the issuing entity can be disregarded for purposes of this criterion.
+3*De minimis* assets related to the operation of the issuing entity can be disregarded for purposes of this criterion.
 
 (xiv) For an advanced approaches national bank or Federal savings association, the governing agreement, offering circular, or prospectus of an instrument issued after the date upon which the national bank or Federal savings association becomes subject to this part as set forth in § 3.1(f) must disclose that the holders of the instrument may be fully subordinated to interests held by the U.S. government in the event that the national bank or Federal savings association enters into a receivership, insolvency, liquidation, or similar proceeding.
 
 (2) Tier 1 minority interest, subject to the limitations in § 3.21, that is not included in the national bank's or Federal savings association's common equity tier 1 capital.
 
-(3) Any and all instruments that qualified as tier 1 capital under the OCC's general risk-based capital rules under appendix A to this part (national banks), 12 CFR part 167 (Federal savings associations) as then in effect, that were issued under the Small Business Jobs Act of 201014 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
+(3)(i) Any and all instruments that qualified as tier 1 capital under the OCC's general risk-based capital rules under appendix A to this part (national banks), 12 CFR part 167 (Federal savings associations) as then in effect, that were issued under the Small Business Jobs Act of 20104 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.5
 
-14 Public Law 111-240; 124 Stat. 2504 (2010).
+4 Public Law 111-240; 124 Stat. 2504 (2010).
 
-15 Public Law 110-343, 122 Stat. 3765 (2008).
+5 Public Law 110-343, 122 Stat. 3765 (2008).
+
+(ii) Any preferred stock instruments issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.6
+
+6 Public Law 116-260.
 
 (4) Notwithstanding the criteria for additional tier 1 capital instruments referenced above:
 
@@ -114,9 +118,9 @@
 
 (iii) The instrument is not secured, not covered by a guarantee of the national bank or Federal savings association or of an affiliate of the national bank or Federal savings association, and not subject to any other arrangement that legally or economically enhances the seniority of the instrument in relation to more senior claims;
 
-(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the national bank or Federal savings association to redeem the instrument prior to maturity;16 and
+(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the national bank or Federal savings association to redeem the instrument prior to maturity;7 and
 
-16 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
+7 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
 
 (v) The instrument, by its terms, may be called by the national bank or Federal savings association only after a minimum of five years following issuance, except that the terms of the instrument may allow it to be called sooner upon the occurrence of an event that would preclude the instrument from being included in tier 2 capital, a tax event, or if the issuing entity is required to register as an investment company pursuant to the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*). In addition:
 
@@ -124,9 +128,9 @@
 
 (B) The national bank or Federal savings association does not create at issuance, through action or communication, an expectation the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the national bank or Federal savings association must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;17 or demonstrate to the satisfaction of the OCC that following redemption, the national bank or Federal savings association would continue to hold an amount of capital that is commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the national bank or Federal savings association must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;8 or demonstrate to the satisfaction of the OCC that following redemption, the national bank or Federal savings association would continue to hold an amount of capital that is commensurate with its risk.
 
-17 A national bank or Federal savings association may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
+8 A national bank or Federal savings association may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 
 (vi) The holder of the instrument must have no contractual right to accelerate payment of principal or interest on the instrument, except in the event of a receivership, insolvency, liquidation, or similar proceeding of the national bank or Federal savings association.
 
@@ -134,9 +138,9 @@
 
 (viii) The national bank or Federal savings association, or an entity that the national bank or Federal savings association controls, has not purchased and has not directly or indirectly funded the purchase of the instrument.
 
-(ix) If the instrument is not issued directly by the national bank or Federal savings association or by a subsidiary of the national bank or Federal savings association that is an operating entity, the only asset of the issuing entity is its investment in the capital of the national bank or Federal savings association, and proceeds must be immediately available without limitation to the national bank or Federal savings association or the national bank's or Federal savings association's top-tier holding company in a form that meets or exceeds all the other criteria for tier 2 capital instruments under this section.18
+(ix) If the instrument is not issued directly by the national bank or Federal savings association or by a subsidiary of the national bank or Federal savings association that is an operating entity, the only asset of the issuing entity is its investment in the capital of the national bank or Federal savings association, and proceeds must be immediately available without limitation to the national bank or Federal savings association or the national bank's or Federal savings association's top-tier holding company in a form that meets or exceeds all the other criteria for tier 2 capital instruments under this section.9
 
-18 A national bank or Federal savings association may disregard *de minimis* assets related to the operation of the issuing entity for purposes of this criterion.
+9 A national bank or Federal savings association may disregard *de minimis* assets related to the operation of the issuing entity for purposes of this criterion.
 
 (x) Redemption of the instrument prior to maturity or repurchase requires the prior approval of the OCC.
 
@@ -146,11 +150,15 @@
 
 (3) ALLL or AACL, as applicable, up to 1.25 percent of the national bank's or Federal savings association's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk national bank or Federal savings association, its standardized market risk-weighted assets).
 
-(4) Any instrument that qualified as tier 2 capital under the OCC's general risk-based capital rules under appendix A to this part, 12 CFR part 167 as then in effect, that were issued under the Small Business Jobs Act of 2010,19 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.20
+(4)(i) Any instrument that qualified as tier 2 capital under the OCC's general risk-based capital rules under appendix A to this part, 12 CFR part 167 as then in effect, that were issued under the Small Business Jobs Act of 2010,10 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.11
 
-19 Public Law 111-240; 124 Stat. 2504 (2010).
+10 Public Law 111-240; 124 Stat. 2504 (2010).
 
-20 Public Law 110-343, 122 Stat. 3765 (2008).
+11 Public Law 110-343, 122 Stat. 3765 (2008).
+
+(ii) Any debt instruments issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.12
+
+12 Public Law 116-260.
 
 (5) For a national bank or Federal savings association that makes an AOCI opt-out election (as defined in paragraph (b)(2) of § 3.22), 45 percent of pretax net unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures.
 
@@ -166,4 +174,4 @@
 
 (3) After determining that a regulatory capital element may be included in a national bank's or Federal savings association's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the OCC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019; 84 FR 35249, July 22, 2019]
+[78 FR 62157, 62273, Oct. 11, 2013, as amended at 84 FR 4238, Feb. 14, 2019; 84 FR 35249, July 22, 2019; 86 FR 15080, Mar. 22, 2021]

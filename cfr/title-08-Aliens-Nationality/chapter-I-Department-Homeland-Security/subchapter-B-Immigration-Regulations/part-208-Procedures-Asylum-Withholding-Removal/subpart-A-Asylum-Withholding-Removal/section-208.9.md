@@ -18,7 +18,7 @@
 
 (g) An applicant unable to proceed with the interview in English must provide, at no expense to the Service, a competent interpreter fluent in both English and the applicant's native language or any other language in which the applicant is fluent. The interpreter must be at least 18 years of age. Neither the applicant's attorney or representative of record, a witness testifying on the applicant's behalf, nor a representative or employee of the applicant's country of nationality, or if stateless, country of last habitual residence, may serve as the applicant's interpreter. Failure without good cause to comply with this paragraph may be considered a failure to appear for the interview for purposes of § 208.10.
 
-(h) Asylum Applicant Interpreters for asylum interviews conducted between September 23, 2020, through March 22, 2021.
+(h) *Asylum applicant interpreters.* For asylum interviews conducted between September 23, 2020 through September 20, 2021:
 
 (1) Asylum applicants unable to proceed with the interview in English must use USCIS's telephonic interpreter services, so long as the applicant is fluent in one of the following languages: Akan, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Bengali, Burmese, Cantonese, Creole/Haitian Creole, Farsi-Afghani/Dari, Farsi-Iranian, Foo Chow/Fuzhou, French, Georgian, Gujarati, Hindi, Hmong, Hungarian, Indonesia/Bahasa, Konjobal, Korean, Kurdish, Lingala, Mam, Mandarin, Nepali, Pashto/Pushtu, Portuguese, Punjabi, Quiche/K'iche, Romanian, Russian, Serbian, Sinhalese, Somali, Spanish, Swahili, Tagalog, Tamil, Tigrinya, Turkish, Twi, Ukrainian, Urdu, Uzbek, or Vietnamese.
 
@@ -30,4 +30,4 @@
 
 (2) [Reserved]
 
-[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76133, Dec. 6, 2000; 76 FR 53784, Aug. 29, 2011; 85 FR 38627, June 26, 2020; 85 FR 59660, Sept. 23, 2020]Effective Date Note:At 85 FR 59660, Sept. 23, 2020, § 208.9 was amended by adding paragraph (h), effective Sept. 23, 2020, through Mar. 22, 2021.
+[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76133, Dec. 6, 2000; 76 FR 53784, Aug. 29, 2011; 85 FR 38627, June 26, 2020; 85 FR 59660, Sept. 23, 2020; 86 FR 15076, Mar. 22, 2021]Effective Date Note:At 85 FR 59660, Sept. 23, 2020, § 208.9 was amended by adding paragraph (h), effective Sept. 23, 2020, through Mar. 22, 2021. At 86 FR 15076, Mar. 22, 2021, the expiration date for § 208.9(h) was extended to Sept. 20, 2021.

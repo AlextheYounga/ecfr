@@ -1,5 +1,7 @@
 ##### § 627.2725 Powers and duties of the receiver. #####
 
+Link to an amendment published at 86 FR 15083, Mar. 22, 2021.
+
 (a) *General.* (1) Upon appointment as receiver, the receiver shall take possession of a Farm Credit institution pursuant to 12 U.S.C. 2183 and § 627.2710 of this part in order to wind up the business operations of such institution, collect the debts owed to the institution, liquidate its property and assets, pay its creditors, and distribute the remaining proceeds to stockholders. The receiver is authorized to exercise all powers necessary to the efficient termination of an institution's operation as provided for in this subpart.
 
 (2) Upon its appointment as receiver, the receiver automatically succeeds to -

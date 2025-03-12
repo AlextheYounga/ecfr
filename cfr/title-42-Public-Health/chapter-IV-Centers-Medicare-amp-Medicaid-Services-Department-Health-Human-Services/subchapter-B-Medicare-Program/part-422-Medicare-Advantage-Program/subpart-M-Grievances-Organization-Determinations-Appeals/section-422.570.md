@@ -1,7 +1,5 @@
 ##### § 422.570 Expediting certain organization determinations. #####
 
-Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
-
 (a) *Request for expedited determination.* An enrollee or a physician (regardless of whether the physician is affiliated with the MA organization) may request that an MA organization expedite an organization determination involving the issues described in § 422.566(b)(3) and (b)(4). (This does not include requests for payment of services already furnished.)
 
 (b) *How to make a request.* (1) To ask for an expedited determination, an enrollee or a physician must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the determination, as directed by the MA organization.
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (1) Automatically transfer a request to the standard timeframe and make the determination within the 72-hour or 14-day timeframe, as applicable, established in § 422.568 for a standard determination. The timeframe begins when the MA organization receives the request for expedited determination.
 
-(2) Give the enrollee prompt oral notice of the denial and subsequently deliver, within 3 calendar days, a written letter that -
+(2) Give the enrollee prompt oral notice of the denial and subsequently deliver, within 3 calendar days, a written letter that—
 
 (i) Explains that the MA organization will process the request using the 14-day timeframe for standard determinations;
 
@@ -36,4 +34,6 @@ Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
 
 (f) *Prohibition of punitive action.* An MA organization may not take or threaten to take any punitive action against a physician acting on behalf or in support of an enrollee in requesting an expedited determination.
 
-[63 FR 35107, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 84 FR 23880, May 23, 2019]
+(g) *Dismissing a request.* The MA organization dismisses an expedited organization request in accordance with § 422.568.
+
+[63 FR 35107, June 26, 1998, as amended at 65 FR 40329, June 29, 2000; 70 FR 4739, Jan. 28, 2005; 84 FR 23880, May 23, 2019; 86 FR 6101, Jan. 19, 2021]

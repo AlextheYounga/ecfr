@@ -1,8 +1,8 @@
 ##### § 990.71 USDA plan reporting requirements. #####
 
-(a) *USDA hemp plan producer licensing application.* USDA will accept applications from December 2, 2019 through November 2, 2020. Thereafter applicants, may submit a USDA Hemp Licensing Application to USDA from August 1 through October 31 of each year. Licenses will be valid until December 31 of the year three years after the license is issued. The license application will be used for both new applicants and for producers seeking renewal of their license. The application shall include the information described in this paragraph (a).
+(a) *USDA licensing application.* USDA will accept applications on a rolling basis. Licenses will be valid until December 31 of the year three years after the license is issued. The license application will be used for both new and renewal applicants. The application shall include:
 
-(1) *Contact information.* (i) For an applicant who is an individual, the application shall include full name of the individual, business address, telephone number, and email address (if available).
+(1) *Contact information.* (i) For an applicant who is an individual, the application shall include full name of the individual, Employee Identification Number (“EIN”) of the business entity, business address, telephone number, and email address (if available).
 
 (ii) For an applicant that is an entity, the application shall include full name of the entity, the principal business location address, and the full name, title, and email address (if available) of each key participant of the entity.
 
@@ -14,46 +14,42 @@
 
 (3) *Consent to comply with program requirements.* All applicants submitting a completed license application, in doing so, consent to comply with the requirements of this part.
 
-(b) *USDA hemp plan producer disposal form.* If a producer has produced cannabis exceeding the acceptable hemp THC level, the cannabis must be disposed of in accordance with the Controlled Substances Act and DEA regulations found at 21 CFR 1317.15. Forms shall be submitted to USDA no later than 30 days after the date of completion of disposal. The report shall contain the information described in this paragraph (b).
+(b) *USDA licensee disposal and remediation form.* USDA licensee conducts a disposal or remediation activity, that licensee must report the activity on the appropriate form to USDA no later than 30 days after the date of completion of disposal or remediation activity. The report shall contain the information described in this paragraph (b).
 
 (1) Name and address of the producer.
 
-(2) Producer's license number.
+(2) The USDA licensee's USDA license number.
 
-(3) Geospatial location, or other valid land descriptor, for the production area subject to disposal.
+(3) Geospatial location, or other valid land descriptor, for the production area subject to disposal or remediation.
 
-(4) Information on the agent handling the disposal.
+(4) Date of completion of disposal or remediation.
 
-(5) Date of completion of disposal.
+(5) Signature of the USDA licensee or authorized representative.
 
-(6) Signature of the producer.
+(c) *USDA licensee annual report.* Each USDA licensee shall submit an annual report to USDA. The report form shall be submitted by December 15 of each year and contain the information described in this paragraph (c).
 
-(7) Disposal agent certification of the completion of the disposal.
+(1) USDA licensee 's license number.
 
-(c) *USDA hemp plan producer annual report.* Each producer shall submit an annual report to USDA. The report form shall be submitted by December 15 of each year and contain the information described in this paragraph (c).
+(2) USDA licensee 's name.
 
-(1) Producer's license number.
+(3) USDA licensee's address.
 
-(2) Producer's name.
+(4) Lot, location type, geospatial location, total planted acreage, total acreage disposed and remediated, and total harvested acreage.
 
-(3) Producer's address.
+(d) *Test results report.* Each USDA licensee must ensure that the laboratory that conducts the test of the sample(s) from its lots reports the test results for all samples tested to USDA. Informal testing conducted throughout the growing season for purposes of monitoring THC concentration do not need to be reported to USDA. The test results report shall contain the information described in this paragraph (d) for each sample tested.
 
-(4) Lot, location type, geospatial location, total planted acreage, total acreage disposed, and total harvested acreage.
+(1) USDA licensee 's license number.
 
-(d) *Test results report.* Each producer must ensure that the DEA-registered laboratory that conducts the test of the sample(s) from its lots reports the test results for all samples tested to USDA. The test results report shall contain the information described in this paragraph (d) for each sample tested.
+(2) Name of the USDA licensee.
 
-(1) Producer's license number.
-
-(2) Name of producer.
-
-(3) Business address of producer.
+(3) Business address of the USDA licensee.
 
 (4) Lot identification number for the sample.
 
-(5) Name and DEA registration number of laboratory.
+(5) Name of testing laboratory.
 
 (6) Date of test and report.
 
-(7) Identification of a retest.
+(7) Identification of a pre-harvest or post-harvest retest.
 
 (8) Test result.

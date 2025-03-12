@@ -1,7 +1,5 @@
 ##### § 422.631 Integrated organization determinations. #####
 
-Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
-
 (a) *General rule.* An applicable integrated plan must adopt and implement a process for enrollees to request that the plan make an integrated organization determination. The process for requesting that the applicable integrated plan make an integrated organization determination must be the same for all covered benefits. Timeframes and notice requirements for integrated organization determinations for Part B drugs are governed by the provisions for Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), and 422.572(a)(2).
 
 (b) *Requests.* The enrollee, or a provider on behalf of an enrollee, may request an integrated organization determination orally or in writing, except for requests for payment, which must be in writing (unless the applicable integrated plan or entity responsible for making the determination has implemented a voluntary policy of accepting verbal payment requests).
@@ -70,4 +68,32 @@ Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
 
 (C) If the applicable integrated plan must receive medical information from noncontract providers, the applicable integrated plan must request the necessary information from the noncontract provider within 24 hours of the initial request for an expedited integrated organization determination. Noncontract providers must make reasonable and diligent efforts to expeditiously gather and forward all necessary information to assist the applicable integrated plan in meeting the required timeframe. Regardless of whether the applicable integrated plan must request information from noncontract providers, the applicable integrated plan is responsible for meeting the timeframe and notice requirements of this section.
 
-[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019]
+(e) *Dismissing a request.* The applicable integrated plan dismisses a standard or expedited integrated organization determination request, either entirely or as to any stated issue, under any of the following circumstances:
+
+(1) The individual or entity making the request is not permitted to request an integrated organization determination under § 422.629(*l*).
+
+(2) The applicable integrated plan determines the party failed to make out a valid request for an integrated organization determination that substantially complies with paragraph (b) of this section.
+
+(3) An enrollee or the enrollee's representative files a request for an integrated organization determination, but the enrollee dies while the request is pending, and both of the following apply:
+
+(i) The enrollee's surviving spouse or estate has no remaining financial interest in the case.
+
+(ii) No other individual or entity with a financial interest in the case wishes to pursue the integrated organization determination.
+
+(4) A party filing the integrated organization determination request submits a timely request for withdrawal of their request for an integrated organization determination with the applicable integrated plan.
+
+(f) *Notice of dismissal.* The applicable integrated plan must mail or otherwise transmit a written notice of the dismissal of the integrated organization determination request to the parties. The notice must state all of the following:
+
+(1) The reason for the dismissal.
+
+(2) The right to request that the applicable integrated plan vacate the dismissal action.
+
+(3) The right to request reconsideration of the dismissal.
+
+(g) *Vacating a dismissal.* If good cause is established, the applicable integrated plan may vacate its dismissal of a request for an integrated organization determination within 6 months from the date of the notice of dismissal.
+
+(h) *Effect of dismissal.* The dismissal of a request for an integrated organization determination is binding unless it is modified or reversed by the applicable integrated plan or vacated under paragraph (g) of this section.
+
+(i) *Withdrawing a request.* A party that requests an integrated organization determination may withdraw its request at any time before the decision is issued by filing a request with the applicable integrated plan.
+
+[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021]

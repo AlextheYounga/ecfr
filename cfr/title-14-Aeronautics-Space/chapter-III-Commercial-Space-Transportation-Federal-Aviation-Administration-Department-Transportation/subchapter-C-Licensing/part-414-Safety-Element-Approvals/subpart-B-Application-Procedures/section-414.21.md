@@ -1,0 +1,3 @@
+##### § 414.21 Maintaining the continued accuracy of the initial application. #####
+
+The applicant is responsible for the continuing accuracy and completeness of information provided to the FAA as part of the safety element approval application. If at any time after submitting the application, circumstances occur that cause the information to no longer be accurate and complete in any material respect, the applicant must submit a written statement to the Associate Administrator explaining the circumstances and providing the new or corrected information. The revised application must meet all requirements under § 414.13 or § 414.15.

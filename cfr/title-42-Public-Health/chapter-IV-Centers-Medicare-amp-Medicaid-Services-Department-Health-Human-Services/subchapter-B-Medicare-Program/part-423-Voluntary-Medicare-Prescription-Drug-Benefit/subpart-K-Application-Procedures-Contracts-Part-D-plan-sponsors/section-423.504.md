@@ -1,7 +1,5 @@
 ##### § 423.504 General provisions. #####
 
-Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
-
 (a) *General rule.* Subject to the provisions at § 423.265 of this part concerning submission of bids, to enroll beneficiaries in any Part D drug plan it offers and be paid on behalf of Part D eligible individuals enrolled in those plans, a Part D plan sponsor must enter into a contract with CMS. The contract may cover more than one Part D plan.
 
 (b) *Conditions necessary to contract as a Part D plan sponsor.* Any entity seeking to contract as a Part D plan sponsor must -
@@ -74,6 +72,24 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (*3*) The Part D plan sponsor should have procedures to voluntarily self-report potential fraud or misconduct related to the Part D program to CMS or its designee.
 
+(*4*) The Part D plan sponsor must have procedures to identify, and must report to CMS or its designee either of the following, in the manner described in paragraphs (b)(4)(vi)(G)(*4*) through (*6*) of this section:
+
+(*i*) Any payment suspension implemented by a plan, pending investigation of credible allegations of fraud by a pharmacy, which must be implemented in the same manner as the Secretary does under section 1862(o)(1) of the Act.
+
+(*ii*) Any information concerning investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier, and other actions taken by the plan related to the inappropriate prescribing of opioids.
+
+(*5*) The Part D plan sponsor must submit data, as specified in this section, in the program integrity portal when reporting payment suspensions pending investigations of credible allegations of fraud by pharmacies; information related to the inappropriate prescribing of opioids and concerning investigations and credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier, and other actions taken by the plan sponsor; or if the plan reports a referral, through the portal, of substantiated or suspicious activities of a provider of services (including a prescriber) or a supplier related to fraud, waste or abuse to initiate or assist with investigations conducted by CMS, or its designee, a Medicare program integrity contractor, or law enforcement partners. The data categories, as applicable, include referral information and actions taken by the Part D plan sponsor on the referral. (*6*)(*i*) The plan sponsor is required to notify the Secretary, or its designee, of a payment suspension described in paragraph (b)(4)(vi)(G)(*4*) of this section 7 days prior to implementation of the payment suspension. The MA organization may request an exception to the 7day prior notification to the Secretary, or its designee, if circumstances warrant a reduced reporting time frame, such as potential beneficiary harm.
+
+(*ii*) The plan sponsor is required to submit the information described in paragraph (b)(4)(vi)(G)(*4*)(*ii*) of this section no later than January 30, April 30, July 30, and October 30 of each year for the preceding periods, respectively, of October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30. For the first reporting period (January 30, 2022), the reporting will reflect the data gathered and analyzed for the previous quarter in the calendar year (October 1-December 31).
+
+(*7*)(*i*) CMS provides plan sponsors with data report(s) or links to the information described in paragraphs (b)(4)(vi)(G)(*4*)*(i*) and (*ii*) of this section no later than April 15, July 15, October 15, and January 15 of each year based on the information in the portal, respectively, as of the preceding October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30.
+
+(*ii*) Include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders.
+
+(*iii*) Are anonymized information submitted by plans without identifying the source of such information.
+
+(*iv*) For the first quarterly report (April 15, 2022), that the report reflect the data gathered and analyzed for the previous quarter submitted by the plan sponsors on January 30, 2022.
+
 (5) Not have non-renewed a contract under § 423.507 within the past 2 years unless -
 
 (i) During the 6-month period, beginning on the date the entity notified CMS of the intention to non-renew the most recent previous contract, there was a change in the statute or regulations that had the effect of increasing Part D sponsor payments in the payment area or areas at issue; or
@@ -134,4 +150,4 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (2) A separate contract for any excluded plan or entity must be deemed to be in place when a request is made.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68732, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19820, Apr. 15, 2010; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68732, Dec. 5, 2007; 73 FR 20507, Apr. 15, 2008; 75 FR 19820, Apr. 15, 2010; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 83 FR 16750, Apr. 16, 2018; 86 FR 6118, Jan. 19, 2021]

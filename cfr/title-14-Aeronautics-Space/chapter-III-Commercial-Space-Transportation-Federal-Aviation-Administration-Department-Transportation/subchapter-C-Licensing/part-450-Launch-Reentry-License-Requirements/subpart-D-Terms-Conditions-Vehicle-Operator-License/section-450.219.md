@@ -1,0 +1,5 @@
+##### § 450.219 Records. #####
+
+(a) Except as specified in paragraph (b) of this section, a licensee must maintain for 3 years all records, data, and other material necessary to verify that a launch or reentry is conducted in accordance with representations contained in the licensee's application, the requirements of subparts C and D of this part, and the terms and conditions contained in the license.
+
+(b) For an event that meets any of paragraph (1) through (5) or paragraph (8) of the definition of “mishap” in § 401.7 of this chapter, a licensee must preserve all records related to the event. Records must be retained until completion of any Federal investigation and the FAA advises the licensee that the records need not be retained. The licensee must make all records required to be maintained under the regulations available to Federal officials for inspection and copying.

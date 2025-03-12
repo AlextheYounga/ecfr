@@ -1,10 +1,10 @@
 ##### § 401.5 Definitions. #####
 
-Link to an amendment published at 85 FR 79707, Dec. 10, 2020.Link to an amendment published at 86 FR 13448, Mar. 9, 2021.
+Link to an amendment published at 85 FR 79707, Dec. 10, 2020.
 
-As used in this chapter -
+For the purposes of parts 415, 417, 431, 435, 440, and 460 of this chapter, the following definitions apply:
 
-*Act* means 51 U.S.C Subtitle V, Programs Targeting Commercial Opportunities, chapter 509 - Commercial Space Launch Activities, 51 U.S.C. 50901-50923.
+*Act* means 51 U.S.C Subtitle V, Programs Targeting Commercial Opportunities, chapter 509—Commercial Space Launch Activities, 51 U.S.C. 50901-50923.
 
 *Associate Administrator* means the Associate Administrator for Commercial Space Transportation, Federal Aviation Administration, or any person designated by the Associate Administrator to exercise the authority or discharge the responsibilities of the Associate Administrator.
 
@@ -96,7 +96,7 @@ As used in this chapter -
 
 *Pilot* means a flight crew member who has the ability to control, in real time, a launch or reentry vehicle's flight path.
 
-*Populated area* means -
+*Populated area* means—
 
 (1) An outdoor location, structure, or cluster of structures that may be occupied by people;
 
@@ -164,4 +164,4 @@ As used in this chapter -
 
 *Verification* means an evaluation to determine that safety measures derived from a system safety process are effective and have been properly implemented. Verification provides measurable evidence that a safety measure reduces risk to acceptable levels.
 
-[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015]
+[Doc. No. FAA-1999-5535, 65 FR 56656, Sept. 19, 2000, as amended by Amdt. 401-2, 65 FR 62861, Oct. 19, 2000; Amdt. 401-4, 71 FR 50530, Aug. 25, 2006; 71 FR 75631, Dec. 15, 2006; Amdt. 401-5, 72 FR 17016, Apr. 6, 2007; Amdt. 401-6, 73 FR 73782, Dec. 4, 2008; Amdt. 401-7, 77 FR 20532, Apr. 5, 2012; 80 FR 30151, May 27, 2015; Amdt. 401-8, 80 FR 31834, June 4, 2015; Doc. No. FAA-2019-0229, Amdt. 401-9, 85 FR 79707, Dec. 10, 2020]

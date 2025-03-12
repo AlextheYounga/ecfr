@@ -1,20 +1,8 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. All approved material is available for inspection at Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-4046 *https://www.phmsa.dot.gov/pipeline/regs,* and is available from the sources listed in the remaining paragraphs of this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
-
-(1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
-
-(i) The Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE., Washington, DC 20590. For more information contact 202-366-4046 or go to the PHMSA Web site at: *http://www.phmsa.dot.gov/pipeline/regs.*
-
-(ii) The National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
-
-(iii) Copies of standards incorporated by reference in this part can also be purchased or are otherwise made available from the respective standards-developing organization at the addresses provided in the centralized IBR section below.
-
-(2) [Reserved]
-
-(b) American Petroleum Institute (API), 1220 L Street NW., Washington, DC 20005, phone: 202-682-8000, *http://api.org/.*
+(b) American Petroleum Institute (API), 200 Massachusetts Ave. NW, Suite 1100, Washington, DC 20001, and phone: 202-682-8000, website: *https://www.api.org/.*
 
 (1) API Recommended Practice 5L1, “Recommended Practice for Railroad Transportation of Line Pipe,” 7th edition, September 2009, (API RP 5L1), IBR approved for § 192.65(a).
 
@@ -32,7 +20,7 @@ Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment
 
 (8) ANSI/API Specification 6D, “Specification for Pipeline Valves,”23rd edition, effective October 1, 2008, including Errata 1 (June 2008), Errata2 (/November 2008), Errata 3 (February 2009), Errata 4 (April 2010), Errata 5 (November 2010), Errata 6 (August 2011) Addendum 1 (October 2009), Addendum 2 (August 2011), and Addendum 3 (October 2012), (ANSI/API Spec 6D), IBR approved for § 192.145(a).
 
-(9) API Standard 1104, “Welding of Pipelines and Related Facilities,” 20th edition, October 2005, including errata/addendum (July 2007) and errata 2 (2008), (API Std 1104), IBR approved for §§ 192.225(a); 192.227(a); 192.229(c); 192.241(c); and Item II, Appendix B.
+(9) API Standard 1104, “Welding of Pipelines and Related Facilities,” 20th edition, October 2005, including errata/addendum (July 2007) and errata 2 (2008), (API Std 1104), IBR approved for §§ 192.225(a); 192.227(a); 192.229(b) and (c); 192.241(c); and Item II, Appendix B.
 
 (10) API Recommended Practice 1170, “Design and Operation of Solution-mined Salt Caverns Used for Natural Gas Storage,” First edition, July 2015 (API RP 1170), IBR approved for § 192.12.
 
@@ -54,7 +42,7 @@ Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment
 
 (6) ASME/ANSI B31.8S-2004, “Supplement to B31.8 on Managing System Integrity of Gas Pipelines,” 2004, (ASME/ANSI B31.8S-2004), IBR approved for §§ 192.903 note to *Potential impact radius;* 192.907 introductory text, (b); 192.911 introductory text, (i), (k), (l), (m); 192.913(a), (b), (c); 192.917 (a), (b), (c), (d), (e); 192.921(a); 192.923(b); 192.925(b); 192.927(b), (c); 192.929(b); 192.933(c), (d); 192.935 (a), (b); 192.937(c); 192.939(a); and 192.945(a).
 
-(7) ASME Boiler & Pressure Vessel Code, Section I, “Rules for Construction of Power Boilers 2007,” 2007 edition, July 1, 2007, (ASME BPVC, Section I), IBR approved for § 192.153(b).
+(7) [Reserved]
 
 (8) ASME Boiler & Pressure Vessel Code, Section VIII, Division 1 “Rules for Construction of Pressure Vessels,” 2007 edition, July 1, 2007, (ASME BPVC, Section VIII, Division 1), IBR approved for §§ 192.153(a), (b), (d); and 192.165(b).
 
@@ -68,7 +56,7 @@ Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment
 
 (2) [Reserved]
 
-(e) American Society for Testing and Materials (ASTM), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, Web site: *http://www.astm.org/.*
+(e) ASTM International (formerly American Society for Testing and Materials), 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428, phone: (610) 832-9585, website: *http://astm.org.*
 
 (1) ASTM A53/A53M-10, “Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, Welded and Seamless,” approved October 1, 2010, (ASTM A53/A53M), IBR approved for § 192.113; and Item II, Appendix B to Part 192.
 
@@ -90,7 +78,7 @@ Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment
 
 (10) ASTM D638-03, “Standard Test Method for Tensile Properties of Plastics,” 2003, (ASTM D638), IBR approved for § 192.283(a) and (b).
 
-(11) ASTM D2513-12ae1, “Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings,” April 1, 2012, (ASTM D2513-12ae1), IBR approved for Item I, Appendix B to Part 192.
+(11) ASTM D2513-18a, “Standard Specification for Polyethylene (PE) Gas Pressure Pipe, Tubing, and Fittings,” approved August 1, 2018, (ASTM D2513), IBR approved for Item I, Appendix B to Part 192.
 
 (12) ASTM D2517-00, “Standard Specification for Reinforced Epoxy Resin Gas Pressure Pipe and Fittings,” (ASTM D 2517), IBR approved for §§ 192.191(a); 192.281(d); 192.283(a); and Item I, Appendix B to Part 192.
 
@@ -108,7 +96,7 @@ Link to an amendment published at 86 FR 2237, Jan. 11, 2021.Link to an amendment
 
 (19) ASTM F 2600-09, “Standard Specification for Electrofusion Type Polyamide-11 Fittings for Outside Diameter Controlled Polyamide-11 Pipe and Tubing,” April 1, 2009, (ASTM F 2600-09), IBR approved for Item I, Appendix B to Part 192.
 
-(20) ASTM F2620-12, “Standard Practice for Heat Fusion Joining of Polyethylene Pipe and Fittings,” Aug. 1, 2012, (ASTM F2620-12), IBR approved for §§ 192.281(c) and 192.285(b)(2)(i).
+(20) ASTM F2620-19, “Standard Practice for Heat Fusion Joining of Polyethylene Pipe and Fittings,” approved February 1, 2019, (ASTM F2620), IBR approved for §§ 192.281(c) and 192.285(b).
 
 (21) ASTM F2767-12, “Specification for Electrofusion Type Polyamide-12 Fittings for Outside Diameter Controlled Polyamide-12 Pipe and Tubing for Gas Distribution,” Oct. 15, 2012, (ASTM F2767-12), IBR approved for Item I, Appendix B to Part 192.
 

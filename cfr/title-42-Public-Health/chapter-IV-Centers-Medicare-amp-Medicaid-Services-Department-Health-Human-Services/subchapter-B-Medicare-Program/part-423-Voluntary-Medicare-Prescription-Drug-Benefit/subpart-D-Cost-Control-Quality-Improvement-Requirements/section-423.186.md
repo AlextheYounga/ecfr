@@ -1,7 +1,5 @@
 ##### § 423.186 Calculation of Star Ratings. #####
 
-Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
-
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) Clustering algorithm for all measures except CAHPS measures.
@@ -248,7 +246,7 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (5) *Exclusion from improvement measures.* Any measure that reverts back to the data underlying the previous year's Star Rating due to the adjustments made in paragraph (i) of this section is excluded from both the count of measures and the applicable improvement measures for the current and next year's Star Ratings for the affected contract. Contracts affected by extreme and uncontrollable circumstances do not have the option of reverting to the prior year's improvement rating.
 
-(6) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless an exemption described in paragraph (i)(2)(ii) of this section applies.
+(6) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless an exemption described in paragraph (i)(2)(ii) of this section applies. Missing data includes data where there is a data integrity issue as defined at § 423.184(g)(1).
 
 (7) *Cut points for non-CAHPS measures.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
 
@@ -272,4 +270,4 @@ Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
 
 (2) [Reserved]
 
-[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020]
+[83 FR 16743, Apr. 16, 2018, as amended at 84 FR 15842, Apr. 16, 2019; 85 FR 19291, Apr. 6, 2020; 85 FR 33911, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6118, Jan. 19, 2021]

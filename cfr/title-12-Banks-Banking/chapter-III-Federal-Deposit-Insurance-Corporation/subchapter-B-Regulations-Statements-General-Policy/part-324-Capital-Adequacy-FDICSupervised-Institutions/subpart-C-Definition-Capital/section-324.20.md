@@ -92,11 +92,15 @@
 
 (2) Tier 1 minority interest, subject to the limitations in § 324.21, that is not included in the FDIC-supervised institution's common equity tier 1 capital.
 
-(3) Any and all instruments that qualified as tier 1 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, subpart Z (state savings associations) as then in effect, that were issued under the Small Business Jobs Act of 201015 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.16
+(3)(i) Any and all instruments that qualified as tier 1 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, subpart Z (state savings associations) as then in effect, that were issued under the Small Business Jobs Act of 201015 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.16
 
 15 Public Law 111-240; 124 Stat. 2504 (2010).
 
 16 Public Law 110-343, 122 Stat. 3765 (2008).
+
+(ii) Any preferred stock instruments issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.17
+
+17 Public Law 116-260.
 
 (4) Notwithstanding the criteria for additional tier 1 capital instruments referenced above:
 
@@ -114,9 +118,9 @@
 
 (iii) The instrument is not secured, not covered by a guarantee of the FDIC-supervised institution or of an affiliate of the FDIC-supervised institution, and not subject to any other arrangement that legally or economically enhances the seniority of the instrument in relation to more senior claims;
 
-(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the FDIC-supervised institution to redeem the instrument prior to maturity;17 and
+(iv) The instrument has a minimum original maturity of at least five years. At the beginning of each of the last five years of the life of the instrument, the amount that is eligible to be included in tier 2 capital is reduced by 20 percent of the original amount of the instrument (net of redemptions) and is excluded from regulatory capital when the remaining maturity is less than one year. In addition, the instrument must not have any terms or features that require, or create significant incentives for, the FDIC-supervised institution to redeem the instrument prior to maturity;18 and
 
-17 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
+18 An instrument that by its terms automatically converts into a tier 1 capital instrument prior to five years after issuance complies with the five-year maturity requirement of this criterion.
 
 (v) The instrument, by its terms, may be called by the FDIC-supervised institution only after a minimum of five years following issuance, except that the terms of the instrument may allow it to be called sooner upon the occurrence of an event that would preclude the instrument from being included in tier 2 capital, a tax event, or if the issuing entity is required to register as an investment company pursuant to the Investment Company Act. In addition:
 
@@ -124,9 +128,9 @@
 
 (B) The FDIC-supervised institution does not create at issuance, through action or communication, an expectation the call option will be exercised.
 
-(C) Prior to exercising the call option, or immediately thereafter, the FDIC-supervised institution must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;18 or demonstrate to the satisfaction of the FDIC that following redemption, the FDIC-supervised institution would continue to hold an amount of capital that is commensurate with its risk.
+(C) Prior to exercising the call option, or immediately thereafter, the FDIC-supervised institution must either: Replace any amount called with an equivalent amount of an instrument that meets the criteria for regulatory capital under this section;19 or demonstrate to the satisfaction of the FDIC that following redemption, the FDIC-supervised institution would continue to hold an amount of capital that is commensurate with its risk.
 
-18 A FDIC-supervised institution may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
+19 A FDIC-supervised institution may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 
 (vi) The holder of the instrument must have no contractual right to accelerate payment of principal or interest on the instrument, except in the event of a receivership, insolvency, liquidation, or similar proceeding of the FDIC-supervised institution.
 
@@ -134,9 +138,9 @@
 
 (viii) The FDIC-supervised institution, or an entity that the FDIC-supervised institution controls, has not purchased and has not directly or indirectly funded the purchase of the instrument.
 
-(ix) If the instrument is not issued directly by the FDIC-supervised institution or by a subsidiary of the FDIC-supervised institution that is an operating entity, the only asset of the issuing entity is its investment in the capital of the FDIC-supervised institution, and proceeds must be immediately available without limitation to the FDIC-supervised institution or the FDIC-supervised institution's top-tier holding company in a form that meets or exceeds all the other criteria for tier 2 capital instruments under this section.19
+(ix) If the instrument is not issued directly by the FDIC-supervised institution or by a subsidiary of the FDIC-supervised institution that is an operating entity, the only asset of the issuing entity is its investment in the capital of the FDIC-supervised institution, and proceeds must be immediately available without limitation to the FDIC-supervised institution or the FDIC-supervised institution's top-tier holding company in a form that meets or exceeds all the other criteria for tier 2 capital instruments under this section.20
 
-19 A FDIC-supervised institution may disregard *de minimis* assets related to the operation of the issuing entity for purposes of this criterion.
+20 A FDIC-supervised institution may disregard *de minimis* assets related to the operation of the issuing entity for purposes of this criterion.
 
 (x) Redemption of the instrument prior to maturity or repurchase requires the prior approval of the FDIC.
 
@@ -146,11 +150,15 @@
 
 (3) ALLL or AACL, as applicable, up to 1.25 percent of the FDIC-supervised institution's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk FDIC-supervised institution, its standardized market risk-weighted assets).
 
-(4) Any instrument that qualified as tier 2 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, appendix Z (state saving associations) as then in effect, that were issued under the Small Business Jobs Act of 2010,20 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.21
+(4)(i) Any instrument that qualified as tier 2 capital under the FDIC's general risk-based capital rules under 12 CFR part 325, appendix A (state nonmember banks) and 12 CFR part 390, appendix Z (state saving associations) as then in effect, that were issued under the Small Business Jobs Act of 2010,21 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.22
 
-20 Public Law 111-240; 124 Stat. 2504 (2010)
+21 Public Law 111-240; 124 Stat. 2504 (2010)
 
-21 Public Law 110-343, 122 Stat. 3765 (2008)
+22 Public Law 110-343, 122 Stat. 3765 (2008)
+
+(ii) Any debt instruments issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.23
+
+23 Public Law 116-260.
 
 (5) For an FDIC-supervised institution that makes an AOCI opt-out election (as defined in § 324.22(b)(2), 45 percent of pretax net unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures.
 
@@ -166,4 +174,4 @@
 
 (3) After determining that a regulatory capital element may be included in an FDIC-supervised institution's common equity tier 1 capital, additional tier 1 capital, or tier 2 capital, the FDIC will make its decision publicly available, including a brief description of the material terms of the regulatory capital element and the rationale for the determination.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 4247, Feb. 14, 2019; 84 FR 35271, July 22, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 81 FR 71354, Oct. 17, 2016; 84 FR 4247, Feb. 14, 2019; 84 FR 35271, July 22, 2019; 86 FR 15081, Mar. 22, 2021]

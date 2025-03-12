@@ -1,0 +1,3 @@
+##### § 7.5 Effect on other laws. #####
+
+Nothing in this part shall be construed as altering or affecting any other authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of Federal law, including prohibitions under the National Defense Authorization Act of 2019, the Federal Acquisition Regulations, or IEEPA, or any other authority of the President or the Congress under the Constitution of the United States.

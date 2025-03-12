@@ -1,6 +1,6 @@
 ##### § 1208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
-Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.
+Link to an amendment published at 85 FR 84197, Dec. 23, 2020.This amendment was delayed until Mar. 22, 2021, at 86 FR 6847, Jan. 25, 2021.This amendment was further delayed until Dec. 31, 2021, at 86 FR 15076, Mar. 22, 2021.
 
 (a) *Consideration of application for withholding of removal.* An asylum officer shall not decide whether the exclusion, deportation, or removal of an alien to a country where the alien's life or freedom would be threatened must be withheld, except in the case of an alien who is otherwise eligible for asylum but is precluded from being granted such status due solely to section 207(a)(5) of the Act. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 

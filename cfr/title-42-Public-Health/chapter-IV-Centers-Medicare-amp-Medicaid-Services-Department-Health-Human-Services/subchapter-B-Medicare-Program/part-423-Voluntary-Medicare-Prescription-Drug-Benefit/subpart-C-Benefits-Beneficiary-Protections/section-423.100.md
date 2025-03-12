@@ -1,7 +1,5 @@
 ##### § 423.100 Definitions. #####
 
-Link to an amendment published at 86 FR 6115, Jan. 19, 2021.
-
 As used in this part, unless otherwise specified-
 
 *Actual cost* means the negotiated price for a covered Part D drug when the drug is purchased at a network pharmacy, and the usual and customary price when a beneficiary purchases the drug at an out-of-network pharmacy consistent with § 423.124(a).
@@ -40,7 +38,7 @@ As used in this part, unless otherwise specified-
 
 (1)(i) Approved under a new drug application under section 505(b) of the Federal Food, Drug, and Cosmetic Act (FDCA); or
 
-(ii) In the case of a biological product, licensed under section 351 of the Public Health Service Act (other than a product licensed under subsection (k) of such section 351); and
+(ii) In the case of a biological product, licensed under section 351 of the Public Health Service Act (other than, with respect to a plan year before 2019, a product licensed under subsection (k) of such section 351); and
 
 (2)(i) If the PDP sponsor of the prescription drug plan or the MA organization offering the MA-PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA-PD plan that the applicable beneficiary is enrolled in;
 
@@ -94,9 +92,11 @@ As used in this part, unless otherwise specified-
 
 (1) Has elected to receive hospice care or is receiving palliative or end-of-life care;
 
-(2) Is a resident of a long-term care facility, of a facility described in section 1905(d) of the Act, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or
+(2) Is a resident of a long-term care facility, of a facility described in section 1905(d) of the Act, or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy;
 
-(3) Is being treated for active cancer-related pain.
+(3) Is being treated for active cancer-related pain or
+
+(4) Has sickle cell disease.
 
 *Frequently abused drug* means a controlled substance under the Federal Controlled Substances Act that the Secretary determines is frequently abused or diverted, taking into account all of the following factors:
 
@@ -208,7 +208,7 @@ As used in this part, unless otherwise specified-
 
 *Plan allowance* means the amount Part D plans that offer coverage other than defined standard coverage may use to determine their payment and Part D enrollees' cost-sharing for covered Part D drugs purchased at an out-of-network pharmacy or in a physician's office in accordance with the requirements of § 423.124(b).
 
-*Potential at-risk beneficiary* means a Part D eligible individual -
+*Potential at-risk beneficiary* means a Part D eligible individual who is not an exempted beneficiary (as defined in this section) and -
 
 (1) Who is identified using clinical guidelines (as defined in this section); or
 
@@ -288,4 +288,4 @@ As used in this part, unless otherwise specified-
 
 *Valid prescription* means a prescription that complies with all applicable State law requirements constituting a valid prescription.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20506, Apr. 15, 2008; 74 FR 1543, Jan. 12, 2009; 76 FR 21571, Apr. 15, 2011; 77 FR 22169, Apr. 12, 2012; 77 FR 32407, June 1, 2012; 79 FR 29962, May 23, 2014; 80 FR 7963, Feb. 12, 2015; 80 FR 25966, May 6, 2015; 83 FR 16737, Apr. 16, 2018; 84 FR 15840, Apr. 16, 2019; 86 FR 6115, Jan. 19, 2021]

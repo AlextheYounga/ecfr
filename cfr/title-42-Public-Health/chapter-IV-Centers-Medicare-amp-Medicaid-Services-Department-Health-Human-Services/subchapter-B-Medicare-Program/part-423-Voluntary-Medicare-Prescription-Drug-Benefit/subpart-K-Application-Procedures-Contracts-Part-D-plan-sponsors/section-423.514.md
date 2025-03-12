@@ -1,8 +1,6 @@
 ##### § 423.514 Validation of Part D reporting requirements. #####
 
-Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
-
-(a) *Required information.* Each Part D plan sponsor must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, statistics indicating the following -
+(a) *Required information.* Each Part D plan sponsor must have an effective procedure to develop, compile, evaluate, and report to CMS, to its enrollees, and to the general public, at the times and in the manner that CMS requires, statistics indicating the following—
 
 (1) The cost of its operations.
 
@@ -12,7 +10,9 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (4) Information demonstrating that the Part D plan sponsor has a fiscally sound operation.
 
-(5) Other matters that CMS may require.
+(5) Pharmacy performance measures.
+
+(6) Other matters that CMS may require.
 
 (b) *Significant business transactions.* Each Part D plan sponsor must report to CMS annually, within 120 days of the end of its fiscal year (unless, for good cause shown, CMS authorizes an extension of time), the following:
 
@@ -70,4 +70,4 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (j) *Data validation.* Each Part D sponsor must subject information collected under paragraph (a) of this section to a yearly independent audit to determine its reliability, validity, completeness, and comparability in accordance with specifications developed by CMS.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19822, Apr. 15, 2010; 77 FR 22171, Apr. 12, 2012]
+[70 FR 4525, Jan. 28, 2005, as amended at 75 FR 19822, Apr. 15, 2010; 77 FR 22171, Apr. 12, 2012; 86 FR 6119, Jan. 19, 2021]

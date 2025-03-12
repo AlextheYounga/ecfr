@@ -1,7 +1,5 @@
 ##### § 423.2036 Description of an ALJ hearing process. #####
 
-Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
-
 (a) *The right to appear and present evidence.* (1) An enrollee has the right to appear at the hearing before the ALJ to present evidence and to state his or her position. An enrollee may appear by video-teleconferencing, telephone, or in person as determined under § 423.2020.
 
 (2) An enrollee may also make his or her appearance by means of a representative, who may make his or her appearance by video-teleconferencing, telephone, or in person, as determined under § 423.2020.
@@ -18,9 +16,9 @@ Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
 
 (3) Even if the enrollee waives his or her right to appear at a hearing, the ALJ may require him or her to attend an oral hearing if the ALJ believes that a personal appearance and testimony by the enrollee is necessary to decide the case.
 
-(c) *Presenting written statements and oral arguments.* An enrollee or an enrollee's appointed representative, as defined at § 423.560, may appear before the ALJ to state the enrollee's case, to present a written summary of the case, or to enter written statements about the facts and law material to the case in the record.
+(c) *Presenting written statements and oral arguments.* An enrollee or an enrollee's representative, as defined at § 423.560, may appear before the ALJ to state the enrollee's case, to present a written summary of the case, or to enter written statements about the facts and law material to the case in the record.
 
-(d) *Witnesses at a hearing.* Witnesses may appear at a hearing. They testify under oath or affirmation, unless the ALJ finds an important reason to excuse them from taking an oath or affirmation. The ALJ may ask the witnesses any questions relevant to the issues and allow the enrollee or his or her appointed representative, as defined at § 423.560, to do so.
+(d) *Witnesses at a hearing.* Witnesses may appear at a hearing. They testify under oath or affirmation, unless the ALJ finds an important reason to excuse them from taking an oath or affirmation. The ALJ may ask the witnesses any questions relevant to the issues and allow the enrollee or his or her representative, as defined at § 423.560, to do so.
 
 (e) *What evidence is admissible at a hearing.* The ALJ may receive evidence at the hearing even though the evidence is not admissible in court under the rules of evidence used by the court. However, the ALJ may not consider evidence on any change in condition of an enrollee after a coverage determination or at-risk determination. If the enrollee wishes for the evidence to be considered, the ALJ must remand the case to the Part D IRE as set forth in § 423.2056(e).
 
@@ -44,4 +42,4 @@ Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
 
 (iv) The ALJ must promptly mail a copy of the notice and related documents to the individual or entity subject to the subpoena, to the enrollee, and to any other affected person.
 
-[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5133, Jan. 17, 2017; 83 FR 16754, Apr. 16, 2018; 84 FR 19873, May 7, 2019]
+[74 FR 65363, Dec. 9, 2009, as amended at 82 FR 5133, Jan. 17, 2017; 83 FR 16754, Apr. 16, 2018; 84 FR 19873, May 7, 2019; 86 FR 6121, Jan. 19, 2021]

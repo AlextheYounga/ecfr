@@ -1,7 +1,5 @@
 ##### § 423.505 Contract provisions. #####
 
-Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
-
 (a) *General rule.* The contract between the Part D plan sponsor and CMS must contain the provisions specified in paragraph (b) of this section.
 
 (b) *Requirements for contracts.* The Part D plan sponsor agrees to -
@@ -56,11 +54,7 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (iii) Disclose all individual drug prices to be updated to the applicable pharmacies in advance of their use for reimbursement of claims, if the source for any prescription drug pricing standard is not publicly available.
 
-(22) Address complaints received by CMS against the Part D sponsor by -
-
-(i) Addressing and resolving complaints in the CMS complaint tracking system.
-
-(ii) Displaying a link to the electronic complaint form on the Medicare.gov Internet Web site on the Part D plan's main Web page.
+(22) Through the CMS complaint tracking system, address and resolve complaints received by CMS against the MA organization.
 
 (23) Maintain a fiscally sound operation by at least maintaining a positive net worth (total assets exceed total liabilities).
 
@@ -376,4 +370,4 @@ Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
 
 (v) Operation of call center customer services.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018]
+[70 FR 4525, Jan. 28, 2005, as amended at 73 FR 20507, Apr. 15, 2008; 73 FR 30683, May 28, 2008; 73 FR 54251, Sept. 18, 2008; 73 FR 70599, Nov. 21, 2008; 74 FR 1545, Jan. 12, 2009; 75 FR 19821, Apr. 15, 2010; 76 FR 21574, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22170, Apr. 12, 2012; 79 FR 29964, May 23, 2014; 80 FR 7964, Feb. 12, 2015; 81 FR 80557, Nov. 15, 2016; 83 FR 16750, Apr. 16, 2018; 86 FR 6119, Jan. 19, 2021]

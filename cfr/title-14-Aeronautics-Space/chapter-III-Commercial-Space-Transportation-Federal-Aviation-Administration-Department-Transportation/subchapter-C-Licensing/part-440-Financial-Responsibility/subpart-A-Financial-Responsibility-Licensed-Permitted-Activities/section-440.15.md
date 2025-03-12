@@ -1,16 +1,14 @@
 ##### § 440.15 Demonstration of compliance. #####
 
-Link to an amendment published at 85 FR 79719, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 (a) A licensee or permittee must submit to the FAA evidence of financial responsibility and compliance with allocation of risk requirements under this part, as follows, unless a license or permit order specifies otherwise due to the proximity of the intended date for commencement of licensed or permitted activities:
 
-(1) All reciprocal waiver of claims agreements required under § 440.17(c) must be submitted at least 30 days before the start of any licensed or permitted activity involving a customer, crew member, or space flight participant;
+(1) All reciprocal waiver of claims agreements required under § 440.17(c) must be submitted at least 30 days before the start of any licensed or permitted activity involving a customer, crew member, or space flight participant; unless the Administrator agrees to a different time frame in accordance with § 404.15;
 
-(2) Evidence of insurance must be submitted at least 30 days before commencement of any licensed launch or permitted activity, and for licensed reentry no less than 30 days before commencement of launch activities involving the reentry licensee;
+(2) Evidence of insurance must be submitted at least 30 days before commencement of any licensed launch or permitted activity, and for licensed reentry no less than 30 days before commencement of launch activities involving the reentry licensee, unless the Administrator agrees to a different time frame in accordance with § 404.15;
 
-(3) Evidence of financial responsibility in a form other than insurance, as provided under § 440.9(f), must be submitted at least 60 days before commencement of a licensed or permitted activity; and
+(3) Evidence of financial responsibility in a form other than insurance, as provided under § 440.9(f) must be submitted at least 60 days before commencement of a licensed or permitted activity, unless the Administrator agrees to a different time frame in accordance with § 404.15; and
 
-(4) Evidence of renewal of insurance or other form of financial responsibility must be submitted at least 30 days in advance of its expiration date.
+(4) Evidence of renewal of insurance or other form of financial responsibility must be submitted at least 30 days in advance of its expiration date, unless the Administrator agrees to a different time frame in accordance with § 404.15.
 
 (b) Upon a complete demonstration of compliance with financial responsibility and allocation of risk requirements under this part, the requirements of this part shall preempt each and any provision in any agreement between the licensee or permittee and an agency of the United States governing access to or use of United States launch or reentry property or launch or reentry services for a licensed or permitted activity which addresses financial responsibility, allocation of risk and related matters covered by 51 U.S.C. 50914, 50915.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 79719, Dec. 10, 2020.Link to an extensio
 
 (f) In the event the licensee or permittee demonstrates financial responsibility using means other than insurance, as provided under § 440.9(f), the licensee or permittee must provide proof that it has met the requirements of this part and of a FAA issued license or permit order.
 
-[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20533, Apr. 5, 2012]
+[Doc. No. FAA-2005-23449, 71 FR 75632, Dec. 15, 2006, as amended by Amdt. 440-3, 77 FR 20533, Apr. 5, 2012; Docket No. FAA-2019-0229, Amdt. 440-5, 85 FR 79718, Dec. 10, 2020]

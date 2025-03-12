@@ -1,39 +1,35 @@
 ##### § 423.2260 Definitions. #####
 
-Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+The definitions in this section apply for this subpart unless the context indicates otherwise.
 
-As used in this subpart -
+*Advertisement (Ad) means* a read, written, visual, oral, watched, or heard bid for, or call to attention. Advertisements can be considered communication or marketing based on the intent and content of the message.
 
-*Communications* means activities and use of materials to provide information to current and prospective enrollees.
+*Alternate format* means used to convey information to individuals with visual, speech, physical, hearing, and intellectual disabilities (for example, braille, large print, audio).
 
-*Communication materials* means all information provided to current and prospective enrollees. Marketing materials are a subset of communication materials.
+*Banner* means a type of advertisement feature typically used in television ads that is intended to be brief, and flashes limited information across a screen for the sole purpose of enticing a prospective enrollee to contact the Part D sponsor (for example, obtain more information) or to alert the viewer that information is forthcoming.
 
-*Marketing means* activities and use of materials that meet the following:
+*Banner-like advertisement* is an advertisement that uses a banner-like feature, that is typically found in some media other than television (for example, outdoors and on the internet).
 
-(1) Conducted by the MA organization or downstream entities.
+*Communications* means activities and use of materials created or administered by the Part D sponsor or any downstream entity to provide information to current and prospective enrollees. Marketing is a subset of communications.
 
-(2) Intended to draw a beneficiary's attention to a MA plan or plans.
+*Marketing* means communications materials and activities that meet both the following standards for intent and content:
 
-(3) Intended to influence a beneficiary's decision-making process when selecting a MA plan for enrollment or deciding to stay enrolled in a plan (that is, retention-based marketing).
+(1) Intended, as determined under paragraph (1)(ii) of this definition, to do any of the following:
 
-*Marketing materials* - (1) Include, but are not limited to following:
+(i)(A) Draw a beneficiary's attention to a Part D plan or plans.
 
-(i) Materials such as brochures; posters; advertisements in media such as newspapers, magazines, television, radio, billboards, or the internet; and social media content.
+(B) Influence a beneficiary's decision making process when making a Part D plan selection.
 
-(ii) Materials used by marketing representatives such as scripts or outlines for telemarketing or other presentations.
+(C) Influence a beneficiary's decision to stay enrolled in a Part D plan (that is, retention-based marketing).
 
-(iii) Presentation materials such as slides and charts.
+(ii) In evaluating the intent of an activity or material, CMS will consider objective information including, but not limited to, the audience of the activity or material, other information communicated by the activity or material, timing, and other context of the activity or material and is not limited to the Part D sponsor's stated intent.
 
-(2) *Marketing materials* exclude materials that -
+(2) Include or address content regarding any of the following:
 
-(i) Do not include information about the plan's benefit structure or cost sharing;
+(i) The plan's benefits, benefits structure, premiums or cost sharing.
 
-(ii) Do not include information about measuring or ranking standards (for example, star ratings);
+(ii) Measuring or ranking standards (for example, Star Ratings or plan comparisons).
 
-(iii) Mention benefits or cost sharing, but do not meet the definition of marketing in this section;
+*Outdoor advertising (ODA)* means outdoor material intended to capture the attention of a passing audience (for example, billboards, signs attached to transportation vehicles). ODA may be a communication or marketing material.
 
-(iv) Are required under § 423.128, unless otherwise specified by CMS based on their use or purpose; or
-
-(v) Are specifically designated by CMS as not meeting the definition of the marketing definition based on their use or purpose.
-
-[83 FR 27915, June 15, 2018]
+[86 FR 6121, Jan. 19, 2021]

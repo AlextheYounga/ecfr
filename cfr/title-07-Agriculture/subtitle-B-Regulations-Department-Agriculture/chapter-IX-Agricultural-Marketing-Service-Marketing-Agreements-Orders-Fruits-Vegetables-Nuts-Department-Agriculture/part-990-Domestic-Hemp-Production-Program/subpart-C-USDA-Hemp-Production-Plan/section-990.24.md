@@ -1,11 +1,15 @@
-##### § 990.24 Responsibility of a USDA licensed producer prior to harvest. #####
+##### § 990.24 Responsibility of a USDA licensee prior to harvest. #####
 
-(a) Within 15 days prior to the anticipated harvest of cannabis plants, a producer shall have an approved Federal, State, local law enforcement agency or other USDA designated person collect samples from the flower material of such cannabis material for delta-9 tetrahydrocannabinol concentration level testing.
+USDA licensees must:
 
-(b) The method used for sampling from the flower material of the cannabis plant must be sufficient at a confidence level of 95 percent that no more than one percent (1%) of the plants in the lot would exceed the acceptable hemp THC level. The method used for sampling must ensure that a representative sample is collected that represents a homogeneous composition of the lot.
+(a) No more than 30 days prior to the anticipated harvest of cannabis plants, have a sampling agent collect samples from the cannabis plant for total delta-9 tetrahydrocannabinol concentration level testing.
 
-(c) During a scheduled sample collection, the producer or an authorized representative of the producer shall be present at the growing site.
+(b) Have samples collected from the flowering tops of the plant by cutting the top five to eight inches from the “main stem” (that includes the leaves and flowers), “terminal bud” (that occurs at the end of a stem), ”or “central cola” (cut stem that could develop into a bud) of the flowering top of the plant. Sampling guidelines and training requirements for sampling agents are available from USDA. The method used for sampling must be sufficient at a confidence level of 95 percent that no more than one percent (1%) of the plants in the lot would exceed the acceptable hemp THC level. The method used for sampling must ensure that a representative sample is collected that represents a homogeneous composition of the lot.
 
-(d) Representatives of the sampling agency shall be provided with complete and unrestricted access during business hours to all hemp and other cannabis plants, whether growing or harvested, and all land, buildings, and other structures used for the cultivation, handling, and storage of all hemp and other cannabis plants, and all locations listed in the producer license.
+(c) Have an authorized representative of the USDA licensee present at the growing site during a scheduled sample collection, if possible.
 
-(e) A producer shall not harvest the cannabis crop prior to samples being taken.
+(d) Ensure that sampling agents are provided with complete and unrestricted access during business hours to all hemp and other cannabis plants, (whether growing or harvested), all hemp production and storage areas, all land, buildings, and other structures used for the cultivation, handling, and storage of all hemp and other cannabis plants, and all locations listed in the producer license.
+
+(e) Not harvest the cannabis crop prior to samples being taken.
+
+(f) Use post-harvest samples only for remediated biomass.

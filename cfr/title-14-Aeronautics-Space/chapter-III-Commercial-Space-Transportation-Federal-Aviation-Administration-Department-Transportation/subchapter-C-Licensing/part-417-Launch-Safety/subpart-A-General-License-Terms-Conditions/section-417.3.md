@@ -1,22 +1,10 @@
 ##### § 417.3 Definitions and acronyms. #####
 
-Link to an amendment published at 85 FR 79716, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 For the purpose of this part,
 
 *Command control system* means the portion of a flight safety system that includes all components needed to send a flight termination control signal to an onboard vehicle flight termination system. A command control system starts with any flight termination activation switch at a flight safety crew console and ends at each command-transmitting antenna. It includes all intermediate equipment, linkages, and software and any auxiliary transmitter stations that ensure a command signal will reach the onboard vehicle flight termination system from liftoff until the launch vehicle achieves orbit or can no longer reach a populated or other protected area.
 
 *Command destruct system* means a portion of a flight termination system that includes all components on board a launch vehicle that receive a flight termination control signal and achieve destruction of the launch vehicle. A command destruct system includes all receiving antennas, receiver decoders, explosive initiating and transmission devices, safe and arm devices and ordnance necessary to achieving destruction of the launch vehicle upon receipt of a destruct command.
-
-*Conjunction on launch* means the approach of a launch vehicle or any launch vehicle component or payload within 200 kilometers of a manned or mannable orbiting object -
-
-(1) During the flight of an unguided suborbital rocket; or
-
-(2) For an orbital launch vehicle during -
-
-(i) The ascent to initial orbital insertion and through at least one complete orbit; and
-
-(ii) Each subsequent orbital maneuver or burn from initial park orbit, or direct ascent to a higher or interplanetary orbit.
 
 *Countdown* means the timed sequence of events that must take place to initiate flight of a launch vehicle.
 
@@ -30,7 +18,7 @@ For the purpose of this part,
 
 *Drag impact point* means a launch vehicle instantaneous impact point corrected for atmospheric drag.
 
-*Dwell time* means -
+*Dwell time* means—
 
 (1) The period during which a launch vehicle instantaneous impact point is over a populated or other protected area; or
 
@@ -40,7 +28,7 @@ For the purpose of this part,
 
 *Fail-over* means a method of ensuring continuous or near continuous operation of a command transmitter system by automatically switching from a primary transmitter to a secondary transmitter when a condition exists that indicates potential failure of the primary transmitter.
 
-*Family performance data* means -
+*Family performance data* means—
 
 (1) Results of launch vehicle component and system tests that represent similar characteristics for a launch vehicle component or system; and
 
@@ -69,8 +57,6 @@ For the purpose of this part,
 *Launch crew* means all personnel who control the countdown and flight of a launch vehicle or who make irrevocable operational decisions that have the potential for impacting public safety. A launch crew includes members of the flight safety crew.
 
 *Launch processing* means all preflight preparation of a launch vehicle at a launch site, including buildup of the launch vehicle, integration of the payload, and fueling.
-
-*Launch wait* means a relatively short period of time when launch is not permitted in order to avoid a conjunction on launch or to safely accommodate temporary intrusion into a flight hazard area. A launch wait can occur within a launch window, can delay the start of a launch window, or terminate a launch window early.
 
 *Launch window* means a period of time during which the flight of a launch vehicle may be initiated.
 
@@ -117,3 +103,5 @@ For the purpose of this part,
 *Uprange* means the distance measured along a line that is 180 degrees to the downrange direction. The term uprange may also be used to indicate direction.
 
 *Waiver* means a decision that allows a launch operator to continue with a launch despite not satisfying a specific safety requirement and where the launch operator is not able to demonstrate an equivalent level of safety.
+
+[Docket No. FAA-2000-7953, 71 FR 50537, Aug. 25, 2006, as amended by Doc. No. FAA-2019-0229, Amdt. 417-6, 85 FR 79716, Dec. 10, 2020]

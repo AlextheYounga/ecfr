@@ -1,5 +1,7 @@
 ##### § 627.2745 Priority of claims - associations. #####
 
+Link to an amendment published at 86 FR 15083, Mar. 22, 2021.
+
 The following priority of claims shall apply to the distribution of the assets of an association in liquidation:
 
 (a) All costs, expenses, and debts incurred by the receiver in connection with the administration of the receivership.

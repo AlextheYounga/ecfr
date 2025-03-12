@@ -1,3 +1,1 @@
-##### § 990.62 Expiration of this part. #####
-
-This part expires on November 1, 2021 unless extended by notification in the Federal Register. State and Tribal plans approved under subpart B of this part remain in effect after November 1, 2021 unless USDA disapproves the plan. USDA hemp producer licenses issued under subpart C of this part remain in effect until they expire unless USDA revokes or suspends the license.
+##### § 990.62 [Reserved] #####

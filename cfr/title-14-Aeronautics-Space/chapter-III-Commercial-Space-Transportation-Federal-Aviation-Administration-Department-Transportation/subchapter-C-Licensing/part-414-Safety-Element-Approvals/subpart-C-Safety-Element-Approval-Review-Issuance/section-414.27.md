@@ -1,0 +1,5 @@
+##### § 414.27 Maintaining the continued accuracy of the safety element approval application. #####
+
+(a) The holder of a safety element approval must ensure the continued accuracy and completeness of representations contained in the safety element approval application, on which the approval was issued, for the entire term of the safety element approval.
+
+(b) If any representation contained in the application that is material to public health and safety or safety of property ceases to be accurate and complete, the safety element approval holder must prepare and submit a revised application according to § 414.13 or § 414.15 under this part. The safety element approval holder must point out any part of the safety element approval or the associated application that would be changed or affected by a proposed modification. The FAA will review and make a determination on the revised application under the terms of this part.

@@ -1,14 +1,20 @@
 ##### § 422.102 Supplemental benefits. #####
 
-Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
-
 (a) *Mandatory supplemental benefits.* (1) Subject to CMS approval, an MA organization may require Medicare enrollees of an MA plan (other than an MSA plan) to accept or pay for services in addition to Medicare-covered services described in § 422.101.
 
 (2) If the MA organization imposes mandatory supplemental benefits, it must impose them on all Medicare beneficiaries enrolled in the MA plan.
 
 (3) CMS approves mandatory supplemental benefits if the benefits are designed in accordance with CMS' guidelines and requirements as stated in this part and other written instructions.
 
-(4) Beginning in 2006, an MA plan may reduce cost sharing below the actuarial value specified in section 1854(e)(4)(A) of the Act only as a mandatory supplemental benefit.
+(4) Beginning in 2006, an MA plan may reduce cost sharing below the actuarial value specified in section 1854(e)(4)(A) of the Act for Part A and B benefits only as a mandatory supplemental benefit.
+
+(5) An MA plan may reduce the cost sharing for items and services that are not basic benefits only as a mandatory supplemental benefit (reductions or payment of cost sharing for Part D drugs is not permissible as a Part C supplemental benefit).
+
+(6) An MA plan may offer mandatory supplemental benefits in the following forms:
+
+(i) Reductions in cost sharing through the use of reimbursement, through a debit card or other means, for cost sharing paid for covered benefits. Reimbursements must be limited to the specific plan year.
+
+(ii) Use of a uniform dollar amount as a maximum plan allowance for a package of supplemental benefits, including reductions in cost sharing or coverage of specific items and services, available to enrollees on a uniform basis for enrollee use for any supplemental benefit in the package. Allowance must be limited to the specific plan year.
 
 (b) *Optional supplemental benefits.* Except as provided in § 422.104 in the case of MSA plans, each MA organization may offer (for election by the enrollee and without regard to health status) services that are not included in the basic benefits as described in § 422.100(c) and any mandatory supplemental benefits described in paragraph (a) of this section. Optional supplemental benefits are purchased at the discretion of the enrollee and must be offered to all Medicare beneficiaries enrolled in the MA plan.
 
@@ -16,13 +22,13 @@ Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
 
 (d) *Supplemental benefits packaging.* MA organizations may offer enrollees a group of services as one optional supplemental benefit, offer services individually, or offer a combination of groups and individual services.
 
-(e) *Supplemental benefits for certain dual eligible special needs plans.* Subject to CMS approval, fully integrated dual eligible special needs plans and highly integrated dual eligible special needs plans that meet minimum performance and quality-based standards may offer additional supplemental benefits, consistent with the requirements of this part, where CMS finds that the offering of such benefits could better integrate care for the dual eligible population provided that the special needs plan -
+(e) *Supplemental benefits for certain dual eligible special needs plans.* Subject to CMS approval, fully integrated dual eligible special needs plans and highly integrated dual eligible special needs plans that meet minimum performance and quality-based standards may offer additional supplemental benefits, consistent with the requirements of this part, where CMS finds that the offering of such benefits could better integrate care for the dual eligible population provided that the special needs plan—
 
 (1) Operated in the MA contract year prior to the MA contract year for which it is submitting its bid; and
 
 (2) Offers its enrollees such benefits without cost-sharing or additional premium charges.
 
-(f) *Special supplemental benefits for the chronically ill (SSBCI)* - (1) *Requirements* - (i) *Chronically-ill enrollee.* (A) A chronically ill enrollee is an individual enrolled in the MA plan who has one or more comorbid and medically complex chronic conditions that meet all of the following:
+(f) *Special supplemental benefits for the chronically ill (SSBCI)*—(1) *Requirements*—(i) *Chronically-ill enrollee.* (A) A chronically ill enrollee is an individual enrolled in the MA plan who has one or more comorbid and medically complex chronic conditions that meet all of the following:
 
 (*1*) Is life threatening or significantly limits the overall health or function of the enrollee;
 
@@ -50,4 +56,4 @@ Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
 
 (iv) Document each determination that an enrollee is eligible to receive an SSBCI and make this information available to CMS upon request.
 
-[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 85 FR 33903, June 2, 2020]
+[65 FR 40320, June 29, 2000, as amended at 70 FR 4720, Jan. 28, 2005; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 85 FR 33903, June 2, 2020; 86 FR 6095, Jan. 19, 2021]

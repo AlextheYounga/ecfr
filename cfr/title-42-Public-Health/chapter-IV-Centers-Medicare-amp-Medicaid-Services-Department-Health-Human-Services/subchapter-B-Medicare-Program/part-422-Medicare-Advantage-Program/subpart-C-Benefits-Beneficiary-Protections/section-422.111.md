@@ -1,7 +1,5 @@
 ##### § 422.111 Disclosure requirements. #####
 
-Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
-
 (a) *Detailed description.* An MA organization must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee electing an MA plan it offers;
@@ -51,8 +49,6 @@ Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
 (10) Disenrollment rights and responsibilities.
 
 (11) *Catastrophic caps and single deductible.* MA organizations sponsoring MA regional plans are required to provide enrollees a description of the catastrophic stop-loss coverage and single deductible (if any) applicable under the plan.
-
-(12) *Claims information.* CMS may require an MA organization to furnish directly to enrollees, in the manner specified by CMS and in a form easily understandable to such enrollees, a written explanation of benefits, when benefits are provided under this part.
 
 (c) *Disclosure upon request.* Upon request of an individual eligible to elect an MA plan, an MA organization must provide to the individual the following information:
 
@@ -140,11 +136,31 @@ Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
 
 (1) A toll-free customer service call center that meets all of the following:
 
-(i) Is open during usual business hours.
+(i)(A)Is open during usual business hours.
+
+(B) For coverage beginning on and after January 1, 2022, is open at least from 8:00 a.m. to 8:00 p.m. in all service areas served by the Part C plan, with the following exceptions:
+
+*(1)* From October 1 through March 31 of the following year, a customer call center may be closed on Thanksgiving Day and Christmas Day so long as the interactive voice response (IVR) system or similar technology records messages from incoming callers and such messages are returned within one (1) business day.
+
+*(2)* From April 1 through September 30, a customer call center may be closed any Federal holiday, Saturday, or Sunday, so long as the interactive voice response (IVR) system or similar technology records messages from incoming callers and such messages are returned within one (1) business day.
 
 (ii) Provides customer telephone service in accordance with standard business practices.
 
-(iii) Provides interpreters for non-English speaking and limited English proficient (LEP) individuals.
+(A) For coverage beginning on and after January 1, 2022, limits average hold time to no longer than 2 minutes. The hold time is defined as the time spent on hold by callers following the interactive voice response (IVR) system, touch-tone response system, or recorded greeting, before reaching a live person.
+
+(B) For coverage beginning on and after January 1, 2022, answers 80 percent of incoming calls within 30 seconds after the interactive voice response (IVR), touch-tone response system, or recorded greeting interaction.
+
+(C) For coverage beginning on and after January 1, 2022, limits the disconnect rate of all incoming calls to no higher than 5 percent. The disconnect rate is defined as the number of calls unexpectedly dropped divided by the total number of calls made to the customer call center.
+
+(iii)(A) Provides interpreters for non-English speaking and limited English proficient (LEP) individuals.
+
+(B) For coverage beginning on and after January 1, 2022, interpreters must be available for 80 percent of incoming calls requiring an interpreter within 8 minutes of reaching the customer service representative and be made available at no cost to the caller.
+
+(iv) At a minimum, for coverage beginning on and after January 1, 2022:
+
+(A) Provides effective real-time communication with individuals using auxiliary aids and services, including TTYs and all forms of Federal Communication Commission-approved telecommunications relay systems, when using automated-attendant systems. See 28 CFR 35.161 and 36.303(d).
+
+(B) Connects 80 percent of incoming calls requiring TTY services to a TTY operator within 7 minutes.
 
 (2) An Internet Web site that includes, at a minimum the following:
 
@@ -158,4 +174,66 @@ Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
 
 (i) *Provision of information required for access to covered services.* MA plans must issue and reissue (as appropriate) member identification cards that enrollees may use to access covered services under the plan. The cards must comply with standards established by CMS.
 
-[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019]
+(j) *Safe disposal of certain prescription drugs.* Information regarding the safe disposal of prescription drugs that are controlled substances and drug takeback programs must be provided in the case of an individual enrolled under an MA plan who is furnished an in-home health risk assessment on or after January 1, 2022. For purposes of this paragraph (j), a health risk assessment furnished to an individual who is residing in an institutional setting, such as a nursing facility, that has the primary responsibility for the disposal of unused medications, is not considered an in-home health risk assessment. As part of the in-home health risk assessment, the enrollee must be furnished written supporting materials describing how to safely dispose of medications that are controlled substances as well as a verbal summary of the written information as described at paragraphs (j)(1) through (6) of this section when possible. The written information furnished to enrollees about the safe disposal of medications and takeback programs must include the following information for enrollees:
+
+(1) Unused medications should be disposed of as soon as possible.
+
+(2) The U.S. Drug Enforcement Administration (DEA) allows unused prescription medications to be mailed back to pharmacies and other authorized sites using packages made available at such pharmacies or other authorized sites. Include a web link to the information available on the DEA website at *www.deatakeback.com* and the web link to the DEA search engine which enables beneficiaries to identify drug take back sites in their community at the following web address: *https://apps2.deadiversion.usdoj.gov/pubdispsearch/spring/main?execution=e2s1.*
+
+(3) Community take back sites are the preferred method of disposing of unused controlled substances.
+
+(4) The location of two or more drug take back sites that are available in the community where the enrollee resides.
+
+(5) Instructions on how to safely dispose of medications in household trash or of cases when a medication can be safely flushed. Include instructions on removing personal identification information when disposing of prescription containers. If applicable, the instructions may also include information on the availability of in-home drug deactivation kits in the enrollee's community.
+
+(6) Include a web link to the information available on the United States Department of Health and Human Services website identifying methods for the safe disposal of drugs available at the following web address: *www.hhs.gov/opioids/prevention/safely-dispose-drugs/index.html*
+
+(k) *Claims information.* MA organizations must furnish directly to enrollees, in the manner specified by CMS and in a form easily understandable to such enrollees, a written explanation of benefits, when benefits are provided under this part.
+
+(1) *Information requirements for the reporting period.* Claims data elements presented on the explanation of benefits must include all of the following for the reporting period:
+
+(i) The descriptor and billing code for the item or service billed by the provider, and the corresponding amount billed.
+
+(ii) The total cost approved by the plan for reimbursement.
+
+(iii) The share of total cost paid for by the plan.
+
+(iv) The share of total cost for which the enrollee is liable.
+
+(2) *Information requirements for year-to-date totals.* Claims data elements presented on the explanation of benefits must include specific year-to-date totals as follows:
+
+(i) The cumulative amount billed by all providers.
+
+(ii) The cumulative total costs approved by the plan.
+
+(iii) The cumulative share of total cost paid for by the plan.
+
+(iv) The cumulative share of total cost for which the enrollee is liable.
+
+(v) The amount an enrollee has incurred toward the MOOP limit, as applicable.
+
+(vi) The amount an enrollee has incurred toward the deductible, as applicable.
+
+(3) *Additional information requirements.* (i) Each explanation of benefits must include clear contact information for enrollee customer service.
+
+(ii) Each explanation of benefits must include instructions on how to report fraud.
+
+(iii) Each EOB that includes a denied claim must clearly identify the denied claim and provide information about enrollee appeal rights, but the EOB does not replace the notice required by §§ 422.568 and 422.570.
+
+(4) *Reporting cycles for explanation of benefits.* MA organizations must send an explanation of benefits on either a monthly cycle or a quarterly cycle with per-claim notifications.
+
+(i) A monthly explanation of benefits must include all claims processed in the prior month and, for each claim, the information in paragraphs (k)(1) and (2) of this section as of the last day of the prior month.
+
+(A) The monthly explanation of benefits must be sent before the end of each month that follows the month a claim was filed.
+
+(B) [Reserved]
+
+(ii) A quarterly explanation of benefits must include all claims processed in the quarter and, for each claim, the information in paragraphs (k)(1) and (2) of this section as of the last day of the quarter; a per-claim notification must include all claims processed in the prior month and, for each claim, the information specified in paragraph (k)(1) of this section as of the last day of the prior month.
+
+(A) MA organizations that send the explanation of benefits on a quarterly cycle with per-claim notifications must send the quarterly explanation of benefits before the end of each month that follows the quarter in which a claim was filed.
+
+(B) MA organizations that send the explanation of benefits on a quarterly cycle with per-claim notifications must send the per-claim notification before the end of each month that follows the month in which a claim was filed.
+
+(5) *Exceptions.* MA organizations are not required to send the explanation of benefits to dual-eligible enrollees.
+
+[63 FR 35077, June 26, 1998, as amended at 64 FR 7980, Feb. 17, 1999; 65 FR 40321, June 29, 2000; 68 FR 50857, Aug. 22, 2003; 70 FR 4722, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 73 FR 54220, 54249, Sept. 18, 2008; 75 FR 19805, Apr. 15, 2010; 76 FR 21563, Apr. 15, 2011; 77 FR 22167, Apr. 12, 2012; 80 FR 7959, Feb. 12, 2015; 83 FR 16724, Apr. 16, 2018; 84 FR 15828, Apr. 16, 2019; 86 FR 6095, Jan. 19, 2021]

@@ -1,7 +1,5 @@
 ##### § 422.166 Calculation of Star Ratings. #####
 
-Link to an amendment published at 86 FR 6098, Jan. 19, 2021.
-
 (a) *Measure Star Ratings* - (1) *Cut points.* CMS will determine cut points for the assignment of a Star Rating for each numeric measure score by applying either a clustering or a relative distribution and significance testing methodology. For the Part D measures, CMS will determine MA-PD and PDP cut points separately.
 
 (2) *Clustering algorithm for all measures except CAHPS measures.* (i) The method maximizes differences across the star categories and minimizes the differences within star categories using mean resampling with the hierarchal clustering of the current year's data. Effective for the Star Ratings issued in October 2022 and subsequent years, CMS will add a guardrail so that the measure-threshold-specific cut points for non-CAHPS measures do not increase or decrease more than the value of the cap from 1 year to the next. Effective for the Star Ratings issued in October 2023 and subsequent years, prior to applying mean resampling with hierarchal clustering, Tukey outer fence outliers are removed. The cap is equal to 5 percentage points for measures having a 0 to 100 scale (absolute percentage cap) or 5 percent of the restricted range for measures not having a 0 to 100 scale (restricted range cap). New measures that have been in the Part C and D Star Rating program for 3 years or less use the hierarchal clustering methodology with mean resampling with no guardrail for the first 3 years in the program.
@@ -91,6 +89,22 @@ Link to an amendment published at 86 FR 6098, Jan. 19, 2021.
 (iv) The overall rating is on a 1- to 5-star scale ranging from 1 (worst rating) to 5 (best rating) in half-increments using traditional rounding rules.
 
 (v) Low enrollment contracts (as defined in § 422.252) and new MA plans (as defined in § 422.252) do not receive an overall and/or summary rating. They are treated as qualifying plans for the purposes of QBPs as described in § 422.258(d)(7) and as announced through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act.
+
+(vi) The QBP ratings for contracts that do not have sufficient data to calculate and assign ratings and do not meet the definition of low enrollment or new MA plans at § 422.252 are assigned as follows:
+
+(A) For a new contract under an existing parent organization that has other MA contract(s) with numeric Star Ratings in November when the preliminary QBP ratings are calculated for the contract year that begins 14 months later, the QBP rating assigned is the enrollment-weighted average highest rating of the parent organization's other MA contract(s) that are active as of the April when the final QBP ratings are released under § 422.162(b)(4). The Star Ratings used in this calculation are the rounded stars (to the whole or half star) that are publicly displayed on *www.medicare.gov.* The enrollment figures used in the enrollment-weighted calculations are the November enrollment in the year the Star Ratings are released.
+
+(B) For a new contract under a parent organization that does not have other MA contract(s) with numeric Star Ratings in November when the preliminary QBP ratings are calculated for the contract year that begins 14 months later, the MA Star Ratings for the previous 3 years are used and the QBP rating is the enrollment-weighted average of the MA contract(s)'s highest ratings from the most recent year rated for that parent organization.
+
+(*1*) The Star Ratings had to be publicly reported on *www.medicare.gov.*
+
+(*2*) The Star Ratings used in this calculation are rounded to the whole or half star.
+
+(C) The enrollment figures used in the enrollment-weighted calculations are the November enrollment in the year the Star Ratings are released.
+
+(D) The QBP ratings are updated for any changes in a contract's parent organization that are reflected in CMS records prior to the release of the final QBP ratings in April of each year.
+
+(E) Once the QBP ratings are finalized in April of each year for the following contract year, no additional parent organization changes are used for purposes of assigning QBP ratings.
 
 (e) *Measure weights* - (1) *General rules.* Subject to paragraphs (e)(2) and (3) of this section, CMS will assign weights to measures based on their categorization as follows.
 
@@ -283,6 +297,7 @@ Link to an amendment published at 86 FR 6098, Jan. 19, 2021.
 (7) *Exclusion from improvement measures.* Any measure that reverts back to the data underlying the previous year's Star Rating due to the adjustments made in paragraph (i) of this section is excluded from both the count of measures and the applicable improvement measures for the current and next year's Star Ratings for the affected contract. Contracts affected by extreme and uncontrollable circumstances do not have the option of reverting to the prior year's improvement rating.
 
 (8) *Missing data.* For an affected contract that has missing data in the current or previous year, the final measure rating comes from the current year unless any of the exemptions described in paragraphs (i)(2)(ii), (i)(3)(ii), and (i)(4)(ii) of this section apply.
+Missing data includes data where there is a data integrity issue as defined at § 422.164(g)(1).
 
 (9) *Cut points for non-CAHPS measures.* (i) CMS excludes the numeric values for affected contracts with 60 percent or more of their enrollees in the FEMA-designated Individual Assistance area at the time of the extreme and uncontrollable circumstance from the clustering algorithms described in paragraph (a)(2) of this section.
 
@@ -312,4 +327,4 @@ Link to an amendment published at 86 FR 6098, Jan. 19, 2021.
 
 (ii) [Reserved]
 
-[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15830, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 85 FR 33907, June 2, 2020; 85 FR 54872, Sept. 2, 2020]
+[83 FR 16725, Apr. 16, 2018, as amended at 84 FR 15830, Apr. 16, 2019; 85 FR 19290, Apr. 6, 2020; 85 FR 33907, June 2, 2020; 85 FR 54872, Sept. 2, 2020; 86 FR 6098, Jan. 19, 2021]

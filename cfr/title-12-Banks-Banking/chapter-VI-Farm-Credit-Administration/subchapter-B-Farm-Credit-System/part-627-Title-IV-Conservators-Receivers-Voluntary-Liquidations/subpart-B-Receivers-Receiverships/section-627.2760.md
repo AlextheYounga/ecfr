@@ -1,5 +1,7 @@
 ##### § 627.2760 Inventory, audit, and reports. #####
 
+Link to an amendment published at 86 FR 15083, Mar. 22, 2021.
+
 (a) As soon as practicable after taking possession of an institution, the receiver shall make an inventory of the assets and liabilities as of the date possession was taken.
 
 (b) The institution in receivership shall be audited on an annual basis by a certified public accountant selected by the receiver.

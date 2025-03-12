@@ -1,7 +1,5 @@
 ##### § 460.102 Interdisciplinary team. #####
 
-Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
-
 (a) *Basic requirement.* A PACE organization must meet the following requirements:
 
 (1) Establish an interdisciplinary team, composed of members that fill the roles described in paragraph (b) of this section, at each PACE center to comprehensively assess and meet the individual needs of each participant.
@@ -48,13 +46,31 @@ Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
 
 (ii) Overseeing a participant's use of medical specialists and inpatient care.
 
-(d) *Responsibilities of interdisciplinary team.* (1) The interdisciplinary team is responsible for the initial assessment, periodic reassessments, plan of care, and coordination of 24 hour care delivery.
+(d) *Responsibilities of interdisciplinary team.* (1) The interdisciplinary team is responsible for the following:
+
+(i) The initial assessment, periodic reassessments, plan of care, and coordination of 24-hour care delivery.
+
+(ii) Documenting all recommendations for care or services and the reason(s) for not approving or providing recommended care or services, if applicable, in accordance with § 460.210(b).
 
 (2) Each team member is responsible for the following:
 
 (i) Regularly informing the interdisciplinary team of the medical, functional, and psychosocial condition of each participant.
 
-(ii) Remaining alert to pertinent input from other team members, participants, and caregivers.
+(ii) Remaining alert to pertinent input from any individual with direct knowledge of or contact with the participant, including the following:
+
+(A) Other team members.
+
+(B) Participants.
+
+(C) Caregivers.
+
+(D) Employees.
+
+(E) Contractors.
+
+(F) Specialists.
+
+(G) Designated representatives.
 
 (iii) Documenting changes of a participant's condition in the participant's medical record consistent with documentation polices established by the medical director.
 
@@ -62,4 +78,4 @@ Link to an amendment published at 86 FR 6132, Jan. 19, 2021.
 
 (f) *Exchange of information between team members.* The PACE organization must establish, implement, and maintain documented internal procedures governing the exchange of information between team members, contractors, and participants and their caregivers consistent with the requirements for confidentiality in § 460.200(e).
 
-[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006; 84 FR 25674, June 3, 2019]
+[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006; 84 FR 25674, June 3, 2019; 86 FR 6132, Jan. 21, 2021]

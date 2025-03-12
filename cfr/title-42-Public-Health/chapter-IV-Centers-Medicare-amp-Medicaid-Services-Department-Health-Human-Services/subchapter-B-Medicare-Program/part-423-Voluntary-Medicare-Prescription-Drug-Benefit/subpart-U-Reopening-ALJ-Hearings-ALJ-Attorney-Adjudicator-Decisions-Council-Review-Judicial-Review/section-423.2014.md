@@ -1,12 +1,10 @@
 ##### § 423.2014 Request for an ALJ hearing or a review of an IRE dismissal. #####
 
-Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
-
-(a) *Content of the request.* (1) The request for an ALJ hearing or a review of an IRE dismissal must be made in writing, except as set forth in paragraph (b) of this section. The request, including any oral request, must include all of the following -
+(a) *Content of the request.* (1) The request for an ALJ hearing or a review of an IRE dismissal must be made in writing, except as set forth in paragraph (b) of this section. The request, including any oral request, must include all of the following—
 
 (i) The name, address, telephone number, and Medicare number of the enrollee.
 
-(ii) The name, address, and telephone number of the appointed representative, as defined at § 423.560, if any.
+(ii) The name, address, and telephone number of the representative, as defined at § 423.560, if any.
 
 (iii) The Medicare appeal number, if any, assigned to the IRE reconsideration or dismissal being appealed.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
 
 (6) A determination granting a request to extend the filing deadline is not subject to further review.
 
-[82 FR 5128, Jan. 17, 2017, as amended at 84 FR 19873, May 7, 2019]
+[82 FR 5128, Jan. 17, 2017, as amended at 84 FR 19873, May 7, 2019; 86 FR 6121, Jan. 19, 2021]

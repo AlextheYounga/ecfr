@@ -6,11 +6,11 @@
 
 (2) Have a chronic care improvement program that meets the requirements of paragraph (c) of this section concerning elements of a chronic care program and addresses populations identified by CMS based on a review of current quality performance.
 
-(3) {Reserved]
+(3) [Reserved]
 
 (4) Encourage its providers to participate in CMS and HHS quality improvement initiatives.
 
-(b) *Requirements for MA coordinated care plans (except for regional MA plans) and including local PPO plans that are offered by organizations that are licensed or organized under State law as HMOs.* An MA coordinated care plan's (except for regional PPO plans and local PPO plans as defined in paragraph (e) of this section) quality improvement program must -
+(b) *Requirements for MA coordinated care plans (except for regional MA plans) and including local PPO plans that are offered by organizations that are licensed or organized under State law as HMOs.* An MA coordinated care plan's (except for regional PPO plans and local PPO plans as defined in paragraph (e) of this section) quality improvement program must—
 
 (1) In processing requests for initial or continued authorization of services, follow written policies and procedures that reflect current standards of medical practice.
 
@@ -42,9 +42,9 @@
 
 (2) The organization must report the status and results of each program to CMS as requested.
 
-(d)[Reserved]
+(d) [Reserved]
 
-(e) *Requirements for MA regional plans and MA local plans that are PPO plans as defined in this section* - (1) *Definition of local preferred provider organization plan.* For purposes of this section, the term local preferred provider organization (PPO) plan means an MA plan that -
+(e) *Requirements for MA regional plans and MA local plans that are PPO plans as defined in this section*—(1) *Definition of local preferred provider organization plan.* For purposes of this section, the term local preferred provider organization (PPO) plan means an MA plan that—
 
 (i) Has a network of providers that have agreed to a contractually specified reimbursement for covered benefits with the organization offering the plan;
 
@@ -60,13 +60,13 @@
 
 (iii) Evaluate the continuity and coordination of care furnished to enrollees.
 
-(iv) If the organization uses written protocols for utilization review, the organization must -
+(iv) If the organization uses written protocols for utilization review, the organization must—
 
 (A) Base those protocols on current standards of medical practice; and
 
 (B) Have mechanisms to evaluate utilization of services and to inform enrollees and providers of services of the results of the evaluation.
 
-(f) *Requirements for all types of plans* - (1) *Health information.* For all types of plans that it offers, an organization must -
+(f) *Requirements for all types of plans*—(1) *Health information.* For all types of plans that it offers, an organization must—
 
 (i) Maintain a health information system that collects, analyzes, and integrates the data necessary to implement its quality improvement program;
 
@@ -104,7 +104,7 @@
 
 (x) Use of integrated systems of communication as evidenced by measures from the care coordination domain (for example, call center utilization rates, rates of beneficiary involvement in care plan development, etc.).
 
-(3) Makes available to CMS information on quality and outcomes measures that will -
+(3) Makes available to CMS information on quality and outcomes measures that will—
 
 (i) Enable beneficiaries to compare health coverage options; and
 

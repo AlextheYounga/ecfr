@@ -1,14 +1,12 @@
 ##### § 431.73 Continuing accuracy of license application; application for modification of license. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
-
 (a) A licensee is responsible for the continuing accuracy of representations contained in its application for the entire term of the license.
 
-(b) After a license has been issued, a licensee must apply to the FAA for modification of the license if -
+(b) After a license has been issued, a licensee must apply to the FAA for modification of the license if—
 
 (1) The licensee proposes to conduct an RLV mission or perform a safety-critical operation in a manner not authorized by the license; or
 
-(2) Any representation contained in the license application that is material to public health and safety or the safety of property is no longer accurate and complete or does not reflect the licensee's procedures governing the actual conduct of an RLV mission. A change is material to public health and safety or the safety of property if it alters or affects the -
+(2) Any representation contained in the license application that is material to public health and safety or the safety of property is no longer accurate and complete or does not reflect the licensee's procedures governing the actual conduct of an RLV mission. A change is material to public health and safety or the safety of property if it alters or affects the—
 
 (i) Mission rules, procedures, checklists, emergency plans, and contingency abort plans, if any, submitted in accordance with § 431.39
 
@@ -31,3 +29,7 @@ Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extensio
 (d) The FAA reviews determinations and approvals required by this chapter to determine whether they remain valid after submission of a proposed modification.
 
 (e) Upon approval of a modification, the FAA issues either a written approval to the licensee or a license order amending the license if a stated term or condition of the license is changed, added, or deleted. An approval has the full force and effect of a license order and is part of the licensing record.
+
+(f) The Administrator may determine that a modification to a license issued under this part must comply with the requirements in part 450 of this chapter. The Administrator will base the determination on the extent and complexity of the modification, whether the applicant proposes to modify multiple parts of the application, or if the application requires significant evaluation.
+
+[Docket No. FAA-1999-5535, 65 FR 56658, Sept. 19, 2000, as amended by Doc. No. FAA-2019-0229, Amdt. 431-7, 85 FR 79717, Dec. 10, 2020]

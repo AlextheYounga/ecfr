@@ -1,7 +1,5 @@
 ##### § 422.101 Requirements relating to basic benefits. #####
 
-Link to an amendment published at 86 FR 6094, Jan. 19, 2021.
-
 Except as specified in § 422.318 (for entitlement that begins or ends during a hospital stay) and § 422.320 (with respect to hospice care), each MA organization must meet the following requirements:
 
 (a) Provide coverage of, by furnishing, arranging for, or making payment for, all services that are covered by Part A and Part B of Medicare (if the enrollee is entitled to benefits under both parts) or by Medicare Part B (if entitled only under Part B) and that are available to beneficiaries residing in the plan's service area. Services may be provided outside of the service area of the plan if the services are accessible and available to enrollees.
@@ -50,15 +48,17 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (2) In applying the actuarially equivalent level of cost-sharing with respect to MA bids related to benefits under the original Medicare program option as set forth at § 422.256(b)(3), only the catastrophic limit on out-of-pocket expenses for in-network benefits in paragraph (d)(2) of this section will be taken into account.
 
-(f) *Special needs plan model of care.* (1) MA organizations offering special needs plans (SNP) must implement an evidence-based model of care with appropriate networks of providers and specialists designed to meet the specialized needs of the plan's targeted enrollees. The MA organization must, with respect to each individual enrolled -
+(f) *Special needs plan model of care.*(1) MA organizations offering special needs plans (SNP) must implement an evidence-based model of care with appropriate networks of providers and specialists designed to meet the specialized needs of the plan's targeted enrollees. The MA organization must, with respect to each individual enrolled, do all of the following:
 
-(i) Conduct a comprehensive initial health risk assessment of the individual's physical, psychosocial, and functional needs as well as annual health risk reassessment, using a comprehensive risk assessment tool that CMS will review during oversight activities.
+(i) Conduct a comprehensive initial health risk assessment of the individual's physical, psychosocial, and functional needs as well as annual health risk reassessment, using a comprehensive risk assessment tool that CMS may review during oversight activities, and ensure that results from the initial assessment and annual reassessment conducted for each individual enrolled in the plan are addressed in the individual's individualized care plan as required under paragraph (f)(1)(ii) of this section.
 
 (ii) Develop and implement a comprehensive individualized plan of care through an interdisciplinary care team in consultation with the beneficiary, as feasible, identifying goals and objectives including measurable outcomes as well as specific services and benefits to be provided.
 
-(iii) Use an interdisciplinary team in the management of care.
+(iii) In the management of care, use an interdisciplinary team that includes a team of providers with demonstrated expertise and training, and, as applicable, training in a defined role appropriate to their licensure in treating individuals similar to the targeted population of the plan.
 
-(2) MA organizations offering SNPs must also develop and implement the following model of care components to assure an effective management structure:
+(iv) Provide, on at least an annual basis, beginning within the first 12 months of enrollment, as feasible and with the individual's consent, for face-to-face encounters for the delivery of health care or care management or care coordination services and be between each enrollee and a member of the enrollee's interdisciplinary team or the plan's case management and coordination staff, or contracted plan healthcare providers. A face-for-face encounter must be either in person or through a visual, real-time, interactive telehealth encounter.
+
+(2) MA organizations offering SNPs must also develop and implement the following model of care components to assure an effective care management structure:
 
 (i) Target one of the three SNP populations defined in § 422.2 of this part.
 
@@ -72,4 +72,16 @@ Except as specified in § 422.318 (for entitlement that begins or ends during a 
 
 (vi) All MAOs wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
 
-[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018]
+(3)(i) All MA organizations wishing to offer or continue to offer a SNP will be required to be approved by the National Committee for Quality Assurance (NCQA) effective January 1, 2012 and subsequent years. All SNPs must submit their model of care (MOC) to CMS for NCQA evaluation and approval in accordance with CMS guidance.
+
+(ii) As part of the evaluation and approval of the SNP model of care, NCQA must evaluate whether goals were fulfilled from the previous model of care.
+
+(A) Plans must provide relevant information pertaining to the MOC's goals as well as appropriate data pertaining to the fulfillment the previous MOC's goals.
+
+(B) Plans submitting an initial model of care must provide relevant information pertaining to the MOC's goals for review and approval.
+
+(C) If the SNP model of care did not fulfill the previous MOC's goals, the plan must indicate in the MOC submission how it will achieve or revise the goals for the plan's next MOC.
+
+(iii) Each element of the model of care of a plan must meet a minimum benchmark score of 50 percent, and a plan's model of care will only be approved if each element of the model of care meets the minimum benchmark.
+
+[65 FR 40319, June 29, 2000, as amended at 68 FR 50856, Aug. 22, 2003; 70 FR 4720, Jan. 28, 2005; 70 FR 52026, Sept. 1, 2005; 70 FR 76197, Dec. 23, 2005; 73 FR 54248, Sept. 18, 2008; 74 FR 1541, Jan. 12, 2009; 76 FR 21562, Apr. 15, 2011; 76 FR 54634, Sept. 1, 2011; 77 FR 22167, Apr. 12, 2012; 83 FR 16724, Apr. 16, 2018; 86 FR 6094, Jan. 19, 2021]

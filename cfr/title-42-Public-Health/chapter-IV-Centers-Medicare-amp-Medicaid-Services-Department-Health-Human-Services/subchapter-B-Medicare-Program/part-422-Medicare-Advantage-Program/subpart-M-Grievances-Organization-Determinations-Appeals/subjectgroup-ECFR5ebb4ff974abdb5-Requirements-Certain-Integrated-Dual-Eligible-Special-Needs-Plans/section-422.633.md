@@ -1,7 +1,5 @@
 ##### § 422.633 Integrated reconsideration. #####
 
-Link to an amendment published at 86 FR 6103, Jan. 19, 2021.
-
 (a) *General rule.* An applicable integrated plan may only have one level of integrated reconsideration for an enrollee.
 
 (b) *External medical reviews.* If a State has established an external medical review process, the requirements of § 438.402(c)(1)(i)(B) of this chapter apply to each applicable integrated plan that is a Medicaid managed care organization, as defined in section 1903 of the Act.
@@ -64,4 +62,34 @@ Link to an amendment published at 86 FR 6103, Jan. 19, 2021.
 
 (B) The right to request and receive Medicaid-covered benefits while the next level of appeal is pending, if applicable.
 
-[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 84 FR 26579, June 7, 2019]
+(g) *Withdrawing a request.* The party or physician acting on behalf of an enrollee who files a request for integrated reconsideration may withdraw it by filing a request for withdrawal with the applicable integrated plan.
+
+(h) *Dismissing a request.* The applicable integrated plan dismisses an expedited or standard integrated reconsideration request, either entirely or as to any stated issue, under any of the following circumstances:
+
+(1) The person or entity requesting an integrated reconsideration is not a proper party to request an integrated reconsideration under § 422.629(*l*).
+
+(2) The applicable integrated plan determines the party failed to make a valid request for an integrated reconsideration that substantially complies with § 422.629(*l*) of this section.
+
+(3) The party fails to file the integrated reconsideration request within the proper filing timeframe in accordance with paragraph (d) of this section.
+
+(4) The enrollee or the enrollee's representative files a request for an integrated reconsideration, but the enrollee dies while the request is pending, and both of the following criteria apply:
+
+(i) The enrollee's surviving spouse or estate has no remaining financial interest in the case.
+
+(ii) No other individual or entity with a financial interest in the case wishes to pursue the integrated reconsideration.
+
+(5) A party filing the reconsideration request submits a timely request for withdrawal of their request for an integrated reconsideration with the applicable integrated plan.
+
+(i) *Notice of dismissal.* The applicable integrated plan must mail or otherwise transmit a written notice of the dismissal of the integrated reconsideration request to the parties. The notice must state all of the following:
+
+(1) The reason for the dismissal.
+
+(2) The right to request that the applicable integrated plan vacate the dismissal action.
+
+(3) The right to request review of the dismissal by the independent entity.
+
+(j) *Vacating a dismissal.* If good cause is established, the applicable integrated plan may vacate its dismissal of a request for integrated reconsideration within 6 months from the date of the notice of dismissal.
+
+(k) *Effect of dismissal.* The applicable integrated plan's dismissal is binding unless the enrollee or other party requests review by the independent entity in accordance with § 422.590(h) or the dismissal is vacated under paragraph (j) of this section.
+
+[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 84 FR 26579, June 7, 2019; 86 FR 6103, Jan. 19, 2021]

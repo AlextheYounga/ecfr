@@ -1,7 +1,5 @@
 ##### § 422.503 General provisions. #####
 
-Link to an amendment published at 86 FR 6099, Jan. 19, 2021.
-
 (a) *Basic rule.* In order to qualify as an MA organization, enroll beneficiaries in any MA plans it offers, and be paid on behalf of Medicare beneficiaries enrolled in those plans, an MA organization must enter into a contract with CMS.
 
 (b) *Conditions necessary to contract as an MA organization.* Any entity seeking to contract as an MA organization must:
@@ -74,9 +72,31 @@ Link to an amendment published at 86 FR 6099, Jan. 19, 2021.
 
 (*3*) The MA organization should have procedures to voluntarily self-report potential fraud or misconduct related to the MA program to CMS or its designee.
 
-(*4*)[Reserved]
+(*4*) The MA organization must have procedures to identify, and must report to CMS or its designee either of the following, in the manner described in paragraphs (b)(4)(vi)(G)(*4*) through (*6*) of this section:
+
+(*i*) Any payment suspension implemented by a plan, pending investigation of credible allegations of fraud by a pharmacy, which must be implemented in the same manner as the Secretary does under section 1862(o)(1) of the Act.
+
+(*ii*) Any information concerning investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier, and other actions taken by the plan related to the inappropriate prescribing of opioids.
+
+(*5*) The MA organization must submit data, as specified in this section, in the program integrity portal when reporting payment suspensions pending investigations of credible allegations of fraud by pharmacies; information related to the inappropriate prescribing of opioids and concerning investigations and credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier, and other actions taken by the MA organization; or if the plan reports a referral, through the portal, of substantiated or suspicious activities of a provider of services (including a prescriber) or a supplier related to fraud, waste, or abuse to initiate or assist with investigations conducted by CMS, or its designee, a Medicare program integrity contractor, or law enforcement partners. The data categories, as applicable, include referral information and actions taken by the MA organization on the referral.
+
+(*6*)(*i*) The MA organization is required to notify the Secretary, or its designee, of a payment suspension described in paragraph (b)(4)(vi)(G)(*4*)(*i*) of this section 7 days prior to implementation of the payment suspension. The MA organization may request an exception to the 7-day prior notification to the Secretary, or its designee, if circumstances warrant a reduced reporting time frame, such as potential beneficiary harm.
+
+(*ii*) The MA organization is required to submit the information described in paragraph (b)(4)(vi)(G)(*4*)(*ii*) of this section no later than January 30, April 30, July 30, and October 30 of each year for the preceding periods, respectively, of October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30. For the first reporting period (January 30, 2022), the reporting will reflect the data gathered and analyzed for the previous quarter in the calendar year (October 1-December 31).
+
+(*7*)(*i*) CMS will provide MA organizations with data report(s) or links to the information described in paragraphs (b)(4)(vi)(G)(*4*)(*i*) and (*ii*) of this section no later than April 15, July 15, October 15, and January 15 of each year based on the information in the portal, respectively, as of the preceding October 1 through December 31, January 1 through March 31, April 1 through June 30, and July 1 through September 30.
+
+(*ii*) Include administrative actions, pertinent information related to opioid overprescribing, and other data determined appropriate by the Secretary in consultation with stakeholders.
+
+(*iii*) Are anonymized information submitted by plans without identifying the source of such information.
+
+(*iv*) For the first quarterly report (April 15, 2022), that the report reflect the data gathered and analyzed for the previous quarter submitted by the plan sponsors on January 30, 2022.
 
 (5) Not accept new enrollees under a section 1876 reasonable cost contract in any area in which it seeks to offer an MA plan.
+
+(i) Not accept, or share a corporate parent organization owning a controlling interest in an entity that accepts, new enrollees under a section 1876 reasonable cost contract in any area in which it seeks to offer an MA plan.
+
+(ii) Not accept, or be either the parent organization owning a controlling interest of or subsidiary of an entity that accepts, new enrollees under a section 1876 reasonable cost contract in any area in which it seeks to offer an MA plan.
 
 (6) The MA organization's contract must not have been non-renewed under § 422.506 within the past 2 years unless -
 
@@ -110,4 +130,4 @@ Link to an amendment published at 86 FR 6099, Jan. 19, 2021.
 
 (2) A separate contract for any such excluded plan or entity will be deemed to be in place when such a request is made.
 
-[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018]Editorial Note:At 79 FR 29958, May 23, 2014, in § 422.503, paragraph (b)(4)(vi)(G)(*5* was revised; however no paragraph (b)(4)(vi)(G)(*5* exists, so it cannot be revised.
+[63 FR 35099, June 26, 1998, as amended at 65 FR 40327, June 29, 2000. Redesignated at 70 FR 4736, Jan. 28, 2005, and amended at 70 FR 4737, Jan. 28, 2005; 70 FR 52027, Sept. 1, 2005; 70 FR 76198, Dec. 23, 2005; 72 FR 68722, Dec. 5, 2007; 75 FR 19809, Apr. 15, 2010; 79 FR 29958, May 23, 2014; 80 FR 7960, Feb. 12, 2015; 83 FR 16733, Apr. 16, 2018; 86 FR 6099, Jan. 19, 2021]

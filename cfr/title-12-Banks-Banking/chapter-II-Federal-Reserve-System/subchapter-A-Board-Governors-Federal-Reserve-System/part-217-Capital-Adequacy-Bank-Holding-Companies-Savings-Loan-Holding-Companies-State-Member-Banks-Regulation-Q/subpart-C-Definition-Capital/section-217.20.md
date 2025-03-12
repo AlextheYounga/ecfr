@@ -92,11 +92,15 @@
 
 (2) Tier 1 minority interest, subject to the limitations in § 217.21, that is not included in the Board-regulated institution's common equity tier 1 capital.
 
-(3) Any and all instruments that qualified as tier 1 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A or 12 CFR part 225, appendix A, as then in effect, that were issued under the Small Business Jobs Act of 201014 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
+(3)(i) Any and all instruments that qualified as tier 1 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A or 12 CFR part 225, appendix A, as then in effect, that were issued under the Small Business Jobs Act of 201014 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.15
 
 14 Public Law 111-240; 124 Stat. 2504 (2010).
 
 15 Public Law 110-343, 122 Stat. 3765 (2008).
+
+(ii) Any preferred stock instrument issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.16
+
+16 Public Law 116-260.
 
 (4) Notwithstanding the criteria for additional tier 1 capital instruments referenced above:
 
@@ -146,11 +150,15 @@
 
 (3) ALLL or AACL, as applicable, up to 1.25 percent of the Board-regulated institution's standardized total risk-weighted assets not including any amount of the ALLL or AACL, as applicable (and excluding in the case of a market risk Board-regulated institution, its standardized market risk-weighted assets).
 
-(4) Any instrument that qualified as tier 2 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A, 12 CFR part 225, appendix A as then in effect, that were issued under the Small Business Jobs Act of 2010,19 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.20
+(4)(i) Any instrument that qualified as tier 2 capital under the Board's general risk-based capital rules under 12 CFR part 208, appendix A, 12 CFR part 225, appendix A as then in effect, that were issued under the Small Business Jobs Act of 2010,19 or prior to October 4, 2010, under the Emergency Economic Stabilization Act of 2008.20
 
 19 Public Law 111-240; 124 Stat. 2504 (2010).
 
 20 Public Law 110-343, 122 Stat. 3765 (2008).
+
+(ii) Any debt instrument issued under the U.S. Department of the Treasury's Emergency Capital Investment Program pursuant to section 104A of the Community Development Banking and Financial Institutions Act of 1994, added by the Consolidated Appropriations Act, 2021.21
+
+21 Public Law 116-260.
 
 (5) For a Board-regulated institution that makes an AOCI opt-out election (as defined in paragraph (b)(2) of § 217.22), 45 percent of pretax net unrealized gains on available-for-sale preferred stock classified as an equity security under GAAP and available-for-sale equity exposures.
 
@@ -168,4 +176,4 @@
 
 (f) A Board-regulated institution may not repurchase or redeem any common equity tier 1 capital, additional tier 1, or tier 2 capital instrument without the prior approval of the Board to the extent such prior approval is required by paragraph (b), (c), or (d) of this section, as applicable.
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 78 FR 76973, Dec. 20, 2013; 79 FR 78295, Dec. 30, 2014; 84 FR 4242, Feb. 14, 2019; 84 FR 35260, July 22, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 78 FR 76973, Dec. 20, 2013; 79 FR 78295, Dec. 30, 2014; 84 FR 4242, Feb. 14, 2019; 84 FR 35260, July 22, 2019; 86 FR 15080, Mar. 22, 2021]

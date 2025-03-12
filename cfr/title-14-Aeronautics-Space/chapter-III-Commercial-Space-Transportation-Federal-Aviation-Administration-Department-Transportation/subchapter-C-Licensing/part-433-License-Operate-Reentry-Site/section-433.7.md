@@ -1,5 +1,17 @@
 ##### § 433.7 Environmental. #####
 
-Link to an amendment published at 85 FR 79717, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
+(a) *General.* The FAA is responsible for complying with the procedures and policies of the National Environmental Policy Act (NEPA) and other applicable environmental laws, regulations, and Executive Orders prior to issuing a reentry site license. An applicant must provide the FAA with information needed to comply with such requirements. The FAA will consider and document the potential environmental effects associated with issuing a license for a reentry site.
 
-An applicant shall provide the FAA with information for the FAA to analyze the environmental impacts associated with proposed operation of a reentry site. The information provided by an applicant must be sufficient to enable the FAA to comply with the requirements of the National Environmental Policy Act, 42 U.S.C. 4321 *et seq.* (NEPA), the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA, 40 CFR Parts 1500-1508, and the FAA's Procedures for Consideration Environmental Impacts, FAA Order 1050.1D.
+(b) *Environmental impact statement or environmental assessment.* When directed by the FAA, an applicant must—
+
+(1) Prepare an Environmental Assessment with FAA oversight;
+
+(2) Assume financial responsibility for preparation of an Environmental Impact Statement by an FAA-selected and -managed consultant contractor; or
+
+(3) Submit information to support a written re-evaluation of a previously submitted Environmental Assessment or Environmental Impact Statement.
+
+(c) *Categorical exclusion.* The FAA may determine that a categorical exclusion is appropriate upon receipt of supporting information from an applicant.
+
+(d) *Environmental information.* An application must include an approved FAA Environmental Assessment, Environmental Impact Statement, categorical exclusion determination, or written re-evaluation covering all planned licensed activities in compliance with NEPA and the Council on Environmental Quality Regulations for Implementing the Procedural Provisions of NEPA.
+
+[Doc. No. FAA-2019-0229, Amdt. 433-3, 85 FR 79717, Dec. 10, 2020]

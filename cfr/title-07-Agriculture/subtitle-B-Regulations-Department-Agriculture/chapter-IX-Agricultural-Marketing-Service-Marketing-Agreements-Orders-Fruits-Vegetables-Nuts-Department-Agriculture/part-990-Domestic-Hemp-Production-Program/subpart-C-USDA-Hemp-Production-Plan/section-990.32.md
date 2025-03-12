@@ -1,6 +1,6 @@
 ##### § 990.32 Recordkeeping requirements. #####
 
-(a) USDA producers shall maintain records of all hemp plants acquired, produced, handled, or disposed of as will substantiate the required reports.
+(a) USDA licensees shall maintain records of all hemp plants acquired, produced, handled, disposed of, or remediated as will substantiate the required reports.
 
 (b) All records and reports shall be maintained for at least three years.
 
@@ -12,7 +12,7 @@
 
 (3) Records regarding storage of hemp plants; and
 
-(4) Records regarding disposal of all cannabis plants that do not meet the definition of hemp.
+(4) Records regarding disposal and remediation of all cannabis plants that do not meet the definition of hemp.
 
 (d) USDA inspectors, auditors, or their representatives shall have access to any premises where hemp plants may be held during reasonable business hours.
 

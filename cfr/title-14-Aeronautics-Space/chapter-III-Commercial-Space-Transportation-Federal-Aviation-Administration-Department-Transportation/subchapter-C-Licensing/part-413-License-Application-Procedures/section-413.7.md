@@ -1,6 +1,4 @@
-##### § 413.7 Application. #####
-
-Link to an amendment published at 85 FR 79710, Dec. 10, 2020.Link to an extension of the above amendment published at 86 FR 13448, Mar. 9, 2021.
+##### § 413.7 Application submission. #####
 
 (a) An applicant must make an application in writing and in English. The applicant must file the application with the Federal Aviation Administration either by paper, by use of physical electronic storage, or by email in the following manner:
 
@@ -14,11 +12,13 @@ Link to an amendment published at 85 FR 79710, Dec. 10, 2020.Link to an extensio
 
 (iii) The physical electronic storage must be in a format such that its contents cannot be altered.
 
-(3) For an application submitted by email, an applicant must send the application as an email attachment to *ASTApplications@faa.gov.* The application and the email to which the application is attached must also satisfy the following criteria:
+(3) For an application submitted by email, an applicant must send the application as an email attachment, or as a link to a secure server, to *ASTApplications@faa.gov.* The application and the email to which the application is attached or linked must also satisfy the following criteria:
 
-(i) The email to which the application is attached must be sent from an email address controlled by the person who signed the application or by an authorized representative of the applicant; and
+(i) The email to which the application is attached or linked must be sent from an email address controlled by the person who signed the application or by an authorized representative of the applicant;
 
-(ii) The application must be in a format that cannot be altered.
+(ii) The email must identify each document that is included as an attachment or that is stored on a secure server; and
+
+(iii) The electronic files must be date-stamped and have version control documentation.
 
 (b) *Administrative information.* An application must identify the following:
 
@@ -36,7 +36,7 @@ Link to an amendment published at 85 FR 79710, Dec. 10, 2020.Link to an extensio
 
 (3) For a joint venture, association, or other entity: An officer or other individual authorized to act for the joint venture, association, or other entity in licensing or permitting matters.
 
-(d) *Safety approval.* If the applicant proposes to include a safety element for which the FAA issued a safety approval under part 414 in the proposed license activity, the applicant must -
+(d) *Safety approval.* If the applicant proposes to include a safety element for which the FAA issued a safety approval under part 414 in the proposed license activity, the applicant must—
 
 (1) Identify the safety approval in the application and explain the proposed use of the approved safety element.
 
@@ -46,4 +46,4 @@ Link to an amendment published at 85 FR 79710, Dec. 10, 2020.Link to an extensio
 
 (e) *Measurement system consistency.* For each analysis, an applicant must employ a consistent measurements system, whether English or metric, in its application and licensing information.
 
-[Amdt. 413-03, 64 FR 19614, Apr. 21, 1999, as amended by Amdt. 413-6, 71 FR 46852, Aug. 15, 2006; Amdt. 413-8, 71 FR 51972, Aug. 31, 2006; Amdt. 413-7, 71 FR 56005, Sept. 26, 2006; Amdt. 413-9, 72 FR 17018, Apr. 6, 2007; Amdt. 413-11, 80 FR 30151, May 27, 2015]
+[Amdt. 413-03, 64 FR 19614, Apr. 21, 1999, as amended by Amdt. 413-6, 71 FR 46852, Aug. 15, 2006; Amdt. 413-8, 71 FR 51972, Aug. 31, 2006; Amdt. 413-7, 71 FR 56005, Sept. 26, 2006; Amdt. 413-9, 72 FR 17018, Apr. 6, 2007; Amdt. 413-11, 80 FR 30151, May 27, 2015; Doc. No. FAA-2019-0229, Amdt. 413-12, 85 FR 79711, Dec. 10, 2020]

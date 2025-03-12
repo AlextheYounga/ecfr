@@ -1,7 +1,5 @@
 ##### § 192.619 Maximum allowable operating pressure: Steel or plastic pipelines. #####
 
-Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment published at 86 FR 12834, Mar. 5, 2021, delaying the above amendment until Mar. 21, 2021.
-
 (a) No person may operate a segment of steel or plastic pipeline at a pressure that exceeds a maximum allowable operating pressure (MAOP) determined under paragraph (c), (d), or (e) of this section, or the lowest of the following:
 
 (1) The design pressure of the weakest element in the segment, determined in accordance with subparts C and D of this part. However, for steel pipe in pipelines being converted under § 192.14 or uprated under subpart K of this part, if any variable necessary to determine the design pressure under the design formula (§ 192.105) is unknown, one of the following pressures is to be used as design pressure:
@@ -18,15 +16,17 @@ Link to an amendment published at 86 FR 2241, Jan. 11, 2021.Link to an amendment
 
 Table 1 to Paragraph (a)(2)(ii)
 
-|                                Class location                                 | Installed  <br/>before  <br/>(Nov. 12, 1970) |Factors,<sup>1</sup> segment -|    |    |
-|-------------------------------------------------------------------------------|----------------------------------------------|------------------------------|----|----|
-|Installed  <br/>after  <br/>(Nov. 11, 1970)  <br/>and before  <br/>July 1, 2020|Installed  <br/>on or after  <br/>July 1, 2020|Converted  <br/>under § 192.14|    |    |
-|                                       1                                       |                     1.1                      |             1.1              |1.25|1.25|
-|                                       2                                       |                     1.25                     |             1.25             |1.25|1.25|
-|                                       3                                       |                     1.4                      |             1.5              |1.5 |1.5 |
-|                                       4                                       |                     1.4                      |             1.5              |1.5 |1.5 |
+|                             Class location                              | Installed before  <br/>(Nov. 12, 1970) |    Factors,1 2 segment -     |    |    |
+|-------------------------------------------------------------------------|----------------------------------------|------------------------------|----|----|
+|Installed after  <br/>(Nov. 11, 1970)  <br/>and before  <br/>July 1, 2020|Installed on or  <br/>after July 1, 2020|Converted under  <br/>§ 192.14|    |    |
+|                                    1                                    |                  1.1                   |             1.1              |1.25|1.25|
+|                                    2                                    |                  1.25                  |             1.25             |1.25|1.25|
+|                                    3                                    |                  1.4                   |             1.5              |1.5 |1.5 |
+|                                    4                                    |                  1.4                   |             1.5              |1.5 |1.5 |
 
 <sup>1</sup> For offshore pipeline segments installed, uprated or converted after July 31, 1977, that are not located on an offshore platform, the factor is 1.25. For pipeline segments installed, uprated or converted after July 31, 1977, that are located on an offshore platform or on a platform in inland navigable waters, including a pipe riser, the factor is 1.5.
+
+<sup>2</sup> For a component with a design pressure established in accordance with § 192.153(a) or (b) installed after July 14, 2004, the factor is 1.3.
 
 (3) The highest actual operating pressure to which the segment was subjected during the 5 years preceding the applicable date in the second column. This pressure restriction applies unless the segment was tested according to the requirements in paragraph (a)(2) of this section after the applicable date in the third column or the segment was uprated according to the requirements in subpart K of this part:
 

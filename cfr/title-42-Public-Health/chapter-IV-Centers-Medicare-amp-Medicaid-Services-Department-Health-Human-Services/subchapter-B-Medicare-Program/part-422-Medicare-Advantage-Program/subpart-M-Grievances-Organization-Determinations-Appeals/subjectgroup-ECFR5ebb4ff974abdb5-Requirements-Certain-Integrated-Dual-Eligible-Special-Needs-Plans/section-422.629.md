@@ -1,7 +1,5 @@
 ##### § 422.629 General requirements for applicable integrated plans. #####
 
-Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
-
 (a) *Scope.* The provisions in this section and in §§ 422.630 through 422.634 set forth requirements for unified appeals and grievance processes with which applicable integrated plans must comply. Beginning January 1, 2021, these provisions apply to an applicable integrated plan in lieu of §§ 422.564, 422.566(c) and (d), and 422.568 through 422.590, and 422.618(a) and §§ 438.404 through 438.424 of this chapter; provisions governing Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), 422.572(a)(2), 422.584(d)(1), 422.590(c), and 422.590(e)(2) apply to an applicable integrated plan.
 
 (b) *General process.* An applicable integrated plan must create integrated processes for enrollees for integrated grievances, integrated organization determinations, and integrated reconsiderations.
@@ -64,7 +62,7 @@ Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
 
 (i) Were neither involved in any previous level of review or decision-making nor a subordinate of any such individual; and
 
-(ii) If deciding an appeal of a denial that is based on lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), are a physician or other appropriate health care professional who have the appropriate clinical expertise, in treating the enrollee's condition or disease, and knowledge of Medicare coverage criteria, before the MA organization issues the organization determination decision.
+(ii) If deciding an appeal of a denial that is based on lack of medical necessity (or any substantively equivalent term used to describe the concept of medical necessity), are a physician or other appropriate health care professional who have the appropriate clinical expertise in treating the enrollee's condition or disease, and knowledge of Medicare and Medicaid coverage criteria, before the applicable integrated plan issues the integrated organization determination decision.
 
 (l) *Parties.* (1) The following individuals or entities can request an integrated grievance, integrated organization determination, and integrated reconsideration, and are parties to the case:
 
@@ -80,4 +78,4 @@ Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
 
 (3) A provider who is providing treatment to the enrollee may, upon providing notice to the enrollee, request a standard or expedited pre-service integrated reconsideration on behalf of an enrollee.
 
-[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019]
+[84 FR 15835, Apr. 16, 2019, as amended at 84 FR 23883, May 23, 2019; 86 FR 6102, Jan. 19, 2021]

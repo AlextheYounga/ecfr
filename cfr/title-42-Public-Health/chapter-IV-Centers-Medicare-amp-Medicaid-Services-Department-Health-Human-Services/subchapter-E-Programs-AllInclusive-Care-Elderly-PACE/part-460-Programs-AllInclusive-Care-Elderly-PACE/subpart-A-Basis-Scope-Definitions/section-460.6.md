@@ -1,7 +1,5 @@
 ##### § 460.6 Definitions. #####
 
-Link to an amendment published at 86 FR 6131, Jan. 19, 2021.
-
 As used in this part, unless the context indicates otherwise, the following definitions apply:
 
 *Contract year* means the term of a PACE program agreement, which is a calendar year, except that a PACE organization's initial contract year may be from 12 to 23 months, as determined by CMS.
@@ -24,10 +22,10 @@ As used in this part, unless the context indicates otherwise, the following defi
 
 *Participant* means an individual who is enrolled in a PACE program.
 
-*Services* includes both items and services.
+*Service,* as used in this part, means all services that could be required under § 460.92, including items and drugs.
 
 *State administering agency* means the State agency responsible for administering the PACE program agreement.
 
 *Trial period* means the first 3 contract years in which a PACE organization operates under a PACE program agreement, including any contract year during which the entity operated under a PACE demonstration waiver program.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006; 86 FR 6131, Jan. 19, 2021]
