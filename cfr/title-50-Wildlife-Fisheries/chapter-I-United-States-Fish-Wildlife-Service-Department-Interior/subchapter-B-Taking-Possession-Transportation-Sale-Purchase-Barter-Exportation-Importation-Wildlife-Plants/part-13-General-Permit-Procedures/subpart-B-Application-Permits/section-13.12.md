@@ -74,9 +74,9 @@ Table 1 to Paragraph (b)
 |                               Indian religious use                               | 22.60 |
 |                                Falconry purposes                                 | 22.70 |
 |                            Take of golden eagle nests                            | 22.75 |
-|         Eagle take - Associated with but not the purpose of an activity          | 22.80 |
+|          Eagle take—Associated with but not the purpose of an activity           | 22.80 |
 |                                 Eagle nest take                                  | 22.85 |
-|                         Eagle take - Exempted under ESA                          | 22.90 |
+|                          Eagle take—Exempted under ESA                           | 22.90 |
 |                 Depredation and protection of health and safety                  |22.100 |
 
 [39 FR 1161, Jan. 4, 1974, as amended at 42 FR 10465, Feb. 22, 1977; 42 FR 32377, June 24, 1977; 44 FR 54006, Sept. 17, 1979; 44 FR 59083, Oct. 12, 1979; 45 FR 56673, Aug. 25, 1980; 45 FR 78154, Nov. 25, 1980; 46 FR 42680, Aug. 24, 1981; 48 FR 31607, July 8, 1983; 48 FR 57300, Dec. 29, 1983; 50 FR 39687, Sept. 30, 1985; 50 FR 45408, Oct. 31, 1985; 54 FR 38147, Sept. 14, 1989; 70 FR 18319, Apr. 11, 2005; 72 FR 48446, Aug. 23, 2007; 73 FR 29083, May 20, 2008; 74 FR 46876, Sept. 11, 2009; 79 FR 30417, May 27, 2014; 87 FR 880, Jan. 7, 2022]

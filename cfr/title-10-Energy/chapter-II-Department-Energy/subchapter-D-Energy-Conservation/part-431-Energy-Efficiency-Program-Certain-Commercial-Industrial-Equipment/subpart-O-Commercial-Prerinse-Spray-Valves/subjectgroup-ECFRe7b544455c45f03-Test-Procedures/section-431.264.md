@@ -1,5 +1,7 @@
 ##### § 431.264 Uniform test method to measure flow rate and spray force of commercial prerinse spray valves. #####
 
+Link to an amendment published at 87 FR 13910, Mar. 11, 2022.
+
 (a) *Scope.* This section provides the test procedure to measure the flow rate and spray force of a commercial prerinse spray valve.
 
 (b) *Testing and calculations for a unit with a single spray setting* - (1) *Flow rate.* (i) Test each unit in accordance with the requirements of sections 6.1 through 6.9 (Apparatus) (except 6.4 and 6.7), 9.1 through 9.4 (Preparation of Apparatus), and 10.1 through 10.2.5 (Procedure) of ASTM F2324-13, (incorporated by reference, see § 431.263). Precatory language in the ASTM F2324-13 is to be treated as mandatory for the purpose of testing. In section 9.1 of ASTM F2324-13, the second instance of “prerinse spray valve” refers to the spring-style deck-mounted prerinse unit defined in section 6.8. In lieu of using manufacturer installation instructions or packaging, always connect the commercial prerinse spray valve to the flex tubing for testing. Normalize the weight of the water to calculate flow rate using Equation 1, where Wwater is the weight normalized to a 1 minute time period, W1 is the weight of the water in the carboy at the conclusion of the flow rate test, and t1 is the total recorded time of the flow rate test.

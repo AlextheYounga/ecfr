@@ -1,5 +1,7 @@
 ##### § 431.262 Definitions. #####
 
+Link to an amendment published at 87 FR 13909, Mar. 11, 2022.
+
 As used in this subpart:
 
 *Basic model* means all spray settings of a given class manufactured by one manufacturer, which have essentially identical physical and functional (or hydraulic) characteristics that affect water consumption or water efficiency.
