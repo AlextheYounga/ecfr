@@ -10,6 +10,8 @@
 
 (2) Pro se *parties.* A party not represented by an attorney (a *pro se* party) may obtain an eCRB password from the Copyright Royalty Board with permission from the Copyright Royalty Judges, in their discretion. To obtain permission, the *pro se* party must submit an application on the form available on the CRB Web site, describing the party's access to the Internet and confirming the party's ability and capacity to file documents and receive electronically the filings of other parties on a regular basis. If the Copyright Royalty Judges grant permission, the *pro se* party must complete the eCRB training provided by the Copyright Royalty Board to all electronic filers before receiving an eCRB password. Once the Copyright Royalty Board has issued an eCRB password to a *pro se* party, that party must make all subsequent filings by electronic means through eCRB.
 
+(3) *Claimants.* Any person desiring to file a claim with the Copyright Royalty Board for copyright royalties may obtain an eCRB password for the limited purpose of filing claims by completing the application form available on the CRB Web site.
+
 (d) *Use of an eCRB password.* An eCRB password may be used only by the person to whom it is assigned, or, in the case of an attorney, by that attorney or an authorized employee or agent of that attorney's law office or organization. The person to whom an eCRB password is assigned is responsible for any document filed using that password.
 
 (e) *Signature.* The use of an eCRB password to login and submit documents creates an electronic record. The password operates and serves as the signature of the person to whom the password is assigned for all purposes under this chapter III.
@@ -48,4 +50,4 @@
 
 (3) The inability to complete an electronic filing because of technical problems arising in the eCRB system may constitute “good cause” (as used in § 350.6(b)(4)) for an order enlarging time or excusable neglect for the failure to act within the specified time, provided the filer complies with paragraph (m)(1) of this section. This section does not provide authority to extend statutory time limits.
 
-[82 FR 18571, Apr. 20, 2017]
+[82 FR 18571, Apr. 20, 2017, as amended at 82 FR 27018, June 13, 2017]

@@ -1,6 +1,6 @@
 ##### § 4901.15 Appeals from denial of requests. #####
 
-(a) *Submittal of appeals.* If a disclosure request is denied in whole or in part by the disclosure officer, the requester may file a written appeal within 30 days from the date of the denial or, if later (in the case of a partial denial), 30 days from the date the requester receives the disclosed material. The appeal shall state the grounds for appeal and any supporting statements or arguments, and shall be addressed to the General Counsel, Pension Benefit Guaranty Corporation. See § 4000.4 of this chapter for information on where to file. To expedite processing, the words “FOIA appeal” should appear prominently on the request.
+(a) *Submittal of appeals.* If a disclosure request is denied in whole or in part by the disclosure officer, the requester may file a written appeal within 90 days from the date of the denial or, if later (in the case of a partial denial), 90 days from the date the requester receives the disclosed material. The appeal shall state the grounds for appeal and any supporting statements or arguments, and shall be addressed to the General Counsel, Pension Benefit Guaranty Corporation. See § 4000.4 of this chapter for information on where to file. To expedite processing, the words “FOIA appeal” should appear prominently on the request.
 
 (b) *Receipt and consideration of appeal.* The General Counsel shall note the date and time of receipt on each appeal and notify the requester thereof. Promptly and in any event within 20 working days after receipt of an appeal (subject to extension under § 4901.16), the General Counsel shall issue a decision on the appeal.
 
@@ -18,4 +18,4 @@
 
 (d) *Records of appeals.* Copies of both grants and denials of appeals shall be collected in one file available in the PBGC's public reference room under § 4901.4(d)(1) and indexed under § 4901.4(e).
 
-[61 FR 34123, July 1, 1996, as amended at 68 FR 61358, Oct. 28, 2003]
+[61 FR 34123, July 1, 1996, as amended at 68 FR 61358, Oct. 28, 2003; 82 FR 26992, June 13, 2017]

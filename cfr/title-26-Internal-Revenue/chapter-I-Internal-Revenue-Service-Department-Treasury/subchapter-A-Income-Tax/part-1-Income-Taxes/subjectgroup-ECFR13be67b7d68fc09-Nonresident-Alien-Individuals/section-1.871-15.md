@@ -379,4 +379,4 @@ Example 3.*In-the-money option contract entered into by a foreign equity derivat
 
 (5) *Effective/applicability date for paragraphs (g)(4)(ii)(B), (p)(1)(ii) through (iv), and (p)(5) of this section.* [Reserved]. For further guidance, see § 1.871-15T(r)(5).
 
-[T.D. 9648, 78 FR 73080, Dec. 5, 2013, as amended by T.D. 9734, 80 FR 56879, Sept. 18, 2015; 80 FR 75946, Dec. 7, 2015; T.D. 9815, 82 FR 8160, Jan. 24, 2017]
+[T.D. 9648, 78 FR 73080, Dec. 5, 2013, as amended by T.D. 9734, 80 FR 56879, Sept. 18, 2015; 80 FR 75946, Dec. 7, 2015; T.D. 9815, 82 FR 8155, 8160, Jan. 24, 2017]
