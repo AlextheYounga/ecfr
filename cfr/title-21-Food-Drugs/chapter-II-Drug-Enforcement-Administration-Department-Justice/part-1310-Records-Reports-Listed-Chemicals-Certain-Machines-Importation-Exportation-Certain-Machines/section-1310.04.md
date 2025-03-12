@@ -95,37 +95,39 @@
 
 (ii) Alpha-phenylacetoacetonitrile and its salts, optical isomers, and salts of optical isomers (APAAN)
 
-(iii) Ephedrine, its salts, optical isomers, and salts of optical isomers;
+(iii) 1-boc-4-AP (*tert*-butyl 4-(phenylamino)piperidine-1-carboxylate) and its salts.
 
-(iv) Ergocristine and its salts
+(iv) Ephedrine, its salts, optical isomers, and salts of optical isomers;
 
-(v) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
+(v) Ergocristine and its salts
 
-(vi) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
+(vi) Gamma-Butyrolactone (Other names include: GBL; Dihydro-2(3H)-furanone; 1,2-Butanolide; 1,4-Butanolide; 4-Hydroxybutanoic acid lactone; gamma-hydroxybutyric acid lactone)
 
-(vii) Iodine
+(vii) Hypophosphorous acid and its salts (including ammonium hypophosphite, calcium hypophosphite, iron hypophosphite, potassium hypophosphite, manganese hypophosphite, magnesium hypophosphite, and sodium hypophosphite)
 
-(viii) 3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers
+(viii) Iodine
 
-(ix) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
+(ix) 3,4-MDP-2-P methyl glycidate (PMK glycidate) and its optical and geometric isomers
 
-(x) methyl *alpha*-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers
+(x) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
 
-(xi) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
+(xi) methyl *alpha*-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers
 
-(xii) N-phenethyl-4-piperidone (NPP)
+(xii) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
 
-(xiii) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
+(xiii) N-phenethyl-4-piperidone (NPP)
 
-(xiv) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(xiv) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
 
-(xv) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(xv) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
 
-(xvi) 4-piperidone (piperidin-4-one), its acetals, its amides, its carbamates, its salts, and salts of its acetals, its amides, and its carbamates, and any combination thereof, whenever the existence of such is possible
+(xvi) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
 
-(xvii) Red phosphorus
+(xvii) 4-piperidone (piperidin-4-one), its acetals, its amides, its carbamates, its salts, and salts of its acetals, its amides, and its carbamates, and any combination thereof, whenever the existence of such is possible
 
-(xviii) White phosphorus (Other names: Yellow Phosphorus)
+(xviii) Red phosphorus
+
+(xix) White phosphorus (Other names: Yellow Phosphorus)
 
 (2) [Reserved]
 
@@ -137,4 +139,4 @@
 
 (3) If two or more listed chemicals are present in a chemical mixture, and the quantity of any of these chemicals equals or exceeds the threshold applicable to that chemical, then the transaction is regulated.
 
-[54 FR 31665, Aug. 1, 1989]Editorial Note:For Federal Register citations affecting § 1310.04, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 67552, Nov. 9, 2022, § 1310.4 was amended, however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[54 FR 31665, Aug. 1, 1989]Editorial Note:For Federal Register citations affecting § 1310.04, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

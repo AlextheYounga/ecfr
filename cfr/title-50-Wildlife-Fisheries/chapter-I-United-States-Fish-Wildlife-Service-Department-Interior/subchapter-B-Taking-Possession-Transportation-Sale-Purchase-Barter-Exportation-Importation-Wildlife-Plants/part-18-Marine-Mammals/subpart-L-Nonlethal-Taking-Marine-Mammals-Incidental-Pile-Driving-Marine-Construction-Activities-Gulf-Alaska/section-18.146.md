@@ -1,0 +1,7 @@
+##### § 18.146 How the Service will evaluate a request for an LOA. #####
+
+(a) The Service will evaluate each request for an LOA to determine if the proposed activity is consistent with the analysis and findings made for the regulations in this subpart. Depending on the results of the evaluation, we may issue the LOA, add further conditions, or deny the LOA.
+
+(b) Once issued, the Service may withdraw or suspend an LOA if the project activity is modified in a way that undermines the results of the previous evaluation, if the conditions of the regulations in this subpart are not being substantially complied with, or if the taking allowed is or may be having more than a negligible impact on the affected stock of sea otters or an unmitigable adverse impact on the availability of sea otters for subsistence uses.
+
+(c) The Service will make decisions concerning withdrawals of an LOA, either on an individual or class basis, only after notice and opportunity for public comment in accordance with § 18.27(f)(5). The requirement for notice and public comment will not apply should we determine that an emergency exists that poses a significant risk to the well-being of the species or stocks of sea otters.

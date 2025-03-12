@@ -1,5 +1,7 @@
 ##### § 105-64.001 What terms are defined in this part? #####
 
+Link to an amendment published at 88 FR 32140, May 19, 2023.
+
 GSA defines the following terms to ensure consistency of use and understanding of their meaning under this part:
 
 *Agency* means any organization covered by the Privacy Act as defined in 5 U.S.C. 551(1) and 5 U.S.C. 552a (a)(1). GSA is such an agency.

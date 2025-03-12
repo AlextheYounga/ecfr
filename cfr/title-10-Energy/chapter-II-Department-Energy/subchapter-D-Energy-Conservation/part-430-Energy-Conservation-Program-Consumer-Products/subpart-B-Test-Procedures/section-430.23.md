@@ -397,7 +397,7 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (u) *Water closets.* Measure the water use for water closets, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(a) of appendix T to this subpart.
 
-(v) For a ceiling fan light kit packaged with other fluorescent lamps (not compact fluorescent lamps or general service fluorescent lamps), packaged with consumer-replaceable SSL (not integrated LED lamps), packaged with non-consumer-replaceable SSL, or packaged with other SSL lamps that have an ANSI standard base (not integrated LED lamps), measure efficacy in accordance with section 3 of appendix V of this subpart for each lamp basic model, consumer-replaceable SSL basic model, or non-consumer-replaceable SSL basic model.
+(v) *Urinals.* Measure the water use for urinals, expressed in gallons or liters per flush (gpf or Lpf), in accordance with section 3(b) of appendix T to this subpart.
 
 (w) *Ceiling fans.* Measure the following attributes of a single ceiling fan in accordance with appendix U to this subpart: airflow; power consumption; ceiling fan efficiency, as applicable; ceiling fan energy index (CFEI), as applicable; standby power, as applicable; distance between the ceiling and lowest point of fan blades; blade span; blade edge thickness; and blade revolutions per minute (RPM).
 

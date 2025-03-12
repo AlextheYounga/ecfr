@@ -1,0 +1,3 @@
+##### §18.142 Specified activities covered by this subpart. #####
+
+Regulations in this subpart apply to the nonlethal incidental, but not intentional, take, as defined in § 18.3 and under section 3 of the Marine Mammal Protection Act (16 U.S.C. 1371 *et seq.*), of small numbers of northern sea otters (*Enhydra lutris kenyoni;* hereafter “sea otters”) by the U.S. Coast Guard (hereafter “USCG” or “the applicant”) while engaged in activities associated with or in support of marine construction activities in the Gulf of Alaska. The applicant is a U.S. citizen as defined in § 18.27(c).

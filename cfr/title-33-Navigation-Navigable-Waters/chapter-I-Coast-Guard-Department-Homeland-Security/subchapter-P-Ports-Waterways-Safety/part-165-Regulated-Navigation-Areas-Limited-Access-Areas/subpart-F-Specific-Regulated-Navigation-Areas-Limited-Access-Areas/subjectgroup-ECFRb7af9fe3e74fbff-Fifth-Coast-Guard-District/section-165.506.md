@@ -1,5 +1,7 @@
 ##### § 165.506 Safety Zones; Fireworks Displays in the Fifth Coast Guard District. #####
 
+Link to an amendment published at 88 FR 32109, May 19, 2023.
+
 (a) *Definitions.* The following definitions apply to this section:
 
 *Event Patrol Commander* or *Event PATCOM* means a commissioned, warrant, or petty officer of the Coast Guard who has been designated by the respective Coast Guard Sector—COTP to enforce these regulations.
