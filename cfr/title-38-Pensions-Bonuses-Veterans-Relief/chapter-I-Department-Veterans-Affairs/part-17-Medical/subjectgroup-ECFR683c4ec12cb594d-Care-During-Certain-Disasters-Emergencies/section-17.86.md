@@ -1,5 +1,7 @@
 ##### § 17.86 Provision of hospital care and medical services during certain disasters and emergencies under 38 U.S.C. 1785. #####
 
+Link to an amendment published at 88 FR 32975, May 23, 2023.
+
 (a) This section sets forth regulations regarding the provision of hospital care and medical services under 38 U.S.C. 1785.
 
 (b) During and immediately following a disaster or emergency referred to in paragraph (c) of this section, VA under 38 U.S.C. 1785 may furnish hospital care and medical services to individuals (including those who otherwise do not have VA eligibility for such care and services) responding to, involved in, or otherwise affected by that disaster or emergency.

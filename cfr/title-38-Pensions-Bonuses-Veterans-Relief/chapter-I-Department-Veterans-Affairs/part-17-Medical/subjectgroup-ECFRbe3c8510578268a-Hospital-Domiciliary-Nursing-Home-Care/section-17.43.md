@@ -1,5 +1,7 @@
 ##### § 17.43 Persons entitled to hospital or domiciliary care. #####
 
+Link to an amendment published at 88 FR 32975, May 23, 2023.
+
 Hospital or domiciliary care may be provided:
 
 (a) Not subject to the eligibility provisions of 38 U.S.C. 1710, 1722, and 1729, and 38 CFR 17.44 and 17.45, for:

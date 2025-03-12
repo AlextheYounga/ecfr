@@ -1,5 +1,7 @@
 ##### § 17.44 Hospital care for certain retirees with chronic disability (Executive Orders 10122, 10400 and 11733). #####
 
+Link to an amendment published at 88 FR 32975, May 23, 2023.
+
 Hospital care may be furnished when beds are available to members or former members of the uniformed services (Army, Navy, Air Force, Marine Corps, Coast Guard, Coast and Geodetic Survey, now National Oceanic and Atmospheric Administration hereinafter referred to as *NOAA,* and Public Health Service) temporarily or permanently retired for physical disability or receiving disability retirement pay who require hospital care for chronic diseases and who have no eligibility for hospital care under laws governing the Department of Veterans Affairs, or who having eligibility do not elect hospitalization as Department of Veterans Affairs beneficiaries. Care under this section is subject to the following conditions:
 
 (a) Persons defined in this section who are members or former members of the active military, naval, or air service must agree to pay the subsistence rate set by the Secretary of Veterans Affairs, except that no subsistence charge will be made for those persons who are members or former members of the Public Health Service, Coast Guard, Coast and Geodetic Survey now *NOAA,* and enlisted personnel of the Army, Navy, Marine Corps, and Air Force.

@@ -48,6 +48,16 @@ Note 2 to paragraph (c)(1)(x):
 
 License Exception TSU under § 740.13 of the EAR is available for the ECCNs controlled for MT reasons specified in paragraph (a)(5) in § 740.2, provided the software or technology is for an end use specified in that paragraph and meets the requirements of License Exception TSU. (See §§ 740.2(a)(5) and 740.13). The licensing policy in § 742.5(b)(3) is only available for licensed exports (or reexports, or transfers (in-country)).
 
+(xi) Addition of a new HTS-6 Code identified under supplements nos. 2, 4, or 5 to part 746 or item identified under supplement no. 6 to part 746 for export or reexport to or transfer within Russia or Belarus, provided the criteria of this paragraph are met.
+
+(A) The end use of the BIS license is for the divesture of items within Russia or Belarus or their transfer within Russia or Belarus for the purpose of reexporting such items from Russia or Belarus;
+
+(B) The new HTS-6 Code under supplements nos. 2, 4, or 5 to part 746 or item identified under supplement no. 6 to part 746 was added to the EAR after the validation date of the BIS license;
+
+(C) The BIS license has not yet expired; and
+
+(D) The export, reexport, or in-country transfer of these additional HTS-6 Codes under supplements nos. 2, 4, or 5 to part 746 or items identified under supplement no. 6 to part 746 will not exceed the shipping tolerance of the original license or the number of units authorized under the original license.
+
 (2) In some circumstances, BIS may authorize changing the name of a person listed on a license (*i.e.*, name of exporter, reexporter, purchaser, intermediate consignee, ultimate consignee or end user), provided the pertinent person has not undergone a change in ownership, including merger or acquisition, or any other change in legal status since the time the license was issued. In order to rely on this paragraph (c)(2), BIS must have approved the name change in response to an advisory opinion request submitted by the licensee pursuant to § 748.3(c) of the EAR and the instructions below.
 
 (i) The advisory opinion request must be submitted on the licensee's company letterhead and include the following information:

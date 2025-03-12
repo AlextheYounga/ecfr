@@ -44,7 +44,7 @@ Foreign-produced items located outside the United States are subject to the EAR 
 
 (d) *“600 series” FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (d)(1) of this section and the country scope in paragraph (d)(2) of this section.
 
-**Note 1 to paragraph (d) introductory text:**
+Note 1 to paragraph (d) introductory text:
 
 As described in the CCL, ECCN 0A919 is included in this paragraph because it includes the “direct product” of “600 series” “technology” or “software”.
 
@@ -98,9 +98,9 @@ A foreign-produced item includes any foreign-produced wafer whether finished or 
 
 (B) *Footnote 4 designated entities as transaction parties.* Any entity with a footnote 4 designation in the license requirement column of the Entity List in supplement no. 4 to part 744 of the EAR is a party to any transaction involving the foreign-produced item, *e.g.,* as a “purchaser,” “intermediate consignee,” “ultimate consignee,” or “end-user.”
 
-(f) *Russia/Belarus FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (f)(1) of this section and the destination scope in paragraph (f)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (f).
+(f) *Russia/Belarus/Temporarily occupied Crimea region of Ukraine FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (f)(1) of this section and the destination scope in paragraph (f)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (f).
 
-(1) *Product scope of Russia/Belarus FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (f)(1)(i) or (ii) of this section.
+(1) *Product scope of Russia/Belarus/Temporarily occupied Crimea region of Ukraine FDP rule.* The product scope applies if a foreign-produced item meets the conditions of either paragraph (f)(1)(i) or (ii) of this section.
 
 (i) *“Direct product” of “technology” or “software.”* A foreign-produced item meets the product scope of this paragraph (f)(1)(i) if the foreign-produced item meets both of the following conditions:
 
@@ -114,7 +114,7 @@ A foreign-produced item includes any foreign-produced wafer whether finished or 
 
 (B) The foreign-produced item is specified in any ECCN on the CCL or in supplement no. 6 or 7 to part 746 of the EAR.
 
-(2) *Destination scope of the Russia/Belarus FDP rule.* A foreign-produced item meets the destination scope of this paragraph (f)(2) if there is “knowledge” that the foreign-produced item is destined to Russia or Belarus or will be incorporated into or used in the “production” or “development” of any “part,” “component,” or “equipment” specified in any ECCN on the CCL or in supplement no. 6 or 7 to part 746 of the EAR and produced in or destined to Russia or Belarus.
+(2) *Destination scope of the Russia/Belarus/Temporarily occupied Crimea region of Ukraine FDP rule.* A foreign-produced item meets the destination scope of this paragraph (f)(2) if there is “knowledge” that the foreign-produced item is destined to Russia, Belarus, or the temporarily occupied Crimea region of Ukraine or will be incorporated into or used in the “production” or” development” of any “part,” “component,” or “equipment” specified in any ECCN on the CCL or in supplement no. 6 or 7 to part 746 of the EAR and produced in or destined to Russia, Belarus, or the temporarily occupied Crimea region of Ukraine.
 
 (g) *Russia/Belarus-Military End User FDP rule.* A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (g)(1) of this section and the end-user scope in paragraph (g)(2) of this section. See § 746.8 of the EAR for license requirements, license review policy, and license exceptions applicable to foreign-produced items that are subject to the EAR pursuant to this paragraph (g).
 
@@ -198,4 +198,4 @@ A 'military end user' for purposes of paragraph (g) is any entity listed on the 
 
 (2) *Destination scope of the Iran FDP rule.* A foreign-produced item meets the destination scope of this paragraph (j)(2) if there is “knowledge” that the foreign-produced item is destined to Iran or will be incorporated into or used in the “production” or “development” of any “part,” “component,” or “equipment,” including any modified or designed “components,” “parts,” “accessories,” and “attachments” therefor, identified in supplement no. 7 to part 746 of the EAR or is specified in any ECCN on the CCL in Categories 3 through 5 or 7 of the CCL that is located in or destined to Iran.
 
-[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023]
+[87 FR 6024, Feb. 3, 2022, as amended at 87 FR 12236, Mar. 3, 2022; 87 FR 13055, Mar. 8, 2022; 87 FR 22131, Apr. 14, 2022; 87 FR 57078, Sept. 16, 2022; 87 FR 62195, Oct. 13, 2022; 88 FR 2824, Jan. 18, 2023; 88 FR 12153, Feb. 27, 2023; 88 FR 33428, May 23, 2023]

@@ -1,5 +1,7 @@
 ##### § 17.102 Charges for care or services. #####
 
+Link to an amendment published at 88 FR 32975, May 23, 2023.
+
 Except as provided in § 17.101, charges at the indicated rates shall be made for Department of Veterans Affairs hospital care or medical services (including, but not limited to, dental services, supplies, medicines, orthopedic and prosthetic appliances, and domiciliary or nursing home care) as follows:
 
 (a) *Furnished in error or on tentative eligibility.* Charges at rates prescribed by the Under Secretary for Health shall be made for inpatient or outpatient care or services (including domiciliary care) authorized for any person on the basis of eligibility as a veteran or a tentative eligibility determination under § 17.34 but he or she was subsequently found to have been ineligible for such care or services as a veteran because the military service or any other eligibility requirement was not met, or

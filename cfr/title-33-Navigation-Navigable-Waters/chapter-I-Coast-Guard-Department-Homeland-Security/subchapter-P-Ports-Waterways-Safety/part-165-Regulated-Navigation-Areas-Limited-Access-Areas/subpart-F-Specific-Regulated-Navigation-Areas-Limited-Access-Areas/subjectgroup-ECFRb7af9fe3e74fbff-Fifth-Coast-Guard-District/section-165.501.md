@@ -1,5 +1,7 @@
 ##### § 165.501 Chesapeake Bay entrance and Hampton Roads, VA and adjacent waters—Regulated Navigation Area. #####
 
+Link to an amendment published at 88 FR 32970, May 23, 2023.
+
 (a) *Location.* The waters enclosed by the shoreline and the following lines are a Regulated Navigation Area:
 
 (1) *Offshore zone.* A line drawn due East from the mean low water mark at the North Carolina and Virginia border at latitude 36°33′03″ N, longitude 75°52′00″ W, to the Territorial Seas boundary line at latitude 36°33′05″ N, longitude 75°36′51″ W, thence generally Northeastward along the Territorial Seas boundary line to latitude 38°01′39″ N, longitude 74°57′18″ W, thence due West to the mean low water mark at the Maryland and Virginia border at latitude 38°01′39″ N, longitude 75°14′30″ W, thence South along the mean low water mark on the Virginia coast, and eastward of the Colregs Demarcation Lines across Chincoteague Inlet, Assawoman Inlet, Gargathy Inlet, Metompkin Inlet, Wachapreague Inlet, Quinby Inlet, Great Machipongo Inlet, Sand Shoal Inlet, New Inlet, Ship Shoal Inlet and Little Inlet, to the Colregs Demarcation Line across the mouth of Chesapeake Bay, continuing south along the Virginia low water mark and eastward of the Colregs Demarcation Line across Rudee Inlet to the point of beginning. All positions reference NAD 83.
