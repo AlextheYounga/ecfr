@@ -1,14 +1,12 @@
 ##### § 102-117.135 What are the international transportation restrictions? #####
 
-Link to an amendment published at 87 FR 32322, May 31, 2022.
-
 Several statutes mandate the use of U.S. flag carriers for international shipments, such as 49 U.S.C. 40118, commonly referred to as the “Fly America Act”, and 46 U.S.C. 55305, the Cargo Preference Act of 1954, as amended. The principal restrictions are as follows:
 
 (a) *Air cargo:* The use of foreign-flag air carriers when funded by the U.S. Government should be rare. International movement of cargo by air is subject to the Fly America Act, 49 U.S.C. 40118, which requires the use of U.S. flag air carrier service for all air cargo movements funded by the U.S. Government, including cargo shipped by contractors, grantees, and others at Government expense, except when one of the following exceptions applies:
 
 (1) The transportation is provided under a bilateral or multilateral air transportation agreement to which the U.S. Government and the government of a foreign country are parties, and which the Department of Transportation has determined meets the requirements of the Fly America Act.
 
-(i) Information on bilateral or multilateral air transport agreements impacting U.S. Government procured transportation can be accessed at *http://www.state.gov/e/eb/tra/ata/index.htm;* and
+(i) Information on bilateral or multilateral air transport agreements impacting U.S. Government procured transportation can be accessed at *https://www.state.gov/civil-air-transport-agreements* and
 
 (ii) If determined appropriate, GSA may periodically issue FMR Bulletins providing further guidance on bilateral or multilateral air transportation agreements impacting U.S. Government procured transportation. These bulletins may be accessed at *http://www.gsa.gov/bulletins;*
 
@@ -26,6 +24,6 @@ Several statutes mandate the use of U.S. flag carriers for international shipmen
 
 (v) No U.S. flag air carrier can accomplish the agency's mission.
 
-(b) *Ocean cargo:* International movement of property by water is subject to the Cargo Preference Act of 1954, as amended, 46 U.S.C. 55305, and the implementing regulations found at 46 CFR part 381, which require the use of a U.S. flag carrier for 50% of the tonnage shipped by each Department or Agency when service is available. The Maritime Administration (MARAD) monitors agency compliance with these laws. All Departments or Agencies shipping Government-impelled cargo must comply with the provisions of 46 CFR 381.3. For further information contact MARAD, Tel: 1-800-996-2723, Email: *cargo.marad@dot.gov.* For further information on international ocean shipping, go to: *http://www.marad.dot.gov/cargopreference.*
+(b) *Ocean cargo.* International movement of property by water is subject to the Cargo Preference Act of 1954, as amended, 46 U.S.C. 55305, and the implementing regulations found at 46 CFR part 381, which require the use of a U.S. flag carrier for at least 50% of the tonnage shipped by each department or agency when service is available (see 46 CFR 381.7). The Maritime Administration (MARAD) monitors agency compliance with these laws. All departments or agencies shipping Government-impelled cargo must comply with the reporting provisions of 46 CFR 381.3. For further information contact MARAD, Tel: 202-366-4610, Email: *cargo.marad@dot.gov*. For further information on international ocean shipping, go to: *https://www.maritime.dot.gov/ports/cargo-preference/cargo-preference*.
 
-[79 FR 33476, June 11, 2014]
+[79 FR 33476, June 11, 2014, as amended at 87 FR 32322, May 31, 2022]

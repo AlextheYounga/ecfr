@@ -1,12 +1,10 @@
 ##### § 240.24b-2 Nondisclosure of information filed with the Commission and with any exchange. #####
 
-Link to an amendment published at 87 FR 38964, June 30, 2022.Preliminary Note:
-
 Except as otherwise provided in this rule, confidential treatment requests shall be submitted in paper format only, whether or not the filer is required to submit a filing in electronic format.
 
 (a) Any person filing any registration statement, report, application, statement, correspondence, notice or other document (herein referred to as the material filed) pursuant to the Act may make written objection to the public disclosure of any information contained therein in accordance with the procedure set forth below. The procedure provided in this rule shall be the exclusive means of requesting confidential treatment of information required to be filed under the Act.
 
-(b) Except as otherwise provided in paragraphs (g) and (h) of this section, the person shall omit from material filed the portion thereof which it desires to keep undisclosed (hereinafter called the confidential portion). In lieu thereof, it shall indicate at the appropriate place in the material filed that the confidential portion has been so omitted and filed separately with the Commission. The person shall file with the copies of the material filed with the Commission:
+(b) Except as otherwise provided in paragraphs (g) through (i) of this section, the person shall omit from material filed the portion thereof which it desires to keep undisclosed (hereinafter called the confidential portion). In lieu thereof, it shall indicate at the appropriate place in the material filed that the confidential portion has been so omitted and filed separately with the Commission. The person shall file with the copies of the material filed with the Commission:
 
 (1) One copy of the confidential portion, marked “Confidential Treatment,” of the material filed with the Commission. The copy shall contain an appropriate identification of the item or other requirement involved and, notwithstanding that the confidential portion does not constitute the whole of the answer, the entire answer thereto; except that in the case where the confidential portion is part of a financial statement or schedule, only the particular financial statement or schedule need be included. The copy of the confidential portion shall be in the same form as the remainder of the material filed;
 
@@ -40,4 +38,6 @@ Except as otherwise provided in this rule, confidential treatment requests shall
 
 (h) A security-based swap data repository shall not omit the confidential portion from the material filed in electronic format pursuant to section 13(n) of the Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder. In lieu of the procedures described in paragraph (b) of this section, a security-based swap data repository shall request confidential treatment electronically for any material filed in electronic format pursuant to section 13(n) of the Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder.
 
-[41 FR 20578, May 19, 1976, as amended at 58 FR 14685, Mar. 18, 1993; 60 FR 32825, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30404, June 14, 1996; 79 FR 72436, Dec. 5, 2014; 80 FR 14556, Mar. 19, 2015; 84 FR 50739, Sept. 26, 2019]
+(i) An institutional investment manager shall omit the confidential portion from the material publicly filed in electronic format pursuant to section 13(f) of the Act (15 U.S.C. 78m(f)) and the rules and regulations thereunder. The institutional investment manager shall indicate in the appropriate place in the material publicly filed that the confidential portion has been so omitted and filed separately with the Commission. In lieu of the procedures described in paragraph (b) of this section, an institutional investment manager shall request confidential treatment electronically pursuant to section 13(f) of the Act (15 U.S.C. 78m(f)) and the rules and regulations thereunder.
+
+[41 FR 20578, May 19, 1976, as amended at 58 FR 14685, Mar. 18, 1993; 60 FR 32825, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30404, June 14, 1996; 79 FR 72436, Dec. 5, 2014; 80 FR 14556, Mar. 19, 2015; 84 FR 50739, Sept. 26, 2019; 87 FR 38964, June 30, 2022]

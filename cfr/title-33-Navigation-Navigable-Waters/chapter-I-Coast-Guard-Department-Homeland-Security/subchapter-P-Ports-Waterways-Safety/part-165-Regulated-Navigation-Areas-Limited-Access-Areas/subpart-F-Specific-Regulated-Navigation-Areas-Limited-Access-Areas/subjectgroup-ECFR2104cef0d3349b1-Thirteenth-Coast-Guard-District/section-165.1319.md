@@ -1,0 +1,9 @@
+##### § 165.1319 Seafair Air Show Performance, Seattle, WA. #####
+
+(a) *Enforcement period.* This section will be enforced annually during the last week in July and the first two weeks of August from 8 a.m. until 4 p.m., each day during the event. The event will be one week or less in duration. The specific dates during this time frame will be published in the Federal Register.
+
+(b) *Location.* The following is a safety zone: All waters of Lake Washington encompassed by the following points: 47°36′17.28″ N, 122°14′49.44″ W; thence west to point 47°36′17.28″ N, 122°16′58.56″ W; thence south along the shoreline to Andrews Bay at point 47°33′04.62″ N, 122°15′32.46″ W; thence northeast along the shoreline of Bailey Peninsula to its northeast point at 47°33′44.98″ N, 122°15′03.48″ W; thence easterly to point 47°33′43.98″ N, 122°13′51.36″ W on Mercer Island; thence northerly along the shore of Mercer Island to point 47°35′45.12″ N, 122°14′49.44″ W; thence north back to the point of origin.
+
+(c) *Regulations.* In accordance with the general regulations in 33 CFR Part 165, Subpart C, no person or vessel may enter or remain in the zone except for support vessels and support personnel, vessels registered with the event organizer, or other vessels authorized by the Captain of the Port or his designated representatives. Vessels and persons granted authorization to enter the safety zone shall obey all lawful orders or directions of the Captain of the Port or his designated representatives.
+
+[CGD13-04-002, 69 FR 35250, June 24, 2004, as amended by USCG-2012-0903, 78 FR 12600, Feb. 25, 2013]

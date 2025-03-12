@@ -1,6 +1,6 @@
 ##### § 573.485 Fumonisin esterase. #####
 
-The food additive fumonisin esterase may be safely used to degrade fumonisins in swine feed in accordance with the following prescribed conditions:
+The food additive fumonisin esterase may be safely used to degrade fumonisins in swine and poultry feed in accordance with the following prescribed conditions:
 
 (a) Fumonisin esterase, a carboxylesterase, is produced by a nontoxigenic and nonpathogenic yeast, *Komagataella phaffii,* genetically engineered to express the fumonisin esterase gene from the bacterium *Sphingopyxis* sp. Hydrolyzed fumonisin and two tricarballylic acid molecules are the reaction products of fumonisin hydrolysis by this 493 amino acid fumonisin esterase enzyme.
 
@@ -12,7 +12,13 @@ The food additive fumonisin esterase may be safely used to degrade fumonisins in
 
 (3) One unit of fumonisin esterase activity is defined as the amount of enzymatic activity required to release one micromole of tricarballylic acid (CAS 99-14-9) per minute from 100 micromolar fumonisin B1 in 20 millimolar Tris-hydrochloride buffer (pH 8.0) containing 0.1 milligram per milliliter of bovine serum albumin at 30 °C.
 
-(c) The additive is incorporated at a minimum of 15 units of fumonisin esterase activity per kilogram of complete swine feed that cannot contain more than 10 parts per million of total fumonisins.
+(c) The additive is incorporated at a minimum of 15 units of fumonisin esterase activity per kilogram of complete feed:
+
+(1) Complete swine feeds cannot contain more than 10 parts per million of total fumonisins.
+
+(2) Complete feed for poultry being raised for slaughter cannot contain more than 50 parts per million of total fumonisins.
+
+(3) Complete feed for breeding poultry and hens laying eggs for human consumption cannot contain more than 15 parts per million of total fumonisins.
 
 (d) To assure safe use of the additive, in addition to the other information required by the Federal Food, Drug, and Cosmetic Act:
 
@@ -28,4 +34,4 @@ The food additive fumonisin esterase may be safely used to degrade fumonisins in
 
 (iv) A cautionary statement concerning the maximum fumonisin content as established in paragraph (c) of this section.
 
-[87 FR 47344, Aug. 3, 2022]
+[87 FR 47344, Aug. 3, 2022, as amended at 87 FR 52682, Aug. 29, 2022]

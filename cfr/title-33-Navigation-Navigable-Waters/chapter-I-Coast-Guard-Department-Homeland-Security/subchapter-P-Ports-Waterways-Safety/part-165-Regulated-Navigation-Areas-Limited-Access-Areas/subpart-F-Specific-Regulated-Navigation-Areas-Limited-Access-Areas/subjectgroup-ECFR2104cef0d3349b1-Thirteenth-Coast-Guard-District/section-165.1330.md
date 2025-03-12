@@ -1,0 +1,11 @@
+##### § 165.1330 Safety Zone; Fleet Week Maritime Festival, Pier 66, Elliott Bay, Seattle, Washington. #####
+
+(a) *Location.* The following area is a safety zone: All waters extending 100 yards from Pier 66, Elliott Bay, WA within a box encompassed by the points, 47°36.719′ N, 122°21.099′ W; 47°36.682′ N, 122°21.149′ W; 47°36.514′ N, 122°20.865′ W; and 47°36.552′ N, 122°20.814′ W.
+
+(b) *Regulations.* In accordance with the general regulations in 33 CFR Part 165, Subpart C, no vessel operator may enter, transit, moor, or anchor within this safety zone, except for vessels authorized by the Captain of the Port or Designated Representative, thirty minutes prior to the beginning, during and thirty minutes following the conclusion of the Parade of Ships. For the purpose of this rule, the Parade of Ships includes both the pass and review of the ships near Pier 66 and the aerial demonstrations immediately following the pass and review. The Captain of the Port may be assisted by other federal, state, or local agencies as needed.
+
+(c) *Authorization.* In order to transit through this safety zone, authorization must be granted by the Captain of the Port, Puget Sound, or their Designated Representative. All vessel operators desiring entry into this safety zone shall gain authorization by contacting either the on-scene U.S. Coast Guard patrol craft on VHF Ch 13 or Ch 16, or Coast Guard Sector Puget Sound Joint Harbor Operations Center (JHOC) via telephone at (206) 217-6002. Requests shall indicate the reason why movement within the safety zone is necessary and the vessel's arrival and/or departure facility name, pier and/or berth. Vessel operators granted permission to enter this safety zone will be escorted by the on-scene patrol until no longer within the safety zone.
+
+(d) *Enforcement period.* This rule is enforced annually during the parade of ships which typically occurs on a Wednesday during the last week of July or the first week in August from 8 a.m. until 8 p.m. unless cancelled sooner by the Captain of the Port.
+
+[USCG-2010-0062, 76 FR 30018, May 24, 2011]

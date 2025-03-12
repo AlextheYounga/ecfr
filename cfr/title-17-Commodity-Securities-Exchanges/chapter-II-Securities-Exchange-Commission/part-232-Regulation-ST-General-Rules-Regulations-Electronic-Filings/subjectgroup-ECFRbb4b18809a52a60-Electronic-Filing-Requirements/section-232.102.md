@@ -1,6 +1,6 @@
 ##### § 232.102 Exhibits. #####
 
-(a) Exhibits to an electronic filing that have not previously been filed with the Commission shall be filed in electronic format, absent a hardship exemption. Previously filed exhibits, whether in paper or electronic format, may be incorporated by reference into an electronic filing to the extent permitted by Rule 411 under the Securities Act (§ 230.411 of this chapter), Rule 12b-23 under the Exchange Act (§ 240.12b-23 of this chapter), Rule 0-4 under the Investment Company Act (§ 270.0-4 of this chapter) or Rule 303 of Regulation S-T (§ 232.303). An electronic filer may, at its option, restate in electronic format any exhibit incorporated by reference that originally was filed in paper format.
+(a) Exhibits to an electronic filing that have not previously been filed with the Commission shall be filed in electronic format, absent a hardship exemption. Previously filed exhibits, whether in paper or electronic format, may be incorporated by reference into an electronic filing to the extent permitted by Rule 411 under the Securities Act (§ 230.411 of this chapter), Rule 12b-23 under the Exchange Act (§ 240.12b-23 of this chapter), Rule 0-4 under the Investment Company Act (§ 270.0-4 of this chapter), Rule 0-6 under the Advisers Act (§ 275.0-6 of this chapter) or Rule 303 of Regulation S-T (§ 232.303). An electronic filer may, at its option, restate in electronic format any exhibit incorporated by reference that originally was filed in paper format.
 
 Note to paragraph (a):
 
@@ -16,4 +16,4 @@ If the exhibit is filed in paper pursuant to a temporary or continuing hardship 
 
 (e) Notwithstanding the provisions of paragraphs (a) through (d) of this section, any incorporation by reference by a registered investment company or a business development company must relate only to documents that have been filed in electronic format on the EDGAR system, unless the document has been filed in paper under a hardship exemption (§ 232.201 or § 232.202) and any required confirming electronic copy has been submitted.
 
-[58 FR 14670, Mar. 18, 1993, as amended at 59 FR 67762, Dec. 30, 1994; 60 FR 32824, June 23, 1995; 62 FR 36457, July 8, 1997; 64 FR 27894, May 21, 1999; 70 FR 43569, July 27, 2005; 76 FR 71876, Nov. 21, 2011; 82 FR 14142, Mar. 17, 2017; 84 FR 12722, Apr. 2, 2019]
+[58 FR 14670, Mar. 18, 1993, as amended at 59 FR 67762, Dec. 30, 1994; 60 FR 32824, June 23, 1995; 62 FR 36457, July 8, 1997; 64 FR 27894, May 21, 1999; 70 FR 43569, July 27, 2005; 76 FR 71876, Nov. 21, 2011; 82 FR 14142, Mar. 17, 2017; 84 FR 12722, Apr. 2, 2019; 87 FR 38984, June 30, 2022]

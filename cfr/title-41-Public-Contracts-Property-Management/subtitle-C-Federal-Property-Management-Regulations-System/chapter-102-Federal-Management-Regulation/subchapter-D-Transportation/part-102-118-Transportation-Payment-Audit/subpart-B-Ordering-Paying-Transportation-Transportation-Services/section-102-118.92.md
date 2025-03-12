@@ -1,7 +1,5 @@
 ##### § 102-118.92 How does my agency handle receipts, tickets or other records of cash payments? #####
 
-Link to an amendment published at 87 FR 32324, May 31, 2022.
+Your agency must ensure that its employees keep the original receipts for transportation purchases over $75.00 made with cash. If it is impractical to furnish receipts in any instance as required by this subtitle, the failure to do so must be fully explained on the travel voucher. Mere inconvenience in the matter of taking receipts will not be considered. These receipts must be saved for a possible postpayment audit by the GSA Transportation Audits Division. If your agency requires the filing of paper receipts, then you must do so. For transportation purchases over $75.00, your agency must ensure that copies of all original papers are retained at your agency.
 
-Your agency must ensure that its employees keep the original receipts for transportation purchases over $75.00 made with cash. If it is impractical to furnish receipts in any instance as required by this subtitle, the failure to do so must be fully explained on the travel voucher. Mere inconvenience in the matter of taking receipts will not be considered. These receipts must be saved for a possible postpayment audit by the GSA Audit Division. If your agency requires the filing of paper receipts, then you must do so. For transportation purchases over $75.00, your agency must ensure that copies of all original papers are retained at your agency. Copies of tickets from a TSP must be sent to - General Services Administration, Transportation Audit Division (QMCA), Crystal Plaza 4, Room 300, 2200 Crystal Drive, Arlington, VA 22202, *www.gsa.gov/transaudits.*
-
-[69 FR 57618, Sept. 24, 2004, as amended at 74 FR 30475, June 26, 2009]
+[69 FR 57618, Sept. 24, 2004, as amended at 74 FR 30475, June 26, 2009; 87 FR 32324, May 31, 2022]

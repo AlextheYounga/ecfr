@@ -1,7 +1,5 @@
 ##### § 102-118.35 What definitions apply to this part? #####
 
-Link to an amendment published at 87 FR 32324, May 31, 2022.
-
 The following definitions apply to this part:
 
 *Agency* means a department, agency, or instrumentality of the United States Government (31 U.S.C. 101).
@@ -10,7 +8,7 @@ The following definitions apply to this part:
 
 *Cash* means cash, personal checks, personal charge cards, and travelers checks. Cash may only be used to pay for transportation expenses in extremely limited cases where government payment mechanisms are not available or acceptable.
 
-*Claim* means -
+*Claim* means—
 
 (1) Any demand by an agency upon a transportation service provider (TSP) for the payment of overcharges, ordinary debts, fines, penalties, administrative fees, special charges, and interest; or
 
@@ -30,7 +28,7 @@ The following definitions apply to this part:
 
 *Government contractor-issued charge card* means the charge card used by authorized individuals to pay for official travel and transportation related expenses for which the contractor bills the employee. This is different than a centrally billed account paying for official travel and transportation related expenses for which the agency is billed.
 
-*Government Transportation Request (GTR)* (*Optional Form 1169*) - means a Government document used to procure passenger transportation services from a TSP. The document obligates the Government to pay for transportation services provided and is used when a Government contractor issued charge card is not.
+*Government Transportation Request (GTR)* (*Optional Form 1169*)—means a Government document used to procure passenger transportation services from a TSP. The document obligates the Government to pay for transportation services provided and is used when a Government contractor issued charge card is not accepted by the TSP.
 
 *Offset* means something that serves to counterbalance or to compensate for something else. These are funds owed to a TSP that are not released by the agency but instead used to repay the agency for a debt incurred by the TSP.
 
@@ -42,7 +40,7 @@ The following definitions apply to this part:
 
 *Prepayment audit* means an audit of transportation billing documents before payment to determine their validity, propriety, and conformity of rates with tariffs, quotations, agreements, contracts, or tenders (31 U.S.C. 3726).
 
-*Privately Owned Personal Property Government Bill of Lading,* Optional Form 1203, means the agency transportation document used as a receipt of goods, evidence of title, and generally a contract of carriage. It is only available for the transportation of household goods. Use of this form is mandatory for Department of Defense, but optional for other agencies.
+*Privately Owned Personal Property Government Bill of Lading* means the agency transportation document used as a receipt of goods, evidence of title, and generally a contract of carriage. It is only available for the transportation of household goods. Use of this form is mandatory for Department of Defense, but optional for other agencies.
 
 *Rate authority* means the document that establishes the legal charges for a transportation shipment. Charges included in a rate authority are those rates, fares, and charges for transportation and related services contained in tariffs, tenders, contracts, bills of lading, and other equivalent documents.
 
@@ -70,4 +68,4 @@ Note to § 102-118.35:
 
 15 U.S.C. 96, *et seq.,* 49 U.S.C. 13102, *et seq.,* and 41 CFR Chapter 302 Federal Travel Regulation defines additional transportation terms not listed in this section.
 
-[65 FR 24569, Apr. 26, 2000, as amended at 69 FR 57618, Sept. 24, 2004; 74 FR 30475, June 26, 2009; 81 FR 65299, Sept. 22, 2016]
+[65 FR 24569, Apr. 26, 2000, as amended at 69 FR 57618, Sept. 24, 2004; 74 FR 30475, June 26, 2009; 81 FR 65299, Sept. 22, 2016; 87 FR 32324, May 31, 2022]

@@ -1,0 +1,9 @@
+##### § 165.1311 Olympic View Resource Area, Tacoma, WA. #####
+
+(a) *Regulated area.* A regulated navigation area is established on that portion of Commencement Bay bounded by a line beginning at: 47°15′40.19753″ N, 122°26′09.27617″ W; thence to 47°15′42.21070″ N, 122°26′10.65290″ W; thence to 47°15′41.84696″ N, 122°26′11.80062″ W; thence to 47°15′45.57725″ N, 122°26′14.35173″ W; thence to 47°15′53.06020″ N, 122°26′06.61366″ W; thence to 47°15′46.74493″ N, 122°26′02.50574″ W; thence returning along the shoreline to the point of origin. [Datum NAD 1983].
+
+(b) *Regulations.* All vessels and persons are prohibited from anchoring, dredging, laying cable, dragging, seining, bottom fishing, conducting salvage operations, or any other activity which could potentially disturb the seabed in the designated area. Vessels may otherwise transit or navigate within this area without reservation.
+
+(c) *Waiver.* The Captain of the Port, Puget Sound, upon advice from the United States Environmental Protection Agency (USEPA) Project Manager and the Washington State Department of Natural Resources, may, upon written request, authorize a waiver from this section if it is determined that the proposed operation supports USEPA remedial objectives, or can be performed in a manner that ensures the integrity of the sediment cap. A written request must describe the intended operation, state the need, and describe the proposed precautionary measures. Requests shall be submitted in triplicate, to facilitate review by USEPA, Coast Guard, and Washington State Agencies. USEPA managed remedial design, remedial action, habitat mitigation, or monitoring activities associated with the Olympic View Resource Area Superfund Site are excluded from the waiver requirement. USEPA is required, however, to alert the Coast Guard in advance concerning any of the above-mentioned activities that may, or will, take place in the Regulated Area.
+
+[CGD13-02-016, 68 FR 17735, Apr. 11, 2003]

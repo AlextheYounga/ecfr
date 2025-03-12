@@ -16,7 +16,7 @@ Note 2 to paragraph (a)(1)(iii).
 
 Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 of this chapter) in electronic format.
 
-(iv) Documents filed with the Commission pursuant to sections 8, 17, 20, 23(c), 24(b), 24(e), 24(f), and 30 of the Investment Company Act (15 U.S.C. 80a-8, 80a-17, 80a-20, 80a-23(c), 80a-24(b), 80a-24(e), 80a-24(f), and 80a-29) and any application for an order under any section of the Investment Company Act (15 U.S. C. 80a-1 *et seq.*);
+(iv) Documents filed with the Commission pursuant to sections 8, 17, 20, 23(c), 24(b), 24(e), 24(f), and 30 of the Investment Company Act (15 U.S.C. 80a-8, 80a-17, 80a-20, 80a-23(c), 80a-24(b), 80a-24(e), 80a-24(f), and 80a-29) and any application for an order under any section of the Investment Company Act (15 U.S.C. 80a-1 *et seq.*). The filing of an application for an order under any section of the Investment Company Act must be made on EDGAR as required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph will be considered as officially filed with or furnished to, as applicable, the Commission;
 
 (v) Documents relating to offerings exempt from registration under the Securities Act filed with the Commission pursuant to Regulation E (§§ 230.601-230.610a of this chapter);
 
@@ -50,11 +50,11 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 
 (xx) Form Funding Portal (§ 249.2000 of this chapter). Exhibits and attachments to Form Funding Portal (§ 249.2000 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission.
 
-(xxi) Form ATS-N (§ 249.640 of this chapter).
+(xxi) Form ATS-N (§ 249.640 of this chapter);
 
-(xxii) [Reserved]
+(xxii) Confidential treatment requests filed with the Commission pursuant to section 13(f) of the Exchange Act (15 U.S.C. 78m(f)) and the rules and regulations thereunder, including Form 13F (17 CFR 249.325). The filings must be made on EDGAR in the format required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph will be considered as officially filed with or furnished to, as applicable, the Commission; and
 
-(xxiii) [Reserved]
+(xxiii) Any application for an order under any section of the Investment Advisers Act (15 U.S.C. 80b-1 *et seq.*). The filings must be made on EDGAR in the format required by the EDGAR Filer Manual, as defined in § 232.11 (Rule 11 of Regulation S-T). Notwithstanding § 232.104 (Rule 104 of Regulation S-T), the documents filed or furnished under this paragraph will be considered as officially filed with or furnished to, as applicable, the Commission.
 
 (xxiv) Annual reports to security holders furnished for the information of the Commission under § 240.14a-3(c) of this chapter or § 240.14c-3(b) of this chapter, under the requirements of Form 10-K (§ 249.310 of this chapter) filed by registrants under Exchange Act Section 15(d) (15 U.S.C. 78o(d)), or by foreign private issuers filed on Form 6-K (§ 249.306 of this chapter) under § 240.13a-16 of this chapter or § 240.15d-16 of this chapter;
 
@@ -128,6 +128,6 @@ Failure to submit a required electronic filing pursuant to this paragraph (a), a
 
 (16) Applications for an exemption from Exchange Act reporting obligations filed pursuant to Section 12(h) of the Exchange Act (15 U.S.C. 78*l*(h)).
 
-(d) All documents, including any information with respect to which confidential treatment is requested, filed pursuant to section 13(n) of the Exchange Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder shall be filed in electronic format.
+(d) All documents, including any information with respect to which confidential treatment is requested, filed pursuant to section 13(n) (15 U.S.C. 78m(n)) and section 13(f) (15 U.S.C. 78m(f)) of the Exchange Act and the rules and regulations thereunder shall be filed in electronic format.
 
 [58 FR 14670, Mar. 18, 1993; 58 FR 26383, May 3, 1993]Editorial Note:For Federal Register citations affecting § 232.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,13 @@
+##### § 165.1343 Regulated navigation area; NW Natural PGM Site, Willamette River, Portland, OR. #####
+
+(a) *Location.* The following area is a regulated navigation area (RNA): All navigable waters of the Willamette River adjacent to the NW Natural Portland Gas Manufacturing (PGM) site, encompassed by a line connecting the following points beginning at 45°31′33.8″ N, 122°40′11.6″ W; thence to 45°31′33.9″ N, 122°40′11.2″ W; thence to 45°31′32.7″ N, 122°40′10.7″ W; thence to 45°31′32.9″ N, 122°40′09.4″ W; thence to 45°31′32.2″ N, 122°40′08.8″ W; thence to 45°31′32.2″ N, 122°40′07.9″ W; thence to 45°31′31.4″ N, 122°40′07.6″ W; thence to 45°31′30.9″ N, 122°40′10.7″ W; and along the shoreline back to the beginning point. These coordinates are based on North American Datum 83 (NAD 83). Geographically this location starts on the west bank of the Willamette River at approximately river mile 12.2, 100 yards south of the Steel Bridge.
+
+(b) *Regulations.* In addition to the general RNA regulations in § 165.13, the following regulations apply to the RNA described in paragraph (a) of this section.
+
+(1) Sediment disturbance activities including dredging, spudding, and vessel anchoring require advance consultation with the Oregon Department of Environmental Quality and obtain prior approval from the Coast Guard Captain of the Port Sector Columbia River (COTP) to prevent exposure of buried contamination and/or damage to the remedial cap. Contact Oregon DEQ at 503-229-5245, or alternatively, call 811 prior to any sediment disturbance activity. Any work within 10 feet of the seawall is prohibited unless there is advance consultation and approval by the City of Portland, DEQ and the COTP. All vessels and persons are prohibited from anchoring, dredging, laying cable, dragging, seining, bottom fishing, conducting salvage operations, or any other activity which could potentially disturb the riverbed in the designated area. Vessels may otherwise transit or navigate within this area.
+
+(2) The regulations described in paragraph (b)(1) of this section do not apply to vessels or persons engaged in activities associated with remediation efforts in the NW Natural PGM Site, provided that the COTP is given advance notice of those activities by Oregon DEQ.
+
+(c) *Contact information.* If you observe violations of the regulations in this section, you may notify the COTP by email, at *D13-SMB-MSUPortlandWWM@uscg.mil.*
+
+[USCG-2020-0531, 87 FR 1356, Jan. 11, 2022]

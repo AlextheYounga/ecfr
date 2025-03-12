@@ -46,6 +46,8 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Interactive Data File.* The term *Interactive Data File* means the machine-readable computer code that presents information in eXtensible Business Reporting Language (XBRL) electronic format pursuant to § 232.405 and as specified by the EDGAR Filer Manual. When a filing is submitted using Inline XBRL as provided by § 232.405(a)(3), a portion of the Interactive Data File is embedded into a filing with the remainder submitted as an exhibit to the filing.
 
+*Investment Advisers Act.* The term *Investment Advisers Act* means the Investment Advisers Act of 1940.
+
 *Investment Company Act.* The term *Investment Company Act* means the Investment Company Act of 1940.
 
 *Modular submission.* The term *modular submission* means an electronic submission that contains one or more documents, or portions of a document, submitted for storage in the non-public EDGAR data storage area for purposes of subsequent inclusion in one or more electronic filings pursuant to Rule 501(a) of Regulation S-T (§ 232.501(a)).
@@ -74,4 +76,4 @@ See Rule 301 of Regulation S-T (§ 232.301).
 
 *Unofficial PDF copy.* The term *unofficial PDF copy* means an optional copy of an electronic document that may be included in an EDGAR submission tagged as a Portable Document Format document in the format required by the EDGAR Filer Manual and submitted in accordance with Rule 104 of Regulation S-T (§ 232.104).
 
-[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018; 84 FR 12722, Apr. 2, 2019; 85 FR 26099, May 1, 2020; 85 FR 33357, June 1, 2020]
+[58 FR 14670, Mar. 18, 1993, as amended at 62 FR 36456, July 8, 1997; 64 FR 27894, May 21, 1999; 65 FR 24800, Apr. 27, 2000; 70 FR 6571, Feb. 8, 2005; 70 FR 43569, July 27, 2005; 74 FR 6813, Feb. 10, 2009; 74 FR 7774, Feb. 19, 2009; 76 FR 71876, Nov. 21, 2011; 79 FR 57332, Sept. 24, 2014; 80 FR 14549, Mar. 19, 2015; 82 FR 14142, Mar. 17, 2017; 83 FR 40874, Aug. 16, 2018; 84 FR 12722, Apr. 2, 2019; 85 FR 26099, May 1, 2020; 85 FR 33357, June 1, 2020; 87 FR 38964, June 30, 2022]

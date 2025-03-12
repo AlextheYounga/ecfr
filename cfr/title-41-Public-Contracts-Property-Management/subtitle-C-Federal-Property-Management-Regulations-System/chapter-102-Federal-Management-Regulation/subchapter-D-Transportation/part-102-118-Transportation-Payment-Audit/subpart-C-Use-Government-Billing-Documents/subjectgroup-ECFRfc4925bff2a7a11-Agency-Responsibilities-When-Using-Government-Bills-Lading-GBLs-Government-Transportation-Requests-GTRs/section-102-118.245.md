@@ -1,7 +1,5 @@
 ##### § 102-118.245 How does my agency get an assigned set of GBL or GTR numbers? #####
 
-Link to an amendment published at 87 FR 32325, May 31, 2022.
+GSA no longer assigns numbers to GBLs or GTRs. Pursuant to § 102-118.55(g) you must establish administrative procedures including creating a unique numbering system to prevent and detect duplicate payments. These procedures should include agency assigned unique numbers for GBLs and GTRs.
 
-If your agency does not use prenumbered GBL and GTR forms, you may get an assigned set of numbers from:
-
-General Services AdministrationFederal Acquisition ServiceInventory Management Branch (QSDACDB-WS)819 Taylor Street, Room 6A00Fort Worth, TX 76102[65 FR 24569, Apr. 26, 2000, as amended at 74 FR 30476, June 26, 2009]
+[87 FR 32325, May 31, 2022]

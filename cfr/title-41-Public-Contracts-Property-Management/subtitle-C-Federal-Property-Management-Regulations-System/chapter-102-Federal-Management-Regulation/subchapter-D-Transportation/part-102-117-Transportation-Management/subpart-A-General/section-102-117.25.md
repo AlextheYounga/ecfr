@@ -1,7 +1,5 @@
 ##### § 102-117.25 What definitions apply to this part? #####
 
-Link to an amendment published at 87 FR 32322, May 31, 2022.
-
 The following definitions apply to this part:
 
 *Accessorial charges* means charges that are applied to the base tariff rate or base contract of carriage rate. Examples of accessorial charges are:
@@ -42,7 +40,7 @@ The following definitions apply to this part:
 
 *Government bill of lading (GBL)* means the transportation document used as a receipt of goods, evidence of title, and a contract of carriage for Government international shipments (see Bill of Lading (BOL) definition).
 
-*Governmentwide Transportation Policy Council (GTPC)* is an interagency forum to help GSA formulate policy. It provides agencies managing transportation programs a forum to exchange information and ideas to solve common problems. For further information on this council, see web site: *http://www.policyworks.gov/transportation.*
+*Government-wide Transportation Policy Council (GTPC)* is an interagency forum to help GSA formulate policy. It provides agencies managing transportation programs a forum to exchange information and ideas to solve common problems. For further information on this council, see website: *https://gsa.gov/transportationpolicy*.
 
 *Hazardous material (HAZMAT)* is a substance or material the Secretary of Transportation determines to be an unreasonable risk to health, safety, and property when transported in commerce, and labels as hazardous under section 5103 of the Federal Hazardous Materials Transportation Law (49 U.S.C. 5103 *et seq.*). When transported internationally hazardous material may be classified as “Dangerous Goods.” All such freight must be marked in accordance with applicable regulations and the carrier must be notified in advance.
 
@@ -78,4 +76,4 @@ The following definitions apply to this part:
 
 *U.S. flag vessel* is a commercial vessel, registered and operated under the laws of the U.S., owned and operated by U.S. citizens, and used in commercial trade of the United States.
 
-[65 FR 60060, Oct. 6, 2000; 65 FR 81405, Dec. 26, 2000, as amended at 75 FR 51393, Aug. 20, 2010; 79 FR 55365, Sept. 16, 2014; 81 FR 65298, Sept. 22, 2016]
+[65 FR 60060, Oct. 6, 2000; 65 FR 81405, Dec. 26, 2000, as amended at 75 FR 51393, Aug. 20, 2010; 79 FR 55365, Sept. 16, 2014; 81 FR 65298, Sept. 22, 2016; 87 FR 32322, May 31, 2022]

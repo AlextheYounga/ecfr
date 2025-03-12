@@ -1,7 +1,5 @@
 ##### § 102-118.560 What is the required format that a TSP must use to file an administrative claim? #####
 
-Link to an amendment published at 87 FR 32326, May 31, 2022.
+There is no required format for filing claims. TSPs should file a claim through TAMS or by sending the required information and documentation (see §§ 102-118.545 and 102-118.565) to GSA Transportation Audits Division—*qmcadocrequest@gsa.gov* or mail to: General Services Administration, Office of Travel, Employee Relocation and Transportation, Attn: Transportation Audits Division, 1800 F Street NW, 3rd Floor, Mail Hub 3400, Washington, DC 20405.
 
-A TSP must bill for charges claimed on a SF 1113, Public Voucher for Transportation Charges, in the manner prescribed in the “U.S. Government Freight Transportation - Handbook” or the “U.S. Government Passenger Transportation - Handbook.” To get a copy of these handbooks, you may write to:
-
-General Services AdministrationTransportation Audit Division (QMCA)Crystal Plaza 4, Room 3002200 Crystal DriveArlington, VA 22202*www.gsa.gov/transaudits*[65 FR 24569, Apr. 26, 2000, as amended at 69 FR 57620, Sept. 24, 2004; 74 FR 30475, June 26, 2009]
+[87 FR 32326, May 31, 2022]

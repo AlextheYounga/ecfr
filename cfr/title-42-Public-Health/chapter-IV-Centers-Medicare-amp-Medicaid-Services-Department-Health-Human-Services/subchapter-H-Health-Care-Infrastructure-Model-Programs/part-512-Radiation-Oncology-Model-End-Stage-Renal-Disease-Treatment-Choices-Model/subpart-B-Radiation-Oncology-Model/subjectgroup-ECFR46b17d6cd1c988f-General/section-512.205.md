@@ -1,5 +1,7 @@
 ##### § 512.205 Definitions. #####
 
+Link to an amendment published at 87 FR 52704, Aug. 29, 2022.
+
 For purposes of this subpart, the following definitions apply:
 
 *Aggregate quality score (AQS)* means the numeric score calculated for each RO participant based on its performance on, and reporting of, quality measures and clinical data. The AQS is used to determine an RO participant's quality reconciliation payment amount.
