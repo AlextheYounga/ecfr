@@ -1,0 +1,9 @@
+##### § 105-60.806 Advanced payments. #####
+
+(a) For requests other than those described in this subpart, GSA cannot require the requester to make an advance payment before work is commenced or continued on a request. Payment owed for work already completed (*i.e.,* payment before copies are sent to a requester) is not an advance payment.
+
+(b) When GSA determines or estimates that a total fee to be charged under this section shall exceed $250.00, it may require that the requester make an advance payment up to the amount of the entire anticipated fee before beginning to process the request. GSA may elect to process the request prior to collecting fees when it receives a satisfactory assurance of full payment from a requester with a history of prompt payment.
+
+(c) Where a requester has previously failed to pay a properly charged FOIA fee to GSA within 30 calendar days of the billing date, GSA may require that the delinquent requester pay the full amount due, plus any applicable interest on that prior request, and require that the requester make an advance payment of the full amount of any anticipated fee before the agency begins to process a new request or continues to process a pending request or any pending appeal. If GSA has a reasonable basis to believe that a requester has misrepresented the requester's identity in order to avoid paying outstanding fees, it may require that the requester provide proof of identity.
+
+(d) In cases in which GSA requires advance payment, the request shall not be considered received and further work shall not be completed until the required payment is received. If the requester does not pay the advance payment within 10 business days after the date of GSA's fee determination, the request shall be closed.

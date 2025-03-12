@@ -10,4 +10,6 @@
 
 (3) Disclosures made from law enforcement systems of records that have been exempted from accounting requirements.
 
-(c) *Appeals.* You may appeal a denial of a request for an accounting to the Associate General Counsel (General Law) in the same manner as a denial of a request for access to records (see § 5.25) and the same procedures will be followed.
+(c) *Appeals.* You may appeal a denial of a request for an accounting to the DHS Office of the General Counsel or its designee in the same manner as a denial of a request for access to records (see § 5.25) and the same procedures will be followed.
+
+[68 FR 4056, Jan. 27, 2003, as amended at 85 FR 11830, Feb. 28, 2020]

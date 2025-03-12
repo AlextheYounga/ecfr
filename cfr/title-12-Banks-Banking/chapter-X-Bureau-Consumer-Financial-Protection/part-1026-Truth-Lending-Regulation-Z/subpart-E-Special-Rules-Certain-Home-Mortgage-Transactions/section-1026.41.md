@@ -1,6 +1,6 @@
 ##### § 1026.41 Periodic statements for residential mortgage loans. #####
 
-(a) *In general* - (1) *Scope.* This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a *mortgage loan* for purposes of this section.
+(a) *In general*—(1) *Scope.* This section applies to a closed-end consumer credit transaction secured by a dwelling, unless an exemption in paragraph (e) of this section applies. A closed-end consumer credit transaction secured by a dwelling is referred to as a *mortgage loan* for purposes of this section.
 
 (2) *Periodic statements.* A servicer of a transaction subject to this section shall provide the consumer, for each billing cycle, a periodic statement meeting the requirements of paragraphs (b), (c), and (d) of this section. If a mortgage loan has a billing cycle shorter than a period of 31 days (for example, a bi-weekly billing cycle), a periodic statement covering an entire month may be used. For the purposes of this section, *servicer* includes the creditor, assignee, or servicer, as applicable. A creditor or assignee that does not currently own the mortgage loan or the mortgage servicing rights is not subject to the requirement in this section to provide a periodic statement.
 
@@ -26,7 +26,7 @@
 
 (iii) Any payment amount past due.
 
-(3) *Past Payment Breakdown.* The following items, grouped together in close proximity to each other and located on the first page of the statement:
+(3) *Past payment breakdown.* The following items, grouped together in close proximity to each other and located on the first page of the statement:
 
 (i) The total of all payments received since the last statement, including a breakdown showing the amount, if any, that was applied to principal, interest, escrow, fees and charges, and the amount, if any, sent to any suspense or unapplied funds account; and
 
@@ -66,7 +66,7 @@
 
 (vii) A reference to the homeownership counselor information disclosed pursuant to paragraph (d)(7)(v) of this section.
 
-(e) *Exemptions* - (1) *Reverse mortgages.* Reverse mortgage transactions, as defined by § 1026.33(a), are exempt from the requirements of this section.
+(e) *Exemptions*—(1) *Reverse mortgages.* Reverse mortgage transactions, as defined by § 1026.33(a), are exempt from the requirements of this section.
 
 (2) *Timeshare plans.* Transactions secured by consumers' interests in timeshare plans, as defined by 11 U.S.C. 101(53D), are exempt from the requirements of this section.
 
@@ -86,7 +86,7 @@
 
 (iv) Provides the consumer the information listed in paragraph (d)(8) of this section in writing, for any billing cycle during which the consumer is more than 45 days delinquent.
 
-(4) *Small servicers* - (i) *Exemption.* A creditor, assignee, or servicer is exempt from the requirements of this section for mortgage loans serviced by a small servicer.
+(4) *Small servicers*—(i) *Exemption.* A creditor, assignee, or servicer is exempt from the requirements of this section for mortgage loans serviced by a small servicer.
 
 (ii) *Small servicer defined.* A small servicer is a servicer that:
 
@@ -110,7 +110,7 @@
 
 (D) Transactions serviced by the servicer for a seller financer that meets all of the criteria identified in § 1026.36(a)(5).
 
-(5) *Certain consumers in bankruptcy* - (i) *Exemption.* Except as provided in paragraph (e)(5)(ii) of this section, a servicer is exempt from the requirements of this section with regard to a mortgage loan if:
+(5) *Certain consumers in bankruptcy*—(i) *Exemption.* Except as provided in paragraph (e)(5)(ii) of this section, a servicer is exempt from the requirements of this section with regard to a mortgage loan if:
 
 (A) Any consumer on the mortgage loan is a debtor in bankruptcy under title 11 of the United States Code or has discharged personal liability for the mortgage loan pursuant to 11 U.S.C. 727, 1141, 1228, or 1328; and
 
@@ -128,7 +128,7 @@
 
 (iii) *Exclusive address.* A servicer may establish an address that a consumer must use to submit a written request under paragraph (e)(5)(i)(B)(*1*) or (e)(5)(ii) of this section, provided that the servicer notifies the consumer of the address in a manner that is reasonably designed to inform the consumer of the address. If a servicer designates a specific address for requests under paragraph (e)(5)(i)(B)(*1*) or (e)(5)(ii) of this section, the servicer shall designate the same address for purposes of both paragraphs (e)(5)(i)(B)(*1*) and (e)(5)(ii) of this section.
 
-(iv) *Timing of compliance following transition* - (A) *Triggering events for transitioning to modified and unmodified periodic statements.* A servicer transitions to providing a periodic statement or coupon book with the modifications set forth in paragraph (f) of this section or to providing a periodic statement or coupon book without such modifications when one of the following three events occurs:
+(iv) *Timing of compliance following transition*—(A) *Triggering events for transitioning to modified and unmodified periodic statements.* A servicer transitions to providing a periodic statement or coupon book with the modifications set forth in paragraph (f) of this section or to providing a periodic statement or coupon book without such modifications when one of the following three events occurs:
 
 (*1*) A mortgage loan becomes subject to the requirements of paragraph (f) of this section;
 
@@ -142,7 +142,7 @@
 
 (A) Has charged off the loan in accordance with loan-loss provisions and will not charge any additional fees or interest on the account; and
 
-(B) Provides, within 30 days of charge-off or the most recent periodic statement, a periodic statement, clearly and conspicuously labeled “Suspension of Statements & Notice of Charge Off - Retain This Copy for Your Records.” The periodic statement must clearly and conspicuously explain that, as applicable, the mortgage loan has been charged off and the servicer will not charge any additional fees or interest on the account; the servicer will no longer provide the consumer a periodic statement for each billing cycle; the lien on the property remains in place and the consumer remains liable for the mortgage loan obligation and any obligations arising from or related to the property, which may include property taxes; the consumer may be required to pay the balance on the account in the future, for example, upon sale of the property; the balance on the account is not being canceled or forgiven; and the loan may be purchased, assigned, or transferred.
+(B) Provides, within 30 days of charge-off or the most recent periodic statement, a periodic statement, clearly and conspicuously labeled “Suspension of Statements & Notice of Charge Off—Retain This Copy for Your Records.” The periodic statement must clearly and conspicuously explain that, as applicable, the mortgage loan has been charged off and the servicer will not charge any additional fees or interest on the account; the servicer will no longer provide the consumer a periodic statement for each billing cycle; the lien on the property remains in place and the consumer remains liable for the mortgage loan obligation and any obligations arising from or related to the property, which may include property taxes; the consumer may be required to pay the balance on the account in the future, for example, upon sale of the property; the balance on the account is not being canceled or forgiven; and the loan may be purchased, assigned, or transferred.
 
 (ii) *Resuming compliance.* (A) If a servicer fails at any time to treat a mortgage loan that is exempt under paragraph (e)(6)(i) of this section as charged off or charges any additional fees or interest on the account, the obligation to provide a periodic statement pursuant to this section resumes.
 

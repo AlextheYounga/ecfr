@@ -1,5 +1,7 @@
 ##### § 92.1 Definitions. #####
 
+Link to an amendment published at 85 FR 11835, Feb. 28, 2020.
+
 *Active surveillance.* Sample collection using a systematic or statistically designed survey methodology to actively seek out and find cases of animals with a restricted disease agent, or to determine the prevalence of the restricted disease agent in the population.
 
 *Adjacent region.* Any geographic land area, whether or not identifiable by geological, political or surveyed boundaries, that shares common boundaries with any region.

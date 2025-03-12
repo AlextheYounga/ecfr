@@ -1,0 +1,3 @@
+##### § 105-60.000 Scope of part. #####
+
+This part contains the rules that the U.S. General Services Administration, hereinafter GSA, follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552. The rules in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”). Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with Privacy Act regulations as well as under this part.

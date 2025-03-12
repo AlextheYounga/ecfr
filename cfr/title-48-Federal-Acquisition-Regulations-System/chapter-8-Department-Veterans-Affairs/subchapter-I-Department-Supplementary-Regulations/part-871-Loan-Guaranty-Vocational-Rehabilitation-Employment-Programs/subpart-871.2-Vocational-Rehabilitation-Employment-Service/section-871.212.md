@@ -13,3 +13,5 @@
 (b) See 837.110-70(a) for clause 852.237-74, Non-Discrimination in Service Delivery.
 
 [84 FR 46457, Sept. 4, 2019]
+
+##### 871.212 PART 872 [RESERVED] #####

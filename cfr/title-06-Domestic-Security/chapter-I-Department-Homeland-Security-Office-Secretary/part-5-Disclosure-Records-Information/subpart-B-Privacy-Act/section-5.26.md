@@ -8,7 +8,7 @@
 
 (2) The procedure for appeal of the denial under paragraph (c) of this section, including the name and business address of the official who will act on your appeal.
 
-(c) *Appeals.* You may appeal a denial of a request for amendment or correction to the Associate General Counsel (General Law) in the same manner as a denial of a request for access to records (see § 5.25) and the same procedures shall be followed. If your appeal is denied, you shall be advised of your right to file a Statement of Disagreement as described in paragraph (d) of this section and of your right under the Privacy Act for court review of the decision.
+(c) *Appeals.* You may appeal a denial of a request for amendment or correction to the DHS Office of the General Counsel or its designee in the same manner as a denial of a request for access to records (see § 5.25) and the same procedures shall be followed. If your appeal is denied, you shall be advised of your right to file a Statement of Disagreement as described in paragraph (d) of this section and of your right under the Privacy Act for court review of the decision.
 
 (d) *Statements of Disagreement.* If your appeal under this section is denied in whole or in part, you have the right to file a Statement of Disagreement that states your reason(s) for disagreeing with the Department's denial of your request for amendment or correction. Statements of Disagreement must be concise, must clearly identify each part of any record that is disputed, and should be no longer than one typed page for each fact disputed. Your Statement of Disagreement must be sent to the component involved, which shall place it in the system of records in which the disputed record is maintained and shall mark the disputed record to indicate that a Statement of Disagreement has been filed and where in the system of records it may be found.
 
@@ -23,3 +23,5 @@
 (3) Presentence records that originated with the courts; and
 
 (4) Records in systems of records that have been exempted from amendment and correction under Privacy Act (5 U.S.C. 552a(j) or (k)) by notice published in the Federal Register.
+
+[68 FR 4056, Jan. 27, 2003, as amended at 85 FR 11830, Feb. 28, 2020]

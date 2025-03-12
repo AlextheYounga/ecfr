@@ -1,5 +1,7 @@
 ##### § 92.4 Reestablishment of a region's disease-free status. #####
 
+Link to an amendment published at 85 FR 11836, Feb. 28, 2020.
+
 This section applies to regions that are designated under this subchapter as free of a specific animal disease and then experience an outbreak of that disease.
 
 (a) *Interim designation.* If a region recognized as free of a specified animal disease in this subchapter experiences an outbreak of that disease, APHIS will take immediate action to prohibit or restrict imports of animals and animal products from that region. The prohibitions or restrictions may be imposed on only a portion of the region previously recognized as free of a disease. In these cases, APHIS will inform the public as soon as possible through notice in the Federal Register of the basis for its decision to prohibit or restrict imports from the smaller area of that region previously recognized as free.

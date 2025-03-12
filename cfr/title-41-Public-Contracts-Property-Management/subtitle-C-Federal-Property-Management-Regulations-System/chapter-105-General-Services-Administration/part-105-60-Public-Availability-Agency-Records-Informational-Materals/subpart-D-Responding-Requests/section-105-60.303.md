@@ -1,0 +1,21 @@
+##### § 105-60.303 Consultation, referral, and coordination. #####
+
+(a) All consultations and referrals received by GSA shall be handled according to the date the other agency received the perfected FOIA request.
+
+(b) GSA may establish agreements with other agencies to eliminate the need for consultations or referrals with respect to particular types of records.
+
+(c) When GSA is reviewing records located in response to a FOIA request, GSA shall determine whether another agency of the Federal Government is better able to determine if the records are releasable under the FOIA. As to any such record, GSA shall proceed in one of the following ways:
+
+(1) *Consultation.* When GSA receives a request for records that either originated with another agency or is a GSA record that includes information that originated with another agency, GSA should typically consult with that other agency prior to making a release determination.
+
+(2) *Referral.* (i) Whenever GSA receives a request for records that are known to be the primary responsibility of another agency, GSA shall refer the responsibility for responding to the request regarding records to that agency. Ordinarily, the agency that created the records is presumed to be the best agency to make the disclosure determination. However, if GSA and the originating agency jointly agree that GSA is in the best position to respond regarding the record, then the responsive record(s) may be handled as a consultation.
+
+(ii) Whenever GSA refers any part of the responsibility for responding to a record request to another agency, GSA shall maintain documentation that the referral to the other agency has occurred, and shall notify the requester of the referral. The notification to the requester shall include both the name of the agency to which the record request was referred and the contact information for the agency's FOIA office/or personnel.
+
+(iii) This referral procedure is not appropriate where disclosure of the identity of the agency to which the referral would be made could reasonably harm an interest protected by an applicable exemption, such as the exemptions that protect personal privacy or national security interests. If a non-law enforcement agency responding to a request for records on a living third party locates within its files records originating with a law enforcement agency, and if the existence of that law enforcement interest in the third party was not publicly known, then to disclose that law enforcement interest could cause an unwarranted invasion of the personal privacy of the third party. Similarly, if GSA locates a record that originates with an intelligence community agency, and the involvement of that agency in the matter is classified and not publicly acknowledged, then to disclose or give attribution to the involvement of that Intelligence Community agency could cause national security harms. Records meeting these criteria shall be treated as a consultation.
+
+(iv) In such instances, in order to avoid a harm to an interest protected by an FOIA applicable exemption, GSA should coordinate with the originating agency to seek its views on the disclosability of the record. The release determination for the record that is the subject of the coordination should then be conveyed to the requester by GSA.
+
+(4) *Classified information.* (i) On receipt of any request involving classified information, GSA shall determine whether the information is currently and properly classified in accordance with applicable classification rules. Whenever a request involves a record containing information that has been classified or may be appropriate for classification by another agency under any applicable executive order concerning the classification of records, GSA shall refer request for records to the agency that classified the information or that should consider the information for classification.
+
+(ii) Whenever GSA's records contain information that has been derivatively classified (*i.e.,* it contains information classified by another agency), GSA shall refer the responsibility for responding to that portion of the request to the agency that classified the information.
