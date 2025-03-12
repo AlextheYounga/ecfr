@@ -54,4 +54,4 @@ State separately the amount of (a) cost of tangible goods sold, (b) operating ex
 
 25. *Earnings per share data.*
 
-[45 FR 63671, Sept. 25, 1980, as amended at 45 FR 76977, Nov. 21, 1980; 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009; 83 FR 50202, Oct. 6, 2018]
+[45 FR 63671, Sept. 25, 1980, as amended at 45 FR 76977, Nov. 21, 1980; 50 FR 25215, June 18, 1985; 74 FR 18615, Apr. 23, 2009; 83 FR 50202, Oct. 4, 2018]
