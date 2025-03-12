@@ -1,0 +1,5 @@
+##### § 2507.2 Policy. #####
+
+(a) AmeriCorps follows a balanced approach in administering the FOIA. The Agency recognizes the right of the public to seek access to information in its possession. It also recognizes the legitimate interests of organizations or persons who have submitted records to AmeriCorps or who would otherwise be affected by release of records. AmeriCorps has no discretion to release certain records, such as trade secrets and confidential commercial information, prohibited from release by law. The Agency provides the fullest responsible disclosure that is consistent with the requirements of the FOIA.
+
+(b) When a FOIA exemption gives Federal agencies the discretion to either withhold or release records, AmeriCorps releases the records or information unless it reasonably foresees that disclosure would harm an interest that the exemption protects.

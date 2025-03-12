@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 87 FR 44277, July 26, 2022.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -411,33 +409,39 @@ Certificate Expiration Date: February 4, 2029.
 
 Model Number: MAGNASTOR®.
 
-Certificate Number: 1032.
+*Certificate Number:* 1032.
 
-Initial Certificate Effective Date: June 13, 2011, superseded by Amendment Number 0, Revision 1, on April 25, 2016.
+*Initial Certificate Effective Date:* June 13, 2011, superseded by Amendment Number 0, Revision 1, on April 25, 2016.
 
-Amendment Number 0, Revision 1, Effective Date: April 25, 2016.
+*Amendment Number 0, Revision 1, Effective Date:* April 25, 2016.
 
-Amendment Number 1 Effective Date: December 17, 2014, superseded by Amendment Number 1, Revision 1, on June 2, 2015.
+*Amendment Number 1 Effective Date:* December 17, 2014, superseded by Amendment Number 1, Revision 1, on June 2, 2015.
 
-Amendment Number 1, Revision 1, Effective Date: June 2, 2015.
+*Amendment Number 1, Revision 1, Effective Date:* June 2, 2015.
 
-Amendment Number 2 Effective Date: November 7, 2016.
+*Amendment Number 2 Effective Date:* November 7, 2016.
 
-Amendment Number 3 Effective Date: September 11, 2017.
+*Amendment Number 3 Effective Date:* September 11, 2017.
 
-Amendment Number 4 Effective Date: July 14, 2020.
+*Amendment Number 4 Effective Date:* July 14, 2020.
 
-Amendment Number 5 Effective Date: July 27, 2020.
+*Amendment Number 5 Effective Date:* July 27, 2020.
 
-SAR Submitted by: Holtec International, Inc.
+Amendment Number 6 [Reserved]
 
-SAR Title: Final Safety Analysis Report for the Holtec International HI-STORM FW System.
+Amendment Number 7 [Reserved]
 
-Docket Number: 72-1032.
+*Amendment Number 8 Effective Date:* October 11, 2022.
 
-Certificate Expiration Date: June 12, 2031.
+*SAR Submitted by:* Holtec International.
 
-Model Number: HI-STORM FW MPC-37, MPC-89.
+*SAR Title:* Final Safety Analysis Report for the HI-STORM FW System.
+
+*Docket Number:* 72-1032.
+
+*Certificate Expiration Date:* June 12, 2031.
+
+*Model Number:* HI-STORM FW MPC-37, MPC-89.
 
 Certificate Number: 1040.
 

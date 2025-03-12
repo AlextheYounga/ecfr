@@ -1,12 +1,16 @@
 ##### § 13.19 Certificate actions appealable to the National Transportation Safety Board. #####
 
-(a) The Administrator may issue an order amending, modifying, suspending, or revoking all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate if as a result of a reinspection, reexamination, or other investigation, the Administrator determines that the public interest and safety in air commerce requires it, if a certificate holder has violated an aircraft noise or sonic boom standard or regulation prescribed under 49 U.S.C. 44715(a), or if the holder of the certificate is convicted of violating 16 U.S.C. 742j-1(a).
+(a) This section applies to certificate actions by the Administrator that are appealable to the National Transportation Safety Board.
+
+(1) Under 49 U.S.C. 44709(b) the Administrator may issue an order amending, modifying, suspending, or revoking all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate if as a result of a reinspection, reexamination, or other investigation, the Administrator determines that the public interest and safety in air commerce requires it, if a certificate holder has violated an aircraft noise or sonic boom standard or regulation prescribed under 49 U.S.C. 44715(a), or if the holder of the certificate is convicted of violating 16 U.S.C. 742j-1(a).
+
+(2) The authority of the Administrator to issue orders under 49 U.S.C. 44709(b)(1)(A) and (b)(2) is delegated to the Chief Counsel, each Deputy Chief Counsel, and the Assistant Chief Counsel for Enforcement.
 
 (b) The agency attorney will issue a notice before issuing a non-immediately effective order to amend, modify, suspend, or revoke a type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, air agency certificate, or to revoke an aircraft certificate of registration because the aircraft was used to carry out or facilitate an activity punishable under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year, and the owner of the aircraft permitted the use of the aircraft knowing that the aircraft was to be used for the activity.
 
 (1) A notice of proposed certificate action will advise the certificate holder or aircraft owner of the charges or other reasons upon which the Administrator bases the proposed action, and allows the holder to answer any charges and to be heard as to why the certificate should not be amended, suspended, modified, or revoked.
 
-(2) In response to a notice of proposed certificate action described in paragraph (b)(1) of this section, the certificate holder or aircraft owner, within 15 days of the date of receipt of the notice, may -
+(2) In response to a notice of proposed certificate action described in paragraph (b)(1) of this section, the certificate holder or aircraft owner, within 15 days of the date of receipt of the notice, may—
 
 (i) Surrender the certificate and waive any right to contest or appeal the charged violations and sanction, in which case the Administrator will issue an order;
 
@@ -22,26 +26,28 @@
 
 (1) The revocation of an individual's airman certificates for the reasons stated in paragraph (d)(1)(i) or (ii) of this section:
 
-(i) A conviction under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), of an offense punishable by death or imprisonment for more than one year if the Administrator finds that -
+(i) A conviction under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), of an offense punishable by death or imprisonment for more than one year if the Administrator finds that—
 
 (A) An aircraft was used to commit, or facilitate the commission of the offense; and
 
 (B) The individual served as an airman, or was on the aircraft, in connection with committing, or facilitating the commission of, the offense.
 
-(ii) Knowingly carrying out an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year; and -
+(ii) Knowingly carrying out an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year; and—
 
 (A) An aircraft was used to carry out or facilitate the activity; and
 
 (B) The individual served as an airman, or was on the aircraft, in connection with carrying out, or facilitating the carrying out of, the activity.
 
-(2) The revocation of a certificate of registration for an aircraft, and any other aircraft the owner of that aircraft holds, if the Administrator finds that -
+(2) The revocation of a certificate of registration for an aircraft, and any other aircraft the owner of that aircraft holds, if the Administrator finds that—
 
 (i) The aircraft was used to carry out or facilitate an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year; and
 
 (ii) The owner of the aircraft permitted the use of the aircraft knowing that the aircraft was to be used for the activity described in paragraph (d)(2)(i) of this section.
 
-(3) The revocation of an airman certificate, design organization certificate, type certificate, production certificate, airworthiness certificate, air carrier operating certificate, airport operating certificate, air agency certificate, or air navigation facility certificate if the Administrator finds that the holder of the certificate or an individual who has a controlling or ownership interest in the holder -
+(3) The revocation of an airman certificate, design organization certificate, type certificate, production certificate, airworthiness certificate, air carrier operating certificate, airport operating certificate, air agency certificate, or air navigation facility certificate if the Administrator finds that the holder of the certificate or an individual who has a controlling or ownership interest in the holder—
 
 (i) Was convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material; or
 
 (ii) Knowingly, and with the intent to defraud, carried out or facilitated an activity described in paragraph (d)(3)(i) of this section.
+
+[Docket FAA-2018-1051, Amdt. 13-40, 86 FR 54527, Oct. 1, 2021, as amended by Docket FAA-2018-1051, Amdt. 13-40A, 87 FR 61233, Oct. 11, 2022]

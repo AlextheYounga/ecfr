@@ -1,0 +1,3 @@
+##### § 2507.15 Mediation and dispute resolution services. #####
+
+If a requester receives an adverse determination on a FOIA request, they have the right to seek dispute resolution services from the FOIA Public Liaison or mediation services from OGIS. Congress has charged OGIS with resolving FOIA disputes between Federal agencies and requesters. OGIS's mediation services are an alternative to litigation, but do not preclude it.

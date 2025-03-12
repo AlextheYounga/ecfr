@@ -1,0 +1,31 @@
+##### § 159.5 Responsibilities. #####
+
+(a) The Under Secretary of Defense for Personnel and Readiness (USD(P&R)) will provide Department-wide policies on the total force manpower mix and labor sourcing, consistent with U.S. law, the FAR, the DFARS, and other applicable Federal policy documents, especially with respect to contracted services and restrictions on functions that contractors may and may not perform. The USD(P&R) will ensure that policies specifically address circumstances where use of PSCs would be inherently governmental or where CCDRs with geographic AORs would need to assess where performance of the function by PSCs or total reliance on PSCs would constitute an unacceptable risk.
+
+(b) The Deputy Assistant Secretary of Defense for Logistics (DASD(Logistics)), under the authority, direction, and control of the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) and through the Assistant Secretary of Defense for Sustainment, monitors the registering, processing, and accounting of PSC personnel in areas of contingency operations, humanitarian or peace operations, or other military operations or exercises.
+
+(c) The Principal Director, Defense Pricing and Contracting (DPC), under the authority, direction, and control of the USD(A&S) and through the Assistant Secretary of Defense for Acquisition, ensures that the DFARS and (when appropriate, in consultation with the other members of the FAR Council) the FAR, provides appropriate guidance and publishes contracting requirements pursuant to this part and section 862 of Public Law 110-181.
+
+(d) The CJCS shall ensure that joint doctrine is consistent with the principles established by DoD Directive 3020.49, “Program Management for the Planning and Execution of Operational Contract Support” (available at *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/302049d.pdf?ver=fgxC1kzBqeIV4KpOv9pDTw%3d%3d*); DoD Instruction 3020.41, DoD Directive 5210.56, “Arming and the Use of Force” (available at *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/521056p.PDF?ver=PIvIb3eht0obgolnD0UCEw%3d%3d*); and this part.
+
+(e) CCDRs with responsibility for the AOR in which contingency operations, humanitarian or peace operations, or other military operations or exercises are occurring, and within which PSCs and PSC personnel perform under covered contracts, shall:
+
+(1) Provide guidance and procedures, as necessary and consistent with the principles established by DoD Directive 3020.49, DoD Instruction 3020.41, DoD Instruction 1100.22, “Policy and Procedures for Determining Workforce Mix” (available at *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/110022p.pdf*); DFARS, 48 CFR 225.302, and this part, for the selection, training, accountability, and equipping of such PSC personnel and the conduct of PSCs and PSC personnel within their AOR. Individual training and qualification standards shall meet, at a minimum, one of the Military Departments' established standards. Within a Combatant Command (CCMD) with a designated geographic AOR, a sub unified commander or JFC shall be responsible for developing and issuing implementing procedures as warranted by the situation, operation, and environment, in consultation with the relevant COM in designated areas of combat operations or other significant military operations.
+
+(2) Through the Contracting Officer, the PSC should acknowledge that its personnel understand their obligation to comply with the terms and conditions of applicable covered contracts.
+
+(3) Issue written authorization to the PSC identifying individual PSC personnel who are authorized to be armed. Rules for the Use of Force shall be included with the written authorization, if not previously provided. Rules for the Use of Force shall conform to the guidance in DoD Directive 5210.56 and the CJCS Instruction 3121.01B, “Standing Rules of Engagement/Standing Rules for the Use of Force for U.S. Forces.” Offerors' and contractors' access to the Rules for the Use of Force may be controlled in accordance with the terms of FAR, 48 CFR 52.204-2, “Security Requirements”; DFARS, 48 CFR 252.204-7000, “Disclosure of Information”; or both.1
+
+1 CJCS Instruction 3121.01B provides guidance on the standing rules of engagement (SROE) and establishes standing rules for the use of force for DoD operations worldwide. This document is classified secret. CJCS Instruction 3121.01B is available via Secure internet Protocol Router Network at *https://jsportal.osd.smil.mil.*
+
+(4) Ensure that the procedures, orders, directives, and instructions prescribed in § 159.6 are available through a single location (including an internet website, consistent with security considerations and requirements).
+
+(f) The Heads of the DoD Components shall:
+
+(1) Ensure that all private security-related requirement documents are in compliance with the procedures listed in § 159.6 and the guidance and procedures issued by the CCMD of the applicable geographic AOR.
+
+(2) Ensure private security-related solicitations and contracts contain the appropriate clauses in accordance with the applicable FAR and DFARS clauses and include additional mission-specific requirements as appropriate.
+
+(3) In coordination with the appropriate requiring activity (or activities), ensure the head of the contracting activity responsible for each covered contract takes appropriate steps to assign sufficient oversight personnel to the contract to verify that the contractor responsible for performing private security functions complies with the requirements of this part. This includes ensuring that the contracting officer coordinates with the requiring activity to nominate and appoint a qualified contracting officer's representative (COR) or other multiple or alternate CORs, in accordance with DoD Instruction 5000.72, “DoD Standard for Contracting Officer's Representative (COR) Certification” (available at *https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500072p.pdf*).
+
+[87 FR 55284, Sept. 9, 2022]

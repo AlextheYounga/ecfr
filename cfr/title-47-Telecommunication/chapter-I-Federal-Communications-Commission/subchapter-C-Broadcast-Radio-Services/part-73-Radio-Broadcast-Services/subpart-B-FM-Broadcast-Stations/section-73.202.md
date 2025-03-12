@@ -1,7 +1,5 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 87 FR 54170, Sept. 2, 2022.
-
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
 (1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
@@ -89,6 +87,7 @@ Table 1 to Paragraph (b)
 |      DELAWARE      |                         |
 |DISTRICT OF COLUMBIA|                         |
 |      FLORIDA       |                         |
+|  Big Coppitt Key   |          265C3          |
 |     Cross City     |          249C3          |
 | Fort Walton Beach  |          295A           |
 |  Horseshoe Beach   |         \*234C3         |

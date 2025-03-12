@@ -1,0 +1,3 @@
+##### § 2507.7 Requests for archived records. #####
+
+In accordance with agency records schedules and General Records Schedules, AmeriCorps transfers permanent records to the National Archives and Records Administration (“National Archives”). Once these records are transferred, they are in the physical and legal custody of the National Archives. Accordingly, requests for retired AmeriCorps records should be submitted to the National Archives by mail addressed to: Special Access and FOIA Staff (NWCTF), 8601 Adelphi Road, Room 5500, College Park, MD 20740; by fax to (301) 837-1864; or by email to *specialaccess\_foia@nara.gov.*

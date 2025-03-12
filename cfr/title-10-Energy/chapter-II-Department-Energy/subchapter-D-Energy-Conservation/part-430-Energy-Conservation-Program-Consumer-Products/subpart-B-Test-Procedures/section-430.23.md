@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -422,11 +420,21 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (z) *Dehumidifiers.* When using appendix X, determine the capacity, expressed in pints per day (pints/day), and the energy factor, expressed in liters per kilowatt hour (L/kWh), in accordance with section 4.1 of appendix X of this subpart. When using appendix X1, determine the capacity, expressed in pints/day, according to section 5.2 of appendix X1 to this subpart; determine the integrated energy factor, expressed in L/kWh, according to section 5.4 of appendix X1 to this subpart; and determine the case volume, expressed in cubic feet, for whole-home dehumidifiers in accordance with section 5.7 of appendix X1 of this subpart.
 
-(aa) *Battery Chargers.* (1) Measure the maintenance mode power, standby power, off mode power, battery discharge energy, 24-hour energy consumption and measured duration of the charge and maintenance mode test for a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart.
+(aa) *Battery Chargers.* (1) For battery chargers subject to compliance with the relevant standard at § 430.32(z) as that standard appeared in the January 1, 2022, edition of 10 CFR parts 200-499:
 
-(2) Calculate the unit energy consumption of a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart.
+(i) Measure the maintenance mode power, standby power, off mode power, battery discharge energy, 24-hour energy consumption and measured duration of the charge and maintenance mode test for a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart;
 
-(3) Calculate the average load adjusted efficiency of an uninterruptible power supply in accordance with appendix Y to this subpart.
+(ii) Calculate the unit energy consumption of a battery charger other than uninterruptible power supplies in accordance with appendix Y to this subpart;
+
+(iii) Calculate the average load adjusted efficiency of an uninterruptible power supply in accordance with appendix Y to this subpart.
+
+(2) For a battery charger subject to compliance with any amended relevant standard provided in § 430.32 that is published after September 8, 2022:
+
+(i) Measure active mode energy, maintenance mode power, no-battery mode power, off mode power and battery discharge energy for a battery charger other than uninterruptible power supplies in accordance with appendix Y1 to this subpart.
+
+(ii) Calculate the standby power of a battery charger other than uninterruptible power supplies in accordance with appendix Y1, to this subpart.
+
+(iii) Calculate the average load adjusted efficiency of an uninterruptible power supply in accordance with appendix Y1 to this subpart.
 
 (bb) *External Power Supplies.* The energy consumption of an external power supply, including active-mode efficiency expressed as a percentage and the no-load, off, and standby mode energy consumption levels expressed in watts, shall be measured in accordance with appendix Z of this subpart.
 

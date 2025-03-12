@@ -1,6 +1,8 @@
 ##### § 235.7 Limitations on payment card restrictions. #####
 
-(a) *Prohibition on network exclusivity* - (1) *In general.* An issuer or payment card network shall not directly or through any agent, processor, or licensed member of a payment card network, by contract, requirement, condition, penalty, or otherwise, restrict the number of payment card networks on which an electronic debit transaction may be processed to less than two unaffiliated networks.
+Link to an amendment published at 87 FR 61230, Oct. 11, 2022.
+
+(a) *Prohibition on network exclusivity*—(1) *In general.* An issuer or payment card network shall not directly or through any agent, processor, or licensed member of a payment card network, by contract, requirement, condition, penalty, or otherwise, restrict the number of payment card networks on which an electronic debit transaction may be processed to less than two unaffiliated networks.
 
 (2) *Permitted arrangements.* An issuer satisfies the requirements of paragraph (a)(1) of this section only if the issuer allows an electronic debit transaction to be processed on at least two unaffiliated payment card networks, each of which does not, by rule or policy, restrict the operation of the network to a limited geographic area, specific merchant, or particular type of merchant or transaction, and each of which has taken steps reasonably designed to enable the network to process the electronic debit transactions that the network would reasonably expect will be routed to it, based on expected transaction volume.
 
@@ -10,7 +12,7 @@
 
 (b) *Prohibition on routing restrictions.* An issuer or payment card network shall not, directly or through any agent, processor, or licensed member of the network, by contract, requirement, condition, penalty, or otherwise, inhibit the ability of any person that accepts or honors debit cards for payments to direct the routing of electronic debit transactions for processing over any payment card network that may process such transactions.
 
-(c) *Compliance dates* - (1) *General.* Except as otherwise provided in paragraphs (c)(2), (c)(3), and (c)(4) of this section, the compliance date of paragraph (a) of this section is April 1, 2012.
+(c) *Compliance dates*—(1) *General.* Except as otherwise provided in paragraphs (c)(2), (c)(3), and (c)(4) of this section, the compliance date of paragraph (a) of this section is April 1, 2012.
 
 (2) *Restrictions by payment card networks.* The compliance date of paragraphs (a)(1) and (a)(3) of this section for payment card networks is October 1, 2011.
 

@@ -1,0 +1,3 @@
+##### § 2507.1 Scope. #####
+
+This part contains the rules that the Corporation for National and Community Service, operating as AmeriCorps (“the Agency” or “AmeriCorps”), follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552. These rules should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget (“OMB Guidelines”). Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with AmeriCorps' Privacy Act regulations, 45 CFR part 2508, as well as under this part.

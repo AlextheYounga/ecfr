@@ -1,0 +1,5 @@
+##### § 2507.21 Other charges. #####
+
+(a) *Charges for other services.* Although it is not required to provide special services, if AmeriCorps chooses as a matter of administrative discretion to do so, it will charge the direct costs of providing those services. Examples of such services include certifying that records are true copies, providing multiple copies of the same document, or sending records by means other than first class mail.
+
+(b) *Charging interest.* AmeriCorps may charge interest on any unpaid bill starting on the 31st day following the billing date. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the billing date until payment is received by the agency. AmeriCorps will follow the provisions of the Debt Collection Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.

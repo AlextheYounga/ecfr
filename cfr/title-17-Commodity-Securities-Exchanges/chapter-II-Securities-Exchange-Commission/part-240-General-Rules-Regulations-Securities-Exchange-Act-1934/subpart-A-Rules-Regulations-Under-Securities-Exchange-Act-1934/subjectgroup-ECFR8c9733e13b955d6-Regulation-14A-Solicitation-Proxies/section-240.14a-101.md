@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 87 FR 55197, Sept. 8, 2022.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -21,6 +21,8 @@ D. Information may be incorporated by reference only in the manner and to the ex
 3. If a document or portion of a document other than an annual report sent to security holders pursuant to the requirements of Rule 14a-3 (§ 240.14a-3 of this chapter) with respect to the same meeting or solicitation of consents or authorizations as that to which the proxy statement relates is incorporated by reference in the manner permitted by Item 13(b) or 14(e)(1) of this schedule, the proxy statement must be sent to security holders no later than 20 business days prior to the date on which the meeting of such security holders is held or, if no meeting is held, at least 20 business days prior to the date the votes, consents or authorizations may be used to effect the corporate action.
 
 4. *Electronic filings.* If any of the information required by Items 13 or 14 of this Schedule is incorporated by reference from an annual or quarterly report to security holders, such report, or any portion thereof incorporated by reference, shall be filed in electronic format with the proxy statement. This provision shall not apply to registered investment companies.
+
+5. *Interactive Data File.* An Interactive Data File must be included in accordance with § 232.405 of this chapter and the EDGAR Filer Manual where applicable pursuant to § 232.405(b) of this chapter.
 
 E. In Item 13 of this Schedule, the reference to “meets the requirement of Form S-3” or “meets the requirements of General Instruction A.2 of Form N-2” shall refer to a registrant who meets the following requirements:
 

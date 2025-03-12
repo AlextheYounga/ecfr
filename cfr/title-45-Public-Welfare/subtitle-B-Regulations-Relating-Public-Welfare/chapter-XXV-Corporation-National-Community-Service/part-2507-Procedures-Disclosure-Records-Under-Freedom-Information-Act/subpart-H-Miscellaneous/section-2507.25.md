@@ -1,0 +1,3 @@
+##### § 2507.25 Preservation of records. #####
+
+AmeriCorps will preserve all correspondence relating to FOIA requests it receives, and all records processed for those requests, until the destruction of the correspondence and records is authorized by Title 44 of the United States Code and the records disposition authority granted by NARA. The records will not be sent to a Federal Records Center, transferred to the permanent custody of NARA, or destroyed while they are the subject of a pending request, appeal, or civil action under the FOIA.

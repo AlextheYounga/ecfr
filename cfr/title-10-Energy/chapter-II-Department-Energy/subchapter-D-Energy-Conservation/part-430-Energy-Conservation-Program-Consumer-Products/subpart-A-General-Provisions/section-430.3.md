@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 55122, Sept. 8, 2022.Link to a correction published at 87 FR 60867, Oct. 7, 2022.
-
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -104,7 +102,7 @@ Link to an amendment published at 87 FR 55122, Sept. 8, 2022.Link to a correctio
 
 (21) ANSI C82.77-2002, (“ANSI C82.77”) Harmonic Emission Limits - Related Power Quality Requirements for Lighting Equipment, approved January 17, 2002; IBR approved for appendix Q to subpart B.
 
-(22) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for Appendix Y to subpart B; as follows:
+(22) ANSI/NEMA WD 6-2016, *Wiring Devices - Dimensional Specifications,* ANSI approved February 11, 2016, IBR approved for appendices Y and Y1 to subpart B; as follows:
 
 (i) Figure 1-15 - Plug and Receptacle; and
 
@@ -320,7 +318,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (3) IEC 60350-2, (“IEC 60350-2”), *Household electric cooking appliances Part 2: Hobs - Methods for measuring performance,* Edition 2.1, 2021-05; IBR approved for appendix I1 to subpart B.
 
-(4) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendix Y to subpart B, as follows:
+(4) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendices Y and Y1 to subpart B, as follows:
 
 (i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1 - Conditions for normal mode of operation;
 
@@ -344,7 +342,7 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (6) IEC 62301, *Household electrical appliances - Measurement of standby power,* first edition, June 2005; IBR approved for appendices I, I1 to subpart B.
 
-(7) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Z, BB, and CC to subpart B.
+(7) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, F, G, H, I, I1, J, J2, N, O, P, Q, U, X, X1, Y, Y1, Z, BB, and CC to subpart B.
 
 (8) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
 

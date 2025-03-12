@@ -1,7 +1,5 @@
 ##### § 229.405 (Item 405) Compliance with Section 16(a) of the Exchange Act. #####
 
-Link to an amendment published at 87 FR 55196, Sept. 8, 2022.
-
 (a) *Reporting obligation.* Every registrant having a class of equity securities registered pursuant to Section 12 of the Exchange Act (15 U.S.C. 78*l*) and every closed-end investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) must:
 
 (1) Under the caption “Delinquent Section 16(a) Reports,” identify each person who, at any time during the fiscal year, was a director, officer, beneficial owner of more than ten percent of any class of equity securities of the registrant registered pursuant to Section 12 of the Exchange Act, or any other person subject to Section 16 of the Exchange Act with respect to the registrant because of the requirements of Section 30 of the Investment Company Act (“reporting person”) that failed to file on a timely basis reports required by Section 16(a) of the Exchange Act during the most recent fiscal year or prior fiscal years.

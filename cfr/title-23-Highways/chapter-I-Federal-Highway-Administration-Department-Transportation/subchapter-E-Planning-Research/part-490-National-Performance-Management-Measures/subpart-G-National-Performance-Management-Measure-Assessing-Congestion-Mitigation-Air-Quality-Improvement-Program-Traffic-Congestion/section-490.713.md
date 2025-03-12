@@ -10,14 +10,14 @@
 
 (d) The performance measure for CMAQ traffic congestion specified in § 490.707(b), Percent of Non-SOV Travel, shall be computed as specified in paragraphs (d)(1) through (3) of this section corresponding to the method reported by the State DOT to collect travel data for the applicable area under § 490.709(f)(2).
 
-(1) *Method A - American Community Survey.* The Percent of Non-SOV Travel shall be calculated to the nearest tenth of a percent using the following formula:
+(1) *Method A—American Community Survey.* The Percent of Non-SOV Travel shall be calculated to the nearest tenth of a percent using the following formula:
 
 Percent of Non-SOV Travel = 100% − % SOV
 
-Where:Percent of Non-SOV Travel = percent of commuting working population, to the nearest tenth of a percent, that predominantly do not commute by driving alone in a car, van, or truck, including travel avoided by telecommuting; and% SOV = percent estimate for “Car, truck, or van - drive alone”.
+Where:Percent of Non-SOV Travel = percent of commuting working population, to the nearest tenth of a percent, that predominantly do not commute by driving alone in a car, van, or truck, including travel avoided by telecommuting; and% SOV = percent estimate for “Car, truck, or van—drive alone”.
 
-(2) *Method B - local survey.* The Percent of Non-SOV Travel shall be calculated using the data derived from local survey results as specified in § 490.709(f)(1)(ii). The Percent of Non-SOV Travel measure shall be calculated to represent travel that is not occurring by driving alone in a motorized vehicle, including travel avoided by telecommuting, as a percentage of all surface transportation occurring in the applicable area. The Percent of Non-SOV Travel measure shall be calculated to the nearest tenth of a percent.
+(2) *Method B—local survey.* The Percent of Non-SOV Travel shall be calculated using the data derived from local survey results as specified in § 490.709(f)(1)(ii). The Percent of Non-SOV Travel measure shall be calculated to represent travel that is not occurring by driving alone in a motorized vehicle, including travel avoided by telecommuting, as a percentage of all surface transportation occurring in the applicable area. The Percent of Non-SOV Travel measure shall be calculated to the nearest tenth of a percent.
 
-(3) *Method C - system use measurement.* The Percent of Non-SOV Travel shall be calculated to the nearest tenth of a percent from the data collected from system use measurements as specified in § 490.709(f)(1)(iii) using the general form of the following formula:
+(3) *Method C—system use measurement.* The Percent of Non-SOV Travel shall be calculated to the nearest tenth of a percent from the data collected from system use measurements as specified in § 490.709(f)(1)(iii) using the general form of the following formula:
 
 ![](/graphics/er18ja17.036.gif)Where:Percent of Non-SOV Travel = percentage of travel, to the nearest tenth of a percent, that is not occurring by driving alone in a motorized vehicle, including travel avoided by telecommutingVolumenon-SOV*Volume* = Annual volume of person travel occurring while driving alone in a motorized vehicle; andVolumeSOV = Annual volume of person travel occurring on modes other than driving alone in a motorized vehicle, calculated as:![](/graphics/er18ja17.037.gif)Where:m = travel mode (modes other than driving alone in a motorized vehicle, including travel avoided by telecommuting);Volume m = annual volume of person travel for each mode, “m”; andt = total number of modes that are not driving alone in a motorized vehicle.

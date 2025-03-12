@@ -1,6 +1,6 @@
 ##### § 240.14c-101 Schedule 14C. Information required in information statement. #####
 
-Link to an amendment published at 87 FR 55197, Sept. 8, 2022.Schedule 14C InformationInformation Statement Pursuant to Section 14(c) of the Securities Exchange Act of 1934(Amendment No. )Check the appropriate box: [ ] Preliminary Information Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14c-5(d)(2)) [ ] Definitive Information Statement (Name of Registrant As Specified In Its Charter)
+Schedule 14C InformationInformation Statement Pursuant to Section 14(c) of the Securities Exchange Act of 1934(Amendment No. )Check the appropriate box: [ ] Preliminary Information Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14c-5(d)(2)) [ ] Definitive Information Statement (Name of Registrant As Specified In Its Charter)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -8,7 +8,7 @@ Payment of Filing Fee (Check all boxes that apply):
 
 Where any item, other than Item 4, calls for information with respect to any matter to be acted upon at the meeting or, if no meeting is being held, by written authorization or consent, such item need be answered only with respect to proposals to be made by the registrant. Registrants and acquirees that meet the definition of “smaller reporting company” under Rule 12b-2 of the Exchange Act (§ 240.12b-2) shall refer to the disclosure items in Regulation S-K (§§ 229.10 through 229.1123 of this chapter) with specific attention to the scaled disclosure requirements for smaller reporting companies, if any. A smaller reporting company may provide the information in Article 8 of Regulation S-X in lieu of any financial statements required by Item 1 of § 240.14c-101.
 
-*Item 1. Information required by Items of Schedule 14A (17 CFR 240.14a-101).* Furnish the information called for by all of the items of Schedule 14A of Regulation 14A (17 CFR 240.14a-101) (other than Items 1(c). 2, 4 and 5 thereof) which would be applicable to any matter to be acted upon at the meeting if proxies were to be solicited in connection with the meeting. Notes A, C, D, and E to Schedule 14A are also applicable to Schedule 14C.
+*Item 1. Information required by Items of Schedule 14A (17 CFR 240.14a-101).* Furnish the information called for by all of the items of Schedule 14A of Regulation 14A (17 CFR 240.14a-101) (other than Items 1(c), 2, 4 and 5 thereof) which would be applicable to any matter to be acted upon at the meeting if proxies were to be solicited in connection with the meeting. Notes A, C, D, and E to Schedule 14A (including the requirement in Note D.5 to provide an Interactive Data File in accordance with § 232.405 of this chapter and the EDGAR Filer Manual where applicable pursuant to § 232.405(b) of this chapter) are also applicable to Schedule 14C.
 
 *Item 2. Statement that proxies are not solicited.* The following statement shall be set forth on the first page of the information statement in bold-face type:
 
@@ -42,4 +42,4 @@ We Are Not Asking You for a Proxy and You are Requested Not To Send Us a Proxy
 
 (d) Provide instructions how security holders sharing an address can request delivery of a single copy of annual reports to security holders, information statements, or Notices of Internet Availability of Proxy Materials if they are receiving multiple copies of annual reports to security holders, information statements, or Notices of Internet Availability of Proxy Materials.
 
-[51 FR 42072, Nov. 20, 1986, as amended at 52 FR 48984, Dec. 29, 1987; 57 FR 36495, Aug. 13, 1992; 58 FR 14684, Mar. 18, 1993; 59 FR 67765, Dec. 30, 1994; 61 FR 49960, Sept. 24, 1996; 65 FR 65752, Nov. 2, 2000; 72 FR 4172, Jan. 29, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6046, Feb. 2, 2011; 86 FR 70259, Dec. 9, 2021]
+[51 FR 42072, Nov. 20, 1986, as amended at 52 FR 48984, Dec. 29, 1987; 57 FR 36495, Aug. 13, 1992; 58 FR 14684, Mar. 18, 1993; 59 FR 67765, Dec. 30, 1994; 61 FR 49960, Sept. 24, 1996; 65 FR 65752, Nov. 2, 2000; 72 FR 4172, Jan. 29, 2007; 73 FR 977, Jan. 4, 2008; 76 FR 6046, Feb. 2, 2011; 86 FR 70259, Dec. 9, 2021; 87 FR 55197, Sept. 8, 2022]
