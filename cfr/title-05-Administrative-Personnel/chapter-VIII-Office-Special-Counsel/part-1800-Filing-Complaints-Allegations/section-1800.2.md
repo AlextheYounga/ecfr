@@ -1,5 +1,7 @@
 ##### § 1800.2 Filing disclosures of information. #####
 
+Link to an amendment published at 82 FR 26741, June 9, 2017.
+
 (a) *General.* OSC is authorized by law (at 5 U.S.C. 1213) to provide an independent and secure channel for use by current or former Federal employees and applicants for Federal employment in disclosing information that they reasonably believe shows wrongdoing by a Federal agency. OSC must determine whether there is a substantial likelihood that the information discloses a violation of any law, rule, or regulation; gross mismanagement; gross waste of funds; abuse of authority; or a substantial and specific danger to public health or safety. If it does, the law requires OSC to refer the information to the agency head involved for investigation and a written report on the findings to the Special Counsel. The law does not authorize OSC to investigate the subject of a disclosure.
 
 (b) *Procedures for filing disclosures.* Current or former Federal employees, and applicants for Federal employment, may file a disclosure of the type of information described in paragraph (a) of this section with OSC. Such disclosures must be filed in writing (including electronically - *see* paragraph (b)(3)(iii) of this section).

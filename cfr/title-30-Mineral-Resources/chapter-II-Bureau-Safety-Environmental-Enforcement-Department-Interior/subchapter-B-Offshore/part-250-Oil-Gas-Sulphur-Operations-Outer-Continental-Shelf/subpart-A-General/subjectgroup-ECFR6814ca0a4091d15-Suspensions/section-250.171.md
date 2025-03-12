@@ -1,6 +1,6 @@
 ##### § 250.171 How do I request a suspension? #####
 
-You must submit your request for a suspension to the Regional Supervisor, and BSEE must receive the request before the end of the lease term (*i.e.,* end of primary term, end of the 180-day period following the last leaseholding operation, and end of a current suspension). Your request must include:
+You must submit your request for a suspension to the Regional Supervisor, and BSEE must receive the request before the end of the lease term (*i.e.,* end of primary term, end of the 1-year period following the last leaseholding operation, and end of a current suspension). Your request must include:
 
 (a) The justification for the suspension including the length of suspension requested;
 
@@ -11,3 +11,5 @@ You must submit your request for a suspension to the Regional Supervisor, and BS
 (d) A commitment to production (SOP only); and
 
 (e) The service fee listed in § 250.125 of this subpart.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 82 FR 26744, June 9, 2017]

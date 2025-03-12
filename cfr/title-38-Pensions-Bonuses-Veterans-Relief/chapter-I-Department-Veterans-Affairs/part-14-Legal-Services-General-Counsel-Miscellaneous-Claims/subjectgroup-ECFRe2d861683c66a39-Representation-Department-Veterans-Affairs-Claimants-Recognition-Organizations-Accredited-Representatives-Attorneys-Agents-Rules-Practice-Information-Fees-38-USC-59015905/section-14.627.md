@@ -14,28 +14,34 @@ As used in regulations on representation of VA claimants:
 
 (f) *Cancellation* means termination of authority to represent claimants.
 
-(g) *Claim* means application made under title 38 U.S.C., and implementing directives, for entitlement to VA benefits, reinstatement, continuation, or increase of benefits, or the defense of a proposed agency adverse action concerning benefits.
+(g) *Chief Counsel* includes a designee of the Chief Counsel.
 
-(h) *Claimant* means a person who has filed or has expressed to a representative, agent, or attorney an intention to file a written application for determination of entitlement to benefits provided under title 38, United States Code, and implementing directives.
+(h) *Claim* means application made under title 38 U.S.C., and implementing directives, for entitlement to VA benefits, reinstatement, continuation, or increase of benefits, or the defense of a proposed agency adverse action concerning benefits.
 
-(i) *Complete claims service* means representation of each claimant requesting assistance, from the initiation of a claim until the completion of any potential administrative appeal.
+(i) *Claimant* means a person who has filed or has expressed to a representative, agent, or attorney an intention to file a written application for determination of entitlement to benefits provided under title 38, United States Code, and implementing directives.
 
-(j) *Cross-accreditation* means an accreditation based on the status of a representative as an accredited and functioning representative of another organization.
+(j) *Complete claims service* means representation of each claimant requesting assistance, from the initiation of a claim until the completion of any potential administrative appeal.
 
-(k) *Facilities* means equipment and furnishings that promote the efficient operation of an office, and adjacent accommodations, which are needed to facilitate access to office space.
+(k) *Cross-accreditation* means an accreditation based on the status of a representative as an accredited and functioning representative of another organization.
 
-(l) *Recognition* means certification by VA of organizations to assist claimants in the preparation, presentation, and prosecution of claims for VA benefits.
+(l) *Deputy Chief Counsel* includes a designee of the Deputy Chief Counsel.
 
-(m) *Representation* means the acts associated with representing a claimant in a proceeding before VA pursuant to a properly executed and filed VA Form 21-22, “Appointment of Veterans Service Organization as Claimant's Representative,” or VA Form 21-22a, “Appointment of Individual as Claimant's Representative.”
+(m) *Facilities* means equipment and furnishings that promote the efficient operation of an office, and adjacent accommodations, which are needed to facilitate access to office space.
 
-(n) *Representative* means a person who has been recommended by a recognized organization and accredited by VA.
+(n) *General Counsel* includes the Deputy General Counsel for Legal Policy if designated by the General Counsel. When so designated, references to “the General Counsel or his or her designee” may further include a designee of the Deputy General Counsel for Legal Policy.
 
-(o) *Service* means the delivery of a motion, response, or reply to a person or entity to which it is directed. Proof of service consists of a statement by the person who made service certifying the date and manner of service, the names of the persons served, and the addresses of the place of delivery. For service by mail, proof of service shall include the date and manner by which the document was mailed.
+(o) *Recognition* means certification by VA of organizations to assist claimants in the preparation, presentation, and prosecution of claims for VA benefits.
 
-(p) *State* includes any State, possession, territory, or Commonwealth of the United States, and the District of Columbia.
+(p) *Representation* means the acts associated with representing a claimant in a proceeding before VA pursuant to a properly executed and filed VA Form 21-22, “Appointment of Veterans Service Organization as Claimant's Representative,” or VA Form 21-22a, “Appointment of Individual as Claimant's Representative.”
 
-(q) *Suspension* means temporary withholding of authority to represent claimants.
+(q) *Representative* means a person who has been recommended by a recognized organization and accredited by VA.
 
-(r) *Tribal government* means the Federally recognized governing body of any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or Regional or Village Corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+(r) *Service* means the delivery of a motion, response, or reply to a person or entity to which it is directed. Proof of service consists of a statement by the person who made service certifying the date and manner of service, the names of the persons served, and the addresses of the place of delivery. For service by mail, proof of service shall include the date and manner by which the document was mailed.
 
-(Authority: 38 U.S.C. 501(a), 5902, 5903, 5904)[53 FR 52419, Dec. 28, 1988, as amended at 68 FR 8544, Feb. 24, 2003; 73 FR 29870, May 22, 2008; 82 FR 6272, Jan. 19, 2017]
+(s) *State* includes any State, possession, territory, or Commonwealth of the United States, and the District of Columbia.
+
+(t) *Suspension* means temporary withholding of authority to represent claimants.
+
+(u) *Tribal government* means the Federally recognized governing body of any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or Regional or Village Corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+(Authority: 38 U.S.C. 501(a), 5902, 5903, 5904)[53 FR 52419, Dec. 28, 1988, as amended at 68 FR 8544, Feb. 24, 2003; 73 FR 29870, May 22, 2008; 82 FR 6272, Jan. 19, 2017; 82 FR 26753, June 9, 2017]

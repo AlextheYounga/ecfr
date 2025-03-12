@@ -1,5 +1,7 @@
 ##### § 1800.1 Filing complaints of prohibited personnel practices or other prohibited activities. #####
 
+Link to an amendment published at 82 FR 26740, June 9, 2017.
+
 (a) *Prohibited personnel practices.* The Office of Special Counsel (OSC) has investigative jurisdiction over the following prohibited personnel practices committed against current or former Federal employees and applicants for Federal employment:
 
 (1) Discrimination, including discrimination based on marital status or political affiliation (*see* § 1810.1 of this chapter for information about OSC's deferral policy);

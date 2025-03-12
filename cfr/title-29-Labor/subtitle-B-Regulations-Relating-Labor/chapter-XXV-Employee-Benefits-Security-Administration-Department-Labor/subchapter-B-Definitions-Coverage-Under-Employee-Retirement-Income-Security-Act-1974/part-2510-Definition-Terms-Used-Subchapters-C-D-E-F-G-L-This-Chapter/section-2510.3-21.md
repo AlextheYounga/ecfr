@@ -184,28 +184,4 @@
 
 (i) *Continued applicability of State law regulating insurance, banking, or securities.* Nothing in this part shall be construed to affect or modify the provisions of section 514 of Title I of the Act, including the savings clause in section 514(b)(2)(A) for state laws that regulate insurance, banking, or securities.
 
-(j) *Temporarily applicable provisions.* (1) During the period between June 7, 2016 and June 9, 2017, this paragraph (j) shall apply.
-
-(i) A person shall be deemed to be rendering “investment advice” to an employee benefit plan, within the meaning of section 3(21)(A)(ii) of the Act, section 4975(e)(3)(B) of the Code and this paragraph (j), only if:
-
-(A) Such person renders advice to the plan as to the value of securities or other property, or makes recommendation as to the advisability of investing in, purchasing, or selling securities or other property; and
-
-(B) Such person either directly or indirectly (*e.g.,* through or together with any affiliate) -
-
-(*1*) Has discretionary authority or control, whether or not pursuant to agreement, arrangement or understanding, with respect to purchasing or selling securities or other property for the plan; or
-
-(*2*) Renders any advice described in paragraph (j)(1)(i) of this section on a regular basis to the plan pursuant to a mutual agreement, arrangement or understanding, written or otherwise, between such person and the plan or a fiduciary with respect to the plan, that such services will serve as a primary basis for investment decisions with respect to plan assets, and that such person will render individualized investment advice to the plan based on the particular needs of the plan regarding such matters as, among other things, investment policies or strategy, overall portfolio composition, or diversification of plan investments.
-
-(2) *Affiliate and control.* (i) For purposes of paragraph (j) of this section, an “affiliate” of a person shall include:
-
-(A) Any person directly or indirectly, through one or more intermediaries, controlling, controlled by, or under common control with such person;
-
-(B) Any officer, director, partner, employee or relative (as defined in section 3(15) of the Act) of such person; and
-
-(C) Any corporation or partnership of which such person is an officer, director or partner.
-
-(ii) For purposes of this paragraph (j), the term “control” means the power to exercise a controlling influence over the management or policies of a person other than an individual.
-
-(3) *Expiration date.* This paragraph (j) expires on June 9, 2017.
-
-[81 FR 20997, 21001, Apr. 8, 2016, as amended at 82 FR 16918, Apr. 7, 2017]Effective Date Note:At 81 FR 21001, Apr. 8, 2016, in § 2510.3-21, paragraph (j) was added, effective June 7, 2016 to Apr. 10, 2017. At 82 FR 16902, Apr. 7, 2017, the effective date was extended to June 9, 2017.
+[81 FR 20997, 21001, Apr. 8, 2016, as amended at 82 FR 16918, Apr. 7, 2017]

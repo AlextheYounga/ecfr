@@ -248,4 +248,4 @@ Terms used in this part will have the meanings given in the Act and as defined i
 
 *You* means a lessee, the owner or holder of operating rights, a designated operator or agent of the lessee(s), a pipeline right-of-way holder, or a State lessee granted a right-of-use and easement.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, m2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 78 FR 20439, Apr. 5, 2013; 81 FR 46560, July 15, 2016]
