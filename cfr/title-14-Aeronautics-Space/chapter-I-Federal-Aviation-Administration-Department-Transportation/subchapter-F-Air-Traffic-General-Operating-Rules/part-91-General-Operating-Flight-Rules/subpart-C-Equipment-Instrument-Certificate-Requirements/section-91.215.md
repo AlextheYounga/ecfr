@@ -1,6 +1,6 @@
 ##### § 91.215 ATC transponder and altitude reporting equipment and use. #####
 
-Link to an amendment published at 86 FR 4512, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4512, Jan. 15, 2021.This amendment delayed to Apr. 21, 2021 at 86 FR 13629, Mar. 10, 2021.
 
 (a) *All airspace: U.S.-registered civil aircraft.* For operations not conducted under part 121 or 135 of this chapter, ATC transponder equipment installed must meet the performance and environmental requirements of any class of TSO-C74b (Mode A) or any class of TSO-C74c (Mode A with altitude reporting capability) as appropriate, or the appropriate class of TSO-C112 (Mode S).
 

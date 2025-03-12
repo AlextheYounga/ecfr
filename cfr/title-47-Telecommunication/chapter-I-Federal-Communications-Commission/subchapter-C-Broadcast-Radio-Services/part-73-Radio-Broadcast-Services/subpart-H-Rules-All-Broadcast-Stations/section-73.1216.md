@@ -24,8 +24,12 @@ For the purposes of this section:
 
 (b) Material terms include those factors which define the operation of the contest and which affect participation therein. Although the material terms may vary widely depending upon the exact nature of the contest, they will generally include: How to enter or participate; eligibility restrictions; entry deadline dates; whether prizes can be won; when prizes can be won; the extent, nature and value of prizes; basis for valuation of prizes; time and means of selection of winners; and/or tie-breaking procedures.
 
-Note 2 to § 73.1216: In general, the time and manner of disclosure of the material terms of a contest are within the licensee's discretion. However, the obligation to disclose the material terms arises at the time the audience is first told how to enter or participate and continues thereafter.
+Note 2 to § 73.1216:
 
-Note 3 to § 73.1216: This section is not applicable to licensee-conducted contests not broadcast or advertised to the general public or to a substantial segment thereof, to contests in which the general public is not requested or permitted to participate, to the commercial advertisement of non-licensee-conducted contests, or to a contest conducted by a non-broadcast division of the licensee or by a non-broadcast company related to the licensee.
+In general, the time and manner of disclosure of the material terms of a contest are within the licensee's discretion. However, the obligation to disclose the material terms arises at the time the audience is first told how to enter or participate and continues thereafter.
+
+Note 3 to § 73.1216:
+
+This section is not applicable to licensee-conducted contests not broadcast or advertised to the general public or to a substantial segment thereof, to contests in which the general public is not requested or permitted to participate, to the commercial advertisement of non-licensee-conducted contests, or to a contest conducted by a non-broadcast division of the licensee or by a non-broadcast company related to the licensee.
 
 [80 FR 64361, Oct. 23, 2015]

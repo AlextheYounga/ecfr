@@ -1,6 +1,6 @@
 ##### § 48.105 Requirement to maintain current information. #####
 
-Link to an amendment published at 86 FR 4504, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4504, Jan. 15, 2021.Link to an extension of the above amendment published at 86 FR 13629, Mar. 10, 2021.
 
 (a) The holder of a Certificate of Aircraft Registration must ensure that the information provided under § 48.100 remains accurate.
 

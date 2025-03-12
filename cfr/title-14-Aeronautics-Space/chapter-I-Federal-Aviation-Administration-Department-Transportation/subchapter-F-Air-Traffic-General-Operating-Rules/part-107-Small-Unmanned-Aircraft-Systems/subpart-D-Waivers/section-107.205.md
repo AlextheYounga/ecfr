@@ -1,6 +1,6 @@
 ##### § 107.205 List of regulations subject to waiver. #####
 
-Link to an amendment published at 86 FR 438, Jan. 15, 2021.
+Link to an amendment published at 86 FR 438, Jan. 15, 2021.This amendment delayed until Apr. 21, 2021 at 86 FR 13630, Mar. 10, 2021.
 
 A certificate of waiver issued pursuant to § 107.200 may authorize a deviation from the following regulations of this part:
 

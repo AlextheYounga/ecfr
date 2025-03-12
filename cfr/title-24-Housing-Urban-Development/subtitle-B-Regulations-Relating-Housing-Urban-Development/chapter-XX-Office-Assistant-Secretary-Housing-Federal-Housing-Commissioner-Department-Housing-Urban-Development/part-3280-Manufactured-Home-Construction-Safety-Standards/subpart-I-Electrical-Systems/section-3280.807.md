@@ -1,6 +1,6 @@
 ##### § 3280.807 Fixtures and appliances. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) Electrical materials, devices, appliances, fittings, and other equipment installed, intended for use in, or attached to the manufactured home shall be approved for the application and shall be connected in an approved manner when in service. Facilities shall be provided to securely fasten appliances when the manufactured home is in transit. (See § 3280.809.)
 

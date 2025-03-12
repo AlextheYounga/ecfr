@@ -1,6 +1,6 @@
 ##### § 3280.609 Water distribution systems. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Water supply* - (1) *Supply piping.* Piping systems shall be sized to provide an adequate quantity of water to each plumbing fixture at a flow rate sufficient to keep the fixture in a clean and sanitary condition without any danger of backflow or siphonage. (See table in § 3280.609(f)(1)). The manufacturer shall include in his written installation instructions that the manufactured home has been designed for an inlet water pressure of 80 psi, and a statement that when the manufactured home is to be installed in areas where the water pressure exceeds 80 psi, a pressure reducing valve should be installed.
 

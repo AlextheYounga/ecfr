@@ -1,6 +1,6 @@
 ##### § 3280.902 Definitions. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Chassis* means the entire transportation system comprising the following subsystems: drawbar and coupling mechanism, frame, running gear assembly, and lights.
 

@@ -24,6 +24,6 @@
 
 (3) [Reserved]
 
-(f) *Applicability date.* The rules of this section apply to taxable years of shareholders beginning on or after Janyuary 14, 2021. A shareholder may choose to apply such rules for any open taxable year beginning before January 14, 2021, provided that, with respect to a tested foreign corporation, the shareholder consistently applies the provisions of this section and § 1.1291-1(b)(8)(iv) and (b)(8)(v)(A), (B), (C), and (D) and §§ 1.1297-1 *(*except that consistent treatment is not required with respect to § 1.1297-1(c)(1)(i)(A)), 1.1297-2, and 1.1298-2 for such year and all subsequent years.
+(f) *Applicability date.* The rules of this section apply to taxable years of shareholders beginning on or after January 14, 2021. A shareholder may choose to apply such rules for any open taxable year beginning before January 14, 2021, provided that, with respect to a tested foreign corporation, the shareholder consistently applies the provisions of this section and § 1.1291-1(b)(8)(iv) and (b)(8)(v)(A), (B), (C), and (D) and §§ 1.1297-1 *(*except that consistent treatment is not required with respect to § 1.1297-1(c)(1)(i)(A)), 1.1297-2, and 1.1298-2 for such year and all subsequent years.
 
-[T.D. 9936, 86 FR 4578, Jan. 15, 2021]
+[T.D. 9936, 86 FR 4578, Jan. 15, 2021, as amended by T.D. 9936, 86 FR 13648, Mar. 10, 2021]

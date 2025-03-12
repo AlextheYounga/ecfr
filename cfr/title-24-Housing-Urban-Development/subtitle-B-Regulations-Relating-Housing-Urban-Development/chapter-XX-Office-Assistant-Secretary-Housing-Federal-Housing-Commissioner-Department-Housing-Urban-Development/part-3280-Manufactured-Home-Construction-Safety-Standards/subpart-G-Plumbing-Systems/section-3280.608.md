@@ -1,6 +1,6 @@
 ##### § 3280.608 Hangers and supports. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Strains and stresses.* Piping in a plumbing system shall be installed without undue strains and stresses, and provision shall be made for expansion, contraction, and structural settlement.
 

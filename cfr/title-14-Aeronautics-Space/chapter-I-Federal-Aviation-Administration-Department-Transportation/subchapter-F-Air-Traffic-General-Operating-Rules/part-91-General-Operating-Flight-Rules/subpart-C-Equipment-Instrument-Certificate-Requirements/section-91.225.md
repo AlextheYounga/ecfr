@@ -1,6 +1,6 @@
 ##### § 91.225 Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipment and use. #####
 
-Link to an amendment published at 86 FR 4513, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4513, Jan. 15, 2021.This amendment delayed to Apr. 21, 2021 at 86 FR 13629, Mar. 10, 2021.
 
 (a) After January 1, 2020, and unless otherwise authorized by ATC, no person may operate an aircraft in Class A airspace unless the aircraft has equipment installed that -
 

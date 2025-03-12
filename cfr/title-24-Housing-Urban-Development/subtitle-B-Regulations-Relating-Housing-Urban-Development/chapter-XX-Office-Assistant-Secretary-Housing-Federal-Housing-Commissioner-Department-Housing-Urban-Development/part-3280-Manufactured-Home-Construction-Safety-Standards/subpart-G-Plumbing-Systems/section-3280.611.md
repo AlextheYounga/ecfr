@@ -1,6 +1,6 @@
 ##### § 3280.611 Vents and venting. #####
 
-Link to an amendment published at 86 FR 2521, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2521, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *General.* Each plumbing fixture trap shall be protected against siphonage and back pressure, and air circulation shall be ensured throughout all parts of the drainage system by means of vents installed in accordance with the requirements of this section and as otherwise required by this standard.
 

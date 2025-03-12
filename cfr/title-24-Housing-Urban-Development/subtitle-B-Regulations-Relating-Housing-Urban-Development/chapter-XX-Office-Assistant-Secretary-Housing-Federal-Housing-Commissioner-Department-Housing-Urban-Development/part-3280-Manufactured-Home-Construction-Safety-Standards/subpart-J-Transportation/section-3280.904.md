@@ -1,6 +1,6 @@
 ##### § 3280.904 Specific requirements for designing the transportation system. #####
 
-Link to an amendment published at 86 FR 2524, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2524, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *General.* The entire system (frame, drawbar and coupling mechanism, running gear assembly, and lights) shall be designed and constructed as an integrated, balanced and durable unit which is safe and suitable for its specified use during the intended life of the manufactured home. In operation, the transportation system (supporting the manufactured home structure and its contents) shall effectively respond to the control of the braking, while traveling at applicable towing vehicle in terms of tracking and highway speeds and in normal highway traffic conditions.
 

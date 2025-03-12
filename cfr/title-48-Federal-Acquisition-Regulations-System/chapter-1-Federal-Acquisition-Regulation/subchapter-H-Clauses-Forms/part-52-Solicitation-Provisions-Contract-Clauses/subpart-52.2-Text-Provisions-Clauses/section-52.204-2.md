@@ -2,11 +2,11 @@
 
 As prescribed in 4.404(a), insert the following clauses:
 
-Security Requirements (AUG 1996)
+Security Requirements (MAR 2021)
 
 (a) This clause applies to the extent that this contract involves access to information classified *Confidential, Secret,* or *Top Secret.*
 
-(b) The Contractor shall comply with (1) the Security Agreement (DD Form 441), including the *National Industrial Security Program Operating Manual* (DOD 5220.22-M), and (2) any revisions to that manual, notice of which has been furnished to the Contractor.
+(b) The Contractor shall comply with (1) the Security Agreement (DD Form 441), including the *National Industrial Security Program Operating Manual* (32 CFR part 117), and (2) any revisions to that manual, notice of which has been furnished to the Contractor.
 
 (c) If, subsequent to the date of this contract, the security classification or security requirements under this contract are changed by the Government and if the changes cause an increase or decrease in security costs or otherwise affect any other term or condition of this contract, the contract shall be subject to an equitable adjustment as if the changes were directed under the Changes clause of this contract.
 
@@ -26,4 +26,4 @@ Security Requirements (AUG 1996)
 
 (e) The Contractor shall be responsible for furnishing to each employee and for requiring each employee engaged on the work to display such identification as may be approved and directed by the Contracting Officer. All prescribed identification shall immediately be delivered to the Contracting Officer, for cancellation upon the release of any employee. When required by the Contracting Officer, the Contractor shall obtain and submit fingerprints of all persons employed or to be employed on the project.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996]
+[48 FR 42478, Sept. 19, 1983, as amended at 61 FR 31617, June 20, 1996; 86 FR 13794, Mar. 10, 2021]

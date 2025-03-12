@@ -1,6 +1,6 @@
 ##### § 107.3 Definitions. #####
 
-Link to an amendment published at 86 FR 4381, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4381, Jan. 15, 2021.This amendment delayed until Apr. 21, 2021 at 86 FR 13630, Mar. 10, 2021.
 
 The following definitions apply to this part. If there is a conflict between the definitions of this part and definitions specified in § 1.1 of this chapter, the definitions in this part control for purposes of this part:
 

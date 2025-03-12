@@ -414,7 +414,7 @@ This section contains a listing of the headings for §§ 1.1297-1, 1.1297-2, 1.1
 
 (11) Residual gain.
 
-(12) TFC obligation
+(12) TFC obligation.
 
 (13) Unremitted earnings.
 
@@ -614,4 +614,4 @@ This section contains a listing of the headings for §§ 1.1297-1, 1.1297-2, 1.1
 
 (f) Applicability date.
 
-[T.D. 9360, 72 FR 54821, Sept. 27, 2007, as amended by T.D. 9936, 86 FR 4556, Jan. 15, 2021]
+[T.D. 9360, 72 FR 54821, Sept. 27, 2007, as amended by T.D. 9936, 86 FR 4556, Jan. 15, 2021; T.D. 9936, 86 FR 13648, Mar. 10, 2021]

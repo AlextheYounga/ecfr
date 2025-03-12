@@ -1,6 +1,6 @@
 ##### § 3280.710 Venting, ventilation and combustion air. #####
 
-Link to an amendment published at 86 FR 2523, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2523, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) The venting as required by § 3280.707(b) shall be accomplished by one or more of the methods given in (a)(1) and (2) of this section:
 

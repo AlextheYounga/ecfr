@@ -1,6 +1,6 @@
 ##### § 3282.14 Alternative construction of manufactured homes. #####
 
-Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Policy.* In order to promote the purposes of the Act, the Department will permit the sale or lease of one or more manufactured homes not in compliance with the Standards under circumstances wherein no affirmative action is needed to protect the public interest. The Department encourages innovation and the use of new technology in manufactured homes. Accordingly, HUD will permit manufacturers to utilize new designs or techniques not in compliance with the Standards in cases:
 

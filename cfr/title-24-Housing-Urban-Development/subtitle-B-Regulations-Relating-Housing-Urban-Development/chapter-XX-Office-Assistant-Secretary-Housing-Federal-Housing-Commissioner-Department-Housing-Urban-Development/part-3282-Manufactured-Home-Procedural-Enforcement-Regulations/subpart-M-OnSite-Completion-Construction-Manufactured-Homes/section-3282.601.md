@@ -1,6 +1,6 @@
 ##### § 3282.601 Purpose and applicability. #####
 
-Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Purpose of section.* Under HUD oversight, this section establishes the procedure for limited on-site completion of some aspects of construction that cannot be completed at the factory.
 

@@ -1,6 +1,6 @@
 ##### § 3280.113 Glass and glazed openings. #####
 
-Link to an amendment published at 86 FR 2517, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Windows and sliding glass doors.* All windows and sliding glass doors shall meet the requirements of § 3280.403 the “Standard for Windows and Sliding Glass Doors Used in Manufactured Homes”.
 

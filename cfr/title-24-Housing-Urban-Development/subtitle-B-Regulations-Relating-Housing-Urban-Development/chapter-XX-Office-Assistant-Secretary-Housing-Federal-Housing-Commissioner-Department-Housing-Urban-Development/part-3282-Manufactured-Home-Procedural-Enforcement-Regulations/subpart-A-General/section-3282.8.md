@@ -1,6 +1,6 @@
 ##### § 3282.8 Applicability. #####
 
-Link to an amendment published at 86 FR 2526, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2526, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) *Manufactured homes.* This part applies to all manufactured homes that enter the first stage of production on or after June 15, 1976, and to all manufactured homes that enter the first stage of production before June 15, 1976, to which labels are applied under § 3282.205(d).
 

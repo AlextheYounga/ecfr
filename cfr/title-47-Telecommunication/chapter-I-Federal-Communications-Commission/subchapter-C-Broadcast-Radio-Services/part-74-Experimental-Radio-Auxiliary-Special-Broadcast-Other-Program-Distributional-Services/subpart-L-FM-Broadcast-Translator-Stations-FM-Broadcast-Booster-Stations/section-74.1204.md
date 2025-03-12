@@ -63,7 +63,7 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (f) An application for an FM translator station will not be accepted for filing even though the proposed operation would not involve overlap of field strength contours with any other station, as set forth in paragraph (a) of this section, if grant of the authorization will result in interference to the reception of a regularly used, off-the-air signal of any authorized co-channel, first, second or third adjacent channel broadcast station, including previously authorized secondary service stations within the 45 dBu field strength contour of the desired station. Interference is demonstrated by:
 
-(1) The required minimum number of valid listener complaints as determined using Table 1 to § 74.1203(a)(3) and defined in § 74.1201(k) of the part;
+(1) The required minimum number of valid listener complaints as determined using Table 1 to § 74.1203(a)(3) of this part and defined in § 74.1201(k) of this part;
 
 (2) A map plotting the specific location of the alleged interference in relation to the complaining station's 45 dBu contour;
 
@@ -71,7 +71,7 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (4) A statement that the complaining station licensee has used commercially reasonable efforts to inform the relevant translator licensee of the claimed interference and attempted private resolution; and
 
-(5) U/D data demonstrating that at each listener location the undesired to desired signal strength exceeds −20 dB for co-channel situations, −6 dB for first-adjacent channel situations or 40 dB for second- or third-adjacent channel situations, calculated using the Commission's standard contour prediction methodology set out in § 73.313.
+(5) U/D data demonstrating that at each listener location the undesired to desired signal strength exceeds −20 dB for co-channel situations, −6 dB for first-adjacent channel situations or 40 dB for second- or third-adjacent channel situations, calculated using the methodology set out in paragraph (b) of this section.
 
 (g) An application for an FM translator or an FM booster station that is 53 or 54 channels removed from an FM radio broadcast station will not be accepted for filing if it fails to meet the required separation distances set out in § 73.207 of this chapter. For purposes of determining compliance with § 73.207 of this chapter, translator stations will be treated as Class A stations and booster stations will be treated the same as their FM radio broadcast station equivalents. FM radio broadcast station equivalents will be determined in accordance with §§ 73.210 and 73.211 of this chapter, based on the booster station's ERP and HAAT. Provided, however, that FM translator stations and booster stations operating with less than 100 watts ERP will be treated as class D stations and will not be subject to intermediate frequency separation requirements.
 
@@ -81,4 +81,4 @@ LP100 stations, to the purposes of determining overlap pursuant to this paragrap
 
 (j) FM translator stations authorized prior to June 1, 1991 with facilities that do not comply with the predicted interference protection provisions of this section, may continue to operate, provided that operation is in conformance with § 74.1203 regarding actual interference. Applications for major changes in FM translator stations must specify facilities that comply with provisions of this section.
 
-[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000; 84 FR 27741, June 14, 2019]
+[55 FR 50694, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42025, Aug. 6, 1993; 65 FR 7649, Feb. 15, 2000; 65 FR 67304, Nov. 9, 2000; 65 FR 79780, Dec. 20, 2000; 84 FR 27741, June 14, 2019; 86 FR 13664, Mar. 10, 2021]

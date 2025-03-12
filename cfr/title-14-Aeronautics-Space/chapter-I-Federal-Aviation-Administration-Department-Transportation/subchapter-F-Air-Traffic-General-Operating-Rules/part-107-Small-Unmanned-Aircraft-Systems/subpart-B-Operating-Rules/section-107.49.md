@@ -1,6 +1,6 @@
 ##### § 107.49 Preflight familiarization, inspection, and actions for aircraft operation. #####
 
-Link to an amendment published at 86 FR 4382, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4382, Jan. 15, 2021.This amendment delayed until Apr. 21, 2021 at 86 FR 13630, Mar. 10, 2021.
 
 Prior to flight, the remote pilot in command must:
 

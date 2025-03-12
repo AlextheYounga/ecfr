@@ -1,6 +1,6 @@
 ##### § 3280.11 Certification label. #####
 
-Link to an amendment published at 86 FR 2517, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2517, Jan. 12, 2021.Link to a delay published at 86 FR 13645, Mar. 10, 2021.
 
 (a) A permanent label shall be affixed to each transportable section of each manufactured home for sale or lease in the United States. This label shall be separate and distinct from the data plate which the manufacturer is required to provide under § 3280.5 of the standards.
 

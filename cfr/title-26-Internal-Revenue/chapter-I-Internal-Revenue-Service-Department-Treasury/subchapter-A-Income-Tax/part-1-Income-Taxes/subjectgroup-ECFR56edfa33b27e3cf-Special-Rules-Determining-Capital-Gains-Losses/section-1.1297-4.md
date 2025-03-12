@@ -76,7 +76,7 @@
 
 (v) *Options.* If a United States person is considered to own stock in a foreign corporation by reason of holding an option, the United States person may make the election under section 1297(f)(2) (or may be deemed to make an election under paragraph (d)(5)(iv) of this section) with respect to the foreign corporation or its subsidiaries in the same manner as if the United States person owned stock in the foreign corporation.
 
-(6) *Stock ownership.* For purposes of this section, ownership of stock in a foreign corporation means either direct ownership of such stock or indirect ownership determined using the rules specified in § 1.1291-1(b)(8).
+(6) *Stock ownership.* For purposes of this section, ownership of stock in a foreign corporation means either direct ownership of such stock or indirect ownership determined using the rules specified in § 1.1291-1(b)(8) (but without regard to the 50 percent ownership requirement of § 1.1291-1(b)(8)(ii)(A)).
 
 (e) *Rules limiting the amount of applicable insurance liabilities* - (1) *In general.* For purposes of determining whether a foreign corporation satisfies the 25 percent test described in paragraph (c) of this section or the 10 percent test described in paragraph (d)(1)(iii) of this section, the rules of this paragraph (e) apply to limit the amount of applicable insurance liabilities of the foreign corporation.
 
@@ -128,7 +128,7 @@
 
 (4) *Applicable reporting period.* The term *applicable reporting period* is the last annual reporting period for a financial statement ending with or within the taxable year of a U.S. person owning stock in a foreign corporation, within the meaning of paragraph (d)(6) of this section.
 
-(5) *Financial guaranty insurance company.* The term *financial guaranty insurance company* means any insurance company whose sole business is to insure or reinsure only the type of business written by, or that would be permitted to be written by a company licensed under, and compliant with, a U.S. state law, modeled after the Financial Guaranty Insurance Guideline as established by National Association of Insurance Companies, that specifically governs the licensing and regulation of financial guaranty insurance companies.
+(5) *Financial guaranty insurance company.* The term *financial guaranty insurance company* means any insurance company whose sole business is to insure or reinsure only the type of business written by, or that would be permitted to be written by, a company licensed under, and compliant with, a U.S. state law, modeled after the Financial Guaranty Insurance Guideline as established by National Association of Insurance Companies, that specifically governs the licensing and regulation of financial guaranty insurance companies.
 
 (6) *Financial statements* - (i) *In general.* The term *financial statement* means a statement prepared for a legal entity for a reporting period in accordance with the rules of a financial accounting or statutory accounting standard that includes a complete balance sheet, statement of income, and a statement of cash flows (or equivalent statements under the applicable reporting standard).
 
@@ -150,4 +150,4 @@ financial statement end date.
 
 (g) *Applicability date.* The rules of this section apply to taxable years of shareholders beginning on or after January 14, 2021. A shareholder may choose to apply such rules for any open taxable year beginning after December 31, 2017 and before January 14, 2021, provided that, with respect to a tested foreign corporation, it consistently applies the provisions of this section and § 1.1297-6 for such year and all subsequent years.
 
-[T.D. 9936, 86 FR 4571, Jan. 15, 2021]
+[T.D. 9936, 86 FR 4571, Jan. 15, 2021, as amended by T.D. 9936, 86 FR 13648, Mar. 10, 2021]

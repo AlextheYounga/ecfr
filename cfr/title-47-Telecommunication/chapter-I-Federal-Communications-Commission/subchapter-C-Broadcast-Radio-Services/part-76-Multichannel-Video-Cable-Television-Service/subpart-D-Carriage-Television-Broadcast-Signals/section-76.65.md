@@ -74,6 +74,6 @@
 
 (3) The television broadcast station or multichannel video programming distributor has denied, unreasonably delayed, or failed to acknowledge a request to negotiate retransmission consent in violation of one or more of the rules contained in this subpart.
 
-(f) Termination of rules. This section shall terminate at midnight on January 1, 2020, provided that if Congress further extends this date, the rules remain in effect until the statutory authorization expires.
+(f) *Termination of rules.* This section shall terminate at midnight on January 1, 2020, provided that if Congress further extends this date, the rules remain in effect until the statutory authorization expires.
 
 [70 FR 40224, July 13, 2005, as amended at 74 FR 69286, Dec. 31, 2009; 79 FR 28630, May 19, 2014; 80 FR 11330, Mar. 3, 2015; 85 FR 36801, June 18, 2020; 85 FR 81812, Dec. 17, 2020]
