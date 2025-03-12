@@ -8,4 +8,6 @@
 
 (2) The information requested is not the subject of pending litigation.
 
-(c) Requests shall be in writing, and shall be sent to: Director, Enterprise Information Security & Policy, Tennessee Valley Authority, 1101 Market St., Chattanooga, TN 37402.
+(c) Requests shall be in writing, and shall be sent to: Director, TVA Police & Emergency Management, Tennessee Valley Authority, 400 West Summit Hill Drive, Knoxville, TN 37902.
+
+[76 FR 39261, July 6, 2011, as amended at 83 FR 48373, Sept. 25, 2018]

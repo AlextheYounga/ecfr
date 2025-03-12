@@ -40,10 +40,4 @@
 
 (3) *Alternative.* As an alternative to the protective housing requirements in paragraph (h)(1) of this section, the tank car may be equipped with a system that prevents the release of contents from any top fitting under accident conditions where any top fitting may be sheared off.
 
-(i) *ECP brakes.* (1) By January 1, 2021, each rail carrier operating a high-hazard flammable unit train as defined in § 171.8, comprised of at least one tank car loaded with a Packing Group I material must ensure the train meets the ECP braking capability requirements as prescribed in § 174.310 of this subchapter.
-
-(2) By May 1, 2023, each rail carrier operating a high-hazard flammable unit train as defined in § 171.8, not described in paragraph (i)(1) of this section must ensure the train meets the ECP braking capability requirements as prescribed in § 174.310 of this subchapter.
-
-(3) Alternate brake systems may be submitted for approval through the processes and procedures outlined in 49 CFR part 232, subpart F.
-
-[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016]
+[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016; 83 FR 48401, Sept. 25, 2018]

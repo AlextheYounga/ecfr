@@ -21447,7 +21447,7 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (i) [Reserved]
 
-(ii) Note: Map of Noel's Amphipod Critical Habitat Unit 3 follows:
+(ii) Map of Noel's Amphipod Critical Habitat Unit 3 follows:
 
 ![](/graphics/er07jn11.004.gif)Peck's Cave Amphipod (*Stygobromus pecki*)
 
@@ -21521,7 +21521,7 @@ Diminutive amphipod (*Gammarus hyalleloides*)
 
 (i) [Reserved]
 
-(ii) Note: Unit 1 (Map 1) follows:
+(ii) Unit 1 (Map 1) follows:
 
 ![](/graphics/er10fe06.000.gif)
 

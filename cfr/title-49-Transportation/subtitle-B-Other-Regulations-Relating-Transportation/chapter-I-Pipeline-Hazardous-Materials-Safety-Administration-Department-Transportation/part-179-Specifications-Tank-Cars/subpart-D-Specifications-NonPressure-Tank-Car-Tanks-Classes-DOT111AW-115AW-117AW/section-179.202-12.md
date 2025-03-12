@@ -14,10 +14,4 @@
 
 (f) *Top fittings protection.* The tank car tank must be equipped with top fittings protection conforming to AAR Specifications for Tank Cars, appendix E paragraph 10.2.1 (IBR, see § 171.7 of this subchapter).
 
-(g) *ECP brakes.* (1) By January 1, 2021, each rail carrier operating a high-hazard flammable unit train as defined in § 171.8, comprised of at least one tank car loaded with a Packing Group I material must ensure the train meets the ECP braking capability requirements as prescribed in § 174.310 of this subchapter.
-
-(2) By May 1, 2023, each rail carrier operating a high-hazard flammable unit train as defined in § 171.8, not described in paragraph (g)(1) of this section must ensure the train meets the ECP braking capability requirements as prescribed in § 174.310 of this subchapter.
-
-(3) Alternate brake systems may be submitted for approval through the processes and procedures outlined in 49 CFR part 232, subpart F.
-
-[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016]
+[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016; 83 FR 48401, Sept. 25, 2018]
