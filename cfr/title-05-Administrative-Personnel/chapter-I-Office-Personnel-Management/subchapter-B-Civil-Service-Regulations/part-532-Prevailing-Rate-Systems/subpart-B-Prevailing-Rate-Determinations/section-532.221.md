@@ -1,10 +1,8 @@
 ##### § 532.221 Industries included in regular nonappropriated fund surveys. #####
 
-Link to an amendment published at 84 FR 36813, July 30, 2019.
-
 (a) The lead agency must include the following North American Industry Classification System (NAICS) codes in all regular nonappropriated fund wage surveys:
 
-|2012 NAICS codes|                             2012 NAICS industry titles                             |
+|2017 NAICS codes|                             2017 NAICS industry titles                             |
 |----------------|------------------------------------------------------------------------------------|
 |     42312      |             Motor vehicle supplies and new parts merchant wholesalers.             |
 |      4232      |                Furniture and home furnishing merchant wholesalers.                 |
@@ -25,8 +23,8 @@ Link to an amendment published at 84 FR 36813, July 30, 2019.
 |     44611      |                            Pharmacies and drug stores.                             |
 |      4471      |                                 Gasoline stations.                                 |
 |     44814      |                              Family clothing stores.                               |
-|      4521      |                                 Department stores.                                 |
-|     45299      |                       All other general merchandise stores.                        |
+|      4522      |                                 Department stores.                                 |
+|      4523      |                       All other general merchandise stores.                        |
 |     45321      |                       Office supplies and stationery stores.                       |
 |      4542      |                             Vending machine operators.                             |
 |     71391      |                          Golf courses and country clubs.                           |
@@ -39,4 +37,4 @@ Link to an amendment published at 84 FR 36813, July 30, 2019.
 
 (c) Additional industries shall be defined in terms of entire industry classes (fourth digit breakdown).
 
-[55 FR 46143, Nov. 1, 1990, as amended at 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013]
+[55 FR 46143, Nov. 1, 1990, as amended at 71 FR 35374, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013; 84 FR 36813, July 30, 2019]

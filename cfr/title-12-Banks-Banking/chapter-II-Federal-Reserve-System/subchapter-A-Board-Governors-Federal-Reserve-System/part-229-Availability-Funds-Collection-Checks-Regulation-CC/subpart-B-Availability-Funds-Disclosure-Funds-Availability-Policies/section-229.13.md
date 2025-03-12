@@ -1,5 +1,7 @@
 ##### § 229.13 Exceptions. #####
 
+Link to an amendment published at 84 FR 45403, Aug. 29, 2019.
+
 (a) *New accounts.* For purposes of this paragraph, checks subject to § 229.10(c)(1)(v) include traveler's checks.
 
 (1) A deposit in a new account -

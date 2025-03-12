@@ -1,10 +1,8 @@
 ##### § 532.213 Industries included in regular appropriated fund wage surveys. #####
 
-Link to an amendment published at 84 FR 36813, July 30, 2019.
-
 (a) The lead agency must include the industries in the following North American Industry Classification System (NAICS) codes in all regular appropriated fund wage surveys:
 
-|      2012 NAICS codes      |                                                                    2012 NAICS industry titles                                                                    |
+|      2017 NAICS codes      |                                                                    2017 NAICS industry titles                                                                    |
 |----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |311 through 339 (except 323)|                                      All manufacturing classes except printing and related support activities (NAICS 323).                                       |
 |            221             |                                                                            Utilities.                                                                            |
@@ -27,4 +25,4 @@ Link to an amendment published at 84 FR 36813, July 30, 2019.
 
 (c) Specifically excluded from all wage surveys for regular wage schedules are food service and laundry establishments and industries having peculiar employment conditions that directly affect the wage rates paid and that are the basis for special wage surveys.
 
-[55 FR 46142, Nov. 1, 1990, as amended at 71 FR 35373, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013]
+[55 FR 46142, Nov. 1, 1990, as amended at 71 FR 35373, June 20, 2006; 73 FR 45853, Aug. 7, 2008; 78 FR 58153, Sept. 23, 2013; 84 FR 36813, July 30, 2019]

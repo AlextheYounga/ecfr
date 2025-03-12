@@ -1,0 +1,3 @@
+##### § 553.24 Subsequently recovered remains. #####
+
+Subsequently recovered identified remains of a decedent shall be reunited in one gravesite or urn, or as part of a group burial either in an Army National Military Cemetery or other cemetery. Subsequently recovered identified remains may also be interred in the Arlington National Cemetery Tomb of Remembrance. Unidentified remains (which may or may not be comingled) may also be interred in the Arlington National Cemetery Tomb of Remembrance.

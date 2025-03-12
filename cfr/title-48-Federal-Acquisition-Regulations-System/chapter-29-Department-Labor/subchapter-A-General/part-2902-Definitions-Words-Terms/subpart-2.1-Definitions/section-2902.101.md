@@ -1,5 +1,7 @@
 ##### 2902.101 Definitions. #####
 
+Link to an amendment published at 84 FR 45437, Aug. 29, 2019.
+
 (a) Commonly used words and terms are defined in FAR subpart 2.1. This part 2902 gives DOL-specific meanings for some of these words and terms and defines other words and terms commonly used in the DOL acquisition process.
 
 (b) The following words and terms are used as defined in this subpart unless the context in which they are used clearly requires a different meaning, or a different definition is prescribed for a particular part or portion of a part:

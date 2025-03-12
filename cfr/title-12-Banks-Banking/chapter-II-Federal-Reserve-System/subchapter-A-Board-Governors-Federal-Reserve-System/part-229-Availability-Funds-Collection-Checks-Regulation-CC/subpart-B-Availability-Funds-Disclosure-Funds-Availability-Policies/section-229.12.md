@@ -1,6 +1,6 @@
 ##### § 229.12 Availability schedule. #####
 
-Link to an amendment published at 84 FR 31696, July 3, 2019.
+Link to an amendment published at 84 FR 31696, July 3, 2019.Link to a correction published at 84 FR 45403, Aug. 29, 2019.
 
 (a) *Effective date.* The availability schedule contained in this section is effective September 1, 1990.
 
