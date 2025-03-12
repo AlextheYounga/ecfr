@@ -1,5 +1,7 @@
 ##### § 52.43 Relationship to other subparts. #####
 
+Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
+
 (a) This subpart applies to a person that requests a standard design certification from the NRC separately from an application for a combined license filed under subpart C of this part for a nuclear power facility. An applicant for a combined license may reference a standard design certification.
 
 (b) Subpart E of this part governs the NRC staff review and approval of a final standard design. Subpart E may be used independently of the provisions in this subpart.

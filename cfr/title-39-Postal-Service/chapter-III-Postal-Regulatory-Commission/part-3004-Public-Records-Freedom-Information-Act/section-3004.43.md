@@ -1,14 +1,12 @@
 ##### § 3004.43 Response to requests. #####
 
-Link to an amendment published at 84 FR 53056, Oct. 4, 2019.
+(a) *Determination.* Within 20 days (excluding Saturdays, Sundays, and legal holidays) after receipt of a request for a Commission record, the Chief FOIA Officer or his/her designee will notify the requester of its determination to grant or deny the request and the right to seek assistance from the Commission's FOIA Public Liaison. In the case of an adverse determination, the Commission will notify the requester of his/her right to appeal and right to seek dispute resolution services from the Commission's FOIA Public Liaison or the Office of Government Information Services.
 
-(a) Within 20 days (excluding Saturdays, Sundays, and legal holidays) after receipt of a request for a Commission record, the Secretary or Assistant Secretary will notify the requester of its determination to grant or deny the request and the right to seek assistance from the Commission's FOIA Public Liaison. In the case of an adverse determination, the Commission will notify the requester of their right to appeal and right to seek dispute resolution services from the Commission's FOIA Public Liaison or the Office of Government Information Services.
+(b) *Granting request.* If granting the request, the Chief FOIA Officer or his/her designee will notify the requester of any fees that must be paid.
 
-(b) *Granting request.* If granting the request, the Secretary, or Assistant Secretary will notify the requester of any fees that must be paid.
+(c) *Partial granting of request.* If the Commission is unable to grant the request in its entirety, any reasonably segregable portion of the request shall be provided, with deleted portions treated as specified in paragraph (d) of this section, and the Chief FOIA Officer or his/her designee will notify the requester of any fees that must be paid.
 
-(c) *Partial granting of request.* If the Commission is unable to grant the request in its entirety, any reasonably segregable portion of the request shall be provided, with deleted portions treated as specified in paragraph (d) of this section, and the Secretary or Assistant Secretary will notify the requester of any fees that must be paid.
-
-(d) *Denying request.* If denying the request, in whole or in part, the Secretary or Assistant Secretary will inform the requester in writing of:
+(d) *Denying request.* If denying the request, in whole or in part, the Chief FOIA Officer or his/her designee will inform the requester in writing of:
 
 (1) The reason for the denial, including each exemption used as a basis for withholding of the records sought and, if applicable, the harm to an interest protected by a statutory exemption;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 53056, Oct. 4, 2019.
 
 (3) The right to appeal the denial to the Commission within 1 year.
 
-(e) *Expedited processing.* Within 10 days (excluding Saturdays, Sundays and legal holidays) after receipt of a request for expedited processing, the Secretary or Assistant Secretary will:
+(e) *Expedited processing.* Within 10 days (excluding Saturdays, Sundays and legal holidays) after receipt of a request for expedited processing, the Chief FOIA Officer or his/her designee will:
 
 (1) Grant the request for expedited processing and process the request for records as soon as practicable; or
 
@@ -36,4 +34,4 @@ Link to an amendment published at 84 FR 53056, Oct. 4, 2019.
 
 (f) Where a compelling need is not shown in an expedited request as specified in § 3004.41(b)(1), the Commission may grant requests for expedited processing at its discretion.
 
-[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017]
+[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017; 84 FR 53056, Oct. 4, 2019]

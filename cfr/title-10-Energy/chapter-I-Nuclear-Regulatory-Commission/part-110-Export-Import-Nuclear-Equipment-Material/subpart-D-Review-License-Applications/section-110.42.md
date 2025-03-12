@@ -1,5 +1,7 @@
 ##### § 110.42 Export licensing criteria. #####
 
+Link to an amendment published at 84 FR 63569, Nov. 18, 2019.
+
 (a) The review of license applications for export for peaceful nuclear uses of production or utilization facilities1 or for export for peaceful nuclear uses of special nuclear or source material requiring a specific license under this part is governed by the following criteria:
 
 1 Export of nuclear reactors, reactor pressure vessels, reactor primary coolant pumps and circulators, “on-line” reactor fuel charging and discharging machines, and complete reactor control rod systems, as specified in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(a). Exports of nuclear reactor components, as specified in paragraphs (5) through (11) of appendix A to this part, when exported separately from the items described in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(b).

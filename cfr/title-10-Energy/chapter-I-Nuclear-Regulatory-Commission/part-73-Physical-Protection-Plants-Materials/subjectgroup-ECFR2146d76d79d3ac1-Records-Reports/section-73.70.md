@@ -1,5 +1,7 @@
 ##### § 73.70 Records. #####
 
+Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
+
 Each record required by this part must be legible throughout the retention period specified by each Commission regulation. The record may be the original or a reproduced copy or a microform provided that the copy or microform is authenticated by authorized personnel and that the microform is capable of producing a clear copy throughout the required retention period. The record may also be stored in electronic media with the capability for producing legible, accurate, and complete records during the required retention period. Records such as letters, drawings, specifications, must include all pertinent information such as stamps, initials, and signatures. The licensee shall maintain adequate safeguards against tampering with and loss of records. Each licensee subject to the provisions of §§ 73.20, 73.25, 73.26, 73.27, 73.45, 73.46, 73.55, or 73.60 shall keep the following records:
 
 (a) Names and addresses of all individuals who have been designated as authorized individuals. The licensee shall retain this record of currently designated authorized individuals for the period during which the licensee possesses the appropriate type and quantity of special nuclear material requiring this record under each license that authorizes the activity that is subject to the recordkeeping requirement and, for three years thereafter. Copies of superseded material must be retained for three years after each change.

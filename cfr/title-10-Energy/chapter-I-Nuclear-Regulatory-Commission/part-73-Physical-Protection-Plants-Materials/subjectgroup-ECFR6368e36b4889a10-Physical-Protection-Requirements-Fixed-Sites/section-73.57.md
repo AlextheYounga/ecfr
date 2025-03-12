@@ -1,5 +1,7 @@
 ##### § 73.57 Requirements for criminal history records checks of individuals granted unescorted access to a nuclear power facility, a non-power reactor, or access to Safeguards Information. #####
 
+Link to an amendment published at 84 FR 63568, Nov. 18, 2019.
+
 (a) *General.* (1) Each licensee who is authorized to engage in an activity subject to regulation by the Commission shall comply with the requirements of this section.
 
 (2) Each applicant for a license to engage in an activity subject to regulation by the Commission, as well as each entity who has provided written notice to the Commission of intent to file an application for licensing, certification, permitting, or approval of a product subject to regulation by the Commission shall submit fingerprints for those individuals who will have access to Safeguards Information.

@@ -1,8 +1,6 @@
 ##### § 3004.44 Appeals. #####
 
-Link to an amendment published at 84 FR 53057, Oct. 4, 2019.
-
-(a) The Commission may review any decision of the Secretary or Assistant Secretary on its own initiative.
+(a) The Commission may review any decision of the Chief FOIA Officer or his/her designee on its own initiative.
 
 (b) A requester who seeks to appeal any adverse determination must file an appeal with the Commission within 1 year of the date of the Commission's response.
 
@@ -10,4 +8,4 @@ Link to an amendment published at 84 FR 53057, Oct. 4, 2019.
 
 (2) The Commission will expeditiously consider an appeal of a denial of expedited processing.
 
-[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017]
+[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017; 84 FR 53057, Oct. 4, 2019]
