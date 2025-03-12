@@ -1,0 +1,5 @@
+##### § 1710.100 General. #####
+
+RUS makes loans and loan guarantees to finance the construction of electric distribution, transmission and generation facilities, including system improvements and replacements required to furnish and improve electric service in rural areas, and for demand side management, efficiency and energy conservation programs, and on grid and off grid renewable energy systems. In some circumstances, RUS may finance selected operating expenses of its borrowers. Loans made or guaranteed by the Administrator of RUS will be made in conformance with the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*), and 7 CFR chapter XVII. RUS provides certain technical assistance to borrowers when necessary to aid the development of rural electric service and to protect loan security.
+
+[58 FR 66264, Dec. 20, 1993, as amended at 78 FR 73365, Dec. 5, 2013]

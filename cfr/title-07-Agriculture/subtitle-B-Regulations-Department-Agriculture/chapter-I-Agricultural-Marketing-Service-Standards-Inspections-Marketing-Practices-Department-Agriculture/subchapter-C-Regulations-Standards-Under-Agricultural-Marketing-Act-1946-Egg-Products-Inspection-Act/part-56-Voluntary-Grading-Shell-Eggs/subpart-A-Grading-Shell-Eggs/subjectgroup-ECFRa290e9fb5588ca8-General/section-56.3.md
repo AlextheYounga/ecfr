@@ -1,0 +1,5 @@
+##### § 56.3 Administration. #####
+
+The Administrator shall perform, for and under the supervision of the Secretary, such duties as the Secretary may require in the enforcement or administration of the provisions of the Act and the regulations in this part. The Administrator is authorized to waive for limited periods any particular provisions of the regulations in this part to permit experimentation so that new procedures, equipment, and processing techniques may be tested to facilitate definite improvements and at the same time to determine full compliance with the spirit and intent of the regulations in this part. The AMS and its officers and employees shall not be liable in damages through acts of commission or omission in the administration of this part.
+
+[20 FR 670, Feb. 1, 1955, as amended at 38 FR 26798, Sept. 26, 1973; 42 FR 2970, Jan. 14, 1977. Redesignated at 42 FR 32514, June 27, 1977, further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 60 FR 12402, Mar. 7, 1995; 71 FR 42007, July 24, 2006]

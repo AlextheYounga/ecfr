@@ -1,0 +1,3 @@
+##### § 920.11 Handle. #####
+
+*Handle* and ship are synonymous and mean to sell, consign, deliver, or transport kiwifruit, or to cause kiwifruit to be sold, consigned, delivered, or transported, between the production area and any point outside thereof, or within the production area: *Provided,* That the term handle shall not include the sale of kiwifruit on the vine, the transportation within the production area of kiwifruit from the vineyard where grown to a packing facility located within such area for preparation for market, or the delivery of such kiwifruit to such packing facility for such preparation.

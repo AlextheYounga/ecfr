@@ -1,0 +1,3 @@
+##### § 621.1 Purpose. #####
+
+This part describes policies, requirements, and procedures governing the Department of Agriculture's (USDA's) investigations and surveys of watersheds of rivers and other waterways as a basis for developing coordinated programs. These activities are undertaken in cooperation with other Federal, State, and local agencies. The delegation of authority to the Natural Resources Conservation Service (NRCS) to provide national leadership for the conservation, development, and productive use of the Nation's soil, water, and related resources, including the activities treated in this part is found at § 2.62 of this title.

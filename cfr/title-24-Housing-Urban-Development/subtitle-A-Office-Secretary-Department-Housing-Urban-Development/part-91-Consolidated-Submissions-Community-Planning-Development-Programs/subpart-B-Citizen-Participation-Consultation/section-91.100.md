@@ -1,8 +1,6 @@
 ##### § 91.100 Consultation; local governments. #####
 
-Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
-
-(a) *General.* (1) When preparing the AFH and the consolidated plan, the jurisdiction shall consult with other public and private agencies that provide assisted housing, health services, and social services (including those focusing on services to children, elderly persons, persons with disabilities, persons with HIV/AIDS and their families, homeless persons), community-based and regionally-based organizations that represent protected class members, and organizations that enforce fair housing laws.
+(a) *General.* (1) When preparing the AFH and the consolidated plan, the jurisdiction shall consult with other public and private agencies that provide assisted housing, health services, and social services (including those focusing on services to children, elderly persons, persons with disabilities, persons with HIV/AIDS and their families, homeless persons), community-based and regionally-based organizations that represent protected class members, and organizations that enforce fair housing laws. When preparing the consolidated plan, the jurisdiction shall also consult with public and private organizations. Commencing with consolidated plans submitted on or after January 1, 2018, such consultations shall include broadband internet service providers, organizations engaged in narrowing the digital divide, agencies whose primary responsibilities include the management of flood prone areas, public land or water resources, and emergency management agencies.
 
 (2) When preparing the portions of the consolidated plan describing the jurisdiction's homeless strategy and the resources available to address the needs of homeless persons (particularly chronically homeless individuals and families, families with children, veterans and their families, and unaccompanied youth) and persons at risk of homelessness, the jurisdiction must consult with:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
 
 (3) Consultation must occur at various points in the fair housing planning process, meaning that, at a minimum, the jurisdiction will consult with the organizations described in this paragraph (e) in the development of both the AFH and the consolidated plan. Consultation on the consolidated plan shall specifically seek input into how the goals identified in an accepted AFH inform the priorities and objectives of the consolidated plan.
 
-[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6962, Feb. 9, 2006; 76 FR 75967, Dec. 5, 2011; 80 FR 42360, July 16, 2015]
+[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6962, Feb. 9, 2006; 76 FR 75967, Dec. 5, 2011; 80 FR 42360, July 16, 2015; 81 FR 91011, Dec. 16, 2016]

@@ -1,7 +1,5 @@
 ##### § 156.430 Payment for cost-sharing reductions. #####
 
-Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
-
 (a) [Reserved]
 
 (b) *Advance payments for cost-sharing reductions* - (1) A QHP issuer will receive periodic advance payments based on the advance payment amounts calculated in accordance with § 155.1030(b)(3) of this subchapter.
@@ -142,4 +140,8 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (g) *Prohibition on reduction in payments to Indian health providers.* If an Indian is enrolled in a QHP in the individual market through an Exchange and is furnished an item or service directly by the Indian Health Service, an Indian Tribe, Tribal Organization, or Urban Indian Organization, or through referral under contract health services, the QHP issuer may not reduce the payment to any such entity for such item or service by the amount of any cost sharing that would be due from the Indian but for the prohibitions on cost sharing set forth in § 156.410(b)(2) and (3).
 
-[78 FR 15535, 15555, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015]
+(h) *Reconciliation of the cost-sharing reduction portion of advance payments discrepancies and appeals.* (1) If an issuer reports a discrepancy and seeks to dispute the notification of the amount of reconciliation of the cost-sharing reduction portion of advance payments, it must report the discrepancy to HHS within 30 calendar days of notification of the amount of reconciliation of the cost-sharing reduction portion of advance payments as described in paragraph (e) of this section, in the manner set forth by HHS.
+
+(2) An issuer may appeal the amount of reconciliation of the cost-sharing reduction portion of advance payments, under the process set forth in § 156.1220.
+
+[78 FR 15535, 15555, Mar. 11, 2013, as amended at 78 FR 65097, Oct. 30, 2013; 79 FR 13840, Mar. 11, 2014; 80 FR 10875, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016]

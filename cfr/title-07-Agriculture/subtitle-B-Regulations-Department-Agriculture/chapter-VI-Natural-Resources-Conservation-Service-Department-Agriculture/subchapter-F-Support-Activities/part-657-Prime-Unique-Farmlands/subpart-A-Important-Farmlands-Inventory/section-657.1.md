@@ -1,0 +1,3 @@
+##### § 657.1 Purpose. #####
+
+NRCS is concerned about any action that tends to impair the productive capacity of American agriculture. The Nation needs to know the extent and location of the best land for producing food, feed, fiber forage, and oilseed crops. In addition to prime and unique farmlands, farmlands that are of statewide and local importance for producing these crops also need to be identified.

@@ -1,0 +1,3 @@
+##### § 1710.402 Scope. #####
+
+This subpart adapts and modifies, but does not supplant, the requirements for all borrowers set forth elsewhere where the purpose of the loan is to finance an approved EE program. In the event there is overlap or conflict between this subpart and the provisions of this part 1710 or other parts of the Code of Federal Regulations, the provisions of this subpart will apply for loans made or guaranteed pursuant to this subpart.

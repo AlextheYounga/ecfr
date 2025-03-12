@@ -1,0 +1,3 @@
+##### § 621.25 Recipient responsibility. #####
+
+The State agency is responsible for developing State priorities for floodplain management studies and coordinating this work with related activities in the State. The cooperating local government entity is responsible for obtaining permission for carrying out field surveys. The State and local participants assist in distributing and interpreting the report and providing public information and educational services.

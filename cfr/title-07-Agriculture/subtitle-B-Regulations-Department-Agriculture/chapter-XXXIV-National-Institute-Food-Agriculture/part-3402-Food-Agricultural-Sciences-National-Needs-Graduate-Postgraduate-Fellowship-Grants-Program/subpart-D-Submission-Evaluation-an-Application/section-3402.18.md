@@ -1,0 +1,3 @@
+##### § 3402.18 Evaluation criteria. #####
+
+Applications addressing a particular national need area at a particular Fellowship level (master's, doctoral or postdoctoral) will be evaluated in competition with other applications addressing the same national need area at the same level. Both USDA internal staff and the panelists will evaluate applications on the basis of the criteria published in the solicitation.

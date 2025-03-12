@@ -1,0 +1,5 @@
+##### § 1955.81 Exception authority. #####
+
+The Administrator may, in individual cases, make an exception to any requirement or provision of this subpart, or address any omission of this subpart which is not inconsistent with the authorizing statute or other applicable law, if the Administrator determines that the Government's interest would be adversely affected or the immediate health and/or safety of tenants or the community are endangered if there is no adverse effect on the Government's interest. The Administrator will exercise this authority upon request of the State Director with the recommendation of the appropriate program Assistant Administrator or upon a request initiated by the appropriate program Assistant Administrator. Requests for exceptions must be made in writing and supported with documentation to explain the adverse effect, propose alternative courses of action, and show how the adverse effect will be eliminated or minimized if the exception is granted.
+
+[53 FR 35765, Sept. 14, 1988, as amended at 58 FR 58649, Nov. 3, 1993]

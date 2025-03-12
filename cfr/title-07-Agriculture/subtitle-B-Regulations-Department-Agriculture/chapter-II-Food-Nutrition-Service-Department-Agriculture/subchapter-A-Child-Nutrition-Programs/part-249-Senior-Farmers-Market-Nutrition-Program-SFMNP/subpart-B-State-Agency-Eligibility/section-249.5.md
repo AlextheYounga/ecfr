@@ -1,0 +1,3 @@
+##### § 249.5 Selection of new State agencies. #####
+
+In selecting new State agencies, FNS will use objective criteria to rank and approve State plans submitted in accordance with § 249.4. In making this ranking, FNS will consider the amount of funds necessary to operate the SFMNP successfully in the State compared with other States and with the total amount of funds available to the SFMNP, the number of participants estimated to be served, and the projected benefit level. Approval of a State Plan does not equate to an obligation on the part of FNS to fund the SFMNP within that State.

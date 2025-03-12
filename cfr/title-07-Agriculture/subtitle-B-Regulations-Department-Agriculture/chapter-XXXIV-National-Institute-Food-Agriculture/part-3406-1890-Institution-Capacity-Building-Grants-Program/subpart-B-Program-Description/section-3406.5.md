@@ -1,0 +1,3 @@
+##### § 3406.5 Matching support. #####
+
+The Department strongly encourages and may require non-Federal matching support for this program. In the annual program solicitation, NIFA will announce any incentives that may be offered to applicants for committing their own institutional resources or securing third party contributions in support of capacity building projects. NIFA may also announce any required fixed dollar amount or percentage of institutional cost sharing, if applicable.

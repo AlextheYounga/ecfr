@@ -1,0 +1,3 @@
+##### § 600.8 Plant materials centers. #####
+
+Plant materials centers (PMC) assemble and test plant species for conservation uses. Usually a PMC serves two or more States, and is under the jurisdiction of the State conservationist where the center is located. Each PMC is directed and supervised by a manager who is responsible to a State office specialist/manager as designated by the State conservationist.

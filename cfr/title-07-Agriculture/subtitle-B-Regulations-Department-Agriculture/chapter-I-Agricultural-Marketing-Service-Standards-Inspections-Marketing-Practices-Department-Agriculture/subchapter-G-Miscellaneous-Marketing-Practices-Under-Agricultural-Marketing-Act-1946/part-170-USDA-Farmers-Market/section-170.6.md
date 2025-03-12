@@ -1,0 +1,3 @@
+##### § 170.6 How are potential market participants identified for the USDA Farmers Market? #####
+
+Potential market participants are recruited by AMS market management through local farm organizations in the Washington DC metropolitan area State Departments of Agriculture from the mid-Atlantic region including, Virginia, West Virginia, Maryland, Delaware, and Pennsylvania. Upon receiving a list of potential farmers and vendors from the organizations and the State Departments of Agriculture, an information packet, which includes an application and this rule, will be mailed to each potential participant identified by the contacts.

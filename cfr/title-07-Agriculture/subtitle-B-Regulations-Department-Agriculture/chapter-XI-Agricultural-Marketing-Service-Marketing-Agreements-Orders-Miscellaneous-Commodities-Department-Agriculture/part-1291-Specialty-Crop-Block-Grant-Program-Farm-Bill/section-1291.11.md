@@ -1,0 +1,3 @@
+##### § 1291.11 Audit requirements. #####
+
+Each year that a State receives a grant under the SCBGP-FB, the State is required to conduct an audit of the expenditures of SCBGP-FB funds. If the Single Audit Act applies to an eligible grantee, the State shall submit the annual audit results to AMS within 30 days after completion of the audit. If the Single Audit Act does not apply, the State shall conduct an audit of all SCBGP-FB funds no later than 60 days after the end date of the grant agreement. The State shall submit to AMS not later than 30 days after completion of the audit, a copy of the audit results.

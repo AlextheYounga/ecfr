@@ -1,5 +1,7 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
+Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
+
 As prescribed in 4.1202(a), insert the following provision:
 
 Annual Representations and Certifications (DEC 2016)

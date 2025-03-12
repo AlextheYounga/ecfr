@@ -1,0 +1,9 @@
+##### § 5.1 Parity index and index of prices received by farmers. #####
+
+(a) The parity index and related indices for the purpose of calculating parity prices after May 1, 1976, according to the formula contained in section 301(a) of the Agricultural Adjustment Act of 1938, as amended by the Agricultural Acts of 1948, 1949, 1954, and 1956 (hereinafter referred to as section 301(a)) shall be the index of prices paid by farmers, interest, taxes, and farm wage rates, as revised May 1976 and published in the May 28, 1976, and subsequent issues of the monthly report, “Agricultural Prices.” The publication of these indices by the National Agricultural Statistics Service in the monthly report, “Agricultural Prices”, shall be continued.
+
+(b) The measure of the general level of prices received by farmers as provided for in section 301(a)(1)(B)(ii) after January 1, 1959, shall be the index of prices received by farmers as revised January 1959 and published in the January 30, 1959, and subsequent issues of “Agricultural Prices”. The simple average of the 120 monthly indices included in the preceding 10 calendar years plus an adjustment to take account of the effect on the index of any adjustment made on average prices of individual commodities as hereinafter specified shall be used in the calculation of the adjusted base prices. Parity prices heretofore published for periods prior to January 1, 1959 shall not be revised.
+
+(c) The term *milkfat* as used in these regulations is synonymous with the term *butterfat,* and when any statute requires calculation of the parity price of butterfat, the parity price of milkfat shall be the parity price of butterfat.
+
+[24 FR 697, Jan. 31, 1959, as amended by Amdt. 6, 24 FR 9778, Dec. 5, 1959; Amdt. 29, 41 FR 22333, June 3, 1976]

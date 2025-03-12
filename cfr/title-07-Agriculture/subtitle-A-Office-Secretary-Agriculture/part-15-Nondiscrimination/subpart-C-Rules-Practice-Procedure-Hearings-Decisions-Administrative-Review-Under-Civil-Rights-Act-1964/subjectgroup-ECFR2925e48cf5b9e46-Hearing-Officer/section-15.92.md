@@ -1,0 +1,3 @@
+##### § 15.92 Designation of hearing officer. #####
+
+Unless otherwise provided by an order of the Secretary at the time the notice of alleged noncompliance provided in § 15.81 is filed with the Office of the Hearing Clerk, the hearing shall be held before a hearing examiner, who shall be appointed by the Chief Hearing Examiner, Office of Hearing Examiners within five days after the filing of such notice. Unless otherwise provided, the hearing examiner shall certify the entire record with his recommended findings and proposed decision to the Secretary for final decision.

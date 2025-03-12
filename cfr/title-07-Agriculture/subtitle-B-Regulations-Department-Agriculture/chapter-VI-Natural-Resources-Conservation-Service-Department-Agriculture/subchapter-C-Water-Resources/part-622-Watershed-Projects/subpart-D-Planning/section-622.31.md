@@ -1,0 +1,3 @@
+##### § 622.31 Basic planning efforts. #####
+
+Upon receipt of an application, the NRCS will make any necessary field studies and develop a report to justify the need for planning effort. Once planning is authorized by the Chief of NRCS, a watershed plan-environmental impact statement (plan-EIS) or a watershed plan-environmental assessment (plan-EA) will be prepared by NRCS to request funding. This effort must be coordinated with other State and Federal agencies.

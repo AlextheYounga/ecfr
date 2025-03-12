@@ -1,0 +1,5 @@
+##### § 3203.9 Accountability and recordkeeping. #####
+
+(a) USDA requires all excess computers or other technical equipment received by an eligible recipient pursuant to this part be placed into use within one year of receipt of the property and used for at least one year thereafter. The recipient's PMO must maintain accountable records for such property during this time period.
+
+(b) GSA requires that all excess personal property given to non-federal recipients be reported each fiscal year. USDA agencies that transfer property under this part must report the transfers in their annual reports to OPPM and include both the recipient and organization names. OPPM will review the reports for accuracy, as well as fair and equitable distribution of the excess computers or other technical equipment, before submitting to GSA.

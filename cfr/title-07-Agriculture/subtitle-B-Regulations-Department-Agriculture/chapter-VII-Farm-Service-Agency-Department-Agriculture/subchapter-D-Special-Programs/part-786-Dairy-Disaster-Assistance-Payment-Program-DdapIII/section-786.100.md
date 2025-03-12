@@ -1,0 +1,9 @@
+##### § 786.100 Applicability. #####
+
+(a) Subject to the availability of funds, this part specifies the terms and conditions applicable to the Dairy Disaster Assistance Payment Program (DDAP-III) authorized by section 9007 of Public Law 110-28 (extended by Pub. L. 110-161). Benefits are available to eligible United States producers who have suffered dairy production losses in eligible counties as a result of a natural disaster declared during the period between January 1, 2005, and December 31, 2007, (that is, after January 1, 2005, and before December 31, 2007).
+
+(b) To be eligible for this program, a producer must have been a milk producer anytime during the period of January 2, 2005, through December 30, 2007, in a county declared a natural disaster by the Secretary of Agriculture, declared a major disaster or emergency designated by the President of the United States. For a county for which there was a timely Presidential declaration, but the declaration did not cover the loss, the county may still be eligible if the county is one for which an appropriate determination of a Farm Service Agency (FSA) Administrator's Physical Loss Notice applies. Counties contiguous to a county that is directly eligible by way of a natural disaster declaration are also eligible. Only losses occurring in eligible counties are eligible for payment in this program.
+
+(c) Subject to the availability of funds, FSA will provide benefits to eligible dairy producers. Additional terms and conditions may be specified in the payment application that must be completed and submitted by producers to receive a disaster assistance payment for dairy production losses.
+
+(d) To be eligible for payments, producers must meet the provisions of, and their losses must meet the conditions of, this part and any other conditions imposed by FSA.

@@ -1,0 +1,3 @@
+##### § 33.13 Notice. #####
+
+If the Secretary is considering withholding the issuance of certificates under the Act for a period of not exceeding 90 days to any person who ships, or offers for shipment, apples to any foreign destination in violation of any provisions of the Act or this part, he or she shall cause notice to be given to the person accused of the nature of the charges against him or her and of the specific instances in which violation of the Act or the regulations in this part is charged.

@@ -1,0 +1,7 @@
+##### § 97.8 Specimen requirements. #####
+
+(a) The applicant may be required by the examiner to furnish representative specimens of the variety, or its flower, fruit, or seeds, in a quantity and at a specified stage of growth, as may be necessary to verify the statements in the application. Such specimens shall be packed and forwarded in conformity with instructions furnished by the examiner. If the applicant requests the examiner to inspect plants in the field before a final decision is made, all such inspection costs shall be borne by the applicant by payment of fees sufficient to reimburse the Office for all costs, including travel, per diem or subsistence, and salary.
+
+(b) Plant specimens submitted in support of an application shall not be removed from the Office except by an employee of the Office or other person authorized by the Secretary.
+
+(c) Plant specimens submitted to the Office shall, except as provided below, and upon request, be returned to the applicant at his or her expense after the specimens have served their intended purpose. The Commissioner, upon a finding of good cause, may require that certain specimens be retained in the Office for indefinite periods of time. Specimens which are not returned or not retained as provided above shall be destroyed.

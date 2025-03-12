@@ -1,0 +1,3 @@
+##### § 1560.5 Calculation of data to support removal of temporary duty. #####
+
+During the time a temporary duty on a particular fresh fruit or vegetable is imposed pursuant to section 301(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, the Administrator will inform the Secretary if the F.O.B. point of shipment price in Canada of such fresh fruit or vegetable exceeds, for five consecutive working days, ninety percent of the corresponding five-year average monthly import price excluding the years with the highest and lowest average corresponding monthly import price, adjusted to an F.O.B. point of shipment price, if necessary, for that fresh fruit or vegetable.

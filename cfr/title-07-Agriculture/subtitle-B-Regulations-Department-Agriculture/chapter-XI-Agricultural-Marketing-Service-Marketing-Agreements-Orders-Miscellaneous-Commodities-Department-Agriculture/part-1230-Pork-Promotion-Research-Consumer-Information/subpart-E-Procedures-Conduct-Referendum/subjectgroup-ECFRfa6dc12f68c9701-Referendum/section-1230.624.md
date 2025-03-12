@@ -1,0 +1,11 @@
+##### § 1230.624 Eligibility. #####
+
+(a) Eligible producers and importers. Persons eligible to register and vote in the referendum include:
+
+(1) Individual Producers. Each individual that owns and sells at least one hog or pig during the representative period and does so in his or her own name is entitled to cast one ballot.
+
+(2) Producers who are a corporation or other entity. Each corporation or other entity that owns and sells at least one hog or pig during the representative period is entitled to cast one ballot. A group of individuals, such as members of a family, a partnership, owners of community property, or a corporation engaged in the production of hogs and pigs will be entitled to only one vote; provided, however, that any member of a group may register to vote as a producer if he or she sells at least one hog or pig in his or her own name.
+
+(3) Importers. Each importer who imports hogs, pigs, pork, or pork products during the representative period is entitled to cast one ballot. A group of individuals, such as members of a family, a partnership, or a corporation engaged in the importation of hogs, pigs, pork, or pork products will be entitled to only one vote; provided, however, that any member of a group may register to vote as an importer if he or she imports hogs, pigs, pork, or pork products in his or her own name.
+
+(b) Proxy registration and voting. Proxy registration and voting is not authorized, except that an officer or employee of a corporate producer or importer, or any guardian, administrator, executor, or trustee of a producer's or importer's estate, or an authorized representative of any eligible producer or importer (other than an individual producer or importer), such as a corporation or partnership, may register and cast a ballot on behalf of that entity. Any individual who registers to vote in the referendum on behalf of any eligible producer or importer corporation or other entity must certify that he or she is authorized to take such action.

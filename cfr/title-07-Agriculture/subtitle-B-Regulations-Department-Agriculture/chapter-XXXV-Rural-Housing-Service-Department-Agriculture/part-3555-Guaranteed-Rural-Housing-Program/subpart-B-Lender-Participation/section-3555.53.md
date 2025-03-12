@@ -1,0 +1,3 @@
+##### § 3555.53 Contracting for loan origination. #####
+
+Lenders may contract with mortgage brokers, non-approved lenders, or other entities for loan origination services, closing services, or both, provided the loan is transferred immediately after closing to an Agency approved lender to which the guarantee will be issued. The approved lender is responsible for ensuring that the loan is properly underwritten, obtaining the conditional commitment, ensuring that the loan is properly closed, and ensuring that all closing costs, financing, and settlement fees meet Agency program requirements.

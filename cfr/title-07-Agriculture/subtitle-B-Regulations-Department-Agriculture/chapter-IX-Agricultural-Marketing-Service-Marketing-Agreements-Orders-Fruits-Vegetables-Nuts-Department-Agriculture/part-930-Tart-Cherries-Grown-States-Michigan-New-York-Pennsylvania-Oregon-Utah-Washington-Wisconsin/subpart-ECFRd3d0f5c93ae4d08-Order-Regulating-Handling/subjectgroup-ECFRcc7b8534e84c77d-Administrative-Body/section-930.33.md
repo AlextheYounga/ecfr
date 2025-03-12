@@ -1,0 +1,3 @@
+##### § 930.33 Expenses and compensation. #####
+
+Except for the public member and alternate public member who shall receive such compensation as the Board may establish and the Secretary may approve, the members of the Board, and alternates when acting as members, shall serve without compensation but shall be reimbursed for necessary and reasonable expenses, as approved by the Board, incurred by them in the performance of their duties under this part. The Board at its discretion may request the attendance of one or more alternates at any or all meetings, notwithstanding the expected or actual presence of the respective member(s), and may pay the expenses of such alternates.

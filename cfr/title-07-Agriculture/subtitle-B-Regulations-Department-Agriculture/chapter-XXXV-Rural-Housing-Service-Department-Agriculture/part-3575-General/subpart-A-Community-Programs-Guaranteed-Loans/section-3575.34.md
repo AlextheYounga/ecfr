@@ -1,0 +1,7 @@
+##### § 3575.34 Terms of loan repayment. #####
+
+(a) *General.* Principal and interest on the loan will be due and payable as provided in the note except, any interest accrued as the result of the borrower's default on the guaranteed loan over and above that which would have accrued at the note rate on the guaranteed loan will not be guaranteed by the Agency. The lender will structure repayments as established in the loan agreement between the lender and borrower. Ordinarily, such installments will be scheduled for payment as agreed upon by the lender and borrower on terms that reasonably ensure repayment of the loan. However, the first installment to include a repayment of principal may be scheduled for payment after the project is operable and has begun to generate income. Such installment must be due and payable within 3 years from the date of the note and at least annually thereafter. Interest will be due at least annually from the date of the note. Monthly payments will be required except for borrowers with income limited to less frequent intervals.
+
+(b) *Term length.* The maximum time allowable for final maturity for a guaranteed CP loan will be limited to the useful life of the facility, not to exceed 40 years.
+
+(c) *Balloon payments.* The principal balance should be properly amortized within the prescribed loan maturity. Balloon payments at the end of the loan are prohibited.

@@ -1,0 +1,3 @@
+##### § 51.1212 U.S. No. 1. #####
+
+“U.S. No. 1” consists of peaches of one variety which are mature but not soft or overripe, well formed, and which are free from decay, growth cracks, cuts which are not healed, worms, worm holes, and free from damage caused by bruises, dirt, or other foreign material, bacterial spot, scab, scale, hail injury, leaf or limb rubs, split pits, other disease, insects or mechanical or other means.

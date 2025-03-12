@@ -1,0 +1,3 @@
+##### § 1717.650 Purpose. #####
+
+This subpart sets forth general regulations for implementing and interpreting provisions of the RUS mortgage and loan contract regarding investments, loans, and guarantees made by electric borrowers, as well as the provisions of the Rural Electrification Act of 1936, as amended, including section 312 (7 U.S.C. 901 *et seq.*) (RE Act), permitting, in certain circumstances, that electric borrowers under the RE Act may, without restriction or prior approval of the Administrator of the Rural Utilities Service (RUS), invest their own funds and make loans or guarantees.

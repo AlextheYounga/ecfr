@@ -1,0 +1,5 @@
+##### § 1730.25 Corrective action. #####
+
+(a) For any items on the RUS Form 300 rated unsatisfactory (i.e., 0 or 1) by the borrower or by RUS, the borrower shall prepare a corrective action plan (CAP) outlining the steps (both short term and long term) the borrower will take to improve existing conditions and to maintain an acceptable rating. The CAP must include a time schedule and cost estimate for corrective actions, and must be approved by the borrower's Board of Directors. The CAP must be submitted to RUS for approval within 90 days after the completion of RUS' evaluation noted in § 1730.24.
+
+(b) The borrower must periodically report to RUS in writing progress under the CAP. This report must be submitted to RUS every six months until all unsatisfactory items are corrected unless RUS prescribes a different reporting schedule.

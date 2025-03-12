@@ -1,0 +1,3 @@
+##### § 1221.119 Refunds. #####
+
+Any producer or importer from whom an assessment is collected and remitted to the Board, or who pays an assessment directly to the Board, under authority of the Act and this subpart through the announcement of the results of the required referendum, upon failure of the required referendum shall have the right to receive from the Board a refund of such assessment, or a prorated share thereof, upon submission of proof satisfactory to the Board that the producer or importer paid the assessment for which refund is sought. Any such demand shall be made by such producer or importer in accordance with the provisions of this subpart and in a manner consistent with regulations recommended by the Board and prescribed by the Secretary.

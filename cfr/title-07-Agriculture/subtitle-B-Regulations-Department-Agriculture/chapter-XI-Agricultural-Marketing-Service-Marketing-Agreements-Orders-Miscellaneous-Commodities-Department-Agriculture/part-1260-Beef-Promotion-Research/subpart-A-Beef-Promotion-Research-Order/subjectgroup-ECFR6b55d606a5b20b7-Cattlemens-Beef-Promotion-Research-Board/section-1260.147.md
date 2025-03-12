@@ -1,0 +1,5 @@
+##### § 1260.147 Procedure. #####
+
+(a) At a properly convened meeting of the Board, a majority of the members shall constitute a quorum, and any action of the Board at such a meeting shall require the concurring votes of at least a majority of those present at such meeting. The Board shall establish rules concerning timely notice of meetings.
+
+(b) When in the opinion of the chairperson of the Board emergency action is considered necessary, and in lieu of a properly convened meeting, the Board may take action upon the concurring votes of a majority of its members by mail, telephone, or telegraph, but any such action by telephone shall be confirmed promptly in writing. In the event that such action is taken, all members must be notified and provided the opportunity to vote. Any action so taken shall have the same force as though such action had been taken at a regular or special meeting of the Board.

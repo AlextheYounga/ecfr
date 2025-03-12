@@ -2,7 +2,7 @@
 
 As prescribed in 43.107, insert the following clause:
 
-Notification of Changes (APR 1984)
+Notification of Changes (JAN 2017)
 
 (a) *Definitions.*
 
@@ -22,7 +22,7 @@ Notification of Changes (APR 1984)
 
 (5) The particular elements of contract performance for which the Contractor may seek an equitable adjustment under this clause, including -
 
-(i) What contract line items have been or may be affected by the alleged change;
+(i) What line items have been or may be affected by the alleged change;
 
 (ii) What labor or materials or both have been or may be added, deleted, or wasted by the alleged change;
 
@@ -56,4 +56,4 @@ Note:
 
 The phrases *contract price* and *cost* wherever they appear in the clause, may be appropriately modified to apply to cost-reimbursement or incentive contracts, or to combinations thereof.
 
-(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 55 FR 25534, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 71 FR 57369, Sept. 28, 2006]
+(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 55 FR 25534, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 71 FR 57369, Sept. 28, 2006; 82 FR 4715, Jan. 13, 2017]

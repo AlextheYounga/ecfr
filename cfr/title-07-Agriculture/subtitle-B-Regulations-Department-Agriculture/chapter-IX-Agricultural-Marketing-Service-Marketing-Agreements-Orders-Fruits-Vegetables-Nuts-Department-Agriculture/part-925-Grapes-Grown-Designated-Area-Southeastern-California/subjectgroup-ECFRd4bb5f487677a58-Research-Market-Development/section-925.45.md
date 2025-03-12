@@ -1,0 +1,3 @@
+##### § 925.45 Production research and market research and development. #####
+
+The committee, with the approval of the Secretary, may establish or provide for the establishment of production research, marketing research and development projects designed to assist, improve or promote the marketing, distribution and consumption or the efficient production of grapes. The expense of such projects shall be paid from funds collected pursuant to this part.

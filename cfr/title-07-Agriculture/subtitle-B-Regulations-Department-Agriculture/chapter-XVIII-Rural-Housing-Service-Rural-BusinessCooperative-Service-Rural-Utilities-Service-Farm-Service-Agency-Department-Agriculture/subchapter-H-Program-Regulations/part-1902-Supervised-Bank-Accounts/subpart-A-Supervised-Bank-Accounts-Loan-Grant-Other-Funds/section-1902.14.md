@@ -1,0 +1,9 @@
+##### § 1902.14 Reconciliation of accounts. #####
+
+(a) A checking account statement will be obtained periodically in accordance with established practices in the area. If the checking statement does not include sufficient information to reconcile the account (the name of the payee or the check number and the amount of each check; i.e., a negotiable demand draft drawn on a financial institution), the original cancelled check or either a copy or other reasonable facsimile of the cancelled check must be provided to the Servicing Office with the statement. Checking account statements will be reconciled promptly with Servicing Office records. The person making the reconciliation will initial the record and indicate the date of the action.
+
+(b) All checking account statements and, if necessary, original cancelled checks or either a copy or other reasonable facsimile of the cancelled checks will be forwarded immediately to the borrower when bank statements and Servicing Office records are in agreement. If a transmittal is used, Form RD 140-4, “Transmittal of Documents”, is prescribed for that purpose.
+
+(c) If the financial institution did not return the original cancelled check(s) to the Agency with the statements, and Rural Development has a need for the original cancelled check(s), the financial institution, upon request by the Agency, will furnish to the Agency the requested original cancelled check(s) or a certified copy or other reasonable certified facsimile of the cancelled check(s) and will provide this service to Rural Development with no fees being assessed the Agency or the Depositor's account for the service.
+
+[70 FR 59228, Oct. 12, 2005]

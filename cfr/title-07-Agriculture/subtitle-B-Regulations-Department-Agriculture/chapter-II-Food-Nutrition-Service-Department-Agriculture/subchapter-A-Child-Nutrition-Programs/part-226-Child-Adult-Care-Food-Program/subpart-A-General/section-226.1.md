@@ -1,0 +1,5 @@
+##### § 226.1 General purpose and scope. #####
+
+This part announces the regulations under which the Secretary of Agriculture will carry out the Child and Adult Care Food Program. Section 17 of the Richard B. Russell National School Lunch Act, as amended, authorizes assistance to States through grants-in-aid and other means to initiate, maintain, and expand nonprofit food service programs for children and adult participants in non-residential institutions which provide care. The Program is intended to provide aid to child and adult participants and family or group day care homes for provision of nutritious foods that contribute to the wellness, healthy growth, and development of young children, and the health and wellness of older adults and chronically impaired persons.
+
+[81 FR 24377, Apr. 25, 2016]

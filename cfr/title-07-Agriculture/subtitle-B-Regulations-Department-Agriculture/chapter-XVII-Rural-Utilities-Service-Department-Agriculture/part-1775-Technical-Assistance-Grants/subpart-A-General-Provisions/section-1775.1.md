@@ -1,0 +1,3 @@
+##### § 1775.1 General. #####
+
+This subpart sets forth the general policies and procedures for the Technical Assistance and Training and the Solid Waste Management Grant Programs. Any processing or servicing activity conducted pursuant to this part involving authorized assistance to Rural Development employees with Water and Environmental Program responsibility, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this title. Applicants for this assistance are required to identify any known relationship or association with an RUS employee.

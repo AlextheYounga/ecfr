@@ -1,0 +1,3 @@
+##### § 1717.1206 Loans subsequent to settlement. #####
+
+In considering any future loan requests from a borrower whose debt has been settled in whole or in part (including the surviving entity of merged or consolidated borrowers, where at least one of said borrowers had its debts settled), it will be presumed that credit support for the full amount of the requested loan will be required. Such support may be in a number of forms, provided that they are acceptable to the Administrator on a case by case basis. They may include, but need not be limited to, equity infusions and guarantees of debt repayment, either from the applicant's members (in the case of a power supply borrower), or from a third party.

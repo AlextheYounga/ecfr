@@ -1,0 +1,3 @@
+##### § 632.14 Eligible land users. #####
+
+Landowners holding surface land and water rights, residents, tenants, or their agents who own or have management control of eligible land and/or water are eligible to participate in the program. Residents or tenants who do not own the land must have control of the land for the period of the proposed contract and have the written consent of the landowner. Land users may participate by operating as persons, partnerships, associations, corporations, estates, trusts, or non-Federal public entities, and by acting individually or jointly with other eligible land users. However, joint participation with other eligible land users is required if the primary purpose of reclamation is enhancement of water quality or quantity.

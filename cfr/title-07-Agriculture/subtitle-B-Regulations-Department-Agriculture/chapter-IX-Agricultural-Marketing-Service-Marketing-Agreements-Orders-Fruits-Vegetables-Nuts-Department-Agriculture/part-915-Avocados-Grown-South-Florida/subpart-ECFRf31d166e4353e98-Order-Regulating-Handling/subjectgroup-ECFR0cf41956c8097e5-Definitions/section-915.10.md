@@ -1,0 +1,5 @@
+##### § 915.10 Handle. #####
+
+*Handle* means to sell, consign, deliver, or transport avocados within the production area or between the production area and any point outside thereof: *Provided,* That such term shall not include: (a) The sale or delivery of avocados to a handler, registered as such with the committee in accordance with such rules and regulations as it may prescribe with the approval of the Secretary, who has facilities within the production area for preparing avocados for market; (b) the delivery of avocados to such a handler solely for the purpose of having such avocados prepared for market; or (c) the transportation of avocados by a handler, so registered with the committee, from the grove to his packing facilities within the production area for the purpose of having such avocados prepared for market. In the event a grower sells his avocados to a handler who is not so registered with the committee, such grower shall be the first handler of such avocados.
+
+[19 FR 3439, June 11, 1954, as amended at 20 FR 4177, June 15, 1955. Redesignated at 26 FR 12751, Dec. 30, 1961]

@@ -1,0 +1,3 @@
+##### § 767.51 Property abandonment. #####
+
+The Agency will take actions necessary to secure, maintain, preserve, manage, and operate the abandoned security property, including marketing perishable security property on behalf of the borrower when such action is in the Agency's financial interest. If the security is in jeopardy, the Agency will take the above actions prior to completing servicing actions contained in 7 CFR part 766.

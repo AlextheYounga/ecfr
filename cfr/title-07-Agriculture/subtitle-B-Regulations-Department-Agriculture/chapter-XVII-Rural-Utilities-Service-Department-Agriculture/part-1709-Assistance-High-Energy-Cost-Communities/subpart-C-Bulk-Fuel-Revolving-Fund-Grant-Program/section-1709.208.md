@@ -1,0 +1,3 @@
+##### § 1709.208 Use of grant funds. #####
+
+Grant funds must be used to establish and support a revolving loan fund that facilitates cost effective fuel purchases for persons, communities, and businesses in eligible areas. Where a recipient State entity's existing program is authorized to fund multiple purposes, grant funds may only be used to the extent the recipient fund finances eligible activities.

@@ -1,0 +1,3 @@
+##### § 3402.12 Project summary. #####
+
+Using the Project Summary, Form NIFA-2003, applicants must summarize the proposed graduate program of study and/or the academic and research strengths of the institution in the national need area for which funding is requested. To the extent possible, applicants should emphasize the uniqueness of the proposed program of training. The summary should not include any reference to the specific number of fellowships requested. The information on Form NIFA-2003 will be used in assigning the most appropriate panelists to review an application. If an application is supported, this Form may be used in program publications.

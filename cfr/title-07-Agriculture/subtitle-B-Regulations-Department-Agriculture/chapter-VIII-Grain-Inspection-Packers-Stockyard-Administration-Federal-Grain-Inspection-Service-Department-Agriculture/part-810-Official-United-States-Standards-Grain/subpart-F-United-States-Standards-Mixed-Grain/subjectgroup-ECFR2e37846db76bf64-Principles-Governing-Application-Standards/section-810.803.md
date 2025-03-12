@@ -1,0 +1,3 @@
+##### § 810.803 Basis of determination. #####
+
+Each determination of damaged and heat-damaged kernels, and the percentage of each kind of grain in the mixture is made on the basis of the sample after removal of foreign material and fines. Other determinations not specifically provided for under the general provisions are made on the basis of the grain as a whole, except the determination of odor is made on either the basis of the grain as a whole or the grain when free from foreign material and fines.

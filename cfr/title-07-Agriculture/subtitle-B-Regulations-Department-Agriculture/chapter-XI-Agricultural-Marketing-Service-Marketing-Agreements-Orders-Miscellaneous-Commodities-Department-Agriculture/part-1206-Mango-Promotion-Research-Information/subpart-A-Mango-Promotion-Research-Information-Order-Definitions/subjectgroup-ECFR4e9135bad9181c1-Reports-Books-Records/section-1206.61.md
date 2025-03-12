@@ -1,0 +1,3 @@
+##### § 1206.61 Books and records. #####
+
+Each first handler and importer shall maintain and make available for inspection by the Department such books and records as are necessary to carry out the provisions of this part, any regulations issued under this part, including such records as are necessary to verify any reports required. Such records shall be retained for at least two years beyond the fiscal period of their applicability.

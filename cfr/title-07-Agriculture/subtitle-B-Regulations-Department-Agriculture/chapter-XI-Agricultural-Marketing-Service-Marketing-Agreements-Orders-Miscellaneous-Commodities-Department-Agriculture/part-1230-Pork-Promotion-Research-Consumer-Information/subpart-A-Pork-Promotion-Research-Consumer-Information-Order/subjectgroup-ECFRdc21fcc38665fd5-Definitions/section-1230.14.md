@@ -1,0 +1,3 @@
+##### § 1230.14 Market value. #####
+
+*Market value* means, with respect to porcine animals which are sold, the price at which they are sold. With respect to porcine animals slaughtered for the sale by the producer, the term means the most recent annual seven-market average for barrows and gilts, as published by the Department. With respect to imported porcine animals, the term means the declared value. With respect to imported pork and pork products, the term means an amount which represents the value of the live porcine animals from which the pork or pork products were derived, based upon the most recent annual seven-market average for barrows and gilts, as published by the Department.

@@ -1,0 +1,3 @@
+##### § 2620.5 Appeals. #####
+
+The denial of a requested record may be appealed in accordance with subpart A of part 1 of this title. Appeals shall be addressed to the Inspector General, U.S. Department of Agriculture, 1400 Independence Avenue SW., Whitten Building, Suite 441-E, Washington, DC 20250-2308. The Inspector General will give notice of the determination concerning an appeal in accordance with subpart A of part 1 of this title.

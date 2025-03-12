@@ -1,0 +1,3 @@
+##### § 611.21 Availability of aerial photography. #####
+
+The National Cartography and Geospatial Center obtains necessary clearance for all aerial photography for NRCS. New aerial photography of designated areas in the United States is obtained yearly by NRCS through competitive contracting. This photography is obtained only after it is determined that imagery of these areas available from other sources does not meet NRCS scale and quality requirements. Orders for reproductions of NRCS aerial photography are subject to the fee schedule cited in § 1.2(b) of this title. Order reproductions from the National Cartography and Geospatial center: USDA—National Resources Conservation Service; P.O. Box 6567, FWFC-Bldg. 23; 501 W. Felix Street; Forth Worth, Texas 76115.

@@ -1,0 +1,3 @@
+##### § 795.13 Other cases. #####
+
+Where the county committee is unable to determine whether certain individuals or legal entities involved in the production of a commodity are to be treated as one person or separate persons, all the facts regarding the arrangement under which the commodity is produced shall be submitted to the State committee for decision. Where the State committee is unable to determine whether such individuals or legal entities are to be treated as one person or separate persons, all the facts regarding the arrangement under which the farming operation is conducted shall be submitted to the Deputy Administrator for decision.

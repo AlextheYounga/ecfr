@@ -1,0 +1,5 @@
+##### § 318.13-14 Movement of processed fruits, vegetables, and other products. #####
+
+(a) Fruits, vegetables, and other products that are processed sufficiently as to preclude the survival of any live pests can be moved interstate from Hawaii, Puerto Rico, the U.S. Virgin Islands, Guam, and the Commonwealth of the Northern Mariana Islands. Those processed products which are approved for interstate movement from those States can be found in the fruits and vegetables manuals for those States. These manuals are available on the Internet at *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/hawaii.pdf* and *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/puerto\_rico.pdf.*
+
+(b) Consignments of processed fruits, vegetables, or other products that have not been processed sufficiently as to be incapable of harboring fruit flies are subject to the interstate movement requirements which apply to the fruit, vegetable, or other product in its unprocessed state.

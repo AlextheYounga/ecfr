@@ -1,0 +1,5 @@
+##### § 27.31 Classification of cotton. #####
+
+For purposes of subsection 15b (f) of The Act, classification of cotton is the determination of the quality of a sample in accordance with the Universal Cotton Standards (the official cotton standards of the United States) for the color grade and leaf grade of American upland cotton, and fiber property measurements such as micronaire. High Volume Instruments will determine all fiber property measurements except extraneous matter. High Volume Instrument colormeter measurements will be used for determining the official color grade. Cotton classers authorized by the Cotton and Tobacco Programs will determine the presence of extraneous matter and authorized employees of the Cotton and Tobacco Programs will determine all fiber property measurements using High Volume Instruments.
+
+[77 FR 20504, Apr. 5, 2012]

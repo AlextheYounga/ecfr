@@ -1,0 +1,3 @@
+##### § 75.32 Who may become licensed inspector. #####
+
+Any person nominated by a cooperating State and who is found to have the necessary qualifications may be licensed by the Director as an inspector to perform such duties of inspection as specified by the Memorandum of Understanding. Such a license shall bear the signature of an authorized employee of the Department. A licensed inspector shall perform duties pursuant to the regulations in accordance with instructions issued or approved by the Director.

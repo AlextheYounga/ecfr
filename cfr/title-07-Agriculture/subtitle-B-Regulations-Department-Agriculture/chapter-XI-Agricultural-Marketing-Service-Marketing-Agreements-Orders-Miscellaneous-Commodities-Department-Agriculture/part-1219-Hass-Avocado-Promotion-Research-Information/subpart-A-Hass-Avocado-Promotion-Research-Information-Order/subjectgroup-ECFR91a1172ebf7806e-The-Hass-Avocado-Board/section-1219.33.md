@@ -1,0 +1,3 @@
+##### § 1219.33 Subsequent nomination and appointment of Board members and alternates. #####
+
+The Board's staff shall announce at least 150 days in advance of the expiration of members' and alternates' terms that such terms are expiring and shall solicit nominations in accordance with procedures recommended by the Board and approved by the Secretary. Nominations for such positions should be submitted to the Secretary no less than 90 days prior to the expiration of the terms.

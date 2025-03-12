@@ -1,0 +1,3 @@
+##### § 4279.77 Minimum retention. #####
+
+The lender is required to hold in its own portfolio a minimum of 5 percent of the original total loan amount. The amount required to be maintained must be of the unguaranteed portion of the loan and cannot be participated to another. The lender may enter into no agreement that reduces its exposure below the minimum 5 percent it is required to retain in its portfolio. The lender may sell the remaining amount of the unguaranteed portion of the loan only through participation.

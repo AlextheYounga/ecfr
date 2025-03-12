@@ -1,0 +1,5 @@
+##### § 915.27 Alternate members. #####
+
+An alternate member of the committee, during the absence or at the request of the member for whom he is an alternate, shall act in the place and stead of such member. In the event of the death, removal, resignation, or disqualification of a member, his alternate shall act for him until a successor for such member is selected and has qualified. In the event both a member and his alternate are unable to attend a committee meeting, the chairman may designate any alternate who is present and who is not serving for any member to serve in such absent member's place and stead: *Provided,* That only grower alternate members may be so designated to serve for grower members and only handler alternate members may be so designated to serve only for handler members.
+
+[19 FR 3439, June 11, 1954. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 35 FR 16627, Oct. 27, 1970]

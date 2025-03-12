@@ -1,0 +1,5 @@
+##### § 1738.213 Loan determination. #####
+
+(a) If the application meets all statutory and regulatory requirements and the feasibility study demonstrates that the TIER requirement can be satisfied and the business plan is sustainable, the application will be submitted to the Agency's credit committees for consideration according to the priorities in § 1738.203. Such submission of an application to the Agency's credit committees does not guarantee that a loan will be approved. In making a loan determination, the Administrator shall consider the recommendations of the credit committees.
+
+(b) The applicant will be notified of the Agency's decision in writing. If the Agency does not approve the loan, a rejection letter will be sent to the applicant, and the application will be returned with an explanation of the reasons for the rejection.

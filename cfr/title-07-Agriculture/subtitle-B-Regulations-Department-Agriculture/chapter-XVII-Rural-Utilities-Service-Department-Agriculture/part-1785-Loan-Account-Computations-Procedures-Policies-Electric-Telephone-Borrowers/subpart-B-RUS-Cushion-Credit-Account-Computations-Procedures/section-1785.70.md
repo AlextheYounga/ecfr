@@ -1,0 +1,7 @@
+##### § 1785.70 Application of RETRF cushion of credit payments. #####
+
+(a) If a maturing installment on an RUS note or a note which has been guaranteed by RUS is not received by its due date, funds will be withdrawn from the borrower's cushion of credit account and applied as of the installment due date beginning with the oldest of such notes as follows: first, to current interest then due on all notes; second, to the accumulated interest due, if any, on all notes; and third, to the principal then due on all notes. In those instances where a borrower has prior to October 2, 1987, maintained an advance payment account with RUS, its cushion of credit account will be applied in accordance with the provisions of this section prior to using any balance remaining in its advance payment account to pay interest and principal installments on notes. Computations required under this section have been made by RUS as of October 2, 1987; however, on or before May 25, 1989 any borrower may make a one time irrevocable election to have all such computations made as of April 5, 1989, by filing written notice to that effect with Robert D. Ruddy, Director, Fiscal Accounting Division, Rural Utilities Service, Washington, DC 20250-1500.
+
+(b) A borrower may reduce the balance of its cushion of credit account only if the amount obtained from the reduction is used to make scheduled payments on loans made or guaranteed under the Act.
+
+[54 FR 13669, Apr. 5, 1989; 54 FR 17703, Apr. 25, 1989]

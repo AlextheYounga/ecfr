@@ -1,0 +1,3 @@
+##### § 4284.1011 Evaluation screening. #####
+
+The Agency will conduct an initial screening of all proposals to determine whether the applicant is eligible and whether the application is complete and sufficiently responsive to the requirements set forth in the applicable RFP so as to allow for an informed review. Incomplete or non-responsive applications will not be evaluated further, and may be returned to the applicant. Applicants may revise their applications and re-submit them prior to the published deadline if there is sufficient time to do so.

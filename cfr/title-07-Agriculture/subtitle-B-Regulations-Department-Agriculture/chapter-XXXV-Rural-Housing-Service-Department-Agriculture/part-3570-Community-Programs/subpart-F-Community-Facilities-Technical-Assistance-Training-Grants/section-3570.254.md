@@ -1,0 +1,3 @@
+##### § 3570.254 Source of funds. #####
+
+The Agency will reserve 5 percent of any funds annually appropriated to carry out each of the Essential Community Facilities grant, loan and loan guarantee programs unless otherwise noted in the annual Notice published in the Federal Register. TAT reserved grant funds not obligated by July 31 of each fiscal year will be used to fund Essential Community Facilities grant, loan, and/or loan guarantee programs.

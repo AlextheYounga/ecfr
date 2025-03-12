@@ -1,0 +1,3 @@
+##### § 4290.1700 Secretary's transfer of interest in a RBIC's Leverage security. #####
+
+Upon such conditions and for such consideration as he or she deems reasonable, the Secretary may sell, assign, transfer, or otherwise dispose of any Debenture held by or on behalf of the Secretary. Upon notice by the Secretary, a RBIC will make all payments of principal and interest as shall be directed by the Secretary. A RBIC will be liable for all damage or loss which the Secretary may sustain by reason of the RBIC's failure to follow such payment instructions, up to the amount of the RBIC's liability under such security, plus court costs and reasonable attorney's fees incurred by the Secretary.

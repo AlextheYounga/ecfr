@@ -1,0 +1,5 @@
+##### § 50.11 Conditional withdrawal of service. #####
+
+(a) The Director may withdraw grading or inspection service from a person for correctable cause. The grading or inspection service withdrawn, after appropriate corrective action is taken, will be restored immediately, or as soon thereafter as a grader or inspector can be made available.
+
+(b) Written notice of withdrawal of grading or inspection service under this section shall be given to the person from whom grading or inspection services will be withdrawn in advance of withdrawal, whenever it is feasible to provide such an advance written notice. If advance written notice is not given, the withdrawal action and the reasons for the withdrawal shall be confirmed as promptly as circumstances permit, unless the deficiency which is the basis for the withdrawal has already been corrected.

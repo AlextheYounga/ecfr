@@ -1,0 +1,5 @@
+##### § 47.7 Report of investigation. #####
+
+Where the facts and circumstances are deemed by the Deputy Administrator to warrant such action, the Fruit and Vegetable Programs shall serve upon each of the parties a copy of the report made by the Fruit and Vegetable Programs in connection with its investigation of the informal or formal complaint. Whenever the Secretary, or the Deputy Administrator, or the examiner deems it necessary, a supplemental investigation shall be made by the Fruit and Vegetable Programs and a copy of the report thereon shall be served upon the parties. If an answer is filed by respondent, a copy of any report or reports of investigation served upon the parties shall be filed with the Hearing Clerk and shall be considered as part of the evidence in the proceeding: *Provided,* That either party shall be permitted to submit evidence in rebuttal in the same manner as is provided in the regulations in this part for the submission of other evidence in the proceeding.
+
+[24 FR 10055, Dec. 12, 1959]

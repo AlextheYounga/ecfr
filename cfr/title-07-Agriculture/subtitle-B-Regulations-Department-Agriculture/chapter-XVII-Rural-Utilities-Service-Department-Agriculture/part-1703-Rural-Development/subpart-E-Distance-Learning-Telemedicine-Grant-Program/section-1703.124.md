@@ -1,0 +1,3 @@
+##### § 1703.124 Maximum and minimum grant amounts. #####
+
+Applications for grants under this subpart will be subject to limitations on the proposed amount of grant funds. The Administrator will establish the maximum amount of a grant to be made available to an individual recipient for each fiscal year under this subpart by publishing notice of the maximum amount in the Federal Register not sooner than 45 days before the period for accepting applications begins. The minimum amount of a grant is $50,000.

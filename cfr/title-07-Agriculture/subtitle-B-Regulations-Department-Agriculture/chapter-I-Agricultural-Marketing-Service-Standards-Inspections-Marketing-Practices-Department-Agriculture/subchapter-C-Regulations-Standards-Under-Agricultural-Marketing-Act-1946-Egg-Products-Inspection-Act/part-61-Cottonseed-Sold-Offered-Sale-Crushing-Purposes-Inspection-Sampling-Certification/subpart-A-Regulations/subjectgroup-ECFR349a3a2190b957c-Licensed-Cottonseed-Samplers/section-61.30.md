@@ -1,0 +1,3 @@
+##### § 61.30 Examination of sampler. #####
+
+Each applicant for a license as a sampler and each licensed sampler whenever requested by an authorized representative of the Director, shall submit to an examination or test to show his ability properly to perform the duties for which he is applying for a license or for which he has been licensed, and each such applicant or licensee shall furnish the Division any information requested at any time in regard to his sampling of cottonseed.

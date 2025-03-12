@@ -1,0 +1,5 @@
+##### § 97.143 Certified seed only. #####
+
+(a) Upon filing an application, or amendment thereto, specifying seed of the variety is to be sold by variety name only as a class of certified seed, the owner, or his or her designee, may label containers of seed of the variety substantially as follows: “Unauthorized Propagation Prohibited—U.S. Variety Protection Applied for Specifying That Seed of This Variety Is To Be Sold By Variety Name Only as a Class of Certified Seed.”
+
+(b) An owner who has received a certificate specifying that a variety is to be sold by variety name only, as a class of certified seed, may label containers of the seed of the variety substantially as follows: “Unauthorized Propagation Prohibited—To Be Sold By Variety Name Only as a Class of Certified Seed—U.S. Protected Variety.”

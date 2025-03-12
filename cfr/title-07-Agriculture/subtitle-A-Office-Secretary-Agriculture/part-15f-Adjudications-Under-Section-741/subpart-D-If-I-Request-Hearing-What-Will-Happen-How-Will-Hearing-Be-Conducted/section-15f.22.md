@@ -1,0 +1,3 @@
+##### § 15f.22 What happens after the hearing? #####
+
+The ALJ will fix a reasonable time for filing posthearing briefs, proposed findings of fact and conclusions of law, and if permitted, reply briefs. Briefs should include a summary of evidence relied upon together with references to exhibit numbers and citations to the transcript and authorities relied upon. Briefs must be filed with the Docketing Clerk with copies to all parties.

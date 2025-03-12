@@ -6,7 +6,7 @@
 
 (b) The parties agree to the following:
 
-(1) The terminated portion of the contract is as follows: [*specify the terminated portion clearly as to (i) item numbers, (ii) descriptions, (iii) quantity terminated, (iv) unit price of items, (v) total price of terminated items, and (vi) any other explanation necessary to avoid uncertainty or misunderstanding*].
+(1) The terminated portion of the contract is as follows: [*specify the terminated portion clearly as to (i) line item numbers, (ii) descriptions, (iii) quantity terminated, (iv) unit price of items, (v) total price of terminated items, and (vi) any other explanation necessary to avoid uncertainty or misunderstanding*].
 
 (2) The Contractor certifies that all contract termination inventory (including scrap) has been retained or acquired by the Contractor, sold to third parties, returned to suppliers, delivered to or stored for the Government, or otherwise properly accounted for, and that all proceeds and retention credits have been used in arriving at this agreement.
 
@@ -42,4 +42,4 @@
 
 (vii) All rights and liabilities, if any, of the parties under those clauses of the contract relating to price reductions for defective certified cost or pricing data.
 
-(End of agreement)[48 FR 42447, Sept. 19, 1983, as amended at 60 FR 37773, July 21, 1995; 60 FR 49723, Sept. 26, 1995; 75 FR 53150, Aug. 30, 2010]
+(End of agreement)[48 FR 42447, Sept. 19, 1983, as amended at 60 FR 37773, July 21, 1995; 60 FR 49723, Sept. 26, 1995; 75 FR 53150, Aug. 30, 2010; 82 FR 4714, Jan. 13, 2017]

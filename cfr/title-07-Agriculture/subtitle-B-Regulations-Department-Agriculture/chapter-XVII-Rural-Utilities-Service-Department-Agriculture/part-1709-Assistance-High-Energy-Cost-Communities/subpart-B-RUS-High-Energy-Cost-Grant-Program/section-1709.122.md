@@ -1,0 +1,3 @@
+##### § 1709.122 Consideration of eligible grant applications under later grant announcements. #####
+
+At the discretion of the Administrator, the grant announcement may provide that all eligible but unfunded proposals submitted under preceding competitive grant announcements may also be considered for funding. This option is provided to reduce the burden on applicants and the Agency. The grant announcement shall indicate how applicants may request reconsideration of previously submitted, but unfunded, applications and how they may supplement their applications.

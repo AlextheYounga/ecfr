@@ -1,0 +1,3 @@
+##### § 3419.6 Use of matching funds. #####
+
+The required matching funds for the formula programs shall be used by an eligible institution for agricultural research and extension activities that have been approved in the plan of work required under sections 1444(d) and 1445(c) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, section 7 of the Hatch Act of 1887, section 4 of the Smith-Lever Act, or for approved qualifying education activities.

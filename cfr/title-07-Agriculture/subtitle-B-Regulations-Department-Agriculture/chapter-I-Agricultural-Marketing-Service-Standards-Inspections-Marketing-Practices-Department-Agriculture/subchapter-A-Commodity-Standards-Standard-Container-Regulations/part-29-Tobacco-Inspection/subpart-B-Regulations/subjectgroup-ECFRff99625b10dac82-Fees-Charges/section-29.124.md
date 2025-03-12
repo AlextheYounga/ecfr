@@ -1,0 +1,3 @@
+##### § 29.124 When application rejected or withdrawn. #####
+
+When an application for inspection, sampling, or weighing is rejected in accordance with § 29.62, or withdrawn in accordance with § 29.63, the applicant may be required to pay a reasonable charge for the time used by an inspector, sampler, or weigher, and other expenses incurred in connection with such application prior to its rejection or withdrawal.

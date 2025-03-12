@@ -1,0 +1,3 @@
+##### § 2903.6 Project types. #####
+
+OEPNU intends to award continuation grants to successful Biodiesel Fuel Education Program applicants. A continuation grant is a grant instrument by which the Department agrees to support a specified level of effort for a predetermined project period with a statement of intention to provide additional support at a future date, provided that performance has been satisfactory, appropriations are available for this purpose, and continued government support would be in the best interest of the Federal government and the public. If these three elements are met, OEPNU plans to provide additional support to the funded project(s).

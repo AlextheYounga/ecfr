@@ -1,0 +1,3 @@
+##### § 51.1179 Method of juice extraction. #####
+
+The juice used in the determining of solids, acids and juice content shall be extracted from representative samples as thoroughly as possible with a hand reamer or by such mechanical extractor or extractors as may be approved. The juice shall be strained through cheese cloth or other approved straining device of extra fine mesh to prevent passage of juice cells, pulp, or seeds.

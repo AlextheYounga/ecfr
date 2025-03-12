@@ -1,0 +1,7 @@
+##### § 623.15 Transfer of land. #####
+
+(a) If a new owner purchases or obtains the right and interest in, or right to occupancy of, the land subject to a EWRP easement, such new owner shall be subject to the terms and conditions of the easement. The participant who is the signatory to the easement shall be entitled to receive all remaining payments, if any, for the purchase of the easement. Eligible cost-share payments shall be made to the participants. with respect to costs actually incurred.
+
+(b) Upon the transfer of the property subject to an EWRP easement, any remaining cost-share payments shall be paid to the new owner or purchaser only if the new owner or purchaser becomes a party to the WRPO within 60 days of the perfection of the deed transferring title to the new owner. Such payments shall be paid in the manner agreed to by the participant and the buyer. The new owner or purchaser shall be responsible for assuring completion of all measures and practices required by the contract and the WRPO.
+
+(c) Any transfer of the property prior to the perfection of the easement shall void any NRCS offer or WRPO unless the new owner agrees to accept the offer within 60 days of the perfection of the deed transferring the land to the new owner.

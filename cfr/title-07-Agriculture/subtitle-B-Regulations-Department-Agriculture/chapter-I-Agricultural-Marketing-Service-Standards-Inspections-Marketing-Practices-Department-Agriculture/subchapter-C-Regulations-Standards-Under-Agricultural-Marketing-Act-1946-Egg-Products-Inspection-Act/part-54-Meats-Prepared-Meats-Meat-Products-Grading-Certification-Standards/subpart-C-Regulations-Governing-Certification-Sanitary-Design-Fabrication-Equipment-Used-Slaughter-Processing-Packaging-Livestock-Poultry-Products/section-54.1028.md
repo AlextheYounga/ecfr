@@ -1,0 +1,3 @@
+##### § 54.1028 Fees and other charges for service. #####
+
+Fees and other charges equal as nearly as may be to the cost of the services rendered shall be assessed and collected from applicants in accordance with the provisions for Fees and Charges set forth in 7 CFR part 58, Subpart A, Regulations Governing the Inspection and Grading Services of Manufactured or Processed Dairy Products, sections §§ 58.38, 58.39, 58.41, 58.42, and 58.43, as appropriate.

@@ -1,0 +1,3 @@
+##### § 987.76 Compliance. #####
+
+No handler shall handle any dates (including dates for further processing) except in conformity with, and as authorized by or pursuant to, the applicable provisions of this part, including but not being limited to the regulations relating to grade, size, and volume; and no handler shall use or otherwise dispose of restricted dates or any other dates which have not been certified for handling or for further processing except in conformity with, and as authorized by or pursuant to, the applicable provisions of this part.

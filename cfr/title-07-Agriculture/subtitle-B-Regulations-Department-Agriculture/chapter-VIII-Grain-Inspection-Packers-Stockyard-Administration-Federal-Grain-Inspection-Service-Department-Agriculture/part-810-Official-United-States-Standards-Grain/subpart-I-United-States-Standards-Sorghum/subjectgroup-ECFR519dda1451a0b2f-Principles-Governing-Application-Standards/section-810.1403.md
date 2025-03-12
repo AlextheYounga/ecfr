@@ -1,0 +1,5 @@
+##### § 810.1403 Basis of determination. #####
+
+Each determination of broken kernels and foreign material is made on the basis of the grain when free from dockage. Each determination of class, damaged kernels, heat-damaged kernels, and stones is made on the basis of the grain when free from dockage and that portion of the broken kernels, and foreign material that will pass through a 1.98 mm (5/64 inches) triangular-hole sieve. Other determinations not specifically provided for in the general provisions are made on the basis of the grain as a whole except the determination of odor is made on either the basis of the grain as a whole or the grain when free from dockage, broken kernels, and foreign material removed by the 1.98 mm (5/64 inches) triangular-hole sieve.
+
+[57 FR 58971, Dec. 14, 1992]

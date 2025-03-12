@@ -1,0 +1,3 @@
+##### § 550.106 Mutuality of interest. #####
+
+The REE Agency must document all parties' interest in the project. Mutual interest exists when all parties benefit in the same qualitative way from the objectives of the award. If one party to the non-assistance cooperative agreement would independently have an interest in the project, which is shared by the other party, and all parties contribute resources to obtain the end result of the project, mutual interest exists.

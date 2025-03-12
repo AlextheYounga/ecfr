@@ -1,0 +1,3 @@
+##### § 1700.104 Financial feasibility. #####
+
+Pursuant to normal underwriting practices, and such reasonable alternatives within the discretion of RUS that contribute to a financial feasibility determination for a particular eligible program or project, the Administrator will only make grants, loans and loan guarantees that RUS finds to be financially feasible and that provide eligible program benefits to substantially underserved trust areas. All income and assets available to and under the control of the Applicant will be considered as part of the Applicant's financial profile.

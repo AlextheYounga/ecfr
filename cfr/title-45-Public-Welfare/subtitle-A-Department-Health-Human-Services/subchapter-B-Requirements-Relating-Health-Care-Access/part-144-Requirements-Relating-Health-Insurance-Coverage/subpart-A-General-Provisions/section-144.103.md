@@ -1,7 +1,5 @@
 ##### § 144.103 Definitions. #####
 
-Link to an amendment published at 81 FR 94172, Dec. 22, 2016.
-
 For purposes of parts 146 (group market), 147 (group and individual market), 148 (individual market), and 150 (enforcement) of this subchapter, the following definitions apply unless otherwise provided:
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -144,7 +142,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Placement, or being placed, for adoption* means the assumption and retention of a legal obligation for total or partial support of a child by a person with whom the child has been placed in anticipation of the child's adoption. The child's placement for adoption with such person ends upon the termination of such legal obligation.
 
-*Plan* means, with respect to an issuer and a product, the pairing of the health insurance coverage benefits under the product with a particular cost-sharing structure, provider network, and service area. The product comprises all plans offered with those characteristics and the combination of the service areas for all plans offered within a product constitutes the total service area of the product. With respect to a plan that has been modified at the time of coverage renewal consistent with § 147.106 of this subchapter -
+*Plan* means, with respect to a product, the pairing of the health insurance coverage benefits under the product with a particular cost-sharing structure, provider network, and service area. The product comprises all plans offered with those characteristics and the combination of the service areas for all plans offered within a product constitutes the total service area of the product. With respect to a plan that has been modified at the time of coverage renewal consistent with § 147.106 of this subchapter -
 
 (1) The plan will be considered to be the same plan if it:
 
@@ -182,7 +180,7 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Preexisting condition exclusion* means a limitation or exclusion of benefits (including a denial of coverage) based on the fact that the condition was present before the effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), whether or not any medical advice, diagnosis, care, or treatment was recommended or received before that day. A preexisting condition exclusion includes any limitation or exclusion of benefits (including a denial of coverage) applicable to an individual as a result of information relating to an individual's health status before the individual's effective date of coverage (or if coverage is denied, the date of the denial) under a group health plan, or group or individual health insurance coverage (or other coverage provided to Federally eligible individuals pursuant to 45 CFR part 148), such as a condition identified as a result of a pre-enrollment questionnaire or physical examination given to the individual, or review of medical records relating to the pre-enrollment period.
 
-*Product* means a discrete package of health insurance coverage benefits that a health insurance issuer offers using a particular product network type within a service area.
+*Product* means a discrete package of health insurance coverage benefits that are offered using a particular product network type (such as health maintenance organization, preferred provider organization, exclusive provider organization, point of service, or indemnity) within a service area. In the case of a product that has been modified, transferred, or replaced, the resulting new product will be considered to be the same as the modified, transferred, or replaced product if the changes to the modified, transferred, or replaced product meet the standards of § 146.152(f), § 147.106(e), or § 148.122(g) of this subchapter (relating to uniform modification of coverage), as applicable.
 
 *Public health plan* has the meaning given the term in 45 CFR 146.113(a)(1)(ix).
 
@@ -210,4 +208,4 @@ For purposes of parts 146 (group market), 147 (group and individual market), 148
 
 *Waiting period* has the meaning given the term in 45 CFR 147.116(b).
 
-[69 FR 78781, Dec. 30, 2004, as amended at 74 FR 51688, Oct. 7, 2009; 75 FR 27138, May 13, 2010; 75 FR 37235, June 28, 2010; 77 FR 16468, Mar. 21, 2012; 78 FR 65091, Oct. 30, 2013; 79 FR 10313, Feb. 24, 2014; 79 FR 13833, Mar. 11, 2014; 79 FR 14151, Mar. 12, 2014; 79 FR 30335, May 27, 2014; 80 FR 10861, Feb. 27, 2015; 80 FR 72274, Nov. 18, 2015; 81 FR 12333, Mar. 8, 2016; 81 FR 75323, 75326, Oct. 31, 2016]
+[69 FR 78781, Dec. 30, 2004, as amended at 74 FR 51688, Oct. 7, 2009; 75 FR 27138, May 13, 2010; 75 FR 37235, June 28, 2010; 77 FR 16468, Mar. 21, 2012; 78 FR 65091, Oct. 30, 2013; 79 FR 10313, Feb. 24, 2014; 79 FR 13833, Mar. 11, 2014; 79 FR 14151, Mar. 12, 2014; 79 FR 30335, May 27, 2014; 80 FR 10861, Feb. 27, 2015; 80 FR 72274, Nov. 18, 2015; 81 FR 12333, Mar. 8, 2016; 81 FR 75326, Oct. 31, 2016; 81 FR 94172, Dec. 22, 2016]

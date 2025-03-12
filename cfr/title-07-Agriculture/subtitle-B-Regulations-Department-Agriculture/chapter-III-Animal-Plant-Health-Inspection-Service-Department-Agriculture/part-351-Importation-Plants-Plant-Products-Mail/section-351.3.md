@@ -1,0 +1,9 @@
+##### § 351.3 Procedure on arrival. #####
+
+All parcel post or other mail packages from foreign countries which, either from examination or external evidence, are found or are believed to contain plants or plant products, shall be dispatched for submission, or actually submitted, to the plant quarantine inspector at the most accessible location listed in § 351.2. The inspector shall pass upon the contents under the Plant Quarantine Act and Federal Plant Pest Act and with the cooperation of the customs and postal officers either
+
+(a) Release the package from further plant quarantine examination and endorse his decision thereon; or
+
+(b) Divert it to the Plant Quarantine Station at Washington, DC, Brownsville, Tex., Hoboken, N.J., Honolulu, Hawaii, Jamaica, L.I., N.Y., Laredo, Tex., Miami, Fla., New Orleans, La., San Francisco, Calif., San Juan, P.R., San Pedro, Calif., or Seattle, Wash., for whatever disposition is deemed warranted. If so diverted, the plant quarantine inspector shall attach to the package the yellow and green special mailing tag addressed to the proper quarantine station. A package so diverted shall be accompanied by customs card Form 3511 and transmitted to the appropriate Customs office for referral to the Plant Quarantine Station. Envelopes containing customs card Form 3511 addressed to the collector of customs, New York, N.Y., shall contain a notation that the material is to be referred to the Plant Protection and Quarantine Programs, Hoboken, N.J.
+
+[24 FR 9923, Dec. 9, 1959, as amended at 28 FR 5204, May 24, 1963, as amended at 36 FR 24917, Dec. 24, 1971]

@@ -1,0 +1,5 @@
+##### § 249.9 Nutrition education. #####
+
+(a) *Goal.* Nutrition education shall emphasize the relationship of proper nutrition to good health, including the importance of consuming fruits and vegetables.
+
+(b) *Requirement.* The State agency shall integrate nutrition education into SFMNP operations and may satisfy nutrition education requirements through coordination with other agencies within the State. State agencies wishing to coordinate nutrition education with another State agency or organization must enter into a written cooperative agreement with such agencies to offer nutrition education relevant to the use and nutritional value of foods available to SFMNP participants. In cases where SFMNP participants are receiving relevant nutrition education from an agency other than the administering State agency, the provision of nutrition education is an allowable administrative cost under the SFMNP.

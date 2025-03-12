@@ -1,0 +1,3 @@
+##### § 789.73 Communications. #####
+
+Except as otherwise provided, all communications concerning this part, including requests for copies of this part and explanatory information, requests for guidance or clarification, and submission of appeals as specified in § 789.61 will be addressed to the Administrator, Farm Service Agency, Room 4752, Mail Stop 0512, USDA, 1400 Independence Ave. SW., Washington, DC 20250-0512 or email: *FSA.EPD@wdc.usda.gov.* This address is also to be used for requests for adjustments or exceptions to the Farm Service Agency Deputy Administrator for Management as specified in § 789.60.

@@ -1,0 +1,5 @@
+##### § 1205.324 Nominations. #####
+
+All nominations authorized under § 1205.322 shall be made within such a period of time and in such a manner as the Secretary shall prescribe. The eligible producer organizations within each cotton-producing state, as certified pursuant to § 1205.341, shall caucus for the purpose of jointly nominating two qualified persons for each member and each alternate member to be selected to represent the cotton producers of such cotton-producing state. The eligible importer organizations, as certified pursuant to § 1205.342, shall caucus for the purpose of jointly nominating two qualified persons for each member and alternate member to be selected to represent cotton importers. If joint agreement is not reached with respect to the nominees for any such position, each such organization may nominate two qualified persons for any position on which there is no agreement.
+
+[56 FR 64472, Dec. 10, 1991; 56 FR 66670, Dec. 24, 1991]

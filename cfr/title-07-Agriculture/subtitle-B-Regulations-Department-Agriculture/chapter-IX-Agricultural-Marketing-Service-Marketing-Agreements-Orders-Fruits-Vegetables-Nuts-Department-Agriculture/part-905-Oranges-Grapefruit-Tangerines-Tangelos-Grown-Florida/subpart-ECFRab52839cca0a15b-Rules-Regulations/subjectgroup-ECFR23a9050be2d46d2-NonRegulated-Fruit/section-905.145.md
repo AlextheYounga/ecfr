@@ -1,0 +1,3 @@
+##### § 905.145 Certification of certain shipments. #####
+
+Whenever a regulation pursuant to § 905.52 restricts the shipment of a portion of a specified grade or size of a variety, each handler shipping such variety during the regulation period shall, with respect to each such shipment, certify to the U.S. Department of Agriculture and the committee the quantity of the partially restricted grade or size, or both, contained in such shipment. Such certification shall accompany the manifest of such shipment which the handler furnishes to the Federal-State Inspection Service.

@@ -1,0 +1,7 @@
+##### § 3.16 Collection in installments. #####
+
+(a) Whenever feasible, agencies shall collect the total amount of a debt in one lump sum. If a debtor is financially unable to pay a debt in one lump sum, agencies may accept payment in regular installments. Agencies shall obtain financial statements from debtors who represent that they are unable to pay in one lump sum and independently verify such representations whenever possible (*see* 31 CFR 902.2(g) for methods of verification). Agencies that agree to accept payments in regular installments shall obtain a legally enforceable written agreement from the debtor that specifies all terms of the arrangement and that contains a provision accelerating the debt in the event of default.
+
+(b) The size and frequency of installment payments shall bear a reasonable relation to the size of the debt and the debtor's ability to pay. If possible, the installment payments shall be sufficient in size and frequency to liquidate the debt in three years or less.
+
+(c) Security for deferred payments shall be obtained in appropriate cases. Agencies may accept installment payments notwithstanding the refusal of the debtor to execute a written agreement or to give security, at the agency's option.

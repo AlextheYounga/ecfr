@@ -1,0 +1,3 @@
+##### § 1208.61 Books and records. #####
+
+Each first handler, producer, and importer subject to this subpart shall maintain and make available for inspection by the Secretary such books and records as are necessary to carry out the provisions of this subpart and the regulations issued thereunder, including such records as are necessary to verify any reports required. Such records shall be retained for at least two (2) years beyond the fiscal period of their applicability.

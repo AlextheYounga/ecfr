@@ -1,3 +1,3 @@
 ##### 335.070-3 Method of cost-sharing. #####
 
-Cost-sharing on individual contracts may be accomplished either by a contribution of part or all of one or more elements of allowable cost of the work being performed or by a fixed amount or stated percentage of the total allowable costs of the project. Contractors shall not charge costs contributed to the Government under any other instrument (*e.g.,* grant or contract), including allocations to other instruments as part of any independent R&D program.
+Cost-sharing on individual contracts may be accomplished either by a contribution of part or all of one or more elements of allowable cost of the work being performed or by a fixed amount or stated percentage of the total allowable costs of the project. Contractors shall not charge costs contributed to the Government under any other instrument (e.g., grant or contract), including allocations to other instruments as part of any independent R&D program.

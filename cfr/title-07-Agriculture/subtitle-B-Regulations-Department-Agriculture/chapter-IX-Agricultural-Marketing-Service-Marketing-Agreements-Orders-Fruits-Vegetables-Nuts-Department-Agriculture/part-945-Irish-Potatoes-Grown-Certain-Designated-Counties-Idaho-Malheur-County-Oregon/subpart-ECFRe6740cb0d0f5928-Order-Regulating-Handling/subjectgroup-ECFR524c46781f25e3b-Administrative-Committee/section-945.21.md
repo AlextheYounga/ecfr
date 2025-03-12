@@ -1,0 +1,7 @@
+##### § 945.21 Term of office. #####
+
+(a) Except as otherwise provided in this section, the term of office of committee members and alternates shall be for two years beginning June 1 or such other date as recommended by the committee and approved by the Secretary. The term of office of members and alternates shall be so determined that approximately one-half of the total producer and handler committee membership shall terminate each year.
+
+(b) Committee members and alternates shall serve during the term of office for which they are selected and have qualified and continue until their successors are selected and have qualified. Beginning with the 1987 term of office, no member or alternate shall serve more than three full consecutive terms: *Provided,* That an alternate member may serve up to three consecutive terms and then serve as a member for up to three consecutive terms without a break in service. Members serving three consecutive terms could again become eligible to serve on the committee by not serving for one full term as either member or alternate member: *Provided,* That in the event a position would otherwise remain vacant for lack of eligible nominees or eligible persons willing to serve, the Secretary may authorize a member or alternate member to serve more than three full consecutive terms.
+
+[53 FR 3188, Feb. 4, 1988]

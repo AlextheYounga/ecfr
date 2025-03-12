@@ -1,0 +1,3 @@
+##### § 1786.58 Security. #####
+
+If, after prepayment of RUS Notes, the Government should continue to hold liens on the borrower's property that secure loans made or guaranteed pursuant to the Act, the Administrator of RUS or the Governor of the Rural Telephone Bank, as the case may be, will consider request for the accommodation of such liens for the purpose of providing security for loans the proceeds of which were used to prepay RUS Notes. Such lien accommodations shall be limited in amount to the Discounted Present Value of the RUS Notes plus such costs, as the Administrator shall determine to be reasonable, incurred by the borrower in obtaining such loans.

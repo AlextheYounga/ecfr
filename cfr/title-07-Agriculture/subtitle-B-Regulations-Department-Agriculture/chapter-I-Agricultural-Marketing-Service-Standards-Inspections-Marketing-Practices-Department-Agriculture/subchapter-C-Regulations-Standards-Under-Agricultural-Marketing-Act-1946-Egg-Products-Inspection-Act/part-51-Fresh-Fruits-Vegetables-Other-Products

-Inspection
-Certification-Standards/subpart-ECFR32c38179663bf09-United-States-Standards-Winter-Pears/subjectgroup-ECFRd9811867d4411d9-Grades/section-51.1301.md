@@ -1,0 +1,3 @@
+##### § 51.1301 U.S. Extra No. 1. #####
+
+“U.S. Extra No. 1” consists of pears of one variety which are mature, but not overripe, carefully hand-picked, clean, well formed, free from decay, internal breakdown, scald, freezing injury, worm holes, black end, hard end, drought spot, and free from injury caused by russeting, limbrubs, hail, scars, cork spot, sunburn, sprayburn, stings or other insect injury, or mechanical or other means, except that they shall be free from damage caused by bruises, broken skins, or disease. (See §§ 51.1306 and 51.1309.)

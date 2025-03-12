@@ -1,0 +1,15 @@
+##### § 4285.82 Use of funds; changes. #####
+
+(a) *Delegation of fiscal responsibility.* The cooperator may not, in whole or in part, delegate or transfer to another person, institution, or organization the responsibility for use or expenditure of cooperative agreement funds.
+
+(b) *Change in project plans.* (1) The permissible changes by the cooperator, principal investigator(s), or other key project personnel in the approved cooperative agreement shall be limited to changes in methodology, techniques, or other aspects of the project to expedite achievement of the project's approved goals. If the cooperator and/or the principal investigator(s) is uncertain whether a particular change complies with this provision, the question must be referred to the Assistant Administrator for Cooperative Services for a final determination.
+
+(2) Changes in approved goals, or objectives, shall be requested by cooperator and approved in writing by the Assistant Administrator for Cooperative Services, or authorized delegate, prior to effecting such changes. Normally, no requests for such changes outside the scope of the original approved project will be approved.
+
+(3) Changes in approved project leadership or the replacement or realignment of other key project personnel shall be requested by the cooperator and approved in writing by the Assistant Administrator for Cooperative Services, or authorized delegate, prior to effecting such changes.
+
+(4) Transfers of actual performance of the substantive programmatic work in whole or in part and provisions for payment of funds, whether or not Federal funds are involved, shall be requested by the cooperator and approved in writing by the Assistant Administrator for Cooperative Services, or authorized delegate, prior to effecting such changes, except as may be allowed in the terms and conditions of a cooperative agreement award.
+
+(c) *Changes in project period.* The project period determined pursuant to § 4285.81(b) of this subpart may be extended by the Assistant Administrator for Cooperative Services without additional financial support, for such additional period(s) as the Assistant Administrator for Cooperative Services determines may be necessary to complete, or fulfill the purposes of, an approved project. Any extension, when combined with the originally approved or amended project period, shall not exceed four (4) years and shall be further conditioned upon prior request by the cooperator and approval in writing by the Assistant Administrator for Cooperative Services, or authorized delegate, except as may be allowed in the terms and conditions of a cooperative agreement award.
+
+(d) *Changes in approved budget.* The terms and conditions of a cooperative agreement will prescribe circumstances under which written Agency approval must be requested and obtained prior to instituting changes in an approved budget.

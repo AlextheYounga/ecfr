@@ -1,0 +1,3 @@
+##### § 28.57 Form C certificate. #####
+
+When classification has been made of cotton inspected and sampled under supervision of a Division employee there shall be issued a cotton class certificate known as a Form C certificate. Each Form C certificate shall show the true classification of the cotton in the respects specified in the request. Such certificate, when it has been once reviewed in accordance with § 28.66, shall be deemed to be a final certificate as to the classification shown, within the meaning of section 4 of the Act (42 Stat. 1517; 7 U.S.C. 54), in all cases except when superseded by a certificate or award made as provided in § 28.161.

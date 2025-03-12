@@ -1,0 +1,9 @@
+##### § 250.52 Storage and inventory management of donated foods. #####
+
+(a) *General requirements.* The food service management company must meet the requirements for the safe storage and control of donated foods in § 250.14(a).
+
+(b) *Storage and inventory with commercially purchased foods.* The food service management company may store and inventory donated foods together with foods it has purchased commercially for the school food authority's use (unless specifically prohibited in the contract). It may store and inventory such foods together with other commercially purchased foods only to the extent that such a system ensures compliance with the requirements for the use of donated foods in § 250.51(d)—*i.e.,* use all donated beef and pork, and all end products in the food service, and use all other donated foods or commercially purchased foods of the same generic identity, of U.S. origin, and of equal or better quality than the donated foods, in the food service. Additionally, under cost-reimbursable contracts, the food service management company must ensure that its system of inventory management does not result in the recipient agency being charged for donated foods.
+
+(c) *Disposition of donated foods and credit reconciliation upon termination of the contract.* When a contract terminates, and is not extended or renewed, the food service management company must return all unused donated beef, pork, and processed end products, and must, at the recipient agency's discretion, return other unused donated foods. The recipient agency must ensure that the food service management company has credited it for the value of all donated foods received for use in the recipient agency's meal service in a school year or fiscal year, as applicable.
+
+[81 FR 23111, Apr. 19, 2016]

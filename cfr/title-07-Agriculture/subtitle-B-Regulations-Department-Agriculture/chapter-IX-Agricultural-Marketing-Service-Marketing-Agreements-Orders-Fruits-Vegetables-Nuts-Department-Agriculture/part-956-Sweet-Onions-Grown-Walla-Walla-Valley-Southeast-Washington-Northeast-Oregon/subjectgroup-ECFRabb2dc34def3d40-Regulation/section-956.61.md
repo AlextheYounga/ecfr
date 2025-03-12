@@ -1,0 +1,3 @@
+##### § 956.61 Recommendation for regulations. #####
+
+The committee shall recommend regulations to the Secretary whenever it deems it advisable, as provided in § 956.62. The committee also may recommend modification, suspension, or termination of any regulation, or amendments thereto, in order to facilitate the handling of Walla Walla Sweet Onions for the purposes authorized in § 956.63. The committee may also recommend amendment, modification, termination, or suspension of any regulation issued under this part.

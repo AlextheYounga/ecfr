@@ -1,0 +1,7 @@
+##### § 1486.505 Can a Recipient appeal the determinations of the Director, CRS? #####
+
+(a) A Recipient may appeal the determinations of the Director, CRS, to the Deputy Administrator, CMP. The request must be in writing and be submitted to the Office of the Deputy Administrator, CMP, within 30 days following the date of the original determination. The Recipient may request a hearing.
+
+(b) If the Recipient submits its appeal and requests a hearing, the Deputy Administrator, or the Deputy Administrator's designee, will set a date and time, generally within 60 days. The hearing will be an informal proceeding. A transcript will not ordinarily be prepared unless the Recipient bears the cost of the transcript; however, the Deputy Administrator or designee may have a transcript prepared at FAS's expense.
+
+(c) The Deputy Administrator or the Deputy Administrator's designee will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after submission of the appeal, hearing, or receipt of any transcript, whichever is later. The determination of the Deputy Administrator will be the final determination of FAS. The Recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Deputy Administrator.

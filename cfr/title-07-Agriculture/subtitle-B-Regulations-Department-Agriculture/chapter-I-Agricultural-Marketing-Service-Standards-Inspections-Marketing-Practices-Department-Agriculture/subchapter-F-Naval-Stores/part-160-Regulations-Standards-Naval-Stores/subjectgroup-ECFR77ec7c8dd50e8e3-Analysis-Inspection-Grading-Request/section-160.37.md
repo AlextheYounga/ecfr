@@ -1,0 +1,3 @@
+##### § 160.37 Prior marks to be removed. #####
+
+Any marking appearing on a container to be used for naval stores, relating to the kind, classification, grade, certification, or method of inspection of naval stores shall be removed by the user whenever such marking does not in all respects describe the kind, classification, grade, certification, and method of inspection of the naval stores to be placed therein.

@@ -1,0 +1,3 @@
+##### § 1782.22 Exception authority. #####
+
+The Administrator may, in individual cases, make an exception to any requirement or provision of this part which is not inconsistent with the authorizing statute or other applicable law and is determined to be in the Government's interest. Requests for exceptions must be made in writing by the State Director and supported with documentation to explain the adverse effect on the Government's interest, propose alternative course(s) of action, and show how the adverse affect will be eliminated or minimized if the exception is granted. The exception decision will be documented in writing, signed by the Administrator, and retained in the files.

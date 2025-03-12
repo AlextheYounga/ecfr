@@ -1,0 +1,3 @@
+##### § 1709.1 Purpose. #####
+
+The purpose of the Rural Utilities Service (RUS) Assistance to High Energy Cost Rural Communities Program is to help local communities meet their energy needs through direct loans and grants for energy facilities in qualifying extremely high energy cost communities, grants and loans to the Denali Commission for extremely high energy cost communities in Alaska, and grants to States to support revolving funds to finance more cost effective means of acquiring fuel in qualifying communities. This subpart sets forth definitions and requirements which are common to all grant and loan programs in this part administered by the RUS Electric Program under section 19 of the Rural Electrification Act of 1936, as amended (RE Act) (7 U.S.C. 918a).

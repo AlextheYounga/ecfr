@@ -1,0 +1,15 @@
+##### § 15b.27 Extension education. #####
+
+(a) *General.* A recipient to which this subpart applies that provides extension education may not, on the basis of handicap, exclude qualified handicapped persons. A recipient shall take into account the needs of such persons in determining the benefits or services to be provided.
+
+(b) *Delivery sites.* (1) Where existing extension office facilities are inaccessible, recipients may make aid, benefits, or services normally provided at those sites available to qualified handicapped persons through other methods which are equally effective. These methods may include meetings in accessible locations, home visits, written or telephonic communications, and other equally effective alternatives.
+
+(2) For aid, benefits, or services delivered at other publicly-owned facilities, recipients shall select accessible facilities wherever possible. If accessible facilities cannot be selected because they are unavailable or infeasible due to the nature of the activity, recipients shall use other methods to deliver aid, benefits, or services to qualified handicapped persons. These methods may include the redesign of activities or some sessions of activities, the provision of aides, home visits, or other equally effective alternatives.
+
+(3) For aid, benefits, or services delivered at privately-owned facilities, such as homes and farm buildings, recipients shall use accessible facilities whenever qualified handicapped persons requiring such accessibility are participating, have expressed an interest in participating, or are likely to participate. If accessible facilities cannot be selected because they are unavailable or infeasible due to the nature of the activity, recipients shall use other methods to deliver aid, benefits, or services to qualified handicapped persons. These methods may include the redesign of activities or some sessions of activities, the provision of aides, home visits, or other equally effective alternatives.
+
+(4) Recipients shall make camping activities accessible to qualified handicapped persons. Recipients are not required to make every existing camp, all existing camp facilities, or all camp sessions accessible, but recipients who operate more than one camp or session may not limit qualified handicapped persons to one camp or session.
+
+(c) *Materials.* Recipients shall make materials accessible to qualified handicapped persons with sensory or mental impairments. Commonly-used materials shall be readily available in alternate forms such as Braille or tape. Upon request, recipients shall make other materials available through appropriate means such as Braille, tape, readers, large print formats, simplified versions, written scripts, or interpreters. Recipients need not provide individually prescribed devices, readers for personal use or study, or other devices or services of a personal nature.
+
+[47 FR 25470, June 11, 1982, as amended at 68 FR 51342, 51343, Aug. 26, 2003]

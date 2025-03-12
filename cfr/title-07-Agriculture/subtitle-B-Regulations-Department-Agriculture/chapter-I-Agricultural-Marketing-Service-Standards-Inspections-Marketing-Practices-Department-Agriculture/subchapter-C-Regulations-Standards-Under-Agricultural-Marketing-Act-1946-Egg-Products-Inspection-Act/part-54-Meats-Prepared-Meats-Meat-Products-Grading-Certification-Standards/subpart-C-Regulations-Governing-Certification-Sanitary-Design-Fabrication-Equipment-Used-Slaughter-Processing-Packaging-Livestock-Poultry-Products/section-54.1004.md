@@ -1,0 +1,3 @@
+##### § 54.1004 Administration and implementation. #####
+
+The Administrator designates the administration and implementation of the Certification of Sanitary Design and Fabrication of Equipment Used in the Processing of Livestock and Poultry Products service to the Dairy Grading Branch, Dairy Programs, Agricultural Marketing Service. The Chief is charged with the administration, under the general supervision and direction of the Deputy Administrator, of the regulations and the Act insofar as they relate to equipment or utensils used to process livestock and poultry products.

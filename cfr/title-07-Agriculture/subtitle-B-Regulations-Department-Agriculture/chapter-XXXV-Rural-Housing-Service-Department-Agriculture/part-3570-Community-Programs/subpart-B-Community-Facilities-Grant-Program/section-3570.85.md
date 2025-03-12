@@ -1,0 +1,3 @@
+##### § 3570.85 Programmatic changes. #####
+
+The grantee shall obtain prior Agency approval for any change to the objectives of the approved project. (For construction projects, a material change in approved space utilization or functional layout shall be considered such a change.) Failure to obtain prior approval of changes to the approved project or budget may result in suspension, refund, or termination of grant funds.

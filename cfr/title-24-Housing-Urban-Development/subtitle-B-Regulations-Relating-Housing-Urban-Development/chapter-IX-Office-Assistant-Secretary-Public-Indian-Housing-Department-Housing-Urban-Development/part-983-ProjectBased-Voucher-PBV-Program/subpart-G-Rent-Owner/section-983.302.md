@@ -1,12 +1,10 @@
 ##### § 983.302 Redetermination of rent to owner. #####
 
-Link to an amendment published at 81 FR 80583, November 16, 2016.
-
 (a) The PHA must redetermine the rent to owner:
 
 (1) Upon the owner's request; or
 
-(2) When there is a five percent or greater decrease in the published FMR in accordance with § 983.301.
+(2) When there is a 10 percent decrease in the published FMR.
 
 (b) *Rent increase.* (1) The PHA may not make any rent increase other than an increase in the rent to owner as determined pursuant to § 983.301. (Provisions for special adjustments of contract rent pursuant to 42 U.S.C. 1437f(b)(2)(B) do not apply to the voucher program.)
 
@@ -32,4 +30,4 @@ Link to an amendment published at 81 FR 80583, November 16, 2016.
 
 (3) See § 983.207(c) for information on the annual anniversary of the HAP contract for contract units completed in stages.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36170, June 25, 2014]
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36170, June 25, 2014; 81 FR 80583, Nov. 16, 2016]

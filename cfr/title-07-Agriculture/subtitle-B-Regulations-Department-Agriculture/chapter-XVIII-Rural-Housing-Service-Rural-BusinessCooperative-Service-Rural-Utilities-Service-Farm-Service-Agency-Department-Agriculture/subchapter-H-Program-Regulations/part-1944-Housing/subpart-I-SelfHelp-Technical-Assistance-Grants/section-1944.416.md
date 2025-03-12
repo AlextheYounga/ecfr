@@ -1,0 +1,3 @@
+##### § 1944.416 Grant closing. #####
+
+The grant is closed on the date the Agreement is executed as defined in § 1944.403(a) by the applicant and the Government. Funds may not be advanced prior to the signing of the Agreement. The District Director or Assistant District Director are authorized to execute the Agreement for Rural Development. Person(s) authorized by resolution may sign for the applicant.

@@ -1,0 +1,5 @@
+##### § 987.47 Surplus. #####
+
+All cull dates and all substandard dates, including such dates blended with varieties within the generic term *dates* not regulated by this part, except any utility dates released to human consumption outlets pursuant to § 987.56, are surplus dates of any crop year. No handler shall ship or deliver such surplus dates to other than the Committee or its designee(s) for disposition in eligible outlets for such dates, except that any producer or handler may dispose of any such surplus dates of his own production within his own livestock feeding operations. Surplus dates delivered to the Committee shall be disposed of by it, in those outlets specified in § 987.56, at the best prices attainable and the proceeds returned pro rata, after deduction of Committee costs, to equity holders. The Committee may assist handlers with the cleaning, storage, or delivery of surplus dates and may, with the approval of the Secretary, establish rules and regulations necessary and incidental to administration of this regulation.
+
+[27 FR 6818, July 19, 1962, as amended at 43 FR 4251, Feb. 1, 1978]

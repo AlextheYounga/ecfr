@@ -1,0 +1,5 @@
+##### § 27.45 No storage of cotton for classification at disapproved place. #####
+
+No cotton submitted for classification under subsection 15b(f) of the Act shall be located or stored at a place disapproved for the purpose by the Area Director or the Director on account of being unsuitable for the safekeeping or proper storage of such cotton, or on account of the failure or refusal of the custodian thereof to comply or to permit compliance with the requirements of this subpart. Notice of such disapproval shall be given in such manner as the Director may direct. Thereafter every cotton class certificate previously issued for cotton located or stored at such place shall be invalid for the delivery of such cotton on a basis grade contract, unless the cotton shall be removed under the supervision of an exchange inspection agency, or a supervisor of cotton inspection, to a place which shall be suitable for the purpose. Upon such removal and the request of the holder of the cotton class certificate for such cotton a new certificate in lieu thereof, as provided elsewhere in this subpart, shall be issued.
+
+[48 FR 49211, Oct. 25, 1983]

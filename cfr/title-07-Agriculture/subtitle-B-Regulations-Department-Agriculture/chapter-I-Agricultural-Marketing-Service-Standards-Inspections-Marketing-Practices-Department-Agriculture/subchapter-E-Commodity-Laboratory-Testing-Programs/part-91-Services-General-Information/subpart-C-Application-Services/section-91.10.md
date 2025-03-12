@@ -1,0 +1,5 @@
+##### § 91.10 Information required in connection with an application. #####
+
+(a) An application for laboratory service shall be made in the English language and may be made orally (in person or by telephone), in writing, or by facsimile. If an application for laboratory service is made orally, written confirmation may be required by the laboratory involved.
+
+(b) In connection with each application for a laboratory service, information that may be necessary to perform analyses on the processed product(s) shall also be furnished. The information shall include, but is not limited to, the name of the product, name and address of the packer or plant where such product was packed, the location of the product, its lot or load number, codes or other identification marks, the number of containers, the type and size of the containers, the analytical test requested, and the size of the sample. In addition, information regarding analysis of the lot by any federal agency previous to the application and the purpose of the desired laboratory service may be requested.

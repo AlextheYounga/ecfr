@@ -1,0 +1,5 @@
+##### § 352.13 Certain conditions under which change of Customs entry or diversion is permitted. #####
+
+When plants, plant products, plant pests, noxious weeds, and soil released for exportation, transshipment and exportation, or transportation and exportation, under this part, have met all applicable permit and other requirements for importation, including inspection and treatment, as provided in parts 319, 330, or 360 of this chapter, the form of Customs entry may be changed and the shipment may be diverted at any time to permit delivery of the products and articles to a destination in the United States, so far as the requirements in this part are involved. The Customs officer concerned at the original port of Customs entry shall be informed by the inspector that such release has been made and that such change of entry or diversion is approved under this part by appropriate endorsement of Customs documents.
+
+[25 FR 1929, Mar. 5, 1960, as amended at 62 FR 65009, Dec. 10, 1997; 66 FR 21059, Apr. 27, 2001; 75 FR 68952, Nov. 10, 2010]

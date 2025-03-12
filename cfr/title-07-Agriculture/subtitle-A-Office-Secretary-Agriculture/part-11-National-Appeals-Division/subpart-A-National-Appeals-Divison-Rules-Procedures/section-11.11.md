@@ -1,0 +1,7 @@
+##### § 11.11 Reconsideration of Director determinations. #####
+
+(a) Reconsideration of a determination of the Director may be requested by the appellant or the agency within 10 days of receipt of the determination. The Director will not consider any request for reconsideration that does not contain a detailed statement of a material error of fact made in the determination, or a detailed explanation of how the determination is contrary to statute or regulation, which would justify reversal or modification of the determination.
+
+(b) The Director shall issue a notice to all parties as to whether a request for reconsideration meets the criteria in paragraph (a) of this section. If the request for reconsideration meets such criteria, the Director shall include a copy of the request for reconsideration in the notice to the non-requesting parties to the appeal. The non-requesting parties shall have 5 days from receipt of such notice from the Director to file a response to the request for reconsideration with the Director.
+
+(c) The Director shall issue a decision on the request for reconsideration within 5 days of receipt of responses from the non-requesting parties. If the Director's decision upon reconsideration reverses or modifies the final determination of the Director rendered under § 11.9(d), the Director's decision on reconsideration will become the final determination of the Director under § 11.9(d) for purposes of this part.

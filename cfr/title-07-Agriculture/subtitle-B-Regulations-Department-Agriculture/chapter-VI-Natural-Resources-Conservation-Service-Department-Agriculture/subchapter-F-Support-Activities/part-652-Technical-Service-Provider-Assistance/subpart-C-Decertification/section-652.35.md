@@ -1,0 +1,5 @@
+##### § 652.35 Deputy Chief of Programs decision. #####
+
+Within 40 calendar days from the date of the notice of proposed decertification, the Deputy Chief for Programs will issue a written determination. If the Deputy Chief for Programs decides to decertify, the decision will set forth the reasons for decertification, the period of decertification, and the scope of decertification. If the Deputy Chief for Programs decides not to decertify the technical service provider, the technical service provider will be given written notice of that determination. The decertification determination will be based on an administrative record, which will be comprised of the Notice of Proposed Decertification and supporting documents, and if submitted, the technical service provider's written response and supporting documentation. Both a copy of the decision and administrative record will be sent promptly by certified mail, return receipt requested, to the technical service provider.
+
+[79 FR 44640, Aug. 1, 2014]

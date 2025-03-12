@@ -1,0 +1,3 @@
+##### § 600.5 Area offices. #####
+
+Each area office is under the direction and supervision of an area conservationist or assistant State conservationist for field operations who is responsible for NRCS activities in the geographical area served by the area office. Usually the geographical area includes multiple field offices and counties. Many area offices now consist of teams working on a watershed or other geopolitical basis.

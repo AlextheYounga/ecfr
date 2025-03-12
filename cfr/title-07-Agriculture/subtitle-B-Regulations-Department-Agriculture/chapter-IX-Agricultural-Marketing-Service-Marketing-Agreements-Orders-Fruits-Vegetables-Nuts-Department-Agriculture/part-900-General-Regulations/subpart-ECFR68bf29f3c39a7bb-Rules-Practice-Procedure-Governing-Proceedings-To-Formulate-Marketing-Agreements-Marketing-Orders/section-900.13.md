@@ -1,0 +1,3 @@
+##### § 900.13 Submission to Secretary. #####
+
+Upon the expiration of the period allowed for filing exceptions or upon request of the Secretary, the hearing clerk shall transmit to the Secretary the record of the proceeding. Such record shall include: All motions and requests filed with the hearing clerk and rulings thereon; the certified transcript; any proposed findings or conclusions or written arguments or briefs that may have been filed; the Administrator's recommended decision, if any, and such exceptions as may have been filed.

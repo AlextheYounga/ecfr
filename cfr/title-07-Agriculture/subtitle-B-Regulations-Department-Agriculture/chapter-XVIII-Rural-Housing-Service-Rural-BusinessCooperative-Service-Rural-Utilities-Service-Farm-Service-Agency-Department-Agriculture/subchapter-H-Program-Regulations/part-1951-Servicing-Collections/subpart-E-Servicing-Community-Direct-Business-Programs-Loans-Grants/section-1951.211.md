@@ -1,0 +1,5 @@
+##### § 1951.211 Refinancing requirements. #####
+
+In accordance with the CONACT, Rural Development requires for most loans covered by this subpart that if at any time it shall appear to the Government that the borrower is able to refinance the amount of the indebtedness then outstanding, in whole or in part, by obtaining a loan for such purposes from responsible cooperative or private credit sources, at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request of the Government, apply for and accept such loan in sufficient amount to repay the Government and will take all such actions as may be required in connection with such loan. Applicable requirements are set forth in subpart F of part 1951 of this chapter. A civil rights impact analysis is required.
+
+[55 FR 4399, Feb. 8, 1990, as amended at 63 FR 16089, Apr. 2, 1998]

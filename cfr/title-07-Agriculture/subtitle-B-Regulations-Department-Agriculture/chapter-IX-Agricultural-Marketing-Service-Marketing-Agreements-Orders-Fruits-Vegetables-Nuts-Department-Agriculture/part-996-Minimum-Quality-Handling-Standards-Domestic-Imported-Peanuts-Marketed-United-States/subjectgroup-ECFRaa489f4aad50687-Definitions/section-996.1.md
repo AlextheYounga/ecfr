@@ -1,0 +1,3 @@
+##### § 996.1 Act and scope. #####
+
+*Act* means Public Law 107-171, or the Farm Security and Rural Investment Act of 2002, enacted May 13, 2002. None of the definitions or provisions of this part shall apply to any other part or program (including, but not limited to, any program providing for payments or loans to peanut producers or other persons interested in peanuts or peanut quotas) unless explicitly adopted in such other part or program.

@@ -1,0 +1,3 @@
+##### § 30.18 Injury. #####
+
+Hurt or impairment from any cause except the fungous or bacterial diseases which attack tobacco in its cured state. Injured tobacco shall include any dead, burnt, or ragged tobacco; or tobacco that has been torn or broken, frozen or frosted, sunburned or scalded, scorched or fire-killed, bulk-burnt or stem-burnt, pole burnt or house burnt, bleached or bruised; or tobacco containing discolored or deformed leaves; or tobacco hurt by insects; or tobacco affected by wild-fire, black fire, rust, frogeye, mosaic, frenching, sanddrown, or other field diseases.

@@ -1,0 +1,9 @@
+##### § 905.41 Assessments. #####
+
+(a) Each handler who first handles fruit shall pay to committee, upon demand, such handler's pro rata share of the expenses which the Secretary finds will be incurred by the committee for the maintenance and functioning, during each fiscal period, of the committee established under this subpart. Each such handler's share of such expenses shall be that proportion thereof which the total quantity of fruit shipped by such handler as the first handler thereof during the applicable fiscal period is of the total quantity of fruit so shipped by all handlers during the same fiscal period. The Secretary shall fix the rate of assessment per standard packed carton of fruit to be paid by each such handler. The payment of assessments for the maintenance and functioning of the committee may be required under this part throughout the period it is in effect irrespective of whether particular provisions thereof are suspended or become inoperative.
+
+(b) At any time during or after the fiscal period, the Secretary may increase the rate of assessment so that the sum of money collected pursuant to the provisions of this section shall be adequate to cover the said expenses. Such increase shall be applicable to all fruit shipped during the given fiscal period. In order to provide funds to carry out the functions of the committee established under § 905.19, handlers may make advance payment of assessments.
+
+(c) In the case of an extreme emergency, the committee may borrow money on a short term basis to provide funds for the administration of this part. Any such borrowed money shall only be used to meet the committee's current financial obligations, and the committee shall repay all such borrowed money by the end of the next fiscal period from assessment income.
+
+[22 FR 10734, Dec. 27, 1957. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 42 FR 59370, Nov. 17, 1977; 54 FR 37293, Sept. 8, 1989]

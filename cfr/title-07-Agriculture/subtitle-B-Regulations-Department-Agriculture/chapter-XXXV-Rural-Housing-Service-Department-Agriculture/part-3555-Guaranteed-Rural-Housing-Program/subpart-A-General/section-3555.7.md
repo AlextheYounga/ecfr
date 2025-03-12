@@ -1,0 +1,3 @@
+##### § 3555.7 Exception authority. #####
+
+The Administrator of the Agency, or a designee, may make an exception to any requirement or provision of this part or to address any omissions in this part, when the Administrator, or designee, determines that application of the requirement or failure to take action would adversely affect the Government's interest. Any exception must be consistent with the authorizing statute and other applicable laws.

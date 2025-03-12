@@ -1,0 +1,3 @@
+##### § 58.228 Dump hoppers, screens, mixers and conveyors. #####
+
+The product contact surfaces of dump hoppers, screens, mixers and conveyors which are used in the process of transferring dry products from bulk containers to fillers for small packages or containers, shall be of stainless or equally corrosion resistant material and designed to prevent contamination. All parts should be accessible for cleaning. The dump hoppers shall be of such height above floor level as to prevent foreign material or spilled product from entering the hopper.

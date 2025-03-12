@@ -1,0 +1,3 @@
+##### § 1.76 Department cooperation. #####
+
+When the producer agrees to meet the above stipulations to the satisfaction of the Director of Information, the U.S. Department of Agriculture and its agencies will be available for consultation on story ideas and give guidance through the services of a technical advisor to insure technical authenticity. Equipment, locations, and personnel will be available to the extent that such availability is concurrent with normal and usual conduct of the operations of the Department. The Department will check and work with the cooperators to arrange shooting schedules in order to avoid interferences with working schedules.

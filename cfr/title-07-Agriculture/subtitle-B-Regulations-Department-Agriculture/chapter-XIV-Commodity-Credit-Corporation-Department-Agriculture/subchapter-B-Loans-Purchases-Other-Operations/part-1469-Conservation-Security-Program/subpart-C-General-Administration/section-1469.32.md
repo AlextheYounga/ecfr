@@ -1,0 +1,3 @@
+##### § 1469.32 Compliance with regulatory measures. #####
+
+Participants who carry out conservation practices are responsible for obtaining the authorities, permits, easements, or other approvals necessary for the implementation, operation, and maintenance of the conservation practices in keeping with applicable laws and regulations. Participants must comply with all laws and are responsible for all effects or actions resulting from their performance under the contract.

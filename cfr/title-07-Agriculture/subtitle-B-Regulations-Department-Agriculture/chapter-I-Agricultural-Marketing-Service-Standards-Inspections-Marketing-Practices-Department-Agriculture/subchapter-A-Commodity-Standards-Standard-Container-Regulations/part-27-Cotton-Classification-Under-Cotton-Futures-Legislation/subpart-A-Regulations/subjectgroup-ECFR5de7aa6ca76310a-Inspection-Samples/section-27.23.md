@@ -1,0 +1,3 @@
+##### § 27.23 Duplicate sets of samples of cotton. #####
+
+The duplicate sets of samples shall be inclosed in wrappers or containers separate and apart from the original sets in the manner prescribed or original samples in the foregoing section, except that the wrappers or containers shall be labeled or marked, or both, so as to show that they contain duplicate samples and shall be delivered to the person requesting the classification of the cotton.

@@ -1,0 +1,5 @@
+##### § 1782.14 Protection of service areas—7 U.S.C. 1926(b). #####
+
+(a) 7 U.S.C. 1926(b) was enacted to protect the service area of Agency borrowers with outstanding loans, or those loans sold in the sale of assets authorized by the “Joint Resolution Making Continuing Appropriations for the Fiscal Year 1987, Pub. L. 99-591, 100 Stat. 3341 (1986),” from loss of users due to actions or activities of other entities in the service area of the Agency financed system. Without this protection, other entities could extend service to users within the service area, and thereby undermine the purpose of the congressionally mandated water and waste loan and grant programs and jeopardize the borrower's ability to repay its Agency debt.
+
+(b) Responsibility for initiating action in response to those actions prohibited by 7 U.S.C. 1926(b) rests with the borrower.

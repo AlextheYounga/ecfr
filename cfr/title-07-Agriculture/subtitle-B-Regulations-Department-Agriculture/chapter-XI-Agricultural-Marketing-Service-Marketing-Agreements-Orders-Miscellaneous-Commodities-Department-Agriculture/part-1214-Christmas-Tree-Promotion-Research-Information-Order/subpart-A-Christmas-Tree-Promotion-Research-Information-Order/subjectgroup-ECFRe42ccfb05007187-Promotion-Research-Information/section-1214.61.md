@@ -1,0 +1,3 @@
+##### § 1214.61 Independent evaluation. #####
+
+The Board shall, not less often than once every five years, authorize and fund, from funds otherwise available to the Board, an independent evaluation of the effectiveness of the Order and programs conducted by the Board pursuant to the Act. The Board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this paragraph.

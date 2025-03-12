@@ -1,0 +1,11 @@
+##### § 54.2 Designation of official certificates, memoranda, marks, other identifications, and devices for purposes of the Agricultural Marketing Act. #####
+
+Subsection 203(h) of the Agricultural Marketing Act of 1946, as amended by Pub. L. 272, 84th Congress, provides criminal penalties for various specified offenses relating to official certificates, memoranda, marks or other identifications, and devices for making such marks or identifications, issued or authorized under section 203 of said act, and certain misrepresentations concerning the inspection or grading of agricultural products under said section. For the purposes of said subsection and the provisions in this part, the terms listed below shall have the respective meanings specified:
+
+(a) *Official certificate* means any form of certification, either written or printed, used under the regulations to certify with respect to the inspection, class, grade, quality, size, quantity, or condition of products (including the compliance of products with applicable specifications).
+
+(b) *Official memorandum* means any initial record of findings made by an authorized person in the process of grading, determining compliance, inspecting, or sampling pursuant to the regulations, any processing or plant-operation report made by an authorized person in connection with grading, determining compliance, inspecting, or sampling under the regulations, and any report made by an authorized person of services performed pursuant to the regulations.
+
+(c) *Official mark* or *other official identification* means any form of mark or other identification, including those prescribed in § 54.17; used under the regulations in marking any products, or the immediate or shipping containers thereof, to show inspection class, grade quality, size quantity, or condition of the products (including the compliance of products with applicable specifications), or to maintain the identity of products for which service is provided under the regulations.
+
+(d) *Official device* means any roller, stamp, brand or other device used under the regulations to mark any products or the immediate or shipping containers, thereof, with any official mark or other official identification.

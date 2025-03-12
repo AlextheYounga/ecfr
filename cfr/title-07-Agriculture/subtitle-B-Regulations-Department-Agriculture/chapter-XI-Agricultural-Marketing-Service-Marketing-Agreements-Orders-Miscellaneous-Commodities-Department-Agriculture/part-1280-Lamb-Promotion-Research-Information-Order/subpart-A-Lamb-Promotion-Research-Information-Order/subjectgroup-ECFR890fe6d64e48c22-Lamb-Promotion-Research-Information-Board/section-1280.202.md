@@ -1,0 +1,9 @@
+##### § 1280.202 Nominations. #####
+
+All nominations authorized under this section shall be made in the following manner:
+
+(a) Nominations shall be obtained by the Secretary from eligible organizations certified under § 1280.206. Certified eligible organizations representing producers, feeders, first handlers, or seedstock producers shall submit to the Secretary at least two nominees for each seat on the Board. If the Secretary determines that a unit is not represented by a certified eligible organization, then the Secretary may solicit nominations from other organizations or other persons residing in the unit.
+
+(b) After the establishment of the initial Board, the Department shall announce when a vacancy does or will exist. Nomination for subsequent Board members shall be submitted to the Secretary not less than 60 days prior to the expiration of the terms of the members whose terms are expiring, in the manner as described in this section. In the case of vacancies due to reasons other than the expiration of a term of office, successor Board members shall be appointed pursuant to § 1280.205.
+
+(c) When there is more than one certified eligible organization representing the unit or when the Secretary solicits nominations from organizations and persons residing in that unit, they may caucus and jointly nominate, two qualified persons for each position representing that unit on the Board for which a member is to be appointed. If joint agreement is not reached with respect to any such nominations, or if no caucus is held, each eligible organization may submit to the Secretary two nominees for each appointment to be made to represent that unit.

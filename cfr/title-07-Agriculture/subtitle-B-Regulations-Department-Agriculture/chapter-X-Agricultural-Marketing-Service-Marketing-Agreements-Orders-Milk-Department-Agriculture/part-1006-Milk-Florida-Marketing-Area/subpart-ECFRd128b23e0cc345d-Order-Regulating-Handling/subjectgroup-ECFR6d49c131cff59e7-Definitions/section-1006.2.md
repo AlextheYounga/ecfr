@@ -1,0 +1,3 @@
+##### § 1006.2 Florida marketing area. #####
+
+The marketing area means all the territory within the State of Florida, except the counties of Escambia, Okaloosa, Santa Rosa, and Walton, including all piers, docks and wharves connected therewith and all craft moored thereat, and all territory occupied by government (municipal, State or Federal) reservations, installations, institutions, or other similar establishments if any part thereof is within any of the listed states or political subdivisions.

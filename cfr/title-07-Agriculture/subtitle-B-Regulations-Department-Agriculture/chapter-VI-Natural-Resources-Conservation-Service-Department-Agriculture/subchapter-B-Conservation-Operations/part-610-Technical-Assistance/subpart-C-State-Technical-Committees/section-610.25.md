@@ -1,0 +1,9 @@
+##### § 610.25 Subcommittees and Local Working Groups. #####
+
+(a) *Subcommittees.* In some situations, specialized subcommittees, made up of State Technical Committee members, may be needed to analyze and examine specific issues. The State Conservationist may assemble certain members, including members of Local Working Groups and other knowledgeable individuals, to discuss, examine, and focus on a particular technical or programmatic topic. The subcommittee may seek public participation, but it is not required to do so. Nevertheless, recommendations resulting from these subcommittee sessions, other than sessions of Local Working Groups, will be made only in a general session of the State Technical Committee where the public is notified and invited to attend. Decisions resulting from recommendations of Local Working Groups will be communicated to NRCS in accordance with the standard operating procedures described in § 610.23(b).
+
+(b) *Local Working Groups.* (1) Local Working Groups will be composed of conservation district officials, agricultural producers representing the variety of crops and livestock or poultry raised within the local area, nonindustrial private forest land owners, and other professionals representing relevant agricultural and conservation interests and a variety of disciplines in the soil, water, plant, wetland, and wildlife sciences who are familiar with private land agricultural and natural resource issues in the local community;
+
+(2) Local Working Groups will provide recommendations on local natural resource priorities and criteria for conservation activities and programs; and
+
+(3) Local Working Groups will follow the standard operating procedures described in § 610.23(b).

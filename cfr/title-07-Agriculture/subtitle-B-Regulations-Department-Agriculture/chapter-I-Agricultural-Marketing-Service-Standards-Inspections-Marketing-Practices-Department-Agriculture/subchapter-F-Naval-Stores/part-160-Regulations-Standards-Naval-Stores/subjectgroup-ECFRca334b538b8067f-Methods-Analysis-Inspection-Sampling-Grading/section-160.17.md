@@ -1,0 +1,3 @@
+##### § 160.17 Laboratory analysis. #####
+
+The analysis and laboratory testing of naval stores shall be conducted, so far as is practicable, according to methods of the American Society for Testing Materials. When any such method is deemed to be insufficient or unsuitable or when no method has been so presented, the analysis shall be made according to any method deemed appropriate by the Administrator.

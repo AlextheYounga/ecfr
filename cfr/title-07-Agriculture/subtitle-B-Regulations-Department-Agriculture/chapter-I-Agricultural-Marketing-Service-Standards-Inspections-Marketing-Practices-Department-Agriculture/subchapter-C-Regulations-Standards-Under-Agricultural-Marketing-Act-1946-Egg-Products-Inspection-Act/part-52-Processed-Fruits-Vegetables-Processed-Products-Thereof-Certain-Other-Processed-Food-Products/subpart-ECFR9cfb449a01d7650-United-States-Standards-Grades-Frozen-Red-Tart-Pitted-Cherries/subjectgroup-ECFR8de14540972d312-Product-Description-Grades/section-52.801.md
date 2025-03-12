@@ -1,0 +1,3 @@
+##### § 52.801 Product description. #####
+
+Frozen red tart pitted cherries is the food prepared from properly matured cherries of the domestic (Prunus cerasus) red sour varietal group which have been washed, pitted, sorted, and properly drained; may be packed with or without a nutritive sweetened packing medium or any other substance permitted under the Federal Food, Drug, and Cosmetic Act, and are frozen and stored at temperatures necessary for the preservation of the product.

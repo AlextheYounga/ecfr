@@ -1,0 +1,3 @@
+##### § 922.70 Personal liability. #####
+
+No member or alternate member of the committee and no employee or agent of the committee shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any person for errors in judgment, mistakes, or other act, either of commission or omission, as such member, alternate, employee, or agent, except for acts of dishonesty, willful misconduct, or gross negligence.

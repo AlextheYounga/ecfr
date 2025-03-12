@@ -1,0 +1,3 @@
+##### § 3565.151 Eligible borrowers. #####
+
+Guaranteed loans must be made to an eligible borrower whose intention is to provide and maintain rural rental housing. The ownership entity must be a valid entity in good standing under the laws of the jurisdiction in which it is organized. Eligible borrowers shall include individuals, corporations, state or local public agencies or an instrumentality thereof, partnerships, limited liability companies, trusts, Indian tribes, or any organization deemed eligible by the Agency. Eligible borrowers must be U.S. citizens or permanent legal residents; a U.S. owned corporation, or a limited liability company, or partnership in which the principals are U.S. citizens or permanent legal residents.

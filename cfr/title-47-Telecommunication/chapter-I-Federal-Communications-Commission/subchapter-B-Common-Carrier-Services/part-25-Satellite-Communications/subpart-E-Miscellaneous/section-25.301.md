@@ -1,0 +1,5 @@
+##### § 25.301 Satellite Emergency Notification Devices (SENDs). #####
+
+No device described by the marketer or seller using the terms “SEND” or “Satellite Emergency Notification Device” may be marketed or sold in the United States unless it complies with the requirements of RTCM 12800.0. RTCM 12800.0, “Satellite Emergency Notification Devices (SENDs),” dated August 1, 2011 is incorporated by reference in accordance with 5 U.S.C. 552(a), and 1 CFR part 51. Copies of the document are available and may be obtained from the Radio Technical Commission for Maritime Services, 1611 N. Kent Street, Suite 605, Arlington, Virginia 22209. The document is available for inspection at Commission headquarters at 445 12th Street SW., Washington, DC 20554. Copies may also be inspected at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[81 FR 90745, Dec. 15, 2016]

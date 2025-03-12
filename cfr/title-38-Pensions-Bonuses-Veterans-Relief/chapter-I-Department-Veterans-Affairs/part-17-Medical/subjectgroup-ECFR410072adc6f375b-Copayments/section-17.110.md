@@ -1,6 +1,6 @@
 ##### § 17.110 Copayments for medication. #####
 
-Link to an amendment published at 81 FR 89390, Dec. 12, 2016.
+Link to an amendment published at 81 FR 89390, December 12, 2016.
 
 (a) *General.* This section sets forth requirements regarding copayments for medications provided to veterans by VA.
 

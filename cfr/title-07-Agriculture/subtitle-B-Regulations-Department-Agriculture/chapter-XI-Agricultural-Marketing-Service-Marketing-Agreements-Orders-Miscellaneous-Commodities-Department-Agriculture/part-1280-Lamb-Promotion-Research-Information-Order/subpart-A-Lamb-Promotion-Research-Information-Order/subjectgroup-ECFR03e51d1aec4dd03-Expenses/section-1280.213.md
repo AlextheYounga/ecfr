@@ -1,0 +1,3 @@
+##### § 1280.213 Investment of funds. #####
+
+The Board may invest, pending disbursement, funds it receives under this subpart, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a financial institution that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States. Income from any such investment may be used for any purpose for which the invested funds may be used.

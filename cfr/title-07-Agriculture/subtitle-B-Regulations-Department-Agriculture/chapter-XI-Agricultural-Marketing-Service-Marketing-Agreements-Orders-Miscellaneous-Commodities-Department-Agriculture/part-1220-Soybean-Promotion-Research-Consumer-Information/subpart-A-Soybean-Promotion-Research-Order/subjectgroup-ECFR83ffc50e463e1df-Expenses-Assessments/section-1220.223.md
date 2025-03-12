@@ -1,0 +1,33 @@
+##### § 1220.223 Assessments. #####
+
+(a)(1) Except as prescribed by regulations approved by the Secretary or as otherwise provided in this section, each first purchaser of soybeans shall collect an assessment from the producer, and each producer shall pay such assessment to the first purchaser, at the rate of one-half of one percent (0.5%) of the net market price of the soybeans purchased. Each first purchaser shall remit such assessment to the Board or to a Qualified State Soybean Board, as provided in paragraph (a)(5) of this section.
+
+(2) Any producer marketing processed soybeans or soybean products of that producer's own production, shall remit to a Qualified State Soybean Board or to the Board, as provided in paragraph (a)(5) of this section, an assessment on such soybeans or soybean products at a rate of one-half of one percent (0.5%) of the net market price of the soybeans involved or the equivalent thereof.
+
+(3) In determining the assessment due from each producer under paragraph (a)(1) or (a)(2) of this section, a producer who is contributing to a Qualified State Soybean Board shall receive a credit from the Board for contributions to such Qualified State Soybean Board on any soybeans assessed under this section in an amount not to exceed one-quarter of one percent of the net market price of the soybeans assessed.
+
+(4) In order for a producer to receive the credit provided for in paragraph (a)(3) of this section, the Qualified State Soybean Board or the first purchaser must establish to the satisfaction of the Board that the producer has contributed to a Qualified State Soybean Board.
+
+(5)(i) If the soybeans, for which an assessment is paid, were grown in a State other than the State which is the situs of the first purchaser, the first purchaser that collects the assessment shall remit the assessment and information as to the State of origin of the soybeans to the Qualified State Soybean Board operating in the State in which the first purchaser is located. The Qualified State Soybean Board operating in the State in which the first purchaser is located shall remit such assessments to the Qualified State Soybean Board operating in the State in which the soybeans were grown. If no such Qualified State Soybean Board exists in such State, then the assessments shall be remitted to the Board. The Board, with the approval of the Secretary, may authorize Qualified State Soybean Boards to propose modifications to the foregoing “State of Origin” rule to ensure effective coordination of assessment collections between Qualified State Soybean Boards.
+
+(ii)(A) If a producer pledges soybeans grown by that producer as collateral for a loan issued by the Commodity Credit Corporation and if that producer forfeits said soybeans in lieu of loan repayment, the Commodity Credit Corporation shall at the time of the loan settlement, collect from the producer the assessments due based on 0.5 percent of the principal loan amount received by the producer and remit the assessment to the Qualified State Soybean Board in the State in which the soybeans were pledged, or if no Qualified State Soybean Board exists in such State, the Board.
+
+(B) If a producer redeems and subsequently markets soybeans which have been pledged as collateral for a loan issued by the Commodity Credit Corporation, the first purchaser shall collect and remit the assessments due pursuant to paragraph (a)(1) of this section; or if a producer markets such soybeans as processed soybeans or as soybean products, the producer shall remit the assessment pursuant to paragraph (a)(2) of this section.
+
+(iii) Qualified State Soybean Boards and the Board shall coordinate assessment collection procedures to ensure that producers marketing soybeans are required to pay only one assessment per bushel of soybeans and collections are adjusted among States on a mutually agreeable basis.
+
+(b) The collection of assessments pursuant to paragraph (a) of this section, shall commence on and after the date assessments are required to be paid and shall continue until terminated by the Secretary. If the Board is not constituted on the date the first assessments are to be collected, the Secretary shall have the authority to receive the assessments on behalf of the Board, and to hold such assessments until the Board is constituted, then remit such assessments to the Board.
+
+(c)(1) Each person responsible for the collection of assessments under paragraph (a) of this section, shall collect and remit the assessments to the Board or a Qualified State Soybean Board on a monthly basis or as required by State law, but no less than quarterly, unless the Board, with the approval of the Secretary, has specifically authorized otherwise.
+
+(2) Any unpaid assessments due the Board or a Qualified State Soybean Board from a person responsible for remitting assessments to the Board or a Qualified State Soybean Board pursuant to paragraph (a) of this section, shall be increased two percent (2%) each month beginning with the day following the date such assessments were due under this subpart. Any remaining amount due shall be increased at the same rate on the corresponding day of each month thereafter until paid.
+
+(3) The amounts payable pursuant to this section shall be computed monthly on unpaid assessments and shall include any unpaid late charges previously applied pursuant to this section.
+
+(4) For the purpose of this section, any assessment that was determined at a date later than prescribed by this subpart because of a person's failure to submit a report to the Board or a Qualified State Soybean Board when due, shall be considered to have been payable by the date it would have been due if the report had been filed when due.
+
+(d) Prior to the continuance referendum, the Board, pursuant to procedures approved by the Secretary, shall ensure that each Qualified State Soybean Board is provided credit in accordance with the provisions of section 1969(n)(1) and subject to section 1969(n)(3) of the Act.
+
+(e) Following the continuance referendum, the Board, pursuant to procedures approved by the Secretary, shall ensure annually that each Qualified State Soybean Board is provided credit in accordance with the provisions of section 1969(n)(2) and subject to section 1969(n)(3) of the Act.
+
+[56 FR 31049, July 9, 1991, as amended at 56 FR 42923, Aug. 30, 1991; 57 FR 31096, July 14, 1992]

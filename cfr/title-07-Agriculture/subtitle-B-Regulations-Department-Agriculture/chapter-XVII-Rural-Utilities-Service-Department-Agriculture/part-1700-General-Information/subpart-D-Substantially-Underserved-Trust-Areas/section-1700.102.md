@@ -1,0 +1,3 @@
+##### § 1700.102 Eligible programs. #####
+
+SUTA does not apply to all RUS programs. SUTA only applies to eligible programs. An eligible program means a program administered by RUS and authorized in paragraph (a) of the RE Act, or paragraphs (b)(1), (2), (14), (22), or (24) of section 306(a) (7 U.S.C. 1926(a)(1), (2), (14), (22), (24)), or sections 306A, 306C, 306D, or 306E of the Con Act (7 U.S.C. 1926a, 1926c, 1926d, 1926e).

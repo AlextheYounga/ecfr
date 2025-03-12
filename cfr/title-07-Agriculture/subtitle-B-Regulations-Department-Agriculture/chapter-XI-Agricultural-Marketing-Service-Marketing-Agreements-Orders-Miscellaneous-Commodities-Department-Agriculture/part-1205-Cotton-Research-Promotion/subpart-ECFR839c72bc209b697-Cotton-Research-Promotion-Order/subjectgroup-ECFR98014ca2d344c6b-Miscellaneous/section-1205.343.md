@@ -1,0 +1,7 @@
+##### § 1205.343 Suspension and termination. #####
+
+(a) The Secretary will, whenever the Secretary finds that this subpart or any provision thereof obstructs or does not tend to effectuate the declared policy of the Act, terminate or suspend the operation of this subpart or such provision.
+
+(b) The Secretary may conduct a referendum at any time, and shall hold a referendum on request of 10 percent or more of the number of cotton producers and importers (if subject to the Order) voting in the most recent referendum, to determine whether cotton producers and importers subject to the Order favor the suspension or termination of this subpart, except that in counting such request for a referendum, not more than 20 percent of such request may be from producers from any one state or importers of cotton (if subject to the Order). The Secretary shall suspend or terminate such subpart at the end of the marketing year whenever the Secretary determines that its suspension or termination is approved or favored by a majority of producers and importers subject to the Order voting in such referendum who, during a representative period determined by the Secretary, have been engaged in the production or importation of cotton, and who produced and imported more than 50 percent of the volume of cotton produced and imported by those voting in the referendum.
+
+[56 FR 64474, Dec. 10, 1991]

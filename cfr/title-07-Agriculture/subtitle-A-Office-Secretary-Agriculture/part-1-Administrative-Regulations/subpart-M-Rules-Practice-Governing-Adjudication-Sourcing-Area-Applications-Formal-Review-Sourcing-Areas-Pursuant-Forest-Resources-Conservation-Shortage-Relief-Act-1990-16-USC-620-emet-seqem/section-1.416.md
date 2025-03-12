@@ -1,0 +1,3 @@
+##### § 1.416 Comment period. #####
+
+Written comments on a sourcing area application or on a formal review of a sourcing area shall include the docket number and may be submitted to the Judge for 30 calendar days following publication of the notice. Persons submitting comments shall send a copy of the comments to the Regional Forester of the region in which the manufacturing facility being sourced is located. All comments must be received by the Judge and by the Regional Forester by the 30th day of the comment period.

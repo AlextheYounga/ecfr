@@ -1,0 +1,3 @@
+##### § 330.200 Movement of plant pests regulated; permits required. #####
+
+No person shall knowingly move any plant pest into or through the United States from any place outside thereof, or interstate, or knowingly accept delivery of any plant pest so moving unless such movement is authorized under permit under this part and is made in accordance with the conditions therein and the provisions in this part. The movement of snails and slugs, as well as other plant pests, is governed by such provisions. Biological specimens of plant pests, in preservative or dried, may be imported without further restriction under this part, but subject to inspection on arrival in the United States to confirm the nature of the material and freedom from risk of plant pest dissemination.

@@ -1,0 +1,5 @@
+##### § 1717.611 RUS approval of expenditures for legal, accounting, engineering, and supervisory services. #####
+
+(a) If a borrower's mortgage or loan contract requires the borrower to obtain approval from RUS before incurring expenses for legal, accounting, supervisory (other than for the management and operation of the borrower's electric system, see § 1717.608(d)), or other similar services, such approval is hereby granted. However, while expenditures for accounting do not require RUS approval, the selection of a certified public accountant by the borrower to prepare audited reports required by RUS remains subject to RUS approval.
+
+(b) If a borrower's mortgage or loan contract requires the borrower to obtain approval from RUS before incurring expenses for engineering services, such approval is hereby granted if such services will not be financed by RUS. Approval requirements with respect to engineering services financed by RUS are set forth in other RUS regulations.

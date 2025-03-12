@@ -1,0 +1,3 @@
+##### § 1779.12 Inspections. #####
+
+The lender will notify the Agency of any scheduled field inspections during construction and after issuance of the Loan Note Guarantee. The Agency may attend such field inspections. Any inspections or review conducted by the Agency, including those with the lender, are for the benefit of the Agency only and not for the benefit of other parties in interest. Agency inspections do not relieve any parties in interest of their responsibilities to conduct necessary inspections.

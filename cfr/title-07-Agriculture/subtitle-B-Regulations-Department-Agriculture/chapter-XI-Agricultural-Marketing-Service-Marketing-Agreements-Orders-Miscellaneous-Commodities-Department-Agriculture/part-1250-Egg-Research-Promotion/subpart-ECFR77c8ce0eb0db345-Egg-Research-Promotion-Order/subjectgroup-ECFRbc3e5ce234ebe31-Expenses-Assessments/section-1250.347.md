@@ -1,0 +1,5 @@
+##### § 1250.347 Assessments. #####
+
+Each handler designated in § 1250.349 and pursuant to regulations issued by the Board shall collect from each producer, except for those producers specifically exempted in § 1250.348, and shall pay to the Board at such times and in such manner as prescribed by regulations issued by the Board an assessment at a rate not to exceed 10 cents per 30-dozen case of eggs, or the equivalent thereof, for such expenses and expenditures, including provisions for a reasonable reserve and those administrative costs incurred by the Department of Agriculture after this subpart is effective, as the Secretary finds are reasonable and likely to be incurred by the Board and the Secretary under this subpart, except that no more than one such assessment shall be made on any case of eggs.
+
+[59 FR 64560, Dec. 15, 1994]

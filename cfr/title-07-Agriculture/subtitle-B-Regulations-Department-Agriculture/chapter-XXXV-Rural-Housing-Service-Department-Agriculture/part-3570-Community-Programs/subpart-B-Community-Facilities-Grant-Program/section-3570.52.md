@@ -1,0 +1,3 @@
+##### § 3570.52 Purpose. #####
+
+The purpose of CFG program is to assist in the development of essential community facilities in rural areas. The Agency will authorize grant funds on a graduated basis. Eligible applicants located in smaller communities with lower populations and lower median household incomes may receive a higher percentage of grant funds. The amount of CFG funds provided for a facility shall not exceed 75 percent of the cost of developing the facility.

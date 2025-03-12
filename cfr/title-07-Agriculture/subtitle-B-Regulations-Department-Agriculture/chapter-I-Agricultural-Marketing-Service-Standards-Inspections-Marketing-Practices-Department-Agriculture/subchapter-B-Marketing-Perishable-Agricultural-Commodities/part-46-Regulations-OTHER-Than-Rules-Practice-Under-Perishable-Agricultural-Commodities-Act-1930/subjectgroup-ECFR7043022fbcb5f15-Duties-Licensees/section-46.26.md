@@ -1,0 +1,3 @@
+##### § 46.26 Duties of licensees. #####
+
+It is impracticable to specify in detail all of the duties of brokers, commission merchants, joint account partners, growers' agents and shippers because of the many types of businesses conducted. Therefore, the duties described in these regulations are not to be considered as a complete description of all of the duties required but is merely a description of their principal duties. The responsibility is placed on each licensee to fully perform any specification or duty, express or implied, in connection with any transaction handled subject to the Act.

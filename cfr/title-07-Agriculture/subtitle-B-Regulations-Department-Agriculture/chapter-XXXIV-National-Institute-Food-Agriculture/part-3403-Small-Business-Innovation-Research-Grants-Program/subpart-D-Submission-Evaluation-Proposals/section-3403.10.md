@@ -1,0 +1,13 @@
+##### § 3403.10 Proposal review. #####
+
+(a) The receipt of all proposals will be acknowledged.
+
+(b) All Phase I and II proposals will be evaluated and judged on a competitive basis. Proposals will be initially screened to determine responsiveness. Proposals passing this initial screening will be technically evaluated by scientists to determine the most promising technical and scientific approaches. Each proposal will be judged on its own merit. USDA is under no obligation to fund any proposal or any specific number of proposals in a given topic. It also may elect to fund several or none of the proposed approaches to the same topic or subtopic.
+
+(c) Phase I and II proposal evaluation criteria will be published in the “Method of Selection and Evaluation Criteria” section of the program solicitation.
+
+(d) External peer reviewers may be used during the technical evaluation stage of this process. Selections will be made from among recognized specialists who are uniquely qualified by training and experience in their respective fields to render expert advice on the merit of proposals received. It is anticipated that such experts will include those located in universities, government, and nonprofit research organizations. If possible, USDA intends that peer review groups shall be balanced with minority and female representation and with an equitable age distribution.
+
+(e) Reviewers will base their conclusions and recommendations on information contained in the Phase I or Phase II proposal. It cannot be assumed that reviewers are acquainted with any experiments referred to within a proposal, with key individuals, or with the firm itself. Therefore, the proposals should be self-contained and written with the care and thoroughness accorded papers for publication.
+
+(f) Final decisions will be made by USDA based upon the rating assigned by reviewers in consideration of the technical and commercial potential of the application, duplication of research, any critical USDA requirements, resubmission and budget limitation. In the event that two or more proposals are of approximately equal merit, the existence of a cooperative research and development agreement (CRADA) with a USDA laboratory will be an important consideration. The existence of a follow-on funding commitment for continued development in Phase III will also be an important consideration. The value of any commitment will depend upon the degree of financial commitment made by investors, with the maximum value resulting from a signed agreement with reasonable terms for an amount at least equal to funding requested from USDA in Phase II.

@@ -1,0 +1,5 @@
+##### § 1951.251 Purpose. #####
+
+This subpart prescribes the policies to be followed when analyzing a direct borrower's need for continued Agency supervision, further credit, and graduation. All loan accounts will be reviewed for graduation in accordance with this subpart, with the exception of Guaranteed, Rural Development Loan Funds, and Rural Rental Housing loans made to build or acquire new units pursuant to contracts entered into on or after December 15, 1989, and Intermediary Relending Program loans. The term “Agency” used in this subpart refers to theRural Housing Service (RHS), or Rural Business-Cooperative Service (RBS), depending upon the loan program discussed herein. This subpart does not apply to Farm Service Agency, Farm Loan Programs and to RHS direct single family housing (SFH) customers. In addition, this subpart does not apply to Water and Waste Programs of the Rural Utilities Service, Watershed loans, Resource Conservation and Development loans, which are serviced under part 1782 of this title.
+
+[72 FR 55018, Sept. 28, 2007, as amended at 72 FR 64123, Nov. 15, 2007]

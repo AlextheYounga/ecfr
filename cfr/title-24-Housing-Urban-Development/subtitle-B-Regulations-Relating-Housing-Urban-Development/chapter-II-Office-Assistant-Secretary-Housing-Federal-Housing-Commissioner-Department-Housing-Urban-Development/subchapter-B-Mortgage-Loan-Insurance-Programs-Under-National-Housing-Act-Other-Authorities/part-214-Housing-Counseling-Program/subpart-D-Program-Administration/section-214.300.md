@@ -1,7 +1,5 @@
 ##### § 214.300 Counseling services. #####
 
-Link to an amendment published at 81 FR 90658, December 14, 2016.
-
 (a) *Basic requirements.* (1) Agencies must provide counseling to current and potential homeowners and tenants to assist them in improving their housing conditions and in meeting the responsibilities of homeownership or tenancy.
 
 (2) Except for reverse mortgage counseling, housing counselors and clients must establish an action plan for each counseling client.
@@ -13,6 +11,12 @@ Link to an amendment published at 81 FR 90658, December 14, 2016.
 (5) With prior approval from HUD, a network of affiliated counselors or a HUD roster of counselors, designed to meet a special housing counseling need, may be permitted to provide specified types of counseling nationally.
 
 (6) All participating agencies that offer group educational sessions must also offer individual counseling on the same topics covered in the group educational sessions.
+
+(7) All participating agencies that provide homeownership counseling, shall address the entire process of homeownership, including, but not limited to, the decision to purchase a home, the selection and purchase of a home, the home inspection process, issues arising during or affecting the period of ownership of a home (including, but not limited to, financing, refinancing, default, and foreclosure, and other financial decisions), and the sale or other disposition of a home.
+
+(8) All participating agencies that provide rental housing counseling shall address issues related to the rental of residential property, which may include counseling regarding future homeownership opportunities, the decision to rent, responsibilities of tenancy, affordability of renting, and eviction prevention.
+
+(9) As part of the homeownership counseling process, participating agencies shall provide clients with such materials as HUD may require regarding the availability and importance of obtaining an independent home inspection.
 
 (b) *Counseling services.* For each client, all agencies participating in HUD's Housing Counseling program shall offer the following basic services:
 
@@ -37,3 +41,5 @@ Link to an amendment published at 81 FR 90658, December 14, 2016.
 (4) Rental topics, including, but not limited to: HUD rental and rent subsidy programs; other federal, state or local assistance; fair housing; housing search assistance; landlord tenant laws; lease terms; rent delinquency; and
 
 (5) Homeless assistance, including, but not limited to: Information regarding emergency shelter, other emergency services, and transitional housing.
+
+[72 FR 55648, Sept. 28, 2007, as amended at 81 FR 90658, Dec. 14, 2016]

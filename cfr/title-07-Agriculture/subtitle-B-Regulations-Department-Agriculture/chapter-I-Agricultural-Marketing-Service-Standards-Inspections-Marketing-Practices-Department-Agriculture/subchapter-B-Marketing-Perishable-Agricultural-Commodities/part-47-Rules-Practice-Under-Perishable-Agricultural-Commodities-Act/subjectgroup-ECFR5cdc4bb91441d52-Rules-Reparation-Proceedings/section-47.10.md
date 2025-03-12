@@ -1,0 +1,3 @@
+##### § 47.10 Docketing of proceeding. #####
+
+Immediately following the expiration of the period of time heretofore prescribed for the filing of the answer or reply, the Fruit and Vegetable Programs shall transmit all of the papers which have been filed in the proceeding to the Hearing Clerk, who shall assign a docket number to the proceeding. Thereafter the proceeding may be identified by such number.

@@ -1,0 +1,3 @@
+##### § 927.75 Liability. #####
+
+No member or alternate for a member of the Fresh Pear Committee or the Processed Pear Committee, nor any employee or agent thereof, shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any party under this subpart or to any other person for errors in judgment, mistakes, or other acts, either of commission or omission, as such member, alternate for a member, agent or employee, except for acts of dishonesty, willful misconduct, or gross negligence.

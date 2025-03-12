@@ -1,0 +1,3 @@
+##### § 1221.13 Importer. #####
+
+*Importer* means any person importing more than 1,000 bushels of grain sorghum; or 5,000 tons of sorghum forage, sorghum hay, sorghum haylage, sorghum billets, or sorghum silage into the United States in a calendar year as a principal or as an agent, broker, or consignee of any person who produces or purchases sorghum outside of the United States for sale in the United States, and who is listed as the importer of record for such sorghum.

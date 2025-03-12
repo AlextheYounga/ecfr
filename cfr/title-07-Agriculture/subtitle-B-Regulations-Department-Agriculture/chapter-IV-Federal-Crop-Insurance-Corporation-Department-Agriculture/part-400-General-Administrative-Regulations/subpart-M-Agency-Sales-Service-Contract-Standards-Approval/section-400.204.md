@@ -1,0 +1,3 @@
+##### § 400.204 Notification of deviation from standards. #####
+
+A Contractor shall advise the Corporation immediately if the Contractor deviates from the requirements of these standards. The Corporation may require the Contractor to show compliance with these standards during the contract year if the Corporation determines that such submission is necessary. If the Corporation determines that the deviation is temporary, the Corporation may grant a temporary waiver pending compliance within a specified period of time. A waiver of any provision of these standards will not be granted to an applicant for a contract.

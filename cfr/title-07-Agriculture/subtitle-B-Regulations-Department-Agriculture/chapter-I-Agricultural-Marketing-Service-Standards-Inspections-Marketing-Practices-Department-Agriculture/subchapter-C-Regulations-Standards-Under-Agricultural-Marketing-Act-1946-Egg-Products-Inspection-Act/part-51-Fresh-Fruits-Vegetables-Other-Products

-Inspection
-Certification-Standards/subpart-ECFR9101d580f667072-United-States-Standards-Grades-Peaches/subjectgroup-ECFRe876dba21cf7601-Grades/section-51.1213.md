@@ -1,0 +1,3 @@
+##### § 51.1213 U.S. No. 2. #####
+
+“U.S. No. 2” consists of peaches of one variety which are mature but not soft or overripe, not badly misshapen, and which are free from decay, cuts which are not healed, worms, worm holes, and free from serious damage caused by bruises, dirt or other foreign material, bacterial spot, scab, scale, growth cracks, hail injury, leaf or limb rubs, split pits, other disease, insects, or mechanical or other means.

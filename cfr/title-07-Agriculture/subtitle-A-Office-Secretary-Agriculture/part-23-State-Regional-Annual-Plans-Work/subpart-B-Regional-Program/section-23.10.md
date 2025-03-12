@@ -1,0 +1,7 @@
+##### § 23.10 Administration. #####
+
+(a) The Regional Programs will be administered through four Regional Rural Development Centers hereafter referred to as “Regional Centers” in cooperation with the National Institute of Food and Agriculture. The Director of each Regional Center shall be responsible for compliance with all appropriate provisions of title V and the regulations of this subpart. Regions as delineated for purposes under section 503(b)(2) will be coterminous with the regional delineation by the National Association of State Universities and Land Grant Colleges. Each Regional Center will be established by the regional association of State Agricultural Experiment Station Directors and the regional organization of Cooperative Extension Directors in the region to be served by the Regional Center. These associations and organizations will designate the location of the Regional Center.
+
+(b) Although the Regional Center will administer the program, it is also expected that it will draw on expertise from outside the Regional Center. The Director of each Regional Center shall seek advice and assistance from regional and subregional committees, groups or persons who can contribute to the Regional Center's program.
+
+[38 FR 29023, Oct. 18, 1973, as amended at 76 FR 4804, Jan. 27, 2011]

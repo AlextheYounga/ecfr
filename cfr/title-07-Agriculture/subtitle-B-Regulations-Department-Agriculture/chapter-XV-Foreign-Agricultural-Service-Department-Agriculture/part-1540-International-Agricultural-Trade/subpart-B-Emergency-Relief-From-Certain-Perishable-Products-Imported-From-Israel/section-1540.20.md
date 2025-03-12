@@ -1,0 +1,3 @@
+##### § 1540.20 Applicability of subpart. #####
+
+This subpart applies to requests filed with the Department of Agriculture under section 404 of the Trade and Tariff Act of 1984, Pub. L. 98-573, for emergency relief from imports of certain perishable products from Israel entering the United States at a reduced rate of duty or duty-free pursuant to a trade agreement between the United States and Israel entered into under section 102(b)(1) of the Trade Act of 1974, as amended.

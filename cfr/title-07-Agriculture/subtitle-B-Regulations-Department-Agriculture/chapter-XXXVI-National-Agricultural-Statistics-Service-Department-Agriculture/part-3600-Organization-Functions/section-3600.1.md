@@ -1,0 +1,3 @@
+##### § 3600.1 General. #####
+
+The National Agricultural Statistics Service (NASS) was established on April 17, 1986, by Secretary's Memorandum 1020-24, which renamed the Statistical Reporting Service concurrent with an internal restructuring. Primary NASS responsibilities are development and dissemination of national and State agricultural statistics, statistical research, and coordination of Department statistical programs.

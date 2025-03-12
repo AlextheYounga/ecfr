@@ -1,0 +1,5 @@
+##### § 1955.2 Policy. #####
+
+When it has been determined in accordance with applicable loan servicing regulations that further servicing will not achieve loan objectives and that voluntary sale of the property by the borrower (except for Multiple Family Housing (MFH) loans subject to prepayment restrictions) cannot be accomplished, the loan(s) will be liquidated through voluntary conveyance of the property to Rural Development or by foreclosure as outlined in this subpart. For MFH loans subject to the prepayment restrictions, voluntary liquidation may be accomplished only through voluntary conveyance to Rural Development in accordance with applicable portions of § 1955.10 of this subpart. Nonprogram (NP) loans, except for Community and Business Programs, will be liquidated as provided in subpart J of part 1951 of this chapter, unless specifically referenced in this subpart.
+
+[51 FR 4138, Feb. 3, 1986, as amended at 53 FR 27826, July 25, 1988; 58 FR 52652, Oct. 12, 1993]

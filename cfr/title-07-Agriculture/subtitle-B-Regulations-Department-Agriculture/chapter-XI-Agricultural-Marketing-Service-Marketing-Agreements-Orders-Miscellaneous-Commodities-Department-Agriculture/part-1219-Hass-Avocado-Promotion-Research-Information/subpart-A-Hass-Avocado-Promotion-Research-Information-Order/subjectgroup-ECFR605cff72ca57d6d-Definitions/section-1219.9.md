@@ -1,0 +1,3 @@
+##### § 1219.9 First handler. #####
+
+*First handler* means a person operating in the Hass avocado marketing system that sells domestic or imported Hass avocados for consumption in the United States and who is responsible for remitting assessments to the Board. For the purposes of the Order, the term means the first person who handles Hass avocados for sale (except a common or contract carrier of Hass avocados owned by another person), including a producer who handles Hass avocados for sale of the producer's own production.

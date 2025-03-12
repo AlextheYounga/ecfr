@@ -1,0 +1,3 @@
+##### § 1717.605 Design standards, plans and specifications, construction standards, and RUS accepted materials. #####
+
+All borrowers, regardless of the source of funding, are required to comply with applicable RUS requirements with respect to system design, construction standards, and the use of RUS accepted materials. Borrowers must comply with applicable RUS requirements with respect to plans and specifications only if the construction or procurement will be financed by RUS. These requirements are set forth in other RUS regulations, especially in 7 CFR parts 1724 and 1728.

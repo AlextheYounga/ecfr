@@ -1,0 +1,5 @@
+##### § 1405.7 Uruguay Round Agreements Act. #####
+
+In the event the outlays by the United States for domestic support measures will exceed, in any required reporting period, the allowable levels under the Uruguay Round Agreements (as defined in section 2 of the Uruguay Round Agreements Act), CCC will, as determined by the Secretary of Agriculture, reduce the amount of payments and benefits to be made in any such reporting period, and/or collect a refund of payments or benefits previously made with respect to such reporting period, under parts 1412, 1413, 1421, 1427, 1430, 1434 and 1435 of this chapter in order to ensure that the level of domestic support provided by the United States complies with the commitments of the United States in the Uruguay Round Agreements.
+
+[67 FR 64751, Oct. 21, 2002]

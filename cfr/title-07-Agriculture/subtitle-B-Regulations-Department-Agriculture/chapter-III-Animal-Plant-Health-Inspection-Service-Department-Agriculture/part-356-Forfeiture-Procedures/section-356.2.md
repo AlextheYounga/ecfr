@@ -1,0 +1,3 @@
+##### § 356.2 Appraisement. #####
+
+Promptly following the seizure or other receipt of property specified in § 356.1, the Deputy Administrator shall determine the retail value of such property in the same quantity or quantities as seized. If the property may lawfully be sold in the United States, the value thereof shall be determined by ascertaining the price at which the property or similar property in the ordinary course of trade is freely offered for sale at the time of appraisement, and at a principal market as close as possible to the place of appraisement. If the property may not lawfully be sold in the United States, the value thereof shall be determined by other reasonable means.

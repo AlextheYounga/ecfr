@@ -1,0 +1,7 @@
+##### § 634.12 Eligible project areas. #####
+
+(a) Only those project areas which are included in an approved agricultural portion of a 208 water quality management plan, or revised portions thereof, and have identified agricultural nonpoint source water quality problems are eligible for authorization under RCWP. Those critical areas or sources of pollutants significantly contributing to the water quality problems are eligible for financial and technical assistance.
+
+(b) The management agency designated by the Governor under section 208(c)(1) of the Act to implement the agricultural portion of the 208 plan must assure in writing in the project application that there will be an adequate level of participation by land owners or operators with critical areas or sources in a project area.
+
+(c) An RCWP project area is a hydrologically related land area. Exceptions may be made for ease of administration, or to focus on concentrated critical areas. To be designated as an RCWP project area eligible for authorization, the area's water quality problems must be related to agricultural nonpoint source pollutants, including sediment animal waste, irrigation return flows, runoff, or leachate that contain high concentrations of nitrogen, phosphorus, dissolved solids, toxics (pesticides and heavy metals), or high pathogen levels. Generally, the project areas will be less than 200,000 acres.

@@ -1,0 +1,3 @@
+##### § 75.24 Disposition of inspection certificate. #####
+
+Upon issuance, the original and one copy of each inspection certificate shall be delivered or mailed to the applicant or otherwise delivered or mailed in accordance with the applicant's instructions. One copy of each inspection certificate shall be filed in the Federal Seed Laboratory. In case of a lost or destroyed certificate, a duplicate thereof labeled as such may be issued under the same number, date, and name.

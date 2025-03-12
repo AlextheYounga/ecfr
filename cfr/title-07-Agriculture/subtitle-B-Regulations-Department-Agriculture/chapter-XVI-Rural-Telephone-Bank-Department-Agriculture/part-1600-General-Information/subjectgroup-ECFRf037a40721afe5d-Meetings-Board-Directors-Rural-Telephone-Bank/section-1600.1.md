@@ -1,0 +1,3 @@
+##### § 1600.1 General. #####
+
+The purpose of this part is to effectuate the provisions of the Government in the Sunshine Act. This part applies to the deliberations of a quorum of the Directors of the Bank required to take action on behalf of the Bank where such deliberations determine or result in the joint conduct or disposition of official Bank business. Any deliberation to which this part applies is hereinafter in this part referred to as a meeting of the Board of Directors.

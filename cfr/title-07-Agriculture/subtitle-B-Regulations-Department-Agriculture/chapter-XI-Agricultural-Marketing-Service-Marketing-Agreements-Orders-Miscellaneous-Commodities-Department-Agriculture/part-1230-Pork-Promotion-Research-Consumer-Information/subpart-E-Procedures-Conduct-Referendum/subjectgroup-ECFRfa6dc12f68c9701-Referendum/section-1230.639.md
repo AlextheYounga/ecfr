@@ -1,0 +1,19 @@
+##### § 1230.639 Additional absentee voter challenge period. #####
+
+(a) *Absentee Voter Request List.* The Absentee Voter Request List (Form LS-74) will be available for inspection during an additional challenge period of five business days (October 23, 2000-October 27, 2000) at county FSA offices. The Absentee Voter Request List will be posted daily during regular office hours in a conspicuous public location at FSA county offices during the additional challenge period.
+
+(b) *Who can challenge.* Any person can challenge a producer's vote during the period provided in paragraph (a) of this section. Any person who wants to challenge shall do so in writing and shall include the full name of the individual or corporation or other entity being challenged. Each challenge of a producer vote must be made on a separate sheet of paper and each challenge must be signed by the challenger. The identity of the challenger will be kept confidential except as the Secretary may direct or as otherwise required by law.
+
+(c) *Who can be challenged.* Any person whose name is on the Absentee Voter Request List who was not subject to challenge during the September 19, 2000, through October 2, 2000, challenge period may be challenged. Those producers whose names were listed on the Absentee Voter Request List and who were subject to challenge because the Absentee Voter Request List indicated they had returned their ballot are not subject to challenge during this additional 5-day period.
+
+(d) *Notification of challenges.* The FSA County Committee or its representative, acting on behalf of the Administrator, AMS, will notify challenged producers as soon as practicable, but no later than the 2nd business day (October 31, 2000) after the last day of the additional challenge period. FSA county offices will notify all challenged persons that documentation such as sales documents, tax records, or other similar documents proving that the person owned and sold hogs or pigs during the representative period must be submitted or his or her vote will not be counted. The documentation must be provided to FSA county offices not later than November 7, 2000.
+
+(e) *Determination of challenges.* The FSA County Committee or its representative, acting on behalf of the Administrator, AMS, will make a determination concerning the challenge based on documentation provided by the producer and will notify challenged producers as soon as practicable but no later than November 9, 2000.
+
+(f) *Challenged ballot.* A challenge to a ballot shall be deemed to have been resolved if the determination of the FSA County Committee or its representative, acting on behalf of the Administrator, AMS, is not appealed within the time allowed for appeal or there has been a determination by the Administrator, AMS, after an appeal.
+
+(g) *Appeal.* A person declared to be ineligible to register and vote by the FSA County Committee or its representative, acting on behalf of the Administrator, AMS, can file an appeal at the FSA county office not later than November 17, 2000. The FSA county office shall send a producer's appeal by facsimile to the Administrator, AMS, on the date it is filed at the FSA office or as soon as practical thereafter.
+
+(h) *Determination of appeals.* An appeal will be determined by the Administrator, AMS, as soon as practical, but in all cases not later than the 45th business day (November 28, 2000) after the date of the last day of the voting period. The Administrator, AMS, shall send her decision on a producer's appeal to the FSA county office where the producer was initially challenged. The FSA county office shall notify the challenged producer of the Administrator's, AMS, determination on his or her appeal. The Administrator's, AMS, determination on an appeal shall be final.
+
+[65 FR 62579, Oct. 19, 2000]

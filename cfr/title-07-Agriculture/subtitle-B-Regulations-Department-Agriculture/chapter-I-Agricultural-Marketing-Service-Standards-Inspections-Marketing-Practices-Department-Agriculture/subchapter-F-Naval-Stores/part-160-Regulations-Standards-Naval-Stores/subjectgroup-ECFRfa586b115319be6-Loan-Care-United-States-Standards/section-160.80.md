@@ -1,0 +1,3 @@
+##### § 160.80 Denial of loan of additional standards. #####
+
+It shall be deemed impracticable under the act to loan additional duplicates to any person who has permitted duplicates previously loaned to him, without security, to become lost, damaged, or destroyed, if in the opinion of the Administrator, such loss, damage, or destruction resulted from any failure on the part of the interested person or his agent to take suitable precaution to prevent the loss, damage, or destruction, or when the available supply of duplicates is deemed insufficient to warrant the loan of additional duplicates to such person.

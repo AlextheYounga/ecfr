@@ -1,0 +1,3 @@
+##### § 1.165 Amendments. #####
+
+Amendments to the complaint may be made prior to the filing of an answer in which case the time for filing the answer shall be extended 20 days or for other time agreed to by the parties. After the answer is filed, amendments to the complaint, or to the answer or other pleading, may be made by agreement of the parties or allowed at the discretion of the Judge. In case of an amendment which significantly changes the issues, the hearing shall, on the request of a party, be postponed or adjourned for a reasonable period, if the Judge determines that such action is necessary to avoid prejudice to the party.

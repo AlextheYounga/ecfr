@@ -1,6 +1,6 @@
 ##### 8.406-1 Order placement. #####
 
-(a) Ordering activities may place orders orally, except for -
+(a) Ordering activities may place orders orally, except for—
 
 (1) Supplies and services not requiring a statement of work exceeding the simplified acquisition threshold;
 
@@ -28,22 +28,24 @@
 
 (7) Special item number or national stock number.
 
-(8) A statement of work for services, when required, or a brief, complete description of each item (when ordering by model number, features and options such as color, finish, and electrical characteristics, if available, must be specified).
+(8) Line item or subline item.
 
-(9) Quantity and any variation in quantity.
+(9) A statement of work for services, when required, or a brief, complete description of each item (when ordering by model number, features and options such as color, finish, and electrical characteristics, if available, must be specified).
 
-(10) Number of units.
+(10) Quantity and any variation in quantity.
 
-(11) Unit price.
+(11) Number of units.
 
-(12) Total price of order.
+(12) Unit price.
 
-(13) Points of inspection and acceptance.
+(13) Total price of order.
 
-(14) Other pertinent data; *e.g.,* delivery instructions or receiving hours and size-of-truck limitation.
+(14) Points of inspection and acceptance.
 
-(15) Marking requirements.
+(15) Other pertinent data; *e.g.,* delivery instructions or receiving hours and size-of-truck limitation.
 
-(16) Level of preservation, packaging, and packing.
+(16) Marking requirements.
 
-[76 FR 14557, Mar. 16, 2011]
+(17) Level of preservation, packaging, and packing.
+
+[76 FR 14557, Mar. 16, 2011, as amended at 82 FR 4713, Jan. 13, 2017]

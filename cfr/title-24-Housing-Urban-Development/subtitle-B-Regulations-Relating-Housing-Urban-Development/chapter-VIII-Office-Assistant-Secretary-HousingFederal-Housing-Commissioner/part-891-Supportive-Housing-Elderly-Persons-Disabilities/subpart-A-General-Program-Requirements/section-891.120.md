@@ -1,6 +1,6 @@
 ##### § 891.120 Project design and cost standards. #####
 
-Link to an amendment published at 81 FR 92638, December 20, 2016.
+Link to an amendment published at 81 FR 92638, December 20, 2016.Link to a correction of the above amendment published at 82 FR 3623, January 12, 2017.
 
 In addition to the special project standards described in §§ 891.210 and 891.310, as applicable, the following standards apply:
 

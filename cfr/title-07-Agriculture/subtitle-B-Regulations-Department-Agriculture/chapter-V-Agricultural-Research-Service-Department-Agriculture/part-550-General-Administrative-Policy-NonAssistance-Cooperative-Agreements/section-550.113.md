@@ -1,0 +1,3 @@
+##### § 550.113 Rules of the workplace. #####
+
+Cooperator employees, while engaged in work at REE facilities, will abide by the Agency's standard operating procedures with regard to the maintenance of laboratory notebooks, dissemination of information, equipment operation standards, facility access, hours of work, Federal agency required training, and the Rules and Regulations Governing Conduct on Federal Property (41 CFR part 102-74, subpart C). Cooperator employees will also undergo any background investigations/clearances, and submit to any health monitoring medical surveillance requirements associated with the REE facility where they will work.

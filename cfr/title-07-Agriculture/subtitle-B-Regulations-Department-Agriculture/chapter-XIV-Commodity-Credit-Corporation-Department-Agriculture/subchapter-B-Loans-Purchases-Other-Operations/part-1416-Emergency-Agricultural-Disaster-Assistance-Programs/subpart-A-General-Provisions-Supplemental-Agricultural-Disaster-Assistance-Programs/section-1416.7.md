@@ -1,0 +1,5 @@
+##### § 1416.7 Misrepresentation. #####
+
+(a) A participant who is determined to have deliberately misrepresented any fact affecting a program determination made in accordance with this part, or any other part that is applicable to this part, to receive benefits for which the participant would not otherwise be entitled, will not be entitled to program payments and must refund all such payments received, plus interest as determined in accordance with part 1403 of this chapter. The participant will also be denied program benefits for the immediately subsequent period of at least 2 crop years, and up to 5 crop years. Interest will run from the date of the original disbursement by CCC.
+
+(b) A participant will refund to CCC all program payments, in accordance with § 1416.11, received by such participant with respect to all contracts or applications, as may be applicable, if the participant is determined to have knowingly misrepresented any fact affecting a program determination.

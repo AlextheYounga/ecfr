@@ -1,0 +1,3 @@
+##### § 1493.1 General statement. #####
+
+This subpart sets forth the restrictions that apply to the issuance and use of Payment Guarantees under the Commodity Credit Corporation (CCC) Export Credit Guarantee (GSM-102) Program and Facility Guarantee Program (FGP), the criteria considered by CCC in determining the annual allocations of Payment Guarantees to be made available with respect to each participating country and region, and the criteria considered by CCC in the review and approval of proposed allocation levels for specific U.S. Agricultural Commodities to these countries and regions.

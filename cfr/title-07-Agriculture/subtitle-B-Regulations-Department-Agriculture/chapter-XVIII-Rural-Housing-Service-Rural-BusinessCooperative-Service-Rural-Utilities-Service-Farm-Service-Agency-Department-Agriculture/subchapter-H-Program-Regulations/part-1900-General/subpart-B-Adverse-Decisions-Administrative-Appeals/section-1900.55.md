@@ -1,0 +1,7 @@
+##### § 1900.55 Adverse action procedures. #####
+
+(a) If an applicant, guaranteed lender, a holder, borrower or grantee is adversely affected by a decision covered by this subpart, the decision maker will inform the participant of the adverse decision and whether the adverse decision is appealable. A participant has the right to request the Director of NAD to review the agency's finding of nonappealability in accordance with 7 CFR 11.6(a). In cases where the adverse decision is based on both appealable and nonappealable actions, the adverse action is not appealable.
+
+(b) A participant affected by an adverse decision of an agency is entitled under section 275 of the Act to an opportunity for a separate informal meeting with the agency before commencing an appeal to NAD under 7 CFR part 11.
+
+(c) Participants also have the right under section 275 of the Act to seek mediation involving any adverse decision appealable under this subpart if the mediation program of the State in which the participant's farming operation giving rise to the decision is located has been certified by the Secretary for the program involved in the decision. An agency shall cooperate in such mediation. Any time limitation for appeal will be stayed pending completion of the mediation process (7 CFR 11.5(c)).

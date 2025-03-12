@@ -1,0 +1,3 @@
+##### § 1484.11 Has the Office of Management and Budget reviewed the paperwork and record keeping requirements contained in this part? #####
+
+The paperwork and record keeping requirements imposed by this part have been submitted to the Office of Management and Budget (OMB) for emergency review and reinstatement under the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*). OMB has previously assigned control number 0551-0026 for this information collection.

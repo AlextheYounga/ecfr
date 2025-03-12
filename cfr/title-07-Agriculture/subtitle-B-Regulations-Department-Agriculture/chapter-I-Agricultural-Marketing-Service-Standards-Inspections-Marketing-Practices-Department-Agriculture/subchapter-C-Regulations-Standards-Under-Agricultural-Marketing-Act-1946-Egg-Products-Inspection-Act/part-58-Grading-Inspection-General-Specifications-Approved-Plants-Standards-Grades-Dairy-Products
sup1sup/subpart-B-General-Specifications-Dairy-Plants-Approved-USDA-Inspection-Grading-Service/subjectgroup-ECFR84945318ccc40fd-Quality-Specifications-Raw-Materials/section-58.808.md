@@ -1,0 +1,3 @@
+##### § 58.808 Whey. #####
+
+Whey for processing shall be fresh and originate from the processing of products made from milk meeting the requirements as outlined in §§ 58.132 through 58.138. Only those ingredients approved by the Food and Drug Administration may be added to the whey for processing, except when restricted by this subpart. Whey products to which approved ingredients have been added or constituents removed to alter original characteristics for processing or usage shall be labeled to meet the applicable requirements.

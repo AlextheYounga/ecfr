@@ -1,0 +1,7 @@
+##### § 1.199 Further proceedings. #####
+
+(a) Ordinarily, the determination of an award will be made on the basis of the written record. However, on request of either the applicant or agency counsel, or on his or her own initiative, the adjudicative officer may order further proceedings, such as an informal conference, oral argument, additional written submissions or, as to issues other than substantial justification (such as the applicant's eligibility or substantiation of fees and expenses), pertinent discovery or an evidentiary hearing. Such further proceedings shall be held only when necessary for full and fair resolution of the issues arising from the application, and shall be conducted as promptly as possible. Whether the position of the Department was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+
+(b) A request that the adjudicative officer order further proceedings under this section shall identify specifically the information sought or the disputed issues, and shall explain specifically why the additional proceedings are necessary to resolve the issues.
+
+(c) In the event that an evidentiary hearing is held, it shall be conducted pursuant to §§ 1.130 through 1.151 of this part, except that any hearing in a proceeding covered by § 1.183(a)(1)(ii) of this part shall be conducted pursuant to Rules 17 through 25 of the Board of Contract Appeals contained in § 24.21 of this title.

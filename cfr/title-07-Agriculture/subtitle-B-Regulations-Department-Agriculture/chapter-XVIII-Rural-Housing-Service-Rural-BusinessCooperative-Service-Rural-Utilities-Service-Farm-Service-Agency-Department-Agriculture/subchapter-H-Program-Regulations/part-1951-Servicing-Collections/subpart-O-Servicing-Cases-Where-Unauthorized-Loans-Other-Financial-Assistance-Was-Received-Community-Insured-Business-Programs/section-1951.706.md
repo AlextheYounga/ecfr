@@ -1,0 +1,3 @@
+##### § 1951.706 Initial determination that unauthorized assistance was received. #####
+
+Unauthorized assistance may be identified through audits conducted by the USDA Office of Inspector General (OIG), through reviews made by Rural Development personnel, or through other means such as information provided by a private citizen who documents that unauthorized assistance has been received by a recipient of Rural Development assistance.

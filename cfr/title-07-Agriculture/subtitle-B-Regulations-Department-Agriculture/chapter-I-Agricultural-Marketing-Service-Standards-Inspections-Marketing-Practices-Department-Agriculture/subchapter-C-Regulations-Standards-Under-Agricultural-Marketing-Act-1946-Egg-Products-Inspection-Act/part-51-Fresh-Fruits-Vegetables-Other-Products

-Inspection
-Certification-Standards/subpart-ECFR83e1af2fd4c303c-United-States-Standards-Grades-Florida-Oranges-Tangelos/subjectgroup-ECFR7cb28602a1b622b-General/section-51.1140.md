@@ -1,0 +1,3 @@
+##### § 51.1140 General. #####
+
+The standards contained in this subpart apply only to the common or sweet orange group and varieties and hybrids of varieties belonging to the Mandarin group, except tangerines, and to the citrus fruit commonly known as “tangelo”—a hybrid between tangerine or mandarin orange (citrus reticulata) with either the grapefruit or pomelo (C. paradisi and C. grandis). Separate U.S. standards apply to tangerines. The standards for internal quality contained in §§ 51.1176 through 51.1179 apply only to common sweet oranges (citrus sinensis (L) Osbeck).

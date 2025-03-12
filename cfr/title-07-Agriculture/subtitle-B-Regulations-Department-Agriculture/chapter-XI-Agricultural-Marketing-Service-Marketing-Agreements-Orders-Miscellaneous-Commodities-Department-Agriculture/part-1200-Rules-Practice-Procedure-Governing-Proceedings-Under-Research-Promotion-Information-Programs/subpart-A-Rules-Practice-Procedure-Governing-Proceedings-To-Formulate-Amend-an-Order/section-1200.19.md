@@ -1,0 +1,3 @@
+##### § 1200.19 Additional documents to be filed with hearing clerk. #####
+
+In addition to the documents or papers required or authorized by the foregoing provisions of this subpart to be filed with the hearing clerk, the hearing clerk shall receive for filing and shall have custody of all papers, reports, records, orders, and other documents which relate to the administration of any order and which the Secretary is required to issue or to approve.

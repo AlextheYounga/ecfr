@@ -1,7 +1,7 @@
 ##### § 888.115 Fair market rents for existing housing: Manner of publication. #####
 
-Link to an amendment published at 81 FR 80581, November 16, 2016.
+(a) *Publication of FMRs.* FMRs will be published at least annually by HUD on the World Wide Web, or in any other manner specified by the Secretary. HUD will publish a notice announcing the publication of the FMRs in the Federal Register, to be effective October 1 of each year, and provide for a minimum of 30 days of public comments and requested for reevaluation of the FMRs in a jurisdiction. The FMRs will become effective no earlier than 30 days after the date the notice publishes in the Federal Register (*e.g.*, if HUD fails to publish FMRs 30 days before October 1, the effective date will be 30 days after publication), except for areas where HUD receives comments during the minimum 30-day comment period requesting reevaluation of the FMRs in a jurisdiction. After HUD reviews a request for reevaluation, HUD will post on the World Wide Web the final FMRs for the areas that have been reevaluated and publish a notice in the Federal Register announcing the publication and the effective date.
 
-FMRs will be published at least annually in the Federal Register. The Department will propose FMRs and provide a comment period of at least 30 days for the purpose of identifying areas where the FMRs are believed to be too high or too low. To be considered for FMR revisions, public comments must include statistically valid rental housing survey data that justify the requested changes. After the comments have been considered, the Department will publish a final notice announcing FMRs to be effective on October 1 each year.
+(b) *Changes in methodology.* HUD will publish for comment in the Federal Register a document proposing material changes in the method for estimating FMRs and shall respond to public comment on the proposed material changes in the subsequent Federal Register document announcing the availability of new FMRs based on the revised method for estimating FMRs.
 
-[60 FR 42227, Aug. 15, 1995]
+[81 FR 80581, Nov. 16, 2016]

@@ -1,0 +1,5 @@
+##### § 652.40 Effect of decertification. #####
+
+(a) The Department will not make payment under a program contract for the technical services of a decertified technical service provider that were provided during the period of decertification. Likewise, NRCS will not procure, or otherwise enter into an agreement for, the services of a decertified technical service provider during the period of decertification.
+
+(b) National decertification list. NRCS shall maintain a current list of decertified technical service providers. NRCS shall remove decertified providers from the list of certified providers. Participants may not hire a decertified technical service provider. It is the participant's responsibility to check the decertified list before hiring a technical service provider. Decertification of a technical service provider in one State decertifies the technical service provider from providing technical services under current programs in all States, the Caribbean Area, and the Pacific Basin Area.

@@ -1,0 +1,3 @@
+##### § 1.150 Fees of witnesses. #####
+
+Witnesses summoned under these rules of practice shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken, and the officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States. Fees shall be paid by the party at whose instance the witness appears or the deposition is taken.

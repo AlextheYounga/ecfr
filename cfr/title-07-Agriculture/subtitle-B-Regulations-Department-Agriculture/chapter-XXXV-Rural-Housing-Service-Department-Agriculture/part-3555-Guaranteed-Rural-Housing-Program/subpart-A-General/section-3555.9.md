@@ -1,0 +1,3 @@
+##### § 3555.9 Enforcement. #####
+
+Rural Development will take such actions as are appropriate and necessary to enforce the provisions of these regulations. Such actions will include, but not be limited to, reduction of the loss claim payment; termination of a lender's or servicer's participation in the SFHGLP; suspension and debarment of participation in this or other Federal programs; and, any other appropriate administrative, civil, or criminal actions as allowed by law. Rural Development may assess civil monetary penalties pursuant to Section 543 of the Housing Act of 1949, 42 U.S.C. 1409s(b).

@@ -1,0 +1,3 @@
+##### § 1717.606 Standard forms of construction contracts, and engineering and architectural services contracts. #####
+
+All borrowers are encouraged to use the standard forms of contracts promulgated by RUS for construction, materials, equipment, engineering services, and architectural services, regardless of the source of funding for such construction and services. Borrowers are required to use these standard forms of contracts only if the construction, procurement or services are financed by RUS, and only to the extent required by RUS regulations. RUS requirements with respect to such standard forms of contract are set forth in 7 CFR part 1724 for architectural and engineering services, and in 7 CFR part 1726 for construction, materials, and equipment.

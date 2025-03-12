@@ -1,0 +1,3 @@
+##### § 1780.54 Technical services. #####
+
+Owners are responsible for providing the engineering, architect and environmental services necessary for planning, designing, bidding, contracting, inspecting, and constructing their facilities. Services may be provided by the owner's “in house” engineer or architect or through contract, subject to Agency concurrence. Engineers and architects must be licensed in the State where the facility is to be constructed.

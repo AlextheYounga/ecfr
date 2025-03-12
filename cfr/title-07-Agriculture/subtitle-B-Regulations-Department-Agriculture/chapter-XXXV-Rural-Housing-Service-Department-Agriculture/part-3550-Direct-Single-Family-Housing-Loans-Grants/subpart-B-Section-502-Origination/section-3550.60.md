@@ -1,0 +1,3 @@
+##### § 3550.60 Escrow account. #####
+
+RHS may require that customers deposit into an escrow account amounts necessary to ensure that the account will contain sufficient funds to pay real estate taxes, hazard and flood insurance premiums, and other related costs when they are due in accordance with the Real Estate Settlement and Procedures Act of 1974 (RESPA) (12 U.S.C. 2601, *et seq.*) and section 501(e) of the Housing Act of 1949, as amended.

@@ -1,0 +1,9 @@
+##### § 1221.222 Eligibility. #####
+
+(a) Any person subject to the assessment who during the representative period determined by the Secretary has engaged in the production or importation of sorghum is eligible to participate in the referendum. An eligible person at the time of the referendum and during the representative period, shall be entitled to cast only one vote in the referendum.
+
+(b) *Proxy registration.* Proxy registration is not authorized, except that an officer or employee of a corporate producer or importer, or any guardian, administrator, executor, or trustee of a person's estate, or an authorized representative of any eligible producer or importer entity (other than an individual person), such as a corporation or partnership, may vote on behalf of that entity. Further, an individual cannot vote on behalf of another individual (*i.e.,* spouse, family members, sharecrop lease, joint tenants, tenants in common, owners of community property, a partnership, or a corporation).
+
+(c) Any individual, who votes on behalf of any producer or importer entity, shall certify that he or she is authorized by such entity to take such action. Upon request of the county FSA or AMS office, the person voting may be required to submit adequate evidence of such authority.
+
+(d) *Joint and group interest.* A group of individuals, such as members of a family, joint tenants, tenants in common, a partnership, owners of community property, or a corporation who engaged in the production or importation of sorghum during the representative period as a producer or importer entity shall be entitled to cast only one vote; provided, however, that any individual member of a group who is an eligible person separate from the group may vote separately.

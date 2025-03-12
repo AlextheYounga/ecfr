@@ -1,0 +1,7 @@
+##### § 917.45 Inspection and certification. #####
+
+(a) Whenever the handling of any variety of a particular fruit is regulated pursuant to § 917.41 or § 917.42, each handler who handles such fruit shall, prior thereto, cause such fruit to be inspected by the Federal or Federal-State Inspection Service: *Provided,* That inspection and certification shall not be required if such fruit has previously been so inspected and certified. Promptly after inspection and certification, each such handler shall submit, or cause to be submitted, to the commodity committee a copy of the certificate of inspection issued with respect to such fruit. The commodity committees may, with the approval of the Secretary, prescribe rules and regulations waiving the inspection requirements of this section where it is determined that inspection is not available: *Provided,* That all shipments made under such waiver shall comply with all regulations in effect.
+
+(b) The Control Committee may enter into an agreement with the Federal and Federal-State Inspection Services with respect to the costs of the inspection required by paragraph (a) of this section, for any or all fruits, and may collect from handlers their respective pro rata shares of such costs.
+
+Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.45 was suspended indefinitely, effective Oct. 28, 2011.

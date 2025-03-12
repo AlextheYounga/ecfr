@@ -1,0 +1,3 @@
+##### § 1150.270 General. #####
+
+Organizations must be certified by the Secretary that they are eligible to represent milk producers and to participate in the making of nominations of milk producers to serve as members of the National Dairy Promotion and Research Board as provided in the Dairy and Tobacco Adjustment Act of 1983. Certifications of eligibility required of the Secretary shall be conducted in accordance with this subpart.

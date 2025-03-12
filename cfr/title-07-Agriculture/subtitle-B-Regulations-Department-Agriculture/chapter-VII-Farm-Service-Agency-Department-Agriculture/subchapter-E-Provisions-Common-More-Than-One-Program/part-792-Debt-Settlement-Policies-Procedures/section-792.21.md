@@ -1,0 +1,3 @@
+##### § 792.21 Referral of debts to private collection agencies. #####
+
+If FSA' collection efforts have been unsuccessful after 90 days from the date of delinquency, the head of the agency or his designee may enter into a contract with any person or organization, under such terms and conditions as the head of the agency or his designee considers appropriate for collection services to recover debts owed to FSA.

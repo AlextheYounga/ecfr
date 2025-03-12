@@ -1,5 +1,7 @@
 ##### § 15.106 Fees. #####
 
+Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
+
 (a) *In general.* HUD will charge for processing requests under the FOIA in accordance with paragraph (c) of this section, except where fees are limited under paragraph (d) of this section or where a waiver or reduction of fees is granted under paragraph (k) of this section. HUD shall collect all applicable fees before sending copies of requested records to a requester. In order to resolve any fee issues that arise under this section, HUD may contact a requester for additional information. Requesters shall pay fees by check or money order made payable to the United States Treasury.
 
 (b) *Definitions.* For purposes of this section:

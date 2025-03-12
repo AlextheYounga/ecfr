@@ -1,14 +1,12 @@
 ##### § 982.507 Rent to owner: Reasonable rent. #####
 
-Link to an amendment published at 81 FR 80583, November 16, 2016.
-
 (a) *PHA determination.* (1) Except as provided in paragraph (c) of this section, the PHA may not approve a lease until the PHA determines that the initial rent to owner is a reasonable rent.
 
 (2) The PHA must redetermine the reasonable rent:
 
 (i) Before any increase in the rent to owner;
 
-(ii) If there is a five percent decrease in the published FMR in effect 60 days before the contract anniversary (for the unit size rented by the family) as compared with the FMR in effect 1 year before the contract anniversary; or
+(ii) If there is a 10 percent decrease in the published FMR in effect 60 days before the contract anniversary (for the unit size rented by the family) as compared with the FMR in effect 1 year before the contract anniversary.
 
 (iii) If directed by HUD.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 81 FR 80583, November 16, 2016.
 
 (d) *Owner certification of rents charged for other units.* By accepting each monthly housing assistance payment from the PHA, the owner certifies that the rent to owner is not more than rent charged by the owner for comparable unassisted units in the premises. The owner must give the PHA information requested by the PHA on rents charged by the owner for other units in the premises or elsewhere.
 
-[63 FR 23861, Apr. 30, 1998. Redesignated at 64 FR 26648, May 14, 1999; 79 FR 36164, June 25, 2014]
+[63 FR 23861, Apr. 30, 1998. Redesignated at 64 FR 26648, May 14, 1999; 79 FR 36164, June 25, 2014; 81 FR 80583, Nov. 16, 2016]

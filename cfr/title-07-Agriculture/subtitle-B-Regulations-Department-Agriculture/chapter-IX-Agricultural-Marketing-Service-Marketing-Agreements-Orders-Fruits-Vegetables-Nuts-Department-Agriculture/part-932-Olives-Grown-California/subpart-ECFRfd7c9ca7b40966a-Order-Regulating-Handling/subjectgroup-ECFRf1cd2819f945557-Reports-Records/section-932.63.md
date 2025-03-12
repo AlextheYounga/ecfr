@@ -1,0 +1,3 @@
+##### § 932.63 Confidential information. #####
+
+All reports and information submitted by handlers pursuant to the provisions of this part shall be received by, and at all times be in the custody of one or more designated employees of the committee. No such employees shall disclose to any person, other than the Secretary upon request therefor, data, or information obtained or extracted from such reports and records which might affect the trade position, financial condition, or business operation of the particular handler from whom received: *Provided,* That such data and information may be combined, and made available in the form of general reports in which the identities of the individual handlers furnishing the information is not disclosed.

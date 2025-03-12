@@ -1,0 +1,5 @@
+##### § 987.164 Shipments of product dates and disposition of restricted dates in approved product outlets. #####
+
+Each handler shall file with the Committee a completed CDAC Form No. 8 showing the shipment of each lot of product dates or the disposition of restricted dates in approved product outlets. This report shall be filed promptly after shipment or disposition of those dates and shall identify the lot, the outlet, the number of containers, and the net weight of the dates. If such dates are sold to an approved date product manufacturer, a copy of the completed form shall be signed and dated by the manufacturer and returned to the Committee. If the lot was certified as product dates and is exported to Mexico, the handler shall submit completed CDAC Form No. 8 together with completed CDAC Form No. 11(a) to the Committee.
+
+[43 FR 28439, June 30, 1978, as amended at 53 FR 35995, Sept. 16, 1988]

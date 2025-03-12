@@ -1,6 +1,4 @@
-##### § 80.1085 Ship radio equipment - General. #####
-
-Link to an amendment published at 81 FR 90748, Dec. 15, 2016.
+##### § 80.1085 Ship radio equipment—General. #####
 
 This section contains the general equipment requirements for all ships subject to this subpart.
 
@@ -14,7 +12,7 @@ This section contains the general equipment requirements for all ships subject t
 
 (2) A dedicated, non-scanning radio installation capable of maintaining a continuous DSC watch on VHF channel 70 which may be separate from, or combined with, that required by paragraph (a)(1)(i) of this section;
 
-(3) A radar transponder capable of operating in the 9 GHz band, which must be stowed so that it is easily utilized (this transponder may be one of those required by § 80.1095(b) for a survival craft);
+(3) A radar transponder capable of operating in the 9 GHz band or an AIS-SART, which must be stowed so that it is easily utilized (this device may be one of those required by § 80.1095(b) for a survival craft);
 
 (4) A receiver capable of receiving international NAVTEX service broadcasts;
 
@@ -34,4 +32,4 @@ This section contains the general equipment requirements for all ships subject t
 
 (d) Every passenger ship shall be provided with means for two-way on-scene radiocommunications for search and rescue purposes using the aeronautical frequencies 121.5 and 123.1 MHz from the position from which the ship is normally navigated.
 
-[57 FR 9065, Mar. 16, 1992, as amended at 60 FR 50122, Sept. 28, 1995; 68 FR 46977, Aug. 7, 2003; 69 FR 64679, Nov. 8, 2004; 73 FR 4489, Jan. 25, 2008; 76 FR 67616, Nov. 2, 2011; 78 FR 23158, Apr. 18, 2013]
+[57 FR 9065, Mar. 16, 1992, as amended at 60 FR 50122, Sept. 28, 1995; 68 FR 46977, Aug. 7, 2003; 69 FR 64679, Nov. 8, 2004; 73 FR 4489, Jan. 25, 2008; 76 FR 67616, Nov. 2, 2011; 78 FR 23158, Apr. 18, 2013; 81 FR 90748, Dec. 15, 2016]

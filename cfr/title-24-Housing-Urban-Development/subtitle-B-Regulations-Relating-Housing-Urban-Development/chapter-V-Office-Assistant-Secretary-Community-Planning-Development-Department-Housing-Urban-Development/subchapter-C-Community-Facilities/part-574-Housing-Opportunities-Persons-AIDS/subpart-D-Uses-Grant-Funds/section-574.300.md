@@ -1,12 +1,10 @@
 ##### § 574.300 Eligible activities. #####
 
-Link to an amendment published at 81 FR 90659, December 14, 2016.
-
 (a) *General.* Subject to applicable requirements described in §§ 574.310, 574.320, 574.330, and 574.340, HOPWA funds may be used to assist all forms of housing designed to prevent homelessness including emergency housing, shared housing arrangements, apartments, single room occupancy (SRO) dwellings, and community residences. Appropriate supportive services, as required by § 574.310(a), must be provided as part of any HOPWA assisted housing, but HOPWA funds may also be used to provide services independently of any housing activity.
 
 (b) *Activities.* The following activities may be carried out with HOPWA funds:
 
-(1) Housing information services including, but not limited to, counseling, information, and referral services to assist an eligible person to locate, acquire, finance and maintain housing. This may also include fair housing counseling for eligible persons who may encounter discrimination on the basis of race, color, religion, sex, age, national origin, familial status, or handicap;
+(1) Housing information services including, but not limited to, counseling, information, and referral services to assist an eligible person to locate, acquire, finance, and maintain housing. This may also include fair housing guidance for eligible persons who may encounter discrimination on the basis of race, color, religion, sex, age, national origin, familial status, or handicap. Housing counseling, as defined in § 5.100, that is funded with or provided in connection with HOPWA funds must be carried out in accordance with § 5.111. When grantees provide housing services to eligible persons (including persons undergoing relocation) that are incidental to a larger set of holistic case management services, these services do not meet the definition of Housing counseling, as defined in § 5.100, and therefore are not required to be carried out in accordance with the certification requirements of § 5.111;
 
 (2) Resource identification to establish, coordinate and develop housing assistance resources for eligible persons (including conducting preliminary research and making expenditures necessary to determine the feasibility of specific housing-related initiatives);
 
@@ -34,4 +32,4 @@ Link to an amendment published at 81 FR 90659, December 14, 2016.
 
 (c) *Equal participation of faith-based organizations.* The HUD program requirements in § 5.109 of this title apply to the HOPWA program, including the requirements regarding disposition and change in use of real property by a faith-based organization.
 
-[57 FR 61740, Dec. 28, 1992, as amended at 59 FR 17200, Apr. 11, 1994; 68 FR 56405, Sept. 30, 2003; 80 FR 75938, Dec. 7, 2015; 81 19418, Apr. 4, 2016]
+[57 FR 61740, Dec. 28, 1992, as amended at 59 FR 17200, Apr. 11, 1994; 68 FR 56405, Sept. 30, 2003; 80 FR 75938, Dec. 7, 2015; 81 19418, Apr. 4, 2016; 81 FR 90659, Dec. 14, 2016]

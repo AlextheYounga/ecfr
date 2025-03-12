@@ -1,0 +1,3 @@
+##### § 1520.2 Location and hours. #####
+
+Members of the public should contact the FAS FOIA Officer to arrange a place and time to review documents. Contact the U.S. Department of Agriculture, Foreign Agriculture Service, Public Affairs Division, 1400 Independence Avenue SW., Washington, DC 20250-1004. The office will be open from 8:30 a.m. to 5 p.m. Monday through Friday, except national holidays, Tel.: 202-720-3448, Fax: 202-720-1727.

@@ -1,0 +1,3 @@
+##### § 981.57 Application of salable and reserve percentages after end of crop year. #####
+
+The salable and reserve percentages established for any crop year shall continue in effect with respect to all almonds for which the reserve obligation has not been previously met, which are received for his own account or handled by any handler after the end of such crop year and before salable and reserve percentages are established for the succeeding crop year. After such percentages are established for the new crop year, the withholding requirements for all such almonds theretofore received for his own account or handled during that crop year shall be adjusted to the newly established percentages.

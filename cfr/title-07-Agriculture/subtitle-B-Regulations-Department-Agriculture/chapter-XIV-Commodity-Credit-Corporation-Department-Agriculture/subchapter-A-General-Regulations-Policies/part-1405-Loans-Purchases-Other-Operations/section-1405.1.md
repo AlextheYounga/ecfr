@@ -1,0 +1,5 @@
+##### § 1405.1 Interest. #####
+
+(a) Except as may otherwise be determined by CCC as provided in individual program regulations, program contracts or such other means as deemed appropriate by CCC the rate of interest that is applicable to CCC loans shall be equal to the rate of interest charged by the U.S. Treasury for funds borrowed by CCC on the date the loan is disbursed by CCC, plus 1 percent. This rate of interest shall be in effect until the earlier of the maturity of the loan or the next January 1.
+
+(b) The rate of interest applicable to all CCC loans that are outstanding as of January 1 of any year shall be adjusted as of such date to equal the rate of interest charged by the U.S. Treasury for funds borrowed by CCC on such date, plus 1 percent. This rate shall be in effect until the earlier of the maturity of the loan or the next January 1. The rate of interest applicable to CCC loans as of January 1 of any year shall be announced by CCC by press release or other means.

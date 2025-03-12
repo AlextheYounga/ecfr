@@ -1,0 +1,3 @@
+##### § 160.33 Containers not acceptable for inspection. #####
+
+Any container so filled or packed as to conceal the fact that it contains anything other than naval stores within the meaning of the act or the provisions in this part, and any naval stores in a container deemed by an official inspector to be unsuitable for use as a container of naval stores in commerce, shall not be accepted for classification or grading.

@@ -1,0 +1,5 @@
+##### § 3401.1 Applicability of regulations of this part. #####
+
+(a) The regulations of this part apply to rangeland research grants awarded under the authority of section 1480 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended (7 U.S.C. 3333) to land-grant colleges and universities, State agricultural experiment stations, and colleges, universities, and Federal laboratories having a demonstrable capacity in rangeland research, as determined by the Secretary, to carry out rangeland research. The Director of the National Institute of Food and Agriculture (NIFA) shall determine and announce, through publication each year of a Notice in the Federal Register, professional trade journals, agency or program handbooks, the catalog of Federal Domestic Assistance or any other appropriate means, research program areas for which proposals will be solicited, to the extent that funds are available.
+
+(b) The regulations of this part do not apply to research grants awarded by the Department of Agriculture under any other authority.

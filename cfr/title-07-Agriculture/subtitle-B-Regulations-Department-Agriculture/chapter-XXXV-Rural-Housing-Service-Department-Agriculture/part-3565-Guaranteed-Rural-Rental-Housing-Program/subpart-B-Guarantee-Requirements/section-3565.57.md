@@ -1,0 +1,3 @@
+##### § 3565.57 Modification, extension, reinstatement of loan guarantee. #####
+
+To protect its interest or further the objectives of the program, the Agency may, at its sole discretion, modify, extend, or reinstate a loan guarantee. In making this decision the Agency will consider potential losses under the program, impact on the tenants and the public reaction that may be received regarding the action. Further, the Agency may authorize a guarantee on a new loan that is originated as a part of a workout agreement.

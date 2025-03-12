@@ -1,0 +1,5 @@
+##### § 247.15 Notification of eligibility or ineligibility of applicant. #####
+
+(a) *What is the timeframe for notifying an applicant of eligibility or ineligibility for CSFP benefits?* Local agencies must notify applicants of their eligibility or ineligibility for CSFP benefits, or their placement on a waiting list, within 10 days from the date of application.
+
+(b) *What must be included in the notification of eligibility or ineligibility?* The notification of eligibility must include information on the time, location, and means of food distribution, and the length of the certification period. Notification of ineligibility must be in writing, and must include the reason the applicant is not eligible, a statement of the individual's right to a fair hearing to appeal the decision, and a statement that informs the applicant that program standards are applied without discrimination by race, color, national origin, age, sex, or disability.

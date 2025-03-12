@@ -1,0 +1,3 @@
+##### § 1786.34 Access to records of lenders, servicers, and trustees. #####
+
+The lender, the servicer, or the trustee will permit representatives of RUS (or other agencies of the U.S. Department of Agriculture authorized by that Department) to inspect and make copies of any of their records pertaining to RUS guaranteed loans. Such inspection and copying may be made during regular office hours of the respective party or any other time the party and RUS find convenient.

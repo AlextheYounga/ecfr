@@ -1,0 +1,3 @@
+##### § 929.33 Expenses and compensation. #####
+
+The members of the committee, and alternates when acting as members, shall serve without compensation but shall be reimbursed for necessary expenses, as approved by the committee, incurred by them in the performance of their duties under this part. The committee at its discretion may request the attendance of one or more alternates at any or all meetings, notwithstanding the expected or actual presence of the respective members, and may pay expenses, as aforesaid.

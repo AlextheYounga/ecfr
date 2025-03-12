@@ -1,0 +1,3 @@
+##### § 1470.23 Conservation activity operation and maintenance. #####
+
+The participant will maintain and manage existing conservation activities across the entire agricultural operation to at least the level of conservation performance identified at the time of enrollment for the conservation stewardship contract period, and additional activities installed and adopted over the term of the conservation stewardship contract.

@@ -1,0 +1,3 @@
+##### § 1780.67 Performing construction. #####
+
+Owners are encouraged to accomplish construction through contracts with qualified contractors. Owners may accomplish construction by using their own personnel and equipment provided the owners possess the necessary skills, abilities and resources to perform the work and provided a licensed engineer prepares design drawings and specifications and inspects construction and furnishes inspection reports as required by § 1780.76. Inspection services may be provided by individuals as approved by the State staff engineer. Payments for construction will be handled under § 1780.76(e).

@@ -1,0 +1,3 @@
+##### § 2901.1 Purpose and scope. #####
+
+The purpose of this part 2901 is to provide procedures for the making of certain adjustments to the Secretary of Agriculture's Essential Agricultural Uses and Requirements regulations in accordance with section 502(c) of the Natural Gas Policy Act of 1978, in order to prevent special hardship, inequity, or an unfair distribution of burdens. The procedures in this part 2901 apply to any person seeking an interpretation of, modification of, rescission of, exception of, or exemption from the Essential Agricultural Uses and Requirements regulations in part 2900 of this chapter.

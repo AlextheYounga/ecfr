@@ -1,0 +1,5 @@
+##### § 275.22 Administrative procedure. #####
+
+Reports on program performance are intended to provide the State an opportunity to determine compliance with program requirements, identify and resolve emerging problems, and assess the effectiveness of actions that have been taken to correct existing problems. States' reports enable FNS to assess the nationwide status of eligibility and basis of issuance determinations, to ensure State compliance with Federal requirements, to assist States in improving and strengthening their programs, and to develop Federal policies. Reports must be submitted in duplicate to the appropriate FNS Regional Office according to the time frames established in §§ 275.20, 275.21, and 275.22 of this part.
+
+[Amdt. 160, 45 FR 15911, Mar. 11, 1980. Redesignated at 52 FR 3410, Feb. 4, 1987]

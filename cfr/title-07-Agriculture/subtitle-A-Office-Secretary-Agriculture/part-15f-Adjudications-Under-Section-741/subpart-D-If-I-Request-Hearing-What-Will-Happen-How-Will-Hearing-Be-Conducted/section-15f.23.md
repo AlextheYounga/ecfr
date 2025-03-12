@@ -1,0 +1,3 @@
+##### § 15f.23 What will constitute the record for the final determination? #####
+
+The original complaint, the Section 741 Complaint Request, the OCR report, the agency answer, the transcript of testimony, exhibits, affidavits, depositions, briefs, memoranda of law, and all pleadings, motions, papers, and requests filed in the proceeding, including rulings, and the proposed determination by an ALJ (if applicable) shall constitute the exclusive record for the final determination.

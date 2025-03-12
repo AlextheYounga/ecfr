@@ -1,0 +1,7 @@
+##### § 1950.102 General. #####
+
+(a) Rural Development will do everything possible to assist borrowers entering the armed forces to adjust their affairs in contemplation of military service. It is not the policy of Rural Development to renew, postpone, or modify annual installments due under a promissory note because of the borrower's entry into the armed services. However, under the Soldiers' and Sailors' Civil Relief Act of 1940, the property of a borrower in the armed forces cannot validly be seized or sold by foreclosure or otherwise during the borrower's tenure of service, or for three months thereafter, except (1) pursuant to an agreement entered into by the borrower after having been accepted for service, or (2) by order of the Court. Any person causing an invalid sale to be made is guilty of a misdemeanor. Regardless of the foregoing, the long-time interest of the borrower can best be served by prompt and satisfactory arrangements for the use and protection, or disposition, of the security property in accordance with the policies expressed herein. Upon request, OGC will inform the State Director with respect to relief which may be secured by a borrower under the Soldiers' and Sailors' Civil Relief Act of 1940.
+
+(b) In connection with Multiple Housing loans to individuals, references to County Supervisor and County Office in this subpart will be read as District Director and District Office.
+
+[50 FR 45763, Nov. 1, 1985, as amended at 80 FR 9890, Feb. 24, 2015]

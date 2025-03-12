@@ -1,0 +1,3 @@
+##### § 51.340 U.S. No. 1. #####
+
+“U.S. No. 1” consists of apples of one variety, unless designated as mixed varieties, which are not overripe, which are free from decay, worm holes, freezing injury and internal breakdown and free from any other defect, or combination of defects, the removal of which in the usual commercial preparation for use will cause a loss of more than 5 percent, by weight, of the apple.

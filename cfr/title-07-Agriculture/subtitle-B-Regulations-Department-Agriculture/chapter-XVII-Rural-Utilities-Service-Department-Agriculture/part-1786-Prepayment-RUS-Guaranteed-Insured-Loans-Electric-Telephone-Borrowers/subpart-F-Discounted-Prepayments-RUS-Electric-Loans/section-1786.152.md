@@ -1,0 +1,3 @@
+##### § 1786.152 Prepayments of RUS loans. #####
+
+An electric loan made under the RE Act shall not be sold or prepaid at a value that is less than the outstanding principal balance, except that, on request of a borrower, an electric loan made under the RE Act, or a portion of such a loan, that was advanced before May 1, 1992, or has been advanced for not less than 2 years, shall be prepaid by the borrower at the lesser of the outstanding principal balance of the loan or the discounted present value thereof.

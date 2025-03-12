@@ -1,0 +1,33 @@
+##### § 1710.110 Supplemental financing. #####
+
+(a) Except in the case of financial hardship as determined by the Administrator, and following certain mergers, consolidations, and transfers of systems substantially in their entirety as set forth in 7 CFR 1717.154, applicants for a municipal rate loan will be required to obtain a portion of their loan funds from a supplemental source without an RUS guarantee, in the amounts set forth in paragraph (c) of this section. RUS will normally grant a lien accommodation to the supplemental lender. RUS does not require supplemental financing in conjunction with an RUS guaranteed loan. However, if a borrower elects to obtain supplemental financing in conjunction with a guaranteed loan, the granting of RUS's loan guarantee may be conditioned on the borrower's obtaining supplemental financing.
+
+(b) The terms and conditions of supplemental financing and any security offered to the supplemental lender are subject to RUS approval. Generally, supplemental loans must have the same final maturity and be amortized in the same manner as RUS loans made concurrently. Borrowers may elect to repay the loans either in substantially equal periodic installments covering interest and principal, or in periodic installments that include interest and level amortization of principal.
+
+(c) *Supplemental financing required for municipal rate loans*—(1) *Distribution borrowers.* (i) Distribution borrowers that had, as of December 31, 1980, an average consumer density of 2 or fewer consumers per mile or an average adjusted plant revenue ratio (APRR), as defined in § 1710.2, of over 9.0 shall obtain supplemental financing equal to 10 percent of their loan request.
+
+(ii) All other distribution borrowers must obtain supplemental financing according to their plant revenue ratio (PRR), as defined in § 1710.2, based on the most recent year-end data available on the date of loan approval, as follows:
+
+|     PRR      |Supplemental loan percentage|
+|--------------|----------------------------|
+|9.00 and above|             10             |
+|  8.01-8.99   |             20             |
+|8.00 and below|             30             |
+
+(iii) If a distribution borrower enters into a merger, consolidation, or transfer of system substantially in its entirety, and the provisions of 7 CFR 1717.154(b) do not apply, required supplemental financing will be determined as follows for loans approved by RUS after December 19, 1996. If one of the merging parties met the criteria in paragraph (c)(1)(i) of this section prior to the effective date of the merger consolidation or transfer, the borrower will be required to obtain supplemental financing equal to 10 percent of any loan funds requested for facilities to serve consumers located in the territory formerly served by the “paragraph (c)(1)(i)” borrower. The required amount of supplemental financing for the rest of the loan will be determined according to the provisions of paragraph (c)(1)(ii) of this section.
+
+(2) *Power supply borrowers.* The supplemental loan proportion required of a power supply borrower is based on the simple arithmetic mean of the supplemental loan proportions required of the borrower's distribution members.
+
+(3) *Subsequent loans.* (i) If more than 5 percent of an insured loan made prior to November 1, 1993, or of a municipal rate loan is terminated or rescinded, the amount of supplemental financing required in the borrower's next loan after the rescission for which supplemental financing is required, pursuant to paragraph (a) of this section, will be adjusted to average the actual supplemental financing portion on the terminated or rescinded loan with the supplemental financing portion that would have been required on the new loan according to paragraphs (c)(1) and (2) of this section, in accordance with the formulas set forth in paragraphs (c)(3)(ii) and (iii) of this section.
+
+(ii) If a borrower's supplemental financing requirement as set forth in paragraphs (a), (c)(1), and (c)(2) of this section has not changed between the most recent loan and the loan being considered, then the amount of supplemental financing required for the new loan will be computed as follows:
+
+Supplemental financing amount, new loan = [(A + B) × C] − Dwhere:A = The total funds ($) actually advanced from the first loan, including both RUS loan funds and funds from the supplemental loan, plus any unadvanced funds still available to the borrower after the rescission.B = The total amount ($) for facilities of the new loan request, including both RUS loan funds and funds from supplemental loans.C = The proportion (%) of supplemental financing required on the loans according to paragraphs (a), (c)(1) and (c)(2) of this section.D = The amount ($) of supplemental funds actually advanced on the first loan, plus any unadvanced supplemental funds still available to the borrower after the rescission.
+
+(iii) If a borrower's supplemental financing requirement as set forth in paragraphs (a), (c)(1), and (c)(2) of this section has changed between the most recent loan and the loan being considered, then the amount of supplemental financing required for the new loan will be the weighted average of the portions otherwise applicable on the two loans and will be computed as follows:
+
+Supplemental financing amount, new loan = (A × C1) + (B × C2)−Dwhere:A = The total funds ($) actually advanced from the first loan, including both RUS loan funds and funds from the supplemental loan, plus any unadvanced funds still available to the borrower after the rescission.B = The total amount ($) for facilities of the new loan request, including both RUS funds and funds from supplemental loans.C1 = The proportion (%) of supplemental financing required on the old loan according to paragraphs (a), (c)(1) and (c)(2) of this section.C2 = The proportion (%) of supplemental financing required on the new loan according to paragraphs (a), (c)(1) and (c)(2) of this section.D = The amount ($) of supplemental funds actually advanced on the first loan, plus any unadvanced supplemental funds still available to the borrower after the rescission.
+
+(d) Supplemental financing will not be required in connection with hardship rate loans. Borrowers that qualify for hardship rate loans but elect to take municipal rate loans instead, will be required to obtain supplemental financing pursuant to this section, unless at the time of loan approval, there are no funds remaining available for hardship loans, in which case supplemental financing will not be required.
+
+[57 FR 1053, Jan. 9, 1992, as amended at 58 FR 66265, Dec. 20, 1993; 60 FR 3730, Jan. 19, 1995; 61 FR 66870, Dec. 19, 1996]

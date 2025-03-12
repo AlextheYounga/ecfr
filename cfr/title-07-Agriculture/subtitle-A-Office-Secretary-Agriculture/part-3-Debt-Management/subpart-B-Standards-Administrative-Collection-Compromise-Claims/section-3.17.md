@@ -1,0 +1,25 @@
+##### § 3.17 Interest, penalties, and administrative costs. #####
+
+(a) Except as provided in paragraphs (g) and (i) of this section, agencies shall charge interest, penalties, and administrative costs on debts owed to the United States pursuant to 31 U.S.C. 3717. If not included in the agency's demand notice, an agency shall mail or hand-deliver a written notice to the debtor, at the debtor's most recent address available to the agency, explaining the agency's requirements concerning these charges except where these requirements are included in a contractual or repayment agreement. These charges shall continue to accrue until the debt is paid in full or otherwise resolved through compromise, termination, or waiver of the charges.
+
+(b) Agencies shall charge interest on debts owed the United States as follows, except as otherwise required by law:
+
+(1) Interest shall accrue from the date of delinquency, or as otherwise provided by law.
+
+(2) Unless otherwise established in a contract, repayment agreement, or by statute, the rate of interest charged shall be the rate established annually by the Secretary of the Treasury in accordance with 31 U.S.C. 3717. Pursuant to 31 U.S.C. 3717, an agency may charge a higher rate of interest if it reasonably determines that a higher rate is necessary to protect the rights of the United States. The agency must document the reason(s) for its determination that the higher rate is necessary.
+
+(3) The rate of interest, as initially charged, shall remain fixed for the duration of the indebtedness. When a debtor defaults on a repayment agreement and seeks to enter into a new agreement, the agency may require payment of interest at a new rate that reflects the current value of funds to the Treasury at the time the new agreement is executed. Interest shall not be compounded, that is, interest shall not be charged on interest, penalties, or administrative costs required by this section. If, however, a debtor defaults on a previous repayment agreement, charges that accrued but were not collected under the defaulted agreement shall be added to the principal under the new repayment agreement.
+
+(c) Agencies shall assess administrative costs incurred for processing and handling delinquent debts. The calculation of administrative costs shall be based on actual costs incurred or upon estimated costs as determined by the assessing agency.
+
+(d) Unless otherwise established in a contract, repayment agreement, or by statute, agencies shall charge a penalty, pursuant to 31 U.S.C. 3717(e)(2), not to exceed six percent a year on the amount due on a debt that is delinquent for more than 90 days. This charge shall accrue from the date of delinquency.
+
+(e) Agencies may increase an “administrative debt” by the cost of living adjustment in lieu of charging interest and penalties under this section. “Administrative debt” includes, but is not limited to, a debt based on fines, penalties, and overpayments, but does not include a debt based on the extension of government credit, such as those arising from loans and loan guarantees. The cost of living adjustment is the percentage by which the Consumer Price Index for the month of June of the calendar year preceding the adjustment exceeds the Consumer Price Index for the month of June of the calendar year in which the debt was determined or last adjusted. Increases to administrative debts shall be computed annually. Agencies may use this alternative only when there is a legitimate reason to do so, such as when calculating interest and penalties on a debt would be extremely difficult because of the age of the debt.
+
+(f) When a debt is paid in partial or installment payments, amounts received by the agency shall be applied first to outstanding penalties, second to administrative charges, third to interest, and last to principal, except as otherwise required by law.
+
+(g) Agencies shall waive the collection of interest and administrative charges imposed pursuant to this section (*i.e.*, this does not apply to interest or administrative penalties determined by an applicable agreement or instrument such as a loan contract) on the portion of the debt that is paid within 30 days after the date on which interest began to accrue. Agencies may extend this 30-day period on a case-by-case basis. In addition, agencies may waive interest, penalties, and administrative costs charged under this section, in whole or in part, without regard to the amount of the debt, either under the criteria set forth in the Federal standards for the compromise of debts (31 CFR part 902), or if the agency determines that collection of these charges is against equity and good conscience or is not in the best interest of the United States.
+
+(h) [Reserved]
+
+(i) Agencies are authorized to impose interest and related charges on debts not subject to 31 U.S.C. 3717, in accordance with the common law. Agencies shall consult OGC before imposing interest and related charges under common law for any debt.

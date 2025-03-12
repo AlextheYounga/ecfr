@@ -1,0 +1,3 @@
+##### § 1.194 Filing and service of documents. #####
+
+Any application for an award or other pleading or document related to an application shall be filed and served on all parties to the proceeding in the same manner as other pleadings in the proceeding except as provided in § 1.191 of this part for confidential financial information. The provisions relating to filing, service, extensions of time, and computation of time contained in § 1.147 of this part are incorporated into and made applicable to this subpart, except that the statutory 30 day time limit on filing the application as set out in § 1.193 of this part may not be extended.

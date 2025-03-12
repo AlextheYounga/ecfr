@@ -1,0 +1,7 @@
+##### § 215.9 Effective date for reimbursement. #####
+
+(a) A State Agency, or FNSRO where applicable, may grant written approval to begin operations under the Program prior to the receipt of the application from the School Food Authority or child-care institution. Such written approval shall be attached to the subsequently filed application, and the agreement executed by the School Food Authority or child-care institution shall be effective from the date upon which the School Food Authority or child-care institution was authorized to begin operations: *Provided, however,* That such effective date shall not be earlier than the calendar month preceding the calendar month in which the agreement is executed by the State Agency or by the Department.
+
+(b) Reimbursement payments pursuant to § 215.8 shall be made for milk purchased and served to children at any time during the effective period of an agreement between a School Food Authority or child care institution and the State agency or the Department.
+
+(Sec. 11, Pub. L. 95-166, 91 Stat. 1337 (42 U.S.C. 1772, 1753, 1766))[32 FR 12587, Aug. 31, 1967, as amended by Amdt. 5, 37 FR 14686, July 22, 1972; Amdt. 13, 39 FR 28417, Aug. 7, 1974; Amdt. 16, 43 FR 1060, Jan. 6, 1978; 44 FR 10700, Feb. 23, 1979]

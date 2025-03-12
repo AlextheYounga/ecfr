@@ -1,0 +1,23 @@
+##### § 29.74a Producer referenda on mandatory grading. #####
+
+(a)(1) *Method of conducting.* Referenda shall be conducted among producers who were engaged in the production of the following types of tobacco harvested in the immediately preceding crop year: flue-cured tobacco, types 11, 12, 13, 14; Kentucky-Tennessee fire-cured tobacco, types 22 and 23; Virginia fire-cured tobacco, type 21; Virginia sun-cured tobacco, type 37; dark air-cured tobacco, types 35 and 36; burley tobacco, type 31; and cigar filler and binder tobacco, types 42, 43, 53, 54, and 55. A referendum will be conducted for each kind of tobacco and the results will apply to each individual kind. A producer is eligible to vote in referenda for each kind of tobacco they produce.
+
+(2) *Farmers engaged in the production of tobacco.* For purposes of the referenda, persons engaged in the production of tobacco includes any person who is entitled to share in a crop of the tobacco or the proceeds thereof because he or she shares in the risks of production of the crop as an owner, landlord, tenant, or sharecropper (a landlord whose return from the crop is fixed regardless of the amount of the crop produced is excluded) on a farm on which such crop is planted in a workmanlike manner for harvest: Provided, That any failure to harvest the crop because of conditions beyond the control of such person shall not affect his or her status as a person engaged in the production of the crop. In addition, persons engaged in the production of tobacco also includes each person who it is determined would have had an interest as a producer in the crop on a farm for which a farm allotment under the quota program (7 CFR part 723, subpart B) for the crop was established and no acreage of the crop was planted but an acreage of the crop was regarded as planted for history acreage purposes under the applicable Farm Service Agency commodity regulations of the Department of Agriculture.
+
+(3) *One vote limitation.* Each person eligible to vote in a particular referendum shall be entitled to only one vote in such referendum regardless of the number of farms in which such person is interested or the number of communities, counties, or States in which farms are located in which farms such person is interested: Provided, That:
+
+(i) The individual members of a partnership shall each be entitled to one vote, but the partnership as an entity shall not be entitled to vote;
+
+(ii) An individual eligible voter shall be entitled to one vote even though he or she is interested in an entity (including but not limited to a corporation) which entity is also eligible to vote;
+
+(iii) A person shall also be entitled to vote in each instance of his or her capacity as a fiduciary (including but not limited to a guardian, administrator, executor or trustee) if in such fiduciary capacity he or she is eligible to vote but the person for whom he or she acts as a fiduciary shall not be eligible to vote.
+
+(4) *Joint and family interest.* Where several persons, such as members of a family, have participated or will participate in the production of tobacco under the same lease or cropping agreement, only the person or persons who signed the lease or agreement, or agreed to an oral lease or agreement, shall be eligible to vote. Where two or more persons have produced or will produce tobacco as joint tenants, tenants in common, or owners of community property, each such person shall be entitled to one vote if otherwise eligible. The eligibility of one spouse does not affect the eligibility of the other spouse.
+
+(5) *Minors.* A minor shall be entitled to one vote if he or she is otherwise eligible and is 18 years of age or older when he or she votes.
+
+(6) *Interpretation.* In the case of tobacco on a farm where no acreage of tobacco is actually planted but an acreage of the commodity is regarded as planted under applicable regulations of the Department of Agriculture, persons on the farm who it is determined would have had an interest in the commodity as a producer if an acreage of the commodity had been actually planted shall be eligible to vote in the referendum.
+
+(b) *Referenda procedures.* See part 717 of chapter VII of this title for eligibility criteria and the procedures to be used in carrying out mandatory grading referenda. Where not inconsistent with this part, the definitions contained in parts 717, 718 and 723 of this title will govern administration of these referenda. A copy of the regulations in parts 717, 718, and 723 of this title, a referendum ballot, and voting procedures are available for review in any USDA Service Center.
+
+[67 FR 9896, Mar. 5, 2002]

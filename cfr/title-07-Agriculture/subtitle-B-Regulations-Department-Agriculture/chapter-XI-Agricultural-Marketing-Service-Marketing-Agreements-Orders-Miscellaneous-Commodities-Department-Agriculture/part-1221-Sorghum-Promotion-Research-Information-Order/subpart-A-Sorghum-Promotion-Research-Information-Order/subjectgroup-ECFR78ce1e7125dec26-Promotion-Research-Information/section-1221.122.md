@@ -1,0 +1,3 @@
+##### § 1221.122 Independent evaluation. #####
+
+Pursuant to the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7401), the Board shall, not less often than every five years, authorize and fund, from funds otherwise available to the Board, an independent evaluation of the effectiveness of the Order and other programs conducted by the Board pursuant to the Act. The Board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this paragraph.

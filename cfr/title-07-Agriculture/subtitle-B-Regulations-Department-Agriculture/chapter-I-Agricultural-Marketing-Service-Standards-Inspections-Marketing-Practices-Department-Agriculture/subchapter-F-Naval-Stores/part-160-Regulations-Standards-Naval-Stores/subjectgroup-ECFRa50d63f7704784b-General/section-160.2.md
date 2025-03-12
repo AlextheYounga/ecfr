@@ -1,0 +1,3 @@
+##### § 160.2 Spirits of turpentine defined. #####
+
+Spirits of turpentine, also commonly known as turpentine, is the colorless or faintly colored volatile oil consisting principally of terpene hydrocarbons of the general empirical formula C10 H16 and having a characteristic odor and taste. It occurs naturally in and may be recovered by distillation from the oleoresinous secretions obtained from living trees of the family *Pinaceae,* or present in the cellular structure, or wood, of species thereof.

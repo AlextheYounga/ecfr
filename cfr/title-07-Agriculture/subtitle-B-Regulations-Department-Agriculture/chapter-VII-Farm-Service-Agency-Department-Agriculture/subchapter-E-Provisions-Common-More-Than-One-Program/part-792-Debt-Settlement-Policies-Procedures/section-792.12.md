@@ -1,0 +1,3 @@
+##### § 792.12 Administrative appeal. #####
+
+If the opportunity to appeal the determination has not previously been provided under part 24 of this title or part 780 of this chapter or any other appeal procedure, a debtor may obtain an administrative review under part 780 of this chapter, or other applicable appeal procedures, of FSA' determination concerning the existence or amount of a debt, if a request is filed with the authority who made the determination within 15 days of the date of FSA' initial demand letter, unless a longer period is specified in the initial demand letter.

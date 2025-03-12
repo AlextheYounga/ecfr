@@ -1,0 +1,7 @@
+##### § 1.175 Procedure following entry of cease and desist order. #####
+
+(a) *Request for judicial review.* An association subject to a cease and desist order may, within thirty days following the date of the order, request the Secretary to institute proceedings for judicial review of the order. Such request shall, to the extent practicable, identify findings of fact, conclusions of law, and any part of the order which the association claims are in error. The Secretary shall, thereupon, file in the district in the judicial district in which such association has its principal place of business, a certified copy of the order and of all records in the proceeding, including the request of the association, together with a petition asking that the order be affirmed and enforced.
+
+(b) *Enforcement.* If an association subject to a cease and desist order fails or neglects, within thirty days of the date of the order, or at any time thereafter, to obey such order, and has not made a request for judicial review as provided above, the Secretary shall file in the district court in the judicial district in which such association has its principal place of business a certified copy of the order and of all records in the proceeding, together with a petition asking that the order be enforced.
+
+(c) *Notice.* The Secretary shall give notice of the filing of a petition for enforcement or review to the Attorney General, and to the association, by service of a copy of the petition.

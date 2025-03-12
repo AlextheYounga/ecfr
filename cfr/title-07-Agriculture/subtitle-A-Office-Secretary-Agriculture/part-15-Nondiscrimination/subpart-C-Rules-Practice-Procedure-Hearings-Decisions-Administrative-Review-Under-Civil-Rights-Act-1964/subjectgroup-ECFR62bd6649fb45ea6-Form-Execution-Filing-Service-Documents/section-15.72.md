@@ -1,0 +1,3 @@
+##### § 15.72 Filing. #####
+
+All documents relating to a proceeding under this subpart shall be filed in an original and two copies of such document with the Office of the Hearing Clerk at Room 112, Administration Building, Department of Agriculture, Washington, D.C., 20250, during regular business hours. Regular business hours are every Monday through Friday (legal holidays in the District of Columbia excepted) from 9 a.m. to 5:30 p.m., eastern standard or daylight saving time, whichever is effective in the District of Columbia at the time.

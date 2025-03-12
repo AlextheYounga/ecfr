@@ -1,0 +1,3 @@
+##### § 15f.29 May I request an extension of a deadline or may I get relief for missing a deadline in these rules? #####
+
+You may request that the ALJ extend a deadline in these rules, or afford you relief for missing a deadline, which he or she may do, consistent with the principles of sovereign immunity, the terms of any applicable statute, these rules, and the necessity of expeditious completion of the public business. It is the intent of USDA that the time deadlines expressed in these regulations be construed equitably to ensure resolution of eligible complaints, to the extent permitted by law.

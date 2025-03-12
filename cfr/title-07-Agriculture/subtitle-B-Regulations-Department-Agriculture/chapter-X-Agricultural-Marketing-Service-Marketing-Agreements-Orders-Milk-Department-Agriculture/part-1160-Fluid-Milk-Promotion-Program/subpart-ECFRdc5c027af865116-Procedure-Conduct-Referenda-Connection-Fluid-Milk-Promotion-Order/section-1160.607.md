@@ -1,0 +1,9 @@
+##### § 1160.607 Tabulation of ballots. #####
+
+(a) The referendum agent shall verify the validity of all ballots cast in accordance with the instructions and requirements specified in §§ 1160.602 through 1160.606. Ballots that are not valid shall be marked “disqualified” with a notation on the ballot as to the reason for the disqualification.
+
+(b) The total number of ballots cast, including the disqualified ballots, shall be ascertained. The number of ballots cast approving, the number of ballots cast disapproving, and the pounds of fluid milk products distributed during the representative period by the processors represented in each grouping of ballots, shall also be ascertained. The ballots marked “disqualified” shall not be considered as approving or disapproving, and the persons who cast such ballots shall not be regarded as participating in the referendum.
+
+(c) The referendum agent shall notify the Administrator of the number of ballots cast, the count of the votes, the number of disqualified ballots, and the volume of fluid milk products associated with the ballots cast as prescribed in § 1160.607(b). The referendum agent shall seal the ballots and transmit to the Administrator a complete detailed report of all actions taken in connection with the referendum and all other information furnished to or compiled by the referendum agent.
+
+(d) Announcement of the results of the referendum will be made only at the direction of the Secretary. The referendum agent or others who assist in the referendum shall not disclose the results of the referendum or the total number of ballots and votes cast.

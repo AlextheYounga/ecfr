@@ -2,7 +2,7 @@
 
 As prescribed in 45.107(a), insert the following clause:
 
-Government Property (APR 2012)
+Government Property (JAN 2017)
 
 (a) *Definitions.* As used in this clause -
 
@@ -116,7 +116,7 @@ Government Property (APR 2012)
 
 (2) Title vests in the Government for all property acquired or fabricated by the Contractor in accordance with the financing provisions or other specific requirements for passage of title in the contract. Under fixed price type contracts, in the absence of financing provisions or other specific requirements for passage of title in the contract, the Contractor retains title to all property acquired by the Contractor for use on the contract, except for property identified as a deliverable end item. If a deliverable item is to be retained by the Contractor for use after inspection and acceptance by the Government, it shall be made accountable to the contract through a contract modification listing the item as Government-furnished property.
 
-(3) *Title under Cost-Reimbursement or Time-and-Material Contracts or Cost-Reimbursable contract line items under Fixed-Price contracts.* (i) Title to all property purchased by the Contractor for which the Contractor is entitled to be reimbursed as a direct item of cost under this contract shall pass to and vest in the Government upon the vendor's delivery of such property.
+(3) *Title under Cost-Reimbursement or Time-and-Material Contracts or Cost-Reimbursable line items under Fixed-Price contracts.* (i) Title to all property purchased by the Contractor for which the Contractor is entitled to be reimbursed as a direct item of cost under this contract shall pass to and vest in the Government upon the vendor's delivery of such property.
 
 (ii) Title to all other property, the cost of which is reimbursable to the Contractor, shall pass to and vest in the Government upon -
 
@@ -356,4 +356,4 @@ Government Property (APR 2012)
 
 “No person in the United States or its outlying areas shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under this contemplated financial assistance (title to property).”
 
-[72 FR 27390, May 15, 2007, as amended at 72 FR 46363, Aug. 17, 2007; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012]
+[72 FR 27390, May 15, 2007, as amended at 72 FR 46363, Aug. 17, 2007; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 82 FR 4715, Jan. 13, 2017]

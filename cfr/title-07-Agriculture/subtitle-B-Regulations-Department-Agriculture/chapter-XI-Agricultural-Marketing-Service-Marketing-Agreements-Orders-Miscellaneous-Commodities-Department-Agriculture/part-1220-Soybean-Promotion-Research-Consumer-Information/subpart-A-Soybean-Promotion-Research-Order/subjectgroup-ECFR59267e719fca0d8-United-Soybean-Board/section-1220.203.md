@@ -1,0 +1,15 @@
+##### § 1220.203 Nominations. #####
+
+All nominations for appointments to the Board under § 1220.204 shall be made in the following manner:
+
+(a) After the issuance of this subpart by the Secretary, nominations shall be obtained by the Secretary as specified in paragraphs (a), (b), and (c) of this section from Qualified State Soybean Boards or for initial Board nominations, eligible organizations deemed qualified to nominate pursuant to paragraph (f) of the section. A Qualified State Soybean Board, or for initial Board nominations, an eligible organization shall only submit nominations for positions on the Board representing the unit, as established under § 1220.201, in which such Qualified State Soybean Board operates.
+
+(b) If the Secretary determines that a unit is not represented by a Qualified State Soybean Board or for initial Board nominations, an eligible organization, then the Secretary may solicit nominations from organizations which represent producers in that unit and from producers residing in that unit. A caucus may be held in such units for the purpose of collectively submitting nominations to the Secretary.
+
+(c) Where there is more than one State comprising a unit, the Secretary shall take into consideration the nominations submitted by Qualified State Soybean Boards or for initial Board nominations, eligible organizations, within the unit. A caucus may be held in such units for the purpose of collectively submitting nominations to the Secretary. The Secretary shall consider the proportional levels of production in each State comprising the unit when appointing members to the Board representing that unit.
+
+(d) At least two nominations shall be submitted for each position to be filled.
+
+(e) Nominations may be submitted in order of preference and for the initial Board, in order of preference for staggered terms. Should the Secretary reject any nomination submitted and there are insufficient nominations submitted from which appointments can be made, the Secretary may request additional nominations under paragraph (a) or (b) of this section, whichever provision is applicable for such unit.
+
+(f) Any organization authorized pursuant to State law to collect assessments from producers may notify the Secretary of the organization's intent to nominate members to the initial Board for the State or unit, as established under § 1220.201, in which such organization operates and is authorized by State law. Such eligibility shall be based only upon the criteria established pursuant to § 1220.228(a)(1). There shall only be one organization authorized per State pursuant to this section to submit nominations to the initial Board. If no such entity exists in a State, any organization meeting those requirements of § 1220.228(a)(2) may request eligibility to submit nominations.

@@ -1,0 +1,3 @@
+##### § 3560.655 Agency requested extension. #####
+
+Before accepting an offer to prepay from a borrower with a restricted loan, the Agency must first make a reasonable effort to enter into a new restrictive-use agreement with the borrower. Under this agreement, the borrower would make a binding commitment to extend the low-income use of the housing and related facilities for 20 years for loans with interest credit, beginning on the date on which the new agreement is executed. If the borrower is unwilling to enter into a new restrictive-use provisions and restrictive-use agreement, the Agency should proceed to take the actions described in § 3560.658.

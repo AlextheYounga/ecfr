@@ -4,7 +4,7 @@
 
 (b) Insert a provision substantially the same as the provision at 52.217-4, Evaluation of Options Exercised at Time of Contract Award, in solicitations when the solicitation includes an option clause, the contracting officer has determined that there is a reasonable likelihood that the option will be exercised, and the option may be exercised at the time of contract award.
 
-(c) Insert a provision substantially the same as the provision at 52.217-5, Evaluation of Options, in solicitations when -
+(c) Insert a provision substantially the same as the provision at 52.217-5, Evaluation of Options, in solicitations when—
 
 (1) The solicitation contains an option clause;
 
@@ -16,7 +16,7 @@
 
 (d) Insert a clause substantially the same as the clause at 52.217-6, Option for Increased Quantity, in solicitations and contracts, other than those for services, when the inclusion of an option is appropriate (see 17.200 and 17.202) and the option quantity is expressed as a percentage of the basic contract quantity or as an additional quantity of a specific line item.
 
-(e) Insert a clause substantially the same as the clause at 52.217-7, Option for Increased Quantity - Separately Priced Line Item, in solicitations and contracts, other than those for services, when the inclusion of an option is appropriate (see 17.200 and 17.202) and the option quantity is identified as a separately priced line item having the same nomenclature as a corresponding basic contract line item.
+(e) Insert a clause substantially the same as the clause at 52.217-7, Option for Increased Quantity—Separately Priced Line Item, in solicitations and contracts, other than those for services, when the inclusion of an option is appropriate (see 17.200 and 17.202) and the option quantity is identified as a separately priced line item having the same nomenclature as a corresponding line item.
 
 (f) Insert a clause substantially the same as the clause at 52.217-8, Options to Extend Services, in solicitations and contracts for services when the inclusion of an option is appropriate. (See 17.200, 17.202, and 37.111.)
 
@@ -28,4 +28,4 @@
 
 (3) A specified limitation on the total duration of the contract.
 
-[48 FR 42231, Sept. 19, 1983, as amended at 53 FR 17858, May 18, 1988; 54 FR 5055, Jan. 31, 1989; 54 FR 29281, July 11, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 42656, Aug. 16, 1995; 64 FR 51843, Sept. 24, 1999]
+[48 FR 42231, Sept. 19, 1983, as amended at 53 FR 17858, May 18, 1988; 54 FR 5055, Jan. 31, 1989; 54 FR 29281, July 11, 1989; 55 FR 38516, Sept. 18, 1990; 60 FR 42656, Aug. 16, 1995; 64 FR 51843, Sept. 24, 1999; 82 FR 4714, Jan. 13, 2017]

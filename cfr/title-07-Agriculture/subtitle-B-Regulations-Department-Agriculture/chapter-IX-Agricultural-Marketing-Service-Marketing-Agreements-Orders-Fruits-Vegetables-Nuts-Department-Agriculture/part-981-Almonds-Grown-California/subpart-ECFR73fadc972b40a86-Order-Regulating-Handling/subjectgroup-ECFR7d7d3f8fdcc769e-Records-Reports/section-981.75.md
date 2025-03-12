@@ -1,0 +1,3 @@
+##### § 981.75 Confidential nature of records and reports. #####
+
+All information contained in handler records made available to the Board or the Secretary, or in reports to the Board, constituting a trade secret or disclosing the trade position, financial condition, or business operations of any handler shall be considered as confidential information. Such information received by the Board, shall be kept in the custody and under the control of one or more employees of the Board, who shall disclose such information to no person except the Secretary.

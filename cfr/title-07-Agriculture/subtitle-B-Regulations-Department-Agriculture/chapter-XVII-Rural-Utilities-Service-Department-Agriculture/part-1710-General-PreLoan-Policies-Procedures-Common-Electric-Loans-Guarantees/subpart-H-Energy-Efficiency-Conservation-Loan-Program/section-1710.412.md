@@ -1,0 +1,3 @@
+##### § 1710.412 Borrower accounting methods, management reporting, and audits. #####
+
+Nothing in this subpart changes a Borrower's obligation to comply with RUS's accounting, monitoring and reporting requirements. In addition thereto, the Administrator may also require additional management reports that provide the agency with a means of evaluating the extent to which the goals and objectives identified in the EE Plan are being accomplished.

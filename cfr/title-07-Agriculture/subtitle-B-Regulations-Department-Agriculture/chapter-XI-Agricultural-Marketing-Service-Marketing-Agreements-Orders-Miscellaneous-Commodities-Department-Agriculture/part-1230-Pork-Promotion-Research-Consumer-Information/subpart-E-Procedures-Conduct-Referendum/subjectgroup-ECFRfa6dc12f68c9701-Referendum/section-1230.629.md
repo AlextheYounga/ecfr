@@ -1,0 +1,19 @@
+##### § 1230.629 Registration and voting procedures for importers. #####
+
+(a) Individual importers, corporations, or other entities can obtain the registration and certification forms, ballots, and envelopes by mail from the following address: USDA, FSA, Operations Review and Analysis Staff, Attention: William A. Brown, P.O. Box 44366, Washington, DC 20026-4366. Importers may pick up the voting materials in-person at USDA, FSA, Operations Review and Analysis Staff, Room 2741, South Agriculture Building, 1400 Independence Avenue, SW., Washington, DC. Importers may also request voting materials by facsimile or telephone. The facsimile number is 202/690-3354. The telephone number is 202/720-6833.
+
+(b) When requesting a ballot, eligible importers will be required to submit a U.S. Customs Service Form 7501 showing that they paid the pork assessment during the representative period.
+
+(c) Upon receipt of a request and U.S. Customs Service Form 7501, the voting materials will be mailed to importers by the FSA headquarters office in Washington, DC, to the address provided by the importer or importer corporation or other entity. Only one mail ballot and registration form will be provided to each eligible importer. The forms must be requested during August 1, 2000, through September 21, 2000.
+
+(d) The FSA headquarters office in Washington, DC, will enter on the Importer Ballot Request List (Form LS-77) the name and address of the importer requesting a ballot and the date of the request.
+
+(e) To register, eligible importers will complete and sign the combined registration form and ballot (Form LS-76) and certify that:
+
+(1) To the best of their knowledge and belief the information provided on the form is true and accurate;
+
+(2) If voting on behalf of an importer corporation or other entity referred to in § 1230.612, they are authorized to do so.
+
+(f) Eligible importers, after completing the combined ballot and registration form, will remove the ballot portion of the combined registration and ballot form (Form LS-76) and seal the completed ballot in a separate envelope marked “Pork Ballot” (Form LS-72-1) and place the sealed “Pork Ballot” envelope in the mailing envelope marked “Pork Referendum” (Form LS-73-1) along with the signed registration form. Importers, corporations, or other entities must legibly print their name and address on the mailing envelope marked “Pork Referendum” (Form LS-73-1), and mail the envelope to the FSA headquarters office at the following address: USDA, FSA, Operations Review and Analysis Staff, Attention: William A. Brown, Post Office Box 44366, Washington, DC 20026-4366. Importers may hand deliver the “Pork Referendum” envelope to USDA, FSA, Operations Review and Analysis Staff, Room 2741, South Agriculture Building, 1400 Independence Avenue, SW., Washington, DC.
+
+(g) The “Pork Referendum” envelope (Form LS-73-1) containing the registration form and ballot has to be postmarked with a date not later than the last day of the in-person voting period, which is September 21, 2000, and be received in the FSA headquarters office by the close of business on the 5th business day after the date of the last day of the in-person voting period, which is September 28, 2000. If delivered in-person, it has to reach headquarters office not later than the last day of the in-person voting period. Ballots received after that date will be counted as invalid ballots. Upon receiving the “Pork Referendum” envelope (Form LS-73-1) containing the registration form and ballot, an FSA employee will record the date the “Pork Referendum” envelope containing the completed ballot was received in the FSA headquarters office in Washington, DC, on the Importer Ballot Request List (Form LS-77) directly opposite the voting importer's name. The FSA employee will place the “Pork Referendum” envelope, unopened, in a secure ballot box.

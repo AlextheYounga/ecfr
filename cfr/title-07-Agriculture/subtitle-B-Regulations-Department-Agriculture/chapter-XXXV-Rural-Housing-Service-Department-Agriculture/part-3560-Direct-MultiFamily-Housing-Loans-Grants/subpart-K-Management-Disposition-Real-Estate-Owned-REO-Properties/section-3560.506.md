@@ -1,0 +1,7 @@
+##### § 3560.506 Conversion of single family type REO property to MFH use. #####
+
+Single family type REO property may be sold for conversion to MFH program use under the following conditions:
+
+(a) The Agency will allow nonprofit organizations, public bodies, or for-profit entities to purchase single family type REO property for conversion to MFH program use. When the Agency finances the sale of single family-type REO property for conversion to rural rental housing program use (*i.e.*, MFH including group homes and homes for the elderly or disabled, farm labor housing, or rural cooperative housing), the sale price will be the lesser of the Federal Government's investment or an amount based on the “as-is” market value of the housing project as determined by an appraisal conducted in accordance with subpart P of this part.
+
+(b) The Agency will only accept written offers to purchase two or more single family type REO properties for conversion to rural rental housing from nonprofit organizations, public bodies, or for-profit entities with a good record of providing housing under the Agency's MFH programs. The single family type properties are not required to be contiguous, however, they must be located in close enough proximity so that management capabilities are not diminished because of distance.

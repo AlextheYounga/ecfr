@@ -1,6 +1,6 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 81 FR 72738, October 21, 2016.Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 81 FR 93488, December 20, 2016.
+Link to an amendment published at 81 FR 72738, October 21, 2016.Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 81 FR 93488, December 20, 2016.Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
@@ -72,7 +72,7 @@ Contract Terms and Conditions Required to Implement Statutes or Executive Orders
 
 \_\_(18) 52.219-13, Notice of Set-Aside of Orders (NOV 2011) (15 U.S.C. 644(r)).
 
-\_\_(19) *52.219-14,* Limitations on Subcontracting (NOV 2011) (15 U.S.C. 637(a)(14)).
+\_\_\_ (19) 52.219-14, Limitations on Subcontracting (JAN 2017) (15 U.S.C. 637(a)(14)).
 
 \_\_\_(20) 52.219-16, Liquidated Damages - Subcontracting Plan (JAN 1999) (15 U.S.C. 637(d)(4)(F)(i)).
 
@@ -164,7 +164,7 @@ By a court order issued on October 24, 2016, 52.222-59 is enjoined indefinitely 
 
 \_\_\_(54) 52.232-29, Terms for Financing of Purchases of Commercial Items (FEB 2002) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
 
-\_\_\_(55) 52.232-30, Installment Payments for Commercial Items (OCT 1995) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
+\_\_ (55) 52.232-30, Installment Payments for Commercial Items (JAN 2017) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
 
 \_\_ (56) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (JUL 2013) (31 U.S.C. 3332).
 

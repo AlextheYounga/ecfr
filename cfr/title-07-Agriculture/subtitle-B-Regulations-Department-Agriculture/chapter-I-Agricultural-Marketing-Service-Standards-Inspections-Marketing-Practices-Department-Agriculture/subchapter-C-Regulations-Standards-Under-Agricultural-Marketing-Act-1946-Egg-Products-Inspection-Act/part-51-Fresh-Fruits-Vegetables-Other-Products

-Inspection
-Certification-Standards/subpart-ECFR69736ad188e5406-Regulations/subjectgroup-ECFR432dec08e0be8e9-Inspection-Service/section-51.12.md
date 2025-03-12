@@ -1,0 +1,3 @@
+##### § 51.12 Accessibility of products. #####
+
+The applicant shall cause the products for which inspection is requested to be made reasonably accessible for sampling or inspection and to be so placed as to disclose their quality or condition. Samples of the products drawn for examination shall be inspected only under such conditions as, in the opinion of the inspector, will permit a true and correct determination to be made of their quality or condition.

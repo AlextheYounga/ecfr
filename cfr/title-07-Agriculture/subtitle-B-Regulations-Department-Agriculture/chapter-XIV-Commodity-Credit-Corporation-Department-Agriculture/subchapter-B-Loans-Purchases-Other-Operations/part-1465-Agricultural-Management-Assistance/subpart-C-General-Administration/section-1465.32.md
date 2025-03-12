@@ -1,0 +1,3 @@
+##### § 1465.32 Access to operating unit. #####
+
+Any authorized NRCS representative will have the right to enter an operating unit or tract for the purpose of determining eligibility and for ascertaining the accuracy of any representations related to contracts and performance. Access will include the right to provide technical assistance; determine eligibility; inspect any work undertaken under the contracts, including the APO and O&M agreement; and collect information necessary to evaluate the conservation practice performance as specified in the contracts. The NRCS representative will make an effort to contact the participant prior to exercising this provision.

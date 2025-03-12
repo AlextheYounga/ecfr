@@ -1,0 +1,3 @@
+##### § 52.29 Who may become licensed sampler. #####
+
+Any person deemed to have the necessary qualifications may be licensed as a licensed sampler to draw samples for the purpose of inspection under the regulations in this part. Such a license shall bear the printed signature of the Secretary, and shall be countersigned by an authorized employee of the Department. Licensed samplers shall have no authority to inspect processed products under the regulations in this part except as to identification and condition of the containers in a lot. A licensed sampler shall perform his duties pursuant to the regulations in this part as directed by the Administrator.

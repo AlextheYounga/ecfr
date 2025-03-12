@@ -1,0 +1,7 @@
+##### § 760.803 Eligibility. #####
+
+(a) Participants will be eligible to receive disaster benefits under this part only if they incurred qualifying quantity or quality losses for the 2005, 2006, or 2007 crops, as further specified in this part, as a result of damaging weather or any related condition. Participants may not receive benefits with respect to volunteer stands of crops.
+
+(b) Payments may be made for losses suffered by an eligible participant who, at the time of application, is a deceased individual or is a dissolved entity if a representative, who currently has authority to enter into a contract for the participant, signs the 2005, 2006, or 2007 Crop Disaster Program application. Participants must provide proof of the authority to sign legal documents for the deceased individual or dissolved entity. If a participant is now a dissolved general partnership or joint venture, all members of the general partnership or joint venture at the time of dissolution or their duly authorized representatives must sign the application for payment.
+
+(c) As a condition to receive benefits under this part, the Participant must have been in compliance with the Highly Erodible Land Conservation and Wetland Conservation provisions of part 12 of this title for the 2005, 2006, or 2007 crop year, as applicable, and must not otherwise be precluded from receiving benefits under parts 12 or 1400 of this title or any law.

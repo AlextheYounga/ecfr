@@ -2,11 +2,11 @@
 
 As prescribed in 32.908(c), insert the following clause:
 
-Prompt Payment (JUL 2013)
+Prompt Payment (JAN 2017)
 
 Notwithstanding any other payment clause in this contract, the Government will make invoice payments under the terms and conditions specified in this clause. The Government considers payment as being made on the day a check is dated or the date of an electronic funds transfer (EFT). Definitions of pertinent terms are set forth in sections 2.101, 32.001, and 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see paragraph (a)(4) of this clause concerning payments due on Saturdays, Sundays, and legal holidays.)
 
-(a) *Invoice payments* - (1) *Due date.* (i) Except as indicated in paragraphs (a)(2) and (c) of this clause, the due date for making invoice payments by the designated payment office is the later of the following two events:
+(a) *Invoice payments*—(1) *Due date.* (i) Except as indicated in paragraphs (a)(2) and (c) of this clause, the due date for making invoice payments by the designated payment office is the later of the following two events:
 
 (A) The 30th day after the designated billing office receives a proper invoice from the Contractor (except as provided in paragraph (a)(1)(ii) of this clause).
 
@@ -14,7 +14,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (ii) If the designated billing office fails to annotate the invoice with the actual date of receipt at the time of receipt, the invoice payment due date is the 30th day after the date of the Contractor's invoice, provided the designated billing office receives a proper invoice and there is no disagreement over quantity, quality, or Contractor compliance with contract requirements.
 
-(2) *Certain food products and other payments.* (i) Due dates on Contractor invoices for meat, meat food products, or fish; perishable agricultural commodities; and dairy products, edible fats or oils, and food products prepared from edible fats or oils are -
+(2) *Certain food products and other payments.* (i) Due dates on Contractor invoices for meat, meat food products, or fish; perishable agricultural commodities; and dairy products, edible fats or oils, and food products prepared from edible fats or oils are—
 
 (A) For meat or meat food products, as defined in section 2(a)(3) of the Packers and Stockyard Act of 1921 (7 U.S.C. 182(3)), and as further defined in Pub. L. 98-181, including any edible fresh or frozen poultry meat, any perishable poultry meat food product, fresh eggs, and any perishable egg product, as close as possible to, but not later than, the 7th day after product delivery.
 
@@ -32,7 +32,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (ii) Invoice date and invoice number. (The Contractor should date invoices as close as possible to the date of the mailing or transmission.)
 
-(iii) Contract number or other authorization for supplies delivered or services performed (including order number and contract line item number).
+(iii) Contract number or other authorization for supplies delivered or services performed (including order number and line item number).
 
 (iv) Description, quantity, unit of measure, unit price, and extended price of supplies delivered or services performed.
 
@@ -48,7 +48,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (A) The Contractor shall include EFT banking information on the invoice only if required elsewhere in this contract.
 
-(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer - System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer - Other Than System for Award Management), or applicable agency procedures.
+(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer—System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer—Other Than System for Award Management), or applicable agency procedures.
 
 (C) EFT banking information is not required if the Government waived the requirement to pay by EFT.
 
@@ -70,7 +70,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (6) *Discounts for prompt payment.* The designated payment office will pay an interest penalty automatically, without request from the Contractor, if the Government takes a discount for prompt payment improperly. The Government will calculate the interest penalty in accordance with the prompt payment regulations at 5 CFR part 1315.
 
-(7) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315 in addition to the interest penalty amount only if -
+(7) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315 in addition to the interest penalty amount only if—
 
 (A) The Government owes an interest penalty of $1 or more;
 
@@ -78,7 +78,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (C) The Contractor makes a written demand to the designated payment office for additional penalty payment, in accordance with paragraph (a)(7)(ii) of this clause, postmarked not later than 40 days after the invoice amount is paid.
 
-(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall -
+(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall—
 
 (*1*) Specifically assert that late payment interest is due under a specific invoice, and request payment of all overdue late payment interest penalty and such additional penalty as may be required;
 
@@ -86,7 +86,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (*3*) State that payment of the principal has been received, including the date of receipt.
 
-(B) If there is no postmark or the postmark is illegible -
+(B) If there is no postmark or the postmark is illegible—
 
 (*1*) The designated payment office that receives the demand will annotate it with the date of receipt, provided the demand is received on or before the 40th day after payment was made; or
 
@@ -98,15 +98,15 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (c) *Fast payment procedure due dates.* If this contract contains the clause at 52.213-1, Fast Payment Procedure, payments will be made within 15 days after the date of receipt of the invoice.
 
-(d) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall -
+(d) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall—
 
-(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (i) Circumstances of the overpayment (*e.g.*, duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
 (ii) Affected contract number and delivery order number if applicable;
 
-(iii) Affected contract line item or subline item, if applicable; and
+(iii) Affected line item or subline item, if applicable; and
 
 (iv) Contractor point of contact.
 
@@ -116,7 +116,7 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 *Alternate I* (FEB 2002). As prescribed in 32.908(c)(3), add the following paragraph (e) to the basic clause:
 
-(e) *Invoices for interim payments.* For interim payments under this cost-reimbursement contract for services -
+(e) *Invoices for interim payments.* For interim payments under this cost-reimbursement contract for services—
 
 (1) Paragraphs (a)(2), (a)(3), (a)(4)(ii), (a)(4)(iii), and (a)(5)(i) do not apply;
 
@@ -124,4 +124,4 @@ Notwithstanding any other payment clause in this contract, the Government will m
 
 (3) The contractor shall submit invoices for interim payments in accordance with paragraph (a) of FAR 52.216-7, Allowable Cost and Payment. If the invoice does not comply with contract requirements, it will be returned within 7 days after the date the designated billing office received the invoice.
 
-[66 FR 65361, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 73 FR 54006, Sept. 17, 2008; 78 FR 37683, June 21, 2013]
+[66 FR 65361, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 73 FR 54006, Sept. 17, 2008; 78 FR 37683, June 21, 2013; 82 FR 4715, Jan. 13, 2017]

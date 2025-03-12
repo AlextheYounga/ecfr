@@ -1,0 +1,3 @@
+##### § 15.136 Decisions and notices. #####
+
+When the time for submission of posthearing briefs has expired the hearing officer shall either make an initial decision or final decision, if so authorized, or certify the entire record including his recommended findings and proposed decision to the Secretary for a final decision and a copy of such initial, or final decision or certification shall be mailed to the applicant or recipient and other parties by the hearing clerk.

@@ -1,0 +1,3 @@
+##### § 1221.232 Disposition of records. #####
+
+Each FSA CED will place in sealed containers marked with the identification of the “Sorghum Checkoff Program Referendum,” all of the Forms LS-379 along with the accompanying documentation and county summaries. Such records will be placed in a secure location under the custody of FSA CED for a period of not less than 12 months after the date of notification by the Administrator, FSA, that the final results have been announced by the Secretary. If the county FSA office receives no notice to the contrary from the Administrator, FSA, by the end of the 12 month period as described above, the CED or designee shall destroy the records.

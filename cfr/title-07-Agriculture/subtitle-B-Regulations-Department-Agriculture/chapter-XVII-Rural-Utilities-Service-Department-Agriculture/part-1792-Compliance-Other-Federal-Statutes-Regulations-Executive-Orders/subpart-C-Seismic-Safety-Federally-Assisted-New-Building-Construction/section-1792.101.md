@@ -1,0 +1,7 @@
+##### § 1792.101 General. #####
+
+(a) The Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701 *et seq.*) was enacted to reduce risks to life and property through the establishment and maintenance of an effective earthquake hazards reduction program (the National Earthquake Hazards Reduction Program or NEHRP). The Federal Emergency Management Agency (FEMA) is designated as the agency with the primary responsibilities to plan and coordinate the NEHRP. This program includes the development and implementation of feasible design and construction methods to make structures earthquake resistant. Executive Order 12699 of January 5, 1990, Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction (3 CFR, 1990 Comp., p. 269), requires that measures to assure seismic safety be imposed on federally assisted new building construction.
+
+(b) This subpart identifies acceptable seismic standards which must be employed in new building construction funded by loans, grants, or guarantees made by the Rural Utilities Service (RUS) or the Rural Telephone Bank (RTB) (or through lien accommodations or subordinations approved by RUS or RTB).
+
+[58 FR 32437, June 10, 1993, as amended at 65 FR 76916, Dec. 8, 2000]

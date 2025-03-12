@@ -1,0 +1,3 @@
+##### § 1782.1 Purpose. #####
+
+This part outlines the Rural Utilities Service's (RUS), an agency delivering the United States Department of Agriculture's (USDA) Rural Development Utilities Programs, hereinafter referred to as Rural Development and/or Agency, policies and procedures for servicing direct and insured Water and Waste Disposal (WWD) loans and grants; Watershed loans and advances; Resource Conservation and Development loans; Technical Assistance and Training grants; Emergency Community Water Assistance grants; Solid Waste Management grants; and section 306C WWD loans and grants.

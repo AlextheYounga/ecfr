@@ -1,0 +1,36 @@
+##### § 1.604 What deadlines apply to the trial-type hearing and alternatives processes? #####
+
+(a) The following table summarizes the steps in the trial-type hearing process under this subpart and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this subpart or by the ALJ, the deadlines as set by those other sections or by the ALJ control.
+
+|                                               Process step                                                |Process day|                                      Must generally be completed                                       |See section|
+|-----------------------------------------------------------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------|-----------|
+|                        (1) Forest Service files preliminary condition(s) with FERC                        |     0     |                                                                                                        |  1.620.   |
+|                                (2) License party files request for hearing                                |    30     |              Within 30 days after Forest Service files preliminary condition(s) with FERC              | 1.621(a). |
+|                   (3) Any other license party files notice of intervention and response                   |    50     |                     Within 20 days after deadline for filing requests for hearing                      | 1.622(a). |
+|            (4) NFS refers case to ALJ office for hearing and issues referral notice to parties            |    85     |                     Within 55 days after deadline for filing requests for hearing                      | 1.626(a). |
+|                        (5) Parties may meet and agree to discovery (optional step)                        |   86-91   |                          Before deadline for filing motions seeking discovery                          | 1.641(a). |
+|(6) ALJ office sends docketing notice, and ALJ issues notice setting date for initial prehearing conference|    90     |                         Within 5 days after effective date of referral notice                          |  1.630.   |
+|                        (7) Party files motion seeking discovery from another party                        |    92     |                         Within 7 days after effective date of referral notice                          | 1.641(d). |
+|      (8) Other party files objections to discovery motion or specific portions of discovery requests      |    99     |                            Within 7 days after service of discovery motion                             | 1.641(e). |
+|                        (9) Parties meet to discuss discovery and hearing schedule                         |  100-104  |                           Before date set for initial prehearing conference                            | 1.640(d). |
+|                              (10) ALJ conducts initial prehearing conference                              |    105    |                      On or about 20th day after effective date of referral notice                      | 1.640(a). |
+|                       (11) ALJ issues order following initial prehearing conference                       |    107    |                           Within 2 days after initial prehearing conference                            | 1.640(g). |
+|              (12) Party responds to interrogatories from another party as authorized by ALJ               |  120-22   |Within 15 days after ALJ's order authorizing discovery during or following initial prehearing conference| 1.643(c). |
+|       (13) Party responds to requests for documents, etc., from another party as authorized by ALJ        |  120-22   |Within 15 days after ALJ's order authorizing discovery during or following initial prehearing conference| 1.645(c). |
+|             (14) Parties complete all discovery, including depositions, as authorized by ALJ              |    130    |                           Within 25 days after initial prehearing conference                           | 1.641(i). |
+|                         (15) Parties file updated lists of witnesses and exhibits                         |    140    |                       Within 10 days after deadline for completion of discovery                        | 1.642(b). |
+|                                (16) Parties file written direct testimony                                 |    140    |                       Within 10 days after deadline for completion of discovery                        | 1.652(a). |
+|                  (17) Parties complete prehearing preparation and ALJ commences hearing                   |    155    |                       Within 25 days after deadline for completion of discovery                        | 1.650(a). |
+|                                      (18) ALJ closes hearing record                                       |    160    |                                        When ALJ closes hearing                                         |  1.658.   |
+|                                   (19) Parties file post-hearing briefs                                   |    175    |                                  Within 15 days after hearing closes                                   | 1.659(a). |
+|                                         (20) ALJ issues decision                                          |    190    |                                  Within 30 days after hearing closes                                   | 1.660(a). |
+
+(b) The following table summarizes the steps in the alternatives process under this subpart and indicates the deadlines generally applicable to each step. If the deadlines in this table are in any way inconsistent with the deadlines as set by other sections of this subpart, the deadlines as set by those other sections control.
+
+|                             Process step                             |Process day|                            Must generally be completed                            |See section|
+|----------------------------------------------------------------------|-----------|-----------------------------------------------------------------------------------|-----------|
+|     (1) Forest Service files preliminary condition(s) with FERC      |     0     |                                                                                   |  1.620.   |
+|           (2) License party files alternative condition(s)           |    30     |   Within 30 days after Forest Service files preliminary condition(s) with FERC    | 1.671(a). |
+|            (3) ALJ issues decision on any hearing request            |    190    |             Within 30 days after hearing closes (see previous table)              | 1.660(a). |
+|(4) License party files revised alternative condition(s) if authorized|    210    |                     Within 20 days after ALJ issues decision                      | 1.672(a). |
+|       (5) Forest Service files modified condition(s) with FERC       |    300    |Within 60 days after the deadline for filing comments on FERC's draft NEPA document| 1.673(a). |

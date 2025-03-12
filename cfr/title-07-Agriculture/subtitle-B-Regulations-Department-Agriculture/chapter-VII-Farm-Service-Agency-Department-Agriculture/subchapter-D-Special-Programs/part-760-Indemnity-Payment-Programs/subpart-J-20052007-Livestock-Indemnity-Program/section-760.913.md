@@ -1,0 +1,3 @@
+##### § 760.913 Refunds; joint and several liability. #####
+
+In the event there is a failure to comply with any term, requirement, or condition for payment or assistance arising under this subpart, and if any refund of a payment to FSA will otherwise become due in connection with this subpart, all payments made in regard to such matter must be refunded to FSA together with interest and late-payment charges as provided for in part 792 of this chapter.

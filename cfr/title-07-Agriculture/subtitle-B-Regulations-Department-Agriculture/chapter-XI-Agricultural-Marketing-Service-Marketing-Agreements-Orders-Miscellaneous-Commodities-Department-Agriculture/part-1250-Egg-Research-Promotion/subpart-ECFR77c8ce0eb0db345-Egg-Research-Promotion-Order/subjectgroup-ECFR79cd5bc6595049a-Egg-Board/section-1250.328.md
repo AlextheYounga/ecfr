@@ -1,0 +1,15 @@
+##### § 1250.328 Nominations. #####
+
+All nominations authorized under § 1250.326 shall be made in the following manner:
+
+(a) Within 30 days of the approval of this order by referendum, nominations shall be submitted to the Secretary for each geographic area as specified in paragraph (d) of this section by eligible organizations, associations, or cooperatives certified pursuant to § 1250.356, or, if the Secretary determines that a substantial number of egg producers are not members of, or their interests are not represented by, any such eligible organization, association, or cooperative, then from nominations made by such egg producers in the manner authorized by the Secretary;
+
+(b) After the establishment of the initial Board, the nominations for subsequent Board members and alternates shall be submitted to the Secretary not less than 60 days prior to the expiration of the terms of the members and alternates previously appointed to the Board;
+
+(c) Where there is more than one eligible organization, association, or cooperative within each geographic area, as defined by the Secretary, they may caucus for the purpose of jointly nominating two qualified persons for each member and for each alternate member to be appointed. If joint agreement is not reached with respect to any such nominations, or if no caucus is held within a defined geographic area, each eligible organization, association, or cooperative may submit to the Secretary two nominations for each appointment to be made;
+
+(d) The number of members of the initial Board, and their alternates, who shall be appointed from each area are: Area 1-3, Area 2-4, Area 3-2, Area 4-2, Area 5-4, and Area 6-3, for a total of 18 members from all areas. Changes to the Board as provided in paragraph (e) of this section shall be accomplished by determining the percentage of United States egg production in each area times 18 (total Board membership) and rounding to the nearest whole number; and
+
+(e) After the establishment of the initial Board, the area grouping of the 48 contiguous States of the United States, including the area distribution of the 18 members of the Board and their alternates, shall be reviewed at any time not to exceed 5 years by the Board, or by a person or agency designated by the Board to perform such review, and the results shall be reported to the Secretary along with any recommendations by the Board regarding whether the delineation of the areas and the area distribution of the Board should continue without any change, or whether changes should be made in either the areas or the number of Board members to be appointed from each area, providing that each area shall be represented by not less than one Board member and any action recommended shall be subject to the approval of the Secretary.
+
+[40 FR 59190, Dec. 22, 1975, as amended at 60 FR 66861, Dec. 27, 1995]

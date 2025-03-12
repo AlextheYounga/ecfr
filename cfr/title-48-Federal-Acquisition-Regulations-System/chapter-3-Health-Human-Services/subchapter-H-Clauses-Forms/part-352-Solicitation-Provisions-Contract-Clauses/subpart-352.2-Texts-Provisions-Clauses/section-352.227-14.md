@@ -1,14 +1,14 @@
-##### 352.227-14 Rights in Data - Exceptional Circumstances. #####
+##### 352.227-14 Rights in Data—Exceptional Circumstances. #####
 
 As prescribed in HHSAR 327.409, insert the following clause with any appropriate alternates:
 
-Rights in Data - Exceptional Circumstances (SEPT 2014)
+Rights in Data—Exceptional Circumstances (SEPT 2014)
 
-(a) *Definitions.* As used in this clause - Definitions may be added or modified in paragraph (a) as applicable.
+(a) *Definitions.* As used in this clause—Definitions may be added or modified in paragraph (a) as applicable.
 
 *Computer database or database* means a collection of recorded information in a form capable of, and for the purpose of, being stored in, processed, and operated on by a computer. The term does not include computer software.
 
-*Computer software* - (i) Means (A) Computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
+*Computer software*—(i) Means (A) Computer programs that comprise a series of instructions, rules, routines, or statements, regardless of the media in which recorded, that allow or cause a computer to perform a specific operation or series of operations; and
 
 (B) Recorded information comprising source code listings, design details, algorithms, processes, flow charts, formulas, and related material that would enable the computer program to be produced, created, or compiled.
 
@@ -30,7 +30,7 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 *Unlimited rights* means the rights of the Government to use, disclose, reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, in any manner and for any purpose, and to have or permit others to do so.
 
-(b) *Allocation of rights.* (1) Except as provided in paragraph (c) of this clause, the Government shall have unlimited rights in -
+(b) *Allocation of rights.* (1) Except as provided in paragraph (c) of this clause, the Government shall have unlimited rights in—
 
 (i) Data first produced in the performance of this contract;
 
@@ -40,7 +40,7 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 (iv) All other data delivered under this contract unless provided otherwise for limited rights data or restricted computer software in accordance with paragraph (g) of this clause.
 
-(2) The Contractor shall have the right to -
+(2) The Contractor shall have the right to—
 
 (i) Assert copyright in data first produced in the performance of this contract to the extent provided in paragraph (c)(1) of this clause;
 
@@ -50,13 +50,13 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 (iv) Protect from unauthorized disclosure and use those data that are limited rights data or restricted computer software to the extent provided in paragraph (g) of this clause.
 
-(c) *Copyright* - (1) *Data first produced in the performance of this contract.* (i) Unless provided otherwise in paragraph (d) of this clause, the Contractor may, without prior approval of the Contracting Officer, assert copyright in scientific and technical articles based on or containing data first produced in the performance of this contract and published in academic, technical or professional journals, symposia proceedings, or similar works. The prior, express written permission of the Contracting Officer is required to assert copyright in all other data first produced in the performance of this contract.
+(c) *Copyright*—(1) *Data first produced in the performance of this contract.* (i) Unless provided otherwise in paragraph (d) of this clause, the Contractor may, without prior approval of the Contracting Officer, assert copyright in scientific and technical articles based on or containing data first produced in the performance of this contract and published in academic, technical or professional journals, symposia proceedings, or similar works. The prior, express written permission of the Contracting Officer is required to assert copyright in all other data first produced in the performance of this contract.
 
 (ii) When authorized to assert copyright to the data, the Contractor shall affix the applicable copyright notices of 17 U.S.C. 401 or 402, and an acknowledgment of Government sponsorship (including contract number).
 
 (iii) For data other than computer software, the Contractor grants to the Government and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license in such copyrighted data to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly by or on behalf of the Government. For computer software, the Contractor grants to the Government, and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license in such copyrighted computer software to reproduce, prepare derivative works, and perform publicly and display publicly (but not to distribute copies to the public) by or on behalf of the Government.
 
-(2) Data not first produced in the performance of this contract. The Contractor shall not, without the prior written permission of the Contracting Officer, incorporate in data delivered under this contract any data not first produced in the performance of this contract unless the Contractor -
+(2) Data not first produced in the performance of this contract. The Contractor shall not, without the prior written permission of the Contracting Officer, incorporate in data delivered under this contract any data not first produced in the performance of this contract unless the Contractor—
 
 (i) Identifies the data; and
 
@@ -64,15 +64,15 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 (3) *Removal of copyright notices.* The Government will not remove any authorized copyright notices placed on data pursuant to this paragraph (c), and will include such notices on all reproductions of the data.
 
-(d) Release, publication, and use of data. The Contractor shall have the right to use, release to others, reproduce, distribute, or publish any data first produced or specifically used by the Contractor in the performance of this contract, except -
+(d) Release, publication, and use of data. The Contractor shall have the right to use, release to others, reproduce, distribute, or publish any data first produced or specifically used by the Contractor in the performance of this contract, except—
 
-(1) As prohibited by Federal law or regulation (*e.g.,* export control or national security laws or regulations);
+(1) As prohibited by Federal law or regulation (e.g., export control or national security laws or regulations);
 
 (2) As expressly set forth in this contract; or
 
 (3) If the Contractor receives or is given access to data necessary for the performance of this contract that contain restrictive markings, the Contractor shall treat the data in accordance with such markings unless specifically authorized otherwise in writing by the Contracting Officer or in the following paragraphs.
 
-(4) In addition to any other provisions, set forth in this contract, the Contractor shall ensure that information concerning possible inventions made under this contract is not prematurely published thereby adversely affecting the ability to obtain patent protection on such inventions. Accordingly, the Contractor will provide the Contracting Officer a copy of any publication or other public disclosure relating to the work performed under this contract at least 30 days in advance of the disclosure. Upon the Contracting Officer's request the Contractor agrees to delay the public disclosure of such data or publication of a specified paper for a reasonable time specified by the Contracting Officer, not to exceed 6 months, to allow for the filing of domestic and international patent applications in accordance with Clause 352.227-11, Patent Rights - Exceptional Circumstances (abbreviated month and year of Final Rule publication).
+(4) In addition to any other provisions, set forth in this contract, the Contractor shall ensure that information concerning possible inventions made under this contract is not prematurely published thereby adversely affecting the ability to obtain patent protection on such inventions. Accordingly, the Contractor will provide the Contracting Officer a copy of any publication or other public disclosure relating to the work performed under this contract at least 30 days in advance of the disclosure. Upon the Contracting Officer's request the Contractor agrees to delay the public disclosure of such data or publication of a specified paper for a reasonable time specified by the Contracting Officer, not to exceed 6 months, to allow for the filing of domestic and international patent applications in accordance with Clause 352.227-11, Patent Rights—Exceptional Circumstances (abbreviated month and year of Final Rule publication).
 
 (5) *Data on Material(s).* The Contractor agrees that in accordance with paragraph (d)(2), proprietary data on Material(s) provided to the Contractor under or through this contract shall be used only for the purpose for which they were provided, including screening, evaluation or optimization and for no other purpose.
 
@@ -94,7 +94,7 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 (f) *Omitted or incorrect markings.* (1) Data delivered to the Government without any restrictive markings shall be deemed to have been furnished with unlimited rights. The Government is not liable for the disclosure, use, or reproduction of such data.
 
-(2) If the unmarked data has not been disclosed without restriction outside the Government, the Contractor may request, within 6 months (or a longer time approved by the Contracting Officer in writing for good cause shown) after delivery of the data, permission to have authorized notices placed on the data at the Contractor's expense. The Contracting Officer may agree to do so if the Contractor -
+(2) If the unmarked data has not been disclosed without restriction outside the Government, the Contractor may request, within 6 months (or a longer time approved by the Contracting Officer in writing for good cause shown) after delivery of the data, permission to have authorized notices placed on the data at the Contractor's expense. The Contracting Officer may agree to do so if the Contractor—
 
 (i) Identifies the data to which the omitted notice is to be applied;
 
@@ -104,13 +104,13 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 (iv) Acknowledges that the Government has no liability for the disclosure, use, or reproduction of any data made prior to the addition of the notice or resulting from the omission of the notice.
 
-(3) If data has been marked with an incorrect notice, the Contracting Officer may -
+(3) If data has been marked with an incorrect notice, the Contracting Officer may—
 
 (i) Permit correction of the notice at the Contractor's expense if the Contractor identifies the data and demonstrates that the correct notice is authorized; or
 
 (ii) Correct any incorrect notices.
 
-(g) *Protection of limited rights data and restricted computer software.* (1) The Contractor may withhold from delivery qualifying limited rights data or restricted computer software that are not data identified in paragraphs (b)(1)(i) through (iii) of this clause. As a condition to this withholding, the Contractor shall -
+(g) *Protection of limited rights data and restricted computer software.* (1) The Contractor may withhold from delivery qualifying limited rights data or restricted computer software that are not data identified in paragraphs (b)(1)(i) through (iii) of this clause. As a condition to this withholding, the Contractor shall—
 
 (i) Identify the data being withheld; and
 
@@ -136,7 +136,7 @@ Rights in Data - Exceptional Circumstances (SEPT 2014)
 
 Limited Rights Notice (SEPT 2014)
 
-(a) These data are submitted with limited rights under Government Contract No. \_\_ (and subcontract \_\_, if appropriate). These data may be reproduced and used by the Government with the express limitation that they will not, without written permission of the Contractor, be used for purposes of manufacture nor disclosed outside the Government; except that the Government may disclose these data outside the Government for the following purposes, if any; provided that the Government makes such disclosure subject to prohibition against further use and disclosure: Agencies may list additional purposes or if none, so state.
+(a) These data are submitted with limited rights under Government Contract No. \_\_\_\_ (and subcontract \_\_\_\_, if appropriate). These data may be reproduced and used by the Government with the express limitation that they will not, without written permission of the Contractor, be used for purposes of manufacture nor disclosed outside the Government; except that the Government may disclose these data outside the Government for the following purposes, if any; provided that the Government makes such disclosure subject to prohibition against further use and disclosure: Agencies may list additional purposes or if none, so state.
 
 (b) This notice shall be marked on any reproduction of these data, in whole or in part.
 
@@ -146,9 +146,9 @@ Limited Rights Notice (SEPT 2014)
 
 Restricted Rights Notice (SEPT 2014)
 
-(a) This computer software is submitted with restricted rights under Government Contract No. \_\_ (and subcontract \_\_, if appropriate). It may not be used, reproduced, or disclosed by the Government except as provided in paragraph (b) of this notice or as otherwise expressly stated in the contract.
+(a) This computer software is submitted with restricted rights under Government Contract No. \_\_\_\_ (and subcontract \_\_\_\_, if appropriate). It may not be used, reproduced, or disclosed by the Government except as provided in paragraph (b) of this notice or as otherwise expressly stated in the contract.
 
-(b) This computer software may be -
+(b) This computer software may be—
 
 (1) Used or copied for use with the computer(s) for which it was acquired, including use at any Government installation to which the computer(s) may be transferred;
 
@@ -174,7 +174,7 @@ Restricted Rights Notice (SEPT 2014)
 
 Restricted Rights Notice Short Form (SEPT 2014)
 
-Use, reproduction, or disclosure is subject to restrictions set forth in Contract No. \_\_ (and subcontract, if appropriate) with \_\_ (name of Contractor and subcontractor).
+Use, reproduction, or disclosure is subject to restrictions set forth in Contract No. \_\_\_\_ (and subcontract, if appropriate) with \_\_\_\_ (name of Contractor and subcontractor).
 
 (End of notice)
 
@@ -182,7 +182,7 @@ Use, reproduction, or disclosure is subject to restrictions set forth in Contrac
 
 *Alternate IV Sept 2014*). As prescribed in HHSAR 327.409, substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
 
-(c) *Copyright* - (1) *Data first produced in the performance of the contract.* Except as otherwise specifically provided in this contract, the Contractor may assert copyright in any data first produced in the performance of this contract. When asserting copyright, the Contractor shall affix the applicable copyright notice of 17 U.S.C. 401 or 402, and an acknowledgment of Government sponsorship (including contract number), to the data when such data are delivered to the Government, as well as when the data are published or deposited for registration as a published work in the U.S. Copyright Office. For data other than computer software, the Contractor grants to the Government, and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license for all such data to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the Government. For computer software, the Contractor grants to the Government and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license for all such computer software to reproduce, prepare derivative works, and perform publicly and display publicly (but not to distribute copies to the public), by or on behalf of the Government.
+(c) *Copyright*—(1) *Data first produced in the performance of the contract.* Except as otherwise specifically provided in this contract, the Contractor may assert copyright in any data first produced in the performance of this contract. When asserting copyright, the Contractor shall affix the applicable copyright notice of 17 U.S.C. 401 or 402, and an acknowledgment of Government sponsorship (including contract number), to the data when such data are delivered to the Government, as well as when the data are published or deposited for registration as a published work in the U.S. Copyright Office. For data other than computer software, the Contractor grants to the Government, and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license for all such data to reproduce, prepare derivative works, distribute copies to the public, and perform publicly and display publicly, by or on behalf of the Government. For computer software, the Contractor grants to the Government and others acting on its behalf, a paid-up, nonexclusive, irrevocable, worldwide license for all such computer software to reproduce, prepare derivative works, and perform publicly and display publicly (but not to distribute copies to the public), by or on behalf of the Government.
 
 *Alternate V (Sept 2014).* As prescribed in HHSAR 327.409, add the following paragraph (j) to the basic clause:
 

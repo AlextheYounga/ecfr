@@ -1,0 +1,3 @@
+##### § 15.93 Time and place of hearing. #####
+
+When a notice of hearing is sent to an applicant or recipient, the time and place of hearing shall be fixed by the Secretary, and when the applicant or recipient requests a hearing, the time and place shall be set by the hearing officer and in either case in conformity with § 15.9(b). The complainant, if any, shall be advised of the time and place of the hearing.

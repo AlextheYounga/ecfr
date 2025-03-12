@@ -1,0 +1,3 @@
+##### § 82.10 Claim for payment. #####
+
+To obtain payment for the trees removed, the grower must submit to the CCPA by July 31, 2006, a completed form provided by the CCPA. Such form shall include the CCPA's certification that the qualifying trees from the acreage have been removed. AMS will then issue a check to the grower in the amount of $100 per eligible ton removed consistent with the minimum and maximum payments per acre earlier specified in this part.

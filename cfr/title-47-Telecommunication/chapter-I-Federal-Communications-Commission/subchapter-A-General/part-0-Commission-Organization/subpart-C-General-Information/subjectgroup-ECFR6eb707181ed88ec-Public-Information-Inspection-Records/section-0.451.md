@@ -1,5 +1,7 @@
 ##### § 0.451 Inspection of records: Generally. #####
 
+Link to an amendment published at 82 FR 4189, January 13, 2017.
+
 (a) *Records which are routinely available for public inspection.* Sections 0.453 and 0.455 list those Commission records which are routinely available for public inspection and the places at which those records may be inspected. Procedures governing requests for inspection of such records are set out in § 0.460.
 
 (b) *Records which are not routinely available for public inspection.* Records which are not listed in § 0.453 or § 0.455 are not routinely available for public inspection. Such records fall into two categories.

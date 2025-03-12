@@ -1,0 +1,7 @@
+##### § 1484.75 How does a Cooperator respond to a compliance report? #####
+
+(a) A Cooperator shall, within 60 days of the date of the compliance report, submit a written response to the Director, CRS. This response shall include any money owed to Commodity Credit Corporation if the Cooperator does not wish to contest the compliance report. The Director, CRS, at the Director's discretion, may extend the period for response up to an additional 30 days. If the Cooperator does not respond to the compliance report within the required time period or, if after review of the Cooperator's response, the Director, CRS, determines that Commodity Credit Corporation may be entitled to recover funds from the Cooperator, the Director, CRS, will refer the compliance report to the Deputy Administrator.
+
+(b) If, after review of the compliance report and response, the Deputy Administrator determines that the Cooperator owes money to FAS, the Deputy Administrator will so inform the Cooperator. The Deputy Administrator may initiate action to collect such amount pursuant to 7 CFR Part 1403, Debt Settlement Policies and Procedures. Determinations of the Deputy Administrator will be in writing and in sufficient detail to inform the Cooperator of the basis for the determination. The Cooperator has 30 days from the date of the Deputy Administrator's initial determination to submit any money owed to Commodity Credit Corporation or to request reconsideration.
+
+[64 FR 52630, Sept. 30, 1999. Redesignated and amended at 65 FR 9995, 9996, Feb. 25, 2000]

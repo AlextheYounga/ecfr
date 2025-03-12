@@ -1,0 +1,5 @@
+##### § 800.60 Deceptive actions and practices. #####
+
+In the absence of prior adequate notice to appropriate official personnel, any action or practice, including the loading, weighing, handling, or sampling of grain that knowingly causes or is an attempt to cause the issuance by official personnel of a false or incorrect official certificate or other official form, is deemed to be deceptive and, as such, is a violation of section 13(a)(3) of the Act. For the purposes of this paragraph, adequate notice is written or oral notice given to an agency or the Service, as applicable, before official personnel begin to perform official inspection or weighing services. If oral notice is given, it must be confirmed in writing within 2 business days. To be adequate, the notice must explain the nature and extent of the action or practice in question and must identify the grain, stowage container, equipment, facility, and the official personnel actually or potentially involved.
+
+(Approved by the Office of Management and Budget under control number 0580-0011)[48 FR 17330, Apr. 22, 1983, as amended at 48 FR 44453, Sept. 29, 1983; 54 FR 5924, Feb. 7, 1989]

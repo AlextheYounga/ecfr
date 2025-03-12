@@ -1,0 +1,3 @@
+##### § 800.177 Automatic suspension of license by change in employment. #####
+
+A license issued to an individual who is employed by an agency shall be automatically suspended when the individual ceases to be employed by the agency. If the individual is reemployed by the agency or employed by another agency within 1 year of the suspension date and the license has not terminated in the interim, upon request of the licensee, the license will be reinstated subject to the provisions of §§ 800.172 and 800.173.

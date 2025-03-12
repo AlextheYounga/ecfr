@@ -1,0 +1,3 @@
+##### § 22.101 The Rural Development Act of 1972 (Pub. L. 92-419). #####
+
+The Rural Development Act of 1972 (Pub. L. 92-419), herein called the Act consists of six titles designed to facilitate the development of rural communities through a series of authorizations including grants, loans, and administrative provisions. This Act adds new statutory rural development coordination responsibilities to certain Federal departments and agencies to be carried out under the leadership of the Secretary of Agriculture.

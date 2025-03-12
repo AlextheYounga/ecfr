@@ -1,0 +1,3 @@
+##### § 160.3 Rosin defined. #####
+
+Except as provided in § 160.15, rosin is the vitreous, well-strained, transparent, solid resin which (a) remains after the volatile terpene oils are distilled from (1) the oleoresin collected from living trees or (2) the oleoresin extracted from wood; or (b) remains after distillation of the fatty acids from tall oil recovered from wood in the course of its chemical disintegration to produce cellulose. In addition to the free resin acids, rosin may contain relatively small proportions of fatty acids, resin esters and other esters, unsaponifiable resenes, and non-resinous foreign matter naturally occurring therein.

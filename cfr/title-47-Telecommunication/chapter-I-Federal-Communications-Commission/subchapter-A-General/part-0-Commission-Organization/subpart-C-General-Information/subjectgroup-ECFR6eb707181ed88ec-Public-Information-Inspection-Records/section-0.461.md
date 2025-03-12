@@ -1,5 +1,7 @@
 ##### § 0.461 Requests for inspection of materials not routinely available for public inspection. #####
 
+Link to an amendment published at 82 FR 4192, January 13, 2017.
+
 Any person desiring to inspect Commission records that are not listed in § 0.453 or § 0.455 shall file a request for inspection meeting the requirements of this section. The FOIA Public Liaison is available to assist persons seeking records under this section. See § 0.441(a).
 
 (a)(1) Records include:

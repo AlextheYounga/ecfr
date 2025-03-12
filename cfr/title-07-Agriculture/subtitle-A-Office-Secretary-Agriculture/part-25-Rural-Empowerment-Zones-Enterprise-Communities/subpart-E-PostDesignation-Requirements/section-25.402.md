@@ -1,0 +1,3 @@
+##### § 25.402 Periodic performance reviews. #####
+
+USDA will regularly evaluate the progress in implementing the strategic plan in each designated Empowerment Zone and Enterprise Community on the basis of performance reviews to be conducted on site and using other information submitted. USDA may also commission evaluations of the Empowerment Zone program as a whole by an impartial third party. Evidence of continual involvement of all segments of the community, including low income and disadvantaged residents, must be evidenced in the implementation of the strategic plan.

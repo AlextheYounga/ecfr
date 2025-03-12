@@ -1,0 +1,3 @@
+##### § 3570.275 Grant cancellation or major changes. #####
+
+Any change in the scope of the Project, budget adjustments of more than 10 percent of the total budget, and any other significant change in the Project must be in compliance with 2 CFR 200.308 and 200.339. The changes must be requested in writing and approved by the Agency in writing. Any change not approved may be cause for termination of the grant.

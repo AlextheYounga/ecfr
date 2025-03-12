@@ -1,0 +1,3 @@
+##### § 900.300 General. #####
+
+Unless otherwise prescribed, the procedure contained in this subpart shall be applicable to each producer referendum conducted for the purpose of ascertaining whether the issuance by the Secretary of a milk marketing order is approved or favored, as required under the applicable provisions of the Agricultural Marketing Agreement Act of 1937, as amended (48 Stat. 31, as amended, 7 U.S.C. 601-674). The procedure in this subpart replaces the procedure for conducting similar referenda (15 FR 5177) issued August 7, 1950.

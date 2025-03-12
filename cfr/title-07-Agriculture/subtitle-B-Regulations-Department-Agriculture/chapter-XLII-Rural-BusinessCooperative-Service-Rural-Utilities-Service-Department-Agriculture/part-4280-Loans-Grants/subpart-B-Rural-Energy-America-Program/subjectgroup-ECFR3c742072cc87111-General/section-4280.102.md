@@ -1,0 +1,13 @@
+##### § 4280.102 Organization of subpart. #####
+
+(a) Sections 4280.103 through 4280.111 discuss definitions; exception authority; review or appeal rights; conflict of interest; USDA Departmental Regulations; other applicable laws; ineligible Applicants, borrowers, and owners; general Applicant, application, and funding provisions; and notifications, which are applicable to all of the funding programs under this subpart.
+
+(b) Sections 4280.112 through 4280.124 discuss the requirements specific to RES and EEI grants. Sections 4280.112 and 4280.113 discuss, respectively, Applicant and project eligibility. Section 4280.114 addresses funding provisions for these grants. Sections 4280.115 through 4280.119 address grant application content, technical merit determination, and required documentation. Sections 4280.120 through 4280.123 address the scoring, selection, awarding and administering, and servicing of these grant applications. Section 4280.124 addresses construction planning and development.
+
+(c) Sections 4280.125 through 4280.152 discuss the requirements specific to RES and EEI guaranteed loans. Sections 4280.125 through 4280.128 discuss eligibility and requirements for making and processing loans guaranteed by the Agency. Section 4280.129 addresses funding for guaranteed loans. In general, Sections 4280.130 through 4280.152 provide guaranteed loan origination and servicing requirements. These requirements apply to lenders, holders, and other parties involved in making, guaranteeing, holding, servicing, or liquidating such loans. Section 4280.137 addresses the application requirements for guaranteed loans.
+
+(d) Section 4280.165 presents the process by which the Agency will make combined loan guarantee and grant funding available for RES and EEI projects.
+
+(e) Sections 4280.186 through 4280.196 present the process by which the Agency will make EA and REDA grant funding available. These sections cover Applicant and project eligibility, grant funding, application content, evaluation, scoring, selection, awarding and administering, and servicing.
+
+(f) Appendices A through C cover technical report requirements. Appendix A applies to EEI projects; Appendix B applies to RES projects with Total Project Costs of Less Than $200,000, but more than $80,000; and Appendix C applies RES projects with Total Project Costs $200,000 and Greater. Appendices A and B do not apply to RES and EEI projects with Total Project Costs of $80,000 or less, respectively. Instead, technical report requirements for these projects are found in § 4280.119.

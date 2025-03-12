@@ -1,0 +1,3 @@
+##### § 4287.169 Future recovery. #####
+
+Unless notified otherwise by the Agency, after the final loss claim has been paid, the lender must use reasonable efforts to attempt collection from any party still liable on any loan that was guaranteed. Any net proceeds from that effort must be split pro rata between the lender and the Agency based on the percentage of guarantee. Any collection of Federal debt made by the United State from any liable party to the guaranteed loan will not be split with the lender.

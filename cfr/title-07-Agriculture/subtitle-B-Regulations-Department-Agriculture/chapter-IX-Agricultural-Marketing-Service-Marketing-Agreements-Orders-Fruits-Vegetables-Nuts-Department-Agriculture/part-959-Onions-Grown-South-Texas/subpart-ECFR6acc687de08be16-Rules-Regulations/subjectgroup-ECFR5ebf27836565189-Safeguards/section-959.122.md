@@ -1,0 +1,5 @@
+##### § 959.122 Application. #####
+
+(a) Applications for a Certificate of Privilege shall be made on forms furnished by the committee. Each application may contain, but need not be limited to, the name and address of the handler; the quantity by grade, size, and quality of the onions to be shipped; the mode of transportation; the consignee; the destination; the purpose for which the onions are to be used; and certification to the United States Department of Agriculture and to the committee as to the truthfulness of the information shown thereon, and any other appropriate information or documents deemed necessary by the committee or its duly authorized agents for the purposes stated in § 959.120.
+
+(b) The committee may require each handler making shipments of onions for export to include with his application a copy of the Department of Commerce Shippers Export Declaration Form No. 7525-V applicable to such shipment.

@@ -1,0 +1,3 @@
+##### § 900.40 Written testimony and USDA data request requirements. #####
+
+In addition to the provisions of § 900.8(b)(4), witnesses at an amendatory fruit, vegetable or nut formal rulemaking hearing shall make, to the extent practicable, at least 8 copies of their testimony, if prepared as an exhibit, and any other exhibits available to USDA before testimony is given on the day of appearance at the hearing. Industry requests for preparation of USDA data for a rulemaking hearing should be made at least 10 days prior to the beginning of the hearing.

@@ -1,0 +1,7 @@
+##### § 205.668 Noncompliance procedures under State organic programs. #####
+
+(a) A State organic program's governing State official must promptly notify the Secretary of commencement of any noncompliance proceeding against a certified operation and forward to the Secretary a copy of each notice issued.
+
+(b) A noncompliance proceeding, brought by a State organic program's governing State official against a certified operation, shall be appealable pursuant to the appeal procedures of the State organic program. There shall be no subsequent rights of appeal to the Secretary. Final decisions of a State may be appealed to the United States District Court for the district in which such certified operation is located.
+
+(c) A State organic program's governing State official may review and investigate complaints of noncompliance with the Act or regulations concerning accreditation of certifying agents operating in the State. When such review or investigation reveals any noncompliance, the State organic program's governing State official shall send a written report of noncompliance to the Program Manager. The report shall provide a description of each noncompliance and the facts upon which the noncompliance is based.

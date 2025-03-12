@@ -1,0 +1,3 @@
+##### § 1788.55 Providing RUS evidence. #####
+
+When RUS shall specifically so direct, the borrower shall also require the engineer, the architect, and the contractor, to forward to RUS evidence of compliance with their contract representative of the insurance company and include a provision that no change in or cancellation of any policy listed in the certificate will be made without the prior written notice to the borrower and to RUS.

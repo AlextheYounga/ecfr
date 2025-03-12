@@ -1,0 +1,3 @@
+##### § 47.18 Fees and mileage. #####
+
+Witnesses who are subpoenaed and who appear in the proceeding, including witnesses whose depositions are taken, shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and persons taking depositions shall be entitled to the same fees as are paid for like services in the courts of the United States, to be paid by the party at whose request the deposition is taken. Witness fees and mileage shall be paid by the party at whose instance the witnesses appear, and claims therefor shall be presented to such party.

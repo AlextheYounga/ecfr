@@ -1,0 +1,3 @@
+##### § 600.6 Field offices. #####
+
+Each field office is under the direction and supervision of a district conservationist who is responsible for NRCS activities in the geographical area served by the field office. Usually the geographical area of a field office includes one or more conservation districts and one or more counties. Field offices are generally collocated with other USDA agencies in USDA Service Centers.

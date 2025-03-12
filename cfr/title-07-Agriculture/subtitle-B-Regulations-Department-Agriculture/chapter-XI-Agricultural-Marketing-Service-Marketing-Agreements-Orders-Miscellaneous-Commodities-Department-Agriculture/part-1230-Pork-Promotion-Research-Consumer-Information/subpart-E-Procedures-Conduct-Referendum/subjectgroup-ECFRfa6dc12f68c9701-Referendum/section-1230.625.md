@@ -1,0 +1,5 @@
+##### § 1230.625 Time and place of registration and voting. #####
+
+(a) Producers. The referendum shall be held for 3-consecutive days on September 19, 20, 21, 2000. Eligible producers shall register and vote on-site following the procedures in 1230.628. Producers shall register and vote during the normal business hours of each county FSA office or request absentee ballots from the county FSA offices by mail, telephone, or facsimile, or pick up an absentee ballot in-person. The absentee voting period shall be from August 18, 2000, through September 21, 2000.
+
+(b) Importers. Importer voting shall take place during the same time period provided producers for in-person and absentee voting in the referendum. The referendum shall be conducted by mail ballot by the FSA headquarters office in Washington, DC, between August 18, 2000, through September 21, 2000.

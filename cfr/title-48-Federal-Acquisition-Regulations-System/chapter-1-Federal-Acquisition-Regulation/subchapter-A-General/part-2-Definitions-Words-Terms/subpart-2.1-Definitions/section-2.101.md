@@ -500,6 +500,10 @@
 
 *Latent defect* means a defect that exists at the time of acceptance but cannot be discovered by a reasonable inspection.
 
+*Line item* means the basic structural element in a procurement instrument that describes and organizes the required product or service for pricing, delivery, inspection, acceptance, invoicing, and payment. The use of the term “line item” includes “subline item,” as applicable.
+
+*Line item number* means either a numeric or alphanumeric format to identify a line item.
+
 *Major system* means that combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software, or any combination thereof, but exclude construction or other improvements to real property. A system is a major system if -
 
 (1) The Department of Defense is responsible for the system and the total expenditures for research, development, test, and evaluation for the system are estimated to be more than $185 million based on Fiscal Year 2014 constant dollars or the eventual total expenditure for the acquisition exceeds $835 million based on Fiscal Year 2014 constant dollars (or any update of these thresholds based on a more recent fiscal year, as specified in the DoD Instruction 5000.02, “Operation of the Defense Acquisition System”);
@@ -780,9 +784,9 @@
 
 (1) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a contingency operation or to facilitate defense against or recovery from nuclear, biological, chemical, or radiological attack (41 U.S.C. 1903), the term means -
 
-(i) $300,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
+(i) $750,000 for any contract to be awarded and performed, or purchase to be made, inside the United States; and
 
-(ii) $1 million for any contract to be awarded and performed, or purchase to be made, outside the United States; and
+(ii) $1.5 million for any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
 (2) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a humanitarian or peacekeeping operation (10 U.S.C. 2302), the term means $300,000 for any contract to be awarded and performed, or purchase to be made, outside the United States.
 
@@ -857,6 +861,8 @@
 *State and local taxes* means taxes levied by the States, the District of Columbia, outlying areas of the United States, or their political subdivisions.
 
 *Statement of Objectives (SOO)* means a Government-prepared document incorporated into the solicitation that states the overall performance objectives. It is used in solicitations when the Government intends to provide the maximum flexibility to each offeror to propose an innovative approach.
+
+*Subline item* means a subset of a line item.
 
 *Substantial evidence* means information sufficient to support the reasonable belief that a particular act or omission has occurred.
 
@@ -1008,7 +1014,7 @@
 
 (i) Economically disadvantaged women-owned small business (EDWOSB) concerns eligible under the WOSB Program for Federal contracts assigned a North American Industry Classification Systems (NAICS) code in an industry in which the Small Business Administration (SBA) has determined that WOSB concerns are underrepresented in Federal procurement; and
 
-(ii)WOSB concerns eligible under the WOSB Program for Federal contracts assigned a NAICS code in an industry in which SBA has determined that WOSB concerns are substantially underrepresented in Federal procurement.
+(ii) WOSB concerns eligible under the WOSB Program for Federal contracts assigned a NAICS code in an industry in which SBA has determined that WOSB concerns are substantially underrepresented in Federal procurement.
 
 (2) *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127. It automatically qualifies as a women-owned small business (WOSB) concern eligible under the WOSB Program.
 

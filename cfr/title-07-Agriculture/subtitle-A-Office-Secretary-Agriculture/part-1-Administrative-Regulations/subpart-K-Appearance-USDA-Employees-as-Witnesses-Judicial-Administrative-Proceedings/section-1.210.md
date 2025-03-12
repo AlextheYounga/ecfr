@@ -1,0 +1,3 @@
+##### § 1.210 Purpose. #####
+
+This subpart sets forth procedures governing the appearance of USDA employees as witnesses in order to testify or produce official documents in judicial or administrative proceedings when such appearance is in their official capacity or arises out of or is related to their employment with USDA. These regulations do not apply to appearances by USDA employees as witnesses in judicial or administrative proceedings which are purely personal or do not arise out of or relate to their employment with USDA. This subpart also does not apply to Congressional requests or subpoenas for testimony or documents.

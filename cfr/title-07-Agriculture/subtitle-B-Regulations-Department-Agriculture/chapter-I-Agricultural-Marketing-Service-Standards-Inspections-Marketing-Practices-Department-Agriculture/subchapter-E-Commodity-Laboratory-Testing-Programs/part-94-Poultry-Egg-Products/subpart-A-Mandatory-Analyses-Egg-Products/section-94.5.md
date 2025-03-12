@@ -1,0 +1,3 @@
+##### § 94.5 Charges for laboratory service. #####
+
+The costs for analysis of mandatory egg product samples at Science and Technology Division laboratories shall be paid by annually appropriated and designated funds allocated to the egg products inspection program. The costs for any other mandatory laboratory analyses and testing of an egg product's identity and condition, necessitated by the Egg Products Inspection Act, shall also be paid by such program funding.

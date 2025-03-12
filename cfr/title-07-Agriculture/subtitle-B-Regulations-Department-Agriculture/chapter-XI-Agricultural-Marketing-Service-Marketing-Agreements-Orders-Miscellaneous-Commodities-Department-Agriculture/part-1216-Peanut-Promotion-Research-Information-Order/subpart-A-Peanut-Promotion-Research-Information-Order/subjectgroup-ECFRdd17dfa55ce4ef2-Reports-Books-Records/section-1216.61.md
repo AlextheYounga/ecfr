@@ -1,0 +1,3 @@
+##### § 1216.61 Books and records. #####
+
+Each first handler and producer subject to this subpart shall maintain and make available for inspection by the Secretary and employees and agents of the Board such books and records as are necessary to carry out the provisions of this subpart and the regulations issued thereunder, including such records as are necessary to verify any reports required. Such records shall include but are not limited to the following: copies of FSA 1007 forms, the names and address of producers, and the date the assessments were collected. Such records shall be retained for at least two years beyond the marketing year of their applicability.

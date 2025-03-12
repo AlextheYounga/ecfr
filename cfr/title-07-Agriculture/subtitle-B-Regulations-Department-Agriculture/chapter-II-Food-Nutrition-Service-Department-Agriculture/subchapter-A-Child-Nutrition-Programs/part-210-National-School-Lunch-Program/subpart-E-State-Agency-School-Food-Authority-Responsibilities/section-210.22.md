@@ -1,0 +1,7 @@
+##### § 210.22 Audits. #####
+
+(a) *General.* Unless otherwise exempt, audits at the State and school food authority levels shall be conducted in accordance with 2 CFR part 200, subpart F and Appendix XI (Compliance Supplement) and USDA implementing regulations 2 CFR part 400 and part 415.
+
+(b) *Audit procedure.* These requirements call for organization-wide financial and compliance audits to ascertain whether financial operations are conducted properly; financial statements are presented fairly; recipients and subrecipients comply with the laws and regulations that affect the expenditures of Federal funds; recipients and subrecipients have established procedures to meet the objectives of federally assisted programs; and recipients and subrecipients are providing accurate and reliable information concerning grant funds. States and school food authorities shall use their own procedures to arrange for and prescribe the scope of independent audits, provided that such audits comply with the requirements set forth in 2 CFR part 200, subpart F and Appendix XI, and USDA implementing regulations 2 CFR part 400 and part 415.
+
+[53 FR 29147, Aug. 2, 1988, as amended at 71 FR 39516, July 13, 2006; 81 FR 66488, Sept. 28, 2016]

@@ -1,0 +1,5 @@
+##### § 160.71 Delinquent claims. #####
+
+Any claim remaining unpaid after 30 days from the date of its rendition shall be considered as delinquent, and notice thereof shall be brought to the attention of the interested person. After a claim becomes delinquent, the Administrator shall suspend or deny inspection and related services to any interested party who has failed to make timely payment of the fees and charges assessed, as well as any claims which have been rendered, and shall take such action as may be necessary to collect any amounts due. A deposit in advance sufficient to cover the fees and expenses for any subsequent service may be required of any person failing to pay his claim after issuance of such notice of delinquency.
+
+[11 FR 14665, Dec. 27, 1946, as amended at 17 FR 221, Jan. 9, 1952; 20 FR 6433, Sept. 1, 1955. Redesignated and amended at 46 FR 47055, Sept. 24, 1981; 47 FR 3345, Jan. 25, 1982]

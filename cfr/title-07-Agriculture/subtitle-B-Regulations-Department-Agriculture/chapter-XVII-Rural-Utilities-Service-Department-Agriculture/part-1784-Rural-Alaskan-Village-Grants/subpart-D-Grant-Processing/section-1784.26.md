@@ -1,0 +1,5 @@
+##### § 1784.26 Planning, development, and procurement. #####
+
+(a) If RUS is the lead agency and will provide oversight for the project, a certification should be obtained from the State agency, or the Environmental Protection Agency if the State does not have primacy, stating that the proposed improvements will be in compliance with requirements of the Safe Drinking Water Act and/or Clean Water Act and the applicable requirements of 2 CFR part 200 and 2 CFR part 400.
+
+(b) Applicants that will bid and construct a project in phases, must provide assurance that the full scope of each specific phase of the project will be functional. In the event that the actual cost is anticipated to exceed the funding originally allocated for the project, all potential options will be reviewed and considered, including but not limited to acquiring additional funds or a reduction in project scope. RUS, ANTHC, and VSW will ensure that all items that were funded and within the scope of the project, including all phases, are functional when all funds have been disbursed.

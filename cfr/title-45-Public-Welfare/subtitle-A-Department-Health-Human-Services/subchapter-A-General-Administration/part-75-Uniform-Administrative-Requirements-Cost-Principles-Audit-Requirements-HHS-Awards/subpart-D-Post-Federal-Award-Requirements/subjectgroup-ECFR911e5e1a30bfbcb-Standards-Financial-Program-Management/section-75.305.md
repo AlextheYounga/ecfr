@@ -1,8 +1,8 @@
 ##### § 75.305 Payment. #####
 
-Link to an amendment published at 81 FR 89395, Dec. 12, 2016.
+(a)(1) For states, payments are governed by Treasury-State CMIA agreements and default procedures codified at 31 CFR part 205 and TFM 4A-2000 Overall Disbursing Rules for All Federal Agencies.
 
-(a) For states, payments are governed by Treasury-State CMIA agreements and default procedures codified at 31 CFR part 205 and TFM 4A-2000 Overall Disbursing Rules for All Federal Agencies.
+(2) To the extent that Treasury-State CMIA agreements and default procedures do not address expenditure of program income, rebates, refunds, contract settlements, audit recoveries and interest earned on such funds, such funds must be expended before requesting additional cash payments.
 
 (b) For non-Federal entities other than states, payments methods must minimize the time elapsing between the transfer of funds from the United States Treasury or the pass-through entity and the disbursement by the non-Federal entity whether the payment is made by electronic funds transfer, or issuance or redemption of checks, warrants, or payment by other means. See also § 75.302(b)(6). Except as noted elsewhere in this part, HHS awarding agencies must require recipients to use only OMB-approved standard governmentwide information collection requests to request payment.
 
@@ -52,4 +52,4 @@ For ACH Returns:Routing Number: 051036706Account number: 303000Bank Name and Loc
 
 For recipients that do not have electronic remittance capability, please make check\*\* payable to:
 
-“The Department of Health and Human Services”Mail Check to Treasury approved lockbox:HHS Program Support CenterP.O. Box 530231Atlanta, GA 30353-0231(\*\* Please allow 4-6 weeks for processing of a payment by check to be applied to the appropriate PMS account)Any additional information/instructions may be found on the PMS Web site at *http://www.dpm.psc.gov/*.[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3016, Jan. 20, 2016]
+“The Department of Health and Human Services”Mail Check to Treasury approved lockbox:HHS Program Support CenterP.O. Box 530231Atlanta, GA 30353-0231(\*\* Please allow 4-6 weeks for processing of a payment by check to be applied to the appropriate PMS account)Any additional information/instructions may be found on the PMS Web site at *http://www.dpm.psc.gov/*.[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3016, Jan. 20, 2016; 81 FR 89395, Dec. 12, 2016]

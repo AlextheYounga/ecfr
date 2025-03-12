@@ -1,0 +1,3 @@
+##### § 7.31 Administrative operations. #####
+
+The administrative operations of county committees including, but not limited to, the following, must be conducted, except as otherwise provided in this part, in accordance with official instructions issued: Annual, sick, and other types of employee leave; the calling and conduct of elections; and the maintenance of records of county committee meetings.

@@ -1,0 +1,3 @@
+##### § 3701.7 Requests for published data and information. #####
+
+Published data and reports produced by ERS since 1996 are available on the ERS Web site at *http://www.ers.usda.gov.* Searching on the website is available by topic, by title, or by date. The titles displayed in the search include ERS's separately published research reports as well as articles in ERS-produced periodicals. Full text of all the titles are available at no cost (usually in PDF Files). Printed copies and reports published before 1996 (while supplies last) can be purchased from the ERS-NASS sales desk at the National Technical Information Center at 1-800-999-6779 (8:30 a.m.-5 p.m., Eastern Standard Time, M-F).

@@ -1,0 +1,5 @@
+##### § 760.113 Refunds; joint and several liability. #####
+
+(a) In the event that the participant fails to comply with any term, requirement, or condition for payment or assistance arising under ELAP, LFP, LIP, SURE, or TAP and if any refund of a payment to FSA will otherwise become due in connection with this part, the participant must refund to FSA all payments made in regard to such matter, together with interest and late-payment charges as provided for in part 792 of this chapter provided that interest will in all cases run from the date of the original disbursement.
+
+(b) All persons with a financial interest in an operation or in an application for payment will be jointly and severally liable for any refund, including related charges, that is determined to be due FSA for any reason under this part.

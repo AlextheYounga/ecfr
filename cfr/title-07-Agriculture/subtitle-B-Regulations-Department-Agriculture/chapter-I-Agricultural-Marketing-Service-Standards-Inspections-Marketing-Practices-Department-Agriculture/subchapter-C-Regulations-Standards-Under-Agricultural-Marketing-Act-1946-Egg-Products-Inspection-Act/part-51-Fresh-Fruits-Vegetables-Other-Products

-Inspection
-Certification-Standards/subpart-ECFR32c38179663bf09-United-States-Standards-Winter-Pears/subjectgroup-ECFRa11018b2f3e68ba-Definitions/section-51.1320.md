@@ -1,0 +1,3 @@
+##### § 51.1320 Fairly well formed. #####
+
+*Fairly well formed* means that the pear may be slightly abnormal in shape but not to an extent which detracts materially from the appearance of the fruit. Winter Nelis pears with characteristic slight sutures or with slight flattening on one side and/or other slight irregularities which do not materially detract from the general appearance of the pear shall be considered fairly well formed.

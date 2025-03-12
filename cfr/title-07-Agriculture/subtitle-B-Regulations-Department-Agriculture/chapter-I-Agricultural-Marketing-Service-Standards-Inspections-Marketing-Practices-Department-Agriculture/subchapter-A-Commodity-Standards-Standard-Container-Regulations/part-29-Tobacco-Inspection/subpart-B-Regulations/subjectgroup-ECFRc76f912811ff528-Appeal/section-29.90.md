@@ -1,0 +1,3 @@
+##### § 29.90 When appeal may be taken. #####
+
+Whenever an interested party believes that a certificate issued or a sample prepared under the act is not correct he may file an appeal: *Provided,* That (a) the period for which such certificate was issued or sample was prepared, if any specified, has not expired; (b) all tobacco covered by such certificate or sample is accessible to an appeal inspector for making a proper reinspection, resampling, or reweighing, and can be definitely identified by him as the tobacco covered by such certificate or sample; and (c) the tobacco has not deteriorated or undergone any material change.

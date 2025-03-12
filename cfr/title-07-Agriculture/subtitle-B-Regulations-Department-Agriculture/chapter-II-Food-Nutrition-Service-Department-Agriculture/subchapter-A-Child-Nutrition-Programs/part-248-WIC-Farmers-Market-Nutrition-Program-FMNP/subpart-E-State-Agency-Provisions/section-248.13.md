@@ -1,0 +1,5 @@
+##### § 248.13 FMNP income. #####
+
+Program income means gross income the State agency earns from grant supported activities. It includes fees for services performed and receipts from the use or rental of real or personal property acquired with Federal grant funds, but does not include proceeds from the disposition of such property. The State agency shall retain Program income earned during the agreement period and use it for Program purposes in accordance with the addition method described in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415. Fines, penalties or assessments paid by local agencies or farmers/farmers' markets are also deemed to be FMNP income. The State agency shall ensure that the sources and applications of Program income are fully documented.
+
+[59 FR 11517, Mar. 11, 1994, as amended at 81 FR 66496, Sept. 28, 2016]

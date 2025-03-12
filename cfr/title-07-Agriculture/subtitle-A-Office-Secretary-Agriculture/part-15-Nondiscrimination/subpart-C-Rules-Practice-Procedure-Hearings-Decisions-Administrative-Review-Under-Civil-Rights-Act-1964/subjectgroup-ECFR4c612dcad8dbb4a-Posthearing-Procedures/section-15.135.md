@@ -1,0 +1,3 @@
+##### § 15.135 Posthearing briefs. #####
+
+The hearing officer shall fix a reasonable time for filing posthearing briefs, which may contain proposed findings of fact and conclusions of law, and, if permitted, reply briefs. Briefs should include a summary of the evidence relied upon together with references to exhibit numbers and pages of the transcript, with citations of the authorities relied upon. Briefs shall be filed in the Office of the Hearing Clerk with a copy to all parties.

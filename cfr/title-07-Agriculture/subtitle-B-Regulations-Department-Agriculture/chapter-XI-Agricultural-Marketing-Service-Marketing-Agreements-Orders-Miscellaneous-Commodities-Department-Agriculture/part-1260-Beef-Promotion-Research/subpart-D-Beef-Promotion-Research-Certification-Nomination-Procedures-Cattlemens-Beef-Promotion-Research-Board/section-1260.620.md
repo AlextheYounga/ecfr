@@ -1,0 +1,3 @@
+##### § 1260.620 Confidential treatment of information. #####
+
+All documents and information submitted to or obtained by the Department shall be kept confidential by all employees of the Department, except that the Secretary may issue general statements based upon the information collected from a number of different sources. These general statements will not identify any information as having been furnished by any one source.

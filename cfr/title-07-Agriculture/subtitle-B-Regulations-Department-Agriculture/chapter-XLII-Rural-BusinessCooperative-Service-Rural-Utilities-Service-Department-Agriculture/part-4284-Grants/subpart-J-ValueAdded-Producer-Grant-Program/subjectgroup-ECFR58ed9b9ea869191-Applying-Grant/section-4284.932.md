@@ -1,0 +1,3 @@
+##### § 4284.932 Simplified application. #####
+
+Applicants requesting less than $50,000 will be allowed to submit a simplified application, the contents of which will be announced in an annual solicitation issued pursuant to § 4284.915. Applicants requesting Working Capital Grants of less than $50,000 are not required to provide Feasibility Studies or Business Plans, but must provide information demonstrating increases in customer base and revenue returns to the producers supplying the majority of the Agricultural Commodity as a result of the project. See § 4284.922(b)(6)(ii).

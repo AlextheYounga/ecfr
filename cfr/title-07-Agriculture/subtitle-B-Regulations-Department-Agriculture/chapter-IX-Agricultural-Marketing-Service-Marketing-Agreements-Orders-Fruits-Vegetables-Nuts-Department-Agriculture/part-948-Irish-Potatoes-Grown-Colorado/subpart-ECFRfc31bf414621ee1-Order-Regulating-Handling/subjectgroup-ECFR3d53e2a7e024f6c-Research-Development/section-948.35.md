@@ -1,0 +1,3 @@
+##### § 948.35 Research and development. #####
+
+The committee, with the approval of the Secretary, may provide for the establishment of marketing research and development projects designed to assist, improve, or promote the marketing, distribution, and consumption of potatoes and may make available committee information and data to any person, or to any employee of an agency or its agent, authorized by the committee as its agent with the approval of the Secretary, to conduct such projects.

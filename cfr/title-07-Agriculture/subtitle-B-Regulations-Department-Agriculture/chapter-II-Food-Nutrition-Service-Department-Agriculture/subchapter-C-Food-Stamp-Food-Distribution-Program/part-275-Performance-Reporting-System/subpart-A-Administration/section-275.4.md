@@ -1,0 +1,9 @@
+##### § 275.4 Record retention. #####
+
+(a) The State agency shall maintain Performance Reporting System records to permit ready access to, and use of, these records. Performance Reporting System records include information used in data analysis and evaluation, corrective action plans, corrective action monitoring records in addition to ME review records and QC review records as explained in paragraphs (b) and (c) of this section. To be readily accessible, system records shall be retained and filed in an orderly fashion. Precautions should be taken to ensure that these records are retained without loss or destruction for the 3-year period required by these regulations. Information obtained on individual households for Performance Reporting System purposes shall be safeguarded in accordance with FNS policies on disclosure of information for the Food Stamp Program.
+
+(b) ME review records consist of thorough documentation of review findings, sources from which information was obtained, procedures used to review Food Stamp Program requirements including sampling techniques and lists, and ME review plans. The State agency must submit documented evidence of review findings to the FNS Regional Office upon request for purposes of evaluating State corrective action plans.
+
+(c) QC review records consist of Forms FNS-380, Worksheet for Supplemental Nutrition Assistance Program, FNS-380-1, Quality Control Review Schedule , FNS-245, Negative Quality Control Review Schedule; other materials supporting the review decision; sample lists; sampling frames; tabulation sheets; and reports of the results of all quality control reviews during each review period.
+
+[Amdt. 160, 45 FR 15898, Mar. 11, 1980, as amended by Amdt. 260, 49 FR 6304, Feb. 17, 1984; Amdt. 262, 49 FR 50597, Dec. 31, 1984; 75 FR 33436, June 11, 2010]

@@ -1,0 +1,3 @@
+##### § 3565.14 Review and appeals. #####
+
+Whenever RHS makes a decision that is adverse to a lender or a borrower, RHS will provide written notice of such adverse decision and of the right to a USDA National Appeals Division hearing in accordance with 7 CFR part 11 or successor regulations. The lender or borrower may request an informal review with the decision maker and the use of available alternative dispute resolution or mediation programs as a means of resolution of the adverse decision. Any adverse decision, whether appealable or non-appealable may also be reviewed by the next level RHS supervisor. Adverse decisions affecting project tenants or applicants for tenancy will be handled in accordance with 7 CFR part 1944, subpart L or successor regulations.

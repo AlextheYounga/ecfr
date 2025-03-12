@@ -1,0 +1,7 @@
+##### § 1212.72 Confidential treatment. #####
+
+All information obtained from books, records, or reports under the Act and this part shall be kept confidential by all persons, including all employees and former employees of the Board, all officers and employees and former officers and employees of contracting and subcontracting agencies or agreeing parties having access to such information. Such information shall not be available to Board members, first handlers, or importers. Only those persons having a specific need for such information to effectively administer the provisions of this subpart shall have access to such information. Only such information so obtained as the Secretary deems relevant shall be disclosed by them, and then only in a judicial proceeding or administrative hearing brought at the direction, or on the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving this subpart. Nothing in this section shall be deemed to prohibit:
+
+(a) The issuance of general statements based upon the reports of the number of persons subject to this subpart or statistical data collected thereof, which statements do not identify the information furnished by any person; and
+
+(b) The publication, by direction of the Secretary, of the name of any person who has been adjudged to have violated this part, together with a statement of the particular provisions of this part violated by such person.

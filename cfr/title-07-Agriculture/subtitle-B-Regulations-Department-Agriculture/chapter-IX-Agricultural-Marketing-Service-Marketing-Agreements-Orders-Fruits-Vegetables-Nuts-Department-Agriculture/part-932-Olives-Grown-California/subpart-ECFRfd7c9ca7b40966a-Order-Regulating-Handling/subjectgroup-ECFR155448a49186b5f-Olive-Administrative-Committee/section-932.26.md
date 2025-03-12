@@ -1,0 +1,3 @@
+##### § 932.26 Term of office. #####
+
+The term of office of members and alternate members of the committee shall be 2 years beginning on June 1 and ending on May 31 of odd numbered years: *Provided,* That the term of office of initial members and alternate members shall begin on the effective date of this subpart. Each such member and alternate member shall serve during that portion of the term of office for which he is selected and has qualified and shall continue to serve until his successor is selected and has qualified.

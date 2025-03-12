@@ -1,0 +1,5 @@
+##### § 959.31 Alternate members. #####
+
+An alternate member of the committee shall act in the place and stead of the member for whom he is an alternate, during such member's absence or when designated to do so by the member for whom he is an alternate. In the event both a member of the committee and his alternate are unable to attend a committee meeting, the member or his alternate or the committee (in that order) may designate another alternate from the same district and the same group (handler or grower) to serve in such member's place and stead. In the event of the death, removal, resignation, or disqualification of a member, his alternate shall act for him until a successor of such member is selected and has qualified. The committee may request the attendance of alternates at any or all meetings, notwithstanding the expected or actual presence of the respective members.
+
+[27 FR 2278, Mar. 9, 1962]

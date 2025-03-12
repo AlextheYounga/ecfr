@@ -1,0 +1,3 @@
+##### § 1000.70 Producer-settlement fund. #####
+
+The market administrator shall establish and maintain a separate fund known as the producer-settlement fund into which the market administrator shall deposit all payments made by handlers pursuant to §§ \_\_\_\_.71, \_\_\_\_.76, and \_\_\_\_.77 of each Federal milk order and out of which the market administrator shall make all payments pursuant to §§ \_\_\_\_.72 and \_\_\_\_.77 of each Federal milk order. Payments due any handler shall be offset by any payments due from that handler.

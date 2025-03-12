@@ -1,0 +1,3 @@
+##### § 160.28 Tank cars of turpentine. #####
+
+A tank car loaded for shipment with spirits of turpentine shall, after the same has been sampled for analysis, classification, and certification, be sealed by the official inspector. Any certificate issued thereon prior to shipment shall be valid only for a reasonable time to permit arrival at destination, and only so long as the seals placed thereon by the inspector remain unbroken.

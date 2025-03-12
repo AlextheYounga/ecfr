@@ -1,0 +1,3 @@
+##### § 97.22 Revival of an application abandoned for failure to reply. #####
+
+An application abandoned for failure on the part of the applicant to advance actively his or her application to its completion, in accordance with the regulations in this part, may be revived as a pending application within 3 months of such abandonment, upon a finding by the Commissioner that the failure was inadvertent or unavoidable and without fraudulent intent. A request to revive an abandoned application shall be accompanied by a written statement showing the cause of the failure to respond, a response to the last request for action, and by the specified fee.

@@ -1,0 +1,3 @@
+##### § 612.5 Dissemination of water supply forecasts and basic data. #####
+
+Water supply outlook reports prepared by NRCS and its cooperators containing water supply forecasts and basic data are usually issued monthly by each NRCS state office in the western states area for the months of January through June. Other reports jointly issued by NRCS and its cooperators include a fall water supply summary, annual and accumulative summaries of data, and a western states area report covering water supply outlook.

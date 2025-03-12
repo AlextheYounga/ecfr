@@ -1,7 +1,5 @@
 ##### § 1.948 Assignment of authorization or transfer of control, notification of consummation. #####
 
-Link to an amendment published at 81 FR 90745, December 15, 2016.
-
 (a) *General.* Except as provided in this section, authorizations in the Wireless Radio Services may be assigned by the licensee to another party, voluntarily or involuntarily, directly or indirectly, or the control of a licensee holding such authorizations may be transferred, only upon application to and approval by the Commission.
 
 (b) *Limitations on transfers and assignments.* (1) A change from less than 50% ownership to 50% or more ownership shall always be considered a transfer of control.
@@ -12,7 +10,7 @@ Link to an amendment published at 81 FR 90745, December 15, 2016.
 
 (4) Stations must meet all applicable requirements regarding transfers and assignments contained in the rules pertaining to the specific service in which the station is licensed.
 
-(5) Licenses, permits, and authorizations for stations in the Amateur, Ship, Commercial Operator and Personal Radio Services (except 218-219 MHz Service) may not be assigned or transferred, unless otherwise stated.
+(5) Licenses, permits, and authorizations for stations in the Amateur, Commercial Operator and Personal Radio Services (except 218-219 MHz Service) may not be assigned or transferred, unless otherwise stated.
 
 (c) *Application required.* In the case of an assignment of authorization or transfer of control, the assignor must file an application for approval of the assignment on FCC Form 603. If the assignee or transferee is subject to the ownership reporting requirements of § 1.2112, the assignee or transferee must also file an updated FCC Form 602 or certify that a current FCC Form 602 is on file.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 81 FR 90745, December 15, 2016.
 
 (iii) Grant of consent to the application under these immediate approval procedures will be reflected in a public notice (*see* § 1.933(a)) promptly issued after the grant, and is subject to reconsideration (*see* §§ 1.106(f), 1.108, 1.113).
 
-[63 FR 68933, Dec. 14, 1998, as amended at 64 FR 62120, Nov. 16, 1999; 68 FR 42995, July 21, 2003; 68 FR 66276, Nov. 25, 2003; 69 FR 77549, Dec. 27, 2004; 69 FR 77944, Dec. 29, 2004; 76 FR 17349, Mar. 29, 2011]Effective Date Note:At 69 FR 77549, Dec. 27, 2004, § 1.948(j)(2) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[63 FR 68933, Dec. 14, 1998, as amended at 64 FR 62120, Nov. 16, 1999; 68 FR 42995, July 21, 2003; 68 FR 66276, Nov. 25, 2003; 69 FR 77549, Dec. 27, 2004; 69 FR 77944, Dec. 29, 2004; 76 FR 17349, Mar. 29, 2011; 81 FR 90745, Dec. 15, 2015]Effective Date Note:At 69 FR 77549, Dec. 27, 2004, § 1.948(j)(2) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

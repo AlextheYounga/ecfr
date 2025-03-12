@@ -1,0 +1,3 @@
+##### § 1402.2 Sales of inventory. #####
+
+CCC will entertain offers from prospective buyers for the purchase of any commodities owned by CCC, including those commodities that are marketed through commercial, Internet-based marketing services. Various commodities owned by CCC may be offered for sale through commercial, Internet-based marketing services. Interested parties may submit requests for information related to Internet-based commodity sales to the Director, Warehouse and Inventory Division, Stop 0553, 1400 Independence Avenue, SW., Washington, DC 20250-9860.

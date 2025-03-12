@@ -1,0 +1,3 @@
+##### § 661.1 General. #####
+
+This part is issued in accordance with the regulations of the Secretary of Agriculture at 7 CFR 1.1 through 1.16 implementing the Freedom of Information Act, 5 U.S.C. 552. The Secretary's regulations, as implemented by the regulations in this part, govern the availability to the public of records of the Natural Resources Conservation Service and the records for which the Natural Resources Conservation Service has custodial responsibility.

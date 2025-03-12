@@ -1,0 +1,3 @@
+##### § 984.83 Rights of the Secretary. #####
+
+The members and alternates of the Board and any agent or employee appointed or employed by the Board, shall be subject to removal or suspension by the Secretary, at his discretion, at any time. Each and every decision, determination, or other act of the Board shall be subject to the continuing right of the Secretary to disapprove of the same at any time, and upon such disapproval, shall be deemed null and void.

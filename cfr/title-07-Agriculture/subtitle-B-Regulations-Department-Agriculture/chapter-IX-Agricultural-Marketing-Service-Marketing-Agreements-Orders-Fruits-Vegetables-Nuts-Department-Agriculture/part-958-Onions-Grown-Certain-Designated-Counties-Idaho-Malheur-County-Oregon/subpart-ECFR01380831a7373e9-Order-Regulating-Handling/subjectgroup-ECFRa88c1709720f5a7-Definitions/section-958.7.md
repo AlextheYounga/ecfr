@@ -1,0 +1,3 @@
+##### § 958.7 Handle. #####
+
+*Handle* is synonymous with *ship* and means to sell or transport onions, or cause onions to be sold or transported, within the production area or between the production area and any point outside thereof. Except as otherwise provided in §§ 958.56 and 958.65, this definition of “handle” shall not be applicable to onions that are transported within the production area for grading or storing therein, or to onions that are transported or sold to commercial dehydrators for processing by such dehydrators into dehydrated onion products.

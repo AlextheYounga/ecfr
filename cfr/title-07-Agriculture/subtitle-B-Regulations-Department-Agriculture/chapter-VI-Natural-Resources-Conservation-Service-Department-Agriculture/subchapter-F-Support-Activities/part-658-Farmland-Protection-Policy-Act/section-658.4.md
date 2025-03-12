@@ -1,0 +1,35 @@
+##### § 658.4 Guidelines for use of criteria. #####
+
+As stated above and as provided in the Act, each Federal agency shall use the criteria provided in § 658.5 to identify and take into account the adverse effects of Federal programs on the protection of farmland. The agencies are to consider alternative actions, as appropriate, that could lessen such adverse effects, and assure that such Federal programs, to the extent practicable, are compatible with State, unit of local government and private programs and policies to protect farmland. The following are guidelines to assist the agencies in these tasks:
+
+(a) An agency may determine whether or not a site is farmland as defined in § 658.2(a) or the agency may request that NRCS make such a determination. If an agency elects not to make its own determination, it should make a request to NRCS on Form AD-1006, the Farmland Conversion Impact Rating Form, available at NRCS offices, for determination of whether the site is farmland subject to the Act. If neither the entire site nor any part of it are subject to the Act, then the Act will not apply and NRCS will so notify the agency. If the site is determined by NRCS to be subject to the Act, then NRCS will measure the relative value of the site as farmland on a scale of 0 to 100 according to the information sources listed in § 658.5(a). NRCS will respond to these requests within 10 working days of their receipt except that in cases where a site visit or land evaluation system design is needed, NRCS will respond in 30 working days. In the event that NRCS fails to complete its response within the required period, if further delay would interfere with construction activities, the agency should proceed as though the site were not farmland.
+
+(b) The Form AD 1006, returned to the agency by NRCS will also include the following incidental information: The total amount of farmable land (the land in the unit of local government's jurisdiction that is capable of producing the commonly grown crop); the percentage of the jurisdiction that is farmland covered by the Act; the percentage of farmland in the jurisdiction that the project would convert; and the percentage of farmland in the local government's jurisdiction with the same or higher relative value than the land that the project would convert. These statistics will not be part of the criteria scoring process, but are intended simply to furnish additional background information to Federal agencies to aid them in considering the effects of their projects on farmland.
+
+(c) After the agency receives from NRCS the score of a site's relative value as described in § 658.4(a) and then applies the site assessment criteria which are set forth in § 658.5 (b) and (c), the agency will assign to the site a combined score of up to 260 points, composed of up to 100 points for relative value and up to 160 points for the site assessment. With this score the agency will be able to identify the effect of its programs on farmland, and make a determination as to the suitability of the site for protection as farmland. Once this score is computed, USDA recommends:
+
+(1) Sites with the highest combined scores be regarded as most suitable for protection under these criteria and sites with the lowest scores, as least suitable.
+
+(2) Sites receiving a total score of less than 160 need not be given further consideration for protection and no additional sites need to be evaluated.
+
+(3) Sites receiving scores totaling 160 or more be given increasingly higher levels of consideration for protection.
+
+(4) When making decisions on proposed actions for sites receiving scores totaling 160 or more, agency personnel consider:
+
+(i) Use of land that is not farmland or use of existing structures;
+
+(ii) Alternative sites, locations and designs that would serve the proposed purpose but convert either fewer acres of farmland or other farmland that has a lower relative value;
+
+(iii) Special siting requirements of the proposed project and the extent to which an alternative site fails to satisfy the special siting requirements as well as the originally selected site.
+
+(d) Federal agencies may elect to assign the site assessment criteria relative weightings other than those shown in § 658.5 (b) and (c). If an agency elects to do so, USDA recommends that the agency adopt its alternative weighting system (1) through rulemaking in consultation with USDA, and (2) as a system to be used uniformly throughout the agency. USDA recommends that the weightings stated in § 658.5 (b) and (c) be used until an agency issues a final rule to change the weightings.
+
+(e) It is advisable that evaluations and analyses of prospective farmland conversion impacts be made early in the planning process before a site or design is selected, and that, where possible, agencies make the FPPA evaluations part of the National Environmental Policy Act (NEPA) process. Under the agency's own NEPA regulations, some categories of projects may be excluded from NEPA which may still be covered under the FPPA. Section 1540(c)(4) of the Act exempts projects that were beyond the planning stage and were in either the active design or construction state on the effective date of the Act. Section 1547(b) exempts acquisition or use of farmland for national defense purposes. There are no other exemptions of projects by category in the Act.
+
+(f) Numerous States and units of local government are developing and adopting Land Evaluation and Site Assessment (LESA) systems to evaluate the productivity of agricultural land and its suitability for conversion to nonagricultural use. Therefore, States and units of local government may have already performed an evaluation using criteria similar to those contained in this rule applicable to Federal agencies. USDA recommends that where sites are to be evaluated within a jurisdiction having a State or local LESA system that has been approved by the governing body of such jurisdiction and has been placed on the NRCS State conservationist's list as one which meets the purpose of the FPPA in balance with other public policy objectives, Federal agencies use that system to make the evaluation.
+
+(g) To meet reporting requirements of section 1546 of the Act, 7 U.S.C. 4207, and for data collection purposes, after the agency has made a final decision on a project in which one or more of the alternative sites contain farmland subject to the FPPA, the agency is requested to return a copy of the Form AD-1006, which indicates the final decision of the agency, to the NRCS field office.
+
+(h) Once a Federal agency has performed an analysis under the FPPA for the conversion of a site, that agency's, or a second Federal agency's determination with regard to additional assistance or actions on the same site do not require additional redundant FPPA analysis.
+
+[49 FR 27724, July 5, 1984, as amended at 59 FR 31118, June 17, 1994]

@@ -1,0 +1,3 @@
+##### § 653.1 General. #####
+
+The Natural Resources Conservation Service (NRCS) is responsible for the technical adequacy of conservation practices installed under all NRCS programs, and those practices applied under programs administered by the Agricultural Stabilization and Conservation Service (ASCS) where NRCS has the technical responsibility. NRCS technical or financial assistance will be provided when the practices are applied according to established technical standards.

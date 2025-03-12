@@ -1,0 +1,5 @@
+##### § 210.24 Withholding payments. #####
+
+In accordance with Departmental regulations at 2 CFR 200.338 through 200.342, the State agency shall withhold Program payments, in whole or in part, to any school food authority which has failed to comply with the provisions of this part. Program payments shall be withheld until the school food authority takes corrective action satisfactory to the State agency, or gives evidence that such corrective action will be taken, or until the State agency terminates the grant in accordance with § 210.25 of this part. Subsequent to the State agency's acceptance of the corrective actions, payments will be released for any lunches served in accordance with the provisions of this part during the period the payments were withheld.
+
+[56 FR 32948, July 17, 1991, as amended at 71 FR 39516, July 13, 2006; 72 FR 61492, Oct. 31, 2007; 81 FR 66488, Sept. 28, 2016]

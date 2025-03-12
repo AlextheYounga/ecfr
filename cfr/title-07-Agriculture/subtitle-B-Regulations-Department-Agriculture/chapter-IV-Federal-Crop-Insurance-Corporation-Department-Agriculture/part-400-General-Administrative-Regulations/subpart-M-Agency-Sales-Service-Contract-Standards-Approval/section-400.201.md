@@ -1,0 +1,3 @@
+##### § 400.201 Applicability of standards. #####
+
+Federal Crop Insurance Corporation will offer an Agency Sales and Service Contract (the Contract) to private entities meeting the requirements set forth in this subpart under which the Corporation will insure producers of agricultural commodities. The Contract will be consistent with the requirements of the Federal Crop Insurance Act, as amended, and the provisions of the regulations of the Corporation found at chapter IV of title 7 of the Code of Federal Regulations. The Standards contained herein are required for an entity to be a contractor under the Contract.

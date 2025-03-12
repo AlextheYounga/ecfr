@@ -1,0 +1,3 @@
+##### § 622.20 Application. #####
+
+Sponsors shall follow State developed procedures (based on Executive Order 12372) for coordination of proposed Federal financial assistance and also USDA's 7 CFR part 3015 in applying for Pub. L. 83-566 assistance. Standard forms for Federal assistance or other approved forms may be obtained from NRCS State, area, or field offices. These forms should be submitted to the Single Point of Contact in accordance with the State developed procedures.

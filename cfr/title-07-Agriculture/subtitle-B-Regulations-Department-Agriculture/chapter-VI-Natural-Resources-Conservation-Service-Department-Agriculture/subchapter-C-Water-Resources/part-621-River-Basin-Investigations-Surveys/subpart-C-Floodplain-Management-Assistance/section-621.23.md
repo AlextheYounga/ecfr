@@ -1,0 +1,7 @@
+##### § 621.23 Conditions for approval. #####
+
+(a) USDA floodplain management studies are authorized by the Director of the Basin and Area Planning Division. Priority for starting floodplain management studies is based on the same factors as for USDA Cooperative Studies as described in § 621.13.
+
+(b) A study for an individual community may be started upon completion of a plan of work in which the Director of the Basin and Area Planning Division concurs and for which funds are available. Preparation of the plan of work is the responsibility of and must be approved by the applicant, the responsible State agency, and the State Conservationist. The plan sets forth the responsibilities of the applicant, the State, and USDA in carrying out the study and interpreting and using the data in a local floodplain management program. The State agency responsible for floodplain management activities may establish priorities on which to base the sequence of approval of floodplain management studies within its State. The number of studies started each Federal fiscal year is governed by the availability of funds and personnel and the amount of State and local assistance available.
+
+(c) States and communities are encouraged to make monetary or in-kind contributions toward the floodplain management study. The State and local share may reflect in-kind contributions in lieu of fund transfers.

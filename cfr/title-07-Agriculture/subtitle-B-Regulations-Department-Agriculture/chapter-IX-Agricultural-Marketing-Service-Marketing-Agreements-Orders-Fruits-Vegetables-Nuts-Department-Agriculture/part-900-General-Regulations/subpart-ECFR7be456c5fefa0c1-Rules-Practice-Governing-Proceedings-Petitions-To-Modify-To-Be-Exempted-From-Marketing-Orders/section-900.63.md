@@ -1,0 +1,3 @@
+##### § 900.63 Fees and mileage. #####
+
+Witnesses who are subpenaed and who appear in such proceeding, including witnesses whose depositions are taken, shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and persons taking depositions shall be entitled to the same fees as are paid for like services in the courts of the United States, to be paid by the party at whose request the deposition is taken. Witness fees and mileage shall be paid by the party at whose instance the witnesses appear, and claims therefor, as to witnesses subpenaed on behalf of the Department, shall be proved before the person issuing the subpena, and, as to witnesses subpenaed on behalf of any other party, shall be presented to such party.

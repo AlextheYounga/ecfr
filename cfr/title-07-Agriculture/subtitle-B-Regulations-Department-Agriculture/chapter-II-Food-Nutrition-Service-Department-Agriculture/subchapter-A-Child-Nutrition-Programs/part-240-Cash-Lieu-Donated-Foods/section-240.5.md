@@ -1,0 +1,7 @@
+##### § 240.5 Cash in lieu of donated foods for commodity schools. #####
+
+(a) The school food authority of a commodity school may elect (1) to receive cash payments in lieu of up to five cents per lunch of the value specified in § 250.4(b)(2)(ii) of this chapter to be used for donated-food processing and handling expenses, or (2) to have such payments retained for use on its behalf by the State agency. The school food authority shall consult with commodity schools before making the election.
+
+(b) When a school food authority makes an election regarding receipt of cash payments and the amount of any payments to be received under this paragraph, such election shall be binding on the school food authority for the school year to which the election applies.
+
+(c) The State agency shall (1) no later than May 14, 1982 for the school year ending June 30, 1982, and no later than August 15 of each subsequent school year, contact all school food authorities of commodity schools to learn their election regarding cash payments under this section and the amount of any such payments, and (2) forward this information to the distributing agency and FNSRO, in accordance with § 210.14(d)(2) of this chapter.

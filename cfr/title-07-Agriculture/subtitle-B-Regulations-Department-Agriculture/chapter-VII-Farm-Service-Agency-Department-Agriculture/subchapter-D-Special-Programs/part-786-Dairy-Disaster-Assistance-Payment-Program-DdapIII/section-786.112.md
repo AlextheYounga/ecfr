@@ -1,0 +1,3 @@
+##### § 786.112 Maintaining records. #####
+
+Persons applying for benefits under this program must maintain records and accounts to document all eligibility requirements specified herein and must keep such records and accounts for 3 years after the date of payment to their dairy operations under this program. Destruction of the records after such date is at the risk of the party required, by this part, to keep the records.

@@ -1,0 +1,3 @@
+##### § 20.9 Records. #####
+
+Each reporting exporter shall establish and maintain accurate records as to all export sales of commodities subject to these regulations. Such records shall include, but shall not be limited to, export sales contracts or other agreements with the foreign buyer or foreign seller pursuant to which any export has or will be made; bills of lading or delivery documents evidencing all such exports and inspection and weight certificates relating thereto. Such records shall be available during regular business hours for inspection and audit by authorized employees of the United States Department of Agriculture and shall be preserved for three years after the date of export to which they relate.

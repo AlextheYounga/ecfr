@@ -1,0 +1,15 @@
+##### § 981.32 Nominations. #####
+
+(a) *Method.* (1) Each year the terms of office of three of the members elected pursuant to Section 981.31 (a) and (b) shall expire, except every third year when the term of office for two of those members shall expire. Nominees for each respective member and alternate member shall be chosen by ballot delivered to the Board. Nominees chosen by the Board in this manner shall be submitted by the Board to the Secretary on or before February 20 of each year together with such information as the Secretary may require. If a nomination for any Board member or alternate is not received by the Secretary on or before February 20, the Secretary may select such member or alternate from persons belonging to the group to be represented without nomination. The Board shall mail to all handlers and growers, other than the cooperative(s) of record, the required ballots with all necessary voting information including the names of incumbents willing to accept renomination, and, to such growers, the name of any person proposed for nomination in a petition signed by at least 15 such growers and filed with the Board on or before January 20. Distribution of ballots shall be announced by press release, furnishing pertinent information on balloting, issued by the Board through newspapers and other publications having general circulation in the almond producing areas.
+
+(2) Nominees for the positions described in § 981.31(c) shall be handled in the same manner as described in paragraph (a)(1) of this section except that those terms of office shall expire annually.
+
+(b) *Voting.* (1) Nominees for each member and alternate member position shall be voted upon separately by the group proposing them. The handler or grower group which is determined to be eligible for additional representation pursuant to § 981.31 (e) and (f), respectively, shall nominate such representatives in the same manner prescribed for choosing other nominees.
+
+(2) Each handler may vote for a nominee for each position representing the group to which he belongs. Each handler vote shall be weighted by the quantity of almonds (kernel weight basis computed to the nearest whole ton) handled for his own account through December 31 of the crop year in which nominations are made. The nominee for each position shall be the person receiving the highest weighted vote for the position.
+
+(3) Growers who market their almonds through cooperative handlers shall vote through their respective organizations. Each cooperative shall cast a vote for nominees for each position representing the cooperative grower group and such ballots shall be weighted by the number of growers who are members of, or under contract with, such cooperative. The nominee for each position shall be the person receiving the highest weighted vote for that position.
+
+(4) Growers who market their almonds through other than cooperative handlers shall each have one equal vote. The nominees for each position representing such grower group shall be the person receiving the highest number of votes for that position.
+
+[35 FR 11372, July 16, 1970, as amended at 61 FR 32920, June 26, 1996]

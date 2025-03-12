@@ -1,7 +1,5 @@
 ##### § 156.200 QHP issuer participation standards. #####
 
-Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
-
 (a) *General requirement.* In order to participate in an Exchange, a health insurance issuer must have in effect a certification issued or recognized by the Exchange to demonstrate that each health plan it offers in the Exchange is a QHP.
 
 (b) *QHP issuer requirement.* A QHP issuer must -
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (c) *Offering requirements.* A QHP issuer must offer through the Exchange:
 
-(1) At least one QHP in the silver coverage level and at least one QHP in the gold coverage level as described in section 1302(d)(1) of the Affordable Care Act; and,
+(1) At least one QHP in the silver coverage level and at least one QHP in the gold coverage level as described in § 156.140 throughout each service area in which it offers coverage through the Exchange; and,
 
 (2) A child-only plan at the same level of coverage, as described in section 1302(d)(1) of the Affordable Care Act, as any QHP offered through the Exchange to individuals who, as of the beginning of the plan year, have not attained the age of 21.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (f) *Broker compensation in a Federally-facilitated Exchange.* A QHP issuer must pay the same broker compensation for QHPs offered through a Federally-facilitated Exchange that the QHP issuer pays for similar health plans offered in the State outside a Federally-facilitated Exchange.
 
-(g) *Certification standard specific to a Federally-facilitated Exchange.* A Federally-facilitated Exchange may certify a QHP in the individual market of a Federally-facilitated Exchange only if the QHP issuer meets one of the conditions below:
+(g) *Certification standard specific to a Federally-facilitated Exchange for plan years beginning before January 1, 2018.* A Federally-facilitated Exchange may certify a QHP in the individual market of a Federally-facilitated Exchange only if the QHP issuer meets one of the conditions below:
 
 (1) The QHP issuer also offers through a Federally-facilitated SHOP serving that State at least one small group market QHP at the silver level of coverage and one at the gold level of coverage as described in section 1302(d) of the Affordable Care Act;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (h) *Operational requirements.* As a condition of certification of a QHP, an issuer must attest that it will comply with all QHP operational requirements described in subparts D, E, H, K, L, and M of this part.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015]
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 15535, Mar. 11, 2013; 79 FR 30351, May 27, 2014; 80 FR 10873, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016]

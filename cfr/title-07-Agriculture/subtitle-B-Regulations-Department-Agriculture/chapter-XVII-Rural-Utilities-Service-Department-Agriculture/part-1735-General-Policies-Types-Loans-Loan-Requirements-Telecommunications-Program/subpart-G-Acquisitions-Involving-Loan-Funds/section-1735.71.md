@@ -1,0 +1,3 @@
+##### § 1735.71 Nonrural areas. #####
+
+Loan funds may be approved for the acquisition and improvement of facilities to serve nonrural subscribers only if the principal purpose of the loan is to furnish and improve rural service and only if the use of loan funds to serve nonrural subscribers is necessary and incidental to the principal purpose of the loan. For example, when the acquisition of an existing system located in and serving a nonrural area is necessary to serve as the nucleus of an expanded system to furnish area coverage service in rural areas, the loan may include funds to finance the acquisition. Approval for the use of loan funds in these circumstances shall be made only on a case by case basis by the Administrator.

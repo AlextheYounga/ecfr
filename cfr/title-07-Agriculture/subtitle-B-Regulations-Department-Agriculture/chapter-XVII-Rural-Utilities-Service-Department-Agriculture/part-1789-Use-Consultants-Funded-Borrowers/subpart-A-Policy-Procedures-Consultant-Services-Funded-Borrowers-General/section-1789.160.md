@@ -1,0 +1,3 @@
+##### § 1789.160 Access to information. #####
+
+The Borrower shall not have rights in nor right of access to the work product of the Consultant. All analyses, studies, opinions, memoranda, and other documents and information provided by the Consultant pursuant to a Consulting Contract may be released and made available to the Borrower only with the approval of RUS. This section does not restrict release of information by RUS pursuant to the Freedom of Information Act (5 U.S.C. 552(a)(2)) or other legal process.

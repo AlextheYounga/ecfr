@@ -1,0 +1,3 @@
+##### § 3701.1 General statement. #####
+
+This part is issued in accordance with the regulations of the Secretary of Agriculture in part 1, subpart A of this title and appendix A thereto, implementing the Freedom of Information Act (FOIA) (5 U.S.C. 552). The Secretary's regulations, as implemented by the regulations in this part, govern the availability of records of the Economic Research Service (ERS) to the public.

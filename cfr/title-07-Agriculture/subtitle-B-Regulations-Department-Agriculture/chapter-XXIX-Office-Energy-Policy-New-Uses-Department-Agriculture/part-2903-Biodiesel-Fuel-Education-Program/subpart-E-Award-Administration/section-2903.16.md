@@ -1,0 +1,3 @@
+##### § 2903.16 Organizational management information. #####
+
+Specific management information relating to an applicant shall be submitted on a one-time basis as part of the responsibility determination prior to the award of a grant identified under this program, if such information has not been provided previously. Copies of forms recommended for use in fulfilling these requirements will be provided as part of the preaward process.

@@ -1,0 +1,11 @@
+##### § 718.108 Measuring acreage including skip row acreage. #####
+
+(a) When one crop is alternating with another crop, whether or not both crops have the same growing season, only the acreage that is actually planted to the crop being measured will be considered to be acreage devoted to the measured crop.
+
+(b) Subject to the provisions of this paragraph and section, whether planted in a skip row pattern or without a pattern of skipped rows, the entire acreage of the field or subdivision may be considered as devoted to the crop only where the distance between the rows, for all rows, is 40 inches or less. If there is a skip that creates idle land wider than 40 inches, or if the distance between any rows is more than 40 inches, then the area planted to the crop shall be considered to be that area which would represent the smaller of; a 40 inch width between rows, or the normal row spacing in the field for all other rows in the field—those that are not more than 40 inches apart. The allowance for individual rows would be made based on the smaller of actual spacing between those rows or the normal spacing in the field. For example, if the crop is planted in single, wide rows that are 48 inches apart, only 20 inches to either side of each row (for a total of 40 inches between the two rows) could, at a maximum, be considered as devoted as the crop and normal spacing in the field would control. Half the normal distance between rows will also be allowed beyond the outside planted rows not to exceed 20 inches and will reflect normal spacing in the field.
+
+(c) In making calculations under this section, further reductions may be made in the acreage considered planted if it is determined that the acreage is more sparsely planted than normal using reasonable and customary full production planting techniques.
+
+(d) The Deputy Administrator has the discretionary authority to allow row allowances other than those specified in this section in those instances in which crops are normally planted with spacings greater or less than 40 inches, such as in case of tobacco, or where other circumstances are present which the Deputy Administrator finds justifies that allowance.
+
+(e) Paragraphs (a) through (d) of this section shall apply with respect to the 2003 and subsequent crops. For preceding crops, the rules in effect on January 1, 2002, shall apply.

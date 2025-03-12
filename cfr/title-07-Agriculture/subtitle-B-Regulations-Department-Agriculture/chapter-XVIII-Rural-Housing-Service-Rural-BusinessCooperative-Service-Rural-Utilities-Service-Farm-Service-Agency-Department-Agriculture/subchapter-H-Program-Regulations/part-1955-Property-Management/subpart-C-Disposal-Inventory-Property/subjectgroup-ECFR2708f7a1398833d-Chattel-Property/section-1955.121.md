@@ -1,0 +1,3 @@
+##### § 1955.121 Sale of acquired chattels (chattel). #####
+
+Sections 1955.122 through 1955.124 of this subpart prescribe procedures for the sale of all acquired chattel property except real property rights. The State Director is authorized to sell acquired chattels by auction, sealed bid, regular sale or, for perishable items and crops, by negotiated sale. The State Director may redelegate authority to any qualified Rural Development employee.

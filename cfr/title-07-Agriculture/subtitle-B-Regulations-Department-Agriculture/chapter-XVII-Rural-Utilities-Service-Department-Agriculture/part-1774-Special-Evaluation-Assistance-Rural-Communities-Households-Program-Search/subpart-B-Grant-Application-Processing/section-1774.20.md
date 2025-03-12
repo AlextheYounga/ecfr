@@ -1,0 +1,3 @@
+##### § 1774.20 Conflict of Interest. #####
+
+Any processing or servicing activity conducted pursuant to this part involving authorized assistance to Rural Development employees with Water and Environmental Programs responsibility, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this title. Applicants of this assistance are required to identify any known relationship or association with an RUS employee.

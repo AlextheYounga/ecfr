@@ -1,0 +1,3 @@
+##### § 1400.211 Persons and legal entities not considered to be actively engaged in farming. #####
+
+Any person or legal entity that does not satisfy all of the applicable provisions of §§ 1400.201 through 1400.210 and a landowner who rents land to a farming operation for cash or a crop share guaranteed as to the amount of the commodity will not be considered to be actively engaged in farming with respect to the farming operation.

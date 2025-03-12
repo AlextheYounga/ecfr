@@ -1,0 +1,3 @@
+##### § 795.6 Multiple individuals or other entities. #####
+
+The rules in §§ 795.5 through 795.16 shall be used to determine whether certain multiple individuals or legal entities are to be treated as one person or as separate persons for the purpose of applying the limitation. In cases in which more than one rule would appear to be applicable, the rule which is most restrictive on the number of persons shall apply.

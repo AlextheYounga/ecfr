@@ -1,0 +1,3 @@
+##### § 15.82 Notice of hearing and response thereto. #####
+
+A notice of hearing shall fix a date not less than 30 days from the date of service of the notice of a hearing on matters alleged in the notice. If the applicant or recipient does not desire a hearing, he should so state in writing, in which case the applicant or recipient shall have the right to submit written information and argument for the record, and the additional right to further participate in the proceeding. Failure to appear at the time set for a hearing, without good cause, shall be deemed a waiver of the right to a hearing under section 602 of the Act and the regulations in this part and consent to the making of a decision on such information as is available which may be presented for the record.

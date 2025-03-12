@@ -1,0 +1,3 @@
+##### § 29.3182 Key to standard grademarks. #####
+
+GroupsX—Flyings.C—Lugs or CuttersB—Leaf.T—Tips.M—Mixed.N—Nondescript.S—Scrap.Qualities1—Choice.2—Fine.3—Good.4—Fair.5—Low.ColorsL—Buff.F—Tan.FL—Tannish buff.FR—Tannish red.R—Red.D—Dark red.K—Variegated.M—Mixed.V—Greenish.VF—Greenish tan.VR—Greenish red.G—Green.GF—Green tan.GR—Green red.[24 FR 8771, Oct. 29, 1959, as amended at 51 FR 40407, Nov. 7, 1986]

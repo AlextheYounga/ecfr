@@ -1,0 +1,3 @@
+##### § 22.204 Rural development committees. #####
+
+State rural development committees, consisting of USDA agency members and, in most instances, State governments and other Federal agency representatives are available to assist States in accomplishing their rural development objectives. Such assistance if requested by the State can take the form of technical assistance and cooperative services to States in carrying out their rural development priorities.

@@ -1,0 +1,3 @@
+##### § 1210.504 Contracts. #####
+
+The Board, with the approval of the Secretary, may enter into contracts or make agreements with persons for the development and submission to it of programs or projects authorized by the Plan and for carrying out such programs or projects. Contractors shall agree to comply with the provisions of this part. Subcontractors who enter into contracts or agreements with a Board contractor and who receive or otherwise utilize funds allocated by the Board shall be subject to the provisions of this part. All records of contractors and subcontractors applicable to contracts entered into by the Board are subject to audit by the Secretary.

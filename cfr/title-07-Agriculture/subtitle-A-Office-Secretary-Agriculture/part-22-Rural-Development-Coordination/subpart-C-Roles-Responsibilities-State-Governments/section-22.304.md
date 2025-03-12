@@ -1,0 +1,3 @@
+##### § 22.304 Multiyear planning and programming. #####
+
+State and multicounty jurisdictions are encouraged to adopt multiyear planning and development programs. As administrative procedures for implementing the Act support the feasibility of such a process, these programs should consider joint State, Federal, and local budget planning factors and be refined to conform to the actual fund availability as annual budgets are finalized and allocated. Such programs, once initiated, will be extended by the annual addition of a new planning year until programs are completed or terminated.

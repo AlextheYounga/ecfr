@@ -1,0 +1,3 @@
+##### § 58.30 Application for reinspection or regrading. #####
+
+An application for the reinspection or regrading of any previously inspected or graded product may be made at any time by any interested party; and such application shall clearly indicate the reasons for requesting the reinspection or regrading. The provisions of the regulations in this subpart relative to inspection or grading service shall apply to reinspection or regrading service.

@@ -1,0 +1,3 @@
+##### § 3431.24 Reporting requirements, monitoring, and close-out. #####
+
+VMLRP participants will be required to submit periodic reports per the terms and conditions of their service agreements. In addition, the Secretary is responsible for ensuring that a VMLRP participant is complying with the terms and conditions of their service agreement, including any additional reporting or close-out requirements.

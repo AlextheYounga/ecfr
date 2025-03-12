@@ -1,0 +1,5 @@
+##### § 1739.2 Funding availability and application dates and submission. #####
+
+(a) The Agency will periodically publish, (usually on an annual basis) in the Federal Register, a NOFA that will set forth the total amount of funding available; the maximum and minimum funding for each grant; funding priority; the application submission dates; and the appropriate addresses and agency contact information. The NOFA will also outline and explain the procedures for submission of applications, including electronic submissions. The Agency may publish more than one NOFA should additional funding become available.
+
+(b) Notwithstanding paragraph (a) of this section, the Agency may, in response to a surplus of qualified eligible applications which could not be funded from the previous fiscal year, decline to publish a NOFA for the following fiscal year and fund said applications without further public notice.

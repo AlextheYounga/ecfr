@@ -1,0 +1,3 @@
+##### § 782.3 Administration. #####
+
+The end-use certificate program will be administered under the general supervision and direction of the Administrator, Farm Service Agency (FSA), U.S. Department of Agriculture (USDA), through the Office of the Deputy Administrator for Commodity Operations (DACO), FSA, Washington, D.C., and the Kansas City Commodity Office (KCCO), FSA, Kansas City, MO, in coordination with the Commissioner of Customs pursuant to a Memorandum of Understanding.

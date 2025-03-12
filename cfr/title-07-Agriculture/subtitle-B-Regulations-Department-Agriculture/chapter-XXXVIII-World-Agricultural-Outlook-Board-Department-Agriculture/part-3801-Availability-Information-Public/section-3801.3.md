@@ -1,0 +1,3 @@
+##### § 3801.3 Requests for records. #####
+
+Requests for records of WAOB shall be made in accordance with § 1.6 (a) and (b) of this title and addressed to: Economics Agencies FOIA Officer, Economics Management Staff, USDA, Room 4310, South Building, 12th and Independence Avenue SW., Washington, DC 20250. This official is delegated authority to make determinations regarding such requests in accordance with § 1.3(a)(3) of this title.

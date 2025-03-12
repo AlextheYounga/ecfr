@@ -1,0 +1,3 @@
+##### § 1207.324 Vacancies. #####
+
+To fill any vacancy caused by the failure of any person selected as a member of the Board to qualify, or in the event of the death, removal, resignation, or disqualification of any member, a successor shall be nominated and selected in the manner specified in § 1207.322. In the event of failure to provide nominees for such vacancies, the Secretary may select other eligible persons.

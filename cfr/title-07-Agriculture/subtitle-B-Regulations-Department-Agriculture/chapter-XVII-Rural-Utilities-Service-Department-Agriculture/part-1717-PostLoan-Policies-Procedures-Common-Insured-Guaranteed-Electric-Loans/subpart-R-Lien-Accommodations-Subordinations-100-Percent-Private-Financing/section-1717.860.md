@@ -1,0 +1,41 @@
+##### § 1717.860 Lien accommodations and subordinations under section 306E of the RE Act. #####
+
+(a) *General.* Under section 306E of the RE Act, when requested by a private lender providing financing for capital investments by a borrower whose net worth exceeds 110 percent of the outstanding principal balance of all loans made or guaranteed to the borrower by RUS, the Administrator will, without delay, offer to share the government's lien on the borrower's system or subordinate the government's lien on the property financed by the private lender, provided that the security, including the assurance of repayment, for loans made or guaranteed by RUS will remain reasonably adequate. To qualify for a lien accommodation or subordination under this section, the investment must be an original capital investment, i.e., not a refinancing or refunding. (See § 1717.851 for the definition of capital investment.)
+
+(b) *Determination of net worth to RUS debt ratio.* (1) In the case of applications for a lien accommodation, a borrower's net worth will be based on the borrower's most recent financial and statistical report, the data in which shall not be more than 60 days old at the time the application is received by RUS, and the outstanding debt owed to or guaranteed by RUS will be based on latest RUS records available. The financial and statistical reports (Form 7 for distribution borrowers and Form 12a for power supply borrowers) are subject to RUS review and revision, and they must comply with RUS's system of accounts and accounting principles set forth in 7 CFR part 1767. Since sinking fund depreciation is not approved under part 1767, net worth for borrowers using sinking fund depreciation will be calculated as if the borrower had been using straight line depreciation.
+
+(2) Net worth shall be calculated by taking total margins and equities (Line 33 of Part C of RUS Form 7 for distribution borrowers, or Line 34 of Section B of RUS Form 12a for power supply borrowers) and subtracting assets properly recordable in account 182.2, Unrecovered Plant and Regulatory Study Costs, and account 182.3, Other Regulatory Assets, as defined in 7 CFR part 1767.
+
+(c) *Application requirements and process.* (1) If a borrower's net worth to RUS debt ratio exceeds 110 percent, as determined by RUS, and the borrower is in compliance with all requirements of its mortgage, loan agreement with RUS, and any other agreement with RUS that have not been exempted in writing by RUS, if requested RUS will expeditiously approve a lien accommodation or subordination for 100 percent private financing of capital investments, provided that the security, including the assurance of repayment, for loans made or guaranteed by RUS will remain reasonably adequate. RUS's approval will be conditioned upon execution and delivery by the borrower of a security instrument satisfactory to RUS, if required, and such additional information, documents, and opinions of counsel as RUS may require.
+
+(2) The application must include the following:
+
+(i) A resolution of the borrower's board of directors requesting the lien accommodation and including the amount and maturity of the proposed loan, a general description of the facilities or other purposes to be financed, the name and address of the lender, and an attached term sheet summarizing the terms and conditions of the proposed loan;
+
+(ii) A certification by an authorized official of the borrower that the borrower is in compliance with all requirements of its mortgage, loan agreement with RUS, and any other agreement with RUS that have not been exempted in writing by RUS;
+
+(iii) The borrower's financial and statistical report, the data in which shall not be more than 60 days old when the complete application is received by RUS;
+
+(iv) Draft copy of any new mortgage or mortgage amendment (supplement) required by RUS or the lender, unless RUS has notified the borrower that it wishes to prepare these documents itself;
+
+(v) A copy of the loan agreement, loan note, bond or other financing instrument, unless RUS has notified the borrower that these documents need not be submitted. These documents will not be subject to RUS approval, but may be reviewed to determine whether they contain any provisions that would result in the security, including assurance of repayment, for loans made or guaranteed by RUS no longer being reasonably adequate;
+
+(vi) The following certifications and reports required by law:
+
+(A) The certification by the project architect for any buildings to be constructed, as required by 7 CFR 1717.850(i);
+
+(B) A certification by an authorized official of the borrower that flood hazard insurance will be obtained for the full value of any buildings, or other facilities susceptible to damage if flooded, that will be located in a flood hazard area;
+
+(C) Form AD-1047, Certification Regarding Debarment, Suspension, and Other Responsibility Matters - Primary Covered Transactions, as required by 2 CFR part 180, adopted by USDA through 2 CFR part 417;
+
+(D) A report by the borrower stating whether or not it is delinquent on any Federal debt, and if delinquent, the amount and age of the delinquency and the reasons therefor; and a certification, if not previously provided, that the borrower has been informed of the Government's collection options; and
+
+(E) The written acknowledgement from a registered engineer or architect regarding compliance with seismic provisions of applicable model codes for any buildings to be constructed, as required by 7 CFR 1792.104. All other elements of an application listed in § 1717.855, § 1717.856, and § 1717.858(c) not listed in this paragraph (c) are exempted.
+
+(3) Applications from distribution borrowers are submitted to the general field representative (GFR), while applications from power supply borrowers are submitted to the RUS Power Supply Division, or its successor, in Washington, DC. When an application is satisfactory to the GFR, it will be sent promptly to the Washington office. If Washington office staff determine that an application is incomplete, the borrower will be promptly notified in writing about the deficiencies. When the application is complete, and if the security, including assurance of repayment, of loans made or guaranteed by RUS will remain reasonably adequate after granting the lien accommodation or subordination, the borrower and the lender will be promptly notified in writing that the lien accommodation or subornation has been approved, subject to the conditions cited in paragraph (c)(1) of this section.
+
+(d) *Rural development and other non-electric utility investments.* Although RUS recommends the use of separate subsidiaries as set forth in § 1717.858, if requested by a borrower that meets the 110 percent equity test and all other applicable requirements of this section, RUS will provide a lien subordination on the specific assets financed in the case of loans made directly to the borrower for rural development and other non-electric utility purposes, provided that the outstanding balance of all such loans lien subordinated under this paragraph (d), after taking into consideration the effect of the new loan, does not exceed 15 percent of the borrower's net worth and the security, including assurance of repayment, of loans made or guaranteed by RUS will remain reasonably adequate after granting the lien subordination. Investments lien subordinated under this paragraph shall be included among those investments subject to the 15 percent of total utility plant limitation set forth in 7 CFR 1717.654(b)(1), and granting of the lien subordination will not constitute approval of the investment under 7 CFR part 1717, subpart N.
+
+(e) *Requirements and controls not exempted.* All requirements and limitations imposed with respect to lien accommodations and subordinations by this subpart R that are not specifically exempted by this section are not exempted and shall continue to apply according to their terms.
+
+[59 FR 3986, Jan. 28, 1994, as amended at 60 FR 3735, Jan. 19, 1995; 60 FR 67410, Dec. 29, 1995; 79 FR 76003, Dec. 19, 2014]

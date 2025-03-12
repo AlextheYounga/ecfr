@@ -1,15 +1,25 @@
 ##### 19.804-3 SBA acceptance. #####
 
-(a) Upon receipt of the contracting agency's offer, the SBA will determine whether to accept the requirement for the 8(a) Program. The SBA's decision whether to accept the requirement will be transmitted to the contracting agency in writing within 10 working days of receipt of the offer if the contract is likely to exceed the simplified acquisition threshold and within 2 days of receipt if the contract is at or below the simplified acquisition threshold. The contracting agency may grant an extension of these time periods. If SBA does not respond to an offering letter within 10 days, the contracting activity may seek SBA's acceptance through the Associate Administrator .
+(a) Upon receipt of the contracting office's offering letter, SBA will determine whether to accept the requirement for the 8(a) program. SBA's decision whether to accept the requirement will be transmitted to the contracting office in writing within 10 working days of receipt of the offer if the contract is likely to exceed the simplified acquisition threshold and within two working days of receipt if the contract is at or below the simplified acquisition threshold. The contracting office may grant an extension of these time periods, if requested by SBA.
 
-(b) If the acquisition is accepted as a sole source, the SBA will advise the contracting activity of the 8(a) firm selected for negotiation. Generally, the SBA will accept a contracting activity's recommended source.
+(1) For acquisitions exceeding the simplified acquisition threshold, if SBA does not respond to an offering letter within ten working days, the contracting office may seek SBA's acceptance through the Associate Administrator for Business Development. The contracting office may assume that SBA has accepted the requirement into the 8(a) program if it does not receive a reply from the Associate Administrator for Business Development within five calendar days of receipt of the contracting office's request.
 
-(c) For acquisitions not exceeding the simplified acquisition threshold, when the contracting activity makes an offer to the 8(a) Program on behalf of a specific 8(a) firm and does not receive a reply to its offer within 2 days, the contracting activity may assume the offer is accepted and proceed with award of an 8(a) contract.
+(2) For acquisitions not exceeding the simplified acquisition threshold, when the contracting office makes an offer to the 8(a) program on behalf of a specific 8(a) participant and does not receive a reply to its offering letter within two working days, the contracting office may assume the offer is accepted and proceed with award of an 8(a) contract.
 
-(d) As part of the acceptance process, SBA will review the appropriateness of the NAICS code designation assigned to the requirement by the contracting activity.
+(b) As part of the acceptance process, SBA will review the appropriateness of the NAICS code designation assigned to the requirement by the contracting officer.
 
-(1) SBA will not challenge the NAICS code assigned to the requirement by the contracting activity if it is reasonable, even though other NAICS codes may also be reasonable.
+(1) SBA will not challenge the NAICS code assigned to the requirement by the contracting officer if it is reasonable, even though other NAICS codes may also be reasonable.
 
-(2) If SBA and the contracting activity are unable to agree on a NAICS code designation for the requirement, SBA may refuse to accept the requirement for the 8(a) Program, appeal the contracting officer's determination to the head of the agency pursuant to 19.810, or appeal the NAICS code designation to the SBA Office of Hearings and Appeals under subpart C of 13 CFR part 134.
+(2) If SBA and the contracting officer are unable to agree on a NAICS code designation for the requirement, SBA may refuse to accept the requirement for the 8(a) program, appeal the contracting officer's determination to the head of the agency pursuant to 19.810, or appeal the NAICS code designation to the SBA Office of Hearings and Appeals under subpart C of 13 CFR part 134.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 56 FR 55380, Oct. 25, 1991; 61 FR 67421, Dec. 20, 1996; 64 FR 32744, June 17, 1999; 65 FR 46057, July 26, 2000; 75 FR 77730, Dec. 13, 2010]
+(c) *Sole source 8(a) awards.* If an appropriate match exists, SBA will advise the contracting officer whether it will participate in contract negotiations or whether SBA will authorize the contracting officer to negotiate directly with the identified 8(a) participant. Where SBA has delegated its contract execution functions to a contracting agency, SBA will also identify that delegation in its acceptance letter.
+
+(1) *Sole source award where the contracting officer nominates a specific 8(a) participant.* SBA will determine whether an appropriate match exists where the contracting officer identifies a particular participant for a sole source award.
+
+(i) Once SBA determines that a procurement is suitable to be accepted as an 8(a) sole source contract, SBA will normally accept it on behalf of the 8(a) participant recommended by the contracting officer, provided that the 8(a) participant complies with the requirements of 13 CFR 124.503(c)(1).
+
+(ii) If an appropriate match does not exist, SBA will notify the 8(a) participant and the contracting officer, and may then nominate an alternate 8(a) participant.
+
+(2) *Sole source award where the contracting officer does not nominate a specific 8(a) participant.* When a contracting officer does not nominate an 8(a) participant for performance of a sole source 8(a) contract, SBA will select an 8(a) participant for possible award from among two or more eligible and qualified 8(a) participants. The selection will be based upon relevant factors, including business development needs, compliance with competitive business mix requirements (if applicable), financial condition, management ability, technical capability, and whether award will promote the equitable distribution of 8(a) contracts. (For construction requirements see 13 CFR 124.503(d)(1)).
+
+[82 FR 4727, Jan. 13, 2017]

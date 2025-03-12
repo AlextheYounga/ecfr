@@ -1,0 +1,3 @@
+##### § 1219.102 Registration. #####
+
+An eligible producer or importer of Hass avocados, as defined in this subpart, at the time of the referendum and during a representative period, who chooses to vote in any referendum conducted under this subpart, shall register with the referendum agent prior to the voting period, after receiving notice from the referendum agent concerning the referendum under § 1219.104(b). Registration information shall be confidential under § 1219.108.

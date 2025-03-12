@@ -1,0 +1,3 @@
+##### § 1208.24 Research. #####
+
+*Research* means any type of test, study, or analysis designed to advance the image, desirability, use, marketability, production, product development, or quality of processed raspberries or raspberries for processing, including but not limited to research relating to nutritional value, cost of production, new product development, health research, and marketing of processed raspberries or raspberries for processing.

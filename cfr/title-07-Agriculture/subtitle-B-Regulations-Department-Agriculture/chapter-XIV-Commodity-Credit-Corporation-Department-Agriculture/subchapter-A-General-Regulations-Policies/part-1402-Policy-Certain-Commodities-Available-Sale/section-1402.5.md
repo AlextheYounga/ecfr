@@ -1,0 +1,3 @@
+##### § 1402.5 Late payments. #####
+
+If payment is not received by CCC within the period specified in the sales contract, interest will be assessed by CCC. If a buyer fails to make arrangements for payment according to the provisions of the contract, CCC retains the right to terminate the sales contract. If CCC terminates the sales contract for default in whole or in part, CCC may offer the commodity for sale and the original party will be liable to CCC for any losses incurred and damages sustained as a result of the party's failure to timely remit payment for the commodity.

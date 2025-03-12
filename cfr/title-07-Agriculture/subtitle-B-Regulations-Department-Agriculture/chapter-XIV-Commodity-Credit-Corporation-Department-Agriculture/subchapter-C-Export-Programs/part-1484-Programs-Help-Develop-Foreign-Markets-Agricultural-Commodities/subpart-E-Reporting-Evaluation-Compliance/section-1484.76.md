@@ -1,0 +1,7 @@
+##### § 1484.76 Can a Cooperator appeal the determinations of the Deputy Administrator? #####
+
+(a) The Cooperator may appeal the determinations of the Deputy Administrator to the Administrator. An appeal must be in writing and be submitted to the Office of the Administrator within 30 days following the date of the initial determination by the Deputy Administrator or the determination on reconsideration. The Cooperator may request a hearing.
+
+(b) If the Cooperator submits its appeal and requests a hearing, the Administrator, or the Administrator's designee, will set a date and time, generally within 60 days. The hearing will be an informal proceeding. A transcript will not ordinarily be prepared unless the Cooperator bears the cost of a transcript; however, the Administrator may have a transcript prepared at FAS's expense.
+
+(c) The Administrator will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after submission of the appeal, hearing, or receipt of any transcript, whichever is later. The determination of the Administrator will be the final determination of FAS. The Cooperator must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Administrator.

@@ -1,0 +1,3 @@
+##### § 1786.202 Prepayment and refinancing of RUS guaranteed FFB loans. #####
+
+The borrower of an electric or telephone loan made by the FFB and guaranteed by RUS under section 306 of the RE Act may, at the option of the borrower, refinance or prepay a loan or an advance on the loan, or any portion of the loan or advance in accordance with section 306C of the RE Act, after meeting certain conditions using the procedures prescribed in the note. After refinancing existing notes under this section, additional prepayments or refinancings will be governed by the terms of the refinancing note(s).

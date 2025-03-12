@@ -1,0 +1,3 @@
+##### § 3430.17 Content of an application. #####
+
+The RFA provides instructions on how to access a funding opportunity. The funding opportunity contains the application package, which includes the forms necessary for completion of an application in response to the RFA, as well as the application instructions. The application instructions document, “NIFA Grants.gov Application Guide: A Guide for Preparation and Submission of NIFA Applications via Grants.gov,” is intended to assist applicants in the preparation and submission of applications to NIFA. It is also the primary document for use in the preparation of NIFA applications via Grants.gov.

@@ -1,0 +1,3 @@
+##### § 1720.15 Equal opportunity requirements. #####
+
+*Executive Order 12898, “Environmental Justice.”* To comply with Executive Order 12898, RUS will conduct a Civil Rights Analysis for each guarantee prior to approval. Rural Development Form 2006-28, “Civil Rights Impact Analysis”, will be used to document compliance in regards to environmental justice. The Civil Rights Impact Analysis will be conducted prior to application approval or a conditional commitment of guarantee.

@@ -1,0 +1,5 @@
+##### § 636.20 Equitable relief. #####
+
+(a) If a participant relied upon the advice or action of any authorized NRCS representative and did not know, or have reason to know, that the advice or action was improper or erroneous, NRCS may grant relief in accordance with 7 CFR part 635. Where a participant believes that detrimental reliance on the advice or action of a NRCS representative resulted in an ineligibility or program violation, the participant may request equitable relief under 7 CFR 635.3. The financial or technical liability for any action by a participant that was taken based on the advice of a NRCS certified non-USDA TSP is the responsibility of the certified TSP and will not be assumed by NRCS when NRCS authorizes payment.
+
+(b) If during the term of a WHIP cost-share agreement a participant has been found in violation of a provision of the cost-share agreement, the O&M agreement, or any document incorporated by reference through failure to fully comply with that provision, the participant may be eligible for equitable relief under 7 CFR 635.4.

@@ -1,0 +1,5 @@
+##### § 61.6 Denial of further services. #####
+
+Any person, partnership, or corporation that shall have undertaken to utilize the services of licensed cottonseed samplers under these regulations who shall not make available for official sampling and analysis each lot of cottonseed purchased or sold on grade and received by such person or partnership or corporation, may be denied further services under the act and these regulations: *Provided,* That in cases of persons, partnerships, or corporations operating two or more cottonseed crushing units under separate local managements, such penalty shall apply only to the offending unit, unless it shall be shown that the actions of such unit were at the direction or with the knowledge, approval, or acquiescence of the general management.
+
+[22 FR 10948, Dec. 28, 1957, as amended at 58 FR 42413, Aug. 9, 1993]

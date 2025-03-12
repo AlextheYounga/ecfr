@@ -1,0 +1,3 @@
+##### § 1721.108 Commencement of the deferment. #####
+
+The deferment of principal and interest will not begin until the extension agreement and other supporting materials, in form and substance satisfactory to RUS, have been executed by the Borrower and returned to RUS. Examples of other supporting materials are items such as approving legal opinions from the Borrower's attorney and approvals from the relevant regulatory body for extending the maturity of existing debt and for the additional debt service payment incurred.

@@ -1,0 +1,3 @@
+##### § 3565.154 Previous participation in state and federal programs. #####
+
+Loans to borrowers who are delinquent on a federal debt may not be guaranteed. Furthermore, borrowers or principals thereof who have defaulted on state or local government loans will not be eligible for a guarantee unless the Agency determines that the default was beyond the borrower's control, and that the identifiable reasons for the default no longer exist. At the time of application, the lender must obtain from the borrower a certification that the borrower is not under any state or federal order suspending or debarring participation in state or federal loan programs and that the borrower is not delinquent on any non-tax obligation to the United States.

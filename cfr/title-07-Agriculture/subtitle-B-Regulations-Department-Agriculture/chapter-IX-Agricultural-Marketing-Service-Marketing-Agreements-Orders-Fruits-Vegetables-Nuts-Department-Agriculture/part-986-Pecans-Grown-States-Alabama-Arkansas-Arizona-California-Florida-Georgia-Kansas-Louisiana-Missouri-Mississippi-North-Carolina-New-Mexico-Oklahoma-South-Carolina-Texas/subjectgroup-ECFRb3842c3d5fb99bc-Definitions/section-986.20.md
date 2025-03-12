@@ -1,0 +1,3 @@
+##### § 986.20 To handle. #####
+
+*To handle* means to receive, shell, crack, accumulate, warehouse, roast, pack, sell, consign, transport, export, or ship (except as a common or contract carrier of pecans owned by another person), or in any other way to put inshell or shelled pecans into any and all markets in the stream of commerce either within the area of production or from such area to any point outside thereof. The term “to handle” shall not include: sales and deliveries within the area of production by growers to handlers; grower warehousing; custom handling (except for selling, consigning or exporting) or other similar activities paid for on a fee-for-service basis by a grower who retains the ownership of the pecans; or transfers between handlers.

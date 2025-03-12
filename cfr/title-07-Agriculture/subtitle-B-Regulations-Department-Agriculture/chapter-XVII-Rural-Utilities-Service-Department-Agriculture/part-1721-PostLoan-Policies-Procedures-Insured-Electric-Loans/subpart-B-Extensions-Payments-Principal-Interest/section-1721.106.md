@@ -1,0 +1,7 @@
+##### § 1721.106 Repayment of deferred payments. #####
+
+(a) *Deferments relating to financial hardship.* The total amount of interest that has been deferred, including interest on deferred principal, will be added to the principal balance, and the total amount of principal and interest that has been deferred will be reamortized over the remaining life of the applicable note beginning in the first year the deferral period ends. For example: the amount of interest deferred in years 2003, 2004, 2005, 2006, and 2007, will be added to the principal balance and reamortized over the life of the applicable note for repayment starting in year 2008.
+
+(b) *Deferments relating to the ERC loan program, renewable energy project(s), distributed generation project(s), and the contribution(s)-in-aid of construction.* An extension agreement is for a term of two (2) years. The installment will be recalculated each time the Borrower defers the payment of principal and recognition of the deferred amount will begin with the next payment. For example: the amount deferred in the October payment will be reamortized over a 84 month period starting with the next payment (November if paying on a monthly basis). When a Borrower defers principal under any of these programs the scheduled payment on the account will increase by an amount sufficient to pay off the deferred amount, with interest, by the date specified in the agreement (usually 84 months (28 quarters)).
+
+[67 FR 485, Jan. 4, 2002, as amended at 68 FR 37954, June 26, 2003]

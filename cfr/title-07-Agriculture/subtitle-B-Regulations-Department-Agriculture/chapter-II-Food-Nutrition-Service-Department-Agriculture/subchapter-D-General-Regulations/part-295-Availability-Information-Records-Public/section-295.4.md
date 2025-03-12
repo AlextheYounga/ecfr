@@ -1,0 +1,3 @@
+##### § 295.4 Program evaluation status reports. #####
+
+FNS also publishes summaries of objectives and findings of completed studies and projects concerning evaluation of FNS food assistance programs. A copy of the current status report on completed studies may be obtained by writing the Director, Office of Analysis and Evaluation, Food and Nutrition Service, USDA, 3101 Park Center Drive, Alexandria, VA 22302-1500.

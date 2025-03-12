@@ -1,0 +1,3 @@
+##### § 3560.353 Scheduling of on-site monitoring reviews. #####
+
+Generally, the Agency will provide the borrower prior notice of an on-site monitoring review and will conduct the on-site monitoring review in the presence of the borrower. However, the Agency may visit a housing project, without prior notice, to observe physical conditions, operations and management activities, or other borrower or tenant activities. In addition, the Agency may conduct on-site reviews without the presence of the borrower, the management agent, or other designated representative of the borrower.

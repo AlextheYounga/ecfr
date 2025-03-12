@@ -1,0 +1,3 @@
+##### § 29.6104 Rule 18. #####
+
+Burn shall be determined as the average burning time of leaves selected at random from the sample. A minimum of 10 leaves shall be selected as representative regardless of the number of bundles or bales in the lot. All burn tests shall be made in the bindercutting area on the same side of the leaf. The leaf shall be punctured to permit quick ignition when placed over a candle, alcohol lamp, or electrical-lighting device. Good burn shall average 6 seconds or longer; fair burn, 3 to 5 seconds; and poor burn, under 3 seconds. B1 and B2 shall require good burn and B3, fair burn.

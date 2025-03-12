@@ -1,0 +1,3 @@
+##### § 1726.15 “Buy American”. #####
+
+The borrower must ensure that all materials and equipment financed with loans made or guaranteed by RUS complies with the “Buy American” provisions of the Rural Electrification Act of 1938 (7 U.S.C. 903 note), as amended by the North American Free Trade Agreement Implementation Act (107 Stat 2129). When a “Buy American” certificate is required by this part, this must be on RUS Form 213.

@@ -1,0 +1,3 @@
+##### § 1217.22 Promotion. #####
+
+*Promotion* means any action taken, including paid advertising, public relations and other communications, and promoting the results of research, that presents a favorable image of softwood lumber to the public and to any and all consumers and those who influence consumption of softwood lumber with the intent of improving the perception, markets and competitive position of softwood lumber and stimulating sales of softwood lumber.

@@ -1,0 +1,3 @@
+##### § 58.237 Condensed surge supply. #####
+
+Surge tanks or balance tanks if used between the evaporators and dryer shall be used to hold only the minimum amount of condensed product necessary for a uniform flow to the dryers. Such tanks holding product at temperatures below 150 °F. shall be completely emptied and washed after each 4 hours of operation or less. Alternate tanks shall be provided to permit continuous operation during washing of tanks.

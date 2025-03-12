@@ -1,0 +1,3 @@
+##### § 3405.12 Intent to submit a proposal. #####
+
+To assist NIFA in preparing for the review of proposals, institutions planning to submit proposals may be requested to complete Form NIFA-711, “Intent to Submit a Proposal,” provided in the application package. NIFA will determine each year if Intent to Submit a Proposal forms will be requested and provide such information in the program announcement. If Intent to Submit a Proposal forms are required, one form should be completed and returned for each proposal an institution anticipates submitting. Submitting this form does not commit an institution to any course of action, nor does failure to send this form prohibit an institution from submitting a proposal.

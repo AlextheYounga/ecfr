@@ -1,0 +1,3 @@
+##### § 1403.13 Contact with debtor's employing agency. #####
+
+When a debtor is employed by the Federal Government or is a member of the military establishment or the Coast Guard, and collection by offset cannot be accomplished in accordance with 5 U.S.C. 5514, CCC may contact the employing agency to arrange for payment of the debt by allotment or otherwise, in accordance with section 206 of Executive Order No. 11222, May 8, 1965, 30 FR 6469.

@@ -1,0 +1,3 @@
+##### § 1486.208 How does an entity apply to the program? #####
+
+CCC will periodically announce that it is accepting proposals for participation in the EMP. All relevant information, including application deadlines (for the Central Fund) and proposal content, will be noted in the announcement, and proposals must be submitted in accordance with the terms and requirements specified in the announcement. CCC may request any additional information it deems necessary from any applicant in order to evaluate properly any proposal.

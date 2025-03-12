@@ -1,0 +1,5 @@
+##### § 57.13 Federal and State cooperation. #####
+
+The Secretary shall, whenever determined necessary to effectuate the purposes of the Act, authorize the Administrator to cooperate with appropriate State and other governmental agencies in carrying out any provisions of the Egg Products Inspection Act and this part. In carrying out the provisions of the Act and the regulations in this part, the Secretary may conduct such examinations, investigations, and inspections as the Secretary determines practicable through any officer or employee of any such agency commissioned by the Secretary for such purpose. The Secretary shall reimburse the States and other agencies for the services rendered by them stated in the cooperative agreements signed by the Administrator and the duly authorized agent of the State or other agency.
+
+[69 FR 57166, Sept. 24, 2004]

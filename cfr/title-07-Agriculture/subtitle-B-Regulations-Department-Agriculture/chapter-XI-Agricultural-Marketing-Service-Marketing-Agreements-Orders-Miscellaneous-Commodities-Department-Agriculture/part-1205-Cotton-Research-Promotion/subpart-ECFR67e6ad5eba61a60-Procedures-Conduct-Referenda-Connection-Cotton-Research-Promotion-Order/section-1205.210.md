@@ -1,0 +1,3 @@
+##### § 1205.210 Additional instructions and forms. #####
+
+AMS is hereby authorized to prescribe additional instructions and forms not inconsistent with the provisions of this subpart for the use of State and County FSA offices in conducting a referendum. Such additional instructions may include procedures for FSA county and State offices to report and announce the results of the preliminary count of the votes in the county and the State.

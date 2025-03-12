@@ -1,0 +1,3 @@
+##### § 614.16 Participation of third parties in NRCS proceedings. #####
+
+When an appeal is filed under this part, NRCS will notify any third party whose interests may be affected of the right to participate as an appellant in the appeal. If the third party declines to participate, then NRCS' decision will be binding as to that third party as if the party had participated. If a formal hearing is conducted by NAD, third party issues will be decided by NAD.

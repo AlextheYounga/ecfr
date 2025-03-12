@@ -1,0 +1,3 @@
+##### § 1404.7 Misrepresentations. #####
+
+If FSA or CCC has reason to believe that any material misrepresentation was made by the assignor or the assignee in executing Forms CCC-36, CCC-251 or CCC-252, FSA or CCC shall give notice thereof to the assignor and the assignee. If, after investigation and opportunity for the assignor and assignee to be heard, FSA or CCC finds that any material misrepresentation was in fact made, FSA or CCC shall notify the assignor and the assignee of such finding, and void such assignment, and insofar as concerns FSA, CCC or any other agency of the United States, the assignment shall be of no effect.

@@ -1,0 +1,5 @@
+##### § 201.57 Hard seeds. #####
+
+Seeds which remain hard at the end of the prescribed test because they have not absorbed water, due to an impermeable seed coat, are to be counted as “hard seed.” If at the end of the germination period provided for legumes, okra, cotton and dichondra in these rules and regulations there are still present swollen seeds or seeds of these kinds which have just started to germinate, all seeds or seedlings except the above-stated shall be removed and the test continued for 5 additional days and the normal seedlings included in the percentage of germination. For flatpea, continue the swollen seed in test for 14 days when germinating at 15-25 °C or for 10 days when germinating at 20 °C.
+
+[5 FR 33, Jan. 4, 1940, as amended at 10 FR 9952, Aug. 11, 1945; 20 FR 7936, Oct. 21, 1955; 65 FR 1708, Jan. 11, 2000]

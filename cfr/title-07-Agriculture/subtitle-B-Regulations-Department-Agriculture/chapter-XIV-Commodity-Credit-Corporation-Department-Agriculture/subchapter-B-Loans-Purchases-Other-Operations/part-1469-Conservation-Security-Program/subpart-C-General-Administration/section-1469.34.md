@@ -1,0 +1,3 @@
+##### § 1469.34 Performance based on advice or action of representatives of NRCS. #####
+
+If a participant relied upon the advice or action of any authorized representative of CCC, and did not know or have reason to know that the action or advice was improper or erroneous, the State Conservationist may accept the advice or action as meeting the requirements of CSP. In addition, the State Conservationist may grant relief, to the extent it is deemed desirable by CCC, to provide a fair and equitable treatment because of the good faith reliance on the part of the participant.

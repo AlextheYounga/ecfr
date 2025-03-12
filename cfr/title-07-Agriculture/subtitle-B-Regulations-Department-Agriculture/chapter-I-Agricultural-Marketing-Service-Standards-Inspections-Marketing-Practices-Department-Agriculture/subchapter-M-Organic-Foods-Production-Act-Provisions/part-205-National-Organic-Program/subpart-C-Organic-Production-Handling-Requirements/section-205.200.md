@@ -1,0 +1,3 @@
+##### § 205.200 General. #####
+
+The producer or handler of a production or handling operation intending to sell, label, or represent agricultural products as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s))” must comply with the applicable provisions of this subpart. Production practices implemented in accordance with this subpart must maintain or improve the natural resources of the operation, including soil and water quality.

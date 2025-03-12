@@ -1,0 +1,3 @@
+##### § 3565.155 Identity of interest. #####
+
+At the time of application, the lender must certify that it has disclosed any and all identity of interest relationships and preexisting conditions with respect to its relationships and that of the borrower, or that no identity of interest relationships exists. Identity of interest relationships include any financial or other relationship that exists or will exist between a lender, borrower, management agent, supplier, or any agent of any of these entities, that could influence, give the appearance of influencing or have the potential to influence the actions of the parties in carrying out their responsibilities under the program. Disclosure will be in a form and manner established by the Agency.

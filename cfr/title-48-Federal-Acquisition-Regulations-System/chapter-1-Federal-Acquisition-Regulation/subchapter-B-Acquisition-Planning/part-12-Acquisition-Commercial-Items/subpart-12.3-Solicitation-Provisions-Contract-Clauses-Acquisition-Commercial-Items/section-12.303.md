@@ -10,7 +10,7 @@ Solicitations and contracts for the acquisition of commercial items prepared usi
 
 (2) Block 18B for remittance address;
 
-(3) Block 19 for contract line item numbers;
+(3) Block 19 for line item numbers;
 
 (4) Block 20 for schedule of supplies/services; or
 
@@ -36,4 +36,4 @@ Solicitations and contracts for the acquisition of commercial items prepared usi
 
 (4) 52.212-3, Offeror Representations and Certifications - Commercial Items.
 
-[60 FR 48241, Sept. 18, 1995; 60 FR 54817, Oct. 26, 1995; 61 FR 67430, Dec. 20, 1996; 63 FR 35720, June 30, 1997; 63 FR 36121, July 1, 1998; 64 FR 10536, Mar. 4, 1999; 71 FR 220, Jan. 3, 2006; 75 FR 82567, Dec. 30, 2010; 79 FR 61750, Oct. 14, 2014]
+[60 FR 48241, Sept. 18, 1995; 60 FR 54817, Oct. 26, 1995; 61 FR 67430, Dec. 20, 1996; 63 FR 35720, June 30, 1997; 63 FR 36121, July 1, 1998; 64 FR 10536, Mar. 4, 1999; 71 FR 220, Jan. 3, 2006; 75 FR 82567, Dec. 30, 2010; 79 FR 61750, Oct. 14, 2014; 82 FR 4713, Jan. 13, 2017]

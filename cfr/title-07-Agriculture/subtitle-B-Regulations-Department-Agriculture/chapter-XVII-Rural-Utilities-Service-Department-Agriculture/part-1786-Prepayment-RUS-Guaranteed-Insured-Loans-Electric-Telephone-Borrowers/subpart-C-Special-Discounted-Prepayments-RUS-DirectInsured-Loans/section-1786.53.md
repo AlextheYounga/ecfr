@@ -1,0 +1,5 @@
+##### § 1786.53 Discounted present value. #####
+
+The Discounted Present Value shall be calculated five business days before prepayment is made by summing the present values of all remaining payments by using the following formula:
+
+![](/graphics/ec16se91.025.gif)Where:Pk = Total payment including interest, due on the kth payment date following the prepayment date.n = Total number of remaining payments dates.I = The discount rate, in decimals, which shall be the average rate on utility bonds bearing a rating of “Aa” as set forth in that issue of Moody's Public Utility News Reports most recently published prior to the date on which Discounted Present Value is calculated.D11 = Number of days in the ith payment period that are in a non-leap year (365 day year).D2i = Number of days in the ith payment period that are in a leap year (366 day year).

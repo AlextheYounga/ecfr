@@ -1,0 +1,3 @@
+##### § 15.103 Disposition of motions. #####
+
+The hearing officer may not sustain or grant a motion prior to expiration of the time for filing responses thereto, but may overrule or deny such motion without waiting on a response: *Provided, however,* That prehearing conferences, hearings, and decisions need not be delayed pending disposition of motions. Oral motions may be ruled on immediately. Motions submitted to the hearing officer not disposed of in separate rulings or in his decision will be deemed denied. Oral argument shall not be held on written motions unless expressly ordered. Interlocutory appeals from rulings on motions shall be governed by § 15.123.

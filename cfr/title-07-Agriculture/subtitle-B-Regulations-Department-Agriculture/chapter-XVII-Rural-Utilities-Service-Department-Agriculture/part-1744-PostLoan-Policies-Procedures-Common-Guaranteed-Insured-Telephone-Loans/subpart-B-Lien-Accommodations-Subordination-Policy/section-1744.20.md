@@ -1,0 +1,9 @@
+##### § 1744.20 General. #####
+
+(a) Recent changes in the telecommunications industry, including deregulation and technological developments, have caused Rural Utilities Service (RUS) borrowers and other organizations providing telecommunications services to consider undertaking projects that provide new telecommunications services and other telecommunications services not ordinarily financed by RUS. Although some of these services may not be eligible for financing under the Rural Electrification Act of 1936 (RE Act), these services may nevertheless advance RE Act objectives where the borrower obtains financing from private lenders. The borrower's financial strength and the assurance of repayment of outstanding Government debt may be improved as a result of providing such telecommunications services.
+
+(b) To facilitate the financing of new services and other services not ordinarily financed by RUS, RUS is willing to consider accommodating the Government's lien on telecommunications borrowers' systems or accommodating or subordinating the Government's lien on after-acquired property of telecommunications borrowers. To expedite this process, requests for lien accommodations meeting the requirements of § 1744.30 will receive automatic approval from RUS.
+
+(c) This subpart establishes RUS policy with respect to all requests for lien accommodations and subordinations for loans from private lenders. For borrowers that do not qualify for automatic lien accommodations in accordance with § 1744.30, RUS will consider lien accommodations for RE Act purposes under § 1744.40 and non-Act purposes under § 1744.50.
+
+[66 FR 41758, Aug. 9, 2001]

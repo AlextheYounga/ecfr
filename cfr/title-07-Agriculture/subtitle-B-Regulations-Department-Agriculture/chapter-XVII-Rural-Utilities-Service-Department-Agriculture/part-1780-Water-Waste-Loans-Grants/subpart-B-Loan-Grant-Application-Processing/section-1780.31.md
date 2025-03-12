@@ -1,0 +1,13 @@
+##### § 1780.31 General. #####
+
+(a) Applicants are encouraged to contact the Agency processing office early in the planning stages of their project. Agency personnel are available to provide general advice and assistance regarding RUS programs, other funding sources, and types of systems or improvements appropriate for the applicants needs. The Agency can also provide access to technical assistance and other information resources for other project development issues such as public information, income surveys, developing rate schedules, system operation and maintenance, and environmental compliance requirements. Throughout the planning, application processing and construction of the project, Agency personnel will work closely and cooperatively with the applicant and their representatives, other State and Federal agencies and technical assistance providers.
+
+(b) The processing office will handle initial inquiries and provide basic information about the program. They are to provide the application, SF 424.2, “Application for Federal Assistance (For Construction),” assist applicants as needed in completing SF 424.2, and in filing a request for intergovernmental review. Federally recognized Indian tribes are exempt from intergovernmental review. The processing office will explain eligibility requirements and meet with the applicant whenever necessary to discuss application processing.
+
+(c) Applicants can make a written request for an eligibility determination in lieu of filing an SF 424.2 along with the information required by § 1780.33. Applicants seeking only an eligibility determination, should contact the processing office to obtain a list of the items needed to make this determination. An eligibility determination for loan or grant assistance will not give an applicant priority for funding as set forth in § 1780.17.
+
+(d) Applications that are not developed in a reasonable period of time taking into account the size and complexity of the proposed project may be removed from the State's active file. Applicants will be consulted prior to taking such action.
+
+(e) During the earliest discussion with prospective applicants, the Agency will advise prospective applicants on environmental review requirements and evaluation of potential environmental impacts of the proposal. In accordance with 7 CFR part 1970, environmental review requirements shall be performed by the applicant simultaneously and concurrently with the proposal's engineering planning and design.
+
+[62 FR 33478, June 19, 1997, as amended at 63 FR 68655, Dec. 11, 1998; 81 FR 11028, Mar. 2, 2016]

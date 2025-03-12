@@ -1,0 +1,3 @@
+##### § 97.16 Amendment by applicant. #####
+
+An application may be amended before or after the first examination and action by the Office, after the second or subsequent examination or reconsideration as specified in § 97.107, or when and as specifically required by the examiner. Such amendment may include a specification that seed of the variety be sold by variety name only as a class of certified seed, if not previously specified or if previously declined. Once an affirmative specification is made, no amendment to reverse such a specification will be permitted unless the variety has not been sold and labeled or publication made in any manner that the variety is to be sold by variety name, only as a class of certified seed.

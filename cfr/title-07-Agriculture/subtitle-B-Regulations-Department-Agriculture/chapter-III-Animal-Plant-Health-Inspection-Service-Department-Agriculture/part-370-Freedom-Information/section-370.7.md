@@ -1,0 +1,5 @@
+##### § 370.7 Agency response to requests. #####
+
+(a) The response to requests for information and to appeals shall be made in accordance with the Department regulations in § 1.5 of this title and the regulations in this part.
+
+(b) Requests for records and information which have customarily been directed to field stations and agency headquarters may continue to be directed to those locations, notwithstanding the provisions of these regulations. If the information is not available at the location at which the request is made, or the official receiving the request is in doubt as to whether the information should be released, the official shall (1) promptly forward the request to the FOIA Coordinator, or (2) inform the requester of the procedures established in these regulations by which the request may be sent directly to the FOIA Coordinator. The date of receipt of the request by the Coordinator shall be the determining date for purposes of the time limitations under the Freedom of Information Act and the regulations.

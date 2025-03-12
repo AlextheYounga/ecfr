@@ -1,0 +1,5 @@
+##### § 987.151 Interhandler transfers. #####
+
+When any handler transfers dates, other than product dates, to another handler, the selling handler shall promptly notify the Committee by filing with it a completed CDAC Form No. 1 and shall show the name and address of the transferring or selling handler and of the receiving or buying handler, the variety and processed category or classification of the dates, the lot number and inspection certificate number on any lot of packed and certified dates, the number and type of containers, the net weight of the transferred dates, and if applicable, the transferring handler's statement on assuming the withholding and assessment obligation. A transfer of products dates between handlers shall be reported as a disposition by the selling handler filing with the Committee a completed CDAC Form No. 8.
+
+[37 FR 23325, Nov. 2, 1972, as amended at 43 FR 28438, June 30, 1978]

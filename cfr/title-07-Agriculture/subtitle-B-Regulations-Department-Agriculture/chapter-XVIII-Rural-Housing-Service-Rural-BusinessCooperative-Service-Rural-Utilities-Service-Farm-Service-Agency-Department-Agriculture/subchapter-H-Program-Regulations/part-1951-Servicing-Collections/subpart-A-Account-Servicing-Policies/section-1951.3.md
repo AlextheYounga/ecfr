@@ -1,0 +1,3 @@
+##### § 1951.3 Authorities and responsibilities. #####
+
+County Supervisors and District Directors are responsible for servicing all Agency accounts serviced by the County and District Offices as prescribed by this subpart under the general guidance and supervision of District Directors and State Office personnel. Full use will be made of the County Office Management System in account servicing. For the purposes of this Subpart, all references to “County Supervisor” shall be construed to mean “District Director” for all loans serviced by the District Office.

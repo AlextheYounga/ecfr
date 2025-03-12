@@ -1,0 +1,5 @@
+##### § 351.6 Packages in closed mail dispatches. #####
+
+The foregoing instructions shall be followed in the treatment of packages containing plants or plant products received in closed mail dispatches made up for transmission directly to a post office located at a customs port at which no plant quarantine inspector is stationed. Such packages (accompanied by customs card Form 3511) shall be forwarded by the collector of customs through the postmaster to the most accessible location listed in § 351.2 for appropriate treatment in the manner hereinbefore provided. This procedure shall also be followed in respect to such packages which are forwarded to unlisted post offices from the post office of original receipt, without having received plant quarantine examination. Packages discovered at post offices where no customs officer is located shall be forwarded by the postmaster under his official penalty envelope addressed to the collector of customs at the most accessible location listed for appropriate treatment as prescribed herein.
+
+[24 FR 9923, Dec. 9, 1959, as amended at 36 FR 24917, Dec. 24, 1971]

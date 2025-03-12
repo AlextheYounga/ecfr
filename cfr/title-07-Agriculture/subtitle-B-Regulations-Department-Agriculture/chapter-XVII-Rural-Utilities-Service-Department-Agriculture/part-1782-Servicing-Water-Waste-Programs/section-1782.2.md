@@ -1,0 +1,3 @@
+##### § 1782.2 Objectives. #####
+
+Loan and grant servicing is provided by Rural Development in order to assist recipients in complying with the established objectives and requirements for loans and grants, repaying loans on schedule, acting in accordance with any necessary agreements, and protecting Rural Development's financial interest. Servicing by Rural Development includes, but is not limited to, the review of budgets, management reports, audits, and financial statements; performing operational inspections; providing, arranging, or recommending technical assistance; evaluating environmental impacts of proposed actions by the borrower; and performing civil rights compliance and graduation reviews.

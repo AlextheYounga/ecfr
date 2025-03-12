@@ -1,0 +1,3 @@
+##### § 1786.26 Policy. #####
+
+It is the policy of RUS to facilitate the prepayment of FFB loans in accordance with the provisions of section 306(A) of the RE Act and section 633 of the continuing resolution as modified by section 637 of the 1989 Appropriations Act. Furthermore, consistent with the RE Act, the continuing resolution and the 1989 Appropriations Act, it is the policy of RUS to implement the objectives of the prepayment program in a manner which does not result in an increase in loan guarantee risk or an inappropriate increase in the administrative burden on RUS.

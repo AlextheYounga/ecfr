@@ -1,0 +1,3 @@
+##### § 2500.022 Preliminary proposal review. #####
+
+Prior to technical examination, a preliminary review will be made of all proposals for responsiveness to the administrative requirements set forth in the RFP. Proposals that do not meet the administrative requirements may be eliminated from program competition. However, OAO retains the right to conduct discussions with applicants to resolve technical and/or budget issues, as deemed necessary by OAO.

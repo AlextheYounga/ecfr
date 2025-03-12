@@ -1,0 +1,3 @@
+##### § 15a.1 Purpose and effective date. #####
+
+The purpose of this part is to effectuate title IX of the Education Amendments of 1972, as amended by Public Law 93-568, 88 Stat. 1855 and Public Law 94-482, 90 Stat. 2234 (except sections 904 and 906 of those Amendments) which is designed to eliminate (with certain exceptions) discrimination on the basis of sex in any education program or activity receiving Federal financial assistance, whether or not such program or activity is offered or sponsored by an educational institution as defined in this part.

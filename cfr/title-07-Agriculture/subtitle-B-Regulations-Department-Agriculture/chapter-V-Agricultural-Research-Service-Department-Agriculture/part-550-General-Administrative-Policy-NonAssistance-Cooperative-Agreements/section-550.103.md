@@ -1,0 +1,3 @@
+##### § 550.103 Eligibility. #####
+
+REE Agencies may enter into a non-assistance cooperative agreements with eligible entities to further research, extension, or teaching programs in the food and agricultural sciences. Eligible entities are any State agricultural experimental station, State cooperative extension service, any college or university, other research or education institution or organization, Federal or private agency or organization, an individual, or other party, either foreign or domestic.

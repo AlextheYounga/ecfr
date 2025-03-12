@@ -1,0 +1,3 @@
+##### § 948.29 Procedure. #####
+
+Rules and procedures for granting exemptions may be issued by the Secretary, upon recommendation of area committees. Such rules and procedures may provide for methods of determinations by area committees of average proportions of crops shipped or being shipped in respective areas or subdivisions thereof during any or all portions of a season, for processing applications for exemption, for issuing or denying certificates of exemption, for administrative compliance with certificates issued, for reports by handlers thereon, and for such other procedures as may be necessary to administration hereof.

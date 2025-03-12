@@ -1,0 +1,3 @@
+##### § 652.31 Policy. #####
+
+In order to protect the public interest, it is the policy of NRCS to maintain certification of those technical service providers who act responsibly in the provision of technical service, including meeting NRCS standards and specifications when providing technical service to participants. This section, which provides for the decertification of technical service providers, is an appropriate means to implement this policy.

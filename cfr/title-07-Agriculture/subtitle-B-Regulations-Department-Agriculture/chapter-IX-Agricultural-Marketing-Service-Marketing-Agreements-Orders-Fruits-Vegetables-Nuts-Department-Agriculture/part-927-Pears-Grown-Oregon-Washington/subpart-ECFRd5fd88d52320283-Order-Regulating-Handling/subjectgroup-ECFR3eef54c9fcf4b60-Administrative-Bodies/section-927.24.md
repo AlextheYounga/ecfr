@@ -1,0 +1,3 @@
+##### § 927.24 Eligibility for membership. #####
+
+Each grower member and each of his or her alternates shall be a grower, or an officer or employee of a corporate or LLC grower, who grows pears in the district in which and for which he or she is nominated and selected. Each handler member and each of his or her alternates shall be a handler, or an officer or employee of a handler, handling pears in the district in and for which he or she is nominated and selected. Each processor member and each of their alternates shall be a processor, or an officer or employee of a processor, who processes pears in the production area.

@@ -1,0 +1,7 @@
+##### § 623.21 Scheme and device. #####
+
+(a) If it is determined by NRCS that a landowner has employed a scheme or device to defeat the purposes of this part, any part of any program payment otherwise due or paid such landowner during the applicable period may be withheld or be required to be refunded with interest thereon, as determined appropriate by NRCS, and the contract with the landowner may be terminated. In such a case, NRCS may also continue to hold the easement interest acquired under this part.
+
+(b) A scheme or device includes, but is not limited to, coercion, fraud, misrepresentation, depriving any other person of payments for cost-share practices or easements for the purpose of obtaining a payment to which a person would otherwise not be entitled.
+
+(c) An owner of land subject to this part who succeeds to the responsibilities under this part shall report in writing to NRCS any interest of any kind in the land subject to this part that is retained by a previous participant. Such interest includes a present, future or conditional interest, reversionary interest or any option, future or present, with respect to such land and any interest of any lender in such land where the lender has, will, or can obtain, a right of occupancy to such land or an interest in the equity in such land other than an interest in the appreciation in the value of such land occurring after the loan was made. A failure of full disclosure will be considered a scheme or device under this section.

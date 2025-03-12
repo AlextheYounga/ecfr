@@ -1,0 +1,3 @@
+##### § 927.29 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person selected as a member or as an alternate for a member of the Fresh Pear Committee or the Processed Pear Committee to qualify, or in the event of death, removal, resignation, or disqualification of any qualified member or qualified alternate for a member, a successor for his or her unexpired term shall be nominated and selected in the manner set forth in §§ 927.20 to 927.35. If nominations to fill any such vacancy are not made within 20 days after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations.

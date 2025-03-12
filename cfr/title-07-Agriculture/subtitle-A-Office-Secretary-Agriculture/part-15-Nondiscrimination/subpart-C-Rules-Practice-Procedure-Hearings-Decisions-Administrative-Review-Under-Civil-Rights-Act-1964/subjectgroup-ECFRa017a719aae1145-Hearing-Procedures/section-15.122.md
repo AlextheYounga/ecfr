@@ -1,0 +1,3 @@
+##### § 15.122 Offer of proof. #####
+
+An offer of proof made in connection with an objection taken to any ruling of the hearing officer rejecting or excluding proposed oral testimony shall consist of a statement for the record of the substance of the evidence which counsel contends would be adduced by such testimony; and, if the excluded evidence consists of evidence in documentary or written form or of reference to documents or records, a copy of such evidence shall be marked for identification and shall accompany the record as an offer of proof.

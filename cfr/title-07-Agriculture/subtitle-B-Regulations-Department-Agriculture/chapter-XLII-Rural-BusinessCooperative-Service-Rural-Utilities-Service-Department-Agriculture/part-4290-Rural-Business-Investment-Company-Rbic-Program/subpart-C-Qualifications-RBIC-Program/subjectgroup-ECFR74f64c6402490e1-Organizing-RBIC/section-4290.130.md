@@ -1,0 +1,3 @@
+##### § 4290.130 Identified Rural Areas. #####
+
+A RBIC must identify the specific Rural Area or Areas in which it intends to make Developmental Venture Capital investments and provide Operational Assistance under the RBIC program. The scope of the identified areas must be consistent with Applicant's business plan, especially as the plan relates to the Applicant's ability to operate actively, soundly, and profitably in such areas.

@@ -1,0 +1,3 @@
+##### § 915.21 Term of office. #####
+
+The term of office of each member and alternate member of the committee shall begin April 1, and shall terminate March 31 of the following year. Members and alternate members shall serve in such capacities for the portion of the term of office for which they are selected and qualify and until their respective successors are selected and have qualified. The consecutive terms of office of members shall be limited to three terms.

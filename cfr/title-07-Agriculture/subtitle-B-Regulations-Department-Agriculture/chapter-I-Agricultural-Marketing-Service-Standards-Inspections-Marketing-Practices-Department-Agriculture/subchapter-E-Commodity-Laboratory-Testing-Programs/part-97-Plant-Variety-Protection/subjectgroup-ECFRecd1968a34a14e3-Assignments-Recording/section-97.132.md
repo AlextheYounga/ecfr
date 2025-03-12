@@ -1,0 +1,5 @@
+##### § 97.132 Assignment records open to public inspection. #####
+
+(a) Assignment records relating to original or amended certificates shall be open to public inspection and copies of any recorded document may be obtained upon payment of the prescribed fee.
+
+(b) Assignment records relating to any pending or abandoned application shall not be available for inspection except to the extent that pending applications are published as provided in section 57 of the Act and § 97.19, or where necessary to carry out the provisions of any Act of Congress. Copies of assignment records and information on pending or abandoned applications shall be obtainable only upon written authority of the applicant or his or her assignee, or attorney or agent of record, or where necessary to carry out the provisions of any Act of Congress. An order for a copy of an assignment shall give the proper identification of the assignment.

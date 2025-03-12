@@ -1,0 +1,5 @@
+##### § 47.21 Transmittal of record. #####
+
+The Hearing Clerk, immediately after the filing of the examiners' report, shall transmit to the Secretary the record of the proceeding. Such record shall include: The pleadings; motions and requests filed, and rulings thereon; the report of investigation conducted by the Fruit and Vegetable Programs; the transcript or record of the testimony taken at the hearing, together with the exhibits filed therein; any statements or stipulations filed under the documentary procedure; any documents or papers filed in connection with conferences; such proposed findings of fact, conclusions, and orders and briefs as may have been permitted to be filed in connection with the hearing as provided in § 47.19(b) and (c); such statements of objections, and briefs in support thereof, as may have been filed in the proceeding; and the examiner's report.
+
+[64 FR 38108, July 15, 1999]

@@ -1,0 +1,3 @@
+##### § 1782.15 Mergers and consolidations. #####
+
+Mergers and consolidations will be processed the same as a transfer and assumption, although approvals by the Agency will give consideration to the differences under the applicable law regarding the type of transaction under consideration and the unique facts involved in each transaction. Mergers occur when two or more entities combine in such a manner that only one remains in existence. Consolidations occur when two or more entities combine to form a new consolidated entity, and the original entities cease to exist. In both mergers and consolidations, the surviving or emerging entity acquires the assets and assumes the liabilities of the entity or entities that ceased to exist.

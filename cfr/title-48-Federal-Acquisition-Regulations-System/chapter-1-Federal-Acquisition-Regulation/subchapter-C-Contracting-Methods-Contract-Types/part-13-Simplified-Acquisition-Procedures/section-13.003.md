@@ -8,7 +8,7 @@
 
 (3) Other established contracts.
 
-(b)(1) Acquisitions of supplies or services that have an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)) but not exceeding $150,000 ($300,000 for acquisitions described in paragraph (1)(i) of the simplified acquisition threshold definition at 2.101) are reserved exclusively for small business concerns and shall be set aside (see 19.000, 19.203, and subpart 19.5).
+(b)(1) Acquisitions of supplies or services that have an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)) but not exceeding $150,000 ($750,000 for acquisitions described in paragraph (1)(i) of the simplified acquisition threshold definition at 2.101) are reserved exclusively for small business concerns and shall be set aside (see 19.000, 19.203, and subpart 19.5).
 
 (2) The contracting officer may make an award to a small business concern under the -
 
@@ -62,4 +62,4 @@
 
 (4) Use innovative approaches, to the maximum extent practicable, in awarding contracts using simplified acquisition procedures.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 63 FR 70267, Dec. 18, 1998; 67 FR 56121, Aug. 30, 2002; 68 FR 4050, Jan. 27, 2003; 69 FR 8314, Feb. 23, 2004; 69 FR 25276, May 5, 2004; 69 FR 59699, Oct. 5, 2004; 69 FR 76351, Dec. 20, 2004; 71 FR 57366, Sept. 28, 2006; 74 FR 65604, Dec. 10, 2009; 75 FR 53132, Aug. 30, 2010; 76 FR 14567, Mar. 16, 2011; 76 FR 18308, Apr. 1, 2011; 77 FR 12932, Mar. 2, 2012; 80 FR 38297, 38311, July 2, 2015; 80 FR 53753, Sept. 8, 2015; 81 FR 30439, May 16, 2016]
+[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 63 FR 70267, Dec. 18, 1998; 67 FR 56121, Aug. 30, 2002; 68 FR 4050, Jan. 27, 2003; 69 FR 8314, Feb. 23, 2004; 69 FR 25276, May 5, 2004; 69 FR 59699, Oct. 5, 2004; 69 FR 76351, Dec. 20, 2004; 71 FR 57366, Sept. 28, 2006; 74 FR 65604, Dec. 10, 2009; 75 FR 53132, Aug. 30, 2010; 76 FR 14567, Mar. 16, 2011; 76 FR 18308, Apr. 1, 2011; 77 FR 12932, Mar. 2, 2012; 80 FR 38297, 38311, July 2, 2015; 80 FR 53753, Sept. 8, 2015; 81 FR 30439, May 16, 2016; 82 FR 4717, Jan. 13, 2017]

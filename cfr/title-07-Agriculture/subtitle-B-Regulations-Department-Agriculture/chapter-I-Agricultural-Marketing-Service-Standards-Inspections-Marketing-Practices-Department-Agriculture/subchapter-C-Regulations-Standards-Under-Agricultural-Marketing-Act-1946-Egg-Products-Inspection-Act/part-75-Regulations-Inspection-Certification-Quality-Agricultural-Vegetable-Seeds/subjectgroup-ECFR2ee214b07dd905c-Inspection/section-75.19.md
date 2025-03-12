@@ -1,0 +1,3 @@
+##### § 75.19 Seed lot inspection. #####
+
+A lot inspection shall be made by obtaining a representative sample from a specified quantity of seed identified with a distinguishing mark or number to appear on all containers in the lot, and performing such test(s) as may be requested by the applicant. The identification mark or number must be approved by the inspector and will appear on the certificate to be issued.

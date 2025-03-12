@@ -1,0 +1,3 @@
+##### § 1260.500 General. #####
+
+State organizations or associations shall be certified by the Secretary as provided for in the Beef Promotion and Research Act of 1985 to be eligible to make nominations of cattle producers to the Board. Additionally, where there is no eligible organization or association in a State, the Secretary may provide for nominations in the manner prescribed in this subpart. Organizations or associations determined by the Secretary to represent importers of cattle, beef, and beef products may submit nominations for membership on the Board in a manner prescribed by the Secretary in this subpart. The number of nominees required for each allotted position will be determined by the Secretary.

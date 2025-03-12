@@ -1,0 +1,5 @@
+##### § 28.59 Lost memorandum or certificate may be replaced by duplicate. #####
+
+Upon the written request of the last holder of a valid Form A or Form D memorandum, or Form C Certificate and a showing to the satisfaction of the Area Director of the Classing Office which issued such memorandum or certificate that it has been lost or destroyed and, if lost, that diligent effort has been made to find it without success, a new memorandum or certificate shall be issued without the reclassification of the cotton. Such new memorandum or certificate shall bear the same number and date of issuance as the lost or destroyed memorandum or certificate and shall include a statement to the effect that it is a duplicate issued in lieu of the lost or destroyed original, as the case may be.
+
+[52 FR 30882, Aug. 18, 1987]

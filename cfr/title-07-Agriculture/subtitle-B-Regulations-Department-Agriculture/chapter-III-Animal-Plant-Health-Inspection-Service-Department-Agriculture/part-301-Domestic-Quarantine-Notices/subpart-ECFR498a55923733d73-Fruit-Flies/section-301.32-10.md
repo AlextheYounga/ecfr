@@ -1,0 +1,9 @@
+##### § 301.32-10 Treatments. #####
+
+Regulated articles may be treated in accordance with part 305 of this chapter to neutralize fruit flies. The following treatments also may be used for the regulated articles indicated:
+
+(a) *Soil within the dripline of plants that are producing or have produced regulated articles listed § 301.32(a) or (b).* The following soil treatments may be used: Apply diazinon at the rate of 5 pounds active ingredient per acre to the soil within the dripline with sufficient water to wet the soil to at least a depth of 0.5 inch. Both immersion and pour-on treatment procedures are also acceptable.
+
+(b) *Premises.* Fields, groves, or areas that are located within a quarantined area but outside the infested core area and that produce regulated articles may receive regular treatments with either malathion or spinosad bait spray as an alternative to treating fruits and vegetables as provided in part 305 of this chapter. These treatments must take place at 6- to 10-day intervals, starting a sufficient time before harvest (but not less than 30 days before harvest) to allow for development of fruit fly egg and larvae. Determination of the time period must be based on the day degrees model for the specific fruit fly. Once treatment has begun, it must continue through the harvest period. The malathion bait spray treatment must be applied by aircraft or ground equipment at a rate of 2.4 oz of technical grade malathion and 9.6 oz of protein hydrolysate per acre. The spinosad bait spray treatment must be applied by aircraft or ground equipment at a rate of 0.01 oz of a USDA-approved spinosad formulation and 48 oz of protein hydrolysate per acre. For ground applications, the mixture may be diluted with water to improve coverage.
+
+[73 FR 32432, June 9, 2008, as amended at 75 FR 4240, Jan. 26, 2010]

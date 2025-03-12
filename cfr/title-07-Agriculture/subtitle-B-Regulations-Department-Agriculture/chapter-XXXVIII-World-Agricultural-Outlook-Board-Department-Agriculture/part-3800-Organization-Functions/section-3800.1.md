@@ -1,0 +1,3 @@
+##### § 3800.1 General. #####
+
+The World Agricultural Outlook Board (WAOB) was established on June 3, 1977, by Secretary's Memorandum 1920, entitled “World Food and Agricultural Outlook and Situation Board.” The primary responsibility of WAOB is to coordinate and review all commodity and aggregate agricultural and food data and analyses used to develop outlook and situation material within the Department of Agriculture.

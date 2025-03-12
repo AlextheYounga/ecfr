@@ -1,0 +1,3 @@
+##### § 2200.3 Composition of the Board. #####
+
+The Board consists of the Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Secretary of Agriculture, and the Secretary of Commerce, or their respective designees. An individual may be designated a member of the Board only if the individual is an officer of the United States pursuant to an appointment by the President, by and with the advice and consent of the Senate.

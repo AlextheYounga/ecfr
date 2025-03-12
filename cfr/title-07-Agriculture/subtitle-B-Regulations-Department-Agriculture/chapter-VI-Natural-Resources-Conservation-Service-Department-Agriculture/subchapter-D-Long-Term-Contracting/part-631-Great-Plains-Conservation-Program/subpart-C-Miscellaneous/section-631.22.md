@@ -1,0 +1,3 @@
+##### § 631.22 Access to operating unit. #####
+
+Any authorized NRCS representative shall have the right to enter an operating unit for the purpose of ascertaining the accuracy of any representations made in a contract or leading up to a contract, and as to the performance of the terms and conditions of the contract. Access shall include the right to measure acreages, render technical assistance, and inspect any work undertaken under the contract.

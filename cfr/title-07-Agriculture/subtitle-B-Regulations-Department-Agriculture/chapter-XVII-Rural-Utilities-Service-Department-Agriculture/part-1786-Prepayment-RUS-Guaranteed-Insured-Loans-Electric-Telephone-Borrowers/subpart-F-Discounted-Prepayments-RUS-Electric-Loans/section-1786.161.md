@@ -1,0 +1,3 @@
+##### § 1786.161 Return of Qualified Notes and release of lien. #####
+
+Upon payment to RUS at closing of the full amount specified in the notice delivered by RUS to the borrower pursuant to the terms of the prepayment agreement (see § 1786.158(e)), RUS will deliver to the borrower at closing those Qualified Notes which have been paid in full at such closing, and upon payment and discharge of all outstanding RUS debt obligations by the borrower, RUS will deliver to the borrower at the final closing a release of lien prepared by the borrower pursuant to the terms of the prepayment agreement.

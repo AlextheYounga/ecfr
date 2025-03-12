@@ -1,7 +1,5 @@
 ##### § 156.1220 Administrative appeals. #####
 
-Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
-
 (a) *Requests for reconsideration* - (1) *Matters for reconsideration.* An issuer may file a request for reconsideration under this section to contest a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error only with respect to the following:
 
 (i) The amount of advance payment of the premium tax credit, advance payment of cost-sharing reductions or Federally-facilitated Exchange user fees charge for a benefit year;
@@ -12,29 +10,33 @@ Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
 
 (iv) The amount of a risk adjustment default charge for a benefit year;
 
-(v) The amount of a reconciliation payment or charge for cost-sharing reductions for a benefit year; or
+(v) The amount of a reconciliation payment or charge for cost-sharing reductions for a benefit year;
 
-(vi) The amount of a risk corridors payment or charge for a benefit year.
+(vi) The amount of a risk corridors payment or charge for a benefit year;
 
-(2) *Materiality threshold.* Notwithstanding paragraph (a)(1) of this section, an issuer may file a request for reconsideration under this section only if the amount in dispute under paragraph (a)(1)(i) through (vi) of this section, as applicable, is equal to or exceeds 1 percent of the applicable payment or charge listed in that subparagraph payable to or due from the issuer for the benefit year, or $10,000, whichever is less.
+(vii) The findings of a second validation audit as a result of risk adjustment data validation with respect to risk adjustment data for the 2016 benefit year and beyond; or
+
+(viii) The calculation of a risk score error rate as a result of risk adjustment data validation with respect to risk adjustment data for the 2016 benefit year and beyond.
+
+(2) *Materiality threshold.* Notwithstanding paragraph (a)(1) of this section, an issuer may file a request for reconsideration under this section only if the amount in dispute under paragraph (a)(1)(i) through (viii) of this section, as applicable, is equal to or exceeds 1 percent of the applicable payment or charge listed in such paragraphs (a)(1)(i) through (viii) of this section payable to or due from the issuer for the benefit year, or $10,000, whichever is less.
 
 (3) *Time for filing a request for reconsideration.* The request for reconsideration must be filed in accordance with the following timeframes:
 
 (i) For advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fee charges, or State-based Exchanges utilizing the Federal platform fees, within 60 calendar days after the date of the final reconsideration notification specifying the aggregate amount of advance payments of the premium tax credit, advance payments of cost-sharing reductions, Federally-facilitated Exchange user fees, and State-based Exchanges utilizing the Federal platform fees for the applicable benefit year;
 
-(ii) For a risk adjustment payment or charge, including an assessment of risk adjustment user fees, within 30 calendar days of the date of the notification under § 153.310(e) of this subchapter;
+(ii) For a risk adjustment payment or charge, including an assessment of risk adjustment user fees, the findings of a second validation audit, or the calculation of a risk score error rate as a result of risk adjustment data validation, within 30 calendar days of the date of the notification under § 153.310(e) of this subchapter;
 
 (iii) For a reinsurance payment, within 30 calendar days of the date of the notification under § 153.240(b)(1)(ii) of this subchapter;
 
 (iv) For a default risk adjustment charge, within 30 calendar days of the date of the notification of the default risk adjustment charge;
 
-(v) For reconciliation of cost-sharing reductions, within 60 calendar days of the date of the notification of the cost-sharing reduction reconciliation payment or charge; and
+(v) For reconciliation of the cost-sharing reduction portion of advance payments, within 60 calendar days of the date of the cost-sharing reduction reconciliation discrepancy resolution decision; and
 
 (vi) For a risk corridors payment or charge, within 30 calendar days of the date of the notification under § 153.510(d) of this subchapter.
 
 (4) *Content of request.* (i) The request for reconsideration must specify the findings or issues specified in paragraph (a)(1) of this section that the issuer challenges, and the reasons for the challenge.
 
-(ii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error may be requested only if, to the extent the issue could have been previously identified by the issuer to HHS under § 153.710(d)(2) of this subchapter, it was so identified and remains unresolved.
+(ii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error may be requested only if, to the extent the issue could have been previously identified, the issuer notified HHS of the dispute through the applicable process for reporting a discrepancy set forth in §§ 153.630(d)(2), 153.710(d)(2), and 156.430(h)(1) of this subchapter, it was so identified and remains unresolved.
 
 (iii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to advance payments of the premium tax credit, advance payments of cost-sharing reductions, and Federally-facilitated Exchange user fees may be requested only if, to extent the issue could have been previously identified by the issuer to HHS under § 156.1210, it was so identified and remains unresolved. An issuer may request reconsideration if it previously identified an issue under § 156.1210 after the 15-calendar-day deadline, but late discovery of the issue was not due to misconduct on the part of the issuer.
 
@@ -62,4 +64,4 @@ Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
 
 (3) The Administrator of CMS's determination is final and binding.
 
-[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016]
+[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016]

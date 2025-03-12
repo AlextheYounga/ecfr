@@ -1,0 +1,5 @@
+##### § 4280.2 Policy. #####
+
+(a) *REDL Program.* REDL Zero-Interest Loans are made to Intermediaries, to relend, at a zero-interest rate, to Ultimate Recipients. Ultimate Recipients are responsible for repayment to the Intermediary. The Intermediary must transmit Ultimate Recipient loan repayments to Rural Development.
+
+(b) *REDG Program.* Grants are made to Intermediaries to establish Revolving Loan Funds. REDG Zero-Interest Loans are made by the Intermediary from the Revolving Loan Fund to Ultimate Recipients for the purpose of financing specific, approved Projects. Ultimate Recipients are responsible for repayment to the Intermediary. The Ultimate Recipient's loan repayments are to be retained in the Revolving Loan Fund, which is maintained by the Intermediary, to finance other rural economic development Projects. Only the initial loan made by the Intermediary from the Revolving Loan Fund has to be at zero interest.

@@ -1,0 +1,3 @@
+##### § 2003.14 Field Offices. #####
+
+Rural Development field offices report to their respective State Director and State Office Program Directors. State Directors may organizationally structure their offices based on the program workloads within their respective State. Field offices generally are patterned in a three or two tier program delivery structure. In a three tier system, Local offices report to an Area office, that reports to the State Office. In a two tier system, a “Local” or “Area” office reports to the State Office. Locations and telephone numbers of Area and Local Offices may be obtained from the appropriate Rural Development State Office.

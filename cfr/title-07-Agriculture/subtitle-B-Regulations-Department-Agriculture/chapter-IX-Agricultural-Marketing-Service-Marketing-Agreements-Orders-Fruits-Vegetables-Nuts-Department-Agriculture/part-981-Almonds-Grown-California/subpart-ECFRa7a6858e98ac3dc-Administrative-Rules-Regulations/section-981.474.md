@@ -1,0 +1,9 @@
+##### § 981.474 Other reports. #####
+
+(a) *Report of shipments and commitments.* Each handler shall report on ABC Form 25-1 all shipments of almonds, inshell, shelled, and products by classification (domestic and export by countries of destination); and on ABC Form 25-2 all commitments (almonds not shipped, but sold or otherwise obligated) whether domestic contract, export contract, or non-contract. If the destination of any export is unknown to the handler, such handler shall have the broker/exporter furnish this information to the Board. In support of this report, the handler shall keep invoices on the shipments, or such other documentation as may be acceptable to the Board. The reports shall be received by the Board within five calendar days after the close of each month of the crop year.
+
+(b) *Reserve reports.* In any crop year when reserve almonds are diverted to noncompetitive outlets, such handler shall report such handler's intentions to divert on ABC Form 13 and the completion of diversion on ABC Form 14. Upon notice to all handlers, the Board may waive the requirements to file ABC Form 13 for diversion of almonds to noncompetitive outlets which are acceptable to the Board.
+
+(c) *Handler information reports.* Each handler shall file no later than September 1 of each year ABC Form 42, a Handler Information Sheet, listing the handler's name, address, phone number, ownership or corporate information and acknowledging receipt of marketing order program information.
+
+[50 FR 47709, Nov. 20, 1985, as amended at 51 FR 9763, Mar. 21, 1986; 54 FR 5409, Feb. 3, 1989; 58 FR 34696, June 29, 1993]

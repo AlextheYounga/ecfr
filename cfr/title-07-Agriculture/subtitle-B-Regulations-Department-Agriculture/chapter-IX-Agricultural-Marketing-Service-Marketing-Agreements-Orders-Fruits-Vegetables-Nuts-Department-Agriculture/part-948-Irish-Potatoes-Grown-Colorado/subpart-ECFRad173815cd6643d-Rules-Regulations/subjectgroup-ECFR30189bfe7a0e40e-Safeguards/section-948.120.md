@@ -1,0 +1,3 @@
+##### § 948.120 General. #####
+
+Whenever shipments of potatoes for special purposes under § 948.23 are relieved in whole or in part from grade and size regulations issued under § 948.22 the committee shall require information and evidence as to the manner, methods, and timing of such shipments as safeguards against the entry of any such potatoes into trade channels other than those for which intended. Such information and evidence shall include the requirements set forth below with respect to Certificates of Privilege.

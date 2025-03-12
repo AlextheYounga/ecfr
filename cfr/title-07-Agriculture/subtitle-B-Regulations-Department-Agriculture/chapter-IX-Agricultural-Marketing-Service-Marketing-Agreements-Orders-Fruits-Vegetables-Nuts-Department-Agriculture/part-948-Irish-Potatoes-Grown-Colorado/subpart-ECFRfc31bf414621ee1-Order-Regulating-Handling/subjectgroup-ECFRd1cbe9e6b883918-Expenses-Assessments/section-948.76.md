@@ -1,0 +1,3 @@
+##### § 948.76 Budget. #####
+
+As soon as practicable after the beginning of each fiscal period and as may be necessary thereafter, each area committee shall prepare an estimated budget of income and expenditures necessary for its administration of this part. Each area committee may recommend a rate of assessment calculated to provide adequate funds to defray its proposed expenditures. Each area committee shall present such budget to the Secretary with an accompanying report showing the basis for its calculations.

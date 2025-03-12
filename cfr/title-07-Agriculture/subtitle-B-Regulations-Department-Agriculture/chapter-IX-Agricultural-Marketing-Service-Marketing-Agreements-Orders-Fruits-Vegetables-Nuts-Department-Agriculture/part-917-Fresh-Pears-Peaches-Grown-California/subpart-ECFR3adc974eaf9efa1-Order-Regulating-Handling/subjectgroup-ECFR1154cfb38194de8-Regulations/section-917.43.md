@@ -1,0 +1,9 @@
+##### § 917.43 Special purpose shipments. #####
+
+(a) Except as otherwise provided in this section, any person may, without regard to the provisions of §§ 917.37, 917.41, and 917.42, and the regulations issued thereunder, handle fruit (1) for consumption by charitable institutions; (2) for distribution by relief agencies; or (3) for commercial processing into products.
+
+(b) Upon the basis of recommendations and information submitted by the commodity committee, or from other available information, the Secretary may relieve from any or all requirements, under or established pursuant to § 917.41, § 917.42, § 917.45, or § 917.37, the handling of fruit; (1) To designated market areas outside the continental United States; (2) for such specified purposes (including shipments to facilitate the conduct of marketing research and development projects established pursuant to § 917.39); or (3) in such minimum quantities or types of shipments, as may be prescribed.
+
+(c) The commodity committee shall, with the approval of the Secretary, prescribe such rules, regulations, and safeguards as it may deem necessary to prevent fruit handled under the provisions of this section from entering the channels of trade for other than the specified purposes authorized by this section. Such rules, regulations, and safeguards may include the requirements that handlers shall file applications and receive approval from the commodity committee for authorization to handle fruit pursuant to this section, and that such applications be accompanied by a certification by the intended purchaser or receiver that the fruit will not be used for any purpose not authorized by this section.
+
+Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.43 was suspended indefinitely, effective Oct. 28, 2011.

@@ -1,0 +1,3 @@
+##### § 1927.56 Scheduling loan closing. #####
+
+The agency, in coordination with the closing agent, will arrange a loan closing and send loan closing instructions, on an agency form to the closing agent when the agency determines that the exceptions shown on the preliminary title opinion or title insurance binder will not adversely affect the suitability, security value, or successful operation of the property and all other agency conditions to closing have been satisfied.

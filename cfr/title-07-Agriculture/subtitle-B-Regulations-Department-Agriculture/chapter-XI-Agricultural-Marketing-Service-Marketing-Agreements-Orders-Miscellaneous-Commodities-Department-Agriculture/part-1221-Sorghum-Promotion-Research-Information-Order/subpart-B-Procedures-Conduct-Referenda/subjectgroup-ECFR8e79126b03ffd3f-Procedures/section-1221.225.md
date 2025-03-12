@@ -1,0 +1,3 @@
+##### § 1221.225 Certification and referendum ballot form. #####
+
+Form LS-379 shall be used to vote in the referendum and certify eligibility. Eligible persons will be required to complete a ballot in its entirety, vote “yes” or “no” to continue the program and provide documentation such as a sales receipt or remittance form showing that the person voting was engaged in the production of sorghum during the representative period. The person or authorized representative shall sign the ballot certifying that they or the entity they represent were engaged in the production of sorghum during the representative period.

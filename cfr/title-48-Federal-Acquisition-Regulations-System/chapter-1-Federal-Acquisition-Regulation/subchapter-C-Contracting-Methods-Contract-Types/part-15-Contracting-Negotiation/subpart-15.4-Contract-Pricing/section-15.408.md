@@ -142,9 +142,10 @@ C. As part of the specific information required, you must submit, with your prop
 
 (ii) The nature and amount of any contingencies included in the proposed price.
 
-D. You must show the relationship between contract line item prices and the total contract price. You must attach cost-element breakdowns for each proposed line item, using the appropriate format prescribed in the “Formats for Submission of Line Item Summaries” section of this table. You must furnish supporting breakdowns for each cost element, consistent with your cost accounting system.
+D. You must show the relationship between line item prices and the total contract price.
+You must attach cost-element breakdowns for each proposed line item, using the appropriate format prescribed in the “Formats for Submission of Line Item Summaries” section of this table. You must furnish supporting breakdowns for each cost element, consistent with your cost accounting system.
 
-E. When more than one contract line item is proposed, you must also provide summary total amounts covering all line items for each element of cost.
+E. When more than one line item is proposed, you must also provide summary total amounts covering all line items for each element of cost.
 
 F. Whenever you have incurred costs for work performed before submission of a proposal, you must identify those costs in your cost/price proposal.
 
@@ -156,7 +157,7 @@ II. Cost Elements
 
 Depending on your system, you must provide breakdowns for the following basic cost elements, as applicable:
 
-A. *Materials and services.* Provide a consolidated priced summary of individual material quantities included in the various tasks, orders, or contract line items being proposed and the basis for pricing (vendor quotes, invoice prices, etc.). Include raw materials, parts, components, assemblies, and services to be produced or performed by others. For all items proposed, identify the item and show the source, quantity, and price. Conduct price analyses of all subcontractor proposals. Conduct cost analyses for all subcontracts when certified cost or pricing data are submitted by the subcontractor. Include these analyses as part of your own certified cost or pricing data submissions for subcontracts expected to exceed the appropriate threshold in FAR 15.403-4. Submit the subcontractor certified cost or pricing data and data other than certified cost or pricing data as part of your own certified cost or pricing data as required in paragraph IIA(2) of this table. These requirements also apply to all subcontractors if required to submit certified cost or pricing data.
+A. *Materials and services.* Provide a consolidated priced summary of individual material quantities included in the various tasks, orders, or line items being proposed and the basis for pricing (vendor quotes, invoice prices, etc.). Include raw materials, parts, components, assemblies, and services to be produced or performed by others. For all items proposed, identify the item and show the source, quantity, and price. Conduct price analyses of all subcontractor proposals. Conduct cost analyses for all subcontracts when certified cost or pricing data are submitted by the subcontractor. Include these analyses as part of your own certified cost or pricing data submissions for subcontracts expected to exceed the appropriate threshold in FAR 15.403-4. Submit the subcontractor certified cost or pricing data and data other than certified cost or pricing data as part of your own certified cost or pricing data as required in paragraph IIA(2) of this table. These requirements also apply to all subcontractors if required to submit certified cost or pricing data.
 
 (1) *Adequate Price Competition.* Provide data showing the degree of competition and the basis for establishing the source and reasonableness of price for those acquisitions (such as subcontracts, purchase orders, material order, etc.) exceeding, or expected to exceed, the appropriate threshold set forth at FAR 15.403-4 priced on the basis of adequate price competition. For interorganizational transfers priced at other than the cost of comparable competitive commercial work of the division, subsidiary, or affiliate of the contractor, explain the pricing method (see FAR 31.205-26(e)).
 
@@ -268,4 +269,4 @@ Column and Instruction
 
 (14) Identify the attachment in which the information supporting the specific cost element may be found. (Attach separate pages as necessary.)
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015; 82 FR 4713, Jan. 13, 2017]

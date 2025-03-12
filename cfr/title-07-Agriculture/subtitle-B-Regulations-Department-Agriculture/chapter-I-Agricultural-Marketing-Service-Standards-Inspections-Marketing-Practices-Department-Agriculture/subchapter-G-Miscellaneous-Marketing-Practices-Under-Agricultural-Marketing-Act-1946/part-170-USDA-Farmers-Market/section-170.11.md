@@ -1,0 +1,3 @@
+##### § 170.11 How are farmers and vendors selected for participation in the USDA Farmers Market? #####
+
+USDA reviews all applications and selects participants based primarily on the type of farmer or vendor (i.e., fruit, vegetable, herb, baker) and secondly, on the specific types of products to be sold. The selection of the participants is conducted by the market management to ensure a balanced product mix of fruits, vegetables, herbs, value-added products, and baked goods.

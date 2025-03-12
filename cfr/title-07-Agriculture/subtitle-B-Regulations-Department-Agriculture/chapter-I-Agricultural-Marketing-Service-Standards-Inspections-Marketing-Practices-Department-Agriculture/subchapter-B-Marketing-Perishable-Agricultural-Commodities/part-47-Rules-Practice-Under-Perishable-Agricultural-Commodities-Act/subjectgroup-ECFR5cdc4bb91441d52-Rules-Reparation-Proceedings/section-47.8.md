@@ -1,0 +1,11 @@
+##### § 47.8 The answer. #####
+
+(a) *Filing and service.* Within 20 days after service of the formal complaint, unless extension of time has been requested and granted, the respondent may file with the Fruit and Vegetable Programs, an answer, in triplicate, signed by the respondent or his attorney. A copy of the answer shall be served upon the complainant by the Fruit and Vegetable Programs as provided in § 47.4. If the answer includes a counterclaim, the answer shall be accompanied by the $300 handling fee required by the Act for formal complaints.
+
+(b) *Contents.* Such answer shall contain (1) a precise statement of the facts which constitute the grounds of defense, including any set-off or counterclaim, and shall specifically admit, deny, or explain each of the allegations of the complaint, unless respondent is without knowledge, in which case the answer shall so state; or (2) a statement that the respondent admits all of the allegations of the complaint; or (3) a statement containing an admission of liability in an amount less than that alleged in the complaint (in which event, an order may be made, pursuant to section 7(a) of the Act, directing payment of the undisputed amount), and a denial, as in paragraph (b)(1) of this section, of liability for the remaining amount. The answer may contain a waiver of hearing.
+
+(c) *Failure to file answer; effect of.* Failure to file an answer within the time prescribed shall constitute a waiver of hearing and an admission of the facts alleged in the complaint. If the facts deemed admitted are considered insufficient to support the amount of reparation sought, the proceeding shall continue on the question of damages only.
+
+(d) *Procedure upon admission of facts.* Upon the admission, in the answer or by failure to file an answer, of all the material allegations of fact contained in the complaint, an order may be issued without further procedure, official notice being taken of the license status of the respondent and the date of filing of the informal complaint, as disclosed by the records of the Department.
+
+[10 FR 2212, Feb. 27, 1945, as amended at 24 FR 10055, Dec. 12, 1959; 64 FR 38106, July 15, 1999]

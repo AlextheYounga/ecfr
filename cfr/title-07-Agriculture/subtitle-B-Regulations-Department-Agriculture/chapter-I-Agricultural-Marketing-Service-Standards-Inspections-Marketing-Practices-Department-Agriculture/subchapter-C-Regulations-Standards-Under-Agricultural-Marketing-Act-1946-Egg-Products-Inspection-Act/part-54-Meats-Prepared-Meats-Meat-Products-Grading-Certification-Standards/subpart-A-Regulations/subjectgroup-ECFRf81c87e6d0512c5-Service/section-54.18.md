@@ -1,0 +1,5 @@
+##### § 54.18 Custody of identification devices. #####
+
+(a) All identification devices used in marking products or the containers thereof under the regulations, including those indicating compliance with specifications approved by the Chief, shall be kept in the custody of the Branch, and accurate records shall be kept by the Branch of all such devices. Each office of grading shall keep a record of the devices assigned to it. Such devices shall be distributed only to persons authorized by the Department, who shall keep the devices in their possession or control at all times and maintain complete records of such devices.
+
+(b) Upon request, applicants shall provide a metal cabinet(s) or locker(s) for the secure storage of official meat grading equipment and identification devices for each Federal meat grader assigned to their establishment. Such cabinet(s) or locker(s) shall be capable of being locked with a special Government-owned lock and shall be placed in an easily accessible and reasonably secure location within the applicant's establishment.

@@ -1,0 +1,3 @@
+##### § 160.49 Responsibility for inspection certificates and forms. #####
+
+Certificate forms and other inspection record forms may be issued to an accredited processor, and the said processor shall be responsible for and accountable to the Department for all such material supplied to him. He shall require the licensed inspector to submit or otherwise make disposition of issued certificates in accordance with instructions received from the Administrator.

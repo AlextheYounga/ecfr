@@ -1,0 +1,5 @@
+##### § 210.6 Use of Federal funds. #####
+
+*General.* State agencies shall use Federal funds made available under the Program to reimburse or make advance payments to school food authorities in connection with lunches and meal supplements served in accordance with the provisions of this part; *except that,* with the approval of FNS, any State agency may reserve an amount up to one percent of the funds earned in any fiscal year under this part for use in carrying out special developmental projects. Advance payments to school food authorities may be made at such times and in such amounts as are necessary to meet the current fiscal obligations. All Federal funds paid to any State in place of donated foods shall be used as provided in part 240 of this chapter.
+
+[53 FR 29147, Aug. 2, 1988, as amended at 58 FR 42487, Aug. 10, 1993]

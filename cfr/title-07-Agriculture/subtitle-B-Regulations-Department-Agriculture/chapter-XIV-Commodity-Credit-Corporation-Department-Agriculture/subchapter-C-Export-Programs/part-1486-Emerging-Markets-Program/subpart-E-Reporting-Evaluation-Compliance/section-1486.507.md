@@ -1,0 +1,3 @@
+##### § 1486.507 What is the effect of failing to make required contributions? #####
+
+A Recipient's contribution requirement is specified in the project agreement. If a Recipient fails to contribute the total specified in the agreement, the difference between the amount contributed and the total must be repaid to the CCC in U.S. dollars. If a Recipient is reimbursed by CCC for less than the amount of funds approved in the agreement, then the final cost share shall equal, on a percentage basis, the original ratio of private contributions to the authorized EMP funding level.

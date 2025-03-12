@@ -1,0 +1,3 @@
+##### § 1786.150 Purpose. #####
+
+This subpart sets forth the policies and procedures of RUS whereby borrowers may prepay, with private financing or internally generated funds, outstanding RUS Notes evidencing electric loans at the Discounted present value of the RUS Notes, pursuant to the provisions of section 306(B) of the RE Act as amended by Public Law 102-428, 106 Stat. 2183, adopted October 21, 1992.

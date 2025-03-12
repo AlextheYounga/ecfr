@@ -1,0 +1,5 @@
+##### § 1230.36 Procedure. #####
+
+(a) A majority of the members shall constitute a quorum at a properly convened meeting of the Delegate Body, but only if that majority is also entitled to cast a majority of the shares (including fractions thereof). Any action of the Delegate Body, including any motion or nomination presented to it for a vote, shall require a majority vote, that is, the concurring votes of a majority of the shares cast on that action. The Delegate Body shall give timely notice of its meetings. The Delegate Body shall give the Secretary the same notice of its meetings as it gives to its members in order that the Secretary or a representative of the Secretary may attend meetings.
+
+(b) The number of votes that may be cast by a producer member if present at a meeting shall be equal to the number of shares attributable to the State of such member divided by the number of producer members from such State. The number of votes that may be cast by an importer member if present at a meeting shall be equal to the number of shares allocated to importers divided by the number of importer members.

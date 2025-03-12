@@ -1,0 +1,3 @@
+##### § 3418.2 Scope and Purpose. #####
+
+Section 102(c) of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7612(c)) requires land-grant institutions, as a condition of receipt of formula funds, to solicit and consider input and recommendations from stakeholders concerning the use of formula funds. This regulation implements this requirement consistently for all recipient institutions that receive formula funds.

@@ -1,0 +1,3 @@
+##### § 1260.560 Review of certification. #####
+
+The Secretary may terminate or suspend certification or eligibility of any organization or association if it ceases to comply with the certification or eligibility criteria set forth in this subpart. The Secretary may require any information deemed necessary to ascertain whether the organization or association may remain certified or eligible to make nominations.

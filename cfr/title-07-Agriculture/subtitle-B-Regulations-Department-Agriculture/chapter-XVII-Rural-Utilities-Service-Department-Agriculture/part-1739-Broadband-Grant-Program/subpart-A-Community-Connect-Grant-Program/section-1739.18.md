@@ -1,0 +1,3 @@
+##### § 1739.18 Grant documents. #####
+
+The terms and conditions of grants shall be set forth in grant documents prepared by the Agency. The documents shall require the applicant to own all equipment and facilities financed by the grant. Among other matters, the Agency may prescribe conditions to the advance of funds that address concerns regarding the Project feasibility and sustainability. The Agency may also prescribe terms and conditions applicable to the construction and operation of the Project and the delivery of service at the Broadband Grant Speed to eligible Rural Areas, as well as other terms and conditions applicable to the individual Project. Dividend distributions will not be allowed until all grant funds and matching contributions have been expended.

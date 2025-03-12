@@ -1,0 +1,5 @@
+##### § 1717.1200 Purpose and scope. #####
+
+(a) Section 331(b) of the Consolidated Farm and Rural Development Act (Con Act), as amended on April 4, 1996 by Public Law 104-127, 110 Stat. 888 (7 U.S.C. 1981), grants authority to the Secretary of Agriculture to compromise, adjust, reduce, or charge-off debts or claims arising from loans made or guaranteed under the Rural Electrification Act of 1936, as amended (RE Act). Section 331(b) of the Con Act also authorizes the Secretary of Agriculture to adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Rural Utilities Service (RUS). The Secretary, in 7 CFR 2.47, has delegated authority under section 331(b) of the Con Act to the Administrator of the RUS, with respect to loans made or guaranteed by RUS.
+
+(b) This subpart sets forth the policy and standards of the Administrator of RUS with respect to the settlement of debts and claims arising from loans made or guaranteed to rural electric borrowers under the RE Act. Nothing in this subpart limits the Administrator's authority under section 12 of the RE Act.

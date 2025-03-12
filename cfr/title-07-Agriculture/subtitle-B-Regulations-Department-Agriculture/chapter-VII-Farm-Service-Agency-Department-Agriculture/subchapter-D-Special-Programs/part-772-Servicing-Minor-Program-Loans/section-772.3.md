@@ -1,0 +1,9 @@
+##### § 772.3 Compliance. #####
+
+(a) *Requirements.* No Minor Program borrower shall directly, or through contractual or other arrangement, subject any person or cause any person to be subjected to discrimination on the basis of race, color, national origin, or disability. Borrowers must comply with all applicable Federal laws and regulations regarding equal opportunity in hiring, procurement, and related matters. AMP borrowers are subject to the nondiscrimination provisions applicable to Federally assisted programs contained in 7 CFR part 15, subparts A and C, and part 15b. IMP loans are subject to the nondiscrimination provisions applicable to federally conducted programs contained in 7 CFR parts 15d and 15e.
+
+(b) *Reviews.* In accordance with Title VI of the Civil Rights Act of 1964, the Agency will conduct a compliance review of all Minor Program borrowers, to determine if a borrower has directly, or through contractual or other arrangement, subjected any person or caused any person to be subjected to discrimination on the basis of race, color, or national origin. The borrower must allow the review official access to their premises and all records necessary to carry out the compliance review as determined by the review official.
+
+(c) *Frequency and timing.* Compliance reviews will be conducted no later than October 31 of every third year until the Minor Program loan is paid in full or otherwise satisfied.
+
+(d) *Violations.* If a borrower refuses to provide information or access to their premises as requested by a review official during a compliance review, or is determined by the Agency to be not in compliance in accordance with this section or Departmental regulations and procedures, the Agency will service the loan in accordance with the provisions of § 772.16 of this part.

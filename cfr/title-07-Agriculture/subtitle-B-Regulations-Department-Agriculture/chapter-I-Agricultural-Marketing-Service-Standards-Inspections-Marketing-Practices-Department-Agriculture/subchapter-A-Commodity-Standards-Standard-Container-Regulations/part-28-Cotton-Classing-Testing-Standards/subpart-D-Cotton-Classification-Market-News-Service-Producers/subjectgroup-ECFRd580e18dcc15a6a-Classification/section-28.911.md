@@ -1,0 +1,7 @@
+##### § 28.911 Review classification. #####
+
+(a) A producer may request one review classification for each bale of eligible cotton. The fee for review classification shall be determined based on the formulas in § 28.116.
+
+(b) Samples for review classification must be drawn by gins or warehouses licensed pursuant to §§ 28.20 through 28.22, or by employees of the United States Department of Agriculture. Each sample for review classification shall be taken, handled, and submitted according to § 28.908 and to supplemental instructions issued by the Director or an authorized representative of the Director. Costs incident to sampling, tagging, identification, containers, and shipment for samples for review classification shall be assumed by the producer. After classification, the samples shall become the property of the Government unless the producer requests the return of the samples. The proceeds from the sale of samples that become Government property shall be used to defray the costs of providing the services under this subpart. Producers who request return of their samples after classing will pay a fee determined based on the formulas in § 28.116.
+
+[74 FR 26772, June 4, 2009, as amended at 79 FR 67319, Nov. 13, 2014]

@@ -1,5 +1,7 @@
 ##### § 15.101 Proactive disclosures of department records. #####
 
+Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
+
 (a) *In General.* Records that are required to be made available for public inspection and copying are accessible on the Department's Web site at *http://www.hud.gov/FOIA.* Published agency records, whether or not they are available for purchase, are made available for examination. Each HUD office (headquarters and field) has a FOIA Public Liaison that can assist individuals in locating records. A list of the Department's FOIA Public Liaisons is available at *http://www.hud.gov/FOIA.*
 
 (b) *Electronic FOIA reading room.* As required by 5 U.S.C. 552(a)(2), HUD makes records created on or after November 1, 1996, available through its electronic FOIA Reading Room, located on HUD's FOIA Web site at *http://www.hud.gov/FOIA.* These records include:

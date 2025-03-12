@@ -1,0 +1,5 @@
+##### § 1806.28 Borrowers required to escrow. #####
+
+For borrowers required to use escrow accounts for the payment of real estate taxes and insurance, the flood insurance premium will be paid when due from funds contained in the escrow account. If the escrow account contains insufficient funds to pay the flood insurance premium when due, the County Supervisor will request the borrower to pay an amount equal to the difference between the premium due and the escrow balance in a lump sum within 30 days after notification. If the borrower fails to remit the amount requested, the amount will be advanced and charged to the borrower's account as a recoverable cost. The amortization period for an advance due to an escrow shortage will be one year. Amortization of the charge will be handled in accordance with7 CFR part 3550. When a borrower has more than one loan secured by the real estate on which the flood insurance premium is being paid, the advance will be charged to the initial or lowest numbered loan.
+
+[56 FR 6946, Feb. 21, 1991, as amended at 67 FR 78326, Dec. 24, 2002]

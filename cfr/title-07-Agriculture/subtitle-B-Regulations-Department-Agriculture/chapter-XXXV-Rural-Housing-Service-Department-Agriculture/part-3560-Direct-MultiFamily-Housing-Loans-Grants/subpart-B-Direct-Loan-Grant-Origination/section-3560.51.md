@@ -1,0 +1,3 @@
+##### § 3560.51 General. #####
+
+This subpart contains the Agency's loan origination requirements for multi-family housing (MFH) direct loans for Rural Rental Housing, Rural Cooperative Housing, and Farm Labor Housing. Additional requirements for farm labor housing loans and grants are contained in subpart L of this part for Off-Farm Labor Housing and subpart M of this part for On-Farm Labor Housing.

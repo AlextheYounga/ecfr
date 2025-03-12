@@ -1,0 +1,5 @@
+##### § 983.47 Marketing policy. #####
+
+Prior to August 1st each year, the committee shall prepare and submit to the Secretary a report setting forth its recommended marketing policy covering quality regulations for the pending crop. In the event it becomes advisable to modify such policy, because of changed crop conditions, the committee shall formulate a new policy and shall submit a report thereon to the Secretary. In developing the marketing policy, the committee shall give consideration to the production, harvesting, processing and storage conditions of that crop. The committee may also give consideration to current prices being received and the probable general level of prices to be received for pistachios by producers and handlers. Notice of the committee's marketing policy, and of any modifications thereof, shall be given promptly by reasonable publicity, to producers and handlers.
+
+[69 FR 17850, Apr. 4, 2004. Redesignated at 74 FR 56541, Nov. 2, 2009]

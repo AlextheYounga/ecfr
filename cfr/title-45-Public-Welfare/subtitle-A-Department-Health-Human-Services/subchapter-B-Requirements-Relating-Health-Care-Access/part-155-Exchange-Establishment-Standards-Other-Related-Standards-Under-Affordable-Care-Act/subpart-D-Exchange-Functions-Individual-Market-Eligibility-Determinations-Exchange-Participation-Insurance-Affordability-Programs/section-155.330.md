@@ -1,7 +1,5 @@
 ##### § 155.330 Eligibility redetermination during a benefit year. #####
 
-Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
-
 (a) *General requirement.* The Exchange must redetermine the eligibility of an enrollee in a QHP through the Exchange during the benefit year if it receives and verifies new information reported by an enrollee or identifies updated information through the data matching described in paragraph (d) of this section.
 
 (b) *Requirement for individuals to report changes.* (1) Except as specified in paragraphs (b)(2) and (3) of this section, the Exchange must require an enrollee to report any change with respect to the eligibility standards specified in § 155.305 within 30 days of such change.
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (i) Death; and
 
-(ii) For an enrollee on whose behalf advance payments of the premium tax credit or cost-sharing reductions are being provided, eligibility determinations for Medicare, Medicaid, CHIP, or the BHP, if a BHP is operating in the service area of the Exchange.
+(ii) For an enrollee on whose behalf advance payments of the premium tax credit or cost-sharing reductions are being provided, eligibility determinations for or enrollment in Medicare, Medicaid, CHIP, or the Basic Health Program, if a Basic Health Program is operating in the service area of the Exchange.
 
 (2) *Flexibility.* The Exchange may make additional efforts to identify and act on changes that may affect an enrollee's eligibility for enrollment in a QHP through the Exchange or for insurance affordability programs, provided that such efforts -
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (iii) Notify the enrollee's employer, as applicable, in accordance with the requirements specified in § 155.310(h).
 
-(2) *Data matching.* (i) If the Exchange identifies updated information regarding death, in accordance with paragraph (d)(1)(i) of this section, or regarding any factor of eligibility not regarding income, family size, or family composition, the Exchange must -
+(2) *Data matching.* (i) Except as provided in paragraph (e)(2)(iii) of this section, if the Exchange identifies updated information regarding death, in accordance with paragraph (d)(1)(i) of this section, or regarding any factor of eligibility not regarding income, family size, or family composition, or tax filing status, the Exchange must -
 
 (A) Notify the enrollee regarding the updated information, as well as the enrollee's projected eligibility determination after considering such information.
 
@@ -58,6 +56,14 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (D) If the enrollee provides more up-to-date information, proceed in accordance with paragraph (c)(1) of this section.
 
+(iii) If the Exchange identifies updated information that the tax filer for the enrollee's household or the tax filer's spouse did not comply with the requirements described in § 155.305(f)(4), the Exchange when redetermining and providing notification of eligibility for advance payments of the premium tax credit must:
+
+(A) Follow the procedures specified in paragraph (e)(2)(i) of this section;
+
+(B) Follow the procedures in guidance published by the Secretary; or
+
+(C) Follow alternative procedures approved by the Secretary based on a showing by the Exchange that the alternative procedures facilitate continued enrollment in coverage with financial assistance for which the enrollee remains eligible, provide appropriate information about the process to the enrollee (including regarding any action by the enrollee necessary to obtain the most accurate redetermination of eligibility), and provide adequate program integrity protections and safeguards for Federal tax information under section 6103 of the Internal Revenue Code with respect to the confidentiality, disclosure, maintenance, or use of such information.
+
 (f) *Effective dates.* (1) Except as specified in paragraphs (f)(2) through (f)(5) of this section, the Exchange must implement changes -
 
 (i) Resulting from a redetermination under this section on the first day of the month following the date of the notice described in paragraph (e)(1)(ii) of this section; or
@@ -74,12 +80,12 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (5) Notwithstanding paragraphs (f)(1) through (f)(4) of this section, the Exchange may provide the effective date of a change associated with the events described in § 155.420(d)(4), (d)(5), and (d)(9) based on the specific circumstances of each situation.
 
-(g) *Recalculation of advance payments of the premium tax credit and cost-sharing reductions.* (1) When an eligibility redetermination in accordance with this section results in a change in the amount of advance payments of the premium tax credit for the benefit year, the Exchange must recalculate the amount of advance payments of the premium tax credit in such a manner as to -
+(g) *Recalculation of advance payments of the premium tax credit and cost-sharing reductions.* (1) When an eligibility redetermination in accordance with this section results in a change in the amount of advance payments of the premium tax credit for the benefit year, the Exchange must:
 
-(i) Account for any advance payments already made on behalf of the tax filer for the benefit year for which information is available to the Exchange, such that the recalculated advance payment amount is projected to result in total advance payments for the benefit year that correspond to the tax filer's total projected premium tax credit for the benefit year, calculated in accordance with 26 CFR 1.36B-3; and
+(i) Recalculate the amount of advance payments of the premium tax credit in such a manner as to account for any advance payments already made on behalf of the tax filer for the benefit year for which information is available to the Exchange, such that the recalculated advance payment amount is projected to result in total advance payments for the benefit year that correspond to the tax filer's total projected premium tax credit for the benefit year, calculated in accordance with 26 CFR 1.36B-3 (or, if less than zero, be set at zero); or
 
-(ii) Ensure that the advance payment provided on the tax filer's behalf is greater than or equal to zero and is calculated in accordance with 26 CFR 1.36B-3(d).
+(ii) Recalculate advance payments of the premium tax credit using an alternate method that has been approved by the Secretary.
 
 (2) When an eligibility redetermination in accordance with this section results in a change in cost-sharing reductions, the Exchange must determine an individual eligible for the category of cost-sharing reductions that corresponds to his or her expected annual household income for the benefit year (subject to the special rule for family policies set forth in § 155.305(g)(3)).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42318, July 15, 2013; 79 FR 30347, May 27, 2014; 79 FR 53005, Sept. 5, 2014; 81 FR 94177, Dec. 22, 2016]

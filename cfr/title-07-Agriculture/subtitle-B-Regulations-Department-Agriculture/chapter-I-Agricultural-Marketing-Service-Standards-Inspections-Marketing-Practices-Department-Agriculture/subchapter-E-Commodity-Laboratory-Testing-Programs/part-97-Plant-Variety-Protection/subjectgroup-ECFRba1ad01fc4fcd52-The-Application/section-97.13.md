@@ -1,0 +1,3 @@
+##### § 97.13 When the owner is deceased or legally incapacitated. #####
+
+In case of the death of the owner or if the owner is legally incapacitated, the legal representative (executor, administrator, or guardian) or heir or assignee of the deceased owner may sign as the applicant. If an applicant dies between the filing of his or her application and the granting of a certificate thereon, the certificate may be issued to the legal representative, heir, or assignee, upon proper intervention.

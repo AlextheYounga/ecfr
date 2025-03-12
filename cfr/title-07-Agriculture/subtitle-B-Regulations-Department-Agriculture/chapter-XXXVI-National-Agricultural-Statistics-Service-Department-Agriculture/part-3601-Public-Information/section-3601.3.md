@@ -1,0 +1,3 @@
+##### § 3601.3 Requests for records. #####
+
+Requests for records of NASS under 5 U.S.C. 552(a)(3) shall be made in accordance with § 1.5 of this title and submitted to the FOIA Coordinator, Information Staff, ARS, REE, USDA, Mail Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD 20705-5128; Telephone (301) 504-1640 or (301) 504-1655; TTY-VOICE (301) 504-1643; Facsimile (301) 504-1648; e-mail *vherberger@ars.usda.gov* or *shutchison@ars.usda.gov.* The FOIA Coordinator is delegated authority to make determinations regarding such requests in accordance with § 1.3(c) of this title.

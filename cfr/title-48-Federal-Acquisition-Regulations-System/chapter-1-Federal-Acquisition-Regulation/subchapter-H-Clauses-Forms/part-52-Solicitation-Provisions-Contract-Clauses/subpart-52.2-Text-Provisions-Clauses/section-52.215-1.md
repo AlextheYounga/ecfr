@@ -2,7 +2,7 @@
 
 As prescribed in 15.209(a), insert the following provision:
 
-Instructions to Offerors - Competitive Acquisitions (JAN 2004)
+Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (a) *Definitions.* As used in this provision -
 
@@ -82,7 +82,7 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2004)
 
 (7) Exchanges with offerors after receipt of a proposal do not constitute a rejection or counteroffer by the Government.
 
-(8) The Government may determine that a proposal is unacceptable if the prices proposed are materially unbalanced between line items or subline items. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more contract line items is significantly overstated or understated as indicated by the application of cost or price analysis techniques. A proposal may be rejected if the Contracting Officer determines that the lack of balance poses an unacceptable risk to the Government.
+(8) The Government may determine that a proposal is unacceptable if the prices proposed are materially unbalanced between line items or subline items. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more line items is significantly overstated or understated as indicated by the application of cost or price analysis techniques. A proposal may be rejected if the Contracting Officer determines that the lack of balance poses an unacceptable risk to the Government.
 
 (9) If a cost realism analysis is performed, cost realism may be considered by the source selection authority in evaluating performance or schedule risk.
 
@@ -112,4 +112,4 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2004)
 
 (9) Offerors may submit proposals that depart from stated requirements. Such proposals shall clearly identify why the acceptance of the proposal would be advantageous to the Government. Any deviations from the terms and conditions of the solicitation, as well as the comparative advantage to the Government, shall be clearly identified and explicitly defined. The Government reserves the right to amend the solicitation to allow all offerors an opportunity to submit revised proposals based on the revised requirements.
 
-[62 FR 51259, Sept. 30, 1997; 64 FR 51841, Sept. 24, 1999, as amended at 64 FR 72433, 72451, Dec. 27, 1999; 66 FR 2135, Jan. 10, 2001; 68 FR 69258, Dec. 11, 2003]
+[62 FR 51259, Sept. 30, 1997; 64 FR 51841, Sept. 24, 1999, as amended at 64 FR 72433, 72451, Dec. 27, 1999; 66 FR 2135, Jan. 10, 2001; 68 FR 69258, Dec. 11, 2003; 82 FR 4715, Jan. 13, 2017]

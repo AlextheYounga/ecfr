@@ -1,0 +1,27 @@
+##### § 3100.41 Authorities. #####
+
+These regulations are based upon and implement the following laws, regulations, and Presidential directives:
+
+(a) *Antiquities Act of 1906* (Pub. L. 59-209; 34 Stat. 225; 16 U.S.C. 431 *et seq.*) which provides for the protection of historic or prehistoric remains or any object of antiquity on Federal lands; establishes criminal sanctions for unauthorized destruction or appropriation of antiquities; and authorizes scientific investigation of antiquities on Federal lands, subject to permit and regulations. Paleontological resources also are considered to fall within the authority of this Act.
+
+(b) *Historic Sites Act of 1935* (Pub. L. 74-292; 49 Stat. 666; 16 U.S.C. 461 *et seq.*) which authorizes the establishment of National Historic Sites and otherwise authorizes the preservation of properties of national historical or archeological significance; authorizes the designation of National Historic Landmarks; establishes criminal sanctions for violation of regulations pursuant to the Act; authorizes interagency, intergovernmental, and interdisciplinary efforts for the preservation of cultural resources; and other provisions.
+
+(c) *Reservoir Salvage Act of 1960* (Pub. L. 86-521; 74 Stat. 220; 16 U.S.C. 469-469c.) which provides for the recovery and preservation of historical and archeological data, including relics and specimens, that might be lost or destroyed as a result of the construction of dams, reservoirs, and attendant facilities and activities.
+
+(d) *The National Historic Preservation Act of 1966* as amended (16 U.S.C. 470), which establishes positive national policy for the preservation of the cultural environment, and sets forth a mandate for protection in section 106. The purpose of section 106 is to protect properties on or eligible for the National Register of Historic Places through review and comment by the ACHP of Federal undertakings that affect such properties. Properties are listed on the National Register or declared eligible for listing by the Secretary of the Interior. As developed through the ACHP's regulations, section 106 establishes a public interest process in which the Federal agency proposing an undertaking, the State Historic Preservation Officer, the ACHP, interested organizations and individuals participate. The process is designed to insure that properties, impacts on them, and effects to them are identified, and that alternatives to avoid or mitigate an adverse effect on property eligible for the National Register are adequately considered in the planning process.
+
+(e) *The National Environmental Policy Act of 1969* (NEPA) (Pub. L. 91-190; 83 Stat. 852; 42 U.S.C. 4321 *et seq.*) which declares that it is the policy of the Federal Government to preserve important historic, cultural, and natural aspects of our national heritage. Compliance with NEPA requires consideration of all environmental concerns during project planning and execution.
+
+(f) *Executive Order 11593, “Protection and Enhancement of the Cultural Environment”,* which gives the Federal Government the responsibility for stewardship of our nation's heritage resources and charges Federal agencies with the task of inventorying historic and prehistoric sites on their lands. E.O. 11593 also charges agencies with the task of identifying and nominating all historic properties under their jurisdiction, and exercising caution to insure that they are not transferred, sold, demolished, or substantially altered.
+
+(g) *Historical and Archeological Data Preservation Act of 1974.* (Pub. L. 93-291; 88 Stat. 174.) which amends the Reservoir Salvage Act of 1960 to extend its provisions beyond the construction of dams to any alteration of the terrain caused as a result of any Federal construction project or federally licensed activity or program. In addition, the Act provides a mechanism for funding the protection of historical and archeological data.
+
+(h) *Presidential memorandum of July 12, 1978, “Environmental Quality and Water Resource Management”* which directs the ACHP to publish final regulations, implementing section 106 of the National Historic Preservation Act (NHPA), and further directs each agency with water and related land resources responsibilities to publish procedures implementing those regulations.
+
+(i) *36 CFR part 800,* “Protection of Historic and Cultural Properties” which establishes procedures for the implementation of section 106 of the NHPA, and directs publication of agency implementing procedures.
+
+(j) *Land use policy of the USDA (Secretary's Memorandum No. 1827 Revised, with Supplement)* which establishes a commitment by the Department to the preservation of farms, rural communities, and rural landscapes.
+
+(k) *Public Buildings Cooperative Use Act of 1976 (40 U.S.C. 611) and Executive Order 12072 (Federal Space Management).* The Act encourages adaptive use of historic buildings as administrative facilities for Federal agencies and activities; the Executive Order directs Federal agencies to locate administrative and other facilities in central business districts.
+
+(l) *American Indian Religious Freedom Act of 1978 (42 U.S.C. 1996)* which declares it to be the policy of the United States to protect and preserve for American Indians their inherent right of freedom to believe, express, and exercise the traditional religions of the American Indian, Eskimo, Aleut, and Native Hawaiians.

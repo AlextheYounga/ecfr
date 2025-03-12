@@ -1,0 +1,3 @@
+##### § 15.60 Scope of rules. #####
+
+The rules of practice and procedure in this subpart supplement §§ 15.9 and 15.10 of subpart A of this part and govern the practice for hearings, decisions, and administrative review conducted by the Department of Agriculture, pursuant to title VI of the Civil Rights Act of 1964, section 602 (78 Stat. 252) and this part, title 7, CFR, except these rules shall not apply to any stage of a proceeding which has occurred prior to the effective date hereof.

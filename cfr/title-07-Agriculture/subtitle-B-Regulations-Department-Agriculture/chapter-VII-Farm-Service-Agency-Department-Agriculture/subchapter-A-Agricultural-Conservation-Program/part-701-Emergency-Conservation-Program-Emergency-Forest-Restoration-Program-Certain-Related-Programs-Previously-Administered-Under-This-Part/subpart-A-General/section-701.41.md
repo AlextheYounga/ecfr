@@ -1,0 +1,3 @@
+##### § 701.41 Cost-share assistance not subject to claims. #####
+
+Any cost-share assistance or portion thereof due any participant under this part shall be allowed without regard to questions of title under State law, and without regard to any claim or lien against any crop or property, or proceeds thereof, except liens and other claims of the United States or its instrumentalities. The regulations governing offsets and withholdings at parts 792 and 1403 of this title shall be applicable to this program and the provisions most favorable to a collection of the debt shall control.

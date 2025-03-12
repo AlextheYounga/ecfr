@@ -1,0 +1,3 @@
+##### § 3560.210 Special note rents (SNRs). #####
+
+When a Plan II housing project is experiencing severe vacancies due to market conditions, the Agency may allow the borrower to charge an SNR, which is less than note rent but higher than basic rent, to attract or retain tenants whose income level would require them to pay special note rent. The requirements for requesting and receiving an SNR are established under § 3560.454.

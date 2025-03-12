@@ -1,0 +1,3 @@
+##### § 986.91 Liability. #####
+
+No member or alternate of the Council nor any employee or agent thereof, shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any party under this part or to any other person for errors in judgment, mistakes, or other acts, either of commission or omission, as such member, alternate, agent or employee, except for acts of dishonesty, willful misconduct, or gross negligence. The Council may purchase liability insurance for its members and officers.

@@ -1,0 +1,5 @@
+##### § 1.41 Service of process. #####
+
+Process in any suit brought in Washington, District of Columbia, against the United States or any officer of the U.S. Department of Agriculture in any matter involving the activities of this Department, shall be served on the General Counsel of the Department. A U.S. Marshal or other process server attempting to serve process in such a suit on any officer of the Department shall be referred to the Office of the General Counsel, in order that service of process may be made. In the event an officer of the Department of Agriculture is served with process in such a suit, the officer shall immediately notify the General Counsel. Any subpoena, summons, or other compulsory process requiring an officer or employee to give testimony, or to produce or disclose any record or material of the U.S. Department of Agriculture, shall be served on the officer or employee of the U.S. Department of Agriculture named in the subpoena, summons, or other compulsory process.
+
+[19 FR 4052, July 3, 1954, as amended at 33 FR 10273, July 18, 1968; 43 FR 6202, Feb. 14, 1978; 60 FR 66481, Dec. 22, 1995]

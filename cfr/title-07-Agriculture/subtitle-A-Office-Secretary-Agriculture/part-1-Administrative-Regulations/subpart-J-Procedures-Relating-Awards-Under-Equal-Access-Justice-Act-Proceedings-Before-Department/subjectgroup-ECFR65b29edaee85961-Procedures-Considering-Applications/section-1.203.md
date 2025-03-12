@@ -1,0 +1,3 @@
+##### § 1.203 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the head of the agency administering the statute involved in the proceeding a copy of the final decision of the Department granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The agency will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

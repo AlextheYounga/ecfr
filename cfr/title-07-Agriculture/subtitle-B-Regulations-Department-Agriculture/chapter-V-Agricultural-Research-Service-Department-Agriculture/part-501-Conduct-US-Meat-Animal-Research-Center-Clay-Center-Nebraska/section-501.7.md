@@ -1,0 +1,3 @@
+##### § 501.7 Intoxicating beverages and narcotics. #####
+
+Entering Research Center property or the operating of a motor vehicle thereon, by a person under the influence of intoxicating beverages or narcotic drug, hallucinogen, marijuana, barbiturate, or amphetamine (unless prescribed by a physician) or the consumption of such beverages, or the use of any such drug or substance in or on the Research Center property, is prohibited.

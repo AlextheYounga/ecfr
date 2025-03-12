@@ -1,0 +1,3 @@
+##### § 46.39 Inspection of commodities. #####
+
+Each licensee shall, during ordinary business hours, promptly upon request, permit any duly authorized representative of the Department to inspect any lot of produce under his ownership or control covered by the Act. Any necessary facilities for such inspection shall be extended to such representative by the licensee, his agents, and employees. The licensee shall be furnished a copy of any certificate or memorandum of inspection which is issued for any lot of produce which is inspected in accordance with this section.

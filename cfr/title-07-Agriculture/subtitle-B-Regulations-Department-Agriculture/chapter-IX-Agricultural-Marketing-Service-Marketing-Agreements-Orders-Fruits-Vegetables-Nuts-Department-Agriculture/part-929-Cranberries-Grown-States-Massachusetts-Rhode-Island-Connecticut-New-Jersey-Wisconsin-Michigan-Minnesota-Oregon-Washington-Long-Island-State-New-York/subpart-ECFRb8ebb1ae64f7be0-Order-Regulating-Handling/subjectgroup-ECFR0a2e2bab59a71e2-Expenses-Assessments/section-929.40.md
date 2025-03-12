@@ -1,0 +1,3 @@
+##### § 929.40 Expenses. #####
+
+The committee is authorized to incur such expenses as the Secretary finds are reasonable and likely to be incurred by the committee for its maintenance and functioning and to enable it to exercise its powers and perform its duties in accordance with the provisions hereof. The funds to cover such expenses shall be paid to the committee by handlers in the manner prescribed in § 929.41.

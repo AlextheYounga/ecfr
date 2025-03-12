@@ -1,0 +1,33 @@
+##### § 246.19 Management evaluation and monitoring reviews. #####
+
+(a) *Management evaluations and reviews.* (1) FNS and each State agency shall establish a management evaluation system in order to assess the accomplishment of Program objectives as provided under this part, FNS guidelines, instructions, and the Federal-State agreement with the Department. FNS will provide assistance to States in discharging this responsibility, establish standards and procedures to determine how well the objectives of this part are being accomplished, and implement sanction procedures as warranted by State Program performance.
+
+(2) The State agency must submit a corrective action plan, including implementation timeframes, within 60 days of receipt of an FNS management evaluation report containing a finding that the State agency did not comply with program requirements. If FNS determines through a management evaluation or other means that during a fiscal year the State agency has failed, without good cause, to demonstrate efficient and effective administration of its program, or has failed to comply with its corrective action plan, or any other requirements contained in this part or the State Plan, FNS may withhold an amount up to 100 percent of the State agency's nutrition services and administration funds for that year.
+
+(3) Sanctions imposed upon a State agency by FNS in accordance with this section (but not claims for repayment assessed against a State agency) may be appealed in accordance with the procedures established in § 246.22. Before carrying out any sanction against a State agency, the following procedures will be followed:
+
+(i) FNS will notify the Chief State Health Officer or equivalent in writing of the deficiencies found and of FNS' intention to withhold nutrition services and administration funds unless an acceptable corrective action plan is submitted by the State agency to FNS within 60 days after mailing of notification.
+
+(ii) The State agency shall develop a corrective action plan with a schedule according to which the State agency shall accomplish various actions to correct the deficiencies and prevent their future recurrence.
+
+(iii) If the corrective action plan is acceptable, FNS will notify the Chief State Health Officer or equivalent in writing within 30 days of receipt of the plan. The letter approving the corrective action plan will describe the technical assistance that is available to the State agency to correct the deficiencies. The letter will also advise the Chief State Health Officer or equivalent of the sanctions to be imposed if the corrective action plan is not implemented according to the schedule set forth in the approved plan.
+
+(iv) Upon notification from the State agency that corrective action as been taken, FNS will assess such action, and, if necessary, will perform a follow-up review to determine if the noted deficiencies have been corrected. FNS will then advise the State agency of whether the actions taken are in compliance with the corrective action plan, and whether the deficiency is resolved or further corrective action is needed.
+
+(v) If an acceptable corrective action plan is not submitted within 60 days, or if corrective action is not completed according to the schedule established in the corrective action plan, FNS may withhold nutrition services and administration funds through a reduction of the State agency Letter of Credit or by assessing a claim against the State agency. FNS will notify the Chief State Health Officer or equivalent of this action.
+
+(vi) If compliance is achieved before the end of the fiscal year in which the nutrition services and administration funds are withheld, the funds withheld shall be restored to the State agency's Letter of Credit. FNS is not required to restore funds withheld if compliance is not achieved until the subsequent fiscal year. If the 60-day warning period ends in the fourth quarter of a fiscal year, FNS may elect not to withhold funds until the next fiscal year.
+
+(b) *State agency responsibilities.* (1) The State agency shall establish an on-going management evaluation system which includes at least the monitoring of local agency operations, the review of local agency financial and participation reports, the development of corrective action plans to resolve Program deficiencies, the monitoring of the implementation of corrective action plans, and on-site visits. The results of such actions shall be documented.
+
+(2) Monitoring of local agencies must encompass evaluation of management, certification, nutrition education, breastfeeding promotion and support, participant services, civil rights compliance, accountability, financial management systems, and food delivery systems. If the State agency delegates the signing of vendor agreements, vendor training, or vendor monitoring to a local agency, it must evaluate the local agency's effectiveness in carrying out these responsibilities.
+
+(3) The State agency shall conduct monitoring reviews of each local agency at least once every two years. Such reviews shall include on-site reviews of a minimum of 20 percent of the clinics in each local agency or one clinic, whichever is greater. The State agency may conduct such additional on-site reviews as the State agency determines to be necessary in the interest of the efficiency and effectiveness of the program.
+
+(4) The State agency must promptly notify a local agency of any finding in a monitoring review that the local agency did not comply with program requirements. The State agency must require the local agency to submit a corrective action plan, including implementation timeframes, within 60 days of receipt of a State agency report of a monitoring review containing a finding of program noncompliance. The State agency must monitor local agency implementation of corrective action plans.
+
+(5) As part of the regular monitoring reviews, FNS may require the State agency to conduct in-depth reviews of specified areas of local agency operations, to implement a standard form or protocol for such reviews, and to report the results to FNS. No more than two such areas will be stipulated by FNS for any fiscal year and the areas will not be added or changed more often than once every two fiscal years. These areas will be announced by FNS at least six months before the beginning of the fiscal year.
+
+(6) The State agency shall require local agencies to establish management evaluation systems to review their operations and those of associated clinics or contractors.
+
+[50 FR 6121, Feb. 13, 1985, as amended at 59 FR 11508, Mar. 11, 1994; 76 FR 59890, Sept. 28, 2011]

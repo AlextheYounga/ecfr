@@ -1,10 +1,8 @@
 ##### § 1006.210 Housing services. #####
 
-Link to an amendment published at 81 FR 90660, December 14, 2016.
-
 NHHBG funds may be used for the provision of housing-related services for affordable housing, including:
 
-(a) Housing counseling in connection with rental or homeownership assistance;
+(a) Housing counseling, as defined in § 5.100, in connection with rental or homeownership assistance must be carried out in accordance with 24 CFR 5.111;
 
 (b) The establishment and support of resident organizations and resident management corporations;
 
@@ -19,3 +17,5 @@ NHHBG funds may be used for the provision of housing-related services for afford
 (g) Tenant-based rental assistance, which may include security deposits and/or first month's rent; and
 
 (h) Other services related to assisting owners, tenants, contractors, and other entities participating or seeking to participate in other housing activities assisted pursuant to the Act and this part.
+
+[67 FR 40776, June 13, 2002, as amended at 81 FR 90660, Dec. 14, 2016]

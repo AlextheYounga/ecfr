@@ -1,0 +1,3 @@
+##### § 15.115 Affidavits. #####
+
+An affidavit, intended to be used as evidence without cross-examination of the affiant, will be filed and served on the parties at least 15 days prior to the hearing; and not less than seven days prior to hearing a party may file and serve written objections to any affidavit on the ground that he believes it necessary to test the truth of assertions therein by cross-examination. In such event, the affidavit objected to will not be received in evidence unless the affiant is made available for cross-examination at the hearing or otherwise as prescribed by the hearing officer. In absence of an objection being filed within the time specified, such affidavit will be received in evidence.

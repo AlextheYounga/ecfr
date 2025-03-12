@@ -1,0 +1,5 @@
+##### § 927.33 Procedure. #####
+
+(a) *Quorum and voting.* A quorum at a meeting of the Fresh Pear Committee or the Processed Pear Committee shall consist of 75 percent of the number of committee members, or alternates then serving in the place of any members, respectively. Except as otherwise provided in § 927.52, all decisions of the Fresh Pear Committee or the Processed Pear Committee at any meeting shall require the concurring vote of at least 75 percent of those members present, including alternates then serving in the place of any members.
+
+(b) *Mail voting.* The Fresh Pear Committee or the Processed Pear Committee may provide for members voting by mail, telecopier or other electronic means, telephone, or telegraph, upon due notice to all members. Promptly after voting by telephone or telegraph, each member thus voting shall confirm in writing, the vote so cast.

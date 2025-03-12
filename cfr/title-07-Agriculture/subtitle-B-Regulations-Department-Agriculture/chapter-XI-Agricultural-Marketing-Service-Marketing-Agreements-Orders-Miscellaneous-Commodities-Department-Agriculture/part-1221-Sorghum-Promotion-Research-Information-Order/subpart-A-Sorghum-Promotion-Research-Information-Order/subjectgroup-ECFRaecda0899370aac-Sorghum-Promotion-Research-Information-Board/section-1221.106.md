@@ -1,0 +1,3 @@
+##### § 1221.106 Removal. #####
+
+If the Secretary determines that any person appointed under this part fails or refuses to perform his or her duties properly or engages in an act of dishonesty or willful misconduct, the Secretary shall remove the person from office. A person appointed under this part or any employee of the Board may be removed by the Secretary if the Secretary determines that the person's continued service would be a detriment to the purposes of the Act.

@@ -1,0 +1,5 @@
+##### § 760.401 Applicability. #####
+
+(a) This subpart establishes the terms and conditions under which the Livestock Indemnity Program (LIP) will be administered under Titles XII and XV of the 2008 Farm Bill (Pub. L. 110-246).
+
+(b) Eligible livestock owners and contract growers will be compensated in accordance with § 760.406 for eligible livestock deaths in excess of normal mortality that occurred in the calendar year for which benefits are being requested as a direct result of an eligible adverse weather event. An “eligible adverse weather event” is one, as determined by the Secretary, occurring in the program year that could and did, even when normal preventative or corrective measures were taken and good farming practices were followed, directly result in the death of livestock. Because feed can be purchased or otherwise obtained in the event of a drought, drought is not an eligible adverse weather event except when anthrax, resulting from drought, causes the death of eligible livestock.

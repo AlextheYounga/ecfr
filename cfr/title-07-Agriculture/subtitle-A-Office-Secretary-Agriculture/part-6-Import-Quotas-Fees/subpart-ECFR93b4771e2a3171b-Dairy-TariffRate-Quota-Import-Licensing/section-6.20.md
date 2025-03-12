@@ -1,0 +1,9 @@
+##### § 6.20 Introduction. #####
+
+(a) Presidential Proclamation 6763 of December 23, 1994, modified the Harmonized Tariff Schedule of the United States affecting the import regime for certain articles of dairy products. The Proclamation terminated quantitative restrictions that had been imposed pursuant to section 22 of the Agricultural Adjustment Act of 1933, as amended (7 U.S.C. 624); proclaimed tariff-rate quotas for such articles pursuant to Public Law 103-465; and specified which of such articles may be entered only by or for the account of a person to whom a license has been issued by the Secretary of Agriculture.
+
+(b) Effective January 1, 1995, the prior regime of absolute quotas for certain dairy products was replaced by a system of tariff-rate quotas. The articles subject to licensing under the tariff-rate quotas are listed in Appendices 1, 2, and 3 to be published annually in a notice in the Federal Register. Licenses permit the holder to import specified quantities of the subject articles into the United States at the applicable in-quota rate of duty. If an importer has no license for an article subject to licensing, such importer will, with certain exceptions, be required to pay the applicable over-quota rate of duty.
+
+(c) The Secretary of Agriculture has determined that this subpart will, to the fullest extent practicable, result in fair and equitable allocation of the right to import articles subject to such tariff-rate quotas. The subpart will also maximize utilization of the tariff-rate quotas for such articles, taking due account of any special factors which may have affected or may be affecting the trade in the articles concerned.
+
+[80 FR 44254, July 27, 2015]

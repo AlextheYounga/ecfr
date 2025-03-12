@@ -1,5 +1,7 @@
 ##### § 35.1330 Interim controls. #####
 
+Link to an amendment published at 82 FR 4172, Jan. 13, 2017.
+
 Interim controls of lead-based paint hazards identified in a risk assessment shall be conducted in accordance with the provisions of this section. Interim control measures include paint stabilization of deteriorated paint, treatments for friction and impact surfaces where levels of lead dust are above the levels specified in § 35.1320, dust control, and lead-contaminated soil control. As provided by § 35.155, interim controls may be performed in combination with, or be replaced by, abatement methods.
 
 (a) *General requirements.* (1) Only those interim control methods identified as acceptable methods in a current risk assessment report shall be used to control identified hazards, except that, if only paint stabilization is required in accordance with subparts F, H, K or M of this part, it shall not be necessary to have conducted a risk assessment.

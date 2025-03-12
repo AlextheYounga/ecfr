@@ -1,0 +1,3 @@
+##### § 1260.121 Imported beef or beef products. #####
+
+*Imported beef or beef products* means products which are imported into the United States which the Secretary determines contain a substantial amount of beef including those products which have been assigned one or more of the following numbers in the Tariff Schedule of the United States: 106.1020, 106.1040, 106.1060, 106.1080, 107.2000, 107.2520, 107.4000, 107.4500, 107.4820, 107.4840, 107.5220, 107.5240, 107.5500, 107.6100, 107.6200, 107.6300.

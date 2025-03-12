@@ -1,0 +1,3 @@
+##### § 160.34 Responsibility of interested person. #####
+
+The sampling or acceptance of any sample of naval stores by an official inspector for use in grading and certifying the same at the request of an interested person, or the placing of any incorrect classification or grade marks upon the container thereof, or the issue of any incorrect certificate inadvertently to cover the contents, because of inability of the inspector to observe the true condition of the naval stores, shall not prevent the correction or recall of any such certificate, nor relieve the interested person from responsibility for the condition of the article or its container.

@@ -1,0 +1,3 @@
+##### § 1219.12 Hass avocado. #####
+
+*Hass avocado* means the fruit grown in or imported into the United States of the species *Persea americana* Mill., or other type of avocados that, in the determination of the Board, with approval of the Secretary, is so similar to the Hass variety avocado as to be indistinguishable to consumers in fresh form. The term shall include all fruit in fresh, frozen, or any other processed form.

@@ -1,0 +1,3 @@
+##### § 56.62 How to file an appeal. #####
+
+Any request for an appeal grading or review of a grader's decision may be made orally or in writing. If made orally, written confirmation may be required. The applicant shall clearly state the reasons for requesting the appeal service and a description of the product, or the decision which is questioned. If such appeal request is based on the results stated on an official certificate, the original and all available copies of the certificate shall be returned to the appeal grader assigned to make the appeal grading.

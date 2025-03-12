@@ -1,0 +1,7 @@
+##### § 1970.1 Purpose, applicability, and scope. #####
+
+(a) *Purpose.* The purpose of this part is to ensure that the Agency complies with the National Environmental Policy Act of 1969, as amended (NEPA) (42 U.S.C. 4321, *et seq.*), and other applicable environmental requirements in order to make better decisions based on an understanding of the environmental consequences of proposed actions, and take actions that protect, restore, and enhance the quality of the human environment.
+
+(b) *Applicability.* The environmental policies and procedures contained in this part are applicable to programs administered by the Rural Business-Cooperative Service (RBS), Rural Housing Service (RHS), and Rural Utilities Service (RUS); herein referred to as “the Agency.”
+
+(c) *Scope.* This part integrates NEPA with other planning, environmental review processes, and consultation procedures required by other Federal laws, regulations, and Executive Orders applicable to Agency programs. This part also supplements the Council on Environmental Quality (CEQ) regulations implementing the procedural provisions of NEPA, 40 CFR parts 1500 through 1508. To the extent appropriate, the Agency will take into account CEQ guidance and memoranda. This part also incorporates and complies with the procedures of Section 106 (36 CFR part 800) of the National Historic Preservation Act (NHPA) and Section 7 (50 CFR part 402) of the Endangered Species Act (ESA).

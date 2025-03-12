@@ -1,0 +1,3 @@
+##### § 70.12 Supervision. #####
+
+All grading service shall be subject to supervision at all times by the responsible State supervisor, regional director, and national supervisor. Such service shall be rendered in accordance with instructions issued by the Administrator where the facilities and conditions are satisfactory for the conduct of the service and the requisite graders are available. Whenever the supervisor of a grader has evidence that such grader incorrectly graded a product, such supervisor shall take such action as is necessary to correct the grading and to cause any improper grademarks which appear on the product or containers thereof to be corrected prior to shipment of the product from the place of initial grading.

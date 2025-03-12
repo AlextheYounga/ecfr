@@ -1,0 +1,3 @@
+##### § 160.63 When a certificate may not be issued. #####
+
+No certificate shall be issued for naval stores unless the naval stores have been packed, sampled, marked, and identified as required by the provisions in this part, and otherwise conform with the act and such provisions. The results of the examination of such naval stores or anything offered as such may be covered by a written report, which in no case shall be construed as a certificate.

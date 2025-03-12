@@ -1,0 +1,3 @@
+##### § 900.31 Electronic submission of hearing documents. #####
+
+To the extent practicable, all documents filed with the hearing clerk in a proceeding to amend a Federal milk marketing agreement or order shall also be submitted electronically to the Dairy Programs, Agricultural Marketing Service, USDA. All documents should reference the docket number of the proceeding. Instructions for electronic filing will be provided in the notice of action plan referred to in § 900.23 of this subpart, at the amendatory hearing, and in each Federal Register publication regarding the amendatory proceeding.

@@ -1,0 +1,5 @@
+##### § 400.135 Written agreement to repay debt as an alternative to salary offset. #####
+
+The employee may propose, in response to a notice of intent, a written agreement to repay the debt as an alternative to salary offset. The proposed written agreement to repay the debt must be received by the FCIC official within 30 calendar days of the date of the notice of intent. The FCIC official will notify the employee whether the employee's proposed written agreement for repayment is acceptable. The FCIC official may accept a repayment agreement instead of proceeding by offset. In making this determination, the FCIC official will balance the FCIC interest in collecting the debt against hardship to the employee. If the debt is delinquent and the employee has not disputed its existence or amount, the FCIC official will accept a repayment agreement, instead of offset, for good cause such as, if the employee establishes that offset would result in undue financial hardship, or would be against equity and good conscience.
+
+[53 FR 5, Jan. 4, 1988]

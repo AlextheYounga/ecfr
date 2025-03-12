@@ -1,7 +1,5 @@
 ##### § 147.102 Fair health insurance premiums. #####
 
-Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
-
 (a) *In general.* With respect to the premium rate charged by a health insurance issuer in accordance with § 156.80 of this subchapter for health insurance coverage offered in the individual or small group market -
 
 (1) The rate may vary with respect to the particular plan or coverage involved only by determining the following:
@@ -56,13 +54,19 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (d) *Uniform age bands.* The following uniform age bands apply for rating purposes under paragraph (a)(1)(iii) of this section:
 
-(1) *Child age bands.* A single age band for individuals age 0 through 20.
+(1) *Child age bands.* (i) For plan years or policy years beginning before January 1, 2018, a single age band for individuals age 0 through 20.
+
+(ii) For plan years or policy years beginning on or after January 1, 2018:
+
+(A) A single age band for individuals age 0 through 14.
+
+(B) One-year age bands for individuals age 15 through 20.
 
 (2) *Adult age bands.* One-year age bands for individuals age 21 through 63.
 
 (3) *Older adult age bands.* A single age band for individuals age 64 and older.
 
-(e) *Uniform age rating curves.* Each state may establish a uniform age rating curve in the individual or small group market, or both markets, for rating purposes under paragraph (a)(1)(iii) of this section. If a state does not establish a uniform age rating curve or provide information on such age curve in accordance with § 147.103, a default uniform age rating curve specified in guidance by the Secretary will apply in that state which takes into account the rating variation permitted for age under state law.
+(e) *Uniform age rating curves.* Each State may establish a uniform age rating curve in the individual or small group market, or both markets, for rating purposes under paragraph (a)(1)(iii) of this section. If a State does not establish a uniform age rating curve or provide information on such age curve in accordance with § 147.103, a default uniform age rating curve specified in guidance by the Secretary to reflect market patterns in the individual and small group markets will apply in that State that takes into account the rating variation permitted for age under State law.
 
 (f) *Special rule for large group market.* If a state permits health insurance issuers that offer coverage in the large group market in the state to offer such coverage through an Exchange starting in 2017, the provisions of this section applicable to coverage in the small group market apply to all coverage offered in the large group market in the state.
 
@@ -70,4 +74,4 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (h) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
 
-[78 FR 13436, Feb. 27, 2013, as amended at 78 FR 54133, Aug. 30, 2013; 79 FR 13834, Mar. 11, 2014; 81 FR 12334, Mar. 8, 2016]
+[78 FR 13436, Feb. 27, 2013, as amended at 78 FR 54133, Aug. 30, 2013; 79 FR 13834, Mar. 11, 2014; 81 FR 12334, Mar. 8, 2016; 81 FR 94173, Dec. 22, 2016]

@@ -1,0 +1,3 @@
+##### § 771.12 Funding applications. #####
+
+Loan requests will be processed based on the date FSA receives the application. Loan approval is subject to the availability of funds. However, when multiple applications are received on the same date and available funds will not cover all applications received, applications from active eradication areas, which FSA determines to be most critical for the accomplishment of program objectives, will be funded first.

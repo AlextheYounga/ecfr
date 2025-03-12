@@ -1,0 +1,3 @@
+##### § 75.11 Content of application. #####
+
+An application for service shall include the following information; (a) The date of application; (b) the kind and quantity of seed, and test(s) to be performed; (c) the methods and instructions for the inspection of the seed (either Association of Official Seed Analysts (AOSA) or International Seed Testing Association (ISTA) rules); (d) the name and address of the applicant and, if made by an authorized agent; and (e) such further information relating to the inspection as may be required.

@@ -1,0 +1,3 @@
+##### § 281.8 Transfer of program administration. #####
+
+The transfer of program administration from an agency of the State government to an ITO pursuant to a determination of failure as provided for in § 281.3, or from an ITO to an agency of the State government pursuant to § 281.7, shall be contingent on the establishment of an effective termination and transition arrangement and an approved Plan of Operation from the State agency assuming program administration. Grant closeout procedures shall be followed in accordance with part 277. FNS shall approve the transition plan, monitor its implementation and resolve any issues which may arise during the transition and after the transfer of program administration.

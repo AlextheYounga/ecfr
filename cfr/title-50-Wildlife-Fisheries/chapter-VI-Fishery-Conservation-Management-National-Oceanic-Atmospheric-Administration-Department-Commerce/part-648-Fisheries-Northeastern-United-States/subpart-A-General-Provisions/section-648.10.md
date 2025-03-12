@@ -1,7 +1,5 @@
 ##### § 648.10 VMS and DAS requirements for vessel owners/operators. #####
 
-Link to an amendment published at 81 FR 90250, Dec. 14, 2016.
-
 (a) *VMS Demarcation Line.* The VMS Demarcation Line is defined by straight lines connecting the following coordinates in the order stated (a copy of a map showing the line is available from the Regional Administrator upon request):
 
 VMS Demarcation Line
@@ -81,6 +79,8 @@ VMS Demarcation Line
 (9) Vessels issued a Tier 1, Tier 2, or Tier 3 limited access Atlantic mackerel permit; or
 
 (10) Vessels issued a longfin squid/butterfish moratorium permit.
+
+(11) Vessels issued an *Illex* squid moratorium permit.
 
 (c) *Operating requirements for all vessels.* (1) Except as provided in paragraph (c)(2) of this section, or unless otherwise required by paragraph (c)(1)(ii) of this section, all vessels required to use VMS units, as specified in paragraph (b) of this section, must transmit a signal indicating the vessel's accurate position, as specified under paragraph (c)(1)(i) of this section:
 
@@ -377,5 +377,7 @@ SNE/MA Stock Area 4
 (2) A vessel issued a limited access Atlantic mackerel permit intending to land more than 20,000 lb (9.07 mt) of mackerel must notify NMFS of the time and place of offloading at least 6 hr prior prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds. The Regional Administrator may adjust the prior notification minimum time through publication in the Federal Register consistent with the Administrative Procedure Act.
 
 (o) *Longfin squid/butterfish VMS notification requirement.* A vessel issued a longfin squid/butterfish moratorium permit intending to declare into the longfin squid fishery must notify NMFS by declaring a longfin squid trip prior to leaving port at the start of each trip in order to harvest, possess, or land more than 2,500 lb (1.13 mt) of longfin squid on that trip.
+
+(p) *Illex squid VMS notification requirement.* A vessel issued an *Illex* squid moratorium permit intending to declare into the *Illex* squid fishery must notify NMFS by declaring an *Illex* squid trip prior to leaving port at the start of each trip in order to harvest, possess, or land 10,000 lb (4,535.9 kg) or more of *Illex* squid on that trip.
 
 [74 FR 20530, May 4, 2009]Editorial Note:For Federal Register citations affecting § 648.10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

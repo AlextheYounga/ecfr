@@ -1,0 +1,5 @@
+##### § 631.20 Setoffs. #####
+
+(a) If any participant to whom compensation is payable under the program is indebted to U.S. Department of Agriculture (USDA), or any agency thereof, or is indebted to any other agency of the United States, and such indebtedness is listed on the county claim control record maintained in the office of the county ASC committee, the compensation due the participant shall be set off against the indebtedness. Indebtedness owing to USDA, or any agency thereof, shall be given first consideration. Setoffs made pursuant to this section shall not deprive the participant of any right to contest the justness of the indebtedness involved either by administrative appeal or by legal action.
+
+(b) Participants who are indebted to this program for any reason will be placed on the USDA claim control record promptly by the state conservationist after the participant has been given opportunity to pay the debt.

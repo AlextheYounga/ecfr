@@ -1,0 +1,3 @@
+##### § 631.21 Compliance with regulatory measures. #####
+
+Participants who carry out conservation practices shall be responsible for obtaining the authorities, rights, easements, or other approvals necessary for the implementation and maintenance of the conservation practices in keeping with applicable laws and regulations. Participants shall save the United States harmless from any infringements upon the rights of others or from any failure to comply with applicable laws or regulations.

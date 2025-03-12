@@ -1,0 +1,5 @@
+##### § 927.35 Funds and other property. #####
+
+(a) All funds received pursuant to any of the provisions of this subpart shall be used solely for the purposes specified in this subpart, and the Secretary may require the Fresh Pear Committee or the Processed Pear Committee and its members to account for all receipts and disbursements.
+
+(b) Upon the death, resignation, removal, disqualification, or expiration of the term of office of any member or employee, all books, records, funds, and other property in his or her possession belonging to the Fresh Pear Committee or the Processed Pear Committee shall be delivered to his or her successor in office or to the Fresh Pear Committee or Processed Pear Committee, and such assignments and other instruments shall be executed as may be necessary to vest in such successor or in the Fresh Pear Committee or Processed Pear Committee full title to all the books, records, funds, and other property in the possession or under the control of such member or employee pursuant to this subpart.

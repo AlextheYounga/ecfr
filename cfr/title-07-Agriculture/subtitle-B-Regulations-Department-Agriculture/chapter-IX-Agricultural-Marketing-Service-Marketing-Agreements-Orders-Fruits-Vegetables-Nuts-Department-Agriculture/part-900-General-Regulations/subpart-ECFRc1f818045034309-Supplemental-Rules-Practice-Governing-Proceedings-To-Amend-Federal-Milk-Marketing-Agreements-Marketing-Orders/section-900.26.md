@@ -1,0 +1,3 @@
+##### § 900.26 Requesting USDA data for use at an amendatory hearing. #####
+
+Requests for preparation of USDA data to be used at a Federal milk marketing agreement or order amendatory proceeding must be received by USDA at least 10 days before the beginning of the hearing. If an amendatory hearing is announced with less than 10 days before the start of the hearing, requests for data must be submitted within 2 days following publication of the notice of hearing in the Federal Register.

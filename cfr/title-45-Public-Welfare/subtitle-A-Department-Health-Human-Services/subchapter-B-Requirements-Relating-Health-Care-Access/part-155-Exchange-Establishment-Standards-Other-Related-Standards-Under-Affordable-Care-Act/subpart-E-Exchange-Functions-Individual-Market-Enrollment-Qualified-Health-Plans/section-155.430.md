@@ -1,7 +1,5 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
-Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
-
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
 (b) *Termination events* - (1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
@@ -28,7 +26,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (B) Any other grace period not described in paragraph (b)(2)(ii)(A) of this section has been exhausted;
 
-(iii) The enrollee's coverage is rescinded in accordance with § 147.128 of this subtitle;
+(iii) The enrollee's coverage is rescinded in accordance with § 147.128 of this subchapter, after a QHP issuer demonstrates, to the reasonable satisfaction of the Exchange, if required by the Exchange, that the rescission is appropriate;
 
 (iv) The QHP terminates or is decertified as described in § 155.1080; or
 
@@ -94,4 +92,4 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (3) *Reinstatement.* A reinstatement is a correction of an erroneous termination or cancellation action and results in restoration of an enrollment with no break in coverage.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016]

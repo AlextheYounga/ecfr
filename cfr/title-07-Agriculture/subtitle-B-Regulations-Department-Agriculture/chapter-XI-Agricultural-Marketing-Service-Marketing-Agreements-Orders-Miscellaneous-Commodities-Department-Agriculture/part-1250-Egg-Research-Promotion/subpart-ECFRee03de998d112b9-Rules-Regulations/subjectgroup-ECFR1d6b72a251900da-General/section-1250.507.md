@@ -1,0 +1,3 @@
+##### § 1250.507 Contracts. #####
+
+The Egg Board, with the approval of the Secretary, may enter into contracts with persons for the development and submission to it of plans or projects authorized by the Order and for carrying out of such plans or projects. Contractors shall agree to comply with the provisions of the Order, this subpart, and applicable provisions of the U.S. Code relative to contracting with the U.S. Department of Agriculture. Subcontractors who enter into contracts or agreements with a primary contractor and who receive or otherwise utilize funds allocated by the Egg Board shall be subject to the provisions of this subpart.

@@ -1,0 +1,5 @@
+##### § 1160.213 Adjustment of accounts. #####
+
+Whenever the Board or the Secretary determines through an audit of a processor's reports, records, books or accounts or through some other means that additional money is due the Board or to such processor from the Board, the Board shall notify that person of the amount due or overpaid. If the processor owes money to the Board, it shall remit that amount by the next date for remitting assessments as provided in § 1160.211. For the first two erroneous reports submitted by a processor in the preceding 12-month period, late-payment charges assessed pursuant to § 1160.214 shall not begin to accrue until the day following such date. For all additional erroneous reports submitted by a processor during the 12-month period, late-payment charges shall accrue from the date the payment was due. If the processor has overpaid, that amount shall be credited to its account and applied against amounts due in succeeding months.
+
+[73 FR 29390, May 21, 2008]

@@ -50,4 +50,8 @@
 
 (2) If VA is the sole payer for hospital care and medical services, then VA will pay or reimburse in accordance with §§ 17.55 and 17.56, as applicable.
 
-(Authority: 38 U.S.C. 1787)(The information collection requirements have been submitted to OMB and are pending OMB approval.)[79 FR 57421, Sept. 24, 2014]
+(Authority: 38 U.S.C. 1787)
+
+(The information collection requirements have been submitted to OMB and are pending OMB approval.)
+
+[79 FR 57421, Sept. 24, 2014]

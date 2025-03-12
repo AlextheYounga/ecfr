@@ -1,0 +1,9 @@
+##### § 1590.18 Opportunities to object and appeals. #####
+
+(a) FAS will provide an opportunity to a recipient to object to, and provide information and documentation challenging, any action taken by FAS pursuant to § 1590.16. FAS will comply with any requirements for hearings, appeals, or other administrative proceedings to which the recipient is entitled under any other statute or regulation applicable to the action involved. In the absence of such other requirements, the requirements set forth in this section will apply.
+
+(b) The recipient must submit its objection in writing, along with any documentation, to the FAS official specified in the agreement within 30 days after the date that FAS notified the recipient that FAS was taking the action being challenged. This official will endeavor to notify the recipient of his or her determination within 60 days after the date that FAS received the recipient's written objection.
+
+(c) The recipient may appeal the determination of the official to the Administrator, FAS. An appeal must be in writing and be submitted to the Office of the Administrator within 30 days after the date of the initial determination by the FAS official. The recipient may submit additional documentation with its appeal.
+
+(d) The Administrator will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after the date that FAS received the appeal. The determination of the Administrator will be the final determination of FAS. The recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Administrator.

@@ -1,0 +1,7 @@
+##### § 1467.20 Market-based conservation initiatives. #####
+
+(a) *Acceptance and use of contributions.* Section 1241(e) of the Food Security Act of 1985, as amended, (16 U.S.C. 3841(e)), allows the Chief to accept and use contributions of non-Federal funds to support the purposes of the program. These funds shall be available without further appropriation and until expended, to carry out the program.
+
+(b) *Ecosystem Services Credits for Conservation Improvements.* (1) USDA recognizes that environmental benefits will be achieved by implementing conservation practices and activities funded through WRP, and that environmental credits may be gained as a result of implementing activities compatible with the purposes of a WRP easement, 30-year contract, or restoration cost-share agreement. NRCS asserts no direct or indirect interest in these credits. However, NRCS retains the authority to ensure that the requirements of the WRPO, contract, and easement deed are met. Where activities required under an environmental credit agreement may affect land covered under a WRP easement, 30-year contract, or restoration cost-share agreement, participants are highly encouraged to request a compatibility assessment from NRCS prior to entering into such agreements.
+
+(2) Section 1222(f)(2) of the Food Security Act of 1985 as amended, does not allow wetlands restored with Federal funds to be utilized for Food Security Act wetland mitigation purposes.

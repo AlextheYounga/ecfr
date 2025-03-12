@@ -1,0 +1,3 @@
+##### § 1150.276 Review of certification. #####
+
+Certifications issued pursuant to this subpart are subject to termination or suspension if the organization does not currently meet the certification standards. A certified organization may be requested at any time to supply the Dairy Division with such information as may be required to show that the organization continues to be eligible for certification. Any information submitted to satisfy a request pursuant to this section shall be subject to inspection and investigation as provided in § 1150.275.

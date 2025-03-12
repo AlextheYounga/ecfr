@@ -1,0 +1,3 @@
+##### § 955.41 Budget. #####
+
+At least 60 days prior to each fiscal period, or such other date as may be specified by the Secretary, and as may be necessary thereafter, the committee shall prepare an estimated budget of income and expenditures necessary for the administration of this part. The committee may recommend a rate of assessment calculated to provide adequate funds to defray its proposed expenditures. The committee shall present such budget to the Secretary with an accompanying report showing the basis for its calculations.

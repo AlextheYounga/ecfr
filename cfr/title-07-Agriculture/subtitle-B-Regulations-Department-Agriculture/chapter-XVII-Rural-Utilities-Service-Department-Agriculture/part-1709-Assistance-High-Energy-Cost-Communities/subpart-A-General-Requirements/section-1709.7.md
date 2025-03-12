@@ -1,0 +1,3 @@
+##### § 1709.7 Applicant eligibility. #####
+
+An outstanding judgment obtained against an applicant by the United States in a Federal Court (other than in the United States Tax Court), which has been recorded, shall cause the applicant to be ineligible to receive a grant or loan under this part until the judgment is paid in full or otherwise satisfied. RUS financial assistance under this part may not be used to satisfy the judgment.

@@ -1,0 +1,5 @@
+##### § 247.13 Provisions for non-English or limited-English speakers. #####
+
+(a) *What must State and local agencies do to ensure that non-English or limited-English speaking persons are aware of their rights and responsibilities in the program?* If a significant proportion of the population in an area is comprised of non-English or limited-English speaking persons with a common language, the State agency must ensure that local agencies inform such persons of their rights and responsibilities in the program, as listed under § 247.12, in an appropriate language. State and local agencies must ensure that bilingual staff members or interpreters are available to serve these persons.
+
+(b) *What must State and local agencies do to ensure that non-English or limited-English speaking persons are aware of other program information?* If a significant proportion of the population in an area is comprised of non-English or limited-English speaking persons with a common language, the State agency must ensure that local agencies provide other program information, except application forms, to such persons in their appropriate language.

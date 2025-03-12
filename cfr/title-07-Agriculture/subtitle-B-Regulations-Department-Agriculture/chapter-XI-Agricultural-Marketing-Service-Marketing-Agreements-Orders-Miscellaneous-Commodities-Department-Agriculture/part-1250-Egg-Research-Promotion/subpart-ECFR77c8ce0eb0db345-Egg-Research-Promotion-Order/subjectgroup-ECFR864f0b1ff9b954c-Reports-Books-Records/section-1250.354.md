@@ -1,0 +1,7 @@
+##### § 1250.354 Confidential treatment. #####
+
+(a) All information obtained from such books, records, or reports shall be kept confidential by all officers and employees of the Department of Agriculture and the Board, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request of the Secretary, or to which the Secretary or any officer of the United States is a party and involving this subpart. Nothing in this paragraph shall be deemed to prohibit (1) the issuance of general statements based upon the reports of the number of persons subject to this subpart or statistical data collected therefrom, which statements do not identify the information furnished by any person, (2) the publication, by direction of the Secretary, of general statements relating to refunds made by the Egg Board during any specific period of time, or (3) the publication, by direction of the Secretary, of the name of any person violating this subpart together with a statement of the particular provisions of this subpart violated by such person.
+
+(b) All information with respect to refunds, except as provided in paragraph (a)(2) of this section, made to individual producers shall be kept confidential by all officers and employees of the Department of Agriculture and the Board.
+
+[40 FR 59190, Dec. 22, 1975. Redesignated at 55 FR 6973, Feb. 28, 1990]

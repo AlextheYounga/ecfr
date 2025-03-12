@@ -1,0 +1,3 @@
+##### § 1250.205 Ballots. #####
+
+The referendum agent and subagents shall accept all ballots cast; but should they, or any of them, deem that a ballot should be challenged for any reason, the agent or subagent shall endorse above their signature, on the ballot, a statement to the effect that such ballot was challenged, by whom challenged, the reasons therefore, and the results of any investigations made with respect thereto, and the disposition thereof. Invalid ballots shall not be counted.

@@ -1,0 +1,5 @@
+##### § 2903.4 Indirect costs. #####
+
+(a) For the Biodiesel Fuel Education Program, applicants should use the current indirect cost rate negotiated with the cognizant Federal negotiating agency. Indirect costs may not exceed the negotiated rate. If no indirect cost rate has been negotiated, a reasonable dollar amount for indirect costs may be requested, which will be subject to approval by USDA. In the latter case, if a proposal is recommended for funding, an indirect cost rate proposal must be submitted prior to award to support the amount of indirect costs requested.
+
+(b) A proposer may elect not to charge indirect costs and, instead, charge only direct costs to grant funds. Grantees electing this alternative will not be allowed to charge, as direct costs, indirect costs that otherwise would be in the grantee's indirect cost pool under the applicable Office of Management and Budget cost principles. Grantees who request no indirect costs will not be permitted to revise their budgets at a later date to charge indirect costs to grant funds.

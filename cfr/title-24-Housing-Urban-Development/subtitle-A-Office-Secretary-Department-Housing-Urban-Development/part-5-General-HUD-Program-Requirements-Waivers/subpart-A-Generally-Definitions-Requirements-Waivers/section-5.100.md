@@ -1,6 +1,6 @@
 ##### § 5.100 Definitions. #####
 
-Link to an amendment published at 81 FR 90657, Dec. 14, 2016.Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
+Link to an amendment published at 81 FR 92635, Dec. 20, 2016.
 
 The following definitions apply to this part and also in other regulations, as noted:
 
@@ -52,7 +52,11 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Guest,* only for purposes of 24 CFR part 5, subparts A and I, and parts 882, 960, 966, and 982, means a person temporarily staying in the unit with the consent of a tenant or other member of the household who has express or implied authority to so consent on behalf of the tenant. The requirements of parts 966 and 982 apply to a guest as so defined.
 
+*Homeownership counseling* means housing counseling related to homeownership and residential mortgage loans when provided in connection with HUD's Housing Counseling Program, or required by or provided in connection with HUD Programs as defined in § 5.111. Homeownership counseling is housing counseling that covers the decision to purchase a home, the selection and purchase of a home, issues arising during or affecting the period of ownership of a home (including financing, refinancing, default, and foreclosure, and other financial decisions) and the sale or other disposition of a home.
+
 *Household,* for purposes of 24 CFR part 5, subpart I, and parts, 960, 966, 882, and 982, means the family and PHA-approved live-in aide.
+
+*Housing counseling* is independent, expert advice customized to the need of the consumer to address the consumer's housing barriers and to help achieve their housing goals and must include the following processes: Intake; financial and housing affordability analysis; an action plan, except for reverse mortgage counseling; and a reasonable effort to have follow-up communication with the client when possible. The content and process of housing counseling must meet the standards outlined in 24 CFR part 214. Homeownership counseling and rental counseling are types of housing counseling.
 
 *HUD* means the same as *Department.*
 
@@ -76,6 +80,8 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Public Housing Agency (PHA)* means any State, county, municipality, or other governmental entity or public body, or agency or instrumentality of these entities, that is authorized to engage or assist in the development or operation of low-income housing under the 1937 Act.
 
+*Rental housing counseling* means counseling related to the rental of residential property, which may include counseling regarding future homeownership opportunities when provided in connection with HUD's Housing Counseling Program, or required under or provided in connection with HUD Programs as defined in § 5.111. Rental housing counseling may also include the decision to rent, responsibilities of tenancy, affordability of renting and eviction prevention.
+
 *Responsible entity* means:
 
 (1) For the public housing program, the Section 8 tenant-based assistance program (part 982 of this title), and the Section 8 project-based certificate or voucher programs (part 983 of this title), and the Section 8 moderate rehabilitation program (part 882 of this title), responsible entity means the PHA administering the program under an ACC with HUD;
@@ -92,4 +98,4 @@ The following definitions apply to this part and also in other regulations, as n
 
 *Violent criminal activity* means any criminal activity that has as one of its elements the use, attempted use, or threatened use of physical force substantial enough to cause, or be reasonably likely to cause, serious bodily injury or property damage.
 
-[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016]
+[61 FR 5202, Feb. 9, 1996, as amended at 63 FR 23853, Apr. 30, 1998; 65 FR 16715, Mar. 29, 2000; 66 FR 28791, May 24, 2001; 77 FR 5674, Feb. 3, 2012; 81 FR 64782, Sept. 21, 2016; 81 FR 90657, Dec. 14, 2016]

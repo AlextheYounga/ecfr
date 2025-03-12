@@ -1,0 +1,3 @@
+##### § 932.66 Right of the Secretary. #####
+
+The members of the committee (including successors and alternates) and any agents or employees appointed or employed by the committee, shall be subject to removal or suspension at any time by the Secretary. Each and every order, regulation, determination, decision, or other act of the committee shall be subject to the continuing right of the Secretary to disapprove of the same at any time. Upon such disapproval, such disapproved action shall be deemed null and void except as to acts done in reliance thereon or in compliance therewith prior to such disapproval by the Secretary.

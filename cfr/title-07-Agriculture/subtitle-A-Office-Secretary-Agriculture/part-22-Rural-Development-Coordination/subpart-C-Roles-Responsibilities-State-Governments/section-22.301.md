@@ -1,0 +1,3 @@
+##### § 22.301 Selection and designation. #####
+
+Procedures for implementing the Act are designed to give the fullest possible consideration to planning and development goals and strategies at the State and multicounty jurisdictional levels. The governing bodies of multicounty organizations should include representatives of local governments contained within the respective multicounty jurisdictions. State development strategies and priorities shall be fully considered in the Federal administration of Rural Development Act authorities.

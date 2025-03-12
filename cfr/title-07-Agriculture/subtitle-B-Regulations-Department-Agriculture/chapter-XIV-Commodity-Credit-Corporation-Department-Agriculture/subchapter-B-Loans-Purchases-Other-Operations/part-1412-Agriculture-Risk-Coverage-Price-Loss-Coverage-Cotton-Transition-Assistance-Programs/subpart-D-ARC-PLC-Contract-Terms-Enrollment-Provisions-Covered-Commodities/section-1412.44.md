@@ -1,0 +1,3 @@
+##### § 1412.44 Notification of base acres. #####
+
+Prior to enrolling the farm in the 2014 ARC or PLC program, the operator and each owner of record of a farm will be notified in writing of the number of base acres eligible for enrollment in a contract, unless such operator or owner of record of a farm requests in writing not to be furnished with the notice. The operator and each owner of record are responsible for notifying all other producers of a farm of the notice.

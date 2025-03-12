@@ -1,0 +1,3 @@
+##### § 930.81 Right of the Secretary. #####
+
+Members of the Board (including successors and alternates), and any agents, employees, or representatives thereof, shall be subject to removal or suspension by the Secretary at any time. Each regulation, decision, determination, or other act of the Board shall be subject to the Secretary's disapproval at any time. Upon such disapproval, the disapproved action of the Board shall be deemed null and void, except as to acts done in reliance thereon or in accordance therewith prior to such disapproval by the Secretary.

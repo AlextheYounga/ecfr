@@ -1,5 +1,7 @@
 ##### § 35.1215 Activities at initial and periodic inspection. #####
 
+Link to an amendment published at 82 FR 4170, Jan. 13, 2017.
+
 (a) (1) During the initial and periodic inspections, an inspector acting on behalf of the designated party and trained in visual assessment for deteriorated paint surfaces in accordance with procedures established by HUD shall conduct a visual assessment of all painted surfaces in order to identify any deteriorated paint.
 
 (2) For tenant-based rental assistance provided under the HOME program, visual assessment shall be conducted as part of the initial and periodic inspections required under § 92.209(i) of this title.

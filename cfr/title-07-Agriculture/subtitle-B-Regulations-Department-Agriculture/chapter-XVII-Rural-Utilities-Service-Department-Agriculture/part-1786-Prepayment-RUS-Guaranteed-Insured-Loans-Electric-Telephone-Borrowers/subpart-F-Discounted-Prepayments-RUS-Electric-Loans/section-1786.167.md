@@ -1,0 +1,7 @@
+##### § 1786.167 Restrictions to additional RUS financing. #####
+
+(a) No borrower that prepays an electric loan at a discount as provided under this subpart may apply for or receive direct or insured loans during the 120 months from the most recent closing date, except at the discretion of the Administrator. During the 120 month period the Administrator may consider providing an insured loan if, among other matters, it is necessary to assure repayment of, or protect the Government's security for any outstanding loans or loan guarantees, or the borrower's system has suffered severe physical plant related damage due to conditions beyond its control and the borrower is unable to obtain financing at reasonable terms to restore the system from non-RUS sources, including the Federal Emergency Management Agency, and from private sources. Upon expiration of the 120 months, such borrowers may apply for direct or insured loans in the same manner as other borrowers provided that such borrowers may not apply for direct or insured loans for facilities, construction of which commenced prior to the expiration of the 120 months. Special provisions for mergers involving a borrower that has prepaid pursuant to this subpart are in 7 CFR 1717.158.
+
+(b) Borrowers that prepay their direct or insured RUS loans under this subpart remain eligible for certain types of financial assistance under the RE Act, including loan guarantees and rural development loans.
+
+[59 FR 13620, Mar. 22, 1994, as amended at 61 FR 66874, Dec. 19, 1996]

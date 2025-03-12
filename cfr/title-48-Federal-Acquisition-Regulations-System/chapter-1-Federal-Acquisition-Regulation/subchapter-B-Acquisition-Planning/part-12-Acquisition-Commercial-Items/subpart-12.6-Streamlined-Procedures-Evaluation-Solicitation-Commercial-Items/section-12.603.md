@@ -20,7 +20,7 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
 
 (iv) A notice regarding any set-aside and the associated NAICS code and small business size standard.
 
-(v) A list of contract line item number(s) and items, quantities and units of measure, (including option(s), if applicable).
+(v) A list of line item number(s) and items, quantities, and units of measure (including option(s), if applicable).
 
 (vi) Description of requirements for the items to be acquired.
 
@@ -52,4 +52,4 @@ This is a combined synopsis/solicitation for commercial items prepared in accord
 
 (4) Publicize amendments to solicitations in the same manner as the initial synopsis and solicitation.
 
-[60 FR 48241, Sept. 18, 1995, as amended at 61 FR 41469, Aug. 8, 1996; 62 FR 264, Jan. 2, 1997; 65 FR 46056, July 26, 2000; 66 FR 27413, May 16, 2001; 68 FR 56679, Oct. 1, 2003; 73 FR 10962, Feb. 28, 2008; 75 FR 82567, Dec. 30, 2010]
+[60 FR 48241, Sept. 18, 1995, as amended at 61 FR 41469, Aug. 8, 1996; 62 FR 264, Jan. 2, 1997; 65 FR 46056, July 26, 2000; 66 FR 27413, May 16, 2001; 68 FR 56679, Oct. 1, 2003; 73 FR 10962, Feb. 28, 2008; 75 FR 82567, Dec. 30, 2010; 82 FR 4713, Jan. 13, 2017]

@@ -1,0 +1,3 @@
+##### § 51.571 Well trimmed. #####
+
+*Well trimmed* means that not more than 2 relatively thin, short or spindly, or coarse and fibrous outer branches remain; that the main root has been cut off so as not to extend more than 11/2 inches below the point of attachment of the lowest outer branch; that secondary rootlets are not of such number or length as to materially affect the appearance of the stalk; and, that the appearance is not materially affected by the presence of discolored leaves or by excessive removal of leaves or portions of leaves.

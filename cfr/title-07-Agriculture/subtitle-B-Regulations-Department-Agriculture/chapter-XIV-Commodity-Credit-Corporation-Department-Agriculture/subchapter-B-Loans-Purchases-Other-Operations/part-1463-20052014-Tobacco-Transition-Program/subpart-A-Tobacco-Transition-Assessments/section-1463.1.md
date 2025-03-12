@@ -1,0 +1,3 @@
+##### § 1463.1 General. #####
+
+The Commodity Credit Corporation (CCC) will levy assessments from January 1, 2005 through September 30, 2014 on certain domestic manufacturers and importers of tobacco products as provided for in this subpart in order to fund the issuance of payments made under subpart B of this part and to fund other activities authorized by Title VI of the American Jobs Creation Act of 2004. The total amount of assessments that may be collected under this part shall not exceed $10.140 billion.

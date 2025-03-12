@@ -1,0 +1,3 @@
+##### § 1.414 Docket number. #####
+
+Each proceeding, following its institution, shall be assigned a docket number by the Hearing Clerk, and thereafter the proceeding shall be referred to by such number. The Hearing Clerk shall notify the sourcing area applicant and the Regional Forester to whom the applicant submitted a copy of the application of the docket number and the name of the Judge to whom the case has been assigned. In a formal review of a sourcing area instituted by the Forest Service, the Hearing Clerk shall inform the sourcing area holder whose sourcing area is subject to the review and the Regional Forester who submitted the comments instituting the formal review of the docket number and the name of the Judge to whom the case has been assigned.

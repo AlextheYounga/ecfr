@@ -1,0 +1,3 @@
+##### § 982.80 Right of the Secretary. #####
+
+The members of the Board (including successors, alternates, or other persons selected by the Secretary), and any agent or employee appointed or employed by the Board, shall be subject to removal or suspension by the Secretary, in his discretion, at any time. Each and every order, regulation, decision, determination, or other act of the Board shall be subject to the continuing right of the Secretary to disapprove of the same at any time, and, upon such disapproval, shall be deemed null and void except as to acts done in reliance thereon or in compliance therewith.

@@ -1,0 +1,3 @@
+##### § 54.22 Denial or withdrawal of appeal service. #####
+
+A request for appeal service may be rejected or such service may be otherwise denied to or withdrawn from any person, without a hearing, in accordance with the procedure set forth in § 54.11(b), if it shall appear that the person or product involved is not eligible for appeal service under § 54.19, or that the identity of the product has been lost; or for any of the causes set forth in § 54.11(b). Appeal service may also be denied to, or withdrawn from, any person in any case under § 54.11(a), in accordance with the procedure set forth in said section.

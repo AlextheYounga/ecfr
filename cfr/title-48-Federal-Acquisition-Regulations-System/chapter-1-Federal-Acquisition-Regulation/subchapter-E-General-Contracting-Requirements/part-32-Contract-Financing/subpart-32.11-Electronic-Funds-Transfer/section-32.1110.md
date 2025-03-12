@@ -28,7 +28,7 @@
 
 (3) 52.232-36, Payment by Third Party.
 
-(f) If more than one disbursing office will make payment under a contract or agreement, the contracting officer, or ordering office (if the contract provides for choices between EFT clauses on individual orders or classes of orders), shall include or identify the EFT clause appropriate for each office and shall identify the applicability by disbursing office and contract line item.
+(f) If more than one disbursing office will make payment under a contract or agreement, the contracting officer, or ordering office (if the contract provides for choices between EFT clauses on individual orders or classes of orders), shall include or identify the EFT clause appropriate for each office and shall identify the applicability by disbursing office and line item.
 
 (g) If the solicitation contains the clause at 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management, and an offeror is required to submit EFT information prior to award -
 
@@ -40,4 +40,4 @@
 
 (ii) May not be released to members of the general public who request a copy of the bid.
 
-[64 FR 10540, Mar. 4, 1999, as amended at 68 FR 56673, Oct. 1, 2003; 68 FR 61866, Oct. 30, 2003; 74 FR 65605, Dec. 10, 2009; 77 FR 69718, Nov. 20, 2012; 78 FR 37680, June 21, 2013]
+[64 FR 10540, Mar. 4, 1999, as amended at 68 FR 56673, Oct. 1, 2003; 68 FR 61866, Oct. 30, 2003; 74 FR 65605, Dec. 10, 2009; 77 FR 69718, Nov. 20, 2012; 78 FR 37680, June 21, 2013; 82 FR 4714, Jan. 13, 2017]

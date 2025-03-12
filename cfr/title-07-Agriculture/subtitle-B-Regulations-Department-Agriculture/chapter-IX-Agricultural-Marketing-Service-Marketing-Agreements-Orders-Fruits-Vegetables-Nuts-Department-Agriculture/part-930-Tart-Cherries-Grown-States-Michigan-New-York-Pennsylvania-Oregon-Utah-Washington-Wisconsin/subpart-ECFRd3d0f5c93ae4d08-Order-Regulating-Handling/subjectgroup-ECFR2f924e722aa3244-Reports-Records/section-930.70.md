@@ -1,0 +1,7 @@
+##### § 930.70 Reports. #####
+
+(a) *Weekly production, monthly sales, and inventory data.* Each handler shall, upon request of the Board, file promptly with the Board, reports showing weekly production data; monthly sales and inventory data; and such other information, including the volume of any cherries placed in or released from a primary or secondary inventory reserve or diverted, as the Board shall specify with respect to any cherries handled by the handler. Such information may be provided to the Board members in summary or aggregated form only without any reference to the individual sources of the information.
+
+(b) *Other reports.* Upon the request of the Board, with the approval of the Secretary, each handler shall furnish to the Board such other information with respect to the cherries acquired, handled, stored and disposed of by such handler as may be necessary to enable the Board to exercise its powers and perform its duties under this part.
+
+(c) *Protection of proprietary information.* Under no circumstances shall any information or reports be made available to the Board members, or to any person designated by the Board or by the Secretary, which will reveal the proprietary information of an individual handler.

@@ -1,0 +1,3 @@
+##### § 15.123 Appeals from ruling of hearing officer. #####
+
+A ruling of the hearing officer may not be appealed to the Secretary prior to consideration of the entire proceeding by the hearing officer except with the consent of the hearing officer and where he certifies on the record or in writing that the allowance of an interlocutory appeal is clearly necessary to prevent exceptional delay, expense, or prejudice to any part or substantial detriment to the public interest. If an appeal is allowed, any party may file a brief with the Secretary within such period as the hearing officer directs. Oral argument will be heard in the discretion of the Secretary.

@@ -1,0 +1,5 @@
+##### § 1703.111 Grant and loan termination. #####
+
+(a) The financial assistance may be terminated when RUS and the recipient agree upon the conditions of the termination, the effective date of the termination, and, in the case of a partial termination of the financial assistance, any unadvanced portion of the financial assistance to be terminated and any advanced portion of the financial assistance to be returned.
+
+(b) The recipient may terminate the financial assistance by written notification to RUS, providing the reasons for such termination, the effective date, and, in the case of a partial termination, the portion of the financial assistance to be terminated. In the case of a partial termination, if RUS believes that the remaining portion of the financial assistance will not accomplish the approved purposes, then, RUS may terminate the financial assistance in its entirety, pursuant to the provisions of paragraph (a) of this section.

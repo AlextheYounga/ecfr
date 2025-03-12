@@ -1,0 +1,3 @@
+##### § 810.1803 Basis of determination. #####
+
+Each determination of heat-damaged kernels, damaged kernels, test weight per bushel, and dehulled seed is made on the basis of the grain when free from foreign material. Other determinations not specifically provided for in the general provisions are made on the basis of the grain as a whole, except the determination of odor is made on either the basis of the grain as a whole or the grain when free from foreign material.

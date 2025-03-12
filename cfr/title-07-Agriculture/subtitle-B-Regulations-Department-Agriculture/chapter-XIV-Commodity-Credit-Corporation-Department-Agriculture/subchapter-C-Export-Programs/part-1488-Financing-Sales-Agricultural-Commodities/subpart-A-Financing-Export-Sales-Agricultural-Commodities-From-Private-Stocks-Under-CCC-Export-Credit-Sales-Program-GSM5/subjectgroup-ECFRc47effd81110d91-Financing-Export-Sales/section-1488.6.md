@@ -1,0 +1,3 @@
+##### § 1488.6 Amendments to financing agreement. #####
+
+The financing agreement may be amended provided such amendment is in conformity with GSM-5 at the time of amendment and is determined to be in the interest of CCC. Amendments may include extension of the period for delivery or the period for export, and change in the interest rate. After the commodity has been delivered, CCC will consider requests to increase the amount of the sale registration value for any quantity within the tolerance in the sales contract and for carrying charges provided such requests relate to the same sale as originally registered with CCC.

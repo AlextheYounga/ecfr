@@ -1,0 +1,3 @@
+##### § 3565.305 Mortgage and closing requirements. #####
+
+It is the lender's responsibility to ensure that the loan closing statement and required loan documents are in a form acceptable to the Agency and included in the closing docket. The lender is responsible for resolving any underwriting and loan closing deficiencies that are found. The Agency's review of the lender's loan closing documentation does not constitute a waiver of fraud, misrepresentation, or failure of judgment by the lender.

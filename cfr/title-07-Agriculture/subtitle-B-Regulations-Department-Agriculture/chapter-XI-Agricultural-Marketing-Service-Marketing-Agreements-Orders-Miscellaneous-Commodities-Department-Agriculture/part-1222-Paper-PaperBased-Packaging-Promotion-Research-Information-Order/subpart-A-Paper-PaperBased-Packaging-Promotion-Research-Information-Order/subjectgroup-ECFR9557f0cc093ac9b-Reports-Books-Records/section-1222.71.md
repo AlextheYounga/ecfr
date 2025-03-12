@@ -1,0 +1,3 @@
+##### § 1222.71 Books and records. #####
+
+Each manufacturer and importer shall maintain any books and records necessary to carry out the provisions of this subpart and regulations issued thereunder, including such records as are necessary to verify any required reports. Such books and records must be made available during normal business hours for inspection by the Board's or Secretary's employees or agents. Manufacturers and importers must maintain the books and records for two years beyond the fiscal year to which they apply.

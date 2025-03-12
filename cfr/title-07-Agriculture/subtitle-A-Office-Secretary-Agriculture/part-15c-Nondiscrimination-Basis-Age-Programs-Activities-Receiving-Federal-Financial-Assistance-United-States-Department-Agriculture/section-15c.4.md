@@ -1,0 +1,5 @@
+##### § 15c.4 Compliance, assurance, and notice requirements. #####
+
+(a) USDA recipients have primary responsibility to ensure that their programs and activities are in compliance with the Age Act and this regulation and shall take steps to eliminate violations of the Age Act. Each recipient of Federal financial assistance from USDA shall sign a written assurance as specified by the Department that it shall comply with the Age Act and this regulation. Each recipient initially receiving funds from USDA that makes the funds available to a sub-recipient must notify the sub-recipient of its obligations under the Age Act.
+
+(b) Each recipient shall make necessary information about the Age Act and this regulation available to its beneficiaries in order to inform them about the protections against discrimination provided by the Act and this regulation.

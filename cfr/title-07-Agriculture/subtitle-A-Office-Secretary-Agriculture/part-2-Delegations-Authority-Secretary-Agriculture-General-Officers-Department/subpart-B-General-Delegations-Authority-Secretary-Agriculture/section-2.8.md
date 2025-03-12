@@ -1,0 +1,3 @@
+##### § 2.8 Delegations of authority to agency heads to order that the United States flag be flown at half-staff. #####
+
+Pursuant to section 5 of Proclamation 3044, 3 CFR, 1954-1958 Comp., p. 4, each general officer and agency head is delegated authority to order that the United States flag shall be flown at half-staff on buildings and grounds under his or her jurisdiction or control. This authority shall be exercised in accordance with directives promulgated by the Director, Office of Operations.

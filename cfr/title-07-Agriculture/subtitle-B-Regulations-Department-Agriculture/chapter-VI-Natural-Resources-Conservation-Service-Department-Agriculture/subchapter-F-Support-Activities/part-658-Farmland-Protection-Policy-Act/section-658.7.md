@@ -1,0 +1,11 @@
+##### § 658.7 USDA assistance with Federal agencies' reviews of policies and procedures. #####
+
+(a) Section 1542(a) of the Act, 7 U.S.C. 4203, states, “Each department, agency, independent commission or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall review current provisions of law, administrative rules and regulations, and policies and procedures applicable to it to determine whether any provision thereof will prevent such unit of the Federal Government from taking appropriate action to comply fully with the provisions of this subtitle.”
+
+(b) Section 1542(b) of the Act, 7 U.S.C. 4203, requires, as appropriate, each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, to develop proposals for action to bring its programs, authorities, and administrative activities into conformity with the purpose and policy of the Act.
+
+(c) USDA will provide certain assistance to other Federal agencies for the purposes specified in section 1542 of the Act, 7 U.S.C. 4203. If a Federal agency identifies or suggests changes in laws, administrative rules and regulations, policies, or procedures that may affect the agency's compliance with the Act, USDA can advise the agency of the probable effects of the changes on the protection of farmland. To request this assistance, officials of Federal agencies should correspond with the Chief, Natural Resources Conservation Service, P.O. Box 2890, Washington, DC 20013.
+
+(d) To meet the reporting requirements of section 1546 of the Act, 7 U.S.C. 4207, and for data collection purposes, each Federal agency is requested to report to the Chief of the Natural Resources Conservation Service by November 15th of each year on progress made during the prior fiscal year to implement sections 1542 (a) and (b) of the Act, 7 U.S.C. 4203 (a) and (b). Until an agency fully implements those sections, the agency should continue to make the annual report, but may omit the report upon full implementation. However, an agency is requested to file an annual report for any future year in which the agency has substantially changed its process for compliance with the Act.
+
+[49 FR 27724, July 5, 1984, as amended at 59 FR 31118, June 17, 1994]

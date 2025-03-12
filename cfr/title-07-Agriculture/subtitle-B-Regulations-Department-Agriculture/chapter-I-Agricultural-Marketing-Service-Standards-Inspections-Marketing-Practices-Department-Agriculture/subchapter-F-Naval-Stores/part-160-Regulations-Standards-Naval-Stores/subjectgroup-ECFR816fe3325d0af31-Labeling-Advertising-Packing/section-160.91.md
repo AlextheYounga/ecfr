@@ -1,0 +1,3 @@
+##### § 160.91 Meaning of words “pine” and “pine tree.” #####
+
+The words “pine” or “pine tree,” when used to designate the source of spirits of turpentine, shall be deemed to mean a living, growing plant of the genus *Pinus,* family Pinaceae, unless the words “wood of” are used in connection therewith. The terms “oleoresin of the southern pine” or “oleoresin from the southern pine” shall be deemed to mean the gum or oleoresin exuded by such living, growing trees, the source of gum spirits of turpentine.

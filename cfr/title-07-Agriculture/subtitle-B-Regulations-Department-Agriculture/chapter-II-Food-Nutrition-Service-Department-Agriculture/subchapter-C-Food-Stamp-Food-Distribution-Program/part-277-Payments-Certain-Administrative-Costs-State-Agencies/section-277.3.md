@@ -1,0 +1,3 @@
+##### § 277.3 Budgets and budget revision procedures. #####
+
+The preparation, content, submittal, and revision requirements for the State Food Stamp Program Budget shall be as specified in § 272.2. The application for funds and budget requirements for the Food Distribution Program on Indian Reservations shall be as specified in § 283.9. State agencies must submit a budget to FNS as part of the State Plan each fiscal year. Upon approval of the budget by FNS, administrative funds will be provided.

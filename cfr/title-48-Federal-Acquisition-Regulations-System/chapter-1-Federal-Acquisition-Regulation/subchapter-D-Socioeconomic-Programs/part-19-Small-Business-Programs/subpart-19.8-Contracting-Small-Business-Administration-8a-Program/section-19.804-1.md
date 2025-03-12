@@ -1,19 +1,23 @@
 ##### 19.804-1 Agency evaluation. #####
 
-In determining the extent to which a requirement should be offered in support of the 8(a) Program, the agency should evaluate -
+In determining the extent to which a requirement should be offered in support of the 8(a) program, the agency should evaluate -
 
-(a) Its current and future plans to acquire the specific items or work that 8(a) contractors are seeking to provide, identified in terms of -
+(a) Current and future plans to acquire the specific items or work that 8(a) participants are seeking to provide, identified in terms of -
 
-(1) Quantities required or the number of construction projects planned; and
+(1) Estimated quantities of the supplies or services required or the estimated number of construction projects planned; and
 
-(2) Performance or delivery requirements, including required monthly production rates, when applicable.
+(2) Performance or delivery requirements, including -
 
-(b) Its current and future plans to acquire items or work similar in nature and complexity to that specified in the business plan;
+(i) Required monthly production rates, when applicable; and
 
-(c) Problems encountered in previous acquisitions of the items or work from the 8(a) contractors and/or other contractors;
+(ii) For construction, the geographical location where work is to be performed;
 
-(d) The impact of any delay in delivery;
+(b) The impact of any delay in delivery;
 
-(e) Whether the items or work have previously been acquired using small business set-asides; and
+(c) Whether the items or work have previously been acquired using small business set-asides, and the date the items or work were acquired;
 
-(f) Any other pertinent information about known 8(a) contractors, the items, or the work. This includes any information concerning the firms' capabilities. When necessary, the contracting agency shall make an independent review of the factors in 19.803(a) and other aspects of the firms' capabilities which would ensure the satisfactory performance of the requirement being considered for commitment to the 8(a) Program.
+(d) Problems encountered in previous acquisitions of the items or work from the 8(a) participants or other contractors; and
+
+(e) Any other pertinent information about known 8(a) participants, the items, or the work. This includes any information concerning the participants' products or capabilities. When necessary, the contracting agency shall make an independent review of the factors in 19.803(a) and other aspects of the participants' capabilities which would ensure the satisfactory performance of the requirement being considered for commitment to the 8(a) program.
+
+[82 FR 4727, Jan. 13, 2017]

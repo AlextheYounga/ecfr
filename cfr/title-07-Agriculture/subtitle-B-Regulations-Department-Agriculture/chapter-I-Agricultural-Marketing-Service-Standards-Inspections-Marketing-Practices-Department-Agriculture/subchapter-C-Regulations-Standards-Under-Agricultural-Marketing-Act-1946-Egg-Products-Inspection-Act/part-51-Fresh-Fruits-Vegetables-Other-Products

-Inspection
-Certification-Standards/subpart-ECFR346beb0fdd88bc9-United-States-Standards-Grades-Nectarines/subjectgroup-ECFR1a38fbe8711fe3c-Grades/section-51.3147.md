@@ -1,0 +1,3 @@
+##### § 51.3147 U.S. No. 1. #####
+
+“U.S. No. 1” consists of nectarines of one variety which are mature but not soft or overripe, which are well formed, clean, and free from decay, broken skins which are not healed, worms, worm holes, and free from injury caused by split pit and free from damage caused by bruises, growth cracks, hail, sunburn, sprayburn, scab, bacterial spot, scale, scars, russeting, other disease, insects, or mechanical or other means.

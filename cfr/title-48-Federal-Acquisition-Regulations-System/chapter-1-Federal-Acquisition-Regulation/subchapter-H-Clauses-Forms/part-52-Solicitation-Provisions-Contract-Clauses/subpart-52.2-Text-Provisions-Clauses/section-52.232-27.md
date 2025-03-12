@@ -1,12 +1,12 @@
-##### 52.232-27 Prompt payment for construction contracts. #####
+##### 52.232-27 Prompt Payment for Construction Contracts. #####
 
 As prescribed in 32.908(b), insert the following clause:
 
-Prompt Payment for Construction Contracts (MAY 2014)
+Prompt Payment for Construction Contracts (JAN 2017)
 
 Notwithstanding any other payment terms in this contract, the Government will make invoice payments under the terms and conditions specified in this clause. The Government considers payment as being made on the day a check is dated or the date of an electronic funds transfer. Definitions of pertinent terms are set forth in sections 2.101, 32.001, and 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see paragraph (a)(3) concerning payments due on Saturdays, Sundays, and legal holidays.)
 
-(a) *Invoice payments* - (1) *Types of invoice payments.* For purposes of this clause, there are several types of invoice payments that may occur under this contract, as follows:
+(a) *Invoice payments*—(1) *Types of invoice payments.* For purposes of this clause, there are several types of invoice payments that may occur under this contract, as follows:
 
 (i) Progress payments, if provided for elsewhere in this contract, based on Contracting Officer approval of the estimated amount and value of work or services performed, including payments for reaching milestones in any project.
 
@@ -30,7 +30,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (ii) Invoice date and invoice number. (The Contractor should date invoices as close as possible to the date of mailing or transmission.)
 
-(iii) Contract number or other authorization for work or services performed (including order number and contract line item number).
+(iii) Contract number or other authorization for work or services performed (including order number and line item number).
 
 (iv) Description of work or services performed.
 
@@ -48,7 +48,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (A) The Contractor shall include EFT banking information on the invoice only if required elsewhere in this contract.
 
-(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer - System for Award Management , or 52.232-34, Payment by Electronic Funds Transfer - Other Than System for Award Management), or applicable agency procedures.
+(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer—System for Award Management , or 52.232-34, Payment by Electronic Funds Transfer—Other Than System for Award Management), or applicable agency procedures.
 
 (C) EFT banking information is not required if the Government waived the requirement to pay by EFT.
 
@@ -70,7 +70,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (5) *Discounts for prompt payment.* The designated payment office will pay an interest penalty automatically, without request from the Contractor, if the Government takes a discount for prompt payment improperly. The Government will calculate the interest penalty in accordance with the prompt payment regulations at 5 CFR part 1315.
 
-(6) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315 in addition to the interest penalty amount only if -
+(6) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315 in addition to the interest penalty amount only if—
 
 (A) The Government owes an interest penalty of $1 or more;
 
@@ -78,7 +78,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (C) The Contractor makes a written demand to the designated payment office for additional penalty payment, in accordance with paragraph (a)(6)(ii) of this clause, postmarked not later than 40 days after the date the invoice amount is paid.
 
-(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall -
+(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall—
 
 (*1*) Specifically assert that late payment interest is due under a specific invoice, and request payment of all overdue late payment interest penalty and such additional penalty as may be required;
 
@@ -86,7 +86,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (*3*) State that payment of the principal has been received, including the date of receipt.
 
-(B) If there is no postmark or the postmark is illegible -
+(B) If there is no postmark or the postmark is illegible—
 
 (1) The designated payment office that receives the demand will annotate it with the date of receipt provided the demand is received on or before the 40th day after payment was made; or
 
@@ -98,7 +98,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (1) *Prompt payment for subcontractors.* A payment clause that obligates the Contractor to pay the subcontractor for satisfactory performance under its subcontract not later than 7 days from receipt of payment out of such amounts as are paid to the Contractor under this contract.
 
-(2) *Interest for subcontractors.* An interest penalty clause that obligates the Contractor to pay to the subcontractor an interest penalty for each payment not made in accordance with the payment clause -
+(2) *Interest for subcontractors.* An interest penalty clause that obligates the Contractor to pay to the subcontractor an interest penalty for each payment not made in accordance with the payment clause—
 
 (i) For the period beginning on the day after the required payment date and ending on the date on which payment of the amount due is made; and
 
@@ -110,19 +110,19 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (ii) Require each of its subcontractors to include such clauses in their subcontracts with each lower-tier subcontractor or supplier.
 
-(d) *Subcontract clause interpretation.* The clauses required by paragraph (c) of this clause shall not be construed to impair the right of the Contractor or a subcontractor at any tier to negotiate, and to include in their subcontract, provisions that -
+(d) *Subcontract clause interpretation.* The clauses required by paragraph (c) of this clause shall not be construed to impair the right of the Contractor or a subcontractor at any tier to negotiate, and to include in their subcontract, provisions that—
 
 (1) *Retainage permitted.* Permit the Contractor or a subcontractor to retain (without cause) a specified percentage of each progress payment otherwise due to a subcontractor for satisfactory performance under the subcontract without incurring any obligation to pay a late payment interest penalty, in accordance with terms and conditions agreed to by the parties to the subcontract, giving such recognition as the parties deem appropriate to the ability of a subcontractor to furnish a performance bond and a payment bond;
 
 (2) *Withholding permitted.* Permit the Contractor or subcontractor to make a determination that part or all of the subcontractor's request for payment may be withheld in accordance with the subcontract agreement; and
 
-(3) *Withholding requirements.* Permit such withholding without incurring any obligation to pay a late payment penalty if -
+(3) *Withholding requirements.* Permit such withholding without incurring any obligation to pay a late payment penalty if—
 
 (i) A notice conforming to the standards of paragraph (g) of this clause previously has been furnished to the subcontractor; and
 
 (ii) The Contractor furnishes to the Contracting Officer a copy of any notice issued by a Contractor pursuant to paragraph (d)(3)(i) of this clause.
 
-(e) *Subcontractor withholding procedures.* If a Contractor, after making a request for payment to the Government but before making a payment to a subcontractor for the subcontractor's performance covered by the payment request, discovers that all or a portion of the payment otherwise due such subcontractor is subject to withholding from the subcontractor in accordance with the subcontract agreement, then the Contractor shall -
+(e) *Subcontractor withholding procedures.* If a Contractor, after making a request for payment to the Government but before making a payment to a subcontractor for the subcontractor's performance covered by the payment request, discovers that all or a portion of the payment otherwise due such subcontractor is subject to withholding from the subcontractor in accordance with the subcontract agreement, then the Contractor shall—
 
 (1) *Subcontractor notice.* Furnish to the subcontractor a notice conforming to the standards of paragraph (g) of this clause as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
 
@@ -130,9 +130,9 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (3) *Subcontractor progress payment reduction.* Reduce the subcontractor's progress payment by an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (e)(1) of this clause;
 
-(4) *Subsequent subcontractor payment.* Pay the subcontractor as soon as practicable after the correction of the identified subcontract performance deficiency, and -
+(4) *Subsequent subcontractor payment.* Pay the subcontractor as soon as practicable after the correction of the identified subcontract performance deficiency, and—
 
-(i) Make such payment within -
+(i) Make such payment within—
 
 (A) Seven days after correction of the identified subcontract performance deficiency (unless the funds therefor must be recovered from the Government because of a reduction under paragraph (e)(5)(i)) of this clause; or
 
@@ -140,35 +140,35 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (ii) Incur an obligation to pay a late payment interest penalty computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under 41 U.S.C. 7109 in effect at the time the Contractor accrues the obligation to pay an interest penalty;
 
-(5) *Notice to Contracting Officer.* Notify the Contracting Officer upon -
+(5) *Notice to Contracting Officer.* Notify the Contracting Officer upon—
 
 (i) Reduction of the amount of any subsequent certified application for payment; or
 
-(ii) Payment to the subcontractor of any withheld amounts of a progress payment, specifying -
+(ii) Payment to the subcontractor of any withheld amounts of a progress payment, specifying—
 
 (A) The amounts withheld under paragraph (e)(1) of this clause; and
 
 (B) The dates that such withholding began and ended; and
 
-(6) *Interest to Government.* Be obligated to pay to the Government an amount equal to interest on the withheld payments (computed in the manner provided in 31 U.S.C. 3903(c)(1)), from the 8th day after receipt of the withheld amounts from the Government until -
+(6) *Interest to Government.* Be obligated to pay to the Government an amount equal to interest on the withheld payments (computed in the manner provided in 31 U.S.C. 3903(c)(1)), from the 8th day after receipt of the withheld amounts from the Government until—
 
 (i) The day the identified subcontractor performance deficiency is corrected; or
 
 (ii) The date that any subsequent payment is reduced under paragraph (e)(5)(i) of this clause.
 
-(f) *Third-party deficiency reports* - (1) *Withholding from subcontractor.* If a Contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with 40 U.S.C. 3133, asserting a deficiency in such first-tier subcontractor's performance under the contract for which the Contractor may be ultimately liable, and the Contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, the Contractor may, without incurring an obligation to pay an interest penalty under paragraph (e)(6) of this clause -
+(f) *Third-party deficiency reports*—(1) *Withholding from subcontractor.* If a Contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with 40 U.S.C. 3133, asserting a deficiency in such first-tier subcontractor's performance under the contract for which the Contractor may be ultimately liable, and the Contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, the Contractor may, without incurring an obligation to pay an interest penalty under paragraph (e)(6) of this clause—
 
 (i) Furnish to the first-tier subcontractor a notice conforming to the standards of paragraph (g) of this clause as soon as practicable upon making such determination; and
 
 (ii) Withhold from the first-tier subcontractor's next available progress payment or payments an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (f)(1)(i) of this clause.
 
-(2) *Subsequent payment or interest charge.* As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the Contractor shall -
+(2) *Subsequent payment or interest charge.* As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the Contractor shall—
 
 (i) Pay the amount withheld under paragraph (f)(1)(ii) of this clause to such first-tier subcontractor; or
 
 (ii) Incur an obligation to pay a late payment interest penalty to such first-tier subcontractor computed at the rate of interest established by the Secretary of the Treasury, and published in the Federal Register, for interest payments under 41 U.S.C. 7109 in effect at the time the Contractor accrues the obligation to pay an interest penalty.
 
-(g) *Written notice of subcontractor withholding.* The Contractor shall issue a written notice of any withholding to a subcontractor (with a copy furnished to the Contracting Officer), specifying -
+(g) *Written notice of subcontractor withholding.* The Contractor shall issue a written notice of any withholding to a subcontractor (with a copy furnished to the Contracting Officer), specifying—
 
 (1) The amount to be withheld;
 
@@ -184,18 +184,18 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (k) *Non-recourse for prime contractor interest penalty.* The Contractor's obligation to pay an interest penalty to a subcontractor pursuant to the clauses included in a subcontract under paragraph (c) of this clause shall not be construed to be an obligation of the Government for such interest penalty. A cost-reimbursement claim may not include any amount for reimbursement of such interest penalty.
 
-(l) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall -
+(l) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall—
 
-(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (i) Circumstances of the overpayment (*e.g.*, duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
 (ii) Affected contract number and delivery order number if applicable;
 
-(iii) Affected contract line item or subline item, if applicable; and
+(iii) Affected line item or subline item, if applicable; and
 
 (iv) Contractor point of contact.
 
 (2) Provide a copy of the remittance and supporting documentation to the Contracting Officer.
 
-(End of clause)[66 FR 65361, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 70 FR 57455, Sept. 30, 2005; 73 FR 54007, Sept. 17, 2008; 78 FR 37683, June 21, 2013; 79 FR 24224, Apr. 29, 2014]
+(End of clause)[66 FR 65361, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 70 FR 57455, Sept. 30, 2005; 73 FR 54007, Sept. 17, 2008; 78 FR 37683, June 21, 2013; 79 FR 24224, Apr. 29, 2014; 82 FR 4715, Jan. 13, 2017]

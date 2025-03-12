@@ -1,0 +1,3 @@
+##### § 4280.104 Exception authority. #####
+
+The Administrator may, with the concurrence of the Secretary of Agriculture, make an exception, on a case-by-case basis, to any requirement or provision of this subpart that is not inconsistent with any authorizing statute or applicable law, if the Administrator determines that application of the requirement or provision would adversely affect the Federal Government's financial interest.

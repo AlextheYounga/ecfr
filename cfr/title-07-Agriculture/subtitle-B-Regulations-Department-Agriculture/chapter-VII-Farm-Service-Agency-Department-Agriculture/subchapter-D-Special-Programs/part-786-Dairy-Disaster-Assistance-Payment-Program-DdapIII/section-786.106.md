@@ -1,0 +1,25 @@
+##### § 786.106 Determination of losses incurred. #####
+
+(a) Eligible payable losses are calculated on a dairy operation by dairy operation basis and are limited to those occurring during the applicable disaster claim period, as provided by § 786.104(g), that corresponds with the applicable natural disaster declaration. Specifically, dairy production losses incurred by producers under this part are determined on the established history of the dairy operation's average number of cows in the dairy herd and actual commercial production marketed during the base period and applicable disaster claim period that corresponds with the applicable natural disaster declaration, as provided by the dairy operation consistent with § 786.105. Except as otherwise provided in this part, the base annual production, as defined in § 786.102 and established in § 786.104(g) is determined for each applicable disaster year based on the average annual production per cow determined according to the following:
+
+(1) The average of annual marketed production during the base period calendar years of 2003 and 2004, divided by;
+
+(2) The average number of cows in the dairy operation's herd during the base period calendar years of 2003 and 2004.
+
+(b) If relevant information to calculate the average annual production per cow for one or both of the base period calendar years of 2003 and 2004, is not available, an alternative method of determining the average annual production per cow may be established by the FSA Administrator. For example, for new dairies not in operation during 2003 and 2004, information from three similar farms may be obtained by FSA to estimate base annual production.
+
+(c) The average annual production per cow, as determined according to paragraphs (a)(1) and (a)(2) of this section, is multiplied by the average number of cows in the dairy operation's herd during the applicable disaster year (excluding cow losses resulting from the disaster occurrence), to determine base annual production for the dairy operation for each applicable disaster claim period year.
+
+(d) The eligible dairy production losses for a dairy operation for each of the authorized disaster claim period years will be:
+
+(1) The relevant period's base annual production for the dairy operation calculated under paragraph (c) of this section less,
+
+(2) For each such disaster claim period for each dairy operation the actual commercially-marketed production relevant to that period.
+
+(e) Spoiled or dumped milk, disposed of for reasons unrelated to the disaster occurrence, must be counted as production for the relevant disaster claim period. Actual production losses may be adjusted to the extent the reduction in production is not certified by the producer to be the result of the disaster identified in the natural disaster declaration or is determined by FSA not to be related to the natural disaster identified in the natural disaster declaration. FSA county committees will determine production losses that are not caused by the disaster associated with the natural disaster declaration. The calculated production loss determined in § 786.106(d) will be adjusted to account for pounds of production losses determined by the FSA county committee to not have been associated with the declared natural disaster for an eligible disaster county. The FSA county committee may convert cow numbers to actual pounds of production used in the adjustment, by multiplying the average annual production per cow determined from base period information, by the applicable number of cows determined to be ineligible to generate claims for benefits. Other appropriate adjustments will be made on such basis as the Deputy Administrator finds to be consistent with the objectives of the program.
+
+(f) Actual production, as adjusted, that exceeds the base annual production will mean that the dairy operation incurred no eligible production losses for the corresponding claim period as a result of the natural disaster.
+
+(g) Eligible production losses as otherwise determined under paragraphs (a) through (f) of this section for each authorized year of the program are added together to determine total eligible losses incurred by the dairy operation under DDAP-III subject to all other eligibility requirements as may be included in this part or elsewhere, including the deduction for previous payments including those made under a previous DDAP program.
+
+(h) Payment on eligible dairy operation losses will be calculated using whole pounds of milk. No double counting is permitted, and only one payment will be made for each pound of milk calculated as an eligible loss after the distribution of the dairy operation's eligible production loss among the producers of the dairy operation according to § 786.107(b). Payments under this part will not be affected by any payments for dumped or spoiled milk that the dairy operation may have received from its milk handler, marketing cooperative, or any other private party; however, produced milk that was dumped or spoiled for reasons unrelated to the disaster occurrence will still count as production.

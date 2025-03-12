@@ -1,0 +1,3 @@
+##### § 996.72 Confidential information. #####
+
+All reports and records furnished or submitted by handlers and importers to USDA which include data or information constituting a trade secret or disclosing a trade position, financial condition, or business operations of the particular handlers or their customers shall be received by, and at all times kept in the custody and control of one or more employees of USDA, and, except as provided in § 996.74 or otherwise provided by law, such information shall not be disclosed to any person outside USDA.

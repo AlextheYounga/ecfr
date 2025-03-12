@@ -1,0 +1,5 @@
+##### § 1214.520 Late payment and interest charges for past due assessments. #####
+
+(a) A late payment charge shall be imposed on any producer or importer who fails to make timely remittance to the Board of the total assessments for which such producer or importer is liable. The late payment charge will be imposed on any assessments not received within 30 calendar days of the date they are due. This one-time late payment charge shall be $250 and will be increased to $500 after 90 days of delinquency.
+
+(b) In addition to the late payment charge, 1.5 percent per month interest on the outstanding balance, including any late payment charge and accrued interest, will be added to any accounts for which payment has not been received by the Board within 30 calendar days after the date the assessments are due. Such interest will continue to accrue monthly until the outstanding balance is paid to the Board.

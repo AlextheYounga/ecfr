@@ -1,0 +1,3 @@
+##### § 1717.159 Applications for RUS approvals of mergers. #####
+
+If a proposed merger requires RUS approval according to RUS regulations and/or the loan documents executed by any of the active borrowers involved, the application must be submitted to RUS not later than 90 days prior to the effective date of the proposed borrower action. A distribution borrower should consult with its assigned RUS general field representative, and a power supply borrower with the Director, Power Supply Division for general information prior to submitting the request.

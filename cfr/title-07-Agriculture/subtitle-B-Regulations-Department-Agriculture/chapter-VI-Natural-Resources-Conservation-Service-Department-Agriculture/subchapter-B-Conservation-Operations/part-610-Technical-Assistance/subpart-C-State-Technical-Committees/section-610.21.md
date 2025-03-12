@@ -1,0 +1,3 @@
+##### § 610.21 Purpose and scope. #####
+
+This subpart sets forth the procedures for establishing and using the advice of State Technical Committees. The Natural Resources Conservation Service (NRCS) will establish in each State a Technical Committee to assist in making recommendations relating to the implementation and technical aspects of natural resource conservation activities and programs. The Department of Agriculture (USDA) will use State Technical Committees in an advisory capacity in the administration of certain conservation programs and initiatives. Pursuant to 16 U.S.C. 3862(d), these State Technical Committees and Local Working Groups are exempt from the provisions of the Federal Advisory Committee Act (5 U.S.C. App. 2).

@@ -1,0 +1,5 @@
+##### § 1410.61 Filing of false claims. #####
+
+If the Deputy Administrator determines that any participant has knowingly supplied false information or has knowingly filed a false claim, such participant shall be ineligible for payments under this part with respect to the program year in which the false information or claim was filed and the contract may be terminated, in which case a full refund of all prior payments may be demanded. False information or false claims include, but are not limited to, claims for payment for practices that do not comply with the conservation plan. Any amounts paid under these circumstances shall be refunded, together plus with interest as determined by the Deputy Administrator, and any amounts otherwise due to the participant shall be withheld. The remedies provided for in this section shall be in addition to any and all other remedies, criminal and/or civil, that may apply.
+
+[68 FR 24835, May 8, 2003, as amended at 80 FR 42005, July 16, 2015]

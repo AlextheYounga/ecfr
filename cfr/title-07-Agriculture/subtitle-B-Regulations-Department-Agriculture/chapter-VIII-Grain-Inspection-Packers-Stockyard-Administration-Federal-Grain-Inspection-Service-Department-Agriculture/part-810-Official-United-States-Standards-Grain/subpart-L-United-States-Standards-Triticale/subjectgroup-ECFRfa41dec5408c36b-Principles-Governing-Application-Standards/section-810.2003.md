@@ -1,0 +1,3 @@
+##### § 810.2003 Basis of determination. #####
+
+Each determination of heat-damaged kernels, damaged kernels, material other than wheat or rye, and foreign material (total) is made on the basis of the grain when free from dockage and shrunken and broken kernels. Other determinations not specifically provided for under the general provisions are made on the basis of the grain when free from dockage except the determination of odor is made on either the basis of the grain as a whole or the grain when free from dockage.

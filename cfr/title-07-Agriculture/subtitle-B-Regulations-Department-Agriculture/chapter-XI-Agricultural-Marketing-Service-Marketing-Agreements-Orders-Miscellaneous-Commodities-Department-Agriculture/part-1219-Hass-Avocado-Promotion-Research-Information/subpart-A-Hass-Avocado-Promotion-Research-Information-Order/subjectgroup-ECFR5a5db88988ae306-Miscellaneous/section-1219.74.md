@@ -1,0 +1,3 @@
+##### § 1219.74 Personal liability. #####
+
+No member, alternate member, employee, or agent of the Board shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any person for errors in judgment, mistakes, or other acts, either of Association or omission, as such member, alternate, employee, or agent, except for acts of dishonesty or willful misconduct.

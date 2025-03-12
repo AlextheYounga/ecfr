@@ -1,0 +1,3 @@
+##### § 1944.668 Term of grant. #####
+
+HPG projects may be funded under the terms of a grant agreement for a period of up to 2 years commencing on the date of execution of the grant agreement by the Rural Development approval official. Term of the project will be based upon HPG resources available for the proposed project and the accomplishability of the applicant's proposal within 1 or 2 years. Applicants requesting a 2 year term may be asked to develop a feasible 1 year program if sufficient funds are not available for a 2 year program.

@@ -1,0 +1,3 @@
+##### § 51.3148 U.S. No. 2. #####
+
+“U.S. No. 2” consists of nectarines of one variety which are mature but not soft or overripe, which are not badly misshapen, which are clean and free from decay, broken skins which are not healed, worms, worm holes, and free from serious damage caused by bruises, growth cracks, hail, sunburn, sprayburn, scab, bacterial spot, scale, split pit, scars, russeting, other disease, insects, or mechanical or other means.

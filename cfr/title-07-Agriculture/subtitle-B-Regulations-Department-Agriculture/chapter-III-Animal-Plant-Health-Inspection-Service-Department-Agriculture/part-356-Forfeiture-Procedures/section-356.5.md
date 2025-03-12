@@ -1,0 +1,5 @@
+##### § 356.5 Bonded release. #####
+
+(a) The Deputy Administrator may accept a bond or other security, in the amount of the value of the property as determined under § 356.3, in place of any property specified in § 356.1 and release the property to the owner or agent of the property, if such action would not frustrate the purposes of the Act and Convention. As an example, this section does not allow the release of terrestrial plants that are without documentation required under 50 CFR chapter I.
+
+(b) Any request for the return of property based on the acceptance of a bond or other security shall be submitted in writing to the Deputy Administrator. The request shall include evidence to establish that the person making the request is the sole owner of the property referred to in the request or is the agent of the sole owner of such property. A response in writing, granting or denying the request, and the reasons therefor, shall be sent to the person making the request.

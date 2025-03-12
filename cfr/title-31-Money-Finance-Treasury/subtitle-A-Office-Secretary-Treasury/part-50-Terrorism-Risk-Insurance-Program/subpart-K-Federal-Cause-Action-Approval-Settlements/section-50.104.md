@@ -1,0 +1,3 @@
+##### § 50.104 Subrogation. #####
+
+An insurer shall not waive its rights of subrogation under its property and casualty insurance policy with respect to any losses the payment of which the insurer intends to include in its insurer deductible or the aggregate insured losses for purposes of calculating the Federal share of compensation of its insured losses and shall, unless upon request the United States agrees in writing to forbear from exercising such right, preserve the subrogation right of the United States as provided by section 107(c) of the Act by not taking any action that would prejudice the subrogation right of the United States.

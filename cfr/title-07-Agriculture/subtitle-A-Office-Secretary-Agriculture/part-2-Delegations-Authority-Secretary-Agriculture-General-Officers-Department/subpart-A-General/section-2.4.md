@@ -1,0 +1,5 @@
+##### § 2.4 General officers #####
+
+The work of the Department is under the supervision and control of the Secretary who is assisted by the following general officers: The Deputy Secretary, the Under Secretary for Farm and Foreign Agricultural Services; the Under Secretary for Rural Development; the Under Secretary for Food Safety; the Under Secretary for Food, Nutrition, and Consumer Services; the Under Secretary for Natural Resources and Environment; the Under Secretary for Research, Education, and Economics; the Under Secretary for Marketing and Regulatory Programs; the Assistant Secretary for Congressional Relations; the Assistant Secretary for Administration; the Assistant Secretary for Civil Rights; the Chief Financial Officer; the Chief Economist; the Director, Office of Budget and Program Analysis; the General Counsel; the Inspector General; the Director, National Appeals Division; the Judicial Officer; the Director, Office of Communications; the Director, Office of Small and Disadvantaged Business Utilization; the Director, Office of Tribal Relations; and the Chief Information Officer.
+
+[79 FR 44105, July 30, 2014]

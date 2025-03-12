@@ -1,0 +1,3 @@
+##### § 4279.137 Financial statements. #####
+
+Except for audited financial statements required by § 4279.71, the lender will determine the type and frequency of submission of financial statements by the borrower and any guarantors. At a minimum, annual financial statements prepared by an accountant in accordance with GAAP are required, except for personal financial statements and cooperative stock purchase loans in accordance with § 4279.115(a) that do not have to be prepared in accordance with GAAP. However, if the loan amount exceeds $10 million or if circumstances warrant, the Agency may require annual audited financial statements.

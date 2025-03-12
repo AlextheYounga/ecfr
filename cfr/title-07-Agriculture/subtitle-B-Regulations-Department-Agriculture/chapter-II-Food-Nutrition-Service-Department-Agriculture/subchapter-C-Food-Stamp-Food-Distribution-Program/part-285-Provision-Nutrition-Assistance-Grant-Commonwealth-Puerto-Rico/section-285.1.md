@@ -1,0 +1,3 @@
+##### § 285.1 General purpose and scope. #####
+
+This part describes the general terms and conditions under which grant funds shall be provided by the Food and Nutrition Service (FNS) to the government of the Commonwealth of Puerto Rico for the purpose of designing and conducting a nutrition assistance program for needy persons. The Commonwealth of Puerto Rico is authorized to establish eligibility and benefit levels for the nutrition assistance program. In addition, with FNS approval, the Commonwealth of Puerto Rico may employ a small proportion of the grant funds to finance projects that the Commonwealth of Puerto Rico believes likely to improve or stimulate agriculture, food production, and food distribution.

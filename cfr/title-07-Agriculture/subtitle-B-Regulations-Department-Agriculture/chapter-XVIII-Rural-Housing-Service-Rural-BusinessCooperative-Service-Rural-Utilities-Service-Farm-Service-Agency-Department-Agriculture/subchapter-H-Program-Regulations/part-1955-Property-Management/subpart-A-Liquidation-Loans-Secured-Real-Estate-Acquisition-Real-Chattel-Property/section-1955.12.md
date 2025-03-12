@@ -1,0 +1,3 @@
+##### § 1955.12 Acquisition of property which served as security for a loan guarantee by Rural Development or at sale by another lienholder, bankruptcy trustee, or taxing authority. #####
+
+When the servicing regulations for the type of loan(s) involved permit Rural Development to acquire property by one of these methods, the acquisition will be reported in accordance with § 1955.18(a) of this subpart.

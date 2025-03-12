@@ -1,0 +1,3 @@
+##### § 1.182 When EAJA applies. #####
+
+EAJA applies to any adversary adjudication pending or commenced before the Department on or after August 5, 1985, except with respect to a proceeding covered under § 1.183(a)(1)(iii) of this part, which is effective on or after October 21, 1986. In addition, the provisions of § 1.185(b) relating to award for excessive demand apply only to adversary adjudications commenced on or after March 29, 1996. Changes in maximum rates for attorney fees are effective as of October 11, 2002.

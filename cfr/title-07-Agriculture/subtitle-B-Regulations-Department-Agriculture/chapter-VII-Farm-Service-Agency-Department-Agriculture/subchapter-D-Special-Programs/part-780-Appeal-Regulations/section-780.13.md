@@ -1,0 +1,5 @@
+##### § 780.13 Verbatim transcripts. #####
+
+(a) Appellants and their representatives are precluded from making any electronic recording of any portion of a hearing or other proceeding conducted in accordance with this part. Appellants interested in obtaining an official recording of a hearing or other proceeding may request a verbatim transcript in accordance with paragraph (b) of this section.
+
+(b) Any party to an appeal or request for reconsideration under this part may request that a verbatim transcript be made of the hearing proceedings and that such transcript be made the official record of the hearing. The party requesting a verbatim transcript shall pay for the transcription service, provide a copy of the transcript to FSA free of charge, and allow any other party in the proceeding desiring to purchase a copy of the transcript to order it from the transcription service.

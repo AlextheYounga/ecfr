@@ -1,0 +1,3 @@
+##### § 1951.897 Exception authority. #####
+
+The Administrator may, in individual cases, grant an exception to any requirement or provision of this subpart which is not inconsistent with an applicable law or opinion of the Comptroller General, provided the Administrator determines that application of the requirement or provision would adversely affect the Government's interest. The basis for this exception will be fully documented. The documentation will: demonstrate the adverse impact; identify the particular requirement involved; and show how the adverse impact will be eliminated.

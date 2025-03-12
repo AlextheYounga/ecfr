@@ -1,5 +1,7 @@
 ##### § 35.1135 Eligible costs. #####
 
+Link to an amendment published at 82 FR 4170, Jan. 13, 2017.
+
 A PHA may use financial assistance received under the modernization program (CIAP or CGP) for the notice, evaluation and reduction of lead-based paint hazards in accordance with § 968.112 of this title. Eligible costs include:
 
 (a) *Evaluation and insurance costs.* Evaluation and hazard reduction activities, and costs for insurance coverage associated with these activities.

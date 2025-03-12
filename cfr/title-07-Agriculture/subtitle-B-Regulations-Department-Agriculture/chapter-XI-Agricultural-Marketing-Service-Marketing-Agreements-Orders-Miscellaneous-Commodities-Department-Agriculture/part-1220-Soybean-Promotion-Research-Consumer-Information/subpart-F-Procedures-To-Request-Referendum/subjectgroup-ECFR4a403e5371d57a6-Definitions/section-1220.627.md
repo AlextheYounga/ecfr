@@ -1,0 +1,3 @@
+##### § 1220.627 FSA State office report. #####
+
+Each FSA State office shall transmit to the Administrator, FSA, as soon as possible, but in no event later than the 20th business day following the final day of the Request for Referendum period, a report summarizing the data contained in each of the reports from the county FSA offices. One copy of the State summary shall be filed for a period of not less than 12 months after the results have been released and available for public inspection after the results have been released.

@@ -1,5 +1,7 @@
 ##### § 35.110 Definitions. #####
 
+Link to an amendment published at 82 FR 4166, Jan. 13, 2017.
+
 *Abatement* means any set of measures designed to permanently eliminate lead-based paint or lead-based paint hazards (see definition of “permanent”). Abatement includes:
 
 (1) The removal of lead-based paint and dust-lead hazards, the permanent enclosure or encapsulation of lead-based paint, the replacement of components or fixtures painted with lead-based paint, and the removal or permanent covering of soil-lead hazards; and

@@ -1,0 +1,3 @@
+##### § 23.3 Coordination. #####
+
+The chief administrative officer of the administratively responsible State Land Grant University will designate an official who will be responsible for the overall coordination of the authorized programs for the State. The designated official will be responsible for the overall coordination of planning, organizing, funding, conducting and evaluating programs in association with the person responsible for the administration of research programs, the person responsible for the administration of the extension programs, and the administrative head of agriculture of the University (chairman of the State Rural Development Advisory Council).

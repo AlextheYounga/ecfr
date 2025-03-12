@@ -1,0 +1,3 @@
+##### § 54.1009 Order of furnishing service. #####
+
+Service under the regulations shall be furnished to applicants, insofar as practicable and subject to the availability of a qualified design review specialist, in the order in which requests therefor are received, insofar as consistent with good management, efficiency and economy. Precedence will be given, when necessary, to requests made by any government agency and to requests for appeal service under § 54.1021.

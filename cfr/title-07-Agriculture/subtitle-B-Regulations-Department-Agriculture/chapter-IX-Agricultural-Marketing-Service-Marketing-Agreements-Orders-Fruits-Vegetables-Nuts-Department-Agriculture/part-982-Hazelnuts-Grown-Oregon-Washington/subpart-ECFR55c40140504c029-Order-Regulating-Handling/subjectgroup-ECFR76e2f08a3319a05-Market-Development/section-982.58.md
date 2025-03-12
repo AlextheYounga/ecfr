@@ -1,0 +1,9 @@
+##### § 982.58 Research, promotion, and market development. #####
+
+(a) *General.* The Board, with the approval of the Secretary, may establish or provide for the establishment of projects involving production research, marketing research and development, and marketing promotion, including paid advertising, designed to assist, improve, or promote the marketing, distribution, consumption, or efficient production of hazelnuts. The Board may also provide for crediting the pro rata expense assessment obligations of a handler with such portion of such handler's direct expenditures for such marketing promotion including paid advertising as may be authorized. The expenses of such projects shall be paid from funds collected pursuant to § 982.61, § 982.63, or credited pursuant to paragraph (b) of this section.
+
+(b) *Creditable expenditures.* The Board, with the approval of the Secretary, may provide for crediting all or any portion of a handler's direct expenditures for marketing promotion including paid advertising, that promotes the sale of hazelnuts, hazelnut products, or their uses. No handler shall receive credit for any allowable direct expenditures that would exceed the total of the handler's assessment obligation which is attributable to that portion of the handler's assessment designated for marketing promotion including paid advertising.
+
+(c) *Rules and regulations.* Before any projects involving marketing promotion, including paid advertising and the crediting of the pro rata expense assessment obligation of handlers is undertaken pursuant to this section, the Secretary, after recommendation by the Board, shall prescribe appropriate rules and regulations as are necessary to effectively administer such projects.
+
+[51 FR 29549, Aug. 19, 1986, as amended at 61 FR 17560, Apr. 22, 1996]

@@ -1,0 +1,3 @@
+##### § 774.1 Introduction. #####
+
+The regulations of this part contain the terms and conditions under which loans are made under the Emergency Loan for Seed Producers Program. These regulations are applicable to applicants, borrowers, and other parties involved in making, servicing, and liquidating these loans. The program objective is to assist certain seed producers adversely affected by the bankruptcy filing of AgriBiotech.

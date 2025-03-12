@@ -1,0 +1,3 @@
+##### § 1000.18 Cooperative association. #####
+
+*Cooperative association* means any cooperative marketing association of producers which the Secretary determines is qualified under the provisions of the Capper-Volstead Act, has full authority in the sale of milk of its members, and is engaged in marketing milk or milk products for its members. A federation of 2 or more cooperatives incorporated under the laws of any state will be considered a cooperative association under any Federal milk order if all member cooperatives meet the requirements of this section.

@@ -1,0 +1,3 @@
+##### § 15.81 How proceedings are commenced. #####
+
+Proceedings are commenced by mailing a notice to an applicant or recipient of alleged noncompliance with the Act and the Secretary's regulations thereunder. The notice will be signed by the interested agency head or by the Secretary and shall be filed with the hearing clerk for proper service by the hearing clerk according to the rules of this subpart. The notice shall include either a notice of hearing or notice of opportunity to request a hearing as determined by the Secretary and shall comply with the requirements of § 15.9(a).

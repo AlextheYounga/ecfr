@@ -1,0 +1,3 @@
+##### § 4284.901 Purpose. #####
+
+This subpart implements the Value-Added Agricultural Product Market Development grant program (Value-Added Producer Grants (VAPG)) administered by the Rural Business-Cooperative Service whereby grants are made to enable viable Agricultural Producers (those who are prepared to progress to the next business level of planning for, or engaging in, Value-Added Agricultural Production) to develop businesses that produce and market Value-Added Agricultural Products and to create marketing opportunities for such businesses. The provisions of this subpart constitute the entire provisions applicable to this Program; the provisions of subpart A of this part do not apply to this subpart.

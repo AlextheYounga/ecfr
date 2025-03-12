@@ -1,18 +1,16 @@
 ##### § 155.555 Employer appeals process. #####
 
-Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
-
 (a) *General requirements.* The provisions of this section apply to employer appeals processes through which an employer may, in response to a notice under § 155.310(h), appeal a determination that the employer does not provide minimum essential coverage through an employer-sponsored plan or that the employer does provide that coverage but it is not affordable coverage with respect to an employee.
 
-(b) *Exchange employer appeals process.* An Exchange may establish an employer appeals process in accordance with the requirements of this section, § 155.505(f) through (g), and § 155.510(a)(1), (a)(2), and (c). Where an Exchange has not established an employer appeals process, HHS will provide an employer appeals process that meets the requirements of this section, §§ 155.505(f) through (g), and 155.510(a)(1), (a)(2), and (c).
+(b) *Exchange employer appeals process.* An Exchange may establish an employer appeals process in accordance with the requirements of this section and §§ 155.505(f) through (h) and 155.510(a)(1) and (2) and (c). Where an Exchange has not established an employer appeals process, HHS will provide an employer appeals process that meets the requirements of this section and §§ 155.505(f) through (h) and 155.510(a)(1) and (2) and (c).
 
-(c) *Appeal request.* The Exchange and appeals entity, as applicable, must -
+(c) *Appeal request.* The Exchange and appeals entity, as applicable, must—
 
 (1) Allow an employer to request an appeal within 90 days from the date the notice described under § 155.310(h) is sent;
 
 (2) Allow an employer to submit relevant evidence to support the appeal;
 
-(3) Allow an employer to submit an appeal request to -
+(3) Allow an employer to submit an appeal request to—
 
 (i) The Exchange or the Exchange appeals entity, if the Exchange establishes an employer appeals process; or
 
@@ -22,11 +20,11 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (5) Consider an appeal request valid if it is submitted in accordance with paragraph (c)(1) of this section and with the purpose of appealing the determination identified in the notice specified in § 155.310(h).
 
-(d) *Notice of appeal request.* (1) Upon receipt of a valid appeal request, the appeals entity must -
+(d) *Notice of appeal request.* (1) Upon receipt of a valid appeal request, the appeals entity must—
 
 (i) Send timely acknowledgement of the receipt of the appeal request to the employer, including an explanation of the appeals process;
 
-(ii) Send timely notice to the employee of the receipt of the appeal request, including -
+(ii) Send timely notice to the employee of the receipt of the appeal request, including—
 
 (A) An explanation of the appeals process;
 
@@ -36,7 +34,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (iii) Promptly notify the Exchange of the appeal, if the employer did not initially make the appeal request to the Exchange.
 
-(2) Upon receipt of an invalid appeal request, the appeals entity must promptly and without undue delay send written notice to the employer that the appeal request is not valid because it fails to meet the requirements of this section. The written notice must inform the employer -
+(2) Upon receipt of an invalid appeal request, the appeals entity must promptly and without undue delay send written notice to the employer that the appeal request is not valid because it fails to meet the requirements of this section. The written notice must inform the employer—
 
 (i) That the appeal request has not been accepted;
 
@@ -46,7 +44,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (iv) Treat as valid an amended appeal request that meets the requirements of this section, including standards for timeliness.
 
-(e) *Transmittal and receipt of records.* (1) Upon receipt of a valid appeal request under this section, or upon receipt of the notice under paragraph (d)(1)(iii) of this section, the Exchange must promptly transmit via secure electronic interface to the appeals entity -
+(e) *Transmittal and receipt of records.* (1) Upon receipt of a valid appeal request under this section, or upon receipt of the notice under paragraph (d)(1)(iii) of this section, the Exchange must promptly transmit via secure electronic interface to the appeals entity—
 
 (i) The appeal request, if the appeal request was initially made to the Exchange; and
 
@@ -54,7 +52,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (2) The appeals entity must promptly confirm receipt of records transmitted pursuant to paragraph (e)(1) of this section to the entity that transmitted the records.
 
-(f) *Dismissal of appeal.* The appeals entity -
+(f) *Dismissal of appeal.* The appeals entity—
 
 (1) Must dismiss an appeal under the circumstances specified in § 155.530(a)(1) or if the request fails to comply with the standards in paragraph (c)(4) of this section.
 
@@ -62,11 +60,11 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (3) May vacate a dismissal if the employer makes a written request within 30 days of the date of the notice of dismissal showing good cause as to why the dismissal should be vacated.
 
-(g) *Procedural rights of the employer.* The appeals entity must provide the employer the opportunity to -
+(g) *Procedural rights of the employer.* The appeals entity must provide the employer the opportunity to—
 
 (1) Provide relevant evidence for review of the determination of an employee's eligibility for advance payments of the premium tax credit or cost-sharing reductions;
 
-(2) Review -
+(2) Review—
 
 (i) The information described in § 155.310(h)(1);
 
@@ -76,7 +74,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (h) *Confidentiality of employee information.* Neither the Exchange nor the appeals entity may make available to an employer any tax return information of an employee as prohibited by section 6103 of the Code.
 
-(i) *Adjudication of employer appeals.* Employer appeals must -
+(i) *Adjudication of employer appeals.* Employer appeals must—
 
 (1) Be reviewed by one or more impartial officials who have not been directly involved in the employee eligibility determination implicated in the appeal;
 
@@ -84,7 +82,7 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (3) Be reviewed *de novo.*
 
-(j) *Appeal decisions.* Employer appeal decisions must -
+(j) *Appeal decisions.* Employer appeal decisions must—
 
 (1) Be based exclusively on the information and evidence described in paragraph (i)(2) of this section and the eligibility standards in 45 CFR part 155, subpart D;
 
@@ -92,15 +90,15 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (3) Comply with the requirements set forth in § 155.545(a)(3) through (5).
 
-(k) *Notice of appeal decision.* The appeals entity must provide written notice of the appeal decision within 90 days of the date the appeal request is received, as administratively feasible, to -
+(k) *Notice of appeal decision.* The appeals entity must provide written notice of the appeal decision within 90 days of the date the appeal request is received, as administratively feasible, to—
 
-(1) The employer. Such notice must include -
+(1) The employer. Such notice must include—
 
 (i) The appeal decision; and
 
 (ii) An explanation that the appeal decision does not foreclose any appeal rights the employer may have under subtitle F of the Code.
 
-(2) The employee. Such notice must include -
+(2) The employee. Such notice must include—
 
 (i) The appeal decision; and
 
@@ -116,4 +114,4 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (m) *Appeal record.* Subject to the requirements of § 155.550 and paragraph (h) of this section, the appeal record must be accessible to the employer and to the employee in a convenient format and at a convenient time.
 
-[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12345, Mar. 8, 2016]
+[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12345, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016]

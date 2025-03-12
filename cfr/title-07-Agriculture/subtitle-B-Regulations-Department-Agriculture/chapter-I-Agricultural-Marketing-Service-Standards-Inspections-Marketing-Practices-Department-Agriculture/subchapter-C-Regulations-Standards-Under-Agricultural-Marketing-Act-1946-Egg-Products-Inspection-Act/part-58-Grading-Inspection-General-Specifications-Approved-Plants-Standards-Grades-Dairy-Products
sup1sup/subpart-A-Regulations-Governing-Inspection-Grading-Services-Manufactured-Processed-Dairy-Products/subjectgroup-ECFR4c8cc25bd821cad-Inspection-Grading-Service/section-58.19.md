@@ -1,0 +1,5 @@
+##### § 58.19 Issuance of inspection or grading certificates. #####
+
+An inspection or grading certificate shall be issued to cover a product inspected or graded in accordance with Instructions issued by the Administrator and shall be signed by an inspector or grader. This does not preclude an inspector or grader from granting a power of attorney to another person to sign in his stead, if such grant of power of attorney has been approved by the Administrator: *Provided,* That in all cases any such certificate shall be prepared in accordance with the facts set forth in the official memorandum defined in § 58.2(b): And provided further, that whenever a certificate is signed by a person under a power of attorney the certificate should so indicate. The signature of the holder of the power shall appear in conjunction with the name of the grader or inspector who personally graded or inspected the product.
+
+[39 FR 986, Jan. 4, 1974. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981]

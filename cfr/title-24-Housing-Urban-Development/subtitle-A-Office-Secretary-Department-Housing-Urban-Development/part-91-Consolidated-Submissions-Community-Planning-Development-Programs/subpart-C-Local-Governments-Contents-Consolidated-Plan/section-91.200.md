@@ -1,7 +1,5 @@
 ##### § 91.200 General. #####
 
-Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
-
 (a) A complete consolidated plan consists of the information required in § 91.200 through § 91.230, submitted in accordance with instructions prescribed by HUD (including tables and narratives), or in such other format as jointly agreed upon by HUD and the jurisdiction. A comprehensive housing affordability strategy consists of the information required in § 91.200 through § 91.215(e), § 91.215(h) through § 91.215(l), § 91.220(c), § 91.220(g), § 91.225 and § 91.230.
 
 (b) The jurisdiction shall describe:
@@ -18,8 +16,12 @@ Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
 
 (iii) Publicly funded institutions and systems of care that may discharge persons into homelessness (such as health-care facilities, mental health facilities, foster care and other youth facilities, and corrections programs and institutions);
 
-(iv) Other entities.
+(iv) Commencing with consolidated plans submitted on or after January 1, 2018, public and private organizations, including broadband internet service providers and organizations engaged in narrowing the digital divide;
+
+(v) Commencing with consolidated plans submitted on or after January 1, 2018, agencies whose primary responsibilities include the management of flood prone areas, public land or water resources, and emergency management agencies; and
+
+(vi) Other entities.
 
 (c) In order to facilitate citizen review and comment each year, the plan shall contain a concise executive summary that includes the objectives and outcomes identified in the plan as well as an evaluation of past performance. The plan shall also include a concise summary of the citizen participation process, public comments, and efforts made to broaden public participation in the development of the consolidated plan.
 
-[71 FR 6963, Feb. 9, 2006, as amended at 76 FR 75968, Dec. 5, 2011]
+[71 FR 6963, Feb. 9, 2006, as amended at 76 FR 75968, Dec. 5, 2011; 81 FR 91011, Dec. 16, 2016]

@@ -1,0 +1,3 @@
+##### § 1208.44 Alternate members. #####
+
+An alternate member of the Council, during the absence of the member for whom the person is the alternate, shall act in the place and stead of such member and perform such duties as assigned. In the event of death, removal, resignation, or disqualification of any member, the alternate for that member shall automatically assume the position of said member. In the event that a producer, importer, foreign producer, or at-large member of the Council and their alternate are unable to attend a meeting, the Council may not designate any other alternate to serve in such member's or alternate's place and stead for such a meeting.

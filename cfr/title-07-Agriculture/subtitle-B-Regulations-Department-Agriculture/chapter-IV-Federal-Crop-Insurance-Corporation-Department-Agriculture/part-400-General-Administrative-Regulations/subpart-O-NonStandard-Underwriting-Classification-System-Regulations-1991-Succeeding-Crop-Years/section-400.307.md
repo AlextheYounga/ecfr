@@ -1,0 +1,5 @@
+##### § 400.307 Discontinuance of participation. #####
+
+If the person has discontinued participation in the crop insurance program, the person will still be included on the NCS list in the county until the person has discontinued participation as a policyholder or a person with a substantial beneficial interest in a policyholder for at least 10 consecutive crop years. The most recent nonstandard classification assigned will be continued from year to year until participation has been renewed for at least one crop year and at least three years of insurance experience have occurred in the current base period. A nonstandard classification will no longer be applicable to the person or the person on identified acreage if the Corporation determines the person is deceased.
+
+[62 FR 22877, Apr. 28, 1997]

@@ -1,0 +1,3 @@
+##### § 996.4 Handle. #####
+
+*Handle* means to engage in the receiving or acquiring, cleaning and shelling, cleaning inshell, or crushing of domestic or imported peanuts and in the shipment (except as a common or contract carrier of peanuts owned by another) or sale of cleaned-inshell or shelled peanuts or other activity causing peanuts to enter into human consumption channels of commerce: *Provided,* That this term does not include sales or deliveries of peanuts by a producer to a handler or to an intermediary person engaged in delivering peanuts to handler(s): *And provided further,* That this term does not include sales or deliveries of peanuts by such intermediary person(s) to a handler.

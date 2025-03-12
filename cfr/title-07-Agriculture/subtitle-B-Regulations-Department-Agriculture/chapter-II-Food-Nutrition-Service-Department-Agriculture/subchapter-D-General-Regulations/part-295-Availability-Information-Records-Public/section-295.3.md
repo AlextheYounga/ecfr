@@ -1,0 +1,3 @@
+##### § 295.3 Informational and educational publications. #####
+
+FNS publishes a wide variety of informational and educational periodicals, pamphlets, brochures, leaflets, guides, and educational aids explaining the operation of FNS food assistance programs. For more information concerning FNS publications and how to obtain them, write the Director, Public Information Staff, Food and Nutrition Service, USDA, 3101 Park Center Drive, Alexandria, VA 22302-1500.

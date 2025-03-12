@@ -1,0 +1,15 @@
+##### § 1207.320 Establishment and membership. #####
+
+(a) There is hereby established a National Potato Promotion Board, hereinafter called the “Board”, composed of producers, importers, and a public member appointed by the Secretary. Producer members shall be appointed from nominations submitted by producers in the various States or groups of States pursuant to § 1207.322. Importer members shall be appointed from nominations submitted by importers pursuant to § 1207.322. The public member shall be nominated by Board members in such manner as recommended by the Board and approved by the Secretary, and shall be appointed by the Secretary.
+
+(b) Producer membership upon the Board shall be determined on the basis of the potato production reported in the latest Crop Production Annual Summary Report issued by the Crop Reporting Board, U.S. Department of Agriculture. Unless the Secretary, upon recommendation of the Board, determines an alternate basis, for each five million hundredweight of such production, or major fraction thereof, produced within each State, such State shall be entitled to one member. However, each State shall initially be entitled to at least one member.
+
+(c) The number of importer member positions on the Board shall be based on the hundredweights of potatoes, potato products equivalent to fresh potatoes, and seed potatoes imported into the United States but shall not exceed five importer members. Unless the Secretary, upon recommendation of the Board, determines an alternate basis, there shall be one importer member position for each 5 million hundredweight, or major fraction thereof, of potatoes, potato product equivalents, and seed potatoes imported into the United States.
+
+(d) Any State in which the potato producers fail to respond to an officially called nomination meeting may be combined with an adjacent State for the purpose of representation on the Board, in which case the Board's producer member selected by the Secretary will represent both States, but such member's voting power under § 1207.325 shall not be increased.
+
+(e) The Secretary, upon recommendation of the Board, may establish, through rule making procedure, districts or groups of States in order to change the representation requirements for membership on the Board. In such event the voting power of members under § 1207.325 would be based upon the total production within the new district or group of States.
+
+(f) Should the Board fail to nominate a public member, the Secretary may appoint such member.
+
+[37 FR 5008, Mar. 9, 1972, as amended at 49 FR 20806, May 17, 1984; 49 FR 31390, Aug. 7, 1984; 56 FR 40229, Aug. 14, 1991]

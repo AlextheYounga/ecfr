@@ -1,0 +1,5 @@
+##### § 51.3052 U.S. No. 2. #####
+
+“U.S. No. 2” consists of avocados of similar varietal characteristics which are mature but not overripe, fairly well formed, clean, fairly well colored, well trimmed and which are free from decay and freezing injury and are free from serious damage caused by anthracnose, bruises, cuts or other skin breaks, pulled stems, russeting or similar discoloration, scars or scab, sunburn, sunscald or sprayburn, cercospora spot, other disease, insects, or mechanical or other means.
+
+(a) *Tolerances.* In order to allow for variations incident to proper grading and handling, not more than a total of 10 percent, by count, of the avocados in any lot may fail to meet the requirements of this grade: *Provided,* That not more than one-half of this amount, or 5 percent, shall be allowed for avocados affected by decay or seriously damaged by anthracnose, including therein not more than 1 percent for avocados affected by decay. (See §§ 51.3055 and 51.3056.)

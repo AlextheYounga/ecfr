@@ -1,0 +1,3 @@
+##### § 1000.19 Commercial food processing establishment. #####
+
+*Commercial food processing establishment* means any facility, other than a milk plant, to which fluid milk products and fluid cream products are disposed of, or producer milk is diverted, that uses such receipts as ingredients in food products and has no other disposition of fluid milk products other than those received in consumer-type packages (1 gallon or less). Producer milk diverted to commercial food processing establishments shall be subject to the same provisions relating to diversions to plants, including, but not limited to, §§ \_\_\_\_.13 and \_\_\_\_.52 of each Federal milk order.

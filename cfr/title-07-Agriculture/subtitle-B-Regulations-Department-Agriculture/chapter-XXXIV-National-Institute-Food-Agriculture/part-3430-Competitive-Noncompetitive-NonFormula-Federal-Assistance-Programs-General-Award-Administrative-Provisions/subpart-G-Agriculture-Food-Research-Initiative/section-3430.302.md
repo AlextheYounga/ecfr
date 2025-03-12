@@ -1,0 +1,19 @@
+##### § 3430.302 Definitions. #####
+
+The definitions applicable to the competitive grant programs under this subpart include:
+
+*Food and Agricultural Science Enhancement (FASE) awards* means funding awarded to eligible applicants to strengthen science capabilities of Project Directors, to help institutions develop competitive scientific programs, and to attract new scientists into careers in high-priority areas of National need in agriculture, food, and environmental sciences. FASE awards may apply to any of the three agricultural knowledge components (*i.e.,* research, education, and extension). FASE awards include Pre- and Postdoctoral Fellowships, New Investigator grants, and Strengthening grants.
+
+*Limited institutional success* means institutions that are not among the most successful universities and colleges for receiving Federal funds for science and engineering research. A list of successful institutions will be provided in the RFA.
+
+*Minority* means Alaskan Native, American Indian, AsianAmerican, African-American, Hispanic American, Native Hawaiian, or Pacific Islander. The Secretary will determine on a case-by-case basis whether additional groups qualify under this definition, either at the Secretary's initiative, or in response to a written request with supporting explanation.
+
+*Minority-serving institution* means an accredited academic institution whose enrollment of a single minority or a combination of minorities exceeds fifty percent of the total enrollment, including graduate and undergraduate and full- and part-time students. An institution in this instance is an organization that is independently accredited as determined by reference to the current version of the *Higher Education Directory,* published by Higher Education Publications, Inc., 6400 Arlington Boulevard, Suite 648, Falls Church, Virginia 22042.
+
+*Multidisciplinary project* means a project on which investigators from two or more disciplines collaborate to address a common problem. These collaborations, where appropriate, may integrate the biological, physical, chemical, or social sciences.
+
+*Small and mid-sized institutions* means academic institutions with a current total enrollment of 17,500 or less, including graduate and undergraduate as well as full- and part-time students. An institution, in this instance, is an organization that possesses a significant degree of autonomy. Significant degree of autonomy is defined by being independently accredited as determined by reference to the current version of the *Higher Education Directory,* published by Higher Education Publications, Inc., 6400 Arlington Boulevard, Suite 648, Falls Church, Virginia 22042 (703-532-2300).
+
+*Strengthening grants* means funds awarded to institutions eligible for FASE grants to enhance institutional capacity, with the goal of leading to future funding in the project area, as well as strengthening the competitiveness of the investigator's research, education, and/or extension activities. Strengthening grants consist of standard and Coordinated Agricultural Project (CAP) grant types as well as seed grants, equipment grants, and sabbatical grants.
+
+*USDA EPSCoR States* (Experimental Program for Stimulating Competitive Research) means States which have been less successful in receiving funding from AFRI, or its predecessor, the National Research Initiative (NRI), having a funding level no higher than the 38th percentile of all States based on a 3-year rolling average of AFRI and/or NRI funding levels, excluding FASE Strengthening funds granted to EPSCoR States, and small, mid-sized, and minority-serving degree-granting institutions. The most recent list of USDA EPSCoR States will be provided in the RFA.

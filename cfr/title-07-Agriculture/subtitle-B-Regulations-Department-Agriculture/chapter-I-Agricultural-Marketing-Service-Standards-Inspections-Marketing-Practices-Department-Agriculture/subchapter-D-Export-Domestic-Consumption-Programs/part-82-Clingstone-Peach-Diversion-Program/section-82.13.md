@@ -1,0 +1,5 @@
+##### § 82.13 Records and accounts. #####
+
+(a) The growers participating in this program must keep accurate records and accounts showing the details relative to the clingstone peach tree removal, including the contract entered into with any firm removing the trees, as well as the invoices.
+
+(b) The growers must permit authorized representatives of USDA, the CCPA, and the Government Accountability Office at any reasonable time to inspect, examine, and make copies of such records and accounts to determine compliance with provisions of this part. Such records and accounts must be retained for ten years after the date of payment to the grower under the program, or for ten years after the date of any audit of records by USDA, whichever is later. Any destruction of records by the grower at any time will be at the risk of the grower when there is reason to know, believe, or suspect that matters may be or could be in dispute or remain in dispute.

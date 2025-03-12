@@ -1,0 +1,3 @@
+##### § 91.33 When an application for an appeal of a laboratory service may be withdrawn. #####
+
+An application for an appeal of a laboratory service may be withdrawn by the applicant at any time before the appealed laboratory service is performed; *Provided,* That, the applicant shall pay, at the hourly rate prescribed in § 91.37, for the time incurred by the laboratory personnel, any travel, telephone, telegraph, or other expenses which have been incurred by the laboratory service in connection with such application.

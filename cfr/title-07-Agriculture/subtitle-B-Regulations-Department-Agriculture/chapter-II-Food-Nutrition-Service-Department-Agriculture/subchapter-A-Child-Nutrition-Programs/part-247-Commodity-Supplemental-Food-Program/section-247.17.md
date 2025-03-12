@@ -1,0 +1,7 @@
+##### § 247.17 Notification of discontinuance of participant. #####
+
+(a) *What must a local agency do if it has evidence that a participant is no longer eligible for CSFP benefits during the certification period?* If a local agency has evidence that a participant is no longer eligible for CSFP benefits during the certification period, it must provide the participant with a written notification of discontinuance at least 15 days before the effective date of discontinuance.
+
+(b) *What must a local agency do if it has to discontinue a participant from participation in the program prior to the end of the certification period due to the lack of resources necessary to continue providing benefits to the participant?* If a local agency does not have sufficient resources, such as a sufficient number of caseload slots, to continue providing benefits to the participant(s) for the entire certification period, it must provide the participant(s) with a written notification of discontinuance at least 15 days before the effective date of discontinuance.
+
+(c) *What must be included in the notification of discontinuance?* The notification of discontinuance must include the effective date of discontinuance, the reason for the participant's discontinuance, a statement of the individual's right to appeal the discontinuance through the fair hearing process, in accordance with § 247.33(a), and a statement that informs the applicant that program standards are applied without discrimination by race, color, national origin, age, sex, or disability.

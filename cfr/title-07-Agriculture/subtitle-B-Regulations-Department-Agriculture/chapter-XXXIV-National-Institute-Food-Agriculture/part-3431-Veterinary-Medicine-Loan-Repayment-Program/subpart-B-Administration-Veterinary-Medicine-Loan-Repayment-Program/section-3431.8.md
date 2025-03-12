@@ -1,0 +1,5 @@
+##### § 3431.8 Purpose and scope. #####
+
+(a) *Purpose.* The regulations of this subpart apply to the award of veterinary medicine loan repayments under the Veterinary Medicine Loan Repayment Program (VMLRP) authorized by the National Veterinary Medicine Service Act, 7 U.S.C. 3151a.
+
+(b) *Scope.* Under the VMLRP, the Secretary enters into service agreements with veterinarians to pay principal and interest on education loans of veterinarians who agree to work in veterinary shortage situations for a prescribed period of time. In addition, program participants may enter into an agreement to provide services to the Federal government in emergency situations in exchange for salary, travel, per diem expenses, and additional amounts of loan repayment assistance. The purpose of the program is to assure an adequate supply of trained food animal veterinarians in shortage situations and provide USDA with a pool of veterinary specialists to assist in the control and eradication of animal disease outbreaks.

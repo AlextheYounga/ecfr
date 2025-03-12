@@ -1,0 +1,3 @@
+##### § 955.7 Handle. #####
+
+*Handle* or *ship* means to package, load, sell, transport, or in any other way to place Vidalia onions, or cause Vidalia onions to be placed, in the current of commerce within the production area or between the production area and any point outside thereof. Such term shall not include the transportation, sale, or delivery of field-run Vidalia onions to a person within the production area for the purpose of having such Vidalia onions prepared for market.

@@ -1,0 +1,3 @@
+##### § 1220.243 Confidential treatment. #####
+
+Except as otherwise provided in the Act, financial or commercial information that is obtained under the Act and this subpart and that is privileged and confidential shall be kept confidential by all persons, including employees and former employees of the Board, all officers and employees and all former officers and employees of the Department, and by all officers and employees and all former officers and employees of contracting agencies having access to such information, and shall not be available to Board members or any other producers. Only those persons having a specific need for such information in order to effectively administer the provisions of this part shall have access to such information.

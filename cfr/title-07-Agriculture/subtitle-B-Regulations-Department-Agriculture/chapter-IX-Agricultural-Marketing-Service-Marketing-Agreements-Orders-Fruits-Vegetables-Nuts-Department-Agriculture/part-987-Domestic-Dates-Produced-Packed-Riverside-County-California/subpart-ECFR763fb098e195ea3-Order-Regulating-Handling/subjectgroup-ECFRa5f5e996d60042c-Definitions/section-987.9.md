@@ -1,0 +1,5 @@
+##### § 987.9 Handle. #####
+
+*Handle* means to sell, consign, transport, or ship (except as a common or contract carrier of dates owned by another person) or in any way to put dates into the current of commerce including the shipment or delivery of utility dates or cull dates into nonhuman consumption outlets, except that sales or deliveries, by producers, of other than cull dates, to a handler within the area of production, or the movement of dates by a handler to storage for his account within the area of production, or counties adjoining the area of production, shall not be considered handling. The Committee, with the approval of the Secretary, may establish monitoring procedures for storage of dates in Orange, San Diego, and Yuma Counties.
+
+[36 FR 15037, Aug. 12, 1971, as amended at 43 FR 4250, 4251, Feb. 1, 1978]

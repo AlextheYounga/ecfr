@@ -1,0 +1,3 @@
+##### § 654.18 Natural Resources Conservation Service responsibility. #####
+
+The Natural Resources Conservation Service will assist the sponsor(s) in developing a watershed or RC&D measure plan which includes a description of O&M work and estimated cost, assist in the preparation of O&M agreements and plans of O&M, enter into O&M agreements with the sponsor(s), and notify the sponsor(s) of observed failures to comply with the O&M agreement.

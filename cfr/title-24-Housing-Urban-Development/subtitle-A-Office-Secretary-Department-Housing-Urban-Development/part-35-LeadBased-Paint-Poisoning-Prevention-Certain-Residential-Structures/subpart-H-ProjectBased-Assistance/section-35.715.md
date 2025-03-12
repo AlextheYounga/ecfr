@@ -1,5 +1,7 @@
 ##### § 35.715 Multifamily properties receiving more than $5,000 per unit. #####
 
+Link to an amendment published at 82 FR 4167, Jan. 13, 2017.
+
 The requirements of this section shall apply to a multifamily residential property that is receiving an average of more than $5,000 per assisted dwelling unit annually in project-based assistance.
 
 (a) *Risk assessment.* Each owner shall complete a risk assessment in accordance with § 35.1320(b). A risk assessment is considered complete when the owner receives the risk assessment report. Until the owner conducts a risk assessment as required by this section, the requirements of paragraph (d) of this section shall apply. After the risk assessment has been conducted the requirements of paragraphs (b) and (c) of this section shall apply. Each risk assessment shall be completed no later than the following schedule or a schedule otherwise determined by HUD:

@@ -1,0 +1,3 @@
+##### § 1217.4 Board foot. #####
+
+*Board foot* or *BF* means a unit of measurement of softwood lumber represented by a board 12-inches long, 12-inches wide, and 1-inch thick or its cubic equivalent. A board foot calculation for softwood lumber 1 inch or more in thickness is based on its nominal thickness and width and the actual length. Softwood lumber with a nominal thickness of less than 1 inch is calculated as 1 inch.

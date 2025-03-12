@@ -1,0 +1,3 @@
+##### § 15f.25 Will USDA pay my attorneys fees if I win? #####
+
+If you prevail on your eligible complaint, either in whole or in part, after a proceeding before an ALJ under the procedures in this subpart, you may be eligible for an award of attorneys fees as a prevailing party under the Equal Access to Justice Act (EAJA), 5 U.S.C. 504. To get an EAJA award, you must file an application for such fees with the ALJ within 30 days after the final determination is made. Instructions for filing an EAJA application and obtaining an EAJA award are contained in 7 CFR part 1, subpart J. The ALJ must follow those rules, and not these Section 741 Complaint Request rules, in making any EAJA award.

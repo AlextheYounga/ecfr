@@ -1,0 +1,97 @@
+##### § 215.13a Determining eligibility for free milk in child-care institutions. #####
+
+(a) *General.* Child care institutions which operate pricing programs may elect to make free milk available, as set forth in § 215.7(d)(2), to children who meet the approved eligibility criteria. Such child care institutions shall determine the children who are eligible for free milk and assure that there is no physical segregation of, or other discrimination against, or overt identification of, children unable to pay the full price for milk.
+
+(b) *Action by State agencies and FNSROs.* Each State agency, or FNSRO where applicable, upon application for the program by a child care institution operating a pricing program, and annually thereafter, shall require the institution to state whether or not it wishes to serve free milk to eligible children at times that milk is provided under the Program. It shall annually require each child care institution electing to provide free milk to submit a free milk policy statement and shall provide such institutions with a prototype free milk policy statement and a copy of the State's family-size income standards for determining eligibility for free meals and milk under the National School Lunch and School Breakfast Programs to assist the institutions in meeting its responsibilities.
+
+(c) *Action by institutions.* Each child care institution which operates a pricing program shall inform the State agency, or FNSRO where applicable, at the time it applies for Program participation and at least annually thereafter, whether or not it wishes to provide free milk. Institutions electing to provide free milk shall annually submit a written free milk policy statement for determining free milk eligibility of children under their jurisdiction, which shall contain the items specified in paragraph (d) of this section. Such institutions shall not be approved for Program participation of their agreements renewed unless the free milk policy has been reviewed and approved. Pending approval or a revision of a policy statement, the existing policy shall remain in effect.
+
+(d) *Policy statement.* A free milk policy statement as required in paragraph (c) of this section shall contain the following:
+
+(1) The specific criteria to be used in determining eligibility for free milk. These criteria shall give consideration to economic need as reflected by family size and income. The criteria used by the child-care institution may not result in the eligibility of children from families whose incomes exceed the State's family-size income standards for determining eligibility for free meals under the National School Lunch and School Breakfast Programs.
+
+(2) The method by which the child-care institution will collect information from families in order to determine a child's eligibility for free milk.
+
+(3) The method by which the child-care institution will collect milk payments so as to prevent the overt identification of children receiving free milk.
+
+(4) A hearing procedure substantially like that outlined in part 245 of this chapter.
+
+(5) An assurance that there will be no discrimination against free milk recipients and no discrimination against any child on the basis of race, color, or national origin.
+
+(e) *Public announcement of eligibility criteria.* Each child care institution which elects to make free milk available under the Program shall annually make a public announcement of the availability of free milk to children who meet the approved eligibility criteria to the information media serving the area from which its attendance is drawn. The public announcement must also state that milk is available to all children in attendance without regard to race, color, or national origin.
+
+(f) *Statement requirements.* The free milk application provided to households must include a statement informing households of how information provided on the application will be used. Each application must include substantially the following statement: “The Richard B. Russell National School Lunch Act requires the information on this application. You do not have to give the information, but if you do not, we cannot approve your child for free milk. You must include the last four digits of the social security number of the adult household member who signs the application. The last four digits of the social security number are not required when you list a Supplemental Nutrition Assistance Program (SNAP), Temporary Assistance for Needy Families (TANF) Program or Food Distribution Program on Indian Reservations (FDPIR) case number for your child or other FDPIR identifier or when you indicate that the adult household member signing the application does not have a social security number. We will use your information to determine if your child is eligible for free milk, and for administration and enforcement of the Program.” When the State agency or child care institution, as appropriate, plans to use or disclose children's eligibility information for non-program purposes, additional information, as specified in paragraph (i) of this section must be added to this statement. State agencies and child care institutions are responsible for drafting the appropriate statement.
+
+(g) *Disclosure of children's free milk eligibility information to certain programs and individuals without parental consent.* The State agency or child care institution, as appropriate, may disclose aggregate information about children eligible for free milk to any party without parental notification and consent when children cannot be identified through release of the aggregate data or by means of deduction. Additionally, the State agency or child care institution may disclose information that identifies children eligible for free milk to the programs and the individuals specified in this paragraph (g) without parent/guardian consent. The State agency or child care institution that makes the free milk eligibility determination is responsible for deciding whether to disclose program eligibility information.
+
+(1) *Persons authorized to receive eligibility information.* Only persons directly connected with the administration or enforcement of a program or activity listed in paragraphs (g)(2) or (g)(3) of this section may have access to children's free milk eligibility information, without parental consent. Persons considered directly connected with administration or enforcement of a program or activity listed in paragraphs (g)(2) or (g)(3) of this section are Federal, State, or local program operators responsible for the ongoing operation of the program or activity or persons responsible for program compliance. Program operators may include persons responsible for carrying out program requirements and monitoring, reviewing, auditing, or investigating the program. Program operators may include contractors, to the extent those persons have a need to know the information for program administration or enforcement. Contractors may include evaluators, auditors, and others with whom Federal or State agencies and program operators contract with to assist in the administration or enforcement of their program on their behalf.
+
+(2) *Disclosure of children's names and free milk eligibility status.* The State agency or child care institution, as appropriate, may disclose, without parental consent, only children's names and eligibility status (whether they are eligible for free milk) to persons directly connected with the administration or enforcement of:
+
+(i) A Federal education program;
+
+(ii) A State health program or State education program administered by the State or local education agency;
+
+(iii) A Federal, State, or local means-tested nutrition program with eligibility standards comparable to the National School Lunch Program (i.e., food assistance programs for households with incomes at or below 185 percent of the Federal poverty level); or
+
+(iv) A third party contractor assisting in verification of eligibility efforts by contacting households who fail to respond to requests for verification of their eligibility.
+
+(3) *Disclosure of all eligibility information.* In addition to children's names and eligibility status, the State agency or child care institution, as appropriate, may disclose, without parental consent, all eligibility information obtained through the free milk eligibility process (including all information on the application or obtained through direct certification) to:
+
+(i) Persons directly connected with the administration or enforcement of programs authorized under the Richard B. Russell National School Lunch Act or the Child Nutrition Act of 1966. This means that all eligibility information obtained for the Special Milk Program may be disclosed to persons directly connected with administering or enforcing regulations under the National School Lunch Program, School Breakfast Program, Child and Adult Care Food Program, Summer Food Service Program and the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) (Parts 210, 220, 226, 225, and 246, respectively, of this chapter);
+
+(ii) The Comptroller General of the United States for purposes of audit and examination; and
+
+(iii) Federal, State, and local law enforcement officials for the purpose of investigating any alleged violation of the programs listed in paragraphs (g)(2) and (g)(3) of this section.
+
+(4) *Use of free milk eligibility information by programs other than Medicaid or the State Children's Health Insurance Program (SCHIP).* State agencies and child care institutions may use children's free milk eligibility information for administering or enforcing the Special Milk Program. Additionally, any other Federal, State, or local agency charged with administering or enforcing the Special Milk Program may use the information for that purpose. Individuals and programs to which children's free milk eligibility information has been disclosed under this section may use the information only in the administration or enforcement of the receiving program. No further disclosure of the information may be made.
+
+(h) *Disclosure of children's free milk eligibility information to Medicaid and/or SCHIP, unless parents decline.* Children's free milk eligibility information only may be disclosed to Medicaid or SCHIP when both the State agency and the child care institution so elect, the parent/guardian does not decline to have their eligibility information disclosed and the other provisions described in paragraph (h)(1) of this section are met. The State agency or child care institution, as appropriate, may disclose children's names, eligibility status (whether they are eligible for free milk), and any other eligibility information obtained through the free milk application or obtained through direct certification to persons directly connected with the administration of Medicaid or SCHIP. Persons directly connected to the administration of Medicaid and SCHIP are State employees and persons authorized under Federal and State Medicaid and SCHIP requirements to carry out initial processing of Medicaid or SCHIP applications or to make eligibility determinations for Medicaid or SCHIP.
+
+(1) The State agency must ensure that:
+
+(i) The child care institution and health insurance program officials have a written agreement that requires the health insurance program agency to use the eligibility information to seek to enroll children in Medicaid and SCHIP; and
+
+(ii) Parents/guardians are notified that their eligibility information may be disclosed to Medicaid or SCHIP and given an opportunity to decline to have their children's eligibility information disclosed, prior to any disclosure.
+
+(2) *Use of children's free milk eligibility information by Medicaid/SCHIP.* Medicaid and SCHIP agencies and health insurance program operators receiving children's free milk eligibility information must use the information to identify eligible children and enroll them in Medicaid or SCHIP. The Medicaid and SCHIP enrollment process may include targeting and identifying children from low-income households who are potentially eligible for Medicaid or SCHIP for the purpose of seeking to enroll them in Medicaid or SCHIP. No further disclosure of the information may be made. Medicaid and SCHIP agencies and health insurance program operators also may verify children's eligibility in a program under the Child Nutrition Act of 1966 or the Richard B. Russell National School Lunch Act.
+
+(i) *Notifying households of potential uses and disclosures of children's free milk eligibility information.* Households must be informed that the information they provide on the free milk application will be used to determine eligibility for free milk and that their eligibility information may be disclosed to other programs.
+
+(1) For disclosures to programs, other than Medicaid or SCHIP, that are permitted access to children's eligibility information without parent/guardian consent, the State agency or child care institution, as appropriate, must notify parents/guardians at the time of application that their children's free milk eligibility information may be disclosed. The State agency or child care institution, as appropriate, must add substantially the following statement to the statement required under paragraph (f) of this section, “We may share your eligibility information with education, health, and nutrition programs to help them evaluate, fund, or determine benefits for their programs; auditors for program reviews; and law enforcement officials to help them look into violations of program rules.” For children determined eligible for free milk through direct certification, the notice of potential disclosure may be included in the document informing parents/guardians of their children's eligibility for free milk through direct certification process.
+
+(2) For disclosure to Medicaid or SCHIP, the State agency or child care institution, as appropriate, must notify parents/guardians that their children's free milk eligibility information will be disclosed to Medicaid and/or SCHIP unless the parent/guardian elects not to have their information disclosed and notifies the State agency or child care institution, as appropriate, by a date specified by the State agency or child care institution, as appropriate. Only the parent or guardian who is a member of the household or family for purposes of the free milk application may decline the disclosure of eligibility information to Medicaid or SCHIP. The notification must inform parents/guardians that they are not required to consent to the disclosure, that the information, if disclosed, will be used to identify eligible children and seek to enroll them in Medicaid or SCHIP, and that their decision will not affect their children's eligibility for free milk. The notification may be included in the letter/notice to parents/guardians that accompanies the free milk application, on the application itself or in a separate notice provided to parents/guardians. The notice must give parents/guardians adequate time to respond if they do not want their information disclosed. The State agency or child care institution, as appropriate, must add substantially the following statement to the statement required under paragraph (f) of this section, “We may share your information with Medicaid or the State Children's Health Insurance Program, unless you tell us not to. The information, if disclosed, will be used to identify eligible children and seek to enroll them in Medicaid or SCHIP.” For children determined eligible for free milk through direct certification, the notice of potential disclosure and opportunity to decline the disclosure may be included in the document informing parents/guardians of their children's eligibility for free milk through direct certification.
+
+(j) *Other disclosures.* State agencies and child care institutions that plan to use or disclose identifying information about children eligible for free milk to programs or individuals not specified in this section must obtain written consent from children's parents or guardians prior to the use or disclosure.
+
+(1) The consent must identify the information that will be shared and how the information will be used.
+
+(2) There must be a statement informing parents and guardians that failing to sign the consent will not affect the child's eligibility for free milk and that the individuals or programs receiving the information will not share the information with any other entity or program.
+
+(3) Parents/guardians must be permitted to limit the consent only to those programs with which they wish to share information.
+
+(4) The consent statement must be signed and dated by the child's parent or guardian who is a member of the household for purposes of the free milk application.
+
+(k) *Agreements with programs/individuals receiving children's free milk eligibility information.* Agreements or Memoranda of Understanding (MOU) are recommended or required as follows:
+
+(1) The State agency or child care institution, as appropriate, should have a written agreement or MOU with programs or individuals receiving eligibility information, prior to disclosing children's free milk eligibility information. The agreement or MOU should include information similar to that required for disclosures to Medicaid and SCHIP specified in paragraph (k)(2) of this section.
+
+(2) For disclosures to Medicaid or SCHIP, the State agency or child care institution, as appropriate, must have a written agreement with the State or local agency or agencies administering Medicaid or SCHIP prior to disclosing children's free milk eligibility information to those agencies. At a minimum, the agreement must:
+
+(i) Identify the health insurance program or health agency receiving children's eligibility information;
+
+(ii) Describe the information that will be disclosed;
+
+(iii) Require that the Medicaid or SCHIP agency use the information obtained and specify that the information must be used to seek to enroll children in Medicaid or SCHIP;
+
+(iv) Require that the Medicaid or SCHIP agency describe how they will use the information obtained;
+
+(v) Describe how the information will be protected from unauthorized uses and disclosures;
+
+(vi) Describe the penalties for unauthorized disclosure; and
+
+(vii) Be signed by both the Medicaid or SCHIP program or agency and the State agency or child care institution, as appropriate.
+
+(l) *Penalties for unauthorized disclosure or misuse of children's free milk eligibility information.* In accordance with section 9(b)(6)(C) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1758(b)(6)(C)), any individual who publishes, divulges, discloses or makes known in any manner, or to any extent not authorized by statute or this section, any information obtained under this section will be fined not more than $1,000 or imprisoned for up to 1 year, or both.
+
+(Sec. 11, Pub. L. 95-166, 91 Stat. 1337 (42 U.S.C. 1772, 1753, 1766); sec. 5, Pub. L. 95-627, 92 Stat. 3619 (42 U.S.C. 1772))[Amdt. 14, 41 FR 31176, July 27, 1976, as amended by Amdt. 16, 43 FR 1060, Jan. 6, 1978; 44 FR 10700, Feb. 23, 1979; Amdt. 17, 44 FR 33047, June 8, 1979; 66 FR 2201, Jan. 11, 2001; 72 FR 10892, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013]

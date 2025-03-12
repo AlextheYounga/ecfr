@@ -1,0 +1,5 @@
+##### § 2903.9 Content of an application. #####
+
+(a) Applications should be prepared following the guidelines and the instructions in the program announcement. At a minimum, applications shall include: a proposal cover page, project summary, project description, information about key personnel, documentation of collaborative arrangements, information about potential conflicts-of-interest, budget forms and a budget narrative, information about current and pending support, and assurance statements.
+
+(b) Proper preparation of applications will assist reviewers in evaluating the merits of each application in a systematic, consistent fashion. Specific instructions regarding additional application content requirements and the ordering of application contents will be included in the program announcement. These will include instructions about paper size, margins, font type and size, line spacing, page numbering, the inclusion of illustrations, and electronic submission.

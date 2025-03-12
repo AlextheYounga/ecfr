@@ -1,0 +1,3 @@
+##### § 2812.1 Purpose. #####
+
+This part sets forth the procedures to be utilized by USDA agencies and laboratories in the donation of excess research equipment to educational institutions and non-profit organizations for the conduct of technical and scientific education and research activities as authorized by 15 U.S.C. 3710(i). Title to excess research equipment donated pursuant to 15 U.S.C. 3710(i), shall pass to the donee.

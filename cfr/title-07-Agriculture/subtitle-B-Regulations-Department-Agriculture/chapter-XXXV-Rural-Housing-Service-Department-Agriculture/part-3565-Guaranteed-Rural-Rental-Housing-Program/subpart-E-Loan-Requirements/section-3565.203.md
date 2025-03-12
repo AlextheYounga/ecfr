@@ -1,0 +1,3 @@
+##### § 3565.203 Restrictions on rents. #####
+
+The rent for any individual housing unit, including any tenant-paid utilities, must not exceed an amount equal to 30 percent of 115 percent of area median income, adjusted for family size. In addition, on an annual basis, the average rent for a project, taking into account all individual unit rents, must not exceed 30 percent of 100 percent of area median income, adjusted for family size.

@@ -1,0 +1,3 @@
+##### § 64.2012 Effect on State law. #####
+
+The rules set forth in this subpart shall preempt any State law only to the extent that such law is inconsistent with the rules set forth herein and only if the Commission has affirmatively determined that the State law is preempted on a case-by-case basis. The Commission shall not presume that more restrictive State laws are inconsistent with the rules set forth herein.

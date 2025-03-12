@@ -1,0 +1,9 @@
+##### § 1738.103 Eligible service area exceptions for broadband facility upgrades. #####
+
+(a) Broadband borrowers that apply to upgrade existing broadband facilities in their existing service area are exempt from the requirement concerning the number of unserved households in § 1738.102(a)(2).
+
+(b) Incumbent service providers, including borrowers and grantees, which apply to upgrade existing broadband facilities in existing service territories are exempt from the requirement concerning the number of incumbent service providers in § 1738.102(a)(3) unless they are eligible for funding under Titles II and III of the RE Act. Eligibility requirements for entities that would be eligible under Titles II and III can be found in 7 CFR part 1735.
+
+(c) An applicant which is a borrower, grantee or incumbent service provider may submit one application to upgrade existing broadband facilities in existing service areas, which qualify for the exemptions specified in paragraphs (a) and (b) of this section, and to expand services at the broadband lending speed into new service areas, provided the upgrade area and the expansion area are proposed as two separate service areas even if the upgrade and expansion areas are contiguous.
+
+(d) The applicant will be asked to remove areas determined to be ineligible from their funding request or provide funds other than loan funds for these areas. The application will then be evaluated on the basis of what remains. The applicant may be requested to provide additional information to the Agency relating to the ineligible areas. If the applicant fails to respond, the application will be returned.

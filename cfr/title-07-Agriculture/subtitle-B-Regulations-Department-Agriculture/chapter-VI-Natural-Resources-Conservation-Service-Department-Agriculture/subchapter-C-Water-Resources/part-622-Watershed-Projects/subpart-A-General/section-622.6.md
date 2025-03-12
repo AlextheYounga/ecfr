@@ -1,0 +1,3 @@
+##### § 622.6 Equal opportunity. #####
+
+The Pub. L. 83-566 and Pub. L. 78-534 programs will be conducted in compliance with all requirements respecting nondiscrimination as contained in the Civil Rights Act of 1964, as amended, and in the regulations of the Secretary of Agriculture (7 CFR Part 15), which provide that no person in the United States shall, on the grounds of race, color, national origin, sex, age, handicap, or religion be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity conducted or assisted by the Department of Agriculture.

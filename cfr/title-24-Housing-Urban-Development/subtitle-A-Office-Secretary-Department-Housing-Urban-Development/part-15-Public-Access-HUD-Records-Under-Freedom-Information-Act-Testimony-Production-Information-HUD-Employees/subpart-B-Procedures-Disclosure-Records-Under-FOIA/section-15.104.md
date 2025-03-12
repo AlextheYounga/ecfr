@@ -1,5 +1,7 @@
 ##### § 15.104 Procedures for processing FOIA requests. #####
 
+Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
+
 (a) *In general.* HUD will ordinarily respond to FOIA requests according to their order of receipt.
 
 (b) *Tracking number.* FOIA requests will be logged in the order that they are received and be assigned a tracking number. A requester should use the tracking number to identify his or her request when contacting FOIA office for any reason.

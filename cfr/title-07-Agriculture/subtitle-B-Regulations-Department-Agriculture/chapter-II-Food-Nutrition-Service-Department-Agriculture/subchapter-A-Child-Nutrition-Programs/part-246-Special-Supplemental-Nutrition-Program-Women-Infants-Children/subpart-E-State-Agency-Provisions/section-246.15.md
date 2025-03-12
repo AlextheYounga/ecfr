@@ -1,0 +1,7 @@
+##### § 246.15 Program income other than grants. #####
+
+(a) *Interest earned on advances.* Interest earned on advances of Program funds at the State and local levels shall be treated in accordance with the provisions of 31 CFR part 205, which implement the requirements of the Cash Management Improvement Act of 1990. However, State agencies will not incur an interest liability to the Federal government on rebate funds for infant formula or other foods, *provided* that all interest earned on such funds is used for program purposes.
+
+(b) *Other Program income.* The State agency may use current program income (applied in accordance with the addition method described in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415) for costs incurred in the current fiscal year and, with the approval of FNS, for costs incurred in previous years or subsequent fiscal years. Provided that the costs supported by the income further the broad objectives of the Program, they need not be a kind that would be permissible as charges to Federal funds. Money received by the State agency as a result of civil money penalties or fines assessed against a vendor and any interest charged in the collection of these penalties and fines shall be considered as program income.
+
+[50 FR 6121, Feb. 13, 1985, as amended at 63 FR 63974, Nov. 18, 1998; 64 FR 13324, Mar. 18, 1999; 71 FR 56731, Sept. 27, 2006; 81 FR 66494, Sept. 28, 2016]

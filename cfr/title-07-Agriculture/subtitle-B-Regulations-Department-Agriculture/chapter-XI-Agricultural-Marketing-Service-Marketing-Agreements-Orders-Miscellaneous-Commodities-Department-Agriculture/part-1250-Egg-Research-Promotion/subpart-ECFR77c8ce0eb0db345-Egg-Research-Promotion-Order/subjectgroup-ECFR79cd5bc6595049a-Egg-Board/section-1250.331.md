@@ -1,0 +1,3 @@
+##### § 1250.331 Vacancies. #####
+
+To fill any vacancy occasioned by the failure to qualify of any person appointed as a member, or as an alternate member, of the Board, or in the event of the death, removal, resignation, or disqualification of any member or alternate member of the Board, a successor for the unexpired term of such member or alternate member of the Board shall be nominated, qualified, and appointed in the manner specified in § 1250.326, § 1250.328(b), § 1250.329, and § 1250.330, except that replacement of a Board member, or alternate, with an unexpired term of less than 6 months is not necessary.

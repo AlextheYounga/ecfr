@@ -1,0 +1,3 @@
+##### § 60.118 Pre-labeled. #####
+
+*Pre-labeled* means a covered commodity that has the commodity's country of origin and method of production and the name and place of business of the manufacturer, packer, or distributor on the covered commodity itself, on the package in which it is sold to the consumer, or on the master shipping container. The place of business information must include at a minimum the city and state or other acceptable locale designation.

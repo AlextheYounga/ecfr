@@ -1,0 +1,3 @@
+##### § 227.1 General purpose and scope. #####
+
+The purpose of these regulations is to implement section 19 of the Child Nutrition Act (added by Pub. L. 95-166, effective November 10, 1977) which authorizes the Secretary to formulate and carry out a nutrition information and education program through a system of grants to State agencies to provide for (a) the nutritional training of educational and foodservice personnel, (b) the foodservice management training of school foodservice personnel, and (c) the conduct of nutrition education activities in schools and child care institutions. To the maximum extent possible, the Program shall fully utilize the child nutrition programs as a learning experience.

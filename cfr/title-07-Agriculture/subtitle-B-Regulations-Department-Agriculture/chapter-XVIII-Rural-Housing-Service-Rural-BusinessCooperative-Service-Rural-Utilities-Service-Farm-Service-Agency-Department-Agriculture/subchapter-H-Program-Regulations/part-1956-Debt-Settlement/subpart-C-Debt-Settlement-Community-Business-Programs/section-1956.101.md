@@ -1,0 +1,5 @@
+##### § 1956.101 Purpose. #####
+
+This subpart delegates authority and prescribes policies and procedures for debt settlement of Community Facility loans; Association Recreation loans; Rural Renewal loans; direct Business and Industry loans; Rural Development Loan Fund loans; Intermediary Relending Program loans; and the Rural Microentrepreneur Assistance Program (RMAP) loans and repayable portions of RMAP grants; and Shift-in-land-use loans. Settlement of Economic Opportunity Cooperative loans, Claims Against Third Party Converters, Non-program loans, Rural Business Enterprise/Television Demonstration Grants, Nonprofit National Corporations Loans and Grants, and 601 Energy Impact Assistance Grants, is not authorized under independent statutory authority, and settlement under these programs is handled pursuant to the Federal Claims Collection Joint Standards, 31 CFR parts 900 through 904, inclusive. In addition, this subpart does not apply to Water and Waste Programs of the Rural Utilities Service, Watershed loans, and Resource Conservation and Development loans, which are serviced under part 1782 of this title.
+
+[80 FR 13201, Mar. 13, 2015]

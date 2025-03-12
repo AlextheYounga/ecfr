@@ -1,0 +1,5 @@
+##### § 3555.2 Purpose. #####
+
+(a) *General.* The purpose of the SFHGLP is to provide low- and moderate-income persons who will live in rural areas with an opportunity to own decent, safe and sanitary dwellings and related facilities. The SFHGLP offers applicants without sufficient resources to provide the necessary housing on their own account, and unable to secure the credit necessary for such housing from other sources upon terms and conditions, which the applicant can reasonably be expected to fulfill without the guarantee, an opportunity to acquire, build, rehabilitate, improve, or relocate dwellings in rural areas.
+
+(b) *Demonstration programs.* Rural Development may authorize limited demonstration programs as allowed by law. The objective of these demonstration programs will be to test new approaches to offering housing under the statutory authority granted to the Secretary. Therefore, such demonstration programs may not be consistent with all of the provisions contained in this part. However, any statutory SFHGLP requirements will remain in effect.

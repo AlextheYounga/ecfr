@@ -1,0 +1,51 @@
+##### § 273.17 Restoration of lost benefits. #####
+
+(a) *Entitlement.* (1) The State agency shall restore to households benefits which were lost whenever the loss was caused by an error by the State agency or by an administrative disqualification for intentional Program violation which was subsequently reversed as specified in paragraph (e) of this section, or if there is a statement elsewhere in the regulations specifically stating that the household is entitled to restoration of lost benefits. Furthermore, unless there is a statement elsewhere in the regulations that a household is entitled to lost benefits for a longer period, benefits shall be restored for not more than twelve months prior to whichever of the following occurred first:
+
+(i) The date the State agency receives a request for restoration from a household; or
+
+(ii) The date the State agency is notified or otherwise discovers that a loss to a household has occurred.
+
+(2) The State agency shall restore to households benefits which were found by any judicial action to have been wrongfully withheld. If the judicial action is the first action the recipient has taken to obtain restoration of lost benefits, then benefits shall be restored for a period of not more than twelve months from the date the court action was initiated. When the judicial action is a review of a State agency action, the benefits shall be restored for a period of not more than twelve months from the first of the following dates:
+
+(i) The date the State agency receives a request for restoration:
+
+(ii) If no request for restoration is received, the date the fair hearing action was initiated; but
+
+(iii) Never more than one year from when the State agency is notified of, or discovers, the loss.
+
+(3) Benefits shall be restored even if the household is currently ineligible.
+
+(b) *Errors discovered by the State agency.* If the State agency determines that a loss of benefits has occurred, and the household is entitled to restoration of those benefits, the State agency shall automatically take action to restore any benefits that were lost. No action by the household is necessary. However, benefits shall not be restored if the benefits were lost more than 12 months prior to the month the loss was discovered by the State agency in the normal course of business, or were lost more than 12 months prior to the month the State agency was notified in writing or orally of a possible loss to a specific household. The State agency shall notify the household of its entitlement, the amount of benefits to be restored, any offsetting that was done, the method of restoration, and the right to appeal through the fair hearing process if the household disagrees with any aspect of the proposed lost benefit restoration.
+
+(c) *Disputed benefits.* (1) If the State agency determines that a household is entitled to restoration of lost benefits, but the household does not agree with the amount to be restored as calculated by the State agency or any other action taken by the State agency to restore lost benefits, the household may request a fair hearing within 90 days of the date the household is notified of its entitlement to restoration of lost benefits. If a fair hearing is requested prior to or during the time lost benefits are being restored, the household shall receive the lost benefits as determined by the State agency pending the results of the fair hearing. If the fair hearing decision is favorable to the household, the State agency shall restore the lost benefits in accordance with that decision.
+
+(2) If a household believes it is entitled to restoration of lost benefits but the State agency, after reviewing the case file, does not agree, the household has 90 days from the date of the State agency determination to request a fair hearing. The State agency shall restore lost benefits to the household only if the fair hearing decision is favorable to the household. Benefits lost more than 12 months prior to the date the State agency was initially informed of the household's possible entitlement to lost benefits shall not be restored.
+
+(d) *Computing the amount to be restored.* After correcting the loss for future months and excluding those months for which benefits may have been lost prior to the 12-month time limits described in paragraphs (b) and (c) of this section, the State agency shall calculate the amount to be restored as follows:
+
+(1) If the household was eligible but received an incorrect allotment, the loss of benefits shall be calculated only for those months the household participated. If the loss was caused by an incorrect delay, denial, or termination of benefits, the months affected by the loss shall be calculated as follows:
+
+(i) If an eligible household's application was erroneously denied, the month the loss initially occurred shall be the month of application, or for an eligible household filing a timely reapplication, the month following the expiration of its certification period.
+
+(ii) If an eligible household's application was delayed, the months for which benefits may be lost shall be calculated in accordance with procedures in § 273.2(h).
+
+(iii) If a household's benefits were erroneously terminated, the month the loss initially occurred shall be the first month benefits were not received as a result of the erroneous action.
+
+(iv) After computing the date the loss initially occurred, the loss shall be calculated for each month subsequent to that date until either the first month the error is corrected or the first month the household is found ineligible.
+
+(2) For each month affected by the loss, the State agency shall determine if the household was actually eligible. In cases where there is no information in the household's case file to document that the household was actually eligible, the State agency shall advise the household of what information must be provided to determine eligibility for these months. For each month the household cannot provide the necessary information to demonstrate its eligibility, the household shall be considered ineligible.
+
+(3) For the months the household was eligible, the State agency shall calculate the allotment the household should have received. If the household received a smaller allotment than it was eligible to receive, the difference between the actual and correct allotments equals the amount to be restored.
+
+(4) If a claim against a household is unpaid or held in suspense as provided in § 273.18, the amount to be restored shall be offset against the amount due on the claim before the balance, if any, is restored to the household. At the point in time when the household is certified and receives an initial allotment, the initial allotment shall not be reduced to offset claims, even if the initial allotment is paid retroactively.
+
+(e) *Lost benefits to individuals disqualified for intentional Program violation.* Individuals disqualified for intentional Program violation are entitled to restoration of any benefits lost during the months that they were disqualified, not to exceed twelve months prior to the date of State agency notification, only if the decision which resulted in disqualification is subsequently reversed. For example, an individual would not be entitled to restoration of lost benefits for the period of disqualification based solely on the fact that a criminal conviction could not be obtained, unless the individual successfully challenged the disqualification period imposed by an administrative disqualification in a separate court action. For each month the individual was disqualified, not to exceed twelve months prior to State agency notification, the amount to be restored, if any, shall be determined by comparing the allotment the household received with the allotment the household would have received had the disqualified member been allowed to participate. If the household received a smaller allotment than it should have received, the difference equals the amount to be restored. Participation in an administrative disqualification hearing in which the household contests the State agency assertion of intentional Program violation shall be considered notification that the household is requesting restored benefits.
+
+(f) *Method of restoration.* Regardless of whether a household is currently eligible or ineligible, the State agency shall restore lost benefits to a household by issuing an allotment equal to the amount of benefits that were lost. The amount restored shall be issued in addition to the allotment currently eligible households are entitled to receive. The State agency shall honor reasonable requests by households to restore lost benefits in monthly installments if, for example, the household fears the excess coupons may be stolen, or that the amount to be restored is more than it can use in a reasonable period of time.
+
+(g) *Changes in household composition.* Whenever lost benefits are due a household and the household's membership has changed, the State agency shall restore the lost benefits to the household containing a majority of the individuals who were household members at the time the loss occurred. If the State agency cannot locate or determine the household which contains a majority of household members the State agency shall restore the lost benefits to the household containing the head of the household at the time the loss occurred.
+
+(h) *Accounting procedures.* Each State agency shall be responsible for maintaining an accounting system for documenting a household's entitlement to restoration of lost benefits and for recording the balance of lost benefits that must be restored to the household. Each State agency shall at a minimum, document how the amount to be restored was calculated and the reason lost benefits must be restored. The accounting system shall be designed to readily identify those situations where a claim against a household can be used to offset the amount to be restored.
+
+[Amdt. 132, 43 FR 47889, Oct. 17, 1978, as amended by Amdt. 225, 48 FR 16831, Apr. 19, 1983; Amdt. 314, 54 FR 24518, June 7, 1989; Amdt. 356, 59 FR 29713, June 9, 1994]

@@ -1,0 +1,3 @@
+##### § 1260.163 Vacancies. #####
+
+To fill any vacancy occasioned by the death, removal, resignation, or disqualification of any member of the Committee, the Board or the Federation, depending upon which organization is represented by the vacancy, shall submit the name of a successor for the position in the manner utilized to elect representatives pursuant to § 1260.161 (b) and (c) of this section.

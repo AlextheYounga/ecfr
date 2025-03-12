@@ -1,0 +1,3 @@
+##### § 1260.214 Personal liability. #####
+
+No member, employee or agent of the Board or the Committee, including employees or agents of a qualified State beef council acting on behalf of the Board, shall be held personally responsible, either individually or jointly, in any way whatsoever, to any person for errors in judgment, mistakes or other acts of either commission or omission, or such member or employee, except for acts of dishonesty or willful misconduct.

@@ -1,0 +1,3 @@
+##### § 15f.19 Other than myself, OCR, and the agency, may any other interested party participate in the proceeding? #####
+
+In most cases, there will be no parties to a proceeding under these rules, other than the complainant, OCR, and, and if it so desires, the agency. However, if there are circumstances in which additional parties have an interest in the proceeding, such as a bank which participated in a case involving a guaranteed loan, such other interested parties may be permitted to participate in the proceeding at the discretion of the ALJ.

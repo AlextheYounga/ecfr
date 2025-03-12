@@ -1,5 +1,5 @@
-##### 19.802 Selecting concerns for the 8(a) Program. #####
+##### 19.802 Determining eligibility for the 8(a) program. #####
 
-Selecting concerns for the 8(a) Program is the responsibility of the SBA and is based on the criteria established in 13 CFR 124.101-112.
+Determining the eligibility of a small business to be a participant in the 8(a) program is the responsibility of the SBA. SBA's regulations on eligibility requirements for participation in the 8(a) program are found at 13 CFR 124.101 through 124.112.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 64 FR 32744, June 17, 1999]
+[82 FR 4727, Jan. 13, 2017]

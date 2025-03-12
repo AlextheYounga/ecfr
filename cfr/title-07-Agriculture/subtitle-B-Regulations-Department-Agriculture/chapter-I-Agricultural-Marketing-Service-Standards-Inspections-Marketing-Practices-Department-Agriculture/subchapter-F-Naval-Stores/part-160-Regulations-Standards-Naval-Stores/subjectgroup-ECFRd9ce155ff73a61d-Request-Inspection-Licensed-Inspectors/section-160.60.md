@@ -1,0 +1,3 @@
+##### § 160.60 Charge for appeal inspection. #####
+
+If the findings in an appeal inspection confirm the original inspection, the accredited processor shall pay for such reinspection in accordance with the fees established for original inspections made by inspectors who are paid employees of the Department. If the findings do not confirm the original inspection, a corrected certificate will be issued and no charge will be made for re-inspection.

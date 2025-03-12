@@ -1,0 +1,3 @@
+##### § 51.2090 Serious damage. #####
+
+*Serious damage* means any defect which makes a kernel or piece of kernel unsuitable for human consumption, and includes decay, rancidity, insect injury and damage by mold. The following defect shall be considered as serious damage: Shriveling when the kernel is seriously withered, shrunken, leathery, tough or only partially developed: Provided, that partially developed kernels are not considered seriously damaged if more than one-fourth of the pellicle is filled with meat.

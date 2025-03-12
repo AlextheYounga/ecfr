@@ -1,0 +1,5 @@
+##### § 249.13 Program income. #####
+
+*Program income* means gross income the State agency earns from grant supported activities. It includes fees for services performed and receipts from the use or rental of real or personal property acquired with Federal grant funds, but does not include proceeds from the disposition of such property. The State agency must retain Program income earned during the agreement period and use it for Program purposes in accordance with the addition method described in 2 CFR part 200, subpart D, Post Federal Award Requirements and USDA implementing regulations 2 CFR part 400 and part 415. Fines, penalties or assessments paid by local agencies or farmers, farmers' markets, roadside stands, and/or CSA program are also deemed to be Program income. The State agency must ensure that the sources and applications of Program income are fully documented.
+
+[71 FR 74630, Dec. 12, 2006, as amended at 81 FR 66497, Sept. 28, 2016]

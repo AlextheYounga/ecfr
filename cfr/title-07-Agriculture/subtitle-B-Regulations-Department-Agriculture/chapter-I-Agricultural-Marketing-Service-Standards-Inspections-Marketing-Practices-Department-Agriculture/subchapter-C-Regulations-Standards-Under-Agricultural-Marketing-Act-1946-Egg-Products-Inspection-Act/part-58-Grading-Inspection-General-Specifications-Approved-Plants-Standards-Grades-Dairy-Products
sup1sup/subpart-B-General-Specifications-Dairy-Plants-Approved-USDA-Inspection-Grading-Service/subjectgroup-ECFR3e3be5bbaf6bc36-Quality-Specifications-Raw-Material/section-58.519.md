@@ -1,0 +1,9 @@
+##### § 58.519 Dairy products. #####
+
+(a) *Raw skim milk.* All raw skim milk obtained from a secondary source shall be separated from milk meeting the same quality requirements for milk as outlined in § 58.518 above. Skim milk after being pasteurized and separated shall be cooled to 45 °F. or lower unless the skim milk is to be set for cheese within two hours after pasteurizing. The skim milk should not be more than 48 hours old from the time the milk was received at the plant and the skim milk is set for cheese.
+
+(b) *Nonfat dry milk.* Nonfat dry milk, when used, shall be obtained from milk meeting the same quality requirements as outlined in § 58.518 above. It shall be processed according to the requirements of this Subpart, and should meet the requirements of § 58.236(b)(3).
+
+(c) *Condensed skim milk.* Condensed skim milk, if used, shall be prepared from raw milk or skim milk that meets the same quality requirements outlined above for raw milk or skim milk. It shall be cooled promptly after drawing from the vacuum pan or evaporator and shall have been pasteurized before concentrating or during the manufacture. The standard plate count of the concentrated milk shall not exceed 30,000 per ml. at time of use.
+
+(d) *Cream.* Any cream used for preparing the dressing for creamed cottage cheese shall be separated from milk meeting at least the same quality requirements as the skim milk used for making the curd. The flavor of the cream shall be fresh and sweet. Cream obtained from a secondary source shall meet the same requirements. The creaming mixture prepared from this cream, after pasteurization, shall have a standard plate count of no more than 30,000 per ml.

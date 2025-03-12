@@ -1,0 +1,3 @@
+##### § 1260.570 Notification of certification and the listing of certified organizations. #####
+
+Organizations and associations shall be notified in writing as to whether they are eligible to nominate producer members to the Board. A copy of the certification or eligibility determination shall be furnished to certified or eligible organizations and associations. Copies shall also be maintained on file in the Livestock and Seed Division office, where they will be available for inspection.

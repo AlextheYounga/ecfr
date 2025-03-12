@@ -1,0 +1,3 @@
+##### § 4290.45 Responsibility for implementing this part 4290. #####
+
+The Secretary has delegated to the U.S. Small Business Administration (SBA), pursuant to an agreement under the Economy Act (31 U.S.C. 1535), the authority to implement the RBIC program, including implementing and enforcing the regulations in this part 4290. Therefore, unless specifically stated otherwise, SBA will exercise on behalf of the Secretary all responsibilities and authorities assigned to the Secretary in this part 4290.

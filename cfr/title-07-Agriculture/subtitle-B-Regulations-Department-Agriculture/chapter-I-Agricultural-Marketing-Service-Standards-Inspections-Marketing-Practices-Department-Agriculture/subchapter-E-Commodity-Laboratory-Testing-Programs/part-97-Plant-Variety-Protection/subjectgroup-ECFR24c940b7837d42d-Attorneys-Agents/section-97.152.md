@@ -1,0 +1,3 @@
+##### § 97.152 Revocation of authorization; withdrawal. #####
+
+An authorization of an attorney or agent may be revoked by an applicant at any time, and an attorney or agent may withdraw, upon application to the Commissioner. When the authorization is so revoked, or the attorney or agent has so withdrawn, the Office shall inform the interested parties and shall thereafter communicate directly with the applicant, or with such other attorney or agent as the applicant may appoint. An assignment will not of itself operate as a revocation of authorization previously given, but the assignee of the entire interest may revoke previous authorizations and be represented by an attorney or agent of his or her own selection.

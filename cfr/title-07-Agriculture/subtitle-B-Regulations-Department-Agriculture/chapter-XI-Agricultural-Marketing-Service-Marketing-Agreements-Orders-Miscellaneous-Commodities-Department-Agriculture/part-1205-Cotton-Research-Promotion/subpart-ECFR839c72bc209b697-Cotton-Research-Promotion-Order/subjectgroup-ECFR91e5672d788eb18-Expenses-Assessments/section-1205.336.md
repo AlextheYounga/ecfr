@@ -1,0 +1,5 @@
+##### § 1205.336 “Importer Reimbursements”. #####
+
+Any cotton importer against whose imports any assessment is made and collected under the authority of the Act who has reason to believe that such assessment or any portion of such assessment was made on U.S. produced cotton or cotton other than Upland cotton shall have the right to demand and receive from the Cotton Board a reimbursement of the assessment or portion of the assessment upon submission of proof satisfactory to the Board that the importer paid the assessment and that the cotton was produced in the U.S. or is other than Upland cotton. Any such demand shall be made by the importer in accordance with regulations and on a form and within a time period prescribed by the Board and approved by the Secretary. Such time periods shall provide the importer at least 90 days from the date of collection to submit the reimbursement form to the Board. Any such reimbursement shall be made within 60 days after demand therefor.
+
+[56 FR 64474, Dec. 10, 1991]

@@ -1,0 +1,9 @@
+##### § 1717.351 Policy. #####
+
+(a) RUS makes and guarantees loans to borrowers to bring electric service to persons in rural areas. To accomplish this objective, RUS normally requires, as a condition to making or guaranteeing any loans to an electric borrower, that the borrower execute and deliver the RUS documents in the form prescribed by RUS. The RUS mortgage secures repayment of the loans made or guaranteed by RUS and other loans which, pursuant to the RE Act, RUS has permitted to be secured pursuant to the RUS mortgage. The Administrator relies upon the RUS mortgage together with other RUS documents to find and certify, as required by section 4 of the RE Act (7 U.S.C. 904), that the security for the loan is reasonably adequate and the loan will be repaid within the time agreed.
+
+(b) RUS requires borrowers to take such actions as may be necessary to establish rates for electric service which are sufficient to pay the principal of and interest on the loans made or guaranteed by RUS in a timely manner and to meet the requirements of the RUS documents.
+
+(c) With respect to borrowers whose rates are not regulated by a State Regulatory Authority, RUS requires that such borrowers establish rates and to obtain RUS approval of such rates as required by the RUS documents.
+
+(d) To protect Federal interests, including without limitation the ability of the borrower to repay RUS loans, RUS's policy is to exercise, pursuant to the RUS documents, exclusive jurisdiction over the rates for electric service charged by a borrower by or against whom a case under the Bankruptcy Code of 1978, as amended, has commenced.

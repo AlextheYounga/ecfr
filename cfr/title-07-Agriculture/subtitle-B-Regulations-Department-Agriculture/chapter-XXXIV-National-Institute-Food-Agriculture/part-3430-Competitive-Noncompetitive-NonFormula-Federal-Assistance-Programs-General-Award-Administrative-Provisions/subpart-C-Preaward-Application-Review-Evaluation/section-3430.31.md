@@ -1,0 +1,3 @@
+##### § 3430.31 Guiding principles. #####
+
+The guiding principle for Federal assistance application review and evaluation is to ensure that each proposal is treated in a consistent and fair manner regardless of regional and institutional affiliation. After the evaluation process by the review panel, NIFA, through the program officer, ensures that applicants receive appropriate feedback and comments on their proposals, and processes the awards in as timely a manner as possible.

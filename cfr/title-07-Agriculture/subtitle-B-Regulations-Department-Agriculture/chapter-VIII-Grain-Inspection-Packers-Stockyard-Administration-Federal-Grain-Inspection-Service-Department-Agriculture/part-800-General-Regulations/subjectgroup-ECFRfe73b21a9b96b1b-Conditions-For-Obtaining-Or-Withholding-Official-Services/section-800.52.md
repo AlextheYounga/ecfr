@@ -1,0 +1,3 @@
+##### § 800.52 Official services not to be denied. #####
+
+Subject to the provisions of §§ 800.48, 800.49, and 800.50, no person entitled to official services under the Act shall be denied or deprived of the right thereto by reason of any rule, regulation, bylaw, or custom of any market, board of trade, chamber of commerce, exchange, inspection department, or similar organization; or by any contract, agreement, or other understanding.

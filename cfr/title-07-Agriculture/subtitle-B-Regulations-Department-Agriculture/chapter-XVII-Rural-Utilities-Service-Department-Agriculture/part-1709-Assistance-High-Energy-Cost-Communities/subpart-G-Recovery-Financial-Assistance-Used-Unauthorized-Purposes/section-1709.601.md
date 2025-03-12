@@ -1,0 +1,5 @@
+##### § 1709.601 Policy. #####
+
+This subpart prescribes the policies of the Rural Utilities Service (RUS) when it is subsequently determined that the recipient of an Assistance to High Energy Cost Rural Communities program loan or grant was not eligible for all or part of the financial assistance received or that the assistance received was used for unauthorized purposes. It is the policy of the Agency that when assistance under this part has been received by an ineligible recipient or used for unauthorized purposes the Agency shall initiate appropriate actions to recover from the recipient the sum that is determined to be ineligible or used for unauthorized purposes, regardless of amount, unless any applicable statute of limitation has expired. The Agency shall make full use of available authority and procedures, including but not limited to those available under 2 CFR part 200, as adopted by USDA through 2 CFR part 400.
+
+[70 FR 5351, Feb. 2, 2005, as amended at 79 FR 76002, Dec. 19, 2014]

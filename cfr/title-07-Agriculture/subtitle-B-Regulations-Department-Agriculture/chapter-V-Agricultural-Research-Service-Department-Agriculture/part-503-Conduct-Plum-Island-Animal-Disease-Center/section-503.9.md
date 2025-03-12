@@ -1,0 +1,3 @@
+##### § 503.9 Soliciting, vending, debt collection, and distribution of handbills. #####
+
+The soliciting of alms and contributions, commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, in or on PIADC is prohibited. This section does not apply to national or local drives for funds for welfare, health, and other purposes, sponsored or approved by the PIADC, or concessions or personal notices posted by employees on authorized bulletin boards. Unauthorized distribution of materials such as pamphlets, handbills, and flyers is prohibited.

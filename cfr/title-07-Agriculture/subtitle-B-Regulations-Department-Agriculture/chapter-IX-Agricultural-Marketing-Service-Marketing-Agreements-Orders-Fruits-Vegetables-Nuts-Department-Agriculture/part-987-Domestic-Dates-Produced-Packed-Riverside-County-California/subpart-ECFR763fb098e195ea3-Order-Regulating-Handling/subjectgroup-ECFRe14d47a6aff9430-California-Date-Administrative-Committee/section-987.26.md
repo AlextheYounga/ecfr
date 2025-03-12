@@ -1,0 +1,5 @@
+##### § 987.26 Vacancies. #####
+
+In the event of any vacancy occasioned by the failure to qualify, declination to serve, removal, resignation, disqualification, or death of any person nominated to serve on the Committee, or any member or alternate member selected by the Secretary, the Committee shall promptly submit its recommendation to the Secretary of a nominee eligible to serve in accordance with the requirements specified for the group in § 987.21. If the vacancy is for a member position, the Committee shall recommend appointment of the alternate member if that person is willing to serve in that position. If the Committee's recommendation is not submitted within 30 calendar days after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations, and the selection shall be made on the basis of representation provided in § 987.21.
+
+[43 FR 4251, Feb. 1, 1978]

@@ -1,0 +1,5 @@
+##### § 1955.120 Payment of points (housing). #####
+
+To effect regular sale of inventory SFH property to a purchaser who is financing the purchase of the property with a non-Rural Development loan, the County Supervisor may authorize the payment by Rural Development of not more than three points. The payment must be a customary requirement of the lender for the seller within the community where the property is located. Terms of payment will be incorporated in Form RD 1955-45 and will be fixed as of the date the form is signed by the appropriate Rural Development official. Points will *not* be paid to reduce the purchaser's interest rate. The payment will be deducted from the funds to be received by Rural Development at closing.
+
+[53 FR 27836, July 25, 1988. Redesignated at 55 FR 3942, Feb. 6, 1990, as amended at 58 FR 52653, Oct. 12, 1993; 68 FR 61332, Oct. 28, 2003]

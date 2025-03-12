@@ -1,0 +1,5 @@
+##### § 240.6 Funds for States which have phased out facilities. #####
+
+Notwithstanding any other provision of this part, any State which phased out its food distribution facilities prior to June 30, 1974, may, for purposes of the National School Lunch Program, the Summer Food Service Program for Children, and the Child Care Food Program, elect to receive cash payments in lieu of donated foods. Where such an election is made, FNS shall make cash payments to such State in an amount equivalent in value to the donated foods (or cash in lieu thereof) to which the State would otherwise have been entitled under section 6(e) of the Act, if it had retained its food distribution facilities, except that the amount may be based on the number of meals served in the current school year, rather than on the number of meals served in the preceding school year with a subsequent reconciliation.
+
+[47 FR 15982, Apr. 13, 1982, as amended at 58 FR 39120, July 22, 1993]

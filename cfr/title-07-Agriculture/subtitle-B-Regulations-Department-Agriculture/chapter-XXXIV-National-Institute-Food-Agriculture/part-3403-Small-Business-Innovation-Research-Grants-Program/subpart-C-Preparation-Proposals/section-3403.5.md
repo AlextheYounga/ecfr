@@ -1,0 +1,5 @@
+##### § 3403.5 Program solicitation. #####
+
+(a) *Phase I.* A program solicitation requesting Phase I proposals will be prepared each fiscal year in which funds are made available for this purpose. This solicitation will contain information sufficient to enable eligible applicants to prepare grant proposals and will include descriptions of specific research topic areas which the Department will support during the fiscal year involved. A notice of solicitation, and the entire contents of the program solicitation will be published, at a minimum, on the agency's Web site.
+
+(b) *Phase II.* For each fiscal year in which funds are made available for this purpose, the Department will send correspondence requesting Phase II proposals from the Phase I grantees eligible to apply for Phase II funding in that fiscal year. The correspondence will contain information sufficient to enable eligible applicants to prepare grant proposals.

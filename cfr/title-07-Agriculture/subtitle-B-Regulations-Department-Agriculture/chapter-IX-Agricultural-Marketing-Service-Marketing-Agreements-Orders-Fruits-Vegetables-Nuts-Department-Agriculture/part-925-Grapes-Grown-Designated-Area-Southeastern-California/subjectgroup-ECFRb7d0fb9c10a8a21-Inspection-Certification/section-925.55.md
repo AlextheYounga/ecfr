@@ -1,0 +1,7 @@
+##### § 925.55 Inspection and certification. #####
+
+(a) Whenever the handling of any variety of grapes is regulated pursuant to § 925.52, each handler who handles grapes shall, prior thereto, cause such grapes to be inspected by the Federal or Federal-State Inspection Service and certified as meeting the applicable requirements of such regulation: *Provided,* That inspection and certification shall not be required for grapes which previously have been so inspected and certified if such prior inspection was performed within such period as may be established pursuant to paragraph (b) of this section. Promptly after the inspection and certification each such handler shall submit, or cause to be submitted, to the committee a copy of the certificate of inspection issued with respect to such grapes.
+
+(b) The committee may, with the approval of the Secretary, establish a period prior to shipment during which the inspection required by this section must be performed.
+
+(c) The committee may enter into an agreement with the Federal and Federal-State Inspection Services with respect to the costs of the inspection required by paragraph (a) of this section, and may collect from handlers their respective pro rata share of such costs.

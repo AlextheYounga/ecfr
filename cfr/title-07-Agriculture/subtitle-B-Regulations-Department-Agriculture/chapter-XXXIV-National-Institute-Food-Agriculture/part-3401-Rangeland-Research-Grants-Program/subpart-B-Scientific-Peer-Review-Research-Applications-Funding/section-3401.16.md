@@ -1,0 +1,7 @@
+##### § 3401.16 Proposal review. #####
+
+(a) All research Applications for Funding will be acknowledged. Prior to technical examination, a preliminary review will be made for responsiveness to the request for proposals (e.g., relationship of application to research program area). Proposals that do not fall within the guidelines as stated in the annual request for proposals will be eliminated from competition and will be returned to the applicant. Proposals whose budgets exceed the maximum allowable amount for a particular program area as announced in the request for proposals may be considered as lying outside the guidelines.
+
+(b) All applications will be reviewed carefully by the Director , qualified officers or employees of the Department, the respective merit review panel, and ad hoc reviewers, as required. Written comments will be solicited from ad hoc reviewers, when required, and individual written comments and in-depth discussions will be provided by peer review group members prior to recommending applications for funding. Applications will be ranked and support levels recommended within the limitation of total available funding for each research program area as announced in the applicable request for proposals.
+
+(c) Except to the extent otherwise provided by law, such recommendations are advisory only and are not binding on program officers or on the awarding official.

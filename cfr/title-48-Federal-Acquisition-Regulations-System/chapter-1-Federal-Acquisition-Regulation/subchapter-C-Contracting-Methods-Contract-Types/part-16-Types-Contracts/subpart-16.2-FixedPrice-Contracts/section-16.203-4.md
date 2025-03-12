@@ -24,7 +24,7 @@
 
 (3) If the negotiated unit price reflects a net price after applying a trade discount from a catalog or list price, the contracting officer shall document in the contract file both the catalog or list price and the discount. (This does not apply to prompt payment or cash discounts.)
 
-(4) Before entering into the contract, the contracting officer and contractor must agree in writing on the identity of the standard supplies and the corresponding contract line items to which the clause applies.
+(4) Before entering into the contract, the contracting officer and contractor must agree in writing on the identity of the standard supplies and the corresponding line items to which the clause applies.
 
 (5) If the supplies are standard, except for preservation, packaging, and packing requirements, the clause prescribed in 16.203-4(a), shall be used rather than this clause.
 
@@ -68,4 +68,4 @@
 
 (2) Any clause using this method shall be prepared and approved under agency procedures. Because of the variations in circumstances and clause wording that may arise, no standard clause is prescribed.
 
-[48 FR 42219, Sept. 19, 1983, as amended at 52 FR 19803, May 27, 1987; 60 FR 48217, Sept. 18, 1995; 62 FR 259, Jan. 2, 1997]
+[48 FR 42219, Sept. 19, 1983, as amended at 52 FR 19803, May 27, 1987; 60 FR 48217, Sept. 18, 1995; 62 FR 259, Jan. 2, 1997; 82 FR 4714, Jan. 13, 2017]

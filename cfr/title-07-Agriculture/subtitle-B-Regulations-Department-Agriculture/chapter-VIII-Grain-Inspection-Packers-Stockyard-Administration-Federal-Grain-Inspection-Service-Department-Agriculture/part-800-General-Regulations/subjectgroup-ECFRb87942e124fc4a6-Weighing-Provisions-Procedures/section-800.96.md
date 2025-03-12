@@ -1,0 +1,23 @@
+##### § 800.96 Weighing procedures. #####
+
+(a) *Inbound.* Inbound grain that is to be weighed must be routed directly from the carrier and cannot be cleaned, dried, or otherwise processed to remove or add other grain or material en route. Except as noted in paragraph (c) of this section, the identity of an inbound lot shall be considered lost when a portion of the lot is transferred or otherwise removed prior to weighing or a portion of grain or other material is added to the lot prior to weighing. When loss of identity occurs, no amount shall be shown in the “Net Weight” portion of the weight certificate for the lot.
+
+(b) *Outbound.* Outbound grain that has been weighed must be routed directly from the scale to the carrier and cannot be cleaned, dried, or otherwise processed to remove or add other grain or material en route. Except as noted in paragraph (c) of this section, the identity of an outbound lot will be considered lost if a portion of the lot is transferred or otherwise removed from the lot after weighing or a portion of grain or other material is added to the lot after weighing. When loss of identity occurs, no amount shall be shown in the “Net Weight” portion of the weight certificate for the lot.
+
+(c) *Exceptions*—(1) *Spills.* (i) *Outbound.* (A) *Replaced.* If a spill occurs in handling and loading of outbound grain and the spilled grain is retrieved, or is replaced in kind, and is loaded on board during the loading operations, the weight certificate shall show the weight of the grain that was physically loaded on board. Upon request of the applicant, an additional certificate may be issued by the agency or the field office to show the weight of the additional grain that was used to replace a spill.
+
+(B) *Not replaced.* If a spill occurs in the handling and loading of outbound grain and the spilled grain is not retrieved or is not replaced during the loading operation, the weight certificate shall show the weight of the grain that was actually weighed, minus the estimated amount of the grain that was spilled. Upon request of the applicant, an additional certificate may be issued showing the estimated amount of grain that was spilled. The applicant may, upon request, have the total amount that was weighed shown on the weight certificate with the estimated amount of the spilled grain noted.
+
+(ii) *Inbound.* If a spill occurs in the handling of inbound grain and the grain is not retrieved and weighed, the weight certificate shall show the weight of the grain that was actually unloaded from the carrier and a statement regarding the spill as prescribed in the instructions.
+
+(2) *Additives.*1 If additives are applied during loading to outbound, including export, grain after weighing or during unloading to inbound grain before weighing for the purpose of insect or fungi control, dust suppression, or identification, the weight certificate shall show the actual weight of the grain after the application of the additive for inbound grain or the actual weight of the grain prior to the application of the additive for outbound or export grain and a statement showing the type and purpose of the additive application, except that no statement is required to be shown when the additive is a fumigant applied for the purpose of insect control.
+
+1 Elevators, other handlers of grain, and their agents are responsible for the additive's proper usage and application. Compliance with this section does not excuse compliance with applicable Federal, State, and local laws.
+
+(3) *Dust.* If dust is removed during the handling of grain, the weight certificate shall not be adjusted to reflect the weight of the removed dust.
+
+(4) *Commingled carriers.* If grain from two or more identified carriers becomes mixed, (i) the combined weight of the grain shall be shown in the “Net Weight” block of one certificate with all carrier identification shown in the identification of carrier section of the certificate, or (ii) upon request of the applicant, a certificate shall be issued for each carrier with the “Net Weight” block crossed out, and with the total combined weight unloaded and the identification of the other carrier(s) shown in the “Remarks” section.
+
+(5) *Unremoved grain.* If, after unloading an inbound carrier, there is sound grain remaining in the carrier that could have been removed with reasonable effort, the weight certificate shall show the weight of the grain that was actually unloaded from the carrier and a statement regarding the grain remaining in the carrier.
+
+[52 FR 6495, Mar. 4, 1987, as amended at 58 FR 3212, Jan. 8, 1993; 59 FR 52077, Oct. 14, 1994]

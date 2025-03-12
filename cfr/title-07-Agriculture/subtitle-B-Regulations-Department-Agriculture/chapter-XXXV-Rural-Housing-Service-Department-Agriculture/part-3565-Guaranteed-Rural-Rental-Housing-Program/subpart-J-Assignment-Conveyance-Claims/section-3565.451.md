@@ -1,0 +1,9 @@
+##### § 3565.451 Preclaim requirements. #####
+
+(a) *Lender certifications.* After borrower default and before filing a claim or assignment of the loan to the Agency, the lender must make every reasonable and prudent effort to resolve the default. The lender must provide the Agency with an accounting of all proposed and actual actions taken to cure the default. The lender must certify that all reasonable efforts to cure the default have been exhausted. Where the lender fails to comply with the terms of the loan guarantee agreement and the corresponding regulations and guidance with regard to liquidating the property, the Agency, at its option, may take possession of the security collateral and dispose of the property.
+
+(b) *Due diligence by lender.* For all loan servicing actions where a market, net recovery or liquidation value determination is required, guaranteed lenders shall perform due diligence in conjunction with the appraisal and submit it to the Agency for review. The Phase I Environmental Site Assessment published by the American Society of Testing and Materials is considered an acceptable format for due diligence.
+
+(c) *Environmental review.* The Agency is required to complete an environmental review under the National Environmental Policy Act, in accordance with 7 CFR part 1970. Servicing actions as defined in § 1970.6 are part of financial assistance already provided and do not require additional NEPA review. However, certain post-financial assistance actions that have the potential to have an effect on the environment, such as lien subordinations, sale or lease of Agency-owned real property, or approval of a substantial change in the scope of a project, as defined in § 1970.8, are subject to a NEPA analysis in accordance with 7 CFR part 1970.
+
+[63 FR 39458, July 22, 1998, as amended at 81 FR 11050, Mar. 2, 2016]

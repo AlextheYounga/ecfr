@@ -1,0 +1,7 @@
+##### § 900.304 Who may vote. #####
+
+(a) Each producer shall be entitled to only one vote and to cast one ballot in each referendum; and no person who may claim to be a producer shall be refused a ballot. Each producer casting more than one ballot with conflicting votes shall thereby invalidate all ballots cast by such producer in such referendum. Each ballot cast shall contain a certification by the person casting the ballot that he is a producer.
+
+(b) Except as provided in section 8c(5)(B) of the act, as amended, any cooperative association eligible under § 900.302 may, if it elects to do so, vote and cast one ballot for producers who are members of, stockholders in, or under contract with, such cooperative association. A cooperative association shall submit, with its ballot, a certified copy of the resolution authorizing the casting of the ballot. Each such cooperative association entitled to vote in a referendum casting more than one ballot with conflicting votes shall thereby invalidate all ballots cast by such voter in such referendum.
+
+(c) Voting by proxy or agent, or in any manner, except by the producer or cooperative association will not be permitted; however, a producer which is other than an individual may cast its ballot by a person who is duly authorized and such ballot shall contain a certification by such person that the person on whose behalf the ballot is cast is a producer.

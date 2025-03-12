@@ -1,0 +1,3 @@
+##### § 58.710 Fillers. #####
+
+A strainer should be installed between the cooker and the filler. The hoppers of all filters shall be covered but the cover may have sight ports. If necessary, the hopper may have an agitator to prevent buildup on side wall. The filler valves and head shall be kept in good repair and capable of accurate measurements. Product contact surfaces shall be of stainless steel or other corrosion resistant material.

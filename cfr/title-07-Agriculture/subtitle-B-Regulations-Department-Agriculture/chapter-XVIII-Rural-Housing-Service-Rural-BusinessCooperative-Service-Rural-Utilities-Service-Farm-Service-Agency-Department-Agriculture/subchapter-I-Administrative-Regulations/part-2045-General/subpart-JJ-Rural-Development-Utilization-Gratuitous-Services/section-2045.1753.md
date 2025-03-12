@@ -1,0 +1,5 @@
+##### § 2045.1753 Authority to accept gratuitous services. #####
+
+(a) State Directors, Director, Personnel Division, and Director, Finance Office, are hereby authorized to accept and utilize gratuitous services offered by the governmental agencies listed in § 2045.1752(a).
+
+(b) An offer received by an FmHA or its successor agency under Public Law 103-354 State or County Office from a source listed in § 2045.1752(b) shall be transmitted to the National Office, Attention: Director, Personnel Division, for decision. The offer will be accompanied by copies of the Articles of Incorporation and By-laws (if the organization is incorporated), a statement that the organization accepts the conditions set forth in the Agreement Form, and evidence that the organization is financially able to meet the required fiscal obligations of the agreement.

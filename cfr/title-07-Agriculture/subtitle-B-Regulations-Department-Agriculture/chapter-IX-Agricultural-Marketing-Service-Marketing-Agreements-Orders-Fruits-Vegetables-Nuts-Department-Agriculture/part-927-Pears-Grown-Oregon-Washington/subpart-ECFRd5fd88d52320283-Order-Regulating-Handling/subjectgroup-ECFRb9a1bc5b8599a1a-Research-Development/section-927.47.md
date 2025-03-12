@@ -1,0 +1,3 @@
+##### § 927.47 Research and development. #####
+
+The Fresh Pear Committee or the Processed Pear Committee, with the approval of the Secretary, may establish or provide for the establishment of production and post-harvest research, or marketing research and development projects designed to assist, improve, or promote the marketing, distribution, and consumption of pears. Such projects may provide for any form of marketing promotion, including paid advertising. The expense of such projects shall be paid from funds collected pursuant to §§ 927.41 and 927.45. Expenditures for a particular variety or subvariety of pears shall approximate the amount of assessments and voluntary contributions collected for that variety or subvariety of pears.

@@ -1,0 +1,3 @@
+##### § 46.24 Records of retailers. #####
+
+Notwithstanding the specific records and documents prescribed in the foregoing sections, licensees who purchase produce solely for sale at retail shall establish and maintain accounts and records, adapted to their type of operations, which will fully and correctly disclose all transactions relating to the purchase of produce. Such accounts and records should include the date of receipt of each lot, kind of produce, number of packages and quantity, price paid, evidence of agreement, or contract of purchase, bills of lading, paid bills, and any other documents relating to the purchase of produce.

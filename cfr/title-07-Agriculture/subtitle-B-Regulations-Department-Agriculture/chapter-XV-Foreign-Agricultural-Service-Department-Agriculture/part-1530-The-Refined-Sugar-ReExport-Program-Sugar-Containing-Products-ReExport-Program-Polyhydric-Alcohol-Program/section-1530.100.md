@@ -1,0 +1,3 @@
+##### § 1530.100 General statement. #####
+
+This part provides regulations for the Refined Sugar Re-Export Program, the Sugar Containing Products Re-Export Program, and the Polyhydric Alcohol Program. Under these provisions, refiners may enter raw sugar unrestricted by the quantitative limit established for the raw sugar tariff-rate quota or the requirements of certificates of quota eligibility provided for in 15 CFR part 2011, as long as licensees under the programs export an equivalent quantity of refined sugar, either as refined sugar or as an ingredient in sugar containing products, or use the refined sugar in the production of certain polyhydric alcohols.

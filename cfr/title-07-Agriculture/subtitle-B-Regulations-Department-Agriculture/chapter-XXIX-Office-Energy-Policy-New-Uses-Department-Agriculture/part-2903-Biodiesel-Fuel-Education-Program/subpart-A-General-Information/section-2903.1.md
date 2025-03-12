@@ -1,0 +1,5 @@
+##### § 2903.1 Applicability of regulations. #####
+
+(a) The regulations of this part only apply to Biodiesel Fuel Education Program grants awarded under the provisions of section 9004 of the Farm Security and Rural Investment Act of 2002 (FSRIA) (7 U.S.C. 8104) which authorizes the Secretary to award competitive grants to eligible entities to educate governmental and private entities that operate vehicle fleets, other interested entities (as determined by the Secretary), and the public about the benefits of biodiesel fuel use. Eligibility is limited to nonprofit organizations and institutions of higher education (as defined in sec. 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that have demonstrated both knowledge of biodiesel fuel production, use, or distribution and the ability to conduct educational and technical support programs. The Secretary delegated this authority to the Chief Economist, who in turn delegated this authority to the Director of OEPNU.
+
+(b) The regulations of this part do not apply to grants awarded by the Department of Agriculture under any other authority.

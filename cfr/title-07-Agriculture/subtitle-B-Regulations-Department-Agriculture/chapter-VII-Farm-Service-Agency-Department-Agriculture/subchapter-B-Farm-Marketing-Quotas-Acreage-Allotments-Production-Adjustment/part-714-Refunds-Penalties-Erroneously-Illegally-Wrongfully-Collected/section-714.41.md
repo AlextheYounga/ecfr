@@ -1,0 +1,3 @@
+##### § 714.41 Statement of claim. #####
+
+The claim shall show fully the facts constituting the basis of the claim; the name and address of and the amount claimed by every person who bore or bears any part or all of the burden of such penalty; and the reasons why such penalty is claimed to have been erroneously, illegally, or wrongfully collected. It shall be the responsibility of the county committee to determine that any person who executes a claim as agent or fiduciary is properly authorized to act in such capacity. There should be attached to the claim all pertinent documents with respect to the claim or duly authenticated copies thereof.

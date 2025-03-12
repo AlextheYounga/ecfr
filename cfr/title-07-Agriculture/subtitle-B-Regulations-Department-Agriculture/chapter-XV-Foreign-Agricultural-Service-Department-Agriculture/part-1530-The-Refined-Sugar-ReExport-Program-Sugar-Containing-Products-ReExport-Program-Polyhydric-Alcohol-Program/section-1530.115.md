@@ -1,0 +1,3 @@
+##### § 1530.115 Paperwork Reduction Act assigned number. #####
+
+Licensees are not required to respond to requests for information unless the form for collecting information displays a currently valid Office of Management and Budget (OMB) control number. OMB has approved the information collection requirements contained in this part in accordance with 44 U.S.C. chapter 35. OMB number 0551-0015 has been assigned and will expire November 30, 1999.

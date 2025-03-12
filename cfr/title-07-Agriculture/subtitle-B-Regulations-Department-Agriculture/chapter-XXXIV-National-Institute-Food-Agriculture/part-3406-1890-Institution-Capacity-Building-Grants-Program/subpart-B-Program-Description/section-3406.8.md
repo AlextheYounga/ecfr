@@ -1,0 +1,3 @@
+##### § 3406.8 Joint project proposals. #####
+
+Applicants are encouraged to submit joint project proposals as defined in § 3406.2, which address regional or national problems and which will result overall in strengthening the 1890 university system. The goals of such joint initiatives should include maximizing the use of limited resources by generating a critical mass of expertise and activity focused on a targeted need area(s), increasing cost-effectiveness through achieving economies of scale, strengthening the scope and quality of a project's impact, and promoting coalition building likely to transcend the project's lifetime and lead to future ventures.

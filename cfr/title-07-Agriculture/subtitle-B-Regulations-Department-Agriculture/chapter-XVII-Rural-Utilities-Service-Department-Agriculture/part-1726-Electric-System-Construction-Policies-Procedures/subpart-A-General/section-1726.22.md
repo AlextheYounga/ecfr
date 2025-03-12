@@ -1,0 +1,3 @@
+##### § 1726.22 Methods of construction. #####
+
+The borrower is generally responsible for determining whether construction will be by contract or force account. If construction is by contract, the borrower must determine whether materials will be supplied by the contractor or will be furnished by the borrower. RUS reserves the right to require contract construction in lieu of force account construction on a case by case basis.

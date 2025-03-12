@@ -1,0 +1,3 @@
+##### § 3560.575 Rental structure and changes. #####
+
+Off-farm labor housing is subject to the tenant contribution and rental unit rent requirements for Plan II housing established under subpart E of this part, except where seasonal housing will be occupied for less than a 3-month period. In such instances the best available and practical income verification methods may be used with prior approval of the Agency.

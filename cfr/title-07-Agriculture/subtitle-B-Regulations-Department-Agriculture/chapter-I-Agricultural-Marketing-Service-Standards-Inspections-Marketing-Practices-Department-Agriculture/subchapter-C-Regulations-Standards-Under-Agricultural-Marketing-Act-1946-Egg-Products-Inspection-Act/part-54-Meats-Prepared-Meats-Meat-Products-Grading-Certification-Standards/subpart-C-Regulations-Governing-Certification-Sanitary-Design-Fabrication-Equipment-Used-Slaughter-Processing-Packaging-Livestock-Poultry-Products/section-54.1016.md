@@ -1,0 +1,3 @@
+##### § 54.1016 Advance information concerning service rendered. #####
+
+Upon request of any applicant, all or any part of the contents of any report issued to the applicant under the regulations, or other notification concerning the determination of compliance of equipment or utensils for such applicant may be transmitted by facsimile transmission to the applicant, or to any person designated by the applicant at the applicant's expense.

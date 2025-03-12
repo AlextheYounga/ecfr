@@ -1,0 +1,3 @@
+##### § 14.4 Policy. #####
+
+Federal tax, conservation, natural resource, and environmental policies should complement rather than conflict with one another. Therefore, the Federal income tax liability on applicable payments should be reduced or eliminated to the extent that the payments yield conservation, environmental, forestry improvement, or wildlife benefits to the general public beyond the benefits that accrue to those who receive the payments.

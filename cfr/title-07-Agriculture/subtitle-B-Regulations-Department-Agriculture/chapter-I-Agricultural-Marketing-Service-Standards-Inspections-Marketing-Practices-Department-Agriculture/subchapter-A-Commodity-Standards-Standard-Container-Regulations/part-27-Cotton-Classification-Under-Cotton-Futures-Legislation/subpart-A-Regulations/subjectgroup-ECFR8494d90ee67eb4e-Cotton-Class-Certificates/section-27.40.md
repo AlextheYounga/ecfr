@@ -1,0 +1,3 @@
+##### § 27.40 New certificates; conditions of issuance. #####
+
+For the business convenience of a holder of a cotton class certificate issued under this subpart a new certificate may be issued at the request of the holder, to take the place of the former certificate without the reclassification of the cotton and without a new Micronaire determination for the cotton. In any case where a new certificate is issued in accordance with this section, the former certificate shall be surrendered for cancellation, and such new certificate shall bear a new number, the date of its issuance, and the date of original certification, and shall otherwise comply with this subpart.

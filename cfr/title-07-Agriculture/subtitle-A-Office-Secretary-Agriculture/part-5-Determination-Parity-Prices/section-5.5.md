@@ -1,0 +1,7 @@
+##### § 5.5 Publication of season average, calendar year, and parity price data. #####
+
+(a) New adjusted base prices for all of the commodities on a calendar year basis and for as many of the commodities on a marketing season average basis as are practicable shall be published on or about January 31 of each year. In cases where preliminary marketing season average price data are used in estimating the adjusted base prices published in January, any additional price data which becomes available shall be used in estimating a revised adjusted base price which shall be published prior to the beginning of the marketing season for the commodity.
+
+(b) The official parity prices determined under section 301(a)(1) and the regulations in this part and the indexes and relevant price data shall be published in the monthly report “Agricultural Prices” issued by the National Agricultural Statistics Service. Parity prices for all commodities for which parity prices are computed shall be so published in the January and July issues each year. The parity prices published in other issues may be restricted to those which the National Agricultural Statistics Service, after consultation with the Agricultural Marketing Service, the Farm Service Agency, and any other interested government agency, considers necessary or desirable. The parity prices determined in accordance with this part shall be the parity prices used in other reports, determinations, or documents of the Department.
+
+[21 FR 763, Feb. 3, 1956, as amended by Amdt. 16, 30 FR 2521, Feb. 26, 1965]

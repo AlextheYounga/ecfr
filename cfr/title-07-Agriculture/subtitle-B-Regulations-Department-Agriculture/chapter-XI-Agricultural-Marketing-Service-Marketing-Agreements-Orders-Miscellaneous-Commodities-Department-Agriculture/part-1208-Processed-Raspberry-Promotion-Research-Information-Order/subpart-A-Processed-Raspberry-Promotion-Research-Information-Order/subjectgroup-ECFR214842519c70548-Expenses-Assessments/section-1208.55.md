@@ -1,0 +1,3 @@
+##### § 1208.55 Independent evaluation. #####
+
+The Council shall, not less often than once every five years, authorize and fund, from funds otherwise available to the Council, an independent evaluation of the effectiveness of the Order and programs conducted by the Council pursuant to the Act. The Council shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this paragraph.

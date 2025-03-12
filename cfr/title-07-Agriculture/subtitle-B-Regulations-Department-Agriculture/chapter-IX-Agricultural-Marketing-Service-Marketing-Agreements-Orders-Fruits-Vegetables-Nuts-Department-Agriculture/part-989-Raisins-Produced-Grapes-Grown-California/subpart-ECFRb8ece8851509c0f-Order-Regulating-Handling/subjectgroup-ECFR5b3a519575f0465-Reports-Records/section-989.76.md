@@ -1,0 +1,5 @@
+##### § 989.76 Records. #####
+
+Each handler shall maintain such records of all raisins received, and of all raisins acquired, by him as prescribed by the committee. Such records shall include, but not be limited to, the quantity of raisins of each varietal type acquired from each person and the name and address of each such person, total acquisitions, total sales, and total other disposition of each varietal type which he handles, and each handler shall maintain such records for at least two years after the termination of the crop year in which the transactions occurred. The Committee, with the approval of the Secretary, may prescribe rules and regulations to include under this section handler records that detail promotion and advertising activities which the Committee may need to perform its functions under § 989.53.
+
+[25 FR 12813, Dec. 14, 1960, as amended at 48 FR 32978, July 20, 1983]

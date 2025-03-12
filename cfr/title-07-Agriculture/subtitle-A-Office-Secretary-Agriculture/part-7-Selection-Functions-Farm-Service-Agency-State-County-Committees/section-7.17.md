@@ -1,0 +1,5 @@
+##### § 7.17 Remedial measures. #####
+
+(a) FSA will consider additional efforts to achieve the objective that county committees are fairly representative of farmers and ranchers within areas covered by the committees. Such efforts may include, but are not limited to, compliance reviews of selected counties, further centralization of the election process, and the appointment of socially disadvantaged farmers and ranchers to particular committees in accordance with a notice published in the Federal Register issued by the Secretary authorizing such appointments.
+
+(b) The Secretary may ensure inclusion of socially disadvantaged farmers and ranchers by appointment of 1 additional voting member to a county committee when a significant population of socially disadvantaged farmers and ranchers exist in the committee jurisdiction and no member is elected from that socially disadvantaged population. The appointment of the socially disadvantaged voting member will be in accordance with standards and qualifications furnished by the State committee.

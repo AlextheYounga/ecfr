@@ -1,0 +1,5 @@
+##### § 1487.7 How are agreements formalized? #####
+
+Following the approval of a proposal, the CCC will enter into a written agreement with the organization that submitted the proposal. This program agreement will incorporate the proposal as approved by the FAS, include a maximum dollar amount that may be reimbursed (the funding level), and identify terms and conditions under which the CCC will reimburse certain costs of the project. Program agreements also will outline any specific responsibilities of the participant, including, but not limited to, the timely and effective implementation of program activities and the submission of a written report(s), on no less than an annual basis, which evaluates the TASC project using the performance measures presented in the approved proposal.
+
+[68 FR 42564, July 18, 2003]

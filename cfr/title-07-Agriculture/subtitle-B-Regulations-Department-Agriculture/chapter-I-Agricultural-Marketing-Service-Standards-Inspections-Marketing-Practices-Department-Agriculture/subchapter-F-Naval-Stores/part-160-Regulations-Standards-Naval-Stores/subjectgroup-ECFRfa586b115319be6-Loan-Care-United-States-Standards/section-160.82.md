@@ -1,0 +1,3 @@
+##### § 160.82 Return of security. #####
+
+The security deposit received from any person to whom duplicates of the United States Standards for rosin have been loaned will be held in the special deposit account of the Department, and the same will be returned to the person from whom received, or his legal representative, on surrender of the duplicates secured thereby: *Provided,* That before refund is made the cost of any repairs or replacement shall be deducted.

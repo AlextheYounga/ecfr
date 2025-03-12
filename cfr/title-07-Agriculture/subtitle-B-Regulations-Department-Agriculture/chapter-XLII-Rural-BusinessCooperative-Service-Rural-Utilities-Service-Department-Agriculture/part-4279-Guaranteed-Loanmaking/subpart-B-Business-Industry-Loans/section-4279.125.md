@@ -1,0 +1,11 @@
+##### § 4279.125 Interest rates. #####
+
+The interest rate for the guaranteed loan will be negotiated between the lender and the borrower and may be either fixed or variable, or a combination thereof, as long as it is a legal rate. Interest rates will not be more than those rates customarily charged borrowers for loans without guarantees and are subject to Agency review and approval. Lenders are encouraged to utilize the secondary market and pass interest-rate savings on to the borrower.
+
+(a) A variable interest rate must be a rate that is tied to a published base rate, published in a national or regional financial publication, agreed to by the lender and the Agency. The variable interest rate must be specified in the promissory note and may be adjusted at different intervals during the term of the loan, but the adjustments may not be more often than quarterly. The lender must incorporate, within the variable rate promissory note at loan closing, the provision for adjustment of payment installments. The lender must fully amortize the outstanding principal balance within the prescribed loan maturity in order to eliminate the possibility of a balloon payment at the end of the loan.
+
+(b) It is permissible to have different interest rates on the guaranteed and unguaranteed portions of the loan provided that the rate of the guaranteed portion does not exceed the rate on the unguaranteed portion, except for situations where a fixed rate on the guaranteed portion becomes a higher rate than the variable rate on the unguaranteed portion due to the normal fluctuations in the approved variable interest rate.
+
+(c) Any change in the base rate or fixed interest rate between issuance of Form RD 4279-3, “Conditional Commitment,” and Form RD 4279-5 must be approved in writing by the Agency. Approval of such change must be shown as an amendment to the Conditional Commitment in accordance with § 4279.173(b) and must be reflected on Form RD 1980-19, “Guaranteed Loan Closing Report.”
+
+(d) The lender's promissory note must not contain provisions for default or penalty interest nor will default or penalty interest, interest on interest, or late payment fees or charges be paid under the Loan Note Guarantee.

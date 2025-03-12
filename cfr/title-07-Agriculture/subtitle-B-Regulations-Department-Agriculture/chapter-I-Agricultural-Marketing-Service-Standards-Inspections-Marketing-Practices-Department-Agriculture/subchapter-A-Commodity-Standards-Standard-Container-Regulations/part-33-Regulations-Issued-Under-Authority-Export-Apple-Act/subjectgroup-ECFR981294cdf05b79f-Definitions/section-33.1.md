@@ -1,0 +1,3 @@
+##### § 33.1 Act. #####
+
+*Act* and *Export Apple Act* are synonymous and mean “An act to promote the foreign trade of the United States in apples to protect the reputation of American-grown apples in foreign markets, to prevent deception or misrepresentation as to the quality of such products moving to foreign commerce, to provide for the commercial inspection of such products entering such commerce, and for other purposes,” approved June 10, 1933 (48 Stat. 123; 7 U.S.C. 581 *et seq.*), and amended November 12, 1999 (113 Stat. 1321; 7 U.S.C. 581 *et seq.*).

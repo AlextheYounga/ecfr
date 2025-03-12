@@ -1,0 +1,5 @@
+##### § 989.71 Disposition of unsold reserve tonnage in above parity situations. #####
+
+In the event that the Secretary should find, during a crop year when reserve tonnage percentages have been designated and are in effect pursuant to this part, that the estimated season average price for raisins for that crop year will be in excess of the price level contemplated by the provisions of section 2(1) of the act, he shall issue an order providing for the orderly disposition of the unsold reserve tonnage then on hand, in such outlets, at such times, and in accordance with such terms and conditions, as he may determine to be appropriate in the circumstances. In determining the liquidation procedures and terms, the Secretary shall give consideration to the data and recommendations, if any, which may be submitted by the committee.
+
+[32 FR 12164, Aug. 24, 1967]

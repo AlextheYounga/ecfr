@@ -1,0 +1,5 @@
+##### § 220.18 Withholding payments. #####
+
+In accordance with 2 CFR 200.338 through 342, the State agency shall withhold Program payments, in whole or in part, to any school food authority which has failed to comply with the provisions of this part. Program payments shall be withheld until the school food authority takes corrective action satisfactory to the State agency, or gives evidence that such corrective actions will be taken, or until the State agency terminates the grant in accordance with § 220.19. Subsequent to the State agency's acceptance of the corrective actions, payments will be released for any breakfasts served in accordance with the provisions of this part during the period the payments were withheld.
+
+[72 FR 61495, Oct. 31, 2007, as amended at 81 FR 66491, Sept. 28, 2016]

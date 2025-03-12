@@ -1,0 +1,3 @@
+##### § 160.96 Report of violations for prosecution. #####
+
+In the event of failure of the person notified of an apparent violation of the act to submit to the Administrator a written answer as provided in § 160.95, or if, after such person has filed his answer or in addition, been given an opportunity to present his views orally, no sufficient reason has been shown why the alleged violation should not be reported for prosecution, the General Counsel of the Department, acting for and on behalf of the Administrator, shall report the alleged violation to the Department of Justice for appropriate action.

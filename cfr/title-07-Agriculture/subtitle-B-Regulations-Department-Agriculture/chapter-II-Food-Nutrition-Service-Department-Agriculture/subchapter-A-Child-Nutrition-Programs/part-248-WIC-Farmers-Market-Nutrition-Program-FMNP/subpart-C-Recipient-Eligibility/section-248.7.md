@@ -1,0 +1,13 @@
+##### § 248.7 Nondiscrimination. #####
+
+(a) *Civil rights requirements.* The State agency shall comply with the requirements of title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, Department of Agriculture regulations on nondiscrimination (7 CFR parts 15, 15a and 15b), and applicable FNS Instructions to ensure that no person shall, on the grounds of race, color, national origin, age, sex or handicap, be excluded from participation, be denied benefits, or be otherwise subjected to discrimination, under the FMNP. Because racial and ethnic participation data (as required by title VI of the Civil Rights Act of 1964) are collected at the time women, infants, and children are certified for participation in the WIC Program, the Department has determined that the WIC data collection effort is sufficient to fulfill the racial/ethnic data collection requirement for the FMNP. Therefore, no additional data collection is required. Compliance with title VI of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and regulations and instructions issued thereunder shall include, but not be limited to:
+
+(1) Notification to the public of the nondiscrimination policy and complaint rights of recipients and potentially eligible persons, which may be satisfied through the Department's required nondiscrimination statement on brochures and publications;
+
+(2) Review and monitoring activity to ensure FMNP compliance with the nondiscrimination laws and regulations;
+
+(3) Establishment of grievance procedures for handling recipient complaints based on sex and handicap.
+
+(b) *Complaints.* Persons seeking to file discrimination complaints may file them either with the Secretary of Agriculture, or the Director, USDA, Office of Adjudication and Compliance, Room 326-W, Whitten Building, 14th and Independence Avenue, SW., Washington, DC 20250-9410 (or call (800) 795-3272 (voice) or (202) 720-6382 (TTY)), or with the office established by the State agency to handle discrimination grievances or complaints. All complaints received by State agencies which allege discrimination based on race, color, national origin, or age shall be referred to the Secretary of Agriculture or the Director of the Office of Equal Opportunity, USDA. A State agency may process complaints which allege discrimination based on sex or handicap if grievance procedures are in place.
+
+[59 FR 11517, Mar. 11, 1994, as amended at 73 FR 65249, Nov. 3, 2008]

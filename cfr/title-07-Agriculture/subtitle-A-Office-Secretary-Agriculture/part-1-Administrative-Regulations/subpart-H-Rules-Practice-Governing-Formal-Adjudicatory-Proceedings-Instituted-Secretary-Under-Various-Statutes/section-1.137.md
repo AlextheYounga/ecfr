@@ -1,0 +1,7 @@
+##### § 1.137 Amendment of complaint, petition for review, or answer; joinder of related matters. #####
+
+(a) *Amendment.* At any time prior to the filing of a motion for a hearing, the complaint, petition for review, answer, or response to petition for review may be amended. Thereafter, such an amendment may be made with consent of the parties, or as authorized by the Judge upon a showing of good cause.
+
+(b) *Joinder.* The Judge shall consolidate for hearing with any proceeding alleging a violation of the Perishable Agricultural Commodities Act, 7 U.S.C. 499a *et seq.,* any petitions for review of determination of status by the Chief, PACA Branch, that individuals are responsibly connected, within the meaning of 7 U.S.C. 499a(b)(9), to the licensee during the period of the alleged violations. In any case in which there is no pending proceeding alleging a violation of the Perishable Agricultural Commodities Act, 7 U.S.C. 499a *et seq.,* but there have been filed more than one petition for review of determination of responsible connection to the same licensee, such petitions for review shall be consolidated for hearing.
+
+[61 FR 11504, Mar. 21, 1996, as amended at 68 FR 6340, Feb. 7, 2003]

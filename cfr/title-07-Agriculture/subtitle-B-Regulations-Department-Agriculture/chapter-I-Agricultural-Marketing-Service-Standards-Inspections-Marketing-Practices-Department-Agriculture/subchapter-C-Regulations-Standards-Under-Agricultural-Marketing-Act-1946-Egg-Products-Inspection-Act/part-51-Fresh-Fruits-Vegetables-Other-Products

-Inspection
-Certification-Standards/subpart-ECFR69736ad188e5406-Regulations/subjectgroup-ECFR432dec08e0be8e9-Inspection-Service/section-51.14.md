@@ -1,0 +1,3 @@
+##### § 51.14 Order of inspection service. #####
+
+Inspection service shall be performed, insofar as practicable, in the order of which applications are received, except that precedence shall be given (a) to the inspection of lots involved in complaints filed pursuant to the Perishable Agricultural Commodities Act, 1930 (U.S.C. 449a *et seq.*), and (b) to appeal inspections. Precedence may also be given to applications made on behalf of the Federal or State Government.

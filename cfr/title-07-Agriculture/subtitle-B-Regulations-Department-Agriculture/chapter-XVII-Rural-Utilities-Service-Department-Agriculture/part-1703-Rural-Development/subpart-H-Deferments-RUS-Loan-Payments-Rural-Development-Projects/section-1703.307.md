@@ -1,0 +1,3 @@
+##### § 1703.307 Uses of the deferments of loan payments. #####
+
+The deferment of loan payments will be made to enable the borrower to provide funding and assistance for rural development and job creation projects. This includes, but is not limited to, the borrower providing financing to local businesses, community development assistance, technical assistance to businesses, and other community, business, or economic development projects that will benefit rural areas.

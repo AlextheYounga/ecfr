@@ -1,0 +1,3 @@
+##### § 1230.75 Adjustment of accounts. #####
+
+Whenever the Board or the Department determines, through an audit of a person's reports, records, books or accounts or through some other means that additional money is due the Board or that money is due such person from the Board, such person shall be notified of the amount due. Any amount due the Board shall be remitted to the Board by the next date for remitting assessments as provided in § 1230.71(b)(3). Any overpayment to the Board shall be credited to the account of the person remitting the overpayment and shall be applied against amounts due in succeeding months except that the Board shall make prompt payment when an overpayment cannot be adjusted by a credit.

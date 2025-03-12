@@ -1,0 +1,3 @@
+##### § 923.33 Expenses and compensation. #####
+
+The members of the committee, and alternates when acting as members, shall be reimbursed for expenses necessarily incurred by them in the performance of their duties under this part and may also receive compensation, as determined by the committee, which shall not exceed $10 per day or portion thereof spent in performing such duties: *Provided,* That at its discretion the committee may request the attendance of one or more alternates at any or all meetings, notwithstanding the expected or actual presence of the respective members, and may pay expenses and compensation, as aforesaid.

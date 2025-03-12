@@ -1,0 +1,3 @@
+##### § 58.419 Curd mill and miscellaneous equipment. #####
+
+Knives, hand rakes, shovels, scoops, paddles, strainers, and miscellaneous equipment shall be stainless steel or of material approved in the 3-A Sanitary Standards for Plastic and Rubber-like Material. The product contact surfaces of the curd mill should be of stainless steel. All pieces of equipment shall be so constructed that they can be kept clean and free from rough or sharp edges which might scratch the equipment or remove metal particles. The wires in the curd knives shall be stainless steel, kept tight and replaced when necessary.

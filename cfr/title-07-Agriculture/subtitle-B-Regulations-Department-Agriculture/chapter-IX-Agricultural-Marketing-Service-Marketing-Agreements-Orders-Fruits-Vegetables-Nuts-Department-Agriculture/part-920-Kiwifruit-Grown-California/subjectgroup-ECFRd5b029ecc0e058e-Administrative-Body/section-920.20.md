@@ -1,0 +1,5 @@
+##### § 920.20 Establishment and membership. #####
+
+There is hereby established a Kiwifruit Administrative Committee consisting of 12 members, each of whom shall have an alternate who shall have the same qualifications as the member for whom he or she is an alternate. The 12-member committee shall be made up of the following: One public member (and alternate), and eleven members (and alternates). With the exception of the public member and alternate, all members and their respective alternates shall be growers or employees of growers. In accordance with § 920.31(l), district representation on the committee shall be based upon the previous five-year average production in the district and shall be established so as to provide an equitable relationship between membership and districts. The committee may, with the approval of the Secretary, provide such other allocation of membership as may be necessary to assure equitable representation.
+
+[75 FR 37291, June 29, 2010]

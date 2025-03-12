@@ -1,0 +1,5 @@
+##### § 1250.519 Late-payment charge. #####
+
+Any unpaid assessments due to the Board pursuant to § 1250.347 shall be increased by a late-payment charge of 1.5 percent each month beginning with the day following the date such assessments are 30 days past due. Any remaining amount due, which shall include any unpaid charges previously made pursuant to this section, shall be increased at the same rate on the corresponding day of each month thereafter until paid. Assessments that are not paid when due because of a person's failure to submit a handler report to the Board as required shall accrue late-payment charges from the time such assessments should have been remitted. The timeliness of a payment to the Board shall be based on the applicable postmark date or the date payment is actually received by the Board, whichever is earlier.
+
+[58 FR 34697, June 29, 1993]

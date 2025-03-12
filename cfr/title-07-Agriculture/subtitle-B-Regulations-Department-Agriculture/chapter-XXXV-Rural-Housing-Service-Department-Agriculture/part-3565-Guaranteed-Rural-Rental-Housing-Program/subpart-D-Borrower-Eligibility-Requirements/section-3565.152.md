@@ -1,0 +1,3 @@
+##### § 3565.152 Control of land. #####
+
+At time of application, the lender must have evidence of site control by the borrower (option to purchase, lease, deed or other evidence acceptable to the Agency). At the time of loan closing, the lender's closing docket must provide documentary evidence that the borrower owns or has a long-term lease on the land on which the housing is or will be located. The form of ownership or the leasehold agreement must meet Agency requirements. Notwithstanding any investment in the site, the site may not be accepted based on the Agency's environmental assessment.

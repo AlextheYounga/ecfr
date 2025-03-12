@@ -1,0 +1,3 @@
+##### § 782.1 Basis and purpose. #####
+
+The regulations contained in this part are issued pursuant to and in accordance with Section 321(f) of the North American Free Trade Agreement Implementation Act. These regulations govern the establishment of the end-use certificate program, the completion of end-use certificates, the identification of commodities requiring end-use certificates, the submission of reports, and the keeping of records and making of reports incident thereto.

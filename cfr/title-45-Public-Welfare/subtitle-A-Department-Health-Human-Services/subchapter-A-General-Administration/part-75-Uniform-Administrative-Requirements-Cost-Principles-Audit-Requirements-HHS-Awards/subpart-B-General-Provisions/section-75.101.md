@@ -1,7 +1,5 @@
 ##### § 75.101 Applicability. #####
 
-Link to an amendment published at 81 FR 89395, Dec. 12, 2016.
-
 (a) *General applicability to Federal agencies.* The requirements established in this part apply to Federal agencies that make Federal awards to non-Federal entities. These requirements are applicable to all costs related to Federal awards.
 
 (b)(1) *Applicability to different types of Federal awards.* The following table describes what portions of this part apply to which types of Federal awards. The terms and conditions of Federal-awards (including this part) flow down to subawards to subrecipients unless a particular section of this part or the terms and conditions of the Federal award specifically indicate otherwise. This means that non-Federal entities must comply with requirements in this part regardless of whether the non-Federal entity is a recipient or subrecipient of a Federal award. Pass-through entities must comply with the requirements described in subpart D of this part, §§ 75.351 through 75.353, but not any requirements in this part directed towards Federal awarding agencies unless the requirements of this part or the terms and conditions of the Federal award indicate otherwise. This table must be read along with the other provisions in this section
@@ -88,4 +86,6 @@ Link to an amendment published at 81 FR 89395, Dec. 12, 2016.
 
 (iii) Commodity Supplemental Food Program (section 5 of the Agriculture and Consumer Protection Act of 1973) 7 U.S.C. 612c note.
 
-[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3013, Jan. 20, 2016]
+(f) Section 75.300(c) does not apply to the Temporary Assistance for Needy Families Program (title IV-A of the Social Security Act, 42 U.S.C. 601-619).
+
+[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3013, Jan. 20, 2016; 81 FR 89395, Dec. 12, 2016]

@@ -1,0 +1,3 @@
+##### § 356.6 Storage of property. #####
+
+Following the seizure or other receipt of any property specified in § 356.1 and valued at $10,000 or less, the property shall remain in the custody of the Deputy Administrator pending disposition. Pending such disposition, the property shall be stored in such place, as, in the opinion of the Deputy Administrator, is most convenient and appropriate with due regard to the expense involved, whether or not the place of storage is within the judicial district in which the property was seized.

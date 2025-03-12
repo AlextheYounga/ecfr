@@ -1,0 +1,5 @@
+##### § 56.30 Application for grading service in official plants; approval. #####
+
+Any person desiring to process and pack products in a plant under grading service must receive approval of such plant and facilities as an official plant prior to the rendition of such service. An application for grading service to be rendered in an official plant shall be approved according to the following procedure: When application has been filed for grading service, as aforesaid, the State supervisor or the supervisor's assistant shall examine the grading office, facilities, and equipment and specify any facility or equipment modifications needed for the service. When the plant survey has been completed and approved in accordance with the regulations in this part, service may be installed.
+
+[71 FR 42009, July 24, 2006]

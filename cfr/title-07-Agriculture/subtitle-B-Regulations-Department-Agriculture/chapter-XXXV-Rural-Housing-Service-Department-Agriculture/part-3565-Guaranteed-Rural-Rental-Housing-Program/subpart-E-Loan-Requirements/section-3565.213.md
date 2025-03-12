@@ -1,0 +1,3 @@
+##### § 3565.213 Geographic distribution. #####
+
+The Agency may refuse to guarantee a loan in an area where there is undue risk due to a concentration in the market of properties subject to a Agency guaranteed loan. The Agency will consider the credit quality of the loan and overall market conditions in making a determination of undue risk. If any of the Agency guaranteed loans in the market are experiencing vacancy rates in excess of 15% and the vacancy is due to market conditions, the Agency will invoke this provision and not guarantee the loan.

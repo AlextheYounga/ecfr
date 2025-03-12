@@ -1,0 +1,11 @@
+##### § 1.51 Claims based on negligence, wrongful act or omission. #####
+
+(a) *Authority of the Department.* Under the provisions of the Federal Tort Claims Act (FTCA), as amended, 28 U.S.C. 2671-2680, and the regulations issued by the Department of Justice (DOJ) contained in 28 CFR part 14, the United States Department of Agriculture (USDA) may, subject to the provisions of the FTCA and DOJ regulations, consider, ascertain, adjust, determine, compromise, and settle claims for money damages against the United States for personal injury, death, or property loss or damage caused by the negligent or wrongful act or omission of any employee of USDA while acting within the scope of his or her office or employment, under circumstances where the United States, if it were a private person, would be liable, in accordance with the law of the place where the act or omission occurred.
+
+(b) *Procedure for filing claims.* Claims must be presented by the claimant, or by his or her duly authorized agent or legal representative as specified in 28 CFR 14.3. Standard Form 95, Claim for Damage or Injury, may be obtained from the agency within USDA that employs the employee who allegedly committed the negligent or wrongful act or omission. The completed claim form, together with appropriate evidence and information, as specified in 28 CFR 14.4, shall be filed with the agency from which it was obtained.
+
+(c) *Determination of claims*—(1) *Delegation of authority to determine claims.* The General Counsel, and such employees of the Office of the General Counsel as may be designated by the General Counsel, are hereby authorized to consider, ascertain, adjust, determine, compromise, and settle claims pursuant to the FTCA, as amended, and the regulations contained in 28 CFR part 14 and in this section.
+
+(2) *Disallowance of claims.* If a claim is denied, the General Counsel, or his or her designee, shall notify the claimant, or his or her duly authorized agent or legal representative.
+
+[61 FR 57577, Nov. 7, 1996]

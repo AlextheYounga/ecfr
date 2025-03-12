@@ -1,0 +1,3 @@
+##### § 1216.45 Alternate members. #####
+
+An alternate member of the Board, during the absence of the member for the primary peanut-producing state or at-large member for whom the person is the alternate, shall act in the place and stead of such member and perform such duties as assigned. In the event of death, removal, resignation, or disqualification of any member, the alternate for that state or at-large member shall act for the member until a successor for such member is selected and qualified. In the event that both a producer member of the Board and the alternate are unable to attend a meeting, the Board may not designate any other alternate to serve in such member's or alternate's place and stead for such a meeting.

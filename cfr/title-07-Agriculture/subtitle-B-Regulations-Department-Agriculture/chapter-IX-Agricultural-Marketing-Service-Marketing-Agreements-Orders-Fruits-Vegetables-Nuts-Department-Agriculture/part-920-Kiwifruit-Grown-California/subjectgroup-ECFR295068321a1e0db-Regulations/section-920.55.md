@@ -1,0 +1,7 @@
+##### § 920.55 Inspection and certification. #####
+
+(a) Whenever the handling of any variety of kiwifruit is regulated pursuant to § 920.52, or § 920.53, each handler who handles kiwifruit shall, prior thereto, cause such kiwifruit to be inspected by the Federal or Federal-State Inspection Service and certified as meeting the applicable requirements of such regulation: *Provided,* That inspection and certification shall not be required for kiwifruit which previously have been so inspected and certified if such prior inspection was performed within such period as may be established pursuant to paragraph (b) of this section. Promptly after inspection and certification, each such handler shall submit, or cause to be submitted, to the committee a copy of the certificate of inspection issued with respect to such kiwifruit. The committee may, with the approval of the Secretary, prescribe rules and regulations waiving the inspection requirements of this section where it is determined that inspection is not available: *Provided,* That all shipments made under such waiver shall comply with all regulations in effect.
+
+(b) The committee may, with the approval of the Secretary, establish a period prior to shipment during which the inspection required by this section must be performed.
+
+(c) The committee may enter into an agreement with the Federal and Federal-State Inspection Services with respect to the costs of the inspection required by paragraph (a) of this section, and may collect from handlers their respective pro rata shares of such costs.

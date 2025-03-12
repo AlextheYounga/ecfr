@@ -1,0 +1,3 @@
+##### § 1170.13 Verification of reports. #####
+
+For the purpose of assuring compliance and verification, records and reports required to be filed by manufacturers or other persons pursuant to section 273(b)(1)(A)(i) of the Act, the Agricultural Marketing Service, through its duly authorized agents, shall have access to any premises where applicable records are maintained, where dairy products are produced or stored, and at any time during reasonable business hours shall be permitted to inspect such manufacturer or person, and any original contracts, agreements, receipts, and other records associated with the sale of any dairy products.

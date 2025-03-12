@@ -1,0 +1,9 @@
+##### § 1260.203 Confidential treatment. #####
+
+All information obtained from such books, records or reports required under the Act and this subpart shall be kept confidential by all persons, including employees and agents and former employees and agents of the Board, all officers and employees and all former officers and employees of the Department, and by all officers and employees and all former officers and employees of contracting organizations having access to such information, and shall not be available to Board members or any other producers or importers. Only those persons having a specific need for such information in order to effectively administer the provisions of this subpart shall have access to this information. In addition, only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving this subpart. Nothing in this section shall be deemed to prohibit:
+
+(a) The issuance of general statements based upon the reports of the number of persons subject to this subpart or statistical data collected therefrom, which statements do not identify the information furnished by any person; and
+
+(b) The publication, by direction of the Secretary, of the name of any person who has been adjudged to have violated this subpart, together with a statement of the particular provisions of the subpart violated by such person.
+
+[51 FR 26138, July 18, 1986; 51 FR 26686, July 25, 1986]

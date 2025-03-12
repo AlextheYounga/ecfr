@@ -22,7 +22,7 @@ Repurchase against the account of \_\_\_\_ [*insert contractor's name*] under Or
 
 (B) Schedule, contract, and order number.
 
-(C) National stock or special item number(s), and a brief description of the item(s).
+(C) Line item number(s) and a brief description of the item(s).
 
 (D) Cost of schedule items involved.
 
@@ -46,4 +46,4 @@ Repurchase against the account of \_\_\_\_ [*insert contractor's name*] under Or
 
 (e) *Reporting.* An ordering activity contracting officer, in accordance with agency procedures, shall ensure that information related to termination for cause notices and any amendments are reported. In the event the termination for cause is subsequently converted to a termination for convenience, or is otherwise withdrawn, the contracting officer shall ensure that a notice of the conversion or withdrawal is reported. All reporting shall be in accordance with 42.1503(h).
 
-[69 FR 34234, June 18, 2004, as amended at 75 FR 60260, Sept. 29, 2010; 78 FR 46787, Aug. 1, 2013]
+[69 FR 34234, June 18, 2004, as amended at 75 FR 60260, Sept. 29, 2010; 78 FR 46787, Aug. 1, 2013; 82 FR 4713, Jan. 13, 2017]

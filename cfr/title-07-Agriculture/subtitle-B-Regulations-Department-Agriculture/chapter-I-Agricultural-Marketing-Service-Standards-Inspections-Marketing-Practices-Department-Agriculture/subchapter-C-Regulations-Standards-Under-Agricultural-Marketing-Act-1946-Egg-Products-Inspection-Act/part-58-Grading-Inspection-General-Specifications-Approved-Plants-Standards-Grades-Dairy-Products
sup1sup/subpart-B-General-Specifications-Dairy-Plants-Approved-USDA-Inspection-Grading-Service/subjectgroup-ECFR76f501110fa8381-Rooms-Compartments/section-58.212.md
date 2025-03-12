@@ -1,0 +1,3 @@
+##### § 58.212 Hopper or dump room. #####
+
+A separate room shall be provided for the transfer of bulk dry dairy products to the hoppers and conveyors which lead to the fillers. This room shall meet the same requirements for construction and facilities as the bulk packaging operation. Areas and facilities provided for the transfer of dry dairy products from portable bulk bins will be accepted if gasketed surfaces or direct connections are used that appreciably eliminate the escape of product into the area.

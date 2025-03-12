@@ -1,7 +1,5 @@
 ##### § 156.515 CO-OP standards. #####
 
-Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
-
 (a) *General.* A CO-OP must satisfy the standards in this section in addition to all other statutory, regulatory, or other requirements.
 
 (b) *Governance requirements.* A CO-OP must meet the following governance requirements:
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
 
 (iv) The first elected directors of the organization's operational board must be elected no later than one year after the effective date on which the organization provides coverage to its first member; the entire operational board must be elected or in place, and in full compliance with paragraph (b)(1)(i) of this section, no later than two years after the same date;
 
-(v) Elections of the directors on the organization's operational board subject to a vote of the members under paragraph (b)(1)(i) of this section must be contested so that the total number of candidates for contested seats on the operational board exceeds the number of contested seats for such directors, except in cases where a seat is vacated mid-term due to death, resignation, or removal.
+(v) Elections of the directors on the organization's operational board subject to a vote of the members under paragraph (b)(1)(i) of this section must be contested so that the total number of candidates for contested seats on the operational board exceeds the number of contested seats for such directors, except in cases where a seat is vacated mid- term due to death, resignation, or removal.
 
 (2) *Standards for board of directors.* The operational board for a CO-OP must meet the following standards:
 
@@ -54,4 +52,4 @@ Link to an amendment published at 81 FR 94182, Dec. 22, 2016.
 
 (d) *Requirement to become a CO-OP.* Loan recipients must meet the standards of § 156.515 no later than five years following initial drawdown of the Start-up Loan or three years following the initial drawdown of a Solvency Loan.
 
-[76 FR 77411, Dec. 13, 2011, as amended at 81 FR 29155, May 11, 2016]
+[76 FR 77411, Dec. 13, 2011, as amended at 81 FR 29155, May 11, 2016; 81 FR 94182, Dec. 22, 2016]

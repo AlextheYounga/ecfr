@@ -1,0 +1,3 @@
+##### § 623.22 Filing of false claims. #####
+
+If it is determined by NRCS that any participant has knowingly supplied false information or has knowingly filed a false claim, such participant shall be ineligible for any payment under this part. False information or false claims include claims for payment for practices which do not meet the specifications of the applicable WRPO. Any amounts paid under these circumstances shall be refunded, together with interest as determined by NRCS, and any amounts otherwise due such participant shall be withheld.

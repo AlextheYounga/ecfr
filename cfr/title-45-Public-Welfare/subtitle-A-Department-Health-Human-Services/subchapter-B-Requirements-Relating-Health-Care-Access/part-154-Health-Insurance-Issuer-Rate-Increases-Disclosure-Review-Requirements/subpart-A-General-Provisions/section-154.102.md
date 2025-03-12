@@ -1,7 +1,5 @@
 ##### § 154.102 Definitions. #####
 
-Link to an amendment published at 81 FR 94175, Dec. 22, 2016.
-
 As used in this part:
 
 *CMS* means the Centers for Medicare & Medicaid Services.
@@ -18,9 +16,9 @@ As used in this part:
 
 *Plan* has the meaning given the term in § 144.103 of this subchapter.
 
-*Product* means a package of health insurance coverage benefits with a discrete set of rating and pricing methodologies that a health insurance issuer offers in a State. The term product includes any product that is discontinued and newly filed within a 12-month period when the changes to the product meet the standards of § 147.106(e)(2) or (3) of this subchapter (relating to uniform modification of coverage).
+*Product* means a package of health insurance coverage benefits with a discrete set of rating and pricing methodologies offered in a State. The term product includes any product that is discontinued and newly filed within a 12-month period when the changes to the product meet the standards of § 147.106(e)(2) or (3) of this subchapter (relating to uniform modification of coverage).
 
-*Rate increase* means, with respect to rates filed -
+*Rate increase* means, with respect to rates filed—
 
 (1) For coverage effective prior to January 1, 2017, any increase of the rates for a specific product offered in the individual or small group market.
 
@@ -46,4 +44,4 @@ As used in this part:
 
 (2) When CMS adopts the determination of a State that has an Effective Rate Review Program, a rate increase that the State determines is excessive, unjustified, unfairly discriminatory, or otherwise unreasonable as provided under applicable State law.
 
-[76 FR 29985, May 23, 2011, as amended at 76 FR 54976, Sept. 6, 2011; 79 FR 30342, May 27, 2014; 80 FR 10863, Feb. 27, 2015]
+[76 FR 29985, May 23, 2011, as amended at 76 FR 54976, Sept. 6, 2011; 79 FR 30342, May 27, 2014; 80 FR 10863, Feb. 27, 2015; 81 FR 94175, Dec. 22, 2016]

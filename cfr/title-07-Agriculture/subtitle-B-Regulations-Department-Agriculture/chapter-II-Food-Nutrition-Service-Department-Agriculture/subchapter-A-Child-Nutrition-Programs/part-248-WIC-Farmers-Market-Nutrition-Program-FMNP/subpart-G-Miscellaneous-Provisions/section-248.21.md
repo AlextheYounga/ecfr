@@ -1,0 +1,11 @@
+##### § 248.21 Procurement and property management. #####
+
+(a) *Requirements.* State agencies shall comply with the requirements of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 for procurement of supplies, equipment and other services with FMNP funds. These requirements are adopted by FNS to ensure that such materials and services are obtained for the FMNP in an effective manner and in compliance with the provisions of applicable law and executive orders.
+
+(b) *Contractual responsibilities.* The standards contained in 2 CFR part 200, subpart D and Appendix II, Contract Provisions for Non-Federal Entity Contracts Under Federal Awards and USDA implementing regulations 2 CFR part 400 and part 415 do not relieve the State agency of the responsibilities arising under its contracts. The State agency is the responsible authority, without recourse to FNS, regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in connection with the FMNP. This includes, but is not limited to, disputes, claims, protests of award, source evaluation, or other matters of a contractual nature. Matters concerning violation of law are to be referred to such local, State or Federal authority as may have proper jurisdiction.
+
+(c) *State regulations.* The State agency may use its own procurement regulations which reflect applicable State and local regulations, provided that procurements made with FMNP funds adhere to the standards set forth in 2 CFR part 200, subpart D and Appendix II, Contract Provisions for Non-Federal Entity Contracts Under Federal Awards and USDA implementing regulations 2 CFR part 400 and part 415.
+
+(d) *Property acquired with program funds.* State and local agencies shall observe the standards prescribed in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 in their utilization and disposition of real property and equipment acquired in whole or in part with FMNP funds.
+
+[59 FR 11517, Mar. 11, 1994, as amended at 81 FR 66496, Sept. 28, 2016]

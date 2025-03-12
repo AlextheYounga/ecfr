@@ -1,0 +1,3 @@
+##### § 1219.8 Exempt handler. #####
+
+*Exempt handler* means a person who would otherwise be considered a first handler, except that all Hass avocados purchased by the person have already been subject to assessments under the Order. A person who handles both Hass avocados that have already been subject to assessments under the Order and Hass avocados that have not been subject to assessments under the Order is a first handler.

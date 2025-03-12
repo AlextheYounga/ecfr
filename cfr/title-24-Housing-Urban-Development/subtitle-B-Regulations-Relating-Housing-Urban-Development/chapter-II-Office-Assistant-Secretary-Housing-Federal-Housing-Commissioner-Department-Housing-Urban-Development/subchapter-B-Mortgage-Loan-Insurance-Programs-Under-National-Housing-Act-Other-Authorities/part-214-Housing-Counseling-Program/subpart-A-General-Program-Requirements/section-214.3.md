@@ -1,7 +1,5 @@
 ##### § 214.3 Definitions. #####
 
-Link to an amendment published at 81 FR 90658, December 14, 2016.
-
 The following definitions apply throughout this part:
 
 *Action plan.* A plan that outlines what the housing counseling agency and the client will do in order to meet the client's housing goals and, when appropriate, addresses the client's housing problem(s).
@@ -38,11 +36,19 @@ The following definitions apply throughout this part:
 
 (8) The importance of good credit.
 
+*Homeownership counseling.* See definition at 24 CFR 5.100.
+
+*Housing counseling.* See definition at 24 CFR 5.100.
+
+*Housing counseling grant funds.* Grants awarded to participating agencies under section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x).
+
 *Housing counseling work plan.* A participating agency's plan to provide housing counseling activities and services in a specified geographic area to resolve or mitigate identified community needs and problems. The plan will also describe the objectives of the agency and the resources available to meet those objectives. An intermediary's state housing finance agency's (SHFA) or multistate organization's (MSO) plan includes similar information regarding the services they propose to provide to the network of affiliated agencies or branches participating in their HUD-related Housing Counseling program.
 
 *Housing goal.* A realistic, short- or long-term objective set by the client, with advice from a housing counselor.
 
-*HUD-approved housing counseling agencies.* Private and public nonprofit organizations that are exempt from taxation under section 501(a), pursuant to section 501(c) of the Internal Revenue Code of 1996, 26 U.S.C. 501(a) and 501(c) and approved by HUD, in accordance with this part, to provide housing counseling services to clients directly, or through their affiliates or branches, and which meet the requirements set forth in this part.
+*HUD-approved housing counseling agency.* Private and public nonprofit organizations that are exempt from taxation under section 501(a), pursuant to section 501(c) of the Internal Revenue Code of 1996, 26 U.S.C. 501(a) and 501(c) and approved by HUD, in accordance with this part and 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)), to provide housing counseling services to clients directly, or through their affiliates or branches, and which meet the requirements set forth in this part.
+
+*HUD certified housing counselor.* A housing counselor who has passed the HUD Certification examination, works for a participating agency, and is certified by HUD as competent to provide housing counseling services pursuant to this part.
 
 *Intermediary.* A HUD-approved organization that provides housing counseling services indirectly through its branches or affiliates, for whom it exercises control over the quality and type of housing counseling services rendered. The Housing Counseling program recognizes two types of intermediaries, which include:
 
@@ -62,10 +68,20 @@ The following definitions apply throughout this part:
 
 *Multi-state organization (MSO).* A multi-state organization provides housing counseling services through a main office and branches in two or more states.
 
+*Nonprofit organization.* Shall have the meaning given in section 104(5) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704(5)), except that subparagraph (D) of such section shall not apply.
+
 *Participating agency.* Participating agencies are all housing counseling and intermediary organizations participating in HUD's Housing Counseling program, including HUD-approved agencies, and affiliates and branches of HUD-approved intermediaries, HUD-approved MSOs, and state housing finance agencies.
 
+*Rental housing counseling.* See definition at 24 CFR 5.100.
+
 *Reverse mortgage.* A mortgage that pays a homeowner loan proceeds drawn from accumulated home equity and that requires no repayment until a future time.
+
+*State.* Each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, or any other possession of the United States.
 
 *State housing finance agency (SHFA).* Any public body, agency, or instrumentality created by a specific act of a state legislature empowered to finance activities designed to provide housing and related facilities through land acquisition, construction, or rehabilitation throughout an entire state. SHFAs may provide direct counseling services or subgrant housing counseling funds, or both, to affiliated housing counseling agencies within the SHFA's state. “State” includes the several states, Puerto Rico, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the U.S. Virgin Islands.
 
 *Subgrantee.* An affiliate of a HUD-approved intermediary or SHFA that receives a subgrant of housing counseling funds provided under a HUD grant.
+
+*Unit of general local government.* Any city, county, parish, town, township, borough, village, or any other general purpose political subdivision of a State.
+
+[72 FR 55648, Sept. 28, 2007, as amended at 81 FR 90658, Dec. 14, 2016]

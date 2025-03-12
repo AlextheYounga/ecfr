@@ -1,0 +1,5 @@
+##### § 550.100 Purpose and scope. #####
+
+(a) *Purpose.* This part adopts the OMB guidance in subparts A through F of 2 CFR part 200, as supplemented by this part, as REE policies and procedures for non-assistance cooperative agreements executed under the authority of Section 1472(b) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended (7 U.S.C 3318(b)). It thereby makes applicable for REE non-assistance cooperative agreements the OMB guidance, as supplemented by this part.
+
+(b) *Scope.* The REE Agencies subject to this rule include ARS, National Agricultural Statistics Service (NASS), Economics Research Service (ERS), and the National Institute of Food and Agriculture (NIFA). These agreements are neither procurement nor assistance in nature, and therefore, are not subject to the Federal Grant and Cooperative Agreements Act of 1977.

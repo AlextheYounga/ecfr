@@ -1,5 +1,7 @@
 ##### § 15.105 Responses to requests. #####
 
+Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
+
 (a) *Acknowledgements of requests.* The FOIA office in the Office of the Executive Secretariat in HUD Headquarters and FOIA Public Liaison in each HUD field office will ordinarily send an acknowledgement letter to the requester that will confirm receipt of the request by the appropriate HUD office and provide an assigned tracking number, as provided by § 15.104(b), for further reference.
 
 (b) *Consultations, coordination, and referrals.* When HUD receives a request for a record in its possession, it shall determine whether another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA or whether it should be disclosed as a matter of administrative discretion. If HUD determines that it is best able to determine whether the record is exempt from disclosure, then it shall do so. If HUD determines that it is not best able to make that determination, then it shall either:

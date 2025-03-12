@@ -1,0 +1,3 @@
+##### § 1.74 Basis for special working relationships. #####
+
+The Department and its agencies may lend special assistance on television films when it is clearly evident that public interests are served. Where special assistance is sought, an individual cooperative agreement will be drawn up between the Department with the Director of Information as its agent, and the producer. Details on such assistance as reviewing stories and scripts, loan of material, arrangements for locations, use of official motion picture footage, assignment of technical advisors and similar aids will be covered in the agreement, which shall delineate the general stipulations listed in § 1.75.

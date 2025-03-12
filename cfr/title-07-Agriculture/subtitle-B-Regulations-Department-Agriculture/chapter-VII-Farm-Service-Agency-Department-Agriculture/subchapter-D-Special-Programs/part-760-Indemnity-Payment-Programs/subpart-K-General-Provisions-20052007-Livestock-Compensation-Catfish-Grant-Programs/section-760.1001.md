@@ -1,0 +1,7 @@
+##### § 760.1001 Eligible counties, disaster events, and disaster periods. #####
+
+(a) Except as provided in this subpart, FSA will provide assistance under the programs listed in § 760.1000 to eligible participants who have suffered certain losses due to eligible disaster events in eligible disaster counties provided in paragraph (c) of this section.
+
+(b) The “Disaster Period” is the time period in which losses occurred for the particular disaster that may be considered eligible for the programs under subparts L and M of this part. The start and end dates for each eligible disaster period are specified at *http://disaster.fsa.usda.gov.*
+
+(c) Eligible counties are those primary counties declared by the Secretary or designated for the applicable loss by the President, including counties contiguous to those counties, between January 1, 2005, and February 28, 2007 (that is after January 1, 2005 and before February 28, 2007). The listing is provided at *http://disaster.fsa.usda.gov.* For counties where there was an otherwise timely Presidential declaration, but the declarations do not cover agricultural physical loss, the subject counties may still be eligible if the counties were the subject of an approved Administrator's Physical Loss Notice (APLN) when the APLN applies to a natural disaster timely designated by the President.

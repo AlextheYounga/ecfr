@@ -1,0 +1,3 @@
+##### § 54.23 Who shall perform appeal service. #####
+
+Appeal service for products shall be performed by official graders designated by the Chief or by the official in charge of an office of grading when so authorized by the Chief, and shall be conducted jointly by two official graders, or more when practicable. No official grader shall perform appeal service for any product for which he previously performed the service.

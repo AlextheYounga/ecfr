@@ -1,0 +1,3 @@
+##### § 1216.55 Investment of funds. #####
+
+The Board may invest, pending disbursement, funds it receives under this subpart, only in obligations of the United States or any agency of the United States; general obligations of any state or any political subdivision of a state; interest bearing accounts or certificates of deposit of financial institutions that are members of the Federal Reserve system; or obligations that are fully guaranteed as to principal and interest by the United States.

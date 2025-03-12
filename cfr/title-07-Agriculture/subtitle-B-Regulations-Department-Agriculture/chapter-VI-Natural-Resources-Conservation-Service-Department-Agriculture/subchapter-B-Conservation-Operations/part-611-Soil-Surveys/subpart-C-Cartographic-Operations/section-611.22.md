@@ -1,0 +1,3 @@
+##### § 611.22 Availability of satellite imagery. #####
+
+Cloud-free maps of the United States based on imagery received from a satellite are prepared and released to the public by NRCS. The maps offer the first image of the United States not obscured by clouds or distortions. Orders or requests for information should be directed to the National Cartography and Geospatial Center, USDA—Natural Resources Conservation Service; P.O. Box 6567, FWFC-Bldg. 23; 501 W. Felix Street; Forth Worth, Texas 76115. Orders are subject to the fee schedule cited in § 1.2(b) of this title.

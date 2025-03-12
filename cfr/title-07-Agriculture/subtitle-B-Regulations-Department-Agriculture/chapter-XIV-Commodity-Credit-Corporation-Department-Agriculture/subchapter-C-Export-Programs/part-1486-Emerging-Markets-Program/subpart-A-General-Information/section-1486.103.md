@@ -1,0 +1,3 @@
+##### § 1486.103 Are regional projects possible under the program? #####
+
+Projects that focus on regions, such as the Caribbean Basin, rather than individual countries, are eligible for consideration provided such projects target qualifying emerging markets in the specified region. CCC may consider activities which target qualified emerging markets in a specific region, but are conducted in a non-emerging market because of its importance as a central location and ease of access to that region.

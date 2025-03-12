@@ -1,0 +1,3 @@
+##### § 22.303 Cooperation with Federal Regional Councils. #####
+
+States are urged to establish and maintain close and cooperative relationships with the Federal Regional Councils which will be in a position to assist the States and multicounty jurisdictions in the identification and application of available resources. States may authorize direct communications and liaison between the Regional Councils and multicounty jurisdictions within States.

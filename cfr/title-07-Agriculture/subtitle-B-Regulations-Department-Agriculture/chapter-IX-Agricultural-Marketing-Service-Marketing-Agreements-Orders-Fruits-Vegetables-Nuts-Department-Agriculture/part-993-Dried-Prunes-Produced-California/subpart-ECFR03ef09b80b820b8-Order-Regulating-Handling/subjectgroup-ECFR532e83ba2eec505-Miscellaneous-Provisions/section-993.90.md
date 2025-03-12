@@ -1,0 +1,7 @@
+##### § 993.90 Termination or suspension. #####
+
+(a) *Failure to effectuate policy of act.* The Secretary may, at any time, terminate the provisions of this subpart, by giving at least one day's notice by means of a press release or in any other manner which he may determine. The Secretary shall terminate or suspend the operation of any or all of the provisions of this subpart, whenever he finds that such provisions do not tend to effectuate the declared policy of the act.
+
+(b) *Referendum.* The Secretary shall terminate the provisions of this subpart on or before the fifteenth day of July of any crop year, to be effective at the end of such crop year, whenever he is required to do so by the provisions of section 8c(16)(B) of the act. The Secretary may, at any time he deems it desirable, hold a referendum of producers to determine whether they favor termination of this subpart. However, beginning with 1951, if the Secretary receives a recommendation, adopted by at least a majority vote of the producer members of the committee, requesting the holding of such a referendum, the Secretary shall hold such a referendum: *Provided,* That the Secretary shall not be required to hold such a referendum upon the basis of such a request more than once every two years.
+
+(c) *Termination of act.* The provisions of this subpart shall terminate, in any event, upon the termination of the act.

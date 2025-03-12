@@ -1,0 +1,3 @@
+##### § 1486.203 Which commodities/products are eligible for consideration under the program? #####
+
+All U.S. agricultural commodities/products except tobacco are eligible for consideration. Agricultural product(s) should be comprised of at least 50 percent U.S. origin content by weight, exclusive of added water, to be eligible for funding. Projects which seek support for multiple commodities are also eligible.

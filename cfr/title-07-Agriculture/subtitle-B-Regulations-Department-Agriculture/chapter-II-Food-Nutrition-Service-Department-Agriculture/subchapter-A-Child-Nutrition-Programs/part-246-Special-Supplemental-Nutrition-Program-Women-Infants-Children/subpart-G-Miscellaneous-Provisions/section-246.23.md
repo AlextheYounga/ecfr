@@ -1,0 +1,31 @@
+##### § 246.23 Claims and penalties. #####
+
+(a) *Claims against State agencies.* (1) If FNS determines through a review of the State agency's reports, program or financial analysis, monitoring, audit, or otherwise, that any Program funds provided to a State agency for supplemental foods or nutrition services and administration purposes were, through State or local agency negligence or fraud, misused or otherwise diverted from Program purposes, a formal claim will be assessed by FNS against the State agency. The State agency shall pay promptly to FNS a sum equal to the amount of the nutrition services and administration funds or the value of supplemental foods food instruments, or cash-value vouchers so misused or diverted.
+
+(2) If FNS determines that any part of the Program funds received by a State agency; or supplemental foods, either purchased or donated commodities; or food instruments or cash-value vouchers, were lost as a result of thefts, embezzlements, or unexplained causes, the State agency shall, on demand by FNS, pay to FNS a sum equal to the amount of the money or the value of the supplemental foods, food instruments, or cash-value vouchers so lost.
+
+(3) The State agency shall have full opportunity to submit evidence, explanation or information concerning alleged instances of noncompliance or diversion before a final determination is made in such cases.
+
+(4) FNS will establish a claim against any State agency that has not accounted for the disposition of all redeemed food instruments and cash-value vouchers and taken appropriate follow-up action on all redeemed food instruments and cash-value vouchers that cannot be matched against valid enrollment and issuance records, including cases that may involve fraud, unless the State agency has demonstrated to the satisfaction of FNS that it has:
+
+(i) Made every reasonable effort to comply with this requirement;
+
+(ii) Identified the reasons for its inability to account for the disposition of each redeemed food instrument or cash-value voucher; and
+
+(iii) Provided assurances that, to the extent considered necessary by FNS, it will take appropriate actions to improve its procedures.
+
+(b) *Interest charge on claims against State agencies.* If an agreement cannot be reached with the State agency for payment of its debts or for offset of debts on its current Letter of Credit within 30 days from the date of the first demand letter from FNS, FNS will assess an interest (late) charge against the State agency. Interest accrual shall begin on the 31st day after the date of the first demand letter, bill or claim, and shall be computed monthly on any unpaid balance as long as the debt exists. From a source other than the Program, the State agency shall provide the funds necessary to maintain Program operations at the grant level authorized by FNS.
+
+(c) *Claims*—(1) *Claims against participants.* (i) *Procedures.* If the State agency determines that program benefits have been obtained or disposed of improperly as the result of a participant violation, the State agency must establish a claim against the participant for the full value of such benefits. For all claims, the State agency must issue a letter demanding repayment. If full restitution is not made or a repayment schedule is not agreed on within 30 days of receipt of the letter, the State agency must take additional collection actions until restitution is made or a repayment schedule is agreed on, unless the State agency determines that further collection actions would not be cost-effective. The State agency must establish standards, based on a cost benefit analysis, for determining when collection actions are no longer cost-effective. At the time the State agency issues the demand letter, the State agency must advise the participant of the procedures to follow to obtain a fair hearing pursuant to § 246.9 and that failure to pay the claim may result in disqualification. In addition to establishing a claim, the State agency must determine whether disqualification is required by § 246.12(u)(2).
+
+(ii) *Types of restitution.* In lieu of financial restitution, the State agency may allow participants or parents or caretakers of infant or child participants for whom financial restitution would cause undue hardship to provide restitution by performing in-kind services determined by the State agency. Restitution may not include offsetting the claim against future program benefits, even if agreed to by the participant or the parent or caretaker of an infant or child participant.
+
+(iii) *Disposition of claims.* The State agency must document the disposition of all participant claims.
+
+(2) *Claims against the State agency.* FNS will assert a claim against the State agency for losses resulting from program funds improperly spent as a result of dual participation, if FNS determines that the State agency has not complied with the requirements in § 246.7(l)(1).
+
+(3) *Delegation of claims responsibility.* The State agency may delegate to its local agencies the responsibility for collecting participant claims.
+
+(d) *Penalties.* In accordance with section 12(g) of the National School Lunch Act, whoever embezzles, willfully misapplies, steals or obtains by fraud any funds, assets or property provided under section 17 of the Child Nutrition Act of 1966, as amended, whether received directly or indirectly from USDA, or whoever receives, conceals or retains such funds, assets or property for his or her own interest, knowing such funds, assets or property have been embezzled, willfully misapplied, stolen, or obtained by fraud shall, if such funds, assets or property are of the value of $100 or more, be fined not more than $25,000 or imprisoned not more than five years, or both, or if such funds, assets or property are of a value of less than $100, shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
+
+[50 FR 6121, Feb. 13, 1985, as amended at 52 FR 21238, June 4, 1987; 65 FR 83288, Dec. 29, 2000; 71 FR 56731, Sept. 27, 2006; 72 FR 68998, Dec. 6, 2007; 79 FR 12300, Mar. 4, 2014]

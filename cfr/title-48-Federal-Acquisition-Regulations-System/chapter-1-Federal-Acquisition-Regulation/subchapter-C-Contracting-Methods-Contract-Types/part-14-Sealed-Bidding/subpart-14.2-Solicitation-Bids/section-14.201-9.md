@@ -4,9 +4,9 @@
 
 (a) *Solicitation/contract form.* Standard Form (SF) 1447, Solicitation/Contract, shall be used as the first page of the solicitation.
 
-(b) *Contract schedule.* Include the following for each contract line item:
+(b) *Contract schedule.* Include the following for each line item:
 
-(1) Contract line item number.
+(1) Line item number.
 
 (2) Description of supplies or services, or data sufficient to identify the requirement.
 
@@ -26,7 +26,7 @@
 
 (d) *List of documents and attachments.* Include if necessary.
 
-(e) *Representations and instructions* - (1) *Representations and certifications.* Insert those solicitation provisions that require representations, certifications, or the submission of other information by offerors.
+(e) *Representations and instructions*—(1) *Representations and certifications.* Insert those solicitation provisions that require representations, certifications, or the submission of other information by offerors.
 
 (2) *Instructions, conditions, and notices.* Include the solicitation provisions required by 14.201-6. Include any other information/instructions necessary to guide offerors.
 
@@ -34,4 +34,4 @@
 
 (4) Upon award, the contracting officer need not physically include the provisions in subparagraphs (e)(1), (2), and (3) of this subsection in the resulting contract, but shall retain them in the contract file. Award by acceptance of a bid on the award portion of SF 1447 incorporates the representations, certifications, and other statements of bidders in the resultant contract even though not physically attached.
 
-[54 FR 48983, Nov. 28, 1989, as amended at 56 FR 41733, Aug. 22, 1991]
+[54 FR 48983, Nov. 28, 1989, as amended at 56 FR 41733, Aug. 22, 1991; 82 FR 4713, Jan. 13, 2017]

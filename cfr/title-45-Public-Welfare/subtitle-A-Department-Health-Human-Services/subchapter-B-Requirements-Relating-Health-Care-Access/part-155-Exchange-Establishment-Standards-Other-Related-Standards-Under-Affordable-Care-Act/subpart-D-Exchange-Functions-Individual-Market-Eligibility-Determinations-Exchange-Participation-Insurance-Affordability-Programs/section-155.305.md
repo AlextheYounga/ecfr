@@ -1,7 +1,5 @@
 ##### § 155.305 Eligibility standards. #####
 
-Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
-
 (a) *Eligibility for enrollment in a QHP through the Exchange.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange if he or she meets the following requirements:
 
 (1) *Citizenship, status as a national, or lawful presence.* Is a citizen or national of the United States, or is a non-citizen who is lawfully present in the United States, and is reasonably expected to be a citizen, national, or a non-citizen who is lawfully present for the entire period for which enrollment is sought;
@@ -66,7 +64,9 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (3) *Enrollment required.* The Exchange may provide advance payments of the premium tax credit on behalf of a tax filer only if one or more applicants for whom the tax filer attests that he or she expects to claim a personal exemption deduction for the benefit year, including the tax filer and his or her spouse, is enrolled in a QHP that is not a catastrophic plan, through the Exchange.
 
-(4) *Compliance with filing requirement.* The Exchange may not determine a tax filer eligible for advance payments of the premium tax credit if HHS notifies the Exchange as part of the process described in § 155.320(c)(3) that advance payments of the premium tax credit were made on behalf of the tax filer or either spouse if the tax filer is a married couple for a year for which tax data would be utilized for verification of household income and family size in accordance with § 155.320(c)(1)(i), and the tax filer or his or her spouse did not comply with the requirement to file an income tax return for that year as required by 26 U.S.C. 6011, 6012, and implementing regulations and reconcile the advance payments of the premium tax credit for that period.
+(4) *Compliance with filing requirement.* (i) The Exchange may not determine a tax filer eligible for advance payments of the premium tax credit if HHS notifies the Exchange as part of the process described in § 155.320(c)(3) that advance payments of the premium tax credit were made on behalf of the tax filer or either spouse if the tax filer is a married couple for a year for which tax data would be utilized for verification of household income and family size in accordance with § 155.320(c)(1)(i), and the tax filer or his or her spouse did not comply with the requirement to file an income tax return for that year as required by 26 U.S.C. 6011, 6012, and implementing regulations and reconcile the advance payments of the premium tax credit for that period.
+
+(ii) Notwithstanding the requirement in paragraph (f)(4)(i) of this section, the Exchange may not deny eligibility for advance payments of the premium tax credit under paragraph (f)(4)(i) of this section unless direct notification is first sent to the tax filer, consistent with the standards set forth in § 155.230, that his or her eligibility will be discontinued as a result of the tax filer's failure to comply with the requirement specified under paragraph (f)(4)(i) of this section.
 
 (5) *Calculation of advance payments of the premium tax credit.* The Exchange must calculate advance payments of the premium tax credit in accordance with 26 CFR 1.36B-3.
 
@@ -116,4 +116,4 @@ Link to an amendment published at 81 FR 94177, Dec. 22, 2016.
 
 (ii) Section 5000A(e)(5) of the Code (relating to individuals with hardships).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 81 FR 94177, Dec. 22, 2016]

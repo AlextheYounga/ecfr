@@ -1,0 +1,5 @@
+##### § 250.16 Claims and restitution for donated food losses. #####
+
+(a) *Distributing agency responsibilities.* The distributing agency must ensure that restitution is made for the loss of donated foods, or for the loss or improper use of funds provided for, or obtained as an incident of, the distribution of donated foods. The distributing agency must identify, and seek restitution from, parties responsible for the loss, and implement corrective actions to prevent future losses.
+
+(b) *FNS claim actions.* FNS may initiate and pursue claims against the distributing agency or other entities for the loss of donated foods, or for the loss or improper use of funds provided for, or obtained as an incident of, the distribution of donated foods. FNS may also initiate and pursue claims against the distributing agency for failure to take required claim actions against other parties. FNS may, on behalf of the Department, compromise, forgive, suspend, or waive a claim. FNS may, at its option, require assignment to it of any claim arising from the distribution of donated foods.

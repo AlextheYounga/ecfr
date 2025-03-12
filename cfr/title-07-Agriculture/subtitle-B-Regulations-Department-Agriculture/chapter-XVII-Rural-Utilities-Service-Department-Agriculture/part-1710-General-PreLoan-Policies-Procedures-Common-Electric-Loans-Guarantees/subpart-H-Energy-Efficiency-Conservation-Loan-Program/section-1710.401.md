@@ -1,0 +1,3 @@
+##### § 1710.401 RUS policy. #####
+
+EE Programs under this subpart may be financed at the distribution level or by an electric generation and transmission provider. RUS encourages borrowers to coordinate with the relevant member systems regarding their intention to implement a program financed under this subpart. RUS also encourages borrowers to leverage funds available under this subpart with State, local, or other funding sources that may be available to implement such programs.

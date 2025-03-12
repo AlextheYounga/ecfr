@@ -1,0 +1,5 @@
+##### § 502.5 Nuisances. #####
+
+The use of loud, abusive or otherwise improper language, unwarranted loitering, sleeping, or assembly, the creating of any hazard to persons or things, improper disposal of rubbish, spitting, prurient prying, the commission of any obscene or indecent act, or any other unseemly or disorderly conduct, throwing articles of any kind from a building, or climbing upon any part of a building is prohibited. Further, conduct which obstructs the usual use of entrances, foyers, corridors, office elevators, stairways and parking lots, or which otherwise tends to impede or disturb BARC employees in the performance of their duties or which otherwise impedes the general public from obtaining the administrative services provided by BARC is prohibited.
+
+[61 FR 51211, Oct. 1, 1996]

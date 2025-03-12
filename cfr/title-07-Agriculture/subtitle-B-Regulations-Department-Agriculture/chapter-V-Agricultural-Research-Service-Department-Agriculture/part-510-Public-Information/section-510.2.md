@@ -1,0 +1,3 @@
+##### § 510.2 Public inspection, copying, and indexing. #####
+
+5 U.S.C. 552(a)(2) requires that certain materials be made available for public inspection and copying and that a current index of these materials be published quarterly or otherwise be made available. Members of the public may request access to such materials maintained by ARS at the following office: Information Staff, ARS, REE, USDA, Room 1-2248, Mail Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD 20705-5128; Telephone (301) 504-1640 or (301) 504-1655; TTY-VOICE (301) 504-1743. Office hours are 8 a.m. to 4:30 p.m. Information maintained in our electronic reading room can be accessed at *http://www.ars.usda.gov/is/foia/#Electronic.*

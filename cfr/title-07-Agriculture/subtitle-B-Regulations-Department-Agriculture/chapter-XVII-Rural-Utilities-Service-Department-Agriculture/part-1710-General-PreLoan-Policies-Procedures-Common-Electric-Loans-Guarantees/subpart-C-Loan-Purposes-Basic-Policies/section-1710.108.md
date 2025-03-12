@@ -1,0 +1,5 @@
+##### § 1710.108 Mergers and consolidations. #####
+
+(a) RUS encourages its borrowers to consider merging or consolidating with another electric borrower when such action will contribute to greater operating efficiency and financial soundness.
+
+(b) After a merger or consolidation, RUS will give priority consideration per § 1710.119 to the processing of loans for the surviving system to finance the integration and rehabilitation of electric facilities, if necessary, and the improvement or extension of electric service in rural areas. Such priority consideration will also be given in the case of a borrower that has merged or consolidated with an electric system that has not previously received RUS financial assistance, if such system was serving primarily rural residents at the time of the merger or consolidation and such rural residents will continue to be served by the merged or consolidated system. RUS does not make loans for costs incurred in effectuating mergers or consolidations, such as legal expenses or feasibility study costs.

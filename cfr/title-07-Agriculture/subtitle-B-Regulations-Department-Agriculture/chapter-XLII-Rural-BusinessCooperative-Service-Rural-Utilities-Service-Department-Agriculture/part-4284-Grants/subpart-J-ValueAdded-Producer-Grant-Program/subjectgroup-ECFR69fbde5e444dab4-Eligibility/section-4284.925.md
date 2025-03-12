@@ -1,0 +1,15 @@
+##### § 4284.925 Eligible uses of grant and Matching Funds. #####
+
+In general, grant and cost-share Matching Funds have the same use restrictions and must be used to fund only the costs for eligible purposes as defined in paragraphs (a) and (b) of this section.
+
+(a) Planning Grant funds may be used to pay for a Qualified Consultant to conduct and develop a Feasibility Study, Business Plan, and/or Marketing Plan associated with the processing and/or marketing of a Value-added Agricultural Product.
+
+(1) Planning Grant funds may not be used to compensate Applicants or family members for participation in Feasibility Studies.
+
+(2) In-kind contribution of Matching Funds to cover Applicant or family member participation in planning activities is allowed so long as the value of such contribution does not exceed a maximum of 25 percent of the Total Project Costs and an adequate explanation of the basis for the valuation, referencing comparable market values, salary and wage data, expertise or experience of the contributor, per unit costs, industry norms, etc., is provided. Final valuation for Applicant or family member in-kind contributions is at the discretion of the Agency. Planning funds may not be used to evaluate the agricultural production of the commodity itself, other than to determine the project's input costs related to the feasibility of processing and marketing the Value-Added Agricultural Product.
+
+(b) Working capital funds may be used to pay the project's operational costs directly related to the processing and/or marketing of the Value-Added Agricultural Product.
+
+(1) Examples of eligible working capital expenses include designing or purchasing a financial accounting system for the project, paying salaries of employees without ownership or Immediate Family interest to process and/or market and deliver the Value-Added Agricultural Product to consumers, paying for raw commodity inventory (less than 50 percent of the amount required for the project) from an unaffiliated third party, necessary to produce the Value-Added Agricultural Product, and paying for a marketing campaign for the Value-Added Agricultural Product.
+
+(2) In-kind contributions may include appropriately valued inventory of raw commodity to be used in the project. In-kind contributions of Matching Funds may also include contributions of time spent on eligible tasks by Applicants or Applicant family members so long as the value of such contribution does not exceed a maximum of 25 percent of the Total Project Costs and an adequate explanation of the basis for the valuation, referencing comparable market values, salary and wage data, expertise or experience of the contributor, per unit costs, industry norms, etc. is provided. Final valuation for Applicant or family member in-kind contributions is at the discretion of the Agency.

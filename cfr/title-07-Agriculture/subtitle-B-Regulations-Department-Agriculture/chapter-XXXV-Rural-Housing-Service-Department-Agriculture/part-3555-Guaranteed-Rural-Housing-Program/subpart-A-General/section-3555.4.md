@@ -1,0 +1,3 @@
+##### § 3555.4 Mediation and appeals. #####
+
+Whenever Rural Development makes a decision that will adversely affect a participant, the participant may proceed with alternative dispute resolution including mediation and a USDA National Appeals Division hearing in accordance with 7 CFR parts 1 and 11. The participant also may request an informal review of the adverse decision made by Rural Development. Except when the adverse decision applies to a loss claim, the applicant or borrower and the lender may participate in the appeal process. Adverse decisions made by the lender cannot be appealed unless concurrence by Rural Development was required by this subpart and obtained by the lender.

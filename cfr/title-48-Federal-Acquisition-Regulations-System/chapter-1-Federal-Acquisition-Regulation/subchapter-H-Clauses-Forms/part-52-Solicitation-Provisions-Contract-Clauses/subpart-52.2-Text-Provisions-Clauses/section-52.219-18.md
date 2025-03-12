@@ -1,8 +1,8 @@
-##### 52.219-18 Notification of Competition Limited to Eligible 8(a) Concerns. #####
+##### 52.219-18 Notification of Competition Limited to Eligible 8(a) Participants. #####
 
 As prescribed in 19.811-3(d), insert the following clause:
 
-Notification of Competition Limited to Eligible 8(a) Concerns (JUN 2003)
+Notification of Competition Limited to Eligible 8(a) Participants (JAN 2017)
 
 (a) Offers are solicited only from small business concerns expressly certified by the Small Business Administration (SBA) for participation in the SBA's 8(a) Program and which meet the following criteria at the time of submission of offer -
 
@@ -20,10 +20,10 @@ Notification of Competition Limited to Eligible 8(a) Concerns (JUN 2003)
 
 (End of clause)
 
-*Alternate I* (APR 2005). If the competition is to be limited to 8(a) concerns within one or more specific SBA regions or districts, add the following paragraph (a)(3) to paragraph (a) of the clause:
+*Alternate I* (JAN 2017). If the competition is to be limited to 8(a) participants within one or more specific SBA regions or districts, add the following paragraph (a)(3) to paragraph (a) of the clause:
 
 (3) The offeror's approved business plan is on the file and serviced by \_\_\_\_\_\* \_\_\_\_\_ (\**Contracting Officer completes by inserting the appropriate SBA District and/or Regional Office(s) as identified by the SBA*).
 
 *Alternate II* (DEC 1996). When the acquisition is for a product in a class for which the Small Business Administration has determined that there are no small business manufacturers or processors in the Federal market in accordance with 19.502-2(c), delete subparagraph (d)(1).
 
-[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989, as amended at 55 FR 3889, Feb. 5, 1990; 55 FR 25532, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 60 FR 48267, Sept. 18, 1995; 61 FR 39209, July 26, 1996; 61 FR 67422, Dec. 20, 1996; 62 FR 238, Jan. 2, 1997; 62 FR 12720, Mar. 17, 1997; 64 FR 32745, June 17, 1999; 64 FR 51850, Sept. 24, 1999; 68 FR 28085, May 22, 2003; 70 FR 18959, Apr. 11, 2005]
+[54 FR 46009, Oct. 31, 1989; 54 FR 48105, Nov. 21, 1989, as amended at 55 FR 3889, Feb. 5, 1990; 55 FR 25532, June 21, 1990; 55 FR 38518, Sept. 18, 1990; 60 FR 48267, Sept. 18, 1995; 61 FR 39209, July 26, 1996; 61 FR 67422, Dec. 20, 1996; 62 FR 238, Jan. 2, 1997; 62 FR 12720, Mar. 17, 1997; 64 FR 32745, June 17, 1999; 64 FR 51850, Sept. 24, 1999; 68 FR 28085, May 22, 2003; 70 FR 18959, Apr. 11, 2005; 82 FR 4731, Jan. 13, 2017]

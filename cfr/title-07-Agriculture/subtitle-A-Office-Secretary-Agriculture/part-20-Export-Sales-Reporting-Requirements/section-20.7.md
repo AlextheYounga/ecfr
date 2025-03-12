@@ -1,0 +1,5 @@
+##### § 20.7 Confidentiality of reports. #####
+
+A reporting exporter's individual reports shall remain confidential and subject to examination only by designatees of the Administrator. Information from reports filed by exporters on a weekly basis will be compiled and published in compilation form each week following the week of reporting. Information from daily reports filed by exporters will be made available to the public on the following business day at 9 a.m., eastern time. Information from monthly reports filed by exporters will be compiled and published in compilation form in the weekly report no later than the week following the time of filing specified in § 20.6(k).
+
+[43 FR 5497, Feb. 9, 1978, as amended by Amdt. 3, 45 FR 8562, Feb. 8, 1980; Amdt. 5, 45 FR 24440, Apr. 10, 1980; 68 FR 62215, Nov. 3, 2003]

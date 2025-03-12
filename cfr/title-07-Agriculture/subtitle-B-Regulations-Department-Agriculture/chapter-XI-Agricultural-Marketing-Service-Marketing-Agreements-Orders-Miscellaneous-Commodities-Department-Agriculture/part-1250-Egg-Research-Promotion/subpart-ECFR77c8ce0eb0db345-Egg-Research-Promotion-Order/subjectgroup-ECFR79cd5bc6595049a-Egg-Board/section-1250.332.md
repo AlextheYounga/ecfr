@@ -1,0 +1,3 @@
+##### § 1250.332 Alternate members. #####
+
+An alternate member of the Board, during the absence of the member for whom he is the alternate, shall act in the place and stead of such member and perform such other duties as assigned. In the event of the death, removal, resignation, or disqualification of a member, his alternate shall act for him until a successor for such member is appointed and qualified.

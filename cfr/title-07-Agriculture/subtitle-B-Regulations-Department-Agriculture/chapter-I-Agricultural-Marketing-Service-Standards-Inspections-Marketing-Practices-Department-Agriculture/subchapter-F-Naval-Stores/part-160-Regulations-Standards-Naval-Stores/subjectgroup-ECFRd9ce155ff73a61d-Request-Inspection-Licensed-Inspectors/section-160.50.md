@@ -1,0 +1,3 @@
+##### § 160.50 Reports to be made by accredited processors. #####
+
+Each accredited processor shall furnish the Administrator such reports and other information relative to the operation and output of his eligible processing plant as the Administrator may deem necessary or appropriate for the administration of the provisions in this part applicable to licensed inspection, subject to the approval of the Bureau of the Budget. Failure by an accredited processor to keep such records as may be necessary for him to submit correct reports, or failure by the processor to supply correct information to the Administrator shall be deemed a violation of the provisions in this part, and cause for suspension or revocation of his inspection permit.

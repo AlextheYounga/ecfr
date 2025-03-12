@@ -1,0 +1,3 @@
+##### § 795.20 Joint and several liability. #####
+
+Where two or more individuals or legal entities, who are treated as one person hereunder, receive payments which in the aggregate exceed the limitation, such individuals or legal entities shall be liable, jointly and severally, for any liability arising therefrom. The provisions of this part requiring the refund of payments shall be applicable in addition to any liability under criminal and civil fraud statutes.

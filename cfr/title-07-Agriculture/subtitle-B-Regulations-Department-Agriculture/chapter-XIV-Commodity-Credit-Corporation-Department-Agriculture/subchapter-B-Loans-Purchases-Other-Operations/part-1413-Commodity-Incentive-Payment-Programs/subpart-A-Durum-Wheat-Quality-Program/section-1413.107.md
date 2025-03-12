@@ -1,0 +1,7 @@
+##### § 1413.107 Availability of funds. #####
+
+(a) The 2008 Farm Bill authorizes up to $10 million to be appropriated for each of the 2009 through 2012 fiscal years for DWQP. Payments will not be made for claims for a particular crop year until after the application deadline, which is September 15 of that crop year, for the crop for which payment for the fungicide application is sought and only if funds are made available through an appropriation.
+
+(b) In the event that approval of all eligible applications for fungicide treatments for a particular crop would result in expenditures in excess of the amounts appropriated for that crop year, the FSA Deputy Administrator will prorate the funds by a national factor to reduce the total expected payments to the amount made available by the Secretary. FSA will prorate the payments in such manner as it determines appropriate and reasonable.
+
+(c) Claims that are unpaid or paid at a reduced rate for a crop year for any reason will not be carried forward for payment under other funds for later crop years, unless provided for by law and approved by the Deputy Administrator. Such unpaid claims will be considered, as to any unpaid amount, void and nonpayable.

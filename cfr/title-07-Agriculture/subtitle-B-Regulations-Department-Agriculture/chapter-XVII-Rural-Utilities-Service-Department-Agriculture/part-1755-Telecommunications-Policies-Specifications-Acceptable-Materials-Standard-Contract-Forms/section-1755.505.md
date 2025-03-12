@@ -1,0 +1,110 @@
+##### § 1755.505 Buried services. #####
+
+(a) Buried services of two or three pairs shall consist of Service Entrance Buried (SEB) assembly units, in accordance with RUS Bulletin 1753F-153 (RUS Form 515d), Specifications and Drawings for Service Installations at Customer Access Locations. The wire used for buried services shall conform to the requirements of § 1755.860, RUS specification for filled buried wires, and shall be RUS accepted or RUS technically accepted. The conductor size for two and three pair buried service wires shall be 22 American Wire Gauge (AWG). Copies of RUS Bulletin 1753F-153 are available upon request from RUS/USDA, 1400 Independence Avenue, SW., STOP 1522, Washington, DC 20250-1522, FAX (202) 690-2268.
+
+(b) Buried services of six or more pairs shall be RUS accepted or RUS technically accepted 22 AWG filled buried cable conforming to the requirements of § 1755.390, RUS specification for filled telephone cables.
+
+(c) Buried service wire or cable shall be terminated in buried plant housings using either splicing connectors or filled terminal blocks in accordance with the applicable paragraphs of § 1755.200, RUS standard for splicing copper and fiber optic cables.
+
+(d) Buried service wire or cable shall be identified at buried plant housings in accordance with construction drawing 958 contained in § 1755.510.
+
+(e) Buried service wire or cable shall be installed up to the building in the same general manner as buried exchange cable but in addition must meet the following requirements:
+
+(1) Light weight lawn plows or trenchers shall be used;
+
+(2) The shortest feasible route commensurate with the requirements of § 1755.508(i), (j), and (k), and paragraph (f)(1) of this section shall be followed;
+
+(3) Buried service wire or cable shall be plowed or trenched to a depth of 12 in. (305 mm) or greater where practicable in soil, 36 in. (914 mm) in ditches, or 3 in. (76 mm) in rock. Depths shall be measured from the top of the wire or cable to the surface of the ground or rock;
+
+(4) In the case of a layer of soil over rock either the minimum depth in rock measured to the surface of the rock, or the minimum depth in soil measured to the surface of the soil may be used; and
+
+(5) Where adequate advance planning has been done, burial of telecommunications services jointly with electric power services may be feasible. If a decision has been reached by management to provide joint occupancy services, the services may be installed using the recommendations in RUS Bulletin 1751F-640, “Design of Buried Plant—Physical Considerations.” Copies of RUS Bulletin 1751F-640 are available upon request from RUS/USDA, 1400 Independence Avenue, SW., STOP 1522, Washington, DC 20250-1522, FAX (202) 720-4120.
+
+(f) Buried service wire or cable shall be installed on or in buildings as follows:
+
+(1) Each buried service wire or cable shall contact the building as close to the NID, BET, or fused primary station protector as practicable. Service wire or cable runs on buildings shall normally consist of a single vertical run held to the minimum practical length. Horizontal and diagonal runs shall not be permitted.
+
+(2) Buried service wire or cable shall be located so as to avoid damage from lawn mowers, animals, gardening operations, etc.
+
+(3) Buried service wire or cable shall be installed against a foundation wall or pillar to provide adequate support and mechanical protection.
+
+(4) Where it is likely that the service wire or cable shall be subjected to mechanical damage, the wire or cable shall be enclosed in a guard in accordance with assembly unit drawing BM83 contained in § 1755.510.
+
+(5) The first above-ground attachment for a buried service wire or cable, unless it is enclosed in a guard, shall not be more than 4 in. (100 mm) above final grade.
+
+(6) Uninsulated attachment devices may be used to attach buried service wire and cable to masonry and other types of noncombustible buildings and on any type of building if fuseless primary station protectors incorporated in NIDs or BETs are used and installations fully comply with section 800-30(a)(1) of ANSI/NFPA 70-1999, *NEC* ®. The *National Electrical Code* ® and *NEC* ® are registered trademarks of the National Fire Protection Association, Inc., Quincy, MA 02269. The ANSI/NFPA 70-1999, *NEC* ®, is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from NFPA, 1 Batterymarch Park, P.O. Box 9101, Quincy, Massachusetts 02269-9101, telephone number 1(800)344-3555. Copies of ANSI/NFPA 70-1999, *NEC* ®, are available for inspection during normal business hours at RUS, room 2905, U.S. Department of Agriculture, 1400 Independence Avenue, SW., STOP 1598, Washington, DC 20250-1598, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(7) Insulated attachments shall be used to separate service wires or cables from woodwork where section 800-30(a)(2) of ANSI/NFPA 70-1999, *NEC* ® requiring the use of fused primary station protectors must be observed.
+
+(8) Minimum separation between buried service wire or cable and other facilities shall be as listed in Table 1, as follows:
+
+|                                                                                                                                                                                                    Foreign facility or obstruction                                                                                                                                                                                                     |Minimum clearance in. [mm] <sup>1 2</sup> telecommunications company's wires or cables|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+|                                                                                                                                                                                    Electric supply wire including neutral and grounding conductors:                                                                                                                                                                                    |                                                                                      |
+|                                                                                                                                                                                                                  Open                                                                                                                                                                                                                  |                                       4 [102]                                        |
+|                                                                                                                                                                                                               In conduit                                                                                                                                                                                                               |                                       2 [50.8]                                       |
+|                                                                                                                                                                                    Radio and television antennas, Lead-in and grounding conductors                                                                                                                                                                                     |                                       4 [102]                                        |
+|                                                                                                                                                                                                Lightning rods and lightning conductors                                                                                                                                                                                                 |                                <sup>3</sup> 72 [1830]                                |
+|                                                                                                                                                                                All foreign grounding conductors except lightning rod ground conductors                                                                                                                                                                                 |                                       2 [50.8]                                       |
+|                                                                                                                                                                                                    Neon signs and associated wiring                                                                                                                                                                                                    |                                       6 [150]                                        |
+|                                                                                                                                                                                  Metallic objects—pipes (gas, cold water, oil, sewer) and structures                                                                                                                                                                                   |                                <sup>4</sup> 2 [50.8]                                 |
+|                                                                                                                                                                                            Wires or cables of another communications system                                                                                                                                                                                            |                                       2 [50.8]                                       |
+|                                                                                                             <sup>1</sup> If minimum separation cannot be obtained, nonshielded wire and cable facilities shall be protected with either porcelain tubes or flexible tubing as modified by Notes (3) and (4) of this table.                                                                                                             |                                                                                      |
+|                                                                                                                                                                                    <sup>2</sup> Separation applies to crossings and parallel runs.                                                                                                                                                                                     |                                                                                      |
+|<sup>3</sup> If this separation cannot be obtained, bond the telecommunications grounding conductors or grounding electrode to the lightning rod grounding conductor or grounding electrode with at least a Number (No.) 6 AWG copper, insulated, ground wire. With this provision a minimum separation of 4 in. (100 mm) is acceptable but this provision must not be utilized if the separation cited in this table can be maintained.|                                                                                      |
+|                                                                                                                                                  <sup>4</sup> Increase to a minimum of 3 in. (75 mm) separation from steam or hot water pipes, heating ducts, and other heat sources.                                                                                                                                                  |                                                                                      |
+
+(9) Wire and cable attachments to buildings for outside mounted NIDS, BETs, or fused primary station protectors shall be in accordance with construction drawing 962 contained in § 1755.510.
+
+(10) Appropriate devices for attaching service wire or cable on or in buildings vary with the type of building construction and the wire or cable size. Figures 1 and 2 illustrate various types of anchoring devices and their applications. The size and type of fastening device for the wire or cable size and type of surface shall be in accordance with the manufacturer's recommendation; Figures 1 and 2 are as follows:
+
+![](/graphics/er17au01.001.gif)![](/graphics/er17au01.002.gif)
+
+(11) Experience indicates that there are objections from many owners of buildings covered with aluminum or vinyl siding to the drilling of holes in the siding for the attachment of wires or cables, and NIDs, BETs, or fused primary station protectors. It is, therefore, important to obtain permission from the owner before drilling holes in such siding.
+
+(12) If the NID, BET, or fused primary station protector must be mounted inside (not recommended by RUS), the service entrance into the building shall be installed in accordance with section 800-12(c) of ANSI/NFPA 70-1999, *NEC* ®. After pulling-in the wire or cable, the free space around the cable or wire shall be carefully sealed both outside and inside with a duct sealer that has RUS acceptance or RUS technical acceptance.
+
+(13) If the customer requests an all buried installation for an alarm system or objects to above-ground facilities because of appearance and one-party service is involved, the entrance hole shall be made below grade as shown in sketch C of construction drawing 510-2 contained in § 1755.510. Care shall be exercised to prevent damage to the building foundation. The hole shall be sealed as specified in paragraph (f)(12) of this section. The installation shall comply with all the requirements of section 800-12(c) of ANSI/NFPA 70-1999, *NEC* ®.
+
+(g) When the NID, BET, or fused primary station protector is to be installed inside the building, the installation shall comply with section 800-12(c) of ANSI/NFPA 70-1999, *NEC* ®, and the outside plant wire or cable shall preferably be installed in a rigid metal or intermediate metal conduit that is grounded to an electrode in accordance with section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ®, as shown in sketch A of Figure 3 in paragraph (h)(2) of this section. The shield of the outside plant wire or cable shall be bonded to the grounding terminal of the NID, BET, or fused primary station protector which in turn shall be connected to the closest, existing, and accessible grounding electrode, of the electrodes cited in section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ®.
+
+(h) An inside NID, BET, or fused primary station protector installation may also be made without use of a rigid metal or intermediate metal conduit provided that the ingress of the outside plant wire or cable complies with section 800-12(c) of ANSI/NFPA 70-1999, *NEC* ®, and provided either of the following are observed:
+
+(1) The NID, BET, or fused primary station protector is located as close as practicable to the point where the outside plant wire or cable emerges through an exterior wall. The length of outside plant wire or cable exposed within the building shall be as short as practicable but in no case shall it be longer than 50 feet (ft) (15.2 meters (m)) in accordance with the allowable exception No. 3 of section 800-50 of ANSI/NFPA 70-1999, *NEC* ®. See sketch B of Figure 3 in paragraph (h)(2) of this section. The shield of the outside plant wire or cable shall be bonded to the grounding terminal of the NID, BET, or fused primary station protector which in turn shall be connected to the closest, existing and accessible grounding electrode, of the electrodes cited in section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ® (Fine print Note No. 2 of ANSI/NFPA 70-1999, *NEC* ®, section 800-50, warns that the full 50 ft (15.2 m) may not be authorized for outside unlisted cable (not in a metal or intermediate metal conduit) within a building if it is practicable to place the NID, BET, or fused primary station protector closer than 50 ft (15.2 m) to the cable entrance point, e.g., if there is an acceptable and accessible grounding electrode of the type cited in section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ®, anywhere along the proposed routing of the outside cable within the building); or
+
+(2) Where the NID, BET, or fused primary station protector must be located within the building remote from the entrance point and the entrance point of the outside plant wire or cable cannot be designed to be closer to the NID, BET, or fused primary station protector location, the outside plant wire or cable shall be spliced, as close as practicable to the point where the outside plant wire or cable emerges through an outside wall, to an inside wiring cable that is “Listed” as being suitable for the purpose in accordance with part E of article 800 of ANSI/NFPA 70-1999, *NEC* ®. The length of outside plant wire or cable exposed within the building shall be as short as practicable but in no case shall it be longer than 50 ft (15.2 m) in accordance with the allowable exception No. 3 of section 800-50 of ANSI/NFPA 70-1999, *NEC* ®. See sketch C of Figure 3. The shield of the outside plant wire or cable shall be bonded to the grounding terminal of the NID, BET, or fused primary station protector which in turn shall be connected to the closest, existing, and accessible grounding electrode, of the electrodes cited in section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ® (Fine print Note No. 2 of the ANSI/NFPA 70-1999, *NEC* ®, section 800-50, warns that the full 50 ft (15.2 m) may not be authorized for outside unlisted cable (not in a metal or intermediate metal conduit) if it is practicable to place the NID, BET, or fused primary station protector closer than 50 ft (15.2 m) to the cable entrance point, e.g., if there is an acceptable and accessible grounding electrode of the type cited in section 800-40(b) of ANSI/NFPA 70-1999, *NEC* ®, anywhere along the proposed routing of the outside cable within the building). Figure 3 is as follows:
+
+![](/graphics/er17au01.003.gif)
+
+(i) The polarity of buried wire or cable “tip” and “ring” conductors shall be maintained by making the connections in accordance with Table 2, as follows:
+
+|       Pair        |      Tip       |       Ring        |                |      |
+|-------------------|----------------|-------------------|----------------|------|
+|Color of insulation|Color of marking|Color of insulation|Color of marking|      |
+|         1         |     White      |       Blue        |      Blue      |White |
+|         2         |     White      |      Orange       |     Orange     |White |
+|         3         |     White      |       Green       |     Green      |White |
+|         4         |     White      |       Brown       |     Brown      |White |
+|         5         |     White      |       Slate       |     Slate      |White |
+|         6         |      Red       |       Blue        |      Blue      | Red  |
+|         7         |      Red       |      Orange       |     Orange     | Red  |
+|         8         |      Red       |       Green       |     Green      | Red  |
+|         9         |      Red       |       Brown       |     Brown      | Red  |
+|        10         |      Red       |       Slate       |     Slate      | Red  |
+|        11         |     Black      |       Blue        |      Blue      |Black |
+|        12         |     Black      |      Orange       |     Orange     |Black |
+|        13         |     Black      |       Green       |     Green      |Black |
+|        14         |     Black      |       Brown       |     Brown      |Black |
+|        15         |     Black      |       Slate       |     Slate      |Black |
+|        16         |     Yellow     |       Blue        |      Blue      |Yellow|
+|        17         |     Yellow     |      Orange       |     Orange     |Yellow|
+|        18         |     Yellow     |       Green       |     Green      |Yellow|
+|        19         |     Yellow     |       Brown       |     Brown      |Yellow|
+|        20         |     Yellow     |       Slate       |     Slate      |Yellow|
+|        21         |     Violet     |       Blue        |      Blue      |Violet|
+|        22         |     Violet     |      Orange       |     Orange     |Violet|
+|        23         |     Violet     |       Green       |     Green      |Violet|
+|        24         |     Violet     |       Brown       |     Brown      |Violet|
+|        25         |     Violet     |       Slate       |     Slate      |Violet|
+
+[66 FR 43317, Aug. 17, 2001, as amended at 69 FR 18803, Apr. 9, 2004]

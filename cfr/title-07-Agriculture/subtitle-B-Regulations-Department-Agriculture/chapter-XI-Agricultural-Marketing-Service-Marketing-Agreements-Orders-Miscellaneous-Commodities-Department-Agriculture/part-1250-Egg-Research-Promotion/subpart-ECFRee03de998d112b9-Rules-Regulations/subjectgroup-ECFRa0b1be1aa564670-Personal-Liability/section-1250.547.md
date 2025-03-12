@@ -1,0 +1,3 @@
+##### § 1250.547 Personal liability. #####
+
+No member, alternate member, employee, or agent of the Board in the performance of his duties with the Board shall be held personally responsible either individually or jointly with others, in anyway whatsoever, to any person for errors in judgment, mistakes, or other acts, either of commission or omission, by such member, alternate member, employee, or agent, except for acts of dishonesty or willful misconduct.

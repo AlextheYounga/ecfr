@@ -1,0 +1,3 @@
+##### § 1726.12 Applicability. #####
+
+The requirements of this part apply to the procurement of materials and equipment for use by electric borrowers in their electric systems and to the construction of their electric systems if such materials, equipment, and construction are financed, in whole or in part, with loans made or guaranteed by RUS, including reimbursable projects. In order for general fund expenditures for procurement or construction to be eligible for reimbursement from loan funds, the borrower must comply with the procedures required by this part. In the case of jointly owned projects, RUS will determine on a case by case basis the applicability of the requirements of this part.

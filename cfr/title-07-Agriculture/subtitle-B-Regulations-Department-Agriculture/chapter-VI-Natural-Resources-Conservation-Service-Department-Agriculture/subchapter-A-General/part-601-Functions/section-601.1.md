@@ -1,0 +1,61 @@
+##### § 601.1 Functions assigned. #####
+
+The Natural Resources Conservation Service (NRCS) is the Federal agency that works with private landowners to conserve their natural resources. NRCS employees help land users and communities approach conservation planning and implementation with an understanding of how natural resources relate to each other and to people—and how human activities affect those resources. The agency emphasizes voluntary, science-based assistance, partnerships, and cooperative problem solving at the community level. The mission of NRCS is to work on the Nation's non-Federal lands to conserve, improve, and sustain natural resources. The following functions support the mission.
+
+(a) NRCS facilitates and provides conservation technical assistance at the local level that helps people assess their natural resource conditions and needs, set goals, identify programs and other resources to address those needs, develop proposals and recommendations, implement solutions, and measure their success. The agency's role is to assist with:
+
+(1) Resource inventories,
+
+(2) Resource assessments,
+
+(3) Planning assistance, and/or
+
+(4) Technical assistance.
+
+(b) NRCS provides technical assistance through local conservation districts to land users, communities, watershed groups, Federal and State agencies, other partners, and customers.
+
+(c) NRCS provides assistance on a voluntary basis.
+
+(d) The agency's work focuses on soil, water, air, plant, and animal conservation including erosion reduction, water quality improvement, wetland restoration and protection, fish and wildlife habitat improvement, range management, stream restoration, water management, and other natural resource issues.
+
+(e) Through the conservation operations program, NRCS maintains a cadre of conservationists and interdisciplinary technical experts who provide landowners with advice and recommendations. Science based procedures and techniques are based on new knowledge and research provided by the Agricultural Research Service and others. NRCS developed and maintains a system of directives—including manuals, handbooks, and technical references—to institutionalize new methods, procedures, and standards used to deliver technical assistance at the field level.
+
+(f) NRCS has general responsibility for administration of the following programs:
+
+(1) Conservation operations, authorized by the Soil Conservation Act of 1935 and the Soil and Water Resources Conservation Act of 1977. Activities include:
+
+(i) Conservation technical assistance to land users, communities, units of State and local government, and other Federal agencies in planning and implementing natural resource solutions to reduce erosion, improve soil and water quantity and quality, improve and conserve wetlands, enhance fish and wildlife habitat, improve air quality, improve pasture and range conditions, reduce upstream flooding, and improve woodlands. Assistance is also provided to implement the highly erodible land (HEL) and wetland conservation (Swampbuster) provisions and—on a reimbursable basis—the Wetlands Reserve Program (WRP) and Conservation Reserve Program (CRP) in the 1985 Food Security Act, as amended by the Food, Agriculture, Conservation and Trade Act of 1990 and Federal Agriculture Improvement and Reform Act of 1996. NRCS technical field staff make HEL and wetland determinations and assist land users to develop and implement conservation plans needed to ensure compliance with the law. NRCS is also the lead Federal agency for delineating wetlands on agricultural lands for purposes of implementing both the provisions of the Food Security Act and Section 404 of the Clean Water Act.
+
+(ii) Soil surveys that provide the public with local information on the uses and capabilities of their soil resource. Soil surveys are based on scientific analysis and classification of the soils and are used to determine land capabilities and conservation treatment needs. Surveys are conducted cooperatively with other Federal agencies, land grant universities, State agencies, and local units of government. NRCS is the world leader in soil classification and soil mapping, and is expanding into soil quality.
+
+(iii) Snow survey and water supply forecasts that provide western States and Alaska with vital information and forecasts of seasonable variable water supplies. NRCS field staff in cooperation with partnering organizations manually collect data from 850 remote high mountain sites. Data is electronically collected from an additional 600 SNOTEL (automated snowpack telemetry network) sites. In cooperation with the National Weather Service, the data is assembled and analyzed. Then, NRCS staff develop seasonal water supply forecasts.
+
+(iv) Plant Material Centers that assemble, test, and encourage increased plant propagation and usefulness of plant species for biomass production, carbon sequestration, erosion reduction, wetland restoration, water quality improvement, streambank and riparian area protection, coastal dune stabilization, and to meet other special conservation treatment needs. The work is carried out cooperatively with State and Federal agencies, private organizations, commercial businesses, and seed and nursery associations. After species are proven, they are released to the private sector for commercial production.
+
+(v) National Resources Inventory (NRI) that is a statistically-based survey designed and implemented using scientific principles to assess conditions and trends of soil, water, and related resources on nonfederal lands in the United States. The NRI captures data on land cover and use, soil erosion, prime farmland, wetlands, habitat diversity, selected conservation practices, and related attributes at thousands of scientifically selected sample sites in all 50 states, Puerto Rico, the U.S. Virgin Islands, and some Pacific Basin locations.
+
+(2) Conservation programs in the Federal Agriculture Improvement and Reform Act of 1996, most of which are funded by the Commodity Credit Corporation (CCC). NRCS provides leadership and technical assistance for the following programs:
+
+(i) *Environmental Quality Incentives Program (EQIP).* EQIP provides a single, voluntary conservation program for farmers and ranchers who face serious threats to soil, water, and related natural resources. Nationally, it provides technical, financial, and educational assistance, half of it targeted to livestock-related natural resource problems and half to more general conservation priorities.
+
+(ii) *Wetlands Reserve Program (WRP).* WRP is a voluntary program to restore and protect wetlands on private property. It provides an opportunity for landowners to receive financial incentives to restore wetlands in exchange for retiring marginal agricultural land.
+
+(iii) *Wildlife Habitat Incentives Program (WHIP).* WHIP is a voluntary program for people who want to develop and improve wildlife habitat on private lands. It provides both technical assistance and cost sharing to help establish and improve fish and wildlife habitat.
+
+(iv) *Farmland Protection Program (FPP).* This program provides funds to help purchase development rights to keep productive farmland in agricultural use. Working through existing programs, USDA joins with State, tribal, or local governments to acquire voluntary conservation easements or other interests from landowners.
+
+(v) *Forestry Incentives Program (FIP).* FIP supports good forest management practices on privately owned, non-industrial forest lands nationwide. FIP is designed to benefit the environment while meeting future demands for wood products. Although not funded by CCC, Section 373 of the Federal Agriculture Improvement and Reform Act of 1996 extended the program under discretionary appropriations.
+
+(3) Resource Conservation and Development (RC&D) Program, authorized by Section 102 of the Flood and Agriculture Act of 1962 (Pub. L. 87-702) and Sections 1528-1538 of the Agriculture and Food Act of 1981 (Pub. L. 97-98). This program is initiated and directed at the local level by volunteers who involve multiple communities, various units of government, municipalities, and grassroots organizations. RC&D is a catalyst for civic-oriented groups to share knowledge and resources in a collective attempt to solve common problems. The program offers aid in balancing the environmental, economic, and social needs of an area.
+
+(4) Rural Abandoned Mine Program (RAMP) and other responsibilities assigned under the Surface Mining Control and Reclamation Act of 1977 (Pub. L. 95-87). Under RAMP, NRCS provides technical and financial assistance to landowners to reclaim certain abandoned coal-mined lands. This assistance can be used to reclaim these lands for approved uses, which include pasture, range, woodland, cropland, noncommercial recreation, and wildlife habitat. The program's first priority is to protect public health, welfare, safety, and property from hazards caused by past surface coal mining or by surface effects of deep mining.
+
+(5) Watershed surveys and planning, authorized by the Watershed Protection and Flood Prevention Act (Pub. L. 83-566, Section 6 (16 U.S.C. 1001-1008)). The 1996 appropriations act combined the Small Watershed Planning and the River Basin Surveys and Investigations programs into a new program called the Watershed Surveys and Planning Program. The program involves cooperation with other Federal, State, and local agencies to conduct watershed planning, river basin surveys and investigations, flood hazard analysis, and floodplain management assistance, which aid in the development of coordinated water resource programs, including the development of guiding principles and procedures.
+
+(6) Watershed and flood prevention operations include several activities. Watershed operations are authorized by the Flood Control Act of 1944 (Public Law 78-534) and the Watershed Protection and Flood Prevention Act of 1954 (Public Law 87-566) and amendments; both of which are addressed by 7 CFR 622. Since 1998, the appropriations act for the Watershed Protection and Flood Prevention Act (Public Law 83-566) has included funds, not to exceed a specified amount, that may be used for Public Law 78-534 projects.
+
+(i) Publc Law 83-566 and Public Law 78-534, jointly called the Small Watershed Program, authorize the Secretary of Agriculture to cooperate with State and local agencies to plan and carry out works of improvement for flood prevention; for the conservation, development, utilization, and disposal of water; and for the conservation and proper use of land in watershed or sub-watershed areas. Under Public Law 83-566, these areas shall not exceed 250,000 acres. There is no acreage limitation under Public Law 78-534.
+
+(ii) The Small Watershed Program provides for cooperation with State and other public agencies (called project sponsors) in the installation of planned works of improvement and land treatment measures in authorized watershed projects. Eligible measures include flood prevention, water conservation, recreation, agricultural water management, floodplain easements, municipal and industrial water, and rural water supply.
+
+(7) Emergency Watershed Protection (EWP) Program, authorized by Section 216 of Public Law 81-516, 33 U.S.C. 701b-1, and Section 403 of the Agriculture Credit Act of 1978 (Public Law 95-334, 16 U.S.C. 2203), as amended by Section 382 of the Federal Agriculture Improvement and Reform Act of 1996 (Public Law 104-127, 110 Stat. 888, 1016). EWP provides assistance to reduce an imminent threat to life and property caused by a sudden impairment of a watershed from a natural disaster. Emergency work includes such measures as removing debris from streams, stabilizing streambanks, repairing levees, critical area stabilization, and purchasing floodplain easements. Technical and financial assistance is available to sponsoring local organizations (units of government, Indian tribes and tribal organizations, and organizations formed by State law) for this disaster recovery work. Sponsors are required to provide the local share of the costs; obtain real property rights, water rights, and permits; and do any needed operation and maintenance.

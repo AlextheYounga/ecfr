@@ -1,0 +1,3 @@
+##### § 52.3751 Product description. #####
+
+Canned ripe olives are prepared from properly matured olives which have first been properly treated to remove the characteristic bitterness; are packed in a solution of sodium chloride, with or without spices, and are sufficiently processed by heat in hermetically sealed containers. Canned olives which are not oxidized in processing and which possess a tan to light bronze color indicative of preparation from olives of advanced maturity and commonly referred to as “tree-ripened” or “home-cured” are not covered by the standards in this subpart.

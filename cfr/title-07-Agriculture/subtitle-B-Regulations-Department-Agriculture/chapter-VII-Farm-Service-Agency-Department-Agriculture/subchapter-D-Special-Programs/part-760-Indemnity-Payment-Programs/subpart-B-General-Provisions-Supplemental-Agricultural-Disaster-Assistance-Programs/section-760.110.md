@@ -1,0 +1,5 @@
+##### § 760.110 Appeals. #####
+
+(a) *Appeals.* Appeal regulations set forth at parts 11 and 780 of this title apply to this part.
+
+(b) *Determinations not eligible for administrative review or appeal.* FSA determinations that are not in response to a specific individual participant's application are not to be construed to be individual program eligibility determinations or adverse decisions and are, therefore, not subject to administrative review or appeal under parts 11 or 780 of this title. Such determinations include, but are not limited to, application periods, deadlines, coverage periods, crop years, fees, prices, general statutory or regulatory provisions that apply to similarly situated participants, national average payment prices, regions, crop definition, average yields, and payment factors established by FSA for any of the programs for which this subpart applies or similar matters requiring FSA determinations.

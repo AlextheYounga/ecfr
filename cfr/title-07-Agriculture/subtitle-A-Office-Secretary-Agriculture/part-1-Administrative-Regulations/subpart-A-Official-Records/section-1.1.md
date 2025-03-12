@@ -1,0 +1,5 @@
+##### § 1.1 Purpose and scope. #####
+
+This subpart establishes policy, procedures, requirements, and responsibilities for administration and coordination of the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, pursuant to which any person may obtain official records. It also provides rules pertaining to the disclosure of records pursuant to compulsory process. This subpart also serves as the implementing regulations (referred to in § 1.3, “Agency implementing regulations”) for the Office of the Secretary (the immediate offices of the Secretary, Deputy Secretary, Under Secretaries and Assistant Secretaries) and for the Office of Communications. The Office of Communications has the primary responsibility for implementation of the FOIA in the Department of Agriculture (“USDA” or “Department”). The term “agency” or “agencies” is used throughout this subpart to include both USDA program agencies and staff offices.
+
+[65 FR 46336, July 28, 2000]

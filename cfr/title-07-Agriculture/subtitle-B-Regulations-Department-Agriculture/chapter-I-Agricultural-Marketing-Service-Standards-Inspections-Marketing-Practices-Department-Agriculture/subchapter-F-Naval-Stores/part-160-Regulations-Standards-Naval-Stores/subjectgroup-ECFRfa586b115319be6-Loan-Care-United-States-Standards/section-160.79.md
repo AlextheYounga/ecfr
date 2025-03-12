@@ -1,0 +1,3 @@
+##### § 160.79 Request for additional standards. #####
+
+Any person to whom any duplicates have been loaned without security deposit, who shall request and be granted the loan of additional duplicates to replace the original ones, shall be required to deposit the security provided for in § 160.75 prior to the loan of such additional duplicates. If the set of duplicates first loaned to such person, or any part thereof, is recovered, it shall be returned for inspection or repair. The cost of any repairs or replacements shall be paid, whereupon such original set may be returned to such person, and he shall surrender the second set, on receipt of which the security posted therefor shall be returned.

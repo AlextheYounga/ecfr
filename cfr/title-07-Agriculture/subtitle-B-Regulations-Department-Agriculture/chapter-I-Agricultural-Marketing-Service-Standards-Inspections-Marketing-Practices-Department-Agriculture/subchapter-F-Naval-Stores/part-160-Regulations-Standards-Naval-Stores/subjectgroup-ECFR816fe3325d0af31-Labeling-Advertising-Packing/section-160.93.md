@@ -1,0 +1,3 @@
+##### § 160.93 Powdered rosin. #####
+
+The classification and grade of any rosin sold in commerce in a powdered or finely broken condition shall be stated in the invoice or contract of sale in accordance with the kind and grade of the rosin before it was powdered or broken. For the purpose of preventing coalescence there may be incorporated in such article a limited and necessary quantity of inert, nonresinous foreign material: *Provided,* That the nature and quantity of such inert material shall be stated on the label.

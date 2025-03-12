@@ -1,0 +1,3 @@
+##### § 1210.605 Ballots. #####
+
+The referendum agent and subagents shall accept all ballots cast. However, if an agent or subagent deems that a ballot should be questioned for any reason, the agent or subagent shall endorse above their signature, on the ballot, a statement to the effect that such ballot was questioned, by whom questioned, why the ballot was questioned, the results of any investigation made with respect to the questionable ballot, and the disposition of the questionable ballot. Ballots invalid under this subpart shall not be counted.

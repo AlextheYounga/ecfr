@@ -1,0 +1,3 @@
+##### § 318.47-4 Shipments by the Department of Agriculture. #####
+
+Cotton may be moved by the Department of Agriculture for experimental or scientific purposes under such conditions as may be prescribed by the Deputy Administrator of the Plant Protection and Quarantine Programs, which conditions may include clearance through the New Crops Research Branch of the Plant Science Research Division, Agricultural Research Service.

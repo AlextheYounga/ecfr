@@ -1,0 +1,3 @@
+##### § 3300.31 Termination of approval. #####
+
+An approved testing station may at any time withdraw as an approved testing station by written notice to the Administrator. Similarly, the Administrator may suspend or terminate for cause the approved status of a testing station by written notice to the organization, setting forth the reasons for such action. Examples of causes for suspension or termination of approval of a testing station would be a change in equipment or operations at the station which would render the station incapable of performing tests according to the standards in the ATP, or noncompliance of the station with pertinent portions of this rule.

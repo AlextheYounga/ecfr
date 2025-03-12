@@ -1,0 +1,7 @@
+##### § 1150.172 Books and records. #####
+
+(a) Each producer who is subject to this subpart, and other persons subject to § 1150.171(a), shall maintain and make available for inspection by employees of the Board and the Secretary such books and records as are necessary to carry out the provisions of this subpart and the regulations issued hereunder, including such records as are necessary to verify any reports required. Such records shall be retained for at least two years beyond the fiscal period of their applicability.
+
+(b) Each importer of dairy products shall maintain and make available for inspection by the Secretary such books and records to verify that provisions pursuant to § 1150.152(b) have been carried out correctly, including verification that correct amounts were paid based upon milk solids content of the imported dairy products. Such records shall be retained for at least two years beyond the calendar period of their applicability. Such information may include but not be limited to invoices, packing slips, bills of lading, laboratory test results, and letters from the manufacturer on the manufacturer's letterhead stating the milk solids content of imported dairy products.
+
+[76 FR 14792, Mar. 18, 2011]

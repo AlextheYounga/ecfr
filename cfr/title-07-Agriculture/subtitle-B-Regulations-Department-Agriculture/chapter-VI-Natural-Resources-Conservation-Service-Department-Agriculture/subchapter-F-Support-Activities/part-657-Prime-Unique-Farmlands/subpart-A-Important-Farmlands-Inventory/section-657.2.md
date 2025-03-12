@@ -1,0 +1,3 @@
+##### § 657.2 Policy. #####
+
+It is NRCS policy to make and keep current an inventory of the prime farmland and unique farmland of the Nation. This inventory is to be carried out in cooperation with other interested agencies at the National, State, and local levels of government. The objective of the inventory is to identify the extent and location of important rural lands needed to produce food, feed, fiber, forage, and oilseed crops.

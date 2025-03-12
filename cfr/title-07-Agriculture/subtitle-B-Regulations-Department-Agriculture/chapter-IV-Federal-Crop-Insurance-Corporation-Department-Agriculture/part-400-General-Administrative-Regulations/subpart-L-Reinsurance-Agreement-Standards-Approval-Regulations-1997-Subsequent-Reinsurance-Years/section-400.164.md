@@ -1,0 +1,3 @@
+##### § 400.164 Availability of the Standard Reinsurance Agreement. #####
+
+Federal Crop Insurance Corporation will offer Standard Reinsurance Agreements to eligible Companies under which the Corporation will reinsure policies which the Companies issue to producers of agricultural commodities. The Standard Reinsurance Agreement will be consistent with the requirements of the Federal Crop Insurance Act, as amended, and provisions of the regulations of the Corporation found at chapter IV of title 7 of the Code of Federal Regulations.

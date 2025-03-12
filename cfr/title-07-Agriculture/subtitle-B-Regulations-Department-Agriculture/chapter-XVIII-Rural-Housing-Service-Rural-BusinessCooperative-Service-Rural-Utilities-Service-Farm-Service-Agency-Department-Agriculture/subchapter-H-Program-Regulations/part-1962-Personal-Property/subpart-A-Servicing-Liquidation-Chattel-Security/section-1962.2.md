@@ -1,0 +1,3 @@
+##### § 1962.2 Policy. #####
+
+Chattel security, EO property and note only loans will be serviced to accomplish the loan objectives and protect Rural Development's financial interest. To accomplish these objectives, security will be serviced in accordance with the security instruments and related agreements, including any authorized modifications, provided the borrower has reasonable prospects of accomplishing the loan objectives, properly maintains and accounts for the security, and otherwise satisfactorily meets the loan obligations including repayment.

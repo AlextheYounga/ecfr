@@ -1,0 +1,3 @@
+##### § 1220.121 Promotion. #####
+
+The term *promotion* means any action, including paid advertising, technical assistance, and trade servicing activities, to enhance the image or desirability of soybeans or soybean products in domestic and foreign markets, and any activity designed to communicate to consumers, importers, processors, wholesalers, retailers, government officials, or other information relating to the positive attributes of soybeans or soybean products or the benefits of importation, use, or distribution of soybeans and soybean products.

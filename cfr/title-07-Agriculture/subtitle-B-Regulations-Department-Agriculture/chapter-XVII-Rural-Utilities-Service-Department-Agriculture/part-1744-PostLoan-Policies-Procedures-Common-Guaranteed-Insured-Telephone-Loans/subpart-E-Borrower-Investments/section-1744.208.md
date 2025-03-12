@@ -1,0 +1,3 @@
+##### § 1744.208 Rural development investments before November 28, 1990. #####
+
+All investments made by a borrower shall be subject to the provisions of this subpart, regardless of when the investment was made or whether it has been approved by RUS. Any restrictions required by RUS as a condition to approving a rural development investment before November 28, 1990, shall continue to be in effect to the extent that such investment exceeds the maximum investment ratio or causes the borrower to fall below the minimum total assets ratio.

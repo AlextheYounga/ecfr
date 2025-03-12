@@ -1,0 +1,3 @@
+##### § 550.121 Advertising. #####
+
+The Cooperator will not refer in any manner to the USDA or any REE Agency in connection with the use of the results of the award, without prior specific written authorization by the REE Agency. Information obtained as a result of the award will be made available to the public in printed or other forms by the REE Agency at its discretion. The Cooperator will be given due credit for its cooperation in the project. Prior approval is required.

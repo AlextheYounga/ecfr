@@ -1,5 +1,7 @@
 ##### § 0.445 Publication, availability and use of opinions, orders, policy statements, interpretations, administrative manuals, and staff instructions. #####
 
+Link to an amendment published at 82 FR 4188, January 13, 2017.
+
 (a) Adjudicatory opinions and orders of the Commission, or its staff acting on delegated authority, are mailed or delivered by electronic means to the parties, and as part of the record, are available for inspection in accordance with §§ 0.453 and 0.455.
 
 (b) Texts adopted by the Commission or a member of its staff on delegated authority and released through the Office of Media Relations are published in the FCC Record. Older materials of this nature are available in the FCC Reports. In the event that such older materials are not published in the FCC Reports, reference should be made to the Federal Register or Pike and Fischer Communications Regulation.

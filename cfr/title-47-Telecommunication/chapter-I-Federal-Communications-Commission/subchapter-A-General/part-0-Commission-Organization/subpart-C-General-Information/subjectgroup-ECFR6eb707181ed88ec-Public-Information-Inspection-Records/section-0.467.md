@@ -1,5 +1,7 @@
 ##### § 0.467 Search and review fees. #####
 
+Link to an amendment published at 82 FR 4195, January 13, 2017.
+
 (a)(1) Subject to the provisions of this section, an hourly fee shall be charged for recovery of the full, allowable direct costs of searching for and reviewing records requested under § 0.460 or § 0.461, unless such fees are reduced or waived pursuant to § 0.470. The fee is based on the pay grade level of the FCC's employee(s) who conduct(s) the search or review, or the actual hourly rate of FCC contractors or other non-FCC personnel who conduct a search.
 
 Note to paragraph (a)(1):

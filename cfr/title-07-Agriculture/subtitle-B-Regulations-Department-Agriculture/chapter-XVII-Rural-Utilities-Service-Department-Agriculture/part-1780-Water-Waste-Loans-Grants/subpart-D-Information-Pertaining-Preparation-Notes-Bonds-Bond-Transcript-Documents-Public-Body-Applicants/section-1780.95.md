@@ -1,0 +1,3 @@
+##### § 1780.95 Public bidding on bonds. #####
+
+Bonds offered for public sale shall be offered in accordance with State law and in such a manner to encourage public bidding. The Agency will not submit a bid at the advertised sale unless required by State law, nor will reference to Agency's rates and terms be included. If no acceptable bid is received, the Agency will negotiate the purchase of the bonds.

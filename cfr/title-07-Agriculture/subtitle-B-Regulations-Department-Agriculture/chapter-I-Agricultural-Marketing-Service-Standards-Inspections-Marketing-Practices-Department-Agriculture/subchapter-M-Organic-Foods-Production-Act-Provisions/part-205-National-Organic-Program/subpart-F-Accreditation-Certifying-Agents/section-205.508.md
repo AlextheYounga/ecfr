@@ -1,0 +1,5 @@
+##### § 205.508 Site evaluations. #####
+
+(a) Site evaluations of accredited certifying agents shall be conducted for the purpose of examining the certifying agent's operations and evaluating its compliance with the Act and the regulations of this part. Site evaluations shall include an on-site review of the certifying agent's certification procedures, decisions, facilities, administrative and management systems, and production or handling operations certified by the certifying agent. Site evaluations shall be conducted by a representative(s) of the Administrator.
+
+(b) An initial site evaluation of an accreditation applicant shall be conducted before or within a reasonable period of time after issuance of the applicant's “notification of accreditation.” A site evaluation shall be conducted after application for renewal of accreditation but prior to the issuance of a notice of renewal of accreditation. One or more site evaluations will be conducted during the period of accreditation to determine whether an accredited certifying agent is complying with the general requirements set forth in § 205.501.

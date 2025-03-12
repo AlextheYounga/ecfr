@@ -1,0 +1,3 @@
+##### § 1217.71 Books and records. #####
+
+Each manufacturer for the U.S. market, including those exempt under § 1217.53, shall maintain any books and records necessary to carry out the provisions of this subpart and regulations issued thereunder, including such records as are necessary to verify any required reports. Domestic manufacturers who only export softwood lumber shall also retain such books and records. Such books and records must be made available during normal business hours for inspection by the Board's or Secretary's employees or agents. A manufacturer for the U.S. market must maintain the books and records for two years beyond the fiscal period to which they apply.

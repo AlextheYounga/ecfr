@@ -1,0 +1,3 @@
+##### § 51.1355 Damage. #####
+
+*Damage* means any injury or defect which materially affects the processing quality of the fruit. After paring, cutting in halves, and coring, each half of the pear shall be well formed or the pear is considered damaged. Pears showing surface blemishes shall be considered damaged when the injury cannot be completely removed in the ordinary process of paring for commercial use.

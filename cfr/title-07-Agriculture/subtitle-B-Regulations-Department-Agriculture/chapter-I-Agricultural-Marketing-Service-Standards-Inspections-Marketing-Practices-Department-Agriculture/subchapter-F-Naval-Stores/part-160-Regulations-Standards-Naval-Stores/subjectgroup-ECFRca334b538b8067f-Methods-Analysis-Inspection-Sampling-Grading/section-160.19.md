@@ -1,0 +1,15 @@
+##### § 160.19 Samples of rosin for grading. #####
+
+Samples of rosin for grading shall be approximately cubical in shape, and shall be seven-eighths inch thick in the direction through which they are viewed or graded. Samples may be taken by any of the following methods:
+
+(a) By cutting or cleaving the same from a lump of the rosin removed from the solid mass in the barrel or drum, the top side of which lump shall come from not less than 4 inches below the surface of the rosin.
+
+(b) By placing a tin mold of suitable design inside the barrel or drum through an opening in the side, the center of which opening is approximately 9 inches from the top or 12 inches from the bottom so that when the container is filled, the rosin within the mold will have come from a position not less than 4 inches below the surface of the rosin. The mold thus placed must be entirely within the barrel or drum and completely encased in the rosin.
+
+(c) By suspending in the barrel or drum of molten rosin a clean tinplate mold,7/8 inch square (inside) and 11/2 inches or more in length, in such a manner that it will be in a horizontal position at least 2 inches below the surface of the rosin after it has thoroughly cooled. Such sample shall not be spiked from the barrel or drum until it is completely cooled.
+
+(d) By withdrawing a quantity of molten rosin from a full container of 150 pounds content or less, pouring the rosin into a suitable mold, and allowing it to cool and solidify slowly: *Provided,* That samples taken to represent a single batch or charge made by intermittent distillation of oleoresin shall be taken from not less than two containers, one of which shall be selected when one fourth of the batch has been placed in the containers, and the other shall be from the last container filled.
+
+(e) By withdrawing a quantity of molten rosin from a full drum that has been filled after a preliminary cooling period, pouring the rosin into a suitable mold, and allowing it to cool and solidify slowly: *Provided,* That such sample shall not be taken until at least one hour has elapsed after the drum was filled: *And provided further,* That the selection of drums to be sampled shall be in accordance with the method of selecting small containers as set forth in paragraph (d) of this section. Rosin in drums sampled in this manner will be graded and certified only when the sampling is performed by an official inspector. Rosin in open head barrels shall not be sampled by this method.
+
+(f) By collecting in a suitable vessel a quantity of molten rosin from each successive batch or charge as it is delivered into a tank car, pouring the respective quantities of rosin into suitable molds, and allowing them to cool and solidify: *Provided,* That any darkening of the rosin subsequent to such sampling will not be recognized as affecting the correctness of the grades assigned to the rosin at the time it was loaded in the car. Rosin so sampled while in process of being placed in a tank car will be graded and certified only when the sampling is performed by an official inspector.

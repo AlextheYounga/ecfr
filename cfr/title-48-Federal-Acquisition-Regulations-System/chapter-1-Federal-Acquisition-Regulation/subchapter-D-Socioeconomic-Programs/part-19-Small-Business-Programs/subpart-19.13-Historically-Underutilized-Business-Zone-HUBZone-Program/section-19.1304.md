@@ -12,10 +12,10 @@ This subpart does not apply to -
 
 (c) Orders against Federal Supply Schedules (see subpart 8.4). (But see 8.405-5 for discretionary set-asides of orders);
 
-(d) Requirements currently being performed by an 8(a) participant or requirements SBA has accepted for performance under the authority of the 8(a) Program, unless SBA has consented to release the requirements from the 8(a) Program;
+(d) Requirements currently being performed by an 8(a) participant or requirements SBA has accepted for performance under the authority of the 8(a) program, unless SBA has consented to release the requirements from the 8(a) program;
 
 (e) Requirements that do not exceed the micro-purchase threshold; or
 
 (f) Requirements for commissary or exchange resale items.
 
-[63 FR 70272, Dec. 18, 1998, as amended at 76 FR 68035, Nov. 2, 2011; 79 FR 24202, Apr. 29, 2014]
+[63 FR 70272, Dec. 18, 1998, as amended at 76 FR 68035, Nov. 2, 2011; 79 FR 24202, Apr. 29, 2014; 82 FR 4731, Jan. 13, 2017]

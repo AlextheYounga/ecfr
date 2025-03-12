@@ -1,0 +1,3 @@
+##### § 1280.221 Prohibition on use of funds. #####
+
+No funds collected by the Board under this subpart shall be used to undertake any action for the purpose of influencing legislation or governmental action or policy, other than recommending to the Secretary amendments to this subpart. A plan or project conducted pursuant to this title shall not make false or misleading claims on behalf of lamb or lamb products or disparage a competing product.

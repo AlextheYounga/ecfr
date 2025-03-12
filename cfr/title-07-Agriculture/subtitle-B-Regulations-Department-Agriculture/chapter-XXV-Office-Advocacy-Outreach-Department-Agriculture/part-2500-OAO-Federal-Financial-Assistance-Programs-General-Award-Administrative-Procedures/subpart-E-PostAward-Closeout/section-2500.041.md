@@ -1,0 +1,5 @@
+##### § 2500.041 Payment. #####
+
+(a) *General.* All payments will be made in advance unless a deviation is accepted or as specified in paragraph (b) of this section. All payments to the awardee shall be made via the approved electronic funds transfer (EFT) method. Awardees are expected to request funds via the federally-approved electronic payment system for reimbursement in a timely manner. Exact payment method will be described in the terms and conditions of the award agreement.
+
+(b) *Reimbursement method.* OAO shall use the reimbursement method if it determines that advance payment is not feasible or that the awardee does not maintain or demonstrate the willingness to maintain written procedures that minimize the elapse of time between the transfer of funds and disbursement by the awardee, and financial management systems that meet the standards for fund control and accountability.

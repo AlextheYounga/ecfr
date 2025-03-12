@@ -1,0 +1,3 @@
+##### § 784.7 Availability of funds. #####
+
+Total payments under this part, unless otherwise determined by the FSA, cannot exceed $18 million. In the event that approval of all eligible applications would result in expenditures in excess of the amount available, FSA shall prorate the available funds by a national factor to reduce the expected payments to be made to the amount available. The payment shall be made based on the national factored rate as determined by FSA. FSA shall prorate the payments in such manner as it, in its sole discretion, finds appropriate and reasonable.

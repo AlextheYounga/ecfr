@@ -24,10 +24,10 @@
 
 (2) The ordering activity contracting officer has determined the price for the items not on the Federal Supply Schedule is fair and reasonable;
 
-(3) The items are clearly labeled on the order as items not on the Federal Supply Schedule; and
+(3) The items are clearly labeled on the order as items not on the Federal Supply Schedule and they conform to the rules for numbering line items at subpart 4.10; and
 
 (4) All clauses applicable to items not on the Federal Supply Schedule are included in the order.
 
 (g) When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management database as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
 
-[69 FR 34234, June 18, 2004, as amended at 71 FR 57359, Sept. 28, 2006; 74 FR 65604, Dec. 10, 2009; 76 FR 14552, Mar. 16, 2011; 77 FR 204, Jan. 3, 2012; 78 FR 37678, June 21, 2013; 78 FR 80378, Dec. 31, 2013]
+[69 FR 34234, June 18, 2004, as amended at 71 FR 57359, Sept. 28, 2006; 74 FR 65604, Dec. 10, 2009; 76 FR 14552, Mar. 16, 2011; 77 FR 204, Jan. 3, 2012; 78 FR 37678, June 21, 2013; 78 FR 80378, Dec. 31, 2013; 82 FR 4713, Jan. 13, 2017]

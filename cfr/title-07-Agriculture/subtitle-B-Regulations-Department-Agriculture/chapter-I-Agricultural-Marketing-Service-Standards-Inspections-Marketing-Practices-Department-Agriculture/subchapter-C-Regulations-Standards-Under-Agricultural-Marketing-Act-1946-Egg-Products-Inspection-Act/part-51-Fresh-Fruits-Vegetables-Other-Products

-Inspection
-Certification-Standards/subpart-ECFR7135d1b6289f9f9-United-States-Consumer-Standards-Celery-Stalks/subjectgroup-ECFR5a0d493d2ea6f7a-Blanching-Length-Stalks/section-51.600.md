@@ -1,0 +1,3 @@
+##### § 51.600 Length of stalks. #####
+
+There are no requirements in the grades as to stalk length. However, when the stalk length is specified it shall be determined by measuring the distance from where the main root is cut off, to a point which represents the average length of the longest branches and leaves expressed in terms of the nearest whole inch. Incident to proper sizing, not more than 5 percent, by count, of the stalks in any lot may fail to meet any specified stalk length.

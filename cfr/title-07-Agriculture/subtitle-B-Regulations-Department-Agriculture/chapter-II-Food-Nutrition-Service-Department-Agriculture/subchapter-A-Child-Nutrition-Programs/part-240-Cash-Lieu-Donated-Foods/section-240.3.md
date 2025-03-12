@@ -1,0 +1,7 @@
+##### § 240.3 Cash in lieu of donated foods for program schools. #####
+
+(a) Not later than June 1 of each school year, FNS shall make an estimate of the value of agricultural commodities and other foods that will be delivered to States during the school year under the food distribution regulations (7 CFR part 250) for use in program schools. If the estimated value is less than the total value of assistance authorized under section 6(e) of the Act for the National School Lunch Program, FNS shall determine the difference between the value of the foods then programmed for each State for the school year and the required value and shall pay the difference to each State agency not later than July 1 of that school year.
+
+(b) Notwithstanding any other provision of this section, in any State in which FNS administers the National School Lunch Program in any of the schools of the State, FNS shall withhold from the funds payable to that State under this section an amount equal to the ratio of the number of lunches served in schools in which the program is administered by FNS to the total number of lunches served in all program schools in the State.
+
+[47 FR 15982, Apr. 13, 1982, as amended at 52 FR 7267, Mar. 10, 1987; 58 FR 39120, July 22, 1993]

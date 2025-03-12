@@ -1,0 +1,3 @@
+##### § 15.138 Review of initial decision. #####
+
+In the absence of exceptions to an initial decision, the Secretary may on his own motion within 45 days after an initial decision serve upon the parties a notice that he will review the decision and will give the parties reasonable opportunity to file briefs or other written statements of contentions. At the expiration of said time for filing briefs, the Secretary will review the initial decision and issue a final decision thereon. In the absence of either exceptions to an initial decision or a notice or review, the initial decision shall constitute the final decision of the Secretary.

@@ -1,0 +1,3 @@
+##### § 170.7 Can I apply if I am not recruited? #####
+
+Yes. Interested persons may call or write USDA to request an information packet even if they are not recruited. Those interested may write USDA/AMS/TM/MSB, Room 2646-South Building, 1400 Independence Avenue, SW., Washington, DC, 20250, or call (202) 720-8317. They may also call the USDA Farmers Market Hotline at 1-800-384-8704 to leave a message to have a packet mailed or faxed. They may also visit the web site at *http://www.ams.usda.gov/farmersmarkets/* to review the selection criteria, the operating rules, and to receive an application electronically.

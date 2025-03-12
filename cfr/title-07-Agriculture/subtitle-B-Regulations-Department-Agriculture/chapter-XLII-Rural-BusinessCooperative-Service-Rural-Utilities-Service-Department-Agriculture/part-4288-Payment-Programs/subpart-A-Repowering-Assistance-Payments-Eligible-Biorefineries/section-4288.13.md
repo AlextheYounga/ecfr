@@ -1,0 +1,7 @@
+##### § 4288.13 Payment information. #####
+
+(a) *Maximum payment.* For purposes of this program, the maximum payment an applicant may receive will be 50 percent of total eligible project costs up to the applicable fiscal year's maximum award as announced in an annual Federal Register notice. There is no minimum payment to an applicant.
+
+(b) *Reimbursement payments.* The Agency shall only make payments based on the biorefinery's expenditures on eligible project costs. Payments shall be determined by multiplying the amount of eligible expenditures stated on the payment request by a percentage obtained by dividing the aggregate payment award by total eligible project costs.
+
+(c) *Timing of payments.* The Applicant may request payments not more frequently than once a month by submitting an original, completed, validly signed Standard Form (SF) 271, “Outlay Report and Request for Reimbursement for Construction Programs” including the supporting documentation identified in § 4288.23, to reimburse the applicant for the Agency's pro rata share of funds expended on eligible project costs. The Agency shall make such payments until 90 percent of the total payment award has been expended. The final 10 percent of the payment award will be paid upon completion of the repowering project and satisfactory evidence has been received by the Agency demonstrating that the biorefinery is operating as described in the Agency approved application.

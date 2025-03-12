@@ -2,7 +2,7 @@
 
 (a) The contract to be awarded by the agency to the SBA shall be prepared in accordance with agency procedures and in the same detail as would be required in a contract with a business concern. The contracting officer shall use the Standard Form 26 as the award form, except for construction contracts, in which case the Standard Form 1442 shall be used as required in 36.701(a).
 
-(b) The agency shall prepare the contract that the SBA will award to the 8(a) contractor in accordance with agency procedures, as if the agency were awarding the contract directly to the 8(a) contractor, except for the following.
+(b) The contracting officer shall prepare the contract that the SBA will award to the 8(a) participant in accordance with agency procedures, as if awarding the contract directly to the 8(a) participant, except for the following:
 
 (1) The award form shall cite 41 U.S.C. 3304(a)(5) or 10 U.S.C. 2304(c)(5) (as appropriate) as the authority for use of other than full and open competition.
 
@@ -32,4 +32,4 @@
 
 (d) For acquisitions not exceeding the simplified acquisition threshold, the contracting officer may use the alternative procedures in paragraph (c) of this subsection with the appropriate simplified acquisition forms.
 
-[54 FR 46005, Oct. 31, 1989, as amended at 55 FR 3883, Feb. 5, 1990; 61 FR 67421, Dec. 20, 1996; 62 FR 233, Jan. 2, 1997; 62 FR 64940, Dec. 9, 1997; 64 FR 32745, June 17, 1999; 69 FR 59699, Oct. 5, 2004; 79 FR 24202, Apr. 29, 2014]
+[54 FR 46005, Oct. 31, 1989, as amended at 55 FR 3883, Feb. 5, 1990; 61 FR 67421, Dec. 20, 1996; 62 FR 233, Jan. 2, 1997; 62 FR 64940, Dec. 9, 1997; 64 FR 32745, June 17, 1999; 69 FR 59699, Oct. 5, 2004; 79 FR 24202, Apr. 29, 2014; 82 FR 4729, Jan. 13, 2017]

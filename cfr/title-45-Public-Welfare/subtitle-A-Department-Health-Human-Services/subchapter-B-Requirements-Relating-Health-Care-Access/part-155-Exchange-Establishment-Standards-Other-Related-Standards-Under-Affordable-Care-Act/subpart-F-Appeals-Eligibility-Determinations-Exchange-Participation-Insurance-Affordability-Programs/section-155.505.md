@@ -1,12 +1,10 @@
 ##### § 155.505 General eligibility appeals requirements. #####
 
-Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
-
 (a) *General requirements.* Unless otherwise specified, the provisions of this subpart apply to Exchange eligibility appeals processes, regardless of whether the appeals process is provided by a State Exchange appeals entity or by the HHS appeals entity.
 
-(b) *Right to appeal.* An applicant or enrollee must have the right to appeal -
+(b) *Right to appeal.* An applicant or enrollee must have the right to appeal—
 
-(1) An eligibility determination made in accordance with subpart D, including -
+(1) An eligibility determination made in accordance with subpart D, including—
 
 (i) An initial determination of eligibility, including the amount of advance payments of the premium tax credit and level of cost-sharing reductions, made in accordance with the standards specified in § 155.305(a) through (h); and
 
@@ -22,11 +20,11 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (5) An appeal decision issued by a State Exchange appeals entity in accordance with § 155.545(b), consistent with § 155.520(c).
 
-(c) *Options for Exchange appeals.* Exchange eligibility appeals may be conducted by -
+(c) *Options for Exchange appeals.* Exchange eligibility appeals may be conducted by—
 
 (1) A State Exchange appeals entity, or an eligible entity described in paragraph (d) of this section that is designated by the Exchange, if the Exchange establishes an appeals process in accordance with the requirements of this subpart; or
 
-(2) The HHS appeals entity -
+(2) The HHS appeals entity—
 
 (i) Upon exhaustion of the State Exchange appeals process;
 
@@ -42,4 +40,6 @@ Link to an amendment published at 81 FR 94179, Dec. 22, 2016.
 
 (g) *Judicial review.* An appellant may seek judicial review to the extent it is available by law.
 
-[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12344, Mar. 8, 2016]
+(h) *Electronic requirements.* If the Exchange appeals entity cannot fulfill the electronic requirements of subparts C, D, F, and H of this part related to acceptance of telephone- or Internet-based appeal requests, the provision of appeals notices electronically, or the secure electronic transfer of eligibility and appeal records between appeals entities and Exchanges or Medicaid or CHIP agencies, the Exchange appeals entity may fulfill those requirements that it cannot fulfill electronically using a secure and expedient paper-based process.
+
+[78 FR 54136, Aug. 30, 2013, as amended at 79 FR 30349, May 27, 2014; 81 FR 12344, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016]

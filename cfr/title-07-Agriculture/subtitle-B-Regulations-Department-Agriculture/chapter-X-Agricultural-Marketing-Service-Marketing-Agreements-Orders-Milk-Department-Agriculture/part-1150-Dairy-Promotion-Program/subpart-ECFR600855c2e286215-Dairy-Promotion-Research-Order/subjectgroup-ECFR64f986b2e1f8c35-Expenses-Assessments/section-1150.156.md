@@ -1,0 +1,11 @@
+##### § 1150.156 Charges and penalties. #####
+
+(a) *Late-payment charge.* Any unpaid assessments due to the Board pursuant to § 1150.152 shall be increased 1.5 percent each month beginning with the day following the date such assessments were due. Any remaining amount due, which shall include any unpaid charges previously made pursuant to this section, shall be increased at the same rate on the corresponding day of each month thereafter until paid.
+
+(1) For the purpose of this section, any assessment pursuant to § 1150.152(a) that was determined at a date later than prescribed by this subpart because of a person's failure to submit a report to the Board when due shall be considered to have been payable by the date it would have been due if the report had been filed when due. The timeliness of a payment to the Board shall be based on the applicable postmark date or the date actually received by the Board, whichever is earlier.
+
+(2) For the purpose of this section, any assessment not collected by CBP at the time entry summary documents are filed by the importer is considered to be past due. If CBP does not collect an assessment from an importer, the importer shall be responsible for paying the assessment and any late charges to the Secretary in the form of a negotiable instrument made payable to “USDA.” The payment shall be mailed to a location designated by the Secretary or sent in an electronic form approved by the Secretary.
+
+(b) *Penalties.* Any person who willfully violates any provision of this subpart shall be assessed a civil penalty by the Secretary of not more than the amount specified in § 3.91(b)(1)(xx) of this title for each such violation and, in the case of a willful failure to pay, collect, or remit the assessment as required by this subpart, in addition to the amount due, a penalty equal to the amount of the assessment on the quantity of milk as to which the failure applies. The amount of any such penalty shall accrue to the United States and may be recovered in a civil suit brought by the United States. The remedies provided in this section shall be in addition to, and not exclusive of, other remedies that may be available by law or in equity.
+
+[49 FR 11816, Mar. 28, 1984, as amended at 70 FR 29579, May 24, 2005; 76 FR 14791, Mar. 18, 2011]

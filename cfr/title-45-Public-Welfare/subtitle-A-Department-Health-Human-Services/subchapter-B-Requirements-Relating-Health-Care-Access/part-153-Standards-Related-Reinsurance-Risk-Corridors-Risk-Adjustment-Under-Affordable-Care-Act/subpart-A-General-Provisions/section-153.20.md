@@ -1,7 +1,5 @@
 ##### § 153.20 Definitions. #####
 
-Link to an amendment published at 81 FR 94174, Dec. 22, 2016.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Alternate risk adjustment methodology* means a risk adjustment methodology proposed by a State for use instead of a Federally certified risk adjustment methodology that has not yet been certified by HHS.
@@ -44,8 +42,6 @@ The following definitions apply to this part, unless the context indicates other
 
 *Individual risk score* means a relative measure of predicted health care costs for a particular enrollee that is the result of a risk adjustment model.
 
-*Large employer* has the meaning given to the term in § 155.20 of this subchapter.
-
 *Major medical coverage* means, for purposes only of the requirements related to reinsurance contributions under section 1341 of the Affordable Care Act, a catastrophic plan, an individual or a small group market plan subject to the actuarial value requirements under § 156.140 of this subchapter, or health coverage for a broad range of services and treatments provided in various settings that provides minimum value as defined in § 156.145 of this subchapter.
 
 *Qualified employer* has the meaning given to the term in § 155.20 of this subchapter.
@@ -74,4 +70,4 @@ The following definitions apply to this part, unless the context indicates other
 
 *State* has the meaning given to the term in § 155.20 of this subchapter.
 
-[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 15525, Mar. 11, 2013; 78 FR 54133, Aug. 30, 2013; 78 FR 65093, Oct. 30, 2013; 79 FR 13834, Mar. 11, 2014; 79 FR 36432, June 27, 2014]
+[77 FR 17245, Mar. 23, 2012, as amended at 78 FR 15525, Mar. 11, 2013; 78 FR 54133, Aug. 30, 2013; 78 FR 65093, Oct. 30, 2013; 79 FR 13834, Mar. 11, 2014; 79 FR 36432, June 27, 2014; 81 FR 94174, Dec. 22, 2016]

@@ -1,0 +1,3 @@
+##### § 1221.26 Research. #####
+
+*Research* means any type of test, study, or analysis designed to advance the knowledge, image, desirability, use, marketability, production, product development, or quality of sorghum, including, but not limited to, research relating to yield, nutritional value, cost of production, new product development, inbred and hybrid development, nutritional value, health research, and marketing of sorghum.

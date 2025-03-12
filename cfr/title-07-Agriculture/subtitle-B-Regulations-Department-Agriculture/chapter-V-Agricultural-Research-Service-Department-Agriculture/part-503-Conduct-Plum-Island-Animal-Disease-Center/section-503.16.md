@@ -1,0 +1,3 @@
+##### § 503.16 Penalties and other law. #####
+
+Whoever shall be found guilty of violating any rule or regulation in this part while in or on the PIADC is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both. (See 40 U.S.C. 318c.) Nothing contained in these rules and regulations shall be construed to abrogate any other Federal laws or regulations, or any State and local laws and regulations, applicable to the PIADC.

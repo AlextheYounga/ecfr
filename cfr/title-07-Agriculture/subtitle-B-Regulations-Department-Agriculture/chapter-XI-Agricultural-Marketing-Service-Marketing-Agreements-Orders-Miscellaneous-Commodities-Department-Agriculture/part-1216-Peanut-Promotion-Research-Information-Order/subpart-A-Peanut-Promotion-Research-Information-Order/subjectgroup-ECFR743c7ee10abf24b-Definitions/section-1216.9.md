@@ -1,0 +1,3 @@
+##### § 1216.9 Farmers stock peanuts. #####
+
+*Farmers stock peanuts* means picked or threshed peanuts produced in the United States which have not been changed (except for removal of foreign material, loose shelled kernels and excess moisture) from the condition in which picked or threshed peanuts are customarily marketed by producers, plus any loose shelled kernels that are removed from farmers stock peanuts before such farmers stock peanuts are marketed.

@@ -1,0 +1,3 @@
+##### § 923.13 Handle. #####
+
+*Handle* and *ship* are synonymous and mean to sell, consign, deliver, or transport cherries or cause the sale, consignment, delivery, or transportation of cherries or in any other way to place cherries, or cause cherries to be placed, in the current of the commerce from any point within the production area to any point outside thereof: *Provided,* That the term *handle* shall not include the transportation within the production area of cherries from the orchard where grown to a packing facility located within such area for preparation for market, or the delivery of such cherries to such packing facility for such preparation.

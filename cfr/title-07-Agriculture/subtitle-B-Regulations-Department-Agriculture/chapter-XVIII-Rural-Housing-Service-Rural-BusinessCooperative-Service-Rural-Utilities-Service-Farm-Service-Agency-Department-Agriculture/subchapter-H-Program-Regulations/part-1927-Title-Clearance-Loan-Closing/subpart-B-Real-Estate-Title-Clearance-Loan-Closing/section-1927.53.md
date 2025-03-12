@@ -1,0 +1,3 @@
+##### § 1927.53 Costs of title clearance and closing of transactions. #####
+
+The borrower or the seller, or both, in compliance with the terms of the sales contract or option will be responsible for payment of all costs of title clearance and closing of the transaction and will arrange for payment before the transaction is closed. These costs will include any costs of abstracts of title, land surveys, attorney's fees, owner's and lender's policies of title insurance, obtaining curative material, notary fees, documentary stamps, recording costs, tax monitoring service, and other expenses necessary to complete the transaction.

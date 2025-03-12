@@ -1,0 +1,9 @@
+##### § 273.20 SSI cash-out. #####
+
+(a) *Ineligibility.* No individual who receives supplemental security income (SSI) benefits and/or State supplementary payments as a resident of California is eligible to receive food stamp benefits. The Secretary of the Department of Health and Human Services has determined that the SSI payments in California have been specifically increased to include the value of the food stamp allotment.
+
+(b) *Receipt of SSI benefits.* In California, an individual must actually receive, not merely have applied for, SSI benefits to be determined ineligible for the food stamp program. If the State agency provides payments at least equal to the level of SSI benefits to individuals who have applied for but are awaiting an SSI eligibility determination, receipt of these substitute payments will terminate the individual's eligibility for food stamp benefits. Once SSI benefits are received, the individual will remain ineligible for food stamp benefits, even during months in which receipt of the SSI benefits is interrupted, or suspended, until the individual is terminated from the SSI program.
+
+(c) *Income and resources.* In California, the income and resources of the SSI recipient living in a household shall not be considered in determining eligibility or level of benefits of the household, as specified in § 273.11(d).
+
+[Amdt. 132, 43 FR 47889, Oct. 17, 1978, as amended by Amdt. 132, 44 FR 33383, June 8, 1979. Redesignated at 45 FR 7217, Jan. 31, 1980, as amended by Amdt. 237, 47 FR 57669, Dec. 28, 1982; Amdt. 269, 51 FR 10793, Mar. 28, 1986; Amdt. 356, 59 FR 29713, June 9, 1994; Amdt. 364, 61 FR 54320, Oct. 17, 1996]

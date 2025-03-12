@@ -1,14 +1,10 @@
 ##### 15.203 Requests for proposals. #####
 
-(a) Requests for proposals (RFPs) are used in negotiated acquisitions to communicate Government requirements to prospective contractors and to solicit proposals. RFPs for competitive acquisitions shall, at a minimum, describe the -
+(a) Requests for proposals (RFPs) are used in negotiated acquisitions to communicate Government requirements to prospective contractors and to solicit proposals. RFPs for competitive acquisitions shall, at a minimum, describe the—
 
 (1) Government's requirement;
 
-(2) Anticipated terms and conditions that will apply to the contract:
-
-(i) The solicitation may authorize offerors to propose alternative terms and conditions, including the contract line item number (CLIN) structure; and
-
-(ii) When alternative CLIN structures are permitted, the evaluation approach should consider the potential impact on other terms and conditions or the requirement (e.g., place of performance or payment and funding requirements) (see 15.206);
+(2) Anticipated terms and conditions that will apply to the contract. The solicitation may authorize offerors to propose alternative terms and conditions. If the solicitation permits offerors to submit one or more additional proposals with alternative line items (see 52.204-22 or 52.212-1(e)), the evaluation approach should consider the potential impact of the alternative line items on other terms and conditions or the requirement (*e.g.,* place of performance or payment and funding requirements) (see 15.206);
 
 (3) Information required to be in the offeror's proposal; and
 
@@ -20,7 +16,7 @@
 
 (d) Contracting officers may issue RFPs and/or authorize receipt of proposals, modifications, or revisions by facsimile.
 
-(1) In deciding whether or not to use facsimiles, the contracting officer should consider factors such as -
+(1) In deciding whether or not to use facsimiles, the contracting officer should consider factors such as—
 
 (i) Anticipated proposal size and volume;
 
@@ -54,7 +50,7 @@
 
 (f) Oral RFPs are authorized when processing a written solicitation would delay the acquisition of supplies or services to the detriment of the Government and a notice is not required under 5.202 (e.g., perishable items and support of contingency operations or other emergency situations). Use of an oral RFP does not relieve the contracting officer from complying with other FAR requirements.
 
-(1) The contract files supporting oral solicitations should include -
+(1) The contract files supporting oral solicitations should include—
 
 (i) A description of the requirement;
 
@@ -65,3 +61,5 @@
 (iv) The solicitation number provided to the prospective offerors.
 
 (2) The information furnished to potential offerors under oral solicitations should include appropriate items from paragraph (e) of this section.
+
+[62 FR 51230, Sept. 30, 1997, as amended at 82 FR 4713, Jan. 13, 2017]

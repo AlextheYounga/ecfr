@@ -1,0 +1,3 @@
+##### § 51.599 Blanching. #####
+
+There are no requirements in the grades as to blanching. However, celery stalks may be classed as “green” when they have a medium to dark green appearance, fairly “well blanched” when the midrib portions of the branches on the stalks are generally of a light greenish to creamy white color, or “well blanched” when the midrib portions of the branches on the stalks are generally of a creamy white color. Not more than 5 percent of the stalks in any lot may fail to meet the requirements of any of the above classes.

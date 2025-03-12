@@ -1,0 +1,5 @@
+##### § 932.28 Eligibility. #####
+
+Each producer member of the committee shall, at the time of selection and during the member's term of office, be a producer in the district for which selected, and except for producers who are members of cooperative handlers shall not be engaged in the handling of olives either in a proprietary capacity, or as a director, officer, or employee. Each handler member of the committee shall, at the time of selection and during the member's term of office, be a handler in the group that the member represents or a director, officer, or employee of such handler. The public member and alternate public member of the committee shall not at the time of selection and during the term of office be engaged in or have a financial interest in the commercial production, marketing, buying, grading, or processing of olives, nor shall such member or alternate be an officer, director, member, or employee of any firm engaged in such activities.
+
+[47 FR 32907, July 30, 1982]

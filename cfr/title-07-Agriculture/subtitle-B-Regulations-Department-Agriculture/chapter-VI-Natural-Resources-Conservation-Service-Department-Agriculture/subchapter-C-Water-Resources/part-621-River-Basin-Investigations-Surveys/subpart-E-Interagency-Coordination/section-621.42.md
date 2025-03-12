@@ -1,0 +1,3 @@
+##### § 621.42 Federal-State compacts. #####
+
+NRCS is designated to represent USDA in assisting the U.S. Commissioners of the Delaware River Basin Commission and the Susquehanna River Basin Commission. In carrying out this responsibility, NRCS provides a liaison officer to work with the U.S. Commissioners on policy level matters, as well as providing the USDA representatives on the Federal field committees to assist the Commissioners.

@@ -1,0 +1,5 @@
+##### § 782.24 Recordkeeping and examination of records. #####
+
+(a) *Examination.* For the purpose of verifying compliance with the requirements of this part, each importer, end-user, exporter, and subsequent buyer shall make available at one place at all reasonable times for examination by representatives of USDA, all books, papers, records, contracts, scale tickets, settlement sheets, invoices, written price quotations, or other documents related to the importation of the Canadian-produced wheat that is within the control of such entity.
+
+(b) *Orderly retention of records.* To facilitate examination and verification of the records and reports required by this part, copies of form FSA-750, End-Use Certificate for Wheat, and form FSA-751, Wheat Consumption and Resale Report, shall be filed in an orderly manner, and must be made available for inspection by representatives of USDA.

@@ -1,0 +1,3 @@
+##### § 29.107 Order of providing service. #####
+
+When tobacco is to be inspected, sampled, or weighed upon request, such services shall be rendered as far as practicable in the order in which applications were received. In conducting mandatory inspection, the inspection shall start at the beginning of the “break” in the auction warehouse where the sale is scheduled to start and the inspection shall continue in the order of sale on each warehouse floor and from warehouse to warehouse.

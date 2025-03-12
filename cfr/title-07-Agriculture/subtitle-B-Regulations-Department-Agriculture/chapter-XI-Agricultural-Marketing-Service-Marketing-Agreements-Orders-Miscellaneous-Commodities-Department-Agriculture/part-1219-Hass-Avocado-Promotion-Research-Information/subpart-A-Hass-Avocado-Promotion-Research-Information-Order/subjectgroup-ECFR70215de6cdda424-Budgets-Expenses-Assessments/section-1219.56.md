@@ -1,0 +1,3 @@
+##### § 1219.56 Adjustment of accounts. #####
+
+Whenever the Board or the Secretary determines through an audit of a person's reports, records, books, or accounts or by some other means that additional money is due to the Board, the person shall be notified of the amount due. The person shall then remit any amount due the Board by the next date for remitting assessments. Overpayments shall be credited to the account of the person remitting the overpayment and shall be applied against any amounts due in succeeding months unless the person requests a refund of the overpayment.

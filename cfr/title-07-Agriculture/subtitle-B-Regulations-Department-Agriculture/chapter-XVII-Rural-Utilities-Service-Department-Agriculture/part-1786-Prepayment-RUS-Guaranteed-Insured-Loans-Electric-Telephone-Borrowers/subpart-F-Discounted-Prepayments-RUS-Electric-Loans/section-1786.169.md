@@ -1,0 +1,3 @@
+##### § 1786.169 Liability. #####
+
+It is the intent of this subpart that any failure on the part of RUS to comply with any provisions of this subpart, including without limitation, those provisions setting forth specified timeframes for action by RUS on applications for prepayments or closing requests, shall not give rise to liability of any kind on the part of the Government or any employees of the Government including, without limitation, liability for damages, fees, expenses or costs incurred by or on behalf of a borrower, private lender or any other party.

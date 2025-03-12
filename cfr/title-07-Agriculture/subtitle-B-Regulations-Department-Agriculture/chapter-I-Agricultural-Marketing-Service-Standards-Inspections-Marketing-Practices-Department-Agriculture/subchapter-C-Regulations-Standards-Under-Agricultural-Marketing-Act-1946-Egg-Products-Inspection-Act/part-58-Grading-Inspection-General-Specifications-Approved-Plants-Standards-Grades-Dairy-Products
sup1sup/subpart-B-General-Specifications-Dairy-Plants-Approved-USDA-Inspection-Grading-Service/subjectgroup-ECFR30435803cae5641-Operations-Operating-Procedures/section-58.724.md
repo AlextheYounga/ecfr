@@ -1,0 +1,3 @@
+##### § 58.724 Blending. #####
+
+To as great an extent as is practical, each vat of cheese should be divided and distributed throughout numerous cooker batches. The purpose being to minimize the preponderance and consequent influence of any one vat on the characteristics of the finished product, and to promote as much uniformity as is practical. In blending also consider the final composition requirements for fat and moisture. Quantities of salt, color, emulsifier and other allowable ingredients to be added shall be calculated and predetermined for each cooker batch.

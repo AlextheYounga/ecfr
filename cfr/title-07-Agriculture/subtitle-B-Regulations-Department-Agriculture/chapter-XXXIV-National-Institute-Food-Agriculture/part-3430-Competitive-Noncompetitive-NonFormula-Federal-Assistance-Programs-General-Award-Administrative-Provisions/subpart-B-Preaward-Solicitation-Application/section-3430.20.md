@@ -1,0 +1,3 @@
+##### § 3430.20 Acknowledgment of an application. #####
+
+The receipt of all letters of intent and applications will be acknowledged by NIFA. Applicants who do not receive an acknowledgement within a certain number of days (as established in the RFA, e.g., 15 and 30 days) of the submission deadline should contact the program contact. Once the application has been assigned a proposal number by NIFA, that number should be cited on all future correspondence.

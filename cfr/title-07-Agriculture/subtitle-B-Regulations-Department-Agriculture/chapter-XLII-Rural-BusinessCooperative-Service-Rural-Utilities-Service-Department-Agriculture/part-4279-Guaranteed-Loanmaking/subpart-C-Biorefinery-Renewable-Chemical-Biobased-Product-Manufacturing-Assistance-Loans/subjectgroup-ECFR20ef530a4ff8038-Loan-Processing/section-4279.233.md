@@ -1,0 +1,9 @@
+##### § 4279.233 Interest rates. #####
+
+The Interest rate for the guaranteed loan will be negotiated between the Lender and the Borrower and may be either fixed or variable, or a combination thereof, as long as it is a legal rate. Interest rates will not be more than those rates the Lender customarily charges Borrowers for non-guaranteed loans in similar circumstances in the ordinary course of business and are subject to Agency review and approval. Lenders are encouraged to utilize the secondary market and pass Interest-rate savings on to the Borrower.
+
+(a) A variable Interest rate must be a rate that is tied to a published base rate. The variable Interest rate must be specified in the Promissory Note and may be adjusted at specified intervals during the term of the loan, but the adjustments may not be more often than once each Calendar Quarter. The Lender must incorporate, within the variable rate Promissory Note at loan closing, the provision for adjustment of payment installments. The Lender must properly amortize the outstanding principal balance within the prescribed loan maturity in order to eliminate the possibility of a balloon payment at the end of the loan.
+
+(b) Any change in the base rate or fixed Interest rate between issuance of the Conditional Commitment and the issuance of the Loan Note Guarantee must be approved by the Agency. Approval of such a change must be shown as an amendment to the Conditional Commitment and must be reflected on the Guaranteed Loan Closing Report.
+
+(c) It is permissible to have different Interest rates on the guaranteed and unguaranteed portions of the loan.

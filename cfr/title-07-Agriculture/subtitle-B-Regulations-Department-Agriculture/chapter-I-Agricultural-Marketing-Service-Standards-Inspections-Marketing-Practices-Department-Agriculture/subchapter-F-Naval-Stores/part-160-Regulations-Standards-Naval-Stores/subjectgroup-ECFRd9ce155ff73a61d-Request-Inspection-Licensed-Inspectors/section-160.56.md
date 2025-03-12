@@ -1,0 +1,3 @@
+##### § 160.56 Compensation of licensed inspectors. #####
+
+Each licensed inspector shall be paid directly by the accredited processor for his services as an official inspector and for such other services or duties to which he may be assigned in accordance with § 160.44: *Provided,* That whenever the Administrator shall deem it to be in the best interest of the Federal inspection service, he may require such processor to report to him the terms and amounts of compensation paid to a licensed inspector during any specified period.

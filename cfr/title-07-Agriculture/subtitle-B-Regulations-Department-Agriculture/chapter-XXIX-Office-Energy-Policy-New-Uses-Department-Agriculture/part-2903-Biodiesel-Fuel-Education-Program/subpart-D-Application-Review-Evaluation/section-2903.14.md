@@ -1,0 +1,5 @@
+##### § 2903.14 Conflicts of interest and confidentiality. #####
+
+(a) During the peer evaluation process, extreme care will be taken to prevent any actual or perceived conflicts of interest that may impact review or evaluation. Determinations of conflicts of interest will be based on the academic and administrative autonomy of an institution. The program announcement will specify the methodology for determining such autonomy.
+
+(b) Names of submitting institutions and individuals, as well as application content and peer evaluations, will be kept confidential, except to those involved in the review process, to the extent permitted by law. In addition, the identities of peer reviewers will remain confidential throughout the entire review process. Therefore, the names of the reviewers will not be released to applicants. At the end of the fiscal year, names of reviewers will be made available in such a way that the reviewers cannot be identified with the review of any particular application.

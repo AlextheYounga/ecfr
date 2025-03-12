@@ -1,0 +1,5 @@
+##### § 1218.520 Late payment and interest charges for past due assessments. #####
+
+(a) A late payment charge will be imposed on any handler who fails to make timely remittance to the Council of the total assessments for which they are liable. The late payment will be imposed on any assessments not received within 30 calendar days of the date when assessments are due. This one-time late payment charge will be 5 percent of the assessments due before interest charges have accrued.
+
+(b) In addition to the late payment charge, 1 percent per month interest on the outstanding balance, including any late payment and accrued interest, will be added to any accounts for which payment has not been received within 30 calendar days of the date when assessments are due. Interest will continue to accrue monthly until the outstanding balance is paid to the Council.

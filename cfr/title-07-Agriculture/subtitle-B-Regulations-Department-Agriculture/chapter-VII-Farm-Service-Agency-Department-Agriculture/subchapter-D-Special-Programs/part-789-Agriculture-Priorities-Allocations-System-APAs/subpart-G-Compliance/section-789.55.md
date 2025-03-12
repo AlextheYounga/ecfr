@@ -1,0 +1,3 @@
+##### § 789.55 Compliance conflicts. #####
+
+If compliance with any provision of the Defense Production Act and other applicable laws, this part, or an official action would prevent a person from filling a rated order or from complying with another provision of the Defense Production Act and other applicable laws, this part, or an official action, the person must immediately notify USDA for resolution of the conflict.

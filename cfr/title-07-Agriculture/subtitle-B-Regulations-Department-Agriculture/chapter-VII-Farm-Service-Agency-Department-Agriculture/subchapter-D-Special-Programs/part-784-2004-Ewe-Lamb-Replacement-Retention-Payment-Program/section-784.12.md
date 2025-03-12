@@ -1,0 +1,3 @@
+##### § 784.12 Maintaining records. #####
+
+Persons making application for benefits under this program must maintain accurate records and accounts that will document that they meet all eligibility requirements specified herein. Such records and accounts must be retained for 3 years after the date of payment to the sheep and lamb operations under this program. Destruction of the records after such date shall be at the risk of the party undertaking the destruction.

@@ -1,0 +1,3 @@
+##### § 1737.10 Initial contact. #####
+
+Initial loan applicants seeking assistance should write the Rural Utilities Service, United States Department of Agriculture, Washington, DC 20250. A field representative will be assigned by RUS to visit the applicant and discuss its financial needs and eligibility. Existing borrowers initiate the contact directly with their assigned field representative. Borrowers consult with RUS field representatives and headquarters staff, as necessary.

@@ -1,0 +1,3 @@
+##### § 1208.10 Importer. #####
+
+*Importer* means any person importing 20,000 pounds or more of processed raspberries into the United States in a calendar year as a principal or as an agent, broker, or consignee of any person who produces or handles processed raspberries outside of the United States for sale in the United States, and who is listed in the import records as the importer of record for such processed raspberries.

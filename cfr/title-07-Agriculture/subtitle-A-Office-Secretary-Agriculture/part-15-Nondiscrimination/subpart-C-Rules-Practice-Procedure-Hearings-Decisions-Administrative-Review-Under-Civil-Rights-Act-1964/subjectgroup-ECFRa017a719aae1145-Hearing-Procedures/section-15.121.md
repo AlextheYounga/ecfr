@@ -1,0 +1,3 @@
+##### § 15.121 Official notice. #####
+
+A public document, or part thereof, such as an official report decision, opinion, or published scientific or economic statistical data issued by any branch of the Federal or a State Government which has been shown to be reasonably available to the public, may be offered for official notice and accepted in the record without further proof of authenticity. Where official notice is to be taken, any party, on timely request, shall have an opportunity to show the contrary.

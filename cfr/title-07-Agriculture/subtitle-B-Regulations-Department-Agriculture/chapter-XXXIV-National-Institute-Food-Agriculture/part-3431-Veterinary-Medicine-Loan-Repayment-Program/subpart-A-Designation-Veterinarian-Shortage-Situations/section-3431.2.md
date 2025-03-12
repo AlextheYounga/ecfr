@@ -1,0 +1,3 @@
+##### § 3431.2 Purpose. #####
+
+The Secretary will follow the processes and procedures established in subpart A of this part to designate veterinarian shortage situations for the VMLRP. Applications for the VMLRP will be accepted from eligible veterinarians who agree to serve in one of the designated shortage situations in exchange for the repayment of an amount of the principal and interest of the veterinarian's qualifying educational loans. The administrative provisions for the VMLRP, including the application process, are established in subpart B of this part.

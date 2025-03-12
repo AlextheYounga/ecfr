@@ -1,0 +1,3 @@
+##### § 1214.19 Research. #####
+
+*Research* means any type of test, systematic study, study, investigation, analysis and/or evaluation designed to advance the image, desirability, use, marketability, quality, product development, or production of Christmas trees, including but not limited to research related to cost of production, market development, testing the effectiveness of market development and promotional efforts, new species of Christmas trees and environmental issues relating to the Christmas tree industry.

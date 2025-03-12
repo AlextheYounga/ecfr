@@ -1,0 +1,7 @@
+##### § 621.30 Description. #####
+
+(a) As provided by Pub. L. 87-639, joint investigations and reports by USDA and the Department of the Army may be authorized by resolutions adopted by the Committee on Environment and Public Works of the U.S. Senate or the Committee on Public Works and Transportation of the U.S. House of Representatives for any watershed area in the 50 States, the Commonwealth of Puerto Rico, and the U.S. Virgin Islands if the nature of the watershed area problems dictates need for a joint effort by the two Departments.
+
+(b) Authorized joint investigations and reports are made to determine works of improvement needed in the study area for flood prevention; for the conservation, development, use, and disposal of water; for flood control; for the conservation and proper use of land; and for allied purposes. The joint report to Congress may include a water and related land resources plan recommended for implementation. Such an implementation plan must be accompanied by an environmental impact statement (EIS) and must be in sufficient detail to permit its implementation.
+
+(c) As mutually agreed by USDA and the Department of the Army Corps of Engineers, the report and EIS are forwarded to Congress through appropriate channels after technical, public, and interagency reviews in accordance with NRCS policy as described in § 622.34, or in accordance with the Corps of Engineers' policy concerning technical and public review. Implementation of these plans is contingent on congressional action.

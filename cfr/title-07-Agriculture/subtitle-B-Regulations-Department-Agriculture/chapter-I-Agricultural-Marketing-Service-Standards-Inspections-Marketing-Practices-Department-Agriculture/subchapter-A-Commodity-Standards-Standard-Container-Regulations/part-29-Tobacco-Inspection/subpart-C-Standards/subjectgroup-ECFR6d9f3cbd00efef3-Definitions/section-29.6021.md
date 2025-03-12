@@ -1,0 +1,3 @@
+##### § 29.6021 Injury. #####
+
+Hurt or impairment from any cause except the fungus or bacterial diseases which attack tobacco in its cured state. (See definition of Damage.) Injury to tobacco may be caused by field diseases, insects, or weather conditions; insecticides, fungicides, or cell growth inhibitors; nutritional deficiencies or excesses; or improper fertilization, harvesting, curing, or handling. Injured tobacco includes dead, burnt, hail-cut, torn, broken, frostbitten, frozen (see Rule 16), sunburned, sun-scalded, bulk-burnt, pole-burnt, shed-burnt, pole-sweated, stem-rotted, bleached, bruised, discolored, or deformed leaves; or tobacco affected by wildfire, rust, frogeye, mosaic, root rot, wilt, black shank, or other diseases. (See Rule 13.)

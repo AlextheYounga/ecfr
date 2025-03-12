@@ -1,7 +1,5 @@
 ##### § 1006.375 Other Federal requirements. #####
 
-Link to an amendment published at 81 FR 90660, December 14, 2016.
-
 (a) *Lead-based paint.* The following subparts of HUD's lead-based paint regulations at part 35, which implement the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4822-4846) and the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), apply to the use of assistance under this part:
 
 (1) Subpart A, “Disclosure of Known Lead-Based Paint Hazards Upon Sale or Lease of Residential Property”;
@@ -74,4 +72,6 @@ Link to an amendment published at 81 FR 90660, December 14, 2016.
 
 (d) *Audits.* The DHHL must comply with the requirements of the Single Audit Act and 2 CFR part 200, subpart F, with the audit report providing a schedule of expenditures for each grant. A copy of each audit must be submitted to the Federal Audit Clearinghouse.
 
-[67 FR 40776, June 13, 2002, as amended at 72 FR 73497, Dec. 27, 2007; 80 FR 75945, Dec. 7, 2015]
+(e) *Housing counseling.* Housing counseling, as defined in § 5.100, that is funded with or provided in connection with NHHBG funds must be carried out in accordance with 24 CFR 5.111.
+
+[67 FR 40776, June 13, 2002, as amended at 72 FR 73497, Dec. 27, 2007; 80 FR 75945, Dec. 7, 2015; 81 FR 90660, Dec. 14, 2016]

@@ -1,0 +1,3 @@
+##### § 28.22 Authority granted by license. #####
+
+Licenses issued by the Division shall authorize the warehouse to draw and submit samples from cotton stored in the warehouse for Form A determination or for classification pursuant to §§ 28.901 through 28.917. Licenses issued by the Division shall authorize gins to draw and submit samples from cotton ginned at the gin for classification pursuant to §§ 28.901 through 28.917. Licenses shall be valid for a period of five years.

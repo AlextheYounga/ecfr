@@ -1,0 +1,3 @@
+##### § 3550.111 Appraisals (loans only). #####
+
+An appraisal is required when the section 504 debt to be secured exceeds $15,000 or whenever RHS determines that it is necessary to establish the adequacy of the security. RHS may charge an appraisal fee. Appraisals must be made in accordance with the Uniform Standards of Professional Appraisal Practices. When other real estate is taken as additional security it will be appraised if it represents a substantial portion of the security for the loan.

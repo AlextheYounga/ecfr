@@ -1,0 +1,3 @@
+##### § 1214.71 Books and records. #####
+
+Each producer and importer subject to this subpart, including those who are exempt under this subpart, shall maintain any books and records necessary to carry out the provisions of this subpart and the regulations issued thereunder, including such records as are necessary to verify any reports required. Such books and records must be made available during normal business hours for inspection by the Board's or Secretary's employees or agents. Such records shall be retained for at least two years beyond the fiscal period of their applicability.

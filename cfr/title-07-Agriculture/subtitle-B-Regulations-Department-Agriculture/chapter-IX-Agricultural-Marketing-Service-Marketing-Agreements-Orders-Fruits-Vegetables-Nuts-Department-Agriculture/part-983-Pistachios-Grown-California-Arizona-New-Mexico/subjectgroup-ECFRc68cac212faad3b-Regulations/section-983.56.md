@@ -1,0 +1,5 @@
+##### § 983.56 Inspection, certification and identification. #####
+
+Upon recommendation of the committee and approval of the Secretary, all pistachios that are required to be inspected and certified in accordance with this part shall be identified by appropriate seals, stamps, tags, or other identification to be affixed to the containers by the handler. All inspections shall be at the expense of the handler, *Provided,* That for handlers making shipments from facilities located in an area where inspection costs for inspector travel and shipment of samples for aflatoxin testing would otherwise exceed the average of those same inspection costs for comparable handling operations located in Districts 1 and 2, such handlers may be reimbursed by the committee for the difference between their respective inspection costs and such average, or as otherwise recommended by the committee and approved by the Secretary.
+
+[74 FR 56540, Nov. 2, 2009]

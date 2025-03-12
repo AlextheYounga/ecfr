@@ -1,0 +1,3 @@
+##### § 12.11 Action based upon advice or action of USDA. #####
+
+The provisions of part 718 of this Title, as amended, relating to performance based upon the action or advice of a County Committee (COC) or State FSA Committee shall be applicable to the provisions of this part. In addition, if it is determined by the appropriate USDA agency that the action of a person which would form the basis of any ineligibility under this part was taken by such person in good-faith reliance on erroneous advice, information, or action of any other authorized representative of USDA, the appropriate agency may make such benefits available to the extent that similar relief would be allowed under 7 CFR part 718.

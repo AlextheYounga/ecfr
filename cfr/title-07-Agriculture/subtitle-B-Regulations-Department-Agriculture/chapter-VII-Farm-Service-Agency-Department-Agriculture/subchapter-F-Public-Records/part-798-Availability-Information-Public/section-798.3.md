@@ -1,0 +1,3 @@
+##### § 798.3 Index. #####
+
+5 U.S.C. 552(a)(2) requires that each agency publish or otherwise make available a current index of all materials required to be made available for public inspection and copying. FSA maintains an index of FSA National Handbooks, CCC Board Dockets, decisions of the Board of Contract Appeals of the Department of Agriculture affecting FSA or CCC, and Marketing Quota Review Committee determinations. In view of the small number of public requests for such index, publication of the index is unnecessary and impractical. The index is maintained and available to the public at the office shown in § 798.2 and copies of the index are available upon request in person or by mail to that office.

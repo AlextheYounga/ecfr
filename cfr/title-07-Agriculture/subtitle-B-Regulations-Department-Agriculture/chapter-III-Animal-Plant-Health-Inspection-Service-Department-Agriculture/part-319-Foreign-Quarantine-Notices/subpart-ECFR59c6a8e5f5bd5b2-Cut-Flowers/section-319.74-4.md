@@ -1,0 +1,3 @@
+##### § 319.74-4 Costs and charges. #####
+
+The Animal and Plant Health Inspection Service, U.S. Department of Agriculture, will be responsible only for the costs of providing the services of an inspector during regularly assigned hours of duty and at the usual places of duty (provisions relating to costs for other services of an inspector are contained in 7 CFR part 354). The importer, owner, or agent or representative of the importer or owner of cut flowers is responsible for all additional costs of inspection, treatment, movement, storage, or destruction ordered by an inspector under this subpart, including the costs of any labor, chemicals, packing materials, or other supplies required.

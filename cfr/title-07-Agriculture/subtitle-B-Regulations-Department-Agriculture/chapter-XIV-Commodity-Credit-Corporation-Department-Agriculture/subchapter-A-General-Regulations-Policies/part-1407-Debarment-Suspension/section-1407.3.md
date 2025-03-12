@@ -1,0 +1,3 @@
+##### § 1407.3 Procurement debarment and suspension. #####
+
+CCC will proceed under this part when taking action to debar or suspend contractors with CCC or participants or potential participants in CCC's procurement activities. CCC will apply the provisions of 48 CFR part 409, subpart 409.4, in such actions, with the exception that the debarring and suspending official will be the Executive Vice President, CCC, or a designee.

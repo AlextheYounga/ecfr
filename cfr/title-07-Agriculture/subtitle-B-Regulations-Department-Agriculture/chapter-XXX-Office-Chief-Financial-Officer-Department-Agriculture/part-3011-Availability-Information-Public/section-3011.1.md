@@ -1,0 +1,3 @@
+##### § 3011.1 General statement. #####
+
+This part is issued in accordance with 7 CFR 1.3 of the Department of Agriculture regulations governing the availability of records (7 CFR 1.1-1.23 and Appendix A) under the Freedom of Information Act (5 U.S.C. 552, as amended). These regulations supplement the Department's regulations by providing guidance for any person wishing to request records from the Office of Finance and Management (OFM).

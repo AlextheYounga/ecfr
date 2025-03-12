@@ -1,0 +1,9 @@
+##### § 1530.103 License eligibility. #####
+
+(a) A raw cane sugar refiner, a manufacturer of sugar containing products, or a producer of certain polyhydric alcohols, that owns and operates a facility within the U.S. Customs Territory, is eligible for a license to participate in the Refined Sugar Re-export Program, the Sugar Containing Products Re-export Program, or the Polyhydric Alcohol Program, respectively.
+
+(b) No person may apply for or hold more than one license, including a license held by an affiliated person.
+
+(c) Notwithstanding paragraph (b) of this section, a person who owns one or more wholly-owned subsidiary corporations manufacturing sugar containing products or producing certain polyhydric alcohols, which would otherwise qualify for an individual license, is eligible for a consolidated license to cover the program transactions and other program activities of both the parent corporation and the subsidiary corporation(s). The program transactions and other program activities of the subsidiary corporation(s) covered by a consolidated license shall be treated as the activities of the corporation holding the consolidated license.
+
+(d) Notwithstanding paragraph (c) of this section, each wholly-owned subsidiary manufacturing sugar containing products or producing certain polyhydric alcohols may establish a license for program activities instead of the parent corporation establishing a consolidated license. The sum total of license limits for the parent corporation and its wholly-owned subsidiary corporation(s) shall not exceed the quantitative limits established in § 1530.105 of this part.

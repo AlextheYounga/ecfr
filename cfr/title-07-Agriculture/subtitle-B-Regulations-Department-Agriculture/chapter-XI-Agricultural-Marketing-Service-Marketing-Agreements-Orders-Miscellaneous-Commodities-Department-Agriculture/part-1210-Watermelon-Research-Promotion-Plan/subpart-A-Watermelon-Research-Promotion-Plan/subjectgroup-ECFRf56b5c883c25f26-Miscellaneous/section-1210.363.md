@@ -1,0 +1,7 @@
+##### § 1210.363 Suspension or termination. #####
+
+(a) Whenever the Secretary finds that this Plan or any provision thereof obstructs or does not tend to effectuate the declared policy of the Act, the Secretary shall terminate or suspend the operation of this Plan or such provision thereof.
+
+(b) The Secretary may conduct a referendum at any time and shall hold a referendum on request of the Board or at least 10 percent of the combined total of the watermelon producers, handlers, and importers to determine if watermelon producers, handlers, and importers favor termination or suspension of this Plan. The Secretary shall suspend or terminate this Plan at the end of the marketing year whenever the Secretary determines that the suspension or termination is favored by a majority of the watermelon producers, handlers, and importers voting in such referendum who, during a representative period determined by the Secretary, have been engaged in the production, handling, or importing of watermelons and who produced, handled, or imported more than 50 percent of the combined total of the volume of watermelons produced, handled, or imported by those producers, handlers, and importers voting in the referendum. Any such referendum shall be conducted by mail ballot.
+
+[54 FR 24545, June 8, 1989, as amended at 60 FR 10799, Feb. 28, 1995; 79 FR 17852, Mar. 31, 2014]

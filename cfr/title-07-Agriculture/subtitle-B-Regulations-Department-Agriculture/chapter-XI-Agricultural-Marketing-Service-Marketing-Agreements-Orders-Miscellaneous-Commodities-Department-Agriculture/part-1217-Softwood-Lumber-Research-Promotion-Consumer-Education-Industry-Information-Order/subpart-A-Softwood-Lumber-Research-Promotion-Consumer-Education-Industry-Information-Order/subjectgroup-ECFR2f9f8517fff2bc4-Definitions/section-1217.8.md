@@ -1,0 +1,3 @@
+##### § 1217.8 Domestic manufacturer. #####
+
+*Domestic manufacturer* means any person who is a first handler and is engaged in the manufacturing, sale and shipment of softwood lumber in the United States during a fiscal period and who owns, or shares in the ownership and risk of loss of manufacturing of softwood lumber or a person who is engaged in the business of manufacturing, or causes to be manufactured, sold and shipped such softwood lumber in the United States beyond personal use. This term does not include any person who re-manufactures softwood lumber that has already been subject to assessment under this Order.

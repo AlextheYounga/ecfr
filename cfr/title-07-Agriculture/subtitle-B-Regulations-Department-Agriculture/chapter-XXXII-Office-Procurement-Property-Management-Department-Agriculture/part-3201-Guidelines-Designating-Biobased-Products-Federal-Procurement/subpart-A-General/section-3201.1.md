@@ -1,0 +1,7 @@
+##### § 3201.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of the guidelines in this part is to assist procuring agencies in complying with the requirements of section 9002 of the Farm Security and Rural Investment Act of 2002 (FSRIA), Public Law 107-171, 116 Stat. 476 (7 U.S.C. 8102), as amended by the Food, Conservation, and Energy Act of 2008, Public Law 110-246, 122 Stat. 1651, as they apply to the procurement of the products designated in subpart B of this part.
+
+(b) *Scope.* The guidelines in this part establish a process for designating categories of products that are, or can be, produced with biobased components and materials and whose procurement by procuring agencies and other relevant stakeholders will carry out the objectives of section 9002 of FSRIA. The guidelines also establish a process for designating categories of intermediate ingredients and feedstocks that are, or can be, used to produce final products that will be designated and, thus, subject to Federal preferred procurement. The guidelines also establish a process for calculating the biobased content of complex assembly products, whose biobased content cannot be measured following ASTM Standard Method D6866, and for designating complex assembly product categories.
+
+[76 FR 6321, Feb. 4, 2011, as amended at 79 FR 44654, Aug. 1, 2014]

@@ -1,0 +1,3 @@
+##### § 52.82 Basis of survey and plant inspection. #####
+
+The plant survey and inspection will be based on the Regulations issued under the Federal Food, Drug, and Cosmetic Act—Human Foods; Good Manufacturing Practice (Sanitation) in Manufacture, Processing, Packing, or Holding (21 CFR part 110)—as may be modified or augmented by the Federal Food and Drug Administration, U.S. Department of Health, Education, and Welfare or the Administrator of the Agricultural Marketing Service.

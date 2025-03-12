@@ -1,0 +1,3 @@
+##### § 1216.12 Handle. #####
+
+*Handle* means to engage in the receiving or acquiring, cleaning and shelling, cleaning in-shell, or crushing of peanuts and in the shipment (except as a common or contract carrier of peanuts owned by another) or sale of cleaned in-shell or shelled peanuts, or other activity causing peanuts to enter the current of commerce: *Provided,* that this term does not include sales or deliveries of peanuts by a producer to a handler or to an intermediary person engaged in delivering peanuts to handler(s) and: *Provided further,* that this term does not include sales or deliveries of peanuts by such intermediary person(s) to a handler.

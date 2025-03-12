@@ -1,0 +1,3 @@
+##### § 2710.5 Appeals. #####
+
+*Procedure.* Any person whose initial request is denied in whole or in part may appeal that denial, in accordance with 7 CFR 1.3(e) and 1.7, to the Director, Office of Information Resources Management, by sending the appeal to the Information Access and Disclosure Officer, Office of Information Resources Management, USDA, 14th and Independence Ave., SW., Room 407-W, Washington, DC 20250. The Director, Office of Information Resources Management, will make the determination on the appeal.

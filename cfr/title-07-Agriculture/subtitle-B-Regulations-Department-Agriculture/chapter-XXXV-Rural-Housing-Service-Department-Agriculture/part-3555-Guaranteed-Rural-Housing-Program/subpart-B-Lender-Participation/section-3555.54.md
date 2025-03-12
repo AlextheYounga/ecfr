@@ -1,0 +1,3 @@
+##### § 3555.54 Sale of loans to approved lenders. #####
+
+Lenders may sell SFHGLP loans only to other Agency-approved lenders, Fannie Mae, Freddie Mac, or the Federal Home Loan Banks. In such a sale, the purchasing lender acquires all rights of the selling lender under the Loan Note Guarantee, and assumes all of the selling lender's obligations contained in any note, security instrument, or Loan Note Guarantee in connection with the loan purchased. The purchasing lender may be subject to any defenses, claims, or offsets that Rural Development would have had against the selling lender if the selling lender had continued to hold the loan. The lender must notify Rural Development immediately upon the sale or transfer of servicing of a SFHGLP loan.

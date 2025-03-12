@@ -1,0 +1,3 @@
+##### § 322.33 Restricted articles in a commercial bonded vehicle arriving at a land border port in the United States. #####
+
+If you import a restricted article through a land border port in the United States by commercial vehicle (*i.e.*, automobile or truck), then the person carrying the package containing the restricted article or the driver of the vehicle must present the export certificate required by § 322.30 (if applicable) and an invoice or packing slip accurately indicating the complete contents of the shipment to the inspector at the land border port.

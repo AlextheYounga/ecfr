@@ -1,0 +1,3 @@
+##### § 1786.33 Forms. #####
+
+Guarantees and loan guarantee agreements executed by RUS pursuant to this subpart will be on forms prescribed by RUS. Such forms will include, without limitation, additional details on servicing, procedures for notifying RUS of a default, the manner for requesting payment on a guarantee. The Notice of Intent to Prepay the Federal Financing Bank shall be substantially in the form specified by RUS. RUS may also prescribe standard forms of certifications to be used in connection with materials required to be furnished pursuant to § 1786.31 of this subpart.

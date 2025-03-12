@@ -1,0 +1,3 @@
+##### § 1948.91 Inspections of development. #####
+
+Inspections will be made by the Rural Development State Engineer or other employee designated by the Rural Development State Director to ascertain whether site development is proceeding in accordance with plans and specifications. Such inspections are solely for the benefit of the Government and not for the benefit of the Grantee or any other person.

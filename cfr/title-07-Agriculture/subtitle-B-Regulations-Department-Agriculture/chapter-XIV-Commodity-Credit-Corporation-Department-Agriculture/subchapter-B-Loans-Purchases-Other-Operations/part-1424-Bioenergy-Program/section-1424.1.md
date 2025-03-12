@@ -1,0 +1,3 @@
+##### § 1424.1 Applicability. #####
+
+This part sets out regulations for the Bioenergy Program (program). It sets forth, subject to the availability of funds as provided herein, or as may be limited by law, the terms and conditions a bioenergy producer must meet to obtain payments under this program and part from the Commodity Credit Corporation (CCC) for eligible bioenergy production. Additional terms and conditions may be set forth in the document required to request program benefits and in the program contract or agreement prescribed by CCC. This program is effective October 1, 2002, through September 30, 2006.

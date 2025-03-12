@@ -1,0 +1,3 @@
+##### § 1753.4 Major and minor construction. #####
+
+RUS's general requirements for construction are set forth in this subpart A. Additional requirements and procedures for different types of major construction are presented in subparts D, E, F, G, and H (OMB control number 0572-0062). The requirements and procedures for minor construction are presented in subpart I. Borrowers may, at their option, follow the procedures in subparts D, E, F, G, and H for any minor construction.

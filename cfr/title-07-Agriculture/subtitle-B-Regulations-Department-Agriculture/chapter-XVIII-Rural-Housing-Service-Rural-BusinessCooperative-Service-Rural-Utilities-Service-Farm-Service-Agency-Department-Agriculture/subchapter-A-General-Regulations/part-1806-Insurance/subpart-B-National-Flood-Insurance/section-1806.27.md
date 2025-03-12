@@ -1,0 +1,3 @@
+##### § 1806.27 Acceptable policies and servicing. #####
+
+The general acceptance of policies and servicing of insurance will be performed in accordance with Subpart A of this part. Any unusual situations that may arise with respect to obtaining or servicing flood insurance should be referred to the State Director. The State Director will attempt to resolve any problems concerning the flood insurance program in the state with the Servicing Company. Flood hazard boundary maps, insurance rate tables, the insurability of specific structures, and other information concerning the program may be obtained from the Servicing Company. Difficulties in administering the program which the State Director is unable to resolve should be referred to the National Office for Assistance.

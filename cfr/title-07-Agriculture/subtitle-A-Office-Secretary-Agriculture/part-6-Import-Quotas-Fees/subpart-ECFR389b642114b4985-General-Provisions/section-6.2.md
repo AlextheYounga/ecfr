@@ -1,0 +1,3 @@
+##### § 6.2 Responsibility for actions under section 22 and section 8(a). #####
+
+The primary responsibility within the Department of Agriculture for action on matters for which the Secretary is responsible under section 22 of the Agricultural Adjustment Act of 1933, as amended, and section 8(a) of the Trade Agreements Extension Act of 1951 is assigned to the Administrator, Foreign Agricultural Service (referred to in this part as the “Administrator”), but the other offices, agencies, and bureaus of the Department whose activities will be affected by any action under section 22 or section 8(a) shall be consulted by the Administrator in discharging his responsibility under this part.

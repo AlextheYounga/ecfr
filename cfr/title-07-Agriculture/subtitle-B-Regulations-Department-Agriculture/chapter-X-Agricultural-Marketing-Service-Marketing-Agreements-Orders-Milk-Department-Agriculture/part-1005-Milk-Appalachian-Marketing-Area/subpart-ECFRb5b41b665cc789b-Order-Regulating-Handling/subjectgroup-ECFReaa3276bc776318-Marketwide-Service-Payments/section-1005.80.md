@@ -1,0 +1,3 @@
+##### § 1005.80 Transportation credit balancing fund. #####
+
+The market administrator shall maintain a separate fund known as the *Transportation Credit Balancing Fund* into which shall be deposited the payments made by handlers pursuant to § 1005.81 and out of which shall be made the payments due handlers pursuant to § 1005.82. Payments due a handler shall be offset against payments due from the handler.

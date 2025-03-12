@@ -1,0 +1,3 @@
+##### § 1131.75 Plant location adjustments for producers and nonpool milk. #####
+
+For purposes of making payments for producer milk and nonpool milk, a plant location adjustment shall be determined by subtracting the Class I price specified in § 1131.51 from the Class I price at the plant's location. The difference, plus or minus as the case may be, shall be used to adjust the payments required pursuant to §§ 1131.73 and 1000.76.

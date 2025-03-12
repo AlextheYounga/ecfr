@@ -1,0 +1,7 @@
+##### § 4279.101 Introduction. #####
+
+(a) *Content.* This subpart contains loan processing regulations for the Business and Industry (B&I) Guaranteed Loan Program. It is supplemented by subpart A of this part, which contains general guaranteed loan regulations, and subpart B of part 4287 of this chapter, which contains loan servicing regulations.
+
+(b) *Purpose.* The purpose of the B&I Guaranteed Loan Program is to improve, develop, or finance business, industry, and employment and improve the economic and environmental climate in rural communities. This purpose is achieved by bolstering the existing private credit structure through the guarantee of quality loans that will provide lasting community benefits. It is not intended that the guarantee authority will be used for marginal or substandard loans or for relief of lenders having such loans.
+
+(c) *Documents.* Whether specifically stated or not, whenever Agency approval is required, it must be in writing. Copies of all forms and regulations referenced in this subpart may be obtained from any Agency office and from the USDA Rural Development Web site at *http://www.rd.usda.gov/publications.* Whenever a form is designated in this subpart, that designation includes predecessor and successor forms, if applicable, as specified by the Agency.

@@ -1,0 +1,3 @@
+##### § 1717.153 Transitional assistance. #####
+
+RUS recognizes that short-term financial stresses can follow even the most beneficial mergers. To help stabilize electric rates, enhance the credit quality of outstanding loans made or guaranteed by the Government, and otherwise ease the transition period before the long-term efficiencies and economies of a merger can be realized, RUS may approve one or more types of transitional assistance to a successor under the conditions set forth in this part.

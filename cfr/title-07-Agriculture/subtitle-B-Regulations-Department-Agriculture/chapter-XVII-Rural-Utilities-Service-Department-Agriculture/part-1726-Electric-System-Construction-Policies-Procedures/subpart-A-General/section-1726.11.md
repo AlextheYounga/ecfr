@@ -1,0 +1,3 @@
+##### § 1726.11 Purpose. #####
+
+Each borrower is responsible for the planning, design, construction, operation and maintenance of its electric system. RUS, as a secured lender, has a legitimate interest in accomplishing RUS's programmatic objectives, and in assuring that the costs of construction, materials, and equipment are reasonable and economical and that the property securing the loans is constructed adequately to serve the purposes for which it is intended.

@@ -1,0 +1,3 @@
+##### § 1709.115 Availability of application materials. #####
+
+Application materials, including copies of the grant announcement and all required forms and certifications will be available by request from the Agency and by such other means as the Agency may determine. In addition, the Agency may make available an application guide and other materials that may be of assistance to prospective applicants.

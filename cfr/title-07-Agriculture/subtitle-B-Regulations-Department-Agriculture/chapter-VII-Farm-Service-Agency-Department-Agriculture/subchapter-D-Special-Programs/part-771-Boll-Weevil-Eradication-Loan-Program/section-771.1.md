@@ -1,0 +1,3 @@
+##### § 771.1 Introduction. #####
+
+The regulations in this part set forth the terms and conditions under which loans are made through the Boll Weevil Eradication Loan Program. The regulations in this part are applicable to applicants, borrowers, and other parties involved in the making, servicing, and liquidation of these loans. The program's objective is to assist producers and state government agencies in the eradication of boll weevils from cotton producing areas.

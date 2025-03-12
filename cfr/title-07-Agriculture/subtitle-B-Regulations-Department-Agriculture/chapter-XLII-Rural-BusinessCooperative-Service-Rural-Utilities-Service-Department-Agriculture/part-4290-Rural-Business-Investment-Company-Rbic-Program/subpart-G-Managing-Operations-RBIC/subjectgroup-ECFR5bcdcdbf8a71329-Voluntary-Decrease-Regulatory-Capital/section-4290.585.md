@@ -1,0 +1,3 @@
+##### § 4290.585 Voluntary decrease in RBIC's Regulatory Capital. #####
+
+You must obtain the Secretary's prior written approval to reduce your Regulatory Capital by more than two percent in any fiscal year. At all times, you must retain sufficient Regulatory Capital to meet the minimum capital requirements in the Act and § 4290.210, and sufficient Leverageable Capital to avoid having excess Leverage in violation of section 384E(d) of the Act.

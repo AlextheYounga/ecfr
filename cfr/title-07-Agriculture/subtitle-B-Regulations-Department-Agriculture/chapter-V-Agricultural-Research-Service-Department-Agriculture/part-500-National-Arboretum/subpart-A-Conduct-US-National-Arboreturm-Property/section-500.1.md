@@ -1,0 +1,3 @@
+##### § 500.1 General. #####
+
+The rules and regulations in this part apply to the buildings and grounds of the U.S. National Arboretum (USNA), Washington, DC, and to all persons entering in or on such property. The Administrator, General Services Administration, has delegated to the Secretary of Agriculture, with authority to further delegate, the authority to make all the needful rules and regulations for the protection of the buildings and grounds of the USNA (34 FR 6406). The Secretary of Agriculture has in turn delegated such authority to the Administrator, Agricultural Research Service (34 FR 7389). The rules and regulations in this part are issued pursuant to such delegations.

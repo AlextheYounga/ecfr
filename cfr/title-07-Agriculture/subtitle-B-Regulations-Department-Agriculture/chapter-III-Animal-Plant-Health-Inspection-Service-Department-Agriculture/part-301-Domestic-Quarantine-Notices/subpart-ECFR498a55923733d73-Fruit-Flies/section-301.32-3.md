@@ -1,0 +1,13 @@
+##### § 301.32-3 Quarantined areas. #####
+
+(a) *Designation of quarantined areas.* In accordance with the criteria listed in paragraph (c) of this section, the Administrator will designate as a quarantined area each State, or each portion of a State, in which a fruit fly population subject to the regulations in this subpart has been found by an inspector, or in which the Administrator has reason to believe that a fruit fly population is present, or that the Administrator considers necessary to quarantine because of its inseparability for quarantine enforcement purposes from localities in which a fruit fly population has been found. The Administrator will publish the description of the quarantined area on the Plant Protection and Quarantine Web site, *http://www.aphis.usda.gov/plant\_health/plant\_pest\_info/fruit\_flies/index.shtml.* The description of the quarantined area will include the date the description was last updated and a description of the changes that have been made to the quarantined area. The description of the quarantined area may also be obtained by request from any local office of PPQ; local offices are listed in telephone directories. After a change is made to the quarantined area, we will publish a notice in the Federal Register informing the public that the change has occurred and describing the change to the quarantined area.
+
+(b) *Designation of an area less than an entire State as a quarantined area.* Less than an entire State will be designated as a quarantined area only if the Administrator determines that:
+
+(1) The State has adopted and is enforcing restrictions on the intrastate movement of the regulated articles that are equivalent to those imposed by this subpart on the interstate movement of regulated articles; and
+
+(2) The designation of less than the entire State as a quarantined area will prevent the interstate spread of the fruit fly.
+
+(c) *Criteria for designation of a State, or a portion of a State, as a quarantined area.* A State, or a portion of a State, will be designated as a quarantined area when a fruit fly population has been found in that area by an inspector, when the Administrator has reason to believe that the fruit fly is present in that area, or when the Administrator considers it necessary to quarantine that area because of its inseparability for quarantine enforcement purposes from localities in which the fruit fly has been found.
+
+(d) *Removal of a State, or a portion of a State, from quarantine.* A State, or a portion of a State, will be removed from quarantine when the Administrator determines that sufficient time has passed without finding additional flies or other evidence of infestation in the area to conclude that the fruit fly no longer exists in that area.

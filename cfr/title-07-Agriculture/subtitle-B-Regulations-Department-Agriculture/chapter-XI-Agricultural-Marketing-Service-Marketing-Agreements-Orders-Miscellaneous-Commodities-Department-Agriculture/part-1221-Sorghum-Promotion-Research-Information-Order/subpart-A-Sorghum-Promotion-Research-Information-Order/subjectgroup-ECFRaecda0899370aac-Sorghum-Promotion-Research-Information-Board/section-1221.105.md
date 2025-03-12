@@ -1,0 +1,3 @@
+##### § 1221.105 Vacancies. #####
+
+To fill any vacancy occasioned by the death, removal, resignation, or disqualification of any member of the Board, a successor for the unexpired term of such representative shall be appointed by the Secretary pursuant to § 1221.103 from the most recent list of nominations for the position pursuant to § 1221.101 or the Secretary shall request nominations for a successor pursuant to § 1221.101, except that said nomination and replacement shall not be required if an unexpired term is less than 6 months.

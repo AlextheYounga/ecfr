@@ -1,0 +1,7 @@
+##### § 1.187 Rulemaking on maximum rates for attorney fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys qualified to handle certain types of proceedings), the Department may adopt regulations providing that attorney fees may be awarded at a rate higher than $150 per hour in some or all of the types of proceedings covered by this part. The Department will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act.
+
+(b) Any person may file with the Department a petition for rulemaking to increase the maximum rate for attorney fees in accordance with § 1.28 of this part. The petition should identify the rate the petitioner believes the Department should establish and the types of proceedings in which the rate should be used. It also should explain fully the reasons why the higher rate is warranted. The Department will respond to the petition within 60 days after it is filed, by initiating a rulemaking proceeding, denying the petition, or taking other appropriate action.
+
+[67 FR 63237, Oct. 11, 2002, as amended at 76 FR 11668, Mar. 3, 2011]

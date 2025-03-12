@@ -1,0 +1,3 @@
+##### § 15f.15 What happens after the Docketing Clerk notifies all parties? #####
+
+The first step in this process involves a response to your hearing request by OCR. OCR will turn over its entire file on your complaint to the ALJ. OCR also will file a report with the ALJ stating its position with respect to whether or not your complaint is an eligible complaint, with reasons for its position, as well as stating its position with respect to the merits of your complaint. OCR must turn over its file and make its report on its position on your complaint within 35 days. OCR must provide a copy to you of anything it provides to the ALJ.

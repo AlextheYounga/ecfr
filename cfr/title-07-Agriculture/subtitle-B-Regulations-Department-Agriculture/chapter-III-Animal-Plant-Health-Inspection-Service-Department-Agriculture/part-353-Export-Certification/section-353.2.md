@@ -1,0 +1,5 @@
+##### § 353.2 Purpose and administration. #####
+
+The export certification program does not require certification of any exports, but does provide certification of plants and plant products as a service to exporters. After assessing the phytosanitary condition of the plants or plant products intended for export, relative to the receiving country's regulations, an inspector issues an internationally recognized phytosanitary certificate, a phytosanitary certificate for reexport, or an export certificate for processed plant products if warranted. APHIS also enters into written agreements with industry to allow the issuance of industry-issued certificates giving assurance that a plant product has been handled, processed, or inspected in a manner required by a foreign government. An industry-issued certificate includes an ISPM 15 quality/treatment mark.
+
+[61 FR 15368, Apr. 8, 1996, as amended at 64 FR 72264, Dec. 27, 1999; 72 FR 35917, July 2, 2007; 81 FR 40151, June 21, 2016]

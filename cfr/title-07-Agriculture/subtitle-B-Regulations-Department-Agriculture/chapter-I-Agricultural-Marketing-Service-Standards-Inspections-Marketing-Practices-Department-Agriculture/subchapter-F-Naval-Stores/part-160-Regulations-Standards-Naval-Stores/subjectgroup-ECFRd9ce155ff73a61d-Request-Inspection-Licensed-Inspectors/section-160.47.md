@@ -1,0 +1,3 @@
+##### § 160.47 Periodic re-inspection. #####
+
+Any eligible processing plant may from time to time be re-inspected and any rosin produced by such plant may be graded or re-graded by any official inspector authorized to make such examinations. The results of such examinations shall be made known only to the affected processor, the licensed inspector, and to such employees of the Department officially authorized to receive such information.

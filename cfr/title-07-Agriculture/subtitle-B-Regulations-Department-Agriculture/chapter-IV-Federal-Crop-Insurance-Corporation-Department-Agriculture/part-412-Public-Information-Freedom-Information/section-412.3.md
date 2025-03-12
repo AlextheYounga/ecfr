@@ -1,0 +1,3 @@
+##### § 412.3 Index. #####
+
+5 U.S.C. 552(a)(2) requires that each agency publish, or otherwise make available, a current index of all materials available for public inspection and copying. RMA and FCIC will maintain a current index providing identifying information for the public as to any material issued, adopted, or promulgated by the Agency since July 4, 1967, and required by section 552(a)(2). Pursuant to the Freedom of Information Act provisions, RMA and FCIC have determined that in view of the small number of public requests for such index, publication of such an index would be unnecessary and impracticable. Copies of the index will be available upon request in person or by mail at the address stated in § 412.2(b).

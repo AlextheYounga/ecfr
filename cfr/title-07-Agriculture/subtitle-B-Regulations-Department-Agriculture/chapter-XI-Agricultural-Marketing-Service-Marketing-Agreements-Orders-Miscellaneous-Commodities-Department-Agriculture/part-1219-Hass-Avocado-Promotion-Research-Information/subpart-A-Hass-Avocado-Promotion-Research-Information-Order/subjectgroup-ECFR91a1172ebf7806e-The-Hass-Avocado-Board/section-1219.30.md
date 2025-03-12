@@ -1,0 +1,15 @@
+##### § 1219.30 Establishment and membership. #####
+
+(a) A Hass Avocado Board, called the Board elsewhere in this part, is hereby established to administer the terms and provisions of this subpart. The Board shall consist of 12 members nominated by the Hass avocado industry and appointed by the Secretary as provided in this subpart, each of whom shall have an alternate nominated and appointed in the same manner as members of the Board are nominated and appointed. Board members and alternates shall be domiciled in the United States.
+
+(b) The membership of the Board shall be divided as follows:
+
+(1) Seven members and their alternates shall be producers of Hass avocados that are subject to assessments under this subpart;
+
+(2) Two members and their alternates shall be importers of Hass avocados that are subject to assessments under this subpart; and
+
+(3) Three members shall be producers of Hass avocados that are subject to assessments under this subpart or importers of Hass avocados that are subject to assessments under this subpart. Producers and importers shall be allocated to these positions so as to assure as nearly as possible that the composition of the 12-member Board reflects the proportion of domestic production and imports supplying the United States market. Such proportion shall be based on the Secretary's determination of the average volume of domestic production and the average volume of imports into the United States market over the previous three years, based on all information available to the Secretary.
+
+(c) Three years after the assessment of funds commences pursuant to this subpart, and at the end of each three-year period thereafter, the Board shall review the production of domestic Hass avocados in the United States and the volume of imported Hass avocados on the basis of the amount of assessments collected from producers and importers over the immediately preceding three-year period and, if warranted, recommend to the Secretary the reapportionment of the positions authorized in paragraph (b)(3) of this section to reflect changes in the proportion of domestic Hass avocado production to the volume of imported Hass avocados, to the extent possible in the Act. Any adjustment under this paragraph shall be subject to the review and approval of the Secretary.
+
+(d) For purposes of this section, *importer* means a person who is involved in, as a substantial activity, the importation of Hass avocados for sale or marketing in the United States (either directly or as an agent, broker, or consignee of any person that produces Hass avocados outside of the United States for sale in the United States), who is subject to assessments under the Order, and who is listed by Customs as the importer of record for such Hass avocados. A substantial activity means that the volume of a person's Hass avocado imports must exceed the volume of the person's production or handling of domestic Hass avocados.

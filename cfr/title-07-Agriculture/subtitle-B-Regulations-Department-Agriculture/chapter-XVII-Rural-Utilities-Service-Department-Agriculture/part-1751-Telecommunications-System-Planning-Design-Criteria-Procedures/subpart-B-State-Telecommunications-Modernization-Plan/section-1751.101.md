@@ -1,0 +1,9 @@
+##### § 1751.101 General. #####
+
+(a) It is the policy of RUS that every State have a Modernization Plan which provides for the improvement of the State's telecommunications network.
+
+(b) A proposed Modernization Plan must be submitted to RUS for approval. RUS will approve the proposed Modernization Plan if it conforms to the provisions of this subpart. Once obtained, RUS's approval of a Modernization Plan cannot be rescinded.
+
+(c) The Modernization Plan shall not interfere with RUS's authority to issue such other telecommunications standards, specifications, requirements, and procurement rules as may be promulgated from time to time by RUS including, without limitation, those set forth in 7 CFR part 1755.
+
+(d) The Modernization Plan must, at a minimum, apply to RUS Borrowers' wireline service areas. If a Modernization Plan is developed by the PUC, RUS encourages, but does not require, that the Modernization Plan's requirements apply to the rural service areas of all providers of telecommunications services in the State. A PUC's decision not to include non-RUS Borrowers will not prejudice RUS approval of that PUC's Modernization Plan. The PUC may also, at its option, extend coverage of the Modernization Plan to all service areas of all providers of telecommunications services in the State. In addition, while the requirements and goals contained in § 1751.106 apply only to wireline services, the PUC, at its discretion, may extend coverage of Modernization Plans to wireless or other communications services in the State as it deems appropriate. Borrower-developed Modernization Plans apply only to Borrowers.

@@ -1,0 +1,3 @@
+##### § 1717.158 Mergers with borrowers who prepaid RUS loans. #####
+
+In some cases, an active distribution borrower may merge with a borrower that has prepaid RUS debt at a discount pursuant to 7 CFR part 1786, and whose eligibility for future RUS financing is thereby restricted. During the period when the restrictions on future financing are in effect, the successor will be eligible for RUS loans to finance facilities to serve consumers located in the territory that was served by the active distribution borrower immediately prior to the effective date, provided that other requirements for loan eligibility are met.

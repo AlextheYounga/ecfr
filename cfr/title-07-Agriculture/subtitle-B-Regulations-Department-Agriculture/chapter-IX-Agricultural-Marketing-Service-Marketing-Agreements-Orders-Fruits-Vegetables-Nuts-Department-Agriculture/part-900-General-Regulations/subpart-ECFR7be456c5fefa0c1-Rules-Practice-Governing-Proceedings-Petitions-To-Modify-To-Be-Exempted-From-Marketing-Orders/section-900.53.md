@@ -1,0 +1,3 @@
+##### § 900.53 Withdrawal of petition. #####
+
+If, at any time after the petition is filed, the petitioner desires to withdraw the same, he shall file with the hearing clerk (or, if filed during the course of a hearing, with the judge) a written request for permission to withdraw. The judge may, in his discretion, thereupon dismiss the petition without further procedure: *Provided,* That, if the request to withdraw is filed after a hearing has been opened, permission to withdraw shall be granted only in exceptional circumstances.

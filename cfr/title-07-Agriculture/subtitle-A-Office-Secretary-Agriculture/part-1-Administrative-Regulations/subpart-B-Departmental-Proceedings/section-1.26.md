@@ -1,0 +1,13 @@
+##### § 1.26 Representation before the Department of Agriculture. #####
+
+(a) *Applicability.* This section applies to all hearings and other proceedings before the Department of Agriculture, except to the extent that any other regulation of the Department may specifically make this section, or any part of this section, inapplicable as to particular hearings or other proceedings.
+
+(b) *Administrative provisions.* (1) In any hearing or other proceeding before the Department of Agriculture, the parties may appear in person or by counsel or other representative. Persons who appear as counsel or in a representative capacity in any hearing or proceeding must conform to the standards of ethical conduct required of practitioners before the U.S. District Court for the District of Columbia, and to any applicable standards of ethical conduct established by statutes, executive orders and regulations.
+
+(2) Whenever the Secretary finds, after notice and opportunity for hearing, that a person who is acting or has acted as counsel or representative in any hearing or other proceeding before the Department has not conformed to any such standards of ethical conduct, the Secretary may order that such person be precluded from acting as counsel or representative in any hearing or other proceeding before the Department for such period of time as the Secretary deems warranted. Whenever the Secretary has probable cause to believe that any person who is acting or has acted as counsel or representative in any such hearing or other proceeding has not conformed to any such standards of ethical conduct, the Secretary may, by written notice to such person, suspend the person from acting as such a counsel or representative pending completion of the procedures specified in the preceding sentence.
+
+(3) No employee or former employee of the Department shall be permitted to represent any person before the Department in connection with any particular matter as to which by reason of employment with the Department the employee or former employee acquired personal knowledge of such a nature that it would be improper, unethical, or contrary to the public interest for the employee or former employee so to act.
+
+(4) This section shall not be construed to prevent an employee or former employee of the Department from appearing as a witness in any hearing or other proceeding before the Department.
+
+(18 U.S.C. 203, 205, 207)[32 FR 5458, Apr. 1, 1967, as amended at 60 FR 66480, Dec. 22, 1995]

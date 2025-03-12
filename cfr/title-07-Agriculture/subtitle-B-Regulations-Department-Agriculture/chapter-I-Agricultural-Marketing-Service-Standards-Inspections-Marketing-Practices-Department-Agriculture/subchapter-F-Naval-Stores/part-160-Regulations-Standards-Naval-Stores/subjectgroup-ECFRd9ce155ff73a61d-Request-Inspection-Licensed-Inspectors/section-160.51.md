@@ -1,0 +1,3 @@
+##### § 160.51 Report of non-conformance. #####
+
+Each licensed inspector shall promptly report to his supervising inspector and to the accredited processor, any evidence of which he has knowledge indicating non-conformance with the provisions in this part, and shall also so report any attempt or effort to influence him to sample, grade, or certify any naval stores incorrectly or contrary to the provisions in this part.

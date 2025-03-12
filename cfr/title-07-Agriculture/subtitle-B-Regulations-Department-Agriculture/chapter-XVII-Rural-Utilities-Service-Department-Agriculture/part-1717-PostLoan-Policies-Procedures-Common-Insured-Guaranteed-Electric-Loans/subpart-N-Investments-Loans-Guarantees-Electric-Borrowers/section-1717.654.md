@@ -1,0 +1,5 @@
+##### § 1717.654 Transactions below the 15 percent level. #####
+
+(a) A borrower in compliance with all provisions of its RUS mortgage, RUS loan contract, and any other agreements with RUS may, without prior written approval of the Administrator, invest its own funds or make loans or guarantees not in excess of 15 percent of its total utility plant without regard to any provision contained in any RUS mortgage or RUS loan contract to the effect that the borrower must obtain prior approval from RUS, provided, however, that the borrower may not, without the prior written approval of the Administrator, make such investments, loans, and guarantees to extend, add to, or modify its electric system. Moreover, funds necessary to make timely payments of principal and interest on loans secured by the RUS mortgage remain subject to RUS controls on borrower investments, loans and guarantees.
+
+(b) RUS will not consider requests from borrowers to exclude investments, loans, or guarantees made below the 15 percent level. (Categorical exclusions are set forth in § 1717.655.)

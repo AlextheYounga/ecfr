@@ -1,0 +1,13 @@
+##### § 1160.403 Confidential treatment. #####
+
+(a) All persons, including agents and former agents of the Board, all officers and employees and all former officers and employees of the Department, and all officers and all employees and all former officers and employees of contracting agencies having access to commercial or financial information obtained from such books, records or reports under the Act and this subpart shall keep such information confidential, and not make it available to Board members. Only those persons, as determined by the Secretary, who have a specific need for such information in order to effectively administer the provisions of this subpart shall have access to such information. In addition, they shall disclose only that information the Secretary deems relevant, and then only in a suit or administrative hearing brought at the discretion, or upon the request, of the Secretary, or to which the Secretary or any officer of the United States is a party, and involving this subpart. Nothing in this section, however, shall be deemed to prohibit:
+
+(1) The issuance of general statements based upon the reports of the number of processors, individuals, groups of individuals, partnerships, corporations, associations, cooperatives, or other entities subject to this subpart or statistical data collected from such sources, which statements do not identify the information furnished by any such parties, and
+
+(2) The publication, at the direction of the Secretary, of the name of any processor, individuals, group of individuals, partnership, corporation, association, cooperative, or other entity that has been adjudged to have violated this subpart, together with a statement of the particular provisions of the subpart so violated.
+
+(b) Except as otherwise provided in this subpart, information obtained under this subpart may be made available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
+
+(c) Any person violating this section, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if such person is an agent of the Board or an officer or employee of the Department shall be removed from office.
+
+(d) Nothing in this subsection authorizes the Secretary to withhold information from a duly authorized committee or subcommittee of Congress.

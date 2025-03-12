@@ -1,0 +1,3 @@
+##### § 1216.19 Peanut producer organization. #####
+
+*Peanut producer organization* means a state-legislated peanut promotion, research, and education commission or organization. For states without a state-legislated peanut promotion, research, and education commission or organization, “peanut producer organization” means any organization which has the primary purpose of representing peanut producers and has peanut producers as members.

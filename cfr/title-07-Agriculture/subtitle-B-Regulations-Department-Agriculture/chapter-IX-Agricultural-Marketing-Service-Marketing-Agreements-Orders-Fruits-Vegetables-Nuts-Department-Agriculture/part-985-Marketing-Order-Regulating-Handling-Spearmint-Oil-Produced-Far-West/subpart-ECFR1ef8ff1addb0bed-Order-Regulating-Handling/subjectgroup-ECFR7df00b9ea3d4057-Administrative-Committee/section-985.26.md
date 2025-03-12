@@ -1,0 +1,3 @@
+##### § 985.26 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person appointed as a member or as an alternate member of the Committee to qualify, or in the event of the death, removal, resignation, or disqualification of any member or alternate member of the Committee, a successor to fill the unexpired term shall be nominated and appointed in the manner specified in §§ 985.23 and 985.24. If the names of the nominees to fill any such vacancy are not made available to the Secretary within 30 days after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations, which appointment shall be made on the basis of representation provided for in § 985.20.

@@ -1,0 +1,29 @@
+##### § 4284.923 Reserved funds eligibility. #####
+
+The Applicant must meet the requirements specified in this section, as applicable, if the Applicant chooses to compete for reserved funds. A Harvester is not eligible to compete for reserved funds under paragraph (a) of this section, but is eligible to compete for reserved funds under paragraph (b) of this section. In accordance with application deadlines, all eligible, but unfunded reserved funds applications will be eligible to compete for general funds in that same Fiscal Year, as funding levels permit.
+
+(a) If the Applicant is applying for Beginning Farmer or Rancher or Socially-Disadvantaged Farmer or Rancher reserved funds, the Applicant must provide the following documentation to demonstrate that the applicant meets all of the requirements for the applicable definition found in § 4284.902.
+
+(1) For beginning farmers and ranchers (including veterans), documentation must include a description from each of the individual owner(s) of the applicant farm or ranch organization, addressing the qualifying elements in the beginning farmer or rancher definition, including the length and nature of their individual owner/operator experience at any farm in the previous 10 years, along with one IRS income tax form from the previous 10 years showing that each of the individual owner(s) did not file farm income; or a detailed letter from a certified public accountant or attorney certifying that each owner meets the reserved funds beginning farmer or rancher eligibility requirements. For applicant entities with multiple owners, all owners must be eligible beginning farmers or ranchers.
+
+(2) For Socially-Disadvantaged farmers and ranchers, documentation must include a description of the applicant's farm or ranch ownership structure and demographic profile that indicates the owner(s)' membership in a Socially-Disadvantaged group that has been subjected to racial, ethnic or gender prejudice; including identifying the total number of owners of the applicant organization; along with a self-certification statement from the individual owner(s) evidencing their membership in a Socially-Disadvantaged group. All farmer and rancher owners must be members of a Socially-Disadvantaged group.
+
+(b) If the Applicant is applying for Mid-Tier Value Chain reserved funds, the Applicant must be one of the four VAPG Applicant types. The application must:
+
+(1) Provide documentation demonstrating that the project meets the definition of Mid-Tier Value Chain;
+
+(2) Demonstrate that the project proposes development of a Local or Regional Supply Network of an interconnected group of entities (including nonprofit organizations, as appropriate) through which agricultural commodities and Value-Added Agricultural Products move from production through consumption in a local or regional area of the United States, including a description of the network, its component members, either by name or by class, and its purpose;
+
+(3) Describe at least two alliances, linkages, or partnerships within the value chain that link Independent Producers with businesses, cooperatives, or consumers that market value-added agricultural commodities or Value-Added Agricultural Products in a manner that benefits Small- or Medium-sized Farms and Ranches that are structured as a Family Farm, including the names of the parties and the nature of their collaboration;
+
+(4) Demonstrate how the project, due to the manner in which the Value-Added Agricultural Product is marketed, will increase the profitability and competitiveness of at least two, eligible, Small- or Medium-sized Farms or Ranches that are structured as a Family Farm, including documentation to confirm that the participating Small- or Medium-sized Farms or Ranches are structured as a Family Farm and meet these program definitions. A description of the two farms or ranches confirming they meet the Family Farm requirements, and IRS income tax forms or appropriate certifications evidencing eligible farm income is sufficient.
+
+(5) Document that the eligible Agricultural Producer Group/Farmer or Rancher Cooperative/Majority-Controlled Producer-Based Business Venture Applicant organization has obtained at least one agreement with another member of the supply network that is engaged in the value chain on a marketing strategy; or that the eligible Independent Producer Applicant has obtained at least one agreement from an eligible Agricultural Producer Group/Farmer or Rancher Cooperative/Majority-Controlled Producer-Based Business Venture engaged in the value-chain on a marketing strategy;
+
+(i) For Planning Grants, agreements may include letters of commitment or intent to partner on marketing, distribution or processing; and should include the names of the parties with a description of the nature of their collaboration. For Working Capital grants, demonstration of the actual existence of the executed agreements is required.
+
+(ii) Independent Producer Applicants must provide documentation to confirm that the non-applicant Agricultural Producer Group/Farmer or Rancher Cooperative/majority-controlled partnering entity meets program eligibility definitions, except that, in this context, the partnering entity does not need to supply any of the raw Agricultural Commodity for the project;
+
+(6) Demonstrate that the members of the Applicant organization that are benefiting from the proposed project currently own and produce more than 50 percent of the raw Agricultural Commodity that will be used for the Value-Added Agricultural Product that is the subject of the proposal; and
+
+(7) Demonstrate that the project will result in an increase in customer base and an increase in revenue returns to the Applicant producers supplying the majority of the raw Agricultural Commodity for the project.

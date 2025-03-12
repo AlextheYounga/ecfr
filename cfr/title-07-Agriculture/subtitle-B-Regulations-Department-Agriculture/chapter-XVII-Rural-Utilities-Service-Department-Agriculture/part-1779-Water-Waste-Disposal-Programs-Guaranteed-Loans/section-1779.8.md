@@ -1,0 +1,3 @@
+##### § 1779.8 Access to lender's records. #####
+
+Upon request by the Agency, the lender will permit representatives of the Agency (or other agencies of the U.S. Department of Agriculture authorized by that Department or the U.S. Government) to inspect and make copies of any of the records of the lender pertaining to the guaranteed loans. Such inspection and copying may be made during regular office hours of the lender or at any other time the lender and the Agency agree upon.

@@ -1,0 +1,3 @@
+##### § 170.8 What are the application procedures? #####
+
+In January of each year, prospective and returning participants must submit to USDA a completed application for participation in the upcoming market season. Each application will include a copy of this rule, which includes the selection criteria and operating guidelines. Each applicant also will certify that each is the owner or representative of the farm or business submitting the application.

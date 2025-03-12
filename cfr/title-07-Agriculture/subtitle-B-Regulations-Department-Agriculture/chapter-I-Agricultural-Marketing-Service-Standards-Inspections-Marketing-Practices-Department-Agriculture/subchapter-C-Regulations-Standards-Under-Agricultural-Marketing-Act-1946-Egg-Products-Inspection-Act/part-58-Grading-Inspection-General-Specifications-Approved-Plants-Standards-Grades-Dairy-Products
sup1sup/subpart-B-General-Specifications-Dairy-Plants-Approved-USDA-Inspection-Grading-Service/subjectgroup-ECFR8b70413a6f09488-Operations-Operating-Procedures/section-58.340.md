@@ -1,0 +1,3 @@
+##### § 58.340 Printing and packaging. #####
+
+Printing and packaging of consumer size containers of butter shall be conducted under sanitary conditions. Separate rooms equipped with automatic filling and packaging equipment should be provided. The outside cartons should be removed from bulk butter in a room outside of the printing operation but the parchment removal and cutting of the butter may be done in the print room.

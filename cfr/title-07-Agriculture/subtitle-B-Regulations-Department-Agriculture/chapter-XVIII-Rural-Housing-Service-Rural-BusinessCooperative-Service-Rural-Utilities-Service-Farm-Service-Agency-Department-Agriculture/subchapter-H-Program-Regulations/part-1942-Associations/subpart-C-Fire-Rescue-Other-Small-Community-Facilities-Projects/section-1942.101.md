@@ -1,0 +1,5 @@
+##### § 1942.101 General. #####
+
+This subpart provides the policies and procedures for making and processing insured Community Facilities (CF) loans for facilities that will primarily provide fire or rescue services and other small essential community facility projects and applies to fire and rescue and other Community Facilities loans for projects costing $300,000 and under. Any processing or servicing activity conducted pursuant to this subpart involving authorized assistance to Rural Development employees, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this chapter. Applicants for this assistance are required to identify any known relationship or association with a Rural Development employee. Community Facilities loans for other types of facilities, and those costing in excess of $300,000, are defined in subpart A of this part.
+
+[68 FR 65830, Nov. 24, 2003]

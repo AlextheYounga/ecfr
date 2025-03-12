@@ -1,0 +1,3 @@
+##### § 1.418 Procedure upon no request for hearing. #####
+
+If no hearing is requested by a party of record, the Judge shall issue an initial decision based on the written record and without further procedure or hearing. If no hearing is requested, the written record consists of papers and documents submitted during the 30-day comment period, the 10-day review period, and includes motions submitted before the Judge issues an initial decision. For purposes of a formal review of a sourcing area, the written record also consists of the papers and documents submitted during the informal review. Copies of the decision shall be served by the Hearing Clerk upon each of the parties of record.

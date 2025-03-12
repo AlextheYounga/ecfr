@@ -1,0 +1,3 @@
+##### § 1160.507 Report. #####
+
+The Secretary shall provide annually for an independent evaluation of the effectiveness of the fluid milk promotion program carried out under this subtitle during the previous fiscal year, in conjunction with the evaluation of the National Dairy Promotion and Research Board established under section 113(b) of the Dairy Production Stabilization Act of 1983 (7 U.S.C. 4504(b)).

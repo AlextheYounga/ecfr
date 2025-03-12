@@ -1,0 +1,3 @@
+##### § 3600.2 Organization. #####
+
+The headquarters organization consists of: The Administrator and Associate Administrator; Deputy Administrator for Field Operations; Four Divisions: Estimates, Survey Management, Research, and Systems and Information; and the Agricultural Statistics Board. In the field, each of the 45 State Statistical Offices, serving the 50 States, is under a State Statistician.

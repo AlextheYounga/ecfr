@@ -1,0 +1,3 @@
+##### § 1782.11 Refinancing requirements. #####
+
+If at any time it appears to the Government that the borrower is able to refinance the amount of the indebtedness then outstanding, in whole or in part, by obtaining a loan for such purposes from responsible cooperative or private credit sources, at reasonable rates and terms, the borrower will, upon request of the Government, apply for and accept such loan in sufficient amount to repay the Government and will take all such actions as may be required in connection with such loan.

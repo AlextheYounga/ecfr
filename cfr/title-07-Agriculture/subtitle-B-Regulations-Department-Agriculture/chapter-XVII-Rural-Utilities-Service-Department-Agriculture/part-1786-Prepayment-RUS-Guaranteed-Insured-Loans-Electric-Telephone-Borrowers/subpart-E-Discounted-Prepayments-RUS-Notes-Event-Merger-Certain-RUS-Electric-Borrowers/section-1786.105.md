@@ -1,0 +1,5 @@
+##### § 1786.105 Closing. #####
+
+(a) The borrower shall be responsible for obtaining all approvals necessary to consummate the transaction as required by the prepayment agreement, including such approvals as may be required by regulatory bodies and other lenders.
+
+(b) The RUS Notes shall be prepaid at a closing to be held in accordance with the prepayment agreement. RUS shall designate the date of closing which in no event shall be later than one year after the effective date of the merger or consolidation. At closing, in addition to paying all current interest due on the date of prepayment, a borrower shall prepay the RUS Notes by paying to the Government an amount equal to the lesser of the outstanding balance or the Discounted Present Value of the RUS Notes. The closing shall otherwise be conducted as prescribed in the prepayment agreement.

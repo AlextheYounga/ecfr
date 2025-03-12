@@ -1,0 +1,3 @@
+##### § 58.221 Collectors and conveyors. #####
+
+Collectors shall be made of stainless steel or equally noncorrosive material and should be constructed to facilitate cleaning and inspection. Filter sack collectors, if used, shall be in good condition and the system shall be of such construction that all parts are accessible for cleaning and inspection. Conveyors shall be of stainless steel or equally corrosion resistant material and should be constructed to facilitate thorough cleaning and inspection.

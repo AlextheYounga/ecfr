@@ -1,7 +1,5 @@
 ##### § 156.265 Enrollment process for qualified individuals. #####
 
-Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
-
 (a) *General requirement.* A QHP issuer must process enrollment in accordance with this section.
 
 (b) *Enrollment through the Exchange for the individual market.* (1) A QHP issuer must enroll a qualified individual only if the Exchange -
@@ -20,9 +18,11 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (i) Use exactly the same eligibility application language as appears in the FFE Single Streamlined Application required in § 155.405 of this subchapter, unless HHS approves a deviation;
 
-(ii) Ensure that all necessary information for the consumer's applicable eligibility circumstances are submitted through the Exchange-approved Web service; and
+(ii) Ensure that all necessary information for the consumer's applicable eligibility circumstances are submitted through the Exchange-approved Web service;
 
-(iii) Ensure that the process used for consumers to complete the eligibility application complies with all applicable Exchange standards, including §§ 155.230 and 155.260(b) of this subchapter.
+(iii) Ensure that the process used for consumers to complete the eligibility application complies with all applicable Exchange standards, including §§ 155.230 and 155.260(b) of this subchapter; and
+
+(iv) Differentially display all standardized options in accordance with the requirements under § 155.205(b)(1) in a manner consistent with that adopted by HHS for display on the Federally-facilitated Exchange Web site, unless HHS approves a deviation.
 
 (4) An issuer must obtain HHS approval that the requirements of this section have been met prior to completing an applicant's eligibility application through the issuer's Internet Web site.
 
@@ -38,4 +38,4 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (g) *Enrollment acknowledgement.* A QHP issuer must acknowledge receipt of enrollment information transmitted from the Exchange in accordance with Exchange standards established in accordance with § 155.400(b)(2) of this subchapter.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016]
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 81 FR 94181, Dec. 22, 2016]

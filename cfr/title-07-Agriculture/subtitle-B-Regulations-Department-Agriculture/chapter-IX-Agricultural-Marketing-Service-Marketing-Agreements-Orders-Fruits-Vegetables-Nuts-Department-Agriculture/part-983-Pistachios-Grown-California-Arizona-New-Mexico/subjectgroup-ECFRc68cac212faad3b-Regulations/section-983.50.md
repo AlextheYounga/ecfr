@@ -1,0 +1,5 @@
+##### § 983.50 Aflatoxin regulations. #####
+
+The committee shall establish, with the approval of the Secretary, such aflatoxin sampling, analysis, and inspection requirements applicable to pistachios to be shipped for domestic human consumption as will contribute to orderly marketing or be in the public interest. The committee may also establish, with the approval of the Secretary, such requirements for pistachios to be shipped for human consumption in export markets. No handler shall ship, for human consumption in domestic, or if applicable, export markets, pistachios that exceed an aflatoxin level established by the committee and approved by the Secretary. All shipments to markets for which requirements have been established must be covered by an aflatoxin inspection certificate. The committee may, with the approval of the Secretary, establish different sampling, analysis, and inspection requirements, and different aflatoxin level requirements, for different markets.
+
+[77 FR 36123, June 18, 2012]

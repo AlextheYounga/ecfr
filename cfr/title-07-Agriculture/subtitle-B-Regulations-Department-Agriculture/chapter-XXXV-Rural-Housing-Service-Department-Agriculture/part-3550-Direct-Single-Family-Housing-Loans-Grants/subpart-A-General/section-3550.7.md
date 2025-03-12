@@ -1,0 +1,3 @@
+##### § 3550.7 Demonstration programs. #####
+
+From time to time, RHS may authorize limited demonstration programs. The purpose of these demonstration programs is to test new approaches to offering housing under the statutory authority granted to the Secretary. Therefore, such demonstration programs may not be consistent with some of the provisions contained in this part. However, any program requirements that are statutory will remain in effect. Demonstration programs will be clearly identified as such.

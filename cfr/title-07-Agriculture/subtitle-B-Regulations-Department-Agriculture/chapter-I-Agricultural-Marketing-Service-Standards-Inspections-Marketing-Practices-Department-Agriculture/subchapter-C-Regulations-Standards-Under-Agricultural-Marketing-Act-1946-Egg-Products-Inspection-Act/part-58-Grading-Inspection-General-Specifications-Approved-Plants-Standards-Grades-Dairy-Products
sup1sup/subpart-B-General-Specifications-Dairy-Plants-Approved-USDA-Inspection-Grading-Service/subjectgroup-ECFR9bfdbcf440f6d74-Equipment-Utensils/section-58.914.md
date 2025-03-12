@@ -1,0 +1,3 @@
+##### § 58.914 Fillers. #####
+
+Both gravity and vacuum type fillers shall be of sanitary design and all product contact surfaces, if metal, shall be made of stainless steel or equally corrosion-resistant material; except that, certain evaporated milk fillers having brass parts may be approved if free from corroded surfaces and kept in good repair. Nonmetallic product contact surfaces shall comply with the requirements for 3-A Sanitary Standards for Plastic, and Rubber and Rubber-Like Materials. Fillers shall be designed so that they in no way will contaminate or detract from the quality of the product being packaged.

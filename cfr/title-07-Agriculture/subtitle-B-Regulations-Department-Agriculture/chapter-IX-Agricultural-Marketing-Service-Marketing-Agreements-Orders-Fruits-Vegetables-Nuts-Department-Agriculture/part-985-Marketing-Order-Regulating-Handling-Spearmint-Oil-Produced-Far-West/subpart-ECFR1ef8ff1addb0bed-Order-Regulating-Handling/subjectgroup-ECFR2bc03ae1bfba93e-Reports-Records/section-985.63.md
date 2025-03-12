@@ -1,0 +1,3 @@
+##### § 985.63 Confidential information. #####
+
+All reports and records furnished or submitted by handlers to, or obtained by the employees of the Committee, which contain data or information constituting a trade secret or disclosing the trade position, financial condition, or business operations of the particular handler from whom received, shall be treated as confidential and the reports and all information obtained from records shall, at all times, be kept in the custody and under the control of one or more employees of the Committee who shall disclose such information to no person other than the Secretary.

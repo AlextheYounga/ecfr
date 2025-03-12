@@ -1,0 +1,17 @@
+##### § 1205.204 Voting. #####
+
+(a) *Place of voting.* The FSA county office serving the county in which the producer's farm is located shall be the producer's polling place. For a person not participating in an FSA program, the opportunity to vote in a referendum will be provided at the FSA county office serving the county where the person owns or rents land. If a person's operation is located in several counties, the voting office shall be determined based on the major portion of the operation's location. The U.S. Department of Agriculture, FSA, DAFO, P.O. Box 23704, Washington, DC 20026-3704 shall be the polling place for all cotton importers.
+
+(b) *Register of eligible voters.* The FSA county office shall establish a register of known eligible producer voters prior to the referendum. AMS shall establish a register of known eligible importer voters prior to the referendum and provide the list to FAS.
+
+(c) *Voting.* (1) For Upland producers to vote, eligible persons may obtain form CN-100 in-person, by mail or by facsimile from FSA county offices or through the Internet during the voting period. A completed and signed CN-100 and supporting documentation, such as a sales receipt or remittance form, must be returned to the appropriate FSA county office. Forms obtained via the Internet will be located at *http://www.ams.usda.gov/Cotton.* Upon request by Upland producers, ballots shall be mailed by FSA county offices.
+
+(2) For cotton importers to vote, eligible persons may obtain form CN-100 in-person, by mail or by facsimile from USDA, FSA in Washington, D.C. or through the Internet during the voting period. In addition, before the referendum, USDA shall mail a request form to each known, eligible, cotton importer. A completed and signed CN-100 and supporting documentation of CBP Form 7501, must be returned USDA, FSA, DAFO, P.O. Box 23704, Washington, DC 20026-3704. Forms obtained via the Internet will be located at *http://www.ams.usda.gov/Cotton.*
+
+(d) Returning ballot to polling place. Each person to whom a ballot is issued by Internet, mail, facsimile, or in-person shall only be allowed to vote in the referendum by completing and signing the ballot, placing it in an envelope, and delivering or mailing it to the appropriate polling place. In order to be eligible for tabulation, voted ballots must be received at the polling place during the period established for holding the referendum. A ballot shall be considered to have been received during the referendum period if:
+
+(1) In the case of the ballot delivered to the polling place, it was received in the office prior to the close of the work day on the final day of the referendum period, or
+
+(2) In the case of the mailed ballot, it was postmarked not later than midnight of the final day of the referendum period and was received in the polling place prior to the start of canvassing the ballots.
+
+(e) *Placing ballots in ballot box.* Notwithstanding the fact that a ballot(s) may be later challenged by FSA county office or a representative of FSA, envelopes containing ballots received at the polling place during the referendum period shall remain unopened and shall be placed immediately in a ballot box provided by FSA for producers and importers. Such ballot box shall be arranged so that ballots cannot be read or moved without breaking the seal on the container.

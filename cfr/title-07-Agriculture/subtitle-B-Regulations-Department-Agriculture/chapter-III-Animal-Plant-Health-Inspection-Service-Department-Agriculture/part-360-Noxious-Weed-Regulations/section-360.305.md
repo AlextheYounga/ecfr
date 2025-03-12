@@ -1,0 +1,5 @@
+##### § 360.305 Disposal of noxious weeds when permits are revoked. #####
+
+When a permit for the movement of a noxious weed is revoked by the Administrator and not reinstated under § 360.304(c), further movement of the noxious weed covered by the permit into or through the United States, or interstate, is prohibited unless authorized by another permit. The responsible person must arrange for disposal of the noxious weed in question in a manner that the Administrator determines is adequate to prevent noxious weed dissemination. The Administrator may seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of, in such manner as the Administrator deems appropriate, any noxious weed that is moved without compliance with any conditions in the permit or after the permit has been revoked whenever the Administrator deems it necessary in order to prevent the dissemination of any noxious weed into or within the United States.
+
+[75 FR 68954, Nov. 10, 2010, as amended at 79 FR 19812, Apr. 10, 2014]

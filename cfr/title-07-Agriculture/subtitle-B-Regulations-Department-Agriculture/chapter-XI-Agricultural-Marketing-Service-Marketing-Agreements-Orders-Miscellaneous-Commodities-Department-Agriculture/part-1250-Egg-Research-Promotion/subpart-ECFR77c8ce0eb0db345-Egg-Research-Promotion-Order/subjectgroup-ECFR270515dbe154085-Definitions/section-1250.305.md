@@ -1,0 +1,7 @@
+##### § 1250.305 Egg producer or producer. #####
+
+*Egg producer* or *producer* means any person who either:
+
+(a) Is an egg farmer who acquires and owns laying hens, chicks, and/or started pullets for the purpose of and is engaged in the production of commercial eggs; or
+
+(b) Is a person who supplied or supplies laying hens, chicks, and/or started pullets to an egg farmer for the purpose of producing commercial eggs pursuant to an oral or written contractual argeement for the production of commercial eggs. Such person is deemed to be the owner of such laying hens unless it is established in writing, to the satisfaction of the Secretary or the Egg Board, that actual ownership of the laying hens is in some other party to the contract. In the event the party to an oral contract who supplied or supplies the laying hens cannot be readily identified by the Secretary or the Egg Board, the person who has immediate possession and control over the laying hens at the egg production facility shall be deemed to be the owner of such hens unless written notice is provided to the Secretary or the Egg Board, signed by the parties to said oral contract, clearly stating that the eggs are being produced under a contractual agreement and identifying the party (or parties) under said contract who is the owner of the hens.

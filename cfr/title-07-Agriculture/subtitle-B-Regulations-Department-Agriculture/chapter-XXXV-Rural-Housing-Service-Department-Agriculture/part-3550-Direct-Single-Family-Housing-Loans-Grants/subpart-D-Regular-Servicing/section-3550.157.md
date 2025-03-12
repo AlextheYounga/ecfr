@@ -1,0 +1,11 @@
+##### § 3550.157 Payment subsidy. #####
+
+(a) *Borrowers currently receiving payment subsidy.* (1) RHS will review annually each borrower's eligibility for continued payment subsidy and determine the appropriate level of assistance. To be eligible for payment subsidy renewal, the borrower must also occupy the property.
+
+(2) If the renewal is not completed before the expiration date of the existing agreement, the effective date of the renewal will be either the expiration date of the previous agreement if RHS error caused the delay, or the next due date after the renewal is approved in all other cases.
+
+(3) The borrower must notify RHS whenever an adult member of the household becomes employed or changes employment, there is a change in household composition, or if income increases by at least 10 percent. The household may also report decreases in income. If the change in the household's income will cause the payment for principal and interest to change by at least 10 percent, the household's payment subsidy may be adjusted for a new 12-month period. The new agreement will be effective the due date following the date the borrower's information is verified by RHS.
+
+(b) *Borrowers not currently receiving payment subsidy.* Payment assistance may be granted to borrowers not currently receiving payment subsidy whose loans were approved on or after August 1, 1968, whose income does not exceed the applicable low-income limit for the area, are personally occupying the RHS financed property, and who meet the requirements of § 3550.53(b), (e), and (f). In general, to receive payment assistance the term of the loan at closing must have been at least 25 years. If an account has been reamortized and the initial term of the loan was at least 25 years, payment assistance may be granted even though the term of the reamortized loan is less than 25 years. Payment assistance may be granted on a subsequent loan for repairs with a term of less than 25 years.
+
+(c) *Cancellation of payment subsidy.* RHS will cancel a payment subsidy if the borrower does not occupy the property, has sold or transferred title to the property, or is no longer eligible for payment subsidy.

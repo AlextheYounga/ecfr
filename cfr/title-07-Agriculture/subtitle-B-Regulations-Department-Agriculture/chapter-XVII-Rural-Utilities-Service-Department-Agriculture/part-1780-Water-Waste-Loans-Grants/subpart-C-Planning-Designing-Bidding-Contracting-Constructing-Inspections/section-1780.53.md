@@ -1,0 +1,3 @@
+##### § 1780.53 General. #####
+
+This subpart is specifically designed for use by owners including the professional or technical consultants or agents who provide assistance and services such as engineering, environmental, inspection, financial, legal or other services related to planning, designing, bidding, contracting, and constructing water and waste disposal facilities. These procedures do not relieve the owner of the contractual obligations that arise from the procurement of these services. For this subpart, an owner is defined as an applicant, borrower, or grantee.

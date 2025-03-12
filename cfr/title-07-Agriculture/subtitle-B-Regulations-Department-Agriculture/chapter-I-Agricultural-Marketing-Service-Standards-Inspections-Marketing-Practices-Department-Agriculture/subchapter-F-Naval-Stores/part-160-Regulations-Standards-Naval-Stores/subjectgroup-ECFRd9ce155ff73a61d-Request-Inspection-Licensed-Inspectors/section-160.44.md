@@ -1,0 +1,3 @@
+##### § 160.44 Other duties of licensed inspectors. #####
+
+A licensed inspector may perform duties other than those of an official inspector, to the extent indicated by the accredited processor and not disapproved in writing by the Administrator: *Provided,* That such additional duties not pertaining to the official inspection work shall not be permitted to interfere with the proper performance of the duties of the licensee as an official inspector.

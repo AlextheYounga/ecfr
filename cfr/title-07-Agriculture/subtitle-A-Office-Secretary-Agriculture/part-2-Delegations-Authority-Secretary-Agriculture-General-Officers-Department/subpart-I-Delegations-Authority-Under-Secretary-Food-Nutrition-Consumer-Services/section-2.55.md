@@ -1,0 +1,3 @@
+##### § 2.55 Deputy Under Secretary for Food, Nutrition, and Consumer Services. #####
+
+Pursuant to § 2.19(a), subject to reservations in § 2.19(b), and subject to policy guidance and direction by the Under Secretary, the following delegation of authority is made by the Under Secretary for Food, Nutrition, and Consumer Services to the Deputy Under Secretary for Food, Nutrition and Consumer Services, to be exercised only during the absence or unavailability of the Under Secretary: Perform all the duties and exercise all the powers which are now or which may hereafter be delegated to the Under Secretary for Food, Nutrition, and Consumer Services.

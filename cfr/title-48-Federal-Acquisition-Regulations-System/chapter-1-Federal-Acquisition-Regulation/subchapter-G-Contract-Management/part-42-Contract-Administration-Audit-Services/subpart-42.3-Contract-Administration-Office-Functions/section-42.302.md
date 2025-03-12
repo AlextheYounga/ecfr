@@ -186,7 +186,7 @@
 
 (8) Issue change orders and negotiate and execute resulting supplemental agreements under contracts for ship construction, conversion, and repair.
 
-(9) Execute supplemental agreements on firm-fixed price supply contracts to reduce required contract line item quantities and deobligate excess funds when notified by the contractor of an inconsequential delivery shortage, and it is determined that such action is in the best interests of the Government, notwithstanding the default provisions of the contract. Such action will be taken only upon the written request of the contractor and, in no event shall the total downward contract price adjustment resulting from an inconsequential delivery shortage exceed $250.00 or 5 percent of the contract price, whichever is less.
+(9) Execute supplemental agreements on firm-fixed price supply contracts to reduce required line item quantities and deobligate excess funds when notified by the contractor of an inconsequential delivery shortage, and it is determined that such action is in the best interests of the Government, notwithstanding the default provisions of the contract. Such action will be taken only upon the written request of the contractor and, in no event shall the total downward contract price adjustment resulting from an inconsequential delivery shortage exceed $250.00 or 5 percent of the contract price, whichever is less.
 
 (10) Execute supplemental agreements to permit a chance in place of inspection at origin specified in firm fixed-price supply contracts awarded to nonmanufacturers, as deemed necessary to protect the Government's interests.
 
@@ -194,4 +194,4 @@
 
 (c) Any additional contract administration functions not listed in 42.302(a) and (b), or not otherwise delegated, remain the responsibility of the contracting office.
 
-[48 FR 42370, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 42.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42370, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 42.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

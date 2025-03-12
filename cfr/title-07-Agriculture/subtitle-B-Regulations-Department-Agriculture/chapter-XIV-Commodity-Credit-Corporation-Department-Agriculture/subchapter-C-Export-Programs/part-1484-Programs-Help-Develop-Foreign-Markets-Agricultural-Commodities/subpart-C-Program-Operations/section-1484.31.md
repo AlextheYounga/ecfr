@@ -1,0 +1,3 @@
+##### § 1484.31 Who acts on behalf of each Cooperator? #####
+
+The Cooperator shall designate at least two individuals in its organization to sign program agreements, reimbursement claims, and requests. The Cooperator shall submit the signature card signed by those designated individuals and by the Cooperator's Chief Executive Officer to the Director, Marketing Operations Staff, FAS, USDA, prior to the start of the marketing plan year. The Cooperator shall immediately notify the Director of any changes in signatories (e.g., removal or addition of individuals, name changes, etc.), and shall submit a revised signature card accordingly.

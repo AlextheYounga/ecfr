@@ -1,0 +1,3 @@
+##### § 1786.103 Security. #####
+
+If, after prepayment of RUS Notes, the Government should continue to hold liens on the borrower's property, the Administrator of RUS will consider a request for the accommodation of such liens for the purpose of providing security for loans the proceeds of which were used to prepay RUS Notes. Such lien accommodations shall be limited in amount to the Discounted Present Value of the RUS Notes plus such costs, as the Administrator shall determine to be reasonable, incurred by the borrower in obtaining such loans.

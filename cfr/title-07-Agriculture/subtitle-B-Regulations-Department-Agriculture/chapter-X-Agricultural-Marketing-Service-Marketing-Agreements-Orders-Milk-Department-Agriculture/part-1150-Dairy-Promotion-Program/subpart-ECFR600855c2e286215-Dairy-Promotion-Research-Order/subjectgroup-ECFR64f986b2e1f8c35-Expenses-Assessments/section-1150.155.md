@@ -1,0 +1,7 @@
+##### § 1150.155 Adjustment of accounts. #####
+
+(a) Whenever the Board or the Department determines through an audit of a person's reports, records, books or accounts or through some other means that additional money is due the Board or that money is due such person from the Board in accordance with 1150.152(a), such person shall be notified of the amount due. The person shall then remit any amount due the Board by the next date for remitting assessments as provided in § 1150.152(a). Overpayments shall be credited to the account of the person remitting the overpayment and shall be applied against amounts due in succeeding months.
+
+(b) Any importer of dairy products against whose imports an assessment has been collected under § 1150.152(b) who believes that such assessment or any portion of such assessment was made on milk solids of U.S. origin or milk solids other than cow's milk may apply to the Secretary for a reimbursement. The importer would be required to submit satisfactory proof to the Secretary that the importer paid the assessment for milk solids from milk produced from the U.S. or milk solids other than cow's milk solids. The Secretary will instruct the Board to send such reimbursement to the importer.
+
+[76 FR 14791, Mar. 18, 2011]

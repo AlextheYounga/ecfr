@@ -1,0 +1,3 @@
+##### § 1717.309 Additional statutory pre-emption. #####
+
+This subpart addresses pre-emption of state law and state regulatory authority in only those specific circumstances herein described. Nothing in this subpart waives, limits, or otherwise affects the explicit pre-emption or pre-emption, which is implicit and shall occur pursuant to the RE Act as a matter of law, of state law or action of a state regulatory authority where such state law or such action compromises Federal interests, including the ability of any borrower, including power supply borrowers, to repay loans made or guaranteed by RUS.

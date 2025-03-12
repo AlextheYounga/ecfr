@@ -1,0 +1,3 @@
+##### § 2.13 Status of prior delegations. #####
+
+Nothing in this part shall affect the bylaws of the Commodity Credit Corporation, the Federal Crop Insurance Corporation, or the Rural Telephone Bank. All delegations previously made which are inconsistent with delegations made in this part are superseded; however, any regulation, order, authorization, expenditure, or other instrument, heretofore issued or made pursuant to any delegation of authority shall continue in full force and effect unless and until withdrawn or superseded pursuant to authority granted in this part.

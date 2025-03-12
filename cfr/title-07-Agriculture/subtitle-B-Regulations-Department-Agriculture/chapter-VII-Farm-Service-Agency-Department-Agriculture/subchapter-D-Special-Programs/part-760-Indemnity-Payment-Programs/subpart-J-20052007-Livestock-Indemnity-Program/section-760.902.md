@@ -1,0 +1,3 @@
+##### § 760.902 Eligible counties and disaster periods. #####
+
+Counties are eligible for agricultural assistance under the 2005-2007 LIP if they received a timely Presidential designation, a timely Secretarial declaration, or a qualifying Administrator's Physical Loss Notice (APLN) determination in a county otherwise the subject of a timely Presidential declaration, or are counties contiguous to such counties. Presidential designations and Secretarial declarations will be considered timely only if made after January 1, 2005, and before February 28, 2007. Eligible counties, disaster events, and disaster periods are listed at *http://disaster.fsa.usda.gov.*

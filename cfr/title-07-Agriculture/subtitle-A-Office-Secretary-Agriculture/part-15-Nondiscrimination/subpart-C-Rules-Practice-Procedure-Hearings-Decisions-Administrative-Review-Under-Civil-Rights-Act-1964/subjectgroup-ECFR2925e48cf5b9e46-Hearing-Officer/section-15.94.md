@@ -1,0 +1,3 @@
+##### § 15.94 Disability of hearing officer. #####
+
+In the case of death, illness, disqualification, or unavailability of the designated hearing officer, another hearing officer may be designated by the Secretary to take his place. If such death, illness, disqualification or unavailability occurs during the course of a hearing, the hearing will be either continued under a substitute hearing officer, or terminated and tried de novo in the discretion of the Secretary. In the absence of the designated hearing officer any hearing examiner may rule on motions and other interlocutory papers.

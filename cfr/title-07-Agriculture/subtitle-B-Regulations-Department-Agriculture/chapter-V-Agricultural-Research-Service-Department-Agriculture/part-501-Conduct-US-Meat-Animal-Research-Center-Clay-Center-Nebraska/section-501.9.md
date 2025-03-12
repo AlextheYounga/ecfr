@@ -1,0 +1,3 @@
+##### § 501.9 Photographs for news, advertising, or commercial purposes. #####
+
+Except where security regulations apply, or a Federal court order or rules prohibit it, photographs for news purposes may be taken in entrances, lobbies, foyers or auditoriums when used for public meetings without prior permission. Photographs for advertising and commercial purposes may be taken only with the prior written permission of the Director, Research Center. Photographs for news, advertising, or commercial purposes may be taken in space or areas occupied by a cooperator only with the consent of the cooperator concerned and the Director, Research Center.

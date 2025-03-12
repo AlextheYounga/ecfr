@@ -1,0 +1,3 @@
+##### § 650.2 Applicability. #####
+
+This rule applies to all NRCS-assisted programs including the uninstalled parts of approved projects that are not covered by environmental documents prepared under previous rules for compliance with NEPA. It is effective on the date of publication of the final rule. NRCS is to consult with CEQ in the manner prescribed by 40 CFR 1506.11 if it is necessary to take emergency actions.

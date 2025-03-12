@@ -1,0 +1,11 @@
+##### § 927.51 Issuance of regulations; and modification, suspension, or termination thereof. #####
+
+(a) Whenever the Secretary finds, from the recommendations and information submitted by the Fresh Pear Committee, or from other available information, that regulation, in the manner specified in this section, of the shipment of fresh pears would tend to effectuate the declared policy of the act, he or she shall so limit the shipment of such pears during a specified period or periods. Such regulation may:
+
+(1) Limit the total quantity of any grade, size, quality, or combinations thereof, of any variety or subvariety of pears grown in any district and may prescribe different requirements applicable to shipments to different export markets;
+
+(2) Limit, during any period or periods, the shipment of any particular grade, size, quality, or any combination thereof, of any variety or subvariety, of pears grown in any district or districts of the production area; and
+
+(3) Provide a method, through rules and regulation issued pursuant to this part, for fixing markings on the container or containers, which may be used in the packaging or handling of pears, including appropriate logo or other container markings to identify the contents thereof.
+
+(b) Whenever the Secretary finds, from the recommendations and information submitted by the Fresh Pear Committee, or from other available information, that a regulation should be modified, suspended, or terminated with respect to any or all shipments of fresh pears grown in any district in order to effectuate the declared policy of the act, he or she shall so modify, suspend, or terminate such regulation. If the Secretary finds, from the recommendations and information submitted by the Fresh Pear Committee, or from other available information, that a regulation obstructs or does not tend to effectuate the declared policy of the act, he or she shall suspend or terminate such regulation. On the same basis and in like manner, the Secretary may terminate any such modification or suspension.

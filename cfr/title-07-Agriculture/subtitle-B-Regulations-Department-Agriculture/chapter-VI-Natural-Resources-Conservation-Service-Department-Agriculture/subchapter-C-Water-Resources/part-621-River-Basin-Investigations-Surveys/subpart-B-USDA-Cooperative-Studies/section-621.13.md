@@ -1,0 +1,3 @@
+##### § 621.13 Conditions for approval. #####
+
+The Chief may authorize requested cooperative studies recommended by the State Conservationist. Priority for starting cooperative studies is based on the date of application, the readiness of the requesting agency to begin participation, the importance and significance of problems to be studied, the monetary or in-kind contributions toward the study, the sequence of ongoing and future studies, the type of study, the duration of study, the cost of study, the potential for implementation and other factors affecting the effectiveness and efficiency of the study. The number and location of cooperative studies started each year are governed by the availability of USDA funds and personnel.

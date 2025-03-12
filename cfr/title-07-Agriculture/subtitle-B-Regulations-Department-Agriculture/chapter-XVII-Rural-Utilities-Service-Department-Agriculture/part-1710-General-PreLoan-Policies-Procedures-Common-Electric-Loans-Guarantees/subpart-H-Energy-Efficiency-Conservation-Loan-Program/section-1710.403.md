@@ -1,0 +1,3 @@
+##### § 1710.403 General. #####
+
+EE Programs financed under this subpart may be directed at all forms of energy consumed within a utility's service territory, not just electricity, where the electric utility is in a position to facilitate the optimization of the energy consumption profile within its service territory and do so in a way that enhances the financial or physical performance of the rural electric system and enables the repayment of the energy efficiency loan.

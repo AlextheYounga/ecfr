@@ -1,0 +1,7 @@
+##### § 15f.24 When and in what form will a final determination be made on my complaint by USDA? #####
+
+(a) The ALJ will make a proposed determination orally at the close of a hearing, or in writing within 35 days. The ALJ may recommend dismissal of your complaint on the basis of a finding that it is not an eligible complaint; recommend denial of your eligible complaint on the merits; or make a proposed finding of discrimination on your eligible complaint and recommend to award you such relief as would be afforded under the applicable statute or regulation under which the eligible complaint was filed. The proposed determination will become the final determination 35 days after it is made, unless you request review of the proposed determination by the ASCR. The ASCR also may review the proposed determination on his or her own initiative. If the ASCR reviews the proposed determination, he or she will allow the parties a reasonable opportunity to file briefs in support or opposition to the proposed determination, and afterwards file a final determination within 35 days after you request review of the proposed determination.
+
+(b) To the maximum extent practicable, a final determination will be filed within 180 days after you filed your Section 741 Complaint Request.
+
+[63 FR 67394, Dec. 4, 1998, as amended at 68 FR 27449, May 20, 2003]

@@ -1,0 +1,3 @@
+##### § 1131.72 Payments from the producer-settlement fund. #####
+
+No later than the 14th day after the end of each month (except as provided in § 1000.90), the market administrator shall pay to each handler the amount, if any, by which the amount computed pursuant to § 1131.71(b) exceeds the amount computed pursuant to § 1131.71(a). If, at such time, the balance in the producer-settlement fund is insufficient to make all payments pursuant to this section, the market administrator shall reduce uniformly such payments and shall complete the payments as soon as the funds are available.

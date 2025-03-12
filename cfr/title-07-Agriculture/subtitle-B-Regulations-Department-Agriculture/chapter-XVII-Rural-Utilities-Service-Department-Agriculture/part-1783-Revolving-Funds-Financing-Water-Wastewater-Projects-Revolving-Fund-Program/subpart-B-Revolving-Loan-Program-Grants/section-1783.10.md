@@ -1,0 +1,3 @@
+##### § 1783.10 What is the grant agreement? #####
+
+RUS and the grant recipient will enter into a contract setting forth the terms and conditions governing a particular RFP grant award. RUS will furnish the form of grant agreement. No funds awarded under this part shall be disbursed to the grant recipient before the grant agreement is binding and RUS has received a fully executed counterpart of the grant agreement.

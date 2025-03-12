@@ -1,0 +1,3 @@
+##### § 4274.350 Letter of conditions. #####
+
+If the Agency is able to make the loan, it will provide the intermediary a letter of conditions listing all requirements for the loan. Immediately after reviewing the conditions and requirements in the letter of conditions, the intermediary should complete, sign and return the form provided by the Agency indicating the intermediary's intent to meet the conditions. If certain conditions cannot be met, the intermediary may propose alternate conditions to the Agency. The Agency loan approval official must concur with any changes made to the initially issued or proposed letter of conditions prior to acceptance.

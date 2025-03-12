@@ -1,0 +1,3 @@
+##### § 1786.56 Approval of applications. #####
+
+The applications will ordinarily be reviewed and, if satisfactory, approved, and closing schedule based on the order in which executed prepayment agreements are received. The Administrator may limit the number of applications approved and closings scheduled from time to time taking into account, among other matters, the financial interests and administrative considerations of the Government.

@@ -1,5 +1,7 @@
 ##### § 0.251 Authority delegated. #####
 
+Link to an amendment published at 82 FR 4188, January 13, 2017.
+
 (a) The General Counsel is delegated authority to act as the “designated agency ethics official.”
 
 (b) Insofar as authority is not delegated to any other Bureau or Office, and with respect only to matters which are not in hearing status, the General Counsel is delegated authority:

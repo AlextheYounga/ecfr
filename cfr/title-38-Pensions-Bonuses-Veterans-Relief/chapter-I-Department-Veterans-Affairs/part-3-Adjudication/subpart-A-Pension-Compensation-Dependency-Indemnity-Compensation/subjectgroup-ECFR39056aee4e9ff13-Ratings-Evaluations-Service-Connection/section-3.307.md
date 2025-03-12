@@ -1,5 +1,7 @@
 ##### § 3.307 Presumptive service connection for chronic, tropical or prisoner-of-war related disease, or disease associated with exposure to certain herbicide agents; wartime and service on or after January 1, 1947. #####
 
+Link to an amendment published at 82 FR 4184, Jan 13, 2017.
+
 (a) *General.* A chronic, tropical, prisoner of war related disease, or a disease associated with exposure to certain herbicide agents listed in § 3.309 will be considered to have been incurred in or aggravated by service under the circumstances outlined in this section even though there is no evidence of such disease during the period of service. No condition other than one listed in § 3.309(a) will be considered chronic.
 
 (1) *Service.* The veteran must have served 90 days or more during a war period or after December 31, 1946. The requirement of 90 days' service means active, continuous service within or extending into or beyond a war period, or which began before and extended beyond December 31, 1946, or began after that date. Any period of service is sufficient for the purpose of establishing the presumptive service connection of a specified disease under the conditions listed in § 3.309(c) and (e).

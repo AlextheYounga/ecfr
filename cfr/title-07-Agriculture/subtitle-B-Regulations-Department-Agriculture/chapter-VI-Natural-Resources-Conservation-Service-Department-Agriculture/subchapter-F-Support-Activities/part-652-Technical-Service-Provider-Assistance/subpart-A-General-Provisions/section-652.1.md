@@ -1,0 +1,7 @@
+##### § 652.1 Applicability. #####
+
+(a) The regulations in this part set forth the policies, procedures, and requirements related to delivery of technical assistance by individuals and entities other than the Department, hereinafter referred to as technical service providers (TSPs). The Food Security Act of 1985, requires the Secretary to deliver technical assistance to eligible participants for implementation of its Title XII Programs and the conservation activities in the Agricultural Management Assistance Program, 7 U.S.C. 1524, directly, through an agreement with a third party provider, or at the option of the producer through payment to the producer for an approved third party provider. This regulation defines how a participant acquires technical service from a third party TSP, sets forth a certification and decertification process, and establishes a method to make payments for technical services.
+
+(b) TSPs may provide technical services to eligible participants in conservation planning, education and outreach, and assistance with design and implementation of conservation practices applied on private land, Indian land, or where allowed by conservation program rules on public land.
+
+(c) The Chief may implement this part in any of the 50 States, District of Columbia, Commonwealth of Puerto Rico, Guam, Virgin Islands, American Samoa, and the Commonwealth of the Northern Marianna Islands.

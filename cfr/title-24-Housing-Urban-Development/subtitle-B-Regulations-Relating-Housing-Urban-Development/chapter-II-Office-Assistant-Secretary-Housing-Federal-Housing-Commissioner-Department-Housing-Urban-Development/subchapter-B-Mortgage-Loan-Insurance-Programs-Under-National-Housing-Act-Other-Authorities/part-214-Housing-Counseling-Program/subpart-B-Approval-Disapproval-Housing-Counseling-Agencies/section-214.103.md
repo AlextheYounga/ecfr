@@ -1,7 +1,5 @@
 ##### § 214.103 Approval criteria. #####
 
-Link to an amendment published at 81 FR 90658, December 14, 2016.
-
 The following criteria for approval apply to all agencies, MSOs, and intermediaries, including all local housing counseling agencies, branches, and affiliates that are included in one application:
 
 (a) *Nonprofit and tax-exempt status.* A housing counseling agency must function as a private or public nonprofit organization, or be a unit of local, county, or state government. The agency must submit evidence of nonprofit status and tax-exempt status under section 501(a), pursuant to section 501(c) of the Internal Revenue Code of 1996 (26 U.S.C. 501(a) and (c)). Units of local, county, or state government must submit proof of their authorization to provide housing counseling services.
@@ -26,7 +24,7 @@ The following criteria for approval apply to all agencies, MSOs, and intermediar
 
 (1) *Funding.* The application for approval must provide evidence of funds immediately available, or written commitment for funds to cover the cost of operating the housing counseling work plan during the initial 12-month period of HUD approval.
 
-(2) *Staff.* The agency must employ staff trained in housing counseling, and at least half the counselors must have at least 6 months of experience in the job they will perform in the agency's Housing Counseling program.
+(2) *Staff.* The agency must employ staff trained in housing counseling. All staff providing housing counseling, including homeownership counseling or rental housing counseling, must be HUD certified housing counselors, and at least half the agency's counselors must have at least 6 months of experience in the job they will perform in the agency's housing counseling program.
 
 (3) *Language skills.* The agency must have housing counselor(s) who are fluent in the language of the clients they serve, or the housing counseling agency must use the services of an interpreter, or the agency must refer the client to another agency that can meet the client's needs.
 
@@ -60,4 +58,24 @@ The following criteria for approval apply to all agencies, MSOs, and intermediar
 
 (4) An agency's housing counseling work plan must also address, if appropriate, alternative settings and formats for the provision of housing counseling services.
 
-[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015]
+(n) *Certification of housing counselors.* (1) In order for an agency to participate in HUD's Housing Counseling Program, all individuals who provide counseling, including homeownership and rental housing counseling, must be HUD certified according to requirements in this section.
+
+(2) For an individual to become a HUD certified counselor, an individual must pass a standardized written examination to demonstrate competency in each of the following areas:
+
+(i) Financial management;
+
+(ii) Property maintenance;
+
+(iii) Responsibilities of homeownership and tenancy;
+
+(iv) Fair housing laws and requirements;
+
+(v) Housing affordability; and
+
+(vi) Avoidance of, and response to, rental or mortgage delinquency and avoidance of eviction or mortgage default.
+
+(3) HUD will certify an individual housing counselor who has met the requirements of paragraph (n)(1) of this section upon verification that the individual works for a participating agency.
+
+(4) Participating agencies and housing counselors must be in compliance with requirements of paragraph (n) of this section by 36 months after HUD commences the administration of the certification examination by publication in the Federal Register.
+
+[72 FR 55648, Sept. 28, 2007, as amended at 80 FR 75936, Dec. 7, 2015; 81 FR 90658, Dec. 14, 2016]

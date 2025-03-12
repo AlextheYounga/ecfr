@@ -1,0 +1,3 @@
+##### § 1403.5 Collection by payment in full. #####
+
+Except as CCC may provide in accordance with § 1403.6, CCC shall collect debts owed to the Government, including applicable interest, penalties, and administrative costs, in full, whenever feasible whether the debt is being collected by administrative offset or by another method, including voluntary payment. If a debt is paid in one lump sum after the due date, CCC will impose late payment interest, as provided in § 1403.9, unless such interest is waived as provided in § 1403.10.

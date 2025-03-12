@@ -1,0 +1,7 @@
+##### § 1220.618 Eligibility. #####
+
+(a) *Eligible producers.* Each person who was a producer and provides evidence that they or the producer entity they represent has paid an assessment on soybeans during the representative period is provided the opportunity to request a referendum. Each producer entity is entitled to only one request.
+
+(b) *Proxy Registration.* Proxy registration is not authorized, except that an officer or employee of a corporate producer, or any guardian, administrator, executor, or trustee of a producer's estate, or an authorized representative of any eligible producer entity (other than an individual producer), such as a corporation or partnership, may request a referendum on behalf of that entity. Any individual who requests a referendum on behalf of any producer entity, shall certify that he or she is authorized by such entity to take such action.
+
+(c) *Joint and group interest.* A group of individuals, such as members of a family, joint tenants, tenants in common, a partnership, owners of community property, or a corporation engaged in the production of soybeans as a producer entity shall be entitled to make only one request for a referendum; provided, however, that any individual member of a group who is an eligible producer separate from the group may request a referendum separately.

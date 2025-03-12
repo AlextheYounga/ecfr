@@ -1,0 +1,3 @@
+##### § 2700.2 Organization. #####
+
+The Office of Information Resources Management (OIRM) was established on January 12, 1982. Delegations of authority to the Director, OIRM appear at 7 CFR 2.81. The organization is comprised of five headquarters divisions, an administrative staff and three computer centers to serve the Department. The organization is headed by the Director or, in the Director's absence, by the Deputy Director or, in the absence of both, by the Director's desginee.

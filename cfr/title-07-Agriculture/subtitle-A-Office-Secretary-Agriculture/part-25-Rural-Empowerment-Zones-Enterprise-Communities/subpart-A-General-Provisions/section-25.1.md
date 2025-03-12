@@ -1,0 +1,7 @@
+##### § 25.1 Applicability and scope. #####
+
+(a) Applicability. This part contains policies and procedures applicable to rural empowerment zones and enterprise communities, authorized under the Omnibus Budget Reconciliation Act of 1993, title XIII, subchapter C, part I (Round I), the Taxpayer Relief Act of 1997, title IX, subtitle F (Round II), the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105-277) (Round IIS), and the Community Renewal Tax Relief Act of 2000 (Public Law 106-554) (Round III).
+
+(b) *Scope.* This part contains provisions relating to area requirements, the nomination process for rural Empowerment Zones and rural Enterprise Communities, and the designation of these Zones and Communities by the Secretary of the U.S. Department of Agriculture (Secretary) (USDA). Provisions dealing with the nominations and designation of urban Empowerment Zones and Enterprise Communities are promulgated by the U.S. Department of Housing and Urban Development (HUD). This part also contains provisions relating to granting certain nominated areas status as Champion communities.
+
+[63 FR 19114, Apr. 16, 1998, as amended at 67 FR 13556, Apr. 24, 2002]

@@ -1,0 +1,3 @@
+##### § 503.12 Vehicular and pedestrian traffic. #####
+
+Drivers of all vehicles on the PIADC Government-owned parking areas in PIADC shall drive in a careful and safe manner at all times and shall comply with the signals and directions of guards and all posted traffic signs. Pedestrians will also observe specific safety directives as may be issued and posted from time to time by the Director, PIADC, or his authorized representative.

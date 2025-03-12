@@ -1,0 +1,3 @@
+##### § 1221.9 First handler. #####
+
+*First handler* means the first person who buys or takes possession (excluding a common or contract carrier of sorghum owned by another) of more than 1,000 bushels of grain sorghum; or 5,000 tons of sorghum forage, sorghum hay, sorghum haylage, sorghum billets, or sorghum silage from producers in a calendar year for marketing. The term first handler includes a producer who markets sorghum of the producer's own production directly to consumers. In any case in which sorghum is pledged as collateral for a loan issued under any Commodity Credit Corporation price support loan program and the sorghum is forfeited by the producer in lieu of loan repayment, the Commodity Credit Corporation will be considered a first handler.

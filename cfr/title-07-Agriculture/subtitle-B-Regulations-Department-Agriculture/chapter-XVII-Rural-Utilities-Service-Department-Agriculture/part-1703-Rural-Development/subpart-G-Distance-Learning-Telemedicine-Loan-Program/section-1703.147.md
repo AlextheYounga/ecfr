@@ -1,0 +1,3 @@
+##### § 1703.147 Appeals. #####
+
+Any appeal must be made, in writing, within 10 days after the applicant is notified of the determination to deny the application. Appeals shall be submitted to the Administrator, RUS, U.S. Department of Agriculture, 1400 Independence Ave., SW., STOP 1590, Washington, DC 20250-1590. Thereafter, the Administrator will review the appeal to determine whether to sustain, reverse, or modify the original determination. Final determinations will be made after consideration of all appeals. The Administrator's determination will be final. A copy of the Administrator's decision will be furnished promptly to the applicant.

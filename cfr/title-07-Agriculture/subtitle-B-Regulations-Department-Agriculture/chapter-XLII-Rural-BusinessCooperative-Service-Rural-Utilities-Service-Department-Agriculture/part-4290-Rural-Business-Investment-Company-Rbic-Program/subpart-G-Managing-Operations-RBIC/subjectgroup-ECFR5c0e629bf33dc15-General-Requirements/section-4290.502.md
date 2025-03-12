@@ -1,0 +1,3 @@
+##### § 4290.502 Representations to the public. #####
+
+You may not represent or imply to anyone that the Secretary, the U.S. Government, or any of its agencies or officers has approved any ownership interests you have issued, obligations you have incurred, or Financings you have made. You must include a statement to this effect in any solicitation provided to investors. Example: You may not represent or imply that “USDA stands behind the RBIC” or that “Your capital is safe because the Secretary's experts review proposed investments to make sure they are safe for the RBIC.”

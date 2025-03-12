@@ -1,0 +1,3 @@
+##### § 51.2112 Mixed varieties. #####
+
+Any lot of shelled almonds designated as “one type” or undesignated as to type, which consists of a mixture of two or more dissimilar varieties which meet the other requirements of any of the grades of U.S. No. 1, U.S. Select Sheller Run, U.S. Standard Sheller Run, U.S. No. 1 Whole and Broken may be designated as: “U.S. No. 1 Mixed;” “U.S. Select Sheller Run Mixed;” “U.S. Standard Sheller Run Mixed;” “U.S. No. 1 Whole and Broken Mixed;” respectively; but no lot of any of these grades may include more than 1 percent of bitter almonds mixed with sweet almonds.

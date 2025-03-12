@@ -1,0 +1,5 @@
+##### § 772.16 Liquidation. #####
+
+When the Agency determines that continued servicing will not accomplish the objectives of the loan and the delinquency or financial distress cannot be cured by the options in § 772.13, or the loan is in non-monetary default, the borrower will be encouraged to dispose of the Agency security voluntarily through sale or transfer and assumption in accordance with this part. If such a transfer or voluntary sale is not carried out, the loan will be liquidated according to 7 CFR part 766. For AMP loans, appeal rights under 7 CFR part 11 are provided in the notice of acceleration. For IMP loans, appeal rights must be exhausted before acceleration, and the notice of acceleration is not appealable.
+
+[68 FR 69949, Dec. 16, 2003, as amended at 72 FR 64121, Nov. 15, 2007]

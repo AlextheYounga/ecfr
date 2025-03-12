@@ -1,0 +1,3 @@
+##### § 29.2394 Rule 3. #####
+
+In drawing an official sample from a hogshead or other package of tobacco, two or more breaks shall be made at such points and in such manner as the inspector or sampler may find necessary to determine the kinds of tobacco and the percentage of each kind contained in the lot. All breaks shall be made so that the tobacco contained in the center of the package is visible to the sampler. Tobacco shall be drawn from at least two breaks from which a representative sample shall be selected.

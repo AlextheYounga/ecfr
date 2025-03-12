@@ -1,0 +1,17 @@
+##### § 1944.266 Other Federal requirements. #####
+
+In addition to the Federal Requirements set forth in 24 CFR part 5, the following requirements apply to grant recipient organizations in this program:
+
+(a) *Office of Management and Budget (OMB) Circulars and Administrative Requirements.* The policies, guidelines, and requirements of OMB Circular No. A-87 and 24 CFR part 85 apply to the acceptance and use of assistance under this program by public body grantees. The policies, guidelines, and requirements of OMB Circular No. A-122 apply to the acceptance and use of assistance under this program by non-profit grantees. Grantees are also subject to the audit requirements described in 24 CFR part 44 (OMB Circular A-128).
+
+(b) *Conflict of interest.* In addition to the conflict of interest requirements in OMB Circular A-87 and 24 CFR part 85, no person who is an employee, agent, consultant, officer, or elected or appointed official of the applicant, and who exercises or has exercised any function or responsibilities with respect to activities assisted with CHSP grant funds, or who is in a position to participate in a decision-making process or gain inside information with regard to such activities, may obtain a personal or financial interest or benefit from the activity, or have an interest in any contract, subcontract, or agreement with respect thereto, or any proceeds thereunder, either for himself or herself or for those with whom he or she has family or business ties during his or her tenure, or for one year thereafter. CHSP employees may receive reasonable salary and benefits.
+
+(c) *Disclosures required by Reform Act.* Section 102(c) of the HUD Reform Act of 1989 (42 U.S.C. 3545(c)) requires disclosure concerning other government assistance to be made available with respect to the Program and parties with a pecuniary interest in CHSP and submission of a report on expected sources and uses of funds to be made available for CHSP. Each applicant shall include information required by 24 CFR part 12 on form HUD-2880 “Applicant/Recipient Disclosure/Update Report,” as required by the Federal Register Notice published on January 16, 1992, at 57 FR 1942.
+
+(d) *Nondiscrimination and equal opportunity.* (1) The fair housing poster regulations (24 CFR part 110) and advertising guidelines (24 CFR part 109);
+
+(2) The Affirmative Fair Housing Marketing Program requirements of 24 CFR part 200, subpart M, and the implementing regulations at 24 CFR part 108; and
+
+(3) Racial and ethnic collection requirements—Recipients must maintain current data on the race, ethnicity and gender of program applicants and beneficiaries in accordance with section 562 of the Housing and Community Development Act of 1987 and section 808(e)(6) of the Fair Housing Act.
+
+(e) *Environmental requirements.* Support services, including the operating and administrative expenses described in section 1944.115(a), are categorically excluded from the requirements of the National Environmental Policy Act (NEPA) of 1969. These actions, however, are not excluded from individual compliance requirements of other environmental statutes, Executive Orders, and agency regulations where appropriate. When the responsible official determines that any action under this subpart may have an environmental effect because of extraordinary circumstances, the requirements of NEPA shall apply.

@@ -1,0 +1,3 @@
+##### § 1486.205 What types of funding are available under the program? #####
+
+CCC has established three pools of funding within the EMP - the Central Fund, the Quick Response Marketing Fund, and the Technical Issues Resolution Fund. Each year CCC will inform the public of the process by which interested eligible entities may submit proposals for funding under the Central Fund. Because of the time sensitive nature of issues intended to be addressed, the Quick Response Marketing Fund and the Technical Issues Resolution Fund will be available continuously with no application deadline.

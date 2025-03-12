@@ -1,0 +1,3 @@
+##### § 1404.8 Liability of the Secretary or disbursing agents. #####
+
+Neither the United States, the CCC, the Secretary nor any disbursing agent shall be liable in any suit if payment is made to the assignor without regard to the existence of any assignment, and nothing contained herein shall be construed to authorize any suit against the United States, the CCC, the Secretary or any disbursing agent if payment is not made to the assignee, or if payment is made to only one of several assignees.

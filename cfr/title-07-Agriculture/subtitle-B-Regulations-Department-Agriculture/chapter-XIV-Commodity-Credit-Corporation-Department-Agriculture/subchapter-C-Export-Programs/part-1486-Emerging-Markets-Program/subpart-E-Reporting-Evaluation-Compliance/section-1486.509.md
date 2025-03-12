@@ -1,0 +1,3 @@
+##### § 1486.509 Are Recipients allowed to charge fees for specific activities in approved projects? #####
+
+Reasonable activity fees or registration fees, if identified as such in a project budget, may be charged for projects approved for program funding. Income or refunds generated from an activity, however, for which the expenditures have been wholly or partially reimbursed, shall be repaid by submitting a check payable to CCC or offsetting the Recipient's reimbursement claim. Any activity fees charged must be used to offset activity expenses. Such fees may not be used as profit or counted as cost-share. The intent to charge a fee must be part of the original proposal, along with an explanation of how such fees are to be used.

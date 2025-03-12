@@ -1,7 +1,5 @@
 ##### § 570.201 Basic eligible activities. #####
 
-Link to an amendment published at 81 FR 90659, December 14, 2016.
-
 CDBG funds may be used for the following activities:
 
 (a) *Acquisition.* Acquisition in whole or in part by the recipient, or other public or private nonprofit entity, by purchase, long-term lease, donation, or otherwise, of real property (including air rights, water rights, rights-of-way, easements, and other interests therein) for any public purpose, subject to the limitations of § 570.207.
@@ -12,7 +10,7 @@ CDBG funds may be used for the following activities:
 
 (d) *Clearance and remediation activities.* Clearance, demolition, and removal of buildings and improvements, including movement of structures to other sites and remediation of known or suspected environmental contamination. Demolition of HUD-assisted or HUD-owned housing units may be undertaken only with the prior approval of HUD. Remediation may include project-specific environmental assessment costs not otherwise eligible under § 570.205.
 
-(e) *Public services.* Provision of public services (including labor, supplies, and materials) including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, fair housing counseling, energy conservation, welfare (but excluding the provision of income payments identified under § 570.207(b)(4)), homebuyer downpayment assistance, or recreational needs. To be eligible for CDBG assistance, a public service must be either a new service or a quantifiable increase in the level of an existing service above that which has been provided by or on behalf of the unit of general local government (through funds raised by the unit or received by the unit from the State in which it is located) in the 12 calendar months before the submission of the action plan. (An exception to this requirement may be made if HUD determines that any decrease in the level of a service was the result of events not within the control of the unit of general local government.) The amount of CDBG funds used for public services shall not exceed paragraphs (e) (1) or (2) of this section, as applicable:
+(e) *Public services.* Provision of public services (including labor, supplies, and materials) including but not limited to those concerned with employment, crime prevention, child care, health, drug abuse, education, fair housing counseling, energy conservation, welfare (but excluding the provision of income payments identified under § 570.207(b)(4)), homebuyer downpayment assistance, or recreational needs. If housing counseling, as defined in 24 CFR 5.100, is provided, it must be carried out in accordance with 24 CFR 5.111. To be eligible for CDBG assistance, a public service must be either a new service or a quantifiable increase in the level of an existing service above that which has been provided by or on behalf of the unit of general local government (through funds raised by the unit or received by the unit from the State in which it is located) in the 12 calendar months before the submission of the action plan. (An exception to this requirement may be made if HUD determines that any decrease in the level of a service was the result of events not within the control of the unit of general local government.) The amount of CDBG funds used for public services shall not exceed paragraphs (e) (1) or (2) of this section, as applicable:
 
 (1) The amount of CDBG funds used for public services shall not exceed 15 percent of each grant, except that for entitlement grants made under subpart D of this part, nonentitlement CDBG grants in Hawaii, and for recipients of insular area funds under section 106 of the Act, the amount shall not exceed 15 percent of the grant plus 15 percent of program income, as defined in § 570.500(a). For entitlement grants under subpart D of this part, nonentitlement CDBG grants in Hawaii, and for recipients of insular area funds under section 106 of the Act, compliance is based on limiting the amount of CDBG funds obligated for public service activities in each program year to an amount no greater than 15 percent of the entitlement grant made for that program year plus 15 percent of the program income received during the grantee's immediately preceding program year.
 
@@ -54,7 +52,7 @@ CDBG funds may be used for the following activities:
 
 (j) *Loss of rental income.* Payments to housing owners for losses of rental income incurred in holding, for temporary periods, housing units to be used for the relocation of individuals and families displaced by program activities assisted under this part.
 
-(k) *Housing services.* Housing services, as provided in section 105(a)(21) of the Act (42 U.S.C. 5305(a)(21)).
+(k) *Housing services.* Housing services, as provided in section 105(a)(21) of the Act (42 U.S.C. 5305(a)(21)). If housing counseling, as defined in 24 CFR 5.100, is provided, it must be carried out in accordance with 24 CFR 5.111.
 
 (l) *Privately owned utilities.* CDBG funds may be used to acquire, construct, reconstruct, rehabilitate, or install the distribution lines and facilities of privately owned utilities, including the placing underground of new or existing distribution facilities and lines.
 
@@ -80,4 +78,4 @@ CDBG funds may be used for the following activities:
 
 (q) *Assistance to institutions of higher education.* Provision of assistance by the recipient to institutions of higher education when the grantee determines that such an institution has demonstrated a capacity to carry out eligible activities under this subpart C.
 
-[53 FR 34439, Sept. 6, 1988, as amended at 53 FR 31239, Aug. 17, 1988; 55 FR 29308, July 18, 1990; 57 FR 27119, June 17, 1992; 60 FR 1943, Jan. 5, 1995; 60 FR 56911, Nov. 9, 1995; 61 FR 18674, Apr. 29, 1996; 65 FR 70215, Nov. 21, 2000; 67 FR 47213, July 17, 2002; 71 FR 30034, May 24, 2006; 80 FR 69870, Nov. 12, 2015]
+[53 FR 34439, Sept. 6, 1988, as amended at 53 FR 31239, Aug. 17, 1988; 55 FR 29308, July 18, 1990; 57 FR 27119, June 17, 1992; 60 FR 1943, Jan. 5, 1995; 60 FR 56911, Nov. 9, 1995; 61 FR 18674, Apr. 29, 1996; 65 FR 70215, Nov. 21, 2000; 67 FR 47213, July 17, 2002; 71 FR 30034, May 24, 2006; 80 FR 69870, Nov. 12, 2015; 81 FR 90659, Dec. 14, 2016]

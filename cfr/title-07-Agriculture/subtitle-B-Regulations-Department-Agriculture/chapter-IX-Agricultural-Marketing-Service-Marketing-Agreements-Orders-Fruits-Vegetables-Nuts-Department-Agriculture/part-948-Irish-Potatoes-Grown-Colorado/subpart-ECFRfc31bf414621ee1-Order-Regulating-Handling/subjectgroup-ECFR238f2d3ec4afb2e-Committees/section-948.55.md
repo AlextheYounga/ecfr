@@ -1,0 +1,3 @@
+##### § 948.55 Term of office. #####
+
+The term of office of each area committee member and alternate shall be for two years. The term of office for Colorado Potato Committee members and alternates shall be for one year. The dates on which terms of office for each committee shall begin and end shall be established by the Secretary pursuant to respective committee recommendation. Terms of office of area committee members shall be arranged so that approximately one-half shall terminate each year. Determination of which initial members and alternates shall serve for one year or two years shall be by lot.

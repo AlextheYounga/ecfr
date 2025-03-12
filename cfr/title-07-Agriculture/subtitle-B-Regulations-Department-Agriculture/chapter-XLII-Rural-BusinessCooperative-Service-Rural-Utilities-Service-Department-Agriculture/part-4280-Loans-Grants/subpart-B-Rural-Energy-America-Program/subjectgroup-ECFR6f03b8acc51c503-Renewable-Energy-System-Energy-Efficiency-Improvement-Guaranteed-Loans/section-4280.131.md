@@ -1,0 +1,3 @@
+##### § 4280.131 Credit quality. #####
+
+Except for § 4279.131(d) of this chapter, the credit quality provisions of § 4279.131 of this chapter apply to this subpart. Instead of complying with § 4279.131(d), borrowers must demonstrate evidence of cash equity injection in the project of not less than 25 percent of total Eligible Project Costs. Cash equity injection must be in the form of cash. For guaranteed loan-only requests, Federal grant funds may be counted as cash equity.

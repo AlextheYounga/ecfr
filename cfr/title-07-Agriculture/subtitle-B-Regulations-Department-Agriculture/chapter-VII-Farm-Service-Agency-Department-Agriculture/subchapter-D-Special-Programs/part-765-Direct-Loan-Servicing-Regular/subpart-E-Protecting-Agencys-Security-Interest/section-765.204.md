@@ -1,0 +1,5 @@
+##### § 765.204 Notifying potential purchasers. #####
+
+(a) *States with Central Filing System (CFS).* The Agency participates and complies with central filing systems in States where CFS has been organized. In a State with a CFS, the Agency is not required to additionally notify potential purchasers that the Agency has a lien on a borrower's chattel security, unless specifically required by State law.
+
+(b) *States without CFS.* In a State without CFS, the Agency follows the filing requirements specified for perfecting a lien on a borrower's chattel security under State law. The Agency will distribute the list of chattel and crop borrowers to sale barns, warehouses, and other businesses that buy or sell chattels or crops. In addition, the Agency may provide the list of borrowers to potential purchasers upon request.

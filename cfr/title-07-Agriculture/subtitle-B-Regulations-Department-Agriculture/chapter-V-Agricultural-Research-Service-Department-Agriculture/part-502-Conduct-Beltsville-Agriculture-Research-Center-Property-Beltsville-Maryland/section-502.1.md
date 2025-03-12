@@ -1,0 +1,5 @@
+##### § 502.1 General. #####
+
+The rules and regulations in this part apply to the buildings and grounds of the Beltsville Agricultural Research Center (BARC), Beltsville, MD, and to any persons entering in or on such property. The Administrator, General Services Administration, has delegated to the Secretary of Agriculture, with authority to redelegate, the authority to make all the needful rules and regulations for the protection of the buildings, grounds, equipment, and experimental plants and animals of BARC (36 FR 18440). The Secretary of Agriculture has delegated this authority to the Under Secretary for Research, Education, and Economics (60 FR 56392) who in turn has delegated such authority to the Administrator, Agricultural Research Service (60 FR 56392). The rules and regulations in this part are issued pursuant to such delegations.
+
+[61 FR 51211, Oct. 1, 1996]

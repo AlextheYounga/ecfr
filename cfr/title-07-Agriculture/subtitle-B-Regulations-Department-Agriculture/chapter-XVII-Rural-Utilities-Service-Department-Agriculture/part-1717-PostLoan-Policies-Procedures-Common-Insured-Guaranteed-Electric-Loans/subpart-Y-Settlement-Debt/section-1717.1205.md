@@ -1,0 +1,3 @@
+##### § 1717.1205 Waiver of existing conditions on borrowers. #####
+
+Pursuant to section 331(b) of the Con Act, the Administrator, at his or her sole discretion, may waive or otherwise reduce conditions and requirements imposed on a borrower by its loan documents if the Administrator determines that such action will contribute to enhancement of the government's recovery of debt. Such waivers or reductions in conditions and requirements under this section shall not include the exercise of any of the debt settlement measures set forth in § 1717.1204(c), which are subject to all of the requirements of said § 1717.1204.

@@ -1,0 +1,3 @@
+##### § 160.46 Identification of containers. #####
+
+Containers packed with naval stores which have been inspected, classified, graded, and certified by a licensed inspector at an eligible processing plant shall be marked to show the name and location or other acceptable identification of the plant, and the legend “U.S. Graded” or “U.S. Inspected”, and, in the case of rosin, the batch number indicating the date of production.

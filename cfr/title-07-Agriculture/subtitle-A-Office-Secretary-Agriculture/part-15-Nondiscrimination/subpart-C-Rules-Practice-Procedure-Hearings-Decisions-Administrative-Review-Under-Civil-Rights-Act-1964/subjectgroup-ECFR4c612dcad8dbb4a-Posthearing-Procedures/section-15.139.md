@@ -1,0 +1,3 @@
+##### § 15.139 Oral argument. #####
+
+If any party desires to argue orally before the Secretary on the review of recommended findings and proposed decision, or an initial decision, he shall so state at the time he files his exceptions or brief. The Secretary may grant such request in his discretion. If granted, he will serve notice of oral argument on all parties and will set forth the order of presentation and the amount of time allotted, and the time and place of argument.

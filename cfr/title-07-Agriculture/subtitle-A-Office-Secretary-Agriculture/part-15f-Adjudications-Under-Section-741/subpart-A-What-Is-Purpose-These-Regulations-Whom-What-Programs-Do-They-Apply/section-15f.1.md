@@ -1,0 +1,3 @@
+##### § 15f.1 What is the purpose of these regulations? #####
+
+These regulations provide the rights of complainants and the procedures for the processing of certain nonemployment related complaints alleging discrimination by USDA that were filed with USDA prior to July 1, 1997, as authorized under section 741(b) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, enacted in Division A, section 101(a) of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. 105-277.

@@ -1,0 +1,3 @@
+##### § 1944.427 Grantee self-evaluation. #####
+
+Annually or more often, the board of directors will evaluate their own self-help program. Exhibit E of this subpart is provided for that purpose. It is also recommended that they review their personnel policy, any audits that may have been conducted and other reports to determine if they need to make adjustments in order to prevent fraud and abuse, and meet the goals in the current grant agreement.

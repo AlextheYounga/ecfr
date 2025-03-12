@@ -18,7 +18,7 @@ Clause for Other Than Multiple Award Schedules
 
 (8) Contain the provision of FAR 52.223-4, Recovered Material Certification.
 
-(9) The contracting officer may modify the clause at 552.215-70 to define the specific area of audit (*e.g.,* the use or disposition of Government-furnished property). Office of General Counsel or the Office of Regional Counsel and the Assistant Inspector General for Auditing or Regional Inspector General for Auditing, as appropriate, must concur in any modifications to the clause.
+(9) The contracting officer may modify the clause at 552.215-70 to define the specific area of audit (e.g., the use or disposition of Government-furnished property). Office of General Counsel or the Office of Regional Counsel and the Assistant Inspector General for Auditing or Regional Inspector General for Auditing, as appropriate, must concur in any modifications to the clause.
 
 (b) Insert the clause at 552.215-73, Notice, in all solicitations for negotiated procurements above the simplified acquisition threshold in accordance with FAR part 15.
 

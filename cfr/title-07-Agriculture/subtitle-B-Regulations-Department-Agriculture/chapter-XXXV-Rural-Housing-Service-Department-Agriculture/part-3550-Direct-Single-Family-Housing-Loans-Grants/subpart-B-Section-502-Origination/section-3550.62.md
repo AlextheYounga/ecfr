@@ -1,0 +1,5 @@
+##### § 3550.62 Appraisals. #####
+
+(a) *Requirement.* An appraisal is required when the debt to be secured exceeds $15,000 or whenever RHS determines that it is necessary to establish the adequacy of the security. Appraisals must be made in accordance with the Uniform Standards of Professional Appraisal Practices. When other real estate is taken as additional security, it will be appraised if it represents a substantial portion of the security for the loan.
+
+(b) *Fees.* RHS will charge a fee for each loan application that requires an appraisal, except the appraisal fee is not required on appraisals done for subsequent loans needed to make minimal, essential repairs or in cases where another party provides an appraisal which is acceptable to RHS. Fees collected in connection with a dwelling constructed under an approved conditional commitment will be paid to the contractor at closing to offset the cost of the real estate appraisal that is included in the conditional commitment fee.

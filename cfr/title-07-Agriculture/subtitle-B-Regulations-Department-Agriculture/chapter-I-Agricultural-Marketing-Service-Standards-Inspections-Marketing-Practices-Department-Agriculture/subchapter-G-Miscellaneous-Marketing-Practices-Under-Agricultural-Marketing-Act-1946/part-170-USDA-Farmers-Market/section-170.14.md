@@ -1,0 +1,7 @@
+##### § 170.14 What circumstances will prevent participation in the USDA Farmers Market? #####
+
+(a) Efforts will be made to accommodate all who apply to participate in the market. However, market management may deny participation in the market because of insufficient space or excess supply of the products to sell, failure to meet the stated criteria, or the participant's noncompliance with the operating guidelines or regulations.
+
+(b) Participants who sell before the 10 a.m. opening time will be restricted from participating in the market following their second violation. A written warning will be given to the participant for the first violation of this guideline. After the second violation occurs, a letter of reprimand will be given to the participant restricting their participation for the next immediate market day.
+
+(c) Participants who arrive after the 10 a.m. opening time may be restricted from participating in the market following their second violation. A written warning may be given to the participant for the first violation of this guideline. After the second violation occurs, a letter of reprimand may be given to the participant restricting their participation for the next immediate market day.

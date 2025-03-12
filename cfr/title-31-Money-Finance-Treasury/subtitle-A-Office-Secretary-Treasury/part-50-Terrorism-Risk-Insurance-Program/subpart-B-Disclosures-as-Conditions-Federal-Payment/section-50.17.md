@@ -1,17 +1,5 @@
-##### § 50.17 Use of model forms. #####
+##### § 50.17 General disclosure requirements for State residual market insurance entities and State workers' compensation funds. #####
 
-(a) *Policies in force on the date of enactment.* (1) An insurer that is required to make the disclosure under § 50.10(b) and that makes no change in the existing premium, is deemed to be in compliance with the disclosure requirement if it uses NAIC Model Disclosure Form No. 2.
+(a) *Residual market mechanism disclosure.* A state residual market insurance entity or state workers' compensation fund may provide the disclosures required by this subpart B to policyholders using normal business practices, including forms and methods of communication used to communicate similar information to policyholders. The disclosures may be made by the state residual market insurance entity or state workers' compensation fund itself, the individual insurers that participate in the state residual market insurance entity or state workers' compensation fund, or its servicing carriers. The ultimate responsibility for ensuring that the disclosure requirements have been met rests with the insurer filing a claim under the Program.
 
-(2) An insurer that is required to make the disclosure under § 50.10(b) and that makes a change in the existing premium, is deemed to be in compliance with the disclosure requirement if it uses NAIC Model Disclosure Form No. 1. Such an insurer may also use the same NAIC Model Disclosure Form No. 1 to comply with the notice requirement of section 105(c) of the Act. *See* § 50.18.
-
-(b) *Policies issued within 90 days of the date of enactment.* An insurer that is required to make the disclosure under § 50.10(c) is deemed to be in compliance with the disclosure requirement if it uses either NAIC Model Disclosure Form No. 1 or NAIC Model Disclosure Form No. 2, as long as the form used is modified as appropriate for the particular policy.
-
-(c) *Policies issued more than 90 days after the date of enactment.* An insurer that is required to make the disclosure under § 50.10(d) may continue to use NAIC Model Disclosure Form No. 1 or NAIC Model Disclosure Form No. 2 if appropriate, or other disclosures that meet the requirements of §§ 50.10(a) and 50.14 may be developed.
-
-(d) *Not exclusive means of compliance.* An insurer is not required to use NAIC Model Disclosure Form No. 1 or NAIC Model Disclosure Form No. 2 to satisfy the disclosure requirement. An insurer may use other means to comply with the disclosure requirement, as long as the disclosure comports with the requirements of the Act.
-
-(e) *Cap disclosure.* An insurer may use NAIC Model Disclosure Form No. 1 or NAIC Model Disclosure Form No. 2 dated December 19, 2007, or as subsequently modified in accordance with paragraph (f) of this section, to satisfy the cap disclosure requirement, or another disclosure that meets the requirements of § 50.15 may be developed.
-
-(f) *Definitions.* For purposes of this section, references to NAIC Model Disclosure Form No. 1 and NAIC Model Disclosure Form No. 2 refer to such forms as were in existence on April 18, 2003, or as subsequently modified by the NAIC, provided Treasury has stated that usage by insurers of the subsequently modified forms is deemed to satisfy the disclosure requirements of the Act and the insurer uses the most current forms that are available at the time of disclosure. These forms may be found on the Treasury Web site at *http://www.treasury.gov/trip.*
-
-[68 FR 19306, Apr. 18, 2003, as amended at 71 FR 27570, May 11, 2006; 73 FR 53364, Sept. 16, 2008]
+(b) *Other requirements.* Except as provided in this section, all other disclosure requirements set out in this subpart B apply to state residual insurance market entities and state workers' compensation funds.

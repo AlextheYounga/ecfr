@@ -1,0 +1,7 @@
+##### § 984.472 Reports of merchantable walnuts shipped. #####
+
+(a) Reports of merchantable walnuts shipped during a month shall be submitted to the Board on CWB Form No. 6 not later than the 5th day of the following month. Such reports shall include all shipments during the preceding month and shall show for inshell and shelled walnuts: the quantity shipped; whether they were shipped into domestic or export channels; and for exports, the quantity by country of destination. If a handler makes no shipments during any month he/she shall submit a report marked “None.” If a handler has completed his/her shipments for the season, he/she shall mark the report “Completed,” and he/she shall not be required to submit any additional CWB Form No. 6 reports during the remainder of that marketing year.
+
+(b) Reports of walnuts purchased directly from growers by handlers who are manufacturers or retailers shall be submitted to the Board on CWB Form No. 6, not later than the 5th day of the month following the month in which the walnuts were purchased. Such reports shall show the quantity of walnuts purchased and the quantity inspected and certified as merchantable walnuts.
+
+[74 FR 56696, Nov. 3, 2009]

@@ -1,0 +1,3 @@
+##### § 1710.210 Waiver of requirements or approval criteria. #####
+
+For good cause shown by the borrower, the Administrator may waive any of the requirements applicable to borrowers in this subpart if the Administrator determines that waiving the requirement will not significantly affect accomplishment of RUS' objectives and if the requirement imposes a substantial burden on the borrower. The borrower's general manager must request the waiver in writing.

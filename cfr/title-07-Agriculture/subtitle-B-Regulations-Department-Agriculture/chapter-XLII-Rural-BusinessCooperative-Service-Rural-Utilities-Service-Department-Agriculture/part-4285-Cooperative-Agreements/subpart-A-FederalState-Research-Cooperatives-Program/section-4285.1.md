@@ -1,0 +1,3 @@
+##### § 4285.1 Objective. #####
+
+This subpart sets forth the policies and procedures and delegates authority for providing Federal-State Research on Cooperatives cooperative agreement funds to finance programs of research on cooperatives as authorized under Section 204 (b) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1623 (b)). The primary purpose of this matching fund program, via cooperative agreements, is to encourage State Departments of Agriculture and State Agricultural Experiment Stations in conducting research related to agricultural cooperatives.

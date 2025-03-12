@@ -1,0 +1,9 @@
+##### § 4274.301 Introduction. #####
+
+(a) This subpart contains regulations for loans made by the Agency to eligible intermediaries and applies to borrowers and other parties involved in making such loans. The provisions of this subpart supersede conflicting provisions of any other subpart. The servicing and liquidation of such loans will be in accordance with part 1951, subpart R, of this title.
+
+(b) The purpose of the program is to alleviate poverty and increase economic activity and employment in rural communities, especially disadvantaged and remote communities, through financing targeted primarily towards smaller and emerging businesses, in partnership with other public and private resources, and in accordance with State and regional strategy based on identified community needs. This purpose is achieved through loans made to intermediaries that establish programs for the purpose of providing loans to ultimate recipients for business facilities and community developments in a rural area.
+
+(c) Proposed intermediaries are required to identify any known relationship or association with a USDA Rural Development employee. Any processing or servicing Agency activity conducted pursuant to this subpart involving authorized assistance to United States Department of Agriculture (USDA) Rural Development employees, members of their families, close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this chapter.
+
+(d) Copies of all forms, regulations, and Agency procedures referenced in this subpart are available in the National Office or any Rural Development State Office.

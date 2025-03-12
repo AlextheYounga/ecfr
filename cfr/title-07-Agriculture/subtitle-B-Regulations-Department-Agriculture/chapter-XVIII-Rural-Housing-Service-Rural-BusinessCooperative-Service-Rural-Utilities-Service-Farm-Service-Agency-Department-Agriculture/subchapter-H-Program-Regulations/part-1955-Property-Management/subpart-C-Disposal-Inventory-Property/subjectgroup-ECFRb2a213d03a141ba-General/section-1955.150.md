@@ -1,0 +1,3 @@
+##### § 1955.150 State supplements. #####
+
+State Supplements will be prepared with the assistance of OGC as necessary to comply with State laws or only as specifically authorized in this Instruction to provide guidance to Rural Development officials. State Supplements applicable to MFH, B&I, and CP must have prior approval of the National Office. Request for approval for those affecting MFH must include complete justification, citations of State law, and an opinion from OGC.

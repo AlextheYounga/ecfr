@@ -1,0 +1,7 @@
+##### § 1955.72 Utilization of inventory housing by Federal Emergency Management Agency (FEMA) or under a Memorandum of Understanding between the Agency and the Department of Health and Human Services (HHS) for transitional housing for the homeless. #####
+
+(a) *FEMA.* By a Memorandum of Understanding between the Agency and FEMA, inventory housing property not under lease or sales agreement may be made available to shelter victims in an area designated as a major disaster area by the President. See Exhibit A of this subpart. Authority is hereby delegated to the State Director to implement this Memorandum of Understanding; and the State Director may redelegate this authority to County Supervisors or District Directors.
+
+(b) *HHS.* By a Memorandum of Understanding between the Agency and HHS, inventory housing property not under lease or sales agreement may be made available by lease to public bodies and nonprofit organizations to provide transitional housing for the homeless. See Exhibit D of this subpart. Authority is hereby delegated to the State Director to implement this Memorandum of Understanding; and the State Director may redelegate this authority to County Supervisors or District Directors. Copies of all executed leases and/or questions regarding this program should be referred by State Offices to the Single Family Housing Servicing and Property Management (SFH/SPM) Division in the National Office.
+
+[54 FR 20523, May 12, 1989, as amended at 60 FR 34455, July 3, 1995]

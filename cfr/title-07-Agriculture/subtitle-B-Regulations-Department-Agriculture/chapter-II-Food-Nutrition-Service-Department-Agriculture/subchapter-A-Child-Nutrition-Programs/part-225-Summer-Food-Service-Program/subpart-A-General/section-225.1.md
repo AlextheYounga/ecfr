@@ -1,0 +1,3 @@
+##### § 225.1 General purpose and scope. #####
+
+This part establishes the regulations under which the Secretary will administer a Summer Food Service Program. Section 13 of the Act authorizes the Secretary to assist States through grants-in-aid to conduct nonprofit food service programs for children during the summer months and at other approved times. The primary purpose of the Program is to provide food service to children from needy areas during periods when area schools are closed for vacation.

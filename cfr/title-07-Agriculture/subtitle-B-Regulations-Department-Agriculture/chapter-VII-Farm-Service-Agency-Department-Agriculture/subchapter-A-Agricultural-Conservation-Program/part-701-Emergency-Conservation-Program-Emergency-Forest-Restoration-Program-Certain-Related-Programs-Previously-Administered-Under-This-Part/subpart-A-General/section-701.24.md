@@ -1,0 +1,7 @@
+##### § 701.24 Dividing cost-share among more than one participant. #####
+
+(a) For qualifying cost-share assistance under this part, the cost shall be credited to the participant who personally performed the practice or who paid to have it performed by a third party. If a payment or credit was made by one participant to another potential participant, paragraph (c) of this section shall apply.
+
+(b) If more than one participant contributed to the performance of the practice, the cost-share assistance for the practice shall be divided among those eligible participants in the proportion they contributed to the performance of the practice. FSA may determine what proportion was contributed by each participant by considering the value of the labor, equipment, or material contributed by each participant and any other factors deemed relevant toward performance.
+
+(c) Allowance by a participant of a credit to another participant through adjustment in rent, cash or other consideration, may be considered as a cost of a practice to the paying party only if FSA determines that such credit is directly related to the practice. An applicant who was fully reimbursed shall be considered as not having contributed to the practice performance.

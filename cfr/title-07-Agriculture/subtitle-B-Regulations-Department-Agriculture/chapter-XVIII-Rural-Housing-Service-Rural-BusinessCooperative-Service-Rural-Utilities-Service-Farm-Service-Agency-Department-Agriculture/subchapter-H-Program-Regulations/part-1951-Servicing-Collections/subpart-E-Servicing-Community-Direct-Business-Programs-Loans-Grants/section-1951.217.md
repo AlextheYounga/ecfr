@@ -1,0 +1,3 @@
+##### § 1951.217 Public bodies. #####
+
+Servicing actions involving public bodies will be carried out to the extent feasible according to the provisions of this subpart. With prior National Office approval, the State Director is authorized to vary from such provisions if necessary and approved by OGC, provided such variation will not violate other regulatory or statutory provisions. To request approval, the case file, including copies of applicable documents, recommendations, and OGC comments, will be forwarded to the Administrator, Attention: (appropriate program division).

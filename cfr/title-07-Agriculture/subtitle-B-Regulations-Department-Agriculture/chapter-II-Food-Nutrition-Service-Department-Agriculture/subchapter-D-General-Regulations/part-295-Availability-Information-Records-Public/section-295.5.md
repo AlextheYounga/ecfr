@@ -1,0 +1,3 @@
+##### § 295.5 Program statistical reports. #####
+
+Current and historical information on FNS food assistance program size, monetary outlays, geographic distribution, racial and ethnic participation rates, and other data is published throughout the year. Limited supplies are available for public distribution upon request. Write the Director, Program Information Division, Food and Nutrition Service, USDA, 3101 Park Center Drive, Alexandria, VA 22302-1500.

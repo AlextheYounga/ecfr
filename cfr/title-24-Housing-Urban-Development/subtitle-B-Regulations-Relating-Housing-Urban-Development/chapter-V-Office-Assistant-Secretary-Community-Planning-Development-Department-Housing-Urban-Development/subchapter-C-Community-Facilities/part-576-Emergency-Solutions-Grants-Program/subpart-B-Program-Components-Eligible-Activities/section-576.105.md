@@ -1,7 +1,5 @@
 ##### § 576.105 Housing relocation and stabilization services. #####
 
-Link to an amendment published at 81 FR 90659, December 14, 2016.
-
 (a) *Financial assistance costs.* Subject to the general conditions under § 576.103 and § 576.104, ESG funds may be used to pay housing owners, utility companies, and other third parties for the following costs:
 
 (1) *Rental application fees.* ESG funds may pay for the rental housing application fee that is charged by the owner to all applicants.
@@ -66,4 +64,6 @@ Link to an amendment published at 81 FR 90659, December 14, 2016.
 
 (d) *Use with other subsidies.* Financial assistance under paragraph (a) of this section cannot be provided to a program participant who is receiving the same type of assistance through other public sources or to a program participant who has been provided with replacement housing payments under the URA, during the period of time covered by the URA payments.
 
-[76 FR 75974, Dec. 5, 2011,, as amended at 81 FR 80808, Nov. 16, 2016]
+(e) *Housing counseling.* Housing counseling, as defined in § 5.100, that is funded with or provided in connection with ESG funds must be carried out in accordance with § 5.111. When recipients or subrecipients provide housing services to eligible persons that are incidental to a larger set of holistic case management services, these services do not meet the definition of housing counseling, as defined in § 5.100, and therefore are not required to be carried out in accordance with the certification requirements of § 5.111
+
+[76 FR 75974, Dec. 5, 2011,, as amended at 81 FR 80808, Nov. 16, 2016; 81 FR 90659, Dec. 14, 2016]

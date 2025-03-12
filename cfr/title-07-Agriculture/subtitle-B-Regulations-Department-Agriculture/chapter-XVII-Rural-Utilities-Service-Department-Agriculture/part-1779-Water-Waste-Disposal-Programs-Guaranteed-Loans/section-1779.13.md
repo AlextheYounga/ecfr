@@ -1,0 +1,3 @@
+##### § 1779.13 Appeals. #####
+
+Only the borrower, lender, or holder can appeal an Agency decision. In cases where the Agency has denied or reduced the amount of final loss payment to the lender, the adverse decision may be appealed only by the lender. A decision by a lender adverse to the interest of the borrower is not a decision by the Agency, whether or not concurred in by the Agency. Appeals will be handled in accordance with the regulations of the National Appeals Division, U.S. Department of Agriculture, published at 7 CFR part 11.

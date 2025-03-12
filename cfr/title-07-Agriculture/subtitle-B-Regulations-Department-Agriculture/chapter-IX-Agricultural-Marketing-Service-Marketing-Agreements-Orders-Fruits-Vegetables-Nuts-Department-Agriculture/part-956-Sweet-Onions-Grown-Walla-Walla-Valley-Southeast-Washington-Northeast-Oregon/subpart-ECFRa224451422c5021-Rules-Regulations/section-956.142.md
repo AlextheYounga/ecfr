@@ -1,0 +1,5 @@
+##### § 956.142 Interest charges. #####
+
+For Walla Walla Sweet Onions handled prior to September 1, the Committee shall impose an interest charge on any handler who fails to pay his or her annual assessments within thirty (30) days of the due date of September 30. For Walla Walla Sweet Onions handled during the period September 1 through May 31, the Committee shall impose an interest charge on any handler who fails to pay his or her assessments within thirty (30) days of the last day of the month in which such shipments are made. The interest charge shall be 11/2 percent of the unpaid assessment balance. In the event the handler fails to pay the delinquent assessment amount within 60 days following the due date, the 11/2 percent interest charge shall be applied monthly thereafter to the unpaid balance, including any accumulated interest. Any amount paid by a handler as an assessment, including any charges imposed pursuant to this paragraph, shall be credited when the payment is received in the Committee office.
+
+[75 FR 34347, June 17, 2010]

@@ -1,0 +1,3 @@
+##### § 3401.5 Indirect costs and tuition remission costs. #####
+
+Pursuant to section 1473 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended (7 U.S.C. 3319), funds made available under this program to recipients other than Federal laboratories shall not be subject to reduction for indirect costs or tuition remission costs. Since indirect costs and tuition remission costs, except in the case of Federal laboratories, are not allowable costs for purposes of this program, such costs may not be used to satisfy the matching requirement set forth in § 3401.4.

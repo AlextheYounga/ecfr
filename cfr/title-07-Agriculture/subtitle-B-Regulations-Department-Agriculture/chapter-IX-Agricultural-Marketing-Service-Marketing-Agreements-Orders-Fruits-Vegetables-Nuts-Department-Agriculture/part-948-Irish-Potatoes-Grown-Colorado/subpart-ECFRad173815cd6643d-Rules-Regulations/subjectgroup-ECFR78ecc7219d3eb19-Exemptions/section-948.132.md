@@ -1,0 +1,7 @@
+##### § 948.132 Issuance of exemption certificates. #####
+
+(a) The respective area committee receiving an application for exemption shall give prompt consideration thereto and determine on the basis of the statements and facts therein contained and the factors set forth in § 948.30 whether the application may be approved. The determination, if favorable, shall be evidenced by the issuance of a certificate of exemption pursuant to §§ 948.28 through 948.32. If the applicant's request for exemption is denied, he shall be so notified in writing.
+
+(b) Each certificate of exemption issued as provided in this subpart, shall contain the name and address of the applicant, the location of his farm or ranch, the location, or locations, of all potatoes remaining to be shipped, the total quantity of potatoes which may be shipped under the certificate of exemption, and such other information as the area committee may deem desirable.
+
+(c) The committee may furnish each applicant receiving a certificate of exemption with appropriate subcertificates of exemption to identify each lot of exempted potatoes and a subcertificate shall be transferable with the lot of potatoes to which it applies. Each applicant receiving a certificate of exemption shall report each shipment of potatoes made under such certificate to the respective area committee issuing the certificate. The report shall state the name and address of the person to whom the potatoes were sold, the quantity sold, the date of transfer, and such other information as the committee may request.

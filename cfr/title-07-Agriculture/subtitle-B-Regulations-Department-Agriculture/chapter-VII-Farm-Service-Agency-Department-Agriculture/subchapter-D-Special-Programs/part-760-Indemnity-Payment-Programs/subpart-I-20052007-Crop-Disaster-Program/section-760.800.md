@@ -1,0 +1,3 @@
+##### § 760.800 Applicability. #####
+
+This part sets forth the terms and conditions for the 2005-2007 Crop Disaster Program (2005-2007 CDP). CDP makes emergency financial assistance available to producers who have incurred crop losses in quantity or quality for eligible 2005, 2006, or 2007 crop years due to disasters as determined by the Secretary under provisions of Title IX of the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 (Pub. L. 110-28). However, to be eligible for assistance, the crop subject to the loss must have been planted or existed before February 28, 2007, or, in the case of prevented planting, would have been planted before February 28, 2007.

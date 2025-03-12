@@ -1,0 +1,11 @@
+##### § 1755.504 Demarcation point. #####
+
+(a) The demarcation point (DP) provides the physical and electrical interface between the telecommunications company's facilities and the customer's premises wiring.
+
+(b) The Federal Communications Commission (FCC) rules in 47 CFR part 68 require telecommunications providers to establish a “DP” which marks a separation of the provider's facilities from the customer's (owned) premises wiring and equipment.
+
+(c) RUS borrowers shall observe the FCC DP requirement by installing NIDs, BETs, or fused primary station protectors when required by section 800-30(a)(2) of ANSI/NFPA 70-1999, *NEC* ®, at all new or significantly modified customer access locations which are financed with RUS loan funds. *The National Electrical Code* ® and *NEC* ® are registered trademarks of the National Fire Protection Association, Inc., Quincy, MA 02269. The ANSI/NFPA 70-1999, *NEC* ®, is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from NFPA, 1 Batterymarch Park, P. O. Box 9101, Quincy, Massachusetts 02269-9101, telephone number 1 (800) 344-3555. Copies of ANSI/NFPA 70-1999, *NEC* ®, are available for inspection during normal business hours at RUS, room 2905, U.S. Department of Agriculture, 1400 Independence Avenue, SW., STOP 1598, Washington, DC 20250-1598, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(d) For all customer access locations of less than 12 pairs, RUS borrowers shall establish DPs by using either NIDs or fused primary station protectors when required by section 800-30(a)(2) of ANSI/NFPA 70-1999, *NEC* ®. For customer access locations of 12 pairs or greater, RUS borrowers shall establish DPs using either NIDs, BETs, or fused primary station protectors when required by section 800-30(a)(2) of ANSI/NFPA 70-1999, *NEC* ®.
+
+[66 FR 43317, Aug. 17, 2001, as amended at 69 FR 18803, Apr. 9, 2004]

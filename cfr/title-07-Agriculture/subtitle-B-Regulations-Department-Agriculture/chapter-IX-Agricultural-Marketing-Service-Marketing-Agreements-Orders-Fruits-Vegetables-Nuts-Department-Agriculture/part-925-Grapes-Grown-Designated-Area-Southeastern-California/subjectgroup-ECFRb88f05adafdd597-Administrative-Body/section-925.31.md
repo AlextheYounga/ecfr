@@ -1,0 +1,3 @@
+##### § 925.31 Compensation and expenses. #####
+
+The members of the committee, and alternates when acting as members, shall serve without compensation but may be reimbursed for expenses necessarily incurred by them in the performance of their duties under this part: *Provided,* That the committee at its discretion may request the attendance of one or more alternates at any or all meetings notwithstanding the expected or actual presence of the respective members and may pay expenses as aforesaid.

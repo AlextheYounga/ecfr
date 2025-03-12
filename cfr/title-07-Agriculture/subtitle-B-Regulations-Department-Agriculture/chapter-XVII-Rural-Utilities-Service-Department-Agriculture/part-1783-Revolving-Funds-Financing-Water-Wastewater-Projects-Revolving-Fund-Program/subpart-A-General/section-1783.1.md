@@ -1,0 +1,3 @@
+##### § 1783.1 What is the purpose of the Revolving Fund Program? #####
+
+This part sets forth the policies and procedures for making grants to qualified private, non-profit entities to capitalize revolving funds for the purpose of providing financing to eligible entities for pre-development costs associated with proposed water and wastewater projects or with existing water and wastewater systems, and short-term costs incurred for replacement equipment, small-scale extension of services, or other small capital projects that are not part of the regular operations and maintenance activities of existing water and wastewater systems.

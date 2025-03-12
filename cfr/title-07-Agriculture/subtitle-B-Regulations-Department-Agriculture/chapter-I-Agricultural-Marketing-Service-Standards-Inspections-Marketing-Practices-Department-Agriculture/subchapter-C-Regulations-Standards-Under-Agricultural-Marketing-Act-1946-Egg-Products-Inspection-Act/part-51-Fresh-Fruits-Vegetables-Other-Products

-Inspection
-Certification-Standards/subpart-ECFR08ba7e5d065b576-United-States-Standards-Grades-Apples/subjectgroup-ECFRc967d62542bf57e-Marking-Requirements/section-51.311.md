@@ -1,0 +1,7 @@
+##### § 51.311 Marking requirements. #####
+
+Variety (or varieties if more than one is packed in the container), grade, and the numerical count or minimum diameter of apples packed in a closed container shall be indicated on the container. For apple lots utilizing the combined diameter/weight designations for Red Delicious and Golden Delicious varieties, the minimum diameter and minimum weight of apples packed in a closed container shall be indicated on the container.
+
+(a) When the numerical count is not shown, the minimum diameter or, in the case of Red Delicious or Golden Delicious lots where minimum diameter/weight designations have been chosen, the minimum diameter and weight as designated in table II, shall be plainly stamped, stenciled or otherwise marked on the container in terms of whole inches, or whole inches and not less than eighth inch fractions thereof in the following manner: “A” inches or “B” grams, where “A” corresponds to one of the diameter measurements in terms of inches listed in table II and “B” corresponds to the weight measurement in grams as indicated in table II. Both diameter and weight must be shown using the word “or” between the given measurements.
+
+(b) The word “minimum,” or its abbreviation, when following a diameter size marking, means that the apples are of the size marked or larger. (*See* §§ 51.306 and 51.307.)

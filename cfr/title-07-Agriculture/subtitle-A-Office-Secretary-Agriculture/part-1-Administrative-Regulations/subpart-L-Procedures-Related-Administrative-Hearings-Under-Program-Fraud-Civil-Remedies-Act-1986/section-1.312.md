@@ -1,0 +1,5 @@
+##### § 1.312 Procedure where respondent does not request a hearing. #####
+
+(a) If the respondent files an answer with the reviewing official within the time period prescribed in § 1.309(a) of this part but does not request a hearing, the ALJ, upon receipt of the complaint, proof of service, and answer, shall notify the respondent that a decision will be issued under this section and shall afford the parties 30 days in which to submit documentary evidence or other relevant written information, including briefs or other written arguments. At the end of that period, the ALJ shall issue a decision based upon the pleadings and the evidence submitted, or if no evidence has been submitted, upon the pleadings. The burden of proof shall be as set forth in § 1.329 of this part.
+
+(b) When a decision is to be issued under this section, the ALJ shall have discretion to permit, allow, limit, or otherwise control discovery to the extent set forth under §§ 1.322 thru 1.324 of this part.

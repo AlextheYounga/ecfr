@@ -1,0 +1,5 @@
+##### § 201.26 Kind, variety, and hybrid. #####
+
+The label shall bear the name of each kind and variety present as determined in accordance with § 201.34. The name shall not have affixed thereto words or terms that create a misleading impression as to the history or characteristics of kind or variety. If two or more kinds or varieties are present, the percentage of each shall be shown. If any one kind or variety named on the label is “hybrid” seed, it shall be so designated on the label. If two or more kinds or varieties are named on the label, each that is hybrid shall be shown as “hybrid” on the label. Any kind or variety that is less than 95 percent but more than 75 percent hybrid seed as a result of incompletely controlled pollination in a cross shall be labeled to show (a) the percentage that is hybrid seed or (b) a statement such as “Contains from 75 percent to 95 percent hybrid seed.” No one kind or variety of seed shall be labeled as hybrid if it contains less than 75 percent hybrid seed.
+
+[33 FR 10841, July 31, 1968, as amended at 59 FR 64491, Dec. 14, 1994]

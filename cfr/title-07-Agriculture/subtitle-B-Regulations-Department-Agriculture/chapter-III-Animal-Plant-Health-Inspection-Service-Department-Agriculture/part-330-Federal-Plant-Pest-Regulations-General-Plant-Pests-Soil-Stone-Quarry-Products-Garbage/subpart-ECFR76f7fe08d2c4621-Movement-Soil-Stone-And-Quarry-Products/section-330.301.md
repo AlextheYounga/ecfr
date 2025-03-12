@@ -1,0 +1,3 @@
+##### § 330.301 Stone and quarry products from certain areas in Canada. #####
+
+Stone and quarry products from areas in Canada infested with the gypsy moth may be moved from Canada into or through the United States only into or through areas regulated by the gypsy moth and browntail moth quarantine and regulations in §§ 301.45, 301.45-1 et seq. of this chapter; or into or through other areas in the United States under conditions paralleling the requirements of said quarantine and regulations for movement of stone and quarry products from said regulated areas into such other areas of the United States.

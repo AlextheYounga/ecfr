@@ -1,5 +1,7 @@
 ##### § 35.125 Notice of evaluation and hazard reduction activities. #####
 
+Link to an amendment published at 82 FR 4167, Jan. 13, 2017.
+
 The following activities shall be conducted if notice is required by subparts D and F through M of this part.
 
 (a) *Notice of evaluation or presumption.* When evaluation is undertaken and lead-based paint or lead-based paint hazards are found to be present, or if a presumption is made that lead-based paint or lead-based paint hazards are present in accordance with the options described in § 35.120, the designated party shall provide a notice to occupants within 15 calendar days of the date when the designated party receives the report or makes the presumption. A visual assessment alone is not considered an evaluation for the purposes of this part. If only a visual assessment alone is required by this part, and no evaluation is performed, a notice of evaluation or presumption is not required.

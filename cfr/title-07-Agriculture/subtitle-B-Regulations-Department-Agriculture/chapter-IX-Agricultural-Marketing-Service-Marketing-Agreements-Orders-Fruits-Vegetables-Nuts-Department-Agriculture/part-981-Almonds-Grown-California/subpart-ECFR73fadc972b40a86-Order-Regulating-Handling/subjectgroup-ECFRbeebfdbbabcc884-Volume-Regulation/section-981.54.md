@@ -1,0 +1,3 @@
+##### § 981.54 Payment to handlers for services rendered. #####
+
+The Board may pay handlers for necessary services rendered by them in connection with almonds eventually disposed of directly by the Board as reserve including but not limited to storing, shelling, sorting, bleaching, grading, packaging, fumigating, and other services in accordance with such schedule of payments and under such conditions as may be established by the Secretary after recommendation of the Board.

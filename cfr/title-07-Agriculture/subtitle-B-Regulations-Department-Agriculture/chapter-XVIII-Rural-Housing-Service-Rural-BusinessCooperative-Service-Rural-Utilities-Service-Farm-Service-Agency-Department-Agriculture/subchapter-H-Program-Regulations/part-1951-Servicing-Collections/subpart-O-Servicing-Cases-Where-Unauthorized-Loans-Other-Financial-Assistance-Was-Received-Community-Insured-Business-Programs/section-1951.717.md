@@ -1,0 +1,3 @@
+##### § 1951.717 Exception authority. #####
+
+The Administrator may, in individual cases, make an exception to any requirement or provision of this subpart, provided that any such exception is not inconsistent with any applicable law or opinion of the Comptroller General, and provided further, the Administrator determines that the application of the requirement or provision would adversely affect the Government's interest.

@@ -1,0 +1,3 @@
+##### § 1944.681 Application submission. #####
+
+Applicants selected by Rural Development will be advised to submit a full application in an original and two copies of SF 424.1, and are to include any condition or amendments that must be incorporated into the statement of activities prior to submitting a full application. Instructions on submission and timing will be provided by FmHA or its successor agency under Public Law 103-354.

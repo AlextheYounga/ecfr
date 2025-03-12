@@ -1,0 +1,3 @@
+##### § 3200.7 Title. #####
+
+Title to excess personal property obtained under Part 3200 will automatically pass to the 1890 Land Grant Institutions (including Tuskegee University), 1994 Land Grant Institutions, and the Hispanic-Serving Institutions once USDA receives the SF-122 indicating that the institution has received the property. Note: When competing Federal claims are made for particular items of excess personal property held by agencies other than USDA, with or without payment of reimbursement, GSA will give preference to the Federal agency that will retain title in the Government.

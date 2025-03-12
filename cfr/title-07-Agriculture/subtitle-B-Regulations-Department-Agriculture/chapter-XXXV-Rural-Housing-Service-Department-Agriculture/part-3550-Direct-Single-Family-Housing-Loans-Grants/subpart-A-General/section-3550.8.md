@@ -1,0 +1,3 @@
+##### § 3550.8 Exception authority. #####
+
+An RHS official may request, and the Administrator or designee may make, an exception to any requirement or provision of this part or address any omission of this part that is consistent with the applicable statute if the Administrator determines that application of the requirement or provision, or failure to take action in the case of an omission, would adversely affect the Government's interest.

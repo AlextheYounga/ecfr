@@ -1,0 +1,3 @@
+##### § 3400.22 Merit review for education and extension activities. #####
+
+Merit review is an evaluation of a proposed project or elements of a proposed program whereby the technical quality and relevance to regional or national goals are assessed. The merit review shall be performed by peers and other individuals with expertise appropriate to evaluate the proposed project. Merit reviewers may not include principals, collaborators or others involved in the preparation of the application under review.

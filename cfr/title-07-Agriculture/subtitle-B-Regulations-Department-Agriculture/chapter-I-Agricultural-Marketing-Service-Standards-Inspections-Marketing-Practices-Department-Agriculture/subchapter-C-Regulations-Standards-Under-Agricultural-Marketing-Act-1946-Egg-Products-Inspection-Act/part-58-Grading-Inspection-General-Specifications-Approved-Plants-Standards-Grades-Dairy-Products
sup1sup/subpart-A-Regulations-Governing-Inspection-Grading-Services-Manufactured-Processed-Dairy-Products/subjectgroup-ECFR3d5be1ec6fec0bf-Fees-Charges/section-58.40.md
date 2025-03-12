@@ -1,0 +1,3 @@
+##### § 58.40 Fees for appeal inspection or grading. #####
+
+The fees to be charged for any appeal inspection or grading shall be double the fees specified on the inspection or grading certificate from which the appeal is taken: *Provided,* That the fee for any appeal grading requested by any agency of the U.S. Government shall be the same as set forth in the certificate from which the appeal is taken. If the result of any appeal inspection or grading discloses that a material error was made in the inspection or grading appealed from, no fee shall be required.

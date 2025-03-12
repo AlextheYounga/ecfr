@@ -1,0 +1,3 @@
+##### § 160.64 Issuance of loan and sale certificate. #####
+
+On request of the owner, a “Loan and Sale Certificate for United States Graded Rosin” (designated “L. S. Certificate” in this part) may be issued to cover any rosin for which a Rosin Classification and Grade Certificate has previously been issued by an official inspector, and which remains in the original container. No inspector shall issue and L. S. Certificate until he has made certain that the rosin had previously been officially inspected and certified. The request for such certificate may be made to the nearest inspector.

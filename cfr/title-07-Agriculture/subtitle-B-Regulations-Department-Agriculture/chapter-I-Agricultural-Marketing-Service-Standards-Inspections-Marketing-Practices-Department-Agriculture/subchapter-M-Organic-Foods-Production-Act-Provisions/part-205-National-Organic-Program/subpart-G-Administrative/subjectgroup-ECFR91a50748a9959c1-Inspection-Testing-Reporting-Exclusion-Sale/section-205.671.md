@@ -1,0 +1,3 @@
+##### § 205.671 Exclusion from organic sale. #####
+
+When residue testing detects prohibited substances at levels that are greater than 5 percent of the Environmental Protection Agency's tolerance for the specific residue detected or unavoidable residual environmental contamination, the agricultural product must not be sold, labeled, or represented as organically produced. The Administrator, the applicable State organic program's governing State official, or the certifying agent may conduct an investigation of the certified operation to determine the cause of the prohibited substance.

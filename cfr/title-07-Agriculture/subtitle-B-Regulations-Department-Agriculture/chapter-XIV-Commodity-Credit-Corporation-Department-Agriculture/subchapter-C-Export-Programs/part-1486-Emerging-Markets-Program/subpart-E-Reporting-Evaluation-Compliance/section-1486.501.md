@@ -1,0 +1,3 @@
+##### § 1486.501 What is the rule on notifying field offices of international travel? #####
+
+The Recipient must advise the Agricultural Counselor(s) or Attache(s) in the country or countries of any planned visits by the Recipient or its consultants or other participants to such country or countries under terms of its agreement. Failure to notify the Counselor/Attache may result in disallowance of the travel expenditures.

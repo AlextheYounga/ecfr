@@ -1,0 +1,3 @@
+##### § 22.309 Seeking Federal review. #####
+
+States may, if they elect, submit multicounty development plans and proposals to the Federal Regional Councils and to the Rural Development Service, USDA, for review and comment. Such review will neither obligate the Federal government with respect to such programs nor require States to conform with suggestions supplied by the USDA or the Federal Regional Council.

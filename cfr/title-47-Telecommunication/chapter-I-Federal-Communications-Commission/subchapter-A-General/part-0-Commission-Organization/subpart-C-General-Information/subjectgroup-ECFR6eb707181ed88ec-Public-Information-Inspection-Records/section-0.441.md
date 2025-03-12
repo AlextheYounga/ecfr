@@ -1,5 +1,7 @@
 ##### § 0.441 General. #####
 
+Link to an amendment published at 82 FR 4188, January 13, 2017.
+
 (a) Any person desiring to obtain information from the Commission may do so by contacting the Consumer and Governmental Affairs Bureau (CGB). Requests for information and general inquiries may be submitted by:
 
 (1) Internet at *http://www.fcc.gov/cgb/fccinfo* or *http://www.fcc.gov/foia.*

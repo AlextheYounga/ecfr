@@ -1,0 +1,3 @@
+##### § 1260.146 Vacancies. #####
+
+To fill any vacancy occasioned by the death, removal, resignation, or disqualification of any member of the Board, the Secretary shall request that nominations for a successor for the vacancy be submitted by the eligible organization(s) representing producers or importers of the unit represented by the vacancy. If no eligible organization(s) represents producers or importers in such unit, then the Secretary shall determine the manner in which nominations for the vacancy are submitted.

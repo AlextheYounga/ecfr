@@ -1,0 +1,3 @@
+##### § 786.115 Termination of program. #####
+
+This program will be terminated after payment has been made to those applicants certified as eligible pursuant to the application period established in § 786.104. All eligibility determinations will be final except as otherwise determined by the Deputy Administrator. Any claim for payment may be denied once the allowed funds are expended, irrespective of any other provision of this part.

@@ -1,0 +1,5 @@
+##### § 52.49 Charges for copies of inspection documents and/or inspection data. #####
+
+If the applicant for inspection service requests additional copies of inspection documents and/or inspection data referable to the processed product covered thereby, the applicant may obtain such copies from the supervisor in the office of inspection serving the area where the service was performed at a charge of1/2 hour per copy in accordance with the rate in § 52.42: Provided, that no charge shall be made for one copy if requested at the time of the original request for inspection. Inspection certificates issued in accordance with § 52.21 may be supplied to any financially interested party at a charge of1/2 hour per certificate for each seven (7), or fewer copies in accordance with the rate in § 52.42.
+
+[54 FR 50732, Dec. 11, 1989]

@@ -1,0 +1,5 @@
+##### § 4288.104 Compliance with other laws and regulations. #####
+
+(a) Advanced biofuel producers must comply with other applicable Federal, State, and local laws, including, but not limited to, the Equal Employment Opportunity Act, Title VI of the Civil Rights Act of 1964, Section 504 of the Rehabilitation Act of 1973, The Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, and 7 CFR part 1901, subpart E. This includes collection and maintenance of race, sex, and national origin data of the recipient's employee.
+
+(b) Producers must comply with equal opportunity and nondiscriminatory requirements in accordance with 7 CFR 15d. Rural Development will not discriminate against an applicant on the bases of race, color, religion, national origin, sex, sexual orientation, marital status, familial status, disability, or age (provided that the applicant has the capacity to contract); to the fact that all or part of the applicant's income derives from public assistance program; or to the fact that the applicant has in good faith exercised any right under the Consumer Credit Protection Act.

@@ -1,0 +1,3 @@
+##### § 623.14 Easement modifications. #####
+
+After the easement has been perfected, no change will be made in the easement without a written request by the participant and the written consent of the Chief. Approval may be granted to achieve the goals of EWRP or facilitate the practical administration and management of the easement area or the program and the approval will not adversely affect the functions and values for which the easement was established. A modified easement shall be perfected in accordance with State law and NRCS superior interest shall be reserved by the landowner in accordance with §§ 623.7 and 623.11(a)(3).

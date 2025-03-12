@@ -1,0 +1,3 @@
+##### § 1402.3 Submission of offers, terms, and conditions. #####
+
+Offers accepted by CCC will be subject to terms and conditions prescribed by CCC. These terms include, among other things, payment by wire transfer of funds, certified check or cashiers check before delivery of the commodity, removal of the commodity from CCC storage within a reasonable period of time, and in sales that require a commodity to be used for only a specific purpose, documentation that use of the commodity was for only that purpose.

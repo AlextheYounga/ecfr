@@ -1,0 +1,3 @@
+##### § 2710.1 General statement. #####
+
+This part is issued in accordance with 7 CFR 1.4 of the U.S. Department of Agriculture regulations governing the availability of records (7 CFR 1.1-1.16 and Appendix A) under the Freedom of Information Act (5 U.S.C. 552). The Department's regulations, as supplemented by the regulations in this part, provide guidance for any person wishing to request records from the Office of Information Resources Management (OIRM).

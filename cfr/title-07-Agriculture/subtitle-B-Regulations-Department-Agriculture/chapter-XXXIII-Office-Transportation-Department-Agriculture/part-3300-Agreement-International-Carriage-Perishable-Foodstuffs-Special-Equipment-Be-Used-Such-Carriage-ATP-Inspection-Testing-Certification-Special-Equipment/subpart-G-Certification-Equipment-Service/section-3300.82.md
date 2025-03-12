@@ -1,0 +1,3 @@
+##### § 3300.82 Issuance of certificate. #####
+
+The ATP manager will evaluate documents received and, for equipment deemed qualified, will issue a U.S. ATP certificate to the applicant within 30 days of receipt of the application and any relevant information required. The certificate will be in the format prescribed in ATP, Annex 1, Appendix 3. For equipment deemed not qualified, the applicant will be advised of reasons for non-qualification within 30 days of receipt of an application and any relevant information required.

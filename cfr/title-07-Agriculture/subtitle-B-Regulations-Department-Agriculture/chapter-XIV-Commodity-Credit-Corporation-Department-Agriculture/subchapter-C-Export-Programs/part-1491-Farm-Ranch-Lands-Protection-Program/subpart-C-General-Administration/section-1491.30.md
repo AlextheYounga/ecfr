@@ -1,0 +1,13 @@
+##### § 1491.30 Violations and remedies. #####
+
+(a) In the event of a violation of the easement terms, the eligible entity will notify the landowner. The landowner may be given reasonable notice and, where appropriate, an opportunity to voluntarily correct the violation in accordance with the terms of the conservation easement.
+
+(b) In the event that the eligible entity fails to enforce any of the terms of the conservation easement as determined by the Chief, the Chief or his or her successors or assigns may exercise the United States' rights to enforce the terms of the conservation easement through any and all authorities available under Federal or State law.
+
+(c) Notwithstanding paragraph (a) of this section, NRCS, upon notification to the landowner, reserves the right to enter upon the easement area at any time to monitor conservation plan implementation or remedy deficiencies or easement violations as it relates to the conservation plan. The entry may be made at the discretion of NRCS when the actions are deemed necessary to protect highly erodible soils and wetland resources. The landowner will be liable for any costs incurred by NRCS as a result of the landowner's negligence or failure to comply with the easement requirements as it relates to conservation plan violations.
+
+(d) The United States will be entitled to recover any and all administrative and legal costs from the participating eligible entity, including attorney's fees or expenses, associated with any enforcement or remedial action as it relates to the enforcement of the FRPP easement.
+
+(e) In instances where an easement is terminated or extinguished, NRCS will collect CCC's share of the conservation easement based on the appraised fair market value of the conservation easement at the time the easement is extinguished or terminated. The CCC's share will be in proportion to its percentage of original investment.
+
+(f) In the event NRCS determines it must exercise its rights identified under a conservation easement or other interest in land, NRCS will provide written notice by certified mail, return receipt requested, to the eligible entity at the eligible entity's last known address. The notice will set forth the nature of the noncompliance by the eligible entity and a 60-day period to cure. If the eligible entity fails to cure within the 60-day period, NRCS will take the action specified under the notice. NRCS reserves the right to decline to provide a period to cure if NRCS determines that imminent harm may result to the conservation values or other interest in land it seeks to protect.

@@ -1,0 +1,3 @@
+##### § 1730.2 RUS policy. #####
+
+It is RUS policy to require that all property of a borrower be operated and maintained properly in accordance with the requirements of each borrower's loan documents. It is also RUS policy to provide financial assistance only to borrowers whose operations and maintenance practices and records are satisfactory or to those who are taking corrective actions expected to make their operations and maintenance practices and records satisfactory to RUS.

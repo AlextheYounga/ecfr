@@ -1,0 +1,3 @@
+##### § 22.104 General policy. #####
+
+Federal implementation of the Act will be consistent with the President's policy of decentralized decisionmaking and administrative responsibility which gives fullest possible consideration to State and local rural development goals and priorities. As a result of section 817(4) of the Agriculture and Consumer Protection Act of 1973 (Pub. L. 93-86) which prohibits prior approval by any State officials of any loan or grant under any program authorized by title I of the Rural Development Act of 1972 (Pub. L. 92-419), it has been necessary to substantially modify the planned administration of programs under section 603 of the Rural Development Act.

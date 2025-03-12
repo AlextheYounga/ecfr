@@ -1,0 +1,3 @@
+##### § 932.33 Vacancies. #####
+
+To fill any vacancy occasioned by the failure of any person selected as a member, or as an alternate member of the committee to qualify, or in the event of the removal, resignation, disqualification, or death of any member or alternate member, a successor for such person's unexpired term shall be nominated and selected in the manner set forth in § 932.29 insofar as such provisions are applicable. If nomination to fill any such vacancy is not made within 60 calendar days after such vacancy occurs, the Secretary may fill such vacancy without regard to nominations, but on the basis of the applicable representations and qualifications set forth in §§ 932.25, 932.27, and 932.28.

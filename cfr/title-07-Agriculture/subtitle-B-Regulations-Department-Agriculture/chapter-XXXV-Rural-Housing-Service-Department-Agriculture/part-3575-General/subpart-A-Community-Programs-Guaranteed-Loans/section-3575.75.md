@@ -1,0 +1,7 @@
+##### § 3575.75 Defaults by borrower. #####
+
+(a) *Lender notification to Agency.* The lender must notify the Agency when a borrower is 30 days past due on a payment, has not met its responsibilities of providing the required financial statements, or is otherwise in default. The lender will continue to keep the Agency informed on a bimonthly basis until such time as the loan is no longer in default. If a monetary default exceeds 60 days, the lender will arrange a meeting with the borrower to resolve the default. The lender will provide a summary of the meeting and any decisions or actions agreed upon.
+
+(b) *Servicing options.* In considering servicing options, the prospects for providing a permanent cure without adversely affecting the risks to the Agency and the lender must be the paramount objective. Temporary curative actions (such as payment deferments or collateral subordination) must strengthen the loan and be in the best financial interest of the lender and the Agency. Some of these actions may require concurrence of the holder.
+
+(c) *Multi-note.* If the loan was closed with the multi-note option, the lender may need to possess all notes to take some servicing actions. In those situations when the Agency is holder of some of the notes, the Agency may endorse the notes back to the lender, provided a proper receipt is received from the lender which defines the reason for the transfer. Under no circumstances will the Agency endorse the original Loan Note Guarantee to the lender.

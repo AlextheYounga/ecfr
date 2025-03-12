@@ -1,0 +1,3 @@
+##### § 966.123 Denial and appeal. #####
+
+The committee may rescind a Certificate of Privilege issued to a handler, or deny a Certificate of Privilege to a handler, upon proof satisfactory to such committee, that such handler has shipped tomatoes contrary to the provisions of this part. Such committee action denying a Certificate of Privilege shall apply to and not exceed a reasonable period of time as determined by such committee. Any handler who has been denied a Certificate of Privilege, or who has had a Certificate of Privilege rescinded, may appeal to the committee for reconsideration. Such appeal shall be in writing.

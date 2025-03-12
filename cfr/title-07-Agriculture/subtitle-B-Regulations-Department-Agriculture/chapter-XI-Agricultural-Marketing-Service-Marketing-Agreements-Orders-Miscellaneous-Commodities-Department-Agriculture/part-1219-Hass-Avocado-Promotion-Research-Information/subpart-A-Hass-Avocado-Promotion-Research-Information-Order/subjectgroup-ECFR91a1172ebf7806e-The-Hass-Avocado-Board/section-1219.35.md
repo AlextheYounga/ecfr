@@ -1,0 +1,3 @@
+##### § 1219.35 Term of office. #####
+
+The members and alternate members of the Board shall serve for terms of three years, except the members of the initial Board shall serve terms as follows: Four members and four alternates shall serve for two-year terms; four members and four alternates shall serve for three-year terms; and four members and four alternates shall serve for four-year terms. No member shall serve more than two consecutive three-year terms. Members and alternates serving initial two-year or four-year terms may serve for one additional three-year term. A Board member may serve as an alternate during the years the member is ineligible for a member position. Each term of office will end on October 31, with new terms of office beginning on November 1.

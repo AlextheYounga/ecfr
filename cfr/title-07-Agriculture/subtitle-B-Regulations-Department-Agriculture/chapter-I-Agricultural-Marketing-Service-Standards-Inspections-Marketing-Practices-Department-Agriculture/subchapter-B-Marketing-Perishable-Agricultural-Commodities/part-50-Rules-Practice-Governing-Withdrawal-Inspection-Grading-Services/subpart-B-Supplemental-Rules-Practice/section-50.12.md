@@ -1,0 +1,5 @@
+##### § 50.12 Summary suspension of service. #####
+
+(a) *General.* In any situation in which the integrity of grading or inspection service would be jeopardized if the grading or inspection service were continued pending a decision in a proceeding to withdraw grading or inspection service, such service to the respondent may be suspended effective on the third day after mailing of a written notice of the suspension of service to the respondent's last known address or designated address or upon actual receipt of the written notice, whichever is earlier.
+
+(b) *Actual or threatened physical violence.* In any case of actual or threatened physical violence to an inspector or grader, grading and inspection services to the respondent may be suspended prior to the transmittal of the written notice of suspension to the respondent. A written notice shall be given as promptly as circumstances permit.

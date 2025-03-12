@@ -1,0 +1,5 @@
+##### § 1942.50 OMB control number. #####
+
+The reporting and recordkeeping requirements contained in this regulation have been approved by the Office of Management and Budget (OMB) and have been assigned OMB control number 0575-0015. Public reporting burden for this collection of information is estimated to vary from five minutes to 15 hours per response, with an average of 2.7 hours per response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden to the Department of Agriculture, Clearance Officer, OIRM, Ag Box 7630, Washington, DC 20250; and to the Office of Management and Budget, Paperwork Reduction Project (OMB #0575-0015), Washington, DC 20503.
+
+[60 FR 11019, Mar. 1, 1995]

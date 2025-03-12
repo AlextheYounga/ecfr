@@ -1,0 +1,3 @@
+##### § 3405.3 Institutional eligibility. #####
+
+Proposals may be submitted by land-grant and other U.S. colleges and universities offering a baccalaureate or first professional degree in at least one discipline or area of the food and agricultural sciences. Each applicant must have a demonstrable capacity for, and a significant ongoing commitment to, the teaching of food and agricultural sciences generally and to the specific need and/or subject area(s) for which a grant is requested. Awards may be made only to eligible institutions as defined in § 3405.2(i).

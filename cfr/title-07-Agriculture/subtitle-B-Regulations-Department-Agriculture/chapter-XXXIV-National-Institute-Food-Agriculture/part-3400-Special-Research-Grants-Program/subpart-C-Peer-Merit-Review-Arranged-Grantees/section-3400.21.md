@@ -1,0 +1,3 @@
+##### § 3400.21 Scientific peer review for research activities. #####
+
+Scientific peer review is an evaluation of a proposed project for technical quality and relevance to regional or national goals performed by experts with the scientific knowledge and technical skills to conduct the proposed research work. Peer reviewers may be selected from an applicant organization or from outside the organization, but shall not include principals, collaborators or others involved in the preparation of the application under review.

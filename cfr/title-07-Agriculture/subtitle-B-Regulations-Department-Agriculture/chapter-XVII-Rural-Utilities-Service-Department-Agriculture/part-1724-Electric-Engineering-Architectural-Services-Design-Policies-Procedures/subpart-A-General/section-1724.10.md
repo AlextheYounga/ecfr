@@ -1,0 +1,5 @@
+##### § 1724.10 Standard forms of contracts for borrowers. #####
+
+The standard loan agreement between RUS and its borrowers provides that, in accordance with applicable RUS regulations in this chapter, the borrower shall use standard forms of contracts promulgated by RUS for construction, procurement, engineering services, and architectural services financed by a loan made or guaranteed by RUS. This part implements these provisions of the RUS loan agreement. Subparts A through E of this part prescribe when and how borrowers are required to use RUS standard forms of contracts for engineering and architectural services. Subpart F of this part prescribes the procedures that RUS follows in promulgating standard contract forms and identifies those contract forms that borrowers are required to use for engineering and architectural services.
+
+[63 FR 58284, Oct. 30, 1998]

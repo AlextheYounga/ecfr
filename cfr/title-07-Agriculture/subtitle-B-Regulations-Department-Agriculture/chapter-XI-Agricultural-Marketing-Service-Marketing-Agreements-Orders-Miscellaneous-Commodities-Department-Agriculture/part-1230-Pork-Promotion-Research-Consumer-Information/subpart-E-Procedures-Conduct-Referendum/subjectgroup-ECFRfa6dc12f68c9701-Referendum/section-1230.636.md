@@ -1,0 +1,5 @@
+##### § 1230.636 Results of the referendum. #####
+
+(a) The Administrator, FSA, will submit the combined results of the FSA State offices' results of the producers' vote and the FSA headquarters office results of the importers' vote to the Administrator, AMS. The Administrator, AMS, will prepare and submit to the Secretary a report of the results of the referendum. The results of the referendum will be announced by the Department in an official press release and published in the Federal Register. State reports on producer balloting, FSA headquarters office report on importer balloting, and related papers will be available for public inspection in the office of the Marketing Programs Branch, Livestock and Seed Program, AMS, USDA, Room 2627, South Agriculture Building, 1400 Independence Avenue, SW., Washington, DC.
+
+(b) If the Secretary deems it necessary, the report of producer voting results in any State or county or the report of importer voting results shall be reexamined and checked by such persons as may be designated by the Secretary.

@@ -1,0 +1,5 @@
+##### § 210.28 Pilot project exemptions. #####
+
+Those State agencies or school food authorities selected for the pilot projects mandated under section 18(d) of the Act may be exempted by the Department from some or all of the counting and free and reduced price application requirements of this part and 7 CFR part 245, as necessary, to conduct an approved pilot project. Additionally, those schools selected for pilot projects that also operate the School Breakfast Program (7 CFR part 220) and/or the Special Milk Program for Children (7 CFR part 215), may be exempted from the counting and free and reduced price application requirements mandated under these Programs. The Department shall notify the appropriate State agencies and school food authorities of its determination of which requirements are exempted after the Department's selection of pilot projects.
+
+[55 FR 41504, Oct. 12, 1990. Redesignated at 56 FR 32948, July 17, 1991, And further redesignated at 64 FR 50741, Sept. 20, 1999]

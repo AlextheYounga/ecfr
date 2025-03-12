@@ -1,0 +1,3 @@
+##### § 3560.604 Restrictions on use of funds. #####
+
+On-farm labor housing loans may not be used for any purpose prohibited by § 3560.54 except § 3560.54(a)(1). On-farm labor housing may be used to serve migrant workers. In addition, on-farm labor housing loan funds may not be used to provide housing for members of the immediate family of the applicant when the applicant is an individual farm owner, family farm corporation, family farm partnership, or a member of an association of farmers. Immediate family includes mother, father, brothers, sisters, sons, and daughters of the applicant and spouse.

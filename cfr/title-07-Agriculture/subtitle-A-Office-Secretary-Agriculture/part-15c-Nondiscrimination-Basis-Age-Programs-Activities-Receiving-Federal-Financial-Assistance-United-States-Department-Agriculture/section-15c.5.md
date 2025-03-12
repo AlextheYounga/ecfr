@@ -1,0 +1,3 @@
+##### § 15c.5 Information requirements. #####
+
+Each recipient shall maintain records in a form and containing information which the agency determines may be necessary to ascertain whether the recipient is complying with the Age Act and this regulation. Each recipient shall provide the agency any information necessary to determine whether the recipient is in compliance with the Age Act and this rule. Each recipient shall also permit reasonable access to the agency of the books, records, accounts, and other facilities and sources of information to the extent necessary to determine whether a recipient is in compliance with the Age Act and this regulation.

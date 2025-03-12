@@ -1,0 +1,3 @@
+##### § 1783.16 How will the loans given from the revolving fund be serviced? #####
+
+The grant recipient shall be responsible for servicing all loans, to include preparing loan agreements, processing loan payments, reviewing financial statements and debt reserves balances, and other responsibilities such as enforcement of loan terms. Loan servicing will be in accordance with the work plan approved by the Agency when the grant is awarded for as long as any loan made in whole or in part with Agency grant funds is outstanding.

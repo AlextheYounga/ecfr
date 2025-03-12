@@ -1,0 +1,3 @@
+##### § 1485.32 Program income. #####
+
+Any revenue or refunds generated from an activity, e.g., participation fees, proceeds of sales, refunds of value added taxes (VAT), the expenditures for which have been wholly or partially reimbursed with MAP funds, shall be used by the MAP Participant in furtherance of its approved MAP activities in the program period during which the MAP funds are available for obligation by the MAP Participant. The use of such revenue or refunds shall be governed by 7 CFR Part 1485. Interest earned on funds advanced by CCC is not program income.

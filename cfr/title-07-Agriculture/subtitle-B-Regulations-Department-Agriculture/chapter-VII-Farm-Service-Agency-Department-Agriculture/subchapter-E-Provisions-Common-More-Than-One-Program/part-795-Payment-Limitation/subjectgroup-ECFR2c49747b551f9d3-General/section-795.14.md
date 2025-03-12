@@ -1,0 +1,15 @@
+##### § 795.14 Changes in farming operations. #####
+
+(a) Subject to the provisions of this part, a person may exercise his or her right heretofore existing under law, to divide, sell, transfer, rent, or lease his or her property if such division, sale, transfer, rental arrangement, or lease is legally binding as between the parties thereto. However, any document representing a division, sale, transfer, rental arrangement, or lease which is fictitious or not legally binding as between the parties thereto shall be considered to be for the purpose of evading the payment limitation and shall be disregarded for the purpose of applying the payment limitation. Any change in farming operations that would otherwise serve to increase the number of persons for application of the payment limitation must be bona fide and substantive.
+
+(b) A substantive change includes, for example, a substantial increase or decrease in the size of the farm by purchase, sale, or lease; a substantial increase or decrease in the size of allotment by purchase, sale, or lease; a change from a cash lease to a share lease or vice versa; and dissolution of an entity such as a corporation or partnership.
+
+(c) Examples of the types of changes that would not be considered as substantive are the following:
+
+Example 1.A corporation is owned equally by four shareholders. The corporation owns land, buildings, and equipment and in the prior year carried out substantial farming operations. Three of the shareholders propose forming a partnership which they would own equally. The partnership would cash lease land and equipment from the corporation with the objective of having the three partners considered as separate persons for purposes of applying the payment limitation under the provisions of § 795.7 of the regulations.
+
+The formation of such a partnership and the leasing of land from a corporation in which they hold a major interest would not constitute a substantive and bona fide change in operations. Therefore, the corporation and the partners would be limited to a single payment limitation.
+
+Example 2.Three individuals each have individual farming operations which, if continued unchanged, would permit them to have a total of three payment limitations.
+
+The three individuals propose forming a corporation which they would own equally. The corporation would then cash lease a portion of the farmland owned and previously operated by the individuals with the objective of having the corporation considered as a separate person for purposes of applying the payment limitation under the provisions of § 795.8 of the regulations. The formation of such a corporation and the leasing of land from the stockholders would not constitute a substantive and bona fide change in operations. Therefore, the corporation and the three individuals would be limited to three payment limitations.

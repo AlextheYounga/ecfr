@@ -1,0 +1,3 @@
+##### § 900.355 Annual reporting. #####
+
+Determinations of qualification for privileges and exemptions are subject to amendment, termination or suspension if the association does not currently meet the qualification standards. An association found to be qualified pursuant to the Act is required to file an annual report after its annual meeting has been held following the close of its fiscal year. Form DA-24 is used for this purpose. The report form is available at the Dairy Division, Agricultural Marketing Service, U.S. Department of Agriculture, Washington, DC 20250. The association is required to file a copy of its report with the Dairy Division at Washington and with the market administrator of each order under which it operates.

@@ -1,0 +1,3 @@
+##### § 3575.17 Exception authority. #####
+
+The Administrator may, in individual cases, make an exception to any requirement or provision of this subpart or address any omission of this subpart provided the Administrator determines that application of the requirement or provision, or failure to take action in the case of an omission, would adversely affect the Government's financial interest. Requests for exceptions must be in writing by the State Director.

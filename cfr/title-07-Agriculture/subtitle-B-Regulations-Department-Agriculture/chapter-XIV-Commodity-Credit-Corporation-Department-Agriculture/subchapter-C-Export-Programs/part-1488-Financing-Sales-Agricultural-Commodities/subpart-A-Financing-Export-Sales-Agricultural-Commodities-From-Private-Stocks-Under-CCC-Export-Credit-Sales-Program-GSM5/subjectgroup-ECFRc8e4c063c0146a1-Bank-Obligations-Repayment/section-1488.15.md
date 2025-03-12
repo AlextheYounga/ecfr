@@ -1,0 +1,3 @@
+##### § 1488.15 Advance payment. #####
+
+If, before expiration of the financing period, the exporter or the U.S. bank or the agency or branch bank accepts payment from or on behalf of the foreign importer of any part of the account receivable, it shall be remitted promptly to CCC. Such prepayment shall be applied first to interest on the unpaid balance of the account receivable to the date CCC receives such prepayment and then to the principal.

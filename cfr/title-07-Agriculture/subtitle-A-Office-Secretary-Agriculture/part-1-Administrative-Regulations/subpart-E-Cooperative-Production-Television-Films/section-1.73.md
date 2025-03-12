@@ -1,0 +1,3 @@
+##### § 1.73 Responsibility. #####
+
+The Director of Information or his designee will be the authority for the approval of special working relationships on the part of the Department of Agriculture and its agencies. The Director or his designee shall not commit the Department to such special arrangements without proper concurrence and coordination with interested agencies and approval by the appropriate Assistant Secretary or Group Director.

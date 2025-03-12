@@ -1,0 +1,3 @@
+##### § 2.2 Authority of the Secretary to prescribe regulations. #####
+
+The general authority of the Secretary to prescribe regulations governing the work of the Department is based on 5 U.S.C. 301 which provides that the head of an Executive department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use and preservation of its records, papers, and property.

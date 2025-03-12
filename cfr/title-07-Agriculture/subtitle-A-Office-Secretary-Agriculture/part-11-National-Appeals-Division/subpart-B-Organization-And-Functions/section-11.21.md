@@ -1,0 +1,3 @@
+##### § 11.21 Organization. #####
+
+NAD was established on October 13, 1994. Delegation of authority to the Director, NAD, appears at § 2.34 of this title. The organization is comprised of three regional offices: Eastern Regional Office, Indianapolis, Indiana; Southern Regional Office, Memphis, Tennessee; and Western Regional Office, Lakewood, Colorado; and the headquarters staff located in Alexandria, Virginia. NAD is headed by a Director. NAD is assigned responsibility for certain administrative appeals as set forth in subpart A of this part.

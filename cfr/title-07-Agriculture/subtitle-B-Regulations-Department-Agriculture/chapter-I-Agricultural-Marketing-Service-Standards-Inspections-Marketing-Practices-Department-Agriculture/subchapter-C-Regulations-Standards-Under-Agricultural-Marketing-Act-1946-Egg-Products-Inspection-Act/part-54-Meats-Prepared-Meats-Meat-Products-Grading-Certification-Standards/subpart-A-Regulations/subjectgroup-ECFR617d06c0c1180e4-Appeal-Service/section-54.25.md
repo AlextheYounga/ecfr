@@ -1,0 +1,3 @@
+##### § 54.25 Superseded certificates. #####
+
+The appeal certificate shall supersede the original certificate which, thereupon, shall become null and void and shall not thereafter be deemed to show the class, grade, other quality, or compliance of the products described therein. However, the fees charged for the original service shall not be remitted. If the original and all copies of the superseded certificate are not delivered to the official with whom the request for appeal service is filed, the official graders issuing the appeal certificate shall forward notice of such issuance and of the cancellation of the original certificate to such persons as they may deem necessary to prevent fraudulent use of the superseded certificate.

@@ -1,0 +1,3 @@
+##### § 58.718 Flavor ingredients. #####
+
+Flavor ingredients used in process cheese and related products shall be those permitted by the Food and Drug Standards of Identity, and in no way deleterious to the quality or flavor of the finished product. In the case of bulky flavoring ingredients such as pimento, the particles should be, to at least a reasonable degree, uniform in size, shape and consistency. The individual types of flavoring materials should be uniform in color and should impart the characteristic flavor desired in the finished product.

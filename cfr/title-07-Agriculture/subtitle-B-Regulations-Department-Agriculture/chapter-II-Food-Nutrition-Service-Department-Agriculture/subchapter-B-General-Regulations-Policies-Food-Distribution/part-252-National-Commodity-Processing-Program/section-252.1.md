@@ -1,0 +1,7 @@
+##### § 252.1 Purpose and scope. #####
+
+(a) *Purpose.* This part provides a program whereby the Food and Nutrition Service (FNS) and private processors of food may enter into agreements under which the processor will process and distribute designated donated food to eligible recipient agencies. The intent of the program is to encourage private industry, acting in cooperation with the States and FNS, to develop new markets in which donated food may be utilized. It is expected that the processors will use their marketing abilities to encourage eligible recipient agencies to participate in the program. Additionally, recipient agencies will benefit by being able to purchase processed end products at a substantially reduced price.
+
+(b) *Scope.* The terms and conditions set forth in this part are those under which processors may enter into agreements with FNS for the processing of commodities designated by the Secretary of Agriculture and the minimum requirements which NCP processors must meet. Also prescribed are distributing agency and recipient agency responsibilities.
+
+(c) *Eligible recipient agencies.* Recipient agencies shall be eligible to participate in the NCP Program to the extent of their eligibility to receive the food involved in the NCP Program, pursuant to § 250.8 and part 251.

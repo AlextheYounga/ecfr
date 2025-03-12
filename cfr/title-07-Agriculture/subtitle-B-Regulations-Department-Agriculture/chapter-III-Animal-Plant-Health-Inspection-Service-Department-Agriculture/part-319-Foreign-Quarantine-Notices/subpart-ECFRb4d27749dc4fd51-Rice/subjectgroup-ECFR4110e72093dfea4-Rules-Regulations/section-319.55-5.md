@@ -1,0 +1,5 @@
+##### § 319.55-5 Notice of arrival by permittee. #####
+
+Immediately upon the arrival of a shipment at the port of first arrival, the permittee or his agent shall submit a notice, in duplicate, to the Plant Protection and Quarantine Programs, through the United States Collector of Customs, or, in the case of Guam, through the Customs officer of the Government of Guam, on a form provided for that purpose, stating the number of the permit, the quantity in the shipment, the locality where grown, the date of arrival, and, if by rail, the name of the railroad company, the car numbers, and the terminal where the shipment is to be unloaded, or, if by vessel, the name of the vessel and the designation of the dock where the shipment is to be landed.
+
+(Approved by the Office of Management and Budget under control number 0579-0049)[24 FR 10788, Dec. 29, 1959, as amended at 48 FR 57466, Dec. 30, 1983]

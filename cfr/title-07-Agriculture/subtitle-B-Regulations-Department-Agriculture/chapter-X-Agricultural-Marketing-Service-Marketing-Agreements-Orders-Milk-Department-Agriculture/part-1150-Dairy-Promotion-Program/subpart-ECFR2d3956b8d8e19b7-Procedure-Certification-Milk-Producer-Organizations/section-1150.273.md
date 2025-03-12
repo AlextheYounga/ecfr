@@ -1,0 +1,3 @@
+##### § 1150.273 Application for certification. #####
+
+Any organization whose membership consists primarily of milk producers may apply for certification. Applicant organizations should supply information for certification using as a guide “Application for Certification of Organizations,” Form DA-26. Form DA-26 may be obtained from the Dairy Division, Agricultural Marketing Service, United States Department of Agriculture, Washington, DC 20250.

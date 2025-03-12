@@ -1,0 +1,3 @@
+##### § 1710.124 Uniform Relocation Act. #####
+
+Borrowers are required to comply with applicable provisions of 49 CFR part 24, which sets forth the requirements of the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970 (Pub. L. 91-646; 84 Stat. 1894), as amended by the Uniform Relocation Act Amendments of 1987 (Pub. L. 100-17; 101 Stat. 246-256) and the Intermodal Surface Transportation Efficiency Act of 1991.

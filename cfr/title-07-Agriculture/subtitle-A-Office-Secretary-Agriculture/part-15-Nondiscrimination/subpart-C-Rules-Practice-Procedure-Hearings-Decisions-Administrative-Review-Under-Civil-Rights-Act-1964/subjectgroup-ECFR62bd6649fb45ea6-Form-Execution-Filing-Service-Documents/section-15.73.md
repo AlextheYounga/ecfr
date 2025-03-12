@@ -1,0 +1,3 @@
+##### § 15.73 Service. #####
+
+Service shall be made by the Hearing Clerk by personal delivery of one copy to each person to be served or by mailing by first-class mail, or air mail if more than 300 miles, properly addressed with postage prepaid. When a party or intervener has appeared by attorney or representative, service upon such attorney or representative will be deemed proper service. The initial notice of hearing, opportunity to request a hearing, or notice setting a date for a hearing shall be by certified mail, return receipt requested.

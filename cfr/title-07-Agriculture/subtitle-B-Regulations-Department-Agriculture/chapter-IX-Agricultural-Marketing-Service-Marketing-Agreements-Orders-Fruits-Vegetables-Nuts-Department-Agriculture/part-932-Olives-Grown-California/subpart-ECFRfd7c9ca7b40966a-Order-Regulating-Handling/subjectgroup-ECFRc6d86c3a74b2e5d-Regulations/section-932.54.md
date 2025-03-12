@@ -1,0 +1,5 @@
+##### § 932.54 Transfers. #####
+
+Transfers within the area of olives from one handler to another for further handling within the area are permitted. Whenever such a transfer of olives is made, the transferring handler shall comply with all applicable regulations up to the time of such transfer, and the receiving handler shall comply with all applicable regulations subsequent to such transfer: *Provided,* That the disposition obligations referable to transferred natural condition olives pursuant to § 932.51(a)(3) may be transferred along with the olives, in which event the receiving handler shall comply with the disposition obligations. Transfers of olives from within the area to any point outside the area shall be subject to such requirements with respect to inspection, holding, disposition, and reporting as may be established by the Secretary on the basis of recommendations by the committee or other available information.
+
+[33 FR 11267, Aug. 8, 1968, as amended at 36 FR 20357, Oct. 21, 1971; 47 FR 32910, July 30, 1982]

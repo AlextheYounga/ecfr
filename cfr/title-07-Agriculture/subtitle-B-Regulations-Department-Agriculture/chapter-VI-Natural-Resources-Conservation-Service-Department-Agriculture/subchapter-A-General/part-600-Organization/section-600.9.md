@@ -1,0 +1,3 @@
+##### § 600.9 Major land resource area soil survey offices. #####
+
+The United States is divided into 17 major land resource areas (MLRA) for the purpose of soil survey production. Major land resource area soil survey offices (MO) provide the technical leadership, coordination, and quality assurance for all soil survey project activities within the respective MLRA. Each MO serves two or more States (except for the MO in Alaska), and is under the jurisdiction of the State conservationist where the office is located. Each MO is directed and supervised by a leader who is designated by the State conservationist.

@@ -1,0 +1,3 @@
+##### § 1466.31 Compliance with regulatory measures. #####
+
+Participants who carry out conservation practices will be responsible for obtaining the authorities, rights, easements, permits, or other approvals necessary for the implementation, operation, and maintenance of the conservation practices in keeping with applicable laws and regulations. Participants will be responsible for compliance with all laws and for all effects or actions resulting from the participant's performance under the contract.

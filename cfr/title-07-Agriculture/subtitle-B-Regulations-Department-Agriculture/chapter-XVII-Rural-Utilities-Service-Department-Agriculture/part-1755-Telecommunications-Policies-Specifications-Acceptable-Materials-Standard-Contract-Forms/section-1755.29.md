@@ -1,0 +1,5 @@
+##### § 1755.29 Promulgation of new or revised contract forms. #####
+
+RUS may, from time to time, promulgate new contract forms or revise or eliminate existing contract forms. In so doing, RUS shall publish a notice of rulemaking in the Federal Register announcing, as appropriate, a revision in, or a proposal to amend § 1755.30(c), List of telecommunications standard contract forms. The amendment may change the existing identification of a listed contract form by, for example, changing the issuance date of the listed contract form or identifying a new required contract form. The notice of rulemaking will describe the new standard contract form or substantive change in the listed contract form, as the case may be, and the issues involved. The standard contract form or relevant portions thereof may be appended to the supplementary information section of the notice of rulemaking. As appropriate, the notice of rulemaking shall provide an opportunity for interested persons to provide comments. RUS shall send, by regular or electronic mail, a copy of each such Federal Register document to all borrowers.
+
+[64 FR 6500, Feb. 10, 1999]

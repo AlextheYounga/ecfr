@@ -1,0 +1,3 @@
+##### § 29.80 Announcing grades. #####
+
+The grade of each lot of tobacco as certified by an official inspector on a designated market shall be clearly announced by the warehouseman or his representative at the time the lot is offered in the auction: *Provided,* That the Director may waive the requirement of announcing grades in the auction if he finds it impractical for the warehouseman to render this service.

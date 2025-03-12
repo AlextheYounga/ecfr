@@ -1,0 +1,3 @@
+##### § 1216.44 Vacancies. #####
+
+To fill any vacancy resulting from the failure to qualify of any person selected as a member or as an alternate member of the Board, or in the event of death, removal, resignation, or disqualification of any member or alternate member of the Board, a successor for the unexpired term of such member or alternate member of the Board shall be nominated and selected in the manner specified in § 1216.40.

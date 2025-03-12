@@ -1,0 +1,21 @@
+##### § 1944.422 Audit and other report requirements. #####
+
+The grantee must submit an audit to the appropriate Rural Development District Office annually (or biennially if a State or local government with authority to do a less frequent audit requests it) and the earlier of 30 calendar days after receipt of the auditor's report or nine months after the end of the grantee's audit period. The audit, conducted by the grantee's auditors, is to be performed in accordance with Generally Accepted Government Auditing Standards (GAGAS), using the publication “Standards for Audit of Governmental Organizations, Programs, Activities and Functions” developed by the Comptroller General of the United States in 1981, and any subsequent revisions. In addition, the audits are also to be performed in accordance with 2 CFR part 200 as adopted by USDA through 2 CFR part 400 and Rural Development requirements as specified in this subpart. Audits of borrower loan funds will be required. The number of borrower accounts audited will be determined by the auditor. In incidences where it is difficult to determine the appropriate number of accounts to be audited, auditors should be authorized by the State Director to audit the lesser of 10 loans or 10 percent of total loans.
+
+(a) *Nonprofit organizations and others.* If determined necessary, these organizations are to be audited in accordance with Rural Development requirements in accordance with 2 CFR part 200 as adopted by USDA through 2 CFR part 400. These requirements also apply to public hospitals, public colleges, and universities if they are excluded from the audit requirements of paragraph (b) of this section.
+
+(1) An audit conducted by the grantee's auditor shall be supplied to the Rural Development District Director as soon as possible but in no case later than ninety (90) days following the period covered by the grant agreement.
+
+(2) Auditors shall promptly notify United States Department of Agriculture's Office of the Inspector General Regional Inspector General and the Rural Development District Office, in writing, of any indication of fraud, abuse, or illegal acts in grantees use of grant funds or in the handling of borrowers accounts.
+
+(3) Nonprofit organizations that receive less than $25,000 a year in Federal financial assistance need not be audited.
+
+(b) *State and local governments and Indian tribes.* These organizations are to be audited in accordance with this subpart and 2 CFR part 200 as adopted by USDA through 2 CFR part 400. The grantee will forward completed audits to the appropriate Federal Cognizant agency and a copy to the Rural Development District Director. “Cognizant agency” for audits is defined at 2 CFR 200.18 as the Federal agency designated to carry out the responsibilities described in § 200.513 Responsibilities, paragraph (a). The cognizant agency for audit is not necessarily the same as the cognizant agency for indirect costs. A list of cognizant agencies for audit may be found at the FAC Web site. Within USDA, the OIG shall fulfill cognizant agency responsibilities. Smaller grantees not assigned a cognizant agency by OMB should contact the Federal agency that provided the most funds. When USDA is designated as the cognizant agency or when it has been determined by the borrower that Rural Development provided the major portion of Federal financial assistance, the State Director will contact the appropriate USDA OIG Regional Inspector General. Rural Development and the borrower shall coordinate all proposed audit plans with the appropriate USDA OIG.
+
+(1) State and local governments and Indian tribes that receive $25,000 or more a year in Federal financial assistance shall have an audit made in accordance with 2 CFR part 200 as adopted by USDA through 2 CFR part 400.
+
+(2) State and local and Indian tribes that receive less than $25,000 a year in Federal financial assistance shall be exempt from 2 CFR part 200 as adopted by USDA through 2 CFR part 400.
+
+(3) Public hospitals and public colleges and universities may be excluded by the State Director from OMB Circular A-128 audit requirements. If such entities are excluded, audits shall be made in accordance with paragraph (a) of this section.
+
+[55 FR 41833, Oct. 16, 1990; 56 FR 19253, Apr. 26, 1991, as amended at 79 FR 76010, Dec. 19, 2014; 81 FR 7698, Feb. 16, 2016]

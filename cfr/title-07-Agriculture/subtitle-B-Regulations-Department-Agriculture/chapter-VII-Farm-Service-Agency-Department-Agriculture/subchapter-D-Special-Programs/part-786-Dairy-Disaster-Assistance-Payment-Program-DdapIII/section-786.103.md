@@ -1,0 +1,9 @@
+##### § 786.103 Time and method of application. #####
+
+(a) Dairy producers may obtain an application, in person, by mail, by telephone, or by facsimile from any FSA county office. In addition, applicants may download a copy of the application at *http://www.sc.egov.usda.gov.*
+
+(b) A request for benefits under this part must be submitted on a completed DDAP-III application. Applications and any other supporting documentation must be submitted to the FSA county office serving the county where the dairy operation is located, but, in any case, must be received by the FSA county office by the close of business on the date established by the Deputy Administrator. Applications not received by the close of business on such date will be disapproved as not having been timely filed and the dairy producer will not be eligible for benefits under this program.
+
+(c) All persons who share in the milk production of the dairy operation and risk of the dairy operation's total production must certify to the information on the application before the application will be considered complete.
+
+(d) Each dairy producer requesting benefits under this part must certify to the accuracy and truthfulness of the information provided in their application and any supporting documentation. Any information entered on the application will be considered information from the applicant regardless of who entered the information on the application. All information provided is subject to verification by FSA. Refusal to allow FSA or any other agency of the Department of Agriculture to verify any information provided may result in a denial of eligibility. Furnishing the information is voluntary; however, without it program benefits will not be approved. Providing a false certification to the Government may be punishable by imprisonment, fines, and other penalties or sanctions.

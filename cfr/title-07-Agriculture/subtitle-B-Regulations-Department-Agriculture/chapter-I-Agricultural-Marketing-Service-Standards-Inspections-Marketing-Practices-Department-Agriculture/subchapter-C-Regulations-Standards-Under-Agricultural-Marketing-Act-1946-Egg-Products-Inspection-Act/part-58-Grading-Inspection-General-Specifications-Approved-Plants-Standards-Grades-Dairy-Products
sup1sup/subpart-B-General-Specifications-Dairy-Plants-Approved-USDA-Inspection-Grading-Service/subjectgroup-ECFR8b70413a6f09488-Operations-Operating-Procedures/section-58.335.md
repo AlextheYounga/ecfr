@@ -1,0 +1,3 @@
+##### § 58.335 Quality control tests. #####
+
+All milk, cream and related products are subject to inspection for quality and condition throughout each processing operation. Quality control tests shall be made on flow samples as often as necessary to check the effectiveness of processing and manufacturing and as an aid in correcting deficiencies in processing and manufacturing. Routine analysis shall be made on raw materials and finished products to assure adequate microbiological, composition and chemical control.

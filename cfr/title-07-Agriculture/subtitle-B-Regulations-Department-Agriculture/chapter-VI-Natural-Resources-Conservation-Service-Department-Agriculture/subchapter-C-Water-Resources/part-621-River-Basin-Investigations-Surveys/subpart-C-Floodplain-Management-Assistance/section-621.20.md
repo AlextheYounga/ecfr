@@ -1,0 +1,3 @@
+##### § 621.20 Description. #####
+
+Floodplain management studies provide needed information and assistance to local and State entities so that they can implement programs for reducing existing and future flood damages in rural and urban communities. Assistance is targeted to communities where flood damage is a serious concern and local governments are sincerely interested in taking action to reduce damage.

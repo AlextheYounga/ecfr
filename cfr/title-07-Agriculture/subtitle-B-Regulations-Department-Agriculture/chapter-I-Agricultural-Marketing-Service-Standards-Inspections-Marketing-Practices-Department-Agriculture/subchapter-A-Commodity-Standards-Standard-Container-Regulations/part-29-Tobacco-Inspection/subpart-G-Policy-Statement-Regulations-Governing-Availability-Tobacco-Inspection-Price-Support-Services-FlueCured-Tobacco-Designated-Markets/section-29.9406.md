@@ -1,0 +1,17 @@
+##### § 29.9406 Failure of warehouse to comply with opening and selling schedule. #####
+
+(a) Each warehouse shall comply with opening and selling schedules issued by the Secretary for designated and undesignated flue-cured tobacco.
+
+(b) For each of any two consecutive sales days during the marketing season a warehouse may exceed its scheduled sales opportunity for designated or undesignated tobacco, but the pounds sold during the second or third sales day must be adjusted so the warehouse will be back in compliance at the end of the third sales day or no tobacco inspection or price support services will be made available on the next succeeding sales day. Any such adjustment which is within 100 pounds of the required reduction shall be considered as in compliance with this section. During the closeout period, if a warehouse sells tobacco in excess of that allowed by the sales schedule on either of the last two sales days of the marketing season, then such excess sales shall be deducted from its scheduled sales opportunity on the first, or more, sales days of the next marketing season.
+
+(c) The amount of the poundage adjustment specified in paragraph (b) of this section for a warehouse selling in excess of the sales schedule shall be as follows:
+
+(1) If the excess is 5,000 pounds or less of designated producer tobacco, the adjustment in producer sales opportunity shall be one pound for each pound of excess; sales in excess of 5,000 pounds shall be a violation of the sales schedule and the adjustment for the first violation shall be 5,000 pounds plus the larger of 3 pounds for each pound in excess of 5,000 pounds or 5,000 pounds; for the second violation, the adjustment shall be 5,000 pounds plus the larger of 5 pounds for each pound in excess of 5,000 or 15,000 pounds; and for the third and subsequent violations, the adjustment shall be 5,000 pounds plus the larger of 5 pounds for each pound in excess of 5,000 pounds or 50 percent of a scheduled day's sales opportunity.
+
+(2) If the excess is 1,000 pounds or less of undesignated producer tobacco, the adjustment in producers sales opportunity is one pound for each pound of excess; if the excess is larger than 1,000 pounds, the adjustment is 1,000 pounds plus the larger of 3 pounds for each pound in excess of 1,000 or 2,000 pounds.
+
+(3) If the excess is designated producer tobacco that is not eligible for sale at the warehouse on the day of the sale, the adjustment in producers sales opportunity for the first violation is the larger of 3 pounds for each pound in excess or 5,000 pounds, and for the second and succeeding violations, the larger of 5 pounds for each pound in excess or 10,000 pounds.
+
+(d) If, on any sales day, a warehouse does not sell the full quantity of designated or undesignated tobacco authorized to be sold at such warehouse, the designated or undesignated sales opportunity at such warehouse on the next immediate sales day shall automatically be increased by the unsold quantity except that no such increase in sales opportunity shall exceed 5,000 pounds for designated tobacco or 500 pounds for undesignated tobacco.
+
+[46 FR 56156, Nov. 16, 1981, as amended at 65 FR 46087, July 27, 2000]

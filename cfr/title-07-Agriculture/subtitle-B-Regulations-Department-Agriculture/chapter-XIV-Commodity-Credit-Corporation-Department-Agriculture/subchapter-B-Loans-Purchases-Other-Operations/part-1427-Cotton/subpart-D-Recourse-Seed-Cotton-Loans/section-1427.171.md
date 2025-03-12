@@ -1,0 +1,5 @@
+##### § 1427.171 Approved storage. #####
+
+Approved storage consists of storage located on or off the producer's farm (excluding public warehouses) that is determined by a county committee representative to afford adequate protection against loss or damage and is located within a reasonable distance, as determined by CCC, from an approved gin. If the cotton is not stored on the producer's farm, the producer must furnish satisfactory evidence that the producer has the authority to store the cotton on such property and that the owner of the property has no lien for such storage against the cotton. The producer must provide satisfactory evidence that the producer and any person having an interest in the cotton including CCC, have the right to enter the premises to inspect and examine the cotton and permit a reasonable time to such persons to remove the cotton from the premises.
+
+[80 FR 136, Jan. 2, 2015]

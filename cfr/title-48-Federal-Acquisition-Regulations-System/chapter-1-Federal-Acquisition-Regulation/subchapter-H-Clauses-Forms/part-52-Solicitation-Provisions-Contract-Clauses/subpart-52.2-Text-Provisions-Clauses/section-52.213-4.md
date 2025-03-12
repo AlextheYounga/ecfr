@@ -1,6 +1,6 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 81 FR 93480, December 20, 2016.
+Link to an amendment published at 81 FR 93480, December 20, 2016.Link to an amendment published at 82 FR 4723, Jan. 13, 2017.
 
 As prescribed in 13.302-5(d), insert the following clause:
 
@@ -30,7 +30,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JA
 
 (iii) 52.232-11, Extras (APR 1984).
 
-(iv) 52.232-25, Prompt Payment (JUL 2013).
+(iv) 52.232-25, Prompt Payment (JAN 2017)
 
 (v) 52.232-39, Unenforceability of Unauthorized Obligations (JUN 2013).
 

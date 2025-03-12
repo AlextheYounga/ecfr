@@ -1,0 +1,3 @@
+##### § 160.27 Containers to be made ready. #####
+
+The interested person shall cause the naval stores to be made available, and shall provide any held required to remove the bungs or heads, or otherwise open the containers for sampling, to spike the rosin or extract the sampler devices from the barrels or drums, to rebung or otherwise close the containers, to handle the commodity for weighing, and to mark the containers at the direction of the official inspector.

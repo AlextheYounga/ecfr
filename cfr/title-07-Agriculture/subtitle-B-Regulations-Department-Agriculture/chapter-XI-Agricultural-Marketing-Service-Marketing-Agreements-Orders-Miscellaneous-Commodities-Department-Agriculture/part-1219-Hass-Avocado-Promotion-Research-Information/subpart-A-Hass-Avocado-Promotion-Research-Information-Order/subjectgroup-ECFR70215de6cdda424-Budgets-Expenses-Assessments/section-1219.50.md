@@ -1,0 +1,21 @@
+##### § 1219.50 Budgets, programs, plans, and projects. #####
+
+(a) The Board shall submit to the Secretary, on a fiscal period basis, annual budgets of its anticipated expenses and disbursements of the Board in the administration of this subpart, including the projected costs of Hass avocado promotion, industry information, consumer information, and related research programs, plans, and projects. The first budget shall cover such period as may remain before the beginning of the next fiscal period. If such fiscal period is 90 days or less, the first budget shall cover such period, as well as the next fiscal period. Thereafter, the Board shall submit budgets for each succeeding fiscal period not less than 60 days before the beginning of such fiscal period.
+
+(b) The Board shall receive and evaluate, or on its own initiative develop programs, plans and projects for Hass avocado promotion, industry information, consumer information as well as related research. The Board shall submit to the Secretary for approval any program, plan, or project authorized in this subpart. Such programs, plans or projects shall provide for:
+
+(1) The establishment, implementation, issuance, effectuation, administration, and evaluation of appropriate programs, plans, or projects for advertising, sales promotion, other promotion, and consumer information with respect to Hass avocados directed toward increasing the general demand for Hass avocados in the United States. Funds shall be available as necessary to carry out this section;
+
+(2) The establishment, implementation, issuance, effectuation, administration, and evaluation of appropriate programs, plans, and projects designed to strengthen the position of the Hass avocado industry in the domestic marketplace; to maintain, develop, and expand markets for Hass avocados in the United States; to lead to the development of new marketing strategies; to advance the image and desirability of, increase the efficiency of, and encourage further development of the Hass avocado industry; and to provide for the disbursement of necessary funds for the purposes described in this section;
+
+(3) The establishment, implementation, issuance, effectuation, administration, and evaluation of programs, plans, and projects for marketing development research; research on the sale, distribution, marketing, use, quality, and nutritional value of Hass avocados; and other research with respect to Hass avocado marketing, promotion, industry information, or consumer information, including the creation of new products thereof. Information acquired from such plans and projects shall be disseminated as appropriate. Funds shall be available as necessary to carry out this section; and
+
+(4) The Board to enter into contracts or make agreements for the development and carrying out of research, promotion, and information, and pay for the costs of such contracts or agreements with funds collected pursuant to § 1219.54.
+
+(c) A budget, program, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, program, plan, or project by the Secretary. If the Secretary fails to provide notice to the Board or approval or disapproval of a budget, program, plan, or project within 45 days after receipt, such budget, program, plan, or project shall be deemed approved by the Secretary and may be implemented by the Board.
+
+(d) The Board, from time to time, may seek advice and consult with experts from the production, import, wholesale, and retail segments of the Hass avocado industry to assist in the development of promotion, industry information, consumer information, and related research programs, plans, and projects. For these purposes, the Board may appoint special committees composed of persons other than Board members. A committee so appointed shall consult directly with the Board.
+
+(e) Programs must be conducted throughout the year to reflect the periods when imported and domestic Hass avocados are in the U.S. marketplace.
+
+(f) The Board shall consult with both the Association and importer associations on programs, plans, and projects for generic promotions.

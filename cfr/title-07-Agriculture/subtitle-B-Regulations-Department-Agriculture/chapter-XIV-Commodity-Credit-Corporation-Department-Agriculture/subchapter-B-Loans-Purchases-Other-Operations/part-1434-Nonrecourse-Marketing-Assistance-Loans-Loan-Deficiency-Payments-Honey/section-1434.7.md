@@ -1,0 +1,7 @@
+##### § 1434.7 Approved storage. #####
+
+(a) Loans will be made only on honey in approved storage, which will consist of a storage structure located on or off the farm that is determined by CCC to be under the control of the producer and affords safe storage for honey pledged as collateral for a loan. If the honey located in a farm storage structure is pledged as collateral that secures more than one loan, the honey must be segregated so as to preserve the identity of the honey securing such loan. Honey securing a loan must also be segregated from any honey not pledged as collateral for a loan that is stored in the same structure.
+
+(b) Producers may also obtain loans on honey packed in eligible containers and stored in facilities owned by third parties in which the honey of more than one person is stored if the honey that is to be pledged as collateral for a loan and that is stored identity preserved or is segregated from all other honey. Each container of the segregated quantity of honey must be marked with the producer's name, loan number, and lot number so as to identify the honey from other honey stored in the structure.
+
+[66 FR 15177, Mar. 15, 2001, as amended at 80 FR 139, 141, Jan. 2, 2015]

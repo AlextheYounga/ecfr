@@ -1,0 +1,3 @@
+##### § 28.957 Special tests and fees. #####
+
+Tests may be performed for cooperating agencies and organizations to the extent that available facilities will permit, subject to the payment of fees as determined by the Director. Special tests and services not listed in § 28.956 may be performed to the extent that available facilities will permit, subject to the payment of fees determined by the Director.

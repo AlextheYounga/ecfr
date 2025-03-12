@@ -1,0 +1,3 @@
+##### § 15f.6 What must I say or include in my Section 741 Complaint Request? #####
+
+If you must file a Section 741 Complaint Request, it should include a copy of your original complaint, a request in writing that USDA consider the complaint in accordance with these procedures, a statement as to when your complaint was filed with USDA, and any other evidence you consider necessary to prove that your complaint is an eligible complaint suitable for consideration under these procedures.

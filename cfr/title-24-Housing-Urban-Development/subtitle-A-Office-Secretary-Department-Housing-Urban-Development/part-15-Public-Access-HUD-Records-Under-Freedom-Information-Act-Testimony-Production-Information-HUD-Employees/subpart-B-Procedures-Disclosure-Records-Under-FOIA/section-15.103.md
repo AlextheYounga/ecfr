@@ -1,5 +1,7 @@
 ##### § 15.103 Timing of responses to requests. #####
 
+Link to an amendment published at 82 FR 3622, Jan. 12, 2017.
+
 (a) *In general.* HUD will generally respond to a FOIA request within 20 working days, depending on the size of the request. The 20-day period will begin on the day the request is received by the appropriate component of HUD, but in any event not later than 10 working days after the request is received by any component of HUD designated to receive FOIA requests.
 
 (b) *Tolling the 20-day time period.* Under the OPEN Government Act of 2007, HUD may toll the 20-day period:

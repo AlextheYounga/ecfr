@@ -1,0 +1,9 @@
+##### § 215.6 Use of funds. #####
+
+(a) Federal funds made available under the Program shall be used to encourage the consumption of milk through reimbursement payments to schools and child-care institutions in connection with the purchase and service of milk to children in accordance with the provisions of this part: *Provided, however,* That, with the approval of FNS, any State agency, or FNSRO where applicable, may reserve for use in carrying out special developmental projects an amount equal to not more than 1 per centum of the Federal funds so made available for any fiscal year.
+
+(b) Whoever embezzles, willfully misapplies, steals, or obtains by fraud any funds, assets, or property provided under this part, whether received directly or indirectly from the Department, shall: (1) If such funds, assets, or property are of a value of $100 or more, be fined not more than $25,000 or imprisoned not more than 5 years or both; or (2) if such funds, assets, or property are of a value of less than $100, be fined not more than $1,000 or imprisoned not more than one year or both.
+
+(c) Whoever receives, conceals, or retains to his use or gain funds, assets, or property provided under this part, whether received directly or indirectly from the Department, knowing such funds, assets, or property have been embezzled, willfully misapplied, stolen, or obtained by fraud, shall be subject to the same penalties provided in paragraph (b) of this section.
+
+(Sec. 10(a), Pub. L. 95-627, 92 Stat. 3623 (42 U.S.C. 1760; sec. 10(d)(3), Pub. L. 95-627, 92 Stat. 3624 (42 U.S.C. 1757); sec. 14, Pub. L. 95-627, 92 Stat. 3625-3626; 44 U.S.C. 3506))[Amdt. 14, 41 FR 31174, July 27, 1976, as amended by Amdt. 18, 44 FR 37898, June 29, 1979; 47 FR 746, Jan. 7, 1982; 64 FR 50741, Sept. 20, 1999]

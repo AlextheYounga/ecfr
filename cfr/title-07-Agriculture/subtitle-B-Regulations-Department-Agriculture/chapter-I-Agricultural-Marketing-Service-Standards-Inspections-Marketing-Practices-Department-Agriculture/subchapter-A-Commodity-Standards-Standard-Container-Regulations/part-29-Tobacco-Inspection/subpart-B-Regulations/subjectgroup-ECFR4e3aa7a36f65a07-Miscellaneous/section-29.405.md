@@ -1,0 +1,5 @@
+##### § 29.405 Inspection by submitted samples. #####
+
+The Director, in lieu of onsite inspection, may approve submission by the importer of samples where time, geographical distance, or availability of inspectors prevent a timely onsite inspection, or where tobacco is classified as a “temporary importation under bond” as defined in 19 CFR 10.31 *et seq.* The importer shall certify that sampling was conducted in accordance with procedures approved by the Director. All tobacco inspected by submitted sample is subject to spot-checking at the discretion of the Director. Submitted samples shall be disposed of in a manner approved by the Director unless return of the sample is requested by the importer at the time of submission. Samples will only be returned at the importer's expense.
+
+[49 FR 27468, July 13, 1984]

@@ -1,0 +1,3 @@
+##### § 1215.26 Removal. #####
+
+If a member of the Board consistently refuses to perform the duties of a member of the Board, or if a member of the Board is known to be engaged in acts of dishonesty or willful misconduct, the Board may recommend to the Secretary that the member be removed from office. Further, without recommendation of the Board, a member may be removed by the Secretary upon showing of adequate cause, including the failure by a member to submit reports or remit assessments required under this part, if the Secretary determines that such member's continued service will be detrimental to the achievement of the purposes of the Act.

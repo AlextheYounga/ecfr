@@ -1,0 +1,5 @@
+##### § 920.33 Expenses and compensation. #####
+
+(a) Except for the public member and alternate, the members of the committee, and alternates when acting as members, shall serve without compensation but shall be reimbursed for expenses necessarily incurred by them in the performance of their duties under this part: *Provided,* That the committee at its discretion may request the attendance of one or more alternates, including the public alternate, at any or all meetings notwithstanding the expected or actual presence of the respective members and may pay expenses as aforesaid.
+
+(b) The public member and alternate shall be reimbursed for expenses necessarily incurred by them in the performance of their duties under this part, and shall receive per diem compensation established by the committee.

@@ -1,0 +1,3 @@
+##### § 1980.403 Citizenship of borrowers. #####
+
+Loans to individuals will be made or guaranteed only to those who are citizens of the United States or reside in the United States after being legally admitted for permanent residence. At least 51 percent of the outstanding interest in any corporation or organization-type applicant must be owned by those who are either citizens of the United States or reside in the United States after being legally admitted for permanent residence.

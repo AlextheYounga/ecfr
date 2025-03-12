@@ -1,0 +1,3 @@
+##### § 15f.14 What happens after I file a request for a hearing? #####
+
+Within 20 days after you have filed your request for a hearing, ALJ shall file with the Docketing Clerk a notice stating the time, place, and manner of the hearing. The ALJ will have due regard for the public interest and the convenience and necessity of the parties in determining the time, place, and manner of the hearing. The notice will state whether the hearing will be conducted by telephone, audiovisual telecommunication, or personal attendance of any individual expected to participate in the hearing. The Docketing Clerk will send copies of the notice to the complainant and to all other parties to the proceeding.

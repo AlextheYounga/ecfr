@@ -1,0 +1,3 @@
+##### § 1730.4 Definitions. #####
+
+Terms used in this part have the meanings set forth in 7 CFR Part 1710.2. References to specific RUS forms and other RUS documents, and to specific sections or lines of such forms and documents, shall include the corresponding forms, documents, sections and lines in any subsequent revisions of these forms and documents. In addition to the terms defined in 7 CFR Part 1710.2, the term *Prudent Utility Practice* has the meaning set forth in Article 1, Section 1.01 of Appendix A to Subpart B of 7 CFR Part 1718—Model Form of Mortgage for Electric Distribution Borrowers, for the purposes of this Part.

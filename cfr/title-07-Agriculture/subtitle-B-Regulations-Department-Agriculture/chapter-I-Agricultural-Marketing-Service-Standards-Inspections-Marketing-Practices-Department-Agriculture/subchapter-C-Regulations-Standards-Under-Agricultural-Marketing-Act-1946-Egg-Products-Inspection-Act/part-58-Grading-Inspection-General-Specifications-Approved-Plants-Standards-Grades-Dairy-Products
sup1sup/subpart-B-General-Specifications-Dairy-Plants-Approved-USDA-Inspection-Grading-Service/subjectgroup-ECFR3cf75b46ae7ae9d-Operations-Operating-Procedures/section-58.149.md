@@ -1,0 +1,5 @@
+##### § 58.149 Alternate quality control programs for dairy products. #####
+
+(a) When a plant has in operation an acceptable quality control program which is approved by the Administrator as being effective in obtaining results comparable to or higher than the quality control program as outlined in this subpart, then such a program may be accepted in lieu of the program herein prescribed.
+
+(b) Where a minimum number of samples per batch of product, or per unit of time on continuous production runs are not specified, the phrase “as many samples shall be taken as is necessary to assure compliance to specific quality requirements” is used. Acceptable performance of this would be any method approved by the Administrator as meeting sound statistical methods of selecting samples and determining the number of samples to be taken.

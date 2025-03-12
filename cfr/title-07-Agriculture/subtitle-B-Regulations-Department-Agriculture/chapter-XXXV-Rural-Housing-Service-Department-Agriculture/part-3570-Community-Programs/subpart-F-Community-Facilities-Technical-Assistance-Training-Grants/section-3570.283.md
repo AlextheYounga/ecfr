@@ -1,0 +1,3 @@
+##### § 3570.283 Exception authority. #####
+
+The Administrator may make an exception to any requirement or provision of this subpart, if such an exception is necessary to implement the intent of the authorizing statutes in a time of national emergency or in accordance with a Presidentially-declared disaster, or on a case-by-case basis, when such an exception is in the best financial interest of the Federal Government and is otherwise not in conflict with applicable laws. No exceptions, however, will be granted for Applicant, Ultimate Recipient, or Project eligibility.

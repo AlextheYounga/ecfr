@@ -1,0 +1,3 @@
+##### § 1951.2 Policy. #####
+
+Borrowers are expected to pay their debts to the Agency in accordance with their agreements and ability to pay. They will be encouraged to pay ahead of schedule, consistent with sound financial management. When borrowers have acted in good faith and have exercised due diligence in an effort to pay their indebtedness but cannot pay on schedule because of circumstances beyond their control, servicing actions will be consistent with the best interests of the borrower and the Government. It is the policy of this agency to service borrower loan account without regard to race, color, religion, sex, marital status, national origin, age, physical or mental handicap (borrower must possess the capacity to enter into a legal contract for services).

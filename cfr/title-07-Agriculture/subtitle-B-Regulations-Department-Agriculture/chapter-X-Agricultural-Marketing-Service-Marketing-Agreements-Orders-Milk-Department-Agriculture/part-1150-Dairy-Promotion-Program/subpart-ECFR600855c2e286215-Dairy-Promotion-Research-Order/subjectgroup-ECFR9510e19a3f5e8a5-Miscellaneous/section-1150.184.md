@@ -1,0 +1,3 @@
+##### § 1150.184 Patents, copyrights, inventions and publications. #####
+
+Any patents, copyrights, trademarks, inventions or publications developed through the use of funds collected under the provisions of this subpart shall be the property of the U.S. Government as represented by the Board, and shall, along with any rents, royalties, residual payments, or other income from the rental, sale, leasing, franchising, or other uses of such patents, copyrights, inventions, or publications, inure to the benefit of the Board. Upon termination of this subpart, § 1150.181 shall apply to determine disposition of all such property.

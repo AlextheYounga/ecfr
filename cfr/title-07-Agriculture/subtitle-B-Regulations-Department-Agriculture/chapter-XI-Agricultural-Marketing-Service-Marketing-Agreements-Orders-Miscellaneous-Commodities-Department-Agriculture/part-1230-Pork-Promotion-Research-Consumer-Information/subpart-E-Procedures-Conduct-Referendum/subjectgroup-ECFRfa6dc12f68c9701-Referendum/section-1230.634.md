@@ -1,0 +1,3 @@
+##### § 1230.634 FSA county office report. #####
+
+The FSA county office will notify the FSA State office of the results of the referendum. Each FSA county office will transmit the results of the referendum in its county to the FSA State office. Such report will include the information listed in § 1230.633. The results of the referendum in each county will be made available to the public, after the results of the referendum are announced by the Secretary. A copy of the report of results will be posted for 30 days in the FSA county office in a conspicuous place accessible to the public and a copy will be kept on file in the FSA county office for a period of at least 12 months after the referendum.

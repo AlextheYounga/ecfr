@@ -1,0 +1,3 @@
+##### § 1788.50 Acceptable sureties. #####
+
+Surety companies providing contractors' bonds shall be listed as acceptable sureties in the U.S. Department of Treasury Circular No. 570. The circular is maintained through periodic publication in the Federal Register and is available on the Internet under ftp://ftp.fedworld.gov/pub/tel/sureties.txt, and on the Department of the Treasury's computer bulletin board at 202-874-6817.

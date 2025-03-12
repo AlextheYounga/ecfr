@@ -1,0 +1,3 @@
+##### § 981.36 Vacancy. #####
+
+To fill any vacancy occasioned by the death, removal, resignation, or disqualification of any member or alternate of the Board, a successor for his unexpired term shall be selected by the Secretary after consideration of recommendations which may be submitted by members of the group for which such vacancy exists, unless such selection is deemed unnecessary by the Secretary.

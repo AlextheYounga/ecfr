@@ -1,0 +1,5 @@
+##### § 3.80 Written agreement to repay debts as alternative to salary offset. #####
+
+(a) *Notification by employee.* The employee may propose, in response to a Notice of Intent to Offset Salary, a written agreement to repay the debt as an alternative to salary offset. Any employee who wishes to do this must submit a proposed written agreement to repay the debt that is received by USDA within 30 days of the date of the Notice of Intent to Offset Salary or 15 days after the date of a hearing decision issued under § 3.78.
+
+(b) *USDA response.* USDA will notify the employee whether the employee's proposed written agreement for repayment is acceptable. USDA may accept a repayment agreement instead of proceeding by offset. In making this determination, USDA will balance the USDA interest in collecting the debt against hardship to the employee. If the debt is delinquent and the employee has not disputed its existence or amount, USDA will accept a repayment agreement, instead of offset, for good cause such as, if the employee is able to establish that offset would result in undue financial hardship or would be against equity and good conscience.

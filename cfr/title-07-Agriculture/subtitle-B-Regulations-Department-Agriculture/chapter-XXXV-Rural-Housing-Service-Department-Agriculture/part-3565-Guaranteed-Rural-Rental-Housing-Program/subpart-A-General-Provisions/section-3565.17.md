@@ -1,0 +1,3 @@
+##### § 3565.17 Demonstration programs. #####
+
+To test ways to expand the availability or enhance the effectiveness of the guarantee program, or for similar purposes, the Agency may, from time to time, propose demonstration programs that use loan guarantees or interest credit. Toward this end, the Agency may enter into special partnerships with lenders, financial intermediaries, or others to carry out one or more elements of a demonstration program. Demonstration programs will be publicized by notices in the Federal Register.

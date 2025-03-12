@@ -1,0 +1,3 @@
+##### § 1703.100 Purpose. #####
+
+The purpose of the Distance Learning and Telemedicine (DLT) Loan and Grant Program is to encourage and improve telemedicine services and distance learning services in rural areas through the use of telecommunications, computer networks, and related advanced technologies by students, teachers, medical professionals, and rural residents. This subpart describes the general policies for administering the DLT program. Subpart E contains the policies and procedures related to grants; subpart F contains the policies and procedures related to a combination loan and grant; and subpart G contains the policies and procedures related to loans.

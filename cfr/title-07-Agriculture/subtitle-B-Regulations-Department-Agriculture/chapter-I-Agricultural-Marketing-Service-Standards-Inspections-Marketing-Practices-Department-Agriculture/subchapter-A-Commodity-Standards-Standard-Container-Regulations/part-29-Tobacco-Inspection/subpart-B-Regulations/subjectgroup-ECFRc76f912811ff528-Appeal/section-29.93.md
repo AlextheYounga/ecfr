@@ -1,0 +1,3 @@
+##### § 29.93 When appeal may be refused. #####
+
+If it shall appear that the reasons stated in an appeal are frivolous or unsubstantial or that the act or this subpart have not been complied with, the appeal may be denied or dismissed. When an appeal is denied or dismissed, the appeal inspector shall (a) notify the appellant by telegraph or in writing giving the reason for such denial or dismissal; (b) mail a copy of such notification to the Division; and (c) return or release to the appellant, or other person designated by him, any certificate or sample which was filed with the appeal. All expenses incurred in connection with an appeal prior to its refusal or dismissal shall be paid by the appellant, as provided in § 29.126.

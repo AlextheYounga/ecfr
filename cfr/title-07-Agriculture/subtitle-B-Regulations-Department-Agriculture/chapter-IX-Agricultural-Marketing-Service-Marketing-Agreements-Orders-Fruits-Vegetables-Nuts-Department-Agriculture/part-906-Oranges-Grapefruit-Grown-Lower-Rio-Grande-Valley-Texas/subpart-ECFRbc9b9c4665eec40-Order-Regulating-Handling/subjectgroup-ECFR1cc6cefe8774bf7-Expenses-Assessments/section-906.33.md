@@ -1,0 +1,3 @@
+##### § 906.33 Budget. #####
+
+At the beginning of each fiscal period and as may be necessary thereafter, the committee shall prepare an estimated budget of income and expenditures necessary for the administration of this part. The committee shall recommend the rate of assessment calculated to provide adequate funds to defray its proposed expenditures. The committee shall present such budget to the Secretary with an accompanying report showing the basis for its estimates and recommendations.

@@ -1,0 +1,5 @@
+##### § 759.2 Purpose. #####
+
+(a) This part specifies the types of incidents that can result in an area being determined a disaster area, which under other regulations makes qualified farmers in such areas eligible for Emergency loans (EM) or eligible for such other assistance that may be available, based on Secretarial disaster designations. Nothing in this part overrides provision of those regulations that govern the actual administration and availability of the disaster assistance regulations.
+
+(b) This part specifies the responsibility of the County Emergency Board (CEB), State Emergency Board (SEB), and the State Executive Director (SED) in regard to Secretarial Designations with regards to disasters. It also addresses matters relating to the handling of a Presidential declaration of disaster or the imposition of a USDA quarantine by the Secretary with respect to triggering the availability of EM loans.

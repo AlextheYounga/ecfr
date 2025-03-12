@@ -1,5 +1,7 @@
 ##### § 0.453 Public reference rooms. #####
 
+Link to an amendment published at 82 FR 4189, January 13, 2017.
+
 The Commission maintains the FCC Reference Information Center as its public reference room at its offices in Washington, DC. Much of the information available from the public reference room may also be retrieved from the Commission's main Web site at *http://www.fcc.gov* and its electronic reading room at *http://www.fcc.gov/foia/e-room.html*:
 
 (a) *The Reference Information Center.* Maintains files containing the record of all docketed cases, petitions for rule making and related papers. A file is maintained for each docketed hearing case and for each docketed rule making proceeding. Cards summarizing the history of such cases for the years before 1984 are available for inspection. Information summarizing the history of such cases for the years from 1984 through present is available online on the Electronic Comment Filing System (ECFS).

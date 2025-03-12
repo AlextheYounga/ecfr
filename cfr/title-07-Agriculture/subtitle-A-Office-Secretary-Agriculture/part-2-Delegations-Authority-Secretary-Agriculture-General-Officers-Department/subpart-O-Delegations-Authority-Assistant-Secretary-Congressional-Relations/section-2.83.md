@@ -1,0 +1,3 @@
+##### § 2.83 Deputy Assistant Secretary for Congressional Relations. #####
+
+Pursuant to § 2.23, and subject to policy guidance and direction by the Assistant Secretary, the following delegation of authority is made by the Assistant Secretary for Congressional Relations to the Deputy Assistant Secretary for Congressional Relations, to be exercised only during the absence or unavailability of the Assistant Secretary: Perform all duties and exercise all powers which are now or which may hereafter be delegated to the Assistant Secretary for Congressional Relations.

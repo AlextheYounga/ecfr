@@ -1,0 +1,9 @@
+##### § 1580.202 Hearings, petition reviews, and amendments. #####
+
+(a) If the petitioner, or any other person found by the Administrator (FAS) to have a substantial interest in the proceedings, submits not later than 10 days after the date of publication of notice in the Federal Register under § 1580.201(d) of this part, a request in writing for a hearing, the Administrator (FAS) shall provide for a public hearing and afford such interested person an opportunity to be present, to produce evidence, and to be heard.
+
+(b) If the petitioner or any other person having an interest in the proceedings takes issue with any of the information published in the Federal Register concerning the petition, such person may submit to the Administrator (FAS) their comments in writing or electronically for consideration by the Administrator (FAS) not later than 10 days after the date of publication of notice in the Federal Register under § 1580.201(d) of this part.
+
+(c) A producer or group of producers that resides outside of the State or region identified in the petition filed under paragraph (a) of this section, may file a request to become a party to that petition not later than 15 days after the date that the notice is published in the Federal Register under § 1580.201(d) of this part. The Administrator (FAS) may amend the original petition to expand the impacted area and include the additional filer, or consider it a separate filing.
+
+(d) The Administrator (FAS) shall publish in the Federal Register as soon as practicable any changes to the original notice resulting from any actions taken under this section.

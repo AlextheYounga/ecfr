@@ -1,0 +1,5 @@
+##### § 360.303 Approval of an application for a permit to move a noxious weed; conditions specified in permit. #####
+
+The Administrator will approve or deny an application for a permit to move a noxious weed. If the application is approved, the Administrator will issue the permit including any conditions that the Administrator has determined are necessary to prevent dissemination of noxious weeds into the United States or interstate. Such conditions may include requirements for inspection of the premises where the noxious weed is to be handled after its movement under the permit, to determine whether the facilities there are adequate to prevent noxious weed dissemination and whether the conditions of the permit are otherwise being observed. Before the permit is issued, the Administrator will require the responsible person to agree in writing to the conditions under which the noxious weed will be safeguarded.
+
+[75 FR 68954, Nov. 10, 2010]

@@ -20,7 +20,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (8) Fail to make available for inspection an Atlantic HMS or its area of custody, as specified in § 635.5(e) and (f).
 
-(9) Fail to report the catching of any Atlantic HMS to which a conventional tag has been affixed under a tag and release program.
+(9) Fail to report the catching of any Atlantic HMS to which a conventional tag has been affixed under a tag and release program as specified in § 635.26(a).
 
 (10) Falsify or fail to display and maintain vessel and gear identification, as specified in § 635.6.
 
@@ -36,9 +36,9 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (16) Fail to contact NMFS or follow NMFS instructions when automatic position reporting has been interrupted as specified in § 635.69.
 
-(17) Fish for Atlantic tunas or swordfish with a gillnet or possess Atlantic tunas or swordfish on board a vessel with a gillnet on board, as specified in § 635.21 (b), (e)(1), and (e)(4)(ii).
+(17) Fish for Atlantic tunas or swordfish with a gillnet or possess Atlantic tunas or swordfish on board a vessel with a gillnet on board, as specified in § 635.19(a), (b), and (e).
 
-(18) Fail to retrieve fishing gear and move after an interaction with a protected species, as specified in § 635.21 (c)(3) or (d)(2).
+(18) Fail to retrieve fishing gear and move after an interaction with a protected species, as specified in § 635.21(b)(3).
 
 (19) Utilize secondary gears as specified in § 635.19(a) to capture, or attempt to capture, any undersized or free swimming Atlantic HMS, or fail to release a captured Atlantic HMS in the manner specified in § 635.21(a).
 
@@ -80,7 +80,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (36) Fish with bottom or pelagic longline and shark gillnet gear for HMS without adhering to the gear operation and deployment restrictions required in 50 CFR 635.21.
 
-(37) Fail to report to NMFS, at the number designated by NMFS, the incidental capture of listed whales with shark gillnet gear as required by § 635.5.
+(37) Fail to report to NMFS, at the number designated by NMFS, the incidental capture of listed whales with shark gillnet gear as required by § 635.21(g)(1).
 
 (38) Fish for, or possess on board a fishing vessel, species regulated under this part in unauthorized fishing areas as specified in § 635.25.
 
@@ -114,17 +114,17 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (53) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless the vessel owner has been issued a swordfish directed limited access permit or a swordfish handgear limited access permit in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
 
-(54) Possess, use, or deploy, in the Gulf of Mexico, any circle hook, other than as described at § 635.21(c). Vessels in the Gulf of Mexico, with pelagic gear onboard, are prohibited from possessing, using, or deploying circle hooks that are constructed of round wire stock which is larger than 3.65 mm in diameter (See: § 635.21(c)(5)(iii)(C)(*2*)(*i*)).
+(54) Possess, use, or deploy, in the Gulf of Mexico, any circle hook, other than as described at § 635.21(c). Vessels in the Gulf of Mexico, with pelagic gear onboard, are prohibited from possessing, using, or deploying circle hooks that are constructed of round wire stock which is larger than 3.65 mm in diameter (See: § 635.21(c)(5)(iii)(B)(*2*)(*i*)).
 
 (55) Fail to electronically submit an Atlantic HMS dealer report through the HMS electronic dealer reporting system to report BAYS tunas, swordfish, and sharks to NMFS in accordance with § 635.5, if issued, or required to be issued, a Federal Atlantic HMS dealer permit pursuant to § 635.4.
 
-(56) Have been issued a valid HMS Commercial Caribbean Small Boat permit and to purchase, barter for, or trade for HMS harvested by other vessels with the intent to sell.
+(56) Have been issued a valid HMS Commercial Caribbean Small Boat permit and to purchase, barter for, or trade for HMS harvested by other vessels with the intent to sell, as specified in § 635.4(o)(5).
 
 (57) Fail to appropriately stow longline gear when transiting a closed or gear restricted area, as specified in § 635.21(b)(2).
 
 (58) Fish with pelagic longline gear in the Cape Hatteras Gear Restricted area if not determined by NMFS to be “qualified” under § 635.21(c)(3).
 
-(59) Fish for, retain, possess, or land any HMS from a vessel with a pelagic longline on board when the Atlantic Tunas Longline category fishery is closed, as specified in § 635.28(a)(3), (b)(6), (c)(3), and (d).
+(59) Fish for, retain, possess, or land any HMS from a vessel with a pelagic longline on board when the Atlantic Tunas Longline category fishery is closed, as specified in § 635.28(a)(3), (b)(7), (c)(3), and (d).
 
 (60) Buy, trade, or barter for any HMS from a vessel with pelagic longline gear is on board when the Atlantic Tunas Longline category fishery is closed, as specified in § 635.31(a)(2), (c), and (d).
 
@@ -172,11 +172,11 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (20) Approach to within 100 yd (91.5 m) of the cork line of a purse seine net used by a vessel fishing for Atlantic tuna, or for a purse seine vessel to approach to within 100 yd (91.5 m) of a vessel actively fishing for Atlantic tuna, except that two vessels that have Purse Seine category Atlantic tuna permits may approach closer to each other.
 
-(21) Transfer a tuna, except as may be authorized for the transfer of Atlantic BFT between purse seine vessels, as specified in § 635.29(c).
+(21) Transfer a tuna as specified in § 635.29(a), except as may be authorized for the transfer of Atlantic BFT between purse seine vessels, as specified in § 635.29(c).
 
 (22) As the owner or operator of a purse seine vessel, fail to comply with the requirement for possession at sea and landing of BFT under § 635.30(a).
 
-(23) Fish for, catch, possess, or retain a bluefin tuna, except as specified under § 635.23(f), or if taken incidental to recreational fishing for other species and retained in accordance with § 635.23(b) and (c).
+(23) Fish for, catch, possess, or retain a bluefin tuna, except as specified under § 635.23.
 
 (24) Fail to comply with the restrictions on sale and purchase of an Atlantic tuna, as specified in §§ 635.5(b), 635.23, and 635.31(a).
 
@@ -202,15 +202,15 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (35) Use speargun gear to fish for BAYS tunas from a vessel that does not possess either a valid HMS Angling or HMS Charter/Headboat permit, as specified at § 635.21(i).
 
-(36) Possess J-hooks onboard a vessel that has pelagic longline gear onboard, and that has been issued, or is required to have, a limited access swordfish, shark, or Atlantic Tunas Longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico, except when green-stick gear is onboard, as specified at § 635.21(c)(2)(vii)(A) and (c)(5)(iii)(C)(*3*).
+(36) Possess J-hooks onboard a vessel that has pelagic longline gear onboard, and that has been issued, or is required to have, a limited access swordfish, shark, or Atlantic Tunas Longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico, except when green-stick gear is onboard, as specified at § 635.21(c)(2)(vii)(A) and (c)(5)(iii)(B)(*3*).
 
-(37) Use or deploy J-hooks with pelagic longline gear from a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico.
+(37) Use or deploy J-hooks with pelagic longline gear from a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, as specified in § 635.21(c)(5)(iii)(B).
 
-(38) Possess more than 20 J-hooks onboard a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna Longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico, when possessing onboard both pelagic longline gear and green-stick gear as defined at § 635.2.
+(38) As specified in § 635.21(c)(5)(iii)(B)(*3*), possess more than 20 J-hooks onboard a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna Longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, when possessing onboard both pelagic longline gear and green-stick gear as defined in § 635.2.
 
-(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear.
+(39) Use or deploy more than 10 hooks at one time on any individual green-stick gear, as specified in § 635.21(j), (c)(2)(vii)(A), or (c)(5)(iii)(B)(*3*).
 
-(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any other part of the hook, when fishing with or possessing green-stick gear onboard a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and the Gulf of Mexico.
+(40) Possess, use, or deploy J-hooks smaller than 1.5 inch (38.1 mm), when measured in a straight line over the longest distance from the eye to any part of the hook, when fishing with or possessing green-stick gear onboard a vessel that has been issued, or is required to have, a limited access swordfish, shark, or tuna longline category permit for use in the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, as specified at § 635.21(c)(5)(iii)(B)(*3*) or (c)(2)(vii)(A).
 
 (41) Fail to report bluefin catch by pelagic longline or purse seine gear, through VMS as specified at § 635.69(e)(4).
 
@@ -328,9 +328,9 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (8) Fish for North Atlantic swordfish from, possess North Atlantic swordfish on board, or land North Atlantic swordfish from a vessel using or having on board gear other than pelagic longline, green-stick gear, or handgear, except as specified at § 635.19(e).
 
-(9) Fish for swordfish from the South Atlantic swordfish stock using any gear other than pelagic longline.
+(9) Fish for swordfish from the South Atlantic swordfish stock using gear other than pelagic longline, as specified at § 635.19(e)(1) and § 635.27(c)(1)(ii).
 
-(10) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless the vessel owner has been issued a swordfish directed limited access permit or a swordfish handgear limited access permit in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
+(10) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless, as specified in § 635.19(e)(3), the vessel owner has been issued a swordfish directed limited access permit or a swordfish handgear limited access permit in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
 
 (11) As the owner of a vessel permitted, or required to be permitted, in the swordfish directed, swordfish handgear limited access permit category, or issued a valid HMS Commercial Caribbean Small Boat permit and utilizing buoy gear, to possess or deploy more than 35 individual floatation devices, to deploy more than 35 individual buoy gears per vessel, or to deploy buoy gear without affixed monitoring equipment, as specified at § 635.21(h).
 
@@ -344,7 +344,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (16) Possess any HMS, other than Atlantic swordfish, harvested with buoy gear as specified at § 635.19 unless issued a valid HMS Commercial Caribbean Small Boat permit and operating within the U.S. Caribbean as defined at § 622.2 of this chapter.
 
-(17) Fail to construct, deploy, or retrieve buoy gear as specified at § 635.21(e)(4)(iii).
+(17) Failure to construct, deploy, or retrieve buoy gear as specified at § 635.21(h).
 
 (18) As the owner of a vessel permitted, or required to be permitted, in the Swordfish General Commercial permit category, possess North Atlantic swordfish taken from its management unit by any gear other than rod and reel, handline, bandit gear, green-stick, or harpoon gear, as specified in § 635.19(e).
 

@@ -1,12 +1,12 @@
-##### 52.232-26 Prompt payment for fixed-price architect-engineer contracts. #####
+##### 52.232-26 Prompt Payment for Fixed-Price Architect-Engineer Contracts. #####
 
 As prescribed in 32.908(a), insert the following clause:
 
-Prompt Payment for Fixed-Price Architect-Engineer Contracts (JUL 2013)
+Prompt Payment for Fixed-Price Architect-Engineer Contracts (JAN 2017)
 
 Notwithstanding any other payment terms in this contract, the Government will make invoice payments under the terms and conditions specified in this clause. The Government considers payment as being made on the day a check is dated or the date of an electronic funds transfer. Definitions of pertinent terms are set forth in sections 2.101, 32.001, and 32.902 of the Federal Acquisition Regulation. All days referred to in this clause are calendar days, unless otherwise specified. (However, see paragraph (a)(3) of this clause concerning payments due on Saturdays, Sundays, and legal holidays.)
 
-(a) *Invoice payments* - (1) *Due date.* The due date for making invoice payments is -
+(a) *Invoice payments*—(1) *Due date.* The due date for making invoice payments is—
 
 (i) For work or services completed by the Contractor, the later of the following two events:
 
@@ -24,7 +24,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (ii) Invoice date and invoice number. (The Contractor should date invoices as close as possible to the date of mailing or transmission.)
 
-(iii) Contract number or other authorization for work or services performed (including order number and contract line item number).
+(iii) Contract number or other authorization for work or services performed (including order number and line item number).
 
 (iv) Description of work or services performed.
 
@@ -40,7 +40,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (A) The Contractor shall include EFT banking information on the invoice only if required elsewhere in this contract.
 
-(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer - System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer - Other Than System for Award Management), or applicable agency procedures.
+(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer—System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer—Other Than System for Award Management), or applicable agency procedures.
 
 (C) EFT banking information is not required if the Government waived the requirement to pay by EFT.
 
@@ -66,7 +66,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (5) *Discounts for prompt payment.* The designated payment office will pay an interest penalty automatically, without request from the Contractor, if the Government takes a discount for prompt payment improperly. The Government will calculate the interest penalty in accordance with 5 CFR part 1315.
 
-(6) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315, in addition to the interest penalty amount only if -
+(6) *Additional interest penalty.* (i) The designated payment office will pay a penalty amount, calculated in accordance with the prompt payment regulations at 5 CFR part 1315, in addition to the interest penalty amount only if—
 
 (A) The Government owes an interest penalty of $1 or more;
 
@@ -74,7 +74,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (C) The contractor makes a written demand to the designated payment office for additional penalty payment, in accordance with paragraph (a)(6)(ii) of this clause, postmarked not later than 40 days after the date the invoice amount is paid.
 
-(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall -
+(ii)(A) The Contractor shall support written demands for additional penalty payments with the following data. The Government will not request any additional data. The Contractor shall—
 
 (*1*) Specifically assert that late payment interest is due under a specific invoice, and request payment of all overdue late payment interest penalty and such additional penalty as may be required;
 
@@ -82,7 +82,7 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (*3*) State that payment of the principal has been received, including the date of receipt.
 
-(B) If there is no postmark or the postmark is illegible -
+(B) If there is no postmark or the postmark is illegible—
 
 (*1*) The designated payment office that receives the demand will annotate it with the date of receipt, provided the demand is received on or before the 40th day after payment was made; or
 
@@ -92,18 +92,18 @@ Notwithstanding any other payment terms in this contract, the Government will ma
 
 (b) *Contract financing payments.* If this contract provides for contract financing, the Government will make contract financing payments in accordance with the applicable contract financing clause.
 
-(c) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall -
+(c) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall—
 
-(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(1) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (i) Circumstances of the overpayment (*e.g.*, duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
 (ii) Affected contract number and delivery order number if applicable;
 
-(iii) Affected contract line item or subline item, if applicable; and
+(iii) Affected line item or subline item, if applicable; and
 
 (iv) Contractor point of contact.
 
 (2) Provide a copy of the remittance and supporting documentation to the Contracting Officer.
 
-(End of clause)[66 FR 65363, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 73 FR 54007, Sept. 17, 2008; 78 FR 37683, June 21, 2013]
+(End of clause)[66 FR 65363, Dec. 18, 2001, as amended at 68 FR 56684, Oct. 1, 2003; 73 FR 54007, Sept. 17, 2008; 78 FR 37683, June 21, 2013; 82 FR 4715, Jan. 13, 2017]

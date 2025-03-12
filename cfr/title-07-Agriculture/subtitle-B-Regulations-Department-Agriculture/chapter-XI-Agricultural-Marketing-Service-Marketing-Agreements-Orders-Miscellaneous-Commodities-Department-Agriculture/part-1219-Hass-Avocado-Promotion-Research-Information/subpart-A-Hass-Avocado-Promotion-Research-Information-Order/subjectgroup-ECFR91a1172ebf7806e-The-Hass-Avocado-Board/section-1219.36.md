@@ -1,0 +1,9 @@
+##### § 1219.36 Vacancies. #####
+
+(a) In the event any member or alternate of the Board ceases to be a member of the category of members from which the member was appointed to the Board, such member or alternate shall be disqualified from serving on the Board and the position shall automatically become vacant.
+
+(b) If a member of the Board consistently refuses to perform the duties of a member of the Board, or if a member of the Board engages in acts of dishonesty or willful misconduct, the Board may recommend to the Secretary that the member be removed from office. If the Secretary finds that the recommendation of the Board shows adequate cause, the member shall be removed from office.
+
+(c) Should any Board member position become vacant in the event of the death, removal, resignation, or disqualification, the alternate of that member shall automatically assume the position of said member. The alternate shall serve until the end of the member's normal term. If there is no alternate member to assume the position of member, the successor member and alternate shall be nominated and selected in the manner specified in §§ 1219.31, 1219.32, or 1219.33.
+
+(d) Should any alternate member become vacant in the event of death, removal, resignation, or disqualification, the Board may nominate persons to serve for the unexpired term of such alternate member. The nomination shall be conducted at a regularly scheduled Board meeting as soon as practicable after the vacancy occurs. The Board may solicit the names of nominees from producers and importers prior to the meeting and from the floor of the meeting. All nominees must meet the qualifications for nomination. The Board shall submit two nominees for each vacancy to the Secretary. A vacancy will not be required to be filled if the unexpired term is less than six months.

@@ -1,0 +1,3 @@
+##### § 622.4 Relationship to other agencies. #####
+
+NRCS will coordinate responsibilities with other water and land resource development agencies on projects that may come under the jurisdictions of various authorities. This will include any land management agencies which may have land which would be affected by project measures. Coordination with the U.S. Department of the Interior's Fish and Wildlife Service will be in accordance with section 12 of Pub. L. 83-566 (as amended).

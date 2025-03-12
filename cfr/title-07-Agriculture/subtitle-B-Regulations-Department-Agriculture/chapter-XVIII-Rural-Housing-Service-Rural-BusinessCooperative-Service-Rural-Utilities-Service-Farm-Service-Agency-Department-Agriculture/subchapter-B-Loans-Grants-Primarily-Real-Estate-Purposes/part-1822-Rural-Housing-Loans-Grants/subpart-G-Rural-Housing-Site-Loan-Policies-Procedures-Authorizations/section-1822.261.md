@@ -1,0 +1,5 @@
+##### § 1822.261 General. #####
+
+This subpart sets forth the policies and procedures and delegates authority for making Rural Housing Site (RHS) loans under sections 523 and 524 of the Housing Act of 1949. Any processing or servicing activity conducted pursuant to this subpart involving authorized Rural Development (RD) employees, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this chapter. Applicants for this assistance are required to identify any known relationship or association with an RD employee. Section 523 loans are direct loans for the purchase and development of building sites for housing to be built by the self-help method; they have additional requirements which are contained in § 1822.278.
+
+[35 FR 16087, July 1, 1970, as amended at 58 FR 224, Jan. 5, 1993; 80 FR 9866, Feb. 24, 2015]

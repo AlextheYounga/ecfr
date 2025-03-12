@@ -1,0 +1,3 @@
+##### § 948.11 Grade, size and maturity. #####
+
+*Grade,* means any of the officially established grades of potatoes, *Size* means any of the officially established sizes of potatoes, and *Maturity* means any of the stages of development or condition of the outer skin (epidermis) of potatoes, as defined in the United States Standards for Potatoes issued by the United States Department of Agriculture (§§ 51.1540 to 51.1556, inclusive of this title) or Colorado grades established by the Commissioner, or amendments thereto, or modifications thereof, or variations based on any of the foregoing.

@@ -1,0 +1,3 @@
+##### § 1486.200 What entities are eligible to participate in the program? #####
+
+To participate in the EMP, U.S. private or government entities must demonstrate a role or interest in the exports of U.S. agricultural commodities or products. Government organizations consist of federal, state, and local agencies. Private entities include non-profit trade associations, universities, agricultural cooperatives, state regional trade groups, and profit-making entities and consulting businesses.

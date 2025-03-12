@@ -1,0 +1,3 @@
+##### § 622.5 Guidelines. #####
+
+Guidelines for carrying out programs authorized under Pub. L. 83-566 and Pub. L. 78-534 are contained in miscellaneous instructions, manuals, and handbooks issued by the Natural Resources Conservation Service, Regulations for Implementing NEPA (40 CFR parts 1500-1508) issued by the Council on Environmental Quality, and in Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies issued by the Water Resources Council. Watershed projects are to be planned and carried out in a way that will conform to conditions mandated by the above and other applicable laws, Executive orders, and codified rules.

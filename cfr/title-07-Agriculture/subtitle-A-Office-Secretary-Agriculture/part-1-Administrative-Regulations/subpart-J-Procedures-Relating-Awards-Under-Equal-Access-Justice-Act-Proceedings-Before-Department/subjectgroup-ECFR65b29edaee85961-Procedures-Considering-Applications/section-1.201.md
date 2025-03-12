@@ -1,0 +1,5 @@
+##### § 1.201 Department review. #####
+
+(a) Except with respect to a proceeding covered by § 1.183(a)(1)(ii) of this part either the applicant or agency counsel may seek review of the initial decision on the fee application, in accordance with the provisions of §§ 1.145(a) and 1.146(a) of this part or in accordance with any delegation made pursuant to § 1.189 of this part. If neither the applicant nor agency counsel seeks review, the initial decision on the fee application shall become a final decision of the Department 35 days after it is served upon the applicant. If review is taken, it will be in accord with the provisions of §§ 1.145(b) through (i) and 1.146(b) of this part, or
+
+(b) With respect to a proceeding covered by § 1.183(a)(1)(ii) of this part, either party may seek reconsideration of the decision on the fee application in accordance with Rule 29 of the Board of Contract Appeals contained in § 24.21 of this title. In addition, either party may appeal a decision of the Board of Contract Appeals to the Court of Appeals for the Federal Circuit in accordance with 41 U.S.C. 607.

@@ -1,0 +1,5 @@
+##### § 985.29 Procedure. #####
+
+(a) At an assembled meeting, all votes shall be cast in person and seven members of the Committee shall constitute a quorum. Decisions of the Committee shall require the concurring vote of at least six members. If both a Committee member and appropriate alternate are unable to attend a Committee meeting, the Committee may designate any other alternate from the same district who is present at the meeting to serve in the member's place.
+
+(b) The Committee may vote by mail, telephone, telegraph, or other means of communication: *Provided,* That each proposition is explained accurately, fully, and identically to each member. All votes shall be confirmed promptly in writing. Seven concurring votes and no dissenting votes shall be required for approval of a Committee action by such method.

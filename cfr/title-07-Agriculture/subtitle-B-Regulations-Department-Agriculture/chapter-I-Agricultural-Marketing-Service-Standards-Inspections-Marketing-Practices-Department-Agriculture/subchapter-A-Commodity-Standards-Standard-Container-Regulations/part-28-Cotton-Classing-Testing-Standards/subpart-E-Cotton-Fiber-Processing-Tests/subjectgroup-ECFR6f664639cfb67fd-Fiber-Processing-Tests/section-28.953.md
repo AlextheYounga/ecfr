@@ -1,0 +1,5 @@
+##### § 28.953 Requirements as to samples. #####
+
+Each sample of ginned cotton lint submitted for fiber and processing tests shall weigh approximately as shown below unless otherwise specified in the particular test item as prescribed herein:
+
+1 ounce or more for fiber tests.6 pounds or more for carded yarn spinning tests.8 pounds or more for combed yarn spinning tests.10 pounds or more for carded and combed yarn spinning tests.Each individual sample submitted for testing shall contain a tag or coupon bearing a number or other identification symbol. Individually labeled samples may be sent in one or more parcels, each of which shall bear on the outside thereof the name and address of the person submitting it. Persons who submit samples to laboratories for testing shall comply with any Federal or State quarantine requirements applicable to counties from which such samples are shipped.

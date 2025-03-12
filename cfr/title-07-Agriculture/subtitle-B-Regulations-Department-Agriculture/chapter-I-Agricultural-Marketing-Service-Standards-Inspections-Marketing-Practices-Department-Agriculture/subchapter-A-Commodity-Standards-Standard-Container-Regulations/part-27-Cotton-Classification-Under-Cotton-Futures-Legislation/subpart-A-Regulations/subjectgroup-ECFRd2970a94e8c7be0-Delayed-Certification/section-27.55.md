@@ -1,0 +1,5 @@
+##### § 27.55 Requirements in lieu of cotton class certificates on delivery day. #####
+
+If on the morning of the delivery day specified in the transferable notice the cotton class certificates covering the cotton involved are not ready for delivery when called for, the tenderer of the cotton shall present to the receiver a receipt issued by an exchange inspection agency certifying that warehouse receipts, listed by lot numbers, representing cotton weighed and sampled in an approved warehouse under the supervision of such agency, have been received by the exchange inspection agency and are in the custody of the Cotton Division Marketing Services Office where certification requests are required to be filed. The requirements of §§ 27.52-27.55 shall be complied with prior to delivery by the tenderer of the agency's receipt to the receiver. Upon issuance by Marketing Services Office, the tenderer shall furnish to the receiver the cotton class certificates complying with the regulations in this subpart, showing the cotton to be tenderable on a basis grade contract.
+
+[50 FR 47707, Nov. 20, 1985]

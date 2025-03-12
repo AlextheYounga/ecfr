@@ -1,0 +1,3 @@
+##### § 985.20 Establishment and membership. #####
+
+A Spearmint Oil Administrative Committee is hereby established (hereinafter referred to as *Committee*) and shall consist of eight members, each of whom shall have an alternate, to administer the terms and provisions of this part. Four of the members and alternates shall be producers in District 1; two members and alternates shall be producers in District 2; and one member and alternate shall be a producer in District 3. One member and alternate shall represent the public.

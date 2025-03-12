@@ -1,0 +1,3 @@
+##### § 60.132 Waters of the United States. #####
+
+*Waters of the United States* means those fresh and ocean waters contained within the outer limit of the Exclusive Economic Zone (EEZ) of the United States as described by the Department of State Public Notice 2237 published in the Federal Register volume 60, No. 163, August 23, 1995, pages 43825-43829. The Department of State notice is republished in appendix A to this subpart.

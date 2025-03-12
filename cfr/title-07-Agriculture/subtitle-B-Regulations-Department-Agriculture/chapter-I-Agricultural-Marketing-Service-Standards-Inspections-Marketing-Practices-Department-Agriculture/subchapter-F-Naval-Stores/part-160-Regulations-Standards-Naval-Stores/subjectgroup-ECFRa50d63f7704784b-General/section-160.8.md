@@ -1,0 +1,3 @@
+##### § 160.8 Steam distilled wood turpentine. #####
+
+The designation “steam distilled wood turpentine” shall refer to the kind of spirits of turpentine obtained by steam distillation from the oleoresinous component of wood whether in the presence of the wood or after extraction from the wood, and commonly known prior to the passage of the act as wood turpentine, steam distilled turpentine, steam distilled wood turpentine, or S. D. wood turpentine.

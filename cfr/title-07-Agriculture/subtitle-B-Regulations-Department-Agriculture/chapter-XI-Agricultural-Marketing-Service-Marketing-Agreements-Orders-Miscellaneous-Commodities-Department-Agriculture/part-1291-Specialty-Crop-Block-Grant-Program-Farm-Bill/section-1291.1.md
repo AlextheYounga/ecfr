@@ -1,0 +1,7 @@
+##### § 1291.1 Purpose and scope. #####
+
+(a) Pursuant to the authority conferred by Section 101 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note), as amended by Section 10109 of the Food, Conservation, and Energy Act of 2008, Public Law 110-246, AMS will make grants to states to enhance the competitiveness of specialty crops in accordance with the terms and conditions set forth herein and other applicable federal statutes and regulations, including, but not limited to, 7 CFR part 3015 and part 3016.
+
+(b) AMS encourages states to develop projects solely to enhance the competitiveness of specialty crops pertaining to the following issues affecting the specialty crop industry: increasing child and adult nutrition knowledge and consumption of specialty crops; participation of industry representatives at meetings of international standard setting bodies in which the U.S. government participates; improving efficiency and reducing costs of distribution systems; assisting all entities in the specialty crop distribution chain in developing “Good Agricultural Practices”, “Good Handling Practices”, “Good Manufacturing Practices”, and in cost-share arrangements for funding audits of such systems for small farmers, packers and processors; investing in specialty crop research, including organic research to focus on conservation and environmental outcomes; enhancing food safety; developing new and improved seed varieties and specialty crops; pest and disease control; and sustainability.
+
+[74 FR 13316, Mar. 27, 2009]

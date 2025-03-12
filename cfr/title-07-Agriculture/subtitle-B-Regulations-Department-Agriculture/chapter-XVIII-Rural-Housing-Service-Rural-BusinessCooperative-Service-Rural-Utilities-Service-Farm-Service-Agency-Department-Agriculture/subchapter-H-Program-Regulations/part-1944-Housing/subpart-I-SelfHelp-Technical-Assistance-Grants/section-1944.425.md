@@ -1,0 +1,3 @@
+##### § 1944.425 Handling and accounting for borrower loan funds. #####
+
+Grantees will be required to administer borrower loan funds during the construction phases. The extent of their involvement will depend on the experience of the grantee and the amount of authority delegated to them by the District Director in accordance with § 1924.6(c) of subpart A of part 1924 of this chapter. Training should include Rural Development's non-discrimination policies in receiving applications.

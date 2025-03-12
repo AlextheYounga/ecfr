@@ -1,0 +1,5 @@
+##### § 29.429 Disposition of imported tobacco exceeding pesticide residue standards. #####
+
+Within 10 days of the receipt of test results from pesticide test samples, the Director shall notify the importer or entity responsible for the lot of tobacco of the test results. If the test results indicate that the lot or any portion of the lot contains prohibited pesticide residues, the Director will notify the importer or entity responsible for the affected tobacco and the appropriate U.S. Customs officials that the tobacco cannot enter the United States. The importer or other entity shall notify the Director in writing of the methods by which the tobacco will be disposed of and provide 5 days advance notice of time and place of final disposition. The Department will monitor the disposition procedures to verify that the tobacco has been accurately identified as to lot, kind, type, and grade.
+
+[54 FR 24663, June 9, 1989]

@@ -1,0 +1,3 @@
+##### § 30.8 Scrap. #####
+
+A byproduct from handling leaf tobacco in both the unstemmed and stemmed forms, consisting of loose and tangled portions of tobacco leaves, floor sweepings, and all other tobacco materials (except stems) which accumulate in auction and storage warehouses, packing and conditioning plants, and stemmeries. Scrap which accumulates from handling unstemmed leaf tobacco is known as leaf-scrap, and scrap which accumulates from handling stemmed leaf tobacco is known as strip-scrap. The scrap group, covering both leaf-scrap and strip-scrap is designated by the letter “S”.

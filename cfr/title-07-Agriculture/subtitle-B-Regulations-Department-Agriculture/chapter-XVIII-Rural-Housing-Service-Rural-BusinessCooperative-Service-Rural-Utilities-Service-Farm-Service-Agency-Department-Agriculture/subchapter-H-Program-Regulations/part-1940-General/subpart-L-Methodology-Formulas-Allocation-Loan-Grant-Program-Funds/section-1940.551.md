@@ -1,0 +1,9 @@
+##### § 1940.551 Purpose and general policy. #####
+
+(a) The purpose of this subpart is to set forth the methodology and formulas by which the Administrator for the Rural Business-Cooperative Service or the Administrator for the Rural Housing Service, as applicable, allocates program funds to the States. (The term *State* means any of the States of the United States, the Commonwealth of Puerto Rico, any territory or possession of the United States, or the Western Pacific Areas.) This subpart is inapplicable to Farm Service Agency, Farm Loan Programs.
+
+(b) The formulas in this subpart are used to allocate program loan and grant funds to State Offices so that the overall mission of the Agency can be carried out. Considerations used when developing the formulas include enabling legislation, congressional direction, and administration policies. Allocation formulas ensure that program resources are available on an equal basis to all eligible individuals and organizations.
+
+(c) The actual amounts of funds, as computed by the methodology and formulas contained herein, allocated to a State for a funding period are distributed to each State Office by an exhibit to this subpart. The exhibit is available for review in any Rural Development State Office. The exhibit also contains clarifications of allocation policies and provides further guidance to the State Directors on any suballocation within the State. Rural Development will publish a Notice of Availability of Rural Housing funds in the Federal Register each year.
+
+[49 FR 3727, Jan. 30, 1984, as amended at 53 FR 26229, July 12, 1988; 55 FR 29560, July 20, 1990; 56 FR 66960, Dec. 27, 1991; 72 FR 64122, Nov. 15, 2007]

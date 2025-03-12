@@ -1,0 +1,3 @@
+##### § 500.20 Scope. #####
+
+This subpart sets forth schedules of fees for temporary use by individuals or groups of United States National Arboretum (USNA) facilities and grounds. This subpart also sets forth schedules of fees for the use of the USNA for commercial photography and cinematography. Fees generated will be used to offset costs of services or for the purposes of promoting the mission of the USNA. All rules and regulations noted in 7 CFR 500, subpart A—Conduct on the U.S. National Arboretum Property, will apply to individuals or groups granted approval to use the facilities and grounds for the purposes specified in this subpart.

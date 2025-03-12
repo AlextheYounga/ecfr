@@ -1,0 +1,3 @@
+##### § 160.4 Reclaimed rosin. #####
+
+Reclaimed rosin is rosin that has been recovered or reclaimed by any means from waste or deteriorated material: *Provided,* That such reclaimed product may be graded as rosin under the act and the provisions in this part only if the concentration of rosin acids therein has not been reduced below the concentration normal for rosin, and any residual or contaminating component remaining from the waste material itself or from any article used in the recovery process is not sufficient to cause the physical or chemical properties of the reclaimed product to differ substantially from the normal properties of rosin.

@@ -1,12 +1,10 @@
 ##### § 91.115 Citizen participation plan; States. #####
 
-Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
-
 (a) *Applicability and adoption of the citizen participation plan* - (1) *When citizen participation plan must be amended.* The State is required to adopt a citizen participation plan that sets forth the State's policies and procedures for citizen participation. (Where a State, before August 17, 2015, adopted a citizen participation plan, it will need to amend the citizen participation plan to comply with provisions of this section.)
 
 (2) *Encouragement of citizen participation.* (i) The citizen participation plan must provide for and encourage citizens to participate in the development of the AFH, any revision to the AFH, the consolidated plan, any substantial amendments to the consolidated plan, and the performance report. These requirements are designed especially to encourage participation by low- and moderate-income persons, particularly those living in slum and blighted areas and in areas where CDBG funds are proposed to be used and by residents of predominantly low- and moderate-income neighborhoods. A State must take appropriate actions to encourage the participation of all its residents, including minorities and non-English speaking persons, as provided in paragraph (a)(4) of this section, as well as persons with disabilities.
 
-(ii) The State shall encourage the participation of Statewide and regional institutions, Continuums of Care, and other organizations (including businesses, developers, nonprofit organizations, philanthropic organizations, and community-based and faith-based organizations) that are involved with or affected by the programs or activities covered by the consolidated plan in the process of developing and implementing the AFH and the consolidated plan.
+(ii) The State shall encourage the participation of Statewide and regional institutions, Continuums of Care, and other organizations (including businesses, developers, nonprofit organizations, philanthropic organizations, and community-based and faith-based organizations) that are involved with or affected by the programs or activities covered by the consolidated plan in the process of developing and implementing the AFH and the consolidated plan. Commencing with consolidated plans submitted in or after January 1, 2018, the State shall also encourage the participation of public and private organizations, including broadband internet service providers, organizations engaged in narrowing the digital divide, agencies whose primary responsibilities include the management of flood prone areas, public land or water resources, and emergency management agencies in the process of developing the consolidated plan.
 
 (iii) The State should also explore alternative public involvement techniques that encourage a shared vision of change for the community and the review of program performance; e.g., use of focus groups and use of the Internet.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 81 FR 91011, Dec. 16, 2016.
 
 (i) *Use of citizen participation plan.* The State must follow its citizen participation plan.
 
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6963, Feb. 9, 2006; 76 FR 75968, Dec. 5, 2011; 80 FR 42363, July 16, 2015]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 71 FR 6963, Feb. 9, 2006; 76 FR 75968, Dec. 5, 2011; 80 FR 42363, July 16, 2015; 81 FR 91011, Dec. 16, 2016]

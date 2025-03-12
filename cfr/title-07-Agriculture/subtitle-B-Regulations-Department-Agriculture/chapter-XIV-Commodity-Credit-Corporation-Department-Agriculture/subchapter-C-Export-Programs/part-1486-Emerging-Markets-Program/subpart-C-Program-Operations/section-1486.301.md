@@ -1,0 +1,5 @@
+##### § 1486.301 How is the working relationship established between CCC and the Recipient of program funding? #####
+
+(a) FAS will send an approval letter followed by a project agreement to each approved applicant. The approval letter and agreement will specify the terms and conditions applicable to the project, including the levels of EMP funding and cost-share contribution requirements. The applicant is authorized to begin implementation of the project as of the date of the approval letter, unless otherwise indicated.
+
+(b) An applicant who accepts the terms and conditions contained in the agreement should so indicate by having the appropriate authorizing official sign the agreement and submit it to the Director, Marketing Operations Staff, FAS, USDA. The applicant may not be reimbursed for approved project expenses until the Recipient's authorizing official and CCC have signed the agreement.

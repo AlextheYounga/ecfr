@@ -1,0 +1,3 @@
+##### § 1.120 Fees. #####
+
+Any agency which provides copies of records pursuant to a request under this subpart may charge fees for the direct costs of producing such copies in accordance with appendix A to subpart A of this part. No agency, however, shall charge any fee for searches necessary to locate records. Nor shall an agency charge any fees for copies or searches, when the requester sought to make a personal inspection but was provided copies instead at the discretion of the agency.

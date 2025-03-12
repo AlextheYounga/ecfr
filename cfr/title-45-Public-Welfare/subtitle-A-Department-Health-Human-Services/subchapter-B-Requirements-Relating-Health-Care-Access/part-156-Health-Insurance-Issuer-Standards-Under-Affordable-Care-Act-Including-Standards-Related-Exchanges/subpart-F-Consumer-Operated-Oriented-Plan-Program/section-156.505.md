@@ -1,7 +1,5 @@
 ##### § 156.505 Definitions. #####
 
-Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
-
 The following definitions apply to this subpart:
 
 *Applicant* means an entity eligible to apply for a loan described in § 156.520 of this subpart.
@@ -52,4 +50,4 @@ The following definitions apply to this subpart:
 
 *State* has the meaning given to the term in § 155.20 of this subchapter.
 
-[76 FR 77411, Dec. 13, 2011, as amended at 77 FR 18474, Mar. 27, 2012; 81 FR 29155, May 11, 2016]
+[76 FR 77411, Dec. 13, 2011, as amended at 77 FR 18474, Mar. 27, 2012; 81 FR 29155, May 11, 2016; 81 FR 94181, Dec. 22, 2016]

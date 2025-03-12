@@ -1,0 +1,7 @@
+##### § 905.163 Reports of shipments under repacking certificate of privilege. #####
+
+(a) Each repacking shipper who handles citrus fruit under a repacking certificate of privilege shall supply the committee with reports on each shipment as requested by the committee, on a Report of Shipments Under Certificate of Privilege form supplied by the committee, showing the name and address of the repacking shipper; name and address of the handler supplying the inspected and certified citrus fruit for such shipment; number of packages; size and containers; brand; grade; certificate number; and any other information deemed necessary by the committee. Each repacking shipper of citrus fruit shall maintain on file a copy of the Federal-State manifest that certifies the grade and amount of each load of citrus fruit received. These manifests shall be readily available to the committee upon request.
+
+(b) One copy of the Report of Shipments Under Certificate of Privilege form on each shipment shall be forwarded to the committee promptly, one copy of such form shall be retained by the repacking shipper, and one copy of such form shall accompany the shipment. Failure to complete and return such form shall be cause for suspension of the repacking shippers repacking certificate of privilege.
+
+[59 FR 48783, Sept. 23, 1994]

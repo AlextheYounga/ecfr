@@ -1,0 +1,3 @@
+##### § 17.11 Recordkeeping and access to records. #####
+
+Suppliers and agents of the participant or importer shall keep accurate books, records and accounts with respect to all contracts entered into hereunder, including those pertaining to ocean transportation-related services and records of all payments by suppliers to representatives of the importer or participant, if CCC finances any part of the ocean freight. Suppliers and agents shall permit authorized representatives of the U.S. Government to have access to their premises during regular hours to inspect, examine, audit and make copies of such books, records and accounts. Suppliers and agents shall retain such records until the expiration of three years after final payment under such contracts.

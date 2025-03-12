@@ -1,0 +1,3 @@
+##### § 1212.8 Handle. #####
+
+“Handle” means to process, package, sell, transport, purchase or in any other way place honey or honey products, or causes them to be placed, in commerce. This term includes selling unprocessed honey that will be consumed without further processing or packaging. This term does not include the transportation of unprocessed honey by the producer to a handler or transportation by a commercial carrier of honey, whether processed or unprocessed for the account of the first handler or producer.

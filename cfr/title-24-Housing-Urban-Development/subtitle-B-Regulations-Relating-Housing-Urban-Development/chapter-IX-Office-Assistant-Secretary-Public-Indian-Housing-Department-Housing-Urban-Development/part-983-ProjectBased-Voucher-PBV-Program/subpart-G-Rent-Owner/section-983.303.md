@@ -1,12 +1,10 @@
 ##### § 983.303 Reasonable rent. #####
 
-Link to an amendment published at 81 FR 80583, November 16, 2016.
-
 (a) *Comparability requirement.* At all times during the term of the HAP contract, the rent to the owner for a contract unit may not exceed the reasonable rent as determined by the PHA, except that where the PHA has elected in the HAP contract to not reduce rents below the initial rent under the initial HAP contract, the rent to owner shall not be reduced below the initial rent in accordance with § 983.302(e)(2).
 
 (b) *Redetermination.* The PHA must redetermine the reasonable rent:
 
-(1) Whenever there is a five percent or greater decrease in the published FMR in effect 60 days before the contract anniversary (for the unit sizes specified in the HAP contract) as compared with the FMR in effect one year before the contract anniversary;
+(1) Whenever there is a 10 percent decrease in the published FMR in effect 60 days before the contract anniversary (for the unit sizes specified in the HAP contract) as compared with the FMR in effect 1 year before the contract anniversary.
 
 (2) Whenever the PHA approves a change in the allocation of responsibility for utilities between the owner and the tenant;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 81 FR 80583, November 16, 2016.
 
 (2) The independent entity must furnish a copy of the independent entity determination of reasonable rent for PHA-owned units to the PHA and to the HUD field office where the project is located.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36170, June 25, 2014]
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36170, June 25, 2014; 81 FR 80583, Nov. 16, 2016]

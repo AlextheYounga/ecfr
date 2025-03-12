@@ -1,0 +1,3 @@
+##### § 1209.11 Mushrooms. #####
+
+*Mushrooms* means all varieties of cultivated mushrooms grown within the United States and marketed for the fresh market, or imported into the United States and marketed for the fresh market, except such term shall not include mushrooms that are commercially marinated, canned, frozen, cooked, blanched, dried, packaged in brine, or otherwise processed in such manner as the Council, with the approval of the Secretary, may determine.

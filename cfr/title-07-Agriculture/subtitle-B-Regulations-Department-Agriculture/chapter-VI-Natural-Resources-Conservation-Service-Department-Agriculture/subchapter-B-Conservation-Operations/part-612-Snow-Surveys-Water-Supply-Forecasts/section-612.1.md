@@ -1,0 +1,3 @@
+##### § 612.1 Purpose and scope. #####
+
+This part sets forth Natural Resources Conservation Service (NRCS) policy and procedure for the administration of a cooperative snow survey and water supply forecast program. The program provides agricultural water users and other water management groups in the western states area with water supply forecasts to enable them to plan for efficient water management. The program also provides the public and the scientific community with a data base that can be used to accurately determine the extent of the now resource. The western states area comprises Alaska, Arizona, California (east side of the Sierra Nevada mountain range only), Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.

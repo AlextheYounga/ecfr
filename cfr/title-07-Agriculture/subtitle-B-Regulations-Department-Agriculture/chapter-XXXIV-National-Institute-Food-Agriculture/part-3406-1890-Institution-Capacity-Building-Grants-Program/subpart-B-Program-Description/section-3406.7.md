@@ -1,0 +1,3 @@
+##### § 3406.7 General scope of program. #####
+
+This program supports both teaching project grants and research project grants. Such grants are intended to strengthen the teaching and research capabilities of applicant institutions. Each 1890 Institution may submit one or more grant applications for either category of grants (as allowed by the annual program notice). However, each application must be limited to either a teaching project grant proposal or a research project grant proposal.

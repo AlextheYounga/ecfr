@@ -1,0 +1,3 @@
+##### § 4280.24 Revolved funds. #####
+
+Rural Development and the Intermediary's supplemental funds will be considered revolved after they have been loaned to Ultimate Recipients and subsequently repaid. Loans made from revolved funds will not require prior approval of Rural Development for creditworthiness or environmental clearance purposes. All other Federal compliance requirements, including those in this subpart, remain in effect.

@@ -1,0 +1,9 @@
+##### § 28.161 Disputes involving contracts for shipment of cotton from United States. #####
+
+When an association or exchange located in a country other than the United States shall adopt any of the official cotton standards of the United States and when the members of the committee of such association or exchange having final jurisdiction in the matter of appeals have been designated as cotton examiners by the Director, such committee may be constituted for the purposes of this act a Board of the Department and authorized to act as follows:
+
+(a) Insofar as the exchange has adopted the universal standards the committee may pass upon the classification of cotton involved in a dispute between a party in the United States and a party without the United States to a contract made under the rules of the association or exchange.
+
+(b) The submission of samples of cotton involved in such a dispute to such association or exchange or such committee in accordance with the rules of the association or exchange shall be deemed to be a submission to the Department.
+
+(c) Determinations of classification made by the boards so constituted shall be final. When so provided in the articles, rules, or bylaws of the association or exchange, such determinations may be evidenced by awards. If an award is made which does not state the classification, such board will, upon request of the owner or custodian of the cotton and the payment of a reasonable additional fee, issue a certificate showing in detail the true classification for grade and color of such cotton, based upon a comparison of the samples with the universal standards or with a type or other samples on which the cotton has been sold, as the case may be.

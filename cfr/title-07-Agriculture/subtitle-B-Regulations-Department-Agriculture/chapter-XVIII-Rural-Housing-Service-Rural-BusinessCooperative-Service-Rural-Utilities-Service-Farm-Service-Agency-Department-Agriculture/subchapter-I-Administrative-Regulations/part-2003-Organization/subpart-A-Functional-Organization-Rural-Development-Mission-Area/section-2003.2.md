@@ -1,0 +1,3 @@
+##### § 2003.2 General. #####
+
+The Rural Development mission area of the Department of Agriculture was established as a result of the Department of Agriculture Reorganization Act of 1994, Title II of Pub.L. 103-354. Rural Development's basic organization consists of Headquarters in Washington, D.C. and 47 State Offices. Headquarters maintains overall planning, coordination, and control of Rural Development agency programs. Administrators head RHS, RBS, and RUS under the direction of the Under Secretary for Rural Development. State Directors head the State Offices and are directly responsible to the Under Secretary for the execution of all Rural Development agency programs within the boundaries of their states.

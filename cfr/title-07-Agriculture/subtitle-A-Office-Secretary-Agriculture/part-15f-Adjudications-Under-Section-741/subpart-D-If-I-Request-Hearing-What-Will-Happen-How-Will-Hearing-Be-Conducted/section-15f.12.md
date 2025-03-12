@@ -1,0 +1,3 @@
+##### § 15f.12 Am I entitled to a hearing in all circumstances? #####
+
+Under section 741, you have a right to a hearing as part of the process for USDA to render a final determination on your eligible complaint. However, if at any time the ALJ determines that your complaint is not an eligible complaint, he or she may dismiss your complaint with a final determination and USDA review of your complaint will then have been completed. You also are not entitled to a hearing if there are no material issues of fact in dispute between you and USDA. In other words, if the only dispute remaining is a question of law, you will not receive a hearing and the ALJ will make a final determination under § 15f.16.

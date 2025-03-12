@@ -1,7 +1,5 @@
 ##### § 121.441 Proficiency checks. #####
 
-Link to an amendment published at 81 FR 90983, Dec. 16, 2016.Link to a correction published at 81 FR 95860, Dec. 29, 2016.
-
 (a) No certificate holder may use any person nor may any person serve as a required pilot flight crewmember unless that person has satisfactorily completed either a proficiency check, or an approved simulator course of training under § 121.409, as follows:
 
 (1) For a pilot in command -
@@ -46,16 +44,20 @@ However, the entire proficiency check (other than the initial second-in-command 
 
 (f) Deviation authority based upon designation of related aircraft in accordance with § 121.418(b) of this part.
 
-(1) The Administrator may authorize a deviation from the proficiency check requirements of paragraphs (a) and (b)(1) of this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
+(1) The Administrator may authorize a deviation from the proficiency check requirements of paragraphs (a), (b)(1), and (c) of this section based upon a designation of related aircraft in accordance with § 121.418(b) of this part and a determination that the certificate holder can demonstrate an equivalent level of safety.
 
-(2) A request for deviation from paragraphs (a) and (b)(1) of this section must be submitted to the Administrator. The request must include the following:
+(2) A request for deviation from paragraphs (a), (b)(1), and (c) of this section must be submitted to the Administrator. The request must include the following:
 
 (i) Identification of aircraft operated by the certificate holder designated as related aircraft.
 
-(ii) For recurrent proficiency checks, the frequency of the related aircraft proficiency check and the maneuvers and procedures to be included in the related aircraft proficiency check based on review of the related aircraft, the operation, and the duty position.
+(ii) Based on review of the related aircraft, the operation, and the duty position:
+
+(A) For recurrent proficiency checks, the frequency of the related aircraft proficiency check, the maneuvers and procedures to be included in the related aircraft proficiency check, and the level of FSTD to be used for each maneuver and procedure.
+
+(B) For qualification proficiency checks, the maneuvers and procedures to be included in the related aircraft proficiency check and the level of FSTD to be used for each maneuver and procedure.
 
 (iii) For qualification proficiency checks, the maneuvers and procedures to be included in the related aircraft proficiency check based on review of the related aircraft, the operation, and the duty position.
 
 (3) The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (f).
 
-[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013]
+[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013; Docket FAA-2016-9526, Amdt. 121-377, 81 FR 90983, Dec. 16, 2016; Amdt. 121-377A, 81 FR 95860, Dec. 29, 2016]

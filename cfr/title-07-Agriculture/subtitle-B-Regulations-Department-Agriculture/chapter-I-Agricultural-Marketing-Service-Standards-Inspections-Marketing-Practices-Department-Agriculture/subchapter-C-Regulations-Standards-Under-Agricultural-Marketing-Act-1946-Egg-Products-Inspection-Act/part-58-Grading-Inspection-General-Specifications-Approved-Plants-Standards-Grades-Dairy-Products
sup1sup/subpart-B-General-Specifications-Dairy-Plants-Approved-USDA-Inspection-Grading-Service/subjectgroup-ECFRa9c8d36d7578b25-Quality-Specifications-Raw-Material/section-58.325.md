@@ -1,0 +1,5 @@
+##### § 58.325 Anhydrous milkfat. #####
+
+If cream is used in the production of anhydrous milkfat that is eligible for official certification, the anhydrous milkfat shall be made by a continuous separation process directly from milk or cream. The cream used shall be comparable to the flavor quality specified above for U.S. Grade AA or U.S. Grade A butter. The milkfat from cream may then be further concentrated into oil. The cream or oil shall be pasteurized in accordance with the procedures for cream for buttermaking (§ 58.334a). If butter is used in the production of anhydrous milkfat that is eligible for official certification, the butter used shall conform to the flavor requirements of U.S. Grade AA or U.S. Grade A butter and shall have been manufactured in an approved plant. The appearance of anhydrous milkfat should be fairly smooth and uniform in consistency.
+
+[60 FR 4826, Jan. 24, 1995]

@@ -1,0 +1,3 @@
+##### § 160.32 Marking containers. #####
+
+The interested person shall provide any labor necessary for marking the containers, after the contents have been sampled and graded, at the direction of the official inspector. The container of an article which does not conform with any United States Standard for naval stores as to kind or grade, shall not be marked or certified, and any unauthorized marks appearing on the container shall be removed.

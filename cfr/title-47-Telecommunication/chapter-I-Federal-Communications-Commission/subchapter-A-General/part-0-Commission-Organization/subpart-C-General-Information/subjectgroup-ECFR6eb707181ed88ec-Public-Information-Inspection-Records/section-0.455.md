@@ -1,5 +1,7 @@
 ##### § 0.455 Other locations at which records may be inspected. #####
 
+Link to an amendment published at 82 FR 4189, January 13, 2017.
+
 Except as provided in § 0.453, § 0.457, and § 0.459, records are routinely available for inspection in the Reference Information Center or the offices of the Bureau or Office which exercises responsibility over the matters to which those records pertain (see § 0.5), or will be made available for inspection at those offices upon request. Upon inquiry to the appropriate Bureau or Office, persons desiring to inspect such records will be directed to the specific location at which the particular records may be inspected. Examples of the records available from Bureaus and Offices are set forth in paragraphs (a) through (c).
 
 (a) *Media Bureau.* (1) Rulings under secs. 312(a)(7), 315, and 317 of the Communications Act of 1934, as amended;

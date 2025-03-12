@@ -1,0 +1,3 @@
+##### § 966.121 Issuance. #####
+
+The committee, or its duly authorized agents, shall give prompt consideration to each application for a Certificate of Privilege and shall determine whether the application is approved. Approval of an application shall be evidenced by the issuance of a Certificate of Privilege authorizing the applicant named therein to ship tomatoes for a specified purpose for a specified period of time.

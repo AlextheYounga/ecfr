@@ -2,7 +2,7 @@
 
 As prescribed in 22.407(g), insert the following clause:
 
-Construction Wage Rate Requirements - Price Adjustment (Actual Method) (MAY 2014)
+Construction Wage Rate Requirements - Price Adjustment (Actual Method) (JAN 2017)
 
 (a) The wage determination issued under the Construction Wage Rate Requirements statute by the Administrator, Wage and Hour Division, Employment Standards Administration, U.S. Department of Labor, that is effective for an option to extend the term of the contract, will apply to that option period.
 
@@ -24,7 +24,7 @@ Construction Wage Rate Requirements - Price Adjustment (Actual Method) (MAY 2014
 
 (1) *Computation for contract unit price per single craft hour for schedule of indefinite-quantity work.* For each labor classification, the difference between the actual wage and benefit rates (combined) paid and the wage and benefit rates (combined) required by the new wage determination shall be added to the original contract unit price if the difference results in a combined increase. If the difference computed results in a combined decrease, the contract unit price shall be decreased by that amount if the Contractor provides notification as provided in paragraph (e) of this clause.
 
-(2) *Computation for contract unit price containing multiple craft hours for schedule of indefinite-quantity work.* For each labor classification, the difference between the actual wage and benefit rates (combined) paid and the wage and benefit rates (combined) required by the new wage determination shall be multiplied by the actual number of hours expended for each craft involved in accomplishing the unit-priced work item. The product of this computation will then be divided by the actual number of units ordered in the preceding contract period. The total of these computations for each craft will be added to the current contract unit price to obtain the new contract unit price. The extended amount for the contract line item will be obtained by multiplying the new unit price by the estimated quantity. If actual hours are not available from the preceding contract period for computation of the adjustment for a specific contract unit of work, the Contractor, in agreement with the Contracting Officer, shall estimate the total hours per craft per contract unit of work.
+(2) *Computation for contract unit price containing multiple craft hours for schedule of indefinite-quantity work.* For each labor classification, the difference between the actual wage and benefit rates (combined) paid and the wage and benefit rates (combined) required by the new wage determination shall be multiplied by the actual number of hours expended for each craft involved in accomplishing the unit-priced work item. The product of this computation will then be divided by the actual number of units ordered in the preceding contract period. The total of these computations for each craft will be added to the current contract unit price to obtain the new contract unit price. The extended amount for the line item will be obtained by multiplying the new unit price by the estimated quantity. If actual hours are not available from the preceding contract period for computation of the adjustment for a specific contract unit of work, the Contractor, in agreement with the Contracting Officer, shall estimate the total hours per craft per contract unit of work.
 
 Example: Asphalt Paving - Current Price $3.38 per Square Yard
 
@@ -39,4 +39,4 @@ Example: Asphalt Paving - Current Price $3.38 per Square Yard
 |                                                                    Add DBA price adj.                                                                     | \+ .29|   |                |   |     |   |           |                       |   |                 |
 |                                                             New unit price (per square yard)                                                              | $3.67 |   |                |   |     |   |           |                       |   |                 |
 
-(End of clause)[66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24219, Apr. 29, 2014]
+(End of clause)[66 FR 53482, Oct. 22, 2001, as amended at 79 FR 24219, Apr. 29, 2014; 82 FR 4715, Jan. 13, 2017]

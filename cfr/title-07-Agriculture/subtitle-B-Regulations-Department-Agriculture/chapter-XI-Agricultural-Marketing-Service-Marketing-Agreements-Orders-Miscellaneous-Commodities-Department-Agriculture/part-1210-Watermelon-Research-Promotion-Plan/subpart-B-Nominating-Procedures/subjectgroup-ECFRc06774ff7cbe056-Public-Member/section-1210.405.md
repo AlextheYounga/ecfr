@@ -1,0 +1,7 @@
+##### § 1210.405 Public member nominations and selection. #####
+
+(a) The public member shall be nominated by the other members of the Board. The public member shall have no direct financial interest in the commercial production or marketing of watermelons except as a consumer and shall not be a director, stockholder, officer or employee of any firm so engaged. The Board shall nominate two individuals for the public member position. Voting for public member nominees shall require a quorum of the Board and shall be on the basis of one vote per Board member. Election of nominees shall be on the basis of a simple majority of those present and voting. Such election shall be held prior to August 1, 1990, and every third August first thereafter. The Board may prescribe such additional qualifications, administrative rules and procedures for selection and voting for public member nominees as it deems necessary and the Secretary approves.
+
+(b) Each person nominated for the position of public member on the Board shall qualify by filing a written acceptance with the Secretary within 14 calendar days of completion of the Board meeting at which public member nominees were selected.
+
+[55 FR 13256, Apr. 10, 1990. Redesignated and amended at 60 FR 10800, Feb. 28, 1995]

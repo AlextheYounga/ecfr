@@ -1,0 +1,9 @@
+##### § 1200.13 Administrator's recommended decision. #####
+
+(a) *Preparation.* As soon as practicable following the termination of the period allowed for the filing of written arguments or briefs and proposed findings and conclusions the Administrator shall file with the hearing clerk a recommended decision.
+
+(b) *Contents.* The Administrator's recommended decision shall include: (1) a preliminary statement containing a description of the history of the proceedings, a brief explanation of the material issues of fact, law, or discretion presented on the record, and proposed findings and conclusions about such issues, including the reasons or basis for such proposed findings; (2) a ruling upon each proposed finding or conclusion submitted by interested persons; and (3) an appropriate proposed order effectuating the Administrator's recommendations.
+
+(c) *Exceptions to recommended decision.* Immediately following the filing of the recommended decision, the Administrator shall give notice thereof and opportunity to file exceptions thereto by publication in the Federal Register. Within a period of time specified in such notice any interested person may file with the hearing clerk exceptions to the Administrator's proposed order and a brief in support of such exceptions. Such exceptions shall be in writing, shall refer, where practicable, to the related pages of the transcript, and may suggest appropriate changes in the proposed order.
+
+(d) *Omission of recommended decision.* The procedure provided in this section may be omitted only if the Secretary finds on the basis of the record that due and timely execution of the Secretary's functions imperatively and unavoidably requires such omission.

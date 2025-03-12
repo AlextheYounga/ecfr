@@ -1,0 +1,5 @@
+##### § 1.122 General exemptions. #####
+
+Pursuant to 5 U.S.C. 552a(j), and for the reasons set forth in 54 FR 11204-11206 (March 17, 1989), the systems of records (or portions of systems of records) maintained by agencies of USDA identified in this section are exempted from the provisions of 5 U.S.C. 552a, except subsections (b), (c)(1) and (2), (e)(4)(A) through (F), (e)(6), (7), (9), (10), and (11), and (i).
+
+Office of Inspector GeneralInformant and Undercover Agent Records, USDA/OIG-2.Investigative Files and Automated Investigative Indices System, USDA/OIG-3.OIG Hotline Complaint Records, USDA/OIG-4.Consolidated Assignments, Personnel Tracking, and Administrative Information Network (CAPTAIN), USDA/OIG-5.[54 FR 39517, Sept. 27, 1989, as amended at 62 FR 33982, June 24, 1997; 62 FR 61209, Nov. 17, 1997]

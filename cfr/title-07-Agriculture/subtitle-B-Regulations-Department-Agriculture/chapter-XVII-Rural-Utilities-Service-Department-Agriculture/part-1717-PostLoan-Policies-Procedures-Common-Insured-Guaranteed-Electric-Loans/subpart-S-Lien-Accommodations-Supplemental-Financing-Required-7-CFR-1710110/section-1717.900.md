@@ -1,0 +1,3 @@
+##### § 1717.900 Qualification requirements. #####
+
+Applications for a lien accommodation for supplemental financing required by 7 CFR 1710.110 must meet the same requirements as an RUS insured loan. The justification and documentation materials submitted as part of the borrower's application for an insured loan also serve as the justification and documentation of the request for a lien accommodation for the required supplemental loan. Unless early approval under § 1717.901 is requested by a borrower, these applications will be processed during the same time as RUS's review of the borrower's application for the concurrent insured loan.

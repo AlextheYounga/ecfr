@@ -1,0 +1,7 @@
+##### § 1.193 Time for filing application. #####
+
+(a) An application may be filed whenever the applicant has prevailed in the proceeding or in a significant and discrete substantive portion of the proceeding, but in no case later than 30 days after final disposition of the proceeding by the Department.
+
+(b) For the purposes of this subpart, final disposition means the date on which a decision or order disposing of the merits of the proceeding or any other complete resolution of the proceeding, such as a settlement or voluntary dismissal, become final and unappealable, both within the Department and to the courts.
+
+(c) If review or reconsideration is sought or taken of a decision as to which an applicant believes it has prevailed, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy. When the United States appeals the underlying merits of an adversary adjudication to a court, no decision on an application for fees and other expenses in connection with that adversary adjudication shall be made until a final and unreviewable decision is rendered by the court on the appeal or until the underlying merits of the case have been finally determined pursuant to the appeal.

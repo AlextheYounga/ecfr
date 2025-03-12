@@ -1,0 +1,5 @@
+##### § 985.59 Transfers. #####
+
+(a) Nothing contained in this part shall prevent a producer from transferring the location where that producer's annual allotment is produced to another location except that the producer shall report the transfer to the Committee within 30 days after the transfer.
+
+(b) A producer may transfer all or part of an allotment base to another producer under rules and regulations established by the Committee, with the approval of the Secretary: *Provided,* That the allotment base obtained by transfer from another producer or issued pursuant to § 985.53(d)(1) shall not be transferred for at least 2 years following transfer or issuance, and that the person receiving the allotment base submit to the Committee, evidence of an ability to produce and sell oil from such allotment base in the first marketing year following the transfer or issuance of the allotment base.

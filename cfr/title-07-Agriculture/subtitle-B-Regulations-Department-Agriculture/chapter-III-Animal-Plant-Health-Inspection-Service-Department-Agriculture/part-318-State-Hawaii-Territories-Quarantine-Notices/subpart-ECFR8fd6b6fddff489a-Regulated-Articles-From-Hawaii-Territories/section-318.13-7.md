@@ -1,0 +1,9 @@
+##### § 318.13-7 Products as ships' stores or in the possession of passengers or crew. #####
+
+(a) *In the possession of passengers or crew members.* Small quantities of fruits, vegetables, or cut flowers subject to the quarantine and regulations in this subpart, when loose and free of packing materials, may be taken aboard any ship, vessel, or other surface craft by passengers or members of the crew without inspection and certification in the State of origin. However, if such articles are not eligible for certification under § 318.13-3, they must be entirely consumed or disposed of before arrival within the territorial waters of the continental United States, Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands.
+
+(b) *As ships' stores or decorations.* Fruits, vegetables, or cut flowers subject to the quarantine and regulations in this subpart may be taken aboard a ship, vessel, or other surface craft in Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands without inspection or certification. Fruits, vegetables, and cut flowers that are so taken aboard such a carrier must be either:
+
+(1) Entirely consumed or removed from the ship, vessel, or other surface craft before arrival within the territorial waters of the continental United States, Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, the U.S. Virgin Islands, or any other territory or possession of the United States; or
+
+(2) In the case of a surface carrier, retained aboard such carrier under seal or otherwise disposed of subject to safeguards equivalent to those imposed on other prohibited or restricted products by paragraphs (b) and (c) of § 352.10 of this chapter.

@@ -1,6 +1,6 @@
 ##### § 570.482 Eligible activities. #####
 
-Link to an amendment published at 81 FR 90659, December 14, 2016.Link to an amendment published at 81 FR 92636, December 20, 2016.
+Link to an amendment published at 81 FR 92636, December 20, 2016.
 
 (a) *General.* The choice of activities on which block grant funds are expended represents the determination by state and local participants, developed in accordance with the state's program design and procedures, as to which approach or approaches will best serve these interests. The eligible activities are listed at section 105(a) of the Act.
 
@@ -31,6 +31,8 @@ Link to an amendment published at 81 FR 90659, December 14, 2016.Link to an amen
 (iii) Services of any type carried out under the provisions of section 105(a)(15) of the Act pursuant to a strategy approved by a state under the provisions of § 91.315(e)(2) of this title.
 
 (3) Environmental cleanup and economic development or redevelopment of contaminated properties. Remediation of known or suspected environmental contamination may be undertaken under the authority of section 205 of Public Law 105-276 and section 105(a)(4) of the Act. Economic development activities carried out under sections 105(a)(14), (a)(15), or (a)(17) of the Act may include costs associated with project-specific assessment or remediation of known or suspected environmental contamination.
+
+(4) Housing counseling, as defined in 24 CFR 5.100, that is funded with or provided in connection with CDBG funds must be carried out in accordance with 24 CFR 5.111.
 
 (d) [Reserved]
 
@@ -162,4 +164,4 @@ Link to an amendment published at 81 FR 90659, December 14, 2016.Link to an amen
 
 (iii) *Arms-length transactions.* Assistance to a business that purchases business equipment, inventory, or other physical assets in an arms-length transaction, including the assets of an existing business, provided that the purchase does not result in the relocation of the sellers' business operation (including customer base or list, goodwill, product lines, or trade names) from one LMA to another LMA and does not produce a significant loss of jobs in the LMA from which the relocation occurs.
 
-[57 FR 53397, Nov. 9, 1992, as amended at 60 FR 1949, Jan. 5, 1995; 61 FR 54921, Oct. 22, 1996; 70 FR 76370, Dec. 23, 2005; 71 FR 30035, May 24, 2006]
+[57 FR 53397, Nov. 9, 1992, as amended at 60 FR 1949, Jan. 5, 1995; 61 FR 54921, Oct. 22, 1996; 70 FR 76370, Dec. 23, 2005; 71 FR 30035, May 24, 2006; 81 FR 90659, Dec. 14, 2016]

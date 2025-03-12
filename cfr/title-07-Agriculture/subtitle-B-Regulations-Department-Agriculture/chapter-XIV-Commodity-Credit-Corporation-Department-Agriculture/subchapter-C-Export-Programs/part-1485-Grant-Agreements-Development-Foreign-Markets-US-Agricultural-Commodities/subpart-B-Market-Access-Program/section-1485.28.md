@@ -1,0 +1,15 @@
+##### § 1485.28 Ethical conduct. #####
+
+(a) A MAP Participant shall conduct its business in accordance with the laws and regulations of the country in which an activity is carried out and in accordance with applicable U.S. Federal, state and local laws, and regulations. A MAP Participant shall conduct its business in the United States in accordance with applicable Federal, state and local laws and regulations. All MAP Participants must comply with the regulations in 2 CFR parts 200 and 421 and this part.
+
+(b) Except for a U.S. agricultural cooperative or a U.S. for-profit entity, neither a MAP Participant nor its affiliates shall make export sales of U.S. agricultural commodities and products covered under the terms of the applicable MAP agreement. Nor shall such entities charge a fee for facilitating an export sale. A MAP Participant may, however, collect check-off funds and membership fees that are required for membership in the MAP Participant. For the purposes of this paragraph, “affiliate” means any partnership, association, company, corporation, trust, or any other such party in which the Participant has an investment other than in a mutual fund.
+
+(c) A MAP Participant shall not limit participation in its MAP activities to members of its organization. Participants shall ensure that their MAP-funded programs and activities are open to all otherwise qualified individuals and entities on an equal basis and without regard to any non-merit factors. The MAP Participant shall publicize its program and make participation possible for commercial entities throughout the relevant commodity sector or, in the case of SRTGs, throughout the corresponding region. This includes providing to such commercial entities, upon request, a copy of any document in its possession or control containing market information developed and produced under the terms of its MAP agreement. The Participant may charge a fee not to exceed the costs for assembling, duplicating and distributing the materials. This paragraph does not apply to U.S. agricultural cooperatives when implementing their own brand program.
+
+(d) A MAP Participant shall select U.S. agricultural industry representatives to participate in generic MAP activities such as trade teams, sales teams, and trade fairs based on criteria that ensure participation on an equitable basis by a broad cross section of the U.S. industry. If requested by CCC, a MAP Participant shall submit such selection criteria to CCC for approval.
+
+(e) All MAP Participants should endeavor to ensure fair and accurate fact-based advertising. Deceptive or misleading promotions may result in cancellation or termination of a Participant's MAP agreement and the recovery of CCC funds related to such promotions from the Participant.
+
+(f) The MAP Participant must report any actions or circumstances that may have a bearing on the propriety of its MAP program to the appropriate Attaché/Counselor, and its U.S. office shall report such actions or circumstances in writing to CCC.
+
+[60 FR 6363, Feb. 1, 1995, as amended at 79 FR 75997, Dec. 19, 2014]

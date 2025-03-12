@@ -1,0 +1,3 @@
+##### § 1770.14 Continuing property records. #####
+
+Each borrower shall maintain continuing property records which detail the date of placement, location, description of property, and the original cost of the property record units. The continuing property record and other underlying records of construction costs shall be maintained so that upon retirement of one or more retirement units or of minor items without replacement when not included in the costs of retirement units, the actual cost of the plant retired can be determined.

@@ -1,0 +1,3 @@
+##### § 1220.621 Certification and request form. #####
+
+Form LS-51-1 shall be used to request a referendum and certify producer eligibility. The form does not require a “yes” or “no” vote. Individual producers and representatives of other producer entities should read the form carefully. By completing and signing the form, the individual simultaneously certifies eligibility and requests that a referendum be conducted.

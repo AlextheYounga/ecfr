@@ -1,0 +1,3 @@
+##### § 1786.37 Application of regulation to previous prepayments. #####
+
+Nothing contained in this subpart shall affect the validity of prepayments made or guarantees issued pursuant to previous regulations. Those borrowers, however, that completed a prepayment pursuant to section 306(A) of the RE Act and closed loans prior to February 27, 1988, may, in their discretion request RUS approval and if required by prior regulations the concurrence of the Secretary of the Treasury, of any amendments necessary to make the terms and conditions of such loans consistent with, or to consolidate such loans with, loans guaranteed under these regulations.

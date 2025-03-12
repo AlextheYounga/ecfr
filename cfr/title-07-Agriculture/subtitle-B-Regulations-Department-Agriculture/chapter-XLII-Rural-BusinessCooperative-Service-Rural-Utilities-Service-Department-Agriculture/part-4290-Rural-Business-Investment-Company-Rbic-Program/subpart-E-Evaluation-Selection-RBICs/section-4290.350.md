@@ -1,0 +1,3 @@
+##### § 4290.350 Eligibility and completeness. #####
+
+The Secretary will not consider any application that is not complete or that is submitted by an Applicant that does not meet the eligibility criteria described in subpart C of this part. The Secretary at his or her sole discretion, may request from an Applicant additional information concerning eligibility criteria or easily completed portions of the application in order to facilitate consideration of its application.

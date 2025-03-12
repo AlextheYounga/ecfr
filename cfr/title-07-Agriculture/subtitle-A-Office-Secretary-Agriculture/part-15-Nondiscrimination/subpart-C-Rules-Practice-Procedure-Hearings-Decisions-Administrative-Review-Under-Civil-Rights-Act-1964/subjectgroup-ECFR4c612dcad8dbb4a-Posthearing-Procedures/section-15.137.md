@@ -1,0 +1,3 @@
+##### § 15.137 Exceptions to initial or proposed decision. #####
+
+Within 30 days of the mailing of such notice of initial or recommended findings and proposed decision, the applicant or recipient and other parties may file with the hearing clerk for consideration by the Secretary exceptions to the initial or recommended findings and proposed decision, with reasons therefor. Each party will be given reasonable opportunity to file briefs or other written statements of contentions in which the party may request that the decision be modified, reversed, affirmed or adopted.

@@ -1,0 +1,3 @@
+##### § 1957.2 Transfer with assumptions. #####
+
+RHS regulations governing transfers and assumptions will not apply to these loans. Individuals who what to purchase property securing a loan held by the Rural Housing Trust 1987-1, and who are eligible for an RHS § 502 loan will be given the same priority by RHS as a transferee of a § 502 loan if the property is then suitable for the RHS RH program and is located in an eligible area. The Master Servicer of the Rural Housing Trust, 1987-1, may permit an assumption if it is deemed by the Master Servicer to be in the financial interest of the Trust, but in such case the transferee would not be eligible for RHS loan servicing benefits under RHS regulations.

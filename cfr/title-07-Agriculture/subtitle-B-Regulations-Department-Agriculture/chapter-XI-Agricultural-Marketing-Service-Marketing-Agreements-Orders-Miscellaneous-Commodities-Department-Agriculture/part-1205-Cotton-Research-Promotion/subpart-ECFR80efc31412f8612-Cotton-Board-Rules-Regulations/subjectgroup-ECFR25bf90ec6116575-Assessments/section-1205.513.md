@@ -1,0 +1,31 @@
+##### § 1205.513 Collecting handlers and time of collection of the supplemental assessment. #####
+
+Collecting handlers and the time of collecting the supplemental assessment shall be as follows:
+
+(a) Except as provided in paragraph (b) of this section, any person who purchases a bale of cotton from the producer of the cotton shall be the collecting handler for such cotton. The handler shall collect the supplemental assessment at the time the handler first makes any payment or any credit to the producer's account for the cotton. The handler shall give the producer a receipt indicating payment of the supplemental assessment.
+
+(b) Any cooperative marketing association or other person that accepts a bale of cotton from the producer of the cotton under an oral or written contract or agreement providing for the marketing of the cotton shall be the collecting handler for such cotton. Such association or person shall collect the supplemental assessment regardless of whether the cotton is marketed or tendered to CCC for price support loan. The handler shall collect the supplemental assessment at the time the handler first makes any cash advance, any payment, or any credit to the producer's account for the cotton. Supplemental assessments due on any subsequent cash advances, payments, or credits to the producer's account shall be collected by the handler at the time final settlement is made on the cotton. The handler shall give the producer a receipt each time a supplemental assessment is collected.
+
+(c) For bales of cotton tendered to CCC for Form A loan, except bales tendered pursuant to paragraph (b) of this section:
+
+(1) The ASCS County Office shall be the collecting handler except as provided in paragraph (c)(2) of this section. The ASCS County Office shall collect the supplemental assessment when it makes disbursement based on the Form A loan value of cotton. The producer's copy of the Cotton Producer's Note (Form CCC Cotton A) shall show payment of the supplemental assessment and shall constitute the producer's receipt for payment of the supplemental assessment.
+
+(2) Any person (other than an ASCS County Office) who advances to the producer the loan value of the cotton as shown on a Cotton Producer's Note (Form CCC Cotton A) shall be the collecting handler for such cotton. The handler shall collect the supplemental assessment at the time the handler makes any advance to the producer on the loan value of the cotton. The handler shall give the producer a receipt indicating payment of the supplemental assessment.
+
+(d) With respect to any Upland cotton on which the producer or a cooperative marketing association acting on behalf of a producer receives a loan deficiency payment, the ASCS County Office or the cooperative marketing association shall be the collecting handler of the supplemental assessment on the value of the cotton represented by the loan deficiency payment at the time such payment is made to the producer or the cooperative marketing association. A copy of a document reflecting this transaction issued by the ASCS County Office or cooperative marketing association shall show the amount collected as the supplemental assessment and shall constitute the producer's receipt for payment of the supplemental assessment.
+
+(e) Any person who (1) purchases a producer's equity in cotton tendered to CCC for Form A loan or (2) purchases cotton that a producer has redeemed from the Form A loan, shall be the collecting handler for the portion of the total supplemental assessment not collected under paragraph (c) of this section. The handler shall give the producer a receipt indicating payment of that portion of the supplemental assessment.
+
+(f) Any person who purchases cotton in the cotton field where produced or who purchases seed cotton or unbaled lint cotton from the producer of the cotton shall be the collecting handler. The handler shall collect the supplemental assessment at the time such cotton is ginned and shall give the producer a receipt indicating payment of the supplemental assessment. When a bale is ginned and baled that contains any such cotton purchased from more than one producer, the handler shall collect each producer's proportionate share of the supplemental assessment and shall give each producer a receipt indicating the producer's proportionate share of the supplemental assessment payment.
+
+(g) Any person who purchases cotton from a producer whereby the producer agrees to deliver a certain quantity of cotton but retains the right to establish the price at some future date shall be the collecting handler for such cotton. The handler shall collect the supplemental assessment at the time final settlement is made on the cotton. The handler shall give the producer a receipt indicating payment of the supplemental assessment.
+
+(h) Any person who consumes domestically cotton of that person's own production shall be the collecting handler for such cotton. The handler shall pay the supplemental assessment at the time of consumption on the basis of a market value determined in consultation with the Cotton Board.
+
+(i) Any person who exports cotton of that person's own production shall be the collecting handler for such cotton. Such handler shall pay the supplemental assessment on the basis of the current value of cotton as reflected on the export settlement document.
+
+(j) Any person who obtains ownership of a bale of cotton from the producer of the cotton by transfer of any kind or by any means, under conditions other than those described in paragraph (a), (b), (c), (d), (e), or (f) of this section shall be the collecting handler for such cotton. Such handler shall collect the supplemental assessment at the time the handler takes ownership of the cotton. The handler shall give the producer a receipt indicating payment of the supplemental assessment.
+
+(k) In the event of a producer's death, bankruptcy, receivership, or incapacity to act, the representative of such producer or the producer's estate, or the person acting on behalf of creditors, shall be considered the producer for the purposes of this section.
+
+[42 FR 35974, July 31, 1977, as amended at 50 FR 10932, Mar. 19, 1985; 51 FR 37705, Oct. 24, 1986; 57 FR 29190, July 1, 1992]

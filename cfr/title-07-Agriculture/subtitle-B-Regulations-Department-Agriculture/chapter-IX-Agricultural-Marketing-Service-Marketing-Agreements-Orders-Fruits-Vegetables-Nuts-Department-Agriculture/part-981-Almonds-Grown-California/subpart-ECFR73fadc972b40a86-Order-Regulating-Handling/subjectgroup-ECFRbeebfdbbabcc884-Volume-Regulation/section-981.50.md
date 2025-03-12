@@ -1,0 +1,5 @@
+##### § 981.50 Reserve obligation. #####
+
+Whenever salable and reserve percentages are in effect for a crop year, each handler shall withhold from handling a quantity of almonds having a kernel weight equal to the reserve percentage of the kernel weight of all almonds such handler receives for his own account during the crop year: *Provided,* That, any quantity of almonds delivered to outlets such as poultry or animal feed or crushing into oil, in a manner permitting accountability to the Board, shall not be included in such receipts. The quantity of almonds hereby required to be withheld from handling shall constitute, and may be referred to as the “reserve” or “reserve obligation” of a handler. The almonds handled as salable almonds by any handler, in accordance with the provisions of this part, shall be deemed to be that handler's quota fixed by the Secretary within the meaning of section 8a(5) of the act.
+
+[41 FR 26853, June 30, 1976]

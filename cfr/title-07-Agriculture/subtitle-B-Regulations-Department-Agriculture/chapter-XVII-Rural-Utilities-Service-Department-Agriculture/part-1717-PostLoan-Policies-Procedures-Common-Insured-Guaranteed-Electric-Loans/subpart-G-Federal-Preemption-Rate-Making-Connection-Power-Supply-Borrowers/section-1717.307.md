@@ -1,0 +1,3 @@
+##### § 1717.307 Distribution members' rates. #####
+
+A state regulatory authority which has been pre-empted as provided in this subpart may continue to exercise jurisdiction, pursuant to applicable provisions of state law, over all other business affairs of the power supply borrower and over the rates of its distribution members: Provided, however, that the state regulatory authority shall treat any RUS approved rate for the power supply borrower as fair and reasonable and shall not in any manner, directly or indirectly, prevent or impede the distribution member from recovering the costs of paying the RUS approved rates to the power supply borrower.

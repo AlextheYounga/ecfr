@@ -1,0 +1,7 @@
+##### § 1470.37 Environmental credits for conservation improvements. #####
+
+(a) A participant in CSP may achieve environmental benefits that qualify for environmental credits under an environmental credit-trading program. NRCS asserts no direct or indirect interest in these credits. However, NRCS retains the authority to ensure that CSP purposes are met. In addition, any requirements or standards of an environmental market program in which a CSP participant simultaneously enrolls to receive environmental credits must be compatible with the purposes and requirements of the CSP contract and with this part.
+
+(b) The participant must meet all operation and maintenance (O&M) requirements for CSP-funded activities, consistent with §§ 1470.21 and 1470.23. Where activities required under an environmental credit agreement may affect the land and conservation activities under a CSP contract, NRCS recommends that CSP participants request assistance with the development of a compatibility assessment prior to entering into any credit agreement. The CSP contract may be modified in accordance with policies outlined in § 1470.25 provided the modification meet CSP purposes and is in compliance with this part.
+
+(c) CSP participants may not use CSP funds to implement conservation practices and activities that the participant is required to establish as a result of a court order.

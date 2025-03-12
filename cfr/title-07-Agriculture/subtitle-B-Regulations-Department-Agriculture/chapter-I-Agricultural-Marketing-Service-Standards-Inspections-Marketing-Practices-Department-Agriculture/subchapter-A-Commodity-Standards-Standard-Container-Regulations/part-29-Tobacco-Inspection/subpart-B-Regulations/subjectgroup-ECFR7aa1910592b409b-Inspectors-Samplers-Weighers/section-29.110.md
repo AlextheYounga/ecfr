@@ -1,0 +1,3 @@
+##### § 29.110 Method of sampling. #####
+
+In sampling tobacco under the Act, at least three breaks shall be made at different points in the lot, and in the discretion of the sampler as many more breaks shall be made as seem necessary to show the range of the entire lot. From the breaks so made tobacco to be used in the official sample shall be selected. The official shall, so far as practicable, include tobacco of each quality, color, length, and other characteristics found in the lot in such proportions as would truly represent the lot. In case a lot is found to be damaged, nested, or in doubtful keeping order, the official sample tag shall be so marked. Official sample tags shall be attached to the sample, in a manner prescribed by the Director.

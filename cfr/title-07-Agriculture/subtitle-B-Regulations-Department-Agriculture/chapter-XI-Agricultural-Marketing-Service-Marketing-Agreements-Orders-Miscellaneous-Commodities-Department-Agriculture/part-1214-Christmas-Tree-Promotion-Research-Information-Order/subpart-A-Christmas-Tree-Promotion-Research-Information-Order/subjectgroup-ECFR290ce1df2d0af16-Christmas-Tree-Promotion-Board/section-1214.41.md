@@ -1,0 +1,13 @@
+##### § 1214.41 Nominations and appointments. #####
+
+(a) Voting for producer members will be made by mail ballot, electronic mail, in person, or by facsimile.
+
+(b) Nominations for the initial Board will be conducted by the Department. Subsequent nominations will be conducted by the Board.
+
+(c) The Board shall outreach to all segments of the Christmas tree industry and solicit nominations as described in paragraphs (d) and (e) of this section. Nominees must domestically produce or import more than 500 Christmas trees during the most recent fiscal period.
+
+(d) Nomination of producer members will be conducted by the Board. The Board staff will seek nominations for each vacant producer seat from each region from producers who have paid their assessments to the Board in the most recent fiscal period. Producers who produce Christmas trees in more than one region may seek nomination only in the region in which they produce the majority of their Christmas trees. For selection to the initial Board, the Secretary will notify producers to request nominations to the Board. Subsequent nominations will be submitted to the Board office and placed on a ballot that will be sent to producers in each region for a vote. Producers who produce Christmas trees in more than one region may only vote in the region in which they produce the majority of their Christmas trees. The nominee receiving the highest number of votes and the nominee receiving the second highest number of votes shall be submitted to the Department as the producers' first and second choice nominees. The Board shall submit nominations to the Secretary not less than 90 days prior to the expiration of the term of office.
+
+(e) Nominations for the importer member(s) will be conducted by the Board. The Board will solicit importer nominations from those importers who have paid their assessments to the Board in the most recent fiscal period. For selection to the initial Board, the Secretary will notify importers to request nominations to the Board. Subsequent nominations will be submitted to the Board office and placed on a ballot that will be sent to importers for a vote. The Board shall submit those nominations to the Secretary not less than 90 days prior to the expiration of the term of office. Two nominees for each importer position will be submitted to the Secretary for consideration.
+
+(f) From the nominations, the Secretary shall select the members of the Board for each position on the Board. Members will serve until their successors have been appointed by the Secretary.

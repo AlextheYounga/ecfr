@@ -1,0 +1,21 @@
+##### § 301.85-4 Issuance and cancellation of certificates and permits. #####
+
+(a) Certificates may be issued for any regulated articles (except soil samples for processing, testing, or analysis) by an inspector if the inspector determines that they are eligible for certification for movement to any destination under all Federal domestic plant quarantines applicable to such articles and:
+
+(1) Have originated in noninfested premises in a regulated area and have not been exposed to infestation while within the regulated areas; or
+
+(2) Have been treated to destroy infestation in accordance with part 305 of this chapter; or
+
+(3) Have been grown, produced, manufactured, stored, or handled in such a manner that no infestation would be transmitted thereby.
+
+(b) Limited permits may be issued by an inspector to allow interstate movement of regulated articles (except soil samples for processing, testing or analysis) not eligible for certification under this subpart, to specified destinations for limited handling, utilization, or processing, or for treatment in accordance with part 305 of this chapter, when, upon evaluation of the circumstances involved in each specific case he determines that such movement will not result in the spread of the golden nematode and requirements of other applicable Federal domestic plant quarantines have been met.
+
+(c) Restricted destination permits may be issued by an inspector to allow the interstate movement (for other than scientific purposes) of regulated articles (except soil samples for processing, testing, or analysis) to any destination permitted under all applicable Federal domestic plant quarantines if such articles are not eligible for certification under all such quarantines but would otherwise qualify for certification under this subpart.
+
+(d) Scientific permits to allow the interstate movement of regulated articles and certificates or permits to allow the movement of soil samples for processing, testing, or analysis in emergency situations may be issued by the Deputy Administrator under such conditions as may be prescribed in each specific case by the Deputy Administrator to prevent the spread of the golden nematode.
+
+(e) Certificate, limited permit, and restricted destination permit forms may be issued by an inspector to any person for use for subsequent shipments of regulated articles (except for soil samples for processing, testing, or analysis) provided such person is operating under a compliance agreement; and any such person may be authorized by an inspector to reproduce such forms on shipping containers or otherwise. Any such person may execute and issue the certificate forms, or reproductions of such forms, for the interstate movement of regulated articles from the premises of such person identified in the compliance agreement if such person has treated such regulated articles to destroy infestation in accordance with part 305 of this chapter, and if such regulated articles are eligible for certification for movement to any destination under all Federal domestic plant quarantines applicable to such articles. Any such person may execute and issue the limited permit forms, or reproductions of such forms, for interstate movement of regulated articles to specified destinations when the inspector has made the determinations specified in paragraph (b) of this section. Any such person may execute and issue the restricted destination permit forms, or reproductions of such forms, for the interstate movement of regulated articles not eligible for certification under all Federal domestic plant quarantines applicable to such articles, under the conditions specified in paragraph (c) of this section.
+
+(f) Any certificate or permit which has been issued or authorized may be withdrawn by the inspector or the Deputy Administrator if he or she determines that the holder thereof has not complied with any condition for the use of such document imposed by this subpart. Prior to such withdrawal, the holder of the certificate of permit shall be notified of the proposed action and the reason therefor and afforded reasonable opportunity to present his or her views thereon.
+
+[37 FR 24330, Nov. 16, 1972, as amended at 70 FR 33268, June 7, 2005]

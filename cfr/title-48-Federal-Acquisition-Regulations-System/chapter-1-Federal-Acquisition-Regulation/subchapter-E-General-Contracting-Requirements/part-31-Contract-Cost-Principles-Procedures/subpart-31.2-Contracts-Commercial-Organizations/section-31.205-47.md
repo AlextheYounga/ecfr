@@ -4,7 +4,7 @@
 
 *Costs* include, but are not limited to, administrative and clerical expenses; the costs of legal services, whether performed by in-house or private counsel; the costs of the services of accountants, consultants, or others retained by the contractor to assist it; costs of employees, officers, and directors; and any similar costs incurred before, during, and after commencement of a judicial or administrative proceeding which bears a direct relationship to the proceedings.
 
-*Fraud*means -
+*Fraud* means -
 
 (1) Acts of fraud or corruption or attempts to defraud the Government or to corrupt its agents;
 
@@ -12,11 +12,11 @@
 
 (3) Acts which violate the False Claims Act, 31 U.S.C., sections 3729-3731, or 41 U.S.C. chapter 87, Kickbacks.
 
-*Penalty,* does not include restitution, reimbursement, or compensatory damages.
+*Penalty* does not include restitution, reimbursement, or compensatory damages.
 
-*Proceeding,* includes an investigation.
+*Proceeding* includes an investigation.
 
-(b) In accordance with 41 U.S.C. 4310 and 10 U.S.C. 2324(k), costs incurred in connection with any proceeding brought by a Federal, State, local, or foreign government, or by a contractor or subcontractor employee submitting a whistleblower complaint of reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409, for violation of, or a failure to comply with, law or regulation by the contractor (including its agents or employees), or costs incurred in connection with any proceeding brought by a third party in the name of the United States under the False Claims Act, 31 U.S.C. 3730, are unallowable if the result is -
+(b) Costs incurred in connection with any proceeding brought by: A Federal, State, local, or foreign government for a violation of, or failure to comply with, law or regulation by the contractor (including its agents or employees) (41 U.S.C. 4310 and 10 U.S.C. 2324(k)); a contractor or subcontractor employee submitting a whistleblower complaint of reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409; or a third party in the name of the United States under the False Claims Act, 31 U.S.C. 3730, are unallowable if the result is -
 
 (1) In a criminal proceeding, a conviction;
 
@@ -72,6 +72,8 @@
 
 (8) Protests of Federal Government solicitations or contract awards, or the defense against protests of such solicitations or contract awards, unless the costs of defending against a protest are incurred pursuant to a written request from the cognizant contracting officer.
 
+(9) A Congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in paragraphs (b)(1) through (5) of this section (see 10 U.S.C. 2324(e)(1)(Q)).
+
 (g) Costs which may be unallowable under 31.205-47, including directly associated costs, shall be segregated and accounted for by the contractor separately. During the pendency of any proceeding covered by paragraph (b) and subparagraphs (f)(4) and (f)(7) of this subsection, the contracting officer shall generally withhold payment of such costs. However, if in the best interests of the Government, the contracting officer may provide for conditional payment upon provision of adequate security, or other adequate assurance, and agreement by the contractor to repay all unallowable costs, plus interest, if the costs are subsequently determined to be unallowable.
 
-[48 FR 42301, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 31.205-47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[48 FR 42301, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 31.205-47, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,12 +1,10 @@
 ##### § 80.59 Compulsory ship inspections. #####
 
-Link to an amendment published at 81 FR 90746, Dec. 15, 2016.
-
 (a) Inspection of ships subject to the Communications Act or the Safety Convention.
 
 (1) The FCC will not normally conduct the required inspections of ships subject to the inspection requirements of the Communications Act or the Safety Convention.
 
-Note:
+Note to paragraph (a)(1):
 
 Nothing in this section prohibits Commission inspectors from inspecting ships. The mandatory inspection of U.S. vessels must be conducted by an FCC-licensed technician holding an FCC General Radiotelephone Operator License, GMDSS Radio Maintainer's License, Second Class Radiotelegraph Operator's Certificate, First Class Radiotelegraph Operator's Certificate, or Radiotelegraph Operator License in accordance with the following table:
 
@@ -110,4 +108,4 @@ With emergency requests, do not send the fee, you will be billed.
 
 (2) Vessels that are navigated on voyages outside of the United States for more than 12 months in succession are exempted from annual inspection required by section 362(b) of the Communications Act, provided that the vessels comply with all applicable requirements of the Safety Convention, including the annual inspection required by Regulation 9, Chapter I, and the vessel is inspected by an FCC-licensed technician in accordance with this section within 30 days of arriving in the United States.
 
-[51 FR 31213, Sept. 2, 1986, as amended at 56 FR 64715, Dec. 12, 1991; 60 FR 50122, Sept. 28, 1995; 61 FR 8478, Mar. 5, 1996; 61 FR 25805, May 23, 1996; 63 FR 29658, June 1, 1998; 63 FR 68956, Dec. 14, 1998; 64 FR 53241, Oct. 1, 1999; 68 FR 46960, Aug. 7, 2003; 69 FR 64671, Nov. 8, 2004; 73 FR 9031, Feb. 19, 2008; 78 FR 23154, Apr. 18, 2013; 80 FR 53751, Sept. 8, 2015]
+[51 FR 31213, Sept. 2, 1986, as amended at 56 FR 64715, Dec. 12, 1991; 60 FR 50122, Sept. 28, 1995; 61 FR 8478, Mar. 5, 1996; 61 FR 25805, May 23, 1996; 63 FR 29658, June 1, 1998; 63 FR 68956, Dec. 14, 1998; 64 FR 53241, Oct. 1, 1999; 68 FR 46960, Aug. 7, 2003; 69 FR 64671, Nov. 8, 2004; 73 FR 9031, Feb. 19, 2008; 78 FR 23154, Apr. 18, 2013; 80 FR 53751, Sept. 8, 2015; 81 FR 90746, Dec. 15, 2016]

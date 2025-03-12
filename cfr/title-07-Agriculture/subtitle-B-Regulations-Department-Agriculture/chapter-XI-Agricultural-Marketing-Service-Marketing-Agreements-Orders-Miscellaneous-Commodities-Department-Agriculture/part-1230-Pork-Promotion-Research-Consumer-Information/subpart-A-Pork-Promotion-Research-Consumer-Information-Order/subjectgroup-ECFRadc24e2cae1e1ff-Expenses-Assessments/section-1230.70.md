@@ -1,0 +1,5 @@
+##### § 1230.70 Expenses. #####
+
+(a) The Board is authorized to incur such expenses (including provision for a reasonable reserve that would permit an effective promotion, research, and consumer information program to continue in years when the amount of assessments may be reduced) as the Secretary finds are reasonable and likely to be incurred by the Board for its administration, maintenance, and functioning and to enable it to exercise its powers and perform its duties in accordance with the provisions of this subpart, including financing plans and projects. Such expenses shall be paid from assessments collected pursuant to § 1230.71 and other funds available to the Board, including donations.
+
+(b) The Board shall reimburse the Secretary, from assessments collected pursuant to § 1230.71, for reasonable administrative expenses incurred by the Department with respect to this subpart after January 1, 1986, including any expenses reasonably incurred for the conduct of elections of nominees for appointment to the initial Delegate Body and for the conduct of referenda.

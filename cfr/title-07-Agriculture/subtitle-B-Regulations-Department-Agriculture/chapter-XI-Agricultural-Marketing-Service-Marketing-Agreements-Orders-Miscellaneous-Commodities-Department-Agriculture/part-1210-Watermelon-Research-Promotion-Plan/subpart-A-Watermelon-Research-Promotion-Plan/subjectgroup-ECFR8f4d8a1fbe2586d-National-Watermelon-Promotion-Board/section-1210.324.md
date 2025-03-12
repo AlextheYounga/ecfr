@@ -1,0 +1,7 @@
+##### § 1210.324 Vacancies. #####
+
+(a) In the event any member of the Board ceases to be a member of the category of members from which the member was appointed to the Board, such position shall automatically become vacant.
+
+(b) If a member of the Board consistently refuses to perform the duties of a member of the Board, or if a member of the Board engages in acts of dishonesty or willful misconduct, the Board may recommend to the Secretary that the member be removed from office. If the Secretary finds the recommendation of the Board shows adequate cause, the Secretary shall remove such member from office. Further, without recommendation of the Board, a member may be removed by the Secretary upon showing of adequate cause, if the Secretary determines that the person's continual services would be detrimental to the purposes of the Act.
+
+(c) To fill any vacancy caused by the failure of any person selected as a member of the Board to qualify, or in the event of the death, removal, resignation, or disqualification of any member, a successor shall be nominated and selected in the manner specified in § 1210.321, except that said nomination and replacement shall not be required if the unexpired term of office is less than six months. In the event of failure to provide nominees for such vacancies, the Secretary may appoint other eligible persons.

@@ -1,0 +1,3 @@
+##### § 160.78 Loss or damage of standards. #####
+
+In case any duplicates become damaged or are missing, the person to whom they were loaned shall promptly inform the Administrator in writing, stating what damage or loss was sustained and how the same occurred. The cost of making necessary repairs to any duplicates, or of replacing those damaged beyond repair, or missing, shall be paid promptly by the person to whom they were originally loaned.

@@ -1,0 +1,3 @@
+##### § 1955.52 Policy. #####
+
+Inventory and custodial real property will be effectively managed to preserve its value and protect the Government's financial interests. Properties owned or controlled by Rural Development will be maintained so that they are not a detriment to the surrounding area and they comply with State and local codes. Generally, Rural Development will continue operation of Multiple Family Housing (MFH) projects which are acquired or taken into custody. Servicing of repossessed or abandoned chattel property is covered in subpart A of part 1962 of this chapter, and management of inventory chattel property is covered in § 1955.80 of this subpart.

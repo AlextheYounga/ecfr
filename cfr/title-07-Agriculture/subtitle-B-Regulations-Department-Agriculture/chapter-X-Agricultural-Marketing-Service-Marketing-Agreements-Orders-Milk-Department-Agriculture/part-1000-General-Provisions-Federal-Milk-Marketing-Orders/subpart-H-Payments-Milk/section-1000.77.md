@@ -1,0 +1,3 @@
+##### § 1000.77 Adjustment of accounts. #####
+
+Whenever audit by the market administrator of any handler's reports, books, records, or accounts, or other verification discloses errors resulting in money due the market administrator from a handler, or due a handler from the market administrator, or due a producer or cooperative association from a handler, the market administrator shall promptly notify such handler of any amount so due and payment thereof shall be made on or before the next date for making payments as set forth in the provisions under which the error(s) occurred.

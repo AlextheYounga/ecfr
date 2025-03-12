@@ -1,0 +1,5 @@
+##### § 29.91 How to obtain an appeal. #####
+
+An appeal shall be made in writing and filed with the Division or the office of inspection for the type of tobacco involved. Such appeal shall show:
+
+(a) The date; (b) the name and post office address of the appellant and of the person, if any, making the appeal in his behalf; (c) the financial interest of the appellant in the tobacco; (d) the reasons for making the appeal; and such other information as may be required by the Director. The appeal shall be accompanied by the certificate or sample from which the appeal is taken, unless such requirement is waived by the Division when it is impracticable for the appellant to furnish such certificate. The appeal inspector may require the appellant to furnish any other relevant and necessary information for the proper consideration of the appeal.

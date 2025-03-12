@@ -1,0 +1,11 @@
+##### § 4280.193 Selecting Energy Audit and REDA grant applications for award. #####
+
+Unless otherwise provided for in a Federal Register notice, Energy Audit and REDA grant applications will be processed in accordance with this section.
+
+(a) *Application competition.* Complete Energy Audit and REDA applications received by the Agency by 4:30 p.m. local time on January 31 will be competed against each other. If January 31 falls on a weekend or a federally-observed holiday, the next Federal business day will be considered the last day for receipt of a Complete Application. Complete Applications received after 4:30 p.m. local time on January 31, regardless of the postmark on the application, will be processed in the subsequent fiscal year. Unless otherwise specified in a Federal Register notice, the two highest scoring applications from each State, based on the scoring criteria established under § 4280.192, will compete for funding.
+
+(b) *Ranking of applications.* All applications submitted to the National Office under paragraph (a) of this section will be ranked in priority score order. All applications that are ranked will be considered for selection for funding.
+
+(c) *Selection of applications for funding.* Using the ranking created under paragraph (a) of this section, the Agency will consider the score an application has received compared to the scores of other ranked applications, with higher scoring applications receiving first consideration for funding. If two or more applications score the same and if remaining funds are insufficient to fund each such application, the Agency will distribute the remaining funds to each such application on a pro-rata basis. At its discretion, the Agency may also elect to allow any remaining multi-year funds to be carried over to the next fiscal year rather than funding on a pro-rata basis.
+
+(d) *Handling of ranked applications not funded.* Based on the availability of funding, a ranked application submitted for Energy Audit and/or REDA funds may not be funded. Such ranked applications will not be carried forward into the next Federal Fiscal Year's competition.

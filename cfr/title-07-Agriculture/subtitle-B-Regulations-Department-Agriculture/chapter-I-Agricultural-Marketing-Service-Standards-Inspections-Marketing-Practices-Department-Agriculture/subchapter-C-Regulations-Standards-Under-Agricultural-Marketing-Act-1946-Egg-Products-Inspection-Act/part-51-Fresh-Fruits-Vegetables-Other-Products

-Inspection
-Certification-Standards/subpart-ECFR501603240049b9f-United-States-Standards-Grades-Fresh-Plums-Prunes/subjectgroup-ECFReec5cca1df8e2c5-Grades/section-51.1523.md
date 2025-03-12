@@ -1,0 +1,3 @@
+##### § 51.1523 U.S. No. 2. #####
+
+“U.S. No. 2” consists of plums or prunes of one variety which are not badly misshapen, which are clean, mature but not overripe or soft or shriveled; which are free from decay and sunscald, and free from serious damage caused by broken skins, heat injury, growth cracks, sunburn, split pits, hail marks, drought spots, gum spots, russeting, scars, other disease, insects or mechanical or other means. (*See* § 51.1525.)

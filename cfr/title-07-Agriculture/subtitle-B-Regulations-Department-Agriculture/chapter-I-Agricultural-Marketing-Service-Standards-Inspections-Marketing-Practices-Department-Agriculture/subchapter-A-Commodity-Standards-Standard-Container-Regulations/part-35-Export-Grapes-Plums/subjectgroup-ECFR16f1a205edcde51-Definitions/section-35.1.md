@@ -1,0 +1,3 @@
+##### § 35.1 Act. #####
+
+*Act* or *Export Grape and Plum Act* means “An Act to promote the foreign trade of the United States in grapes and plums, to protect the reputation of American-grown grapes and plums in foreign markets, to prevent deception or misrepresentation as to the quality of such products moving in foreign commerce, to provide for the commercial inspection of such products entering such commerce, and for other purposes” (74 Stat. 734; 75 Stat. 220; 7 U.S.C. 591-599).

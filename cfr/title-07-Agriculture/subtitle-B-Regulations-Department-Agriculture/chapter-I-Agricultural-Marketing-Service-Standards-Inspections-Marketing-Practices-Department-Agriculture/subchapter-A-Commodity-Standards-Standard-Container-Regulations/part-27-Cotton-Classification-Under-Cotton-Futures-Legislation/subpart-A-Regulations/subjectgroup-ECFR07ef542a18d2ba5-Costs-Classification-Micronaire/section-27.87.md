@@ -1,0 +1,3 @@
+##### § 27.87 Fees; classification and Micronaire determination information. #####
+
+Whenever the person who requests the classification of, or Micronaire determination for, any cotton, or the person on whose behalf such request is made, also requests the transmission by telegraph or telephone of information concerning such classification or Micronaire determination, the person making the request for such classification or determination shall pay, in addition to the applicable costs prescribed in this subpart, the cost of tolls incurred in such transmission.

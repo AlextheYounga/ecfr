@@ -1,0 +1,9 @@
+##### § 993.81 Assessments. #####
+
+(a) Each handler shall pay to the committee, upon demand, with respect to all salable prunes handled by him as the first handler thereof, his pro rata share of all expenses which the Secretary finds are reasonable and likely to be incurred by the committee during each crop year. Each handler's pro rata share shall be the rate of assessment per ton fixed by the Secretary. At any time during or after a crop year the Secretary may increase the rate of assessment to cover unanticipated expenses of the committee or a deficit in assessable tonnage.
+
+(b) In order to provide funds to carry out the functions of the committee, the committee may accept advance payments from any handler to be credited toward such assessments as may be levied pursuant to this section against the respective handler.
+
+(c) Any money collected as assessments during any crop year and not expended in connection with the committee's operations may be used by the committee for a period of five months subsequent to such crop year. At the end of such period the committee shall, from funds on hand, refund or credit to handler accounts the aforesaid excess. Each handler's share of such excess funds shall be the amount of assessments he has paid in excess of his pro rata share of the actual net expenses of the committee for the preceding crop year. Any money collected from assessments hereunder and remaining unexpended in the possession of the committee at the termination of this part, shall be distributed in such manner as the Secretary may direct: *Provided,* That to the extent practical, such funds shall be returned pro rata to the persons from whom such funds were collected.
+
+[26 FR 476, Jan. 19, 1961, as amended at 30 FR 9800, Aug. 6, 1965]

@@ -1,0 +1,3 @@
+##### § 2.87 Deputy Assistant Secretary for Administration. #####
+
+Pursuant to § 2.24(a), and subject to reservations in § 2.24(b), the following delegation of authority is made by the Assistant Secretary for Administration to the Deputy Assistant Secretary for Administration, to be exercised only during the absence or unavailability of the Assistant Secretary: Perform all the duties and exercise all the powers which are now or which may hereafter be delegated to the Assistant Secretary for Administration: Provided, that this authority shall be exercised first by a respective non-career Deputy Assistant Secretary in the order in which he or she has taken office as Deputy Assistant Secretary, and second by a career Deputy Assistant Secretary.

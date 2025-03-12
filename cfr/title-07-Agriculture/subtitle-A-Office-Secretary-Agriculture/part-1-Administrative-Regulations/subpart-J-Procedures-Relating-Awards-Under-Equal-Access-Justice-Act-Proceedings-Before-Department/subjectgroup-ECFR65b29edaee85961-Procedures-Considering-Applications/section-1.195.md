@@ -1,0 +1,7 @@
+##### § 1.195 Answer to application. #####
+
+(a) Within 30 days after service of an application, agency counsel may file an answer. If agency counsel fails to timely answer or settle the application, the adjudicative officer, upon a satisfactory showing of entitlement by the applicant, may make an award for the applicant's allowable fees and expenses.
+
+(b) If agency counsel and the applicant believe that the issues in the fee application can be settled, they may jointly file a statement of intent to negotiate a settlement. The filing of this statement shall extend the time for filing an answer for an additional 30 days, and further extensions may be granted by the adjudicative officer upon request by agency counsel and the applicant.
+
+(c) The answer shall explain in detail any objections to the award requested and identify the facts relied on in support of agency counsel's position. If the answer is based on any alleged facts not already in the record of the proceeding, agency counsel shall include with the answer either supporting affidavits or a request for further proceedings under § 1.199 of this part.

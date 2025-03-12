@@ -8,7 +8,7 @@
 
 (ii) Invoice date and invoice number. (Contractors should date invoices as close as possible to the date of mailing or transmission.)
 
-(iii) Contract number or other authorization for supplies delivered or services performed (including order number and contract line item number).
+(iii) Contract number or other authorization for supplies delivered or services performed (including order number and line item number).
 
 (iv) Description, quantity, unit of measure, unit price, and extended price of supplies delivered or services performed.
 
@@ -56,4 +56,4 @@
 
 (e) *Payment office.* The designated payment office will annotate each invoice and receiving report with the actual date it receives the invoice.
 
-[66 FR 65355, Dec. 18, 2001, as amended at 78 FR 37679, June 21, 2013]
+[66 FR 65355, Dec. 18, 2001, as amended at 78 FR 37679, June 21, 2013; 82 FR 4714, Jan. 13, 2017]

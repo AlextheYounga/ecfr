@@ -1,0 +1,3 @@
+##### § 993.84 Personal liability. #####
+
+No member or alternate member of the committee, or any employee, representative, or agent thereof shall be held personally responsible, either individually of jointly with others, in any way whatsoever, to any person, for errors in judgment, mistakes, or other acts, either of commission or omission, as such member, alternate member, employee, representative, or agent, except for acts of dishonesty.

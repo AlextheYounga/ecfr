@@ -1,12 +1,10 @@
 ##### § 983.301 Determining the rent to owner. #####
 
-Link to an amendment published at 81 FR 80583, November 16, 2016.
-
 (a) *Initial and redetermined rents.* (1) The amount of the initial and redetermined rent to owner is determined in accordance with this section and § 983.302.
 
 (2) The amount of the initial rent to owner is established at the beginning of the HAP contract term. For rehabilitated or newly constructed housing, the Agreement states the estimated amount of the initial rent to owner, but the actual amount of the initial rent to owner is established at the beginning of the HAP contract term.
 
-(3) The rent to owner is redetermined at the owner's request for a rent increase in accordance with this section and § 983.302. The rent to owner is also redetermined at such time when there is a five percent or greater decrease in the published FMR in accordance with § 983.302.
+(3) The rent to owner is also redetermined in accordance with § 983.302.
 
 (b) *Amount of rent to owner.* Except for certain tax credit units as provided in paragraph (c) of this section, the rent to owner must not exceed the lowest of:
 
@@ -46,7 +44,7 @@ Link to an amendment published at 81 FR 80583, November 16, 2016.
 
 (e) *Reasonable rent.* The PHA shall determine the reasonable rent in accordance with § 983.303. The rent to the owner for each contract unit may at no time exceed the reasonable rent, except in cases where, the PHA has elected within the HAP contract not to reduce rents below the initial rent to owner and, upon redetermination of the rent to owner, the reasonable rent would result in a rent below the initial rent. If the PHA has not elected within the HAP contract to establish the initial rent to owner as the rent floor, the rent to owner shall not at any time exceed the reasonable rent.
 
-(f) *Use of FMRs and utility allowance schedule in determining the amount of rent to owner* - (1) *Amounts used.* (i) *Determination of initial rent (at beginning of HAP contract term).* When determining the initial rent to owner, the PHA shall use the most recently published FMR in effect and the utility allowance schedule in effect at execution of the HAP contract. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the beginning date of the HAP contract.
+(f) *Use of FMRs and utility allowance schedule in determining the amount of rent to owner*—(1) *Amounts used.* (i) *Determination of initial rent (at beginning of HAP contract term).* When determining the initial rent to owner, the PHA shall use the most recently published FMR in effect and the utility allowance schedule in effect at execution of the HAP contract. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the beginning date of the HAP contract.
 
 (ii) *Redetermination of rent to owner.* When redetermining the rent to owner, the PHA shall use the most recently published FMR and the PHA utility allowance schedule in effect at the time of redetermination. At its discretion, the PHA may use the amounts in effect at any time during the 30-day period immediately before the redetermination date.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 81 FR 80583, November 16, 2016.
 
 (g) *PHA-owned units.* For PHA-owned PBV units, the initial rent to owner and the annual redetermination of rent at the annual anniversary of the HAP contract are determined by the independent entity approved by HUD in accordance with § 983.59. The PHA must use the rent to owner established by the independent entity.
 
-[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36169, June 25, 2014]
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36169, June 25, 2014; 81 FR 80583, Nov. 16, 2016]

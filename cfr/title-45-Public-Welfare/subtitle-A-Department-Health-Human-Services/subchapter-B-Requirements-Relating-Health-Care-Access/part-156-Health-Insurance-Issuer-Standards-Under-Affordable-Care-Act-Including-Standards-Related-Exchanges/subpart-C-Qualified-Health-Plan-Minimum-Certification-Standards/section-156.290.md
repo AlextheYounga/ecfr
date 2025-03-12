@@ -1,8 +1,6 @@
-##### § 156.290 Non-renewal and decertification of QHPs. #####
+##### § 156.290 Non-certification and decertification of QHPs. #####
 
-Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
-
-(a) *Non-renewal of recertification.* If a QHP issuer elects not to seek recertification with the Exchange, the QHP issuer, at a minimum, must -
+(a) *Non-certification for a subsequent, consecutive certification cycle.* If a QHP issuer elects not to seek certification for a subsequent, consecutive certification cycle with the Exchange, the QHP issuer, at a minimum, must—
 
 (1) Notify the Exchange of its decision prior to the beginning of the recertification process and adhere to the procedures adopted by the Exchange in accordance with § 155.1075 of this subchapter;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (5) Terminate the coverage or enrollment through the Exchange of enrollees in the QHP in accordance with § 156.270, as applicable.
 
-(b) *Notice of QHP non-renewal.* If a QHP issuer elects not to seek recertification with the Exchange for its QHP, the QHP issuer must provide written notice to each enrollee.
+(b) *Notice of QHP non-availability.* When, for a subsequent, consecutive certification cycle, a QHP issuer elects not to seek certification with the Exchange, or the Exchange denies certification of a QHP, the QHP issuer must provide written notice to each enrollee in the form and manner specified by the Secretary under § 147.106 of this subchapter.
 
 (c) *Decertification.* If a QHP is decertified by the Exchange, the QHP issuer must terminate the enrollment of enrollees through the Exchange only after:
 
@@ -22,4 +20,4 @@ Link to an amendment published at 81 FR 94181, Dec. 22, 2016.
 
 (2) Enrollees have an opportunity to enroll in other coverage.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10875, Feb. 27, 2015]
+[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10875, Feb. 27, 2015; 81 FR 94181, Dec. 22, 2016]

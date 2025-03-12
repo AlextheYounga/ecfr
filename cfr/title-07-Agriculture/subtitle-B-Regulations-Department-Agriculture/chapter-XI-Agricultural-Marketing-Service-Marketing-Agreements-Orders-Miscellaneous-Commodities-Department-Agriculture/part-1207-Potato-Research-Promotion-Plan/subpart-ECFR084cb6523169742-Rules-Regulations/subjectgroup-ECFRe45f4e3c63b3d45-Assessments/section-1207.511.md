@@ -1,0 +1,3 @@
+##### § 1207.511 Determination of assessable quantity. #####
+
+The assessable quantity of potatoes in any lot shall be determined on the basis of utilization. Assessments shall be due on the entire lot handled for human consumption, seed, or unspecified purposes if there is no accounting made on the basis of the utilization of such lot. However, if the accounting identifies all or portions of such lot on the basis of utilization, assessments shall be due only on that portion utilized for human consumption and seed.

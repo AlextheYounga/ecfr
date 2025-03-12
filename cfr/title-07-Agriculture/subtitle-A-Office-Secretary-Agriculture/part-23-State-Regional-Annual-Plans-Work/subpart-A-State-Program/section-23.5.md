@@ -1,0 +1,3 @@
+##### § 23.5 Availability of funds. #####
+
+Funds available under title V for extension and research programs shall be allocated to, and following approval of a State Annual Plan of Work, paid to the official of the State Land Grant University designated to receive funds under the Smith-Lever and Hatch Acts respectively. Funds will be available for State programs for expenditures authorized by section 503(c) of title V, in the fiscal year for which the funds were appropriated and the next fiscal year.

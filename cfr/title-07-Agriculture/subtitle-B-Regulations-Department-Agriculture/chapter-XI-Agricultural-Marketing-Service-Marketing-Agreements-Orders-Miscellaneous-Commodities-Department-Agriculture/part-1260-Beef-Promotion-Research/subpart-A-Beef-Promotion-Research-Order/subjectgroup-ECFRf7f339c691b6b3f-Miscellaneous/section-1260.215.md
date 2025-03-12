@@ -1,0 +1,5 @@
+##### § 1260.215 Patents, copyrights, inventions and publications. #####
+
+(a) Any patents, copyrights, inventions or publications developed through the use of funds collected by the Board under the provisions of this subpart shall be the property of the U.S. Government as represented by the Board, and shall, along with any rents, royalties, residual payments, or other income from the rental, sale, leasing, franchising, or other uses of such patents, copyrights, inventions, or publications, ensure to the benefit of the Board. Upon termination of this subpart, § 1260.211 shall apply to determine disposition of all such property.
+
+(b) Should patents, copyrights, inventions or publications be developed through the use of funds collected by the Board under this subpart and funds contributed by another organization or person, ownership and related rights to such patents, copyrights, inventions or publications shall be determined by agreement between the Board and the party contributing funds towards the development of such patent, copyright, invention or publication in a manner consistent with paragraph (a) of this section.

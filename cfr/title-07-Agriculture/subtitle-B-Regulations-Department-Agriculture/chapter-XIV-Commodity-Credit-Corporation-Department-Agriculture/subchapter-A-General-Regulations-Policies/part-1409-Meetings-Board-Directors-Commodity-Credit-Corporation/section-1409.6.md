@@ -1,0 +1,19 @@
+##### § 1409.6 Notices to the public. #####
+
+(a)(1) The Secretary of the Board will make a public announcement at least one week before each Board meeting of (i) the time and place of the meeting, (ii) subject matter of the meeting, except to the extent that such information is exempt from disclosure under § 1409.4(a) of this part, (iii) whether the meeting is to be open or closed to the public and (iv) the name and business telephone number of the Secretary of the Board.
+
+(2) Notwithstanding paragraph (a)(1) of this section, less than one week advance public notice for a meeting may be given when at least five Directors determine by recorded vote that the Board business requires that a meeting be called at an earlier date, but in such case, announcement of the meeting will be made at the earliest practicable time.
+
+(b)(1) When the Board votes on whether to close a portion or portions of a meeting or a series of meetings, or with respect to withholding any information concerning such meeting or series of meetings, in accordance with § 1409.5(b) of this part, the Secretary of the Board will make available to the public a written copy of such vote reflecting the vote of each member on the question within one business day of such vote.
+
+(2) If the Board votes to close a portion or portions of a meeting or a series of meetings in accordance with § 1409.5(b) of this part, the Secretary of the Board will make available to the public within one business day of such vote, (i) a list of the names and affiliations of persons expected to be present at such closed portion or portions of the meeting or series of meetings and (ii) a full written explanation of the Board's action in closing the portion of portions of the meeting or series of meetings, unless such disclosure would reveal the information that the meeting itself was closed to protect.
+
+(c) The time or place of a board meeting may be changed following the public announcement as required by paragraph (a)(1) of this section only if the Board publicly announces such change or changes at the earliest practicable time.
+
+(d) The subject matter of a Board meeting or the determination of the Board to open or close a meeting or portions thereof to the public, may be changed following the public announcement as required by paragraph (a)(1) of this section only if (i) five Directors determine by recorded vote that Board business so requires and that no earlier announcement of the change was possible and (ii) the Board publicly announces such change and the vote of each Director upon such change at the earliest practicable time.
+
+(e) The Secretary of the Board shall use all reasonable means to keep the public promptly and fully informed of public announcements including the use of a bulletin board outside the office of the Secretary of the Board at the address indicated in § 1409.8(b) of this part. Requests for information concerning Board meetings should be addressed to the Secretary of the Board.
+
+(f) Immediately following each public announcement required by this section, the information provided in such public announcement will be submitted for publication in the Federal Register.
+
+(g) The Board usually meets in room 200-A, Administration Building, United States Department of Agriculture, 14th Street and Independence Avenue, SW., Washington, DC. Each person interested in attending an open meeting of the Board should notify the Secretary of the Board at least one business day prior to the open meeting of their intention to attend the meeting. Any person who fails to do so may not be accommodated if there is insufficient space in the meeting room.

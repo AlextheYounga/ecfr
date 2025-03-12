@@ -1,0 +1,5 @@
+##### § 3575.40 Equal opportunity and Fair Housing Act requirements. #####
+
+(a) *Equal Credit Opportunity Act.* The lender will comply with the requirements of title V of the Equal Credit Opportunity Act (15 U.S.C. 1691 *et seq.*). (See the Federal Reserve Board Regulation, 12 CFR part 202.)
+
+(b) *Fair Housing Act.* Certain housing-related projects such as nursing homes, group homes, or assisted-living facilities must comply with the requirements of the Fair Housing Act (42 U.S.C. 3601 *et seq.*). This includes completion of an Affirmative Fair Housing Marketing Plan and compliance with the Housing and Urban Development accessibility guidelines except for areas open to the public which are covered by the Americans with Disabilities Act (42 U.S.C. 12181 *et seq.*). The lender will determine that the borrower has a valid plan in effect at all times.

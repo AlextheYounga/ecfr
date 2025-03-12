@@ -1,0 +1,3 @@
+##### § 1942.133 Delegation and redelegation of authority. #####
+
+Loan approval authority is in subpart A of part 1901 of this chapter. State Directors may delegate approval authority to District Directors to approve fire and rescue loans regardless of whether authority to approve other community facility loans is delegated. Except for loan approval authority, District Directors may redelegate their duties to qualified staff members.

@@ -1,0 +1,3 @@
+##### § 3300.55 Termination of approval. #####
+
+An approved testing laboratory may at any time withdraw as an approved testing laboratory by written notice to the Administrator. Similarly, the Administrator may suspend or terminate for cause the approved status of a testing laboratory by written notice to the organization, setting forth the reasons for such action. Examples of causes for suspension or termination of approval would be a change in equipment or operations at the laboratory which would render it incapable of performing tests according to the standards in the ATP, or noncompliance of the laboratory with pertinent portions of this rule.

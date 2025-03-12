@@ -1,0 +1,3 @@
+##### § 61.7 Misrepresentation. #####
+
+Any willful misrepresentation or any deceptive or fradulent practice made or committed by an applicant for a cottonseed sampler's certificate or for a cottonseed chemist's certificate or for an appeal grade certificate in connection with the sampling or grading of cottonseed by persons licensed under the act and the regulations or the issuance or use of a certificate not issued by a person licensed under the regulations in imitation of or that might mislead anyone to believe that such certificate was in fact issued by a person licensed under the act, or that might be otherwise false, misleading, or deceptive, may be deemed sufficient cause for debarring such applicant from any further benefits of the act.

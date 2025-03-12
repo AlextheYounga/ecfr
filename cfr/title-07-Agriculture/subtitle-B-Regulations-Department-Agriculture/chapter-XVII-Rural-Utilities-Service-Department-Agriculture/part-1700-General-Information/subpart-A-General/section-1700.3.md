@@ -1,0 +1,5 @@
+##### § 1700.3 Requests under the Freedom of Information Act. #####
+
+Department of Agriculture procedures for requests for records under the Freedom of Information Act are found at 7 CFR part 1. Requests must be in writing and may be submitted in person or by mail to United States Department of Agriculture, Rural Utilities Service, Room 5159-S, 1400 Independence Avenue, SW., STOP 1530, Washington, DC 20250-1530; or by FAX to 202-401-1977. As set forth in 7 CFR 1.16, fees may be charged for processing of requests for records. An appeal of the agency determination concerning the request for official records shall be made in writing to the Administrator, Rural Utilities Service, United States Department of Agriculture, Room 5135-S, 1400 Independence Avenue, SW., STOP 1510, Washington, DC 20250-1510.
+
+[71 FR 8435, Feb. 17, 2006]

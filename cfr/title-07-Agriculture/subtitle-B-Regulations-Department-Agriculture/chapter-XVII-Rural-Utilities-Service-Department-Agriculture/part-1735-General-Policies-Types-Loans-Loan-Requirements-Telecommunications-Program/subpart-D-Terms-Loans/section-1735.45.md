@@ -1,0 +1,3 @@
+##### § 1735.45 Extension of payments. #####
+
+RUS may extend the time of payment of principal or interest on a loan. Under section 12 of the Rural Electrification Act, as amended, this extension may be up to 5 years after such payment is due. Under section 236 of the Disaster Relief Act of 1970 (Pub. L. 91-606) payment may be deferred by the Secretary of Agriculture as long as necessary in disaster situations so long as the final maturity date is not later than 40 years after the date of the loan. See RUS Bulletin 320-2 for additional information.

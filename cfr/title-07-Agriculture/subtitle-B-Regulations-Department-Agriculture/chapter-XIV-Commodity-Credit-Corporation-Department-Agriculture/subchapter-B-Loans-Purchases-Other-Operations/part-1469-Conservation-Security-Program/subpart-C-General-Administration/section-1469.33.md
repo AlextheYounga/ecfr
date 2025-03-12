@@ -1,0 +1,3 @@
+##### § 1469.33 Access to agricultural operation. #####
+
+Any authorized NRCS representative has the right to enter an agricultural operation for the purpose of ascertaining the accuracy of any representations made in a contract or in anticipation of entering a contract, as to the performance of the terms and conditions of the contract. Access includes the right to provide technical assistance, inspect any work undertaken under the contract, and collect information necessary to evaluate the performance of conservation practices in the contract. The NRCS representative will make a reasonable effort to contact the participant prior to the exercise of this provision.

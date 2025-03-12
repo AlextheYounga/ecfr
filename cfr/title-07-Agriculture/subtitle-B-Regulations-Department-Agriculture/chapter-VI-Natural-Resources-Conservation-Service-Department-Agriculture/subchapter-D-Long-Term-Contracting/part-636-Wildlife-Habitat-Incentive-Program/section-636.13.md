@@ -1,0 +1,7 @@
+##### § 636.13 Violations and remedies. #####
+
+(a) If NRCS determines that a participant is in violation of a cost-share agreement, NRCS will give the parties to the cost-share agreement notice of the violation and a minimum of 60 days to correct the violation and comply with the terms of the cost-share agreement and attachments thereto.
+
+(b) If the participant fails to correct the violation of a cost-share agreement within the period provided by NRCS under paragraph (a) of this section, NRCS may terminate the agreement and require the participant to refund all or part of any of the funds issued under that cost-share agreement, plus interest, and may assess liquidated damages as indicated in the cost-share agreement appendix, as well as require the participant to forfeit all rights to any future payment under the agreement.
+
+(c) If NRCS terminates a cost-share agreement due to breach of contract, the participant will forfeit all rights to future payments under the agreement, may be required to pay liquidated damages in an amount determined by the State Conservationist in accordance with the terms of the agreement, and will refund all or part of the payments received, plus interest. Participants violating WHIP cost-share agreements may be determined ineligible for future NRCS-administered conservation program funding.

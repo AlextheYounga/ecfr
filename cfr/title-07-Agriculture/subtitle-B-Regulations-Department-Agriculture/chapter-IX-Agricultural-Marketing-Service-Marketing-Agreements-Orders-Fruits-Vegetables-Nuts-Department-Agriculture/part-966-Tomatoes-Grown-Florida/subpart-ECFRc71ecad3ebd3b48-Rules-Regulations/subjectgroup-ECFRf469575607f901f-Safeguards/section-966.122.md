@@ -1,0 +1,3 @@
+##### § 966.122 Reports. #####
+
+Each handler handling tomatoes under and pursuant to a Certificate of Privilege shall supply the committee with a report thereon within the time specified on the application for such certificate showing the name and address of the shipper, car or truck identification, loading point, destination, consignee, and, when inspection is required, the Federal-State Inspection Certificate number.

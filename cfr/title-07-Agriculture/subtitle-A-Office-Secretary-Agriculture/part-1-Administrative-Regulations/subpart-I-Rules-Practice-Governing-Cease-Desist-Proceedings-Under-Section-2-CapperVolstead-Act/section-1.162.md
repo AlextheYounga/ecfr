@@ -1,0 +1,7 @@
+##### § 1.162 Institution of proceedings. #####
+
+(a) *Filing of information.* Any person having information that any agricultural association, as defined in the Capper-Volstead Act, is engaged in any practice which monopolizes or restrains trade in interstate or foreign commerce to such an extent that the price of any agricultural product is unduly enhanced by reason thereof, may submit such information to the Secretary. Such information shall be in writing and shall contain a complete statement of facts detailing the price enhancement and the practices alleged.
+
+(b) *Consideration of information.* The Secretary shall consider all information filed under paragraph (a) of this section, and any other information which the Secretary may obtain relating to a violation of section 2 of the Act. If the Secretary finds that there is reason to believe that any association monopolizes or restrains trade in interstate or foreign commerce to such an extent that the price of any agricultural product is unduly enhanced thereby the Secretary shall cause a complaint to be filed, requiring the association to show cause why an order should not be made directing the association to cease and desist from such monopolization or restraint of trade. The complaint shall be filed with the Hearing Clerk, who shall assign to the proceeding a docket number and effect service upon respondent.
+
+[45 FR 6587, Jan. 29, 1980, as amended at 60 FR 8457, Feb. 14, 1995]

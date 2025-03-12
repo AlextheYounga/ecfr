@@ -1,0 +1,7 @@
+##### § 956.43 Accounting. #####
+
+(a) All funds received by the committee pursuant to the provisions of this part shall be used solely for the purposes specified in this part.
+
+(b) The Secretary may at any time require the committee, its members and alternate members, employees, agents, and all other such persons associated with the committee to account for all receipts, disbursements, funds, property, or records for which they are responsible. Whenever any person ceases to be a member, alternate member, employee, or agent of the committee, such person shall account for all receipts, disbursements, funds, property, and records pertaining to the committee's activities for which such person was responsible, deliver all property and funds in such person's possession to the committee, and execute such assignments and other instruments as may be necessary or appropriate to vest in the committee full title to all of the property, funds, and claims vested in such person pursuant to this part.
+
+(c) The committee may make recommendations to the Secretary for one or more of the members thereof, or any other person, to act as a trustee for holding records, funds, or any other committee property during periods of suspension of this part, or during any period or periods when regulations are not in effect and, upon determining such action is appropriate, the Secretary may direct that such person or persons shall act as trustee or trustees for the committee.

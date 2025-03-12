@@ -1,0 +1,21 @@
+##### § 1970.4 Policies. #####
+
+(a) Applicants' proposals must, whenever practicable, avoid or minimize adverse environmental impacts; avoid or minimize conversion of wetlands or important farmlands (as defined in the Farmland Protection Policy Act and its implementing regulations issued by the USDA Natural Resources Conservation Service) when practicable alternatives exist to meet development needs; avoid unwarranted alterations or encroachment on floodplains when practicable alternatives exist to meet developmental needs; and avoid or minimize potentially disproportionate and adverse impacts to minority or low-income populations within the proposed action's area of impact. Avoiding development in floodplains includes avoiding development in the 500-year floodplain, as shown on the Federal Emergency Management Agency's (FEMA) Flood Insurance Rate Maps, where the proposed actions and facilities are defined as critical actions in § 1970.6. The Agency shall not fund the proposal unless there is a demonstrated, significant need for the proposal and no practicable alternative exists to the proposed conversion of the above resources.
+
+(b) The Agency encourages the reuse of real property defined as brownfields per Section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) where the reuse of such property is complicated by the presence or potential presence of a hazardous substance, pollutant, or other contaminant, provided that the level of such presence does not threaten human health and the environment for the proposed land use. The Agency will defer to the agency with regulatory authority under the appropriate law in determining the appropriate level of contaminant for a specific proposed land use. The Agency will evaluate the risk based upon the applicable regulatory agency's review and concurrence with the proposal.
+
+(c) The Agency and applicant will involve other Federal agencies with jurisdiction by law or special expertise, state and local governments, Indian tribes and Alaska Native organizations, Native Hawaiian organizations, and the public, early in the Agency's environmental review process to the fullest extent practicable. To accomplish this objective, the Agency and applicant will:
+
+(1) Ensure that environmental amenities and values be given appropriate consideration in decision making along with economic and technical considerations;
+
+(2) At the earliest possible time, advise interested parties of the Agency's environmental policies and procedures and required environmental impact analyses during early project planning and design; and
+
+(3) Make environmental assessments (EA) and environmental impact statements (EIS) available to the public for review and comment in a timely manner.
+
+(d) The Agency and applicant will ensure the completion of the environmental review process prior to the irreversible and irretrievable commitment of Agency resources in accordance with § 1970.11. The environmental review process is concluded when the Agency approves the applicability of a Categorical Exclusion (CE), issues a Finding of No Significant Impact (FONSI), or issues a Record of Decision (ROD).
+
+(e) If an applicant's proposal does not comply with Agency environmental policies and procedures, the Agency will defer further consideration of the application until compliance can be demonstrated, or the application may be rejected. Any applicant that is directly and adversely affected by an administrative decision made by the Agency under this part may appeal that decision, to the extent permissible under 7 CFR part 11.
+
+(f) The Agency recognizes the worldwide and long-range character of environmental problems and, where consistent with the foreign policy of the United States, will lend appropriate support to initiatives, resolutions, and programs designed to maximize international cooperation in anticipating and preventing a decline in the quality of humankind's world environment in accordance with NEPA, 42 U.S.C. 4321 *et seq.*
+
+(g) The Agency will use the NEPA process, to the maximum extent feasible, to identify and encourage opportunities to reduce greenhouse gas (GHG) emissions caused by proposed Federal actions that would otherwise result in the emission of substantial quantities of GHG.

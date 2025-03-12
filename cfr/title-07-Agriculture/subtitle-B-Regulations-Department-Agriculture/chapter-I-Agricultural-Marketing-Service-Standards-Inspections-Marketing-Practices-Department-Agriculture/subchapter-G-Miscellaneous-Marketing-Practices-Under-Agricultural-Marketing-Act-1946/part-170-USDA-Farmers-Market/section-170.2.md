@@ -1,0 +1,3 @@
+##### § 170.2 Is the USDA Farmers Market a producer-only market? #####
+
+Yes. A producer-only market is one that does not offer agricultural products that are commercially made, created, or produced, and only allows agricultural products that are grown by a principal farmer. A producer-only market offers raw agricultural products such as fruits, vegetables, flowers, bedding plants, and potted plants. The USDA Farmers Market is a producer-only market since only farmers who may sell products that they grow or produce will be selected for participation. It also allows the sale of value-added products and other specialized non-produce items.

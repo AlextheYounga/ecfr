@@ -1,0 +1,3 @@
+##### § 160.35 Illegible inspection marks. #####
+
+In case any mark placed on a container of rosin by or under the direction of an official inspector has become illegible, he will make such examination before remarking as may be necessary to establish the proper grade or identity of the rosin. No fee will be charged for this service, but the cost of handling, opening, spiking, and closing the container shall be borne by the interested person.

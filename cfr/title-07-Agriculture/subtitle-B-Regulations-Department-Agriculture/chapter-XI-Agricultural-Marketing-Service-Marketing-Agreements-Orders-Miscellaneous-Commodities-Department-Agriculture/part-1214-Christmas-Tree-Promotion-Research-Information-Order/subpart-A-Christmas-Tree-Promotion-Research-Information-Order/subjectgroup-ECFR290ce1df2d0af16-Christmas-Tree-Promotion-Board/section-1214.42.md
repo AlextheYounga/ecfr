@@ -1,0 +1,3 @@
+##### § 1214.42 Term of office. #####
+
+Board members will serve for a term of three years and be able to serve a maximum of two consecutive three-year terms. When the Board is first established, the members will be assigned initial terms of two, three, and four years. Initial terms will be staggered to assure continuity of the Board. The term of office will begin on January 1 and conclude on December 31. Members serving the initial term of two and four years will be eligible to serve a second term of three-years. Thereafter, each of the positions will carry a full three-year term. Board members shall serve during the term of office for which they have been appointed and qualified, and until their successors are appointed and have qualified.

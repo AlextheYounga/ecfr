@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 81 FR 90250, Dec. 14, 2016.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -49,6 +47,8 @@ Link to an amendment published at 81 FR 90250, Dec. 14, 2016.
 (8) Transfer, remove, or offload, for a commercial purpose; or attempt to transfer, remove, land, or offload, for a commercial purpose; at sea, any species regulated under this part, unless the transferring vessel has been issued and carries on board a valid LOA from the Regional Administrator, or is otherwise exempted, and the receiving vessel has been issued and has on board a valid Federal permit for the species that is being transferred.
 
 (9) Fish for, possess, or retain fish, during a fishing trip, aboard a Federally permitted vessel that, in the absence of an emergency, has not been operating under its own power for the entire trip.
+
+(10) Fish with bottom-tending gear within the Frank R. Lautenberg Deep-sea Coral Protection Area described at § 648.27, unless transiting pursuant to § 648.27(d), fishing lobster trap gear in accordance with § 697.21 of this chapter, or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes but is not limited to bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gill nets.
 
 (c) *Dealer permits.* It is unlawful for any person to do any of the following:
 
@@ -112,7 +112,7 @@ Link to an amendment published at 81 FR 90250, Dec. 14, 2016.
 
 (iv) *Observer requirements for longfin squid fishery.* Fail to comply with any of the provisions specified in § 648.11.
 
-(v) *Reporting requirements in the limited access Atlantic mackerel and longfin squid/butterfish moratorium fisheries.* (A) Fail to declare via VMS into the mackerel or longfin squid/butterfish fisheries by entering the fishery code prior to leaving port at the start of each trip to harvest, possess, or land Atlantic mackerel or longfin squid, if a vessel has been issued a Limited Access Atlantic mackerel permit or longfin squid/butterfish moratorium permit, pursuant to § 648.10.
+(v) *Reporting requirements in the limited access Atlantic mackerel, longfin squid/butterfish, and Illex squid moratorium fisheries.* (A) Fail to declare via VMS into the mackerel, longfin squid/butterfish, or Illex squid fisheries by entering the fishery code prior to leaving port at the start of each trip, if the vessel will harvest, possess, or land Atlantic mackerel, more than 2,500 lb (1,134 kg) of longfin squid, or more than 10,000 lb (4,535.9 kg) of Illex squid, and is issued a Limited Access Atlantic mackerel permit, longfin squid/butterfish moratorium permit, or Illex squid moratorium permit, pursuant to § 648.10.
 
 (B) Fail to notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hr prior to arrival, or, if fishing ends less than 6 hours before arrival, immediately upon leaving the fishing grounds, if a vessel has been issued a Limited Access Atlantic mackerel permit, pursuant to § 648.10.
 

@@ -1,0 +1,5 @@
+##### § 981.71 Record of receipts. #####
+
+For the purpose of establishing the reserve obligation and furnishing statistical information to the Board necessary for the conduct of its operations, each handler, on receiving almonds for his own account, shall issue to the person from whom so received a receipt therefor. At least two duplicates thereof shall be made at the time of issuance, one of which shall be retained by the handler as a part of his records and the other submitted to the Board as hereinafter provided. Such receipts shall be serially numbered and shall accurately show for each lot received, the identity of the handler, the name and address of the person from whom received, the number of containers in the lot, the variety, whether shelled or unshelled, and the settlement weight for each such variety. The character and amount of all adjustments deducted from the gross weight shall be shown with the gross weight on the receipt issued by the handler.
+
+Effective Date Note:At 40 FR 4416, Jan. 30, 1975, § 981.71 was suspended indefinitely.

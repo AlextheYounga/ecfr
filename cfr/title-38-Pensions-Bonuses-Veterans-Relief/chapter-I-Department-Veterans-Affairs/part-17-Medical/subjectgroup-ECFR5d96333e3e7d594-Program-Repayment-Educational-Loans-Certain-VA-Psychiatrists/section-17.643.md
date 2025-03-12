@@ -28,8 +28,8 @@
 
 (ii) A summary of the applicant's educational debt, which includes the total debt amount and when the debt was acquired. The health professional debt covered the loan must be specific to education that was required, used, and qualified the applicant for appointment as a psychiatrist.
 
-(ii) The name of the lending agency that provided the educational loan.
+(iii) The name of the lending agency that provided the educational loan.
 
 (3) A full curriculum vitae.
 
-Editorial Note:At 81 FR 66820, Sept. 29, 2016, § 17.643 was added; however, paragraph (c)(2) contains two paragraph (ii)'s.
+[81 FR 66820, Sept. 29, 2016, as amended at 82 FR 4795, Jan. 17, 2017]Effective Date Note:At 81 FR 66820, Sept. 29, 2016, § 17.643 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

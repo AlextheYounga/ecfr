@@ -1,0 +1,11 @@
+##### § 900.68 Petitions for reopening hearings; for rehearings or rearguments of proceedings; or for reconsideration of orders. #####
+
+(a) *Petition requisite*—(1) *Filing; service.* A petition for reopening the hearing to take further evidence, or for rehearing or reargument of the proceeding, or for reconsideration of the order shall be made by petition addressed to the Secretary and filed with the hearing clerk, who immediately shall notify and serve a copy thereof upon the other party to the proceeding. Every such petition shall state specifically the grounds relied upon.
+
+(2) *Petitions to reopen hearings.* A petition to reopen the hearing for the purpose of taking additional evidence may be filed at any time prior to the issuance of the final order. Every such petition shall state briefly the nature and purpose of the evidence to be adduced, shall show that such evidence is not merely cumulative, and shall set forth a good reason why such evidence was not adduced at the hearing.
+
+(3) *Petitions to rehear or reargue proceedings, or to reconsider orders.* A petition to rehear or reargue the proceeding or to reconsider the final order shall be filed within 15 days after the date of the service of such order. Every such petition shall state specifically the matters claimed to have been erroneously decided, and alleged errors must be briefly stated.
+
+(b) *Procedure for disposition of petitions.* Within 10 days following the service of any petition provided for in this section, the other party to the proceeding shall file with the hearing clerk an answer thereto. As soon as practicable thereafter, the Secretary shall announce the decision granting or denying the petition. Unless the Secretary shall determine otherwise, the issuance or operation of the order shall not be stayed pending the decision of the Secretary upon the petition. In the event that any such petition is granted by the Secretary, the applicable rules of practice, as set out elsewhere in this subpart, shall be followed.
+
+[25 FR 5907, June 28, 1960, as amended at 67 FR 10830, Mar. 11, 2002]

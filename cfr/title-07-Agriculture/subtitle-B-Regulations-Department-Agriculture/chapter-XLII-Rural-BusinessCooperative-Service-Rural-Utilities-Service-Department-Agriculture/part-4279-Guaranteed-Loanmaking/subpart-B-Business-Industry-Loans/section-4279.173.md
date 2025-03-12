@@ -1,0 +1,7 @@
+##### § 4279.173 Loan approval and obligating funds. #####
+
+(a) Upon approval of a loan guarantee, the Agency will issue a Conditional Commitment to the lender, containing conditions under which a Loan Note Guarantee will be issued. No Conditional Commitment can be issued until the loan is obligated. If a Loan Note Guarantee is not issued by the Conditional Commitment expiration date, the Conditional Commitment may be extended at the request of the lender and only if there has been no material adverse change in the borrower or the borrower's financial condition since issuance of the Conditional Commitment. If the Conditional Commitment is not accepted, the Conditional Commitment may be withdrawn and funds may be deobligated. Likewise, if the Conditional Commitment expires, funds may be deobligated.
+
+(b) If certain conditions of the Conditional Commitment cannot be met, the lender and borrower may request changes to the Conditional Commitment. Within the requirements of the applicable regulations and prudent lending practices, the Agency may negotiate with the lender and the borrower regarding any proposed changes to the Conditional Commitment. Any changes to the Conditional Commitment must be documented by written amendment to the Conditional Commitment.
+
+(c) The borrower must comply with all Federal requirements then in effect for receiving Federal assistance.

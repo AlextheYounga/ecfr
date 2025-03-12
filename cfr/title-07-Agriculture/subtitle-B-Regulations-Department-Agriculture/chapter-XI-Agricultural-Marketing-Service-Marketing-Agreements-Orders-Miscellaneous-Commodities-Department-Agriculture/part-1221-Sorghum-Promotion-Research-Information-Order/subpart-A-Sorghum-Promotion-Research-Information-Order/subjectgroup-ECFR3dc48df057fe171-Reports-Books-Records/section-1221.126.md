@@ -1,0 +1,3 @@
+##### § 1221.126 Use of information. #####
+
+Information from records or reports required pursuant to this subpart shall be made available to the Secretary as is appropriate to the administration or enforcement of the Act, subpart, or any regulation issued under the Act. In addition, the Secretary may authorize the use, under this part, of information regarding producers, first handlers, or importers, that is accumulated under laws or regulations other than the Act or regulations issued under the Act.

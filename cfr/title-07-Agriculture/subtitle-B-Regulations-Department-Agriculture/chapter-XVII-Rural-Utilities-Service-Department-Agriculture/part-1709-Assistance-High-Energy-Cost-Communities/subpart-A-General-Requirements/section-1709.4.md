@@ -1,0 +1,3 @@
+##### § 1709.4 Allocation of available funds among programs. #####
+
+The Administrator, in his sole discretion, shall allocate available funds among the programs administered under this part and determine the grant application periods under each program. In making fund allocations for each fiscal year, the Administrator may consider the amount of available funds, the nature and amount of unfunded grant applications and prior awards, Agency resources, Agency priorities, and any other pertinent information.

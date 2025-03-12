@@ -1,0 +1,3 @@
+##### § 15.91 Who presides. #####
+
+A hearing officer shall preside over all proceedings held under this part. The hearing officer shall be a hearing examiner qualified under section 11 of the Administrative Procedure Act (5 U.S.C. 1001 *et seq.*), and designated to hold hearings under the regulations in this subpart or any person authorized to hold a hearing and make a final decision. The hearing officer will serve until he has made an initial decision, certified the record to the Secretary, or made a final decision if so authorized.

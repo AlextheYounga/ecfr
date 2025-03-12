@@ -1,0 +1,3 @@
+##### § 1753.10 Preconstruction conference. #####
+
+The borrower shall conduct a conference, attended by the borrower, contractor, and resident engineer prior to the beginning of construction to provide an opportunity to discuss and agree on responsibilities, procedures, practices, and methods before the work begins. The borrower shall provide each participant with a copy of the conference results. The GFR shall be invited to attend this conference.

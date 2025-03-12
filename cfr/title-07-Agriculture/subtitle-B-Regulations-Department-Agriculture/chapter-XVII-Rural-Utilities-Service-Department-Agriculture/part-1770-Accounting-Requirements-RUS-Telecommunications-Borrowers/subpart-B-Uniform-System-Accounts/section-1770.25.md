@@ -1,0 +1,5 @@
+##### § 1770.25 Unusual items and contingent liabilities. #####
+
+Extraordinary items, prior period adjustments and contingent liabilities shall be submitted to RUS for review before being recorded in the company's books of account. The materiality of corrections of errors in prior periods shall be measured in relation to the summary account level used for reporting purposes for Class A companies, or in relation to total operating revenues or total operating expenses for Class B companies. For Class A companies, no correction in excess of one percent of the aggregate summary account dollars or one million dollars, whichever is higher, may be recorded in current operating accounts without prior approval. For Class B companies, no correction which exceeds one percent of total operating revenues or one percent of total operating expenses, depending on the nature of the item, may be recorded in current operating accounts without prior approval.
+
+[70 FR 25758, May 16, 2005]

@@ -1,0 +1,5 @@
+##### § 215.14 Nondiscrimination. #####
+
+The Department's regulations on nondiscrimination in federally assisted programs are set forth in part 15 of this title. The Department's agreements with State agencies, the State agencies' agreements with School Food Authorities and child-care institutions and the FNSRO agreements with School Food Authorities administering nonprofit private schools and with child-care institutions shall contain the assurances required by such regulations. When different types of milk are served to children, (a) a uniform price for each type of milk served shall be charged to all non-needy children in the school or child-care institution who purchase milk, and (b) needy children shall be given the opportunity to select any type of milk offered.
+
+(44 U.S.C. 3506)[Amdt. 13, 39 FR 28418, Aug. 7, 1974, as amended at 47 FR 745, Jan. 7, 1982]

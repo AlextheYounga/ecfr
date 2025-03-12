@@ -1,0 +1,3 @@
+##### § 771.7 Equal opportunity and non-discrimination requirements. #####
+
+No recipient of a boll weevil eradication loan shall directly, or through contractual or other arrangement, subject any person or cause any person to be subjected to discrimination on the basis of race, religion, color, national origin, gender, or other prohibited basis. Borrowers must comply with all applicable Federal laws and regulations regarding equal opportunity in hiring, procurement, and related matters.

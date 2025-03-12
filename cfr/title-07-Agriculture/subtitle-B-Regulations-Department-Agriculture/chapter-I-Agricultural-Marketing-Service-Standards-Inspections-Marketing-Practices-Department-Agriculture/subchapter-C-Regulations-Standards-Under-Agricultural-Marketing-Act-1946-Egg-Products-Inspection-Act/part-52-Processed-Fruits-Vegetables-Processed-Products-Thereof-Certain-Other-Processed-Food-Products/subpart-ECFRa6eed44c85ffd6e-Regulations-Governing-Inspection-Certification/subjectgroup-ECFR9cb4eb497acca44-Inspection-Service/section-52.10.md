@@ -1,0 +1,3 @@
+##### § 52.10 When application may be rejected. #####
+
+An application for inspection service may be rejected by the Administrator (a) for non-compliance by the applicant with the regulations in this part, (b) for non-payment for previous inspection services rendered, (c) when the product is not properly identifiable by code or other marks, or (d) when it appears that to perform the inspection service would not be to the best interests of the Government. Such applicant shall be promptly notified of the reason for such rejection.

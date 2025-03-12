@@ -1,0 +1,11 @@
+##### § 1221.101 Nominations. #####
+
+All nominations authorized under this section shall be made in the following manner:
+
+(a) Nominations for State-specific and at-large national seats shall be obtained by the Secretary from eligible organizations certified under § 1221.107. Certified eligible organizations representing producers in a State, or when making nominations for at-large seats, shall submit to the Secretary at least two nominees for each vacant seat. If the Secretary determines that a State is not represented by a certified eligible organization, then the Secretary may solicit nominations from other organizations or other persons residing in the State.
+
+(b) If so required pursuant to § 1221.100(f), at least two nominations for the importer representative shall be submitted by the Board to the Secretary.
+
+(c) After the establishment of the initial Board, the Secretary shall announce when a vacancy does or will exist. Nominations for subsequent Board representatives shall be submitted to the Secretary not less than 90 days prior to the expiration of the terms of the representatives whose terms are expiring, in the manner as described in this section. In the case of vacancies due to reasons other than the expiration of a term of office, successor Board members shall be appointed pursuant to section 1221.105.
+
+(d) When there is more than one certified eligible organization representing a State or when the Secretary solicits nominations from organizations and persons residing in that State, or when eligible certified organizations are nominating persons for at-large positions, eligible certified organizations may caucus and jointly nominate two qualified producers for each position on the Board for which a representative is to be appointed. If joint agreement is not reached with respect to any such nominations, or if no caucus is held, each eligible organization may submit to the Secretary two nominees for each appointment to be made to represent that State, or to fill an at-large position.

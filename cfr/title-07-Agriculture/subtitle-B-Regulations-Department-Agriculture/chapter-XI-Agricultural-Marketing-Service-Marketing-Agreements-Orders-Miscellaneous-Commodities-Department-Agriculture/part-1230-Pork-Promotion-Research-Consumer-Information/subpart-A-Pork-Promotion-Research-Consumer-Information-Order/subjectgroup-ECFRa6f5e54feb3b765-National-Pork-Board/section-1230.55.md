@@ -1,0 +1,5 @@
+##### § 1230.55 Vacancies. #####
+
+(a) To fill any vacancy occasioned by the death, removal, resignation, or disqualification of any member of the Board, the Secretary shall appoint a successor for the unexpired term of such member from the most recent list of nominations made by the Delegate Body.
+
+(b) If a member of the Board fails or refuses to perform the duties of a member of the Board, or if a member of the Board engages in acts of dishonesty or willful misconduct, the Board may recommend to the Secretary that that member be removed from office. If the Secretary finds that the recommendation of the Board demonstrates adequate cause, the Secretary shall remove such member from office. A person appointed under this part or any employee of the Board may be removed by the Secretary if the Secretary determines that the person's continued service would be detrimental to the purposes of the Act.

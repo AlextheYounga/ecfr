@@ -8,7 +8,7 @@ FROM: Termination Contracting Officer \_\_\_ [address]TO: Contracting office \_\
 
 (b) [*Cite prior letters releasing excess funds, if any.*]
 
-1. Referenced termination notice, \_\_\_ [*insert* “completely” *or* “partially”] terminated contract \_\_\_.
+1. Referenced termination notice, \_\_\_ [*insert “completely” or “partially”*] terminated contract \_\_\_.
 
 2. Based on the best information available, it is estimated that the gross settlement cost will be $\_\_\_\_\_\_. The amount available for release as excess to the contract is $\_\_\_\_\_\_. Any payments previously made to the Contractor for terminated items have been considered in arriving at the above amounts.
 

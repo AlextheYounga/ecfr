@@ -1,0 +1,3 @@
+##### § 922.21 Term of office. #####
+
+The term of office of each member and alternate member of the committee shall be for 2 years beginning April 1 and ending March 31: *Provided,* That the terms of office of one-half the initial members and alternates shall end March 31, 1958. Members and alternate members shall serve in such capacities for the portion of the term of office for which they are selected and have qualified and until their respective successors are selected and have qualified. The terms of office of successor members and alternates shall be so determined that one-half of the total committee membership ends each March 31.

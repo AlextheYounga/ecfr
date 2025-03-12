@@ -1,0 +1,3 @@
+##### § 15f.10 What if I do not want the Director to review my Section 741 Complaint Request and I want to proceed directly to a hearing? #####
+
+If you do not want the Director to review your Section 741 Complaint Request, you may request a hearing following the procedures below in subpart D. You may request a hearing at any time during informal review or negotiations with the Director, or at any time during USDA consideration of your Section 741 Complaint Request.

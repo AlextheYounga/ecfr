@@ -1,0 +1,5 @@
+##### § 246.21 Investigations. #####
+
+(a) *Authority.* The Department may make an investigation of any allegation of noncompliance with this part and FNS guidelines and instructions. The investigation may include, where appropriate, a review of pertinent practices and policies of any State or local agency, the circumstances under which the possible noncompliance with this part occurred, and other factors relevant to a determination as to whether the State or local agency has failed to comply with the requirements of this part.
+
+(b) *Confidentiality.* No State or local agency, participant, or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege under this part because that person has made a complaint or formal allegation, or has testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this part. The identity of every complainant shall be kept confidential except to the extent necessary to carry out the purposes of this part, including the conducting of any investigation, hearing, or judicial proceeding.

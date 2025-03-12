@@ -1,0 +1,3 @@
+##### § 760.614 Lack of access. #####
+
+In addition to other provisions for eligibility provided for in this part, the Deputy Administrator may provide assistance to participants who suffered 2008 production losses that meet the lack of access provisions in 19 U.S.C. 2497(g)(7)(F), where deemed appropriate, and consistent with the statutory provision. Such a determination to exercise that authority, and the terms on which to exercise that authority, will be considered to be a determination of general effect, not a “relief” determination, and will not be considered by the Farm Service Agency to be appealable administratively either within FSA or before the National Appeals Division.

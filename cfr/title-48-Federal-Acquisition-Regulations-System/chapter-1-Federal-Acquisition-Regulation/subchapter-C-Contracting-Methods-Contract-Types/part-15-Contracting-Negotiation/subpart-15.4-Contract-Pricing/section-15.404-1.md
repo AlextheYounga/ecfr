@@ -100,7 +100,7 @@
 
 (2) Except for the acquisition of commercial items, contracting officers shall require that offerors identify in their proposals those items of supply that they will not manufacture or to which they will not contribute significant value, unless adequate price competition is expected (10 U.S.C. 2306a(b)(1)(A)(i) and 41 U.S.C. 3503(a)(1)(A)). Such information shall be used to determine whether the intrinsic value of an item has been distorted through application of overhead and whether such items should be considered for breakout. The contracting officer should require such information in all other negotiated contracts when appropriate.
 
-(g) *Unbalanced pricing.* (1) Unbalanced pricing may increase performance risk and could result in payment of unreasonably high prices. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more contract line items is significantly over or understated as indicated by the application of cost or price analysis techniques. The greatest risks associated with unbalanced pricing occur when -
+(g) *Unbalanced pricing.* (1) Unbalanced pricing may increase performance risk and could result in payment of unreasonably high prices. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more line items is significantly over or understated as indicated by the application of cost or price analysis techniques. The greatest risks associated with unbalanced pricing occur when -
 
 (i) Startup work, mobilization, first articles, or first article testing are separate line items;
 
@@ -128,4 +128,4 @@
 
 (3) Contract actions awarded pursuant to subparts 19.5, 19.8, 19.13, 19.14, or 19.15 are exempt from the requirements of this paragraph (h) (see section 1615 of the National Defense Authorization Act for Fiscal Year 2014 (Pub. L. 113-66)).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017]

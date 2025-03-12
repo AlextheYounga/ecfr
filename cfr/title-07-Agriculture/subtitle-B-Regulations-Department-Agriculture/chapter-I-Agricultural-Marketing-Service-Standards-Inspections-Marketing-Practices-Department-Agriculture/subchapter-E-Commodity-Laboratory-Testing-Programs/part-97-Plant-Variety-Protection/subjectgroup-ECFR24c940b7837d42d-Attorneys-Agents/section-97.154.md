@@ -1,0 +1,3 @@
+##### § 97.154 Government employees. #####
+
+Officers and employees of the United States who are disqualified by statute (18 U.S.C. 203 and 205) from practicing as attorneys or agents in proceedings or other matters before government departments or agencies, shall not be eligible to represent applicants, except officers and employees whose official duties require the preparation and prosecution of applications for certificates of variety protection.

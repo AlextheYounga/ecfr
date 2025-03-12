@@ -1,0 +1,3 @@
+##### § 29.112 Proper light. #####
+
+Tobacco shall not be inspected or sampled for the purposes of the Act except when displayed in proper light for correct determination of grade or other characteristics of tobacco. No tobacco shall be inspected or sampled for the purposes of the Act in the direct rays of the sun or by any artificial light which does not permit the inspector correctly to determine the grade or other characteristics of tobacco.

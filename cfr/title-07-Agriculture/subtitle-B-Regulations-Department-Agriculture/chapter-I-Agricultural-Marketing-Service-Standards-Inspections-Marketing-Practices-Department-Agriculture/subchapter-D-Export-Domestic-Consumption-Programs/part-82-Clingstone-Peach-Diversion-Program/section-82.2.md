@@ -1,0 +1,3 @@
+##### § 82.2 Administration. #####
+
+The program will be administered under the general direction and supervision of the Deputy Administrator, Fruit and Vegetable Programs, AMS, United States Department of Agriculture (USDA), and will be implemented by the California Canning Peach Association (CCPA). The CCPA, or its authorized representatives, does not have authority to modify or waive any of the provisions of this subpart. The Administrator or delegatee, in the Administrator's or delegatee's sole discretion can modify deadlines to serve the goals of the program. In all cases, payments under this part are subject to the availability of funds.

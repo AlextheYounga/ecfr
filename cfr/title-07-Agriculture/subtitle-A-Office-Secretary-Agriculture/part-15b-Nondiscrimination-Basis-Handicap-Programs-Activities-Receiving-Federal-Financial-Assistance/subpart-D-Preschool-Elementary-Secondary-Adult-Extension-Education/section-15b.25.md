@@ -1,0 +1,5 @@
+##### § 15b.25 Procedural safeguards. #####
+
+A recipient that provides a public elementary or secondary education shall establish and implement, with respect to action regarding the identification, evaluation, or educational placement of persons who, because of handicap, need or are believed to need special instruction or related services, a system of procedural safeguards that includes notice, an opportunity for the parents or guardian of the person to examine relevant records, an impartial hearing with opportunity for participation by the person's parents or guardian and representation by counsel, and a review procedure. Compliance with the procedural safeguards of section 615 of the Education of the Handicapped Act is one means of meeting this requirement.
+
+[47 FR 25470, June 11, 1982, as amended at 68 FR 51343, Aug. 26, 2003]

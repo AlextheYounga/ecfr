@@ -1,0 +1,3 @@
+##### § 1717.356 Additional statutory pre-emption. #####
+
+This subpart addresses pre-emption of State law and State Regulatory Authority upon the filing of a petition by or against the borrower commencing a case under the Bankruptcy Code of 1978, as amended. Nothing in this subpart waives, limits, or otherwise affects the explicit pre-emption or pre-emption, which is implicit and shall occur pursuant to the RE Act as a matter of law, of State law or action of a State Regulatory Authority where such State law or such action compromises Federal interests, including the ability of any borrower to repay loans made or guaranteed by RUS.

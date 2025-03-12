@@ -1,0 +1,3 @@
+##### § 1150.278 Confidential treatment. #####
+
+All documents and other information submitted by applicant organizations and otherwise obtained by the Department by investigation or examination of books, documents, papers, records, files, or facilities shall be kept confidential by all employees of the Department. Only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in the issuance of general statements based upon the applications of a number of persons, which do not identify the information furnished by any one person.

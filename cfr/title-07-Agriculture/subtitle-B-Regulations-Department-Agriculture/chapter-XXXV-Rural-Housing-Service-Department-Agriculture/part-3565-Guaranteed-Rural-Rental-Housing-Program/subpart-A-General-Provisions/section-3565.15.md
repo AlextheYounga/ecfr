@@ -1,0 +1,3 @@
+##### § 3565.15 Oversight and monitoring. #####
+
+The lender, borrower, and all parties involved in any manner with any guarantee under this program must cooperate fully with all oversight and monitoring efforts of the Agency, Office of Inspector General, the U.S. General Accounting Office, and the U.S. Department of Justice or their representatives including making available any records concerning this transaction. This includes the annual eligibility audit and any other oversight or monitoring activities. If the Agency implements a requirement for an electronic transfer of information, the lender and borrower must cooperate fully.

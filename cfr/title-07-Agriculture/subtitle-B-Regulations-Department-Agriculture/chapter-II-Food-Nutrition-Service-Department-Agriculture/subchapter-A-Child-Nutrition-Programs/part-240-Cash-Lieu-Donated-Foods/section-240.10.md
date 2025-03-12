@@ -1,0 +1,3 @@
+##### § 240.10 Unobligated funds. #####
+
+State agencies shall release to FNS any funds paid to them under this part which are unobligated at the end of each fiscal year. Release of funds by any State agency shall be made as soon as practicable, but in any event, not later than 30 days following demand by FNS. Release of funds shall be reflected by a related adjustment in the State agency's Letter of Credit where appropriate or payment by State check where the funds have been paid by United States Treasury Department check.

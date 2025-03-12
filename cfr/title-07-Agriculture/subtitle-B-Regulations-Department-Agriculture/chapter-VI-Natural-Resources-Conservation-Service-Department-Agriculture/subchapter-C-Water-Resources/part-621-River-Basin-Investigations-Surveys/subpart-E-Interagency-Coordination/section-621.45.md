@@ -1,0 +1,3 @@
+##### § 621.45 Flood insurance studies. #####
+
+As requested by the Federal Emergency Management Agency (FEMA), and within the limits of available resources, NRCS carries out flood insurance studies of various types under the National Flood Insurance Program (Pub. L. 90-448, 82 Statute, 574 (42 U.S.C. 4012)), as amended. In this activity, NRCS performs detailed technical studies to determine the extent and frequency of flooding. The flood insurance program is administered by FEMA. NRCS is reimbursed by that agency for actual costs incurred in carrying out the studies. Local entities desiring flood insurance coverage should contact the responsible State agency or FEMA and apply in accordance with procedures of that agency.

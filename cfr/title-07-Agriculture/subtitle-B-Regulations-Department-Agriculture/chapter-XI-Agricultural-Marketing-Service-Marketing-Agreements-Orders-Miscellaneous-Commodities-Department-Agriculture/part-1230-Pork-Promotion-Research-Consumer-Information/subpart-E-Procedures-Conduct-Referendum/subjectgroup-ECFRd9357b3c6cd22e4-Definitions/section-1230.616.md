@@ -1,0 +1,3 @@
+##### § 1230.616 Public notice. #####
+
+The term *Public notice* means information regarding a referendum that would be provided by the Secretary, such as press releases, newspapers, electronic media, FSA county newsletters, and the like. Such notice would contain the referendum date and location, registration and voting requirements, rules regarding absentee voting, and other pertinent information.

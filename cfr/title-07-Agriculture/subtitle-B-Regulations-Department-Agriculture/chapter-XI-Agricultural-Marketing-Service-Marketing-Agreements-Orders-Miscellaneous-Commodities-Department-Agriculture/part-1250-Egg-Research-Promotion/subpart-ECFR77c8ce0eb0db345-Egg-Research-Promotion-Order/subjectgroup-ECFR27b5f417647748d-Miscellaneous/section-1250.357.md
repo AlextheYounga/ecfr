@@ -1,0 +1,5 @@
+##### § 1250.357 Suspension and termination. #####
+
+(a) The Secretary shall, whenever he finds that this subpart or any provision thereof obstructs or does not tend to effectuate the declared policy of the act, terminate or suspend the operation of this subpart or such provision.
+
+(b) The Secretary may conduct a referendum at any time, and shall hold a referendum on request of 10 percent or more of the number of egg producers voting in the referendum approving this subpart, to determine whether egg producers favor the termination or suspension of this subpart, and the Secretary shall suspend or terminate such subpart at the end of 6 months after he determines that suspension or termination of the subpart is approved or favored by a majority of the egg producers voting in such referendum who, during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, and who produced more than 50 percent of the volume of eggs produced by the egg producers voting in the referendum.

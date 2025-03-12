@@ -1,0 +1,5 @@
+##### § 4280.304 Review or appeal rights and administrative concerns. #####
+
+(a) *Review or appeal rights.* An applicant MDO, a microlender, or grantee MDO may seek a review of an adverse Agency decision under this subpart from the appropriate Agency official that oversees the program in question, and/or appeal the Agency decision to the National Appeals Division in accordance with 7 CFR part 11.
+
+(b) *Administrative concerns.* Any questions or concerns regarding the administration of the program, including any action of the microlender, may be addressed to: USDA Rural Development, Rural Business-Cooperative Service, Specialty Programs Division or its successor agency, or the local USDA Rural Development office.

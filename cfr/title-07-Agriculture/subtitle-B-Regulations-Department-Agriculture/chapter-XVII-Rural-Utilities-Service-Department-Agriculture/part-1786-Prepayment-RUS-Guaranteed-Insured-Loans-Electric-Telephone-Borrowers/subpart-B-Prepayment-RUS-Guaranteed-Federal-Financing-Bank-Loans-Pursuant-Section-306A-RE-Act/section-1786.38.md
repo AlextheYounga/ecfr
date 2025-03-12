@@ -1,0 +1,3 @@
+##### § 1786.38 Judicial review. #####
+
+This subpart is intended to set forth RUS policies and procedures for the orderly administration of the provisions of section 306(A) of the RE Act, section 633 of the continuing resolution, and section 637 of the 1989 Appropriations Act and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers or any person.

@@ -1,0 +1,3 @@
+##### § 948.75 Expenses. #####
+
+Each area committee is authorized to incur such expenses as the Secretary may find are reasonable and likely to be incurred during each fiscal period for its maintenance and functioning, and for purposes determined to be appropriate for administration of this part. Handlers shall share expenses upon the basis of a fiscal period. Each handler's share of such expenses shall be proportionate to the ratio between the total quantity of potatoes handled by him as the first handler thereof during a fiscal period and the total quantity of potatoes handled by all handlers as first handlers thereof during such fiscal period.

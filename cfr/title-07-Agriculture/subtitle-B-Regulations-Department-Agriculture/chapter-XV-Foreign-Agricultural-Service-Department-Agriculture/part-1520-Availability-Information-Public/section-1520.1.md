@@ -1,0 +1,3 @@
+##### § 1520.1 General statement. #####
+
+This part is issued in accordance with the regulations of the Secretary of Agriculture 7 CFR, part 1—Administrative Regulations, Subpart A—Official Records, § 1.3, Agency Implementing Regulations, for the Freedom of Information Act (5 U.S.C. 552). The Secretary's Regulations, as implemented by the regulations in this part govern the availability of records of the Foreign Agricultural Service (FAS) to the public.

@@ -1,0 +1,9 @@
+##### § 917.37 Assessments. #####
+
+(a) As his/her pro rata share of the expenses which the Secretary finds are reasonable and are likely to be incurred by the commodity committees during a fiscal period, each handler shall pay to the Control Committee, upon demand, assessments on all fruit handled by him/her. The payment of assessments for the maintenance and functioning of the committees may be required under this part throughout the period it is in effect irrespective of whether particular provisions thereof are suspended or become inoperative.
+
+(b) The Secretary shall fix the respective rate of assessment, which handlers shall pay with respect to each fruit during each fiscal period in an amount designed to secure sufficient funds to cover the respective expenses, which may be incurred during such period. At any time during or after the fiscal period, the Secretary may increase the rates of assessment in order to secure funds to cover any later findings by the Secretary relative to such expenses, and such increase shall apply to all fruit shipped during the fiscal period.
+
+(c) In order to provide funds to carry out the functions of the commodity committee prior to commencement of shipments in any season, shippers may make advance payments of assessments, which advance payments shall be credited to such shippers and the assessments of such shippers shall be adjusted so that such assessments are based upon the quantity of fruit shipped by such shippers during such season. Any shipper who ships fruit for the account of a grower may deduct, from the account of sale covering such shipment or shipments, the amount of assessments levied on said fruit shipped for the account of such grower.
+
+[71 FR 41352, July 21, 2006, as amended at 76 FR 66605, Oct. 27, 2011]Effective Date Note:At 76 FR 66605, Oct. 27, 2011, § 917.37 was suspended indefinitely, effective Oct. 28, 2011.

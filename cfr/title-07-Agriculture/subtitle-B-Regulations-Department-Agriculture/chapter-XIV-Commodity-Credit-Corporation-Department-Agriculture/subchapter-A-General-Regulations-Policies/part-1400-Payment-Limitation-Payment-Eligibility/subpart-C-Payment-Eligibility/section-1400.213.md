@@ -1,0 +1,3 @@
+##### § 1400.213 Military personnel. #####
+
+If a person is called to active duty in the military before a determination is made that the person is actively engaged in farming, the person may be considered to be actively engaged in farming if the determining authority determines that such person did make a conscious effort to, and would have been determined to be, actively engaged in farming if the person would not have been called to active duty. If the person is called to active duty after being determined to be actively engaged in farming, such determination will remain in effect for the program year.

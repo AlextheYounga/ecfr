@@ -1,0 +1,14 @@
+##### § 51.3198 Size classifications. #####
+
+Size shall be specified in connection with the grade in terms of minimum diameter, range in diameter, minimum diameter with a percentage of a certain size or larger, or in accordance with one of the size classifications listed below: *Provided,* that unless otherwise specified, onions shall not be less than 11/2 inches in diameter, with 60 percent or more 2 inches or larger in diameter.
+
+|                                                                               Size designation                                                                               |     Minimum diameter     |Maximum diameter|                          |    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|----------------|--------------------------|----|
+|                                                                                    Inches                                                                                    |       Millimeters        |     Inches     |       Millimeters        |    |
+|                                                                                    Small                                                                                     |            1             |      25.4      |2<sup>1</sup>⁄<sub>4</sub>|57.2|
+|                                                                       Repacker/Prepacker <sup>1</sup>                                                                        |1<sup>3</sup>⁄<sub>4</sub>|      44.5      |            3             |76.2|
+|                                                                                    Medium                                                                                    |            2             |      50.8      |3<sup>1</sup>⁄<sub>4</sub>|82.6|
+|                                                                                Large or Jumbo                                                                                |            3             |      76.2      |      (<sup>2</sup>)      |    |
+|                                                                                   Colossal                                                                                   |3<sup>3</sup>⁄<sub>4</sub>|      95.3      |      (<sup>2</sup>)      |    |
+|<sup>1</sup> In addition to the sizes specified, a lot of onions designated as Repacker or Prepacker shall contain at least 60 percent or more 2 inches or larger in diameter.|                          |                |                          |    |
+|                                                                         <sup>2</sup> No requirement.                                                                         |                          |                |                          |    |

@@ -1,7 +1,5 @@
 ##### § 982.54 Administrative plan. #####
 
-Link to an amendment published at 81 FR 80582, November 16, 2016.
-
 (a) The PHA must adopt a written administrative plan that establishes local policies for administration of the program in accordance with HUD requirements. The administrative plan and any revisions of the plan must be formally adopted by the PHA Board of Commissioners or other authorized PHA officials. The administrative plan states PHA policy on matters for which the PHA has discretion to establish local policies.
 
 (b) The administrative plan must be in accordance with HUD regulations and requirements. The administrative plan is a supporting document to the PHA plan (part 903 of this title) and must be available for public review. The PHA must revise the administrative plan if needed to comply with HUD requirements.
@@ -42,7 +40,7 @@ Link to an amendment published at 81 FR 80582, November 16, 2016.
 
 (13) Informal hearing procedures for participants;
 
-(14) The process for establishing and revising voucher payment standards;
+(14) The process for establishing and revising payment standards, including policies on administering decreases in the payment standard during the HAP contract term (see § 982.505(d)(3)).
 
 (15) The method of determining that rent to owner is a reasonable rent (initially and during the term of a HAP contract);
 
@@ -60,4 +58,6 @@ Link to an amendment published at 81 FR 80582, November 16, 2016.
 
 (22) PHA screening of applicants for family behavior or suitability for tenancy.
 
-(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 27163, May 30, 1996; 63 FR 23859, Apr. 30, 1998; 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56911, Oct. 21, 1999; 66 FR 28804, May 24, 2001; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015]
+(23) Policies concerning application of Small Area FMRs to project-based voucher units (see § 888.113(h)).
+
+(Approved by the Office of Management and Budget under control number 2577-0169)[60 FR 34695, July 3, 1995, as amended at 60 FR 45661, Sept. 1, 1995; 61 FR 27163, May 30, 1996; 63 FR 23859, Apr. 30, 1998; 64 FR 26641, May 14, 1999; 64 FR 49658, Sept. 14, 1999; 64 FR 56911, Oct. 21, 1999; 66 FR 28804, May 24, 2001; 80 FR 8245, Feb. 17, 2015; 80 FR 50572, Aug. 20, 2015; 81 FR 80582, Nov. 16, 2016]

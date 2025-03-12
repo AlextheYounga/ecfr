@@ -1,0 +1,3 @@
+##### § 652.33 Notice of proposed decertification. #####
+
+The State Conservationist will send by certified mail, return receipt requested, to the technical service provider proposed for decertification a written Notice of Proposed Decertification, which will contain the cause(s) for decertification, as well as any documentation supporting decertification. In cases where a private sector entity or public agency is being notified of a proposed decertification, any certified individuals working under the auspices of such organization who are also being considered for decertification will receive a separate Notice of Decertification and will be afforded separate appeal rights following the process set forth below.

@@ -1,0 +1,5 @@
+##### § 1744.64 Budget adjustment. #####
+
+(a) If more funds are required than are available in a budget account, the borrower may request RUS's approval of a budget adjustment to use funds from another account. The request shall include an explanation of the change, the budget account to be used, and a description of how the adjustment will affect loan purposes. RUS will not approve a budget adjustment that affects other loan purposes unless the borrower satisfies RUS that the additional funds are available from another source, requests a deficiency loan, or scales back the project.
+
+(b) RUS may make a budget adjustment without a formal request by the borrower when a budget account is insufficient to encumber funds for a contract that otherwise would be approved by RUS. See 7 CFR part 1753.

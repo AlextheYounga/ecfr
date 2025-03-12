@@ -1,0 +1,5 @@
+##### § 1770.26 General. #####
+
+(a) The standard provisions of the security instruments utilized by the Rural Utilities Service (RUS) and the Rural Telephone Bank (RTB) for all telecommunications borrowers require borrowers to at all times keep and safely preserve, proper books, records, and accounts in which full and true entries will be made of all of the dealings, business, and affairs of the borrower in accordance with the methods and principles of accounting prescribed by the state regulatory body having jurisdiction over the borrower and by the Federal Communications Commission (FCC) in its Uniform System of Accounts for telecommunications companies (47 CFR part 32), as those methods and principles of accounting are supplemented from time to time by RUS.
+
+(b) This subpart implements those standard provisions of the RUS and RTB security instruments by prescribing accounting principles, methodologies, and procedures applicable to all telecommunications borrowers for particular situations.

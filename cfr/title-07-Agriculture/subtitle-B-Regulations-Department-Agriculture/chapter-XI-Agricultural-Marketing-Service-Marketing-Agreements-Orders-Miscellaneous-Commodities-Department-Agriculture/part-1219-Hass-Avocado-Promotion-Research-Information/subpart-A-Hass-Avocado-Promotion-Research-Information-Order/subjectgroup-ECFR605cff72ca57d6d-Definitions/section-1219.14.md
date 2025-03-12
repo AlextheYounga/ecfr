@@ -1,0 +1,3 @@
+##### § 1219.14 Importer. #####
+
+*Importer* means any person who imports Hass avocados into the United States. The term includes a person who holds title to Hass avocados produced outside of the United States immediately upon release by Customs, as well as any person who acts on behalf of others, as an agent, broker, or consignee, to secure the release of Hass avocados from Customs and the introduction of the released Hass avocados into the current of commerce and who is listed in the import records of Customs as the importer of record for such Hass avocados.

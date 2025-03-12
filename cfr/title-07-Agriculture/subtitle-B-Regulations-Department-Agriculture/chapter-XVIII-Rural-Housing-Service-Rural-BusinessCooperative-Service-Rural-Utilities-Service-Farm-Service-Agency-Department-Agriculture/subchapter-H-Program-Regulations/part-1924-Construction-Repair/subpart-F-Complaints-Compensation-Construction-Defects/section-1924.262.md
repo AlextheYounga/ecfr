@@ -1,0 +1,3 @@
+##### § 1924.262 Handling complaints involving dwellings constructed by the self-help method. #####
+
+When a borrower whose dwelling was constructed by the self-help method complains about construction defects, Rural Development will determine whether the defect is the result of work performed by a contractor or work performed by the borrower under the guidance of the self-help group. Defects which are determined to be the responsibility of a contractor will be handled in accordance with § 1924.259 of this subpart. Defects determined to be the result of work performed by the borrower are not eligible for compensation under this subpart.

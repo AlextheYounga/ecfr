@@ -1,0 +1,3 @@
+##### § 621.34 Recipient responsibility. #####
+
+Participating local and State governments work with USDA and the Department of the Army representatives in developing objectives, collecting data, analyzing problems, planning and formulating proposals, and considering financial plans. Active public participation is solicited in the planning process through means such as questionnaires, public meetings, citizen advisory boards, and technical committees.

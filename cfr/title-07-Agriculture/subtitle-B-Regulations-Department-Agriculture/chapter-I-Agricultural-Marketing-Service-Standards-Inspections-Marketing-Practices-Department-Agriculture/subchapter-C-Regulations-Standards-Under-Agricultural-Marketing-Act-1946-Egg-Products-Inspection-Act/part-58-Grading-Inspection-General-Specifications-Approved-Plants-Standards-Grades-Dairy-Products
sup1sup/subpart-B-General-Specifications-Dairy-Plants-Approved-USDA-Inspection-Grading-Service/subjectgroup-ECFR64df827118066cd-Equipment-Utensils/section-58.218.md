@@ -1,0 +1,3 @@
+##### § 58.218 Surge tanks. #####
+
+If surge tanks are used for hot milk, and temperatures of product including foam being held in the surge tank during processing, is not maintained at a minimum of 150 °F, then two or more surge tanks shall be installed with cross connections to permit flushing and cleaning during operation. Covers easily removable for cleaning shall be provided and used at all times.

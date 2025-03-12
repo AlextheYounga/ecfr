@@ -1,0 +1,3 @@
+##### § 714.39 Manner of filing. #####
+
+Claim for refund shall be filed in the county office on a form prescribed by the Deputy Administrator. If more than one person is entitled to file a claim, a joint claim may be filed by all such persons. If a separate claim is filed by a person who is a party to a joint claim, such separate claim shall not be approved until the interest of each person involved in the joint claim has been determined.

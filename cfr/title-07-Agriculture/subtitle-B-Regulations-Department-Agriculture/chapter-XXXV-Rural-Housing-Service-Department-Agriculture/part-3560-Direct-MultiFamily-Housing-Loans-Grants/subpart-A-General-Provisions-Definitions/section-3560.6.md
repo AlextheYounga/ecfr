@@ -1,0 +1,5 @@
+##### § 3560.6 Borrower responsibility and requirements. #####
+
+(a) Borrower responsibilities and requirements specified in this part may be carried out by an individual or entity designated by the borrower to act on behalf of the borrower such as a resident manager or management agent. Ultimate accountability to the Agency, however, is with the borrower whether or not the borrower designated another person or entity to act on the borrower's behalf.
+
+(b) Borrowers who have not executed a loan agreement, and who were not required to execute a loan agreement by the regulations in effect at the time of their loan closing are exempt from the requirements of subparts D through G of this part, as long as the borrower is not in default of any applicable requirement, security instrument, payment, or any other agreement with the Agency. Such borrowers must provide evidence of tenant income eligibility in accordance with § 3560.152(a), except in Farm Labor Housing where the tenant is not paying shelter cost.

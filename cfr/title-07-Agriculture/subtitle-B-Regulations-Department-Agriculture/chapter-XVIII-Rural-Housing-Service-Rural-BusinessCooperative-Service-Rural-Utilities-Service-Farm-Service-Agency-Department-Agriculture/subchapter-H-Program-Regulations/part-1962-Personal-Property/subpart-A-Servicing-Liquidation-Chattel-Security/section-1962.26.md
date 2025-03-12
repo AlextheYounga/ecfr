@@ -1,0 +1,3 @@
+##### § 1962.26 Correcting errors in security instruments. #####
+
+The County Supervisor may use Form RD 462-12, to correct minor errors in a financing statement when the errors are not serious (i.e., a slightly misspelled name). OGC will be asked to determine whether or not such errors are in fact minor. The County Supervisor may also use Form RD 462-12 to add chattel property to the financing statement (i.e., a new type or item of chattel or crops on land not previously described).

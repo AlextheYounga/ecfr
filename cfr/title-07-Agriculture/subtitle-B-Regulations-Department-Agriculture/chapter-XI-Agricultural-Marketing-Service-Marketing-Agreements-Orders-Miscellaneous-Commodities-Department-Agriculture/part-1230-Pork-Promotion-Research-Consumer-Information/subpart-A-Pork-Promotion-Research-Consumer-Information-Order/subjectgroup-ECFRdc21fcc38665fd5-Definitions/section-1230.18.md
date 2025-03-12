@@ -1,0 +1,3 @@
+##### § 1230.18 Porcine animal. #####
+
+*Porcine animal* means a swine, that is raised as (a) a feeder pig, that is, a young pig sold to another person to be finished for slaughtering over a period of more than 1 month; (b) for breeding purposes as seed stock and included in the breeding herd; and (c) a market hog, slaughtered by the producer or sold to be slaughtered, usually within 1 month of such transfer.

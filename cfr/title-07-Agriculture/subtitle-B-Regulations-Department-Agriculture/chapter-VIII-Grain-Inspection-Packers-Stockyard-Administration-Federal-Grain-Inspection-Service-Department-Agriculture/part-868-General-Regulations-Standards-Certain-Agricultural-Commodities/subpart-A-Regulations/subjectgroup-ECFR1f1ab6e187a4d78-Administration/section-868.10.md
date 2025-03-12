@@ -1,0 +1,3 @@
+##### § 868.10 Information about the Service, Act, and regulations. #####
+
+Information about the Service, Act, regulations, standards, rules of practice, instructions, and other matters related to the inspection of commodities may be obtained by telephoning or writing the U.S. Department of Agriculture, Federal Grain Inspection Service, P.O. Box 96454, Washington, DC 20090-6454, or any field office or cooperator.

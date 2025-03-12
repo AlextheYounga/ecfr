@@ -1,0 +1,3 @@
+##### § 51.17 Official sampling. #####
+
+Samples may be officially drawn by any duly authorized inspector and delivered, or shipped, for analysis and certification to the nearest designated market or to such market as shall be directed by the Administrator. The container in which such samples are delivered, or shipped, shall contain a statement, signed by the inspector who drew the samples, showing the time and place of the sampling and the brands or other identifying marks of the containers from which the samples were drawn. The certificate based on such samples shall show the time and place of drawing the samples, and the name of the inspector by whom they were drawn.

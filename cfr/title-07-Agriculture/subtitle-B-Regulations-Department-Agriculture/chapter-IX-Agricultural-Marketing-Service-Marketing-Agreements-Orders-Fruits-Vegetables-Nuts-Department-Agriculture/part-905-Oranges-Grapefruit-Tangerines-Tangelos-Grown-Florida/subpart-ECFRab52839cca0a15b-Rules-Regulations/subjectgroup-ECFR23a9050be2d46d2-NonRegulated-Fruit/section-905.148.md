@@ -1,0 +1,7 @@
+##### § 905.148 Reports of special purpose shipments under certificates of privilege. #####
+
+(a) Each handler of citrus shipping under Certificates of Privilege shall supply the committee with reports on each shipment as requested by the committee, on forms supplied by the committee, showing the name and address of the shipper or shippers; name and address of the certified organic Florida citrus fruit grower or growers supplying fruit for such shipment; truck or other conveyance identification; the loading point; destination, consignee; the inspection certificate number; and any other information deemed necessary by the committee.
+
+(b) One copy of the report on each shipment shall be forwarded by the shipper to the committee within 10 days after such shipment, and two copies of the report shall accompany each shipment to the receiver. Upon the receipt of each shipment, the receiver shall complete the applicable portion of the form and return one copy to the committee within 10 days and one copy shall be retained by the shipper. Such completion shall contain a certification to the Secretary and the committee that the citrus described shall be distributed in the outlets described. Failure to complete and return such forms will be cause to remove that receiver's name from the committee's list of eligible receivers.
+
+[43 FR 9456, Mar. 8, 1978, as amended at 59 FR 26929, May 25, 1994]

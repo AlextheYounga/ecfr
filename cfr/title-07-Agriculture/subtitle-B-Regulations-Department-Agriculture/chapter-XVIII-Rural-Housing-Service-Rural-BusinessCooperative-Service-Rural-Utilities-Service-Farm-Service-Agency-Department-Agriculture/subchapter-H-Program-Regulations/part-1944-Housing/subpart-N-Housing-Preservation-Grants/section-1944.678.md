@@ -1,0 +1,3 @@
+##### § 1944.678 Preapplication submission deadline. #####
+
+Dates governing the invitation and review of HPG preapplications will be published annually in the Federal Register and may be obtained from Rural Development offices processing HPG preapplications. Preapplications received after the date specified in the Federal Register will not be considered for funding in that fiscal year and will be returned.

@@ -1,0 +1,5 @@
+##### § 3560.3 Environmental review requirements. #####
+
+RHS will consider environmental impacts of proposed housing as equal with economic, social, and other factors. By working with applicants, Federal agencies, Indian tribes, state and local governments, interested citizens, and organizations, RHS will formulate actions that advance program goals in a manner that protects, enhances, and restores environmental quality. Actions taken under this part must comply with the environmental review requirements in accordance with 7 CFR part 1970. Servicing actions as defined in § 1970.6 of this title are part of financial assistance already provided and do not require additional NEPA review. However, certain post-financial assistance actions that have the potential to have an effect on the environment, such as lien subordinations, sale or lease of Agency-owned real property, or approval of a substantial change in the scope of a project, as defined in § 1970.8 of this title, are actions for the purposes of this part.
+
+[81 FR 11049, Mar. 2, 2016]

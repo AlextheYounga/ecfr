@@ -1,0 +1,3 @@
+##### § 3402.19 Terms and conditions of grant awards. #####
+
+Within the limit of funds available for such purpose, the awarding official shall make project grants to those responsible, eligible applicants whose applications are judged most meritorious according to evaluation criteria stated in the solicitation. The beginning of the project period shall be no later than September 30 of the Federal fiscal year in which the project is approved for support. All funds granted under this part shall be expended solely for the purpose for which the funds are granted in accordance with the approved application and budget, the regulations of this part, the terms and conditions of the award, the applicable Federal cost principles, and 2 CFR part 200.

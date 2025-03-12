@@ -1,0 +1,3 @@
+##### § 2502.3 Deviations. #####
+
+Any request by the applicant or grantee for a waiver or deviation from any provision of this part shall be submitted to the ADO identified in the agency specific requirements. OAO shall review the request and notify the applicant/grantee whether the request to deviate has been approved within 30 calendar days from the date of receipt of the deviation request. If the deviation request is still under consideration at the end of 30 calendar days, OAO shall inform the applicant/grantee in writing of the date when the applicant/grantee may expect the decision.

@@ -1,0 +1,3 @@
+##### § 922.27 Alternate members. #####
+
+An alternate member of the committee, during the absence or at the request of the member for whom he is an alternate, shall act in the place and stead of such member and perform such other duties as assigned. In the event of the death, removal, resignation, or disqualification of a member, his alternate shall act for him until a successor for such member is selected and has qualified. In the event both a member of the committee and his alternate are unable to attend a committee meeting, the member or the committee may designate any other alternate member from the same district and group (handler or grower) to serve in such member's place and stead.

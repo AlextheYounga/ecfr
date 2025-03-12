@@ -1,0 +1,3 @@
+##### § 1530.113 Waivers. #####
+
+Upon written application of the licensee or at the discretion of the Licensing Authority, and for good cause, the Licensing Authority may extend the period for transfer, export, or production, and/or may temporarily increase a maximum license limit, may extend the period for submitting regularly scheduled reports, or may temporarily waive or modify any other requirement imposed by this part if the Licensing Authority determines that such a waiver will not undermine the purpose of the relevant program or adversely affect domestic sugar policy objectives. The Licensing Authority may specify additional requirements or procedures in place of the requirements or procedures waived or modified.

@@ -1,0 +1,11 @@
+##### § 3402.23 Documentation of progress on funded projects. #####
+
+(a) Fellowships/Scholarships Entry/Exit Forms (Form NIFA-2010) are available from NIFA upon request. Upon request by HEP, Project Directors awarded Graduate Fellowship (excluding supplemental international and postdoctoral) grants under the program shall complete and submit this form.
+
+(1) Appointment Information shall be submitted to HEP within 3 months of appointment of a Fellow;
+
+(2) The Project Director shall submit an annual update of each Fellow's progress to HEP by September 30 each year. Additional progress reports may be needed to assess continuing progress of Fellows supported by any special international study or thesis/dissertation research allowance and/or institutional adherence to program guidelines.
+
+(3) Exit Information shall be completed and submitted to HEP by the Project Director for each Fellow supported by a grant as soon as a Fellow either: Graduates; is officially terminated from the Fellowship or the academic program due to unsatisfactory academic progress; or voluntarily withdraws from the Fellowship or the academic program. If a Fellow has not completed all degree requirements at the end of the five-year grant duration, HEP may request a preliminary exit report. In such a case, a final exit report shall be required at a later date. When a final exit report for each Fellow supported by a grant has been accepted by HEP, the grantee will have satisfied the requirement of a final performance report for the grant. Additional follow-up reports to track Fellows' career patterns may be requested.
+
+(b) All grantees (supplemental international, graduate, and postdoctoral) shall submit initial project information and annual and summary reports to NIFA' Current Research Information System (CRIS). The CRIS database contains narrative project information, progress/impact statements, and final technical reports that are made available to the public. For applications recommended for funding, instructions on preparation and submission of project documentation will be provided to the applicant by the agency contact. Documentation must be submitted to CRIS before NIFA funds will be released. Project reports will be requested by the CRIS office when required. For more information about CRIS, visit *http://cris.nifa.usda.gov.*

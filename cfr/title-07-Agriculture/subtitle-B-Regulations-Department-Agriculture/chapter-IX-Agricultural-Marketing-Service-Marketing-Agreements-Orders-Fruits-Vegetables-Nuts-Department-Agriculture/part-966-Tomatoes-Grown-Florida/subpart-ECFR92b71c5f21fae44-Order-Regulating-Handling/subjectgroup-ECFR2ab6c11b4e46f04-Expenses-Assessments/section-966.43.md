@@ -1,0 +1,7 @@
+##### § 966.43 Accounting. #####
+
+(a) All funds received by the committee pursuant to the provisions of this subpart shall be used solely for the purposes specified in this part.
+
+(b) The Secretary may at any time require the committee, its members and alternates, employees, agents and all other persons to account for all receipts and disbursements, funds, property, or records for which they are responsible. Whenever any person ceases to be a member of the committee or alternate, he shall account to his successor, the committee, or to the person designated by the Secretary, for all receipts, disbursements, funds and property (including but not being limited to books and other records) pertaining to the committee's activities for which he is responsible, and shall execute such assignments and other instruments as may be necessary or appropriate to vest in such successor, committee, or designated person, the right to all of such property and funds and all claims vested in such person.
+
+(c) The committee may make recommendations to the Secretary for one or more of the members thereof, or any other person, to act as a trustee for holding records, funds, or any other committee property during periods of suspension of this subpart, or during any period or periods when regulations are not in effect and, if the Secretary determines such action appropriate, he may direct that such person or persons shall act as trustee or trustees for the committee.

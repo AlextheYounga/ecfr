@@ -1,0 +1,3 @@
+##### § 1709.15 Grant closeout. #####
+
+Grant closeout is when all required work is completed, administrative actions relating to the completion of work and expenditure of funds have been accomplished, the final project report has been submitted and found acceptable by RUS and RUS accepts final expenditure information. No monitoring action by RUS of the grantee is required after grant closeout. However, grantees remain responsible in accordance with the terms of the grant agreement for compliance with conditions on property acquired or derived through grant funds.

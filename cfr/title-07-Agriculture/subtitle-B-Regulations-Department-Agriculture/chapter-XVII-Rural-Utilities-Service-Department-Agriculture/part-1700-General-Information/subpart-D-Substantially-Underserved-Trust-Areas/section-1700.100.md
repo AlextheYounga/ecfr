@@ -1,0 +1,3 @@
+##### § 1700.100 Purpose. #####
+
+This subpart establishes policies and procedures for the Rural Utilities Service (RUS) implementation of the Substantially Underserved Trust Areas (SUTA) initiative under section 306F of the Rural Electrification Act of 1936, as amended (7 U.S.C. 906f). The purpose of this rule is to identify and improve the availability of eligible programs in communities in substantially underserved trust areas.

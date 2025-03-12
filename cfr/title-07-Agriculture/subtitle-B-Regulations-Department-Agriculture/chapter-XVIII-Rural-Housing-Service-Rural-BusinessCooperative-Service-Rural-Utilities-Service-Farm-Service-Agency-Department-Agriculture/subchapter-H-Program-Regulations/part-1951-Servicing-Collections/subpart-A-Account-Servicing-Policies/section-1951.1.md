@@ -1,0 +1,5 @@
+##### § 1951.1 Purpose. #####
+
+This subpart sets forth the policies and procedures to use in servicingaccounts. This subpart also applies to Rural Rental Housing Loan (RRH), Rural Cooperative Housing Loan (RCH), Labor Housing Loan (LH), Rural Housing Site Loan (RHS), and Site Option Loan (SO) accounts not covered under the Predetermined Amortization Schedule System (PASS). Loans on PASS will be administered under 7 CFR part 3560, subpart I. Cases involving unauthorized assistance will be serviced under Subparts L and N of this part. Cases involving graduation of borrowers to other sources of credit will be serviced under Subpart F of this part. This subpart does not apply to Water and Waste Programs of the Rural Utilities Service, Watershed loans, or Resource Conservation and Development loans, which are serviced under part 1782 of this title. In addition, this subpart is inapplicable to Farm Service Agency, Farm Loan Programs.
+
+[52 FR 26134, July 13, 1987, as amended at 69 FR 69105, Nov. 26, 2004; 72 FR 55017, Sept. 28, 2007; 72 FR 64122, Nov. 15, 2007]

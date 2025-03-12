@@ -1,0 +1,3 @@
+##### § 610.11 Purpose and scope. #####
+
+This subpart sets forth the equations and rules for utilizing the equations that are used by the Natural Resources Conservation Service (NRCS) to predict soil erosion due to water and wind. Section 301 of the Federal Agriculture Improvement and Reform Act of 1996 (FAIRA) and the Food Security Act, as amended, 16 U.S.C. 3801-3813 specified that the Secretary would publish the universal soil loss equation (USLE) and wind erosion equation (WEQ) used by the Department within 60 days of the enactment of FAIRA. This subpart sets forth the equations, definition of factors, and provides the rules under which NRCS will utilize the USLE, the revised universal soil loss equation (RUSLE), and the WEQ.

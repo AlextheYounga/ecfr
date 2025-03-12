@@ -1,0 +1,3 @@
+##### § 75.4 Federal and State cooperation. #####
+
+Pursuant to the Act, the Administrator is authorized to cooperate with the appropriate State agencies in carrying out provisions of the Act and these regulations through Memoranda of Understanding. The Memorandum of Understanding shall specify the duties to be performed by the parties concerned with each party directing its own activities and utilizing its own resources.

@@ -1,0 +1,5 @@
+##### § 15c.6 Compliance reviews. #####
+
+(a) USDA may conduct compliance reviews or use other similar procedures to review the activities of recipients to determine whether they are complying with the Age Act and this regulation and to investigate and address violations of the Age Act. USDA may conduct these reviews, at any time, even in the absence of a complaint against a recipient. The reviews may be as comprehensive as necessary to determine whether a violation of the Age Act or this regulation has occurred.
+
+(b) If a compliance review indicates a violation of the Age Act or this regulation, USDA shall attempt to achieve voluntary compliance with the Age Act. USDA shall monitor and evaluate a recipient's efforts to remedy a violation to ensure compliance consistent with applicable civil rights requirements until compliance has been achieved. If voluntary compliance cannot be achieved, USDA shall undertake enforcement of the Age Act and this regulation.

@@ -1,0 +1,3 @@
+##### § 1709.207 Eligible applicants. #####
+
+Eligible applicants are restricted to State entities in existence as of November 9, 2000. Eligible State entities may partner with other entities, including other government agencies, in carrying out the programs funded by this program. Each applicant must demonstrate that it has the authority to enter into a binding agreement with the Federal Government to carry out the grant activities.

@@ -1,0 +1,3 @@
+##### § 35.15 Opportunity for hearing. #####
+
+The person accused shall be entitled to a hearing, provided he makes written request therefor and files a written responsive answer to the charges made not later than 10 days after service of such notice upon him. The right to hearing shall be restricted to matters in issue. At such hearing, he shall have the right to be present in person or by counsel and to submit evidence and argument in his behalf. Failure to request a hearing within the specified time or failure to appear at the hearing when scheduled shall be deemed a waiver of the right to hearing. Such person may, in lieu of requesting an oral hearing, file a sworn written statement with the Secretary not later than 10 days after service of such notice upon him.

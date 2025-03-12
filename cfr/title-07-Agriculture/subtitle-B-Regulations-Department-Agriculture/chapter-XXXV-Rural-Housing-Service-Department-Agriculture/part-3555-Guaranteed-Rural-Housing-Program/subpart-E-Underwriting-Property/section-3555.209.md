@@ -1,0 +1,3 @@
+##### § 3555.209 Rural Energy Plus loans. #####
+
+Loans guaranteed under Rural Energy Plus provisions are for the purchase of energy-efficient homes. Homes that meet the most current IECC standards including existing homes that are retrofitted to those standards are eligible. Energy-efficient homes result in lower utility bills, conserve energy, and thus, make more income available for monthly debt obligations. For loans guaranteed under this subpart, the lender will certify that the home meets the most current IECC standards. The Handbook will define what further flexibilities can be extended.

@@ -1,0 +1,3 @@
+##### § 900.25 Advance submission of testimony. #####
+
+Any person proposing an amendment to a Federal milk marketing agreement or order under § 900.3 of this part, when participating as a witness, shall make copies of his or her testimony, if prepared as an exhibit, and any other exhibits available to USDA officials before the start of the hearing on the person's day of appearance. Individual dairy farmers shall not be subject to this requirement.

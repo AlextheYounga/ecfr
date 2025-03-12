@@ -1,0 +1,3 @@
+##### § 91.14 When an application may be withdrawn. #####
+
+An application for a laboratory service may be withdrawn by the applicant at any time before the analytical testing is performed; *Provided,* That, the applicant shall pay, at the hourly rate prescribed in § 91.37, for the time incurred by the scientist or laboratory technician, in connection with such application and any travel expenses, telephone, facsimile, mailing, telegraph or other expenses, which have been incurred by the laboratory servicing office, in connection with such application.

@@ -1,0 +1,7 @@
+##### § 400.455 Governmentwide debarment and suspension (procurement). #####
+
+(a) For all transactions undertaken pursuant to the Federal Acquisition Regulations, FCIC will proceed under 48 CFR part 9, subpart 9.4 or 48 CFR part 409 when taking action to suspend or debar persons involved in such transactions, except that the authority to suspend or debar under these provisions will be reserved to the Manager of FCIC, or the Manager's designee.
+
+(b) Any person suspended or debarred under the provisions of 48 CFR part 9, subpart 9.4 or 48 CFR part 409 will not be eligible to contract with FCIC or the Risk Management Agency and will not be eligible to participate in or receive any benefit from any program under the Act during the period of ineligibility. This includes, but is not limited to, being employed by or contracting with any approved insurance provider that sells, services, or adjusts policies offered under the authority of the Act. FCIC may waive this provision if it is satisfied that the person who employs the suspended or debarred person has taken sufficient action to ensure that the suspended or debarred person will not be involved, in any way, with FCIC or receive any benefit from any program under the Act.
+
+[73 FR 76890, Dec. 18, 2008]

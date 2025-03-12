@@ -1,0 +1,3 @@
+##### § 15.63 Computation of time. #####
+
+A period of time begins with the day following the act or event and includes the last day of the period, unless it is a Saturday, Sunday, or legal holiday observed in the District of Columbia, in which case it shall be the following workday. When the period of time prescribed or allowed is less than 7 days, intermediate Saturdays, Sundays, and legal holidays shall be excluded from the computation.

@@ -1,0 +1,5 @@
+##### § 1735.52 Findings required for particular loan purposes. #####
+
+(a) *Refinancing.* For loans that include funds to refinance outstanding indebtedness of the borrower, the borrower shall provide RUS with satisfactory evidence to enable the Administrator to determine that the inclusion in the loan of such funds shall be necessary and incidental to furnishing or improving telephone service in rural areas. See 7 CFR 1735.21.
+
+(b) *Facilities for nonrural areas.* Whenever a borrower proposes to use loan funds for the improvement, expansion, construction, or acquisition of telephone facilities within or for nonrural areas, the borrower shall provide RUS with satisfactory evidence to enable the Administrator to determine that such funds shall be necessary and incidental to furnishing or improving telephone service in rural areas.

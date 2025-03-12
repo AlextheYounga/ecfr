@@ -1,0 +1,3 @@
+##### § 25.605 Grant program reporting requirements. #####
+
+Grantees may incorporate grant reporting requirements in the reports submitted pursuant to § 25.400, or submit them separately. In complying with the requirements of 7 CFR parts 3015, 3016, or 3019, as applicable, grantees must submit, in lieu of the forms prescribed therein, the equivalent of such forms prescribed by the Office of Community Development pursuant to this subpart as such may be adapted to the USDA EZ/EC grant program and which may be submitted and retained in electronic form.

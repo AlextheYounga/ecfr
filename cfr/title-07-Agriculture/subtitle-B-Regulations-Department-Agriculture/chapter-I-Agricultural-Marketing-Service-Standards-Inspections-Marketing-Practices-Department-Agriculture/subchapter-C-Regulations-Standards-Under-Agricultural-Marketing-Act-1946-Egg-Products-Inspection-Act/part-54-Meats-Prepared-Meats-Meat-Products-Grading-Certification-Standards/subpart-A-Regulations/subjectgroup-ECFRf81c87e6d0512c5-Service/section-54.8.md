@@ -1,0 +1,3 @@
+##### § 54.8 When request for service deemed made. #####
+
+A request for service under the regulations shall be deemed to be made when received by an office of grading. Records showing the date and time of the request shall be made and kept in such office. However, in the case of the Carcass Data Service, the purchase of official USDA eartags shall constitute a request for such service and the requisition form used to purchase the eartags shall be kept in the designated office of record.

@@ -1,0 +1,3 @@
+##### § 1260.116 Producer. #####
+
+*Producer* means any person who owns or acquires ownership of cattle; provided, however, that a person shall not be considered a producer within the meaning of this subpart if (a) the person's only share in the proceeds of a sale of cattle or beef is a sales commission, handling fee, or other service fee; or (b) the person (1) acquired ownership of cattle to facilitate the transfer of ownership of such cattle from the seller to a third party, (2) resold such cattle no later than ten (10) days from the date on which the person acquired ownership, and (3) certified, as required by regulations prescribed by the Board and approved by the Secretary, that the requirements of this provision have been satisfied.

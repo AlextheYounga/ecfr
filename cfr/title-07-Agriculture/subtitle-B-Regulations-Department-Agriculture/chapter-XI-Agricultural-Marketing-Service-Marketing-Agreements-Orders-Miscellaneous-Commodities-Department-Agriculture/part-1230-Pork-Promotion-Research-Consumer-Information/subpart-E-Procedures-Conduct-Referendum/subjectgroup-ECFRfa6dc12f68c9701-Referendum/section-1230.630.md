@@ -1,0 +1,5 @@
+##### § 1230.630 List of registered voters. #####
+
+(a) *Producers.* The In-Person Voter Registration List (Form LS-75) and the Absentee Voter Request List (Form LS-74) will be available for inspection during the 3 days of the voting period and during the 7 business days following the date of the last day of the voting period at the county FSA office. The lists will be posted during regular office hours in a conspicuous public location at the FSA county office. The Absentee and In-Person Voter Registration Lists will be updated and posted daily. The complete In-Person Voter Request List (Form LS-75) will be posted in the FSA county office on the 1st business day after the date of the last day of the voting period. The complete Absentee Voter Request List (Form LS-74) will be posted in the FSA county office on the 6th business day after the date of the last day of the voting period.
+
+(b) *Importers.* The Importer Ballot Request List (Form LS-77) will be maintained by the FSA headquarters office in Washington, DC, and not posted.

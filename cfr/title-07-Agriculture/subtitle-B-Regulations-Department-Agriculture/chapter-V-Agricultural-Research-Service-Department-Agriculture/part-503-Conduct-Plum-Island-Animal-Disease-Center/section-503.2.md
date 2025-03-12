@@ -1,0 +1,3 @@
+##### § 503.2 Admission. #####
+
+No person will be admitted to PIADC, into animal holding areas, specified restricted areas, laboratory compounds, or into laboratories without having in his or her possession a specific approved pass or permit authorized by the Director, PIADC, to enter such areas. The pass must be presented at the request of the guard or other authorized PIADC safety representative.

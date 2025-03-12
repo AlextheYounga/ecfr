@@ -1,0 +1,5 @@
+##### § 70.3 Administration. #####
+
+The Administrator shall perform, for and under the supervision of the Secretary, such duties as the Secretary may require in the enforcement or administration of the provisions of the Act and the regulations in this part. The Administrator is authorized to waive for limited periods any particular provisions of the regulations in this part to permit experimentation so that new procedures, equipment, grading, and processing techniques may be tested to facilitate definite improvements and at the same time to determine full compliance with the spirit and intent of the regulations in this part. The AMS and its officers and employees shall not be liable in damages through acts of commission or omission in the administration of this part.
+
+[71 FR 42011, July 24, 2006]

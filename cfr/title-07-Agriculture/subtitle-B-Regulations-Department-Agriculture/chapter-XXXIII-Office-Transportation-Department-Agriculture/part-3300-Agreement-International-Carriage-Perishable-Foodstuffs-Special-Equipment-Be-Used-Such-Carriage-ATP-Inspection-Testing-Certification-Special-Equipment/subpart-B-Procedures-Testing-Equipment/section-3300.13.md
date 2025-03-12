@@ -1,0 +1,3 @@
+##### § 3300.13 Determination of the efficiency of the thermal appliances as installed in the insulated body. #####
+
+In determining the efficiency of a thermal appliance with respect to maintaining a prescribed temperature inside the body, the procedures in ATP, Annex 1, Appendix 2, paragraphs 31-40 and 43-47 shall be used. A report of each test shall be completed on a form corresponding to the pertinent test report model prescribed in ATP, Annex 1, Appendix 2. Report forms may be obtained by a request to the ATP manager.

@@ -1,0 +1,3 @@
+##### § 1424.2 Administration. #####
+
+This part shall be administered by the Executive Vice President, CCC, under the general direction and supervision of the Executive Vice President or designee. The Executive Vice President or a designee may authorize a waiver or modification of deadlines and other program requirements in cases where lateness or failure to meet such other requirements does not adversely affect the operation of the program, and may set such additional requirements as will facilitate the operation of the program. The funds available for the program shall be limited as set by this rule, otherwise announced by the Executive Vice President, CCC, or limited by law.

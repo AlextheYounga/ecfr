@@ -1,0 +1,3 @@
+##### § 51.2081 Similar varietal characteristics. #####
+
+*Similar varietal characteristics* means that the almonds are similar in shape, and are reasonably uniform in degree of hardness of the shells, and that bitter almonds are not mixed with sweet almonds. For example, hard-shelled varieties, semi-soft shelled varieties, soft-shelled varieties and paper-shelled varieties are not mixed together, nor are any two of these types mixed under this definition.

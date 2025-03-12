@@ -1,0 +1,19 @@
+##### § 1221.226 Certification and voting procedures. #####
+
+(a) Each eligible person shall be provided the opportunity to cast a ballot during the voting period announced by the Secretary.
+
+(1) Each eligible person shall be required to complete Form LS-379 in its entirety, sign it and, provide evidence that they were engaged in the production or importation of sorghum during the representative period. The person must legibly place his or her name and, if applicable, the entity represented, address, county and, telephone number. The person shall sign and certify on Form LS-379 that:
+
+(i) The person was engaged in the production or importation of sorghum during the representative period;
+
+(ii) The person voting on behalf of a corporation or other entity is authorized to do so;
+
+(iii) The person has cast only one vote; and
+
+(2) Only a completed and signed Form LS-379 accompanied by supporting documentation showing that the person was engaged in the production or importation of sorghum during the representative period shall be considered a valid vote.
+
+(b) To vote, eligible producers may obtain Form LS-379 in-person, by mail, or by facsimile from county FSA offices or through the Internet during the voting period. A completed and signed Form LS-379 and supporting documentation, such as a sales receipt or remittance form, must be returned to the appropriate county FSA office where FSA maintains and processes the person's administrative farm records. For a person not participating in FSA programs, the opportunity to vote in a referendum will be provided at the county FSA office serving the county where the person owns or rents land. A person engaged in the production of sorghum in more than one county will vote in the county FSA office where the person does most of his or her business. A completed and signed Form LS-379 and the supporting documentation may be returned in-person, by mail, or facsimile to the appropriate county FSA office. Form LS-379 and supporting documentation returned in-person or by facsimile, must be received in the appropriate county FSA office prior to the close of the work day on the final day of the voting period to be considered a valid ballot. Form LS-379 and the accompanying documentation returned by mail must be postmarked no later than midnight of the final day of the voting period and must be received in the county FSA office on the 5th business day following the final day of the voting period. To vote, eligible importers may obtain Form LS-379 in-person, by mail or, by facsimile from AMS offices or through the Internet during the voting period. A completed and signed Form LS-379 and supporting documentation, such as a U.S. Customs and Border Protection form 7501, must be returned to the AMS headquarters office.
+
+(c) A completed and signed Form LS-379 and the supporting documentation may be returned in-person, by mail, or facsimile to the appropriate county FSA office for producers and to AMS office for importers. Form LS-379 and supporting documentation returned in-person or by facsimile, must be received in the appropriate county FSA office for producers or the AMS office for importers prior to the close of the work day on the final day of the voting period to be considered a valid ballot. Form LS-379 and the accompanying documentation returned by mail must be postmarked no later than midnight of the final day of the voting period and must be received in the county FSA office for producers and the AMS office for importers on the 5th business day following the final day of the voting period.
+
+(d) Persons who obtain Form LS-379 in-person at the appropriate FSA county office may complete and return it the same day along with the supporting documentation. Importers who obtain Form LS-379 in-person at the appropriate AMS office may complete and return it the same day along with the supporting documentation.

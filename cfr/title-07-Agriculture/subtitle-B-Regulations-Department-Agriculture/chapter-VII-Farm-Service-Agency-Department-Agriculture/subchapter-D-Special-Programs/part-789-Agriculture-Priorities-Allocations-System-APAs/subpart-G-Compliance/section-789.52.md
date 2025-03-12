@@ -1,0 +1,5 @@
+##### § 789.52 Compulsory process. #####
+
+(a) If a person refuses to permit a duly authorized representative of USDA to have access to any premises or source of information necessary to the administration or the enforcement of the Defense Production Act and other applicable laws, this part, or official actions, the USDA representative may seek compulsory process. Compulsory process is the institution of appropriate legal action, including ex parte application for an inspection warrant or its equivalent, in any forum of appropriate jurisdiction.
+
+(b) Compulsory process may be sought in advance of an audit, investigation, or other inquiry, if, in the judgment of USDA, there is reason to believe that a person will refuse to permit an audit, investigation, or other inquiry, or that other circumstances exist that make such process desirable or necessary.

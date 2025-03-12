@@ -1,0 +1,3 @@
+##### § 63.402 Confidentiality. #####
+
+All information obtained from books, records, reports, or any other material obtained under the Act and this part, shall be kept confidential by all persons, including employees and former employees of the NSIIC. Nothing in this section shall be deemed to prohibit the issuance of general statements based upon the reports or the statistical data, which statements do not identify the information furnished by any entity.

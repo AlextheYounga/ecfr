@@ -1,0 +1,11 @@
+##### § 800.15 Services. #####
+
+(a) *General.* These regulations implement requirements for a national inspection and weighing system. This system promotes the uniform and accurate application of the official grain standards and provides inspection and weighing services required by the Act and as requested by applicants for official services. The types and kinds of services available under the Act and regulations can be obtained at all specified service points in the United States and on U.S. grain in Canadian ports.
+
+(b) *Responsibilities for complying with the official inspection, aflatoxin testing, and weighing requirements*—(1) *Export grain.* Exporters are responsible for (i) complying with all inspection, Class X weighing, and other certification provisions and requirements of section 5(a)(1) of the Act and the regulations applicable to export grain and (ii) having all corn, as defined in § 810.401, exported from the United States tested for aflatoxin contamination unless the buyer and seller agree not to have the corn tested. The Service shall perform the aflatoxin testing service unless the buyer and seller agree to have the corn tested by an entity other than the Service.
+
+(2) *Grain in marked containers.* When grain is in a container that bears an official grade designation or mark, the person who places the designation or mark on the container or the person who places the grain in a container that bears the designation or mark shall be responsible for determining that the grain has been inspected or weighed by official personnel and qualifies for the official grade designation or mark.
+
+(3) *Grain for which representations have been made.* Any person who makes a representation that (i) grain has been officially inspected or weighed; or (ii) grain has been officially inspected or weighed and found to be of a particular kind, class, quality, condition, or weight; or (iii) particular facts have been established with respect to the grain by official inspection or weighing, shall be responsible for determining that the representation is true and is not in violation of the Act and regulations.
+
+[50 FR 49668, Dec. 4, 1985, as amended at 57 FR 2439, Jan. 22, 1992; 81 FR 49860, July 29, 2016]

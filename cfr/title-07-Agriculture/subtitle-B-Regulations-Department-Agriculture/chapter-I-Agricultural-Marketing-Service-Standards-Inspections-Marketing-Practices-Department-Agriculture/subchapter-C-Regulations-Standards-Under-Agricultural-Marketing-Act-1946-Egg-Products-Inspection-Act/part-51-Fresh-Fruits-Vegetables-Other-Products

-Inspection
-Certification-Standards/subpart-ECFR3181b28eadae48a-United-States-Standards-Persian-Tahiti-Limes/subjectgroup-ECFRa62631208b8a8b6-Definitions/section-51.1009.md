@@ -1,0 +1,3 @@
+##### § 51.1009 Stylar end breakdown. #####
+
+*Stylar end breakdown* is a physiological breakdown starting at the base of the nipple as a grayish tan water-soaked spot. A brownish discoloration develops in the rind. As it progresses the color of the affected area becomes darker and usually sinks below the healthy surface, but the area remains firm unless infected with secondary organisms that cause soft decay.

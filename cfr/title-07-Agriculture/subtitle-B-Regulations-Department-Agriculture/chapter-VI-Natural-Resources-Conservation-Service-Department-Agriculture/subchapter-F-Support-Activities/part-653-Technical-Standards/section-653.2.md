@@ -1,0 +1,3 @@
+##### § 653.2 Technical standards and criteria. #####
+
+Technical standards and criteria have been established for all conservation practices. They provide the guidance and direction needed to assure that the practices meet the intended purpose and are of the quality needed to assure lasting for the design life. Standards and criteria are developed in consultation with universities, research institutions, and individual industrial and private firms and individuals. Research information and practical experience are used in setting standards. Changes and new technical standards and criteria are prepared in the same manner as set out above.

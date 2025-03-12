@@ -1,7 +1,5 @@
 ##### § 147.106 Guaranteed renewability of coverage. #####
 
-Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
-
 (a) *General rule.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer offering health insurance coverage in the individual, small group, or large group market is required to renew or continue in force the coverage at the option of the plan sponsor or the individual, as applicable.
 
 (b) *Exceptions.* An issuer may nonrenew or discontinue health insurance coverage offered in the group or individual market based only on one or more of the following:
@@ -38,6 +36,20 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (2) An issuer that elects to discontinue offering all health insurance coverage in a market (or markets) in a state as described in this paragraph (d) may not issue coverage in the applicable market (or markets) and state involved during the 5-year period beginning on the date of discontinuation of the last coverage not renewed.
 
+(3) For purposes of this paragraph (d), subject to applicable State law, an issuer will not be considered to have discontinued offering all health insurance coverage in a market in a State if -
+
+(i) The issuer (in this paragraph referred to as the initial issuer) or, if the issuer is a member of a controlled group, any other issuer that is a member of such controlled group, offers and makes available in the applicable market in the State at least one product that is considered in accordance with § 144.103 of this subchapter to be the same product as a product the initial issuer had been offering in such market in such State; or
+
+(ii) The issuer -
+
+(A) Offers and makes available at least one product (in paragraphs (d)(3)(ii)(A) through (C) of this section referred to as the new product) in the applicable market in the State, even if such product is not considered in accordance with § 144.103 of this subchapter to be the same product as a product the issuer had been offering in the applicable market in the State (in paragraphs (d)(3)(ii)(A) through (C) of this section referred to as the discontinued product);
+
+(B) Subjects such new product or products to the applicable process and requirements established under part 154 of this title as if such process and requirements applied with respect to that product or products, to the extent such process and requirements are otherwise applicable to coverage of the same type and in the same market; and
+
+(C) Reasonably identifies the discontinued product or products that correspond to the new product or products for purposes of the process and requirements applied pursuant to paragraph (d)(3)(ii)(B) of this section.
+
+(4) For purposes of this section, the term controlled group means a group of two or more persons that is treated as a single employer under sections 52(a), 52(b), 414(m), or 414(o) of the Internal Revenue Code of 1986, as amended, or a narrower group as may be provided by applicable State law.
+
 (e) *Exception for uniform modification of coverage.* (1) Only at the time of coverage renewal may issuers modify the health insurance coverage for a product offered to a group health plan or an individual, as applicable, in the following:
 
 (i) Large group market.
@@ -54,7 +66,7 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (3) Other types of modifications made uniformly are considered a uniform modification of coverage if the health insurance coverage for the product in the individual or small group market meets all of the following criteria:
 
-(i) The product is offered by the same health insurance issuer (within the meaning of section 2791(b)(2) of the PHS Act);
+(i) The product is offered by the same health insurance issuer (within the meaning of section 2791(b)(2) of the PHS Act), or if the issuer is a member of a controlled group (as described in paragraph (d)(4) of this section), any other health insurance issuer that is a member of such controlled group);
 
 (ii) The product is offered as the same product network type (for example, health maintenance organization, preferred provider organization, exclusive provider organization, point of service, or indemnity);
 
@@ -78,7 +90,7 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (h) *Construction.* (1) Nothing in this section should be construed to require an issuer to renew or continue in force coverage for which continued eligibility would otherwise be prohibited under applicable Federal law.
 
-(2) Medicare eligibility or entitlement is not a basis for nonrenewal or termination of an individual's health insurance coverage in the individual market.
+(2) Medicare entitlement or enrollment is not a basis to nonrenew an individual's health insurance coverage in the individual market under the same policy or contract of insurance.
 
 (i) *Application to coverage offered only through associations.* In the case of health insurance coverage that is made available by a health insurance issuer in the small or large group market to employers only through one or more associations, the reference to “plan sponsor” is deemed, with respect to coverage provided to an employer member of the association, to include a reference to the employer.
 
@@ -86,4 +98,4 @@ Link to an amendment published at 81 FR 94173, Dec. 22, 2016.
 
 (k) *Grandfathered health plans.* This section does not apply to grandfathered health plans in accordance with § 147.140.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 79 FR 30339, May 27, 2014; 79 FR 42985, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 80 FR 10862, Feb. 27, 2015]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 79 FR 30339, May 27, 2014; 79 FR 42985, July 24, 2014; 79 FR 53004, Sept. 5, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016]

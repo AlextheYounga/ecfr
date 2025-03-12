@@ -1,0 +1,7 @@
+##### § 955.72 Proceedings after termination. #####
+
+(a) Upon the termination of the provisions of this subpart, the then functioning members of the committee shall continue as joint trustees, for the purpose of liquidating the affairs of the committee, of all funds and property then in the possession, or under control, of the committee, including claims for any funds unpaid or property not delivered at the time of such termination. Action by said trusteeship shall require the concurrence of a majority of the said trustees.
+
+(b) The said trustees shall continue in such capacity until discharged by the Secretary; shall, from time to time, account for all receipts and disbursements and deliver all property on hand, together with all books and records of said committee and of the trustees, to such person as the Secretary may direct; and shall upon the request of the Secretary, execute such assignments or other instruments necessary or appropriate to vest in such person full title and right to all of the funds, property, and claims vested in said committee or the trustees pursuant to this subpart.
+
+(c) Any person to whom funds, property, or claims have been transferred or delivered by the committee or its members pursuant to this section shall be subject to the same obligations imposed upon the members of the committee and upon the said trustees.

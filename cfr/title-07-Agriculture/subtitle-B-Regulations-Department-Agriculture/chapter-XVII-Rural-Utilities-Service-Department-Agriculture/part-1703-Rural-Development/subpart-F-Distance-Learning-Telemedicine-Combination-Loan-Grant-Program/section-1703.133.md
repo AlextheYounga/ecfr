@@ -1,0 +1,3 @@
+##### § 1703.133 Maximum and minimum amounts. #####
+
+Applications for a combination loan and grant under this subpart will be subject to limitations on the proposed amount of loans and grants. The Administrator will establish the maximum amount of loans and grants and the portion of grant funds as a percentage of total assistance for each project to be made available to an individual recipient for each fiscal year under this subpart, by publishing notice of the maximum amount in the Federal Register before the beginning of the fiscal year to carry out this subpart. The minimum amount of a combination loan and grant is $50,000.

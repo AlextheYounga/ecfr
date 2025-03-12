@@ -1,0 +1,5 @@
+##### § 1486.206 What is the Quick Response Marketing Fund? #####
+
+(a) This fund was established to address priority constraints to market access that arise because of unforeseen events; market conditions in emerging markets are often less predictable than in more developed countries. It allows responsiveness to time-sensitive marketing problems or opportunities, such as a change in an import regime or the removal of a trade embargo; an unexpected or unusual change in the political or financial situation in a country; or a significant change in crop conditions - any of which may have an immediate impact on the access of particular commodities or products to specific markets.
+
+(b) Proposals for the Quick Response Marketing Fund must identify specific market access issues that also face time constraints. Application content, evaluation, and reporting requirements are the same as for the Central Fund.

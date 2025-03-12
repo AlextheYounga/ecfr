@@ -1,0 +1,3 @@
+##### § 1150.275 Inspection and investigation. #####
+
+The Secretary shall have the right, at any time after an application is received from an organization, to examine such books, documents, papers, records, files, and facilities of an organization as he deems necessary to verify the information submitted and to procure such other information as may be required to determine whether the organization is eligible for certification.

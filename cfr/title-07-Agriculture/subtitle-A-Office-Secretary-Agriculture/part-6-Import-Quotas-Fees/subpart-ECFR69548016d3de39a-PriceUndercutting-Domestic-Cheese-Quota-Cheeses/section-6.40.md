@@ -1,0 +1,3 @@
+##### § 6.40 General. #####
+
+This subpart sets forth the procedures applicable to the determination by the Secretary of Agriculture as to whether the price at which any article of quota cheese is being offered for sale in the United States on a duty-paid wholesale basis is less than the domestic wholesale market price of similar articles produced in the United States (i.e., price-undercutting) in accordance with section 702 of the Trade Agreements Act of 1979 (Pub. L. 96-39, 93 Stat. 144, 19 U.S.C. 1202 note) (hereinafter referred to as the Act).

@@ -1,0 +1,3 @@
+##### § 1221.24 Qualified sorghum producer organization. #####
+
+*Qualified sorghum producer organization* means a qualified State-legislated sorghum promotion, research, and education commission or organization, approved by the Secretary. For States without a qualified State-legislated sorghum promotion, research, and education commission or organization, qualified sorghum producer organization means any qualified organization that has the primary purpose of representing sorghum producers, has sorghum producers as members, and that is approved by the Secretary.

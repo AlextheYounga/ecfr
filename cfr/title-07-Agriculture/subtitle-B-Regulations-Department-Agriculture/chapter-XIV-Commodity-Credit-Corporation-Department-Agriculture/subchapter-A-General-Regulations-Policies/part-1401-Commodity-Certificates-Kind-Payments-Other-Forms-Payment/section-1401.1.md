@@ -1,0 +1,3 @@
+##### § 1401.1 Applicability. #####
+
+This part shall be applicable to payments and loans made in accordance with the programs administered by the Commodity Credit Corporation (CCC) or the Farm Service Agency (FSA) as determined and announced by the Secretary of Agriculture or a designee of the Secretary. The definitions of the terms applicable to 7 CFR part 713 set forth at § 713.3 also shall be applicable to this part, except that the term “commodity” shall mean any agricultural commodity.

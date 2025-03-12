@@ -1,0 +1,3 @@
+##### § 1780.68 Owner's contractual responsibility. #####
+
+This part does not relieve the owner of any responsibilities under its contract. The owner is responsible for the settlement of all contractual and administrative issues arising out of procurement entered into in support of a loan or grant. These include, but are not limited to: source evaluation, protests, disputes, and claims. Matters concerning violation of laws are to be referred to the applicable local, State, or Federal authority.

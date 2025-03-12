@@ -1,0 +1,5 @@
+##### § 235.1 General purpose and scope. #####
+
+This part announces the policies and prescribes the regulations necessary to carry out the provisions of section 7 of the Child Nutrition Act of 1966, as amended. It prescribes the methods for making payments of funds to State agencies for use for administrative expenses incurred in supervising and giving technical assistance in connection with activities undertaken by them under the National School Lunch Program (7 CFR part 210), the Special Milk Program (7 CFR part 215), the School Breakfast Program (7 CFR part 220), the Child and Adult Care Food Program (7 CFR part 226) and the Food Distribution Program (7 CFR part 250).
+
+(Sec. 7, Pub. L. 95-627, 92 Stat. 3621 (42 U.S.C. 1776))[44 FR 51185, Aug. 31, 1979, as amended by Amdt. 17, 55 FR 1378, Jan. 16, 1990; 60 FR 15461, Mar. 24, 1995]

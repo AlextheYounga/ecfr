@@ -1,0 +1,7 @@
+##### § 351.2 Location of inspectors. #####
+
+Inspectors of the Plant Protection and Quarantine Programs and customs officers are stationed at the following locations:
+
+Anchorage, Alaska, Arlington, Va., Atlanta, Ga., Baltimore, Md., Baton Rouge, La., Blaine, Wash., Boston, Mass., Brownsville, Tex., Buffalo, N.Y., Calexico, Calif., Chantilly, Va., Charleston, S.C., Charlotte Amalie, St. Thomas, V.I., Chicago, Ill., Christiansted, St. Croix, V.I., Cleveland, Ohio., Corpus Christi, Tex., Dallas, Tex., Del Rio, Tex., Detroit, Mich., Douglas, Ariz., Dover, Del., Duluth, Minn., Eagle Pass, Tex., El Paso, Tex., Galveston, Tex., Hidalgo, Tex., Hilo, Hawaii, Hoboken, N.J., Honolulu, Hawaii, Houston, Tex., Jacksonville, Fla., Jamaica, L.I., N.Y., Key West, Fla., Laredo, Tex., McGuire AFB, N.J., Memphis, Tenn., Miami, Fla., Milwaukee, Wis., Mobile, Ala., New Orleans, La., New York, N.Y., Newport News, Va., Nogales, Ariz., Norfolk, Va., Pensacola, Fla., Philadelphia, Pa., Port Arthur, Tex., Port Canaveral, Fla., Port Everglades, Fla., Portland, Oreg., Presidio, Tex., Progreso, Tex., Ramey AFB, P.R., Roma, Tex., Rouses Point, N.Y., St. Paul, Minn., San Antonio, Tex., San Diego, Calif., San Francisco, Calif., San Juan, P.R., San Luis, Ariz., San Pedro, Calif., San Ysidro, Calif., Savannah, Ga., Seattle, Wash., Tampa, Fla., Toledo, Ohio, Washington, DC, West Palm Beach, Fla., Wilmington, N.C.
+
+[28 FR 5203, May 24, 1963, as amended at 36 FR 24917, Dec. 24, 1971]

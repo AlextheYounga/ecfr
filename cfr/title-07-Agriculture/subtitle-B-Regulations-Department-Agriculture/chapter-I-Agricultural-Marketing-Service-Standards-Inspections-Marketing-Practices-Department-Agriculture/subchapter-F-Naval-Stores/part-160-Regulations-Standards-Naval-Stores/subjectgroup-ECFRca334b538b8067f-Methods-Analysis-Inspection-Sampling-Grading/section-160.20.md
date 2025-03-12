@@ -1,0 +1,3 @@
+##### § 160.20 More than one grade in a container. #####
+
+When a sample from the bottom of a barrel or drum shows not more than one grade lower than that of a top sample taken in accordance with § 160.19, the grade of the rosin shall be that of such top sample: *Provided,* That if such “bottom head” sample shows more than one grade lower than the top sample, the grade assigned to the rosin shall be that of the darkest or lowest grade of rosin in the container.

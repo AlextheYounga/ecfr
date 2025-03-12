@@ -26,7 +26,7 @@
 
 (12) Contract Award Dollar Amount.
 
-(13) Contract Line Item Number.
+(13) Line Item Number.
 
 (14) Contract Award Date.
 
@@ -96,4 +96,4 @@
 
 (f) *Notice of solicitation cancellation.* Contracting officers may publish notices of solicitation cancellations (or indefinite suspensions) of proposed contract actions in the GPE.
 
-[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015]
+[68 FR 56678, Oct. 1, 2003, as amended at 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 71 FR 20298, Apr. 19, 2006; 72 FR 63086, Nov. 7, 2007; 73 FR 10961, Feb. 28, 2008; 74 FR 14626, Mar. 31, 2009; 74 FR 40460, Aug. 11, 2009; 75 FR 53165, Aug. 30, 2010; 76 FR 31398, May 31, 2011; 79 FR 24197, Apr. 29, 2014; 80 FR 38308, July 2, 2015; 82 FR 4713, Jan. 13, 2017]

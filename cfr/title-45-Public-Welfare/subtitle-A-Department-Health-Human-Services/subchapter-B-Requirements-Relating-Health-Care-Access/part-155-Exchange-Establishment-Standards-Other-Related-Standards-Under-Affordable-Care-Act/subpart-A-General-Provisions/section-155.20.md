@@ -1,7 +1,5 @@
 ##### § 155.20 Definitions. #####
 
-Link to an amendment published at 81 FR 94175, Dec. 22, 2016.
-
 The following definitions apply to this part:
 
 *Advance payments of the premium tax credit* means payment of the tax credit authorized by 26 U.S.C. 36B and its implementing regulations, which are provided on an advance basis to an eligible individual enrolled in a QHP through an Exchange in accordance with section 1412 of the Affordable Care Act.
@@ -110,8 +108,12 @@ The following definitions apply to this part:
 
 *Special enrollment period* means a period during which a qualified individual or enrollee who experiences certain qualifying events may enroll in, or change enrollment in, a QHP through the Exchange outside of the initial and annual open enrollment periods.
 
-*Standardized option* means a QHP with a standardized cost-sharing structure specified by HHS in rulemaking and that is offered for sale through an individual market Exchange.
+*Standardized option* means a QHP offered for sale through an individual market Exchange that either -
+
+(1) Has a standardized cost-sharing structure specified by HHS in rulemaking; or
+
+(2) Has a standardized cost-sharing structure specified by HHS in rulemaking that is modified only to the extent necessary to align with high deductible health plan requirements under section 223 of the Internal Revenue Code of 1986, as amended, or the applicable annual limitation on cost sharing and HHS actuarial value requirements.
 
 *State* means each of the 50 States and the District of Columbia.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15532, Mar. 11, 2013; 78 FR 39523, July 1, 2013; 78 FR 42313, July 15, 2013; 78 FR 54134, Aug. 30, 2013; 80 FR 10864, Feb. 27, 2015; 81 FR 12336, Mar. 8, 2016; 81 FR 94175, Dec. 22, 2016]

@@ -1,0 +1,3 @@
+##### § 993.32 Vacancies. #####
+
+In the event of any committee vacancy occasioned by the removal, resignation, disqualification, or death of any member, or in the event of the failure of any person selected as a member or alternate member to qualify, a successor for the unexpired term shall be nominated within 60 calendar days thereof. Such nominations shall be made in the manner provided for in this subpart, insofar as applicable, except that nominations of nominees for a producer member position to represent independent producers may, at the discretion of the committee, be made to the committee by the incumbent producer members of the committee who represent independent producers.

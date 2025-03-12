@@ -1,0 +1,3 @@
+##### § 1774.1 General. #####
+
+The purpose of the Special Evaluation Assistance for Rural Communities and Household (SEARCH) Grant program is to provide financial assistance to the neediest, eligible communities, who lack financial resources to pay for feasibility studies, design assistance and technical assistance. This subpart sets forth the general policies and procedures for making and processing predevelopment planning SEARCH grants for water and waste projects.

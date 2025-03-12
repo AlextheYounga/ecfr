@@ -1,0 +1,5 @@
+##### § 15.113 Testimony. #####
+
+(a) Testimony shall be given orally under oath or affirmation by witnesses at the hearing, but the hearing officer, in his discretion, may require or permit that the testimony of any witness be prepared in writing and served on all parties in advance of the hearing. Such testimony may be adopted by the witness at the hearing and filed as part of the record thereof. Unless authorized by the hearing officer, witnesses will not be permitted to read prepared testimony into the record. Except as provided in §§ 15.115 and 15.116, witnesses shall be available at the hearing for cross-examination.
+
+(b) Proposed exhibits shall be exchanged either at a prehearing conference, or otherwise prior to the hearing. Proposed exhibits not so exchanged may be denied admission as evidence unless good cause is shown why they were not exchanged. The authenticity of all proposed exhibits exchanged prior to hearing will be deemed admitted unless written objection thereto is filed prior to the hearing or unless good cause is shown at the hearing for failure to file such written objection.

@@ -1,0 +1,3 @@
+##### § 29.6089 Rule 3. #####
+
+The grade of unsorted tobacco shall be based upon a representative sample of the packing. A minimum of 10 percent of the bundles or bales shall be selected at random for sampling; a higher percentage may be sampled at the discretion of the inspector. To obtain the sample, a sufficient amount of tobacco shall be drawn to be representative of each selected bale. In determining the grade, the inspector shall consider the quality of all samples. The grade assigned shall represent the quality of the lot as a whole.

@@ -1,0 +1,3 @@
+##### § 15.132 Record for decision. #####
+
+The transcript of testimony, exhibits, affidavits, depositions, briefs, memoranda of law, and all pleadings, motions, papers, and requests filed in the proceeding, except the correspondence section of the docket, including rulings, and any recommended findings and proposed decision, or initial decision shall constitute the exclusive record for final decision.

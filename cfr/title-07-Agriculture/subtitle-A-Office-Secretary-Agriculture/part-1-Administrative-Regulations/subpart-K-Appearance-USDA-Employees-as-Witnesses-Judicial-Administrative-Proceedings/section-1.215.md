@@ -1,0 +1,5 @@
+##### § 1.215 Subpoenas duces tecum for USDA records in judicial or administrative proceedings in which the United States is not a party. #####
+
+(a) Subpoenas duces tecum for USDA records in judicial or administrative proceedings in which the United States is not a party shall be deemed to be requests for records under the Freedom of Information Act and shall be handled pursuant to the rules governing public disclosure under subpart A of this part.
+
+(b) Whenever a subpoena duces tecum compelling the production of records is served on a USDA employee in a judicial or administrative proceeding in which the United States is not a party, the employee, after consultation with the General Counsel or his or her designee, shall appear in response thereto, respectfully decline to produce the records on the grounds that it is prohibited by this section and state that the production of the records involved will be handled in accordance with subpart A of this part.

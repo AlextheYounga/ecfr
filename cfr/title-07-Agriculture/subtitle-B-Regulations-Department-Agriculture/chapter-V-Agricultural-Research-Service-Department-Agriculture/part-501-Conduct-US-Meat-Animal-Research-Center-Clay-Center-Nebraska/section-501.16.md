@@ -1,0 +1,3 @@
+##### § 501.16 Penalties and other law. #####
+
+Whoever shall be found guilty of violating the rules and regulations in this part where the United States has and exercises exclusive or concurrent legislative jurisdiction, is subject to fine of not more than $50 or imprisonment or not more than 30 days, or both (see 40 U.S.C. 318c). Nothing contained in the rules, regulations, or penalties in this part shall be construed as abrogating or authorizing the abrogation of any other rules, regulations, penalties, or any Federal law, or any State and local laws and regulations which may be applicable.

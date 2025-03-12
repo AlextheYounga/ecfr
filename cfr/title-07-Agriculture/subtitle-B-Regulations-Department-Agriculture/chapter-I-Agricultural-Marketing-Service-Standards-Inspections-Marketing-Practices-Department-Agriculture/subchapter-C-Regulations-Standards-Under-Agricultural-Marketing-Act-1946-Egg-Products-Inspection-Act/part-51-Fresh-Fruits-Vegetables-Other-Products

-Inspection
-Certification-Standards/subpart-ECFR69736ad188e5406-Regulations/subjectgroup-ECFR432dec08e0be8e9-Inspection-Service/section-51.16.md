@@ -1,0 +1,3 @@
+##### § 51.16 Postponing inspection service. #####
+
+If the inspector has reason to believe that, because of latent defects due to climatic or other conditions, he is unable to determine the true quality or condition of the product, he shall postpone examination for such period as may, in his judgment, be reasonably necessary to enable him to determine its true quality or condition. Inspection shall also be postponed by the inspector, unless otherwise directed by the applicant, if in his judgment examination of the product when exposed to low temperatures may result in damage to the product.

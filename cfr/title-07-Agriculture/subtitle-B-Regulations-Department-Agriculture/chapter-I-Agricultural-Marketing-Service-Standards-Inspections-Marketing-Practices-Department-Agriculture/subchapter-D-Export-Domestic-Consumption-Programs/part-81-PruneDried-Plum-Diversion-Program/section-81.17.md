@@ -1,0 +1,3 @@
+##### § 81.17 Death, incompetency, or disappearance. #####
+
+In the case of death, incompetency, disappearance, or dissolution of a prune/plum producer that is eligible to receive benefits in accordance with this part, such person or persons who would, under 7 CFR part 707 be eligible for payments and benefits covered by that part, may receive the tree-removal benefits otherwise due the actual producer.

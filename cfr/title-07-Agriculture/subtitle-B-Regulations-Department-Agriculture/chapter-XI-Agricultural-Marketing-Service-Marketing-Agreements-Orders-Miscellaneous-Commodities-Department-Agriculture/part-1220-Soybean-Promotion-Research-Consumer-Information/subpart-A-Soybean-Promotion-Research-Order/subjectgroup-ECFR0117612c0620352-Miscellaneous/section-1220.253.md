@@ -1,0 +1,3 @@
+##### § 1220.253 Personal liability. #####
+
+No member, employee or agent of the Board, including employees, agents or board members of Qualified State Soybean Boards, acting pursuant to authority provided in this subpart, shall be held personally responsible, either individually or jointly, in any way whatsoever, to any person for errors in judgment, mistakes, or other acts of either commission or omission, of such member or employee, except for acts of dishonesty or willful misconduct.

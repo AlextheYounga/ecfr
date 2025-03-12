@@ -1,0 +1,5 @@
+##### § 91.102 Form of official identification symbols. #####
+
+Two information symbols in the form of AMS shields indicate commodity testing at an AMS laboratory listed in § 91.5 of this part. The AMS shield set forth in figure 1 of this section, containing the words “USDA AMS TESTED”, and the shield set forth in figure 2, containing the words “USDA LABORATORY TESTED FOR EXPORT” have been approved by the USDA Office of Communications to be added to the USDA/AMS inventory of symbols. Each example of an AMS shield has a black and white background; however the standard red, white and blue colors are approved for the shields. They are approved for use with AMS materials. Shields with the same wording that are similar in form and design to the examples in figures 1 and 2 of this section may also be used.
+
+![](/graphics/er16de03.000.gif)

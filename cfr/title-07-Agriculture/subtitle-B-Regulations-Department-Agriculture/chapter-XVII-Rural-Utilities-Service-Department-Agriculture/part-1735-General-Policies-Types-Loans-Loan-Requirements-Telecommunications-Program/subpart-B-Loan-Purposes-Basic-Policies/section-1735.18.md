@@ -1,0 +1,3 @@
+##### § 1735.18 Additional equity. #####
+
+If determined by the Administrator to be necessary for loan security, a borrower applying for an initial loan shall increase its net worth as a percentage of assets to the highest level recorded, not to exceed 40 percent, at the end of any calendar quarter in the period beginning 2 years prior to the receipt by RUS of the borrower's loan application form (RUS Form 490). This restoration to the higher level of net worth shall take place before RUS will determine the feasibility of the proposed loan.

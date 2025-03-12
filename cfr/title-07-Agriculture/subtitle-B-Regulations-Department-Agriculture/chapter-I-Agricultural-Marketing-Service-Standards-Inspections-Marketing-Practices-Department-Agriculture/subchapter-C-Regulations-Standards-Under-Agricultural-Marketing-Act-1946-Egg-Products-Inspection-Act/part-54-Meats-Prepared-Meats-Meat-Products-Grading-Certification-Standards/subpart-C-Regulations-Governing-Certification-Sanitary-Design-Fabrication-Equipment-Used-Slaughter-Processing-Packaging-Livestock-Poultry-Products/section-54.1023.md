@@ -1,0 +1,3 @@
+##### § 54.1023 Denial or withdrawal of appeal service. #####
+
+A request for appeal service may be rejected or such service may be otherwise denied to or withdrawn from any person in accordance with the procedure set forth in § 54.1013(a), if it appears that the person or product involved is not eligible for appeal service under § 54.1020, or that the identity of the piece of equipment, portion of a piece of equipment, or utensil has been lost; or for any of the causes set forth in § 54.1032.

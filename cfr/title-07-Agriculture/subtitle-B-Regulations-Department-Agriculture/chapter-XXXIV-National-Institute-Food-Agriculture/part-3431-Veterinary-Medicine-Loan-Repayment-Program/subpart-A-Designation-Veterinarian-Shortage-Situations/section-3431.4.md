@@ -1,0 +1,3 @@
+##### § 3431.4 Solicitation of stakeholder input. #####
+
+The Secretary will solicit stakeholder input on the process and procedures used to designate veterinarian shortage situations prior to the publication of the solicitation for nomination of veterinarian shortage situations. A notice may be published in the Federal Register*,* on the Agency's Web site, or other appropriate format or forum. This request for stakeholder input may include the solicitation of input on the administration of VMLRP and its impact on meeting critical veterinarian shortage situations. All comments will be made available and accessible to the public.

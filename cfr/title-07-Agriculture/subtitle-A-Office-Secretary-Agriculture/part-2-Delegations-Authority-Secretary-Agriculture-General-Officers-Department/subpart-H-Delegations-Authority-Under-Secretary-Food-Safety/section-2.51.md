@@ -1,0 +1,5 @@
+##### § 2.51 Deputy Under Secretary for Food Safety. #####
+
+Pursuant to § 2.18, and subject to policy guidance and direction by the Under Secretary, the following delegation of authority is made by the Under Secretary for Food Safety to the Deputy Under Secretary for Food Safety, to be exercised only during the absence or unavailability of the Under Secretary: Perform all the duties and exercise all the powers which are now or which may hereafter be delegated to the Under Secretary for Food Safety: Provided, that this authority shall be exercised first by a career Deputy Under Secretary in the order in which he or she has taken office as Deputy Under Secretary, and second by a non-career Deputy Under Secretary in the order in which he or she has taken office as Deputy Under Secretary.
+
+[80 FR 58338, Sept. 29, 2015]

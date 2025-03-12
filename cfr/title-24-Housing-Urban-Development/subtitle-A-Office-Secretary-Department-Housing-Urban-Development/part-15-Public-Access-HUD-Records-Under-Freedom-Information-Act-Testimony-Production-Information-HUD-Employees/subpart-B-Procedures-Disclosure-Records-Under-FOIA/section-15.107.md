@@ -1,5 +1,7 @@
 ##### § 15.107 Documents generally protected from disclosure. #####
 
+Link to an amendment published at 82 FR 3623, Jan. 12, 2017.
+
 The FOIA contains nine exemptions (5 U.S.C. 552(b)) that authorize agencies to withhold various records from disclosure. With regard to certain types of records, HUD generally applies the exemptions as follows:
 
 (a) *Classified documents.* Exemption 1 (5 U.S.C. 552(b)(1)) protects classified national defense and foreign relations information. HUD seldom relies on this exception to withhold documents. However, where applicable, HUD will refer a request for records classified under Executive Order 13526 and the pertinent records to the originating agency for processing. HUD may refuse to confirm or deny the existence of the requested information if the originating agency determines that the fact of the existence of the information itself is classified.

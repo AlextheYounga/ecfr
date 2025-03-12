@@ -1,0 +1,5 @@
+##### § 82.5 General requirements. #####
+
+(a) To be eligible for this program, the trees to be removed must be fruit-bearing and have been planted after the 1987 and before the 2003 calendar years. Abandoned orchards and dead trees will not qualify. The block of trees for removal must be easily definable by separations from other blocks of eligible trees and contain at least 1,000 eligible trees or an entire orchard. Clingstone peach tree removal shall not take place until the grower has been informed in writing that the grower's application has been approved.
+
+(b) Any grower participating in this program must agree not to replant clingstone peach trees on the land cleared under this program through June 1, 2016. Participants bear responsibility for ensuring that trees are not replanted, whether by themselves, by successors to the land, or by any other person, until after June 1, 2016. If trees are replanted before June 1, 2016, by any persons, participants must refund all USDA payments, with interest, made in connection with this tree removal program.

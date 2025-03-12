@@ -1,0 +1,3 @@
+##### § 15.131 Official transcript. #####
+
+The hearing clerk will designate the official reporter for all hearings. The official transcript of testimony taken, together with any affidavits, exhibits, depositions, briefs, or memoranda of law shall be filed with the hearing clerk. Transcripts of testimony in hearings will be supplied by the official reporter to the parties and to the public at rates not to exceed the maximum rates fixed by the contract between the Department and the reporter. Upon notice to all parties, the hearing officer may authorize corrections to the transcript which involve matters of substance.

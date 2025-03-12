@@ -1,0 +1,3 @@
+##### § 1.213 Appearance as a witness on behalf of the United States. #####
+
+An employee of USDA may appear as a witness on behalf of the United States in any judicial or administrative proceeding without the issuance of a summons, subpoena, or other compulsory process. Employees should obtain permission for such an appearance from their immediate supervisor unless the USDA agency or General Counsel has issued instructions providing otherwise.

@@ -1,0 +1,3 @@
+##### § 3405.7 Joint project proposals. #####
+
+Applicants are encouraged to submit joint project proposals as defined in § 3405.2(m), which address regional or national problems and which will result overall in strengthening higher education in the food and agricultural sciences. The goals of such joint initiatives should include maximizing the use of limited resources by generating a critical mass of expertise and activity focused on a targeted need area(s), increasing cost-effectiveness through achieving economies of scale, strengthening the scope and quality of a project's impact, and promoting coalition building likely to transcend the project's lifetime and lead to future ventures.

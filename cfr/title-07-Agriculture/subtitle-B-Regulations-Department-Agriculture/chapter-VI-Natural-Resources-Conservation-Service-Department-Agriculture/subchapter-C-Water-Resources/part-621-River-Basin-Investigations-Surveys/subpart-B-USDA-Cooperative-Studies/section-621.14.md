@@ -1,0 +1,3 @@
+##### § 621.14 Recipient responsibility. #####
+
+Leadership in arrangements for other needed Federal, State, and local agency participation is responsibility of the requesting agency. Consistent with national objectives and NRCS policy and procedures, the requesting agency has leadership responsibility for developing specific study objectives, providing the necessary study organization, and ensuring public participation in the planning process.

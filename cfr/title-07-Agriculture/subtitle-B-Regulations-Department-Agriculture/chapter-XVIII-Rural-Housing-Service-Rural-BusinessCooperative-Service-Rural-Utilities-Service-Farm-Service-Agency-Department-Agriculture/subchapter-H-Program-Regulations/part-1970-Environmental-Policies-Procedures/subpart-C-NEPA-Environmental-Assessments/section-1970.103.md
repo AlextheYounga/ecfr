@@ -1,0 +1,3 @@
+##### § 1970.103 Supplementing EAs. #####
+
+If the applicant makes substantial changes to a proposal or if new relevant environmental information is brought to the attention of the Agency after the issuance of an EA or FONSI, supplementing an EA may be necessary before the action has been implemented. Depending on the nature of the changes, the EA will be supplemented by revising the applicable section(s) or by appending the information to address potential impacts not previously considered. If an EA is supplemented, public notification will be required in accordance with § 1970.102(b)(7) and (8).

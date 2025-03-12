@@ -1,0 +1,5 @@
+##### § 981.16 To handle. #####
+
+*To handle* means to use almonds commercially of own production or to sell, consign, transport, ship (except as a common carrier of almonds owned by another) or in any other way to put almonds grown in the area of production into any channel of trade for human consumption worldwide, either within the area of production or by transfer from the area of production to points outside or by receipt as first receiver at any point of entry in the United States or Puerto Rico of almonds grown in the area of production, exported therefrom and submitted for reentry or which are reentered free of duty. However, sales or deliveries by a grower to handlers, hullers or other processors within the area of production shall not, in itself, be considered as handling by a grower.
+
+[61 FR 32920, June 26, 1996]

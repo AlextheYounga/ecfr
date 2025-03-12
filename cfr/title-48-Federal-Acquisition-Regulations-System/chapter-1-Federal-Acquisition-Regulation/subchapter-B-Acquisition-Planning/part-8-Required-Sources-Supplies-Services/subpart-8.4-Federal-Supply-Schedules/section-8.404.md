@@ -66,4 +66,6 @@
 
 (i) Ensure that service contractor reporting requirements are met in accordance with subpart 4.17, Service Contracts Inventory.
 
-[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016]
+(j) *Line items.* When placing orders or establishing BPAs, ordering activities shall reference the special item number and the corresponding line or subline item awarded (established per 4.1005) in the schedule. If an ordering activity contracting officer adds an item not on the Federal Supply Schedule in accordance with 8.402(f), establish a new line item in accordance with subpart 4.10.
+
+[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 82 FR 4713, Jan. 13, 2017]

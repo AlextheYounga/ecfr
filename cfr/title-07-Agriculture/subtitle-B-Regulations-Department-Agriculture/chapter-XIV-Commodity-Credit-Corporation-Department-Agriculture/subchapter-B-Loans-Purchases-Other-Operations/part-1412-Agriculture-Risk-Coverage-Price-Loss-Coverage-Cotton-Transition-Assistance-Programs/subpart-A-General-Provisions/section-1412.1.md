@@ -1,0 +1,11 @@
+##### § 1412.1 Applicability, changes in law, interest, application, and contract provisions. #####
+
+(a) This part specifies how base acres, generic base acres, and farm program payment yields are established or adjusted for the purpose of calculating payments for agriculture risk coverage (ARC) and price loss coverage (PLC) for covered commodities: Wheat, oats, and barley (including wheat, oats, and barley used for haying and grazing); corn; grain sorghum; long grain rice; medium grain rice; pulse crops; soybeans; other oilseeds; and peanuts. This part specifies how and when producers on a farm may make a one-time election on a farm to obtain either ARC or PLC (and if ARC, whether to receive ARC payments based on county coverage applicable on a covered commodity-by-commodity basis; or individual coverage applicable to all the covered commodities on a farm).
+
+(b) This part specifies how upland cotton base acres that were in existence for 2013, as adjusted, are determined for the purpose of making CTAP payments in 2014 and 2015 to eligible producers.
+
+(c) Payments otherwise provided for in this part are subject to changes made by law in rates, conditions, and eligibility notwithstanding any contract or application made under this part. However, any such modification may, as determined by CCC, allow producers the opportunity to withdraw their CTAP application or the ARC or PLC contract.
+
+(d) If any refund is due to CCC under this part, interest will be due from the date of the CCC disbursement except as determined by CCC. The provisions of this section will apply notwithstanding any other provision of this or any other part. In order to receive payment under this part a participant is required to comply with the regulations in this part and any additional requirements imposed by the CTAP application or ARC or PLC contract.
+
+(e) For ARC and PLC, assistance under this part will be based on the administrative county of the farm and for CTAP, assistance under this part will be based on the physical location of the farm, as specified in part 718 of this title.

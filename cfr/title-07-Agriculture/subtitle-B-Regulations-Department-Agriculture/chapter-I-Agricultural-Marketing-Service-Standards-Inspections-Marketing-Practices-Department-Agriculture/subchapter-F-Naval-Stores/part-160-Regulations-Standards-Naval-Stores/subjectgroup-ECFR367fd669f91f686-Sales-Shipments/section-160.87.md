@@ -1,0 +1,3 @@
+##### § 160.87 Prohibited use of word “turpentine” or derivatives thereof. #####
+
+It shall be deemed unlawful to use in commerce the word “turpentine” or a compound, derivative or imitation thereof, or any word or combination of words which are a part of a United States Standard for any kind of spirits of turpentine, to describe in any manner a mixture of spirits of turpentine with any other oil or solvent.

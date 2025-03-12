@@ -12,8 +12,10 @@
 
 (5) May authorize the use of the accelerated payment methods specified at 5 CFR 1315.5.
 
-(b) When drafting solicitations and contracts, contracting officers must identify for each contract line item number, subline item number, or exhibit line item number -
+(b) When drafting solicitations and contracts, contracting officers must identify for each line item number, subline item number, or exhibit line item number -
 
 (1) The applicable Prompt Payment clauses that apply to each item when the solicitation or contract contains items that will be subject to different payment terms; and
 
 (2) The applicable Prompt Payment food category (*e.g.,* which item numbers are meat or meat food products, which are perishable agricultural commodities), when the solicitation or contract contains multiple payment terms for various classes of foods and edible products.
+
+[66 FR 65355, Dec. 18, 2001, as amended at 82 FR 4714, Jan. 13, 2017]

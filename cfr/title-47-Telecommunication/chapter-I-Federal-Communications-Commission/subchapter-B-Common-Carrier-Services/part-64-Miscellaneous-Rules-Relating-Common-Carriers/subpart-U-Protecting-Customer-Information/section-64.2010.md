@@ -1,0 +1,3 @@
+##### § 64.2010 Business customer exemption for provision of telecommunications services other than BIAS. #####
+
+Telecommunications carriers may bind themselves contractually to privacy and data security regimes other than those described in this subpart for the provision of telecommunications services other than BIAS to enterprise customers if the carrier's contract with that customer specifically addresses the issues of transparency, choice, data security, and data breach and provides a mechanism for the customer to communicate with the carriers about privacy and data security concerns.

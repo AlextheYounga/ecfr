@@ -1,0 +1,3 @@
+##### § 1778.22 Planning development and procurement. #####
+
+Planning development and procurement for grants made under this part will be in accordance with subpart C of Part 1780 of this chapter. A certification should be obtained from the State agency or the Environmental Protection Agency if the State does not have primacy, stating that the proposed improvements will be in compliance with requirements of the SDWA.

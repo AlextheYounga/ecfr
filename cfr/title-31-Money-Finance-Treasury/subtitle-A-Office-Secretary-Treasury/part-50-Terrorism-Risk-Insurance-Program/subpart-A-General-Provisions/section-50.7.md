@@ -1,17 +1,11 @@
-##### § 50.7 Special Rules for Interim Guidance Safe Harbors. #####
+##### § 50.7 Procedure for requesting determinations of controlling influence. #####
 
-(a) An insurer will be deemed to be in compliance with the requirements of the Act to the extent the insurer reasonably relied on Interim Guidance prior to the effective date of applicable regulations.
+(a) An insurer or insurers not having control over another insurer under § 50.4(c)(2)(i) or (ii) may make a written submission to Treasury to rebut a presumption of controlling influence under § 50.4(c)(4)(i) through (iv) or otherwise to request a determination of controlling influence. Such submissions shall be made to the Terrorism Risk Insurance Program Office, Department of the Treasury, Room 1410, 1500 Pennsylvania Ave. NW., Washington, DC 20220. The submission should be entitled, “Controlling Influence Submission,” and should provide the full name and address of the submitting insurer(s) and the name, title, address and telephone number of the designated contact person(s) for such insurer(s).
 
-(b) For purposes of this section, Interim Guidance means the following documents, which are also available from the Department of the Treasury at *http://www.treasury.gov/trip:*
+(b) Treasury will review submissions and determine whether Treasury needs additional written or orally presented information. In its discretion, Treasury may schedule a date, time, and place for an oral presentation by the insurer(s).
 
-(1) Interim Guidance I issued by Treasury on December 3, 2002, and published at 67 FR 76206 (December 11, 2002);
+(c) An insurer or insurers must provide all relevant facts and circumstances concerning the relationship(s) between or among the affected insurers and the control factors in § 50.4(c)(4)(i) through (iv); and must explain in detail any basis for why the insurer believes that no controlling influence exists (if a presumption is being rebutted) in light of the particular facts and circumstances, as well as the Act's language, structure and purpose. Any confidential business or trade secret information submitted to Treasury should be clearly marked. Treasury will handle any subsequent request for information designated by an insurer as confidential business or trade secret information in accordance with Treasury's Freedom of Information Act regulations at 31 CFR part 1.
 
-(2) Interim Guidance II issued by Treasury on December 18, 2002, and published at 67 FR 78864 (December 26, 2002);
+(d) Treasury will review and consider the insurer submission and other relevant facts and circumstances. Unless otherwise extended by Treasury, within 60 days after receipt of a complete submission, including any additional information requested by Treasury, and including any oral presentation, Treasury will issue a final determination of whether one insurer has a controlling influence over another insurer for purposes of the Program. The determination shall set forth Treasury's basis for its determination.
 
-(3) Interim Guidance III issued by Treasury on January 22, 2003, and published at 68 FR 4544 (January 29, 2003);
-
-(4) Interim Guidance IV issued by Treasury on December 29, 2005, and published at 71 FR 648 (January 5, 2006); and
-
-(5) Interim Guidance issued by Treasury on January 22, 2008, and published at 73 FR 5264 (January 29, 2008).
-
-[71 FR 27570, May 11, 2006, as amended at 73 FR 53364, Sept. 16, 2008]
+(Approved by the Office of Management & Budget under control number 1505-0190.)

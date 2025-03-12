@@ -1,0 +1,13 @@
+##### § 50.51 Annual data reporting. #####
+
+(a) *General.* No later than May 15 of each calendar year, all insurers shall provide specified data and information respecting their Program participation.
+
+(b) *Scope.* Except as otherwise provided by Treasury, the information to be provided shall address: the lines of property and casualty insurance subject to the Program, the premiums earned for terrorism risk insurance within those lines and for those lines generally, the geographical location of exposures covered under terrorism risk insurance, the pricing of terrorism risk insurance, the take-up rate for terrorism risk insurance, the amount of private reinsurance obtained by participating insurers in connection with such policies, and other matters concerning the Program as may be identified by Treasury.
+
+(c) *Method of reporting.* (1) Treasury will promulgate forms defining the specific data and information that each insurer must submit and make these forms available on its Web site. Treasury may adopt different data reporting forms for different types of insurers that participate in the Program, which modify the requested information by each different category of participating insurer based upon the manner and scope of the participation of those insurers in the Program. Each insurer shall submit the required data and information by electronic submission through the forms and data portal(s) identified on Treasury's Web site. All data and information provided as part of such electronic submission shall be certified by the insurer as a full and true statement of the information provided to the best of its knowledge, information and belief.
+
+(2) The data and information required to be provided under this subsection may be modified annually by Treasury. Any modification shall be made during the prior calendar year, and Treasury shall provide insurers at least 90 days before requiring collection of any newly specified data or information.
+
+(d) *Supplemental requests.* Treasury may issue supplemental requests, to some or all participating insurers, in connection with the annual data request provided for under this section, to the extent Treasury determines that it requires additional or clarifying information in order to analyze the effectiveness of the Program. Insurers shall respond to any such supplemental requests as may be made within the timeframe and in the manner specified by Treasury.
+
+(e) *Small insurer exception.* The Secretary may exempt a small insurer that meets the definition in § 50.4(z) from any or all data calls under this section, or may modify the requests as applicable to such small insurer.

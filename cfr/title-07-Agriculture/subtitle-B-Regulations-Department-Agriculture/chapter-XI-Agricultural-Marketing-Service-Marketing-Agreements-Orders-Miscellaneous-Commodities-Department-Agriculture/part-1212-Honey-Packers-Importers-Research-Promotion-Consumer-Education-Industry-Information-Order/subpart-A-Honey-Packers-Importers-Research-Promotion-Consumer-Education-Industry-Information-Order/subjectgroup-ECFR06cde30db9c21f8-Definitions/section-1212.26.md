@@ -1,0 +1,3 @@
+##### § 1212.26 Research. #####
+
+“Research” means any type of test, study, or analysis designed to advance the image, desirability, use, marketability, production, product development, or quality of honey and honey products, including research relating to nutritional value, cost of production, new product development, testing the effectiveness of market development and promotion efforts. Such term shall also include studies on bees to advance the cost effectiveness, competitiveness, efficiency, pest and disease control, and other management aspects of beekeeping, honey production, and honey bees.

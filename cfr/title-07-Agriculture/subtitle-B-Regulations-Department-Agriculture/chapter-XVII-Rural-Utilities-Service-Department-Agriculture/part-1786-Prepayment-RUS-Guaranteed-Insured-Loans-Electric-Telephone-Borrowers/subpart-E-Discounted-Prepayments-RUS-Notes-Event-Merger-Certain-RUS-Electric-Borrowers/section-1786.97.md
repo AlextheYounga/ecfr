@@ -1,0 +1,3 @@
+##### § 1786.97 Prepayment. #####
+
+There were 29 former RUS electric borrowers that prepaid their direct or insured loans under section 306B(a) of the Act prior to October 1, 1987. (See subpart C of this part.) These borrowers are listed in appendix A to subpart E of this part. Any RUS electric borrower which is the result of a merger or consolidation involving any of these 29 former borrowers and a borrower with outstanding Notes may, after meeting all requirements of this subpart, prepay all outstanding RUS Notes issued or assumed by the borrower upon paying the lesser of the outstanding balance or the Discounted Present Value. Such prepayment must be made not later than one year after the effective date of the merger or consolidation.

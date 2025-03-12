@@ -1,0 +1,13 @@
+##### § 800.215 Activities that shall be supervised. #####
+
+(a) *General.* Supervision of the activities described in this section shall be performed in accordance with the instructions.
+
+(b) *Administrative activities.* Administrative activities subject to supervision include but are not limited to (1) providing staffing, equipment, and facilities for performing authorized services; (2) dismissing requests for services and withholding requested services; (3) maintaining official records; (4) assessing and collecting fees; (5) rotating official personnel; (6) implementing instructions for (i) recruiting official personnel, (ii) training and supervising official and approved personnel, (iii) work performance and work production standards; and (7) supervising and monitoring.
+
+(c) *Technical activities*—(1) *Equipment testing activities.* Equipment testing activities subject to supervision include but are not limited to (i) implementing (A) the equipment performance requirements in parts 801 and 802 of this chapter and (B) the instructions for the operation of equipment used under the Act and for performing equipment-testing activities and (ii) performing equipment-testing activities by official personnel or by approved scale testing organizations.
+
+(2) *Inspection activities.* Inspection activities subject to supervision include but are not limited to (i) implementing (A) the Official U.S. Standards for Grain, (B) official criteria, and (C) instructions for the performance of inspection activities and (ii) performing stowage examination, sampling, laboratory testing, grading, and certification activities by official personnel.
+
+(3) *Weighing activities.* Weighing activities subject to supervision include but are not limited to (i) implementing (A) uniform weighing procedures and (B) instructions for the performance of weighing activities and (ii) performing (A) stowage examination, sampling (sacked grain), weighing, and certification activities by official personnel and (B) by approved weighers of weighing activities.
+
+(4) *Testing of prototype equipment activities.* Prototype or proposed equipment is tested to determine whether the equipment will improve the performance of activities under the Act. Prototype equipment-testing activities subject to supervision include but are not limited to (i) implementing instructions for the testing of prototype equipment, (ii) testing prototype equipment by official personnel, and (iii) approving or denying the use of prototype equipment for use under the Act.

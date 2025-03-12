@@ -1,0 +1,5 @@
+##### § 250.65 Food Distribution Program on Indian Reservations (FDPIR). #####
+
+(a) *Distribution of donated foods in FDPIR.* The Department provides donated foods in FDPIR to the distributing agency (*i.e.,* the State agency, in accordance with 7 CFR parts 253 and 254, which may be an Indian Tribal Organization) for further distribution, in accordance with 7 CFR parts 253 and 254. The State agency must comply with the requirements of this part in the distribution, control, and use of donated foods, to the extent that such requirements are not inconsistent with the requirements in 7 CFR parts 253 and 254.
+
+(b) *Types of donated foods distributed.* Donated foods distributed in FDPIR include Section 4(a) foods, and donated foods provided under Section 32, Section 416, or Section 709, as available.

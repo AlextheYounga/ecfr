@@ -1,0 +1,3 @@
+##### § 1208.75 Personal liability. #####
+
+No member, alternate member, or employee of the Council shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any person for errors in judgment, mistakes, or other acts, either of commission or omission, as such member, alternate, or employee, except for acts of dishonesty or willful misconduct.

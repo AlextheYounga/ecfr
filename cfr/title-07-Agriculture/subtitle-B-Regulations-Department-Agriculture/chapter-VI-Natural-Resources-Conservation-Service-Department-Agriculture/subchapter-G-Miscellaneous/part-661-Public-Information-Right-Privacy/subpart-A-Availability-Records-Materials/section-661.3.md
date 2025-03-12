@@ -1,0 +1,3 @@
+##### § 661.3 Requests for records. #####
+
+Requests for records under 5 U.S.C. 552(a)(3) will be made in accordance with 7 CFR 1.3(a). The titles and mailing addresses of the officials in Natural Resources Conservation Service authorized to receive requests for records are shown in Appendix A of this subpart. Authority is hereby delegated to these officials to make determinations regarding such requests in accordance with 7 CFR 1.4(c).

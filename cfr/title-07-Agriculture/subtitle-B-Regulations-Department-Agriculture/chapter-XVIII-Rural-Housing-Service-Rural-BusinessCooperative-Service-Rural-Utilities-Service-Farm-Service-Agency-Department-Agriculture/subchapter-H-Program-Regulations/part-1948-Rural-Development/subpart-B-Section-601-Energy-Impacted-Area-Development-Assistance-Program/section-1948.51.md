@@ -1,0 +1,5 @@
+##### § 1948.51 General. #####
+
+This subpart sets forth policies and procedures for designation, approval of designation, and making grants for assistance to areas impacted by increased coal and uranium production, processing, or transportation. The Rural Development will fully consider all A-95 clearing-house review comments and recommendations in selecting applications for funding. Any processing or servicing activity conducted pursuant to this subpart involving authorized assistance to Rural Development employees, members of their families, known close relatives, or business or close personal associates, is subject to the provisions of subpart D of part 1900 of this chapter. Applicants for this assistance are required to identify any known relationship or association with a Rural Development employee.
+
+[44 FR 35984, June 19, 1979, as amended at 58 FR 228, Jan. 5, 1993]

@@ -1,0 +1,3 @@
+##### § 500.15 Penalties and other law. #####
+
+Whoever shall be found guilty of violating the rules and regulations in this subpart is subject to fine under title 18, United States Code, or imprisonment of not more than 30 days, or both (see 40 U.S.C. 1315(c)). Nothing contained in the rules and regulations in this part shall be construed as abrogating or authorizing the abrogation of any other regulations or any Federal law or any laws and regulations of the District of Columbia that may be applicable.

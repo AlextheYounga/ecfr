@@ -1,0 +1,11 @@
+##### § 800.173 Examinations and reexaminations. #####
+
+(a) *General.* Applicants for a license and individuals who are licensed to perform any or all official inspection or Class X or Class Y weighing services shall, at the discretion of the Service, submit to examinations or reexaminations to determine their competency to perform the official inspection or weighing functions for which they desire to be, or are, licensed.
+
+(b) *Time and place of examinations and reexaminations.* Examinations or reexaminations under this section shall be conducted by official personnel designated by the Service and shall be given at a reasonable time and place in accordance with the instructions.
+
+(c) *Scope of examinations and reexaminations.* Examinations or reexaminations may include oral or written tests on the applicable provisions of the Act, the regulations, the Official U.S. Standards for Grain, the procedures for the inspection and weighing of grain under the Act, the instructions, on-site performance evaluations, and vision or olfactory examinations.
+
+(d) *Competency standards*—(1) *Inspection.* An individual may be found to be incompetent to perform official inspection services if the individual (i) has a color-vision deficiency; (ii) cannot meet the physical requirements necessary to perform the functions; (iii) cannot readily distinguish between the different kinds and classes of grain, or the different conditions in grain, including heating, musty, sour, insect infestation, and smut; (iv) cannot demonstrate a technical ability to operate grain sampling, testing, and grading equipment; (v) does not have a working knowledge of applicable provisions of the Act, the regulations, the Official U.S. Standards for Grain, and the instructions; (vi) cannot determine work-related mathematical computations; or (vii) cannot prepare legible records in English.
+
+(2) *Weighing.* An individual may be found to be incompetent to perform Class X or Class Y weighing services under the Act if the individual (i) does not meet the requirements of paragraphs (d)(1)(ii), (v), (vi), and (vii) of this section or (ii) cannot demonstrate a technical ability to operate grain weighing equipment.

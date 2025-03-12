@@ -1,0 +1,21 @@
+##### § 781.5 Penalty review procedure. #####
+
+(a) Whenever it appears that a foreign person has violated the reporting obligation as described in paragraph (a) of § 781.4, a written notice of apparent liability will be sent to the foreign person's last known address by the Farm Service Agency. This notice will set forth the facts which indicate apparent liability, identify the type of violation listed in paragraph (a) of § 781.4 which is involved, state the amount of the penalty to be imposed, include a statement of fair market value of the foreign person's interest in the subject land, and summarize the courses of action available to the foreign person.
+
+(b) The foreign person involved shall respond to a notice of apparent liability within 60 days after the notice is mailed. If a foreign person fails to respond to the notice of apparent liability, the proposed penalty shall become final. Any of the following actions by the foreign person shall constitute a response meeting the requirements of this paragraph.
+
+(1) Payment of the proposed penalty in the amount specified in the notice of apparent liability and filing of a report, if required, in compliance with § 781.3. The amount shall be paid by check or money order drawn to the Treasurer of the United States and shall be mailed to the U.S. Department of Agriculture, P.O. Box 2415, Washington, DC 20013. The Department is not responsible for the loss of currency sent through the mails.
+
+(2) Submission of a written statement denying liability for the penalty in whole or in part. Allegations made in any such statement must be supported by detailed factual data. The statement should be mailed to the Administrator, Farm Service Agency, U.S. Department of Agriculture, P.O. Box 2415, Washington, DC 20013.
+
+(3) A request for a hearing on the proposed penalty may be filed in accordance with part 780 of this title.
+
+(c) After a final decision is issued pursuant to an appeal under part 780 of this title, the Administrator or Administrator's designee shall mail the foreign person a notice of the determination on appeal, stating whether a report must be filed or amended in compliance with § 781.3, the amount of the penalty (if any), and the date by which it must be paid. The foreign person shall file or amend the report as required by the Administrator. The penalty in the amount stated shall be paid by check or money order drawn to the Treasurer of the United States and shall be mailed to the United States Department of Agriculture, P.O. Box 2415, Washington, DC 20013. The Department is not responsible for the loss of currency sent through the mails.
+
+(d) If the foreign person contests the notice of apparent liability by submitting a written statement or a request for a hearing thereon, the foreign person may elect either to pay the penalty or decline to pay the penalty pending resolution of the matter by the Administrator. If the Administrator determines that the foreign person is not liable for the penalty or is liable for less than the amount paid, the payment will be wholly or proportionally refunded. If the Administrator ultimately determines that the foreign person is liable, the penalty finally imposed shall not exceed the amount imposed in the notice of apparent liability.
+
+(e) If a foreign person fails to respond to the notice of apparent liability as required by paragraph (b) of this section, or fails to pay the penalty imposed by the Administrator under paragraph (d) of this section, the case will, without further notice, be referred by the Department to the Department of Justice for prosecution in the appropriate District Court to recover the amount of the penalty.
+
+(f) Any amounts approved by the U.S. Department of Agriculture for disbursement to a foreign person under the programs administered by the Department may be setoff against penalties assessed hereunder against such person, in accordance with the provisions of 7 CFR part 13.
+
+[49 FR 35074, Sept. 6, 1984, as amended at 60 FR 67318, Dec. 29, 1995]

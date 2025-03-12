@@ -1,0 +1,3 @@
+##### § 1717.350 Purpose. #####
+
+This subpart contains regulations of the Rural Utilities Service (RUS) implementing provisions of section 4 of the RE Act (7 U.S.C. 904) which authorizes the Administrator to establish terms and conditions of loans, and provisions of the RUS documents which provide for the establishment of rates for electric service to be charged by RUS electric borrowers. This subpart contains the general regulations of RUS for the pre-emption of the regulation by a State Regulatory Authority under State law of an RUS borrower's rates and for the exercise by RUS, pursuant to the RUS documents, of exclusive jurisdiction over rates of a borrower by or against whom a case under the Bankruptcy Code of 1978, as amended, has commenced.

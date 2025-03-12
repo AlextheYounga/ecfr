@@ -1,0 +1,3 @@
+##### § 281.5 Responsibilities of an Indian tribal organization designated as State agency. #####
+
+An ITO administering SNAP on a reservation shall adhere to the Food and Nutrition Act of 2008, all subsequent amendments, and all regulations issued pursuant to that law in the same manner as any other State agency. The ITO may contract certain administrative functions to private organizations as provided in parts 274 and 277. The ITO may not, however, contract responsibility for certification activities such as interviews or eligibility determinations. The ITO shall retain full responsibility for program administration.

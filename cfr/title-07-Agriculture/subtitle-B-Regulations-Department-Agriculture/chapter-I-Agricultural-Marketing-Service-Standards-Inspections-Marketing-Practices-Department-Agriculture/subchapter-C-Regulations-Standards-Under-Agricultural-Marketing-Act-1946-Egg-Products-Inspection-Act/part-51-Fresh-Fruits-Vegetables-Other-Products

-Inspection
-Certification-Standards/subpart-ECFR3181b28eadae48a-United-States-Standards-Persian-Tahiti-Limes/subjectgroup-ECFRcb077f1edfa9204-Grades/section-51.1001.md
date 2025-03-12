@@ -1,0 +1,9 @@
+##### § 51.1001 U.S. Combination. #####
+
+“U.S. Combination” consists of a combination of U.S. No. 1 and U.S. No. 2 limes: *Provided,* That at least 60 percent, by count, of the limes in the lot meet the requirements of U.S. No. 1 grade.
+
+(a) In this grade the U.S. No. 1 limes shall meet the color requirements of the U.S. No. 1 grade and the U.S. No. 2 limes shall meet the color requirements of the U.S. No. 2 grade: *Provided,* That lots of limes which fail to meet the U.S. Combination grade requirements only because of blanching shall be designated as “U.S. Combination, Mixed Color”: *And provided further,* That lots of limes which fail to meet the U.S. Combination or U.S. Combination Mixed Color grade requirements only because of turning yellow or yellow color, caused by the ripening process, shall be designated as “U.S. Combination, Turning”.
+
+(b) In order to allow for variations incident to proper grading and handling, not more than 10 percent, by count, of the fruit in any lot may fail to meet the color requirements. In addition, not more than 10 percent, by count, of the fruit in any lot may be below the remaining requirements of the lower grade in the combination, but not more than one-half of this amount, or 5 percent, shall be allowed for limes affected by decay, stylar end breakdown and broken skins which are not healed, including not more than one-half of 1 percent for decay at shipping point: *Provided,* That an additional tolerance of 21/2 percent, or a total of not more than 3 percent, shall be allowed for decay en route or at destination.
+
+(c) No part of the above tolerances shall be allowed to reduce for the lot as a whole, the 60 percent of U.S. No. 1 limes required in the U.S. Combination grade, but individual containers may have not less than 50 percent of the higher grade.

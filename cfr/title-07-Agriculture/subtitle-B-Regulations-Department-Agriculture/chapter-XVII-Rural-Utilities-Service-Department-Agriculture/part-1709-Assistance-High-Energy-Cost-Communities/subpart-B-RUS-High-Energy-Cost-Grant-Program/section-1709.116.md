@@ -1,0 +1,3 @@
+##### § 1709.116 Application package. #####
+
+The requirements for the application package will be established in the grant announcement. A complete application package will consist of the standard application for federal assistance (SF-424 series), as applicable, a narrative project proposal prepared in accordance with the grant announcement, an RUS environmental profile, and such other supporting documentation, forms, and certifications as required in the grant announcement and this part.

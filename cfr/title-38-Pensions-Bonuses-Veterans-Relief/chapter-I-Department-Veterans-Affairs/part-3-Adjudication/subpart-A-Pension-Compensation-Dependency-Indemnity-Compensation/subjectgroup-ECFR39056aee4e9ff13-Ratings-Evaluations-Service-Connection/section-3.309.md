@@ -1,5 +1,7 @@
 ##### § 3.309 Disease subject to presumptive service connection. #####
 
+Link to an amendment published at 82 FR 4184, Jan 13, 2017.
+
 (a) *Chronic diseases.* The following diseases shall be granted service connection although not otherwise established as incurred in or aggravated by service if manifested to a compensable degree within the applicable time limits under § 3.307 following service in a period of war or following peacetime service on or after January 1, 1947, provided the rebuttable presumption provisions of § 3.307 are also satisfied.
 
 Anemia, primary.Arteriosclerosis.Arthritis.Atrophy, progressive muscular.Brain hemorrhage.Brain thrombosis.Bronchiectasis.Calculi of the kidney, bladder, or gallbladder.

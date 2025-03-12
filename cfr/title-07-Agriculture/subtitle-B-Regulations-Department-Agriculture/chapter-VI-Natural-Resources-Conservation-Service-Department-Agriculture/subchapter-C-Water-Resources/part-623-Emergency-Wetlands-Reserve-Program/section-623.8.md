@@ -1,0 +1,3 @@
+##### § 623.8 Easement value. #####
+
+NRCS offers for easements will be based on the fair market value, as determined by the NRCS State Conservationist, of the land covered by the easements. Fair market value will be based on post-flood conditions as if reclaimed. Land easement values will be determined by the State Conservationist in consultation with a technical committee. A technical committee shall included representatives of: ASCS, Extension Service, and FWS. Additionally, the State Conservationist may collect information from other sources as he deems necessary. Coordination between States will be provided by the Chief, NRCS.

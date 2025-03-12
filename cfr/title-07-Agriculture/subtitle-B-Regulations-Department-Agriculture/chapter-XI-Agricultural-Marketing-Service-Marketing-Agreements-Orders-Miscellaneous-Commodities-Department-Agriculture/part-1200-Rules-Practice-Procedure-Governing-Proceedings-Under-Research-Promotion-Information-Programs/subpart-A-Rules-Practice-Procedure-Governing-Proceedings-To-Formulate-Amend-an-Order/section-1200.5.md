@@ -1,0 +1,17 @@
+##### § 1200.5 Institution of proceedings. #####
+
+(a) *Filing and contents of the notice of hearing.* The proceeding shall be instituted by filing the notice of hearing with the hearing clerk. The notice of hearing shall contain a reference to the authority under which the order is proposed; shall define the scope of the hearing as specifically as may be practicable; shall contain either the terms or substance of the proposed order or a description of the subjects and issues involved; and shall state the time and place of such hearing, and the place where copies of such proposed order may be obtained or examined. The time of the hearing shall not be less than 15 days after the date of publication of the notice in the Federal Register, as provided herein, unless the Administrator shall determine that an emergency exists which requires a shorter period of notice, in which case the period of notice shall be that which the Administrator may determine to be reasonable in the circumstances: Except that in the case of hearings on amendments to an order, the time of the hearing may be less than 15 days but shall not be less than three days after the date of publication in the Federal Register.
+
+(b) *Giving notice of hearing and supplemental publicity.* (1) The Administrator shall give or cause to be given notice of hearing in the following manner:
+
+(i) By publication of the notice of hearing in the Federal Register;
+
+(ii) By mailing a copy of the notice of hearing to each organization known by the Administrator to be interested therein;
+
+(iii) By issuing a press release containing the complete text or a summary of the contents of the notice of hearing and making the same available to such newspapers as, in the Administrator's discretion, are best calculated to bring the notice to the attention of the persons interested therein; and
+
+(iv) By forwarding copies of the notice of hearing addressed to those Governors of the States and executive heads of territories and possessions of the United States and the mayor of the District of Columbia that are directly affected by such order.
+
+(2) Legal notice of the hearing shall be deemed to be given if notice is given in the manner provided by paragraph (b)(1)(i) of this section; failure to give notice in the manner provided in paragraphs (b)(2) (ii), (iii), and (iv) of this section shall not affect the legality of the notice.
+
+(c) *Record of notice and supplemental publicity.* There shall be filed with the hearing clerk or submitted to the judge at the hearing an affidavit or certificate of the person giving the notice provided in paragraphs (b)(1) (iii) and (iv) of this section. In regard to the provisions relating to mailing in paragraph (b)(1)(ii) of this section, determination by the Administrator that such provisions have been complied with shall be filed with the hearing clerk or submitted to the judge at the hearing. In the alternative, if notice is not given in the manner provided in paragraphs (b)(1) (ii), (iii), and (iv) of this section there shall be filed with the hearing clerk or submitted to the judge at the hearing a determination by the Administrator that such notice is impracticable, unnecessary, or contrary to the public interest with a brief statement of the reasons for such determination. Determinations by the Administrator as herein provided shall be final.

@@ -1,0 +1,3 @@
+##### § 3555.1 Applicability. #####
+
+This part sets forth policies for the Single Family Housing Guaranteed Loan Program (SFHGLP) administered by USDA Rural Development. It addresses the requirements of section 502(h) of the Housing Act of 1949, as amended, and includes policies regarding originating, servicing, holding and liquidating SFHGLP loans. Any provision regarding the expenditure of funds under this part is contingent upon the availability of funds.

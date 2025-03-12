@@ -1,0 +1,3 @@
+##### § 4288.4 Compliance with other laws and regulations. #####
+
+Participating biorefineries must comply with other applicable Federal, State, and local laws, including, but not limited to, the Equal Employment Opportunities Act, the Equal Credit Opportunity Act, Title VI of the Civil Rights Act of 1964, 7 CFR Part 1901, subpart E, Section 504 of the Rehabilitation Act of 1973, and the Age Discrimination Act of 1975. Applicants must submit and will be subject to pre-award and post award compliance reviews with the terms and conditions set forth in Form RD 400-1, “Equal Opportunity Agreement” and Form RD 400-4, “Assurance Agreement.”

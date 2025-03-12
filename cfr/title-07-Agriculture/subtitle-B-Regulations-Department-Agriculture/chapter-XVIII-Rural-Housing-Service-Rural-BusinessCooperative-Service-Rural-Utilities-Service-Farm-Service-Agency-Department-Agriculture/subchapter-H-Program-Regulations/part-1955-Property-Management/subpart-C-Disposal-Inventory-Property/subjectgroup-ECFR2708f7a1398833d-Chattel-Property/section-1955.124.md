@@ -1,0 +1,3 @@
+##### § 1955.124 Sale with inventory real estate (chattel). #####
+
+Inventory chattel property may be sold with inventory real estate if a higher aggregate price can be obtained. Proceeds from a joint sale will be applied to the respective inventory accounts based on the value of the property sold. Form RD 440-21 will be used to determine the value of the chattel property. The offer for the sale of the chattels will be documented by incorporating the terms and conditions of the sale of Form RD 1955-45 or Form RD 1955-46, and may be accepted by the appropriate approval official based upon the combined final sale price.

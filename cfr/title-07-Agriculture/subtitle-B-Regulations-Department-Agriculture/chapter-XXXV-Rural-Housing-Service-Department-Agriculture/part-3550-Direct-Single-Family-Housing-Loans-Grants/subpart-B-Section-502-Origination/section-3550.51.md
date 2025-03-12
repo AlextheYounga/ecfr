@@ -1,0 +1,3 @@
+##### § 3550.51 Program objectives. #####
+
+Section 502 of the Housing Act of 1949, as amended authorizes the Rural Housing Service (RHS) to provide financing to help low- and very low-income persons who cannot obtain credit from other sources obtain adequate housing in rural areas. Resources for the section 502 program are limited, and therefore, applicants are required to use section 502 funds in conjunction with funding or financing from other sources, if feasible. Sections 3550.52 through 3550.73 set forth the requirements for originating loans on program terms. Section 3550.74 describes the differences for originating loans on nonprogram (NP) terms.

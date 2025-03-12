@@ -1,0 +1,3 @@
+##### § 714.43 Recommendation by county committee. #####
+
+Immediately upon receipt of a claim, the date of receipt shall be recorded on the face thereof. The county committee shall determine, on the basis of all available information, if the data and representations on the claim are correct. The county committee shall recommend approval or disapproval of the claim, and attach a statement to the claim, signed by a member of the committee, giving the reasons for their action. After the recommendation of approval or disapproval is made by the county committee, the claim shall be promptly sent to the State committee.

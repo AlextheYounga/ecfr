@@ -1,0 +1,3 @@
+##### § 1714.55 Advance of funds from insured loans. #####
+
+The borrower shall request advances of funds as needed. Advances are subject to RUS approval and must be requested in writing on RUS Form 595 or an RUS approved equivalent. Funds will not be advanced until the Administrator has received satisfactory evidence that the borrower has met all applicable conditions precedent to the advance of funds, including evidence that the supplemental financing required under 7 CFR part 1710 and any concurrent loan guaranteed by RUS are available to the borrower under terms and conditions satisfactory to RUS.

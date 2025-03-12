@@ -1,0 +1,3 @@
+##### § 3431.17 VMLRP service agreement offer. #####
+
+The Secretary will make an offer to successful applicants to enter into an agreement with the Secretary to provide veterinary services under the VMLRP. As part of the offer, successful VMLRP applicants will be provided a specific period of time, as defined in the RFA, to secure an offer of employment or establish and/or maintain a veterinary practice in a veterinary shortage situation.

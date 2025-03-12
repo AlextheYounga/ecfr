@@ -1,0 +1,3 @@
+##### § 3430.1009 Administrative duties. #####
+
+In addition to other reporting requirements agreed to in the terms and conditions of each award, not later than 90 days after the end of each Federal fiscal year, each Center and Subcenter shall submit to NIFA a report that describes the policies, priorities, and operations of the program carried out by the Center or Subcenter during the fiscal year, including the results of all peer and merit review procedures conducted as part of administering the regional competitive research, extension, and educational grant programs; and a description of progress made in facilitating the plan described in § 3430.1007.

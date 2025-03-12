@@ -1,0 +1,3 @@
+##### § 1944.503 Objectives. #####
+
+The objectives of the TSA Grant Program are to assist low-income rural families in obtaining adequate housing to meet their family's needs and/or to provide the necessary guidance to promote their continued occupancy of already adequate housing. These objectives will be accomplished through the establishment or support of housing delivery and counseling projects run by eligible applicants. This program is intended to make use of any available housing program which provides the low-income rural resident access to adequate rental properties or homeownership.

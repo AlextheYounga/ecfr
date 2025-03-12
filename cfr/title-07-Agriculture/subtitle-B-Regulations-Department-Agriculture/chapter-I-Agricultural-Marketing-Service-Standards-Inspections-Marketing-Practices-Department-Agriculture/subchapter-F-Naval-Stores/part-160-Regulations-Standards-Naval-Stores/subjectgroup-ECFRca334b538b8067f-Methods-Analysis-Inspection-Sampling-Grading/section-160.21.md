@@ -1,0 +1,3 @@
+##### § 160.21 Rosin not fit for grading. #####
+
+An article consisting of rosin with an excessive amount of trash or other visible extraneous foreign material, or an article that is of such color or appearance as not to permit its accurate classification and grading in accordance with the standards provided for rosin, shall not be classified, graded, marked, sold, or offered for sale in commerce as rosin.

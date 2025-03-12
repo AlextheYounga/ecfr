@@ -1,0 +1,3 @@
+##### § 906.61 Personal liability. #####
+
+No member or alternate of the committee or any employee or agent thereof, shall be held personally responsible, either individually or jointly with others, in any way whatsoever, to any handler or to any person for errors in judgment, mistakes, or other acts, either of commission or omission, as such member, alternate, agent, or employee, except for act of dishonesty, willful misconduct, or gross negligence.

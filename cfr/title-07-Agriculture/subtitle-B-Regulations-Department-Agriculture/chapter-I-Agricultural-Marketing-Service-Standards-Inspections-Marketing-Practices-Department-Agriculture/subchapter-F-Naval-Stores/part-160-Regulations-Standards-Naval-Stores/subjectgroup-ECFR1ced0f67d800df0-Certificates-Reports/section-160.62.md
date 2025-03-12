@@ -1,0 +1,3 @@
+##### § 160.62 When a certificate may be issued. #####
+
+A certificate showing the results of any analysis, classification, or grading shall be issued on any naval stores which conform with a United States Standard as to kind and grade and which have been sampled by or under the direction and supervision of an official inspector in accordance with the provisions in this part. The certificate shall be valid only so long as the naval stores described therein shall remain under seal or in the identical condition obtaining at the time of their examination.

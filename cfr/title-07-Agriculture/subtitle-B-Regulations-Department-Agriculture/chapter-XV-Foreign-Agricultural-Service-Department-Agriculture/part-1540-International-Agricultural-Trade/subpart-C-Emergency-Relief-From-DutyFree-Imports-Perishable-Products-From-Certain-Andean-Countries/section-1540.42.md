@@ -1,0 +1,3 @@
+##### § 1540.42 Who may file request. #####
+
+A request under this subpart may be filed by an entity, including a firm, or group of workers, trade association, or certified or recognized union which is representative of a domestic industry producing a perishable product like or directly competitive with a perishable product that such entity claims is being imported into the United States duty-free under the provisions of the Act from a beneficiary country(ies) in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to such domestic industry.

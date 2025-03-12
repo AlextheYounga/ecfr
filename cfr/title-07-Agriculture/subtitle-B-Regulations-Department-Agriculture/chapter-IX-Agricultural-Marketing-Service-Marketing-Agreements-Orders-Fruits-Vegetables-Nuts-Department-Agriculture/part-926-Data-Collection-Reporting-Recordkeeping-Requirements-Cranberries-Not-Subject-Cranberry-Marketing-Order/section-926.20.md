@@ -1,0 +1,5 @@
+##### § 926.20 Verification of reports and records. #####
+
+For the purpose of assuring compliance and checking and verifying records and reports required to be filed by handlers, producer-handlers, processors, brokers, and importers, USDA or the Committee, through its duly authorized agents, shall have access to any premises where applicable records are maintained, where cranberries and cranberry products are received, acquired, stored, handled, and otherwise disposed of and, at any time during reasonable business hours, shall be permitted to inspect such handler, producer-handler, processor, broker, and importer premises, and any and all records of such handlers, producer-handlers, processors, brokers, and importers. The Committee's authorized agents shall be the manager of the Committee and other staff under the supervision of the Committee manager.
+
+Effective Date Note:At 71 FR 78046, Dec. 28, 2006, § 926.20 was suspended indefinitely, effective Dec. 29, 2006.

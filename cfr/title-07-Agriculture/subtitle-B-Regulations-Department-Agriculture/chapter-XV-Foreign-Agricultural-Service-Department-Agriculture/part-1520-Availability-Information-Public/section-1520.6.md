@@ -1,0 +1,3 @@
+##### § 1520.6 Other information. #####
+
+Many documents are available to the public without having to file an FOIA request. These include press releases, speeches, congressional testimony, program regulations, and some letters and memoranda. Some of this information can be found on the FAS web site, *www.fas.usda.gov.* Also, the FAS annual FOIA report is available on the agency's web site at *www.fas.usda.gov.* Click on FOIA at the bottom of the page. To request a paper copy of the FAS FOAI annual report, write to: Foreign Agricultural Service, U.S. Department of Agriculture, 1400 Independence Ave. SW., Ag Box 1004, Washington, DC 20250-1004, Attn: Freedom on Information Officer.

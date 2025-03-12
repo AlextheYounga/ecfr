@@ -1,0 +1,33 @@
+##### § 760.203 Eligible losses, adverse weather, and other loss conditions. #####
+
+(a) An eligible loss covered under this subpart is a loss that an eligible producer or contract grower of livestock, honeybees, or farm-raised fish incurs due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, (including, but not limited to, blizzards and wildfires).
+
+(b) A loss covered under LFP, LIP, or SURE is not eligible for ELAP.
+
+(c) To be eligible, the loss must have occurred:
+
+(1) During the calendar year for which payment is being requested and
+
+(2) Due to an eligible adverse weather event or loss condition that occurred on or after January 1, 2008, and before October 1, 2011.
+
+(d) For a livestock feed loss to be considered an eligible loss, the livestock feed loss must be one of the following:
+
+(1) Loss of purchased forage or feedstuffs that was intended for use as feed for the participant's eligible livestock that was physically located in the county where the eligible adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition. The loss must be due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, blizzard, flood, hurricane, tidal surge, tornado, volcanic eruption, wildfire on non-Federal land, or lightning;
+
+(2) Loss of mechanically harvested forage or feedstuffs intended for use as feed for the participant's eligible livestock that was physically located in the county where the eligible adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition. The loss must have occurred after harvest due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, blizzard, flood, hurricane, tidal surge, tornado, volcanic eruption, wildfire on non-Federal land, or lightning;
+
+(3) A loss resulting from the additional cost incurred for providing or transporting livestock feed to eligible livestock due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator, including, but not limited to, costs associated with equipment rental fees for hay lifts and snow removal. The additional costs incurred must have been incurred for losses suffered in the county where the eligible adverse weather or eligible loss condition occurred;
+
+(4) A loss resulting from the additional cost of purchasing additional livestock feed, above normal quantities, required to maintain the eligible livestock during an eligible adverse weather or eligible loss condition, until additional livestock feed becomes available, as determined by the Deputy Administrator. To be eligible, the additional feed purchased above normal quantities must be feed that is fed to maintain livestock in the county where the eligible adverse weather or eligible loss condition occurred.
+
+(e) For a grazing loss to be considered eligible, the grazing loss must have been incurred on eligible grazing lands physically located in the county where the eligible adverse weather or eligible loss condition occurred. The grazing loss must be due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, flood, freeze, hurricane, hail, tidal surge, volcanic eruption, and wildfire on non-Federal land. The grazing loss will not be eligible if it is due to an adverse weather condition covered by LFP as specified in subpart D, such as drought or wildfire on federally managed land where the producer is prohibited by the Federal agency from grazing the normally permitted livestock on the managed rangeland due to a fire.
+
+(f) For a loss due to livestock death to be considered eligible, the livestock death must have occurred in the county where the eligible loss condition occurred. The livestock death must be due to an eligible loss condition determined as eligible by the Deputy Administrator and not related to an eligible adverse weather event as specified in Subpart E for LIP.
+
+(g) For honeybee or farm-raised fish feed losses to be considered eligible, the honeybee or farm-raised fish feed producer must have incurred the loss in the county where the eligible adverse weather or eligible loss condition occurred. The honeybee or farm-raised fish feed losses must be for feed that was intended as feed for the honeybees or farm-raised fish that was damaged or destroyed due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, earthquake, excessive wind, flood, hurricane, tidal surge, tornado, volcanic eruption, and wildfire.
+
+(h) For honeybee colony or honeybee hive losses to be considered eligible, the honeybee colony or honeybee hive producer must have incurred the loss in the county where the eligible adverse weather or eligible loss condition occurred. The honeybee colony or honeybee hive losses must be due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, earthquake, excessive wind, flood, hurricane, tornado, volcanic eruption, and wildfire. To be eligible for a loss of honeybees due to colony collapse disorder, the eligible honeybee producer must provide acceptable documentation to support that the loss was due to colony collapse disorder. Except for 2008 and 2009 honeybee losses, acceptable documentation must include an acceptable colony collapse disorder certification by an independent third party as determined by the Deputy Administrator, plus any other documentation requested by FSA. For 2008 and 2009 honeybee losses such an independent certification is not required in all cases, but rather a self-certification by the honeybee producer as determined acceptable by the Deputy Administrator may be allowed in addition to whatever other documentation might be requested.
+
+(i) For a death loss for bait fish or game fish to be considered eligible, the producer must have incurred the loss in the county where the eligible adverse weather or eligible loss condition occurred. The bait fish or game fish death must be due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator including, but not limited to, an earthquake, flood, hurricane, tidal surge, tornado, and volcanic eruption.
+
+[74 FR 46673, Sept. 11, 2009, as amended at 75 FR 19188, Apr. 14, 2010; 76 FR 54075, Aug. 31, 2010]

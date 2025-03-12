@@ -1,0 +1,3 @@
+##### § 15b.1 Purpose. #####
+
+The purpose of this part is to implement section 504 of the Rehabilitation Act of 1973, as amended, to the end that no otherwise qualified handicapped individual in the United States shall solely by reason of his or her handicap be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance.

@@ -1,0 +1,3 @@
+##### § 3300.49 Application for renewal of approval. #####
+
+If an organization wishes to have an approval renewed at the end of a 5-year period, it shall submit a request for renewal to the Administrator 90 days before expiration of the existing approval. The request for renewal shall contain the same type of information as required in the original application, that is, the information called for in § 3300.43 of subpart E.

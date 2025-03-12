@@ -1,0 +1,11 @@
+##### § 58.339 Containers. #####
+
+(a) Containers used for the packaging of butter and related products shall be commercially acceptable containers or packaging material that will satisfactorily protect the quality of the contents in regular channels of trade. Caps or covers which extend over the lip of the container shall be used on all cups or tubs containing two pounds or less, to protect the product from contamination during subsequent handling.
+
+(b) *Liners and wrappers.* Supplies of parchment liners, wrappers and other packaging material shall be protected against dust, mold and other possible contamination.
+
+(1) Prior to use, parchment liners for bulk butter packages shall be completely immersed in a boiling salt solution in a suitable container constructed of stainless steel or other equally non-corrosive material. The liners shall be maintained in the solution for not less than 30 minutes. The liners shall be effectively treated with a solution consisting of at least 15 pounds of salt for every 85 pounds of water and shall be strengthened or changed as frequently as necessary to keep the solution full strength and in good condition.
+
+(2) Other liners such as polyethylene shall be treated or handled in such a manner as to prevent contamination of the liner prior to filling.
+
+(c) *Filling bulk butter containers.* The lined butter containers shall be protected from possible contamination prior to filling. Use of parchment liners may be accomplished by alternately inverting one container over the other or stacking the lined boxes on their sides in a rack, until ready for use. When using polyethylene liners the boxes should be lined immediately prior to use. When packing butter into the bulk containers, care shall be taken to fill the corners leaving as few holes or openings as possible. The surface of the butter as well as the covering liner shall be smoothed evenly over the top surface before closing and sealing the container. Containers should be stacked only as high as the firmness of the product will support weight, so as not to crush or distort the container.

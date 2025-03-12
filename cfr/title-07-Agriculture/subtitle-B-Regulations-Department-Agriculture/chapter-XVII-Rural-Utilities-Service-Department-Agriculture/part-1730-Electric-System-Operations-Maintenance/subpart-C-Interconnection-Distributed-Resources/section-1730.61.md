@@ -1,0 +1,3 @@
+##### § 1730.61 RUS policy. #####
+
+The Distributed Resource facility must not cause significant degradation of the safety, power quality, or reliability on the borrower's electric power system or other electric power systems interconnected to the borrower's electric power system. The Agency encourages borrowers to consider model policy templates developed by knowledgeable and expert institutions, such as, but not limited to the National Association of Regulatory Utility Commissioners, the Federal Energy Regulatory Commission and the National Rural Electric Cooperative Association. The Agency encourages all related electric borrowers to cooperate in the development of a common Distributed Resource policy.

@@ -1,5 +1,7 @@
 ##### § 0.470 Assessment of fees. #####
 
+Link to an amendment published at 82 FR 4196, January 13, 2017.
+
 (a)(1) *Commercial use requesters.* (i) When the Commission receives a request for documents for commercial use, it will assess charges that recover the full direct cost of searching for, reviewing and duplicating the records sought pursuant to § 0.466 and § 0.467, above.
 
 (ii) Commercial use requesters shall not be assessed search fees if the Commission fails to comply with the time limits under § 0.461(g)(1), if no unusual or exceptional circumstances (§ 0.461(g)(1)(i) through (iii)) apply to the processing of the request.

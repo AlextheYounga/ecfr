@@ -1,0 +1,9 @@
+##### § 1770.5 Periods of retention. #####
+
+(a) Except as provided for in paragraphs (b), (c), and (d) of this section, record retention shall be consistent with Prudent Utility Practice. Prudent Utility Practice shall mean any of the practices, methods, and acts which, in the exercise of reasonable judgment, in light of the facts, including but not limited to, the practices, methods, and acts engaged in or approved by a significant portion of the telecommunications industry prior thereto, known at the time the decision was made, would have been expected to accomplish the desired result consistent with cost effectiveness, reliability, safety, and expeditiousness. It is recognized that Prudent Utility Practice is not intended to be limited to optimum practice, method, or act to the exclusion of all others, but rather is a spectrum of possible practices, methods, or acts which could have been expected to accomplish the desired result at the lowest reasonable cost consistent with cost effectiveness, reliability, safety, and expedition.
+
+(b) Records supporting construction financed by RUS shall be retained until audited and approved by RUS.
+
+(c) Records related to plant in service must be retained until the facilities are permanently removed from utility service, all removal and restoration activities are completed, and all costs are retired from the accounting records unless accounting adjustments resulting from reclassification and original costs studies have been approved by RUS or other regulatory body having jurisdiction.
+
+(d) Life and mortality study data for depreciation purposes must be retained for 25 years or for 10 years after plant is retired whichever is longer.

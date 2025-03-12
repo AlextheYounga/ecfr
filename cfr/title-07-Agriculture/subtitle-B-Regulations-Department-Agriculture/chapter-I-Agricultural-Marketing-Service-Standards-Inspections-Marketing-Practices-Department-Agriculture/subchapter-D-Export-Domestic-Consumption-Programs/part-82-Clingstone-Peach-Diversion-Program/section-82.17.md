@@ -1,0 +1,3 @@
+##### § 82.17 Death, incompetency, or disappearance. #####
+
+In the case of death, incompetency, disappearance, or dissolution of a clingstone peach grower that is eligible to receive benefits in accordance with this part, any person or persons who will, under 7 CFR part 707 of this title, be eligible for payments and benefits covered by this part, may receive such benefits otherwise due the actual producer, as determined appropriate by AMS.

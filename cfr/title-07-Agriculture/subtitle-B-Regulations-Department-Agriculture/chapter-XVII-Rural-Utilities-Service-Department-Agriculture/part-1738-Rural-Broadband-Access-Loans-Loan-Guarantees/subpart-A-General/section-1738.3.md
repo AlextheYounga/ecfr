@@ -1,0 +1,5 @@
+##### § 1738.3 Substantially underserved trust areas. #####
+
+(a) If the Administrator determines that a community within “trust land” (as defined in 38 U.S.C. 3765) has a high need for the benefits of the Broadband Loan Program, he/she may designate the community as a “substantially underserved trust area” (as defined in section 306F of the RE Act).
+
+(b) To receive consideration as a substantially underserved trust area, the applicant must submit to the Agency a completed application that includes all of the information requested in 7 CFR part 1700, subpart D. In addition, the applicant must notify the Agency in writing that it seeks consideration as a substantially underserved trust area and identify the discretionary authorities of 7 CFR part 1700, subpart D, it seeks to have applied to its application. Note, however, that given the prohibition on funding operating expenses in the Broadband Program, requests for waiver of the equity or the additional cash requirements cannot be considered.

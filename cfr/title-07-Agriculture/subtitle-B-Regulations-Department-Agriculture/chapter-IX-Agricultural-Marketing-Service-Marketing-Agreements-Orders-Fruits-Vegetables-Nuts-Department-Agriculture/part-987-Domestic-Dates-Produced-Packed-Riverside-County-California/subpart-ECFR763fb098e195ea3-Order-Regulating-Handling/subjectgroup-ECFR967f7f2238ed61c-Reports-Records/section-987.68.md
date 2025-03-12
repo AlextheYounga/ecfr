@@ -1,0 +1,5 @@
+##### § 987.68 Verification of reports and records. #####
+
+For the purpose of checking compliance with record keeping requirements and verifying reports filed by handlers, the Secretary and the Committee, through its duly authorized employees, shall have access to any premises where dates are held and, at any time during reasonable business hours, shall be permitted to examine any dates held and any and all records with respect to matters within the purview of this part. Handlers shall furnish labor necessary to facilitate such examinations at no expense to the Committee. All handlers shall maintain complete records establish and which accurately show the quantity of dates handled, disposed of, and withheld. The Committee, with the approval of the Secretary, may establish the type of records to be maintained. Such records shall be retained by handlers for not less than two years subsequent to the termination of each crop year.
+
+[27 FR 6818, July 19, 1962, as amended at 36 FR 15039, Aug. 12, 1971; 43 FR 4253, Feb. 1, 1978]

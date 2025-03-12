@@ -1,0 +1,3 @@
+##### § 4279.187 Refusal to execute Loan Note Guarantee. #####
+
+If the Agency determines that it cannot execute the Loan Note Guarantee, the Agency will promptly inform the lender of the reasons and give the lender a reasonable period within which to satisfy the objections. If the lender satisfies the objections within the time allowed, the Agency will issue the Loan Note Guarantee. If the lender requests additional time in writing and within the period allowed, the Agency may grant the request.

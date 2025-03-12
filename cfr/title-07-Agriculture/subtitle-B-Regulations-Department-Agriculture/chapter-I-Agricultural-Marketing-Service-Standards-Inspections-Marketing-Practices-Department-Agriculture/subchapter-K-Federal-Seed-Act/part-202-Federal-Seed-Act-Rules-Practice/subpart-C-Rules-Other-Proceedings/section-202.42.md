@@ -1,0 +1,3 @@
+##### § 202.42 Publication of judgments, settlements, and orders. #####
+
+After judgment or settlement, or the issuance of a cease and desist order, in any case or proceeding arising under this Act, notice thereof containing any information pertinent to the judgment or settlement or the issuance of the cease and desist order, shall be given by issuing a press release or by such other media as the Administrator of the Agricultural Marketing Service may designate from time to time.

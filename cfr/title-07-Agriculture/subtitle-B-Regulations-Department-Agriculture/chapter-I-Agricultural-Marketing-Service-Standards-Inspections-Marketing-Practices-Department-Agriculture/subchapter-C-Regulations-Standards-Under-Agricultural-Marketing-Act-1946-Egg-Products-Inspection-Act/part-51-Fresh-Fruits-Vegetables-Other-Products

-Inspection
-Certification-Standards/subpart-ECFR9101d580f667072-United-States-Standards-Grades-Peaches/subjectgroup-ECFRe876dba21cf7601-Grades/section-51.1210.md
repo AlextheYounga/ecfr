@@ -1,0 +1,3 @@
+##### § 51.1210 U.S. Fancy. #####
+
+“U.S. Fancy” consists of peaches of one variety which are mature but not soft or overripe, well formed and which are free from decay, bacterial spot, cuts which are not healed, growth cracks, hail injury, scab, scale, split pits, worms, worm holes, leaf or limb rub injury; and free from damage caused by bruises, dirt or other foreign material, other disease, insects or mechanical or other means. In addition to the above requirements, each peach shall have not less than one-third of its surface showing blushed, pink or red color.

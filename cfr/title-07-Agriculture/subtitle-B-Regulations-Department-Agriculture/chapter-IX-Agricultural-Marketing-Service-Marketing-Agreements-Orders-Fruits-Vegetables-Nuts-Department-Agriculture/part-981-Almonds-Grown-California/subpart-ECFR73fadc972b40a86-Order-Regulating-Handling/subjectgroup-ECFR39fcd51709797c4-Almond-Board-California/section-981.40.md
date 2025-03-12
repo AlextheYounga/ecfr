@@ -1,0 +1,13 @@
+##### § 981.40 Procedure. #####
+
+(a) *Organization and rules.* The members of the Board shall select a chairman from their membership. The Board shall select such other officers and adopt such rules for the conduct of its business as it may deem advisable. The Board shall give to the Secretary or his designated agent and representatives the same notice of meetings of the Board as is given to members of the Board.
+
+(b) *Quorum.* All decisions of the Board, except where otherwise specifically provided, shall be by a majority vote of the members present. The presence of six members shall be required to constitute a quorum.
+
+(c) *Voting by mail, telegram, fax or other electronic means.* The Board may vote by mail, telegram, fax or other electronic means upon written notice to all members, or alternates acting in their place, including in the notice a statement of a reasonable time, not to exceed 10 days, in which a vote by mail, telegram, fax or other electronic means must be received by the Board for counting. Voting by mail, telegram, fax or other electronic means shall not be permitted at any assembled meeting of the Board. When a proposition is submitted for vote by mail, telegram, fax or other electronic means, at least eight members of the Board must vote in favor of its passage or the proposition shall be defeated.
+
+(d) *Right of the Secretary.* The members of the Board (including successors or alternates), and any agent or employee appointed or employed by the Board, shall be subject to removal or suspension by the Secretary at any time. Each and every order, regulation, decision, determination, or other act of the Board shall be subject to the continuing right of the Secretary to disapprove of the same at any time, and, upon such disapproval, shall be deemed null and void except as to acts done in reliance thereon or in compliance therewith.
+
+(e) *Additional voting requirements.* Adoption of recommendations by the Board with respect to projects pursuant to § 981.41 involving production research, marketing research and development projects, and marketing promotion including paid advertising and crediting the pro rata expense assessment obligation of handlers with such portion of their direct expenditures for marketing promotion including paid advertising, shall require at least seven affirmative votes.
+
+[35 FR 11372, July 16, 1970, as amended at 37 FR 3984, Feb. 15, 1972; 61 FR 32921, June 26, 1996]

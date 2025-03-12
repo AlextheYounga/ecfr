@@ -1,0 +1,3 @@
+##### § 2903.2 Purpose of the program. #####
+
+The Biodiesel Fuel Education Program seeks to familiarize public and private vehicle fleet operators, other interested entities, and the public, with the benefits of biodiesel, a relatively new fuel option in the United States. It will also address concerns previously identified by fleet operators and other potential users of this alternative fuel, including the need to balance the positive environmental, social and human health impacts of biodiesel utilization with the increased per gallon cost to the user. It is the Program's goal to stimulate biodiesel demand and encourage the further development of a biodiesel industry in the United States.

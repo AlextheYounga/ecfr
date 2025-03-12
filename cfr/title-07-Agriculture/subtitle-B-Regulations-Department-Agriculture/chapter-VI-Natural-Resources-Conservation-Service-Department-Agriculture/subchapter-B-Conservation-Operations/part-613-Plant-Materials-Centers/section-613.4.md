@@ -1,0 +1,3 @@
+##### § 613.4 Special production of plant materials. #####
+
+NRCS can produce plant materials in the quantity required to do a specific conservation job if this production will serve the public welfare and only if the plant materials are not available commercially. This function will be performed only until the plant materials are available commercially. Specific production of plant materials by NRCS requires the approval of the Chief.

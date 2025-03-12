@@ -1,0 +1,3 @@
+##### § 400.351 Basis and applicability. #####
+
+The regulations contained in this subpart are issued pursuant to the Federal Crop Insurance Act, as amended (7 U.S.C. 1501 *et seq.*) (the Act), to prescribe the procedures for Federal preemption of State laws and regulations not consistent with the purpose, intent, or authority of the Act. These regulations are applicable to all policies of insurance, insured or reinsured by the Corporation, contracts, agreements, or actions authorized by the Act and entered into or issued by FCIC.

@@ -1,0 +1,19 @@
+##### § 51.2710 U.S. No. 1 Runner. #####
+
+“U.S. No. 1 Runner” consists of shelled Runner type peanut kernels of similar varietal characteristics which are whole and free from foreign material, damage and minor defects, and which will not pass through a screen having16/64 ×3/4 inch openings.
+
+(a) In order to allow for variations incident to proper grading and handling, the following tolerances, by weight, shall be permitted:
+
+(1) 1 percent for other varieties of peanuts;
+
+(2) 3 percent for sound peanuts which are split or broken;
+
+(3) 1.5 percent for damaged or unshelled peanuts;
+
+(4) 0.5 percent for minor defects: *Provided,* That in addition, any unused part of the tolerance for damaged or unshelled peanuts shall be allowed for minor defects;
+
+(5) 0.1 percent for foreign material; and,
+
+(6) 3 percent for sound whole peanuts which will pass through the prescribed screen.
+
+[21 FR 4850, June 30, 1956, as amended at 21 FR 5669, July 28, 1956. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981]

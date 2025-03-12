@@ -1,0 +1,3 @@
+##### § 3200.1 Purpose. #####
+
+This Part sets forth the procedures to be utilized by Department of Agriculture (USDA) in the acquisition and transfer of excess property to the 1890 Land Grant Institutions (including Tuskegee University), 1994 Land Grant Institutions, and the Hispanic-Serving Institutions in support of research, educational, technical, and scientific activities or for related programs as authorized by 7 U.S.C. 2206a. Title to the personal property shall pass to the institution.

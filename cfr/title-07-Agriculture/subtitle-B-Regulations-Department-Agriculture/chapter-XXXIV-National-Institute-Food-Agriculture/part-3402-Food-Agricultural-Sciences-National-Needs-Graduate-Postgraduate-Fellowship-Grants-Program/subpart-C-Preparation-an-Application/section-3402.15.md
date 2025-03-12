@@ -1,0 +1,3 @@
+##### § 3402.15 Faculty vitae. #####
+
+This section should include a Summary Vita, no more than 2 pages excluding publications listing, for each faculty member contributing significantly to institutional competence at the level of graduate study for the national need area addressed in the application. Applicants should arrange the faculty vitae with the Project Director(s) first, followed by the remaining faculty, in alphabetical order.

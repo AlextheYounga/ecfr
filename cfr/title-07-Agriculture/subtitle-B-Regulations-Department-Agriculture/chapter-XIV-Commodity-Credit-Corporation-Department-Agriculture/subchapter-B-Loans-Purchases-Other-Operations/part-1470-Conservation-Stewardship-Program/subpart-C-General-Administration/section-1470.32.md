@@ -1,0 +1,3 @@
+##### § 1470.32 Compliance with regulatory measures. #####
+
+Participants will be responsible for obtaining the authorities, rights, easements, permits, or other approvals or legal compliance necessary for the implementation, operation, and maintenance associated with the conservation stewardship plan. Participants will be responsible for compliance with all laws and for all effects or actions resulting from the implementation of the contract.

@@ -1,0 +1,31 @@
+##### § 226.11 Program payments for centers. #####
+
+(a) *Requirement for agreements.* Payments must be made only to institutions operating under an agreement with the State agency for the meal types specified in the agreement served at approved child care centers, at-risk afterschool care centers, adult day care centers, emergency shelters, and outside-school-hours care centers. A State agency may develop a policy under which centers are reimbursed for meals served in accordance with provisions of the Program in the calendar month preceding the calendar month in which the agreement is executed, or the State agency may develop a policy under which centers receive reimbursement only for meals served in approved centers on and after the effective date of the Program agreement. If the State agency's policy permits centers to earn reimbursement for meals served prior to the execution of a Program agreement, program reimbursement must not be received by the center until the agreement is executed.
+
+(b) *Institutions*—(1) *Edit checks of sponsored centers.* Prior to submitting its consolidated monthly claim to the State agency, each sponsoring organization must conduct reasonable edit checks on the sponsored centers' meal claims, which at a minimum, must include those edit checks specified at § 226.10(c).
+
+(2) *Child and adult care institutions.* Each child care institution and each adult day care institution must report each month to the State agency the total number of Program meals, by type (breakfasts, lunches, suppers, and snacks), served to children or adult participants, respectively, except as provided in paragraph (b)(3) of this section.
+
+(3) *For-profit center exception.* For-profit child care centers, including for-profit at-risk afterschool care centers and outside-school-hours care centers, must provide the reports required in paragraph (b)(2) of this section only for calendar months during which at least 25 percent of the children in care (enrolled or licensed capacity, whichever is less) were eligible for free or reduced-price meals or were title XX beneficiaries. However, children who only receive at-risk afterschool snacks and/or at-risk afterschool meals must not be considered in determining this eligibility. For-profit adult day care centers must provide the reports required in paragraph (b)(2) of this section only for calendar months during which at least 25 percent of enrolled adult participants were beneficiaries of title XIX, title XX, or a combination of titles XIX and XX.
+
+(c) *Reimbursement*—(1) *Child and adult care institutions.* Each State agency must base reimbursement to each approved child care center and adult day care center on actual time of service meal counts of meals, by type, served to children or adult participants multiplied by the assigned rates of reimbursement, except as provided in paragraph (c)(4) of this section. In the case of a sponsoring organization of family day care homes, each State agency must base reimbursement to each approved family day care home on daily meal counts recorded by the provider.
+
+(2) *At-risk afterschool care institutions.* Except as provided in paragraph (c)(4) of this section, State agencies must base reimbursement to each at-risk afterschool care center on the number of at-risk afterschool snacks and/or at-risk afterschool meals that are served to children.
+
+(3) *Emergency shelters.* Each State agency must base reimbursement to each emergency shelter on the number of meals served to children multiplied by the free rates for meals and snacks.
+
+(4) *For-profit center exception.* For-profit child care centers, including for-profit at-risk and outside-school-hours care centers, must be reimbursed only for the calendar months during which at least 25 percent of the children in care (enrolled or licensed capacity, whichever is less) were eligible for free or reduced-price meals or were title XX beneficiaries. However, children who only receive at-risk afterschool snacks and/or at-risk afterschool meals must not be considered in determining this eligibility. For-profit adult day care centers must be reimbursed only for the calendar months during which at least 25 percent of enrolled adult participants were beneficiaries of title XIX, title XX, or a combination of titles XIX and XX.
+
+(5) *Computation of reimbursement.* Except for at-risk afterschool care centers and emergency shelters, the State agency must compute reimbursement by either:
+
+(i) *Actual counts.* Base reimbursement to institutions on actual time of service counts of meals served, and multiply the number of meals, by type, served to participants that are eligible to receive free meals, participants eligible to receive reduced-price meals, and participants not eligible for free or reduced-price meals by the applicable national average payment rate; or
+
+(ii) *Claiming percentages.* Apply the applicable claiming percentage or percentages to the total number of meals, by type, served to participants and multiply the product or products by the assigned rate of reimbursement for each meal type; or
+
+(iii) *Blended rates.* Multiply the assigned blended per meal rate of reimbursement by the total number of meals, by type, served to participants.
+
+(d) *Limits on reimbursement.* If the State agency elects to reimburse its institutions according to the lesser of rates or actual costs, total Program payments to an institution during any fiscal year, including any cash payments in lieu of commodities, shall not exceed allowable Program operating and administrative costs, less income to the Program. The State agency may limit payments for administrative costs to the amount approved in the annual administrative budget of the institution. The State agency may prohibit an institution from using payments for operating costs to pay for administrative expenses.
+
+(e) *Institution recordkeeping.* Each institution shall maintain records as prescribed by the State agency's financial management system.
+
+[47 FR 36527, Aug. 20, 1982, as amended at 48 FR 21530, May 13, 1983; 52 FR 36907, Oct. 2, 1987; 53 FR 52590, Dec. 28, 1988; 62 FR 23618, May 1, 1997; 69 FR 53543, Sept. 1, 2004; 70 FR 43262, July 27, 2005; 71 FR 5, Jan. 3, 2006; 72 FR 41607, July 31, 2007; 75 FR 16327, Apr. 1, 2010; 76 FR 34571, June 13, 2011]

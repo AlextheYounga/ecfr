@@ -1,0 +1,3 @@
+##### § 1484.37 Must Cooperators adhere to Federal Travel Regulations? #####
+
+Travel shall conform to the U.S. Federal Travel Regulation (41 CFR Chapters 300 through 304) and air travel shall conform to the requirements of the “Fly America Act” (49 U.S.C. 1517). The Cooperator shall notify the Attache/Counselor in the destination countries in writing in advance of any proposed travel. The timing of such notice should be far enough in advance to enable the Attache/Counselor to schedule appointments, make preparations, or otherwise provide any assistance being requested. Failure to provide advance notification of travel may result in disallowance of the expenses related to the travel.

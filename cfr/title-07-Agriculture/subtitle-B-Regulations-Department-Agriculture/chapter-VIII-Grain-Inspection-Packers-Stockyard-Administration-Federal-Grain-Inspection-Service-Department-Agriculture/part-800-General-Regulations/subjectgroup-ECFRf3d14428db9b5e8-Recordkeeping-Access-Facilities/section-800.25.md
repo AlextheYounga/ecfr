@@ -1,0 +1,7 @@
+##### § 800.25 Required elevator and merchandising records. #####
+
+(a) *Elevator and merchandiser recordkeeping.* Every person and every State or political subdivision of a State that owns or operates an elevator and every merchandiser that has obtained or obtains official inspection or official weighing services other than (1) submitted sample inspection service, or (2) official sampling service, or (3) official stowage examination service shall keep such accounts, records, and memoranda that fully and correctly disclose all transactions concerning the lots of grain for which the elevator or merchandiser received official services, except as provided under § 800.18.
+
+(b) *Retention period.* Records specified in this section may be disposed of after a period of 3 years from the date of the official service; provided, the 3-year period may be extended if the elevator owner or operator, or merchandiser is notified in writing by the Administrator that specific records should be retained for a longer period for effective administration and enforcement of the Act. This requirement does not restrict or modify the requirements of any other Federal, State, or local statute concerning recordkeeping.
+
+(Approved by the Office of Management and Budget under control number 0580-0011)[51 FR 1768, Jan. 15, 1986]

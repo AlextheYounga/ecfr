@@ -1,0 +1,3 @@
+##### § 1219.4 Consumer information. #####
+
+*Consumer information* means any action or program that disseminates or otherwise provides information to consumers and other persons, on the use, nutritional attributes, and other information that will assist consumers and other persons in the United States in making evaluations and decisions regarding the purchase, preparation, and use of Hass avocados.

@@ -1,0 +1,3 @@
+##### § 900.42 Industry assessments. #####
+
+If the Secretary determines it is necessary to improve or expedite an amendatory fruit, vegetable or nut formal rulemaking proceeding, costs associated with improving or expediting the proceeding may be charged to the committees or boards. Such costs shall be paid with assessments from the handlers regulated under the marketing order to be amended or on signatories to the marketing agreement subject to amendment. Such assessments may supplement funds for costs associated with, but not limited to, court reporters, hearing examiners, legal counsel, hearing venue and associated travel for USDA officials.

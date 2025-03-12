@@ -1,0 +1,3 @@
+##### § 29.28 Interested party. #####
+
+The owner or other financially interested person; including the warehouseman, commission merchant, association, and other person who has the tobacco in his custody for sale; the authorized agent of the owner; and persons to whom or by whom the tobacco has been sold on the basis of a certificate issued, or sample prepared, under the Act, but not including a person who is negotiating for its purchase.

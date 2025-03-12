@@ -1,0 +1,15 @@
+##### § 1469.25 Contract violations and termination. #####
+
+(a) If the NRCS determines that a participant is in violation of the terms of a contract, or documents incorporated by reference into the contract, NRCS will give the participant a reasonable time, as determined by the State Conservationist, to correct the violation and comply with the terms of the contract and attachments thereto. If the violation continues, the State Conservationist may terminate the conservation stewardship contract.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section, a contract termination is effective immediately upon a determination by the State Conservationist that the participant has: submitted false information; filed a false claim; engaged in any act for which a finding of ineligibility for payments is permitted under this part; or taken actions NRCS deems to be sufficiently purposeful or negligent to warrant a termination without delay.
+
+(c) If NRCS terminates a contract due to breach of contract, the participant will forfeit all rights for future payments under the contract, and must refund all or part of the payments received, plus interest, and liquidated damages as determined in accordance with part 1403 of this chapter. The State Conservationist may require only partial refund of the payments received if a previously installed conservation practice can function independently, is not affected by the violation or other conservation practices that would have been installed under the contract, and the participant agrees to operate and maintain the installed conservation practice for the life span of the practice.
+
+(d) If NRCS terminates a contract due to breach of contract, or the participant voluntarily terminates the contract before any contractual payments have been made, the participant will forfeit all rights for further payments under the contract, and must pay such liquidated damages as are prescribed in the contract. The State Conservationist has the option to waive the liquidated damages, depending upon the circumstances of the case.
+
+(e) When making any contract termination decisions, the State Conservationist may reduce the amount of money owed by the participant by a proportion which reflects the good faith effort of the participant to comply with the contract, or the hardships beyond the participant's control that have prevented compliance with the contract including natural disasters or events.
+
+(f) The participant may voluntarily terminate a contract, without penalty or repayment, if the State Conservationist determines that the contract terms and conditions have been fully complied with before termination of the contract.
+
+(g) In carrying out this section, the State Conservationist may consult with the local conservation district.

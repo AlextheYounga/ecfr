@@ -1,7 +1,5 @@
 ##### § 92.2 Definitions. #####
 
-Link to an amendment published at 81 FR 90657, Dec. 14, 2016.
-
 The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA), Public housing,**Public Housing Agency (PHA),* and *Secretary* are defined in 24 CFR 5.100.
 
 *Act* means the HOME Investment Partnerships Act at title II of the Cranston-Gonzalez National Affordable Housing Act, as amended, 42 U.S.C. 12701 *et seq.*
@@ -90,6 +88,8 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 
 *HOME funds* means funds made available under this part through allocations and reallocations, plus program income.
 
+*Homebuyer counseling* has the same meaning as homeownership counseling in 24 CFR 5.100, and is a type of housing counseling.
+
 *Homeownership* means ownership in fee simple title in a 1- to 4-unit dwelling or in a condominium unit, or equivalent form of ownership approved by HUD.
 
 (1) The land may be owned in fee simple or the homeowner may have a 99-year ground lease.
@@ -109,6 +109,8 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 *Household* means one or more persons occupying a housing unit.
 
 *Housing* includes manufactured housing and manufactured housing lots, permanent housing for disabled homeless persons, transitional housing, single-room occupancy housing, and group homes. Housing also includes elder cottage housing opportunity (ECHO) units that are small, free- standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing single-family dwellings. Housing does not include emergency shelters (including shelters for disaster victims) or facilities such as nursing homes, convalescent homes, hospitals, residential treatment facilities, correctional facilities, halfway houses, housing for students, or dormitories (including farmworker dormitories).
+
+*Housing counseling* has the meaning given the term in 24 CFR 5.100.
 
 *Insular areas* means Guam, the Northern Mariana Islands, the United States Virgin Islands, and American Samoa.
 
@@ -198,4 +200,4 @@ The terms *1937 Act, ALJ,**Fair Housing Act, HUD,**Indian Housing Authority (IHA
 
 *Very low-income families* means low- income families whose annual incomes do not exceed 50 percent of the median family income for the area, as determined by HUD with adjustments for smaller and larger families, except that HUD may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of HUD findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes. An individual does not qualify as a very low-income family if the individual is a student who is not eligible to receive Section 8 assistance under 24 CFR 5.612.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016]
+[61 FR 48750, Sept. 16, 1996, as amended at 67 FR 61755, Oct. 1, 2002; 69 FR 16765, Mar. 30, 2004; 72 FR 16685, Apr. 4, 2007; 78 FR 44664, July 24, 2013; 80 FR 75934, Dec. 7, 2015; 81 FR 86952, Dec. 2, 2016; 81 FR 90657, Dec. 14, 2016]

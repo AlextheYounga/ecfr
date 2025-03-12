@@ -1,0 +1,17 @@
+##### § 1970.15 Interagency cooperation. #####
+
+In order to reduce delay and paperwork, the Agency will, when practicable, eliminate duplication of Federal, state, and local procedures by participating in joint environmental document preparation, adopting appropriate environmental documents prepared for or by other Federal agencies, and incorporating by reference other environmental documents in accordance with 40 CFR 1506.2 and 1506.3.
+
+(a) *Coordination with other Federal agencies.* When other Federal agencies are involved in an Agency action listed in § 1970.101 or § 1970.151, the Agency will coordinate with these agencies to determine cooperating agency relationships as appropriate in the preparation of a joint environmental review document. The criteria for making this determination can be found at 40 CFR 1501.5.
+
+(b) *Adoption of documents prepared for or by other Federal agencies.* The Agency may adopt EAs or EISs prepared for or by other Federal agencies if the proposed actions and site conditions addressed in the environmental document are substantially the same as those associated with the proposal being considered by the Agency. The Agency will consider age, location, and other reasonable factors in determining the usefulness of the other Federal documents. The Agency will complete an independent evaluation of the environmental document to ensure it meets the requirements of this part. If any environmental document does not meet all Agency requirements, it will be supplemented prior to adoption. Where there is a conflict in the two agencies' classes of action, the Agency may adopt the document provided that it meets the Agency's requirements.
+
+(c) *Cooperation with state and local governments.* In accordance with 40 CFR 1500.5 and 1506.2, the Agency will cooperate with state and local agencies to the fullest extent possible to reduce delay and duplication between NEPA and comparable state and local requirements.
+
+(1) Joint environmental documents. To the extent practicable, the Agency will participate in the preparation of a joint document to ensure that all of the requirements of this part are met. Applicants that request Agency assistance for specific proposals must contact the Agency at the earliest possible date to determine if joint environmental documents can be effectively prepared. In order to prepare joint documents the following conditions must be met:
+
+(i) Applicants must also be seeking financial, technical, or other assistance such as permitting or approvals from a state or local agency that has responsibility to complete an environmental review for the applicant's proposal; and
+
+(ii) The Agency and the state or local agency may agree to be joint lead agencies where practicable. When state laws or local ordinances have environmental requirements in addition to, but not in conflict with those of the Agency, the Agency will cooperate in fulfilling these requirements.
+
+(2) Incorporating other documents. The Agency cannot adopt a non-Federal environmental document under NEPA. However, if an environmental document is not jointly prepared as described in paragraph (c)(1) of this section (*e.g.,* prepared in accordance with a state environmental policy act [SEPA]), the Agency will evaluate the document as reference or supporting material for the Agency's environmental document.

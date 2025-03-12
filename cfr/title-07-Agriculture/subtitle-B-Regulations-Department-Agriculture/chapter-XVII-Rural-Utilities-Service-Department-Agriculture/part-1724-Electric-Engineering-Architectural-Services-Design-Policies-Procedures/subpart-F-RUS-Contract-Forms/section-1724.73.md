@@ -1,0 +1,5 @@
+##### § 1724.73 Promulgation of new or revised contract forms. #####
+
+RUS may, from time to time, undertake to promulgate new contract forms or revise or eliminate existing contract forms. In so doing, RUS shall publish notice of rulemaking in the Federal Register announcing, as appropriate, a revision in, or a proposal to amend § 1724.74, List of Electric Program Standard Contract Forms. The amendment may change the existing identification of a listed contract form; for example, changing the issuance date of a listed contract form or by identifying a new required contract form. The notice of rulemaking will describe the new standard contract form or the substantive change in the listed contract form, as the case may be, and the issues involved. The standard contract form or relevant portions thereof may be appended to the supplementary information section of the notice of rulemaking. As appropriate, the notice of rulemaking shall provide an opportunity for interested persons to provide comments. A copy of each such Federal Register document shall be sent by regular or electronic mail to all borrowers.
+
+[63 FR 58285, Oct. 30, 1998]

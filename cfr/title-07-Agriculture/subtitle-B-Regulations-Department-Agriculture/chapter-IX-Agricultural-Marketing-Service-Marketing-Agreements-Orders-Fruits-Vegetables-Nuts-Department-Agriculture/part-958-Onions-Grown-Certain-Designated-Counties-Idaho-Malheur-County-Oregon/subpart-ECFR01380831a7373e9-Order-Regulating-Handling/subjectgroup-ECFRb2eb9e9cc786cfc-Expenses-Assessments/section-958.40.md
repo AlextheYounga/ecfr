@@ -1,0 +1,3 @@
+##### § 958.40 Expenses. #####
+
+The committee is authorized to incur such expenses as the Secretary may find are reasonable and likely to be incurred by it during each fiscal period for its maintenance and functioning, and for such purposes as the Secretary, pursuant to this subpart, determines to be appropriate. Handlers shall share expenses upon the basis of a fiscal period. Each handler's share of such expenses shall be proportionate to the ratio between the total quantity of such handler's onion shipments inspected pursuant to this part that are handled by him as the first handler thereof during a fiscal period, and the total quantity of such onions handled by all handlers as first handlers thereof during the same period.

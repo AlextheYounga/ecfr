@@ -1,0 +1,7 @@
+##### § 4280.106 Conflict of interest. #####
+
+(a) *General.* No conflict of interest or appearance of conflict of interest will be allowed. For purposes of this subpart, conflict of interest includes, but is not limited to, distribution or payment of grant, guaranteed loan funds, and Matching Funds or award of project construction contracts to an individual owner, partner, or stockholder, or to a beneficiary or Immediate Family of the Applicant or borrower when the recipient will retain any portion of ownership in the Applicant's or borrower's project. Grant and Matching Funds may not be used to support costs for services or goods going to, or coming from, a person or entity with a real or apparent conflict of interest.
+
+(b) *Assistance to employees, relatives, and associates.* The Agency will process any requests for assistance under this subpart in accordance with 7 CFR part 1900, subpart D.
+
+(c) *Member/delegate clause.* No member of or delegate to Congress shall receive any share or part of this grant or any benefit that may arise there from; but this provision shall not be construed to bar, as a contractor under the grant, a publicly held corporation whose ownership might include a member of Congress.

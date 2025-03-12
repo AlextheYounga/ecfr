@@ -1,0 +1,3 @@
+##### § 1980.1026 Evaluation of Project information. #####
+
+To assist the Agency in evaluating the effectiveness of this subpart, each applicant that receives funding under this subpart must submit to the Agency all measures, metrics, and outcomes of the Project that are reported to the entity(ies) who are monitoring Plan implementation. This information will be submitted for as long as the Plan is in effect.

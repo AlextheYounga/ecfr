@@ -1,0 +1,9 @@
+##### § 658.6 Technical assistance. #####
+
+(a) Section 1543 of the Act, 7 U.S.C. 4204 states, “The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.” In § 2.62, of 7 CFR part 2, subtitle A, NRCS is delegated leadership responsibility within USDA for the activities treated in this part.
+
+(b) In providing assistance to States, local units of government, and nonprofit organizations, USDA will make available maps and other soils information from the national cooperative soil survey through NRCS field offices.
+
+(c) Additional assistance, within available resources, may be obtained from local offices of other USDA agencies. The Agricultural Stabilization and Conservation Service and the Forest Service can provide aerial photographs, crop history data, and related information. A reasonable fee may be charged. In many States, the Cooperative Extension Service can provide help in understanding and identifying farmland protection issues and problems, resolving conflicts, developing alternatives, deciding on appropriate actions, and implementing those decisions.
+
+(d) Officials of State agencies, local units of government, nonprofit organizations, or regional, area, State-level, or field offices of Federal agencies may obtain assistance by contacting the office of the NRCS State conservationist. A list of Natural Resources Conservation Service State office locations appears in appendix A, § 661.6 of this title. If further assistance is needed, requests should be made to the Assistant Secretary for Natural Resources and Environment, Office of the Secretary, Department of Agriculture, Washington, DC 20250.

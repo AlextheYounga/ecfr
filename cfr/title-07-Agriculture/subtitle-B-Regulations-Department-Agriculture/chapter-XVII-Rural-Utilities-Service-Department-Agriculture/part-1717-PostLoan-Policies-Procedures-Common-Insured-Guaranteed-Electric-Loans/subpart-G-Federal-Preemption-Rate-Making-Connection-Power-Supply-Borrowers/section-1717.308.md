@@ -1,0 +1,3 @@
+##### § 1717.308 RUS approval of nonconforming rates. #####
+
+Borrowers may request and RUS may approve rates which do not conform with the requirements of the RUS wholesale power contract and other RUS documents if RUS determines, in its sole discretion, that such approval is in the interests of RUS. If RUS approval is granted prior to pre-emption hereunder, and if the state regulatory authority shall have approved such rates, then, so long as RUS's approval of the nonconforming rates remains in effect, the jurisdiction of the state regulatory authority over the rates of the borrower shall not be pre-empted hereunder.

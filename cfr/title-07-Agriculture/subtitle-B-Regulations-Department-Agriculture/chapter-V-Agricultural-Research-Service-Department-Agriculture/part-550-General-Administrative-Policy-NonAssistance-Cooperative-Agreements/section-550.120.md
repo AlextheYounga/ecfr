@@ -1,0 +1,3 @@
+##### § 550.120 Press releases. #####
+
+Press releases or other forms of public notification for a broad public audience will be submitted to the REE Agency for review, prior to release to the public. The REE Agency will be given the opportunity to review, in advance, all written press releases and any other written information (including web content postings) to be released to the public by the Cooperator, and require changes as deemed necessary, if the material mentions by name the REE Agency, or the USDA, or any REE or USDA employee or research unit or location.

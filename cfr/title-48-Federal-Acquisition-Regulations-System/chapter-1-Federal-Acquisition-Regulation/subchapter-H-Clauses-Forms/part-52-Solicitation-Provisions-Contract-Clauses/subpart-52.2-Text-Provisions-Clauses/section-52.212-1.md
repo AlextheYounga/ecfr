@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (OCT 2016)
+Instructions to Offerors - Commercial Items (JAN 2017)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code and small business size standard for this acquisition appear in Block 10 of the solicitation cover sheet (SF 1449). However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
 
@@ -34,7 +34,7 @@ Instructions to Offerors - Commercial Items (OCT 2016)
 
 (d) *Product samples.* When required by the solicitation, product samples shall be submitted at or prior to the time specified for receipt of offers. Unless otherwise specified in this solicitation, these samples shall be submitted at no expense to the Government, and returned at the sender's request and expense, unless they are destroyed during preaward testing.
 
-(e) *Multiple offers.* Offerors are encouraged to submit multiple offers presenting alternative terms and conditions or commercial items for satisfying the requirements of this solicitation. Each offer submitted will be evaluated separately.
+(e) *Multiple offers.* Offerors are encouraged to submit multiple offers presenting alternative terms and conditions, including alternative line items (provided that the alternative line items are consistent with subpart 4.10 of the Federal Acquisition Regulation), or alternative commercial items for satisfying the requirements of this solicitation. Each offer submitted will be evaluated separately.
 
 (f) *Late submissions, modifications, revisions, and withdrawals of offers.* (1) Offerors are responsible for submitting offers, and any modifications, revisions, or withdrawals, so as to reach the Government office designated in the solicitation by the time specified in the solicitation. If no time is specified in the solicitation, the time for receipt is 4:30 p.m., local time, for the designated Government office on the date that offers or revisions are due.
 

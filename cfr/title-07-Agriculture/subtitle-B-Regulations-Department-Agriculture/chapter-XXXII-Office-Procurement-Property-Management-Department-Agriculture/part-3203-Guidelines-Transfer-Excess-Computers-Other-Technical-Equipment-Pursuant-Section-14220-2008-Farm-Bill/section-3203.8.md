@@ -1,0 +1,3 @@
+##### § 3203.8 Costs. #####
+
+The designated organization must pay any costs associated with packaging and transportation of the property unless it has made other arrangements. The designated organization must remove property from the USDA agency's premises within 15 calendar days after being notified that the property is available for pickup, unless otherwise coordinated with the USDA agency. If the recipient decides prior to picking up or removing the property that it no longer wants the property, it must notify the USDA agency that approved the transfer request that the property is no longer needed.

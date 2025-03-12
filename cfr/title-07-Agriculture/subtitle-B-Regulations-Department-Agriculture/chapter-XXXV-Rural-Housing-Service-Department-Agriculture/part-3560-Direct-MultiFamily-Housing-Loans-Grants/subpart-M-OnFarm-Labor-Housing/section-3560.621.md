@@ -1,0 +1,3 @@
+##### § 3560.621 Loan closing. #####
+
+Applicants for on-farm labor housing loans must execute an Agency-approved loan agreement. In addition, if determined appropriate by the Agency, on-farm labor housing loans made on or after the effective date of this regulation may be subject to the restrictive-use provisions as stated in § 3560.72(a)(2)(ii). All other on-farm labor housing loans are subject to the restrictive-use provisions contained in their loan documents and as outlined in subpart N of this regulation.

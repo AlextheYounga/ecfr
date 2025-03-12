@@ -1,0 +1,3 @@
+##### § 1260.176 Adjustment of accounts. #####
+
+Whenever the Board or the Department determines that money is due the Board or that money is due any person from the Board, such person shall be notified of the amount due. The person shall then remit any amount due the Board by the next date for remitting assessments as provided in § 1260.172. Overpayments shall be credited to the account of the person remitting the overpayment and shall be applied against amounts due in succeeding months except that the Board shall make prompt payment when an overpayment cannot be adjusted by a credit.

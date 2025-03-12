@@ -1,0 +1,3 @@
+##### § 780.1 General. #####
+
+This part sets forth rules applicable to appealability reviews, reconsiderations, appeals and alternative dispute resolution procedures comprising in aggregate the informal appeals process of FSA. FSA will apply these rules to facilitate and expedite participants' submissions and FSA reviews of documentary and other evidence material to resolution of disputes arising under agency program regulations.

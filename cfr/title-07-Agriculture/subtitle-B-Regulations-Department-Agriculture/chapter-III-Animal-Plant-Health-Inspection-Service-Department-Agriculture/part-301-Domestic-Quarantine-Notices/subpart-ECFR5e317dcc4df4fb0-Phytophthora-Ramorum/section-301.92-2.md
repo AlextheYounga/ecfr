@@ -1,0 +1,31 @@
+##### § 301.92-2 Restricted, regulated, and associated articles; lists of proven hosts and associated plant taxa. #####
+
+(a) *Restricted articles.* The following are restricted articles:
+
+(1) Bark chips or mulch3 located in a quarantined area and that are proven host plant taxa listed in paragraph (d) of this section.
+
+3 Bark chips or mulch of species listed in paragraph (d) of this section and that are marked with an asterisk (\*) are not restricted articles.
+
+(2) Forest stock located or grown in a quarantined area and that are proven host plant taxa or associated plant taxa listed in paragraph (d) or (e) of this section.
+
+(3) Any other product or article that an inspector determines to present a risk of spreading *Phytophthora ramorum*, if an inspector notifies the person in possession of the product or article that it is a restricted article.
+
+(b) *Regulated articles.* The following are regulated articles:
+
+(1) Nursery stock, decorative trees without roots, unprocessed wood and wood products, and plant products, including firewood, logs, lumber,4 wreaths, garlands, and greenery of proven host plant taxa listed in paragraph (d) of this section.
+
+4 Firewood, logs, and lumber of species listed in paragraph (d) of this section and that are marked with an asterisk (\*) are not regulated articles.
+
+(2) Soil and growing media.
+
+(3) Any other product or article that an inspector determines to present a risk of spreading *Phytophthora ramorum* if an inspector notifies the person in possession of the product or article that it is subject to the restrictions in the regulations.
+
+(c) *Associated articles.* The following are associated articles: Nursery stock of associated plant taxa listed in paragraph (e) of this section.
+
+(d) *Proven host plant taxa.* The following are proven hosts of *Phytophthora ramorum:*
+
+\**Acer macrophyllum* Bigleaf maple*Acer pseudoplatanus* Planetree maple\**Adiantum aleuticum* Western maidenhair fern\**Adiantum jordanii* California maidenhair fern\**Aesculus californica* California buckeye*Aesculus hippocastanum* horse chestnut\**Arbutus menziesii* Madrone\**Arctostaphylos manzanita* Manzanita\**Calluna vulgaris* Scotch heather\**Camellia* spp. Camellia - all species, hybrids and cultivars\**Castanea sativa* Sweet chestnut*Fagus sylvatica* European beech\**Frangula californica* (≡*Rhamnus californica*) California coffeeberry\**Frangula purshiana* (≡*Rhamnus purshiana*) Cascara*Fraxinus excelsior* European ash\**Griselinia littoralis* Griselinia\**Hamamelis virginiana* Witch hazel\**Heteromeles arbutifolia* Toyon\**Kalmia* spp. Kalmia - includes all species, hybrids, and cultivars\**Laurus nobilis* Bay laurel*Lithocarpus densiflorus* Tanoak\**Lonicera hispidula* California honeysuckle\**Maianthemum racemosum* (=*Smilacina racemosa*) False Solomon's seal\**Michelia doltsopa* Michelia\**Parrotia persica* Persian ironwood\**Photinia fraseri* Red tip photinia\**Pieris* spp. Pieris - includes all species, hybrids, and cultivars\**Pseudotsuga menziesii* var. *menziesii* and all nursery-grown *P. menziesii* Douglas fir*Quercus agrifolia* Coast live oak*Quercus cerris* European turkey oak*Quercus chrysolepis* Canyon live oak*Quercus falcata* Southern red oak\**Quercus ilex* Holm oak*Quercus kelloggii* California black oak*Quercus parvula* var. *shrevei* and all nursery grown *Q. parvula* Shreve's oak\**Rhododendron* spp. Rhododendron (including azalea) - includes all species, hybrids, and cultivars\**Rosa gymnocarpa* Wood rose\**Salix caprea* Goat willow\**Sequoia sempervirens* Coast redwood\**Syringa vulgaris* Lilac\**Taxus baccata* European yew\**Trientalis latifolia* Western starflower\**Umbellularia californica* California bay laurel, pepperwood, Oregon myrtle\**Vaccinium ovatum* Evergreen huckleberry\**Viburnum* spp. Viburnum-all species, hybrids, and cultivars
+
+(e) *Associated plant taxa.* The following plant taxa are considered to be associated with *Phytophthora ramorum:*
+
+*Abies concolor* White fir*Abies grandis* Grand fir*Abies magnifica* Red fir*Acer circinatum* Vine maple*Acer davidii* Striped bark maple*Acer laevigatum* Evergreen maple*Arbutus unedo* Strawberry tree*Arctostaphylos columbiana* Manzanita*Arctostaphylos uva-ursi* Kinnikinnick, bearberry*Ardisia japonica* Ardisia*Calycanthus occidentalis* Spicebush*Castanopsis orthacantha* Castanopsis*Ceanothus thyrsiflorus* Blueblossom*Cinnamomum camphora* Camphor tree*Clintonia andrewsiana* Andrew's clintonia bead lily*Cornus kousa* × *Cornus capitata* Cornus Norman Haddon*Corylus cornuta* California hazelnut*Distylium myricoides* Myrtle-leafed distylium*Drimys winteri* Winter's bark*Dryopteris arguta* California wood fern*Eucalyptus haemastoma* Scribbly gum*Euonymus kiautschovicus* Spreading euonymus*Fraxinus latifolia* Oregon ash*Gaultheria shallon* Salal, Oregon wintergreen*Hamamelis mollis* Chinese witch-hazel*Hamamelis* × *intermedia* (*H. mollis* & *H. japonica*) Hybrid witchhazel*Ilex purpurea* Oriental holly*Leucothoe axillaris* Fetter-bush, dog hobble*Leucothoe fontanesiana* Drooping leucothoe*Loropetalum chinense* Lorapetalum*Magnolia grandiflora* Southern magnolia*Magnolia stellata* Star magnolia*Magnolia* × *loebneri* Loebner magnolia*Magnolia* × *soulangeana* Saucer magnolia*Manglietia insignis* Red lotus tree*Michelia maudiae* Michelia*Michelia wilsonii* Michelia*Nerium oleander* Oleander*Nothofagus obliqua* Roble beech*Osmanthus decorus* (≡*Phillyrea decora;* ≡*P. vilmoriniana*) Osmanthus*Osmanthus delavayi* Delavay Osmanthus, Delavay tea olive*Osmanthus fragrans* Sweet olive*Osmanthus heterophyllus* Holly olive*Osmorhiza berteroi* Sweet Cicely*Parakmeria lotungensis* Eastern joy lotus tree*Pittosporum undulatum* Victorian box*Prunus laurocerasus* English laurel, cherry laurel*Prunus lusitanica* Portuguese laurel cherry*Pyracantha koidzumii* Formosa firethorn*Quercus acuta* Japanese evergreen oak*Quercus petraea* Sessile oak*Quercus rubra* Northern red oak*Rosa* (specific cultivars) Royal Bonica (tagged: “MEImodac”) Pink Meidiland (tagged: “MEIpoque”) Pink Sevillana (tagged: “MEIgeroka”)*Rosa rugosa* Rugosa rose*Rubus spectabilis* Salmonberry*Schima wallichii* Chinese guger tree*Taxus brevifolia* Pacific yew*Taxus* × *media* Yew*Torreya californica* California nutmeg*Toxicodendron diversilobum* Poison oak*Vancouveria planipetala* Redwood ivy

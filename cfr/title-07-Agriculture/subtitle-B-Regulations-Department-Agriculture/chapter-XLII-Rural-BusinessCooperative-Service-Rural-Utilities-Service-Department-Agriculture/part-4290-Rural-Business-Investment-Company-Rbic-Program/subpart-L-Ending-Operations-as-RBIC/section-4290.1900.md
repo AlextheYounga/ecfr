@@ -1,0 +1,3 @@
+##### § 4290.1900 Termination of participation as a RBIC. #####
+
+You may not terminate your participation as a RBIC without the Secretary's prior written approval. Your request for approval must be accompanied by an offer of immediate repayment of all of your outstanding Leverage (including any prepayment penalties thereon), or by a plan satisfactory to the Secretary for the orderly liquidation of the RBIC.

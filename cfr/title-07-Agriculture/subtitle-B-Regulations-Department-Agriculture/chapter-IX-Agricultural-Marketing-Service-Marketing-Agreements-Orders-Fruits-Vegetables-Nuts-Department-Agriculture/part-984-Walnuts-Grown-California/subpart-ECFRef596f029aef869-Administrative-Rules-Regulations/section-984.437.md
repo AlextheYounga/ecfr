@@ -1,0 +1,9 @@
+##### § 984.437 Methods for proposing names of additional candidates to be included on walnut growers' nomination ballots. #####
+
+(a) With regard to Board grower member positions specified in § 984.35(a)(5) and (b)(6), any ten or more such growers who marketed an aggregate of 500 or more tons of walnuts through handlers who did not handle 35% or more of the crop during the marketing year preceding the year in which Board nominations are held, may petition the Board to include on the nomination ballot the name of an eligible candidate for this position, and the name of an eligible candidate to serve as his or her alternate. The names of the eligible candidates proposed pursuant to this paragraph shall be included on the ballot together with the names of any incumbents who are willing to continue serving on the Board.
+
+(b) Any ten or more growers eligible to serve in the grower member positions specified in § 984.35(a)(3) and (4) or § 984.35(b)(4) and (5) and who marketed an aggregate of 500 or more tons of walnuts through handlers who did not handle 35% or more of the crop during the marketing year preceding the year in which Board nominations are held, may petition the Board to include on the nomination ballot for a district the name of an eligible candidate for the applicable position, and the name of an eligible candidate to serve as his or her alternate. The names of the eligible candidates proposed pursuant to this paragraph shall be included on the ballot together with the names of any incumbents who are willing to continue serving on the Board.
+
+(c) Petitions made pursuant to paragraphs (a) and (b) of this section shall be on forms supplied by the Board and filed no later than April 1 of the nomination year.
+
+[41 FR 54476, Dec. 14, 1976, as amended at 73 FR 73997, Dec. 5, 2008; 74 FR 9047, Mar. 2, 2009]

@@ -1,0 +1,3 @@
+##### § 1250.537 Confidentiality. #####
+
+All information obtained by officers and employees of the Department of Agriculture, the Egg Board, or any person under contract by the Egg Board or otherwise acting on behalf of the Egg Board from the books, records, and reports of persons subject to this subpart, and all information with respect to refunds of assessments made to individual producers, shall be kept confidential in the manner and to the extent provided in § 1250.353 of the Order.

@@ -1,0 +1,3 @@
+##### § 1160.104 United States. #####
+
+*United States* means the 48 contiguous states in the continental United States and the District of Columbia, except that United States means the 50 states of the United States of America and the District of Columbia under the following provisions: the petition and review under section 1999K of the Act, enforcement under section 1999L of the Act, and investigations and power to subpoena under section 1999M of the Act.

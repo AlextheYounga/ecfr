@@ -1,0 +1,3 @@
+##### § 610.5 Interdisciplinary assistance. #####
+
+Technical assistance is based on the principle that soil, water, plant, and related resources are interdependent and must be managed accordingly. Soil conservationists integrate the various technical fields in providing for the conservation of land and water resources. Staff scientists and specialists develop conservation standards, prepare necessary specifications, provide training, and review work performance, NRCS uses consultants for conservation problems that require special expertise.

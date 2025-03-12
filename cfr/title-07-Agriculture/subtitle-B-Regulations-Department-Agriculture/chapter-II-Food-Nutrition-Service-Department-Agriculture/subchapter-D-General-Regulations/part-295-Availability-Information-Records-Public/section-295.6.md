@@ -1,0 +1,3 @@
+##### § 295.6 Public inspection and copying. #####
+
+5 U.S.C. 552(a)(2) requires that certain informational materials be made available for public inspection and copying. Such materials maintained by FNS may be inspected and copied during regular office hours (currently 8:30 a.m. to 5 p.m.). Interested parties may submit requests to the FNS Records Management Officer, Information Technology Division, 3101 Park Center Drive, Alexandria, VA 22302-1500.

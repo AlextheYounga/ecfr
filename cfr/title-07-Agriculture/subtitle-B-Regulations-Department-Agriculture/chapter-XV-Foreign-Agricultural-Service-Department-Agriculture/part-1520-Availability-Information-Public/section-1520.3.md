@@ -1,0 +1,3 @@
+##### § 1520.3 Indexes/Record systems. #####
+
+5 U.S.C. 552(a)(2) required that each agency publish or otherwise make available a current index of all materials for public inspection and copying. The Foreign Agricultural Service maintains the following record systems. FAS regulations, manuals, and notices; attache reports; general publications; and statements of policy and procedures for various FAS programs. Copies of the FAS index may be obtained free of charge by contacting the office specified in § 1520.2.

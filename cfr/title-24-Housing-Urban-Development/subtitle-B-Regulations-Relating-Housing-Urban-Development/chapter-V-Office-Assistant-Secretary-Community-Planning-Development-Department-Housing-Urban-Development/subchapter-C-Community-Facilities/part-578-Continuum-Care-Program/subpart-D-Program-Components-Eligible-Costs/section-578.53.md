@@ -1,7 +1,5 @@
 ##### § 578.53 Supportive services. #####
 
-Link to an amendment published at 81 FR 90660, December 14, 2016.
-
 (a) *In general.* Grant funds may be used to pay the eligible costs of supportive services that address the special needs of the program participants. If the supportive services are provided in a supportive service facility not contained in a housing structure, the costs of day-to-day operation of the supportive service facility, including maintenance, repair, building security, furniture, utilities, and equipment are eligible as a supportive service.
 
 (1) Supportive services must be necessary to assist program participants obtain and maintain housing.
@@ -88,6 +86,8 @@ Link to an amendment published at 81 FR 90660, December 14, 2016.
 
 (C) The payment of rental application fees.
 
+(iii) Housing counseling, as defined in § 5.100, that is funded with or provided in connection with grant funds must be carried out in accordance with § 5.111. When recipients or subrecipients provide housing services to eligible persons that are incidental to a larger set of holistic case management services, these services do not meet the definition of Housing counseling, as defined in § 5.100, and therefore are not required to be carried out in accordance with the certification requirements of § 5.111
+
 (9) *Legal services.* Eligible costs are the fees charged by licensed attorneys and by person(s) under the supervision of licensed attorneys, for advice and representation in matters that interfere with the homeless individual or family's ability to obtain and retain housing.
 
 (i) Eligible subject matters are child support; guardianship; paternity; emancipation; legal separation; orders of protection and other civil remedies for victims of domestic violence, dating violence, sexual assault, and stalking; appeal of veterans and public benefit claim denials; landlord tenant disputes; and the resolution of outstanding criminal warrants.
@@ -153,3 +153,5 @@ Link to an amendment published at 81 FR 90660, December 14, 2016.
 (i) The costs of labor or supplies, and materials incurred by the recipient or subrecipient in directly providing supportive services to program participants; and
 
 (ii) The salary and benefit packages of the recipient and subrecipient staff who directly deliver the services.
+
+[77 FR 45442, July 31, 2012, as amended at 81 FR 90660, Dec. 14, 2016]

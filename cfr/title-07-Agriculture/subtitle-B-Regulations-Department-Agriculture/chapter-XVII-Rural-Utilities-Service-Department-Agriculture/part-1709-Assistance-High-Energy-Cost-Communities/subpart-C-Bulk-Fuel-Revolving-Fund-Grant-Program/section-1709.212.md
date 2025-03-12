@@ -1,0 +1,3 @@
+##### § 1709.212 Application review. #####
+
+The Agency will review all applications to determine whether the applicant is eligible and whether the application is timely, complete and sufficiently responsive to the requirements set forth in the grant announcement to allow for an informed review. Failure to address any of the required evaluation criteria or to submit all required forms will disqualify the proposal. The Agency reserves the right to contact the applicant to clarify information contained in the proposal to resolve issues related to eligibility and the grant request. Applications that are timely, complete, and responsive will be forwarded for further evaluation. Applications that are late, incomplete, or non-responsive will be rejected.

@@ -1,0 +1,5 @@
+##### § 926.17 Reporting requirements. #####
+
+Handlers, producer-handlers, importers, processors, and brokers not subject to the Federal cranberry marketing order (7 CFR part 926) shall be required to submit four times annually, for each fiscal period reports regarding sales, acquisitions, movement for further processing, and dispositions of fresh cranberries and cranberry products using forms supplied by the Committee. An Importer Cranberry Inventory Report Form shall be required to be completed by importers and brokers. This report shall indicate the name, address, variety acquired, the amount sold to and received by brokers, processors, and handlers, and the beginning and ending inventories of cranberries held by the importer for each applicable fiscal period. A Handler/Processor Cranberry Inventory Report Form shall be completed by handlers, producer-handlers, and processors and shall indicate the name, address, variety acquired, domestic/foreign sales, acquisitions, and beginning and ending inventories.
+
+Effective Date Note:At 71 FR 78046, Dec. 28, 2006, § 926.17 was suspended indefinitely, effective Dec. 29, 2006.

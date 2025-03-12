@@ -1,0 +1,3 @@
+##### § 1260.115 Qualified State beef council. #####
+
+*Qualified State beef council* means a beef promotion entity that is authorized by State statute or a beef promotion entity organized and operating within a State that receives voluntary assessments or contributions; conducts beef promotion, research, and consumer and industry information programs; and that is certified by the Board pursuant to this subpart as the beef promotion entity in such State.

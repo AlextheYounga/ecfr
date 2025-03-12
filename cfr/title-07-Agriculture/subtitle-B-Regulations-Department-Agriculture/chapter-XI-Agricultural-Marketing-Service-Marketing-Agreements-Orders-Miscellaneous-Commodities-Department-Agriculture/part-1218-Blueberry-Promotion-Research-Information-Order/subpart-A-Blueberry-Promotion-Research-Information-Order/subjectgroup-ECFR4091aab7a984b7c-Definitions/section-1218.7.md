@@ -1,0 +1,3 @@
+##### § 1218.7 First handler. #####
+
+*First handler* means any person, (excluding a common or contract carrier), receiving blueberries from producers and who as owner, agent, or otherwise ships or causes blueberries to be shipped as specified in the Order. This definition includes those engaged in the business of buying, selling and/or offering for sale; receiving; packing; grading; marketing; or distributing blueberries in commercial quantities. This definition includes a retailer, except a retailer who purchases or acquires from, or handles on behalf of any producer, blueberries. The term first handler includes a producer who handles or markets blueberries of the producer's own production.

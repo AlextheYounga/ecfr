@@ -1,0 +1,3 @@
+##### § 985.22 Term of office. #####
+
+The term of office of each member and alternate member of the Committee shall be for two calendar years: *Provided,* That one-half of the initial members and alternates shall serve for terms ending December 31, 1980, and one-half of the initial members and alternates shall serve for terms ending December 31, 1981. Members and alternates shall serve in such capacity for the term of office for which they are selected and have qualified and until their respective successors are selected and have qualified. No member shall serve more than two consecutive terms as member and no alternate shall serve more than two consecutive terms as alternate.

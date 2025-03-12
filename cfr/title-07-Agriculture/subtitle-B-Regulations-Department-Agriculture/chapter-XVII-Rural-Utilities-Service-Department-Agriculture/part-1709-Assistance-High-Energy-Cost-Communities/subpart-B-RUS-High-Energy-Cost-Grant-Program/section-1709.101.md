@@ -1,0 +1,3 @@
+##### § 1709.101 Purpose. #####
+
+This subpart establishes policies and procedures for the Rural Utilities Service (RUS) High Energy Cost Grant Program under section 19(a)(1) of the Rural Electrification Act of 1936, as amended (7 U.S.C. 918a(a)(1)). The purpose of this grant program is to assure access to adequate and reliable energy services for persons in extremely high energy cost communities by providing financial assistance to acquire, construct, extend, upgrade, and otherwise improve energy generation, transmission, or distribution facilities serving the community.

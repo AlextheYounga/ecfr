@@ -1,0 +1,3 @@
+##### § 1219.37 Alternate members. #####
+
+An alternate member of the Board, during the absence of the member for whom the person is the alternate, shall act in the place and stead of such member and perform such duties as assigned. In the event of the death, removal, resignation, or disqualification of any member, the alternate for that member shall automatically assume the position of said member. In the event that both a member of the Board and the alternate are unable to attend a meeting, the Board may not designate any other alternate to serve in such member's or alternate's place and stead for the meeting.

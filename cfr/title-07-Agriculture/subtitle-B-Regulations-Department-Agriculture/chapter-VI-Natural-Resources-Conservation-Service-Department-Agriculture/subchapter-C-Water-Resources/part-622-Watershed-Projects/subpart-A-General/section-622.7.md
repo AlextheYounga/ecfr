@@ -1,0 +1,3 @@
+##### § 622.7 Notification under Executive Order 12372. #####
+
+This program is covered under Executive Order 12372, “Intergovernmental Review of Federal Programs” and 7 CFR Part 3015, Subpart V, “Intergovernmental Review of the Department of Agriculture Programs and Activities.” State processes or directly affected State, areawide, regional and local officials and entities have 60 days for comment starting from the date of submission of the application to the State Single Point of Contact.

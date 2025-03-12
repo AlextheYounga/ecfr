@@ -1,0 +1,3 @@
+##### § 15f.11 Where must I file a hearing request and what happens to it? #####
+
+If you desire a hearing, you must file a request for a hearing with the Docketing Clerk, citing the docket number assigned to your Section 741 Complaint Request. When the Docketing Clerk receives your request for a hearing, your Section 741 Complaint Request will be assigned to an ALJ. The Docketing Clerk will send a notice of your hearing request to OCR and the agency, notifying them of the docket number and the assigned ALJ. The Docketing Clerk also will send you a notice of receipt of the hearing request that will inform you of the name of the assigned ALJ.

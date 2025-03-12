@@ -1,0 +1,3 @@
+##### § 58.32 Superseded certificates or reports. #####
+
+When any inspection or grading certificate or report is superseded in accordance with this part, such certificate or report shall become null and void and, after the effective time of the supersedure, shall no longer represent the class, grade, quality, quantity, or condition described therein. If the original and all copies of such superseded certificate or report are not returned to the inspector or grader issuing the reinspection or regrading or appeal inspection or grading certificate or report, the inspector or grader shall notify such persons as he considers necessary to prevent fraudulent use of the superseded certificate or report.

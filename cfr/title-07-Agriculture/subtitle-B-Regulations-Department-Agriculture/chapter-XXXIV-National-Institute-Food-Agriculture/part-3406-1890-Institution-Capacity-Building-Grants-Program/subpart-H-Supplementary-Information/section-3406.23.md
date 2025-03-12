@@ -1,0 +1,3 @@
+##### § 3406.23 Access to peer review information. #####
+
+After final decisions have been announced, NIFA will, upon request, inform the principal investigator/project director of the reasons for its decision on a proposal. Verbatim copies of summary reviews, not including the identity of the peer reviewers, will be made available to the respective principal investigator/project directors upon specific request.

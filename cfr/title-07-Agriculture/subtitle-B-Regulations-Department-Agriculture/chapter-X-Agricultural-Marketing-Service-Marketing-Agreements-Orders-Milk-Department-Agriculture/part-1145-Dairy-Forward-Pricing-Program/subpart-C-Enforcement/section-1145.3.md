@@ -1,0 +1,3 @@
+##### § 1145.3 Enforcement. #####
+
+A handler may not require participation in a forward pricing contract as a condition of the handler receiving milk from a producer or cooperative association of producers. USDA will investigate all complaints made by producers or cooperative associations alleging coercion by handlers to enter into forward contracts and based on the results of the investigation will take appropriate action.

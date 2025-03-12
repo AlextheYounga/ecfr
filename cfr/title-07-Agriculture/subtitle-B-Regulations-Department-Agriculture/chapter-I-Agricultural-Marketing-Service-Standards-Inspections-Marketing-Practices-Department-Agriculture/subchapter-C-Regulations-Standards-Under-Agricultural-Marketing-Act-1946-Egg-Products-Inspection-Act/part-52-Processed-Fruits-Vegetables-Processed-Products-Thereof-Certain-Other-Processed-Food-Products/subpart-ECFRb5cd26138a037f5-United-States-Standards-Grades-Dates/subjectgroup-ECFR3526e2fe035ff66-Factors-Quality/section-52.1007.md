@@ -1,0 +1,11 @@
+##### § 52.1007 Uniformity of size. #####
+
+(a) *General.* The factor of uniformity of size applies only to whole and pitted styles. The factor of uniformity of size in the styles of date pieces and macerated dates is not based on any detailed requirements and is not scored; the other three factors (color, absence of defects, and character is applicable) are scored and the total is multiplied by 100 and divided by 90, dropping any fractions to determine the total score.
+
+(b) (*A*) *classification.* Whole or pitted dates that are practically uniform in size may be given a score of 9 or 10 points. “Practically uniform in size” means that not more than a total of 10 percent, by weight, of the whole or pitted dates may be conspicuously larger or smaller than the approximate average size of the dates in the container.
+
+(c) (*B*) *classification.* If the whole or pitted dates or whole dry dates for processing are reasonably uniform in size, a score of 8 points may be given. Dates that fall into this classification shall not be graded above U.S. Grade B or U.S. Choice or U.S. Grade B (Dry) or U.S. Choice (Dry), whichever is applicable, regardless of the total score for the product (this is a limiting rule). “Reasonably uniform in size” means that not more than a total of 15 percent, by weight, of the whole or pitted dates may be conspicuously larger or smaller than the approximate average size of the dates in the container.
+
+(d) (*C*) *classification.* If the whole or pitted dates or whole dry dates for processing are fairly uniform in size, a score of 7 points may be given. Dates that fall into this classification shall not be graded above U.S. Grade C or U.S. Standard or U.S. Grade C (Dry) or U.S. Standard (Dry), whichever is applicable, regardless of the total score for the product (this is a limiting rule). “Fairly uniform in size” means that not more than a total of 20 percent, by weight, of the whole or pitted dates may be conspicuously larger or smaller than the approximate average size of the dates in the container.
+
+(e) (*SStd*) *classification.* Whole or pitted dates or whole dry dates for processing that fail to meet the requirements of paragraph (d) of this section may be given a score of 0 to 6 points and shall not be graded above Substandard, regardless of the total score for the product (this is a limiting rule).

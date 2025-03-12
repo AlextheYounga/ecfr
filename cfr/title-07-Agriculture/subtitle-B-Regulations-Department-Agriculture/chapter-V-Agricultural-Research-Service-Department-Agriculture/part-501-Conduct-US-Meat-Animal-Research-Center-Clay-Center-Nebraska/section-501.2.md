@@ -1,0 +1,3 @@
+##### § 501.2 Admission. #####
+
+Admission to the Research Center during “off duty” hours shall be restricted to the main arteries and any deviation therefrom by individuals shall be limited to authorized individuals who may be required to sign a register and display identification documents when requested by a guard or other authorized individuals. “Off duty” hours will be posted at the Research Center. Admission during “duty” hours when the Center is closed to the public in emergency situations will be limited to authorized individuals who may be required to sign a register and display identification documents when requested by a guard or other authorized individual.

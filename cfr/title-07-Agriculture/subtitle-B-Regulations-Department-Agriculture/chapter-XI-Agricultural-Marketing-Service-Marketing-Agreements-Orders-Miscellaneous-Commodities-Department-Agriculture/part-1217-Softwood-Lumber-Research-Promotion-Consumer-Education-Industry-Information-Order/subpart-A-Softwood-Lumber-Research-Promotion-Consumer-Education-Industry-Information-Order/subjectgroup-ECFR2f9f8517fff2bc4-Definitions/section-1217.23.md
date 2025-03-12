@@ -1,0 +1,3 @@
+##### § 1217.23 Research. #####
+
+*Research* means any activity that advances the position of softwood lumber in the marketplace that includes any type of test, study, or analysis designed to advance the image, desirability, use, marketability, sales, product development, or quality of softwood lumber; new applications; improving softwood lumber's position in building and fire codes; softwood lumber product testing and safety; and evaluating the effectiveness of market development and promotion efforts including life cycle studies, forestry, sustainable forest management, environmental preferrability, competitiveness, efficiency, pest and disease control, water quality and other management aspects of forestry and the forests from which softwood lumber originates.

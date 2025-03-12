@@ -1,0 +1,5 @@
+##### § 920.61 Compliance. #####
+
+(a) Except as provided in this part, no person shall handle kiwifruit, the shipment of which has been prohibited by the Secretary in accordance with the provisions of this part; and no person shall handle kiwifruit except in conformity with the provisions of this part and the regulations issued under this part.
+
+(b) For the purpose of checking and verifying reports filed by handlers, the committee, through its duly authorized representatives shall have access to any handler's premises during regular business hours, and shall be permitted at any such times to inspect such premises and any kiwifruit held by such handler, and any and all records of the handler with respect to his or her acquisition, sales, uses and shipments of kiwifruit. Each handler shall furnish all labor and equipment necessary to make such inspections.

@@ -1,0 +1,3 @@
+##### § 1955.22 State supplements. #####
+
+State Supplements will be prepared with the assistance of OGC as necessary to comply with State laws or only as specifically authorized in this regulation to provide guidance to Rural Development officials. State supplements will be submitted to the National Office for post approval in accordance with RD Instruction 2006-B (available in any Rural Development office).

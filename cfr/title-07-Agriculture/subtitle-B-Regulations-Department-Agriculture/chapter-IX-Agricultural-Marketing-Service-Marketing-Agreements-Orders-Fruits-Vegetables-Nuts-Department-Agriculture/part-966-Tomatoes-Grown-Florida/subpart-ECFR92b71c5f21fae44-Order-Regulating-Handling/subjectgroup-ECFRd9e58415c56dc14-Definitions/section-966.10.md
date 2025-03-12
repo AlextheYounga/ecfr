@@ -1,0 +1,3 @@
+##### § 966.10 Grade and size. #####
+
+*Grade* means any one of the established grades of tomatoes and *size* means any one of the established sizes of tomatoes as defined and set forth in U.S. Standards for Fresh Tomatoes (§§ 51.1855 to 51.1877 of this title or U.S. Consumer Standards for Fresh Tomatoes (§§ 51.1900 to 51.1913 of this title), both issued by the United States Department of Agriculture, or amendments thereto, or modifications thereof, or variations based thereon recommended by the committee and approved by the Secretary.

@@ -1,0 +1,3 @@
+##### § 622.21 State agency approval. #####
+
+The governor or designated State agency will approve or disapprove the application. If disapproved, no further action is required of NRCS. If approved or not disapproved within 45 days, the application shall be sent to the NRCS state conservationist. After the state conservationist has determined that the application is legally valid, he will notify the sponsor of receipt of the application. If found not legally valid, the state conservationist will return it to the originator with an opinion.

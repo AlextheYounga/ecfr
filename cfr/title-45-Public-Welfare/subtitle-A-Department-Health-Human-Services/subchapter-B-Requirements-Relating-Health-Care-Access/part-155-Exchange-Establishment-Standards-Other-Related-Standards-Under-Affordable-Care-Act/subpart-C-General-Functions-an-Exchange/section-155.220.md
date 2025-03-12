@@ -1,7 +1,5 @@
 ##### § 155.220 Ability of States to permit agents and brokers to assist qualified individuals, qualified employers, or qualified employees enrolling in QHPs. #####
 
-Link to an amendment published at 81 FR 94176, Dec. 22, 2016.
-
 (a) *General rule.* A State may permit agents and brokers to -
 
 (1) Enroll individuals, employers or employees in any QHP in the individual or small group market as soon as the QHP is offered through an Exchange in the State;
@@ -30,11 +28,21 @@ Link to an amendment published at 81 FR 94176, Dec. 22, 2016.
 
 (D) Display all QHP data provided by the Exchange;
 
-(E) Maintain audit trails and records in an electronic format for a minimum of ten years;
+(E) Maintain audit trails and records in an electronic format for a minimum of ten years and cooperate with any audit under this section;
 
-(F) Provide consumers with the ability to withdraw from the process and use the Exchange Web site described in § 155.205(b) instead at any time; and
+(F) Provide consumers with the ability to withdraw from the process and use the Exchange Web site described in § 155.205(b) instead at any time;
 
-(G) For the Federally-facilitated Exchange, prominently display a standardized disclaimer provided by HHS, and provide a Web link to the Exchange Web site.
+(G) For the Federally-facilitated Exchange, prominently display a standardized disclaimer provided by HHS, and provide a Web link to the Exchange Web site; and
+
+(H) Differentially display all standardized options prominently and in accordance with the requirements under § 155.205(b)(1) in a manner consistent with that adopted by HHS for display on the Federally-facilitated Exchange Web site and with standards defined by HHS, unless HHS approves a deviation;
+
+(I) Prominently display information provided by HHS pertaining to a consumer's eligibility for advance payments of the premium tax credit or cost-sharing reductions;
+
+(J) Allow the consumer to select an amount for advance payments of the premium tax credit, if applicable, and make related attestations in accordance with § 155.310(d)(2);
+
+(K) Demonstrate operational readiness and compliance with applicable requirements prior to the agent or broker's Internet Web site being used to complete the QHP selection; and
+
+(L) HHS may immediately suspend the agent or broker's ability to transact information with the Exchange if HHS discovers circumstances that pose unacceptable risk to Exchange operations or Exchange information technology systems until the incident or breach is remedied or sufficiently mitigated to HHS's satisfaction.
 
 (ii) When an Internet Web site of an agent or broker is used to complete the Exchange eligibility application, at a minimum, the Internet Web site must:
 
@@ -58,7 +66,7 @@ Link to an amendment published at 81 FR 94176, Dec. 22, 2016.
 
 (D) Terminate the agent or broker's access to its Web site if HHS determines that the agent or broker is in violation of the provisions of this section and/or HHS terminates any required agreement with the agent or broker;
 
-(E) Report to HHS and applicable State departments of insurance any potential material breach of the standards in paragraphs (c) and (d) of this section, or the agreement entered into pursuant to § 155.260(b), by the agent or broker accessing the Internet Web site, should it become aware of any such potential breach.
+(E) Report to HHS and applicable State departments of insurance any potential material breach of the standards in paragraphs (c) and (d) of this section, or the agreement entered into under § 155.260(b), by the agent or broker accessing the Internet Web site, should it become aware of any such potential breach. An agent or broker that provides access to its Web site to complete the QHP selection or the Exchange eligibility application or ability to transact information with HHS to another agent or broker Web site is responsible for ensuring compliance with applicable requirements in paragraph (c)(3) of this section for any Web pages of the other agent's or broker's Web site that assist consumers, applicants, qualified individuals, and enrollees in applying for APTC and CSRs for QHPs, or in completing enrollment in QHPs, offered in the Exchanges.
 
 (F) When an Internet Web site of an agent or broker is used to complete the Exchange eligibility application, obtain HHS approval verifying that all requirements in this section are met.
 
@@ -136,7 +144,7 @@ Link to an amendment published at 81 FR 94176, Dec. 22, 2016.
 
 (2) Standards of conduct. An individual or entity described in paragraph (j)(1) of this section must -
 
-(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading or coercive, or discriminates based on race, color, national origin, disability, age, sex, gender identity, or sexual orientation;
+(i) Provide consumers with correct information, without omission of material fact, regarding the Federally-facilitated Exchanges, QHPs offered through the Federally-facilitated Exchanges, and insurance affordability programs, and refrain from marketing or conduct that is misleading (including by having a direct enrollment Web site that HHS determines could mislead a consumer into believing they are visiting *HealthCare.gov*), coercive, or discriminates based on race, color, national origin, disability, age, sex, gender identity, or sexual orientation;
 
 (ii) Provide the Federally-facilitated Exchanges with correct information under section 1411(b) of the Affordable Care Act;
 
@@ -158,4 +166,4 @@ Link to an amendment published at 81 FR 94176, Dec. 22, 2016.
 
 (l) *Application to State-Based Exchanges using a Federal platform.* An agent or broker who enrolls qualified individuals, qualified employers, or qualified employees in coverage in a manner that constitutes enrollment through an State-Based Exchange using a Federal platform, or assists individual market consumers with submission of applications for advance payments of the premium tax credit and cost-sharing reductions through an State-Based Exchange using a Federal platform must comply with all applicable Federally-facilitated Exchange standards in this section.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 80 FR 10865, Feb. 27, 2015; 81 FR 12338, Mar. 8, 2016]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 54134, Aug. 30, 2013; 79 FR 13837, Mar. 11, 2014; 80 FR 10865, Feb. 27, 2015; 81 FR 12338, Mar. 8, 2016; 81 FR 94176, Dec. 22, 2016]Editorial Note:At 78 FR 54134, Aug. 30, 2013, § 155.220 was amended by revising (d)(3); however, the amendment could not be incorporated because there was no regulatory text provided in the amendment for (d)(3).

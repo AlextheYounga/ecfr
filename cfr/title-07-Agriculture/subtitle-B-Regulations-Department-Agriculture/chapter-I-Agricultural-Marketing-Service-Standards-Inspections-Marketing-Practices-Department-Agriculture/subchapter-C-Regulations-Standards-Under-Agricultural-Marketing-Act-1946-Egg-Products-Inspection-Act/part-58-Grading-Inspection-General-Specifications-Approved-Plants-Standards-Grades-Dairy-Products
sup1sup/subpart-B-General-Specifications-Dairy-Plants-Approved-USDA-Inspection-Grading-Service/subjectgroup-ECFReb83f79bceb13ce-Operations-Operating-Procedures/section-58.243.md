@@ -1,0 +1,3 @@
+##### § 58.243 Checking quality. #####
+
+All milk, milk products and dry milk products shall be subject to inspection and analysis by the dairy plant for quality and condition throughout each processing operation. Periodically samples of product and environmental material shall be tested for salmonella. Test results shall be negative when samples are tested for salmonella. Line samples should be taken periodically as an aid to quality control in addition to the regular routine analysis made on the finished products.

@@ -1,0 +1,3 @@
+##### § 52.1841 Product description. #####
+
+Processed Raisins are dried grapes of the Vinifera varieties, such as Thompson Seedless (Sultanina), Muscat of Alexandria, Muscatel Gordo Blanco, Sultana, Black Corinth or White Corinth. The processed raisins are prepared from clean, sound, dried grapes; are properly stemmed and capstemmed except for cluster or uncapstemmed raisins; are properly seeded in seeded styles; are sorted or cleaned, or both; and except for cluster or uncapstemmed raisins, are washed in water to assure a wholesome product.

@@ -1,0 +1,3 @@
+##### § 370.3 Index. #####
+
+Pursuant to the regulations in § 1.4(b) of this title, APHIS will maintain and make available for public inspection and copying a current index providing identifying information regarding the materials required to be published or made available under the Freedom of Information Act (5 U.S.C. 552(a)(2)). Notice is hereby given that publication of this index is unnecessary and impracticable, since the material is voluminous and does not change often enough to justify the expense of publication.

@@ -1,5 +1,7 @@
 ##### § 35.720 Multifamily properties receiving up to $5,000 per unit, and single family properties. #####
 
+Link to an amendment published at 82 FR 4167, Jan. 13, 2017.
+
 Effective September 15, 2000, the requirements of this section shall apply to a multifamily residential property that is receiving an average of up to and including $5,000 per assisted dwelling unit annually in project-based assistance and to a single family residential property that is receiving project-based assistance through the Section 8 Moderate Rehabilitation program, the Project-Based Certificate program, or any other HUD program providing project-based assistance.
 
 (a) *Activities at initial and periodic inspection* - (1) *Visual assessment.* During the initial and periodic inspections, an inspector trained in visual assessment for deteriorated paint surfaces in accordance with procedures established by HUD shall conduct a visual assessment of all painted surfaces in order to identify any deteriorated paint.

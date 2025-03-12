@@ -1,0 +1,7 @@
+##### § 652.38 Scope of decertification. #####
+
+(a) When the technical service provider is a private sector entity or public agency, the decertifying official may decertify the entire organization, including all the individuals identified as authorized to provide technical services under the auspices of such organization. The decertifying official may also limit the scope of decertification, for example, to one or more specifically named individuals identified as authorized to provide technical services under the organization's auspices or to an organizational element of such private sector entity or public agency. The scope of decertification will be set forth in the decertification determination and will be based upon the facts of each decertification action, including whether actions of particular individuals can be imputed to the larger organization.
+
+(b) In cases where specific individuals are decertified only, an entity or public agency must file within 10 calendar days an amended Certification Agreement removing the decertified individual(s) from the Certification Agreement. In addition, the entity or public agency must demonstrate that, to the satisfaction of the Deputy Chief for Programs, the entity or public agency has taken affirmative steps to ensure that the circumstances resulting in decertification have been addressed.
+
+[75 FR 6845, Feb. 12, 2010, as amended at 79 FR 44640, Aug. 1, 2014]

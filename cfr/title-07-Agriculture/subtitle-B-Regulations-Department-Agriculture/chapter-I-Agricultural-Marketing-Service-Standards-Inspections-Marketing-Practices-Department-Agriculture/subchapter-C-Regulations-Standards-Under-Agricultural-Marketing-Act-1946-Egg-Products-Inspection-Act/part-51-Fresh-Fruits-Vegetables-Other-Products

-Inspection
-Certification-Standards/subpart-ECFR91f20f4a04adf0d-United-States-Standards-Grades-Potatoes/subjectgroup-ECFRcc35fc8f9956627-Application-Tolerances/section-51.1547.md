@@ -1,0 +1,3 @@
+##### § 51.1547 Application of tolerances. #####
+
+Individual samples shall have not more than double the tolerances specified, except that at least one defective and one off-size potato may be permitted in any sample: *Provided,* That en route or at destination one-tenth of the samples may contain three times the tolerance permitted for potatoes which are frozen or affected by soft rot or wet breakdown: *And provided further,* That the averages for the entire lot are within the tolerances specified for the grade.

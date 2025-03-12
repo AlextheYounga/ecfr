@@ -1,0 +1,3 @@
+##### § 22.308 Project approval. #####
+
+State and multicounty jurisdictional planning is a State and local prerogative. Federal agencies will be responsive to State rural development strategies and priorities. However, determination of eligibility and feasibility and final approval of individual projects involving Federal funds must remain with the Federal government consistent with the Act and implementing regulations.

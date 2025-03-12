@@ -1,0 +1,3 @@
+##### § 930.48 Research, market development and promotion. #####
+
+The Board, with the approval of the Secretary, may establish or provide for the establishment of production and processing research, market research and development, and/or promotional activities, including paid advertising, designed to assist, improve or promote the efficient production and processing, marketing, distribution, and consumption of cherries subject to this part. The expense of such projects shall be paid from funds collected pursuant to this part and the income from such funds.

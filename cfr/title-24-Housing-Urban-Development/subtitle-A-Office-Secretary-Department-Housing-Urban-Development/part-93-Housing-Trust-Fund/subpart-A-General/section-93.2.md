@@ -1,7 +1,5 @@
 ##### § 93.2 Definitions. #####
 
-Link to an amendment published at 81 FR 90657, Dec. 14, 2016.
-
 *1937 Act* means the United States Housing Act of 1937 (42 U.S.C. 1437 *et seq.*).
 
 *Act* means the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended (12 U.S.C. 4501 *et seq*).
@@ -58,9 +56,13 @@ Link to an amendment published at 81 FR 90657, Dec. 14, 2016.
 
 (4) The grantee must determine whether or not ownership or membership in a cooperative or mutual housing project constitutes homeownership under State law; however, if the cooperative or mutual housing project receives low income housing tax credits, the ownership or membership does not constitute homeownership.
 
+*Homeownership counseling* has the same meaning given the term in 24 CFR 5.100, and is a type of housing counseling.
+
 *Household* means one or more persons occupying a housing unit.
 
 *Housing* includes manufactured housing and manufactured housing lots, permanent housing for disabled homeless persons, single-room occupancy housing, and group homes. Housing does not include emergency shelters (including shelters for disaster victims) or facilities such as nursing homes, convalescent homes, hospitals, residential treatment facilities, correctional facilities, halfway houses, housing for students, or dormitories (including farmworker dormitories).
+
+*Housing counseling* has the meaning given the term in 24 CFR 5.100.
 
 *HUD* means the Department of Housing and Urban Development.
 
@@ -143,3 +145,5 @@ Link to an amendment published at 81 FR 90657, Dec. 14, 2016.
 *Very low-income renter households* means a household whose income is in excess of 30 percent but not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by HUD.
 
 *Very low-income families* means low-income families whose annual incomes are in excess of 30 percent but not greater than 50 percent of the median family income of a geographic area, as determined by HUD with adjustments for smaller and larger families. “Very low-income family” also includes any family that resides in a nonmetropolitan area that does not exceed the poverty line applicable to the family size involved.
+
+[80 FR 5220, Jan. 30, 2015, as amended at 81 FR 90657, Dec. 14, 2016]

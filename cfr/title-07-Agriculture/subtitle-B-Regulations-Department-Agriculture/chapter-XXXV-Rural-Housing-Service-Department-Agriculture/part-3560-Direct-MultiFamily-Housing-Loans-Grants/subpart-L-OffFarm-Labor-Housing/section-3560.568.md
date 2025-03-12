@@ -1,0 +1,3 @@
+##### § 3560.568 Supplemental requirements for seasonal off-farm labor housing. #####
+
+For off-farm labor housing operating on a seasonal basis, the management plan must establish specific opening and closing dates. During the off-season, off-farm labor housing may be used as defined in subpart A of this part under short-term lease provisions. Where rents are charged on a per-unit basis and family income qualifies the household for rental assistance, rental assistance may be used.

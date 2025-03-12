@@ -1,0 +1,3 @@
+##### § 714.44 Recommendation by State committee. #####
+
+A representative of the State committee shall review each claim referred by the county committee. If a claim is sent initially to the State committee, it shall be referred to the appropriate county committee for recommendation as provided in § 714.43 prior to action being taken by the State committee. Any necessary investigation shall be made. The State committee shall recommend approval or disapproval of the claim, attaching a statement giving the reasons for their action, which shall be signed by a representative of the State committee. After recommending approval or disapproval, the claim shall be promptly sent to the Deputy Administrator.

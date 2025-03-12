@@ -1,0 +1,5 @@
+##### § 301.48-3 Notification of designation, and termination of designation, of regulated airports. #####
+
+Upon designating, or terminating the designation of, an airport as regulated, the inspector shall give written notice to the official in charge of the airport that the airport has been designated as a regulated airport or that the designation has been terminated. The inspector shall also give the same information in writing to the official at the airport in charge of each airline or the operator of any other aircraft, which will move a regulated article to any State designated in § 301.48(b). The Administrator shall also give the same information to the State Plant Regulatory Official of each State designated in § 301.48(b) to which any regulated article will move.
+
+[44 FR 24035, Apr. 24, 1979, as amended at 61 FR 32640, June 25, 1996]

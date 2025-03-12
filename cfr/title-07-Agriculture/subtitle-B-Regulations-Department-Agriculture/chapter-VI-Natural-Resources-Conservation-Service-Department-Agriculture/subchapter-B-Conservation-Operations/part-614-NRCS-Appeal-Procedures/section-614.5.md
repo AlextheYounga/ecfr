@@ -1,0 +1,3 @@
+##### § 614.5 Reservation of authority. #####
+
+The Secretary of Agriculture, Chief of NRCS, if applicable, or designee, reserves the right to make a determination at any time on any question arising under the programs covered under this regulation within their respective authority, including reversing or modifying in writing, with sufficient reason given therefore, any program decision or technical determination made by an NRCS official.

@@ -1,0 +1,3 @@
+##### § 4284.930 Preliminary review. #####
+
+The Agency encourages Applicants to contact their State Office well in advance of the application submission deadline, to ask questions and to discuss Applicant and Project eligibility potential. At its option, the Agency may establish a preliminary review deadline in accordance with § 4284.915, so that it may informally assess the eligibility of the application and its completeness. The result of the preliminary review is not binding on the Agency.

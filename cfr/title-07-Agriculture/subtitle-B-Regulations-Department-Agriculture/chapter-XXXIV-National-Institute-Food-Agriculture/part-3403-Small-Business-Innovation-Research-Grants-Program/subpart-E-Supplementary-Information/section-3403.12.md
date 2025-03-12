@@ -1,0 +1,5 @@
+##### § 3403.12 Terms and conditions of grant awards. #####
+
+Within the limit of funds available for such purposes, the Authorized Departmental Officer shall make research project grants to those responsible, eligible applicants whose proposals are judged most meritorious in the announced program areas under the evaluation criteria and procedures set forth in the annual program solicitation. The beginning of the project period shall be no later than September 30 of the Federal fiscal year in which the project is approved for support. All funds granted under this part shall be expended solely for the purpose for which funds are granted in accordance with the approved application and budget, the regulations of this part, the terms and conditions of award, the Federal Acquisition Regulations (48 CFR part 31), and 2 CFR part 200.
+
+[72 FR 20703, Apr. 26, 2007, as amended at 79 FR 75998, Dec. 19, 2014]

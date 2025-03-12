@@ -1,5 +1,7 @@
 ##### § 0.465 Request for copies of materials which are available, or made available, for public inspection. #####
 
+Link to an amendment published at 82 FR 4195, January 13, 2017.
+
 (a) The Commission awards a contract to a commercial duplication firm to make copies of Commission records and offer them for sale to the public. In addition to the charge for copying, the contractor may charge a search fee for locating and retrieving the requested documents from the Commission's files.
 
 Note to paragraph (a):

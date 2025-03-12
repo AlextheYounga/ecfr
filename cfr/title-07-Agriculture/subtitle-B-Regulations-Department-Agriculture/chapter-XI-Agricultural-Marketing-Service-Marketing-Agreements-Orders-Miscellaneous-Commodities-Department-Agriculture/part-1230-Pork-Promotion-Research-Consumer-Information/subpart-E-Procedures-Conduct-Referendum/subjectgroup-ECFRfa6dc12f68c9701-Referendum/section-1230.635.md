@@ -1,0 +1,3 @@
+##### § 1230.635 FSA State office report. #####
+
+Each FSA State office will transmit to the Administrator, FSA, a written summary of the results of the referendum received from all FSA county offices within the State. The summary shall include the information on the referendum results contained in the reports from all county offices within each State and be certified by the FSA State Executive Director. The FSA State office will maintain a copy of the summary where it will be available for public inspection for a period of not less than 12 months.

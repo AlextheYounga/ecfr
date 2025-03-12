@@ -1,0 +1,3 @@
+##### § 1a.3 Persons authorized. #####
+
+Any person who is employed in the Office of Inspector General and who is designated by the Inspector General in accordance with and subject to § 1a.5 and who conducts investigations of alleged or suspected felony criminal violations of statutes administered by the Secretary of Agriculture or any agency of the Department of Agriculture may exercise the authorities listed in and pursuant to § 1a.2.

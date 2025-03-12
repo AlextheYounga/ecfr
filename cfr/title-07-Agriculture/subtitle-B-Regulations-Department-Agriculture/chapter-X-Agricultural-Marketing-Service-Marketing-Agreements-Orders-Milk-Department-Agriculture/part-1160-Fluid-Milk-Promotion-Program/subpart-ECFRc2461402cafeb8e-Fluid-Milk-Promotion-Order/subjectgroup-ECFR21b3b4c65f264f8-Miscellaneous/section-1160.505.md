@@ -1,0 +1,7 @@
+##### § 1160.505 Patents, copyrights, inventions and publications. #####
+
+(a) Any patents, copyrights, trademarks, inventions or publications developed through the use of funds collected under the provisions of this subpart are the property of the United States Government as represented by the Board, and shall, along with any rents, royalties, residual payments, or other income from the rental, sale, leasing, franchising, or other uses of such patents, copyrights, inventions, or publications, inure to the benefit of the Board. Section 1160.502 governs the disposition of all such property upon suspension or termination of this subpart.
+
+(b) Should patents, copyrights, inventions, and publications be developed through the use of funds collected by the Board under this subpart, and funds contributed by another organization or person, ownership and related rights to such patents, copyrights, inventions, and publications shall be determined by the agreement between the Board and the party contributing funds towards the development of such patent, copyright, invention, and publication in a manner consistent with paragraph (a) of this section.
+
+[58 FR 62503, Nov. 29, 1993, as amended at 63 FR 46639, Sept. 2, 1998]

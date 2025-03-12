@@ -1,0 +1,11 @@
+##### § 1788.48 Contract insurance requirements. #####
+
+Contracts entered into between borrowers and contractors, engineers, and architects shall provide that they take out and maintain throughout the contract period insurance of the following types and minimum amounts:
+
+(a) Workers' compensation and employers' liability insurance, as required by law, covering all their employees who perform any of the obligations of the contractor, engineer, and architect under the contract. If any employer or employee is not subject to the workers' compensation laws of the governing state, then insurance shall be obtained voluntarily to extend to the employer and employee coverage to the same extent as though the employer or employee were subject to the workers' compensation laws.
+
+(b) Public liability insurance covering all operations under the contract shall have limits for bodily injury or death of not less than $1 million each occurrence, limits for property damage of not less than $1 million each occurrence, and $1 million aggregate for accidents during the policy period. A single limit of $1 million of bodily injury and property damage is acceptable. This required insurance may be in a policy or policies of insurance, primary and excess including the umbrella or catastrophe form.
+
+(c) Automobile liability insurance on all motor vehicles used in connection with the contract, whether owned, non-owned, or hired, shall have limits for bodily injury or death of not less than $1 million per person and $1 million per occurrence, and property damage limits of $1 million for each occurrence. This required insurance may be in a policy or policies of insurance, primary and excess including the umbrella or catastrophe form.
+
+(d) When a borrower contracts for the installation of major equipment by other than the supplier or for the moving of major equipment from one location to another, the contractor shall furnish the borrower with an installation floater policy. The policy shall cover all risks of damage to the equipment until completion of the installation contract.

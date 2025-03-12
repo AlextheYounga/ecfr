@@ -1,0 +1,5 @@
+##### § 220.19 Suspension, termination and grant closeout procedures. #####
+
+Whenever it is determined that a State agency has materially failed to comply with the provisions of this part, or with FNS guidelines and instructions, FNS may suspend or terminate the Program in whole, or in part, or take any other action as may be available and appropriate. A State agency may also terminate the Program by mutual agreement with FNS. FNS and the State agency shall comply with the provisions of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 subparts B and D and USDA implementing regulations 2 CFR part 400 and part 415 concerning grant suspension, termination and closeout procedures. Furthermore, the State agency or FNSRO were applicable, shall apply these provisions to suspension or termination of the Program in School Food Authorities.
+
+[Amdt. 49, 49 FR 18988, May 4, 1984, as amended at 71 FR 39517, July 13, 2006. Redesignated at 72 FR 61495, Oct. 31, 2007, as amended at 81 FR 66491, Sept. 28, 2016]

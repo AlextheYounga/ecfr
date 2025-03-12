@@ -1,0 +1,3 @@
+##### § 1703.143 Maximum and minimum amounts. #####
+
+Applications for loans under this subpart will be subject to limitations on the proposed amount of loans. The Administrator will establish the maximum amount of a loan available to an applicant under this subpart, by publishing notice of the maximum amount in the Federal Register before the opening of the application window. The minimum amount of a loan is $50,000.

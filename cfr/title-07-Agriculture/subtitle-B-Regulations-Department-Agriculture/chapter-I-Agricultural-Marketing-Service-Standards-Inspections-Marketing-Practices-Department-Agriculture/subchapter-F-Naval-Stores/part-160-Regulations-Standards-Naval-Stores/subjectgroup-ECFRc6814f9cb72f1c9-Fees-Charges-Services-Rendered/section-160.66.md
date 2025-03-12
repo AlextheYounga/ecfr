@@ -1,0 +1,3 @@
+##### § 160.66 Fees for inspection services. #####
+
+The Administrator shall from time to time establish fees and charges for examination, sampling, classification, grading, analysis and certification of naval stores as he may deem fair and reasonable, and commensurate with the cost of the service rendered. Such fees and charges may be announced to the trade in such manner as the Administrator considers practicable.

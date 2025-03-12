@@ -1,0 +1,3 @@
+##### § 2.11 New principles and periodic reviews. #####
+
+In the exercise of authority delegated by the Secretary, the application of new principles of major importance or a departure from principles established by the Secretary should be brought to the attention of the Secretary. General officers are responsible for assuring that periodic reviews are conducted of the activities of the agencies assigned to their direction and supervision, as required by 5 U.S.C. 305.

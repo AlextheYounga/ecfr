@@ -1,0 +1,5 @@
+##### § 1205.328 Alternate members. #####
+
+An alternate member of the Board, during the absence of the member for whom the person is the alternate, shall act in the place and stead of such member and perform such other duties as assigned. In the event of death, removal, resignation or disqualification of a member, the alternate for the member shall act for the member until a successor for such member is selected and qualified. In the event that both a producer member of the Board and the member's alternate are unable to attend a meeting, the Board may designate any other alternate member from the same cotton-producing state or region to serve in such member's place and stead of such meeting. In the event that both an importer member and the member's alternate are unable to attend a meeting, the Board may designate any other importer alternate member to serve in such member's place and stead at such meeting.
+
+[56 FR 64473, Dec. 10, 1991]

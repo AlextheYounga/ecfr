@@ -1,0 +1,3 @@
+##### § 4279.71 Public bodies and nonprofit corporations. #####
+
+Audits will be required of any public body, nonprofit corporation or Indian Tribe that receives a guaranteed loan that meets the thresholds established by 2 CFR part 200, subpart F. Any audit provided by a public body, nonprofit corporation, or Indian Tribe required by this paragraph will be considered adequate to meet the audit requirements of the B&I program for that year.

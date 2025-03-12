@@ -1,0 +1,3 @@
+##### § 1260.213 Removal. #####
+
+If any person appointed under this part fails or refuses to perform his or her duties properly or engages in acts of dishonesty or willful misconduct, the Board or Committee may recommend to the Secretary that that person be removed from office. If the Secretary finds that the recommendation demonstrates adequate cause, the Secretary shall remove the person from office. A person appointed or certified under this part or any employee of the Board or Committee may be removed by the Secretary if the Secretary determines that the person's continued service would be detrimental to the purposes of the Act.

@@ -1,0 +1,3 @@
+##### § 58.226 Portable and stationary bulk bins. #####
+
+Bulk bins shall be constructed of stainless steel, aluminum or other equally corrosion resistant materials, free from cracks, seams and must have an interior surface that is relatively smooth and easily cleanable. All product contact surfaces shall be easily accessible for cleaning. The capacity of each portable and bulk bin shall be limited to permit proper operating procedures such as sampling and daily removal of all product to preclude commingling of different days production.

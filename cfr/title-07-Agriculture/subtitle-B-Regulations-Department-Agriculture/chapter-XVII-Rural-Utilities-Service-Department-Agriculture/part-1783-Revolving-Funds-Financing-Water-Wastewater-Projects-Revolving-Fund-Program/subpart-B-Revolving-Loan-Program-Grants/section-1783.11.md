@@ -1,0 +1,3 @@
+##### § 1783.11 What is the revolving loan fund? #####
+
+The grant recipient shall establish and maintain a revolving loan fund for the purposes set forth in § 1783.12. The revolving loan fund shall be comprised of revolving loan fund grant funds and the grant recipient's contributed funds. All revolving loan fund loans made to loan recipients shall be drawn from the revolving loan fund. All revolving loan fund loans shall be serviced and the revolving loan fund maintained, in accordance with this part and applicable law.

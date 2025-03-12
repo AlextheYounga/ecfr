@@ -1,0 +1,3 @@
+##### § 635.2 Applicability. #####
+
+This part applies to all covered programs administered by the Natural Resources Conservation Service, except for the Highly Erodible Land and Wetland Conservation provisions of Title XII, subtitles B and C of the Food Security Act of 1985, as amended, (16 U.S.C. 3811 *et seq.*). Administration of this part shall be under the supervision of the Chief, except that such authority shall not limit the exercise of authority by State Conservationists of the Natural Resources Conservation Service provided in § 635.6 of this part.

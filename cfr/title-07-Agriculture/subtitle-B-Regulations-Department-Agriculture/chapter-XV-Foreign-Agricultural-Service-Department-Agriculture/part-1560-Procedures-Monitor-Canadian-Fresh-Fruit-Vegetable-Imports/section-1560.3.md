@@ -1,0 +1,3 @@
+##### § 1560.3 Determination of fresh fruit or vegetable. #####
+
+The specific group of articles that will be monitored as a particular fresh fruit or vegetable will be determined based on the practicability of monitoring at the eight digit subheading level of the Harmonized Tariff Schedule of the United States. The determination of practicability will be made by the Administrator taking into account: (a) The availability of reliable volume and price data on imports from Canada and data on U.S. planted acreage, (b) market differentiation for the group of articles, and (c) such other factors as the Administrator determines to be appropriate.

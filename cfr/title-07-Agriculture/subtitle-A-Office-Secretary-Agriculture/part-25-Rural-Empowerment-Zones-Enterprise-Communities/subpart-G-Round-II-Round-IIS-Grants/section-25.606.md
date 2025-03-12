@@ -1,0 +1,5 @@
+##### § 25.606 Financial management and records. #####
+
+(a) In complying with the requirements of 7 CFR parts 3015, 3016, or 3019, as applicable, grantees must submit, in lieu of the forms prescribed therein, the equivalent of such forms prescribed by the Office of Community Development pursuant to this subpart as such may be adapted to the USDA EZ/EC grant program and which may be submitted and retained in electronic form.
+
+(b) Grantees must retain financial records, supporting documents, statistical records and all other records pertinent to the grant for a period of at least 3 years after the end of the designation period, except that the records shall be retained beyond the 3 year period if audit findings have not been resolved or if directed by the United States. Records may be retained and submitted in electronic form if allowed by Generally Accepted Government Accounting Principles.

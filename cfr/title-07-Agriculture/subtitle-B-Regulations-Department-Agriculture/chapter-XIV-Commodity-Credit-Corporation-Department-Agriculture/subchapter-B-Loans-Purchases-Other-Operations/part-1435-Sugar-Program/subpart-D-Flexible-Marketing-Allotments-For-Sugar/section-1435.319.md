@@ -1,0 +1,9 @@
+##### § 1435.319 Appeals and arbitration. #####
+
+(a) A person adversely affected by any determination made under this subpart may request reconsideration of such determination by filing a written request with the Executive Vice President, CCC, detailing the basis of the request within 10 days of such determination. Such a request must be submitted at: Executive Vice President, CCC, Stop 0501, 1400 Independence Ave., SW, Washington, DC 20250-0501.
+
+(b) For issues arising under section 359d establishing allocations for marketing allotments, and sections 359f(b) and (c), and section 359i of the Agricultural Adjustment Act of 1938, as amended, after completion of the process provided in paragraph (a) of this section, a person adversely affected by a reconsidered determination may appeal such determination by filing a written notice of appeal within 20 days of the issuance of the reconsidered determination with the Hearing Clerk, USDA, Room 1081, South Building, 1400 Independence Ave., SW., Washington, DC 20250-9200. Any hearing conducted under this paragraph shall be in accordance with instructions issued by USDA's Judicial Officer.
+
+(c) For issues arising under §§ 359a-359c, 359e, and 359g of the Agricultural Adjustment Act of 1938, as amended, after completion of the process provided in paragraph (a) of this section, a person adversely affected by the reconsidered determination may appeal such determination by filing a written notice of appeal with the Director, National Appeals Division, USDA, as provided in part 11 of this title. For issues arising under § 359f(a) of the Agricultural Adjustment Act of 1938, as amended, such disputes shall be resolved through arbitration under the direction of the Executive Vice President, CCC. A request for arbitration must be filed in writing at the address specified in paragraph (a) of this section.
+
+[67 FR 54926, Aug. 26, 2002, as amended at 69 FR 39814, July 1, 2004]

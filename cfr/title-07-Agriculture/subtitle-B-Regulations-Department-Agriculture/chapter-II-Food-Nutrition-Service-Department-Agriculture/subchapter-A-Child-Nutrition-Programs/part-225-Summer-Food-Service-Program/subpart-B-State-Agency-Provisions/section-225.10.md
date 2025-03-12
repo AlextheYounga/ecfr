@@ -1,0 +1,13 @@
+##### § 225.10 Audits and management evaluations. #####
+
+(a) *Audits.* State agencies shall arrange for audits of their own operations to be conducted in accordance with 2 CFR part 200, subpart F and USDA implementing regulations 2 CFR part 400 and part 415. Unless otherwise exempt, sponsors shall arrange for audits to be conducted in accordance with 2 CFR part 200, subpart F and USDA implementing regulations 2 CFR part 400 and part 415. State agencies shall provide OIG with full opportunity to audit the State agency and sponsors. Unless otherwise exempt, audits at the State and sponsor levels shall be conducted in accordance with 2 CFR part 200, subpart F and Appendix XI, Compliance Supplement and USDA implementing regulations 2 CFR part 400 and part 415. While OIG shall rely to the fullest extent feasible upon State-sponsored audits of sponsors, it shall, when considered necessary, (1) make audits on a State-wide basis, (2) perform on-site test audits, and (3) review audit reports and related working papers of audits performed by or for State agencies.
+
+(b) *Management evaluations.* (1) State agencies shall provide FNS with full opportunity to conduct management evaluations (including visits to sponsors) of all operations of the State agency. Each State agency shall make available its records, including records of the receipts and expenditures of funds, upon a reasonable request by FNS.
+
+(2) The State agency shall fully respond to any recommendations made by FNSRO pursuant to the management evaluation.
+
+(3) FNSRO may require the State agency to submit on 20 days notice a corrective action plan regarding serious problems observed during any phase of the management evaluation.
+
+(c) *Disregards.* In conducting management evaluations or audits for any fiscal year, the State agency, FNS or OIG may disregard overpayment which does not exceed $100 or, in the case of State agency administered programs, does not exceed the amount established by State law, regulations or procedures as a minimum for which claims will be made for State losses generally. No overpayment shall be disregarded, however, when there are unpaid claims for the same fiscal year from which the overpayment can be deducted or when there is substantial evidence of violation of criminal law or civil fraud statutes.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 71 FR 39518, July 13, 2006; 81 FR 66492, Sept. 28, 2016]

@@ -1,0 +1,3 @@
+##### § 61.38 Suspended license to be returned to Division. #####
+
+In case a license issued to a sampler is suspended or revoked such license shall be returned to the Division. At the expiration of any period of suspension of such license, unless in the meantime it be revoked, the dates of beginning and termination of such suspension shall be endorsed thereon, it shall be returned to the person to whom it was originally issued, and its shall be posted as prescribed in § 61.31.

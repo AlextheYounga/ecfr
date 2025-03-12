@@ -1,0 +1,5 @@
+##### § 1401.5 In kind payments. #####
+
+(a) Subject to the provisions of §§ 1470.2 and 1470.3, CCC may make payments in the form of commodities. Quantities of commodities made available as payment shall be based upon the value of the commodity, as determined by CCC. Such quantity may be adjusted by CCC to reflect the location, quality, and other similar factors which CCC determines to affect the value of the commodity.
+
+(b) The transfer of title to commodities made available in accordance with paragraph (a) of this section shall be in store, except as determined by CCC, and shall be made without regard to any State law or any claim of lien against the commodity, or proceeds thereof, which may be asserted by any creditor except agencies of the U.S. Government whose lien arises specifically under Federal statute. The recipient of such commodities shall be responsible for all costs incurred in transferring title to the commodity, except as specifically provided by CCC.

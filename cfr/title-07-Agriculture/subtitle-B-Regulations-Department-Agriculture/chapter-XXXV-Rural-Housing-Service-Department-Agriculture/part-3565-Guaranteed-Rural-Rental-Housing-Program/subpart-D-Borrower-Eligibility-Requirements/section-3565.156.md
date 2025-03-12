@@ -1,0 +1,3 @@
+##### § 3565.156 Certification of compliance with federal, state, and local laws and with Agency requirements. #####
+
+At the time of application, the lender must obtain from the borrower a certification of compliance with all applicable federal, state, and local laws, and with Agency requirements regarding discrimination and equal opportunity in housing, including title VIII of the Civil Rights Act of 1968, and the Fair Housing Amendments Act of 1988. The borrower must also certify that it is not the subject of any federal, state, or local sanction or punitive action.

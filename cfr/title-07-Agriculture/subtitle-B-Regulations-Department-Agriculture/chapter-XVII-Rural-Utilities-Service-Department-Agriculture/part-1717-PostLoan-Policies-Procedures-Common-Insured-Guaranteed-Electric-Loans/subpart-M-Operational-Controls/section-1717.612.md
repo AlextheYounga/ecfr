@@ -1,0 +1,3 @@
+##### § 1717.612 RUS approval of borrower's bank or other depository. #####
+
+If a borrower's mortgage or loan contract gives RUS the authority to approve the bank or other depositories used by the borrower, such approval is hereby granted. However, without the prior written approval of RUS, a borrower shall not deposit funds from loans made or guaranteed by RUS in any bank or other depository that is not insured by the Federal Deposit Insurance Corporation or other Federal agency acceptable to RUS, or in any account not so insured.

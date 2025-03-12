@@ -1,0 +1,3 @@
+##### § 3565.502 Incontestability. #####
+
+In the case of loans that back Ginnie Mae securities or loans that are acquired by Ginnie Mae as a consequence of its guaranty, the Agency guarantee under this part is incontestable except that the guarantee may not be enforced by a lender who commits fraud or misrepresentation or by a lender who had knowledge of the fraud or misrepresentation at the time such a lender acquired the guarantee or was assigned the loan.

@@ -1,0 +1,3 @@
+##### § 982.15 Inshell handler carryover. #####
+
+*Inshell handler carryover* as of any given date means all inshell hazelnuts (except restricted hazelnuts) wherever located then held by handlers or for their accounts, whether or not sold, including certified merchantable hazelnuts and the estimated merchantable content of those uncertified hazelnuts then held by handlers which are intended for handling as inshell hazelnuts.

@@ -1,0 +1,3 @@
+##### § 4279.150 Feasibility studies. #####
+
+A feasibility study, by a qualified independent consultant acceptable to the Agency, is required for new businesses. The Agency may require a feasibility study for existing businesses when the project will significantly affect the borrower's operations, and cash flow from the existing facility is not sufficient to service the new debt. At a minimum, a feasibility study must include an evaluation of the economic, market, technical, financial, and management feasibility and an executive summary that reaches an overall conclusion as to the business' chance of success. The income approach of an appraisal is not an acceptable feasibility study.

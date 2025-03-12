@@ -1,0 +1,3 @@
+##### § 12.12 Appeals. #####
+
+Any person who has been or who would be denied program benefits in accordance with § 12.4 as the result of any determination made in accordance with the provisions of this part may obtain a review of such determination in accordance with the administrative appeals procedures of the agency which rendered such determination. Agency appeal procedures are contained in the Code of Federal Regulations as follows: FSA, part 780 of this title; NRCS, part 614 of this title; Rural Utilities Service, part 1900, subpart B of this title.

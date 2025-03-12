@@ -1,0 +1,3 @@
+##### § 985.62 Verification of reports and records. #####
+
+For the purpose of assuring compliance with record keeping requirements and verifying reports filed by producers and handlers, the Secretary and the Committee, through its duly authorized employees, shall have access to any premises where applicable records are maintained, where oil is received or held, and at any time during reasonable business hours, shall be permitted to inspect such handlers' premises, and any and all records of such handlers with respect to matters within the purview of this part.

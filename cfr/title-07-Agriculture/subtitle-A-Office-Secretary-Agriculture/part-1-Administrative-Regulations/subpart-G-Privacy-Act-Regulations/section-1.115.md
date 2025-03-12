@@ -1,0 +1,3 @@
+##### § 1.115 Special procedures: Medical records. #####
+
+In the event an agency receives a request pursuant to § 1.112 for access to medical records (including psychological records) whose disclosure it determines would be harmful to the individual to whom they relate, it may refuse to disclose the records directly to the requester but shall transmit them to a doctor designated by that individual.

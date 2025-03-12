@@ -1,0 +1,19 @@
+##### § 1738.208 Additional cash requirements. #####
+
+(a) If the Agency's financial analysis indicates that the applicant's entire operation (existing operations and new operations combined) will show an inadequate cash balance at the end of any year during the five-year forecast period, the Agency will require the applicant to obtain additional cash infusions necessary to maintain an appropriate cash balance throughout the five-year forecast period. This cash infusion would be in conjunction with the required 10 percent minimum equity position.
+
+(1) The Agency will require the applicant and its investors to:
+
+(i) Infuse additional cash to cover projected deficits for the first two years of operations at loan closing; and
+
+(ii) Enter into legal arrangements that commit them to making additional cash infusions to ensure that the operation will sustain a positive cash position on a quarterly basis throughout the five-year forecast period.
+
+(2) For purposes of identifying the additional cash requirement for a start-up operation or an operation that has not demonstrated positive cash flow for the two years prior to the submission date of the application, 50 percent of projected revenues for each year of the five-year forecast period will be considered to determine if an operation can sustain a positive cash position. In addition to the initial financial projections required to demonstrate financial feasibility, such applicants must complete adjusted financial projections using the reduced revenue projections in order to identify the amount of additional cash that will be required. Projections must be fully supported with assumptions acceptable to the Agency. The applicant may present evidence in its loan application that projected revenues or a portion of projected revenues are based on binding commitments and request that more than 50 percent of the projected revenues be considered for the purpose of identifying the additional cash requirement.
+
+(3) For purposes of satisfying the additional cash requirements for an existing operation that has demonstrated a positive cash flow for the two fiscal years prior to the submission date of the application, 100 percent of the projected revenues for each year of the five-year forecast period will be used to determine if an operation can sustain a positive cash position, as long as these projections are fully supported with assumptions acceptable to the Agency.
+
+(4) If debt is incurred to satisfy the additional cash requirement, this debt must take a subordinate lien position to the Agency debt and must be at terms acceptable to the Agency.
+
+(b) An applicant may satisfy the additional cash requirement with an unconditional, irrevocable letter of credit (LOC) satisfactory to the Agency. The LOC must be issued from a financial institution acceptable to the Agency and must remain in effect throughout the forecast period. The applicant and the Agency must both be payees under the LOC. The LOC must have payment conditions acceptable to the Agency, and it must be in place prior to loan closing. The applicant cannot secure the LOC with its assets and cannot pay for any LOC charges or fees with its funds.
+
+(c) If the Agency offers a loan to the applicant, the applicant must ensure that the additional cash infusion required in the first two years is deposited into its bank account within 120 days from the date the applicant signs the loan offer letter (see § 1738.251) and must enter into any other legal arrangements necessary to cover further projected operating deficits (or in the case of the LOC, to provide an acceptable LOC to the Agency) prior to closing. If these requirements are not completed within this timeframe, the loan offer will be terminated, unless the applicant requests and the Agency approves an extension based on extenuating circumstances that the Agency was not aware of at the time the offer was made.

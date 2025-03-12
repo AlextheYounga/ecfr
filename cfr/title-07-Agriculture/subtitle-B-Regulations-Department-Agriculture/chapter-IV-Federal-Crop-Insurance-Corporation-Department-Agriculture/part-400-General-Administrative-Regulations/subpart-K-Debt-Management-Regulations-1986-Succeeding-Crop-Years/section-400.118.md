@@ -1,0 +1,3 @@
+##### § 400.118 Demand for payment. #####
+
+The Comptroller who is responsible for carrying out the provisions of this subpart with respect to the debt shall send to the debtor appropriate written demands for payment in terms which inform the debtor of the consequences of failure to make payment, in accordance with guidelines established by the Manager, FCIC, the Federal Claims Collection Standards at 4 CFR 102.2, or the contract between the General Services Administration (GSA) and the collection agency.

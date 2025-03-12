@@ -1,0 +1,3 @@
+##### § 760.21 Application for payments by manufacturers. #####
+
+The affected manufacturer, or his legal representatives, shall file an application for payment with the Deputy Administrator, FSA, Washington, D.C., through the county office serving the county where the contaminated product is located. The application for payment may be in the form of a letter or memorandum. Such letter or memorandum, however, must be accompanied by acceptable documentation to support such application for payment.

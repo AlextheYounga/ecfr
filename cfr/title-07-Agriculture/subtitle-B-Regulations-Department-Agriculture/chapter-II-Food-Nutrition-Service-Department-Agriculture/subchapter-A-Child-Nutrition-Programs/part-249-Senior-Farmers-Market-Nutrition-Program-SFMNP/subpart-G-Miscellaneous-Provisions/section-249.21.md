@@ -1,0 +1,15 @@
+##### § 249.21 Procurement and property management. #####
+
+(a) *Requirements.* State agencies must comply with the requirements of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415for procurement of supplies, equipment and other services with SFMNP funds. These requirements are adopted for use by FNS to ensure that such materials and services are obtained for the SFMNP in an effective manner and in compliance with the provisions of applicable laws and executive orders.
+
+(b) *Contractual responsibilities.* The standards contained in 2 CFR part 200, subpart D; Appendix II Contract Provisions for Non-Federal Entity Contracts Under Federal Awards; and USDA implementing regulations 2 CFR part 400 and part 415 do not relieve the State agency of the responsibilities arising under its contracts. The State agency is the responsible authority, without recourse to FNS, regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in connection with the SFMNP. This includes, but is not limited to, disputes, claims, protests of award, source evaluation, or other matters of a contractual nature. Matters concerning violation of law are to be referred to such local, State or Federal authority as may have proper jurisdiction.
+
+(c) *State regulations.* The State agency may use its own procurement regulations provided that:
+
+(1) Such regulations reflect applicable State and local regulations; and
+
+(2) Any procurements made with SFMNP funds adhere to the standards set forth in part 3016 of this title.
+
+(d) *Property acquired with program funds.* State and local agencies shall observe the standards prescribed in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 in their utilization and disposition of real property and equipment acquired in whole or in part with SFMNP funds.
+
+[71 FR 74630, Dec. 12, 2006, as amended at 81 FR 66497, Sept. 28, 2016]

@@ -1,0 +1,3 @@
+##### § 1783.13 What administrative expenses may be funded with grant proceeds? #####
+
+RFP grant funds may not be used for any purposes not described in § 1783.12, including, without limitation, payment or reimbursement of any of the grant recipient's administrative costs or expenses. Administrative expenses may, however, be paid or reimbursed from revolving loan fund assets that are not RFP grant funds, including revolved funds and cash originally contributed by the grant recipient.

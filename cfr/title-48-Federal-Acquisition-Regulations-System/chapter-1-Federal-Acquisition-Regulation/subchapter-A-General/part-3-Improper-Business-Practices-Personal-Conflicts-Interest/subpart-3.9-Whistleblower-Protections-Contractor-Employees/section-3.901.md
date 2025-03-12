@@ -1,5 +1,7 @@
 ##### 3.901 Definitions. #####
 
+Link to an amendment published at 82 FR 4721, Jan. 13, 2017.
+
 As used in this subpart -
 
 *Authorized official of an agency* means an officer or employee responsible for contracting, program management, audit, inspection, investigation, or enforcement of any law or regulation relating to Government procurement or the subject matter of the contract.

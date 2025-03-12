@@ -1,0 +1,15 @@
+##### § 1710.113 Loan security. #####
+
+(a) RUS makes loans only if, in the judgment of the Administrator, the security therefor is reasonably adequate and the loan will be repaid according to its terms within the time agreed.
+
+(b) RUS generally requires that borrowers provide it with a first lien on all of the borrower's real and personal property, including intangible personal property and any property acquired after the date of the loan. This lien shall be in the form of a mortgage by the borrower to the Government or a deed of trust between the borrower and a trustee satisfactory to the Administrator, together with such security documents as RUS may deem necessary in a particular case.
+
+(c)(1) When a borrower is unable by reason of preexisting encumbrances, or otherwise, to furnish a first mortgage lien on its entire system the Administrator may accept other forms of security, such as a pledge of revenues, if he or she determines such security is reasonably adequate and the form and nature thereof is otherwise acceptable.
+
+(2) The Administrator, at his or her discretion, may approve the use of an indenture patterned after those indentures commonly used by utilities engaged in private market financing, in lieu of a mortgage as the security instrument for loans to power supply borrowers. The use of an indenture will be by mutual agreement of the borrower and the Administrator. The terms of each indenture and related loan agreement will be negotiated on a case by case basis to best meet the needs of the individual borrower and the Government. The provisions of the indenture and loan contract shall control, notwithstanding any provisions of 7 CFR Chapter XVII which may be in conflict therewith.
+
+(d) In the case of loans that include the financing of electric facilities that are operated as an integral component of a non-RUS financed system (such as generation and transmission facilities co-owned with other electric utilities), the borrower shall, in addition to the mortgage lien on all of the borrower's electric facilities, furnish adequate assurance, in the form of contractual or other security arrangements, that the system will be operated on an efficient and continuous basis. Satisfactory evidence must also be provided that the non-RUS financed system is financially sound and under capable management. Examples of such evidence include financial reports, annual reports, Security and Exchange Commission 10K reports if the system is required to file them, credit reports from Standard and Poor's, Moodys or other recognized sources, reports to state regulatory authorities and the Federal Energy Regulatory Commission, and evidence of a successful track record in related construction projects.
+
+(e) Additional controls on the borrower's financial, investment and managerial activities appear in the loan contract and mortgage required by RUS.
+
+[57 FR 1053, Jan. 9, 1992, as amended at 62 FR 7665, Feb. 20, 1997]

@@ -1,0 +1,3 @@
+##### § 1783.6 When will applications for grants be accepted? #####
+
+In Fiscal Year 2004, applications will be accepted for this RFP grant program from October 6, 2004, until December 6, 2004, at which time the initial application period shall close. An applicant may withdraw, substitute, amend or supplement its application at any time prior to the closing of the initial application period. Once the initial application period has closed, all applications shall be considered final. For subsequent fiscal years, if any funds for this program are available, the Secretary will publish a notice to that effect. The notice will establish the period during which applications for such funds may be submitted for consideration.

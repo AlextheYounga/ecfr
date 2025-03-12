@@ -1,0 +1,3 @@
+##### § 1709.201 Purpose. #####
+
+This subpart establishes policies and procedures for the Rural Utilities Service (RUS) State Bulk Fuel Revolving Fund Grants. The purpose of this grant program is to assist State entities in establishing and supporting a revolving fund to provide a more cost-effective means of purchasing fuel for communities where the fuel cannot be shipped by means of surface transportation.

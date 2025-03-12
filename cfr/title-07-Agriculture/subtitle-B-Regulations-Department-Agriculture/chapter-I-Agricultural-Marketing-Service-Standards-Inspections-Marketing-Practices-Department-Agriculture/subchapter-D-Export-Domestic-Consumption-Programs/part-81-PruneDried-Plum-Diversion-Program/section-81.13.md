@@ -1,0 +1,5 @@
+##### § 81.13 Records and accounts. #####
+
+(a) The producers participating in this program must keep accurate records and accounts showing the details relative to the prune/plum tree removal, including the contract entered into with the firm or person removing the trees, as well as the invoices.
+
+(b) The producers must permit authorized representatives of USDA, the Committee, and the General Accounting Office, or their delegatees, at any reasonable time to inspect, examine, and make copies of such records and accounts to determine compliance with provisions of this part. Such records and accounts must be retained for two years after the date of payment to the producer under the program, or for two years after the date of any audit of records by USDA, whichever is later. Any destruction of records by the producer at any time will be at the risk of the producer when there is reason to know, believe, or suspect that matters may be or could be in dispute or remain in dispute.

@@ -1,0 +1,3 @@
+##### § 15.7 Intimidatory or retaliatory acts prohibited. #####
+
+No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right or privilege secured by section 601 of the Act or the regulations in this part, or because he has made a complaint, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under the regulations in this part. The identity of complainants shall be kept confidential except to the extent necessary to carry out the purposes of the regulations in this part, including the conduct of any hearing or judicial proceeding arising thereunder.

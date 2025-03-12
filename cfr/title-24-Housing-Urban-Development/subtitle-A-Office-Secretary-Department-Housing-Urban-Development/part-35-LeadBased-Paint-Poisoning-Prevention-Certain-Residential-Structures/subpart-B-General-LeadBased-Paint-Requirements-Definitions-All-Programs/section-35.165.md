@@ -1,5 +1,7 @@
 ##### § 35.165 Prior evaluation or hazard reduction. #####
 
+Link to an amendment published at 82 FR 4167, Jan. 13, 2017.
+
 If an evaluation or hazard reduction was conducted at a residential property or dwelling unit before the property or dwelling unit became subject to the requirements of subparts B, C, D, F through M, and R of this part, such an evaluation, hazard reduction or abatement meets the requirements of subparts B, C, D, F through M, and R of this part and need not be repeated under the following conditions:
 
 (a) *Lead-based paint inspection.* (1) A lead-based paint inspection conducted before March 1, 2000, meets the requirements of this part if:

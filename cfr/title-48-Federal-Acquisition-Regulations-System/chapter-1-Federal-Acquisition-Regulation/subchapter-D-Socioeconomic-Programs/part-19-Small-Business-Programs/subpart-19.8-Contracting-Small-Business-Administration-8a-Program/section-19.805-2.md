@@ -2,14 +2,16 @@
 
 (a) Offers shall be solicited from those sources identified in accordance with 19.804-3.
 
-(b) The SBA will determine the eligibility of the firms for award of the contract. Eligibility will be determined by the SBA as of the time of submission of initial offers which include price. Eligibility is based on Section 8(a) Program criteria.
+(b) The SBA will determine the eligibility of the participants for award of the contract. Eligibility will be determined by the SBA as of the time of submission of initial offers which include price. Eligibility is based on Section 8(a) program criteria. An 8(a) participant must represent that it is a small business in accordance with the size standard corresponding to the NAICS code assigned to the contract.
 
-(1) In sealed bid acquisitions, upon receipt of offers, the contracting officer will provide the SBA a copy of the solicitation, the estimated fair market price, and a list of offerors ranked in the order of their standing for award (i.e., first low, second low, etc.) with the total evaluated price for each offer, differentiating between basic requirements and any options. The SBA will consider the eligibility of the first low offeror. If the first low offeror is not determined to be eligible, the SBA will consider the eligibility of the next low offeror until an eligible offeror is identified. The SBA will determine the eligibility of the firms and advise the contracting officer within 5 working days after its receipt of the list of bidders. Once eligibility has been established by the SBA, the successful offeror will be determined by the contracting activity in accordance with normal contracting procedures.
+(1) In either negotiated or sealed bid competitive 8(a) acquisitions SBA will determine the eligibility of the apparent successful offeror and advise the contracting office within 5 working days after receipt of the contracting office's request for an eligibility determination.
 
-(2) In negotiated acquisition, the SBA will determine eligibility when the successful offeror has been established by the agency and the contract transmitted for signature unless a referral has been made under 19.809, in which case the SBA will determine eligibility at that point.
+(i) If SBA determines that the apparent successful offeror is ineligible, the contracting office will then send to SBA the identity of the next highest evaluated offeror for an eligibility determination. The process is repeated until SBA determines that an identified offeror is eligible for award.
 
-(c) In any case in which a firm is determined to be ineligible, the SBA will notify the firm of that determination.
+(ii) If the contracting officer believes that the apparent successful offeror (or the offeror SBA has determined eligible for award) is not responsible to perform the contract, the contracting officer must refer the matter to SBA for Certificate of Competency consideration under subpart 19.6.
 
-(d) The eligibility of an 8(a) firm for a competitive 8(a) award may not be challenged or protested by another 8(a) firm or any other party as part of a solicitation or proposed contract award. Any party with information concerning the eligibility of an 8(a) firm to continue participation in the 8(a) Program may submit such information to the SBA in accordance with 13 CFR 124.517.
+(2) In any case in which an 8(a) participant is determined to be ineligible, SBA will notify the 8(a) participant of that determination.
 
-[54 FR 46005, Oct. 31, 1989, as amended at 61 FR 67421, Dec. 20, 1996; 64 FR 32745, June 17, 1999]
+(c) Any party with information questioning the eligibility of an 8(a) participant to continue participation in the 8(a) program or for the purposes of a specific 8(a) award may submit such information to the SBA in accordance with 13 CFR 124.112(c).
+
+[82 FR 4729, Jan. 13, 2017]

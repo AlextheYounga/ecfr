@@ -1,0 +1,3 @@
+##### § 1789.150 Purpose. #####
+
+This part sets forth policies and the procedures for implementing subsection (c) of section 18 of the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*)(RE Act) which authorizes the Rural Utilities Service (RUS) to use the services of Consultants funded by the Borrowers to facilitate timely action on Applications by Borrowers for financial assistance and other approvals.

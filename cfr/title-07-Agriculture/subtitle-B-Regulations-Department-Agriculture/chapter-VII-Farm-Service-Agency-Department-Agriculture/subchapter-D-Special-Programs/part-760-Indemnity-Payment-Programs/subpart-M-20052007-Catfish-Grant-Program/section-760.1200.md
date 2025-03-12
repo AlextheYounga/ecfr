@@ -1,0 +1,3 @@
+##### § 760.1200 Administration. #####
+
+FSA will administer a limited 2005-2007 CGP to provide assistance to catfish producers in eligible counties that suffered catfish feed and related losses between January 1, 2005, and February 28, 2007, that is after January 1, 2005, and before February 28, 2007. Under the 2005-2007 CGP, FSA will provide grants to State governments in those States that have catfish producers that are located in eligible counties and that have agreed to participate in the 2005-2007 CGP. The amount of each grant will be based on the total value of catfish feed and related losses suffered in eligible counties in the subject state. Each State must submit a work plan providing a summary of how the State will implement the 2005-2007 CGP.

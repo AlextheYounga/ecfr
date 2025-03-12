@@ -1,0 +1,3 @@
+##### § 1580.101 General statement. #####
+
+This part provides regulations for the Trade Adjustment Assistance (TAA) for Farmers program as authorized by the Trade Act of 1974, amended by Subtitle C of Title I of the Trade Act of 2002 (Pub. L. 107-210), and re-authorized and modified by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5). The regulations establish procedures by which a group of producers of raw agricultural commodities or fishermen (jointly referred to as “producers”) can petition for certification of eligibility and through which individual producers covered by a certified petition can apply for technical assistance and cash benefits for the development and implementation of approved business adjustment plans.

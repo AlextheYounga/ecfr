@@ -1,0 +1,21 @@
+##### § 1485.24 Compliance reviews and notices. #####
+
+(a) USDA staff may conduct compliance reviews of MAP Participants' activities under the MAP program. MAP Participants shall cooperate fully with relevant USDA staff conducting compliance reviews and shall comply with all requests from USDA staff to facilitate the conduct of such reviews.
+
+(b) Upon conclusion of the compliance review, USDA staff will provide either a written compliance report or a letter to the MAP Participant. USDA staff will issue a compliance report if it appears that CCC may be entitled to recover funds from that Participant and/or it appears that the Participant is not complying with any of the terms or conditions of the program agreement, approval letter, or the applicable laws and regulations. The compliance report will explain the basis for any recovery of funds from the Participant. Within 30 days of the date of the compliance report, the MAP Participant shall repay CCC the amount owed either by submitting a check payable to CCC or by offsetting its next reimbursement claim. The MAP Participant shall make such payment in U.S. dollars, unless otherwise approved in advance by CCC. If, however, a MAP Participant notifies CCC within 30 days of the date of the compliance report that the Participant intends to file an appeal pursuant to § 1485.24(e), the amount owed to CCC by the MAP Participant is not due until the appeal procedures are concluded and CCC has made a final determination as to the amount owed. In the absence of any finding of funds due to CCC or other non-compliance, CCC will issue a letter to the MAP Participant. If, as a result of a compliance review, CCC determines that further review is needed in order to ensure compliance with the requirements of MAP, CCC may require the Participant to contract for an independent audit.
+
+(c) In addition, CCC may notify a MAP Participant in writing at any time if CCC determines that CCC may be entitled to recover funds from the Participant. CCC will explain the basis for any recovery of funds from the Participant in the written notice. The MAP Participant shall within 30 days of the date of the notice repay CCC the amount owed either by submitting a check payable to CCC or by offsetting its next reimbursement claim. The MAP Participant shall make such payment in U.S. dollars, unless otherwise approved in advance by CCC. If, however, a MAP Participant notifies CCC within 30 days of the date of the written notice that the Participant intends to file an appeal pursuant to § 1485.24(e), the amount owed to CCC by the MAP Participant is not due until the appeal procedures are concluded and CCC has made a final determination as to the amount owed.
+
+(d) The fact that a compliance review has been conducted by USDA staff does not signify that a MAP Participant is in compliance with its program agreement, approval letter and/or applicable laws and regulations.
+
+(e) Appeals.
+
+(1) A MAP Participant may, within 60 days of the date of the compliance report or written notice from CCC, submit a written response to CCC appealing the report or notice. CCC, at its discretion, may extend the period for response.
+
+(2) After review of the Participant's response, CCC shall determine whether the Participant owes any funds to CCC and will inform the Participant in writing of the basis for the determination. CCC will initiate action to collect such amount by providing the Participant a written demand for payment of the debt pursuant to Debt Settlement Policies and Procedures, 7 CFR part 1403.
+
+(3) Within 30 days of the date of the determination, the Participant may request in writing that CCC reconsider the determination and shall submit in writing the basis for such reconsideration. The Participant may also request a hearing.
+
+(4) If the Participant requests a hearing, CCC will set a date and time for the hearing. The hearing will be an informal proceeding. A transcript will not ordinarily be prepared unless the Participant bears the cost of a transcript; however, CCC may in its discretion have a transcript prepared at CCC's expense.
+
+(5) CCC will base its final determination upon information contained in the administrative record. The Participant must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by CCC.

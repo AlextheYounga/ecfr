@@ -1,0 +1,7 @@
+##### § 1430.121 Maintenance and inspection of records. #####
+
+(a) Participating dairy operations are required to maintain accurate records and accounts that will document that they meet all eligibility requirements specified in this subpart, as may be requested by CCC or FSA. Such records and accounts are required to be retained for 3 years after the date of MPP-Dairy payments to the participating dairy operation. Destruction of the records 3 years after the date of payment will be at the risk of the party undertaking the destruction.
+
+(b) A participating dairy operation is required to allow authorized representatives of CCC, the Secretary, or the Comptroller General of the United States to have access to the premises of the dairy operation in order to inspect the herd of cattle, examine, and make copies of the books, records, and accounts, and other written data as specified in paragraph (a) of this section.
+
+(c) Any producer or dairy operation that does not comply with the provisions of paragraphs (a) or (b) of this section, or that otherwise receives a payment for which it is not eligible, is liable for that payment and is required to repay it to FSA, with interest to run from the date of disbursement.

@@ -1,0 +1,3 @@
+##### § 1782.19 Third party agreements. #####
+
+The State Director may authorize third party operation, maintenance, and management of an Agency financed facility. The borrower's attorney must review the contract, management agreement, written lease, or other third party agreement and issue an opinion to the Agency as to their legal sufficiency. The borrower shall retain the legal authority necessary for owning, constructing, operating, and maintaining the facility.

@@ -1,0 +1,3 @@
+##### § 1220.208 Removal. #####
+
+If the Secretary determines that any person appointed under this part fails or refuses to perform his or her duties properly or engages in acts of dishonesty or willful misconduct, the Secretary shall remove the person from office. A person appointed or certified under this part or any employee of the Board or Committee may be removed by the Secretary if the Secretary determines that the person's continued service would be detrimental to the purposes of the Act.

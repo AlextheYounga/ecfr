@@ -1,0 +1,5 @@
+##### § 1955.61 Eviction of persons occupying inventory real property or dispossession of persons in possession of chattel property. #####
+
+Advice and assistance will be obtained from OGC where eviction from realty or dispossession of chattel property is necessary. Where OGC has given written authorization, eviction may be effected through State courts rather than Federal courts when the former borrower is involved, or through local courts instead of Federal/State courts when the party occupying/possessing the Rural Development property is not the former borrower. In those cases, a State Supplement will be issued to provide explicit instructions. For MFH, eviction of tenants will be handled in accordance with 7 CFR part 3560, subpart D and with the terms of the tenant's lease. If no written lease exists, the State Director will obtain advice from OGC.
+
+[54 FR 20522, May 12, 1989, as amended at 69 FR 69106, Nov. 26, 2004]

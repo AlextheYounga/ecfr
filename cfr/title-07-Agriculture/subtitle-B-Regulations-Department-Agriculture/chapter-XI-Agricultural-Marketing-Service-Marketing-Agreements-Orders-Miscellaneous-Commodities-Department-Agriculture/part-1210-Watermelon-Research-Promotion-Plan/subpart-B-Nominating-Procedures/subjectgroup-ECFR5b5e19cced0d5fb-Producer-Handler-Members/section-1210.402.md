@@ -1,0 +1,9 @@
+##### § 1210.402 Voter and board member nominee eligibility. #####
+
+(a) All producers and handlers within a district may participate in their district convention for the purpose of nominating candidates for appointment to the Board: *Provided,* That a producer who both produces and handles watermelons may vote for handler member nominees and serve as a handler member nominee only if the producer purchased watermelons from other producers, in a combined total volume that is equal to 25 percent or more of the producer's own production or the combined total volume of watermelons handled by the producer from the producer's own production and purchases from other producer's production is more than 50 percent of the producer's own production; and *Provided further,* That if a producer or handler is engaged in the production or handling of watermelons in more than one State or district, the producer or handler shall participate within the State or district in which the producer or handler so elects in writing to the Board and such election shall remain controlling until revoked in writing to the Board. For the purpose of participation in initial nominating conventions, such election shall be made in writing, at the address provided, to the Department official identified in the call for a district convention.
+
+(b) Any individual, group of individuals, partnership, corporation, association, cooperative or any other entity which is engaged in the production, first handling or importing of watermelons is considered a person and as such is entitled to only one vote, except that such person may cast proxy votes as provided in § 1210.403 and § 1210.404 of this subpart.
+
+(c) All producers and handlers attending their district conventions may be candidates for one or more of the positions of State spokesperson, district convention chairperson, and producer or handler nominee.
+
+[54 FR 38205, Sept. 15, 1989, as amended at 60 FR 10799, Feb. 28, 1995]

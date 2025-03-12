@@ -1,0 +1,3 @@
+##### § 29.67 Disposition of certificates. #####
+
+When a certificate of inspection or weight is issued under the Act upon the request of an interested party, the original certificate and one copy shall be delivered or mailed to the applicant or a person designated by him, and one copy shall be mailed or delivered to the Division or local office of inspection. Charges may be made for additional copies furnished the interested party upon request as provided in § 29.128.

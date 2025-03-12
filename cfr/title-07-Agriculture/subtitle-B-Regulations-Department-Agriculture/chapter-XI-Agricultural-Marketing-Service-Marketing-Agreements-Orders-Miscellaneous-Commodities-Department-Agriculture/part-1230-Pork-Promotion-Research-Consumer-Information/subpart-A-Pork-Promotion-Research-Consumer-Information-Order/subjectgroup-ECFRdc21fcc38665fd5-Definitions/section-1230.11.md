@@ -1,0 +1,3 @@
+##### § 1230.11 Imported pork and pork products. #####
+
+*Imported pork and pork products* means products which are imported into the United States which the Secretary determines contain a substantial amount of pork, including those products which have been assigned one or more of the following numbers in Schedule 1 of the Tariff Schedules of the United States Annotated (1985): 106.4020; 106.4040; 106.8000; 106.8500; 107.1000; 107.1500; 107.3020; 107.3040; 107.3060; 107.3515; 107.3525; 107.3540; and 107.3560.

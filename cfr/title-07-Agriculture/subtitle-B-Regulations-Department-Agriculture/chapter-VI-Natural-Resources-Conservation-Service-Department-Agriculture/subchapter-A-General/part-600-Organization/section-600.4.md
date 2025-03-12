@@ -1,0 +1,3 @@
+##### § 600.4 State offices. #####
+
+Each office is under the direction and supervision of a State conservationist. Each State conservationist is responsible for NRCS programs in a State. The Pacific Basin Area Office, under the direction and supervision of a director, serves the U.S. Trust Territories in that area. The Caribbean Area Office, under the direction and supervision of a director, serves the Commonwealth of Puerto Rico and the U.S. Virgin Islands. Directors of the Pacific Basin and Caribbean areas have the same responsibility and authority as a State conservationist. All references to State conservationists in this chapter include the directors of the Pacific Basin and Caribbean areas.

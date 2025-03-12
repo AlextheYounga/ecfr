@@ -1,0 +1,35 @@
+##### § 215.14a Procurement standards. #####
+
+(a) *General.* State agencies and school food authorities shall comply with the requirements of this part and 2 CFR part 200 and USDA implementing regulations 2 CFR part 400 and part 415, as applicable concerning the procurement of all goods and services with nonprofit school food service account funds.
+
+(b) *Contractual responsibilities.* The standards contained in this part and 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 200 subparts B and D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, do not relieve the State agency or School Food Authority of any contractual responsibilities under its contract. The State agency or School Food Authority is the responsible authority, without recourse to FNS, regarding the settlement and satisfaction of all contractual and administrative issues arising out of procurements entered into in connection with the Program. This includes but is not limited to: Source evaluation, protests, disputes, claims, or other matters of a contractual nature. Matters concerning violation of law are to be referred to the local, State or Federal authority that has proper jurisdiction.
+
+(c) *Procedures.* The State agency may elect to follow either the State laws, policies and procedures as authorized by 2 CFR 200.317, or the procurement standards for other governmental grantees and all governmental subgrantees in accordance with 2 CFR 200.318 through 2 CFR 200.326. Regardless of the option selected, States must ensure that all contracts include any clauses required by Federal statutes and executive orders and that the requirements of 2 CFR 200.236 and Appendix II, Contract Provisions for Non-Federal Entity Contracts Under Federal Award are followed. The school food authority or child care institution may use its own procurement procedures which reflect applicable State or local laws and regulations, provided that procurements made with nonprofit school food service account funds adhere to the standards set forth in this part and in 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415 as applicable. School food authority procedures must include a written code of standards of conduct meeting the minimum standards of 2 CFR 200.318, as applicable.
+
+(1) *Pre-issuance review requirement.* The State agency may impose a pre-issuance review requirement on a school food authority's proposed procurement. The school food authority must make available, upon request of the State agency, its procurement documents, including but not limited to solicitation documents, specifications, evaluation criteria, procurement procedures, proposed contracts and contract terms. School food authorities shall comply with State agency requests for changes to procurement procedures and solicitation and contract documents to ensure that, to the State agency's satisfaction, such procedures and documents reflect applicable procurement and contract requirements and the requirements of this part.
+
+(2) *Prototype solicitation documents and contracts.* The school food authority must obtain the State agency's prior written approval for any change made to prototype solicitation or contract documents before issuing the revised solicitation documents or execution of the revised contract.
+
+(3) *Prohibited expenditures.* No expenditure may be made from the nonprofit school food service account for any cost resulting from a procurement failing to meet the requirements of this part.
+
+(d) *Cost reimbursable contracts*—(1) *Required provisions.* The school food authority must include the following provisions in all cost reimbursable contracts, including contracts with cost reimbursable provisions, and in solicitation documents prepared to obtain offers for such contracts:
+
+(i) Allowable costs will be paid from the nonprofit school food service account to the contractor net of all discounts, rebates and other applicable credits accruing to or received by the contractor or any assignee under the contract, to the extent those credits are allocable to the allowable portion of the costs billed to the school food authority;
+
+(ii)(A) The contractor must separately identify for each cost submitted for payment to the school food authority the amount of that cost that is allowable (can be paid from the nonprofit school food service account) and the amount that is unallowable (cannot be paid from the nonprofit school food service account), or
+
+(B) The contractor must exclude all unallowable costs from its billing documents and certify that only allowable costs are submitted for payment and records have been established that maintain the visibility of unallowable costs, including directly associated costs in a manner suitable for contract cost determination and verification;
+
+(iii) The contractor's determination of its allowable costs must be made in compliance with the applicable Departmental and Program regulations and Office of Management and Budget cost circulars;
+
+(iv) The contractor must identify the amount of each discount, rebate and other applicable credit on bills and invoices presented to the school food authority for payment and identify the amount as a discount, rebate, or in the case of other applicable credits, the nature of the credit. If approved by the State agency, the school food authority may permit the contractor to report this information on a less frequent basis than monthly, but no less frequently than annually;
+
+(v) The contractor must identify the method by which it will report discounts, rebates and other applicable credits allocable to the contract that are not reported prior to conclusion of the contract; and
+
+(vi) The contractor must maintain documentation of costs and discounts, rebates and other applicable credits, and must furnish such documentation upon request to the school food authority, the State agency, or the Department.
+
+(2) *Prohibited expenditures.* No expenditure may be made from the nonprofit school food service account for any cost resulting from a cost reimbursable contract that fails to include the requirements of this section, nor may any expenditure be made from the nonprofit school food service account that permits or results in the contractor receiving payments in excess of the contractor's actual, net allowable costs.
+
+(e) *Geographic preference.* A school food authority participating in the Program may apply a geographic preference when procuring milk. When utilizing the geographic preference to procure milk, the school food authority making the purchase has the discretion to determine the local area to which the geographic preference option will be applied.
+
+(Pub. L. 79-396, 60 Stat. 231 (42 U.S.C. 1751); Pub. L. 89-642, 80 Stat. 885-890 (42 U.S.C. 1773); Pub. L. 91-248, 84 Stat. 207 (42 U.S.C. 1759))[Amdt. 27, 48 FR 19355, Apr. 29, 1983, as amended at 71 FR 39516, July 13, 2006; 72 FR 61492, Oct. 31, 2007; 76 FR 22607, Apr. 22, 2011; 81 FR 66490, Sept. 28, 2016]

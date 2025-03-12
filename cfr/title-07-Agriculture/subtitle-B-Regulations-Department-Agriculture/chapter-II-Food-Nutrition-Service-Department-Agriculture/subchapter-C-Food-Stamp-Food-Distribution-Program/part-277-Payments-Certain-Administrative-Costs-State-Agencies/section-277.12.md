@@ -1,0 +1,9 @@
+##### § 277.12 Retention and custody of records. #####
+
+(a) *Retention period.* All financial records, supporting documents, statistical records, negotiated contracts, and all other records pertinent to program funds shall be maintained for three years from the date of submission of the annual financial status report of the relevant fiscal year to which they apply except that:
+
+(1) If any litigation, claim, or audit is started before the expiration of the three-year period, the applicable records shall be retained until these have been resolved.
+
+(2) In the case of a payment by a State agency to a subagency or contractor using program funds, the State agency, USDA, the Comptroller General of the United States, or any of their duly authorized representatives, shall have access to any book, documents, papers and records of the subagency or contractor which the State agency, USDA, or the Comptroller General of the United States or any of their duly authorized representatives, determine are pertinent to administration of the specific FNS program funds, for the purpose of making audit, examination, excerpts, and transcripts.
+
+(b) *Restrictions on public access.* Unless required by laws, FNS will not place restrictions on State agencies which limit public access to their records or the records of their subagencies or contractors that are pertinent to the administrative funding provided by FNS except when the State agency can demonstrate that such records must be kept confidential and would have been excepted from disclosure pursuant to the Freedom of Information Act (5 U.S.C. 552) if the records had belonged to FNS.

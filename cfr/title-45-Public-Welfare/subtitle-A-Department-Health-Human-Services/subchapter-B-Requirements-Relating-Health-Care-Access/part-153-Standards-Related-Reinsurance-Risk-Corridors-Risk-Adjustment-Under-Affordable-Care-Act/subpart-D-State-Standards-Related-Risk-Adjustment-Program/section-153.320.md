@@ -1,10 +1,8 @@
 ##### § 153.320 Federally certified risk adjustment methodology. #####
 
-Link to an amendment published at 81 FR 94174, Dec. 22, 2016.
-
 (a) *General requirement.* Any risk adjustment methodology used by a State, or HHS on behalf of the State, must be a Federally certified risk adjustment methodology. A risk adjustment methodology may become Federally certified by one of the following processes:
 
-(1) The risk adjustment methodology is developed by HHS and published in the applicable annual HHS notice of benefit and payment parameters; or
+(1) The risk adjustment methodology is developed by HHS and published in advance of the benefit year in rulemaking; or
 
 (2) An alternate risk adjustment methodology is submitted by a State in accordance with § 153.330, reviewed and certified by HHS, and published in the applicable annual HHS notice of benefit and payment parameters.
 
@@ -12,7 +10,7 @@ Link to an amendment published at 81 FR 94174, Dec. 22, 2016.
 
 (1) A complete description of the risk adjustment model, including -
 
-(i) Factors to be employed in the model, including but not limited to demographic factors, diagnostic factors, and utilization factors, if any;
+(i) Draft factors to be employed in the model, including but not limited to, demographic factors, diagnostic factors, and utilization factors, if any, the dataset(s) to be used to calculate final coefficients, and the date by which final coefficients will be released in guidance;
 
 (ii) The qualifying criteria for establishing that an individual is eligible for a specific factor;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 81 FR 94174, Dec. 22, 2016.
 
 (c) *Use of methodology for States that do not operate a risk adjustment program.* HHS will specify in the annual HHS notice of benefit and payment parameters for the applicable year the Federally certified risk adjustment methodology that will apply in States that do not operate a risk adjustment program.
 
-[77 FR 17247, Mar. 23, 2012, as amended at 78 FR 15528, Mar. 11, 2013]
+[77 FR 17247, Mar. 23, 2012, as amended at 78 FR 15528, Mar. 11, 2013; 81 FR 94174, Dec. 22, 2016]

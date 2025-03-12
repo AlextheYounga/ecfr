@@ -1,0 +1,3 @@
+##### § 4287.133 Sale of corporate stock. #####
+
+Any sale or transfer of corporate stock must be approved by the Agency in writing and must be to an eligible individual or entity in accordance with § 4279.108(a) and 4279.108(b) of this chapter. In the event a portion of the borrower's stock is sold or transferred, the Agency may require personal or corporate guarantees from those then owning a 20 percent or more interest in the borrower in accordance with § 4279.132 of this chapter.

@@ -1,0 +1,9 @@
+##### § 1728.20 Establishment of standards and specifications. #####
+
+(a) *National and other standards.* RUS will utilize standards of national standardizing groups, such as the American National Standards Institute (ANSI), American Wood Preservers' Association (AWPA), the various national engineering societies and the National Electrical Safety Code (NESC), to the greatest extent practical. When there are no national standards or when RUS determines that the existing national standards are not adequate for rural electric systems, RUS will prepare standards for material and equipment to be used on systems of electric borrowers. RUS standards and specifications will be codified or listed in § 1728.97, Incorporation by Reference of Electric Standards and Specifications. RUS will also prepare specifications for materials and equipment when it determines that such specifications will result in reduced costs, improved materials and equipment, or in the more effective use of engineering services.
+
+(b) *Deviations from Standards.* No member of the RUS staff will be permitted to authorize deviations from the standard specifications, or to establish or change the technical standards, or to authorize the use of items that have not received acceptance by the Technical Standards Committees, except as provided for under § 1728.70, or by authorization and/or delegation of authority by the Administrator of RUS.
+
+(c) *Category of Items.* Items appearing in the List of Materials are listed by categories of generic items which are used in RUS construction standards incorporated by reference in § 1728.97. RUS will establish and define these categories and will establish all criteria for acceptability within these categories.
+
+[50 FR 47710, Nov. 20, 1985. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 55 FR 53487, Dec. 31, 1990]

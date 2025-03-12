@@ -1,0 +1,3 @@
+##### § 3419.7 Redistribution of funds. #####
+
+All formula funds not matched and reported under § 3419.5 by July 1 of each fiscal year will be reapportioned to the other eligible institutions who have satisfied their current fiscal year requirement for matching funds for the formula funds. Unmatched research and extension funds will be reapportioned in accordance with the research and extension statutory distribution formulas applicable to the 1890 and 1862 land-grant institutions, respectively. Any redistribution of funds shall be subject to the same matching requirement under § 3419.2.

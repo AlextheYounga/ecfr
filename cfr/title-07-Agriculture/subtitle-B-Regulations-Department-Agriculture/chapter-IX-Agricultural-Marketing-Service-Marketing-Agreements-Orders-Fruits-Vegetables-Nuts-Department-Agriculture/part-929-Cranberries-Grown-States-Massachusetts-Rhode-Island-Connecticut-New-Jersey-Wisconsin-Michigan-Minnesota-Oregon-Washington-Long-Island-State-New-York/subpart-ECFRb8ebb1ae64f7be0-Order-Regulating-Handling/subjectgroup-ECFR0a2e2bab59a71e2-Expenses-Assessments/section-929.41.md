@@ -1,0 +1,9 @@
+##### § 929.41 Assessments. #####
+
+(a) As a handler's pro rate share of the expenses which the Secretary finds are reasonable and likely to be incurred by the committee during a fiscal period, a handler shall pay to the committee assessments on all cranberries acquired as the first handler thereof during such period, except as provided in § 929.55: *Provided,* That no handler shall pay assessments on excess cranberries as provided in § 929.57. The payment of assessments for the maintenance and functioning of the committee may be required under this part throughout the period it is in effect, irrespective of whether particular provisions thereof are suspended or become inoperative.
+
+(b) The Secretary shall fix the rate of assessment to be paid by each handler during a fiscal period in an amount designated to secure funds sufficient to cover the expenses which may be incurred during such period and to accumulate and maintain a reserve fund equal to approximately one fiscal period's expenses. At any time during or after the fiscal period, the Secretary may increase the assessment rate in order to secure funds sufficient to cover any later finding by the Secretary relative to the expenses which may be incurred. Such increase shall be applied to all cranberries acquired during the applicable fiscal period. In order to provide funds for the administration of the provisions of this part during the first part of a fiscal year, before sufficient operating income is available from assessments, the committee may accept the payment of assessments in advance and may also borrow money for such purposes.
+
+(c) If a handler does not pay such assessment within the period of time prescribed by the committee, the assessment may be increased by either a late payment charge, or an interest charge, or both, at rates prescribed by the committee, with the approval of the Secretary.
+
+[57 FR 38748, Aug. 27, 1992]

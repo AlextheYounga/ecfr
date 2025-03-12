@@ -1,0 +1,3 @@
+##### § 3550.1 Applicability. #####
+
+This part sets forth policies for the direct single family housing loan programs operated by the Rural Housing Service (RHS) of the U.S. Department of Agriculture (USDA). It addresses the requirements of sections 502 and 504 of the Housing Act of 1949, as amended, and includes policies regarding both loan and grant origination and servicing. Procedures for implementing these regulations can be found in program handbooks, available in any Rural Development office. Any provision on the expenditure of funds under this part is contingent upon the availability of funds.

@@ -1,0 +1,3 @@
+##### § 3402.4 Food and agricultural sciences areas targeted for National Needs Graduate and Postdoctoral Fellowship Grants Program support. #####
+
+Areas of the food and agricultural sciences, including multidisciplinary studies, appropriate for Fellowship grant applications are those in which developing shortages of expertise have been determined and targeted by HEP for National Needs Graduate and Postdoctoral Fellowship Grants Program support. When funds are available and HEP determines that a new competition is warranted, the specific areas and funds per area will be identified in a funding opportunity announcement announcing the program and soliciting program applications.

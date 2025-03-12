@@ -1,0 +1,25 @@
+##### § 1717.656 Exemption of certain borrowers from controls. #####
+
+(a) Any distribution or power supply borrower that meets all of the following criteria is exempted from the provisions of the RUS mortgage and loan contract that require RUS approval of investments, loans, and guarantees, except investments, loans, and guarantees made to extend, add to, or modify the borrower's electric system:
+
+(1) The borrower is in compliance with all provisions of its RUS mortgage, RUS loan contract, and any other agreements with RUS;
+
+(2) The average revenue per kWh for residential service received by the borrower during the two most recent calendar years does not exceed 130 percent of the average revenue per kWh for residential service during the same period for all residential consumers located in the state or states served by the borrower. This criterion applies only to distribution borrowers and does not apply to power supply borrowers. If a borrower serves customers in more than one state, the state average revenue per kWh will be based on a weighted average using the kWh sales by the borrower in each state as the weight. The calculation will be based on the two most recent calendar years for which both borrower and state-wide data are available. If a borrower fails to qualify for an exemption based solely on its failure to meet this criterion on rate disparity, at the borrower's request the Administrator may, at his or her sole discretion, exempt the borrower if he or she finds that the borrower's strengths with respect to the other criteria are sufficient to offset any weakness due to rate disparity;
+
+(3) In the most recent calendar year for which data are available, the borrower achieved an operating TIER of at least 1.0 and an operating DSC of at least 1.0, in each case based on the average of the two highest ratios achieved in the three most recent calendar years;
+
+(4) The borrower's ratio of net utility plant to long-term debt is at least 1.1, based on year-end data for the most recent calendar year for which data are available; and
+
+(5) The borrower's equity is equal to at least 27 percent of its total assets, based on year-end data for the most recent calendar year for which data are available.
+
+(b) While borrowers meeting the criteria in paragraph (a) of this section are exempt from RUS approval of investments, loans and guarantees, they are nevertheless subject to the record-keeping, reporting, and other requirements of § 1717.658.
+
+(c) Any borrower exempt under paragraph (a) of this section that ceases to meet the criteria for exemption shall, upon written notice from RUS, no longer be exempt and shall be subject to the provisions of this subpart applicable to non-exempt borrowers. A borrower may regain its exemption if it subsequently meets the criteria in paragraph (a) of this section, and is so notified in writing by RUS.
+
+(d)(1) A borrower that loses its exemption and is not in compliance with all provisions of its mortgage, loan contract, or any other agreement with RUS may be required to restructure or reduce its portfolio of investments, loans and guarantees as provided in § 1717.653(b). If the borrower's portfolio exceeds the 15 percent level, the borrower will be required to restructure or reduce its portfolio to the 15 percent level or below. For example, if the borrower's mortgage or loan contract has an approval threshold, the borrower may be required to reduce its portfolio to that level, which in many cases is 3 percent of total utility plant.
+
+(2) A borrower that loses its exemption but is in compliance with all provisions of its mortgage, loan contract, and any other agreements with RUS will be required, if its investments, loans and guarantees exceed the 15 percent level, to restructure or reduce its portfolio to the 15 percent level, unless the Administrator, in his or her sole discretion, determines that such action would not be in the financial interest of the government with respect to loan security and/or repayment. (Such borrower is eligible to ask RUS to exclude a portion of its investments under the conditions set forth in § 1717.657(d).)
+
+(3) If a borrower required to reduce or restructure its portfolio does not fully comply within a reasonable period of time determined by the Administrator, which shall not exceed 12 months from the date the borrower was notified of its loss of exemption, then, upon written notice from RUS, the borrower shall be in default of its RUS loan contract and/or RUS mortgage.
+
+(e) By no later than July 1 of each year, RUS will provide written notice to any borrowers whose exemption status has changed as a result of more recent data being available for the qualification criteria set forth in paragraph (a) of this section, or as a result of other reasons, such as corrections in the available data. An explanation of the reasons for any changes in exemption status will also be provided to the borrowers affected.

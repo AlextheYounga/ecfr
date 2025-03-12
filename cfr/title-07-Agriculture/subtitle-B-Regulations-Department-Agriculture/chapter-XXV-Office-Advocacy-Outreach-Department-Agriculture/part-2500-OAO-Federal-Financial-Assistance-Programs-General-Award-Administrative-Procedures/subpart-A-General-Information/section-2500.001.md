@@ -1,0 +1,3 @@
+##### § 2500.001 Applicability of regulations. #####
+
+The regulations in subparts A through E of this part apply to the programs authorized under section 14013 of the FCEA to be administered within the Office of Advocacy and Outreach (OAO). The purpose of this part is to set forth regulations for competitive and noncompetitive grants, cooperative agreements, and other assistance agreements awarded through OAO.

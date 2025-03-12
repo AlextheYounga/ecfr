@@ -1,0 +1,3 @@
+##### § 3405.22 Evaluation of program. #####
+
+Grantees should be aware that NIFA may, as a part of its own program evaluation activities, carry out in-depth evaluations of assisted activities. Thus, grantees should be prepared to cooperate with NIFA personnel, or persons retained by NIFA, evaluating the institutional context and the impact of any supported project. Grantees may be asked to provide general information on any students and faculty supported, in whole or in part, by a grant awarded under this program; information that may be requested includes, but is not limited to, standardized academic achievement test scores, grade point average, academic standing, career patterns, age, race/ethnicity, gender, citizenship, and disability.

@@ -1,0 +1,7 @@
+##### § 8.8 Use by public informational services. #####
+
+(a) In any advertisement, display, exhibit, visual and audio-visual material, news release, publication in any form, radio and television program devoted in whole or in part to 4-H, the 4-H message or salute must be distinctly set apart from any commercial product message or reference.
+
+(b) Advertisements, news releases, publications in any form, visuals and audio-visuals, or displays in any form must not include actual or implied testimonials or endorsements of business firms, commercial products or services, either by 4-H Clubs, other 4-H organizations and affiliated groups, 4-H youth participants, volunteer 4-H leaders, the Cooperative Extension Services, the land-grant institutions, USDA, or by any employees associated with any of the foregoing. Statements that a product is used or preferred to the exclusion of similar products are not permitted.
+
+(c) The granting of an authorization to a non-Extension affiliated agency, organization or individual, for production of films, visual and audio-visual materials, books, publications in any form, etc., is contingent upon approval of the initial proposal and subject to review of the script of the visual or audio-visual or draft of the publication when the draft is in the final working form.

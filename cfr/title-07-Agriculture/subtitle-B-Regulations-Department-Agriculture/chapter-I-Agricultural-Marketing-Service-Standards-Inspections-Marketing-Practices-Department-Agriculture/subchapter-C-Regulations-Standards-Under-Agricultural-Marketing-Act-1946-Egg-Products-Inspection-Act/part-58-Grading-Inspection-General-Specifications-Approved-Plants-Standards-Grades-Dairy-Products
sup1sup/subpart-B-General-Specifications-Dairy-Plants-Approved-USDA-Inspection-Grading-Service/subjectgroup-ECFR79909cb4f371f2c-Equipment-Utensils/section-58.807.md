@@ -1,0 +1,7 @@
+##### § 58.807 General construction, repair and installation. #####
+
+All equipment and utensils necessary for the manufacture of whey, whey products and lactose shall meet the same general requirements for materials and construction as outlined in §§ 58.128 and 58.215 through 58.230 as applicable, except for the following:
+
+(a) *Modified Whey Products.* Equipment for whey fractionation, such as ultrafiltration, reverse osmosis, gel filtration, and electrodialysis shall be constructed in accordance with 3-A sanitary design principles, except where engineering requirements preclude strict adherence to such standards. Materials used for product contact surfaces shall meet applicable 3-A Sanitary Standards or Food and Drug Administration requirements. All equipment shall be of sanitary construction and readily cleanable.
+
+(b) *Lactose.* Equipment used in the further processing of lactose following its separation from whey shall have smooth surfaces, be cleanable, free from cracks or crevices, readily accessible for inspection and shall be constructed of non-toxic material meeting applicable Food and Drug Administration requirements and under conditions of use shall be resistant to corrosion, pitting or flaking. [The use of stainless steel is optional.]

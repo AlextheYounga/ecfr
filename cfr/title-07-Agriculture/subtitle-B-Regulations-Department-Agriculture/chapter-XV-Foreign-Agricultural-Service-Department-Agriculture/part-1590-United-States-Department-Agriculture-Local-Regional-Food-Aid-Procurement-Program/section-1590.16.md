@@ -1,0 +1,3 @@
+##### § 1590.16 Noncompliance with an agreement. #####
+
+If a recipient fails to comply with a Federal statute or regulation or the terms and conditions of the agreement, and FAS determines that the noncompliance cannot be remedied by imposing additional conditions, FAS may take one or more of the actions set forth in 2 CFR 200.338, including initiating a claim as a remedy. FAS may also initiate a claim against a recipient if the procured commodities are damaged or lost, or the FAS-provided funds, interest, or program income are misused or lost, due to an action or omission of the recipient.

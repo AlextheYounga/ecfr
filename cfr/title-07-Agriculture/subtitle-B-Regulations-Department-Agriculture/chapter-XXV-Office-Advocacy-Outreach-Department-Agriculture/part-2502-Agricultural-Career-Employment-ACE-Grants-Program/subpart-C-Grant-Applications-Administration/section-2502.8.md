@@ -1,0 +1,5 @@
+##### § 2502.8 Pre-award, award, and post-award procedures and administration of grants. #####
+
+(a) Unless otherwise provided in this rule, the requirements governing pre-award solicitation and submission of proposals and/or applications, the review and evaluation of such, the award of grant funds, and post-award and close-out procedures are those set forth at 7 CFR part 2500, subparts A, B, C, D, and E.
+
+(b) For purposes of the ACE Grants Program, the provisions of Subpart E, at 7 CFR 2500.49, “Prior Approvals,” shall not apply. In lieu of that provision, the following requirements shall apply: Awardees may not subcontract more than 20 percent of the award to other parties without prior written approval of the ADO. To request approval, a justification for the proposed subcontract, a performance statement, and a detailed budget for the subcontract must be submitted in writing to the ADO.

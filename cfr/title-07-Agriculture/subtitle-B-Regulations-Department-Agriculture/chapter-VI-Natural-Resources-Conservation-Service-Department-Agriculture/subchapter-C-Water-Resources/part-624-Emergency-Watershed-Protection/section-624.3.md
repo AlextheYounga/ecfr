@@ -1,0 +1,3 @@
+##### § 624.3 Scope. #####
+
+EWP Program technical and financial assistance may be made available to a qualified sponsor, or landowners when a floodplain easement is the selected alternative by the Secretary of Agriculture, upon a qualified sponsor or landowner's request when a Federal emergency is declared by the President or when a local emergency is declared by the NRCS State Conservationist. The EWP Program is designed for emergency recovery work, including the purchase of floodplain easements. Emergency watershed protection is authorized in the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the U.S. Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.

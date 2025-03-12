@@ -1,0 +1,3 @@
+##### § 2901.3 Oral presentation. #####
+
+Any person seeking an adjustment under this part 2901 shall be given an opportunity to make an oral presentation of data, views and arguments in support of the request for an adjustment, provided that a request to make an oral presentation is submitted in writing with the request for the adjustment. An official of the Department of Agriculture shall preside at such oral presentation.

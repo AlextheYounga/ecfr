@@ -2,7 +2,7 @@
 
 As prescribed in 12.301(b)(3), insert the following clause:
 
-Contract Terms and Conditions - Commercial Items (MAY 2015)
+Contract Terms and Conditions - Commercial Items (Jan 2017)
 
 (a) *Inspection/Acceptance.* The Contractor shall only tender for acceptance those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. If repair/replacement or reperformance will not correct the defects or is not possible, the Government may seek an equitable price reduction or adequate consideration for acceptance of nonconforming supplies or services. The Government must exercise its postacceptance rights (1) within a reasonable time after the defect was discovered or should have been discovered; and (2) before any substantial change occurs in the condition of the item, unless the change is due to the defect in the item.
 
@@ -22,7 +22,7 @@ Contract Terms and Conditions - Commercial Items (MAY 2015)
 
 (ii) Invoice date and number;
 
-(iii) Contract number, contract line item number and, if applicable, the order number;
+(iii) Contract number, line item number and, if applicable, the order number;
 
 (iv) Description, quantity, unit of measure, unit price and extended price of the items delivered;
 
@@ -64,7 +64,7 @@ Contract Terms and Conditions - Commercial Items (MAY 2015)
 
 (B) Affected contract number and delivery order number, if applicable;
 
-(C) Affected contract line item or subline item, if applicable; and
+(C) Affected line item or subline item, if applicable; and
 
 (D) Contractor point of contact.
 
@@ -148,7 +148,7 @@ Contract Terms and Conditions - Commercial Items (MAY 2015)
 
 (End of clause)
 
-*Alternate I* (MAY 2014). When a time-and-materials or labor-hour contract is contemplated, substitute the following paragraphs (a), (e), (i), (l), and (m) for those in the basic clause.
+*Alternate I* (JAN 2017). When a time-and-materials or labor-hour contract is contemplated, substitute the following paragraphs (a), (e), (i), (l), and (m) for those in the basic clause.
 
 (a) *Inspection/Acceptance.* (1) The Government has the right to inspect and test all materials furnished and services performed under this contract, to the extent practicable at all places and times, including the period of performance, and in any event before acceptance. The Government may also inspect the plant or plants of the Contractor or any subcontractor engaged in contract performance. The Government will perform inspections and tests in a manner that will not unduly delay the work.
 
@@ -282,7 +282,7 @@ Contract Terms and Conditions - Commercial Items (MAY 2015)
 
 (B) Affected contract number and delivery order number, if applicable;
 
-(C) Affected contract line item or subline item, if applicable; and
+(C) Affected line item or subline item, if applicable; and
 
 (D) Contractor point of contact.
 
