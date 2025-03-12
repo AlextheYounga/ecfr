@@ -4,4 +4,5 @@
 
 (b) *Hard cider.* The container of any wine eligible for the “hard cider” tax class set forth in § 24.270 of this chapter must be labeled in accordance with the requirements applicable to wine containers removed from wine premises under § 24.257(a)(4) of this chapter. (See § 24.331 of this chapter for the eligibility requirements for the hard cider tax rate).
 
-(Approved by the Office of Management and Budget under control number 1513-XXXX)[20 FR 3561, May 21, 1955. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-242, 51 FR 39526, Oct. 29, 1986; T.D. ATF-474, 67 FR 11232, Mar. 13, 2002; T.D. TTB-147, 82 FR 7666, Jan. 23, 2017]
+(Approved by the Office of Management and Budget under control number 1513-0092 and 1513-0138)[20 FR 3561, May 21, 1955. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-242, 51 FR 39526, Oct. 29, 1986; T.D. ATF-474, 67 FR 11232, Mar. 13, 2002; T.D. TTB-147, 82 FR 7666, Jan. 23, 2017; 82 FR 57353, Dec. 5, 2017]Effective Date Note:At 82 FR 57353, Dec. 5, 2017, the OMB control number reference is amended by removing the phrase “number 1513-XXXX” and
+adding in its place the phrase “numbers 1513-0092 and 1513-0138”, effective from Dec. 5, 2017, through Jan. 23, 2020.

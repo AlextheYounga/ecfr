@@ -1,5 +1,7 @@
 ##### § 1114.21 Applicability; general provisions. #####
 
+Link to an amendment published at 82 FR 57381, Dec. 5, 2017.
+
 (a) *When discovery is available.* (1) Parties may obtain discovery under this subpart regarding any matter, not privileged, which is relevant to the subject matter involved in a proceeding other than an informal proceeding. For the purpose of this subchapter, informal proceedings are those not required to be determined on the record after hearing and include informal complaints and all proceedings assigned for initial disposition to employee boards under § 1011.5.
 
 (2) It is not grounds for objection that the information sought will be inadmissible as evidence if the information sought appears reasonably calculated to lead to the discovery of admissible evidence.

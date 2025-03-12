@@ -1,5 +1,7 @@
 ##### § 1109.4 Mandatory mediation in rate cases to be considered under the stand-alone cost methodology. #####
 
+Link to an amendment published at 82 FR 57379, Dec. 5, 2017.
+
 (a) *Mandatory use of mediation.* A shipper seeking rate relief from a railroad or railroads in a case involving the stand-alone cost methodology must engage in non-binding mediation of its dispute with the railroad upon filing a formal complaint under 49 CFR part 1111.
 
 (b) *Assignment of mediators.* Within 10 business days after the shipper files its formal complaint, the Board will assign one or more mediators to the case. Within 5 business days of the assignment to mediate, the mediator(s) shall contact the parties to discuss ground rules and the time and location of any meeting.

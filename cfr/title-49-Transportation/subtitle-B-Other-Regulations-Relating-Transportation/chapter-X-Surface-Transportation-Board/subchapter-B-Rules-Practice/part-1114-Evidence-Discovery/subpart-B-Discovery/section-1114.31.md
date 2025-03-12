@@ -1,5 +1,7 @@
 ##### § 1114.31 Failure to respond to discovery. #####
 
+Link to an amendment published at 82 FR 57381, Dec. 5, 2017.
+
 (a) *Failure to answer.* If a deponent fails to answer or gives an evasive answer or incomplete answer to a question propounded under § 1114.24(a), or a party fails to answer or gives evasive or incomplete answers to written interrogatories served pursuant to § 1114.26(a), the party seeking discovery may apply for an order compelling an answer by motion filed with the Board and served on all parties and deponents. Such motion to compel an answer must be filed with the Board and served on all parties and deponents. Such motion to compel an answer must be filed with the Board within 10 days after the failure to obtain a responsive answer upon deposition, or within 10 days after expiration of the period allowed for submission of answers to interrogatories. On matters relating to a deposition on oral examination, the proponent of the question may complete or adjourn the examination before he applies for an order.
 
 (1) *Reply to motion to compel generally.* Except in rate cases to be considered under the stand-alone cost methodology or simplified standards, the time for filing a reply to a motion to compel is governed by 49 CFR 1104.13.

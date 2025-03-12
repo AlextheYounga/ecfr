@@ -1,5 +1,7 @@
 ##### § 1130.1 When no damages sought. #####
 
+Link to an amendment published at 82 FR 57382, Dec. 5, 2017.
+
 (a) *Form and content; copies.* Informal complaint may be by letter or other writing and will be serially numbered as filed. The complaint must contain the essential elements of a formal complaint as specified at 49 CFR 1111.1(a) and may embrace supporting papers. The original and one copy must be filed with the Board.
 
 (b) *Correspondence handling.* When an informal complaint appears susceptible of informal adjustment, the Board will send a copy or statement of the complaint to each subject of the complaint in an attempt to have it satisfied by correspondence, thereby avoiding the filing of a formal complaint.

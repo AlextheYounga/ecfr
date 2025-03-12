@@ -6,8 +6,7 @@ Three gallons of ammonia, aqueous, 27 to 30 percent by weight; 3 gallons of stro
 
 (b) *Authorized uses.* (1) As a solvent:
 
-141. Shampoos.
-.142. Soap and bath preparations.210. External pharmaceuticals, not U.S.P. or N.F.450. Cleaning solutions (including household detergents).
+141. Shampoos.142. Soap and bath preparations.210. External pharmaceuticals, not U.S.P. or N.F.450. Cleaning solutions (including household detergents).
 
 (2) As a raw material:
 
