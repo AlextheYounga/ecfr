@@ -1,5 +1,7 @@
 ##### § 40.65 What does the collector check for when the employee presents a specimen? #####
 
+Link to an amendment published at 88 FR 27641, May 2, 2023.
+
 As a collector, you must check the following when the employee gives the collection container to you:
 
 (a) *Sufficiency of specimen.* You must check to ensure that the specimen contains at least 45 mL of urine.

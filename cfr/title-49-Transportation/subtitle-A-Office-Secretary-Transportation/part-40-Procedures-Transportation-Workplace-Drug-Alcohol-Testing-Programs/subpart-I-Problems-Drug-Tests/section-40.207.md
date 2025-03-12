@@ -1,5 +1,7 @@
 ##### § 40.207 What is the effect of a cancelled drug test? #####
 
+Link to an amendment published at 88 FR 27648, May 2, 2023.
+
 (a) A cancelled drug test is neither positive nor negative.
 
 (1) As an employer, you must not attach to a cancelled test the consequences of a positive test or other violation of a DOT drug testing regulation (*e.g.,* removal from a safety-sensitive position).

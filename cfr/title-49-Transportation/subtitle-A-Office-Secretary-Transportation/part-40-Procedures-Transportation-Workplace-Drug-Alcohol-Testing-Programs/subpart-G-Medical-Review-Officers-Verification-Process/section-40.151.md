@@ -1,5 +1,7 @@
 ##### § 40.151 What are MROs prohibited from doing as part of the verification process? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 As an MRO, you are prohibited from doing the following as part of the verification process:
 
 (a) You must not consider any evidence from tests of urine samples or other body fluids or tissues (*e.g.,* blood or hair samples) that are not collected or tested in accordance with this part. For example, if an employee tells you he went to his own physician, provided a urine specimen, sent it to a laboratory, and received a negative test result or a DNA test result questioning the identity of his DOT specimen, you are required to ignore this test result.

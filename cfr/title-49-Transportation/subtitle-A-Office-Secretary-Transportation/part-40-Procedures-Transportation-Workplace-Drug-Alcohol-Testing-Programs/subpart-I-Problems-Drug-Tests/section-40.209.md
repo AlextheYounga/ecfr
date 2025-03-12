@@ -1,5 +1,7 @@
 ##### § 40.209 What procedural problems do not result in the cancellation of a test and do not require correction? #####
 
+Link to an amendment published at 88 FR 27649, May 2, 2023.
+
 (a) As a collector, laboratory, MRO, employer or other person administering the drug testing process, you must document any errors in the testing process of which you become aware, even if they are not considered problems that will cause a test to be cancelled as listed in this subpart. Decisions about the ultimate impact of these errors will be determined by other administrative or legal proceedings, subject to the limitations of paragraph (b) of this section.
 
 (b) No person concerned with the testing process may declare a test cancelled based on an error that does not have a significant adverse effect on the right of the employee to have a fair and accurate test. Matters that do not result in the cancellation of a test include, but are not limited to, the following:

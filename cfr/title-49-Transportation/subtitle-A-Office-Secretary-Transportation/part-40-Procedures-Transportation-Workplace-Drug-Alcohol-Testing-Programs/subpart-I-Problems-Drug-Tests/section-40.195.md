@@ -1,5 +1,7 @@
 ##### § 40.195 What happens when an individual is unable to provide a sufficient amount of urine for a pre-employment follow-up or return-to-duty test because of a permanent or long-term medical condition? #####
 
+Link to an amendment published at 88 FR 27648, May 2, 2023.
+
 (a) This section concerns a situation in which an employee has a medical condition that precludes him or her from providing a sufficient specimen for a pre-employment follow-up or return-to-duty test and the condition involves a permanent or long-term disability. As the MRO in this situation, you must do the following:
 
 (1) You must determine if there is clinical evidence that the individual is an illicit drug user. You must make this determination by personally conducting, or causing to be conducted, a medical evaluation and through consultation with the employee's physician and/or the physician who conducted the evaluation under § 40.193(d).

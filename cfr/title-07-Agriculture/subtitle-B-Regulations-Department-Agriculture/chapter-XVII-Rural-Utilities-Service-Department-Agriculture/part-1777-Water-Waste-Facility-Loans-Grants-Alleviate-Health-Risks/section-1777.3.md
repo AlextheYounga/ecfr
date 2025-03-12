@@ -1,0 +1,3 @@
+##### § 1777.3 Objective. #####
+
+The objective of the Section 306C Water and Waste Facility Loans and Grants to Alleviate Health Risks program is to provide water and waste disposal facilities and services to low-income rural areas whose residents are experiencing a significant health risk due to the fact that a significant proportion of the community's residents do not have access to, or are not served by, adequate affordable water supply systems or waste disposal facilities.

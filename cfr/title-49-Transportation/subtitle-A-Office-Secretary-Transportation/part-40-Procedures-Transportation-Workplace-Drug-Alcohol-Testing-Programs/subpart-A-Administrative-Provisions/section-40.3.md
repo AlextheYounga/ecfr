@@ -1,5 +1,7 @@
 ##### § 40.3 What do the terms used in this part mean? #####
 
+Link to an amendment published at 88 FR 27636, May 2, 2023.
+
 In this part, the terms listed in this section have the following meanings:
 
 *Adulterated specimen.* A specimen that has been altered, as evidenced by test results showing either a substance that is not a normal constituent for that type of specimen or showing an abnormal concentration of an endogenous substance.

@@ -1,5 +1,7 @@
 ##### § 655.44 Post-accident testing. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 (a) Accidents. (1) *Fatal accidents.* (i) As soon as practicable following an accident involving the loss of human life, an employer shall conduct drug and alcohol tests on each surviving covered employee operating the public transportation vehicle at the time of the accident. Post-accident drug and alcohol testing of the operator is not required under this section if the covered employee is tested under the fatal accident testing requirements of the Federal Motor Carrier Safety Administration rule 49 CFR 389.303(a)(1) or (b)(1).
 
 (ii) The employer shall also drug and alcohol test any other covered employee whose performance could have contributed to the accident, as determined by the employer using the best information available at the time of the decision.

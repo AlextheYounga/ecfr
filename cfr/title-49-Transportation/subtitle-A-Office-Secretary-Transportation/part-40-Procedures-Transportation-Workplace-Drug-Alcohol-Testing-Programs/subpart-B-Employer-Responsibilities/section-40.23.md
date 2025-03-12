@@ -1,5 +1,7 @@
 ##### § 40.23 What actions do employers take after receiving verified test results? #####
 
+Link to an amendment published at 88 FR 27637, May 2, 2023.
+
 (a) As an employer who receives a verified positive drug test result, you must immediately remove the employee involved from performing safety-sensitive functions. You must take this action upon receiving the initial report of the verified positive test result. Do not wait to receive the written report or the result of a split specimen test.
 
 (b) As an employer who receives a verified adulterated or substituted drug test result, you must consider this a refusal to test and immediately remove the employee involved from performing safety-sensitive functions. You must take this action on receiving the initial report of the verified adulterated or substituted test result. Do not wait to receive the written report or the result of a split specimen test.

@@ -1,5 +1,7 @@
 ##### § 40.91 What validity tests must laboratories conduct on primary specimens? #####
 
+Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 As a laboratory, when you conduct validity testing under § 40.89, you must conduct it in accordance with the requirements of this section.
 
 (a) You must determine the creatinine concentration on each primary specimen. You must also determine its specific gravity if you find the creatinine concentration to be less than 20 mg/dL.

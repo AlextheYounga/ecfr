@@ -1,5 +1,7 @@
 ##### § 40.187 What does the MRO do with split specimen laboratory results? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 As the MRO, the split specimen laboratory results you receive will fall into five categories. You must take the following action, as appropriate, when a laboratory reports split specimen results to you.
 
 (a) *Category 1:* The laboratory reconfirmed one or more of the primary specimen results. As the MRO, you must report to the DER and the employee the result(s) that was/were reconfirmed.

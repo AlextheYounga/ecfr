@@ -1,5 +1,7 @@
 ##### § 40.261 What is a refusal to take an alcohol test, and what are the consequences? #####
 
+Link to an amendment published at 88 FR 27649, May 2, 2023.
+
 (a) As an employee, you are considered to have refused to take an alcohol test if you:
 
 (1) Fail to appear for any test (except a pre-employment test) within a reasonable time, as determined by the employer, consistent with applicable DOT agency regulations, after being directed to do so by the employer. This includes the failure of an employee (including an owner-operator) to appear for a test when called by a C/TPA (see § 40.241(a));

@@ -1,5 +1,7 @@
 ##### § 40.301 What is the SAP's function in the follow-up evaluation of an employee? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 (a) As a SAP, after you have prescribed assistance under § 40.293, you must re-evaluate the employee to determine if the employee has successfully carried out your education and/or treatment recommendations.
 
 (1) This is your way to gauge for the employer the employee's ability to demonstrate successful compliance with the education and/or treatment plan.

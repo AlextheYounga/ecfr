@@ -1,5 +1,7 @@
 ##### § 382.409 Medical review officer or consortium/third party administrator record retention for controlled substances. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 (a) A medical review officer or third party administrator shall maintain all dated records and notifications, identified by individual, for a minimum of five years for verified positive controlled substances test results.
 
 (b) A medical review officer or third party administrator shall maintain all dated records and notifications, identified by individual, for a minimum of one year for negative and canceled controlled substances test results.

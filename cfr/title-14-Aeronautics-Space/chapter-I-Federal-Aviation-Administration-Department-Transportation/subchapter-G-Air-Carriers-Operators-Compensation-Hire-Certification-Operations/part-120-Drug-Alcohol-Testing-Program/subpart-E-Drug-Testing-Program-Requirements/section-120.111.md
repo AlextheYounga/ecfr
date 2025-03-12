@@ -1,5 +1,7 @@
 ##### § 120.111 Administrative and other matters. #####
 
+Link to an amendment published at 88 FR 27636, May 2, 2023.
+
 (a) *MRO record retention requirements.* (1) Records concerning drug tests confirmed positive by the laboratory shall be maintained by the MRO for 5 years. Such records include the MRO copies of the custody and control form, medical interviews, documentation of the basis for verifying as negative test results confirmed as positive by the laboratory, any other documentation concerning the MRO's verification process.
 
 (2) Should the employer change MRO's for any reason, the employer shall ensure that the former MRO forwards all records maintained pursuant to this rule to the new MRO within ten working days of receiving notice from the employer of the new MRO's name and address.

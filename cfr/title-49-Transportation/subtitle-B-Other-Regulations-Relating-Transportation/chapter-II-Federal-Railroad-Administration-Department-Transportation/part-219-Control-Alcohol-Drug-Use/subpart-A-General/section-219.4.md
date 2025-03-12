@@ -1,5 +1,7 @@
 ##### § 219.4 Recognition of a foreign railroad's workplace testing program. #####
 
+Link to an amendment published at 88 FR 27652, May 2, 2023.
+
 (a) *General.* A foreign railroad may petition the FRA Associate Administrator for Safety for recognition of a workplace testing program promulgated under the laws of its home country as a compatible alternative to the return-to-service requirements in subpart B of this part and the requirements of subparts E, F, and G of this part with respect to its employees whose primary reporting point is outside the United States but who enter the United States to perform train or dispatching service and with respect to its final applicants for, or its employees seeking to transfer for the first time to, duties involving such service.
 
 (1) To be so considered, the petition must document that the foreign railroad's workplace testing program contains equivalents to subparts B, F, G, and K of this part:

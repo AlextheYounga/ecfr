@@ -1,5 +1,7 @@
 ##### § 40.135 What does the MRO tell the employee at the beginning of the verification interview? #####
 
+Link to an amendment published at 88 FR 27645, May 2, 2023.
+
 (a) As the MRO, you must tell the employee that the laboratory has determined that the employee's test result was positive, adulterated, substituted, or invalid, as applicable. You must also tell the employee of the drugs for which his or her specimen tested positive, or the basis for the finding of adulteration or substitution.
 
 (b) You must explain the verification interview process to the employee and inform the employee that your decision will be based on information the employee provides in the interview.

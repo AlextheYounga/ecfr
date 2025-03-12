@@ -1,5 +1,7 @@
 ##### § 40.208 What problem requires corrective action but does not result in the cancellation of a test? #####
 
+Link to an amendment published at 88 FR 27649, May 2, 2023.
+
 (a) If, as a laboratory, collector, employer, or other person implementing the DOT drug testing program, you become aware that the specimen temperature on the CCF was not checked and the “Remarks” line did not contain an entry regarding the temperature being out of range, you must take corrective action, including securing a memorandum for the record explaining the problem and taking appropriate action to ensure that the problem does not recur.
 
 (b) This error does not result in the cancellation of the test.

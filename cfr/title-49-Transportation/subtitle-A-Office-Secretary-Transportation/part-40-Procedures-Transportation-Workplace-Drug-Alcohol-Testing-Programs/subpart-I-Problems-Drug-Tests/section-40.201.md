@@ -1,5 +1,7 @@
 ##### § 40.201 What problems always cause a drug test to be cancelled and may result in a requirement for another collection? #####
 
+Link to an amendment published at 88 FR 27648, May 2, 2023.
+
 As the MRO, you must cancel a drug test when a laboratory reports that any of the following problems have occurred. You must inform the DER that the test was cancelled. You must also direct the DER to ensure that an additional collection occurs immediately, if required by the applicable procedures specified in paragraphs (a) through (e) of this section.
 
 (a) The laboratory reports an “Invalid Result.” You must follow applicable procedures in § 40.159 (recollection under direct observation may be required).

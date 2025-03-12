@@ -1,5 +1,7 @@
 ##### § 40.14 What collection information must employers provide to collectors? #####
 
+Link to an amendment published at 88 FR 27637, May 2, 2023.
+
 As an employer, or an employer's service agent—for example a C/TPA, you must ensure the collector has the following information when conducting a urine specimen collection for you:
 
 (a) Full name of the employee being tested.

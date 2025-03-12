@@ -1,5 +1,7 @@
 ##### § 40.93 What criteria do laboratories use to establish that a specimen is dilute or substituted? #####
 
+Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 (a) As a laboratory, you must consider the primary specimen to be dilute when:
 
 (1) The creatinine concentration is greater than or equal to 2 mg/dL but less than 20 mg/dL, and

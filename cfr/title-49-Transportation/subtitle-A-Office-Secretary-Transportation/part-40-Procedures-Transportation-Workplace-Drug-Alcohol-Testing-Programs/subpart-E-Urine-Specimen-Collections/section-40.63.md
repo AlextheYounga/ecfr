@@ -1,5 +1,7 @@
 ##### § 40.63 What steps does the collector take in the collection process before the employee provides a urine specimen? #####
 
+Link to an amendment published at 88 FR 27641, May 2, 2023.
+
 As the collector, you must take the following steps before the employee provides the urine specimen:
 
 (a) Complete Step 1 of the CCF.

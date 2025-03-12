@@ -1,5 +1,7 @@
 ##### § 40.177 What does the second laboratory do with the split specimen when it is tested to reconfirm the presence of a drug or drug metabolite? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 (a) As the laboratory testing the split specimen, you must test the split specimen for the drug(s)/drug metabolite(s) detected in the primary specimen.
 
 (b) You must conduct this test without regard to the cutoff concentrations of § 40.87.

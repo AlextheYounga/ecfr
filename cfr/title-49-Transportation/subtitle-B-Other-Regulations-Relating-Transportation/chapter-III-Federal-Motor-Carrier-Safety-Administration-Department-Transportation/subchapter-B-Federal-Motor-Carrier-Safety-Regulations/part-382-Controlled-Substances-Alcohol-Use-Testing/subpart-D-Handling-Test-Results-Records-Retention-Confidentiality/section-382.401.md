@@ -1,5 +1,7 @@
 ##### § 382.401 Retention of records. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 (a) *General requirement.* Each employer shall maintain records of its alcohol misuse and controlled substances use prevention programs as provided in this section. The records shall be maintained in a secure location with controlled access.
 
 (b) *Period of retention.* Each employer shall maintain the records in accordance with the following schedule:

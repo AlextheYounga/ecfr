@@ -1,5 +1,7 @@
 ##### § 40.145 On what basis does the MRO verify test results involving adulteration or substitution? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 (a) As an MRO, when you receive a laboratory report that a specimen is adulterated or substituted, you must treat that report in the same way you treat the laboratory's report of a confirmed positive for a drug or drug metabolite.
 
 (b) You must follow the same procedures used for verification of a confirmed positive test for a drug or drug metabolite (see §§ 40.129-40.135, 40.141, 40.151), except as otherwise provided in this section.

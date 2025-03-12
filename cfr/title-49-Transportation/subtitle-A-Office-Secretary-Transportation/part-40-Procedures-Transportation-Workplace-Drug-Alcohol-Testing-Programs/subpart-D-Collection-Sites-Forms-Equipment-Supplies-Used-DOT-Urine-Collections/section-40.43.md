@@ -1,5 +1,7 @@
 ##### § 40.43 What steps must operators of collection sites take to protect the security and integrity of urine collections? #####
 
+Link to an amendment published at 88 FR 27639, May 2, 2023.
+
 (a) Collectors and operators of collection sites must take the steps listed in this section to prevent unauthorized access that could compromise the integrity of collections.
 
 (b) As a collector, you must do the following before each collection to deter tampering with specimens:

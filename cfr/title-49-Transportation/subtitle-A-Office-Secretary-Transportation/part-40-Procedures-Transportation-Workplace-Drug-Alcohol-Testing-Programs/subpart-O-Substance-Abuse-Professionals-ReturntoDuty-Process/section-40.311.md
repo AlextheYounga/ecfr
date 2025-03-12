@@ -1,5 +1,7 @@
 ##### § 40.311 What are the requirements concerning SAP reports? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 (a) As the SAP conducting the required evaluations, you must send the written reports required by this section in writing directly to the DER and not to a third party or entity for forwarding to the DER (except as provided in § 40.355(e)). You may, however, forward the document simultaneously to the DER and to a C/TPA.
 
 (b) As an employer, you must ensure that you receive SAP written reports directly from the SAP performing the evaluation and that no third party or entity changed the SAP's report in any way.

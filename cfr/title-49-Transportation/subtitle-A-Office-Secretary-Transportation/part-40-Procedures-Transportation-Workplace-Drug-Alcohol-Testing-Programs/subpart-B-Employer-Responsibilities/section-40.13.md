@@ -1,5 +1,7 @@
 ##### § 40.13 How do DOT drug and alcohol tests relate to non-DOT tests? #####
 
+Link to an amendment published at 88 FR 27637, May 2, 2023.
+
 (a) DOT tests must be completely separate from non-DOT tests in all respects.
 
 (b) DOT tests must take priority and must be conducted and completed before a non-DOT test is begun. For example, you must discard any excess urine left over from a DOT test and collect a separate void for the subsequent non-DOT test.

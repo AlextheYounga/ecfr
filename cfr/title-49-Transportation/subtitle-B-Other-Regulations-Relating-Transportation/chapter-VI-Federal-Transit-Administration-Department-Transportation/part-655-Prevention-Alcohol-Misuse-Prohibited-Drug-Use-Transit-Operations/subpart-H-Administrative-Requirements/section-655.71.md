@@ -1,5 +1,7 @@
 ##### § 655.71 Retention of records. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 (a) *General requirement.* An employer shall maintain records of its anti-drug and alcohol misuse program as provided in this section. The records shall be maintained in a secure location with controlled access.
 
 (b) *Period of retention.* In determining compliance with the retention period requirement, each record shall be maintained for the specified minimum period of time as measured from the date of the creation of the record. Each employer shall maintain the records in accordance with the following schedule:

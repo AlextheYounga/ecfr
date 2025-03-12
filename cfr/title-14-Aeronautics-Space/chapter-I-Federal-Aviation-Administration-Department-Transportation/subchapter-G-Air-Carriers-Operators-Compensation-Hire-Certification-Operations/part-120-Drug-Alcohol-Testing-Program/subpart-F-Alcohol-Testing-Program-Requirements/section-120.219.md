@@ -1,5 +1,7 @@
 ##### § 120.219 Handling of test results, record retention, and confidentiality. #####
 
+Link to an amendment published at 88 FR 27636, May 2, 2023.
+
 (a) *Retention of records.* (1) *General requirement.* In addition to the records required to be maintained under 49 CFR part 40, employers must maintain records required by this subpart in a secure location with controlled access.
 
 (2) *Period of retention.*

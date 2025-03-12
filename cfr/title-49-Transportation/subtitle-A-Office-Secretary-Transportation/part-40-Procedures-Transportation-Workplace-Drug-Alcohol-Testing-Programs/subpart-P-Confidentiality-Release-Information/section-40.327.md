@@ -1,5 +1,7 @@
 ##### § 40.327 When must the MRO report medical information gathered in the verification process? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 (a) As the MRO, you must, except as provided in paragraph (c) of this section, report drug test results and medical information you learned as part of the verification process to third parties without the employee's consent if you determine, in your reasonable medical judgment, that:
 
 (1) The information is likely to result in the employee being determined to be medically unqualified under an applicable DOT agency regulation; or

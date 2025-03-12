@@ -1,5 +1,7 @@
 ##### § 40.21 May an employer stand down an employee before the MRO has completed the verification process? #####
 
+Link to an amendment published at 88 FR 27637, May 2, 2023.
+
 (a) As an employer, you are prohibited from standing employees down, except consistent with a waiver a DOT agency grants under this section.
 
 (b) You may make a request to the concerned DOT agency for a waiver from the prohibition of paragraph (a) of this section. Such a waiver, if granted, permits you to stand an employee down following the MRO's receipt of a laboratory report of a confirmed positive test for a drug or drug metabolite, an adulterated test, or a substituted test pertaining to the employee.

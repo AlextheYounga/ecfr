@@ -1,5 +1,7 @@
 ##### § 120.221 Consequences for employees engaging in alcohol-related conduct. #####
 
+Link to an amendment published at 88 FR 27636, May 2, 2023.
+
 (a) *Removal from safety-sensitive function.* (1) Except as provided in 49 CFR part 40, no covered employee shall perform safety-sensitive functions if the employee has engaged in conduct prohibited by §§ 120.19 or 120.37, or an alcohol misuse rule of another DOT agency.
 
 (2) No employer shall permit any covered employee to perform safety-sensitive functions if the employer has determined that the employee has violated this section.

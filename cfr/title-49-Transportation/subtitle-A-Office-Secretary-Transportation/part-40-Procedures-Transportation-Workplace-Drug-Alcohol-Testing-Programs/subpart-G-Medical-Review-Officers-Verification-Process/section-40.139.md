@@ -1,5 +1,7 @@
 ##### § 40.139 On what basis does the MRO verify test results involving 6-acetylmorphine, codeine, and morphine? #####
 
+Link to an amendment published at 88 FR 27645, May 2, 2023.
+
 As the MRO, you must proceed as follows when you receive a laboratory confirmed positive opiate result:
 
 (a) If the laboratory confirms the presence of 6-acetylmorphine (6-AM) in the specimen, you must verify the test result positive.

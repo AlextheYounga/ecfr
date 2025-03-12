@@ -1,5 +1,7 @@
 ##### § 40.25 Must an employer check on the drug and alcohol testing record of employees it is intending to use to perform safety-sensitive duties? #####
 
+Link to an amendment published at 88 FR 27637, May 2, 2023.
+
 (a) Yes, as an employer, you must, after obtaining an employee's written consent, request the information about the employee listed in paragraph (b) of this section. This requirement applies only to employees seeking to begin performing safety-sensitive duties for you for the first time (*i.e.,* a new hire, an employee transfers into a safety-sensitive position). If the employee refuses to provide this written consent, you must not permit the employee to perform safety-sensitive functions.
 
 (b) You must request the information listed in this paragraph (b) from DOT-regulated employers who have employed the employee during any period during the two years before the date of the employee's application or transfer:

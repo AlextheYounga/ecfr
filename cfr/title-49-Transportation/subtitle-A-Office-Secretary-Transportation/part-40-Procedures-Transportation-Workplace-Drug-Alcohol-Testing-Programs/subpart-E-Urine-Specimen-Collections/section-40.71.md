@@ -1,5 +1,7 @@
 ##### § 40.71 How does the collector prepare the specimens? #####
 
+Link to an amendment published at 88 FR 27641, May 2, 2023.
+
 (a) All collections under DOT agency drug testing regulations must be split specimen collections.
 
 (b) As the collector, you must take the following steps, in order, after the employee brings the urine specimen to you. You must take these steps in the presence of the employee.

@@ -1,5 +1,7 @@
 ##### § 40.97 What do laboratories report and how do they report it? #####
 
+Link to an amendment published at 88 FR 27644, May 2, 2023.
+
 (a) As a laboratory, you must report the results for each primary specimen. The result of a primary specimen will fall into one of the following three categories. However, as a laboratory, you must report the actual results (and not the categories):
 
 (1) Category 1: Negative Results. As a laboratory, when you find a specimen to be negative, you must report the test result as being one of the following, as appropriate:

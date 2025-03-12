@@ -1,5 +1,7 @@
 ##### § 219.617 Participation in random alcohol and drug testing. #####
 
+Link to an amendment published at 88 FR 27652, May 2, 2023.
+
 (a) *Railroad responsibility.* (1) A railroad must, under the conditions specified in this subpart and subpart H of this part, require a regulated employee selected for random testing to cooperate in alcohol and/or drug testing.
 
 (2) If an employee is performing regulated service at the time he or she is notified of his or her selection for random testing, the railroad must ensure that the employee immediately ceases to perform regulated service and proceeds to the collection site without adversely affecting safety. A railroad must also ensure that the absence of an employee from his or her assigned duties to report for testing does not adversely affect safety. Once an employee begins the testing process, he or she may not be returned to regulated service until the testing process is complete.

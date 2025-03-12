@@ -1,5 +1,7 @@
 ##### § 655.15 Policy statement contents. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 The local governing board of the employer or operator shall adopt an anti-drug and alcohol misuse policy statement. The statement must be made available to each covered employee, and shall include the following:
 
 (a) The identity of the person, office, branch and/or position designated by the employer to answer employee questions about the employer's anti-drug use and alcohol misuse programs.

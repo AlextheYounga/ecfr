@@ -1,5 +1,7 @@
 ##### § 40.129 What are the MRO's functions in reviewing laboratory confirmed non-negative drug test results? #####
 
+Link to an amendment published at 88 FR 27645, May 2, 2023.
+
 (a) As the MRO, you must do the following with respect to confirmed positive, adulterated, substituted, or invalid drug tests you receive from a laboratory, before you verify the result and release it to the DER:
 
 (1) Review Copy 2 of the CCF to determine if there are any fatal or correctable errors that may require you to cancel the test (see §§ 40.199 and 40.203). Staff under your direct, personal supervision may conduct this administrative review for you, but only you may verify or cancel a test.

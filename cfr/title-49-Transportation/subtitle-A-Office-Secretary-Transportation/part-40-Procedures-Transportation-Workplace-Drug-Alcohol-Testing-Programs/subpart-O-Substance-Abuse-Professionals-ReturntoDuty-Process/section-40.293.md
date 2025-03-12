@@ -1,5 +1,7 @@
 ##### § 40.293 What is the SAP's function in conducting the initial evaluation of an employee? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 As a SAP, for every employee who comes to you following a DOT drug and alcohol regulation violation, you must accomplish the following:
 
 (a) Provide a comprehensive face-to-face assessment and clinical evaluation.

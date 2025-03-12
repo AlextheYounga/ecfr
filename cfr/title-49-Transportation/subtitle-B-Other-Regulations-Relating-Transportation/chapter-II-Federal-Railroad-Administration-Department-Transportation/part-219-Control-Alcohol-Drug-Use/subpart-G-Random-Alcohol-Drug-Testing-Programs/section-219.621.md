@@ -1,5 +1,7 @@
 ##### § 219.621 Use of service agents. #####
 
+Link to an amendment published at 88 FR 27652, May 2, 2023.
+
 (a) A railroad may use a service agent (such as a consortium/third party administrator (C/TPA)) to act as its agent to carry out any role in random testing specifically permitted under subpart Q of part 40 of this title, such as maintaining random pools, conducting random selections, and performing random urine drug collections and breath alcohol tests.
 
 (b) A railroad may not use a service agent to notify a regulated employee that he or she has been selected for random testing. A regulated employee who has been selected for random testing must otherwise be notified of the selection by his or her employer. A service agent may also not perform any role that § 40.355 of this title specifically reserves to an employer, which, for purposes of this subpart, is defined as a railroad or a contractor performing railroad-accepted testing.

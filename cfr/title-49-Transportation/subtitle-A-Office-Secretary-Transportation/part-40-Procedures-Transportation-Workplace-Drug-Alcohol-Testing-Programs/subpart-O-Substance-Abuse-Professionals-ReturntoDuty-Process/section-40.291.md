@@ -1,5 +1,7 @@
 ##### § 40.291 What is the role of the SAP in the evaluation, referral, and treatment process of an employee who has violated DOT agency drug and alcohol testing regulations? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 (a) As a SAP, you are charged with:
 
 (1) Making a face-to-face clinical assessment and evaluation to determine what assistance is needed by the employee to resolve problems associated with alcohol and/or drug use;

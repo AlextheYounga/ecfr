@@ -1,5 +1,7 @@
 ##### § 40.83 How do laboratories process incoming specimens? #####
 
+Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 As the laboratory, you must do the following when you receive a DOT specimen:
 
 (a) You are authorized to receive only Copy 1 of the CCF. You are not authorized to receive other copies of the CCF or any copies of the alcohol testing form.

@@ -1,5 +1,7 @@
 ##### § 40.67 When and how is a directly observed collection conducted? #####
 
+Link to an amendment published at 88 FR 27641, May 2, 2023.
+
 (a) As an employer, you must direct an immediate collection under direct observation with no advance notice to the employee, if:
 
 (1) The laboratory reported to the MRO that a specimen is invalid, and the MRO reported to you that there was not an adequate medical explanation for the result;

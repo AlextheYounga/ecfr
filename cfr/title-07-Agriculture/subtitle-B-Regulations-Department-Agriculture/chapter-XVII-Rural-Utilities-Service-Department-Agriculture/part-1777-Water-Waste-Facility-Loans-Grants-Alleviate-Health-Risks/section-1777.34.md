@@ -1,0 +1,3 @@
+##### § 1777.34 Individual loans—Rates and terms. #####
+
+Individual loans will bear interest at not more than the maximum of 5 percent per annum, or the Federal Financing Bank or other Agency designated source, on loans of a similar term at the time such loans are made. The term will not exceed the estimated useful life of the eligible improvements financed or as determined by tribal or state law or statute, whichever is less.

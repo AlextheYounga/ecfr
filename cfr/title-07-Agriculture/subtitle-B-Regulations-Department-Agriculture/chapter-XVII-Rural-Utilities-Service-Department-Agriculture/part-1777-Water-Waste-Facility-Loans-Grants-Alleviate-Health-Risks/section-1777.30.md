@@ -1,0 +1,3 @@
+##### § 1777.30 Individual loans and grants—Making, processing, and servicing loans and grants. #####
+
+Funding appropriated, designated, or otherwise approved to be delivered in accordance with the individual provisions of this part may be awarded directly to the individual(s) by this Agency or another designated Agency, such as United States Department of Agriculture's Rural Housing Service (RHS), or to the public water supply system and/or waste disposal facility for administration, including Tribes and Tribal organizations. When loan or grant funding is transferred to RHS, funding will be administered in accordance with subpart C of 7 CFR 3550 and other applicable provisions.

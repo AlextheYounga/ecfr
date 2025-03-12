@@ -1,5 +1,7 @@
 ##### § 40.355 What limitations apply to the activities of service agents? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 As a service agent, you are subject to the following limitations concerning your activities in the DOT drug and alcohol testing program.
 
 (a) You must not require an employee to sign a consent, release, waiver of liability, or indemnification agreement with respect to any part of the drug or alcohol testing process covered by this part (including, but not limited to, collections, laboratory testing, MRO, and SAP services). No one may do so on behalf of a service agent.

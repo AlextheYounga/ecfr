@@ -1,5 +1,7 @@
 ##### § 40.61 What are the preliminary steps in the collection process? #####
 
+Link to an amendment published at 88 FR 27640, May 2, 2023.
+
 As the collector, you must take the following steps before actually beginning a collection:
 
 (a) When a specific time for an employee's test has been scheduled, or the collection site is at the employee's work site, and the employee does not appear at the collection site at the scheduled time, contact the DER to determine the appropriate interval within which the DER has determined the employee is authorized to arrive. If the employee's arrival is delayed beyond that time, you must notify the DER that the employee has not reported for testing. In a situation where a C/TPA has notified an owner/operator or other individual employee to report for testing and the employee does not appear, the C/TPA must notify the employee that he or she has refused to test (see § 40.191(a)(1)).

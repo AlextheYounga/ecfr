@@ -1,5 +1,7 @@
 ##### § 40.161 What does the MRO do when a drug test specimen is rejected for testing? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 As the MRO, when the laboratory reports that the specimen is rejected for testing (*e.g.,* because of a fatal or uncorrected flaw), you must do the following:
 
 (a) Place a check mark in the “Test Cancelled” box (Step 6) on Copy 2 of the CCF and enter the reason on the “Remarks” line.

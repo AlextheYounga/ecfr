@@ -1,5 +1,7 @@
 ##### § 240.119 Criteria for consideration of data on substance abuse disorders and alcohol/drug rules compliance. #####
 
+Link to an amendment published at 88 FR 27652, May 2, 2023.
+
 (a) *Program requirement.* Each railroad shall adopt and comply with a program which complies with the requirements of this section. When any person, including, but not limited to, each railroad, railroad officer, supervisor, and employee, violates any requirement of a program which complies with the requirements of this section, that person shall be considered to have violated the requirements of this section.
 
 (b) *Determination requirement.* Each railroad, prior to initially certifying or recertifying any person as a locomotive engineer for any type of service, shall determine that the person meets the eligibility requirements of this section.

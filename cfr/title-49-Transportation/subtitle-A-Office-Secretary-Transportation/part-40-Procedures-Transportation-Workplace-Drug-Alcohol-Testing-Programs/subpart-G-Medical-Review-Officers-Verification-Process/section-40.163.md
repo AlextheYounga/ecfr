@@ -1,5 +1,7 @@
 ##### § 40.163 How does the MRO report drug test results? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 (a) As the MRO, it is your responsibility to report all drug test results to the employer.
 
 (b) You may use a signed or stamped and dated legible photocopy of Copy 2 of the CCF to report test results.

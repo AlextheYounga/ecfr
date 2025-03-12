@@ -1,5 +1,7 @@
 ##### § 40.73 How is the collection process completed? #####
 
+Link to an amendment published at 88 FR 27641, May 2, 2023.Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 (a) As the collector, when using the paper CCF, you must do the following things to complete the collection process. You must complete the steps called for in paragraphs (a)(1) through (7) of this section in the employee's presence.
 
 (1) Direct the employee to read and sign the certification statement on Copy 2 (Step 5) of the CCF and provide date of birth, printed name, and day and evening contact telephone numbers. If the employee refuses to sign the CCF or to provide date of birth, printed name, or telephone numbers, you must note this in the “Remarks” line (Step 2) of the CCF, and complete the collection. If the employee refuses to fill out any information, you must, as a minimum, print the employee's name in the appropriate place.

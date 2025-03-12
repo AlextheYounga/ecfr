@@ -1,5 +1,7 @@
 ##### § 40.81 What laboratories may be used for DOT drug testing? #####
 
+Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 (a) As a drug testing laboratory located in the U.S., you are permitted to participate in DOT drug testing only if you are certified by HHS under the National Laboratory Certification Program (NLCP) for all testing required under this part.
 
 (b) As a drug testing laboratory located in Canada or Mexico which is not certified by HHS under the NLCP, you are permitted to participate in DOT drug testing only if:

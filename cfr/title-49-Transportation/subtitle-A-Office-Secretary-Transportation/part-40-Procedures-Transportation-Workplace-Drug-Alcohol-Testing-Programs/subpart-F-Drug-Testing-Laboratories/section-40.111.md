@@ -1,5 +1,7 @@
 ##### § 40.111 When and how must a laboratory disclose statistical summaries and other information it maintains? #####
 
+Link to an amendment published at 88 FR 27645, May 2, 2023.
+
 (a) As a laboratory, you must transmit an aggregate statistical summary, by employer, of the data listed in Appendix B to this part to the employer on a semi-annual basis.
 
 (1) The summary must not reveal the identity of any employee.

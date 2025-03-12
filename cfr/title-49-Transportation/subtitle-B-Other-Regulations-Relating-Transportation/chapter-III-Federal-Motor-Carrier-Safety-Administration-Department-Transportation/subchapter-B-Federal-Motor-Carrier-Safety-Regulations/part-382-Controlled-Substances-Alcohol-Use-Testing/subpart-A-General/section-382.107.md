@@ -1,5 +1,7 @@
 ##### § 382.107 Definitions. #####
 
+Link to an amendment published at 88 FR 27653, May 2, 2023.
+
 Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this subchapter, and § 40.3 of this title, except as provided in this section—
 
 *Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307. As used in this section, “traffic citation” means a ticket, complaint, or other document charging driving a CMV while under the influence of alcohol or controlled substances.

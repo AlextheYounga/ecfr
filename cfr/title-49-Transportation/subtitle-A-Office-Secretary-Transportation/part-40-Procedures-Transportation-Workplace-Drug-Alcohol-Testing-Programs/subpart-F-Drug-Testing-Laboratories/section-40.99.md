@@ -1,5 +1,7 @@
 ##### § 40.99 How long does the laboratory retain specimens after testing? #####
 
+Link to an amendment published at 88 FR 27643, May 2, 2023.
+
 (a) As a laboratory testing the primary specimen, you must retain a specimen that was reported with positive, adulterated, substituted, or invalid results for a minimum of one year.
 
 (b) You must keep such a specimen in secure, long-term, frozen storage in accordance with HHS requirements.

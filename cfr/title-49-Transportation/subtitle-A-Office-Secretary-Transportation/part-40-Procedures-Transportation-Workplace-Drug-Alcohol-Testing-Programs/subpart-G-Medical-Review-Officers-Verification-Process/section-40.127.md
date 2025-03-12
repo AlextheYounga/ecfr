@@ -1,5 +1,7 @@
 ##### § 40.127 What are the MRO's functions in reviewing negative test results? #####
 
+Link to an amendment published at 88 FR 27645, May 2, 2023.
+
 As the MRO, you must do the following with respect to negative drug test results you receive from a laboratory, prior to verifying the result and releasing it to the DER:
 
 (a) Review Copy 2 of the CCF to determine if there are any fatal or correctable errors that may require you to initiate corrective action or to cancel the test (see §§ 40.199 and 40.203).

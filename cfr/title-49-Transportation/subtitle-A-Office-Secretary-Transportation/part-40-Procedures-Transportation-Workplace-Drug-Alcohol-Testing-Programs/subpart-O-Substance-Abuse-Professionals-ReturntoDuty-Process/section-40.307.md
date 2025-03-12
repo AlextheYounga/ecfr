@@ -1,5 +1,7 @@
 ##### § 40.307 What is the SAP's function in prescribing the employee's follow-up tests? #####
 
+Link to an amendment published at 88 FR 27650, May 2, 2023.
+
 (a) As a SAP, for each employee who has committed a DOT drug or alcohol regulation violation, and who seeks to resume the performance of safety-sensitive functions, you must establish a written follow-up testing plan. You do not establish this plan until after you determine that the employee has successfully complied with your recommendations for education and/or treatment.
 
 (b) You must present a copy of this plan directly to the DER (see § 40.311(d)(9)).

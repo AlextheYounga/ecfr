@@ -1,5 +1,7 @@
 ##### § 120.7 Definitions. #####
 
+Link to an amendment published at 88 FR 27635, May 2, 2023.
+
 For the purposes of this part, the following definitions apply:
 
 (a) *Accident* means an occurrence associated with the operation of an aircraft which takes place between the time any individual boards the aircraft with the intention of flight and all such individuals have disembarked, and in which any individual suffers death or serious injury, or in which the aircraft receives substantial damage.

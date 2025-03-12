@@ -1,5 +1,7 @@
 ##### § 40.159 What does the MRO do when a drug test result is invalid? #####
 
+Link to an amendment published at 88 FR 27646, May 2, 2023.
+
 (a) As the MRO, when the laboratory reports that the test result is an invalid result, you must do the following:
 
 (1) Discuss the laboratory results with a certifying scientist to determine if the primary specimen should be tested at another HHS certified laboratory. If the laboratory did not contact you as required by §§ 40.91(e) and 40.96(c), you must contact the laboratory.
