@@ -1,0 +1,9 @@
+##### § 158.1704 Performance standards for data acceptability. #####
+
+(a) *General.* The claim stated on the pesticide product labeling (such as knockdown, control, mortality, or repellency) determines the performance standard that must be met. In the absence of specific pest/labeling claims/performance standards specified in §§ 158.1708 through 158.1786, the performance standards of paragraphs (b) and (c) of this section apply.
+
+(b) *Skin-applied insect repellent labeling claims.* (1) For skin-applied insect repellent labeling claims, the performance standard must be greater than or equal to 2-hours complete protection time.
+
+(2) Any testing required under this part which involves any human subjects must comply with all applicable requirements under 40 CFR part 26. For example, 40 CFR part 26 requirements are pertinent to the part 158 testing requirement if the testing involves intentional exposure of human subjects. Protocols for such testing must be submitted to EPA for review prior to study initiation. Those protocols determined by EPA to involve intentional exposure of human subjects also require review by EPA's Human Studies Review Board (HSRB)) prior to study initiation. If you are uncertain about the applicability of the 40 CFR part 26 requirements to this 40 CFR part 158 testing requirement or uncertain about the nature of your planned testing (such as, for example, whether the testing would involve intentional exposure of human subjects or whether the testing would be an observational study), you should contact the Agency prior to initiating the testing.
+
+(c) *Labeling claims for products other than skin-applied insect repellents.* Unless otherwise specified in §§ 158.1712 through 158.1786, a minimum performance standard of 90 percent is required, except skin-applied insect repellents as specified in paragraph (b) of this section, and non-wearable spatial repellents, where a minimum performance standard of 75 percent is required.

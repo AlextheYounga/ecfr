@@ -1,0 +1,3 @@
+##### § 158.1710 Structural and wood-destroying pest claims. #####
+
+If an application for registration or amended registration requests a labeling claim specific to a structural or wood-destroying pest not identified in §§ 158.1782 through 158.1786, EPA may require submission of product performance data, with testing on that specific pest and subject to specific performance standards, to support those claims for effectiveness.

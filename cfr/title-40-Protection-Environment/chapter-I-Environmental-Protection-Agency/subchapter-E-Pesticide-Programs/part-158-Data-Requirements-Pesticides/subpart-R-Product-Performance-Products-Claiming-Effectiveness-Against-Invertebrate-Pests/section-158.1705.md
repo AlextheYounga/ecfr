@@ -1,0 +1,3 @@
+##### § 158.1705 Test guidelines. #####
+
+EPA has published the Harmonized Test Guidelines, which set forth the recommended approach to generate the data required in this subpart. The Product Performance Guidelines (Series 810, Group C—Invertebrate Control Agent Test Guidelines) are available on the Agency's website. These guidelines cover some, but not all, of the tests that would be used to generate data under this subpart. In instances where there is a conflict between one of the Harmonized Test Guidelines and the provisions of this subpart, this subpart will control.

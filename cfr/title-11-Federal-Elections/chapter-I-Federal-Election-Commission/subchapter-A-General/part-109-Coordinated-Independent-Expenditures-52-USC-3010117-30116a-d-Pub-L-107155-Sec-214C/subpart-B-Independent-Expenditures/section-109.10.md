@@ -22,7 +22,11 @@
 
 (v) A verified certification under penalty of perjury as to whether such expenditure was made in cooperation, consultation, or concert with, or at the request or suggestion of a candidate, a candidate's authorized committee, or their agents, or a political party committee or its agents; and
 
-(vi) The identification of each person who made a contribution in excess of $200 to the person filing such report, which contribution was made for the purpose of furthering the reported independent expenditure.
+(vi) [Reserved]
+
+Note to § 109.10(e)(1):
+
+On August 3, 2018, the United States District Court for the District of Columbia vacated 11 CFR 109.10(e)(1)(vi). *CREW* v. *FEC,* 316 F. Supp. 3d 349 (Aug. 3, 2018), *aff'd,* 971 F.3d 340 (D.C. Cir. 2020). Section 30104(c) of title 52 of the U.S. Code and the remaining provisions of 11 CFR 109.10 remain in force.
 
 (2) *Verification of independent expenditure statements and reports.* Every person shall verify reports and statements of independent expenditures filed pursuant to the requirements of this section by one of the methods stated in paragraph (e)(2)(i) or (ii) of this section. Any report or statement verified under either of these methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
 
@@ -30,4 +34,4 @@
 
 (ii) For reports or statements filed by electronic mail, the person who made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by typing the treasurer's name immediately following the certification required by paragraph (e)(1)(v) of this section.
 
-[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018]
+[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018; 87 FR 35864, June 14, 2022]

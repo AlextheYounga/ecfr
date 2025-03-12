@@ -1,0 +1,3 @@
+##### § 158.1709 Invertebrate disease vector claims. #####
+
+If an application for registration or amended registration requests a labeling claim specific to a disease vector (such as repels mosquitoes that may carry West Nile virus), then submission of test data conducted with the species specific to the disease vector claim and meeting the specific performance standard for that species is required even if the disease vector species is not the test species required in §§ 158.1712 through 158.1786.
