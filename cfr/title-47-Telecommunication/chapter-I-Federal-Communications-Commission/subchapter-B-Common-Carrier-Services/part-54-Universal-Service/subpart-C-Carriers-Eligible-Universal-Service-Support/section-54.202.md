@@ -30,5 +30,4 @@
 
 (e) A provider designated as a Lifeline Broadband Provider (LBP) may obtain designation as an LBP in additional service areas by submitting to the Commission a request identifying the service areas in which the LBP plans to offer Lifeline-supported service and a certification that there has been no material change to the information submitted in the petition for which the LBP received designation as an LBP. Such a request shall be deemed granted five business days after it is submitted to the Commission, unless the Commission notifies the applicant that the grant will not be automatically effective.
 
-[77 FR 12966, Mar. 2, 2012, as amended at 81 FR 33089, May 24, 2016]Effective Date Note:At 81 FR 33089, May 24, 2016, § 54.202 was amended by adding
-paragraphs (a)(6), (d) and (e). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 12966, Mar. 2, 2012, as amended at 81 FR 33089, May 24, 2016]Effective Date Note:At 81 FR 33089, May 24, 2016, § 54.202(a)(6), (d), and (e) were added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

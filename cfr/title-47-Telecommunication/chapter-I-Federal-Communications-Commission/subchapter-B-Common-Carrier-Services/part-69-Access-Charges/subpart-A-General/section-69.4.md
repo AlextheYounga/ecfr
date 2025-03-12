@@ -72,4 +72,4 @@
 
 (k) A non-price cap incumbent local exchange carrier may include a charge for the Consumer Broadband-Only Loop.
 
-[48 FR 43017, Sept. 21, 1983]Editorial Note:For Federal Register citations affecting § 69.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 81 FR 24345, Apr. 25, 2016, § 69.4 was amended by adding paragraph (k). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[48 FR 43017, Sept. 21, 1983]Editorial Note:For Federal Register citations affecting § 69.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 81 FR 24345, Apr. 25, 2016, § 69.4(k) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

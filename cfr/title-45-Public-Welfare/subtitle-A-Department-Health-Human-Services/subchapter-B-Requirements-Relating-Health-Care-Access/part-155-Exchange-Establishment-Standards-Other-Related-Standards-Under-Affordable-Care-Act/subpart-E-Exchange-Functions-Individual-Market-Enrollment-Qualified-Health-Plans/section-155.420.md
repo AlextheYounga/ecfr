@@ -1,12 +1,20 @@
 ##### § 155.420 Special enrollment periods. #####
 
-Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
+(a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
-(a) *General requirements.* (1) The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
+(2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
 
-(2) For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.
+(3) *Use of special enrollment periods.* Except in the circumstances specified in paragraph (a)(4) of this section, the Exchange must allow a qualified individual or enrollee, and when specified in paragraph (d) of this section, his or her dependent to enroll in a QHP if one of the triggering events specified in paragraph (d) of this section occur.
 
-(b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2) and (3) of this section, for a QHP selection received by the Exchange from a qualified individual -
+(4) *Use of special enrollment periods by enrollees.* (i) If an enrollee has gained a dependent in accordance with paragraph (d)(2)(i) of this section, the Exchange must allow the enrollee to add the dependent to his or her current QHP, or, if the current QHP's business rules do not allow the dependent to enroll, the Exchange must allow the enrollee and his or her dependents to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or, at the option of the enrollee or dependent, enroll the dependent in any separate QHP.
+
+(ii) If an enrollee and his or her dependents become newly eligible for cost-sharing reductions in accordance with paragraph (d)(6)(i) or (ii) of this section and are not enrolled in a silver-level QHP, the Exchange must allow the enrollee and his or her dependents to change to a silver-level QHP if they elect to change their QHP enrollment.
+
+(iii) If an enrollee qualifies for a special enrollment period or is adding a dependent to his or her QHP through a triggering event specified in paragraph (d) of this section other than those described under paragraph (d)(2)(i), (d)(4), (d)(6)(i), (d)(6)(ii), (d)(8), (d)(9), or (d)(10), the Exchange must allow the enrollee and his or her dependents to make changes to his or her enrollment in the same QHP or to change to another QHP within the same level of coverage (or one metal level higher or lower, if no such QHP is available), as outlined in § 156.140(b) of this subchapter, or, at the option of the enrollee or dependent, enroll in any separate QHP.
+
+(5) *Prior coverage requirement.* Qualified individuals who are required to demonstrate coverage in the 60 days prior to a qualifying event can either demonstrate that they had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of the qualifying event; lived in a foreign country or in a United States territory for 1 or more days during the 60 days preceding the date of the qualifying event; or that they are an Indian as defined by section 4 of the Indian Health Care Improvement Act.
+
+(b) *Effective dates* - (1) *Regular effective dates.* Except as specified in paragraphs (b)(2), (3), and (5) of this section, for a QHP selection received by the Exchange from a qualified individual -
 
 (i) Between the first and the fifteenth day of any month, the Exchange must ensure a coverage effective date of the first day of the following month; and
 
@@ -32,7 +40,7 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (4) *Advance payments of the premium tax credit and cost-sharing reductions.* Notwithstanding the standards of this section, the Exchange must ensure that advance payments of the premium tax credit and cost-sharing reductions adhere to the effective dates specified in § 155.330(f).
 
-(5) *Option for later coverage effective dates due to prolonged eligibility verification.* At the option of the consumer, the Exchange must provide an appropriate coverage effective date that is later than the effective date specified in paragraph (b) of this section if a consumer's enrollment is delayed until after the Exchange's verification of the consumer's eligibility for a special enrollment period, and the assignment of a coverage effective date consistent with paragraph (b) of this section would result in the consumer being required to pay two or more months of retroactive premium to effectuate coverage or avoid termination for non-payment.
+(5) *Option for later coverage effective dates due to prolonged eligibility verification.* At the option of the consumer, the Exchange must provide for a coverage effective date that is no more than 1 month later than the effective date specified in this paragraph (b) if a consumer's enrollment is delayed until after the verification of the consumer's eligibility for a special enrollment period, and the assignment of a coverage effective date consistent with this paragraph (b) would result in the consumer being required to pay 2 or more months of retroactive premium to effectuate coverage or avoid cancellation.
 
 (c) *Availability and length of special enrollment periods* - (1) *General rule.* Unless specifically stated otherwise herein, a qualified individual or enrollee has 60 days from the date of a triggering event to select a QHP.
 
@@ -40,11 +48,15 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (3) *Special rule.* In the case of a qualified individual or enrollee who is eligible for a special enrollment period as described in paragraphs (d)(4), (5), or (9) of this section, the Exchange may define the length of the special enrollment period as appropriate based on the circumstances of the special enrollment period, but in no event may the length of the special enrollment period exceed 60 days.
 
-(d) The Exchange must allow a qualified individual or enrollee, and, when specified below, his or her dependent, to enroll in or change from one QHP to another if one of the following triggering events occur:
+(d) *Triggering events.* Subject to paragraphs (a)(3) through (5) of this section, as applicable, the Exchange must allow a qualified individual or enrollee, and, when specified below, his or her dependent, to enroll in or change from one QHP to another if one of the triggering events occur:
 
 (1) The qualified individual or his or her dependent either:
 
 (i) Loses minimum essential coverage. The date of the loss of coverage is the last day the consumer would have coverage under his or her previous plan or coverage;
+
+(A) In the case of marriage, at least one spouse must demonstrate having minimum essential coverage as described in 26 CFR 1.5000A-1(b) for 1 or more days during the 60 days preceding the date of marriage.
+
+(B) [Reserved]
 
 (ii) Is enrolled in any non-calendar year group health plan or individual health insurance coverage, even if the qualified individual or his or her dependent has the option to renew such coverage. The date of the loss of coverage is the last day of the plan or policy year;
 
@@ -70,11 +82,11 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (iv) A qualified individual who was previously ineligible for advance payments of the premium tax credit solely because of a household income below 100 percent of the FPL and who, during the same timeframe, was ineligible for Medicaid because he or she was living in a non-Medicaid expansion State, who either experiences a change in household income or moves to a different State resulting in the qualified individual becoming newly eligible for advance payments of the premium tax credit;
 
-(7) The qualified individual or enrollee, or his or her dependent, gains access to new QHPs as a result of a permanent move and either -
+(7) The qualified individual or enrollee, or his or her dependent, gains access to new QHPs as a result of a permanent move and -
 
-(i) Had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for one or more days during the 60 days preceding the date of the permanent move, or
+(i) Had minimum essential coverage as described in 26 CFR 1.5000A-1(b) for one or more days during the 60 days preceding the date of the permanent move.
 
-(ii) Was living outside of the United States or in a United States territory at the time of the permanent move;
+(ii) [Reserved]
 
 (8) The qualified individual -
 
@@ -106,4 +118,4 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (2) Situations allowing for a rescission as specified in 45 CFR 147.128.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42321, July 15, 2013; 78 FR 65095, Oct. 30, 2013; 79 FR 30348, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10866, Feb. 27, 2015; 80 FR 38653, July 7, 2015; 81 FR 29155, May 11, 2016; 81 FR 94178, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017]

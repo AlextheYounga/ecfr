@@ -6,4 +6,4 @@
 
 (c) The definitions, criteria, and reporting requirements set forth in Section 4.15 of this part are applicable to submarine cable providers who have been licensed pursuant to 47 U.S.C. 34-39.
 
-[81 FR 52362, Aug. 8, 2016]Effective Date Note:At 81 FR 52362, Aug. 8, 2016, section 4.1 was revised. This revision contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 52362, Aug. 8, 2016]Effective Date Note:At 81 FR 52362, Aug. 8, 2016, § 4.1 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

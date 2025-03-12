@@ -28,4 +28,4 @@
 
 (4) There is a loss of ANI/ALI (associated name and location information) and/or a failure of location determination equipment, including Phase II equipment, for at least 30 minutes and potentially affecting at least 900,000 user-minutes (provided that the ANI/ALI or location determination equipment was then currently deployed and in use, and the failure is neither at the PSAP(s) or on the premises of the PSAP(s)).
 
-[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016]Effective Date Note:At 81 FR 45067, July 12, 2016, Section 4.5 was amended by revising paragraphs (b) and (c). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[69 FR 70338, Dec. 3, 2004, as amended at 81 FR 45067, July 12, 2016]Effective Date Note:At 81 FR 45067, July 12, 2016, ; 4.5(b) and (c) were revised.. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

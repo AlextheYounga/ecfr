@@ -1,5 +1,7 @@
 ##### § 110.188 Atlantic Ocean off Miami and Miami Beach, Fla. #####
 
+Link to an amendment published at 82 FR 27775, June 19, 2017.
+
 (a) *The anchorage grounds.* The area to the eastward of a line bearing 12° (N. 12° E.) through a point X, which is 11/2 nautical miles due east of the intersection of the Miami Beach shore line with the north jetty; to the northward of a line bearing 102° (S. 78° E.) and intersecting the 12° line at a point A, one-half nautical mile north of the said point X; and to the southward of a line bearing 102° (S. 78° E.) and intersecting the 12° line at a point B, 21/2 nautical miles north of the said point X. The northern and southern extremities of the 12° line are marked by spar buoys. The entire anchorage area lies north of the entrance channel to Miami Harbor.
 
 (b) *The rules and regulations.* (1) Except in cases of great emergency, no vessel shall be anchored in the Atlantic Ocean in the vicinity of the entrances to the approach channels leading to the cities of Miami Beach and Miami, Fla., outside of the anchorage area hereby defined and established - that is, they shall not anchor shoreward of the line first named nor southward of the second nor northward of the third line - but may anchor as far to the eastward as may be desired.

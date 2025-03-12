@@ -1,3 +1,7 @@
-##### § 20.23 xxx #####
+##### § 20.23 Contraband wireless devices in correctional facilities. #####
 
-Link to an amendment published at 82 FR 22761, May 18, 2017.
+(a) *Good faith negotiations.* CMRS licensees must negotiate in good faith with entities seeking to deploy a Contraband Interdiction System (CIS) in a correctional facility. Upon receipt of a good faith request by an entity seeking to deploy a CIS in a correctional facility, a CMRS licensee must negotiate toward a lease agreement. If, after a 45 day period, there is no agreement, CIS providers seeking Special Temporary Authority (STA) to operate in the absence of CMRS licensee consent may file a request for STA with the Wireless Telecommunications Bureau (WTB), accompanied by evidence demonstrating its good faith, and the unreasonableness of the CMRS licensee's actions, in negotiating an agreement. The request must be served on the CMRS licensee no later than the filing of the STA request, and the CMRS licensee may file a response with WTB, with a copy served on the CIS provider at that time, within 10 days of the filing of the STA request. If WTB determines that the CIS provider has negotiated in good faith, yet the CMRS licensee has not negotiated in good faith, WTB may issue STA to the entity seeking to deploy the CIS, notwithstanding lack of accompanying CMRS licensee consent.
+
+(b) [Reserved]
+
+[82 FR 22760, May 18, 2017]Effectve Date Note:At 82 FR 22761, May 18, 2017, § 20.23 was added. Paragraph (a) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

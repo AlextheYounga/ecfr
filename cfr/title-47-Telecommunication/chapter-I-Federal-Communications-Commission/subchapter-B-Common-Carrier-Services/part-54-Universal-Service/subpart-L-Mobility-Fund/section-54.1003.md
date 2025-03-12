@@ -6,4 +6,4 @@
 
 (c) An applicant shall certify that it is financially and technically qualified to provide the services supported by Mobility Fund Phase I in order to receive such support.
 
-[76 FR 73877, Nov. 29, 2011, as amended at 77 FR 14303, Mar. 9, 2012]Effective Date Note:At 77 FR 14303, Mar. 9, 2012, § 54.1003, paragraph (b) was revised. This paragraph contains information and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73877, Nov. 29, 2011, as amended at 77 FR 14303, Mar. 9, 2012]Effective Date Note:At 77 FR 14303, Mar. 9, 2012, § 54.1003(b) was revised. This paragraph contains information and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,7 +1,5 @@
 ##### § 155.410 Initial and annual open enrollment periods. #####
 
-Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
-
 (a) *General requirements.* (1) The Exchange must provide an initial open enrollment period and annual open enrollment periods consistent with this section, during which qualified individuals may enroll in a QHP and enrollees may change QHPs.
 
 (2) The Exchange may only permit a qualified individual to enroll in a QHP or an enrollee to change QHPs during the initial open enrollment period specified in paragraph (b) of this section, the annual open enrollment period specified in paragraph (e) of this section, or a special enrollment period described in § 155.420 of this subpart for which the qualified individual has been determined eligible.
@@ -34,9 +32,9 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (e) *Annual open enrollment period.* (1) For the benefit year beginning on January 1, 2015, the annual open enrollment period begins on November 15, 2014, and extends through February 15, 2015.
 
-(2) For the benefit years beginning on January 1, 2016, on January 1, 2017, and on January 1, 2018, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year, and extends through January 31 of the benefit year.
+(2) For the benefit years beginning on January 1, 2016 and January 1, 2017, the annual open enrollment period begins on November 1 of the calendar year preceding the benefit year, and extends through January 31 of the benefit year.
 
-(3) For the benefit years beginning on January 1, 2019 and beyond, the annual open enrollment period begins on November 1 and extends through December 15 of the calendar year preceding the benefit year.
+(3) For the benefit years beginning on or after January 1, 2018, the annual open enrollment period begins on November 1 and extends through December 15 of the calendar year preceding the benefit year.
 
 (f) *Effective date.* (1) For the benefit year beginning on January 1, 2015, the Exchange must ensure coverage is effective -
 
@@ -56,4 +54,4 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (g) *Automatic enrollment.* The Exchange may automatically enroll qualified individuals, at such time and in such manner as HHS may specify, and subject to the Exchange demonstrating to HHS that it has good cause to perform such automatic enrollments.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 76218, Dec. 17, 2013; 79 FR 13838, Mar. 11, 2014; 79 FR 30348, May 27, 2014; 80 FR 10866, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 82 FR 18381, Apr. 18, 2017]

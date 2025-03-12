@@ -6,7 +6,7 @@
 
 (2) Any other event that would lead to a change in the eligibility of a licensee for designated entity benefits.
 
-(b) *Documents listed on and filed with application.* A designated entity filing an application pursuant to this section must -
+(b) *Documents listed on and filed with application.* A designated entity filing an application pursuant to this section must—
 
 (1) List and summarize on the application all agreements and arrangements (including proposed agreements and arrangements) that give rise to or otherwise relate to a reportable eligibility event. In addition to a summary of each agreement or arrangement, this list must include the parties (including each party's affiliates, its controlling interests, the affiliates of its controlling interests, its spectrum lessees, and its spectrum resellers and wholesalers) to each agreement or arrangement, as well as the dates on which the parties entered into each agreement or arrangement.
 
@@ -32,4 +32,4 @@
 
 (g) The designated entity is required to update any change in a relationship that gave rise to a reportable eligibility event.
 
-[71 FR 26253, May 4, 2006, as amended at 71 FR 34278, June 14, 2006; 79 FR 48530, Aug. 15, 2014; 80 FR 56816, Sept. 18, 2015]Effective Date Note:At 80 FR 56816, Sept. 18, 2015, § 1.2114 (a)(1) was revised. Paragraph (a)(1) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[71 FR 26253, May 4, 2006, as amended at 71 FR 34278, June 14, 2006; 79 FR 48530, Aug. 15, 2014; 80 FR 56816, Sept. 18, 2015]Effective Date Note:At 80 FR 56816, Sept. 18, 2015, § 1.2114 (a)(1) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

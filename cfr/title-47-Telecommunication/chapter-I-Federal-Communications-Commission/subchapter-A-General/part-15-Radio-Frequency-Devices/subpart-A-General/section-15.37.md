@@ -30,4 +30,4 @@
 
 (4) The consumer disclosure text described in paragraph (k)(1) of this section is set forth as an appendix to this section.
 
-[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015]Effective Date Note:At 80 FR 71728, Nov. 17, 2015, § 15.37 was amended by adding paragraph (k). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[77 FR 4913, Feb. 1, 2012, as amended at 78 FR 34927, June 11, 2013; 79 FR 24578, May 1, 2014; 80 FR 71728, Nov. 17, 2015; 80 FR 73068, Nov. 23, 2015]Effective Date Note:At 80 FR 71728, Nov. 17, 2015, § 15.37(k) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

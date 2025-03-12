@@ -1,6 +1,10 @@
 ##### § 1.9003 Definitions. #####
 
-Link to an amendment published at 82 FR 22759, May 18, 2017.
+*Contraband Interdiction System.* Contraband Interdiction System is a system that transmits radio communication signals comprised of one or more stations used only in a correctional facility exclusively to prevent transmissions to or from contraband wireless devices within the boundaries of the facility and/or to obtain identifying information from such contraband wireless devices.
+
+*Contraband wireless device.* A contraband wireless device is any wireless device, including the physical hardware or part of a device, such as a subscriber identification module (SIM), that is used within a correctional facility in violation of federal, state, or local law, or a correctional facility rule, regulation, or policy.
+
+*Correctional facility.* A correctional facility is any facility operated or overseen by federal, state, or local authorities that houses or holds criminally charged or convicted inmates for any period of time, including privately owned and operated correctional facilities that operate through contracts with federal, state, or local jurisdictions.
 
 *De facto transfer leasing arrangement.* A spectrum leasing arrangement in which a licensee retains *de jure* control of its license while transferring *de facto* control of the leased spectrum to a spectrum lessee, pursuant to the spectrum leasing rules set forth in this subpart.
 
@@ -22,4 +26,4 @@ Link to an amendment published at 82 FR 22759, May 18, 2017.
 
 *Spectrum manager leasing arrangement.* A spectrum leasing arrangement in which a licensee retains both *de jure* control of its license and *de facto* control of the leased spectrum that it leases to a spectrum lessee, pursuant to the spectrum leasing rules set forth in this subpart.
 
-[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77550, Dec. 27, 2004]Effective Date Note:At 69 FR 77550, Dec. 27, 2004, § 1.9003 was amended. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 66277, Nov. 25, 2003, as amended at 69 FR 77550, Dec. 27, 2004; 82 FR 22759, May 18, 2017]Effective Date Note:At 69 FR 77550, Dec. 27, 2004, § 1.9003 was amended. The added and revised text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

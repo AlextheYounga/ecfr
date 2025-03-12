@@ -16,4 +16,4 @@
 
 (f) *Working telephone numbers* are defined to be the sum of all telephone numbers that can originate, or terminate telecommunications. This includes, for example, all working telephone numbers on the customer's side of a PBX, or Centrex, or similar arrangement.
 
-[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 81 FR 45068, July 12, 2016]Effective Date Note:At 81 FR 45068, July 12, 2016, Section 4.7 was amended by revising paragraphs (d) and (e)(2). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[69 FR 70338, Dec. 3, 2004, as amended at 77 FR 25097, Apr. 27, 2012; 81 FR 45068, July 12, 2016]Effective Date Note:At 81 FR 45068, July 12, 2016, § 4.7(d) and (e)(2) were revised.. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

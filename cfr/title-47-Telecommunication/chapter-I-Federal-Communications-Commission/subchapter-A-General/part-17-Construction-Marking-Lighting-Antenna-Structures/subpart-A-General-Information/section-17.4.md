@@ -72,4 +72,4 @@
 
 (k) Any change in the marking and lighting that varies from the specifications described on any antenna structure registration requires prior approval from the FAA and the Commission.
 
-[61 FR 4362, Feb. 6, 1996, as amended at 77 FR 3953, Jan. 26, 2012; 79 FR 56985, Sept. 24, 2014; 80 FR 1270, Jan. 8, 2015]Effective Date Note:At 80 FR 1270, Jan. 8, 2015, § 17.4 was amended by adding paragraph (c)(1)(vii). Paragraph (c)(1)(vii) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[61 FR 4362, Feb. 6, 1996, as amended at 77 FR 3953, Jan. 26, 2012; 79 FR 56985, Sept. 24, 2014; 80 FR 1270, Jan. 8, 2015]Effective Date Note:At 80 FR 1270, Jan. 8, 2015, § 17.4(c)(1)(vii) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -56,4 +56,4 @@
 
 [63 FR 68922, Dec. 14, 1998, as amended at 66 FR 55, Jan. 2, 2001; 67 FR 34851, May 16, 2002; 68 FR 42995, July 21, 2003; 68 FR 66276, Nov. 25, 2003; 69 FR 77549, Dec. 27, 2004; 71 FR 26251, May 4, 2006; 78 FR 23152, Apr. 18, 2013; 78 FR 25160, Apr. 29, 2013]Effective Date Notes:1. At 69 FR 77549, Dec. 27, 2004, § 1.913(a)(5) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
-2. At 78 FR 23152, Apr. 18, 2013, § 1.913 was amended by revising paragraph (d)(1)(vi). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+2. At 78 FR 23152, Apr. 18, 2013, § 1.913(d)(1)(vi) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

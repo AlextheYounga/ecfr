@@ -1,8 +1,6 @@
 ##### § 20.18 911 Service. #####
 
-Link to an amendment published at 82 FR 22760, May 18, 2017.
-
-(a) *Scope of section.* The following requirements are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
+(a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
 
@@ -362,6 +360,8 @@ With respect to 911 calls accessing their systems through the use of TTYs, licen
 
 (11) *Access to SMS networks for 911 text messages.* To the extent that CMRS providers offer Short Message Service (SMS), they shall allow access by any other covered text provider to the capabilities necessary for transmission of 911 text messages originating on such other covered text providers' application services. Covered text providers using the CMRS network to deliver 911 text messages must clearly inform consumers that, absent an SMS plan with the consumer's underlying CMRS provider, the covered text provider may be unable to deliver 911 text messages. CMRS providers may migrate to other technologies and need not retain SMS networks solely for other covered text providers' 911 use, but must notify the affected covered text providers not less than 90 days before the migration is to occur.
 
+(r) *Contraband Interdiction System (CIS) requirement.* CIS providers regulated as private mobile radio service (*see* § 20.3) must transmit all wireless 911 calls without respect to their call validation process to a Public Safety Answering Point, or, where no Public Safety Answering Point has been designated, to a designated statewide default answering point or appropriate local emergency authority pursuant to § 64.3001 of this chapter, provided that “all wireless 911 calls” is defined as “any call initiated by a wireless user dialing 911 on a phone using a compliant radio frequency protocol of the serving carrier.” This requirement shall not apply if the Public Safety Answering Point or emergency authority informs the CIS provider that it does not wish to receive 911 calls from the CIS provider.
+
 [63 FR 2637, Jan. 16, 1998]Editorial Note:For Federal Register citations affecting § 20.18, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Notes:1. At 68 FR 2918, Jan. 22, 2003, in § 20.18, paragraph (j) was revised. Paragraphs (j)(4) and (5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
 
-2. At 72 FR 27708, May 16, 2007, in § 20.18, paragraph (a) was revised. The paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+2. At 82 FR 22760, May 18, 2017, in § 20.18, paragraph (a) was revised and paragraph (r) was added. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

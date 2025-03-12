@@ -68,4 +68,4 @@
 
 (5) *Remedies.* Applicants and reviewing authorities may bring claims related to Section 6409(a) to any court of competent jurisdiction.
 
-[80 FR 1269, Jan. 8, 2015]Effective Date Note:At 80 FR 1269, Jan. 8, 2015, § 1.40001 was added. Paragraphs 1.40001(c)(3)(i), (iii), and (c)(4) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 1269, Jan. 8, 2015]Effective Date Note:At 80 FR 1269, Jan. 8, 2015, § 1.40001 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

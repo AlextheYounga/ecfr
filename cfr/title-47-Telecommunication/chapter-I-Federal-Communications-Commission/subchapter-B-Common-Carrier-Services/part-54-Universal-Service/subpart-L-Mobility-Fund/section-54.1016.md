@@ -8,7 +8,7 @@
 
 (ii) Once the recipient has met its 80 percent service milestone as described in § 54.1015(c) of this chapter, it may, subject to the consent of the Universal Service Administrative Company, obtain a new letter of credit or renew its existing letter of credit so that it is valued at a minimum at 80 percent of the total support amount already disbursed plus the amount that will be disbursed in the coming year.
 
-(2) *Acceptability.* The bank issuing the letter of credit shall be acceptable to the Commission. A bank that is acceptable to the Commission is:
+(2) The bank issuing the letter of credit shall be acceptable to the Commission. A bank that is acceptable to the Commission is:
 
 (i) Any United States Bank -
 
@@ -48,4 +48,4 @@
 
 (2) The default will be evidenced by a letter issued by the Chief of either the Wireless Telecommunications Bureau or Wireline Competition Bureau or their respective designees, which letter, describing the performance default and attached to a standby letter of credit draw certificate, shall be sufficient for a draw on the standby letter of credit.
 
-[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1016 was added. Paragraphs (a) and (b) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 15450, Mar. 28, 2017, as amended at 82 FR 16297, Apr. 4, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1016 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

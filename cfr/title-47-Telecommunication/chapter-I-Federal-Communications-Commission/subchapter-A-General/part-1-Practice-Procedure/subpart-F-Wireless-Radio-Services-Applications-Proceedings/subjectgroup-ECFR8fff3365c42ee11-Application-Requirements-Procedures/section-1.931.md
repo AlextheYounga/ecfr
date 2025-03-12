@@ -1,8 +1,6 @@
 ##### § 1.931 Application for special temporary authority. #####
 
-Link to an amendment published at 82 FR 22759, May 18, 2017.
-
-(a) *Wireless Telecommunications Services.* (1) In circumstances requiring immediate or temporary use of station in the Wireless Telecommunications Services, carriers may request special temporary authority (STA) to operate new or modified equipment. Such requests must be filed electronically using FCC Form 601 and must contain complete details about the proposed operation and the circumstances that fully justify and necessitate the grant of STA. Such requests should be filed in time to be received by the Commission at least 10 days prior to the date of proposed operation or, where an extension is sought, 10 days prior to the expiration date of the existing STA. Requests received less than 10 days prior to the desired date of operation may be given expedited consideration only if compelling reasons are given for the delay in submitting the request. Otherwise, such late-filed requests are considered in turn, but action might not be taken prior to the desired date of operation. Requests for STA must be accompanied by the proper filing fee.
+(a) *Wireless Telecommunications Services.* (1) In circumstances requiring immediate or temporary use of station in the Wireless Telecommunications Services, carriers may request special temporary authority (STA) to operate new or modified equipment. Such requests must be filed electronically using FCC Form 601 and must contain complete details about the proposed operation and the circumstances that fully justify and necessitate the grant of STA. Such requests should be filed in time to be received by the Commission at least 10 days prior to the date of proposed operation or, where an extension is sought, 10 days prior to the expiration date of the existing STA. Requests received less than 10 days prior to the desired date of operation may be given expedited consideration only if compelling reasons are given for the delay in submitting the request. Otherwise, such late-filed requests are considered in turn, but action might not be taken prior to the desired date of operation. Requests for STA for operation of a station used in a Contraband Interdiction System, as defined in § 1.9003, will be afforded expedited consideration if filed at least one day prior to the desired date of operation. Requests for STA must be accompanied by the proper filing fee.
 
 (2) Grant without Public Notice. STA may be granted without being listed in a Public Notice, or prior to 30 days after such listing, if:
 
@@ -10,9 +8,11 @@ Link to an amendment published at 82 FR 22759, May 18, 2017.
 
 (ii) The STA is to be valid for 60 days or less, pending the filing of an application for regular authorization of the subject operation;
 
-(iii) The STA is to allow interim operation to facilitate completion of authorized construction or to provide substantially the same service as previously authorized; or
+(iii) The STA is to allow interim operation to facilitate completion of authorized construction or to provide substantially the same service as previously authorized;
 
-(iv) The STA is made upon a finding that there are extraordinary circumstances requiring operation in the public interest and that delay in the institution of such service would seriously prejudice the public interest.
+(iv) The STA is made upon a finding that there are extraordinary circumstances requiring operation in the public interest and that delay in the institution of such service would seriously prejudice the public interest; or
+
+(v) The STA is for operation of a station used in a Contraband Interdiction System, as defined in § 1.9003.
 
 (3) Limit on STA term. The Commission may grant STA for a period not to exceed 180 days under the provisions of section 309(f) of the Communications Act of 1934, as amended, (47 U.S.C. 309(f)) if extraordinary circumstances so require, and pending the filing of an application for regular operation. The Commission may grant extensions of STA for a period of 180 days, but the applicant must show that extraordinary circumstances warrant such an extension.
 
@@ -50,4 +50,4 @@ Link to an amendment published at 82 FR 22759, May 18, 2017.
 
 (12) An applicant for a General Mobile Radio Service system license, sharing a multiple-licensed or cooperative shared base station used as a mobile relay station, may operate the system for a period of 180 days, under a Temporary Permit, evidenced by a properly executed certification made on FCC Form 605.
 
-[63 FR 68928, Dec. 14, 1998, as amended at 76 FR 70909, Nov. 16, 2011]
+[63 FR 68928, Dec. 14, 1998, as amended at 76 FR 70909, Nov. 16, 2011; 82 FR 22759, May 18, 2017]

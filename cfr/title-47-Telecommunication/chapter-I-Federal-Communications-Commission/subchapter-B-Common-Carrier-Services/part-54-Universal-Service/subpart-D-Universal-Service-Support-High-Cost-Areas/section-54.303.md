@@ -1,7 +1,5 @@
 ##### § 54.303 Eligible Capital Investment and Operating Expenses. #####
 
-Link to an amendment published at 82 FR 22903, May 19, 2017.
-
 (a) *Eligible Operating Expenses.* Each study area's eligible operating expenses for purposes of calculating universal service support pursuant to subparts K and M of this part shall be adjusted as follows:
 
 (1) Total eligible annual operating expenses per location shall be limited as follows: Calculate Exp(Y + 1.5 \* mean square error of the regression), where
@@ -35,7 +33,7 @@ possible or otherwise calculated based on the year plant was put in service.
 
 (e) *Broadband Deployment AALPI adjustment:* The AALPI calculated in paragraph (d) of this section shall be adjusted by the Administrator based upon the difference between a carrier's broadband availability for each study area as reported on that carrier's most recent Form 477, and the weighted national average broadband availability for all rate-of-return carriers based on Form 477 data, as announced annually by the Wireline Competition Bureau in a Public Notice. For every percentage point that the carrier's broadband availability exceeds the weighted national average broadband availability for the Reference Year, that carrier's AALPI will be reduced by one percentage point. For every percentage point that the carrier's broadband availability is below the weighted national average broadband availability for the Reference Year, that carrier's AALPI will be increased by one percentage point.
 
-(f) *Construction allowance adjustment.* Notwithstanding any other provision of this section, a rate-of-return carrier may not include in data submitted for purposes of obtaining high-cost support under subpart K or subpart M of this part any Loop Plant Investment associated with new construction projects where the average cost of such project per location passed exceeds a Maximum Average Per Location Construction Project Limitation as determined by the Administrator according to the following formula:
+(f) *Construction allowance adjustment.* Notwithstanding any other provisions of this section, a rate-of-return carrier must exclude from the data it submits for the purposes of obtaining high-cost support under subpart K or subpart M of this part the amount of Loop Plant Investment associated with a new construction project that exceeds the Maximum Average Per Location Construction Project Limitation for that project as determined by the Administrator according to the following formula:
 
 (1) Maximum Average Per Location Construction Project Loop Plant Investment Limitation equals the inflation adjusted equivalent to $10,000 in the Reference Year calculated by multiplying $10,000 times the applicable annual GDP-CPI. This inflation adjusted amount will be normalized across all study areas by multiplying the product above by (the Loop Cap Adjustment Factor times the Construction Limit Factor)
 
@@ -77,4 +75,4 @@ Where:The Loop Cap Adjustment Factor equals the lesser of 1.0 or the annualized 
 
 (m) *Minimum AALPI.* If a carrier has an AALPI that is less than $4 million in any given year, the carrier shall be allowed to increase its AALPI for that year to the lesser of $4 million or its Total Allowed Loop Plant Investment.
 
-[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017]
+[81 FR 24337, Apr. 25, 2016, as amended at 82 FR 14339, Mar. 20, 2017; 82 FR 16127, Apr. 3, 2017; 82 FR 22903, May 19, 2017]Effective Date Note:At 81 FR 24337. Apr. 25, 2016, § 54.303 was added. Paragraph (b) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,7 +1,5 @@
 ##### § 201.17 Statements of Account covering compulsory licenses for secondary transmissions by cable systems. #####
 
-Link to an amendment published at 82 FR 22886, May 19, 2017.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 111(d)(1) in order for secondary transmissions of cable systems to be subject to compulsory licensing.
 
 (b) *Definitions.* (1) *Gross receipts* for the “basic service of providing secondary transmissions of primary broadcast transmitters” include the full amount of monthly (or other periodic) service fees for any and all services or tiers of services which include one or more secondary transmissions of television or radio broadcast signals, for additional set fees, and for converter fees. In no case shall gross receipts be less than the cost of obtaining the signals of primary broadcast transmitters for subsequent retransmission. All such gross receipts shall be aggregated and the distant signal equivalent (DSE) calculations shall be made against the aggregated amount. Gross receipts for secondary transmission services do not include installation (including connection, relocation, disconnection, or reconnection) fees, separate charges for security, alarm or facsimile services, charges for late payments, or charges for pay cable or other program origination services: *Provided* That, the origination services are not offered in combination with secondary transmission service for a single fee.
@@ -38,13 +36,14 @@ Link to an amendment published at 82 FR 22886, May 19, 2017.
 
 (c) *Accounting periods and deposit.* (1) Statements of Account shall cover semiannual accounting periods of January 1 through June 30, and July 1 through December 31, and shall be deposited in the Copyright Office, together with the total royalty fee for such accounting periods as prescribed by 17 U.S.C. 111(d)(1)(B) through (F), by no later than the immediately following August 29, if the Statement of Account covers the January 1 through June 30 accounting period, and by no later than the immediately following March 1, if the Statement of Account covers the July 1 through December 31 accounting period.
 
-(2) Upon receiving a Statement of Account and royalty fee, the Copyright Office will make an official record of the actual date when such Statement and fee were physically received in the Copyright Office. Thereafter, the Office will examine the Statement and fee for obvious errors or omissions appearing on the face of the documents, and will require that any such obvious errors or omissions be corrected before final processing of the documents is completed. If, as the result of communications between the Copyright Office and the cable system, an additional fee is deposited or changes or additions are made in the Statement of Account, the date that additional deposit or information was actually received in the Office will be added to the official record of the case. However, completion by the Copyright Office of the final processing of a Statement of Account and royalty fee deposit shall establish only the fact of such completion and the date or dates of receipt shown in the official record. It shall in no case be considered a determination that the Statement of Account was, in fact, properly prepared and accurate, that the correct amount of the royalty fee had been deposited, that the statutory time limits for filing had been met, or that any other requirements to qualify for a compulsory license have been satisfied.
+(2) Upon receiving a Statement of Account and royalty fee, the Copyright Office will make an official record of the actual date when such Statement and fee were received in the Copyright Office.
+Thereafter, the Office will examine the Statement and fee for obvious errors or omissions appearing on the face of the documents, and will require that any such obvious errors or omissions be corrected before final processing of the documents is completed. If, as the result of communications between the Copyright Office and the cable system, an additional fee is deposited or changes or additions are made in the Statement of Account, the date that additional deposit or information was actually received in the Office will be added to the official record of the case. However, completion by the Copyright Office of the final processing of a Statement of Account and royalty fee deposit shall establish only the fact of such completion and the date or dates of receipt shown in the official record. It shall in no case be considered a determination that the Statement of Account was, in fact, properly prepared and accurate, that the correct amount of the royalty fee had been deposited, that the statutory time limits for filing had been met, or that any other requirements to qualify for a compulsory license have been satisfied.
 
 (3) Statements of Account and royalty fees received before the end of the particular accounting period they purport to cover will not be processed by the Copyright Office. Statements of Account and royalty fees received after the filing deadlines of August 29 or March 1, respectively, will be accepted for whatever legal effect they may have, if any.
 
 (4) In the Register's discretion, four years after the close of any calendar year, the Register may, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.
 
-(d) *Forms.* (1) Each Statement of Account shall be furnished on an appropriate form prescribed by the Copyright Office, and shall contain the information required by that form and its accompanying instructions. Computation of distant signal equivalents and the copyright royalty fee shall be in accordance with the procedures set forth in the forms. Copies of Statement of Account forms are available free from the Copyright Office website.
+(d) *Statement of Account forms and submission.* Cable systems should submit each Statement of Account using an appropriate form provided by the Copyright Office on its Web site and following the instructions for completion and submission provided on the Office's Web site or the form itself.
 
 (2) The forms prescribed by the Copyright Office are designated “Statement of Account for Secondary Transmissions By Cable Systems”:
 
@@ -170,7 +169,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (13) The name, address, and telephone number of an individual who may be contacted by the Copyright Office for further information about the Statement of Account.
 
-(14) The handwritten signature of:
+(14) A legally binding signature, including an electronic signature as defined in 15 U.S.C. 7006, of:
 
 (i) The owner of the cable system or a duly authorized agent of the owner, if the owner is not a partnership or a corporation; or
 
@@ -178,7 +177,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (iii) An officer of the corporation, if the owner is a corporation. The signature shall be accompanied by:
 
-(A) The printed or typewritten name of the person signing the Statement of Account;
+(A) The printed name of the person signing the Statement of Account;
 
 (B) The date of signature;
 
@@ -308,9 +307,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (4) Royalty fee payments submitted as a result of late or amended filings shall include interest. Interest shall begin to accrue beginning on the first day after the close of the period for filing statements of account for all late payments and underpayments of royalties for the cable statutory license occurring within that accounting period. The accrual period shall end on the date the electronic payment submitted by a cable operator is received. The accrual period shall end on the date the electronic payment submitted by a satellite carrier is received by the Copyright Office. In cases where a waiver of the electronic funds transfer requirement is approved by the Copyright Office, and royalties payments are either late or underpaid, the accrual period shall end on the date the payment is postmarked. If the payment is not received by the Copyright Office within five business days of its date, then the accrual period shall end on the date of the actual receipt by the Copyright Office. Interest is not required to be paid on any royalty underpayment or late payment from a particular accounting period if the interest charge is less than or equal to five dollars.
 
-(l) *Copies of statements of account.* A licensee shall file an original and one copy of the statement of account with the Licensing Division of the Copyright Office.
-
-(m) *Corrections, supplemental payments, and refunds.* (1) Royalty fee obligations under 17 U.S.C. 111 prior to the effective date of the Satellite Television Extension and Localism Act of 2010, Public Law 111-175, are determined based on carriage of each distant signal on a system-wide basis. Refunds for an overpayment of royalty fees for an accounting period prior to January 1, 2010, shall be made only when all outstanding royalty fee obligations have been met, including those for carriage of each distant signal on a system-wide basis.
+(l) *Corrections, supplemental payments, and refunds.* (1) Royalty fee obligations under 17 U.S.C. 111 prior to the effective date of the Satellite Television Extension and Localism Act of 2010, Public Law 111-175, are determined based on carriage of each distant signal on a system-wide basis. Refunds for an overpayment of royalty fees for an accounting period prior to January 1, 2010, shall be made only when all outstanding royalty fee obligations have been met, including those for carriage of each distant signal on a system-wide basis.
 
 (2) Upon compliance with the procedures and within the time limits set forth in paragraph (m)(4) of this section, corrections to Statements of Account will be placed on record, supplemental royalty fee payments will be received for deposit, or refunds will be issued, in the following cases:
 
@@ -330,7 +327,7 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (A) In the case of a request filed under paragraph (m)(2)(i) of this section, where the information given in the Statement of Account is incorrect or incomplete, the request must clearly identify the erroneous or incomplete information and provide the correct or additional information;
 
-(B) In the case of a request filed under paragraph (m)(2)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an affidavit under the official seal of any officer authorized to administer oaths within the United States, or a statement in accordance with section 1746 of title 28 of the United States Code, made and signed in accordance with paragraph (e)(14) of this section. The affidavit or statement shall describe the reasons why the royalty fee was improperly calculated and include a detailed analysis of the proper royalty calculations.
+(B) In the case of a request filed under paragraph (m)(2)(ii) of this section, where the royalty fee was miscalculated and the amount deposited in the Copyright Office was either too high or too low, the request must be accompanied by an amended Statement of Account. The amended Statement shall include an explanation of why the royalty fee was improperly calculated and a detailed analysis of the proper royalty calculations.
 
 (iv)(A) All requests filed under this paragraph (m) must be accompanied by a filing fee in the amount prescribed in § 201.3(e) of this part for each Statement of Account involved. Payment of this fee may be in the form of a personal or company check, or of a certified check, cashier's check or money order, payable to: Register of Copyrights. No request will be processed until the appropriate filing fees are received; and
 
@@ -342,6 +339,6 @@ If the signals of that primary transmitter are carried on a part-time basis beca
 
 (5) Following final processing, all requests submitted under this paragraph (m) will be filed with the original Statement of Account in the records of the Copyright Office. Nothing contained in this paragraph shall be considered to relieve cable systems from their full obligations under title 17 of the United States Code, and the filing of a correction or supplemental payment shall have only such effect as may be attributed to it by a court of competent jurisdiction.
 
-(n) *Satellite carriers not eligible.* Satellite carriers and satellite resale carriers are not eligible for the cable compulsory license based upon an interpretation of the whole of section 111 of title 17 of the United States Code.
+(m) *Satellite carriers not eligible.* Satellite carriers and satellite resale carriers are not eligible for the cable compulsory license based upon an interpretation of the whole of section 111 of title 17 of the United States Code.
 
 (17 U.S.C. 111, 702, 708)[43 FR 27832, June 27, 1978]Editorial Note:For Federal Register citations affecting § 201.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

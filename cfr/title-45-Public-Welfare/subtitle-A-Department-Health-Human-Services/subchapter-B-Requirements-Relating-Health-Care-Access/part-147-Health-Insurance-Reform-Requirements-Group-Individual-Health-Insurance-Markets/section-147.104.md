@@ -1,7 +1,5 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
-Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
-
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.
@@ -31,6 +29,8 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 (F) Section 155.420(d)(13) of this subchapter (concerning eligibility for insurance affordability programs or enrollment in the Exchange).
 
 (ii) In applying this paragraph (b)(2), a reference in § 155.420 of this subchapter to a “QHP” is deemed to refer to a plan, a reference to “the Exchange” is deemed to refer to the applicable State authority, and a reference to a “qualified individual” is deemed to refer to an individual in the individual market.
+
+(iii) Notwithstanding anything to the contrary in § 155.420(d) of this subchapter, § 155.420(a)(4) of this subchapter does not apply to limited open enrollment periods under paragraph (b)(2) of this section.
 
 (3) *Special enrollment periods.* A health insurance issuer in the group and individual market must establish special enrollment periods for qualifying events as defined under section 603 of the Employee Retirement Income Security Act of 1974, as amended. These special enrollment periods are in addition to any other special enrollment periods that are required under federal and state law.
 
@@ -82,4 +82,4 @@ Link to an amendment published at 82 FR 18381, Apr. 18, 2017.
 
 (i) *Construction.* Nothing in this section should be construed to require an issuer to offer coverage otherwise prohibited under applicable Federal law.
 
-[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016]
+[78 FR 13437, Feb. 27, 2013, as amended at 78 FR 65092, Oct. 30, 2013; 78 FR 76217, Dec. 17, 2013; 79 FR 30339, May 27, 2014; 79 FR 59138, Oct. 1, 2014; 80 FR 10862, Feb. 27, 2015; 81 FR 94173, Dec. 22, 2016; 82 FR 18381, Apr. 18, 2017]

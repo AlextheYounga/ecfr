@@ -24,4 +24,4 @@
 
 (j) *Liability for failing to satisfy public interest obligations.* A Mobility Fund Phase II support recipient's failure to comply with the public interest obligations in this paragraph or any other terms and conditions of the Mobility Fund Phase II support constitutes a performance default.
 
-[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1015 was added. Paragraphs (a) through (e) of this section contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1015 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
