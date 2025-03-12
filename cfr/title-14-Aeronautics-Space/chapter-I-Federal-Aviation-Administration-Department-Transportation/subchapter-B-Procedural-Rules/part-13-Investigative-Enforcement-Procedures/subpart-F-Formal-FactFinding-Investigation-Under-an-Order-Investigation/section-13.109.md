@@ -1,3 +1,3 @@
 ##### § 13.109 Convening the investigation. #####
 
-The investigation shall be conducted at such place or places designated by the Presiding Officer, and as convenient to the parties involved as expeditious and efficient handling of the investigation permits.
+The presiding officer will conduct the investigation at a location convenient to the parties involved and as expeditious and efficient as handling of the investigation permits.

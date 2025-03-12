@@ -1,6 +1,6 @@
 ##### § 457.108 Sunflower seed crop insurance provisions. #####
 
-The Sunflower Seed Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
+The Sunflower Seed Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop Provisions1. Definitions
 
@@ -10,15 +10,43 @@ Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop P
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, sunflower seed must initially be planted in rows far enough apart to permit mechanical cultivation, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
-2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+2. Unit Division
+
+(a) In addition to the requirements of section 34(a) of the Basic Provisions, you may elect separate enterprise units for confectionery or oil types if these types are allowed by the actuarial documents. If you elect enterprise units for these types, you may not elect enterprise or optional units by irrigation practices.
+
+(1) You may elect one enterprise unit for the confectionery type or one enterprise unit for the oil type, or separate enterprise units for both types, unless otherwise specified in the Special Provisions. For example: You may choose one enterprise unit for the confectionery type acreage and basic or optional units for the oil type acreage.
+
+(2) You must separately meet the requirements in section 34(a)(4) for each enterprise unit.
+
+(3) If you elected separate enterprise units for both types and we discover you do not qualify for an enterprise unit for one or the other type and such discovery is made:
+
+(i) On or before the acreage reporting date, you may elect to insure:
+
+(A) One enterprise unit for the confectionery type or oil type provided you meet the requirements in section 34(a)(4), and basic or optional units for the other type, whichever you report on your acreage report and qualify for;
+
+(B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
+
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
+
+(ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
+
+(4) If you elected an enterprise unit for one type and a different unit structure on the other type and we discover you do not qualify for an enterprise unit for the type and such discovery is made:
+
+(i) On or before the acreage reporting date, your unit division will be based on basic or optional units, whichever you report on your acreage report and qualify for; or
+
+(ii) At any time after the acreage reporting date, we will assign the basic unit structure.
+
+(b) In addition to, or instead of, establishing optional units as provided in section 34(c) in the Basic Provisions, a separate optional unit may be established for each sunflower type (designated in the actuarial documents and including any type insured by written agreement).
+
+3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
 In addition to the requirements of section 3 of the Basic Provisions, you must elect to insure your sunflowers with either revenue protection or yield protection by the sales closing date.
 
-3. Contract Changes
+4. Contract Changes
 
 In accordance with section 4 of the Basic Provisions, the contract change date is November 30 preceding the cancellation date.
 
-4. Cancellation and Termination Dates.
+5. Cancellation and Termination Dates.
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
@@ -27,7 +55,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 |Hidalgo, Jim Wells, Nueces, and Starr Counties, Texas|                    January 31.                     |
 |    All other Texas counties and all other States    |                     March 15.                      |
 
-5. Insured Crop
+6. Insured Crop
 
 In accordance with section 8 of the Basic Provisions, the crop insured will be all the oil and non-oil type sunflower seed in the county for which a premium rate is provided by the actuarial documents:
 
@@ -41,7 +69,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (2) Planted into an established grass or legume.
 
-6. Insurable Acreage
+7. Insurable Acreage
 
 In addition to the provisions of section 9 of the Basic Provisions:
 
@@ -49,11 +77,11 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (b) Any acreage of the insured crop damaged before the final planting date, to the extent that a majority of producers in the area would not normally further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
-7. Insurance Period
+8. Insurance Period
 
 In accordance with the provisions of section 11 of the Basic Provisions, the calendar date for the end of the insurance period is November 30, immediately following planting.
 
-8. Causes of Loss
+9. Causes of Loss
 
 In accordance with the provisions of section 12 of the Basic Provisions, insurance is provided only against the following causes of loss which occur within the insurance period:
 
@@ -71,17 +99,17 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (g) Volcanic eruption;
 
-(h) Failure of the irrigation water supply due to a cause of loss specified in sections 8(a) through (g) that also occurs during the insurance period; or
+(h) Failure of the irrigation water supply due to a cause of loss specified in sections 9(a) through (g) that also occurs during the insurance period; or
 
 (i) For revenue protection, a change in the harvest price from the projected price, unless FCIC can prove the price change was the direct result of an uninsured cause of loss specified in section 12(a) of the Basic Provisions.
 
-9. Replanting Payments
+10. Replanting Payments
 
 (a) A replanting payment is allowed as follows:
 
 (1) In lieu of provisions in section 13 of the Basic Provisions that limit the amount of a replant payment to the actual cost of replanting, the amount of any replanting payment will be determined in accordance with these Crop Provisions;
 
-(2) Except as specified in section 9(a)(1), you must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions; and
+(2) Except as specified in section 10(a)(1), you must comply with all requirements regarding replanting payments contained in section 13 of the Basic Provisions; and
 
 (3) The insured crop must be damaged by an insurable cause of loss to the extent that the remaining stand will not produce at least 90 percent of the production guarantee for the acreage.
 
@@ -97,11 +125,11 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (3) A revised acreage report will be required to reflect the replanted type, as applicable.
 
-10. Duties in the Event of Damage or Loss
+11. Duties in the Event of Damage or Loss
 
 Representative samples are required in accordance with section 14 of the Basic Provisions.
 
-11. Settlement of Claim
+12. Settlement of Claim
 
 (a) We will determine your loss on a unit basis. In the event you are unable to provide records of production that are acceptable to us for any:
 
@@ -117,7 +145,7 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (ii) Revenue protection guarantee (per acre) if you elected revenue protection;
 
-(2) Totaling the results of section 11(b)(1)(i) or 11(b)(1)(ii), whichever is applicable;
+(2) Totaling the results of section 12(b)(1)(i) or 12(b)(1)(ii), whichever is applicable;
 
 (3) Multiplying the production to count by your:
 
@@ -125,35 +153,35 @@ Representative samples are required in accordance with section 14 of the Basic P
 
 (ii) Harvest price if you elected revenue protection;
 
-(4) Totaling the results of section 11(b)(3)(i) or 11(b)(3)(ii), whichever is applicable;
+(4) Totaling the results of section 12(b)(3)(i) or 12(b)(3)(ii), whichever is applicable;
 
-(5) Subtracting the result of section 11(b)(4) from the result of section 11(b)(2); and
+(5) Subtracting the result of section 12(b)(4) from the result of section 12(b)(2); and
 
-(6) Multiplying the result of section 11(b)(5) by your share.
+(6) Multiplying the result of section 12(b)(5) by your share.
 
 For example:
 
-You have 100 percent share in 50 acres of sunflowers in the unit with a production guarantee (per acre) of 1,250 pounds, your projected price is $.11, your harvest price is $.12, and your production to count is 54,000 pounds.
+You have 100 percent share in 50 acres of sunflowers in the unit with a production guarantee (per acre) of 1,250 pounds, your projected price is $.23, your harvest price is $.24, and your production to count is 54,000 pounds.
 
 If you elected yield protection:
 
-(1) 50 acres × (1,250 pound production guarantee × $.11 projected price) = $6,875.00 value of the production guarantee
+(1) 50 acres × (1,250 pound production guarantee × $.23 projected price) = $14,375.00 value of the production guarantee;
 
-(3) 54,000 pound production to count × $.11 projected price = $5,940.00 value of production to count
+(3) 54,000 pound production to count × $.23 projected price = $12,420.00 value of production to count;
 
-(5) $6,875.00 − $5,940.00 = $935.00
+(5) $14,375.00−$12,420.00 = $1,955.00;
 
-(6) $935.00 × 1.000 share = $935.00 indemnity; or
+(6) $1,955.00 × 1.000 share = $1,955.00 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (1,250 pound production guarantee × $.12 harvest price) = $7,500.00 revenue protection guarantee
+(1) 50 acres × (1,250 pound production guarantee × $.24 harvest price) = $15,000.00 revenue protection guarantee;
 
-(3) 54,000 pound production to count × $.12 harvest price = $6,480.00 value of the production to count
+(3) 54,000 pound production to count × $.24 harvest price = $12,960.00 value of the production to count;
 
-(5) $7,500.00 − $6,480.00 = $1,020.00
+(5) $15,000.00−$12,960.00 = $2,040.00;
 
-(6) $1,020.00 × 1.000 share = $1,020.00 indemnity.
+(6) $2,040.00 × 1.000 share = $2,040.00 indemnity.
 
 (c) The total production to count (in pounds) from all insurable acreage on the unit will include:
 
@@ -171,7 +199,7 @@ If you elected revenue protection:
 
 (ii) Production lost due to uninsured causes;
 
-(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with subsection 11(d)); and
+(iii) Unharvested production (mature unharvested production may be adjusted for quality deficiencies and excess moisture in accordance with section 12(d)); and
 
 (iv) Potential production on insured acreage you want to put to another use or you wish to abandon and no longer care for, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end if you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
@@ -211,12 +239,12 @@ If you elected revenue protection:
 
 (iv) With regard to substances or conditions injurious to human or animal health, the samples are analyzed by a laboratory approved by us.
 
-(4) Sunflower seed production that is eligible for quality adjustment, as specified in sections 11(d)(2) and (3), will be reduced in accordance with quality adjustment factor provisions contained in the Special Provisions.
+(4) Sunflower seed production that is eligible for quality adjustment, as specified in sections 12(d)(2) and (3), will be reduced in accordance with quality adjustment factor provisions contained in the Special Provisions.
 
 (e) Any production harvested from plants growing in the insured crop may be counted as production of the insured crop on a weight basis.
 
-12. Prevented Planting
+13. Prevented Planting
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020; 85 FR 79779, Dec. 11, 2020; 86 FR 11091, Feb. 24, 2021]
+[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020; 85 FR 79779, Dec. 11, 2020; 86 FR 11091, Feb. 24, 2021; 86 FR 67837, Nov. 30, 2021]

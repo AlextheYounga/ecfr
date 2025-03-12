@@ -1,5 +1,7 @@
 ##### § 40.23 General license for carriers of transient shipments of natural uranium other than in the form of ore or ore residue. #####
 
+Link to an amendment published at 86 FR 67842, Nov. 30, 2021.
+
 (a) A general license is hereby issued to any person to possess a transient shipment of natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms.
 
 (b)(1) Persons generally licensed under paragraph (a) of this section, who plan to carry a transient shipment with scheduled stops at a United States port, shall notify the Director Office of Nuclear Security and Incident Response, using an appropriate method listed in § 40.5. The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.

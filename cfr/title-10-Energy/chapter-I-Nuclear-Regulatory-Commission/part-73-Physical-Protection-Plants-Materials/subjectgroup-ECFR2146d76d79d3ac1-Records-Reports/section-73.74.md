@@ -1,5 +1,7 @@
 ##### § 73.74 Requirement for advance notice and protection of import shipments of nuclear material from countries that are not party to the Convention on the Physical Protection of Nuclear Material. #####
 
+Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
+
 (a) A licensee authorized to import special nuclear material of low strategic significance from a country not a party to the Convention on the Physical Protection of Nuclear Material (*i.e.*, not listed in appendix F of this part) shall:
 
 (1) Notify in writing the Director, Office of Nuclear Security and Incident Response, using any appropriate method listed in § 73.4;

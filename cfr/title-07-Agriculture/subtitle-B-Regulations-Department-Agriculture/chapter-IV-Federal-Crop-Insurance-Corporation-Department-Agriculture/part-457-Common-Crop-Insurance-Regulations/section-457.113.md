@@ -1,20 +1,20 @@
 ##### § 457.113 Coarse grains crop insurance provisions. #####
 
-The Coarse Grains Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
+The Coarse Grains Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationCoarse Grains Crop Provisions1. Definitions
 
 *Coarse grains.* Corn, grain sorghum, and soybeans.
 
-*Following another crop (FAC).* A cropping practice, as defined in the Special Provisions, in which a crop is planted following another crop.
+*Following another crop (FAC).* A cropping practice, as specified in the Special Provisions, in which a crop is planted following another crop.
 
 *Grain sorghum.* The crop defined as sorghum under the United States Grain Standards Act.
 
-*Harvest.* Combining, threshing, or picking the insured crop for grain, or cutting for hay, silage, or fodder.
+*Harvest.* Combining, threshing, or picking the insured crop for grain, or cutting for hay, silage, earlage, snaplage, or fodder.
 
 *Local market price.* The cash grain price per bushel for the U.S. No. 2 yellow corn, U.S. No. 2 grain sorghum, or U.S. No. 1 soybeans, offered by buyers in the area in which you normally market the insured crop. The local market price will reflect the maximum limits of quality deficiencies allowable for the U.S. No. 2 grade for yellow corn and grain sorghum, or U.S. No. 1 grade for soybeans. Factors not associated with grading under the Official United States Standards for Grain, including but not limited to protein and oil, will not be considered.
 
-*Not following another crop (NFAC*). A cropping practice, as defined in the Special Provisions, in which a crop is planted not following another crop.
+*Not following another crop (NFAC*). A cropping practice, as specified in the Special Provisions, in which a crop is planted not following another crop.
 
 *Planted acreage.* In addition to the definition contained in the Basic Provisions, coarse grains must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
@@ -42,7 +42,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationCoarse 
 
 (B) One enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4); or
 
-(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for; or
+(C) Basic or optional units for all acreage of the crop in the county, whichever you report on your acreage report and qualify for;
 
 (ii) At any time after the acreage reporting date, your unit structure will be one enterprise unit for all acreage of the crop in the county provided you meet the requirements in section 34(a)(4). Otherwise, we will assign the basic unit structure.
 
@@ -96,11 +96,11 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (b) For corn only, in addition to the provisions of section 6(a), the corn crop insured will be all corn that is:
 
-(1) Planted for harvest either as grain or as silage (see section 6(c)). A mixture of corn and sorghum (grain or forage-type) will be insured as corn silage if the sorghum does not constitute more than twenty percent (20%) of the plants;
+(1) Planted for harvest either as grain or as silage (see section 6(c)). A mixture of corn and sorghum (grain or forage-type) will be insured as corn silage if the sorghum does not constitute more than 20 percent of the plants;
 
 (2) Yellow dent or white corn, including mixed yellow and white, waxy or high-lysine corn, high-oil corn blends containing mixtures of at least 90 percent high yielding yellow dent female plants with high-oil male pollinator plants, or commercial varieties of high-protein hybrids, and excluding:
 
-(i) High-amylose, high-oil or high-protein (except as authorized in section 6(b)(2)), flint, flour, Indian, or blue corn, or a variety genetically adapted to provide forage for wildlife or any other open pollinated corn, unless a written agreement allows insurance of such excluded crops.
+(i) High-amylose, high-oil, or high-protein (except as authorized in section 6(b)(2)), flint, flour, Indian, blue corn, a variety genetically adapted to provide forage for wildlife, or any other open pollinated corn, unless the Special Provisions or a written agreement allows insurance of such excluded crops.
 
 (ii) A variety of corn adapted for silage use only when the corn is reported for insurance as grain.
 
@@ -120,7 +120,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (3) That is not a dual-purpose type of grain sorghum (a type used for both grain and forage), unless a written agreement allows insurance of such grain sorghum.
 
-(e) For soybeans only, in addition to the provisions of section 6(a), the soybean crop insured will be all of the soybeans in the county that are planted for harvest as beans.
+(e) For soybeans only, in addition to the provisions of section 6(a), the soybean crop insured will be all of the soybeans in the county that are planted for harvest as soybeans.
 
 7. Insurable Acreage
 
@@ -201,7 +201,7 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (b) For any corn unit that has separate dates for the end of the insurance period (grain and silage), in lieu of the requirement contained in section 14 of the Basic Provisions to provide notice within 72 hours of your initial discovery of damage (but not later than 15 days after the end of the insurance period), you must provide notice within 72 hours of your initial discovery of damage (but not later than 15 days after the latest end of the insurance period applicable to the unit).
 
-(c) If you will harvest any acreage in a manner other than as you reported it for coverage (*e.g.*, you reported planting it to harvest as grain but will harvest the acreage for silage, or you reported planting it to harvest as silage but will harvest the acreage for grain), you must notify us before harvest begins. Failure to timely provide notice will result in production to count determined in accordance with section 12(c)(1)(i)(E).
+(c) If you will harvest any acreage in a manner other than as you reported on your acreage report (*e.g.,* you reported planting it to harvest as grain but will harvest the acreage for hay, silage, earlage, snaplage, or fodder, or you reported planting it to harvest as silage but will harvest the acreage for grain, hay, earlage, snaplage, or fodder), you must notify us before harvest begins so the acreage can be appraised as the type reported on your acreage report to determine production to count that is used for claim purposes. Failure to timely provide notice will result in production to count determined in accordance with section 12(c)(1)(i)(E).
 
 12. Settlement of Claim
 
@@ -235,27 +235,27 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 For example:
 
-You have 100 percent share in 50 acres of corn in the unit with a production guarantee (per acre) of 115 bushels, your projected price is $2.25, your harvest price is $2.20, and your production to count is 5,000 bushels.
+You have 100 percent share in 50 acres of corn in the unit with a production guarantee (per acre) of 115 bushels, your projected price is $4.58, your harvest price is $4.53, and your production to count is 5,000 bushels.
 
 If you elected yield protection:
 
-(1) 50 acres × (115 bushel production guarantee × $2.25 projected price) = $12,937.50 value of the production guarantee
+(1) 50 acres × (115 bushel production guarantee × $4.58 projected price) = $26,335.00 value of the production guarantee
 
-(3) 5,000 bushel production to count × $2.25 projected price = $11,250.00 value of the production to count
+(3) 5,000 bushel production to count × $4.58 projected price = $22,900.00 value of the production to count
 
-(5) $12,937.50 − $11,250.00 = $1,687.50
+(5) $26,335.00−$22,900.00 = $3,435.00
 
-(6) $1,687.50 × 1.000 share = $1,688.00 indemnity; or
+(6) $3,435.00 × 1.000 share = $3,435.00 indemnity; or
 
 If you elected revenue protection:
 
-(1) 50 acres × (115 bushel production guarantee × $2.25 projected price) = $12,937.50 revenue protection guarantee
+(1) 50 acres × (115 bushel production guarantee × $4.58 projected price) = $26,335.00 revenue protection guarantee
 
-(3) 5,000 bushel production to count × $2.20 harvest price = $11,000.00 value of the production to count
+(3) 5,000 bushel production to count × $4.53 harvest price = $22,650.00 value of the production to count
 
-(5) $12,937.50 − $11,000.00 = $1,937.50
+(5) $26,335.00−$22,650.00 = $3,685.00
 
-(6) $1,937.50 × 1.000 share = $1,938.00 indemnity.
+(6) $3,685.00 × 1.000 share = $3,685.00 indemnity.
 
 (c) The total production to count (in bushels for corn insured as grain or in tons for corn insured as silage) from all insurable acreage on the unit will include:
 
@@ -279,7 +279,7 @@ If you elected revenue protection:
 
 (iv) Potential production on insured acreage you will put to another use or abandon, if you and we agree on the appraised amount of production. Upon such agreement the insurance period for that acreage will end when you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
-(A) If you do not elect to continue to care for the crop we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us (The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or you fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count); or
+(A) If you do not elect to continue to care for the crop we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us (The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or you fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count.); or
 
 (B) If you elect to continue to care for the crop, the amount of production to count for the acreage will be the harvested production, or our reappraisal if additional damage occurs and the crop is not harvested; and
 
@@ -289,11 +289,11 @@ If you elected revenue protection:
 
 (1) Production will be reduced by 0.12 percent for each 0.1 percentage point of moisture in excess of:
 
-(i) Fifteen percent (15%) for corn (If moisture exceeds 30 percent (30%), production will be reduced 0.2 percent for each 0.1 percentage point above 30 percent (30%));
+(i) 15 percent for corn (If moisture exceeds 30 percent, production will be reduced 0.2 percent for each 0.1 percentage point above 30 percent);
 
-(ii) Fourteen percent (14%) for grain sorghum; and
+(ii) 14 percent for grain sorghum; and
 
-(iii) Thirteen percent (13%) for soybeans.
+(iii) 13 percent for soybeans.
 
 We may obtain samples of the production to determine the moisture content.
 
@@ -325,13 +325,13 @@ We may obtain samples of the production to determine the moisture content.
 
 (iv) With regard to substances or conditions injurious to human or animal health, the samples are analyzed by a laboratory approved by us.
 
-(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 12(d)(2) and (3), will be reduced by the quality adjustment factor contained in the Special Provisions.
+(4) Coarse grain production that is eligible for quality adjustment, as specified in sections 12(d)(2) and (3), will be reduced by the quality adjustment factor calculated in accordance with the Special Provisions.
 
 (e) For corn insured as silage:
 
-(1) Whenever our appraisal of grain content is less than 4.5 bushels of grain per ton of silage, the silage production will be reduced by 1 percentage point for each 0.1(1/10) of a bushel less than 4.5 bushels per ton (If we cannot make a grain appraisal before harvest and you do not leave a representative unharvested sample, in accordance with the policy no reduction for grain-deficient silage will be made.); and
+(1) Whenever our appraisal of grain content is less than 4.5 bushels of grain per ton of silage, the silage production will be reduced by 1 percentage point for each 0.1 of a bushel less than 4.5 bushels per ton (If we cannot make a grain appraisal before harvest and you do not leave a representative unharvested sample, in accordance with the policy no reduction for grain-deficient silage will be made.); and
 
-(2) If the normal silage harvesting period has ended, or for any acreage harvested as silage or appraised as silage after the calendar date for the end of the insurance period as specified in section 8(b), we may increase the silage production to count to a 65 percent moisture equivalent to reflect the normal moisture content of silage harvested during the normal silage harvesting period.
+(2) If the normal silage harvesting period has ended, or for any acreage harvested as silage or appraised as silage after the calendar date for the end of the insurance period as specified in section 8(b), we will increase the silage production to count to a 65 percent moisture equivalent to reflect the normal moisture content of silage harvested during the normal silage harvesting period.
 
 (f) Any production harvested from plants growing in the insured crop may be counted as production of the insured crop on a weight basis.
 
@@ -339,4 +339,4 @@ We may obtain samples of the production to determine the moisture content.
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019; 85 FR 38760, June 29, 2020]
+[59 FR 49161, Sept. 27, 1994; 59 FR 60063, Nov. 22, 1994, as amended at 60 FR 62728, 62729, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65168, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15881, 15882, 15883, Mar. 30, 2010; 81 FR 84399, Nov. 23, 2016; 84 FR 65261, Nov. 27, 2019; 85 FR 38760, June 29, 2020; 86 FR 67838, Nov. 30, 2021]

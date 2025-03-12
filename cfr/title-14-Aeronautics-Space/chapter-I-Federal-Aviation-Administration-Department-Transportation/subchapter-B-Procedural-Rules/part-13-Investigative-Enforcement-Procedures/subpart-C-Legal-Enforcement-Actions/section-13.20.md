@@ -1,49 +1,59 @@
 ##### § 13.20 Orders of compliance, cease and desist orders, orders of denial, and other orders. #####
 
-(a) This section applies to orders of compliance, cease and desist orders, orders of denial, and other orders issued by the Administrator to carry out the provisions of the Federal Aviation Act of 1958, as amended, the Hazardous Materials Transportation Act, the Airport and Airway Development Act of 1970, and the Airport and Airway Improvement Act of 1982, or the Airport and Airway Improvement Act of 1982 as amended by the Airport and Airway Safety and Capacity Expansion Act of 1987. This section does not apply to orders issued pursuant to section 602 or section 609 of the Federal Aviation Act of 1958, as amended.
+(a) *General.* This section applies to all of the following:
 
-(b) Unless the Administrator determines that an emergency exists and safety in air commerce requires the immediate issuance of an order under this section, the person subject to the order shall be provided with notice prior to issuance.
+(1) Orders of compliance;
 
-(c) Within 30 days after service of the notice, the person subject to the order may”
+(2) Cease and desist orders;
 
-(1) Request an opportunity to be heard in an informal conference with an FAA attorney;
+(3) Orders of denial;
 
-(2) Reply in writing; or
+(4) Orders suspending or revoking a certificate of registration (but not revocation of a certificate of registration because the aircraft was used to carry out or facilitate an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year and the owner of the aircraft permitted the use of the aircraft knowing that the aircraft was to be used for the activity); and
 
-(3) Request a hearing in accordance with subpart D of this part.
+(5) Other orders issued by the Administrator to carry out the provisions of the Federal aviation statute codified at 49 U.S.C. subtitle VII that apply this section by statute, rule, regulation, or order, or for which there is no specific administrative process provided by statute, rule, regulation, or order.
 
-(d) If an informal conference is held or a reply is filed, as to any charges not withdrawn or not subject to a consent order, the person subject to the order may, within 10 days after receipt of notice that the remaining charges are not withdrawn, request a hearing in accordance with subpart D of this part.
+(b) *Applicability of procedures.* (1) Prior to the issuance of a non-immediately effective order covered by this section, the Administrator will provide the person who would be subject to the order with notice, advising the person of the charges or other reasons upon which the proposed action is based, and the provisions in paragraph (c) of this section apply.
 
-(e) Failure to request a hearing within the period provided in paragraphs (c) or (d) of this section -
+(2) If the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action and issues an order covered by this section that is immediately effective, the provisions of paragraph (d) of this section apply.
 
-(1) Constitutes a waiver of the right to appeal and the right to a hearing, and
+(c) *Non-emergency procedures.* (1) Within 30 days after service of the notice, the person subject to the notice may:
 
-(2) Authorizes the official who issued the notice to find the facts to be as alleged in the notice, or as modified as the official may determine necessary based on any written response, and to issue an appropriate order, without further notice or proceedings.
+(i) Submit a written reply;
 
-(f) If a hearing is requested in accordance with paragraph (c) or (d) of this section, the procedure of Subpart D of this part applies. At the close of the hearing, the Hearing Officer, on the record or subsequently in writing, shall set forth findings and conclusions and the reasons therefor, and either -
+(ii) Agree to the issuance of the order as proposed in the notice of proposed action, waiving any right to contest or appeal the agreed-upon order issued under this option in any administrative or judicial forum;
 
-(1) Dismiss the notice; or
+(iii) Submit a written request for an informal conference to discuss the matter with an agency attorney; or
 
-(2) Issue an order.
+(iv) Request a hearing in accordance with the non-emergency procedures of subpart D of this part.
 
-(g) Any party to the hearing may appeal from the order of the Hearing Officer by filing a notice of appeal with the Administrator within 20 days after the date of issuance of the order.
+(2) After an informal conference is held or a reply is filed, if the agency attorney notifies the person that some or all of the proposed agency action will not be withdrawn, the person may, within 10 days after receiving the agency attorney's notification, request a hearing on the parts of the proposed agency action not withdrawn, in accordance with the non-emergency procedures of subpart D of this part.
 
-(h) If a notice of appeal is not filed from the order issued by a Hearing Officer, such order is the final agency order.
+(3) If a hearing is requested in accordance with paragraph (c)(1)(iv) or (c)(2) of this section, the non-emergency procedures of subpart D of this part apply.
 
-(i) Any person filing an appeal authorized by paragraph (g) of this section shall file an appeal brief with the Administrator within 40 days after the date of issuance of the order, and serve a copy on the other party. A reply brief must be filed within 20 days after service of the appeal brief and a copy served on the appellant.
+(4) Failure to request a hearing within the periods provided in paragraph (c)(1)(iv) or (c)(2) of this section:
 
-(j) On appeal the Administrator reviews the available record of the proceeding, and issues an order dismissing, reversing, modifying or affirming the order. The Administrator's order includes the reasons for the Administrator's action.
+(i) Constitutes a waiver of the right to a hearing and appeal; and
 
-(k) For good cause shown, requests for extensions of time to file any document under this section may be granted by -
+(ii) Authorizes the agency to make appropriate findings of fact and to issue an appropriate order without further notice or proceedings.
 
-(1) The official who issued the order, if the request is filed prior to the designation of a Hearing Officer; or
+(d) *Emergency procedures.* (1) If the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action, the Administrator issues simultaneously:
 
-(2) The Hearing Officer, if the request is filed prior to the filing of a notice of appeal; or
+(i) An immediately effective order that expires 80 days after the date of issuance and sets forth the charges or other reasons upon which the order is based; and
 
-(3) The Administrator, if the request is filed after the filing of a notice of appeal.
+(ii) A notice of proposed action that:
 
-(l) Except in the case of an appeal from the decision of a Hearing Officer, the authority of the Administrator under this section is also exercised by the Chief Counsel, Deputy Chief Counsel, each Assistant Chief Counsel, each Regional Counsel, and the Aeronautical Center Counsel (as to matters under Title V of the Federal Aviation Act of 1958).
+(A) Sets forth the charges or other reasons upon which the notice of proposed action is based; and
 
-(m) Filing and service of documents under this section shall be accomplished in accordance with § 13.43; and the periods of time specified in this section shall be computed in accordance with § 13.44.
+(B) Advises that within 10 days after service of the notice, the person may appeal the notice by requesting an expedited hearing in accordance with the emergency procedures of subpart D of this part.
 
-[Doc. No. 18884, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-17, 53 FR 33783, Aug. 31, 1988; Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46865, Sept. 4, 1997; Amdt. 13-36, 79 FR 46967, Aug. 12, 2014]
+(2) The Administrator will serve the immediately effective order and the notice of proposed action together by personal or overnight delivery and by certified or registered mail to the person subject to the order and notice of proposed action.
+
+(3) Failure to request a hearing challenging the notice of proposed action under the expedited procedures in subpart D of this part within 10 days after service of the notice:
+
+(i) Constitutes a waiver of the right to a hearing and appeal under subpart D of this part; and
+
+(ii) Authorizes the Administrator, without further notice or proceedings, to make appropriate findings of fact, issue an immediately effective order without expiration, and withdraw the 80-day immediately effective order.
+
+(4) The filing of a request for hearing under subpart D of this part does not stay the effectiveness of the 80-day immediately effective order issued under this section.
+
+(e) *Delegation of authority.* The authority of the Administrator under this section is delegated to the Chief Counsel, each Deputy Chief Counsel, and the Assistant Chief Counsel for Enforcement.

@@ -1,3 +1,3 @@
 ##### § 13.121 Witness fees. #####
 
-All witnesses appearing shall be compensated at the same rate as a witness appearing before a United States District Court.
+All witnesses appearing, other than employees of the Federal Aviation Administration, are entitled to the same fees and allowances as provided for under 28 U.S.C. 1821.

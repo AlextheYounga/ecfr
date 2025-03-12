@@ -1,3 +1,9 @@
-##### § 13.39 Disqualification of Hearing Officer. #####
+##### § 13.39 Disqualification of hearing officer. #####
 
-If disqualified for any reason, the Hearing Officer shall withdraw from the case.
+(a) *Motion and supporting affidavit.* Any party may file a motion for disqualification under § 13.49(g). A party must state the grounds for disqualification, including, but not limited to, a financial or other personal interest that would be affected by the outcome of the enforcement action, personal animus against a party to the action or against a group to which a party belongs, prejudgment of the adjudicative facts at issue in the proceeding, or any other prohibited conflict of interest. A party must submit an affidavit with the motion for disqualification that sets forth, in detail, the matters alleged to constitute grounds for disqualification.
+
+(b) *Timing.* A motion for disqualification must be filed prior to the issuance of the hearing officer's decision under § 13.63(b). Any party may file a response to a motion for disqualification, but must do so no later than 5 days after service of the motion for disqualification.
+
+(c) *Decision on motion for disqualification.* The hearing officer must render a decision on the motion for disqualification no later than 15 days after the motion has been filed. If the hearing officer finds that the motion for disqualification and supporting affidavit show a basis for disqualification, the hearing officer must withdraw from the proceedings immediately. If the hearing officer finds that disqualification is not warranted, the hearing officer must deny the motion and state the grounds for the denial on the record. If the hearing officer fails to rule on a party's motion for disqualification within 15 days after the motion has been filed, the motion is deemed granted.
+
+(d) *Self-disqualification.* A hearing officer may disqualify himself or herself at any time.

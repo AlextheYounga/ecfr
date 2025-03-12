@@ -1,17 +1,25 @@
 ##### § 13.49 Motions. #####
 
-(a) *Motion to dismiss for insufficiency.* A respondent who requests a formal hearing may, in place of an answer, file a motion to dismiss for failure of the allegations in the notice of proposed action to state a violation of the FA Act or of this chapter or to show lack of qualification of the respondent. If the Hearing Officer denies the motion, the respondent shall file an answer within 10 days.
+(a) *Motions in lieu of an answer.* A respondent may file a motion to dismiss or a motion for a more definite statement in place of an answer. If the hearing officer denies the motion, the respondent must file an answer within 10 days.
 
-(b) [Reserved]
+(1) *Motion to dismiss.* The respondent may file a motion asserting that the allegations in the complaint fail to state a violation of Federal aviation statutes, a violation of regulations in this chapter, lack of qualification of the respondent, or other appropriate grounds.
 
-(c) *Motion for more definite statement.* The certificate holder may, in place of an answer, file a motion that the allegations in the notice be made more definite and certain. If the Hearing Officer grants the motion, the FAA counsel shall comply within 10 days after the date it is granted. If the Hearing Officer denies the motion the certificate holder shall file an answer within 10 days after the date it is denied.
+(2) *Motion for more definite statement.* The respondent may file a motion that the allegations in the notice be made more definite and certain.
 
-(d) *Motion for judgment on the pleadings.* After the pleadings are closed, either party may move for a judgment on the pleadings.
+(b) *Motion to dismiss request for hearing.* The FAA may file a motion to dismiss a request for hearing based on jurisdiction, timeliness, or other appropriate grounds.
 
-(e) *Motion to strike.* Upon motion of either party, the Hearing Officer may order stricken, from any pleadings, any insufficient allegation or defense, or any immaterial, impertinent, or scandalous matter.
+(c) *Motion for decision on the pleadings or for summary decision.* After the complaint and answer are filed, either party may move for a decision on the pleadings or for a summary decision, in the manner provided by Rules 12 and 56, respectively, of the Federal Rules of Civil Procedure.
 
-(f) *Motion for production of documents.* Upon motion of any party showing good cause, the Hearing Officer may, in the manner provided by Rule 34, Federal Rules of Civil Procedure, order any party to produce any designated document, paper, book, account, letter, photograph, object, or other tangible thing, that is not privileged, that constitutes or contains evidence relevant to the subject matter of the hearings, and that is in the party's possession, custody, or control.
+(d) *Motion to strike.* Upon motion of either party, the hearing officer may order stricken, from any pleadings, any insufficient allegation or defense, or any redundant, immaterial, impertinent, or scandalous matter.
 
-(g) *Consolidation of motions.* A party who makes a motion under this section shall join with it all other motions that are then available to the party. Any objection that is not so raised is considered to be waived.
+(e) *Motion to compel.* Any party may file a motion asking the hearing officer to order any other party to produce discovery requested in accordance with § 13.53 if—
 
-(h) *Answers to motions.* Any party may file an answer to any motion under this section within 5 days after service of the motion.
+(1) The other party has failed to timely produce the requested discovery; and
+
+(2) The moving party certifies it has in good faith conferred with the other party in an attempt to obtain the requested discovery prior to filing the motion to compel.
+
+(f) *Motion for protective order.* The hearing officer may order information contained in anything filed, or in any testimony given pursuant to this subpart withheld from public disclosure when, in the judgment of the hearing officer, disclosure would be detrimental to aviation safety; disclosure would not be in the public interest; or the information is not otherwise required to be made available to the public. Any person may make written objection to the public disclosure of any information, stating the ground for such objection.
+
+(g) *Other motions.* Any application for an order or ruling not otherwise provided for in this subpart must be made by motion.
+
+(h) *Responses to motions.* Any party may file a response to any motion under this subpart within 10 days after service of the motion.

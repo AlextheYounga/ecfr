@@ -1,0 +1,3 @@
+##### § 1006.104 Relation to State laws. #####
+
+Neither the Act nor the corresponding provisions of this part annul, alter, affect, or exempt any person subject to the provisions of the Act or the corresponding provisions of this part from complying with the laws of any State with respect to debt collection practices, except to the extent that those laws are inconsistent with any provision of the Act or the corresponding provisions of this part, and then only to the extent of the inconsistency. For purposes of this section, a State law is not inconsistent with the Act or the corresponding provisions of this part if the protection such law affords any consumer is greater than the protection provided by the Act or the corresponding provisions of this part.

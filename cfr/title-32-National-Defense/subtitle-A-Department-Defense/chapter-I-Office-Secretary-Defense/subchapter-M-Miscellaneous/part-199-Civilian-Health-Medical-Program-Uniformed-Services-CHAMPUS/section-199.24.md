@@ -1,5 +1,7 @@
 ##### § 199.24 TRICARE Reserve Select. #####
 
+Link to an amendment published at 86 FR 67862, Nov. 30, 2021.
+
 (a) *Establishment.* TRICARE Reserve Select offers the TRICARE Select self-managed, preferred-provider network option under § 199.17 to qualified members of the Selected Reserve, their immediate family members, and qualified survivors under this section.
 
 (1) *Purpose.* TRICARE Reserve Select is a premium-based health plan that is available for purchase by members of the Selected Reserve and certain survivors of Selected Reserve members as specified in paragraph (c) of this section.

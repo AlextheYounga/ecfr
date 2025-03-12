@@ -1,5 +1,7 @@
 ##### § 50.74 Notification of change in operator or senior operator status. #####
 
+Link to an amendment published at 86 FR 67842, Nov. 30, 2021.
+
 Each licensee shall notify the appropriate Regional Administrator as listed in appendix D to part 20 of this chapter within 30 days of the following in regard to a licensed operator or senior operator:
 
 (a) Permanent reassignment from the position for which the licensee has certified the need for a licensed operator or senior operator under § 55.31(a)(3) of this chapter;

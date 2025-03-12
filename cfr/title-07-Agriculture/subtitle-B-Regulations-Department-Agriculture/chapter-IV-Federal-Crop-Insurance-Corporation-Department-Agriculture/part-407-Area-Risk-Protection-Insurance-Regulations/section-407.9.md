@@ -1,7 +1,5 @@
 ##### § 407.9 Area risk protection insurance policy. #####
 
-This insurance is available for the 2022 and succeeding years.
-
 [FCIC policies]Department of AgricultureFederal Crop Insurance CorporationArea Risk Protection Insurance Policy[Reinsured policies](Appropriate title for insurance provider)(This is a continuous policy. Refer to Section 2.)[FCIC policies]
 
 Area Risk Protection Insurance (ARPI) provides protection against widespread loss of revenue or widespread loss of yield in a county. Individual farm revenues and yields are not considered under ARPI and it is possible that your individual farm may experience reduced revenue or reduced yield and you do not receive an indemnity under ARPI.
@@ -54,7 +52,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Beginning farmer or rancher.* An individual who has not actively operated and managed a farm or ranch in any state, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than five crop years, as determined in accordance with FCIC procedures. Any crop year's insurable interest may, at your election, be excluded if earned while under the age of 18, while in full-time military service of the United States, or while in post-secondary education, in accordance with FCIC procedures. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
 
-*Buffer zone.* A parcel of land, as designated in your organic plan, that separates commodities grown under organic practices from commodities grown under non-organic practices, and used to minimize the possibility of unintended contact by prohibited substances or organisms.
+*Buffer zone.* Acreage designated in your organic plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
 
 *Cancellation date.* The calendar date specified in the Crop Provisions on which coverage for the crop will automatically renew unless canceled in writing by either you or us or terminated in accordance with the policy terms.
 
@@ -62,7 +60,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Catastrophic Risk Protection Endorsement.* The part of the crop insurance policy that contains provisions of insurance that are specific to CAT.
 
-*Certified organic acreage.* Acreage in the certified organic farming operation that has been certified by a certifying agent as conforming to organic standards in accordance with 7 CFR part 205.
+*Certified organic acreage.* Acreage in the certified organic farming operation that has been certified by a certifying agent as conforming to organic standards in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 *et seq.*) and 7 CFR part 205.
 
 *Certifying agent.* A private or governmental entity accredited by the USDA Secretary of Agriculture for the purpose of certifying a production, processing or handling operation as organic.
 
@@ -88,7 +86,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *County.* Any county, parish, political subdivision of a state, or other area specified on the actuarial documents shown on your accepted application, including acreage in a field that extends into an adjoining county if the county boundary is not readily discernible.
 
-*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement. A cover crop may be considered to be a second crop.
+*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see the definition of “second crop”).
 
 *Credible data.* Data of sufficient quality and quantity to be representative of the county.
 
@@ -158,6 +156,8 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Loss limit factor.* Unless otherwise specified in the Special Provisions a factor of .18 is used to calculate the payment factor. This factor represents the percentage of the expected county yield or expected county revenue at which no additional indemnity amount is payable. For example, if the expected county yield is 100 bushels and the final county yield is 18 bushels, then no additional indemnity is due even if the yield falls below 18 bushels. The total indemnity will never be more than 100 percent of the final policy protection.
 
+*NAP.* Noninsured Crop Disaster Assistance Program published in 7 CFR part 1437, administered by FSA.
+
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
 
 *Offset.* The act of deducting one amount from another amount.
@@ -166,7 +166,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Organic crop.* A commodity that is organically produced consistent with section 2103 of the Organic Foods Act of 1990 (7 U.S.C. 6502).
 
-*Organic farming practice.* A system of plant production practices used to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
+*Organic farming practice.* A system of plant production practices used on organic acreage and transitional acreage to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
 
 *Organic plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
 
@@ -208,7 +208,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Sales closing date.* The date contained in the actuarial documents by which an application must be filed and the last date by which you may change your crop insurance coverage for a crop year.
 
-*Second crop.* With respect to a single crop year, the next occurrence of planting any commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop is planted on the same acreage and harvested for grain or seed, it is considered to be a second crop. A cover crop that is covered by FSA's noninsured crop disaster assistance program (NAP) or receives other USDA benefits associated with forage crops will be considered a second crop. A crop meeting the conditions in this definition is considered to be a second crop regardless of whether or not it is insured.
+*Second crop.* With respect to a single crop year, the next occurrence of planting any agricultural commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop that is planted on the same acreage and harvested for grain or seed, is considered a second crop. A crop that is covered by NAP or receives other USDA benefits associated with forage crops is considered a second crop. A crop meeting the conditions in this definition is considered a second crop regardless of whether it is insured.
 
 *Share.* Your insurable interest in the insured crop as an owner, operator, or tenant.
 
@@ -236,7 +236,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Total premium.* The amount of premium before subsidy, calculated in accordance with section 7(d)(1).
 
-*Transitional acreage.* Acreage on which organic farming practices are being followed that does not yet qualify to be designated as organic acreage.
+*Transitional acreage.* Acreage in transition to organic where organic farming practices are being followed, but the acreage does not yet qualify as certified organic acreage.
 
 *Trigger revenue.* The revenue amount calculated in accordance with section 12(b).
 
@@ -265,6 +265,8 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 *Void.* When the policy is considered not to have existed for a crop year.
 
 *Volatility factor.* A measure of variation of price over time found in the actuarial documents.
+
+*Volunteer crop.* A crop that was planted in a previous crop year on the applicable acreage or drifted from other acreage, successfully self-seeded, and is growing this crop year on the applicable acreage without being intentionally sown or managed.
 
 2. Life of Policy, Cancellation, and Termination
 
@@ -1372,4 +1374,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021]

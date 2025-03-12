@@ -1,0 +1,5 @@
+##### § 13.71 Applicability. #####
+
+(a) An order of compliance may be issued after notice and an opportunity for a hearing in accordance with §§ 13.73 through 13.77 whenever the Chief Counsel, a Deputy Chief Counsel, or the Assistant Chief Counsel for Enforcement has reason to believe that a person is engaging in the transportation or shipment by air of hazardous materials in violation of the Hazardous Materials Transportation Act, as amended and codified at 49 U.S.C. chapter 51, or any rule, regulation, or order issued under 49 U.S.C. chapter 51, for which the FAA exercises enforcement responsibility, and the circumstances do not require the issuance of an emergency order under 49 U.S.C. 5121(d).
+
+(b) If circumstances require the issuance of an emergency order under 49 U.S.C. 5121(d), the Chief Counsel, a Deputy Chief Counsel, or the Assistant Chief Counsel for Enforcement will issue an emergency order of compliance as described in § 13.81.

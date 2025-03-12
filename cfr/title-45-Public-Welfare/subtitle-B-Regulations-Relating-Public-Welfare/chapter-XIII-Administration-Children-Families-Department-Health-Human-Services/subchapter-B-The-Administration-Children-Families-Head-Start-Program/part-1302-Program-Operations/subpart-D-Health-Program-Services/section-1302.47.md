@@ -72,9 +72,19 @@
 
 (iii) Appropriate indoor and outdoor supervision of children at all times;
 
-(iv) Only releasing children to an authorized adult, and;
+(iv) Only releasing children to an authorized adult;
 
-(v) All standards of conduct described in § 1302.90(c).
+(v) All standards of conduct described in § 1302.90(c); and
+
+(vi) Masking, using masks recommended by CDC, for all individuals 2 years of age or older when there are two or more individuals on a vehicle owned, leased, or arranged by the Head Start program; indoors in a setting when Head Start services are provided; and for those not fully vaccinated, outdoors in crowded settings or during activities that involve sustained close contact with other people, except:
+
+(A) Children or adults when they are either eating or drinking;
+
+(B) Children when they are napping;
+
+(C) When a person cannot wear a mask, or cannot safely wear a mask, because of a disability as defined by the Americans with Disabilities Act; or
+
+(D) When a child's health care provider advises an alternative face covering to accommodate the child's special health care needs.
 
 (6) *Hygiene practices.* All staff systematically and routinely implement hygiene practices that at a minimum ensure:
 
@@ -101,3 +111,5 @@
 (8) *Disaster preparedness plan.* The program has all-hazards emergency management/disaster preparedness and response plans for more and less likely events including natural and manmade disasters and emergencies, and violence in or near programs.
 
 (c) A program must report any safety incidents in accordance with § 1302.102(d)(1)(ii).
+
+[81 FR 61412, Sept. 6, 2016, as amended at 86 FR 68101, Nov. 30, 2021]

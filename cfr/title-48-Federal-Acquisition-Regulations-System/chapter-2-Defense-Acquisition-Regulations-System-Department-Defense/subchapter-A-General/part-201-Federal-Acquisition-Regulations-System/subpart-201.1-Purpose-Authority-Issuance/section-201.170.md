@@ -1,21 +1,33 @@
 ##### 201.170 Peer reviews. #####
 
-(a) *DoD peer reviews.* (1) The Office of the Director, Defense Procurement and Acquisition Policy, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts, as follows using the procedures at PGI 201.170 -
+(a) *DPC peer reviews.* (1) The Office of the Principal Director, Defense Pricing and Contracting (DPC), using the procedures at PGI 201.170, will organize teams of reviewers and facilitate peer reviews for solicitations and contracts as follows:
 
-(i) Preaward peer reviews for competitive procurements will be conducted in three phases for all solicitations valued at $1 billion or more;
+(i) DPC will conduct the preaward peer reviews for competitive procurements prior to the three phases of the acquisition (see PGI 201.170-2(a)) for all procurements with an estimated value of $1 billion or more under major defense acquisition programs for which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)) is the milestone decision authority or USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPC-led peer reviews for acquisitions valued below the $1 billion threshold. DPC will conduct these reviews upon approval by the Director, Defense Pricing and Contracting (Contract Policy).
 
-(ii) Preaward peer reviews for noncompetitive procurements will be conducted in two phases for new contract actions valued at $500 million or more; and
+(ii) DPC will conduct the preaward peer reviews for noncompetitive procurements prior to the two phases of the acquisition (see PGI 201.170-2(b)) for contract actions, *e.g.,* new contracts, modifications to existing contracts, requests for equitable adjustment, claims valued at $1 billion or more, or for any other contract action USD(A&S) designates as requiring a peer review regardless of value. DoD components may request DPC-led peer reviews for contract actions valued below the $1 billion threshold. DPC will conduct these reviews upon approval by the Director, Defense Pricing and Contracting (Price, Cost and Finance).
 
-(iii) Postaward peer reviews will be conducted for all contracts for services valued at $1 billion or more.
+(iii) Use the following criteria to identify actions that are subject to peer review (see also FAR 1.108(c), Dollar thresholds):
 
-(2) To facilitate planning for peer reviews, the military departments and defense agencies shall provide a rolling annual forecast of acquisitions at the end of each quarter (i.e., March 31; June 30; September 30; December 31), to the Deputy Director, Defense Procurement and Acquisition Policy (Contract Policy and International Contracting) via email to *osd.pentagon.ousd-atl.mbx.peer-reviews@mail.mil.*
+(A) If the not-to-exceed amount for an undefinitized contract action or an unpriced change order exceeds the peer review threshold, then the resultant definitization modification(s) will be subject to peer review regardless of actual performance up to the point of definitization.
 
-(b) *Component peer reviews.* The military departments and defense agencies shall establish procedures for -
+(B) For indefinite delivery indefinite quantity (IDIQ) contracts that will establish pricing terms that apply to orders, use the total maximum dollar value for purposes of the peer review threshold. IDIQ contracts that will not establish pricing terms in the basic contract are not subject to peer review, but individual orders that exceed the threshold are subject to peer review.
 
-(1) Preaward peer reviews of solicitations for competitive procurements valued at less than $1 billion;
+(C) For noncompetitive contract actions, use the greater of the following when considering the firm requirement for all supplies or services:
 
-(2) Preaward peer reviews for noncompetitive procurements valued at less than $500 million; and
+(*1*) The approved Government objective amount.
 
-(3) Postaward peer reviews of all contracts for services valued at less than $1 billion.
+(*2*) The contractor proposed amount.
 
-[77 FR 19126, Mar. 30, 2012, as amended at 78 FR 54968, Sept. 9, 2013; 79 FR 51264, Aug. 28, 2014]
+(2) To facilitate planning for peer reviews, the military departments and defense agencies shall provide a rolling annual forecast of acquisitions that will be subject to DPC peer reviews at the end of each quarter (*i.e.,* March 31; June 30; September 30; December 31).
+
+(i) Military departments and defense agencies shall submit quarterly forecasts for competitive peer reviews to the Director, Defense Pricing and Contracting (Contract Policy), at *osd.pentagon.ousd-a-s.mbx.dpc-cp@mail.mil.*
+
+(ii) Military departments and defense agencies shall submit quarterly forecasts for noncompetitive peer reviews to the Director, Defense Pricing and Contracting (Price, Cost and Finance), at *osd.pentagon.ousd-a-s.mbx.dpc-pcf@mail.mil.*
+
+(b) *Component peer reviews.* The military departments and defense agencies shall establish procedures for—
+
+(1) Preaward peer reviews of solicitations for competitive procurements not subject to paragraph (a)(1)(i) of this section; and
+
+(2) Preaward peer reviews of noncompetitive procurements not subject to paragraph (a)(1)(ii) of this section.
+
+[86 FR 67877, Nov. 30, 2021]

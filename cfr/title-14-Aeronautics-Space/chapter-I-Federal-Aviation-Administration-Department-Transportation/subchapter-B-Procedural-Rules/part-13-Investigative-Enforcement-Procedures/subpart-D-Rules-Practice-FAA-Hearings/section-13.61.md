@@ -1,3 +1,3 @@
 ##### § 13.61 Argument and submittals. #####
 
-The Hearing Officer shall give the parties adequate opportunity to present arguments in support of motions, objections, and the final order. The Hearing Officer may determine whether arguments are to be oral or written. At the end of the hearing the Hearing Officer may, in the discretion of the Hearing Officer, allow each party to submit written proposed findings and conclusions and supporting reasons for them.
+The hearing officer must give the parties adequate opportunity to present arguments in support of motions, objections, and the final order. The hearing officer may determine whether arguments are to be oral or written. At the end of the hearing, the hearing officer may allow each party to submit written proposed findings and conclusions and supporting reasons for them.

@@ -1,5 +1,7 @@
 ##### § 51.52 Environmental effects of transportation of fuel and waste - Table S-4. #####
 
+Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
+
 Under § 51.50, every environmental report prepared for the construction permit stage or early site permit stage or combined license stage of a light-water-cooled nuclear power reactor, and submitted after February 4, 1975, shall contain a statement concerning transportation of fuel and radioactive wastes to and from the reactor. That statement shall indicate that the reactor and this transportation either meet all of the conditions in paragraph (a) of this section or all of the conditions of paragraph (b) of this section.
 
 (a)(1) The reactor has a core thermal power level not exceeding 3,800 megawatts;

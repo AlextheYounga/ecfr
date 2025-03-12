@@ -1,0 +1,3 @@
+##### § 13.236 Alternative dispute resolution. #####
+
+Parties may use mediation to achieve resolution of issues in controversy addressed by this subpart. Parties seeking alternative dispute resolution services may engage the services of a mutually acceptable mediator. The mediator must not participate in the adjudication under this subpart of any matter in which the mediator has provided mediation services. Mediation discussions and submissions will remain confidential consistent with the provisions of the Administrative Dispute Resolution Act and other applicable Federal laws.

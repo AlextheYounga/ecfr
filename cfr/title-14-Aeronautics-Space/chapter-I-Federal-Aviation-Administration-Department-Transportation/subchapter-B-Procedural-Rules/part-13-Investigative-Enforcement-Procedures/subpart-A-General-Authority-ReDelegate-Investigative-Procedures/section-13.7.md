@@ -1,0 +1,3 @@
+##### § 13.7 Records, documents, and reports. #####
+
+Each record, document, and report that FAA regulations require to be maintained, exhibited, or submitted to the Administrator may be used in any investigation conducted by the Administrator; and, except to the extent the use may be specifically limited or prohibited by the section which imposes the requirement, the records, documents, and reports may be used in any civil penalty action, certificate action, or other legal proceeding.

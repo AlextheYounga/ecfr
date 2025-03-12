@@ -136,11 +136,7 @@
 
 (1) A civil fine may be imposed for each violation.
 
-(2) The amount of such civil fine shall not exceed the greater of:
-
-(i) The amount of monetary gain, or value of the benefit, obtained as a result of the false or inaccurate information provided, or the amount obtained as a result of noncompliance with a requirement of FCIC; or
-
-(ii) $10,000.
+(2) The amount of such civil fine shall not exceed the maximum amount specified in 7 CFR 3.91 (b)(7).
 
 (3) Civil fines are debts owed to FCIC.
 
@@ -174,4 +170,4 @@
 
 (h) Imposition of disqualification or a civil fine under this section is in addition to any other administrative or legal remedies available under this section or other applicable law including, but not limited to, debarment and suspension.
 
-[73 FR 76888, Dec. 18, 2008, as amended at 84 FR 52997, Oct. 4, 2019]
+[73 FR 76888, Dec. 18, 2008, as amended at 84 FR 52997, Oct. 4, 2019; 86 FR 67835, Nov. 30, 2021]

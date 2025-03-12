@@ -1,6 +1,6 @@
 ##### § 457.150 Dry bean crop insurance provisions. #####
 
-The Dry Bean Crop Insurance Provisions for the 2022 and succeeding crop years are as follow
+The Dry Bean Crop Insurance Provisions for the 2022 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesDry Bean Crop Provisions
 
@@ -76,7 +76,7 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 (c) In addition to, or instead of, establishing optional units as provided in section 34(c) in the Basic Provisions, a separate optional unit may be established for each bean type (designated in actuarial documents and including any type insured by written agreement).
 
-(d) Enterprise and optional units by type may be further divided by acreage of contract seed beans if the seed bean processor contract specifies the number of acres under contract. Contract seed beans produced under a seed bean processor contract that specifies only an amount of production or a combination of acreage and production, are not eligible for separate enterprise or optional units.
+(d) Contract seed beans may qualify for a separate enterprise or optional unit only if the seed bean processor contract specifies the number of acres under contract and contract seed beans are listed as a separate type in the actuarial documents. Contract seed beans produced under a seed bean processor contract that specifies only an amount of production are not eligible for a separate enterprise or optional unit.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
@@ -321,4 +321,4 @@ In accordance with the requirements of section 14 of the Basic Provisions (§ 45
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[62 FR 6105, Feb. 11, 1997, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65175, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 81 FR 84400, Nov. 23, 2016; 86 FR 45855, Aug. 17, 2021]
+[62 FR 6105, Feb. 11, 1997, as amended at 62 FR 63633, Dec. 2, 1997; 62 FR 65175, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 81 FR 84400, Nov. 23, 2016; 86 FR 33084, June 24, 2021; 86 FR 45855, Aug. 17, 2021; 86 FR 67839, Nov. 30, 2021]

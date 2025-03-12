@@ -1,0 +1,5 @@
+##### § 13.69 Other matters: Alternative dispute resolution, standing orders, and forms. #####
+
+(a) Parties may use mediation to achieve resolution of issues in controversy addressed by this subpart. Parties seeking alternative dispute resolution services may engage the services of a mutually acceptable mediator. The mediator must not participate in the adjudication under this subpart of any matter in which the mediator has provided mediation services. Mediation discussions and submissions will remain confidential consistent with the provisions of the Administrative Dispute Resolution Act, the principles of Federal Rule of Evidence 408, and other applicable Federal laws.
+
+(b) The Director of the Office of Adjudication may issue standing orders and forms needed for the proper dispatch of business under this subpart.

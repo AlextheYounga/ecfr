@@ -1,23 +1,47 @@
-##### § 13.19 Certificate action. #####
+##### § 13.19 Certificate actions appealable to the National Transportation Safety Board. #####
 
-(a) Under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), the Administrator may reinspect any civil aircraft, aircraft engine, propeller, appliance, air navigation facility, or air agency, and may re-examine any civil airman. Under section 501(e) of the FA Act, any Certificate of Aircraft Registration may be suspended or revoked by the Administrator for any cause that renders the aircraft ineligible for registration.
+(a) The Administrator may issue an order amending, modifying, suspending, or revoking all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate if as a result of a reinspection, reexamination, or other investigation, the Administrator determines that the public interest and safety in air commerce requires it, if a certificate holder has violated an aircraft noise or sonic boom standard or regulation prescribed under 49 U.S.C. 44715(a), or if the holder of the certificate is convicted of violating 16 U.S.C. 742j-1(a).
 
-(b) If, as a result of such a reinspection re-examination, or other investigation made by the Administrator under section 609 of the FA Act, the Administrator determines that the public interest and safety in air commerce requires it, the Administrator may issue an order amending, suspending, or revoking, all or part of any type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate. This authority may be exercised for remedial purposes in cases involving the Hazardous Materials Transportation Act (49 U.S.C. 1801 *et seq.*) or regulations issued under that Act. This authority is also exercised by the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, and the Aeronautical Center Counsel. If the Administrator finds that any aircraft registered under Part 47 of this chapter is ineligible for registration, the Administrator issues an order suspending or revoking that certificate. This authority as to aircraft found ineligible for registration is also exercised by each Regional Counsel, the Aeronautical Center Counsel, and the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office.
+(b) The agency attorney will issue a notice before issuing a non-immediately effective order to amend, modify, suspend, or revoke a type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, air agency certificate, or to revoke an aircraft certificate of registration because the aircraft was used to carry out or facilitate an activity punishable under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year, and the owner of the aircraft permitted the use of the aircraft knowing that the aircraft was to be used for the activity.
 
-(c) Before issuing an order under paragraph (b) of this section, the Chief Counsel, the Assistant Chief Counsel, Enforcement, the Assistant Chief Counsel, Regulations, the Assistant Chief Counsel, Europe, Africa, and Middle East Area Office, each Regional Counsel, or the Aeronautical Center Counsel advises the certificate holder of the charges or other reasons upon which the Administrator bases the proposed action and, except in an emergency, allows the holder to answer any charges and to be heard as to why the certificate should not be amended, suspended, or revoked. The holder may, by checking the appropriate box on the form that is sent to the holder with the notice of proposed certificate action, elect to -
+(1) A notice of proposed certificate action will advise the certificate holder or aircraft owner of the charges or other reasons upon which the Administrator bases the proposed action, and allows the holder to answer any charges and to be heard as to why the certificate should not be amended, suspended, modified, or revoked.
 
-(1) Admit the charges and surrender his or her certificate;
+(2) In response to a notice of proposed certificate action described in paragraph (b)(1) of this section, the certificate holder or aircraft owner, within 15 days of the date of receipt of the notice, may -
 
-(2) Answer the charges in writing;
+(i) Surrender the certificate and waive any right to contest or appeal the charged violations and sanction, in which case the Administrator will issue an order;
 
-(3) Request that an order be issued in accordance with the notice of proposed certificate action so that the certificate holder may appeal to the National Transportation Safety Board, if the charges concerning a matter under Title VI of the FA Act;
+(ii) Answer the charges in writing by submitting information, including documents and witness statements, demonstrating that a violation of the regulations did not occur or that the proposed sanction is not warranted by the circumstances;
 
-(4) Request an opportunity to be heard in an informal conference with the FAA counsel; or
+(iii) Submit a written request for an informal conference to discuss the matter with an agency attorney and submit relevant information or documents; or
 
-(5) Request a hearing in accordance with Subpart D of this part if the charges concern a matter under Title V of the FA Act.
+(iv) Request that an order be issued in accordance with the notice of proposed certificate action so that the certificate holder or aircraft owner may appeal to the National Transportation Safety Board.
 
-Except as provided in § 13.35(b), unless the certificate holder returns the form and, where required, an answer or motion, with a postmark of not later than 15 days after the date of receipt of the notice, the order of the Administrator is issued as proposed. If the certificate holder has requested an informal conference with the FAA counsel and the charges concern a matter under Title V of the FA Act, the holder may after that conference also request a formal hearing in writing with a postmark of not later than 10 days after the close of the conference. After considering any information submitted by the certificate holder, the Chief Counsel, the Assistant Chief Counsel for Regulations and Enforcement, the Regional Counsel concerned, or the Aeronautical Center Counsel (as to matters under Title V of the FA Act) issues the order of the Administrator, except that if the holder has made a valid request for a formal hearing on a matter under Title V of the FA Act initially or after an informal conference, Subpart D of this part governs further proceedings.
+(c) In the case of an emergency order amending, modifying, suspending, or revoking a type certificate, production certificate, airworthiness certificate, airman certificate, air carrier operating certificate, air navigation facility certificate, or air agency certificate, a person affected by the immediate effectiveness of the Administrator's order may petition the National Transportation Safety Board for a review of the Administrator's determination that an emergency exists.
 
-(d) Any person whose certificate is affected by an order issued under this section may appeal to the National Transportation Safety Board. If the certificate holder files an appeal with the Board, the Administrator's order is stayed unless the Administrator advises the Board that an emergency exists and safety in air commerce requires that the order become effective immediately. If the Board is so advised, the order remains effective and the Board shall finally dispose of the appeal within 60 days after the date of the advice. This paragraph does not apply to any person whose Certificate of Aircraft Registration is affected by an order issued under this section.
+(d) A person may not petition the National Transportation Safety Board for a review of the Administrator's determination that safety in air transportation or air commerce requires the immediate effectiveness of an order where the action is based on the circumstances described in paragraph (d)(1), (2), or (3) of this section.
 
-[Doc. No. 13-14, 44 FR 63723, Nov. 5, 1979, as amended by Amdt. 13-15, 45 FR 20773, Mar. 31, 1980; Amdt. 13-19, 54 FR 39290, Sept. 25, 1989; Amdt. 13-29, 62 FR 46865, Sept. 4, 1997; 75 FR 41979, July 20, 2010]
+(1) The revocation of an individual's airman certificates for the reasons stated in paragraph (d)(1)(i) or (ii) of this section:
+
+(i) A conviction under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), of an offense punishable by death or imprisonment for more than one year if the Administrator finds that -
+
+(A) An aircraft was used to commit, or facilitate the commission of the offense; and
+
+(B) The individual served as an airman, or was on the aircraft, in connection with committing, or facilitating the commission of, the offense.
+
+(ii) Knowingly carrying out an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year; and -
+
+(A) An aircraft was used to carry out or facilitate the activity; and
+
+(B) The individual served as an airman, or was on the aircraft, in connection with carrying out, or facilitating the carrying out of, the activity.
+
+(2) The revocation of a certificate of registration for an aircraft, and any other aircraft the owner of that aircraft holds, if the Administrator finds that -
+
+(i) The aircraft was used to carry out or facilitate an activity punishable, under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance), by death or imprisonment for more than one year; and
+
+(ii) The owner of the aircraft permitted the use of the aircraft knowing that the aircraft was to be used for the activity described in paragraph (d)(2)(i) of this section.
+
+(3) The revocation of an airman certificate, design organization certificate, type certificate, production certificate, airworthiness certificate, air carrier operating certificate, airport operating certificate, air agency certificate, or air navigation facility certificate if the Administrator finds that the holder of the certificate or an individual who has a controlling or ownership interest in the holder -
+
+(i) Was convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material; or
+
+(ii) Knowingly, and with the intent to defraud, carried out or facilitated an activity described in paragraph (d)(3)(i) of this section.

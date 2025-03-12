@@ -1,0 +1,3 @@
+##### § 13.223 Standard of proof. #####
+
+The administrative law judge must issue an initial decision or must rule in a party's favor only if the decision or ruling is supported by, and in accordance with, the reliable, probative, and substantial evidence contained in the record. In order to prevail, the party with the burden of proof must prove the party's case or defense by a preponderance of reliable, probative, and substantial evidence.

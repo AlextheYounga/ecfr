@@ -1,5 +1,7 @@
 ##### § 55.33 Disposition of an initial application. #####
 
+Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
+
 (a) *Requirements for the approval of an initial application.* The Commission will approve an initial application for a license pursuant to the regulations in this part, if it finds that -
 
 (1) *Health.* The applicants medical condition and general health will not adversely affect the performance of assigned operator job duties or cause operational errors endangering public health and safety. The Commission will base its finding upon the certification by the facility licensee as detailed in § 55.23.

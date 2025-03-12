@@ -88,7 +88,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Beginning farmer or rancher.* An individual who has not actively operated and managed a farm or ranch in any state, with an insurable interest in a crop or livestock as an owner-operator, landlord, tenant, or sharecropper for more than five crop years, as determined in accordance with FCIC procedures. Any crop year's insurable interest may, at your election, be excluded if earned while under the age of 18, while in full-time military service of the United States, or while in post-secondary education, in accordance with FCIC procedures. A person other than an individual may be eligible for beginning farmer or rancher benefits if there is at least one individual substantial beneficial interest holder and all individual substantial beneficial interest holders qualify as a beginning farmer or rancher.
 
-*Buffer zone.* A parcel of land, as designated in your organic plan, that separates agricultural commodities grown under organic practices from agricultural commodities grown under non-organic practices, and used to minimize the possibility of unintended contact by prohibited substances or organisms.
+*Buffer zone.* Acreage designated in your organic plan that separates agricultural commodities grown under organic farming practices from those grown under non-organic farming practices. A buffer zone must be sufficient in size or other features, as stated in the National Organic Program published in 7 CFR part 205, to prevent or minimize the possibility of unintended contact by prohibited substances or organisms applied to adjacent land acres with an area that is part of the certified organic farming operation.
 
 *Cancellation date.* The calendar date specified in the Crop Provisions on which coverage for the crop will automatically renew unless canceled in writing by either you or us or terminated in accordance with the policy terms.
 
@@ -96,7 +96,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Catastrophic Risk Protection Endorsement.* The part of the crop insurance policy that contains provisions of insurance that are specific to catastrophic risk protection.
 
-*Certified organic acreage.* Acreage in the certified organic farming operation that has been certified by a certifying agent as conforming to organic standards in accordance with 7 CFR part 205.
+*Certified organic acreage.* Acreage in the certified organic farming operation that has been certified by a certifying agent as conforming to organic standards in accordance with the Organic Foods Production Act of 1990 (7 U.S.C. 6501 *et seq.*) and 7 CFR part 205.
 
 *Certifying agent.* A private or governmental entity accredited by the USDA Secretary of Agriculture for the purpose of certifying a production, processing or handling operation as organic.
 
@@ -122,7 +122,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Coverage begins, date.* The calendar date insurance begins on the insured crop, as contained in the Crop Provisions, or the date planting begins on the unit (see section 11 of these Basic Provisions for specific provisions relating to prevented planting).
 
-*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement. A cover crop may be considered to be a second crop (see the definition of “second crop”).
+*Cover crop.* A crop generally recognized by agricultural experts as agronomically sound for the area for erosion control or other purposes related to conservation or soil improvement, unless otherwise specified in the Special Provisions. A cover crop may be considered a second crop (see the definition of “second crop”).
 
 *Crop Provisions.* The part of the policy that contains the specific provisions of insurance for each insured crop.
 
@@ -188,6 +188,8 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or successor website.
 
+*NAP.* Noninsured Crop Disaster Assistance Program published in 7 CFR part 1437, administered by FSA.
+
 *Native sod.* Acreage that has no record of being tilled (determined in accordance with information collected and maintained by an agency of the USDA or other verifiable records that you provide and are acceptable to us) for the production of an annual crop on or before February 7, 2014, and on which the plant cover is composed principally of native grasses, grass-like plants, forbs, or shrubs suitable for grazing and browsing.
 
 *Negligence.* The failure to use such care as a reasonably prudent and careful person would use under similar circumstances.
@@ -200,7 +202,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Organic crop.* An agricultural commodity that is organically produced consistent with section 2103 of the Organic Foods Production Act of 1990 (7 U.S.C. 6502).
 
-*Organic farming practice.* A system of plant production practices used to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
+*Organic farming practice.* A system of plant production practices used on organic acreage and transitional acreage to produce an organic crop that is approved by a certifying agent in accordance with 7 CFR part 205.
 
 *Organic plan.* A written plan, in accordance with the National Organic Program published in 7 CFR part 205, that describes the organic farming practices that you and a certifying agent agree upon annually or at such other times as prescribed by the certifying agent.
 
@@ -256,7 +258,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Sales closing date.* A date contained in the Special Provisions by which an application must be filed. The last date by which you may change your crop insurance coverage for a crop year.
 
-*Second crop.* With respect to a single crop year, the next occurrence of planting any agricultural commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop that is planted on the same acreage and harvested for grain or seed is considered a second crop. A cover crop that is covered by FSA's noninsured crop disaster assistance program (NAP) or receives other USDA benefits associated with forage crops will be considered a second crop. A crop meeting the conditions stated in this definition is considered to be a second crop regardless of whether or not it is insured.
+*Second crop.* With respect to a single crop year, the next occurrence of planting any agricultural commodity for harvest following a first insured crop on the same acreage. The second crop may be the same or a different agricultural commodity as the first insured crop, except the term does not include a replanted crop. If following a first insured crop, a cover crop that is planted on the same acreage and harvested for grain or seed is considered a second crop. A crop that is covered by NAP or receives other USDA benefits associated with forage crops is considered a second crop. A crop meeting the conditions stated in this definition is considered a second crop regardless of whether it is insured.
 
 *Section.* For the purposes of unit structure, a unit of measure under a rectangular survey system describing a tract of land usually one mile square and usually containing approximately 640 acres.
 
@@ -280,7 +282,7 @@ Terms and ConditionsBasic Provisions1. Definitions
 
 *Timely planted.* Planted on or before the final planting date designated in the Special Provisions for the insured crop in the county.
 
-*Transitional acreage.* Acreage on which organic farming practices are being followed that does not yet qualify to be designated as organic acreage.
+*Transitional acreage.* Acreage in transition to organic where organic farming practices are being followed, but the acreage does not yet qualify as certified organic acreage.
 
 *USDA.* United States Department of Agriculture.
 
@@ -297,6 +299,8 @@ Terms and ConditionsBasic Provisions1. Definitions
 (2) A person, other than an individual, may be eligible for veteran farmer or rancher benefits if all substantial beneficial interest holders qualify individually as a veteran farmer or rancher in accordance with paragraph (1) of this definition; except in cases in which there is only a married couple, then a veteran and non-veteran spouse are considered a veteran farmer or rancher.
 
 *Void.* When the policy is considered not to have existed for a crop year.
+
+*Volunteer crop.* A crop that was planted in a previous crop year on the applicable acreage or drifted from other acreage, successfully self-seeded, and is growing this crop year on the applicable acreage without being intentionally sown or managed.
 
 *Whole-farm unit.* All insurable acreage of all the insured crops planted in the county in which you have a share on the date coverage begins for each crop for the crop year and for which the whole-farm unit structure is available in accordance with section 34.
 
@@ -1096,7 +1100,7 @@ Your Duties -
 
 (i) Request an extension in writing by such date and we agree to such request (Extensions will only be granted if the amount of the loss cannot be determined within such time period because the information needed to determine the amount of the loss is not available); or
 
-(ii) Have harvested farm-stored grain production and elect, in writing, to delay measurement of your farm-stored production and settlement of any potential associated claim for indemnity (Extensions will be granted for this purpose up to 180 days after the end of the insurance period).
+(ii) Have harvested farm-stored production and elect, in writing, to delay measurement of your farm-stored production and settlement of any potential associated claim for indemnity as allowed by the Special Provisions (Extensions will be granted for this purpose up to 180 days after the end of the insurance period).
 
 (A) For policies that require APH, if such extension continues beyond the date you are required to submit your production report, you will be assigned the previous year's approved yield as a temporary yield in accordance with applicable procedures.
 
@@ -1232,11 +1236,7 @@ Our Duties -
 
 (2) Even if another person plants the second crop on any acreage where the first insured crop was planted or was prevented from being planted, as applicable.
 
-(3) For prevented planting only:
-
-(i) If a volunteer crop or cover crop is hayed, grazed, or cut for silage, haylage, or baleage from the same acreage, after the late planting period (or after the final planting date if a late planting period is not applicable) for the first insured crop in the same crop year, or is otherwise harvested any time after the late planting period (or after the final planting date if a late planting period is not applicable); or
-
-(ii) If you receive cash rent for any acreage on which you were prevented from planting.
+(3) To a prevented planting payment if a cover crop that is planted after the late planting period (or after the final planting date if a late planting period is not applicable) is harvested for grain or seed by you or another person, at any time.
 
 (h) You may receive a full indemnity, or a full prevented planting payment for a first insured crop when a second crop is planted on the same acreage in the same crop year, if each of the following conditions are met, regardless of whether or not the second crop is insured or sustains an insurable loss:
 
@@ -1434,11 +1434,13 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (B) The crop planted was a cover crop; or
 
-(C) No benefit, including any benefit under any USDA program, was derived from the crop; or
+(C) No benefit, including any benefit under any USDA program, was derived from the crop;
 
-(ii) Any volunteer crop is hayed, grazed or otherwise harvested within or prior to the late planting period or on or prior to the final planting date if no late planting period is applicable;
+(ii) Any volunteer crop is harvested for grain or seed at any time;
 
-(iii) The act of haying or grazing a cover crop contributed to the acreage being prevented from being planted or the cover crop was otherwise harvested prior to the end of the late planting period.
+(iii) The act of haying, grazing, or cutting for silage, haylage, or baleage a cover crop or volunteer crop contributed to the acreage being prevented from being planted;
+
+(iv) A cover crop is planted within or prior to the late planting period or on or prior to the final planting date if no late planting period is applicable and is harvested for grain or seed at any time.
 
 (6) For which planting history or conservation plans indicate the acreage would have remained fallow for crop rotation purposes or on which any pasture or forage crop is in place on the acreage during the time planting of the insured crop generally occurs in the area. Cover plants that are seeded, transplanted, or that volunteer:
 
@@ -1448,7 +1450,7 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (7) That exceeds the number of acres eligible for a prevented planting payment;
 
-(8) That exceeds the number of eligible acres physically available for planting;
+(8) That exceeds the number of eligible acres physically available for planting.
 
 (i) In order for acreage to be considered physically available for planting, the acreage must:
 
@@ -1460,15 +1462,17 @@ Unless limited by the Crop Provisions, insurance will be provided for acreage pl
 
 (D) Not have pasture, rangeland or forage in place (see section 17(f)(6));
 
-(E) In at least 1 of the 4 most recent crop years immediately preceding the current crop year, have been planted to a crop:
+(E) Unless otherwise allowed in the Special Provisions, in at least 1 of the 4 most recent crop years immediately preceding the current crop year, have been planted to a crop (planted includes annual regrowth of a perennial forage or mint crop):
 
 (*1*) Using recognized good farming practices;
 
-(*2*) Insured under the authority of the Act; and
+(*2*) Insured under the authority of the Act or NAP; and
 
-(*3*) That was harvested, or if not harvested, was adjusted for claim purposes under the authority of the Act due to an insured cause of loss (other than a cause of loss related to flood, excess moisture, drought, or other cause of loss specified in the Special Provisions).
+(*3*) That was harvested, or if not harvested, was adjusted for claim purposes under the authority of the Act or NAP due to an insured cause of loss (other than a cause of loss related to flood, excess moisture, drought, or other cause of loss specified in the Special Provisions).
 
-(ii) Once any acreage does not satisfy the criteria set-forth in section 17(f)(8)(i)(E)*(1), (2),* and *(3)* in 1 of the 4 most recent crop years immediately preceding the current crop year, such acreage will be considered physically unavailable for planting until the acreage has been planted to a crop in accordance with 17(f)(8)(i)(E)*(1), (2),* and *(3)* for 2 consecutive crop years.
+(ii) If you do not meet the requirements of section 17(f)(8)(i)(E) because a crop specific plan of insurance offered under the authority of the Act or NAP was not available for the crops planted on the acreage in the 4 most recent crop years, the acreage may be considered physically available for planting if you can prove the acreage was planted and harvested using good farming practices in at least 2 consecutive years out of the 4 most recent crop years immediately preceding the current crop year.
+
+(iii) Once any acreage does not satisfy the requirements in section 17(f)(8)(i)(E) or 17(f)(8)(ii), such acreage will be considered physically unavailable for planting until the acreage has been planted to a crop in accordance with 17(f)(8)(i)(E) for 2 consecutive crop years, or until such acreage meets the requirements of 17(f)(8)(ii).
 
 (9) For which you cannot provide proof that you had the inputs (including, but not limited to, sufficient equipment and labor) available to plant and produce a crop with the expectation of producing at least the yield used to determine your production guarantee or amount of insurance. Evidence that you previously had planted the crop on the unit will be considered adequate proof unless:
 

@@ -1,0 +1,5 @@
+##### § 13.230 Record. #####
+
+(a) *Exclusive record.* The pleadings, transcripts of the hearing and prehearing conferences, exhibits admitted into evidence, rulings, motions, applications, requests, briefs, and responses thereto, constitute the exclusive record for decision of the proceedings and the basis for the issuance of any orders in the proceeding. Any proceedings regarding the disqualification of an administrative law judge must be included in the record. Though only exhibits admitted into evidence are part of the record before an administrative law judge, evidence proffered but not admitted is also part of the record on appeal, as provided by § 13.225.
+
+(b) *Examination and copying of record.* The parties may examine the record at the FAA Hearing Docket and may obtain copies of the record upon payment of applicable fees. Any other person may obtain copies of the releasable portions of the record in accordance with applicable law.
