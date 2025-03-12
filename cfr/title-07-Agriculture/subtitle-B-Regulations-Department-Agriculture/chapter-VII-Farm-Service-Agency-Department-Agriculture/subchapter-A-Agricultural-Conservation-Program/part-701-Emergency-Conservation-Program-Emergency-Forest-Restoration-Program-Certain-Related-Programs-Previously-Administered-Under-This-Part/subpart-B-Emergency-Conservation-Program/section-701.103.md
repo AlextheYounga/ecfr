@@ -1,8 +1,8 @@
-##### § 701.103 Scope. #####
+##### § 701.103 Eligible losses, objective, and payments. #####
 
-(a) FSA will provide cost-share assistance to farmers and ranchers to rehabilitate farmland damaged by wind erosion, floods, hurricanes, or other natural disasters as determined by the Deputy Administrator, and to carry out emergency water conservation measures during periods of severe drought, subject to the availability of funds and only for areas, natural disasters, and time periods approved by the Deputy Administrator.
+(a) FSA will provide cost-share assistance to farmers and ranchers to rehabilitate farmland damaged by wind erosion, floods, hurricanes, wildfire, or other natural disasters as determined by the Deputy Administrator, and to carry out emergency water conservation measures during periods of severe drought, subject to the availability of funds and only for areas, natural disasters, and time periods approved by the Deputy Administrator.
 
-(b) The objective of the ECP is to make cost-share assistance available to eligible participants on eligible land for certain practices, to rehabilitate farmland damaged by floods, hurricanes, wind erosion, or other natural disasters, and for the installation of water conservation measures during periods of severe drought.
+(b) The objective of the ECP is to make cost-share assistance available to eligible participants on eligible land for certain practices, to rehabilitate farmland damaged by floods, hurricanes, wildfire, wind erosion, or other natural disasters, and for the installation of water conservation measures during periods of severe drought.
 
 (c) Payments may also be made under this subpart for:
 
@@ -12,4 +12,4 @@
 
 (d) Payments under this part are subject to the availability of appropriated funds and any limitations that may otherwise be provided for by Congress.
 
-[69 FR 10302, Mar. 4, 2004. Redesignated and amended at 75 FR 70088, Nov. 17, 2010]
+[69 FR 10302, Mar. 4, 2004. Redesignated and amended at 75 FR 70088, Nov. 17, 2010; 84 FR 32841, July 10, 2019]
