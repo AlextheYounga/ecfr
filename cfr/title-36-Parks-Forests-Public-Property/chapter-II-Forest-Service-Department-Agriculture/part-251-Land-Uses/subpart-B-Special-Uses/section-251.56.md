@@ -1,5 +1,7 @@
 ##### § 251.56 Terms and conditions. #####
 
+Link to an amendment published at 85 FR 41393, July 10, 2020.
+
 (a) *General.* (1) Each special use authorization must contain:
 
 (i) Terms and conditions which will:

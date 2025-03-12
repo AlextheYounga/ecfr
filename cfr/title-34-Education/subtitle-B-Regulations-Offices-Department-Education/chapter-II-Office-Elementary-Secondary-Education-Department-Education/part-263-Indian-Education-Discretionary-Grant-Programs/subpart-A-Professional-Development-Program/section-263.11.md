@@ -1,5 +1,7 @@
 ##### § 263.11 What are the grantee post-award requirements? #####
 
+Link to an amendment published at 85 FR 41378, July 10, 2020.Link to an amendment published at 85 FR 41379, July 10, 2020.
+
 (a) Prior to providing funds or services to a participant, the grantee must conduct a payback meeting with the participant to explain the costs of training and payback responsibilities following training.
 
 (b) The grantee must report to the Secretary all participant training and payback information in a manner specified by the Department or its designee.

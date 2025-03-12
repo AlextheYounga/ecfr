@@ -1,5 +1,7 @@
 ##### § 263.3 What definitions apply to the Professional Development program? #####
 
+Link to an amendment published at 85 FR 41377, July 10, 2020.
+
 The following definitions apply to the Professional Development program:
 
 *Bureau-funded school* means a Bureau of Indian Education school, a contract or grant school, or a school for which assistance is provided under the Tribally Controlled Schools Act of 1988.

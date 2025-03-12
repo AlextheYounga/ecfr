@@ -1,0 +1,21 @@
+##### § 900.4 Institution of proceeding. #####
+
+(a) *Filing and contents of the notice of hearing.* The proceeding shall be instituted by filing the notice of hearing with the hearing clerk. The notice of hearing shall contain a reference to the authority under which the marketing agreement or marketing order is proposed; shall define the scope of the hearing as specifically as may be practicable; shall describe any alternative procedures established pursuant to paragraph (d) of this section; shall contain either the terms or substance of the proposed marketing agreement or marketing order or a description of the subjects and issues involved and shall state the industry, area, and class of persons to be regulated, the time and place of such hearing, and the place where copies of such proposed marketing agreement or marketing order may be obtained or examined. The time of the hearing shall not be less than 15 days after the date of publication of the notice in the Federal Register, as provided in this subpart, unless the Administrator shall determine that an emergency exists which requires a shorter period of notice, in which case the period of notice shall be that which the Administrator may determine to be reasonable in the circumstances: Provided, That, in the case of hearings on amendments to marketing agreements or marketing orders, the time of the hearing may be less than 15 days but shall not be less than 3 days after the date of publication of the notice in the Federal Register.
+
+(b) *Giving notice of hearing and supplemental publicity.* (1) The Administrator shall give or cause to be given notice of hearing in the following manner:
+
+(i) By publication of the notice of hearing in the Federal Register;
+
+(ii) By mailing a true copy of the notice of hearing, using a postal or other delivery service or electronic communication, to each of the persons known to the Administrator to be interested therein;
+
+(iii) By issuing a press release containing the complete text or a summary of the contents of the notice of hearing and making the same available to such newspapers in the area proposed to be subjected to regulation as reasonably will tend to bring the ntoice to the attention of the persons interested therein;
+
+(iv) By forwarding copies of the notice of hearing addressed to the governors of such of the several States of the United States and to executive heads of such of the Territories and possessions of the United States as the Administrator, having due regard for the subject matter of the proposal and the public interest, shall determine, should be notified.
+
+(2) Legal notice of the hearing shall be deemed to be given if notice is given in the manner provided by paragraph (b)(1)(i) of this section; and failure to give notice in the manner provided in paragraph (b)(1)(ii), (iii), and (iv) of this section shall not affect the legality of the notice.
+
+(c) *Record of notice and supplemental publicity.* There shall be filed with the hearing clerk or submitted to the judge at the hearing an affidavit or certificate of the person giving the notice provided in paragraph (b)(1) (iii) and (iv) of this section. In regard to the provisions relating to mailing in paragraph (b)(1)(ii) of this section, a determination by the Administrator that such provisions have been complied with shall be filed with the hearing clerk or submitted to the judge at the hearing. In the alternative, if notice is not given in the manner provided in paragraph (b)(1)(ii), (iii), and (iv) of this section there shall be filed with the hearing clerk or submitted to the judge at the hearing a determination by the Administrator that such notice is impracticable, unnecessary, or contrary to the public interest with a brief statement of the reasons for such determination. Determinations by the Administrator as herein provided shall be final.
+
+(d) *Alternative procedures.* The Administrator may establish alternative procedures for the proceeding that are in addition to or in lieu of one or more procedures in this subpart, provided that the procedures are consistent with 5 U.S.C. 556 and 557. The alternative procedures must be described in the notice of hearing, as required in paragraph (a) of this section.
+
+[25 FR 5907, June 28, 1960, as amended at 83 FR 52944, Oct. 19, 2018; 85 FR 41174, July 9, 2020]

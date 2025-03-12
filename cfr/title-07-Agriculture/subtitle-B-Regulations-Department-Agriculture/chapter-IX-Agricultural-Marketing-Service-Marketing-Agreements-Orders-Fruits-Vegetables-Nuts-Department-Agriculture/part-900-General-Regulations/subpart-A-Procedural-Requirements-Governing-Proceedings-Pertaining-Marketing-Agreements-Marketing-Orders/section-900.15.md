@@ -1,0 +1,11 @@
+##### § 900.15 Filing; extensions of time; effective date of filing; and computation of time. #####
+
+(a) *Filing, number of copies.* Except as is provided otherwise in this subpart, all documents or papers required or authorized by the foregoing provisions of this subpart to be filed with the hearing clerk shall be filed in quadruplicate. Any document or paper, so required or authorized to be filed with the hearing clerk, shall, during the course of an oral hearing, be filed with the presiding officer. The provisions of this subpart concerning filing with the hearing clerk of hearing notices, recommended and final decisions, marketing agreements and orders, and all documents described in § 900.17 shall be met by filing a true copy thereof with the hearing clerk.
+
+(b) *Extensions of time.* The time for the filing of any document or paper required or authorized by the foregoing provisions of this subpart to be filed may be extended by the judge before the record is certified by the judge or by the Administrator (after the record is so certified by the judge but before it is transmitted to the Secretary), or by the Secretary (after the record is transmitted to the Secretary) upon request filed, and if, in the judgment of the judge, Administrator, or the Secretary, as the case may be, there is good reason for the extension. All rulings made pursuant to this paragraph shall be filed with the hearing clerk.
+
+(c) *Effective date of filing.* Any document or paper required or authorized in this subpart to be filed shall be deemed to be filed at the time it is received by the Hearing Clerk.
+
+(d) *Computation of time.* Each day, including Saturdays, Sundays, and legal public holidays, shall be included in computing the time allowed for filing any document or paper: Provided, That when the time for filing a document or paper expires on a Saturday, Sunday, or legal public holiday, the time allowed for filing the document or paper shall be extended to include the following business day.
+
+[25 FR 5907, June 28, 1960, as amended at 30 FR 254, Jan. 9, 1965; 67 FR 10829, Mar. 11, 2002]

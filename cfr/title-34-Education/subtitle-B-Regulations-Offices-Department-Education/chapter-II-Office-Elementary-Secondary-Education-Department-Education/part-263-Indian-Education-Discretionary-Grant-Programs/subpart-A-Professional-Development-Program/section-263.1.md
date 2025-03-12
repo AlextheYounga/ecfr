@@ -1,5 +1,7 @@
 ##### § 263.1 What is the Professional Development program? #####
 
+Link to an amendment published at 85 FR 41376, July 10, 2020.
+
 (a) The Professional Development program provides grants to eligible entities to -
 
 (1) Increase the number of qualified Indian individuals in professions that serve Indian people;

@@ -36,11 +36,11 @@
 
 (iii) In calculating the amounts in paragraphs (a)(5)(i) and (ii) of this section, an entity shall count the average daily notional amount of an uncleared swap, an uncleared security-based swap, a foreign-exchange forward, or a foreign exchange swap between the entity and a margin affiliate only one time and shall not count a swap that is exempt pursuant to § 23.150(b) or a security-based swap that is exempt pursuant to section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)).
 
-(6) September 1, 2020 for the requirements in § 23.152 for initial margin for any uncleared swaps where both -
+(6) September 1, 2021 for the requirements in § 23.152 for initial margin for any uncleared swaps where both -
 
 (i) The covered swap entity combined with all its margin affiliates; and
 
-(ii) Its counterparty combined with all its margin affiliates have an average daily aggregate notional amount of uncleared swaps, uncleared security-based swaps, foreign exchange forwards, and foreign exchange swaps in March, April, and May 2020 that exceeds $50 billion, where such amounts are calculated only for business days; and where
+(ii) Its counterparty combined with all its margin affiliates have an average daily aggregate notional amount of uncleared swaps, uncleared security-based swaps, foreign exchange forwards, and foreign exchange swaps in March, April, and May 2021 that exceeds $50 billion, where such amounts are calculated only for business days; and where
 
 (iii) In calculating the amounts in paragraphs (a)(6)(i) and (ii) of this section, an entity shall count the average daily notional amount of an uncleared swap, an uncleared security-based swap, a foreign exchange forward, or a foreign exchange swap between the entity and a margin affiliate only one time and shall not count a swap that is exempt pursuant to § 23.150(b) or a security-based swap that is exempt pursuant to section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o.10(e)).
 
@@ -76,4 +76,4 @@
 
 (B) Such other date permitted by transitional provisions under Article 35 of Commission Delegated Regulation (EU) No. 2016/2251, as amended.
 
-[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 84 FR 12071, Apr. 1, 2019; 85 FR 19882, Apr. 9, 2020]
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 84 FR 12071, Apr. 1, 2019; 85 FR 19882, Apr. 9, 2020; 85 FR 41352, July 10, 2020]

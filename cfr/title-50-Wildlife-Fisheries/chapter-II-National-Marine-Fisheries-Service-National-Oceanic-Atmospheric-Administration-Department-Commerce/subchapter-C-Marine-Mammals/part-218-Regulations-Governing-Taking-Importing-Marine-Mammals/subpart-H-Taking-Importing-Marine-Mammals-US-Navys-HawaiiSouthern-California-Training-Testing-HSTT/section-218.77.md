@@ -22,4 +22,4 @@
 
 (ii) If, through adaptive management, the modifications to the mitigation, monitoring, or reporting measures are substantial, NMFS will publish a notice of planned LOA in the Federal Register and solicit public comment.
 
-(2) *Emergencies.* If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in LOAs issued pursuant to §§ 216.106 of this chapter and 218.76, an LOA may be modified without prior notice or opportunity for public comment. Notice would be published in the Federal Register within thirty days of the action.
+(2) *Emergencies.* If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in LOAs issued pursuant to §§ 216.106 of this chapter and 218.76, an LOA may be modified without prior notice or opportunity for public comment. Notice would be published in the Federal Register within 30 days of the action.

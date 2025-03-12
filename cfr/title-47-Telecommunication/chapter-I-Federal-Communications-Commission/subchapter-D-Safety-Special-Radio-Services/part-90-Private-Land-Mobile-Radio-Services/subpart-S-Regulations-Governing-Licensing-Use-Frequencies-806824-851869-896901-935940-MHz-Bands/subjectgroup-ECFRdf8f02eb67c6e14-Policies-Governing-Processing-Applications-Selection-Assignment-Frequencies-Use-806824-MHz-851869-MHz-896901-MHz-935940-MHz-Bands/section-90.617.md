@@ -1,5 +1,7 @@
 ##### § 90.617 Frequencies in the 809.750-824/854.750-869 MHz, and 896-901/935-940 MHz bands available for trunked, conventional or cellular system use in non-border areas. #####
 
+Link to an amendment published at 85 FR 41417, July 10, 2020.
+
 The following channels will be available at locations farther then 110 km (68.4 miles) from the U.S./Mexico border and 140 km (87 miles) from the U.S./Canadian border (“non-border areas”).
 
 (a) Unless otherwise specified, the channels listed in Table 1 and paragraph (a)(1) of this section are available for to eligible applicants in the Public Safety Category which consists of licensees eligible in the Public Safety Pool of subpart B of this part. 800 MHz high density cellular systems as defined in § 90.7 are prohibited on these channels. These frequencies are available in non-border areas. Specialized Mobile Radio Systems will not be authorized in this category. These channels are available for intercategory sharing as indicated in § 90.621(e).

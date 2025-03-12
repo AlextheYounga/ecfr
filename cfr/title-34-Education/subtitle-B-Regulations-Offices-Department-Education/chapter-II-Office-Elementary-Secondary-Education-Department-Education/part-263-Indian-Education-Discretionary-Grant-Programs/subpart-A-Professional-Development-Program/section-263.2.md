@@ -1,5 +1,7 @@
 ##### § 263.2 Who is eligible to apply under the Professional Development program? #####
 
+Link to an amendment published at 85 FR 41377, July 10, 2020.
+
 (a) In order to be eligible for either pre-service or in-service training programs, an applicant must be an eligible entity which means -
 
 (1) An institution of higher education, including an Indian institution of higher education;

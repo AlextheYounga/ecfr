@@ -1,5 +1,7 @@
 ##### § 263.5 What priority is given to certain projects and applicants? #####
 
+Link to an amendment published at 85 FR 41378, July 10, 2020.
+
 (a) The Secretary gives competitive preference priority to -
 
 (1) An application submitted by an Indian tribe, Indian organization, or an Indian institution of higher education that is eligible to participate in the Professional Development program. A consortium application of eligible entities that meets the requirements of 34 CFR 75.127 through 75.129 and includes an Indian tribe, Indian organization, or Indian institution of higher education will be considered eligible to receive preference under this priority only if the lead applicant for the consortium is the Indian tribe, Indian organization, or Indian institution of higher education. In order to be considered a consortium application, the application must include the consortium agreement, signed by all parties; or

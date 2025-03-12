@@ -1,5 +1,7 @@
 ##### § 251.51 Definitions. #####
 
+Link to an amendment published at 85 FR 41392, July 10, 2020.
+
 *Applicant* - any individual or entity that applies for a special use authorization.
 
 *Authorized officer* - any employee of the Forest Service to whom has been delegated the authority to perform the duties described in this part.

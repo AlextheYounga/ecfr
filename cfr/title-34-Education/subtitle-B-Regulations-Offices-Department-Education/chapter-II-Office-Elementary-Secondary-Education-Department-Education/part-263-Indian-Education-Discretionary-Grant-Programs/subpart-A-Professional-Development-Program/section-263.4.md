@@ -1,5 +1,7 @@
 ##### § 263.4 What costs may a Professional Development program include? #####
 
+Link to an amendment published at 85 FR 41377, July 10, 2020.
+
 (a) A Professional Development program may include, as training costs, assistance to -
 
 (1) Fully finance a student's educational expenses including tuition, books, and required fees; health insurance required by the institution of higher education; stipend; dependent allowance; technology costs; program required travel; and instructional supplies; or

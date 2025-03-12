@@ -1,5 +1,7 @@
 ##### § 263.6 How does the Secretary evaluate applications for the Professional Development program? #####
 
+Link to an amendment published at 85 FR 41378, July 10, 2020.
+
 The Secretary uses the procedures for establishing selection criteria and factors in 34 CFR 75.200 through 75.210 to establish the criteria and factors used to evaluate applications submitted in a grant competition for the Professional Development program. The Secretary may also consider one or more of the criteria and factors listed in paragraphs (a) through (e) of this section to evaluate applications.
 
 (a) *Need for project.* In determining the need for the proposed project, the Secretary considers one or more of the following:

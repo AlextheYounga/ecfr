@@ -1,5 +1,7 @@
 ##### § 501.21 Customized Postage products. #####
 
+Link to an amendment published at 85 FR 41395, July 10, 2020.
+
 (a) *Definitions.* (1) As used in this section, a *provider* is:
 
 (i) A Postage Evidencing System provider as defined under § 501.1(d) that is authorized by the Postal Service to produce Customized Postage products in accordance with this section and subject to any additional requirements set forth in individual approval letters; or
